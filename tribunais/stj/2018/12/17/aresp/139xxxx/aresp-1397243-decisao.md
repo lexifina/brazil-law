@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 283 do STJ (e-STJ fls. 866/868).
+O acórdão recorrido está assim ementado (e-STJ fls. 719/720):
+APELAÇÃO CÍVEL - CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE UNIDADES CONDOMINIAIS NA PLANTA - ALEGADA DIVERGÊNCIA ENTRE A METRAGEM PROMETIDA E A ENTREGUE - INEXISTÊNCIA - ÁREA PRIVATIVA QUE CORRESPONDE À SOMA DAS ÁREAS DO APARTAMENTO E DA GARAGEM - CONTRATO CLARO NESSE SENTIDO - DEVER DE INFORMAÇÃO OBSERVADO PELA VENDEDORA - BOA -FÉ CARACTERIZADA - PARECERES APRESENTADOS COM A INICIAL QUE INDICAM QUE A METRAGEM PROMETIDA FOI A EFETIVAMENTE ENTREGUE - REDISTRIBUIÇÃO DA SUCUMBÊNCIA HONORÁRIOS RECURSAIS ARBITRADOS.
+Ao interpretar o contrato, o julgador deve considerar o sentido dado às palavras pela generalidade das pessoas, o uso do lugar da celebração e do ramo da atividade econômica dentro do qual foi celebrado.
+RECURSO CONHECIDO E PROVIDO.
+Os primeiros embargos de declaração opostos foram acolhidos e os segundos rejeitados (e-STJ fls. 734/737 e 769/781).
+No especial (e-STJ fls. 787/822), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes alegaram, além de divergência jurisprudencial, ofensa aos seguintes preceitos normativos (e-STJ fls. 797/798):
+a) artigo 926, caput, do Novo Código de Processo Civil, por esta Colenda Câmara Julgadora, como forma a explicitar o motivo da inaplicabilidade desse preceito legal à situação em voga, a fim de evitar decisões conflitantes de Instâncias Inferiores, em contrariedade ao que fora entendido pelo próprio Superior Tribunal de Justiça acerca do tema, em caso exatamente idêntico ao aqui debatido, o que acarreta em verdadeira violação aos Princípios do Duplo Grau de Jurisdição, Segurança Jurídica, autoridade daquela Corte Superior e própria função nomofilácica;
+b) artigo 4º, inciso I, do Código de Defesa do Consumidor, a fim de explicitar o motivo da inaplicabilidade desse preceito legal, pois, pela dicção do retro mencionado dispositivo, os Embargantes são presumidamente vulneráveis, ou seja, não detinham condições de verificar inicialmente e facilmente que a "área privativa" apresentada em contrato e Matrícula seria pertinente à soma da metragem da unidade habita cional com a vaga de garagem, pois fácil perceber que não há qualquer informação precisa e clara, corroborado pelas próprias conclusões da arquiteta/perita judicial;
+c) artigos 4º, caput, 69, inciso III, 30, 31, caput, e 37, caput e § 1º, do Código de Defesa do Consumidor, para que seja explicitada a inaplicabilidade desses dispositivos legais, visto que a atitude da Embargada quebrou princípios e direitos básicos do direito do consumidor, quais sejam, INFORMAÇÃO e TRANSPARÊNCIA;
+d) artigos 47, do Código de Defesa do Consumidor, e 423, do Código Civil de 2002, devendo ser explicitada a inaplicabilidade desses preceitos legais ao caso, pois, diante da situação confusa e ambígua constante entre contrato, matrícula do imóvel e realidade, sendo quebrada uma transparência e informação, a interpretação deveria ser a mais favorável ao consumidor/comprador.
+Sustentam, em síntese, que as unidades habitacionais por eles adquiridas, mediante compromisso de compra e venda firmados com a recorrida, apresentam metragem inferior a contratada.
+No agravo (e-STJ fls. 871/889), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 891).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 723/725):
+No mérito, a presente lide exige do julgador a análise e a interpretação das cláusulas contratuais que versam sobre a metragem dos imóveis compromissados à venda.
+O Código Civil trata do assunto em seus artigos 112 e 113, verbis:
+(..)
+Noutros termos, as balizas interpretativas dos contratos residem na boa-fé das partes, bem como nos usos do lugar e da atividade econômica dentro do qual estão inseridos.
+No caso em tela, tratam-se de contratos de promessa de compra e venda de unidades integrantes de condomínio edilício, em construção, as quais seriam compostas por áreas privativas e áreas de uso comum.
+Todos os instrumentos apresentam praticamente a mesma redação, permitindo a análise do primeiro deles como paradigma, cuja solução se estenderá aos demais.
+O primeiro contrato, assinado pelos dois primeiros Apelados, prevê como área privativa a soma da unidade com a área de garagem:
+(..)
+A redação da cláusula, portanto, é bastante clara no sentido de que a área privativa correspondia ao apartamento nº 102 e à vaga de garagem nº 277. É possível depreender, ainda, que a área privativa somava 72,100m2, que a área real de uso comum correspondia a 23,755m2, e que ambas totalizavam 95,855m2.
+A mesma redação foi adotada nos contratos dos demais Apelados, relativos às unidades ns. 103 da mesma Torre, 507 da Torre C - Pulse, 107 da Torre Update Bosca, e 707 da Torre G - Time, todos acostados aos autos, autorizando, portanto, idêntica conclusão em relação a eles. É de conhecimento comum que, em se tratando de condomínio edilício, a área de uso exclusivo integra o apartamento e a garagem respectiva, e os ajustes não apresentam quaisquer artifícios no sentido de mascarar a real metragem do imóvel, tampouco induzem o comprador a erro quanto aos itens que comporiam a área privativa.
+Nessa situação, impõe-se reconhecer que a informação foi clara e adequada, estando em conformidade com os princípios da boa-fé e transparência.
+Ao contrário do que entendeu o Juízo a quo, a ausência de especificação da metragem da unidade em separado daquela relativa à garagem não prejudica a adequada informação ao consumidor, especialmente considerando que a área destinada a estacionamento é padronizada.
+Não se pode ignorar, ademais, que a prática no ramo imobiliário é exatamente a que foi utilizada pela Apelante, no contrato.
+Por fim, mister anotar que os pareceres técnicos apresentados pelos Apelados, na inicial, comprovam que a área privativa construída é exatamente a mesma prevista no contrato.
+A insurgência dos recorrentes não pode ser sustentada apenas com base nos arts. 926 do CPC/2015, 4º, I, do CDC, 4º, caput, 6º, III, 30, 31, caput, e 37, caput e § 1º, e 47 do CDC e 423 do CC/2002, os quais não regulam a matéria da forma como tratada nos autos. Note-se que o Tribunal aplicou ao caso os arts. 112 e 113 do CPC/2015. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além do mais, dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+No que respeita ao apontado dissídio jurisprudencial, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012, REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011, EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010, AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
