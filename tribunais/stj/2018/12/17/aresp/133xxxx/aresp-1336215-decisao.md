@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. LOCAÇÃO COMERCIAL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+GT PARTICIPAÇÕES LTDA. (GT) ajuizou ação de despejo cumulada com cobrança de aluguéis contra GUILHERME SOUZA PEREZ - MEI e outros (GUILHERME e outros), alegando o inadimplemento de contrato de locação comercial.
+A sentença julgou parcialmente procedente o pedido, condenando GUILHERME e outros ao pagamento dos alugueres, encargos vencidos até a data da imissão na posse e demais valores exigidos na petição inicial, inclusive multa contratual (e-STJ, fls. 192/197).
+Interposta apelação por GUILHERME e outros, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado (e-STJ, fls. 260/267):
+Apelação. Ação de despejo com cobrança de alugueis. Reconvenção. Deserção em relação a dois dos apelantes, aos quais indeferida a gratuidade da justiça, sem o recolhimento das custas de preparo. Locação de imóvel não residencial - Parcial procedência da ação e improcedência da reconvenção - Impossibilidade de obtenção de alvará para atividade comercial - Responsabilidade que não pode ser imputada ao locador - Validade do contrato - Sentença mantida. Recurso desprovido.
+Inconformados, GUILHERME e outros interpuseram recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação do art. 22, I, da Lei nº 8.245/91 e divergência jurisprudencial, aduzindo, em síntese, que é dever do locador entregar o imóvel em condições de servir ao uso a que se destina, razão pela qual é nulo o contrato de locação, pois GT teria escondido o fato de que no imóvel não poderia ser instalado um restaurante, ramo de atividade expressamente indicado no contrato.
+GT ofereceu contrarrazões (e-STJ, fls. 321/325).
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do Tribunal de origem inadmitiu o apelo nobre sob o fundamento de intempestividade do recurso especial. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação do referido óbice.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+GUILHERME e outros sustentaram que o locador escondeu o fato de que no imóvel não poderia ser instalado um restaurante, o que inviabilizou a atividade empresarial.
+Ocorre que o Tribunal de origem concluiu que não era possível inferir que houve negativa de funcionamento de um restaurante no local, pois no pedido de alvará constavam ainda outras atividades, salientando que anteriormente o imóvel já era ocupado por um restaurante, nos termos da seguinte fundamentação:
+Com efeito, como bem anotou a r. Sentença, consta do pedido de alvará (vide fl. 112, 124 e 180) outras atividades além daquela prevista em contrato (restaurante), tais como "bares", "outros", "casa de festas" e "eventos". Portanto, não é possível dizer que houve negativa de funcionamento de um restaurante no local, certo de que anteriormente ao réu já funcionava ali um restaurante (e-STJ, fl. 265).
+Portanto, alterar a conclusão do Tribunal a quo, para reconhecer que havia proibição de instalação de restaurante no imóvel, ensejaria indevida incursão fático-probatória, em manifesta ofensa ao disposto na Súmula nº 7 do STJ.
+Ademais, quanto à cobrança dos aluguéis, o Tribunal de origem salientou que a posse de GUILHERME e outros foi mantida até o ajuizamento da demanda, o que implica o pagamento dos aluguéis respectivos, nos seguintes termos:
+o réu soube da impossibilidade de expedição do alvará em outubro de 2015 (vide fl. 138), mas não entregou o imóvel desde logo, permanecendo na posse até o ajuizamento da demanda, continuando a atividade empresarial até junho de 2016 (vide fl. 180). Deve, portanto, pagar pelos meses de aluguel respectivos (e-STJ, fls. 266/267).
+Verifica-se que o fundamento acima destacado não foi impugnado de forma específica nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de GUILHERME e outros, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
