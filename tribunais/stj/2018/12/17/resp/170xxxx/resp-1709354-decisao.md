@@ -1,0 +1,16 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. PIS/COFINS. CRÉDITO ESCRITURAL E CRÉDITO PRESUMIDO. CORREÇÃO MONETÁRIA. DEMORA INJUSTIFICADA NA ANÁLISE DO PEDIDO ADMINISTRATIVO. TERMO INICIAL DA ATUALIZAÇÃO MONETÁRIA. APLICAÇÃO DO ART. 24. DA LEI 11.457/2007.MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS: RESP"S 1.768.415/SC, 1.768.060/RS E 1.767.945/RS. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 2a. Região, assim ementado:
+MANDADO DE SEGURANÇA. NÃO MANIFESTAÇÃO PODER PÚBLICO NO PRAZ0 LEGAL. OMISSÃO REITERADA. NÃO INCIDÊNCIA DE DECADÊNCIA. VIOLAÇÃO PRINCÍPIOS CONSTITUCIONAIS. CONCESSÃO SEGURANÇA.
+1. O art. 24 da Lei 11.457/2011 dispõe que é obrigatório que a Administração Pública profira decisão administrativa nos procedimentos tributários no prazo máximo de 360 (trezentos e sessenta) dias.
+2. O dispositivo em comento vem assegurar aos contribuintes a garantia constitucional da razoável duração do processo, assegurada no art. 5 , LXXVIII, bem como os princípios norteadores da atuação da administração pública, tais como o da eficiência, moralidade e da razoabilidade.
+3. No caso em comento, a apelante transmitiu o pedido de restituição, através de PER/DCOMP"S, em 29/08/2012, não tendo, até o presente momento, recebido qualquer resposta da Administração. Logo, resta claro a violação ao art. 24 da Lei 11.457/2011, tendo em vista a omissão contínua da Administração Pública em praticar o ato em comento.
+4. Assim, por se tratar de omissão do Poder Público, não há evento para se considerar como marco inicial para a contagem do prazo decadencial estabelecido no art. 23 da Lei 12.016/09. Logo, não há que se falar em decadência na situação em epígrafe. Precedentes.
+5. Apelação Provida.
+2. Nas razões recursais, a parte recorrente alega, em síntese, que a correção monetária deve incidir apenas após a fluência do prazo de 360 dias, desde o protocolo dos pedidos administrativos, nos termos do art. 24 da Lei 11.457/2007.
+3. É o que havia de relevante para relatar.
+4. Verifica-se que a matéria versada no Apelo Nobre se encontra afetada à 1a. Seção do STJ como representativa da controvérsia e aguarda julgamento: RESP"S 1.768.415/SC, 1.768.060/RS E 1.767.945/RS.
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+6. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+7. Publique-se.
+8. Intimações necessárias.
