@@ -1,0 +1,9 @@
+DECISÃO
+[NOME] JULIANI e WELLINGTON MARQUES DA SILVA alegam sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo, que não conheceu o HC n. 2182770-97.2018.8.26.0000.
+Os recorrentes - denunciados por incursão no art. 121, § 2º, IV, c/c o art. 14, II, e 29, todos do Código Penal - buscam, em síntese, o trancamento da ação penal, ou, alternativamente, a desclassificação da imputação inicial (tentativa de homicídio qualificado) para o crime de lesões corporais leve.
+Decido.
+Não constato a ocorrência de flagrante ilegalidade, a ensejar o processamento deste mandamus.
+O Tribunal a quo não conheceu do habeas corpus originário porquanto as questões suscitadas - trancamento da ação penal e desclassificação da imputação inicial - ainda não haviam sido apreciadas pelo Magistrado de primeiro grau. A Corte de origem, no entanto, ressaltou que a concessão de ordem de habeas corpus para o fim de trancar ação penal constitui providência excepcional, que só tem lugar quando é possível constatar, de pronto e de modo inequívoco, a partir dos elementos de convicção que de seus autos constam, independentemente de exame aprofundado e valorativo de fatos e provas, que a conduta atribuída ao investigado (ou réu) não constitui infração penal, quando despontar patente a extinção da punibilidade, quando se tratar de manifesta ilegitimidade de parte ou estiver ausente condição legal para o exercício da ação penal, o que, definitivamente, não é a hipótese em estudo.
+Pelas mesmas razões, não é possível a esta Corte preceder a tal análise, sob pena de indevida supressão de instância. A questão deverá ser, primeiro, apreciada no Juízo de primeiro grau e, em seguida, na Corte revisora, para, então, estar inaugurada a competência do STJ.
+À vista do exposto, com base no art. 210, c/c o art. 246, ambos do RISTJ, indefiro liminarmente o recurso.
+Publique-se e intimem-se.
