@@ -1,0 +1,44 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - PREVIDÊNCIA PRIVADA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo interno, apenas decidindo de forma contrária aos interesses do embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração opostos por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS em face do acórdão acostado às fls. 900/909, e-STJ, proferido por esta Quarta Turma e de relatoria deste signatário, que não conheceu do agravo interno. O aresto em questão foi assim ementado:
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE SUPLEMENTAÇÃO DE APOSENTADORIA - DECISÃO MONOCRÁTICA QUE, RECONSIDERANDO DELIBERAÇÃO ANTERIOR, DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS.
+INSURGÊNCIA DA DEMANDADA.
+1. A jurisprudência desta Corte firmou entendimento no sentido de que a decisão determinando o sobrestamento ou devolução de recurso para a observância da sistemática dos recursos repetitivos não é capaz de gerar nenhum prejuízo às partes, razão pela qual é irrecorrível. Precedentes.
+2. Agravo interno não conhecido.
+Nos aclaratórios (fls. 913/923, e-STJ), a embargante sustenta inexistência de lei que permita a suspensão de processos que já foram processados e julgados pelos Tribunais Superiores.
+Impugnação às fls. 926/929, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - PREVIDÊNCIA PRIVADA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo interno, apenas decidindo de forma contrária aos interesses do embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+
+VOTO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração não merecem acolhida, pois, além de não demonstrarem a existência de qualquer vício a macular o julgado, reiteram os mesmos argumentos já afastados de forma fundamentada no acórdão embargado.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição ou suprir omissão admitindo-se, ainda, que sejam acolhidos para corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada, como pretende o ora embargante.
+Nesse sentido, precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016)  grifou-se
+No caso, não há infringência ao artigo 1.022, CPC/15, em razão da suficiente fundamentação exarada no acórdão embargado (fls. 900/909, e-STJ).
+Destaca-se, por oportuno, os seguintes trechos do acórdão embargado:
+Com efeito, a jurisprudência desta Corte consolidou-se no sentido de ser irrecorrível a decisão ou o despacho que determina o sobrestamento do feito, no 2º Grau, diante da pendência de julgamento de recurso representativo da controvérsia. (..)
+Assim, não sendo a decisão que determina a devolução dos autos à origem para observância da sistemática dos recursos repetitivos capaz de gerar qualquer prejuízo às partes, a mesma é irrecorrível.
+Ademais, o sobrestamento do feito na instância de origem é possível consoante o disposto no artigo 34, inciso XXIV, do RISTJ, incluído pela Emenda Regimental n.º 24, de 2016, o qual dispõe ficar autorizada a "devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis".
+Ressalta-se que "somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo" (REsp n.º 1.361.535/MG, Rel. Min. Gurgel de Faria, DJe 8/2/2017).
+Vale lembrar, ainda, ser a competência para aplicação da sistemática de recursos repetitivos do Tribunal de origem, a teor do disposto no artigo 543-C do CPC/73, atual artigo 1.040 do CPC/2015. Aplicação analógica da interpretação dada pelo STF à sistemática do artigo 543-B do CPC/1973.
+Assim, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do agravo interno.
+Observa-se, portanto, que a embargante pretende, em verdade, obter uma decisão favorável às suas teses, o que deixa nítido o caráter infringente dos presentes embargos declaratórios, mormente porque a decisão atacada explicitou os motivos que levaram ao não provimento do recurso.
+Desta forma, verifica-se a nítida pretensão infringente, incompatível com a via estreita dos embargos, devendo ser a parte recorrente advertida que o próximo ato procrastinatório será apenado com a multa do art. 1.026 do CPC/15.
+2. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
