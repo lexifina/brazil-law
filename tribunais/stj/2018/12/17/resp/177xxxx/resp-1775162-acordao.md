@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRETENSÃO INDENIZATÓRIA PELO MANUSEIO DE PESTICIDAS. OFENSA AO ART. 1.013 DO CPC/2015. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não configurada a apontada violação do art. 1.013 do CPC/2015. Na linha dos precedentes do Superior Tribunal de Justiça não é possível afastar a conclusão do Tribunal de origem quanto à necessidade ou desnecessidade de produzir determinada prova para efeito de julgamento antecipado da lide sem reexaminar o conteúdo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Recurso Especial não conhecido, considerando as peculiaridades específicas do caso concreto.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Francisco Falcão e Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão assim ementado (fl. 383, e-STJ):
+ ADMINISTRATIVO. AGENTE NO COMBATE A ENDEMIAS. USO DE PESTICIDAS. FUNASA. PRETENSÃO INDENIZATÓRIA PELO MANUSEIO DE PESTICIDAS/AGROTÓXICOS O mero risco da potencialidade nociva de pesticidas não é suficiente para embasar pretensões indenizatórias como a dos autos, sendo necessária a comprovação da efetiva violação da integridade com contaminação ou intoxicação.
+Os Embargos de Declaração foram parcialmente providos apenas para fim de prequestionamento (fls. 403-413,e -STJ).
+Aponta a parte recorrente, em Recurso Especial violação do art. 1.013 do CPC/2015. Aduz:
+ Dessa forma, é evidente que a decisão ora impugnada deve ser revista, uma vez que deve ser oportunizado ao Recorrente fazer prova do direito que pleiteia.
+No caso em comento, a r. decisão deve ser anulada para que o Recorrente possa realizar o exame de detecção de resíduos de inseticidas pelo método da Cromatografia Gasosa, que é o exame apto produzir a prova cabal da contaminação do Recorrente. (fl. 435, e-STJ)
+Sem contrarrazões.
+À fl. 504, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+O Ministério Público Federal, mediante o parecer de fls. 510-520, e-STJ, opinou pelo provimento do Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos ingressaram neste Gabinete em 26.10.2018.
+Não configurada a apontada violação do art. 1.013 do CPC/2015.
+Na linha dos precedentes do Superior Tribunal de Justiça, não é possível afastar a conclusão do Tribunal de origem quanto à necessidade ou desnecessidade de produzir determinada prova para efeito de julgamento antecipado da lide sem reexaminar o conteúdo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. PENSÃO POR MORTE. BENEFÍCIO DEVIDO. CONCESSÃO. APLICABILIDADE DO ART. 1013, §3º, INC. I, DO CPC. CAUSA MADURA. LIVRE CONVENCIMENTO DO TRIBUNAL. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. 1. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que é devida a concessão do benefício de pensão por morte pleiteado pela autora. 2. Art. 1.013. "A apelação devolverá ao tribunal o conhecimento da matéria impugnada" 3. Nos casos de extinção do processo sem julgamento do mérito (art. 267), o tribunal pode julgar desde logo a lide, se a causa versar questão exclusivamente de direito e estiver em condições de imediato julgamento. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ). 4. Recurso Especial não conhecido. (Resp 1.722.651/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA. PUBLICAÇÃO NA VIGÊNCIA DO CPC/2015. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. DANOS MORAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, conforme dispõe a Súmula n. 7/STJ. 2. No caso, a avaliação tanto da suficiência dos elementos probatórios, justificadores do julgamento antecipado da lide, quanto da necessidade de outras provas demandaria incursão em aspectos fático-probatórios dos autos, inviável em recurso especial. (AgInt no AREsp 875.916/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 1º/8/2016).
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA. EMBARGOS À EXECUÇÃO. REJEIÇÃO (1) VIOLAÇÃO DO ART. 333, II, DO CPC/73. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. INOCORRÊNCIA. REFORMA DO JULGADO. SÚMULA Nº 7 DO STJ. (2) DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. (3) RECURSO MANEJADO SOB A ÉGIDE DO CPC/1973. 1. A avaliação tanto da suficiência dos elementos probatórios, que justificaram o julgamento antecipado da lide, quanto da necessidade de produção de outras provas demanda incursão em aspectos fático-probatórios dos autos, inviável em recurso especial, ante o óbice contido na Súmula nº 7 do STJ. (AgRg no AREsp 608.686/RS, Rel. Ministro Moura Ribeiro, DJe 3/5/2016)
+Ante o exposto, considerando as peculiaridades específicas do caso concreto, não conheço do Recurso Especial.
+É como voto.
