@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Furto. Princípio da insignificância. Impossibilidade. Regime inicial. Recurso parcialmente provido.
+    1.  Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministro Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. MULTIRREINCIDÊNCIA ESPECÍFICA. REGIME INICIAL ABERTO. REINCIDÊNCIA E MAUS ANTECEDENTES. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. As instâncias ordinárias destacaram, além da reincidência específica em crimes patrimoniais, os maus antecedentes ostentados pelo réu, o que, nos termos da jurisprudência desta Corte Superior, é suficiente para obstar a incidência do princípio da insignificância.
+    2. A despeito do quantum de pena definitivamente imposta ao réu, a reincidência e os maus antecedentes justificam a fixação do modo fechado para o início do seu cumprimento. Súmula n. 269 do STJ.
+    3. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o recorrente foi denunciado pela suposta prática do crime previsto no art. 157, § 1º, do Código Penal.
+    3.  O juízo de origem desclassificou a conduta para a prevista no art. 155, caput, do Código Penal, e condenou o recorrente à pena de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial fechado.
+    4. Irresignada, a defesa apelou. O Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso.
+    5. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 439.368, Ministro Rogerio Schietti Cruz, denegou a ordem. Em seguida, a defesa interpôs agravo regimental, desprovido.
+    6. Neste recurso ordinário em habeas corpus, a defesa sustenta, em síntese, que, havendo “ou não outros processos judiciais em curso contra o paciente ou mesmo condenações penais, certo é que a conduta praticada neste feito é sim insignificante” (furto de uma garrafa de “vodka”, no valor aproximado de R$ 45).
+    7. Prossegue a impetração para afirmar que “o caso concreto demanda que se paralise a incidência do art. 33, § 2º, c, do CP, com base no princípio da proporcionalidade, já que o regime fechado é excessivo para atender ao caráter retributivo da pena imposta”.
+    8. Com esses argumentos, requer “seja provido este Recurso Ordinário e concedida a ordem em Habeas Corpus, e o reconhecimento da insignificância da conduta que se pretende punir (objetivamente, furto de uma garrafa de vodka), ou subsidiariamente o estabelecimento do regime aberto para resgate da pena”.
+    Decido.
+    9.  De início, lembro que o Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal ( v.g, RHC119.605-AgR, Rel. da minha relatoria; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski). No caso, os próprios autos noticiam que sobreveio o trânsito em julgado da condenação em 06.07.2018.
+    10.  Por outro lado, o Plenário do STF reiterou o entendimento de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente; (ii) nenhuma periculosidade social da ação; (iii) grau reduzido de reprovabilidade do comportamento; (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio.
+    11.  Nesse ponto, tal como assentou a decisão impugnada, o Tribunal de origem “ressaltou os maus antecedentes e a multirreincidência do réu em crimes patrimoniais, o que reforça a impossibilidade de aplicar o princípio da insignificância para absolvê-lo, a despeito do valor da res furtiva”.
+    12.  Quanto ao mais, é certo que o artigo 33, § 2º, c , do Código Penal determina que “o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto”. Ademais, a jurisprudência desta Corte é pacífica no sentido de que a presença de circunstâncias judiciais desfavoráveis autoriza, em princípio, a fixação de regime prisional mais severo que o legalmente admitido (HC 143.669-AgR, de minha relatoria).
+    13.  No caso de que se trata, contudo, observo que a hipótese é de furto de uma garrafa de vodka, no valor aproximado de R$ 45. Observo, ainda, que o paciente está condenado a 1 ano, 4 meses e 10 dias de reclusão, em regime inicial fechado. Nessas condições, ante o reduzido grau de reprovabilidade da conduta e atento à tese adotada pelo Plenário, nos HCs 123.734, 123.533 e 123.108, todos de minha relatoria, e na linha de precedente recente da Primeira Turma (HC 137.217), tenho que a adoção do regime aberto revela-se medida mais adequada, necessária e suficiente, “para reprovação e prevenção do crime”, nos termos do artigo 59, caput, do Código Penal.
+    14. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, dou parcial provimento ao recurso ordinário em habeas corpus apenas para conceder ao acusado o regime inicial aberto.
+    Publique-se.
+    Comunique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
