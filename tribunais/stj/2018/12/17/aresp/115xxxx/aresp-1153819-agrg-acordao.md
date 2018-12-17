@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REDUÇÃO A CONDIÇÃO ANÁLOGA À DE ESCRAVO. AJUIZAMENTO DE REVISÃO CRIMINAL ANTES DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. IMPOSSIBILIDADE. EXISTÊNCIA DE OUTROS MEIOS PROCESSUAIS PARA SANAR A ILEGALIDADE SUSCITADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do artigo 621 do Código de Processo Penal, admite-se a revisão de processos findos quando a sentença condenatória for contrária ao texto expresso da lei penal ou às evidências dos autos, quando se fundar em depoimentos, exames ou documentos comprovadamente falsos, e quando, após a sentença, forem descobertas novas provas de inocência do condenado ou circunstância que determine ou autorize diminuição especial de pena.
+2. No caso dos autos, o édito repressivo proferido em desfavor do agravante ainda não transitou em julgado, estando pendentes de julgamento os recursos interpostos nas instâncias extraordinárias, o que impede o ajuizamento da ação revisional.
+3. O fato de o Supremo Tribunal haver permitido a execução provisória da pena privativa de liberdade não é capaz de afastar o referido requisito de admissibilidade, uma vez que eventuais equívocos no juízo condenatório podem ser inibidos com a suspensão do cumprimento antecipado da sanção mediante a obtenção de efeito suspensivo aos recursos de natureza extraordinária, ou mesmo por meio da impetração de habeas corpus. Precedente.
+4. Agravo improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental inteposto por [NOME], nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal desta Relatoria (e-STJ, fls. 277-281), que conheceu do agravo, mas não conheceu do recurso especial.
+O agravante foi condenado pela prática dos crimes previstos nos arts. 149, 197 e 203, todos do Código Penal porque submeteu vinte e um trabalhadores a condições de trabalho análogas à situação de escravo, frustrando-lhes direitos assegurados por lei trabalhistas e restringindo-lhes a liberdade de exercício do trabalho. Os fatos ocorreram em cinco propriedades rurais situadas no interior do estado de São Paulo de propriedade do agravante.
+O Juízo da Primeira Vara Federal de Marília/SP, acolheu parcialmente o pleito ministerial e condenou o réu a 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, além de 30 (trinta) dias-multa pela prática do crime previsto no art. 149 do Estatuto Repressivo.
+O condenado ajuizou pedido revisional pretendendo, em suma, a redução da pena aplicada. A revisão não foi conhecida pelo eg. Tribunal Regional Federal da 3ª Região.
+O recurso especial alegou negativa de vigência ao art. 621 do Código de Processo Penal, considerando ser perfeitamente cabível o pedido revisional, mesmo com a pendência de julgamento de recursos de natureza extraordinária ainda em tramitação. O apelo, contudo, não foi admitido na origem, tendo em vista o óbice previsto nos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal, e 83, desta Corte. O agravo apresentado perante o Superior Tribunal de Justiça não obteve êxito em destrancar a insurgência.
+Neste regimental, o agravante insiste na tese de ser cabível a revisão criminal mesmo antes do trânsito em julgado e, em razão disso, pugna pela reconsideração da decisão agravada ou, subsidiariamente, por sua apresentação ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: Atendidos os pressupostos formais de conhecimento do recurso, passa-se à análise do mérito.
+E, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Sabe-se que, nos termos do artigo 621 do Código de Processo Penal, admite-se a revisão de processo findos quando a sentença condenatória for contrária ao texto expresso da lei penal ou às evidências dos autos, quando se fundar em depoimentos, exames ou documentos comprovadamente falsos, e quando, após a sentença, forem descobertas novas provas de inocência do condenado ou circunstância que determine ou autorize diminuição especial de pena.
+Sobre a necessidade do trânsito em julgado para que a revisional possa ser ajuizada, Guilherme de Souza Nucci esclarece que "é requisito indispensável e fundamental para o ajuizamento da revisão criminal", advertindo que, "pendendo qualquer recurso contra a decisão condenatória, não cabe a admissão da revisão" (Código de Processo Penal Comentado. 9ª ed. São Paulo: Revista dos Tribunais, 2009, p. 1005).
+Nessa linha:
+PROCESSUAL PENAL. RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "B" DO PERMISSIVO CONSTITUCIONAL. INEXISTÊNCIA DE NEGATIVA DE VIGÊNCIA À LEI FEDERAL EM FACE DE LEGISLAÇÃO OU ATO DE GOVERNO LOCAL. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. EXAME DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 63 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 621, III, DO CÓDIGO DE PROCESSO PENAL. REVISÃO CRIMINAL. AUSÊNCIA DE TRÂNSITO EM JULGADO.
+I - O recurso especial fundado na alínea b, que em nenhum momento demonstra ter a r. decisão recorrida julgado válida lei ou ato de governo local contestado em face de lei federal, esbarra no óbice da súmula nº 284/STF.
+II - Inviabiliza o conhecimento do recurso especial, no que tange ao dissídio pretoriano, a simples transcrição de ementas ou votos, não tendo sido realizada a demonstração do dissenso entre as teses tidas como divergentes e ausente o imprescindível cotejo analítico, nos termos do art. 255 do RISTJ. (Precedentes).
+III - É pacífico nesta Corte que a via do recurso especial não é própria para a interpretação de preceitos de ordem constitucional.
+IV - Questões não apreciadas, sequer implicitamente, no v. acórdão increpado desmerecem exame por ausência do devido prequestionamento (Precedentes/Súmulas nº 282 e 356/STF).
+V - Conforme dispõe o art. 625, § 1º, do Código de Processo Penal, é inviável a revisão criminal caso não tenha ocorrido o trânsito em julgado da decisão revivenda.
+Recurso parcialmente conhecido e, nesta parte, desprovido. (REsp 792.595/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/06/2006, DJ 11/09/2006, p. 340 - grifou-se)
+No caso dos autos, como visto, o édito repressivo proferido em desfavor do agravante ainda não transitou em julgado, estando pendentes de julgamento os recursos interpostos nas instâncias extraordinárias, o que impede o ajuizamento da ação revisional.
+Quanto ao ponto, deve-se registrar que o só fato de o Supremo Tribunal haver permitido a execução provisória da pena privativa de liberdade não é capaz de afastar o referido requisito de admissibilidade, uma vez que eventuais equívocos no juízo condenatório podem ser inibidos com a suspensão do cumprimento antecipado da sanção mediante a obtenção de efeito suspensivo aos recursos de natureza extraordinária, ou mesmo por meio da impetração de habeas corpus.
+Em caso semelhante, assim já decidiu a colenda Quinta Turma:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME AMBIENTAL. MULTA SUBSTITUTIVA. AUSÊNCIA DE EXAME DO ARTIGO 60 DO CÓDIGO PENAL PELA CORTE DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PROVIMENTO DO RECLAMO.
+1. Da leitura do acórdão objurgado, observa-se que em momento algum a aventada ilegalidade na dosimetria da pena do recorrente foi apreciada pelo Tribunal Estadual, que, equivocadamente, entendeu que se trataria de tema que não poderia ser examinado em sede de habeas corpus, o que evidencia a ocorrência de negativa de prestação jurisdicional, ensejando constrangimento ilegal passível de ser remediado por este Sodalício.
+2. Não se pode exigir que o acusado aguarde o trânsito em julgado da sua condenação, bem como a tramitação de uma revisão criminal, para que a legalidade da pena que lhe foi imposta seja analisada, até mesmo porque a alegada falta de fundamentação do édito repressivo configura matéria de ordem pública.
+3. Recurso provido para determinar a baixa dos autos ao Tribunal de Justiça do Estado do Rio de Janeiro para que aprecie o mérito do writ lá impetrado como entender de direito.
+(RHC 65.162/RJ, de minha Relatoria, QUINTA TURMA, julgado em 08/03/2016, DJe 16/03/2016)
+Irretocável, por conseguinte, o aresto impugnado, que restou assim ementado:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. REVISÃO CRIMINAL. DOSIMTERIA DA PENA. ALTERAÇÃO DO REGIME PRISIONAL. ARESTO QUE NÃO TRANSITOU EM JULGADO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. AGRAVO DESPROVIDO.
+1. Consoante o disposto no artigo 625, §1º, do Código de Processo Penal, o pleito revisional será instruído com a certidão de haver passado em julgado a sentença condenatória e com as peças necessárias à comprovação dos fatos arguidos.
+2. No caso, o requerente admite que o acórdão condenatório não transitou em julgado, pendendo ainda recursos perante os tribunais superiores, o que obsta o conhecimento do pedido revisional.
+3. A mudança da jurisprudência, no sentido de permitir a execução provisória após o julgamento em segunda instância, em nada altera os pressupostos e requisitos da revisão criminal, entre os quais avulta a necessidade do trânsito em julgado do título exequendo.
+4. Nesse sentido, observe-se que tais requisitos conviviam já com as disposições originárias do Código de Processo Penal, que previam a execução provisória, e de forma ainda mais rigorosa que a jurisprudência atual, uma vez que a condenação em primeira instância já era suficiente a tanto.
+5. Não poderia esta Corte Regional debruçar-se, em sede revisional, sobre decisão que não é ainda definitiva e que pode ser alterada pelos tribunais superiores.
+6. Agravo desprovido. (e-STJ, fl. 181).
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
