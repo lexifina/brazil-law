@@ -1,0 +1,53 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO EMBARGADA. VÍCIOS QUE AUTORIZAM O MANEJO DOS ACLARATÓRIOS INOCORRENTES. EMBARGOS REJEITADOS.
+1. Nos limites estabelecidos pelo artigo 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+2. Na espécie, não se verifica no acórdão embargado qualquer dos vícios que permitem o manejo da insurgência, impedindo o seu acolhimento.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Cuida-se de embargos de declaração opostos por [NOME] contra acórdão proferido pela Quinta Turma, cuja ementa ficou assim redigida:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do recurso especial em razão da necessidade de revolvimento de fatos e provas para o acolhimento da pretensão recursal, além da falta de prequestionamento da questão relativa às nulidades que dariam ensejo ao trancamento da ação penal. As razões do agravo, no entanto, não impugnaram esses fundamentos, repetindo os argumentos anteriormente apresentados em sede de recurso especial.
+2. É inviável o agravo previsto no art. 1.021, § 1º, do Código de Processo Civil que deixa de impugnar, de maneira clara e específica, todos os fundamentos da decisão agravada, nos termos do enunciado n. 182 da Súmula do Superior Tribunal de Justiça.
+3. Agravo regimental não conhecido. (e-STJ, fl. 984).
+Alega o embargante, em síntese, que em nenhum momento da inicial da impetração do Recurso Especial originário o Embargante busca análise (ou reanálise) de questões de caráter fático.
+Sustenta, ademais, com relação à falta de prequestionamento constatada na decisão embargada, que "se a Lei processual obriga que o Agravante - leigo - deva se representar através de Advogado e se este não apresentou oportuna e inteiramente o tema em discussão não pode ele, Agravante, ser pessoalmente sancionado por aquela omissão" (e-STJ fl. 1001).
+Requer, ao final, o acolhimento do incidente, sanando-se os vícios apontados.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Nos limites estabelecidos pelo artigo 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+Nesse sentido, confiram-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TORTURA. POLICIAIS MILITARES. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PRECEDENTES. NULIDADE, PRETENSÃO ABSOLUTÓRIA, DISSÍDIO JURISPRUDENCIAL. QUESTÕES EXPRESSAMENTE ENFRENTADAS NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE OMISSÃO OU OBSCURIDADE. PRETENSÃO DE REVERSÃO DO JULGADO. INADMISSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer o embargante.
+ ..
+4. O acórdão embargado apreciou detidamente a controvérsia versada nos autos, e a mera irresignação com o entendimento apresentado no acórdão embargado, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+5.Embargos rejeitados. (EDcl no AgRg no REsp 1524249/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/09/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FRAUDE AO PROCEDIMENTO LICITATÓRIO. ART. 90 DA LEI N. 8.666/1993. OFENSA AO CARÁTER COMPETITIVO DO CERTAME. INEXISTÊNCIA DOS VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. É pacífico nesta Corte Superior que "a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado" (REsp n. 1.250.367/RJ, Rel. Ministra Eliana Calmon, 2ª T., DJe 22/8/2013). Assim, não há contradição na espécie.
+3. Quanto à omissão, o acórdão ora atacado foi claro ao delimitar, de forma explícita, os atos que resultaram na fraude ou na frustração do caráter competitivo da licitação, independentemente de se analisar o dolo dos indivíduos, conforme a orientação jurisprudencial deste Tribunal Superior.
+4. Em verdade, a irresignação dos embargantes se resume ao mero inconformismo com o resultado do julgado, que lhes foi desfavorável.
+Não há, no caso, qualquer fundamento que justifique a oposição dos embargos de declaração.
+5. Embargos de declaração rejeitados. (EDcl no AgRg no REsp 1387446/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 17/08/2017)
+Na espécie, não se verifica no acórdão embargado qualquer dos vícios que permitem o manejo da insurgência, impedindo o seu acolhimento.
+Isso porque, novamente, o embargante não impugnou o fundamento da decisão embargada. Conforme se verifica das razões dos aclaratórios, o embargante se insurge contra os Enunciados das Súmulas 7/STJ e 282/STF, sem, no entanto, dispôs sobre o principal argumento do indeferimento do agravo regimental, qual seja: o óbice intransponível do Enunciado da Súmula 182/STJ.
+Cumpre destacar que, é dever das partes apresentar o recurso no âmbito das Cortes Superior com todos requisitos de admissibilidade, o que impede o seu exame do mérito nas hipóteses em que a defesa apresenta-o com desconformidade com as leis infraconstitucionais e com a Constituição da República. Não se trata de rigorismo exacerbado, pelo contrário, dever constitucional de obediência aos mandamentos legais e constitucionais.
+Dessa forma, o que se observou foi o puro e simples inconformismo do embargante com a solução dada por esta Corte de Justiça à controvérsia, o que não dá ensejo à oposição de embargos de declaração, não havendo falar, pois, em violação ao art. 619 do CPP.
+A propósito:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. COMPETÊNCIA DA JUSTIÇA FEDERAL. DOLO DE EXPORTAR. TIPO PENAL DE AÇÃO MÚLTIPLA. CONSUMADO. OMISSÕES INEXISTENTES. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO SUFICIENTE. CONTRADIÇÃO. NÃO OCORRÊNCIA. SIMPLES INTENÇÃO DE REDISCUSSÃO DO JULGADO. EMBARGOS REJEITADOS.
+1. Nos termos do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Em que pese a conduta de exportar não tenha se completado, pois os entorpecentes não saíram dos limites fronteiriços brasileiros, sendo o tipo penal do tráfico de drogas de ação múltipla ou misto alternativo, a consumação do delito se opera com a realização de qualquer outro núcleo verbal previsto na norma, no caso em apreço, as condutas de "transportar", "ter em depósito" e "trazer consigo".
+3. "A competência da Justiça Federal para julgamento de crime de tráfico de entorpecentes apenas se efetiva com a suficiente comprovação de seu caráter internacional, conforme preceitua o art.
+70 da Lei n. 11.343/2006" (HC 168.368/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 18/11/2014, DJe 26/11/2014).
+4. A contradição capaz de ensejar a oposição dos embargos de declaração é aquela que decorre da incongruência lógica entre os fundamentos e a conclusão do julgado, o que não se verifica na decisão impugnada, pois a manutenção da pena aplicada foi satisfatoriamente motivada. Precedente.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1391929/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. INEXISTÊNCIA DOS VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. Como apontado no acórdão, o Juízo singular demonstrou a presença dos requisitos autorizadores da medida cautelar extrema, consoante disposição do art. 312 do Código de Processo Penal, e, assim, justificou a prisão ante tempus da embargante com fulcro na garantia da ordem pública, evidenciada pela gravidade concreta da conduta delitiva, dado que "a recorrente coordenava a prática estável e organizada do tráfico de drogas juntamente com o companheiro, atualmente encarcerado, havendo a acusada sido flagrada enquanto transportava expressiva quantidade de drogas - a saber, 498,23 g de maconha, 503,98 g de crack e 101,13 g de cocaína, a denotar a prática habitual da conduta" (fl. 218).
+3. Resumindo-se a irresignação do embargante ao mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não há nenhum fundamento que justifique a oposição dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no RHC 75.024/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
