@@ -1,0 +1,17 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. CRÉDITO ESCRITURAL. CORREÇÃO MONETÁRIA. DEMORA INJUSTIFICADA NA ANÁLISE DO PEDIDO ADMINISTRATIVO. TERMO INICIAL DA ATUALIZAÇÃO MONETÁRIA. APLICAÇÃO DO ART. 24 DA LEI 11.457/2007. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS: RESPS 1.768.415/SC, 1.768.060/RS E 1.767.945/RS (TEMA 1.003). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. PIS/COFINS. CRÉDITO ESCRITURAL E CRÉDITO PRESUMIDO. PEDIDOS ADMINISTRATIVOS DE RESSARCIMENTO. PRAZO PARA ANÁLISE. LEI Nº 11.457/2007. CORREÇÃO MONETÁRIA. COMPENSAÇÃO DE OFÍCIO. IMPOSSIBILIDADE.
+1. Para os requerimentos administrativos protocolados na vigência da Lei nº 11.457/07, o prazo que o Fisco detém para analisar o pedido é de 360 dias, contado da data do protocolo do pedido. Entendimento pacificado no STJ, quando do julgamento de recurso sob o rito dos recursos repetitivos, art. 543-C do CPC (Primeira Seção, REsp nº 1.138.206/RS, Rel. Ministro Luiz Fux, publicado no DJe em 01.09.2010).
+2. A imposição de prazo para a análise dos pedidos de ressarcimento não implica pagamento imediato.
+3. Caracterizada a mora do Fisco em reconhecer o direito do contribuinte de aproveitar-se do crédito escritural ou presumido, legitima-se a incidência de correção monetária, de forma a evitar que a Fiscalização se aproveite da própria mora e que ocorra enriquecimento sem causa. A matéria já foi apreciada pelo STJ sob o rito dos recursos repetitivos, disciplinado no art. 543-C do CPC (REsp nº 1.035.847/RS, Rel. Ministro LUIZ FUX, 1ª Seção, julgado em 24/06/2009, DJe 03/08/2009).
+4. A correção monetária deve ser pela taxa SELIC, e seu termo inicial é a data do protocolo do pedido administrativo (fls. 291).
+2. Os Embargos de Declaração foram rejeitados (fls. 317).
+3. Nas razões recursais, a parte recorrente aponta violação dos arts. 49 da Lei 9.784/1999 e 24 da Lei 11.457/2007. Sustenta, em síntese, que a correção monetária deve incidir apenas após a fluência do prazo de 360 dias, desde o protocolo dos pedidos administrativos, nos termos do art. 24 da Lei 11.457/2007.
+4. Apresentadas as contrarrazões (fls. 370/374), o Recurso foi admitido na origem (fls. 384).
+5. É o relatório.
+6. Verifica-se que a matéria versada no Apelo Nobre se encontra afetada à Primeira Seção do STJ como representativa da controvérsia e aguarda julgamento: REsps. 1.768.415/SC, 1.768.060/RS e 1.767.945/RS (Tema 1.003).
+7. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+8. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+9. Publique-se.
+10. Intimações necessárias.
