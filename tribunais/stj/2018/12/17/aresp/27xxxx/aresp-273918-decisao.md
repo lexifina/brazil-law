@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso por falta de afronta ao art. 535 do CPC/1973 e incidência da Súmula n. 7 do STJ.
+O Tribunal de origem negou provimento ao apelo interposto pelo agravante, em julgado que recebeu a seguinte ementa (e-STJ fl. 570):
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO. Doação realizada em 1917. Alegação de ausência de procuração para o ato. Provas carreadas aos autos que demonstram que o intermediador era o procurador do doador. Se alguém se acha permanentemente a serviço de outrem, gerindo-lhe os negócios, em atividade conhecida das pessoas com as quais trata e contrata, presume-se que atua em nome daquele a quem serve. Ausência da apresentação do instrumento de procuração no momento da realização do ato de doação. Nulidade. Prescrição. vintenária. APELO DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 601/604).
+Nas razões do recurso especial apontou violação do art. 535 do CPC/1973, sustentando ter havido omissão do acórdão recorrido quanto ao termo inicial do prazo prescricional. Afirmou que (e-STJ fl. 619):
+No momento em que opos seus embargos, o ora recorrente teve a oportunidade de demonstrar seu cabimento quanto ao fundamento citado, porque o acórdão ali embargado não havia considerado a questão posta acima, de que a determinação do objeto da doação teria ocorrido somente em 02/02/1979, enquanto a ação foi proposta em 25/01/1999, estando, no mais, suspensa a fruição desse prazo por conta da existência de uma herdeira interditada em 09/10/1985.
+Nesses embargos de declaração foi aceita, apenas para argumentar, o fundamento de que o caso não seria de inexistência do ato, mas de sua nulidade, como tal passível ao lapso acionário prescricional. Só que computado esse lapso desde a data da escritura, na mesma esteira da sentença, enquanto o ali apelante defendia que ele não poderia correr antes da determinação de quais lotes tinham sido doados. Afinal, que ato de liberalidade poderia o Espólio-autor atacar se o instrumento de doação não identificava o seu objeto
+Alegou ofensa aos arts. 82, 130, 146, 1.288 e 1.291 do CC/1916 sustentando que o ato de doação seria inexistente porque realizado por pessoa que não possuía poderes para representar o titular da propriedade.
+Aduziu por fim afronta aos arts. 169, I, e 177 do CC/1916 sob o argumento de que (e-STJ fl. 626):
+Finalmente, no que tange ao cômputo do lapso temporal da prescrição aplicada, o julgado não teria observado com o rigor necessário a regra do art. 177, do CC de 1916, segundo o qual o prazo somente poderia ter início quando presente o interesse na ação, que no caso concreto somente nasceu quando, como explicado, os lotes indeterminados de antes passaram a ser os lotes 16 e 18.
+Foram apresentadas contrarrazões (e-STJ fls. 662/676).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Com relação à afronta ao art. 535 do CPC/1973, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, embora instada a se manifestar sobre a insurgência quanto ao termo inicial do prazo de prescrição - defendido pelo agravante como sendo a data em que identificados os lotes objetos da lide - a Justiça local não se pronunciou sobre a matéria, incorrendo, desse modo, em omissão quanto à tese fundada nos arts. 169, I, e 177 do CC/1916.
+Fica prejudicada a análise das demais questões.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL ao recurso especial, para reconhecer omissão do acórdão recorrido quanto à tese referente ao termo inicial do prazo de prescrição, determinando a remessa dos autos ao Tribunal de origem para que se pronuncie sobre a questão.
+Publique-se e intimem-se.
