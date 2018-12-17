@@ -1,0 +1,24 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ASSOCIAÇÃO CRIMINOSA. FAVORECIMENTO REAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. ALEGAÇÃO SUPERADA. INSTRUÇÃO PROCESSUAL CONCLUÍDA. SÚMULA N.º 52/STJ. RECURSO PREJUDICADO.
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LUIS CARLOS [NOME], TAMIRES DAS NEVES [NOME] e [NOME] contra acórdão do Tribunal de Justiça do Estado da Bahia proferido no HC n.º 8014820-43.2018.8.05.0000.
+Consta dos autos que os Recorrentes, junto com outros corréus, foram presos em flagrante, em 23/5/2017, pois surpreendidos com "177 (cento e setenta e sete) cocadas de uma substância esverdeada semelhante a maconha, enrolada em um papel alumínio, pesando aproximadamente 300 (trezentos) gramas, 81 (oitenta e uma) trouxinhas de uma substância semelhante a "crack", enrolado em plástico transparente, pesando aproximadamente vinte gramas" (fl. 90).
+Os Recorrentes TAMIRES DAS NEVES [NOME] e [NOME] foram denunciados pela prática, em tese, dos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n.º 11.343/2006 e nos arts. 288, caput, e 349, ambos do Código Penal; e LUIS CARLOS [NOME] foi denunciado pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n.º 11.343/2006 e no art. 288, caput, do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, conforme ementa abaixo transcrita (fls. 87-88):
+"Habeas Corpus. Tráfico e associação para o tráfico de drogas, favorecimento real e associação criminosa. Alegação de constrangimento ilegal por excesso prazo na formação da culpa. Processo com multiplicidade de réus, que segue trâmite regular dentro da razoabilidade, inexistindo inércia na prestação jurisdicional ou qualquer negligência por parte da autoridade impetrada. Complexidade própria a uma ação penal que conta com corréus residentes em outra comarca, o que demandou a expedição de cartas precatórias, inclusive para o Estado de São Paulo.
+I - Eventual demora na conclusão da instrução processual deve ser examinada à luz da razoabilidade e da proporcionalidade, que podem ou não afastar a alegação de constrangimento ilegal, a depender do caso. A delonga, quando justificável (pela necessidade de deprecação de diligências ou por outras necessidades circunstanciais), não necessariamente conduz ao reconhecimento de constrangimento ilegal.
+II - No caso dos autos, a instrução processual não foi finalizada em razão das peculiaridades do caso concreto. Trata-se de processo complexo, com pluralidade de acusados (cerca de nove) - alguns, inclusive, homiziados do distrito da culpa, o que exigiu a expedição de cartas precatórias de citação para as Comarcas de Jequié (BA) e São Paulo (SP) logo após a realização da audiência de instrução em março de 2018.
+III - Em consulta ao sistema SAIPRO, infere-se que a Carta Precatória expedida para a Comarca de Jequié já fora devolvida e, por ordem da autoridade impetrada, o Juízo da Comarca de São Paulo já fora notificado a fazer o mesmo (julho/2018). Ademais, os acusados já foram ouvidos em Juízo, do que se conclui que o processo tramita de forma adequada, sem morosidade do aparelho estatal.
+IV - Portanto, é possível vislumbrar a probabilidade de que o encerramento da instrução criminal não tardará, devendo-se aguardar, neste momento, a devolução da carta precatória expedida para a Comarca de São Paulo."
+No presente recurso, os Recorrentes alegam, em suma, que há excesso de prazo para a formação da culpa, pois se encontram segregados desde 25/5/2017, ou seja, há mais de 1 (ano) ano, sem que haja previsão para o encerramento da instrução criminal.
+Salientam, ainda, que "o Juízo da Comarca de São Paulo já fora notificado para devolver a Carta Precatória expedida desde (julho/2018) e, até esta data - 12.09.18, a mesma ainda não fora colaciona aos autos" (fl. 106).
+Requerem, ao final, a expedição de alvará de soltura em favor dos Recorrentes.
+Foram prestadas informações à fl. 58.
+O Ministério Público Federal manifestou-se às fls. 118-121, opinando pelo conhecimento e não provimento do recurso.
+É o relatório.
+Decido.
+O presente recurso ordinário em habeas corpus discute exclusivamente a existência de alegado constrangimento ilegal por excesso de prazo da prisão preventiva.
+Ocorre que, conforme informações prestadas pelo Juízo de primeira instância, as quais foram encaminhadas por e-mail a esta Corte Superior, a instrução processual já foi encerrada e, inclusive, o Ministério Público estadual já apresentou suas alegações finais.
+Dessa forma, nos termos da Súmula n.º 52/STJ: " e ncerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, JULGO PREJUDICADO o recurso ordinário.
+Publique-se. Intimem-se.
