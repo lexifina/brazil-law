@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (eDOC 60, p. 27/28):
+    APELAÇÃO CRIMINAL — CRIMES DA LEI DE LICITAÇÃO — ARTIGOS 89 E 90 DA LEI N. 8.666/93 - RECURSOS INTERPOSTOS PELAS DEFESAS — PRELIMINAR DE PRESCRIÇÃO — INOCORRÊNCIA — PEDIDO DE ABSOLVIÇÃO PELA PRÁTICA DO CRIME DESCRITO NO ARTIGO 90 DA LEI N. 8.666/93 - MATERIALIDADE E AUTORIA — MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - DEPOIMENTO DE TESTEMUNHAS ALIADOS A OUTROS ELEMENTOS PROBATÓRIOS — CONDENAÇÃO MANTIDA — RECURSO INTERPOSTO PELO MINISTÉRIO PÚBLICO — PRETENDIDA CONDENAÇÃO DOS ACUSADOS PELA PRÁTICA DO CRIME PREVISTO NO ARTIGO 89 DA LEI N. 8.666/93 — IMPOSSIBILIDADE — DOLO ESPECÍFICO NÃO DEMONSTRADO — DANO AO ERÁRIO NÃO VERIFICADO — ABSOLVIÇÃO MANTIDA — RECURSOS 1MPROVIDOS.
+    Verifica-se que entre os marcos interruptivos não houve o decurso de tempo superior a 08 (oito) anos, motivo pelo qual não há falar em extinção da punibilidade pela prescrição.
+    As provas testemunhais aliadas aos demais elementos existente nos autos demonstram de forma robusta e concreta que os acusados fraudaram o caráter competitivo das cartas convites citadas na exordial acusatória com o escopo de garantir a adjudicação do objeto da licitação para a empresa Serve Bem Lanches e Refeições, devendo ser mantida na íntegra a sentença condenatória proferida pelo juízo de primeiro grau.
+    3 - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o crime do art. 89 da Lei n.° 8.666/1993 não é de mera conduta, sendo necessária a demonstração do dolo específico de causar dano ao erário e a configuração do efetivo prejuízo ao patrimônio público".
+    4 — Não havendo prova da vontade livre e consciente de superar a necessidade de realização da licitação e da intenção de produzir um prejuízo aos cofres públicos por meio do afastamento indevido da licitação, a absolvição pela prática do crime previsto no artigo 89 da Lei n. 8.666/93 é medida que se impõe.
+    Os embargos de declaração restaram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, caput, da CF e ao art. 24 da Convenção Americana de Direitos Humanos. Alega-se que o acórdão recorrido violou o princípio da isonomia ao definir regime de inicial de cumprimento de pena distinto do estabelecido para corré Fernanda Neves Tavares, que teve pena idêntica.
+    Busca-se, em suma, o reconhecimento da prescrição da pretensão punitiva ou a fixação do regime inicial aberto.
+    A Vice-Presidência do TJMT inadmitiu o recurso por configurar ofensa reflexa à CF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico a ausência de demonstração fundamentada da repercussão geral no recurso extraordinário, pressuposto de admissibilidade, nos termos do disposto no art. 1.035, § 2º, do CPC.
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Na espécie, apesar de apresentar tópico relativo à repercussão geral, os recorrentes não demonstram por quais razões a matéria versada no apelo extremo possui relevância do ponto de vista econômico, político, social ou jurídico que ultrapasse os interesses subjetivos do processo.
+    Na linha de diversos precedentes desta Corte, a ausência dessa arguição ou sua inadequada fundamentação inviabiliza o conhecimento do recurso interposto perante o Supremo Tribunal Federal (AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007; ARE 858.726-AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 16.03.2015; RE 762.114-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 10.08.2015).
+    Ademais, ainda que fosse possível transpor esse óbice processual, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, quanto ao regime inicial de cumprimento de pena e à prescrição, demandaria o reexame de fatos, provas e da legislação aplicada à espécie (Código Penal e Código de Processo Penal), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 e a configuração de ofensa reflexa à CF.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
