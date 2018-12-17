@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Roraima, assim ementado (eDOC 09, 878):
+    APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO. RECURSO DO MINISTÉRIO PÚBLICO. PLEITO QUE SE INSURGE CONTRA A DECISÃO QUE CONCEDEU AO RÉU O DIREITO DE RECORRER EM LIBERDADE. INVIABILIDADE. RÉU RESPONDEU A MAIOR PARTE DO PROCESSO SOLTO. AUSÊNCIA DE FATOS NOVOS QUE JUSTIFIQUEM A PRISÃO DO RÉU. MANUTENÇÃO DA DECISÃO. RECURSO DESPROVIDO EM DISSONÂNCIA COM O PARECER DO MINISTÉRIO PÚBLICO GRADUADO. RECURSO DA DEFESA. PLEITO QUE BUSCA A NULIDADE DO JULGAMENTO SOB A ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INVIABILIDADE. TESE DE LEGÍTIMA DEFESA. DECISÃO DO JÚRI AMPARADA NO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE. TESE DE LEGÍTIMA DEFESA. DECISÃO DO JÚRI AMPARADA NO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS. EXCLUSÃO DE QUALIFICADORA. INVIABILIDADE. MANUTENÇÃO DA DECISÃO DO CONSELHO DE SENTENÇA. SOBERANIA DOS VEREDITOS. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. IMPOSSIBILIDADE. DUAS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA-BASE ACRESCIDA TÃO SOMENTE EM 01 (UM) ANO ALÉM DO MÍNIMO LEGAL ESTABELECIDO EM LEI. RECURSO DA DEFESA DESPROVIDO EM CONSONÂNCIA COM O PARECER DO MINISTÉRIO PÚBLICO GRADUADO.
+    Os embargos de declaração foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XLVI, e 93, IX, ambos da Constituição Federal. Alega-se, em suma, que a pena foi exasperada com base em elementos genéricos e sem a devida fundamentação.
+    A Vice-Presidência do TJRR inadmitiu o recurso por incidir a Súmula 279 do STF.
+     É o relatório. Decido.
+    Observo que a discussão referente à individualização da pena revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido: ARE 1.113.807 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe 01.08.2018; ARE 1.122.105 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 21.06.2018; ARE 1.089.752 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 02.05.2018.
+    Por outro lado, ressalto que o Supremo Tribunal Federal, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
