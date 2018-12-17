@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por TURISMO ROMERO ESTEVES EIRELI contra decisão que inadmitiu o recurso especial porque não comprovado o dissídio (e-STJ fls. 468/469).
+O acórdão recorrido está assim ementado (e-STJ fls. 407/408):
+ACIDENTE DE VEÍCULOS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - Pessoa jurídica Deferimento Benefício que pode ser concedido excepcionalmente às pessoas jurídicas, com ou sem fins lucrativos, condicionada a demonstração da situação de hipossuficiência de recursos Requisitos legais atendidos Comprovada a insuficiência de recursos Incumbência da parte contrária de demonstrar situação inversa, em desconstituição daquela presunção, de índole relativa Benefício, aliás, passível de revogação a qualquer tempo, sem prejuízo da responsabilidade criminal por eventual declaração falsa. CONCESSÃO DA GRATUIDADE DA JUSTIÇA.
+CULPA CONCORRENTE -- INOCORRÊNCIA Confissão do preposto da empresa ré que afirma, ao se movimentar para apanhar "TAG" para ser utilizado no pedágio, colidiu com o pedestre, ocasionando seu óbito. CULPA EXCLUSIVA DO MOTORISTA DA RÉ. INDENIZAÇÃO DEVIDA. Aplicação do art. 932, III, do Código Civil.
+DANOS MORAIS - DEMONSTRAÇÃO - SOFRIMENTO INDENIZÁVEL - Montante que deve ser proporcional à natureza e gravidade do dano, levando-se em consideração a condição socioeconômica das partes, sob pena de enriquecimento ilícito Arbitramento no valor de R$ 50.000,00 (cinquenta mil reais), para cada autor, corrigido desde o arbitramento (Súmula 362, STJ), com juros contados do evento danoso (Súmula, 48, STJ).
+SEGURADORA - DENUNCIAÇÃO À LIDE - REEMBOLSO DAS INDENIZAÇÕES FIXADAS. CORREÇÃO MONETÁRIA E JUROS DE MORA - TERMO INICIAL A partir da data da celebração do contrato e da citação, respectivamente - Entendimento do STJ. APELO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 435/437).
+Nas razões do recurso especial (e-STJ fls. 439/455), fundamentado no art. 105, III, "c", da CF, a parte recorrente alegou que os juros de mora para os danos morais tem o termo inicial a partir da fixação da indenização.
+No agravo (e-STJ fls. 472/477), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não houve contraminuta (e-STJ fl. 480).
+É o relatório.
+Decido.
+A jurisprudência desta Corte está sedimentada no sentido de que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados.
+Sob esse aspecto, confira-se o seguinte julgado da Corte Especial em hipótese análoga:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/3/2014.
+A recorrente não particularizou o dispositivo de lei sob o qual recairia a divergência, além de não ter realizado o cotejo analítico entre os arestos confrontados, nos termos dos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC. Em tal circunstância, aplica-se, ao caso, a Súmula n. 284 do STF, tendo em vista a deficiência na fundamentação recursal.
+Sob outro aspecto, tendo ocorrido um atropelamento, a responsabilidade é extracontratual, fluindo os juros de mora a partir do evento danoso, de acordo com a Súmula n. 54 do STJ. O termo inicial, portanto, foi fixado de acordo com o entendimento desta Corte quanto ao tema.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
