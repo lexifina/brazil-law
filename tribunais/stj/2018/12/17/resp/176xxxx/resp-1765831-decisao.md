@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. TRIBUTÁRIO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. NULIDADE DE CDA. AUSÊNCIA DE INTIMAÇÃO DO SÓCIO EM PROCEDIMENTO ADMINISTRATIVO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFERIMENTO DE TUTELA DE URGÊNCIA. NÃO ESGOTAMENTO DO OBJETO DA AÇÃO PRINCIPAL. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado da Paraíba, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do mesmo Estado, nesses termos ementado:
+AGRAVO DE INSTRUMENTO AÇÃO ANULATÓRIA DE PROCESSO ADMINISTRATIVO. CERTIDÕES DE DÍVIDA ATIVA. INCLUSÃO DOS NOMES DOS SÓCIOS DA PESSSOA JURÍDICA. CORRESPONSABILIDADE PELO DÉBITO TRIBUTÁRIO. PROCESSO ADMINISTRATIVO. AUSÊNCIA DE INTIMAÇÃO DOS CORRESPONSÁVEIS. NOTIFICAÇÃO DIRECIONADA APENAS À PESSOA JURÍDICA. VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, CONTRADITÓRIO E AMPLA DEFESA. IMPOSSIBILIDADE DE INCLUSÃO DOS NOMES DOS SÓCIOS NAS CERTIDÕES. SUPOSTO VÍCIO NA CONSTITUIÇÃO DAS CDAS. PRESENÇA DOS REQUISITOS DA TUTELA DE URGÊNCIA. REFORMA DA DECISÃO AGRAVADA. PROVIMENTO PARCIAL. AGRAVO INTERNO INTERPOSTO CONTRA O INDEFERIMENTO DO PEDIDO DE LIMINAR. RECURSO PREJUDICADO.
+1. A ausência de intimação dos sócios da pessoa jurídica responsável principal pelo débito tributário, em sede de procedimento administrativo, impede sua inclusão na CDA, configurando vício capaz de ensejar a nulidade do título executivo.
+2. Evidenciado o preenchimento dos requisitos da tutela de urgência, quais sejam, a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, resta viabilizada a concessão da tutela de urgência.
+3. O agravo interno interposto contra interlocutória que indeferiu requerimento liminar torna-se prejudicado pela superveniência do julgamento final de mérito do mandado de segurança.
+4. Agravo de Instrumento conhecido e parcialmente provido. Agravo Interno prejudicado.
+Os embargos de declaração opostos foram rejeitados.
+Sustenta a parte recorrente que o acórdão estadual contrariou (a) o art. 1.022, II, parágrafo único, II, e art. 489, §1º, IV, do CPC/2015, pois, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso, (b) o art. 3º da Lei 6.830/80, na medida em que as obrigações tributárias ocorreram no período em que o sócio fazia parte da empresa devedora, podendo ser, portanto, responsável tributário por ela, (c) o art. 1º, §3º, da lei 8.437/92 e art. 1º da Lei 9.494/97, alegando, em síntese que a concessão de medida liminar de caráter satisfativo viola o ordenamento jurídico e, portanto, deve ser cassada.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à alegada ofensa aos artigos 489 e 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Destaca-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO COMANDO DO ARTIGO 535 DO CPC/1973. OMISSÃO NÃO CARACTERIZADA. LITISPENDÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A pretensão de simples reexame de provas, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 948.438/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 20/09/2016)
+Rejeitada, portanto, a preliminar de violação dos arts. 489 e 1.022 do CPC/2015.
+Quanto à responsabilidade do sócio, o acórdão recorrido determinou a suspensão da CDA por entender que a ausência de intimação do sócio da pessoa jurídica responsável pelo débito, no procedimento administrativo, impede a sua inclusão em CDA.
+Contudo, verifica-se que o recorrente não impugnou tal fundamento, limitando-se a afirmar que a CDA goza de presunção de certeza e liquidez, e esta não foi ilidida em Juízo.
+A orientação preconizada no verbete 283 da Súmula do Supremo Tribunal Federal, também aplicada ao especial, impõe à parte recorrente o dever de impugnar todos os fundamentos suficientes, por si só, para a manutenção do acórdão recorrido, sob pena de não conhecimento desta espécie recursal.
+Sobre o tema, a jurisprudência dessa Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. COBRANÇA PELO USO DE FAIXA DE DOMÍNIO. POSSIBILIDADE. NECESSIDADE DE PREVISÃO NO CONTRATO DE CONCESSÃO. AUSÊNCIA DOS REQUISITOS PARA A COBRANÇA. REVISÃO DE CLÁUSULAS DO CONTRATO DE CONCESSÃO E ANÁLISE DOS FATOS.
+IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283 DO STF.
+1. A jurisprudência do STJ se firmou no sentido de que é possível a uma concessionária de serviço público exigir de outra concessionária o pagamento pelo uso de faixa de domínio, nos termos do art. 11 da Lei n. 8.987/1995, desde que haja previsão no contrato de concessão, por envolver justificativas importantes para o interesse público.
+2. No caso, o Tribunal de origem entendeu ser incabível a cobrança pelo uso da faixa de domínio, em razão da ausência dos requisitos para tanto. Dessa forma, para rever as conclusões da Corte de origem, a fim de aferir o cabimento da cobrança, seria necessário o reexame do conjunto fático-probatório dos autos e do contrato de concessão, o que é inviável na via eleita, em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1369585/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/11/2018, DJe 30/11/2018)
+Por fim, sobre a alegada impossibilidade de concessão de medida liminar no presente caso, o Tribunal de origem concluiu que foi feita uma análise do requerimento de tutela de urgência e a declaração de nulidade das CDAs não esgota o objeto da ação principal.
+O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem quanto ao tema, como insurgência que se funda na verificação das provas produzidas nos autos e sua valoração, demanda inafastável incursão no universo fático-probatório. Cediço é, porém, que não pode este Superior Tribunal de Justiça atuar como terceira instância revisora ou tribunal de apelação reiterada, a teor do verbete da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial" (cf. AgRg no REsp 1116290/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 03/08/2010; AgRg no AREsp 436.034/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 16/12/2013).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
