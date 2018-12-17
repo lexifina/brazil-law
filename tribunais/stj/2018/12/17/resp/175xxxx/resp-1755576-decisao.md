@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJPR que recebeu a seguinte ementa (e-STJ fls. 247/248):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - MAGISTRADO QUE JULGOU PROCEDENTES OS EMBARGOS E CORRIGIU, DE OFÍCIO, O VALOR DA CAUSA - PRETENSÃO DE MODIFICAÇÃO DO VALOR ATRIBUÍDO À CAUSA - EMBARGOS, CONTUDO, QUE NÃO DISCUTEM A INTEGRALIDADE DA DÍVIDA, DE MODO QUE O VALOR DEVE GUARDAR CONSONÂNCIA COM O PROVEITO ECONÔMICO PERSEGUIDO PELA PARTE EMBARGANTE - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE EGRÉGIO TRIBUNAL - ALEGAÇÃO DE QUE O VALOR DA CAUSA DEVE CORRESPONDER AO MONTANTE DA EXECUÇÃO ATUALIZADO COM JUROS E CORREÇÃO MONETÁRIA PACTUADOS NO CONTRATO, TOTALIZANDO UM VALOR DESPROPORCIONAL, QUE NÃO PODE PROSPERAR - PEDIDO DA PARTE EMBARGANTE QUE, ALÉM DE ESTAR COMPLETAMENTE DISSOCIADO DO ENTENDIMENTO DA CORTE SUPERIOR, REVELA COMPORTAMENTO CONTRADITÓRIO, EIS QUE POSTULA PELA MODIFICAÇÃO DO VALOR DADO À CAUSA, ATUALIZANDO-O, JUSTAMENTE, COM BASE NOS ENCARGOS QUE REPUTA ILEGAIS E QUE FORAM EXTIRPADOS PELA SENTENÇA - HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM PERCENTUAL SOBRE O VALOR DA CAUSA - INCIDÊNCIA DA CORREÇÃO MONETÁRIA A PARTIR DO AJUIZAMENTO - SÚMULA Nº 14 DO SUPERIOR TRIBUNAL DE JUSTIÇA - SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 272/278).
+Nas razões recursais (e-STJ fls. 281/292), fundamentadas no art. 105, III, "a" e "c", da CF, os recorrentes alegam, além de divergência jurisprudencial, ofensa aos arts. 85 e 291 do CPC/2015, sustentando necessidade de adequação do valor da causa com a pretensão econômica perseguida e obtida nos autos dos embargos à execução.
+A recorrida não apresentou contrarrazões (e-STJ fl. 294).
+É o relatório.
+Decido.
+Embora a recorrente tenha indicado violação da Lei n. 4.595/1964 e da Resolução n. 1.064/1985, não individualizou qual o dispositivo teria sido supostamente violado. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Não se admite recurso especial quanto à alegada violação a dispositivos de lei federal que não contêm comando normativo suficiente para infirmar as conclusões do acórdão recorrido.
+Incidência da Súmula 284/STF. Igualmente, a ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial atrai o óbice da referida súmula. Precedentes.
+2. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal nos termos da Súmula 13 do STJ.
+3. É inviável conhecer o apelo nobre pela divergência, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exigiria reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no Ag n. 1324730/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/6/2017, DJe 13/6/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. INCIDÊNCIA DA SÚMULA Nº 284/STF. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência atual deste STJ, o recurso especial interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal necessita da indicação do dispositivo federal que teria recebido interpretação divergente. Não sendo cumprido este requisito, o recurso especial não poderá ser conhecido, por não ser possível a exata compreensão da controvérsia. Incidência da Súmula 284 do STF. Precedentes.
+2. A menção a dispositivo legal em transcrição de trecho do acórdão paradigma não satisfaz o requisito da suficiência de fundamentação. Cabe ao recorrente mencionar com clareza o dispositivo legal que tenha sido violado ou cuja vigência tenha sido negada.
+3. Não há clareza na fundamentação quando a indicação do dispositivo legal violado depende de remissões a transcrições de acórdãos ou citações doutrinárias, pois não se pode exigir que o julgador suponha que o artigo legal indicado como violado seja o mesmo que consta em referidas transcrições.
+4. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, ônus do qual não se desincumbiu a recorrente.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 241.305/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/2/2013, DJe 14/2/2013).
+Além disso, a análise de afronta à Resolução n. 1.064/1985 é inviável nesta via recursal, porque tal norma não se enquadra no conceito de lei federal previsto na alínea "a" do permissivo constitucional. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO EX EMPTO. PRESCRIÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 458 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88 (..) 6. Agravo não provido.
+(AgRg no AREsp n. 363.347/DF, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 20/11/2013.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
