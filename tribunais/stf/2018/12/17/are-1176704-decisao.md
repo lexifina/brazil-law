@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. AGRAVO RETIDO. PRODUÇÃO DE NOVA PROVA PERICIAL – CERCEAMENTO DE DEFESA – INOCORRÊNCIA – SERVIDOR PÚBLICO MUNICIPAL – BETIM – RECOMPOSIÇÃO SALARIAL ESTABELECIDADE PELA LEI N° 2.441/94- REENQUADRAMENTO AO NOVO PLANO DE CARGOS, CARREIRAS E VENCIMENTOS – LEI MUNICIPAL N° 2.886/96 – OCORRÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO.
+    1- Não ocorre cerceamento de defesa se o processo estiver suficientemente instruído em condições de apreciar a questão fática que envolve o processo, garantido as partes o direito ao contraditório e a ampla defesa;
+    2- A discordância das partes quanto à conclusão apresentada pelo Perito Judicial não autoriza, por si só, a realização de nova prova pericial, pois a nova perícia somente se justifica em caso de vício vícios na produção da prova;
+    3- O enquadramento do servidor em novo plano de carreira é ato único, de efeitos concretos, a partir do qual transcorre o prazo prescricional quinquenal;
+    4- A ausência de requerimento do servidor quanto aos direitos remuneratórios referentes a regime jurídico anterior dentro do prazo prescricional de cinco anos, a contar da instituição do novo plano de cargos, carreiras e vencimentos (Lei nº 2.886/96), impossibilita a sua análise pelo Judiciário, ante a ocorrência da prescrição do próprio fundo de direito” (pág. 162 do documento eletrônico 11).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 5°, LV, XXXV; e 37, X, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, destaco que este Supremo Tribunal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 – ARE 748.371-RG/MT, Rel. Min. Gilmar Mendes).
+    Outrossim, para divergir da conclusão adotada pelo acórdão recorrido, no que tange ao fato do enquadramento do servidor em novo plano de carreira ser ato único, seria necessária nova interpretação da legislação infraconstitucional local aplicável à espécie (Lei Municipal 2.886/1996), circunstância que torna inviável o recurso, nos termos da Súmula 280 desta Corte. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. LEI MUNICIPAL Nº 7.169/96. SÚMULAS 279 E 280/STF. 1. Hipótese em que para dissentir da conclusão a que chegou o Tribunal de origem, seriam necessários a análise da legislação local pertinente e o reexame dos fatos e provas constantes dos autos. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. 2. Agravo regimental a que se nega provimento” (ARE 918.024-AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma)
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. MUNICÍPIO DE BELO HORIZONTE. PROGRESSÃO HORIZONTAL REGULADA PELA LEI MUNICIPAL 7.169/1996. ALEGADA VIOLAÇÃO DO ART. 37, XIV, DA LEI MAIOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DEFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. OFENSA A DIREITO LOCAL. SÚMULA 280 DO STF. Agravo regimental a que se nega provimento” (AI 833.042-AgR/MG, Rel. Min. Joaquim Barbosa, Segunda Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR DO MUNICÍPIO DE BELO HORIZONTE. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL 7.169/1996. REAPRECIAÇÃO DE NORMA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes.
+     II - Agravo regimental improvido” (ARE 732.450-AgR/MG, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
