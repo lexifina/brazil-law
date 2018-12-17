@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 197):
+MANDADO DE SEGURANÇA. SERVIÇOS NOTARIAIS E DE REGISTRO. TITULARIDADE. ALTERAÇÃO. CNPJ. NOVA INSCRIÇÃO. POSSIBILIDADE.
+Exigindo a Receita Federal do Brasil que uma pessoa física (notário ou registrador) se inscreva no CNPJ como se fosse uma pessoa jurídica, deve então admitir que, mudando a pessoa física responsável pela atividade delegada (atividade notarial ou de registro), o novo notário obtenha nova inscrição no CNPJ. A recusa de nova inscrição não é razoável por implicar o embaraço do exercício da atividade, em vez de facilitá-la.
+Opostos embargos declaratórios, foram rejeitados (fls. 220/223).
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 1.022, II, do CPC/15, ao argumento de que o acórdão foi omisso no que tange à análise da questão à luz do disposto nos artigos 1º, 3º, 4º e 5º, da Lei n. 5.614/70, no art. 3º, da Lei nº 8.935/1994, nos artigos 22 a 24, da Lei nº 8.935/1994, no art. 134, VI, do CTN e no art. 236, da CRFB; e
+(II) arts. 1º, 3º, 4º e 5º, da Lei nº 5.614/70, art. 3º da Lei nº 8.935/1994, arts. 22 a 24, da Lei nº 8.935/1994, e art. 134, VI, do CTN, normativa da qual se depreende que a inscrição no CNPJ não confere personalidade jurídica ao cartório. Assim, a delegação para os notários e oficiais é pessoal, não havendo qualquer transferência de obrigações com a mudança de titularidade. Desse modo, nova inscrição não é o instrumento hábil para resolver eventuais contratempos, decorrentes da alteração do titular da serventia. Esclarece, ainda, que como a inscrição feita no CNPJ é a do cartório, essa deve acompanhar a entidade durante toda sua existência, não havendo que se falar em nova inscrição pela simples mudança da titularidade.
+É o relatório. Passo a decidir.
+Verifica-se que o impedimento de nova inscrição no CNPJ em decorrência de mudança de titularidade no cartório judicial - determinação prevista na nota técnica COCAD nº 40/2010 - , foi alterada pela posterior nota técnica º 59/2017, que expressamente consigna que "é permitido que sejam criados novos identificadores no CNPJ para os cartórios de acordo com a posse de novos titulares de serviços notariais e de registro.".
+Nesse contexto, a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que a mudança superveniente do comportamento administrativo, ao reconhecer formalmente o direito discutido nos presentes autos, torna prejudicada a resistência da recorrente, por perda do objeto e ausência de interesse recursal. Nesse sentido, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. INSCRIÇÃO NO CNPJ. SERVENTIA EXTRAJUDICIAL ASSUMIDA POR NOVO TITULAR. ALTERAÇÃO DE NUMERAÇÃO. NOTA TÉCNICA COCAT 59/2017. POSSIBILIDADE. RECONHECIMENTO ADMINISTRATIVO E MUDANÇA SUPERVENIENTE DO ENTENDIMENTO DA AUTORIDADE FISCAL. RESISTÊNCIA RECURSAL PREJUDICADA. PERDA DO OBJETO E AUSÊNCIA DE INTERESSE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A controvérsia sub examine versa sobre pleito de nova inscrição no CNPJ para Tabelionato assumido por titular nomeado após concurso de provas e títulos.
+2. A Nota Técnica Cocad 59, de 8.3.2017, alterou o entendimento anterior firmado na Nota Técnica 40/2010, que impossibilitava, no caso de substituição do titular de cartório, a criação de novo CNPJ para a serventia.
+3. De acordo com a Nota Técnica Cocad 59/2017, "é permitido que sejam criados novos identificadores no CNPJ para os cartórios de acordo com a posse de novos titulares de serviços notariais e de registro" (fls. 229-231, e-STJ).
+4. A mudança superveniente do comportamento administrativo e o reconhecimento formal do direito discutido nos autos torna prejudicada a resistência da recorrente, por perda do objeto e ausência de interesse recursal.
+5. Recurso Especial não conhecido.
+(REsp 1696454/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/10/2017, DJe 19/12/2017)
+Ante o exposto, julgo prejudicado o presente recurso especial por perda do objeto.
+Publique-se.
