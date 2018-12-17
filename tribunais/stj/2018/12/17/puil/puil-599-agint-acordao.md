@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Caso em que o Tribunal de origem deu parcial provimento ao recurso para o fim de reconhecer o direito ao reajuste mensal do vale-refeição, atualizando as parcelas "desde a data em que deveriam ter sido pagas, mês a mês, pelo IGPM e, a partir de 30.6.2009, pelos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança (art. 1º-F da Lei 9.494/2007)", respeitado o prazo prescricional, e observados os períodos de efetivo exercício.
+2. A inadmissibilidade do pedido aqui deduzido é medida que se impõe. Isso porque o acórdão recorrido realmente não se manifestou, nem mesmo implicitamente, aceca da tese segundo a qual os juros de mora são devidos apenas após a citação (artigos 219 do CPC/1973 e 405 do Código Civil).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães e os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Herman Benjamin, Napoleão Nunes Maia Filho e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Estado do Rio Grande do Sul contra decisão de minha lavra, assim ementada (fls. 481-483):
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO. PEDIDO NÃO CONHECIDO.
+O agravante sustenta que, ao contrário do que restou consignado na decisão impugnada, é cabível o incidente "porque o acórdão proferido pela Turma Recursal gaúcha enfrentou a matéria concernente ao termo inicial de juros".
+Ao final, requer a reforma da decisão agravada, a fim de que seja conhecido "e integralmente provido o pedido de uniformização de interpretação de lei".
+Decorreu o prazo para apresentar impugnação (certidão de fl. 509).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Caso em que o Tribunal de origem deu parcial provimento ao recurso para o fim de reconhecer o direito ao reajuste mensal do vale-refeição, atualizando as parcelas "desde a data em que deveriam ter sido pagas, mês a mês, pelo IGPM e, a partir de 30.6.2009, pelos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança (art. 1º-F da Lei 9.494/2007)", respeitado o prazo prescricional, e observados os períodos de efetivo exercício.
+2. A inadmissibilidade do pedido aqui deduzido é medida que se impõe. Isso porque o acórdão recorrido realmente não se manifestou, nem mesmo implicitamente, aceca da tese segundo a qual os juros de mora são devidos apenas após a citação (artigos 219 do CPC/1973 e 405 do Código Civil).
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES(Relator): Trata-se de pedido de uniformização de interpretação de lei formulado pelo Estado do Rio Grande do Sul, com fundamento no artigo 18, § 3º, da Lei n. 12.153/2009, contra acórdão, de fls. 256-266, oridundo da Turma Recursal da Fazenda Pública de Porto Alegre que, em sede de recurso inominado, reconheceu o direito da parte autora ao realinhamento do valor do vale-refeição, condenando, ainda, o ora requerente, ao pagamento das diferenças apuradas, com correção monetária do montante pelo IGP-M até 30/6/2009 e, a partir de então, pelos índices de remuneração básica, com adoção de juros moratórios pela poupança.
+Os embargos de declaração foram desacolhidos (fls. 282-287).
+O requerente argumenta em apertada síntese que o acórdão recorrido "está em dissonância com o acórdão paradigma proferido pela 1ª Turma do Colégio Recursal dos Juizados Especiais da Fazenda Pública de São Paulo, no qual restou estabelecido que os juros de mora, nos termos da Lei n. 11.960/2009, são devidos apenas após a citação".
+Ao final, requer o acolhimento do pedido, a fim de que "os juros de mora incida a contar da citação" (fl. 334).
+Com efeito, o art. 18, § 3º, da Lei 12.153/2009 admite a possibilidade de pedido de uniformização de jurisprudência perante o Superior Tribunal de Justiça nos seguintes termos:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+ ..
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado. (grifei)
+No caso concreto, o requerente aponta dissídio entre as Turmas Recursais da Fazenda Pública dos Estados da Federal, e, também, com a jurisprudência do STJ, quanto à interpretação das normas previstas no artigo 1º-F da Lei n. 9.494/1997, artigo 219 do CPC/1973 e 405 do Código Civil, no que tange ao termo inicial dos juros moratórios nas condenações contra a Fazenda Pública. Requer, em apertada síntese, a prevalência do entendimento que fixa os juros de mora a partir da citação.
+O dispositivo do acórdão oriundo Turma Recursal bem explicita a questão, verbis:
+Isso posto, (i) mantenho a extinção do feito, sem resolução do mérito, em relação à coautora [NOME], e, (ii) quanto aos demais coautores, dou parcial provimento ao recurso, para o fim de reconhecendo, sem incorporação ao vencimento dos servidores, o direito ao reajuste mensal do vale-refeição, no período não alcançado pela prescrição (Súmula 85 do STJ) e até 31 de março de 2010 (Lei nº 13.429/10) condenar o réu, observada a limitação supra, ao pagamento, no que tange aos meses de efetivo exercício das atribuições do cargo dos servidores, das diferenças entre o valor pago administrativamente e o que deveria ter sido pago, em se reajustando o benefício, mensalmente, a partir de 1s de março de 2000 (quando significava R$3,96), pela variação do índice da cesta básica apurado pelo IEPE/UFRGS referente ao mês anterior; sobre o valor nominal de cada diferença apurada deve incidir, desde a data em que cada uma deveria ter sido satisfeita, correção monetariamente pelo IGP-M e, a partir de 30 de junho de 2009, unicamente, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Os cálculos serão realizados no âmbito do Juízo a quo, sem incidência de imposto de renda ou de contribuição previdenciária, face à natureza indenizatória das parcelas.
+Ante o resultado do julgamento, e porque não foi o réu o recorrente, sem ônus de sucumbência. (fl. 264 e-STJ)
+Como se denota, o Tribunal de origem deu parcial provimento ao recurso para o fim de reconhecer o direito ao reajuste mensal do vale-refeição, ao fundamento de que o valor nominal de cada diferença apurada "deve incidir, desde a data em que cada uma deveria ter sido satisfeita, correção monetariamente pelo IGP-M e, a partir de 30 de junho de 2009, unicamente, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança".
+Anote-se que os embargos de declaração foram desacolhidos no seguinte teor:
+Estou conhecendo dos embargos de declaração, ante o preenchimento dos requisitos de admissibilidade.
+Já quanto à questão de fundo, mesma sorte não tem o recurso. Vejamos:
+A definição do período de incidência de juros restou, diferentemente do arguido pelo recorrente, assentada no decisum vergastado, que assim explicitou, verbis:
+ ..
+Da mesma forma, a definição do período de incidência de juros está, também, diferentemente do arguido pelo réu/embargante, consignada no acórdão atacado, verbis:
+Isso posto, (i) mantenho a extinção do feito, sem resolução do mérito, em relação à coautora [NOME], e, (ii) quanto aos demais coautores, dou parcial provimento ao recurso, para o fim de reconhecendo, sem incorporação ao vencimento dos servidores, o direito ao reajuste mensal do vale-refeição, no período não alcançado pela prescrição (Súmula 85 do STJ) e até 31 de março de 2010 (Lei nº 13.429/10) condenar o réu, observada a limitação supra, ao pagamento, no que tange aos meses de efetivo exercício das atribuições do cargo dos servidores, das diferenças entre o valor pago administrativamente e o que deveria ter sido pago, em se reajustando o benefício, mensalmente, a partir de 1s de março de 2000 (quando significava R$3,96), pela variação do índice da cesta básica apurado pelo IEPE/UFRGS referente ao mês anterior; sobre o valor nominal de cada diferença apurada deve incidir, desde a data em que cada uma deveria ter sido satisfeita, correção monetariamente pelo IGP-M e, a partir de 30 de junho de 2009, unicamente, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Os cálculos serão realizados no âmbito do Juízo a quo, sem incidência de imposto de renda ou de contribuição previdenciária, face à natureza indenizatória das parcelas.
+Ante o resultado do julgamento, e porque não foi o réu o recorrente, sem ônus de sucumbência.
+Ou seja, a decisão está fundamentada, não sendo exigido pelo julgar "expressa referência às normas legais que pretende a parte eventualmente questionar.."
+Dessa forma, como já consignado na decisão agravada, faz-se necessário reconhecer a inadmissibilidade do pedido aqui deduzido. Isso porque o acórdão recorrido realmente não se manifestou, nem mesmo implicitamente, aceca da tese segundo a qual os juros de mora são devidos apenas após a citação (artigos 219 do CPC/1973 e 405 do Código Civil).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
