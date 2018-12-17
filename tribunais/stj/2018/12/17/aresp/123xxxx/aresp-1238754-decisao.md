@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 5 e 7 do STJ e 282 e 356 do STF (e-STJ fls. 560/565).
+O acórdão do TJRS traz a seguinte ementa (e-STJ fl. 527):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL. Configurada a culpa recíproca da autora na rescisão do contrato de promessa de compra e venda de produtos e serviços de abastecimento e lubrificação de veículos. Requerente que atrasou a entrega dos materiais de identificação da marca ao posto de combustível requerido. Devolução parcial pelo réu da quantia alcançada pela autora à título de bonificação, que deve ser proporcional à vigência do contrato. Mantida a sentença de parcial procedência da ação. NEGARAM PROVIMENTO AO APELO. UNÂNIME.
+Nas razões do recurso especial (e-STJ fls. 535/544), interposto com fundamento no art. 105, III, alínea "a", da CF, a recorrente requereu, em caráter subsidiário, a devolução total do valor da bonificação antecipada ao recorrido, no caso de improcedência do pedido de imputação de culpa exclusiva a esse pela rescisão da avença, visto que inexistiria previsão contratual de restituição proporcional do referido encargo.
+Indicou desrespeito aos arts. 113 e 422 do CC/2002, argumentando que estaria comprovada a culpa exclusiva do recorrido, e não recíproca das partes, pelo desfazimento do contrato celebrado entre essas, o que justificaria a condenação desse ao pagamento da multa contratual, à restituição integral dos valores que lhe foram antecipados - a título de bonificação - bem como à devolução dos materiais entregues em comodato.
+Não foram apresentadas contrarrazões (e-STJ fl. 558).
+No agravo (e-STJ fls. 575/581), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 585).
+É o relatório.
+Decido.
+Nas razões do especial, a recorrente deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada quanto ao requerimento subsidiário de devolução total do valor da bonificação antecipada ao recorrido, no caso de improcedência do pedido de imputação de culpa exclusiva a esse pela rescisão da avença, visto que inexistiria previsão contratual de restituição proporcional do referido encargo.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+A propósito: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+O Tribunal a quo, soberano na análise do processo cognitivo dos autos, reconheceu que houve culpa recíproca das partes pela rescisão da promessa de compra e venda de produtos e serviços de abastecimento e de lubrificação de veículos celebrado entre essas, o que justificou a restituição proporcional da bonificação financeira antecipada pela recorrente à parte recorrida, nos termos a seguir (e-STJ fls. 530/531):
+Não há dúvidas de que a requerente também contribuiu para a rescisão do contrato, configurando-se, portanto, a culpa recíproca.
+O negócio de promessa de compra e venda de produtos e serviços de abastecimento e lubrificação de veículos, que envolveu diversos contratos, teve como termo inicial o dia 31 de outubro de 2007, conforme escritura pública das fls. 114/117).
+Todavia, as notas fiscais (fls. 36/38) indicam a entrega de materiais para instalação de sinais característicos da marca ao posto de combustível tão-somente em 29 de janeiro de 2009, ou seja, mais de um ano após a assinatura do contrato.
+É cediço que a ausência dos sinais característicos do posto de combustível gera dúvida ao consumidor e, consequentemente, prejudica o faturamento do estabelecimento, mostrando-se desnecessária qualquer prova nesse sentido.
+Assim, a conduta da requerente contribuiu para o inadimplemento contratual do demandado, que teve dificuldades em manter a aquisição dos produtos daquela nos termos contratados.
+E embora a alegação da apelante, de que os materiais descritos nas notas se tratavam de meros complementos à marca, o fato não a exime da culpa recíproca pela rescisão, pois houve inadimplemento de qualquer forma.
+E em relação ao contrato de antecipação de bonificação, incabível a devolução integral da quantia de R$ 620.000,00, uma vez que houve culpa da autora no descumprimento contratual pelo posto de combustível.
+Desse modo, cabível considerar o tempo de vigência do contrato para o abatimento equitativo em relação ao período, admitindo-se a devolução proporcional da quantia, sobremodo pelo fato de que tal bonificação, como bem referiu a apelante, serviu de incentivo ao revendedor, pelo menos naquele período, para dar início ao seu investimento.
+Constata-se, portanto, que a Corte local não se manifestou sobre:
+(i) o requerimento subsidiário de devolução total do valor da bonificação antecipada ao recorrido, no caso de improcedência do pedido de imputação de culpa exclusiva a esse pela rescisão da avença, visto que inexistiria previsão contratual de restituição proporcional do referido encargo,
+(ii) os pedidos de condenação do recorrido ao pagamento de multa contratual e devolução dos materiais recebidos em comodato e
+(iii) os arts. 113 e 422 do CC/2002.
+Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a mencionada tese, os referidos pedidos e a matéria contida em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Rever as conclusões da Corte local, para reconhecer a existência de culpa exclusiva da parte recorrida pela rescisão do contrato supramencionado e, por consequência, condená-la à restituição integral da bonificação financeira antecipada à essa pela recorrente e ao pagamento dos demais encargos rescisórios, exigiria a revisão e a desconstituição da interpretação das cláusulas dos instrumentos contratuais discutidos, bem como o reexame do acervo fático-probatório dos autos, providências vedadas nesta sede especial, a teor das Súmulas n. 5 e 7 do STJ. Nesse aspecto:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO DA DECISÃO RECORRIDA NA VIGÊNCIA DO CPC/1973. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem examinou os elementos fáticos dos autos para concluir pela existência de culpa recíproca no descumprimento contratual. Dessa forma, o exame da pretensão recursal no sentido de verificar a alegada culpa exclusiva dos recorridos demandaria o reexame das cláusulas contratuais e provas dos autos, o que é vedado em sede de recurso especial.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 733.630/DF, de minha Relatoria, QUARTA TURMA, julgado em 7/4/2016, DJe 12/4/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CONTRATUAL. 1. PROCESSUAL CIVIL. EMBARGOS INFRINGENTES (ART. 530 DO CPC/1973). DIVERGÊNCIA MANIFESTADA NO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS AO ACÓRDÃO UNÂNIME DA APELAÇÃO. CABIMENTO. 2. VIOLAÇÃO A DEVER JURÍDICO ESPECÍFICO POR AMBAS AS PARTES. CULPAS RECÍPROCAS. QUESTÃO DECIDIDA PELAS INSTÂNCIAS ORDINÁRIAS MEDIANTE PROFUNDA ANÁLISE DO CONTRATO E DO CONJUNTO PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO INTERNODESPROVIDO.
+(..)
+2. Com amparo no acervo probatório e no contrato firmado entre as partes, reconheceram a violação de dever jurídico específico por ambas as partes, acarretando a completa inexequibilidade da obrigação principal. Rever tais conclusões esbarraria nos óbices das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.590.349/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/8/2018, DJe 6/9/2018.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
