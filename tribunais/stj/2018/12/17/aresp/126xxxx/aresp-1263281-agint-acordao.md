@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Negou-se seguimento ao recurso especial na origem sob os seguintes fundamentos: Súmula n. 7/STJ e ausência de prequestionamento. Agravo nos próprios autos que não impugna o fundamento da decisão recorrida.
+II - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem, não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. No caso dos autos, não decisão que nega seguimento ao recurso especial é clara a negativa de seguimento do recurso especial com fundamento na ausência de prequestionamento da "matéria de fundo da exceção de pré-executividade".
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno contra decisão que não conheceu do agravo em recurso especial por falta de impugnação de fundamentos de negativa de seguimento do recurso especial na origem.
+Na origem, o recurso especial foi interposto contra acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ- EXECUTIVIDADE - MATÉRIA AFERÍVEL DE PLANO E PROVA PRÉ-CONSTITUÍDA - LITIGÂNCIA DE MÁ-FÉ - ART. 81, CPC - CARATÉR PROCRASTINATÓRIO - RECURSO IMPROVIDO.
+1.Prejudicado o agravo interno, tendo em vista o julgamento do mérito do agravo de instrumento a seguir.
+2.A exceção de pré-executividade , admitida em nosso direito por construção doutrinário-jurisprudencial, tem como escopo a defesa atinente à matéria de ordem pública, tais como a ausência das condições da ação e dos pressupostos de desenvolvimento válido do processo, desde que comprovadas de plano , mediante prova pre-constituída.
+3.A jurisprudência do Superior Tribunal de Justiça e desta Corte aquiesce ao restringir a exceção de pré-executividade às matérias reconhecíveis de ofício e aos casos aferíveis de plano , sem necessidade de contraditório e dilação probatória.
+4.A nulidade formal e material da certidão de dívida ativa é matéria
+que o juiz pode conhecer de plano, sem necessidade de garantia da execução ou interposição dos embargos, sendo à exceção de pré- executividade via apropriada para tanto.
+5.Não se obstante ser mera construção jurisprudencial, deve a exceção de pré-executividade coadunar-se com toda a sistemática processual vigente, sob pena de eternizar a demanda. ó.Compulsando os autos, verifica-se que a agravante apresentou mais de uma exceção de pré-executividade, cujos argumentos poderiam ter sido concentrados na primeira oportunidade, nâo sendo superveniente à apresentação da primeira objeção.
+7.A condenação em litigância não decorreu da apresentação da última exceção (que teria alegada a superveniente Súmula Vinculante nº 21/STF), mas pelo fato de que a parte executada teria apresentado outras quatro objeções diferentes e sucessivas.
+8.Em que pese a publicação da Súmula Vinculante 21/STF tenha ocorrido somente em 10.11.2009, cumpre observar que sua argumentação revela o caráter procrastinatório do manejo da objeção, uma vez que o referido enunciado ("É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens
+para admissibilidade de recurso administrativo.") não guarda qualquer pertinência com o crédito tributário em comento, principalmente quando se analisa as razões da excipiente: "em consulta aos órgãos fazendários restou constatada a possibilidade de existir outras causas que inibem o desenvolvimento regular desta ação executiva, uma vez que o crédito tributário em cobro pode estar revestido de vicio insanável, afrontando diretamente a SÚMULA VINCULANTE  21 DO STF. (..) .. há fortes evidências de que restou tolhido na esfera administrativa, o direito da Executada esculpido no inciso LV, do art. 5º, da Magna Carta, (..), em razão da exigência, na época, do depósito de 20% (trinta por cento) para o prosseguimento do recurso administrativo", requerendo a intimaçâo da exequente e da Receita Federal para que se manifestasse acerca da nulidade da dívida fiscal e, depois , restando comprovada a ocorrência de cerceamento de defesa da executada na esfera administrativa, a extinção da execucão fiscal (fls. 303/318).
+9.No caso, a excipiente, ora agravante, lança mão de argumentos genéricos, alegando a possibilidade de eventual nul idade, tendo em vista a incerta imposição de depósito prévio na esfera administrativa. Assim, tem cabimento a aplicação da multa por litigância de má-fé, nos termos do art. 81, CPC.
+10.Quanto à matéria deduzida na exceção, não tem cabimento sua apreciação nesta sede de cognição, porquanto não foi apreciada pelo Juízo de origem, caracterizando sua apreciação, por esta Corte, supressão de instância.
+11.Agravo interno prejudicado e agravo de instrumento improvido.
+No agravo interno, alega a parte agravante que impugnou os fundamentos da decisão que negou seguimento ao recurso especial na origem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O agravo interno não merece provimento.
+Alega a parte agravante que o fundamento relativo à ausência de prequestionamento não foi aplicado na decisão que negou seguimento ao recurso especial na origem, e que, por isso, não seria caso de aplicação do art. 932, III, do Código de Processo Civil de 2015 para não conhecer do agravo nos próprios autos.
+No caso dos autos, entretanto, na decisão que nega seguimento ao recurso especial, é clara a negativa de seguimento do recurso especial com fundamento na ausência de prequestionamento da "matéria de fundo da exceção de pré-executividade", conforme se percebe do seguinte trecho:
+Por fim, eventual alegação recursal quanto ao mérito da matéria de fundo da exceção de pré-executividade não deve ser conhecida porquanto não foi analisada por esta Corte ao fundamento da supressão de instância.
+Assim, as alegações são insuficientes para modificar a decisão que não conheceu do agravo nos próprios autos por falta de impugnação do fundamento de ausência de prequestionamento.
+Não existindo impugnação à decisão que negou seguimento ao recurso especial, correta a aplicação do art. 544, 4º, I, do Código de Processo Civil de 1973 (atual art. 932, III, do Código de Processo Civil de 2015), para não conhecer do agravo nos próprios autos.
+Nesse sentido, os seguintes precedentes: AgRg nos EREsp n. 1.387.734/RJ, Corte Especial, Rel. Min. Jorge Mussi, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp n. 402.929/SC, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 27/8/2014; AgInt no AREsp n. 880.709/PR, Segunda Turma, Rel. Ministro Mauro Campbell Marques, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, Terceira Turma, Rel. Ministro Paulo de Tarso Sanseverino, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, Quarta Turma, Rel. Ministro Luis Felipe Salomão, DJe de 12/4/2016; AgRg no REsp n. 1.575.325/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 1º/6/2016; e, AgRg nos EDcl no AREsp n. 743.800/SC, Sexta Turma, Rel. Ministra Maria Thereza de Assis Moura, DJe de 13/6/2016.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
