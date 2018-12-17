@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos dispositivos indicados, além de não restar demonstrado o dissídio jurisprudencial (e-STJ fls. 278/279).
+O acórdão recorrido está assim ementado (e-STJ fl. 182):
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO. VEÍCULO. PARCELAS. CONSIGNAÇÃO EM PAGAMENTO. MORA DESCARACTERIZADA. BUSCA E APREENSÃO. PROVIDÊNCIAS. SUSPENSÃO. CONSUMIDOR. MOTOCICLETA. POSSE. RECURSO IMPROVIDO.
+1. Precedente do Superior Tribunal de Justiça: "Esta Corte de Uniformização Infraconstitucional firmou entendimento no sentido de que o depósito efetuado a menor em ação de consignação em pagamento não acarreta a total improcedência do pedido, na medida em que a obrigação é parcialmente adimplida pelo montante consignado, acarretando a liberação parcial do devedor. O restante do débito, reconhecido pelo julgador, pode ser objeto de execução nos próprios autos da ação consignatória (cf. REsp nº 99.489/SC, Rel. Ministro BARROS MONTEIRO, DJ de 28.10.2002; REsp nº 599.520/TO, Rel. Ministra NANCY ANDRIGHI, DJ de 1.2.2005; REsp nº 448.602/SC, Rel. Ministro RUY ROSADO DE AGUIAR, DJ de 17.2.2003; AgRg no REsp nº 41.953/SP, Rel. Ministro ALDIR PASSARINHO JÚNIOR, DJ de 6.10.2003; REsp nº 126.326/RJ, Rel. Ministro BARROS MONTEIRO, DJ de 22.9.2003)." (REsp 613552/RS, Rel, Min. Jorge Scartezzini, Quarta Turma, Unânime, DJ: 14/11/2005, p. 329).
+2. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 203/207).
+Nas razões do recurso especial (e-STJ fls. 319/330), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alegou, além do dissídio jurisprudencial ofensa ao art. 3º, §§ 3º e 8º, do Decreto-Lei n. 911/1969. Sustentou, em síntese, que a existência de ação revisional e de consignação em pagamento, com depósito a menor do saldo devedor, não inibe o trâmite da ação de busca e apreensão.
+No agravo (e-STJ fls. 281/291), refuta os fundamentos da decisão agravada e alega ter cumprido todos os requisitos legais para o recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 299).
+É o relatório.
+Decido.
+Cuida-se, na origem, de agravo de instrumento contra decisão que determinou a suspensão da ação de busca e apreensão até o trânsito em julgado da ação consignatória, que teria afastado a mora. A Corte estadual manteve a decisão, nos seguintes termos (e-STJ fl. 184):
+O Banco Volkswagen S.A. interpôs Agravo de Instrumento dizendo do inconformismo com a decisão proferida pela MMª Juíza de Direito Ivete Tabalipa, no exercício da 4ª Vara Cível da Comarca de Rio Branco, em Ação de Busca e Apreensão (processo n.º 0010467-51.2011.8.01.0001) ajuizada em desfavor de [NOME], objetivando a busca e apreensão da motocicleta Yamaha XTZ 125-E, ano/modelo 2008, cor preta, placa [PLACA], que suspendeu as providências de busca e apreensão até o trânsito em julgado da ação de consignação em pagamento n.º 0012066-25.2011.8.01.0001 - julgada procedente - que descaracterizou a mora contratual, destarte, mantido o veículo na posse da consumidora Recorrida.
+Na espécie, acertada a decisão recorrida que determinou a suspensão das providências de busca e apreensão até o trânsito em julgado da ação de consignação em pagamento n.º 0012066-25.2011.8.01.0001 - julgada procedente - que descaracterizou a mora contratual, requisito necessário a ensejar o o pedido de busca e apreensão.
+De outro lado, verifica-se que o Tribunal de origem entendeu que a mora estaria descaracterizada, tendo em vista decisão proferida na ação de consignação em pagamento. Assim, a conclusão está em consonância com a jurisprudência do STJ, que se firmou no sentido de que a comprovação da mora "é imprescindível à busca e apreensão do bem alienado fiduciariamente", nos termos da Súmula n. 72/STJ. A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. CONTRATO. REVISÃO. ENCARGOS ILÍCITOS. NORMALIDADE. MORA. DESCARACTERIZAÇÃO. BUSCA E APREENSÃO. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. IMPOSSIBLIDADE. NÃO PROVIMENTO.
+1. A cobrança de encargos ilícitos no período de normalidade do contrato descaracterizam a mora. Precedentes.
+2. Descaracterizada a mora, não se admite a busca e apreensão do bem dado em garantia fiduciária ou a inscrição dos dados do suposto devedor em cadastro de maus pagadores. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1253962/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2012, DJe 14/02/2012.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
