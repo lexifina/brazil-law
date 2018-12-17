@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial diante da falta de violação do art. 535 do CPC e por incidência das Súmulas n. 5 e 7 do STJ.
+O Tribunal de origem negou provimento ao agravo inominado interposto pelo agravante, conforme a ementa a seguir (e-STJ fl. 482):
+AGRAVO INOMINADO. APELAÇÃO CÍVEL. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA POR SEUS PRÓPRIOS FUNDAMENTOS. AÇÃO COBRANÇA C/C REPARATÓRIA. RESCISÃO UNILATERAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇO. MULTA CONTRATUAL. INCIDÊNCIA. Apelante que refuta a incidência da multa contratual. Alegação de rescisão do contrato por descumprimento da cláusula 1 5 a pela apelada. Contrato que prevê em sua cláusula 22 a a possibilidade de rescisão unilateral do contrato por descumprimento de disposição contratual, mediante envio de aviso escrito a parte infratora. Apelante que rescindiu a avença sem aviso prévio. Incidência da multa contratual prevista na cláusula 2ª, diante da rescisão imotivada em momento anterior ao termo final de vigência do contrato. Sentença que se mantém. Negativa de seguimento do recurso que ora se ratifica.
+DESPROVIMENTO DO AGRAVO INOMINADO.
+Os embargos declaratórios opostos pelo agravante foram rejeitados (e-STJ fls. 492/496).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a", da CF, o agravante apontou ofensa aos arts. 131 e 333, II, do CPC/1973, argumentando que " se o Tribunal a quo tivesse dado correta valoração àquelas provas, o v. Acórdão teria considerado o inadimplemento da recorrida e, consequentemente, a rescisão por justa causa do contrato, nos exatos termos das cláusulas 15ª (décima quinta) e 22ª (vigésima segunda)" (e-STJ fl. 508).
+Aduziu ainda que o acórdão recorrido teria violado o art. 422 do CC/2002, prestigiando a má-fé da recorrido que teria deixado de "pagar seus funcionários, infringindo o contrato celebrado entre as partes" (e-STJ fl. 508).
+Foram apresentadas contrarrazões (e-STJ fl. 517/519).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O agravante apontou, de forma genérica, a ofensa ao art. 535 do CPC/1973, sem indicar, todavia, de que modo o dispositivo teria sido ofendido ou como a Corte local lhe teria negado vigência. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+Sobre a rescisão contratual, o Tribunal de origem assim se manifestou (e-STJ fls. 483/485):
+O objeto do apelo cinge-se a análise da pertinência da, condenação imposta ao ora agravante quanto o pagamento da multa prevista na cláusula 2ª do contrato de prestação de serviços avençado entre as partes.
+A referida cláusula contratual prevê a incidência de multa na hipótese de rescisão imotivada do contrato em momento anterior ao prazo de vigência.
+Assim, cumpre examinar, à luz das cláusulas contratuais, se o ora agravante rescindiu unilateralmente o contrato por motivo justo e se existia algum requisito a ser observado.
+A solução da controvérsia perpassa pela interpretação das cláusulas 2ª, 15ª e 22ª do contrato em questão, in verbis:
+"2ª - O prazo deste contrato será de 24 (vinte e quatro) meses, iniciando-se em 0110812007, podendo ser rescindido a qualquer tempo, desde que a parte solicitante pague multa referente a 3 (três) vezes o valor da fatura em vigência da prestação dos serviços, ou para isenção da multa, cumprir o prazo acima estabelecido.
+15ª - A contratada obriga-se, ainda, a comprovar mensalmente a contratante, por documentos, que se acha em dia com os encargos trabalhistas, previdenciários, securitários sociais, que são de inteira e exclusiva responsabilidade da própria contratada.
+22ª - O descumprimento de qualquer das cláusulas previstas neste contrato também resultará na rescisão imediata do presente contrato, bastando, para tanto, simples aviso escrito, com cópia, dirigido a parte infratora."
+Como relatado, o ora agravante alega que rescindiu unilateralmente o contrato, diante do descumprimento, pela agravada da obrigação prevista na cláusula 15ª, pois teria solicitado a apresentação da documentação referente ao pagamento de salários e encargos trabalhistas de seus funcionários, mas esta teria se recusado.
+A agravada afirma que mantinha os documentos em questão a disposição do agravante, diante da previsão contratual e que a avença foi rescindida unilateralmente por este sem qualquer comunicação prévia.
+Não obstante as alegações deduzidas, nenhuma das partes comprova tais assertivas.
+O agravante defende não ser devida a multa contratual sob o fundamento de que rescindiu o contrato de prestação de serviços por motivo justo, lastreado na cláusula 22ª, que assim autorizava, no caso de descumprimento de qualquer disposição contratual.
+Entretanto, verifica-se que a referida cláusula prevê forma específica para esta rescisão, exigindo, para tanto, o envio de aviso escrito à parte infratora.
+Compulsando os autos observa-se que o agravante não carreou aos autos documento que comprove ter solicitado a documentação trabalhista dos funcionários da agravada que prestavam serviços no Condomínio, o que, em tese, poderia demonstrar o descumprimento da cláusula 15ª, bem como não apresenta documento escrito comunicando previamente a agravada a rescisão do contrato por descumprimento de cláusula, comprovando assim o cumprimento da exigência prevista na cláusula 22ª.
+Neste contexto, infere-se que o ora agravante procedeu à rescisão do contrato sem o devido envio, à agravada, de aviso prévio escrito comunicando sua resolução em romper a avença pela inobservância de obrigação nela prevista, conforme exigia a disposição contratual.
+Assim, afigura-se legítima a exigência da multa contratual prevista na cláusula 2ª, diante da rescisão imotivada do contrato antes do seu termo final de vigência, descabendo qualquer reforma na bem lançada sentença a quo.
+Nesse contexto, a modificação das conclusões do acórdão recorrido a fim de reconhecer a alegada má-fé e afastar a multa contratual prevista para o caso de rescisão imotivada, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
