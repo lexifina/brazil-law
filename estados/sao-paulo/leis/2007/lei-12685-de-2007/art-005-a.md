@@ -1,0 +1,6 @@
+Artigo 5º-A - À Secretaria da Fazenda compete fiscalizar os atos relativos à concessão e utilização do crédito previsto no artigo 2º, bem como à realização do sorteio a que se refere o inciso III do artigo 4º, com o objetivo de assegurar o cumprimento do disposto nesta lei e a proteção ao erário. (NR)
+§ 1º - No exercício da competência prevista no "caput" deste artigo, a Secretaria da Fazenda poderá, dentre outras providências: (NR)
+1 - suspender a concessão e utilização do crédito previsto no artigo 2º e a participação no sorteio a que se refere o inciso III do artigo 4º quando houver indícios de ocorrência de irregularidades; (NR)
+2 - cancelar os benefícios mencionados no item 1 do § 1º deste artigo, se a ocorrência das irregularidades for confirmada após regular processo administrativo, conforme disciplina a ser estabelecida pela Secretaria da Fazenda. (NR)
+§ 2º - Na hipótese de, ao final do processo administrativo, não se confirmar a ocorrência de irregularidades, serão restabelecidos os benefícios referidos no item 1 do § 1º deste artigo, salvo em relação à participação em sorteio, a qual ficará prejudicada se não mais houver o certame em razão do encerramento da promoção.(NR)
+- Artigo 5º-A acrescentado pela Lei nº 13.441, de 10/03/2009.

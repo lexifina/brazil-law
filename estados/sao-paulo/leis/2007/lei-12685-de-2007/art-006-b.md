@@ -1,0 +1,1 @@
+Artigo 6º-B - O estabelecimento fornecedor deverá informar ao consumidor a possibilidade de solicitar a indicação do número de seu Cadastro de Pessoas Físicas - CPF ou Cadastro Nacional da Pessoa Jurídica - CNPJ no documento fiscal relativo à operação.(NR)

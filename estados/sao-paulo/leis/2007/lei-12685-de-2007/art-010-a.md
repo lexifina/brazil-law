@@ -1,0 +1,5 @@
+Artigo 10-A - A Secretaria da Fazenda poderá conceder crédito ao consumidor que tenha realizado aquisição de mercadorias, bens e serviços a partir de 1º de outubro de 2007, cujos documentos não tenham sido regularmente emitidos ou registrados pelo fornecedor, desde que o consumidor tenha efetuado a respectiva reclamação por meio da "internet", no "site" da Nota Fiscal Paulista, até 16 de outubro de 2008. (NR)
+§ 1º - O cálculo do valor do crédito de que trata o "caput" deste artigo será feito mediante a multiplicação do valor da aquisição pelo IMC - Índice Médio de Crédito relativo ao mês da aquisição. (NR)
+§ 2º - O Poder Executivo poderá estabelecer limite de valor para o crédito a ser concedido nos termos do "caput" deste artigo. (NR)
+§ 3º - Na hipótese de lavratura de auto de infração relativo às infrações previstas no artigo 7º, em decorrência de procedimento administrativo instaurado a partir de reclamação efetuada pelo consumidor após 16 de outubro de 2008, o Poder Executivo poderá conceder crédito ao consumidor observado o disposto nos §§ 1º e 2º. (NR)
+- § 3º acrescentado pela Lei nº 14.189, de 25/08/2010.
