@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Processual penal. Recurso ordinário em habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ribeiro Dantas, assim ementado:
+    “PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO NÃO PROVIDO.
+    1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+    2. A prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do recorrente que, em concurso de pessoas e mediante grave ameaça exercida com emprego de arma de fogo, teria abordado duas vítimas em região rural, momento em que uma delas escapa em direção à mata, enquanto que a outra é constrangida a adentrar ao imóvel. O agente e os comparsas reviram o local em busca de armas e, nada sendo encontrado, subtraem apenas um celular, evadindo-se na sequência.
+    3. O excesso de prazo não pode ser estimado de modo meramente aritmético, devendo ser considerado em razão das peculiaridades de cada caso.
+    4. Para ser considerado injustificado o excesso na custódia cautelar, deve a demora ser de responsabilidade da acusação ou do Poder Judiciário, situação em que o constrangimento ilegal pode ensejar o relaxamento da segregação antecipada.
+    5. Não se verifica, no caso dos autos, ilegal mora processual atribuível ao Poder Judiciário ou aos órgãos encarregados da persecução penal. O feito tramita de maneira regular e conforme a sua complexidade, a considerar que já foi realizada audiência de instrução e julgamento, tendo sido expedida carta precatória para oitiva das testemunhas de defesa e que, por não terem sido localizadas, abriu-se vistas às partes para manifestação.
+    6. Recurso não provido.”
+    2. Extrai-se dos autos que o recorrente foi preso em flagrante e denunciado pela prática do crime previsto no art. 157, §2º, I e II, do Código Penal. A prisão em flagrante foi convertida em preventiva.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, sobreveio interposição de recurso ordinário em habeas corpus no Superior Tribunal de Justiça, desprovido.
+    4. Neste recurso ordinário, a defesa sustenta, em síntese, que “a segregação acautelatória do Paciente carece de fundamentação”; que o recorrente se encontra “custodiado por mais de 12(doze) meses”, não havendo “notícias do encerramento da instrução criminal”; e que inexiste “suposta complexidade de causa ou plural idade de réus”.
+    5. Com essa argumentação, a defesa requer o provimento do recurso a fim de que seja determinada “a imediata LIBERDADE PROVISÓRIA do Paciente e/ou mediante imposição de MEDIDAS CAUTELARES DIVERSAS DA PRISÃO, com a imediata expedição de ALVARÁ DE SOLTURA”.
+    Decido.
+    6. O recurso ordinário não deve ser provido.
+    7. A orientação do Tribunal é no sentido de que a periculosidade do agente, evidenciada pelo modus operandi, constitui fundamentação idônea para a decretação da custódia cautelar (HC 103.330, Rel. Luiz Fux; RHC 116.965, Relª. Minª. Cármen Lúcia; HC 116.151, Rel. Min. Ricardo Lewandowski).
+    8. Na hipótese de que se trata, as instâncias de origem não divergiram desse entendimento ao fundamentar a necessidade da prisão preventiva destacando o “modus operandi do crime praticado mediante a utilização de arma de fogo, arma branca e em concurso de agentes” (trechos do voto condutor do acórdão estadual).
+    9. Quanto ao mais, o STF já decidiu que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    10. No caso, dou especial relevância à informação constante da decisão impugnada, no sentido de que “já foi realizada audiência de instrução e julgamento, tendo sido expedida carta precatória para oitiva das testemunhas de defesa e que, por não terem sido localizadas, abriu-se vistas às partes para manifestação”. Dede modo que não verifico desídia por parte do Poder Judiciário que justifique a imediata revogação da prisão processual do recorrente.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 17 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
