@@ -1,0 +1,29 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado em 30.10.2017 pela Defensoria Pública da União (DPU), em favor de Gleycon Leandro Camargo Mazala (eDOC 1, p. 1-10), contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no REsp 1.689.985/MG (eDOC 2, p. 123-128), mediante acórdão assim ementado:
+    “EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DESCUMPRIMENTO DA PENA RESTRITIVA DE DIREITOS. RÉU NÃO LOCALIZADO, APESAR DE INTIMADO PESSOALMENTE NO ENDEREÇO INFORMADO NOS AUTOS. CONVERSÃO EM PRIVATIVA DE LIBERDADE. OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. INEXISTÊNCIA.
+    1. Consolidou-se nesta Corte Superior entendimento no sentido de que, em homenagem aos princípios do contraditório e da ampla defesa, faz-se necessária a intimação do reeducando para, com a presença de defensor, esclarecer as razões do descumprimento das medidas restritivas de direito antes da conversão delas em pena privativa de liberdade.
+    2. No presente caso, apesar de determinada a intimação pessoal, no endereço informado nos autos, para dar início ao cumprimento das penas alternativas fixadas como condição da suspensão da pena, o recorrente não foi localizado, não havendo se falar em cerceamento de defesa pela inexistência de exaurimento das tentativas de sua localização.
+    3. Agravo regimental não provido.” (eDOC 2, p. 123)
+    Inicialmente, a parte impetrante argumenta o seguinte:
+    “O réu, primário, beneficiado pela substituição da pena privativa de liberdade em restritiva de direito, depois de descumprir a reprimenda alternativa, teve sua prisão decretada. Em que pese ter apresentado justificativa prévia à decisão que converteu a pena, ao réu não foi oportunizada manifestação acerca dos ofícios apresentados pelas entidades encarregadas de fiscalizar o cumprimento da pena.
+    Ora, a falta de oportunidade à defesa para se manifestar acerca dos ofícios carreados aos autos, ainda que posterior à prévia justificativa do réu, não se coaduna com o contraditório que se espera da relação processual, sobretudo quando tal prerrogativa foi conferida ao Ministério Público, mas negada à defesa.
+    O réu, a par das informações trazidas aos autos, poderia acurar sua justificativa, de sorte a conferir-lhe maior fidúcia e, assim, influenciar, de fato, na decisão judicial.
+    Em que pese o entendimento do nobre Ministro Relator, é certo que, para que se inicie o cumprimento da pena, faz-se necessária a intimação do condenado da medida restritiva imposta. Ademais, é necessário o esgotamento dos meios de localização pessoal do condenado e, presente eventual impossibilidade, de realizar-se esse ato por meio de edital, sob pena de cerceamento de direito de defesa, conforme bem rege o artigo 149, inciso II e o artigo 181 §1º alínea ‘a’, todos da Lei de Execuções Penais”. (eDOC 1, p. 5)
+    Ao final, requereu a concessão de liminar para que fosse determinada a suspensão da execução provisória da pena até o julgamento final do presente writ. No mérito, postulou a anulação da decisão do Juízo de Execuções para revogar a conversão da pena e, ainda, fosse cassado o acórdão proferido nos autos do REsp 1.689.985 AgR/MG a fim de determinar a expedição de ofício às concessionárias de telefonia a fim de intimar-se o ora paciente (eDOC 1, p. 9-10).
+    Indeferi o pedido de liminar (eDOC 5, p. 1-4).
+    O Ministério Público Federal opinou pela denegação da ordem (eDOC 6, p. 1-4).
+    Requisitei informações ao Juízo da Vara de Execuções Penais da Comarca de Belo Horizonte/MG (Proc. 0024.16.008.838-1), sobretudo a respeito da execução da pena imposta ao paciente (eDOC 8, p. 1), as quais foram prestadas (eDOCs 10-14).
+    É o relatório.
+    Decido.
+    Preliminarmente, destaco das informações prestadas pelo juízo a quo, (eDOCs 10-14), as quais demonstram que o ora paciente, posteriormente à presente impetração, vem regularmente comparecido perante o juízo da execução, tendo inclusive obtido a progressão para o regime semiaberto e autorização para trabalho externo:
+    “O sentenciado, condenado inicialmente a uma pena de dois anos de reclusão, substituída por duas restritivas de direito, compareceu ao Setor de Fiscalização de Penas Substitutivas na Vara de Execuções Penais da Comarca de Belo Horizonte em setembro/2016 (anexo), comprometendo-se a cumprir as condições da pena imposta.
+    Conforme peças extraídas do Sistema Eletrônico, em 25/09/2017, em audiência realizada (anexa), foi deferido ao indivíduo nova oportunidade para o cumprimento da pena imposta, face o seu descumprimento parcial.
+    Em seguida, veio aos autos informação de cometimento de novo crime, datado de 28/11/2017 (anexo), motivo pelo qual o sentenciado foi recolhido à prisão. Consequentemente, foi designada audiência de justificação, momento em que o apenado negou envolvimento em tal fato (anexo).
+    Posteriormente, em 31/05/2018 e 21/06/2018 chegaram aos autos novas guias de recolhimento, sendo que em 30/07/2018 foi aplicada a soma de penas com a consequente conversão da pena restritiva de direitos anteriormente aplicada em privativa de liberdade, chegando-se a um total de 05 (cinco) anos e 03 (três) meses de pena, sendo fixado o regime fechado (anexo).
+    Por fim, em 10/08/2018, considerando que o apenado alcançou o requisito objetivo para a progressão de regime, foi deferida a progressão para o semiaberto bem como o trabalho externo.” (eDOC 12, p. 2-3)
+    Assim, não mais subsiste interesse jurídico legítimo do paciente a ser amparado na presente via.
+    Ante o exposto, julgo prejudicado o presente habeas corpus, por perda superveniente do objeto, nos termos do artigo 21, inciso IX, do RI/STF.
+    Publique-se. Intime-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
