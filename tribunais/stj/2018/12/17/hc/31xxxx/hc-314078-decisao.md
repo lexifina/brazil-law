@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de Alagoas.
+Consta dos autos que o paciente foi denunciado pela prática do delito previsto no art. 121, § 2º, inciso II, do Código Penal (e-STJ fls. 24/26), sendo posteriormente decretada sua prisão preventiva (e-STJ fls. 81/84).
+A defesa impetrou prévio habeas corpus perante o Tribunal a quo, pugnando pelo reconhecimento de nulidade da audiência de instrução, ao argumento de que a defensoria pública não teria sido intimada pessoalmente da referida audiência, tendo o paciente sido assistido por defensor nomeado pelo Juízo. Sustentou, também, o excesso de prazo da prisão preventiva.
+A ordem, no entanto, foi denegada em acórdão cuja ementa foi assim definida (e-STJ fl. 144):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. PLEITO DE NULIDADE PROCESSUAL EM RAZÃO DE AUSÊNCIA DE INTIMAÇÃO DA DEFENSORIA PÚBLICA PARA A AUDIÊNCIA. NULIDADE RELATIVA. INCIDÊNCIA DA SÚMULA 523 DO STF. NECESSIDADE DE COMPROVAÇÃO DO PREJUÍZO SOFRIDO PELO ACUSADO. AUSÊNCIA DE DEMONSTRAÇÃO. NOMEAÇÃO DE DEFENSOR AD HOC. PLENO EXERCÍCIO DO DIREITO DE DEFESA. PEDIDO REJEITADO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O ENCERRAMENTO DA INSTRUÇÃO. PACIENTE PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21 DO STJ. PEDIDO JULGADO PREJUDICADO. LIBERDADE NEGADA. MANUTENÇÃO DA PRISÃO PREVENTIVA. ORDEM DENEGADA. UNANIMIDADE (e-STJ fl. 144).
+Neste writ, repisa a impetrante as alegações lançadas no writ originário, sustentando a nulidade desde a audiência de instrução, bem como o excesso de prazo da prisão do paciente.
+Aduz, primeiramente, que, "na situação aqui tratada, é de grande interesse da Defensoria Pública participar ativamente da colheita da prova oral, inclusive do interrogatório de seu assistido, já que é o órgão - e não o advogado investido da função de defensor ad hoc - quem, no futuro, elaborará as razões finais na primeira fase do procedimento e, se necessário, acompanhará o paciente até o plenário do júri, a fim de exercer sua defesa de forma plena, como deseja a Constituição Federal" (e-STJ fl. 5).
+Pondera que "a nomeação de defensor ad hoc, portanto, quando a ausência da Defensoria Pública se dá em virtude do não atendimento pelo Poder Judiciário da regra legal acerca da intimação de seus membros, viola tal princípio e, consequentemente, agride igualmente o devido processo legal e coloca o acusado em franca situação de desvantagem" (e-STJ fl. 6).
+Afirma, ainda, a existência de constrangimento ilegal por excesso de prazo para o término da instrução criminal.
+Requer, ao final, a concessão da ordem para que sejam declarados nulos a audiência de instrução e o julgamento realizado no dia 17/9/2014 e que o paciente seja colocado em liberdade.
+A liminar foi indeferida (e-STJ fls. 159/162).
+As informações foram prestadas às e-STJ fls. 171/205.
+O Ministério Público Federal, às e-STJ fls. 210/215, manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório.
+Preliminarmente, deve-se asseverar que, no que concerne ao alegado excesso de prazo para o término da instrução criminal, o habeas corpus está prejudicado.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Alagoas, observa-se que houve a superveniência do julgamento pelo Tribunal do Júri em 16/3/2015, tendo sido a ação penal arquivada definitivamente em 1º/8/2015.
+É forçoso reconhecer, pois, no ponto, a perda superveniente de objeto do writ.
+No mais, no que concerne à alegada nulidade, melhor sorte não socorre o paciente.
+Sobre o tema, assim consignou o Tribunal a quo (e-STJ fls. 148/151):
+Ao analisar os autos, pude verificar que, realmente, não houve a intimação do Representante do Réu (Defensor Público) para a audiência de instrução de julgamento. Contudo, há que se considerar que eventual nulidade decorrente da ausência do patrono constituído à audiência de inquirição das testemunhas somente poderia ser reconhecida caso fosse evidenciado prejuízo à Defesa, o que não restou demonstrado na espécie, já que, no caso concreto, houve a nomeação de Defensor ad hoc para o ato.
+Importante consignar que, no direito processual penal pátrio, vigora a regra geral de que "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa" (princípio do pas de nullité sans grief). Tal enunciado normativo, extraído do art. 563, do Código de Processo Penal, é aplicado de forma uníssona pela melhor doutrina e jurisprudência, o que demonstra obediência aos princípios constitucionais da economia processual e da razoável duração do processo.
+Nesse sentido, seguem julgados do Superior Tribunal de Justiça:
+ ..
+Corroborando esse entendimento, a Súmula nº 523, do Supremo Tribunal Federal, dispõe que:
+Súmula 523: No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+Inegável, portanto, a necessidade de demonstração do prejuízo sofrido, a fim de que se obtenha o reconhecimento judicial de uma nulidade. Conforme sabido, o processo demanda tempo e custo, de modo que o princípio da conservação dos atos processuais deve ser levado em consideração pelo magistrado em todas as suas manifestações.
+In casu, muito embora o Paciente tenha alegado a nulidade, nenhum prejuízo restou comprovado. Na verdade, compulsando as informações prestadas pelo Impetrado e os documentos juntados pelos Impetrantes, pude perceber que, na audiência designada para o dia 25/08/2014, em razão da impossibilidade de sua realização, todas as partes que estavam presentes ao ato foram intimadas para a nova sessão que seria realizada no dia 17/09/2014, conforme certidão constante às fls. 112.
+Para além, foi nomeado Defensor ad hoc ao Paciente, tendo este exercido bem o seu mister, motivo pelo qual, a toda evidência, não houve qualquer prejuízo à Defesa a falta de intimação do Defensor Público.
+Inclusive, nesse sentido é o entendimento do STJ:
+ ..
+Outrossim, importante consignar que, nos autos do HC n.º 0803405- 92.2014, de minha relatoria, o qual também trago à julgamento nesta mesma sessão, proferi decisão acompanhando o parecer da PGJ para a denegar a Ordem, uma vez que não foi vislumbrado nenhuma nulidade, já que a Defesa não demonstrou o efetivo prejuízo sofrido pelo Acusado, o que também observo no caso em análise.
+Assim, uma vez que a oitiva das testemunhas, bem como o interrogatório do Acusado foram acompanhados do Defensor ad hoc nomeado pelo juízo, o qual exerceu bem o seu mister, não verifico a existência de nenhum vício ou prejuízo sofrido pelo Réu, não havendo que se falar em cerceamento do seu direito de defesa (grifei).
+O entendimento do Tribunal de origem está em consonância com o posicionamento desta Corte acerca do tema.
+Com efeito, o Superior Tribunal de Justiça, de longa data, vem se posicionando no sentido de que o postulado "pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo" (RHC n. 71.626/CE, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 1º/12/2017, grifei).
+É o caso dos autos, em que, ainda que não intimada pessoalmente a defensoria pública acerca da audiência de instrução, olvidou-se a impetrante de efetivamente demonstrar o prejuízo sofrido pelo paciente por alegado cerceamento de defesa, mormente se considerada a presença de defesa técnica ao ato, exercendo seu mister.
+Nesse sentido, deve-se destacar o que dispõe o enunciado n. 523 da Súmula do Supremo Tribunal Federal, segundo o qual, "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu", o que não ocorreu na espécie.
+Em outras palavras, não demonstrada de que forma a situação processual do paciente teria sido modificada positivamente, acaso estivesse presente a defensoria pública ao ato impugnado, não se pode presumir a existência de prejuízo a justificar o pretendido reconhecimento da nulidade apontada.
+Ilustrativamente:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. DEFENSORIA PÚBLICA. AUSÊNCIA DE INTIMAÇÃO PESSOAL. NOMEAÇÃO DE DEFENSOR DATIVO. PREJUÍZO NÃO DEMONSTRADO. NULIDADE NÃO CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a Defensoria Pública não tenha sido intimada pessoalmente acerca da audiência de inquirição da vítima, o acórdão recorrido ressalta que não se verificou, no caso, nenhuma nulidade, na medida em que houve a nomeação do defensor dativo para o ato.
+2. De acordo com a jurisprudência desta Corte, no campo da nulidade no processo penal, vigora o princípio pas de nullité sans grief, segundo o qual, o reconhecimento de nulidade exige a comprovação de efetivo prejuízo (art. 563 do Código de Processo Penal), o que não ficou demonstrado nestes autos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1277259/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/08/2018, DJe 24/08/2018, grifei)
+Ante o exposto, conheço parcialmente do habeas corpus e, nesta extensão, denego a ordem.
+Publique-se. Intimem-se.
