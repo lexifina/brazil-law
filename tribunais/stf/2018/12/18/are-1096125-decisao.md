@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo é insuscetível de conhecimento, eis que a parte recorrente não sucumbiu quanto à questão veiculada no apelo extremo.
+    Com efeito, verifico que, em sede de juízo de retratação, deu-se parcial provimento ao recurso do Município, determinando-se, “na forma do art. 15-B do Decreto-lei nº 3.365/41”, que “os juros moratórios incidam a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, nos termos do art. 100 da Constituição Federal”.
+    Como se sabe, a sucumbência qualifica-se como pressuposto recursal genérico, comum a qualquer recurso, caracterizada pela ocorrência, em maior ou em menor grau, de lesividade à situação jurídica da parte a quem foi desfavorável a resolução judicial do litígio.
+    Isso significa, portanto, que é do estado de sucumbência que resulta o interesse jurídico legitimador do exercício do direito de recorrer, de tal modo que, inexistente a situação de sucumbência, nada justifica – precisamente em face da ausência desse pressuposto geral de recorribilidade – o próprio cabimento do recurso eventualmente interposto (VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. 2/260 e 266/267, item n. 61, 4ª ed., 1989, Saraiva; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/171-172, item n. 599, 2ª ed., 1998, Millennium; HUMBERTO THEODORO JÚNIOR, “Curso de Direito Processual Civil”, vol. I/554, item n. 528, 25ª ed., 1998, Forense; NELSON NERY JÚNIOR/ROSA MARIA ANDRADE NERY, “Código de Processo Civil Comentado”, p. 963, item n. 17, 4ª ed., 1999, RT, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 18 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
