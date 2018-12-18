@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte (fl. 195, e-STJ):
+PREVIDENCIÁRIO. CONSTITUCIONAL. REVISÃO DE BENEFÍCIO. ALTERAÇÃO DO TETO DE CONTRIBUIÇÃO. APLICAÇÃO RETROATIVA AOS BENEFÍCIOS CONCEDIDOS ANTES DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. POSSIBILIDADE. JURISPRUDÊNCIA DO STF EM SEDE .DE REPERCUSSÃO GERAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. CUSTAS PROCESSUAIS. HONORÁRIOS DE ADVOGADO.
+1. Não se discutindo o critério de cálculo ou de revisão do ato concessório do benefício, mas sim o limitador a incidir sobre o cálculo incontroverso, a natureza da causa é meramente declaratória e condenatória, e não (des)constitutiva, de modo que incide, na espécie, apenas o prazo prescricional e não decadencial.
+2. A prescrição atinge as prestações anteriores ao qüinqüênio que antecedeu o ajuizamento da ação, nos termos do enunciado da Súmula 85 do STJ.
+3. A pretensão de se obter o reajuste do beneficio concedido antes da EC 20/98 e da EC 41/03, de acordo com os novos tetos nelas estabelecidos, encontra-se em perfeita sintonia com a jurisprudência dos Tribunais e do colendo Supremo Tribunal Federal.
+4. O Pleno do Supremo Tribunal Federal, em sede de repercussão geral, quando do julgamento do RE nº 564.354, reconheceu que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional". (RE nº 564354, Relatora Ministra Carmen Lúcia, Tribunal Pleno, DJe 15/02/2011)
+5. A prova dos autos demonstra que o benefício da parte autora, por ocasião do cálculo original de sua renda mensal inicial ou em virtude de revisão da RMI implementada pelo INSS na via administrativa, teve o seu salário -de -benefício limitado ao teto previsto no art. 29, § 2º, e no art. 33 da Lei nº 8.213/91. De conseqüência, ela faz jus à aplicação ao seu beneficio dos novos tetos estabelecidos pelas EC"s 20/98 e 41/2003, na esteira da jurisprudência do STF.
+6. Os efeitos da declaração do direito ora reconhecido somente terão repercussão de cunho condenatório se na execução da sentença ficar demonstrado que, após as correções efetivadas no valor do benefício, ele ainda superava o teto existente quando da edição da EC 20/98 e da EC 41/2003.
+7. Correção monetária e juros de mora segundo o MCCJF.
+8. Honorários de advogado fixados no percentual de 10% (dez por cento) sobre o valor das prestações vencidas até a data da prolação deste acórdão, de acordo com o enunciado da Súmula 111 do STJ e o art. 20, §3º, do CPC.
+9. O INSS está isento do pagamento das custas e despesas processuais nas ações ajuizadas na Justiça Federal, por força do art. 4º, I, da Lei n. 9.289/96, limitando-se a sua condenação, no particular, ao ressarcimento de eventuais custas antecipadas pela parte autora.
+10. Presentes os requisitos do art. 273 do CPC, é devida a antecipação de tutela para a imediata implantação do novo benefício (obrigação de fazer), diante do direito reconhecido e do caráter alimentar do beneficio previdenciário
+11. Apelação provida.
+Os Embargos de Declaração foram rejeitados nos seguintes termos (fl. 278, e-STJ):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALTERAÇÃO DO TETO DE CONTRIBUIÇÃO. APLICAÇÃO RETROATIVA AOS BENEFÍCIOS CONCEDIDOS ANTES DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. PRESCRIÇÃO. TERMO INICIAL CONTADO DO AJUIZAMENTO DA AÇÃO CIVIL PUBLICA Nº 0004911-28.2011.4.03.6183. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. ART. 535 DO CPC. MANIFESTAÇÃO EXPRESSA SOBRE DISPOSITIVO LEGAL/ CONSTITUCIONAL. DESNECESSIDADE.
+1. Consoante prevê o art. 535 do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou resolver contradição no julgado.
+2. A questão relativa à contagem do prazo prescricional foi devidamente apreciada pelo acórdão recorrido, que perfilhou o entendimento de que, tendo a parte autora optado por ajuizar ação individual postulando a revisão do seu benefício previdenciário, ela não mais se submeteu aos efeitos da ação coletiva, inclusive no que tange à interrupção do prazo prescricional, razão porque a prescrição atingiria as prestações vencidas anteriormente ao lustro que precedeu o ajuizamento desta ação.
+3. A ausência de pronunciamento expresso no julgado acerca de eventuais dispositivos legais e constitucionais apontados pela parte não caracteriza omissão a ensejar a oposição dos aclaratórios, exigindo-se do magistrado apenas "que os fundamentos utilizados tenham sido suficientes para embasar a decisão." (STF, Rcl nº 18778 AgR-ED/RJ, Relator Ministro Luiz Fux, Primeira Turma, DJe 12/03/2015).
+4. Embargos de declaração rejeitados.
+O recorrente, nas razões do Recurso Especial, sustenta, além da divergência jurisprudencial, ter havido violação dos arts. 2º, 128, 219 e 474 do Código de Processo Civil/1973 e do art. 203 do Código Civil/2002.
+Defende: "seja atribuída a mesma interpretação dada pelo E. TRF4, em ambos os casos, e por tese E. STJ ao § 1º e caput do artigo 219 do Código de Processo Civil e ao art. 203 do Código Civil, para reconhecer que a citacão válida interrompe a prescrição com ,efeito retroativo à data da propositura da Ação Civil Pública, eis que a prescrição pode ser interrompida por QUALQUER INTERESSADO, inclusive o MPF em ação coletiva tutelando direito individuais homogêneos" (fl. 291, e-STJ, grifos no original).
+Sem contrarrazões, conforme fl. 313, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 315-316, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.11.2018.
+Primeiramente, esclareço que o Recurso Especial impugna acórdão publicado na vigência do CPC de 1973 (fls. 230 e 279, e-STJ), sendo-lhe exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme o Enunciado Administrativo 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9.3.2016.
+Ademais, o recorrente afirma que os arts. 2º, 128, 219 e 474 do Código de Processo Civil/1973 e do art. 203 do Código Civil/2002 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inadmissível o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. (..) VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1630011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017, grifei).
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1652761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Por outro lado, o acórdão recorrido está embasado em precedente de repercussão geral proferido pelo Supremo Tribunal Federal, RE 564.354. Dessarte, a apreciação da matéria em Recurso Especial fica inviabilizada, sob pena de usurpação da competência do STF. Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. (..) INCOMPETÊNCIA DO STJ PARA JULGAR AS EC 20/98 E 41/03 .
+(..)
+III - No que pertine à questão de fundo, a leitura atenta da decisão recorrida revela que na verdade, ela foi proferida com base no RE 564.354/SE "no sentido de que não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 aos benefícios previdenciários limitados ao teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional".
+IV - A questão controversa diz respeito à interpretação dada pelo TRF da 5ª Região, quanto ao precedente indicado. Entende o TRF da 5ª Região que o entendimento fixado no Supremo atinge os benefícios concedidos antes da vigência das referidas emendas.
+V - Concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, notadamente à aplicação das EC 20/98 e 41/03 aos benefícios concedidos antes da sua vigência, se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+VI - Verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal. Em processos semelhantes, as Decisões Monocráticas no AResp 1160643, Min. Mauro Campbell, Dje 15.09.2017; REsp 1669170, Min. Sérgio Kukina, DJe 14.09.2017.
+VII - Agravo interno improvido.
+(AgInt no REsp 1635814/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 21/09/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO DOS ARTS. 29, § 2º, 33, 37, 103 E 144 DA LEI 8.213/1991, DO ART. 37 DO DECRETO 3.048/1999, DO ART. 16 DA LEI 7.347/1985, DO ART. 1º-F DA LEI 9.494/1997, COM REDAÇÃO DADA PELO ART. 5º DA LEI 11.960/2009, E DO ART. 240 DO CÓDIGO DE PROCESSO CIVIL/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. BENEFÍCIO. TETO DO SALÁRIO DE BENEFÍCIO. ECS 20/1998 E 41/2003. REVISÃO. MATÉRIA CONSTITUCIONAL.
+1. Não se conhece de Recurso Especial em relação à ofensa aos arts. 29, § 2º, 33, 37, 103 e 144 da Lei 8.213/1991, ao art. 37 do Decreto 3.048/1999, ao art. 16 da Lei 7.347/1985, ao art. 1º-F da Lei 9.494/1997, com redação dada pelo art. 5º da Lei 11.960/2009, e ao art. 240 do Código de Processo Civil/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. A demanda gira em torno da possibilidade de incidência dos valores dos tetos estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003 aos benefícios previdenciários concedidos anteriormente à entrada em vigor das referidas emendas.
+3. O acórdão recorrido analisou a questão sob o enfoque de interpretação eminentemente constitucional. Dessarte, a apreciação da matéria em Recurso Especial fica inviabilizada, sob pena de usurpação da competência do STF. Precedentes: AgInt no REsp 1.635.814/PE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 21.9.2018; REsp 1.702.665/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19.12.2017; REsp 1.672.822/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30.6.2017; e REsp 1.642.164/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 2.4.2018.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.754.898/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/11/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.(..)
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+2. O recorrente afirma que a readequação aos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003, não alcança os benefícios concedidos antes da promulgação da CF/1988, porquanto, obedecem a critérios de cálculos distintos. Quanto ao ponto, verifica-se que o acórdão recorrido apreciou a questão sob o enfoque eminentemente constitucional, o que impede a sua análise em sede de recurso especial, a despeito de o recorrente ter interposto recurso extraordinário, vez que a adoção pela instância ordinária de fundamento exclusivamente constitucional na solução da lide, inviabiliza o conhecimento do recurso especial.
+(..)
+(REsp 1672822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 30/06/2017).
+RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PARA ADEQUAÇÃO AOS TETOS INSTITUÍDOS PELAS EC"S 20/1998 E 41/2003. ACÓRDÃO COM FUNDAMENTAÇÃO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido, confirmando a sentença, deu provimento à pretensão autoral, fundamentado no entendimento proferido pelo Supremo Tribunal Federal, no julgamento do RE 564.354, ao reconhecer que não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional 20/1998 e do art. 5o. da Emenda Constitucional 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+2. Estando, assim, o acórdão amparado em fundamento essencialmente constitucional, torna-se inviável o seu reexame em sede de Recurso Especial, sob pena de usurpação de competência do Supremo Tribunal Federal.
+3. Recurso Especial do INSS a que se nega provimento.
+(REsp 1642164/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 02/04/2018).
+Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Cito precedentes:
+(..)
+IV. Na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp 894.166/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 30/06/2017).
+PROCESSUAL CIVIL (..) DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. (..)
+(..)
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 1069867/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 09/08/2017).
+Diante do exposto, nego seguimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
