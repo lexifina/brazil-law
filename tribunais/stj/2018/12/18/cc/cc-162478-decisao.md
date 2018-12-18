@@ -1,0 +1,15 @@
+DECISÃO
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REPASSE DA CONTRIBUIÇÃO SINDICAL DE SERVIDORES PÚBLICO. HIPÓTESE LEGAL PREVISTA NO ART. 114 DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE PARA PROCESSAR E JULGAR A PRESENTE DEMANDA, JUÍZO DA 20a. VARA DO TRABALHO DE PORTO ALEGRE - RS, O SUSCITANTE.
+1. Trata-se de Conflito Negativo de Competência estabelecido entre o JUÍZO DA 20a. VARA DO TRABALHO DE PORTO ALEGRE - RS, suscitante, e o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, suscitado, nos autos do Mandado de Segurança impetrado contra o Município de Porto Alegre-RS, requerendo a contribuição sindical obrigatória descontada dos servidores municipais.
+2. A referida demanda foi distribuída à Justiça Comum, que se declarou incompetente para processar e julgar o feito, ao fundamento de que com o advento da Emenda Constitucional nº 45/04, a competência jurisdicional da Justiça do Trabalho foi ampliada, cabendo à Justiça especializada processar e julgar ações relativas ao direito sindical, mas também as ações intersindicais, os feitos entre sindicatos e trabalhadores, e os processos propostos entre sindicatos e empregadores, em face da nova redação dada ao art. 114 da Constituição Federal (fls. 654).
+3. Por sua vez, o JUÍZO DA 20 a VARA DO TRABALHO DE PORTO ALEGRE - RS, por sua vez, declinou da competência, suscitando o presente Conflito, sob o argumento de que apesar do reconhecimento inicial para discussão da causa, entendo em melhor análise aos documentos e manifestação Ministerial que a Justiça do Trabalho não tem competência para a cobrança de contribuição sindical de servidores estatutários (fls. 801).
+4. É o relatório.
+5. O STJ consolidou entendimento de que as alterações do art. 114, III, da CF/88, introduzidas pela Emenda Constitucional 45/2004, à Justiça do Trabalho foi atribuída competência para apreciar e julgar as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores.
+6. Nessa linha de entendimento, a competência para conhecer e julgar a lide em apreço é da Justiça do Trabalho, porquanto a discussão no Mandado de Segurança é sobre contribuição sindical.
+7. No mesmo sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONTRIBUIÇÃO SINDICAL. AGENTE PÚBLICO. VÍNCULO CELETISTA OU ESTATUTÁRIO. JUSTIÇA TRABALHISTA.
+1. A Primeira Seção do STJ, em reiterados precedentes, já declarou que, após a Emenda Constitucional n. 45/2004, que alterou o art. 114, III, da CF, compete à Justiça Trabalhista processar e julgar as demandas que versem sobre cobrança de contribuição sindical (art. 578 da CLT) de agentes públicos estaduais, com vínculo celetista ou estatutário.
+2. Agravo interno desprovido (AgInt nos EDcl no CC 143.263/GO, Rel. Ministro GURGEL DE FARIA, DJe 8/2/2018)
+8 Ante o exposto, conhece-se do presente Conflito e declara-se competente para processar e julgar a presente demanda o JUÍZO DA 20a. VARA DO TRABALHO DE PORTO ALEGRE - RS, suscitante.
+9. Publique-se.
+10. Intimações necessárias.
