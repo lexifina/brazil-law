@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. AUSÊNCIA DE MÉRITO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando-se como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul (Agravo em Execução Penal n. [CPF]).
+Narram os autos que o Juízo da Vara de Execução Penal (PEC n. 62.506-0) concedeu ao paciente a progressão para o regime semiaberto. O Ministério Público, inconformado, interpôs agravo em execução penal, ao qua o Tribunal gaúcho deu provimento e cassou a decisão de primeira instância.
+Daí o presente mandamus, em que a Defensoria Pública sustenta que o paciente cumpriu os requisitos objetivos e subjetivos necessários para progredir de regime.
+Destaca que o histórico carcerário do apenado, por si só, não pode impedir a concessão do benefício, pois o atestado de comportamento carcerário lhe foi favorável.
+Requer a concessão liminar da ordem para cassar o acórdão, com a consequente progressão do paciente ao regime intermediário de cumprimento de penas.
+É o relatório.
+Pelo que consta dos autos, inexiste constrangimento ilegal apto de ser sanado pela via eleita.
+Segundo a Corte estadual, com relação ao requisito subjetivo, conquanto a manifestação sobre o comportamento carcerário tenha sido plenamente favorável (fl. 31), infere-se que o apenado, que deu início ao cumprimento da pena cm 07.06.2014 no regime semiaberto, empreendeu duas fugas consecutivas em um período de aproximadamente um mês e, na última ocasião, permaneceu na condição de foragido por mais de dois meses, o que evidencia total descaso no cumprimento da reprimenda. Pontuo ainda que, desta feita, retomou o cumprimento da pena por recaptura em 03.08.2018. pela prática de novo delito, pelo qual responde criminalmente nos autos da ação penal n. 019/2.16.0007109-5 (fl. 43) (fl. 124).
+Ainda, destacou que, nesse contexto, considerando que a readaptação do preso ao convívio social deve ser realizada de forma gradativa e com a devida segurança ã sociedade, entendo que a progressão ao regime semiaberto é, por ora, medida totalmente desaconselhada, tendo em vista a ausência de concretos elementos a atestarem a aptidão do agravado para desfrutar da aludida benesse (fl. 125).
+Pois bem, esta Corte superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções ou pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do livramento condicional e da progressão de regime pelo inadimplemento do requisito subjetivo (HC n. 411.096/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/9/2018 - grifo nosso).
+O afastamento dos fundamentos utilizados pelo Tribunal gaúcho quanto ao mérito do paciente demandaria o reexame de matéria fático-probatória dos autos, providência que não tem espaço em habeas corpus. A propósito, HC n. 390.326/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/5/2017; e HC n. 377.210/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/2/2017.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
