@@ -1,0 +1,21 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME], contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 427):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL C U M U L A D A C O M I N D E N I Z A T Ó R I A . E M P R E S A D E INTERMEDIAÇÃO IMOBILIÁRIA. ILEGITIMIDADE PASSIVA AD CAUSAM. COMPROMISSO DE COMPRA E VENDA PARA CONSTRUÇÃO DE UNIDADE IMOBILIÁRIA. ENTREGA DAS CHAVES CONDICIONADA À LIBERAÇÃO DO FINANCIAMENTO JUNTO Á INSTITUIÇÃO FINANCEIRA. DESCUMPRIMENTO CONTRATUAL NÃO VERIFICADO. INDENIZAÇÃO INDEVIDA. 1. A atividade de intermediação imobiliária não se confunde com o objeto do contrato entabulado entre as partes (contrato de compra e venda de unidade habitacional), sendo a empresa intermediadora do negócio parte ilegítima para figurar no pólo passivo da ação.2. A despeito da previsão de término da obra para 30/11/2012, a efetiva entrega das chaves estava condicionada, contratualmente, à liberação do financiamento junto à Instituição Financeira (outubro de 2013), não havendo que se falar, pois, em descumprimento contratual e respectivas indenizações. RECURSO CONHECIDO E DESPROVIDO.
+SENTENÇA MANTIDA.
+Opostos embargos de declaração pelo recorrente (fls. 436-438), foram rejeitados (fls. 475-481).
+Nas razões do recurso especial (fls. 502-513), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 402, 723 e 927, do Código Civil, e arts. 39 e 51, do Código de Defesa do Consumidor.
+Em apertada síntese, sustenta que "é imprescindível a devolução do valor pago a título de corretagem e, ao contrário do entendimento esposado até aqui, a PROVENDA e A BRAVA ENGENHARIA, são partes legítimas para responderem pela devolução dos valores pagos a titulo de corretagem, devendo referida verba ser devolvida, posto que a contratação do alegado serviço de corretagem foi imposto à recorrente."
+Requer "a reforma do Acórdão para arbitrar penalidade por atraso na entrega do imóvel, no mesmo percentual dos juros de mora cobrados do promissário comprador".
+Afirma que "faz jus o autor às perdas e danos no montante de 0,5% (meio por cento) sobre o valor do imóvel, mensais, que é o preço médio do aluguel, devendo ser multiplicado pelos meses em atraso."
+Argumenta que o atraso na entrega do imóvel enseja o pagamento de danos morais, bem como de danos materiais, consistentes no ressarcimento do aluguel pago pela recorrente até a efetiva entrega do imóvel.
+Contrarrazões ao recurso especial às fls. 523-541 e 545-552.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda, à vista dos elementos fático-probatórios constantes dos autos e do contrato firmado entre as partes, a Corte de origem consignou (fl. 425) - grifamos:
+O contrato pactuado entre as partes tem como previsão de término para obra, a data de 30/11/2012 (f. 33). E mais, se depreende do respectivo instrumento, que a imissão na posse somente se daria após a liberação do crédito referente ao financiamento junto à Caixa Econômica Federal (f. 33), o qual se deu em outubro de 2013.
+A despeito da previsão de término da obra para 30/11/2012, a efetiva entrega das chaves estava condicionada, contratualmente, à liberação do prefalado financiamento, ocorrido em outubro de 2013. Dessa forma, conclui-se que o direito da Apelante/A./adquirente exsurgiu-se nesta última data, tendo sido concretizado em novembro de 2013, tão somente, 30 dias após.
+Portanto, não vislumbro o apontado descumprimento contratual, a ensejar as indenizações pretendidas.
+Quanto à comissão de corretagem, melhor sorte não socorre à Apelante/A., posto representar a remuneração pelo serviço de intermediação imobiliária, expressamente pactuado.
+Para desconstituir a convicção formada pelas instâncias ordinárias acerca de que não houve descumprimento contratual e de que a comissão de corretagem foi expressamente pactuada no presente caso, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
