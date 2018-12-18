@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pela Segunda Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, está assim ementado:
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL. MAGISTÉRIO. CONTRATAÇÃO TEMPORÁRIA. SUCESSIVAS RENOVAÇÕES. DECLARAÇÃO DA NULIDADE CONTRATUAL QUE RESULTARIA NA EXTINÇÃO DO CONTRATO, AINDA ATIVO. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 19-A DA LEI 8.036/90 (FGTS).”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao manter a sentença por seus próprios fundamentos, sustentou as suas conclusões em aspectos fático-probatórios:
+    “No caso dos autos, a parte autora foi contratada em caráter excepcional, muito embora as sucessivas renovações, para o desempenho de serviço ordinário permanente do Estado (magistério).
+    No entanto, o contrato com o ente público continua ativo e a declaração de nulidade contratual resultaria na extinção da contratação, o que flagrantemente a demandante não objetiva.
+    Destarte, como somente mediante a declaração de nulidade da contratação efetivada com o ente público seria possível alcançar o direito postulado (depósito de FGTS), merece ser mantida a sentença de improcedência, por fundamentos diversos.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende ressaltar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.144.884/RS, Rel. Min. GILMAR MENDES – ARE 1.146.079/RS, Rel. Min. EDSON FACHIN – RE 965.893- -AgR/MG, Rel. Min. RICARDO LEWANDOWSKI).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 18 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
