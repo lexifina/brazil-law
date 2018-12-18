@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido de liminar, impetrado em favor de ATHON LUIS ROZO SOEIRO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006, à pena de 6 anos e 27 dias de reclusão, em regime inicial fechado, além do pagamento de 606 dias-multa.
+Irresignada, a defesa interpôs apelação perante a Corte de origem, pugnando pela aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas; pelo reconhecimento do bis in idem; pela dupla valoração da quantidade de entorpecentes para exasperar a pena-base e afastar o privilégio; pelo afastamento da causa de aumento do art. 40, V, da Lei de Drogas; alteração do regime prisional e pela substituição por pena restritiva de direitos. O recurso, no entanto, foi improvido e, em seguida, transitou em julgado.
+Neste mandamus, os impetrantes sustentam haver constrangimento ilegal no regime inicial de cumprimento de pena fixado em dissonância com determinação legal e a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+A defesa alega que, sendo o paciente primário e de bons antecedentes, é indevida a imposição de regime fechado com base na hediondez e na gravidade abstrata do delito
+Requer a concessão da ordem, a fim de que seja alterado o regime inicial de cumprimento de pena para o semiaberto.
+Liminar indeferida (e-STJ, fls. 294-295).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ, fl. 330).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+O magistrado sentenciante fixou o regime inicial fechado nos seguintes termos:
+" O só fato de ser considerado crime cometido sem violência ou grave ameaça não afasta a hediondez do delito e sua extremada gravidade, não havendo regime diverso que o fechado que atenda ao binômio reprovação-prevenção previsto no artigo 59 do Código Penal.
+Além disso, a quantidade de pena fixada impede o benefício." (e-STJ fl. 200.)
+O Tribunal de origem manteve a sentença nos seguintes termos:
+"E o regime era mesmo o fechado, em demonstrando o apenado intimidade com a atividade espúria e anotada a gravidade concreta da conduta, em face das peculiaridades já apontadas, conduta essa que vem provocando incessante desassossego à sociedade, tanto que assemelhada às hediondas, a par de ocasionar sérios problemas de saúde pública.
+Outrossim e principalmente, de ser considerada a personalidade distorcida e ousada do acusado, que transportava a droga em ônibus coletivo, em viagem que perduraria por vários dias, ausente qualquer preocupação com a vigilância policial." (e-STJ fl. 285.)
+A obrigatoriedade do cumprimento da pena em regime inicial fechado aos sentenciados por crimes hediondos e a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade, incidenter tantum, do § 1º do art. 2º da Lei n. 8.072/1990, pelo STF, no julgamento do HC 111.840/ES (em 27/7/2012).
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+Como se verifica, embora a pena reclusiva tenha sido fixada abaixo de 8 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, diante da aferição desfavorável da quantidade de entorpecentes apreendidos - 20,353 kg de maconha -, nos termos do art. 33, §§ 2º e 3º, do CP.
+A propósito, confiram-se estes precedentes:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. NULIDADE DO V. ACÓRDÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONDENAÇÕES AINDA SEM TRÂNSITO EM JULGADO. POSSIBILIDADE DE UTILIZAÇÃO PARA NEGATIVA DA REDUTORA. REGIME INICIAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. ILEGALIDADE NÃO CONFIGURADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. REQUISITOS DO ART 44 DO CÓDIGO PENAL NÃO ATENDIDOS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Conquanto se saiba que o col. Supremo Tribunal Federal, por ocasião do julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli, DJe de 17/12/2013), declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, com redação dada pela Lei n. 11.464/2007, afastando a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, in casu, verifica-se que as circunstâncias judiciais do art. 59 são desfavoráveis aos ora pacientes, o que impede a fixação inicial do regime semiaberto para início de resgate da reprimenda.
+ ..
+Habeas corpus não conhecido."
+(HC 385.942/RS, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 20/6/2017, DJe 30/6/2017.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO ADEQUADA. NATUREZA E QUANTIDADE DE DROGA APREENDIDA.
+1. Não ocorre bis in idem quando o julgador fixa a pena-base acima do mínimo legal em razão da quantidade e nocividade das drogas apreendidas e afasta o redutor do art. 33, § 4º, da Lei n. 11.343/2006, por conta da dedicação do paciente à atividade criminosa, que foi evidenciada pelas circunstâncias do delito.
+2. O redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 foi afastado, no caso, em razão das circunstâncias da apreensão (disposição em tablete e barra, materiais apreendidos - eppendorfs utilizados para embalar drogas para posterior venda -, a partir de denúncia anônima, em ponto conhecido de venda ilegal), além da quantidade e diversidade da droga encontrada em poder do ora agravante (57,10 g de cocaína, 264,51 g de crack e 183,21 g de maconha). A tese recursal de que não haveria respaldo probatório para a conclusão adotada no sentido de que o agravante teria envolvimento com organização criminosa, para ser acolhida, demandaria ampla dilação em fatos e provas, o que não se harmoniza com o rito do habeas corpus, de cognição sumária.
+3. Regime fechado mantido e devidamente fundamentado ao se considerar a expressiva quantidade, diversidade e natureza das substâncias entorpecentes apreendidas.
+4. Agravo regimental improvido."
+(AgRg no HC 387.889/MG, rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, j. 16/8/2018, DJe 28/8/2018.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
