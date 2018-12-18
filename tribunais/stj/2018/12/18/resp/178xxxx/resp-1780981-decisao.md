@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e [NOME], com fulcro no art. 105, III, alínea "a", da Constituição Federal, em desfavor de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que os recorrentes foram condenados pela prática dos delitos tipificados nos arts. 171, caput, e 288, parágrafo único, do CP (estelionato e associação criminosa) às penas de 3 anos de reclusão, em regime semiaberto.
+Irresignada a defesa e interposto recurso, este restou parcialmente provido para reduzir as penas impostas para 2 anos e 4 meses de reclusão, mantida a sentença condenatória.
+Opostos embargos de declaração, restaram estes rejeitados.
+Na petição de recurso especial, a defesa dos recorrentes aponta violação ao disposto no art. 387, § 2º, do CPP. Sustenta que a detração faz parte do momento da formação do título judicial e não se confunde com progressão de regime, podendo o julgador manejar o regime inicial de cumprimento de pena considerando o tempo de prisão provisória já suportado.
+Contrarrazões às fls. 1076/1085.
+Admitido o recurso (fl. 1088), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 853/863).
+É o relatório. Decido.
+O recurso não merece provimento.
+No caso, o entendimento da Corte Estadual está em consonância com a jurisprudência desta Corte Superior no sentido de que, ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do recorrente autoriza a fixação de regime mais brando. Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM ECONÔMICA. AUSÊNCIA DE DOLO. PRETENSÃO DE RECONHECIMENTO DO ERRO DE TIPO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. I - Esta Corte Superior de Justiça, possui entendimento no sentido de que se estiverem ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do paciente autoriza a fixação de regime mais brando (Precedentes). II - Na hipótese, o Tribunal de origem ao julgar o recurso de apelação, em consonância com o entendimento desta Corte, reconheceu que a detração, já que não aplicada pelo juiz sentenciante, deverá ser pleiteada e analisada pelo juízo das execuções, porquanto este tem, de fato, mais elementos para avaliar a possibilidade do recorrente iniciar o cumprimento da pena em regime mais brando, considerando o tempo de prisão cautelar. Agravo regimental desprovido. (AgRg no REsp 1733132/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018 - Grifo Nosso).
+Ressalta-se que "as alterações trazidas pela Lei n. 12.736/2012 não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o magistrado sentenciante não houver adotado tal providência" (AgRg no REsp 1716664/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/05/2018, DJe 28/05/2018).
+Diante do exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intime-se.
