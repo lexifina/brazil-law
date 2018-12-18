@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por TECNOFLUOR INDÚSTRIA E COMÉRCIO LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de TECNOFLUOR INDÚSTRIA E COMÉRCIO LTDA, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. (220) não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente. Veja-se que o referido documento, em seu próprio corpo, adverte que não houve a liquidação imediata da obrigação, sujeitando o pagamento do título a determinadas condições.
+Portanto, não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação" (AgInt no AREsp 1143559/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 07/03/2018).
+Nos termos da Lei n.º 11.636/2007, são devidas custas judiciais e porte de remessa e retorno dos autos nos processos de competência recursal do Superior Tribunal de Justiça. O parágrafo único do art. 10 da referida lei ordinária, dispõe que nenhum recurso subirá ao Superior Tribunal de Justiça, excetuado os casos de isenção, sem a juntada aos autos do comprovante de recolhimento do preparo.
+Nesse sentido, mutatis mutandis, os seguintes precedentes: AgInt no REsp 1709931/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 27/08/2018; AgInt no AREsp 1187105/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceiro Turma, DJe de 29/06/2018; e AgInt no AREsp 1074130/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 02/05/2018.
+Se há condições futuras para o efetivo pagamento do preparo, não houve a liquidação imediata do título. Assim, incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
