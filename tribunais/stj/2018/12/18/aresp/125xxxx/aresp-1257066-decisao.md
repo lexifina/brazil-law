@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. INTERESSE PROCESSUAL. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL HOUVE DIVERGÊNCIA INTERPRETATIVA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE COMPROVAÇÃO.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por VENERANDA APARECIDA SIMÕES DE ALMEIDA contra inadmissão, na origem, de recurso especial fundamentado na alínea "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 258):
+MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PRELIMINAR. EXAURIMENTO DAS VIAS ADMINISTRATIVAS. NÃO COMPROVAÇÃO. RECENTE JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTERESSE PROCESSUAL. AUSÊNCIA. SENTENÇA REFORMADA. PROCESSO EXTINTO.
+I - O Superior Tribunal de Justiça, ao julgar o Recurso Especial nº 1.349.453/MS, sob a sistemática dos recursos repetitivos, consolidou o entendimento de que o ajuizamento da ação cautelar de exibição de documentos tem como pressuposto a demonstração de relação jurídica entre as partes, a comprovação de prévio pedido administrativo não acatado em prazo razoável e, ainda, quando exigido, o pagamento das despesas inerentes aos custos dos serviços. II - Ausentes os requisitos que justifiquem o interesse de agir na ação cautelar de exibição de documentos, aludidos na inovação trazida pelo Superior Tribunal de Justiça, o processo deve ser extinto sem a resolução do mérito.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 290-299).
+Nas razões de seu recurso especial, a parte recorrente defende que o caso não se enquadra na hipótese do Recurso Especial repetitivo n.1.349.453/MS e que o acórdão é totalmente contrário ao entendimento do STJ proferido no julgamento do AgRg no Recurso especial n. 1.447.101/RS. Afirma que houve solicitação do documento, que aguardou-se prazo razoável e que o banco nunca exigiu qualquer pagamento.
+Contrarrazões apresentadas (e-STJ fl. 323-327).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Na sequência, verifico que o recurso especial não pode ser conhecido quanto à interposição pela alínea c do permissivo constitucional, único permissivo constitucional no qual se encontra lastreado o presente recurso (e-STJ fl. 303).
+Com efeito, não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado o recorrente de apontar os dispositivos de lei federal sobre os quais haveria divergência jurisprudencial, incidindo, na espécie, o óbice da Súmula 284 do STF.
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente não apontou dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+Ademais, ainda que assim não fosse, o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ.
+A divergência jurisprudencial, nesse passo, deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. No caso concreto, o recorrente aponta julgados que não guardam similitude fática com o caso dos autos, e sequer procedeu à juntada dos documentos aptos à comprovação do dissídio. Outrossim, não se procedeu ao devido cotejo analítico.
+Destarte, inviável a pretensão dos recorrentes.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada verba honorária em R$1.000,00 (mil reais) (e-STJ Fl. 270), a majoração dos honorários para R$1.200,00 (mil e duzentos reais) é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
