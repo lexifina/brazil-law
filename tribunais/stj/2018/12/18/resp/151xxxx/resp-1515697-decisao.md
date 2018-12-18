@@ -1,0 +1,30 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por ITAÚ UNIBANCO BANCO MÚLTIPLO S/A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. TRANSPORTE. LIQUIDAÇÃO POR ARTIGOS. SUSPEIÇÃO DO PERITO. INOCORRÊNCIA DAS HIPÓTESES PREVISTAS NOS ART. 135,138 E 424 DO CPC. NEGADO PROVIMENTO AO RECURSO. UNÂNIME.
+(fls. 426-433)
+Nas razões de seu extenso recurso especial, alega-se violação dos arts. 135, V, 138, III, e 424, I, do CPC/73, bem como dissídio jurisprudencial.
+Sustenta que o rol do art. 135 não é taxativo, devendo-se incluir também a perda da parcialidade do perito por "prejulgamento", haja vista a perda de sua necessária imparcialidade para produzir nova perícia.
+Isto porque "o perito nomeado já atuou na perícia anterior, já formou sua convicção sobre os pontos controvertidos, já deu mostras, inclusive nos autos desta exceção, que está dominado pelo laudo anterior, que o considera correto e que, portanto, o seguirá; o perito também já deu evidencias de sua falta de habilidade e insuficiente capacitação técnica para conduzir uma perícia com a complexidade que se exige neste feito".
+Afirma que o conhecimento anterior da causa pelo expert, além do fato "de a anulação do anterior procedimento liquidatório estar diretamente ligada à sua atuação no processo", sendo que "a tendência natural seria o mesmo perito seguir a mesma trilha já percorrida, além de defender seu trabalho anterior procurando mantê-lo tanto quanto possível", notadamente após, instado a se manifestar, ter perito defendido o seu lado anterior.
+Salienta que se a suspeição for fundada consoante uma das hipóteses previstas na lei (CPC 135), deve o perito ser substituído, não bastando para afastar o mandamento legal a avalição pessoal do magistrado a respeito do perito.
+Alega que o perito não possui conhecimento técnico suficiente para conduzir perícia de tamanha complexidade.
+Diz que o perito não deixou, simplesmente, de responder os quesitos, mas sim, efetuou "uma recusa sistemática e intransigente de responder todos os quesitos apresentados pelo banco", além de ter se posicionado "de modo franco e direto a favor de uma das partes".
+Contrarrazões ao recurso especial às fls. 474-488.
+Crivo negativo de admissibilidade na origem (fls. 490-496), ascendendo a esta Corte pelo provimento do agravo (fls. 577-579).
+Exceção de suspeição protocolada em face deste signatário (fl. 621), afastada às fls. 623-627, e, depois de distribuída, teve seu processamento rejeitado liminarmente pelo em. Min. Marco Aurélio Bellizze (ExSusp 183) e, em outra, a em. Min. Presidente, Laurita Vaz, determinou o cancelamento da autuação pelo não recolhimento das custas judiciais (ExSusp 182).
+Despacho determinando a oitiva das partes à fl. 641.
+Manifestações às fls. 645-652 e 654.
+É o relatório.
+2. O recurso especial perdeu o seu objeto.
+Deveras, conforme asseverado no despacho de fls. 641, no julgamento do Resp 1.526.259/RS foi dado parcial provimento ao pedido para determinar "que a liquidação por artigos siga o procedimento comum, com apresentação de petição inicial e prazo para apresentação de contestação", haja vista que, na hipótese, "o magistrado de piso ao determinar, de plano, a instrução do feito, com a dilação probatória, acabou violando os ditames da norma no que toca ao procedimento comum".
+A decisão foi assim ementada:
+RECURSO ESPECIAL. TRANSPORTE. LIQUIDAÇÃO POR ARTIGOS. PROCEDIMENTO COMUM. ART. 475-H DO CPC/73.
+1. Nos termos do art. 535 do CPC/73, os embargos de declaração apenas são cabíveis quando constar no julgamento obscuridade ou contradição ou quando o julgador for omisso na análise de algum ponto. Admite-se também a interposição de aclaratórios para a correção de erro material.
+2. Não ocorrentes as hipóteses insertas no art. 535 do CPC, tampouco obscuridade manifesta no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa já devidamente decidida.
+3. A liquidação por artigos "iniciará, portanto, através de petição inicial, e seu procedimento se distinguirá, nas linhas fundamentais, da forma incidental da liquidação por arbitramento. Ressalva feita ao chamamento do réu mediante intmiação na pessoa do advogado constituído nos autos  ..  o juiz receberá a inicial, estipulando o prazo de quinze dias para resposta (art. 297) ou designando audiência de conciliação (art. 277), conforme se trate de procedimento ordinário ou sumário, seguindo o roteiro natural dos ritos" (ALVIM, Arruda. Comentários ao código de processo civil. Rio de Janeiro: GZ Ed., 2012, p. 698).
+4. Na hipótese, o magistrado de piso ao determinar, de plano, a instrução do feito, com a dilação probatória, acabou violando os ditames da norma no que toca ao procedimento comum.
+5. Recurso especial parcialmente provido.
+Nessa ordem de ideias, com a anulação de todos os atos processuais da liquidação por artigos para determinar que ela siga, ab initio, o procedimento comum, com apresentação de petição inicial e prazo para apresentação de contestação, acabou, por óbvio, tornando prejudicada a questão atinente à suspeição do perito nomeado (fase processual que será posteriormente renovada).
+No entanto, importante destacar que, na perspectiva do novo Código de Processo Civil, diante dos corolários da boa-fé objetiva (art. 5º), do processo cooperativo (art. 6º) que deve existir entre as partes e o magistrado na condução do processo e tendo-se em conta o direito das partes "de obter em prazo razoável a solução integral do mérito" (art. 4º), não se mostra razoável que o Juízo insista na indicação do Sr. [NOME], como perito para a causa, quando já é sabido, de antemão, da veemente discordância de uma das partes e que continuará existindo, caso se mantenha a referida nomeação, intenso litígio a tumultuar o feito.
+3. Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se
