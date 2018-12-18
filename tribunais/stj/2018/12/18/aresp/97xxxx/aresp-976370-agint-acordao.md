@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a decisão agravada trouxe dois fundamentos suficientes e autônomos para o não conhecimento do recurso especial: incidência da Súmula 284 do STF, quanto à alegada ofensa ao art. 535 do CPC/1973, e presença do óbice fundado na Súmula 7 do STJ para dirimir a controvérsia relativa ao pedido do recorrente de ressarcimento das vantagens decorrentes de reintegração ao cargo público.
+3. Tais fundamentos não foram diretamente combatidos pela parte insurgente no agravo interno, a qual se limitou a repristinar alegações contidas no recurso especial. Incide, portanto, o teor da Súmula 182/STJ, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por [NOME] contra decisão, proferida na vigência do CPC de 2015, que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, sustenta o agravante a reforma da decisão combatida, sob o argumento de que a finalidade almejada no recurso visa discutir a alegada ofensa ao art. 28 da Lei n. 8.112/1990 e, com isso, "obter declaração judicial de validade da força de lei que assegura direito ao jurisdicionado" (e-STJ, fl. 698).
+Reitera que "a violação da Lei, no caso, é patente, pois é por ela assegurado o "ressarcimento de todas as vantagens" sem qualquer condicionante, bastando apenas a invalidação da demissão" (e-STJ, fl. 702).
+Afirma que "o servidor reintegrado terá direito aos vencimentos não percebidos durante o afastamento ilegal e demais vantagens pessoais ou inerentes ao cargo" (e-STJ, fl. 702).
+Pugna, ao fim, pela reconsideração da decisão agravada ou, caso não seja o entendimento, pela submissão dos autos à apreciação do colegiado.
+Sem impugnação ao agravo interno.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O agravo interno não merece conhecimento.
+Conforme observo da decisão combatida (e-STJ, fls. 678-682), o agravo em recurso especial não foi conhecido devido à apresentação de argumentos deficientes quanto à ofensa do art. 535 do CPC/1973 e a necessidade de revolvimento do conjunto fático-probatório dos autos em relação ao pedido do recorrente de ressarcimento das vantagens pessoais decorrentes da reintegração ao cargo público.
+No referido aresto, foi aplicado o disposto previsto nas Súmulas 284 do STF e 7 do STJ, respectivamente:
+Súmula 284: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Súmula 7: A pretensão de simples reexame de prova não enseja recurso especial
+Todavia, extraio das razões expendidas do agravo interno (e-STJ, fls. 697-704) que a incidência dos referidos óbices processuais não foi direta e especificamente combatida no recurso, o que atrai a aplicação da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Vale ressaltar que a parte agravante deve desconstituir os fundamentos utilizados para a negativa de seguimento do recurso especial, sob pena de vê-los mantidos. Desse modo, torna-se imprescindível o confronto específico entre os fundamentos levados em consideração no julgado, a fim de se demonstrar o desacerto da decisão.
+A ausência de combate específico às conclusões da decisão agravada, ou a impugnação genérica dos óbices sumulares aplicados, impossibilita o conhecimento do agravo interno, seja em virtude do disposto no art. 1.021, § 1º, do CPC/2015, seja pela incidência do enunciado da Súmula 182/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 932, III, DO CPC/2015.
+1. O princípio da dialeticidade exige que a interação dos atores processuais se estabeleça mediante diálogo coerente e adequado entre seus interlocutores.
+2. É imperioso que se proceda ao ataque específico a todos os fundamentos da decisão impugnada, cuja reforma pressupõe a apresentação de razões suficientes para demonstrar o desacerto do entendimento perfilhado pelo julgador. Sem o cumprimento desse ônus processual, o recurso nem sequer terá aptidão para promover a alteração por ele buscada.
+3. Nas razões do Agravo em Recurso Especial, a agravante deixou de impugnar a decisão recorrida especificamente quanto à questão da impossibilidade de discussão de matéria constitucional em Recurso Especial, e limitou-se a expor considerações genéricas sobre decisão de admissibilidade e a tecer críticas à forma de proceder do Tribunal de origem, o qual não teria enfrentado de modo efetivo as razões recursais.
+4. É inviável o Agravo em Recurso Especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal a quo para negar trânsito ao apelo especial. Aplicação do comando contido no art. 932, III, do CPC/2015.
+5. Em obiter dictum, destaca-se que, ao analisar as razões do Recurso Especial (fls. 222-232, e-STJ), nota-se que não houve demonstração clara e precisa de afronta à legislação federal, o que, de qualquer forma, inviabilizaria o conhecimento do Apelo Nobre, ante a deficiência em sua fundamentação, que faz incidir, na espécie, a Súmula 284/STF.
+6. Agravo Interno não provido.
+(AgInt no AREsp 1.083.702/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/9/2017, DJe 11/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA RELATIVO À INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. INOVAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO.
+1. É cediço nesta Corte que a impugnação específica do fundamento da decisão que aplica a Súmula nº 83 do STJ demanda a demonstração, pela agravante, que o entendimento do STJ não está em consonância com o acórdão recorrido ou de que os precedentes do STJ citados pelo juízo negativo de admissibilidade não seriam aplicáveis ao caso concreto, ônus do qual não se desicumbiu a agravante na hipótese dos autos. Com efeito, nas razões do agravo não foi indicado qualquer precedente desta Corte para infirmar o fundamento da decisão agravada que entendeu que a jurisprudência do STJ estaria no mesmo sentido do acórdão recorrido. Verifica-se, portanto, que a impugnação ao fundamento da decisão agravada, relativamente à aplicação da Súmula nº 83 do STJ, ocorreu apenas de forma genérica, e não de forma específica. Correto, portanto, o não conhecimento do agravo em recurso especial com base no disposto no inciso III do art. 932 do CPC/2015.
+2. A alegação relativa ao REsp nº 1.051.634, de relatoria da Ministra Regina Helena Costa, Primeira Turma - que teria garantido a possibilidade de creditamento do PIS e da COFINS no regime monofásico em razão da aplicação do art. 17 da Lei nº 11.033/2004 (REPORTO) a todos os contribuintes, e não apenas àqueles sujeito àquele regime -, não foi ventilada nas razões do agravo em recurso especial, configurando, portanto, verdadeira inovação recursal a respeito da qual já se consumou a preclusão.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.122.803/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/9/2017, DJe 25/9/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp 866.675/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 25/5/2016)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
