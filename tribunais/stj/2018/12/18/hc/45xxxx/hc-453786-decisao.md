@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de LUÍS [NOME] [NOME] DA [NOME] (ou [NOME]), apontando como autoridade coatora a 14ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, no julgamento do Agravo em Execução n. 7005018-96.2017.8.26.0482
+Consta dos autos que foi reconhecida a prática de falta grave pelo paciente, consistente em subversão à ordem e disciplina (art. 50, I da Lei de Execução Penal).
+A Corte de origem manteve a decisão de primeiro grau e negou provimento ao agravo em execução da defesa (fls. 112/120).
+Assevera a impetrante, em apertada síntese, que decorreu o prazo prescricional para instauração do gravame disciplinar, visto que a falta grave teria sido praticada em 9/8/2016 enquanto a sua homologação deu-se somente em 17/8/2017, impondo-se a extinção da infração disciplinar, por ter ultrapassado o prazo de 180 dias.
+Alega estar sofrendo coação ilegal com a decisão que reconheceu a falta grave e determinou a regressão de regime, sem realização de audiência de justificação, bem como a ilegalidade da fração de 1/3 (um terço) referente à perda dos dias remidos.
+Sustenta a atipicidade da conduta e que a falta deve ser desclassificada para média ou leve.
+Requer, deste modo, a concessão da ordem a fim de reconhecer o constrangimento ilegal a que se encontra submetido o paciente.
+Liminar às fls. 128/129.
+Informações às fls. 136/139 e 141/153.
+Parecer ministerial às fls. 155/164.
+É o relatório.
+2. A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio. Entretanto, o constrangimento apontado na inicial será analisado, a fim de que se verifique a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Quanto à alegação de atipicidade do ato praticado e ao pleito de desclassificação para falta disciplinar de natureza média ou leve, não assiste razão à defesa. Por ser o habeas corpus remédio constitucional para resguardar a liberdade de locomoção contra ilegalidade ou abuso de poder, de rito célere e cognição sumária, não se afigura como via adequada para tratar ou analisar pretensões que ensejam dilação probatória ou revolvimento do acervo fático-probatório.
+Assim, não há como desconstituir as conclusões das instâncias de origem que, após minuciosa análise de fatos e provas, entendeu que a conduta do paciente configura falta grave e, em consequência, inviabiliza a possibilidade de desclassificação para falta de natureza leve ou média.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. HOMOLOGAÇÃO DE FALTA GRAVE. NULIDADE. HOMOLOGAÇÃO SEM PRÉVIA OITIVA DO APENADO EM JUÍZO. ATIPICIDADE. DESCLASSIFICAÇÃO. PENA MÉDIA OU LEVE. INVIABILIDADE DE ANÁLISE NA VIA ESTREITA DO HABEAS CORPUS. PERDA INTEGRAL DE 1/3 DOS DIAS REMIDOS. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE NOVOS ARGUMENTOS. AGRAVO DESPROVIDO.
+(..)
+IV- Não há que se falar em atipicidade ou desclassificação da falta grave atribuída ao paciente para outra de natureza média ou leve, sobretudo porque isso demandaria o revolvimento de matéria fático-probatória, o que é inadmissível na via estreita do habeas corpus.
+V-
+ ..
+Agravo regimental desprovido. (AgRg no HC 425.059/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+Quanto à prescrição, a orientação jurisprudencial firmada por esta Corte Superior é no sentido de que, em face da lacuna legal, referido prazo para apuração de falta disciplinar grave praticada no curso da execução é o regulado no art. 109, VI, do Código Penal, qual seja, 2 (dois) anos, tratando-se de infração cometida em data anterior à Lei n.º 12.234 de 5 de maio de 2010, ou de 3 (três) anos se a falta tiver ocorrido na vigência da referida norma, como ocorre in casu, pois a falta ocorreu em 09/08/2016.
+Nesse norte, os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. 2. VIOLAÇÃO A PRINCÍPIOS CONSTITUCIONAIS. VIA INADEQUADA. 3. FALTA GRAVE. PRESCRIÇÃO. MENOR PRAZO DO ART. 109 DO CP. 4. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. A jurisprudência do STJ sedimentou-se no sentido de que para a verificação da prescrição da pretensão apuratória de falta grave deve ser levado em conta o menor prazo constante do art. 109 do Código Penal, no caso, 3 anos.
+4. Agravo regimental improvido. (AgRg no REsp 1485829/MG, Rel. Ministro WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO TJ/SP), QUINTA TURMA, DJe 19/12/2014).
+EXECUÇÃO PENAL. HABEAS CORPUS. (1) IMPETRAÇÃO COMO SUCEDÂNEO RECURSAL. IMPROPRIEDADE DA VIA ELEITA. (2) FALTA GRAVE. PRESCRIÇÃO. APLICAÇÃO ANALÓGICA DO ART. 109, INCISO VI, DO CÓDIGO PENAL. PRECEDENTES. ORDEM NÃO CONHECIDA.
+1. No contexto de racionalização do emprego do habeas corpus, mostra-se indevida a sua utilização como sucedâneo recursal.
+2. Nos termos da jurisprudência desta Corte, o prazo prescricional para aplicação de sanção administrativa disciplinar decorrente do cometimento de falta grave é de três anos, consoante o disposto no art. 109, inciso VI, do Código Penal, com a redação dada pela Lei n.º 12.234/2010, em razão inexistência de dispositivo legal específico sobre a matéria.
+3. Ordem não conhecida. (HC 278.398/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/10/2014).
+Considerando que o fato que originou o procedimento administrativo ocorreu no dia 09/08/2016, sobrevindo a decisão do juízo em 17/08/2017, constata-se que não transcorreu prazo superior a 3 (três) anos, o que afasta a pretensão defensiva de reconhecimento da extinção da punibilidade pela prescrição.
+Passa-se à análise da irresignação com a decisão que reconheceu a falta grave e determinou a regressão de regime, sem oitiva do paciente em juízo, bem como a ilegalidade da fração de 1/3 (um terço) referente à perda dos dias remidos.
+Em relação à ilegalidade da perda de 1/3 (um terço) dis dias remidos, verifica-se que o Juízo de primeiro grau assim se manifestou (fl. 60):
+Ademais, a natureza da falta disciplinar praticada, bem como o histórico prisional do sentenciado determinam a perda de 1/3 (um terço) dos dias declarados remidos anteriormente à data da falta. Sobretudo porque a gravidade da conduta praticada rebaixa o nível de disciplina na unidade prisional, causa instabilidade no ambiente carcerário e, por consequência, prejudica a segurança dos servidores e dos demais detentos.
+A aplicação em menor percentual implica em tornar inócuas a nova lei e a sanção decorrente da prática de infração disciplinar.
+Como se vê, bem justificada a perda dos dias remidos na fração de 1/3 (um terço), tendo em vista que o Juízo de primeiro grau levou em consideração as razões de proporcionalidade e razoabilidade que regem o art. 127 da Lei de Execução Penal.
+Quanto à obrigatoriedade da audiência de justificação, o Superior Tribunal de Justiça firmou o entendimento, na forma do art. 118, § 2º da Lei nº. 7.210/84, de que é necessária nos casos de regressão definitiva de regime prisional, como no caso dos autos.
+Neste sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA GRAVE. HOMOLOGAÇÃO APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. VIA INADEQUADA. REGRESSÃO DEFINITIVA DE REGIME. OITIVA JUDICIAL DO SENTENCIADO. NECESSIDADE. ILEGALIDADE MANIFESTA. PERDA DE 1/4 DOS DIAS REMIDOS. AUSÊNCIA DE FUNDAMENTAÇÃO. ORDEM CONCEDIDA EM PARTE.
+1. A aplicação da falta grave deu-se mediante regular procedimento administrativo disciplinar - PAD, com rito próprio previsto na Lei de Execução Penal.
+2. O pedido de desclassificação da falta grave para falta média não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede.
+3. Nos termos do art. 118, § 2º, da Lei de Execução Penal, é imprescindível, para a regressão definitiva de regime carcerário, a prévia oitiva do apenado em juízo, sob pena de nulidade.
+Precedentes.
+4. O juízo da execução não fundamentou a necessidade de perda dos dias remidos no patamar máximo. Ao assim decidir, deixou de exerceu um juízo de proporcionalidade, em atenção ao disposto no art. 57 da Lei de Execução Penal.
+5. Ordem concedida parcialmente para anular a decisão proferida pelo Juízo das Execuções, na parte em que determinou a regressão definitiva de regime e a perda de 1/3 (um terço) dos dias remidos, determinando-se que outra seja proferida, com a observância da prévia oitiva judicial do sentenciado e com a devida fundamentação da fração relativa à perda dos dias remidos. (HC 407.808/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/10/2017, DJe 13/10/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO NA ESFERA PENAL. INSUFICIÊNCIA DE PROVAS. AUSÊNCIA DE REPERCUSSÃO NA ESFERA ADMINISTRATIVA. MATERIALIDADE E AUTORIA DA FALTA RECONHECIDAS PELAS INSTÂNCIAS ORDINÁRIAS. NEGATIVA DE AUTORIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. NÃO REALIZAÇÃO DA AUDIÊNCIA DE JUSTIFICAÇÃO. NULIDADE. DETERMINADA REGRESSÃO DE REGIME. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. "É firme o entendimento no âmbito do STJ no sentido de que a absolvição na esfera penal apenas repercute no âmbito administrativo se estiver baseada na negativa da autoria ou na inexistência do fato" (MS n. 20.994/DF, Rel. Ministro Mauro Campbell Marques, 1ª S., DJe 6/6/2016).
+2. Para se infirmar a interpretação apresentada pelas instâncias ordinárias, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, no sentido de que o aparelho celular não pertenceria ao paciente, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, é imprescindível a realização de audiência de justificação apenas quando o Juízo da execução penal proceder à regressão definitiva do apenado a regime mais gravoso, de modo que a regressão cautelar prescinde de prévia oitiva judicial.
+4. Agravo regimental parcialmente provido para determinar tão somente a realização da audiência de justificação. (AgRg no HC 412.743/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/10/2017, DJe 27/10/2017)
+Na hipótese vertente, anotou o Tribunal Coator que, tendo sido instaurado Procedimento Disciplinar Administrativo, "não preceitua a necessidade de oitiva do reeducando pela autoridade judiciária, tratando-se, em verdade, de ato a ser realizado durante o procedimento administrativo instaurado e presidido pela Comiss ao Sindicante do estabelecimento penitenciário" (fl. 117)
+No entanto, tal posicionamento está em dissonância com o entendimento deste STJ, restando evidente a coação ilegal a ser sanada de ofício por este Sodalício.
+3. Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus, concedendo-se, contudo, a ordem de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal, para anular a decisão no ponto que determinou a regressão definitiva de regime do paciente, determinando-se que outra seja proferida, com a observância da oitiva judicial do sentenciado, de acordo com o art. 118, § 2º da Lei n. 7.210/84.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
