@@ -1,0 +1,53 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste violação do art. 535, II, do Código de Processo Civil de 1973, quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os dispositivos de leis alegadamente violados e apresentados pelos litigantes.
+2. A jurisprudência deste e. Superior Tribunal de Justiça firmou entendimento no sentido de que somente é cabível a alegação de excesso de execução por intermédio da oposição de exceção de pré-executividade quando não for necessária dilação probatória.
+3. No caso concreto, o Tribunal de origem concluiu não ser hipótese de cabimento da exceção de pré-executividade, tendo em vista que o caso dos autos demandaria dilação probatória. Para alterar esse entendimento, seria imprescindível o reexame das provas contidas no processo, o que é vedado em recurso especial. Incidência da Súmula 7 do STJ.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+CUMPRIMENTO DA SENTENÇA - Ação de cobrança - Apresentada exceção de pré-executividade - Rejeição - Possibilidade - Ausência de questionamento sobre requisitos básicos do título - Matéria de mérito a ser analisada em sede de impugnação, nos termos do art. 475-L, do Código de Processo Civil - Excesso de execução - Questão não ventilada no incidente apresentado pela recorrente - Preclusão.
+CUMPRIMENTO DA SENTENÇA - Ação de cobrança - incidência de multa de dez por cento sobre o montante da condenação - Possibilidade - Aplicação do art. 475-J, do Código de Processo; Civil - Dispositivo que visa compelir o executado a, prontamente, adimplir suas obrigações, desestimulando as usuais protelações - Ademais, o tardio cumprimento da sentença não livra o devedor da multa já incidente - Decisão mantida - AGRAVO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 820-829).
+Em suas razões recursais, aponta a parte recorrente: (a) ofensa ao disposto nos arts. 5º, XXXVI, da CF, e 471, 472, 473 e 474, do CPC/1973, asseverando que houve violação da coisa julgada, por não observância aos critérios de cálculo do débito fixados pela sentença, a qual teria determinado a incidência de juros até a data de pagamento da beneficiária do plano de saúde ao Hospital, mas havia determinado que a partir de então a obrigação da recorrente era de ressarcir à beneficiária o valor por essa desembolsado com a devida atualização, mas jamais com incidência de juros; (b) contrariedade ao art. 475-J do CPC/1973, por aplicação indevida da multa de 10% em sede de execução provisória, e violação aos arts. 267, § 3º e 301, § 4º, do CPC/1973, defendendo ser cabível a oposição de exceção de pré-executividade por haver matéria de ordem pública que precisa ser arguida em defesa de execução de sentença.
+E, subsidiariamente, aponta ofensa ao disposto nos arts. 535 do CPC/1973, sustentando, em síntese, a nulidade do acórdão recorrido, pois, não obstante a oposição de embargos de declaração, os vícios apontados atinentes aos arts. 267, § 3º e 301, § 4º, 471, 472, 473 e 474, e 475-J do CPC/1973, não foram sanados.
+Apresentada contrarrazões pelo Hospital 9 de Julho S/A ao recurso especial às fls. 901-911.
+O recurso especial recebeu crivo negativo de admissibilidade na origem (fls. 926), mas por força do provimento do Ag 1.378.203 - SP, este relator determinou a conversão dos autos em recursos especial, sem prejuízo de novo exame acerca de seu cabimento (fl. 955)
+É o relatório.
+DECIDO.
+2. Acerca da alegada ofensa ao disposto no art. 535 do CPC/1973, o Tribunal a quo dirimiu as questões pertinentes ao litígio.
+Observa-se que nas razões do recurso especial, no ponto em que afirma ter havido violação ao art. 535 do CPC, o recorrente limita-se a argumentar que os embargos de declaração foram opostos junto ao Tribunal de origem para sanar omissões e prequestionar a matéria do arts. 267, § 3º e 301, § 4º, 471, 472, 473 e 474, e 475-J do CPC/1973.
+Nas razões dos embargos de declaração e do recurso especial, o recorrente deduz argumentação de que as questões postas nos aclaratórios interpostos na origem não foram respondidas. Todavia se limita a indicar artigos de lei sem explicar sua relação com a causa ou a questão decidida. Também não explicita o motivo concreto de sua incidência no caso, invocando motivos que se prestariam a justificar qualquer outro recurso de embargos de declaração, e não traz fundamentos determinantes capazes de, ao menos em tese, infirmar a conclusão adotada pelo órgão julgador.
+3. Quanto à objeção de pré-executividade o Tribunal local, assim assentou:
+Não se desconhece, por construção doutrinária-jurisprudencial, a possibilidade da apresentação da chamada exceção de pré-executividade, reservada para hipóteses excepcionais, onde a matéria alegada poderia ser conhecida de ofício pelo Juízo.
+Verifica-se o cabimento da exceção de pré-executividade quando apurada, de plano, nulidade a descaracterizar a exigibilidade do título, quando, por exemplo, a execução é fundada em título flagrantemente nulo, inexistente ou falso, e que tais vícios sejam reconhecidos em laudo judicial.
+"A objeção de pré-executividade pressupõe que o vicio seja aferível de plano e que trate de matéria ligada à admissibilidade da execução, seja, portanto, conhecível de oficio e a qualquer tempo" (STJ-4ª Turma. RESP 221 202-MT. Rel. Min. Sálvio de Figueiredo, j, 09.10.01, não conheceram, v.u., DJU 4 2 02; p. 370).
+Não é o caso dos autos.
+Execução fundada em título judicial, que possibilita o oferecimento de impugnação, nos termos do art. 475-L, do Código de Processo Civil.
+"A exceção de pré-executividade, admitida em nosso direito por construção doutrinário jurisprudencial, somente se dá, em princípio, nos casos em que o juízo, de oficio, pode conhecer da matéria, a exemplo do que se verifica a propósito da higidez do título executivo" (STJ - Bol. AASP 2 176/537j e STJ-RF 351/394) (in Cf. art. 618, nota 1c, p. 737, in Código de Processo Civil e legislação processual em vigor. Theotônio Negrão e José Roberto F. Gouvêa, Saraiva. SP, 36ª ed).
+Da análise dos autos, verifica-se, pois, que a recorrente manejou a exceção de pré-executividade para impugnar os critérios de cálculo do débito fixados pela sentença executiva. Segundo a executada, a sentença teria determinado a incidência de juros somente até a data de pagamento pela beneficiária do plano de saúde ao Hospital, e que a partir de então é que surgiria a sua obrigação de ressarcir à beneficiária o valor por aquela desembolsado com a devida atualização, mas jamais com incidência de juros desde então. Ela também se insurge contra a aplicação da multa de 10%, em sede de execução provisória.
+Ora, vê-se que a intenção da recorrente é promover o expurgo do excesso de execução (fl. 846), o que é incabível o caso, por não ser aferível sem nenhuma necessidade de dilação probatória, conforme jurisprudência já pacificada nesta Corte Superior. Neste sentido confiram-se os precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PETIÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. EXCESSO DE EXECUÇÃO. TERMO INICIAL DA CORREÇÃO MONETÁRIA. DATA DO AJUIZAMENTO DA AÇÃO. SÚMULA 14/STJ. RECURSO CONHECIDO E DESPROVIDO.
+1. A exceção de pré-executividade não comporta alegação de excesso de execução, salvo se esse for patente, não demandando, portanto, dilação probatória.
+2. Na hipótese em exame, embora cabível a impugnação dos cálculos apresentados pelos exequentes, por via de exceção de pré-executividade, dada a desnecessidade de dilação probatória, não se constata o alegado excesso de execução.
+3. "Arbitrados os honorários advocatícios em percentual sobre o valor da causa, a correção monetária incide a partir do respectivo ajuizamento" (Súmula 14/STJ).
+4. Recurso especial conhecido, mas desprovido.
+(REsp 330.180/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/10/2012, DJe 29/10/2012)
+--
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. DESCABIMENTO. ACÓRDÃO RECORRIDO QUE SE ALINHA COM A JURISPRUDÊNCIA DO STJ. QUESTÃO QUE, ADEMAIS, DEPENDE DE REEXAME REFLEXO DE MATÉRIA FÁTICA DA LIDE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Nos termos da jurisprudência do STJ, a exceção de pré-executividade é via inadequada para se verificar eventual excesso de execução quando tal atividade depender de dilação probatória. Precedentes.
+2. Inviável a análise do recurso especial se a matéria nele contida depende de reexame reflexo de questões fáticas da lide, vedado nos termos da Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1188019/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/09/2011, DJe 21/09/2011)
+--
+AGRAVO REGIMENTAL - EXCESSO DE EXECUÇÃO - COISA JULGADA - MATÉRIA DE FATO - SÚMULA 7/STJ - DISSÍDIO JURISPRUDENCIAL - AUSÊNCIA - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+I. No que tange ao alegado excesso de execução e à coisa julgada, o Tribunal originário, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame das provas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório. Incidência da Súmula 7/STJ.
+II. A alegação de excesso de execução não é cabível em sede de exceção de pré-executividade, salvo quando tal excesso for evidente, o que não sucede na espécie.
+III. O dissídio jurisprudencial não foi demonstrado, sendo certo que o agravante limitou-se a transcrever trechos de julgados, sem demonstrar as similitudes fáticas e divergências decisórias.
+Ausente, portanto, o necessário cotejo analítico entre as teses adotadas no acórdão recorrido e nos paradigmas colacionados.
+IV. A agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+V. Agravo Regimental improvido.
+(AgRg no Ag 1356418/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/03/2011, DJe 30/03/2011)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+4. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
