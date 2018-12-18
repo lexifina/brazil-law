@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESCISÃO ANTECIPADA DO CONTRATO. PREVISÃO DE MULTA CONTRATUAL. REEXAME. SÚMULA 5 E 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por WILVALE DE RIGO S.A contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+EMENTA: APELAÇÃO CÍVEL PLANO DE SAÚDE Ação julgada procedente para afastar a cobrança de multa pelo cancelamento antecipado do contrato pela empresa segurada Insurgência da apelante sobre o afastamento da cobrança de multa pelo cancelamento imotivado do contrato antes do período mínimo de vigência Cabimento Previsão contratual expressa Respeito ao pacta sunt servanda - Recurso provido.(e-STJ fl. 338)
+Os embargos de declaração foram rejeitados. (e-STJ fl. 368/372)
+Nas razões do recurso especial, a recorrente aponta violação aos artigos 490 e 1022, do Código de Processo Civil, ao argumento de que houve negativa de prestação jurisdicional. Aponta contrariedade ao artigo 413 do Código Civil, sob o fundamento de que a multa pela rescisão antecipada do contrato é abusiva, devendo ser fixada de forma proporcional ao prazo não cumprido do contrato.
+Contrarrazões ao recurso especial apresentadas, às fls. 400/416 e-STJ, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 419/421 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+A pretensão recursal não merece prosperar.
+No tocante à suposta violação aos arts. 490 e 1.022 do Código de Processo Civil, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, ou contradição, tampouco de negativa de prestação jurisdicional, desse modo, embora rejeitados os embargos de declaração opostos, o Tribunal a quo explicitou de forma suficiente e fundamentada, ainda que em sentido contrário à pretensão da recorrente, os motivos pelos quais entendeu devida a multa nos termos do contrato entabulado entre as partes.
+Efetivamente, no acórdão dos embargos de declaração, restou consignado que:
+Malgrado a embargante não concorde com o entendimento esposado por este Relator, verifico que não ocorreu qualquer dos requisitos ensejadores da oposição dos presentes embargos declaratórios ao v. acórdão embargado, posto que bem declaradas as razões que levaram ao resultado do recurso interposto, senão vejamos:
+"6. Observo que, de fato, o contrato entabulado entre as partes, em sua cláusula 31.3.1 (fls. 170) prevê pagamento de prêmio complementar para possibilitar a adequação de preços dos valores das mensalidades em caso de cancelamento do contrato antes de completar o prazo de 24 (vinte e quatro) meses da contratação.
+7. Com efeito, no caso sub judice, o contrato foi firmado no dia 16.08.2013 e cancelado em 06.04.2015 e, portanto, antes de decorrido o prazo da cláusula supra mencionada e quanto a isto não houve impugnação pela autora.
+8. Observo, ainda, que a autora não se desincumbiu sequer de comprovar os motivos pelo qual solicitou o cancelamento antecipado do contrato, tratando-se, incontroversamente, de cancelamento imotivado. Cabível, portanto, a multa pretendida pela ré especialmente por tratar-se de contrato firmado por pessoas jurídicas.
+9. Além disso, não sendo o contrato contrário à lei, à ordem pública, aos bons costumes, pactuado por sujeitos capazes e versando sobre negócio lícito, possível, determinado ou determinável, e em se tratando de direitos disponíveis, faz lei entre as partes. Noutras palavras, na hipótese em comento prepondera a aplicação do princípio pacta sunt servanda."
+7. Cumpre-me consignar, ainda, que o cancelamento foi efetivado após o escoamento do aviso prévio de 60 (sessenta) dias) no dia 6 de junho de 2015 (requerido no dia 6.4.15), pendentes ainda, 71 (setenta e um) dias, pouco mais de dois de contrato, cujo término ocorreria em 16.8.2015, como quer fazer crer a embargante.
+8. É certo, ainda, que multa contratual, cobrada no valor de R$ 86.867,40 corresponde a duas vezes o valor da última mensalidade cobrada (R$ 43.433,70), nos termos das cláusulas 31.3.2 e da tabela constante da cláusula 31.3.5.
+9. Além disso, a embargante não se desincumbiu de comprovar a culpa da seguradora pelo cancelamento do contrato, sendo certo que a notificação enviada trata-se de documento unilateral por ela produzido.
+10. Por fim, no que se refere ao custo do contrato, é certo que não se verificou a alegada onerosidade, sendo certo que o contrato foi solicitado para 65 beneficiários dentre as modalidades Básico 10, Especial 100 e Executivo, no valor médio de R$ 668,22 por pessoa ao tempo da rescisão. (e-STJ fls. 370/372)
+Destarte, não há se falar em negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REVISÃO DE BENEFÍCIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem, após a análise dos elementos dos autos, concluiu que não é devido o reajuste do benefício complementar pelo autor, uma vez que no presente caso, incide a Lei 8.020/90, o qual destina eventuais sobras no exercício anual para o fundo de contingência, ou para a redução das contribuições. Verifica-se que para desconstituir o entendimento exposto pelo Tribunal local e acolher a pretensão recursal seria imprescindível a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas, bem como a interpretação de cláusulas contratuais, o que é defeso nesta instância especial ante os óbices das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no AREsp 1233390/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESERVA DE NUMERÁRIO. DISCORDÂNCIA ENTRE AS PARTES. NECESSIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA. INCIDÊNCIA DA SÚMULA 83/STJ. CONCLUSÃO DO ACÓRDÃO RECORRIDO QUE SE DEU APÓS ANÁLISE DAS PROVAS E DO CONTRATO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Todas as questões suscitadas pelas partes foram devidamente apreciadas pela Corte estadual, não havendo que se falar em negativa de prestação jurisdicional.
+2. O acórdão estadual está em consonância com a jurisprudência desta Corte no tocante à necessidade de se ajuizar ação própria para a cobrança de honorários contratuais quando existir discordância entre o outorgante e o advogado.
+3. Ademais, depreende-se que o Colegiado estadual julgou a lide com base nas disposições contratuais e no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de recurso especial, ante os óbices dos enunciados n. 5 e 7 da Súmula deste Tribunal.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1059771/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+Ademais, consoante a jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Dessa forma, para se chegar à conclusão diversa da que chegou o eg. Tribunal a quo, acerca da legalidade da multa aplicada pela rescisão antecipada do contrato, seria inevitável o revolvimento do arcabouço fático-probatório e a interpretação de cláusula contratual, procedimentos inviáveis na instância especial, a teor das Súmulas nºs 5 e 7 desta Corte.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. OFENSA AO ART. 535 DO CPC/73 NÃO CONFIGURADA. DEFICIÊNCIA DE SERVIÇO DE TELEFONIA. AUSÊNCIA DE COMPROVAÇÃO. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.  ..
+3. Para ultrapassar a conclusão a que chegou o Tribunal estadual no sentido de que não ficou comprovada a falha dos serviços contratados a possibilitar a rescisão antecipada do contrato sem aplicação da multa e o arbitramento do dano moral, seria necessária a revisão do contexto fático-probatório dos autos, inviável no âmbito do recurso especial conforme a Súmula nº 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 760.498/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE ERRO NA PRODUÇÃO DO LAUDO PERICIAL. SÚMULA N. 7/STJ. RESCISÃO ANTECIPADA DO CONTRATO. MULTA. SÚMULA N. 5/STJ. RECURSO NÃO PROVIDO.
+1. O reexame das circunstâncias fáticas da causa é vedado neste Tribunal. Súmula n. 7/STJ.
+2. A aplicação de multa à rescisão antecipada, definida contratualmente, reclama a análise dos termos do contrato. Súmula n.
+5/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 213.874/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/10/2012, DJe 23/10/2012)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios fixados em 13% (e-STJ, fl. 349), para 15% sobre o valor da condenação.
+Intimem-se.
