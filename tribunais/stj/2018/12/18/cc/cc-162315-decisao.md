@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA VARA DO TRABALHO DE URUAÇU - GO, ora suscitante, e o JUÍZO DE DIREITO DA VARA DE FAZENDAS PÚBLICAS E DE REGISTROS PÚBLICOS AMBIENTAIS E 2ª CÍVEL DE NIQUELÂNDIA - GO, ora suscitado.
+Consta dos autos que foi proposta ação de cobrança por [NOME], contratado para exercer o cargo de Superintendente - emprego em comissão -, postulando verbas rescisórias no Juízo Estadual, que declarou a incompetência da Justiça Comum e remeteu os autos para a Justiça Laboral (e-STJ fls. 67/68), que suscitou o presente conflito de competência (e-STJ fls. 106/108).
+O Ministério Publico Federal manifesta seu desinteresse de opinar nesta demanda (e-STJ fls. 122/124).
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, Relator  Min. LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "o exercício de cargo em comissão, com regular nomeação e posse, atrai a competência da Justiça Comum para julgamento de demanda decorrente dessa relação jurídica." (CC 145.393/ ES, Rel. Min. ASSUSETE MAGALHÃES, Primeira Seção, DJe 12/04/2016)
+Nessa linha, foi editada a Súmula 218, que assim prescreve: "Compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão."
+Ocorre que, conforme consta nas razões do Juízo Estadual, o regime adotado pelo ente municipal retornou a ser o celetista - Lei Complementar n. 019/2009 (e-STJ fl. 67) - , o que atrai a competência da Justiça Obreira para julgar o feito.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DA VARA DO TRABALHO DE URUAÇU - GO, ora suscitante.
+ Intimem-se. Publique-se.
