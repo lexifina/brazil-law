@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. PRISÃO PROCESSUAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ORDEM CONCEDIDA NOS AUTOS DO HC N.º 466.652/SC PARA DECLARAR A NULIDADE DA PROVA COLHIDA E RELAXAR A PRISÃO PREVENTIVA DO PACIENTE. AUSÊNCIA SUPERVENIENTE DE INTERESSE PROCESSUAL. PEDIDO DE HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no HC n.º 4016087-09.2018.8.24.0900.
+Consta dos autos que a Autoridade Policial, no âmbito de inquérito policial instaurado para investigar a prática de delitos de tráfico, associação para o tráfico de entorpecentes e organização criminosa, representou pela prisão preventiva do Paciente, bem como de outros, a qual foi decretada pelo Juízo a quo em 12/03/2018 (fls. 11-21).
+Irresignada, a Defesa ajuizou prévio writ perante o Tribunal de origem, que denegou a ordem em acórdão assim ementado (fl. 22):
+"HABEAS CORPUS. CRIMES CONTRA A SAÚDE E A PAZ PÚBLICAS. TRÁFICO ILÍCITO DE SUBSTÂNCIAS ENTORPECENTES, ASSOCIAÇÃO PARA TAL FINALIDADE E ORGANIZAÇÃO CRIMINOSA (LEI 11.343/2006, ARTS. 33, CAPUT, E 35, CAPUT, E LEI 12.850/2013, ART. 2º, CAPUT). DECRETAÇÃO DA PRISÃO PREVENTIVA.
+INVOCADO CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PROVIDÊNCIA EXTREMA. INOCORRÊNCIA. INVESTIGAÇÕES QUE PRESSAGIAM A EXISTÊNCIA DE AMPLA E SOFISTICADA ESTRUTURA CONSTITUÍDA PARA A PRÁTICA DE INJUSTOS PENAIS. CONVERSAS TELEFÔNICAS CAPTADAS PELA AUTORIDADE POLICIAL AS QUAIS APONTAM QUE AO PACIENTE INCUMBIA A REVENDA DE DROGAS ADQUIRIDAS DE UM DOS LÍDERES DO GRUPO. NECESSIDADE DE ACAUTELAMENTO DA APURAÇÃO DOS FATOS. IMPERIOSA GARANTIA DA ORDEM PÚBLICA DIANTE DA POSSIBILIDADE DE REITERAÇÃO CRIMINOSA. PRESENÇA DOS PRESSUPOSTOS DOS ARTS. 312, CAPUT, E 313, I, AMBOS DA LEI ADJETIVA PENAL.
+PREDICADOS PESSOAIS. ATRIBUTOS NÃO BASTANTES À ELISÃO DA MEDIDA. ALMEJADA PERMUTA DO COMANDO CONSTRITIVO POR MEDIDAS CAUTELARES ALTERNATIVAS (CPP, ART. 319). INVIABILIDADE. ADEQUAÇÃO E SUFICIÊNCIA DA BENESSE NÃO EVIDENCIADAS.
+ORDEM DENEGADA."
+No presente mandamus, sustenta-se, em suma, ausência de fundamentação idônea para a custódia cautelar do Paciente. Argumenta-se que: "não há nenhuma situação fática que vincule o Paciente aos demais Réus  e que não há,  portanto, qualquer menção aos elementos escritos no caderno indiciário que justificariam a necessidade do cárcere" (fl. 5). Aduz-se que o Juízo de primeiro grau "decretou a prisão preventiva de [NOME] com base na gravidade abstrata do delito e na garantia da ordem pública" (ibidem). Ressalta-se que "a segregação preventiva do Paciente não se mostra juridicamente adequada, sobretudo diante da falta de demonstração do fummus comissi delict" (fl. 6).
+Requer-se, liminarmente e no mérito, a concessão da ordem para revogar a segregação provisória do Acusado.
+O pedido liminar foi indeferido pela Ministra MARIA THEREZA DE ASSIS MOURA, então Relatora do feito (fls. 33-37).
+Prestadas as informações, o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], opinou pelo não conhecimento do habeas corpus, mas, caso conhecido, pela denegação da ordem (fls. 129-134).
+À fl. 139, o Impetrante reiterou o pedido inicial do writ.
+É o que há de necessário para relatar, considerada a ausência superveniente de interesse na tramitação do presente feito.
+Passo a decidir.
+Nos autos do HC n.º 466.652/SC, impetrado em favor do ora Paciente, concedi a ordem para, estendendo os efeitos do acórdão proferido no RHC n.º 99.735/SC, Rel. Min. LAURITA VAZ, declarar a nulidade da decisão judicial que autorizou o espelhamento do WhatsApp via QR Code, bem como das provas e dos atos que dela diretamente dependam ou sejam consequência, ressalvadas eventuais fontes independentes, e relaxar, por conseguinte, a prisão preventiva do Paciente, se por outro motivo não estiver preso.
+Dessa forma, em razão da ausência superveniente de interesse processual, JULGO PREJUDICADO o pedido de habeas corpus e, consequentemente, a pretensão de fl. 139.
+Publique-se. Intimem-se.
