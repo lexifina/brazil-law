@@ -1,0 +1,47 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 3.º, INCISO IX, DA LEI N.º 1.521/51. SUPOSTA VIOLAÇÃO DO ART. 489, INCISO VI, DO CÓDIGO DE PROCESSO CIVIL. TESE DEFENSIVA NÃO SUSCITADA PERANTE O TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. NORMAS CONSTITUCIONAIS. VIOLAÇÃO. ANÁLISE. VIA INADEQUADA. PLEITO DE ABSOLVIÇÃO. NÃO INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N.º 284 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e CARLÚCIA PEREIRA BARBOSA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Tocantins proferido na Apelação Criminal n.º 0022895-35.2017.827.0000.
+Consta nos autos que os Recorrentes foram condenados às penas de 2 (dois) anos e 6 (seis) meses de detenção, em regime aberto, mais o pagamento de 100 (cem) dias-multa, pela prática do delito previsto no art. 3.º, inciso IX, da Lei n.º 1.521/51. As penas privativas de liberdade foram substituídas por uma pena restritiva de direitos (fls. 705-725).
+Contra a sentença, a Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem, nos termos da seguinte ementa (fl. 821):
+"APELAÇÃO CRIMINAL - CRIME CONTRA ECONOMIA POPULAR - ARTIGO 3º, INCISO IX, DA LEI Nº 1.521/51 - PRELIMINAR DE NULIDADE DA DENÚNCIA AFASTADA - AUSÊNCIA DE NULIDADE - ABSOLVIÇÃO - IMPOSSIBILIDADE - CONDUTA TÍPICA E AUTORIA SOBRESSAI DO CONJUNTO PROBATÓRIO - RECURSO A QUE SE NEGA PROVIMENTO. 1. - Não há que se falar em incompetência do Juízo que recebeu a denuncia, e nem mesmo em cerceamento de defesa quando, detectada a incompetência, o Magistrado providencia a remessa dos autos para o Juízo competente. 2. - Pelo principio da perpetuatio jurisdiciones, convalida-se a sentença, pois na hipótese ao contrário do que professa a defesa não houve qualquer vício que tornasse o processo nulo. 3. - É entendimento pacífico do STJ no sentido de convalidar os atos praticados pelo Juízo incompetente, exceto atos decisórios. Precedente citado. 4. - Na hipótese repele-se a tese absolutória em vista do conjunto probatório ser positivo e robusto no sentido de indicar que os apelantes incidiram na figura típica do artigo 3º. XI, da Lei nº. 1.521/51. 5- Recurso improvido."
+Os embargos de declaração opostos foram rejeitados (fls. 853-859).
+Nas razões do recurso especial, a Defesa sustenta, além de divergência jurisprudencial, ofensa ao art. 489, inciso VI, do Código de Processo Civil, bem como arts. 5.º, inciso LIII, e 125, § 4.º, ambos da Constituição Federal.
+Alega que, com a mudança de competência da justiça militar para a justiça comum, seria necessário o oferecimento de uma nova denúncia e a repetição de toda a instrução probatória.
+Aduz que o conjunto probatório constante dos autos não é suficiente para embasar as condenações dos Recorrentes.
+Requer, assim, a anulação dos atos processuais praticados. Subsidiariamente, pleiteia a absolvição dos Recorrentes.
+Contrarrazões às fls. 920-926.
+O Ministério Público Federal opinou, às fls. 952-955, pelo desprovimento do recurso especial.
+É o relatório.
+Decido.
+A tese suscitada pela Defesa dos Recorrentes, relativa à suposta violação do art. 489, inciso VI, do Código de Processo Civil, não foi objeto de apreciação pelo acórdão recorrido, e tampouco houve oposição de embargos declaratórios para sanar eventual omissão especificamente quanto a esse ponto - os embargos, em verdade, limitaram-se a tecer considerações acerca da ausência de vícios da decisão embargada -, razão pela qual carecem de prequestionamento.
+Cabe mencionar, conforme ressaltado na decisão dos embargos de declaração (fl. 854), que referida tese nem sequer foi suscitada no recurso de apelação interposto pelos Recorrentes (fls. 759-764), ocasião em que foi requerida somente anulação dos atos processuais e a absolvição por insuficiência de provas.
+Incidem, na hipótese, por analogia, os seguintes enunciados sumulares:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." (Súmula n.º 282/STF)
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento." (Súmula n.º 356/STF)
+No tocante à suposta nulidade dos atos praticados pelo Juízo Militar, observa-se que as razões recursais indicaram como ofendido os arts. 5.º, inciso LIII, e 125, § 4.º, ambos da Constituição Federal. Contudo, como é cediço, a via especial não se destina à análise de pretensa ofensa a dispositivo do texto constitucional.
+Nesse sentido:
+" ..
+1. O óbice da Súmula 284 do STF incide em relação ao pleito de absolvição quanto ao crime de peculato, em razão da ausência de indicação do dispositivo legal violado.
+2. Nos termos da iterativa jurisprudência desta Corte, é inviável a arguição de violação a dispositivos da Constituição Federal em recurso especial.
+ ..  (REsp 1.707.850/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/3/2018, DJe de 12/4/2018.)
+Quanto à suposta insuficiência de provas, da atenta leitura das razões do recurso especial, verifica-se que não foram particularizados os dispositivos de lei infraconstitucional que teriam sido violados ou objeto de divergência jurisprudencial, o que acarreta deficiência na fundamentação do apelo nobre. Incidente, pois, à espécie, a Súmula n.º 284 do Supremo Tribunal Federal, in verbis:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284/STF. PEDIDO DE CONCESSÃO DE HABEAS CORPUS. NÃO CABIMENTO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Não tendo sido apontadas, especificamente, quais normas teriam sido contrariadas, incide a Súmula 284 do STF, segundo o qual: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+2. Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese (EDcl no AgRg no AREsp 1.939/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2015, DJe 13/08/2015).
+3. Agravo regimental improvido." (AgRg no AREsp 1.151.992/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe de 11/05/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PENA-BASE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. VALOR DA RES FURTIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+1. Incide o óbice da Súmula n. 284/STF se a parte recorrente não apontou no apelo nobre qual seria o dispositivo legal que entendeu violado.
+ ..
+3. Agravo regimental desprovido." (AgRg no REsp 1.737.158/TO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/08/2018, DJe de 29/08/2018; sem grifos no original.)
+Por fim, embora o recurso especial tenha sido interposto também com fundamento na alínea c do permissivo constitucional, verifica-se que o dissídio pretoriano não foi demonstrado nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, pois não houve o devido cotejo analítico entre os julgados apontados como divergentes.
+Portanto, tendo em vista a deficiência na demonstração da divergência, não é possível conhecer o recurso especial no tocante ao dissídio pretoriano. Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL NÃO ATACADO. SÚMULA 126/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. PARADIGMA PROFERIDO EM HABEAS CORPUS. NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. Diante da natureza do recurso especial, impõe-se, para o seu conhecimento, o preenchimento de requisitos específicos, a par dos gerais, não se tratando de mero formalismo a exigência da interposição do extraordinário, quanto ao tema constitucional, por si só suficiente para manter o acórdão recorrido, nos termos da Súmula 126/STJ.
+2. Não comprovado o dissídio jurisprudencial, com o necessário cotejo analítico entre os arestos, a fim de demonstrar a similitude fática entre os casos confrontados e a interpretação divergente, não se conhece do recurso especial interposto com base na alínea c do inciso III do art. 105 da CF/88.
+3. É pacífica a jurisprudência do Superior Tribunal de Justiça que acórdão proferido em habeas corpus, por não guardar o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial, não serve para fins de comprovação de divergência jurisprudencial, ainda que se trate de dissídio notório.
+4. Agravo regimental improvido." (AgRg no REsp 1.558.433/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe de 03/04/2018, sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
