@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Pan Arrendamento Mercantil S.A. contra a inadmissão, na origem, de recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, desafiando acórdão oriundo do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (e-STJ, fls. 401/403):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - COBRANÇA DE ISS - ARRENDAMENTO MERCANTIL - INEXISTÊNCIA DE UNIDADE ECONÔMICO-PROFISSIONAL - NECESSIDADE DE DILAÇÃO PROBATÓRIA - IMPOSSIBILIDADE EM SEDE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ILIQUIDEZ DO TÍTULO EXECUTIVO - BASE DE CÁLCULO - VALOR TOTAL DO VEÍCULO ADQUIRIDO - NÃO COMPROVAÇÃO - RECURSO CONHECIDO E DESPROVIDO.
+1. A exceção de pré-executividade é meio excepcional de defesa do executado, sendo cabível para o conhecimento de matérias relativas às condições da ação, pressupostos processuais e, excepcionalmente, para arguição de exceções extintivas do feito, desde que haja prova pré-constituída, isto é, desde que não haja necessidade de dilação probatória.
+2. A agravante opôs exceção de pré-executividade, pretendendo a extinção da ação de execução, alegando que o Município de Serra não possui legitimidade ativa para a cobrança de ISS sobre a operação de arrendamento mercantil (leasing), sob a alegação de que os respectivos serviços são efetivamente prestados na sede da financeira, sendo devidos, portanto, ao Município de São Paulo.
+3. Segundo jurisprudência pacífica do Superior Tribunal de Justiça a competência para a cobrança do ISS, na vigência do DL 406/68, é do Município sede do estabelecimento prestador e, com a LC 116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada, o local onde se comprove haver unidade econômica ou profissional da instituição financeira com poderes decisórios suficientes à concessão e aprovação do financiamento, o núcleo da operação de leasing financeiro e fato gerador do tributo, conforme REsp nº 1.060.210/SC, julgado em sede de recurso repetitivo (art. 543-C do CPC).
+4. Depreende-se dos documentos que instruem o presente agravo que a Panamericano Arrendamento Mercantil com sede na capital do estado de São Paulo, possui filial no Município de Serra. Contudo, não se tem possível aferir do conjunto probatório se a filial instalada no Município agravado possui unidade econômico-profissional responsável pela análise e aprovação dos financiamentos, a possibilitar que o negócio reste perfectibilizado.
+5. Tal conclusão demandaria a necessidade de dilação probatório, inviável em sede de exceção de pré-executividade.
+6. Relativamente a iliquidez do título executivo, a agravante não trouxe aos autos qualquer documento capaz de infirmar a alegação de que o Município de Serra considerou como base de cálculo do ISS, além do valor dos serviços inerentes ao financiamento, a parcela relativa ao valor de compra do bem arrendado (sujeito à incidência do ICMS e do IPI), ou seja, que considerou o valor total do contrato.
+7. Não há nos autos cópia do respectivo contrato de arrendamento mercantil e sequer indicação do valor da base de cálculo que a agravante entende correto.
+8. Recurso conhecido e desprovido.
+Nas razões do recurso especial, a agravante levanta prefacial de ofensa ao art. 1.022 do CPC/2015, aduzindo contradição quando se afirma que a empresa encontra-se sediada no Município de São Paulo, e, ainda assim, registra não ser possível aferir se a filial instalada no Município de Serra possui unidade econômico-profissional responsável pela análise e aprovação dos financiamentos.
+No mérito, acusa violação dos arts. 3º, 4º e 7º da LC 116/2003; 485, IV e VI, 783 e 803 do CPC/2015; e 203 e 204 do CTN.
+Sustenta, em síntese, que o entendimento sedimentado em recurso representativo da controvérsia é no sentido de competir ao município onde está sediado o estabelecimento prestador a cobrança do ISS sobre operações de arrendamento mercantil.
+Assevera não existir no Município de Serra unidades econômicas, mas meros intermediadores do serviço de arrendamento mercantil, que somente recolheriam a documentação necessária, sendo que o serviço de análise e deferimento do contrato ocorreria na sede, em São Paulo.
+Questiona, ainda, a base de cálculo para a incidência do tributo.
+Contraminuta de agravo apresentada às e-STJ, fls. 642/650.
+É o relatório.
+Inicialmente, não há se falar em ofensa ao art. 1.022 do CPC/2015, quando o Tribunal de origem, como se observa no presente caso, pronuncia-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado para embasar a decisão.
+Assim, não prospera a pretensão de nulidade do aresto por contradição.
+No mérito, verifica-se que o recurso especial não ultrapassa o juízo de admissibilidade, pois observa-se a existência de fundamentos exarados no aresto recorrido que não foram objeto de impugnação específica pelo recorrente, concernentes à ausência de prova de que as unidades existentes no município somente promoveria a captação de clientes, concentrando na sede os poderes decisórios para a concessão dos créditos, bem como à necessidade de dilação probatória na espécie, o que afastaria a hipótese de cabimento da exceção de pré-executividade.
+A insurgência encontra o óbice da Súmula 283/STF, pois subsiste fundamento incólume ao recurso da União.
+A respeito do tema, vale conferir o precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp 1.367.651/MG, Rel. Min. ELIANA CALMON, DJe 3/12/2013)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
