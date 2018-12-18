@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por [NOME] CASSEANO contra acórdão do Tribunal de Justiça do Estado de Goiás.
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no art. 1º, inciso II, do Decreto-Lei n. 201/67 à pena de 2 anos e 6 meses de reclusão, substituída por restritivas de direito. O apelo defensivo foi indeferido e o Recurso Extraordinário foi recebido e, reconhecida a repercussão geral da matéria, devolvido para o Tribunal de origem até o pronunciamento do STF sobre o tema.
+A defesa, então, impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da ordem em acórdão assim ementado:
+HABEAS CORPUS. AUSÊNCIA DE PROVA PRÉ CONSTITUÍDA. NÃO CONHECIMENTO. Impõe-se o não conhecimento da ação mandamental se não vier instruída com a documentação necessária à análise do pleito.
+Ordem não conhecida (fl. 106).
+No presente recurso, sustenta que entre a data do fato e a presente impetração já se passaram mais de 15 anos, sem o trânsito em julgado da condenação.
+Aduz que a Lei n. 12.343/10 é inaplicável ao caso, uma vez que posterior aos fatos e prejudicial ao réu.
+Requer, assim a concessão da ordem para declarar extinta a punibilidade do paciente em razão da prescrição.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso, conforme parecer de fls. 164/169.
+É o relatório.
+Decido.
+A denúncia de fls. 24/26 imputa ao paciente as condutas previstas no art. 1º, inciso II, do Decreto-Lei n. 201/67, praticados nos dias 10/3/2001 e 10/04/2002.
+Com efeito, para o reconhecimento da prescrição retroativa como requerido pelo recorrente é fundamental a análise dos marcos interruptivos previstos no art. 117 do Código Penal.
+Compulsando-se os autos, verifica-se que o Tribunal de origem não conheceu da impetração originária por falta de documento que comprove a data do recebimento da denúncia, primeiro marco interruptivo que interessa ao cálculo da prescrição retroativa.
+A defesa, exercida por profissional habilitado, interpôs o presente recurso ordinário, mas não se desincumbiu de juntar aos autos a documentação necessária à análise do pedido.
+Cabe ressaltar que em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração. Nesse sentido, confiram-se os seguintes precedentes, entre outros:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TENTATIVA DE FURTO. PRISÃO CAUTELAR. ALEGADA AUSÊNCIA DOS MOTIVOS JUSTIFICADORES DA DECRETAÇÃO DA PRISÃO PREVENTIVA. DECISÃO NÃO JUNTADA AOS AUTOS. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO ANTE A ABSOLUTA AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA SOBRE OS FUNDAMENTOS DA PETIÇÃO INICIAL. RECURSO NÃO CONHECIDO.
+1. O rito da ação constitucional do habeas corpus demanda prova pré-constituída apta a comprovar a ilegalidade aduzida, descabendo conhecer de impetração instruída deficitariamente, em que não tenha sido juntada peça essencial para o deslinde da controvérsia, de modo a inviabilizar a adequada análise do pedido. Precedentes.
+2. No caso, não foi colacionada aos autos a decisão que decretou a prisão preventiva. Limitou-se o Recorrente a trazer aos autos cópia da sentença condenatória que manteve a prisão cautelar.
+3. Recurso ordinário em habeas corpus não conhecido (RHC 101.750/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 13/11/2018)
+PENAL E PROCESSUAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INTERROGATÓRIO DOS RÉUS. OBSERVÂNCIA DA DISPOSIÇÃO CONTIDA NO ART. 57 DA LEI N. 11.343/2006. NULIDADE. INOCORRÊNCIA. LEI ESPECIAL QUE SE APLICA À HIPÓTESE. DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA.
+1. O habeas corpus, em sua via estreita, deve vir instruído com todas as provas pré-constituídas que permitam sua análise, uma vez que não admite dilação probatória.
+2. Hipótese em que, ausente o decreto de prisão preventiva, resta impossibilitado o exame de eventual constrangimento ilegal decorrente da medida extrema.
+3. A especialidade da disposição contida no art. 57 da Lei n. 11.343/2006 prevalece sobre a regra geral do Código de Processo Penal (art. 400), de modo que o interrogatório do réu deve ocorrer antes da oitiva das testemunhas.
+4. Em obediência ao princípio pas de nullité sans grief, que vigora no processo penal pátrio (art. 563), não se declara nulidade de ato se dele não resulta prejuízo para nenhuma das partes. Precedentes.
+5. Recurso ordinário em habeas corpus conhecido em parte e, nessa extensão, desprovido (RHC 37.373/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 09/09/2015)
+PENAL E PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REVOGAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO QUE DECRETOU A SEGREGAÇÃO CAUTELAR. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE NA VIA ELEITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+I - Impede o conhecimento do recurso em habeas corpus a insuficiência na sua instrução, notadamente como na hipótese, onde não foi juntada pelo recorrente a cópia da r. decisão que decretou a sua prisão preventiva (precedente).
+II - Uma vez que o MM. Juízo de 1º grau inferiu - de maneira devidamente fundamentada - que houve o efetivo exercício da traficância, infirmar a condenação do paciente com vistas à absolvição do delito demandaria, necessariamente, o amplo revolvimento da matéria fático-probatória, o que é vedado na via eleita (precedentes do STF e do STJ).
+Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido (RHC 60.757/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 24/09/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. "Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Rel. Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+3. A alegação de excesso de prazo para a formação da culpa não foi analisada pelo Tribunal de origem, sequer foi arguida nas razões dos dois habeas corpus precedentes impetrados na origem, circunstância que impede o Superior Tribunal de Justiça de apreciar diretamente a matéria, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de Configurar indevida supressão de instância.
+4. Habeas corpus não conhecido (HC 321.025/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/08/2015).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente Recurso em habeas corpus.
+Publique-se.
