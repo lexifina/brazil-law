@@ -1,0 +1,46 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. OMISSÃO SOBRE A APLICAÇÃO DO ART. 100, §1º, DA LEI Nº 6.404/76. INEXISTÊNCIA. VIOLAÇÃO AO ART. 6º, VIII, DO CDC. SÚMULA 284 DO STF. VIOLAÇÃO AO ART. 333, I, DO CPC/1973. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. FALTA DE INTERESSE DE AGIR. SÚMULA 283 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. RECURSO NÃO PROVIDO.
+1. Embora rejeitados os embargos de declaração, o Tribunal de origem manifestou-se suficientemente sobre a questão controvertida, apenas adotando fundamento diverso daquele perquirido pela parte.
+2. Quanto à alegada ofensa ao art. 6º, VIII, do CDC não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+3. A matéria relativa ao art. 333, I, do CPC/1973 não foi apreciada pela Corte local, nem foi arguida omissão nos embargos de declaração sobre essa questão, carecendo, portanto, do indispensável prequestionamento.
+4. Quanto ao dissídio jurisprudencial sobre a falta de interesse de agir, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF.
+5. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+6. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por OI S.A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO  AÇÃO DE ADIMPLEMENTO CONTRATUAL  CONTRATOS DE PARTICIPAÇÃO FINANCEIRA - DECISÃO LIMINAR DE INVERSÃO DO ÔNUS DA PROVA - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - HIPOSSUFICIÊNCIA. PRAZO PARA APRESENTAÇÃO DOS DOCUMENTOS SOLICITADOS NA INICIAL - DOCUMENTOS NECESSÁRIOS PARA SOLUÇÃO DA LIDE - JUIZ DESTINATÁRIO DAS PROVAS - INCIDENTE PREJUDICADO ANTE A INVERSÃO DO ÔNUS PROBATÓRIO - AFASTAMENTO DE APLICAÇÃO DE PENALIDADES DE CARÁTER COATIVO - RECURSO PARCIALMEMTE CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 6º, VIII, do CDC, 333, I, e 535, II, do CPC/1973.
+Alega negativa de prestação jurisdicional por omissão sobre a aplicação do art. 100, §1º, da Lei nº 6.404/76, com entendimento consolidado na Súmula 389 do STJ.
+Sustenta, ainda, a ausência de comprovação do fato constitutivo, de forma que a falta de comprovação da relação jurídica deduzida impossibilitaria a determinação da exibição dos documentos.
+Argumenta, também, dissídio jurisprudencial sobre o art. 100, §1º, da Lei nº 6.404/76, arguindo a falta de interesse de agir da parte recorrida quanto ao pedido de exibição incidental de documentos, uma vez que não há prova do prévio requerimento administrativo, acompanhado do comprovante de pagamento da taxa do serviço.
+Contrarrazões ao recurso especial às fls. 277-280.
+Crivo positivo de admissibilidade na origem (fls. 288-289).
+É o relatório. Decido.
+2. De início, não há que se falar em violação do art. 535 do CPC/73 por omissão sobre a aplicação do art. 100, §1º, da Lei nº 6.404/76, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma fundamentada. Além disso, basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+Observa-se que não é omisso o acórdão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+Com efeito, na espécie, a Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional por omissão, de forma que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+3. Quanto à alegada ofensa ao art. 6º, VIII, do CDC não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação.
+Ressalta-se que, para a análise da admissibilidade do recurso especial, pressupõe-se uma argumentação lógica, demonstrando de plano de que forma se deu a suposta vulneração do dispositivo legal pela decisão recorrida, o que não ocorreu na hipótese, sendo certo que, no caso em exame, caracterizou-se deficiência de fundamentação, sendo de rigor a incidência da Súmula 284 do STF: "E inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. A matéria do art. 333, I, do CPC/1973 na ótica arguida não foi objeto de discussão no acórdão recorrido e a parte recorrente não alegou essa omissão nos embargos de declaração opostos. É entendimento assente no STJ a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Portanto, não se configura o prequestionamento, o que impossibilita a apreciação de tal questão na via especial (Súmulas 282 e 356/STF).
+Com efeito, a Corte local apreciou a lide na ótica do CDC e da inversão do ônus da prova, carecendo de prequestionamento a matéria arguida na ótica da parte recorrente.
+5. No que tange ao dissídio jurisprudencial, o inconformismo não prospera.
+Sobre a exibição incidental de documentos e a alegada falta de interesse de agir, a Corte local consignou o seguinte:
+"Por outro lado, no tocante à exibição documental, em se tratando de documento comum às partes, "O juiz pode ordenar que a parte exiba documento ou coisa, que se ache em seu poder" (art. 355, do CPC).
+Ademais, tal exibição vem ao encontro do enunciado da Súmula n. 16 deste eg. Tribunal de Justiça, a saber:
+"É dever da Brasil Telecom guardar e exibir, sempre que lhe for solicitado, a "radiografia" do contrato ou outros documentos comuns às partes considerados pertinentes ao deslinde da causa."
+Entretanto, com a inversão do ônus da prova, tal matéria resta prejudicada, uma vez que a apresentação dos documentos passou a ser interesse da requerida, e a ordem de exibição não lhe acarreta nenhum prejuízo.
+Ainda, nesse contexto, não estão presentes os pressupostos de aplicação da Súmula n. 389/STJ, uma vez que no caso dos autos não se discute questão típica da ação cautelar, mas sim providência relativa à fase instrutória de ação principal.
+Nesse sentido, recente decisão proferida pelo eg. Superior Tribunal de Justiça, em julgamento de caso análogo:
+ ..
+De resto, pode a agravante se valer do disposto no art. 365, inciso V, do Código de Processo Civil, a fim de emitir os documentos solicitados. Nem se diga que está sendo incumbida de prova impossível, pois a mesma disposição supra lhe faculta emitir até mesmo documento de conteúdo negativo.
+Entretanto, como medida de cautela, deve ser provido parcialmente o recurso, para afastar a aplicação de penalidades de caráter coativo (multa, busca e apreensão) decorrentes da não apresentação de documentos solicitados, uma vez que são incompatíveis com a situação processual surgida com a medida de inversão do ônus da prova.
+Quanto à matéria relativa à ausência de interesse, é questão não decidida no Juízo "a quo" e que, por isso, não pode ser conhecida, sob pena de supressão de instância.
+Do exposto, conheço em parte do recurso e lhe dou parcial provimento, apenas para afastar a aplicação de penalidades de caráter coativo decorrentes da eventual não apresentação dos documentos a serem exibidos." (fls. 187-189)(g.n.)
+5.1 Nota-se que, dentre os fundamentos do acórdão recorrido, a Corte local entendeu pela supressão de instância em relação à matéria sobre a ausência de interesse.
+Por outro lado, a parte recorrente alega dissídio jurisprudencial sobre a falta de interesse de agir da parte recorrida, não impugnando o fundamento de supressão de instância.
+Nesse contexto, verifica-se que a parte recorrente não cuidou de impugnar o fundamento do acórdão recorrido destacado acima, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+5.2 Ademais, observa-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+6. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
