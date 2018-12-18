@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Defensoria Pública do Estado do Amazonas, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local assim ementado:
+APELAÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DEFENSORIA PÚBLICA DO ESTADO. PRETENSÃO DE CONDENAÇÃO À FAZENDA PÚBLICA ESTADUAL. CONFUSÃO PATRIMONIAL. RECURSO NÃO PROVIDO. 1.0s honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença (Súmula n. 421, do STJ). 2. Precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal. Recurso não provido em consonância com parecer ministerial.
+A recorrente aponta violação do art. 4º da Lei Complementar n. 132/2009. Aduz que, por força dessa norma (e-STJ, fls. 170-171):
+ ..  é função institucional da Defensoria Pública executar e receber as verbas sucumbenciais decorrentes de sua atuação, inclusive quando devidas por quaisquer entes públicos, destinando-as a fundos geridos pela Defensoria Pública e destinados, exclusivamente, ao aparelhamento da Defensoria Pública e à capacitação profissional de seus membros e servidores.
+Defende, por isso, a superação do entendimento jurisprudencial retratado na Súmula 421/STJ. Explica que o Estado do Amazonas e a Defensoria Pública Estadual são centros organizacionais e administrativos distintos, inclusive com orçamentos próprios.
+Destaca que os valores obtidos a título de honorários advocatícios compõem parte da receita de seu fundo de aparelhamento.
+Contrarrazões às e-STJ, fls. 192-198.
+É o relatório.
+A questão relativa ao pagamento de honorários advocatícios à Defensoria Pública em litígio com ente público ao qual vinculada teve reconhecida a sua repercussão geral pelo Supremo Tribunal Federal no RE 1.140.005/RJ, Tema 1.002.
+O Ministro Roberto Barroso, relator do recurso, estabeleceu que as Emendas Constitucionais n. 74/2013 e 80/2014, pertinentes à autonomia funcional, administrativa e institucional das defensorias públicas, representaram alteração relevante do quadro normativo e justificam a reanálise do tema.
+Por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e este Tribunal Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ISSQN NA PRESTAÇÃO DE SERVIÇOS MEDIANTE A PRÁTICA DE ATOS COOPERATIVOS TÍPICOS E ATÍPICOS. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA.  SOBRESTAMENTO DO RECURSO ESPECIAL COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. A questão jurídica referente ao conceito de ato cooperativo típico e atípico, na forma da Lei n. 5.764/1971, para fins de tributação, teve repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 536).
+2. Encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Precedente: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017.
+3. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.366.363/ES, de minha relatoria, SEGUNDA TURMA, julgado em 17/8/2017, DJe 23/8/2017)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015, realize nova admissibilidade do recurso especial.
+Publique-se. Intimem-se.
