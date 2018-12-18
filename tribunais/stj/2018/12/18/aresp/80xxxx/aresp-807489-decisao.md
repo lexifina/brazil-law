@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por ITAU UNIBANCO S.A., pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 280):
+1. Embargos à Execução Fiscal - ISSQN - Município de São Paulo/SP - Exercício de 1992 - Decadência - Prazo que flui no período anterior à constituição do crédito tributário - Ocorrência - Manutenção do julgado.
+2. Período posterior - Comprovação do pagamento, nos termos do art. 156, inciso I, do CTN - Reforma do julgado nesse ponto.
+3. Recurso da embargante provido - Improvido o da embargada.
+Os embargos de declaração foram rejeitados (e-STJ fls. 302/306).
+No apelo nobre (e-STJ fls. 324/332), o recorrente, apontando violação dos arts. 463, I, e 535 do CPC/1973, sustentou que o acórdão recorrido incorreu em erro material no tocante à indicação do fundamento legal para reconhecer a decadência, referindo-se ao art. 173, I, do CTN, quando, em verdade, a regra aplicada foi a do art. 150, § 4º, do CTN.
+Sem contrarrazões (e-STJ fl. 367).
+O Tribunal de origem obstou o recurso especial por entender inocorrente a alegada infringência ao art. 535 do CPC/1973 e aplicável a Súmula 7 do STJ (e-STJ fls. 369/370), fundamentação essa com a qual não concorda o agravante (e-STJ fls. 374/387).
+Sem contraminuta (e-STJ fl. 390).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, vejamos a motivação adotada pelo acórdão recorrido para reconhecer a decadência:
+Compulsando os autos, verifica-se a ocorrência do instituto da decadência, porquanto remontando a dívida de ISSQN - exercício de 1992, cujos lançamentos - de ofício - se deram com vencimentos entre 07.02.92 a 07.12.92 e a respectiva inscrição a 22.12.97 (fls. 03/05 do apenso), tem-se que a Municipalidade constituiu, definitivamente, o crédito tributário, tempo depois do prazo quinquenal previsto no art. 173 do CTN.
+Ocorre que o banco ora recorrente opôs embargos de declaração com o propósito de a Corte estadual sanar erro material em seu julgado, referente ao fundamento legal adotado, ao argumento de que, embora tenha citado o art. 173 do CTN, aplicou a regra prevista no art. 150, § 4º, do CTN. Veja-se:
+Ocorre que para aferição da decadência, o v. aresto utilizou-se da sistemática prevista no artigo 150, § 4º, do Código Tributário Nacional, iniciando-se a contagem a partir do fato gerador do ISSQN, compreendido no período de 07.02.92 à 17.12.92, configurando a decadência em 17.12.97, ao passo que a notificação do Autor de Infração ocorreu em 22.12.97.
+Desta feita, a indicação do artigo 173, I, do mesmo Codex configura erro material, tendo em vista que se o mesmo tivesse sido aplicado ao caso concreto não restaria configurada a decadência, tendo em vista que a contagem do prazo decadencial iniciar-se-ia no primeiro dia do exercício seguinte, 1º de janeiro de 1993, encerrando-se em 1º de janeiro de 1998, o que, definitivamente não é aplicável ao caso em apreço.
+Referida correção do erro material é indispensável à exata configuração da decadência, porque em se tratando de imposto sujeito a lançamento por homologação, cujo pagamento parcial restou devidamente admitido pelo v. aresto, não restam dúvidas quanto à aplicação do artigo 150, § 4º, do Código Tributário Nacional, inclusive para que o posicionamento aqui firmado comungue do entendimento do Superior Tribunal de Justiça.
+Mesmo depois de oportunamente provocada mediante aclaratórios, a Corte a quo nada acrescentou, limitando-se a reeditar o acórdão embargado.
+É cediço que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder todos os argumentos suscitados pela parte.
+Todavia, na espécie, a alegação da banco mostra-se relevante para a solução da controvérsia, inclusive para evitar que a coisa julgada a ser formada no presente processo venha a ser objeto de questionamento em eventual ação rescisória.
+Com efeito, em que pese tenha contado o prazo quinquenal do vencimento da exação, o acórdão recorrido afastou a decadência com base no art. 173, I, do CTN, segundo o qual o lapso decadencial tem fluência a partir "do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado".
+Nesse contexto, está evidenciado o erro material a ser sanado pelo Tribunal a quo.
+Diante do exposto, com base nos arts. 34, XXV, e 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido, por violação do art. 535 do CPC/1973, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração, sanando o vício de integração ora identificado.
+Publique-se. Intimem-se.
