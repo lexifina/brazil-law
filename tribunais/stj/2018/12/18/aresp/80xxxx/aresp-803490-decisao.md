@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto ela COOPERATIVA REGIONAL SANANDUVA DE CARNES E DERIVADOS LTDA., em que pretende a admissão de recurso especial, que desafia acórdão assim ementado (e-STJ fl. 181):
+AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. DIREITO A DURAÇÃO RAZOÁVEL DO PROCESSO ADMINISTRATIVO. CF, 5º, LXXVIII. DECRETO ESTADUAL 2.437/79. PROCESSO ADMINISTRATIVO. REPETIÇÃO DE INDÉBITO. PRAZO PARA ANÁLISE E SOLUÇÃO ULTRAPASSADO. CONCESSÃO DA SEGURANÇA. INERCIA DA AUTORIDADE COATORA PARA CUMPRIMENTO DO ACÓRDÃO. REVOGAÇÃO DA MULTA FIXADA. INTERPOSIÇÃO DE AGRAVO REGIMENTAL NA FORMA DO ART. 200 DO REGIMENTO INTERNO DESTE TRIBUNAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE MATÉRIA DE PROCESSO CIVIL. ART. 22, INCISO I DA CF. NÃO CONHECIMENTO DO RECURSO. O Estado não tem competência legislativa para disciplinar matéria processual Civil, porquanto a mesma é privativa da União na forma do art. 22 da CF, inciso I. Não pode a legislação estadual prever a existência de recurso no âmbito processual judicial. Irrecorribilidade da decisão por absoluta ausência de previsão legal no diploma competente, qual seja, o Código de Processo Civil ou legislação federal. Não conhecimento do recurso.
+No apelo nobre (e-STJ fls. 202/207), a recorrente, apontando violação do art. 475-J do CPC/1973, sustentou que não é possível a revogação da multa diária fixada, ao argumento de que não é verdadeira a informação prestada pelo Estado recorrido acerca do cumprimento da ordem judicial exarada nos autos do mandado de segurança.
+Sem contrarrazões (e-STJ fl. 214).
+O Tribunal de origem obstou o recurso especial por entender aplicável a Súmula 284 do STF (e-STJ fls. 216/217), fundamento esse com o qual não concorda a agravante (e-STJ fls. 227/230).
+Sem contraminuta (e-STJ fl. 233).
+Parecer do Ministério Público Federal pelo não provimento do agravo (e-STJ fls. 247/251).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, verifico que o recurso especial em comento não merece ser mesmo admitido.
+Com efeito, o fundamento condutor do acórdão recorrido, referente ao não cabimento do agravo regimental lá interposto, não foi direta e efetivamente impugnado pela recorrente, o que revela a deficiência da sua irresignação, nos termos da Súmula 283 do STF.
+Por outro prisma, o artigo de lei alegadamente tido por violado não foi efetivamente analisado pelo julgado estadual, o que revela não estar atendido o requisito do prequestionamento, consoante inteligência da Súmula 282 do STF.
+Não o bastante, a revisão da premissa assentada pela Corte a quo, de que a ordem mandamental já foi cumprida, pressupõe reexame de matéria fática, o que é inviável no âmbito do recurso especial, diante do veto contido na Súmula 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
