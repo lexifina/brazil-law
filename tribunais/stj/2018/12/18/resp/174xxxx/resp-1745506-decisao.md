@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] MOTTA com base na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado, verbis:
+"Agravo de execução penal. Falta grave. Ausência de regressão de regime. Audiência de justificação. Prescindibilidade. Prática de falta grave reconhecida pela autoridade administrativa em PAD regularmente instaurado. Agravo não provido. Reconhecida a prática de falta grave em procedimento administrativo disciplinar regularmente instaurado pela autoridade administrativa competente, no qual se assegurou o contraditório e a ampla defesa, não havendo regressão de regime prisional quando da ratificação pelo juízo da execução, que cingiu-se a tão somente decretar a perda de dias remidos, descabe a pretensão à nulidade da decisão em razão da não realização de audiência de justificação, não havendo se falar, na espécie, em ofensa ao art. 118, § 2º, da Lei de Execução Penal" (e-STJ, fl. 134).
+O recorrente alega contrariedade ao art. 118, § 2º, da Lei de Execução Penal.
+Pondera, em suma, que a falta disciplinar de natureza grave não pode ser reconhecida sem a realização de audiência de justificação.
+Contrarrazões às fls. 154-161 (e-STJ).
+Decisão de admissão à fl. 164 (e-STJ).
+O Ministério Público Federal manifesta-se pelo não provimento do recurso especial (e-STJ, fls. 175-176).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Em relação ao art. 118, § 2º, da LEP, o Tribunal de origem entendeu que:
+"No caso, repise-se que não se tratou de decisão que tenha ocasionado regressão de regime de cumprimento da pena, até porque o apenado já se encontrava no regime mais gravoso por ocasião da falta incorrida. Sabendo-se que apenas em caso que possa resultar regressão prisional é que deve haver audiência de justificação consoante preconiza o art. 118, § 2º, da LEP, fica claro que não assiste razão ao agravante" (e-STJ, fl. 139).
+Com efeito, no julgamento do REsp 1.378.557/RS, representativo de controvérsia, a Terceira Seção assentou que, "para o reconhecimento da falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado" (TERCEIRA SEÇÃO, DJe 21/03/2014, Súmula 533/STJ).
+Na esteira dessa decisão, está reforçada a jurisprudência do Superior Tribunal de Justiça de que, na homologação da falta grave, não se exige nova ouvida judicial do condenado, quando a infração disciplinar foi devidamente apurada em procedimento administrativo no qual observados os postulados da ampla defesa e do contraditório, como na hipótese em apreço, em que o apenado foi ouvido na presença de defensor técnico (e-STJ, fls. 67-68)
+A propósito, confiram-se os seguintes precedentes:
+"PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO VERIFICAÇÃO. DUPLO HOMICÍDIO NA FORMA TENTADA. PENA-BASE MAJORADA. MODIFICAÇÃO. SÚMULA 7 DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "De acordo com a jurisprudência deste Tribunal é desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica" (HC 333.233/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 06/11/2015).
+Agravo regimental desprovido" (AgInt no AREsp 872.403/ES, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/08/2016, DJe 15/08/2016.)
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FALTA GRAVE. HOMOLOGAÇÃO FUNDAMENTADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PRÉVIA OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ ..
+2. Hipótese em que a falta grave foi fundamentadamente homologada mediante regular procedimento administrativo disciplinar - PAD, com rito próprio previsto na Lei de Execução Penal, sendo oportunizado à defesa o exercício do devido processo legal, do contraditório e da ampla defesa.
+3. Segundo jurisprudência desta Corte, é desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica.
+4. Habeas corpus não conhecido." (HC 321.366/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 18/06/2015, DJe 03/08/2015)
+Demais disso, esta Corte Superior possui entendimento de que a ouvida do apenado pelo Juízo da Execução é destinada à aplicação da sanção de regressão (art. 118, § 2º, da LEP), o que não ocorreu na presente hipótese, visto que o ora recorrente já cumpria pena no regime fechado.
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 118, § 2º, DA LEP. FALTA GRAVE COMETIDA EM REGIME FECHADO. AUSÊNCIA DE REGRESSÃO. AUDIÊNCIA DE JUSTIFICAÇÃO JUDICIAL.
+PRESCINDIBILIDADE.
+1. O entendimento manifestado pela Corte a quo está em conformidade com a jurisprudência do Superior Tribunal de Justiça quanto ao caráter prescindível da audiência de justificação judicial nas hipóteses em que não há a regressão de regime do apenado.
+2.  ..  a audiência de justificação estabelecida no art. 118, § 2º, da Lei de Execução Penal somente é necessária para fins de regressão de regime, o que não ocorreu na espécie (HC n. 394.392/SP, Ministro Felix Fischer, Quinta Turma, DJe 21/8/2017).
+3. Agravo regimental improvido."
+(AgRg no REsp 1729038/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/05/2018, DJe 06/06/2018)
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA GRAVE. APURAÇÃO EM PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE REGRESSÃO DE REGIME. DESNECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO JUDICIAL. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282/STF E 356/STF.
+1. Apurada a falta grave em procedimento administrativo disciplinar no qual foram assegurados a ampla defesa e o contraditório, e cuja homologação não resultou em regressão de regime, como na espécie, desnecessária a realização de audiência de justificação judicial para nova oitiva do apenado. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, é defeso, em âmbito de agravo regimental, ampliar a quaestio veiculada nas razões do recurso especial.
+3. Ademais, a questão da nulidade do procedimento administrativo disciplinar não foi objeto de debate pelo Tribunal de origem, sendo que nem sequer foram opostos embargos de declaração para esse fim.
+Incidência, portanto, das Súmulas n. 356 e 282/STF. 4. Agravo regimental desprovido."
+(AgRg no AREsp 843.327/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/10/2017, DJe 28/11/2017)
+"PROCESSUAL PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FALTAS GRAVES. NULIDADE DA DECISÃO QUE HOMOLOGOU AS INFRAÇÕES DISCIPLINARES. SUPOSTA AUSÊNCIA DE DEFESA TÉCNICA NOS PROCESSOS ADMINISTRATIVOS DISCIPLINARES. INOCORRÊNCIA. PACIENTE ASSISTIDO POR DEFENSOR. AUDIÊNCIA DE JUSTIFICAÇÃO PARA OITIVA DO REEDUCANDO ANTES DA HOMOLOGAÇÃO JUDICIAL DA FALTA GRAVE. DESNECESSIDADE. PRÉVIA OITIVA NA FASE ADMINISTRATIVA. AUSÊNCIA DE REGRESSÃO DE REGIME. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - No que tange à nulidade decorrente da suposta ausência de defesa técnica durante as sindicâncias instauradas para apurar as faltas graves cometidas em 16/4/2012 (PAD n. 118/2012) e 2/6/2012 (PAD n. 165/2012), verifica-se do v. acórdão impugnado que o paciente foi assistido por defensor durante os procedimentos administrativos disciplinares em questão, não restando configurada a falta de defesa técnica.
+III - A jurisprudência desta Corte Superior firmou-se no sentido de que é desnecessária nova oitiva do reeducando em juízo, antes da homologação da falta grave, se ele teve a oportunidade de se manifestar no âmbito do procedimento administrativo instaurado para apurar a prática de infração disciplinar, acompanhado da defesa técnica, tal como ocorreu na espécie. Ademais, a audiência de justificação estabelecida no art. 118, § 2º, da Lei de Execução Penal somente é necessária para fins de regressão de regime, o que não ocorreu na espécie.
+Habeas Corpus não conhecido."
+(HC 394.392/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/08/2017, DJe 21/08/2017, grifou-se.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
