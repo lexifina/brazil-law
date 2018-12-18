@@ -1,0 +1,24 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. INCUMBE À FAZENDA DILIGENCIAR ACERCA DA REAL SITUAÇÃO DO ESPÓLIO. NÃO É SERVIL À REGULARIZAÇÃO DO POLO PASSIVO DO PROCESSO A MERA INDICAÇÃO DO CÔNJUGE A TÍTULO ADMINISTRADOR PROVISÓRIO DA HERANÇA SEM QUE INFORMADA A EXISTÊNCIA OU NÃO DE INVENTÁRIO E SEU ESTÁGIO PROCESSUAL. RECURSO ESPECIAL DA ANS A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR, com fulcro no art. 105, III, alínea a da CF/1988, contra acórdão da lavra do TRF da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXECUTADO FALECIDO. REPRESENTAÇÃO.
+Cabe ao exequente promover o prosseguimento útil da execução, não tendo indicado qualquer impossibilidade de proceder conforme determinado pelo Juízo Singular, que intimou a exequente para diligenciar acerca da existência de inventário (fls. 30).
+2. Sustenta a autarquia federal: (i) violação do art. 1.022 do Código Fux, ante à suposta omissão do julgado quanto ao fato de ser o cônjuge o administrador provisório do espólio; e (ii) ofensa ao art. 1.797, I do Código Civil em razão do não deferimento de pedido de citação em face do cônjuge supérstite.
+3. Em síntese, é o relatório.
+4. De início, cumpre destacar que a alegada violação do art. 1.022 do Código Fux não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada. Confira-se trecho do excerto:
+Conforme a jurisprudência consolidada a respeito do assunto, o espólio responde pela execução, ainda que não tenha sido aberto inventário, cabendo a representação em juízo, neste caso, ao administrador provisório. Contudo, se houver inventário em trâmite, a representação em juízo cabe ao inventariante. Caso já tenha havido partilha, a execução seguirá em face dos herdeiros, até as forças da herança.
+Caberá ao exequente demonstrar em que situação se enquadra o executado falecido (fls. 12/13).
+5. No mérito, a conclusão do Tribunal de origem se alinha à desta Corte Superior, qual seja, a de que cabe ao exequente diligenciar para a regularização processual do polo passivo. Nesse sentido:
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MORTE DO EXECUTADO. FIXAÇÃO DE PRAZO AO EXEQUENTE PARA HABILITAÇÃO DOS SUCESSORES. POSSIBILIDADE.
+1. Recurso especial interposto pela União contra decisão que, em razão do óbito do executado, fixou o prazo de 180 dias, para que ela, exequente, providenciasse a habilitação do espólio ou do(s) herdeiro(s), na forma do art. 1.055 e seguintes do CPC, sob pena de extinção do feito, sem julgamento de mérito.
+2. Compete ao exequente o ônus de indicar os sucessores do executado falecido para fins de habilitação, sob pena de extinção da execução, em decorrência da inviabilidade de seu regular desenvolvimento, nos termos do art. 267, IV, do CPC.
+3. É razoável a fixação de prazo para habilitação dos sucessores, assegurada a possibilidade de o exequente, dentro de tal prazo, peticionar sua dilação quando fundamentadamente demonstrar sua exiguidade. A extinção do feito, sem resolução de mérito, deve ocorrer, portanto, somente na hipótese de inércia injustificada do exequente.
+4. Recurso Especial não provido (REsp. 1.469.784/PE, Rel. Min. HERMAN BENJAMIN, DJe 31.3.2015).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. LITISCONSÓRCIO PASSIVO. FALECIMENTO DE UM DOS DEVEDORES. INEXISTÊNCIA DE BENS A INVENTARIAR. AUSÊNCIA DE SUSPENSÃO DO PROCESSO. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO. BEM PENHORADO DE PROPRIEDADE DE OUTRO DEVEDOR. PRECEDENTES DO STJ. RECURSO ESPECIAL DESPROVIDO.
+1. Com a morte do devedor, o exequente, no caso, a Fazenda Estadual, deve realizar diligências para correção da sujeição passiva, verificar a existência de inventário, partilha ou bens sobre os quais possa recair a execução, procedendo na forma dos arts. 265, I e 988, VI e IX do CPC ou do art. 4o. II e IV da Lei 6.830/80 e 131, II e III do CPC; nesses casos, o maior interessado é o ente público, em razão do crédito que tem a receber.
+(..)
+6. Recurso Especial desprovido (REsp. 1.328.760/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 12.3.2013).
+6. Desse modo, cabe à autarquia federal diligenciar acerca da existência de inventário, não sendo suficiente para tanto a mera indicação do cônjuge supérstite, sob o título de administrador provisório, sem que se comprove a real situação do espólio e seu responsável.
+7. Ante o exposto, nega-se provimento ao Recurso Especial da ANS.
+8. Publique-se. Intimações necessárias.
