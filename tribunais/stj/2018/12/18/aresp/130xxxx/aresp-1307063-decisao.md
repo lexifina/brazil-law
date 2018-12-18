@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (2015). ACIDENTE DE TRÂNSITO. DANO MORAL. RAZOABILIDADE DO VALOR ARBITRADO. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por OI S.A contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ, fl. 386):
+APELAÇÃO CÍVEL. RECURSO ADESIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ILEGITIMIDADE PASSIVA AFASTADA. COMPROVAÇÃO DO ATO ILÍCITO. QUANTUM INDENIZATÓRIO. HONORÁRIOS ADVOCATÍCIOS DE PRIMEIRO GRAU. VERBA HONORÁRIA RECURSAL. 1. Não trazendo aos autos provas de sua ilegitimidade passiva, como o mapa de suas redes de fornecimento de serviços telefônicos na municipalidade, a concessionária pública responde pela falta de manutenção dos fios de telefonia, face à obrigação solidária destes fornecedores. 2. Mediante os documentos coligidos aos autos e depoimentos de testemunhas, observado que a parte foi exposta a situação vexatória, tal circunstância é suficiente para a caracterização do dano moral. 3. A fixação dos danos morais deve obedecer aos princípios da razoabilidade e proporcionalidade, assim como pela compensação da dor sofrida, devido a violação do bem jurídico tutelado, motivo pelo qual a redução do quantum fixado na sentença é de rigor. 4. Honorários advocatícios de primeiro grau mantidos (CPC/15, artigo 85, § 2º). 5. Verba honorária não majorada, em grau recursal, devido à sucumbência de ambas as partes litigantes no processo. 6. Recurso de apelação conhecido e parcialmente provido. Recurso adesivo conhecido e desprovido.
+Nas razões do recurso especial, a parte recorrente alega violação ao art. 944 do Código Civil, tendo em vista que pugna pela minoração do quantum indenizatório, pois o considera exorbitante e além do necessário para a reparação do dano.
+Apresentadas contrarrazões (e-STJ fls. 409/411), o Recurso Especial foi inadmitido pela Corte de origem, ensejando na interposição do presente agravo (e-STJ, fls. 418/425).
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Esta Corte Superior consolidou o entendimento de que a revisão do valor da indenização somente é possível quando fixado em patamar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade.
+Contudo, essa excepcionalidade não se aplica à hipótese dos autos, tendo em vista que o valor da indenização por danos morais foi arbitrado em R$ 15.000,00 (quinze mil reais), quantia que não se distancia da razoabilidade e da proporcionalidade. A modificação do acórdão recorrido, no ponto, atrai a incidência da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. 1. REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. A indenização por dano moral foi fixada em R$ 90.000,00 (noventa mil reais), de acordo com as peculiaridades do caso concreto, seguindo os princípios da razoabilidade e proporcionalidade. Assim, não sendo a quantia irrisória, tampouco exorbitante, para que se possa rever o valor indenizatório, é necessário o revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice no enunciado n. 7 da Súmula desta Corte.
+2. Agravo interno improvido.
+(AgInt no AREsp 1325412/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. Para o acolhimento do recurso, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido de que não há prova da culpa exclusiva ou concorrente da vítima pelo acidente, bem como acerca da adequação do valor fixado a título de danos morais e estéticos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 do STJ, sendo manifesto o descabimento do recurso especial.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1282009/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do Novo Código.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, arbitro os honorários recursais em R$ 200,00 (duzentos reais), a serem suportados exclusivamente pela parte recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial e, com base no art. 85, § 11, do CPC, arbitro os honorários recursais em R$ 200,00 (duzentos reais), a serem suportados exclusivamente pela parte recorrente.
+Intimem-se.
