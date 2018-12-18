@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado da Paraíba contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “AGRAVO INTERNO – PREJUDICIAL DE PRESCRIÇÃO DO FUNDO DO DIREITO – AFASTAMENTO – RELAÇÃO DE TRATO SUCESSIVO – PRAZO QUE SE RENOVA MÊS A MÊS – PRETENSÃO ATINGIDA APENAS QUANTO AO PERÍODO QUE ULTRAPASSA OS CINCO ANOS ANTERIORES À PROPOSITURA DA AÇÃO – REJEIÇÃO. MÉRITO – CONGELAMENTO DO VALOR PAGO A TÍTULO DE ANUÊNIO DE MILITAR, DESDE A EDIÇÃO DE LEI QUE SÓ TRATOU DE SERVIDORES CIVIS – IMPOSSIBILIDADE – NECESSIDADE DE LEGISLAÇÃO ESPECÍFICA QUE SÓ FOI EDITADA POSTERIORMENTE – QUITAÇÃO DAS DIFERENÇAS DO QUE FOI PAGO A MENOR EM TAL INTERREGNO – SÚMULA 51 DO TJPB – SENTENÇA EM SINTONIA COM A JURISPRUDÊNCIA SOBRE O DIREITO LOCAL – MANUTENÇÃO – RECURSO QUE NÃO TRAZ ARGUMENTOS SUFICIENTES A MODIFICAR OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA – DESPROVIMENTO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 42 da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 50/2003 e Medida Provisória estadual nº 185/2012), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Desse forma, não seria possível o congelamento do anuênio percebido pelo autor a partir da edição da Lei nº 50/03, como procedido pelo Estado, mas somente a partir da MP 185/2012, que, agora sim, segundo o art. 2º, § 1º, da LINDB (Decreto Lei nº. 4.657/2194), regulou inteiramente a matéria tratada na LC nº 58/2003 nesse ponto, aplicando o regramento para os servidores civis (Administração direta e indireta do Poder Executivo) e militares como se vê abaixo da comparação entre as duas redações:
+    LC 50/2003. Art. 2º. É mantido o valor absoluto dos adicionais e gratificações percebidos pelos servidores públicos da Administração direta e indireta do Poder Executivo no mês março de 2003.
+    Parágrafo Único. Excetua-se do disposto no ‘caput’ o adicional por tempo de serviço, cuja forma de pagamento permanece idêntica à praticada no mês de março de 2003.
+    MP 185/2012. Art. 2º. ‘Omissis’.
+    § 2º. A forma de pagamento do adicional estabelecida pelo parágrafo único do art. 2º da Lei Complementar nº 50/2003 fica preservada para servidores públicos civis e militares. (...).
+    Em sendo assim, deve ser mantida a decisão agravada que confirmou a sentença de primeiro grau em sintonia com a jurisprudência pacífica sobre o direito local.”
+    Vê-se, desse modo, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 18 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
