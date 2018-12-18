@@ -1,0 +1,35 @@
+DECISÃO
+1. Trata-se de agravo interposto por DORALICE MARTINS MANCINI contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO - PRELIMINAR DE PRECLUSÃO - REJEITADA - DEPÓSITO EM DINHEIRO - JUROS DE MORA E CORREÇÃO MONETÁRIA - RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA - ENUNCIADO DE SÚMULA N.º 179 DO STJ - ÍNDICE DE REMUNERAÇÃO DA CONTA ÚNICA - RECURSO DESPROVIDO.
+1. Em relação à consignação dos valores no depositário judicial, independentemente dos fins a quem foi realizado (pagamento ou garantia), a partir de sua efetivação não serão aplicados os acréscimos do título judicial ou extrajudicial respectivo, uma vez que sobre o valor depositado judicialmente passará a incidir os encargos legais incidentes sobre a conta judicial.
+2. Os consectários legais decorrentes do depósito judicial (juros e correção monetária) são de responsabilidade da respectiva instituição financeira depositária e considerando que o valor depositado na subconta recebeu atualização monetária nos termos delineados pela contadoria judicial, o desprovimento do recurso é medida que se impõe.
+
+Nas razões do especial, alega-se violação do art. 629 do Código Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+O acórdão recorrido está em consonância com o entendimento desta Corte, ao consignar que, após o depósito judicial Tribunal de origem registra que o depósito judicial já conta com remuneração específica prevista em lei e a cargo da instituição financeira depositária. A exigência do devedor de juros moratórios e correção monetária incidentes sobre os valores depositados acarretaria bis in idem, não havendo que se falar em incidência de correção monetária e juros de mora devidos no título executivo.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. CUMPRIMENTO DE SENTENÇA. DEPÓSITO JUDICIAL PARA GARANTIA DO JUÍZO DO VALOR EXECUTADO. JUROS DE MORA E CORREÇÃO MONETÁRIA. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. SÚMULA 83/STJ. 2. AGRAVO IMPROVIDO.
+1. O acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte firmada no sentido de que "o depósito judicial realizado para garantia do juízo na execução ou cumprimento de sentença está sujeito à remuneração específica a cargo da instituição financeira depositária, não mais se podendo exigir do executado o pagamento de juros moratórios sobre o quantum depositado" (AgInt no REsp 1.512.961/SP, Relator Ministro Paulo de Tarso Sanseverino, DJe 18/9/2017).
+2. Agravo interno improvido.
+(AgInt no AREsp 1261793/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/06/2018, DJe 22/06/2018) - g.n.
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. DEPÓSITO JUDICIAL. COBRANÇA DE JUROS MORATÓRIOS SOBRE O VALOR DEPOSITADO. IMPOSSIBILIDADE. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Não se constata a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+2. A jurisprudência desta col. Corte de Justiça firmou-se no sentido de que, tendo o executado realizado o depósito judicial, para garantia do juízo e oferecimento de impugnação do cumprimento de sentença ou de embargos à execução, não há falar em incidência de novos juros moratórios. Com efeito, o depósito judicial já conta com remuneração específica prevista em lei e a cargo da instituição financeira depositária, de maneira que a exigência do devedor de juros moratórios e correção monetária incidentes sobre os valores depositados acarretaria bis in idem. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 33.603/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/02/2017, DJe 10/02/2017) - g.n.
+____________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SEGURO DE VIDA. EMBARGOS À EXECUÇÃO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADE CONTRATUAL. DEPÓSITO JUDICIAL DA DÍVIDA. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. ENCARGO DA INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA.
+1. A jurisprudência deste Tribunal Superior é no sentido de que, nas ações que buscam o pagamento de indenização securitária, os juros de mora devem incidir a partir da data da citação da seguradora, visto se tratar de eventual ilícito contratual, e não a partir da data em que comunicado o sinistro.
+2. O depósito judicial do valor em litígio impede a atualização monetária e a fluência de juros moratórios, haja vista que a instituição bancária em que realizado o depósito já remunera a quantia com juros e correção monetária. Evita-se, assim, o indevido bis in idem.
+3. Na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor nos limites da quantia depositada. Entendimento firmado no REsp nº 1.348.640/RS, representativo de controvérsia (regime do art. 543-C do Código de Processo Civil).
+4. Agravo regimental não provido.
+(AgRg no AREsp 531.472/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 02/06/2015) - g.n.
+Incide, neste aspecto, o óbice da Súmula 83 desta Corte.
+3. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
