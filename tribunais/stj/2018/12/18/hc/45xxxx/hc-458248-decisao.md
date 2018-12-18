@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de NILSON PASCOAL FERREIRA contra decisão proferida pelo Tribunal Regional Federal da 1.ª Região que determinou a execução provisória das penas impostas ao Paciente.
+Consta nos autos que o Paciente foi condenado como incurso no art. 337-A, inciso II, c.c. os arts. 69 e 71, todos do Código Penal, às penas de 3 anos de reclusão e 15 dias-multa, sendo substituídas por duas penas restritivas de direitos, consistentes em prestação pecuniária no valor de 6 salários mínimos e prestação de serviços à comunidade (fls. 137-147).
+A Defesa interpôs apelação no Tribunal de origem, que negou provimento ao recurso (fls. 204-213).
+Seguiram-se embargos de declaração, que foram rejeitados (fls. 281-284).
+Interposto recurso especial (fls. 564-580), deixou de ser admitido pelo Tribunal de origem (fls. 596-598), decisão atacada por agravo (fl. 764).
+Determinada a execução provisória das penas, o Paciente foi intimado a iniciá-la, tendo suscitado a extinção da punibilidade ante a ocorrência de prescrição. Todavia, o Tribunal Regional Federal da 1.ª Região, afastando a alegação, determinou ao Juízo de primeiro grau o imediato cumprimento das penas (fls. 764-767).
+Nas razões da impetração, sustenta-se, em síntese, que:
+" .. a r. decisão do Tribunal a quo constitui flagrante coação ilegal, na medida em que o cumprimento das penas impostas ao Paciente é absolutamente ilegal face (i) a ocorrência da prescrição da pretensão punitiva estatal; e (ii) à impossibilidade de início de cumprimento da pena, em razão de a pena aplicada ter sido a pena restritiva de direitos, a qual é incompatível com a execução provisória." (fl. 4)
+Requer o reconhecimento da prescrição punitiva com a consequente declaração de extinção da punibilidade ou, subsidiariamente, a suspensão da execução das penas restritivas de direitos até o trânsito em julgado da sentença penal condenatória.
+Medida liminar deferida conforme decisão de fls. 775/776 para suspender a execução das penas restritivas de direito antes do trânsito em julgado da condenação.
+Informações prestadas às fls. 781/784 e 788/790.
+Parecer ministerial pela denegação da ordem.
+É o relatório. Decido.
+Importa consignar, precipuamente, que a condenação transitou em julgado para o órgão ministerial em 23.8.2013, o que permite a consideração da pena imposta ao acusado para fins de cálculo do prazo prescricional.
+Nesse diapasão:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 163, § ÚNICO, III, DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA NÃO APLICÁVEL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE OU INTERCORRENTE. RECURSO ESPECIAL INADMITIDO. TRÂNSITO EM JULGADO PARA A DEFESA. DATA QUE RETROAGE AO ESCOAMENTO DO PRAZO DE INTERPOSIÇÃO DO RECURSO ESPECIAL. PRECEDENTES. LAPSO TEMPORAL DA PRESCRIÇÃO NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. A figura típica do delito previsto no art. 163, § único, III, do Código Penal cuida-se de conduta que provoca lesão a bem jurídico de relevante valor social, afetando toda a coletividade, razão pela qual não cabe a aplicação do princípio da insignificância.
+Precedentes. Incidência do enunciado n. 83 da Súmula do STJ.
+2. O prazo da prescrição da pretensão punitiva superveniente é verificado pela pena cominada, nos termos do art. 110, § 1º, c/c art. 109, ambos do Código Penal - CP, porquanto pressupõe o trânsito em julgado para a acusação.
+3. Em caso de interposição de recurso especial inadmitido e de agravo em recurso especial sem êxito, conforme especificado no EAREsp 386.266/SP, a data do trânsito em julgado para a defesa, exclusivamente para fins de prescrição, retroagirá ao último dia do prazo de interposição do recurso especial na origem. Precedentes.
+Agravo regimental desprovido." (AgRg no AREsp 1.006.934/MS, da minha relatoria, QUINTA TURMA, DJe 01/12/2017)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. FUNDAMENTOS IMPUGNADOS A CONTENTO. REFORMATIO IN PEJUS. OCORRÊNCIA. FUNDAMENTO DESFAVORÁVEL RECONHECIDO EM APELAÇÃO EXCLUSIVA DA DEFESA. DESPROPORCIONALIDADE. SÚMULA 7/STJ. INAPLICABILIDADE. PRESCRIÇÃO RETROATIVA. OCORRÊNCIA. ART. 110, § 1º, DO CP. SENTENÇA CONDENATÓRIA. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRESCRIÇÃO REGULADA PELA PENA APLICADA. DECLARAÇÃO DE OFÍCIO. ART. 61 DO CPP. MATÉRIA DE ORDEM PÚBLICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Considerando que o fundamento aplicado pela Corte regional foi devidamente rebatido e que, ao contrário do que consta da decisão de inadmissão, a questão posta em discussão realmente não demanda a revisão de matéria fática, não há que se cogitar na eventual incidência da s. 182/STJ.
+2. Tendo em vista que o único fundamento exarado pelo sentenciante para a elevação da pena-base é flagrantemente ilegal (violação ao enunciado n. 444/STJ), constata-se a infringência ao princípio da non reformatio in pejus, pois a exasperação da basilar passou a se escorar apenas no maior desvalor conferido à vetorial da culpabilidade, a qual, no entanto, só foi reconhecida pela origem por ocasião do julgamento de recurso exclusivo da defesa.
+3. Se constatada exacerbação ou desproporcionalidade na dosimetria, como na hipótese dos autos, pode esta Corte Superior proceder à revisão da pena, não havendo que se suscitar violação à súmula 7/STJ.
+4. Nos termos do art. 110, § 1º, do CP, a prescrição, após a sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, deve ser regulada pela pena aplicada.
+5. Ausente a interposição de recurso acusatório junto à instância ordinária e improvido o presente agravo regimental, impõe-se o reconhecimento da prescrição da pretensão punitiva estatal, pois entre o recebimento da denúncia e a publicação da sentença condenatória decorreu o lapso extintivo.
+6. Agravo regimental improvido." (AgRg no AREsp 892.717/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 19/09/2017)
+De mais a mais, impende acrescer que é também firme a orientação jurisprudencial no sentido de que o acórdão confirmatório da condenação, mesmo que majora ou reduz a pena, não constitui novo marco interruptivo da prescrição.
+Ilustrativamente:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PLEITO DE RECONHECIMENTO DA PRESCRIÇÃO. DECURSO DE MAIS DE 2 ANOS ENTRE O RECEBIMENTO DA DENÚNCIA E A PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA CONFIGURADA. AGRAVO REGIMENTAL PROVIDO.
+1. Fixada a pena definitiva em 2 anos de reclusão, a prescrição ocorre em 4 anos, nos termos do art. 109 do CP, prazo que se reduz de metade, ante a menoridade relativa do réu à época dos fatos, a teor do disposto no art. 115 do CP.
+2. Decorridos mais de 2 anos entre o recebimento da denúncia e a publicação da sentença condenatória, confirmada em 2º Grau, mister o reconhecimento da prescrição da pretensão punitiva.
+3. Agravo regimental provido para reconhecer a prescrição da pretensão punitiva." (AgInt no AREsp 361.486/PI, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/04/2018)
+"AGRAVO REGIMENTAL NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECONHECIMENTO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. MARCO INTERRUPTIVO. NÃO OCORRÊNCIA. RECURSO IMPROVIDO.
+1. "O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição" (AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Corte Especial, Rel. Min. Humberto Martins, DJe de 24/11/2016).
+2. Agravo regimental não provido." (AgRg na PET no AREsp 1.177.969/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/04/2018)
+Desse modo, ocorrendo o trânsito em julgado para a acusação em 23.8.2013 (registro em cartório - fl. 765 - consignado pelo Tribunal de origem), e considerando que o ora paciente foi condenado à pena de 2 (dois) anos de reclusão, o prazo a ser observado para o cálculo da prescrição da pretensão punitiva Estatal é o previsto no inciso V do art. 109 do Estatuto Repressivo, qual seja, 4 anos.
+Com efeito, verifica-se que entre o dia da publicação da sentença condenatória e o dia 12.9.2017 - último dia do prazo para a interposição do recurso especial inadmitido -, transcorreu lapso temporal superior à quatro anos, devendo ser reconhecida a prescrição da pretensão punitiva Estatal, nos termos do que dispõe o art. 107, inciso IV, c/c arts. 109, V; 110, § 1º, e 117, IV, todos do Código Penal.
+Ante o exposto, dou provimento ao recurso para declarar extinta a punibilidade do ora recorrente em relação à Ação Penal n. 45321-90.2010.4.01.3800, em virtude da prescrição.
+Publique-se.
+Intimem-se.
