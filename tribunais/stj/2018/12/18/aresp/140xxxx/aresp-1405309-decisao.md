@@ -1,0 +1,26 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+APELAÇÕES SIMULTÂNEAS. EMBARGOS À EXECUÇÃO. SEGURO DE VIDA. ACIDENTE DE TRABALHO. INVALIDEZ PERMANENTE. COMPROVAÇÃO. PERÍCIA MÉDICA REALIZADA PELO EXPERT DO INSS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. PROVA DOS AUTOS A CONFIRMAR INVALIDEZ DECORRENTE DO TRABALHO. RECURSO DA EMBARGANTE. PRIMEIRA PRELIMINAR. EFEITO SUSPENSIVO AO APELO. IMPOSSIBILIDADE. SÚMULA 317, DO STJ. SEGUNDA PRELIMINAR. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. MÉRITO. TESE DEFENDIDA. EXCLUSÃO DE RISCO. AUSÊNCIA DE COBERTURA DE DOENÇA. INOCORRÊNCIA. DIREITO DA SEGURADA AO RECEBIMENTO DA INDENIZAÇÃO POR DANOS MATERIAIS. SENTENÇA CORRETA. PRELIMINARES REJEITADAS. RECURSO IMPROVIDO. APELO DA EMBARGADA. VERBA HONORÁRIA IRRISÓRIA. RECONHECIMENTO. MAJORAÇÃO. RECURSO DA EMBARGADA. PROVIMENTO PARCIAL.
+Dos elementos dos autos, observa-se que a apelada sofreu acidente de trabalho, porquanto a sua lesão (ruptura do tendão do ombro direito) foi potencializada pelo esforço repetitivo no ambiente laboral, ocasionando microtraumas.
+Outrossim, a própria aposentadoria por invalidez permanente da apelada, que recebe do INSS, é prova inconteste para o pagamento do seguro contratado.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 757, 760 e 777 do Código Civil.
+Alega que o mal acometido pela parte recorrida não foi decorrente de acidente pessoal, mas sim de doença, sendo que a cobertura da apólice prevê apenas o caso de acidente pessoal. Afirma que a doença não é risco previsto no contrato de seguro, estando expressamente excluída da cobertura. Sustenta, ainda, comprovado que a invalidez decorre de doença, apurado que ela não é total e sim parcial, razão também pela qual não possuiria cobertura securitária.
+Contrarrazões ao recurso especial às fls. 263-269.
+É o relatório. Decido.
+2. Quanto à alegada violação aos arts. 757, 760 e 777 do Código Civil, a Corte local, com base na interpretação do contrato de seguro e nos elementos fático-probatórios dos autos, concluiu que a recorrida possui direito à indenização securitária, consignando que a apólice possui cobertura para a invalidez permanente total da recorrida decorrente de acidente de trabalho. Segue trecho do acórdão recorrido (fls. 231-236):
+"No mérito, sustentou a apelante/embargante a limitação de riscos da apólice de seguro contratado com a apelada/embargada, na qual não há previsão legal para cobertura de doença, ainda que provocada por acidente anterior.
+Não se aceita como procedente a alegação acima mencionada, de modo que a sentença não comporta reparo. Veja-se.
+Depreende-se do contrato firmado entre as partes que o seguro pactuado tinha por cobertura a invalidez permanente total ou imparcial da segurada, trabalhadora que sofreu lesões físicas osteomusculares (LER/DORT) diagnosticada como ruptura total do tendão supra espinhoso do ombro direito.
+Dos elementos dos autos, observa-se que a apelada sofreu acidente de trabalho, porquanto a sua lesão (ruptura do tendão do ombro direito) foi potencializada pelo esforço repetitivo no ambiente laboral, decorrente de microtraumas que evoluíram para lesão incapacitante.
+Outrossim, a própria aposentadoria por invalidez permanente da apelada, que recebe do INSS, é prova inconteste para o pagamento do seguro contratado, documento de fl. 64.
+ ..
+Restou provado que a recorrida foi vítima de acidente de trabalho, motivo pelo qual não há que se falar em exclusão de risco, haja vista que a aposentação deu-se em razão do acidente em que a apelada fora vítima.
+Registre-se que hoje é portadora de moléstia certamente porque esta decorreu do acidente em que fora envolvida, pois o trabalho repetitivo a aceleração de sua lesão, que acarretou na sua invalidez permanente."
+Desse modo, constata-se que a revisão do acórdão recorrido e a análise da pretensão recursal demandariam a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA DEMANDADA.
+1. A análise dos fundamentos que ensejaram o reconhecimento da obrigatoriedade da seguradora pagar o valor do prêmio segurado, em razão da comprovação da invalidez permanente total, decorrente de acidente de trabalho, coberta pela apólice de seguro, exige a interpretação de cláusula contratual e o reexame probatório dos autos, inviável por esta via especial, ante o óbice dos enunciados das Súmulas 5 e 7 desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 578.340/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/11/2014, DJe 27/11/2014)
+3. Ante o exposto, nego provimento ao agravo, majorando os honorários advocatícios em prol dos patronos da parte ora agravada em R$ 300,00 (trezentos reais), nos termos do art. 85, §11, do CPC/2015.
+Publique-se. Intimem-se.
