@@ -1,0 +1,23 @@
+DECISÃO
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA DO TRABALHO. AGENTE COMUNITÁRIO DE SAÚDE. VÍNCULO CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Trata-se de Conflito Negativo de Competência envolvendo o JUÍZO DE DIREITO DA VARA DE SANTA INÊS - BA e o JUÍZO DA VARA DO TRABALHO DE JEQUIÉ - BA, nos autos da Reclamação Trabalhista ajuizada contra o MUNICIPIO DE IRAJUBA.
+2. A mencionada ação foi originariamente distribuída ao Juízo Trabalhista, que declarou-se incompetente para o julgamento da demanda e remeteu os autos à Justiça Comum.
+3. Recebidos os autos no Juízo Estadual, este declarou-se igualmente incompetente, suscitou o presente Conflito de Competência e determinou a remessa dos autos a este egrégio Tribunal Superior.
+4. É o relatório.
+5. Conforme dessume-se dos autos, a parte autora foi contratada pelo regime celetista para exercer a função de Agente Comunitário de Saúde.
+6. A Lei Federal 11.350/2006 ao regulamentar o § 5o. do art. 198 da Constituição,estabeleceu o regime celetista para os agentes comunitários de saúde, salvo na hipótese de lei local específica dispor de maneira diversa. No caso dos autos, não há notícia da existência de Lei Municipal dispondo de maneira diversa.
+7. Com efeito, após a edição da Lei 11.350/2006, ainda que o contrato de trabalho seja para atender necessidade temporária de excepcional interesse público, sendo o regime adotado o celetista, compete à justiça trabalhista processar e julgar as ações oriundas da referida relação de trabalho. Confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. AGENTE COMUNITÁRIO DE SAÚDE. CONTRATO DE TRABALHO PREVENDO REGIME JURÍDICO DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. Analisa-se no presente feito qual o Juízo competente para julgar demanda em que a reclamante, contratada como agente comunitário de saúde, objetiva o recebimento de verbas trabalhistas.
+2. Considerando a juntada aos autos de contrato de trabalho onde se estabelece que a relação jurídico-trabalhista seria regido pela CLT, afasta-se a competência do Juízo Comum, atraindo a competência do Juízo Laboral para o julgamento da lide. Incide, na espécie, o art. 8º da Lei 11.350/2006: Os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4º do art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT".
+3. Agravo regimental não provido (AgRg no CC 127.849/RS, Rel. Min. BENEDITO GONÇALVES, DJe 21.6.2013).
+
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E TRABALHISTA. ALTERAÇÕES ENGENDRADAS PELA EC 45/2004. RELAÇÃO EMPREGATÍCIA. SERVIDOR MUNICIPAL CONTRATADO PARA O DESEMPENHO DE ATIVIDADE TEMPORÁRIA E EXCEPCIONAL SOB O REGIME CELETISTA. REGIME DE NATUREZA CELETISTA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
+1. A competência da Justiça do Trabalho para processar e julgar as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios restou fixada pela Constituição Federal, no seu art. 114, I, com redação conferida pela EC 45/04.
+2. Deveras, a Suprema Corte, ao julgar a ADl 3.395-DF, excluiu da expressão relação de trabalho as ações decorrentes do regime estatutário. Assim, a competência para julgar as ações relativas a servidor estatutário não celetista e ente público, será da Justiça comum, estadual ou Federal, conforme o caso, remanescendo à Justiça laboral as demais hipóteses.
+3. In casu, os autos principais versam sobre reclamação trabalhista ajuizada por servidora contratada por Município, pelo regime celetista, por prazo determinado e visando atender à necessidade de interesse público - consistente na realização de atividades de agente comunitário de saúde.
+4. Dessarte, conforme a nova interpretação conferida ao art. 114, I, da CF e diante do entendimento desta Egrégia Corte sobre o tema, prevalece a competência da justiça do trabalho para decidir sobre ação ajuizada por servidor municipal, admitido sem concurso público, em virtude de contrato firmado de natureza celetista.
+5. Agravo regimental desprovido para manter a decisão que conheceu do conflito negativo de competência para determinar a competência do JUÍZO DA 2ª VARA DO TRABALHO DE CATANDUVA/SP (AgRg no CC 109.271/SP, Primeira Seção, Rel. Min. LUIZ FUX, DJe 1o.7.2010).
+8. Com base nessas considerações, conhece-se do presente Conflito de Competência e declara-se competente para processar e julgar a presente demanda o JUÍZO DA VARA DO TRABALHO DE JEQUIÉ - BA.
+9. Publique-se.
+10. Intimações necessárias.
