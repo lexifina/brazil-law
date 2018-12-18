@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMERCIAL CELESTINO PORTES LTDA ME contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - EXCESSO DE EXECUÇÃO - AUSÊNCIA DE PLANILHA DE CÁLCULO - ARTIGO 917 § 3º E 4º, CPC.12015.
+A tempestividade da oposição dos embargos de declaração foi verificada.
+E dever da parte embargante apresentar o valor que tem por devido junto com a exordial, além de apresentar memória de cálculo, sob pena de indeferimento liminar dos embargos.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 5º, inciso LV, da Constituição Federal.
+Alega, em síntese, a ocorrência de cerceamento de defesa. Defende a necessidade de realização de prova pericial.
+É o relatório. DECIDO.
+2. De início, consigne-se que na via especial não cabe a análise de afronta a dispositivo constitucional, ainda que com intuito de prequestionamento. Nesse sentido os seguintes precedentes: EDcl no REsp 680.385/RS, Rel. Ministro BARROS MONTEIRO, DJ 20.03.2006, REsp 1043700/TO, Rel. Ministro CASTRO MEIRA, DJe 05.09.2008; AgRg no REsp 977.900/PR, Rel. Ministra LAURITA VAZ, , DJe 08.09.2008.
+3. Por outro lado, em relação ao alegado cerceamento de defesa e necessidade de realização de prova pericial, a particularização inequívoca dos normativos federais supostamente contrariados pelo Tribunal de origem é imprescindível quando da interposição do recurso especial fundado na alínea "a" do permissivo constitucional, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto. Incidência, no ponto, da Súmula 284/STF.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. INCIDÊNCIA DAS SUMULAS 284/STF E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Cotejando as premissas do acórdão estadual, constata-se que a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Incidência da Súmula 284-STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 856.473/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+4. Ainda que assim não fosse, as referidas matérias não foram objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito das referidas matérias trazidas à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
