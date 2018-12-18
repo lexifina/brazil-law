@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Raul Correa Bueno contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “PREVIDENCIÁRIO. DECADÊNCIA. REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO ANTERIOR AO ART. 103 DA LEI 8.213/1991 (REDAÇÃO DA MP 1.523-9/1997). RECURSO DESPROVIDO.
+    1. Ao dar nova redação ao art. 103 da Lei 8.213/1991, a MP 1.523-9/1997 (convertida na Lei 9.528/1997) inovou ao prever prazo de decadência do direito à revisão de concessão de benefícios previdenciários, de modo que atos de concessão até 27/06/1997 (inclusive) estão sujeitos a prazo decadencial de dez anos contados da data em que essa MP entrou em vigor (precedentes do E.STJ e desta C. Corte). Direito de o segurado pleitear revisão decaiu em 28/06/2007.
+    2. Por aplicação analógica do art. 219, § 5º, do Código de Processo Civil (na redação da Lei 11.280/2006), o juiz pronunciará a decadência de ofício.
+    3. Decisão agravada mantida.
+    4. Recurso do particular desprovido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário não se revela viável.
+    É que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 626.489/SE, Rel. Min. ROBERTO BARROSO, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAODINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA. 1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário. 2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário. 3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição. 4. Inexiste direito adquirido a regime jurídico não sujeito a decadência. 5. Recurso extraordinário conhecido e provido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, ”b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 18 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
