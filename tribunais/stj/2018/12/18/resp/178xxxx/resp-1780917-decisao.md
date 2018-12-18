@@ -1,0 +1,45 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. CRIME DE INCÊNDIO. VIOLAÇÃO DOS ARTS. 158, 159, 173 E 386, VII, TODOS DO CPP. DELITO QUE DEIXA VESTÍGIO. PERÍCIA DIRETA. IMPRESCINDIBILIDADE. ABSOLVIÇÃO QUE SE IMPÕE.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul na Apelação Criminal n. [CPF].
+Na sentença de fls. 136/142, o recorrente foi condenado às penas de 3 anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, mais pagamento de 10 dias-multa, como incurso nas iras do art. 250, caput, do Código Penal.
+Inconformada com os termos do édito condenatório singular, a defesa interpôs recurso de apelação (fls. 152/173).
+O Tribunal a quo negou provimento ao recurso defensivo (fls. 197/206).
+APELAÇÃO-CRIME. INCÊNDIO. PERÍCIA. DESNECESSIDADE. MATERIALIDADE E AUTORIA COMPROVADAS.
+Ausência de exame pericial suprida pelo acervo probatório. Condenação mantida. Apelo improvido. Unânime.
+Aponta o recorrente a violação dos arts. 158, 159, 173 e 386, VII, todos do Código de Processo Penal, porquanto ausente laudo conclusivo acerca da causa do evento.
+Sustenta que analisando-se os argumentos trazidos para fundamentar a decisão recorrida, clara está a impossibilidade de manutenção da decisão nos termos em que expedida. Isto porque há a necessidade de laudo pericial que ateste a causa do incêndio, em conformidade com os artigos 158 e 159 do Código de Processo Penal, não bastando a afirmação, conforme exposto nos autos, de que há um incêndio e o acusado, visto próximo ao local, por portar um isqueiro, é o autor do crime.  ..  Trata-se de delito que deixa vestígios, impondo-se a reforma do acórdão, pois admitida a condenação do recorrente sem ter havido a comprovação por perícia da causa do incêndio, sua extensão e risco de danos, o que não pode ser suprido pela prova oral quando se trata de delito que deixa vestígios.  ..  O acórdão recorrido lastreia a condenação do recorrente exclusivamente em prova oral coligida, conforme se depreende no voto exarado pelo eminente relator, acompanhado à unanimidade por seus pares.  ..  Tal entendimento caracteriza, em se tratando de delito que deixa vestígios, manifesta negativa de vigência aos arts. 158 e 159, ambos do Código de Processo Penal. (fl. 215).
+Ressalta, que é indispensável a realização de perícia conclusiva para a causa, perigo e extensão do sinistro, para a apuração das circunstâncias fáticas que não podem ser presumidas e não são provadas à exaustão pela prova oral, caso contrário, há negativa evidente de vigência ao art. 158 e 159 do Código De Processo Penal, e, por conseguinte, resta caracterizada a negativa de vigência ao art. 386, VII do referido diploma legal, uma vez que inexistente prova para a condenação do ora recorrente, vez que a prova coligida não é suficiente para a condenação..  ..  Com efeito, há necessidade de prova da causa do incêndio, demonstrando que não decorreu de ato acidental, de caso fortuito, ou qualquer outra causa de sinistro, bem como os riscos e extensão, conforme preceitua o art. 173 do CPP, cuja vigência foi negada no acórdão recorrido (fls. 216/217).
+Pede o conhecimento e provimento do recurso para que seja afastada a condenação pelo delito de incêndio.
+Oferecidas contrarrazões (fls. 223/225), o recurso especial foi admitido na origem (fls. 228/231).
+RECURSO ESPECIAL. INCÊNDIO. PROVA DA MATERIALIDADE. NECESSIDADE DE EXAME PERICIAL. RECURSO ADMITIDO.
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 245/248).
+RECURSO ESPECIAL. INCÊNDIO. ARTIGO 250, CAPUT, CÓDIGO PENAL. VIOLAÇÃO AO ARTIGO 158 DO CPP. NECESSIDADE DE REALIZAÇÃO DO EXAME DE CORPO DE DELITO. IMPOSSIBILIDADE DE REALIZAÇÃO NÃO DEMONSTRADA. PRECEDENTE DESSA CORTE SUPERIOR DE JUSTIÇA. PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+No que diz respeito ao presente pleito de absolvição do delito, sob o fundamento de que é imprescindível a sua demonstração por meio de laudo pericial, notadamente nos casos em que forem deixados vestígios, tenho que assiste razão à defesa.
+Sobre o tema, a Corte de origem decidiu que (fls. 203/205 - grifo nosso):
+ ..
+A preliminar de nulidade por ausência de exame pericial não prospera. Na espécie, a falta não compromete a reconstituição delitiva clara resultante dos demais subsídios probatórios. Ademais, o exame pericial não é imprescindível para a comprovação dos delitos. Outros meios de provas também são aptos a confirmar a materialidade delitiva quando, como na espécie, desaparecidos os vestígios.
+ ..
+Diversamente do sustentado pela defesa, embora ausente laudo pericial, atestando a ocorrência do sinistro, o boletim de ocorrência, o auto de constatação de dano, bem como a prova testemunhal revelam com suficiência o estado em que ficou o local, restando claro que expôs a perigo o patrimônio alheio.
+Além do mais, inexiste nos autos qualquer outro dado capaz de afastar a autoria delitiva. Tampouco cabe a desclassificação para a forma culposa. Ao contrário, o manancial probatório evidencia o dolo na conduta do réu, que, após arrombar a porta do estabelecimento e ser flagrado em seu interior, antes de fugir, ateou fogo no local, destruindo um sofá, um armário, roupas dos funcionários, equipamentos de proteção, danificando a fiação, resultando em evidente prejuízo à vítima.
+ ..
+Verifica-se da leitura do trecho acima transcrito que o combatido acórdão merece reparos.
+Com efeito, segundo [NOME], se o crime deixa vestígios, é indispensável o exame de corpo de delito (art. 158, CPP), não podendo supri-lo a prova testemunhal. Esta somente será admitida, em lugar do exame, caso os vestígios tenham desaparecido, conforme preceitua o art. 167 do Código de Processo Penal (Código Penal comentado. 9ª ed., RT, 2009, pág. 729).
+A substituição do laudo pericial por outros meios de prova apenas pode ocorrer se o delito não deixar vestígios, se estes tiverem desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que não foi demonstrado no presente caso.
+Nesse sentido, colaciono recentes precedentes de ambas as Turmas que compõem a Terceira Seção desta Corte de Justiça.
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIME DE INCÊNDIO. DELITO QUE DEIXA VESTÍGIOS. EXAME PERICIAL NÃO REALIZADO. IMPRESCINDIBILIDADE. PROVA TESTEMUNHAL. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O exame de corpo de delito direto, por expressa determinação legal, é indispensável para configuração da materialidade delitiva nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido por outro meio de prova, quando os vestígios tenham desaparecido ou quando justificada a impossibilidade de realização da perícia. Precedentes.
+III - No caso sob exame, não foi realizada perícia para constatar a materialidade do crime de incêndio, não existindo nos autos justificação alguma para a ausência da perícia, o que indica a presença de flagrante constrangimento ilegal.
+Habeas corpus não conhecido. Ordem concedida de ofício para anular a r. sentença condenatória e o v. acórdão que a confirmou, absolvendo o paciente da prática do crime de incêndio, nos termos do art. 386, inc. II, do Código de Processo Penal, considerando a inexistência de prova da materialidade da conduta imputada.
+(HC n. 440.501/RS, Ministro Felix Fischer, Quinta Turma, DJe 1º/6/2018 - grifo nosso).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL. PROCESSO PENAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. CRIME DE INCÊNDIO QUALIFICADO. DELITO QUE DEIXA VESTÍGIOS. LAUDO PERICIAL. NECESSIDADE. ATUAL IMPOSSIBILIDADE DE REALIZAÇÃO DA PERÍCIA. CONSEQUÊNCIA. ABSOLVIÇÃO.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. O laudo técnico foi dispensado exclusivamente em razão da existência de prova testemunhal e de fotografias, mesmo existindo vestígios no local do crime.
+3. A conclusão do acórdão recorrido vai de encontro ao entendimento do Superior Tribunal de Justiça de que apenas é possível a substituição do laudo pericial por outros meios de prova se o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.722.389/MS, de minha relatoria, Sexta Turma, DJe 16/4/2018 - grifei).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para absolver o réu do crime que lhe foi imputado na denúncia de fls. 1/2.
+Publique-se.
