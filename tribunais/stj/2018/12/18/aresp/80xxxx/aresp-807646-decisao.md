@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS, em que pretende a admissão de recurso especial, que desafia acórdão assim ementado (e-STJ fl. 155):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - BLOQUEIO SISTEMA BACEN-JUD - INEXISTÊNCIA DE PENHORA - INÍCIO DO PRAZO PARA OPOSIÇÃO DOS EMBARGOS - INTIMAÇÃO DA PENHORA. O prazo para interposição dos embargos à execução fiscal, quando efetuada a constrição pelo sistema Bacen-Jud, inicia-se com a intimação da penhora, nos termos do art. 16, III, da Lei 6.830/80. Não há que se falar, no caso, em perda de prazo para interposição dos Embargos à Execução, se não foi lavrado o auto de penhora. Sentença cassada. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 169/172).
+No apelo nobre (e-STJ fls. 175/182), o recorrente apontou violação dos arts. 535, I e II, 655-A e 664 do CPC/1973 e dos arts. 12 e 16 da LEF. Sustentou, em resumo, que: (a) o acórdão recorrido é nulo, porquanto não sanou omissão suscitada em aclaratórios; (b) a intimação do executado para informá-lo de que foi realizada a penhora on line inicia o prazo para oposição dos embargos à execução, sendo desnecessária nova intimação da penhora apenas para alertá-lo do prazo para a apresentação da defesa.
+Contrarrazões às e-STJ fls. 186/190.
+O Tribunal de origem obstou o recurso especial por entender inexistente a alegada infringência do art. 535 do CPC/1973 e coincidente o acórdão recorrido com a jurisprudência desta Corte Superior (e-STJ fls. 192/195), fundamentação essa com a qual não concorda o agravante (e-STJ fls. 198/206).
+Sem contraminuta (e-STJ fl. 208).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Feita essa anotação, cumpre registrar que o presente recurso especial se origina de embargos à execução fiscal proposta pelo Estado de Minas Gerais em desfavor de [NOME].
+O magistrado de primeiro grau julgou intempestivos os embargos, considerando como marco inicial do prazo para a sua oposição o comparecimento espontâneo do devedor aos autos da execução, porquanto posterior a efetivação da penhora via Bacen-Jud. Confira-se:
+De acordo com o Art. 16, inc. III, da Lei n. 6.830/1980, o prazo de trinta dias para interposição de embargos à execução fiscal conta-se da data da intimação da penhora.
+Assim, havendo disciplina específica na norma especial, não se aplica o disposto no CPC, de forma que o prazo conta-se da intimação pessoal.
+ ..
+No caso, verifica-se que o executado opôs embargos à execução fiscal em 01.12.2013, sendo que compulsando os autos em apenso o valor penhorado já foi convertido em renda, ante a ausência de oposição de embargos pela embargante, já que compareceu espontaneamente aos autos em 22.08.2013, após efetivada a penhora via Bacenjud.
+O TJ/MG deu provimento à apelação do embargante ao fundamento de que não houve lavratura de auto de penhora a disparar o prazo para apresentação dos embargos. Veja-se:
+Cinge-se a controvérsia recursal sobre a consumação do prazo para a interposição dos Embargos à Execução.
+A tese do apelante é no sentido de que prazo para interposição do recurso começa com a intimação da penhora.
+Conforme se observa às fls. 56 dos autos da Execução Fiscal, embora tenha o MM. Juiz determinado a penhora no valor de R$ 18.272,45 e convertido o depósito em renda, o recorrente não teve oportunidade de impugnar a constrição.
+Na dicção do art. 16 da Lei n. 6.830/80, somente após a garantia do Juízo é que tem início o prazo para os embargos, in verbis:
+ ..
+No caso de constrição realizada pelo sistema Bacen-Jud, o prazo somente se inicia com a intimação do bloqueio realizado, na forma do art. 16, III, acima transcrito, e não da ordem de bloqueio.
+ ..
+Na situação fática que se analisa, não houve a lavratura do auto de penhora, em razão da liberação do valor constrito.
+Dessa forma, sob pena de cerceamento do direito de defesa, a solução possível é o processamento dos Embargos à Execução.
+Ocorre que o ente público opôs embargos de declaração com o propósito de obter a manifestação acerca da alegação de que, in casu, houve intimação informando o executado da realização da penhora on line e que essa comunicação seria suficiente para iniciar o prazo para a apresentação da defesa do devedor, dispensando nova intimação "tão somente para dizer o termo inicial dos embargos". Aduziu que, "realizado o bloqueio de valores em conta do devedor/recorrido e convertido (o bloqueio) em penhora, a intimação da diligência feita ao executado (que efetivamente ocorreu, segundo se vê às f. 65) afasta a necessidade de nova intimação apenas e tão somente para formalizar o início do prazo dos embargos à execução".
+Entretanto, mesmo depois de oportunamente provocada mediante aclaratórios, a Corte a quo não se manifestou sobre a existência da aludida intimação acerca a bloqueio realizado para fins de penhora on line, limitando-se a decidir que provimento do Tribunal de Justiça não se sobrepõe à lei processual.
+É cediço que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder todos os argumentos suscitados pela parte.
+Todavia, na espécie, a alegação da empresa mostra-se relevante para a solução da controvérsia, mormente se considerada a orientação desta Corte Especial deste Sodalício, segundo a qual "demonstrada ciência inequívoca do Devedor quanto à penhora "on line" realizada, não há necessidade de sua intimação formal para o início do prazo para apresentar impugnação à fase de cumprimento de sentença, tendo como termo a quo a data em comprovada a ciência" (EREsp 1.415.522/ES, Rel. Ministro Felix Fischer, Corte Especial, DJe 05/04/2017).
+No mesmo sentido, as seguintes decisões monocráticas aplicando esse precedente no âmbito da execução fiscal: REsp 1.756.662/SP, Relatora Ministra Regina Helena Costa, DJ 15/08/2018; REsp 1.639.687/RS, Relator Ministro Francisco Falcão, DJ 17/08/2018.
+A ocorrência de vício de integração acerca de questão relevante justifica a nulidade do julgado recorrido, por violação do art. 535 do CPC/1973. A esse respeito: AgRg no AREsp 109.883/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 26/11/2012; AgRg no REsp 1.178.065/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 07/05/2013.
+Reconhecido o vício de nulidade do acórdão recorrido, ficam prejudicadas as demais questões suscitadas no recurso especial.
+Diante do exposto, com base nos arts. 34, XXV, do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido, por violação do art. 535 do CPC/1973, determinando o retorno dos autos ao Tribunal de origem, a fim de que reaprecie os embargos de declaração, sanando o vício de integração ora identificado.
+Publique-se. Intimem-se.
