@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão da Turma Recursal Suplementar dos Juizados Especiais Federais do Rio Grande do Sul, a qual concedeu a segurança postulada contra decisão judicial que condicionou a execução de valores atrasados decorrentes de benefício previdenciário concedido nos autos de ação originária à implantação do benefício concedido na via judicial, impedindo a execução em caso de opção pelo benefício concedido na via administrativa. (eDOC 9, p. 1)
+    No recurso, interposto com fundamento no art. 102, III,  a  , da Constituição Federal, aponta-se violação aos arts. 5º,  caput,  II, XXXVI; 97; 194,  caput  e parágrafo único; 195, §5º; 201,  caput  , §§1º, 2º e § 11, do texto constitucional. (eDOC 19, p. 3 e 20)
+    Nas razões recursais, sustenta-se que o acórdão impugnado teria violado o princípio da reserva de plenário, ao afastar, no caso concreto, a incidência do art. 18, § 2º, da Lei n. 8.213/91 que veda a utilização das contribuições posteriores à aposentadoria para obtenção de nova aposentadoria no Regime Geral de Previdência Social.
+    Alega-se equívoco da instância de origem ao entender que a opção pelo benefício mais vantajoso obtido administrativamente não obstaria o recebimento dos valores atrasados referente ao benefício concedido judicialmente, possibilitando, assim, que ocorresse no caso desaposentação indireta. (eDOC 19, p. 2)
+    Oportunamente, dei provimento ao agravo e determinei a remessa dos autos à origem, com base no tema 503 da sistemática da repercussão geral, cujo paradigma é o RE-RG 661.256, Rel. Min. Roberto Barroso, DJe 26.4.2012, para os fins do disposto no art. 1.036 do Código de Processo Civil. (eDOC 115 e 131)
+    O Tribunal a quo determinou a devolução dos autos a seu órgão fracionário, para proceder um juízo positivo de retratação, se fosse o caso, adequando a decisão ao entendimento do Supremo Tribunal Federal. (eDOC 148)
+    Todavia, a Turma Julgadora manteve sua decisão por entender que o referido tema não se amoldava ao caso dos autos nos seguintes termos:
+    “No caso em tela, o acórdão exarado pela 4ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul concedeu a segurança, para reconhecer o direito ao pagamento das parcelas devidas entre a concessão da aposentadoria deferida judicialmente NB 42/141.484.467-9 (DER em 21/11/2007) e a concessão da aposentadoria por idade deferida administrativamente NB 41/156.343.060-3, com DIB em 11.05.2011.
+    Logo, não se está diante de caso de desaposentação, pois a parte autora não estava aposentada quando do pedido da aposentadoria na via administrativa, tampouco computou tempo de serviço posterior à aposentadoria concedida administrativamente.”(eDOC 148)
+    Eis a ementa:
+    “TEMA 503. DESAPOSENTAÇÃO. EXECUÇÃO DE VALORES. APOSENTADORIA JUDICIAL E APOSENTADORIA CONCEDIDA ADMINISTRATIVAMENTE. O SEGURADO TEM DIREITO AO RECEBIMENTO DAS PARCELAS DEVIDAS ENTRE A CONCESSÃO DA APOSENTADORIA DEFERIDA JUDICIALMENTE E A CONCESSÃO DA APOSENTADORIA DEFERIDA ADMINISTRATIVAMENTE EIS QUE NÃO SE ESTÁ DIANTE DE CASO DE DESAPOSENTAÇÃO POIS A AUTORA NÃO ESTAVA APOSENTADA QUANDO DO PEDIDO DA APOSENTADORIA NA VIA ADMINISTRATIVA, TAMPOUCO COMPUTOU TEMPO DE SERVIÇO POSTERIOR ÀQUELA CONCEDIDA ADMINISTRATIVAMENTE.” (eDOC 149)
+    Diante disso, os autos foram remetidos para o Supremo Tribunal Federal para análise. (eDOC153)
+    É o relatório.
+    Após detida análise dos autos, observo que o tema remanescente do recurso extraordinário é diverso do paradigma do tema 503 do Plenário Virtual.
+    Ocorre que se encontra em julgamento o Tema 1.025 da sistemática de repercussão geral, cujo processo paradigma é o ARE-RG 1.172.577, Rel. Min. Dias Toffoli, em que se discute a questão relativa à possibilidade de execução de parcelas vencidas de benefício previdenciário reconhecido judicialmente anteriores à implantação de benefício concedido na esfera administrativa.
+    Ante o exposto, torno sem efeito a remessa (eDOC 115 e 131) e determino a devolução dos autos ao tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 18 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
