@@ -1,0 +1,16 @@
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PESSOAL E EXTINÇÃO DA OBRIGAÇÃO PELA COMPENSAÇÃO. DISPOSITIVOS LEGAIS NÃO INDICADOS ADEQUADAMENTE. IMPOSSIBILIDADE DE EXAME. SÚMULA Nº 284/STF. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não cabe recurso especial quando a parte recorrente não declina, nas razões, de forma específica, qual o dispositivo legal afrontado, indicando especificamente a tese jurídica e a violação deduzida. Deficiência na fundamentação que enseja a aplicação da Súmula nº 284/STF.
+2. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por ICOLMAQ EQUIPAMENTOS INDUSTRIAIS LTDA com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - TEMPESTIVIDADE - ACORDO HOMOLOGADO JUDICIALMENTE - NÃO CUMPRIMENTO - EXECUÇÃO - POSSIBILIDADE - INTIMAÇÃO PESSOAL DA PARTE - PRESCINDIBILIDADE. 1. A interposição de embargos de declaração contra interlocutória Interrompe o prazo para que seja interposto agravo de instrumento; logo não é extemporâneo o recurso aviado dentro do decêndio legal a contar da publicação do provimento que decidiu os embargos. 2. Conforme previsto no art. 475-N, inciso III, do Código de Processo Civil, o acordo homologado por sentença é título executivo judicial, cuja execução é plenamente possível, sendo desnecessária prévia intimação pessoal da parte. 3. Consumado o acordo judicial, no qual as partes deliberam sobre o objeto, estabelecendo o valor e a forma de pagamento, inclusive com o ânimo de novar, descumprido o ajuste não há razão para obstar o pedido de execução do titulo judicial, até porque eventual crédito da devedora frente à exequente, do qual não tratou o ajuste, deve ser perseguido por outra via processual.
+Em suas razões recursais, alega a recorrente que "não pode prevalecer a intimação feita aos advogados da parte, por publicação no "Diário Oficial", para que o inquilino cumpra ordem judicial de desocupação de imóvel" - fls. 509, bem como sustenta ser hipótese de extinção da obrigação pela compensação de crédito.
+Faz referência aos arts. 236, 237, 238, 632, 633, 634, 635, 636, 637 e 638 do CPC/73, arts. 368, 369, 840, 876 e 884 do Código Civil, arts. 22, X, e 23 da Lei nº 8.245/91, bem como a suposto dissídio pretoriano.
+É o relatório.
+DECIDO.
+2. Observo que, no presente caso, a parte recorrente enumera diversos artigos de lei que supostamente teriam sofrido violação sem, no entanto, apontar de maneira clara como teria ocorrido e em que consistiriam as vulnerações alegadas.
+Advirta-se que, o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido afronta.
+Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação e demonstrar de maneira fundamentada como teria ocorrido a apontada vulneração, sob pena de, não o fazendo, ver caracterizada argumentação deficiente a impossibilitar a compreensão exata da controvérsia, atraindo, de forma inconteste, o teor da Súmula nº 284/STF e ver negado seguimento ao seu apelo extremo.
+3. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
