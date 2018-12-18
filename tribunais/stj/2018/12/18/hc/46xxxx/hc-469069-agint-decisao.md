@@ -1,0 +1,6 @@
+DECISÃO
+[NOME] interpõe agravo regimental contra decisão de fls. 388-390, em que indeferi liminarmente o habeas corpus, por incidência da Súmula 691 do Supremo Tribunal Federal.
+Decido.
+Consoante informações obtidas no sítio eletrônico da Corte de origem, verifico que o mérito do habeas corpus originário foi julgado, em 27/9/2018, ocasião em que o Tribunal de origem julgou prejudicado o writ pela perda de objeto, uma vez que sobreveio sentença penal condenatória, em 6/9/2018, que impôs ao paciente à pena de 18 anos, 9 meses e 10 dias de reclusão, mais multa, pela prática dos crimes previstos no art. 312, caput, c/c os arts. 327, § 2º, e 71, caput, (43 vezes), além do art. 288, caput, todos do Código Penal e vedou o recurso em liberdade (Processo n. 0028367-15.2016.8.26.0506 - Operação Sevandija).
+Desse modo, diante do julgamento colegiado do feito pela instância a quo é forçoso concluir pela prejudicialidade deste habeas corpus, mesmo porque os fundamentos adotados pelo Magistrado de primeiro grau na sentença penal condenatória para a negativa do recurso em liberdade não foram apreciados pela instância a quo, circunstância que obsta seu exame por este Superior Tribunal.
+À vista do exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado este recurso, pela perda do seu objeto.
