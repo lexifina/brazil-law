@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL INEXISTENTES. EMBARGOS DE DECLARAÇÃO DOS SERVIDORES REJEITADOS.
+1. Cuida-se de Embargos de Declaração no Recurso Especial opostos por [NOME] ao acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSOS ESPECIAIS. REAJUSTE DE 3,17%. LIMITAÇÃO. COMPENSAÇÃO. ART. 10 DA MP 2.225-45/2001. VIOLAÇÃO À COISA JULGADA. RECURSO ESPECIAL 1.235.513/AL, REPRESENTATIVO DA CONTROVÉRSIA. RECURSO ESPECIAL DA UFSM A QUE SE NEGA SEGUIMENTO E, QUANTO AO RECURSO ESPECIAL DOS SERVIDORES, DETERMINA-SE O RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 543-C, §§ 7o. E 8o., DO CPC/1973 (fls. 727).
+2. Às fls. 739/743, a parte embargante sustenta, em síntese, a ocorrência de omissão na decisão quanto à análise das questões tratadas no Recurso Especial relativas à existência de coisa julgada afastando a possibilidade de compensação/limitação do reajuste de 3,17% e impossibilidade de limitação do reajuste à data da reestruturação de cargos ou carreiras.
+3. Requer que os presentes Embargos sejam acolhidos e providos, a fim de que seja sanada a omissão apontada e, consequentemente, que se dê efeitos infringentes ao Embargos Declaratórios.
+4. É o relatório.
+5. O art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração, que são restritos a situações em que patente a existência de obscuridade, contradição, omissão ou erro material no julgado. Não se prestam, pois, ao rejulgamento da lide, mediante o reexame de matéria já decidida.
+6. Esta Corte Superior somente admite a atribuição de efeitos infringentes a Embargos de Declaração quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+7. Com efeito, no caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara e expressa, decidiu o tema debatido nos autos, afirmando a inexistência de ofensa ao art. 535 do CPC/1973.
+8. Portanto, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, evidencia-se que a parte embargante busca a reapreciação do mérito da causa, não sendo este o escopo dos Aclaratórios. A discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos que não podem ser ampliados.
+9. Ante o exposto, rejeitam-se os Embargos de Declaração dos Servidores.
+10. Publique-se. Intimações necessárias.
