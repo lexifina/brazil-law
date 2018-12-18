@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pela PLAST-RC INDÚSTRIA E COMÉRCIO DE EMBALAGENS PLÁSTICAS LTDA., em que pretende a admissão de recurso especial, que desafia acórdão assim ementado (e-STJ fl. 72):
+Execução fiscal. Penhora de bens. Impedimento de inscrição da devedora-executada no CADIN. Inadmissibilidade. Ausência de suspensão da exigibilidade do crédito tributário (CTN, art. 151, II). Recurso desprovido.
+No apelo nobre (e-STJ fls. 77/86), a recorrente apontou violação do art. 7º da Lei n. 10.522/2002. Sustentou, em resumo, que esse dispositivo também deve ser aplicado, por analogia, na esfera estadual, de modo que a penhora de bens suficientes para a garantia da execução fiscal é suficiente para a exclusão do nome da devedora do Cadin paulista.
+Sem contrarrazões (e-STJ fl. 90).
+O Tribunal de origem obstou o recurso especial com base na Súmula 7 do STJ (e-STJ fl. 91), fundamento com o qual não concorda a agravante (e-STJ fls. 94/103).
+Sem contraminuta (e-STJ fl. 105).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, cumpre salientar que o presente recurso especial se origina de agravo de instrumento aviado contra decisão, que indeferiu o pedido da empresa recorrente de exclusão do Cadin-estadual.
+A Corte a quo manteve a decisão então agravada com a seguinte motivação:
+Respeitadas as razões recursais, entendo não caber entendimento diverso do original, porquanto só se justifica a suspensão da execução fiscal nas hipóteses de suspensão da exigibilidade do crédito tributário. E a suspensão da exigibilidade do débito tributário somente é admissível mediante o depósito do tributo, pelo seu montante integral, nos moldes do artigo 151, II, do Código Tributário Nacional e da orientação exarada pela Súmula 112 do Superior Tribunal de Justiça, pois possibilita sua conversão em renda, se o caso, situação inocorrente no caso em voga.
+Por sua vez, dispõe o artigo 8º, da Lei n. 12.799/08, que criou o Cadastro Informativo dos Créditos não Quitados de órgãos e entidades estaduais - CADIN Estadual, que: O registro do devedor no CADIN ESTADUAL ficará suspenso na hipótese de suspensão da exigibilidade da pendência objeto do registro, nos termos da lei.
+Nem cabe invocar aqui aplicação da Lei Federal nº 10.522/2002, a toda evidência de nenhum alcance aqui, por dispor sobre a inscrição de débitos não quitados de órgãos e entidades federais.
+Do que se observa, o acórdão julgou a pretensão da empresa com base em interpretação da lei local que instituiu o Cadin-estadual, cuja revisão é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF. Nesse mesmo sentido, vide: AgInt no REsp 1.603.466/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 27/10/2017; AgInt no REsp 1.576.817/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/04/2017.
+Por outro prisma, constato que o apelo especial em comento é voltado contra acórdão que julgou válida lei local (Lei paulista n. 12.799/2008) e que agora é contestada em face de lei federal (Lei n. 10.522/2002), sendo certo que essa impugnação é de índole constitucional, própria de recurso extraordinário (art. 102, III, "d", da Constituição Federal).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
