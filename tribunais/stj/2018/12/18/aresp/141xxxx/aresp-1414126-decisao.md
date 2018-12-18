@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pela Junta Comercial do Paraná contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 558):
+AGRAVO RETIDO - AUSÊNCIA DE REQUERIMENTO EXPRESSO PARA APRECIAÇÃO NO RECURSO DE APELAÇÃO - NECESSIDADE - INTELIGÊNCIA DO DISPOSTO NO ARTIGO 523, §1º DO CÓDIGO DE PROCESSO CIVIL/1973 - RECURSO NÃO CONHECIDO.
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - RESPONSABILIDADE CIVIL DA JUNTA COMERCIAL - AUTARQUIA QUE NÃO EFETUOU REGISTRO DE ALTERAÇÃO CONTRATUAL DE EXCLUSÃO DE SÓCIO DA SOCIEDADE EMPRESÁRIA - DÍVIDAS CONTRAÍDAS POR SÓCIO EXCLUÍDO DA SOCIEDADE - INSCRIÇÃO INDEVIDA DA EMPRESA EM CADASTROS DE RESTRIÇÃO DE CRÉDITO - DANO MORAL CONFIGURADO - RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 35 da Lei nº 8.934/94 e 40 do Decreto nº 1.800/96. Sustenta que a lei não exige o reconhecimento de firma ou a autenticação dos documentos protocolados, de modo que, a autoria de eventual falsidade é de terceiro, não podendo ser imputada à ora agravante.
+A parte agravada deixou o prazo de impugnação transcorrer in albis, cf. certidão de fl. 642.
+É o relatório.
+O Tribunal de origem assim dirimiu a controvérsia dos autos (fls. 562/564):
+Da análise dos autos, especialmente do depoimento da representante da autora, mov. 1.75, denota-se que a empresa foi surpreendida no ano de 2009 com a inscrição de seu nome em cadastro de restrição de crédito - SERASA, em razão de dívidas contraídas pelo ex-sócio da empresa, Sr. [NOME].
+ ..
+De outro lado, as dívidas que deram ensejo à inscrição da empresa em cadastros restritivos de crédito são posteriores à alteração contratual e foram contraídas pelo Sr. [NOME] no ano de 2009, conforme informação do Serasa, mov. 1.9.
+ ..
+Frise-se que, não se trata de obrigação de comunicação dos atos de registro empresarial a quaisquer órgãos, o que se exige, é que o protocolo feito perante uma Regional seja levado a conhecimento e arquivado no setor responsável por centralizar tais informações dentro da Jucepar, a fim de viabilizar eventual consulta a dados empresariais.
+A responsabilidade civil e o consequente surgimento da obrigação de reparar, segundo critérios tradicionalmente apontados pela doutrina e, de acordo com o disposto pelo artigo 927 do Código Civil, imprescinde da existência de três requisitos, quais sejam: a conduta ilícita, a ocorrência de dano e o nexo de causalidade entre ambas.
+ ..
+No caso dos autos, comprovado o protocolo da alteração contratual em março de 2004 pela empresa autora junto ao Escritório Regional da Jucepar em Toledo e inexistindo arquivamento de tais dados no órgão, obrigação esta que lhe é imposta por Lei, sua responsabilidade pelos danos daí emergentes resta inconteste, como bem fundamentou o MM. Juiz.
+Nesse contexto, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. No caso, aduz o recorrente, em suma, que a Junta Comercial não pode ser responsabilizada por não ter tido cautela na análise do registro, uma vez a lei proíbe a exigência de autenticação e não prevê a avaliação dos documentos protocolados, de modo que inexistiu omissão no serviço prestado.
+Ocorre que, o Tribunal a quo solucionou a controvérsia asseverando que a responsabilidade, no caso dos autos, derivou do fato de a agravante ter deixado de efetuar o registro das alterações societárias da agravada, a despeito do protocolo da documentação, fato que gerou prejuízos à empresa posteriormente.
+ Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: REsp 1.260.020/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/8/2011; AgRg no Ag 1.238.729/PE, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 13/9/2010.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
