@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 238, e-STJ):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. INCORPORAÇÃO DAS DIFERENÇAS DESCONSIDERADAS PELA LIMITAÇÃO DO SALÁRIO-DE- BENEFÍCIO AO TETO DO SALÁRIO-DE-CONTRIBUIÇÃO - ADIMPLEMENTO REALIZADO DE MODO CORRETO NA VIA ADMINISTRATIVA.
+1. A recuperação das diferenças desconsideradas pela limitação do salário- de-benefício ao teto do salário-de-contribuição podem ser feitas inclusive já desde o primeiro reajuste do benefício (art. 26 da Lei n.º 8.870/94, art. 21, §3º, da Lei n.º 8.880/94, e art. 35, § 3º, do Decreto n.º 3.048/99) e nos subsequentes, bem como por ocasião da alteração do valor máximo do salário de contribuição. 2. Considerando que a diferença percentual imposta pelo § 3º do art. 35 do Decreto nº 3.048/99 já foi implantada administrativamente pela autarquia de modo correto, nada há remanescente a ser implementado.
+3. Agravo interno do INSS desprovido
+A parte recorrente alega violação do art. 21, § 3º, da Lei n. 8.880/1994, do art. 35, § 3º, do Decreto 3.048/1999 e do art. 29 da Lei 8.213/1991, ao argumento de a referida legislação impõe que, no primeiro reajuste, seja incorporada a diferença percentual entre a média dos 80% maiores salários de contribuição multiplicada pelo fator previdenciário e o limite do teto do mês que foi implantado o benefício. Sustenta que o fator previdenciário sendo, atualmente, elemento essencial do cálculo do salário de benefício das aposentadorias, nos termos do art. 29 da Lei 8.213/1991, ele deve compor o cálculo do reajuste em voga.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 276, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O Tribunal a quo manifestou-se quanto ao ponto controverso adotando as seguintes razões de decidir (fl. 214, e-STJ):
+Considerando que após a concessão do benefício a diferença percentual entre a média apurada e o limite máximo do salário-de-contribuição foi incorporada ao valor do benefício com o primeiro reajuste, não assiste razão à insurgência da parte apelante, pois resta comprovada a estrita observância pelo INSS do disposto no § 3º do art. 35 da Lei nº 8.213/91, ao aplicar de forma integral a diferença apurada, resultando em uma renda mensal de R$ 2.127,87 no mês de maio de 2004 (PROCADM4 e PROCADM5, evento 1).
+O cálculo apresentado pelo autor possui critério equivocado, pois utilizou o salário de benefício sem a aplicação do teto, resultando valor em desacordo a legislação de regência.
+Nota-se, assim, que a tese defendida no recurso que não foi objeto de juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Com efeito, a diferença apurada nos cálculos refere-se à aplicação do teto, não do fator previdenciário. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
