@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MILITAR. REGIME. CURSO DE FORMAÇÃO. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+II - Embargos de declaração não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu dos embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de mandando de segurança impetrado por [NOME] [NOME] contra ato omissivo do GOVERNADOR DO ESTADO DE GOIÁS, COMANDANTE GERAL DA POLÍCIA MILITAR DO ESTADO DE GOIÁS, SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO DO ESTADO DE GOIÁS E DO ESTADO DE GOIÁS, consubstanciado na sua não convocação para a realização do curso de formação dos soldados classificados em cadastro reserva do concurso da Polícia Militar do Estado de Goiás, realizado em 2012.
+No tribunal a quo, julgou-se extinto o processo, em razão da inadequação da via eleita. A segurança foi denegada conforme a seguinte ementa do acórdão:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA POLÍCIA MILITAR. CADASTRO DE RESERVA. LEGITIMIDADE DO GOVERNADOR DO ESTADO. SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO E O COMANDANTE GERAL DA POLÍCIA MILITAR. PARTE ILEGÍTIMA. INADEQUAÇÃO DA VIA ELEITA. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. O Governador do Estado de Goiás é parte legítima para figurar no polo passivo do mandado de segurança porque apenas ele poderá promover a nomeação de candidatos aprovados em concurso público estadual para a Polícia Militar, conforme
+inciso XII, da Constituição Estadual.
+2. O Secretário de Estado de Gestão e Planejamento e o Comandante Geral da Polícia Militar, não podem responder pelo mandamus porque a nomeação dos aprovados dar-se-á por meio de Decreto Executivo, de competência privativa do Governador do Estado de Goiás.
+3. O mandado de segurança não se mostra como remédio heróico aos interesses do impetrante, quando na ação civil pública, na qual foi questionado a validade do SIMVE, reconheceu o direito subjetivo à nomeação de integrantes de cadastro de reserva, com observância de limite orçamentário, razão pela qual deverá o pretenso direito ser buscado naqueles autos, por meio do cumprimento individual (ainda que provisório) da sentença coletiva.
+4. Configura inadequação da via eleita quando a pretensão do impetrante já foi objeto de ação civil pública, na qual deverá buscar o cumprimento.
+5. Estando ausente o direito líquido e certo a ensejar o mandado de segurança, por inadequação da via eleita, é de se extinguir o processo, sem resolução de mérito, com a conseqüente denegação da segurança Segurança denegada. Processo extinto sem resolução do mérito.
+Foi interposto recurso ordinário em mandado de segurança, interposto com fulcro no art. 105, II, b, da Constituição Federal e art. 1.027, II, a, do Código de Processo Civil, apresentado por [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás.
+ Com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não se conheceu do recurso ordinário.
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA POLÍCIA MILITAR. CADASTRO DE RESERVA. LEGITIMIDADE DO GOVERNADOR DO ESTADO. SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO E O COMANDANTE GERAL DA POLÍCIA MILITAR. PARTE ILEGÍTIMA. INADEQUAÇÃO DA VIA ELEITA. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. O Governador do Estado de Goiás é parte legítima para figurar no polo passivo do mandado de segurança porque apenas ele poderá promover a nomeação de candidatos aprovados em concurso público estadual para a Polícia Militar, conforme
+inciso XII, da Constituição Estadual.
+2. O Secretário de Estado de Gestão e Planejamento e o Comandante Geral da Polícia Militar, não podem responder pelo mandamus porque a nomeação dos aprovados dar-se-á por meio de Decreto Executivo, de competência privativa do Governador do Estado de Goiás.
+3. O mandado de segurança não se mostra como remédio heróico aos interesses do impetrante, quando na ação civil pública, na qual foi questionado a validade do SIMVE, reconheceu o direito subjetivo à nomeação de integrantes de cadastro de reserva, com observância de limite orçamentário, razão pela qual deverá o pretenso direito ser buscado naqueles autos, por meio do cumprimento individual (ainda que provisório) da sentença coletiva.
+4. Configura inadequação da via eleita quando a pretensão do impetrante já foi objeto de ação civil pública, na qual deverá buscar o cumprimento.
+5. Estando ausente o direito líquido e certo a ensejar o mandado de segurança, por inadequação da via eleita, é de se extinguir o processo, sem resolução de mérito, com a conseqüente denegação da segurança Segurança denegada. Processo extinto sem resolução do mérito.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais. Nesse sentido é a jurisprudência:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE INDICAÇÃO, NAS RAZÕES DO RECURSO, DE QUALQUER UM DOS VÍCIOS DO ART. 535 DO CPC. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. EMBARGOS NÃO CONHECIDOS.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 535 do CPC, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo o teor da Súmula 284/STF.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 181.826/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/10/2015, DJe 21/10/2015)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. FALTA DE INDICAÇÃO DOS VÍCIOS RELACIONADOS NO ART. 535 DO CPC. JUÍZO NEGATIVO DE ADMISSIBILIDADE DOS DECLARATÓRIOS. 1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 535 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 536 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. 2. Embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 54.614/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 4/8/2015, DJe 12/8/2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. DENÚNCIA ESPONTÂNEA. MULTA MORATÓRIA. FALTA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC. 1. Não podem ser conhecidos os embargos de declaração manejados com o nítido propósito de discussão de matéria já decidida e que não indicam os vícios elencados no art. 535 do CPC capazes de macular o decisório embargado. .. (AgRg nos EDcl no Ag 1058760/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/5/2009, DJe 1º/6/2009).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO EXTRAORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO.
+INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REITERAÇÃO DE EMBARGOS COM INTUITO MANIFESTAMENTE PROTELATÓRIO. ABUSO DO DIREITO DE RECORRER. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, o recurso integrativo não deve ser conhecido.
+II - A reiteração de embargos de declaração sem ao menos se indicar qual o ponto supostamente omisso indica o intuito protelatório do recurso.
+III - Embargos de declaração não conhecidos.
+(EDcl nos EDcl nos EDcl no ARE no RE nos EDcl nos EDcl no AgRg no AREsp 114.352/RJ, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 1º/7/2014, DJe 5/8/2014).
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
