@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+APELAÇÃO E REEXAME NECESSÁRIO - Repetição do Indébito - ITBI - Imóvel integralizado pelos sócios da pessoa jurídica executada, cujas atividades preponderantes não são transações imobiliárias - Recurso desprovido.
+Não foram opostos Embargos de Declaração.
+A parte recorrente alega, em breve síntese, violação dos arts. 373, I, do CPC/2015; 37 do CTN. Sustenta: "(..) se o autor, ora recorrido, pretende o reconhecimento de seu direito à imunidade ao ITBI, forçoso reconhecer-se que deve fazer prova dos requisitos legais que dão esteio a essa imunidade. Havendo discussão a respeito de quem deva providenciar tal prova, é incidência inafastável a regra geral referente aos ônus da prova, inserta no art. 373, I do Código de Processo Civil".
+Aduz, ainda, que "(..) ao reconhecer a imunidade ao ITBI em razão da transação imobiliária descrita na inicial- seja-nos permitido dizê-lo com o máximo acatamento - ignorou expresso comando normativo pertinente à matéria, que determina seja a prova feita avaliando-se as suas atividades num certo período em relação à data da transmissão imobiliária noticiada nos autos, em atenção ao artigo 37 do Código Tributário Nacional".
+Contrarrazões apresentadas às fls. 117-120, e-STJ.
+O Recurso Especial não foi admitido pelo Tribunal de origem.
+Dei provimento ao Agravo em Recurso Especial, para determinar sua conversão em Recurso Especial, sem prejuízo de exame mais profundo de admissibilidade.
+É o relatório.
+Decide-se.
+Os autos foram recebidos neste Gabinete em 30.11.2018.
+A irresignação não merece acolhida.
+Ao dirimir a controvérsia, com base no suporte fático-probatório do autos, a Corte de origem consignou (fls. 92-95, e-STJ):
+ ..
+Não vingam as questões prejudiciais suscitadas pelo Município.
+Inicialmente, os documentos que instruíram a petição inicial dispensam demais provas da desincorporação imobiliária, sobretudo porque o Município não demonstrou interesse na produção de provas (fls. 52).
+Já a falta de prequestionamento administrativo, como requisito para legitimar o acesso judicial, também não encontrou inconformismo por parte do fisco nem constitui óbice legal ao exercício do direito subjetivo de ação, como proclama o artigo 5º, inciso XXXV, da Constituição Federal.
+Quanto à questão de fundo, os documentos carreados a fls. 17/23 dos autos demonstram, inequivocamente, a regular desincorporação do imóvel diante da redução do capital social da empresa outorgante, em favor das pessoas físicas dos sócios e também demandantes, a atender o disposto no artigo 36, I, parágrafo único, do Código Tributário Nacional, sendo certo, ainda, que tanto a sociedade como os sócios beneficiários não têm como atividade preponderante a venda ou locação de bens imóveis, afastando a incidência da vedação prevista no artigo 37, do CTN, de maneira que a sentença deu solução adequada à controvérsia e, por isso, deve ser mantida.
+Do trecho acima transcrito, extrai-se: a) os documentos que instruíram a petição inicial dispensam demais provas da desincorporação imobiliária, não tendo o Município demonstrado interesse na produção de provas; b) os elementos probatórios juntados aos autos atestam, de forma inequívoca, a regular desincorporação do imóvel, considerando a redução do capital social da empresa, em favor das pessoas físicas dos sócios; c) a sociedade e os sócios beneficiários não têm como atividade preponderante a venda ou locação de bens imóveis.
+Assim, modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente de que não foi comprovado o preenchimento dos requisitos legais para a fruição do benefício fiscal, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de afronta à Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ITBI. BASE DE CÁLCULO. ACÓRDÃO AMPARADO EM LEI MUNICIPAL.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado com a finalidade de afastar a base de cálculo apurada pelo Município em relação ao ITBI.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória. Incide, na espécie, a Súmula 7/STJ.
+3. A sentença e o acórdão fundamentaram suas decisões nas Leis Municipais 10.235/1986, 11.152/1991, 11.154/1991 e 13.250/2001, bem como nos Decretos municipais 37.923/99, 27.771/1989 e 46.228/2005.
+4. O STJ tem reconhecido que, no caso dos autos, incide, por analogia, a Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+5. Recurso Especial não conhecido. (REsp 1.701.884/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITBI. VENDA E LOCAÇÃO DE IMÓVEIS. INCIDÊNCIA. REQUISITOS PARA A FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. À luz dos arts. 36 e 37 do CTN, a transmissão de propriedade e/ou de direitos reais, bem como a cessão de direitos correlata, por ocasião de venda ou locação de imóveis, estão sujeitos à incidência do ITBI, exceto se forem necessários à realização de capital social ou à fusão, incorporação, cisão ou extinção da pessoa jurídica.
+2. Verificada que a atividade empresarial é a venda e a locação de imóveis, as transmissões de propriedade e de direitos reais serão, regularmente, tributadas, sendo que, caso não seja esse o fim da sociedade empresária, ocorrendo o fato gerador, o fisco deve apurar a composição da receita operacional, "nos 2 (dois) anos anteriores e nos 2 (dois) anos subseqüentes à aquisição" ou, se iniciada a atividade após a aquisição, ou menos de 2 anos antes, "nos 3 primeiros anos seguintes à data da aquisição".
+3. Hipótese em que o recurso especial encontra óbice na Súmula 7 do STJ, porquanto o órgão julgador a quo, após análise das provas dos autos, concluiu que a recorrente, por ocasião do fato gerador, atuava no mercado de imóveis, não sendo necessária, dessa forma, a investigação a respeito da preponderância da atividade societária.
+4. Considerada a premissa de que houve tentativa de fraude contra o fisco, a situação fática descrita pelo Tribunal de Justiça não permite, em juízo de revaloração, o entendimento de que seria aplicável o prazo trienal do § 2º do art. 37 do CTN para apuração da atividade preponderante à época do fato gerador.
+5. Agravo interno não provido. (AgInt no REsp 1.533.249/SC, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 13.9.2017)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ITBI. ANÁLISE DOS REQUISITOS PARA APLICAÇÃO DE BENEFÍCIO TRIBUTÁRIO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MATÉRIA ANALISADA PELA CORTE DE ORIGEM À LUZ DO ART. 156, § 2º, I, DA CF/88. COMPETÊNCIA DO STF.
+1. A verificação do atendimento, ou não, dos requisitos contidos no art. 37, § 4º, do CTN demanda a incursão nos documentos já acostados nos autos, diligência vedada na via especial em razão do óbice contido na Súmula 7 do STJ, que também se aplica aos recursos especiais fundados na alínea "c" do art. 105, III, da Constituição Federal. Precedentes.
+2. O Tribunal de origem decidiu a lide com amparo em fundamento exclusivamente constitucional (art. 156, § 2º, inc. I, da CF/88), o que impede a análise do tema em sede de recurso especial, sob pena de usurpação da competência do STF, conforme dispõe o art. 102, III, do permissivo constitucional.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 849.995/RS, Rel. Min. Diva Malerbi - conv., Segunda Turma, DJe 8.6.2016)
+Diante do exposto, com fundamento no art. 932, III, do CPC/2015, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
