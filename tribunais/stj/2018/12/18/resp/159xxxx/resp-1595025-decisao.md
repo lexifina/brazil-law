@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONTRIBUINTE DE ISS OU ICMS. ANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/AC, assim ementado (fl. 219):
+CONSTITUCIONAL E TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. EMPRESA DE CONSTRUÇÃO CIVIL. OPERAÇÕES INTERESTADUAIS. COMPRA DE VEÍCULOS PESADOS E EQUIPAMENTOS RELACIONADOS À ATIVIDADE-FIM DA EMPRESA. DIFERENCIAL DE ALÍQUOTA. COBRANÇA. FATO GERADOR. INEXISTENTE. CONTRIBUINTE DO ISQN. LC nº 116/2003, LISTA DE SERVIÇOS ANEXA À LEI COMPLEMENTAR, ITENS 7.02 e 7.05.
+1. As empresas de construção civil, quando adquirem bens necessários ao desenvolvimento de sua atividade-fim não são contribuintes do ICMS.
+2. Demonstrado nos autos a aquisição de máquinas pesadas e equipamentos relacionados à construção civil, edificações residenciais, industriais, comerciais e reformas em geral, ramos de atividades estes integrantes do objeto social da empresa, resta comprovada a destinação exclusiva dos bens na atividade- fim da pessoa juridica.
+3. A conduta da apelante de identificar-se como contribuinte do ICMS no momento da aquisição da mercadoria em outros estados, aproveitando-se da aliquota interestadual, e, paradoxalmente, argumentar perante o Fisco de destino que não é contribuinte do ICMS, para escapar da complementação da exação, possibilita a aplicação de multa, mas não a cobrança do diferencial de aliquota. Precedentes Resp. nº 620.112/MT, Rel. Ministro Herman Benjamin, RE nº 417.912/SE, Rel. Roberto Barroso.
+4. Apelação parcialmente provida.
+Embargos de declaração rejeitados.
+O recorrente alega sustenta ofensa ao(s) artigo 4º da LC 87/1993 , sob os seguintes argumentos: (a) houve a adoção de uma premissa errônea pelo acórdão recorrido, uma vez que, não obstante a previsão de mercancia no objeto social da empresa e a inscrição estadual, concluiu que não estaria configurado a condição de contribuinte do ICMS, sob o argumento de que os bens adquiridos não seriam aptos a revenda, diante da atividade que exerce a recorrida; (b) nesse sentido, destaca o recorrente que "houve equívoco do julgador, na medida em que desconsiderou a condição de contribuinte do ICMS do recorrido/impetrante. Está cabalmente comprovado nos autos, além de restar reconhecido no arresto impugnado (vide tópico do prequestionamento), que o contrato social da recorrida/impetrante incluiu o comércio varejista em geral de material hospitalar e de construção, além de produtos farmacêuticos, artigos de perfumaria, cosmético e gêneros alimentícios. Tal previsão é por si só suficiente para o enquadramento da parte contrária como contribuinte do ICMS" (fl. 365).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 384.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que diz respeito ao(s) artigo 4º da LC 87/1993, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o recorrido não é contribuinte do ICMS.
+O recorrente, por sua vez, fazendo referência ao contrato social da empresa, sustenta estar "cabalmente comprovado nos autos, além de restar reconhecido no arresto impugnado (vide tópico do prequestionamento), que o contrato social da recorrida/impetrante incluiu o comércio varejista em geral de material hospitalar e de construção, além de produtos farmacêuticos, artigos de perfumaria, cosmético e gêneros alimentícios".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre o fato de a empresa ser ou não contribuinte de ICMS demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRESA DE CONSERVAÇÃO E REPARAÇÃO DE ESTRADAS. INSUMO A SER EMPREGADO NA PRÓPRIA OBRA. ISS OU ICMS. ANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O acórdão atacado consignou que "o concreto produzido pela autora é mercadoria, algo que se produz para vender a terceiros, que é objeto de comércio. A recorrida vende, realiza operações de circulação de mercadorias com o concreto que produz para as empreiteiras, que o utilizam nas obras de construção civil. ".
+Dessa conclusão extraiu-se que apenas seria contribuinte do ISS, não sendo cabível a cobrança do ICMS.
+2. Em matéria de prova, as instâncias ordinárias são soberanas, não podendo o STJ, em Recurso Especial, apreciar eventual desacerto na sua análise. Incidência da Súmula 7. Precedentes do STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 572.340/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/12/2014, DJe 09/12/2014)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
