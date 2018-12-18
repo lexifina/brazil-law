@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo PABLO LAMEIRA DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará (n. 0004083-23.2013.8.14.0201) assim ementado (e-STJ, fl. 428):
+APELAÇÃO CRIMINAL. ART. 121, §2º, INCISO IV DO CPB. DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. INOCORRÊNCIA. SOBERANIA DOS VEREDICTOS. ANÁLISE DA DOSIMETRIA SUSCITADA PELO PARQUET E PROCEDIDA DE OFÍCIO, ANTE EQUÍVOCO NO EXAME DAS CIRCUNSTÂNCIAS JUDICIAIS. QUANTUM MANTIDO ANTE A PERSISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+1. Não procede a alegação de que a decisão dos jurados foi manifestamente contrária à prova dos autos, pois o conjunto fático-probatório constante do prócesso, baseado nas declarações das testemunhas em juízo, cujos depoimentos foram exibidos em vídeo no plenário, é suficientemente capaz de embasar o édito condenatório. Inviabilizada, assim, a almejada anulação da soberana decisão do Júri Popular, mesmo porque não é qualquer dissonância entre o veredicto e os elementos probatórios constantes dos autos que autoriza a cassação do julgamento. Somente quando a decisão do júri não encontrar nenhum apoio na prova dos autos é que poderá ser invalidada.
+2. É sabido que o recurso de apelação de decisão proferida pelo Tribunal do Júri possui caráter restrito, e seu efeito devolutivo se restringe, tão somente, às alegações cujos fundamentos se encontrem esposados no termo de interposição, conforme preceitua a Súmula n.º 713 do STF Contudo, ainda que não tenha a defesa se insurgido quanto a este ponto, há de ser analisado de ofício, conforme opina o Parquet, ante a verificação de equívocos por ocasião da análise das circunstâncias judiciais do art. 59 do CPB e, tratando- se a dosimetria da pena, de matéria de ordem pública.
+3. A ausência de justificação adequada por ocasião da análise de alguns critérios do art. 59 do CPB, devidamente corrigida neste voto, não autoriza a redução da pena -base, que se revela justa e suficiente para a reprovação e prevenção do crime em tela.
+4. RECURSO CONHECIDO E IMPROVIDO à unanimidade, nos termos do voto da Desembargadora Relatora.
+Nas razões do apelo nobre (e-STJ, fls. 442-456), o insurgente aponta violação ao art. 59 do CP.
+Em síntese, alega que a pena-base foi exasperada sem motivos concretos e idôneos.
+Aduz que devem ser consideradas favoráveis a culpabilidade, as circunstâncias do crime e os motivos.
+Sustenta que, embora o Tribunal de origem tenha considerado favoráveis os antecedentes, as consequências do crime e o comportamento da vítima, mesmo assim manteve a o quantum de pena aplicada na sentença de primeiro grau.
+Defende que fixação da pena foi desproporcional e inadequada.
+Requer a reforma do acórdão recorrido.
+Contrarrazões às fls. 464-473 (e-STJ).
+Após juízo de admissibilidade (e-STJ, fls. 475-479), os autos ascenderam a esta Corte Superior.
+O Subprocurador-Geral da República, [NOME], opinou pelo não conhecimento
+ do inconformismo (e-STJ, fls. 489-493).
+É o relatório.
+Na origem, o recorrente foi condenado à pena de 17 (dezessete) anos, 10 (dez) meses e 17 (dezessete) dias de reclusão, pela prática do delito previsto no art. 121, § 2º, IV, do CP. Ao realizar o cálculo dosimétrico, o magistrado sentenciante considerou desfavoráveis os antecedentes, os motivos, as circunstâncias e consequências do crime e o comportamento da vítima (e-STJ, fl. 359).
+Instado a se manifestar, o Tribunal de Justiça paraense considerou como favoráveis os antecedentes, as consequências do crime e o comportamento da vítima, mantendo como negativas a culpabilidade, as circunstâncias do crime e os motivo. Após realizar essa operação, a Corte local manteve a pena-base em 20 (vinte) anos de reclusão, conforme sopesado na sentença de primeiro grau (e-STJ, fls. 434-435).
+Daí o recurso especial defensivo.
+A jurisprudência deste Tribunal Superior entende que a pena-base só pode ser exasperada pelo magistrado mediante aferição negativa de elementos concretos dos autos, a denotar maior reprovabilidade da conduta imputada.
+Em relação à culpabilidade, o Tribunal de origem assentou que "a violência utilizada ultrapassou aquela já punida pelo próprio dispositivo penal, visto que demonstrou a audácia e a premeditação do apelante e seu corréu, que planejaram a morte da vítima, a qual ainda correu, mas foi perseguida e morta com três disparos de revólver" (e-STJ, fl. 434).
+Desse modo, não se observa nenhuma ilegalidade a ser reparada, pois, conforme o entendimento consolidado no âmbito desta Corte, "a premeditação constitui elemento idôneo a justificar o desvalor das circunstâncias do delito, pois denota maior gravidade da infração penal" (EDcl no AgRg no AREsp 633.304/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/4/2017, DJe 3/5/2017).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO REGIMENTAL. DOSIMETRIA. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. FUNDAMENTOS IDÔNEOS PARA A MAJORAÇÃO DA PENA-BASE. AUSÊNCIA DE BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A premeditação e o fato de o paciente ser um dos mandantes que arquitetou, de dentro do presídio - enquanto estava preso preventivamente em decorrência de outros processos -, o assassinato da vítima, são fundamentos idôneos para considerar desfavorável a vetorial referente à culpabilidade, com o consequente aumento da pena-base acima do mínimo legal.
+ ..
+7. Agravo regimental não provido. (AgRg no HC 398.466/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/04/2018, DJe 16/04/2018 - sem grifo no original)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. VETORIAL DA CULPABILIDADE. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA PARA O DESFAVORECIMENTO. BIS IN IDEM NA VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. INOCORRÊNCIA. DESLOCAMENTO DA QUALIFICADORA DO USO DE MEIO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - "Legítima a exasperação da pena-base, pela circunstância judicial da culpabilidade, fundamentada na premeditação e preparo da conduta delituosa" (HC n. 295.911/GO, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 17/6/2016).
+ ..
+Agravo regimental desprovido. (AgRg no HC 373.415/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/03/2017, DJe 27/03/2017 - sem grifo no original)
+Além disso, a audácia/ousadia do agente na execução do delito é elemento apto a negativar a referida vetorial.
+Nessa linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA DE CERCEAMENTO DE DEFESA. ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. RECONHECIMENTO DA TESE DE CRIME IMPOSSÍVEL. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. ELEVAÇÃO DA PENA-BASE. CULPABILIDADE. FUNDAMENTO ADEQUADO.
+ ..
+IV - Não há ilegalidade no v. acórdão recorrido que, analisando o art. 59 do CP, verifica a existência de circunstância judicial desfavorável apta a manter a fixação da pena-base acima do mínimo legal, como no caso, em que valorou-se negativamente a culpabilidade do agente, evidenciada na audácia considerável, a ultrapassar o tipo penal, ao usar o documento falso para prática de atos notariais.
+Agravo regimental desprovido. (AgRg no REsp 1493155/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/10/2016, DJe 28/10/2016 - sem grifo no original)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CULPABILIDADE. EXECUÇÃO DO DELITO. MAIOR PERICULOSIDADE DO AGENTE. CIRCUNSTÂNCIAS DO CRIME. ASPECTOS PERIFÉRICOS NÃO VALORADOS. TEMOR DAS VÍTIMAS E AÇÃO ADREDEMENTE PREPARADA. FUNDAMENTOS IDÔNEOS QUE NÃO SE CONFUNDEM.
+1. No que toca à culpabilidade, a análise do decidido nas instâncias ordinárias deixa assente que o modus operandi adotado na execução do delito retrata a maior periculosidade e ousadia do agravante, o que justifica a exasperação da basal.
+ ..
+5. Agravo regimental não provido. (AgRg no HC 322.402/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/08/2017, DJe 17/08/2017 - sem grifo no original)
+Quanto às circunstâncias do crime, a Corte local afirmou que "o crime foi iniciado dentro de um estabelecimento comercial, onde havia várias pessoas, que saíram correndo" (e-STJ, fl. 435).
+Percebe-se que a motivação empregada é idônea, pois a execução delitiva, por meio de disparo de arma de fogo, ocorreu em ambiente onde se encontrava várias pessoas, situação que, além de merecer maior reprovação, excede os elementos inerentes ao tipo penal, nos termos da jurisprudência do Tribunal da Cidadania:
+ABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADES: AUSÊNCIA DE CORRESPONDÊNCIA ENTRE O LIBELO ACUSATÓRIO E A PRONÚNCIA. AUSÊNCIA E DEFICIÊNCIA DA DEFESA. NULIDADE NA FORMULAÇÃO DOS QUESITOS. NULIDADE POR FALTA DE APRECIAÇÃO, PELO ACÓRDÃO ESTADUAL, DE TODAS AS TESES DE DEFESA. PRECLUSÃO. SÚMULA 523/STF. ARESTO ESTADUAL QUE ANALISOU, PONTUALMENTE E FUNDAMENTADAMENTE, TODAS AS QUESTÕES SUSCITADAS NO RECURSO DE APELAÇÃO. PRETENSÃO, EM VERDADE, DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPROPRIEDADE DO MANDAMUS. PRECEDENTES. INEXISTÊNCIA DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. DOSIMETRIA DA PENA. PENA-BASE FIXADA ADEQUADAMENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM DENEGADA.
+ ..
+8. Inexiste constrangimento ilegal a ser sanado pela via do Habeas Corpus, se a majoração da pena-base acima do mínimo legal restou devidamente motivada pelo Julgador, na forma do art. 59 do CPB, em vista do reconhecimento de circunstâncias judiciais desfavoráveis do paciente, principalmente as circunstâncias do crime, que ocorreu em via pública, com o disparo que acertou a vítima desferido em meio a considerável número de pessoas.
+9. Parecer do MPF pela denegação da ordem.
+10. Ordem denegada. (HC 88.464/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 24/11/2008, DJe 19/12/2008 - sem grifo no original)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL GRAVÍSSIMA. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. RECRUDESCIMENTO PROPORCIONAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE DO AGENTE, CIRCUNSTÂNCIAS, MOTIVO E CONSEQUÊNCIAS DO DELITO. INCIDÊNCIA DA ATENUANTE DE CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..  As circunstâncias do delito, praticado em via pública movimentada, com risco a terceiros, também justificam desvaloração, conforme procedido em sentença.
+ ..
+Agravo regimental a que se nega provimento. (AgRg no HC 344.194/PE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/10/2016, DJe 09/11/2016 - sem grifo no original)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. HOMICÍDIO PRIVILEGIADO. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. DISPARO EM VIA PÚBLICA. GRAVIDADE CONCRETA. RISCO À VIDA DE TERCEIROS. FUNDAMENTO IDÔNEO. FRAÇÃO DE DIMINUIÇÃO DECORRENTE DO PRIVILÉGIO. REVISÃO. MATÉRIA DE CUNHO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. O fundamento para o desvalor concebido às circunstâncias do crime revela-se idôneo, haja vista a prática de disparos de arma de fogo em plena via pública, porque o recorrente colocou em risco, ainda que potencialmente, a vida de terceiros. Precedente.
+ ..
+3. Agravo regimental improvido. (AgRg no REsp 1558481/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/02/2016, DJe 23/02/2016 - sem grifo no original)
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO E PORTE ILEGAL DE ARMA. DOSIMETRIA. PENA-BASE. MAJORAÇÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA.
+ ..
+2. Admite-se a exasperação da pena-base, no crime de homicídio, com fundamento na efetuação de disparos em via pública, circunstância que, negativamente valorada na primeira fase da dosimetria, não se confunde com a qualificadora prevista no art. 121, §2º, III, do Código Penal (perigo comum).
+ ..
+4. Habeas corpus não conhecido. (HC 312.788/DF, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 17/03/2015, DJe 27/03/2015 - sem grifo no original)
+No que concerne aos motivos do crime, observa-se que a Corte originária justificou o seu desvalor no fato de crime ter sido cometido "em razão de o réu achar que ela teve parcela de culpa na morte de seu irmão, em ocasião anterior" (e-STJ, fl. 435).
+De fato, a vingança é elemento apto a negativar os motivos do crime, conforme informa os julgados desta Corte Superior:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CONDENAÇÃO FUNDAMENTADA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS (PREMEDITAÇÃO E VINGANÇA REPROVÁVEL). DOSIMETRIA DA PENA ESCORREITA. REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - A exasperação da pena-base se deu em virtude da premeditação anormal ao tipo e de vingança reprovável, circunstâncias que revelam maior reprovabilidade em relação à culpabilidade dos réus e aos motivos do crime.
+V - In casu, o deslocamento para outro Estado, com a aquisição de veículo no dia anterior para empreender fuga e a dinâmica dos disparos efetuados são circunstâncias concretas que denotam uma premeditação anormal ao tipo, podendo valorar negativamente a culpabilidade dos pacientes. A vingança, quando não configurada a torpeza, pode ser elemento desabonador em relação aos motivos do crime, especialmente em virtude do extenso lapso temporal entre os fatos (10 anos).
+VI - Assim, verifico que a condenação imposta aos pacientes se revela proporcional e fundamentada, considerando-se que a pena abstratamente prevista para o crime de homicídio qualificado, tipificado no art. 121, §2º, do Código Penal, é de reclusão de 12 (doze) a 30 (trinta) anos.
+Habeas Corpus não conhecido. (HC 311.011/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/03/2015, DJe 10/04/2015 - sem grifo no original)
+HABEAS CORPUS. DENUNCIAÇÃO CALUNIOSA. PENA APLICADA: 2 ANOS E 2 MESES DE RECLUSÃO, EM REGIME INICIAL ABERTO, SUBSTITUÍDA POR PRESTAÇÃO DE SERVIÇOS À COMUNIDADE E MULTA. DOSIMETRIA DA PENA. PENA-BASE 2 MESES ACIMA DO MÍNIMO LEGAL. DECISÃO FUNDAMENTADA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MOTIVOS DO DELITO (VINGAR-SE DOS POLICIAIS MILITARES QUE EFETUARAM SUA PRISÃO POR DESACATO). INOCORRÊNCIA DE ALTERAÇÃO DO ART. 115 DO CPB PELO ESTATUTO DO IDOSO. PRESCRIÇÃO NÃO CONFIGURADA. PRECEDENTES. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR PRISÃO DOMICILIAR. PARECER MINISTERIAL PELA DENEGAÇÃO DA ORDEM. WRIT DENEGADO.
+1. No caso dos autos, a fixação da pena-base pouco acima do mínimo legal foi realizada de forma proporcional e suficientemente justificada, em razão do reconhecimento de circunstâncias judiciais desfavoráveis, quais sejam, os motivos do crime (vingança dos policiais militares que efetuaram sua prisão por crime anterior de desacato), inexistindo qualquer ilegalidade na espécie.
+ ..
+4. Writ denegado, em consonância com o parecer ministerial. (HC 155.437/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 07/12/2010, DJe 14/02/2011 - sem grifo no original)
+Por fim, inclusive em casos semelhantes, já se decidiu que não há impedimento que a segunda instância, em recurso exclusivo da defesa, tendo afastado circunstâncias valoradas indevidamente, mantenha o apenamento inicialmente fixado, com fundamento nas circunstâncias desfavoráveis remanescentes (HC 389.798/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/6/2017, DJe 30/6/2017; AgRg no REsp 1.663.084/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/5/2017, DJe 24/5/2017).
+Ante o exposto, com fundamento no art. 255,§ 4º, I e III, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
