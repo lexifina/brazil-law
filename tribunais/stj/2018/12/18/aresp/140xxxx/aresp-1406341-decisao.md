@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. CÁLCULOS REALIZADOS PELA CONTADORIA. PRETENSÃO DE REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela Fazenda do Estado de São Paulo em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+EXECUÇÃO DE SENTENÇA - CORREÇÃO MONETÁRIA - CÁLCULOS OBEDECENDO AS TABELAS PRÁTICAS DESTA CORTE VIGENTES NAS DATAS DE CADA UM DOS DEPÓSITOS EFETUADOS - NECESSIDADE - EMBARGOS PROCEDENTES - SENTENÇA CONFIRMADA.
+Em suas razões de recurso especial, sustenta a parte recorrente violação do art. 9º da Lei nº 7.730/1989, eis que "houve a aplicação, pelo d. Contador Judicial, de índice ilegal, relativo ao IPC para o mês de janeiro de 1989, na ordem de 70,28%, ao invés do índice correto, o qual, de acordo com o entendimento jurisprudencial, seria de 42,72%" (e-STJ fl. 297).
+Apresentadas contrarrazões (e-STJ fls. 305/310).
+A decisão agravada negou seguimento ao especial sob a compreensão de que a revisão das conclusões adotadas demandaria reexame de provas, nos termos da Súmula 7/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade recursais.
+Ofertada contraminuta (e-STJ fls. 345/348).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo o agravante impugnado os fundamentos da decisão de inadmissibilidade, passo a análise do recurso especial.
+Compulsando os autos, observo que o Tribunal de Origem ao apreciar a controvérsia apresentou os seguintes fundamentos, verbis:
+Após a impugnação de fls. 150/155, e ante a enorme discrepância verificada, os autos foram remetidos ao Serviço Técnico de Contadoria Judicial, que levando em conta as tabelas vigentes nas datas de cada um dos depósitos efetuados, apurou os saldos de R$90.152,71 precatório nº 1152/88 e R$97.623,14 (noventa e sete mil seiscentos e vinte e três reais e quatorze centavos) para o precatório nº 809/91, mantida a data-base de 30 de setembro de 2008, mediante os cálculos de fls. 167/183, integralmente acolhidos pela decisão monocrática, cujos fundamentos resistem tranqüilamente às razões expendidas em ambos os apelos, e que assim ficam expressamente ratificados, consoante permite o art. 252 do Regimento Interno desta Corte.
+"Os cálculos realizados nos autos principais foram refeitos pela Contadoria Judicial, a qual procedeu à atualização monetária da dívida para cada um dos pagamentos efetuados nos autos, tendo por base os índices da Tabela Prática do E. Tribunal de Justiça de São Paulo vigente na data de cada um dos depósitos judiciais.
+Desta forma, os cálculos de fls. 166/183 demonstram de forma irretorquível que, com a aplicação dos índices corretos de correção monetária, há excesso de execução.
+Este juízo tem por diretriz proceder à atualização monetária da dívida para cada um dos pagamentos parciais efetuados nos autos tendo por base os índices da Tabela Prática do Egrégio Tribunal de Justiça, vigente na data de cada um dos depósitos judiciais efetuados pela embargante, somente aplicando a Tabela vigente à época da apuração de insuficiência ao saldo remanescente.
+Isto porque os depósitos efetuados nos autos, quando do pagamento da dívida, tiveram por base a Tabela Prática do Egrégio Tribunal de Justiça com os indexadores monetários então vigentes, segundo a jurisprudência daquela época.
+Nunca é demais lembrar as partes que a metodologia seleção de índices inflacionários utilizada pelo E. Tribunal de Justiça para a Tabela Prática sofreu uma alteração considerável ao longo do tempo.
+Em determinado momento passou da adoção de índices pre - fixados (fixado no mês corrente, para o mês imediatamente seguinte - futuro) para os pós-fixados (fixado no mês corrente, para o mês imediatamente anterior - passado).
+Tal alteração, no momento da integração das duas tabelas, isto é, no mês de transição das mesmas, causa a falsa impressão de que não foi considerada a inflação para um mês, ou que a inflação de um mês foi considerada em dobro. Mas, tal detalhe foi observado para evitar o bis in idem para um mesmo período inflacionário.
+Em conseqüência, restou claro que por tais critérios foi assegurada às partes (credor e devedor), de forma isonômica, a utilização dos índices inflacionários que ao tempo de cada pagamento parcial obedeciam à jurisprudência dos Tribunais, garantindo-se, assim, a expressão financeira dos valores disponibilizados.
+Logo, os índices de correção monetária aplicados pela Contadoria Judicial devem prevalecer."
+Com efeito, a revisão das conclusões adotadas pelo Tribunal de Origem acerca dos cálculos realizados pela Contadoria judicial, demandaria, necessariamente, incursão no conjunto probatório dos autos, inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
