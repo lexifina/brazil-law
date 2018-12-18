@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL (CPC/15). LEGITIMIDADE PASSIVA. RECONHECIDA. SOLIDARIEDADE DA PARTE NÃO DEMONSTRADA. MATÉRIA FÁTICA E PROBATÓRIA DEVIDAMENTE EXAMINADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por MARILEO ADIMINISTRADORA DE BENS PROPRIOS LTDA - ME contra decisão que negou seguimento ao recurso especial, com fundamento no art. 105, inciso III, alínea "a", que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação cível. Locação de bem imóvel - uso comercial. Despejo por falta de pagamento cumulado com cobrança de alugueres e ,kncargos. Nova locação verbal bem extraída do arcabouço probatório. Ilegitimidade passiva "ad causam" do antigo cessionário acertadamente reconhecida. Inexistência de solidariedade entre o apontado cessionário e a nova locatária. Sentença preservada. Recurso improvido. (e-STJ, fl. 227)
+Nas razões do especial, o recorrente alega violação ao artigo 13, da Lei 8.245/91, sustentando que as partes "firmaram em 27/10/2011, instrumento particular de confissão de débito, parcelamento, assunção de obrigação e outras avenças, acostado as fls. 22/26 dos autos, através do qual o Recorrido assumiu solidariamente os direitos e obrigações do contrato de locação" (e-STJ, fl. 239).
+Assevera que não é caso de presunção de solidariedade da parte agravada, mas de assunção inegável de obrigações.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece acolhida.
+Primeiramente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, no que concerne à tese de ilegitimidade passiva, verifico que o Tribunal de origem ao analisar o acervo fático-probatório dos autos reconheceu a ilegitimidade passiva da parte agravada, como se vê:
+Extrai-se da narrativa constante da vestibular, o o dito isso, bem assim dos documentos em folhas 15/31, que novo ajuste verbal acabou celebrado entre a autora e a acionada o o Noviças Comercial de Alimentos Ltda., então locatária do imóvel, o o o do que decorre a ilegitimidade do acionado [NOME]; Infere-se do contrato em folhas 22/26, demais, celebrado entre a locadora e o cessionário [NOME], ausência de subscrição da antiga locatária Rosangela, tampouco da fiadora [NOME]; e malgrado a manuscrita exclusão do último parágrafo da cláusula terceira, de se ver que assim se achava redigido: "o locador se compromete, assim que lhe for solicitado, a firmar novo contrato de locação, caso o cessionário e novo locatário entenda necessário, quer em nome do cessionário ou de terceiro a ser indicado, por igual período". Não se deslembra, noutro enfoque, estabelecido no artigo 13 da Lei 8.245/91, ou seja, o necessário consentimento do locador, prévio e por escrito, para a validade da eventual cessão da locação; o acervo probatório, no entanto, repise-se, sinaliza, às claras, o estabelecimento de novo contrato verbal de locação entre a autora/apelante e a empresa requerida Noviças Comercial; não saltou evidenciada, tampouco, a assunção, pelo requerido [NOME], das obrigações contraídas pela empresa locatária, importando no tópico registrar que a solidariedade não se Presume; resulta ou da lei ou da vontade das partes, nestes não comprovada (artigo 265, CC). (e-STJ, fls. 229/231 - grifou-se)
+Na espécie, o Tribunal de origem, no exame das provas e fatos, constatou a ilegitimidade da parte agravada, pois as obrigações não foram por ele assumidas, de forma que a solidariedade deve estar prevista em lei ou na vontade das partes, o que não ocorreu na hipótese.
+Efetivamente, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal, em virtude da aplicação da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE PASSIVA AD CAUSAM. ACÓRDÃO FUNDADO NA PROVA DOS AUTOS. REVISÃO. SÚMULA 7/STJ.
+1. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+2. Não há como acolher a impugnação da parte sem afastar a afirmação feita pelo Tribunal de origem no sentido de que a União é legítima para figurar no polo passivo da presente demanda.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593032/PB, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 13/09/2016, DJe 20/09/2016 - grifou-se)
+PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação Civil Pública proposta pelo Ministério Público estadual contra a Telefônica Brasil [NOME] e outros, objetivando a condenação da rés, solidariamente, a indenizar os danos à coletividade, em valor a ser apurado em liquidação de sentença, não inferior a R$ 500.000,00 (quinhentos mil reais), revertido para o FECAM, além da obrigação de fazer consistente em retirar os engenhos publicitários, sob pena de multa.
+2. O Juiz de 1º Grau julgou parcialmente procedente o pedido.
+3. O Tribunal a quo negou provimento à Apelação da ora recorrente e assim consignou na sua decisão: "Frise-se, as considerações do Magistrado a quo sobre o vínculo entre as duas Empresas retrata a mais perfeita realidade, confirmada diariamente por meio dos anúncios publicitários dos eventos musicais veiculados em jornais e revistas, evidenciando a efetiva comunhão de desígnios entre as empresas, qual seja, o fornecimento de entretenimento a toda a população, dando condições privilegiadas aos clientes da Empresa de Telefonia." (fl. 1211, grifo acrescentado).
+4. Portanto, ficou demonstrada a legitimidade passiva da ora agravante.
+5. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. Nesse sentido: AgRg no AREsp 539.271/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 18/2/2015, e AgRg no REsp 1525797/ES, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/2/2016.
+6. Agravo Interno não provido.
+(AgInt no AREsp 780.680/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/08/2016, DJe 09/09/2016 - grifou-se)
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
