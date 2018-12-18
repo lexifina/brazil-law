@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de segundos embargos de declaração, manejados por [NOME], contra a decisão de fls. 384/386 que acolheu anteriores embargos aclaratórios, sem efeitos infringentes, apenas para esclarecer que, como o recurso especial foi aviado nos autos de agravo de instrumento contra decisão interlocutória, não é cabível a condenação em honorários sucumbenciais e, por conseguinte, resta inviabilizada a fixação de honorários recursais (art. 85, § 11, do CPC/2015).
+Sustenta a embargante que "foram fixados honorários advocatícios em decisão interlocutória anterior, conforme se extrai do Evento 45 do Cumprimento de Sentença nº 5045618- 17.2013.404.7100/RS - e esse é o erro material que se busca corrigir através dos novos Embargos de Declaração" (fl. 393). Defende, por isso, o cabimento dos honorários recursais na espécie (art. 85, § 11, do CPC/2015).
+Transcorreu in albis o prazo para impugnação (fl. 398).
+É o relatório.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+Como cediço, o erro material "é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não, aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo" (REsp 1021841/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 7/10/2008, DJe 4/11/2008).
+No caso, a decisão embargada foi clara quando assinalou que "o presente recurso especial foi aviado nos autos de agravo de instrumento contra decisão interlocutória  ..  Assim, não sendo cabível a condenação em honorários sucumbenciais, inviabilizada resta, por conseguinte, a fixação de honorários recursais ("Art. 85  ..  § 11  .. )" (fls. 85/86).
+Ressalte-se que na decisão interlocutória que deu ensejo ao agravo de instrumento em que interposto o especial apelo vertente - não houve condenação em honorários sucumbenciais (cf fls. 4/5; fl. 150 - acórdão recorrido; e fl. 935 - Ap 2 - Evento 120).
+Não há, pois, qualquer erro material a sanar.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
