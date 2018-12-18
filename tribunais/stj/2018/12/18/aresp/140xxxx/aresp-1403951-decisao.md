@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por PEACOCK EVEN EMPREENDIMENTOS IMOBILIÁRIOS LTDA E OUTRA contra decisão que inadmitiu seu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Na razões do nobre apelo, as recorrentes discutem a observância da cláusula contratual em que se prevê o percentual de retenção nos casos de desistência dos recorridos na aquisição do imóvel, sob pena de afrontar o princípio do pacta sunt servanda.
+É o relatório. Decido.
+Restituição dos valores pagos e limites de retenção pelo promitente vendedor:
+A Segunda Seção do Superior Tribunal de Justiça, sob o rito dos recursos especiais repetitivos, no julgamento do Recurso Especial n. 1.300.418/SC, vinculado ao Tema n. 577/STJ, consolidou o entendimento acerca da restituição dos valores nos casos de resolução de contrato de compra de imóvel, por culpa de quaisquer contratantes, nos termos do acórdão assim ementado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DIREITO DO CONSUMIDOR. CONTRATO DE COMPRA DE IMÓVEL. DESFAZIMENTO. DEVOLUÇÃO DE PARTE DO VALOR PAGO. MOMENTO.
+1. Para efeitos do art. 543-C do CPC: em contratos submetidos ao Código de Defesa do Consumidor, é abusiva a cláusula contratual que determina a restituição dos valores devidos somente ao término da obra ou de forma parcelada, na hipótese de resolução de contrato de promessa de compra e venda de imóvel, por culpa de quaisquer contratantes. Em tais avenças, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+2. Recurso especial não provido.
+(REsp 1.300.418/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 10/12/2013.)
+Na hipótese dos autos, o Tribunal de origem decidiu em conformidade com essa orientação ao entender pelo cabimento de restituição imediata e parcial das parcelas pagas, considerando que a resolução do negócio se deu por culpa dos promitentes compradores.
+Ademais, em relação ao percentual a ser retido pelas recorrentes, a Corte de origem se manifestou nos seguintes termos (fls. 190/191):
+É certo que o consumidor está autorizado pelo ordenamento jurídico pátrio a pleitear a rescisão contratual e a devolução imediata dos valores pagos, considerando-se abusiva e, portanto, nula, toda e qualquer cláusula que exclua o direito à devolução das parcelas pagas, que imponha dedução de elevado percentual ou, ainda, que condicione a forma de devolução, já que evidentemente colocam o consumidor em situação de desvantagem exagerada (art. 51, IV, do CDC). Aliás, este é o entendimento já consolidado por súmula desta Corte:
+Súmula 1: O Compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem.
+Portanto, o direito de o comprador rescindir o contrato de compromisso de compra e venda e, consequentemente, obter a devolução das parcelas pagas é questão pacificada tanto neste Egrégio Tribunal de Justiça quanto no Colendo Superior Tribunal de Justiça (STJ, AgRg no AI nº 580988/RS, relator Ministro MASSAMI UYEDA, em 2/4/2007).
+O percentual de retenção determinado na r.
+sentença (10%) é suficiente para cobrir as despesas administrativas e de comercialização já que, com a retomada do imóvel, as apelantes poderão aliená-lo pelo preço de mercado atual, sem experimentar qualquer prejuízo.
+No ponto, verifica-se que o Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de ser lícita a retenção pela promitente vendedora de percentual entre 10% e 25% do total da quantia paga, quando ocorre a rescisão do contrato por culpa do adquirente.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DO PROMITENTE COMPRADOR. RESTITUIÇÃO PARCIAL DA QUANTIA PAGA. PERCENTUAL DE RETENÇÃO FIXADO DENTRO DOS PARÂMETROS ADMITIDOS PELA JURISPRUDÊNCIA DESTA CORTE (10%, NO CASO). ALTERAÇÃO DO ENTENDIMENTO DO TRIBUNAL LOCAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido não destoa da jurisprudência desta Corte que, em caso de resolução do compromisso de compra e venda por culpa do promitente comprador, entende ser lícito ao vendedor reter entre 10% e 25% dos valores pagos.
+2. Não é possível alterar a conclusão assentada pelo Tribunal local com base na análise das provas nos autos, ante o óbice do enunciado n. 7 da Súmula do STJ.
+3. Na hipótese, o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, de acordo com as especificidades do caso concreto, fixou o percentual de retenção em 10% dos valores pagos. Rever essa conclusão, neste caso, é impossível ante o óbice do enunciado de súmula supramencionado.
+4. Agravo interno improvido.
+(AgInt no AgRg no AREsp 816.434/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 6/10/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 10%. RAZOABILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga.
+2. Em se tratando de resolução pelo comprador de promessa de compra e venda de imóvel em construção, ainda não entregue no momento da formalização do distrato, bem como em se tratando de comprador adimplente ao longo de toda a vigência do contrato, entende-se razoável o percentual de 10% a título de retenção pela construtora dos valores pagos, não se distanciando do admitido por esta Corte Superior.
+ ..
+4. Agravo interno não provido.
+(AgRg no AREsp 807.880/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 29/4/2016.)
+Além disso, ressalto que, para se concluir em sentido contrário ao que restou expressamente consignado no acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, inviável no âmbito desta instância especial, incidindo os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
