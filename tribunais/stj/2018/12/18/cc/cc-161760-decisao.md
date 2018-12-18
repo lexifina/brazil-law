@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA 13ª VARA DO TRABALHO DE BRASÍLIA/DF, ora suscitante, e o JUÍZO DE DIREITO DA 2ª VARA DA FAZENDA PÚBLICA DO DISTRITO FEDERAL, ora suscitado.
+Consta dos autos que foi proposta ação de cobrança de adicional de insalubridade c/c pedido de antecipação de tutela por [NOME], servidor efetivo (regime estatutário) da Secretaria de Estado de Saúde do Governo do Distrito Federal, lotado, desde o mês de 1º de outubro de 2013, no Núcleo de Farmácia, onde exerceria atividades em condições caracterizadas e classificadas como insalubres.
+A ação foi proposta na Justiça Comum, que declarou sua incompetência para julgar o processo (e-STJ fl. 520), encaminhando os autos à Justiça Comum, a qual, por sua vez, suscitou o presente conflito (e-STJ fl. 94).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito, para que seja declarada competente a Justiça Distrital (e-STJ fls. 617/620).
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o autor pleiteia o recebimento de valores correspondentes a adicional de insalubridade que entende lhe ser devido, porque se expõe, em caráter permanente e continuado, a contato com substâncias químicas de medicamentos com níveis variados de toxidade, bem como a exposição contínua antimicrobianos, mercúrio, etc.
+Nesse contexto, tem-se nos autos notícia de que o autor da ação é servidor concursado, efetivo, sendo o vínculo estabelecido com a Administração de natureza estatutária (conforme e-STJ fls. 21/32).
+Dessa forma, trata-se de relação de caráter jurídico-administrativo existente entre o servidor e o ente distrital, o que atrai a competência da Justiça comum, conquanto verificada a situação nele retratada.
+Acerca da hipótese, colho o seguinte precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO TEMPORÁRIA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade 3.395-DF, excluiu da expressão relação de trabalho prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004) as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça Comum, Estadual ou Federal, a depender do ente público ao qual se vincula o servidor - ainda que se trate de contratações temporárias ou irregulares, caso dos autos.
+2. O Tribunal de Justiça local julgou procedente Ação Direta de Inconstitucionalidade impetrada pelo Ministério Público Estadual, referente à Lei n. 12.614/2006, que, no caso, prorrogou os contratos emergenciais firmados com base na Lei n. 11.788/2002.
+3. Agravo interno a que se nega provimento. (AgInt no CC 158.283/RS, Relator Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 28/08/2018)
+Ante o exposto, com arrimo no art. 34, XXII, RISTJ, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 2ª VARA DA FAZENDA PÚBLICA DO DISTRITO FEDERAL, o suscitado.
+Publique-se. Intimem-se.
