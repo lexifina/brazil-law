@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). PROTESTO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM CANCELAMENTO DE PROTESTO E INDENIZAÇÃO. CANCELAMENTO DO PROTESTO EFETIVADO NO CURSO DA LIDE PELA APELANTE. CONDUTA NEGLIGENTE DEMONSTRADA. AFASTAMENTO DA RESPONSABILIDADE. IMPOSSIBILIDADE. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. POSSIBILIDADE, NOS TERMOS DO ARTIGO 85, § 11, DO CPC/15.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por MAX BRANDS IMPORTACAO, EXPORTACAO E COMERCIO DE ALIMENTOS E BEBIDAS LTDA. - EPP contra decisão que negou seguimento ao recurso especial, com fundamento no art. 105, inciso III, alíneas "a", que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PROTESTO. Ação declaratória de inexigibilidade de débito cumulada com cancelamento de protesto e indenização. Sentença de procedência. Apelo da ré. Cancelamento do protesto efetivado no curso da lide pela apelante. Perda superveniente do interesse de agir quanto a esse pedido, sem repercussão no ônus sucumbencial, ante o princípio da causalidade. Incontroversa quitação do título. Apontamento a protesto indevido. Configuração do dano moral "in re ipsa". Redução do valor arbitrado em R$ 5.000,00. Descabimento. Pedido de indenização por dano patrimonial não acolhido. Reconhecimento de parcial procedência da ação. Honorários advocatícios sucubenciais arbitrados com razoabilidade. Redução descabida. Recurso parcialmente provido para reconhecer o julgamento de parcial procedência, reconhecida de ofício a perda superveniente do interesse de agir quanto ao pedido de cancelamento do protesto. (e-STJ, fl. 147)
+No recurso especial, alega a parte recorrente violação aos artigos 186, 944 e 945, parágrafo único, do CC/02; sustentando a inexistência de culpa, de modo que a responsabilidade civil deve ser afastada.
+As contrarrazões foram apresentadas (e-STJ, fls. 164/169).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece acolhida.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, o Tribunal de origem decidiu da seguinte forma quanto à responsabilidade do agravante:
+A ré apelante é a única responsável pela negligência da entidade recebedora do pagamento, que alegadamente não o repassou à apelante. Se não há inadimplência, a cobrança foi ilegítima. Ao promover o protesto e dar causa à inscrição do nome da autora apelada em cadastros de restrição ao crédito, a apelante agiu no mínimo com negligência. Deve-se responsabilizar aquele que causa a indevida inclusão do nome da pessoa no referido cadastro, a qual passa a integrar, sem justa causa, rol de maus pagadores, com inevitável abalo da imagem e restrições de crédito. (e-STJ, fls. 149/150 - grifou-se)
+Na espécie, a Corte local, diante das peculiaridades fáticas do caso, reputou a necessária responsabilização do agravante, diante da sua conduta negligente. Essa premissa torna inviável o especial, no ponto, nos termos do enunciado n. 7 da Súmula do STJ.
+Assim, não é possível em sede de recurso especial apreciar alegação de ausência de culpa para afastar o dever de indenizar dano moral por inscrição indevida em cadastro de proteção ao crédito, na hipótese em que o Tribunal de origem reconheceu a negligência e consequente responsabilidade civil da agravante, tendo em vista ser necessário o reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. INSURGÊNCIA CONTRA OS DANOS MATERIAIS E MORAIS. SÚMULA 7 DO STJ. REVISÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. O acolhimento da pretensão recursal sobre os danos materiais, a alegada existência de vícios ocultos, a responsabilidade pelos danos morais e a comprovação do dano moral demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que atrai o óbice da Súmula 7 do STJ.
+2. A conclusão a que chegou o Tribunal de origem acerca do valor fixado a título de dano moral decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Entender de forma diversa implicaria na necessária incursão na seara fática para reexame de provas, conduta vedada em sede de recurso especial, ante o óbice da Súmulas 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 802.221/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/12/2015, DJe 01/02/2016 - grifou-se)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. NEXO CAUSAL. QUANTUM INDENIZATÓRIO. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Em relação à comprovação do nexo causal entre a conduta omissiva estatal e os danos suportados pela esposa da vítima fatal, bem como à revisão do quantum indenizatório e dos honorários advocatícios, no caso, as insurgências esbarram na Súmula 7/STJ, por demandarem novo exame do acervo fático-probatório dos autos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 81.721/MS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 12/02/2015, DJe 23/02/2015 - grifou-se)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em 15% sobre o montante da condenação (e-STJ, fls. 91), a majoração dos honorários para 18% é medida que se impõe.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
