@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CALABRIA INVESTIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+COMPROMISSO DE COMPRA E VENDA - INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Atraso na conclusão da obra - Legalidade da cláusula de tolerância - Culpa da ré/alienante pelo retardamento reconhecida - Obrigação da ré de indenizar a parte compradora pela privação do uso do imóvel no período da mora na entrega da unidade - Fixação reduzida para 0,5% do valor do bem lançado no contrato, devidamente atualizado por mês de atraso e acrescidos de juros moratórios de 1% ao mês, desde a citação - Danos morais - Ocorrência Período expressivo de atraso - Valor da indenização reduzido para R$ 10.000,00 - Sentença reformada - Recurso da ré parcialmente provido.
+Nas razões do recurso especial, aponta a parte recorrente a existência de dissídio jurisprudencial na interpretação dos artigos 186 e 927, do CC.
+Alega, em síntese, que o mero inadimplemento contratual não enseja indenização por danos morais. Defende tratar-se de mero dissabor.
+No mais, salienta que os danos morais foram fixados de forma excessiva (R$ 10.000,00 - oito mil reais), pedindo sua redução.
+É o relatório. DECIDO.
+2. Com efeito, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,.
+2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+Cabe ser analisado, portanto, se, no caso concreto, o descumprimento contratual ultrapassou o mero dissabor, devendo-se levar em conta, apenas, as premissas fáticas descritas no acórdão recorrido para que não incida a vedação contida no enunciado n. 7 da Súmula do STJ.
+No caso, o Tribunal local reduziu o valor dos danos morais para R$ 10.000,00 (dez mil reais). Para tanto, adotou fundamentação nos seguintes termos:
+O período de atraso na entrega do imóvel é expressivo e a conduta da parte ré não pode ser tolerada ou aceita como mero descumprimento contratual. Além do que causou profunda alteração na rotina da autora que contava com a entrega do imóvel na data ajustada.
+Notória a frustração e a violação da intimidade por culpa exclusiva da ré ao descumprir o contratado, o que afronta a dignidade da pessoa humana e aumenta a aflição psicológica, configurando dano moral indenizável. De se registrar o caráter pedagógico da medida, haja vista o número elevado de ações em que esse tema é discutido e a demonstração de que as alienantes não tem tomado postura eficaz a minorar os efeitos deste inadimplemento.
+ .. .
+Com efeito, o Tribunal de origem apontou, concretamente, situação específica, desvinculada dos normais aborrecimentos, discorrendo sobre episódio que extrapola o mero descumprimento do contrato, capaz de gerar dor e sofrimento indenizável.
+Para alterar tais fundamentos, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+3. Quanto ao valor arbitrado, somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização fixada a título de dano moral, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ para possibilitar sua revisão. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DO VALOR DA CAUSA. DANOS MORAIS FIXADOS AO ARBÍTRIO DO JUIZ. SÚMULAS N. 7 E 83 DO STJ.
+1. É possível a fixação dos danos morais de acordo com o prudente arbítrio do juiz da causa. Precedentes.
+2. A revisão do quantum fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 730.160/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 15/3/2016, DJe 28/03/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM. REEXAME DE PROVAS E REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REQUERIMENTO DE MAJORAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA N. 7 DECISÃO MANTIDA.
+1. É pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Incidência do óbice da Súmula 7/STJ.
+2. Para alcançar conclusão diversa daquela a que chegou o Tribunal de origem, seria imprescindível o reexame de prova e a reinterpretação de cláusula contratual, sendo ambos inviáveis nesta instância especial (Súmulas 5 e 7/STJ).
+3. Em sede de recurso especial, não é possível rever os critérios e o percentual adotado pelo julgador na fixação dos honorários advocatícios, por importar o reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 821.133/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 08/3/2016, DJe 14/3/2016 - sem destaque no original)
+A Corte de origem, consideradas as peculiaridades do caso em questão, reduziu a indenização para R$ 10.000,00 (dez mil reais), quantia que não se afigura elevada a ponto de ensejar a intervenção deste Superior Tribunal.
+4. Por fim, importante frisar que este Superior Tribunal já deixou assente a impossibilidade do conhecimento do dissídio lastreado na diferença entre os valores arbitrados a título de danos morais ante a inexistência de similitude fática, já que "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag n. 1.179.405/SP, Relator o Ministro João Otávio de Noronha, Quarta Turma, Dje de 13/4/2010).
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
