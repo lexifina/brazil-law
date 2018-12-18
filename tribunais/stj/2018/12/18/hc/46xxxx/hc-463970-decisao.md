@@ -1,0 +1,34 @@
+DECISÃO
+TTrata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de LILIAN DE OLIVEIRA LISBOA, apontando como autoridade coatora a 2ª Câmara Criminal do Tribunal de Justiça do Paraná, no julgamento do Agravo em Execução n. 0001156-48.2018.8.16.0009
+Consta dos autos que, em virtude da aprovação da condenada no Exame Nacional do Ensino Médio (ENEM), requereu a defesa remição de pena, nos termos do disposto no art. 126, da Lei de Execução Penal e na Recomendação n.º 44/13 do Conselho Nacional de Justiça (CNJ).
+Analisando os argumentos apresentados, o Juízo Executório indeferiu o pedido (fls. 132/135).
+Irresignada, a defesa interpôs agravo em execução, que não foi provido por já ser a paciente portadora de diploma de curso superior que inviabilizaria a aplicação da citada Recomendação do CNJ (fls. 98/106).
+Sustentam os impetrantes que a decisão da Corte de origem viola o dispositivo legal do art. 126 da Lei n. 7.210/84, na medida em que inviabiliza a remição da pena, prejudicando a progressão de regime e a consequente ressocialização sua ressocialização da paciente.
+Afirmam que já está sedimentada a jurisprudência desta Corte no sentido de reconhecer o Exame Nacional do Ensino Médio - ENEM como forma de remição de pena pelo estudo.
+Segundo a defesa, o fato de a paciente já ter curso superior não enseja a desconsideração da contagem do ENEM para fins de remição de pena pelo estudo.
+Desse modo, requerem os impetrantes a concessão da ordem, a fim de sanar a ilegalidade apontada, concedendo à paciente a remição da pena pela aprovação no ENEM, inda que já tenha concluído curso superior.
+Liminar indeferida às fls. 142/143.
+Informações prestadas às fls. 148/150 e 152/486.
+Parecer ministerial às fls. 490/493.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE, EM TESE. ANÁLISE DE CADA CASO. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO. MATÉRIA AFETADA À SEÇÃO.
+1.Tratando-se de habeas corpus substitutivo de recurso próprio, inviável o seu conhecimento, cabendo a análise de flagrante ilegalidade.  ..
+3. Hipótese em que não há flagrante ilegalidade, haja vista que a Corte estadual invocou concretamente as circunstâncias do delito para justificar o regime prisional fechado, em consonância com a jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal. Foi indicada a concreta gravidade do crime (tentativa de matar mulher grávida de 4 meses, valendo-se das relações domésticas, mediante meio cruel e motivo fútil, inclusive na presença do filho de 4 anos da vítima e mediante "roleta russa").
+4. Writ não conhecido. (HC 362.535/MG, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 08/03/2017)
+Entretanto, o constrangimento apontado na inicial será analisado, a fim de se verificar a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+No caso em exame, os impetrantes alegam estar a paciente sofrendo coação ilegal com a interpretação dada pelas instâncias de origem ao cálculo da remição de pena disciplinado no artigo 1º, inciso IV, Recomendação n.º 44/2013 do CNJ.
+Afirmam que lhe deve ser conferida a remição da pena segundo o art. 126 da LEP e que o fato de já ter curso superior não impede o deferimento da remição pela aprovação no ENEM.
+Verifica-se que o entendimento exarado pelas instâncias ordinárias destoa da jurisprudência desta Corte, que reconhece o direito à remição mesmo quando o apenado já é portador de diploma de curso superior.
+Veja-se a decisão proferida no Recurso Especial n.º 1.673.847/SC, da relatoria do Ministro Ribeiro Dantas, publicada em 18/10/2017:
+"O Juízo da Vara das Execuções Penais da Comarca de Videira/SC negou o pedido de remição do reeducando, considerando que ele não faria jus à remição pela aprovação no Exame Nacional do Ensino Médio - ENEM, considerando o fato de o acusado ter ensino superior e este fato ser impeditivo à remição. (..)
+A pretensão do recorrente merece ser acolhida. O art. 126 da Lei de Execução Penal determina que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. Como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP, segundo reiterada jurisprudência desta Corte, é possível a hipótese de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal. (..)
+Ora, verifica-se que o objetivo deste conjunto de regras acerca da remição da pena por aproveitamento dos estudos é o de incentivar os apenados aos estudos, bem como sua readaptação ao convívio social. (..)
+Assim, diante da possibilidade de interpretação extensiva in bonam partem, entende-se que cabe a remição até mesmo para presos que estudam por conta própria, não havendo se falar em afastamento da possibilidade da concessão da benesse aos apenados que estejam vinculados a atividades regulares de ensino no interior do estabelecimento. (..)
+À vista do exposto, com fundamento no art. 255, § 4o, III, do RISTJ, dou provimento ao recurso especial, para cassar o acórdão recorrido e para reconhecer o direito do paciente à remição da pena pela aprovação no Ensino Médio, na forma do art. 1o, IV, da Recomendação n. 44 do CNJ."
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus, concedendo-se, contudo, a ordem de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal, para, reformando o acórdão proferido pelo Tribunal de origem, conceder à paciente a remição da pena pela aprovação no Exame Nacional do Ensino Médio, na forma do art. 1º, IV da Recomendação n.º 44 do CNJ e art. 126, §1 º, I da Lei de Execução Penal, e determinar que o magistrado de 1º grau compute as 1.200 horas de estudo com o acréscimo de 1/3 (um terço) previsto no § 5º do art. 126 da LEP.
+Publique-se.
+Comunique-se, com urgência, o eg. Tribunal de Justiça do Paraná acerca do teor desta decisão.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
