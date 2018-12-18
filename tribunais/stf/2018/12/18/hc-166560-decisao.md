@@ -1,0 +1,17 @@
+Trata-se de habeas corpus com pedido de liminar impetrado contra decisão do Ministro Jorge Mussi, do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 483.711/SP.
+    Consta dos autos (págs. 45-71 do documento eletrônico 2) que o paciente foi preso em flagrante pela suposta prática dos crimes de tráfico ilícito de drogas e de associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006). O flagrante foi convertido em prisão preventiva (págs. 103-104 do documento eletrônico 2).
+     Questionando os fundamentos da custódia cautelar, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo – TJSP, ocasião em que o Desembargador Relator indeferiu o pedido de liminar (págs. 129-130 do documento eletrônico 2). Na sequência, manejou outro HC no Superior Tribunal de Justiça, mas o Ministro Relator indeferiu liminarmente a petição inicial (págs. 136-137 do documento eletrônico 2).
+    É contra essa decisão que se insurge o impetrante neste habeas corpus.
+    Registra, inicialmente, que, “tanto na delegacia quanto em Audiência de Custódia, EDERSON confirmou serem suas as drogas encontradas, e negou que tenha qualquer vinculo com JOÃO PAULO, afirmou categoricamente que as drogas que estavam em sua residência não pertenciam a JOÃO PAULO, dizendo ainda se conhecerem por serem vizinhos” (pág. 4 da petição inicial).
+     Argumenta, em seguida, que, “além da quantidade de droga ser muito pequena, levando a crer que seria para o consumo pessoal de quem as portava, o Paciente não estava no local onde as drogas foram encontradas” (pág. 5 da petição inicial).
+    Sustenta, nesse contexto, que “não há motivos para a custódia provisória, estão presentes todos os requisitos formais para a concessão da liberdade provisória, além do que, o Paciente se compromete a comparecer a todos os atos processuais, quando intimado no endereço acima mencionado” (pág. 7 da petição inicial).
+    Requer, ao final, liminarmente, “o direito de [o paciente] responder ao processo em liberdade, revogando o mandado de prisão expedido”. No mérito, pede que “seja concedida em definitivo a presente ordem de Habeas Corpus” (pág. 20 da petição inicial).
+    É o relatório. Decido.
+    A presente impetração volta-se contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 483.711/SP, ante o óbice constante da Súmula 691/STF.
+    Desse modo, este pleito não merece igualmente seguimento, uma vez que o exame da questão implicaria indevida supressão de instância e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1°). Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 18 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
