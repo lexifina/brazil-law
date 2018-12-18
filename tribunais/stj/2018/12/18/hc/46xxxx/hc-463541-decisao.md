@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o Juízo de Direito da Vara de Execução em Meio Fechado e Semiaberto da Comarca de Castro/PR, ao unificar as penas do paciente, estabeleceu como data-base para concessão dos benefícios de progressão de regime prisional a data do trânsito em julgado para a acusação da última condenação mantendo para o livramento condicional a data da primeira prisão em conformidade com o entendimento da Súmula n. 441, do STJ (e-STJ, fls. 14-20).
+Inconformada, a Defensoria Pública estadual interpôs agravo em execução perante o Tribunal de origem, que lhe deu parcial provimento "alterar a data-base para fins de progressão de regime, para o dia do cometimento da falta grave (prática de crime doloso), qual seja: 08/10/2017, nos termos da Súmula 534 do STJ" (e-STJ, fls. 27-42).
+Eis a ementa:
+"AGRAVO EM EXECUÇÃO - UNIFICAÇÃO DAS PENAS DE RECLUSÃO E PRISÃO SIMPLES PERPETRADA PELO JUÍZO DA EXECUÇÃO - RECURSO DA DEFESA - ALEGADA IMPOSSIBILIDADE DE SOMATÓRIA DAS REPRIMENDAS - TESE NÃO ACOLHIDA - EXEGESE DOS ARTIGOS 76 DO CÓDIGO PENAL E 111 DA LEP - PRECEDENTES DOS TRIBUNAIS SUPERIORES - DECISÃO DE PRIMEIRO GRAU QUE, AO UNIFICAR AS PENAS, MODIFICOU O MARCO INICIAL PARA A PROGRESSÃO DE REGIME PRISIONAL COMO SENDO O TRÂNSITO EM JULGADO, PARA A ACUSAÇÃO, DA ÚLTIMA CONDENAÇÃO - INSURGÊNCIA DEFENSIVA - PLEITO PELA ALTERAÇÃO DO TERMO INICIAL PARA A DATA DO COMETIMENTO DA FALTA GRAVE CONSISTENTE EM PRÁTICA DE CRIME DOLOSO DURANTE A EXECUÇÃO DA PENA - POSSIBILIDADE - NOVEL ENTENDIMENTO - ALTERAÇÃO EFETUADA ORIGEM QUE NÃO ENCONTRA RESPALDO LEGAL - EXEGESE DA SÚMULA 534 DO STJ - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+"(..) 1. A Terceira Seção deste Tribunal Superior, em recente julgado (REsp 1.557.461, Rel.
+Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018), alterou seu entendimento para estabelecer que a unificação das penas, por si só, não altera a data-base para concessão de novos benefícios, devendo ser considerada a data da última prisão ou a data da última infração disciplinar.Agravo regimental desprovido." (AgRg no HC 400.759/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/05/2018, DJe 01/06/2018)" (e-STJ, fls. 27-28).
+Neste writ, alega a impetrante, em síntese, existência de constrangimento ilegal em desfavor do apenado, haja vista que interpretando o art. 111 da Lei de Execução Penal c/c o art. 76 do Código Penal, chegar-se-ia à conclusão de que as penas de detenção e reclusão não poderiam ser somadas indistintamente, executando-se, no concurso de infrações, primeiramente a pena mais grave (e-STJ, fls. 3-13).
+Pugna pela concessão "a fim de que sejam mantidas estanques e separadas as sanções de reclusão em relação a de detenção" (e-STJ, fl. 13).
+A liminar foi indeferida (e-STJ, fl. 55).
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ (e-STJ, fls. 293-299).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Inicialmente, cabe ressaltar que ao interpretar o art. 111, da LEP, este Superior Tribunal de Justiça firmou entendimento no sentido de que as penas de reclusão e as de detenção constituem reprimendas de mesma espécie, e portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente.
+Nesse sentido:
+"EXECUÇÃO PENAL - HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO - INADEQUAÇÃO DA VIA ELEITA - REGIME PRISIONAL - UNIFICAÇÃO DAS PENAS - ART. 111 DA LEP - RÉU CONDENADO ÀS PENAS DE RECLUSÃO E DE DETENÇÃO - SOMATÓRIO DE AMBAS AS REPRIMENDAS PARA FIXAÇÃO DO REGIME - POSSIBILIDADE - WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e o Superior Tribunal de Justiça, por sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Concorrendo penas de reclusão e detenção, ambas devem ser somadas para efeito de fixação da totalidade do encarceramento, porquanto constituem reprimendas de mesma espécie, ou seja, penas privativas de liberdade. Inteligência do art. 111 da Lei n. 7.210/84. Precedentes do STF e desta Corte Superior de Justiça.
+3. Habeas corpus não conhecido."
+(HC 389.437/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/08/2017, DJe 22/08/2017 - grifou-se)
+No mesmo sentido, é a jurisprudência do Supremo Tribunal Federal:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE OFENSA ÀS REGRAS DE UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO: INOCORRÊNCIA. PRECEDENTES. RECURSO AO QUAL SE NEGA PROVIMENTO.
+1. O art. 111 da Lei de Execução Penal estabelece que, em condenação por mais de um crime, para a determinação do regime de cumprimento considera-se o resultado da soma ou unificação das penas, independentemente de serem de detenção ou reclusão.
+2. É firme a jurisprudência deste Supremo Tribunal Federal no sentido de que a soma ou unificação das penas em execução definem o regime prisional de seu cumprimento, podendo o resultado implicar a regressão. Precedentes.
+3. Recurso ao qual se nega provimento."
+(RHC 118.626, Relatora: Min. CÁRMEN LÚCIA, SEGUNDA TURMA, julgado em 26/11/2013, PUBLIC 02/12/2013 - grifou-se).
+Dessarte, para as Cortes Superiores é possível o somatório das reprimendas de reclusão e de detenção, por ostentarem a mesma natureza de pena privativa de liberdade. Logo as decisões das instâncias ordinárias encontram-se em consonância com a jurisprudência dos Tribunais superiores.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
