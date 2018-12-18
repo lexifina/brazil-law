@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. CONCORRÊNCIA DESLEAL. CONTRAFAÇÃO NÃO DEMONSTRADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi e Raul Araújo votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por CHAMPION FARMOQUÍMICO LTDA. contra decisão mediante a qual neguei provimento a seu agravo em recurso especial, dada a incidência da Súmula 7 desta Corte.
+O acórdão recorrido tem a seguinte ementa:
+APELAÇÃO CÍVEL. RECURSO ADESIVO. AÇÃO DE INDENIZAÇÃO. 1. Para que se imponha o dever de indenizar, necessária a comprovação dos elementos ensejadores da responsabilidade civil, quais sejam: o dano, a ilicitude da conduta e o nexo causal entre ambos. Assim, quando ausente um dos requisitos acima elencados, não há falar em indenização por dano moral. ÔNUS DA PROVA. FATO CONSTITUTIVO DO DIREITO DO AUTOR. ART. 333, INC. I, DO CPC/73. IMPROCEDÊNCIA DO PLEITO INDENIZATÓRIO. 2. Na hipótese, descuidando a parte autora de comprovar a conduta ilícita noticiada na peça inicial (comercialização de produtos plagiados pelo réu), ônus que lhe competia, conforme art. 333, I, CPC/73, a improcedência de seu pedido é medida imperativa. VERBA HONORÁRIA. ARBITRAMENTO PELO JULGADOR. CRITÉRIOS LEGAIS VIGENTES À ÉPOCA DA SENTENÇA. 3. Conforme dispunha o art. 20, do CPC/73, em seu parágrafo 4º, nas causas em que não houver condenação, os honorários advocatícios devem ser fixados consoante apreciação equitativa do julgador, em observância às alíneas do parágrafo 3º, do mesmo dispositivo legal. No caso em tela, porque arbitrada a verba honorária com parâmetro diverso, deve-se reformar a sentença recorrida, a fim de aplicar a regra legal (art. 20, 4º, do CPC/73), vigente à época da publicação do ato. 4. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. RECURSO ADESIVO CONHECIDO E IMPROVIDO
+A agravante afirma que o conjunto fático-probatório demonstra o fato constitutivo de seu direito. Entende que o acórdão recorrido é omisso e sustenta não se aplicar ao caso o referido enunciado da Súmula.
+Não foi apresentada impugnação ao agravo, conforme certidão de fl. 610 (e-STJ).
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+O acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 371 e 1.022 do CPC de 2015.
+Quanto ao mais, o recurso não dispensa o reexame de prova. A agravante afirma ter se desincumbido do ônus de demonstrar os fatos constitutivos de seu direito. O acórdão recorrido, todavia, faz a seguinte análise da questão (e-STJ fl. 473):
+No caso, verifica-se que o contexto probatório não autoriza solução diversa daquela adotada pelo juízo de origem, qual seja, improcedência do pleito indenizatório.
+É que a documentação jungida nos arquivos 4 e 7 (evento 3) não demonstra cabalmente o plágio noticiado na peça inicial. O fato de o requerido/apelado ter sido sócio de empresa que prestava assessoria à apelante não induz à conclusão de que atualmente esteja plagiando os produtos agropecuários da parte autora.
+Nesse contexto, conforme bem fundamentou o juiz a quo, não há nos autos provas suficientes para subsidiar a pretensão da empresa autora/apelante. Vejamos:
+(ANDRE BARBOSA DE CARVALHO) que trabalha para a empresa autora, afirmou que clientes pararam de comprar os produtos sob a alegação de que uma pessoa chamada Constantino, estaria vendendo os mesmos produtos mais baratos. O informante do juízo destacou que não era dito ao mesmo o sobrenome do tal Constantino, mas apenas o primeiro nome. Deve-se ressaltar que a parte autora deveria ter arrolado como testemunhas vários clientes que pudessem confirmar a tese narrada na inicial, porém a autora preferiu não fazê-lo.
+(..). Aplicando-se a lógica do irrazoável, a prova de que o réu comercializava tais produtos era a pedra de toque de toda a alegação feita na petição inicial, e desse modo, competia ao autor, dentro da regra do ônus da prova, arrolar clientes que pudessem afirmar que o réu estava vendendo o respectivo produto de forma plagiada. Inexiste tal prova no processo.
+(..).
+O autor alegou, porém não provou que o réu comercializasse produtos, em tese plagiados, nem tampouco provou que a queda no faturamento da empresa tem ligação direta com qualquer fato ou ato praticado pelo réu. (..)." (arquivo 26, evento 3).
+Afastar essas conclusões é inviável em recurso especial, diante do que dispõe a Súmula 7 desta Corte.
+A mesma Súmula se aplica com relação aos honorários de sucumbência. A jurisprudência deste Tribunal admite a revisão dos honorários pelo critério da equidade quando o valor fixado destoa da razoabilidade, revelando-se irrisório ou exagerado. Não é o que se verifica no presente caso. O valor foi fixado em R$ 10.000,00 (dez mil reais), o que não justifica a superação da Súmula 7 e a intervenção da Corte, mormente em se considerando o valor da causa, R$ 642.648,15 (seiscentos e quarenta e dois mil, seiscentos e quarenta e oito reais e quinze centavos).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
