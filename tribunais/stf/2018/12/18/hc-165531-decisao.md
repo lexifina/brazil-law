@@ -1,0 +1,35 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL. PETIÇÃO INEPTA. DEFICIÊNCIA DE INSTRUÇÃO. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Marçal Honda, em benefício próprio.
+    2. O paciente/impetrante aponta como autoridades coatoras os Presidentes da República, do Congresso Nacional e do Supremo Tribunal Federal, imputando-lhes omissões pelas quais se teriam contrariado direitos fundamentais.
+    3. Em 19.12.2018, o paciente/impetrante aditou a petição inicial para pedir a expedição de “ordem de autorização para reativação do Projeto Piloto do Programa Esporte Prevenção contra as Drogas e a Violência (…)”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. A confusa petição revela a inépcia da inicial deste habeas corpus, incabível, portanto, outra providência além do arquivamento.
+    Não cabe sequer adotar providência elucidativa pela incongruência dos termos da petição. Em consonância com a jurisprudência deste Supremo Tribunal, não é de se conhecer de habeas corpus com as características do que se tem em exame. Assim, por exemplo:
+    “HABEAS CORPUS. IMPETRAÇÃO ININTELIGÍVEL. PEDIDO NÃO CONHECIDO. Impetração, que além de confusa, não apresenta a espécie de constrangimento ou, em caso de simples ameaça de coação, as razões em que se funda o temor do paciente. Habeas corpus não conhecido” (HC n. 72.054/RJ, Relator o Ministro Francisco Rezek, DJ 8.9.1995).
+    5. A presente ação está deficientemente instruída, desacompanhada de documentos, a impossibilitar a compreensão e o exame do pedido.
+    Sem dados passíveis de serem minimamente analisados para a ciência plena do caso, de eventuais incidentes nele havidos e suas consequências, o presente habeas corpus não pode ter seguimento por carecer dos requisitos necessários ao válido processamento.
+    Confiram-se os seguintes precedentes:
+    “DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. ‘HABEAS CORPUS’. NULIDADES. DEFESAS CONFLITANTES. SEVÍCIAS SOFRIDAS PELO RÉU: FALTA DE EXAME DE CORPO DE DELITO. OMISSÕES DA SENTENÇA CONDENATÓRIA. INJUSTIÇA DESTA. NÃO ESTANDO O PEDIDO DE ‘HABEAS CORPUS’ INSTRUÍDO COM CÓPIAS DE PEÇAS DO PROCESSO, PELAS QUAIS SE PODERIA EVENTUALMENTE, CONSTATAR A OCORRÊNCIA DAS FALHAS ALEGADAS, NÃO SE PODE SEQUER VERIFICAR A CARACTERIZAÇÃO, OU NÃO, DO CONSTRANGIMENTO ILEGAL. ‘H.C.’ NÃO CONHECIDO” (HC n. 71.254/RJ, Relator o Ministro Sydney Sanches, DJ 24.2.1995).
+    “1.  Habeas corpus: STF: competência originária: incidência da Súmula 691-STF (‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus, requerido a tribunal superior, indefere a liminar’). Não é dado analisar o mérito das questões discutidas para, a partir daí, conhecer ou não do habeas corpus. 2. Habeas corpus: inviabilidade, no caso - dada a manifesta deficiência da instrução do pedido -, do exame da questão de fundo para ponderar do cabimento ou não, de eventual habeas corpus de ofício” (HC n. 87.048-AgR/SP, Relator o Ministro Sepúlveda Pertence, DJ 9.12.2005).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. PENAL MILITAR. PACIENTE DENUNCIADO POR INFRAÇÃO DO ART. 290, CAPUT, DO CÓDIGO PENAL MILITAR. 1. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. (…)
+    1. Não tendo sido juntado qualquer documento na impetração do presente habeas corpus, não foi possível, no momento da prolação da decisão ora agravada, ter ciência do que ocorreu no processo, motivo pelo qual esta impetração não poderia ter seguimento, pois carente dos requisitos necessários. Decisão agravada mantida. (...)
+    3. Agravo regimental ao qual se nega provimento” (HC n. 104.564-AgR, de minha relatoria, DJe 27.5.2011).
+    6. O paciente/impetrante não indicou na petição inicial ilegalidade ou abuso de poder que pudesse ter importado, sequer em tese, coação ou ameaça de coação a sua liberdade de locomoção ou de terceiros, pelo que incabível a impetração de habeas corpus, conforme pacífica jurisprudência deste Supremo Tribunal:
+    “’HABEAS CORPUS’ – ALEGADA ATIPICIDADE DAS CONDUTAS PERPETRADAS PELOS ORA AGRAVANTES – INOCORRÊNCIA – DIRIGENTES DO INSTITUTO CANDANGO DE SOLIDARIEDADE (ICS) – PREENCHIMENTO DOS REQUISITOS LEGAIS CONSUBSTANCIADORES DA NOÇÃO CONCEITUAL DE ORGANIZAÇÃO SOCIAL – QUALIFICAÇÃO JURÍDICA DE ENTE PARAESTATAL – EQUIPARAÇÃO DE SEUS DIRIGENTES AO CONCEITO DE FUNCIONÁRIO PÚBLICO PARA EFEITOS PENAIS – DOUTRINA – PRECEDENTES – PRETENDIDA NULIDADE DA PENA DE MULTA FIXADA NA SENTENÇA PENAL CONDENATÓRIA – MATÉRIA INSUSCETÍVEL DE ANÁLISE NESTA SEDE PROCESSUAL – INEXISTÊNCIA DE QUALQUER SITUAÇÃO DE DANO EFETIVO OU DE RISCO POTENCIAL À LIBERDADE DE LOCOMOÇÃO FÍSICA DOS RÉUS – DESCABIMENTO DA AÇÃO DE ‘HABEAS CORPUS’ – PRECEDENTES – PARECER DA DOUTA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DO AGRAVO – RECURSO DE AGRAVO IMPROVIDO” (HC n. 125.086-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 27.11.2018).
+    “EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.
+    1. A Constituição Federal de 1988 autoriza a impetração de habeas corpus “sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder” (inciso LXVIII do art. 5º). Hipótese em que inexiste risco potencial ou iminente à liberdade de locomoção da paciente.
+    2. O Supremo Tribunal Federal já decidiu que não cabe habeas corpus para viabilizar direito de visita a condenado. Precedente: HC 132.963, Rel. Min. Marco Aurélio.
+    3. Agravo regimental a que se nega provimento” (HC n. 162.059-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 19.11.2018).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. AÇÃO DE IMPUGNAÇÃO DE MANDATO ELETIVO CONTRA A PRESIDENTE DA REPÚBLICA. INEXISTÊNCIA DE ATO ESPECÍFICO DE VIOLÊNCIA OU COAÇÃO À LIBERDADE DE LOCOMOÇÃO. DECISÃO AGRAVADA MANTIDA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+    1. Pelo art. 5º, inc. LXVIII, da Constituição da República, condiciona-se a concessão do habeas corpus às situações nas quais alguém sofra ou esteja ameaçado de sofrer violência ou coação na liberdade de locomoção, por ilegalidade ou abuso de poder, o que não se verifica na espécie em exame.
+    2. Agravo regimental ao qual se nega provimento” (HC n. 133.753-AgR, de minha relatoria, Tribunal Pleno, DJe 28.6.2016).
+    E ainda, por exemplo: HC n. 164.051-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 18.12.2018; HC n. 133.377-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 30.11.2018; HC n. 155.055-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 27.6.2018; HC n. 107.367-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 16.4.2018.
+    7. Pelo exposto, nego seguimento ao presente habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Comuniquem-se ao paciente/impetrante os termos desta decisão.
+    Publique-se.
+    Arquive-se.
+    Brasília, 18 de dezembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
