@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL (CPC/2015). AÇÃO DE OBRIGAÇÃO DE FAZER, COMBINADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PEDIDOS CONDENATÓRIOS VEICULADOS PELA AUTORA DA AÇÃO JULGADOS COM BASE NA ANÁLISE DO CONJUNTO PROBATÓRIO CARREADO AOS AUTOS. ENTENDIMENTO DIVERSO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESARIA LIMITADA contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado (fl. 119, e-STJ):
+BEM MÓVEL. OBRIGAÇÃO DE FAZER C.C. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+1. Não havendo demonstração de que a conduta da ré tenha acarretado à autora, pessoa jurídica, abalo a sua imagem empresarial, no meio comercial em que atua, incabível a indenização por dano moral, destinada a efetiva reparação do dano sofrido, não como meio de enriquecimento sem causa. 2. A parcial procedência do pedido formulado na inicial configura a sucumbência recíproca. Aplicação do artigo 86, do diploma processual pátrio. Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial (fls. 124-129, e-STJ), a recorrente apontou violação dos arts. 186 e 927 do CC, postulando, em síntese, o reconhecimento da obrigação de indenizar, haja vista a ocorrência de ato ilícito gerador de dano, consistente na atitude da recorrida em não proceder aos reparos no equipamento e jamais devolver a impressora, de forma indevida, além de evidente prejuízo material, acarretando prejuízo de ordem moral à insurgente.
+Sem contrarrazões (fl. 132, e-STJ).
+Em decisão monocrática (fls. 133-134, e-STJ), a Corte local indeferiu o processamento do apelo nobre ao considerar que não foi demonstrada a alegada vulneração aos dispositivos arrolados, bem como pela aplicação do óbice da Súmula 7/STJ.
+Nas razões do agravo em recurso especial (fls. 137-145, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentação no sentido de superar os impedimentos acima indicados.
+Sem contraminuta (fl. 146, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mérito, no que interessa ao julgamento da lide, o Tribunal de origem, baseado na análise do conjunto probatório, indeferiu o pedido de danos morais, com base nas seguintes fundamentações decisórias (fls. 120-121, e-STJ):
+Da análise atenta dos autos não se mostra cabível pedido de indenização por dano moral.
+Na precisa lição do eminente SÍLVIO DE SALVO VENOSA (in "Direito Civil", volume IV, Ed. Atlas) temos que: "Dano moral é o prejuízo que afeta o ânimo psíquico, moral e intelectual da vítima. Nesse campo, o prejuízo transita pelo imponderável, daí por que aumentam as dificuldades de se estabelecer a justa recompensa pelo dano. Em muitas situações, cuida-se de indenizar o inefável." (fls. 33)
+"Levando em consideração que o dano moral atinge o complexo anímico ou o psiquismo da pessoa, é objeto de discussão também o fato de a pessoa jurídica poder ser vítima dessa modalidade de dano. Em princípio toda ofensa ao nome ou renome de uma pessoa jurídica representa-lhe um abalo econômico. Não há como admitir dor psíquica da pessoa jurídica, senão abalo financeiro da entidade moral dos membros que a compõem. Aqui, sobre leva o aspecto comportamental. Nem por isso, porém, deixará de ser reparado um dano de natureza moral contra a pessoa jurídica: apenas que, a nosso ver, esse dano moral sempre terá reflexo patrimonial", (fls. 36)
+É certo ser indiscutível a possibilidade da pessoa jurídica vir a sofrer abalo moral indenizável, questão outrora tormentosa, hoje reconhecidamente superada, por reiterados julgados e entendimento sumulado do Colendo Superior Tribunal de Justiça.
+Todavia, as conseqüências dos acontecimentos narrados não extrapolam os dissabores corriqueiramente suportados em casos análogos, o que, isoladamente, portanto, não caracteriza transtorno moral passível de indenização, especialmente, no caso de mero inadimplemento decorrente da falha na entrega de uma impressora por parte da apelada.
+Diante de tais considerações, para afastar as premissas firmadas pela Corte local, no tocante à responsabilidade civil não reconhecida, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula nº. 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. 1. VÍCIO OCULTO. AUSÊNCIA DE COMPROVAÇÃO. DANOS MORAIS E MATERIAIS. REVER O QUADRO FÁTICO TRAÇADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não é possível alterar a conclusão assentada pelo Tribunal local com base na análise das provas nos autos, ante o óbice do enunciado n. 7 da Súmula do STJ.
+2. Na hipótese, o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, afirmou de forma categórica que não foi comprovado o vício no produto, a ensejar a responsabilização por danos materiais e morais. Rever essa conclusão, neste caso, é impossível ante o óbice do enunciado de súmula supramencionado.
+3. O dispositivo legal indicado (art. 333, II, do CPC) não foi debatido pelo Tribunal de origem, obstando o conhecimento do recurso especial pela ausência de prequestionamento. Aplicação do enunciado 282 da Súmula do STF.
+4. Dessa forma, não tendo a matéria, inversão do ônus da prova, relacionada ao artigo apontado como violado sido enfrentada pelo acórdão recorrido, obsta o conhecimento do recurso especial.
+5. Se os embargos declaratórios não tiveram o condão de suprir o devido prequestionamento, deve a parte suscitar violação do art. 535 do Código de Processo Civil, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado, e não interpor recurso contra questão federal não prequestionada, como ocorreu na espécie.
+Incidência do enunciado n. 211 da Súmula desta Corte.
+6. Agravo regimental improvido. (AgRg no AREsp 773.615/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/11/2015, DJe 10/12/2015)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, bem como o que ficou decidido na instância ordinária quanto à verba regulamentada nesse dispositivo processual, arbitro os honorários recursais em R$ 500,00 (quinhentos reais).
+Intimem-se.
