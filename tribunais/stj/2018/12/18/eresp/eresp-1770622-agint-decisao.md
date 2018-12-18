@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS S.A. contra decisão (fl. 974) que, em juízo de retratação, deu provimento ao agravo para determinar a reautuação como recurso especial.
+A requerente alega, em síntese, que a SOMPO SAÚDE SEGUROS S.A. não impugnou especificamente os fundamentos da decisão de fls. 729/732, de modo que o recurso (fls. 736/749) não poderia ter sido conhecido.
+Aduz também que a decisão ora agravada está carente "(..) de fundamentação jurídica, na medida em que não exarou os motivos ensejadores do juízo de retratação acerca da decisão monocrática proferida anteriormente" (fl. 984).
+Por fim, sustenta que o agravo em recurso especial não preencheu os pressupostos de admissibilidade, pois
+"(..) da análise das razões recursais do apelo especial verifica-se a impossibilidade de apreciação pela Corte Superior por óbice às Súmulas 05 e 07 do STJ e 283 do STF, em que não permite o reexame das provas e fatos constantes dos autos e nem discussão de cláusulas contratuais, e, da mesma forma, não há como se apreciar suposta violação à dispositivo legal sem o devido enfrentamento no acórdão recorrido, exarado pelo Tribunal "a quo", tampouco matéria com jurisprudência consolidada deste Superior Tribunal de Justiça.
+(..)
+(..) o Agravo em Recurso Especial também não preenche o pressuposto válido para reanálise recursal com amparo na alínea "c" do inciso III do artigo 105 da CF, posto que o suposto dissidio jurisprudencial arguido pela Agravada não guarda similitude com o caso dos autos e, ainda, sequer foi demonstrado de forma analítica e comprovada a divergência na interpretação da lei federal entre o v. acórdão recorrido e o v. acórdão utilizado como paradigma, em total desrespeito ao disposto pelo artigo 255, §§ 1º e 2º, do RISTJ e artigo 1.029, §1º, do CPC" (fls. 990/991).
+Impugnação apresentada às fls. 1.001/1.011.
+É o relatório.
+DECIDO.
+O recurso não merece ser conhecido.
+Com efeito, como cediço, a decisão que dá provimento ao agravo para determinar a sua reautuação como recurso especial é irrecorrível, consoante o art. 258, § 2º, do Regimento Interno do STJ.
+Isso porque a determinação de reautuação do agravo não resulta na satisfação dos requisitos de admissibilidade do recurso especial, que deverá sofrer novo juízo de conhecimento e, superado este, terá o mérito analisado.
+Cumpre asseverar que se admite a interposição de agravo interno contra a decisão que provê agravo em recurso especial determinando sua reautuação apenas quando restar comprovada a existência de vícios relativos à admissibilidade do próprio agravo, o que não é o caso dos autos.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA A CONVERSÃO DE AGRAVO EM RECURSO ESPECIAL. DECISÃO IRRECORRÍVEL. PRECEDENTES. POSIÇÃO MITIGADA APENAS PARA AUTORIZAR A APRECIAÇÃO DE RECURSOS QUE QUESTIONEM A PRÓPRIA ADMISSIBILIDADE DO AGRAVO EM RECURSO ESPECIAL, ÚNICA QUESTÃO CUJA ANÁLISE FICA IMPOSSIBILITADA COM A CONVERSÃO. JUÍZO DE ADMISSIBILIDADE RECURSAL EFETUADO PELO TRIBUNAL DE ORIGEM QUE NÃO VINCULA A ESTA CORTE, NÃO ESTANDO OBRIGADA A OBSERVAR OS FUNDAMENTOS POR ELE UTILIZADOS. CONVERSÃO QUE NÃO OBSTA A VERIFICAÇÃO DOS REQUISITOS DE ADMISSIBILIDADE RECURSAL. RAZÕES APRESENTADAS NO AGRAVO QUE SE MOSTRAM SUFICIENTES PARA TER COMO IMPUGNADOS OS FUNDAMENTOS UTILIZADOS PELO TRIBUNAL DE ORIGEM PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INEGÁVEL NATUREZA GENÉRICA DO JUÍZO NEGATIVO DE ADMISSIBILIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO." (AgInt no REsp nº 1.740.224/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 5/9/2018)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA A REAUTUAÇÃO DO AGRAVO COMO RECURSO ESPECIAL. IRRECORRIBILIDADE.
+1. A jurisprudência firmada por esta Corte é no sentido de ser irrecorrível a decisão que dá provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do art. 258, § 2º, do Regimento Interno do STJ.
+2. A determinação de reautuação do agravo não representa a satisfação dos requisitos de admissibilidade do recurso especial, o qual passará por novo juízo de admissibilidade, além da análise do mérito, se ultrapassado aquele.
+3. Agravo interno no agravo em recurso especial não conhecido." (AgInt no AREsp nº 773.569/RJ, Rel. Ministra NANCY ANDRIGHI, DJe 18/10/2017)
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO AGRAVO INTERNO PARA DETERMINAR A CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO IRRECORRÍVEL, EM PRINCÍPIO.
+1. Cuida-se de Agravo Interno interposto contra decisão monocrática, que converteu o Agravo em Recurso Especial.
+2. No presente momento discute-se apenas a decisão que converteu o Agravo em Recurso Especial. Assim, em princípio, é irrecorrível a decisão que dá provimento a Agravo para determinar a sua conversão em Recurso Especial (AgRg no AREsp 353.560/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/3/2015).
+3. Contudo, a "jurisprudência do STJ apenas admite que a regra seja mitigada quando restar comprovada a existência de vícios relativos à admissibilidade do próprio agravo," (RCD no AREsp 722.433/PA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/9/2015, grifo acrescentado).
+4. Esclareça-se que, ao contrário do alegado pelo ora agravante, o Agravo impugnou especificamente os fundamentos da decisão do Tribunal a quo que inadmitiu o Recurso Especial; portanto, não há vícios relativos à admissibilidade do Agravo.
+5. No mais a "decisão que dá provimento ao Agravo apenas para convertê-lo em Recurso Especial pode ter fundamentação sucinta, visto que seus pressupostos de admissibilidade serão novamente analisados quando do julgamento na forma do art. 257 do RISTJ, hipótese em que inexiste prejuízo". (AgRg no AgRg no REsp
+1.414.765/MG, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 29/9/2015, grifo acrescentado).
+5. Agravo Interno não provido." (AgInt no REsp nº 1.660.381/SP, Rel. Ministro HERMAN BENJAMIN, DJe 9/10/2017)
+Ademais, ao contrário do alegado, o recurso de agravo interno da SOMPO SAÚDE SEGUROS S.A. se insurgiu, de modo específico, contra os fundamentos da decisão de 729/732, o que resultou no seu conhecimento, já que inaplicável a Súmula nº 182/STJ.
+Quanto à aduzida deficiência de fundamentação da decisão impugnada, cabe assinalar que a jurisprudência desta Corte Superior é no sentido de que "(..) a decisão que dá provimento ao agravo apenas para convertê-lo em recurso especial pode ter fundamentação sucinta, visto que seus pressupostos de admissibilidade serão novamente analisados quando do julgamento na forma do art. 257 do RISTJ, hipótese em que inexiste prejuízo" (AgRg no AgRg no REsp nº 1.414.765/MG, Rel. Ministro João Otávio de Noronha, DJe 29/9/2015).
+Por fim, os temas de mérito ventilados nas razões do recurso especial, bem como a aplicação de óbices ao conhecimento recursal, serão enfrentados oportunamente, quando do julgamento definitivo.
+Ante o exposto, não conheço do agravo interno.
+Publique-se.
+Intimem-se.
