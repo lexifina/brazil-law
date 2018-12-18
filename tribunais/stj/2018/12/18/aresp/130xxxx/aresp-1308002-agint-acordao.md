@@ -1,0 +1,105 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS, ESTÉTICOS E PENSÃO MENSAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+AGRAVO DESPROVIDO.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO(Relator):
+Trata-se de agravo interno interposto por GILBERTO MARINHO MORAES e OUTROS, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS, ESTÉTICOS E PENSÃO MENSAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO, PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESTA EXTENSÃO NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a parte agravante alega negativa de prestação jurisdicional e que não pretende o reexame de provas, repisando as alegações da peça inicial, de cerceamento de defesa em razão do indeferimento da realização de perícia que visa comprovar que os fogos de artifício que atingiram a Recorrida não saíram da casa dos Recorrentes.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS, ESTÉTICOS E PENSÃO MENSAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+AGRAVO DESPROVIDO.
+
+VOTO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO(Relator):
+Eminentes colegas, a irresignação não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de negativa de prestação jurisdicional e que não pretende o reexame de provas, repisando as alegações da peça inicial, de cerceamento de defesa em razão do indeferimento da realização de perícia que visa comprovar que os fogos de artifício que atingiram a Recorrida não saíram da casa dos Recorrentes, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+ Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, assim consignando quanto à questão suscitada:
+Primeiramente, os embargantes apontam contradição no aresto, porquanto indeferiu a perícia almejada, malgrado tenha assentado que as provas produzidas no âmbito criminal não poderiam ser as únicas a embasar o juízo cível. Sustentam, ainda, que existe omissão no que se refere à inexistência de contraditório na ação penal, quando da realização da referida perícia.
+No entanto, inexiste eiva alguma a ser sanada na hipótese, pois o aresto examinou, de modo hialino, as questões debatidas pelos embargantes.
+Decidindo pela manutenção da interlocutória que indeferiu a produção de prova técnica, a Câmara posicionou frontalmente contrária aos interesses dos insurgentes. Em outras palavras, o Colegiado pronunciou-se de maneira expressa quanto à prescindibilidade da perícia, sob o fundamento de que a questão fora adrede dirimida na esfera criminal.
+Ao revés do alegado pelos recorrentes, o acórdão não incidiu em contradição no indeferimento daquela prova. Com efeito as razões pelas quais houve a condenação dos réus no processo -crime, sem trânsito em julgado, não se erigem como exclusivas para a responsabilização deles no juízo cível, cuja sentença ainda se aguarda.
+Logo, inexiste a contradição aventada.
+Igualmente não assiste razão aos embargantes no que toca à alegada omissão.
+Conquanto digam que a perícia deu-se somente no inquérito policial, infere-se do próprio aresto que a assertiva deles quanto à ""impossibilidade física de um artefato lançado da residência dos agravantes atingir a vítima no posto de gasolina" (ff. 07),mostra-se aparentemente despicienda, pois tal questão fora adrede equacionada no processo-crime. Vale dizê-lo, o louvado constatou no âmbito criminal que a trajetória dos fogos lançados pelos agravantes poderia em tese atingir a vítima, motivo pelo qual a repetição da perícia no juízo cível, ao que tudo indica, revela-se dispensável." (Fl.
+52).
+Ademais, o inconformismo relativo à produção da prova técnica "somente na fase de inquérito e irrepetível na fase processual (art. 155, parte final, do CPP)" (fl. 68) deveria ter sido manifestado oportunamente na esfera criminal e não no juízo cível.
+De sorte que emerge incogitável falar-se em contradição ou omissão no julgado. Confira-se como os temas foram abordados às fls. 50/55:
+ ..
+Da interpretação da norma em destaque, extrai-se que a perícia pleiteada pelos agravantes se revela impraticável e desnecessária ao deslinde da questão, tendo em vista que o evento danoso remonta ao final do ano de 2008.
+ A alegação de cerceamento de defesa não convence, porquanto a situação ocorreu há praticamente 5 (cinco) anos, o que impede seja averiguados o local e os objetos nas exatas condições em que se encontravam na data dos fatos, sendo, portanto, impraticável a perícia.
+Deste modo, reitera-se que a perícia útil ao caso, na atual situação, se restringe a averiguar os danos físicos ocorridos pela agravante, e não, acerca da culpabilidade no manuseio dos fogos de artifício, em razão do longo decurso de tempo decorrido entre a data do sinistro e as condições da cena de outrora e as atuais.
+Logo, inexistem razões para a produção de prova pericial pretendida pelos agravantes.
+Dessarte, não há jaça alguma a ser sanada no decisum hostilizado. (e-STJ fls. 83/89).
+
+Destarte, não justifica a alegação de violação ao artigo 535 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. QUANTUM DEBEATUR. COISA JULGADA. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. PRETENSÃO DE EFEITOS MODIFICATIVOS. IMPOSSIBILIDADE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. O acórdão embargado foi claro ao afirmar que não houve violação dos arts. 165, 458 e 535 do Código de Processo Civil, uma vez que o Tribunal de origem, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pela ora embargante, adotou fundamentação suficiente para decidir de modo integral a controvérsia.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo bastante para proferir a decisão.
+4. Na espécie, o que se pretende, nesta via, é emprestar efeito infringente ao recurso, para que seja rediscutido o mérito da questão, providência incompatível com a sua natureza.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1096906/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2013, DJe 29/11/2013)
+PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. PREPARO. INTIMAÇÃO. ADVOGADO SUBSTABELECIDO. POSSIBILIDADE.AUSÊNCIA DE INDICAÇÃO DE PUBLICAÇÃO EM NOME DE DETERMINADO PROCURADOR. NULIDADE. INEXISTENTE. SÚMULA 83/STJ.
+1. Inexistente a alegada violação dos arts. 535, II, 458 e 165 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Na verdade, a questão não foi decidida conforme objetivava a agravante, uma vez que foi aplicado entendimento diverso. É cediço que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+3. A Corte Especial firmou entendimento no sentido de que "havendo mais de um advogado constituído, é válida a intimação feita em nome de qualquer deles, independentemente da sede de sua atuação profissional, desde que não haja pedido expresso no sentido de que seja realizada em nome de terminado patrono" (AgRg nos EREsp 700.245/PE, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 2/8/2010, DJe 23/8/2010). Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 288.708/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/03/2013, DJe 02/04/2013)
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Nesse sentido:
+"PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.
+VALORAÇÃO DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Além disso, os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. (grifou-se)
+2. Em relação ao cerceamento de defesa, a irresignação não merece prosperar, uma vez que a Corte local não emitiu juízo de valor sobre a matéria alegada. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incidência da Súmula 211/STJ.
+3. Ademais, é evidente que, para modificar o entendimento firmado no acórdão impugnado, reconhecendo-se o cerceamento do direito de defesa da parte recorrente, ou a insuficiência das provas, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial. Súmula 7/STJ.
+4. Agravo Regimental não provido." (AgRg no AREsp 216.688/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente. (grifou-se)
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido." (AgRg no AREsp 373.162/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2014, DJe 14/10/2014)
+No que tange ao alegado cerceamento de defesa, de acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado, pelas instâncias de origem, que o feito se encontrava suficientemente instruído, afirmando-se a presença de dados bastantes à formação do convencimento.
+Ademais, o princípio da persuasão racional ou da livre convicção motivada do juiz (art. 131 do CPC) consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+Nesse contexto, importante observar as conclusões do Tribunal acerca do tema:
+Malgrado a sentença penal condenatória prolatada no processo n.
+006.09.000269-0 não tenha transitado em julgado, nada obsta que o juízo cível utilize elementos probatórios produzidos naquela esfera. As provas evidenciadas no juízo criminal, a descoberto do trânsito em julgado, não poderão ser as únicas a embasar o édito cível, o qual deverá também escorar-se em outros elementos coletados nesta última seara.
+ ..
+Ressalte-se que produção de prova pericial para demonstrar "a impossibilidade física de um artefato lançado da residência dos agravantes atingir a vítima no posto de gasolina" (fl. 07), mostra-se aparentemente despicienda, pois tal questão fora adrede equacionada no processo -crime. Vale dizê-lo, o louvado constatou no âmbito criminal que a trajetória dos fogos lançados pelos agravantes poderia em tese atingir a vítima, motivo pelo qual a repetição da perícia no juízo cível, ao que tudo indica, revela-se dispensável.
+Sobre o assunto, haure-se excerto esclarecedor proferido pelo Des.
+Subst. [NOME], na Apelação Criminal n. 2013.059134-3, interposta pelos insurgentes e disponível no sítio eletrônico do Tribunal. Confira-se:
+O local foi examinado pelo perito [NOME], que salientou que a área em que ocorreu o lançamento dos fogos "tratava-se de uma edícula em alvenaria, com um piso superior contendo um quarto, uma área coberta e outra descoberta, com muretas nas extremidades norte, leste e sul, com 81 centímetros de altura, contendo um tijolo com superfície triangular, como acabamento no alto, pintado de cor salmão" (fl. 127).
+Constatou a perícia, ainda, que "no alto da mureta nas extremas norte e leste, foram encontrados sete marcas de "queima" na cerâmica do tijolo do acabamento, que sugerem terem sido produzidas por ignição de fogos de artifício" e que "duas queimas apresentavam-se nas bordas interna e externa, indicio de que dois proiéteis deslocaram-se para o sentido leste, sendo um precisamente em direção ao posto de gasolina denominado "GP"" (fl. 128).
+Dentre as imagens registradas durante o exame pericial, a fotografia de fl.142 traz a vista da varanda da residência dos acusados, em que é possível ter clara visão do posto de gasolina "GP", onde as vítimas estavam. Na imagem, é possível visualizar, também, os resquícios deixados pela queima dos fogos de artifícios lançados sobre os tijolos do muro de proteção que, segundo a perícia, foram produzidas por meio de "pólvora queimada" (fl. 128).
+Por sua vez a imagem de fl. 143 destaca a trajetória que poderia ser
+tomada pelos foguetes ao serem lançados horizontalmente através da edícula da residência, o que é corroborado pelas informações prestadas pelo Técnico em Pirotecnia [NOME], que afirmou ser perfeitamente possível os artefatos, quando disparados de forma indevida e sem a utilização da base própria para lançamento, atingirem o posto de gasolina onde se encontravam as vítimas, tal como ocorreu na noite do incidente. Veja-se:
+ ..  que foi com policiais ao local, semanas depois, somente para examinar se aquele tipo de fogo de artificio teria condições de atingir a distância entre o sobrado e onde estava a vitima; que é técnico em pirotecnia há 13 anos que concluiu que era possível aquele tipo de foguete de vara percorrer a distância entre o sobrado e o posto de combustível. que a residência estava fechada; que não entraram na residência, ficaram na frente da casa; que observou a edícula atrás da casa por fotos; que disse aos policiais que aquele tipo de foguete pode percorrer uma distância de 100 até 110 metros, e a distância medida entre o sobrado e o posto foi menor que essa; que o foguete de vara lançado horizontalmente pode percorrer entre 100 e 110 metros que trabalha com fogos de artifício; que a lei obriga a venda dos foguetes de vara com o suporte de lançamento,  ..  mas o depoente conhece casos em que os foguetes foram vendidos sem o suporte; que em lojas especializadas os foguetes são vendidos com os suportes; (fl. 497).
+Neste ponto, ressalta-se que vários fragmentos de foguetes do tipo "vara" referidos pelo Técnico em pirotecnia foram encontrados na residência dos acusados, conforme concluiu o Laudo Pericial n. IC/0831/2009, em que ficou registrado que "os fragmentos examinados eram remanescentes da explosão de vários tipos de fogos de artifício, como rojões de vara, de foguetes e de bombas de fogos de artifício" (fls. 196-206).
+Deste modo, diante de tudo o que foi constatado na residência dos acusados, a perícia chegou à seguinte conclusão acerca dos fatos ocorridos na noite do incidente:
+"no local em questão foram disparados no mínimo sete (07) fogos de artifício do tipo "vara" com altura superior a oitenta e um centímetros (81 cm), sendo dois (02) em direção leste, onde um (01) precisamente em direção ao Posto de Gasolina denominado "GP", não sendo encontrado no local a presença da respectiva base de disparo para local de laje e/ou piso semelhante (condições técnicas seguras - base de lançamento do tipo cano de PVC fornecida para venda pelos fabricantes juntamente com os artefatos  .. " (fl. 128-129).
+ .. . (e-STJ fl. 56/58).
+Assim, restou expressamente consignado no acórdão do Tribunal de origem que no âmbito criminal constatou-se que a trajetória dos fogos lançados pelos agravantes poderia atingir, em tese, a vítima, de modo que a repetição da perícia no juízo cível revelava-se dispensável.
+Ora, a produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ISS. PRESTAÇÃO DE SERVIÇO. FUMIGAÇÃO. CONGÊNERES. INTERPRETAÇÃO EXTENSIVA DA LISTA ANEXA À LC 116/2003 E À LEI MUNICIPAL 1.054/2003. PREVISÃO EM LEI LOCAL. INCIDÊNCIA DAS SÚMULAS 7/STJ E 280/STF.
+ ..
+II. Os arts. 130 e 131 do CPC consagram o princípio do livre convencimento motivado, segundo o qual o Juiz é livre para apreciar as provas produzidas, bem como para decidir quanto à necessidade ou não da produção das que forem requeridas pelas partes, podendo, motivadamente, indeferir as diligências que reputar inúteis ou protelatórias.
+III. Não há falar em cerceamento de defesa, quando o julgador considera desnecessária a produção de prova, mediante a existência, nos autos, de elementos suficientes para a formação de seu convencimento.
+ ..  VII. Agravo Regimental improvido. (AgRg no AREsp n. 118.207/SP, Relatora a Ministra Assusete Magalhães, DJe de 23/9/2014 - grifou-se)
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. PRESCRIÇÃO. INTERRUPÇÃO. PARCELAMENTO. DESTINATÁRIO DA PROVA. JUIZ. PRINCÍPIO DO LIVRE CONVENCIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+2. Cabe ao juiz, o destinatário final da prova, em sintonia com o sistema de persuasão racional adotado pelo CPC, dirigir a instrução probatória e determinar a produção das provas que considerar necessárias à formação do seu convencimento.
+ ..  Agravo regimental improvido. (AgRg no AREsp n. 533.843/MG, Relator o Ministro Humberto Martins, DJe de 1/9/2014 - grifou-se)
+AGRAVO REGIMENTAL. LOCAÇÃO DE IMÓVEL. AÇÃO DE DESPEJO. CERCEAMENTO DE DEFESA POR JULGAMENTO ANTECIPADO DA LIDE. INOCORRÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. INCIDÊNCIA DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FALTA DE COTEJO ANALÍTICO ENTRE O ACÓRDÃO PARADIGMA E OS ARRESTOS COLACIONADOS. DECISÃO MANTIDA.
+1. Não configura o cerceamento de defesa o julgamento da causa sem a produção de prova testemunhal. Hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do art. 130 do Código de Processo Civil, permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou protelatórias. Revisão vedada pela Súmula 7 do STJ.
+2. O conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados.
+3. Agravo regimental não provido" (AgRg no AgRg no Ag n. 1.295.948/SC, Relator o Ministro Luis Felipe Salomão, DJe de 30/8/2011 - grifou-se)
+Portanto, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula nº 7/STJ.
+ Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
