@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO - PRESTAÇÃO DE SERVIÇO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA REQUERIDA.
+1. É inadmissível o recurso especial, quando a deficiência de sua fundamentação - consubstanciada na ausência de indicação do dispositivo legal tido por violado ou objeto da suposta divergência jurisprudencial - não permitir a exata compreensão da controvérsia, ante a incidência, por analogia, da Súmula 284 do STF.
+2. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno, interposto por [NOME] AR CONDICIONADO PARA VEÍCULOS LTDA em face da decisão acostada às fls. 371/372, e-STJ, da lavra deste relator, que negou provimento ao agravo em recurso especial.
+O apelo extremo (art. 105, III, "c", da CF/88) fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fls. 262, e-STJ):
+PRESTAÇÃO DE SERVIÇOS - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXECUTADA QUE APRESENTOU EMBARGOS À EXECUÇÃO, EFETUANDO DEPÓSITO PARA GARANTIA DO JUÍZO - DEPÓSITO QUE NÃO FOI REALIZADO PARA FIM DE PAGAMENTO - JUROS DE MORA QUE DEVEM INCIDIR SOBRE O DÉBITO ATÉ EFETIVO PAGAMENTO - DEVEDOR QUE ASSUMIU O RISCO DE VER O DEPÓSITO DEFASADO, DEVENDO ARCAR COM A DIFERENÇA.
+Apelação provida.
+Embargos de declaração opostos e rejeitados.
+Nas razões do especial (e-STJ, fls. 285/307), a parte recorrente colaciona divergência jurisprudencial no sentido da possibilidade de incidência de juros e correção monetária no depósito realizado em conta judicial remunerada até o efetivo levantamento, bem como ser da instituição financeira depositária a responsabilidade pela remuneração.
+Contrarrazões às fls. 352/358, e-STJ.
+Em decisão singular, negou-se provimento ao recurso especial em razão da incidência da Súmula 284 do STF, haja vista a ausência de indicação de dispositivo tido por malferido.
+Inconformada, a ora agravante maneja o presente agravo interno no qual aduz estar a decisão agravada a negar o direito de acesso à instância superior e a contrariar princípios constitucionais insertos no art. 5º da Carta Magna.
+No mais, alegou não ser caso de incidência da Súmula 284 do STF.
+Impugnação às fls. 395/399, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO - PRESTAÇÃO DE SERVIÇO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA REQUERIDA.
+1. É inadmissível o recurso especial, quando a deficiência de sua fundamentação - consubstanciada na ausência de indicação do dispositivo legal tido por violado ou objeto da suposta divergência jurisprudencial - não permitir a exata compreensão da controvérsia, ante a incidência, por analogia, da Súmula 284 do STF.
+2. Agravo interno desprovido.
+
+VOTO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Consoante asseverado na decisão agravada, a tese sustentada pela insurgente nas razões do apelo extremo consiste na existência de dissídio jurisprudencial. Todavia, a recorrente se limitou a alegar, de forma genérica, a divergência jurisprudencial acerca da matéria, deixando de apontar os dispositivos legais que teriam sido violados.
+Com efeito, o recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivo legal tido por vulnerado não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência, por analogia, do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nos termos do entendimento desta Corte, os recursos interpostos pela alínea "c" do permissivo constitucional também exigem a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio mediante o cotejo analítico dos acórdãos recorrido e paradigmas.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO.  ..  DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO.  ..  4. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados. 5. Agravo interno a que se nega provimento. (AgInt no REsp 1337221/ES, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/10/2016, DJe 04/11/2016)  grifou-se
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. ..  DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF.  ..  4. Inviável análise de recurso especial interposto pela alínea c do permissivo constitucional que não indica, com clareza e precisão, os dispositivos de lei federal em relação aos quais haveria dissídio jurisprudencial. Incidência da Súmula nº 284 do STF. Precedente. 5. Agravo regimental não provido. (AgRg no AREsp 733.193/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/10/2016, DJe 08/11/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA - CORRENTE. CAPITALIZAÇÃO DE JUROS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. DISSÍDIO NÃO DEMONSTRADO. SÚMULA N. 284/STF. REPETIÇÃO SIMPLES DO INDÉBITO. POSSIBILIDADE. DECISÃO MANTIDA. 1. No recurso interposto pela alínea "a" do inciso III do artigo 105 da CF/1988, é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula n. 284/STF. 2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio mediante o cotejo analítico dos acórdãos recorrido e paradigmas (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC), ônus dos quais o recorrente não se desincumbiu. Desse modo, incide, de forma analógica, o enunciado n. 284 da Súmula do STF.  ..  4. Agravo regimental a que se nega provimento. (AgRg no REsp 1545012/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/10/2015, DJe 14/10/2015)  grifou-se
+PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. PRINCÍPIO DO JUIZ NATURAL. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF.  ..  3. Afastado o conhecimento do recurso pela alegada violação ao princípio do juiz natural. Primeiro porque a matéria é de cunho eminentemente constitucional (art. 5º, XXXVII e LIII da CF/88) tendo sido, inclusive, enfrentada pela Corte de Origem à luz de julgado do Supremo Tribunal Federal (hoje o tema já foi apreciado em repercussão geral pelo STF no RE n. 597.133/RS, Tribunal Pleno, Rel. Min. Ricardo Lewandowski, julgado em 17.11.2010) e por segundo não há na petição de recurso especial qualquer indicação do dispositivo de lei federal que se entende violado a respeito dessa tese. Incide a Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".  ..  5. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1212372/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/06/2013, DJe 01/07/2013)  grifou-se
+Na hipótese sub judice, portanto, inafastável a aplicação da Súmula n. 284 do STF, em razão da deficiência na fundamentação do apelo extremo.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
