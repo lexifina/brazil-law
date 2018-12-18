@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). ALEGAÇÕES GENÉRICAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL LOCAL.
+AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por BANCO DO BRASIL SA contra decisão do Tribunal de Justiça do Estado de Rondônia que deixou de admitir o recurso especial aos seguintes fundamentos (e-STJ fls. 245/252): (i) "observa-se que a irresignação ventilada pelo recorrente já foi objeto da decisão proferida pelo Superior Tribunal de Justiça em recurso especial repetitivo, previsto no art. 543-C do CPC, que teve como leading case o REsp 1370899/SP (Tema 685  .. ); (ii) "vê-se que as matérias tratadas no arts. 219. 580 e 586 c/c 475-R, do CPC, arts. 21 e 22 da Lei n. 12.016/09. art 104. da Lei nº 8.078/90, art. 189, do CC, não foram devidamente prequestionadas", o que atrai a incidência dos óbices n. 282 e 356/STF; (iii) "com relação à alegada contrariedade ao art. 3o. do CPC. arts. 5o e 16 da Lei nº 7.347/85 e art. 2º-A da Lei nº 9 494/97, vê-se que a decisão recorrida está fundamentada em conformidade com a jurisprudência do próprio STJ", o que atrai a incidência do óbice sumular n. 83/STJ; (iv) "constata-se atecnia quanto à alegada contrariedade a todos os artigos das Leis n. 9.494/97 e 7.347/85. Isso porque, no entendimento do Superior Tribunal de Justiça, a ofensa genérica à lei federal é insuficiente para delimitar a controvérsia, sendo necessária a especificação do dispositivo considerado violado, conforme disposto na Súmula n. 284 do STF"; (v) "observa-se ainda que não é possível analisar eventual negativa de vigência ao art 5o. inc. XXI. da CF, uma vez que não cabe recurso especial para análise de normas constitucionais"; e (vi) "vejo que a pretensão do recorrente encontra óbice na Súmula n. 7 do STJ".
+Em suas razões de agravo em recurso especial, a instituição financeira agravante alega que (e-STJ fls. 278/279): (i) "preencheu todos os requisitos necessários para interposição do Recurso Especial, bem como demonstrou a ofensa à Lei Federal" (e-STJ fl. 278); (ii) "a ofensa à coisa julgada foi devidamente relacionada aos artigos pertinentes"; (iii) "não merece prosperar o entendimento de que as Súmulas 211 e 282 do STF foram feridas, posto que a ofensa à coisa julgada sempre foi o cerne da questão, bem como os dispositivos da controvérsia"; e (iv) "trata-se da via especial e não extraordinária", bem como que "o ora agravante colacionou fundamento que demonstrou a controvérsia do presente caso".
+Não houve resposta da parte agravada (cf. e-STJ fl. 312).
+Recebidos os autos nesta Corte Superior, determinei a sua devolução à origem para que o recurso permanecesse suspenso até o pronunciamento definitivo deste STJ no REsp 1.438.263/SP, afetado para julgamento sob a sistemática dos recursos repetitivos, a teor do art. 543-C, caput e § 1.º, do Código de Processo Civil/1973 (e-STJ fls. 323/324).
+Entretanto, o referido recurso especial repetitivo foi desafetado, sendo assim, o Tribunal de origem determinou a devolução dos autos a este STJ (e-STJ fls. 348).
+Os autos retornaram-me conclusos (cf. e-STJ fl. 358).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, o presente recurso não merece ser conhecido.
+Na presente hipótese concreta, a parte agravante esquivou-se do ônus que lhe competia, qual seja, a impugnação específica e efetiva da decisão de admissibilidade proferida pelo Tribunal a quo.
+Com efeito, possível extrair que o agravante limitou-se a tecer alegações genéricas acerca do preenchimento dos requisitos de admissibilidade do recurso especial, bem como acerca da não incidência dos óbices das Súmulas 282/STF e 211/STJ, impeditivo este sequer apontado pelo decisum agravado.
+Ora, as razões apresentadas não são aptas a infirmar o decisum recorrido, ao contrário, demonstram clara violação ao princípio da dialeticidade. A propósito:
+"AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE, NA ORIGEM, NÃO ADMITIU RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.
+1.- Cumpre à parte, nas razões do agravo, impugnar todos os fundamentos suficiente da decisão que, na origem, não admite o recurso especial. Além disso, é preciso que tal impugnação seja efetiva, exigindo-se da parte que demonstre a impertinência dos motivos nos quais fundada a decisão agravada.
+2.- A agravante, quando da interposição do Agravo, não cuidou de impugnar a decisão agravada em toda a sua extensão, mormente quanto à afirmação de incidência das Súmulas 5, 7 e 13/STJ.
+3.- Agravo Regimental improvido"
+(AgRg no AREsp 79.569/SP, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 01/02/2012)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC.PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC, ônus da qual não se desincumbiu a parte insurgente.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento."
+(EDcl no AREsp 347.137/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 17/12/2013, DJe 03/02/2014, grifei)
+Assim, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ.
+"Art. 253.  ..
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida" (grifei)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
