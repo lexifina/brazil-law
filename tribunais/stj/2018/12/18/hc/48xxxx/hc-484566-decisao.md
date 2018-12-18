@@ -1,0 +1,17 @@
+DECISÃO
+1. Trata-se de habeas corpus, com pedido liminar, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2259262-33.2018.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito à livre locomoção de DENIS DA SILVA OLIVEIRA.
+O impetrante afirma que a manutenção da custódia cautelar não apresentou fundamentação idônea, tendo em vista a ausência dos requisitos necessários.
+Realça as condições pessoais favoráveis do recorrente, que seria primário, com ocupação lícita e residência fixa, predicados que lhe garantiriam o direito de responder à ação penal em liberdade.
+Sustenta que se estaria diante de flagrante ilegalidade passível de afastar o óbice contido no verbete 691 da Súmula do Supremo Tribunal Federal.
+Requer, desse modo, a concessão sumária e definitiva da ordem constitucional para que seja revogada a segregatória preventiva do paciente, aplicando-lhe as medidas cautelares alternativas à prisão.
+É o relatório.
+2. Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fl. 48):
+ ..
+Pela documentação apresentada, não se visualiza de modo inequívoco a aventada ilegalidade na manutenção da custódia cautelar do paciente.
+Por outro lado, também não se visualiza, ao menos no exame formal mais imediato, a apontada ausência de fundamentação que consubstancia o inconformismo do impetrante. Cabe notar, a esse respeito, que a avaliação mais íntima dos argumentos empregados pelo Juízo de origem somente será possível com o enriquecimento do feito trazido pelas informações que ainda devem aportar aos autos deste habeas corpus.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
