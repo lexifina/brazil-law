@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1857, de 17 de dezembro de 2018
+Altera as Instruções Normativas SRF nº 241, de 6 de novembro de 2002, que dispõe sobre o regime especial de entreposto aduaneiro na importação e na exportação, e RFB nº 863, de 17 de julho de 2008, que dispõe sobre o regime aduaneiro especial de loja franca.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 9º e 10 do Decreto-Lei nº 1.455, de 7 de abril de 1976, no art. 62 da Lei nº 10.833, de 29 de dezembro de 2003, e no art. 6º da Portaria MF 112, de 10 de junho de 2008, resolve:
