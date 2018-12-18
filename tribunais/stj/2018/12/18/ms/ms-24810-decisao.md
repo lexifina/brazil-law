@@ -1,0 +1,23 @@
+EMENTA
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ATO IMPUGNADO PRATICADO POR AUTORIDADE NÃO INTEGRANTE DO ROL CONSTANTE NO ART. 105, I, "B", DA CF. INEXISTÊNCIA DE ATO ATRIBUÍVEL AO MINISTRO DE ESTADO. INCOMPETÊNCIA DO STJ PARA O JULGAMENTO DO WRIT OF MANDAMUS. REMESSA DOS AUTOS À PRIMEIRA INSTÂNCIA DA JUSTIÇA FEDERAL NO DISTRITO FEDERAL.
+DECISÃO
+Trata-se de mandado de segurança, com pedido liminar, impetrado por [NOME], contra ato do Sr. Ministro de Estado da Saúde e do Sr. Secretário de Gestão do Trabalho e da Educação na Saúde, consubstanciado no Edital n. 18, de 19 de novembro de 2018, que trata da seleção de médicos para o Programa de Provisão de Médicos do Ministério da Saúde - Projeto Mais Médicos para o Brasil.
+O impetrante narra ser médico cirurgião, formado pela Universidad Cristiana de Bolívia, conforme Registro A-13513652, expedido pelo Estado Plurinacional de Bolívia e de acordo com a legislação vigente naquele país.
+Aduz, em síntese, que o Edital n. 18, de 19 de novembro de 2018, " ..  restringe a participação de médicos formados no exterior sem o registro cujo diploma ainda não fora revalidado (fl. 5)", o que, em tese, fere seu direito ao livre exercício profissional.
+Pede liminar, a fim de que as autoridades apontadas como coatoras " ..  procedam à autorização para que seja possível a sua inscrição no Edital vigente, para que o IMPETRANTE possa ser relacionado na lista de inscritos e assim escolher seu local de atuação, como foi conferido a todos os demais inscritos (fl. 9)".
+É o relatório. Decido.
+Consoante o disposto no art. 105, I, "b", da CF, a competência do Superior Tribunal de Justiça limita-se a julgar originariamente mandado de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+O ato contra o qual se insurge o impetrante diz respeito ao Edital n. 18, de 19 de novembro de 2018, que, como relatado, trata da provisão de médicos para atuar no PROJETO MAIS MÉDICOS PARA O BRASIL, praticado pelo Sr. Secretário de Gestão do Trabalho e da Educação na Saúde, conforme consta à fl. 76.
+Não há, portanto, ato atribuível a Ministro de Estado. Nessas condições, forçoso reconhecer, de plano, a incompetência desta Corte Superior de Justiça para apreciar e julgar o presente writ of mandamus.
+No mesmo sentido, menciono as seguintes decisões monocráticas: MS 23.141/DF, Rel. Min. Sérgio Kukina, DJ 19/04/2018; MS 24.209/DF, Rel. Min. Benedito Gonçalves, DJ 17/04/2018; MS 24.134/DF, Rel. Min. Sérgio Kukina, DJ 12/03/2018; MS 24.004/DF, Rel. Min. Laurita Vaz, DJ 05/02/2018.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROGRAMA "MAIS MÉDICOS PARA O BRASIL". ILEGITIMIDADE DO MINISTRO DE ESTADO DA SAÚDE. COMPETÊNCIA DO SECRETÁRIO DE GESTÃO DO TRABALHO E DA EDUCAÇÃO NA SAÚDE (SGTES/MS). PRECEDENTES DO STJ. MANDAMUS DENEGADO.
+1. Cuida-se de Mandado de Segurança cujo pleito é que seja determinado, em caráter liminar, inaudita altera parte, à autoridade coatora que efetue a inscrição do impetrante no programa "Mais médicos para o Brasil" através do Edital 12/2017.
+2. O presente mandamus foi proposto por médico cubano, com diploma revalidado no Brasil. Alega o impetrante que participou do Projeto até o dia 1º/8/2017, quando ocorreu o seu desligamento sem a possibilidade de renovação. Ainda, que ao tentar se inscrever para a chamada pública do 15º ciclo para adesão ao Projeto, no dia 28/11/2017, o impetrante não obteve acesso ao SGP sob justificativa de desligamento voluntário do Projeto.
+3. Na espécie, o impetrante não comprova nenhum ato que, de forma concreta e específica, possa ser atribuído ou imputado ao Ministro de Estado da Saúde. Limitou-se a juntar aos autos a comunicação eletrônica do Departamento de Planejamento e Regulação da Provisão de Profissionais de Saúde - DEPREPS noticiando o seu desligamento do programa anterior.
+4. No caso dos autos, infere-se da legislação de regência do projeto "Mais Médicos para o Brasil" que a gestão dos procedimentos necessários à adesão de médicos é responsabilidade da Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES/MS), gerida pelo respectivo Secretário.
+4. Mandado de Segurança denegado.
+(MS 23.919/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 20/11/2018)
+Ante o exposto, declaro a incompetência desta Corte Superior para o exame do mandado de segurança e determino a remessa dos autos à Justiça Federal no Distrito Federal, em razão de o impetrante ter indicado o Sr. Secretário de Gestão do Trabalho e da Educação na Saúde como autoridade coatora.
+Comunique-se, com urgência.
+Publique-se. Intimem-se.
