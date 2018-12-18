@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PRESCRIÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto, com fulcro no art. 105, III, a e c, da CF/88, contra acórdão do Tribunal de Justiça de Alagoas, assim ementado (fl. 45):
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO CÍVEL EM AÇÃO DE EXECUÇÃO FISCAL DA DÍVIDA ATIVA. PRELIMINAR AFASTADA.
+PRESCRIÇÃO CONFIGURADA. ARTIGO 174 DO CÓDIGO TRIBUTÁRIO NACIONAL. RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+1. A teor do artigo 174 do CTN: "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva". A constituição definitiva ocorre: a) com o lançamento ou no 31º dia após este, ou, b) com a decisão administrativa da qual não cabe mais recurso;
+2. Observa-se que o(s) crédito(s) presente(s) na respectiva certidão da dívida ativa se encontra(m) prescrito(s), transcorrido o prazo legal de 05 anos.
+3. Confirmada a prescrição, resta prejudicada a apreciação das outras matérias trazidas para debate;
+4. Precedentes do Superior Tribunal de Justiça;
+5. Recurso conhecido e não provido. Unanimidade.
+No apelo especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos artigos 174 do CTN e 219, §1º, do CPC/73, afirmando que a prescrição não poderia ter sido decretada, pois os autos permaneceram conclusos ao juízo por longos anos, sem que fosse proferido despacho de admissibilidade da inicial e ordinatório de citação.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 78/80.
+É o relatório. Decido.
+Extrai-se do acórdão recorrido as seguintes considerações (fl. 51):
+No caso dos autos, observa-se que o(s) crédito(s) presente(s) na respectiva certidão da dívida ativa se encontra(m) prescrito(s), tendo transcorrido o prazo legal de 05 (cinco) anos.
+É cediço que, para as ações ajuizadas antes da alteração da Lei Complementar nº 118/05 ao Código Tributário Nacional (artigo 174, I), o marco interruptivo da prescrição era a citação válida; para aquelas ajuizadas após essa data, o marco passou a ser o despacho que ordena a citação.
+No caso dos autos, porém, vê-se que o primeiro ato do juiz corresponde a sentença, prolatada após o prazo quinquenal previsto no artigo 174 do CTN, estando prescrito(s), portanto, o(s) crédito(s).
+Dessa forma, sendo a prescrição uma das formas de extinção do crédito tributário, o juízo singular sentenciou o caso acertadamente, razão pela qual a decisão não merece maiores reparos.
+Cabe ressaltar, ainda, que apesar de haver alegação de uma provável causa de interrupção do prazo prescricional, por Termo de Confissão de Dívida, não restou o juntado nos autos tal documento, única hipótese que comprovaria sua existência e habilitaria sua análise pelo judiciário.
+Por fim, tem-se como inaplicável à hipótese versada o conteúdo da Súmula nº 106 do Superior Tribunal de Justiça, cujo conteúdo afirma que proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao o mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência, tendo em vista que o reconhecimento da prescrição se deu, exclusivamente, em virtude da desídia da própria Fazenda Pública Municipal.
+Observa-se que a referida fundamentação, que por si só, mantém o resultado do julgamento, não foi devidamente impugnado nas razões de recurso especial, já que o recorrente se limitou a afirmar que - a prescrição não poderia ter sido decretada, pois os autos permaneceram conclusos ao juízo por longos anos, sem que fosse proferido despacho de admissibilidade da inicial e ordinatório de citação -, o que acarreta o não conhecimento do recurso, nos termos da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. DIREITO ADMINISTRATIVO. ASTREINTES. REVISÃO DO VALOR. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO A COISA JULGADA. PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jurisprudência do Superior Tribunal de Justiça considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - Esta Corte Superior possui entendimento consolidado, segundo o qual o legislador concedeu ao juiz a prerrogativa de impor multa diária ao réu com vista a assegurar o adimplemento da obrigação de fazer (art. 461, caput, do CPC), bem como permitiu que o magistrado afaste ou altere, de ofício ou a requerimento da parte, o seu valor quando se tornar insuficiente ou excessiva, mesmo depois de transitada em julgado a sentença, não se observando a preclusão ou a coisa julgada, de modo a preservar a essência do instituto e a própria lógica da efetividade processual.
+V - In casu, rever o entendimento do Tribunal de origem, no sentido de reduzir o valor da multa diária, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Honorários recursais. Não cabimento. VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido (AgInt no REsp 1.690.030/PR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 16/11/2018).
+Cumpre registrar que a análise da divergência jurisprudencial fica prejudicada pela incidência do referido óbice processual.
+Ante ao exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
