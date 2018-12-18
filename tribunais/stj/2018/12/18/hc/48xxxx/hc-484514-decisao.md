@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça de São Paulo, que indeferiu o pedido liminar nos autos do HC 22551216820188260000.
+Consta dos autos que o paciente foi preso em flagrante, no dia 23 de novembro de 2018, sob a acusação da prática do delito previsto no artigo 33, caput, da Lei n. 11.343/2006 (76 gramas de massa líquida de maconha; 16.3 gramas de massa líquida de cocaína; 10,7 gramas de massa líquida de cocaína; 18,6 gramas de massa líquida de cocaína; 1.6 gramas de massa líquida de maconha; 116,8 gramas de massa líquida de maconha; 27,7 gramas de massa líquida de cocaína; 74,5 gramas de massa líquida de cocaína; 28,6 gramas de massa líquida de cocaína) - fl. 43. A prisão em flagrante foi convertida em preventiva.
+Pleiteia-se a revogação da prisão cautelar, sob a alegação de que não teriam sido apontados fundamentos idôneos.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula n. 691 do STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade. Esse posicionamento pode ser afastado apenas em se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, no qual a prisão cautelar está fundamentada na gravidade concreta do delito, especialmente em razão da natureza, quantidade e diversidade de drogas, que evidencia uma periculosidade mais acentuada (fl. 43).
+Incabível, portanto, o acolhimento da pretensão nos termos em que formulada, sendo prudente e necessário aguardar o julgamento do writ originário pelo colegiado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
