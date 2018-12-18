@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de FÁBIO VINÍCIUS MOREIRA SILVEIRA, apontando como autoridade coatora a 7ª Câmara Criminal do Tribunal de Justiça de São Paulo, no julgamento do HC n.2101884-14.2018.8.26.0000.
+Consta dos autos que o paciente, cumprindo pena no regime semiaberto, teve um acidente vascular cerebral durante a saída temporária de Natal de 2017.
+Como o apenado não retornou à unidade prisional após a alta médica, foi expedido mandado de prisão, sendo sustado o regime semiaberto. Após cumprido referido mandado, o Juízo de 1º grau determinou que fosse realizado exame para verificação do atual estado de saúde do sentenciado para posterior deliberação sobre o pedido de prisão albergue domiciliar (fl. 39).
+Contra essa decisão, foi impetrado habeas corpus, indeferido liminarmente. (fls. 12/17).
+Neste writ, sustenta o impetrante que "apesar de correr contra o reeducando um mandado de prisão, o mesmo encontra-se realizando as atividades de reabilitação com fisioterapeuta e terapeuta da fala, conforme atestados em anexo. Atividades estas que não são disponibilizadas no sistema Prisional como bem sabemos" (fl. 4).
+Consigna que "a Unidade Prisional não disponibiliza médico especialista para realização da citada perícia, bem como não disponibiliza tratamento adequado para uma pessoa acometida de um grave AVC. Sendo totalmente temerária a decisão da Juíza a quo" (fl. 10).
+Requer a concessão da ordem para que o Tribunal de origem aprecie o mérito do writ originário como entender de direito.
+A liminar foi indeferida às fls. 73/74.
+As informações foram prestadas às fls. 79/84 e 89/97.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 99/103).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, não sendo cabível a impetração de habeas corpus em substituição aos recursos e ações cabíveis, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ocorre que, no presente caso,a ação mandamental foi indeferida liminarmente, tendo consignado a Corte de origem que:
+ o habeas corpus não constitui via adequada para a apreciação do objeto do presente pleito. Isso porque a análise do pedido aqui formulado não se revela adequada por esta via estreita de cognição sumária do writ, visto que demanda análise exaustiva dos requisitos de ordem objetiva e subjetiva do paciente, sendo certo que o habeas corpus não é meio idôneo para discussão acerca de pedidos pertinente à Execução da pena, posto haver recurso previsto em lei para referida finalidade, que é o Agravo em Execução (fl. 14).
+Este Superior Tribunal de Justiça possui pacífica jurisprudência no sentido de que, inexistindo discussão, pelo Tribunal de origem, acerca da tese debatida, fica impedida sua análise no presente writ, sob pena de haver nítida supressão de instância.
+Entretanto, em atenção aos princípios da inafastabilidade da jurisdição, da ampla defesa e do devido processo legal, deve-se garantir ao paciente o direito ao julgamento da matéria de fundo perante o Sodalício local.
+In casu, inexiste óbice à análise do pedido formulado no habeas corpus originário, ainda que examinando a matéria, de ofício, nos termos do art. 654, § 2º, do CPP.
+De fato, a questão posta a debate não exige para sua equalização a incursão sobre a seara fático-probatória, o que seria vedado. Pelo contrário, a demanda circunscreve-se à análise da fundamentação esposada pelo magistrado a quo ao determinar expedição de mandado de prisão, uma vez que o paciente não retornou da saída temporária de Natal, alegando estar em precárias condições de saúde, devendo permanecer em regime aberto domiciliar para cuidar de sua saúde.
+Constata-se, assim, que discussão gira em torno de questão puramente afeta à escorreita aplicação do direito.
+Nestes casos, o Superior Tribunal de Justiça e também o Supremo Tribunal Federal têm se manifestado pelo retorno dos autos à origem para que, então, o Sodalício local faça a análise, ainda que sucintamente, quanto à existência de ilegalidade e, por conseguinte, possibilidade de concessão da ordem de ofício.
+Nesse sentido:
+"HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENAS. TESE DE CUMPRIMENTO DOS REQUISITOS PREVISTOS NO DECRETO PRESIDENCIAL N.º 7.406/2009. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM, POR SER CABÍVEL O AGRAVO EM EXECUÇÃO. DESNECESSIDADE, NA ESPÉCIE, DE EXAME APROFUNDADO DA PROVA. QUESTÃO DE DIREITO. VIABILIDADE DO WRIT ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Tendo em vista que a Corte de origem não analisou o mérito da impetração originária, é vedada sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+2. Não há impedimento ao conhecimento do writ pelo Tribunal a quo, nem tampouco se constata, na espécie, inadequação da via eleita, uma vez que se mostra prescindível qualquer incursão na seara probatória, tratando-se de questão de direito, consubstanciada na tese a respeito da possibilidade, ou não, de interrupção, pelo cometimento de falta disciplinar de natureza grave, do lapso temporal para a obtenção do benefício da comutação de pena previsto no Decreto Presidencial n.º 7.406/2009.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Tribunal de origem aprecie o mérito do habeas corpus originário, decidindo como entender de direito" (HC 238.747/SP, Rel. Ministra LAURITA VAZ, DJe de 23/08/2012).
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus, concedendo-se, contudo, a ordem de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal, a fim de determinar que o Tribunal de origem aprecie o mérito do writ originário, como entender de direito.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
