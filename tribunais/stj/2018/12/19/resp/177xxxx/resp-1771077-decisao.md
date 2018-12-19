@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL - PROFESSORA ESTADUAL - ALEGADA PRESTAÇÃO DOS SERVIÇOS SOB O REGIME DA DESIGNAÇÃO - EFETIVIDADE CONCEDIDA PELA LEI COMPLEMENTAR ESTADUAL N.º 10012007 - NATUREZA ESTATUTÁRIA DO VÍNCULO - DECLARAÇÃO DE INCONSTITUCIONALIDADE - DESLIGAMENTO DO SERVIÇO PÚBLICO - FUNDO DE GARANTIA POR TEMPO DE SERVIÇO - IMPROCEDÊNCIA.
+1. A parte autora era, inicialmente, detentora de função pública -e não contratada temporária nos termos do art. 37, inc. IX, da Constituição da República -, e, com o advento da Lei Complementar n.º 100/07 foi efetivada como titular de cargo efetivo nos quadros do Estado de Minas Gerais, submetia-se ao regime estatutário.
+2. Por meio da declaração da inconstitucionalidade dos incs. I, II, IV e V do art. 7º da LC n.º 100/07, restou reconhecido o vicio relativo à forma de concessão de estabilidade àqueles que ingressaram no serviço público sem se submeter a concurso público, o que, por óbvio, não se confunde com decretação de nulidade de contratação temporária e, portanto, afasta o alegado direito ao FGTS pleiteado com base em precedentes do Supremo Tribunal Federal inaplicáveis ao caso concreto.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa ao art. 19-A da Lei 8.036/1990.
+Aduz, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Contrarrazões às fls. 552-572.
+O Ministério Público Federal opina pelo provimento do Recurso Especial:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CONTRATAÇÃO TEMPORÁRIA E CONTINUADA PELA ADMINISTRAÇÃO PÚBLICA SEM OBSERVÂNCIA DO CARÁTER TRANSITÓRIO E EXCEPCIONAL. EFETIVAÇÃO PROMOVIDA PELA LEI COMPLEMENTAR ESTADUAL N. 100/2007. DECLARAÇÃO DE INCONSTITUCIONALIDADE. EFEITO EX TUNC. TEMA JULGADO SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 19-A DA LEI N. 8.036/90. DIREITO AOS DEPÓSITOS DO FGTS. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DO STJ. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+
+Decido.
+Os autos foram recebidos neste Gabinete em 6.12.2018.
+Discute-se nos autos o dever de recolher o FGTS em razão de contratação temporária de professor posteriormente declarada nula.
+O STJ, em casos idênticos ao dos autos, em que reconhecida a inconstitucionalidade da LC 100/2007, de Minas Gerais, entende pelo direito à percepção da parcela.
+Cito precedentes:
+ADMINISTRATIVO. SERVIDOR. FGTS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR N. 100/2007. DECLARAÇÃO DE NULIDADE DA CONTRATAÇÃO. DIREITO AO FGTS. ACÓRDÃO DA CORTE DE ORIGEM QUE CONTRARIA JURISPRUDÊNCIA DO STF.
+I - O cerne da controvérsia é o dever de recolher o FGTS em razão de contratação temporária de professor posteriormente declarada nula.
+II - Quanto a esta matéria observa-se que as diversas manifestações do STF seguiram a ótica de reconhecer o direito à percepção do FGTS quando declarada a nulidade da contratação efetuada pela administração pública, como na hipótese dos autos.
+III - Ao julgar o Tema 191, a Suprema Corte consignou que a contratação sem observância de concurso público geraria o direito de percepção do FGTS. Nesse sentido: RE 596.478, Relator p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 13/6/2012, repercussão geral - mérito DJe-040, divulgado em 28/2/2013, publicado em 1º/3/2013 EMENT VOL-02679-01 PP-00068).
+IV - Ao julgar o Tema 308, a conclusão foi a mesma: contratação sem observância da regra de concurso público gera direito à percepção de FGTS (RE 705.140, Relator Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 28/8/2014, acórdão eletrônico repercussão geral - mérito DJe-217, divulgado em 4/11/2014, publicado em 5/11/2014.).
+V - O julgado no Tema 916 ampliou a situação jurídica que legitima a percepção de FGTS, deixando claro que a contratação temporária, quando deixa de observar os preceitos constitucionais de regência (art. 37, IX, da CF), torna a contratação nula e autoriza o levantamento da citada rubrica (RE 765.320 RG, Relator Min. TEORI ZAVASCKI, julgado em 15/9/2016, processo eletrônico repercussão geral - mérito DJe-203, divulgado em 22/9/2016, publicado em 23/9/2016.)
+VI - Ou seja, em qualquer das situações jurídicas descritas, é a nulidade da contração que faz nascer o direito ao FGTS. E, na espécie, a nulidade da contratação foi reconhecida pelo TJMG, visto que o ente estadual promulgou lei com o intuito de burlar o requisito da prévia aprovação em concurso público, conforme se infere do acórdão. Consoante se observa dos autos (fls. 138-139), a autora foi designada para exercer a função de professora, sendo efetivada nos termos do art. 7º da Lei Complementar Estadual nº 100.
+A relação objeto da presente demanda é, por conseguinte, tipicamente jurídico-administrativa, decorrente de lei, que foi reconhecida inconstitucional.
+VII - Este também tem sido o entendimento da Vice-Presidência desta Corte, ao negar seguimento aos recursos extraordinários interpostos contra as decisões do STJ (RE nos EDcl no AgInt no RECURSO ESPECIAL Nº 1.661.167 - MG (2017/0059703-0), RELATOR: MINISTRO HUMBERTO MARTINS, publicada em 12.3.2018).
+VIII - Agravo interno improvido.
+(AgInt no REsp 1682643/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 13/04/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. CONTRATAÇÃO TEMPORÁRIA E CONTINUADA PELA ADMINISTRAÇÃO PÚBLICA SEM OBSERVÂNCIA DO CARÁTER TRANSITÓRIO E EXCEPCIONAL. EFETIVAÇÃO PROMOVIDA PELA LEI COMPLEMENTAR ESTADUAL N. 100/2007. DECLARAÇÃO DE INCONSTITUCIONALIDADE. EFEITO EX TUNC. NULIDADE DO PACTO. DIREITO AOS DEPÓSITOS DO FGTS. ART. 19-A DA LEI N. 8.036/90. TEMA JULGADO SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Discute-se o direito ao Fundo de Garantia por Tempo de Serviço - FGTS dos servidores do Estado de Minas Gerais, efetivados pela Lei Complementar n. 100/2007, diante da inconstitucionalidade declarada pelo Supremo Tribunal Federal.
+III - O efeito prospectivo de parte da decisão proferida na ADI 4876/DF, para definir que a sua eficácia só começasse a surtir efeitos a partir daquele momento específico (dezembro de 2015), nos termos do art. 27 da Lei n. 9.868/99, não retirou o caráter retroativo da decisão (ex tunc), tendo apenas postergado a incidência desse efeito em razão na necessidade de continuidade do serviço público e do grande volume de servidores envolvidos.
+IV - A declaração de inconstitucionalidade retroagiu desde o nascimento da lei, tornando nula a efetivação de todos os servidores não concursados e, por consequência, consideram-se nulos os contratos por eles firmados com o Estado de Minas Gerais, porquanto não se subsumem às hipóteses de contratação temporária (art. 37, IX, da CR), uma vez que firmados com nítido caráter de definitividade.
+V - O Supremo Tribunal Federal, acompanhado por esta Corte, reconhece o direito aos depósitos do Fundo de Garantia do Tempo de Serviço - FGTS aos servidores que tiveram o contrato de trabalho declarado nulo em razão da inobservância das regras constitucionais de contratação temporária.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1740992/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 13/11/2018).
+Dessa forma, por estar em dissonância do entendimento desta Corte Superior, deve ser reformado o aresto proferido na origem.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RI/STJ e da Súmula 568/STJ, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
