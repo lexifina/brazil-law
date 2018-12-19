@@ -1,0 +1,13 @@
+DECISÃO
+MARCIO ROBERTO RIGOLETO alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000830-94.2014.8.26.0415.
+Consta dos autos que o paciente, após haver sido absolvido pelo Magistrado de primeiro grau, foi condenado pelo Tribunal a quo, em recurso do Ministério Público, à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, a impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que a segregação foi imposta antes de se exaurir a prestação jurisdicional pelas instâncias ordinárias.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+Decido.
+De pronto, verifico que a inicial do writ não veio acompanhada dos documentos necessários que comprovem o alegado constrangimento ilegal, porquanto, embora a impetrante sustente a impossibilidade de se dar imediato início ao cumprimento da reprimenda imposta ao paciente, certo é que a defesa não demonstrou o não esgotamento das instâncias ordinárias, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima.
+A esse respeito, urge consignar que, consoante o entendimento firmado pelo Pretório Excelso, "a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE n. 964.246/SP, Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 25/11/2016, destaquei).
+A ausência de documentos que demonstrem o não esgotamento das instâncias ordinárias prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se e intimem-se.
