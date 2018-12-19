@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Banco Bradesco S.A. desafiando decisão do Tribunal de Justiça do Paraná que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 293):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO PROCEDENTE - EXTINÇÃO DA EXECUÇÃO - CÉDULA DE CRÉDITO RURAL. APELAÇÃO.
+1. Prescrição quinquenal nos termos do artigo 206, § 5º, I do Código Civil de 2002 - Improcedente - Aplica-se ao caso a prescrição trienal nos termos do art. 60 do Decreto -Lei nº 167/67 c/c do art. 70 do Decreto 57.663/66 (Lei Uniforme de Genebra).
+2. Conversão da ação de execução de título extrajudicial em ação monitória - Impossibilidade após citação.
+3. Honorários recursais. Aplicação.
+RECURSO DE APELAÇÃO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o recorrente alegou dissídio jurisprudencial quanto à aplicação do art. 206, § 5º, I, do CC/2002.
+Foram apresentadas contrarrazões (e-STJ, fls. 336-345).
+O Tribunal local inadmitiu o processamento do recurso especial pela ausência de demonstração da divergência jurisprudencial.
+Irresignado, o recorrente interpõe agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 361-368 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Assim, não basta a simples transcrição de ementas sem o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu no caso dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM. IMPROCEDÊNCIA. ART. 1.022 DO NCPC. OMISSÃO QUANTO A NECESSIDADE DE INTIMAÇÃO PESSOAL DA DEVEDORA PARA O CUMPRIMENTO DA OBRIGAÇÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SUPORTE FÁTICO SEMELHANTE. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA. 1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Não há falar em omissão, contradição, obscuridade e/ou negativa de prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, ainda que no sentido contrário ao pretendido pela parte. 3. O dissídio jurisprudencial não atendeu aos requisitos dos arts. 1.019 do NCPC e 255, §§ 1º e 2º, do RISTJ, pois não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, de onde se evidencia a deficiência na fundamentação do recurso a atrair o óbice da já citada Súmula nº 284 do STF. 4. Não se conhece de recurso especial interposto pelo dissídio interpretativo cujo suporte fático dos casos confrontados se mostra dessemelhante. 5. Em virtude do não conhecimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, aplica-se ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei. 6. Agravo interno não provido, com aplicação de multa.
+(AgInt no Resp n. 1.734.531/MG. Relator Ministro Moura Ribeiro, Terceira Turma, DJe 31/10/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em 2% sobre o valor da execução.
+Publique-se.
