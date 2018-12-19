@@ -1,0 +1,9 @@
+DECISÃO
+1. Cuida-se de agravo interposto por LILIANE DE LIMA VIEIRA COSTA GARAVATTI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado:
+Competência recursal. Ação cominatória movida por ex-empregada contra entidade operadora de plano de saúde coletivo de autogestão (Fundação Saúde Itaú). Manutenção de trabalhador no plano de saúde da ex-empregadora que vigorava quando estava na ativa. Pretensão que tem origem em relação laboral. Competência da Justiça do Trabalho, consoante decide o STJ: "Direito deferido aos empregados aposentados mediante acordo coletivo de trabalho, que previa inscrição em plano de saúde do qual foi excluído o autor, tem relação com o extinto contrato de trabalho, cabendo a indenização por descumprimento ser discutida perante a Justiça do Trabalho" (AgR-CC 38.650, ALDIR PASSARINHO JUNIOR). Jurisprudência do Tribunal Superior do Trabalho: benefício recebido "pelo trabalho e não para o trabalho". Sentença de improcedência em primeiro grau. Apelação da ex-empregada. Remessa determinada. Recurso não conhecido. Deferida, todavia, tutela de urgência.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (fls. 319/329), a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts. 47 e 51, inciso IV, do CDC; 31 da Lei n. 9.656/1998. Defende a competência da Justiça Comum para a solução do conflito de valor de mensalidade.
+É o relatório. DECIDO.
+2. Com efeito, o conhecimento do agravo e provimento do recurso especial interposto por FUNDACAO SAUDE ITAU S.A., para reconhecer a competência da Justiça Comum Estadual para apreciar a presente demanda, gera a perda de objeto do presente agravo.
+3. Ante o exposto, nos termos do artigo 34, inciso XI, do RISTJ, julgo prejudicado o agravo de LILIANE DE LIMA VIEIRA COSTA GARAVATTI ante a perda de seu objeto.
+Publique-se e intimem-se.
