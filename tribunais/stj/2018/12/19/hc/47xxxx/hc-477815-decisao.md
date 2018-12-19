@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RICARDO BET contra acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, c.c art. 40, III, ambos da Lei n. 11.343/06, à pena de 7 anos e 6 meses de reclusão, em regime fechado, e 750 dias-multa.
+Sustenta neste writ, em suma, constrangimento ilegal na terceira fase da dosimetria que ao reconhecer a incidência de causa de aumento, sem fundamentação concreta, exasperou a pena pela metade (fl. 7)
+Requer, assim, seja reduzida a fração de aumento ao mínimo legal.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pelo não conhecimento do habeas corpus, mas concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+A presente impetração busca a redução da fração de aumento na terceira fase da dosimetria da pena.
+O Magistrado primevo aplicou o quantum de aumento nos termos a seguir (fl. 16):
+"Terceira fase. Presente a causa especial de aumento de pena prevista no Art. 40, III, da Lei 11.343/06, e por força da mesma promovo elevação de 1/2 sobre a fixação inicial, a gerar pena de 07 (sete) anos e 06 (seis) meses de reclusão, e 750 (setecentos e cinquenta) dias-multa, sendo que o valor unitário do dia-multa fica estabelecido em 1/30 do salário mínimo nacional vigente ao tempo do fato, à mingua de elementos que permitam aferir com segurança melhor condição financeira do denunciado, observando-se o disposto nos Arts. 49 a 52, do Código Penal. Deixo de aplicar a redução do Art. 33, § 4º, da Lei 11.343/06, pois embora primário tecnicamente, o réu estava preso por condenação de tráfico de drogas e aguardava apenas o julgamento de apelação que manteve a condenação e alterou a pena imposta, e nessa tessitura, analisando a questão à luz do Art. 42, da Lei 11.343/06, possível considerar que o réu vinha se dedicando à atividade criminosa (não apenas da condenação não definitiva, mas porque o réu está em escalada criminosa desde então, dentro e fora do sistema carcerário), e, ademais, a quantidade e variedade das drogas, somada à violação do ambiente de segurança (Art. 59, CP), recomendam a não aplicação da causa de diminuição.
+O Tribunal de Justiça manteve a majoração aos seguintes fundamentos (fl. 24):
+As penas foram fixadas, na r. sentença, em montante adequado para a reprovação e prevenção do crime cometido pelo apelante, nos termos do artigo 42 da Lei nº 11.343/06.
+Na terceira fase da dosimetria da pena, mantenho o aumento em 1/2 pela causa de aumento prevista no art. 40, III da Lei 11.343/06.
+De fato, o estabelecimento de fração acima da mínima legal, na terceira fase da dosimetria, deu-se, na espécie, tão só pela incidência de uma majorante - prática do crime em estabelecimento prisional -, tendo sido consignado apenas que presente a causa especial de aumento de pena prevista no Art. 40, III, da Lei 11.343/06, e por força da mesma promovo elevação de 1/2 sobre a fixação inicial.
+Nos termos do entendimento cristalizado o recrudescimento do tratamento ao réu exige fundamentação concreta e idônea, o que não existiu na espécie na fixação do fator de aumento da pena na terceira fase da dosimetria.
+Desse modo, fixada a pena-base no mínimo legal, inalterada a pena na segunda fase, de rigor, na terceira fase, aplicar a causa de aumento na fração de 1/6, totalizando pena definitiva de 5 anos e 10 meses de reclusão e 583 dias-multa.
+Concernente ao regime prisional, do acórdão impugnado constou o que segue (fl. 26):
+Por fim, correta a fixação do regime inicial fechado, ante a hediondez do delito por equiparação, a gravidade e nocividade concreta da conduta e também evidenciada pela natureza da droga apreendida, com fundamento no § 3º do artigo 33 do Código Penal.
+Constata-se que, no presente caso, muito embora tenha o acórdão combatido, com o objetivo de fixar regime prisional mais gravoso, apontado fundamento concreto consubstanciado na nocividade evidenciada pela natureza da droga apreendida, extrai-se dos autos que o total de drogas apreendidas é de 4,26g de cocaína e 25,08g de maconha (fl. 11).
+Não obstante a natureza danosa dos estupefacientes, entende esta Corte Superior que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.), desautoriza a exasperação da pena-base, a vedação à minorante do tráfico, o agravamento do regime prisional ou a negativa à substituição das penas.
+A propósito:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.  ..  REGIME INICIAL. DESPROPORCIONALIDADE AO QUANTUM FINAL DA PENA. ALTERAÇÃO PARA O MODO ABERTO E PERMUTA POR SANÇÕES RESTRITIVAS DE DIREITOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Tratando-se de condenado à pena inferior a 4 (quatro) anos de reclusão, primário e de bons antecedentes, com quem foi apreendida quantidade de substâncias tóxicas que não se revela expressiva ou elevada, impõe-se o estabelecimento do regime aberto para o cumprimento inicial da reprimenda privativa de liberdade, bem como a sua substituição por sanções restritivas de direitos.
+2. Habeas Corpus não conhecido. Ordem concedida de ofício para reduzir a pena imposta ao paciente para 1 (um) ano e 8 (oito) meses de reclusão, a ser cumprida no regime inicial aberto, mais pagamento de 166 dias-multa, substituindo-se a sanção reclusiva por restritivas de direitos a serem definidas pelo Juízo competente.
+(HC 438.505/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/03/2018, DJe 20/03/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. POSSIBILIDADE.
+1. O fato de a agravada não ter comprovado o exercício de atividade lícita, não é fundamento idôneo, por si só, para afastar a aplicação da causa especial de diminuição de pena.
+2. Segundo a jurisprudência desta Corte, a quantidade e a natureza da droga apreendida constituem elementos aptos a justificar a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, em patamar diverso do máximo.
+3. No caso, no entanto, a quantidade de droga apreendida 10,02g (dez gramas e dois centigramas) de crack não se mostra significativa para justificar a não aplicação da minorante no seu patamar máximo. De fato, não obstante o crack seja considerado de grande nocividade, pelo que se tem dos autos, a agravada estava na posse de pequena quantidade do referido entorpecente, razão pela qual não é razoável a sua consideração na terceira fase da dosimetria.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 473.269/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Considerando o quantum da nova pena aplicada, a primariedade do réu, a fixação da pena-base no mínimo legal e a ausência de argumentos concretos para o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, fixo o regime semiaberto para o início de desconto das penas.
+Ante o exposto, concedo o habeas corpus para reduzir a pena a 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 583 dias multa, mantido no mais o acórdão impugnado.
+Comunique-se.
+Publique-se.
+Intimem-se.
