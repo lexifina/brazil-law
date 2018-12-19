@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 118, Vol. 1):
+    “AGRAVO REGIMENTAL — Decisão monocrática que negou provimento ao apelo fazendário, mantendo sentença de extinção de execução fiscal pela prescrição. Descabimento. Cobrança de IPTU, taxas e multa administrativa. Prazo interrompido pelo despacho ordinatório da citação em relação à multa, de natureza não tributária. Ausência de citação em razão do descumprimento de obrigação acessória do contribuinte de manter atualizado o cadastro municipal. Recurso provido. MATÉRIA DE ORDEM PÚBLICA — Taxas de limpeza, conservação de vias e logradouros, coleta de lixo, prevenção e extinção de incêndio. Inobservância dos requisitos da especificidade e divisibilidade. Hipótese que fulmina pressuposto de validade da execução fiscal e deve ser conhecida de ofício, nos termos do art. 267, § 3% do CPC. Prosseguimento da execução somente com relação ao imposto e à multa administrativa”.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que houve violação ao artigo 145, II, da Magna Carta.
+    É o relatório. Decido.
+    A irresignação merece parcial provimento.
+    No caso, o Tribunal de origem declarou a inconstitucionalidade da cobrança das taxas de (a) coleta de lixo; (b) limpeza e conservação de vias e logradouros; e (c) prevenção e extinção de incêndio, ao fundamento de que não constituem serviços públicos específicos e divisíveis.
+    Quanto às taxas de coleta de lixo e de limpeza e conservação de vias e logradouros, esta SUPREMA CORTE, nos autos do RE 576.321 QO-RG/SP, Rel. Min. RICARDO LEWANDOWSKI, julgado sob o rito da repercussão geral (Tema 146), fixou tese no sentido de que a taxa de coleta de lixo proveniente de imóveis, não viola o artigo 145, II, da CF. Por sua vez, a taxa de limpeza e conservação de logradouros, por não constituírem serviços públicos específicos e divisíveis, violam a Constituição Federal. A propósito, veja-se ementa do acórdão paradigma:
+    “EMENTA: CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO. II - JULGAMENTO DE MÉRITO CONFORME PRECEDENTES. III - RECURSO PROVIDO”.
+    Dessa forma, verifica-se que a decisão a quo, quanto à taxa de coleta de lixo, foi de encontro à jurisprudência do SUPREMO.
+    Ademais, quanto à taxa de prevenção e extinção de incêndio, esta CORTE, nos autos do RE 643.247/SP, também sob o rito da repercussão geral (Tema 16), Rel. Min. MARCO AURÉLIO, concluiu pela inconstitucionalidade da exação. Veja-se, por oportuno, ementa do acórdão:
+    “TAXA DE COMBATE A INCÊNDIO – INADEQUAÇÃO CONSTITUCIONAL. Descabe introduzir no cenário tributário, como obrigação do contribuinte, taxa visando a prevenção e o combate a incêndios, sendo imprópria a atuação do Município em tal campo”.
+    Verifica-se, portanto, que, quanto às taxas de prevenção e extinção de incêndio e limpeza de logradouros, o acórdão recorrido não merece reparos.
+    No mesmo sentido, citem-se os seguintes precedentes: RE 1.146.545/ SP, Rel. Min. CELSO DE MELLO, DJe de 14/8/2018; ARE 1.175.473/SP, Rel. Min. ROBERTO BARROSO, DJe de 17/12/2018; RE 1.148.041/SP, Rel. Min. EDSON FACHIN, DJe de 3/8/2018.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PARCIAL PROVIMENTO AO RECURSO EXTRAORDINÁRIO para reconhecer a legitimidade da taxa de coleta de lixo domiciliar.
+    Publique-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
