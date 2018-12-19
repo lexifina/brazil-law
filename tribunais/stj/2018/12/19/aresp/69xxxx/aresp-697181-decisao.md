@@ -1,0 +1,15 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por [NOME] E INJECAO DE PLASTICOS LTDA contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE COM PEDIDO LIMINAR - COMODATO VERBAL - MOLDES - NOTIFICAÇÃO EXTRAJUDICIAL - SENTENÇA DE PROCEDÊNCIA - RECURSO - EXCEÇÃO DE CONTRATO NÃO CUMPRIDO - NÃO COMPROVAÇÃO - INEXISTÊNCIA DE DEMONSTRATIVO DOS VALORES DEVIDOS - COBRANÇA DOS VALORES EM AÇÃO AUTÔNOMA - DEVOLUÇÃO DOS MOLDES DIANTE RESCISÃO CONTRATUAL - SENTENÇA MANTIDA - RECURSO DESPROVIDO." (fl. 418)
+Nas razões do recurso especial, a agravante alega violação dos arts. 128 do Código de Processo Civil de 1973 e 476 do Código Civil de 2002, sustentando, em síntese, que (a) o acórdão incorreu em julgamento extra petita ao determinar o pagamento de indenização a ser apurado em em liquidação por arbitramento, uma vez que a parte recorrida não formulou pedido nesse sentido, deixando claro que tem a intenção de intentar demanda autônoma para cobrar o que acha que lhe é devido; e (b) aplica-se ao caso a teoria da exceção do contrato não cumprido (exceptio non adimplenti contractus), uma vez que a empresa recorrida não pode se libertar de suas obrigações contratuais enquanto existirem valores em aberto em favor da recorrente.
+Não foram apresentadas contrarrazões (fl. 438).
+É o relatório.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Quanto à alegada violação dos arts. 128 do CPC/73 e 476 do CC/2002, verifica-se que os conteúdos normativos dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. A propósito:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+ 2. A transcrição da ementa ou do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
