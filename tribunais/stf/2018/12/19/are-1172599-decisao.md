@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado da Bahia, está assim ementado:
+    “Apelação Cível. Sentença que não conheceu dos Embargos de Declaração, em razão de sua intempestividade, e extinguiu a ação sem julgamento do mérito. Decisão acertada. Intempestividade flagrante. A alegada nulidade da citação não se verifica, porque a PETROBRAS compareceu espontaneamente em juízo em outubro de 1994, postulando a nulidade da citação anterior. Essa alegação não foi acolhida, ficando daí validamente citada, e os embargos só foram opostos em maio de 1996, ou seja, um ano e meses após. Teoria da ciência inequívoca. Recurso improvido. Sentença mantida.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre observar, desde logo, que o recurso extraordinário em questão não se revela viável, eis que se insurge contra acórdão que examinou a controvérsia jurídica sob uma perspectiva estritamente infraconstitucional.
+    Com efeito, o exame da causa evidencia que o acórdão emanado do Tribunal “a quo” discutiu a matéria pertinente à extinção do processo, sem solução de mérito, fazendo-o em contexto meramente legal, invocando, para fundamentar esse julgamento, regra inscrita em diploma infraconstitucional .
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
