@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Depreende-se dos autos que o Juízo de Direito da Auditoria Militar do Estado de Mato Grosso do Sul determinou a conversão da prisão em flagrante do recorrente em prisão preventiva, em decorrência da prática do delito de descaminho.
+Impetrado habeas corpus perante o Tribunal de origem, visando ao trancamento da ação penal, o Desembargador relator não conheceu do writ (e-STJ fls. 123/124). Por sua vez, o colegiado não conheceu do agravo regimental, nos termos da seguinte ementa (e-STJ fl. 147):
+AGRAVO REGIMENTAL EM HABEAS CORPUS - WRIT PREJUDICADO - JULGAMENTO POR DECISÃO MONOCRÁTICA DO RELATOR - AUDITORIA MILITAR - PLEITO PELO RECONHECIMENTO DA INCOMPETÊNCIA DA JUSTIÇA CASTRENSE - PEDIDO AINDA NÃO SUBMETIDO AO JUÍZO DE ORIGEM - SUPRESSÃO DE INSTÂNCIA RECONHECIDA - ORDEM NÃO CONHECIDA.
+I - Pugna-se pelo reconhecimento da competência da Justiça Comum para julgar o objeto da ação penal originária e, consequentemente, a anulação de todos os atos decisórios tomados pelo Juiz de Direito da Auditoria Militar do Estado de Mato Grosso do Sul.
+II - Porém, tal pedido não foi submetido ao impetrado, o que importa em supressão de instância.
+III - Contra o parecer. Agravo Interno não conhecido.
+No presente recurso, a defesa argui que "a competência absoluta é de conhecimento de ofício, não necessitando a parte debater em primeira instância para que esta seja reconhecida pelo Tribunal" (e-STJ fl. 160).
+Sustenta que "o eventual crime (descaminho) não foi praticado pelo paciente estando em serviço, ou em lugar sujeito a administração militar, como bem se observa da narrativa do flagrante e áudios da audiência de custódia anexos, motivo pelo qual a competência é da Justiça Federal para o processo e julgamento do fato e não da especializada militar, uma vez não se tratar de crime cometido em serviço, na função de militar ou no exercício desta, até mesmo porque o paciente em questão encontrava-se de folga" (e-STJ fls. 160/161).
+Requer, desse modo, "o trancamento da ação penal militar com a remessa dos autos ao Juízo Federal Competente, declarando-se incompetente este d. juízo especial, eis que eventual ilícito praticado não se amolda em quaisquer das circunstâncias do artigo 9º do CPM" (e-STJ fls. 166/167).
+É, em síntese, o relatório.
+Há óbice processual ao conhecimento da irresignação, tendo em vista que a instância antecedente, o Tribunal de Justiça do Estado de Mato Grosso do Sul, não se pronunciou sobre o pedido apresentado pela defesa, o que impede a sua apreciação, de forma originária, por este Sodalício.
+Perfilhando esse entendimento, destaco os seguintes precedentes da Sexta Turma:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E FALSIDADE IDEOLÓGICA. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. ALEGADA NULIDADE PELA NÃO APRECIAÇÃO DE MATÉRIA DE ORDEM PÚBLICA NÃO SUSCITADA PELA DEFESA NAS RAZÕES RECURSAIS. INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte.
+3. Habeas corpus não conhecido. (HC 331.395/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018, grifei.)
+Tal o contexto, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
