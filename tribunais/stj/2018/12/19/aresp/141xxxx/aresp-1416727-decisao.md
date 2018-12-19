@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO. SINISTRO 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.NÃO OCORRÊNCIA. 2. PAGAMENTO PARCIAL DA INDENIZAÇÃO. DECLARAÇÕES INCORRETAS PRESTADAS QUANDO DA CONTRATAÇÃO. MÁ-FÉ DO SEGURADO. REVISÃO DO JULGADO. REEXAME DO CONTRATO E DE PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Confecções Diário Ltda. - EPP ajuizou ação de cobrança de indenização securitária contra Indiana Seguros S.A., em razão da perda de mercadorias seguradas, decorrente de incêndio ocorrido no estabelecimento da autora em 2/12/2002.
+O Magistrado de primeiro grau julgou procedente o pedido para condenar a requerida ao pagamento de R$ 280,970,88 (duzentos e oitenta mil, novescentos e setenta reais e oitenta e oito centavos), bem como deferiu a denunciação da lide, a fim de condenar IRB Brasil Resseguros S.A. a reembolsar a ré, nos limites do resseguro.
+Interpostas apelações pelas seguradoras, a Quinta Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu parcial provimento às insurgências, para fixar a indenização em R$ 74.361,06 (setenta e quatro mil, trezentos e sessenta e um reais e seis centavos).
+O acórdão ficou assim ementado (e-STJ, fl. 3.565):
+APELAÇÃO. SEGURO. SINISTRO INCÊNDIO. INDENIZAÇÃO SECURITÁRIA. PAGAMENTO PARCIAL. PRETENSÃO DE COMPLEMENTAÇÃO DA INDENIZAÇÃO. MERCADORIAS ESTOCADAS EM VALOR SUPERIOR AO DA INDENIZAÇÃO. SENTENÇA DE PROCEDÊNCIA. REFORMA PARCIAL.
+Agravo retido. Cerceamento de defesa. Não ocorrência. Perícia com plementada por informações prestadas pela Secretaria de Fazenda de São Paulo. Negado provimento ao agravo retido.
+Contrato de seguro empresarial. Incêndio. Perda total das mercadorias estocadas. Pagamento parcial.
+Declarações incorretas prestadas quando da contratação. Inexistência de controle de estoque e de escrituração contábil obrigatória. Boa-fé. Requisito inexistente no caso. Violação ao artigo 1.443 do Código Civil de 1916. Perícia judicial que atesta os fatos.
+Documentos contábeis apresentados e objetos de análise perante Delegacia Regional Tributária, da Secretaria da Fazenda do Governo do Estado de São Paulo. Irregularidades fiscais constatadas, retirando credibilidade nas notas fiscais apresentadas. Indenização reduzida, fixada no montante reconhecido como devido, pela seguradora.
+Agravo retido conhecido e negado provimento.
+Preliminar rejeitada. Recursos da ré e da denunciada parcialmente providos.
+Os embargos de declaração opostos foram rejeitados.
+Inconformada, Confecções Diário Ltda. - EPP interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, alegando divergência jurisprudencial e ofensa aos arts. 1.438 e 1.462 do Código Civil de 1916; e 535, II, do CPC/1973.
+Apontou, além de negativa de prestação jurisdicional por parte do Tribunal, que "o acórdão, ao exigir a prova do dano efetivo e limitar a indenização securitária. na medida em que se verificou a perda total do objeto segurado, acabou por afrontar aos dispostos arrolados, pois a seguradora não se desincumbiu do seu ônus, que lhe permitia a revisão e redução do valor do prêmio antes do sinistro, desde que devolvesse o percentual cobrado a maior de forma indevida" (e-STJ, fl. 3.618).
+Contrarrazões apresentadas às fls. 3.607-3.625 e 3.707-3.715 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de inexistência de omissão; de não ter sido demonstrada a ofensa aos dispositivos legais e a divergência jurisprudencial; e de incidência das Súmulas n. 5 e 7/STJ.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 3.758-3.773 e 3.778-3.780 (e-STJ).
+Brevemente relatado, decido.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido enfrentou, de forma clara e fundamentada, as questões suscitadas pelas partes, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Quanto à questão de fundo, o acórdão recorrido reduziu o valor indenizatório, ao argumento de que a segurada não agiu de boa-fé, tendo prestado informações falsas no momento da contratação do seguro.
+Confira-se o seguinte trecho do aresto combatido (e-STJ, fls. 3.568-3.572):
+No mérito, é dos autos que as partes firmaram contrato de seguro empresarial absoluto, datado de 21.05.2002. A importância segurada, no caso de sinistro "incêndio/raio/explosão" foi fixado em R$ 600.000,00. Do contrato (fls. 17) consta a seguinte cláusula:
+"CONDIÇÃO DE INDENIZAÇÃO: Ratificando as condições gerais, fica expressamente entendido e acordado, que a Importância Segurada previsto para as Coberturas Contratadas referem-se somente a LIMITE MÁXIMO DE INDENIZAÇÃO em relação a prejuízos cobertos devidamente comprovados, não representando pré-fixacão do valor de indenização" (sem gritos no original).
+Referida cláusula está redigida de forma clara, simples e direta, cuja interpretação é de fácil assimilação. Não se vislumbra irregularidades, ilegalidades ou abusividades nessa cláusula. Dessa forma, considera-se que o valor da indenização securitária decorrente dos sinistros abrangidos pela apólice deve corresponder ao montante dos prejuízos devidamente comprovados. No caso presente, a autora informa que não houve pagamento integral da indenização, restando a quantia de R$ 280.970,88, negada pela seguradora.
+Referido valor corresponde a mercadorias adquiridas e recebidas pela ré e que se encontravam no interior de seu estabelecimento.
+Referidas mercadorias foram atingidas pelo incêndio, perdendo-se integralmente.
+Ao que consta dos autos, o incêndio ocorreu em 02 de dezembro de 2002. Como conseqüência, aplicam-se ao caso, as regras vigentes à época, ou seja, o Código Civil de 1916.
+Inicialmente, uma observação. A regra de observância da boa fé está inserida em todos os tipos e modalidades de contrato. No contrato de seguro, porém, essa exigência assume maior importância, constituindo-se verdadeiramente em requisito de existência do contrato, haja vista expressa previsão contida no artigo 1.443, do Código Civil de 1916, o qual prevê que:
+"O segurado e o segurador são obrigados a guardar no contrato a mais estrita boa-fé e veracidade, assim a respeito do objeto, como das circunstâncias e declarações a ele concernentes".
+Acrescente-se a isso que "o contrato de seguro é um contrato de boa-fé, pois, por exigir uma conclusão rápida, requer que o segurado tenha uma conduta sincera e leal em suas declarações a respeito do seu conteúdo e dos riscos, sob pena de receber sanções se proceder com má-fé", conforme MARIA HELENA DINIZ, "Código Civil Anotado", Saraiva, 1a edição, 1995, pág. 847.
+No caso dos autos, o que se verifica é que foram prestadas informações pela segurada, visando cobertura integral dos alegados prejuízos. No entanto, muitas dessas afirmativas não correspondem ao que efetivamente ocorre. A seguir, serão analisadas algumas dessas questões.
+Quando da contratação do seguro, a autora declarou expressamente que possuía controle informatizado e atualizado de estoque, que o controle de estoque é eficaz e que as mercadorias possuem código de barras (fls. 110/111).
+No entanto, a própria autora confirmou em correspondência encaminhada à ré, de que "como declarado verbalmente não possuímos o tal controle de entrada e saídas de produtos" e que "não existe o controle do estoque" (fls. 115). Nesse mesmo documento, a autora informa que o estoque existente no momento do sinistro e perdido, correspondia à quantia de R$ 461.000,00.
+Além disso, o laudo pericial apresentado (fls. 2.521/2.557), constatou que:
+1) 6. - Os controles adotados pelo segurado sobre as mercadorias são condizentes com a especificação da fiscalização
+Resposta:
+A resposta ao quesito é pela negativa, como a seguir justificada:
+a) em primeiro, a própria autora através do documento juntado à fls. 11, declara não possuir controle de estoque;
+b) em segundo, a Autora juntou aos autos (fls. 264/2066), folhas impressas que denominou de "Registro de Controle da Produção e do Estoque", talvez com base no layout do livro fiscal estabelecido através da Seção IV, Art 206 dp RICMS, onde podem ser constatadas diversas irregularidades, como a seguir relacionadas:
+. Não há identificação dos fornecedores dos produtos e das notas fiscais competentes;
+. Os produtos não possuem código;
+Praticamente, em todas as "fichas" de produtos, estranhamente somente existe uma entrada mas várias saídas, até a exaustão do produto ou saldo final, denotando-se que não houve reposição de estoques;
+. Os valores de entradas estão ao custo de aquisição, enquanto os de saídas, estão por valor de venda, quando deveriam estar pelo valor do custo médio de aquisição ou FIFO (first in, first out) (primeiro que entra, primeiro que sai).
+2) A autora não possui contabilidade regular e, tampouco, o livro Caixa, exigido pela legislação do Imposto de Renda, sendo, portanto, impossível a constatação dos registros referentes aos pagamentos das Notas Fiscais juntadas às fls. 2261/2346.
+3) Foram apresentadas duplicatas quitadas, com exceção daquelas referentes às notas fiscais relacionadas a fls. 2.533;
+4) Em diligência realizada pela perícia, a nota fiscal emitida por Yceplast Ltda não pode ser admitida como documento regular, pois o endereço nela constante refere-se ao IIRGD da Secretaria de Segurança Pública do Estado de São Paulo.
+5) A autora não apresentou livros "Diário", referentes aos exercícios de 1998 a 2002, bem como também não apresentou balanços patrimoniais. A autora não apresentou Mcomprovantes de recolhimentos do ICMS, referentes aos meses de setembro, outubro, novembro e dezembro de 2002 .. aquela documentação encontra-se em poder do Fisco Estadual". A autora não elaborava controle de estoques de produtos. O livro Registro de Controle da Produção e do Estoque foram apresentados, mas, constatou-se que a escrituração está totalmente irregular.
+6) O inventário juntado aos autos não está contabilizado, pois a autora não possui contabilidade regular.
+As fiscalizações realizadas pela Secretaria da Fazenda do Governo do Estado de São Paulo, realizadas na comarca de Guarulhos (fls. 3.149/3.153), apurou que seis documentos fiscais referentes a aquisição de produtos foram considerados inidôneos, "por infrações relativas ao crédito do imposto". Três das empresas não foram localizadas.
+Uma empresa não apresentou à autoridade fiscal, seus livros e documentos fiscais.
+Diligências realizadas por outras Delegacias Regionais Tributárias apontaram resultados similares. Confira-se, apenas como exemplo: fls. 2.484, 2.485 (parte final), 2.815, 2.820, 2.856/2.862, 2.871/2.880, etc.
+Atentando para a exigência da boa-fé nos contratos securitários, o segurado que não fizer declarações verdadeiras e completas, omitindo circunstâncias que possam influir na aceitação da proposta ou na taxa do prêmio, perderá o direito ao valor do seguro e pagará o prêmio vencido, haja vista previsão expressa contida no artigo 766, "caput", do atual Código Civil. Vide, a respeite "Dos Contratos Nominados no Direito Civil Brasileiro", do sempre atual EDUARDO ESPÍNOLA, 2a edição, Editora Conquista, Rio de Janeiro, 1956, páginas 477 e 486:
+ ..
+Assim sendo, a regra do artigo 1.444, do Código Civil de 1916, reproduzida no artigo 766, do Código Civil de 2002, é clara no sentido de penalizar o segurado pelas declarações falsas ou incompletas, com a perda do direito à indenização. O segurado não agiu com boa-fé, prestando declarações falsas, quando da contratação. Não pode ser beneficiada pela sua má-fé.
+Ademais, não houve confirmação da regularidade de várias notas fiscais de compra de produtos, como consta acima.
+Por outro lado, em suas razões de apelação, a própria ré confirma ser devida a quantia de R$ 74.361,06. Nessas condições, ante a extensa gama de irregularidades constatadas, o valor da indenização securitária é fixada nesse montante. Atualização monetária e juros de mora, como definidos na r. decisão de Primeiro Grau.
+Nesse contexto, verifica-se, das razões do acórdão recorrido, que a controvérsia foi apreciada com base no conjunto probatório dos autos, levando em consideração as peculiaridades do caso.
+Dessa forma, não há como aferir a eventual violação aos dispositivos tidos por violados sem proceder ao reexame dos fatos e provas, providência vedada no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.
