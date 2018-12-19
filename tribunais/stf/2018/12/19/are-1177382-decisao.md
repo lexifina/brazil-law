@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (eDOC 1, p. 91-92):
+    “PRELIMINAR. DECADÊNCIA. ADICIONAL POR TEMPO DE SERVIÇO. PAGAMENTO A MENOR. PRESTAÇÃO DE TRATO SUCESSIVO. RENOVAÇÃO MÊS A MÊS. REJEIÇÃO.
+    - “O Superior Tribunal de Justiça tem o entendimento de que 'quando houver redução, e não supressão do valor de vantagem, fica configurada a prestação de trato sucessivo, que se renova mês a mês, pois não equivale à negação do próprio fundo de direito, não havendo que se falar, portanto, em decadência do mandado de segurança.' (AgRg no Ag 1337066/BA, Rel. Ministro Castro Meira, 2ªT, DJe 10/11/2010). Incidência da Súmula n. 83/STJ.2. Agravo regimental a que se nega provimento.” (AgRg no REsp 737.694/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/02/2014, DJe 27/02/2014).
+    MANDADO DE SEGURANÇA. SERVIDORA INATIVA DA ASSEMBLEIA LEGISLATIVA DA PARAÍBA. ADICIONAL POR TEMPO DE SERVIÇO. PREVISÃO CONTIDA NA LEI ESTADUAL N. 10.259/2014 (ART. 27), QUE DISPÕE SOBRE A REESTRUTURAÇÃO DO PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DOS SERVIDORES EFETIVOS DA ASSEMBLEIA LEGISLATIVA. REMUNERAÇÃO COMPOSTA DE ANUÊNIOS À RAZÃO DE 1% (UM POR CENTO) POR ANO DE SERVIÇO PÚBLICO, INCIDENTE SOBRE A SOMA DO VENCIMENTO BÁSICO E O VALOR RECEBIDO A TÍTULO DE “REPRESENTAÇÃO”. PAGAMENTO A MENOR. COMPROVAÇÃO. PRECEDENTES DESTA CORTE DE JUSTIÇA. CONCESSÃO DA ORDEM.
+    - TJPB: “A remuneração dos servidores efetivos da Assembleia é composta pelo vencimento básico, acrescido da chamada 'representação' e dos anuênios à razão de 1% (um por cento) por ano de serviço público, nos termos do art. 27 da Lei Estadual nº 10.259/2014.” (Mandado de Segurança n. 2012401- 18.2014.815.0000. Relator: Juiz Convocado Miguel de Britto Lyra Filho. Julgamento: 28/10/2015).
+    - Uma vez comprovados a condição de servidor público aposentado da Assembleia Legislativa, o efetivo tempo de serviço público prestado, bem como que o pagamento dos anuênios está sendo efetuado a menor, deve-se conceder a segurança para assegurar-se à impetrante o direito postulado.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 112).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 2º e 8º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 2, p. 12):
+    “Ora, da literalidade dos dispositivos destacados [art. Art. 78 da Lei Complementar 58/2003 e art. 6º, parágrafo único, da Lei Estadual 9.703/2012] percebe-se que somente fazem jus à parcela em comento aqueles servidores que efetivamente exercem suas funções junto à Polícia Civil. Nesse contexto, se não podem perceber a referida verba os servidores que exercem suas funções em entidade diversa da Polícia Civil, infere-se, logicamente, que o ‘Adicional de Representação’ também não se estende aos servidores inativos, posto que já não exercem função alguma.”
+    A Presidência do TJ/PB inadmitiu o recurso extraordinário por entender que não houve impugnação específica ao acórdão recorrido (eDOC 2, p. 42-43).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 1, p. 95-97):
+    “Prima facie, ressalto a inaplicabilidade da Lei Complementar Estadual n. 50/2003 ao caso em deslinde, porquanto a matéria é disciplinada pela Lei n. 10.259/2014, que prevê sobre a reestruturação do Plano de Cargos, Carreira e Remuneração dos servidores efetivos da Assembleia Legislativa do Estado da Paraíba.
+    Assim dispõe o art. 27 da mencionada lei:
+    Art. 27. A remuneração mensal dos ocupantes dos cargos de que tratam os incisos III, IV, V, VI do art. 4º é composta de:
+    I – vencimento básico;
+    II- representação, correspondente a dois inteiros do vencimento da classe em que estiver situado o servidor;
+    III – anuênios à razão de um por cento por ano de serviço público, incidente sobre a soma da retribuição dos incisos I e II, implantado, automaticamente, a partir do mês em que completar o anuênio;
+    IV – demais vantagens pecuniárias estabelecidas nesta Lei ou em outros diplomas legais, exceto as verbas de natureza indenizatórias.
+    Com esteio no que prevê o sobredito dispositivo legal, a remuneração dos servidores efetivos da Assembleia é composta pelo vencimento básico, acrescido da chamada “representação” e dos anuênios, estes à razão de 1% (um por cento) por ano de serviço público, o qual deve incidir sobre o vencimento básico e o valor recebido a título de “representação”.
+    No caso em discussão, a impetrante faz jus ao percentual de 30% (trinta por cento), a título de anuênios, consoante lhe fora garantido, quando de sua aposentadoria (f. 33).
+    (…)
+    Nesse cenário, entendo que restou devidamente demonstrado o direito líquido e certo da impetrante à percepção do adicional por tempo de serviço, no percentual de 30% (trinta por cento) incidente sobre a soma do vencimento básico com a chamada “representação”, nos termos do inciso III do art. 27 da Lei n. 10.259/2014, já que o referido valor vem sendo pago a menor, consoante se observa do seu contracheque (f. 47).”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local (Lei Complementar Estadual nº 50/2003; e Lei Estadual nº 10.259/2014), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO.  CONTAGEM  DE  TEMPO DE SERVIÇO.  INATIVIDADE. SÚMULA 280/STF. PRECEDENTES. 1. Hipótese em que a resolução da controvérsia demandaria o reexame da análise da legislação infraconstitucional pertinente, o que é vedado em recurso extraordinário. Precedentes. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (RE 630.288-AgR, Min. Rel. Roberto Barroso, Primeira Turma, DJe 12.6.2018).
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Regime próprio de previdência estadual.  Tempo de serviço  público para fins de aposentadoria.  Contagemde período trabalhado junto a entidade da administração indireta. 4. Matéria local. Ofensa reflexa à Constituição Federal. Súmula  280.  Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 1.050.770-AgR, Min. Rel. Gilmar Mendes, Segunda Turma, DJe 11.4.2018).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, nos termos da Súmula 512 do STF.
+    Publique-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
