@@ -1,0 +1,67 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERROVIÁRIO INATIVO DA EXTINTA RFFSA. COMPLEMENTAÇÃO DE APOSENTADORIA. REQUISITOS LEGAIS. CONDIÇÃO DE EMPREGADO DA RFFSA AO TEMPO DA JUBILAÇÃO. NÃO PREENCHIMENTO. DECISÃO ALCANÇADA COM BASE NO CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE DE REEXAME EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Alterar as premissas estabelecidas no acórdão recorrido, de que o autor não reuniu os requisitos hábeis ao deferimento de sua jubilação por ter encerrado o vínculo com a RFFSA anos antes da sua aposentadoria, demanda reexame fático-probatório. Incidência da Súmula 7/STJ. Precedentes: AgInt no AREsp. 946.578/PR, Rel. Min. SÉRGIO KUKINA, DJe 6.10.2016; AgInt no REsp. 1.699.882/RJ, Rel. Min. OG FERNANDES, DJe 28.5.2018; e AgRg no REsp. 1.575.517/CE, Rel. Min. HERMAN BENJAMIN, DJe 27.5.2016.
+2. Agravo Interno do Particular a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] contra a decisão de fls. 624/627, que negou provimento ao Agravo em Recurso Especial nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FERROVIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. REQUISITOS LEGAIS. CONDIÇÃO DE EMPREGADO DA RFFSA AO TEMPO DA JUBILAÇÃO. NÃO PREENCHIMENTO. DECISÃO ALCANÇADA COM BASE NO CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE DE REEXAME EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+2. Sustenta o agravante a inexistência de qualquer necessidade de novo exame do acervo fático-probatório constante nos autos, por ser matéria exclusivamente de direito, consubstanciada na efetiva aplicação da lei 8.186/91, cuja vigência foi negada pela decisão ora recorrida.
+3. Requer a reconsideração da decisão ora agravada ou, caso assim não aconteça, que o recurso seja levado à Turma competente.
+4. É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERROVIÁRIO INATIVO DA EXTINTA RFFSA. COMPLEMENTAÇÃO DE APOSENTADORIA. REQUISITOS LEGAIS. CONDIÇÃO DE EMPREGADO DA RFFSA AO TEMPO DA JUBILAÇÃO. NÃO PREENCHIMENTO. DECISÃO ALCANÇADA COM BASE NO CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE DE REEXAME EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Alterar as premissas estabelecidas no acórdão recorrido, de que o autor não reuniu os requisitos hábeis ao deferimento de sua jubilação por ter encerrado o vínculo com a RFFSA anos antes da sua aposentadoria, demanda reexame fático-probatório. Incidência da Súmula 7/STJ. Precedentes: AgInt no AREsp. 946.578/PR, Rel. Min. SÉRGIO KUKINA, DJe 6.10.2016; AgInt no REsp. 1.699.882/RJ, Rel. Min. OG FERNANDES, DJe 28.5.2018; e AgRg no REsp. 1.575.517/CE, Rel. Min. HERMAN BENJAMIN, DJe 27.5.2016.
+2. Agravo Interno do Particular a que se nega provimento.
+
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 599.243 - RS (2014/0267744-8)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+AGRAVANTE
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+[NOME] MASSINHAN E OUTRO(S) - [OAB]
+AGRAVADO
+:
+UNIÃO
+INTERES.
+:
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+VOTO
+1. A despeito das alegações do agravante, razão não lhe assiste.
+2. A controvérsia gira em torno da possibilidade de revisão do benefício de aposentadoria de modo que corresponda ao valor integral recebido pelos trabalhadores ferroviários da ativa.
+3. O acórdão recorrido negou provimento ao recurso sob o fundamento de que o autor não reunia os requisitos hábeis ao deferimento de sua jubilação. Cito trecho:
+Dessa forma, para ter direito à complementação de aposentadoria, o ferroviário deve ter mantido seu vínculo com a RFFSA até a data de sua aposentadoria ou ter preenchido os requisitos para a concessão de aposentadoria dentro do período em que manteve vínculo com a RFFSA. Aos ferroviários ligados às empresas privadas, aplica-se o Regime Geral de Previdência.
+Em 1997 efetivamente encerrou-se o vínculo do autor com a RFFSA, porque a toda a prestação de serviço posterior àquela data deu-se com empresa privada, sem nenhuma intervenção da RFFSA. E quanto a isso, saliento que não há nenhum documento nos autos que demonstre que tais relações de trabalho tenham se dado por sucessão trabalhista. Também não foi juntado nenhum documento demonstrando que o autor já havia preenchido os requisitosnecessários à aposentadoria por ocasião de seu desligamento da RFFSA.
+4. Logo, alterar o entendimento proferido pelo Tribunal a quo demanda reexame fático-probatório dos autos, o que não é possível em Recurso Especial ante da incidência da Súmula 7/STJ. No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERROVIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. REQUISITOS LEGAIS. CONDIÇÃO DE EMPREGADO DA RFFSA AO TEMPO DA JUBILAÇÃO. NÃO PREENCHIMENTO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, a fim de que se entenda pela ocorrência da sucessão trabalhista e o direito do autor à complementação de aposentadoria na condição de ferroviário, ensejaria o reexame de matéria fática, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento (AgInt no AREsp. 946.578/PR, Rel. Min. SÉRGIO KUKINA, DJe 6.10.2016).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FERROVIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. REQUISITOS LEGAIS. AUSÊNCIA. FLUMITRENS E CENTRAL. EMPRESAS NÃO RECONHECIDAS COMO SUBSIDIÁRIAS DA RFFSA. REVISÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PRETORIANO. ANÁLISE PREJUDICADA PELA PRESENÇA DE ÓBICE SUMULAR.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.211.676/RN, sob a sistemática dos recursos repetitivos (art. 543-C do CPC/1973), consolidou a orientação de que os ferroviários admitidos na Rede Ferroviária Federal S.A. (RFFSA) e suas subsidiárias, até 31/10/1969, independentemente do regime, bem como aqueles que se aposentaram até a edição do Decreto-Lei 956/1969, têm direito à complementação da aposentadoria prevista na Lei n. 8.186/1991, cuja responsabilidade em arcar com tal complementação é da União, de modo a garantir que os valores pagos aos aposentados ou pensionistas sejam equivalentes aos valores devidos aos ferroviários da ativa.
+2. No caso, concluiu a Corte a quo, com base nos elementos de fato constante dos autos, não estar presentes os requisitos legais para o reconhecimento do direito à complementação de aposentadoria pleiteada na origem, haja vista que o autor, ora recorrente, "foi transferido para o quadro da FLUMITRENS e CENTRAL, empresas sucessoras que não mantiveram a qualidade de subsidiárias da RFFSA, tendo em vista que não são empresas controladas pela RFFSA para executar uma parte de seus objetivos, mas empresas estaduais, criadas quando da descentralização do serviço de transporte ferroviário urbano".
+3. Para rever as conclusões assentadas no acórdão recorrido, no sentido de averiguar o preenchimento dos requisitos legais para o reconhecimento do direito à complementação de aposentadoria de ex-ferroviário da extinta RFFSA, demandaria, inequivocamente, o revolvimento das provas dos autos, providência vedada, nesta via, pela Súmula 7/STJ. No mesmo sentido: REsp 1.670.747/RJ, Rel. Sérgio Kukina, DJe 25/4/2018, REsp 1.485.134/PE, Rel. Ministro Herman Benjamin, DJe 20/10/2014; REsp 1.473.375/PE, Rel. Ministro Mauro Campbell Marques, DJe 26/9/2014 e REsp 1.474.484/PE, Rel. Ministra Assusete Magalhães, DJe 11/9/2014.
+4. "Este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 485.496/SP, Rel. Min. Humberto Martins, Segunda Turma, julgado em 6/11/2014, DJe 17/11/2014).
+5. Agravo interno a que se nega provimento (AgInt no REsp. 1.699.882/RJ, Rel. Min. OG FERNANDES, DJe 28.5.2018).
+
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. RFFSA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação Ordinária proposta por [NOME], ora recorrente, contra a União Federal e o Instituto Nacional do Seguro Social - INSS, ora recorridos, objetivando a condenação no pagamento da complementação da aposentadoria, de modo que a soma dos dois benefícios seja equivalente ao valor da remuneração do ferroviário em atividade. Requereu ainda, o pagamento das parcelas em atraso.
+2. O Juiz de 1º Grau julgou improcedentes os pedidos.
+3. O Tribunal a quo negou provimento à Apelação do ora recorrente e assim consignou na sua decisão: "No caso do autor, verifica-se pela cópia de sua CTPS, que ele permaneceu na condição de ferroviário, nos termos da Lei nº 8.186/91, somente até 31/01/1997, uma vez que a partir de 01/01/98 passou a fazer parte do quadro de pessoal da CFN - Companhia Ferroviária Nacional, empresa concessionária de serviço público, nos termos do Edital PNF/A 02/97/RFFSA, hoje denominada Transnordestina Logística S/A. Dessa forma, no momento em que se aposentou, em 23/07/2009, não mais ostentava a condição de ferroviário para fins de percepção da complementação de aposentadoria pleiteada." (fls. 333-334, grifo acrescentado).
+4. Com efeito, a Lei 8.168/1991 expressamente garantiu aos ferroviários admitidos até 31.10.1969 o direito à complementação de aposentadoria, tendo sido tal benefício estendido aos ferroviários admitidos pela Rede Ferroviária Federal S.A até 21.5.1991, com o advento da Lei 10.478/2002.
+5. Contudo, a condição exigida para tal, qual seja, de ser ferroviário, deve estar preenchida imediatamente antes da aposentadoria perante o INSS, o que não veio a acontecer no caso dos autos, em que o recorrente rompeu o vínculo com a RFFSA em 1997, tendo se aposentado em 2009. Nesse sentido: AgRg no REsp 734.675/PE, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 19.8.2014, DJe 2.9.2014, e REsp 1.492.321/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26.5.2015, DJe 30.6.2015.
+6. Ademais, modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+7. Por fim, não fez o recorrente o devido cotejo analítico e assim não demonstrou as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+8. Agravo Regimental não provido (AgRg no REsp. 1.575.517/CE, Rel. Min. HERMAN BENJAMIN, DJe 27.5.2016).
+5. Diante de tais pressupostos, nega-se provimento ao Agravo Interno do Particular.
+6. É como voto.
