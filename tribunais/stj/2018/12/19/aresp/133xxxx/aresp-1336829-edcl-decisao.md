@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos pela União nos autos de demanda na qual contende com [NOME], contra decisório monocrático que negou provimento ao agravo em recurso especial (e-STJ, fls. 730-732).
+Sustenta a embargante que a decisão foi omissa, porquanto deixou de se pronunciar sobre a condenação da parte adversa em honorários advocatícios sucumbenciais, como prevê o artigo 85, § 11, do CPC.
+Acrescenta que o aresto combatido foi publicado após março de 2016, sendo necessário observar os termos do Enunciado Administrativo n. 7 do STJ: "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do CPC/2015."
+Pugna pelo provimento dos embargos de declaração, para, suprindo a omissão apontada, pronunciar-se expressamente sobre a condenação da recorrida em honorários advocatícios sucumbenciais, tal como prevê o artigo 85, § 11, do CPC.
+É o relatório.
+Por ordem de precedência, deve-se examinar o conteúdo da expressão "publicada", contida no Enunciado Administrativo STJ n. 7, que assim dispõe:
+Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC.
+Do exame de todos os julgados proferidos pelos diversos órgãos fracionários desta Corte Superior, a interpretação dada ao termo publicação é o da veiculação do decisório, por meio do Diário Oficial, de intimação pessoal ou por vista dos autos.
+Em qualquer aspecto, importa a esta Corte que a parte tenha tomado conhecimento dos exatos termos da decisão impugnada já na vigência do CPC/2015, seja porque tenha sido publicada no Diário Oficial a partir de 18/3/2016, seja porque tenha a parte sido intimada pessoalmente ou por vista dos autos, a partir dessa referida data.
+Para os fins de aplicação do Enunciado Administrativo STJ n. 7/2016, a expressão "publicada" reporta-se ao momento em que foi dada ciência à parte dos termos exatos da decisão (e não de mera proclamação de resultado de julgamento), seja por meio do Diário Oficial ou por intimação pessoal ou por vista dos autos.
+Por fim, há de se analisar a aplicabilidade da redação legal do art. 85, § 11, do CPC/2015, cujo dispositivo assim se encontra redigido:
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+Quanto à fixação dos honorários recursais, nos termos do art. 85 do Código de Processo Civil, "o Superior Tribunal de Justiça propugna que, em homenagem à natureza processual material e com o escopo de preservar-se o direito adquirido, as normas sobre honorários advocatícios não são alcançadas por lei nova. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015" (REsp 1.465.535/SP, Quarta Turma, Rel. Min. Luis Felipe Salomão, DJe de 22/8/2016).
+Na origem, a sentença foi publicada no dia 2/2/2016, não sendo devida a majoração dos honorários em razão da sucumbência neste grau recursal, tendo em vista a publicação da sentença anterior a 18 de março de 2016.
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para fins de esclarecimento.
+Publique-se. Intimem-se.
