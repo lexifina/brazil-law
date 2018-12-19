@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. MANDATO. LEVANTAMENTO DE VALORES. REPASSE A MENOR PELO ADVOGADO. AGRAVO QUE NÃO INFIRMA FUNDAMENTO DA DECISÃO AGRAVADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+DIVA GALIASSI (DIVA) ajuizou ação de cobrança contra MAURÍCIO DAL AGNOL (MAURÍCIO), alegando que este teria lhe repassado quantia menor que a devida após o levantamento de valores em execução patrocinada pelo advogado MAURÍCIO, pleiteando, assim, o ressarcimento das quantias, bem como indenização por danos morais.
+A sentença julgou procedente o pedido, condenando MAURÍCIO ao ressarcimento dos valores de R$ 4.871,69 (quatro mil, oitocentos e setenta e um reais e sessenta e nove centavos) e R$ 30.097,81 (trinta mil e noventa e sete reais e oitenta e um centavos), além de indenização por danos morais no montante de R$ 6.160,00 (seis mil, cento e sessenta reais) (e-STJ, fls. 117/118).
+Interposta apelação por MAURÍCIO, o Tribunal de origem deu-lhe parcial provimento, em acórdão assim ementado (e-STJ, fl. 150):
+AÇÃO DE INDENIZAÇÃO. MANDATO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. CASO CONCRETO. MATÉRIA DE FATO. AUSÊNCIA DE REPASSE DE VALORES AO CLIENTE. REPARAÇÃO DEVIDA. CORREÇÃO E JUROS A CONTAR DO MOMENTO EM QUE HOUVE O ABUSO DO MANDATO. TERMO FINAL DOS JUROS E DA CORREÇÃO MONETÁRIA. DATA DO DESPACHO DA AÇÃO CAUTELAR. IMPOSSIBILIDADE. OCORRÊNCIA DE DANOS MORAIS A SEREM INDENIZADOS. INAPLICABILIDADE DO ART. 940, DO CC. ABATIMENTO DOS HONORÁRIOS CONTRATUAIS. APELO PROVIDO EM PARTE.
+Os embargos de declaração opostos por MAURÍCIO foram rejeitados (e-STJ, fls. 174/181).
+Inconformado, MAURÍCIO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 20, §3º, 535 do CPC/73, 11, 85, §§2º e 6º, 189, 240, caput, 1.022 do NCPC, 189, 206, §3º, IV e V, 405, 407, 676, 944 do CC/02, 22 e 23 da Lei nº 8.906/94 e divergência jurisprudencial, aduzindo, em síntese, que (1) o acórdão recorrido foi omisso; (2) os juros de mora e correção monetária seriam devidos até a data do bloqueio de valores de MAURÍCIO; (3) os juros moratórios incidem a partir da data do arbitramento do dano moral; (4) não houve dano moral a ser indenizado; (5) o montante indenizatório é exorbitante; (6) o percentual dos honorários sucumbenciais deve ser majorado; (7) prescreve em três anos a pretensão à reparação de danos; e (8) o prazo prescricional iniciou-se a partir da data do levantamento dos valores.
+Não foram oferecidas contrarrazões.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de ofensa ao art. 1.022 do NCPC, a incidência das Súmulas nºs 283, 284 do STF, 7, 83, 211 do STJ e a inexistência de comprovação da divergência jurisprudencial. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Foram apresentadas contrarrazões (e-STJ, fls. 263/268).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois MAURÍCIO não infirmou devidamente os seus esteios, deixando de refutar, de forma arrazoada, a incidência da Súmula nº 83 do STJ.
+Isso porque, embora MAURÍCIO tenha colacionado ementa de suposto julgado do STJ quanto à incidência de prazo trienal de prescrição (e-STJ, fl. 254), deixou de indicar o número do recurso especial, não permitindo a necessária identificação do precedente, a fim de desconstituir a aplicação da Súmula nº 83 do STJ.
+Como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 83 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual (AgRg no AREsp nº 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Nesse contexto, tendo sido apresentado em desacordo com os requisitos do art. 932, III, do NCPC, o recurso não se mostra viável.
+A propósito, cita-se o seguinte precedente:
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.  ..
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 27/5/2016)
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de MAURÍCIO, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
