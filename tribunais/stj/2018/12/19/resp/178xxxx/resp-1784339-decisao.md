@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela DEFENSORIA PÚBLICA DO ESTADO DO AMAZONAS, contra acórdão do Tribunal de Justiça do referido Estado, assim ementado:
+"Apelação. Honorários advocatícios. Defensoria pública. Condenação. Ente federativo. Impossibilidade.
+1. A Defensoria Pública não faz jus aos honorários advocatícios sucumbenciais em demandas judiciais propostas contra o ente federado que ela integra.
+2. Apelação conhecida e desprovida" (fl. 90e).
+Nas razões do Recurso Especial, o recorrente alega, além do dissídio jurisprudencial, que "o novo Código de Processo Civil, referendando o entendimento, estabelece expressamente que a titularidade do direito aos honorários é do advogado da parte vencedora, ressaltando ainda o caráter alimentar da verba, o que se encontra no seu art. 85, § 14" e que "o disposto no art. 4º, inciso XXI, da Lei Complementar nº. 80/94, que assegura à Defensoria Pública legitimidade para executar e receber honorários de sucumbência", logo, "a ausência de condenação ao pagamento de honorários à Defensoria Pública (direito subjetivo da Instituição), não obstante a vitória do seu assistido na demanda, é, por si só, situação legitimante para visualizar a evolução da sua posição processual de mero patrono para parte diretamente afetada pelas determinações da decisão que se pretende reformar" (fl. 104e).
+Após as contrarrazões a fls. 125/130e, foi o Recurso Especial admitido pelo Tribunal de origem (fls. 131/133e).
+A irresignação não merece prosperar.
+Cinge-se a controvérsia acerca da possibilidade de arbitramento de honorários advocatícios em favor da Defensoria Pública Estadual, em demanda em que seu cliente litiga com o Estado do Amazonas, ora recorrente.
+Com efeito, o entendimento do Tribunal de origem encontra-se em conformidade com a jurisprudência atual e dominante desta Corte. O tema, inclusive, foi submetido ao regime do artigo 543-C do Código de Processo Civil/73, no Recurso Especial 1.108.013/RJ, de relatoria da Ministra Eliana Calmon - que deu origem à Súmula 421/STJ - cuja ementa restou assim redigida:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA. CÓDIGO CIVIL, ART. 381 (CONFUSÃO). PRESSUPOSTOS.
+1. Segundo noção clássica do direito das obrigações, ocorre confusão quando uma mesma pessoa reúne as qualidades de credor e devedor.
+2. Em tal hipótese, por incompatibilidade lógica e expressa previsão legal extingue-se a obrigação.
+3. Com base nessa premissa, a jurisprudência desta Corte tem assentado o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando atua contra a pessoa jurídica de direito público da qual é parte integrante.
+4. A contrario sensu, reconhece-se o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso, como, por exemplo, quando a Defensoria Pública Estadual atua contra Município.
+5. Recurso especial provido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC e à Resolução nº 8/2008-STJ" (STJ, REsp 1.108.013/RJ, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, DJe de 22/06/2009).
+Esse entendimento prevalece mesmo após o advento das Emendas Constitucionais 74/2013 e 80/2014 e da Lei Complementar 132/2009, que deu nova redação ao inciso XXI do art. 4º da Lei Complementar 80/94. Confira-se, a propósito, recentes julgados sobre o tema:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR IDADE RURAL. PARTE AUTORA ASSISTIDA POR DEFENSOR PÚBLICO DA UNIÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. CONFUSÃO CARACTERIZADA. INTELIGÊNCIA DA SÚMULA 421/STJ.
+1. Discute-se nos autos a aplicação ou não da Súmula 421/STJ quando a Defensoria Pública da União demanda contra o INSS.
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, representativo de controvérsia, de Relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/2011 pela Corte Especial, publicação no DJe de 12/4/2011, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+3. Hipótese em que a Fazenda Pública abarca tanto a autarquia previdenciária quanto a Defensoria Pública da União. Incidência da Súmula 421/STJ.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.579.112/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 15/03/2016).
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DEFENSORIA PÚBLICA. TRATAMENTO DE SAÚDE. HONORÁRIOS. ENTES FEDERATIVOS DIVERSOS. CABIMENTO. REDUÇÃO DO VALOR. INVIABILIDADE.
+1. A jurisprudência desta Corte de Justiça sedimentou entendimento no sentido de que são devidos honorários em favor da Defensoria Pública, quando esta atua contra ente federativo diverso do qual é parte integrante, conforme estabelece a Súmula 421 do STJ, não se podendo excluir a fixação de honorários sob o argumento de que a demanda configura judicialização de massa.
+2. Estabelecidos os honorários em patamar razoável e proporcional, não há motivos para sua alteração nesta seara.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.368.941/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/07/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS. CONFUSÃO ENTRE CREDOR E DEVEDOR CONFIGURADA. INTELIGÊNCIA DO RECURSO ESPECIAL Nº 1.108.013/RJ SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS. APLICAÇÃO DA SÚMULA 421/STJ.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.108.013/RJ, Rel. Min. Eliana Calmon, submetido ao rito do artigo 543-C do CPC, firmou o entendimento de que são devidos honorários advocatícios sucumbenciais em favor da Defensoria Pública quando patrocina demanda ajuizada contra Ente Federativo diverso do qual ela pertence.
+2. No presente caso, contudo, a Defensoria Pública atua contra pessoa jurídica de direito público da qual é parte integrante, não sendo devidos honorários advocatícios, nos termos da Súmula 421/STJ.
+3. Agravo regimental não provido" (STJ, AgRg no AREsp 538.129/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/09/2014).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
