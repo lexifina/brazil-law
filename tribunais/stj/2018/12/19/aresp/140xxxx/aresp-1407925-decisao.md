@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S.A. contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 614/616).
+O acórdão recorrido está assim ementado (e-STJ fl. 500):
+Apelação - Indenização por dano moral e material - Vítima fatal de descarga por fio de alta tensão em razão da queda de cabo eletrificado - O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços - consumidor por equiparação, ou bystander, assim considerada a coletividade (artigo 2º do CDC), inexistindo a necessidade de prática de ato de consumo - É de responsabilidade da concessionária a adoção de providências para viabilizar o adequado e seguro fornecimento de energia elétrica - Relação afetiva e conjugal entre as partes demonstrada - Dano moral configurado - Pensão mensal - Inexistência de prova da dependência econômica - Condenação da ré e da denunciada ao pagamento das indenizações, de forma solidária, até o limite do valor contratado - Inteligência da Súmula 537 do STJ - Sentença reformada - Recurso a que se dá parcial provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 541/543).
+Nas razões do recurso especial (e-STJ fls. 513/524), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa ao art. 14, § 3º, II, do CDC, porque as lesões sofridas pela vítima decorreram de contato com a rede elétrica exclusivamente por sua imprudência e negligência.
+No agravo (e-STJ fls. 619/630), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 633/640).
+É o relatório.
+Decido.
+A respeito da culpa pelo evento danoso, os julgadores consideraram (e-STJ fls. 504/505):
+É de responsabilidade da concessionária a adoção de providências para viabilizar o adequado e seguro fornecimento de energia elétrica, o que não ocorreu neste caso concreto, com a queda da fiação.
+Era dever da ré, na condição de fornecedora de energia elétrica, fiscalizar periodicamente as instalações e verificar se elas estão em condições adequadas, de modo a minimizar os riscos à população, e evitar evento deste tipo, que resulta em morte.
+Observe-se que a testemunha EVERALDO VIEIRA DA [NOME] (fl.385), afirmou em audiência: "depois de quatro dias do óbito, outro fio voltou a cair". A testemunha [NOME], disse: "Os fios sempre caem, mas a Eletropaulo é acionada, vem e arruma. Não se recorda, mas fazia bastante tempo que a Eletropaulo não aparecia no local para fazer manutenção..a Eletropaulo foi chamada e consertou. A Eletropaulo só vai ao condomínio quando é chamada e não faz prevenção". (fl. 387) A ELETROPAULO não demonstrou que o acidente ocorreu por motivo de força maior ou culpa exclusiva da vítima, devendo, por isso, responder pelo dano, e apenas a culpa exclusiva do consumidor eximiria a ré da responsabilidade pelo evento, circunstância não verificada no caso concreto.
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Ademais, o fundamento relativo à responsabilidade da fornecedora de energia elétrica em fiscalizar as instalações e suas condições não foi impugnado. Assim, deixando de ser impugnado fundamento suficiente à manutenção das conclusões do acórdão recorrido, incide o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
