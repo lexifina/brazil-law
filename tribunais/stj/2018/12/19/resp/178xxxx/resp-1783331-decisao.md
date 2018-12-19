@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fundamento na alínea a do permissivo constitucional, contra acórdão prolatado pelo Tribunal de Justiça desse Estado.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 698/700:
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, inciso III, alínea "a", da Constituição da República, em face de acordão proferido pelo Tribunal de Justiça do Estado do Paraná, que julgou extinta a punibilidade dos recorridos pelo instituto da prescrição.
+Os recorrentes foram condenados pela prática do crime previsto no artigo 155, § 4º, inciso IV, do Código Penal - CP, sendo estabelecida a pena para [NOME] de 02 (dois) anos de reclusão, em regime semiaberto, e 10 (dez) dias-multa e para REGINALDO de 02 (dois) anos e 4 (quatro) meses de reclusão, em regime semiaberto, e 11 (onze) dias-multa.
+No presente Recurso Especial, primeiramente, afirma-se que o Tribunal local ao reformar a sentença penal condenatória violou o art. 59 do CP, aplicando ilegalmente um prazo depurador à circunstância negativa dos maus antecedentes.
+Contrarrazões ministeriais apresentadas (e-STJ Fl. 665/671).
+Ao final, o Parquet opinou pelo desprovimento do recurso especial.
+É o relatório. Decido.
+De fato, não assiste razão ao recorrente.
+É que a conclusão adotada pela instância ordinária não destoa da recente orientação adotada nesta Corte segundo o qual, "quando os registros da folha de antecedentes do réu são muito antigos, como no presente caso, admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento. Não se pode tornar perpétua a valoração negativa dos antecedentes, nem perenizar o estigma de criminoso para fins de aplicação da reprimenda, pois a transitoriedade é consectário natural da ordem das coisas. Se o transcurso do tempo impede que condenações anteriores configurem reincidência, esse mesmo fundamento - o lapso temporal - deve ser sopesado na análise das condenações geradoras, em tese, de maus antecedentes" (REsp n. 1.707.948/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/4/2018, DJe 16/4/2018).
+Por oportuno, ressalto que tal intelecção também foi legitimada em recente julgamento do HC n. 162.305/SP, pelo relator Ministro GILMAR MENDES (Dje de 1º/10/2018), afirmando que "a possibilidade de sopesarem-se negativamente antecedentes criminais, sem qualquer limitação temporal, ad aeternum, em verdade, mostra-se pena de caráter perpétuo revestida de legalidade. Dessa forma, entendo que, decorridos mais de 5 anos desde a extinção da pena da condenação anterior (CP, art. 64, I), não é possível alargar a interpretação de modo a permitir o reconhecimento dos maus antecedentes."
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
