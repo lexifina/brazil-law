@@ -1,0 +1,59 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERPOSTO NA ÉGIDE DO NCPC. RECURSO ESPECIAL MANEJADO NA VIGÊNCIA DO CPC/73. AÇÃO ANULATÓRIA DE GRAVAME DE VEÍCULO E INDENIZAÇÃO POR DANO MORAL E MATERIAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. ALTERAÇÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou medida cautelar preparatória inominada contra ITAÚ UNIBANCO S.A. (BANCO), em decorrência de restrição em prontuário de veículo em nome de terceiro estranho à relação processual.
+Os pedidos iniciais contidos na medida cautelar inominada foram julgados procedentes e parcialmente procedentes os pedidos autorais da ação principal, confirmando a medida liminar concedida e determinando a inscrição de gravame de alienação fiduciária em nome do autor, proprietário do veículo, sob pena de multa diária de R$ 1.000,00 (um mil reais) (e-STJ, fls. 119/123).
+Interposta apelação por [NOME], o Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+AÇÃO ANULATÓRIA DE GRAVAME DE VEÍCULO C/C INDENIZAÇÃO POR DANO MORAL E MATERIAL E CAUTELAR INOMINADA OBJETIVANDO A BAIXA DE RESTRIÇÃO. SENTENÇA PARCIALMENTE PROCEDENTE. INSURGÊNCIA DO AUTOR. AUSENTE NEXO DE CAUSALIDADE ENTRE A CONDUTA EQUIVOCADA DO RÉU E OS ALEGADOS DANOS EXPERIMENTADOS PELO AUTOR, CORRETA A SENTENÇA QUE AFASTA A PRETENSÃO INDENIZATÓRIA. RECURSO NÃO PROVIDO (e-STJ, fl. 156).
+Os embargos de declaração opostos por [NOME] foram desprovidos (e-STJ, fls. 178/179).
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 186 e 927 do CC/02, além de dissídio jurisprudencial, por entender que (1) houve comprovação do nexo causal entre o fato e o suposto prejuízo capaz de dar ensejo aos danos experimentados; (2) a responsabilidade da instituição financeira é objetiva e o dano causado é in re ipsa. Afirmou a existência de dissídio jurisprudencial (e-STJ, fls. 195/202).
+Contrarrazões não apresentadas (e-STJ, fl. 234).
+Em juízo de admissibilidade, a presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls. 314/315; 318/322).
+Contraminuta não apresentada (e-STJ, fl. 326).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente agravo foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Verificado o preenchimento dos requisitos necessários à admissão do agravo, passa-se à análise do recurso especial, ao qual, em razão de ter sido interposto sob a égide do CPC/73, são aplicados os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ, na Sessão de 9.3.2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+A irresignação não merece prosperar.
+(1) Do dano
+[NOME] sustentou, em suma, que houve a comprovação do nexo causal entre o fato e o suposto prejuízo capaz de dar ensejo aos danos experimentados.
+O Tribunal local assim se manifestou sobre a questão:
+Pois bem! É fato incontroverso que o veículo pertencente "ao apelante foi por ele dado em garantia fiduciária ao réu por conta de débito pendente em nome da COPLANAT. A anotação restritiva, portanto, a ser efetivada no DETRAN a respeito dessa garantia é devida.
+Essa situação, por si só, não impedia a circulação do veículo e nem o seu licenciamento, conforme adequadamente consignado na decisão recorrida:
+"Veja-se, embora constituindo o gravame de alienação fiduciária óbice para a transferência da propriedade do veículo pelo devedor fiduciante, não implica em obstáculo ao licenciamento anual e à manutenção regular dos documentos do veículo. Logo, a demora do autor em providenciar a regularização, dos documentos decorreu de opção sua, não se podendo imputar eventuais despesas contraída para a locação de outro veículo à instituição financeira ré. O exame dos documentos revela ainda que não houve transferência da propriedade do automotor, mas apenas imposição de gravame em nome da pessoa jurídica. Essa restrição, todavia, inibe apelas a alienação do bem, e não a sua circulação ou licenciamento" (sic, fl. 113/v9).
+Não demonstrou o apelante - como alega - que "o DETRAN não emite o licenciamento anual se houver restrição do bem em nome de terceiro" (sic, fl. 122), inexistindo no Código Nacional de Trânsito qualquer restrição nesse sentido.
+Portanto, a conclusão do magistrado de que o nexo de causalidade entre o fato e o suposto prejuízo sofrido pelo apelante não restou demonstrado, se apresenta adequada, frente a realidade fática alinhavada nos autos, não merecendo, por isso, acolhimento a pretensão indenizatória formulada (e-STJ, fls. 157/158 - sem destaques no original).
+Verifica-se que o Tribunal de origem, com base no acervo fático-probatório, ressaltou que A anotação restritiva, portanto, a ser efetivada no DETRAN a respeito dessa garantia é devida (e-STJ, fl. 157). Afirmou que o próprio autor demorou providenciar a regularização dos documentos e reconheceu que não houve dano indenizável, uma vez que inexistiu demonstração de prejuízo sofrido por [NOME]. Portanto, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. BAIXA DE GRAVAME. ATRASO. DANOS MORAIS IN RE IPSA. DEMONSTRAÇÃO. NECESSIDADE. NÃO OCORRÊNCIA. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+1. O mero atraso na baixa do gravame de alienação fiduciária de veículo automotor não caracteriza o dano moral, devendo este ser devidamente demonstrado.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.718.107/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 30/8/2018, DJe 11/9/2018 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESCUMPRIMENTO DE ACORDO JUDICIAL. DEMORA NA BAIXA DE GRAVAME. DANO MORAL NÃO CONFIGURADO NA ESPÉCIE. CONCLUSÃO DO ACÓRDÃO. REVISÃO. INCIDÊNCIA DA SUMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alteração da conclusão adotada pelo Tribunal de origem quanto à não caracterização do dano moral em razão do descumprimento de acordo judicial, consubstanciado na demora na baixa de gravame que pendia sobre veículo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 desta Corte Superior.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.631.641/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 27/4/2017, DJe 5/5/2017 - sem destaque no original)
+(2) Da responsabilidade da instituição financeira
+Insurge-se [NOME] alegando que a responsabilidade da instituição financeira é objetiva e o dano causado é in re ipsa. Sustentou a existência de dissídio jurisprudencial.
+O Tribunal local, por sua vez, entendeu que a anotação restritiva foi devida, esclarecendo que não houve demonstração de qualquer prejuízo a [NOME], que, por sua vez, demorou providenciar a regularização dos documentos.
+Não sendo possível o reexame da moldura fática delineada no acórdão recorrido, fica prejudicada a análise do especial baseado nas alíneas a e c do permissivo constitucional.
+Ademais, acerca do dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional, tem-se que não foi demonstrado nos moldes legais.
+Com efeito, além de indicar o dispositivo legal supostamente violado pelo acórdão recorrido ou que recebeu interpretação diversa por Tribunais pátrios, é necessário transcrever os julgados apontados como paradigmas, bem como realizar o indispensável cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo legal.
+Da análise do recurso interposto é possível verificar que a [NOME] não se desincumbiu desta tarefa, pois não comprovada a similitude fática dos casos confrontados, ou seja, deixou de demonstrar em quais circunstâncias o caso confrontado e os paradigmas trazidos à colação aplicaram diversamente o mesmo direito, sobre a mesma base fática.
+Nesse sentido, destacam-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. DANO MORAL. DEMORA NO PAGAMENTO DO SEGURO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ.
+1. Pela alínea "c" do permissivo constitucional, o recurso não merece conhecimento, pois, nos termos dos artigos 541, parágrafo único, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+2. O aresto combatido, tendo em vista o conjunto fático-probatório coligido, concluiu pela inexistência do dano moral. Rever tal conclusão encontra óbice na Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp nº 370.317/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/6/2014, DJe de 16/6/2014 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. TEMPESTIVIDADE. NÃO DEMONSTRAÇÃO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+ (..)
+3. Não se conhece de recurso especial interposto pelo dissídio que não esteja comprovado nos moldes dos arts. 541, parágrafo único, do CPC, e 255, parágrafos 1º e 2º, do RISTJ.
+4. O Tribunal de origem julgou nos moldes da jurisprudência Pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ. 5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp nº 481.270/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 27/5/2014, DJe de 12/6/2014 - sem destaque no original)
+Desta forma, o aresto atacado deve permanecer íntegro.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
