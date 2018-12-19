@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZATÓRIA. INSCRIÇÃO INDEVIDA EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. ATO ILÍCITO. DANO MORAL IN RE IPSA. SÚMULA 83/STJ. VALOR DA CONDENAÇÃO. REEXAME. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA. TERMO A QUO. DATA DO ARBITRAMENTO. SÚMULA 362/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação declaratória de inexistência de negócio jurídico cumulada com indenizatória em desfavor de Cred System Administradora de Cartões de Crédito Ltda. e outras.
+A Magistrada de primeiro grau julgou procedentes os pedidos para declarar inexistentes os negócios jurídicos objetos do feito e condenar as requeridas ao pagamento de danos morais no valor de R$ 6.000,00 (seis mil reais), sendo R$ 2.000,00 (dois mil reais) para cada ré.
+Interposta apelação pelo demandante, a Vigésima Sexta Câmara Cível do Tribunal de Justiça do Rio de Janeiro deu parcial provimento ao apelo para majorar o quantum indenizatório, em acórdão assim ementado (e-STJ, fls. 362-368):
+Ação de obrigação de fazer c/c dano moral. Fraude. Negativação. Tutela antecipada concedida determinando a baixa da restrição. Sentença de procedência ratificando a tutela, declarando inexistência da dívida e ao pagamento para cada réu no valor de R$ 2.000,00 em dano moral. Recurso da parte autora pugnando pela majoração do valor fixado. Reforma da Sentença. Valor que não atende aos princípios da proporcionalidade e razoabilidade, sendo majorado para R$ 8.000,00 a ser paga por cada réu. Precedentes desta Câmara. Incidência de juros a partir do fato danoso. Súmula 54 do STJ e 129 deste Tribunal. Conhecimento e provimento parcial do recurso.
+Inconformada, Cred System Administradora de Cartões de Crédito Ltda. interpôs recurso especial, fundamentado no art. 105, III, a e c, da CRFB, apontando divergência jurisprudencial e violação aos arts. 188, I, 407, 927 e 944 do Código Civil; e 43 do CDC.
+Sustentou, em síntese: a inexistência de ato ilícito e de prova do dano; a ser excessivo o quantum indenizatório; e que a correção monetária incide a partir do arbitramento do dano moral.
+Contrarrazões às fls. 388-403 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidir a Súmula n. 7 do STJ.
+Irresignada, a recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 428-432 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, cabe observar que este Superior Tribunal de Justiça possui entendimento consolidado no sentido de que o dano moral, oriundo de inscrição ou manutenção indevida em cadastro de inadimplentes ou protesto indevido é presumido, prescindindo de prova, e decorre da própria ilicitude do fato.
+Confiram-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. ATO ILÍCITO. DANO MORAL IN RE IPSA. REDUÇÃO DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso, o Tribunal de origem, examinando a prova dos autos, concluiu ter sido indevida a negativação do nome da recorrida, por se tratar de dívida quitada. Alterar tal conclusão demandaria nova análise de elementos fáticos, inviável em recurso especial.
+3. Consoante a jurisprudência desta Corte, "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova" (REsp n. 1.059.663/MS, Relatora Ministra NANCY ANDRIGHI, DJe 17/12/2008).
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da referida súmula, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.067.536/RJ, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/6/2017, DJe 16/6/2017 - sem grifo no original).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. OFENSA AOS ARTS. 168 E 458 DO CPC/1973. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INDEVIDA NEGATIVAÇÃO DO NOME DO AUTOR. DANO MORAL IN RE IPSA. SÚMULA 83/STJ. ALEGAÇÕES DE EXCESSO NO ARBITRAMENTO DA INDENIZAÇÃO OU DA MULTA DIÁRIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Consigne-se que Recurso Especial subjacente ao presente Agravo Interno atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça." 2. Não assiste sorte à agravante, no que tange à arguição de ofensa aos arts. 168 e 458 do CPC/1973, tendo em vista que o aresto impugnado se encontra devidamente fundamentado e tratou de todos os pontos necessários à resolução do feito.
+3. Inadmissível o Recurso Especial que não indica com precisão os dispositivos de lei federal supostamente violados ou deixa de especificar de que forma eles teriam sido contrariados pelo acórdão recorrido, nos termos da Súmula 284/STF.
+4. O acórdão recorrido está em sintonia com o atual entendimento do STJ de que o dano moral sofrido em virtude de indevida negativação do nome do autor se configura in re ipsa, ou seja, independe de prova. Incidência da Súmula 83/STJ.
+5. Não há como concluir pelo excesso no arbitramento da indenização ou na multa diária (astreintes) sem adentrar nos aspectos fático-probatórios da causa, insuscetíveis de revisão na via estreita do Especial, ante o óbice da Súmula 7/STJ.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 896.102/RJ, Relator Ministro Herman Benjamin, segunda turma, julgado em 15/12/2016, DJe 6/3/2017 - sem grifo no original).
+Quanto ao tema, o Tribunal de origem consignou o seguinte (e-STJ, fl. 366):
+O dano moral está configurado pela negativação indevida do nome da parte autora em banco de dados, informando sofrimento pelo menoscabo do seu direito da personalidade, com insuportável tribulação espiritual decorrente, sendo despicienda a prova do dano e sua repercussão, já que existe in re ipsa, adstrito ao próprio fato ofensivo e que independe de demonstração.
+Assim, efetuada a inscrição da parte autora por débito inexistente e presentes todos os pressupostos da responsabilidade civil, quais sejam, a conduta abusiva, a ocorrência de um dano e o nexo causal entre ambos, nasce o dever de indenizar para da parte ré responsável pelo apontamento indevido, independentemente de comprovação específica do prejuízo.
+Assim, tendo o Tribunal de origem julgado conforme a orientação jurisprudencial do STJ, incide o óbice da Súmula n. 83 desta Corte Superior.
+Ademais, a jurisprudência desta Corte é no sentido de que a revisão do quantum arbitrado para a indenização por danos morais encontra óbice na Súmula n. 7/STJ, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante.
+No presente caso, em que a indenização pelos danos morais foi arbitrada em R$ 8.000,00 (oito mil reais) para cada empresa requerida, não se verifica a exorbitância que justificaria a sua revisão, incidindo a Súmula n. 7/STJ a obstaculizar o conhecimento do recurso.
+Outrossim, nota-se que o acórdão recorrido coaduna-se com a pacífica jurisprudência desta Corte no sentido de que incide a correção monetária desde a data do arbitramento, conforme preceitua a Súmula n. 362 do STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem em 3% sobre o valor da condenação.
+Publique-se.
