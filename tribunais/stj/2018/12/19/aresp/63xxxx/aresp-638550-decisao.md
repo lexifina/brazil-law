@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO INTERNO. APELAÇÃO CÍVEL.
+Agravo do art. 557, § 1º do CPC, interposto contra decisão monocrática deste Relator que, nos termos do art. 557, § 1º-A do CPC, deu provimento ao recurso para julgar improcedente o pedido autoral, invertendo- se os ônus sucumbenciais. Recurso improvido." (e-STJ, fl. 230)
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 6º, incisos VI, VII e VIII do Código de Defesa do Consumidor e arts. 471 e 535, inciso II do Código de Processo Civil de 1973, sustentando, em síntese, (a) que a reforma da sentença tomou por base a ausência de prova produzida pela ora agravante sem considerar que decisão anterior havia determinado a inversão do ônus da prova, (b) que a ausência de provas deveria importar na manutenção da sentença, considerando que era da parte agravada o ônus probatório de comprovar que não tinham se comprometido a entregar os documentos necessários à regularização da moto junto ao DETRAN e (c) que a questão da inversão do ônus da prova restou omissa.
+Foram apresentadas contrarrazões às fls. 261/264.
+É o relatório. Decido.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não se verifica a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide, em especial acerca da inexistência de falhas a serem imputadas aos réus diante da posse por parte da agravante de todos os documentos necessários ao emplacamento do veículo (e-STJ, fl. 214).
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Com relação à suposta violação ao art. 471 do CPC/73, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto dos embargos de declaração opostos pela parte, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+No tocante à suposta violação ao art. 6º, VI, VII e VIII do CDC, o Tribunal de origem concluiu inexistir qualquer falha imputável a parte agravada, pois a parte agravante detinha todos os documentos necessários ao emplacamento do veículo e a obtenção dos documentos perante o DETRAN, bem como que não há qualquer documentação específica para o primeiro licenciamento, de modo a apreensão do veículo foi regular e deve ser atribuída a parte agravante, in verbis:
+"Em que pesem as razões constantes na sentença, inexiste qualquer falha que possa ser imputada aos réus. Conforme se verifica dos autos, a apelada detinha todos os documentos necessários a realizar o emplacamento do veículo, e em consequência, obter os documentos necessários junto ao DETRAN.
+Embora alegue que os réus tenham se comprometido a lhe fornecer a documentação, não há prova neste sentido, nos termos do artigo 333, I, do CPC.
+No mesmo sentido, como exaustivamente constou da contestação dos réus e das razões recursais, todos os documentos necessários ao emplacamento se encontravam com a autora.
+Ademais, as regras de experiência comum são claras ao apontar a responsabilidade do comprador em regularizar a documentação e emplacamento junto ao DETRAN, sendo possível responsabilizar o vendedor quando estiver expressamente pactuada ou quando se tratar de oferta, nos termos do CDC, o que não ocorreu no caso dos autos.
+(..)
+Ademais, em consulta ao sítio eletrônico do DETRAN, não há exigência de qualquer documento específica para o primeiro licenciamento, não havendo como se impor responsabilidade aos réus.
+Por fim, destaco que a apreensão do veículo se deu de forma regular, já que a autora emprestou o veículo, sabendo que o mesmo não poderia trafegar, já que estava sem documentação e sem o devido emplacamento." (e-STJ, fls. 214/215)
+Este fundamento (parte detinha todos os documentos necessários a regularização do veículo, não sendo exigível documento específico) não foi objeto de impugnação pela parte agravante e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia das Súmula 283 e 284 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
