@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL EM RECURSO ESPECIAL. INVIABILIDADE. COMPETÊNCIA DO STF. VIOLAÇÃO A ATO NORMATIVO. NORMA NÃO CARACTERIZADA COMO LEI FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 282 DO STF. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+FERNANDO RAMOS DE CAMARGO e MILTON ALVES MACHADO JÚNIOR (FERNANDO e outro) promoveram ação de arbitramento de honorários advocatícios fixados contra CLARICE DE LIMA NEVES (CLARICE), narrando que, na condição de advogados regularmente inscritos na OAB, foram contratados para propor ação acidentária contra o Instituto Nacional do Seguro Social - INSS. Explicaram que praticaram os devidos atos referente ao processo, tendo sido obtido êxito na demanda. Destacaram que, não obstante a ocorrência do trânsito em julgado, CLARICE enviou telegrama, destituindo os poderes outorgados a eles. Relataram que, apesar do serviço prestado, não receberam pelos serviços prestados. Requereram, assim, a procedência do pedido.
+Em primeira instância, o pedido foi julgado procedente para condenar CLARICE ao pagamento do quanto estipulado no contrato, acrescido de correção monetária desde o recebimento dos valores mencionados pelo INSS, nos índices estipulados na Tabela do Tribunal de Justiça, com juros de mora de 1% ao mês desde a citação. Na ocasião, CLARICE foi condenada ao pagamento das custas e despesas processuais, bem como dos honorários advocatícios fixados em 20% sobre o valor da causa.
+A apelação interposta por CLARICE não foi provida, nos termos da seguinte ementa:
+EMENTA
+Honorários Advocatícios. Ação de arbitramento. Autores que representaram a ré em demanda previdenciária, garantindo-Ihe a procedência do pedido, o que foi mantido em grau recursal. Revogação do mandato após julgamento da apelação. Serviços profissionais que foram efetivamente prestados até o final do processo. Alegação de abusividade das cláusulas contratuais que não se sustenta. Sentença de procedência mantida. Litigância de má-fé não configurada. Recurso improvido (e-STJ, fl. 142).
+Inconformada, CLARICE manejou recurso especial, amparado no art. 105, III, alíneas a e c, da CF, alegando ofensa aos arts. 36 do Código de Ética e Disciplina da OAB, 133 da CF e 187 do CC/02, além de divergência jurisprudencial. Sustentou que (1) os honorários advocatícios devem ser fixados de forma moderada, pois não podem ser vistos como uma atividade que tem como único e exclusivo fundamento o lucro; (2) o advogado não pode almejar maiores benefícios daqueles obtido pelos clientes; (3) os honorários contratuais e os sucumbenciais estão em valor superior a metade do benefício por ela auferido; (4) os honorários advocatícios devem ser reduzidos; (5) ocorreu o abuso de direito, a teor do art. 186 do CC/02; e, (6) seu direito ao contraditório e à ampla defesa foram negados.
+Sem contrarrazões (e-STJ, fl. 169).
+O apelo nobre não foi admitido em virtude do seguinte (1) não cabimento de recurso especial alegando ofensa a normas constitucionais; (2) não cabimento de recurso especial alegando contrariedade a ato normativo disciplinar (Código de Ética e Disciplina da OAB); (3) não demonstração de violação de legislação federal; (4) incidência da Súmula nº 7 do STJ; e, (5) não comprovação do dissídio jurisprudencial.
+Nas razões do presente agravo em recurso especial, CLARICE alegou que (1) o Tribunal de origem não interpretou corretamente os dispositivos tidos por violados, uma vez que os honorários advocatícios devem ser fixados de forma moderada; (2) os honorários advocatícios não podem ser vistos como uma atividade com o fim exclusivo do lucro, pois a meta é a Administração da Justiça; (3) foi apontada violação dos arts. 133 da CF e 187 do CC/02; (4) é possível a revisão dos valores arbitrados a título de honorários quando o causídico pretender auferir valor superior a metade do benefício auferido pelo cliente, pois fica configurada a exorbitância; (5) não foi indicada contrariedade ao art. 186 do CC/02; (6) não existe necessidade de reexame de matéria fática; (7) ficou comprovada a divergência jurisprudencial; e, (8) a Corte local usurpou a competência do STJ, porque apreciou o mérito do seu recurso.
+Sem contraminuta (e-STJ, fl. 203).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da matéria constitucional
+Inicialmente cumpre esclarecer que não é possível a análise de eventual ofensa a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito, veja-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREPARO. AUSÊNCIA DE RECOLHIMENTO. DESERÇÃO. SÚMULA Nº 187/STJ.
+1.Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do STF (art. 102, III, da Carta Magna).
+2.Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. Incide, por analogia, a Súmula nº 284/STF quando o recorrente deixa de indicar o dispositivo de lei federal que teria sido violado pelo Tribunal de origem.
+4. O recorrente deve comprovar, no momento da interposição do recurso especial, o pagamento das custas judiciais e do porte de remessa e retorno dos autos, sob pena de deserção, ainda que o recurso tenha por objeto a gratuidade da justiça, pois a concessão de tal benefício não tem efeito retroativo. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp 803.183/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 5/4/2016, DJe 12/4/2016 - sem destaque no original)
+Da ofensa a norma que não se enquadra na definição de Lei Federal (Código de Ética e Disciplina da OAB)
+A jurisprudência desta Corte firmou entendimento jurisprudencial no sentido de que o recurso especial não constitui via adequada para análise de ofensa a resolução, portaria, regimento interno, resolução, circular ou instrução normativa, por não estarem tais atos normativos compreendidos na expressão de lei federal, consoante a alínea a do inciso III do 105 da CF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SOCIEDADE ADMINISTRADORA DE CONSÓRCIO. FUNDO GARANTIDOR DE CRÉDITO. CONTA VINCULADA. LEGITIMIDADE ATIVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. ART. 535 DO CPC/1973. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. OFENSA A RESOLUÇÃO E A ENUNCIADO SUMULAR. INADEQUAÇÃO DA VIA ELEITA. DISSÍDIO JURISPRUDENCIAL.
+SIMILITUDE FÁTICA. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 211/STJ).
+3. A alegação genérica de violação do art. 535 do CPC/1973, sem a especificação dos vícios supostamente cometidos pelo tribunal de origem, enseja a incidência da Súmula nº 284/STF, aplicada por analogia.
+4. Não é cabível a interposição de recurso especial por violação de resoluções e de enunciados sumulares, por não se enquadrarem no conceito de lei federal.
+5. A ausência de similitude fática entre os julgados confrontados impede o conhecimento do dissídio jurisprudencial.
+6. Agravo interno não provido.
+(AgInt no REsp 1.426.967/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 2/8/2018, DJe 7/8/2018 - sem destaque no original).
+Da suposta ofensa ao art. 187 do CC/02
+Verifica-se que o dispositivo legal mencionado nas razões do especial não foi objeto de discussão pelo Tribunal a quo e não houve oposição de embargos de declaração, estando ausente o indispensável debate prévio. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Incide, ao caso, a Súmula nº 282 do STF.
+Ademais, mesmo que ultrapassado esse óbice, constata-se que a Corte local assim decidiu:
+Não há qualquer abusividade no caso tratado.
+Das cláusulas 3.11 e 3.111, extrai-se que foi estipulado o pagamento de três salários correspondentes à renda mensal do benefício recebido, mais 30% sobre o total bruto dos benefícios atrasados pagos pelo INSS.
+A cláusula 3 tampouco merece censura, pois a ré estava ciente do valor dos honorários quando contratou os advogados para defender seus interesses.
+Não pode agora, após conseguir êxito na demanda previdenciária, pretender se esquivar do pagamento da contraprestação dos serviços efetivamente prestados pelos autores nos moldes do que foi acordado a fls. 18 (e-STJ, fls. 144/145).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos e interpretação de cláusulas contratuais, procedimento sabidamente inviável na instância especial, pois vedado pelas Súmulas nºs 5 e 7 do STJ.
+A decisão recorrida deve permanecer íntegra.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Não obstante a aplicabilidade das regras do NCPC, deixo de majorar os honorários advocatícios fixados anteriormente em desfavor de CLARICE, em virtude de seu arbitramento em 20% sobre o valor da causa.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
