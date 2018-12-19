@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO SEGUROS S/A, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Seguro habitacional - Indenização pleiteada por proprietário de imóvel de seguro habitacional, em razão de danos decorrentes de vício de construção
+Recusa da seguradora Inadmissibilidade Laudo pericial judicial que apontou a existência de vícios Ré que somente estaria isenta de responsabilidade caso a obra fosse realizada por meio do sistema de mutirão, em face da responsabilidade direta do mutuário - Recurso provido.
+Em suas razões recursais, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 206, § 1º, II, do Código Civil. Sustenta, em síntese:
+i) a necessidade de inclusão da CEF na lide e de remessa dos autos à Justiça Federal, nos termos das Leis ns. 12.409/2011 e 13.000/2014, pois "(..) evidente que nos casos em que houver risco ou impacto jurídico ou econômico no FCVS ou suas subcontas a responsabilidade e legitimidade para atuar nas demandas judiciais é exclusivamente da CAIXA ECONÔMICA FEDERAL";
+ii) afirma ser parte ilegítima para atuar no polo passivo da presente lide;
+iii) a ocorrência de prescrição ânua.
+iv) dissídio jurisprudencial quanto à cobertura securitária.
+Pleiteia o reconhecimento da competência da Justiça Federal para processar e julgar o feito ou "o reconhecimento da prescrição do direito de ação e/ou a ausência de cobertura para vícios construtivos".
+Contrarrazões apresentadas.
+Admitido o recurso na origem, subiram os autos.
+É o relatório. Passo a decidir.
+Cumpre salientar que o recurso foi interposto já na vigência do CPC/2015, de maneira que incide, na espécie, o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+As matérias relativas à legitimidade da CEF para figurar na lide, à competência da Justiça Federal e à prescrição, teses trazidas no presente recurso especial, não foram debatidas pelo colendo Tribunal de origem no acórdão ora recorrido, tampouco foram opostos embargos de declaração visando à discussão dos temas. Assim, ante a falta de prequestionamento, incide o princípio cristalizado nas súmulas 282 e 356 do Supremo Tribunal Federal.
+De fato, esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, ainda que a violação a dispositivos infraconstitucionais surja no julgamento de recurso pelo Tribunal a quo ou que se trate de matéria de ordem pública. Nessa hipótese, mister se faz que a parte prejudicada por eventual ofensa perpetrada pela instância ordinária apresente embargos de declaração, buscando o exame do tema e viabilizando, assim, o acesso à instância especial. Na ausência de oposição de embargos declaratórios, a questão infraconstitucional não será examinada e, portanto, lhe faltará o necessário e indispensável prequestionamento, o que autorizará a aplicação das Súmulas 282 e 356/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO DE NULIDADE DA SENTENÇA. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 282 DO STF. VERIFICAÇÃO DE LITISPENDÊNCIA. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A violação ao art. 1.022 do Código de Processo Civil de 2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, concluindo pela configuração da litispendência.
+2. A questão referente à nulidade da sentença não foi objeto de debate pelo Tribunal de Justiça, tampouco foram opostos embargos de declaração com o objetivo de sanar omissão neste ponto específico.
+Dessa forma, não tendo sido enfrentada pelo acórdão recorrido a referida tese, o conhecimento do recurso especial fica obstado, dada a ausência de prequestionamento, incidindo, por conseguinte, a Súmula n. 282 do STF. Segundo pacífica jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento.
+3. O acórdão consignou expressamente que os autores, ora agravantes, apresentaram discussão a respeito de tema já suscitado e examinado em embargos à execução anteriormente propostos contra a mesma instituição financeira e sobre o mesmo contrato. Nesse contexto, alcançar conclusão diversa da que chegou o Tribunal estadual, acerca da configuração da litispendência, demandaria o revolvimento do acervo fático-probatório, procedimento inviável no âmbito do recurso especial, incidindo na hipótese a Súmula n. 7 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 1.130.021/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe de 13/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 489, § 1º, DO CPC/2015. DECISÃO MANTIDA.
+1. Na instância excepcional é exigido o requisito do prequestionamento, ainda que se trate de matéria de ordem pública.
+2. Inexiste afronta ao art. 489, § 1º, do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.143.888/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/10/2017, DJe de 24/10/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCOMPETÊNCIA ABSOLUTA. INOVAÇÃO RECURSAL E AUSÊNCIA DE PREQUESTIONAMENTO. CONTRATAÇÃO DE ADVOGADO. AUSÊNCIA DE DANO. SÚMULA 7/STJ. DECISÃO AGRAVADA QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito de se tratar de questão de ordem pública, a alegação de incompetência absoluta não pode ser conhecida se se tratar de inovação recursal e carecer do devido prequestionamento.
+2. A contratação de advogado, por si só, não enseja danos materiais, sob pena de atribuir ilicitude a qualquer pretensão questionada judicialmente. Incidência da Súmula 83/STJ.
+3. Rever as conclusões do Tribunal local de que não ficaram demonstrados fatos constitutivos do direito do autor demandaria reexame de prova, atitude esta vedada pela Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 288.363/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/06/2015, DJe de 03/08/2015)
+Ademais, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Quanto a divergência apontada em relação à cobertura securitária, a parte recorrente, não apontou o dispositivo de lei federal a que os acórdãos recorrido e paradigmas teriam dado interpretação divergente. Destarte, não há como deixar de reconhecer a deficiência na fundamentação do recurso, aplicando-se a Súmula 284/STF.
+Eis, a propósito, alguns julgados:
+ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Em relação à alínea "a", a alegação genérica, sem a particularização dos dispositivos legais eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ, atraindo a incidência, ao caso, da Súmula 284/STF.
+2. Quanto à alínea "c", a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF.
+3. Agravo regimental a que se nega provimento, com aplicação de multa. (AgRg no AREsp n. 675.968/DF, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/4/2015.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA Nº 284/STF.
+(..)
+2. A jurisprudência desta Corte orienta-se no sentido de que, para ser apreciado o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal, cabe ao recorrente indicar o dispositivo de lei federal violado, pois o dissídio jurisprudencial baseia-se na interpretação divergente da norma federal. Aplica-se, por analogia, o disposto na Súmula nº 284 do Excelso Pretório diante da deficiência na fundamentação do recurso, na espécie, caraterizada pela ausência de indicação da norma federal tida por violada.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.099.762/RJ, Relator o Ministro VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, TERCEIRA TURMA, DJe de 25/05/2009)
+Diante do exposto, não conheço do recurso especial.
+Publique-se.
