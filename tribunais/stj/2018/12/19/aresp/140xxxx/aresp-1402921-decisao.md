@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. NÃO DEMONSTRADA A IRRISORIEDADE DO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação cognitiva em desfavor de Banco Bradesco Financiamentos S.A. postulando a declaração da inexistência de débito e a condenação do réu à repetição do indébito e ao pagamento indenização por danos morais.
+A Magistrada de primeiro grau julgou improcedentes os pedidos. Interposta apelação pelo autor, a Terceira Câmara Cível do Tribunal de Justiça de Mato Grosso do Sul, por maioria, deu parcial provimento ao apelo para declarar a inexistência da dívida e condenar a instituição financeira à restituição dos valores indevidamente descontados e ao pagamento de indenização por danos morais no valor de R$ 4.731,20 (quatro mil, setecentos e trinta e um reais e vinte centavos).
+O acórdão está assim ementado (e-STJ, fls. 284-294):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANO MORAL - DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO - CONTRATO DE EMPRÉSTIMO CONSIGNADO - AUSÊNCIA DE ESCRITURA PÚBLICA OU PROCURAÇÃO A ROGO - CONTRATANTE ANALFABETO - NÃO DISPONIBILIZAÇÃO DO MÚTUO - FRAUDE - RELAÇÃO DE CONSUMO CARACTERIZADA - DEVER DE FORNECER SERVIÇOS ADEQUADOS, EFICIENTES E SEGUROS - RESTITUIÇÃO VALORES - FORMA SIMPLES - DANO MORAL - CARACTERIZADO - QUANTUM INDENIZATÓRIO - FIXAÇÃO DENTRO DOS PARÂMETROS DA RAZOABILIDADE E PROPORCIONALIDADE RECURSO PARCIALMENTE PROVIDO.
+Nos termos do art. 14 do CDC, o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.
+Tendo em vista que o pedido de reparação de dano formulado decorre de fato do serviço (art. 14, CDC), o ônus de comprovar a validade do vínculo obrigacional constituído entre as partes é do fornecedor, de acordo com o art. 6º, VIII, do Código de Defesa do Consumidor e art. 373, II, do Código de Processo Civil. Não havendo comprovação de inexistência de vício na prestação do serviço ou culpa exclusiva do consumidor ou terceiro, configura-se a falha no serviço prestado pelo banco réu e o dever de indenizar, haja vista que agiu com negligência ao promover empréstimos consignados sem conferir a veracidade das informações prestadas pelo solicitante.
+Consoante dispõe o art. 42, do CDC, não cabe a devolução em dobro dos valores indevidamente pagos quando não restar evidenciado nos autos a má-fé do banco requerido.
+O valor arbitrado a título de indenização por danos morais deve representar uma compensação à vítima e também uma punição ao ofensor, guardando-se proporcionalidade entre o ato lesivo e o dano moral sofrido.
+O demandante interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 186, 927 e 944 do CC e 6º, VI, do CDC.
+Sustentou, em síntese, a necessidade de majoração da indenização por danos morais, sendo inadmissível a utilização da indenização tarifada no ordenamento jurídico pátrio.
+Contrarrazões às fls. 424-429 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso especial sob o fundamento incidir a Súmula 7/STJ.
+Irresignado, o recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 473-479 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, a jurisprudência desta Corte Superior tem firmado entendimento no sentido de que o valor estabelecido pelas instâncias ordinárias somente deve ser revisto nas hipóteses em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade.
+Na presente hipótese, o acórdão recorrido arbitrou a indenização em R$ 4.731,20 (quatro mil, setecentos e trinta e um reais e vinte centavos), tomando como parâmetros as peculiaridades do caso concreto, não se revelando exorbitante o valor fixado.
+Oportuno assinalar, na espécie, que não houve a adoção da indenização tarifada, como alega o insurgente, haja vista que o Tribunal de origem fixou o quantum indenizatório mediante análise das peculiaridades do caso, notadamente o valor dos contratos fraudulentos.
+Desse modo, a revisão do valor arbitrado pelo Tribunal de origem demandaria o reexame de matéria fático-probatória, providência inviável no âmbito do recurso especial, ante o disposto na Súmula 7 do STJ.
+Ademais, "tratando-se de valor da indenização por danos morais, inviável a análise do recurso com base em dissídio pretoriano, pois, ainda que aparentemente possa haver similitude nas características objetivas das lides cotejadas, na dimensão subjetiva, os acórdãos serão sempre distintos, em face das peculiaridades de cada ato ilícito" (AgRg no REsp n. 918.829/ES, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 16/12/2010).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
