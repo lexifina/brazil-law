@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por CAIXA SEGURADORA S/A contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 302, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. FUNDAMENTOS RECURSAIS NÃO VOLTADOS A REBATER A RATIO DECIDENDI DO VEREDICTO. IRREGULARIDADE FORMAL. RECURSO NÃO CONHECIDO, NOS TERMOS DO ARTIGO 932, III, ÚLTIMA FIGURA, DO CPC/15.
+Em suas razões de recurso especial (fls. 361/387, e-STJ), a parte recorrente aponta violação aos arts. 757, 760 do Código Civil; 784, 1.022, inc. II, e 1.025 do Código de Processo Civil de 2015, além de dissídio jurisprudencial, sob os seguintes argumentos, em síntese: a) que a presente ação executiva é nula de pleno direito, eis que o título executado, nos presentes autos, não faz parte do rol taxativo de documentos com força ou natureza de títulos executivos extrajudiciais; b) a revelia não gera a presunção absoluta dos fatos narrados nos autos, devendo o magistrado analisar as alegações formuladas pelas partes em confronto com todas as provas carreadas nos autos para formar o seu convencimento; c) o autor não foi acometido por invalidez permanente total, não fazendo jus à qualquer indenização tendo em vista que não está impedido de exercer toda e qualquer atividade laborativa; e d) que o acórdão recorrido não se manifestou quantos aos dispositivos legais apontados nos embargos de declaração, com a finalidade de prequestionamento da matéria.
+Contrarrazões apresentadas às fls. 402/405, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência do óbice recursal da Súmula 282 do STF, ante a falta do requisito do prequestionamento.
+Daí o agravo (fls. 411/423, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 429/433, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, no tocante à apontada violação aos artigos 1.022, inc. II, e 1.025 do CPC/2015, verifica-se que parte recorrente menciona genericamente, nas razões do recurso especial, os dispositivos legais como violados, sem ter particularizado os pontos em que, de fato, teria havido afronta, isto é, qual ou quais as matérias que o Tribunal de origem, apesar da provocação por embargos de declaração, teria deixado de se manifestar.
+Assim, nos casos em que a arguição é genérica, não se conhece do recurso especial pela alegada violação, incidindo, na hipótese, o óbice da Súmula 284/STF, assim redigida: É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. De outro modo, com relação à alegada afronta aos arts. 757, 760 do CC; e 784 do CPC/15, relativo aos argumentos de que: (i) a presente ação executiva é nula de pleno direito, eis que o título executado, nos presentes autos, não faz parte do rol taxativo de documentos com força ou natureza de títulos executivos extrajudiciais; (ii) a revelia não gera a presunção absoluta dos fatos narrados nos autos; e (iii) o autor não foi acometido por invalidez permanente total, não fazendo jus à qualquer indenização, constata-se que as referidas teses jurídicas não foram apreciadas pelo Tribunal de origem, não podendo, portanto, ser analisada por esta Corte Superior as mencionadas contrariedades.
+Destaca-se que, na hipótese dos autos, a Corte local não conheceu do recurso de apelação oposto pela parte ora recorrente, contra sentença que rejeitou os embargos à execução por serem intempestivos, sob o fundamento de conter razões dissociadas da sentença combatida, pronunciando-se nos seguintes termos (fls. 353/355, e-STJ):
+Conforme relato, cuida-se de agravo interno interposto pela CAIXA SEGURADORA S/A, contra a decisão ad quem que deixou de conhecer do seu apelo, por conter razões dissociadas da sentença combatida.
+Para tanto, verbera que "a presente Ação Executiva é nula, de pleno direito", que a "revelia não gera a presunção absoluta dos fatos narrados nos autos"; e que "o juízo deveria ter analisado todas as provas carreadas aos autos, em especial a perícia médica realizada nos autos, no qual constatou que o autor NÃO ESTA TOTALMENTE INVÁLIDO, sendo concluído que apenas houve uma redução de 25 % (vinte e cinco por cento) das funções cerebrais."
+Nessa seara, vê-se que novamente a peça recursal apresentada pela insurgente não se ateve ao que foi decidido, produzindo razões afastadas da matéria objeto da decisão.
+Conforme se infere dos autos, a decisão ad quem hostilizada deixou de conhecer do apelo interposto pela ora agravante, tendo em vista a incompatibilidade existente entre as razões da insurgência recursal e o teor da sentença a quo.
+Igualmente, sem se atentar aos fundamentos do ato judicial combatido, a recorrente, munida dos argumentos expendidos no recurso originário, volta aos autos, revoltando-se contra a decisão do relator cujo teor ignora completamente.
+Ora, o Código de Processo Civil/15, especificamente o artigo 1.021, § 1º, do CPC/15, exige que o agravo interno contenha os fundamentos que amparem o inconformismo, sendo que as razões do recorrente, por uma questão de lógica, só podem se referir ao contido efetivamente no decisum objurgado.
+A propósito, a dominante orientação desta Corte de Justiça é no sentido do não conhecimento do recurso, cujas razões estejam dissociadas dos fundamentos da decisão recorrida.
+Veja-se: (..).
+De tal sorte, forçoso reconhecer que este recurso não preenche o pressuposto de admissibilidade da regularidade formal, pois as razões expendidas estão totalmente desagregadas do que restou efetivamente decidido no comando judicial guerreado.
+Assim, tem-se que perquirir nessa via estreita sobre violação da referida norma, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Ao ensejo, confira-se o teor do enunciado 282 da Súmula do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Saliente-se, ademais, que a falta do prequestionamento também inviabiliza a análise da tese de divergência jurisprudencial a ele relacionada.
+Sobre o tema:
+AGRAVO REGIMENTAL. OBRIGAÇÃO ALIMENTAR. TRANSMISSIBILIDADE. CC/2002, ART. 1700. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. A falta de prequestionamento impede o conhecimento da questão federal suscitada (Súmula 282/STF).
+2. Não impugnado o fundamento do acórdão recorrido, incide, por analogia, o óbice da Súmula 182/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1315377/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 26/03/2014, REPDJe 05/08/2014, DJe 01/08/2014) (grifou-se)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da causa, a ser suportado exclusivamente pela parte recorrente, observadas as regras da gratuidade da justiça.
+Publique-se.
+Intimem-se.
