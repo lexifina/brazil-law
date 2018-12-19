@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ASSOCIAÇÃO COMERCIAL E INDUSTRIAL DO GAMA, em 06/07/2018, contra decisão do Tribunal Regional Federal da 1ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO - CONTRIBUIÇÃO PARA O PIS. ART. 3º, § 1º, DA LEI Nº 9.718/98. FATURAMENTO X RECEITA BRUTA. PRESCRIÇÃO QÜINQÜENAL. AÇÃO AJUIZADA APÓS 08/06/2005. PROCESSO EXTINTO. SENTENÇA MANTIDA.
+1. Reconhecida, pelo Supremo Tribunal Federal, a inconstitucionalidade art. 4º, segunda parte, da Lei Complementar 118/05, considera-se válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005. Aplicação do art. 543-B, § 3º, do CPC aos recursos sobrestados. Recurso extraordinário desprovido. (Cf. RE 566621/RS, da Relatoria da Ministra Ellen Gracie, Tribunal Pleno, DJe 11/10/2011; p. 273).
+2. Assim, considerando que os valores recolhidos indevidamente são referentes aos anos de 1998 a 2003 e que a ação foi proposta no ano de 2010, o reconhecimento da prescrição é medida que se impõe.
+3. Apelação a que se nega provimento" (fl. 238e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls 241/245e), os quais restaram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PIS. ART. 3º, §1º, DA LEI Nº 9.718/98. FATURAMENTO X RECEITA BRUTA. PRESCRIÇÃO QÜINQÜENAL. AÇÃO AJUIZADA APÓS 08/06/2005. PROCESSO EXTINTO. EMBARGOS DE DECLARAÇÃO. OMISSÕES INEXISTENTES. REDISCUSSÃO DO JULGADO. EMBARGOS NÃO PROVIDOS.
+1. Inexistindo no v. acórdão embargado qualquer ponto omisso sobre que se deva pronunciar esta Colenda Turma, mas tão-somente o intuito de infringência do julgado, rejeitam-se os embargos de declaração.
+2. O acórdão embargado abordou expressamente a insurgência da embargante, como visto às fls. 225/226.
+3. Embargos de declaração não se prestam a analisar o acerto ou desacerto do julgado a ser questionado em via recursal própria.
+4. "O magistrado não é obrigado a responder a todas as teses apresentadas pelas partes para fielmente cumprir seu encargo constitucional de prestar a jurisdição, mas, tão somente, decidir fundamentadamente as questões postas sob seu julgamento" (STJ, EDcl no AgRg nos EREsp 1230609/PR, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 15/06/2016, DJe 29/06/2016).
+5. O pré-questionamento deve pautar-se ao disposto no art. 1.022, I e II, do novel CPC; ausentes os vícios processuais alegados, não é devida a declaração vindicada.
+6. Embargos declaratórios aos quais se nega provimento" (fl. 257e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.022, II, do CPC/2015; 10, II, da Lei 10.833/03 e 8º, II, da Lei 10.637/2002, sustentando, além de omissão não suprida em sede de Embargos de Declaração, que, em se tratando de ação coletiva, deve ser reconhecida a "desnecessidade de especificação do regime de tributação de cada empresa filiada da associação autora, para aplicar o entendimento firmado no REsp 1.354.506/SP, julgado sob o signo do art. 543-C do CPC/73, reconhecendo o direito à repetição de indébito com base na inconstitucionalidade do art. 3o, §1º, da Lei 9.718/98, mesmo após a vigência das Leis 10.637/2002 e 10.833/2003 para os membros da Recorrente tributados pelo imposto de renda com base no lucro presumido ou arbitrado, diante da aplicação do art. 8o, II, da Lei n. 10.637/2002 e do art. 10, II, da Lei n. 10.833/2003, que excluem tais pessoas jurídicas da cobrança não cumulativa do PIS e da COFINS" (fl. 270e)
+Contrarrazões a fls. 284/290e.
+Inadmitido o Recurso Especial (fs. 292/293e), foi interposto o presente Agravo (fls. 296/304e).
+Contraminuta a fls. 307/310e.
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 10, II, da Lei 10.833/03 e 8º, II, da Lei 10.637/2002 sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer parcialmente do Recurso Especial, e, nessa parte, negar-lhe provimento.
+I.
