@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PIS/COFINS. CRÉDITO ESCRITURAL E CRÉDITO PRESUMIDO. CORREÇÃO MONETÁRIA. DEMORA INJUSTIFICADA NA ANÁLISE DO PEDIDO ADMINISTRATIVO. TERMO INICIAL DA ATUALIZAÇÃO MONETÁRIA. APLICAÇÃO DO ART. 24 DA LEI 11.457/2007. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS: RESPS 1.768.415/SC, 1.768.060/RS E 1.767.945/RS. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela ALIBEM ALIMENTOS S.A, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO DE CRÉDITOS. ARTIGO 24 DA LEI 11.457/07. PRAZO DE 360 DIAS PARA ANÁLISE E SOLUÇÃO. MORA DA ADMINISTRAÇÃO TRIBUTÁRIA. CORREÇÃO MONETÁRIA. CRÉDITOS ESCRITURAIS. CABIMENTO. TERMO A QUO. COMPENSAÇÃO DE OFÍCIO. DÉBITOS COM EXIGIBILIDADE SUSPENSA. ARTIGO 151 DO CTN. IMPOSSIBILIDADE.
+2. Nas razões recursais, a parte recorrente aduz, em síntese, a incidência de correção monetária desde a data do protocolo administrativo, independente do transcurso do lapso temporal dos 360 dias.
+3. É o relatório.
+4. Verifica-se que a matéria versada no Apelo Nobre se encontra afetada à Primeira Seção do STJ como representativa da controvérsia e aguarda julgamento: REsps. 1.768.415/SC, 1.768.060/RS e 1.767.945/RS.
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+6. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+7. Publique-se.
+8. Intimações necessárias.
