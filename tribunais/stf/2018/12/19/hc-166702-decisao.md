@@ -1,0 +1,23 @@
+Decisão: Trata-se de habeas corpus interposto contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado (AgRg no RHC 92.511/AL, eDOC 09, p. 24):
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPERVENIÊNCIA DO ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. INCIDÊNCIA DA SÚMULA Nº 52/STJ. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Encerrada a instrução criminal e encontrando-se o feito no aguardo da apresentação de alegações finais pela defesa, resta inviabilizado o pretendido reconhecimento de excesso de prazo. Incidência do Enunciado n.º 52 da Súmula desta Corte Superior de justiça.
+    2. Agravo regimental improvido.
+    Narra o impetrante que o paciente sofre constrangimento ilegal por excesso de prazo na formação da culpa, tendo em vista que, desde 18.05.2017, está preso preventivamente por suposta prática do crime de homicídio qualificado e ainda não foi julgado em primeiro grau de jurisdição.
+    À vista dos argumentos, pugna pela soltura do paciente.
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que “a demora para conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (a) evidente desídia do órgão judicial; (b) exclusiva atuação da parte acusadora; ou (c) situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF/88”. (HC 128.833, Rel. Min. TEORI ZAVASCKI, Segunda Turma, julgado em 08.09.2015, grifei).
+    No mesmo tom, “o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para se definir se houve ou não excesso, não se limitando o exame à mera soma aritmética dos prazos processuais (Precedentes do STF e do STJ). Dessa forma, o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando houver demora injustificada (Precedentes)” (HC 103.385, Rel. Min. DIAS TOFFOLI, Primeira Turma, julgado em 08.02.2011, grifei).
+    Nessa linha, é cediço que inexiste extensão aritmeticamente precisa da duração razoável da marcha processual, incumbindo averiguar as particularidades do caso concreto.
+    No caso concreto, trata-se de homicídio de duas pessoas imputado ao paciente, o que, por si só, evidencia a complexidade da ação penal. Cumpre assinalar que a apuração referente a delito de homicídio comumente envolve diligências a elastecer a marcha processual.
+    Consta dos autos que o paciente foi preso em 18.05.2017 e pronunciado em 17.12.2018. Do histórico processual narrado, não antevejo excesso de prazo que beire à teratologia, passível de concessão por meio da estreita via do habeas corpus, medida de cunho excepcionalíssimo que desafia abuso ou desídia das autoridades públicas.
+     Não bastasse, destaco que consta da decisão de pronúncia que a demora na instrução processual foi causada pela própria defesa (eDOC 10):
+    “As audiências dos dias 19/02/2018 (fl. 240) e 15/03/2018 (fl. 257) foram redesignadas porque a Defensoria Pública não compareceu ao ato. Finda a instrução, os autos só não foram conclusos para Decisão com antecedência porque a própria Defesa não apresentou as alegações finais na primeira oportunidade em que foi intimada, em meados de setembro de 2018, só tendo apresentado em 10/12/2018 (fls. 322). Nota-se, portanto, que a Defesa quer se valer da sua própria inércia para defender o excesso de prazo da prisão, o que, de pronto, deve ser rechaçado.”
+    Por fim, observo que a decisão do STJ se alinha à jurisprudência desta Suprema Corte no sentido de que a questão do excesso de prazo fica superada com a prolação da sentença. Com efeito, a entrega da prestação jurisdicional torna prejudicada a alegação de constrangimento ilegal por tal fundamento. Precedentes: HC 137.444, Relator Marco Aurélio, Redator p/ acórdão Alexandre de Moraes, Primeira Turma, DJe 01.12.2017 e HC 112.207, Relator Gilmar Mendes, Segunda Turma, DJe 25.09.2012.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem.
+    2. Posto isso, com fulcro no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
