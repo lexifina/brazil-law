@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário criminal interposto contra o acórdão assim ementado:
+    “HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCS. II E III, DO CÓDIGO PENAL). CONDENAÇÃO PELO TRIBUNAL DE JÚRI. EXECUÇÃO PROVISÓRIA DA PENA DETERMINADA PELO JUÍZO DE PRIMEIRO GRAU, EM RAZÃO DA SOBERANIA DO DECISUM DO CONSELHO DE SENTENÇA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. DECISÕES DOS JURADOS QUE, EMBORA EM HIPÓTESES EXTREMAMENTE RESTRITAS, PODEM SER MODIFICADAS. ART. 593, INC. III, ALÍNEA ‘D’, DO CÓDIGO DE PROCESSO PENAL. POSSIBILIDADE DE INGRESSO DE RECURSO DE APELAÇÃO. TRIBUNAL DE SEGUNDA INSTÂNCIA QUE DECIDIRÁ SOBRE A RELAÇÃO ENTRE AS PROVAS DOS AUTOS E A DECISÃO DOS JURADOS. NECESSIDADE DE GARANTIR O DUPLO GRAU DE JURISDIÇÃO. NEGATIVA DE RECORRER EM LIBERDADE QUE SE MOSTRA ILEGAL, ANTE A AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. ADEMAIS, PACIENTE QUE PERMANECEU SOLTO DURANTE TODO O PROCESSO, MEDIANTE O CUMPRIMENTO DE MEDIDAS CAUTELARES ANTERIORMENTE IMPOSTAS PELO JUÍZO A QUO. ORDEM CONCEDIDA.
+    Em que pese a soberania dos vereditos, a decisão dos jurados, em hipóteses restritas, pode ser modificada pelo Tribunal ad quem, quando constatar-se manifesta contrariedade entre as provas acostadas aos autos e a decisão do Conselho de Sentença (art. 593, inc. III, alínea ‘d’, do CPP).
+    Diante da possibilidade de reversão da decisão do Júri, a execução provisória da pena já em primeiro grau, mostra-se equivocada, devendo ser garantido ao réu, ora paciente, o duplo grau de jurisdição, de modo que poderá recorrer em liberdade, pois assim esteve durante todo o curso do processo, ante a ausência dos requisitos previstos no art. 312 do CPP” (pág. 14 do doc. eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se ofensa ao art. 5°, XXXVIII, c, da mesma Carta, ao argumento de que a condenação oriunda do Tribunal do Júri pode ser executada imediatamente, em razão da soberania dos veredictos.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, ante a ausência de interposição do recurso especial pelo Ministério Público do Estado de Santa Catarina, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283/STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
