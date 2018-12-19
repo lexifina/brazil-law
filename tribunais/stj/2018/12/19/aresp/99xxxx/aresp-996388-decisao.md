@@ -1,0 +1,43 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO CPC/73. RECURSO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+INÊS MÉRCIA RIBEIRO E SILVA (INÊS) promoveu ação de anulação de confissão de dívida cumulada com restituição em dobro contra MENEZES SOUZA ENGENHARIA LTDA (MENEZES ENGENHARIA).
+O juízo de piso julgou a ação procedente para declarar nula a obrigação de INÊS formalizada por meio do instrumento de Confissão de Dívida (e-STJ, fls. 224/230).
+O Desembargador deu provimento ao recurso de apelação interposto por MENEZES ENGENHARIA para acolher a preliminar de nulidade da sentença recorrida, proferida quando o feito já se encontrava há muito sentenciado e transitado em julgado (e-STJ, fls. 284/286).
+O Tribunal de origem deu provimento ao agravo regimental manifestado por INÊS para cassar a decisão hostilizada e submeter a apelação interposta por MENEZES ENGENHARIA ao crivo do colegiado (e-STJ, fls. 308/214).
+Assim, o Tribunal de origem deu parcial provimento ao apelo de MENEZES ENGENHARIA tão somente para reduzir a verba sucumbencial para R$ 5.000,00 (cinco mil reais) em acórdão assim ementado
+APELAÇÃO EM AÇÃO ORDINÁRIA. ALEGAÇÃO DE ERRO DE PROCEDIMENTO. SENTENÇA QUE EXTINGUE O PROCESSO SEM RESOLUÇÃO DO MÉRITO SEGUIDA POR NOVO PRONUNCIAMENTO QUE O APRECIA. INÉRCIA DA PARTE QUE INTIMADA DEIXOU DE APONTAR INVALIDADE. VÍCIO PROCESSUAL. PRECLUSÃO. IMPOSSIBILIDADE DE DECRETAÇÃO DE NULIDADE. ARGUIÇÃO DE ERRO DE JULGAMENTO. PEDIDO DE REFORMA DESPROVIDO DE CAUSA DE PEDIR RECURSAL. INADMISSIBILIDADE PARCIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DESPROPORÇÃO COM O CASO CONCRETO. REFORMA DO CAPÍTULO ACESSÓRIO.
+1. Toda nulidade processual deve ser decretada e produz efeitos regularmente até o momento em que é pronunciada, mas pode ser sanada pela correção do vício ou porque os defeitos se tornam inaptos a justificar sua decretação, já que a invalidação de um ato processual é pena gravíssima que só deve ocorrer diante da ausência de uma alternativa que a aproveite.
+2. Com o proferimento de sentença extinguindo o feito sem resolução do mérito, verifica-se a ocorrência de preclusão pro judicato, encerrando-se a prestação jurisdicional em primeira instância. Tendo o magistrado, contudo, reformado sua decisão, retomando o trâmite da demanda, cabia à parte interessada arguir este vício na primeira oportunidade em que se manifestou nos autos, sujeitando-se, em razão da sua omissão, aos efeitos do instituto, nos preclaros termos do art. 245 do CPC: "a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão".
+3. A imperfeição existente em virtude do indevido resgate da marcha processual pelo juízo singular restou sanado pela preclusão da oportunidade da parte ré apontá-lo e requerer, por conseguinte, a invalidação do(s) ato(s). Em razão da inércia da parte interessada, o suposto defeito deixou de ser hábil a justificar a invalidação dos atos processuais que seguiram a primeira sentença de fl. 153, dentre os quais se encontra o provimento judicial que resolveu o mérito da lide.
+4. Carecendo o pedido de reforma da sentença hostilizada de causa de pedir recursal, a hipótese é de inadmissibilidade do apelo neste ponto.
+5. Verificando-se verdadeira desproporção entre o valor dos honorários advocatícios sucumbenciais arbitrado pelo juízo singular e as circunstâncias envolvidas na lide em tela, impõe-se a redução do importe, adequando-o aos ditames do art. 20, § 4º, do CPC.
+6. Recurso conhecido em parte e parcialmente provido (e-STJ, fls. 350/351).
+Os embargos de declaração opostos por MENEZES ENGENHARIA foram rejeitados, com a condenação ao embargante da multa correspondente a 0,5% (meio por cento) do valor atribuído à causa, nos termos do art. 538 do CPC/73 (e-STJ, fls. 395/402).
+Irresignada, MENEZES ENGENHARIA interpôs recurso especial, com fundamento na alínea a do permissivo constitucional, alegando afronta aos arts. 245, parágrafo único, 267, § 3º, 301, VI, § 4º, 463, 467, 468, 471, 473, 535, I e II, e 538, parágrafo único, do CPC/73, sob o fundamento de (1) negativa de prestação jurisdicional; (2) afastamento da multa aplicada por não restar caracterizado o intuito protelatório; (3) reconhecimento da imutabilidade da coisa julgada em razão da incidência da preclusão pro judicato consumativa e temporal, resultantes da impossibilidade de reabertura da tramitação e processamento da ação, após a sentença extintiva (e-STJ, fls. 406/425).
+As contrarrazões foram apresentadas (e-STJ, fls. 456/472).
+Não admitido seu recurso especial, em razão da incidência das Súmulas nº 282, 284 e 356 do STF e da ausência de ofensa ao art. 535 do CPC/73 (e-STJ, fls. 474/475), MENEZES ENGENHARIA interpõe o presente agravo em recurso especial (e-STJ, fls. 479/495).
+A contraminuta foi apresentada (e-STJ, fls. 498/528).
+É o relatório.
+DECIDO.
+A insurgência não ultrapassa a barreira do conhecimento.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Consoante pacífico entendimento desta Corte, a agravante devem infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência das Súmulas nºs 282 e 356 do STF, deve a parte agravante refutar o citado óbice demonstrando em que passagens do voto condutor do acórdão recorrido houve o debate da questão à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, mediante a emissão de juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto.
+Bem assim, no que pertine à incidência da Súmula nº 284 do STF, deve a parte agravante rebater o óbice demonstrando que houve a necessária fundamentação no recurso especial com a exata compreensão da controvérsia.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I, do CPC).
+2.  ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014 - sem destaque no original)
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
