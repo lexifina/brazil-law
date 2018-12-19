@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15), interposto por ASSOCIAÇÃO AMPARO AOS PRAIANOS DO GUARUJÁ, em face da decisão acostada às fls. 342/343, e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 170/178, e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+INDENIZATÓRIA - Pretensão fundada em contrato de prestação de serviços educacionais - Promessa de curso de pós-graduação com certificação reconhecida pela CAPES - Descumprimento contratual - Ausência de contrato nos autos - Revelia e confissão da primeira requerida - Danos materiais e morais configurados - Devolução das mensalidades pagas - Dano moral fixado em R$ 31.000,00 - Responsabilização solidária das requeridas - Ação procedente em parte - Recurso que se dá provimento parcial.
+Opostos embargos de declaração (fls. 181/189, e-STJ), esses foram rejeitados (fls. 192/201, e-STJ)
+Nas razões de recurso especial, a recorrente apontou violação ao art. 333, I, do CPC/73. Para tanto, argumenta que a parte, ora recorrida, não se desincumbiu do ônus de demonstrar a legitimidade passiva da insurgente, razão pela qual esta não poderia ser condenada ao pagamento de danos morais. Afirma, ainda, que estes danos não existiram, já que reconhecida, pela parte contrária, a validade do curso realizado. Aponta, também, que os danos morais foram fixados em quantum excessivo.
+Contrarrazões às fls. 330/334, e-STJ.
+Em juízo prévio de admissibilidade, a corte de origem negou seguimento ao apelo nobre ao argumento de não ter sido demonstrada a violação ao dispositivo apontado, bem como pela aplicação da Súmula 7/STJ.
+Inconformada, interpôs o presente agravo cuja minuta está acostada às fls. 372/377, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O recurso não comporta provimento.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 1973 a este julgado, com amparo no Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Quanto à apontada afronta ao art. 333 do CPC/1973 (equivalente ao art. 373 do CPC/15), cumpre ressaltar que não é possível sua aferição sem incursão no arcabouço fático probatório dos autos, o que não é cabível em sede de recurso especial.
+Nesse sentido, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NOTA PROMISSÓRIA. VÍCIO DE CONSENTIMENTO. DOLO. ALEGADA VIOLAÇÃO AO ART. 373 DO CPC/2015. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+2. "A Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1199439/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FALHA NA PRESTAÇÃO DE SERVIÇO DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. ÔNUS DA PROVA. ART. 333 DO CPC/73. NECESSIDADE DE REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Na forma da jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (STJ, REsp 1.602.794/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017). Em igual sentido: STJ, AgInt no REsp 1.651.346/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 21/06/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp 1145076/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/12/2017, DJe 15/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. . AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o exame da pretensão recursal, no sentido de se verificar que a planilha apresentada pelo exequente não indica detalhadamente os índices, critérios e valores adotados na evolução da dívida, seria necessária nova análise dos elementos fáticos dos autos, inviável em recurso especial.
+3. O recurso especial que não traz insurgência específica capaz de combater fundamento do acórdão recorrido, suficiente para mantê-lo, não deve ser admitido. Incidência das Súmulas n. 283 e 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 926.467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016)
+A Corte de origem, com amparo no conjunto fático-probatório dos autos, entendeu pela responsabilidade da ora recorrente, em decorrência da parceria existente entre as então requeridas, conforme se extrai de trechos do acórdão abaixo transcritos (fl. 175, e-STJ):
+Quanto à responsabilidade da segunda requerida, Associação Amparo aos Praianos do Guarujá, sua responsabilidade é evidente. Embora negue que tenha qualquer relação com a primeira requerida, os documentos encartados aos autos conduzem a entendimento diverso do apresentado em sua defesa.
+Verifica-se que no recibo de fl. 29 consta o carimbo de recebimento dos valores ali expressos, trazendo ainda a seguinte informação: ".. o valor abaixo relacionado, referente à parcela 01 do curso de MESTRADO EM EDUCAÇÃO, COMUNICAÇÃO E ADMINISTRAÇÃO, realizado em parceria com a Universidade São Marcus."
+Não é só. Observa-se que os recibos de pagamentos emitidos pelo Banco Bradesco (fl. 36) apontam como cedente a segunda requerida.
+Essas provas conduzem para a conclusão de que há entre as requeridas parceria na prestação de serviços educacionais.
+O acórdão impugnado está, portanto, fundamentado no quadro fático singular formado na presente demanda. A revisão do aresto no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre haver pertinência subjetiva passiva a acarretar a responsabilidade solidária, pelos danos provocados, das então requeridas. Essa medida não é possíveis pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+3. Quanto ao apontado excesso no quantum fixado a título de danos morais, verifica-se que a insurgente não apontou especificamente os dispositivos que teriam sido vulnerados pelo aresto estadual.
+No entanto, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. No presente caso, o recorrente não indica o dispositivo legal tido por violado, em relação a condenação por danos morais e necessidade da ação de prestação de contas. Incidência da Súmula 284-STF.
+2. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que houve falha na prestação de serviço, e que o mandatário praticou ato ilícito apto a gerar o dever de indenizar;
+outrossim, concluiu que não é cabível a condenação do autor por danos morais, e que não há falar em litigância de má-fé. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1115460/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+Ainda que assim não fosse, a irresignação, no pertinente ao montante da verba indenizatória, não prosperaria. Isso porque é pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, cumpre ressaltar que não é cabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes: REsp 686050/RJ, 1ª Turma, MIn. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+Na hipótese, o quantum está em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E À IMAGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO RÉU.
+1. Não se revela cognoscível a insurgência, por não ter a recorrente apontado o dispositivo legal supostamente violado. A indicação do artigo tido como objeto da divergência jurisprudencial é imprescindível para a correta configuração do dissídio, nos termos do art. 105, III, "c", da Constituição Federal. Incidência da Súmula n. 284 do STF.
+2. O quantum, a título de danos morais, equivalente a até 50 (cinquenta) salários mínimos, tem sido o parâmetro adotado para a hipótese de ressarcimento de dano moral em diversas situações assemelhadas (e.g.: inscrição ilídima em cadastros; devolução indevida de cheques; protesto incabível). Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 440.552/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/02/2014, DJe 17/02/2014)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA LAVRA DESTE RELATOR QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ. RESPONSABILIDADE CIVIL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. DANO MORAL. REVISÃO DO VALOR DA CONDENAÇÃO. EXCESSIVIDADE NÃO VERIFICADA. RECURSO NÃO PROVIDO.
+1. "Mediante a interpretação sistemática dos artigos 932, inciso IV, e 1.042, § 5º, do CPC/2015, depreende-se não existirem óbices para que o relator julgue conjuntamente, de forma monocrática, o agravo e o recurso especial quando esses sejam contrários a jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. 1.1. Não se pode perder de vista, ainda, que essa orientação não ocasiona prejuízo às partes, porquanto resguardada a possibilidade de interposição do agravo interno objetivando forçar o exame da matéria pelo Colegiado competente". (AgInt no AREsp 767.850/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017) 2. Nos termos da jurisprudência consolidada no Superior Tribunal de Justiça, a revisão de indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade.
+3. O STJ já firmou entendimento de ser razoável a condenação em valor equivalente a até 50 (cinquenta) salários mínimos por indenização por dano moral decorrente de inscrição indevida em órgãos de proteção ao crédito. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1201603/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/03/2018, DJe 10/04/2018)
+Portanto, o Tribunal de origem, ao fixar a indenização por dano moral em 50 (cinquenta salários mínimos), agiu em conformidade com a jurisprudência dessa Corte Superior. Sendo assim, para derruir essas premissas, seria necessário incursionar no contexto fático-probatório do autos, procedimento incompatível com este apelo extremo, ante a incidência da Súmula 7/STJ.
+4. Do exposto, nega-se provimento ao agravo em recurso especial.
+Amparado no art. 85, § 11, do CPC/15, majoro os honorários advocatícios em 1% sobre o valor atualizado da condenação.
+Publique-se.
+Intimem-se.
