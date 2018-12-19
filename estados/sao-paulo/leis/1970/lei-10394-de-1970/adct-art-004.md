@@ -1,0 +1,1 @@
+Artigo 4º - Considerar-se-á como inscrição originária e não como reinscrição a readmissão de segurado excluído antes da vigência desta lei ou por fôrça do disposto no artigo anterior, não se computando para efeito algum o tempo anterior de inscrição.
