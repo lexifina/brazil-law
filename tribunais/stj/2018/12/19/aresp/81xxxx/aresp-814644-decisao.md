@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE TOCANTINS, em que pretende a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 130):
+PROCESSUAL CIVIL - EXECUÇÃO FISCAL ANTERIOR À LC 118/2005 - ULTRAPASSAGEM DO PRAZO QUINQUENAL SEM A CITAÇÃO VÁLIDA DO EXECUTADO - PRESCRIÇÃO. MOROSIDADE PROCESSUAL - AUSÊNCIA DE CULPA EXCLUSIVA DO PODER JUDICIÁRIO - INAPLICABILIDADE DA SÚMULA 106 DO STJ. Não tendo a Fazenda Pública alcançado a citação válida da executada no prazo de cinco anos, desde a exigibilidade do crédito, incide a prescrição sobre a ação executiva fiscal (ajuizada anteriormente à Lei Complementar 118/2005). Tendo a exequente colaborado para a morosidade na tomada dos atos processuais, inaplicável a Súmula 106 do STJ. Reexame necessário conhecido. Sentença mantida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 172/176).
+No apelo nobre (e-STJ fls. 183/188), o recorrente apontou violação do art. 174 do CTN, do art. 219, §§ 1º, 2º e 3º, do CPC/1973 e do art. 8º, § 2º, da LEF. Sustentou, em resumo, que o presente caso não comporta o reconhecimento da prescrição, uma vez que a execução fiscal foi ajuizada dentro do lustro quinquenal e que a demora para a realização da citação se deu por culpa da máquina judiciária, de modo que esse marco interruptivo deve retroagir para a data de ajuizamento da ação, aplicando-se, na espécie, a Súmula 106 do STJ.
+Sem contrarrazões (e-STJ fl. 189).
+O Tribunal de origem obstou o recurso especial com base na Súmula 7 do STJ (e-STJ fls. 191/194), fundamentação com a qual não concordou o agravante (e-STJ fls. 196/206).
+Sem contraminuta (e-STJ fl. 207).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, verifico que o recurso especial não merece mesmo ser admitido.
+É certo que, por ocasião do julgamento REsp 1.120.295/SP, submetido ao rito dos recurso repetitivos, a Primeira Seção firmou a tese de que o art. 219, § 1º, do CPC/1973 também é aplicado às execuções fiscais, de modo que, nos casos em que a demora da citação não pode ser atribuída à exequente, o correspondente marco interruptivo (art. 174, parágrafo único, I, do CTN) retroage à data da propositura da ação.
+Não obstante, a verificação quanto à responsabilidade por eventual paralisação do processo, para fins de aplicação da Súmula 106 do STJ, expressamente afastada pelo acórdão recorrido na espécie (e-STJ fl. 126/127), esbarra no óbice da Súmula 7 do STJ. A propósito, vide: REsp 1.102.431/RJ, Rel. Ministro Luiz Fux, Primeira Seção, DJe 01/02/2010, também julgado pela sistemática do art. 543-C do CPC/1973.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
