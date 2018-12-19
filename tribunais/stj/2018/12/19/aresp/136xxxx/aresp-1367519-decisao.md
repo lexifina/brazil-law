@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME], contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 87):
+AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM DEVOLUÇÃO DE QUANTIA PAGA E INDENIZAÇÃO POR LUCROS CESSANTES - Lucros cessantes relativos à valorização do imóvel que não são devidos A valorização de loteamentos vizinhos por si só, não autoriza a condenação por um dano presumido Mister análise momentânea e de determinada conjuntura social das próprias partes que contrataram Precedentes deste E. Tribunal de Justiça Sentença mantida RECURSO DESPROVIDO.
+Opostos sucessivos embargos de declaração pela recorrente (fls. 164-166, 172-174 e 181-183), foram todos rejeitados (fls. 169-170, 177-179 e 186-188).
+Nas razões do recurso especial (fls. 100-128), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 402 e 403, do Código Civil, pugnando pela condenação da recorrida ao pagamento de lucros cessantes decorrentes da prometida valorização do imóvel, o que motivou a compra do lote de terreno, que não foi entregue.
+Não foram apresentadas contrarrazões ao recurso especial (fl. 191).
+É o relatório.
+DECIDO.
+2. No caso dos autos, o Tribunal de origem entendeu que a nulidade da venda de loteamento não registrado pela recorrida não gera o pagamento de lucros cessantes à recorrente.
+A respeito, constam os seguintes fundamentos no julgado (fls. 89-90):
+Com efeito, a Lei nº. 6.766/79, que dispõe sobre o parcelamento do solo urbano, proíbe a venda ou a promessa de venda de parcela de loteamento não registrado, o que evidencia a nulidade do negócio jurídico entabulado entre as partes, pois ilícito seu objeto (art. 166, I, CC), o que corretamente levou ao acolhimento do pedido de devolução da quantia paga, com acréscimos legais.
+No entanto e apesar da flagrante frustração, inadmissível, na hipótese, indenização por lucros cessantes consistentes na pretensa valorização do imóvel.
+Infere-se dos autos que o loteamento nunca foi implementado, o que, por certo, impediu a efetiva transferência da posse. O fato de os loteamentos vizinhos terem apresentado valorização (fls. 36/37), por si só, não autoriza a condenação por um dano presumido.
+Ademais, valorização do imóvel decorre de análise momentânea e de determinada conjuntura social das próprias partes que contrataram, além de circunstâncias fáticas peculiaríssimas envolvendo não só elementos objetivos como também outros exclusivos do local, muitas vezes sem relação com as iniciativas do loteador ou adquirente. A imprevisibilidade, em que pese as teorias que se seguiram na doutrina e jurisprudência, é inerente a qualquer relação negocial.
+De forma contrária, caso houvesse uma desvalorização do imóvel vendido, certamente não seria possível também à apelada se ressarcir de valores supostamente pagos a maior.
+Além disso, caberia à interessada, tão logo avisada da impossibilidade de cumprimento da infraestrutura, paralisar os pagamentos, depositando em cartório, como permitido pela Lei nº. 6.766/79 ou pleitear o imediato desfazimento do negócio, na forma do artigo 475 do Código Civil.
+A compradora demorou mais de cinco anos para compreender a inviabilidade e não diligenciou no sentido de verificar a viabilidade do contrato. Embora a apelada tenha culpa primordial, as consequências do ilícito contratual são outras que não a penalização com a indenização de lucros cessantes duvidosos.
+De fato, tal entendimento está de acordo com a jurisprudência desta Corte no sentido de que "os lucros cessantes devem corresponder a tudo aquilo que o lesado deixou de lucrar, de forma razoável, em decorrência do dano causado pelo devedor. Todavia, esse dano deve ser efetivo, certo, atual e subsistente. Não pode depender de uma grande carga de probabilidade, de meras presunções, de fatores indiretos e hipotéticos" (REsp 1.438.408/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/10/2014, DJe 19/12/2014).
+3. Além disso, rever o acórdão recorrido, para concluir pelo cabimento dos lucros cessantes ante a frustração do negócio jurídico firmado entre as partes, demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. Por fim, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, quando não demonstrada, como no caso em apreço, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+Nesse sentido:
+RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - VALOR PATRIMONIAL DA AÇÃO - DECISÃO ACOBERTADA PELO MANTO DA COISA JULGADA MATERIAL - DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA.
+I. (..)
+II. Não houve a comprovação da divergência, conforme as exigências contidas nos arts. 541, parágrafo único, do CPC e 255 do RISTJ, em razão da ausência de similitude fática com os paradigmas confrontados. Recurso Especial improvido.
+(REsp 1.131.621/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 14/12/2010, DJe 10/2/2011).
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
