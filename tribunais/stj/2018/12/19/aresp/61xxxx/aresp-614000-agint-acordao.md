@@ -1,0 +1,39 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PROVAS. ÓBICE NA SÚMULA 7/STJ. AGRAVO INTERNO DO MUNICÍPIO DE BELO HORIZONTE/MG A QUE SE NEGA PROVIMENTO.
+1. No caso em apreço, não se constata a presença de qualquer eiva a macular a decisão impugnada, uma vez que, em âmbito judicial, vige o princípio do livre convencimento motivado do Juiz (art. 131 do CPC) e não o sistema de tarifação legal de provas. Assim, se o Magistrado entendeu que a prova documental acostada aos autos pelo recorrido era suficiente para a solução da lide, não havendo necessidade de produção de outros meios de prova, não há que se falar em cerceamento de defesa.
+2. Ademais, no presente caso, apurar a insuficiência das provas para o julgamento da lide, como defende o agravante, impõe o reexame de matéria fático-probatória, o que faz aplicável a Súmula 7/STJ.
+3. Agravo Interno do Município de BELO HORIZONTE/MG a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo MUNICÍPIO DE BELO HORIZONTE/MG contra a decisão que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL POR ESCOLARIDADE. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS LEGAIS. REVISÃO DO ATO DE CONCESSÃO. DECADÊNCIA NÃO CONFIGURADA. MÁ-FÉ DA SERVIDORA. SÚMULA 7/STJ. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. ANÁLISE ACERCA DA APONTADA INSUFICIÊNCIA DE PROVAS QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVOS EM RECURSOS ESPECIAIS A QUE SE NEGA PROVIMENTO (fls. 897).
+2. O agravante sustenta que o julgamento antecipado da lide não possibilitou a devida instrução processual, afetando o contraditório e a ampla defesa.
+3. Desse modo, pugna pela reconsideração da decisão agravada ou julgamento do presente Agravo pelo Órgão Colegiado competente.
+4. É o relatório.
+VOTO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PROVAS. ÓBICE NA SÚMULA 7/STJ. AGRAVO INTERNO DO MUNICÍPIO DE BELO HORIZONTE/MG A QUE SE NEGA PROVIMENTO.
+1. No caso em apreço, não se constata a presença de qualquer eiva a macular a decisão impugnada, uma vez que, em âmbito judicial, vige o princípio do livre convencimento motivado do Juiz (art. 131 do CPC) e não o sistema de tarifação legal de provas. Assim, se o Magistrado entendeu que a prova documental acostada aos autos pelo recorrido era suficiente para a solução da lide, não havendo necessidade de produção de outros meios de prova, não há que se falar em cerceamento de defesa.
+2. Ademais, no presente caso, apurar a insuficiência das provas para o julgamento da lide, como defende o agravante, impõe o reexame de matéria fático-probatória, o que faz aplicável a Súmula 7/STJ.
+3. Agravo Interno do Município de BELO HORIZONTE/MG a que se nega provimento.
+1. A despeito das alegações do agravante, razão não lhe assiste. O decisório impugnado deve ser mantido pelos seus próprios fundamentos.
+2. Conforme destacado anteriormente, no que diz respeito ao alegado cerceamento de defesa decorrente do julgamento antecipado da lide, cabe asseverar que, em âmbito judicial, vige o princípio do livre convencimento motivado do Juiz (art. 131 do CPC) e não o sistema de tarifação legal de provas. Assim, se o Magistrado, analisando as provas dos autos, entender não haver necessidade de produzir prova em audiência para julgamento do feito, não há que se falar em cerceamento de defesa na impugnação do pedido.
+3. No presente caso, as instâncias de origem entenderam que a prova documental acostada aos autos era suficiente para a solução da lide. No acórdão recorrido foi assentado que a requerente comprovou ter concluído curso de especialização ministrado por instituição de ensino reconhecida pelo Ministério da Educação e que leciona o curso desde 1973, cujo corpo docente possui títulos de especialistas, mestres e doutores, com duração mínima de trezentos e sessenta horas, exigência de monografia, pertinência temática com as funções exercidas pelo servidor e compatibilidade de horários entre a freqüência e a jornada diária, tudo conforme atestam os documentos de fls.36/37 e 44v-TJ (fls. 652/653).
+4. Sendo assim, não há que se falar em cerceamento de defesa, uma vez que esta Corte Superior já firmou a orientação de que não ocorre cerceamento de defesa na hipótese de julgamento antecipado da lide, tendo em vista o princípio do livre convencimento motivado do Juiz. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL. AGENTE DE SAÚDE. FUNASA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA AFASTADO. LIVRE CONVENCIMENTO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Assim, não há violação ao art. 130 do CPC quando o juiz analisa as provas testemunhais e documentais e forma seu convencimento em decisão adequadamente fundamentada.
+2. A alteração das conclusões adotadas pela Corte de origem, a respeito do alegado cerceamento de defesa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AgRg no REsp. 1.497.190/CE, Rel. Min. SÉRGIO KUKINA, DJe 21.8.2015).
+
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PAGAMENTO DE FATURAS DE ENERGIA ELÉTRICA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. AUSÊNCIA. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte, cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Portanto, não há violação do art. 130 do CPC quando o juiz, em decisão adequadamente fundamentada, indefere a produção de provas e julga antecipadamente a lide.
+2. Rever as conclusões do Tribunal de origem no tocante à produção de prova implica reexaminar os elementos fático-probatórios dos autos, o que é impossível pela via eleita. Incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 648.403/MS, Rel. Min. OG FERNANDES, DJe 29.5.2015).
+
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AUTOS DE EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO EM RECURSO ESPECIAL PARA NEGAR SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+1. Cabe ao magistrado verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide e indeferir a produção de provas consideradas desnecessárias e inúteis, conforme o princípio do livre convencimento do julgador. Infirmar tais fundamentos demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+(..).
+4. Agravo regimental desprovido (AgRg no AREsp. 341.358/SP, Rel. Min. MARCO BUZZI, DJe 24.11.2015).
+5. Ademais, no presente caso, apurar a insuficiência das provas para o julgamento da lide, como defende o agravante, impõe o reexame de matéria fático-probatória, o que faz aplicável a Súmula 7/STJ.
+6. Diante do exposto, nega-se provimento ao Agravo Interno do MUNICÍPIO DE BELO HORIZONTE/MG. É como voto.
