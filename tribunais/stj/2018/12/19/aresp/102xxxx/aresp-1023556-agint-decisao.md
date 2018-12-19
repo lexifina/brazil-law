@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. INADEQUAÇÃO DOS EMBARGOS DE DECLARAÇÃO PARA IMPUGNAR DESPACHO DE CUNHO DECISÓRIO. NÃO CONFIGURAÇÃO DE JULGAMENTO ULTRA PETITA. MATÉRIA REFERENTE AO CABIMENTO DO RECURSO. MEDIANTE JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL POR OUTROS FUNDAMENTOS.
+DECISÃO
+Trata-se de agravo interno no agravo em recurso especial apresentado por HSBC Bank Brasil S.A. - Banco Múltiplo, com base no art. 105, III, a, da Constituição Federal, desafiando decisão assim ementada (e-STJ, fl. 206):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. 2. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante sustenta a inaplicabilidade da Súmula 7/STJ a este caso, porquanto a alegação de julgamento ultra petita refere-se ao fato de ter o Tribunal estadual considerado erro grosseiro a oposição de embargos de declaração ao despacho inicial que determinou a citação, questão que não enseja reexame de prova.
+Brevemente relatado, decido.
+Em novo exame dos autos, observo que tem razão o recorrente, ao se insurgir contra a inaplicabilidade da Súmula 7/STJ ao presente caso, porquanto a análise em questão não envolve reexame de prova, motivo pelo qual, com apoio no art. 259 do Regimento Interno do Superior Tribunal de Justiça, torno sem efeito a decisão de fls. 206-210 (e-STJ).
+Passo à análise do agravo em recurso especial.
+O acórdão recorrido afastou a alegação de julgamento ultra petita nos seguintes termos:
+Ora, verifica-se pela simples leitura das conclusões recursais do banco réu que o Acórdão não julgou ultra petita, eis que reconheceu a tempestividade dos primeiros aclaratórios, sem julgar o pedido de prosseguimento do feito com a consequente citação do executado, na forma do art. 475, J, do CPC/1973, em razão do erro grosseiro do réu ao interpor embargos de declaração contra despacho inicial citatório de cunho decisório.
+Dessarte, não reconheço a apontada violação do art. 1.022 do Novo Código de Processo Civil, pois não existia omissão a ser suprida, já que o Tribunal de origem se manifestou expressamente sobre a questão.
+Por sua vez, também não estão afrontados os arts. 141 e 492 do CPC/2015, pois o Tribunal de Justiça, ao entender que houve erro grosseiro na interposição de embargos de declaração para atacar decisão de cunho decisório, obviamente, não realizou uma decisão do mérito da ação nem dispôs sobre o pedido postulado na inicial. Portanto, é completamente descabida a assertiva de julgamento ultra petita.
+O julgador, ao receber o recurso, deve analisar o seu cabimento, ou seja, se o pronunciamento é recorrível, ou se o recurso é adequado à decisão contra a qual é interposto. Portanto, nesse mister é que o Tribunal de origem analisou a questão e entendeu a inadequação dos embargos de declaração para atacar o despacho inicial citatório.
+Assim sendo, o Tribunal a quo apreciou o cabimento do recurso, situação completamente diversa do julgamento ultra petita.
+Ademais, não tendo o recurso preenchido os requisitos necessários ao seu conhecimento, inviável se falar em julgamento extra petita por falta de análise do mérito recursal.
+Ante o exposto, mediante juízo de reconsideração, conheço do agravo para negar provimento ao recurso especial por outros fundamentos.
+Publique-se.
