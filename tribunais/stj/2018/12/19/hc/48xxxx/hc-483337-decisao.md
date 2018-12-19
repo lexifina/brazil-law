@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de FLAVIO HENRIQUE RIZZO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 7001876-76.2018.8.26.0344).
+Infere-se dos autos que o Tribunal a quo deu provimento ao recurso do Ministério Público e cassou a decisão da Vara de Execuções Criminais, indeferindo o livramento condicional deferido ao apenado, ora paciente. O julgamento ficou assim resumido:
+AGRAVO EM EXECUÇÃO ALEGAÇÃO DE QUE A R. DECISÃO MONOCRÁTICA DEVE SER REFORMADA, VEZ QUE O AGRAVADO NÃO PREENCHE QUAISQUER DOS REQUISITOS NECESSÁRIOS PARA QUE LHE FOSSE CONCEDIDO O BENEFÍCIO DO LIVRAMENTO CONDICIONAL.
+CASO EM QUE NÃO SE FAZ PRESENTE O PREENCHIMENTO DO REQUISITO DE ORDEM OBJETIVA, JÁ QUE SE TRATA DE REINCIDENTE, QUE NÃO DESCONTOU 2/3 DAS PENAS RELATIVAS AOS DELITOS EQUIPARADOS AOS HEDIONDOS, MAIS 1/2 DO COMUM, A CONTAR DA DATA EM QUE PRATICOU FALTA DISCIPLINAR, O QUE TAMBÉM MACULA O PREENCHIMENTO DO REQUISITO DE ORDEM SUBJETIVA, TUDO A DENOTAR A INVIABILIDADE DA MANUTENÇÃO DO BENEFÍCIO.
+Recurso provido (fl. 13).
+Daí o presente writ, no qual a impetrante alega, em síntese, que o cometimento de falta grave não constitui causa para a alteração da data-base na concessão do livramento condicional, sob pena de violação ao disposto na Súmula n. 441 do Superior Tribunal de Justiça - STJ.
+Indeferido o pedido liminar e dispensadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela concessão da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO DA PENA. EFEITOS DA FALTA GRAVE. POSSIBILIDADE DE ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS, EXCETUANDO-SE O LIVRAMENTO CONDICIONAL, O INDULTO E A COMUTAÇÃO DE PENA. SÚMULA 441/STJ. NÃO CONHECIMENTO DO WRIT. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, PARA RESTABELECER O BENEFÍCIO DO LIVRAMENTO CONDICIONAL (fl. 26).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, busca-se a concessão ao paciente do livramento condicional, negado pela Corte estadual, sob os seguintes fundamentos:
+Dos documentos juntados aos autos observa-se que o agravado foi condenado ao cumprimento de treze anos, seis meses e um dia de reclusão, pela prática de dois delitos, de tráfico de drogas e estelionato, e que ostenta a anotação da prática de falta disciplinar de natureza grave em seu histórico prisional, ocorrida em 06/03/2013.
+E do cálculo constante em sua folha de antecedentes (fl. 33 verso) depreende-se que não descontou 2/3 das penas relativas aos delitos equiparados aos hediondos, mais 1/2 do comum, o que somente se dará em 09/06/2019.
+ ..
+E nos termos do artigo 83, do Código Penal, para a concessão dessa benesse se faz necessária a apreciação dos pressupostos de natureza objetiva e subjetiva, que o condenado deve satisfazer, sob pena de indeferimento de sua pretensão.
+ ..
+E por óbvio tal não se dá no caso concreto, vez que a conduta do agravado afasta a demonstração de comprovação de que se encontra apto a retornar ao convívio social, e que sua periculosidade esteja controlada.
+Em assim sendo, não há como se manter o benefício concedido, já que não preenchidos quaisquer dos requisitos necessários (fls. 15/19).
+Como se extrai dos fragmentos acima transcritos e do exame dos autos, a instância ordinária negou a concessão do livramento condicional com fundamento também no histórico carcerário do apenado, que no curso do cumprimento da pena que lhe foi imposta teve reconhecido o cometimento de falta grave, além de outra, desclassificada para de intensidade média, e contra a qual pende julgamento de recurso ministerial (fls. 14).
+Nos termos do que dispõe o art. 83 do Código Penal - CP, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto) para a obtenção do benefício do livramento condicional.
+Nesse sentido, esta Corte pacificou o entendimento segundo o qual, apesar de a falta grave não interromper o prazo para a obtenção de livramento condicional - Súmula n. 441/STJ -, as infrações disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo.
+Vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHIDO. ANÁLISE QUE NECESSITA DO REVOLVIMENTO DE PROVAS. PRÁTICA DE DUAS FALTAS GRAVES NO CURSO DA EXECUÇÃO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos, procedimento incompatível com os estreitos limites da via eleita.
+2. Por outro lado, conquanto a falta grave não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), sua prática evidencia a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+3. Agravo regimental improvido (AgRg no HC 343.217/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/05/2016).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL.LIVRAMENTO CONDICIONAL. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO.FALTA GRAVE EM APURAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ÓBICE PREVISTO NO ENUNCIADO N.º 282 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.
+ ..
+ARTIGO 83, III, DO CÓDIGO PENAL. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR.
+1. O aresto objurgado alinha-se a entendimento assentado neste Sodalício no sentido de que a aplicação de um critério temporal na análise do requisito subjetivo para o livramento condicional não pode ser limitado a um brevíssimo período de tempo, qual seja, os últimos 6 (seis) meses de cumprimento de pena, devendo-se proceder ao exame do mérito durante todo o curso da execução penal.
+2. Incidência do óbice do Enunciado n.º 83 da Súmula do STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+LIVRAMENTO CONDICIONAL INDEFERIDO. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. SUPOSTA PRÁTICA DE FALTA GRAVE. CONCLUSÃO DO INQUÉRITO DISCIPLINAR QUE NÃO COMPROVOU A AUTORIA DO FATO. NECESSIDADE DE NOVA ANÁLISE PELO MAGISTRADO SINGULAR ACERCA DA POSSIBILIDADE DE CONCESSÃO DA BENESSE, AFASTADO O REFERIDO ÓBICE. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..  (AgRg no AREsp 733.396/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/03/2016).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO AO REGIME ABERTO INDEFERIDOS EM 1º GRAU. MANUTENÇÃO DO DECISUM PELO TRIBUNAL DE ORIGEM. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRÁTICA DE DUAS FALTAS DISCIPLINARES GRAVES, DENTRE ELAS O NÃO RETORNO DE UMA SAÍDA TEMPORÁRIA. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Legítimo é o indeferimento dos pedidos de livramento condicional e progressão ao regime aberto, com base em fundamentos concretos, ante o não preenchimento do requisito subjetivo em virtude, essencialmente, do histórico carcerário conturbado do paciente, que ostenta a prática de duas faltas disciplinares graves, dentre elas o não retorno de uma saída temporária. Precedentes.
+3. Habeas corpus não conhecido (HC 337.301/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 29/02/2016).
+PENAL E PROCESSUAL PENAL. EXECUÇÃO. LIVRAMENTO CONDICIONAL.REQUISITO SUBJETIVO. FALTA GRAVE.
+I - A orientação deste Superior Tribunal de Justiça acerca do inciso III do art. 83 do Código Penal não limita o exame do comportamento do apenado a determinado período da execução.
+II - O juízo competente detém a discricionariedade de verificar o efetivo cumprimento do requisito subjetivo ao decidir acerca da concessão do livramento condicional, com esteio no princípio da razoabilidade (precedentes).
+Agravo regimental desprovido (AgRg no REsp 1547006/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 29/02/2016).
+Assim, resta evidenciada a idoneidade da fundamentação utilizada na origem, inexistindo, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
