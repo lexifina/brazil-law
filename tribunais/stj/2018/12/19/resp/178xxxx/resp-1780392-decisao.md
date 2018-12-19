@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. ADMINISTRATIVO. TRATAMENTO MÉDICO. INTERNAÇÃO HOSPITALAR. DEVER DO ESTADO. ART. 9º, § 1º, VIII, DO RISTJ. MATÉRIA DA COMPETÊNCIA DA PRIMEIRA SEÇÃO. ENVIO DOS AUTOS PARA REDISTRIBUIÇÃO.
+DECISÃO
+Trata-se de recurso especial interposto por Cooperativa de Serviços Médicos e Hospitalares - COOPMEDH contra acórdão prolatado pelo Tribunal de Justiça de Rondônia, assim ementado (e-STJ, fl. 288):
+Apelação. Cobrança. Nulidade de sentença. Chamamento ao processo. Carência de ação por falta de interesse de agir. Inépcia da inicial. Falta de vagas na rede pública. Internação em UTI. Rede particular. Convênio que não abrange decisão judicial. Prova do esgotamento da rede pública. Montante devido.
+1. A solidariedade entre União, Estado e Município permite que a ação de cobrança da prestação de serviço de saúde seja ajuizada contra um dos entes, não se exigindo o chamamento de todos os coobrigados.
+2. Há interesse de agir quando evidenciado conflito de interesses que, por envolver objeto lícito e possível, justifica o direito de obter a prestação da tutela jurisdicional para solucionar o litígio.
+3. Não há falar em inépcia da inicial quando os fatos narrados estão em harmonia com o pedido.
+4. Comprovada a insuficiência de leitos de UTI na rede pública de saúde, impõe-se ao Estado arcar com o custo de internação de paciente em hospital particular.
+5. O ressarcimento de despesa com internação de paciente do SUS em hospital particular deve ser feito nos contornos da tabela do SUS.
+Inteligência do art. 26 da Lei 8.080/90.
+6. Apelo provido parcialmente.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 353-357).
+A recorrente alega, no recurso especial (e-STJ, fls. 359-451), que houve violação dos arts. 100 e 199, § 1º, da Constituição Federal; 1º, 4º, 20, 24 e 26 da Lei n. 8.080/1990; e 461, § 5º, do Código de Processo Civil de 1973.
+Defende, em síntese, a necessidade de ressarcimento das despesas com internação de paciente do SUS em hospital particular.
+Foram apresentadas contrarrazões (e-STJ, fls. 502-508).
+Brevemente relatado, decido.
+A controvérsia do presente recurso consiste em aferir a solidariedade entre União, Estado e Município em relação à ação de cobrança da prestação de serviço de internação de paciente do SUS em rede particular de saúde.
+Verifica-se, dessa forma, que a matéria é de competência da Primeira Seção e de suas respectivas Turmas, conforme o disposto no art. 9º, § 1º, VIII, do Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, em casos semelhantes ao dos autos, as Turmas que compõem a Primeira Seção já se pronunciaram sobre a matéria, como se colhe do seguinte precedente a título exemplificativo:
+ADMINISTRATIVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO E DE TRATAMENTO MÉDICO. MANIFESTA NECESSIDADE. OBRIGAÇÃO SOLIDÁRIA DE TODOS OS ENTES DO PODER PÚBLICO. TRATAMENTO MÉDICO-HOSPITALAR EM REDE PARTICULAR. PEDIDO SUBSIDIÁRIO NA FALTA DE LEITO NA REDE PÚBLICA. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF.
+1. Hipótese em que o Tribunal local consignou: "quanto a internação em hospital da rede privada, verifica-se diante do cumprimento da decisão que antecipou os efeitos da tutela que foi disponibilizada vaga na rede pública de saúde, sendo certo que a pretensão autoral foi atendida" e "que a determinação para internação em rede particular de saúde, caso inexistente vagas na rede pública encontra amparo na jurisprudência desta Corte" (fls. 156-157, e-STJ).
+2. Não se conhece de Recurso Especial em relação à ofensa ao art.
+535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+3. Não se pode conhecer da irresignação contra a ofensa aos mencionados dispositivos legais, uma vez que não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF.
+4. Não podem os direitos sociais ficar condicionados à boa vontade do Administrador, sendo de suma importância que o Judiciário atue como órgão controlador da atividade administrativa. Seria distorção pensar que o princípio da separação dos poderes, originalmente concebido com o escopo de garantia dos direitos fundamentais, pudesse ser utilizado justamente como óbice à realização dos direitos sociais, igualmente relevantes.
+5. O STJ possui jurisprudência firme e consolidada de que a responsabilidade em matéria de saúde, aqui traduzida pela distribuição gratuita de medicamentos em favor de pessoas carentes, é dever do Estado, compreendidos aí todos os entes federativos: "o funcionamento do Sistema Único de Saúde (SUS) é de responsabilidade solidária da União, Estados-membros e Municípios, de modo que qualquer dessas entidades têm legitimidade ad causam para figurar no pólo passivo de demanda que objetiva a garantia do acesso à medicação para pessoas desprovidas de recursos financeiros" (REsp 771.537/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJ 3.10.2005).
+6. Quanto a internação em hospital da rede privada, a fundamentação utilizada pelo Tribunal a quo para formar seu convencimento é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplicando-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+7. Além disso, o STJ possui jurisprudência firme e consolidada no sentido de que, "uma vez reconhecido, pelas instâncias ordinárias, o direito a tratamento médico-hospitalar na rede pública de saúde, o resultado prático da decisão deve ser assegurado, nos termos do artigo 461, § 5º, do CPC, com a possibilidade de internação na rede particular de saúde, subsidiariamente, na hipótese de lhe ser negada a assistência por falta de vagas na rede hospitalar do SUS". (REsp 1.409.527/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 18/10/2013).
+8. É evidente que, para modificar o entendimento firmado no acórdão recorrido, verificando a urgência e necessidade do fornecimento de medicamento e tratamento médico pleiteados nos autos, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+9. Recurso Especial não provido.
+(REsp n. 1.645.847/RJ, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/3/2017, DJe 20/4/2017).
+Ante o exposto, determino o encaminhamento dos autos à Secretaria Judiciária para redistribuição do processo a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
