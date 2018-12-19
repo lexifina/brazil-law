@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COBERTURA DE PLANOS DE SAÚDE. BENEFICIÁRIOS ATIVOS E INATIVOS. DISPARIDADE CONCRETA OCASIONADA PELA RESOLUÇÃO N. 279/2011. EFETIVA COMPROVAÇÃO. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o que se busca é o provimento jurisdicional com base em ilações, conjecturas a respeito de efeitos concretos que sequer podem ocorrer  suposta discrepância e onerosidade excessiva para os beneficiários inativos de planos de saúde  , o que, conforme declarado pelo próprio Tribunal de origem, não foram comprovadas.
+2. Da leitura das razões do acórdão proferido na origem, não ficou comprovada, notadamente, a disparidade de condições entre ativos e inativos, salientando ainda que a Resolução sequer trata das condições ou da extensão das coberturas e, portanto, não as modifica nem extrapola a lei de regência, situação que corrobora, por derradeiro, a incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 684):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. COBERTURA DE PLANOS DE SAÚDE. BENEFICIÁRIOS ATIVOS E INATIVOS. DISPARIDADE CONCRETA OCASIONADA PELA RESOLUÇÃO N. 279/2011. EFETIVA COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta que " ..  Na realidade, o v. aresto recorrido deu interpretação equivocada ao Recurso Especial nº 1.479.420/SP, ao desconsiderar que essa egrégia Corte Superior só permitiu a mudança de todos os empregados de uma empresa (ativos e inativos), integrantes de um mesmo plano pós-pagamento, para um único plano pré-pagamento, porque naquele caso, estando todos num mesmo plano, foi preservada a paridade entre ativos e inativos, principalmente em relação ao valor a ser pago a título de contraprestação, não havendo que se falar em onerosidade excessiva para os "ex-empregados". Facilmente se nota que a questão dos autos é puramente objetiva e não exige o reexame das provas contidas no processo Equivocou-se, com todo respeito, a r. decisão agravada ao aduzir que a discussão travada no recurso especial implicaria o revolvimento do conjunto probatório (Súmula nº 7/STJ). De forma alguma!" (fls. 694/695).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COBERTURA DE PLANOS DE SAÚDE. BENEFICIÁRIOS ATIVOS E INATIVOS. DISPARIDADE CONCRETA OCASIONADA PELA RESOLUÇÃO N. 279/2011. EFETIVA COMPROVAÇÃO. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o que se busca é o provimento jurisdicional com base em ilações, conjecturas a respeito de efeitos concretos que sequer podem ocorrer  suposta discrepância e onerosidade excessiva para os beneficiários inativos de planos de saúde  , o que, conforme declarado pelo próprio Tribunal de origem, não foram comprovadas.
+2. Da leitura das razões do acórdão proferido na origem, não ficou comprovada, notadamente, a disparidade de condições entre ativos e inativos, salientando ainda que a Resolução sequer trata das condições ou da extensão das coberturas e, portanto, não as modifica nem extrapola a lei de regência, situação que corrobora, por derradeiro, a incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, consoante bem delineado na decisão agravada, ainda que a parte recorrente argumente que se trate de pura análise de comandos normativos, a bem da verdade, o que se busca é o provimento jurisdicional com base em ilações, conjecturas a respeito de efeitos concretos que sequer podem ocorrer  suposta discrepância e onerosidade excessiva para os beneficiários inativos de planos de saúde  , o que, conforme declarado pelo próprio Tribunal de origem, não ficaram comprovadas.
+Consoante as razões assentadas pela Corte regional, notadamente o descrito à fl. 611, o recorrente, ora agravante, não comprovou a disparidade de condições entre ativos e inativos, salientando que a Resolução sequer trata das condições ou da extensão das coberturas e, portanto, não as modifica nem extrapola a lei de regência.
+Por fim, o acórdão primevo frisa ainda que há parecer técnico inconclusivo produzido nos autos a respeito do alegado impacto negativo da segregação de demitidos e aposentados em planos específicos, afirmando que " f undamentamos as estimativas e os resultados finais em procedimentos atuariais, geralmente aceitos, em nosso conhecimento do mercado brasileiro e em julgamentos razoáveis. Devido à incerteza associada à natureza de projeções e às conjecturas de hipóteses utilizadas nos cálculos, os resultados reais podem variar em relação às projeções desenvolvidas." (fl. 611), o que corrobora, por derradeiro, a incidência da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
