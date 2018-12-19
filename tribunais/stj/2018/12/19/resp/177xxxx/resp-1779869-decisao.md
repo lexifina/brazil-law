@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por CESAR SANTOS DE CASTRO, com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado:
+"APELAÇÃO PENAL. ROUBO MAJORADO. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA E DA ATENUANTE GENÉRICA INOMINADA. REDUÇÃO DA REPRIMENDA AQUÉM DO MÍNIMO LEGAL. ÓBICE. MATÉRIA SUMULADA PELO STJ. MAJORANTE USO DE ARMA. DECOTE. ARTEFATO NÃO APREENDIDO. PRESCINDIBILIDADE. MANUTENÇÃO DA SENTENÇA. RECURSO IMPROVIDO.
+1. Incabível o pleito de reconhecimento da incidência da circunstância genérica elencada no art. 65, III, "a" e 66 do CP com a conseqüente redução da pena-base aquém do mínimo legal cominado em abstrato, porquanto a legislação penal determina que o quantum da reprimenda, na segunda fase, não poderá ser estabelecida abaixo do mínimo legalmente prescrito ao crime, nem mesmo de forma provisória. Referida determinação resta pacificada através da Súmula n. 231, do colendo Superior Tribunal de Justiça.
+2. O fato de não ter sido apreendida a arma de fogo utilizada pelo recorrente, não impede que seja reconhecida na sentença a incidência da causa de aumento de pena prevista no inciso I, § 2º, do art. 157 do CP.
+3. RECURSO CONHECIDO E IMPROVIDO." (e-STJ, fls. 208-209)
+Nas razões recursais a defesa aponta contrariedade aos artigos 381, III, do Código de Processo Penal c/c artigo 68 e § 2º do artigo 157, ambos do Código Penal, ao argumento de que o Tribunal de origem manteve, na terceira fase da dosimetria, o aumento de 1/2 da pena sem apresentar fundamentação concreta. Aduz que é dever do magistrado fundamentar as razões de seu convencimento, não sendo admissível o critério meramente quantitativo para a exasperação acima do mínimo de 1/3, conforme prescreve a Súmula 443 deste Superior Tribunal.
+Requer o provimento do recurso, a fim de que seja fixado o aumento no menor patamar, ou seja, 1/3.
+Contrarrazões apresentadas (e-STJ, fls. 241-247).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 271-278).
+É o relatório.
+Decido.
+Observe-se que a magistrada sentenciante fundamentou o aumento da pena em 1/2 nos seguintes termos:
+"Não há causas de diminuição, entretanto, o crime está em sua modalidade majorada (emprego de arma e concurso de agentes) razão pela qual majoro a pena em 1/2, passando a pena para 06 (seis) anos de reclusão para cumprimento em regime semi-aberto." (e-STJ, fl. 154)
+O Tribunal de origem manteve o aumento fixado na sentença com a seguinte fundamentação:
+"Nesse passo, não há qualquer correção a ser feita no quantum da reprimenda aplicada pelo juízo a quo, pois respeitados os critérios estabelecidos nos artigos 59 e 68, do Código Penal." (e-STJ, fl. 216)
+Como se observa dos trechos supratranscritos da sentença e do acórdão recorrido, a escolha da fração de 1/2, para o aumento da pena na terceira fase, não está apoiada em elementos fáticos que indiquem a maior reprovabilidade do roubo em apreço, mas somente na incidência das duas majorantes.
+Portanto, de fato, o acórdão impugnado está em confronto com o entendimento firmado na Súmula 443/STJ, segundo o qual "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚM. 182/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO NA DOSIMETRIA DA PENA. CONFISSÃO DO RÉU QUE EMBASOU A CONDENAÇÃO. RECONHECIMENTO. SUM. N. 545/STJ. COMPENSAÇÃO COM A REINCIDÊNCIA. PRESENÇA DE TRÊS MAJORANTES. CRITÉRIO QUANTITATIVO. SÚM. N. 443/STJ. IMPOSSIBILIDADE. REDUÇÃO DA REPRIMENDA QUE SE IMPÕE.
+(..)
+4. De acordo com a Súm. n. 443/STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+5. Agravo regimental desprovido. Concessão de habeas corpus de ofício para, reconhecer a atenuante da confissão espontânea, compensando-a com a agravante da reincidência e alterar para 1/3 o aumento na terceira fase da dosimetria, reduzindo para 5 (cinco) anos e 4 (quatro) meses, em regime fechado, mais 13 (treze) dias-multa, a pena imposta ao agravante, incurso no art. 157, §2º, incs. I, II e V, c/c o art. 29, ambos do Código Penal." (AgRg no REsp 1.360.791/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/09/2016, DJe 05/10/2016);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. DOSIMETRIA. TERCEIRA FASE DO CÁLCULO. FRAÇÃO DE 2/5 APLICADA APENAS COM FUNDAMENTO NO NÚMERO DE MAJORANTES. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 443/STJ. FIXAÇÃO DO REGIME PRISIONAL MENOS GRAVOSO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula 443/STJ).
+2. Na espécie, a Corte de origem aplicou a fração de 2/5, superior à mínima prevista para o tipo penal em exame, com base apenas no número de majorantes, o que não encontra guarida na jurisprudência desta Corte, segundo a qual o aumento da reprimenda acima da fração mínima deve estar ancorado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta, como por exemplo, emprego de várias armas de fogo, armas de grosso calibre, dentre outros.
+(..)
+4. Agravo regimental a que se nega provimento." (AgRg no HC 361.208/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/09/2016, DJe 03/10/2016).
+Desta feita, de rigor o provimento do recurso, a fim de que a pena do recorrente seja redimensionada, porém a partir a da terceira fase, partindo da pena intermediária de 4 anos de reclusão estabelecida na origem.
+Na terceira fase, reformando o acórdão recorrido, majoro a pena em 1/3, em face das causas de aumento relativas ao emprego de arma e ao concurso de pessoas e fixo a reprimenda em 5 anos e 4 meses de reclusão.
+Por fim, mantém-se o regime semiaberto, nos termos do artigo 33, § 2º, "b", do Código Penal.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para utilizar, na terceira fase da dosimetria, a fração de 1/3 de aumento em razão das majorantes, fixando a pena definitiva em 5 anos e 4 meses de reclusão, mantendo-se, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
