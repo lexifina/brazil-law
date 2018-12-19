@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GENERAL SHOPPING BRASIL ADMINISTRACAO E SERVICOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Apelação Cível - Indenização - Dano material - Falha na prestação de serviço - Responsabilidade objetiva configurada - Inocorrência de causa excludente de ilicitude - Verossimilhança das alegações do autor - Prova das lesões suportadas e da existência de irregularidades no piso da rampa de acesso - Dano moral - Prejuízos imateriais que se apresentam "in re ipsa" - Suficiente a prova dos transtornos causados ao autor em decorrência da falha do serviço - Valor da condenação que se mostrou adequada para atender ao binômio reparação-reprimenda, não se afigurando excessiva Recurso da ré improvido.
+Apelação Cível - Denunciação da lide - Apólice apresentada pela ré que não estava vigente à data do sinistro noticiado - Ausência de demonstração da incidência de cobertura securitária - Denunciação improcedente - Recurso da denunciada provido.
+Sucumbência recursal - Majoração da verba honorária arbitrada em favor do patrono do autor - Observância do artigo 85, §§ 2º e 11, do NCPC - Denunciação da lide - Fixação de honorários advocatícios em favor do patrono da denunciada (art. 85, § 2º, do NCPC).
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 944 do CC.
+Alega, em síntese, que os danos morais foram fixados de forma excessiva (R$ 8.000,00 - oito mil reais), pugnando pela sua redução. Defende ter havido afronta aos princípios da razoabilidade e proporcionalidade.
+É o relatório. DECIDO.
+2. Quanto ao valor fixado a título de danos morais, é pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, cumpre ressaltar que não é cabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes: REsp 686050/RJ, 1ª Turma, MIn. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+No presente caso, entendo que a quantia fixada pelo Tribunal de origem, qual seja, R$ 8.000,00 (oito mil reais), de modo algum, revela-se desviada da proporcionalidade ou razoabilidade. Assim, não há falar em redução do quantum indenizatório.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE DE PESSOAS. OFENSA AOS ARTS. 535 E 557 DO CPC. NÃO OCORRÊNCIA. QUEDA DE PASSAGEIRA EM ÔNIBUS APÓS FREADA BRUSCA DO VEÍCULO. LESÕES NA COLUNA E NAS COSTELAS. RESPONSABILIDADE COMPROVADA NA ORIGEM. CULPA CONCORRENTE OU DE TERCEIRO AFASTADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. RAZOABILIDADE. RECURSO DESPROVIDO.
+ .. .
+5. O valor da indenização por danos morais, arbitrado em R$ 20.000, 00 (vinte mil reais), não é exorbitante nem desproporcional, considerados os danos sofridos pela recorrida, que, conforme mencionado pelas instâncias ordinárias, sofreu fraturas em duas costelas e em três vértebras, além de ter sido submetida a tratamento cirúrgico para drenagem do tórax, decorrentes do agir do preposto da ré, ficando incapacitada para a atividade laboral de faxineira.
+6. Agravo interno improvido.
+(AgInt no AREsp 908.814/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2016, DJe 26/08/2016)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
