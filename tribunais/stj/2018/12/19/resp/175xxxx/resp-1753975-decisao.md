@@ -1,0 +1,34 @@
+DECISÃO
+
+Trata-se de recurso especial interposto pela FUNDAÇÃO AMAZONPREV, com respaldo na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 139)
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL - GRATIFICAÇÃO DE CURSO - REESCALONAMENTO - PREENCHIMENTO DOS REQUISITOS LEGAIS - DIREITO LÍQUIDO E CERTO:
+- Havendo reescalonamento dos padrões de gratificação de curso, deve ser reconhecido o enquadramento da servidora inativa àquele padrão que corresponde à especialização que ela possui.
+- Não se trata de nova gratificação, mas de reconhecimento de necessidade de adequação da gratificação já percebida em proventos de aposentadoria à nova realidade legal.
+RECURSO CONHECIDO E PROVIDO.
+Embargos declaratórios rejeitados (e-STJ fl. 177).
+No especial, a parte recorrente apontou violação dos arts. 489, § 1º, VI, e 1.022, I e II, do CPC/2015, sustentando a negativa de prestação jurisdicional pela Corte de origem, a qual não teria examinado o argumento da inexistência de direito adquirido a regime jurídico, o que impossibilitaria que a recorrida percebesse gratificação em patamar superior àqueles vigentes no momento da sua aposentadoria.
+Contrarrazões às fls. 248/264.
+O Ministério Público Federal apresentou parecer opinando pelo não provimento do recurso (e-STJ fls. 281/286)
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Em relação à alegada ofensa dos dispositivos invocados, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se observa violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Nesse contexto, mostra-se pertinente a transcrição do excerto do julgado exarado pelo Tribunal a quo, em que a questão foi expressamente resolvida. Confira-se (e-STJ fls. 141/143):
+Cinge-se a controvérsia quanto ao direito à atualização da classificação da vantagem pessoal já percebida pela outrora autora ante à criação de novel categoria da gratificação de curso, que aumentou para 25% (vinte e cinco por cento) este direito àqueles que possuam especialização com carga horária superior a 360 (trezentas e sessenta) horas.
+A meu sentir, não se trata em definir se a gratificação possui ou não natureza pessoal, já que não existe controvérsia quanto a isso nos autos, posto que tal direito, inclusive, já foi reconhecido à recorrente quando da sua aposentação.
+No caso presente, é fato incontroverso que a apelante preenche o requisito específico exigido na lei, por ser, efetivamente, portadora do título de especialista em direito penal e processual penal - com carga horária de 390 (trezentas e noventa horas) - concluído em 1994, ao tempo em que estava em atividade no exercício de função policial.
+Também é válido o destaque que não se trata de gratificação nova, já que a Lei n. 3.721/2012 alterou o caput do art. 201 da Lei n. 2.271/1994, acrescentando-lhes os incisos V, VI e VII, de modo a contemplar com a chamada gratificação de curso, não apenas os detentores de diploma de especialização, mas, também, os portadores de diplomas de mestrado e doutorado.
+O que se debate aqui é se a apelante possui direito a receber sua gratificação de acordo com a novel estrutura criada por lei, já que tem curso de especialização com 390 (trezentas e noventa) horas.
+A meu sentir a resposta há de ser positiva.
+Quando de sua aposentação, a lei que regulamentava a matéria previa como percentual máximo o montante de 15% (quinze por cento) para os que possuíssem especialização com mais de 180 (cento e oitenta) horas. A atualização legislativa, criando um novo patamar de gratificação, com uma exigência maior de carga horária para o curso de especialização, fez surgir para a recorrente o direito ao enquadramento em tal categoria, já que o direito à percepção da gratificação já tinha sido reconhecido quando de sua aposentação.
+E é trilhando esse entendimento que se manifestou o Ministério Público, a seguir:
+"Em análise aos dispositivos, nota-se que, após o advento da Lei nº 3721/2012, não houve supressão de vantagens anteriormente concedidas, mas inclusão de outras novas, como o caso da prevista no inciso V, objeto da presente discussão, que versa sobre Curso de Especialização, com carga horária de 360h, em Instituição Superior, autorizada e reconhecida pelo MEC.
+Verifica-se, ainda, que a hipótese do inciso V, trouxe um enquadramento específico aos cursos de especialização, o que não se constata na do inciso III, dessa forma, em virtude da norma ser mais específica, em conflito de normas, deve ser observado o critério da especialidade ao se realizar o enquadramento.
+Ademais, a extensão desse benefício a outros casos de aperfeiçoamento profissional não está inserido no contexto de mudança de regime jurídico anterior, entendido como a prescrição delimitada juridicamente, que dispõe sobre o direito, a forma de acesso e suas condições. Não seria a condição de aposentado que impediria o impetrante de auferir o benefício para o qual detém todos os requisitos".
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
