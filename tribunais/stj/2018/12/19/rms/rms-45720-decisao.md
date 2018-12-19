@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por [NOME] contra acórdão do Tribunal Regional Federal 4ª Região, assim ementado:
+"PROCESSO PENAL. APREENSÃO DE VALORES EM ESPÉCIE. MEDIDA CAUTELAR DE SEQUESTRO DE BENS. DECRETO-LEI N. 3240/41. CRIMES PRATICADOS EM DETRIMENTO DO ERÁRIO. CONSTRIÇÃO DE PATRIMÔNIO LÍCITO. ESTIMATIVA. CRITÉRIO DE PROPORCIONALIDADE. BUSCA E APREENSÃO DE COMPUTADORES. RESTITUIÇÃO APÓS ESPELHAMENTO.
+1. Havendo indícios de prática de delitos contra a administração pública, não se verifica ilegalidade na determinação de busca e apreensão de valores em espécie em patamar superior a dez mil reais, em moeda nacional ou equivalente em estrangeira. Os valores em espécie apreendidos na residência do impetrante devem permanecer indisponíveis, porque não alcançados pelo comando judicial que determinou o afastamento parcial da constrição patrimonial de sequestro de bens.
+2. A medida de busca e apreensão visa a resguardar, principalmente, o material probatório imprescindível à apuração de fatos criminosos. Em se tratando de apreensão de equipamentos de informática, é de rigor sua restituição após realização de espelhamento dos discos rígidos." (e-STJ, fl. 175).
+Narra o recorrente o que segue:
+"(..) A partir das investigações promovidas no âmbito da denominada "Operação Paralelo 31-S", a autoridade policial federal formulou o Pedido Judicial de Busca e Apreensão Criminal que tramita perante a 1ª Vara Federal da Subseção Judiciária de Bagé/RS sob o nº 5001458- 74.2013.404.7109.
+Em sua representação (cópia anexa ao Evento 01 da movimentação processual de origem) a autoridade policial requereu a expedição de mandados de busca e apreensão "nos endereços das pessoas físicas e jurídicas sobre as quais recaem os maiores indícios de envolvimento com os fatos, sendo que os alvos de mandados de busca podem estar na posse de elementos ainda mais reveladores do modus operandi do grupo empresarial investigado" (grifo nosso).
+Ao arrolar os endereços nos quais pretendia realizar a busca e apreensão, a autoridade policial indicou o recorrente como um dos alvos da medida, alegando ser o recorrente funcionário da Associação dos Usuários do Perímetro de Irrigação do Arroio Duro - AUD, empresa responsável pela assessoria técnica de uma das obras objeto de investigação na referida operação.
+Cabe registrar que a Associação dos Usuários do Perímetro de Irrigação do Arroio Duro - AUD, empregadora do recorrente, é uma entidade civil sem fins lucrativos, que sequer é alvo da investigação em tela, tampouco é ré da ação civil pública desencadeada por tal operação (processo nº 5002927-58.2013.404.7109) e que tem como única relação com as obras investigadas um termo de cooperação técnica.
+Quer dizer, o recorrente nem mesmo possui relação direta com os fatos objeto de investigação na referida operação policial, sendo apenas funcionário de uma associação sem fins lucrativos que presta assessoria técnica ao Município de Arambaré/RS, local onde uma das obra em tela é realizada.
+Contudo, a autoridade policial requereu a expedição de mandado de busca e apreensão contra o recorrente (..)
+Como a decisão que indeferiu o pedido de restituição de bens configura ato ilegal e abusivo praticado pelo recorrido, pois, além de ser carente de fundamentação, representa medida absolutamente excessiva e desnecessária para o presente caso, foi impetrado o Mandado de Segurança nº 5028264-36.2013.404.0000
+(..)
+Quanto à restituição dos valores em espécie que foram apreendidos (R$ 19.000,00), a decisão ora recorrido foi denegatória.
+O recorrido parece confundir os institutos jurídicos do sequestro de bens e da busca e apreensão, o que evidencia a ilegalidade da decisão que indeferiu a restituição dos bens ao recorrente.
+Aliás, tanto a autoridade coatora, ora recorrido, quanto o próprio e. TRF da 4ª Região parece cometer este mesmo equívoco.
+Ocorre que o processo de origem não se trata de expediente de sequestro de bens. O recorrente não teve nenhum bem seu sequestrado judicialmente.
+Na petição inicial do Mandado de Segurança em tela o recorrente demonstra que o recorrido confundiu os institutos jurídicos do sequestro de bens e da busca e apreensão.
+(..)
+não se pode agora indeferir pedido de restituição de bens buscados e apreendidos com base em fundamentos que seriam válidos para ordem de sequestro de bens, pois sequestro e busca e apreensão, como é sabido e como foi demonstrado na inicial do presente Mandado de Segurança, são institutos jurídicos completamente distintos.
+Em consequência de não haver nenhuma ordem de sequestro de bens deferida contra o recorrente, não se pode falar em permanência da retenção dos valores em espécie do impetrante para "eventual ressarcimento futuro".
+Isto porque não é este o objetivo da ordem de busca e apreensão, a qual, conforme se interpreta do disposto no art. 118 do Código de Processo Penal, só pode ser mantida enquanto interessar à investigação.
+E é óbvio que a retenção de valores em espécie em nada contribuiu para a investigação, sendo totalmente desnecessária e ilegal tal retenção.
+Assim, deve ser reformada a r. decisão ora recorrida, sob pena de violação ao art. 118 do CPP.
+(..)" (e-STJ, fls. 307-319).
+Requer o provimento do recurso para "imediata restituição ao recorrente de todos os bens de sua propriedade que foram apreendidos no cumprimento do mandado de busca e apreensão expedido nos autos nº 5001458-74.2013.404.7109, inclusive dos valores em espécie" (e-STJ, fl. 319).
+O Ministério Público Federal opinou pelo parcial provimento do recurso (e-STJ, fls. 376-380).
+É o relatório.
+Decido.
+No caso dos autos, o ora recorrente impetrou mandado de segurança com o propósito de modificar decisão do Juízo Federal, buscando a restituição dos bens de sua propriedade que foram apreendidos no cumprimento do mandado de busca e apreensão expedido nos autos do Pedido Judicial de Busca e Apreensão Criminal que tramita perante a 1ª Vara Federal da Subseção Judiciária de Bagé/RS sob o nº 5001458-74.2013.404.7109" (e-STJ, fl. 309).
+Pois bem, dispõe a Súmula 267/STJ: "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Consigne-se, no ponto, que, nos termos da jurisprudência do Superior Tribunal de Justiça, "conforme previsto no art. 5º, II, da Lei n. 12.016/2009, "Não se concederá mandado de segurança quando se tratar  ..  de decisão judicial da qual caiba recurso com efeito suspensivo", Esse é o teor da Súmula n. 267 do Supremo Tribunal Federal, segundo a qual "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (AgRg no RMS 55.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 21/11/2017).
+De outra banda, em que pese não se desconhecer a diferença entre "sequestro" e "busca e apreensão de bens", "O sequestro, medida assecuratória constante do art. 125 e seguintes do CPP, visa a constrição de bens adquiridos com o produto do crime, enquanto a apreensão (art. 240 do CPP) visa, dentre outras finalidades, a constrição de produto do crime (producta sceleris)."(AgRg no AREsp 1082970/GO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 08/10/2018), a decisão que as determina desafia recurso próprio.
+Nesse sentido, destaco os seguintes julgados:
+"AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. SEQUESTRO DE BENS. DECISÃO QUE DESAFIA RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. SÚMULA N. 267/STF. DIREITO LÍQUIDO E CERTO. NÃO COMPROVAÇÃO. AUSÊNCIA DE ILEGALIDADE E ABUSO DE PODER. IMPOSSIBILIDADE DE CONFIGURAÇÃO DO CRIME DE LAVAGEM DE DINHEIRO NA HIPÓTESE QUE ELENCA. SUPRESSÃO DE INSTÂNCIA. RECURSO A QUE SE NEGOU PROVIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Como é sabido, o mandado de segurança somente terá cabimento para a proteção de direito líquido e certo, compreendendo-se tal expressão, em sentido processual, como "direito comprovável documentalmente, sem necessidade de instrução dilatória." (GRINOVER, Ada Pelegrini, 7ª ed. pág. 310).
+II - Nos termos da Lei n. 12.016/09, art. 5º, II, "Não se concederá mandado de segurança:  ..  II - de decisão judicial da qual caiba recurso com efeito suspensivo.", III - Igualmente, segundo o enunciado n. 267, da Súmula do STF "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+IV - O writ poderá ser impetrado contra ato jurisdicional, excepcionalmente, quando ficar configurada manifesta ilegalidade ou abuso de poder, apta a ofender direito líquido e certo.
+V - No caso, não ficou devidamente comprovada, sem necessidade de qualquer dilação probatória, a origem lícita dos bens sequestrados.
+Ao revés, o eg. Tribunal de origem manteve a decisão que decretou o sequestro, sob o fundamento de que estão presentes indícios veementes da proveniência ilícita deles, considerando a suposta prática dos crimes de sonegação fiscal, lavagem ou ocultação de valores e organização criminosa, nos exatos termos dos arts. 125 a 127 do CPP, que disciplinam a matéria. VI - Não há que se falar em inversão do ônus da prova no caso concreto, porquanto o art. 126 do CPP, para a decretação do sequestro, tão somente a existência de indícios veementes da proveniência ilícita dos bens.
+VII - A suposta impossibilidade de configuração do crime de lavagem de dinheiro na hipótese que elenca é matéria que não foi apreciada pelo eg. Tribunal de origem, o que obsta a sua análise por esta Corte, sob pena de supressão de instância.
+Agravo regimental desprovido" (AgRg no RMS 54.559/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 11/04/2018, grifou-se).
+"CRIMINAL. RMS. PEDIDO DE RECONSIDERAÇÃO DE DECISÃO QUE DETERMINOU BUSCA E APREENSÃO NEGADO. RECURSO PRÓPRIO PARA A IMPUGNAÇÃO DA DECISÃO DENEGATÓRIA. NÃO CABIMENTO DO MANDAMUS. SÚMULA 267/STF. RECURSO DESPROVIDO.
+I. É incabível o mandado de segurança, se o ato atacado é passível de recurso próprio. Precedentes.
+II. Incidência da Súmula 267 do STF.
+III. Recurso desprovido." (RMS 36.273/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJe 28/02/2012, grifou-se).
+Não se verifica, ademais, hipótese de teratologia ou abuso de poder no conteúdo da sentença atacada.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Transcorrido o prazo recursal, certifique-se o trânsito em julgado desta decisão e baixem-se os autos à origem.
