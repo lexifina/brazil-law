@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça da respectiva unidade federativa (n. 1.0433.15.001836-7/001) assim ementado (e-STJ, fl. 280):
+APELAÇÃO CRIMINAL. LESÃO CORPORAL. NEGATIVA DE OFERECIMENTO DA SUSPENSÃO CONDICIONAL DO PROCESSO PELO ORGÃO MINISTERIAL. REQUISITOS LEGAIS PREENCHIDOS. DIREITO SUBJETIVO DO ACUSADO. MÁCULA INSANÁVEL. DECLARAÇÃO DE NULIDADE PROCESSO DESDE O RECEBIMENTO DA DENÚNCIA. PRESCRIÇÃO. OCORRÊNCIA. IMPOSSIBILIDADE DE REFORMATIO IN PEJUS INDIRETA.
+1. Tratando-se de crime cuja pena mínima cominada é inferior a um ano, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado por outro crime e estejam presentes os demais requisitos de ordem subjetiva que autorizariam a suspensão condicional da pena. Inteligência do artigo 89 da Lei 9.099195.
+2. Restando preenchidos todos os requisitos legais para fins de oferecimento dos benefícios da Lei 9.099195, deve o titular da ação penal oferecer as benesses cabíveis, por se tratar de direito subjetivo do acusado.
+3. A não observância do disposto no artigo 89 da Lei 9.099195, nos casos em que couber, representa ofensa à ampla defesa e ao devido processo penal, configurando-se, portanto, nulidade absoluta. 4. Em se tratando de nulidade absoluta deve a mesma ser declarada a qualquer tempo, inclusive, de oficio, independentemente de demonstração de prejuizo. S. Anulado o processo e suprimido um dos marcos interruptivos da prescrição, sendo vedada a reformatio in pejus indireta, é de se declarar a extinção da punibilidade do agente, ante ao decurso excessivo de tempo ao exercício do jus puniendi.
+V.V. Depois de prolatada a sentença penal condenatória, descabe anular-se, de oficio ou a pedido recursal, o processo sob a alegação de que o "Parquet" não ofereceu o benefício do artigo 89 da Lei dos Juizados Especiais. Precedentes do Superior Tribunal de Justiça.
+Opostos aclaratórios (e-STJ, fls. 299-305), foram rejeitados (e-STJ, fls. 306-312).
+Nas razões do apelo nobre (e-STJ, fls. 315-332), o insurgente aponta violação aos arts. 571, I, do CPP; e 89 da Lei n. 9.099/1995.
+Em síntese, alega que a ausência de oferecimento de suspensão condicional do processo é nulidade relativa que deve ser alegada na primeira oportunidade em que a defesa tiver para se manifestar.
+Sustenta que a defesa jamais arguiu a referida nulidade, sendo essa reconhecida, de ofício, pelo Tribunal de origem.
+Defende que, uma vez afastada a nulidade, deve ser também afastada a prescrição da pretensão punitiva.
+Requer a reforma do acórdão recorrido.
+Contrarrazões às fls. 334-335 (e-STJ).
+Após juízo de admissibilidade (e-STJ, fls. 345-348), os autos ascenderam a esta Corte Superior.
+A Subprocuradora-Geral da República, [NOME], opinou pelo não provimento do inconformismo (e-STJ, fls. 360-367).
+É o relatório.
+A irresignação merece prosperar.
+Na origem, JOÉLCIO DA SILVA SANTOS foi condenado à pena de 05 (cinco) meses de detenção pela prática do delito previsto no art. 129, § 9º, do CP.
+O Tribunal de Justiça de Minas Gerais, de ofício, considerou absoluta a nulidade consistente no não oferecimento de suspensão condicional do processo. Nesse passo, a Corte de origem anulou o recebimento da denúncia e, por conseguinte, reconheceu a prescrição da pretensão punitiva, nos termos do arts. 107, IV, 109, caput, VI, 110, § 1º, todos do Código Penal.
+Daí o recurso especial interposto pelo Parquet estadual.
+Com efeito, "conforme precedentes, a ausência de oferecimento da suspensão condicional do processo é causa de nulidade relativa, sujeita ao instituto da preclusão" (AgRg no REsp 1686511/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/09/2018, DJe 03/10/2018).
+A propósito:
+CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO DE ENERGIA ELÉTRICA. SUSPENSÃO CONDICIONAL DO PROCESSO. BENEFÍCIO PLEITEADO APENAS EM PRELIMINAR DE APELAÇÃO. NULIDADE SANADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+02. Conforme tem decidido esta Corte, "a aplicação do art. 89 da Lei nº 9.099/95 pressupõe a inexistência de condenação penal, ainda que recorrível, pois com a sentença condenatória fica comprometido o fim próprio para o qual o sursis processual foi cometido, qual seja o de evitar a imposição de pena privativa de liberdade" (REsp n. 618.519/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJe 16/08/2004; HC n. 87.182/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, Dje 24/11/2008; HC n. 150.229/DF, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 24/05/2010; HC n. 208.051/DF, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/03/2014). Portanto, eventual nulidade do processo em razão do não oferecimento da suspensão condicional do processo, porque relativa, deveria ter sido suscitada em alegações finais (CPP, art. 571, inc. II). Tendo sido arguida apenas em preliminar de recurso de apelação, a nulidade considera-se sanada. (CPP, art. 572, inc. I).
+03. Habeas corpus não conhecido.(HC 235.817/SP, Rel. Ministro NEWTON TRISOTTO (DESEMBARGADOR CONVOCADO DO TJ/SC), QUINTA TURMA, julgado em 12/02/2015, DJe 25/02/2015 - sem grifo no original)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE OFERECIMENTO DE PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. PRECLUSÃO. NULIDADE RELATIVA. RECURSO DESPROVIDO.
+1. Nos moldes do consignado no acórdão ora recorrido, a ausência de oferta da suspensão condicional do processo pelo querelante não foi impugnada durante o curso do processo-crime, não sendo razoável admitir que a sentença condenatória venha a ser anulada por tal fundamento, por se tratar de nulidade relativa, a qual deveria ter sido alegada pela defesa na primeira oportunidade em que se manifestou nos autos. Precedentes.
+2. Recurso desprovido. (RHC 92.258/PA, de minha relatoria, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018 - sem grifo no original)
+Desta feita, a nulidade apontada pela Corte de origem se encontrava preclusa, razão pela qual ela e os efeitos de seu reconhecimento devem ser afastados.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a nulidade apontada e os efeitos de seu reconhecimento e, por conseguinte, determinar que o Tribunal de origem prossiga no julgamento da apelação como bem entender de direito.
+Publique-se. Intimem-se.
