@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. ART. 1015 DO CPC/2015. AGRAVO DE INSTRUMENTO. NATUREZA DO ROL. INTERPRETAÇÃO EXTENSIVA. MATÉRIA JULGADA SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS EM 5/12/2018. TEMA Nº 988. INTELIGÊNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. UNIFORMIDADE NA INTERPRETAÇÃO E NA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM BAIXA DEFINITIVA.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e OUTROS, com base no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 91):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE [NOME]. RECURSO QUE NÃO SE ENQUADRA EM UMA DAS HIPÓTESES AGRAVÁVEIS DO ART. 1015, CPC/15. RECURSO A QUE SE NEGA SEGUIMENTO. DECISÃO MANTIDA. O novo Código de Processo Civil alterou a regra de processamento do recurso de agravo de instrumento de modo que o cabimento desta via recursal será admitida apenas contra as decisões interlocutórias expressamente arroladas pelo legislador (art. 1.015).
+Os embargos de declaração foram rejeitados. (e-STJ, fl. 471)
+Nas razões do recurso especial, o recorrente aponta violação aos seguintes ao art. 1.015 do CPC/2015, sustentando o cabimento do recurso de agravo de instrumento para atacar decisão que declinou da competência para juízo federal, uma vez que o rol do mencionado dispositivo legal não é taxativo.
+Contrarrazões apresentadas. (e-STJ, fls. 511/547)
+Decisão de admissibilidade. (e-STJ fls. 560/561).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso especial deve ser devolvido ao Tribunal de origem.
+Com efeito, a matéria objeto do presente recurso especial foi julgada em 5/12/2018 pela Corte Especial sob a sistemática dos recursos repetitivos (Tema 988 - REsp 1.696.396/MT e no REsp nº 1.704.520/MT).
+Assim, publicado o acórdão paradigma, o Presidente ou Vice-Presidente do Tribunal de origem, em juízo de conformação, deverá negar seguimento ao recurso especial se o acórdão recorrido estiver de acordo com a tese firmada no repetitivo, nos termos do art. 1040, I, do CPC/2015.
+Por outro lado, se o acórdão recorrido divergir da tese firmada no repetitivo, o Presidente ou Vice-Presidente do Tribunal de origem deverá devolver os autos ao órgão julgador para que seja realizado o juízo de adequação, por meio da retratação do julgado, aplicando-se o entendimento do acórdão paradigma, conforme determina o art. 1040, II, do CPC/2015.
+Tem-se, assim, que de acordo com o CPC/2015, cabe ao Tribunal de origem aplicar a sistemática dos recursos repetitivos, sendo que o exaurimento da jurisdição ordinária somente se dá com o juízo de retratação do órgão julgador, ou então com a manutenção do acórdão recorrido, caso não haja retratação do julgado.
+A obediência a referidas regras é essencial para atingir os principais objetivos da sistemática dos recursos especiais repetitivos, quais sejam, assegurar a uniformidade na interpretação e na aplicação da legislação federal por todos os Tribunais e Juízos das instâncias ordinárias, evitando que a mesma matéria seja novamente apreciada por esta Corte Superior e, por conseguinte, reduzindo a quantidade de recursos especiais enviados a este Tribunal da Cidadania.
+Ante o exposto, com fulcro no art. 1.030, II, do CPC/2015, determino a devolução dos autos ao Tribunal de origem para que uma vez firmada a tese e publicado o acórdão paradigma (Tese 988), sejam adotadas as providências previstas no art. 1040 do CPC/2015.
+Publique-se. Intimem-se.
