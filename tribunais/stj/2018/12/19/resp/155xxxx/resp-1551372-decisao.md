@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. COBRANÇA DE VALORES RETROATIVOS. PRESCRIÇÃO. TRÂNSITO EM JULGADO DA DECISÃO QUE DECRETOU A NULIDADE DA SINDICÂNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR. PRESCRIÇÃO. VALORES PENDENTES DE PAGAMENTO. COMPROVAÇÃO.
+1. Rejeitada a alegação de prescrição, visto que o termo inicial do prazo a ser considerado é o trânsito em julgado da decisão que decretou a nulidade da sindicância; e não o atendimento administrativo ocorrido anteriormente a esse momento.
+2. Comprovada, nos autos, a existência de valores pendentes de pagamento pela Administração Pública (fls. 252).
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos para fins de prequestionamento.
+3. Nas razões do Recurso Especial, alega a parte recorrente ofensa aos arts. 535, II, e 219 do CPC/1973; 1o., 3o. e 9o. do Decreto 20.910/1932; e 189 do CC, argumentando, em síntese, que não houve a interrupção do prazo prescricional pelo ajuizamento de ação com o objetivo de anular a sindicância, uma vez que nos presentes autos a parte autora busca a cobrança de valores retroativos.
+4. É o relatório do essencial.
+5. Na hipótese dos autos, o Tribunal de origem consignou o seguinte:
+Inicialmente, rejeito a prejudicial de prescrição, porquanto o termo inicial do prazo há de ser considerado o trânsito em julgado da decisão que decreto a nulidade da sindicância, e não o atendimento administrativo ocorrido anteriormente a esse momento. Tanto é assim que, no despacho 1644/2010 - DELP/CRH/DGP, em anexo à inicial (Evento 1 - SENT5), constou que o pagamento de valores retroativos de matéria sub judice se sujeita, no caso de trânsito em julgado de decisão favorável ao servidor, ao procedimento sui generis dos precatórios, por força do disposto no art. 100 da Constituição Federal de 1988 (sem grifos no original) (fls. 247).
+6. Inicialmente, em relação à suposta contrariedade ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Quanto ao mérito, a atenta leitura das razões do Apelo Nobre revela que o fundamento, suficiente à manutenção do acórdão objurgado, segundo o qual no despacho 1644/2010 - DELP/CRH/DGP, em anexo à inicial (Evento 1 - SENT5), constou que o pagamento de valores retroativos de matéria sub judice se sujeita, no caso de trânsito em julgado de decisão favorável ao servidor, ao procedimento sui generis dos precatórios, não foi alvo de impugnação nas razões de Recurso Especial, motivo pelo qual incide, no ponto, o disposto na Súmula 283 do STF.
+8. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pela UNIÃO.
+9. Publique-se.
+10. Intimações necessárias.
