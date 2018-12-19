@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ASTREINTES. VALOR. IMPUGNAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. VALOR DA MULTA QUE NÃO GUARDA NECESSARIAMENTE RELAÇÃO COM O VALOR DA CAUSA. PRECEDENTES. SÚMULAS NºS 7 E 83 DO STJ. RECURSO QUE NÃO IMPUGNA TODOS OS ARGUMENTOS DA DECISÃO AGRAVADA. ARGUMENTAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+ELTON LUIZ DA CRUZ (ELTON) ajuizou agravo de instrumento contra decisão que acolheu em parte impugnação ao cumprimento de sentença promovido por BANCO FINASA S.A. (BANCO) e reduziu o valor da multa cominatória por descumprimento da decisão que determinou a baixa do gravame de alienação fiduciária sobre o bem objeto da contenda.
+O Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento ao recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. ACORDO HOMOLOGADO JUDICIALMENTE. DETERMINAÇÃO DE BAIXA DO GRAVAME SOB PENA DE MULTA DIÁRIA. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DAS ASTREINTES. PARCIAL PROCEDÊNCIA DA IMPUGNAÇÃO OFERTADA PELA INSTITUIÇÃO FINANCEIRA. REDUÇÃO DA MULTA. DESCABIMENTO. DECISÃO REFORMADA.
+No caso concreto, o recorrente foi intimado pessoalmente para cumprir a ordem judicial de retirada do gravame de alienação fiduciária, no prazo de dez dias, sob pena de multa diária, haja vista o acordo homologado judicialmente entre as partes. Todavia, não atendeu ao comando judicial. Diante disso, não prospera a alegação de desproporcionalidade do montante exequendo, que somente atingiu tal valor face à conduta desidiosa da Instituição Financeira, que não cumpriu a determinação judicial sem qualquer razoabilidade e/ou justificativa plausível, de modo a potencializar o valor da multa ao longo do período de descumprimento da ordem judicial.
+AGRAVO DE INSTRUMENTO PROVIDO. (e-STJ, fls. 127).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 158/164).
+Inconformado, BANCO interpôs recurso especial com base na alínea a do inciso III do art. 105 da Constituição, por violação dos arts. 537, § 1º, do CPC/2015; e 884 do CC/2002. Aduziu, em síntese, que o valor da multa cominatória não foi proporcional e implica enriquecimento ilícito da parte adversa (e-STJ, fls. 170/184).
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo inadmitiu o apelo nobre por estar o acórdão recorrido está em sintonia com precedentes do Superior Tribunal de Justiça no sentido de que, o reexame da decisão que aplica astreintes depende do revolvimento do acervo fático-probatório, providência vedada pela Súmula nº 7 do STJ, aplicando-se, também, a Súmula nº 83 do STJ (e-STJ, fls. 229).
+Dessa decisão, foi interposto o presente agravo em recurso especial, em que se buscou infirmar a aplicação da Súmula nº 7 do STJ (e-STJ, fls. 203/211).
+Não houve contraminuta (e-STJ, fls. 229).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, a parte agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo. Não é cabível a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que BANCO não logrou êxito em ilidir a aplicação da Súmula nº 83 do STJ.
+Com efeito, esta Corte Superior entende que não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão diverge da jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a interpretação do direito mediante indicação de precedentes específicos do Superior Tribunal de Justiça, que devem ser contemporâneos ou supervenientes aos referidos na decisão agravada. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INCIDENTE DE FALSIDADE. RECURSO CABÍVEL. APELAÇÃO. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo regimental a que se nega provimento
+(AgRg no AREsp nº 856.954/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/4/2016, sem destaques no original)
+No caso, a parte limitou-se a fazer referência a alguns julgados, sem demonstrar a similitude das circunstâncias de fato ou de direito em relação ao presente caso, e cuja data é anterior ao precedente colacionado na decisão ora agravada
+Ademais, o BANCO não logrou êxito em contraditar o entendimento de que o valor da multa não guarda relação necessária com o valor da causa, conforme demonstrado em um dos precedentes citados pelo Juízo a quo.
+Nessas condições, com fundamento no art. 932, III, do CPC/2015 c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do agravo em recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados na origem em desfavor de BANCO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do CPC/2015, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
