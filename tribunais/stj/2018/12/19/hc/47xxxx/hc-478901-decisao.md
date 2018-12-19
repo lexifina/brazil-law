@@ -1,0 +1,32 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. POSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEAN RIBAS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n.º 003675-95.2010.8.26.0300.
+Consta dos autos que o Paciente foi condenado por infração aos arts. 33, caput, e 35, caput, c.c. art. 40, inciso VI, da Lei nº 11.343/06, bem como incurso nos arts. 33, caput, e 35, caput, c.c. art. 40, inciso VI, da mesma Lei, os dois últimos na forma do art. 71 do Código Penal e todos em concurso material, à pena total de 15 (quinze) anos e 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 2.113 (dois mil cento e treze) dias multa, no piso legal.
+Narra a inicial acusatória que o Paciente guardava e mantinha em depósito, no interior de sua residência, 3 tijolos de maconha (5.335.59g), 03 tabletes e 1 porção da mesma droga, somando 103,61g, e 2 porções de cocaína (0,52g). Outrossim, forneceu drogas para dois adolescentes entregarem a terceiros, quais sejam, 11 porções de maconha e 8 de cocaína, para o primeiro, e 10 porções de cocaína, para o segundo.
+A Corte a quo, no dia 28/05/2018, deu parcial provimento ao apelo do Paciente para absolvê-lo de dois delitos de tráfico, com fulcro no art. 386, inciso VII, do Código de Processo Penal, e reduzir sua sanção para 9 (nove) anos e 10 (dez) meses de reclusão e 1.516 (mil quinhentos e dezesseis) dias-multa, mantido o regime inicial fechado.
+O Impetrante sustenta, em suma, que diante da "impossibilidade de alguém ter que cumprir pena senão depois de a decisão condenatória ter transitada em julgado, não poderia nossa Corte Constitucional tomar a decisão que tomou no julgamento do HC 126.292/SP" (fl. 5). Afirma, assim, que é ilegal prisão do Paciente para início da execução provisória da pena.
+Requer, em liminar e no mérito, a concessão da ordem para que o Paciente possa recorrer em liberdade.
+Indeferi o pedido liminar às fls. 65-68.
+As informações requisitadas foram acostadas às fls. 72-75 e 78-92.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writ, em parecer de fl. 94.
+É o relatório.
+Decido.
+Noticia o Tribunal a quo os embargos de declaração, opostos pela Defesa, foram rejeitados pela Turma Julgadora, à unanimidade, aos 02 de agosto de 2018, tendo o aresto transitado em julgado.
+Não há informações sobre a expedição de mandado de prisão em desfavor do Paciente, tampouco noticiou a Corte paulista o trânsito em julgado da condenação.
+Contudo, ainda que a decisão de segunda instância - em recurso exclusivo da Defesa -, tenha determinado a expedição de mandado de prisão após vencidos os recursos ordinários, está em conformidade com a jurisprudência atualmente dominante.
+O Supremo Tribunal Federal, no julgamento do ARE n.º 964.246 RG/SP, julgado sob o regime de repercussão geral, reafirmou a jurisprudência dominante sobre a matéria no sentido de que "a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE 964.246 RG, Relator Ministro TEORI ZAVASCKI, DJe de 25/11/2016).
+Não é outro o entendimento do Superior Tribunal de Justiça, conforme se extrai dos seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE APÓS O ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. ALEGAÇÃO DE DEFICIÊNCIA NA FUNDAMENTAÇÃO DA DECISÃO AGRAVADA. INOCORRÊNCIA. AUSÊNCIA DE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do HC 126.292/SP, por maioria de votos, firmou o entendimento de que é possível a execução provisória de acórdão penal condenatório, ainda que sujeito a recursos de natureza extraordinária, não havendo que se falar em ofensa ao princípio da presunção de inocência, compreensão que foi recentemente confirmada pelo aludido colegiado ao apreciar as ADCs 43 e 44.
+2. Em atenção ao que decidido pelo Pretório Excelso, este Sodalício passou a admitir a execução provisória da pena, ainda que determinada em recurso exclusivo da defesa, afastando as alegações de reformatio in pejus e de necessidade de comprovação da presença dos requisitos previstos no artigo 312 do Código de Processo Penal, uma vez que a prisão decorrente da decisão que confirma a condenação encontra-se na competência do juízo revisional, não dependendo da insurgência da acusação. Precedentes.
+3. Na espécie, à luz do que decidido pela Corte Suprema, não há qualquer ilegalidade na execução provisória da pena após o esgotamento da instância ordinária, já que os recursos especial e extraordinário não são dotados de efeito suspensivo.
+ ..
+5. Agravo a que se nega provimento." (AgRg no HC 438.209/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/08/2018, DJe de 30/08/2018, sem grifos no original.)
+"PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE DE ARMA DE FOGO DE USO RESTRITO. SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE. ACÓRDÃO QUE CONFIRMA A SENTENÇA. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. O Supremo Tribunal Federal, no julgamento do HC n. 126.292/SP, das ADCs n. 43 e 44, e, posteriormente, do ARE n. 964.246, sob a sistemática da repercussão geral, firmou o entendimento de que é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+3. No caso, interposto recurso especial pela defesa contra o acórdão que confirmou a condenação do réu, é possível a execução imediata da pena, porquanto ocorreu o exaurimento da instância ordinária.
+4. Agravo regimental não provido." (RDC no HC 392.054/RJ, Rel. Min. ROGERIO SHIETTI CRUZ, SEXTA TURMA, DJe de 13/11/2017, sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
