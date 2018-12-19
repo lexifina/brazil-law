@@ -1,0 +1,42 @@
+DECISÃO
+
+Trata-se de recurso especial interposto por MARIANA FERREIRA DA SILVA FRANCHESCHI, com fundamento no art. 105, III, alínea "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. REPORTAGEM INVESTIGATIVA. ALEGAÇÃO DE DISTORÇÕES E OMISSÕES POR OCASIÃO DA EDIÇÃO FINAL DA MATÉRIA. USO DE "CÂMERA OCULTA". ALEGAÇÃO DE UTILIZAÇÃO INDEVIDA OU NÃO AUTORIZADA DA IMAGEM. PRINCÍPIO DA PROPORCIONALIDADE. DEVER DE INDENIZAR NÃO CARACTERIZADO. SENTENÇA MANTIDA.
+1. A demandada não tem o dever legal de manter em guarda, por tempo indefinido, o inteiro teor da gravação efetuada por meio da "câmera oculta". Aplicação analógica do disposto no artigo 71, §2º, da Lei 4.117/62. Precedentes.
+2. A ré não incidiu em ilícito, tampouco em excesso, pois se limitou a exibir na reportagem televisiva práticas irregulares ou incorretas por parte da autora, dentro da temática da reportagem veiculada, qual seja, excessos ou distorções praticados no âmbito da denominada medicina ortomolecular.
+3. Utilização de câmera oculta. Colisão entre direito fundamentais. Princípio da proporcionalidade. Ausência de ilícito, no caso. APELO DESPROVIDO. UNÂNIME." (e-STJ, fls. 658)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 682/691).
+Instado a se manifestar a douta Subprocuradoria-geral da República opinou pelo não provimento do agravo, nos termos cuja ementa segue a seguir:
+- Agravo contra decisão que negou seguimento a recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+ - Decisão agravada devidamente fundamentada.
+- Óbice das Súmulas nºs. 7, do STJ, e 283, do STF.
+- Parecer pelo não provimento do agravo." (e-STJ, fl. 842)
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 333, 334 e 535, inciso I do Código de Processo Civil de 1973, sustentando, em síntese, (a) que a questão relacionada a lesão da parte agravante, sofrida em decorrência de informações inverídicas, não foi enfrentada pelo Tribunal de origem, (b) que a decisão foi contraditória quanto a lesão, pois ficou incontroversa a imperícia da parte recorrida, bem como que a conduta da parte agravante não faz parte da lide, mas sim o ato ilícito praticado pela parte recorrida e (c) que foi indeferido o direito da parte recorrente de usar a prova, pois o material bruto de gravação foi destruído.
+Foram apresentadas contrarrazões às fls. 728/741.
+É o relatório. Passo a decidir.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não se verifica a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide, especialmente no tocante a comprovação do dano sofrido e sobre a inexistência do ato ilícito, in verbis:
+"4. Logo, a ré não incidiu em ilícito, tampouco em excesso, po se limitou a exibir práticas irregulares ou incorretas por parte da autora, dentro da temática da reportagem - excessos ou distorções praticados no âmbito da denominada medicina ortomolecular.
+(..)
+5. Por conta disso, tampouco há que se cogitar de abuso de direito na utilização de "câmera oculta". (e-STJ, fls. 665/667)
+(..)
+Especificamente no tocante ao mencionado prazo previsto na Lei 4.117/62, observo que, na melhor das hipóteses, o ofício foi entregue à ré em 24.06.2010, data em que produzido o documento de fl. 452, isto é, mais de 60 (sessenta) dias após a exibição da reportagem (21.03.2010).
+Além disso, a ré, em resposta àquele ofício (fl. 337), não confirmou a existência da gravação, limitando-se a direcionar o pedido a empresa responsável pelo arquivamento do material. Como se não bastasse, o inteiro teor da gravação é prova mesmo impertinente, na medida em que a autora a quem incumbe comprovar a lisura de seu agir profissional, não apenas forte no art. 333, I, do Código de Processo Civil, mas também forte na teoria do ônus dinâmico da prova - não comprovou que a reportagem excedeu do direito de informação. "(e-STJ, fls. 686/687)
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Ademais, no tocante a suposta violação aos arts. 333 e 334 do CPC/73, o Tribunal de origem afirmou não haver violação do direito probatória da parte recorrente pois a parte recorrida não possui obrigação legal em manter o inteiro teor da gravação disponível após o prazo estabelecido na Lei 4.117/62, bem como que o inteiro teor da gravação é prova impertinente, pois não restou comprovado o excesso do direito de informação eventualmente praticado pela parte recorrida, in verbis:
+"A reportagem foi veiculada em 21.03.2010 no programa "Fantástico", sendo que o inteiro teor consta do CD acostado à fl. 384 dos autos.
+2. Antes de tudo, é necessário fixar que a ré não tem o dever legal de manter em guarda o inteiro teor da gravação efetuada por meio da "câmera oculta".
+Segundo o art. 71, §2º, da Lei 4.117/62, alterado pela Lei 16.07.1997 (Código Brasileiro de Telecomunicações), aqui utilizado analogicamente, "as emissoras deverão conservar em seus arquivos os textos dos programas, inclusive noticiosos devidamente autenticados pelos responsáveis, durante 60 (sessenta) dias". (e-STJ, fl. 662)
+(..)
+"Especificamente no tocante ao mencionado prazo previsto na Lei 4.117/62, observo que, na melhor das hipóteses, o ofício foi entregue à ré em 24.06.2010, data em que produzido o documento de fl. 452, isto é, mais de 60 (sessenta) dias após a exibição da reportagem (21.03.2010). Além disso, a ré, em resposta àquele ofício (fl. 337), não confirmou a existência da gravação, limitando-se a direcionar o pedido a empresa responsável pelo arquivamento do material. Como se não bastasse, o inteiro teor da gravação é prova mesmo impertinente, na medida em que a autora a quem incumbe comprovar a lisura de seu agir profissional, não apenas forte no art. 333, I, do Código de Processo Civil, mas também forte na teoria do ônus dinâmico da prova - não comprovou que a reportagem excedeu do direito de informação." (e-STJ, fls. 686/687)
+Estes fundamentos (inexistência do dever legal de guarda e impertinência do inteiro teor da gravação) não foram objeto de impugnação pela recorrente e são suficientes, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia das Súmula 283 e 284 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
