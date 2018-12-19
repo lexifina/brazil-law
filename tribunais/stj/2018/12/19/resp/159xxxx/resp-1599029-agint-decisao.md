@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. EXECUÇÃO EXTRAJUDICIAL. LEILÃO DO IMÓVEL. NECESSIDADE DE REALIZAÇÃO DE PRÉVIA AVALIAÇÃO. BOA-FÉ DO TERCEIRO ADQUIRENTE. NÃO APRECIAÇÃO DA APELAÇÃO PELO TRIBUNAL A QUO. MATÉRIA DE FATO. IMPOSSIBILIDADE DE APRECIAÇÃO DIRETA PELO STJ. AGRAVO CONHECIDO, PARA EM JUÍZO DE RETRATAÇÃO, DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA JULGAMENTO DA APELAÇÃO DO AGRAVANTE.
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME] contra decisão monocrática, desta relatoria, assim ementada (e-STJ, fl. 752):
+RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. EXECUÇÃO EXTRAJUDICIAL. LEILÃO DO IMÓVEL. NECESSIDADE DE REALIZAÇÃO DE PRÉVIA AVALIAÇÃO. RECURSO ESPECIAL PROVIDO.
+Nas razões de seu recurso, o ora agravante sustenta que a decisão monocrática deixou de tomar em consideração a situação do terceiro adquirente de boa-fé, que adquiriu o bem em praça pública, cumpriu sua obrigação e se encontra na posse do imóvel. Sustenta que a propositura da ação anulatória, somente após a imissão do adquirente na posse do imóvel, afronta a boa-fé objetiva ao surpreender o terceiro de boa-fé. Por fim, sustenta que o reconhecimento de nulidade no procedimento de avaliação prévia do imóvel não pode fundamentar a restituição do status quo contra o adquirente de boa-fé.
+Pleiteia assim a reconsideração da decisão ou o provimento do presente agravo pelo colegiado da Terceira Turma.
+Em impugnação ofertada, a agravada expressamente contradita a boa-fé do agravado, a qual não teria sido em nenhum momento reconhecida pelo Tribunal de origem, que sobre ela não se manifestou.
+Relatado o processo, decido.
+Assiste, parcialmente, razão ao ora agravante.
+Com efeito, o Tribunal de origem, ao apreciar a questão da regularidade do preço utilizado como parâmetro para o praceamento do imóvel, dispensando a realização de prévia avaliação, contrariou o entendimento desta Corte Superior, não podendo subsistir.
+Por outro lado, contudo, também não se afigura possível o restabelecimento direto da sentença proferida em primeiro grau. Isso porque contra a sentença houve a interposição de recurso pelo ora agravante e pela Caixa Econômica Federal, e cada apelação declinou teses autonômas e independentes entre si, as quais devolviam, inclusive, matéria fática à apreciação daquela Corte estadual. Contudo, ao afastar a alegação de nulidade do leilão por ausência de avaliação prévia, tese que foi defendida pela Caixa Econômica e que era suficiente para decidir a lide integralmente, o Tribunal a quo deixou de emitir juízo acerca da tese do ora agravante.
+Por outro lado, a decisão monocrática embargada também não tomou em consideração essa situação peculiar, deixando de analisar o recurso em conjunto com as contrarrazões ao recurso especial apresentadas pelo agravante, as quais deduziam a necessidade de enfrentamento da questão também sob o enfoque do terceiro de boa-fé.
+Nessa ordem de ideias, afastado o fundamento exclusivo do acórdão e versando a lide entre o agravante e a agravada sobre questão de fato, é imprescindível o retorno dos autos ao Tribunal de origem para que aprecie a apelação do ora agravante.
+Com esses fundamentos, em juízo de retratação, apenas para determinar o retorno dos autos à origem para que seja apreciada a apelação do agravante pendente de julgamento.
+Publique-se.
