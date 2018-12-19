@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. INEXISTENTE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A presente impetração fora ajuizada contra decisão que indeferiu pleito de liminar. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento do writ. O referido enunciado sumular somente pode ser superado em hipóteses de flagrante constrangimento ilegal, o que não se verifica nos presentes autos.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão de minha lavra, que indeferiu liminarmente o habeas corpus (fls. 65/67), em razão da aplicação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+No presente regimental, aponta o agravante inexistirem fundamentos idôneos para a manutenção do seu decreto prisional preventivo, sendo a postergação da liminar requerida em segundo grau para o colegiado uma supressão do seu escopo, diante da ilegalidade patente.
+Requer seja provido o agravo para que seja concedida ordem para a concessão de sua liberdade, mediante alvará de soltura, cumulando, se for o caso, com outras medidas cautelares do art. 319 do Código de Processo Penal - CPP.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+A decisão deve ser mantida por seus próprios fundamentos.
+Conforme consignado, verifica-se que a presente impetração fora ajuizada contra decisão que indeferiu pleito de liminar. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento do writ.
+Por outro lado, é de se ressaltar que o referido enunciado sumular somente pode ser superado em hipóteses de flagrante constrangimento ilegal, o que não se verifica nos presentes autos.
+No caso concreto, o pleito revela matéria afeta ao pedido de liminar confunde-se intimamente com o mérito da pretensão, razão pela qual faz-se necessária a obtenção das informações pela autoridade apontada como coatora e análise colegiada.
+A liminar, em sede de habeas corpus, de competência originária de Tribunal, como qualquer outra medida cautelar, deve restringir-se à garantia da eficácia da decisão final a ser proferida pelo órgão competente para o julgamento, quando se fizerem presentes, simultaneamente, a plausibilidade jurídica do pedido e o risco de lesão grave ou de difícil reparação.  ..  (AgRg no AgRg no HC 51180/SP, Rei. Min. Paulo Medina, Sexta Turma, DJU 12/3/2007).
+Desse modo, fundamentada a decisão do relator, não se vislumbra hipótese de superação do Enunciado n. 691 da Súmula do Supremo Tribunal Federal. A propósito, confiram-se alguns precedentes:
+AGRAVO REGIMENTAL. HABEAS CORPUS. 1. INDEFERIMENTO LIMINAR. ENUNCIADO N. 691 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE EVIDENTE ILEGALIDADE. REVOGAÇÃO DE PRISÃO PREVENTIVA. ROUBO MAJORADO. TEMA COMPLEXO. NECESSIDADE DE PRÉVIO EXAME DAS INSTÂNCIAS ORDINÁRIAS. 2. AGRAVO REGIMENTAL IMPROVIDO. 1. De acordo com a jurisprudência deste Tribunal Superior, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de supressão de instância. Incidência do enunciado n. 691 da Súmula do Supremo Tribunal Federal. 2. Agravo regimental a que se nega provimento (AgRg no HC n. 294.364/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 18/6/2014).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO WRIT. SÚMULA 182/STJ. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR. SÚMULA 691/STF. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. 1. Mantidos os fundamentos da decisão agravada porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n.º 182 desta Corte). 2. A admissibilidade de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete ao óbice do enunciado n.º 691 da Súmula do Supremo Tribunal Federal, somente afastado no caso de situações excepcionais de flagrante ilegalidade, inocorrente na espécie. 3. Pedido de reconsideração recebido como agravo regimental e improvido (PET no HC n. 294.721/PR, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 24/6/2014).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
