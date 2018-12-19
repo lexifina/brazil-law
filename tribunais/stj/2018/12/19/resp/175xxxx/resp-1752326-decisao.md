@@ -1,0 +1,30 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ART. 7º DA LEI Nº 8.429/92. INDISPONIBILIDADE DE BENS. INCLUSÃO DO VALOR DE POSSÍVEL MULTA. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com amparo no art. 105, inciso III, alínea "c", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ fl. 474):
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. PRESENÇA DO FUMUS BONI IURIS. PERICULUM IN MORA PRESUMIDO. MULTA CIVIL. IMPOSSIBILIDADE. INDIVIDUALIZAÇÃO DO DANO ATRIBUÍDO A CADA RÉU. PARCIAL PROVIMENTO.
+1. Nas ações de improbidade administrativa, o pedido cautelar de indisponibilidade de bens tem o objetivo de assegurar a reparação de eventual dano aos cofres públicos, no caso de futura condenação.
+2. A relevância da fundamentação, em princípio, decorre da presença de fortes indícios da prática de atos de improbidade administrativa que causem enriquecimento ilícito ou dano ao erário. O risco de dano irreparável, presumido em face dos atos praticados, prescinde da prova de dilapidação do patrimônio pelos agentes, sendo implícito no próprio comando do art. 7º da Lei 8.429/1992, em atendimento à determinação do art. 37, § 4º, da Constituição. Precedentes do STJ e da 4ª Turma.
+3. A medida de indisponibilidade de bens não pode ser excessiva, devendo limitar-se aos bens necessários ao ressarcimento integral do dano e deve ser individualizada de acordo com a conduta atribuída a cada réu e a suposta lesão causada ao erário por cada um. Não é razoável (ressalvadas as hipóteses excepcionais) bloquear as contas bancárias da parte, inclusive os ativos financeiros, que constituem recursos destinados a fazer frente às despesas da sua subsistência.
+4. Pretender-se a constrição para garantir o pagamento de eventual multa civil a ser aplicada com base na Lei de Improbidade Administrativa é medida que desgarra da autorização constitucional, que só permite a indisponibilidade como meio de garantia de recomposição do erário, para o que não concorre a multa, que traduz uma penalidade, e cuja aplicação, sendo o caso, dependerá de muitas variáveis.
+5. Agravo de instrumento parcialmente provido.
+No apelo especial (e-STJ fls. 483-489), o parquet alega violação dos arts. 7º e 12 da Lei n. 8.429/92, além de divergência jurisprudencial. Defende, em síntese, a inclusão do valor de possível multa a ser aplicada na decretação de indisponibilidade de bens.
+Com Contrarrazões.
+Decisão de admissibilidade às fls. 510-512.
+Parecer do MPF às fls. 530-535, pelo provimento do Recurso Especial.
+É o relatório. Passo a decidir.
+Conforme relatado cinge-se a controvérsia sobre a possibilidade inclusão do valor de possível multa na decretação de indisponibilidade de bens em ação de improbidade administrativa.
+Com efeito, a jurisprudência desta Corte é assente no sentido de que a decretação de indisponibilidade de bens nas ações de improbidade administrativa deve incidir sobre quantos bens se façam necessários ao integral ressarcimento do dano, levando-se em conta, ainda, o potencial valor de multa civil.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. EXEGESE DO ART. 7º DA LEI N. 8.429/92. DECRETAÇÃO DE INDISPONIBILIDADE OU BLOQUEIO DE BENS PELO JUÍZO. POSSIBILIDADE. PRESENÇA DE FORTES INDÍCIOS DE RESPONSABILIDADE PELA PRÁTICA DE ATO ÍMPROBO QUE CAUSE LESÃO AO PATRIMÔNIO PÚBLICO OU IMPORTE EM ENRIQUECIMENTO ILÍCITO. NECESSIDADE. COMPROVAÇÃO DE DILAPIDAÇÃO DE PATRIMÔNIO OU SUA IMINÊNCIA. NÃO OBRIGATORIEDADE. CARÁTER ASSECURATÓRIO. INDISPONIBILIDADE DE BENS QUE RECAI SOBRE O PATRIMÔNIO DOS AGENTES, AINDA QUE ADQUIRIDOS ANTERIORMENTE À PRÁTICA DO SUPOSTO ATO. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PROVIDO.
+ ..
+II - Ademais, dado seu caráter assecuratório, a indisponibilidade de bens deve recair sobre o patrimônio dos agentes, ainda que adquiridos anteriormente à prática do suposto ato de improbidade, de modo suficiente a garantir o integral ressarcimento de eventual prejuízo ao Erário, levando-se em consideração, ainda, o valor de possível multa civil aplicada como sanção autônoma.
+ ..
+IV - Agravo Regimental improvido (AgRg no REsp 1383196 / AM, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 10/11/2015, grifo nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ART. 7º DA LEI Nº 8.429/92. INDISPONIBILIDADE DE BENS QUE ABRANGE INCLUSIVE AQUELES ADQUIRIDOS ANTES DA PRÁTICA DO SUPOSTO ATO DE IMPROBIDADE, ASSIM COMO O POTENCIAL VALOR DA MULTA CIVIL APLICÁVEL À ESPÉCIE. DESNECESSIDADE DE COMPROVAÇÃO DE DILAPIDAÇÃO IMINENTE OU EFETIVA DO PATRIMÔNIO DO DEMANDADO. PERICULUM IN MORA IMPLÍCITO NO COMANDO LEGAL. DECISÃO AGRAVADA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS.
+I - O Superior Tribunal de Justiça, ao interpretar o art. 7º da Lei nº 8.429/92, tem decidido que, por ser medida de caráter assecuratório, a decretação de indisponibilidade de bens, ainda que adquiridos anteriormente à prática do suposto ato de improbidade, deve incidir sobre quantos bens se façam necessários ao integral ressarcimento do dano, levando-se em conta, ainda, o potencial valor de multa civil. Precedentes.
+ ..
+3 - Agravo regimental a que se nega provimento (AgRg no REsp 1260737 / RJ, Rel. Min. Sergio Kukina, Primeira Turma, DJe 25/11/2014, grifo nosso).
+Dessa forma, o acórdão recorrido decidiu em confronto com a jurisprudência desta Corte ao entender pela impossibilidade de inclusão do valor de possível multa na decretação de indisponibilidade de bens na ação de improbidade administrativa.
+Ante o exposto, dou provimento ao recurso especial para declarar a possibilidade de inclusão do valor de possível multa na decretação de indisponibilidade de bens, e determino o retorno dos autos a origem para que se exerça juízo a respeito do cabimento e extensão de possível multa.
+Publique-se. Intimem-se.
