@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. MARCO INICIAL. DATA-BASE EM QUE EFETIVAMENTE FOI DEFERIDO O BENEFÍCIO. ILEGALIDADE. NECESSIDADE DE RETIFICAÇÃO DO CÁLCULO PARA CONSIDERAR A DATA EM QUE O APENADO PREENCHEU OS REQUISITOS LEGAIS.
+Ordem liminarmente concedida, nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - beneficiado com progressão de regime prisional -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao agravo em execução ali interposto pela defesa (Agravo de Execução Penal n. 0007134-73.2018.8.26.0026), mantendo a decisão do Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal de Bauru/SP, que homologou o cálculo de penas do paciente, considerando como data-base para nova progressão a data em que o apenado foi efetivamente beneficiado com a progressão para o regime semiaberto (Execução Penal n. 0009084-36.2016.8.26.0496).
+Alega a impetrante, em síntese, que o cálculo afronta recente decisão da Segunda Turma do Supremo Tribunal Federal, através da qual, por unanimidade, os Ministros entenderam que a data base para a progressão ao regime aberto deve ser a data em que o sentenciado preencheu o lapso temporal para a progressão ao regime semiaberto, independentemente da data da decisão judicial que deferiu o benefício, tendo em vista seu caráter declaratório (fl. 3).
+Postula, ao final, a concessão liminar da ordem para cassar o acórdão hostilizado, determinando-se a realização de novo cálculo, nos termos apresentados.
+É o relatório.
+A concessão de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano.
+Com efeito, a Sexta Turma desta Corte Superior de Justiça passou a corroborar o entendimento manifestado pelo Supremo Tribunal Federal, no sentido de fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das Execuções deferiu o benefício, haja vista tal decisão ter caráter meramente declaratório, não constitutivo.
+A propósito:
+HABEAS CORPUS. EXECUÇÃO PENAL. SUBSEQUENTE PROGRESSÃO DE REGIME. MARCO INICIAL. DATA EM QUE O REEDUCANDO PREENCHEU OS REQUISITOS DO ART. 112 DA LEP. ALTERAÇÃO DO ENTENDIMENTO DA SEXTA TURMA. ADEQUAÇÃO À JURISPRUDÊNCIA DO STF E DA QUINTA TURMA. ORDEM CONCEDIDA DE OFÍCIO.
+1. Revisão da jurisprudência da Sexta Turma desta Corte Superior, para alinhar-se ao posicionamento do Supremo Tribunal Federal e da Quinta Turma de modo a fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das Execuções deferiu o benefício.
+2. Consoante o recente entendimento do Supremo Tribunal, a decisão do Juízo das Execuções, que defere a progressão de regime - reconhecendo o preenchimento dos requisitos objetivo e subjetivo da lei (art. 112 da LEP) - é declaratória, e não constitutiva. Embora se espere celeridade da análise do pedido, é cediço que a providência jurisdicional, por vezes - como na espécie - demora meses para ser implementada.
+3. Não se pode desconsiderar, em prejuízo do reeducando, o período em que permaneceu cumprindo pena enquanto o Judiciário analisava seu requerimento de progressão.
+4. Habeas corpus não conhecido, mas concedida a ordem de ofício, para restabelecer a decisão do Juízo das Execuções Penais.
+(HC n. 369774/RS, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe 7/12/2016 - grifo nosso)
+Com essas considerações, concedo, liminarmente, a ordem impetrada para determinar que o Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal de Bauru/SP retifique o cálculo de penas do paciente, de modo a considerar como data-base para a concessão da progressão de regime, o dia em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal para a progressão, e não a data em que foi deferido o benefício.
+Comunique-se com urgência às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
