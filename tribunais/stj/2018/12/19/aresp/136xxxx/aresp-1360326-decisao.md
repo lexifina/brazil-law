@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO AMBIENTAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. INVERSÃO DINÂMICA DO ÔNUS DA PROVA E HONORÁRIOS RECURSAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. REVISÃO DO ENTENDIMENTO DO ACÓRDÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE [NOME] DE OLIVEIRA ALVES.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] desafiando decisão do Tribunal de Justiça do Paraná que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 606):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) DA SANEPAR - ALEGAÇÃO DE MAU CHEIRO - JULGAMENTO ANTECIPADO - MATÉRIA QUE EXIGE DILAÇÃO PROBATÓRIA - CERCEAMENTO DE DEFESA RECONHECIDO DE OFICIO - OCORRÊNCIA - VÍCIO INSANÁVEL - SENTENÇA CASSADA DE OFICIO, SENTENÇA CASSADA DE OFICIO, RECURSO DE APELAÇÃO E AGRAVOS RETIDOS PREJUDICADOS.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 634-643).
+Nas razões do recurso especial, [NOME] alegou ofensa aos arts. 85, 373 e 1.022 do NCPC; 6º do CDC. Sustentou negativa de prestação jurisdicional quanto à omissão sobre ponto relevante da demanda. Pontuou ser necessária a inversão do ônus da prova e a fixação de honorários sucumbenciais recursais.
+Além disso, aduziu a inversão dinâmica do ônus da prova nos termos do Código de Defesa do Consumidor, tendo em vista estarem comprovadas a verossimilhança e a hipossuficiência da autora, sendo a ré uma empresa de grande porte financeiro.
+Asseverou ainda a fixação de honorários recursais, porque houve interposição de recurso de apelação em decorrência da sentença prolatada pelo Juízo a quo.
+Contrarrazões apresentadas às fls. 694-709 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de ofensa ao art. 1.022 do CPC/2015, bem como pela incidência das Súmulas 283 do STF e 7 do STJ.
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+É o que se extrai do seguinte trecho dos embargos de declaração (e-STJ, fls. 634-643 - sem grifo no original):
+Pretende a embargante que o acórdão prolatado seja revisto.
+Todavia, não há qualquer omissão, contradição, obscuridade ou erro material no v. Acórdão proferido, uma vez que a decisão ora guerreada analisou exaustivamente a matéria ventilada, reconhecendo a ocorrência do cerceamento de defesa de ofício.
+Em que pese a fundamentação apresentada nos aclaratórios, vislumbra-se que o acórdão decidiu de acordo com o entendimento dominante nesta Corte de justiça e do Superior Tribunal de justiça.
+Com relação a não análise do ônus da prova, bem como da responsabilidade objetiva, verifica-se que o apelo foi julgado prejudicado e, por isso, os argumentos ventilados em fase recursal não foram analisados, tendo em vista o reconhecimento do cerceamento de defesa. Confira-se parte da decisão colegiada:
+"O cerceamento de defesa constitui vício insanável da r. sentença, que leva à sua nulidade, podendo inclusive ser declarado de ofício.
+Flagrante, desta forma, o cerceamento do direito de defesa, sendo mister a nulidade da sentença, com o retorno dos autos ao juízo de origem, para que o feito tenha seu regular prosseguimento, oportunizando às partes a produção das provas que entenderem pertinentes.
+Cumpre consignar que, em virtude do reconhecimento do cerceamento de defesa, resta prejudicada a análise do mérito recursal, bem como dos agravos retidos interpostos".
+No que tange à majoração da verba recursal de acordo com o Novo Código de Processo Civil, é necessário destacar que a prolação da sentença de primeiro grau, bem como a intimação da ora embargante e a interposição da apelação cível se deram na vigência do Código de Processo Civil antigo. Assim sendo, o acórdão ora embargado ocorreu com base no CPC/73, pelo que impossível se falar em aplicabilidade do CPC/15 para se majorar os honorários advocatícios, até porque o apelo da embargada sequer foi analisado, pois o mesmo foi julgado prejudicado ante o reconhecimento da existência do cerceamento de defesa.
+Além disso, fica claro da leitura dos embargos de declaração que pretende a embargante, em verdade, a rediscussão da matéria debatida no v. Acórdão, o que é vedado por meio de Embargos Declaratórios.
+Nesse contexto, atentando-se aos argumentos trazidos pela insurgente e aos fundamentos destacados e adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Ademais, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Outrossim, rever a conclusão do aresto impugnado e acolher a pretensão recursal demandaria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de [NOME].
+Publique-se.
