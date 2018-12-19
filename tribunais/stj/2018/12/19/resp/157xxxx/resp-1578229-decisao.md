@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, com apoio no art. 105, III, "a", da Constituição Federal, de acórdão do Tribunal de Justiça daquela unidade federativa, que proveu, em parte, o apelo defensivo a fim de reduzir a pena do recorrido para 5 anos e 10 meses de reclusão, por infração ao art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+Nas razões do apelo especial, alega o recorrente violação dos arts. 59, caput, do Código Penal; 381, inciso III, e 619 do Código de Processo Penal; 10, incisos I e XIV, da Lei n.º 8.625/1993; 22, inciso XLI, 38, inciso III, e 40, da Lei Complementar Estadual n.º 141/1996.
+Assevera que "o Tribunal de Justiça do Rio Grande do Norte afastou as circunstâncias judiciais da culpabilidade e das consequências do crime, antes valoradas em desfavor do acusado, por entender que a fundamentação da sentença seria inidônea, sem, contudo, motivar as razões de sua decisão nem analisar todo o contexto fático" (e-STJ, fl. 415)
+Aduz que "para efeito de cumprimento de um dos pressupostos de admissibilidade dos recursos excepcionais, que é o prequestionamento da matéria, o Ministério Público potiguar, representado por seu Procurador-Geral de Justiça Adjunto, opôs Embargos de Declaração para fins de prequestionamento." (e-STJ, fl. 422). Dessa forma, afirma que "a ciência pessoal da 5.ª Procuradora de Justiça, que atuou no feito como custos legis, não pode ser tida como um impedimento para a admissão dos Embargos de Declaração, tendo em vista a atribuição do Procurador-Geral de Justiça para opô-los e importância do conhecimento de tal recurso para o prosseguimento do feito." (e-STJ, fl. 426)
+Argumenta que "que o relator  do acórdão impugnado  não se desincumbiu do ônus de motivar sua decisão, isso porque a simples alusão à jurisprudência da Corte e a transcrição de julgados não se qualifica como fundamentação suficiente para fins do art. 381, inciso III, do Código de Processo Penal, ausente a necessária subsunção do comando decisório à motivação." (e-STJ, fl. 431)
+Requer, assim, o provimento do recurso para:
+A - anular o acórdão recorrido, que em agravo regimental rejeitou a legitimidade do Procurador-Geral de Justiça Adjunto para interpor embargos de declaração para fins de prequestionamento no âmbito da Câmara Criminal, ferindo ao art. 10, incisos I e XLV, da Lei nº 8.625/1993, regulamentado pelo art. 22, inciso XLI, da Lei Complementar Estadual nº 141/1996, bem como o conceito de ciência pelo Ministério Público (entrada no órgão e não a aposição do ciente pelo membro), DETERMINANDO, portanto, o conhecimento dos embargos de declaração;
+B - ante a não integração da omissão apontada nos embargos declaratórios, determinando o retorno dos autos à Corte de origem a fim de que seja sanado o vício apontado, pronunciando-se sobre a questão federal ali suscitada, em razão da contrariedade ao art. 619 do Código de Processo Penal, ou;
+C - reformar o acórdão recorrido, ante a violação dos arts. 59, caput, do Código Penal e 381, inciso III, do Código de Processo Penal, para prover o recurso interposto por esse Ministério Público Estadual. (e-STJ, fls. 440).
+Não foram apresentadas contrarrazões (e-STJ, fl. 444).
+Admitido o inconformismo, os autos ascenderam ao STJ (e-STJ, fls. 445-448).
+O Ministério Público Federal opinou pelo improvimento do recurso (e-STJ, fls. 471-475).
+É o relatório.
+Decido.
+Inicialmente, cumpre anotar que a alegada contrariedade do art. 619 do Código de Processo Penal não merece acolhimento, pois o Tribunal de origem analisou satisfatoriamente todas as questões postas a seu exame quanto a dosimetria penal, ora questionada pelo recorrente.
+Logo, tendo sido devidamente prequestionado tal tema no acórdão que julgou o apelo defensivo, afasta-se, portanto, a suposta ofensa ao referido dispositivo federal tido por violado (REsp 1.484.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018).
+Vale anotar que "Não ocorre violação ao art. 619 do Código de Processo Penal quando exaurido integralmente, pelo Tribunal a quo, o exame das questões trazidas à baila no recurso de apelação - no caso, quanto aos elementos que embasaram a condenação -, sendo dispensáveis quaisquer outros pronunciamentos supletivos, mormente quando postulados apenas para atender ao inconformismo do recorrente que, por via transversa, tenta modificar a conclusão alcançada pelo acórdão" (REsp 1.565.024/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/04/2018, DJe 06/06/2018).
+Quanto ao mérito do recurso especial, insurge-se a acusação contra o afastamento da aferição negativa da culpabilidade e das consequências do crime na primeira fase do procedimento dosimétrico.
+A Corte de origem reduziu a pena-base ao mínimo legal, por entender carente de fundamento válido a sentença condenatória nesta parte, em decisão assim motivada:
+"Relativamente ao dimensionamento da pena, a fundamentação foi realizada da seguinte forma:
+"Passo à dosimetria da pena.
+1 - Das circunstâncias judiciais (artigo 59 do CP).
+culpabilidade: sendo considerado o grau de reprovação da conduta, é desfavorável ao condenado, posto que agiu com firme consciência da ilicitude, ou seja, com vontade de produzir o resultado previsto no artigo 33 da Lei nº 11.343/06;
+antecedentes: circunstância favorável, vez que não há nos autos notícia de outra infração penal em seu desfavor;
+conduta social: desfavorável, já que a traficância é uma conduta totalmente reprovada pela sociedade;
+personalidade: desfavorável, visto que possui personalidade incompatível com os valores morais adotados pela sociedade;
+motivos, circunstâncias e consequências do crime: inerentes ao próprio tipo penal;
+consequências desfavoráveis ao réu uma vez a comercialização de drogas provoca dependência química em seus usuários, e o réu passa a viver da exploração dos vícios alheios;
+2 - Da dosimetria da pena (artigo 68, CP)
+a) pena-base: após observar as circunstâncias acima, fixo a pena-base em 07 (sete) anos e 30 (trinta) dias-multa, por considerá-las necessárias e suficientes à reprovação e prevenção do crime praticado;
+b) circunstâncias legais: inexistem circunstância atenuante ou agravantes;
+c) causas de aumento e de diminuição das penas: aumento a pena em 1/6 com fulcro no artigo 40, VI, da Lei nº 11.343/06, ficando em 8 anos e dois meses de reclusão e 35 (trinta e cinco ) dia-multas, não havendo mais causas de aumento ou diminuição torno a pena definitiva em 8 anos e dois meses de reclusão e 35 (trinta e cinco) dia-multas. O regime é inicialmente o fechado.
+Nego ao réu o direito de apelar em liberdade, uma vez que já se encontra preso durante toda a instrução processual, e seu encarceramento se faz necessário para que não volte a delinquir". (fls. 180/181 - 1º vol).
+A vista desta transcrição, observo que todas as circunstâncias judiciais consideradas em desfavor do réu foram valoradas com justificativas inidôneas.
+Explico:
+Na apreciação da circunstância judicial da culpabilidade, a magistrada ao se referir ao potencial conhecimento da ilicitude, utilizou-se de fundamentação genérica com elementos inerentes, nos termos da jurisprudência desta Corte de Justiça:
+ ..
+A má conduta social lastreada no fato do denunciado exercer a traficância, conforme estabelecido na sentença recorrida, se constitui em bis in idem, pois a conduta de vender drogas é parte integrante do tipo penal na qual foi condenado.
+A justificativa utilizada para caracterizar negativamente a personalidade do apelante foi claramente genérica, pois, ao dizer que ele "possui personalidade incompatível com os valores morais adotados pela sociedade" (fl. 181 - 1º vol), não indicou qualquer elemento concreto que amparem esta conclusão.
+Incorreu no mesmo equívoco ao considerar desfavoráveis as consequências do delito, em razão dos malefícios da droga, consoante construções jurisprudenciais que colaciono:
+ ..
+Desta maneira, não resta outra alternativa, senão reduzir a pena base ao mínimo legal, mas, somente, em relação à sanção privativa de liberdade, qual seja: cinco (05) anos de reclusão, mantendo trinta (30) dias -multa estabelecida na sentença, valor muito inferior ao mínimo legal de quinhentos (500) dias multa imposto ao crime de tráfico de drogas, para não incorrer em reformatio in pejus, em face do recurso exclusivo da defesa.
+Inexistindo circunstância atenuantes ou agravantes a serem consideradas, aumento a sanção na mesma fração reconhecida na sentença (1/6), em razão da majorante instituída pelo art. 40, VI, da Lei nº 11.343/065, eis comprovado que o réu vendia drogas para adolescentes, consoante demonstrado pelos depoimentos anteriormente citados, resultando num patamar final e definitivo de cinco (05) anos e dez (10) meses de reclusão, em regime inicial semiaberto, ante a inexistência de circunstâncias desfavoráveis e reincidência, e trinta e cindo (35) dias-multa.
+Não incide em favor do recorrente a minorante prescrita no art. 33, § 4º da lei antidrogas, tendo em vista sua comprovada dedicação ao exercício da traficância." (e-STJ, fls. 292-299; sem grifos no original)
+Como é cediço, a individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Na hipótese, conforme bem posto pelo Tribunal de origem, o Juiz sentenciante não trouxe dado concreto algum, referente a conduta delitiva praticada pelo recorrido ("guardar e ter em depósito, em sua residência, 08 trouxinhas de maconha, 18 pedras de crack") que justificasse a aferição negativa das vertentes da culpabilidade e das consequências do crime.
+E, segundo reiterada jurisprudência desta Corte, as considerações genéricas e desvinculadas do contexto fático dos autos, assim como elementos inerentes ao próprio tipo penal não servem para o agravamento da pena.
+A propósito:
+" ..  1. Na esteira da orientação jurisprudencial desta Corte, "a exasperação da pena deve estar fundamentada em elementos concretos extraídos da conduta imputada ao acusado, os quais devem desbordar dos elementos próprios do tipo penal. Assim, meras alusões à gravidade em abstrato do delito, à potencial consciência da ilicitude, ao perigo da conduta, à busca do lucro fácil e outras generalizações sem lastro em circunstâncias concretas não podem ser utilizadas para aumentar a pena-base" (HC 353.839/PB, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/06/2016, DJe 08/06/2016).  ..
+4. Agravo regimental a que se nega provimento."
+(AgRg no AgRg no AREsp 39.737/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017);
+" ..
+4. A possibilidade de evitar a conduta típica identifica-se com o conceito de exigibilidade de conduta adversa, elemento integrante da culpabilidade, que não pode ser avaliado negativamente na dosimetria (REsp 1197732/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2013, DJe 04/08/2014).
+5. As consequências nefastas, vitimando toda sociedade, mormente o jovens da sua convivência, por serem ínsitas ao delito de tráfico de entorpecentes, não podem ser consideradas para o agravamento da pena-base.
+ .. "
+(REsp 1.135.435/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2015, DJe 02/02/2016).
+Dessa forma, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+A propósito: "Não evidenciada qualquer ilegalidade no tocante à dosimetria da pena, sua revisão em sede de recurso especial óbice no enunciado n. 7 da Súmula desta Corte" (AgRg no REsp 1.359.839/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/11/2018, DJe 14/11/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "a", do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
