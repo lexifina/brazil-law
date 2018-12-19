@@ -1,0 +1,74 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MAJORIE DE ALMEIDA e OUTRO, contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 4ª Região, no julgamento de apelação, assim ementado (fls. 367/380e):
+ADMINISTRATIVO. AÇÃO REVISIONAL. FIES. CERCEAMENTO DE DEFESA. NÃO - CONFIGURADO. INAPLICABILIDADE DO CDC. CAPITALIZAÇÃO DOS JUROS. VEDAÇÃO. REDUÇÃO DA TAXA. POSSIBILIDADE. TABELA PRICE. APLICABILIDADE. PENA DE MULTA MORATÓRIA E CONVENCIONAL. MANUTENÇÃO DA ESTIPULAÇÃO. INSCRIÇÃO EM CADASTROS RESTRITIVOS DE CREDITO.
+1 . Descabe falar em cerceamento de defesa diante do indeferimento daprova pericial quando o feita está suficientemente instruído e decidido com base na prova documental. 1 2. A hodierna jurisprudência do e. Superior Tribunal de Justiça está assentada no sentido de que os contratos firmados no âmbito do Programa de Financiamento Estudantil - Fies - não se subsumem às regras encartadas no Código de Defesa do Consumidor, dado que se está frente à "programa governamental, em beneficio do discente, sem conotação de serviço bancário, fios termos do art. 30, § 20, daquele Code. Precedentes.
+3. Malgrado se assegure constituir-se a Tabela Price em um sistema para o cálculo do financiamento que não contemrpla a utilização de juros compostos, ainda que mantida a prestação constante, o fato é que as cláusulas contratuais entabuladas atestam" exatamente o contrário, o que não encontra amparo nem na legislação, tampouco na jurisprudência.
+4. Na novel sistemática introduzida pelo art. 543-C do CPC, determinou-se o afastamento completo de qualquer capitalização, motivo pelo qual deve ser mantida a aplicação desta forma de amortização, com o banimento de"eventual capitalização.
+5. Capitalização afastada e taxa de juros reduzida, a fim de coadunar-se com a novel legislação que rege a matédiaquais sejam a Lei n. 12.202, de 14-01-2010, e a Resolução n. 3.842, de 10 de março de 2010 do BACEN.
+6. As cláusulas que determinam o pagamento de multa moratória e convencional para os casos de cobrança judicial ou extrajudicial do crédito não estão inquinada de nulidade, visto não se esta r diante de cumulação indevida com outros encargos contratualmente estipulados, contando com finalidade diversa entre si, dada as naturezas de, respectivamente, meio coercitivo de cobrança ná tentativa legitima de evitar o prolongamento do inadimplemento e de cláusula penal, destinada a pré-fixar as perdas e danos decorrentes da resolução da obrigação.
+7. Nos contratos destinados ao financiamento estudantil existe um caráter eminentemente social intríqseco. Desse modo, a ação judicial propostq desarticula movimento da instituição financeira destinado a inscrever os mutuários ou estudantes nos cadastros réstritivos de crédito.
+Opostos embargos de declaração por ambas as partes, os aclaratórios da Caixa Econômica Federal foram rejeitados e da Autora acolhidos para fins de prequestionamento (fls. 391/397e).
+Opostos segundo embargos de declaração pela instituição financeira, também foram rejeitados (fls. 433/437e)
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 123, 368, 421 a 424, 955 e 963, do Código Civil; 11 do Decreto n. 22.626/33; 50, II, da Lei n. 10.260/01; 70 da Lei n. 8.436/92, 2º, § 2º, da Lei de Introdução de Normas do Direito Brasileiro; 42 do Código de Defesa do Consumidor e Decreto-lei n. 4.657/42.
+Alega que os juros devem ser limitados em 6% ao ano.
+Sustenta:
+(a) ofensa à função social, probidade e boa fé do contrato; (b) o caráter social do contrato do FIES não admite atribuir-se ao CMN a responsabilidade de legislar sobre juros a incidirem sobre o contrato, gerando a ilegalidade das disposições do artigo 5º, II da MP n. 12.972/1999 e da Lei n. 10.260/2001 apta a anular cláusula contratual;
+(c) ausência de revogação do artigo 7º da Lei n. 8.436/1992 pela Lei n. 10.260/2001, a qual não previu a taxa de juros para o financiamento educacional;
+(d) resoluções do CMN são normas hierarquicamente inferiores à lei ordinária, afrontando o princípio da hierarquia de normas;
+(d) redução de juros nos termos da Resolução n. 3.415/2006 do CMN, mais benéfica aos estudantes, atendendo à finalidade social do FIES;
+(e) impossibilidade de capitalização dos juros (Tabela Price); (f) impossibilidade de vencimento antecipado da dívida.
+Sem contrarrazões, o recurso foi admitido (fls. 457/459e).
+A Caixa Econômica Federal também interpôs Recurso Especial (fls. 441/446e) e, posteriormente, requereu a desistência do recurso (fls. 477/182e), devidamente homologada (fls. 484/486e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput e § 1º-A, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, bem como a dar provimento ao recurso se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior.
+O recurso especial não constitui via adequada para a análise de eventual ofensa à súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+Também não merece acolhimento a alegação de que se deve observar a regra de que o contrato deve ser interpretado conforme sua função social, pois apesar da indicação dos arts. 421 a 424 do CC/2002, a parte recorrente não foi capaz de demonstrar, de forma clara e objetiva, de como o acórdão recorrido teria malferido a legislação federal, Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+Com relação à taxa de juros a ser utilizada nos contratos de financiamento estudantil, entendeu o Tribunal a quo que não há impedimento para que eles sejam fixados pelo CMN nos contratos do FIES, pois esse é o órgão competente para fixar os juros nos empréstimos com recursos de fundos públicos, como o que ocorre no caso em exame.
+O acórdão recorrido, nesse ponto, encontra-se em consonância com a jurisprudência desta Corte sobre o tema, como se observa dos seguintes julgados:
+PROCESSUAL CIVIL. ART. 535 DO CPC. NEGATIVA DE JURISDIÇÃO NÃO CONFIGURADA. QUESTÕES FEDERAIS NÃO DEBATIDAS. SÚMULA 211/STJ. FIES. CONTRATO DE FINANCIAMENTO ESTUDANTIL. JUROS REMUNERATÓRIOS. ARTIGO 5º DA LEI 10.260/01. ONEROSIDADE EXCESSIVA NÃO CARACTERIZADA.
+1. O aresto regional apreciou a controvérsia de forma integral, sólida e adequada, tendo analisado questões relevantes ao deslinde da lide, sem incorrer na falha de negativa de prestação jurisdicional.
+2. As questões federais insertas nos arts. 421, 422, 423 e 424 do CPC não obtiveram juízo de valor pelo acórdão recorrido. Aplicação da Súmula 211/STJ.
+3. O disposto no inciso II do artigo 5º da Lei 10.260/01, ao estabelecer os juros remuneratórios em de 9% ao ano, não padece de ilegalidade, mormente porque retratam percentual inferior ao previsto constitucionalmente e às taxas praticadas pelo mercado financeiro, tampouco se "afiguram abusivos ou de onerosidade excessiva" (REsp 1.036.999/RS, Rel. Min. José Delgado, DJU de 05.06.08).
+4. Recurso especial não provido.
+(REsp 1.058.325/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 12/8/2008, DJe 04/9/2008)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FIES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO-CARACTERIZADA. DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO. CONTRATO DE FINANCIAMENTO ESTUDANTIL. JUROS REMUNERATÓRIOS. ARTIGO 5º DA LEI 10.260/2001. AUSÊNCIA DE ONEROSIDADE EXCESSIVA. DISSÍDIO JURISPRUDENCIAL. NÃO-DEMONSTRADO.
+1. Autos que versam sobre ação revisional de contrato de financiamento estudantil em que se pleiteia a declaração de nulidade de cláusula que estipulou juros de 9% ao ano em observância ao artigo 5º, II, da Medida Provisória 1.972-8/99 e da Lei 10.260/01, a qual atribuiu ao CMN a capacidade legislativa da taxa de juros do FIES, ampliando as atribuições elencadas no art. 4º da Lei 5.595/64.
+2. O acórdão combatido não pode ser tachado de omisso, uma vez que analisou todos os pontos pertinentes ao desate da lide de forma motivada e fundamentada. Negativa de vigência do art. 535 do CPC que se afasta.
+3. As matérias insertas nos arts. 421, 422, 423 e 424 do CPC não foram objeto, em momento algum, de apreciação pelo acórdão vergastado, ressentindo-se o recurso do necessário prequestionamento. Além disso, apesar da oposição de embargos de declaração, não houve manifestação a respeito de tais preceitos normativos. Incidência da Súmula 211/STJ.
+4. Em atendimento ao que dispõe o inciso II do artigo 5º da Lei 10.260/2001, estabelecidos os juros remuneratórios à base de 9% ao ano, em patamar inferior ao das taxas praticadas pelo mercado financeiro, aqueles não se afiguram abusivos ou de onerosidade excessiva.
+5. Recurso pela alínea "c" que desatendeu ao disposto no § 2º do art. 255 do RISTJ, bem como o parágrafo único do art. 541 do CPC, pois não houve demonstração da exata similitude fático-jurídica entre os acórdãos confrontados.
+6. Recurso especial não-provido.
+(REsp 1036999/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 6/5/2008, DJe 5/6/2008)
+No que toca à suposta violação ao art. 5º, § 1º, da Lei nº 10.260/2001, aduz a parte recorrente a necessidade de limitação dos juros em R$ 50,00 nas amortizações trimestrais efetuadas na primeira fase do contrato, não sendo possível a incorporação dos juros mensais ao saldo devedor, sob pena de ocasionar capitalização de juros e amortização negativa.
+Entretanto, a revisão do julgado recorrido torna necessária a interpretação de cláusulas contratuais e novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5/STJ e 7/STJ.
+Por fim, em relação à capitalização de juros, a Primeira Seção desta Corte, no julgamento do Recurso Especial n. 1.155.684/RN, realizado sob o rito do art. 543-C do CPC, decidiu que em se tratando de crédito educativo, não se admite sejam os juros capitalizados, porquanto ausente autorização expressa por norma específica, aplicando a Súmula 121/STF.
+Também afirmou que, havendo pagamento de valores indevidos, o que deve ser apurado em sede de liquidação, é perfeitamente viável a repetição simples ou a compensação desse montante em contratos de financiamento estudantil.
+Nesse sentido:
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO ESTUDANTIL (FIES). PRESTAÇÃO DE GARANTIA. EXIGÊNCIA DE FIADOR. LEGALIDADE. ART. 5º, VI, DA LEI 10.260/2001. INAPLICABILIDADE DO CDC. CAPITALIZAÇÃO DE JUROS. VEDAÇÃO. PRECEDENTES DESTA CORTE.
+ ..
+Recurso especial de [NOME]: 1. Caso em que se pugna a incidência do Código de Defesa do Consumidor, a declaração de ilegalidade da cobrança de juros capitalizados e, por conseguinte, a repetição simples do valor pago a maior e a inversão dos ônus sucumbenciais.
+ ..
+3. A jurisprudência desta Corte mantém-se firme no sentido de que, em se tratando de crédito educativo, não se admite sejam os juros capitalizados, haja vista a ausência de autorização expressa por norma específica. Aplicação do disposto na Súmula n. 121/STF.
+Precedentes: REsp 1.058.334/RS, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 30/6/2008; REsp 880.360/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 5/5/2008; REsp 1.011.048/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 4/6/2008; REsp n. 630.404/RS, Rel. Min. João Otávio de Noronha, DJ de 26/2/2007; REsp n. 638.130/PR, Rel. Min. Luiz Fux, DJ de 28/3/2005.
+4. Por conseguinte, havendo pagamento de valores indevidos, o que será apurado em sede de liquidação, é perfeitamente viável a repetição simples ou a compensação desse montante em contratos de financiamento estudantil.
+ ..
+5. Recurso afetado à Seção, por ser representativo de controvérsia, submetido ao regime do artigo 543-C do CPC e da Resolução 8/STJ.
+6. Ônus sucumbenciais invertidos.
+7. Recurso especial provido, nos termos da fundamentação supra.
+(REsp 1155684/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/5/2010, DJe 18/5/2010)
+Ainda sobre o assunto, citam-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. CONTRATO DE FINANCIAMENTO ESTUDANTIL (FIES). CAPITALIZAÇÃO ANUAL DE JUROS. IMPOSSIBILIDADE. ACÓRDÃO DECIDIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. TABELA PRICE. ANATOCISMO. SÚMULA 5 e 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em casos como os que ora se apresentam, referentes a contratos de crédito educativo, não se admite a capitalização dos juros diante da ausência de previsão legal específica para tanto.
+ ..
+3. Agravo regimental não provido.
+(AgRg no REsp 1318172/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/2/2014, DJe 6/3/2014).
+ADMINISTRATIVO. CONTRATO DE FINANCIAMENTO ESTUDANTIL. FIES. CAPITALIZAÇÃO DE JUROS. SÚMULA 121/STF. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. SÚMULA 284/STF. VIOLAÇÃO DO ART. 330 DO CPC. SÚMULA 7/STJ.
+ ..
+2. A Primeira Seção, no julgamento do REsp 1.155.684/RN (assentada de 12.5.2010), submetido ao rito dos recursos repetitivos (art. 543-C do CPC), manteve o entendimento pacífico do STJ no sentido de que, em se tratando de crédito educativo, não se admite sejam os juros capitalizados, porquanto ausente autorização expressa por norma específica. Aplicação da Súmula 121/STF.
+ ..
+4. Recurso Especial provido.
+(REsp 1319121/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/09/2012, DJe 03/10/2012).
+Isto posto, com fundamento no art. 557, caput e § 1º-A, do Código de Processo Civil, DOU PARCIAL PROVIMENTO ao Recurso Especial, para afastar a capitalização de juros. Caso seja apurada a ocorrência de pagamento de valores indevidos em sede de liquidação, deve ocorrer a repetição simples desse montante, ou a compensação no contrato.
+Publique-se e intimem-se.
