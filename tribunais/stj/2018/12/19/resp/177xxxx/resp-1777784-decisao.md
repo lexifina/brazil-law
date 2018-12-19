@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ITAU UNIBANCO S.A em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 710/711):
+APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. SENTENÇA QUE REJEITOU AS CONTAS APRESENTADAS. APELO DO BANCO. INCOMPATIBILIDADE DE RITOS, DEVIDO A PRETENSÃO REVISIONAL. PRECLUSÃO. QUESTÃO ARGUIDA EM CONTESTAÇÃO E RESOLVIDA PELA SENTENÇA DE PRIMEIRA FASE DA DEMANDA. MATÉRIA NÃO CONHECIDA. PRETENSÃO DE ACOLHIMENTO DAS CONTAS APRESENTADAS. I MPOSSI BI LI DADE. IMPUGNAÇÃO GENÉRICA. INOCORRÊNCIA. JUROS REMUNERATÓRIOS. AUSÊNCIA DOS CONTRATOS. MANUTENÇÃO DA SENTENÇA QUE APLICOU A TAXA MÉDIA DE MERCADO, RESSALVADOS OS VALORES EVENTUALMENTE INFERIORES COBRADOS. CAPITALIZAÇÃO DE JUROS. PRÁTICA EVIDENCIADA PELA PERÍCIA E PELOS EXTRATOS. EXCLUSÃO QUE SE IMPÕE. IMPUTAÇÃO AO PAGAMENTO - ART. 354 DO CÓDIGO CIVIL. APLICAÇÃO MITIGADA. INTERPRETAÇÃO MAIS BENÉFICA AO CONSUMIDOR. ART. 47 DO CDC. PRECEDENTES. ENCARGOS E TARIFAS SEM PROVA DA CONTRATAÇÃO. PRÁTICA INACEITÁVEL. VIOLAÇÃO AO PRINCÍPIO DA INFORMAÇÃO. VALORES A SEREM EXCLUÍDOS, CONFORME PERÍCIA, EXCETUADOS OS QUE SE DERAM EM PROVEITO DO CORRENTISTA. SUPRESSÃO DO DIREITO MATERIAL. INOCORRÊNCIA. APLICAÇÃO DA TAXA SELIC COMO .0ºP INDEXADOR APÓS A VIGÊNCIA DO CC/02. POSSIBILIDADE. ENTENDIMENTO CONSOLIDADO NO STJ. RECURSO DE APELAÇÃO CÍVEL DO BANCO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (fls. 751/756).
+Nas razões do apelo (fls. 763/768), a parte insurgente alega violação aos arts. 292, §1º, III, do CPC/73 (327, §1º, I, do CPC15) e 914 e ss do CPC/73 (art. 550 e ss do CPC15).
+Sustenta, em síntese, a incompatibilidade do acórdão recorrido com a tese fixada no REsp repetitivo 1.497.831/PR, segundo a qual o pedido revisional é incompatível com a ação de prestação de contas, vício que pode ser analisado até mesmo na segunda fase do rito processual.
+Submetido o feito a juízo de retratação, na origem, foi mantido o aresto impugnado, pois a tese definida em precedente obrigatório desta Corte não foi julgada em razão da preclusão operada pela coisa julgada.
+Admitido o apelo, os autos subiram ao exame do STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De fato, o STJ permite o exame da incompatibilidade do pedido revisional em ação de prestação de contas até mesmo na segunda fase do rito, mas a definição dessa matéria em sentença já transitada em julgado opera a sua preclusão.
+Afinal, conforme jurisprudência consolidada por esta Corte, todas as matérias - inclusive as de ordem pública - estão sujeitas à preclusão se decididas por ato jurisdicional não impugnado pelo recurso adequado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À ADJUDICAÇÃO. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. NÃO OCORRÊNCIA. CONTRADIÇÃO. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 284/STF. TRANSAÇÃO JUDICIAL, LIMITES DA LIDE E MULTA PROCESSUAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. QUESTÃO JÁ ANALISADA. DESNECESSIDADE DE REJULGAMENTO. PRECLUSÃO PRO JUDICATO. DECISÃO MANTIDA.
+1. Não há afronta ao art. 1.022 do CPC quando o Tribunal de origem manifesta-se suficientemente sobre a questão controvertida, apenas adotando fundamento diverso daquele perquirido pela parte. 2. Não prospera o recurso especial relativamente à suposta contradição, tendo em vista estarem as razões dissociadas das matérias apreciadas e fundamentos adotados pela Corte de origem. Súmula nº 284/STF.
+3. No presente caso, a pretensão de análise quanto aos limites da lide em face da transação e da adequação da multa processual somente se processam mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+4. A preclusão pro judicato afasta a necessidade de novo pronunciamento judicial acerca de matérias novamente alegadas, mesmo as de ordem pública, por se tratar de matéria já decidida, inclusive em autos ou recurso diverso, mas relativos à mesma causa. Súmula nº 83/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1285886/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/10/2018, DJe 08/10/2018)
+AGRAVO INTERNO. PROCESSUAL CIVIL. ACÓRDÃO DO TRIBUNAL DE ORIGEM DEFININDO A NATUREZA DO CRÉDITO. NOVO ENFRENTAMENTO, PELA CORTE LOCAL, DA QUESTÃO. INVIABILIDADE. INCIDÊNCIA DA PRECLUSÃO PRO JUDICATO.
+1. O processo é um trilhar para a frente e, como se infere da fundamentação da decisão monocrática ora recorrida, o ponto central é a existência de preclusão pro judicato, visto que a matéria acerca do privilégio dos honorários advocatícios, já havia sido dirimida pelo Tribunal de origem.
+2. Com efeito, " a inda que as matérias de ordem pública  ..  não estejam sujeitas, em princípio, à preclusão, se já decididas não podem ser reexaminadas pelo mesmo juiz, pois configurada a preclusão pro judicato, segundo a qual, nenhum juiz decidirá novamente as questões já decididas, relativas à mesma lide" (art. 471 do CPC/73)". (AgInt no REsp 1576743/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2017, DJe 30/05/2017) 3. Agravo interno não provido.
+(AgInt no REsp 1321383/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/09/2018, DJe 27/09/2018)
+Assim, uma vez definida a matéria relativa à incompatibilidade do pedido revisional na ação de prestação de contas por sentença já transitada em julgado, impede-se seu reexame, pois já preclusa.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Majoro os honorários devidos pela parte recorrente em 10% do valor já fixado pelas instâncias de origem a esse mesmo título.
+Publique-se.
+Intimem-se.
