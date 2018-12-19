@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado de Santa Catarina, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 220):
+ADMINISTRATIVO. ÓRGÃO DE DEFESA DO CONSUMIDOR (PROCON). MULTA APLICADA À OPERADORA DE TELEFONIA MÓVEL QUE NÃO EXIBIA DE FORMA CLARA E OBJETIVA EM SEU SITE O NÚMERO DO "SERVIÇO DE ATENDIMENTO AO CONSUMIDOR - SAC". AÇÃO ANULATÓRIA. IMPROCEDÊNCIA DA PRETENSÃO. RECURSO PROVIDO.
+01. O ato administrativo discricionário submete-se ao controle judicial sempre que afetar direitos do administrado. Só o Judiciário ""poderá dizer da legalidade da invocada discricionariedade e dos limites de opção do agente administrativo. O que o Judiciário não pode é, no ato discricionário, substituir o discricionarismo do administrador pelo juiz. Mas pode sempre proclamar as nulidades e coibir os abusos da Administração" ([NOME]). Vedar ao juiz a "verificação objetiva da matéria de fato, quando influente na formação do ato administrativo será converter o Poder Judiciário em mero endossante da autoridade administrativa, substituir o con- trole da legalidade por um processo de referenda extrín- seco" (Caio Tácito)" (MS n. 2009.034855-0, Des. Newton Trisotto). "O controle de legalidade dos atos administra- tivos pelo Poder Judiciário não ofende o princípio da separação dos poderes" (AgRgRE n. 718.343, Min. Celso de Mello).
+02. O Decreto n. 6.523/2008 não indica com clareza a forma como "o número do SAC" deverá ser disponibilizado na "página eletrônica da empresa na INTERNET". Demonstrado que qualquer pessoa com conhecimento de informática suficiente para acessar a "página eletrônica da empresa" teria também condições de localizar a guia de "atendimento" onde se encontra o "número do SAC", tem-se como cumprido o objetivo da norma legal.
+Os embargos de declaração da parte recorrente não foram providos e os embargos da recorrida foram providos para fixar honorários em 5% do valor atualizado da causa (e-STJ, fls. 262-267).
+Alega o insurgente violação do art. 4º, caput, I, da Lei n. 8.078/1990, e dos arts. 7º e 8º do Decreto Federal n. 6.523/2008.
+Defende, em síntese, a legitimidade da multa aplicada, porquanto o número telefônico do SAC não constava de forma clara e objetiva do sítio eletrônico da recorrida.
+Além disso, argumenta que ao Poder Judiciário é vedado rever o mérito das decisões administrativas.
+Contrarrazões às e-STJ, fls. 279-288, propugnando pelo não conhecimento do recurso ou para que lhe seja negado provimento.
+É o relatório.
+O recurso não merece conhecimento.
+O Tribunal de origem assim consignou quanto ao modo como a informação relativa ao número de telefone do Serviço de Atendimento ao Consumidor - SAC estava disposto no site da recorrida (e-STJ, fl. 236):
+Tenho que lhe assiste razão.
+O Decreto n. 6.523/2008 não indica com clareza a forma como "o número do SAC" deverá ser disponibilizado na "página eletrônica da empresa na INTERNET". Evidentemente que deve indicar o "caminho" para o interessado ter acesso à informação. Esse é o objetivo da norma e que deve ser considerado.
+Demonstrado que qualquer pessoa com conhecimento de informática suficiente para acessar a "página eletrônica da empresa" teria também condições de localizar a guia de "atendimento" onde se encontra o "número do SAC", tem-se como cumprido o objetivo da norma legal. O "caminho" a ser percorrido está in cado no site apelante (fls. 05/06).
+Com isso, para se chegar à conclusão contrária a do Tribunal a quo, no sentido de a informação, quanto ao SAC, estar disposta de forma clara e acessível, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ICMS. VIOLAÇÃO DO ARTIGO 535 DO CPC. NÃO CARACTERIZAÇÃO. SUPOSTA OFENSA AO ART. 565 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. VIOLAÇÃO DO ART. 557 DO CPC. REAPRECIAÇÃO DA MATÉRIA PELO ÓRGÃO COLEGIADO. TRANSFERÊNCIA DE MERCADORIA PARA ESTABELECIMENTO DO MESMO TITULAR. NÃO OCORRÊNCIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+3. De acordo com o art. 557 do CPC é possível ao Relator decidir o recurso, com fundamento na jurisprudência dominante, de forma monocrática, não ofendendo, assim, o princípio da colegialidade.
+Ademais, consoante orientação do STJ, a confirmação de decisão monocrática de relator pelo órgão colegiado supera eventual violação do art. 557 do CPC.
+4. O Tribunal a quo, com base no contexto fático-probatório dos autos, asseverou que a discussão gira em torno da lavratura de auto de infração em virtude da diferença constatada na carga, sendo que, ficou comprovado a irregularidade no trânsito de mercadorias sujeitas ao ICMS. Dessa forma, a modificação desse entendimento de modo a acolher a tese do recorrente, demandaria reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial, sob pena de violação da Súmula 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 487.691/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/5/2014, DJe 21/5/2014)
+Assim, ainda que pela via transversa, o recorrente pleiteia o revolvimento das matérias fático-probatórias, sob a alegação de ofensa aos dispositivos supramencionados, o que é inadmitido nesta via recursal, conforme entendimento sedimentado na Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932,III, do CPC/2015, c/c art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.Intimem-se.
