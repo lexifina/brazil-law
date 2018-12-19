@@ -1,0 +1,17 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ADVOGADOS QUE JUNTAM SUBSTABELECIMENTO SEM RESERVA DE PODERES. HOMOLOGAÇÃO DA DESISTÊNCIA DO PATROCÍNIO. DECISÃO NÃO IMPUGNADA OPORTUNAMENTE. MATÉRIA PRECLUSA. INCIDÊNCIA DA SÚMULA 7 DO STJ. AUSÊNCIA DE FUTURAS INTIMAÇÕES EM SEUS NOMES. AUSÊNCIA DE OBRIGAÇÃO LEGAL DE INTIMAR QUEM JÁ NÃO DETÉM PODERES PARA ATUAR NO FEITO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME] e [NOME], com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 257):
+AGRAVO DE INSTRUMENTO. Razões recursais dissociadas dos fundamentos da decisão interlocutória. Ofensa ao princípio da dialeticidade. Recurso não conhecido.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 378-380).
+Nas razões do recurso especial, os recorrentes alegaram violação dos arts. 280 e 1.022 do CPC/2015; bem como divergência jurisprudencial, sustentando: a) negativa de prestação jurisdicional; b) necessidade de serem intimados para acompanhar o recebimento das verbas sucumbenciais, razão pela qual a intempestividade do recurso é autoexplicativa.
+Brevemente relatado, decido.
+Asseverou o Tribunal de Justiça que os agravantes, nestes autos, substabeleceram sem reserva de poderes na fl. 149 (e-STJ), nomeando outro procurador em seu lugar, o que foi confirmado pela decisão de fl. 130(e-STJ) , que não foi impugnada.
+Assim, não há embasamento legal para os agravantes postularem que a publicação da intimação seja feita em seus nomes, visto que não possuem mais poderes para atuar no feito desde então.
+Além disso, está preclusa a matéria, uma vez que a decisão que homologou desistência quanto ao patrocínio da causa não foi oportunamente impugnada.
+Dessa maneira, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Consequentemente, não reconheço a apontada violação do art. 1.022 do Novo Código de Processo Civil, pois não existia omissão a ser suprida, uma vez que o acórdão recorrido expressamente se manifestou pela desnecessidade de intimação dos agravantes ante a juntada aos autos de substabelecimento sem reserva de poderes. Assim, não se pode atribuir ao acórdão recorrido o vício de omissão apenas porque resolveu a questão em sentido contrário ao postulado pela parte.
+Melhor sorte não alcança o recurso quanto à alínea c do permissivo constitucional, pois os agravantes não comprovaram o dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, notadamente por terem deixado de transcrever os trechos dos acórdãos em confronto e não terem efetuado o necessário cotejo analítico das teses supostamente divergentes, tampouco indicado o repositório oficial ou juntado cópia do inteiro teor dos julgados paradigmas.
+Vale destacar, ainda, que, a ausência de intimação dos recorrentes neste processo ocorreu em razão de terem acostado aos autos substabelecimento sem reserva de poderes, não havendo obrigação legal alguma de intimar quem já não detinha poderes para atuar nos autos, hipótese fática não demonstrada no aresto paradigma.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
