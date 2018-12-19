@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EX-EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação de obrigação de fazer em desfavor de Fundação Saúde Itaú pretendendo a sua manutenção em plano de saúde coletivo administrado pela fundação ré. Aduziu que, devido a sua aposentaria, para permanecer vinculada ao plano de saúde, nos termos do que dispõe o art. 31 da Lei n. 9.656/1998, teria de arcar com a majoração desproporcional do valor do prêmio. Dessa forma, pugnou pelo reconhecimento do direito de continuidade no plano de saúde, sob as mesmas condições de cobertura assistencial que teria direito enquanto fosse vigente seu contrato de trabalho.
+O Magistrado de primeiro grau julgou improcedente a ação por entender que a autora, embora estivessem asseguradas as mesmas condições de cobertura enquanto empregada, deveria suportar os novos preços e reajustes legais previstos.
+Interposta apelação pela autora, a Décima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo não conheceu do recurso, ante o reconhecimento da incompetência da Justiça Comum para o julgamento da causa e determinou a remessa dos autos para a Justiça do Trabalho, nos termos do acórdão assim ementado (e-STJ, fl. 435):
+Apelação cível. Plano de saúde coletivo. Ex-empregado aposentado. Ação cominatória movida por ex-empregado contra entidade operadora de plano de saúde coletivo de autogestão (Fundação Saúde Itaú). Pretensão que tem origem em relação laboral. Competência da Justiça do Trabalho para dirimir o conflito, conforme posição sedimentada pelas Primeira e Segunda Seção do C. Superior Tribunal de Justiça.
+Reconhecimento, de ofício, da incompetência da Justiça Comum, e consequente determinação do envio dos autos à Justiça Especializada. Recurso não conhecido, com determinação.
+Opostos embargos de declaração, foram rejeitados.
+Fundação Saúde Itaú interpôs recurso especial, com fundamento na alínea a do permissivo constitucional, alegando violação aos arts. 42, 44, 64, §§ 1º e 4º, do CPC/2015, sustentando, em suma, a competência da Justiça Comum para o julgamento da presente demanda.
+Sem contrarrazões (e-STJ, fl. 527).
+O recurso especial foi inadmitido pela Corte local em razão da incidência da Súmula 83 do STJ.
+Irresignada, argumenta a agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 577 (e-STJ).
+Brevemente relatado, decido.
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do CC n. 157.664/SP, Relatora a Ministra Nancy Andrighi, DJe de 22/5/2018, assentou competir à Justiça Comum, e não à Trabalhista, o julgamento de controvérsias entre ex-empregados e operadoras de planos de saúde na modalidade autogestão vinculadas ao empregador, nas quais é debatido o direito de manutenção da condição de beneficiário, nos termos dos arts. 30 e 31 da Lei 9.656/1998, sendo a relação jurídica, portanto, de natureza preponderantemente civil.
+As conclusões do precedente mencionado foram resumidas na seguinte ementa:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA ESPECIALIZADA DO TRABALHO. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO.
+1. Conflito negativo de competência suscitado pelo Juízo Trabalhista. Conclusão ao gabinete em 10/04/2018.
+2. O propósito do presente conflito consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho. 3. Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88.
+4. Plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, § 2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+5. A operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa n. 137/06 da ANS.
+6. O fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+7. Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+8. Declarada a competência da Justiça comum Estadual para julgamento da demanda.
+(CC n. 157.664/SP, Relatora a Ministra Nancy Andrighi, Segunda Seção, DJe de 25/5/2018).
+No presente caso, a conclusão do Tribunal de origem, determinando o julgamento da causa pela Justiça do Trabalho, está em dissonância à orientação jurisprudencial deste Superior Tribunal de Justiça. Desse modo, é imprescindível a reforma do acórdão recorrido.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a competência da Justiça Estadual Comum para julgar a demanda e determinar o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, para julgamento da apelação, como entender de direito.
+Publique-se.
