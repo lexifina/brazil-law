@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ALAN PATRICK PEREIRA DA SILVA e HENRIQUE REIS DO BRASIL CORREIA contra acórdão do Tribunal de Justiça do Estado do Espírito Santo proferido no julgamento do HC n. 0016295-89.2018.8.08.0000.
+Consta dos autos que, no dia 12 de outubro de 2017, policiais militares receberam denúncias anônimas de que, nas proximidades da escola municipal [NOME] (menos de 50m), havia em uma casa intensa movimentação de tráfico de drogas promovida por indivíduos conhecidos como ALAN PATRICK e HENRIQUE, tendo os policiais se deslocado até o local e passado a observar o movimento de pessoas próximo ao portão da referida residência. Ao realizarem a abordagem dos indivíduos que lá estavam, constataram que os pacientes haviam se associado aos menores [NOME] e [NOME], para juntos praticarem o tráfico de drogas, logrando êxito em apreender, com o paciente HENRIQUE, 29 buchas de maconha, além de 18 pedras de crack no bolso do menor W., 1 pino de cocaína com o menor [NOME] e 1 bucha de maconha próxima ao paciente ALAN PATRICK.
+A custódia foi convertida em prisão preventiva (e-STJ fls. 101/104) e os pacientes foram denunciados como incursos nos arts. 33, caput, 35 e 40, III e VI, todos da Lei n. 11.343/2006.
+Irresignada com o indeferimento do pedido de revogação da custódia cautelar, a defesa impetrou prévio writ alegando carência de fundamentação idônea do decreto constritivo.
+Contudo, em sessão de julgamento realizada no dia 1º de agosto de 2018, a Segunda Câmara Criminal do Tribunal a quo denegou a ordem, conforme evidencia a seguinte ementa (e-STJ fl. 160):
+HABEAS CORPUS - TRÁFICO E CORRUPÇÃO DE MENORES - PRISÃO PREVENTIVA - FUNDAMENTAÇÃO IDÔNEA - GARANTIA DA ORDEM PUBLICA - GRAVIDADE EM CONCRETO DA CONDUTA - TRAFICO PRATICO EM CONCURSO DE AGENTES - ENVOLVIMENTO DE MENOR NO CRIME. ORDEM DENEGADA.
+1. A imposição da prisão provisória e das medidas cautelares pessoais alternativas ao cárcere passou a estar condicionada à análise de três elementos: cabimento (art. 313, CPP), necessidade (art. 312, CPP)e adequação (arts. 282, 319 e 320. CPP).
+2. No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a gravidade concreta da conduta. e a maior periculosidade dos pacientes, na medida em que o crime de trafico foi praticado em concurso de agentes, valendo-se ainda do auxílio de adolescentes. Tocante ao paciente Alan, a apontada autoridade coatora ainda registrou que este responde a outra ação penal pela prática do delito de tráfico de drogas, o que reforça o risco a ordem pública, diante do risco de reiteração delitiva.
+3. Ordem denegada.
+Em 13/8/2018, a defesa interpôs o presente recurso alegando ausência de fundamentação idônea da decisão que decretou a custódia cautelar dos recorrentes.
+Aduz que são cabíveis opções menos gravosas que a prisão, elencadas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva, mediante ou não a imposição das medidas cautelares do art. 319 do Código de Processo Penal, expedindo-se imediatamente alvará de soltura em favor dos recorrentes.
+O pedido liminar foi indeferido (e-STJ fls. 202/205).
+Informações prestadas (e-STJ fls. 209/211 e 215/232).
+Parecer ministerial pelo desprovimento do recurso (e-STJ fls. 234/237).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem, no dia 24/9/2018, nos autos da Ação Penal n. 0013106-47.2017.8.08.0030, objeto do presente recurso, foi prolatada sentença para julgar procedente a denúncia e condenar os recorrentes, pela prática dos crimes previstos nos arts. 33, caput, 35, e 40, incisos III e IV, todos da Lei n. 11.343/2006, à pena total de 10 anos de reclusão, no regime inicial fechado. Foi-lhes negado o direito de recorrer em liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2016, DJe de 29/03/2016)
+Fica, portanto, sem objeto o pedido contido neste recurso, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
