@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ, o qual recebeu a seguinte ementa (e-STJ fl. 485):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. INCONFORMISMO ADSTRITO AO PLEITO DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ILEGITIMIDADE E FALTA DE INTERESSE DA PARTE POSTULAR EM NOME PRÓPRIO DIREITO SUBJETIVO DE SEU PATRONO. NÃO CONHECIMENTO DO RECURSO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA DO RELATOR. Apenas o advogado possui legitimidade e interesse para postular em sede recursal a condenação da outra parte ao pagamento da verba honorária ou sua majoração, sendo vedado a parte agir, em nome próprio para defender direito alheio. Direito autônomo do advogado. Ilegitimidade do réu para recorrer.
+Após a entrada em vigor do Novo Código de Processo Civil, é fundamental o rigor na verificação da legitimidade para postular tal verba a fim de evitar que a parte, atuando irregularmente na defesa de direito subjetivo de seu patrono, venha a suportar indevidamente custas da apelação, de eventual agravo interno, bem como seja condenada ao pagamento de honorários recursais ou a eventual de multa pela interposição de recursos protelatórios. Conhecimento e desprovimento do recurso.
+Nas razões do especial (e-STJ fls. 490/510), fundamentado pelo art. 105, III, "a", da CF, os recorrentes alegam ofensa ao art. 85, § 2º, do CPC/2015 e à Súmula n. 306 do STJ, sustentando, em síntese, a legitimidade concorrente da parte para impugnar os honorários sucumbenciais.
+Os recorridos não apresentaram contrarrazões (e-STJ fl. 571).
+É o relatório.
+Decido.
+A insurgência quanto ao à legitimidade para pleitear a majoração dos honorários advocatícios não pode ser sustentada apenas com base no art. 85, § 2º, do CPC/2015, o qual não regula a matéria. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além disso, o enunciado de súmula não se enquadra no conceito de lei federal, previsto na alínea "a" do permissivo constitucional. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO EX EMPTO. PRESCRIÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 458 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88. (..) 6. Agravo não provido.
+(AgRg no AREsp n. 363.347/DF, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 20/11/2013.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
