@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de recurso especial que envolve discussão a respeito das diferenças de correção monetária referente à expurgos inflacionários em depósitos de caderneta de poupança.
+Ocorre que o Supremo Tribunal Federal, em questão de ordem, julgada pelo Ministro Gilmar Mendes, nos autos do RE 632.212, na data de 6 de novembro do corrente ano, determinou a suspensão de todos os processos individuais ou coletivos, seja na fase de conhecimento, seja na fase de execução, que envolvam o tema referente a diferenças de correção monetária de expurgos inflacionários em depósitos de poupança.
+Na mesma toada, se observa, ainda, que o Plenário Virtual do Supremo Tribunal Federal já havia reconhecido, nos autos dos REs 626.307 e 591.797, a repercussão geral de referido tema.
+Em razão do acima decidido, a Segunda Seção do Superior Tribunal de Justiça, na sessão do dia 28 de novembro de 2018, em Questão de Ordem nos autos do REsp 1.361.869/SP, desta relatoria, deliberou por suspender todos os processos, individuais ou coletivos, na fase de conhecimento ou na fase de execução, que versem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 meses a contar de 5/2/2018, bem como para se aguarde os julgamentos dos REs 626.307 e 591.797, os quais orientarão as Cortes ordinárias na solução das aludidas ações.
+Por maioria, decidiu, ainda, a favor do encaminhamento às instâncias de origem de todos os processos relacionados ao tema que estejam nesta Corte, com a devida baixa.
+Nesse contexto, revogo o despacho de fl. 324 e determino a devolução dos presentes autos ao eg. Tribunal de origem onde o andamento ficará suspenso pelo prazo de 24 meses a contar de 5/2/2018, bem como para que se aguarde o julgamento dos REs 626.307 e 591.797, os quais orientarão as Cortes ordinárias na solução das aludidas ações.
+Dê-se a baixa imediata dos autos.
+Publique-se.
