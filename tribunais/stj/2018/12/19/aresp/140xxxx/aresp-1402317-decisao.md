@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. FASE DE CUMPRIMENTO DE SENTENÇA. 1. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. 2. FIXAÇÃO EXPRESSA DO VALOR PATRIMONIAL A SER ADOTADO. COISA JULGADA. ANÁLISE DO VALOR DA AÇÃO. SÚMULA N. 211 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Oi S.A. - em recuperação judicial desafiando decisão do Tribunal de Justiça do Rio Grande do Sul que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 141):
+AGRAVO DE INSTRUMENTO. BRASIL TELECOM. FASE DE CUMPRIMENTO DE SENTENÇA. FIXAÇÃO EXPRESSA, NA DECISÃO TRANSITADA EM JULGADO, DO VALOR PATRIMONIAL A SER ADOTADO. MODIFICAÇÃO QUE ATENTARIA CONTRA A COISA JULGADA. ARTS. 467, CPC, E 5º, XXXVI, CF. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 173-178).
+Nas razões do recurso especial, a recorrente alegou ofensa aos arts. 502, 503, 507, 509, § 4º, 525, § 1º, V, 805, 917, § 2º, I e 1.022, I, do NCPC; 389 e 884 do CC/2002; 121, 136, I, e 229, § 2º, da Lei n. 6.404/1976. Defendeu a utilização da cotação na data da primeira assembleia após a cisão, no valor de R$ 0,044209, para as ações da Celular CRT.
+Foram apresentadas contrarrazões (e-STJ, fls. 215-220).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência das Súmulas n. 211 do STJ e 284 do STF.
+Irresignada, a recorrente interpõe agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 265-270 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não se pode conhecer da apontada violação do art. 1.022 do CPC/2015, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS. BASE DE INCIDÊNCIA. VIOLAÇÃO À COISA JULGADA. SÚMULA 7/STJ. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. 2. A alteração das conclusões adotadas pela Corte de origem, acerca da base de incidência dos honorários advocatícios determinada no título exequendo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. 3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.376.617/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/8/2015, DJe 19/8/2015).
+No mais, o Tribunal estadual deixou assente que (e-STJ. fls. 141-145):
+Inicialmente, com relação ao valor patrimonial da ação a ser utilizado como divisor para a subscrição já foi decidido em definitivo, uma vez que o julgado o estabeleceu de modo expresso, e nenhum Juiz pode novamente decidir a respeito (art. 505 do NCPC). Basta uma leitura atenta do que consta nas fls. 90/95, do principal, que julgou, parcialmente improcedente os pedidos da empresa agravante.
+Assim, aqui se está diante do fenômeno da coisa julgada, pois a sentença objeto de cumprimento decidiu de modo expresso quanto a qual o valor patrimonial a ser adotado, restando apenas uma operação aritmética, sem que se possa discutir o que signifique o valor patrimonial da ação naquela data. Modificar esta solução atenta contra a coisa julgada, e viola o artigo 5º, inciso XXXVI, da Constituição Federal
+(..)
+Logo, não tem lugar a discussão sobre a quantidade de ações devidas, bem como seu valor patrimonial, porque já foram estipuladas desde a primeira ação.
+Portanto, descabe agora o discurso da agravante sobre os critérios de apuração da diferença acionária. Esta questão já foi superada.
+Diante do exposto, nego provimento ao presente recurso conforme fundamentação supra.
+Assim, observa-se que a questão relativa ao correto valor da ação na data da primeira assembleia após a cisão não foi examinada pela decisão recorrida, não obstante a interposição de embargos declaratórios, razão pela qual se faz presente o óbice da Súmula 211 do Superior Tribunal de Justiça. Em tais circunstâncias, poder-se-ia cogitar de ofensa ao art. 1.022 do Novo Código de Processo Civil (535 do CPC/1973), contudo, tal alegação foi realizada de modo deficiente, conforme já referido acima.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
