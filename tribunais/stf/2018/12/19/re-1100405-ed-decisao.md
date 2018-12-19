@@ -1,0 +1,17 @@
+Decisão: Trata-se de embargos declaratórios opostos em 15.10.2018 em face de decisão monocrática em que neguei seguimento ao recurso conforme o art. 21, §1º, do RISTF, e determinei a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF, unicamente quanto à inclusão do ISS na base de cálculo das contribuições.
+    Nas razões recursais, a parte embargante requer o recebimento dos embargos alegando omissão no que diz respeito ao pedido de exclusão do ICMS e do ISS da base de cálculo da Contribuição Previdenciária sobre Receita Bruta instituída pela Lei nº 12.546/11.
+    A parte embargada apresentou manifestação (eDOC 16).
+    É o relatório. Decido.
+    Nos termos do art. 1.024, §2º, do CPC/15, Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.
+    Sendo assim, reputo não assistir razão à parte embargante uma vez que a decisão ora embargada versa sobre a repercussão geral do tema em questão, bem como acerca da jurisprudência deste tribunal diante de tal controvérsia. Neste sentido, veja-se (eDOC 07):
+    “Logo, ressalvada minha ótica pessoal, a compreensão iterativa é no sentido de excluir os valores pagos a título de ICMS nas bases de cálculo da contribuição substitutiva (…) Igualmente, discussão semelhante ocorre em relação ao ISS no Tema 118 da sistemática da repercussão geral, cujo paradigma é o RE-RG 592.616, de relatoria atual do Ministro Celso de Mello, DJe 24.10.2008, assim ementado: “DIREITO TRIBUTÁRIO. ISS. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. CONCEITO DE FATURAMENTO. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Nos termos do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material. Na hipótese, não se constata nenhum dos vícios elencados, de modo que inexiste vício a ser sanada.
+    Na verdade, observa-se nítido caráter infringente nas alegações recursais, porquanto se busca a revisão da decisão embargada. Isto porque, conforme consignado na decisão impugnada, na petição recursal não se indicou o dispositivo constitucional que teria sido violado, o que atrai a incidência da Súmula 284. Ademais, ainda que superado o referido óbice, não mereceria prosperar o recurso extraordinário, visto que, para se chegar à conclusão diversa da assentada pelo Tribunal a quo, seria imprescindível o exame das provas dos autos e da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF.
+    No caso, o Supremo Tribunal Federal possui entendimento reiterado no sentido de que os embargos de declaração não se prestam à rediscussão do assentado no julgado, em decorrência de inconformismo da parte Embargante. Confiram com os seguintes julgamentos: ARE 906.026 AgR-ED, rel. Min. Cármen Lúcia, DJe 03.11.2015; AI 768.149 AgR-ED, rel. Min. Teori Zavascki, DJe 05.11.2015; Recl 20.061 AgR-ED-ED, rel. Min. Luiz Fux, DJe 28.10.2015.
+    Ante o exposto, com fundamento no art. 1.024, § 2º, do CPC, rejeito os embargos de declaração.
+    Ademais, aplico multa de 2% sobre o valor atualizado da causa, com base no art. 1.026, § 2º, do CPC.
+    Publique-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
