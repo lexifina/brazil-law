@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por JOSÉ OVÍDIO RODRIGUES contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 446, e-STJ):
+APELAÇÃO CÍVEL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PEDIDO PREJUDICADO. RECURSO ADESIVO. AÇÃO MONITÓRIA. CONTRATO DE SEGURO - GARANTIA. SUB-ROGAÇÃO DA SEGURADORA.
+Restando comprovado nos autos que a seguradora alcançou ao segurado o valor necessário à conclusão da obra no imóvel, entregue inacabados, é obrigação da tomadora contratante do seguro o ressarcimento dos valores despendidos por ela a titulo de indenização.
+RECURSO ADESIVO PROVIDO, EXAME DA APELAÇÃO PREJUDICADO. UNÂNIME.
+Opostos embargos de declaração, esses foram rejeitados (fls. 464/470, e-STJ).
+Em suas razões de recurso especial (fls. 473/486, e-STJ), o recorrente aponta violação ao art. 1.022, inc. II, do Código de Processo Civil de 2015 (antigo art. 535 do CPC/1973).
+Sustenta a existência de omissão e negativa de prestação jurisdicional no acórdão recorrido, quanto à análise da tese defensiva baseada na prova técnica acostada aos autos. Defende que não foi observado o laudo pericial, o qual atestou que os reparos realizados pela ora recorrida e os materiais utilizados, não estão de acordo com o memorial descritivo do apartamento. Afirma, também, que não restaram comprovadas as despesas efetivamente dispendidas.
+Contrarrazões às fls. 494/502, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da inexistência de violação ao art. 1.002, inc. II, do CPC/2015, eis que suficiente a fundamentação do acórdão recorrido.
+Daí o agravo (fls. 511/523, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 527/531, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, no tocante à aventada violação ao art. 1.022, inc. II, do CPC/2015, aduz a parte recorrente que, apesar da oposição dos embargos de declaração, o Tribunal de origem teria deixado de se manifestar sobre o análise da tese defensiva baseada na prova técnica acostada aos autos. Defende que não foi observado o laudo pericial, o qual atestou que os reparos realizados pela ora recorrida e os materiais utilizados, não estão de acordo com o memorial descritivo do apartamento. Afirma, também, que não restaram comprovadas as despesas efetivamente dispendidas.
+Contudo, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. Destaque-se, por oportuno, que a matéria apontada como omitida - análise da prova técnica, atestando que os materiais utilizados pela seguradora estavam em desacordo com o memorial descritivo do imóvel, bem como que não há prova dos custos efetivos dispendidos pela seguradora - foram objeto de expressa manifestação pelo Tribunal de origem, consoante se denota do seguinte excerto retirado do acórdão recorrido (fls. 451/453, e-STJ):
+Consoante de afere dos autos, em razão da contratação de apólice de seguro de fls. 11-27, a seguradora demandante se comprometeu a garantir a indenização do segurado [NOME], pelos prejuízos decorrentes do inadimplemento do contrato de compra e venda de imóvel (na planta) celebrado por este com a empresa ESBEL EMPRESA SUL BRASILEIRA DE ENGENHARIA (tomador). O recorrido adesivo figurou como fiador na relação contratual.
+Tendo em vista o inadimplemento contratual da empresa que figurou como tomadora, a parte autora restou acionada pelo segurado e obrigada ao pagamento de indenização nos termos da apólice celebrada.
+Diante de tais circunstâncias e, tendo em vista a sub-rogação havida nos direitos do segurado, pretende a parte autora cobrar da parte ré, na qualidade de fiador, o ressarcimento dos valores despendidos, qual seja, R$ 263.091,76.
+Não há controvérsia nos autos quanto à existência da contratação do seguro e, tampouco, quanto ao fato de que o imóvel adquirido pelo segurado foi entregue pela empresa tomadora em desacordo com o memorial descritivo da obra.
+A tese aventada pela parte ré é de que a seguradora demandante não demonstrou nos autos os prejuízos efetivamente sofridos pelo segurado em razão do inadimplemento do tomador. Aduz o demandado que não fora notificado a comparecer à vistoria realizada no imóvel e que resultou no laudo acostado às fls. 30-56.
+Todavia, a análise das cláusulas contratuais da apólice de seguro revela que a sub-rogação da seguradora nos direitos do segurado, para haver do tomador toda e qualquer despesa ou pagamento decorrente da apólice ocorreria de forma automática (cláusula 6º, fl. 22).
+Veja-se que o contrato não faz qualquer ressalva quanto à necessidade de notificação prévia do tomador quando da apuração do valor da indenização pleiteada pelo segurado.
+Ao invés, a cláusula 10º (f1.24) prevê que o tomador não exigirá da seguradora nenhuma protelação no pagamento do débito que for apresentado pelo segurado, senão vejamos: (..).
+Como se vê, era defeso à seguradora qualquer discussão acerca da certeza ou liquidez da dívida. Ou seja, uma vez apurado o montante devido em razão do inadimplemento contratual do tomador, era dever da seguradora alcançar ao segurado a quantia pleiteada.
+Além disso, a parte ré não logrou êxito em demonstrar que a não participação da regulação do sinistro lhe acarretou prejuízo.
+Aduza-se que a perícia judicial de fls. 277-281 confirma que o imóvel vendido pela empresa tomadora foi entregue ao segurado inacabado.
+Observa-se que o laudo esclarece que os preços apurados pela autora estavam de acordo com o preço de mercado.
+A alegação da parte ré de que os materiais utilizados e que os reparos realizados não estão condizentes com o memorial descritivo do apartamento não tem o alcance por ele pretendido. Isso porque uma vez alcançado ao segurado o valor da indenização que faz jus, poderá ele destinar o valor da forma que melhor convir.
+Destarte, restando comprovado nos autos que a seguradora alcançou ao segurado o valor necessário à conclusão da obra no imóvel que lhe foi entregue inacabado, é obrigação do tomador o ressarcimento dos valores despedidas a título de indenização.
+Pelo exposto, o voto é pelo provimento do recurso adesivo para o fim de julgar improcedentes os embargos à monitória e constituir em favor da parte autora, título executivo, nos termos do art. 1.102c do CPC/73 no valor despendido pela seguradora (R$ 263.091,76), corrigido pelo IGP-M desde a data do pagamento, ou seja, 02.04.2004 e acrescido de juros de mora de 1% ao mês a contar da citação. Com isso, resta prejudicado o exame do apelo.
+Portanto, ainda que contrário a pretensão recursal, não há falar em omissão, tampouco em nulidade do aresto recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVIBILIDADE DE ANÁLISE DE OFENSA À NORMA CONSTITUCIONAL EM SEDE DE ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Refoge à competência do STJ, a quem a Carta Política (art. 105, III) confia a missão de unificação do direito federal, apreciar violação de dispositivo constitucional.
+2. Não há falar em violação dos arts. 489 e 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+3. De acordo com a jurisprudência desta Corte, o vício de nulidade de intimação se trata de nulidade relativa, a qual deve ser alegada na primeira oportunidade que a parte tiver para falar nos autos, sob pena de preclusão. Precedentes.
+4. O Tribunal de origem consigna a existência de litigância de má-fé por parte da recorrente, bem como estipula o montante da multa correspondente. A reforma do aresto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1280673/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018) (grifou-se)
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, a ser suportado exclusivamente pela parte recorrente, observadas as regras da gratuidade da justiça.
+Publique-se.
+Intimem-se.
