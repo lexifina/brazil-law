@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte (fl. 176, e-STJ):
+PROCESSUAL CIVIL. APELAÇÃO. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. QUALIDADE DE SEGURADO. DEPENDÊNCIA ECONÔMICA. COMPROVAÇÃO. ÚLTIMA REMUNERAÇÃO. PORTARIA MPS Nº 13/2015. INEXISTÊNCIA DE BAIXA RENDA. APELAÇÃO DO INSS À QUAL SE DÁ PROVIMENTO. SENTENÇA REFORMADA. AÇÃO JULGADA IMPROCEDENTE. INVERSÃO DAS VERBAS DE SUCUMBÊNCIA. DEVER DE PAGAMENTO SUSPENSO. GRATUIDADE DA JUSTIÇA.
+1 - Não há de se conhecer da remessa necessária, nos termos do artigo 496, § 3º, inciso I, do CPC/2015.
+2 - O benefício previdenciário de auxílio-reclusão "será devido, nas mesmas condições da pensão por morte, aos dependentes do segurado recolhido à prisão que não receber remuneração da empresa nem estiver em gozo de auxílio-doença, de aposentadoria ou de abono de permanência em serviço" (art. 80, Lei nº 8.213/91).
+3 - Os critérios para a concessão do beneplácito estão disciplinados nos artigos 116 a 119 do Decreto nº 3.048/99, que aprovou o Regulamento da Previdência Social.
+4 - O benefício independe de carência, sendo percuciente para sua concessão: a) recolhimento à prisão do segurado; b) manutenção da qualidade de segurado do recluso; c) baixa renda do segurado; e d) dependência econômica do postulante.
+5 - A comprovação da privação de liberdade, que deve ser em regime fechado ou semiaberto, dar-se-á por meio de certidão do efetivo recolhimento à prisão firmada pela autoridade competente, a ser apresentada trimestral mente.
+6 - A manutenção da qualidade de segurado se dá, mesmo sem recolher as contribuições, àquele que conservar todos os direitos perante a Previdência Social durante um lapso variável, a que a doutrina denominou "período de graça", conforme o tipo de filiado e a sua situação, nos termos do art. 15 da Lei nº 8.213/91, podendo tal lapso de graça ser prorrogado por 24 (vinte e quatro) meses aos que contribuíram por mais de 120 (cento e vinte) meses, nos termos do §1º do mencionado artigo.
+7 - Acerca do requisito da" baixa renda, decidiu o STF em sede de repercussão geral, que "a renda do segurado preso é que a deve ser utilizada como parâmetro para a concessão do beneficio e não a de seus dependentes" (RE 587365, Rel. Min. Ricardo Lewandowlski, j. 25/03/2009, DJE 08/05/2009).
+8 - Desta forma, considera-se baixa renda aquela de valor bruto mensal igual ou inferior ao limite legal, considerado o último salário -de - contribuição percebido pelo segurado à época da sua prisão.
+9 - Originalmente, o limite legal foi fixado em R$ 360,00, pela EC nº 20/98, sendo, atualmente, corrigido pelo Ministério da Previdência Social pelos mesmos índices aplicados aos benefícios do regime geral de previdência social.
+10 - A circunstância de o segurado encontrar-se desempregado no momento do recolhimento não enseja, automaticamente, a concessão do benefício, eis que o requisito da baixa renda deve ser aferido comparando-se o último salário percebido pelo recluso e o limite legal vigente à época, e analisando-se todo o conjunto probatório, sobretudo, o tempo de desemprego.
+11 - O recolhimento à prisão foi em 21/08/2015 (fl. 31). A última remuneração integral do segurado, antes de seu encarceramento, correspondeu a R$ 1.145,47 (08/2015), conforme extrato do CNIS - anexo a este voto - acima, portanto, do limite imposto pela Administração na Portaria MPS nº 13/2015, que era de R$ 1.089,72, de modo que não fazem jus os autores ao benefício postulado.
+12 - Apelação do INSS provida. Sentença reformada. Ação julgada improcedente. Inversão dos ônus de sucumbência, com suspensão de efeitos.
+Os recorrentes, nas razões do Recurso Especial, alegam que ocorreu divergência jurisprudencial quanto à correta aplicação dos arts. 80 da Lei 8.213/1990 e 116 do Decreto 3.048/1999, referentes ao requisito da baixa renda para fazer jus ao benefício de auxílio-reclusão. Sustentam a possibilidade de flexibilização do critério econômico para a concessão do benefício, quando se observa a necessidade de garantir a proteção social dos dependentes do segurado.
+Sem contrarrazões.
+Decisão de admissibilidade do recurso às fls. 221-222, e-STJ.
+Parecer do Ministério Público Federal às fls. 232-235, e-STJ, opinando pelo provimento do recurso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.8.2018.
+Merece prosperar a irresignação.
+Na hipótese dos autos, o Tribunal de origem concluiu que os recorrentes preencheram todos os requisitos para a concessão do auxílio-reclusão, exceto o de baixa renda, motivo pelo qual reformou a sentença de primeiro grau que havia concedido o benefício aos autores. Consignou que "a última remuneração integral do segurado, antes de seu encarceramento, correspondeu a R$ 1.145,47, acima, portanto, do limites imposto pela Administração na Portaria MPS 13/2015, que era de R$ 1.089,72" (fl. 169, e-STJ).
+Consoante a jurisprudência do Superior Tribunal de Justiça, é cabível a flexibilização do critério econômico para deferimento do benefício de auxílio-reclusão, ainda que o salário de contribuição do segurado supere o montante legalmente fixado como critério de baixa renda, quando for necessária a proteção social dos dependentes do segurado, como no caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO ABSOLUTO PREVISTO NA LEGISLAÇÃO PREVIDENCIÁRIA. PREVALÊNCIA DA FINALIDADE DE PROTEÇÃO SOCIAL DA PREVIDÊNCIA SOCIAL. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. A afetação de tema pelo Superior Tribunal de Justiça como representativo da controvérsia, nos termos do art. 543-C do CPC, não impõe o sobrestamento dos recursos especiais que tratem de matéria afetada, aplicando-se somente aos tribunais de segunda instância.
+2. O benefício de auxílio-reclusão destina-se diretamente aos dependentes de segurado que contribuía para a Previdência Social no momento de sua reclusão, equiparável à pensão por morte; visa a prover o sustento dos dependentes, protegendo-os nesse estado de necessidade.
+3. À semelhança do entendimento firmado por esta Corte, no julgamento do Recurso Especial 1.112.557/MG, Representativo da Controvérsia, onde se reconheceu a possibilidade de flexibilização do critério econômico definido legalmente para a concessão do Benefício Assistencial de Prestação Continuada, previsto na LOAS, é possível a concessão do auxílio-reclusão quando o caso concreto revela a necessidade de proteção social, permitindo ao Julgador a flexiblização do critério econômico para deferimento do benefício, ainda que o salário de contribuição do segurado supere o valor legalmente fixado como critério de baixa renda.
+4. No caso dos autos, o limite de renda fixado pela Portaria Interministerial, vigente no momento de reclusão da segurada, para definir o Segurado de baixa-renda era de R$ 623,44, ao passo que, de acordo com os registros do CNIS, a renda mensal da segurada era de R$ 650,00, superior aquele limite
+5. Nestas condições, é possível a flexibilização da análise do requisito de renda do instituidor do benefício, devendo ser mantida a procedência do pedido, reconhecida nas instâncias ordinárias.
+6. Agravo Regimental do INSS desprovido.
+(AgRg no REsp 1523797/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/10/2015, DJe 13/10/2015)
+In casu, considerando que a remuneração habitual do segurado ultrapassou o limite legal em valor ínfimo e a natureza social do benefício, entende-se pela viabilidade do pedido.
+Diante do exposto, em consonância com o parecer ministerial, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
