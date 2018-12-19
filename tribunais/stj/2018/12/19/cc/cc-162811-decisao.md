@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado pelo JUÍZO FEDERAL DA 2ª VARA DE CURITIBA, ora suscitante, e o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, ora suscitado.
+De acordo com os autos, [NOME] ajuizou ação contra a Faculdade Vizinhança do Vale Iguaçu - VIZIVALI, o IESDE Brasil S/A e o Estado do Paraná, requerendo a condenação dos requeridos ao pagamento de indenização por danos morais e materiais, decorrentes da ausência de entrega de diploma de programa de capacitação.
+A ação foi originariamente proposta perante a Justiça Estadual, tendo o Tribunal de Justiça do Estado do Paraná, no julgamento da Apelação, reconhecido sua incompetência para o julgamento do feito e remetido os autos para a Justiça Federal.
+Na Justiça Federal, foi declarada a sua incompetência absoluta para processar e julgar o feito, sob o fundamento de que a própria União se manifestou no sentido de que ser parte ilegítima, suscitando-se o presente Conflito de Competência.
+Conheço do Conflito, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, a teor do que preceitua o art. 105, I, d, da Constituição da República.
+Nos termos do art. 109, I, da Constituição Federal, compete aos juízes federais processar e julgar "as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+Sobre o tema o Superior Tribunal de Justiça possui jurisprudência no sentido de que "a competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, é fixada, em regra, em razão da pessoa (competência ratione personae), levando-se em conta não a natureza da lide, mas, sim, a identidade das partes na relação processual" (STJ, CC 105.196/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 22/02/2010).
+No caso dos autos, conforme relatado, a Justiça Federal assentou a ilegitimidade passiva da UNIÃO. Assim, inexistindo manifestação recursal contra tal decisão, é o caso de ser declarada a competência da Justiça Estadual para o julgamento da demanda, nos termos das Súmulas 150, 224 e 254/STJ, que assim prescrevem:
+"Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública" (Súmula 150/STJ);
+"Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito" (Súmula 224/STJ); e
+"A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual" (Súmula 254/STJ).
+Assim, não figurando como parte nenhuma das entidades citadas no art. 109, I, "a", da Constituição Federal, compete à Justiça Estadual o julgamento do feito.
+Ante o exposto, conheço do Conflito para declarar competente o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, suscitado, para o processamento do feito.
+I.
