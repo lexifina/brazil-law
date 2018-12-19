@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por BERKLEY INTERNATIONAL DO BRASIL SEGUROS S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 576, e-STJ):
+Seguro de equipamento. Ação de cobrança. Furto do bem segurado. Boletim de ocorrência que faz referência ao rompimento de cadeado. Perícia não realizada por equívoco da autoridade policial.
+Crime reportado que, por sua natureza, deixava vestígio, tratando-se de furto qualificado. Segurado que não pode ser prejudicado por tal fato.
+Ônus da seguradora em demonstrar que se tratava de risco excluído.
+Indenização devida. Procedência parcial da ação. Sentença mantida.
+Recurso improvido.
+Em suas razões de recurso especial (fls. 581/603, e-STJ), a parte recorrente aponta violação aos arts. 757, 760 do Código Civil; e 6º, inc. III, do Código de Defesa do Consumidor, sob os seguintes argumentos, em síntese: a) que a relação entre as partes é de natureza civil, não podendo ser aplicado o Código de Defesa do Consumidor no caso dos autos; b) inexisti nos autos prova capaz de comprovar que o tipo penal do sinistro se enquadre no furto qualificado, visto que não foi realizada perícia pela autoridade policial no local do crime; e c) correta conduta da recorrente ao negar o pagamento da indenização securitária, uma vez que o sinistro tratado nos autos, furto simples, não é risco coberto pela apólice contratada, havendo o enriquecimento ilícito do recorrido com o recebimento da indenização securitária.
+Contrarrazões às fls. 610/616, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) incidência do óbice recursal da Súmula 282/STF, ante a falta do prequestionamento da matéria tratada no art. 6º, incs. III e VIII, do CDC; e b) o acolhimento da pretensão recursal demandaria o reexame do suporte fático dos autos, atraindo a incidência das Súmulas 05 e 07 do STJ.
+Daí o agravo (fls. 621/641, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 644/650, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, no que tange à apontada afronta ao art. 6º, incs. III e VIII, do CDC, constata-se que a tese jurídica, relativa à natureza civil da relação jurídica entre as partes, para efeito de afastar aplicação do Código de Defesa do Consumidor à espécie, não foi apreciada pelo Tribunal de origem, não podendo, portanto, ser analisada por esta Corte Superior a mencionada contrariedade.
+Assim, tem-se que perquirir nessa via estreita sobre violação da referida norma, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Ao ensejo, confira-se o teor do enunciado 282 da Súmula do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+2. No mais, cinge-se a pretensão recursal à verificação acerca do cabimento do pagamento de indenização, em face do sinistro estar incluído nas hipóteses de exclusão da cobertura securitária.
+O Tribunal de origem, contudo, ao analisar os elementos fáticos e probatórios dos autos, eminentemente, o contrato de seguro entabulado entre as partes, concluiu que, "restando incontroversa a existência do furto, e não tendo a seguradora demonstrado que se tratava de hipótese de risco excluído, afigura-se indevida a negativa da cobertura securitária, mesmo porque restou demonstrado pela descrição do sinistro que houve rompimento de obstáculo para concluir o furto, o que evidencia a qualificadora, sendo o risco coberto pela apólice", pronunciando-se nos seguintes termos (fls. 577/578, e-STJ):
+Em que pese a impropriedade na tipificação da natureza do crime lançada no boletim de ocorrência de fls. 124/125, é certo que o autor narrou, já naquela oportunidade, que "constatou que o cadeado foi estourado" para a conclusão do furto, de modo que restava caracterizada a qualificadora pelo rompimento de obstáculo, hipótese coberta pela apólice em comento.
+Tal equívoco somente foi retificado cerca de um ano e meio depois, quando lavrado o adendo de fls. 303/304, de modo que a não realização da perícia, mesmo em se tratando de crime material que deixava vestígios, se deu por culpa exclusiva da autoridade policial, não podendo o segurado ser prejudicado por tal desídia, mesmo porque a apólice sequer impõe tal perícia para a constatação do furto qualificado.
+Em verdade, o que a apólice faz é elencar entre os riscos excluídos o "furto simples sem emprego de violência e que não tenha deixado vestígio" (cf. cláusula 4.1, x - fls. 199), cuja caracterização haveria de ser comprovada pela seguradora, independentemente de qualquer discussão acerca da aplicação do Código de Defesa do Consumidor ao caso.
+Uma vez que o contrato de seguro tinha cobertura expressa para furto (cláusula 1.1 - fls. 222), ocorrido o sinistro, cabe à seguradora demonstrar que ele estava inserido nos casos de exclusão de risco, o que não ocorreu no caso em apreço, cabendo destacar que o bem estava guardado em garagem dotada de portão e cadeado, o qual o autor afirma ter sido estourado no momento do furto.
+Nessa conformidade, restando incontroversa a existência do furto, e não tendo a seguradora demonstrado que se tratava de hipótese de risco excluído, afigura-se indevida a negativa da cobertura securitária, mesmo porque restou demonstrado pela descrição do sinistro que houve rompimento de obstáculo para concluir o furto, o que evidencia a qualificadora, sendo o risco coberto pela apólice.
+Correta, pois, a respeitável sentença recorrida, que fica mantida em todos os seus termos.
+Assim, rever o entendimento do Tribunal de origem - quanto à ocorrência do sinistro, bem como, o dever de indenizar - demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice das Súmulas 05 e 07 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VEÍCULO. INDENIZAÇÃO. PREVISÃO NA APÓLICE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido sobre o dever da seguradora de pagar a indenização contratada, nos limites da apólice, do veículo segurado, decorreu da análise dos elementos fático - probatório dos autos, e interpretação de cláusulas contratuais, não sendo possível, em sede de recurso especial alterar o entendimento da Corte Estadual, em razão do óbice das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1126997/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/04/2018, DJe 30/04/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - SEGURO EMPRESARIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE DEMANDANTE.
+1. A análise dos fundamentos que ensejaram o indeferimento o pedido indenizatório, com amparo na ausência de previsão contratual de cobertura securitária para os danos alegado, exige o reexame probatório dos autos e a análise de cláusulas contratuais, o que se revela inviável por esta via especial, ante os óbices dos enunciados das Súmulas 5 e 7 desta Corte.
+2. Agravo interno desprovido.
+(AgInt no AREsp 826.100/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/06/2017, DJe 12/06/2017)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, a ser suportado exclusivamente pela parte recorrente, observadas as regras da gratuidade da justiça.
+Publique-se.
+Intimem-se.
