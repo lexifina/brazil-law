@@ -1,0 +1,21 @@
+EMENTA
+RECURSO ESPECIAL ADESIVO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. AFRONTA A DISPOSITIVO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ASTREINTES. REEXAME DO VALOR FIXADO. SÚMULA Nº 7/STJ. RECURSO ESPECIAL ADESIVO NÃO PROVIDO.
+1. A análise de suposta afronta a dispositivos da Constituição Federal é competência do Supremo Tribunal Federal - arts. 102, III, e 105, III, da CF/88.
+2. A pretensão de modificar o valor fixado a título de astreintes esbarra na Súmula nº 7/STJ, salvo se manifestamente irrisório ou exorbitante, hipótese não configurada na espécie.
+3. Recurso especial adesivo não provido.
+DECISÃO
+1. Cuida-se de recurso especial adesivo - fls. 871-882 interposto por MIRIAN LOPES DA FONSECA com fundamento no art. 105, III, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+AGRAVO DE INSTRUMENTO. ASTREINTES. DESCUMPRIMENTO VOLUNTÁRIO. REVOGAÇÃO POR SENTENÇA DE IMPROCEDÊNCIA. ACÓRDÃO POSTERIOR PELA PROCEDÊNCIA DO PEDIDO. RESTABELECIMENTO DOS EFEITOS DA LIMINAR. EXIGIBILIDADE DA MULTA DURANTE O PERÍODO DO SEU NÃO CUMPRIMENTO. DESPROVIMENTO DO RECURSO.
+- Havendo revogação de liminar que fixou astreintes por sentença que julgou improcedente a demanda e que, posteriormente, teve seus efeitos restabelecidos por acórdão que reconheceu corno procedente o pedido formulado na inicial, é devida a multa cominatória durante o lapso temporal de seu descumprimento voluntário, ou seja, entre o período da liminar deferida e a prolação da sentença.
+- "A tutela antecipada que tenha sido revogada pela decisão final de primeira instância, restabelecida pelo Tribunal, está sujeita à execução, se não tiver sido cumprida no prazo estabelecido." (AI nº 1.0024.01.008535-5/001(1). Rei. Des. Elias Camilo. J. em 14/10/2008).
+Embargos de declaração rejeitados.
+Em suas razões recursais, aponta a recorrente afronta ao art. 5º, XXXVI, da CF, arts. 131, 461, § 5º, 467 e 474 do CPC/73, art. 6º, caput e § 3º, da LINDB e art. 884 do Código Civil, sustentando que deve ser mantida em R$ 500 diários a multa cominatória, por atender à equidade e à justiça do caso.
+É o relatório.
+DECIDO.
+2. Não conheço da apontada violação aos arts. 5º, XXXVI, da Constituição Federal, porquanto a análise de afronta às disposições constitucionais foge da competência do STJ, estando ausente o requisito de "contrariar tratado ou lei federal" contido na alínea "a" do permissivo constitucional, impedindo a sua análise em sede de recurso especial, por competir a matéria unicamente ao STF, nos termos dos arts. 102, III, e 105, III, da CF/88.
+3. Quanto aos demais dispositivos legais, todos atinentes à multa cominatória, o entendimento do STJ é firme no sentido de impossibilidade de exame, ante o óbice da Súmula nº 7/STJ, salvo, excepcionalmente, hipótese manifesta de exorbitância ou irrisoriedade.
+Nesse sentido, exemplificativamente, os seguintes julgados: AgRg no AREsp 841.827/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 27/05/2016; AgRg no AREsp 437.760/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 30/06/2016; REsp 1601576/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/06/2016, DJe 22/06/2016; AgRg no REsp 1406431/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/05/2016, DJe 27/05/2016; AgRg no AREsp 786.641/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/05/2016, DJe 12/05/2016; AgRg nos EDcl no AREsp 802.247/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/03/2016, DJe 04/04/2016.
+No presente caso, em sede de ação de obrigação de fazer c/c indenizatória, foi a antecipação dos efeitos da tutela concedida em sentença, sendo fixada multa cominatória em R$ 500,00 diários, atingindo o montante de R$ 186.228,38, valor que, em sede de impugnação ao cumprimento de sentença, foi reduzido para o total de R$ 3.420,00 - fls. 823.
+Assim, nos termos da jurisprudência do STJ, por não se tratar de astreintes em valor irrisório ou exorbitante, a revisão do quantum fixado esbarra no óbice da Súmula nº 7/STJ.
+4. Ante o exposto, nego provimento ao recurso especial adesivo de MIRIAN LOPES DA FONSECA - fls. 871-882.
+Publique-se. Intimem-se.
