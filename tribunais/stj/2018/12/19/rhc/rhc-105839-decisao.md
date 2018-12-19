@@ -1,0 +1,34 @@
+DECISÃO
+ Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou o writ na origem, conforme a seguinte ementa (fl. 34):
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONVERSÃO. DE PRISÃO EM FLAGRANTE EM PREVENTIVA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RISCO CONCRETO À ORDEM PÚBLICA.
+Cuida-se o tráfico de drogas de crime grave. E a repercussão social dele decorrente, quer no âmbito da saúde pública, quer na esfera da criminalidade - potencializada pelo uso e pelo comércio de substâncias entorpecentes - está a evidenciar concreto risco à ordem pública a tornar necessária a prisão preventiva e obstar a aplicação das medidas cautelares a que alude o art. 319 do Código de Processo Penal.
+Segregação cautelar devidamente fundamentada, fundada nas circunstâncias em que se deu a prisão, restando apreendida vultosa quantidade de maconha em poder do paciente (aproximadamente 661,52g).
+ORDEM DENEGADA, POR MAIORIA.
+O recorrente requer, em suma, a revogação da prisão preventiva ou, subsidiariamente, que sejam aplicadas as medidas alternativas à prisão previstas no art. 319 do Código de Processo Penal, sob a alegação da desproporcionalidade da medida cautelar, negativa de autoria e ausência dos requisitos autorizadores dessa segregação cautelar elencados no art. 312 do Código de Processo Penal.
+Ele foi preso em flagrante pela prática do crime de tráfico de drogas, tipificado no art. 33 da Lei n. 11.343/2006.
+A liminar foi indeferida.
+Informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+Na origem, processo n. .0005482-34.2018.8.21.0002 encontra-se com audiência de instrução e julgamento realizada, sendo que o Ministério Público pediu vistas para análise do pedido de revogação da prisão preventiva, conforme informações processuais eletrônicas disponíveis no site do Tribunal estadual em 13/12/2018.
+É o relatório.
+DECIDO.
+A desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto de prisão preventiva restou assim fundamentado (fl. 125 - com destaque):
+ .. .Quanto ao fundamento da prisão cautelar, há que se fazer as seguintes considerações.
+No caso dos autos, a prisão em flagrante teve por fundamento a prática, em tese, do delito previsto no art. 33 da Lei nº 11.343/06, vale dizer, tráfico de entorpecentes.
+A ação concreta mostra que o flagrado [NOME] foi preso com um tijolo de maconha, pesando 661,52 gramas, quantidade considerável de droga, sendo que a soltura do flagrado [NOME], poderá estimulá-lo à persistência na prática ilícita.
+Ademais, a tentativa de entrada de drogas na cidade de Alegrete por meio de transporte público vem se tornando uma prática corriqueira já em meses anteriores foi realizada prisão de outras pessoas trazendo drogas para cidade na linha da empresa Planalto.
+Assim, diante da gravidade do delito e das circunstâncias acima citadas, mostra-se necessária a decretação da prisão preventiva do flagrado [NOME].
+Destarte, as medidas cautelares diversas da prisão, previstas no art. 319 do CPP, não se revelam aptas, neste momento processual, para impedir a reiteração delitiva, haja vista que o delito de tráfico de drogas influencia na prática de outros delitos, conforme acima já referido.
+Do mesmo modo, o indeferimento da revogação da prisão preventiva foi assim fundamentado (fls. 80/81 - com destaque):
+ ..  Ademais, a prisão preventiva do acusado [NOME] restou fundamentada na gravidade do delito, já que no dia dos fatos os acusados [NOME] e [NOME] teriam sido flagrados pelos policiais militares, logo após descerem do ônibus da linha Planalto, o qual vinha de Porto Alegre via Santa Maria/RS, com quantidade considerável de entorpecentes, já que foi apreendido com [NOME], em sua mochila, 661g (seiscentos e sessenta e um gramas) de cannabis sativa (maconha), bem como a quantia de R$ 70,00 (setenta reais) em moeda corrente nacional e dois aparelhos celulares, conforme autos de apreensão de fl. 09.
+Curial salientar que a quantidade expressiva de maconha apreendida afasta, em princípio, a posse para o consumo.
+Ademais, reitera-se que a tentativa de entrada de drogas na cidade de Alegrete por meio de transporte público vem se tornando uma prática corriqueira, uma vez que é comum prisões de outras pessoas trazendo drogas para cidade na linha da empresa Planalto.  ..
+Como se vê, constam na decisão que decretou a prisão preventiva circunstâncias fáticas que demonstram a gravidade concreta do crime, em face da expressiva quantidade de drogas apreendidas, tratando-se de 661g de maconha, o que constitui base empírica idônea à decretação da custódia preventiva.
+ Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
