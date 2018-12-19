@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, desafiando o acórdão de e-STJ fls. 218/224.
+Embargos de declaração rejeitados (e-STJ fls. 237/240).
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação dos arts. 3º, I, "b", 9º e 45 da Lei n. 11.445/2007; do art. 9º do Decreto n. 7.217/2010; e do art. 535, II, do CPC/1973.
+Alegou, em síntese, que o caso discutido se subsume àquele decidido no recurso repetitivo n. 1.339.313/RJ (Tema n. 565 do STJ), do qual teria divergido o acórdão recorrido. Além disso, aduziu que a responsabilidade pela instalação de hidrômetro é do proprietário do imóvel.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo.
+Contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, observa-se que a matéria em debate foi examinada pela sistemática dos recursos repetitivos, a partir do julgamento do REsp 1.339.313/RJ (Tema n. 565), no qual foi firmada a tese de que a legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos, principalmente porque não estabelece que o serviço público de esgotamento sanitário somente existirá quando todas as etapas forem efetivadas, tampouco proíbe a cobrança da tarifa pela prestação de uma só ou de algumas dessas atividades.
+Nos termos do art. 543-C, § 7º, II, c/c o § 8º do CPC/1973, uma vez publicado o acórdão do Superior Tribunal de Justiça proferido no julgamento de representativo de controvérsia, os recursos especiais sobrestados na origem serão novamente examinados pelo Tribunal a quo, na hipótese de o julgado recorrido divergir da tese firmada e de ser mantida a decisão divergente pelo colegiado, far-se-á o exame de admissibilidade do apelo nobre.
+Já o art. 1.030, II c/c V, "c", do Novel Diploma Processual determina que caberá ao Presidente ou ao Vice-Presidente do Tribunal recorrido encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Superior Tribunal de Justiça exarado no regime de recursos repetitivos e, se refutado o juízo de retratação, realizar a admissibilidade do recurso.
+Na hipótese, a Terceira Vice-Presidência da Corte a quo decidiu nos seguintes termos (e-STJ fl. 432/437):
+Quando do julgamento do mérito do REsp nº 1.339.313/RJ, paradigma do Tema nº 565, o Superior Tribunal de Justiça se pronunciou de acordo com a seguinte ementa: "(..)"
+(..)
+Ocorre que o acórdão recorrido não contraria propriamente os termos da tese, vez que o julgado não reconhece qualquer das fases do serviço de esgotamento.
+Neste caso, o mérito do recurso depende da apreciação do contexto fático-probatório, o que é vedado pelo Verbete nº 7 da Súmula do STJ ("A PRETENSÃO DE SIMPLES REEXAME DE PROVA NÃO ENSEJA RECURSO ESPECIAL"; Corte Especial; julgado em 28/06/1990; DJ 03/07/1990).
+Na medida em que o recurso envolve valoração dos fatos, o que é inadmissível em sede de recurso especial, resta prejudicada sua admissibilidade igualmente com base na alínea "c" do artigo 105, III, da Constituição Federal, vez que impedida a análise dos fundamentos a propiciar a confrontação dos julgados.
+(..)
+Da mesma forma, o valor das astreintes é fixado com base na análise do caso concreto, nas peculiaridades do caso, nos limites da proporção e da razoabilidade, e, portanto, a análise é fática-probatória. A revisão do quantum somente será realizada em sede de Recurso Especial se manifestamente desarrazoado, conforme precedentes do e. STJ, o que não é o caso dos autos, eis que a sentença fixou o valor de R$50,00 diários, caso a recorrente não instalasse o hidrômetro em sua residência no prazo de 30 dias. Neste sentido: (..)
+No que concerne à questão da responsabilidade pela aquisição do hidrômetro prevista no Decreto 553/76, a solução dos autos passa pela interpretação de lei local a fim de apurar a pretensão manifestada pelo recorrente. E, neste sentido, esbarra no óbice da Súmula nº 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário"), a qual se aplica por analogia.
+Pelo exposto, INADMITO o recurso interposto.
+Como se vê, não houve a prévia submissão do recurso ao Órgão colegiado competente para exercer o juízo de conformidade antes de se proceder à análise dos pressupostos de admissibilidade recursal.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que exerça o juízo de conformidade nos termos do art. 543-C, § 7º, II, do CPC/1973, então vigente.
+Publique-se. Intimem-se.
