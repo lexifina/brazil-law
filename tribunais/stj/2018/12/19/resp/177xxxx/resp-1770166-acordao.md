@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. TEMPO DE ESPERA DE CLIENTE EM FILA BANCÁRIA. LEI MUNICIPAL 7.867/1999. MULTA. APLICADA PELO PROCON. VIOLAÇÃO A DIREITO DO CONSUMIDOR. RAZOABILIDADE E PROPORCIONALIDADE DA SANÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 280/STF E 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O acórdão recorrido concluiu: "(..) restou caracterizada a falha na prestação do serviço (ato ilícito). A situação experimentada pelo cliente - espera em fila de banco por mais de uma hora e meia - extrapolou o limite razoável de atendimento ao consumidor e equivale ao quádruplo do limite de tempo estabelecido na legislação local, circunstância que configura clara afronta aos direitos básicos do consumidor usuário do serviço e impõe a devida sanção à instituição" (fl. 236, e-STJ).
+3. No caso, o Tribunal de Justiça entendeu que não há falar em exorbitância ou ilegalidade da multa imposta quando, não obstante os valores previstos na lei municipal, observou-se o disposto no artigo 57, parágrafo único, do CDC e outros parâmetros considerados pelo órgão fiscalizador, a exemplo do porte econômico do fornecedor e a natureza da infração, desde que alcançado o seu caráter pedagógico e não enseje enriquecimento ilícito.
+4. Para modificar este entendimento seria necessário a análise da Lei Municipal 7.867/1999, entretanto "o exame de normas de caráter local descabe na via do Recurso Especial, em virtude da vedação prevista na Súmula 280 do STF" (REsp 1.676.257/PE, Rel. Ministro Herman Benjamin, DJe 13.9.2017).
+5. Consigne-se que rever os critérios de razoabilidade e proporcionalidade da sanção imposta requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Goiás cuja ementa é a seguinte (fl. 238, e-STJ):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. TEMPO DE ESPERA DE CLIENTE EM FILA BANCÁRIA. LEI MUNICIPAL Nº 7.867/99. CONSTITUCIONALIDADE. MULTA. APLICADA PELO PROCON GOIÁS. LEGITIMIDADE. VIOLAÇÃO A DIREITO DO CONSUMIDOR. RAZOABILIDADE E PROPORCIONALIDADE DA SANÇÃO. INTERVENÇÃO JUDICIAL. LIMITAÇÕES. 1. A Lei nº 7.867/1999 dispõe sobre a obrigatoriedade das agências bancárias, no âmbito do Município de Goiânia, de colocar à disposição dos usuários, pessoal suficiente no setor de caixas, para que o atendimento seja efetuado em tempo razoável, prevendo que a espera não deve ultrapassar 20 (vinte) minutos nos dias normais e 30 (trinta) minutos em vésperas e após feriados; 2. Inconsistente a alegação afeta à inconstitucionalidade da citada lei municipal, porquanto a norma visa em sua essência assegurar ao consumidor uma adequada e eficaz prestação dos serviços, que constitui um direito básico, e a própria dignidade da pessoa humana (art. 1º, inciso III, da CF), notadamente diante dos reiterados abusos que as instituições bancárias têm cometido, em total desrespeito aos usuários que delas dependem; 3. O PROCON GOIÁS, como órgão de fiscalização e defesa do consumidor, possui competência na esfera administrativa para aplicar sanções àqueles que não observarem as normas vigentes na Lei nº 8.078/90, reguladora do Código de Defesa do Consumidor, na parte que trata das Penalidades Administrativas; 4. Não há que se falar em exorbitância ou ilegalidade da multa imposta quando, não obstante os valores previstos na lei/ municipal, observou-se o disposto no artigo 57, parágrafo único, do CDC e outros parâmetros considerandos pelo órgão fiscalizador, a exemplo do porte econômico do fornecedor e a natureza da infração, desde que alcançado o seu caráter pedagógico e não enseje enriquecimento ilícito; 5. Aplicada a penalidade, ao Judiciário não compete a análise -do- mérito do processo administrativo, devendo este averiguar, tão somente, a legalidade de sua condução, em respeito ao princípio da separação dos poderes. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTID
+Os Embargos de Declaração foram rejeitados (fl. 268, e-STJ).
+Opuseram-se novos Aclaratórios, os quais foram desprovidos (fl. 299, e-STJ).
+O recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 1.022, II, do CPC e 2º, § 2º, da LINDB. Afirma que houve negativa de prestação jurisdicional. Insurge-se contra a multa aplicada. Aduz (fl. 314, e-STJ):
+Não é difícil perceber que a rnulta aplicada, portanto, não se encontra prevista na lei utilizada como fundamentação e viola expressamente o princípio da especialidade, insculpido no artigo 2º, § 2º da Lei de Introdução às Normas de Direito Brasileiro.
+Contrarrazões apresentada às fls. 324-332, e-STJ.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+Parecer do Ministério Público Federal às fls. 392-395, e-STJ, opinando pelo não conhecimento do recurso, nos seguintes termos:
+DIREITO ADMINISTRATIVO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. TEMPO DE ESPERA EM FILA BANCÁRIA. LEI MUNICIPAL Nº 7.867/99. CONSTITUCIONALIDADE.MULTA. APLICADA PELO PROCON GOIÁS. LEGITIMIDADE. VIOLAÇÃO A DIREITO DO CONSUMIDOR. RAZOABILIDADE E PROPORCIONALIDADE DA SANÇÃO.
+- Não havendo omissão a suprir, incabível considerar, no recurso especial, a hipótese de violação ao artigo 1 .022, do CPC.
+- O exame de normas de caráter local descabe na via do Recurso Especial, em virtude da vedação prevista na Súmula 280 do STF.
+- Parecer pelo não conhecimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.10.2018.
+A irresignação não merece prosperar.
+Inicialmente, constato que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015).
+2. Hipótese em que não há no julgado nenhuma situação que dê amparo ao recurso integrativo.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1544177/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 23/6/2016, DJe 5/8/2016)
+No mais, melhor sorte não lhe assiste.
+O acórdão recorrido concluiu (fl. 236, e-STJ):
+(..) restou caracterizada a falha na prestação do serviço (ato ilícito). A situação experimentada pelo cliente - espera em fila de banco por mais de uma hora e meia - extrapolou o limite razoável de atendimento ao consumidor e equivale ao quádruplo do limite de tempo estabelecido na legislação local, circunstância que configura clara afronta aos direitos básicos do consumidor usuário do serviço e impõe a devida sanção à instituição.
+(..)
+Para evitar tautologia, adoto como razões de decidir o consignado no parecer do Ministério Público Federal (fl. 395, e-STJ):
+No caso, o Tribunal de Justiça entendeu que não há falar em exorbitância ou ilegalidade da multa imposta quando, não obstante os valores previstos na lei municipal, observou-se o disposto no artigo 57, parágrafo único, do CDC e outros parâmetros considerados pelo órgão fiscalizador, a exemplo do porte econômico do fornecedor e a natureza da infração, desde que alcançado o seu caráter pedagógico e não enseje enriquecimento ilícito.
+Para modificar este entendimento seria necessário a análise da Lei Municipal nº 7.867/199 9, entretanto "o exame de normas de caráter local descabe na via do Recurso Especial, em virtude da vedação prevista na Súmula 280 do STF" (REsp 1.676.257/PE, Rel. Ministro Herman Benjamin, DJe 13.9.2017).
+Consigne-se que rever os critérios de razoabilidade e proporcionalidade da sanção imposta requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+É como voto.
