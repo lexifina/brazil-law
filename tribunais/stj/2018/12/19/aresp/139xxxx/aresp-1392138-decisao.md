@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DO EFEITO SUSPENSIVO PLEITEADO. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 3. GRATUIDADE DE JUSTIÇA. PEDIDO REALIZADO NO CURSO DA DEMANDA. DEFERIMENTO QUE NÃO POSSUI EFEITO RETROATIVO. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Rontan Eletro Metalúrgica Ltda. - Em Recuperação Judicial e outros contra decisão que negou seguimento ao recurso especial, com fundamento na alínea a do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 713):
+Apelação Cível. Embargos à execução. Contratos bancários. Sentença de improcedência. Inconformismo dos embargantes. Valor da causa corrigido na sentença.
+Ausência de impugnação neste ponto. Pedido de justiça gratuita no bojo do recurso. Petição inicial que trouxe pedido anterior e que foi indeferido por decisão atacada por agravo. Custas, então recolhidas. Ausência de superveniente mudança na situação financeira dos postulantes. Não comprovação da atual impossibilidade de arcarem com o custo do processo. Inteligência do artigo 101, §§ 1º e 2º, do CPC/2015. Manutenção da denegação da gratuidade judiciária, determinando-se o recolhimento da integralidade das custas processuais, sob pena de não conhecimento do recurso.
+Nas razões do recurso especial, os recorrentes alegaram violação aos arts. 98 e 99, §§ 2º e 3º, do CPC/2015, com base nos seguintes argumentos: a) fazem jus ao benefício gratuidade da justiça porque preencheram todos os requisitos para a sua concessão; b) a empresa Rontan formulou pedido de recuperação judicial; c) deve ser atribuído efeito suspensivo ao recurso, nos termos do art. 1.029, § 5º, do CPC/2015; d) por fim, pedem a concessão da justiça gratuita em relação ao preparo do recurso especial.
+Contrarrazões apresentadas às fls. 150-157 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a ausência de vulneração aos dispositivos tidos por violados, bem como pela incidência da Súmula 7 do STJ.
+Brevemente relatado, decido.
+Preliminarmente, a concessão de efeito suspensivo ao reclamo deve ser indeferida, pois somente será admitida em situações extremamente excepcionais, a saber: quando demonstrada a alta probabilidade de provimento do recurso especial, nos casos de dano de difícil reparação, ou quando o acórdão for contrário à jurisprudência pacífica desta Corte, o que não é o caso dos autos.
+No mais, o Tribunal de Justiça, ao dirimir a questão, asseverou o seguinte (e-STJ, fls. 718-715):
+Ressalta-se, inicialmente, que a r. sentença corrigiu o valor da causa, igualando-o ao valor do débito judicialmente perseguido (R$ 4.165.866,27).
+Assim, uma vez que os apelantes não repassaram nas razões do recurso a questão da correção do valor da causa, estão confortados com o entendimento do juízo "a quo" na sua deliberação, servindo, mencionado valor, como base para o recolhimento da taxa judiciária desta apelação.
+No entanto, com a interposição do recurso de apelação (fls. 1002/1019), os embargantes vieram requerer a gratuidade de justiça.
+Deste modo, nos termos do artigo 101, § 1º, do novo Código de Processo Civil, passa-se, incidentalmente, ao julgamento do recurso quanto ao pedido de gratuidade judiciária.
+No caso, extrai-se dos autos que os embargantes postularam a concessão da benesse da gratuidade judiciária no primeiro momento em que ingressaram nos autos (fl. 35).
+Todavia, o pedido foi indeferido (fl. 421), houve interposição de agravo de instrumento contra a decisão que indeferiu a gratuidade (AI 2040773-63.2017.8.26.0000), que também não foi provido (fls. 431/439).
+Então, eles promoveram o recolhimento das custas iniciais, a fls. 458/463.
+O feito teve, então, regular processamento, até que sobreveio r. sentença de improcedência dos embargos à execução.
+Interposta apelação, como já dito acima, os embargantes, formularam novo pedido de justiça gratuita, deixando de recolher o preparo.
+Sem razão, contudo, por enfrentamento do pedido que aqui se opera de forma incidental, na forma do artigo 101, §§ 1º e 2º, do CPC/2015.
+Embora a justiça gratuita possa ser pleiteada a qualquer tempo e grau de jurisdição, uma vez formulado e indeferido o pedido, somente a alteração da situação financeira do requerente autoriza nova postulação.
+(..)
+No caso, os embargantes não só já recorreram da decisão que indeferiu o pleito de justiça gratuita anteriormente, que restou mantida nesta E. Corte, como também deixaram de demonstrar que, desde a manutenção do indeferimento da gratuidade, em maio de 2017, houve superveniente mudança nas suas situações financeiras de pessoas físicas, bem como da pessoa jurídica, para se autorizar a concessão da benesse agora pretendida.
+Nem mesmo deve ser concedida a redução das custas de preparo (pretensão não autorizada) ou o diferimento do pagamento das custas para o final, pois, como se sabe, para sua concessão é necessário, também, a prova da impossibilidade financeira momentânea que não houve demonstração aqui, conforme já explanado acima, nem tem previsão na circunstância deste recurso.
+À vista destas considerações, de rigor a conclusão de não fazerem jus ao benefício.
+Portanto, aos apelantes se impõe o recolhimento do preparo, no prazo de 5 (cinco) dias, pena de não conhecimento do recurso.
+Ante o exposto, por meu voto, ora submetido ao E. Colegiado, indefere-se a gratuidade judiciária, com determinação.
+Com efeito, da leitura dos trechos acima, observa-se que não houve debate sobre o pedido da gratuidade da justiça do ponto de vista da infringência aos arts. 98 e 99 do novo Código de Processo Civil, haja vista que a conclusão do Tribunal de origem se deu única e exclusivamente com base na particularidade do art. 101, §§ 1º e 2º, do CPC/2015. Não houve, portanto, o devido prequestionamento, tampouco foram opostos embargos de declaração na origem, o que atrai o óbice das Súmulas 282 e 356 do STF.
+Quanto ao pedido de concessão dos benefícios da assistência judiciária gratuita formulado nas razões do recurso especial, embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição econômico-financeira, não mudaria a conclusão a que chegou a Corte estadual. Isso porque, segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+Assim, não há falar em retroatividade da gratuidade de justiça, dado que os efeitos da concessão do pedido são ex nunc, é dizer, somente se aplicam às despesas processuais vindouras.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. DIFERIMENTO DAS CUSTAS. PREVISÃO LEGISLATIVA ESTADUAL QUE NÃO ABARCA TAXAS FEDERAIS. ISENÇÃO HETERÔNOMA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. EFEITOS EX NUNC. INTIMAÇÃO PARA COMPLEMENTAÇÃO DO PREPARO. IMPOSSIBILIDADE.
+ ..
+3. Vigora no Superior Tribunal de Justiça o entendimento de que a eventual concessão da benesse opera efeitos ex nunc, não podendo retroagir à data de interposição do recurso especial. Assim, eventual deferimento do pedido somente passaria a vigorar a partir do momento em que expressamente concedida por este juízo.
+4. Não há que se falar em concessão de prazo para a regularização das custas não recolhidas oportunamente, porquanto a medida não abarca os casos em que absolutamente ausente o pagamento do preparo recursal, tal como se verifica na hipótese vertente.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.018.987/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/6/2018, DJe 8/8/2018 - sem grifo no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. PREPARO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 187 DO STJ. MERA ALEGAÇÃO DE CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. NECESSIDADE DE COMPROVAÇÃO. PEDIDO POSTERIOR QUE NÃO AFASTA A DESERÇÃO JÁ RECONHECIDA DIANTE DA IRRETROATIVIDADE DE SEUS EFEITOS.
+1. Se após intimada, a parte não recolheu o preparo, deve ser declarada a deserção do recurso especial, aplicando-se a Súmula nº 187 do STJ.
+2. A mera alegação de concessão da assistência judiciária gratuita, sem a sua comprovação, não afasta a deserção. Precedentes.
+3. Nos termos da jurisprudência desta Corte, o deferimento da assistência judiciária gratuita não possui efeito retroativo. Precedentes.
+4. Agravo interno no recurso especial não provido. (AgInt no REsp 1.647.067/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/5/2018, DJe 5/6/2018 - sem grifo no original)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - PLEITO DE RESTITUIÇÃO DAS CUSTAS PROCESSUAIS ANTE O DEFERIMENTO DOS BENEFÍCIOS DA GRATUIDADE DE JUSTIÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS BENEFICIÁRIOS DA GRATUIDADE.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que o benefício da assistência judiciária gratuita, conquanto possa ser requerido a qualquer tempo, tem efeitos ex nunc, ou seja, não retroage para alcançar encargos processuais anteriores. Logo, não há que se falar em restituição de valores pagos a título de custas e despesas processuais face o posterior deferimento da benesse. Precedentes.
+2. Agravo interno desprovido. (AgInt no AREsp 909.951/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2016, DJe 1º/12/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
