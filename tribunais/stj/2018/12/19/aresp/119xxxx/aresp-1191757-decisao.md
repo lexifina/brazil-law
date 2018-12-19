@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME], em 10/04/2017, mediante o qual se impugna decisão indeferitória de seguimento a seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de Instrumento - Mandado de segurança - Lançamento - IPTU - Exercício de 2007 - Decisão que determinou a expedição de mandado de levantamento dos depósitos a favor da Municipalidade - Denegação da ordem - Trânsito em julgado - Depósito insuficiente - Indefensabilidade da pretensão do agravante em ver "suspensa a exigibilidade do débito, mediante os depósitos judiciais de forma parcelada e no vencimento das respectivas parcelas", concomitantemente com a incompatibilidade de obtenção da tutela mandamental - Aplicação da Súmula 112 do STJ - Coisa julgada - Precedentes - Manutenção da decisão objurgada - Agravo desprovido" (fl. 295e).
+No Recurso Especial, manejado com base nas alíneas a e c do permissivo constitucional, alega-se a existência de divergência jurisprudencial e violação ao art. 151, II, do CTN.
+Sustenta-se, em síntese, que:
+"17. Consoante se infere do v. acórdão recorrido, o [NOME] decidiu ser inaplicável o disposto no artigo 151, II do CTN, na medida em que os depósitos judiciais efetuados de forma parcelada não teriam o condão de suspender a exigibilidade do Imposto Predial e Territorial Urbano ("IPTU").
+18. Não obstante, no caso dos autos, o depósito judicial das parcelas do imposto questionado foi autorizado pelo I. Magistrado como forma de suspensão do crédito. Da mesma forma, a r. sentença deferiu o levantamento dos depósitos judiciais pela Municipalidade, como forma de extinção da obrigação.
+19. Anote-se, ainda, que no caso em relevo, a Recorrida colocou à disposição do contribuinte duas modalidades de pagamento do imposto: (i) em uma única parcela, com desconto ou (ii) em até 10 (dez) parcelas mensais e sucessivas, sem o respectivo desconto.
+20. Dessa maneira, o Recorrente optou por realizar de forma parcelada, sendo que os depósitos judiciais, com exceção do primeiro, foram efetuados nas datas dos respectivos vencimentos das parcelas, datas estas indicadas pela própria Municipalidade.
+21. Vale dizer, o Recorrente, responsável pelo pagamento da obrigação fiscal, optou por uma das formas de pagamento que lhe foi disponibilizada (parcelada, sem desconto). Em decorrência, uma vez recolhidos os valores tributários nos prazos, vencimentos e parcelas legalmente indicadas, não há que falar em inadimplemento, atendendo assim, a regra estabelecida pelo artigo 151, II do CTN, "in verbis":
+(..)
+22. Cumpre observar, aqui, que o artigo acima mencionado, tem como escopo o recolhimento da importância sobre o qual pesa o litígio, com o objetivo de garantia e de suspensão da exigibilidade do crédito tributário questionado.
+23. Assim, uma vez disponibilizada a forma parcelada e não ocorrendo o vencimento desta, não há que se cogitar em existência de obrigação exigível, portanto, constata-se que o v. acórdão, ao decidir que seria inócua a pretensão do Recorrente em ver "suspensa a exigibilidade do débito, mediante os depósitos judiciais de forma parcelada e no vencimento das respectivas parcelas", violou e negou vigência à regra estampada no artigo 151, inciso II, do CTN, sendo de rigor o provimento do presente recurso especial" (fls. 306/307e).
+Por fim, requer-se, "seja o presente Recurso Especial conhecido e provido, para que seja declarada a violação e negativa de vigência ao artigo 151, II do CTN, bem como a divergência jurisprudencial, reconhecendo-se assim, que os depósitos judiciais efetuados pelo Recorrente suspenderam a exigibilidade do débito, não incidindo juros, correção monetária e demais encargos cobrados pela Municipalidade, por medida de Direito e Justiça!" (fl. 318e).
+Sem contrarrazões.
+Recurso Especial inadmitido (fls. 340/341e), com base na Súmula 7/STJ, o que ensejou a interposição de Agravo (fls. 343/357e).
+Contraminuta às fls. 360/366e.
+O presente recurso não merece prosperar.
+Dois foram os fundamentos do acórdão recorrido para negar o pleito do ora recorrente, no sentido do reconhecimento da ocorrência da suspensão da exigibilidade do crédito tributário: (i) o depósito judicial não teria sido integral; (ii) não seria processualmente cabível a continuidade da realização de depósitos - originariamente insuficientes - em ação mandamental, mormente quando referida ação já estaria extinta, com trânsito em julgado.
+Sem embargo, o Recurso Especial somente impugna o primeiro dos fundamentos, nada dizendo sobre o segundo (i.e. impossibilidade da utilização do mandado de segurança para o fim almejado).
+De aplicar, assim, por analogia, a Súmula 283/STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Sem honorários. Decisão interlocutória.
+I.
