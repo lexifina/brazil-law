@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. TEMPO DE SERVIÇO. PRESCRIÇÃO. INTERRUPÇÃO. PRAZO QUE VOLTARIA A CORRER PELA METADE. INOVAÇÃO RECURSAL. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO. INOCORRÊNCIA. MARCO INICIAL REVISIONAL. DATA DA JUBILAÇÃO.
+1. O ajuizamento prévio de ação que objetivou a expedição de certidão de tempo de serviço perante o RGPS obsta a fluência do lustro prescricional que tem seu prazo ativado somente a partir de seu trânsito em julgado. A partir de então, considerando-se a data de ajuizamento da presente contenda, não sendo verificada a completude do quinquênio, não se faz possível proceder-se à decretação da ocorrência da prescrição do chamado fundo de direito ou mesmo de parcelas prescritas.
+2. O marco inicial do pagamento das diferenças; é dizer, os efeitos financeiros da condenação, deve ser assentado na data da jubilação (ressalvada eventual prescrição quinquenal, inocorrente, in casu), e não desde o ato revisional administrativo, ou do lustro que o antecedeu, uma vez que, naquele lapso, o servidor já possuía direito à outorga da jubilação com proventos integrais.
+3. O direito mostrava-se existente desde o requerimento da aposentadoria, uma vez que, nesta data, o servidor já havia cumprido os requisitos necessários à sua inativação na modalidade integral. A comprovação ou o reconhecimento posteriores não comprometem a existência do direito adquirido, uma vez que não confere ao titular qualquer vantagem que já não integrasse seu patrimônio jurídico (fls. 592).
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos para fins de prequestionamento.
+3. Nas razões do Recurso Especial, alega a parte recorrente ofensa aos arts. 535, I e II do CPC/1973; 1o., 8o. e 9o. do Decreto 20.910/1932, argumentando, em síntese, que o Tribunal de origem deixou de considerar que, após a interrupção do prazo prescricional pelo protesto interruptivo, a prescrição volta a correr pela metade, possuindo a parte autora dois anos e meio para o ajuizamento da ação.
+4. É o relatório do essencial.
+5. Inicialmente, em relação à suposta contrariedade ao art. 535, I e II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. Quanto à prescrição, da análise dos autos constata-se que a UNIÃO não suscitou a tese de que a prescrição voltaria a correr pela metade no momento oportuno, não constando tal argumento das razões dos Embargos Declaratórios opostos na origem.
+7. Portanto, tendo em vista que a matéria somente foi suscitada nestes autos quando da interposição do Recurso Especial, tem-se configurada a indevida inovação recursal, impondo-se o não conhecimento do recurso.
+8. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pela UNIÃO.
+9. Publique-se.
+10. Intimações necessárias.
