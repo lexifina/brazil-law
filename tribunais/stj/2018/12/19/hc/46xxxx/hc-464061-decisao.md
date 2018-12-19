@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de [NOME], apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS.
+Consta dos autos que o paciente foi condenado, por incursão ao art. 33, caput, e § 4º, da Lei n. 11.343/06, às penas de 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, a ser cumprida no regime inicialmente semiaberto, substituída a sanção corporal por medidas restritivas de direitos.
+Inconformados com a decisão, a defesa e o Ministério Público apelaram. Recebidos os recursos, o Tribunal de Justiça mineiro, à unanimidade, negou provimento à apelação defensiva, e deu provimento à apelação ministerial para aplicar o redutor na fração mínima de 1/6, fixando-se a sanção em 4 anos, 6 meses e 5 dias de reclusão, além do pagamento de 454 dias-multa, recrudescendo, ainda, o regime prisional para o fechado e afastando a substituição da pena privativa de liberdade por restritiva de direitos.
+No presente habeas corpus, alega o impetrante a existência de constrangimento ilegal, porquanto fixado regime prisional mais gravoso do que o cabível segundo a pena aplicada, sem fundamentação idônea.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Quanto ao regime prisional, assim entabulou a Corte a quo (fl. 26):
+Fixo o regime prisional fechado, em razão do meu entendimento segundo o qual mesmo diante da hipótese de incidência da causa especial de diminuição de penas prevista no § 4o do art. 33 da Lei 11343/06, o crime de que ora se trata não se desnatura, não perdendo sua hediondez, justificando-se, assim, a aplicação do art. 2o, § 1o, da Lei 8072/90.
+Deste modo, considerando que a incidência de mera causa de diminuição não retira o caráter hediondo do delito, sendo aplicáveis todas as disposições da Lei 8.072/90, deve ser fixado o regime prisional fechado.
+Quanto ao ponto, cabe ressaltar que, em recente julgado, o Plenário do Supremo Tribunal Federal firmou orientação segundo a qual O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos. Eis a ementa do referido acórdão:
+HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+4. Ordem concedida.
+(HC 118533, Relator(a):  Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 23/06/2016, PROCESSO ELETRÔNICO DJe-199 DIVULG 16-09-2016 PUBLIC 19-09-2016).
+Nesse contexto, alinhando-se à posição do STF, a Terceira Seção desta Corte entendeu pela necessidade de revisão do entendimento anteriormente consolidado, com o consequente cancelamento da Súmula 512/STJ. A propósito: Pet 11.796/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 23/11/2016, DJe 29/11/2016.
+Ademais, ainda que assim não fosse, no julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli), em que o Plenário do STF afastou a obrigatoriedade de imposição de regime inicial fechado aos condenados por crimes hediondos ou equiparados, consignou-se que as regras do art. 33 do CP deveriam ser utilizadas também na fixação do regime prisional inicial dos crimes hediondos e equiparados.
+Nesse sentido, veja-se que o § 3º do art. 33 do CP estabelece que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código. Ou seja, exige-se fundamentação concreta para a fixação de regime inicial mais gravoso do que a pena aplicada permite, nos termos do disposto nas Súmulas 440/STJ, 718 e 719/STF. No mesmo sentido: STJ, HC 217.931/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2012, DJe de 27/08/2012.
+Assim, não se justifica a imposição do regime inicial fechado, a réu primário, condenado à pena reclusiva inferior a 8 anos - 4 anos, 6 meses e 5 dias -, fazendo jus o paciente ao regime semiaberto, em coerência com a orientação firmada na Súmula 440/STJ e, conforme dispõe o art. 33, § 2º, alínea "b", do Código Penal.
+Registro, ainda, que embora a pena-base tenha sido fixada acima do mínimo legal, o que justificaria a imposição de regime mais gravoso, sabe-se que para cada uma das fases de dosimetria das penas, bem como para a fixação do regime prisional, a fundamentação deverá ser vinculada aos motivos declinados pelo julgador.
+Assim, somente consignando o acórdão impugnado que o recrudescimento do regime prisional se devia à vedação legal contida no art. 2º, § 1º, da Lei n. 8.072/90, na redação dada pela Lei n. 11.464/2007, não vislumbro fundamentação idônea a justificar o regime fechado.
+Ante o exposto, concedo o habeas corpus para abrandar o regime prisional imposto ao paciente para o semiaberto, afastando-se o caráter hediondo do tráfico privilegiado nos termos da fundamentação supra.
+Comunique-se.
+Publique-se.
+Intimem-se.
