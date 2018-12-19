@@ -1,0 +1,34 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+Furto qualificado pelo abuso de confiança e receptação simples - Higidez do quadro probatório - Confirmação, pela vítima e por testemunhas, dos episódios delitivos - Condenação mantida.
+Apelo defensivo improvido. (e-STJ fl. 625)
+Sustenta a defesa a violação do art. 386 do Código de Processo Penal alegando, em síntese, que o acervo probatório mostra-se frágil e inseguro para sustentar a condenação das recorrentes.
+Contrarrazões às e-STJ fls. 665/669 e 674/679.
+Manifestação do Ministério Público Federal pelo não provimento do recurso especial às e-STJ fls. 729/730.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de São Paulo negou provimento ao apelo defensivo e manteve a sentença que condenou [NOME] e [NOME] por infração, respectivamente, ao artigo 155, § 4º, inciso II, c/c artigo 71, ambos do Código Penal, e ao artigo 180, caput, c/c artigo 71, ambos do Código Penal, às penas de 2 anos e 4 meses de reclusão, em regime prisional aberto, e 11 dias-multa, no piso ([NOME]); e de 1 ano e 2 meses de reclusão, em regime prisional aberto, e 11 dias-multa, no mínimo legal ([NOME]), substituídas, as privativas de liberdade, por restritivas de direitos.
+Neste recurso, a defesa alega que inexistem provas suficientes para a condenação das recorrentes. Sobre a questão, o Tribunal de origem assim se pronunciou:
+Com efeito, as conclusões a que chegou o d. julgador, ora ratificadas na forma do permissivo constante do artigo 252 do Regimento Interno deste Tribunal, encontram fundamento nas provas documental e oral, esta última consubstanciada nas declarações da vítima, que narrou as circunstâncias da descoberta dos delitos patrimoniais praticados; e, bem assim, nos depoimentos das testemunhas, que se mostraram coesos e harmônicos, no que de essencial, com o restante do quadro probatório.
+Veja-se, aliás, que as rés não foram além de negar a prática delitiva, asseverando, em resumo, que todas as roupas, objetos, utensílios, bijouterias, etc., encontradas pela polícia na residência de [NOME], lhes pertenciam, pois doadas pela ofendida.
+A apreensão da res furtiva no interior da residência de [NOME], filha de [NOME], na mesma linha do desdobramento das diligências e investigações realizadas pela polícia, fez certa a conclusão da autoria delitiva, porquanto gerou a presunção de suas responsabilidades, invertendo o ônus da comprovação de seus argumentos; impunha-lhes justificativa inequívoca, obrigação da qual não se desincumbiram.
+ ..
+Não se tem, pois, por frágeis e contraditórias as provas produzidas; não a ponto de justificarem a absolvição pretendida pela D.Defesa, conforme, aliás, bem analisou o d. magistrado, a saber:
+"Diante disso, não parece crível a versão da ré [NOME], no sentido que de todos objetos apreendidos foram doados pela vítima e de que os fatos ocorreram após ter testemunhado em ação trabalhista. Isso porque, as provas contidas nos autos é robusta e segura quanto a autoria e materialidade delitivas, não havendo indícios de que a vítima tivesse incriminado falsamente as rés em decorrência de testemunho fornecido por [NOME] em ação trabalhista.
+E também não há indícios de que tivesse a vítima interesse pessoal na mencionada causa trabalhista. Aliás, as testemunhas que trabalham ou trabalharam para NINIVE, inclusive algumas testemunhas de defesa, afirmaram que recebem e/ou receberam em dia seus pagamentos pelos serviços prestados" (fl. 497vº).
+ ..
+Ademais, considera-se correta a condenação da apelante [NOME] pelos crimes de receptação.
+Não há dúvidas ou incertezas no que pertine aos delitos em questão.
+É fato que efetivamente furtados os bens de Ninive, sendo certo que localizados no interior da residência de [NOME], filha de [NOME], consoante conjunto probatório amealhado.
+Em contexto que tal, portanto, tem-se que positivado o dolo de que imbuída [NOME] no que tange à tença dos bens em questão. (e-STJ fls. 626/628)
+Observa-se que a pretensão da defesa, quando alega a insuficiência de provas para a condenação, é o revolvimento do material fático-probatório dos autos, o que não se admite na via do recurso especial ante o óbice do enunciado n. 7 da Súmula deste Tribunal. Nessa linha:
+PENAL E PROCESSO PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. NEGATIVA DE VIGÊNCIA AO ART. 386, VII, DO CPP. PLEITO DE ABSOLVIÇÃO. PLEITO DE DESCLASSIFICAÇÃO DO CRIME DE ROUBO PARA O DELITO DE FURTO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DO LAUDO DE AVALIAÇÃO. NÃO COMPROVAÇÃO DO VALOR DA RES FURTIVAE. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO POR PRESUNÇÃO. OFENSA AOS ARTS. 59 E 68, AMBOS DO CP. DOSIMETRIA. ANÁLISE FAVORÁVEL DO COMPORTAMENTO DA VÍTIMA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AFRONTA AO ART. 307 DO CP. FALSA IDENTIDADE. TIPICIDADE. SÚMULA 522/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ.
+ ..
+5. Agravo regimental a que se nega provimento. (AgInt no AREsp 1265017/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 24/05/2018)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ABSOLVIÇÃO. REEXAME DE PROVAS. CONDENAÇÃO LASTREADA EXCLUSIVAMENTE NAS PROVAS PRODUZIDAS NA FASE INVESTIGATÓRIA. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante a análise soberana do acervo fático-probatório dos autos, entendeu que restou devidamente comprovadas a autoria e a materialidade do crime. Nesse contexto, a absolvição dos acusados, baseada na insuficiência de provas, demandaria necessariamente nova análise do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+2. "É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente" (AgRg no REsp 1378508/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 1/12/2016, DJe 7/12/2016).
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 1236166/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 11/05/2018)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
