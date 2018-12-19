@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial (e-STJ, fls. 259-260) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 164):
+APELAÇÃO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C.C. COBRANÇA. Fiança. Notificação do fiador quanto ao desinteresse em manter a garantia.
+Comunicação encaminhada no prazo de vigência do contrato por prazo determinado. Exoneração da garantia que gera efeitos somente após o término do prazo inicialmente previsto para a vigência do contrato. Art. 835 do CC e art.
+40, X, da Lei nº 8.245/91. Contas de água e luz e IPTU.
+Cláusula contratual que impunha ao Corréu Locatário a obrigação pelos respectivos pagamentos. Necessidade do Locador comprovar o pagamento para cobrá-los do Locatário. Descabimento. Sentença reformada em parte.
+RECURSO DA CORRÉ CONHECIDO E PARCIALMENTE PROVIDO.
+Irresignado, o agravante opôs embargos de declaração, os quais foram rejeitados pelo Tribunal de origem, conforme a seguinte ementa (e-STJ, fl. 185):
+EMBARGOS DE DECLARAÇÃO. Omissão.
+Inexistência. Questão "sub judice" examinada pelo acórdão embargado com base no conjunto fático-probatório. Impossibilidade de reexame da matéria. Inconformismo da parte que não representa hipótese de cabimento do presente recurso.
+Prequestionamento. Desnecessidade de referência expressa ao dispositivo de lei, sendo suficiente a apreciação e discussão da matéria controvertida por decisão colegiada.
+Prequestionamento implícito, inclusive nos termos do art. 1.025, do CPC/2015.
+EMBARGOS REJEITADOS.
+Diante de tal fato, o recorrente, ora agravante, interpôs recurso especial, com fulcro no art. 105, inciso III, alínea a, da CF, sustentando violação aos arts. 7º, 139 e 419 do CPC/2015; 39 da Lei do Inquilinato; 133, 422 e 819 do CC/2002 e 5º, incisos XXXV, XXXIV e LXIX da CF/1988.
+Nas razões do apelo especial, o recorrente alegou a necessidade do magistrado analisar todo e qualquer documento acostado aos autos, necessários para o deslinde da causa.
+Analisada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência apresentada (e-STJ, fls. 259-260), entendendo não ter o recorrente demonstrado, de forma efetiva, a violação à legislação federal vigente, bem como a incidência dos enunciados das Súmulas 5 e 7/STJ.
+Diante de tal fato, foi interposto o presente agravo em recurso especial (e-STJ, fls. 263-267).
+Instada a se manifestar, a parte agravada apresentou contraminuta (e-STJ, fls. 263-267), requerendo o desprovimento do recurso.
+Brevemente relatado, decido.
+Inicialmente, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC. DECISÃO MANTIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.
+932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (ausência de omissão no acórdão recorrido e incidência das Súmulas nºs 5, 7 e 83, todas do STJ). 3. O entendimento pacífico do STJ é de que não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp nº 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+4. A majoração dos honorários em 3% sobre o valor consignado na inicial, fundada no art. 85, § 11, do NCPC, ainda que modesta, está perfeitamente fundamentada no grau de zelo do profissional, que impugnou a tempo todos os recursos apresentados pela COTRIMA; o lugar de prestação do serviço, tribunal de segunda instância e também nesta Corte Superior; a natureza e a importância da causa, que envolveu a vultuosa monta de aproximadamente R$ 34.000.000,00 (trinta e quatro milhões de reais); e, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, em demanda que foi ajuizada há mais de 5 anos.
+5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1231762/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/06/2018, DJe 28/06/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O ESPECIAL. CONFIRMAÇÃO.
+1. Para viabilizar o conhecimento do agravo em recurso especial, é necessário que o recorrente impugne especificamente todos fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Tal circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015 e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+2. Não atendidos os requisitos de admissibilidade do agravo, o que inviabilizou seu conhecimento, não há falar em sobrestamento do feito para aguardar a discussão de temas relacionados ao mérito da controvérsia, os quais poderão vir a ser julgados no âmbito de recursos repetitivos, mormente quando tais temas nem sequer foram ventilados na petição do especial.
+3. É vedado à parte inovar nas razões do agravo interno, trazendo questões não tratadas oportunamente no recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 983.563/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/05/2018, DJe 23/05/2018)
+No caso em exame, nos termos da decisão de admissibilidade (e-STJ, fls. 259-260), o Tribunal de origem inadmitiu o recurso especial por entender que as razões apresentadas pelo recorrente não demonstraram, de forma efetiva, a violação à legislação federal apontada na origem e que a análise das teses apontadas no apelo especial violariam as Súmulas 5 e 7/STJ.
+Todavia, após leitura da petição de agravo em recurso especial (e-STJ, fls. 263-267), constata-se que o agravante não procedeu à impugnação específica exigida pelo ordenamento jurídico, deixando de refutar os fundamentos da decisão agravada, debatendo, nas razões recursais, apenas os argumentos expostos no recurso excepcional.
+Dessa forma, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice no art. 932, III, do CPC/2015, desatendendo, assim, o recorrente, o princípio da dialeticidade exigido na esfera recursal.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% (três por cento) sobre o valor atualizado da causa.
+Publique-se.
