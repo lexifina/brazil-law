@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco Rabobank International Brasil S/A, no qual se alega violação do art. 1.021, § 4º, do Código de Processo Civil, insurgindo-se quanto à aplicação da multa prevista no referido artigo. O acórdão recorrido está retratado na seguinte ementa (fl. 324):
+AGRAVO INTERNO - DESPACHO QUE NEGOU EFEITO SUSPENSIVO - REQUISITOS DOS ARTIGOS 1.019, INCISO I, DO CPC DE 2015 - SEM COMPROVAÇÃO - RECURSO NÃO PROVIDO. Não há que se falar em revogação do despacho que negou efeito suspensivo/ativo ao agravo de instrumento quando não restar devidamente comprovado nos autos os requisitos necessários para tanto.
+O recurso merece prosperar.
+Com efeito, anoto que é inaplicável ao caso a multa imposta pelo Tribunal de origem, com base no artigo 1.021, § 4º, do CPC/2015, pois não vislumbro o intuito meramente protelatório na conduta de interpor recursos necessários para o exaurimento da instância ordinária. Nesse sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 557, § 2º, DO CPC/1973. ALTERAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NECESSIDADE DE EXAURIMENTO DE INSTÂNCIA. MULTA INDEVIDA. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+1. No presente caso, o agravo interno manejado junto ao Tribunal de origem foi capaz de evidenciar a inadequação dos fundamentos invocados pela decisão então agravada, revelando-se apto, portanto, se não a alterar o conteúdo do julgado impugnado, ao menos a provocar o seu aperfeiçoamento, revelando-se indevida, portanto, a multa processual aplicada com fundamento no art. 1.021, § 4º, do CPC.
+2. Ademais, amplamente majoritário o entendimento desta Corte Superior no sentido de que o agravo interposto contra decisão monocrática do Tribunal de origem, com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e do extraordinário, não é manifestamente inadmissível ou infundado, o que torna inaplicável a multa prevista no art. 557, § 2º, do Código de Processo Civil. (Recurso Repetitivo 1.198.108/RJ, Rel. Ministro Mauro Campbel Marques, Corte Especial, DJe 21/11/2012).
+3. Embargos de declaração acolhidos com efeitos modificativos para dar provimento ao recurso especial.
+(EDcl no AgInt no AREsp 1.151.486/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 20.3.2018)
+Em face do exposto, dou provimento ao recurso especial para afastar a multa imposta ao recorrente.
+Intimem-se.
