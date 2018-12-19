@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO Ação monitória Cheque prescrito Ação julgada extinta em face do reconhecimento da ilegitimidade ativa Pretendido reconhecido de prescrição Razões dissociadas dessa fundamentação - Apelante que se insurge contra questão de mérito - Inadmissibilidade Descumprimento do artigo 1010, incisos II e III Recurso não conhecido." (e-STJ, fl. 124)
+Opostos os embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 133/136).
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 489 incisos II e §1º incisos II, III e IV e 1.022 incisos I e II do Código de Processo Civil de 2015, sustentando, em síntese, (a) que houve omissão quanto o indevido afastamento da prescrição e majoração dos honorários de sucumbência e (b) que a decisão de origem não foi corretamente fundamentada no tocante ao valor dos honorários arbitrado.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não se verificam as alegadas violações aos arts. 489 e 1.022 do CPC/15, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide, ao afirmar que as razões da apelação estavam dissociadas da sentença, de modo que a prescrição e os honorários são matérias de mérito enquanto a ação foi extinta por falta de condições da ação, in verbis:
+"Mesmo com a ação extinta recorre a apelante para que seja reconhecida a prescrição, tendo em vista que a ilegitimidade não a beneficia.
+Observa-se das razões recursais que a apelante recorre buscando a reforma da sentença com alegações de mérito e, mesmo assim, não trazendo o apelo qualquer inconformismo com relação ao teor da r. decisão.
+Ora, como se sabe, não pode o recorrente pretender o exame de recurso em que não motiva seu inconformismo à fundamentação adotada na sentença e, menos ainda, quando suscita matéria nela não tratada." (e-STJ, fl. 125)
+(..)
+"Não há no Acórdão embargado qualquer contradição. Como visto a ação foi extinta por falta de uma das condições da ação, qual seja, legitimidade de parte. Dessa forma, é contra essa decisão que os embargantes deveriam ter se insurgido. As questões à respeito da prescrição e honorários é matéria de mérito. Na verdade, o recurso tem natureza eminentemente infringente, que refoge por completo dos contornos gizados no artigo 1.022 do CPC." (e-STJ, fl. 135)
+ Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
