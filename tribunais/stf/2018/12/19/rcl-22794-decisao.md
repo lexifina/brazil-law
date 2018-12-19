@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, em face de decisão mediante a qual a 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de Pernambuco, nos autos do Processo nº 0012379- 08.2012.8.17.0000, teria determinado que a base de cálculo do adicional de insalubridade (grau máximo de 40%) a ser pago aos servidores concursados fosse o salário profissional da categoria.
+    Afirma-se que (eDOC 2, p. 3):
+     “A Primeira Câmara de Direito Público do Tribunal de Justiça de Pernambuco, em sede de embargos declaratórios, proferiu a seguinte decisão:
+     “(...) incorporar aos vencimentos dos requerentes a gratificação de insalubridade, em grau máximo, 40% (quarenta por cento), incidente sobre o salário profissional da respectiva categoria (...)”
+    Narra-se a propósito, ainda: “A decisão da Primeira Câmara de Direito Público do Tribunal de Justiça de Pernambuco, na mesma linha o despacho do Juiz de Direito de fls. 492 determinou a incorporação aos vencimentos dos Requerentes a gratificação de insalubridade, em grau máximo, 40% (quarenta por cento) incidente sobre o salário profissional da respectiva categoria.” (eDOC 2, p. 4).
+    Foram prestadas as informações (eDOC 23).
+    A Procuradoria-Geral da República opinou pelo não conhecimento da reclamação.
+    É o relatório. Decido.
+    A reclamação não merece prosperar.
+    Da cronologia do processo, obtida junto ao sítio eletrônico do TJPE, verifica-se que o acórdão proferido em embargos de declaração (Processo 0012379-08.2012.8.17.000 - que formou o título executivo) é que determinou “fosse incorporado aos vencimentos dos embargantes a gratificação de insalubridade, em grau máximo, 40% (quarenta por cento)” (eDOC 4). É contra este ato que se insurge o reclamante, conforme pedido formulado na inicial.
+    No entanto, a parte reclamante também junta outra decisão, já em fase de execução (Processo 0004062-60.2011.8.17.1130), cujo teor é unicamente de cumprimento daquele título já formado, in verbis:
+    “Com efeito, compulsando os autos, verifica-se que o acórdão de fls. 34/342 foi reformado pela decisão proferida nos Embargos de Declaração em apenso (processo nº 0012379-08.2012.8.17.000) “no sentido de incorporar aos vencimentos dos embargantes a gratificação de insalubridade, em grau máximo, 40% (quarente por cento).
+    Diante disso, revogo o despacho de fls. 488 e determino a intimação do Município de Petrolina para, no prazo de 05 (cinco) dias, incorporar aos vencimentos dos Requerentes a gratificação de insalubridade, em grau máximo, 40% (quarenta por cento), incidente sobre o salário profissional da respectiva categoria, nos termos da decisão de fls. 45/46 (processo nº 0012379-08.2012.8.17.0000), sob pena de fixação de multa diária no caso de descumprimento”
+    Extraindo a causa de pedir expressa da petição inicial, com a indicação do ato reclamado como a primeira decisão – formadora do título (acórdão em embargos de declaração nos autos do Processo 0012379-08.2012.8.17.000, apensado aos autos 0004062-60.2011.8.17.1130), verifica-se que tal ato foi proferido em 11.11.2014, publicado em 18.11.2014, com trânsito em julgado cerificado em 20.1.2015.
+    Assim, apresenta-se incabível a reclamação, porque incide, na hipótese, a Súmula 734 do STF. Nessa esteira:
+    “RECLAMAÇÃO COISA JULGADA. A reclamação não faz as vezes de rescisória. Verbete nº 734 da súmula do Supremo: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.” (Rcl 19.567 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 28.5.2015)
+    “RECLAMAÇÃO ALEGADO DESRESPEITO À AUTORIDADE DAS DECISÕES PROFERIDAS, PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE FISCALIZAÇÃO ABSTRATA ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, CUJO FUNDAMENTO DE VALIDADE RESIDE EM JULGAMENTO COLEGIADO JÁ TRANSITADO EM JULGADO AJUIZAMENTO DA RECLAMAÇÃO EM MOMENTO POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO EMANADA DO TRIBUNAL DE JUSTIÇA LOCAL INCIDÊNCIA, NA ESPÉCIE, DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF INADMISSIBILIDADE DA RECLAMAÇÃO COMO SUCEDÂNEO DA AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO PRECEDENTES RECURSO DE AGRAVO IMPROVIDO.” (Rcl 16.313 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 19.12.2014).
+    Impende destacar que eventual objetivo de suspender ato proferido nos autos da execução, em que apenas se determinou o cumprimento do título executivo em seus exatos termos, seria utilizar a via estreita da reclamação como sucedâneo recursal, o que é inadmissível conforme a velha e aturada jurisprudência desta Corte.
+    Ante o exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação, ficando prejudicado o pedido liminar.
+    Publique-se. Intime-se.
+    Brasília, 19 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+ Documento assinado digitalmente
