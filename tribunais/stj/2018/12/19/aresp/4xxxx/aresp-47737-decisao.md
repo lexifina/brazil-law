@@ -1,0 +1,29 @@
+DECISÃO
+ Trata-se de agravo interposto por [NOME] em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AÇÃO DE PRESTAÇÃO DE CONTAS (EXIGIR CONTAS). 1ª FASE. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO INOCORRENTE. DELIMITAÇÃO DA DECISÃO DE PRESTAR CONTAS QUE OBSERVA ESTRITAMENTE O CONTRATO. NECESSIDADE DE TRAZER A TONA TODOS OS NEGÓCIOS ENVOLVENDO AS PARTES PARA INDIVIDUALIZAR OS VALORES TRANSACIONADOS ENTRE O RECORRENTE E RECORRIDO NA VENDA DE AÇÕES DA EMPRESA [NOME] [NOME] S/A COMÉRCIO DE UTILIDADES DOMÉSTICAS COMO EXPRESSÃO DA VONTADE DECLARADA DAS PARTES NO CONTRATO QUE EMBASA A AÇÃO DE PRESTAÇÃO DE CONTAS. AGRAVO RETIDO PREJUDICADO.
+A decisão está suficientemente fundamentada, embora de maneira concisa, mas suficiente para entender a delimitação da prestação de contas ao contrato que embasa a ação entre [NOME] e Weiler, não abrangendo outras empresas do grupo.
+Caso em que tão somente foi determinada a prestação de contas da mulher e filha do recorrente, bem como de todos os negócios entre o comprador e os vendedores, para que se possa individualizar a negociação envolvendo os termos do contrato, entre Weiler e [NOME] [NOME], uma vez que foi sigilosa, e envolve diversos valores, que acabam por se confundir.
+Agravo retido cujo pedido de apreciação foi reiterado pela apelada em contrarrazões que perde o objeto com o improvimento do apelo, eis que o seu provimento resultaria na baixa dos autos à origem para coleta da prova oral requerida, prova essa que não se mostra indispensável à solução da lide.
+APELAÇÃO IMPROVIDA. AGRAVO RETIDO PREJUDICADO." (fls. 1142)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, o agravante alega violação aos arts. 458, II, 914, I e 915 do Código de Processo Civil de 1973; 106, 121 e 332 do Código Civil de 2002, sustentando, em síntese, ausência de fundamentação e inexistência do dever de prestar contas.
+Apresentadas contrarrazões às fls. 1290-1325.
+É o relatório.
+Inicialmente, não se vislumbra a alegada violação ao art. 458 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste a alegada falta de fundamentação no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Nas razões recursais, a recorrente apontou violação ao artigo 106, 121 e 332 do Código Civil 2002, entretanto, não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula nº 284/STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OI S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO E COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO E OFENSA À COISA JULGADA. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+1. A recorrente limitou-se a fazer alegações genéricas, não logrando demonstrar a suposta ofensa à lei federal ou, ainda, a incorreta interpretação dos dispositivos tidos por violados, deficiência que atrai a aplicação da Súmula n. 284/STF.
+2. Agravo interno a que se nega provimento." (AgInt no AREsp 1136382/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/10/2017, DJe 20/10/2017, g.n.)
+Ademais, o eg. Tribunal de origem reconheceu o dever de prestar contas do recorrente nos seguintes termos:
+"No que diz com o dever de prestar contas, melhor sorte não assiste à recorrente, uma vez que a decisão atacada embasou-se nos itens 4.2 e 5 do contrato de prestação de serviços entabulado entre as partes, verbis.
+"4.2 Bônus Variável
+WEILER receberá um Bônus correspondente a 10% (dez por cento) do valor liquido que exceder ao valor de R$ 100.000.000,00 (cem milhões de reais) que MAGIGIONI receber pela alienação de sua participação acionária em [NOME] [NOME].
+Por valor liquido entende-se o que vier a ser recebido por [NOME] pós o pagamento de todos os honorários e remunerações necessárias á realização da venda da participação (advogados perito, instituição financeira intermediadora, auditores, avaliadores, etc.) e dos impostos
+incidentes sobre a operação (imposto de renda, CPMF e outros).
+5. Vigência do Contrato
+Este contrato poderá ser rescindido a qualquer tempo, por qualquer das partes, precedido por uma comunicação escrita com 30 dias de antecedência. Nesta hipótese, WEILER fará jus ao Bônus Variável, aludido em 4.2, caso ocorra, nos 12 (doze) meses posteriores a tal rescisão, transação entre [NOME] e algum do Potenciais Compradores ou Bancos, cujas relações com [NOME] tenham sido iniciadas até a data da rescisãom
+Portanto, diante destas cláusulas, contratadas voluntariamente entre as partes, advém o dever de prestar contas do réu, ora apelante, diante da não comprovação dos valores advindos do negócio, que é incontroverso, firmado entre ele e o comprador." (fls. 1150)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, quanto ao dever de prestar contas, demandaria interpretação de cláusulas contratuais e revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 5 e 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
