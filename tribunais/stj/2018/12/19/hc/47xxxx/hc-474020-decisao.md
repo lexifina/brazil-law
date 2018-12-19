@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de REINALDO ALEXANDRE DOS SANTOS MARTINS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo.
+Depreende-se dos autos que o paciente foi condenado, pela prática da conduta descrita no art. 157, § 2º, inciso I, do Código Penal, à pena de 6 (seis) anos, 1 (um) mês e 10 (dez) dias de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 21 (vinte e um) dias-multa.
+Contra o édito condenatório insurgiu-se a defesa.
+Entretanto, em sessão de julgamento realizada em 15 de agosto de 2018, o colegiado local negou provimento ao recurso e manteve a sentença condenatória.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública a ilegalidade, ante a ausência de fundamentos suficientes, do acórdão que manteve a pena-base acima do mínimo legal. Destaca que os elementos apontados para exasperar a sanção são inerentes ao tipo penal. Diante disso, pede a redução da basal ao mínimo legal, com a consequente alteração do regime inicial de cumprimento da sanção.
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional (e-STJ fls. 30/32).
+É, em síntese, o relatório.
+No que toca à dosimetria da pena, cumpre destacar que é o momento em que o magistrado, dentro dos limites abstratamente previstos na lei, aplica de forma fundamentada o quantum ideal de reprimenda a ser imposta ao condenado, obedecendo a um sistema trifásico.
+A fixação das penas revela um labor regulado por princípios e regras constitucionais e legais, previstos no artigo 5º, inciso XLVI, da Constituição Federal, nos artigos 59 e 68 do Código Penal e no artigo 387 do Código de Processo Penal.
+Nessa toada, para chegar a uma aplicação justa e equânime da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve ater-se às singularidades do caso concreto, para entregar a devida e substancial prestação jurisdicional.
+A ponderação das oito circunstâncias judiciais contidas no art. 59 do Código Penal não se resume a uma simples operação aritmética, uma conta matemática que fixa pesos estratificados a cada uma delas. Tal ponderação enseja um verdadeiro processo que impõe ao magistrado apontar, de forma motivada, as balizas para a fixação da pena-base e aplicar a reprimenda que melhor servirá para a prevenção e repressão do fato delituoso.
+BITTENCOURT, ao citar [NOME], descreve as circunstâncias judiciais como "condições acessórias, que acompanham o fato punível, mas não penetram na sua estrutura conceitual e, assim, não se confundem com os seus elementos constitutivos" (BITENCOURT, Cezar Roberto. Manual de Direito Penal: parte geral, v. 1., 7. ed. rev. e atual. São Paulo: Saraiva, 2002, p. 550).
+No caso, o Tribunal de Justiça, para manter a pena-base estabelecida na sentença condenatória, deixou assente que (e-STJ fls. 9/10):
+Com relação à dosimetria, verifico que o magistrado a quo considerou em desfavor do acusado as circunstâncias judiciais da culpabilidade e das consequências do crime, as quais deve ser mantidas. Isso porque, ao examinar os autos, constato que o apelante abordou as vítimas em plena via pública e, mediante ameaças de morte, passou a subtrair os telefones celulares e a arrancar os cordões dos pescoços, causando grave descontrole e aflição nos ofendidos. Dessa maneira, entendo ser justa a pena-base estabelecida em primeiro grau no patamar de 5 (cinco) anos e 6 (seis) meses de reclusão.
+Nessa linha intelectiva, indene de dúvidas que a exasperação da pena-base deu-se de forma substancialmente fundamentada, ante a elevada carga de desvalor das circunstâncias do crime. A propósito, destacou o colegiado local a forma de abordagem das vítimas pelo sentenciado, em plena via pública e mediante ameaças de morte, causando grave descontrole e sofrimento aos ofendidos. Sendo assim, a partir dos critérios elencados na lei penal, o colegiado local individualizou a pena, fundamentando o aumento em critérios de humanidade e de proporcionalidade, inexistindo reparo a ser feito nesta oportunidade.
+No mesmo caminhar:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO DUPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES E CIRCUNSTÂNCIAS DO CRIME MAIS GRAVOSAS. FUNDAMENTAÇÃO IDÔNEA PARA A EXASPERAÇÃO. PATAMAR PROPORCIONAL. INCIDÊNCIA DA MAJORANTE DO EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE. COMPROVAÇÃO DA SUA UTILIZAÇÃO NA AÇÃO CRIMINOSA POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Não configura constrangimento ilegal a exasperação da pena, na primeira fase da dosimetria, com base em circunstâncias concretas e idôneas, com relevo para as inúmeras condenações definitivas anteriores e para a circunstância de que o veículo subtraído no roubo seria destinado ao transporte de substâncias entorpecentes.
+ ..
+6. Habeas corpus não conhecido.
+(HC 470.400/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/11/2018, DJe 16/11/2018, grifei.)
+Esse o quadro, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
