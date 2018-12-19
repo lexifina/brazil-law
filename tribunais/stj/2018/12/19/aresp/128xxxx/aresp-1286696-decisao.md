@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por LÚCIO BOLONHA FUNARO contra decisão proferida pelo Tribunal de Justiça do Distrito Federal e dosTerritórios que não admitiu o recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Depreende-se dos autos que foi oferecida queixa-crime contra [NOME] pela suposta prática dos crimes previstos nos arts. 138, 139 e 140, todos do Código Penal.
+O Juízo de primeiro grau, analisando a petição de ingresso oferecida, com fulcro no art. 395, inciso III, do Código de Processo Penal, decidiu por rejeitá-la (e-STJ fls. 74/77).
+O recurso em sentido estrito interposto pelo querelante foi desprovido. Eis os termos da ementa do referido acórdão (e-STJ fl. 166):
+Direito Penal e Processual Penal. Recurso em Sentido Estrito. Ação Penal Privada. Crimes contra a honra: calúnia, difamação e injúria. Declarações prestadas pelo querelado, em diversos veículos de comunicação, a respeito de suposta participação do querelante em atividades ilícitas investigadas no âmbito da Operação Lava Jato. Rejeição da queixa-crime. Ausência de justa causa. Decisão a quo mantida. Recurso conhecido e desprovido.
+Os embargos de declaração opostos contra o supramencionado acórdão foram rejeitados nos termos da seguinte ementa (e-STJ fl. 209):
+Direito Processual Penal. Embargos de Declaração no Recurso em Sentido Estrito. Ação penal privada. Crimes contra a honra. Queixa rejeitada por ausência de justa causa. Alegação defensiva de omissão no v. acórdão embargado e de ofensa ao princípio constitucional da inafastabilidade da jurisdição. Pretensão de rejulgamento da causa. Prequestionamento. Declaratórios conhecidos e desprovidos.
+Irresignado, o querelante interpôs recurso especial sustentando violação ao disposto nos arts. 41, 619 e 620, todos do Código de Processo Penal, e arts. 78 e 81, ambos da Lei n. 9.099/1995.
+Denota, em síntese, que "a tramitação, de processo penal em que o ora Recorrente figura como réu não serve, por si só, para afastar o lastro probatório. minimo existente na presente persecução penal que possui, em seu bojo, fatos e provas diversas daquele processo." (e-STJ fl. 228).
+Inadmitido na origem, os autos foram remetidos a este Tribunal Superior por força de agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (e-STJ fls. 304/321).
+É, em síntese, o relatório. Decido.
+O acórdão recorrido manteve a decisão que rejeitou a queixa-crime com base nos seguintes fundamentos (e-STJ fls. 171/174):
+A justa causa para o exercício da ação penal deve ser entendida como "(..) um lastro probatório mínimo indispensável para a instauração de um processo penal (prova da materialidade e indícios de autoria), funcionando como uma condição de garantia contra o uso abusivo do direito de acusar" (BRASILEIRO, Renato. Código de Processo Penal comentado. Salvador: JusPodivm, 2016, p.1.085).
+Esse lastro probatório mínimo não veio aos autos pelas razões que passo a deduzir In casu.a peça acusatória não está amparada em um suporte probatório mínimo para o fim de justificar a propositura da presente ação penal, uma vez que os fatos relatados nas matérias jornalísticas são objeto de investigações policiais em andamento, o que afasta a alegada prática de crimes contra a honra (Operação Lava Jato).
+Oportuno ressaítar que, fiíavendo elementos de possível envolvimento do querelante em crimes graves, não constitui ato ilegal ou ilegítimo, a divulgação, dentro das balizas da razoabilidade e da proporcionalidade, dos fatos supostamente criminosos em apuração.
+ ..
+Ad argumentandum tantum, nos crimes contra a honra, exige-se, demonstração do intento positivo e deliberado de lesar a honra alheia. Trata-se do animus injuriandi vel diffamandi, conforme leciona Nelson Hungria:
+ ..
+Para a verificação do animus do querelado, deve-se examinar o contexto em que ocorreram as ditas ofensas contra o querelante, a partir das alusões e do cenário dos fatos.
+Do que consta dos autos, verifica-se que o querelado informou aós jornalistas as declarações que prestou em seu depoimento à Procuradoria-Geral da República e esclareceu seu envolvimento nas investigações dã Dperação Lava Jato, o que evidencia a ausência de intenção de ofender.
+De fato, a queixa-crime não traz consigo a demonstração do elemento volitivo ínsito à conduta criminosa, ou seja, não demonstra a existência de dolo específico necessário à configuração dos crimes contra a honra, razão pela qual resta ausente a justa causa para o prosseguimento da persecução criminal. Grifiei.)
+Na hipótese, o Tribunal de origem concluiu que não há elementos suficientes para o recebimento da queixa-crime. Desse modo, modificar esse entendimento exigiria, necessariamente, o reexame de provas, o que é vedado nesta via. Incide, assim, a Súmula n. 7/STJ, porquanto não há como proceder a tal verificação.
+A propósito, precedentes de ambas as Turmas componentes da Terceira Seção deste Tribunal Superior:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. QUEIXA-CRIME. CALÚNIA, INJÚRIA E DIFAMAÇÃO. REQUISITOS DO ART. 41 DO CÓDIGO PENAL - CP. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DO VERBETE N. 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- Inafastável a incidência do Verbete n. 7 da Súmula do STJ. Com efeito, o acolhimento da pretensão recursal, no sentido de reconhecer o preenchimento dos requisitos do art. 41 do CP, a fim de receber a queixa-crime, demandaria necessariamente o reexame do conjunto fático-probatório, tarefa que não se viabiliza em recurso especial.
+Agravo regimental desprovido. (AgRg no AgRg no AREsp 739.995/PR, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 17/03/2016, DJe 05/04/2016, grifei.)
+AGRAVO REGIMENTAL. PENAL E PROCESSO PENAL. RECURSO ESPECIAL. CRIME CONTRA A HONRA. PROMOTOR DE JUSTIÇA. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A reforma do acórdão recorrido, que rejeitou a queixa-crime por entender que não houve ofensa à honra dos querelantes pelo querelado, promotor de justiça, que teria agido dentro das suas atribuições legais, demandaria o revolvimento das provas dos autos, o que não se admite nesta instância extraordinária, a teor do disposto na Súmula 7 desta Corte Superior de Justiça.
+2. No que toca à demonstração do dissídio jurisprudencial, não basta a simples transcrição de ementas de julgados supostamente divergentes do acórdão recorrido, devendo ser evidenciadas as circunstâncias que identifiquem ou assemelhem os casos confrontados, nos termos do artigo 255, § 2º, do RISTJ.
+3. A oposição de embargos declaratórios não é suficiente para suprir o requisito do prequestionamento, sendo indispensável o efetivo exame da questão pelo acórdão recorrido, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, de modo a se evitar a supressão de instância.
+4. Agravo regimental improvido.
+(AgRg no REsp 1445856/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/05/2015, DJe 02/06/2015, grifei)
+PENAL. AGRAVO REGIMENTAL. CRIMES CONTRA A HONRA. DIFAMAÇÃO E INJÚRIA. ALEGAÇÃO DE EXCESSO. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. A configuração dos crimes previstos nos arts. 139 e 140 do Código Penal reclama a presença do elemento subjetivo do tipo, consistente no dolo específico, que é a intenção de macular a honra alheia.
+2. No caso, o exame da pretensão deduzida no recurso especial, no sentido de se reconhecer o animus diffamandi e/ou animus injuriandi, notadamente eventual excesso ou abuso a ser punido, demandaria a incursão aprofundada no conteúdo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 desta Corte.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 482.234/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 21/05/2015, DJe 02/06/2015, grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
