@@ -1,0 +1,76 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. LEGITIMIDADE ATIVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. DANO MORAL. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por [NOME] - DISTRIBUIDORA DE ENERGIA S.A., com base no art. 105, III, a, da Constituição Federal.
+Compulsando os autos, verifica-se que os agravados ajuizaram ação de obrigação de fazer cumulada com indenização por danos morais (e-STJ, fls. 5-19), tendo o Juízo de primeiro grau julgado parcialmente procedentes os pedidos, condenando a ré ao pagamento de indenização por danos morais, ao tempo em que deixou de condenar a ré a promover a instalação de rede de energia elétrica, porque o serviço já havia sido implementado (e-STJ, fls. 497-502).
+Interposto recurso de apelação pela ora agravante, o Tribunal de origem decidiu, por unanimidade, dar-lhe parcial provimento, em acórdão assim ementado (e-STJ, fl. 571):
+APELAÇÃO CIVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COM DANOS
+MORAIS - IMPLANTAÇÃO DE REDE ELETRICA EM FAZENDA - PRELIMINAR REJEITADA - ALEGAÇÃO DE ATENDIMENTO A PROGRAMA DO MINISTERIO DE MINAS E ENERGIA - LUZ PARA TODOS - INSUBSISTENCIA - SERVIÇO PUBLICO ESSENCIAL - AUSENCIA DE PROVAS CONTUNDENTES SOBRE A INVIABILIDADE DA IMPLANTAÇÃO DA REDE - ONUS DO APELANTE QUE NÃO SE DESINCUMBIU - AFASTAMENTO DA INCIDENCIA AUTOMATICA DA MULTA DO ART.523,§1º DO NCPC - RECURSO PARCIALMENTE PROVIDO - DECISÃO UNANIME.
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, a recorrente alegou violação aos arts. 17, 18, 355, I, 369 e 373, I e II, do CPC/2015; 884 e 944 do CC.
+Contrarrazões apresentadas (e-STJ, fls. 696-709).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da Súmula n. 7/STJ.
+Brevemente relatado, decido.
+A Corte estadual, ao julgar o recurso de apelação acerca da legitimidade ativa de 6 (seis) dos 7 (sete) autores, concluiu (e-STJ, fl. 572, sem grifo no original):
+A presente Apelação preenche os requisitos necessários à admissibilidade, merecendo, portanto, conhecimento.
+Preliminarmente, afasto a alegada ilegitimidade ativa do Sr. [NOME], sua esposa e filhos, uma vez que restou demonstrada a moradia deles na Fazenda Serrado, de acordo com a documentação anexada aos autos, bem como em função de toda a explanação do juiz, que com brilhantismo afastou tal preliminar, sendo desnecessária maiores discussões sobre o tema.
+Vejamos trecho da decisão combatida:
+"Em sede de contestação, a empresa concessionária requerida arguiu, inicialmente, a ilegitimidade de [NOME] e de seus familiares para figurarem no polo ativo da presente demanda, uma vez que não havia nos autos qualquer comprovação do vínculo daqueles com o imóvel carecedor de energia elétrica.
+Nesse sentido, verifico que o requerente [NOME] é vaqueiro do imóvel em questão, consoante anotação na CTPS acostada aos autos às fls. 221/223, revestindo-se de verossimilhança as alegações do mesmo de que reside na Fazenda Serrado, local de seu trabalho.
+De mesmo modo, verifico que [NOME] é casado com [NOME], e são genitores de [NOME], [NOME], [NOME] e [NOME], conforme relatado na exordial e documentos de fls. 11/12 e 220, e coabitam no mesmo lugar.."
+Assim, considerando que o Tribunal a quo, baseado na provas dos autos, constatou terem os autores legitimidade ativa, rever tais premissas significa reexaminar o conjunto fático-probatório do processo, providência inadmissível na via eleita, nos termos da Súmula 7/STJ.
+Em relação ao suposto cerceamento de defesa, da acurada análise do presente recurso, constata-se que do acórdão recorrido não se extrai manifestação da Corte estadual sobre referida matéria, não tendo sido sequer opostos embargos de declaração.
+Diante desse contexto, não havendo pronunciamento do Tribunal sobre tal ponto, tem-se que o prequestionamento, requisito viabilizador do recurso especial, não foi preenchido, o que impede o conhecimento da matéria por esta Corte Superior, nos termos dos Enunciados 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. ACIDENTE. AFRONTA AOS ARTS. 402, 403, 730, 733 E 734 DO CÓDIGO CIVIL. NÃO DEMONSTRAÇÃO. ENUNCIADO 284 DA SÚMULA/STF. AUSÊNCIA DE PREQUESTIONAMENTO. VERBETE 282 DA SÚMULA/STF. DANOS MORAL E MATERIAL. CARACTERIZAÇÃO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. LIVRE CONVENCIMENTO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+ ..
+2. As matérias constantes dos dispositivos legais apontados como violados não foram objeto de debate pela Corte de origem. Ausente o necessário prequestionamento, incidente o óbice do enunciado 282 da Súmula do STF.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1111956/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+Além disso, constata-se que a questão relativa ao cerceamento de defesa não foi aventada na apelação de fls. 505-541 (e-STJ), mas tão somente na de fls. 370-401 (e-STJ), a qual foi apreciada pelo TJSE, sendo declarada nula a sentença em decorrência do cerceamento (e-STJ, fls. 438-447), retornando os autos ao Juízo de primeiro grau que, após a produção das provas requeridas, proferiu novo julgamento (e-STJ, fls. 497-502), contra o qual foi interposta nova apelação (e-STJ, fls. 505-541). Desse modo, a mencionada alegação caracteriza indevida inovação recursal.
+No que diz respeito ao dano moral, a Corte local concluiu (e-STJ, fls. 572-574):
+ ..
+Ressalto, mais, o fornecimento de energia representa o próprio desenvolvimento da região acolhida, ao contrário da sua ausência, que implica retirar dos moradores um bem essencial, posto que qualquer utensilio doméstico exige o uso de energia.
+A excelência da exposição do juiz sentenciante, complementa os fundamentos deste voto:
+Sendo, portanto, a energia elétrica um serviço público essencial à vida humana, este não pode ser negado aos autores, em consequência do dever estatal de proporcionar uma vida digna aos seus administrados, como bem determina o art. 22 do Código de Defesa do Consumidor.
+Há de se deixar claro que, nos tempos em que vivemos, privar algumas pessoas de desfrutar de benefícios como a energia elétrica é deixá-los à margem da sociedade de consumo, já que a utilização da energia elétrica é necessária para o desempenho das atividades mais simples possíveis. Em regra, toda atividade humana necessita de utensílios para ser concretizada. Tais bens, devido ao avanço tecnológico, necessitam de energia elétrica para serem utilizados.
+Nesse contexto, vislumbra-se que a instalação da rede de energia elétrica na residência dos autores é um direito fundamental, não sendo pertinentes as alegações da ré de que a obra não estaria atrasada pois, tratando-se de propriedade situada em território contemplado pelo Projeto Luz para Todos, o prazo para término dos serviços de implantação foi prorrogado para o ano de 2014, e que estava seguindo as normas do Ministério de Minas e Energia, que coordena tal programa. A estipulação de tal prazo visou assegurar a inclusão de todas as propriedades abrangidas pelo aludido Plano, independentemente de requerimento do consumidor. Nos casos em que esse requerimento é expresso, exsurge prazo para conclusão da obra, cujo atraso só pode ser justificado por incompatibilidade técnica, o que sequer foi alegado pela requerida. Ressalta-se que, esses serviços não são gratuitos, o usuário pagará por eles, por isso não há motivo algum para que o consumidor cidadão tenha seu direito negado.
+Assim, tendo em vista as circunstâncias e peculiaridades que revestem o caso, a procedência da ação é a medida que se impõe, a fim de assegurar o direito dos autores de ter o sistema elétrico em sua moradia em funcionamento, devidamente regularizado, devendo a concessionária de serviço público assim proceder.
+Ora, seja a responsabilidade objetiva ou subjetiva, está clara a culpa da Concessionária que não apresentou motivos plausíveis à não instalação da rede elétrica na Fazenda Serrado, em especial havendo pedido administrativo pelos autores.
+Há sim, portanto, indícios suficientes do dano causado pelo réu aos autores.
+O dano moral é constitucionalmente assegurado como forma de proteção ao direito fundamental à honra, intimidade e privacidade, conforme o disposto no art. 5º, X da Constituição Federal de 1988.
+Na verdade, para a configuração do dano moral, o magistrado deve se pautar pela lógica do razoável, reputando dano somente à dor, ao sofrimento ou à humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe
+aflições, angústia e desequilíbrio em seu bem estar.
+A reparação por dano moral deve envolver necessariamente a idéia de ser uma compensação pela agressão a valores tais como a paz, a tranqüilidade de espírito, a liberdade, os direitos de personalidade.
+ ..
+Insta, por fim, salientar que são pressupostos da responsabilidade civil a conduta ilícita, o nexo de causalidade e o dano, sendo que, ausente qualquer dos requisitos, não há que se falar em dever de indenizar, e neste caso em espeque, provado encontra-se o dano.
+Portanto, configurado o dano moral, passa-se a sua quantificação, motivo também de insurgência da autora.
+Para se chegar a um valor justo para o caso concreto, é necessário sopesar alguns aspectos, atentando-se à extensão do dano, ao comportamento dos envolvidos, às condições econômicas e sociais das partes e à repercussão do fato, valendo-se o Julgador de sua experiência e do bom senso necessário às peculiaridades de cada caso.
+ ..
+Sabe-se que o dano moral, conquanto seja impossível compará-lo ao dano sofrido pela vítima, deve ser estipulado como uma forma de sanção civil, a fim de que o ato ilícito perpetrado não venha a ser reiterado outras vezes.
+Desta forma, entendo como justo o valor arbitrado de R$ 10.000,00 (dez mil reais) para o proprietário da Fazenda, e R$ 30.000,00 para serem repartidos entre o Sr. [NOME], sua esposa e filhos (4), ao mesmo tempo em que não gera qualquer enriquecimento ilícito.
+Da análise do acórdão recorrido, observa-se que o TJ estadual entendeu pela condenação da ora recorrente ao pagamento de indenização por danos morais com base nos fatos e provas dos autos. Nesse contexto, reverter a conclusão do Tribunal a quo, para acolher a pretensão recursal quanto à existência, ou não, do direito dos recorridos à indenização por danos morais, demandaria o revolvimento do acervo fático-probatório dos autos, o que também se mostra inadmissível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CLÁUSULA ABUSIVA. DANO MORAL. NÃO RECONHECIMENTO NA ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. NÃO PROVIMENTO DO RECURSO.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado n. 7 da Súmula do STJ.
+ 2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 892.739/SP. Relatora Ministra Maria Isabel Gallotti,
+Quarta Turma, DJe 26/4/2017).
+Outrossim, relativamente ao quantum indenizatório referente aos danos morais, ressalte-se que "a intervenção desta egrégia Corte para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes, não sendo este o caso dos autos" (AgRg na Rcl n. 4.847/SE, Rel. Ministro Raul Araújo, Segunda Seção, DJe 17/2/2011).
+Na espécie, o TJSE, confirmando a decisão do Juízo de primeiro grau e diante das peculiaridades fáticas do caso, reputou adequada a fixação da indenização a título de danos morais no valor total de R$ 40.000,00 (quarenta mil reais). Essa quantia não se afigura excessiva, o que torna inviável o recurso especial, no ponto, nos termos do enunciado n. 7 da Súmula do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. FURTO. IMPUTAÇÃO. AUSÊNCIA DE PROVAS. POSTERIOR. ABSOLVIÇÃO. ABUSO DE DIREITO CONFIGURADO. REEXAME. VALOR INDENIZATÓRIO. REDUÇÃO. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. Consoante a jurisprudência sedimentada nesta Corte Superior, os novos prazos fixados pelo Código Civil de 2002, sempre que reduzidos em relação aos prazos anteriormente previstos, estão sujeitos à regra de transição do art. 2.028 daquele diploma legal, devendo, por isso, ser contados a partir da entrada em vigor do Código de Processo Civil de 2015.
+3. Rever o entendimento da Corte de origem, concluiu que a recorrente teria tido atitude leviana, agido de má-fé e com abuso do exercício regular do direito, esbarraria no óbice da Súmula nº 7/STJ.
+4. O valor de R$ 30.000,00 (trinta mil reais) fixado a título de danos morais não se mostra exorbitante, sendo inviável sua revisão por esta Corte, com base na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1471035/PI, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS E REPETIÇÃO DO INDÉBITO. SEGURO DE AUTOMÓVEL. FURTO. DANO MORAL CONFIGURADO. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. REVISÃO. SÚMULA 7/STJ. QUANTUM. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de recurso especial, a teor da Súmula 7 deste Tribunal.
+2. No tocante ao valor fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o quantum estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso, de modo que a sua revisão também encontra óbice na Súmula 7 do STJ.
+3. Deixou a recorrente de indicar o dispositivo de lei federal violado ao indicar a divergência jurisprudencial, não cumprindo com os requisitos de conhecimento do recurso especial. Súmula 284/STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp 637.381/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2016, DJe 02/03/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
