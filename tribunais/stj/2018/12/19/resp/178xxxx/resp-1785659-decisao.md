@@ -1,0 +1,20 @@
+EMENTA
+RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. DANO MORAL NÃO CONFIGURADO. RECURSO IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 372):
+PLANO DE SAÚDE - PERÍODO DE CARÊNCIA - INAPLICABILIDADE APENAS PARA HIPÓTESES DE URGÊNCIA - REEMBOLSO DEVIDO POR DESPESAS REALIZADAS - DANO MORAL INEXISTENTE POR MERO PROBLEMA HAVIDO EM CONTRATO ALÉM DO QUE SUBLIMADO PELA RÁPIDA ATUAÇÃO DO JUDICIÁRIO - SENTENÇA PARCIALMENTE REFORMADA - APELO EM PARTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais (e-STJ, fls. 386-394), a parte recorrente alega que o acórdão recorrido incorreu em violação dos arts. 6º, VI, 14, 46, 47, 48 do CDC; e 12, 186, 187 e 927 do Código Civil de 2002, ao considerar não configurado o dano moral na hipótese dos autos. Afirma, para tanto, que a negativa de custeio pela operadora não configura mero inadimplemento contratual, uma vez que agrava a situação de aflição psicológica da segurada/gestante, que precisou realizar todos os exames do pré-natal no SUS. Portanto, deve ser compensada através da fixação de indenização a título de danos morais.
+Contrarrazões apresentadas às fls. 436-441 e 453-458 (e-STJ).
+Admitido o recurso na origem, subiram os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Com efeito, a jurisprudência desta Corte entende que, "quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente" (EDcl no AREsp 626.695/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 18/06/2015)
+Na hipótese em exame, conforme os elementos fáticos e probatórios descritos pelo Tribunal de origem, a operadora efetuou o reembolso por todos os procedimentos realizados no pré-natal da autora. Portanto, não se constatou a existência de abalo psíquico ou moral.
+Eis o teor de trechos do voto condutor do acórdão recorrido (e-STJ, fl. 373):
+Mas o apelo colhe acatamento no tocante ao malsinado dano moral deferido; aqui vê-se que em nenhum momento houve vulneração ao complexo valorativo da pessoa humana; a exegese gramatical do Contrato levada a efeito pelo apelante não é motivo bastante para que se dê guarida à pretensão, mesmo porque o dano moral foi sublimado pela rápida intervenção do Judiciário. ver que o Des. JOSÉ JOAQUIM DOS SANTOS aponta que a hipótese não configura o maltratado instituto: assim seu Voto 19.089 - além do que professou no Voto 19.244 que, TAL COMO AQUI, "socorro à via judicial faz com que não haja repercussão moral a seu favor"; ainda desta Câmara o próprio Relator Des. ALVARO PASSOS detém basto entendimento nesse sentido: A SIMPLES RECUSA DE COBERTURA POR SI SÓ NÃO ENSEJA IMPOSIÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ensina em seu Voto 20.271; outros precedentes de S.Exa. nos Votos 20.504, 21.171 e 22.902.
+Demais disso, esta Câmara, por meio de um de seus mais ilustres e cultos e competentes integrantes, daqui infelizmente afastado pelo decurso de seu biênio, SANTINI TEODORO, no Voto condutor 2.772, assentou que nem havia de ser indenizado o dano moral, pois que ficou este superado pelo TRATAMENTO RAPIDAMENTE DETERMINADO PELO JUDICIÁRIO - tal como aqui.
+
+Ressalto que as aludidas conclusões fáticas delineadas no acórdão combatido não podem ser revistas na via estreita do recurso especial, porquanto exigiria, necessariamente, o revolvimento do conjunto de fatos e provas dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse contexto, adotando-se as premissas estabelecidas pela Corte de origem, entendo que não foi trazida aos autos nenhuma situação extraordinária capaz de ensejar a condenação à indenização por danos morais.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
