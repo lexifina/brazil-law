@@ -1,0 +1,6 @@
+DECISÃO
+TARIK EL KHATIB ABDOUNI SANTOS alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 0000011-28.2017.8.26.9057.
+Verifico, com base nas informações prestadas pelo Juízo singular, que, em 9/11/2018, foi proferida sentença condenatória na ação penal de origem para condenar o réu, como incurso no art. 331 do Código Penal, à pena de 6 meses de detenção, em regime inicial aberto, substituída a pena privativa de liberdade por prestação de serviços à comunidade, ocasião em que lhe foi concedido o direito de recorrer em liberdade. Evidencia-se, dessa forma, a prejudicialidade deste writ, no qual a defesa postula o trancamento do processo pela ausência de justa causa.
+Com efeito, a jurisprudência desta Corte Superior é firme em assinalar que "a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" (HC n. 384.302/TO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 9/6/2017, grifei).
+À vista do exposto, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
