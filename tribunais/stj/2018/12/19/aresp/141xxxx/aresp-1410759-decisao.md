@@ -1,0 +1,41 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. PRESTAÇÃO DE SERVIÇOS. CONTRATAÇÃO DE PACOTE TURÍSTICO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ISAC MACHADO DA SILVA (ISAC) ajuizou ação de indenização por danos materiais c/c compensação por danos morais contra O BOTEQUIM CERVEJARIA PIRACICABA (BOTEQUIM), RRTUR VIAGENS E TURISMO LTDA. (RRTUR) e AGAXTUR TURISMO LTDA. (AGAXTUR), sustentando que adquiriu pacote turístico para evento denominado "BOTEQUIM A BORDO", que foi cancelado quatro dias antes do embarque.
+Foi afastada a legitimidade passiva da AGAXTUR e o pedido inicial foi julgado procedente para condenar o BOTEQUIM e a RRTUR a pagar, solidariamente, quantia a título de danos materiais e morais, além das custas, despesas processuais e honorários advocatícios fixados em 10% (e-STJ, fls. 479/487).
+Interposta apelação por ISAC, o Tribunal de origem deu provimento ao recurso para reconhecer a legitimidade passiva de AGAXTUR, em acórdão assim ementado:
+PRESTAÇÃO DE SERVIÇOS. AÇÃO DE INDENIZAÇÃO. CONTRATAÇÃO DE PACOTE TURÍSTICO. CANCELAMENTO DE CRUZEIRO MARÍTIMO. PRESTAÇÃO DEFICIENTE DO SERVIÇO. LEGITIMIDADE PASSIVA DA INTERMEDIADORA, INTEGRANTE QUE É DA CADEIA DE FORNECEDORES. EXTENSÃO DA CONDENAÇÃO. RECURSO PROVIDO. A operadora de turismo é responsável solidária pela reparação dos danos decorrentes da má prestação dos serviços inerentes ao cruzeiro marítimo oferecido ao autor, e isto porque integra a cadeia de fornecedores. É, portanto, parte legítima para figurar no polo passivo da ação, em razão do que também é alcançada pela condenação (e-STJ, fl. 516).
+Os embargos de declaração opostos por AGAXTUR foram rejeitados (e-STJ, fls. 529/532).
+Inconformada, AGAXTUR interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação de dispositivos infraconstitucionais (arts. 7º, parágrafo único, 18, 19 e 25 do CDC; art. 265 do CC/02; e, art. 485, VI, do NCPC) e dissídio jurisprudencial, por entender que não é parte legítima para figurar, solidariamente, no polo passivo da demanda, pois não participou da comercialização do serviço e sequer recebeu pagamento (e-STJ, fls. 534/541).
+Contrarrazões apresentadas (e-STJ, fls. 556/560).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls. 562/563; 566/574).
+Contraminuta não apresentada (e-STJ, fl. 577).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente agravo foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Da legitimidade passiva
+Insurgiu-se AGAXTUR sustentando, em suma, que não é parte legítima para figurar, solidariamente, no polo passivo da demanda.
+O Tribunal local, por sua vez, assim se manifestou sobre a questão:
+Colocados os posicionamentos das partes, verifica-se, de plano, que não existe razão para falar em ilegitimidade passiva e isto porque, se estabeleceu uma relação de consumo e a demandada a integra.
+Já se encontra pacificado na jurisprudência o entendimento de que a agência e a operadora de turismo respondem solidariamente pela má realização dos serviços inerentes ao pacote turístico, integrantes que são da cadeia de consumo.
+Na hipótese, verifica-se que o consumidor assinou documento constando o logotipo da Agaxtur (fl. 13). E, além disso, a própria ré apresentou e-mails e documentos que denotam uma parceria com a agência R.R. Tur para a realização do cruzeiro, sendo que as tratativas para reserva de cabine foram feitas no mesmo período em que o autor efetivou a contratação (fls. 94/139).
+É inegável que ao demandante foi exteriorizada situação que o fez acreditar que contratava o pacote turístico também com a apelada Agaxtur, e por isso não há como deixar de reconhecer que a responsabilidade existe. Se a corré R.R. Tur agiu indevidamente em seu nome, é assunto a ser objeto de eventual ação de regresso (e-STJ, fl. 518).
+Verifica-se que o Tribunal de origem, com base no acervo fático-probatório, reconheceu a legitimidade passiva de AGAXTUR, condenando-a, solidariamente, ao pagamento dos danos morais e materiais. Portanto, ultrapassar a conclusão a que chegou o eg. Tribunal a quo acerca de sua legitimidade para figurar no polo passivo da lide, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO RÉU.
+1. A reforma do entendimento do Tribunal estadual no tocante ao exame da legitimidade passiva do insurgente demandaria a alteração das premissas fático-probatórias estabelecidas e, consequentemente, o reexame das provas anexadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula n. 7 do STJ. Precedentes.
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não autoriza sua modificação em sede de recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.205.297/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 20/9/2018, DJe 28/9/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE SOLIDÁRIA ENTRE A CONCESSIONÁRIA (FORNECEDORA) E A MONTADORA. INCIDÊNCIA DA SÚMULA 83 DESTA CORTE. ILEGITIMIDADE PASSIVA AFASTADA. REEXAME DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. O Tribunal local, soberano na análise dos elementos fáticos e probatórios dos autos, reconheceu que a fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia.
+3. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, no tocante à alegação de ilegitimidade passiva da recorrente, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.199.890/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 24/4/2018, DJe 3/5/2018)
+Não sendo possível o reexame da moldura fática delineada no acórdão recorrido, fica prejudicada a análise do especial baseado nas alíneas a e c do permissivo constitucional.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de AGAXTUR , nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
