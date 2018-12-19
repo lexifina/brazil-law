@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA. FORNECIMENTO DE MEDICAMENTOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que não admitiu o recurso especial apresentado por Unimed de Dourados Cooperativa Trabalho Médico, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 215):
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C DECLARATÓRIA DE NULIDADE C/C DANOS MORAIS - PLANO DE SAÚDE - FORNECIMENTO DE MEDICAMENTO PARA TRATAMENTO DOMICILIAR - ANTECIPAÇÃO DOS EFEITOS DA TUTELA - PERIGO DE DANO IRREPARÁVEL - VEROSSIMILHANÇA DAS ALEGAÇÕES - PREENCHIMENTO DOS REQUISITOS EXIGIDOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA - LIMINAR MANTIDA.
+1. Controvérsia centrada na discussão sobre o acerto da decisão agravada que concedeu a tutela de urgência.
+2. Estando presente, simultaneamente, a verossimilhança das alegações (fumus boni iuris) e o perigo de lesão grave e de difícil reparação ao direito da parte (periculum in mora), e não havendo, ainda, risco de irreversibilidade da medida, é de ser deferida a antecipação dos efeitos da tutela.
+3. No caso, manutenção da liminar que determinou que a agravante providencie o tratamento médico solicitado pela agravada.
+4. Agravo de Instrumento conhecido e não provido.
+Em suas razões de recurso especial (e-STJ, fls. 223-238), a recorrente alegou violação dos arts. 300 do do Código de Processo Civil de 2015 e 10 e 12 da Lei n. 9.656/1998, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o valor da garantia objeto da operação de crédito entre recorrente e recorrido é muito maior que a dívida e, não sendo arrematado no primeiro leilão, o imóvel poderia ser arrematado pelo valor da dívida, o que traria grande prejuízo.
+Não foram apresentadas contrarrazões (e-STJ, fl. 252).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência das Súmulas n. 7 e 83 do STJ e 735 do STF (e-STJ, fls. 254-258).
+Brevemente relatado, decido.
+Com efeito, é pacífico o entendimento desta Corte de que, em regra, não cabe recurso especial contra decisão proferida em liminar ou antecipação de tutela, seja para deferi-la, seja para negá-la, na linha do entendimento contido na Súmula n. 735 do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO QUE DEFERIU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ANÁLISE DO MÉRITO DA DEMANDA. IMPOSSIBILIDADE. SÚMULA 735/STF, APLICADA POR ANALOGIA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na forma da jurisprudência, não é cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa, que, em liminar ou antecipação dos efeitos da tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto (em relação a) tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (STJ, REsp 765.375/MA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 08/05/2006). Em igual sentido: STJ, AgRg no AREsp 404.891/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 18/12/2013.
+II. Agravo Regimental improvido.
+(AgRg no REsp n. 1.289.023/PB, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/6/2015, DJe 25/6/2015)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO INTERLOCUTÓRIA. PROCESSO CAUTELAR. INCIDÊNCIA DO ART. 542, § 3º, DO CPC. RECEBIMENTO NA FORMA RETIDA. RECURSO INTERPOSTO CONTRA DECISÃO LIMINAR/ANTECIPATÓRIA DE TUTELA. SÚMULA N. 735/STF.
+1. Nos termos do que dispõe o art. 542, § 3º, do Código de Processo Civil, o recurso especial oriundo de decisão interlocutória proferida em processo de conhecimento, cautelar ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte por ocasião da interposição de recurso contra a decisão final.
+2. Nessas hipóteses, tem-se entendido que, em razão do processamento indevido do recurso especial, o qual, a rigor, devia ter permanecido retido, nos termos do art. 542, § 3º, do CPC, os autos devem ser restituídos ao Tribunal a quo em observância do preceito legal. Precedentes.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar"), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 581.358/RJ, Relator o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe 5/5/2015)
+Ademais, extrai-se do acórdão proferido pelo Tribunal de origem o seguinte (e-STJ, fls. 218-219):
+(..)
+O Magistrado de primeiro grau deferiu a tutela de urgência.
+O artigo 300, do Código de Processo Civil/15 prevê que a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Em síntese, a interposição de Agravo de Instrumento contra decisão que apreciou, na origem, pedido de tutela provisória devolve ao Tribunal a apreciação desses requisitos.
+Na espécie, não há dúvidas sobre a existência de perigo de dano irreparável na medida pleiteada pela agravada, pois necessita realizar tratamento médico contra a trombofilia, com o fornecimento do medicamento, com urgência, sob pena de risco de perda fetal.
+No que tange a probabilidade do direito vindicado, importante salientar que a autora-recorrida comprova que é beneficiária do plano de saúde Unimed e necessita do medicamento (f. 31 e 33-42 da origem).
+Além disso, o posicionamento do Superior Tribunal de Justiça é de que "ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento da doença coberta pelo plano" (STJ - AgRg no AREsp 740203 / RJ, Ministro Marco Buzzi, Quarta Turma, DJe 14/12/2016), sendo que "revela-se abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar. Precedentes do STJ." (STJ - AgInt no AREsp 1064435 / GO, Ministra Maria Isabel Gallotti, 4ª Turma, DJe 23/11/2017).
+Em especial porque rol da ANS é meramente exemplificativo e, havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio do procedimento médico, inclusive domiciliar.
+Assim, num juízo perfunctório, ao que tudo indica, também há verossimilhança no direito vindicado pela paciente, pois a recorrente tem responsabilidade em custear o tratamento médico pleiteado, com o fornecimento do medicamento.
+Logo, verifico não haver, aparentemente, plausibilidade capaz de determinar a reforma da decisão impugnada.
+Dessa forma, para rever o entendimento do acórdão recorrido acerca da presença dos requisitos necessários ao deferimento da tutela de urgência, seria necessário o revolvimento do conjunto fático-probatório dos autos, medida defesa em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Corrobora esse entendimento o seguinte julgado:
+PROCESSUAL CIVIL. AMBIENTAL. PEDIDO DE ANTECIPAÇÃO DE TUTELA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  ..
+3. A iterativa jurisprudência do STJ é no sentido de que, para analisar os critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", nos termos do art. 273 do CPC/1973, o que não é possível em Recurso Especial, dado o óbice da Súmula 7 desta Corte.
+4. Enfim, modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. Nesse sentido: EDcl no REsp 1.435.614/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 1/9/2015, e AgRg no REsp 1.491.498/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/8/2015.
+5. Ademais, é "sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final." (AgRg no AREsp 400.375/GO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/12/2013).
+6. Agravo Interno não provido.
+(AgRg no AREsp n. 820.974/SC, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 19/4/2016, DJe 25/5/2016).
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, o que não é possível de ser feito nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
