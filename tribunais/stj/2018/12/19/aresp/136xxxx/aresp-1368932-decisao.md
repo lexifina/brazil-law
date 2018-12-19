@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRESTAÇÃO DE SERVIÇOS DE CORRETAGEM. AUSÊNCIA DE INTERESSE DE AGIR. INADEQUAÇÃO DA VIA ELEITA. ARTIGO DE LEI TIDO POR VIOLADO NÃO PREQUESTIONADO. SÚMULAS 282 E 356/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por MARIA GORETI PARAISO contra a decisão de fls. 110-111 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo especial foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 91, e-STJ):
+AÇÃO DE EXIGIR CONTAS. ART. 550 DO NCPC. CORRETAGEM. NÃO CABIMENTO. VIA ELEITA INCORRETA. FALTA DE INTERESSE PROCESSUAL RECONHECIDA. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO. ART. 485, INC. VI, NCPC. A ação de exigir contas tem lugar quando há administração de bens ou interesses alheios, sendo credor das contas aquele em favor de quem a administração se deu (art. 550 do NCPC). A relação jurídica existente entre as partes não denota administração de bens, mas apenas prestação de serviços de corretagem, pelo que indevida a via processual eleita.
+Recurso desprovido, com observação.
+Nas razões do recurso especial (e-STJ, fls. 100-104), a recorrente alegou que o acórdão impugnado incorreu em violação do art. 20, III, da Lei 6.530/1978.
+Sustentou, em síntese, estar presente seu interesse de agir, bem como fazer jus à prestação de contas pleiteada, em razão da prestação de serviços de corretagem pela parte adversa.
+A Corte de origem deixou de admitir o recurso especial pelos seguintes fundamentos: a) não houve demonstração das vulnerações legais suscitadas; e b) aplicação da Súmula 7/STJ.
+Irresignada (fls. 114-116, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 121-124 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que respeita à alegada afronta ao art. 20, III, da Lei 6.530/1978, verifica-se que o conteúdo do citado normativo não foi objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão do tema nele contido, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, nestes termos:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito de prequestionamento.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Na hipótese ora em foco, o Tribunal de origem, ao dirimir a controvérsia, extinguiu o feito sem julgamento do mérito em razão da inadequação da via eleita e, consequentemente, por ausência de interesse de agir da recorrente, de acordo com os fundamentos abaixo transcritos (e-STJ, fls. 92-96, sem grifos no original):
+(..)
+Deflui das provas acostadas aos autos que a autora ajuizou ação de exibição de contas contra os réus sob a alegação de que em junho de 2013 os demandados intermediaram a venda e compra de um imóvel adquirido pela requerente. Afirma que na ocasião os réus receberam valores da autora referentes à comissão imobiliária, contudo, não foram prestadas as contas nem emitido recibo. Assevera não ter conhecimento da verdadeira destinação dos valores que foram pagos nem os documentos elaborados. Requer a exibição das contas, elencando todos os itens que pretende sejam apresentados.
+Indaga-se acerca da real necessidade da autora para o ajuizamento da presente demanda.
+A anterior ação de prestação de contas que atualmente está prevista como ação de exigir contas (art. 550 do CPC), tem lugar quando há administração de bens ou interesses alheios, sendo credor das contas aquele em favor de quem a administração se deu.
+(..)
+No caso em exame, porém, a relação jurídica existente entre as partes não denota administração de bens, mas apenas prestação de serviços de corretagem.
+Infere-se que, do instrumento particular de compromisso de venda e compra assinado pela autora-apelante, na qualidade de promissária-compradora, é possível extrair-se que o imóvel foi por ela adquirido pelo preço de R$ 195.000,00, sendo que parte desse valor (R$ 5.000,00) foi repassado aos réus a título de comissão imobiliária, pressupondo que tal débito era devido, na verdade, pelos vendedores, que abriram mão de parte do valor do preço em favor dos intermediadores da venda, o que é muito comum nas transações imobiliárias.
+Dessa forma, está bastante clara a obrigação assumida pela autora no aludido documento, não se há como exigir dos réus a apresentação de outro documento que demonstre a mesma obrigação, cuja existência é por ela negada.
+A ação, como direito de invocar o exercício da função jurisdicional, tem por condição o interesse de agir, ou seja, a existência da pretensão resistida e a consequente necessidade da parte socorrer-se do Poder Judiciário para fazer valer o seu direito subjetivo.
+(..)
+Assim, não há adequação na via equivocadamente eleita pela autora, razão pela qual lhe falta interesse de agir.
+(..)
+De rigor, portanto, julgar a ação extinta, sem resolução de mérito, com fundamento no art. 485, inc. VI, do CPC, impondo majoração dos honorários advocatícios para 15% sobre o valor dado à causa, corrigidos desde a data do ajuizamento da ação e com juros de mora de 1% ao mês do trânsito em julgado, observada a gratuidade processual (art. 85, §§ 11 e 16 do CPC).
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, conforme Súmula 7 do Superior Tribunal de Justiça.
+Ademais, o Tribunal estadual concluiu que o direito à prestação de contas ocorre quando há administração de bens ou interesses alheios por outrem, o que não ocorreu no caso em análise, pois a relação jurídica existente entre as partes refere-se à prestação de serviços de corretagem.
+Contudo, não tratou a recorrente de impugnar tal fundamento, cuja subsistência inviabiliza a apreciação do recurso especial e propicia o consequente desprovimento do presente agravo, pela aplicação da Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
