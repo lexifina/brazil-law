@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - AÇÃO DE INVENTÁRIO - DECISÃO DE 1º GRAU QUE DETERMINOU QUE A AVALIAÇÃO DAS AÇÕES RELATIVAS ÀS SOCIEDADES ANÔNIMAS QUE COMPÕEM O ACERVO HEREDITÁRIO FOSSE FEITA EM CONFORMIDADE COM OS VALORES EMITIDOS PELA BOLSA DE VALORES DE SÃO PAULO (BOVESPA) - IMPOSSIBILIDADE PRÁTICA, VEZ QUE TRATAM-SE DE SOCIEDADES ANÔNIMAS DE CAPITAL FECHADO.
+1) PRELIMINAR DE DEFEITO DE FORMAÇÃO DO AGRAVO DE INSTRUMENTO, REJEITADA, À UNANIMIDADE DE VOTOS.
+2) PRELIMINAR DE INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO, DESACOLHIDA, À UNANIMIDADE DE VOTOS.
+3) PRELIMINAR DE ILEGITIMIDADE DO ESPÓLIO DE ROBERTO BRUCE [NOME] JR. E DE SUA ESPOSA, FRANCISCA DE PAULA TAVARES DA SILVA [NOME], PARA FIGURAREM NA AÇÃO DE INVENTÁRIO DOS BENS DEIXADOS PELA SRA. ERENITA HELENA GROSCHKE C. LUNDGREN, REJEITADA, À UNANIMIDADE DE VOTOS.
+4) NO MÉRITO, DEU-SE PROVIMENTO AO PRESENTE AGRAVO DE INSTRUMENTO, PARA REFORMAR A DECISÃO COMBATIDA, A FIM DE DETERMINAR QUE A AVALIAÇÃO DAS AÇÕES DAS SOCIEDADES ANÔNIMAS QUE INTEGRAM O ACERVO HEREDITÁRIO CONSTANTE DO INVENTÁRIO SEJA FEITA POR MEIO DE PERÍCIA JUDICIAL, DEVENDO, PORTANTO, O MM. JUIZ "A QUO" PROCEDER COM A NOMEAÇÃO DE UM PERITO JUDICIAL, A FIM DE QUE REALIZE UMA PERÍCIA CONTÁBIL NOS BALANÇOS FIXAIS DA EMPRESA ARTHUR LUNDGREN TECIDOS S/A - ALTSA, ESTA CONTROLADA PELA SOCIEDADE ANÔNIMA, NOVA PIRAJUÍ ADMINISTRAÇÕES S/A - NOPASA, DONDE APÓS ANÁLISE COMPLETA, TENHA CONDIÇÕES DE AFERIR O SEU VALOR PATRIMONIAL ATUAL (MOBILIZADO E IMOBILIZADO), POSSIBILITANDO ASSIM UMA AVALIAÇÃO REAL DA NOPASA, RESTANDO PREJUDICADO O AGRAVO REGIMENTAL DE Nº 203.941-2/01.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 458, II, e 535 do Código de Processo Civil de 1973, além de divergência jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Os embargos de declaração da agravante objetivavam a rediscussão da causa a fim de obter novo julgamento, com argumentos que já haviam sido apreciados no acórdão embargado.
+Afasto, pois, a alegada violação dos arts. 458 e 535 do CPC.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
