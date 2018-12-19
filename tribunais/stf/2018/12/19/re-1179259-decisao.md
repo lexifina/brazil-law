@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de São Gonçalo. Aparelhado o recurso na violação dos arts. 37, X, 61, §1º, II, A, 93, IX, 167 e 169, da Constituição Federal
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA DO MUNICÍPIO DE SÃO GONÇALO. ADICIONAL DE DESPENHO FUNCIONAL. PRETENSÃO DE IMPLEMENTAÇÃO DO ADICIONAL DE DESEMPENHO FUNCIONAL EM SEU CONTRACHEQUE NO PATAMAR MÁXIMO. VANTAGEM PREVISTA NO ART. 62, XVI, 63 E 65, DO ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE SÃO GONÇALO. LEI MUNICIPAL Nº 478/2012 QUE REVOGOU A LEI MUNICIPAL Nº 299/2010, QUE CONDICIONAVA A CONCESSÃO DA VERBA À AVALIAÇÃO DE DESEMPENHO. CONJUNTO PROBATÓRIO SUFICIENTE PARA DEMONSTRAR QUE O ADICIONAL POSSUI NATUREZA REMUNERATÓRIA E GENÉRICA. EXTENSÃO QUE DEVE SER CONCEDIDA AO PATAMAR MÁXIMO, SOB PENA DE VIOLAÇÃO AOS PRINCÍPIOS DA ISONOMIA E DA IMPESSOALIDADE. PRECEDENTES JURISPRUDENCIAIS. COBRANÇA DAS DIFERENÇAS PRETÉRITAS. IMPOSSIBILIDADE. INTELIGÊNCIA DAS SÚMULAS Nº 269 E 271 DO STF. DIREITO LÍQUIDO E CERTO DO IMPETRANTE QUE DEVE SER TUTELADO. ORDEM CONCEDIDA EM PARTE.”
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DO ADICIONAL DE SEXTA PARTE SOBRE A INTEGRALIDADE DOS VENCIMENTOS DE SERVIDOR ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. REPERCUSSÃO GERAL REJEITADA. AGRAVO REGIMENTAL DESPROVIDO. 1. A ofensa a direito local não viabiliza o apelo extremo (Súmula 280 do STF). 2. Na hipótese em apreço, o cálculo do adicional de sexta-parte foi solucionado à luz do art. 129 da Constituição do Estado de São Paulo, não desafiando o acórdão, recurso extraordinário. … 5. Embargos de declaração acolhidos para reconhecer a tempestividade o agravo regimental e negar-lhe provimento”.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de dezembro de 2018.
+Ministra Rosa Weber
+Relatora
