@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 252, de 12 de dezembro de 2018
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: BEBIDAS FRIAS. REGIME DA LEI Nº 13.097, DE 2015. AQUISIÇÃO PARA REVENDA. FRETE SUPORTADO PELA PESSOA JURÍDICA ADQUIRENTE. APURAÇÃO DE CRÉDITOS.
+Dado que as disposições do art. 30 da Lei nº 13.097, de 2015, constituem regra especial em relação às disposições do inciso I do art. 3º da Lei nº 10.833, de 2003, o valor do frete suportado pela pessoa jurídica adquirente das bebidas listadas no art. 14 da Lei nº 13.097, de 2015 (alcunhadas de bebidas frias) somente permitirá a apuração de créditos da Cofins se estiver incluído na base de cálculo da mencionada contribuição apurada pela pessoa jurídica vendedora e destacado na nota fiscal respectiva, conforme a interpretação conjunta do art. 27, do § 1º do art. 30, e do art. 36 da mesma Lei nº 13.097, de 2015.
+DISPOSITIVOS LEGAIS: Lei nº 13.097, de 2015, arts. 14, 25, 27, e 30; Lei nº 10.833, de 2003, art. 3º, I, e § 1º, I.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: BEBIDAS FRIAS. REGIME DA LEI Nº 13.097, DE 2015. AQUISIÇÃO PARA REVENDA. FRETE SUPORTADO PELA PESSOA JURÍDICA ADQUIRENTE. APURAÇÃO DE CRÉDITOS.
+Dado que as disposições do art. 30 da Lei nº 13.097, de 2015, constituem regra especial em relação às disposições do inciso I do art. 3º da Lei nº 10.637, de 2002, o valor do frete suportado pela pessoa jurídica adquirente das bebidas listadas no art. 14 da Lei nº 13.097, de 2015 (alcunhadas de bebidas frias) somente permitirá a apuração de créditos da Contribuição para o PIS/Pasep se estiver incluído na base de cálculo da mencionada contribuição apurada pela pessoa jurídica vendedora e destacado na nota fiscal respectiva, conforme a interpretação conjunta do art. 27, do § 1º do art. 30, e do art. 36 da mesma Lei nº 13.097, de 2015.
+DISPOSITIVOS LEGAIS: Lei nº 13.097, de 2015, arts. 14, 25, 27 e 30; Lei nº 10.637, de 2002, art. 3º, I, e § 1º, I.
+[arquivo anexo: SC Cosit nº 252-2018.pdf]
