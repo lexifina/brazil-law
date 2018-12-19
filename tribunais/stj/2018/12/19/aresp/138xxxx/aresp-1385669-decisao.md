@@ -1,0 +1,15 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. AÇÃO DE REPARAÇÃO DE DANO MORAL E MATERIAL. RESPONSABILIDADE CIVIL. TEORIA DO RISCO OBJETIVO. ART. 9º, § 1º, XIV, DO RISTJ. REDISTRIBUIÇÃO DO FEITO A UM DOS MINISTROS INTEGRANTES DAS TURMAS DA PRIMEIRA SEÇÃO.
+DECISÃO
+Trata-se de agravo interposto por Companhia de Eletricidade do Estado da Bahia - COELBA contra decisão do Tribunal de Justiça da Bahia que inadmitiu o recurso especial, manejado em desfavor de acórdão assim ementado (e-STJ, fls. 456-457):
+APELAÇÕES CÍVEIS. RECURSOS DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA E DA SEGURADORA DENUNCIADA À LIDE. APRECIAÇÃO CONJUNTA. AÇÃO DE REPARAÇÃO DE DANO MORAL E MATERIAL. MORTE DE MENOR POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. TEORIA DO RISCO OBJETIVO. APLICABILIDADE. PENSIONAMENTO DOS PAIS. POSSIBILIDADE. DANO MORAL CONFIGURADO. QUANTUM. FIXAÇÃO ADEQUADA. RESPONSABILIDADE DA SEGURADORA. LIMITE DA APÓLICE. RECURSO DA SEGURADORA PARCIALMENTE PROVIDO. RECURSO DA CONCESSIONÁRIA IMPROVIDO
+1. A responsabilidade civil do concessionário é objetiva, já que executa o serviço em nome do Poder Público, fundamentando-se no mesmo preceito do artigo 37, 6º, da Constituição Federal, onde basta, tão-somente, a comprovação da existência do dano e do nexo causal, independentemente de dolo ou culpa do concessionário ou de seus agentes.
+2. A concessionária de serviço público responde, com base no nexo causal, pelos prejuízos que produzir, salvo hipótese de exclusão de responsabilidade, como por exemplo, culpa exclusiva da vítima ou de terceiro, o que, todavia, não se vislumbrou no caso.
+3. O serviço de energia elétrica se caracteriza como serviço perigoso, devendo a concessionária responder pelo risco criado (CC, 927, parágrafo único).
+4. A morte do menor em acidente, mesmo que à data do óbito ainda não desenvolvesse atividade laborativa, autoriza os pais a requererem o pensionamento, a título de danos materiais, aos responsáveis pelo evento danoso.
+5. O arbitramento dos danos morais não merece ser objeto de reparo, vez que fora obtido através de uma análise pautada na experiência e no bom senso do magistrado, atento à realidade da vida e às peculiaridades do caso concreto, em observância ao grau de culpa, a lesividade do ato e ao nível socioeconômico das partes recorrentes.
+6. A responsabilidade da seguradora deve se ater ao contrato firmado com a concessionária segurada, de modo que a sua condenação observe os limites estabelecidos pela apólice.
+Recurso da concessionária de energia elétrica improvido. Recurso da seguradora provido em parte.
+A discussão jurídica aqui suscitada envolve responsabilidade civil da concessionária de serviço público em razão de fato do serviço, estando, portanto, abrangida pelas hipóteses de competência da Primeira Seção, responsável pelos julgamentos relacionados ao direito público, nos termos do art. 9º, § 1º, XIV, do RISTJ.
+Ante o exposto, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
