@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Pratânia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 174):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MULTA. RESPONSABILIDADE TÉCNICA. FARMACÊUTICO EM UNIDADE BÁSICA DE SÁUDE. LEI 13.021/2014. RECURSO PROVIDO.
+1. Na vigência da Lei 13.021/2014, é obrigatória a contratação de farmacêutico, por todo o período de funcionamento, para atuar em farmácias e dispensários de medicamentos, em unidades hospitalares, tanto da rede pública, como privada e congêneres, como unidade básica de saúde (artigos 3o, 5o, 6o e 8o).
+2. Apelação provida.
+ Nas razões do recurso especial, a parte agravante aponta violação ao art. 8º da Lei 13.021/2014. Sustenta que os arts. 4º e 19 da Lei 5.991/73 são claros ao estabelecerem que somente farmácia e drogaria estão obrigados a manterem farmacêutico. Assim, defende que os dispensários de medicamentos não se sujeitam à referida exigência.
+É o relatório.
+O inconformismo não comporta êxito.
+Além do mais, tem-se que eg. Primeira Seção deste c. Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n.º 1.110.906/SP (Rel. Min. Humberto Martins, DJe de 7/8/2012), processado nos moldes do art. 543-C do CPC, firmou entendimento no sentido de que não é obrigatória a presença de farmacêutico em dispensários de medicamentos, nos termos da seguinte ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C DO CPC. CONSELHO REGIONAL DE FARMÁCIA. DISPENSÁRIO DE MEDICAMENTOS. PRESENÇA DE FARMACÊUTICO. DESNECESSIDADE. ROL TAXATIVO NO ART. 15 DA LEI N. 5.991/73. OBRIGAÇÃO POR REGULAMENTO. DESBORDO DOS LIMITES LEGAIS. ILEGALIDADE. SÚMULA 140 DO EXTINTO TFR. MATÉRIA PACIFICADA NO STJ.
+1. Cuida-se de recurso especial representativo da controvérsia, fundado no art. 543-C do Código de Processo Civil sobre a obrigatoriedade, ou não, da presença de farmacêutico responsável em dispensário de medicamentos de hospitais e clínicas públicos, ou privados, por força da Lei n. 5.991/73.
+2. Não é obrigatória a presença de farmacêutico em dispensário de medicamentos, conforme o inciso XIV do art. 4º da Lei n. 5.991/73, pois não é possível criar a postulada obrigação por meio da interpretação sistemática dos arts. 15 e 19 do referido diploma legal.
+3. Ademais, se eventual dispositivo regulamentar, tal como o Decreto n. 793, de 5 de abril de 1993 (que alterou o Decreto n. 74.170, de 10 de junho de 1974), fixar tal obrigação ultrapassará os limites da lei, porquanto desbordará o evidente rol taxativo fixado na Lei n. 5.991/73.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não é obrigatória a presença de farmacêutico em dispensário de medicamentos de hospital ou de clínica, prestigiando - inclusive - a aplicação da Súmula 140 do extinto Tribunal Federal de Recursos. Precedentes.
+5. O teor da Súmula 140/TFR - e a desobrigação de manter profissional farmacêutico - deve ser entendido a partir da regulamentação existente, pela qual o conceito de dispensário atinge somente "pequena unidade hospitalar ou equivalente" (art. 4º, XV, da Lei n. 5.991/73); atualmente, é considerada como pequena a unidade hospitalar com até 50 (cinqüenta) leitos, ao teor da regulamentação específica do Ministério da Saúde; os hospitais e equivalentes, com mais de 50 (cinqüenta) leitos, realizam a dispensação de medicamentos por meio de farmácias e drogarias e, portanto, são obrigados a manter farmacêutico credenciado pelo Conselho Profissional, como bem indicado no voto-vista do Min. Teori Zavascki, incorporado aos presentes fundamentos.
+6. Recurso sujeito ao regime do art. 543-C do CPC, combinado com a Resolução STJ 08/2008.
+Recurso especial improvido."
+Assim, verifica-se que o v. acórdão recorrido, no ponto, está em conformidade com o entendimento firmado por este c. Tribunal Superior.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
