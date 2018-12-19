@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], [NOME] e ELTON NUNES DE SOUZA, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado, verbis:
+"EMENTA: APELAÇÃO CRIMINAL. ROUBO MAJORADO PELO EMPREGO DE ARMA E CONCURSO DE PESSOAS. CRIME TIPIFICADO PELO CÓDIGO PENAL MILITAR. PRELIMINAR.DE INCOMPETÊNCIA DO JUÍZO REJEITADA. AUTORIA ,E MATERIALIDADE COMPROVADAS. SENTENÇA HARMÔNICA COM AS PROVAS PRODUZIDAS HÁ DE SER MANTIDA POR SEUS JURÍDICOS FUNDAMENTOS.
+1. O julgamento de crime cometidos por militares da ativa durante o período de exercício da atividade militar é de competência do juiz singular da Auditoria Militar.
+2. Materialidade e autoria suficientemente demonstradas pela prova dos autos.
+3. Provas colhidas harmônicas entre si, e condizentes com o resultado do processo.
+Recurso conhecido e improvido, em consonância com o parecer ministerial" (e-STJ, fl. 1.100)
+Os recorrentes alegam violação dos arts. 147, 440, "b", 500, I e 504, do Código de Processo Penal Militar e 195 do Código Penal Militar.
+Aduzem, em suma, que embora esteja discorrido na sentença a existência de fatores atenuantes em favor dos recorrentes, não os aplicou quando da fixação da pena, simplesmente afastou-os.
+Ponderam que em razão do abandono de serviço, deve ser declarada a incompetência da justiça militar.
+Contrarrazões às fls. 1.119-1.128 (e-STJ).
+Decisão de admissão às fls. 1.130- 1.133 (e-STJ).
+O Ministério Público Federal opina pelo desprovimento do apelo especial (e-STJ, fls. 1.145-1.149).
+É o relatório.
+Decido.
+Em relação ao art. 440, "b", do Código de Processo Penal Militar, extrai-se da sentença:
+"Embora sejam primários e de bons antecedentes, os réus praticaram crimes de monta, utilizando Equipamentos da Corporação, atuando em concurso e empregando armas, grave ameaça à vítima. Cometeram dois crimes, ao menos, embora o de invasão de domicílio fosse subsidiário do roubo. Roubo com duas causas de aumento de pena. Ademais, agiram em verdadeira senda criminosa, ao praticar outro crime, imediatamente após a prática dos delitos alvos do presente processo, como se vê da consulta processual relativa aos três acusados e constante dos presentes autos, embora o acusado [NOME] não haja sido denunciado, nunca se olvidando a possibilidade de aditamento. Essa circunstância, se não conferida aos três, não tem relevância para a diferenciação da pena-base, importando as circunstâncias delitivas referentes ao presente, processo, o que autoriza a exacerbação" (e-STJ, fl. 955).
+O acórdão recorrido entendeu que:
+"Quanto a pena aplicada, constatei que o MM Juiz de primeiro grau, atendeu satisfatoriamente a todos os requisitos legais e circunstâncias judiciais e sendo adequada ao caso in concreto. Destaco que não é possível a redução da pena ao mínimo legal, pois não fora atendidas as circunstâncias do art. 59 do CPB" (e-STJ, fl. 1.105.)
+Assim, verifica-se que o recurso encontra-se deficientemente fundamentado. Cumpre registrar, que a mera alusão ao malferimento de legislação federal, sem delinear o gravame ou descompasso na sua aplicação, não enseja a abertura da via especial, devendo o recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em comento.
+A esse respeito, o enunciado da Súmula 284/STF dispõe que "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre o tema, confira-se o precedente:
+"RECURSO ESPECIAL. ART. 171, § 3º, DO CP. ESTELIONATO. EMISSÃO DE ATESTADO MÉDICO FALSO PARA SAQUE DE FGTS. INCOMPETÊNCIA DO JUÍZO. PRINCÍPIO DA ESPECIALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS 282 E 356 DO STF. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. INTERCEPTAÇÕES TELEFÔNICAS. TRANSCRIÇÃO INTEGRAL. DESNECESSIDADE. ARGUMENTOS ACERCA DA EFETIVA REALIZAÇÃO DE CONSULTA MÉDICA PARA OBTENÇÃO DO ATESTADO MÉDICO, DE ABSOLVIÇÃO NA ESFERA ADMINISTRATIVA, DE NÃO COMPROVAÇÃO DO ÂNIMO ASSOCIATIVO, DE AUSÊNCIA DE DOLO PARA OBTENÇÃO DO RESULTADO FRAUDULENTO, DE INVERSÃO DO ÔNUS DA PROVA E DE INCIDÊNCIA DA EXCLUDENTE DE CULPABILIDADE CONSUBSTANCIADA NA INEXIGIBILIDADE DE CONDUTA DIVERSA. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. SÚMULA 7/STJ. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. ERRO DE TIPO. CRIME IMPOSSÍVEL. RECONHECIMENTO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DOSIMETRIA DA PENA. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE E MAUS ANTECEDENTES. MOTIVAÇÃO INIDÔNEA.
+I - A ausência de prequestionamento relativa ao pleito de reconhecimento da incompetência do juízo constitui óbice ao exame das matérias pela Corte Superior, a teor das Súmulas 282 e 356/STF.
+II - (..).
+III - (..).
+IV - Não se mostra obrigatória a transcrição integral dos diálogos interceptados, sendo bastante que seja assegurado às partes o acesso à integralidade das gravações, com a degravação dos trechos que embasaram a condenação ou o oferecimento da denúncia para que esteja assegurado o exercício da ampla defesa, o que ocorreu na hipótese.
+(Precedentes).
+V - O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o recorrente deve apontar os dispositivos legais que teriam sido objeto de ofensa pelo Tribunal de origem, sob pena de inviabilizar o conhecimento do apelo nobre por deficiência de fundamentação, de modo a atrair a incidência, na espécie, da Súmula nº 284 do Supremo Tribunal Federal.
+VI - Ademais, o recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula 7/STJ).
+VII - (..).
+Recurso especial desprovido." (REsp 1.539.634/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/11/2016, DJe 30/11/2016).
+Quanto aos demais artigos tidos como violados, sem razão os recorrentes.
+Este Superior Tribunal de Justiça possui entendimento de que militar em situação de atividade quer dizer "da ativa" e não "em serviço", em oposição a militar da reserva ou aposentado (art. 9º, II, "e", do Código Penal Militar):
+Nesse sentido:
+"CRIMES MILITARES (ARTIGO 205, § 2º, INCISOS IV E V, COMBINADO COM O ARTIGO 30, INCISO II, ARTIGO 177, § 1º, E ARTIGO 242, TODOS DO CÓDIGO PENAL MILITAR). ALEGADA INAPLICABILIDADE DO CÓDIGO PENAL MILITAR AOS POLICIAIS MILITARES. DIPLOMA LEGAL CUJA INCIDÊNCIA ESTARIA RESTRITA AOS MILITARES DAS FORÇAS ARMADAS. POSSIBILIDADE DE SUBMISSÃO DOS POLICIAIS MILITARES ÀS NORMAS PENAIS CASTRENSES. INTELIGÊNCIA DO ARTIGO 125, § 4º, DA CONSTITUIÇÃO FEDERAL. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. A competência de Justiça Castrense está delineada no artigo 125, § 4º, da Constituição Federal, que preceitua competir "à Justiça Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças", redação que lhe foi dada com o advento da Emenda Constitucional 45/2004.
+2. Os policiais militares estão abrangidos no conceito de militares dos Estados, sendo totalmente descabida e improcedente a interpretação que o recorrente pretende conferir ao citado dispositivo constitucional, restringindo a sua aplicação apenas aos militares federais, que estão sob o comando das Forças Armadas.
+Doutrina. Precedentes.
+TENTATIVA DE HOMICÍDIO, RESISTÊNCIA QUALIFICADA E ROUBO. CRIMES MILITARES IMPRÓPRIOS. INFRAÇÕES PRATICADAS POR MILITAR DA ATIVA CONTRA OUTRO NA MESMA SITUAÇÃO. DIFERENÇA ENTRE MILITAR EM ATIVIDADE E MILITAR EM SERVIÇO. INCIDÊNCIA DO ARTIGO 9º, INCISO II, ALÍNEA "A", DO CÓDIGO PENAL MILITAR. COMPETÊNCIA DA JUSTIÇA CASTRENSE.
+1. Os crimes de tentativa de homicídio qualificado, resistência qualificada e roubo caracterizam-se como impropriamente militares, já que constituem infrações penais que podem ser praticadas por qualquer pessoa, seja ela civil ou militar, estando previstas no Código Penal Militar porque lesionam bens ou interesses militares, motivo pelo qual se deve verificar a presença de alguma das situações elencadas nas alíneas do inciso II do artigo 9º do citado diploma legal.
+2. No caso em exame, tanto o recorrente quanto a suposta vítima dos ilícitos são militares da ativa, enquadrando-se a hipótese na alínea "a" do inciso II do artigo 9º do Código Penal Militar.
+3. Os militares da ativa não se confundem com os militares em serviço, uma vez que aqueles se caracterizam como sendo os que estão em atividade, ou seja, que não estão na reserva, sendo desinfluente, por conseguinte, a circunstância de o paciente estar de folga quando dos acontecimentos narrados na denúncia. Doutrina. Precedentes do STJ e do STF.
+4. Recurso improvido.
+(RHC 41.251/GO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/10/2013, DJe 29/10/2013)
+CONFLITO POSITIVO DE COMPETÊNCIA. PROCESSUAL PENAL. CRIME PRATICADO POR MILITAR EM ATIVIDADE CONTRA MILITAR EM IDÊNTICA SITUAÇÃO. COMPETÊNCIA DA JUSTIÇA MILITAR.
+1. Compete à Justiça Castrense processar e julgar crime praticado por militar em situação de atividade ou assemelhado, contra militar na mesma situação ou assemelhado. (CC 85.607/SP, Rel. Min. OG FERNANDES, DJ 8/9/08) 2. Militar em situação de atividade quer dizer "da ativa" e não "em serviço", em oposição a militar da reserva ou aposentado.
+3. Conheço do conflito para declarar competente o Juízo de Direito da 3ª Auditoria da Justiça Militar do Estado de São Paulo, ora suscitado.
+(CC 96.330/SP, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, julgado em 22/04/2009, DJe 20/05/2009)
+CONFLITO POSITIVO DE COMPETÊNCIA. CORRUPÇÃO ATIVA. MILITAR PROCESSADO PERANTE AS JUSTIÇAS ESTADUAL E CASTRENSE PELO MESMO FATO DELITUOSO. ART. 9º, INCISO II, ALÍNEA E, [NOME]. CRIME MILITAR IMPRÓPRIO. COMPETÊNCIA DO JUÍZO MILITAR.
+1. Tendo o delito de corrupção ativa sido cometido, em tese, na circunstância prevista no art. 9º, II, letra e, do Código Penal Militar, ou seja, por militar em situação de atividade contra a ordem administrativa militar, resta caracterizado o crime militar impróprio, sendo certo que a expressão militar em situação de atividade  contida no aludido dispositivo legal, significa da ativa, e não necessariamente em serviço, consoante precedentes deste Sodalício e do Pretório Excelso.
+2. Conflito conhecido para declarar a competência do Juízo Auditor da 4ª Auditoria da Justiça Militar de São Paulo-SP, para o processamento e julgamento do delito de corrupção ativa em tese cometido pelo suscitante.
+(CC 104.579/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 28/10/2009, DJe 19/11/2009)
+Ante o exposto, com fulcro no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
