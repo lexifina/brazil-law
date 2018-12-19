@@ -1,0 +1,75 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. RESOLUÇÃO REQUERIDA PELO PROMITENTE COMPRADOR. RESTITUIÇÃO DOS VALORES PAGOS. ARRAS CONFIRMATÓRIAS. E CUMULAÇÃO COM MULTA CONTRATUAL. IMPOSSIBILIDADE. JUROS DE MORA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO DA DEMANDA DE RESCISÃO CONTRATUAL. PRECEDENTES. INDENIZAÇÃO PELA FRUIÇÃO DO BEM. AUSÊNCIA DE PREQUESTIONAMENTO. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ. RECURSO PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por SCAMATTI E AGROSETA-FIGUEIRA 2 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA., com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 216):
+Apelação. Compromisso de compra e venda de imóvel. Rescisão contratual cumulada com restituição das quantias pagas. Cabimento.
+Aplicação dos arts. 51 e 53 do Código de Defesa do Consumidor e súmulas 1 e 3 desta Corte de Justiça.
+Determinação da devolução de 80% dos valores desembolsados, corrigidos desde o pagamento e com juros de mora contados da citação. Decisão reformada. Resilição. Desistência do promissário comprador. Não caracterização de mora do promitente vendedor.
+Sucumbência. Inversão do julgado. Fixação em 10% sobre o valor da condenação.
+Recurso provido.
+Nas razões do recurso especial (e-STJ, fls. 229-246), a recorrente apontou ofensa aos arts. 373, I, e 1.022 do Código de Processo Civil de 2015; e 418 do Código Civil de 2002; bem como dissídio jurisprudencial.
+Sustenta, em síntese, que o termo inicial dos juros de mora é o trânsito em julgado. Alega que o sinal foi dado como arras confirmatórias e que já incluía o valor da corretagem.
+Aduz que deve ser pago percentual de 1% (um por cento) desde a posse até a desocupação do imóvel, pela fruição do bem.
+Alega que a sucumbência foi recíproca e que o ônus deve ser redistribuído.
+Após serem apresentadas as contrarrazões (e-STJ, fls. 263-266), o Tribunal de origem admitiu o processamento do apelo especial (e-STJ, fls. 267-268).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte (e-STJ, fls. 220-221):
+Assim é que, no caso concreto, foram pagas 18 parcelas de um total de 105, aproximadamente 17% do pactuado.
+Consta de fl. 114 que a autora pagou R$33.63,51 e a ré pretende restituir R$17.146,63, em 15 parcelas de R$1.143,11. Inadmissível a retenção de quase 50% dos valores pagos.
+Dito isto, mais justo que seja restituído aos autores 80% dos valores pagos, sendo devida a retenção de 20% para cobrir as com despesas de administração, publicidade e outras inerentes à contratação, dado o valor do mercado do imóvel.
+A questão se torna mais evidente, quando se constata que o desfazimento do contrato está se dando por iniciativa do promissário comprador, sem atribuição de culpa ao promitente vendedor, caracterizando verdadeira desistência da contratação. Nessas condições, considera-se que a parte autora deu causa à resilição contratual, não podendo ser privilegiada por seu comportamento.
+Além disso, embora possa comercializar novamente o bem, deve-se ter em conta que enquanto a venda futura não ocorrer, arcará a vendedora com as despesas para sua conservação e regularização.
+Assim sendo, determina-se a restituição de 80% dos valores pagos pela autora, corrigidos desde o desembolso e com juros de mora contados da citação.
+Em relação ao termo inicial da incidência dos juros de mora não assiste razão à ré, em revisão a posicionamento anteriormente adotado. Apesar da ré não apresentar resistência à rescisão contratual, se opôs ao pedido de restituição dos valores. Dessa forma, a autora foi obrigada a se socorrer do Judiciário, promovendo a presente ação, sendo a ré devidamente citada para tanto, com a configuração da mora a partir daí, conforme se extrai do artigo 405 do Código Civil.
+"Contam-se os juros de mora desde a citação inicial." Assim, a ré apresentou resistência no tocante à restituição dos valores pagos, ensejando o retardamento do pagamento e, consequentemente, a mora.
+Em razão da sucumbência, arcará o réu com o pagamento das custas, despesas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação.
+Finalizando, as demais questões arguidas pelas partes ficam prejudicadas, segundo orientação do Superior Tribunal de Justiça, perfilhada pela Ministra Diva Malerbi, no julgamento dos EDcl no MS 21.315/DF, proferido em 08/06/2016, já na vigência CPC/2015: "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão (..), sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".
+Na hipótese de apresentação de embargos de declaração contra o presente Acórdão, ficam as partes intimadas a se manifestar, no próprio recurso, a respeito de eventual oposição ao julgamento virtual, nos termos do art. 1º da Resolução n.º 549/2011 do Órgão Especial deste E. Tribunal de Justiça, entendendo-se o silêncio como concordância.
+Primeiramente impende registrar que as arras confirmatórias são ajustadas no momento da celebração de contrato ou pré-contrato e marcam o início da sua execução, firmando a obrigação pactuada e "não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no REsp 1197860/SC, Relator o Ministro Luis Felipe Salomão, DJe de 12/12/2017).
+Ou seja, "o arrependimento do promitente comprador não importa em perda das arras se estas forem confirmatórias" (AgRg no AREsp 208692/ES, Relator o Ministro Antonio Carlos Ferreira, DJe 22/10/2014).
+Segundo a jurisprudência do Superior Tribunal de Justiça não é possível a retenção das arras confirmatórias, quando não comprovado o prejuízo, muito menos a sua cumulação com cláusula penal contratual. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS C/C REVISÃO CONTRATUAL, REPETIÇÃO DE INDÉBITO E DEPÓSITO INCIDENTAL.COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. FINANCIAMENTO FIRMADO DIRETAMENTE COM A CONSTRUTORA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. CLÁUSULA PENAL. BIS IN IDEM. IMPOSSIBILIDADE. ABUSIVIDADE DO PERCENTUAL DA PENALIDADE FIXADO. REDUÇÃO. REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt. no AREsp. 578.006/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8/11/2016, DJe 17/11/2016) (grifou-se)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. PERDAS E DANOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 402, 403, 404, 475 DO CC. APLICAÇÃO DAS SÚMULAS NºS 282 E 356 DO STF. PERDIMENTO DAS ARRAS. MULTA CONTRATUAL. RETENÇÃO 10%. SÚMULAS Nº 5 E 7 E 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+3. O Tribunal local não destoa da jurisprudência do STJ que se orienta no sentido de que, a depender das circunstâncias fáticas do caso examinado, é válida a retenção pelo promitente vendedor entre 10% e 30% do valor pago.
+4. Não é possível, na via especial, rever a conclusão contida no aresto atacado acerca do percentual retido a título de cláusula penal melhor condizente com a realidade do caso concreto e a finalidade do contrato, pois a isso se opõem as Súmulas nºs 5 e 7 do STJ.
+5. Nos termos da jurisprudência desta Corte, não é possível a retenção das arras confirmatórias. Tem aplicação, na espécie, a Súmula nº 83 do STJ. Ademais, firmando a Corte local que o contrato somente previa arras confirmatórias e não as penitenciais, o exame da pretensão recursal esbarra nas Súmulas nºs 5 e 7 do STJ.
+6. Agravo regimental a que se nega provimento.
+(AgRg. no REsp. 1.495.240/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/8/2016, DJe 31/8/2016)
+Dessa maneira, o acórdão recorrido está em sintonia com a jurisprudência do STJ.
+Com efeito, a Corte estadual assentou que os juros moratórios oriundos da monta a ser devolvida pela demandada computam-se a partir da data da citação, conforme se extrai do seguinte trecho do acórdão recorrido supratranscrito.
+Nesse contexto, verifica-se que o entendimento perfilhado na instância ordinária não coaduna com a jurisprudência deste Tribunal, que se firmou no sentido de que os juros de mora incidentes sobre o montante de valores pagos pelo promitente comprador fluem a partir do trânsito em julgado da demanda.
+No mesmo sentido, os seguintes julgados:
+AGRAVOS INTERNOS. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AQUISIÇÃO DE UNIDADE HABITACIONAL. REGIME DA INCORPORAÇÃO IMOBILIÁRIA. RESOLUÇÃO JUDICIAL DO CONTRATO POR INICIATIVA DA CONSTRUTORA. INADIMPLEMENTO DO CONSUMIDOR. DIREITO À RESTITUIÇÃO IMEDIATA DAS PARCELAS. PAGAS. SÚMULA 543/STJ. JUROS DE MORA TERMO "A QUO". DATA DO TRÂNSITO EM JULGADO. JULGADOS DESTA CORTE. PRAZO DE 15 DIAS DO ART. 475-J DO CPC/1973. AUSÊNCIA DE SUSPENSÃO DE EFICÁCIA DA SENTENÇA.
+1. Controvérsia acerca do termo "a quo" dos juros de mora no âmbito do cumprimento de sentença que julgou procedente pedido de resolução do contrato em função do inadimplemento do promitente comprador.
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. Oposição do promitente comprador à resolução do contrato, tendo inclusive ajuizado ação revisional.
+4. Incidência de juros de mora a partir do trânsito em julgado, na linha da jurisprudência desta Corte Superior.
+5. Eficácia restitutória da resolução do contrato, aplicável em benefício das duas partes do contrato, como consequência imediata da desconstituição do vínculo contratual.
+6. Ausência de suspensão da eficácia da sentença durante o decurso do prazo de 15 dias previsto no art. 475-J do CPC/1973.
+7. AGRAVOS INTERNOS DESPROVIDOS. (AgInt no REsp 1.596.064/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 7/3/2017, DJe 16/3/2017)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RESILIÇÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. INICIATIVA DO COMPRADOR. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS. JURISPRUDÊNCIA DO STJ. IMPOSTOS E TAXAS CONDOMINIAIS. ILEGITIMIDADE ATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 283/STF. JUROS DE MORA. TERMO INICIAL. PRINCÍPIO DA ADSTRIÇÃO.
+1. A caraterização da revelia não induz a uma presunção absoluta de veracidade dos fatos narrados pelo autor, permitindo ao juiz que, para formar o seu convencimento, analise as alegações formuladas pelas partes em confronto com as provas constantes dos autos.
+Jurisprudência do STJ.
+2. A ausência de impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso. Incidência da Súmula n. 283 do STF.
+3. Na hipótese em que a rescisão contratual deu-se por iniciativa do comprador, por não mais suportar o pagamento das parcelas, o termo inicial dos juros moratórios é a data do trânsito em julgado, pois inexiste mora anterior da parte ré/vendedora.
+4. Considerando o pedido da parte nas razões do recurso e em respeito ao princípio da adstrição, é cabível a fixação do termo inicial dos juros moratórios como sendo a data da devolução do imóvel.
+5. Agravo regimental parcialmente provido.
+(AgRg no REsp n. 1.342.255/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 11/3/2016).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. PROMESSA. COMPRA E VENDA. DESISTÊNCIA. PROMITENTE COMPRADOR. VALORES PAGOS. RESTITUIÇÃO. RETENÇÃO. 25% (VINTE E CINCO POR CENTO). JUROS DE MORA. TERMO INICIAL. DECISÃO JUDICIAL. PARCIAL PROVIMENTO.
+1. Não é deficiente em sua fundamentação o julgado que aprecia as questões que lhe foram submetidas, apenas que em sentido contrário aos interesses da parte.
+2. A desistência do promitente comprador, embora admitida por esta Corte, rende ao promitente vendedor o direito de reter até 25% (vinte e cinco por cento) dos valores por aquele pagos a qualquer título, desde que não supere o contratualmente estipulado.
+3. "Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão." (REsp 1008610/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 26/03/2008, DJe 03/09/2008).
+4. Agravo regimental a que se dá parcial provimento.
+(AgRg no REsp 927.433/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2012, DJe 28/02/2012)
+No que tange ao pagamento de percentual pela fruição do bem, verifica-se que esta alegação não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incide, ao caso, as Súmulas 282 e 356 do STF.
+É nesse sentido o entendimento desta Corte:
+CIVIL E PROCESSUAL CIVIL. BANCÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NOTIFICAÇÃO PESSOAL. FALTA DE PREQUESTIONAMENTO. CARACTERIZAÇÃO DA MORA. ENCARGO ABUSIVO NO PERÍODO DA ANORMALIDADE CONTRATUAL. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(..)
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 779.155/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/11/2015, DJe 26/11/2015)
+Relativamente à sucumbência recíproca ,o Tribunal estadual decidiu que a ré deveria arcar com o ônus integralmente, entendendo que sucumbiu em maior parte. Rever a conclusão alcançada importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Diante do exposto, dou parcial provimento ao recurso especial a fim de fixar o termo inicial dos juros a partir do trânsito em julgado.
+Publique-se.
