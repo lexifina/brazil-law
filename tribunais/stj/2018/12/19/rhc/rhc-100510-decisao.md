@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ALINE DA SILVA RODRIGUES contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. [CPF]).
+Consta dos autos que a recorrente foi presa preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, e 12 da Lei n. 10.826/2003, sob a acusação de estar na posse de "1.015 gramas de cocaína, 975 gramas de crack, 50 gramas de maconha, uma balança de precisão, além de 09 cartuchos calibre 38" (e-STJ fl. 49).
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 76):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Conversão de flagrante em prisão preventiva. Paciente indiciada por haver cometido crime de tráfico de substância entorpecente. Existência material do crime comprovada e presentes indicativos suficientes de autoria. Não se verifica irregularidade no ingresso, pela autoridade policial, na residência do agente do crime, posto que se deu em situação de flagrância. Por ocasião do fato delituoso, foi a paciente abordada pela policia, em face de informações acerca de seu envolvimento na atividade ilícita, na posse de 1.015 gramas de cocaína, 975 gramas de crack, 50 gramas de maconha, uma balança de precisão, além de 09 cartuchos calibre 38. Há notícias nos autos, inclusive, que ALINE, com a prisão de seu companheiro, teria assumido o ponto de drogas, bem como o fornecimento da mercadoria para a cidade de Uruguaiana e arredores. A decisão hostilizada bem examinou o fato, decretando a prisão para garantia da ordem pública. Circunstâncias do fato que revelam maior periculosidade do agente e seu engajamento reiterado na prática delituosa. Inexistência de constrangimento ilegal.
+Por se tratar de procedimento anterior à decretação da prisão preventiva e ao oferecimento de denúncia, a não realização da audiência de custódia, ainda que configure irregularidade, não tem o condão de contaminar os demais atos do processo, ou ainda, a prisão provisória do agente do crime, quando devidamente amparada pelo art. 312 do Código de Processo Penal.
+A simples assertiva de que a presa é mãe com filho menor, que carece de cuidados da genitora, por si só, não significa que a prisão deve ser automaticamente substituída. Fato (a existência de filho menor) que não pode, a toda evidência, servir de escudo para proteção da mulher contra prisão preventiva que se faz necessária à garantia da ordem pública. Inexistência
+de constrangimento ilegal.
+ORDEM DENEGADA.
+No presente recurso, a defesa alega que não estariam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Sustenta que a recorrente faz jus à substituição da prisão preventiva por domiciliar, uma vez possui dois filhos menores de 12 anos de idade (uma com apenas 4 anos) e um filho de 15 anos de idade.
+Aduz que não foi realizada a audiência de custódia.
+Requer a concessão de liberdade provisória mediante a imposição das medidas cautelares, como prisão domiciliar.
+O pleito liminar foi indeferido (e-STJ fls. 130/133).
+Informações prestadas (e-STJ fls. 145/147).
+O Ministério Público Federal manifestou-se pelo improvimento do recurso (e-STJ fls. 149/154).
+É, em síntese, do relatório.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que foi proferida sentença em 3/12/2018, nos autos da Ação Penal n. 0007555-68.2018.8.21.0037, que julgou parcialmente procedente a pretensão estatal punitiva e condenou a ora recorrente às penas de 7 anos de reclusão e de 1 ano de detenção, em regime inicialmente fechado, e ao pagamento de 10 dias-multa, como incursa nos arts. 33, caput, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, em relação ao primeiro e ao terceiro fatos, e a absolveu, quanto ao segundo fato, na forma do art. 386, VII, do Código de Processo Penal.
+Fica, portanto, sem objeto o pedido contido neste recurso, em que a defesa insurgia-se contra a custódia cautelar, à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
