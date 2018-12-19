@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente, no curso da execução da pena, postulou a comutação, o que foi deferido pelo Juízo da execução (e-STJ fls. 25/26).
+Irresignado, o Ministério Público interpôs recurso de agravo de execução perante o Tribunal de origem, que lhe negou provimento nos termoS do acórdão assim ementado (e-STJ fl. 48):
+AGRAVO EM EXECUÇÃO PENAL IRRESIGNAÇÃO DO MINISTÉRIO PÚBLICO. COMUTAÇÃO. DECRETO 9246/2017. FALTA GRAVE COMETIDA NO PERÍODO AQUISITIVO. INVIABILIDADE DE CONCESSÃO DA BENESSE.
+Da análise do disposto no artigo 4º, inc. I, do Decreto 8.941/2016, verifica-se que, para fins de declaração da comutação, o apenado não poderá ter praticado infração disciplinar de natureza grave nos doze meses anteriores à publicação do Decreto. No mesmo sentido conclui o Superior Tribunal de Justiça, ao entender que basta o cometimento da falta no período aquisitivo, pouco importando se a homologação da falta sobrevenha após a publicação do decreto natalino. Na espécie, apenado cometeu falta grave durante o período aquisitivo do Decreto de 2017, o que constitui óbice à concessão da comutação. Decisão reformada.
+AGRAVO PROVIDO.
+Na presente impetração, alega a Defensoria Pública do Estado do Rio Grande do Sul que "o fato de o apenado ter sido contemplado com a comutação de pena prevista em decretos anteriores ao decreto presidencial nº 9.246/2017 não constitui óbice ao deferimento da benesse em questão, desde que preenchidos os demais requisitos exigidos para tanto" (e-STJ fl. 7).
+Diante disso, requer, "seja concedida LIMINAR visto que presente o periculum in mora e o fumus boni iuris, e, ao final, concedido o HABEAS CORPUS, para cassar o acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, conforme acima delineado" (e-STJ fl. 7).
+O pedido liminar foi indeferido (e-STJ fls. 64/66).
+Foram prestadas as informações (e-STJ fls. 70/91 e 95/108).
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento do habeas corpus (e-STJ fls. 110/114).
+É, em síntese, o relatório.
+No caso dos autos, o Juízo da Vara de Execuções Criminais da Comarca de Soledade/RS deferiu o pedido de comutação de penas formulado com base no Decreto n. 9.246/2017, consignando, para tanto, que (e-STJ fls.103/104):
+1,- A decisão homologatória de infração disciplinar, ao contrário do que induz a interpretação literal dos artigos 54 e 59 da LEP, não é meramente declaratória, e sim constitutiva, pois constitui uma nova situação jurídico disciplinar.
+2,- E mais: sujeita-se ao princípio da jurisdicionalidade (art. 20 da LEP), logo, só irradia efeitos jurídicos em sua plenitude após a validação judicial competente, inclusive com observância do disposto no art. 5º, LIV e LV, e 93, IX, da CF, ou arts. 1º e do CPC.
+3,- Em sendo assim, e não se podendo, à luz do princípio da "favor rei" obrar-se me interpretação "in matam parte" senão "in bonam parte". impõe-se considerar. Para efeito de restrição válida ao reconhecimento dos institutos do indulto ou comutação, a prática e homologação judicial, inclusive com o trânsito em julgado, da falta grave antes do dia 25/12/2017 (arts. 1º e 4º, I, do Decreto 9.246/2017).
+4,- Aliás, a relação do pré citado art. 4º, l, é inequívoca tanto do princípio da jurisdicionalidade como de sua definição jurídica pretérita ("tenham sofrido sanção pelo juízo competente em audiência de justificação).
+5,- No caso, a infração disciplinar só foi homologada judicialmente em 18/01/2018, logo, não pode, sob o postulado do Estado Constitucional de Direito (art. 1º da CF, retroceder ao passado como se já existisse como fato jurídico com força jurígena em 25/12/2017.
+6,- A norma do art. 4º, I, do Decreto 9.246/2017, para efeito de sua incidência, vale dizer: suporte fático, não prescinde da reunião de todos os seus elementos normativos e descritivos. Faltando um deles, não incide, e não havendo incidência, não existe o óbice impeditivo ou proibitivo, reunidos os demais elementos previstos no seu artigo, para o reconhecimento do indulto ou comutação ainda logo de sua vigência, e muito antes do decreto judicial homologatório e constitutivo do estado disciplinar sancionatório.
+6,- Isso posto, nos termos do art. 7º, I, "a", do Decreto 9.246/2017. defiro a comutação da pena em 1/3. Intimem-se.
+O Tribunal de origem, por sua vez, deu provimento ao agravo em execução interposto pelo Ministério Público e, por isso, revogou a comutação de penas concedida pelo Juízo de primeiro grau, ao fundamento de que (e-STJ fls. 50/52):
+No caso em tela, o juízo da execução, em decisão proferida no dia 22/05/2018, deferiu a comutação da pena a [NOME].
+De tal decisão insurge-se o Ministério Público, com razão. Explico.
+Da análise do disposto no artigo 4º do Decreto 9246/2017, verifica-se que, para fins de comutação, o apenado não poderá ter praticado infração disciplinar de natureza grave, nos doze meses anteriores à publicação do decreto.
+Na hipótese dos autos, o apenado cometeu falta grave consistente em fuga no dia 18/08/2017, com recaptura em 26/09/2017 (fl. 05). A falta foi reconhecida judicialmente em 31/01/2018 (fls. 06/06v).
+Embora o reconhecimento judicial tenha ocorrido apenas em janeiro do corrente ano, fato é que a falta foi efetivamente cometida no período de abrangência do Decreto 9246/2017. O apenado, portanto, incorreu em conduta que impede o deferimento do benefício.
+ ..
+Assim sendo, o apenado não faz jus à comutação (grifei).
+Nessas circunstâncias, não verifico nenhuma ilegalidade no acórdão hostilizado, visto que o indeferimento do pedido de concessão de comutação de penas se deu em razão da prática de falta grave em 26/9/2017, ou seja, dentro do período de 12 (doze) meses que antecederam à edição do Decreto Presidencial n. 9.246/2017, em estrita obediência ao que determina o art. 4º, I, do mencionado decreto, a saber:
+Art. 4º O indulto natalino ou a comutação não será concedido às pessoas que:
+I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto (grifei);
+A propósito, confiram-se:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. DECRETO N. 8.380/2014. REQUISITOS OBJETIVO E SUBJETIVO NÃO ATENDIDOS. FALTA DISCIPLINAR DE NATUREZA GRAVE HOMOLOGADA APÓS A DATA DE PUBLICAÇÃO DO DECRETO-PRESIDENCIAL. IRRELEVANTE QUE A FALTA DISCIPLINAR DE NATUREZA GRAVE VENHA A SER HOMOLOGADA APÓS A PUBLICAÇÃO DO REFERIDO ATO NORMATIVO. AUSÊNCIA DE PREVISÃO EXPRESSA. REVOGADO O BENEFÍCIO DE COMUTAÇÃO DE PENA CONCEDIDO AO REEDUCANDO.
+1. O cerne da controvérsia cinge-se a saber se o cometimento de falta disciplinar de natureza grave pelo reeducando nos 12 meses de cumprimento da pena anteriores à data de publicação do decreto - independentemente de homologação posterior ao édito - obsta a concessão da benesse proporcionada pelo Decreto Presidencial n. 8.380/2014.
+2. Este Superior Tribunal firmou entendimento no sentido de que o óbice à concessão de indulto ou comutação ocorrerá se a falta grave tiver sido cometida dentro do prazo previsto no decreto, independentemente da data de sua homologação, se antes ou depois do ato presidencial.
+3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+4. Agravo regimental improvido (AgRg no REsp 1.638.367/MG, relator o Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 17/4/2017, grifei).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DA PENA. DECRETO N. 8.615/2015. FALTA GRAVE COMETIDA NOS 12 (DOZE) MESES QUE ANTECEDERAM A EDIÇÃO DO DECRETO PRESIDENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo a Jurisprudência desta Corte, "o prazo de 12 (doze) meses a que se refere ao decreto diz respeito ao cometimento da falta grave e não à sua homologação ou eventual aplicação de sanção" (HC 310.667/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/03/2015, DJe 09/03/2015).
+2. No caso dos autos, o agravante foragiu em 17/7/2015, somente sendo recapturado em 29/11/2015, o que demonstra o acerto do acórdão proferido pelo Tribunal de origem, pois, ainda que o procedimento de apuração não tenha sido encerrado até o dia 23/12/2015, data da publicação do Decreto Presidencial n. 8.615/2015, é indevida a concessão do benefício pleiteado.
+3. Agravo regimental desprovido (AgRg no HC 379.516/MG, de minha relatoria, Sexta Turma, DJe de 23/3/2017).
+PROCESSUAL PENAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA GRAVE PRATICADA NOS 12 MESES ANTECEDENTES AO DECRETO PRESIDENCIAL. HOMOLOGAÇÃO POSTERIOR. POSSIBILIDADE DE NÃO CONCESSÃO DA COMUTAÇÃO.
+I - Não haverá o direito de comutação de pena, o apenado que praticar falta grave no lapso de 12 meses anteriores à publicação do Decreto Presidencial, desde que homologada a falta, ainda que a decisão seja posterior ao Decreto.
+II - In casu, o reeducando fugiu em 09/12/2013, sendo recapturado em março/2014, com homologação da falta grave, logo, adequada a não concessão da comutação.
+Embargos de divergência providos para prevalecer o entendimento firmado no acórdão paradigma, dando-se provimento ao recurso especial para cassar o benefício concedido ao apenado (EREsp 1.549.544/SP, relator o Ministro Felix Fisher, Terceira Seção, DJe de 30/9/2016).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
