@@ -1,0 +1,18 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 0248647-08.2018.8.21.7000.
+O recorrente, denunciado pela prática do crime do art. 33 da Lei n. 11.343/2006, foi preso em flagrante em 12/7/2018. O pedido de liberdade provisória foi indeferido e o Tribunal de origem denegou a ordem de habeas corpus lá impetrada.
+Nesta Corte, a defesa alega que "a gravidade em abstrato do delito não é fundamento apto, por si só, a ensejar a prisão preventiva" (fl. 116). Aduz que a medida é desproporcional, além da pequena quantidade de droga  3,5 g de cocaína e 7,0 g de maconha  apreendida e das condições pessoais favoráveis.
+Requer o provimento do recurso ordinário, para o fim de "determinar a liberdade provisória ao recorrente" (fl. 117).
+Liminar deferida às fls. 141-143.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Mario [NOME], manifestou-se, às fls. 171-174, pelo provimento do recurso.
+Decido.
+A decisão que convolou a prisão em flagrante em preventiva possui a seguinte fundamentação (fls. 52-53, destaquei):
+ ..
+Quanto ao "fumus boni iuris", previsto no artigo 312, parte final, do Código de Processo Penal, há prova da existência do crime e indícios suficientes de sua autoria, os quais apontam ser o flagrado o autor da infração penal, como se depreende do auto de apreensão e pelo laudo de constatação da natureza da substância juntado aos autos, bem como pelas declarações dos policiais que participaram do flagrante.
+Concernente ao "periculum libertatis", previsto na primeira parte do artigo 312 do Código de Processo Penal, a autorizar a segregação da liberdade, decalca-se que o flagrado gera perigo à sociedade, uma vez que o delito de tráfico de drogas é de natureza grave, pois coloca em risco a ordem pública, sendo que, se não for detido, provavelmente, o flagrado continuará exercendo a traficância e, consequentemente, prejudicando mais jovens e famílias da nossa comunidade.
+Por outro lado, as medidas cautelares diversas da prisão previstas no art. 319, com redação dada pela Lei 12.403/11, são desproporcionais à gravidade do delito, além de não serem suficientes para impedir a continuidade na prática do tráfico de drogas.
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, do CPP.
+O Magistrado de primeira instância entendeu necessária a prisão preventiva, ao fundamento de que, "se não for detido, provavelmente, o flagrado continuará exercendo a traficância" (fl. 52, grifei).
+A fundamentação é genérica. Não houve a indicação de elementos concretos que, efetivamente, evidenciassem que o recorrente, solto, pudesse colocar em risco a ordem pública, a instrução processual ou mesmo se furtar à aplicação da lei penal. O acréscimo de fundamentação, realizado pelo Tribunal de origem, relativamente ao fato de o investigado responder a outro processo criminal, não é admitido.
+À vista do exposto, dou provimento ao recurso ordinário para, confirmada a liminar, cassar a decisão que decretou a prisão preventiva do réu, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada sua necessidade, bem como a imposição de medida alternativa, nos termos do art. 319 do CPP, devidamente fundamentada.
+Publique-se e intimem-se.
