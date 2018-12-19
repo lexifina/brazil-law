@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por IURY NATAN DE SOUZA LUZ contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n.º 1.0000.18.039535-2/000.
+Consta dos autos que o recorrente foi preso em flagrante em 09/03/2018, pela suposta prática do crime previsto no art. 157, § 2.º, inciso II, c.c. o art. 29, ambos do Código Penal (roubo circunstanciado). Referida custódia foi convertida em preventiva.
+Inconformada, a defesa impetrou habeas corpus perante a Corte Estadual, a qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS - ROUBO MAJORADO PELO CONCURSO DE AGENTES - NEGATIVA DE AUTORIA - VIA IMPRÓPRIA - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - GARANTIA DA ORDEM PÚBLICA. O habeas corpus não constitui via adequada para apurar alegações que necessitem de dilação probatória. A manutenção da prisão preventiva se sustenta diante da comprovação da materialidade e dos indícios suficientes da autoria do crime, associados ao motivo legal da garantia da ordem pública, sobretudo no que se refere ao modo concreto com que o paciente teria agido. Eventuais condições pessoais, ainda que favoráveis, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva, mormente diante de elementos concretos e legítimos que demonstram a essencialidade da manutenção da custódia antecipada. (fls. 73)
+No presente recurso, alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal - CPP. Aponta que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito. Invoca o princípio da presunção de inocência.
+Ressalta as condições pessoais favoráveis do recorrente e assevera ser suficiente, no caso concreto, a aplicação de medida alternativa ao cárcere insculpida no art. 319 do CPP.
+Pondera que a manutenção da custódia cautelar seria desproporcionalmente severa, à luz dos enunciados da Súmula 440 do Superior Tribunal de Justiça e das Súmulas 718 e 719 do Supremo Tribunal Federal.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva para que o recorrente aguarde em liberdade o trânsito em julgado de eventual condenação.
+Liminar indeferida às fls. 101/103.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 109/111).
+É o relatório.
+Decido.
+De acordo com as informações obtidas na página eletrônica da Corte Estadual, constata-se que em 15/10/2018 foi proferida sentença condenatória nos autos da Ação Penal n. 0024666-54.2018.8.13.0145. Todavia, não é possível aferir o inteiro teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois inexiste notícia de expedição de alvará de soltura em favor do ora recorrente após a prolação da sentença condenatória.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do writ que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente mandamus.
+Constatado o silêncio do impetrante após a prolação da sentença condenatória, afigura-se forçoso entender pela perda de objeto do presente recurso em habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
