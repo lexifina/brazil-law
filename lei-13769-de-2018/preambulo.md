@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), as Leis nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para estabelecer a substituição da prisão preventiva por prisão domiciliar da mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência e para disciplinar o regime de cumprimento de pena privativa de liberdade de condenadas na mesma situação.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
