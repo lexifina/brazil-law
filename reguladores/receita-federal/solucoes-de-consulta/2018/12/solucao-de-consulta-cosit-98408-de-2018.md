@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98408, de 13 de dezembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3921.11.00 Mercadoria: Placa de espuma de polímero de estireno rígido (plástico), revestida em ambas as faces por papel cartonado, tamanho padrão de 1,22 x 2,44 m, espessura de 5 mm, própria para fundo, borda e espaçadores em quadros; fundo de porta-retratos; apresentações de layouts, displays, designs, artes e gráficos; material de comunicação e publicidade; montagens de maquetes e cenografia; entre outros usos, comercialmente denominada foam board, papel pluma, papel espuma, papel metiê ou contracole.
+DISPOSITIVOS LEGAIS: RGI-1, RGI-3b) e RGI-6 da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.408-2018.pdf]
