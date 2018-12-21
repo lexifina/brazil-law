@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 254, de 14 de dezembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF
+EMENTA: ACORDOS INTERNACIONAIS. RENDIMENTOS AUFERIDOS PELA ONU E SUAS AGÊNCIAS. ISENÇÃO.
+A Organização das Nações Unidas (ONU), suas subsidiárias, no desempenho das funções estabelecidas por sua Assembleia Geral, e seus fundos de previdência e/ou pensão, estão isentos do IRRF sobre dividendos e/ou juros sobre o capital próprio, decorrentes de investimentos em participações societárias de empresas situadas no país, por força da letra "a" da Seção 7 do Artigo II da Convenção sobre Privilégios e Imunidades das Nações Unidas, promulgada pelo Decreto nº 27.784, de 16 de fevereiro de 1950.
+DISPOSITIVOS LEGAIS: letra "a" da Seção 7 do Artigo II da Convenção sobre Privilégios e Imunidades das Nações Unidas, promulgada pelo Decreto nº 27.784, de 16 de fevereiro de 1950; arts. 741 e 744 do Decreto nº 9.580, de 22 de novembro de 2018 (RIR/2018); Ato Declaratório Interpretativo RFB nº 37, de 24 de março de 2011.
+ASSUNTO: IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO E SEGUROS OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS - IOF
+EMENTA: ACORDOS INTERNACIONAIS. RENDIMENTOS AUFERIDOS PELA ONU E SUAS AGÊNCIAS. ISENÇÃO.
+A Organização das Nações Unidas (ONU), suas subsidiárias, no desempenho das funções estabelecidas por sua Assembleia Geral, e seus fundos de previdência e/ou pensão, estão isentos do IOF nas operações com títulos, valores mobiliários e aplicações financeiras, inclusive nas operações de câmbio para remessa de recursos ao exterior, por força da letra "a" da Seção 7 do Artigo II da Convenção sobre Privilégios e Imunidades das Nações Unidas, promulgada pelo Decreto Nº 27.784, de 16 de fevereiro de 1950.
+DISPOSITIVOS LEGAIS: letra "a" da Seção 7 do Artigo II da Convenção sobre Privilégios e Imunidades das Nações Unidas, promulgada pelo Decreto nº 27.784, de 16 de fevereiro de 1950; arts. 2º, incisos II e IV, 11, 15-B, 25 e 26 do Decreto nº 6.306, de 14 de dezembro de 2007; Ato Declaratório Interpretativo RFB nº 37, de 24 de março de 2011.
+[arquivo anexo: SC Cosit nº 254-2018.pdf]
