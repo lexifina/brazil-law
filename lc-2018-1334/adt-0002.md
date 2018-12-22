@@ -1,0 +1,3 @@
+Artigo 2º - O enquadramento na carreira de Agente Educacional, de que trata o artigo 7º desta lei complementar, far-se-á observadas as seguintes disposições:
+I - apurar-se-á o montante relativo à somatória do salário base (padrão de vencimentos) e da Gratificação de Controle Externo, excluídas todas e quaisquer outras parcelas que compõem a remuneração do ocupante do cargo;
+II - o Grau e o Nível serão definidos pelo critério financeiro, comparando-se o valor resultante do inciso anterior com aqueles que compõem a Escala de Vencimentos do Anexo Único desta lei complementar, acrescidos do novo valor da Gratificação de Controle Externo prevista no artigo 42 da Lei Complementar nº 743, de 27 de dezembro de 1993, respeitando-se o princípio da irredutibilidade de vencimentos.
