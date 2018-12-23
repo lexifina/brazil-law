@@ -1,0 +1,1 @@
+Art. 4º-A. As doenças, agravos e eventos em saúde relacionados às neoplasias terão notificação e registro compulsórios, nos serviços de saúde públicos e privados em todo o território nacional, nos termos regulamentares.
