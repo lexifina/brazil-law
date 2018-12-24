@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 268, de 19 de dezembro de 2018
+ASSUNTO: Contribuições Sociais Previdenciárias.
+EMENTA: Obra inacabada. Regularização parcial. Matrícula no CEI. Recolhimentos anteriores.
+Não havendo regularização parcial de obra inacabada, o responsável pela obra (o proprietário, o dono da obra ou o incorporador) solicitará emissão de matrícula no CEI, mencionando a matrícula anterior (quando houver). Serão aproveitados os recolhimentos anteriormente efetuados com vinculação inequívoca à obra e, inexistindo escrituração contábil regular, ou não sendo possível a comprovação de mão de obra para todo o período da obra, as contribuições devidas serão apuradas por aferição indireta, aproveitando-se os recolhimentos anteriormente efetuados. Não há previsão normativa para que o contratante (proprietário da obra), em caso de rescisão de contrato, dê continuidade à obra com a mesma matrícula que havia sido efetuada por construtora ou incorporadora, mesmo que elas assim autorizem. DISPOSITIVOS LEGAIS: Instrução Normativa (IN) RFB nº 971, de 13 de novembro de 2009: inciso XVI do art. 322; parágrafo 4º e incisos I e III do parágrafo 5º do art. 379; art. 373.
+Novo segmento
+[arquivo anexo: SC Cosit nº 268-2018.pdf]
