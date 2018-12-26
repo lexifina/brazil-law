@@ -1,0 +1,7 @@
+Ato Declaratório Interpretativo RFB nº 6, de 24 de dezembro de 2018
+Dispõe sobre a não-aplicabilidade da multa de ofício nos casos que enumera.
+SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, o uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 84, e seu § 2º, da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, declara:
+Art. 1º Não constitui infração punível com a multa prevista no art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, a solicitação, feita no despacho de importação, de reconhecimento de imunidade tributária, isenção ou redução de tributos incidentes na importação e preferência percentual negociada em acordo internacional, quando incabíveis, bem assim a indicação indevida de destaque ex, desde que o produto esteja corretamente descrito, com todos os elementos necessários à sua identificação e ao enquadramento tarifário pleiteado, e que não se constate, em qualquer dos casos, intuito doloso ou má fé por parte do declarante.
+Art. 2º Fica revogado o Ato Declaratório Interpretativo SRF nº 13, de 10 de setembro de 2002.
+Art. 3º Ficam modificadas as conclusões em contrário constantes em Soluções de Consulta ou em Soluções de Divergência emitidas antes da publicação deste ato, independentemente de comunicação aos consulentes.
+JORGE ANTÔNIO DEHER RACHID
