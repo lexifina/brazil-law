@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1860, de 26 de dezembro de 2018
+Altera a Instrução Normativa RFB nº 1.645 de 30 de maio de 2016, que dispõe sobre a incidência do Imposto sobre a Renda Retido na Fonte sobre rendimentos pagos, creditados, empregados, entregues ou remetidos para pessoas jurídicas domiciliadas no exterior nas hipóteses que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 60 da Lei nº 12.249, de 11 de junho de 2010, e na Medida Provisória nº 713, de 1º de março de 2016, resolve:
