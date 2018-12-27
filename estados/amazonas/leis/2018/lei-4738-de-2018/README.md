@@ -1,0 +1,5 @@
+# Lei nº 4.738, de 27 de dezembro de 2018, do Estado do Amazonas
+
+DISPÕE SOBRE A CONCILIAÇÃO, TRANSAÇÃO E DESISTÊNCIA NAS CAUSAS QUE ENVOLVAM O ESTADO DO AMAZONAS, REGULAMENTA O ARTIGO 8º DA LEI FEDERAL N. 12.153, DE 22 DE DEZEMBRO DE 2009 QUE &#8220;DISPÕE SOBRE OS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO ÂMBITO DOS ESTADOS, DO DISTRITO FEDERAL, DOS TERRITÓRIOS E DOS MUNICÍPIOS&#8221;, E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/10310>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2018/10310/lei_4738.pdf>
