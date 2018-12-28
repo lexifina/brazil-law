@@ -1,0 +1,2 @@
+Determina o registro de veículo pelo guia de turismo que for adquirente de veículo ou que utilizar veículo próprio, de cônjuge ou de dependente, no desempenho de suas atividades profissionais e estabelece regras a serem observadas pelo guia-motorista na execução dos serviços de transporte turístico.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
