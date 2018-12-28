@@ -1,0 +1,24 @@
+Anexo I - DOCUMENTO BÁSICO DE ENTRADA DO CNPJ
+[arquivo anexo: Anexo I.pdf]
+Anexo II - PROTOCOLO DE TRANSMISSÃO DO CNPJ
+[arquivo anexo: Anexo II.pdf]
+Anexo III - COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO CADASTRAL NO CNPJ
+[arquivo anexo: Anexo III.pdf]
+Anexo IV - CERTIDÃO DE BAIXA DE INSCRIÇÃO NO CNPJ
+[arquivo anexo: Anexo IV.pdf]
+Anexo V - TABELA DE NATUREZA JURÍDICA x QUALIFICAÇÃO DO REPRESENTANTE DA ENTIDADE
+[arquivo anexo: Anexo V.pdf]
+Anexo VI - TABELA DE NATUREZA JURÍDICA x QUALIFICAÇÕES DOS INTEGRANTES DO QSA
+[arquivo anexo: Anexo VI.pdf]
+Anexo VII - TABELA DE UNIDADES AUXILIARES
+[arquivo anexo: Anexo VII.pdf]
+Anexo VIII - TABELA DE DOCUMENTOS E ORIENTAÇÕES
+[arquivo anexo: Anexo VIII.pdf]
+Anexo IX - TABELA DE SITUAÇÕES ESPECIAIS
+[arquivo anexo: Anexo IX.pdf]
+Anexo X - PEDIDO DE DECLARAÇÃO DE NULIDADE DA INSCRIÇÃO OU DA ALTERAÇÃO DO QSA NO CNPJ
+[arquivo anexo: Anexo X.pdf]
+Anexo XI - DECLARAÇÃO PARA INSCRIÇÃO DE ENTIDADE DOMICILIADA NO EXTERIOR PARA DEFERIMENTO NA RECEITA FEDERAL DO BRASIL
+[arquivo anexo: Anexo XI.pdf]
+Anexo XII - ORIENTAÇÕES PARA INFORMAÇÕES DE BENEFICIÁRIOS FINAIS
+[arquivo anexo: Anexo XII.pdf]
