@@ -1,0 +1,11 @@
+Art. 32-A. Em caso de resolução contratual por fato imputado ao adquirente, respeitado o disposto no § 2º deste artigo, deverão ser restituídos os valores pagos por ele, atualizados com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel, podendo ser descontados dos valores pagos os seguintes itens:
+I - os valores correspondentes à eventual fruição do imóvel, até o equivalente a 0,75% (setenta e cinco centésimos por cento) sobre o valor atualizado do contrato, cujo prazo será contado a partir da data da transmissão da posse do imóvel ao adquirente até sua restituição ao loteador;
+II - o montante devido por cláusula penal e despesas administrativas, inclusive arras ou sinal, limitado a um desconto de 10% (dez por cento) do valor atualizado do contrato;
+III - os encargos moratórios relativos às prestações pagas em atraso pelo adquirente;
+IV - os débitos de impostos sobre a propriedade predial e territorial urbana, contribuições condominiais, associativas ou outras de igual natureza que sejam a estas equiparadas e tarifas vinculadas ao lote, bem como tributos, custas e emolumentos incidentes sobre a restituição e/ou rescisão;
+V - a comissão de corretagem, desde que integrada ao preço do lote.
+§ 1º O pagamento da restituição ocorrerá em até 12 (doze) parcelas mensais, com início após o seguinte prazo de carência:
+I - em loteamentos com obras em andamento: no prazo máximo de 180 (cento e oitenta) dias após o prazo previsto em contrato para conclusão das obras;
+II - em loteamentos com obras concluídas: no prazo máximo de 12 (doze) meses após a formalização da rescisão contratual.
+§ 2º Somente será efetuado registro do contrato de nova venda se for comprovado o início da restituição do valor pago pelo vendedor ao titular do registro cancelado na forma e condições pactuadas no distrato, dispensada essa comprovação nos casos em que o adquirente não for localizado ou não tiver se manifestado, nos termos do art. 32 desta Lei.
+§ 3º O procedimento previsto neste artigo não se aplica aos contratos e escrituras de compra e venda de lote sob a modalidade de alienação fiduciária nos termos da Lei n° 9.514, de 20 de novembro de 1997.
