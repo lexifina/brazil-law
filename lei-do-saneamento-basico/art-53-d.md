@@ -1,0 +1,2 @@
+Art. 53-D. Fica criado o Comitê Interministerial de Saneamento Básico - Cisb, colegiado que, sob a presidência do Ministério das Cidades, tem a finalidade de assegurar a implementação da política federal de saneamento básico e de articular a atuação dos órgãos e das entidades federais na alocação de recursos financeiros em ações de saneamento básico.
+Parágrafo único. A composição do Cisb será definida em ato do Poder Executivo federal.
