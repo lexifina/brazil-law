@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1861, de 27 de dezembro de 2018
+Estabelece requisitos e condições para a realização de operações de importação por conta e ordem de terceiro e por encomenda.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no inciso I do art. 80 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e no inciso I do § 1º do art. 11 da Lei nº 11.281, de 20 de fevereiro de 2006, resolve:
