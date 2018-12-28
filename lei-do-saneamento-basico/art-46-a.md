@@ -1,0 +1,1 @@
+Art. 46-A Sem prejuízo da adoção dos mecanismos a que se refere o art. 46, a ANA poderá recomendar, independentemente da dominialidade dos corpos hídricos que formem determinada bacia hidrográfica, a restrição ou a interrupção do uso de recursos hídricos e a prioridade do uso para o consumo humano e para a dessedentação de animais.

@@ -1,0 +1,1 @@
+Art. 2º-A A definição do disposto no inciso VIII do caput do art. 2º desta Lei especifica as áreas a que se refere o inciso VI do caput do art. 3º da Lei Complementar nº 141, de 13 de janeiro de 2012.
