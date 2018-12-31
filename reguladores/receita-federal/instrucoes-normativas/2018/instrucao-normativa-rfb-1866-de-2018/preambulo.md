@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 1866, de 27 de dezembro de 2018
+Altera a Instrução Normativa RFB nº 1.799, de 16 de março de 2018, que estabelece normas complementares à Portaria MF nº 307, de 17 de julho de 2014, a qual dispõe sobre a aplicação do regime aduaneiro especial de loja franca em fronteira terrestre.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III, XXI e XXII do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no parágrafo único do art. 6º da Lei nº 9.826, de 23 de agosto de 1999, no inciso II do art. 6º e nos arts. 7º e 18 da Portaria MF nº 112, de 10 de junho de 2008, nos arts. 4º e 5º, no inciso VII do § 2º do art. 6º, nos arts. 7º e 9º, no parágrafo único do art. 10, no § 3º do art. 13, no parágrafo único do art. 16 e no art. 23 da Portaria MF nº 307, de 17 de julho de 2014,
+RESOLVE:
