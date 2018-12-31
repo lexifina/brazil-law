@@ -8,4 +8,4 @@ IV - as Caixas de Assistência dos Advogados.
 § 3º As Subseções são partes autônomas do Conselho Seccional, na forma desta lei e de seu ato constitutivo.
 § 4º As Caixas de Assistência dos Advogados, dotadas de personalidade jurídica própria, são criadas pelos Conselhos Seccionais, quando estes contarem com mais de mil e quinhentos inscritos.
 § 5º A OAB, por constituir serviço público, goza de imunidade tributária total em relação a seus bens, rendas e serviços.
-§ 6º Os atos conclusivos dos órgãos da OAB, salvo quando reservados ou de administração interna, devem ser publicados na imprensa oficial ou afixados no fórum, na íntegra ou em resumo.
+§ 6º Os atos, as notificações e as decisões dos órgãos da OAB, salvo quando reservados ou de administração interna, serão publicados no Diário Eletrônico da Ordem dos Advogados do Brasil, a ser disponibilizado na internet, podendo ser afixados no fórum local, na íntegra ou em resumo.
