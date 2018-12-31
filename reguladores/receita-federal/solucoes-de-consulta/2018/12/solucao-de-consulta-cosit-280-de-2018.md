@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 280, de 26 de dezembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF EMENTA: LIVRO CAIXA. DESPESAS COM SERVIÇOS DE CARTÃO DE DÉBITO. As despesas decorrentes do uso de sistema de recebimento mediante cartão de débito pelos clientes, tais como taxas e despesas bancárias, valores retidos pelo banco, locação de equipamentos e despesas com manutenção de conta bancária, podem ser deduzidas das receitas de serviços notariais e de registro, como despesas de custeio, desde que necessárias às atividades e sejam escrituradas em livro-caixa e comprovadas por documentação idônea. DISPOSITIVOS LEGAIS: Lei nº 8.134, de 27 de dezembro de 1990, art. 6º; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza, arts. 68 e 69, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018.
+.
+[arquivo anexo: SC Cosit nº 280-2018.pdf]
