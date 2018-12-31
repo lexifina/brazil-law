@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 1865, de 27 de dezembro de 2018
+Altera a Instrução Normativa SRF nº 611, de 18 de janeiro de 2006, que dispõe sobre a utilização de declaração simplificada na importação e na exportação, e a Instrução Normativa SRF nº 680, de 2 de outubro de 2006, que disciplina o despacho aduaneiro de importação.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 44 a 54 do Decreto-Lei nº 37, de 18 de novembro de 1966, no Decreto nº 660, de 25 de setembro de 1992, nos arts. 542 a 579-A do Decreto nº 6.759, de 5 de fevereiro de 2009 - Regulamento Aduaneiro, e na decisão Mercosul/CMC/DEC nº 50, de 16 de dezembro de 2004, internalizada pelo Decreto nº 6.876, de 4 de junho de 2009,
+RESOLVE:
