@@ -1,3 +1,3 @@
 Art. 69. Todos os prazos necessários à manifestação de advogados, estagiários e terceiros, nos processos em geral da OAB, são de quinze dias, inclusive para interposição de recursos.
 § 1º Nos casos de comunicação por ofício reservado, ou de notificação pessoal, o prazo se conta a partir do dia útil imediato ao da notificação do recebimento.
-§ 2º Nos casos de publicação na imprensa oficial do ato ou da decisão, o prazo inicia-se no primeiro dia útil seguinte.
+§ 2º No caso de atos, notificações e decisões divulgados por meio do Diário Eletrônico da Ordem dos Advogados do Brasil, o prazo terá início no primeiro dia útil seguinte à publicação, assim considerada o primeiro dia útil seguinte ao da disponibilização da informação no Diário.
