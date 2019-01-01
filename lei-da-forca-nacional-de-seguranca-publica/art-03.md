@@ -10,5 +10,4 @@ VIII - as atividades de inteligência de segurança pública;
 IX - a coordenação de ações e operações integradas de segurança pública;
 X - o auxílio na ocorrência de catástrofes ou desastres coletivos, inclusive para reconhecimento de vitimados; e
 XI - o apoio às atividades de conservação e policiamento ambiental.
-§ 1º A cooperação federativa no âmbito do Ministério da Segurança Pública também ocorrerá para fins de desenvolvimento de atividades de apoio administrativo e de projetos na área de segurança pública.
 § 2º A cooperação federativa no âmbito do Ministério da Segurança Pública também ocorrerá para fins de desenvolvimento de atividades de apoio administrativo e de projetos na área de segurança pública.

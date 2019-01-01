@@ -1,4 +1,4 @@
-Art. 8º Ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria-Geral da Presidência da República compete:
+Art. 8º Ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria de Governo da Presidência da República compete:
 I - dirigir a SPPI, superintender e coordenar suas atividades e orientar-lhe a atuação;
 II - (revogado);
 III - (revogado);

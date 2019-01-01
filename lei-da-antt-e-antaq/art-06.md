@@ -1,6 +1,0 @@
-Art. 6º No exercício da atribuição prevista no art. 5º, caberá ao CONIT:
-I - propor medidas que propiciem a integração dos transportes aéreo, aquaviário e terrestre e a harmonização das respectivas políticas setoriais;
-II - definir os elementos de logística do transporte multimodal a serem implementados pelos órgãos reguladores dos transportes terrestre e aquaviário vinculados ao Ministério dos Transportes, conforme estabelece esta Lei, pela Secretaria Especial de Portos e pela Agência Nacional de Aviação Civil - ANAC;
-III - harmonizar as políticas nacionais de transporte com as políticas de transporte dos Estados, do Distrito Federal e dos Municípios, visando à articulação dos órgãos encarregados do gerenciamento dos sistemas viários e da regulação dos transportes interestaduais, intermunicipais e urbanos;
-IV - aprovar, em função das características regionais, as políticas de prestação de serviços de transporte às áreas mais remotas ou de difícil acesso do País, submetendo ao Presidente da República e ao Congresso Nacional as medidas específicas que implicarem a criação de subsídios;
-V - aprovar as revisões periódicas das redes de transporte que contemplam as diversas regiões do País, propondo ao Poder Executivo e ao Congresso Nacional as reformulações do Sistema Nacional de Viação que atendam ao interesse nacional.
