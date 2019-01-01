@@ -1,2 +1,1 @@
 Art. 88. Os Diretores deverão ser brasileiros, ter idoneidade moral e reputação ilibada, formação universitária, experiência profissional compatível com os objetivos, atribuições e competências do DNIT e elevado conceito no campo de suas especialidades, e serão indicados pelo Ministro de Estado dos Transportes e nomeados pelo Presidente da República.
-Parágrafo único. As nomeações dos Diretores do DNIT serão precedidas, individualmente, de aprovação pelo Senado Federal, nos termos da alínea "f" do inciso III do art. 52 da Constituição.
