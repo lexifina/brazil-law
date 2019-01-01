@@ -1,1 +1,1 @@
-Art. 45. A Secretaria Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, responsável pela gestão dos recursos hídricos.
+Art. 45. A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério do Desenvolvimento Regional responsável pela gestão dos recursos hídricos.
