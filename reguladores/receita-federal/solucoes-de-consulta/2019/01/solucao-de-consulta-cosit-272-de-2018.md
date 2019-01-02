@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 272, de 19 de dezembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA DA PESSOA JURÍDICA – IRPJ. EMENTA: IMUNIDADE RELIGIOSA SUBJETIVA. EXPLORAÇÃO DE ATIVIDADE ECONÔMICA. POSSIBILIDADE. REQUISITOS. Ementa: a imunidade a impostos relativa às entidades religiosas é subjetiva. A imunidade a impostos das entidades religiosas pode abranger rendas, patrimônio e serviços que decorram da exploração de atividades econômicas não relacionadas com suas finalidades essenciais (propriamente religiosas), desde que: (i) os resultados dessas atividades econômicas sejam aplicados integralmente nos objetivos sociais da entidade imune; e (ii) no caso concreto, essa exploração de atividade econômica não possa representar prejuízo ao princípio da proteção à livre concorrência. DISPOSITIVOS LEGAIS: Constituição Federal, arts. 150, inc. VI, alínea “b”, e § 4º; e 170, inc. IV.
+.
+[arquivo anexo: SC Cosit nº 272-2018.pdf]
