@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 338, de 28 de dezembro de 2018
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: PERT. PREJUÍZO FISCAL. Para poder ser utilizado no PERT o prejuízo fiscal deve ter sido apurado até 31 de dezembro de 2015 e declarado até 29 de julho de 2016, ainda que somente na Parte A do e-Lalur. DISPOSITIVOS LEGAIS: Lei nº 13.496, de 2017, art. 2º, § 2º; IN RFB nº 1.711, de 2017, arts. 12 e 13, caput e § 9º, inciso I; IN RFB nº 1.422, de 2013, arts. 2º, 5º, 6º-A a 6º-D; IN RFB nº 1.700, de 2017, arts. 203, 310 . ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA EMENTA: INEFICÁCIA Não produz efeitos a consulta quando estiver definido ou declarado em disposição literal de lei DISPOSITIVOS LEGAIS: Decreto nº 70.235, de 1972, arts. 46 e 52, inciso VI; IN RFB nº 1.396, de 2007, art. 18, inciso IX.
+.
+[arquivo anexo: SC Cosit nº 338-2018.pdf]
