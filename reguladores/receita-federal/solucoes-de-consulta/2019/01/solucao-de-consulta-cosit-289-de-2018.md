@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 289, de 26 de dezembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: RETENÇÃO NA FONTE. ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA. PODERES LEGISLATIVO E JUDICIÁRIO. OBRIGAÇÃO. Os pagamentos efetuados pelos órgãos dos Poderes Legislativo e Judiciário pela prestação de serviços e pelo fornecimento de bens estão sujeitos à retenção de tributos federais, prevista no art. 64 da Lei nº 9.430, de 1996 e inciso I, do art. 2º da IN RFB nº 1.234, de 2012. DISPOSITIVOS LEGAIS: art. 64 da Lei nº 9.430, de 27 de dezembro de 1996; art. 4º, inciso I, do Decreto-Lei nº 200, de 25 de fevereiro de 1967; art. 1º do Decreto nº 99.244, de 10 de maio de 1990; art. 2º, inciso I, da IN RFB nº 1.234, de 11 de janeiro de 2012; arts. 2º e 37 da Constituição da República Federativa do Brasil de 1988.
+.
+[arquivo anexo: SC Cosit nº 289-2018.pdf]
