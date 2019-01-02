@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 314, de 26 de dezembro de 2018
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: ISENÇÃO. ATIVIDADE ECONÔMICA. A cessão onerosa de espaço na página da consulente na internet não a desvirtua de seu objeto social, nem caracteriza concorrência com as demais pessoas jurídicas, mantendo-se a isenção quanto ao IRPJ e à CSLL prevista no art. 15 da Lei nº 9.532, de 1997, caso os demais requisitos legais sejam cumpridos. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966, art. 111; Lei nº 9.532, de 1997, arts. 12 e 15; SC Cosit nº 159, de 2014; SC Cosit nº 171, de 2015; PN CST nº 162, de 1974. ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA EMENTA: É ineficaz, não produzindo efeitos, a consulta com referência a fato genérico. DISPOSITIVOS LEGAIS: IN RFB nº 1.396, de 2013, art. 18, II.
+.
+[arquivo anexo: SC Cosit nº 314-2018.pdf]
