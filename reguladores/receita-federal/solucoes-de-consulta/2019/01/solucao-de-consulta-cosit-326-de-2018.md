@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 326, de 27 de dezembro de 2018
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: ESCRITURAÇÃO CONTÁBIL FISCAL (ECF). OBRIGATORIEDADE. Consequência da decisão proferida pelo STF no âmbito da Ação Direta de Inconstitucionalidade (...), que declarou (...), e de esta entidade não se enquadrar entre as espécies desobrigadas à entrega da ECF, enumeradas no § 2º do art. 1º da Instrução Normativa RFB nº 1.422, de 2013, é a obrigatoriedade da apresentação de escrituração contábil fiscal. DISPOSITIVOS LEGAIS: Código Tributário Nacional (CTN), arts. 113, § 2º, e 121, inciso II; Lei nº 9.779, de 19 de janeiro de 1999, art. 16; Lei nº 9.868, de 10 de novembro de 1999, art. 28, parágrafo único; IN RFB nº 1.422, de 19 de dezembro de 2013, art. 1º; art. 3º, IN RFB nº 1.595, de 1º de dezembro de 2015; art. 2º, inciso IV, IN RFB nº 1.599.
+.
+[arquivo anexo: SC Cosit nº 326-2018.pdf]
