@@ -1,0 +1,2 @@
+Art. 8º-A. Fica instituída a Semana Nacional de Prevenção da Gravidez na Adolescência, a ser realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência.
+Parágrafo único. As ações destinadas a efetivar o disposto no caput deste artigo ficarão a cargo do poder público, em conjunto com organizações da sociedade civil, e serão dirigidas prioritariamente ao público adolescente.
