@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de ação cível originária proposta pelo Estado de Sergipe contra a União, em razão do Ofício nº 3763/2018/CGPC/SPPE/MTE, de 31 de agosto de 2018, notificando do
+    “lançamento da inscrição da Secretaria de Estado da Mulher, da Inclusão e Assistência Social do Trabalho e dos Direitos Humanos – SEIDH como inadimplente no Sistema de Administração Financeira do Governo Federal – SIAFI e no Cadastro Informativo de Créditos não Quitados do Setor Público Federal- CADIN, referente a não aprovação da prestação de contas do Convênio MTE/SPPE/CODEFAT nº 105/2012, firmando entre a Secretaria de Políticas Públicas de Emprego – SPPE/MTE e a citada Secretaria, para execução das Ações de Qualificação Social e Profissional do Plano Territorial de Qualificação – PlanTeQ.”
+    Em síntese, argumenta estar em vias de ser impedido de celebrar convênios de receber transferências voluntárias de recursos federais ou benefícios sob qualquer modalidade por conta de restrição no SIAFI, no CADIN e no CAUC em razão das “supostas irregularidades na execução do Convênio MTE/SPPE/CODEFAT nº 105/2012 (SICONV nº 776536/2012, exercício 2012. Afirma que “apesar da informação de que, além da inscrição junto ao SIAFI e CADIN, seria instaurada a Tomada de Contas Especial, até a presente data, contudo, a referida TCE não foi instaurada.
+    Requer tutela de urgência no sentido de impedir que a União inscreva o Estado de Sergipe no CADIN/CAUC/SIAFI ou em qualquer outro cadastro ou sistema de restrição ao crédito por ela utilizado, relativamente ao Convênio em referência, “antes da instauração e julgamento pelo TCU da competente tomada de contas especial ou até o julgamento definitivo da presente ação, ou, acaso já tenha sido efetivada a aludida inscrição, seja a mesma imediatamente suspensa.”
+    Decido.
+    Numa análise perfunctória própria das medidas cautelares de urgência, verifico que a inclusão do Estado de Sergipe nos cadastros restritivos de créditos da União e o impacto nas políticas públicas que dependem das receitas decorrentes de transferências voluntárias e de financiamentos em curso, caracteriza situação de urgência a autorizar a atuação desta Presidência, na forma do art. 13, inciso VIII, do Regimento Interno do Supremo Tribunal Federal.
+    Dessa forma, concedo parcialmente a tutela de urgência para determinar à União que não inscreva ou que suspenda os efeitos de eventual inscrição do Estado de Sergipe no CADIN/CAUC/SIAFI e demais cadastros restritivos, em razão da não aprovação da prestação de contas do Convênio MTE/SPPE/CODEFAT nº 105/2012 (SICONV nº 776538/2012), até ulterior análise do eminente Ministro Relator do feito.
+    Intime-se, com urgência.
+    Publique-se.
+    Brasília, 4 de janeiro de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
