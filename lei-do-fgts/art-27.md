@@ -1,6 +1,6 @@
 Art. 27. A apresentação do Certificado de Regularidade do FGTS, fornecido pela Caixa Econômica Federal, é obrigatória nas seguintes situações:
 a) habilitação e licitação promovida por órgão da Administração Federal, Estadual e Municipal, direta, indireta ou fundacional ou por entidade controlada direta ou indiretamente pela União, Estado e Município;
-b) obtenção, por parte da União, Estados e Municípios, ou por órgãos da Administração Federal, Estadual e Municipal, direta, indireta, ou fundacional, ou indiretamente pela União, Estados ou Municípios, de empréstimos ou financiamentos junto a quaisquer entidades financeiras oficiais;
+b) obtenção, por parte da União, dos Estados ou dos Municípios, ou por órgãos da Administração federal, estadual ou municipal, direta, indireta ou fundacional, ou indiretamente pela União, pelos Estados ou pelos Municípios, de empréstimos ou financiamentos realizados com lastro em recursos públicos ou oriundos do FGTS perante quaisquer instituições de crédito;
 c) obtenção de favores creditícios, isenções, subsídios, auxílios, outorga ou concessão de serviços ou quaisquer outros benefícios concedidos por órgão da Administração Federal, Estadual e Municipal, salvo quando destinados a saldar débitos para com o FGTS;
 d) transferência de domicílio para o exterior;
 e) registro ou arquivamento, nos órgãos competentes, de alteração ou distrato de contrato social, de estatuto, ou de qualquer documento que implique modificação na estrutura jurídica do empregador ou na sua extinção.
