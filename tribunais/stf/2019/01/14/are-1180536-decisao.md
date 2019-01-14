@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. CONTRIBUIÇÃO PREVIDENCIÁRA: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Tribunal de Justiça de São Paulo:
+    “APELAÇÃO - Mandado de segurança - Desconto de contribuição previdenciária sobre complementação de aposentadoria - Impossibilidade de cessação do recolhimento - Aplicação do art. 9º da Lei Complementar estadual 1.012/97 - Categoria de ‘aposentado do Estado’ que não distingue se, na ativa, empregado ou servidor público - Denegação da ordem mantida - Não provimento do recurso” (fl. 126, vol. 2).
+    Os embargos de declaração opostos foram rejeitados (fls. 138-141, vol. 2).
+    2. Os agravantes alegam ter o Tribunal de origem contrariado o inc. III do art. 1º; o § 20 do art. 40; o § 1º do art. 149; o inc. I do art. 150; e o inc. II do art. 195 da Constituição da República ao argumento de que não há base legal para a incidência da contribuição previdenciária sobre a complementação de aposentadoria ou pensão.
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    No agravo, os agravantes sustentam que “a questão jurídica controvertida foi regular e oportunamente ventilada no v. acórdão objurgado, assentando o julgado entendimento da questão à luz dos preceitos constitucionais em tela, objeto de debate pelas partes e de decisão pelo v. acórdão” (fls. 76-77, vol. 3).
+    Requerem o conhecimento e provimento do recurso.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste aos agravantes.
+    5. O Tribunal de origem assentou:
+    “A Lei Complementar nº 954, de 31 de dezembro de 2003, era expressa ao prever o referido desconto de 11% para ‘os servidores que recebem complementação de aposentadoria e pensão’, caso dos autores. Mas, a lei complementar nº 1.012/2007, muito embora não se refira expressamente à hipótese de complementação de aposentadoria autoriza referido desconto em seu artigo 9º” (fl. 128, vol. 2).
+    Novo exame do julgado impugnado exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Leis Complementares estaduais ns. 954/2003 e 1.012/2007). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide a Súmula n. 280 deste Supremo Tribunal:
+    “DIREITO ADMINISTRATIVO. CONTRIBUIÇÃO SOBRE PROVENTOS DE INATIVOS E PENSIONISTAS APÓS A EMENDA CONSTITUCIONAL 41/2003. CONSTITUCIONALIDADE. DESCONTOS INSTITUÍDOS PELA LEI COMPLEMENTAR ESTADUAL 954/2003. ALEGAÇÃO DE NÃO INCIDÊNCIA DA CONTRIBUIÇÃO APÓS O ADVENTO DA LEI COMPLEMENTAR ESTADUAL 1.012/2007. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. SÚMULA 280/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 05.09.2011. A jurisprudência desta Corte é firme no sentido de ser constitucional a cobrança de contribuição previdenciária sobre os proventos de servidores inativos e pensionistas após a EC 41/2003. A discussão relativa ao desconto das contribuições previstas na Lei Complementar Estadual 954/2003 reveste-se de índole infraconstitucional, de modo que, a eventual afronta ao texto constitucional, caso ocorresse, seria indireta, o que não atende a exigência contida no art. 102, III, ‘a’ da Lei Maior. Aplicação da Súmula 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário’. Agravo regimental conhecido e não provido” (ARE n. 685.591-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 21.8.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEIS COMPLEMENTARES ESTADUAIS NS. 954/2003 E 1.012/2007. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 813.173-AgR, de minha relatoria, Segunda Turma, DJe 7.8.2014).
+    Nada há a prover quanto às alegações dos agravantes.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de janeiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
