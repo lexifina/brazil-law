@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98437, de 20 de dezembro de 2018
+Assunto: Classificação de Mercadorias Código NCM: 8517.62.12 Mercadoria: Multiplexador por Divisão de Tempo (TDM), equipamento de Hierarquia Digital Síncrona (SDH), com velocidade de transmissão igual a 10 Gbps, contendo 10 portas padrão SFP e 1 porta XFP; com dimensões externas de 27,5 cm x 23 cm x 2,5 cm e peso líquido aproximado de 1,4 kg, denominado "módulo muxponder".
+Dispositivos Legais: RGI 1 (Nota 2 a) da Seção XVI e texto da posição 85.17), RGI 6 (textos da subposição de 1º nível 8517.6 e da subposição de 2º nível 8517.62) e RGC 1 (textos do item 8517.62.1 e do subitem 8517.62.12) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.437-2018 .pdf]
