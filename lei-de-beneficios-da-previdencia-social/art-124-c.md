@@ -1,0 +1,1 @@
+Art. 124-C. O servidor responsável pela análise dos pedidos dos benefícios previstos nesta Lei motivará suas decisões ou opiniões técnicas e responderá pessoalmente apenas na hipótese de dolo ou erro grosseiro.
