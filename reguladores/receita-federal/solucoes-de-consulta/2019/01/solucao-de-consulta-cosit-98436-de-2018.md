@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98436, de 20 de dezembro de 2018
+Assunto: Classificação de Mercadorias Código NCM: 3926.90.90 Mercadoria: Artefato em formato retangular, constituído predominantemente por plástico (82% do produto) e parafuso de metal em sua base (18% do produto), próprio para fixação no solo de rodovias, sem qualquer dispositivo elétrico ou mecânico, contendo uma lente prismática que reflete a luz dos faróis automotivos, de modo a demarcar as linhas da pista de rodagem, apresentando dimensões de 100 x 93 x 20 mm e cores amarela, branca ou branca/vermelha, denominado comercialmente de "tacha refletiva para rodovia".
+Dispositivos Legais: RGI 1 (texto da posição 39.26), RGI 3 b), RGI 6 (texto da subposição 3926.90) e RGC-1 (texto do item 3926.90.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.436-2018 .pdf]
