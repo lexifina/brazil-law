@@ -1,0 +1,14 @@
+Decisão
+    Trata-se de dois Agravos contra decisões da instância de origem que inadmitiram os Recursos Extraordinários interpostos com fundamento no art. 102, III, da Constituição Federal.
+    O Tribunal de origem julgou prejudicado o Recurso Extraordinário de HAROLDO CAETANO DA SILVA FILHO ao aplicar precedentes desta CORTE formados sob a sistemática da repercussão geral (AI 792.292 QO-RG, Rel. Min. GILMAR MENDES, Tema 339 e ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, Tema 660). Em suas razões de Agravo, reitera argumentos de violação art. 5º, LV, da Constituição Federal.
+    No Recurso Extraordinário interposto por NILTON APARECIDO FLORENTINO, a Corte a quo inadmitiu o apelo ante a sua intempestividade. O recorrente sustenta a tempestividade do recurso extraordinário ao fundamento de que a republicação do acórdão, ainda que para suprir irregularidade constatada em relação à intimação do patrono de recorrente específico, tem o condão de reabrir o prazo recursal para todas as partes.
+    É o relatório. Decido.
+    Em relação ao Agravo interposto por HAROLDO, a jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE, pois, como destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, Min. CELSO DE MELLO, se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada (RE 1.023.231/PR, DJe de 22/2/2017).
+    Dessa forma, não existe, contra a decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso para o STF (ARE 960.182-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 15/3/2017).
+    Melhor sorte não assiste ao agravante NILTON. De fato, o acórdão recorrido foi publicado em 14/2/2017 com trânsito em julgado para o referido réu em 1º/3/2017, nos termos da Certidão constante às fls. 1.243, Vol. 7. Assim, correta a decisão de inadmissibilidade do apelo por intempestividade, uma vez que este foi protocolado somente em 19/6/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AOS AGRAVOS.
+    Publique-se.
+    Brasília, 21 de janeiro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
