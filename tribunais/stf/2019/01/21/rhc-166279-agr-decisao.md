@@ -1,0 +1,16 @@
+Despacho: (Ref. Pet. 942/2019) Trata-se de petição apresentada pelo impetrante, Paulo Henrique de Andrade Malara, em favor dos pacientes Edson Cleyton de Azevedo e Wesley Maia da Silva, em sede de agravo regimental, intitulada como “ADITAMENTO ao pedido de HABEAS CORPUS”, na qual postula-se a reconsideração do decisum proferido pelo Relator, Ministro Gilmar Mendes, o qual negou provimento ao recurso ordinário em habeas corpus interposto, por entender que “o decreto prisional encontra-se devidamente fundamentado em dados concretos, não apenas na gravidade abstrata do delito, principalmente pelo fato de que foram presos em circunstâncias que fazem presumir serem os autores dos delitos de furto qualificado, associação criminosa e comunicação falsa de crime, o que deixa patente suas personalidades voltadas aos delitos” (Doc. 3, Fl. 6), e que é “idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta dos crimes e em virtude do fundado receio de reiteração delitiva”(Doc. 3, Fl. 7).
+    Colhe-se dos autos que em virtude da prisão preventiva dos pacientes, houve a impetração de habeas corpus perante o Tribunal de origem, porém, a defesa não logrou êxito.
+    Irresignada, a defesa interpôs recurso ordinário em habeas corpus, o qual restou desprovido pelo Superior Tribunal de Justiça.
+    Sobreveio o presente recurso ordinário em habeas corpus, no qual a defesa se insurge contra a custódia preventiva dos pacientes.
+    Proferido julgamento do recurso ordinário pelo Ministro relator, conforme o decisum supra citado, houve a interposição de agravo interno, pendente de julgamento até a presente data.
+    Inconformado com a negativa de seguimento do recurso, o impetrante apresenta o presente peticionamento, com intuito manifesto de reconsideração do julgamento de mérito proferido pelo relator, suscitando novo título prisional proferido pelo juízo de origem.
+    O impetrante aduz que “a r. sentença condenatória proferida pelo Nobre Magistrado singular, estabelecendo o regime inicial semiaberto para o cumprimento da pena imposta aos pacientes e, de outro giro, mantendo a custódia preventiva dos mesmos, confirma o argumento defensivo no sentido de que a medida cautelar em exame implica em inegável violação ao princípio da proporcionalidade que deve haver entre a referida medida judicial e a pena a ser eventualmente imposta pelo cometimento do crime” (Doc. 9, Fl. 3)
+    Requer, ao final, ”a juntada da inclusa sentença condenatória proferida pelo D. Juízo de Primeira Instância e, ainda, REITERAR O PEDIDO DE CONCESSÃO LIMINAR DE ORDEM DE HABEAS CORPUS, tudo por ser medida da mais cristalina JUSTIÇA” (Doc. 9, Fl. 4, destaque no original).
+    A análise dos autos, contudo, revela que o pedido de reconsideração se funda em mero inconformismo do impetrante em face da decisão do relator, não trazendo aos autos nenhum elemento novo a demonstrar que o caso efetivamente se enquadra no artigo 13, VIII, do Regimento Interno do Supremo Tribunal Federal.
+    Ex positis, INDEFIRO o pedido de reconsideração.
+    Encaminhe-se o processo ao Ministro Relator.
+    Publique-se.
+    Brasília, 21 de janeiro de 2019.
+Ministro Luiz Fux
+Presidente em exercício
+Documento assinado digitalmente
