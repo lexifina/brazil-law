@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INSPETOR FISCAL DE RENDAS MUNICIPAL. ALEGAÇÃO DE CONTRARIEDADE AO INC. LV DO ART. 5º, AO INC. II DO ART. 37 E AO INC. IX DO ART. 103 DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “DIRETA DE INCONSTITUCIONALIDADE. Leis nºs 4.273, de 02 de abril de 1993, 4.823, de 22 de outubro de 1996, 7.119, de 18 de abril de 2013 e 7.550, de 19 de abril de 2017 do Município de Guarulhos. Disposição sobre o cargo de Inspetor Fiscal de Rendas. Imputação de criação sem especificação das respectivas atribuições. Amicus Curiae. Impossibilidade de admissão. Intervenção que está atrelada, unicamente, ao aparelhamento do Judiciário na prolação de seus pronunciamentos. Pretensão de defesa de interesse de classe. Descabimento em face da natureza do instituto. Legitimidade ativa. Ausência de pertinência em relação ao escopo da causa. Interesse de agir. Inexistência. Advento posterior de diploma regulador das atribuições do cargo criado. Convalidação. Perda do objeto. Precedentes deste Colegiado. AÇÃO EXTINTA SEM RESOLUÇÃO DE MÉRITO, cassada a liminar antes outorgada” (fl. 31, vol. 14).
+    2. A recorrente assevera contrariados o inc. LV do art. 5º, o inc. II do art. 37 e o inc. IX do art. 103 da Constituição da República e sustenta legitimidade e interesse de agir para a propositura da ação direta de inconstitucionalidade em questão.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. A alegação de contrariedade ao inc. LV do art. 5º, ao inc. II do art. 37 e ao inc. IX do art. 103 da Constituição da República suscitada no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI n. 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    Nada há a prover quanto às alegações da recorrente.
+    4. Pelo exposto, nego provimento ao recurso extraordinário (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de janeiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
