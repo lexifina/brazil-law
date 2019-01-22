@@ -1,0 +1,17 @@
+Decisão: Trata-se de mandado de injunção impetrado com o objetivo de suprir omissão legislativa referente ao inciso II do § 4º do artigo 40 da Constituição Federal, pleiteando a concessão de aposentadoria especial a guarda municipal.
+    Intimado para emendar a inicial (eDOC 8), a fim de apresentar prova pré-constituída do direito invocado, o Impetrante não se manifestou, conforme certidão (eDOC 10).
+    É o relatório.
+    O mandado de injunção pressupõe uma omissão legislativa, a qual inviabilize o exercício de um direito subjetivo constitucional.
+    Nesse sentido, confiram-se os seguintes julgados: MI-AgR 2.123, redator para acórdão Ministro Marco Aurélio, Tribunal Pleno, DJe 1º.08.2013; MI-AgR 375, de relatoria do Ministro Carlos Velloso, Tribunal Pleno, DJ 15.05.1992; e MI 6.070, de relatoria da Ministra Rosa Weber, Tribunal Pleno DJe 22.05.14.
+    Assim, convém consignar que a pretensão do impetrante não pode ser viabilizada por meio da presente ação constitucional, pois não há, nos autos, prova de que seu alegado direito à aposentadoria especial tenha lhe sido negado, em virtude de omissão legislativa.
+    Nesse sentido, a jurisprudência pacífica do Supremo Tribunal Federal é no sentido da necessidade de haver prova do indeferimento do benefício.
+    Confiram-se, a propósito, os seguintes precedentes do Tribunal Pleno: MI 6474, de relatoria do Ministro Roberto Barroso, DJe 10.03.2015; MI 1829, de relatoria da Ministra Rosa Weber, DJe 24.04.2014; MI 5291, de relatoria do Ministro Luiz Fux, DJe 02.04.2014; MI-AgR 5.637, de relatoria do Ministro Teori Zavascki, Pleno, DJe 13.8.2013, este último assim ementado:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ART. 40, § 4º, DA CONSTITUIÇÃO FEDERAL, APLICAÇÃO DAS NORMAS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL. AGRAVO DESPROVIDO. 1. Segundo a jurisprudência do STF, a omissão legislativa na regulamentação do art. 40, § 4º, da Constituição, deve ser suprida mediante a aplicação das normas do Regime Geral de Previdência Social previstas na Lei 8.213/91 e no Decreto 3.048/99. Não se admite a conversão de períodos especiais em comuns, mas apenas a concessão da aposentadoria especial mediante a prova do exercício de atividades exercidas em condições nocivas. Ainda, a exigência do requerimento e do indeferimento prévios do beneficio relaciona-se diretamente com a inviabilização do direito pela Administração Pública. Fundamentos observados pela decisão agravada. 2. Agravo regimental desprovido.”
+     Como é consabido, é inarredável, para o exame da demanda, a demonstração da presença dos dois pressupostos constitutivos: i) existência de uma omissão legislativa relativa a um direito ou liberdade garantidos constitucionalmente; ii) a efetiva inviabilidade do gozo de direito, faculdade ou prerrogativa da parte pela ausência desta norma infraconstitucional regulamentadora.
+     No caso sob exame, todavia, o impetrante não se desincumbiu do ônus de demonstrar que foi concretamente impedido de exercer seu direito à aposentadoria especial em razão da ausência de norma regulamentadora, o que inviabiliza a apreciação do pedido veiculado nesta impetração.
+    Ante o exposto, nego seguimento ao presente mandado de injunção, nos termos do art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 22 de janeiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
