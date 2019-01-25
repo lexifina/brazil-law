@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL). AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 2.898/DF: CONSTITUCIONALIDADE DO ART. 22 DA LEI N. 10.684/2003. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “DIREITO CONSTITUCIONAL E DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO DAS PESSOAS JURÍDICAS - MAJORAÇÃO DA ALÍQUOTA - OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS TRIBUTÁRIOS DA ISONOMIA, VEDAÇÃO AO CONFISCO E CAPACIDADE CONTRIBUTIVA. LEI N. 10.684/03.
+    Os prestadores de serviços em geral devem recolher imposto de renda pessoa jurídica e contribuição social sobre o lucro líquido sob a alíquota de 32%, nos termos do art. 22 da Lei n° 10.684/2003 c/c art. 20 e art. 15, §1, 167, m, da Lei 9.249/95. A variação da base de cálculo depende da natureza jurídica da empresa, revelando que há, entre cada grupo determinado, respeito à isonomia. As empresas são iguais dentro de cada grupo equivalente, merecendo tratamento tributário correspondente, sem vislumbrar qualquer ofensa 'aos princípios constitucionais tributários.
+    Apelação não provida” (fl. 189, vol. 1).
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os incs. II, III e IV do art. 150 e o § 1º do art. 145 da Constituição da República.
+    Sustenta-se a inconstitucionalidade do art. 22 da Lei n. 10.684/2003, “pois contraria o Inciso IV do artigo 150 da CF/88, que veda a utilização de tributos com efeitos confiscatórios, Inciso II do artigo 150 da CF/88, violação ao princípio da isonomia, § 1º, do artigo 145 da CF/88, princípio da capacidade contributiva, art. 150, inciso III, alínea “b”, da CF/88, princípio da anterioridade anual” (fl. 209, vol. 1).
+    Requer-se o provimento do presente recurso extraordinário.
+    3. O recurso extraordinário foi inadmitido pela harmonia do acórdão recorrido com a jurisprudência deste Supremo Tribunal.
+    No agravo, a agravante requer “o sobrestamento do feito, com lastro na ADI 2.898 (em anexo) em que se sustenta a inconstitucionalidade do art. 22 da lei 10.684/2003” (fl. 238, vol. 1).
+    Em 2.6.2018, o Ministro Dias Toffoli, então Relator, determinou o sobrestamento do presente recurso nos termos seguintes:
+    “Verifico que está pendente de julgamento pelo Plenário deste Supremo Tribunal Federal a ADI n° 2.898/DF, de minha relatoria, referente à análise da constitucionalidade do art. 22 da Lei nº 10.684/03 que promoveu nova redação ao art. 20 da Lei n.º 9.249/95.
+    Como o julgamento da mencionada ação poderá refletir no deslinde da presente lide, determino o sobrestamento deste feito até a apreciação da referida ação direta de inconstitucionalidade pelo Plenário desta Corte. Devem os autos permanecer na Secretaria Judiciária”.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à agravante.
+    5. Em 10.10.2018, o Supremo Tribunal Federal julgou improcedente a Ação Direta de Inconstitucionalidade n. 2.898, Relator o Ministro Dias Toffoli, e assentou a constitucionalidade do art. 22 e do inc. III do art. 29 da Lei n. 10.684/2003:
+    “Ação direta de inconstitucionalidade. Contribuição Social sobre o Lucro Líquido (CSLL). Artigos 22 e 29, III, da Lei nº 10.684/03. Aumento da base de cálculo do tributo para as empresas prestadoras de serviço. Violação dos princípios da isonomia, da capacidade contributiva, da vedação do confisco ou da anterioridade. Não ocorrência. Improcedência da ação.
+    1. A alteração da redação do art. 20 da Lei nº 9.249/95 pela Medida Provisória nº 232/04 não é suficiente para gerar o prejuízo da ação, pois o dispositivo que modificava o art. 20 da Lei nº 9.249/95 não foi aprovado pelo Congresso Nacional, deixando de constar no texto final da lei de conversão (Lei nº 11.119/05). O efeito revogador somente se operaria quando da conversão em lei do texto provisório.
+    2. Descabimento da alegação de inconstitucionalidade do art. 29, inciso III, da Lei nº 10.684/03 por desrespeito ao princípio da anterioridade anual previsto no art. 150, inciso III, alínea b, da Lei Fundamental. A instituição ou a majoração de contribuições sociais submete-se a regramento específico, estampado no art. 195, § 6º, da Constituição Federal, fazendo o dispositivo remissão expressa à vigência do art. 22 da mesma lei após o interregno de noventa dias da publicação do ato normativo.
+    3. O aumento da base de cálculo da CSLL foi destinado às empresas prestadoras de serviços tributadas com base no lucro presumido ou por estimativa, com exclusão das prestadoras de serviços hospitalares e equiparadas. A norma questionada, sob o pálio da política fiscal, teve o objetivo de sanar discrepância antes estabelecida consistente em uma menor tributação da renda (lucro) das pessoas jurídicas prestadoras de serviço, em detrimento das pessoas físicas desempenhadoras da mesma atividade.
+    4. A conformação do princípio da isonomia na Constituição Federal, mais ainda na vertente tributária, autoriza a adoção de medidas discriminativas para a promoção da igualdade em sentido material. No caso da Contribuição Social de Lucro Líquido (CSLL), assim como de outras contribuições sociais, a Constituição Federal autoriza a adoção de alíquotas ou bases de cálculo diferenciadas, dentre outros critérios, em razão da atividade econômica desenvolvida pela empresa, notadamente após a Emenda Constitucional nº 20/98, que inseriu o § 9º no art. 195 da CF.
+    5. Atrelado ao valor da isonomia, o princípio da capacidade contributiva busca, exatamente, justificar a adoção de critérios de diferenciação de incidência, conforme exija a multiplicidade de situações sociais, sempre visando a uma tributação mais justa e equânime.
+    6. Tendo em conta a totalidade da carga tributária suportada pelo contribuinte, o incremento isolado de uma contribuição não seria suficiente para atestar o efeito confiscatório propalado, porquanto, apesar do maior sacrifício da renda do sujeito passivo do tributo, não se impôs óbice irrazoável ao exercício de sua atividade.
+    7. Ação que se julga improcedente” (DJe 3.10.2018).
+    O acórdão recorrido harmoniza-se com a orientação deste Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de janeiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
