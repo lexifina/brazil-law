@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1867, de 25 de janeiro de 2019
+Altera a Instrução Normativa RFB nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à Previdência Social e das destinadas a outras entidades e fundos, administradas pela Secretaria da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 2º e 3º da Lei nº 11.457, de 16 de março de 2007, resolve:
