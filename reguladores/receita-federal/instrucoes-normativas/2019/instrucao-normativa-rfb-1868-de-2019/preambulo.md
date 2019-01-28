@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1868, de 25 de janeiro de 2019
+Altera a Instrução Normativa RFB nº 1.332, de 14 de fevereiro de 2013, que estabelece normas relativas à Contribuição para o Plano de Seguridade Social do Servidor (CPSS).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 183 a 185 da Lei nº 8.112, de 11 de dezembro de 1990, no art. 1º da Lei nº 9.717, de 27 de novembro de 1998, e na Lei nº 10.887, de 18 de junho de 2004, resolve:
