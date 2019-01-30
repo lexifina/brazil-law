@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 7, de 3 de janeiro de 2019
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF
+EMENTA: RENDIMENTOS PROVENIENTES DO EXTERIOR RECEBIDOS ACUMULADAMENTE. RECOLHIMENTO MENSAL OBRIGATÓRIO. TABELA PROGRESSIVA MENSAL.
+Os rendimentos do trabalho recebidos acumuladamente de fontes situadas no exterior, por pessoa física brasileira que readquiriu a condição de residente no Brasil, sujeitam-se ao recolhimento mensal obrigatório do imposto sobre a renda (“carnê-leão”), calculado sobre o total dos rendimentos recebidos no mês, mediante a aplicação da tabela progressiva mensal, inclusive quando correspondam a anos-calendário anteriores, e também à tributação na Declaração de Ajuste Anual.
+Dispositivos Legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), arts. 43, 113, § 1º, e 114; Lei nº 7.713, de 22 de dezembro de 1988, arts. 2º, 8º e 12-A; Lei nº 8.134, de 27 de dezembro de 1990, arts. 2º e 3º; Lei nº 9.250, de 26 de dezembro de 1995, arts. 3º, parágrafo único, 6º, 7º e 8º; Decreto nº 9.580, de 22 de novembro de 2018 - Regulamento do Imposto sobre a Renda - RIR/2018), arts. 2º e 34, parágrafo único, 118, 119, 120 e 121; Instrução Normativa SRF nº 208, de 27 de setembro de 2002, arts. 2º, inciso IV, e 16; Instrução Normativa RFB nº 1.500, 29 de outubro de 2014, arts. 3º, § 3º, 53, inciso II e § 1º, 54, 55, 56, 65 e 66.
+.
+[arquivo anexo: SC Cosit nº 7-2019.pdf]
