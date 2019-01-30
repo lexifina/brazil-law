@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Câmara Cível do Tribunal de Justiça da Bahia decidiu:
+    “APELAÇÃO. DIREITO CONSTITUCIONAL, DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL. CONCURSO PARA CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR. CANDIDATO APROVADO EM CADASTRO DE RESERVA. IDADE MÁXIMA ULTRAPASSADA QUANDO DA CONVOCAÇÃO PARA A MATRÍCULA NO CURSO DE FORMAÇÃO. CONSTITUCIONALIDADE E LEGALIDADE DE RESTRIÇÕES PREVISTAS EM EDITAL E IMPOSTAS POR LEI A DETERMINADOS CARGOS. CANDIDATO CONSIDERADO INAPTO NO EXAME MÉDICO. PROBLEMAS DE SAÚDE ATESTADO POR JUNTA MÉDICA OFICIAL. RELATÓRIO MÉDICO JUNTADO PELO APELADO. PROVA UNILATERAL. DESCABIMENTO. APELAÇÃO PROVIDA, SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTE O PEDIDO.
+    O exame do caso, bem como da documentação acostada aos autos, revelou que o Autor, aprovado em cadastro de reserva, já sabia que não preencheria os requisitos para assumir o cargo, quando convocado para a matrícula no curso de formação, por extrapolar a idade máxima permitida de 30 anos para o ingresso na carreira militar. Possibilidade de adoção de critérios distintivos no edital, desde que previstos em lei, a exemplo do limite etário, a depender da função a ser exercida. Compatibilidade de tal discriminação com as normas constitucionais. Precedentes de Tribunais Superiores. Com relação ao problema de saúde constatado, o Apelado exibiu relatório médico que atesta a sua plena capacidade, configurando prova unilateral, pois a inaptidão foi atestada pela banca examinadora que o excluiu do certame por apresentar extrassístoles ventriculares observadas por meio do teste ergométrico” (doc. 2, fls. 23-24).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas ns. 279, 280, 282, 284 e 356 deste Supremo Tribunal.
+    4. O agravante argumenta que, “nas razões do recurso extraordinário, sublinha-se bem a questão federal, não havendo qualquer razão razoável para impedi-lo no seu conhecimento pelo Supremo Tribunal Federal. O que se trata de per si é mera aferição de ocorrência de fato incontroverso, que se consubstancia em absoluta importância para o julgamento do recurso inadmitido. (...) não agiu com o costumeiro acerto também pelo equívoco no sentido de que a interposição do recurso extraordinário não deve subir para o Supremo Tribunal Federal face a ausência de prequestionamento. Falta, portanto, a decisão monocrática suporte legal, devendo por imposição legal, ser reconsiderado” (sic, doc. 2, fls. 95-97).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37 e o § 3º e o inc. X do art. 142 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste ao agravante.
+    Os argumentos expostos neste agravo não infirmam todos os óbices postos na decisão agravada, não se tendo manifestado o agravante especificamente quanto à incidência das Súmulas ns. 279 e 280 deste Supremo Tribunal, fundamento autônomo e suficiente a sustentar a inviabilidade do recurso extraordinário. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. RECURSO INADMISSÍVEL. POSSIBILIDADE DE JULGAMENTO PELO RELATOR. ART. 557, CAPUT , DO CÓDIGO DE PROCESSO CIVIL. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO INTERPOSTO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 837.124-AgR, de minha relatoria, Segunda Turma, DJe 18.9.2012).
+    Nada há a prover quanto às alegações do agravante, mantendo-se a decisão agravada por subsistirem os fundamentos não infirmados.
+    6. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de janeiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
