@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2267138-39.2018.8.26.0000.
+Noticiam os autos que o paciente foi condenado à pena de 6 (seis) meses e 5 (cinco) dias de reclusão, no regime inicial semiaberto, como incurso no artigo 155, combinado com o artigo 14, inciso II, ambos do Código Penal, ocasião em que a reprimenda privativa de liberdade foi substituída por restritiva de direitos.
+Diante da não localização do réu para iniciar o cumprimento da sanção substitutiva, esta foi convertida em privativa de liberdade.
+Inconformada, a defesa impetrou prévio writ na origem, cujo pedido liminar foi indeferido.
+Sustenta o impetrante que a conversão da pena restritiva de direitos em privativa de liberdade não alcançará os fins sociais almejados.
+Requer, liminarmente, que o paciente aguarde em liberdade o julgamento definitivo do presente mandamus, e, no mérito, pugna pela concessão da ordem para que a pena restritiva de direitos cominada ao réu seja restabelecida.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+E, da análise da documentação acostada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que "a decisão que converteu a pena restritiva de direitos em privativa de liberdade, se deu pelo fato de ele não ter sido localizado para dar início ao cumprimento da pena", não se vislumbrando, neste momento, "flagrante ilegalidade ou abuso, na decisão proferida, até porque perfeitamente motivada, restando inviável a concessão da medida emergencial pretendida" (e-STJ fl. 15).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ademais, esta Corte Superior de Justiça possui o entendimento de que "a Lei de Execução Penal, em seu art. 181, § 1º, "a", determina que se convertam as penas restritivas de direito impostas em respectivas penas privativas de liberdade, com a notícia de que o condenado se encontra em local incerto e não sabido ou que desatenda à intimação por edital" (HC 418.291/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/08/2018, DJe 15/08/2018), circunstância que reforça a impossibilidade de conhecimento do mandamus.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
