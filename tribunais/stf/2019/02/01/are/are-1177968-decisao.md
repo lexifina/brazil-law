@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça Militar do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CRIMINAL. ABANDONO DE POSTO. ARTIGO 195 DO CPM. CONFIGURAÇÃO. TESE DEFENSIVA. PRELIMINAR. PRINCÍPIO DA INSIGNIFICÂNCIA. IN DUBIO PRO REO. INAPLICABILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA 1. A mera contagem do lapso de tempo passado entre o recebimento da denúncia e a publicação da sentença mostra a inocorrência da prescrição da pretensão punitiva, conforme apregoa o artigo 125, §5º, incisos I e II, do CPM. 2- No âmbito da Justiça Militar, em face do desvalor da conduta e da afronta aos princípios relevantes que regem a vida na caserna, não se admite a aplicação do princípio da insignificância, conforme reiterado entendimento das Cortes Superiores. 3- O conjunto probatório evidencia, com absoluta certeza e segurança jurídica, a existência de prova inconteste da materialidade e autoria delitivas. ( TJM/RS, Apelação Criminal n° 1000190-10.2-17.9.21.000. Relatora: Maria Emília Moura da Silva. Sessão: 06/09/2017).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, XLII e XLIV, da CF. Sustenta a ocorrência da prescrição da pretensão punitiva estatal. Alega que “a renovação sucessiva e o recomeço da contagem da prescrição após atos processuais é deveras inconstitucional”. Afirma que: (i) “ficou incontroverso que se trata de condenação de Policial Militar com base em prova entendida, SMJ, pela defesa deveras frágil, com o que deveria ter ocorrido a plena absolvição do Servidor Militar do Estado Recorrente”; (ii) é “imperiosa a descaracterização da conduta tipificada no libelo acusatório em face da aplicação do Princípio de Direito denominado Insignificância”.
+    O recurso é inadmissível. O Ministério Público Federal se manifestou nos autos sob os seguintes fundamentos, que acolho como razões de decidir:
+    “[...]
+    O agravo em questão não comporta provimento, não havendo reparos na decisão que inadmitiu o recurso extraordinário, uma vez que não se verifica a repercussão geral na causa; na espécie não há violação direta à norma constitucional (Tema 660 STF), bem como a pretensão do recorrente indubitavelmente requer o revolvimento fático-probatório, o que encontra óbice na Súmula 279/STF.
+    […]
+    Na espécie, inexiste prescrição a ser declarada, uma vez que o fato data de 29/08/2014, o recebimento da inicial deu-se em 16/07/2015 e a sentença, que condenou o recorrente a 3 meses de detenção, sobreveio em 30/06/2017. É dizer, nos termos do diploma penal castrense (art. 125), não há de se falar em prescrição.
+    [...]”
+    Ademais, o Supremo Tribunal Federal já reconheceu inexistir repercussão geral da questão relativa à aplicação do princípio da insignificância. Nesse sentido, veja-se o AI 747.522 RG, julgado sob a relatoria do Ministro Cezar Peluso.
+    No caso, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
