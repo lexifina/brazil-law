@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBERT BOSELLI LOPES apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2142549-72.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática de crime de tráfico, em virtude da apreensão de "08 (oito) porções de Cannabis sativa L (maconha), pesando aproximadamente 39,3 gramas (trinta e nove gramas e três decigramas), 25 (vinte e cinco) porções de cocaína, pesando aproximadamente 51,8 gramas (cinqüenta e uma gramas e oito decigramas), e 17 (dezessete) porções de "crack", pesando aproximadamente 11,5 gramas (onze gramas e cinco decigramas)" - e-STJ fl. 11.
+Impetrado habeas corpus perante o Tribunal de Justiça de origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 51):
+Habeas corpus - Tráfico de entorpecentes - Agente que é flagrado transportando, 39,8 gramas de maconha, 51,8 gramas de cocaína e 11,5 gramas de crack para fins de tráfico - Critérios a serem empregados na análise dos pressupostos da prisão preventiva
+É certo que o STF já reconheceu não ser concebível eventual denegação de liberdade lastrada apenas na gravidade abstrata da conduta daquele que é criminalmente investigado.
+Ao decidir sobre sua eventual liberação, o Magistrado deve, com efeito, considerar, sempre, não apenas a natureza da infração, como também as circunstâncias nas quais os fatos teriam ocorrido e as condições pessoais do suposto agente.
+Em se cuidando de crime de tráfico de entorpecentes, a avaliação deve, assim, abranger não apenas a variedade da substância apreendida, como sua espécie, sua quantidade, a forma como estava acondicionada, além de toda a dinâmica dos fatos e o histórico do averiguado. Em tais situações, porém, é inclusive recomendável que aludida análise seja efetuada com maior rigor e especial cautela pelo Juiz, de modo a restarem efetivamente assegurados a manutenção da ordem pública, o bom andamento da instrução criminal, bem como a aplicação da lei penal, uma vez não se poder perder de vista que o tráfico de entorpecentes apresenta natureza grave e hedionda, com conseqüências particularmente nocivas à sociedade.
+
+Na presente impetração, alega a defesa que o paciente é primário, de bons antecedentes, com residência fixa, emprego lícito e família constituída e que, ademais, a segregação cautelar não está fundamentada. Pleiteia, liminarmente e no mérito, a revogação da prisão preventiva.
+Liminar indeferida (e-STJ fls. 60/62) e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 105/107).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 20/9/2018, de sentença condenatória em desfavor do paciente, ocasião em que lhe foi concedido o direito de apelar em liberdade, expedido o competente alvará de soltura.
+Assim, fica sem objeto este remédio constitucional, que buscava, justamente, a liberdade do paciente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
