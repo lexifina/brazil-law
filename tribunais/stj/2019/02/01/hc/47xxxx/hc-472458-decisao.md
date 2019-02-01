@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. CRIME PREVISTO NO ART. 155, § 4.º, INCISO I, C.C. O ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. POSSIBILIDADE. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n.º 0006841-27.2015.8.26.0635.
+Consta dos autos que o Paciente foi condenado, em primeiro grau, às penas de 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 07 (sete) dias-multa, como incurso no art. 155, § 4.º, inciso I, c.c. o art. 14, inciso II, ambos do Código Penal (fls. 15-19).
+Irresignada, a Defesa interpôs recurso de apelação. O Tribunal de origem negou provimento ao apelo defensivo (fls. 30-46). O Colegiado ordenou a expedição de mandado de prisão após o esgotamento das vias ordinárias de recurso.
+O Paciente, então, impetrou habeas corpus, com pedido de liminar, contra o referido acórdão, alegando, em suma, violação ao art. 387, § 2.º, do Código de Processo Penal, pelo Juízo de primeira instância, ao não realizar a detração, e a impossibilidade de o Tribunal a quo ordenar a imediata expedição de mandado de prisão.
+Requer, em liminar e no mérito, "a. Expedição de contramandado de prisão ao Paciente, a fim de que se evite a execução provisória de sua pena; b. O estabelecimento do regime Aberto para o início do cumprimento de pena, considerada a detração da pena nos termos do art. 387, §2º, do Código de Processo Penal." (fl. 11).
+O pedido liminar foi indeferido (fls. 52-55).
+Foram prestadas informações às fls. 61-90.
+O Ministério Público Federal manifestou-se às fls. 92-94, opinando pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+No caso, o Tribunal de origem determinou a expedição de mandado de prisão após vencidos os recursos ordinários, o que está em conformidade com a jurisprudência atualmente dominante.
+Com efeito, o Supremo Tribunal Federal, no julgamento do ARE n.º 964.246 RG/SP, julgado sob o regime de repercussão geral, reafirmou a jurisprudência dominante sobre a matéria no sentido de que "a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE 964.246 RG, Relator Ministro TEORI ZAVASCKI, DJe de 25/11/2016).
+Não é outro o entendimento do Superior Tribunal de Justiça, conforme se extrai do seguinte julgado:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO DA DIREÇÃO DE VEÍCULO AUTOMOTOR. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. CABIMENTO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mostra-se devida a imposição do regime inicial mais gravoso, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal quando verificado que o agravante teve a pena-base estabelecida acima do mínimo legal.
+2. Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal).
+3. Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+4. Agravo regimental não provido." (AgRg no AREsp 1.058.790/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2018, DJe 09/08/2018, sem grifos no original.)
+Outrossim observa-se que a matéria relativa à detração, prevista no art. 387, § 2.º, do Código de Processo Penal, não foi tratada no acórdão prolatado pela Corte de origem, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO. ROUBO MAJORADO. REINCIDÊNCIA. COMPROVAÇÃO. FOLHA DE ANTECEDENTES. DOCUMENTO IDÔNEO. REINCIDÊNCIA ESPECÍFICA. COMPENSAÇÃO COM ATENUANTE DA CONFISSÃO. IMPOSSIBILIDADE. ARMA DE FOGO. POTENCIALIDADE LESIVA. APREENSÃO E PERÍCIA. DESNECESSIDADE. TERCEIRA FASE DA DOSIMETRIA. CAUSAS DE AUMENTO. MOTIVAÇÃO INSUFICIENTE. SÚMULA N. 443 DO STJ. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA E MODUS OPERANDI. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+7. A matéria relativa à aplicação do art. 387, § 2º, do CPP não foi objeto de análise pelo Tribunal a quo, ficando, assim, impedida sua admissão, sob pena de indevida supressão de instância.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer ilegalidade na terceira fase da dosimetria e reduzir as penas dos réus." (HC 367.753/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/10/2016, DJe 10/11/2016, sem grifos no original.)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO EM SEDE DE APELAÇÃO. REFORMATIO IN PEJUS. INEXISTÊNCIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). NATUREZA, QUANTIDADE E VARIEDADE DE DROGAS. CRITÉRIO IDÔNEO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. FALTA DO PREENCHIMENTO DO REQUISITO OBJETIVO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+8. O tema acerca da aplicação do instituto da detração para fixação do regime inicial de cumprimento da penal, previsto no art. 387, § 2º, do Código de Processo Penal, não foi debatido no Tribunal de origem, o que impede sua análise por esta Corte, sob pena de supressão de instância. Precedente.
+9. É inviável a substituição da pena privativa de liberdade por restritiva de direitos, diante do quantum de pena aplicada, nos termos do art. 44, I, do Código Penal.
+10. Habeas corpus não conhecido." (HC 360.745/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/08/2016, DJe 23/08/2016.)
+Ante o exposto, CONHEÇO EM PARTE, do habeas corpus e, nessa extensão, DENEGO a ordem.
+Publique-se. Intimem-se.
