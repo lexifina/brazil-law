@@ -1,0 +1,63 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO EM GRUPO - APLICAÇÃO DO CDC - APÓLICES - AUSÊNCIA DE DEMONSTRAÇÃO DE CIÊNCIA INEQUÍVOCA DO SEGURADO - ACIDENTE DE TRABALHO - LAUDO PERICIAL QUE APONTA INCAPACIDADE PERMANENTE - RECEBIMENTO DE AUXÍLIO ACIDENTE PELO INSS - INAPLICABILIDADE DA TABELA SUSEP - RECURSO CONHECIDO E PROVIDO.
+Não restou demonstrada a ciência da requerente quanto as regras do contrato de seguro, uma vez que a seguradora não se desincumbiu de seu ônus probatório (artigo 373, II, do CPC) e deixou de trazer aos autos, por exemplo, cópia do regulamento devidamente rubricada pela requerente.
+Sendo assim, considerando que a incapacidade do requerente/apelante restou demonstrada nos autos, e que esta decorre de acidente de trabalho, o qual não pode ser excluído do conceito de acidente pessoal, claro está o direito da apelante em receber o prêmio do seguro em grupo objeto da relação jurídica existente entre as partes.
+Recurso conhecido e provido.
+Opostos embargos de declaração, foram acolhidos com efeitos infringentes, tendo o julgado a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES - TERMO INICIAL DA CORREÇÃO MONETÁRIA - NECESSIDADE DE ADEQUAÇÃO - MATÉRIA DE ORDEM PÚBLICA - INCIDÊNCIA DESDE A DATA DA CELEBRAÇÃO DO CONTRATO - EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+Os juros moratórios e a correção monetária, constituem matéria de ordem pública, cognoscível de ofício, sendo certo que de fato o entendimento desta Câmara, alinhado ao posicionamento externado pelo Superior Tribunal de Justiça e de que nos contratos de seguro, a correção monetária deve incidir desde a celebração do contrato de seguro.
+Embargos acolhidos com efeitos infringentes.
+Nas razões do recurso especial (fls. 723-732), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 757, 759, 760, 781, 789 e 801 do Código Civil.
+Alega que a responsabilidade contratual securitária não pode ultrapassar os termos da apólice, a qual estabelece indenização na medida da limitação apurada na perícia. Afirma que oportunizou o conhecimento das cláusulas no momento em que passou as informações do contrato diretamente com a empregadora e esta repassa aos segurados. Assevera que comprovou nos autos a invalidez parcial da parte recorrida, não podendo ser compelida ao pagamento do valor total do capital segurado, mas apenas proporcional à invalidez apurada pela perícia médica.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 770.
+É o relatório. Decido.
+2. Na espécie, a Corte local, por maioria, com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrida faz jus à indenização securitária de forma integral ante a ausência de comprovação pela seguradora ora recorrente de que o segurado tinha ciência da existência de cláusula contratual de graduação do pagamento. Segue trecho do voto vencedor (fls. 676-679):
+" ..
+Peço vênia para divergir do voto do relator e dar provimento ao recurso interposto pelo apelante, uma vez que entendo que a indenização securitária é devida ao requerente de forma integral.
+ ..
+Dessa forma, há perfeita incidência do Código de Defesa do Consumidor nos contratos atinentes a seguro em tela, como o ajustado entre as partes, podendo se definir como sendo um serviço a cobertura do seguro ofertada pela seguradora, consubstanciada no pagamento dos prejuízos decorrentes de riscos futuros estipulados no contrato aos seus clientes, os quais são destinatários finais deste serviço.
+Pois bem, a apelante sustenta que considerando se tratar de invalidez permanente por acidente, não há que se falar em aplicação da tabela Susep, muito menos que o capital segurado seria proporcional à lesão sofrida.
+Compulsando os autos, extrai-se que o autor sofreu acidente de trabalho quando da realização da 1ª chamada do 3º TAF (fl. 17/23).
+Insta salientar que, como cediço, aplicam-se ao caso as normas previstas no Código do Consumidor, o qual determina que "as cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor" (artigo 47).
+Referido códex consigna que as cláusulas precisam ser claras e que o consumidor deve ter ciência inequívoca destas, a teor do mencionado no artigo 46:
+ ..
+In casu, não restou demonstrada a ciência da requerente quanto as regras do contrato de seguro, uma vez que a seguradora não se desincumbiu de seu ônus probatório (artigo 373, II, do CPC) e deixou de trazer aos autos, por exemplo, cópia do regulamento devidamente rubricada pela requerente.
+Sendo assim, considerando que a incapacidade do requerente/apelante restou demonstrada nos autos, e que esta decorre de acidente de trabalho, o qual não pode ser excluído do conceito de acidente pessoal, claro está o direito da apelante em receber o prêmio do seguro em grupo objeto da relação jurídica existente entre as partes.
+Não obstante a juntada dos documentos com a peça contestatória em momento algum logrou a seguradora em demonstrar, de forma inequívoca, que cientificou da parte autora sobre a existência de cláusula contratual que autorizasse o pagamento da indenização securitária com base no grau da invalidez eventualmente suportado pelo mesmo, tampouco acerca da utilização da tabela SUSEP.
+Sob esse enfoque, cumpre relembrar que um dos direitos básicos do consumidor, é "a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço" (art. 6º, III, do CDC).
+Veja-se que a apólice deve ser interpretada de maneira mais favorável ao consumidor (artigo 47, do CDC) e, consequentemente, a incapacidade permanente do segurado deve ser indenizada, privilegiando, assim, a boa-fé objetiva do consumidor.
+Tal comprovação, nos termos do artigo 373, II, do Código de Processo Civil, era ônus que incumbia à seguradora, sobretudo considerando a inviabilidade de impor-se ao consumidor a obrigação de comprovar um fato negativo.
+Nesse contexto, o pagamento do seguro de forma proporcional ao grau de invalidez somente tem cabimento quando a seguradora comprovar que informou previamente o segurado sobre a existência de eventual tabela, inclusive com a aposição de sua assinatura no instrumento contratual, nos termos dos princípios da boa-fé objetiva e da informação, inseridos no artigo 6º, inciso III, e no artigo 54, § 4º, do Código de Defesa do Consumidor, aplicáveis à relação jurídica material consumerista.
+Nessa ordem de ideias, deve ser garantido ao consumidor o recebimento do valor total da apólice.
+Ao contrário do afirmado pelo julgador a quo, o fato de constar no documento de fls.16 a expressão " até" R$248.913,36, não é suficiente para atestar que o segura tinha conhecimento acerca da graduação do pagamento. Tal afirmação beneficia apenas as seguradoras, que ao utilizarem-se de expressões duvidosas, pretendem eximir- se da responsabilidade contratual.
+As cláusulas contratuais devem ser claras, e se assim não as forem, devem ser interpretadas da maneira mais favorável ao consumidor. Dessa forma as empresas fornecedoras de bens ou serviços serão obrigadas a dispor de maneira clara e inteligível acerca dos bens e serviços oferecidos, sob pena de aplicação do princípio do in dubio pro consumidor.
+ ..
+Desta feita, não há que se falar em inobservância da regra contida no art. 757 do Código Cível, quando na verdade apenas esta sendo reconhecido o direito ao efetivo cumprimento ao que foi inicialmente pactuado e cientificado ao segurado."
+2.1 A convicção a que chegou o acórdão de que a recorrente não cientificou o recorrido sobre a existência de cláusula contratual restritiva, que autorizava o pagamento da indenização securitária com base no grau da invalidez eventualmente suportada pelo mesmo, tampouco acerca da utilização da tabela SUSEP, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte, impedindo o conhecimento do recurso por ambas as alíneas.
+Nesse sentido, confira:
+___________
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. CLÁUSULA LIMITATIVA DA INDENIZAÇÃO AO GRAU DE INVALIDEZ. DESCONHECIMENTO PELO CONSUMIDOR. PAGAMENTO INTEGRAL DO CAPITAL SEGURADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. Na hipótese dos autos, o Tribunal de origem analisou as provas e concluiu que o consumidor não teve ciência inequívoca das cláusulas restritivas de direito, fazendo jus ao valor integral da indenização.
+Alterar tal conclusão é inviável em recurso especial, ante o óbice da mencionada súmula.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1169643/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+___________
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. INVALIDEZ. 1. CIÊNCIA DAS CONDIÇÕES RESTRITIVAS DO CONTRATO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. 2. JULGAMENTO EXTRA PETITA E INOVAÇÃO RECURSAL. INEXISTÊNCIA. PROVIMENTO JURISDICIONAL EXARADO NOS LIMITES DO PEDIDO. PRECEDENTE. 3. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. A modificação da conclusão delineada no acórdão recorrido - acerca da ciência do segurado das condições gerais da apólice de seguro e, por conseguinte, da aplicação da tabela SUSEP - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7 do STJ.
+2. É iterativa a jurisprudência desta Corte, no sentido de que a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp 1701207/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/08/2018, DJe 30/08/2018)
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. O conhecimento do recurso especial pelas alíneas "a" e "c" do permissivo constitucional exige a indicação de qual ou quais os dispositivos de lei que supostamente teriam sido violados ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. O Tribunal de origem, com base na análise do acervo probatório dos autos, concluiu que o segurado faz jus ao recebimento da indenização correspondente à cobertura securitária, por entender que a questão relativa ao pagamento da indenização de forma proporcional ao grau de invalidez do segurado, encontra-se tão somente nas condições gerais da apólice, da qual não há prova de que o autor, na condição de segurado, tomou conhecimento. Assim, para rever o entendimento do acórdão recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e reinterpretação de cláusulas contratuais, o que é vedado em razão das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1220109/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018)
+____________
+2.2 Ademais, especificamente quanto ao dissídio jurisprudencial, observa-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
