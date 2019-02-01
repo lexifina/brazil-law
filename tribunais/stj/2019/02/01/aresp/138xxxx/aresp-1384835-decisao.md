@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA RECURSOS DE APELAÇÃ - AÇÃO DECLARATORIA DE INEXISTÊNCIA DE DÉBITO  PRELIMINAR SE CONFUNDE COM MÉRITO - ILEGITIMIDADE PASSIVA  AFASTADA  RESPONSABILIDADE SOLIDÁRIA  DEMONSTRADA FALHA NA PRESTAÇÃO DE SERVIÇO - INSERÇÃO INDEVIDA NOS ORGÃOS DE PROTEÇÃO AO CRÉDITO  DANO MORAL IN RE IPSA  MANUTENÇÃO DO QUANTUM VALOR ARBITRADO EM OBSERVÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE - HONORÁRIOS ADVOCATíCIOS RECURSAIS - ARTIGO 85, §119, DO CPC  MAJORAÇÃO - APLICABILIDADE  RECURSO CONHECIDO E DESPROVIDO.
+O estabelecimento comercial que disponibiliza serviço de cartão de crédito responde solidariamente com a administradora do cartão pelos defeitos na prestação do serviço - Precedentes do Superior Tribunal de Justiça - Inteligência dos arts. 7º, § único, 13, § único, 14, 25, § Iº, e 34 do CDC.
+Nas ações declaratórias de inexistência de débito não comprovado a existência da dívida que originou a inscrição nos órgãos de restritivo de crédito, configura ato ilícito passível de reparação, pois o dano moral é in re ipso, dispensando qualquer prova específica, a respeito, visto que é presumido e decorre da própria ilicitude do lato. Precedentes do Superior Tribunal de Justiça.
+Deve ser mantido o valor arbitrado a título de indenização por dano moral, tendo em vista a observância correta dos critérios da proporcionalidade e razoabilidade pelo Juízo singular, eis que fora arbitrado em atenção à extensão do dano, o comportamento dos envolvidos, às condições econômicas das partes, à repercussão do fato.
+Nos termos do art. 85, §110 , do CPC, ao julgar o Recurso, o Tribunal deverá majorar essa verba anteriormente fixada, levando-se em conta o trabalho adicional realizado em grau recursal, não ultrapassando o percentual máximo de 20% disposto no § 2º, do art. 85, do CPC.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO  APELAÇÃO CIVEL  AÇÃO INDENIZATÓRIA - OMISSÃO NÃO VERIFICADA  MESMOS FUNDAMENTOS LANÇADOS NO APELO  REDISCUSSÃO DA MATÉRIA  INVIABILIDADE POR MEIO DE EMBARGOS  VIA INADEQUADA  INEXISTÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL  EMBARGOS REJEITADOS. I Os Embargos de Declaração são oponíveis quando houver no aresto embargado obscuridade, contradição ou omissão de ponto sobre o qual deveria se pronunciar o.Julgador, bem como diante de erro material, a teor do artigo 1.022 do Código de Processo Civil, assim, ausentes os vícios previstos nesse artigo. Os Embargos de Declaração devem ser rejeitados, porquanto, não se presta a rediscussão da matéria.
+Nas razões do especial, aponta a parte agravante violação aos artigos 485 , inciso VI, do Código de Processo Civil e 186, 927 e 944, sustentando ilegitimidade para presente demanda.
+Narra que foi condenada ao pagamento de R$ 10.000,00 (dez mil reais) por danos morais.
+Pleiteia a improcedência do pedido a título de dano moral.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, apurou a ocorrência de responsabilidade exclusiva do agravante e concluiu pela caracterização do dano moral indenizável, assim se pronunciando:
+ ..
+Insta consignar que inexiste controvérsia acerca da aplicabilidade.do CDC.no caso, desta forma a presente questão deve ser dirimida à luz das regras e princípios estabelecidos no Código de "Defesa do Consumidor (Lei nº 8.078/90).  A Apelante assevera que os problemas klacionados ao cartão de crédito, são diretamente relacionados com o Banco emissor, não podendo ser responsabilizada por ato de terceiro.
+Sobre a ilegitimidade paSsiva arguida, restou claro nos autos que a Recorrente intermediou a negociação Com o Apelado para aquisição do canão de crédito junto a administradora de cartões (BRADESCO CARTÕES S.A), conforme afirmado nas razões recursais (fl. 213).
+Logo, a Recorrente é parte legítima para figurar no polo passivo do feito, pois se insere no conceito de fornecedor contido no artigo 3º da lei nº 8.078/90, portanto, responde solidariãmente pelos danos decorrentes de sua atividade; quanto a falha na prestação de serviços, tendo em vista: que integra a cadeia de fornecedores ao permitir que o usuário efetue as compras por meio dela.
+ ..
+Ademais, prevê o parágrafo único do art. 7º do CDC que tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos :previstos nas normas de consumo.
+ ..
+Além disso, conforme consta na sentença objurgada, a Apelante, não se desincumbiu do seu ônus probatório quanto ao fato de comprovar que a inscrição efetuada pelo Banco Bradesco Cartões S.A ocorreu em virtude de culpa exclusiva de terceiros.
+Assim, não se, vislumbra na presente demanda nenhuma das excludentes do § 3º, art. 14, do Código de Defesa do Consumidor.
+Cumpre ressaltar que a responsabilidade dos fornecedores é  objetiva em "relação ao consumidor e independe da perquirição" sobre a culpa existente entre eles.
+In Casu, em decorrência da falha na prestação dos serviços da Apelante em relação a inscrição indevida do nome do Apelado no cadastro de proteção ao crédito, deve assumir os riscos inerentes a sua atividade, nos termos do art. 14 do diploma consumerista, in verbis:
+Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos" consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+Portanto, revela-se ilegal e abusiva tal cobrança, sendo indevida a referida inscrição (fl. 16), mesmo que não realizado pela Apelante, pois responde solidariamente.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, descaracterizar a responsabilidade da recorrente, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Na instância especial, a revisão da quantia arbitrada a título de indenização por danos morais somente é possível quando evidentemente irrisório ou exorbitante o montante fixado pelo Tribunal de origem.
+No caso concreto, as peculiaridades e a extensão dos prejuízos suportados pelas vítimas do evento danoso, conforme asseverou a Corte local, justificam o valor estabelecido.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
