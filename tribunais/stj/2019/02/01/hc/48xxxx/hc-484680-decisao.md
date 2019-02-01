@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO, REGIME INICIAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE DIREITO. FRAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO FIXADA COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. REGIME FECHADO IMPOSTO SEM A CORRESPONDENTE FUNDAMENTAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 440/STJ. APLICABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem parcialmente concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em benefício de [NOME] - sentenciado pela prática do crime de tráfico de drogas à pena de 2 anos e 6 meses de reclusão, em regime inicial semiaberto, e 250 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que deu parcial provimento à apelação ali interposta, para redimensionar a pena imposta pelo Juízo de Direito da 3ª Vara Criminal da comarca de Piracicaba/SP, mantendo, no entanto, as demais disposições (Processo n. 0001423-51.2017.8.26.0599).
+Alega a impetrante, em síntese, constrangimento ilegal na não concessão da fração máxima da minorante do tráfico privilegiado, ausência de fundamentação na fixação de regime mais gravoso do que a pena imposta, bem como a não substituição da pena privativa de liberdade por restritiva de direitos.
+Postula, ao final, a concessão liminar da ordem, nos termos propostos.
+É o relatório.
+É o caso de concessão parcial da ordem.
+Da análise do acórdão combatido, observo que a Corte estadual, assim se pronunciou (fls. 482/484):
+ ..
+Resta, então, analisar a pena imposta.
+Nesse mister, o que se percebe é que a pena base foi estabelecida acima do mínimo legal, considerando que o réu responde ao Processo nº 0002157-90.2017.8.26.0451 (fls. 287), mas como o feito está em andamento (Súmula nº 444, do Superior Tribunal de Justiça), o aumento fica afastado, sob pena de ferir o princípio da presunção de inocência.
+Assim, a pena base fica estabelecida em 5 anos de reclusão e 500 dias-multa, de valor unitário mínimo e assim permanece, a despeito da presença das atenuantes da menoridade relativa e confissão que não poderia mesmo trazê-la para baixo desse patamar (Súmula nº 231, do Col. Superior Tribunal de Justiça).
+Por outro lado, na terceira etapa, tratando-se de réu tecnicamente primário e sem antecedentes (a certidão de fls. 287, como se viu, indica processo em andamento); e como a prova não indicou que se dedicasse exclusivamente a atividades criminosas, tampouco integrasse organização dessa natureza, tem-se como possível a incidência da causa de diminuição de pena do art. 33, §4º, da Lei nº 11.343/06.
+Trata-se, na verdade, de causa especial de diminuição de pena que deve ser aplicada sempre que presentes os requisitos legais, sem que mera presunção, sem prova concreta, autorize seu afastamento.
+Assim, considerando a quantidade de maconha apreendida não observada na primeira etapa , tem-se que a redução da pena em 1/2 se mostra adequada, o que a torna definitiva em 2 anos e 6 meses de reclusão e 250 dias-multa, de valor unitário mínimo.
+Em relação ao regime de cumprimento de pena, no entanto, cumpre considerar que o tráfico de drogas é extremamente grave, causa indiscutível abalo à ordem pública, na medida em que o traficante consegue atingir um número elevado de pessoas, que acabam se envolvendo em outros delitos. A despeito disso, o d. Magistrado impôs o regime inicial semiaberto sem que contra essa circunstância se insurgisse o Ministério Público, de sorte que o réu foi beneficiado e disso também não pode reclamar.
+Por fim, não é o caso de substituição da pena privativa de liberdade por restritiva de direitos, pois o traficante, longe de ser agraciado com os benefícios reservados a crimes menos graves, deve ser retirado da sociedade, cada vez mais temerosa e abalada com o avanço da criminalidade.
+ ..
+Em relação à fração da minorante do tráfico privilegiado, evidenciado que a instância ordinária fez menção aplicou a fração fundada em elementos dos autos, entendo que para desconstituir a conclusão da condenação, seria indispensável o reexame das provas da ação penal, providência inviável na via estreita.
+Com relação ao regime inicial, com efeito, observo que tal fundamentação acima transcrita não se mostra apta, por si só, a ensejar a aplicação do aludido regime de cumprimento de pena, pois não apresenta elementos suficientes para a imposição de regime mais severo.
+Nesse sentido, tem-se o enunciado da Súmula n. 440 deste Superior Tribunal: fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Assim, considerando que a reprimenda definitiva imposta foi inferior a 4 anos, a ausência de reincidência e de fundamentação para a imposição de regime inicial mais rigoroso, verifica-se que o paciente faz jus a iniciar o cumprimento da reprimenda imposta no regime inicial aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+O mesmo se pode afirmar em relação à substituição da privativa de liberdade por restritiva de direitos, pois a vedação legal foi declarada inconstitucional, por ocasião do julgamento do HC n. 97.256/RS, em 1º/9/2010, pelo plenário do Supremo Tribunal Federal, necessitando, para tanto, que a sua negativa venha acompanhada de fundamentação adequada e idônea.
+Em face do exposto, concedo parcialmente a ordem impetrada apenas para determinar que o paciente inicie o cumprimento da reprimenda no regime inicial aberto, e, que o Juízo de primeiro grau analise, mediante a análise concreta dos fatos imputados, a possibilidade de substituição da privativa de liberdade por restritiva de direitos, fundamentadamente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
