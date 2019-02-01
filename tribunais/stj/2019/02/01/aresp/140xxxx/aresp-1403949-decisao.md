@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. COMISSÃO DE CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. PREÇO TOTAL DO IMÓVEL COM DESTAQUE DO VALOR DA COMISSÃO. DEVER DE INFORMAÇÃO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS. MAJORAÇÃO.
+1. Ação de repetição de indébito.
+2. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. É válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem (Tema 938).
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CATARANTUS EMPREENDIMENTOS S/A e DIPLADENIA EMPREENDIMENTOS IMOBILIARIOS LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e/ou "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/07/2018.
+Concluso ao gabinete em: 14/12/2018.
+Ação: de repetição de indébito ajuizada por [NOME] e CRISTIANE APARECIDA VAZ PIRES LEITE em face dos agravantes, na qual pleiteiam o ressarcimento em dobro de despesas com comissão de corretagem, cobradas indevidamente em operação de compra e venda de imóvel.
+Sentença: julgou improcedente o pedido.
+Pela sucumbência, determinou a parte autora ao pagamento de custas e despesas processuais, bem como honorários advocatícios, que arbitrou em novecentos reais (artigo 20, §4º,do CPC).
+Acórdão: deu provimento ao recurso de apelação interposta pelos agravados para reformar a sentença, julgando a ação procedente, assim, determinando a devolução pelas rés, de forma solidária, dos valores pagos pelos autores a título de comissão de corretagem, atento à tese firmada pelo Superior Tribunal de Justiça em sede de Recurso Repetitivo (Tema 938), e condenando as rés no pagamento das custas, despesas processuais e verba honorária advocatícia fixada em 10% sobre o valor da condenação, conforme a seguinte ementa:
+REPETIÇÃO DE INDÉBITO - Ação julgada improcedente - TAXA DE COMISSÃO DE CORRETAGEM - Devolução - Cabimento - Correta a devolução em razão da abusividade verificada - Tese firmada pelo Superior Tribunal de Justiça em sede de Recurso Repetitivo (Tema 938), que apreciou a matéria referente à validade da cláusula contratual que transfere ao consumidor a obrigação de pagar comissão de corretagem, condicionou que a previsão desse encargo deve ser informada de forma prévia e explícita ao adquirente - Ausência de informação no contrato entabulado entre as partes quanto ao pagamento da corretagem - Informação posterior, quando já assinado o contrato de compra e venda - Sentença reformada, julgando procedente a ação e condenando a ré nos ônus da sucumbência - Recurso provido.
+Recurso especial: alegam violação do art. 1.040 do CPC, bem como dissídio jurisprudencial. Sustentam que, na presente hipótese, há cláusula contratual que informa à parte adversa que seria responsabilizada pelos valores de corretagem, conforme cláusula 18, F, e também prova da inequívoca ciência quanto ao pagamento dos valores de corretagem.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à análise dos documentos acostados aos autos, no que concerne ao disposto no contrato, quanto à comprovação do momento em que houve ciência inequívoca acerca da comissão de corretagem e respectivos valores, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Do repasse da comissão de corretagem por parte da incorporadora - na condição de promitente comprador - ao consumidor - na condição de promissário comprador
+A jurisprudência do STJ firmou-se no sentido de que é válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem. Nesse sentido: REsp 1.599.511/SP, 2ª Seção, DJe de 06/09/2016
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% (cinco por cento).
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
