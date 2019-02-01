@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO SERGIPE, com base na alínea c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"EMENTA: PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APELAÇÃO. ORDEM DOS ADVOGADOS. COBRANÇA DE ANUIDADES. SUBMISSÃO À LEI Nº 12.514, DE 2011. ART. 8 º. APELO DESPROVIDO .
+1. O art. 8º da Lei nº 12.514 de 2011 proíbe o ajuizamento de execuções fiscais de créditos inferiores ao valor de 04 (quatro) anuidades, impondo a extinção do processo.
+2. Ainda que se considere a OAB como entidade , diferenciada das demais entidades que sui generis fiscalizam as profissões, não pode ser considerada diferente dos demais conselhos, eis que, nesse aspecto, exerce função de fiscalização profissional, submetendo-se, portanto, à Lei nº 12.514/2011.
+3. Precedentes do c. STJ e desta eg. Corte Regional.
+4. Apelação improvida" (fl. 49e).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"EMENTA: PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APELAÇÃO. ORDEM DOS ADVOGADOS. COBRANÇA DE ANUIDADES. SUBMISSÃO À LEI Nº 12.514, DE 2011, ART. 8º. APELO DESPROVIDO EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. NÃO CONSTATAÇÃO.
+1. Embargos de declaração sob a alegação de ser omisso o acórdão desta eg. Primeira Turma que manteve íntegra a sentença apelada, a qual extinguiu a execução de anuidades devidas pela executada, em face da dívida não atingir o valor mínimo de 4 (quatro) contribuições, conforme previsto no art. 8º da lei nº 12.514/2011.
+2. Aduz a embargante que o acórdão olvidou que a Lei nº 12.514/2011 não se aplica às suas atividades, regulamentadas que são pela Lei 8.905/1994.
+3. Constatação de que a questão foi devidamente enfrentada, tendo o acórdão embargado decidido que, ainda que se considere a OAB como entidade sui generis, diferenciada das demais entidades que fiscalizam as profissões, não pode ser considerada diferente dos demais conselhos, eis que, nesse aspecto, exerce função de fiscalização profissional, submetendo-se, portanto, à Lei nº 12.514/2011.
+4. Ainda que para efeito de prequestionamento, os embargos declaratórios não são admissíveis se ausentes os pressupostos do art. 1.022 do CPC.
+5. Embargos declaratórios improvidos" (fl. 69e).
+Alega-se, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa ao art. 8º da Lei 12.514/2011, ao argumento de que "mostra-se evidente que a Lei nº 12.514/11, de natureza eminentemente tributária, não possui o condão de alcançar as anuidades de natureza civil, até porque, volta-se ela somente para as autarquias federais profissionais sem qualquer tipo de especialidade - diferentemente da OAB, como afirmado pelo Supremo Tribunal Federal - onde a relação de associativismo gera o fato gerador da obrigação de pagar o tributo correspondente à anuidade devida aos Conselhos de classe respectivos" (fl. 78e).
+Requer, ao final, o provimento do recurso.
+Não foram apresentadas as contrarrazões (fl. 86e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 87e).
+Sem razão a parte recorrente.
+Na origem, "a Ordem dos Advogados do Brasil - Seção do Estado de Sergipe apela de sentença que extinguiu, sem resolução do mérito, com base no art. 485, I, do CPC, a execução de anualidade devida pela apelada, em face da dívida não atingir o valor mínimo de 04 (quatro) anuidades, conforme previsto no art. 8º da Lei nº 12.514/2011" (fl. 46e).
+O Tribunal a quo negou provimento à Apelação Cível, nos seguintes termos:
+"Do que verifico dos autos, tenho que não procede a irresignação.
+Vê-se que a sentença está respaldada na orientação jurisprudencial emanada do c. STJ, soberano na aplicação do direito federal, firmada no sentido de que, apesar de a OAB possuir natureza jurídica especialíssima, está sujeita ao disposto no art. 8º da Lei nº 12.514/2011, que determina o não ajuizamento de execução para a cobrança de dívida oriunda de anuidade inferior a 04 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+Destaco da ementa do acórdão formado no julgamento do REsp nº 1.615.805/PE, reportado pela MM. Juíza sentenciante, verbis:
+"..6. Tendo em vista que a OAB é um conselho de classe, apesar de possuir natureza jurídica especialíssima, deve se submeter ao disposto no art. 8º da Lei 12.514/2011, que rege a execução de dívida oriunda de anuidade inferior a quatro vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+7. A finalidade da norma em comento é evitar o ajuizamento de demandas para a cobrança de valores tidos como irrisórios pelo legislador, evitando-se, dessa forma, o colapso da "máquina judiciária". É indiferente que a OAB tenha essa ou aquela personalidade jurídica, pois o texto da lei visa que os conselhos de classe, independentemente da sua natureza jurídica, não sobrecarreguem o Poder Judiciário.
+3. Recurso Especial não provido." (REsp 1615805/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/09/2016, DJe 11/10/2016).
+(..)" (fls. 46/47e).
+Daí a interposição do presente Recurso Especial.
+A irresignação não merece acolhida.
+Com efeito, o Tribunal de origem adotou orientação em consonância com o entendimento firmado pela Segunda Turma do STJ, no sentido de que, apesar de a OAB possuir natureza jurídica especialíssima, está sujeita ao disposto no artigo 8º da Lei 12.514/2011, que determina o não ajuizamento de execução para a cobrança de dívida oriunda de anuidade inferior a quatro vez o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+Nesse sentido:
+"PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE PAGAMENTO DE UMA ANUIDADE. ORDEM DOS ADVOGADOS DO BRASIL-OAB/PE. CARACTERIZAÇÃO. CONSELHO DE CLASSE. POSSIBILIDADE. APLICAÇÃO DE NORMA JURÍDICA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. É pacífico no STJ que a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. Trata-se de ação de Execução que possui como título executivo extrajudicial certidão de inadimplência no valor de uma anuidade, movida pela OAB/PE contra o recorrido.
+3. O STF teve oportunidade de se manifestar sobre a natureza jurídica da OAB, no julgamento da ADI 3026/DF, Relator Ministro EROS GRAU, julgado em 08/06/2006. Naquela oportunidade consignou que a "Ordem é um serviço público independente, categoria ímpar no elenco das personalidades jurídicas existentes no direito brasileiro", portanto não se sujeitaria aos ditames impostos à Administração Pública direta e indireta.
+4. A Ordem dos Advogados do Brasil - OAB "não pode ser tida como congênere dos demais órgãos de fiscalização profissional".
+Entretanto, conforme decidido pela Corte Especial do STJ, ela não deixa de ser um Conselho de Classe. Precedente: AgRg no AgRg na PET nos EREsp 1.226.946/PR, Rel. Ministra Eliana Calmon, Corte Especial, DJe 10/10/2013.
+5. O Estatuto da Ordem dos Advogados do Brasil, em seu art. 44, II, da Lei 8.906/1994, não deixa dúvida de que a OAB não pode ser equiparada a nenhum outro conselho profissional, pois sua finalidade transpassa todos os objetivos fixados para as demais entidades de classe. Contudo, existe um ponto em comum que as une, qual seja, a representatividade da classe profissional.
+6. Tendo em vista que a OAB é um conselho de classe, apesar de possuir natureza jurídica especialíssima, deve se submeter ao disposto no art. 8º da Lei 12.514/2011, que rege a execução de dívida oriunda de anuidade inferior a quatro vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+7. A finalidade da norma em comento é evitar o ajuizamento de demandas para a cobrança de valores tidos como irrisórios pelo legislador, evitando-se, dessa forma, o colapso da "máquina judiciária". É indiferente que a OAB tenha essa ou aquela personalidade jurídica, pois o texto da lei visa que os conselhos de classe, independentemente da sua natureza jurídica, não sobrecarreguem o Poder Judiciário.
+3. Recurso Especial não provido" (STJ, REsp 1.615.805/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2016).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
