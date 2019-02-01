@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra a decisão proferida no âmbito do Tribunal de Justiça do Estado de Mato Grosso do Sul que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+Depreende-se dos autos que o agravante foi denunciado pelos crimes previstos no art. 33, caput, da Lei n. 11.343/2006, e no art. 12 da Lei n. 10.826/2003, pois, foram apreendidos 9g (nove gramas) de crack e um revólver calibre 22 com três munições. Em primeiro grau, foi condenado a 7 anos de reclusão, em regime inicial fechado, pelo crime de tráfico de drogas e absolvido pelo delito de posse ilegal de arma de fogo de uso permitido.
+O Tribunal de origem deu parcial provimento ao apelo do réu e provimento ao recurso do Ministério Público, respectivamente, para reduzir a pena-base e alterar o regime prisional, e para condenar o réu pelo crime de posse irregular de arma de fogo de uso permitido (e-STJ fl. 262/276).
+Nas razões do recurso especial, o recorrente sustenta violação ao art. 12 da Lei n. 10.826/2003. Alega que a conduta não é típica, uma vez que o laudo pericial atestou a inaptidão da arma para efetuar disparos. Ao final, requer sua absolvição.
+Contrarrazões às e-STJ fls. 307/312.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ fls. 350/352).
+É o relatório. Decido.
+O acórdão recorrido concluiu que "A circunstância de a arma ser inapta para disparo, conforme atestou o laudo de fls. 44-47, não exclui a tipicidade do delito, uma vez que a conduta de estar na posse do armamento coloca em risco a paz social, bem jurídico a ser protegido pelo artigo art. 12 da Lei 10.826/03" (e-STJ fll 272).
+Contudo a jurisprudência deste Tribunal Superior se firmou no sentido de que, não obstante se tratar de delito de perigo abstrato, a comprovação da imprestabilidade e, por conseguinte, da absoluta ausência de qualquer potencialidade lesiva da arma de fogo torna a conduta de portá-la atípica. Caracterizado, in casu, crime impossível por absoluta ineficácia do meio.
+Na mesma direção:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO COM A NUMERAÇÃO RASPADA. INEFICÁCIA DA ARMA ATESTADA POR LAUDO PERICIAL. AUSÊNCIA DE POTENCIALIDADE LESIVA. CRIME IMPOSSÍVEL. ATIPICIDADE DA CONDUTA. ABSOLVIÇÃO. ORDEM CONCEDIDA.
+1. A Terceira Seção desta Corte pacificou entendimento no sentido de que o tipo penal de posse ou porte ilegal de arma de fogo cuida-se de delito de mera conduta ou de perigo abstrato, sendo irrelevante a demonstração de seu efetivo caráter ofensivo.
+2. Na hipótese, contudo, em que demonstrada por laudo pericial a total ineficácia da arma de fogo (inapta a disparar), deve ser reconhecida a atipicidade da conduta perpetrada, diante da ausência de afetação do bem jurídico incolumidade pública, tratando-se de crime impossível pela ineficácia absoluta do meio.
+3. Ordem concedida.
+(HC 445.564/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018, grifei)
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO. CRIME DE MERA CONDUTA. PRESCINDIBILIDADE DE EXAME PERICIAL. PRECEDENTES DO STJ. PERÍCIA EFETIVADA QUE DEMONSTROU A TOTAL INEFICÁCIA DA ARMA. ATIPICIDADE. PRECEDENTES DESTA CORTE SUPERIOR. ABSOLVIÇÃO (ART. 386, III, DO CPP).
+1. A jurisprudência desta Corte Superior é pacífica no sentido de que, para a caracterização do delito previsto no art. 14 da Lei n. 10.826/2003, por ser de perigo abstrato e de mera conduta, e por colocar em risco a incolumidade pública, basta a prática de um dos núcleos do tipo penal, sendo desnecessária a realização de perícia (AgRg no AgRg no AREsp n. 664.932/SC, Ministro Felix Fischer, Quinta Turma, DJe 10/2/2017).
+2. Na hipótese, contudo, em que demonstrada por laudo pericial a total ineficácia da arma de fogo (inapta a disparar), como no caso dos autos, a jurisprudência desta Corte Superior tem orientado no sentido da atipicidade da conduta perpetrada, diante da ausência de afetação do bem jurídico incolumidade pública, tratando-se de crime impossível pela ineficácia absoluta do meio (REsp n. 1.451.397/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 1º/10/2015).
+3. Agravo regimental improvido. (AgRg no AgInt no AREsp 923.594/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/05/2017, DJe 08/06/2017, grifei)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de absolver [NOME] do crime previsto no art. 12 da Lei n. 10.826/2006, mantendo os demais termos da condenação.
+Publique-se. Intimem-se.
