@@ -1,0 +1,51 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO. AUSÊNCIA DE BENS PENHORÁVEIS. SUSPENSÃO DO FEITO. PRAZO PROLONGADO. DESÍDIA DA PARTE. INADMISSÍVEL PERPETUAÇÃO DA DEMANDA.
+1. Em linhas gerais, de acordo com o entendimento do Superior Tribunal de Justiça, não corre o prazo prescricional durante suspensão do processo de execução por falta de bens, mas a legislação pátria não estabeleceu prazo para tal suspensão.
+2. A função precípua do Poder Judiciário é fornecer segurança jurídica, transmitindo previsibilidade e equilíbrio à aplicação da norma jurídica, por isso deve-se ter em conta que a ausência de prazo definido para a suspensão da execução não pode servir de pretexto para prolongamentos infindáveis da demanda, sujeitando o indivíduo a um procedimento executório perpétuo.
+3. No caso ora em apreço, conforme se extrai do acórdão recorrido, verifica-se que a exequente requereu a suspensão do feito pelo prazo de 90 dias, que foi deferida, e não voltou a se manifestar nos autos, deixando transcorrer mais de oito anos.
+4. Não parece razoável que, sem demonstrar o exequente atividade durante o prazo de suspensão do processo - adotando diligências para o êxito da execução -, possa o litígio perdurar indefinidamente, mantendo a instabilidade jurídica e assoberbando o Judiciário com feito que, pela inação do exequente, não caminha para solução.
+5. "O prazo de suspensão da execução, com base no art. 791-III, CPC, vincula-se à prescrição do débito exeqüendo, cujo prazo, em regra, não tem curso durante a suspensão, ainda que se trate de prescrição intercorrente, sendo de ressalvar-se, todavia, que flui o prazo prescricional se o credor não atender às diligências necessárias ao andamento do feito, uma vez intimado a realizá-las" (REsp 327.329/RJ, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 14/08/2001, DJ 24/09/2001, p. 316).
+6. O Tribunal local, em consonância com o entendimento do STJ, asseverou que a pretensão que permeia o presente processo tem o prazo prescricional de 5 anos, na forma do art. 206, , § 5º, I, do Código Civil, e que, de acordo com o previsto na Súmula 150 do STF, que trata do prazo prescricional da execução, estaria configurada a prescrição.
+7. Recurso especial não provido.
+DECISÃO
+1. Trata-se de recurso especial interposto por BANORTE LEASING ARRENDAMENTO MERCANTIL S.A. com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Ceará assim ementado:
+CIVIL. PROCESSO CIVIL. APELAÇÃO EM AÇÃO DE REINTEGRAÇÃO DE POSSE C/ PEDIDO DE LIMINAR. CITAÇÃO POR EDITAL. EXECUÇÃO DA SENTENÇA. BENS PENHORÁVEIS. NÃO LOCALIZAÇÃO. SUSPENSÃO. PRAZO DEMASIADO. OITO ANOS. PRESCRIÇÃO INTERCORRENTE. DESÍDIA DA EXEQUENTE. RECONHECIMENTO DE OFÍCIO. INC. IV DO ART. 269 CC§5º DO ART. 269 DO CPC. SÚMULA 150 STF - RECURSO IMPROVIDO.
+I - Citado por edital o devedor e não localizados bens penhoráveis, a hipótese é de suspensão da execução, conforme determina o art. 791, inc. III, do CPC.
+II - A execução de título judicial permaneceu suspensa por mais de oito anos e a exequente não tomou as medidas cabíveis para satisfação de seu cródito, o que caracteriza sua desídia processual.
+III - Decorrido o prazo superior à prescrição da pretensão, nos termos do art. 206, § 5º, inc, I, do CC/02, resta configurada a prescrição intercorrente.
+IV - Apelação conhecida e improvida.
+Nas razões do recurso especial (fls. 569-576), o recorrente alega violação do art. 791, III, do CPC/1973, por entender que não há dispositivo legal que autorize a extinção do feito executivo pela simples inexistência de bens penhoráveis em nome dos executados, em especial quando o exequente não exerceu qualquer ato desidioso no processo.
+Afirma que se deve definir se a inexistência de bens penhoráveis em nome dos executados configura ato desidioso do exequente a autoriza o início na contagem de prazo para a prescrição intercorrente.
+Sem contrarrazões.
+É o relatório. DECIDO.
+2. O Tribunal de origem, ao dirimir a controvérsia que lhe foi apresentada, manifestou-se nos seguintes termos (fls. 122-123, grifamos):
+In casu, infundadas são as alegações da apelante, já que a apelada foi citada por edital em 16/05/1997, na ação de reintegração de posse movida pela apelante em 16/10/96, cuja Execução de sentença, demonstrou-se infrutífera diante da ausência da devedora e da falta de bens penhoráveis, requerendo a recorrente a suspensão do feito por 90 dias, que foram deferidos em 28/05/1998.
+tendo sido os autos redistribuídos para a 2a vara de Falências e Concordatas em 28/08/2002, ficando parado até 04/09/2006, sendo nesta data remetido ao arquivo provisório. fl. 94. e em outubro extinto.
+Nesse contexto, verifica-se que a extinção ocorreu principalmente, pela negligência do apelante em adotar as providências necessárias com o fim de localizar o paradeiro da apelada ou ainda de bens penhoráveis, permitindo que o feito ficasse arquivado no Cartório Judicial por mais de oito anos, sem que tomasse qualquer providência, tais como pedido de expedição de ofícios aos órgãos de telefonia celular, à Receita Federal, ou ainda aos Cartórios Extrajudiciais de Registro de Imóveis a fim de localizar eventual bem em nome da devedora.
+(..)
+É bem verdade que a declaração da ocorrência de prescrição intercorrente é medida excepcional, adotável em razão da paralisação do feito executivo por todo o prazo prescricional pelo credor, cuja retomada só ocorreu por instigação do magistrado, passados aproximadamente 08 anos.
+(..)
+Na presente ação, a apelante-exequente requereu a suspensão do feito pelo prazo de 90 dias, que foi deferida, e não voltou a se manifestar nos autos, deixando transcorrer mais de oito anos, prazo no qual não demonstrou que realizou qualquer diligência no intuito de satisfazer seu crédito, deixando transparecer o abandono da ação judicial.
+Por estar fundamentada em contrato de arrendamento mercantil, com reintegração de posse determinada por sentença judicial, nos termos do 475-N do CPC, cuja súmula 150 do STF, além de trazer que se aplicam ao processo as disposições do art. 206, § 5º, inc. I, do CC/02:
+"Art. 206. Prescreve:(..) § 5º. Em cinco anos:
+I - a pretensão de cobrança de dividas liquidas constantes de instrumento público ou particular."
+Por tanto, comprovado nos autos que a apelante deixou de promover as diligências necessárias para obter a satisfação de seu crédito por mais de oito anos, sendo que o prazo prescricional da pretensão creditória é de cinco anos, resta configurada a prescrição intercorrente.
+É bem de ver que, em linhas gerais, de acordo com o entendimento do Superior Tribunal de Justiça, não corre o prazo prescricional durante a suspensão do processo de execução por falta de bens.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO. SUSPENSÃO. AUSÊNCIA DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. NÃO DECRETAÇÃO. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência firmada no âmbito das Turmas que compõem a eg. Segunda Seção desta Corte, a suspensão de execução por ausência de bens penhoráveis, nos termos do art. 791, III, do Código de Processo Civil, impede a decretação da prescrição intercorrente.
+2. Agravo interno desprovido.
+(AgRg no Ag 1217000/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/10/2013, DJe 07/11/2013)
+Por outro lado,de acordo com o magistério de Fredie Didier Jr. sobre a questão ora em análise, "Ao que tudo indica, a execução deve ficar suspensa até que aparecam bens penhoraveis, exatamente porque os bens futuros do devedor tambem respondem pela execucao (CPC, art. 591)" (Curso de Direito Processual Civil, Execução. Salvador: Editora Jus Podivm, 2013, p. 344).
+Na mesma obra, o referido autor aduz que não se admite, todavia, a sujeição do executado a uma execução indefinida, com uma litispendência sem fim.
+De fato, a ausência de prazo definido para a suspensão da execução não pode servir de pretexto para prolongamentos infindáveis da demanda, sujeitando o indivíduo a um procedimento executório perpétuo.
+Ressalto que a função precípua do Poder Judiciário é fornecer segurança jurídica, transmitindo previsibilidade e equilíbrio à aplicação da norma jurídica.
+No caso ora em apreço, conforme se extrai do acórdão recorrido, verifica-se que a exequente requereu a suspensão do feito pelo prazo de 90 dias, que foi deferida, e não voltou a se manifestar nos autos, deixando transcorrer mais de oito anos.
+Reitero trecho do acórdão objurgado (grifei):
+É bem verdade que a declaração da ocorrência de prescrição intercorrente é medida excepcional, adotável em razão da paralisação do feito executivo por todo o prazo prescricional pelo credor, cuja retomada só ocorreu por instigação do magistrado, passados aproximadamente 08 anos.
+Conforme me manifestei no REsp 991.507/RN, julgado em 16/08/2012, DJe 29/08/2012, não parece razoável que, sem demonstrar o exequente atividade durante o prazo de suspensão do processo - adotando diligências para o êxito da execução -, possa o litígio perdurar indefinidamente, mantendo a instabilidade jurídica e assoberbando o Judiciário com feito que, pela inação do exequente, não caminha para a sua solução.
+Vale acrescentar que "O prazo de suspensão da execução, com base no art. 791-III, CPC, vincula-se à prescrição do débito exeqüendo, cujo prazo, em regra, não tem curso durante a suspensão, ainda que se trate de prescrição intercorrente, sendo de ressalvar-se, todavia, que flui o prazo prescricional se o credor não atender às diligências necessárias ao andamento do feito, uma vez intimado a realizá-las" (REsp 327.329/RJ, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 14/08/2001, DJ 24/09/2001, p. 316).
+O Tribunal local, em consonância como entendimento supra, asseverou que a pretensão que permeia o presente processo tem o prazo prescricional de 5 anos, na forma do art. 206, , § 5º, I, do Código Civil, e que, de acordo com o previsto na Súmula 150 do STF, que trata do prazo prescricional da execução, estaria configurada a prescrição, tendo em vista o transcurso do lapso temporal de 8 anos.
+Dessa forma, o não provimento do apelo nobre é medida que se impõe.
+3. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
