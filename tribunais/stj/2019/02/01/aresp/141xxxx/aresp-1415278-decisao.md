@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. PENA DE MULTA QUE NÃO GUARDA PROPORCIONALIDADE COM A PENA PRIVATIVA DE LIBERDADE IMPOSTA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] DA COSTA [NOME] contra decisão do Tribunal de Justiça do Estado do Piauí, que inadmitiu o processamento do recurso especial manejado com fundamento no art. 105, inciso III, alínea a, da Constituição da República na Apelação Criminal n.º 2016.0001.005638-4.
+Consta nos autos que o Agravante foi condenado à pena de 7 (sete) anos, 2 (dois) meses e 12 (doze) dias de reclusão, em regime inicial semiaberto, além do pagamento de 72 (setenta e dois) dias-multa, pela prática do crime previsto no art. 157, § 2.º, incisos I e II, na forma do art. 71 (por três vezes), ambos do Código Penal.
+Contra a sentença a Defesa interpôs apelação, que não foi provida (fls. 479-497).
+Nas razões do recurso especial, a Defesa alega ofensa aos arts. 50, § 2.º, e 60, ambos do Código Penal, sob o argumento de que a "pena de multa aplicada ao requerente 72 (setenta e dois) dias-multa deve ser reduzida, uma vez que este não possui condições econômicas suficientes para arcar com a mesma. Sendo, inclusive, assistido pela Defensoria Pública do Estado do Piauí" (fls. 506/507).
+Contrarrazões às fls. 513-523.
+Inadmitido o recurso na origem, subiram os autos a este Superior Tribunal de Justiça por intermédio do presente agravo.
+Instado a se manifestar, o Ministério Público Federal oficiou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 574-575).
+É o relatório. Decido.
+O acórdão recorrido está assim fundamentado (fls. 496-497):
+"Requer a defesa do [NOME], não sendo acatada as teses de reforma da sentença, que seja redimensionada a pena de multa.
+Ocorre que, nos termos da jurisprudência do Superior Tribunal de Justiça a seguir transcrito, "inexiste previsão legal para a isenção da pena de multa em razão da situação econômica do réu, devendo esta servir, tão somente, de parâmetro para a fixação de seu valor", o que ocorre no caso em comento, e "eventual isenção somente poderá ser concedida pelo Juízo da Execução, que deverá avaliar a miserabilidade jurídica do sentenciado, examinando as condições sócio-econômicas para o pagamento da multa sem prejuízo para seu sustento e de sua família". Jurisprudência in verbis:
+ ..
+Assim, com base em todos os motivos acima expostos, entendo que a sentença vergastada não merece ser reformada, devendo ser mantida em todos os seus termos."
+Cumpre consignar que "a pena de multa deve ser fixada em duas fases. Na primeira, fixa-se o número de dias-multa, considerando-se as circunstâncias judiciais (art. 59, do CP). Na segunda, determina-se o valor de cada dia-multa, levando-se em conta a situação econômica do réu" (REsp 1.535.956/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/03/2016, DJe 09/03/2016).
+Assim, a situação econômica do Acusado não influi no cálculo da quantidade de dias-multa, mas, sim, no valor de cada dia-multa. No entanto, tendo em vista a falta de harmonia entre a pena privativa de liberdade fixada e a quantidade de dias-multa aplicada, entendo cabível a redução da pena pecuniária fixada.
+De fato, dispõe o art. 49 do Código Penal, in verbis:
+"Art. 49. A pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo de 10 (dez) dias e, no máximo, de 360 (trezentos e sessenta) dias-multa."
+Conquanto a fixação da pena de multa fique à discricionariedade do julgador, este deve se nortear dentro dos parâmetros estabelecidos no aludido dispositivo, atentando, sempre, para que a quantidade de dias-multa aplicada e o quantum de reprimenda corporal, quando previstas simultaneamente, sejam proporcionais.
+Na espécie, a pena corporal, na primeira fase, foi majorada na fração de 1/8 (um oitavo), sendo fixada em 4 (quatro) anos e 6 (seis) meses de reclusão, mantida nesse patamar na segunda fase, sendo aumentada em 1/3 (um terço) em razão das majorantes previstas no art. 157, § 2.º, incisos I e II, do Código Penal e em 1/5 (um quinto) pela continuidade delitiva, o que resultou a reprimenda de 7 (sete) anos, 2 (dois) meses e 12 (doze) dias de reclusão (fls. 294/295). Logo, a imposição de 72 (setenta e dois) dias-multa não guarda simetria com o aludido quantum de pena corporal, impondo-se a sua redução. Assim, observados os aludidos parâmetros - pena-base acima do mínimo legal em 1/8 (um oitavo) acrescida de 1/3 (um terço) pelas majorantes e 1/5 (um quinto) pela continuidade delitiva -, reduzo a quantidade de dias-multa para 18 (dezoito), mantido o valor arbitrado pelas instâncias ordinárias.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, redimensionando a pena de multa para 18 (dezoito) dias-multa.
+Publique-se. Intimem-se.
