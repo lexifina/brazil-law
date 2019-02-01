@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão desta relatoria que deu provimento ao recurso especial interposto pela parte contrária para reconhecer a inexistência de coisa julgada e "determinar que a Corte local aprecie a alegada inexistência de culpa do ora recorrente suscitada nas razões de apelação" (fl. 1.209-1.213 e-STJ).
+Nas razões recursais (fls. 1.216-1.218 e-STJ), o ora embargante aduz que a culpa "já foi declarada em ação proposta por [NOME], tendo transitada em julgado, e, inclusive, já concluída a execução", razão pela qual "não é possível levantar questões já decididas sob pena de violação ao disposto no art. 467 do CPC/1973".
+Nesses termos, alega a existência de contradição e requer, por fim, o acolhimento dos presentes aclaratórios.
+Impugnação às fls. 1.222-1.228 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+Consoante o art. 1.022 do CPC/2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+No caso, inexiste a alegada contradição, haja vista que as premissas adotadas pela decisão ora embargada não se revelam incompatíveis entre si. Pelo contrário, o fundamento e a conclusão guardam perfeita harmonia, inclusive explicitando as razões fáticas e jurídicas que ensejaram o afastamento da coisa julgada.
+Eis, por oportuno, o seguinte excerto:
+"(..)
+Consta do aresto recorrido que o filho do primeiro recorrido ( CARO [NOME] - ora interessado) propôs ação contra a IRMANDADE DE SANTA CASA DE MISERICÓRDIA DE SÃO PAULO (ora recorrente) alegando suposto erro médico, obtendo êxito em sua pretensão, conforme se extrai do seguinte excerto:
+"(..) De início, registre-se que a presente demanda foi proposta pelo genitor de [NOME] o qual foi vítima de erro médico reconhecido nos autos da apelação 9069241-74.2001.8.26.0000 que decidiu:
+Responsabilidade civil - Recém-nascido que se submete a operação de fimose de primeiro grau e sofre parada cardíaca pela anestesia inadequada; demora no atendimento de urgência como causa da irreversibilidade dos efeitos da hipotermia, provocando completo comprometimento do sistema nervoso central  encefalopatia hipóxicoisquêmica  - Prestação defeituosa de serviço agravada por erro médico e erro profissional da anestesista, gerando responsabilidade do hospital  art. 14, da Lei nº 8078/90  - Pensão mensal vitalícia que se impõe para garantir sobrevivência digna ao lesado, com aplicação do art. 602, § 2º, do CPC, em função da Súmula 313, do STJ - Exclusão do dano moral por falta de pedido - Denunciação da lide acolhida, em termos  metade , na forma do art. 76, do CPC - Recursos providos em parte" (fl. 1.031 e-STJ).
+Após proferida a sentença na demanda proposta pelo filho, o recorrido FERNANDO ALÉCIO [NOME] também ajuizou ação postulando a condenação do ora recorrente ao pagamento de indenização por danos morais pelos mesmos fatos acima narrados, o que levou o magistrado de primeiro grau e o Tribunal de origem a assentarem que a discussão acerca de eventual culpa do hospital estava submetida à coisa julgada. Eis, por pertinente, o seguinte excerto:
+"(..) A questão da culpa já foi decidida naqueles autos tendo, inclusive, transitada em julgada. As rés já foram condenadas. Não há mais espaço para se rediscutir fatos já decididos. Incide aqui a eficácia preclusiva da coisa julgada (art. 474) ou seja, as rés (que são as mesmas daquele processo) não podem levantar questões já decididas, uma vez que tais já se encontram preclusas ainda que a parte autora seja outra.
+Observe-se que o Superior Tribunal de Justiça não conheceu o recurso  Al n. 926.368-SP (2007/0161696-7)  e que houve satisfação dos danos materiais em mais de um milhão de reais  R$ 1.157.540,80 - conforme disposto no Agravo de Instrumento Nº 537.891-4/0-00 " (fls. 1.031-1.032 e-STJ).
+De acordo com o § 3º do art. 301 do CPC/1973, "há coisa julgada quando se repete ação que já foi decidida por sentença, de que não caiba recurso". Por sua vez, o § 2º do referido dispositivo estabelece que "uma ação é idêntica à outra quando tem as mesmas partes, a mesma causa de pedir e o mesmo pedido".
+Por isso, a eficácia preclusiva da coisa julgada exige a tríplice identidade, ou seja, mesmas partes, mesma causa de pedir e mesmo pedido. (..)
+No caso dos autos, as duas ações têm partes autoras distintas, sendo a primeira proposta pela vítima do erro médico ([NOME] [NOME] - ora interessado) e a outra apresentada pelo seu genitor (FERNANDO ALÉCIO [NOME] - ora recorrido). (..)
+Portanto, não há falar em coisa julgada, motivo pelo qual os autos devem retornar ao Tribunal de origem para a análise da eventual culpa da instituição hospitalar ora recorrente a partir das provas produzidas durante a instrução probatória.
+Ante o exposto, dou provimento ao recurso especial para determinar que a Corte local aprecie a alegada inexistência de culpa do ora recorrente suscitada nas razões de apelação, ficando prejudicadas as demais questões e o pedido de atribuição de efeito suspensivo ao presente recurso" (fls. 1.211-1.213 e-STJ - grifou-se).
+Dessa forma, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+A propósito, os seguintes precedentes:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - A pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a oposição de embargos declaratórios. Precedente da Corte Especial.
+3 - Embargos de declaração no agravo interno na reclamação rejeitados." (EDcl no AgInt na Rcl nº 33.214/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 20/6/2017)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. NÃO RENOVAÇÃO. POSSIBILIDADE. ABUSIVIDADE. INOCORRÊNCIA. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO: RESP N.º 880.605/RN, REL. P/ ACÓRDÃO MIN. MASSAMI UYEDA, DJE DE 17/09/2012. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA 168/STJ. VÍCIOS DO ART. 1022 DO CPC. INEXISTÊNCIA. EFEITO INFRINGENTE. IMPOSSIBILIDADE.
+1. Inexistência dos vícios tipificados no art. 1022 do Código de Processo Civil, a inquinar o acórdão embargado.
+2. A atribuição de efeito infringente em embargos declaratórios é medida excepcional, incompatível com a hipótese dos autos, em que a parte embargante pretende um novo julgamento do seu recurso.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS." (EDcl no AgRg nos EREsp nº 1.318.925/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, DJe 19/6/2017)
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIOS PREVISTOS NO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL ATUAL. OBSCURIDADE. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. REJEIÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão, contradição ou erro material porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados." (EDcl no REsp nº 1.497.831/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, DJe 4/5/2017)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
