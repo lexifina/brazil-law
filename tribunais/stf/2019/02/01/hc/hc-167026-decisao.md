@@ -1,0 +1,23 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Luiz Alfonso Gutierrez Garzon, contra decisão do Ministro Presidente do Superior Tribunal de Justiça (STJ), que indeferiu a liminar requerida no HC 487.062/SP, pendente de publicação.
+    Da decisão do STJ colho as informações sobre o presente caso:
+    “Consta dos autos que o paciente foi condenado a 7 anos de reclusão por associação ao tráfico de drogas.
+    Sustenta o impetrante que o paciente preenche os requisitos objetivos e subjetivos para progressão ao regime aberto desde o dia 8/11/2018, mas o Juízo de primeiro grau "determinou a juntada do andamento da apelação do processo crime, já que se trata de execução provisória", mas "[e]stando o processo em termos para julgamento, encerrou o ano judiciário, sem apreciar o pedido, deixando o juiz de piso de analisar o justo pedido de liberdade (regime aberto)" (fl. 5).
+    Afirma que apresentou pedido de habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar em razão da ausência dos requisitos autorizadores (fl. 289)” (eDOC 3)
+    O STJ de igual forma indeferiu o pedido liminar e solicitou informações ao Tribunal local. (eDOC 3, p. 2)
+    No presente habeas a defesa repisa os argumentos apresentados às instâncias anteriores, qual seja, o de que o paciente teria cumprido 1/6 da pena que lhe fora imposta, e que preenche todas as condições para que lhe seja deferido o pedido de progressão de regime, do atual semiaberto para o aberto.
+    Sustenta a necessidade de mitigação da Súmula 691/STF para que esta Suprema Corte manifeste-se de ofício, concedendo ao paciente, na ausência de motivos contrários, o direito de progressão de regime prisional, conforme requerido. (eDOC 1, p. 7)
+    É o relatório.
+    Decido.
+    Preliminarmente, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ [cf. HC (QO) 76.347/MS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC 79.775/AP, Rel. Min. Maurício Corrêa, 2ª Turma, maioria, DJ 17.3.2000; e HC 79.748/RJ, Rel. Min. Celso de Mello, 2ª Turma, maioria, DJ 23.6.2000]. E mais recentemente: HC-AgR 132.185/SP, por mim relatado, 2ª Turma, unânime, DJe 9.3.2016; HC-AgR 140.285/TO, Rel. Min. Rosa Weber, 1ª Turma, maioria, DJe 24.4.2017; HC-MC 143.069/SP, Rel. Min. Celso de Mello, DJe 9.5.2017.
+    Essa conclusão está representada na Súmula 691 do STF:
+    “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    É bem verdade que o rigor na aplicação de tal entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 85.185/SP, Plenário, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; HC 129.554/SP, 1ª Turma, unânime, Rel. Min. Rosa Weber, DJe 14.10.2015; e HC 135.520/MT, 2ª Turma, por maioria, Rel. Min. Dias Toffoli, DJe 31.5.2016; bem como as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005; e HC 128.479/AC, Rel. Min. Celso de Mello, DJe 16.10.2015).
+    A partir da análise dos autos, verifico que o paciente se encontra submetido a flagrante constrangimento ilegal, o que autoriza realizar a análise do seu caso de pronto.
+    Considerando que o requerente já cumpriu o requisito objetivo para a progressão de regime desde 18.1.2018 (eDOC 2, p. 299); que há atestado de que possui ótimo comportamento prisional (eDOC 2, p. 298); e que o Ministério Público estadual manifestou-se favoravelmente ao pleito (eDOC 2, p. 264-265), não há razão para adiar o deferimento do pedido.
+    Ante o exposto, concedo a ordem de habeas corpus requerida reconhecendo ao paciente o direito de promoção de regime prisional, se mantidas as condições até o momento apresentadas. (artigo 192, RISTF)
+    Comunique-se com urgência ao STJ (HC 487.062/SP), ao TJSP (HC 2227385-75.2018.8.26.0000) e VEC (DEECRIM UR3 0004834-41.2018.8.26.0026).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
