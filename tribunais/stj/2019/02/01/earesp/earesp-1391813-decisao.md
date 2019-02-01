@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL C/C TUTELA PROVISÓRIA. PROCESSO CIVIL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. REQUISITOS DEFINIDOS EM IAC NO RESP 1604412/SC.
+1. "Nas execuções paralisadas sem prazo determinado, inclusive no caso de suspensão por ausência de bens penhoráveis (art. 791, III, do CPC/73), o prazo prescricional da pretensão de direito material anteriormente interrompido reinicia após o transcurso de 1 (um) ano a partir do último ato do processo."
+2. "Por se tratar de matéria de ordem pública, pode-se conhecer da prescrição de ofício, desde que assegurado o prévio contraditório, a fim de possibilitar ao credor a oposição de fato obstativo, em vez do impulsionamento do processo, porque esta providência é própria do abandono processual, hipótese de extinção do processo sem julgamento de mérito, que, para sua decretação, independe da prescrição".
+3. O caso dos autos não atende aos requisitos jurisprudenciais definidos no precedente de observância obrigatória.
+4. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. TUTELA PROVISÓRIA PREJUDICADA.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto [NOME] contra decisão que negou seguimento ao recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+"AGRAVO DE INSTRUMENTO. Ação de Execução de Título Extrajudicial. Decisão que afastou a prescrição intercorrente.
+Irresignação do executado. Descabimento. A prescrição intercorrente começa a fluir da remessa dos autos ao arquivo por inércia da parte interessada, não se consumando se a execução não teve andamento por falta de bens penhoráveis, tal como ocorreu "in casu". Inércia não configurada.
+Reconhecimento da prescrição intercorrente, ademais, que depende da prévia intimação pessoal da parte exequente, o que não se verificou na hipótese em exame. Precedentes. Recurso não provido."
+Em suas razões do especial, a parte recorrente alegou que o acórdão recorrido violou o disposto nos artigos 489, II, 921, § 4º, 1.022, II, do CPC/16, e 206, § 5º, I, do Código Civil, bem como apontou dissídio jurisprudencial. Defendeu a ocorrência da prescrição intercorrente. Postulou conhecimento e provimento do recurso.
+Inadmitido recurso especial, foi interposto agravo contra decisão denegatória.
+Processado o agravo em recurso especial, subindo os autos, pelo recorrente foi atravessada petição de tutela provisória, requerendo a concessão da tutela de urgência para suspender os atos expropriatórios da execução que tramita na origem até o julgamento do presente recurso. Advogou a presença do bom direito, alegando probabilidade de êxito em seu recurso especial, bem como perigo na demora da apreciação de suas insurgências.
+É o relatório.
+Decido.
+Conheço do agravo para negar provimento ao recurso especial, julgando prejudicada a análise da tutela provisória, diante da ausência de fumus boni iuris no presente recurso.
+O Tribunal de origem, mantendo a decisão de piso que não reconheceu a prescrição intercorrente, negou provimento ao agravo de instrumento interposto pelo recorrente, sob o enfoque de três fundamentos: (i) ausência de desídia do credor; (ii) a suspensão do feito e demora se deu em razão dos diversos recursos interpostos pelo devedor; (iii) não houve a intimação do credor para o reconhecimento da prescrição intercorrente.
+Contrariada, a parte recorrente, preliminarmente, reputou omisso o acórdão recorrido e, no mérito, que restou incontroverso o fato da paralisação dos autos por 08 anos, sem a prática de atos pelo credor, bem como defendeu a desnecessidade da intimação pessoal do credor para reconhecimento da prescrição intercorrente. Ao final, apontou dissídio jurisprudencial com precedente desta relatoria.
+Sem razão a parte recorrente.
+Embora o precedente desta relatoria, o REsp 1.522.092/MG, em que se adotava a possibilidade do reconhecimento da prescrição intercorrente sem a intimação do credor nas hipóteses de prazo superior ao previsto na espécie do abandono da causa, a tese restou superada pela jurisprudência majoritária desta Corte.
+A divergência que se estabelecia entre as Turmas que compõem a Segunda Seção do STJ foi solvida no julgamento do Incidente de Assunção de Competência no REsp n. 1.604.412/SC, no qual se decidiu por acompanhar o entendimento sufragado pela Terceira Turma.
+Nesse sentido:
+"RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 22/08/2018)
+ Conforme essa orientação jurisprudencial de observância obrigatória, fixou-se que:
+(i) nas execuções paralisadas sem prazo determinado, inclusive no caso de suspensão por ausência de bens penhoráveis (art. 791, III, do CPC/73), o prazo prescricional da pretensão de direito material anteriormente interrompido reinicia após o transcurso de 1 (um) ano a partir do último ato do processo;
+(ii) Por se tratar de matéria de ordem pública, pode-se conhecer da prescrição de ofício, desde que assegurado o prévio contraditório, a fim de possibilitar ao credor a oposição de fato obstativo, em vez do impulsionamento do processo, porque esta providência é própria do abandono processual, hipótese de extinção do processo sem julgamento de mérito, que, para sua decretação, independe da prescrição.
+No caso dos autos, não se pode reconhecer a prescrição intercorrente, pois não houve a intimação necessária, assegurando o prévio contraditório a fim de possibilitar o credor a oposição de fato obstativo, conforme se assinalou no acórdão recorrido, verbis (e-STJ Fl. 255):
+"Tal intimação, porém, não ocorreu "in casu", razão pela qual, também por esse motivo, incabível o reconhecimento da prescrição intercorrente."
+Quanto ao tempo, a paralisação processual teria se dado entre 20/06/2005 até 30/09/2013, ocasião que foi intimado o credor e pediu a suspensão do processo, tendo noticiado a morte do exequente em junho de 2014, portanto, antes de um ano a partir do último ato do processo (pedido de suspensão).
+Destarte, os requisitos definido no precedente de observância obrigatória (IAC) não se aplicam à hipótese dos autos, razão pela qual não merece acolhimento a insurgência recursal.
+Ante todo exposto, conheço do agravo para negar provimento ao recurso especial, julgando prejudicada a análise da tutela provisória em razão do desprovimento do recurso principal.
+Advirto as partes que a interposição de recursos protelatórios será punida com aplicação de multa.
+Intimem-se.
