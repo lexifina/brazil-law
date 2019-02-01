@@ -1,0 +1,46 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CONTRATO DE ALUGUEL.ERCEAMENTO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. REFORMA NO SHOPPING CENTER. DESCUMPRIMENTO CONTRATUAL. NATUREZA SINALAGMÁTICA. PREJUÍZO AO LOJISTA. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. A pretensão de verificar se houve cerceamento de defesa somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+2. Rever as conclusões do acórdão recorrido, com o intuito de verificar se as reformas e mudanças ocorridas no interior do shopping center deram ensejo aos prejuízos do lojista, que possuía lavanderia no estabelecimento, somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+3. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por PERFECTO SERVIÇOS DE LAVANDERIA LTDA E OUTROS com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+LOCAÇÃO DE IMÓVEIS - EMBARGOS A EXECUÇÃO - 1. Preliminares: Dilação probatória - Desnecessidade - Cerceamento de Defesa - Inocorrência. Prova requerida (testemunhal e pericial) que apenas protelaria o julgamento do feito. 2. Mérito: Contrato que deve ser respeitado. Descumprimento contratual por parte dos embargados. Inocorrência. Culpa dos apelados não demonstrada. Obrigação dos locatários e fiadores em quitar os aluguéis pactuados. Obras realizadas em shopping center a beneficiar uma coletividade. Possibilidade. Riscos inerentes ao comércio dos embargantes. Sentença Mantida. Recurso não provido..
+Embargos de declaração rejeitados.
+Em suas razões recursais, alega a recorrente afronta aos seguintes dispositivos legais:
+a) art. 22, III, da Lei nº 8.245/91, pois "mesmo reconhecendo que houve alteração do objeto locado não reconheceu o descumprimento, pelos Recorridos, do contrato de locação" - fls. 254, consistente em "brusca alteração nas características físicas do ponto comercial" - fls. 257
+b) art. 476 do CPC/73, tendo em vista que "por ser o contrato de locação bilateral, é proibido aos contratantes, antes de cumprida sua obrigação, exigir o cumprimento do outro" - fls. 254;
+c) art. 333, I, do CPC/73, eis que foi comprovada a exigibilidade do crédito (aluguéis vencidos e não pagos);
+d) arts. 131, 330, I, e 331 do CPC/73, ante o cerceamento de defesa pelo indeferimento da prova pleiteada; e
+e) arts. 614, III, 615, IV, e 582, V, do CPC/73, pois "apesar de se tratar de contrato de aluguel, a execução dos valores devidos somente seria cabível se os recorridos tivessem adimplido sua principal obrigação (manter o destino e características do ponto locado), provando que se crédito estava constituído" - fls. 255.
+É o relatório.
+DECIDO.
+2. Quanto ao cerceamento de defesa - arts. 131, 330, I, e 331 do CPC/73, assim decidiu o v. acórdão recorrido:
+No caso, as provas requeridas não iriam auxiliar o recorrente, apenas protelar o julgamento do feito.
+Assim, atento ao norte contido no artigo 130, do Código de Processo Civil, cabe ao juiz efetivamente comandar a instrução do processo, determinando a realização das provas essenciais e indeferindo as diligências inúteis ou meramente protelatórias, pois, como observa o insigne processualista e desembargador [NOME]:
+"f) o juiz moderno não é um "convidado de pedra", mas diretor material do processo, exercendo poder de estímulo e de intervenção com o escopo de assegurar a igualdade substancial das partes e a prestação jurisdicional qualificada".
+Portanto, resta claro que a prova testemunhal aqui exigida não traria alteração no deslinde da demanda - fls. 222-223
+Rever os fundamentos que ensejaram esse entendimento - e verificar se houve cerceamento de defesa - exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula nº 7 do Superior Tribunal de Justiça.
+Confiram-se os seguintes precedentes acerca da questão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. PROVA PERICIAL. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. "Na linha dos precedentes desta Corte, não configura cerceamento de defesa o julgamento da causa, sem a produção de prova pericial, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Há de se considerar, nesses casos, o princípio do livre convencimento motivado do juiz que, em termos práticos, reporta à análise de matéria fática e à incidência da Súmula 07/STJ" (AgRg no REsp 1126477/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/05/2013, DJe 03/06/2013).
+2. No presente caso, a Corte local concluiu pela desnecessidade de prova pericial ante a suficiência das provas apresentadas nos autos. Desse modo, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Agravo regimental de fls. 1.196-1.201 interposto por [NOME] não provido.
+(AgRg no AREsp 592.202/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2014, DJe 29/10/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE OMISSÃO. TESES DEVIDAMENTE APRECIADAS PELA INSTÂNCIA DE ORIGEM. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REVISÃO DO JULGADO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça não há ofensa ao art. 535, inciso II, do Código de Processo Civil, quando o Tribunal de origem se manifesta, de modo suficiente, sobre todas as questões levadas a julgamento, não sendo possível atribuir o vício de omisso ao acórdão somente porque decidira em sentido contrário à pretensão do recorrente. Precedentes.
+2. Não caracteriza cerceamento de defesa o julgamento da demanda sem a realização de prova pericial, quando o seu destinatário entender que o feito está adequadamente instruído com provas suficientes para seu convencimento.
+3. A alteração das conclusões adotadas pela Corte de origem, de que não houve cerceamento de defesa com o indeferimento de prova pericial, implica, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula desta Corte Superior.
+4. O dissídio jurisprudencial não foi demonstrado, pois o agravante não comprovou as similitudes fáticas e divergências decisórias entre os casos confrontados.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 565.871/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/10/2014, DJe 04/11/2014)
+3. Quanto às demais questões - art. 22, III, da Lei nº 8.245/91, arts. 333, I, 476, 614, III, 615, IV, e 582, V, do CPC/73, relativamente às obrigações contratuais bilaterais e respectiva exigibilidade, decidiu o v. acórdão recorrido que não haveria impedimento à cobrança, tendo em vista que o shopping center cumpriu com suas obrigações legais e contratuais, à luz do exame do acervo fático-probatório, conforme se vê do seguinte trecho:
+As alegações referentes ao fato de que o Shopping Center jamais poderia realizar obras que afetassem as características do ponto comercial locado aos recorrentes, não devem prevalecer.
+Isto porque, as ditas obras realizadas serviram para a melhoria de condições direcionadas para todas as pessoas que ali frequentavam, ou seja, preocupando-se com a coletividade; e, por isso, os lojistas, se pretendem manter o ponto comercial no shopping, devem se adequar às novas instalações.
+Não há como se atribuir culpa exclusiva aos recorridos, pelos alegados prejuízos sofridos pelos embargantes, e muito menos se aceitar a justificativa do inadimplemento dos aluguéis, por conta da mudança de local da lavanderia dos recorrentes.- fls. 224.
+ ..  No caso dos autos, não vejo como conferir razão à empresa embargante. Com efeito, o imóvel locado ao recorrente foi entregue na época ajustada, e, diga-se, em condições de funcionamento. - fls. 225.
+ ..  Diante desse quadro, conclui-se que a simples mudança de espaço da lavanderia do apelante, não pode ser considerado fator conclusivo e exclusivo de qualquer queda nos lucros da empresa do ora recorrente, portanto, tal fato, não deveu-se a descumprimento contratual.
+Enfim, por qualquer ângulo que se analise a questão posta nestes autos, não há justificativa plausível para o descumprimento com o pagamento dos aluguéis contratados - fls. 226.
+Rever os fundamentos que ensejaram esse entendimento - e verificar eventual responsabilidade do shopping center pelos prejuízos da empresa de lavanderia - exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula nº 7 do Superior Tribunal de Justiça.
+4. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
