@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de carta rogatória por meio da qual a Justiça norueguesa solicita que se proceda à citação de [NOME] (CPF n. [CPF]) para audiência de conciliação, segundo o texto rogatório.
+Foi concedido o exequatur às fls. 98-99.
+A citação foi devidamente cumprida, conforme atesta o documento de fl. 228.
+A interessada, por intermédio de patrono devidamente constituído, peticiou solicitando a reabertura do prazo para apresentação da impugnação (fls. 231-240).
+É o relatório. Decido.
+O § 1º do art. 216-V do RISTJ assim dispõe: "Das decisões proferidas pelo Juízo Federal caberão embargos, que poderão ser opostos pela parte interessada ou pelo Ministério Público Federal no prazo de dez dias, julgando-os o Presidente deste Tribunal".
+Decorrido o prazo da apresentação dos embargos, indefiro o pedido.
+Ressalte-se que a carta rogatória consiste em simples citação de comunicação de ato processual, o que não contraria os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório. Assim, "o mero procedimento citatório não produz qualquer efeito atentatório à soberania nacional ou à ordem pública, apenas possibilita o conhecimento da ação que tramita perante a justiça alienígena e faculta a apresentação de defesa" (AgRg na CR n. 10.849-7, relator Ministro Maurício Corrêa, DJU de 21/5/2004).
+Confiram-se os seguintes precedentes:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. APLICAÇÃO DOS ARTS. 214, § 1º, DO CÓDIGO DE PROCESSO CIVIL E 13, § 3º, DA RESOLUÇÃO N. 9 DE 2005 DESTE TRIBUNAL. PRECEDENTES DESTA CORTE. ALEGADA NECESSIDADE DE TRADUÇÃO JURAMENTADA DOS DOCUMENTOS. COMISSÃO QUE TRAMITOU PELA AUTORIDADE CENTRAL. APONTADA VIOLAÇÃO DA ORDEM PÚBLICA E DA SOBERANIA NACIONAL. CITAÇÃO. ATO DE COMUNICAÇÃO PROCESSUAL. Nos termos da jurisprudência desta Corte, é dispensável a remessa da carta rogatória à Justiça Federal após a concessão do exequatur, quando a parte interessada é considerada citada em razão do comparecimento aos autos para apresentar impugnação. A comissão tramitou pela autoridade central brasileira, o que dispensa a tradução juramentada no Brasil. Ademais, objetiva a realização de citação, ato de comunicação processual no qual não se vislumbra violação da ordem pública nem da soberania nacional. Agravo regimental improvido. (AgRg na CR n. 5.490/EX, relator Ministro Ari Pargendler, DJe de 6/6/2012, grifei.)
+AGRAVO REGIMENTAL NA CARTA ROGATÓRIA. EXEQUATUR. OFENSA À ORDEM PÚBLICA E À SOBERANIA NACIONAL. INEXISTÊNCIA. INCOMPETÊNCIA DA JURISDIÇÃO ESTRANGEIRA. ARTS. 88 E 89 DO CÓDIGO DE PROCESSO CIVIL. COMPETÊNCIA RELATIVA. APLICAÇÃO DO ART. 214, § 1º, DO CÓDIGO DE PROCESSO CIVIL E DO ART. 216-W, PARÁGRAFO ÚNICO, DO RISTJ.
+I - A simples notificação da interessada acerca de processo em curso na justiça rogante não constitui nenhuma ofensa à ordem pública ou à soberania nacional, tratando-se, na verdade, de mero ato de comunicação processual.
+II - A discussão acerca da incompetência da justiça chinesa para julgar a demanda transcende a limitação estabelecida pelo art. 216-Q, § 2º, do RISTJ devendo, assim, ser apresentada perante a justiça rogante.
+III - Nos termos dos arts. 88 e 89 do Código de Processo Civil, a hipótese dos autos trata de matéria de competência relativa, ou seja, de conhecimento concorrente entre a jurisdição brasileira e a estrangeira.
+IV - É dispensável a remessa da carta rogatória à Justiça Federal após a concessão do exequatur, quando a parte interessada é considerada citada em razão do comparecimento aos autos para apresentar impugnação.
+Agravo regimental desprovido. (AgRg na CR n. 8.820/CN, relator Ministro Francisco Falcão, DJe de 9/3/2015, grifei.)
+Diante do cumprimento da comissão, conforme atesta o documento de fl. 228, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) após o trânsito em julgado, por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
