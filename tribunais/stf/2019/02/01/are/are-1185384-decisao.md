@@ -1,0 +1,13 @@
+Decisão
+    Cuida-se de Agravo contra decisão que não admitiu Recurso Extraordinário aplicando precedente do SUPREMO TRIBUNAL FEDERAL formado sob a sistemática da repercussão geral, bem como em razão do óbice da Súmula 279/STF.
+    É o relatório. Decido.
+    A jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE, pois, como destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, Min. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada” (RE 1.023.231/PR, DJe de 22/2/2017).
+    Dessa forma, não existindo, contra a parte da decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso para o STF (ARE 960.182-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 15/3/2017), com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, não merece ser conhecido o recurso no ponto.
+    No que remanesce, quanto ao pedido de alteração do regime jurídico contratual, a decisão agravada entendeu por inviabilizar o seguimento recursal tendo em vista a aplicação da Súmula 279/STF.
+    Tal fundamentação não foi devidamente impugnada pelo agravante, o que impede o conhecimento do recurso.
+    Ante o exposto, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
