@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão de cuja ementa destaca-se:
+    “ADMINISTRATIVO. ANISTIADO POLÍTICO. PRETENSÃO. PRESCRIÇÃO. INOCORRÊNCIA. ART. 8° DO ADCT. LEI 10.559/2002. INDENIZAÇÃO. PRESTAÇÃO MENSAL CONTINUADA. PROVAS. DIREITO. DANOS MORAIS. CABIMENTO.
+    […]
+    3. O art. 1°, I, da Lei n° 10.559/2002 assegura ao anistiado a contagem (para todos os efeitos) do tempo em que esteve compelido ao afastamento de suas atividades profissionais.
+    4. In casu, o demandante afastou-se do exercício laboral no momento em que foi preso ilegalmente pelo Estado, devendo a contagem do tempo retroagir a esta data, e não ao dia em que houve a extinção da relação de trabalho.
+    5. Resta devida a indenização, pelo dano material, na forma de prestação mensal, permanente e continuada, no importe correspondente à remuneração a que teria direito o anistiado político como se na ativa estivesse (art. 6°, caput, da mencionada lei).
+    […]
+    9. Na situação em tela, considerando que a prática de tortura realizada contra o suplicante foi encabeçada pelo próprio Estado, violando em seu âmago a dignidade do demandante, faz-se justa e razoável a fixação de indenização pelo abalo moral no valor de R$ 100.000,00 (cem mil reais)” (págs. 26-27 do documento eletrônico 6).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação do art. 8º do Ato das Disposições Constitucionais Transitórias.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, com apoio no acervo probatório dos autos e na interpretação da Lei 10.559/2002, concluiu que o autor, na condição de anistiado político, faz jus à indenização pelos danos suportados em razão do regime de exceção e à contagem do tempo, para todos os efeitos legais, em que ficou afastado das suas atividades laborais.
+    Assim, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório constante dos autos – o que é vedado pela Súmula 279/STF – e da norma infraconstitucional aplicável à espécie, de modo que eventual ofensa à Constituição Federal seria apenas indireta. Nesse sentido, cito os seguintes precedentes do Pleno deste Tribunal:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. ANISTIA. RESPONSABILIDADE CIVIL. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.095.480-AgR/RS, Rel. Min. Presidente).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ANISTIA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.088.827-AgR/RS, Rel. Min. Presidente).
+    Com o mesmo entendimento, menciono as seguintes decisões, entre outras: ARE 738.355-AgR/RJ, Rel. Min. Celso de Mello; ARE 803.763-AgR/DF, Rel. Min. Roberto Barroso; ARE 925.476-AgR/RS, Rel. Min. Rosa Weber; RE 403.527-AgR/RJ, de minha relatoria; e RE 940.684-AgR/RJ, Rel. Min. Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
