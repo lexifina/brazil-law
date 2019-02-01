@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de LEANDRO DE CARVALHO MACHADO, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do Agravo em Execução n. 0163910-72.2018.8.21.7000.
+Extrai-se dos autos que o Juízo das Execuções indeferiu o pedido de progressão ao regime pleiteado pelo paciente (fl. 33).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso, nos termos do acórdão que restou assim ementado:
+AGRAVO EM EXECUÇÃO (ARTIGO 197, DA LEP). PROGRESSÃO DE REGIME INDEFERIDA. INCONFORMISMO DEFENSIVO. Muito embora o apenado tenha, de fato, implementado o requisito objetivo (cumprimento de 1/6 da pena) exigido para a concessão da benesse, bem como apresente conduta prisional plenamente satisfatória (fl. 21) e tenham os pareceres psicológico e social indicado evolução no controle dos seus impulsos (fls. 16/20), o seu histórico carcerário mostrou-se contrário à possibilidade de que ele usufrua do benefício em debate, verificando-se que o mérito subjetivo não se encontra preenchido. No caso concreto, conforme os documentos juntados aos autos, constata-se que o réu registra o cometimento de faltas graves no curso da execução (entre elas três por fuga), sendo, inclusive, a última das recentes faltas cometidas, uma fuga praticada quando agraciado com a progressão ao regime semiaberto, ocasião em que permaneceu foragido desde 22 DEZ 2015 até 23 JAN 2017 (PAD 034/2017). Portanto. o agravante não revela a responsabilidade e disciplina necessárias para a concessão da progressão ao regime semiaberto, mostrando-se prematura, portanto, a sua concessão. Diante disso, necessária a manutenção da decisão que indeferiu a progressão ao regime semiaberto, por descumprimento do requisito subjetivo, consistente na aferição das suas condições pessoais. AGRAVO IMPROVIDO (fl. 50).
+No presente mandamus, a impetrante informa que o paciente preencheu o requisito objetivo para progressão de regime em 19/12/2017 e que o atestado de conduta carcerária declarou que o apenado possui conduta satisfatória, contudo, o Juízo da Execução negou o pedido de progressão entendendo que o requisito subjetivo não foi implementado.
+Sustenta que o histórico de faltas no curso da execução não pode ensejar o indeferimento da progressão. Aduz que a manutenção em regime mais gravoso ocasiona excesso na execução da pena.
+Requer, assim, em liminar e no mérito, a cassação do acórdão impugnado.
+Indeferida a liminar (fls. 66/67) e prestadas as informações pelas instâncias ordinárias (fls. 76/91, 92/135 e 138/142).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 145/146).
+O presente writ está prejudicado.
+Isso porque, em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que em 20/11/2018, posteriormente à impetração em análise, o paciente foi beneficiado com a progressão para o regime semiaberto, pelo Juízo de Execução Criminal nos autos do PEC n.31685-7.
+Dessarte, diante da realidade fático-processual, forçoso reconhecer a perda superveniente do objeto deste mandamus.
+Pelo exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
