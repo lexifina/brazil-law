@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WOLFKGAUG HORSTH SENA DIEHL e [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 453/455, in verbis:
+Trata-se de agravo (fls. 420/427), interposto por WOLFKGAUG HORSTH SENA DIEHL e [NOME], contra decisão (fls. 409/412) de negativa de seguimento a recurso especial (fls. 381/389), o qual havia sido manejado para impugnação de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, proferido nos termos da seguinte ementa (fl. 280):
+E M E N T A - RECURSO DE APELAÇÃO DEFENSIVO - ROUBO DUPLAMENTE CIRCUNSTANCIADO PELO EMPREGO DE ARMA E CONCURSO DE PESSOAS - INSURGÊNCIA CONTRA O REGIME FECHADO INICIAL - TESE NÃO ACOLHIDA - PREQUESTIONAMENTO - RECURSO CONHECIDO E DESPROVIDO.
+Como cediço, a especificação do regime prisional não está atrelada única e exclusivamente ao quantum que porventura venha a ser concretamente fixado, cabendo ao julgador, no momento oportuno, quando da prolação de sentença, efetuar tal apreciação também à luz das diretrizes elencadas no artigo 59 do Código Penal, consoante artigo 33, parágrafo terceiro, do mesmo estatuto.
+Vislumbrando-se que, no caso versando, embora a reprimenda corpórea tenha sido fixada em patamar inferior a oito anos, milita desfavoravelmente aos apelante circunstância judicial, somando-se a isso a gravidade concreta do caso, se afigura inviabilizado regime diverso do fechado.
+É assente na jurisprudência que, se o julgador aprecia integralmente as matérias que lhe são submetidas, se torna despicienda a manifestação expressa acerca de dispositivos legais utilizados pelas partes como sustentáculo às suas pretensões.
+Com o parecer, recurso conhecido e improvido.
+Em síntese, o Tribunal de Justiça do Estado de Mato Grosso do Sul manteve inalterada a sentença que condenou ambos os agravantes à pena de 5 (cinco) anos, 8 (oito) meses de reclusão e ao pagamento de 20 (vinte) dias-multa, pela prática do crime descrito no artigo 157, § 2º, incisos I e II, do CP, com fixação do regime fechado para o início do cumprimento da pena, em razão da existência de circunstância judicial desfavorável e diante da gravidade concreta do caso.
+Irresignados, os agravantes manejaram recurso especial (fls. 381/389), com fundamento no art. 105, III, "a", da CF, sustentando que o acórdão recorrido negou vigência ao art. 33, § 2º, "b", do CP, bem como ao princípio da individualização da pena.
+O recurso especial não foi admitido, sob o fundamento de incidência da Súmula 83/STJ (fls. 409/412).
+Em razões de agravo (fls. 420/427), WOLFKGAUG HORSTH SENA DIEHL e [NOME] alegam que: (i) "há precedentes da Excelsa Corte Superior de Justiça em sentido contrário, sendo este o posicionamento atual" (fl. 425); e (ii) no caso concreto, houve apenas uma circunstância judicial desfavorável, o que impede que seja adotado regime mais gravoso, sob pena de violação aos princípios da proporcionalidade e da razoabilidade; (iii) a imposição de regime mais severo exige fundamentação idônea, a teor do disposto na Súmula 719/STF; e (iv) nos termos da Súmula 718/STF, "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (fl. 426).
+Contraminuta (fls. 433/446).
+Ao final, o Parquet opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. Decido.
+Não assiste razão ao agravante.
+É que, na linha da jurisprudência desta Corte Superior, "não há qualquer ilegalidade na imposição do regime fechado ao réu primário cuja pena-base foi fixada acima do mínimo legal, ante o reconhecimento de circunstâncias judiciais desfavoráveis" (HC 199.609/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/06/2015, DJe 03/08/2015, grifei)
+Nesse mesmo sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS NEGATIVAS. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ATENUANTE DA MENORIDADE. REDUÇÃO DA PENA EM FRAÇÃO INFERIOR A 1/6 SEM FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME INICIAL FECHADO. PENA-BASE ACIMA DO MÍNIMO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+- Uma vez estipulada a pena-base acima do mínimo legal, porquanto presente circunstância judicial desfavorável, o que resultou em pena definitiva superior a quatro anos, não há constrangimento ilegal na fixação de regime inicial fechado.
+- Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas aplicadas ao paciente para 6 anos, 5 meses e 23 dias de reclusão, e 18 dias-multa.
+(HC 356.632/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016, grifei)
+Ante o exposto, tendo em vista que o entendimento consignado pelo Tribunal de origem está de acordo com a orientação firmada neste Tribunal Superior, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
