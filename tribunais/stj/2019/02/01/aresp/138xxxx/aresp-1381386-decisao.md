@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Alega a defesa, nas razões do recurso especial, violação do art. 33, § 4º, da Lei n. 11.343/2006 e do art. 59 do Código Penal.
+Assevera que "conforme extrai-se da CAC juntada às fls. 162/163, o recorrente é tecnicamente primário, não havendo condenação transitada em julgado á época dos fatos. Considera-se ainda detentor de bons antecedentes, uma vez que a única anotação de ação penal, ainda em curso, refere-se a fato cometido posteriormente aos analisados in casu." (e-STJ, fl. 361).
+Aduz que "já no que se refere à apreciação das circunstâncias judiciais do art. 59 do Código Penal, foram consideradas a conduta social e personalidade do agente negativas, fundamentado o voto exclusivamente na condição de usuário de drogas do recorrente (fl. 362)
+Requer, assim, a reestruturação da pena.
+Apresentadas as contrarrazões (e-STJ, fls. 369-371).
+O recurso foi inadmitido (e-STJ, fls. 373-376).
+O Ministério Público Federal opinou pelo conhecimento do agravo para que seja negado provimento ao recurso especial (e-STJ, fls. 402-406).
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+O acórdão recorrido encontra-se fundamentado nos seguintes termos:
+" ..
+In casu, busca a combativa Defesa resgatar o voto da lavra do eminente Desembargador Sálvio Chaves que, no julgamento da apelação interposta, reduziu a pena-base estabelecida na sentença ao acusado, aplicou a minorante prevista no art. 33, § 4º, da Lei 11.343106, abrandou o regime prisional para o aberto e substituiu a pena corporal por duas restritivas de direitos.
+Depois de analisar com acuidade o v. acórdão embargado, tenho que a pretensão defensiva não merece acolhimento.
+Pois bem, no que diz respeito ao quantum da pena estabelecida, entendo pela manutenção dos votos majoritários proferidos na apelação, eis que, embora minha posição pessoal seja no sentido de que a condição de usuário de drogas do acusado, por si só, não macule sua conduta social, uma vez que tal questão deve ser tratada a partir de um contexto de saúde, e não do ponto de vista repressivo penal, o réu possui maus antecedentes, o que, a meu ver, é suficiente para ensejar a fixação da sanção básica no patamar eleito na sentença (cinco anos e oito meses de reclusão e quinhentos e vinte dias-multa), tendo sido estabelecida uma pena justa, proporcional ao ato ilícito praticado pelo acusado, em sintonia com sua condição pessoal individualizada, de modo a se alcançar sua tríplice finalidade, motivo pelo qual não há qualquer reparo a ser feito.
+Da mesma forma, na esteira dos votos majoritários, tenho que o ora embargante não faz jus à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343106, tendo em vista que seus maus antecedentes impedem a concessão do benefício." (e-STJ, fl. 347)
+Nos termos do disposto no art. 33, § 4º, da Lei de Drogas, para que incida a causa especial de diminuição de pena aos condenados pelo delito de tráfico de drogas, é necessário que o agente seja reconhecidamente primário, ostente bons antecedentes e não se dedique a atividades criminosas ou integre organização criminosa.
+O entendimento desta Corte é de que a mencionada norma legal tem como objetivo beneficiar, apenas, pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 5/10/2015; AgRg no REsp 1.423.806/SP; Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Na hipótese, verifica-se que o Tribunal de origem certificou que à época da sua condenação o recorrente possuía procedimento penal em andamento.
+Com efeito, conforme se extrai do documento acostado às fls. 223-224, e-STJ, na data da prolação da sentença (15/12/2016 - e-STJ, fls. 228-238), o recorrente havia sido condenado, em 30/8/2016, por fatos anteriores (9/7/2014 - e-STJ, fl. 223) à conduta criminosa objeto dos presentes autos.
+Releva salientar que "a existência de outros processos criminais contra o acusado, ainda que sem condenação transitada em julgado, afasta a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas" (HC 330.418/RS, de minha relatoria, QUINTA TURMA, DJe 9/11/2015).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006, AFASTADA EM VIRTUDE DA EXISTÊNCIA DE AÇÕES PENAIS EM ANDAMENTO. POSSIBILIDADE. PRECEDENTES. ACÓRDÃO EM SINTONIA COM ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. ALTERAÇÃO DA DECISÃO RECORRIDA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. A Terceira Seção desta Corte de Justiça entende que é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no art. 33, § 4º, da Lei n. 11.343/2006. 2. Ademais, modificar o entendimento do Tribunal de origem para reconhecer que o recorrente não se dedica à prática de atividades criminosas e, com isso, preenche os requisitos para a aplicação da causa especial de pena, tal como postulado, demandaria o reexame de todo o conjunto fático-probatório dos autos.
+3. Agravo regimental improvido."
+(AgRg no AREsp 1.136.353/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017).
+"PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Desfazer o entendimento a que chegaram as instâncias ordinárias para verificar se o réu se dedicava a atividades criminosas implicaria reexame da matéria fático-probatória dos autos. Incidência da Súmula 7 do STJ.
+2. Consoante entendimento pacificado desta Corte, "fatos criminais pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula 444 do STJ), podem embasar o afastamento da minorante do tráfico privilegiado quando permitem concluir que o agente se dedica a atividades criminosas." (STJ, 6ª Turma, AgRg no HC 211288/MS, rel. Min. Nefi Cordeiro, DJe 26/05/2015).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 618.313/MG, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/08/2015.)
+Por outro lado, é pacífica a jurisprudência desta Corte Superior de Justiça e do Supremo Tribunal Federal de que inquéritos e processo penais em andamento, ou mesmo condenações ainda não transitadas em julgado, não podem ser negativamente valorados para fins de elevação da reprimenda-base, sob pena de malferimento ao princípio constitucional da presunção de não culpabilidade. O tema, inclusive, está sedimentado no Enunciado da Súmula 444 desta Corte: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base."
+Logo, a pena-base merece ser reduzida, tendo em vista que o recorrente não possuía condenação transitada em julgado na data da sentença proferida nos presentes autos.
+Passo, assim, ao redimensionamento da pena.
+Reduzo a pena-base para 5 anos de reclusão e 500 dias-multa. Na segunda etapa, inexistentes atenuantes ou agravantes, a reprimenda intermediária permanece inalterada.
+Na terceira fase, conforme acima exposto, mantém-se afastada a minorante do § 4º do art. 33 da Lei n. 11.343/2006, restando a pena definitiva em 5 anos de reclusão e 500 dias-multa.
+Quanto ao regime inicial de cumprimento da pena, estabelecida a pena em 5 anos de reclusão, o modo semiaberto é o adequado à prevenção e à reparação do delito, diante da primariedade do réu e da análise favoráveis das circunstâncias judiciais, nos termos do art. 33, § 2º, "b", do CP.
+Confira:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME PRISIONAL FECHADO. HEDIONDEZ DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME SEMIABERTO. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 440 desta Corte, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Aplicação, também, dos verbetes n. 718 e 719 do STF.
+2. Uma vez que a pena foi estabelecida em 5 (cinco) anos e 10 (dez) meses de reclusão, o paciente é primário e a análise das circunstâncias judiciais lhe foi favorável, apresenta-se adequado o regime semiaberto para o início do cumprimento da pena reclusiva, conforme o disposto no art. 33, § 2º, alínea "b", do Código Penal.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 529.448/SP, de minha relatoria, QUINTA TURMA, julgado em 11/10/2016, DJe 09/11/2016).
+Ante o exposto, com base no art. 932, VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reduzir a pena-base do recorrente, restando a pena definitiva em 5 anos de reclusão e 500 dias-multa, no regime inicial semiaberto.
+Publique-se. Intimem-se.
