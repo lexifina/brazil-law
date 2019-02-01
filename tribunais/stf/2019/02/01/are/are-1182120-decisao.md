@@ -1,0 +1,7 @@
+Decisão: No caso, verifico que o assunto versado no recurso extraordinário (eDOC 6, p. 32-47) corresponde ao tema 660 da sistemática da repercussão geral, cujo paradigma, de minha relatoria, é o ARE-RG 748.371/MT, DJe 1º.8.2013.
+    Assim, determino a devolução dos autos ao tribunal de origem, para que observe o disposto nos artigos 1.039 a 1.041 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
