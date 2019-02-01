@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo Interno, interposto por [NOME] S/A E FILIAIS, inconformada com a decisão por mim proferida, às fls. 1.408/1.409e, que julgou prejudicado o seu Recurso Especial, por perda superveniente de objeto.
+Em suas razões, a agravante argumenta que, in verbis:
+"Assim, não há como se entender que desapareceu o benefício prático almejado com o provimento do Recurso Especial. Sobrevindo decisão favorável quanto ao mérito do mandamus (seja em sede de Apelação, seja em decorrência da aplicação do que restar decidido no tema 495/STF), a empresa Agravante tem interesse de que esse provimento se estenda não apenas ao estabelecimento matriz, mas também aos seus estabelecimentos filiais que integraram originalmente o polo ativo do Mandado de Segurança.
+Não há similitude entre a hipótese dos autos e os precedentes cujas ementas foram transcritas na decisão agravada.
+No presente caso, não se trata de decisão interlocutória que julgou pedido de liminar ou de antecipação dos efeitos da tutela, cuja prolação da sentença em certas hipóteses implica em prejuízo do respectivo Agravo de Instrumento. Tampouco o Juízo de 1º Grau se retratou da decisão agravada, houve acordo entre as partes, desistência do Recurso ou mesmo trânsito em julgado de sentença de mérito contrária/favorável.
+(..)
+A questão da legitimidade ativa das filiais não integrou capítulo da sentença, que apenas denegou a segurança quanto ao mérito e não reapreciou a legitimidade das partes.
+A legitimidade ativa das filiais foi dirimida anteriormente e apenas na decisão interlocutória de evento 4 dos autos do Mandado de Segurança que deu origem ao Agravo de Instrumento manejado perante o TRF da 4ª Região, cujo acórdão que o apreciou, por sua vez, deu ensejo à interposição do presente Recurso Especial.
+Deve-se atentar, ainda, para o fato de que com o advento do novo Código de Processo Civil, decisões que normalmente eram recorríveis por Agravo Retido, cujos termos e requerimento deveriam ser reiterados por ocasião da interposição do Recurso de Apelação ou da apresentação de Contrarrazões (no caso de não haver sido interposto Apelo ou Recurso Adesivo) e que, por isso, eram apreciadas pelo Tribunal quando do julgamento do próprio Apelo, passaram a ser impugnadas por Agravo de Instrumento, sob pena de preclusão.
+(..)
+Com o que, a sobrevinda da sentença de mérito não tem efeito substitutivo da decisão que reputou ilegítimas as filiais, tampouco prejudicou o Recurso dela interposto. Igualmente essa decisão interlocutória não pode ser revogada ou modificada a qualquer tempo ou mesmo de ofício, como se verifica nas tutelas provisórias.
+Com todas as vênias, Excia., a manutenção da decisão agravada (o que apenas para argumentar se admite) tem como efeito implicar na própria irrecorribilidade da decisão interlocutória impugnada (que declarou a ilegitimidade ativa das filiais), com a manutenção do entendimento nela firmado de ilegitimidade ativa das filiais, não obstante seja prejudicial às Agravantes e contrário ao posicionamento assente desta Egrégia Corte quando se trata da contribuição ao INCRA (como demonstrando com minudência no Recurso Especial)" (fls. 1.421/1.423e).
+Em razão da relevância dos argumentos expendidos pela agravante, reconsidero a decisão agravada, nos seguintes termos.
+Trata-se de Recurso Especial, interposto por [NOME] [NOME] S/A e filiais, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO EM MANDADO DE SEGURANÇA. EXCLUSÃO DAS FILIAIS DA EMPRESA IMPETRANTE, DO POLO PASSIVO NO MANDADO DE SEGURANÇA
+1. Se uma empresa com filiais pretende questionar a cobrança de contribuições previdenciárias patronais, deve fazê-lo no Juízo Federal com jurisdição sobre o estabelecimento
+2. Agravo de instrumento desprovido" (fl. 1203e).
+Opostos dois Embargos de Declaração, foram rejeitados (fls. 1236/1240e e fls. 1279/1283e).
+Alegam as recorrentes, nas razões do Recurso Especial, violação aos arts. 113 a 118 e 1.022 do CPC/2015. Defendendo, em suma, a legitimidade da filiais no polo ativo da Ação Mandamental.
+A irresignação merece prosperar.
+Com efeito, nos termos da jurisprudência desta STJ "a matriz não tem legitimidade para representar processualmente as filiais nos casos em que o fato gerador do tributo opera-se de maneira individualizada em cada estabelecimento comercial/industrial, uma vez que, para fins fiscais, matriz e filial são considerados entes autônomos" (AgRg no REsp 1.232.736/RS, Rel. Ministro Sérgio Kukina, DJe 6.9.2013).
+Dessa forma, como as contribuição patronal ora em questão é apurada e recolhida de forma individualizada, por cada estabelecimento da pessoa jurídica (matriz e filiais), em GFIP e GPS específicos, deve ser reconhecida a legitimidade ativa das filiais para figurarem no presente feito.
+Em face do exposto, reconsidero a decisão agravada, e com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial para reconhecer a legitimidade das filiais de figuraram na presente ação.
+I.
