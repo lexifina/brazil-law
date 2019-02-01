@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] CUNHA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0048378-56.2009.8.26.0071.
+Busca o impetrante, em suma, a modificação do regime prisional, sob a assertiva de que "a existência de reincidência reclama regime mais gravoso, ou seja, semiaberto, pela gradação da escala, e não o fechado" (fl. 3). Aponta a violação da Súmula n. 269 do STJ.
+Indeferida a liminar e prestadas as informações, veio o parecer do Ministério Público Federal (fls. 668-672), que opinou pela denegação da ordem.
+Decido.
+O paciente foi condenado pela prática do delito descrito no art. 171, caput, do Código Penal. Ao fixar a pena, o Juízo monocrático ressaltou que "em função da reincidência específica e da personalidade voltada para a prática de crimes de estelionato, a sanção carcerária será cumprida em regime inicial fechado" (fl. 9).
+A Corte de origem deu parcial provimento ao apelo defensivo, a fim de afastar a continuidade delitiva e, por conseguinte, reduzir a pena para 1 ano, 4 meses e 10 dias de reclusão. Todavia, manteve o regime fechado fixado na sentença, "porque o réu é possuidor de maus antecedentes e reincidente específico" (fl. 82).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso dos autos, o réu, além de ser reincidente, possui os maus antecedentes avaliados como circunstância judicial desfavorável, o que afasta a aplicação da Súmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
