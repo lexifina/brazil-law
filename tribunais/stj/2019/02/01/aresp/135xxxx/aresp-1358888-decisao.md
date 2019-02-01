@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento ao recurso especial, no qual se alega violação do art. 774, IV, do Código de Processo Civil de 2015, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 183):
+AGRAVO DE INSTRUMENTO - BUSCA E APREENSÃO - LIMINAR DEFERIDA - NÃO LOCALIZAÇÃO DO VEÍCULO - INTIMAÇÃO DO RÉU PARA INFORMAR O PARADEIRO DO BEM - IMPOSSIBILIDADE - AUSÊNCIA DE PREVISÃO LEGAL - ÔNUS DO CREDOR - FACULDADE DE REQUERER A CONVERSÃO DA DEMANDA. Incabível a intimação da parte ré para entregar ou indicar o paradeiro do bem objeto da ação de busca e apreensão cuja execução da liminar restou frustrada, ante a ausência de previsão legal nesse sentido. Incumbe ao próprio autor promover as diligências para a localização do bem, ou exercer a faculdade de conversão da ação de busca e apreensão em ação de execução, nos termos do art. 4º do Decreto-Lei n. 911, de 1969.
+Sustenta a agravante, em síntese, que a conduta do agravado de ocultar o veículo configura ato atentatório ao exercício da jurisdição, passível de sanções criminais, civis e administrativas, nos termos do art. 774, IV, do CPC/2015.
+Dessa forma, argumenta que é perfeitamente cabível a intimação do agravado para que indique o local onde se encontra o bem.
+Assim posta a questão, passo a decidir.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto ao art. 774, IV, do Código de Processo Civil, pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Registro, ademais, que o dissídio jurisprudencial não foi demonstrado nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça; para tanto, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, o que não ocorreu na espécie.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
