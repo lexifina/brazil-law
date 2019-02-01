@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] AUTO-PEÇAS LTDA., contra a decisão de fls. 1.974 - 1.978, e-STJ, desta relatoria, que deu provimento ao recurso especial interposto, determinando o retorno dos autos à origem, pra estabelecer o montante devido a título de honorários sucumbenciais, e afastar a determinação de compensação ante a sucumbência recíproca.
+Em suas razões, informa que os honorários já foram fixados pela Corte local, ressalvando a necessidade de tão somente afastar a compensação dos valores sucumbenciais devidos aos representantes das partes.
+Relatados, passo a decidir.
+Assiste razão à embargante.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada.
+Na espécie, a decisão embargada padece de erro material, uma vez que determinou o retorno dos autos à origem para que estabelecesse o valor dos honorários devidos em sucumbência recíproca, e tal providência, de fato, já foi adotada, conforme se depreende das fls. 1.587 - 1.588 - e-STJ, fazendo-se relevante a reprodução de trecho do acórdão, onde consta:
+Nestas condições, ambas as partes restaram vencidas, e por isto, ambas devem ser condenadas ao pagamento não só das custas, mas também dos honorários.
+Como se observa dos autos a apelante principal ofertou em consignação a quantia de R$315.852,23 (trezentos e quinze mil oitocentos e cinquenta e dois reais e vinte e três centavos).
+A apelante adesiva pediu que a recorrente principal fosse condenada ao pagamento do valor de R$3.615.126,01 (três milhões seiscentos e quinze mil cento e vinte e seis reais e um centavo) Assim, entendo,que a melhor solução será condenar a apelante principal a pagar honorários no patamar de 10% sobre o resultado da diferença entre o valor devido, a ser apurado, e aquele por ela ofertado desde o início do feito (R$315.852,23 - trezentos e quinze mil oitocentos e cinquenta e dois reais e vinte e três centavos).
+Quanto à apelante adesiva deverá ser condenada ao pagamento de honorários em quantia correspondente a 10% sobre a diferença entre o valor por ela pleiteado (R$3.615.126,01 - três milhões seiscentos e quinze mil cento e vinte e seis reais e um centavo) e o valor que for apurado como o de fato devido, visto que houve sucumbência no que concerne a esta diferença.
+Entendo ainda que deverá haver compensação dos honorários, conforme súmula 306, do STJ.
+Em face do exposto, acolho os embargos de declaração para modificar o dispositivo da decisão embargada, tornando sem efeito o ponto em que determina o retorno dos autos à origem para fixação da verba relativa aos honorários de sucumbência, uma vez que já estabelecido o respectivo valor pela Corte local, mantendo-se exclusivamente a determinação de afastar a compensação dos valores sucumbenciais devidos aos representantes das partes.
+Intimem-se.
