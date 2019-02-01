@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 83, e-STJ):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO JUDICIAL (CONVERTIDO PARA CUMPRIMENTO DE SENTENÇA). PENHORA DE VALORES EM CONTA POUPANÇA. IMPENHORABILIDADE. NÃO COMPROVAÇÃO. ÔNUS DO EXECUTADO. DESVIO DA NATUREZA. VIABILIDADE DA CONSTRIÇÃO. I - Inexistindo provas no sentido de que os valores penhorados na demanda executiva são oriundos de caderneta de poupança, inviável a aplicação do disposto no artigo 833, inciso X, do Código de Processo Civil/2015, para considerá-los impenhoráveis, devendo ser mantida a penhora efetivada. RECURSO CONHECIDO, MAS DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados pelo acórdão de fls. 109-117, e-STJ.
+No recurso especial, a recorrente aponta violação ao artigo 833, inciso X, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando a impenhorabilidade da caderneta de poupança.
+Afirma que "já tinha penhora real de imóveis nos autos e mesmo assim manteve a penhora dos valores, contrariando a jurisprudência e a lei da impenhorabilidade da caderneta de poupança" (fl. 126, e-STJ).
+Alega ter havido prescrição na espécie, já que o feito ficou parado por mais de oito anos, e a parte recorrida permaneceu inerte.
+Contrarrazões às fls. 174-177, e-STJ.
+O recurso foi inadmitido na origem, nos termos da decisão de fls. 179-180, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso especial não merece prosperar.
+Quanto à apontada prescrição, verifica-se que a Corte de origem, a despeito da oposição de embargos de declaração, não emitiu nenhum juízo de valor acerca da matéria, e a recorrente não apontou violação ao art. 1.022 do Código de Processo Civil em seu recurso especial, o que atrai a incidência da Súmula 211/STJ ao caso.
+Ressalte-se que "Mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no REsp 1.417.392/MG, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 17/8/2015).
+No mérito, a parte executada, ora recorrente, defendeu a impenhorabilidade do dinheiro em sua conta poupança, eis que inferiores a quarenta salários mínimos.
+Ao solucionar a controvérsia, o Tribunal de origem concluiu, com base no conjunto fático-probatório dos autos, que a conta poupança da ora recorrente era utilizada como se conta corrente fosse, afastando assim a sua impenhorabilidade, consoante se verifica: (fl. 77, e-STJ):
+Entretanto, o artigo 854, § 3º, do mesmo diploma legal, preconiza que compete à parte executada comprovar que as quantias tornadas indisponíveis são impenhoráveis, ou seja, é ônus do devedor fazer prova da impenhorabilidade dos valores constritos. Para revestir da impenhorabilidade, o montante deve representar, de fato, economia de rendimentos e estar realmente depositado em caderneta de poupança com característica própria.
+No caso em exame, a agravante teve bloqueado o valor de R$ 9.374,31 (nove mil, trezentos e setenta e quatro reais e trinta e um centavos) de sua conta poupança da Caixa Econômica Federal, contudo, não logrou êxito em comprovar que essa conta serve para sua subsistência, tão somente. Ao contrário, segundo se pode ver das provas constantes nos autos, a agravante gastou a quantia de R$ 4.680,73 (quatro mil seiscentos e oitenta reais e setenta e três centavos) em um período inferior a um mês.
+Assim, não obstante o inciso X, do art. 833, do Diploma Processual Civil, disponha sobre a impenhorabilidade de recursos vinculados à determinada conta poupança, o valor depositado em conta poupança pode ser objeto de penhora quando restar demonstrado nos autos que a conta não possui caráter de acumular recursos financeiros, sendo utilizada para movimentações financeiras do devedor, não incidindo, portanto, o impedimento disposto no art. 833, inciso X, do CPC.
+Este, inclusive, é o caso dos autos, cuja conta poupança possui constantes movimentações, restando demonstrado que a conta poupança ora analisada, em face das movimentações financeiras, é utilizada como espécie de conta-corrente, sem o caráter de acumular recursos, o que torna passível de penhora a verba ali depositada, devendo ser mantido o bloqueio efetuado.
+Aliás, oportuna a fundamentação utilizada pelo magistrado em sua decisão: "Na hipótese em análise, constata-se que a conta em comento não é utilizada exclusivamente com o intuito de resguardar valores, sendo a sua movimentação constante, conforme averigua-se no evento de n. 13 (treze - arquivo 2), tendo inclusive, a executada gasto a quantia de R$ 4.680,73 (quatro mil seiscentos e oitenta reais e setenta e três centavos) em um período inferior à um mês."  grifou-se .
+Dessa forma, a modificação do acórdão recorrido esbarra no óbice da Súmula 7/STJ: "A pretensão de simples reexame de provas não enseja recurso especial".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. CONTA-POUPANÇA. DESCARACTERIZAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO NÃO DEMONSTRADO.
+1. O tribunal de origem incursionou detalhadamente na apreciação do conjunto fático-probatório, estando obstada a inversão do julgado pela Súmula nº 7/STJ.
+2. A jurisprudência pacífica do Superior Tribunal de Justiça é no sentido de que a incidência da Súmula nº 7/STJ obsta o seguimento do recurso por qualquer das alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1137292/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24/10/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENHORA. ON LINE. NATUREZA ALIMENTAR. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE.
+1. A alteração da natureza dos valores penhorados na conta corrente e na conta poupança demandaria o reexame do conjunto fático-probatório do autos, procedimento vedado pela Súmula 7/STJ 2. "É possível a penhora "on line" em conta corrente do devedor, contanto que ressalvados valores oriundos de depósitos com manifesto caráter alimentar." 3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 363.466/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 28/10/2013).
+Quanto à majoração dos honorários em razão do disposto no art. 85, § 11, do Código de Processo Civil/2015, mostra-se incabível, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
