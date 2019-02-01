@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido de paridade. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 2º, 5º, inciso LV, 37, cabeça, 40, § 8º, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão por ausência de fundamentação. Afirma inexistir direito adquirido a regime jurídico. Discorre sobre a ausência de legislação a permitir a revisão de aposentadoria com base em critérios diversos dos previstos na Lei Estadual nº 17.032/2010.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário quanto à equivalência de reajustes remuneratórios entre ativos e inativos.
+    No mais, concluiu o Tribunal de origem ter a servidora atendido todos os requisitos previstos para a concessão da paridade:
+    Ante o exposto, concedo a segurança pleiteada a fim de que a impetrante faça jus à revisão de seus proventos de aposentadoria, conforme os benefícios e moldes concedidos aos ativos, nos mesmos termos estabelecidos na Lei Estadual nº 17.032/2010, levando-se em consideração o tempo de serviço da impetrante para a majoração dos valores dos respectivos proventos, com data retroativa à sua vigência.
+    Acresce o Tribunal de Justiça do Estado de Goiás decidido a partir de interpretação conferida a normas locais. Procedeu à análise da Lei estadual nº 17.032/10. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
