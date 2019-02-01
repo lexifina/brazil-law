@@ -1,0 +1,13 @@
+DECISÃO
+VALDEMAR KAVILHUKA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0906324-62.2016.8.24.0038, no qual determinou a expedição de guia de execução provisória das penas restritivas de direitos.
+Neste habeas corpus, o impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que o cumprimento antecipado da pena não se aplica às hipóteses de penas restritivas de direitos. Destaca o preceituado no art. 147 da Lei de Execução Penal e o entendimento firmado no julgamento do EREsp n. 1.619.087/SC, pela Terceira Seção desta Corte Superior, que a execução da referida reprimenda somente poderá ser iniciada depois do trânsito em julgado da sentença condenatória.
+Pleiteia a concessão da ordem, in limine, a fim de que seja suspensa a execução provisória da pena até o trânsito em julgado da condenação.
+Decido.
+Da análise dos autos, verifico que o pedido formulado reveste-se de plausibilidade jurídica, razão pela qual deve ser concedida a ordem.
+A respeito do tema, embora a Sexta Turma desta Corte Superior entendesse pela possibilidade de se ordenar o imediato cumprimento das penas substitutivas (v.g. AgRg no RCD no RHC n. 72.597/DF, Rel. Ministro Antonio Saldanha Palheiro, DJe 8/5/2017 e HC n. 380.104/AM, Rel. Ministra Maria Thereza de Assis Moura, DJe 22/2/2017), a matéria foi submetida recentemente à análise da Terceira Seção do STJ.
+Ao julgar os EREsp n. 1.619.087/SC (Rel. Ministra Maria Thereza de Assis Moura, 3ª S., DJe 24/8/2017), o órgão colegiado decidiu, por maioria, não ser possível a execução provisória de pena privativa de liberdade convertida em restritiva de direitos.
+Portanto, assiste razão à defesa ao suscitar a ocorrência de constrangimento ilegal na espécie.
+Por fim, apenas ressalto que, sob o prisma do recente julgado do Plenário da Corte Suprema não vejo razões que impeçam a concessão, in limine, da ordem de habeas corpus, notadamente porque expressamente autorizado - pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o Relator decida o habeas corpus, monocraticamente, quando se conformar com jurisprudência consolidada pelo Supremo Tribunal Federal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, do habeas corpus, para suspender os efeitos do acórdão impugnado na parte em que determina a execução provisória da pena restritiva de direitos imposta ao paciente (Apelação n. 0906324-62.2016.8.24.0038).
+Comunique-se, com urgência, o inteiro teor desta decisão ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se e intimem-se.
