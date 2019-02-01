@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2130411-73.2018.8.26.0000).
+Consta dos autos ter sido o paciente preso em flagrante, em 8/11/2017, custódia essa convertida em preventiva, pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003, pois, segundo a denúncia, mantinha em depósito 155,16g (cento e cinquenta e cinco gramas e dezesseis centigramas) de cocaína, acondicionados em 709 invólucros plásticos, uma espingarda calibre 22, além de 8 projéteis íntegros.
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura do paciente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 8):
+Habeas Corpus. Tráfico de drogas e posse irregular de arma de fogo de uso permitido. Alegação de excesso de prazo para a formação da culpa. Pleito objetivando a liberdade provisória, com a expedição de alvará de soltura. Excesso de prazo. Não cabimento. Expedição de carta precatória à Comarca de Sorocaba para oitiva de testemunhas arroladas pela defesa e acusação, bem como instauração de incidente de dependência toxicológica, pendente de realização. Ausência de desídia do magistrado condutor do feito. Presença dos requisitos do art. 312 do CPP. Paciente tem extensa ficha criminal. Condenado duas vezes por tráfico de drogas e duas vezes por receptação. Mantidas as razões da custódia cautelar. Ordem denegada.
+No presente writ, sustentam os impetrantes a existência de excesso de prazo para a formação da culpa, pois, a despeito de o paciente estar preso desde 8/11/2017, não há previsão para a realização da audiência de instrução e julgamento.
+Buscam, inclusive liminarmente, a expedição de alvará de soltura em favor do paciente.
+É, em síntese, o relatório.
+Em consulta ao sítio do Tribunal de Justiça do Estado de São Paulo, verifiquei que, no dia 12/12/2018, foram juntadas aos autos razões de apelação e, em 18/12/2018, o Juízo de origem determinou a extração de guia de recolhimento provisória do ora paciente.
+Nessa alheta, aplica-se o conteúdo do enunciado da Súmula n. 52 desta Corte ("Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo").
+Tal o contexto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
