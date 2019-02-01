@@ -1,0 +1,18 @@
+DECISÃO
+O Município de Sobral requer a suspensão dos efeitos da decisão da Desembargadora plantonista, do Tribunal de Justiça do Estado do Ceará, que deferiu a liminar pleiteada nos autos do Agravo de Instrumento n. 0002296-26.2018.8.06.0000, em 27/12/2018.
+Na origem, o ora interessado, vereador do município requerente, impetra o Mandado de Segurança n.º 0007553-16.2018.8.06.0167, por meio do qual aponta ato tido como coator, que teria sido praticado pelo Presidente da Câmara Municipal de Sobral.
+O Juízo de primeiro grau não vislumbrou motivo para deferimento de liminar, fato que deu ensejo ao agravo de instrumento interposto no TJCE.
+A liminar em segundo grau foi deferida, por entender que houve descumprimento de disposições legais e regimentais referentes à aprovação do Projeto de Lei Complementar n.º 074/2018, que versa sobre matéria tributária, o qual "exige a prévia convocação de pelo menos uma audiência pública, consoante preconizado na Lei Orgânica do Município de Sobral" (fl. 156).
+Assim, restou concedido o efeito suspensivo pretendido, "para tornar sem efeito a audiência pública realizada no dia 26/12/2018" (fl. 157) e vedar a votação do citado projeto de lei.
+Daí o presente pedido de contracautela, em que o requerente sustenta a ocorrência de grave lesão à ordem e à economia pública, na medida em que a liminar impugnada "causará imensurável prejuízo ao erário público, uma vez que em não havendo aprovação do Projeto de Lei Complementar n.º 74/2018, não haverá atualização da planta genérica dos imóveis do Município de Sobral, levando a um prejuízo de mais de dez milhões durante o ano de 2019" (fls. 12/13).
+Assevera que a suspensão deve ocorrer de imediato, pois "caso não seja aprovado o projeto no corrente ano, só poderá ser aplicado no ano de 2020, em virtude do princípio da anualidade tributária" (fl. 14).
+Requer a suspensão da liminar concedida nos autos do Agravo de Instrumento n.0002296-26.2018.8.06.0000, "visando evitar o manifesto prejuízo ao regular funcionamento da Administração" (fl. 15).
+É o relatório.
+Decido.
+Conforme a legislação de regência (Leis n. 8.038/1990, 8.437/1992, 9.494/1997 e 12.016/2009), o deferimento da contracautela é condicionado à comprovada ocorrência de grave lesão à ordem, à saúde, à segurança ou à economia públicas.
+Por isso, a suspensão de segurança constitui providência extraordinária, na qual o requerente tem o ônus de indicar na inicial, de forma patente, que a manutenção dos efeitos da decisão judicial que busca suspender viola acentuadamente um dos bens jurídicos tutelados.
+Tal excepcionalidade ocorre na hipótese.
+As argumentações formuladas pelo requerente são relevantes e demonstram o prejuízo direto e grave à ordem administrativa do Município de Sobral. É evidente que pela importância do projeto de lei complementar em questão, que versa sobre tema tributário, a impugnada anulação abrupta da audiência pública, realizada em 26 de dezembro último, tem o potencial efeito danoso, também, à economia pública.
+Nessa situação, sem adentrar no mérito do mandado de segurança impetrado na origem, verifico que a liminar proferida nos autos do agravo de instrumento, ao conceder o efeito suspensivo para anular a sessão e vedar a própria votação do Projeto de Lei Complementar n. 074/2018, inviabiliza, por questões temporais, a apresentação de novo projeto de lei neste ano e, com isso, tem o potencial de abalar toda a estrutura administrativa e orçamentária do requerente.
+Ante o exposto, defiro o pedido para suspender a liminar deferida pela Desembargadora plantonista no Agravo de Instrumento n. 0002296-26.2018.8.06.0000, em tramitação no Tribunal de Justiça do Estado do Ceará.
+Publique-se. Intime-se.
