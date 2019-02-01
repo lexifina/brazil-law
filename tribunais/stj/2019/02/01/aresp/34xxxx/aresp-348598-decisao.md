@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado por LUCIMAR CRISTINA GIMENEZ CANO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ, fls. 255/256):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL TRANSAÇÃO EXTRAJUDICIAL - NÃO HOMOLOGADA - PEDIDO DAS PARTES DE RETOMADA DOS EMBARGOS À EXECUÇÃO EM CASO DE INADIMPLEMENTO - AUSÊNCIA DE INTERESSE DE AGIR CUMPRIMENTO DE SENTENÇA - MEDIDA ADEQUADA - DECISÃO MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+Embora o art. 585, II, do CPC, preveja ser título executivo extrajudicial o instrumento de transação referendado pelos advogados dos transatores, na hipótese, embora exista a transação, além de ser homologada, as partes deixaram claro a intensão de retomar o curso do processo, no caso de inadimplemento, o que faz cair por terra a possibilidade de interposição de execução por título extrajudicial, sendo que o correto seria o pedido de cumprimento de sentença, nos termos do art. 475-J, do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 566 e 585, II, do CPC/73. Para tanto, sustenta, em síntese, que "há, no presente caso, legitimidade e interesse processual da recorrente em iniciar execução por quantia certa, fundada em título executivo sem a devida homologação judicial, uma vez que é claro e sólido o caráter executivo extrajudicial do título" (fl. 67).
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No tocante à presença dos elementos que classificariam a transação realizada na execução como título executivo extrajudicial, nota-se que a Corte de origem compreendeu que é como se tal acordo não existisse, pois "embora exista a transação, as partes deixaram claro a intenção de retomar o curso do processo, no caso de inadimplemento, o que faz cair por terra a possibilidade de interposição de execução por título extrajudicial" (fl. 57), acentuando que a ausência de homologação judicial afasta o caráter executivo da avença firmada.
+A conclusão do acórdão recorrido está em consonância ao entendimento desta Corte de Justiça, no sentido da impossibilidade de se considerar a transação não homologada (em especial quando leva ao prosseguimento do processo) como título executivo extrajudicial, sustentando que a lide continua nos mesmos termos do título originário. Sobre o tema, colacionam-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. EXECUÇÃO. ACORDO NÃO HOMOLOGADO JUDICIALMENTE. IMPOSSIBILIDADE DE EXECUÇÃO COMO TÍTULO JUDICIAL. 2.
+AGRAVO DE INSTRUMENTO. SUSTENTAÇÃO ORAL NÃO PREVISTA. NULIDADE DO JULGAMENTO. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO PAS DE NULLlTÉ SANS GRIEF. 3. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Casa dispõe no sentido de que "a ausência de homologação judicial do instrumento de transação, por si só, não retira do documento o caráter de título executivo, embora lhe subtraia a possibilidade de execução como título judicial" (REsp n.
+1.061.233/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2011, DJe 14/9/2011).
+2. O sistema das nulidades processuais é informado pela máxima pas de nullité sans grief, segundo a qual não se decreta nulidade sem prejuízo.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1098396/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA. TRANSAÇÃO EXTRAJUDICIAL. AUSÊNCIA DE HOMOLOGAÇÃO. INADIMPLEMENTO. PROSSEGUIMENTO DA EXECUÇÃO. PENHORA DE BENS DO INTERVENIENTE GARANTE NA TRANSAÇÃO. EMBARGOS DO DEVEDOR. ILEGITIMIDADE. RECONHECIMENTO.
+1. A ausência de homologação judicial do instrumento de transação, por si só, não retira do documento o caráter de título executivo, embora lhe subtraia a possibilidade de execução como título judicial.
+2. Em caso de descumprimento do acordo e prosseguimento da execução originária, o devedor solidário, que assumira essa condição na transação firmada extrajudicialmente e não homologada, é parte ilegítima.
+3. Inexistem elementos nos autos que permitam afirmar que a transação celebrada preenche os requisitos necessários à configuração de título executivo extrajudicial.
+4. Prejudicada a análise das alegações de prescrição intercorrente e impenhorabilidade do bem de família.
+5. Recurso especial provido.
+(REsp 1061233/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/09/2011, DJe 14/09/2011)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
