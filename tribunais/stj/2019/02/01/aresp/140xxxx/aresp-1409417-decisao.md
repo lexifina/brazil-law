@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por EXECUTIVO ADMINISTRADORA DE BENEFÍCIOS EIRELI desafiando decisão que inadmitiu recurso especial, este manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 87):
+"Plano de saúde. Ação de cobrança. Mensalidades inadimplidas referentes a junho e julho de 2016. Ré que faz jus ao benefício da justiça gratuita. Demandada que não comprova a data do pedido de cancelamento do contrato. Documento emitido pela administradora do plano informando que o desligamento ocorreu em 20/07/2016. Documento, no entanto emitido em 27/06/2016. Divergência de datas que deve ser interpretada em benefício da consumidora. Exclusão da cobrança relativa ao mês de julho/2016. Ação parcialmente procedente.
+Sucumbência recíproca. Recurso parcialmente provido."
+Em suas razões, a recorrente aponta violação dos arts. 333 e 435 do CPC/2015.
+Aduz, em suma, que o plano de saúde estava à disposição da recorrida até dia 31/7/2016 e que o desligamento só ocorreu em 20/7/2016, tendo em vista que, "por um equívoco na data de elaboração do documento, o mesmo foi datado de 27/6/2016" (e-STJ, fl. 97).
+Acrescenta que, "pela cláusula "n" do contrato a solicitação de rescisão deve ser apresentada até o dia 18 de cada mês  .. , portanto correta a cobrança da mensalidade do mês de junho e julho/2016" (e-STJ, fl. 97), sobretudo porque a recorrida deixou de comprovar a data indicada por ela como sendo do pedido de cancelamento do plano.
+É o relatório. Decido.
+Consta do acórdão atacado, no que interessa (e-STJ, fl. 88):
+"Cuida-se de ação de cobrança de mensalidade de plano de saúde referentes aos meses de junho e julho de 2016 (a anotação nos boletos de fls. 19/20 de que a cobrança se refere a 10/09/2016 é claramente equivocada).
+Insurge-se a ré, ora apelante, sob o fundamento de que solicitou por escrito o cancelamento do plano de saúde em 15/16 de junho de 2016.
+Todavia, não apresentou prova desse pedido, conforme lhe competia (art. 373, II do CPC/2015).
+Ocorre que, de acordo com documento elaborado pela autora, o desligamento da ré do plano de saúde teria ocorrido em 20/07/2016. Mas o documento é datado de 27/06/2016, não se sabendo se o equívoco está na data da elaboração do documento ou na data do desligamento (fl. 37).
+Assim, considerando que havendo dúvida esta deve ser interpretada em favor do consumidor e que pela cláusula "n" do contrato a solicitação de "rescisão" deve ser apresentada até o dia 18 de cada mês (fl. 18), o recurso deve ser provido para que seja excluída a cobrança do mês de julho de 2016, restringindo-se a condenação da ré à mensalidade referente ao mês de junho do mesmo ano, no valor de R$ 832,99, com correção monetária e acréscimo de juros moratórios de 1% (um por cento) ao mês, ambos calculados a partir da data da planilha de fls. 11."
+Como visto, diante da divergência entre as datas apresentadas pela seguradora e beneficiária do plano de saúde para o desligamento e das cláusulas do contrato firmado entre as partes, concluiu o decisum impugnado por excluir a cobrança referente ao mês de julho de 2016, de modo a restringir a condenação à mensalidade referente ao mês de junho do mesmo ano.
+Assim, a análise das alegações da ora recorrente - todas voltadas a demonstrar a regularidade da cobrança das mensalidades de junho e julho de 2016 do plano de saúde -, esbarram nos óbices das Súmulas 5 e 7 do STJ, tendo em vista a necessidade de reexame do conteúdo fático-probatório dos autos e interpretação de cláusulas contratuais, providências vedadas na via eleita.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO DE CONTRATO CUMULADA COM COBRANÇA DE MENSALIDADES. ALEGAÇÃO DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL E NEGATIVA DA PRESTAÇÃO DE SERVIÇO. ANÁLISE DE CLÁUSULAS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. DESCABIMENTO. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A análise das razões apresentadas pela recorrente demandaria a interpretação de cláusulas contratuais, bem como o reexame das circunstâncias fáticas da causa, o que é vedado em recurso especial, ante o disposto nos enunciados n. 5 e 7 da Súmula do STJ.
+2. Agravo interno desprovido." (AgInt no AREsp 1.166.782/SP, Relator o Ministro Marco Aurélio Bellizze, DJe de 2/3/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
