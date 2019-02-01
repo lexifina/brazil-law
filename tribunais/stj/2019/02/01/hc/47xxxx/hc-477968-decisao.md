@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEANDRO SALEME MILAO, em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado, em 1º grau, à pena de 1 ano e 8 meses de reclusão, em regime fechado, mais 167 dias-multa, por ofensa ao art. 33, caput, da Lei n. 11.343/06.
+Interposta apelação defensiva, o Tribunal estadual negou provimento ao recurso, expedindo-se, ainda, guia de execução provisória (fls. 300/310).
+Requerida, em liminar e no mérito, a fixação de regime aberto e a substituição da pena corporal por restritivas de direitos.
+O pedido liminar foi indeferido à fl. 291.
+Informações prestadas às fls. 297/317.
+Às fls. 319/325, manifestou-se o Ministério Público Federal pela concessão da ordem.
+É o relatório.
+DECIDO.
+Acerca do regime inicial de cumprimento de pena, assim se pronunciou o magistrado de 1º grau (fls. 198/199):
+A pena cominada ao acusado LEANDRO deverá ser cumprida inicialmente em regime fechado, nos termos do disposto no artigo 2o, §1º, da Lei nº 8.072/90, com a nova redação que lhe foi dada pela Lei nº 11.464/07, estando em sintonia com o princípio constitucional da individualização da pena (art.5º, XLVI, Ia parte, C.F. - HC 82.959-SP, STF, apud ob.cit., p.681).
+ ..
+Além disto, submetendo a individualização da pena em casos de delito hediondo ou equiparado tão somente às regras gerais previstas no artigo 33, § 2o, do Código Penal, estar-se-ia retirando eficácia do comando inserto na Constituição Federal que determinou a adoção de tratamento diferenciado mais rigoroso nestas hipóteses (cf. art. 5o, LXIII, CF), acarretando até mesmo a fixação de regime prisional aberto ou ainda a substituição da pena privativa de liberdade por restritiva de direitos, violando princípio de proporcionalidade, uma vez que tais sanções são destinadas aos delitos de menor gravidade, não àqueles que foram considerados hediondos ou equiparados.
+O Tribunal local, por sua vez, manifestou-se nos seguintes termos (fl. 308):
+Logo, há uma velha regra de Direito que diz que "quem pode o mais, pode o menos". Assim, no caso ora sob exame, se aos crimes de tráfico de entorpecentes não são permitidos a concessão de fiança, nem da obtenção de graça ou anistia, é óbvio que o menos será o regime prisional. Portanto, se para tais crimes o regime obrigatório é o inicial fechado, não é possível conceder-se regime mais brando aos apenados por tais crimes.
+A Terceira Seção deste STJ entende ser possível, desde que com base em motivação concreta, estabelecer regime prisional mais gravoso do que aquele que corresponderia, como regra geral, à pena aplicada. Tal fundamentação, porém, deve ser aferida caso a caso (HC n. 362.535/MG, Terceira Seção, Rel. Min. Felix Fischer, Rel. para o acórdão Min. Maria Thereza de Assis Moura, DJe de 8/3/2017).
+Na hipótese em apreço, vislumbra-se flagrante ilegalidade, haja vista que as instâncias ordinárias utilizaram argumentos baseados na gravidade abstrata do crime, na hediondez do tráfico e nos genéricos efeitos sociais da criminalidade para a fixação de regime prisional mais severo, o que é defeso em vista da jurisprudência das Cortes Superiores, devendo o paciente iniciar o cumprimento de pena em regime aberto, o qual condiz com a quantidade de pena imposta, conforme o art. 33, § 2º, c, do CP, . Nesses termos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA INFERIOR À 08 (OITO) ANOS DE RECLUSÃO. REGIME FECHADO FIXADO COM BASE NA HEDIONDEZ E NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+ ..
+III - No presente julgado, constata-se que a pena-base foi fixada no mínimo legal, pois consideradas favoráveis as circunstâncias judiciais e além disso, os pacientes são primários, bem como a pena não excede o patamar de oito anos. Destarte, o acórdão impugnado não apresentou nenhum fundamento concreto para o agravamento do regime, a não ser a hediondez e a gravidade abstrata do delito, razão pela qual, conclui-se que os pacientes fazem jus ao regime semiaberto, para início de cumprimento de pena, ex vi do art. 33, § 2º, "b", e § 3º, do CP. Agravo regimental desprovido (AgRg no HC 459.051/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/09/2018, DJe 21/09/2018).
+Faz jus ainda o paciente à substituição da pena privativa de liberdade por restritivas de direitos, uma vez preenchidos todos os requisitos legais do art. 44 do CP. Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE NÃO EXPRESSIVA. POSSIBILIDADE DE REDUÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA. VIABILIDADE. REDIMENSIONAMENTO DA PENA. REGIME PRISIONAL FECHADO E SUBSTITUIÇÃO. POSSIBILIDADE DE FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Em relação ao regime e à substituição, tratando-se de réu primário, condenado à pena privativa de liberdade inferior a 4 anos de reclusão, com a análise favorável das circunstâncias judiciais, além da quantidade não expressiva de drogas, o paciente faz jus ao regime aberto, a teor do disposto no art. 33, §§ 2º e 3º, do Código Penal, assim como resulta cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos (HC 410.095/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017).
+Ante o exposto, concedo o habeas corpus para estabelecer o regime aberto para início do cumprimento de pena e substituir a pena corporal por restritivas de direitos, a ser fixada pelo juízo da execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
