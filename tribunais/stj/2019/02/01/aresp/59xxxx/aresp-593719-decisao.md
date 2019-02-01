@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+PRESTAÇÃO DE SERVIÇOS.COBRANÇA. 1. O prazo prescricional para o ajuizamento da ação de cobrança de prestações referentes a curso profissionalizante e serviços de agenciamento é de cinco anos, a contar do vencimento de cada uma, nos termos do art. 206, § 5º, inc. I do Código Civil. 2. Havendo comprovação de que as aulas foram prestadas, bem como não havendo pedido de desistência do curso ou do serviço, com a incontroversa prova do inadimplemento do apelante, de rigor a condenação ao pagamento das mensalidades. 3. Os serviços de agenciamento e elaboração de book que a autora não demonstrou que tenham sido prestados não merecem ser ressarcidos. 4. Se a correção monetária prevista contratualmente em percentual fixo não foi ali inserida com tal intuito, em evidente prejuízo ao consumidor, merece ser afastada. Recurso parcialmente provido (fl. 191).
+A petição de recurso especial aponta ofensa aos arts. 206, § 5º, I, do CC, alegando, em síntese, ocorrência de prescrição para cobrança da dívida, ao argumento de que, "como o inadimplemento ocorreu a partir da 3ª parcela, com vencimento em 05/04/2006, verificou-se a partir daí o vencimento antecipado de todas as parcelas do contrato, tendo nesta data surgido a pretensão para cobrança da dívida e, consequentemente, iniciado a fluência do prazo prescricional para cobrança do contrato" (fl. 214).
+Contrarrazões às fls. 219/221.
+É o relatório. Passo a decidir.
+Nos temos do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+O tribunal de origem decidiu que "o prazo prescricional para o ajuizamento da ação de cobrança, no caso em testilha, é de cinco anos, a contar do vencimento de cada uma das prestações, nos termos do art. 206, § 5º, inciso I, do Código Civil de 2002.." (fl. 193).
+O julgado está a salvo. Com efeito, o prazo prescricional deve ser contado do vencimento de cada mensalidade. Confiram-se, a propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. MENSALIDADES ESCOLARES. FATO OCORRIDO NA VIGÊNCIA DO CC/1916. PRAZO PRESCRICIONAL ÂNUO.
+1. O lapso prescricional para a cobrança de mensalidades escolares vencidas antes da entrada em vigor do novo Código Civil é ânuo, contando-se a partir do vencimento de cada uma das parcelas, conforme estabelecido no art. 178, § 6º, VII, do CC/1916. Às mensalidades vencidas após 11/1/2003 aplica-se o prazo quinquenal, disposto no art. 206, § 5º, I, do CC/2002.
+2. Agravo regimental desprovido (AgRg no REsp 1151952/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe, 1.2.2012).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. COBRANÇA DE MENSALIDADES ESCOLARES. PRESCRIÇÃO.
+1. O prazo prescricional da pretensão de cobrança de mensalidades escolares vencidas até 11.01.2003 - entrada em vigor do novo Código Civil - é o estabelecido no art. 178, § 6º, VII do CC/16. Para as mensalidades vencidas após a referida data, aplica-se o prazo quinquenal, disposto no art. 206, § 5º, I do CC/02.
+2. Agravo regimental provido (AgRg no Ag 1271678/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe 16.8.2010).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE SERVIÇOS. MENSALIDADES ESCOLARES. PRESCRIÇÃO DE OFÍCIO. INOCORRÊNCIA. QUESTÃO SUSCITADA EM APELAÇÃO. PRAZO PRESCRICIONAL ÂNUO. MULTA MORATÓRIA. IMPOSSIBILIDADE. ÓBICE NAS SÚMULAS 5 E 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I - Compulsando os autos, verifica-se que fora suscitada a prescrição em sede de recurso de Apelação.
+II - O prazo prescricional para o ajuizamento da ação de cobrança de mensalidades escolares é de um ano, contado do vencimento de cada uma.
+III - No tocante a multa moratória, vale ressaltar que a convicção a que chegou o Acórdão decorreu da análise do conjunto fático-probatório, bem como das cláusulas contratuais, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz das Súmulas 5 e 7 desta Corte.
+Agravo Regimental improvido (AgRg no Ag 1049678/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe, 6.4.2009).
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
