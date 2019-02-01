@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+CONTRATO VERBAL - Classificação de sacas de café - Interdição do contratante de conhecimento do contratado - Contrato nulo Artigo 166, inciso I, do Código Civil - Vedação ao enriquecimento sem causa - Artigo 181 do Código Civil - Recurso provido.
+Opostos os embargos de declaração, esses foram rejeitados.
+Em suas razões do recurso, a parte recorrente alegou que o acórdão negou vigência aos artigos 82, I, 84 e 246 do Código de Processo Civil de 1973, bem como a existência de dissídio jurisprudencial, tendo em vista que a não intervenção do Ministério Público em processo que envolva interesses de incapaz gera nulidade. Aduziu contrariedade ao artigo 405, I, do CPC/73, visto que uma das testemunhas era impedida de testemunhar.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse merece provimento.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Da análise dos autos, verifico que o acórdão recorrido vai de encontro à jurisprudência pacífica deste Superior Tribunal de Justiça, conforme se depreende da leitura do seguinte trecho (fl. 444 e-STJ):
+"Cuida-se de apelação, respondida e bem processada, por meio da qual quer ver a apelante reformada a r. sentença de primeiro grau, da lavra do MM. Juiz César Santos Peixoto, que julgou improcedente a ação de cobrança. Entendeu não ter havido prova do contrato de prestação de serviços. Insiste o autor ter celebrado contrato verbal com o réu para classificação de 7.000 (sete mil) sacas de café e pretende, com a presente ação, ver satisfeito o seu crédito. Defende, em síntese, haver prova da efetiva contratação e prestação dos serviços.
+Apresentou a douta Procuradoria ilustrado parecer opinando pela anulação do processo diante da não intervenção do Ministério Público, desde o seu início. No mérito, opinou pela extinção do processo, sem resolução do mérito, por impossibilidade jurídica do pedido, porquanto o réu era incapaz à época da celebração do contrato.
+É o relatório.
+Primeiramente, cumpre destacar que o ingresso do douto Procurador de Justiça nos presentes autos sanou qualquer nulidade.
+Neste sentido:"
+Com efeito, ao contrário das razões dispendidas pelo Tribunal de origem, destaco que é assente nesta Corte que a não intervenção do Ministério Público, nos moldes do estabelecido pelos artigos 82, I, 84 e 246 do CPC/73, atuais 178, II, e 279, somente não gera nulidade caso não seja demonstrado prejuízo algum aos interesses dos incapazes.
+Da simples leitura do julgado percebe-se que houve claro prejuízo à parte menor, visto que reformada a sentença para julgar procedente o pedido de cobrança pelos serviços prestados a título de avaliação de café.
+Ainda, a intervenção do Ministério Público em segundo grau somente sanaria a nulidade do processo caso esse se manifestasse ratificando a ausência de prejuízo da parte, o que decerto não ocorreu, visto que pleiteou a declaração de nulidade do processo (fls. 432/436 e-STJ).
+Assim é o entendimento deste Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA. NULIDADE. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. IRREGULARIDADE NO PRIMEIRO GRAU NÃO VERIFICADA NO SEGUNDO GRAU. AUSÊNCIA DE PREJUÍZO. SANEAMENTO. PRECEDENTES. COMPRA E VENDA. VALIDADE. CONTROVÉRSIA SOBRE OS PODERES RECEBIDOS POR EMPRESA CONTRATADA PARA EFETUAR A VENDA DE IMÓVEL. ALEGAÇÃO DE CORRETAGEM. VERIFICAÇÃO. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não há omissão na decisão recorrida que analisa expressamente a questão suscitada pela parte, mas decide em sentido contrário à pretensão recursal. Caso concreto no qual foi afastada a caracterização do contrato de corretagem com base na finalidade do contrato celebrado com terceiro para a venda dos imóveis.
+2. Conforme a jurisprudência desta Corte, não há nulidade na ausência de intervenção do Ministério Público no processo quando ocorre a intervenção em segundo grau de jurisdição ratificando a ausência de prejuízo da parte. Precedentes.
+3. É inviável o exame da validade do contrato de compra e venda celebrado por terceiro que teria infringido contrato e excedido os poderes outorgados, apenas para a corretagem e não para a venda do imóvel, por implicar o reexame de fatos e do contrato, óbice das Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 763.199/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2017, DJe 1/3/2017)
+PROCESSUAL CIVIL. FRAUDE À EXECUÇÃO. CONFIGURAÇÃO. AUSÊNCIA DE CITAÇÃO VÁLIDA. PLENA CIÊNCIA POR PARTE DO DEVEDOR DA EXECUÇÃO. INTERESSE DE MENORES. INEXISTÊNCIA DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO. NÃO DEMONSTRAÇÃO DE PREJUÍZO AOS INCAPAZES. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO-DEMONSTRADO.
+1. Diferença marcante entre a fraude contra credores e fraude de execução situa-se na categoria do interesse violado com a prática do ato fraudulento. Com efeito, a primeira tem por violado interesse de natureza privada, qual seja o interesse privado do credor. De sua vez, na fraude de execução o interesse infringido é o da própria atividade jurisdicional, ou seja, macula-se o prestígio da própria jurisdição ou do Estado-Juiz.
+2. De regra, a caracterização da fraude de execução exige a ocorrência de litispendência, esta caracterizada pela citação válida do devedor no processo de conhecimento ou de execução.
+3. In casu, há que se ater à peculiaridade levada em conta pela decisão recorrida, qual seja, quando da alienação do bem, portanto, no momento caracterizador da fraude, o devedor-executado tinha pleno conhecimento do ajuizamento da execução e, como forma de subtrair-se à responsabilidade executiva decorrente da atividade jurisdicional esquivou-se da citação de modo a impedir a caracterização da litispendência e nesse período adquiriu um bem imóvel em nome dos filhos.
+4. Inegável, portanto, que no caso em questão o ato fraudulento do executado maltratou não apenas o interesse privado do credor, mas sim a eficácia e o próprio prestígio da atividade jurisdicional, razão por que o ato de alienação de bens praticado pelo executado, ainda que anteriormente à citação, ontologicamente analisado no acórdão recorrido, está mesmo a caracterizar fraude de execução, impondo, como consequência a declaração de sua ineficácia perante o credor-exequente.
+5. A intervenção do Ministério Público nas causas em que figurem interesses de menores torna-se prescindível nas hipóteses em que não restar demonstrada a ocorrência de prejuízo a estes.
+6. A transcrição das ementas dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+7. Recurso especial não conhecido.
+(REsp 799.440/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 15/12/2009, DJe 2/2/2010)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. INCAPACIDADE DA PARTE. DEFICIÊNCIA MENTAL. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. NULIDADE DOS ATOS. JURISPRUDÊNCIA DO STJ.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. É obrigatória, sob pena de nulidade, a intervenção do Ministério Público nas causas em que há interesse de incapaz, em face do que dispõem os arts. 82, I, e 246 do Código de Processo Civil.
+Jurisprudência do STJ.
+3. Embargos de declaração acolhidos para se anular julgamento anterior.
+(EDcl nos EDcl no REsp 1324308/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 6/8/2015, DJe 12/8/2015)
+Diante do reconhecimento da nulidade do feito, considero prejudicada a análise da alegada contrariedade ao artigo 405, I, do CPC/73.
+Em face do exposto, dou provimento ao recurso especial e declaro a nulidade dos atos processuais ocorridos após o oferecimento da contestação, determinando a intimação do Ministério Público para intervir no processo.
+Intimem-se.
