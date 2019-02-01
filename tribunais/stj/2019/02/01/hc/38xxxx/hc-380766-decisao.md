@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+De acordo com o aduzido na peça acusatória ofertada pelo Ministério Público, o denunciado, ora paciente, Procurador-Chefe do Município de Monte Alto (SP), de forma ilegal, teria concorrido juntamente com os outros codenunciados para a prorrogação dos contratos de prestação de serviços advocatícios firmados entre os profissionais [NOME] e [NOME] e o Município de Monte Alto(SP), uma vez que se teria se manifestado pela prorrogação de tais contratos, sendo a referida conduta capitulada no art. 92, caput, da Lei 8.666/1993, por 4 (quatro) vezes, e no art. 1º, I, do Decreto-lei 201/1967, por 4 (quatro) vezes, c/c os arts. 29, 69 e 71 do Código Penal.
+Distribuído o feito à 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, seguiram-se os trâmites legais e, na sequência, a denúncia foi recebida.
+Nas razões do presente remédio heróico, afirmou-se que diversas foram as razões que culminaram com a prorrogação dos contratos dos advogados contratados. Em continuidade, a defesa aduziu que o departamento jurídico do Município de Monte Alto nem sequer contava, administrativamente, com estrutura própria, tratando-se de modesto departamento jurídico que não configurava "órgão jurídico da administração pública", mas sim mera estrutura de assessoria à Prefeitura Municipal. No mais, afirmou que diversos problemas teriam sido herdados da gestão municipal anterior.
+Além disso, argumentou que a peça acusatória apresentada pelo Ministério Público não continha a necessária e indispensável descrição da conduta dolosa ou culposa atribuída ao paciente. Com isso, o paciente não poderia figurar no polo passivo da mencionada ação penal simplesmente porque, na qualidade de advogado, emitiu parecer no sentido de prorrogação de contrato de um processo prévio de dispensa de licitação, somente porque o Ministério Público entendeu ilegal.
+Outrossim, expôs inexistir "qualquer ilegalidade na inexigibilidade de licitação, ou seja, no nascedouro do fato jurídico, como restou comprovado alhures, também não há ilegalidade na prorrogação das contratações, visto que as cláusulas 5.2 dos respectivos contratos em questão as autorizavam, corroborando assim, com o art. 57, da Lei de Licitações".
+De mais a mais, sustentou a necessidade de dolo específico para caracterização da conduta criminosa, o qual não teria ocorrido na hipótese em apreço.
+Diante disso, pleiteou, em tema liminar e no mérito, o trancamento da ação penal.
+O pleito urgente foi indeferido (e-STJ fls. 864/866).
+Informações prestadas às e-STJ fls. 872/897.
+Parecer ministerial pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem de habeas corpus (e-STJ fls. 900/905).
+É, em síntese, o relatório.
+Conforme informações extraídas do sítio eletrônico do Tribunal de origem, em 19/9/2018 foi proferida sentença julgando improcedente a denúncia, nos autos da Ação Penal n. 0001684.35.2014.8.26.0368, sendo o paciente absolvido das imputações que contra ele foram formuladas.
+Desse modo, é patente que a presente impetração está prejudicada, por perda superveniente de objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
