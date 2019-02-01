@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] LOYOLA, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que não há fundamentação concreta e idônea na decisão que decretou a prisão preventiva da paciente e que ausentes os indícios de autoria e materialidade delitiva.
+Aduz, para tanto, que "que a denúncia não trouxe em seu conjunto probatório qualquer índice de participação das indiciadas, além de meras acusações sem fundamentos em provas concretas. Acusa-se estas apenas por serem "mulheres de traficantes"" (fl. 11).
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja revogada a prisão decretada em desfavor da paciente ou sua substituição por prisão domiciliar tendo em vista que a paciente possui filhos menores de doze anos e está grávida.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, o writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+Segundo consta nos autos, a paciente teve sua prisão preventiva decretada após longa investigação policial que desbaratou uma suposta organização criminosa especializada no tráfico de drogas na Região Metropolitana de Vitória. Afirma o Ministério Público que a dita organização seria um braço capixaba da facção criminosa conhecida como "Primeiro Comando da Capital" ou "PCC", que por aqui teria adotado a nomenclatura de "Primeiro Comando de Vitória" ou "PCV".
+Com base em diversas interceptações telefônicas, o Ministério Público ofereceu denúncia contra 19 pessoas, incluindo a paciente, por, supostamente, estarem todos associados para a comercialização de entorpecentes, razão pela qual entendeu por representar pela preventiva para manutenção da ordem pública.
+Indo mais além, em consulta ao INFOPEN verificamos que a paciente não deu entrada no sistema prisional até a presente data.
+Observamos também na supramencionada consulta que a paciente responde junto com seu companheiro [NOME] outra ação penal (0006387-04.2016.8.08.0024) pelo suposto crime de tráfico de drogas.
+Continuando, em relação à substituição da prisão preventiva da paciente pela domiciliar na forma do artigo 318, inciso III, IV e V do Código de Processo Penal, entendo que cabe aqui uma necessária cautela, na aplicação das inovações trazidas pela Lei 13.257/2016, vez que estas devem ser aplicadas restritivamente as singularidade que cada caso apresenta, antes de justificar a excepcional concessão do benefício da prisão domiciliar, respeitando o verbo "poderá", constante no artigo.
+Não obstante, a gravidade do crime (tráfico de drogas), efetivamente revela que a prisão domiciliar poderia importar na maior exposição dos menores, filhos da embargante, às circunstâncias nefastas que são ínsitas à narcotraficância, de modo que a negativa judicial ao pedido defensivo neste momento de análise prefaciai reflete a exceção contemplada no multicitado julgamento do HC n.º 143641 pela Suprema Corte.
+Em igual sentido já decidiu o Colendo o Superior Tribunal de Justiça. A saber:
+ ..
+Ademais, não se pode desconsiderar que a paciente, apesar de dente dá ordem prisional existente contra si, mantém-se foragidt da iustiça, fazendo pesar sob a mesmo a presunção de que almeja ce furtar à aplicação da lei, de modo que, também sob essa ótica, encontra-se justificada a ordem prisional, nesta prefaciai análise.
+niante de todo o exposto, INDEFIRO o pedido de liminar" (fls. 133-135).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
