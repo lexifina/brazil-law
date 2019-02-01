@@ -1,0 +1,21 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. OMISSÃO DO JULGADO. INEXISTÊNCIA.
+1. O acórdão embargado não é omisso, porquanto contém ampla e suficiente fundamentação no sentido de que, em conformidade com o decidido pela Terceira Seção desta Corte Superior no recente julgamento do REsp n. 1.557.461/SC, a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+2. Não evidenciados vícios no julgado embargado, não tem cabimento a oposição dos embargos de declaração para fins de prequestionamento de matéria constitucional.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trago a julgamento os embargos de declaração opostos pelo Ministério Público Federal a este acórdão da Sexta Turma (fl. 141):
+AGRAVO REGIMENTAL. HABEAS CORPUS. CONCESSÃO LIMINAR DA ORDEM. EXECUÇÃO PENAL. NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. MARCO INICIAL PARA BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.557.461/SC, ocorrido na data de 22/2/2018, modificou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+2. Agravo regimental improvido.
+Aponta o embargante omissão quanto à interpretação dos princípios da segurança jurídica e da individualização da pena (fl. 154), argumentando que o entendimento adotado no REsp n. 1.557.461/SC afronta diretamente os citados postulados, bem como que é firme a posição adotada pelo Supremo Tribunal Federal no sentido de que a data-base a ser considerada para fins de concessão de benefícios executórios será a do trânsito em julgado da nova condenação (fls. 151/152).
+Requer que seja sanada a dita omissão, visando ao prequestionamento do art. 5º, XXXVI e XLVI, da CF/88.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Os embargos não merecem acolhimento.
+É cediço que os embargos declaratórios somente podem ser utilizados quando, na decisão, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o juiz ou tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+O acórdão ora embargado não é omisso, porquanto contém ampla e suficiente fundamentação no sentido de que, em conformidade com o decidido pela Terceira Seção desta Corte Superior no recente julgamento do REsp n. 1.557.461/SC, a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+Outrossim, há aqui o firme entendimento de que, não evidenciados vícios no julgado embargado, não tem cabimento a oposição dos embargos de declaração para fins de prequestionamento de matéria constitucional.
+Ante o exposto, rejeito os embargos de declaração.
