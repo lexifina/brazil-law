@@ -1,0 +1,43 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. ART. 303 E 306 DO CTB. ART. 89 DA LEI N. 9.099/1995. SUSPENSÃO CONDICIONAL DO PROCESSO. PARCIAL PROCEDÊNCIA DA ACUSAÇÃO EM SEGUNDA INSTÂNCIA. NECESSIDADE DE OFERECIMENTO DA PROPOSTA. SÚMULA 337/STJ. PRECEDENTES.
+Recurso especial provido.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra acórdão proferido pela Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, no processo n. 0001712-11.2015.8.26.0451, rejeitou seus embargos de declaração, conforme termos da seguinte ementa (fl. 232):
+EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE PROPOSTA DA SUSPENSÃO CONDICIONAL DO PROCESSO - EXEGESE DO ENUNCIADO 337 DO STJ - INAPLICABILIDADE AO CASO CONCRETO - QUESTÃO ACOBERTADA PELO MANTO DA PRECLUSÃO - NULIDADE RELATIVA QUE DEVERIA SER VENTILADA NA PRIMEIRA OPORTUNIDADE, O QUE NÃO VEIO A OCORRER, MAS SOMENTE AGORA, APÓS O V. ACORDÃO - PRECEDENTE DO STJ - EMBARGOS REPELIDOS.
+Anteriormente, esse órgão julgador havia dado provimento ao apelo ministerial para condená-lo à pena total de 8 meses de reclusão pela prática de condutas descritas nos arts. 303 e 306, na forma do Código de Trânsito Brasileiro na forma do art. 70 do Código Penal, conforme termos da seguinte ementa (fl. 210):
+APELAÇÃO CRIMINAL - CRIMES DE TRÂNSITO - LESÕES CORPORAIS CULPOSAS E DE EMBRIAGUEZ AO VOLANTE - SENTENÇA ABSOLUTÓRIA - RECURSO MINISTERIAL EM BUSCA DA CONDENAÇÃO - NECESSIDADE - PROVA SUFICIENTE - TESTE DO ETILÔMETRO COMPROVA A EMBRIAGUEZ - LAUDO MÉDICO ATESTA A LESÃO CORPORAL GRAVE SOFRIDA PELA VÍTIMA - E PROVA ORAL CONFIRMA A AUTORIA DO SENTENCIADO - CONDENAÇÃO DECRETADA - PENAS DOSADAS - REGIME ABERTO - PENA ALTERNATIVA APLICADA - RECURSO MINISTERIAL PROVIDO.
+O recorrente alega, nas suas razões recursais, em síntese, que o acórdão recorrido teria negado vigência ao art. 89 da Lei n. 9.099/1995, porquanto a condenação teria sido feita em patamar inferior a um ano. Com o advento do édito condenatório o recorrente foi condenado apenas pelas condutas descritas nos arts. 303 e 306 do Código de Transito Brasileiro à pena de 8 meses de detenção.
+Sustenta que a capitulação inicial da denúncia não permitiria a suspensão condicional do processo, seis que a somatória da pena mínima era superior a 1 ano. Porém, o quantum da pena imposta foi benéfico. Assim, nos termos das Súmulas 243 e 337/STJ seria cabível a suspensão condicional do processo quando a pena cominada fosse inferior a um ano.
+Argumenta ser ilegítimo falar em preclusão da matéria, na medida em que naquela oportunidade, à luz da capitulação inicial, o somatório das penas mínimas superava um ano (fls. 255/264).
+Contrarrazões às fls. 266/276.
+O Ministério Público Federal opina pelo não conhecimento do recurso especial (fls. 289/290).
+É o relatório.
+Presentes os requisitos de admissibilidade, em relação à suposta violação do art. 89 da Lei n. 9.099/1995, importante destacar que conforme compreensão jurisprudencial dominante, nos casos de desclassificação ou parcial procedência, ainda que em segundo grau, não se pode suprimir o direito à suspensão condicional do processo quando os delitos remanescentes possuem pena mínima não superior a 1 ano.
+Esse o teor da Súmula 337/STJ.
+No mesmo sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. FALSIDADE MATERIAL, FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO. RECEBIMENTO DA DENÚNCIA. MODIFICAÇÃO DA CAPITULAÇÃO. POSSIBILIDADE APENAS EM HIPÓTESES EXCEPCIONAIS. AFERIÇÃO. NECESSIDADE DE AFERIÇÃO DE MATÉRIA FÁTICO-PROBATÓRIA.
+1. A jurisprudência desta Corte não tem admitido a alteração da capitulação atribuída à conduta na denúncia, salvo em situações excepcionalíssimas, nas quais a discrepância entre os fatos narrados e a tipificação atribuída pelo Parquet é constatável ictu oculi e a sua manutenção importa na supressão definitiva de algum benefício de natureza processual ou penal.
+2. No caso, entretanto, não se constata a existência de excesso na denúncia ou a absoluta falta de correlação entre os fatos narrados e a tipificação atribuída na denúncia; pelo contrário, há plausibilidade na capitulação efetivada.
+3. Após a instrução processual, poderá o Juiz de primeiro grau, se assim entender, corrigir a tipificação e, se for o caso, oportunizar o oferecimento da proposta de suspensão condicional do processo, segundo a inteligência da Súmula 337/STJ.
+4. A análise do elemento subjetivo da conduta do paciente é inviável em habeas corpus, ante a necessidade de dilação probatória, incompatível com a via eleita.
+5. Ordem denegada.
+(HC n. 152.779/PE, de minha relatoria, Sexta Turma, DJe 10/10/2011)
+HABEAS CORPUS. PEDIDO DE EXTENSÃO FORMULADO. CONDENAÇÃO EM 1º GRAU POR CORRUPÇÃO PASSIVA. DESCLASSIFICAÇÃO EM 2º GRAU PARA ADVOCACIA ADMINISTRATIVA. APLICAÇÃO DO ENUNCIADO SUMULAR 337/STJ. ENVIO DOS AUTOS AO MINISTÉRIO PÚBLICO. ANÁLISE DOS REQUISITOS PREVISTOS DO ARTIGO 89 DA LEI N. 9.099/1995. IDENTIDADE DE SITUAÇÕES PROCESSUAIS EM RELAÇÃO AOS CORRÉUS. LIMINAR RATIFICADA.
+1. A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que os corréus estejam na mesma condição fático-processual daquele já beneficiado.
+2. Verificada a identidade fático-processual entre a situação dos corréus, deve ser aplicado o enunciado sumular 337/STJ, pois é cabível a suspensão condicional do processo na desclassificação do crime e na procedência parcial da pretensão punitiva, mesmo que a nova tipificação ocorra em 2º grau.
+3. Ordem concedida para deferir a extensão formulada e, assim, oportunizar ao Ministério Público que avalie a possibilidade de oferecimento da proposta de suspensão condicional do processo à paciente. Liminar ratificada.
+(HC n. 448.510/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/6/2018)
+Essa questão foi objeto da seguinte consideração por ocasião do julgamento dos embargos de declaração (fl. 233):
+ ..
+A questão ventilada está alcançada pela preclusão. Ao tempo da oferta da denúncia, o Ministério Público não facultou ao réu a benesse do art. 89, da Lei nº 9.099/95, por entender incabível (fls. 42), sendo a peça matriz recebida (fls. 45), quedando-se inerte o Defensor Público na resposta ã acusação (fls. 49/50), ou seja, não postulando o favor legal da suspensão condicional do processo, de sorte que renunciou a ele tacitamente. Nem ao tempo dos memoriais veio a ser o pedido formulado (fls. 126/134).
+Daí porque o pleito é insustentável, vez que não impugnado em tempo hábil e, por se tratar de nulidade relativa, que deveria ter sido suscitada na primeira oportunidade, fica a questão, de fato, acobertada pelo manto da preclusão, na forma do art. 571, inciso II, do Código de Processo Penal. A este teor: STJ, RHC 92258/PA, Rel. Min. RIBEIRO DANTAS, DJ de 05/03/2018; STJ, RHC 73919/PA, Rel. Min. JORGE MUSSI, DJ de 23/09/2016.
+ ..
+De fato, assiste razão ao recorrente. A suspensão condicional do processo prevista no dispositivo em questão constitui direito público subjetivo do réu, não sujeita à preclusão.
+Inicialmente denunciado pelas condutas descritas nos arts. 303, parágrafo único, c/c 302, § 1º, I, e 306, todos do Código de Trânsito Brasileiro (fl. 3). A pretensão ministerial foi julgada improcedente em primeira instância (fls. 161/165) e só em segunda instância, a ação penal foi julgada procedente nos seguintes termos (fls. 215/216):
+ ..
+As penas ficam, assim, tornadas definitivas na seguinte conformidade: para o crime previsto no artigo 303, do CTB, em 06 (seis) meses de detenção, mais suspensão da habilitação para dirigir veículo automotor pelo prazo de 02 (dois) meses (CTB, artigo 293); e para o crime do artigo 306, em 06 (seis) meses de detenção, mais 10 (dez) dias-multa e suspensão da habilitação para dirigir veículo automotor por 02 (dois) meses.
+Considerando o concurso formal, que integra a irresignação ministerial (fls. 123 e 159), eleva-se a pena de um dos crimes na razão de 1/3 (um terço), tendo em conta especialmente a gravidade das lesões suportadas pela vítima, ficando tornada, assim, definitiva em 08 (oito) meses de detenção, mais 11 (onze) dias-multa e suspensão da habilitação pelo prazo de 02 (dois) meses e 20 (vinte) dias.
+ ..
+Desse modo, considerando que as penas mínimas dos delitos dos arts. 303 e 306 do Código de Trânsito Brasileiro totalizam 1 ano, seria necessário remeter os autos ao Ministério Público para manifestação sobre o sursis processual.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos a origem para oferecimento da proposta de sursis processual, nos termos do art. 89 da Lei n. 9.099/1995.
+Publique-se.
