@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAFAELA VENÂNCIO PAULINO DE SOUZA, contra acórdão do Tribunal de Justiça do Estado de São Paulo que não conheceu do recurso em sentido estrito interposto contra a sentença condenatória. O julgado recebeu esta ementa:
+Recurso em sentido estrito. Interposição contra sentença condenatória. Inadequação da via eleita. Art. 593, I, do CPP. Erro grosseiro. Inaplicabilidade do princípio da fungibilidade recursal. Recurso não conhecido.
+A paciente foi condenada, em razão da prática da conduta descrita no art. 33, § 4º, da Lei n. 11.343/2006, a 2 anos e 6 meses de reclusão em regime inicial fechado e ao pagamento de 250 dias multa.
+Alega o impetrante que a paciente teria direito: a) à modificação do regime inicial de cumprimento de pena, do fechado para o aberto, pois foi condenada a pena inferior a 4 anos; b) à conversão da pena privativa de liberdade em restritiva de direito; ou c) a poder cumprir a pena em regime domiciliar, pois é mãe de 3 crianças com idade inferior a 12 anos incompletos
+É o relatório. Decido.
+As matérias relativas à modificação do regime inicial de cumprimento de pena, de conversão da pena privativa de liberdade em restritiva de direitos e de cumprimento da pena em regime domiciliar não foram apreciadas no acórdão do Tribunal de origem, que não conheceu do recurso em sentido estrito (0000786-88.2017.8.26.0603). Assim, o exame dessas questões pelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (HC n. 273.799/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/5/2016; RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se. Intimem-se.
