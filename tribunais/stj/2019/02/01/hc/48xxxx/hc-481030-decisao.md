@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado de próprio punho e em benefício próprio por [NOME], apontando como autoridade coatora o eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos, de acordo com as informações prestadas pelo eg. Tribunal estadual às fls. 19-47, que a Defesa do paciente interpôs o Agravo em Execução Penal n. 7016347-13.2014.8.26.0482, em face da r. decisão proferida pelo Juiz da 1ª Vara das Execuções Criminais da Comarca de Presidente Prudente/SP, que indeferiu o pleito de progressão ao regime semiaberto, em razão da interrupção do lapso temporal para a concessão da benesse pelo cometimento de falta disciplinar de natureza grave.
+O eg. Tribunal a quo, em 28/4/2015, negou provimento ao recurso, conforme v. acórdão, a seguir ementado (fl. 24):
+"AGRAVO EM EXECUÇÃO PENAL PROGRESSÃO DE REGIME PRISIONAL. Ausência de requisito objetivo para o benefício da progressão de regime. Reinício da contagem de prazo para a progressão, uma vez que o apenado cometeu falta grave. A falta disciplinar de natureza grave, quando praticada pelo sentenciado recolhido sob o regime fechado de cumprimento de pena, acarreta a interrupção do prazo para obtenção do benefício de progressão Efeito secundário que resulta da impossibilidade de regressão do sentenciado, que já cumpre pena no regime fechado, para regime mais severo Interpretação teleológica do artigo 118 da LEP Medida respaldada no princípio da isonomia Prevalência do escopo da Lei de Execução Penal Lapso temporal que deve ser reiniciado após a prática da falta Decisão mantida.
+RECURSO DESPROVIDO."
+No presente writ, o paciente/impetrante afirma, em síntese, que não praticou a falta grave reconhecida em seu desfavor, pois "eu não desacatei nenhum funcionário" (fl. 2).
+Informações apresentadas às fls. 19-47, a fim de aferir a competência desta Corte para apreciar o habeas corpus.
+É o relatório.
+Decido.
+O presente habeas corpus não comporta conhecimento, pois há evidente supressão de instância.
+Com efeito, de acordo com as informações prestadas pelo eg. Tribunal de origem, a questão ora apresentada não foi objeto de análise em segunda instância, pois o recurso interposto versou apenas sobre a interrupção do lapso temporal para a progressão como consequência do reconhecimento da falta grave.
+Assim, considerando que o eg. Tribunal a quo sequer analisou a matéria, mostra-se inviável a análise do mérito da questão por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+"PROCESSUAL PENAL. HABEAS CORPUS. NULIDADE. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. SUPRESSÃO DE INSTÂNCIA. TRIBUNAL DO JÚRI. CARTA APÓCRIFA. RELATOS SOBRE SUPOSTOS ILÍCITOS PARA MANIPULAÇÃO DO JULGAMENTO DESPROVIDOS DE QUALQUER RESPALDO. DESENTRANHAMENTO. NECESSIDADE. ORDEM CONCEDIDA.
+1. A tese referente à suposta violação ao princípio do juiz natural não foi debatida perante a instância de origem, sendo inviável o seu enfrentamento diretamente por esta Corte, sob pena de indevida supressão de instância.
+ .. " (HC 387.699/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 18/09/2017)
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. MEDIDA DE SEGURANÇA. INTERNAÇÃO. TESE CONSTRANGIMENTO ILEGAL ANTE O CUMPRIMENTO INTEGRAL DA PENA IMPOSTA. QUESTÃO NÃO APRECIADA NA ORIGEM. INEXISTÊNCIA DE INFORMES QUANTO À PRÉVIA FORMULAÇÃO DO PLEITO EM 1º GRAU. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE DESINTERNAÇÃO DO PACIENTE EM RAZÃO DA CESSAÇÃO DE SUA PERICULOSIDADE, ATESTADA EM LAUDO PERICIAL. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES FUNDAMENTADAMENTE EM RAZÃO DE CONFLITOS QUANTO À CONCLUSÃO DOS LAUDOS PERICIAIS REALIZADOS. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..  2. Quanto ao pleito de extinção da medida de segurança imposta, ante o cumprimento integral da pena, verifica-se que a tese não foi examinada pelo Tribunal de 2º Grau, não podendo, pois, ser apreciada por esta Corte Superior, sob pena de indevida supressão de instância.
+ ..  5. Habeas corpus não conhecido." (HC 200.831/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 16/04/2015)
+Em verdade, é possível inferir que o paciente busca assistência judiciária, de modo a obter, a partir de uma análise técnica, a concessão de eventuais benefícios na execução de sua pena. Considerando que tal medida depende da análise percuciente do processo execução que tramita perante a Comarca de Presidente Prudente/SP, a remessa dos autos à Defensoria Pública local afigura-se a medida mais adequada a resguardar eventual direito do apenado.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+Remetam-se cópias dos autos à Defensoria Pública do Estado de São Paulo.
+P. e I.
