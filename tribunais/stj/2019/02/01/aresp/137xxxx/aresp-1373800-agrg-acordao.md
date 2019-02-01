@@ -1,0 +1,22 @@
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. FUNDAMENTO INATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão assim resumida (fl. 254):
+AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+O agravante alega ser possível constatar que as razões do agravo infirmam pormenorizadamente a fundamentação encontrada  ..  para negar seguimento ao  ..  recurso especial. Nela  registrou-se  que a justificativa para não conhecer do recurso especial feita pelo Vice-Presidente coincidia com o próprio mérito da matéria que tratava de nulidade por negativa de prestação jurisdicional por não apreciação da tese defensiva (fl. 263).
+Diz que o fato de não ter registrado textualmente que estava manifestando inconformismo com o argumento de que se fazia necessária a incidência da Súmula 83 desta Corte não significa que não se tenha insurgido quanto à mesma (fl. 264). Argumenta, ainda, que, ao caso posto não há condições de aplicabilidade da mencionada súmula, uma vez que a esfera de sua incidência guarda relação com recursos especiais em que se discuta divergência (fl. 264).
+Assevera, no tocante à falta do prequestionamento, que não se havia como infirmar o  fundamento , porquanto o nascedouro da matéria, qual seja, a prescrição do delito catalogado no art. 312, do Código de Trânsito, teve implementado seu marco final no intervalo entre a sentença e o julgamento do acórdão guerreado pelo Recurso Especial (fl. 263).
+Defende que, por ser questão de ordem pública, a matéria objeto do recurso especial neste tópico permite-se a sua decretação a qualquer tempo, tanto que já por ocasião das contrarrazões do recurso especial e contraminuta ao agravo em recurso especial,  deixou-se  registrado que o apelo deveria ser conhecido e provido para reconhecer a extinção da punibilidade do delito em questão, em face da prescrição, aspecto que foi corroborado em parecer da ilustre Procuradoria-Geral da República (fl. 264).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmado.
+Com efeito, de acordo com o afirmado anteriormente, o agravo é manifestamente inadmissível.
+De fato, o Tribunal a quo obstou a subida do recurso especial com base em dois fundamentos distintos: Súmula 83/STJ e falta de prequestionamento (Súmulas 282 e 356/STF). O agravante, por seu turno, limitou-se a infirmar de forma genérica a falta de prequestionamento, quedando silente acerca da Súmula 83/STJ.
+Ademais, o fundamento de que a matéria suscitada no recurso carece de prequestionamento não foi devidamente impugnado, uma vez que o agravante não demonstrou o efetivo prequestionamento do tema no referido recurso, com a respectiva indicação dos trechos dos acórdãos em que fora abordada a matéria controvertida. Além disso, observa-se que não foram opostos embargos de declaração para que a referida controvérsia pudesse ser apreciada pelo Tribunal de origem.
+É certo, pois, que o agravante inobservou o disposto nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ, atraindo, ainda, a incidência da Súmula 182/STJ, por analogia. Sobre o tema, destaco: AgInt no AREsp n. 872.750/MS, Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/8/2016 e AgInt no AREsp n. 443.001/SP, Ministro Gurgel de Faria, Primeira Turma, DJe 18/8/2016.
+Ante o exposto, nego provimento ao agravo regimental.
