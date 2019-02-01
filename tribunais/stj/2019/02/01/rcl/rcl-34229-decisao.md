@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação constitucional, com pedido liminar, ajuizada por TELEMAR NORTE LESTE S.A. - EM RECUPERAÇÃO JUDICIAL - visando garantir a autoridade da decisão monocrática proferida no julgamento do AREsp nº 660.997/RJ.
+Afirmou a reclamante, de início, que esta Corte Superior, conheceu do referido agravo para dar provimento ao recurso especial por ela interposto, para julgar extinta, sem resolução de mérito, por ausência de interesse de agir, ação ordinária proposta em seu desfavor por [NOME] JOSINEA LEAL DE OLIVEIRA (processo nº 0012162-12.2007.8.19.0023).
+Esclareceu também que a decisão singular supra mencionada transitou em julgado após a rejeição de embargos de declaração ali opostos pelos ora interessados.
+Narrou, ainda, que, apesar de o Superior Tribunal de Justiça ter concluído, de modo expresso, pela extinção do feito, com menção inclusive à inversão dos ônus sucumbenciais, o Juízo da 1ª Vara Cível da Comarca de Itaboraí/RJ afrontou a autoridade do referido julgado ao exarar despacho com ele manifestamente incompatível, datado de 29/8/2016, determinando a intimação das partes litigantes a se manifestarem acerca da proposta de honorários periciais (e-STJ fl. 59), o que significaria dar indevido prosseguimento à fase de conhecimento do já extinto processo.
+Requereu, liminarmente, a suspensão do ato impugnado, sob o fundamento de que, no caso, o Juízo reclamado "concebeu um cenário de aberrante teratologia processual, determinando o prosseguimento de um processo que já havia sido extinto" (e-STJ fl. 11) , violando, assim, a um só tempo, "incontáveis princípios e regras elementares de direito, notadamente o princípio do duplo grau de jurisdição e da hierarquia entre as instâncias" (e-STJ fl. 11).
+Afirmou também a existência de perigo de dano irreperável, visto que o prosseguimento da demanda já extinta por esta Corte Superior poderia resultar no proferimento de sentença, o que iria de encontro aos princípios da economia processual, da celeridade e da duração razoável dos processos.
+Pediu, ao final, a procedência desta reclamação para que fosse cassada em definitivo a decisão impugnada.
+O pedido liminar foi deferido (e-STJ fls. 71/74), sendo requisitadas informações do Juízo reclamado bem como encaminhado os autos com vista ao Ministério Público Federal para o oferecimento de parecer.
+As informações foram prestadas às fls. 87/89 (e-STJ).
+A reclamante peticionou às fls. 91/93, esclarecendo que "o Juízo de primeiro grau, em juízo de retratação, deu cumprimento à decisão judicial proferida por essa e. Corte Superior", e que, por isso, "houve a perda superveniente do objeto desta reclamação" (e-STJ fl. 92).
+O Ministério Público Federal apresentou parecer, subscrito pelo Subprocurador-Geral da República [NOME], opinando pela extinção do processo, em virtude de restar, de fato, prejudicada a reclamação (e-STJ fls. 95/98).
+É o relatório.
+DECIDO.
+A presente reclamação está prejudicada.
+Com efeito, as informações prestadas pelo Juízo ora reclamado esclarecem que, "em virtude do agravo de instrumento interposto pela Ré, a d. Juíza Titular (..) verificou em 03/07/2017 o equívoco cometido, tendo proferido a decisão (..) acatando a decisão contida no V. Acórdão" (e-STJ fl. 89), e que, por tal motivo, "Tendo em vista a decisão (..) proferida pelo Superior Tribunal de Justiça que conheceu o agravo e deu provimento ao recurso especial e consequentemente extinguiu o feito por ausência de interesse de agir da parte agravada" restou determinada pela autoridade reclamada a baixa e o arquivamento do feito (fl. e-STJ 89).
+Posteriormente a essas informações, a própria reclamante protocolou petição noticiando esses mesmos fatos e, bem assim, afirmando que, "tendo em vista que o MM. Juízo de primeiro grau, em juízo de retratação, deu cumprimento à decisão judicial proferida por essa e. Corte Superior, houve a perda superveniente do objeto desta reclamação" (e-STJ fl. 92).
+Diante dessa nova situação, resta inequívoco que se encontra prejudicada a presente reclamação pela perda de seu objeto, pois, supervenientemente ao seu ajuizamento, a autoridade reclamada reconsiderou o ato judicial hostilizado e deu integral e fiel cumprimento à r. decisão desta Corte Superior cuja autoridade a ora reclamante pretendia garantir.
+Ante o exposto, julgo prejudicada a presente reclamação pela superveniente perda de seu objeto.
+Publique-se.
+Intimem-se.
+Arquive-se.
