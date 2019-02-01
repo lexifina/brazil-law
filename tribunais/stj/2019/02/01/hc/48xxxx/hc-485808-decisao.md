@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Juízo da Vara Única de São Félix do Xingu/PA, que teria imposto ao paciente medidas cautelares previstas no art. 319 do CPP (Inquérito Policial n. 50034969020164047000).
+Verifica-se dos autos que o paciente é investigado pela suposta prática do delito previsto no art. 312 do CP, sendo indeferido o pedido de prisão preventiva, mas com a imposição de medidas cautelares.
+Alega-se que a decisão de primeiro grau, datada de 28.02.2018, conta hoje com quase 10 meses de existência e persiste operando seus efeitos mesmo considerando que as investigações se encerraram há muito tempo e sequer foi oferecida denúncia em desfavor do paciente (fl.7).
+Afirma que foi impetrado na origem o Habeas Corpus, autuado com o n. 08078940320188140000, denegado, em 10/12/2018, ao entendimento de que não haveria excesso de prazo.
+Requer a concessão da ordem para que seja reconhecido o excesso de prazo com a revogação das medidas cautelares impostas, possibilitando a reintegração do paciente ao cargo público de Secretário Municipal de Administração na Prefeitura de São Félix do Xingu/PA.
+É o relatório.
+Primeiramente, cumpre observar que ao Superior Tribunal de Justiça compete, nos termos do art. 105, I, "c", da Constituição Federal, julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais.
+Na espécie, é inviável aferir a existência de aludida ilegalidade, pois a exordial não veio acompanhada da cópia do acórdão impugnado.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (STF - AgRg no HC 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ - HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/06/2011; STJ - HC n. 119.702/PE, Ministra Jane [NOME] (Desembargadora Convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+Ante o exposto, nos termos do artigo 210 do RISTJ, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
