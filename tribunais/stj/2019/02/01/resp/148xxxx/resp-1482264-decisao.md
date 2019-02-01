@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundado no art. 105, III, "a" e "c", da Constituição Federal contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+SENTENÇA. Nulidade. Prestação jurisdicional incompleta. Inocorrência. Fundamentação suficiente. Enfrentamento dos temas dentro dos limites da lide. Preliminar afastada.
+DIREITO AUTORAL Violação. Prova pericial que revela a sua ocorrência. Danos moral e patrimonial bem dimensionados. Sentença mantida. Recursos improvidos. (e-STJ, fl. 905)
+Nas razões do recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação aos artigos 5º, 22, 24, 28, 29, 49 e 103 da Lei 9.610/98. Sustenta, em síntese, que os danos morais arbitrados são irrisórios e que a sanção civil prevista no art. 103 da Lei de Direitos Autorais não possui natureza somente reparatória, mas também punitiva, pois visa a punir o transgressor, ou seja, o autor do ilícito autoral, assim não poderia ter sido afastada.
+Contrarrazões apresentadas às fls. 1.053/1.067.
+É o relatório. Decido.
+O Tribunal de origem, no que diz respeito aos danos morais, mediante análise soberana das provas carreadas aos autos, concluiu que o valor arbitrado foi adequado em razão das circunstâncias específicas do caso, acrescentou, ainda, que os ora recorrentes venderam os direitos autorais de vários mapas (cartas geográficas) para a empresa co-autora, que incluiu todos em seu Atlas, dando-lhes os respectivos créditos. Ademais, a cessão onerosa, não só de um, que se questiona, mas de todos, deu-se pelo valor de R$3.000,00 (três mil reais). À título elucidativo, colacionam-se os seguintes excertos do v. acórdão vergastado:
+"No entanto, entendo que o dano moral a cada um dos autores da obra foi bem dimensionado. Não há como dissociar no caso em julgamento o dano moral de seu conteúdo econômico.
+Explica-se: os autores Marco e Geraldo venderam os direitos autorais de vários mapas (cartas geográficas) para a empresa co-autora, que incluiu todos em seu Atlas, dando-lhes os respectivos créditos. A cessão onerosa, no entanto, não só de um, que se questiona, mas de todos, deu-se pelo valor de R$3.000,00. Razoáveis, assim, os valores arbitrados pela r. sentença (R$2.000,00 para os autores Marco e Geraldo como indenização por danos morais e R$3.000,00 para a co-autora como danos patrimoniais)." (e-STJ, fls. 909/910)
+No que diz respeito ao quantum indenizatório, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais, não é exorbitante nem desproporcional aos danos suportados pelos recorrentes. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE FOTOGRAFIAS SEM INDICAÇÃO DA AUTORIA. CONFIGURAÇÃO DO DANO MORAL. INDENIZAÇÃO. MODIFICAÇÃO DO QUANTUM. NECESSIDADE DE REANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A simples publicação de fotografias, sem indicação da autoria, como se fossem obra artística de outrem, é suficiente à caracterização do dano moral e a proteção dos direitos autorais sobre fotografias está expressamente assegurada, nos termos do inciso VII, do art. 7º, da Lei 9.610/98.
+2. É pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 624.698/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 04/08/2015, DJe 13/08/2015 - grifou-se)
+Com relação à sanção civil prevista no artigo 103 da lei 9.610/98, o Tribunal local, consignou, na oportunidade o seguinte:
+"Nesse passo, afasta-se a sanção civil contida no artigo 103 da lei de regência, seja porque bem aplicados os princípios da proporcionalidade e da razoabilidade, seja porque a empresa que edita a revista na qual se deu a divulgação não é parte no feito, não podendo por isso mesmo sofrer a sanção de busca e apreensão, já nem factível mais, aliás, nem sanção pecuniária no equivalente à circulação." (e-STJ, fl. 910)
+Por sua vez, da leitura das razões postas no apelo nobre, verifica-se que a ora recorrente deixou de refutar o fundamento ora transcrito. Nesse cenário, tem-se que o apelo nobre esbarra na Súmula n. 283/STF, pois não impugnou fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual nessa parte. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PERSONALIDADE JURÍDICA.DESCONSIDERAÇÃO. CITAÇÃO. NULIDADE. PRIMEIRO RÉU. CITAÇÃO POR EDITAL. LOCAL INCERTO. REEXAME. SÚMULA N. 7/STJ. SEGUNDO RÉU. COMPARECIMENTO ESPONTÂNEO. IMPUGNAÇÃO. SÚMULA N. 283/STF. FRAUDE CARACTERIZADA. INTENÇÃO DE NÃO PAGAR CREDORES. IMPUGNAÇÃO. ARTIGO 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A ausência de impugnação a fundamento bastante do acórdão estadual atrai o óbice de que trata o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+(..)
+4. Agravo interno não conhecido."
+(AgInt no REsp 1574437/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+(..)
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+6. Agravo interno a que se nega provimento, com majoração de honorários sucumbenciais."
+(AgInt no AREsp 1034507/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/08/2017, DJe 05/09/2017 - grifou-se)
+Pela alínea "c" do permissivo constitucional, melhor sorte não socorre ao apelo nobre, uma vez que o ora recorrente não realizou o cotejo analítico entre os vv. acórdãos em comparação, limitando-se a transcrever cópia de ementas. No entanto, a uníssona jurisprudência desta eg. Corte firmou-se no sentido de que a mera transcrição de ementas não é suficiente para a comprovação da divergência jurisprudencial.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMINATÓRIA. PLANO DE SAÚDE. CUSTEIO DO TRATAMENTO DO SEGURADO. RECUSA. NATUREZA ABUSIVA. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1118727/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/08/2017, DJe 06/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ERRO DE CÁLCULO. REVISÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+(..)
+3. A demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Agravo interno não provido."
+(AgInt no AREsp 978.980/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 15/08/2017 - grifou-se)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
