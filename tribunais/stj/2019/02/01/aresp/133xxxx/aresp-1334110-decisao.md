@@ -1,0 +1,42 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 2.603 - 2.610, e-STJ, reconsidero a decisão de fls. 2.598 - 2.599, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, e passo à nova análise do recurso especial interposto, contra acórdão assim ementado:
+EMENTA: AGRAVO REGIMENTAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO AFASTADA. AUSÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA. NÃO OCORRÊNCIA. HONORÁRIOS DE SUCUMBENCIA DEVIDOS.SEM FATOS NOVOS.
+1. A prescrição relativa a honorários de sucumbência é quinquenal, nos termos do art. 25, da Lei n. 8.906/94 (EOAB).
+2. Não tem respaldo a preliminar de nulidade da sentença por falta de fundamentação, uma vez que deixou claro a julgadora singular, de forma satisfatória, os motivos que a levaram a julgar procedente o pedido inicial, o que já traduz a observância ao princípio da motivação das decisões judiciais.
+3. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários de sucumbência.
+3. Impende seja desprovido Agravo Regimental que não traz, em suas razões, qualquer argumento novo que justifique a modificação da decisão monocrática anteriormente proferida.
+AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, alega o agravante, divergência jurisprudencial, e violação aos artigos 178, § 6º, do Código Civil de 1916; 206, § 5º, II, do Código Civil de 2002; 25 da Lei 8.906/94; 458, do Código de Processo Civil de 2015; 93, X, da Constituição Federal.
+Suscita a nulidade da decisão por ausência de fundamentação.
+Defende a ocorrência de prescrição no caso dos autos, quanto ao direito de cobrança de honorários advocatícios.
+Sustenta que o termo inicial de cômputo do prazo de prescrição, no caso dos autos, deve coincidir com a data da notificação de revogação do mandato de representação.
+Insurge-se contra a condenação que determinou o pagamento de honorários sucumbenciais devidos ao agravado de forma integral (20% sobre o valor da causa), ao argumento de que este não teria patrocinado a causa em sua totalidade, mas apenas por 3 anos, enquanto o processo perdurou por mais de 20 anos.
+Alega que os respectivos honorários de sucumbência seriam devidos por terceira pessoa, qual seja, a parte sucumbente nos autos em que houve o patrocínio da causa, não sendo possível imputar à sua pessoa, a responsabilidade pelo respectivo pagamento, ponderando que o agravado não comprovou nos autos que esta teria se apropriado do valor em comento.
+Contrarrazões, às fls. 1.197 - 1.210 (e-STJ).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.212 - 1.218 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Sem razão o agravante.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Quanto a alegada violação a dispositivo da Constituição Federal, cumpre elucidar que compete ao Supremo Tribunal Federal a análise de eventual afronta a dispositivo de ordem constitucional, sendo defeso ao STJ fazê-lo, sob pena de invasão de competência.
+Em relação à tese de nulidade da sentença por ausência de fundamentação, observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: Edcl no AgRg no Ag nº 492.969/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJ de 14.2.2007; AgRg no Ag nº 776.179/SP, Relator Ministro José Delgado, Primeira Turma, DJ de 12.2.2007; e REsp 523.659/MG, Relator Ministro João Otávio de Noronha, Segunda Turma , DJ de 7.2.2007.
+No que se refere à prescrição, relevante se faz a reprodução de trecho do acórdão onde consta (e-STJ, fls. 936 - 937):
+Analisando o conjunto probatório colacionado aos autos, pude constatar que o apelado era patrono da apelante e que conforme documento de fls. 17/18 ficou acertado que não mais prestaria serviços advocatícios para recorrente, com exceção de alguns feitos, como é o caso daqueles contra a parte [NOME].
+Na referida lide, foi realizada uma composição entres os demandantes que deveria ser cumprida em 31/05/2011, portanto somente a partir dessa data que se inicia o transcurso do prazo para o causídico pleitear seus honorários. Como a demanda foi ajuizada em 06/08/2013, não há falar em prescrição da pretensão requerente/apelado, pois o prazo é o estabelecido no Estatuto da Advocacia (art. 25, II, Lei n. 8.906/948).
+Conforme se verifica, após analisar o contexto fático-probatório dos autos, a Corte local elucidou que a composição havida entre os litigantes da causa em que o agravado prestou serviços advocatícios estabeleceu que o pagamento ocorreria em 31/5/2011, momento em que se tornaria possível a cobrança dos respectivos honorários.
+Destaca-se que referido fundamento não foi impugnado pelo agravante nas razões de seu recurso especial, circunstância que atrai a aplicação da Súmula 283/STF.
+Ademais, não há que se falar em ofensa a dispositivo do Código Civil de 1916, tendo em vista que, na data em que se originou a obrigação de pagamento dos honorários em discussão, referida Lei já estava revogada, pelo Código Civil de 2002.
+Por outro lado, a revisão da conclusão adotada na origem, para que se considerasse, como termo inicial da prescrição, a data de notificação de revogação do mandato, não comporta acolhimento na presente via, por demandar necessário reexame de fatos e provas, medida que encontra veto na Súmula 7 do STJ.
+Ressalte-se que o óbice da Súmula 7 impede por idênticas razões a análise da suscitada divergência jurisprudencial.
+Quanto ao argumento de que a parte agravada não comprovou que o agravante teria se apropriado do valor dos honorários de sucumbência, ou que o montante seria devido por terceira pessoa, verifica-se que não houve a indicação de violação a qualquer dispositivo de Lei federal, revelando-se nítida a deficiência de fundamentação nas razões recursais, circunstância que atrai a aplicação da Súmula 284/STF. A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que nega provimento (AgInt no AREsp 1126226/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, Julgamento 24/10/2017, DJe. 30/10/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. OFENSA AO ART. 535, II, DO CPC. INEXISTÊNCIA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. JULGAMENTO CITRA PETITA. NÃO OCORRÊNCIA. OFENSA À LEI 8.078/90. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. ANÁLISE DE DISPOSIÇÕES DE OFÍCIO. VEDAÇÃO. SÚMULA 381/STJ. TABELA PRICE. LEGALIDADE. AGRAVO NÃO PROVIDO.
+(..)
+5. No que tange à apontada ofensa à Lei 8.078/90, o recorrente, nas razões do especial, não indicou, especificamente, quais os dispositivos legais que eventualmente teriam sido violados pelo aresto hostilizado. Tal aspecto torna patente a falta de fundamentação do recurso especial, circunstância que atrai a incidência da Súmula 284/STF.
+(..)
+8. Agravo regimental a que se nega provimento (AgRg no AREsp 130256/SP , Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgamento 19/03/2015, DJe 17/04/2015).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
