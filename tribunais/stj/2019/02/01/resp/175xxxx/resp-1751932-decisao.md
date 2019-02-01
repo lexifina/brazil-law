@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Município de Praia Grande, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ, fls. 319/328):
+CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO MUNICIPAL. TERAPEUTA OCUPACIONAL. CARGA HORÁRIA DISTINTA DA PREVISTA NA LEI FEDERAL  8.856/94. NULIDADE.
+1. Segundo o artigo 22, inciso XVI da Constituição Federal, a disciplina legal da organização e condições para o exercício de profissões é de competência privativa da União, cabendo-lhe a edição de normas gerais no
+âmbito nacional, de observância obrigatória em todas as unidades da federação, inclusive dos Municípios, o que se deu com o advento da Lei nº 8.856/94, no que diz respeito à jornada de trabalho dos fisioterapeutas e terapeutas ocupacionais.
+2. Revela-se ilegal norma editalícia que estabelece jornada de trabalho maior que a prevista em lei federal.
+3. Precedentes: STF, RE 589870/SP, STF, RE 589.870/SP, STF, Relator Ministro EROS GRAU, decisão de 31/08/2009, DJe 16/09/2009; TRF3, AC 2006.61.26.003103-6/SP, Relatora Desembargadora Federal MARLI FERREIRA, j. 03/11/2011, D.E. 18/11/2011, AC 2006.60.00.004940-3/MS,
+Relator Desembargador Federal ANDRÉ NABARRETE, j. 09/04/2015, D.E. 25/05/2015, e AI 2015.03.00.012392-5/SP, Relatora Juíza Federal Convocada Tais Ferracini, decisão de 02/07/2015.
+4. Apelação e remessa oficial a que se nega provimento.
+O recorrente alega violação do art. 7º, III, da Lei 6.316/1975 (e-STJ, fl. 437).
+Assevera que foi afasta pelo Juiz a quo a preliminar de ilegitimidade ativa do órgão de pleitear judicialmente o interesse de seus profissionais, " .. com fulcro no art. 70, III, da Lei 6.316/75, que confere competência para atuar na fiscalização dos cursos e concursos na área de atuação dos profissionais" (e-STJ, fl. 439).
+Afirma que a Lei n. 6.316/1975 criou o Conselho Federal e os Conselhos Regionais de Fisioterapia e Terapia Ocupacional, mas que da referida lei não consta em nenhum dos dispositivos autorização para que este órgão substitua os profissionais judicialmente.
+Defende que a Lei n. 6.316/1975 incumbiu ao recorrido a fiscalização do exercício das profissões de fisioterapeuta e terapeuta ocupacional, definidas no Decreto-Lei n. 938/1969.
+Com base nessas considerações, pede o provimento do recurso para que seja julgado extinto o processo, sem resolução do mérito, com fulcro no art. 267, VI, do CPC/1973.
+O Ministério Público Federal opina pelo não conhecimento da via especial. (e-STJ, fls. 552/557).
+É o relatório.
+Inicialmente, registro que o acórdão proferido na origem foi publicado na vigência do CPC/2015, razão pela qual os requisitos de admissibilidade do apelo nobre devem seguir a sistemática processual correspondente, nos termos do Enunciado Administrativo n. 3/STJ, com o seguinte teor:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cinge-se a controvérsia acerca da legitimidade do Conselho Regional de Fisioterapia e Terapia Ocupacional da 3ª Região - CREFITO para atuar em defesa dos interesses dos profissionais de fisioterapia e terapia ocupacional, no tocante ao cumprimento da carga horária de 30 horas estabelecida pela Lei n. 8.856/94.
+Como bem salientou o parecer ministerial, "o Tribunal de origem reconheceu a legitimidade ativa da parte autora por entender que o Conselho Regional de Fisioterapia e Terapia Ocupacional da 3ª Região possui atribuição para atuar na defesa dos interesses dos profissionais a ela vinculados, especialmente para promover a fiscalização dos concursos destinados à seleção de profissionais relacionados ao seu âmbito de atuação" (e-STJ, fl. 554).
+Destaco, também, do acórdão do Tribunal de origem (e-STJ, fl. 321) as considerações à competência do CREFITO para atuar na fiscalização dos concursos atinentes ao âmbito de atividades profissionais que o representa, nos termos da Lei n. 6.316/1975, art. 7º, inc. III:
+Inicialmente, há que ser afastada alegação de suposta ilegitimidade ativa do conselho profissional em tela, uma vez que, com efeito, conforme oportunamente anotado pelo MM. Julgador de primeiro grau, em sua bem lançada sentença de fls. 234 e ss. detém este a competência para atuar na fiscalização dos concursos atinentes ao seu âmbito de atividade - Lei nº 6.316/75, artigo 7º, inciso III.
+Como se verifica, o aresto impugnado não destoa do entendimento deste Superior Tribunal segundo o qual as autarquias de fiscalização detêm legitimidade para a propositura de ação voltada à defesa do interesse coletivo da corporação, sendo esse o caso dos autos.
+Em que pese aos argumentos da parte recorrente segundo os quais da Lei n. 6.316/75 não consta em nenhum dos dispositivos a exigência de autorização para que o Conselho Regional de Fisioterapia e Terapia Ocupacional substitua os profissionais judicialmente e de que a incumbência dada ao recorrido foi a de fiscalização do exercício das profissões de fisioterapeuta e terapeuta ocupacional, definidas no Decreto-Lei n. 938/1969, é de se notar que o Supremo Tribunal Federal firmou entendimento contrário, reconhecendo a legitimidade ad causam dos conselhos profissionais para atuarem em defesa dos interesses dos profissionais.
+Nesse sentido:
+EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE DO ART. 58 E SEUS PARÁGRAFOS DA LEI FEDERAL NB 9.649, DE 27.05.1998, QUE TRATAM DOS SERVIÇOS DE FISCALIZAÇÃO DE PROFISSÕES REGULAMENTADAS.
+1. Estando prejudicada a Ação, quanto ao § 3o do art. 58 da Lei n. 9.649, de 27.05.1998, como já decidiu o Plenário, quando apreciou o pedido de medida cautelar, a Ação Direta é julgada procedente, quanto ao mais, declarando-se a inconstitucionalidade do *caput" e dos parágrafos 1o, 2o, 4o, 5o, 6o, 7o e 8o do mesmo art. 58.
+2. Isso porque a interpretação conjugada dos artigos 5o, XIII, 22, XVI, 21, XXIV, 70, parágrafo único, 149 e 175 da Constituição Federal, leva à conclusão, no sentido da indelegabilidade, a uma entidade privada, de atividade típica de Estado, que abrange até poder de polícia, de tributar e de punir, no que concerne ao exercício de atividades profissionais regulamentadas, como ocorre com os dispositivos impugnados.
+3. Decisão unânime.
+(ADI 1.717/DF, Rel. Min. SINDNEY SANCHES, Plenário, julgado em 7/11/2002, DJ 28/3/2003)
+A propósito, esse Superior Tribunal de Justiça firmou orientação no mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. CONSELHO REGIONAL DE ENFERMAGEM - COREN. LEGITIMIDADE ATIVA AD CAUSAM.
+1. Trata-se na origem de Apelação interposta pelo Conselho Regional de Enfermagem e pelo Ministério Público Federal contra sentença nos autos da Ação Civil Pública que foi extinta sem resolução do mérito, sob o fundamento de carência a ação.
+2. O art. 5º da da Lei 7.347/85 elencou o rol dos legitimados concorrentes para a defesa daqueles direitos, nos quais se incluem as autarquias, em cuja categoria estão os Conselhos profissionais, uma vez que ostentam natureza autárquica, conforme decidido pelo Supremo Tribunal Federal na ADI 1.717/DF. Contudo, devem ter correlação entre a parte que detém legitimidade e o objeto da ação.
+3. In casu, pretende o Conselho Regional de Enfermagem "vedar a prática de atos privativos de enfermeiro por outros profissionais de enfermagem e especialmente, compelir para a promoção de regular contratação/manutenção de profissional enfermeiro durante todo o período de funcionamento das unidades de saúde do município Recorrido" (fl. 247, e-STJ).
+4. Recursos Especiais providos.
+(REsp 1.388.792/SE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/5/2014, DJe 18/6/2014)
+Dessa forma, o Conselho Regional de Fisioterapia e Terapia Ocupacional é parte legítima para pleitear o direito de seus interessados, no que consiste assegurar a carga horária de trabalho fixada em 30 horas semanas, conforme previsto nos termos da Lei n. 8.856/1994.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a orientação fixada pela Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
