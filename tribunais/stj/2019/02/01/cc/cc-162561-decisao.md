@@ -1,0 +1,18 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA TRABALHISTA E JUSTIÇA COMUM ESTADUAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS FUNDADA EM ATO ILÍCITO. OBRIGAÇÃO DE NATUREZA CIVIL NÃO ALBERGADA PELA RELAÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A ação de compensação por danos morais proposta por trabalhador em face de sindicato, quando não relacionada ao contrato de trabalho ou acerca da representatividade sindical, é de natureza civil e cabe ser processada e julgada perante a Justiça Estadual.
+2. Conflito de competência conhecido para declarar competente a Justiça Comum Estadual.
+DECISÃO
+Cuida-se de conflito negativo de competência entre o JUÍZO DA 19ª VARA DO TRABALHO DE BELO HORIZONTE - MG, suscitante, e o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS , suscitado.
+Ação: de compensação por dano moral proposta por DANILO CESAR TORRES em face do SINDICATO DOS TRABALHADORES EMPRESA DE CORREIOS E TELÉGRAFOS E SIMILARES DO ESTADO DE MINAS GERAIS - SINTECT - MG em razão de publicar matérias com conteúdo desabonador ao autor, o denominando de ditador, tirano, parasita, além de espalhar a outros colegas de trabalho do autor tais denominações.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que o art. 114, III, da CF/88 impõe à Justiça do Trabalho julgar as lides entre trabalhadores e sindicatos.
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, sob o argumento de que entre o autor e o sindicato não há qualquer relação de trabalho e nem cuida a lide de representação sindical.
+Parecer do MPF: da lavra do i. Subprocurador-Geral da República, Dr. [NOME], opinou pela ausência de interesse do Parquet.
+RELATADO O PROCESSO, DECIDO.
+No presente caso, cuida-se de ação envolvendo trabalhador e sindicato para apuração de suposta conduta lesiva do Sindicato com a conseqüente compensação por dano moral.
+Com efeito, verifica-se que o pedido de obrigação de fazer e de compensação de danos morais, bem como da causa de pedir de ato ilícito praticado pela entidade sindical, tem origem, não na relação de trabalho entre as partes, decorrendo de relação jurídica de natureza civil, fundada na responsabilidade extracontratual.
+A Segunda Seção desta Corte já decidiu que:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA DO TRABALHO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS PROPOSTA POR TRABALHADOR CONTRA SINDICATO DE TRABALHADORES. COMPETÊNCIA DA JUSTIÇA COMUM. - Compete à Justiça Comum Estadual processar e julgar ação de reparação por danos morais proposta por trabalhador contra entidade sindical da qual era sócio, fundada nos atos ilícitos supostamente cometidos por esta última, por se tratar de ação de natureza civil. Conflito de Competência conhecido para declarar a competência do Juízo de Direito de Cairús - CE, o suscitado." (CC 93.357/CE, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 28/05/2008, DJe 05/06/2008)
+"CONFLITO DE COMPETÊNCIA. DANO MORAL. AÇÃO PROPOSTA POR EMPREGADOR CONTRA SINDICATO DE TRABALHADORES. O núcleo da norma inscrita no art. 114, III, da Constituição Federal, diz respeito às  ações sobre representação sindical , não abrangendo aquela proposta por empregador contra sindicato de trabalhadores visando a indenização de dano moral. Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Limeira, SP." (CC 87.730/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA SEÇÃO, julgado em 14/11/2007, DJ 10/12/2007, p. 288)
+Forte nessas razões, CONHEÇO do conflito e declaro competente o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Publique-se. Intimem-se. Oficie-se.
