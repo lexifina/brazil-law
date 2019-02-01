@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial da COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP interposto com base na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado:
+PROCESSO CIVIL. ADMINISTRATIVO. TERRACAP. RESCISÃO CONTRATUAL. POSSIBILIDADE. RETORNO DAS PARTES AO STATUS QUO ANTE. EDITAL LEI ENTRE AS PARTES. HONORÁRIOS. FIXAÇÃO POR EQUIDADE.
+1. A rescisão contratual poderá ser requerida, por qualquer das partes, desde que o desistente fique responsável pelos ônus de seu desinteresse.
+2. Diante do não cumprimento do acordo por uma das partes correta a decisão que decreta a rescisão do contrato com o retorno das partes ao status quo ante.
+3. Os índices aplicáveis, englobando tanto os juros moratórios quanto a correção monetária, são os índices oficiais descritos no edital, que faz lei entre as partes.
+4. Nas causas em que não houver condenação ou que for vencida a Fazenda Pública, os honorários serão fixados segundo os critérios qualitativos elencados nas alíneas "a", "b" e "c" do § 3º do art. 20 do CPC/73, por remissão do art. 20, § 4o, do mesmo diploma legal (art. 85 do NCPC).
+5. Apelo da parte autora conhecido e provido parcialmente.
+6. Apelo da parte ré conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 447-454, e-STJ).
+Nas razões de recurso especial, alega a ora recorrente, em suma, violação dos artigos 396, 473 e 482 do Código Civil e 3º, 41, e 66, da Lei 8.666/1993, sustentando a impossibilidade de rescisão de contrato de compra e venda decorrente de licitação pública, cujas condições de pagamento e financiamento foram previamente fixadas no edital, fundada apenas no interesse privado do contratante particular.
+Defende que o negócio jurídico regido por normas de direito público e concluído com a observância de todos os preceitos legais enseja o cumprimento obrigatório das disposições contratuais.
+Assevera que a rescisão ofende o princípio da vinculação do instrumento convocatório.
+Alega que não ocorreu mora de sua parte, razão pela qual a correção monetária e os juros de mora incidem sobre as restituições das parcelas pagas pelo recorrido a partir do trânsito em julgado da sentença.
+Apresentadas contrarrazões pela parte contrária (fls. 499-505, e-STJ), pugnando o não provimento do recurso.
+Assim delimitada a controvérsia, passo a decidir.
+A Corte estadual consignou:
+Cabível e tempestivo, conheço do recurso, presentes que se encontram os demais pressupostos de admissibilidade.
+Trata-se de ação de conhecimento, sob o rito ordinário, proposta por [NOME] em face de TERRACAP - COMPANHIA IMOBILIÁRIA DE BRASÍLIA, tendo por objeto a rescisão contratual referente ao imóvel situado no lote 13, conjunto 07, QS 109, Samambaia-DF, adquirido por meio de licitação pública (f. 28 e 31), por não mais possuir condições financeiras advindas deste negócio jurídico Sobreveio sentença que julgou procedente os pedidos formulados pelo autor, para (f. 242/245):
+a) declarar a rescisão do contrato firmado entre a Terracap e o autor;
+b) determinar a perda do valor dado a título de sinal pelo autor em favor da TERRACAP, bem como eventuais débitos de tributos que tenham sido pagos ou que estes sejam dedutiveis pela ré;
+c) a devolução dos demais valores pagos à ré, em parcela única, com correção monetária pelo IGPM a contar do efetivo pagamento e juros moratórios de 12% desde a citação;
+d) devolução do imóvel à TERRACAP e;
+e) desconstituição da escritura pública de compra e venda que consubstanciou a avença.
+Ordenou a expedição de mandado de imissão na posse a favor da Terracap. Fixou ainda, o prazo de 30 dias para a desocupação voluntária. Custas ex-lege. Condenou a ré ao pagamento de honorários fixados no montante de R$ 1.000,00 (mil reais).
+Inicialmente, impende destacar que sentença objeto dos presentes recursos foi proferida sob a égide do Código de Processo Civil de 1973, defendendo ser aplicado, no que tange ao direito material, as normas previstas na lei vigente à época dos fatos, ou seja, o CPC/1973.
+DO RECURSO DA PARTE RÉ - TERRACAP
+Irresignada, apela a parte ré às f. 260/278, defendendo a ausência de inadimplemento da apelante. Aduz inexistir justo motivo para rescisão contratual, nos termos do artigo 54 da Lei 8.666/93 e artigos 472 e 473 do Código Civil; porquanto os motivos ensejadores do distrato são de ordem pessoal e não são permitidos pela legislação. Refuta a aplicação dos juros consignados em sentença e
+requer que estes sejam fixados a partir do trânsito em julgado desta. Refuta ainda, a incidência do IGPM como índice de atualização monetária. Aduz que o valor a ser devolvido à apelada deve sofrer abatimento pelo uso do imóvel. Requer que haja retenção de 25% do montante pago pelo comprador a título de indenização por danos emergentes consubstanciados nos custos operacionais para a alienação do imóvel Requer, ainda, indenização em razão da diferença de valor do imóvel quando da alienação com o do atual mercado. Ao final, pleiteia o recebimento do recurso no seu efeito suspensivo e o provimento do recurso.
+Frisa-se que na relação jurídica no caso em análise, não se aplica o Código de Defesa do Consumidor, por se tratar de contrato firmado entre a empresa pública e o particular, atraindo a incidência das normas afetas ao direito administrativo e, subsidiariamente, do Código Civil. Na condição de empresa pública, a Terracap procede á alienação de imóveis em observância do respectivo procedimento licitatório, nos moldes da Lei n. 8.666/1993.
+Ressalte-se que, apesar de se tratar de um contrato administrativo, uma vez caracterizado o intuito do licitante de rescindir o ajuste, em face da impossibilidade financeira de pagamento do preço, não se apresenta razoável exigir o cumprimento das obrigações que serão posteriormente desfeitas.
+Com efeito, a rescisão contratual poderá ser requerida, por qualquer das partes, desde que o desistente fique responsável pelos ônus de seu desinteresse.
+No caso proposto, o apelado ajuizou ação de rescisão contratual com a finalidade de desfazimento do negócio jurídico de compra e venda de imóvel perante à TERRACAP. tendo em vista que não reunia mais condições de suportar o pagamento das prestações, bem como de discutir os valores decorrentes dessa rescisão.
+Diante do não cumprimento do acordo por uma das partes correta a decisão que decreta a rescisão do contrato com o retorno das partes ao status quo ante.
+Nos contratos administrativos é assegurado ao contratante o recebimento da atualização monetária e dos juros moratórios na manutenção do equilíbrio contratual entre as partes (Administração Pública e particular). De fato, a incidência de correção monetária e juros moratórios é uma exigência de moralidade, posto que a Administração não pode se enriquecer ilicitamente à custa do prejuízo de seus contratados;
+Neste contexto, os índices aplicáveis, englobando tanto os juros moratórios quanto a correção monetária, são os índices oficiais descritos no item 8 e seguintes (f. 90/91) do edital, que faz lei entre as partes. Do mesmo modo que é permitido ao particular rescindir o contrato firmado com a Administração, devendo arcar com os ônus decorrentes descritos no edital, deve a Administração, quando da rescisão contratual, restituir as parcelas pagas com os índices de atualização e juros descritos no edital.
+Logo, no tocante à incidência de juros e correção monetária sobre o valor a ser pago pelo autor, entende-se que sobre estes devam incidir correção monetária pelo IGPM, desde o efetivo pagamento e juros de 12% a.a. Ressalta-se que os índices utilizados são os previstos no contrato( itens 8.2 , 8.4 e 8.11 do Edital
+nº 3/2011 da TERRACAP e itens II, VII, VIII e IX da escritura pública de compra e venda firmada - f. 90/91).
+Quanto aos pleitos de referentes à retenção de 25% do montante pago pelo comprador a titulo de indenização por danos emergentes consubstanciados nos custos operacionais para a alienação do imóvel, bem como à indenização em razão da diferença de valor do imóvel quando da alienação com o do atual mercado, estes não devem prosperar, pois são totalmente descabidos e sem amparo legal, pois ausente a previsão destes no edital que rege a licitação pública em questão.
+Anoto que a relação jurídica firmada entre as partes no contrato de a escritura de compra e venda de imóvel mediante licitação pública, obedece aos moldes da Lei n 8.666/93 e subsidiariamente às disposições do Código Civil.
+Verifica-se que o Tribunal de origem decidiu a lide fundamentado em edital e previsão clausular contida em contrato de compra e venda firmada entre a TERRACAP e o particular, sobretudo em razão de descumprimento de acordo entre as partes.
+Nesse espectro, é impossível concluir de modo diverso desse entendimento, pois exigiria o vedado reexame dos fatos e provas, do procedimento licitatório, do edital, do contrato firmado entre as partes, da escritura de compra e venda do imóvel e de demais documentos, providência que esbarra nos óbices das Súmulas 5 e 7 desta Corte.
+Em casos análogos, incidiram os mesmos obstáculos:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 2/STJ. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO. DOCUMENTO IDÔNEO. INTEMPESTIVIDADE AFASTADA. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. CONTRATO DE CONCESSÃO DE USO. DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. RESCISÃO. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA 5/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Trata-se de Agravo Interno contra decisão monocrática da presidência (fls. 412-413, e-STJ) que não conheceu do recurso interposto por Posto Jotas Limitada - EPP, ante a sua intempestividade.
+2. Consigne-se que, à luz do CPC/1973, o Superior Tribunal de Justiça admite a comprovação posterior da tempestividade do Recurso Especial, em virtude de feriado local ou de suspensão de expediente forense no Tribunal de origem, quando da interposição do Agravo Interno (AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe 15/10/2012).
+3. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual, o que faz incidir o óbice da Súmula 5 do STJ.
+4. Ademais, a recorrente não logrou demonstrar, como deveria, a ocorrência do dissenso interpretativo, nos termos dos arts. 541, parágrafo único do CPC/1973 e 255, § 1º, do RISTJ, ante a falta de cotejo analítico dos julgados apresentados.
+5. Agravo Interno parcialmente conhecido para afastar a intempestividade e, no mérito, não provido.
+(AgInt no AREsp 1079743/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/9/2017, DJe 11/10/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. INEXISTÊNCIA.
+CONTRATO. VERIFICAÇÃO ACERCA DA OCORRÊNCIA DE QUITAÇÃO. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7 DO STJ. ANÁLISE DE CLÁUSULAS CONTRATUAIS. SUMULA 5/STJ.
+1. Não ocorre contrariedade ao art. 535, inc. II, do CPC, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação
+jurisdicional.
+2. A instância ordinária entendeu que "a prova documental e a pericial produzidas comprovam que a ré não respeitou as datas acordadas para saldar as faturas, e, ao realizar os respectivos pagamentos, o fez somente com relação ao valor histórico das mesmas,
+desconsiderando o que foi ajustado nas cláusulas 9.1.1 e 9.1.3".
+3. Nessas condições, para modificar as conclusões da Corte local, seria imprescindível o reexame das provas constantes dos autos, bem como das cláusulas contratuais ajustadas, o que é defeso em sede de recurso especial, nos termos preconizados nas Súmulas 5 e 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 572866/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/11/2014).
+
+Partindo da premissa de que o edital de licitação para alienação do bem público e a escritura pública de compra e venda regem a relação jurídica entre as partes, o acórdão recorrido ao interpretá-los com base nos itens 8 e seguintes, definiu os parâmetros relativamente à correção monetária e aos juros de mora, o que também demandaria a vedada reavaliação fática-probatória e de cláusulas contratuais em recurso especial, a teor das Súmulas 5 e 7 desta Casa.
+No mais, verifica-se que não houve apreciação pelo Tribunal de origem das teses suscitadas, o que impossibilita o julgamento do recurso neste aspecto por ausência do necessário prequestionamento, nos termos da Súmula nº 211, do STJ, segundo a qual preconiza "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
