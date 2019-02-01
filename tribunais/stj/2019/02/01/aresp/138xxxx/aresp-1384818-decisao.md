@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO.
+Cerceamento de defesa não configurado. Ré que é parte legítima para figurar no polo passivo da ação. Desorganização da ré na promoção de festival que impediu o acesso da autora, que havia adquirido o ingresso antecipadamente, ao evento. Despesas suportadas com a aquisição do ingresso e hospedagem que devem ser ressarcidas pela ré. Danos morais configurados. Falha na prestação do serviço que extrapolou o mero inadimplemento contratual. Indenização fixada com acerto em R$ 3.000,00, por ser valor que atende aos princípios da proporcionalidade e da razoabilidade. Honorários advocatícios majorados para 20% do valor da condenação. Recurso da ré desprovido, provido em parte o da autora.
+Os embargos de declaração opostos foram rejeitados (fls. 275 - 280, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, divergência jurisprudencial, e violação aos artigos 21, 22, 23 e 24 do Código de Trânsito Nacional; 14, § 3º do Código de Defesa do Consumidor, do Código de Processo Civil de 2015.
+Sustenta sua ilegitimidade passiva para o feito, ao argumento de que não pode ser responsabilizada pelo intenso trânsito de veículos, que impediu a parte agravada de chegar ao evento realizado.
+Defende não ter praticado qualquer conduta ilícita a justificar a condenação de reparação de danos materiais e morais.
+Apresentadas contrarrazões (e-STJ fls. 312 - 318), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 319 - 320, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à agravante.
+Ao afastar a pretensão em análise, a Corte local concluiu pela presença do ato ilícito, bem como pela responsabilidade indenizatória da parte, assim se pronunciando (e-STJ, fls. 258 - 260):
+Não há que se falar, igualmente, em ilegitimidade passiva da ré, uma vez que, na petição inicial a autora imputa a ela a falha na prestação do serviço (de organização do evento ocorrido no dia 05/03/2016 em Uberlândia/MG) da qual decorreram os danos cuja reparação é objeto da demanda, o que é basta a caracterizar sua pertinência subjetiva com a causa.
+Consta da petição inicial que a autora adquiriu com meses de antecedência, pelo valor de R$90,00, o ingresso para o evento organizado pela ré, que se realizaria em 05/03/2016 em Uberlândia/MG, no entanto, ao chegar na cidade deparou-se com enorme congestionamento de veículos que se dirigiam ao local do evento e após ter enfrentado demora de cinco horas para chegar não conseguiu ingressar na Arena, porque já havia sido atingida a capacidade máxima de pessoas, em decorrência do que foi embora sem assistir aos shows e precisou encontrar um hotel de última hora. A autora argumentou que em razão da desorganização da ré sofreu danos materiais (no valor de R$229,00) e danos morais (cuja reparação estimou em R$30.0000,00) que devem ser indenizados por ela.
+Conforme se verifica, a responsabilidade da agravante foi fundamentada na origem, não em decorrência do trânsito local de veículos, mas pelo fato de que a parte agravada, ao chegar no local, mesmo após horas de espera, não pôde entrar no evento pois o recinto encontrava-se com lotação máxima de pessoas. Respectivo fundamento sequer foi impugnado pela agravante nas razões de seu recurso especial, circunstância que atrai a aplicação da Súmula 283 do STF, e afasta também a suscitada divergência jurisprudencial, eis que não verificada no acórdão paradigma ofertado, em nítida ausência de similitude fática.
+Por outro lado, a revisão da conclusão adotada na origem, acerca da responsabilidade indenizatória da agravante, é medida que encontra veto na Súmula 7 do STJ, por demandar necessário reexame de fatos e provas.
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários advocatícios, conforme previsto no art. 85, § 11, do CPC/15, tendo em vista que fixados no patamar máximo na origem.
+Intimem-se.
