@@ -1,0 +1,21 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado na Apelação n. 0000029-67.2016.8.26.0591.
+Depreende-se dos autos que os réus Luan e Aparecido foram condenados, respectivamente, às penas de 8 meses de reclusão e 9 meses e 10 dias de reclusão, ambos em regime aberto, mais 3 dias-multa, substituídas por uma restritiva de direitos, pela prática do crime previsto no art. 155, § 4º, II e IV, do CP.
+O Tribunal de origem deu provimento à apelação da defesa do acusado Luan, a fim de reconhecer a atipicidade material da conduta.
+Nas razões do recurso especial, alega a acusação que o acórdão recorrido violou o art. 155, caput e § 4º, II e IV, do CP, ao argumento de que o valor do bem furtado é incompatível com a insignificância.
+Requer seja restabelecida a sentença condenatória.
+Apresentadas as contrarrazões e admitido o recurso especial na origem, o Ministério Público Federal opinou pelo seu provimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Com efeito, estão presentes todos os mencionados requisitos, de modo que a aplicação do princípio da insignificância é medida que se impõe.
+No caso vertente, não se depreende violência ou grave ameaça contra a pessoa, bem como há insignificância econômica, uma vez que o valor dos objetos subtraídos (um botijão de gás) foi avaliado em R$ 190,00 (cento e noventa cinco reais) (fls. 42/43).
+Cumpre destacar, ainda, que os bens foram integralmente restituídos à vítima (fls. 16/17) e que se trata de réu primário e de bons antecedentes (fls. 1476/148; 232/234; 249).
+(fl. 442, destaquei)
+A despeito da subsunção formal de determinada conduta humana a um tipo penal, é possível concluir-se pela sua atipicidade material. Isso porque, além da adequação típica formal, deve haver uma atuação seletiva, subsidiária e fragmentária do Direito Penal e, desse modo, conferir maior relevância à proteção de valores tidos como indispensáveis à ordem social quando efetivamente ofendidos.
+Consoante já assentado pelo STF, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material. Deve-se observar, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (HC n. 84.412/SP, Rel. Ministro Celso de Mello, DJU 19/4/2004).
+Na espécie, os réus foram acusados de haver praticado, em 20/2/2016, furto qualificado pelo rompimento de obstáculo, consistente na subtração de um botijão de gás, avaliado em R$ 190,00 (fl. 1), equivalente a 21,59% do salário mínimo vigente na época dos fatos, tendo como vítima pessoa física.
+A conduta perpetrada pelo agente não se revela de escassa ofensividade penal e social, o que afasta a aplicação do princípio da insignificância, pois este Tribunal Superior vem decidindo que "o valor total dos bens  ..  ultrapassa o limite jurisprudencialmente fixado como parâmetro para a aplicação do referido princípio, que é de 10% (dez por cento) do salário mínimo vigente à época do fato" (AgRg no HC n. 364.427/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 1º/2/2017).
+Nesse ponto, importante ressaltar que "A restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância" (AgInt no REsp n. 1.642.455/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/5/2017, destaquei).
+Sob essas premissas, verifico que, no caso vertente, há componentes significativos que revelam a considerável lesão ao bem jurídico tutelado, a recomendar a atividade punitiva estatal.
+À vista do exposto, dou provimento ao recurso especial, a fim de afastar a bagatela e determinar o retorno dos autos à origem para que sejam julgadas as demais teses defensivas constantes na apelação.
+Publique-se e intimem-se.
