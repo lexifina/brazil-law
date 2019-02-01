@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUCABRUN ADMINISTRADORA DE IMÓVEIS LTDA-ME contra decisão que conheceu do agravo para negar provimento ao recurso especial da embargante, sob os seguintes fundamentos: a) incidência da Súmula 283/STF, ante a ausência de impugnação específica sobre a tese de violação da coisa julgada (fl. 122); b) incidência da Súmula 284/STF e 282/STF quanto às exigências impostas pelos agentes notariais (fls. 122/123).
+Nas razões dos aclaratórios, aponta a existência de omissão, sob a tese de que "a embargante fez expressa menção aos arts. 47, I, b e d da Lei 8.212/91, os quais foram mencionados também para possibilitar a oposição de recursos nas instâncias superiores" (fl. 128).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material.
+Com efeito, deve ser rejeitada a omissão alegada, pois limitou-se a parte ora embargante, em sede de recurso especial, a fazer mera citação do art. 47, I, d, da Lei 8.121/91, sem, no entanto, especificar de que forma tal dispositivo de lei federal foi violado. Além disso, ao mencionar o referido artigo, a discussão levantada foi no sentido de apontar a inconstitucionalidade do mesmo, o que não pode ser aferido nesta sede recursal.
+Além da supracitada ausência de omissão, repise-se que tal ponto do recurso não poderia ser examinado ante a falta de prequestionamento, sob pena de supressão de instância, conforme disposto na Súmula 282/STF.
+Não constatada, portanto, qualquer omissão, contradição ou obscuridade, uma vez que o decisum embargado apresenta fundamentação clara e objetiva quanto à impossibilidade de exame das insurgências recursais, a rejeição dos presentes aclaratórios é a medida que se impõe.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
