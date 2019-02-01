@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/2015), interposto por AÇUCAREIRA VIRGOLINO DE OLIVEIRA S/A. contra a decisão de fls. 149/150, e-STJ, que não admitiu o processamento de recurso especial.
+O apelo extremo manejado com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 115, e-STJ):
+APELAÇÃO LOCAÇÃO EMBARGOS DO DEVEDOR EXECUÇÃO POR TÍTULO EXTRAJUDICIAL ALUGUERES E ENCARGOS LOCATÍCIOS. O contrato e o débito locatício estão incontroversos nos autos. Tratando-se de dívida em dinheiro, somente a prova de quitação regular elide a pretensão do autor-exequente. Encargos moratórios devidos, em razão de expressa previsão contratual ("pacta sunt servanda"). Abusividade da cláusula penal não caracterizada. Teoria da imprevisão. Inaplicabilidade.
+RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 123/131, e-STJ), a insurgente apontou violação aos artigos 393 e 413 do Código Civil. Primeiramente alegou a ocorrência de fato fortuito sob o fundamento de que a profundidade da crise no setor açucareiro não era previsível. Argumentou que, caso a decisão não seja reformada, o valor da multa deve ser reduzido, sob o fundamento de que este corresponde a 80% do total supostamente devido.
+Contrarrazões às fls. 143/148, e-STJ.
+Em juízo provisório de admissibilidade (fls. 149/150, e-STJ), negou-se o processamento do recurso especial pela ausência de demonstração de violação aos dispositivos arrolados e pela incidência da Súmula 7/STJ.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A recorrente alegou a ocorrência de fato fortuito, sob o fundamento de que a profundidade da crise no setor açucareiro não era previsível.
+No entanto, a Corte estadual após sopesar o conjunto probatório carreado aos autos, a Corte Estadual concluiu não ser o caso de aplicação da teoria da imprevisão, bem como faz parte do risco do negócio, in verbis (fls. 118/119, e-STJ):
+Com efeito, não se trata de hipótese da rebus sic stantibus (ou teoria da imprevisão). Inexiste, de fato, modificação profunda nas condições objetivas contemporâneas à execução, em relação às contraentes, imprevistas e geradoras de onerosidade excessiva à locatária consoante dispõem os arts. 478 e 480 do Cód. Civil.
+O que se evidenciou queda econômica da atividade sucroalcooleira em verdade, está contido no conceito de álea do negócio-atividade desenvolvida pela locatária, risco que deve ser por ela suportado.
+Neste contexto, para superar as premissas fáticas em que se lastreou o acórdão recorrido e concluir pela ocorrência de fato fortuito, revelar-se-ia necessário incursionar sobre o acervo probatório constante dos autos, inviável na presente esfera processual, ante o óbice contido na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 do CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ.
+1. Na hipótese, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu não estar comprovado nos autos a ocorrência de fato fortuito ou culpa exclusiva da vítima. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1031996/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. DANOS MATERIAIS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS CUJA INTERPRETAÇÃO SEJA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO. 1. Cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe a Súmula 123/STJ: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+2. A revisão das conclusões estaduais - acerca da não caracterização de caso fortuito ou força maior que justificassem a exclusão da responsabilidade da recorrente no atraso da entrega do imóvel objeto da demanda e suas consequências - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+4. Ausência de impugnação a fundamento constante do acórdão estadual. Súmula 283/STF. 5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1261617/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/06/2018, DJe 27/06/2018; grifou-se)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. CABIMENTO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282/STF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de caso fortuito ou força maior a justificar o atraso na entrega da obra. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+4. De acordo com a jurisprudência desta Corte, o atraso na entrega de imóvel enseja pagamento de lucros cessantes, sendo presumível o prejuízo experimentado pelo promitente comprador. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1189236/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/03/2018, DJe 27/03/2018; grifou-se)
+2. Quanto ao mais, o Tribunal de origem afastou às alegações referentes ao excesso no arbitramento da multa, veja-se (fls. 117/118, e-STJ):
+Também não merece vingar o pedido da apelante, que argumenta com o disposto no art. 413 do Cód. Civil, a fim de adequar o quantum da cláusula penal às peculiaridades do negócio.
+Em verdade, os encargos moratórios nada têm de ilegais ou abusivos, e decorrem de cláusula originária de contrato de locação, inexistindo limitação ao poder de livre disposição das partes contratantes. A cláusula penal é obrigação de natureza acessória, por meio da qual se insere no contrato principal uma multa, para o caso de inadimplemento ou retardo no cumprimento da obrigação principal.
+Se, por um lado, referido dispositivo autoriza ao juiz, com base na equidade, intervir no contrato, reduzindo o valor convencionado, quando verificado que a cláusula se mostra excessiva para o caso concreto; por outro, a redução deve ser feita caso a caso, analisando-se os interesses e valores discutidos no contrato, não se cogitando da aferição de uma circunstância fortuita de, eventualmente, os prejuízos se revelarem muito mais baixos ou até inexistentes.
+Para alterar tal entendimento, seria necessária a análise das cláusulas contratuais, bem como o revolvimento do conteúdo fático-probatório dos autos, providências vedadas pelas sumulas 5 e 7 do Superior Tribunal de Justiça.
+ Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE COMPRA E VENDA DE NOME FANTASIA. DESCUMPRIMENTO PARCIAL. REDUÇÃO PROPORCIONAL DA MULTA CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O Tribunal de origem aplicou o artigo 413 do Código Civil determinando a redução proporcional da multa, incidente sobre o valor total do contrato, ao cumprimento parcial da obrigação, estipulando que a multa deve incidir apenas sobre os valores não pagos.
+2. A pretensão de que o montante da penalidade continua excessivo encontra óbice nas Súmulas 5 e 7 do STJ, pois é inviável nesta instância especial revisar o juízo de razoabilidade da instância ordinária que justificou a redução da multa contratual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 904.769/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/06/2018, DJe 13/06/2018; grifou-se)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 333, I, DO CÓDIGO DE PROCESSO CIVIL. FALTA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ARTS. 247 E 927 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE. RESCISÃO CONTRATUAL. MULTA REDUZIDA PELAS INSTÂNCIAS ORDINÁRIAS. DESEQUILÍBRIO CONTRATUAL E EXCESSO DE PENALIDADE COMPROVADOS. POSSIBILIDADE. JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. REEXAME DAS CONCLUSÕES DA CORTE ESTADUAL BASEADAS EM FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. AGRAVO NÃO PROVIDO.
+1. No que concerne ao art. 333, I, do Código de Processo Civil, apontado como violado, o recorrente não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. Em relação aos conteúdos normativos dos arts. 247 e 927 do Código Civil, verifica-se que essa questão não foi apreciada pelo Tribunal a quo e tampouco fora objeto de embargos de declaração. Portanto, carece de prequestionamento, nos termos das Súmulas 282 e 356/STF.
+3. A jurisprudência desta Egrégia Corte se orienta no sentido de considerar que: "Constata a excessividade pelo magistrado, é possível a redução da multa compensatória nos termos do artigo 413 do Código Civil." (AgRg no AREsp 456.602/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/03/2014, DJe 10/04/2014).
+4. Em relação ao valor da multa contratual, o colendo Tribunal de origem, com base no acervo fático-probatório dos autos, entendeu que há justificativa para a sua redução da multa em virtude do comprovado desequilíbrio contratual, bem como da excessividade da penalidade imposta unilateralmente. No caso, a modificação do entendimento lançado no v. acórdão recorrido encontra óbice na Súmulas 5 e 7/STJ.
+5. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 680.461/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016; grifou-se)
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nega-se provimento ao reclamo e, com base no art. 85, § 11, do NCPC, majora-se em 1% os honorários arbitrados na origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
