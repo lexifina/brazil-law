@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME], à decisão de fls. 392/420, que não conheceu do recurso.
+Sustenta a parte embargante que "A r. decisão que deu ensejo a interposição do competente recurso especial foi publicada no dia 05.02.2018 (quinta-feira), o prazo de 15 dias úteis para interposição do competente Recurso Especial, em alinho com a previsão contida no novo Código de Processo Civil, COMEÇOU A FLUIR NO DIA 06.02.2018, SEXTA-FEIRA, FINDANDO-SE, PORTANTO, NO DIA 05/03/2017, segunda-feira, em virtude das seguintes suspensões de prazo" (fl. 396).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado pela parte, nos autos há apenas a certidão de fl. 309, atestando a publicação ocorrida em 27/10/2017. Ou seja, não há nenhum documento do tribunal de origem certificando o alegado pela parte. Cabia ao agravante fazer prova de sua alegação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgRg no Ag 1.429.532/MG, 4ª Turma, Rel. Min. Raúl Araújo, DJe de 16/3/2012.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
