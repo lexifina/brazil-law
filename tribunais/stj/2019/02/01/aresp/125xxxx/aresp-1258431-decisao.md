@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 757 e 760 do Código Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 862):
+INDENIZATÓRIA. Queda de associado nas dependências de clube associativo.
+I - Agravo retido. Falta de reiteração nesta instância. Não conhecimento.
+II - Queda em passarela. Piso molhado em razão da precipitação de chuvas. Pouca abrasividade do piso com água, possibilitando a queda do associado. Posterior troca do piso por outro mais abrasivo. Previsibilidade da ocorrência de queda que reclamava maiores cuidados do clube, impedindo, notadamente, o trânsito de pessoas pelo local. Prestação de serviço sem a segurança esperada. Conduta negligente.
+III - Associado que também concorreu para a sua própria queda. Trânsito por passarela sabidamente molhada. Risco de queda. Conduta imprudente do apelado. Autor e clube apelado que concorreram, na mesma medida, para o evento danoso. Aplicação do disposto no art. 945 do Código Civil. Conclusão estabelecida qualquer que seja o regime jurídico aplicado ao caso dos autos (CDC ou Código Civil).
+IV - Queda que importou na fratura de fêmur do apelado. Danos materiais. Valores desembolsados pelo autor em razão do sinistro. Ocorrência, relegando-se a apuração dos valores à fase liquidação. Danos morais. Desassossego anormal vivenciado pelo autor. Configuração. Redução, pela aplicação do disposto no art. 945 do CC, da indenização pela metade, estabelecidos os danos morais em R$ - 10.000,00, com os acréscimos estabelecidos pela sentença.
+V - Seguradora denunciada. Alegação de falta de cobertura dos danos morais. Afastamento. Danos morais incluídos nos chamados danos corporais contratualmente cobertos. Condenação às verbas sucumbenciais da lide secundária. Adequação. Resistência ofertada, especialmente no que toca à cobertura dos danos morais.
+AGRAVO RETIDO NÃO CONHECIDO, COM PARCIAL PROVIMENTO AOS APELOS.
+Sustenta a seguradora que as disposições contratuais devem ser observadas "porquanto sua obrigação é de reembolso, limitada às importâncias seguradas e aos riscos efetivamente contratados (..)" (fl. 892).
+Argumenta que "não foi contratada a extensão da cobertura para danos morais, inexistindo o dever de indenizar da seguradora neste sentido" (fl. 892).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o Tribunal de origem deu parcial provimento ao recurso de apelação interposto pela agravante, assim discorrendo (fls. 866/867 e 888):
+(..)
+A queda, por seu lado, importou em danos ao apelado. Materiais e morais. Materiais em razão das despesas que suportou e que serão melhor apuradas na fase de liquidação (fls. 747), o que, neste particular, torna prematura a impugnação formulada pela seguradora à fls. 787. Não se afirmar que o apelado não experimentou despesas em razão do sinistro. Morais em decorrência da quebra da rotina do apelado para o tratamento da lesão física que experimentou, situação que importou em desassossego anormal vivenciado. Esse padecimento, além de físico, foi também no plano anímico, reclamando, sem maiores delongas, a necessária compensação financeira.
+Não colhe, outrossim, a alegação no sentido da ausência de cobertura securitária em relação ao dano moral. Por expressar sofrimento e angústia, os danos morais incluem-se nos chamados danos corporais; são indissociáveis e, por isso, acobertados pela apólice.
+Pela aplicação do disposto no art. 945 do CC, de rigor o realinhamento do quantum indenizatório. A quantia arbitrada pela sentença (R$ - 20.000,00, fls. 750), pela divisão da responsabilidade, em partes iguais, entre os litigantes, fica reduzida para R$ - 10.000,00, em relação aos danos morais e, quanto aos danos materiais, pela metade (50%) daquilo que vier a ser apurado na fase de liquidação, preservados os acréscimos estabelecidos pela sentença.
+(..)
+A matéria foi expressamente enfrentada pelo Acórdão, não havendo o vício alegado com previsão no artigo 1.022, inciso II, do Código de Processo Civil, conferindo-se in verbis: "Não colhe, outrossim, a alegação no sentido da ausência de cobertura securitária em relação ao dano moral. Por expressar sofrimento e angústia, os danos morais incluem-se nos chamados danos corporais; são indissociáveis e, por isso, acobertados pela apólice" (fl. 867).
+Nítida a pretensão infringente da embargante sobre a condenação em danos morais, pois há expressa referência no Julgado que os danos morais decorrem dos danos corporais, não se identificando qualquer afronta ao enunciado na Súmula 402 do Superior Tribunal de Justiça.
+Com efeito, observo que a jurisprudência desta Corte firmou o entendimento no sentido de que a previsão contratual de cobertura dos danos corporais abrange os danos morais apenas se esses não forem objeto de expressa exclusão ou se não constarem do contrato com cláusula contratual independente, nos termos da Súmula n. 402 desta Corte, que assim dispõe:
+O contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão.
+Observo, todavia, que, na hipótese dos autos, não se tem notícia de que exista previsão explícita e individualizada para cada tipo de cobertura securitária, ou de que exista cláusula expressa de exclusão dos danos morais, de modo que deve ser mantido o entendimento da Corte de origem no tocante à condenação da agravante ao pagamento de indenização por danos morais. A propósito, confiram-se:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AÇÃO DE COBRANÇA. ACIDENTE DE TRÂNSITO. APÓLICE QUE NÃO EXCLUI INDENIZAÇÃO POR DANOS MORAIS. SÚMULA Nº 402/STJ. CONDENAÇÃO SOLIDÁRIA NOS LIMITES DA APÓLICE. SÚMULA 537/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, nos termos da Súmula 402, do STJ, segundo a qual o contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão.
+3. "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." (Súmula 537/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.178.468/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 10.8.2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEGURO. COBERTURA DE DANOS CORPORAIS/PESSOAIS. ABRANGÊNCIA DOS DANOS MORAIS. SÚMULA 402/STJ. VERIFICAÇÃO DE CLÁUSULA EXPRESSA DE EXCLUSÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. "O contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão" (Súmula 402/STJ).
+2. O Tribunal de origem, no caso, não afirmou expressamente que na apólice havia exclusão do dano moral, de modo que a pretensão recursal - de afastar a cobertura dos danos morais fundada na tese de cláusula expressa a esse respeito - encontra óbice nas Súmulas 5 e 7/STJ.
+3. O dissídio jurisprudencial não pode ser conhecido, seja pela incidência das súmulas referidas, seja pela falta de similitude fática entre os julgados confrontados.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.261.226/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 25.11.2013)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
