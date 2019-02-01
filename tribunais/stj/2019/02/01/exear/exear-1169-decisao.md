@@ -1,0 +1,8 @@
+DECISÃO
+O Sindicado dos Trabalhadores Federais em Saúde e Previdência Social do Ceará - Sinprece propõe o cumprimento da parte do título executivo judicial que condenou o INSS ao pagamento de honorários advocatícios, os quais foram excluídos do procedimento executivo, por força de decisão proferida em embargos à execução, à mingua de apresentação de planilha demonstrativa, com a inclusão dos pagamentos administrativos - haveria inviabilizado aferir com exatidão os honorários devidos.
+Instado a se manifestar, O INSS, à fl. 502, sustentou que a petição de cumprimento proposta pelo Sindicato "deve ser indeferida, uma vez que o objeto do pedido já foi decidido, tendo havido o trânsito em julgado da decisão proferida nos embargos à execução".
+Sem razão o INSS.
+O julgamento dos embargos, no que tange aos honorários, restringiu-se ao exame de um dos pressupostos processuais objetivos da execução que não foi atendido - inexistência de demonstrativo que possibilitasse aferir o valor exato dos honorários fixados.
+Tal situação implica, na verdade, a extinção da execução sem o julgamento de mérito, nos termos do art. 485, IV, do CPC. Assim, a sentença - decisão que julgou os embargos à execução - é terminativa e o seu transito em julgado não fará coisa julgada material, de modo que a execução poderá ser reproposta, salvo na hipótese de haver sido extinta por reconhecimento de perempção, litispendência ou coisa julgada.
+Diante disso, não acolho a alegação do INSS formulada à fl. 502. Determino à Coordenadoria Judicial que avalie os cálculos apresentados pelo requerente e, em caso de equívoco estritamente aritmético, sejam refeitos com a indicação do valor correto.
+Publique-se e intimem-se.
