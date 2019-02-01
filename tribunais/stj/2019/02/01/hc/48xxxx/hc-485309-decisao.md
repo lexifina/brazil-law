@@ -1,0 +1,28 @@
+DECISÃO
+GERSON PAULA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2256446-78.2018.8.26.0000.
+Depreende-se dos autos que o paciente cumpre pena de 20 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 3º, do Código Penal, além da pena de 8 meses e 5 dias de detenção, em regime semiaberto, pela prática do delito descrito no art. 163, III, do CP.
+Contra a decisão do Juízo das Execuções que indeferiu o pedido formulado pelo sentenciado, pois poderá ser beneficiado com a progressão de regime após o cumprimento de 2/5 da reprimenda corporal respectiva.
+Neste writ, os impetrantes alegam que "a prática do delito pelo Paciente, bem como sua condenação pelo delito hediondo se deu em período anterior à vigência da Lei 11.464/07, que impôs o cumprimento de 2/5 (dois quintos) da pena para preenchimento do requisito objetivo no tocante a sentenciados que cometeram crimes desta natureza" (fl. 7).
+Requerem, liminarmente, seja apreciado o pedido na origem, "considerando o lapso temporal de 1/6 para a promoção do Paciente ao regime mais benéfico, consoante art. 112, da Lei de Execuções Penais" (fl. 10).
+Decido.
+O Tribunal local, ao denegar a ordem, asseverou o seguinte:
+Os impetrantes afirmam que o paciente, condenado por crime hediondo, já cumpriu mais de 1/6 (um sexto) da pena e que o fato ocorreu antes da vigência da Lei nº 11.464/07.
+A Lei nº. 11.464/07, de 28 de março de 2.007, estabeleceu expressamente a admissibilidade da progressão de regime prisional ao autor de crimes de natureza hedionda e a eles assemelhados, desde que, além dos requisitos subjetivos, tenha decorrido lapso de dois quintos da sanção, se se tratar de apenado primário, ou de três quintos, se reincidente.
+Trata-se, essa, de questão controvertida na jurisprudência; aliás, o entendimento deste Relator, e da Câmara, é no mesmo sentido esposado pelo digno Magistrado. Ainda que não o fosse, porém, de qualquer sorte jamais se poderia falar em constrangimento ilegal - afinal, essa posição conta com apoio de parte significativa da jurisprudência.
+E, independentemente da questão da retroatividade desta lei, nenhuma dessas hipóteses foi demonstrada e não vislumbro constrangimento ilegal algum passível de correição pela estrita via do habeas corpus, que não se presta ao exame de questões relativas à execução de pena. Assim, havendo irresignação em relação a incidentes na execução, o impetrante deverá formular os pedidos no Juízo da Execução ou, se já proferida a decisão, valer-se do recurso adequado, que não é o habeas corpus (fls. 13-14, destaquei).
+Assiste razão à defesa. O Superior Tribunal de Justiça entende que "A exigência do cumprimento de 2/5 (dois quintos) ou de 3/5 (três quintos) da pena imposta, como requisito objetivo para a progressão de regime aos condenados por crimes hediondos, trazida pela Lei n.º 11.464/07, por ser evidentemente mais gravosa, não pode retroagir para prejudicar o réu." (HC 269.196/GO, Rel. Ministra LAURITA VAZ, 5ª T., DJe de 11/9/2013).
+Nesse sentido:
+ ..
+2. Conforme orientação firmada nesta Corte, a majoração da pena pela aplicação do art. 71, parágrafo único, do Código Penal, deve se pautar por critérios objetivos (número de infrações cometidas) e subjetivos (circunstâncias judiciais do art. 59 do Código Penal).
+3. Admitido o acréscimo da pena no patamar de 1/3 pela continuidade delitiva específica quando, cometidas apenas duas infrações (duplo latrocínio), as circunstâncias judiciais se mostrarem desfavoráveis ao réu, como no caso.
+4. O Supremo Tribunal Federal, ao julgar o HC n. 82.959/SP, declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n.
+8.072/1990, que vedava a progressão do regime aos condenados por crimes hediondos e equiparados, e, com o advento da Lei n.
+11.464/2007, foi assegurado direito à progressão desde que cumpridos 2/5 da pena, se o apenado for primário, e 3/5, se reincidente.
+5. In casu, o paciente foi condenado por latrocínio cometido antes da entrada em vigor da Lei n. 11.464/2007, sujeitando-se ao disposto no art. 112 da Lei n. 7.210/1984 para a progressão de regime prisional. Inteligência da Súmula 471 do STJ.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para, respeitado o regime inicial fechado, determinar ao Juízo das Execuções Penais que examine o cabimento da progressão, observada a fração de 1/6, nos termos do art. 112 da LEP.
+(HC n. 187.617/RJ, Rel. Ministro Gurgel de Faria, 5ª T., DJe 20/8/2015, destaquei)
+A Lei n. 11.464/2007, apesar de permitir o cumprimento progressivo da pena aos condenados pela prática de crimes hediondos e a ele equiparados, estabeleceu requisito objetivo mais gravoso para a obtenção da progressão de regime, constituindo, neste ponto, verdadeira lei penal mais gravosa, que não pode ser aplicada retroativamente em prejuízo do réu, a teor do art. 2º do CPP e do art. 5º, XL, da Constituição Federal.
+In casu, conforme consta na folha de antecedentes criminais do apenado, o delito de latrocínio foi cometido bem antes da entrada em vigor da lei em comento (fls. 31-37).
+Logo, conforme Dessa forma, o critério objetivo necessário para a progressão de regime prisional à recorrente, condenada por crime equiparado a hediondo praticado em 23/3/2007, dias antes data da entrada em vigor da Lei n. 11.464/2007, deve ser aquele previsto no art. 112 da LEP, mais benéfico em matéria de requisito temporal.
+À vista do exposto, concedo a ordem, in limine, a fim de que o Juízo das Execuções aprecie o pedido de progressão de regime do ora paciente, à luz dos critérios estabelecidos no art. 112 da LEP.
+Publique-se e intimem-se.
