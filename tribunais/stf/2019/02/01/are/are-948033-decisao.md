@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO INTERNO. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA POR SEUS PRÓPRIOS FUNDAMENTOS. ‘DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE INTERESSE. VALOR IRRISÓRIO. APELAÇÃO. DESCABIMENTO. ARTIGO 34 DA LEF – LEI 6830/1980.’ DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º; 2º; 60; 150; 156; todos da CF. Sustenta que: (i) não é possível a extinção da execução fiscal sob o fundamento de o crédito ser irrisório; (ii) nenhum ente federado pode legislar sobre os tributos de competência dos demais.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “O detido exame de ambas as razões recursais revela a falta de pertinência temática entre os dispositivos indicados como violados pelo v. acórdão recorrido e a questão efetivamente julgada pelo Colegiado.
+    Com efeito, tratou a decisão alvejada do cabimento do recurso de Embargos Infringentes “de alçada”, previstos da Lei de Execuções Fiscais, contra a Sentença que julgou extinta execução fiscal de pequena expressão econômica, isto é, aquela cujo valor executado não alcance montante igual ou inferior a 50 ORTN (obrigações reajustáveis do tesouro nacional).
+    Não foi apreciada pelo Colegiado no acórdão vergastado a questão de fundo, de direito material, de que tratam os recursos excepcionais ora apreciados.
+    Tal circunstância configura hipótese de fundamentação deficiente, a atrair, por analogia, a incidência do verbete nº 284 da Súmula do Supremo Tribunal Federal.
+    (…)
+    À conta de tais fundamentos, DEIXO DE ADMITIR os Recursos Extraordinário e Especial, pelo veto da Súmula nº 284 do E. STF.”
+    O agravo não pode ser conhecido. A petição recursal não impugnou os fundamentos da decisão ora agravada, limitando-se a sustentar que não é possível a extinção da execução fiscal sob o fundamento de o crédito ser irrisório, bem como que nenhum ente federado pode legislar sobre os tributos de competência dos demais. Nesses casos, é inadmissível o agravo, conforme a orientação desta Corte. Veja-se, nesse sentido, a seguinte passagem da ementa do ARE 695.632-AgR/SP, julgado sob a relatoria do Ministro Luiz Fux:
+    “1. O princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma da decisão objurgada, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+    2. O agravo de instrumento é inadmissível quando a sua fundamentação não impugna especificamente a decisão agravada. Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia. (súmula 287/STF).
+    3. Precedentes desta Corte: AI 841690 AgR, Relator: Min. Ricardo Lewandowski, DJe- 01/08/2011; RE 550505 AgR, Relator: Min. Gilmar Mendes, DJe- 24/02/2011; AI 786044 AgR, Relatora: Min. Ellen Gracie, DJe- 25/06/2010.”
+    Ademais, a alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    A decisão proferida pelo Tribunal de origem não conheceu do apelo da parte recorrente, sob o fundamento de que cabível o recurso de embargos em execução fiscal de valor inferior a 50 ORTN. Por sua vez, a parte recorrente dedicou a petição de recurso extraordinário a sustentar a impossibilidade de extinção da execução fiscal e a incompetência de outros entes federados para legislar sobre tributos de competência dos demais.
+    As razões apresentadas no recurso extraordinário estão dissociadas dos fundamentos do acórdão que impugnou. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    Por fim, importa destacar que o acórdão recorrido está alinhado à jurisprudência desta Corte, que, ao apreciar o tema 408 da sistemática da repercussão geral, fixou a seguinte tese: “É compatível com a Constituição o art. 34 da Lei 6.830/1980, que afirma incabível apelação em casos de execução fiscal cujo valor seja inferior a 50 ORTN”.
+    Diante do exposto, com base no art. 544, § 4º, I, do CPC, e no art. 21, § 1º, do RI/STF, não conheço do agravo.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
