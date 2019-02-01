@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por ausência de violação do art. 535 do CPC/1973 e por incidência da Súmula n. 7 do STJ.
+O tribunal de origem negou provimento ao apelo interposto pela agravante, em julgado que recebeu a seguinte ementa (e-STJ fl. 584):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO DE POSSE E AÇÃO DE REINTEGRAÇÃO DE POSSE. CAUSAS CONEXAS. RECONVENÇÃO. MATÉRIA COINCIDENTE. INEXISTÊNCIA DE VÍCIO DE JULGAMENTO CITRA PETITA. Uma vez que houve pronunciamento sobre a matéria posta na peça reconvencional, quando do julgamento da ação de reintegração de posse, feita em conjunto com a conexa ação de manutenção de posse, a falta de decisão sobre a reconvenção não importa em vício de julgamento citra petita. (VPC) APELAÇÃO CÍVEL. MANUTENÇÃO DE POSSE. NULIDADE DA SENTENÇA. VÍCIO CITRA PETITA. NÃO APRECIAÇÃO DA RECONVENÇÃO. CASSAR A SENTENÇA. - A falta de apreciação da reconvenção - ainda que para se manifestar sobre a possibilidade do seu cabimento em sede de ação possessória - importa em nulidade absoluta, sendo impossível saná-la em sede recursal, com fundamento nos artigos 515, § 1º e 516 do CPC, na medida em que isto implicaria em supressão de instância.
+VENDA A NON DOMINI. NÃO OCORRÊNCIA. PROTEÇÃO POSSESSÓRIA. SENTENÇA MANTIDA. - As provas acostadas aos autos demonstram que, embora tenha ocorrido a tradição do veículo, a documentação ficou pendente, já que o DUT encontrava-se em branco, tendo o segundo réu se comprometido a buscar a assinatura da apelante, o que é corroborado pelo depoimento pessoal prestado pelo segundo réu.
+- Não se aplica ao presente caso, o disposto no art. 1.268 do CC, que trata da venda a non domini, na medida em que as provas acostadas aos autos vão de encontro à alegação de que a autorização para venda não teria sido concedida.
+- Além disso, não restou vislumbrada a má fé da apelada que, por sua, vez, logrou demonstrar a presença dos requisitos para o acolhimento da pretensão de proteção possessória.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 601/604).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a", da CF, a agravante apontou violação do art. 535 do CPC/1973 por omissão do acórdão recorrido.
+Aduziu afronta ao art. 1.268 do CC/2002, sustentando a nulidade da venda do automóvel de sua propriedade por se tratar de venda do automóvel de sua propriedade por pessoa que não teria autorização para tanto. Destacou, nesse sentido, que (e-STJ fl. 616):
+(..) a compra e venda entre as partes é nula, não podendo se convalidar. Dentre outras razões, pelos fatos de que era facilmente aferível para a Recorrida que o veículo era de propriedade de terceiro, que o suposto vendedor não dispunha de poderes para aliená-lo e finalmente que o comerciante não dispunha do DUT, para a transferência administrativa do bem.
+Em outros termos, faltando à compradora o cuidado normal mediano, que se espera de qualquer pessoa ao celebrar o negócio sub judice e também pela ausência de documentos assinados pela Recorrente autorizando a transferência do veículo, a presente venda a non domino não pode se convalidar.
+Foram apresentadas contrarrazões (e-STJ fls. 633/635).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A recorrente apontou, de forma genérica, a ofensa ao art. 535 do CPC, sem indicar, todavia, de que modo o dispositivo teria sido ofendido ou como a Corte local lhe teria negado vigência. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+Ao decidir sobre a inaplicabilidade do art. 1.268 do CC/2002, o Tribunal de origem assim se pronunciou (e-STJ fls. 590/591):
+As provas acostadas aos autos demonstram que, embora tenha ocorrido a tradição do veículo, a documentação ficou pendente, já que o DUT encontrava-se em branco, tendo o segundo réu se comprometido a buscar a assinatura da apelante, o que é corroborado pelo depoimento pessoal prestado pelo segundo réu.
+Não se aplica ao presente caso, o disposto no art. 1.268 do CC, que trata da venda a non domini, na medida em que as provas acostadas aos autos vão de encontro à alegação de que a autorização para venda não teria sido concedida.
+Além disso, não restou vislumbrada a má fé da apelada que, por sua, vez, logrou demonstrar a presença dos requisitos para o acolhimento da pretensão de proteção possessória.
+A modificação das conclusões do acórdão recorrido quanto à regularidade da venda do automóvel demandaria o revolvimento de matéria de fato, vedada em recurso especial, a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
