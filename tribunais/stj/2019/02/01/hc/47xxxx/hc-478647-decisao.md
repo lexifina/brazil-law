@@ -1,0 +1,18 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0012652-40.2014.8.26.0590.
+Neste writ, a impetrante aponta a ocorrência de constrangimento ilegal, ao argumento de que o regime fechado foi fixado em desconformidade com as Súmulas n. 718 e 719 do STF.
+Requer a concessão da ordem, para que seja estabeelcido o regime aberto.
+Indeferida a liminar e dispensadas as informações, os autos foram encaminhados ao Ministério Público Federal, que opinou pelo "não conhecimento do habeas corpus, concedendo-se, todavia, a ordem de ofício, para fixar o regime semiaberto para desconto da pena impingida" (fl. 38).
+Decido.
+O ora paciente foi condenado, em primeira instância, à pena de 1 ano e 4 meses de reclusão, em regime fechado, mais multa, como incurso no art. 180 do Código Penal. O Juízo sentenciante fixou o regime mais gravoso para o cumprimento da reprimenda imposta ao réu, "em razão de sua reincidência, bem como levando em consideração a circunstâncias judiciais do artigo 59 do Código Penal" (sic) (fl. 11).
+A Corte de origem deu parcial provimento ao apelo defensivo, a fim de afastar a agravante da reincidência, e readequou a sanção para 1 ano e 2 meses de reclusão mais 11 dias-multa. Todavia, manteve o regime fechado fixado na sentença, "diante dos maus antecedentes do apelante (fl. 06 do apenso), os quais demonstram que a fixação de modalidade diversa de regime prisional não seria suficiente para a finalidade de retribuição e prevenção de crimes" (fl. 20, grifei).
+Quanto à almejada modificação do regime inicial para o aberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Conforme entendimento desta Corte Superior, a valoração negativa dos antecedentes do réu, na primeira etapa da dosimetria, justifica a imposição de modo mais gravoso de cumprimento de pena, consoante disposto no art. 33, § 3º, do Código Penal. Entretanto, como o paciente foi condenado a reprimenda inferior a 4 anos de reclusão, o regime cabível é o semiaberto.
+Nesse sentido:
+ ..
+1. Não obstante a reprimenda final seja inferior a 4 anos de reclusão, é inviável a imposição do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos, diante da existência de elementos concretos a figurar em demérito da paciente. Desproporcional, entretanto, a fixação do regime inicial fechado, tendo em vista o quantum da pena imposta, a saber, 2 anos e 6 meses de reclusão, sendo razoável, pois, a imposição do regime inicial intermediário.
+2. Habeas corpus concedido, em menor extensão, a fim de fixar o regime inicial semiaberto para o cumprimento da reprimenda corporal imposta à paciente.
+(HC n. 385.933/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 20/4/2017, destaquei)
+À vista do exposto, concedo a ordem, a fim de fixar o regime semiaberto para início do cumprimento da pena.
+Publique-se e intimem-se.
