@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Recursal do Juizado Especial da Fazenda Pública, ementado nos seguintes termos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROFESSORES DA REDE PÚBLICA MUNICIPAL DE ENSINO. INEXISTÊNCIA DE DIREITO A FÉRIAS ANUAIS DE 60 DIAS. INTERPRETAÇÃO SISTEMÁTICA. LEIS MUNICIPAIS Nº 5.895/84 E 6.794/90, EM OBSERVÂNCIA AO ART. 39 DA CF/88. RECURSO REJEITADO. SENTENÇA CONFIRMADA”. (eDOC 4. p, 1).
+    Foram opostos embargos de declaração (eDOC 5), que restaram conhecidos e desprovidos.
+    No recurso extraordinário (eDOC 6), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 7º, XVII; 39, §3º; 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que a recorrente deveria gozar de 30 dias de férias, após cada semestre letivo, com a incidência do terço constitucional sobre todo o período de férias. Todavia, o Município não respeita a Lei vigente, uma vez que, apenas contempla as férias do mês de julho com o adicional de 1/3.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Leis Municipais nº 5.895/84 e 6.794/90) e o conjunto probatório constante dos autos, consignou que a partir da promulgação da Lei Municipal nº 6.794/1990, instituindo o Estatuto dos Servidores do Município de Fortaleza, o período de férias previsto para qualquer servidor público municipal, professores incluídos, é de apenas 30 (trinta) dias.
+    Consignou, ainda, que a legislação municipal somente previu o pagamento do adicional de férias para o período anual de 30 (trinta) dias, de modo que, não cabe ao Poder Judiciário criar vantagem remuneratória que não foi expressamente prevista em lei. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Em cumprimento à primeira das regras constitucionais referidas (art. 39), o Município de Fortaleza editou a Lei nº 6.794/1990, instituindo o Estatuto dos Servidores do Município de Fortaleza.
+    Referido Diploma legal, aplicável a todos os servidores públicos municipais, expressamente dispôs que cada servidor somente teria direito a trinta (trinta) dias de férias por ano, sendo indispensável, para cada período aquisitivo, 12 (doze) meses de efetivo exercício. Previu, ademais, pagamento de gratificação de 1/3 de abono (art. 53).
+    Recorde-se que o mencionado art. 113 da Lei Municipal nº 5.895/84 expressamente dispunha que o gozo de férias dos professores da rede municipal ocorreria na forma do Estatuto dos Funcionários Públicos Municipais de Fortaleza.
+    Sendo assim, patente que, a partir da promulgação da Lei Municipal Lei nº 6.794/1990, instituindo o Estatuto dos Servidores do Município de Fortaleza, o período de férias previsto para qualquer servidor público municipal, professores incluídos, é de apenas 30 (trinta) dias.
+    (…)
+    De mais a mais, observe-se que a legislação municipal somente previu pagamento do adicional de férias para o período anual de 30 (trinta) dias (…). Não cabe ao Judiciário criar vantagem remuneratória que não foi expressamente prevista em lei”. (eDOC 4, p. 1-4).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF. Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROFESSOR DA REDE PÚBLICA MUNICIPAL. ALEGAÇÃO DE DIREITO ADQUIRIDO À FÉRIAS DE SESSENTA DIAS. INTERPRETAÇÃO DA LEGISLAÇÃO LOCAL. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. 1. A resolução da controvérsia demanda a análise da legislação infraconstitucional local pertinente, o que é vedado em recurso extraordinário. Incidência da Súmula 280/STF. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC”. (ARE 1.117.901 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 6.8.2018).
+    “Agravo regimental no recurso extraordinário. 2. Alegação de ofensa direta ao texto constitucional. Não caracterização. 3. Necessidade de interpretação da legislação local pertinente (Lei 2.517/1986 e Lei Complementar 45/2002, ambas do Município de Florianópolis). 4. Incidência do Enunciado 280 da Súmula do STF. 5. Agravo regimental a que se nega provimento”.
+(RE 840.483 AgR, de minha relatoria, Segunda Turma, DJe 12.11.2015).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro, em 10%, o valor da verba honorária fixada pela origem (eDOC 4, p. 4), observados os limites previstos nos parágrafos 2º e 3º do artigo 85 do CPC, ressalvada a concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
