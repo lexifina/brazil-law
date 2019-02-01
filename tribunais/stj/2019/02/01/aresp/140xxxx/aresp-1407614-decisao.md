@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO LAPSO PRESCRICIONAL. NÃO OCORRÊNCIA. PRECEDENTES.
+Agravo conhecido para negar provimento a recurso especial.
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público Federal contra decisão de inadmissão de recurso especial, este apresentado no processo n. 0014606-13.2011.4.01.4000 em face acórdão proferido pela Corte Especial do Tribunal Regional Federal da 1ª Região que, negando provimento ao seu apelo, reconheceu a extinção da punibilidade quanto a [NOME] pela imputação de prática de conduta descrita no art. 293, V, § 1º, I, do Código Penal, conforme termos da seguinte ementa (fl. 572):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. PENAL. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA SEM MODIFICAÇÃO DA PENA. NÃO APLICAÇÃO DO ART. 117, IV DO CP.
+1. Predomina na jurisprudência do STF e do STJ o entendimento no sentido de que, mesmo com a alteração do inciso IV do art. 117 do CP, a prescrição será interrompida somente na hipótese em que o acórdão que confirma a condenação aumenta a pena ou altera o título da condenação com modificação substancial.da pena.
+2. Na hipótese de acórdão que confirma a condenação, mas não altera a sentença, como ocorre nos autos, não se interrompe a prescrição (Precedentes do STF e do STJ).
+3. Agravo regimental desprovido.
+O recorrente alega, nas suas razões recursais, em síntese, que o acórdão recorrido teria negado vigência ao art. 293, V e § 1º, I, do Código Penal, porquanto a expressão "acórdão condenatório recorrível" deveria ser entendida em sentido amplo, compreendendo também o acórdão confirmatório da sentença. Esse também deveria ser considerado como marco interruptivo da prescrição, de modo que o início do curso do prazo da prescrição executória deveria ficar diferido para depois do trânsito em julgado definitivo para ambas as partes, sob pena de ferir de morte o direito de punir do Estado. Menciona, ainda, que os argumentos expostos teriam sido acolhidos pelo Supremo Tribunal Federal no julgamento do HC n. 138.088 (fls. 575/609).
+Contrarrazões às fls. 613/616.
+O apelo foi obstado na origem por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça (fls. 618/619).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que o recurso atenderia o requisito do prequestionamento e que a controvérsia seria exclusivamente de direito. Acresce que o Supremo Tribunal Federal teria reconhecido repercussão geral sobre o tema no ARE 848.107, devendo o recurso ser provido para que a questão seja analisada com maior profundidade pelas instâncias superiores. Salienta, ainda, que os argumentos expostos teriam sido acolhidos pelo Supremo Tribunal Federal no julgamento do HC n. 138.088 (fls. 623/657).
+Contrarrazões ao agravo em recurso especial às fls. 660/668.
+O Ministério Público Federal opina pelo não conhecimento do agravo e, caso conhecido, pelo seu desprovimento (fls. 680/684).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, importante destacar que, para a jurisprudência do Superior Tribunal de Justiça, o acórdão confirmatório da condenação não opera a interrupção do lapso prescricional nos moldes do art. 117, IV, do Código Penal.
+Nesse sentido: AgRg no REsp n. 1.410.204/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 8/3/2018; AgRg no AgRg no AREsp n. 545.064/MG, de minha relatoria, Sexta Turma, DJe 26/8/2015; e AgRg no REsp n. 1.060.205/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/5/2015.
+O acórdão, para interromper a prescrição, deve trazer alteração substancial na sentença condenatória (cf. AgRg no REsp n. 1.709.794/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/11/2018).
+A compreensão é que, embora a intenção do legislador pudesse ter sido transformar a decisão confirmatória da condenação em marco de interrupção prescricional, a alteração redacional no dispositivo em comento não alterou a norma.
+Necessário também frisar que os precedentes do Supremo Tribunal Federal expressos sobre o tema são oriundos da Primeira Turma, inclusive o mencionado HC n. 138.088, não configurando orientação pacífica sobre a questão.
+In casu, o Tribunal local decidiu a questão conforme voto prevalente do relator (fl. 568):
+ ..
+Conforme já ressaltado anteriormente, o recorrente alega, em síntese, que, diversamente do que sustenta a decisão agravada, o acórdão confirmatório da sentença condenatória interrompe o prazo prescricional, conforme preceitua o art. 117, IV, do Código Penal.
+No que tange à matéria versada no recurso especial, predomina na jurisprudência do STF e do STJ o entendimento no sentido de que, mesmo com a alteração do inciso IV do art. 117 do CP, a prescrição será interrompida somente na hipótese em que o acórdão que confirma a condenação aumenta a pena ou altera o título da condenação com modificação substancial da pena (STF: HC 92340, 1a Turma, julgado em 18/03/2008; STF: HC/ED 85556/RS, 2a T, julgado em 16/08/2008). Contudo, na hipótese de acórdão que confirma a condenação, mas não altera a sentença, como ocorre nos autos, não se interrompe a prescrição (STF: HC 96009, 1a Turma, julgado em 28/04/2009; STJ: AgRg no REsp 1419610/SP, Rei. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/12/2015, DJe 09/12/2015; AgRg no AREsp 293.658/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/09/2015, DJe 08/09/2015; AgRg no REsp 1396098/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/08/2015, DJe 17/08/2015; AgRg no AREsp 199706. Ministra REGINA HELENA COSTA, Quinta Turma, Julgado em 27/03/2014. DJe 02/04/2014).
+ ..
+Conforme se observa, o Tribunal local não considerou como marco interruptivo da prescrição o acórdão confirmatório da condenação.
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência assente neste Tribunal, autoriza-se o julgamento monocrático, conforme dispõe a Súmula 568/STJ.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
