@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 1º, III, 5º, XXXVI, e 202 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    A controvérsia acerca da natureza jurídica da atividade desenvolvida pela empresa para fins de incidência do ISS, não alcança estatura constitucional. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    "AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. DIREITO ADQUIRIDO. LEIS ESTADUAIS 200/74 E 4.819/58. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA. 1. A matéria relativa ao direito adquirido à complementação de aposentadoria com fundamento nas leis paulistas 200/74 e 4.819/58 teve sua repercussão rejeitada por esta Suprema Corte quando do julgamento do RE 585.395-RG, da relatoria da E. Ministra Ellen Gracie, Dje de 18/12/09, por se tratar de matéria cuja resolução está adstrita a interpretação de normas infraconstitucionais locais. 2. Agravo regimental desprovido.” (AI 746051, Relator(a): Min. Luiz Fux, 1ª Turma, DJe 28.6.2011)
+    “Ementa: PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. PRESCRIÇÃO ADMINISTRATIVA. VIOLAÇÃO AO ATO JURÍDICO PERFEITO. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN. GILMAR MENDES - TEMA 660). LEIS ESTADUAIS 1.386/51, 4.819/58 E 200/74. ANÁLISE DA LEGISLAÇÃO LOCAL. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULAS 279 E 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 857050 AgR, Relator(a):  Min. TEORI ZAVASCKI, Segunda Turma, julgado em 24/02/2015, PROCESSO ELETRÔNICO DJe-045 DIVULG 09-03-2015 PUBLIC 10-03-2015)
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
