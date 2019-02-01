@@ -1,0 +1,24 @@
+Trata-se de reclamação ajuizada em favor de Sergio Wesley da Cunha contra ato da Juíza Fernanda Politi da Unidade Regional de Departamento Estadual e Execução Criminal DEECRIM 1ª RAJ, que teria afrontado a Súmula Vinculante 56.
+    O reclamante alega que,
+    “[a]o ser reformada a r. sentença condenatória pelo juízo da execução, fixou-se o regime semiaberto para início do cumprimento, mas que não concedeu o regime aberto apesar do reclamante já ter cumprido 1/6 da pena em regime fechado mais gravoso, ou de ofício ou como requerido pela oab/sp o indulto de 2016 a que faz jus e preenche todos os requisitos” (pág. 2 do documento eletrônico 1).
+    Sustenta que
+    “[o] indulto foi requerido em apenso a execução principal (desde o dia 13/11/2017) e encontra-se pendente de julgamento na 2ª instância em sede de Agravo em Execução desde então.
+    Considerando que a Ordem dos Advogados do Brasil que assiste e defende o RECLAMANTE desde a instrução de 1º grau, nos autos principais da execução requereu a prisão domiciliar e no apenso do indulto a decretação da extinção da pena, e que até a presente data a juíza de 1º graus não tenha decidido, socorre-se a defesa para que Vossa Excelência conceda liminar para expedir contramandado de prisão, ou conceda o indulto de 2016 a que faz jus” (pág. 2 do documento eletrônico 1).
+     Requer, por fim,
+    “[q]ue seja expedido o contramandado ao reclamante, a fim de que as autoridades se abstenham de atentar contra sua liberdade de locomoção, até que seja julgado em definitivo seu pedido de indulto, ou seja retificada a sentença reformada pelo juízo de execução para regime inicial aberto (em observância ao restante da pena de 03 anos e 08 meses – rcl 24.298 stf), ou ainda, seja-lhe garantido o direito de iniciar o cumprimento da pena em prisão domiciliar, enquanto não for julgado o indulto, devendo oportunamente ser intimado para apresentação por meio da vara das execuções criminais de são paulo, tendo em vista que o mesmo reside atualmente na referida comarca” (pág. 9 do documento eletrônico 1).
+    Após ser autuada, a reclamação foi encaminhada à Presidência do Supremo Tribunal Federal, em virtude das férias forenses, recebendo o seguinte despacho:
+    “Cuida-se de reclamação constitucional, com pedido de liminar, juizada por Sérgio Weslei da Cunha em face da Juíza de Direito da Unidade Regional de Departamento Estadual de Execução Criminal Deecrim 1ª Raj, que teria afrontado a autoridade do Supremo Tribunal Federal no que decidido na Súmula Vinculante nº 56, nas Súmulas n º 718 e 719, e no que decidido na Rcl nº 24.298.
+    Decido.
+    O caso não se enquadra na previsão do art. 13, inciso VIII, do RISTF. Solicitem-se informações à autoridade reclamada a respeito do quanto se alega na inicial (RISTF, art. 157)” (documento eletrônico 14).
+    Prestadas as informações, a autoridade reclamada esclareceu que o reclamante ainda não foi recolhido ao cárcere e que aguarda “o cumprimento do mandado de prisão para posterior análise do pedido de prisão albergue domiciliar formulado pela defesa com base no disposto na súmula vinculante 56, uma vez que o pedido somente pode ser analisado após sua prisão” (pág. 5 do documento eletrônico 16).
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que a reclamação não merece prosperar, haja vista não haver afronta ao enunciado da Súmula Vinculante 56, porquanto o reclamante não se encontra recolhido em estabelecimento para cumprimento de pena em regime mais gravoso que o definido na sentença condenatória.
+    Diferentemente do habeas corpus, não se admite o ajuizamento de reclamação preventiva, uma vez que, de acordo com a norma de regência, faz-se necessária a existência de ato concreto que afronte a competência do tribunal, afronte a autoridade das decisões da Corte ou não aplique enunciado de Súmula Vinculante ou entendimento fixado em controle concentrado de constitucionalidade (art. 988 do Código de Processo Civil).
+    Na espécie, observo que o reclamante já conta, em seu favor, com ordem de habeas corpus determinando que o mandado de prisão seja cumprido observando-se a existência de vaga em estabelecimento adequado ao regime semiaberto, de modo que ainda não foi possível sua execução pelo Juízo da Execução Penal.
+    Ademais, a autoridade reclamada determinou a remessa dos autos ao setor de cálculo para informar ou proceder retificação nos termos da manifestação da defesa.
+    Dessa forma, não vislumbro, até então, qualquer ilegalidade que possa ser sanada pela via reclamatória, quanto mais no tocante à concessão do indulto, sendo esta matéria que transborda os limites da presente ação.
+    Isso posto, não conheço da reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
