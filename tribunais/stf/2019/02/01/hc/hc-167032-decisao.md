@@ -1,0 +1,36 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de João Vitor Alves Ribeiro, contra decisão do Ministro João Otávio de Noronha, Presidente do Superior Tribunal de Justiça – STJ, que indeferiu a liminar pleiteada no HC 486.554/MG.
+    Consta dos autos que o paciente foi preso em flagrante, em 5/12/2018, pela prática, em tese, do delito descrito no art. 180, caput, do Código Penal. O delegado de polícia arbitrou fiança no valor de R$ 4 mil reais. O Juízo da Comarca de Ubá, ante o não recolhimento da caução, decretou a prisão preventiva (pág. 52 do doc. eletrônico 2).
+    A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais – TJMG para revogar a custódia cautelar. A liminar foi indeferida. Irresignada, a defesa protocolou writ no STJ, cuja liminar também foi indeferida.
+    Contra a decisão monocrática do Ministro João Otávio de Noronha é o presente, em que o impetrante renova o pedido de concessão de liberdade provisória.
+    Alega, em síntese, que o paciente não tem condições econômicas para prestar a fiança arbitrada, desproporcionalidade da medida cautelar extrema, estando ainda ausentes os pressupostos autorizadores da prisão preventiva, bem como condições pessoais favoráveis. Sustenta ser o caso de superação da Súmula 691/STF, em razão da manifesta ilegalidade da prisão.
+    É o relatório. Decido.
+    A presente impetração volta-se contra decisão monocrática de Ministro do STJ que indeferiu a liminar pleiteada no HC 486.554/MG.
+     Desse modo, este pleito não pode ter seguimento, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Verifico, contudo, tratar-se de caso de concessão da ordem de habeas corpus, de ofício, nos termos do que determina o art. 192, caput, do Regimento Interno do Supremo Tribunal Federal.
+    Transcrevo a decisão que decretou a custódia do paciente:
+    “JOÃO VITOR ALVES RIBEIRO, já devidamente qualificado nos autos, foi preso em flagrante em 05 de dezembro do corrente ano, pela prática em tese do delito previsto no art. 180, caput, do Código Penal.
+    Apreciando o feito, vê-se que o Delegado de Polícia arbitrou fiança no importe de R$ 4.000,00 (quatro mil reais).
+    Pois bem.
+    Como é cediço, desde o advento da Lei n 12.403/2011, a fiança assumiu definitivamente a natureza jurídica de medida cautelar diversa da prisão.
+    Neste diapasão, o descumprimento de uma medida cautelar imposta, dá ensejo à sua substituição, com fulcro no parágrafo 4º do art. 282 do Código de Processo Penal.
+    Outrossim, a prisão em flagrante é marcada pela sua pré-cautelaridade, não podendo se protrair no tempo, como ocorre com outras modalidades segregatórias (preventiva, temporária, decorrente da pronúncia).
+    Assim sendo, pelo fio do exposto, e, diante do descumprimento da cautelar correspondente à prestação de fiança, converto a prisão em flagrante em prisão preventiva, mantendo o investigado preso.
+    Expeça-se mandado de prisão com validade de 03 (três) anos.
+    [...]” (pág. 52 do doc. eletrônico 2).
+    Observo, inicialmente, que a decisão não menciona a presença dos requisitos autorizadores da prisão preventiva (art. 312 do Código de Processo Penal), lastreando-se tão somente no não pagamento da fiança arbitrada pela autoridade policial.
+    Prisão preventiva decretada nesses termos configura-se constrangimento ilegal.
+    O art. 350 do Código de Processo Penal dispõe, in verbis:
+    “Art. 350. Nos casos em que couber fiança, o juiz, verificando a situação econômica do preso, poderá conceder-lhe liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso.”
+    A jurisprudência desta Suprema Corte é no sentido da aplicação do dispositivo acima transcrito nos casos em que o paciente não tem condições econômicas de recolher o valor arbitrado como fiança, estando ausente a necessidade de custódia cautelar. Cito como exemplo os seguintes julgados:
+    “PRISÃO PREVENTIVA – FIANÇA – IMPOSSIBILIDADE DE SATISFAÇÃO. A impossibilidade de satisfação da fiança arbitrada, considerada a situação econômica do preso, implica o implemento da liberdade provisória, a teor do artigo 350 do Código de Processo Penal, sob pena de configuração da prisão civil.” (HC 30.402/SP, Rel. Min. Marco Aurélio)
+    “HABEAS CORPUS. PROCESSO PENAL. SÚMULA 691/STF. AFASTAMENTO. DELITO DE PROVOCAR INCÊNDIO EM MATA OU FLORESTA. ARTIGO 41 DA LEI 9.605/1998. LIBERDADE PROVISÓRIA COM FIANÇA. SITUAÇÃO ECONÔMICA DO RÉU. DISPENSA. ARTIGOS 325, § 1º, I, E 350, DO CÓDIGO DE PROCESSO PENAL. CONCESSÃO DA ORDEM. 1. Em casos excepcionais, viável a superação do óbice da Súmula 691 desta Suprema Corte. Precedentes. 2. O magistrado de primeiro grau decidiu fundamentadamente pela concessão de liberdade provisória com fiança (art. 310, III, do CPP), porquanto inexistentes os elementos concretos indicativos de fuga do paciente, de interferência indevida na instrução processual ou de ameaça à ordem pública. 3. Na dicção dos arts. 325 e 326 do Código de Processo Penal, a situação econômica do réu é o principal elemento a ser considerado no arbitramento do valor da fiança. 4. Diante da incapacidade econômica do paciente, aplicável a concessão de liberdade provisória com a dispensa do pagamento da fiança, “sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso”, nos termos do art. 325, § 1º, I, c/c art. 350, do Código de Processo Penal. Precedentes. 5. Ordem de habeas corpus concedida para deferir o benefício da liberdade provisória com dispensa do pagamento de fiança e imediata expedição do competente alvará de soltura, ressalvada, se o caso, a imposição de medidas cautelares do art. 319 do Código de Processo Penal, pelo Juízo de origem.” (HC 137.078, Rel. Min. Rosa Weber)
+    Registro, ainda, que o acusado é primário, tem ocupação lícita e residência fixa (pág. 50 do doc. eletrônico 2)
+    Não bastasse, foi preso pela prática de receptação (art. 180, caput, do Código Penal), à qual é cominada pena de reclusão de 1 a 4 anos, o que revela a desproporcionalidade da segregação cautelar.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, do RISTF), mas concedo a ordem, de ofício (art. 192, caput, do RISTF), para revogar a prisão preventiva do paciente, sem prejuízo da fixação, pelo juízo processante, de uma ou mais de uma das medidas cautelares previstas no art. 319 do Código de Processo Penal, caso entenda necessário.
+    Comunique-se com urgência.
+    Se necessário, expeça-se alvará de soltura clausulado.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
