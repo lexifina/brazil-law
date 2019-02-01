@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.18.078011-6/000).
+Depreende-se dos autos que o paciente foi preso em flagrante (e-STJ fls. 51/52) e denunciado pela suposta prática dos delitos tipificados no art. 14 da Lei n. 10.826/2003 e no art. 288, parágrafo único, do Código Penal, tendo em vista que (e-STJ fls. 43/44):
+ ..  no dia 12 de março de 2018, os denunciados, juntamente com o indivíduo conhecido por "Fanta", mediante prévio ajuste de vontades, associaram-se de forma estável, permanente e organizada para o fim específico de praticarem crimes.
+Consta, ainda, que na mesma data, por volta das 09h00min, na Rua Dom Pedro II, Bairro São João, próximo ao n. 1099, nesta cidade, os denunciados, juntamente com o indivíduo conhecido por "Fanta", também de forma consciente e voluntária, portavam, mantinham sob suas guardas e transportavam arma de fogo e munições sem autorização e em desacordo com determinação legal ou regulamentar.
+O pedido de revogação da custódia foi indeferido (e-STJ fl. 42).
+Impetrado habeas corpus na origem, os desembargadores da Sétima Câmara Criminal denegaram a ordem (e-STJ fls. 13/18).
+No Superior Tribunal de Justiça, a defesa aponta constrangimento ilegal decorrente da decretação da prisão em desfavor do paciente.
+Sustenta ausência de motivos concretos capazes de justificar a medida constritiva, já que foi baseada, tão somente, na garantia da ordem pública e na aplicação da lei.
+Ressalta não haver provas sobre a autoria do delito e a sua materialidade, pois a autoridade policial nem sequer concluiu que o acusado teve participação nos delitos em apreço.
+Alega, também, que, "mesmo se comprovada fosse a participação do paciente no intento, tratar-se-ia, pois, de ato preparatório impunível. Ademais, não se pune a tentativa quando há absoluta ineficácia do meio ou impropriedade do objeto" e reforça que "o artigo 31 do Código Penal, também assevera que se não houve pelo menos tentativa não há possibilidade de punibilidade" (e-STJ fl. 7).
+Dessa forma, requer, liminarmente, seja revogada a medida constritiva, com a expedição da contra ordem da prisão em favor do paciente, a fim de que ele possa permanecer em liberdade até o julgamento deste writ. No mérito, postula a confirmação da liminar.
+O pedido liminar foi indeferido (e-STJ fls. 60/63).
+Prestadas das informações, opinou o Ministério Público Federal pelo não conhecimento da ordem (e-STJ fls. 168/174).
+É, em síntese, o relatório.
+O pleito referente à inexistência de indícios de materialidade e autoria não pode ser conhecido, uma vez que envolve necessariamente exame do contexto probatório dos autos, o que é inviável nos estreitos limites de cognição do remédio constitucional.
+A propósito:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. RECEPTAÇÃO. TRANCAMENTO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. FALTA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO.
+1. Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito, o que não se infere não hipótese dos autos.
+2. O reconhecimento da inexistência de justa causa para o exercício da ação penal, dada a suposta ausência de elementos de informação a demonstrarem a materialidade e a autoria delitivas, exige profundo exame do contexto probatórios dos autos, o que é inviável na via estreita do writ.
+3. Para o oferecimento da denúncia, exige-se apenas a descrição da conduta delitiva e a existência de elementos probatórios mínimos que corroborem a acusação. Provas conclusivas da materialidade e da autoria do crime são necessárias apenas para a formação de um eventual juízo condenatório. Embora não se admita a instauração de processos temerários e levianos ou despidos de qualquer sustentáculo probatório, nessa fase processual, deve ser privilegiado o princípio do in dubio pro societate.
+4. Na hipótese, as provas colacionadas aos autos demonstram a presença de elementos mínimos que evidenciam o envolvimento da recorrente no suposto delito de receptação, porquanto os policiais militares responsáveis pelo flagrante localizaram o objeto do crime de roubo em imóvel de sua propriedade. Rever tal afirmação implicaria examinar o acervo fático-probatório contido nos autos, o que é inviável no estreito rito do habeas corpus.
+5. Restando clara a presença de lastro probatório mínimo a autorizar a promoção da ação penal, sem que tenha sido demonstrada a atipicidade da conduta delitiva imputa à recorrente, é forçoso reconhecer ser incabível o seu pretendido trancamento, por falta de justa causa. Ademais, a discussão em apreço remete-se à instrução processual, oportunidade em que a defesa poderá questionar por todos os meios de prova a comprovação da autoria.
+6. Recurso desprovido.
+(RHC 87.376/RN, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/9/2017, DJe 22/9/2017, grifei)
+De outro lado, consoante informações obtidas no sítio eletrônico do Tribunal de origem, em 5/12/2018 foi "proferida sentença de acolhimento parcial do pedido de condenação" e expedido alvará de soltura em favor do paciente.
+Diante disso, nada mais há que ser apreciado nesta oportunidade, tendo em vista que ficam sem objeto os demais pleitos contidos no writ, cujos fundamentos foram superados.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, conheço parcialmente do presente habeas corpus e, nessa extensão, julgo-o prejudicado.
+Publique-se. Intimem-se.
