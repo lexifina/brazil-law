@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A., contra acórdão assim ementado (fls. 1.409/1.410):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. LINHA TELEFÔNICA.
+PRELIMINARES ILEGITIMIDADE ATIVA. PRELIMINAR AFASTADA. AUSÊNCIA DE VÍCIO DE NULIDADE DA CESSÃO DE CRÉDITOS.
+INTERESSE DE AGIR. PRELIMINAR AFASTADA. O CONTRATO É MEIO PARA A PROVA DE FATO QUE INTERESSA À COMPOSIÇÃO DEFINITIVA (NÃO CAUTELAR) DA LIDE.
+ILEGITIMIDADE PASSIVA. PRELIMINAR AFASTADA. INCORPORAÇÃO PELA REQUERIDA DAS OBRIGAÇÕES DA ANTIGA COMPANHIA TELEBRÁS.
+ARTIGO 227 DA LEI Nº 6.404/76 E ARTIGO 1.116 DO CÓDIGO CIVIL.
+PREJUDICIAIS SENTENÇA CONDICIONADA. PREJUDICIAL AFASTADA. _AS PROVAS JÁ PRODUZIDAS DÃO CONTA DA APURAÇÃO DOS FATOS OCORRIDOS.
+PRESCRIÇÃO. PREJUDICIAL AFASTADA. AUSÊNCIA DOS CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. IMPOSSIBILIDADE DE AFERIR A OCORRÊNCIA DA PRESCRIÇÃO.
+MÉRITO APELO 1 ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO DE OFÍCIO. EMPRESA SUCEDIDA TELEBRASILIA E NÃO TELEPAR.
+EXIBIÇÃO DE DOCUMENTOS INCIDENTAL. PROVIMENTO. APLICAÇÃO DO PRINCIPIO DA BOA -FÉ. DEVER DA REQUERIDA DE APRESENTAR OS CONTRATOS QUE ESTÃO SOB SUA POSSE.
+LIQUIDAÇÃO DA SENTENÇA POR CÁLCULO ARITIMÉTICO. POSSIBILIDADE.
+DESNECESSIDADE DA INSTAURAÇÃO DE FASE DE LIQUIDAÇÃO DE SENTENÇA. RESP REPETITIVO Nº 1.387.249/SC. APURAÇÃO DO VALOR DA AÇÃO NA DATA DA INTEGRALIZAÇÃO DO CAPITAL. SUMULA 371 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CRITÉRIO DE CONVERSÃO DAS AÇÕES EM PERDAS E DANOS. VALOR DA COTAÇÃO NA BOLSA DE VALORES NA DATA DO TRÂNSITO EM JULGADO. RECURSO REPETITIVO Nº 1.033.241/RS.
+PERDAS E DANOS PELA CISÃO DA TELEBRÁS. POSSIBILIDADE. DIREITO A DOBRA ACIONÁRIA AOS CONTRATOS CELEBRADOS ANTES DA CISÃO DA TELEBRÁS.
+OMISSÃO QUANTO AOS PEDIDOS ACESSÓRIOS. NÃO OCORRÊNCIA.
+FALTA DE INTERESSE RECURSAL. PEDIDOS ANALISADOS E PROVIDOS EM PRIMEIRO GRAU.
+JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. RECURSO REPETITIVO Nº 1.301.989/RS.
+MÉRITO APELO 2 INTERESSE DE AGIR. AUSÊNCIA DE PROVA DO FATO CONSTITUTIVO DE DIREITO. NÃO OCORRÊNCIA. A JUNTADA DO CONTRATO DE CESSÃO DE CRÉDITO E DA LISTA TELEFÔNICA COM OS NÚMEROS TELEFÔNICOS COMPROVAM A EXISTÊNCIA DO FATO CONSTITUTIVO DE DIREITO.
+GRUPAMENTO DE AÇÕES. IRRELEVÂNCIA. AUSÊNCIA DE ALTERAÇÃO DOS DIREITOS ACIONÁRIOS.
+CRITÉRIO DE CONVERSÃO DAS AÇÕES EM PERDAS E DANOS. VALOR DA COTAÇÃO NA BOLSA DE VALORES NA DATA DO TRÂNSITO EM JULGADO.
+RECURSO REPETITIVO Nº 1.033.241/RS.
+HONORÁRIOS ADVOCATÍCIOS SOB O VALOR DA CONDENAÇÃO.
+PROVIMENTO. ARBITRAMENTO NOS TERMOS DO PARÁGRAFO 14 DO ARTIGO 20 DO CPC. 15% SOBRE O VALOR DA CONDENAÇÃO.
+APELO 1. CONHECIDO E PARCIALMENTE PROVIDO PARA REPARAR ERRO MATERIAL PARA CORRIGIR A NOMENCLATURA DA EMPRESA SUCEDIDA, QUAL SEJA, TELEBRASILIA E NÃO TELEPAR; CONDENAR A REQUERIDA NA EXIBIÇÃO DOS DOCUMENTOS, DETERMINAR A LIQUIDAÇÃO DE SENTENÇA POR CÁLCULO ARITMÉTICO PARA A APURAÇÃO DO VALOR DAS AÇÕES E CONVERSÃO EM PERDAS E DANOS; CONDENAR A REQUERIDA EM PERDAS E DANOS NA DOBRA ACIONÁRIA DECORRENTE DA CISÃO DA EMPRESA TELEBRÁS, NOS MESMOS CRITÉRIOS DO PEDIDO ORIGINAL, BEM COMO DA CISÃO DA TELEBRASÍLIA E ARBITRAR HONORÁRIOS ADVOCATÍCIOS EM 15% SOBRE O VALOR DA CONDENAÇÃO, POR MAIORIA DE VOTOS.
+APELO 2. CONHECIDO E PARCIALMENTE PROVIDO PARA DETERMINAR A CONVERSÃO DAS AÇÕES EM PERDAS E DANOS PELO VALOR DA COTAÇÃO NA BOLSA DE VALORES NA DATA DO TRÂNSITO EM JULGADO DA DECISÃO, POR MAIORIA DE VOTOS.
+Em suas razões, a recorrente alega, entre outros argumentos, a falta de interesse de agir da parte ora recorrida, tendo em vista a ausência de pedido administrativo para exibição de documentos, ainda que incidental, bem como de pagamento de taxa do serviço, em desrespeito ao estipulado na Súmula 389/STJ.
+Passo a decidir.
+O entendimento desta Corte firmado diante do julgamento proferido no REsp nº 982.133/RS, afetado à Segunda Seção, com base no procedimento da Lei de Recursos Repetitivos, tendo como Relator o Ministro Aldir Passarinho Junior, consagrou a orientação no sentido de que "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976". Nesse sentido, o enunciado 389 da Súmula da jurisprudência deste Tribunal:
+A comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+O Tribunal de origem, ao julgar a questão entendeu pela não aplicação do previsto na Súmula 389/STJ aos pedidos de exibição incidental de documentos.
+A conclusão adotada está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que o "entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes." (AgInt no AREsp 812.092/PR, de minha relatoria, Quarta Turma, julgado em 19/5/2016, DJe 27/5/2016). Na mesma direção:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE AÇÕES. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. SÚMULA 389 DO STJ. APLICABILIDADE.
+PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes." (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/05/2016, DJe 27/05/2016).
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2016, DJe 01/12/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1331352/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/11/2016, DJe 01/12/2016)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para para extinguir o feito por ausência de interesse de agir da parte agravada. Invertam-se os ônus de sucumbência. Ressalvada a hipótese de concessão da justiça gratuita.
+Intimem-se.
