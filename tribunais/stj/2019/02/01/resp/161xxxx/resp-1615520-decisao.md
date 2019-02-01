@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 07/06/2016, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA INEXISTÊNCIA DE DÉBITO E SUSTAÇÃO DE PROTESTO. INTERESSE PROCESSUAL
+1. Espécie em que, não obstante a existência de pedido administrativo de revisão de débito fiscal pendente de análise, a Administração Tributária encaminhou a CDA para protesto extrajudicial.
+2. O esgotamento da via administrativa não é condição para interposição de ação judicial que verse sobre o mesmo fato.
+3. Configurado que o protesto somente foi sustado após o deferimento da medida liminar e que o processo administrativo sofreu impulso efetivo apenas após o ajuizamento da ação judicial, não há cogitar de falta de interesse processual" (fl. 308e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 313/314e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. REDISCUSSÃO.
+PREQUESTIONAMENTO.
+1. A natureza reparadora dos embargos de declaração só permite a sua oposição contra sentença ou acórdão acoimado de obscuridade ou contradição, bem como nos casos de omissão do Juiz ou Tribunal em relação a algum ponto sobre o qual deveria ter-se pronunciado e não o fez (CPC, art. 535), ou ainda, por construção jurisprudencial, para fins de prequestionamento, como indicam as Súmulas nQs 282 e 356 do STF e 98 do STJ, desde que, para tanto, a questão constitucional ou legal tenha sido ventilada pela parte no momento processual oportuno e não tenha sido enfrentada no acórdão, ou para correção de erro material no julgado.
+2. Constata-se, em verdade, que pretende a embargante a rediscussão dos fundamentos da decisão prolatada por esta Turma, o que é vedado na via estreita dos embargos de declaração.
+3. A citação expressa dos dispositivos legais e constitucionais no corpo do acórdão para fins de prequestionamento é desnecessária, pois o Juiz não está obrigado a responder todas as alegações da parte, quando encontrar fundamento suficiente para embasar a sua decisão.
+4. Embargos de declaração rejeitados" (fl. 324e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 535, II, 3º e 267, VI, todos do CPC/73, sustentando, em síntese, além de omissão não suprida em sede de Embargos de Declaração, que falta ao demandante interesse processual, eis que o crédito fiscal impugnado judicialmente foi extinto por decisão administrativa, embora a extinção tenha ocorrido após o ajuizamento da ação (fls. 331/334e).
+Contrarrazões a fls. 341/345e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 348e).
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que:
+"Segundo a apelante, União, não haveria interesse processual, porquanto não configurada a resistência à pretensão, que acabou por ser deferida na esfera administrativa.
+Tenho que não merece acolhida a apelação.
+Isso porque os documentos coligidos aos autos demonstram que o auto protocolou pedido de revisão de débito na esfera administrativa em 07/05/2014. Mesmo assim, a União enviou o título para protesto extrajudicial, em 08/12/20104, situação que somente foi regularizada com o deferimento da medida liminar, por decisão do juízo de origem proferida em 12/12/2014. Ou seja, quando do ajuizamento da ação, em 11/12/2014, transcorridos já 7 meses desde o pedido administrativo, o débito ainda estava ativo e tinha motivado, inclusive, o protesto da CDA. Ademais, percebe-se que o processo administrativo recebeu impulso após o ajuizamento, ou seja, a presente ação serviu para compelir a Administração a cumprir seu dever e dar encaminhamento ao pedido de revisão" (fl. 306e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+I.
