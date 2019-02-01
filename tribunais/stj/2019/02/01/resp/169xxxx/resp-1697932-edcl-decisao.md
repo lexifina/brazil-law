@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CAROLINA PRATES NERY em face da decisão de fls. 258/262 (e-STJ), que deu provimento ao recurso especial a fim de julgar improcedente o pedido autoral.
+A embargante sustenta que o medicamento Harvoni "POSSUI SIM REGISTRO NA ANVISA desde o dia 27.03.2015, com vencimento até março de 2020" (fl. 268 e-STJ).
+Posteriormente, afirma que "o medicamento Harvoni está registrado pela Anvisa desde 13/12/2017, com nº de Registro 109290002, com validade até 12/2022" (fl. 269 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, foi dado provimento ao recurso especial com fundamentação completa, clara e coerente, consoante se colhe das razões da referida decisão, transcrita no que interessa à espécie:
+"(..)
+A jurisprudência desta Corte Superior sufragou o entendimento de que o art. 10, V, Lei nº 9.656/1998 expressamente autoriza a exclusão de medicamentos importados não nacionalizados, além de que a determinação do fornecimento dos fármacos estrangeiros, sem o registro no órgão de fiscalização competente, implica ofensa ao art. 12 da Lei nº 6.360/1976 (REsp 1.663.141/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 3/8/2017, DJe 8/8/2017).
+Nesse sentido, confiram-se outros julgados:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FORNECIMENTO DE MEDICAMENTO IMPORTADO NÃO REGISTRADO NA ANVISA. IMPOSSIBILIDADE. PRECEDENTES. JULGAMENTO DO RECURSO SOB FUNDAMENTO JURÍDICO DIVERSO DO SUSTENTADO PELAS PARTES. ADMISSIBILIDADE. ART. 257, RISTJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. Vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos do art. 257 do RISTJ, o Relator está autorizado a adotar fundamento diverso do invocado pelo recorrente, uma vez que, admitido o recurso especial, aplica-se o direito à espécie. Precedentes.
+3. A eg. Terceira Turma desta Corte, no julgamento do REsp nº 874.976/MT, de relatoria do em. Min. JOÃO OTÁVIO DE NORONHA, firmou orientação de que: a) a prestadora de serviços de plano de saúde está, em princípio, obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado; e, b) entretanto, essa obrigação não se impõe na hipótese em que o medicamento recomendado seja de importação e comercialização vetada pelos órgãos governamentais, porque o Judiciário não pode impor a operadora do plano de saúde que realize ato tipificado como infração de natureza sanitária, previsto no art. 66 da Lei nº 6.360/76, pois isso significaria, em última análise, a vulneração do princípio da legalidade previsto constitucionalmente.
+4. Conforme art. 105 da CF, não compete ao STJ analisar eventual ofensa a preceitos de ordem constitucional, ainda que para fins de prequestionamento.
+5. As beneficiárias não apresentaram argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para dar parcial provimento ao recurso especial manejado pela operadora do plano de saúde.
+6. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa.""
+(AgInt no AREsp 966.873/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/03/2017, DJe 18/04/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 126/STJ. NÃO APLICAÇÃO. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. IMPORTAÇÃO DE MEDICAMENTO NÃO REGISTRADO PELA ANVISA. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "O aresto que se funda num único fundamento utilizando-se de disposições constitucionais e infraconstitucionais não se adequa ao aresto que tem fundamentos distintos de ambas as índoles a exigir, como requisito de admissibilidade, a interposição simultânea de Recurso Especial e Recurso Extraordinário, conjurando a aplicação da Súmula n.º 126, do STJ". (REsp 931.060/RJ, Primeira Turma, julgado em 17/12/2009, DJe 19/03/2010)
+2. A prestadora de serviços de plano de saúde está obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado. Contudo, essa obrigação não se impõe na hipótese em que o medicamento recomendado seja de importação e comercialização vetado pelos órgãos governamentais.
+3. Não obstante a possibilidade de pessoas físicas obterem autorização da Anvisa em caráter excepcional para importação de medicamento não registrado, desde que não seja expressamente proibido ou proscrito, não é possível impor ao plano de saúde o fornecimento desse tipo de fármaco, sob pena de prática de ato tipificado como infração de natureza sanitária, conforme art. 66 da Lei n. 6.360/1976. Precedentes desta Corte.
+4. Agravo interno não provido."
+(AgInt no AREsp 988.070/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 04/04/2017)
+"DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA À COBERTURA DE TRATAMENTO QUIMIOTERÁPICO. PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FORÇA OBRIGATÓRIA DO CONTRATO. BOA FÉ OBJETIVA. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. FORNECIMENTO. IMPOSSIBILIDADE.
+1. Ação de obrigação de fazer ajuizada em 31.10.2013. Recurso especial atribuído ao gabinete em 25.08.2016. Julgamento: CPC/73.
+2. A questão posta a desate nestes autos, consiste em aferir se é abusiva cláusula contratual de plano de saúde, que restringe o fornecimento de medicamento importado sem registro na ANVISA.
+3. Ausente o vício do art. 535, II do CPC/73, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente e dos dispositivos legais indicados como violados, apesar da interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Na hipótese, além do contrato firmado entre as partes, a Lei 9.656/98 autoriza, expressamente, a possibilidade de exclusão do plano-referência o "fornecimento de medicamentos importados não nacionalizados".
+6. A manutenção da higidez do setor de suplementação privada de assistência à saúde, do qual a recorrente faz parte, depende do equilíbrio econômico financeiro decorrente da flexibilização das coberturas assistenciais oferecidas que envolvem a gestão dos custos dos contratos de planos de saúde.
+7. Determinar judicialmente o fornecimento de fármacos importados, sem o devido registro no órgão fiscalizador competente, implica em negar vigência ao art. 12 da Lei 6.360/76.
+8. Recurso especial conhecido parcialmente, e nessa parte, provido."
+(REsp 1.641.896/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2017, DJe 22/03/2017)" (fls. 258/262 e-STJ).
+Ressalte-se que, em que pese tenha a embargante apresentado, em suas razões de recurso, duas datas diferentes de nacionalização do medicamento pela ANVISA, consta do sítio oficial da referida agência reguladora que a data de publicação do registro de autorização do medicamento Harvoni é 4/12/2017, posterior, portanto, à data da negativa de cobertura e ao ajuizamento da ação.
+Desse modo, não há falar em obrigatoriedade de custeio dos valores despendidos com a aquisição do medicamento Harvoni, sem registro na ANVISA à época do ajuizamento da demanda.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
