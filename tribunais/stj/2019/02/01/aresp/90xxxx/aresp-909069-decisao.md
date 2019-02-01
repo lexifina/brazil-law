@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto de acórdão que recebeu a seguinte ementa (e-STJ fl. 513/514):
+Agravo de instrumento. Ação civil pública. Caderneta de poupança. Expurgos inflacionários. Legitimidade ativa e passiva.
+Título executivo. Liquidação de sentença. Autenticidade documental.
+A decisão transitada em julgado proferida na ação civil pública que reconheceu a legitimidade ativa dos poupadores ou seus sucessores, independentemente de fazerem parte ou não dos quadros associativos do IDEC, não pode ser modificada, sob pena de violação da coisa julgada e segurança jurídica.
+A instituição bancária onde o dinheiro está depositado é quem deve figurar no polo passivo de demanda em que se pedem diferenças de correção monetária em caderneta de poupança.
+Não se pode determinar que os beneficiários de sentença coletiva sejam obrigados a liquidá-la e executá-la no foro em que a ação coletiva foi processada e julgada, sob pena de lhes inviabilizar a tutela dos direitos individuais, bem como congestionar o órgão jurisdicional.
+Cabe ao banco, ao constatar eventual irregularidade na cópia dos extratos apresentados pela parte autora, apresentar os originais e apontar a irregularidade, uma vez que detém a posse deles e lhe incumbe a prova do fato extintivo ou modificativo do direito do autor.
+Trata-se, na origem, de cumprimento individual de sentença coletiva em ação civil pública relativa a expurgos inflacionários decorrentes de planos econômicos sobre saldos em cadernetas de poupança.
+Em recente decisão, o Supremo Tribunal Federal determinou a suspensão nacional dos processos relativos a cobrança de diferenças de correção monetária em cadernetas de poupança, decorrentes de expurgos inflacionários, seja na fase de conhecimento ou de execução, enquanto vigorar o período de 24 (vinte e quatro) meses que os poupadores têm para decidir sobre a adesão ao acordo coletivo homologado em fevereiro de 2018, no Recurso Extraordinário 632.212, relator Ministro Gilmar Mendes.
+Por ocasião da Sessão de 28.11.2018, a Segunda Seção do Superior Tribunal de Justiça acolheu a questão de ordem proposta pelo Ministro Raul Araújo para suspender todos os processos, individuais ou coletivos, seja na fase de conhecimento ou execução, que versem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 meses a contar de 5.2.2018, aguardando ainda o julgamento dos Recursos Extraordinários nº 632.212, 631.363, 626.307 e 591.797, com repercussão geral perante o Supremo Tribunal Federal.
+Foi deliberado, ainda, o encaminhamento às instâncias de origem de todos os processos relacionados ao tema que estejam nesta Corte.
+Em face do exposto, determino a suspensão do andamento do presente processo, com a respectiva baixa dos autos à origem, para que se aguarde o julgamento definitivo do Supremo Tribunal Federal.
+Intimem-se.
