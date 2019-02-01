@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Sindicato dos Trabalhadores Federais em Saúde e Previdência Social no Estado do Ceará (Sinprece). Aparelhado o recurso na afronta ao art. 37, caput, XV, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da inexistência de direito adquirido a regime jurídico, preservada, em todo caso, a irredutibilidade de vencimentos, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. REESTRUTURAÇÃO DA CARREIRA. IRREDUTIBILIDADE MANTIDA. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 927796 AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 1º.02.2016)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. MÉDICOS. SUBSTITUIÇÃO DA GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO GDPST PELA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES MÉDICAS DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO GDMPST. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. RE 606.199-RG. IRREDUTIBILIDADE REMUNERATÓRIA. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL DESPROVIDO.” (RE 853.197-ED, Rel. Min. Luiz Fux, 1ª Turma, DJe 15.6.2015)
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. CENSORES. REPOSICIONAMENTO. DIREITO ADQUIRIDO À REGIME JURÍDICO. INEXISTÊNCIA. PRECEDENTES. 1. O Supremo Tribunal Federal, ao julgar o RE 563.965-RG, da relatoria da Ministra Cármen Lúcia, reafirmou a jurisprudência no sentido de que não há direito adquirido a regime jurídico, assegurada a irredutibilidade de vencimentos. 2. Agravo regimental a que se nega provimento.” (RE 489518 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 08.10.2015)
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
