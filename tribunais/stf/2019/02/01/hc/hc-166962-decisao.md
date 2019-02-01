@@ -1,0 +1,38 @@
+Decisão:
+EMENTA: Processual penal. Habeas corpus. Crime contra o Sistema Financeiro Nacional. Prisão preventiva substituída por outras medidas cautelares. Fiança. Inadimplemento. Análise da capacidade econômica do acusado. Fatos e provas. Tese de negativa de autoria. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida no HC 476.838, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no artigo 4º, caput, da Lei 7.492/86 (seis vezes). O Juízo da 6ª Vara Federal Criminal da Seção Judiciária de São Paulo decretou a prisão preventiva do acusado.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal Regional Federal da 3ª Região. A ordem foi concedida para substituir a prisão do paciente pelas seguintes medidas cautelares:
+    “a) proibição de acesso à sede, escritórios e sucursais dos Municípios cujos institutos de previdência teriam sido vítimas dos supostos crimes em apuração e das empresas apontadas no bojo da investigação, bem como a eventos por eles realizados ou patrocinados (CPP, art. 319, II);
+    b) proibição de manter contato com os demais investigados, por qualquer meio, exceto aqueles com quem tenha parentesco direto, e com servidores e agentes políticos ligados aos Municípios cujos institutos de previdência teriam sido vítimas dos supostos crimes em apuração, bem como quaisquer pessoas ligadas às empresas apontadas no bojo da investigação (CPP, art. 319, III);
+    c) suspensão do direito de participar de licitações públicas e de contratar com o Poder Público, pessoalmente ou por meio de pessoas jurídicas que integre (CPP, art. 319, VI); e
+    d) pagamento de fiança (CPP, art. 319, VIII), no valor de 200 (duzentos) salários mínimos (CPP, art. 325, § 1º, II), a ser depositada em conta vinculada ao juízo de origem.”
+    4. Em seguida, foram opostos embargos declaratórios, rejeitados.
+    5. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 476.838, Ministro Nefi Cordeiro, indeferiu a medida cautelar.
+    6. Neste habeas corpus, a parte impetrante sustenta que o paciente “não possui a quantia fixada para pagamento da fiança” arbitrada pela Corte Regional, especialmente porque, “quando do decreto da prisão preventiva do Paciente, houve o sequestro e bloqueio de todos seus bens e ativos financeiros”.
+    7. Prossegue a impetração para afirmar que o acionante “reside nos Estados Unidos da América, com sua família, e pode a qualquer momento ser preso e deportado, pois não tem condição de pagar a fiança fixada”. Destaca, ainda, que “A suposta participação do Paciente nos crimes que fora denunciado, não existe, (…) pois era mero gestor de fundo com cotista exclusivo, nunca sendo administrador ou tendo atos de administração que pudessem fazer o mesmo responder aos crimes que foram a ele imputados”.
+    8. Com essa argumentação, a defesa requer a concessão da ordem a fim de que “seja revogada a prisão preventiva do Paciente com a imediata expedição do alvará de soltura e oficio informando a INTERPOL para tirar seu nome do Paciente da difusão vermelha, mediante a aplicação das medidas cautelares já fixadas pelo Tribunal Regional Federal da 3ª Região, extinguindo ou reduzindo o valor da fiança arbitrada”.
+    Decido.
+    9. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    10. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício, notadamente se se considerar que eventual análise da capacidade econômica do paciente demandaria o revolvimento do conjunto fático-probatório, inviável na via restrita do habeas corpus. Transcrevo, nesse sentido, as seguintes passagens do acórdão da Corte Regional:
+    “(...)
+    Ao julgar o writ a Turma, à unanimidade, reputou necessária a imposição da medida cautelar da fiança, sendo que seu valor foi fixado segundo os parâmetros legais, previstos no art. 326 do Código de Processo Penal, como se nota nos seguintes trechos do voto condutor do acórdão (ID 6798797):
+    A fixação do valor da fiança em 200 (duzentos) salários mínimos se dá em razão do quantum das penas máximas previstas aos delitos em apuração (CPP, art. 325, II) e, especialmente, do montante dos recursos envolvidos nas supostas atividades delituosas e da situação econômica do paciente, sendo tal valor o necessário para acautelar o procedimento de origem.
+    A imposição de fiança, mesmo tendo sido apreendidos bens do paciente, por força de medida cautelar real, não induz contradição, com bem ressaltou o Parquet em sua manifestação, da lavra do e. Procurador Regional da República Paulo Taubemblatt (ID 8221925):
+    (…)
+    A dispensa da fiança em razão de situação de eventual hipossuficiência financeira que impeça o embargante de arcar com o pagamento da contracautela exigida está sujeita à verificação do magistrado, sem prejuízo da imposição de outras medidas cautelares alternativas, nos termos do artigo 325, §1º c/c art. 350 do Código de Processo Penal.
+    Inadmissível é, no presente caso, a concessão da isenção requerida pelo embargante, uma vez que não há prova préconstituída acerca de sua total insuficiência financeira.
+    O bloqueio dos bens do embargante, ademais também não basta para elidir a medida judicial em análise, tendo em vista que o fato de os bens encontrarem-se bloqueados, por si só, não basta para elidir o pagamento de fiança, sobretudo, porque, a falta de condição financeira da parte deve restar provada – e não somente alegada – como ocorreu no caso em exame.
+    Não há se confundir o bloqueio dos bens do embargante, cujo fundamento é evitar o sumiço/dilapidação daquilo que garantirá eventual indenização devida às vítimas, com o valor da fiança (medida dotada de natureza cautelar e garantidora da presença do réu aos atos processuais.
+    Necessária é a comprovação da impossibilidade de o embargante de arcar com o pagamento da fiança fixada para a sua isenção, o que não restou demonstrado na espécie.
+    Ademais, a análise da suposta hipossuficiência demandaria dilação probatória incompatível com a via processual eleita, de rito célere e sumário, consoante depreende-se dos seguintes julgados:
+    (…)
+    Ademais, o exame dos elementos trazidos com a impetração revela que o paciente constituiu empresa nos Estados Unidos da América, onde atualmente reside com sua esposa e filhas, com certo conforto financeiro.
+    Assim, na via estreita do writ não há demonstração inequívoca da alegada hipossuficiência econômica do paciente a autorizar a isenção ou, ainda, a redução da fiança.
+    (...)”.
+    11. Quanto ao mais, o entendimento do STF é no sentido de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
