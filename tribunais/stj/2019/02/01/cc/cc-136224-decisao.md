@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo da Vara do Trabalho de Conselheiro Lafaiete, Estado de Minas Gerais, em face do Juízo de Direito da 3ª Vara Cível na mesma cidade, relativamente à ação para obtenção de reparação civil proposta por [NOME] em desfavor de Viação Sol e Mar Ltda.
+Na inicial, o autor alega que sofreu queda e traumatismos provocados por acidente rodoviário enquanto era transportado em veículo da ré, cujo motorista teria se desviado da mão de direção e invadido a contrária, motivo por que deve responder pelos danos causados, pelos defeitos do serviço, à luz do CDC.
+O Juízo de Direito, a quem originalmente distribuído o feito, declinou da competência para a Justiça do Trabalho por entender que o coletivo era especialmente contratado para o transporte de empregados, vindo o sinistro a ocorrer quando o autor se dirigia para o trabalho, o que caracteriza a relação de emprego (fls. 22/25).
+De posse dos autos, o Juízo do Trabalho suscitou o presente conflito ao argumento de que o pedido é de indenização por danos materiais e morais sofridos em transporte público de passageiros, sem alegação de acidente de trabalho, devendo ser julgada pela Justiça comum (fl. 314).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência da Justiça do Trabalho (fls. 323/327).
+Assim resumidos os fatos, necessário consignar que a competência se fixa em razão da causa de pedir e do pedido formulado na inicial que, na hipótese em comento, refere-se a matéria de índole trabalhista.
+Com efeito, pretende o autor ser indenizado por danos morais oriundos de ferimentos em acidente de trânsito entre o veículo da prestadora de serviços de transporte de empregados contratada pela empregadora e caminhão.
+A Segunda Seção do STJ já apreciou questão similar, tendo decidido que o transporte de empregados é questão afeta à relação de trabalho e emprego. Nesse sentido:
+COMPETÊNCIA. ACIDENTE DE TRÂNSITO. TRANSPORTE FORNECIDO PELO EMPREGADOR. INDENIZAÇÃO. RELAÇÃO DE TRABALHO E EMPREGO. JUSTIÇA TRABALHISTA.
+1 - Se a ação de indenização decorre de acidente de trânsito ocorrido com o empregado em transporte fornecido pelo empregador, a competência para processar e julgar a causa é da Justiça Trabalhista, pois o pleito advém da relação de trabalho e de emprego. O caso é típico de aplicação do art. 114, VI da Constituição Federal.
+2 - O fato de o tempo gasto no trajeto para o trabalho não poder ser computado para a jornada do empregado, somente interessa às peculiaridades do contrato de trabalho em si, à subordinação que existe entre patrão e trabalhador. Não tem nada a ver, porém, com a definição da competência, depois das inovações trazidas pela Emenda Constitucional nº 45/2004.
+3 - Conflito conhecido para declarar competente o Juízo da 59ª Vara do Trabalho do Rio de Janeiro - RJ, suscitante.
+(CC 94.350/RJ, Rel. Ministro FERNANDO GONÇALVES, unânime, DJe de 1º.7.2008)
+Sobre a competência para definir a responsabilidade da empregadora, caso similar já foi apreciado no mesmo Colegiado:
+CONFLITO DE COMPETÊNCIA. ACIDENTE SOFRIDO POR PRESTADOR (TERCEIRIZADO) DE SERVIÇOS. A expressão "as ações de indenização por dano moral ou patrimonial, decorrentes da relação de trabalho", inscrita no art. 114, VI, da Constituição Federal, não restringe a competência da Justiça do Trabalho às ações ajuizadas pelo empregado contra o empregador, e vice-versa. Se o acidente ocorreu no âmbito de uma relação de trabalho, só a Justiça do Trabalho pode decidir se o tomador dos serviços responde pelos danos sofridos pelo prestador terceirizado. Agravo regimental desprovido.
+(AgRg no CC 82.432/BA, Rel. Ministro ARI PARGENDLER, por maioria, DJU de 8.11.2007)
+Em face do exposto, conheço do conflito para declarar competente o Juízo da Vara do Trabalho de Conselheiro Lafaiete, MG.
+Comunique-se. Intime-se.
