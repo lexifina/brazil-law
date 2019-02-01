@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO FEDERAL DA 2ª VARA CRIMINAL DA SJ/ES, o suscitante, e o JUÍZO DE DIREITO DA 5ª VARA CRIMINAL DE SERRA - ES, o suscitado.
+Dos autos destaco que: "Segundo o inquérito policial anexo, no transcorrer de ação fiscalizatória da SEFAZ/ES, ocorrida no dia 27 de novembro de 2013, apurou-se que os denunciados, acima qualificados, responsáveis e administradores de fato da razão social "Laranjeiras Comercio de Magazine LTDA ME", nome de fantasia "Canal Variedades", CNPJ 09.301.070/0001-54, inscrição estadual nº 082.510.42-3, localizada na Avenida Eldes Scherrer Souza, nº 1045, bairro Parque Residencial Laranjeiras, Serra/ES, estocavam mercadorias acompanhadas de documentos fiscais que sabiam serem inidôneos, suprimindo tributo (ICMS). Revelam os autos que os denunciados MIKE BETZEL e JHEIMISON ARAUJO BETZEL, no exercício da administração da "Laranjeiras Comercio de Magazine LTDA ME", consignavam operações simuladas de aquisição de mercadorias, não havendo a efetiva circulação das mercadorias, conforme consta na relação das notas fiscais informadas no documento de fls. 17, emitidas pela empresa EB TOSTA COMERCIAL LTDA ME, CNPJ: 05.747.476/0001-04, assim deixavam de recolher aos cofres do erário, Estado do Espírito Santo, o Imposto sobre Circulação de Mercadorias (ICMS), haja vista que as mercadorias já se encontravam no estabelecimento destinatária no período de emissão das notas fiscais, ou seja, 24/10/2013 a 04/11/2013." (e-STJ, fl. 300).
+A Justiça Estadual declinou da competência para analisar o feito e determinou a remessa dos autos à Justiça Federal, nos seguintes termos:
+"Vejo que tramita em vara federal relacionado aos acusados uma ação com fatos conexos a estes aqui narrados que supostamente praticaram crimes contra a ordem tributária.
+(..) o fato aqui descrito possui um liame entre a infração que tramita perante a vara de competência especial, eis que os fatos são de interesse da União.".
+Por sua vez, o Juízo Federal suscitou o presente conflito ao seguinte entendimento:
+"Verifica-se, pois, que as ações abrigam objetos distintos, fundadas em condutas diversas, com capitulações próprias e não coincidentes, não havendo relação de conexão apta a determinar a reunião dos feitos, tampouco minha prevenção para conhecer e julgar o pleito condenatório versado neste processo (supressão/redução de ICMS mediante fraude em notas fiscais).
+
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 299-303).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Destaca-se, ainda, que a conexão probatória se configura na hipótese em que a prova de uma infração puder, de alguma forma, influir na de outra (art. 76 do CPP).
+No caso, as condutas delitivas denunciadas em ações distintas não possuem, ao menos em uma visão preambular própria desta fase, elementos conectivos a justificar eventual união das ação.
+Assim, é de se reconhecer, neste momento processual, a inexistência de conexão probatória entre os delitos praticados pelo interessado, de forma que inaplicável, no caso em tela, a Súmula 122/STJ.
+Nesse sentido:
+"PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME AMBIENTAL E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. AUSÊNCIA DE CONEXÃO PROCESSUAL. CONCURSO DE CRIMES QUE NÃO IMPLICA NECESSARIAMENTE CONEXÃO. NÃO INCIDÊNCIA DA SÚMULA 122/STJ.
+I - Não obstante a verificação dos crimes tenha ocorrido no mesmo contexto fático, não há elementos para se indicar a existência de conexão processual que atraia a competência da Justiça Federal, nos termos do Enunciado n. 122, da Súmula do Superior Tribunal de Justiça.
+II - A competência para o processamento do crime do art. 16, parágrafo único, IV, da Lei 10.826/03 deve recair sobre a Justiça Estadual, não havendo se falar em prejuízo à instrução com a cisão dos processos, pois a consumação dos crimes imputados se deu em momentos diferentes.
+Conflito conhecido para declarar a competência do d. Juízo de Direito da 2ª Vara de Bocaiúva- MG para apuração do crime previsto no art. 16, parágrafo único, IV, da Lei 10.826/03" (CC 140.649/MG, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 09/11/2015 - grifou-se.)
+Segue esse viés, o parecer do MPF de onde destaco:
+"(..) As regras do inciso II do art. 78 do Código de Processo Penal 1 e a Súmula 122/STJ 2 não se aplicam ao caso concreto.
+O suscitante, ao analisar a questão, entendeu que "as ações abrigam objetos distintos, fundadas em condutas diversas, com capitulações próprias e não coincidentes, não havendo relação de conexão apta a determinar a reunião dos feitos, tampouco minha prevenção para conhecer e julgar o pleito condenatório versado neste processo (supressão/redução de ICMS mediante fraude em notas fiscais)" (fl. 4).
+Assim, verifica-se que não se pode aplicar o art. 78, II, do CPP, uma vez que não existe conexão entre os delitos descritos.
+Com efeito, embora todos esses crimes tenham sido praticados pelos mesmos autores, os contextos fáticos são completamente diferentes: "A Ação Penal 0001828-46.2015.4.02.5001, em curso nesta Vara Federal, trata da conduta de exposição à venda de mercadoria estrangeira desacompanhada dos adequados documentos fiscais, constatada em fiscalização da Receita Federal realizada no dia 21/10/2013. Doutra parte, a presente ação penal trata da conduta de supressão de ICMS mediante notas fiscais de aquisição fraudulentas, supostamente emitidas entre 24/10/2013 e 04/11/2013 (fls. 20/50 do IPL 058/2014), as quais consignariam operações simuladas, conforme apuração da SEFAZ/ES formalizada em 27/11/2013 (fl. 08 do IPL 055/2014)" (fl. 04).
+Não se verifica, portanto, qualquer das hipóteses do art. 76 do CPP, de modo que não existe conexão entre os crimes mencionados nas exordiais acusatórias, por não terem acontecidos no mesmo contexto fá- tico e serem delitos autônomos" (e-STJ, fls. 301-302).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 5ª Vara Criminal de Serra - ES, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
