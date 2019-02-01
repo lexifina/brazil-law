@@ -1,0 +1,16 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada contra acórdão do Superior Tribunal do Trabalho que negou trâmite a agravo interposto em face de decisão que negara seguimento a recurso extraordinário com base na sistemática da repercussão geral (art. 1.030, I, a do CPC/15 – Tema 181).
+    2. Na presente reclamação, a parte alega usurpação da competência do STF para julgar o agravo em recurso extraordinário, pois ao invés de remeter os autos ao Supremo Tribunal Federal – STF, o referido agravo foi julgado no próprio TST, inviabilizando a remessa dos autos ao STF. Com isso, defende que houve a inobservância da Súmula 727 do STF. Alega também que não é caso de não conhecimento do agravo em recurso extraordinário uma vez que não é o caso de incidência dos efeitos da ausência de repercussão geral, com base no tema 181, aplicado à espécie.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, porquanto suficientemente instruído o feito, bem como o parecer a Procuradoria-Geral da República, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF). Deixo de determinar a citação da parte beneficiária do ato reclamado, em face da manifesta improcedência do pedido.
+    5.  A reclamação é inviável. Com efeito, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, nos termos do art. 1.030, § 2º, do CPC/2015. Por outro lado, nos casos em que o juízo de admissibilidade negativo não se basear em precedente julgado pelo STF nos regimes da repercussão geral ou de julgamento de recursos repetitivos, caberá agravo em recurso extraordinário (art. 1.042 do CPC/2015). Assim, configura erro grosseiro a interposição de agravo de instrumento contra decisão que aplica a sistemática da repercussão geral.
+    6. Observe-se que esta sistemática de impugnação das decisões que aplicam precedente da repercussão geral já vigia no regime processual do CPC/1973, desde o julgamento pelo STF da Questão de Ordem no AI 760.358-QO, Rel. Min. Gilmar Mendes, em 19.11.2009, data a partir da qual não mais se admitia a aplicação do princípio da fungibilidade recursal. Portanto, o órgão de origem adotou procedimento que é mais favorável à parte reclamante e não usurpou a competência desta Corte.
+    7.  Assim, o erro grosseiro da parte reclamante implicou a preclusão da questão.
+    8. Em respeito ao art. 988, § 5º, II, do CPC/2015, destaco que a decisão impugnada pelo recurso extraordinário teve por fundamento a ausência de preenchimento dos pressupostos de admissibilidade do recurso de revista. Sobre essa matéria, o Plenário desta Corte afirmou inexistir repercussão geral (tema nº 181).
+    9.  Advirto, por fim, que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, tomando tempo e recursos escassos desta Corte, causando, ainda, prejuízos à parte contrária. Deste modo, a reiteração implicará a imposição de multa por litigância de má-fé, nos termos no art. 80 e seguintes do CPC/2015.
+    10. Por todo o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
