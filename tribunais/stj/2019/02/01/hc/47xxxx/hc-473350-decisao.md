@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO DENIS DAMASCEMO LIMA, em face de r. decisum de em. Desembargador do eg. Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela prática em tese dos delitos previstos nos arts. 33 e 35 da Lei 11.343/06.
+Requerendo a liberdade do paciente, impetrou-se habeas corpus perante o eg. Tribunal de Justiça do Estado do Ceará, sendo indeferido o pedido liminar.
+Daí o presente habeas corpus, no qual alega o impetrante que a prisão preventiva não foi fundamentada idoneamente, bem como que o ora paciente possui condições pessoais favoráveis.
+Aduz que é caso de superação da súmula 691 do (STF), "uma vez que a ilegalidade do ato da Autoridade Coatora é indubitável, pois exarou decisão carecedora de fundamento jurídico, além de ter mantido integralmente os atos do juiz singular, o qual exteriorizou uma decisão totalmente teratológica e desprovida de razoabilidade" (fl. 9).
+Requer, ao final, a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas.
+Liminar deferida às fls. 124-126.
+Informações prestadas às fls. 132-145.
+A Subprocuradoria-Geral da República manifestou-se, à fl. 154, pelo não conhecimento do writ.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Segundo informações colhidas no sítio eletrônico da eg. Corte de origem (www.trce.jus.br), no dia 23/10/2018, no Habeas Corpus n. 0629060-97.2018.8.06.0000, foi realizado o julgamento de mérito do writ originário, no qual foi conhecida a ordem e, ante a ausência de fundamentação do decreto prisional, concedida para revogar a prisão preventiva do paciente com aplicação de medidas cautelares diversas, em v. acórdão cuja ementa transcrevo à seguir:
+"EMENTA: DIREITO PROCESSUAL PENAL E CONSTITUCIONAL, HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS (ART. 33, DA LEI  11.343/2006). PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO RELATIVA AO DECRETO PRISIONAL. CONSTATAÇÃO. NECESSIDADE DE IMPOSIÇÃO,, NA HIPÓTESE, DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - ART. 319INCISOS I, IV, E V, DO CPP. ORDEM CONHECIDA E CONCEDIDA. 1. Constatado no decreto prisional a ausência de fundamentação apta e válida para manter a segregação cautelar, porquanto o MM Juiz não cuidou de correlacionar os fatos em análise com os requisitos expressos no art. 312, do CPP, a soltura e imposição de medidas cautelares diversas da prisão são medidas que se impõem. 2. É que, no vertente caso o juízo a quo não apontou dados concretos do feito que pudessem justificar a manutenção da prisão cautelar do paciente, simplesmente invocando ilações abstratas que devem ser desconsideradas como modo de fundamentação da garantia da ordem pública, tal qual "() A escalada da violência e do tráfico, nos dias atuais, não permite a libertação dos indivíduos que se colocam a serviço destes delitos, sob pena de atentado à estrutura do tecido social." 3. Ademais, a afirmativa de o ora paciente possui antecedentes criminais não se demonstra verdadeiro, porquanto em consulta no sistema de Consulta de Antecedentes Criminais Unificadas - CANCUN/TJCE, verifica-se o registro de apenas a existência de 2 (dois) procedimentos alusivos ao fato em análise, um referente ao procedimento ordinário (ação penal) e outro relativo a um pedido de Habeas Corpus. 4. Ordem conhecida e CONCEDIDA, com aplicação de medidas cautelares prevista no art. 319 do CPP" (www.tjce.jus.br).
+Tendo em vista a superveniência do julgamento de mérito do habeas corpus na instância originária, verifico que o presente writ perdeu o objeto.
+Ante o exposto, julgo o habeas corpus prejudicado.
+P. e I.
