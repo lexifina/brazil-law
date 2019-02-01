@@ -1,0 +1,8 @@
+Vistos etc.
+    Trata-se de recurso extraordinário amparado nos arts. 5º, II, XXXV e LIII, § 2º, e 114 da Constituição Federal, manejado pela Organização das Nações Unidas — Programa das Nações Unidas para o Desenvolvimento (ONU/PNUD), contra acórdão proferido em sede de ação cautelar inominada com pedido liminar, incidental à ação rescisória, visando à suspensão da execução processada nos autos da Reclamação Trabalhista originária da decisão rescindenda, no que diz com a preservação da imunidade de jurisdição da Recorrente.
+    Verifico já proferida decisão definitiva no julgamento do RE 578.543, Rel. Min. Ellen Gracie, DJe 27.5.2014, manejado contra acórdão prolatado nos autos do Recurso Ordinário na Ação Rescisória objeto da ação cautelar que ensejou o manejo do presente recurso, cujo transitado em julgado se deu no dia 04.8.2015, mediante o qual o plenário desta Suprema Corte, por unanimidade, deu provimento ao recurso extraordinário para, “[...] reconhecendo a violação, nos termos no art. 485, V, do CPC, à literal disposição contida na Seção 2 da Convenção sobre Privilégios e Imunidades das Nações Unidas, julgar procedente o pedido rescisório formulado, ficando desconstituído o acórdão do Tribunal Regional do Trabalho da 23ª Região (fls. 202-211) e reconhecida a imunidade de jurisdição e de execução da ONU/PNUD [...]”, razão pela qual ausente interesse recursal na apreciação da controvérsia, operada a perda superveniente do objeto do presente recurso.
+    Julgo prejudicado o recurso extraordinário (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
