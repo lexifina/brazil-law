@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO – Ação ordinária – Agente de segurança penitenciária – Aposentadoria especial – Pretensão de aplicação subsidiária das regras do regime geral da previdência social (Lei nº 8.213/91, art. 57) – Improcedência do pedido – Pretensão de reforma – Impossibilidade – Existência de regime previdenciário próprio – Inexistência de mora legislativa – Inaplicabilidade do art. 40, § 4º, da Constituição Federal – Precedentes – Sentença de improcedência mantida na forma do art. 252 do RI – Não provimento do recurso.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, b, c e d, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; e 40, § 4º, I e II, da CF. Sustenta que, “como não existia previsão legal para a conversão para o período trabalhado nessa situação até 05/05/2010, amparado no inciso XXXVI do artigo 5º da Carta Magna do Estado Democrático de Direito, corroborado do princípio da segurança jurídica, a irresignação do Recorrente cinge-se quanto a efetiva aplicação do artigo 40 da Lei Maior e da Súmula 33 do Supremo Tribunal Federal, permitindo a contagem especial para o período que o Recorrente já recebeu o adicional de insalubridade”.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) incide a Súmula 282/STF; (ii) “os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco evidenciado o suposto maltrato à norma constitucional enunciada”; (iii) inviável o recurso extraordinário pautado nas alíneas b e c da CF.
+    O recurso não merece acolhida, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte. Nesse sentido, veja-se o ARE 906.518, Rel. Min. Dias Toffoli.
+     Quanto à interposição do recurso com base no art. 102, III, b, c e d, da Constituição Federal, não há, na peça recursal, fundamentação apta a justificar o conhecimento do recurso extraordinário. Incide, portanto, a Súmula 284/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
