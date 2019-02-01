@@ -1,0 +1,34 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região (Apelação Criminal n. 0002080-28.2012.4.01.3305/BA).
+Consta dos autos que [NOME] foi condenado, em primeira instância, à pena de 2 anos de reclusão, substituída por restritivas de direitos, pela prática do delito do art. 334-A, § 1º, IV, do Código Penal.
+O órgão acusatório interpôs recurso de apelação, ao escopo de que o Magistrado de primeiro grau (fl. 230):
+ ..  contrariando o arcabouço probatório carreado na investigação policial e na instrução processual, da forma equivocada, alterou a classificação do delito inicialmente imputado ao réu, qual seja, o previsto no art. 273, §§ 1º e 1º-B do Código Penal (venda de produto destinado a fins terapêuticos ou medicinais sem registro dos órgãos de vigilância) para o descrito no artigo 334-A, § 1º, IV do mesmo diploma legal (contrabando).
+A Corte regional, ao apreciar o feito, negou provimento ao apelo por entender que "a sentença, acertadamente, promoveu a emendatio libelli prevista no art. 383 do CPP, atribuindo a conduta ao art. 334-A, § 1º, IV, do CP" (fl. 277).
+Nas razões recursais, o Parquet aponta violação do art. 273, §§ 1º e 1º-B, I e III, do Código Penal, sob o argumento de que o mencionado dispositivo descreve "justamente a conduta que a própria sentença reconhece: a de venda e manutenção em depósito de medicamento proibido, sem registro, quando exigível, no órgão de vigilância sanitária competente, e sem as características de identidade e qualidade admitidas para a sua comercialização" (fl. 296). Alega, ainda, dissídio jurisprudencial quanto ao tema ora discutido.
+Requer o provimento do recurso, "para condenar o réu [NOME] pela prática do crime previsto no art. 273, §§ 1º e 1º-B, incisos I e III, do Código Penal" (fl. 306).
+Contrarrazões às fls. 326-332 e decisão de admissibilidade às fls. 334-335.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+O recorrido foi condenado, em primeira instância, à pena de 2 anos de reclusão, substituída por restritivas de direitos, pela prática do delito do art. 334-A, § 1º, IV, do Código Penal, nos seguintes termos (fls. 211-212):
+ ..
+De acordo com a denúncia, foram apreendidos pela Polícia Civil 5 (cinco) comprimidos do medicamento Pramil (Sildenafil 50 mg), que contém substância similar à presente no viagra, utilizada para disfunção erétil.
+O. mencionado medicamento não possui registro junto à Agência Nacional de Vigilância Sanitária, além de não ter as características de identidade e qualidade admitidas para sua colocação à venda, a exemplo de rótulo e bula, sendo, portanto, de comercialização proibida no Brasil, segundo Resolução editada pela ANVISA, RE no. 766, de 6 de maio de 2002.
+O exame pericial realizado nos comprimidos (laudo fl. 151) detectou a presença da substância citrato de sildenafil, correspondente ao princípio ativo presente nos medicamentos pramil e viagra.
+O tipo penal incriminador descrito no art. 273, do Código Penal, inserido no capítulo dos crimes contra a saúde pública, visa a proteger a saúde das pessoas contra os graves riscos causados por produtos destinados a fins terapêuticos e medicinais quando falsificados, corrompidos, adulterados ou alterados.
+A denúncia, em nenhum instante, atribuiu ao réu qualquer desses verbos típicos - falsificar, corromper, alterar ou adulterar remédio, mas sim expor à venda e manter em depósito medicamento de procedência estrangeira que não possui registro no órgão de vigilância sanitária.
+Por conseguinte, descabe a incidência do art. 273, do Estatuto Punitivo in casu. Em verdade, está-se diante de caso de contrabando de pramil (sildenafil 50 mg).
+Os réus se defendem dos fatos narrados e não do eventual enquadramento dado à conduta pela acusação. Portanto, cabe a aplicação, no presente caso, do instituto da emendatio libeli, previsto no art. 383, CPP1, pois se trata de simples alteração na definição jurídica, já que a conduta descrita na denúncia seria a mesma.
+ ..
+A Corte de origem, ao ratificar a sentença, asseverou (fls. 276-277):
+ ..
+O tipo penal incriminador descrito no art. 273 do Código Penal, inserido no capítulo dos crimes contra a saúde pública, visa proteger as pessoas contra os graves riscos causados por produtos destinados a fins terapêuticos e medicinais quando e, somente apenas, se tratarem de medicamentos falsificados, corrompidos, adulterados ou alterados, conforme se aduz do próprio nomen iuris do dispositivo legal em análise.
+A denúncia, em nenhum instante, atribuiu aos ora apelantes qualquer desses verbos típicos - falsificar, corromper, alterar ou adulterar remédio - sendo o réu acusado apenas de manter em depósito, com finalidade de vender, medicamento, legítimo, não adulterado, contudo, de comercialização proibida no Brasil.
+O MPF insurge-se contra a classificação da conduta no artigo 334-A do CP (contrabando). Argumenta que o tipo do § 1º-B do artigo 273 é norma especial em relação ao delito de contrabando, devendo, pelo princípio da especialidade, ser aplicado no presente caso, restando preterida a norma do artigo 334-A.
+No entanto, o preceito secundário contido no § 1º-B, em sua própria redação, refere-se ao § 1º, de modo que não fica dispensada a presença dos elementos constitutivos objetivos do tipo penal: ser o medicamento objeto do verbo nuclear falsificado, corrompido, adulterado ou alterado. Desse modo, descabe conferir interpretação analógica ao artigo 273 para abarcar situação não prevista na lei, sob pena de usurpação da competência legislativa e de desrespeito aos princípios da lesividade e taxatividade.
+Por conseguinte, descabe falar na incidência do art. 273 do CP in casu. Em verdade, está-se diante de hipótese de contrabando de Pramil (Sildenafil 50 mg).
+A sentença, acertadamente, promoveu a emendatio libelli prevista no art. 383 do CPP, atribuindo a conduta ao art. 334-A, § 1º, IV, do CP.
+Dessa forma, percebe-se que as instâncias de origem não consideraram de especial relevo a ofensa gerada pela conduta, de modo a classificar o delito como aquele previsto no art. 273, §§ 1º e 1º-B, I e V, do CP.
+A esse respeito, urge consignar, consoante a jurisprudência desta Corte Superior:
+ ..  o exame dos autos para se verificar se, consideradas a natureza e a quantidade de medicamentos apreendidos, haveria especial potencial lesivo à saúde pública, de modo a se classificar a conduta como crime de contrabando ou no tipo descrito no artigo 273, § 1º-B, I, do Código Penal, exigiria o revolvimento de matéria fático-probatória, o que é vedado nesta instância extraordinária, a teor do disposto na Súmula 7/STJ. Precedentes" (AgInt no REsp n. 1.611.941/PR, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/9/2016).
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
