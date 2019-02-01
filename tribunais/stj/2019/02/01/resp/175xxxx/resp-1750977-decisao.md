@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] no qual se alega dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 194):
+COBRANÇA - COMPRA E VENDA DE VEÍCULO - RELAÇÃO JURÍDICA - ILEGITIMIDADE PASSIVA - PRECLUSÃO - RESPONSABILIDADE. Ocorre preclusão do direito de discutir preliminar decidida em despacho saneador, sem oposição de recurso. A financeira não possui qualquer relação negocial com o autor, por ter atuado apenas como agente de financiamento, disponibilizando o recurso para que o comprador pagasse ao vendedor o bem adquirido.
+Sustenta, em síntese, que é incontroversa a falha na prestação do serviço da instituição financeira, de modo que deve ser condenada ao pagamento da quantia correspondente ao valor financiado do veículo do recorrente.
+Assim posta a questão, passo a decidir.
+Verifico que o recorrente não indicou artigo de lei algum a respeito de cuja interpretação divergiu o acórdão recorrido, razão pela qual incide o teor do enunciado n. 284 da Súmula do STF ao presente caso. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. VIOLAÇÃO AO ART. 131 DO CPC/73. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. ILEGITIMIDADE PASSIVA. SÚMULAS 284 DO STF, 5 E 7 DO STJ. FALTA DE COTEJO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura violação ao art. 131 do CPC/73 quando, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, o acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide.
+2. Quanto ao dissídio jurisprudencial, a ausência de indicação de dispositivo de lei federal a que se tenha dado interpretação divergente pelo acórdão recorrido caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+3. A ausência de cotejo analítico impede o conhecimento do alegado dissídio jurisprudencial.
+4. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.347.048/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 13.11.2018) (grifo nosso)
+Registro, ademais, que o dissídio jurisprudencial deve vir analiticamente demonstrado, indicando a parte as semelhanças de fato entre os casos confrontados e o tratamento jurídico diferenciado dado pelo acórdão recorrido e pelos paradigmas, o que não ocorreu, pois limitou-se o recorrente a transcrever ementa de julgado.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
