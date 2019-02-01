@@ -1,0 +1,15 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Deficiência na instrução do writ.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, no qual o Superior Tribunal de Justiça é apontado como autoridade coatora.
+    2. A parte impetrante afirma que o Superior Tribunal de Justiça teria negado seguimento ao recurso extraordinário interposto pela defesa contra o acórdão unânime da Quinta Turma do STJ que não conheceu do agravo em recurso especial, determinando, na sequência, a imediata certificação do trânsito em julgado da decisão.
+    3. Prossegue a narrativa para sustentar que “a RETROATIVIDADE DO TRÂNSITO EM JULGADO para data de julgamento de mérito do último recurso interposto e inadmitido faz operar efeitos negativos em desfavor do réu num momento em que constitucionalmente, ainda era considerado presumidamente inocente”.
+    4. Por fim, alega que “a PENA DEFINITIVA DE CADA UM CRIME ISOLADAMENTE, imputada ao réu na SENTENÇA (29/06/2015) de prolação do juízo de piso e mantida pela Câmara Criminal do Tribunal de Justiça da Paraíba, exceto a suspensão do direito de dirigir que foi reduzida, ficou assim definida: I - Art. 306 do CTB ( 6 seis meses de detenção) e 10 (dez) dias-multa 1/30 do salário mínimo e suspensão de dirigir por 2 (dois) meses; II - Art. 311 do CTB (6 seis meses de detenção) III - Art. 330 do CP (15 quinze dias de detenção) e 10 (dez) dias-multa, no valor de 1/30 do salário vigente à época do fato”. Nessas condições, “considerando o preceituado no art. 5º, inciso XLVI da CF c/c art. 119 do CP a INDIVIDUALIZAÇÃO DA PENA ISOLADAMENTE PARA CADA CRIME é ‘I N F E R I O R’ a 1 (um) ano, consequentemente, já decorreram 3 (três) anos 2 (dois) meses e 29 (vinte e nove) dias, contados da última publicação do ACÓRDÃO no Diário de Justiça Eletrônico do STJ em ‘28/09/2018’ que improveu o recurso do réu”. De modo que, “com fundamento no art. 109, inciso VI do CP, está PRESCRITA A PRETENSÃO EXECUTÓRIA DA PENA APLICADA ao paciente”.
+    5. Com essa argumentação, requer a concessão da ordem a fim de anular “a decisão do Superior Tribunal de Justiça, que mandou certificar o TRÂNSITO EM JULGADO DE DECISÃO COM EFEITO RETROATIVO”.
+    Decido.
+    6. O habeas corpus não deve ser conhecido.
+    7.  A petição inicial do writ não foi instruída com cópia do acórdão do Tribunal Estadual e de quaisquer das decisões do Superior Tribunal de Justiça. Fato que impede a exata compreensão da controvérsia, bem como atrai a orientação jurisprudencial do STF, no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
