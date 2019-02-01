@@ -1,0 +1,10 @@
+DECISÃO
+1. Expeçam-se imediatamente as requisições de pagamento relativas aos valores incontroversos.
+2. Defiro o pedido de habilitação dos herdeiros de [NOME], indicados às fls. 352-371, bem como do espólio de [NOME], representado pela inventariante [NOME], conforme fls. 372-387. Assinalo que o levantamento dos valores referentes aos substituídos somente será possível com a regularidade da documentação apresentada, conforme Instrução Normativa n. 3 do STJ.
+3. Exclua-se o pagamento administrativo relativo ao Substituído Jayme Ribeiro de Andrade, conforme reconhecido pelo exequente à fl. 342.
+4. Indefiro a impgnação da União, relativamente aos substituídos [NOME] e [NOME]. Tal como salientou o exequente, a questão acerca da incidência do percentual de 3,17% sobre a remuneração dos cargos de direção, funções gratificadas e vantagens incorporadas foi decidida em embargos à execução, de modo que não há como reabrir tal discussão nesta oportunidade - incidência da preclusão consumativa. Expeçam-se, pois, as requisições de pagamento relativamente à parte controvertida.
+Destaco, por fim, a proferida no RE n. 870.947/SE, na qual foi deferido efeito suspensivo aos embargos de declaração opostos, a qual se relaciona, exclusivamente, ao índice de correção monetária. Assim, no que concerne aos juros e ao período de sua incidência há que se observar o que foi decidido o RE n. 579.431/RS e nos recursos repetitivos julgados por esta Corte (REsps n. 1.495.146/MG, 1.495.144/RS e 1.492.221/PR, Rel. Ministro Mauro Campbell Marques, DJe 20/3/2018).
+Determino, portanto, o bloqueio da diferença entre os índices de correção monetária adotados antes do julgamento do RE n. 870.947/SE e aquele firmado em repetitivo por esta Corte, após o julgamento do referido recurso, malgrado haja o decisum feito menção ao juros.
+Registro, ainda, que os valores bloqueados deverão permanecer em conta vinculada até que se julgue, em definitivo, o tema pelo STF. Após o julgamento, se for o caso, a parte poderá levantar os referidos valores.
+5. Aguarde-se a manifestação do exequente quanto aos substituídos [NOME] e [NOME].
+Publique-se e intimem-se.
