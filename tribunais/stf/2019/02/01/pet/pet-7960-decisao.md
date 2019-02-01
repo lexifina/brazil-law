@@ -1,0 +1,12 @@
+Trata-se de inconformismo interposto contra decisão monocrática da Ministra Presidente do Superior Tribunal de Justiça – STJ, que não conheceu do AREsp 1.336.146/SP (págs. 41-42 do documento eletrônico 7), denominado pelo recorrente como “recurso ordinário constitucional”.
+    O expediente é manifestamente incabível, no entanto.
+    Conforme art. 102, II, a e b, da Constituição Federal, compete a este Supremo Tribunal julgar, em recurso ordinário: (i) o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão; e (ii) o crime político.
+    No caso, repito, o recorrente apresentou suposto recurso ordinário contra decisão monocrática da Ministra Presidente do Superior Tribunal de Justiça – STJ, que não conheceu do AREsp 1.336.146/SP. Portanto, absolutamente incabível.
+    Registro, ainda, que é firme na Corte o entendimento de que não se mostra possível a aplicação do princípio da fungibilidade recursal quando se trata de erro grosseiro, como o ocorrido na espécie:
+    “AGRAVO INTERNO EM PETIÇÃO. RECURSO ORDINÁRIO INTERPOSTO EM FACE DE ACÓRDÃO DO TRIBUNAL SUPERIOR ELEITORAL PROFERIDO EM RECURSO ESPECIAL ELEITORAL. DESCABIMENTO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL INADMISSÍVEL. PRECEDENTES. 1. É firme a jurisprudência desta CORTE no sentido do descabimento de recurso ordinário previsto no art. 102, II, a e b, da CF/1988, e na parte final do art. 281 do Código Eleitoral, em face de acórdão do Tribunal Superior Eleitoral que decide agravo de instrumento em prestação de contas. 2. Evidenciado o erro grosseiro, sequer se permite a fungibilidade recursal. Nesse sentido: Pet 5166-AgR (Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 25/8/2015); Pet 5128-AgR (Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 15/4/2014); e AI 853967-AgR (Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 25/10/2012). 3. Agravo interno a que se nega provimento” (Pet 7.518-AgR/RS, Rel. Min. Alexandre de Moraes).
+    “RECURSO ORDINÁRIO CONSTITUCIONAL – DECISÃO DE NÃO CONHECIMENTO DE AGRAVO REGIMENTAL EM RECLAMAÇÃO – DESCABIMENTO – NEGATIVA DE SEGUIMENTO. As hipóteses de cabimento do ordinário estão insertas no artigo 102, inciso II, alíneas “a” e “b”, da Constituição Federal de 1988. Descabimento de fungibilidade entre recursos, ante erro grosseiro” (Pet 5.166-AgR/DF, Rel. Min. Marco Aurélio).
+    Isso posto, nego seguimento ao pedido (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
