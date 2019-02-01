@@ -1,0 +1,22 @@
+DECISÃO
+[NOME] [NOME] DA ROSA alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Agravo em Execução n. 0260483-75.2018.8.21.7000.
+Nesta Corte a defesa alega a ocorrência de constrangimento ilegal, sob o fundamento de que o delito de que é "perfeitamente admissível, em tese, a extensão do benefício do livramento condicional aos delitos hediondos quando ainda primário o condenado, mediante o cumprimento de 2/3 da pena infligida por esse delito, não podendo ser unificadas as penas para considerar o condenado reincidente em todas as condenações por crime hediondo" (fl. 4, destaquei).
+Requer, assim, seja restabelecida a decisão de primeiro grau, que concedeu o referido benefício.
+Decido.
+A instância ordinárias indeferiu o livramento condicional porque:
+O agravado foi condenado à pena de 05 (cinco) anos de reclusão pela prática do crime de tráfico de drogas nos autos do processo n. 019/2.14.0007838-0 e, pelo mesmo delito, à pena provisória de 05 (cinco) anos e 06 (seis) meses de reclusão, no feito tombado sob o n. 019/2.17.0006312-4, sendo que neste último foi reconhecida a agravante da reincidência.
+É, como se vê, reincidente específico em crime equiparado a hediondo, nos termos do art. 83, inciso V, do Código Penal, uma vez que em decisão dos embargos infringentes de nº [CPF], foi mantida a inviabilidade de aplicação do §4º, do art. 33, da Lei de Drogas, na pena de [NOME].
+Assim, a condição de reincidente deve ser estendida à outra condenação mencionada, uma vez que na fase executória a reincidência não se relaciona ao crime que anteriormente fora praticado pelo apenado, mas, sim, trata-se de um instituto de ordem subjetiva destinado a prorrogar o recebimento de certos benefícios ou para agravar a pena imposta em decorrência de novo delito que venha a ser praticado (fls. 74-75, destaquei).
+Inicialmente, cumpre salientar que: "É vedada a concessão de livramento condicional aos reincidentes específicos na prática de crimes hediondos ou equiparados, nos quais se inclui o delito de tráfico de drogas, a teor dos arts. 83, V, do Código Penal e 44 da Lei n. 11.343/2006" (AgRg no HC n. 324.006/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/2/2016, destaquei).
+Confira-se a redação do art. 44, da Lei n. 11.343/2006, que menciona o crime previsto no art. 33, caput e § 1º da Lei n. 11.343/2006:
+Art. 44 - Os crimes previstos nos arts. 33, caput e § 1ª, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+Parágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico.
+O art. 83 do Código Penal, por sua vez, estabelece:
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+ ..
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+De acordo com a jurisprudência da Terceira Seção deste Superior Tribunal, o tráfico ilícito de drogas com incidência de causa de diminuição da pena (art. 33, § 4º, da Lei n. 11.343/2006) não possui natureza equiparada a hedionda e, portanto, não pode ser equiparado ao crime previsto no caput do artigo. O entendimento foi firmado no julgamento da Pet n. 11.796/DF, recurso representativo da controvérsia (Tema 600),
+O Tribunal Pleno do Supremo Tribunal Federal também já assinalou que: "o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos (HC n. 118.533/MS, Ministra Carmen Lúcia, DJe 29/7/2016).
+O acórdão está em harmonia com a jurisprudência deste Superior Tribunal, pois conforme bem destacado pelo acórdão proferido pelo Tribunal de origem, "foi mantida a inviabilidade de aplicação do §4º, do art. 33, da Lei de Drogas, na pena de [NOME]" (fl. 74, destaquei), de modo que é legítimo o reconhecimento da reincidência específica.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
