@@ -1,0 +1,46 @@
+EMENTA
+RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO. SUPOSTA ILEGALIDADE NO ACÓRDÃO QUE EXCLUIU A QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. ARESTO QUE CONCLUIU PELA MANIFESTA IMPROCEDÊNCIA DA QUALIFICADORA, ANTE A INEXISTÊNCIA DO ELEMENTO SURPRESA. CONVICÇÃO FORMADA MEDIANTE A ANÁLISE DE CIRCUNSTÂNCIAS FÁTICAS. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Recurso especial não conhecido.
+DECISÃO
+O Ministério Público do Paraná interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça local, proferido no julgamento do Recurso em Sentido Estrito n. 00037836-06.2012.8.16.0021, assim ementado (fl. 357):
+RECURSO EM SENTIDO ESTRITO. TENTATIVA DE HOMICÍDIO QUALIFICADO (ART. 121, § 2.º, INC. IV, CP). RECURSO DA DEFESA. 1) PRETENSÃO DE ABSOLVIÇÃO SUMÁRIA. ALEGADA LEGÍTIMA DEFESA. DESACOLHIMENTO. REQUISITOS DA EXCLUDENTE DE ILICITUDE NÃO DEMONSTRADOS ESTREME DE DÚVIDAS. 2) ALMEJADA EXCLUSÃO DA QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. ACOLHIMENTO. COMPROVAÇÃO DE QUE O ACUSADO NÃO AGIU COM O PROPÓSITO DE SURPREENDER O OFENDIDO, CONFORME DESCRITO NA DENÚNCIA. RÉU QUE, ANTES DE EFETUAR OS DISPAROS, INCLUSIVE INDAGOU A VÍTIMA SE ELA ESTAVA NO LOCAL PARA MATÁ-LO. RECURSO PARCIALMENTE PROVIDO, PARA EXCLUIR A QUALIFICADORA.
+Nas razões, o órgão ministerial suscitou negativa de vigência ao art. 413 do Código de Processo Penal e aos arts. 14, II, e 121, 2º, IV, ambos do Código Penal, além do art. 1.022 do Código de Processo Civil.
+Aduziu, em síntese, que a Corte de origem incorreu em ilegalidade ao decotar a qualificadora do art. 121, § 2º, IV, do CP, uma vez que os elementos fáticos dos autos, devidamente reconhecidos pela Corte Paranaense, indicam que a tentativa do homicídio foi mediante surpresa, consistente precisamente no fato de o acusado ter atirado contra a vítima quando ela estava fumando, desprevenida e sentada em cima de sua motocicleta, em frente a um bar, local onde havia parado para comprar os cigarros, sendo que a vítima sequer conhecia os acusados e não tinha nenhum motivo para imaginar que eles tentariam matá-la (fls. 418/419).
+Pugnou, assim, pelo restabelecimento da sentença de pronúncia (fl. 364).
+A Corte de origem admitiu o recurso (fls. 441/443).
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso (fl. 455):
+PENAL. PROCESSO PENAL. DISPARO DE TIROS DE ARMA DE FOGO CONTRA VÍTIMA QUE FUMAVA SENTADA EM UMA MOTO, DE COSTAS PARA O RÉU. HOMICÍDIO DOLOSO TENTADO. PRONÚNCIA. ACÓRDÃO RECORRIDO QUE FAZ REFERÊNCIA À EXISTÊNCIA DO FATOR SURPRESA. PRINCÍPIO IN DUBIO PRO SOCIETATE QUE IMPLICA SUBMISSÃO DA QUALIFICADORA PREVISTA NO ARTIGO 121, §2º, IV, DO CP, AO CONSELHO DE SENTENÇA. VIOLAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI PARA JULGAMENTO DE CRIMES DOLOSOS CONTRA A VIDA. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL MINISTERIAL.
+É o relatório.
+A orientação jurisprudencial sedimentada nesta Corte é no sentido de que as qualificadoras do crime de homicídio só podem ser excluídas da decisão de pronúncia se forem manifestamente improcedentes, isto é, quando completamente destituídas de amparo nos autos, sendo vedado nessa fase valorar as provas para afastar a imputação concretamente apresentada pelo Ministério Público, sob pena de se usurpar o pleno exame dos fatos do juiz natural da causa, qual seja, o Tribunal do Júri (HC n. 138.177/PB, de minha relatoria, Sexta Turma, DJe 28/8/2013).
+No caso, ao pronunciar o recorrido, o Juízo processante incluiu a qualificadora do art. 121, § 2º, IV, do CP, considerando as circunstâncias fáticas, que evidenciavam que o crime foi cometido num momento em que a vítima estava distraída (fl. 254):
+ ..
+Sem aprofundar mais na apreciação das provas carregadas aos autos, mantenho a qualificadora prevista no art. 121, § 2º, inciso IV, do CP, já que há indicativos de que o delito foi cometido com recurso que dificultou a defesa da vítima, uma vez que, segundo consta, o réu surpreendeu a vítima desarmada, sentada na sua motocicleta, impossibilitando sua defesa.
+Assim, não sendo manifestamente improcedente, a qualificadora do inciso IV merece admissão nesta decisão.
+ ..
+A Corte de origem, no entanto, entendeu pela exclusão da referida qualificadora, sopesando o depoimento do ofendido, que relatou ter sido indagado, antes do crime, pelo recorrido (réu), se estaria naquele local para matá-lo, circunstância que, na convicção formada na Corte a quo, afastaria de pronto a qualificadora referente à surpresa (fl. 364):
+ ..
+A propósito, consta da denúncia que "o delito foi cometido mediante recurso que dificultou a defesa da vítima, na medida em que ela foi surpreendida pela execução do delito quando estava em cima da sua moto, em via pública".
+De fato, como visto, Cleverson afirma em Juízo que não conhecia LUCAS e a pessoa conhecida pelo apelido de "Pardal". O declarante parou sua moto num bar e estava fumando quando duas pessoas lhe perguntaram se estava no local para matar alguém. Após o ofendido negar, ocasião em que inclusive virou e deu risada, pois achou que era uma piada, LUCAS também perguntou, de dentro do carro, se o declarante estava ali para matá-lo. Novamente negou tal pretensão, aduzindo que sequer o conhecia. Contudo, quando se virou, LUCAS efetuou os disparos, tendo sido atingido por quatro.
+Tal relato, porém, corrobora a versão do acusado de que acreditava que o ofendido iria matá-lo. Embora não seja suficiente para comprovar a tese da legítima defesa, anteriormente refutada no presente voto, referida versão apresentada pelo próprio ofendido, aliada ao relato do ora recorrente, revela que LUCAS não agiu com o propósito de surpreender o ofendido. Tanto que, antes de efetuar os disparos, inclusive indagou se Cleverson estava no local para matá-lo.
+Assim, considerando que nesse mesmo contexto o próprio Ministério Público requereu, nas alegações finais, a não admissão da qualificadora do motivo fútil, o que foi acolhido pelo ilustre Magistrado na r. decisão de pronúncia, não há como persistir a qualificadora do emprego de recurso que dificultou a defesa da vítima.
+Como observou o MM. Juiz ao afastar a qualificadora do motivo fútil, "ficou claro que os disparos se deram em virtude de o réu acreditar que a vítima estava ali para matá-lo, ainda que tal fato não tenha se confirmado" (mov. 33.1).
+Ou seja, nesse contexto, também não se pode afirmar que LUCAS agiu com o propósito de dificultar a defesa de Cleverson, tal como descrito na denúncia.
+Trata-se, portanto, de qualificadora manifestamente improcedente, devendo ser decotada da decisão de pronúncia.
+ ..
+Conclusão essa ratificada em sede de aclaratórios (fl. 399):
+ ..
+No caso, não há que se falar em omissão do acórdão embargado, vez que ficaram suficientemente esclarecidos no aresto os motivos pelos quais se afastou a qualificadora do emprego que impossibilitou a defesa da vítima.
+Como referido, a efetiva análise das provas coligidas nos autos "revela que LUCAS não agiu com o propósito de surpreender o ofendido", devendo a qualificadora em questão ser afastada. Isso porque, após o acusado brigar com uma terceira pessoa (Pardal), que teria lhe ameaçado ao dizer que iria encomendar sua morte, o réu achou suspeita a conduta do ofendido. E, após questionar a vítima se ele estava ali para matá-lo, efetuou os disparos.
+Daí porque se entendeu pelo decote da qualificadora imputada ao acusado.
+ ..
+De fato. para configurar a qualificadora referente ao recurso que dificulte a defesa da vítima, a surpresa é o fator diferencial que se deve buscar (REsp n. 1.713.312/RS, de minha relatoria Sexta Turma, DJe 3/4/2018).
+Com efeito, se o Tribunal a quo, ao analisar as circunstâncias fáticas do caso, formou convicção no sentido da inexistência do elemento surpresa, a conclusão do aresto (exclusão da qualificadora do art. 121, § 2º, IV, do CP) não destoa da orientação jurisprudencial desta Corte.
+Ir além disso, a fim de alterar a convicção, demandaria o reexame de elementos fáticos, providência vedada na via especial (Súmula 7/STJ).
+Nesse sentido, destaco o seguinte precedente:
+PENAL E PROCESSUAL PENAL. CRIME DOLOSO CONTRA A VIDA. HOMICÍDIO. PRONÚNCIA. IMPROCEDÊNCIA MANIFESTA DAS QUALIFICADORAS DA "SURPRESA" E DO "RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA". EXCLUSÃO. POSSIBILIDADE. ENTENDIMENTO EM SENTIDO CONTRÁRIO. SÚMULA N.º 7/STJ. INVASÃO DA COMPETÊNCIA DO JÚRI POPULAR. INEXISTÊNCIA.
+1. A exclusão das qualificadoras do homicídio na fase da pronúncia, somente é admitida quando manifestamente improcedentes, pois, havendo dúvidas de sua existência e incerteza sobre as circunstâncias fáticas, deve prevalecer o princípio do in dubio pro societate sob pena de usurpação da competência do Júri Popular.
+2. In casu, as instâncias ordinárias afirmaram, categoricamente, que as qualificadoras da "surpresa" e do "recurso que impossibilitou a defesa da vítima" eram manifestamente improcedentes por não guardarem qualquer relação com as provas acostadas aos autos, o que impede conclusão em sentido contrário por este Sodalício Superior- Súmula n.º 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.125.733/PR, Ministro Jorge Mussi, Quinta Turma, DJe 27/11/2012)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
