@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial com pedido de liminar impetrado em favor de ROBERTO AGOSTINHO DE CARVALHO, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento ao recurso de apelação interposto pelo parquet.
+O paciente foi condenado, em primeira instância, às penas de 1 ano e 2 meses de reclusão no regime semiaberto e de 11 dias multa, pela prática da conduta descrita no art. 180, caput, do Código Penal.
+Em apelação, o Tribunal a quo deu provimento ao recurso do Ministério Público para, reconhecendo a reincidência "por força da condenação proferida nos autos do processo 678/2009, da 28ª Vara Criminal", determinar o início de cumprimento da reprimenda no regime fechado.
+No presente writ, alega o impetrante que, como o delito a que se refere tal condenação ocorreu em 2009 e o acórdão ora impugnado foi proferido em 3/2/2017, "torna-se imperiosa a consagração de ser considerado ao Paciente, o status de primariedade, levando-se em conta os 05 (cinco) anos decorridos (sic)" (fl. 6).
+Requer, liminarmente e no mérito, seja aplicado o art. 64, I, do Código Penal, com a expedição de alvará de soltura em favor do paciente.
+É o relatório. Decido.
+A questão relativa ao período depurativo para afastamento da aplicação da reincidência não foi apreciada pela Corte de origem, motivo pelo qual o exame da matéria pelo Superior Tribunal de Justiça implicaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (HC n. 273.799/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/5/2016; RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Em consulta ao site do Tribunal a quo, à sentença condenatória considerada para fins de reincidência no recálculo do acórdão ora impugnado, que transitou em julgado em 24/5/2012 (030548-43.2009.8.26.0050), o paciente foi condenado à pena de 6 anos, 10 meses e 15 dias de reclusão e ao pagamento de 16 dias-multa.
+O período depurativo previsto no art. 64, I, do Código Penal tem como termo inicial não a data da condenação ou do fato típico, mas a data em que se extinguiu o cumprimento da pena, cujo implemento não se pode inferir, de plano, da documentação juntada aos autos.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se. Intimem-se.
