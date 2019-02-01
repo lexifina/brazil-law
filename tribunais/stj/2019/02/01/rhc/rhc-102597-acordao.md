@@ -1,0 +1,71 @@
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA AMPARADA NA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE CONCRETA DA CONDUTA. MAUS ANTECEDENTES. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente e outros quatro indivíduos, que desferiram diversos disparos de arma de fogo contra a vítima, em via pública, com intuito de matá-la.
+3. Além disso, consta do decreto que o recorrente possui vasto envolvimento criminal, possuindo passagens pela prática dos crimes de tráfico de drogas, tentativa de homicídio e posse ilegal de arma de fogo. Portanto, a custódia cautelar está justificada na necessidade de garantia da ordem pública, ante a gravidade efetiva da conduta e a contumácia criminosa do recorrente.
+4. Recurso ordinário desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do Habeas Corpus n. 1.0000.18.073602-71000.
+Consta dos autos que o recorrente - e outros dois acusados, além de duas pessoas não identificadas - foi denunciado como incurso no art. 121, § 2º, IV, c/c o art. 14, II, ambos do CP. Depreende-se da inicial acusatória que, em 10/3/2018, os agentes chegaram de carro até o local dos fatos e se depararam com o ofendido parado em via pública. O recorrente desembarcou do automóvel com arma em punho e se aproximou subitamente da vítima, de forma a dificultar-lhe a defesa. Em seguida, o recorrente efetuou diversos disparos contra ela, que, mesmo ferida, conseguiu sair correndo. O recorrente correu atrás da vítima e conseguiu atingi-la novamente. Ela logrou montar em sua motocicleta e fugir, impedindo a consumação do homicídio. Nesse momento, os autores se evadiram do local do crime.
+O Magistrado singular recebeu a denúncia e decretou a prisão preventiva do recorrente (e-STJ fls. 87/88).
+O Tribunal de origem denegou a ordem de habeas corpus que visava a revogação da segregação cautelar, conforme evidencia a seguinte ementa (e-STJ fl. 95):
+"HABEAS CORPUS". HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. DEVIDAMENTE FUNDAMENTADA. REQUISITOS AUTORIZADORES. DA MEDIDA EXCEPCIONAL. INDÍCIOS DE AUTORIA E MATERIALIDADE. PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DA MEDIDA RESTRITIVA. EXTENSÃO DOS EFEITOS DA LIBERDADE PROVISÓRIA CONCEDIDA AO CORRÉU. INVIABILIDADE. IDENTIDADE DE SITUAÇÃO FÁTICO-JURÍDICA QUE NÃO FOI COMPROVADA. CONDIÇÕES PESSOAIS DO PACIENTE. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO. ORDEM DENEGADA.
+- Não há que se falar em constrangimento ilegal se o decreto prisional encontra-se adequadamente fundamentado, a fim de garantir a ordem pública, estando presente a prova da materialidade e os indícios suficientes de autoria.
+- Evidenciada a periculosidade do agente, a prisão preventiva é medida que se impõe.
+- Levando-se em consideração a ausência de comprovação de identidade de situações entre o Paciente e o corréu buscado como paradigma, não há que se falar em extensão do benefício concedido.
+- As condições favoráveis do Paciente não são suficientes para lhe garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautela.
+- Ordem denegada.
+Irresignada, a defesa interpõe o presente recurso, alegando falta de motivação idônea para a segregação antecipada, uma vez que a decisão foi proferida de forma genérica e sem declinar concretamente os requisitos autorizadores do art. 312 do CPP, inclusive quanto aos indícios suficientes de autoria delitiva. Invoca o postulado da presunção de inocência. Aduz que a gravidade abstrata do crime não pode embasar o decreto constritivo.
+Relata que foi deferido ao corréu [NOME] o direito de responder ao processo em liberdade e, com base nos princípios da igualdade e da isonomia processual, pede a extensão desse direito ao recorrente, sob o argumento de que ostenta condições pessoais mais favoráveis que o coacusado. Aduz que o recorrente é primário, tem bons antecedentes e residência fixa, além de sempre ter contribuído para as investigações, tanto que foi preso em sua casa.
+Assim, requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido (e-STJ fls. 126/129).
+Informações prestadas (e-STJ fls. 133/134 e 138/154).
+Parecer ministerial lavrado pelo ilustre Subprocurador-Geral da República [NOME] pelo desprovimento do recurso, ementado nos seguintes termos (e-STJ fls. 156/160):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PEDIDO DE EXTENSÃO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. FUNDAMENTAÇÃO IDÔNEA. DESPROVIMENTO.
+1. A ausência de similitude fático-jurídica no presente caso impede a extensão da liberdade provisória ao recorrente - suspeito de homicídio contra o irmão da vítima em data pretérita.
+2 A prisão preventiva foi devidamente decretada em conformidade com o art. 312 do CPP, e sua adequação e necessidade foi devidamente justificada pela instância originária.
+3. Parecer pelo desprovimento do recurso.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto da presente irresignação cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao recorrente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, inciso LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, estes foram os fundamentos invocados para a decretação da prisão preventiva do recorrente, in verbis (e-STJ fls. 87/88):
+Requereu o Ministério Público a decretação da prisão preventiva do denunciado [NOME].
+O presente feito trata do crime de homicídio qualificado (art. 121, §2º, inciso IV, c/c o art. 14, inciso II, todos do CP), em tese praticado por [NOME], [NOME] e [NOME].
+Conforme consta no caderno investigatório, os três denunciados, em companhia de duas pessoas não identificadas, se aproximaram da vítima em um automóvel e efetuaram diversos disparos em via pública no intuito de matá-la, apenas não consumando o delito por circunstâncias alheias à vontade dos agentes.
+No presente caso, entendo que estão presentes os elementos comprobatórios de materialidade e indicativos da autoria do representado, havendo vários elementos no caderno investigativo capazes de traçar o liame necessário para o fim de se decretar a medida cautelar em desfavor do ora denunciado.
+Já no campo dos requisitos subjetivos, há que se destacar que, para além da gravidade em concreto do delito que se apura, no qual o indivíduo, na companhia de outros 04 (quatro agentes), teria efetuado diversos disparos de arma de fogo contra a vítima em via pública e na presença de testemunhas, [NOME] é pessoa com vasto envolvimento criminal, possuindo passagens por crimes como tráfico de drogas, tentativa de homicídio e posse ilegal de arma de fogo (fls. 52v).
+Nesse sentido, ante os indícios acima apresentados, entendo haver, pois, necessidade de garantia da ordem pública e da paz local, uma vez que demonstrado, a princípio, alto grau de periculosidade do denunciado, o que não se resolveria com a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP), já que, pelo contexto evidenciado nos autos, seriam insuficientes e inadequadas.
+Ainda que a prisão preventiva seja uma medida extrema, certo é que em casos excepcionais como o dos autos, a ordem pública prevalece sobre liberdade individual, o que por si só afasta eventual constrangimento ilegal do acusado.
+Trata-se de crime punido com pena máxima acima de quatro anos, restando bem configurada a hipótese legal para a decretação da prisão preventiva. A materialidade encontra-se comprovada pelos documentos,o que já é suficiente para o decreto e são fortes os indícios de autoria.
+Por fim, destaco não haver se falar em violação ao princípio constitucional da presunção de inocência, uma vez que os Tribunais Superiores já pacificaram entendimento no sentido de que inexiste incompatibilidade entre tal princípio e os institutos de Direito Processual, como a prisão preventiva. De fato, a presunção de inocência apenas proíbe a antecipação dos efeitos da sentença condenatória, dentre os quais se destacam a execução da pena, a inscrição do nome do réu no rol dos culpados, a suspensão dos direitos políticos e o pagamento de custas processuais. (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, de crime de homicídio qualificado tentado, com envolvimento de cinco indivíduos, sendo dois deles ainda não identificados, mediante diversos disparos de arma de fogo, em via pública, e na presença de testemunhas, apenas não se consumando o delito por circunstâncias alheias às vontades dos réus.
+O decreto de prisão preventiva também destaca que o recorrente possui passagens pela prática dos crimes de tráfico de drogas, de tentativa de homicídio e de posse ilegal de arma de fogo, o que demonstra a necessidade da custódia cautelar.
+Tais circunstâncias evidenciam a gravidade concreta da conduta e a periculosidade do recorrente. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. CIRCUNSTÂNCIAS DO CRIME E REITERAÇÃO CRIMINOSA. FUNDAMENTAÇÃO SUFICIENTE. ORDEM DENEGADA.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. Consoante precedentes de ambas as Turmas que integram a Terceira Seção do STJ, tanto o modus operandi e as circunstâncias do delito quanto a reiteração delitiva podem justificar idoneamente a custódia preventiva, por revelarem especial periculosidade do agente.
+3. Ordem denegada.
+(HC 357.747/TO, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/10/2017, DJe 19/10/2017.)
+RECURSO EM HABEAS CORPUS. HOMICÍDIO. PRISÃO CAUTELAR. FUNDAMENTAÇÃO. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL INEXISTENTE. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA. PERDA DO OBJETO.
+1. A prisão cautelar, como cediço, é medida excepcional de privação de liberdade, que somente poderá ser adotada quando as circunstâncias do caso concreto, devidamente fundamentadas no art. 312 do Código de Processo Penal, demonstrarem a sua imprescindibilidade.
+(..).
+3. A prisão cautelar foi decretada e mantida com o intuito de cessar a reiteração delitiva, em razão de o recorrente responder a outros processos criminais. Fundamento apto a amparar a custódia cautelar.
+4. Recurso em habeas corpus parcialmente conhecido e, nessa parte, improvido.
+(RHC 88.746/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/10/2017, DJe 09/10/2017.)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO NÃO PROVIDO. 1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, demonstrando a necessidade da prisão para garantia da ordem pública.
+2. Na hipótese, o recorrente seria renitente na prática delitiva, porquanto responde a outra ação penal. Além disso as circunstâncias do caso retratam a gravidade concreta dos fatos delituosos, eis que o recorrente, em tese, motivado "por uma ordem emanada de dentro do sistema prisional", teria assassinado um sargento da policial militar, atingido por vários disparos de arma de fogo, sendo também consignado no decreto prisional que o acusado teria sido preso em flagrante portanto "considerável quantidade de drogas".
+3. Recurso a que se nega provimento.
+(RHC 86.043/AL, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/09/2017, DJe 04/10/2017.)
+Ademais, conforme salientou o douto representante ministerial em seu parecer exarado às e-STJ fls. 156/160, "no tocante ao pedido de extensão, ressalta-se que a similitude fático-jurídica entre o recorrente e os corréus não restou demonstrada, pois conforme se observa da manifestação do Ministério Público sobre a representação da autoridade policial pela prisão preventiva, às fls. 30 (e-STJ), o recorrente é suspeito "no homicídio contra o irmão da vítima em data pretérita"".
+Portanto, os fundamentos acima delineados indicam a necessidade de se manter o recorrente segregado, não se revelando adequado, por outro lado, possibilitar-lhe responder ao processo em liberdade.
+Ante o exposto, nego provimento ao recurso.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
