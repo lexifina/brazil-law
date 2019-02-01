@@ -1,0 +1,16 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão cautelar. Demora TJ/RO. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 486.709, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial fechado, pelos crimes previstos no art. 180, § 1º, do Código Penal e no art. 14 da Lei 10.826/03, vedado o direito de recorrer em liberdade.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Rondônia. Denegada a ordem, foi interposto recurso ordinário.
+    4. Na sequência, foi apresentado habeas corpus no Superior Tribunal de Justiça, alegando a demora do TJ/RO para remeter àquela Corte Superior o recurso ordinário interposto pela defesa. A Presidência do STJ indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta que, “além de o Tribunal de Justiça do Estado de Rondônia não ter intimado previamente a defesa técnica e de não ter enfrentado e decidido quaisquer dos fundamentos declinados na petição inicial do Habeas Corpus nº 0005641-53.2018.822.0000, aquela Corte, com a omissão prolongada por mais de 50 (cinquenta) dias, impediu que o Superior Tribunal de Justiça pudesse decidir o requerimento de antecipação dos efeitos da tutela recursal antes do início do recesso judiciário”. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão do paciente, assegurando-lhe o direito de permanecer em liberdade até que o STJ julgue o mérito do recurso ordinário em habeas corpus.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. Para além de observar que a petição inicial não foi instruída com cópia do ato apontado como coator e do acórdão do Tribunal Estadual, o fato é que as peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a imediata revogação da prisão do paciente.
+    8. Além disso, em consulta à página oficial do Superior Tribunal de Justiça na internet, observa-se que o RHC 107.285, interposto pela defesa do ora paciente, foi recebido naquela Corte Superior em 09.01.2019. No dia 11 subsequente, a medida cautelar foi indeferida. De modo que não há como deixar de reconhecer o prejuízo da alegação de demora do Tribunal Estadual para remeter os autos do referido ao recurso ordinário ao STJ.
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
