@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Primeira Câmara de Direito Público do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “DIREITO TRIBUTÁRIO ICMS AÇÃO DECLARATÓRIA TRANSFERÊNCIA DE MERCADORIA DE UM PARA OUTRO ESTABELECIMENTO DO MESMO CONTRIBUINTE Pretendida aplicação da Súmula 166, do Superior Tribunal de Justiça. Não Cabimento. Ausentes nos autos a devida certeza de que a escrituração fiscal apresentada é regular, de forma a comprovar o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte e afastar a incidência do fato gerador do tributo. Ademais, a produção de prova pericial contábil, dispensada pela autora, era indispensável para comprovar a regularidade da remessa e recebimento das mercadorias pelos seus estabelecimentos, bem como o montante de eventual tributo porventura pago indevidamente. Autora que não comprovou os fatos constitutivos de seu direito (art. 333, inc. I, do CPC). Sentença que julgou a ação improcedente mantida. NEGA-SE PROVIMENTO AO RECURSO”. (eDOC 4, p. 59).
+    Foram opostos embargos de declaração, os quais restaram rejeitados (eDOC 4, p. 77).
+    No recurso extraordinário (eDOC 4, p. 82), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, incisos XXXV e LV e artigo 155, inciso II, e § 2º, inciso I, do texto constitucional.
+    Nas razões recursais, alega ser indevida a cobrança do ICMS sobre a transferência de mercadorias entre estabelecimentos de propriedade da recorrente, nos termos da Súmula 166 do Superior Tribunal de Justiça.
+    Aduz, que a petição inicial foi instruída com toda a documentação que comprova inequivocamente o direito em análise, eis que teria juntado notas fiscais de remessa de mercadorias de seus estabelecimentos situados em São Paulo para os estabelecimentos situados em Minas Gerais, além de documentação contábil e fiscal, juntando ainda, guias de arrecadação Estadual.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que o recorrente não logrou êxito em comprovar o simples deslocamento da mercadoria de um estabelecimento seu para outro de sua propriedade, não se desincumbindo do ônus de demonstrar o fato constitutivo do seu direito.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Contudo, na hipótese dos autos, não logrou êxito a apelante em comprovar a efetiva regularidade das escriturações fiscais apresentadas, de forma a comprovar o simples deslocamento da mercadoria de um estabelecimento seu para outro de sua propriedade, como corolário a afastar a incidência do fato gerador do tributo, não sendo o caso, portanto, de aplicação da Súmula 166, do Superior Tribunal de Justiça.
+    (…)
+    Entende-se, dessa forma, que nos termos do artigo 333, inciso I, do Código de Processo Civil, o qual estabelece que o ônus da prova seja do autor quanto ao fato constitutivo do seu direito, que a apelante não trouxe aos autos elementos suficientes para comprovar o alegado, cujo ônus lhe competia.
+    (…)
+    Assim, inexistindo prova documental apta a corroborar suas alegações a improcedência da ação era mesmo de rigor”. (eDOC 4, p. 62-65).
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. Discussão quanto à incidência do imposto sobre o deslocamento de mercadorias a estabelecimentos pertencentes à mesma pessoa jurídica e alegado direito ao creditamento. Impossibilidade de reexame do conjunto fático-probatório. Incidência da Súmula n. 279 do Supremo Tribunal Federal. Agravo de instrumento ao qual se nega provimento”. (AI 756265 ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 17.4.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS. DESLOCAMENTO DE MERCADORIAS. ESTABELECIMENTOS DO MESMO TITULAR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. o Supremo Tribunal Federal fixou entendimento no sentido de que o simples deslocamento da mercadoria de um estabelecimento para outro da mesma empresa, sem a transferência de propriedade, não caracteriza a hipótese de incidência do ICMS. Precedentes. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento”. (RE 596983 AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 29.5.2009).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
