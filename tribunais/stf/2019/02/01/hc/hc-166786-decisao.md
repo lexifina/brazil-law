@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Tráfico de drogas e associação para o tráfico. Fatos e provas. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Antonio Saldanha Palheiro, assim ementado:
+    “HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGAÇÃO QUE DEMANDA REVOLVIMENTO DE FATOS E PROVAS. IMPROPRIEDADE DA VIA ELEITA. CUSTÓDIA CAUTELAR. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE ENTORPECENTE APREENDIDO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+    1. A alegação de que o paciente não praticou o delito, mas sim a corré, não pode ser examinada pelo Superior Tribunal de Justiça na presente via por pressupor revolvimento de fatos e provas, providência vedada no âmbito do writ e do recurso ordinário que lhe faz as vezes.
+    2. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, antes da confirmação da condenação pelo Tribunal de Justiça, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+    3. Na espécie, a segregação provisória encontra-se devidamente motivada, uma vez que invocou o Magistrado de piso a grande quantidade do entorpecente apreendido, a saber, 15,335kg (quinze quilos e trezentos e trinta e cinco gramas) de maconha. Portanto, a custódia preventiva está justificada na necessidade de garantia da ordem pública ante a gravidade concreta da conduta.
+    4. Ordem parcialmente conhecida e, nessa extensão, denegada.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante, em 06.08.2018, pela suposta prática dos crimes previstos no art. 33, caput, c/c o art. 40, III, e art. 35, da Lei 11.343/06 (15,335 kg de maconha). A prisão em flagrante foi convertida em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Goiás. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, também denegado.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, “que a conduta do paciente é atípica, uma vez que ela não se amolda as condutas abarcadas no artigo 33 da lei nº 11.343”; e que “verifica-se que não se encontram presentes os elementos que autorizam o enclausuramento do paciente”.
+    5. Com essa argumentação, a defesa requer “a imediata libertação do Paciente mediante aplicação de medidas cautelares”.
+    Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. De início, com relação à tese de que a conduta do paciente “é atípica, uma vez que era” o outro investigado “quem estava transportando os entorpecentes”, incide a orientação jurisprudencial do Supremo Tribunal Federal no sentido de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    8. Por outro lado, verifico que o juízo de origem fez expressa referência a dados objetivos da causa – “grande quantidade de droga apreendida em poder dos autuados” – para justificar a prisão cautelar do paciente para a garantia da ordem pública, não sendo o caso, portanto, de acolhimento da pretensão defensiva, notadamente se se considerar que o Supremo Tribunal Federal tem precedentes no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel.ª Min.ª Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+ Relator
