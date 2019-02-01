@@ -1,0 +1,21 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Luan Tater Garcia contra acórdão do Superior Tribunal de Justiça – STJ, proferido nos autos do HC 452.776/SP, de relatoria do Ministro Jorge Mussi, assim ementado:
+    “HABEAS CORPUS. TENTATIVA DE LATROCÍNIO. CONDENAÇÃO. RECURSO DE APELAÇÃO INTERPOSTO. ALEGADO EXCESSO DE PRAZO PARA JULGAMENTO DO APELO NOBRE. PRINCÍPIO DA RAZOABILIDADE. AUSÊNCIA DE OFENSA. APLICAÇÃO DE ELEVADA REPRIMENDA. ALEGADA INIDONEIDADE DA FUNDAMENTAÇÃO DO DECRETO PREVENTIVO. PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DENEGADO.
+    1. Os prazos para a finalização dos atos processuais não são peremptórios, podendo ser flexibilizados diante das peculiaridades do caso concreto, devendo o constrangimento ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Judiciário.
+    2. No caso, o recurso de apelação foi interposto em 16/5/2017 e, aportado no Tribunal bandeirante em 25/5/2017, restou distribuído ao Desembargador relator em 14/11/2017. Após, em 28/11/2017, foi aberta vista dos autos ao Ministério Público Estadual, para parecer, retornando conclusos para julgamento em 12/1/2018. Consta, ainda, que foi determinada a comunicação à Relatoria acerca da presente impetração.
+    3. Além do mais, evidenciado que o paciente foi condenado à pena de reclusão por tempo bem superior àquele até agora computado, durante o qual aguarda o exame de sua apelação, não há que se falar que eventual atraso no julgamento do apelo defensivo tenha extrapolado os limites da razoabilidade ou da proporcionalidade.
+    4. Não há como se conhecer o mandamus quanto à alegada inidoneidade da fundamentação do decreto preventivo, uma vez que se encontra desprovido de documentação indispensável para o deslinde da controvérsia, qual seja, o ato coator impugnado.
+    5. É firme a jurisprudência deste Tribunal Superior no sentido de que o rito do habeas corpus, bem como do recurso ordinário em habeas corpus, pressupõe prova pré-constituída do direito alegado, devendo o postulante demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, conforme interpretação filológica dos arts. 660, § 2º, e 662, ambos do Código de Processo Penal, sob pena de não conhecimento.
+    6. Ordem parcialmente conhecida e, na extensão, denegada, com recomendação ao Tribunal de origem para que imprima celeridade no julgamento do recurso nobre”.
+    Consta dos autos que o paciente foi condenado à pena de 9 anos de reclusão, pela prática do crime de tentativa de latrocínio, tipificado no art. 157, § 3°, segunda parte, combinado com art. 14, II, ambos do Código Penal.
+    Irresignada com a condenação, a defesa interpôs apelação no Tribunal de Justiça do Estado de São Paulo – TJSP em 16/5/2017, o qual, segundo o paciente, ainda não foi julgada.
+    No presente habeas corpus, o impetrante sustenta que há excesso de prazo no julgamento do recurso, de modo a violar o princípio da razoabilidade. E requer, por fim, a concessão da ordem para que o paciente aguarde a apreciação do apelo em liberdade.
+    Diante desse contexto, requisitei informações ao Tribunal de Justiça do Estado de São Paulo, no que diz respeito ao julgamento da apelação.
+    É o relatório. Decido
+    Bem examinados os autos, entendo ser o caso de denegação da ordem.
+    Isso porque, consta das informações prestadas pelo Desembargador Presidente da Seção de Direito Criminal Fernando Torres Garcia que houve a expedição de “relatório do voto” em 7/12/2018 e, na sequência, os autos da apelação foram encaminhados ao revisor, o que revela a iminência da análise do feito pelo órgão colegiado competente. (documento eletrônico 19).
+    Assim, não há qualquer flagrante ilegalidade a ser sanada pela via do habeas corpus.
+    Verifico, ainda, que quanto ao decreto de prisão preventiva, o STJ não conheceu do writ, o que inviabiliza a análise de seus fundamento por esta Suprema Corte, sob pena de indevida supressão de instâncias.
+    Isso posto, conheço em parte do writ e, na parte conhecida, denego a ordem (art. 21, § 1° e art. 192, do RISTF).
+    Brasília, 1° de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
