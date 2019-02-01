@@ -1,0 +1,18 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu o recurso especial interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação n. 0341179-35.2017.8.21.7000).
+O réu foi condenado a 2 anos e 4 meses de reclusão, em regime semiaberto, mais 10 dias-multa, por incursão no art. 184, § 2º, do Código Penal.
+Nas razões do recurso especial, apontou a violação do art. 386, V e VII, do CPP, ao argumento de que "a fundamentação do acórdão recorrido está consubstanciada tão somente no relato dos policiais, o que, por si só, é insuficiente para fundamentar uma condenação" (fl. 252).
+Além disso, indicou ofensa aos arts. 530-C e 530-D do CPP, sob a alegação de que o auto de apreensão não contém as assinaturas de duas testemunhas e os objetos apreendidos não foram descritos nem individualmente periciados.
+A insurgência foi inadmitida no juízo prévio de admissibilidade em virtude dos seguintes óbices: I) incidência da Súmula n. 7 do STJ em relação ao pleito de absolvição; II) inovação quanto à carência de assinatura de testemunhas e de descrição dos bens apreendidos; III) ausência de prequestionamento acerca da necessidade de perícia individualizada; IV) aplicação da Súmula n. 83 do STJ a respeito de perícia por amostragem no delito em comento (fls. 271-279).
+No agravo em recurso especial, o agravante afirma que não busca o reexame de provas e repisa os argumentos trazidos no bojo da impugnação especial (fls. 284-293).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e requereu a execução da pena (fls. 319-321).
+Decido.
+O agravo não comporta conhecimento, visto que o agravante deixou de rebater os fundamentos relacionados à inovação, ausência de prequestionamento e aplicação da Súmula n. 83 do STJ.
+Incide, assim, a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito recentes julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+Por fim, destaco que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/acórdão Luis Felipe Salomão, DJe 30/11/2018).
+Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o acusado não a cumpra atualmente.
+Publique-se e intimem-se.
