@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO FISCAL – IPVA, DPVAT – Autor que busca a declaração de inexigibilidade dos débitos tributários por não ser mais proprietário do veículo – Sentença de procedência pronunciada em primeiro grau – Decisório que merece parcial reforma – Documentação comprovando a transferência de propriedade do veículo – Impossibilidade de interpretação extensiva do art. 134 do CTB, que estabelece a solidariedade entre o antigo e o novo proprietário de automóvel somente pelas penalidades – Precedentes do STJ – Solidariedade do autor em relação às infrações de trânsito reconhecida – Sucumbência recíproca configurada – Recurso parcialmente provido.” (eDOC 1, p. 109)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e b, da Constituição Federal, aponta-se violação ao art. 97 do texto constitucional e à Súmula Vinculante 10.
+    Nas razões recursais, alega-se violação à cláusula de reserva de plenário, pois a Turma julgadora teria afastado a aplicação dos arts. 121, 124, 128 do CTN; arts. 120 e 134 da Lei 9.503/1997; e 4º, II, da Lei 6.606/89, sem que houvesse anterior posicionamento do Pleno do Tribunal sobre sua inconstitucionalidade. (eDOC 2, p. 6/8)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do código de processo civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem não afastou a aplicação de norma com apoio em fundamentos extraídos do texto constitucional, mas, ao interpretar sistematicamente a legislação aplicável à espécie (Lei 9.503/1997), consignou que o propósito da norma de seu art. 134 seria o de evitar fraudes à aplicação das penalidades de trânsito, e não se aplicaria aos débitos de IPVA. Nesse sentido, extrai-se os seguinte trecho do acórdão impugnado:
+    “É certo que o art. 134 do CTB estabelece a necessidade de comunicação de transferência de propriedade ao órgão de trânsito, sob pena de responsabilidade solidária.
+    (...)
+    Porém, não menos certo é que a solidariedade estabelecida nesse dispositivo legal se refere às penalidades, ou seja, às infrações de trânsito, não podendo se aplicar ao débito de IPVA, de modo que uma interpretação extensiva o faria incidir em hipótese não prevista” (eDOC 1, p. 111/112)
+    Assim, verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que não identifica ofensa à cláusula de reserva de plenário na interpretação de lei, por órgão fracionário, que exclua de seu âmbito de aplicação o caso sob julgamento.
+    Confiram-se, a propósito, precedentes de ambas as Turmas deste Tribunal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Carteira Nacional de Habilitação. Infração administrativa. Expedição da CNH. Possibilidade. 3. Ausência de violação à cláusula de reserva de plenário. Súmula Vinculante 10 e artigo 97 da Constituição Federal. Decisão recorrida que decidiu o caso com base na interpretação da legislação infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 772314-AgR, minha relatoria, Segunda Turma, DJe 11.04.2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (ARE 767313-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 26.03.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
