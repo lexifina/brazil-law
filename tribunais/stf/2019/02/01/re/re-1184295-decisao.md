@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão de cuja ementa destaca-se:
+    “[...]
+    6. CTVA. INTEGRAÇÃO NO SALÁRIO DE CONTRIBUIÇÃO. SALDAMENTO. ANTIGO PLANO REG/PLAN. NÃO PROVIMENTO.
+    A jurisprudência iterativa desta Corte Superior é no sentido de que a parcela denominada Complemento Temporário Variável de Ajuste de Mercado - CTVA - possui natureza jurídica salarial, porquanto instituída para complementar o valor nominal do cargo em comissão, razão pela qual deve integrar a base de cálculo da contribuição previdenciária recolhida à FUNCEF e repercutir na complementação de aposentadoria” (págs. 2-3 do documento eletrônico 55).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação dos arts. 5°, XXXVI; e 202, § 2° e § 3°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais – o que é vedado pelas Súmulas 279/STF e 454/STF – bem como das normas infraconstitucionais aplicáveis à espécie, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal:
+    “Ementa: DIREITO PREVIDENCIÁRIO. INCLUSÃO DA PARCELA CTVA NO SALÁRIO DE CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO PLANO REG/REPLAN. ADESÃO A NOVO PLANO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2014.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido” (ARE 913.015-AgR/DF, Rel. Min. Rosa Weber, Primeira Turma).
+    “Ementa: RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL – SÚMULA 454/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – ABUSO DO DIREITO DE RECORRER – IMPOSIÇÃO DE MULTA (1% SOBRE O VALOR CORRIGIDO DA CAUSA), SE UNÂNIME A VOTAÇÃO (CPC, ART. 1.021, § 4º) – AGRAVO INTERNO IMPROVIDO” (ARE 1.078.403-AgR/BA, Rel. Min. Celso de Mello, Segunda Turma).
+    No mesmo sentido, indico as seguintes decisões, entre outras: RE 1.174.564/RS, Rel. Min. Rosa Weber; RE 1.174.166/RS, de minha relatoria; RE 1.173.430/RS, Rel. Min. Luiz Fux; ARE 1.174.113/ES, Rel. Min. Marco Aurélio; RE 1.174.115/ES, Rel. Min. Gilmar Mendes; ARE 1.005.042/SC, Rel. Min. Celso de Mello; e RE 1.174.133/RS, Rel. Min. Alexandre de Moraes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
