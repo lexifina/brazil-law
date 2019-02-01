@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 327, e-STJ):
+DIREITO CIVIL. AÇÃO DE RESOLUÇÃO DE CONTRATO. APELAÇÃO 01. TERMO INICIAL DA INDENIZAÇÃO PELA FRUIÇÃO DO IMÓVEL - DATA DO INADIMPLEMENTO - PRECEDENTES DO STJ. APELAÇÃO 02. PRESCRIÇÃO DO FUNDO DE DIREITO - INOCORRÊNCIA - PRAZO DECENAL QUE SÓ SE INICIA A PARTIR DO VENCIMENTO DA ÚLTIMA PARCELA - OBRIGAÇÃO DE TRATO SUCESSIVO. INDENIZAÇÃO PELA OCUPAÇÃO - DESNECESSIDADE DE PREVISÃO CONTRATUAL. DIREITO DE RETENÇÃO - AUSÊNCIA DE PROVA MÍNIMA. RECURSO DE APELAÇÃO 01 CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DE APELAÇÃO 02 CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração pelo recorrido, esses foram acolhidos com efeitos modificativos, em acórdão que produziu a seguinte ementa (fl. 365, e-STJ):
+EMBARGOS DE DECLARAÇÃO. EXISTÊNCIA DE IMÓVEL BENFEITORIAS - EXISTÊNCIA COMPROVADA - DIREITO À INDENIZAÇÃO E RETENÇÃO. RECURSO CONHECIDO E ACOLHIDO, COM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+Contra esse julgado a ora recorrente opôs embargos de declaração, sendo eles rejeitados pelo acórdão de fls. 395-398, e-STJ.
+Nas razões de recurso especial, alegou, além de divergência jurisprudencial, ocorrer violação dos artigos 34, da Lei nº 6.766/1979; 1.219 e 1.220, do Código Civil; e 1.022, incisos I e II, do Código de Processo Civil/2015.
+Argumentou que o acórdão recorrido é omisso e contraditório ao não delimitar a indenização por benfeitorias, a qual deverá ocorrer apenas em relação àquelas "regulares ou passíveis de regularização nos termos das diretrizes urbanísticas municipais, o que deve ser objeto de verificação em sede de liquidação de sentença" (fls. 407-408, e-STJ).
+Afirmou, também, que o Recorrido em momento algum "fez prova da existência de acessões e benfeitorias sobre o lote de terreno". Invocou, neste ponto, o artigo 21, parágrafo único, do Código de Processo Civil, destacando não ter discordado do direito à indenização, desde que as benfeitorias sejam regulares ou, ao menos, passíveis de regularização.
+Requereu, ao final, a redistribuição dos ônus sucumbenciais, uma vez que, segundo alega, decaiu em parte mínima do pedido.
+Sem contrarrazões (fl. 506, e-STJ).
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 507-509, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com efeito, verifico que procede a alegação de violação ao art. 1.022, do CPC/15, quanto à omissão do Tribunal de origem acerca das matérias suscitadas nos embargos de declaração de fls. 373-385, e-STJ.
+O Tribunal de origem, instado a se pronunciar sobre os temas ali ventilados, os quais são essenciais ao deslinde da controvérsia, não os enfrentou de forma fundamentada, limitando-se a afirmar genericamente que "os embargos opostos apenas insistem nas teses já refutadas pelo acórdão impugnado, buscando exclusivamente contradizer os fundamentos que sustentaram a decisão, sem apresentar qualquer vício que enseje o acolhimento destes aclaratórios" (fl. 398, e-STJ).
+Como se vê, o acórdão recorrido não teceu uma linha sequer acerca do alcance da indenização das benfeitorias que autorizou, notadamente se ela seria paga sobre todas as benfeitorias, ou somente sobre as regularizadas ou passíveis de regularização. Também nada falou sobre em qual fase deveria ocorrer essa avaliação.
+Considerando que não cabe a esta Corte reexaminar fatos e provas, tampouco se pronunciar sobre matérias não prequestionadas, verifico que a questão deve ser analisada pela Corte de origem.
+ Em face do exposto, conheço do agravo para dar provimento ao recurso especial para anular o acórdão dos embargos de declaração, e determinar que outro seja proferido, sanando-se a omissão nos termos acima.
+Intimem-se.
