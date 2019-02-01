@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por MELISSA CUKIER FRIDMAN contra decisão às fls. 206/207 que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, o recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil/2015, em razão da afetação do tema 990 ao rito dos recursos repetitivos pela eg. Segunda Seção deste Tribunal Superior, prejudicando o recurso especial interposto pelos embargantes.
+Em suas razões, a parte embargante afirma, em síntese, que há contradição na referida decisão, uma vez que, diferentemente do abordado no Tema 990, no caso em voga, "como se nota das contrarrazões e do próprio acórdão guerreado, os medicamentos que aqui se discutem já estão aprovados e registrados pela ANVISA desde 2015, o que afasta a análise como paradigma" (e-STJ, fl. 212).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Nas razões do recurso especial interposto pela ora embargada, dentre outras questões, há discussão acerca da obrigação ou não de as operadoras de plano de saúde fornecerem medicamento importado, não registrado na Anvisa.
+Assim, ao contrário do alegado pelo embargante, a hipótese dos presentes autos enquadra-se naquela objeto de afetação, Tema 990, ao rito dos recursos repetitivos nos autos do REsp 1.712.163/SP e no REsp 1.726.563/SP.
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
