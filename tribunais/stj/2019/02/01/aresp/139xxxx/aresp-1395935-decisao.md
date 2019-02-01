@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 70, caput, primeira parte, do Código Penal.
+Aduz que: a) "a existência de dolo direto em relação aos dois bens jurídico foi simplesmente deduzido da conduta objetiva, sem qualquer exame das circunstâncias concretas do fato. Pode-se até presumir que os disparos efetuados tenham buscado a produção da morte de uma das vítimas. Mas, além de não ter sido demonstra a consciência - pressuposto do dolo -, não há como presumir que haveria vontade dirigida finalisticamente à morte de outras pessoas que se encontravam no local" (e-STJ, fl. 818); b) "a jurisprudência é pacífica no sentido de que situações semelhantes não representam concurso formal impróprio de crimes" (e-STJ, fl. 818); c) "ao reconhecer sem fundamentação concreta idônea a existência de desígnios autônomos, o acórdão recorrido violou o disposto no art. 70, caput, primeira parte, do Código Penal, eis que a situação representa concurso formal próprio" (e-STJ, fl. 820).
+Requer seja afastado o concurso formal impróprio, "reconhecendo em seu lugar o concurso formal próprio" (e-STJ, fl. 820).
+Apresentadas as contrarrazões (e-STJ, fls. 824-827).
+O recurso foi inadmitido com fundamento na Súmula 7 do STJ (e-STJ, fls. 829-831). Daí este agravo (e-STJ, fls. 834-839).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 859-866).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+A Corte de origem aplicou a regra do concurso formal impróprio, com a seguinte fundamentação:
+"Desse modo, observa-se que os crimes de Homicídio teriam ocorrido em um único contexto fático, pois o Apelante, mediante uma só ação (embora fracionada em diversos atos - diversos disparos), teria cometido os homicídios consumados concomitantemente sendo frutos de desígnios autônomos, não havendo entre os delitos sucessão temporal.
+Trata-se de conduta única, mediante a realização de, ao menos, dois atos - dois disparos que ceifaram a vida das vítimas P.F.S. e F.G.A.
+Assim, deve ser afastada a regra do Concurso Material e reconhecido o Concurso Formal Impróprio previsto no art. 70 segunda parte do Código Penal, o qual dispõe que as penas devem ser aplicadas cumulativamente quando a ação ou omissão é dolosa e os crimes resultam de desígnios autônomos.
+A propósito, a doutrina de Cezar Roberto Bitencourt:
+"Mas o concurso formal também pode ser impróprio (imperfeito). Nesse tipo de concurso, o agente deseja a realização de mais de um crime, tem consciência e vontade em relação a casa um deles. Ocorre aqui o que o Código Penal chama de "desígnios autônomos", que se caracteriza pela unidade de ação e multiplicidade de determinação de vontade, com diversas individualizações. Os vários eventos, nesse caso, não são apenas um, perante a consciência e a vontade, embora sejam objeto de uma única ação." (BITENCOURT, Cezar Roberto, Tratado de Direito Penal: parte geral, 1. 17a Ed.
+Saraiva, 2012, p 772) - Negritei.
+In casu, após analisar o conjunto probatório (oral), verifica-se que os desígnios autônomos do Apelante, para cada delito de Homicídio contra vítimas distintas, encontram-se configurados.
+Ao entrar no estabelecimento comercial em que as vítimas estavam e, em tese, efetuar inúmeros disparos de arma de fogo, em direção aos ofendidos, o Apelante possuía, em tese, a intenção de ceifar a vida das duas vítimas, individualmente.
+Segundo a lição de Rogério Greco: "Desígnio autônomo quer dizer, portanto, que a conduta, embora única, é dirigida finalisticamente, vale frisar, dolosamente, à produção dos resultados". (Curso de Direito Penal - Parte Geral - Volume I - 16a Edição. Ed. Impetus: 2014 - p. 605).
+Sobre o tema, colaciono o seguinte julgado deste Eg. TJMG:
+APELAÇÃO CRIMINAL - HOMICÍDIO DUPLAMENTE QUALIFICADO - DECISÃO DO CONSELHO DE SENTENÇA NÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS E AMPLAMENTE AMPARADA PELO CONJUNTO PROBATÓRIO -DECOTE DA QUALIFICADORA - IMPOSSIBILIDADE -DECISÃO DO JÚRI AMPARADA NA PROVA DOS AUTOS - RECONHECIMENTO DA CONTINUIDADE DELITIVA - IMPOSSIBILIDADE - RECONHECIMENTO DA ATENUNATE DA MENORIDADE - NECESSIDADE - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I- A cassação da decisão do júri só se legitima quando for esta manifestamente contrária ao conjunto das provas, não sendo admissível quando os jurados optem por uma das versões suscitadas pelas partes e que encontre substrato em elementos probatórios, sob pena de ofensa ao princípio constitucional da soberania dos veredictos populares.
+II- Se o conselho de sentença reconheceu a incidência da qualificadora do recurso que dificultou a defesa da vítima
+em consonância com o conjunto probatório produzido nos autos, impossivel o seu decote III- Os agentes que, previamente combinados, surpreendem duas pessoas e contra elas efetuam diversos disparos de arma de fogo, tencionando, indiscriminadamente, matá-las, e efetivamente matam- nas, devem responder pela prática de dois homicídios consumados, em concurso formal impróprio, não havendo que se falar em crime continuado, dada a simultaneidade dos delitos, nem em concurso material, posto que havida uma só ação, ainda que fracionada em vários atos.
+IV - Se o acusado possuía idade inferior a vinte e um anos na data dos fatos, deve ser reconhecida em seu favor a atenuante da menoridade (TJMG - Apelação Criminal 1.0079.05.211325-9/003, Rel. Adilson Lamounier, 5º CÂMARA CRIMINAL, julgado em 19/11/2013, DJe 25/11/2013) - Negritei.
+Registra-se que o resultado prático da regra do Concurso Material e do Concurso Formal Imperfeito é o mesmo, sendo que, em ambos os casos, as penas são somadas.
+Assim, reconhecendo o Concurso Formal Imperfeito, em detrimento do Concurso Material, nos termos do art. 70, segunda parte, do CP, as penas devem ser somadas concretizando-se, definitivamente em 12 (doze) anos de reclusão." (e-STJ, fls. 790-792).
+Quanto ao pleito de aplicação à hipótese do concurso formal próprio entre os delitos de homicídios, a Corte de origem reconheceu, com base nos elementos de convicção amealhados nos autos, que os crimes teriam ocorrido em um único contexto fático, uma vez que o agravante, mediante uma só ação efetuou diversos disparos, cometendo os homicídios concomitantemente, os quais resultaram de desígnios autônomos, e com isso, determinou a aplicação da regra do concurso formal impróprio. Portanto, para afastar tal conclusão seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado na via especial, nos termos da Súmula 7/STJ.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DUPLO HOMICÍDIO QUALIFICADO. CONCURSO FORMAL. NÃO APLICAÇÃO. DESÍGNIOS AUTÔNOMOS. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ.
+1. Analisando as provas dos autos, o Tribunal de origem entendeu não ser caso de aplicação do concurso formal, mantendo a aplicação do concurso material, pois o réu efetuou vários disparos de arma de fogo, assumindo o risco de matar outras pessoas, emergindo os desígnios autônomos. Assim, para acolher a tese do agravante de que não possuía desígnios autônomos, seria necessário o reexame do conjunto fático-probatório, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido."
+(AgRg no REsp 1737164/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/08/2018, DJe 23/08/2018).
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. CRIME CONTINUADO. RECONHECIMENTO DE CONCURSO FORMAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. In casu, o reconhecimento do concurso formal de crimes demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem apresentou fundamentação concreta para entender comprovada a ocorrência dos delitos em continuidade delitiva.
+2. Agravo regimental desprovido."
+(AgRg no REsp 1671228/GO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/09/2017, DJe 22/09/2017).
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRETENSÃO DE UNIFICAÇÃO DE PENAS E RECONHECIMENTO DE CONTINUIDADE DELITIVA. PATRIMÔNIOS VIOLADOS DISTINTOS. CONCURSO FORMAL. SÚMULA 7/STJ.
+1. O entendimento da instância ordinária foi de ter o recorrente, mediante uma só ação, atingido patrimônios diversos. Aplicam-se as Súmulas 7 e 83/STJ.
+2. Agravo regimental improvido."
+(AgRg no AREsp 320.076/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/08/2014, DJe 19/08/2014).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
