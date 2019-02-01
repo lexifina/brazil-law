@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. REGIME SEMIABERTO HARMONIZADO COM MONITORAMENTO ELETRÔNICO. REGRESSÃO CAUTELAR DE REGIME DO CUMPRIMENTO DE PENA. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+2. Tratando-se de regressão cautelar, não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida (precedentes.).
+3. É possível, após o cumprimento do mandado de prisão e com a retomada do cumprimento da pena, seja designada audiência de justificação, ocasião na qual o apenado poderá justificar-se, exercendo, assim, o pleno exercício do seu direito de defesa.
+4. Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por LINEU LOPES VIEIRA contra a decisão de fls. 52-54 (e-STJ), que não conheceu do writ.
+O agravante sustenta, em síntese, que "houve ilegalidade na decisão que revogou, sem a audiência da defesa, o regime semiaberto do paciente, com monitoramento eletrônico, pelo cometimento de suposta falta disciplinar de natureza grave, consistente no não carregamento da sua tornozeleira eletrônica" (e-STJ, fl. 62).
+Requer, portanto, a reconsideração da decisão agravada ou a submissão do agravo ao crivo deste órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. EXECUÇÃO PENAL. REGIME SEMIABERTO HARMONIZADO COM MONITORAMENTO ELETRÔNICO. REGRESSÃO CAUTELAR DE REGIME DO CUMPRIMENTO DE PENA. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+2. Tratando-se de regressão cautelar, não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida (precedentes.).
+3. É possível, após o cumprimento do mandado de prisão e com a retomada do cumprimento da pena, seja designada audiência de justificação, ocasião na qual o apenado poderá justificar-se, exercendo, assim, o pleno exercício do seu direito de defesa.
+4. Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Não assiste razão ao agravante.
+A decisão agravada foi proferida nos seguintes termos, verbis (e-STJ, fls. 52-54):
+"O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+Sobre o tema em debate, o Superior Tribunal de Justiça firmou o entendimento de que a prática de falta disciplinar de natureza grave implica a regressão de regime conforme estabelecido no art. 118, I, da LEP.
+No caso dos autos, ao contrário do defendido pela defesa, a Corte de origem afirmou que o magistrado singular apenas suspendeu cautelarmente o regime semiaberto, não havendo, portanto, decisão definitiva sobre a matéria, precisamente em razão da instauração de procedimento administrativo disciplinar para apurar eventual falta grave do paciente. Confira-se trecho do acórdão:
+"Ao ponderar sobre a matéria, o Magistrado singular tão somente determinou a suspensão cautelar do cumprimento da reprimenda em regime semiaberto, ou seja, em caráter temporário, encontrando-se pendente a apuração da conduta em procedimento administrativo disciplinar.  ..
+Assim, considerando que a r. decisão não decretou de forma definitiva a regressão, justamente com a finalidade de assegurar à Defesa a garantia do contraditório e da ampla defesa, não há que se falar em violação do suscitado dispositivo legal."
+Desse modo, a teor da jurisprudência consolidada do STJ, se as instâncias ordinárias concluíram pela suspensão do regime semiaberto e, estando a matéria pendente de decisão definitiva, tal assertiva não pode ser desconstituída na via estreita do writ, uma vez que demandaria o revolvimento do conjunto fático-probatório dos autos.
+Ademais, a imprescindibilidade da realização da audiência de justificação ocorre quando se verifica a regressão definitiva do regime de cumprimento da pena, situação inexistente no caso dos autos. Confiram-se, por oportunos, estes precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO CAUTELAR AO REGIME PRISIONAL FECHADO. POSSIBILIDADE. RECURSO DESPROVIDO. 1. A jurisprudência desta Corte é firme no sentido de ser possível a regressão cautelar, inclusive ao regime prisional mais gravoso, diante da prática de infração disciplinar no curso do resgate da reprimenda, sendo desnecessária até mesmo a realização de audiência de justificação para oitiva do apenado, exigência que se torna imprescindível somente para a regressão definitiva. Precedentes. Recurso ordinário em habeas corpus desprovido." (RHC 81.352/MA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/04/2017, DJe 28/04/2017.)
+
+"EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. RECORRENTE BENEFICIADO COM A PROGRESSÃO AO REGIME SEMIABERTO QUE CUMPRIA PENA EM REGIME FECHADO, AGUARDANDO REMOÇÃO. ABANDONO DA PENA DURANTE SAÍDA TEMPORÁRIA. REGRESSÃO CAUTELAR AO REGIME MAIS RIGOROSO. POSSIBILIDADE. ALTERAÇÃO DO QUADRO FÁTICO DOS AUTOS QUE PREJUDICA O PEDIDO DE REMOÇÃO IMEDIATA. JUSTIFICATIVAS APRESENTADAS PELA DEFESA QUE IMPRESCINDEM DE DILAÇÃO PROBATÓRIA. RECURSO ORDINÁRIO DESPROVIDO.
+I -  ..  III - De todo modo, a prévia oitiva do apenado é indispensável na hipótese de medida definitiva de regressão de regime, tomada ao final do procedimento próprio, e para a homologação do reconhecimento da falta grave, oportunidades nas quais, com a devida possibilidade de dilação probatória, poderá o recorrente sustentar as teses ora veiculadas, relativas às ameaças de morte que sofria e ao fato de haver procurado se apresentar em outro estabelecimento penal. Recurso ordinário desprovido." (RHC 67.608/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/06/2016, DJe 24/06/2016.)
+Portanto, não verifico a ocorrência de flagrante ilegalidade ou teratologia na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Ante o exposto, não conheço do habeas corpus."
+Com efeito, tratando-se de regressão cautelar, não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida.
+Sobre o tema, cito, ainda, os seguintes precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO CAUTELAR DE REGIME. OITIVA PRÉVIA DO CONDENADO. PRESCINDIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. No caso dos autos, o recorrente foi condenado a 3 anos de reclusão, em regime inicial aberto, pela prática do crime de receptação qualificada, sendo substituída a pena privativa de liberdade por restritiva de direitos. Contudo, enquanto cumpria a pena no regime aberto, foi preso preventivamente em decorrência do cometimento de outra infração penal dolosa, ocasião em que o magistrado singular o regrediu cautelarmente para o regime intermediário.
+2. Esta Corte Superior de Justiça tem reiteradamente decidido ser prescindível a oitiva prévia do condenado, por ocasião da regressão cautelar de regime, decorrente de infração disciplinar de natureza grave.
+3. Recurso em habeas corpus improvido." (RHC 45.990/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 01/07/2014).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. COMPETÊNCIA DAS CORTES SUPERIORES. MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DO ENTENDIMENTO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA, EM CONSONÂNCIA COM A SUPREMA CORTE. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS. REGRESSÃO CAUTELAR PARA O REGIME SEMIABERTO. OITIVA PRÉVIA DO APENADO. PRESCINDIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE QUE, EVENTUALMENTE, PUDESSE ENSEJAR A CONCESSÃO DA ORDEM DE OFÍCIO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Excelso Supremo Tribunal Federal, em recentes pronunciamentos, aponta para uma retomada do curso regular do processo penal, ao inadmitir o habeas corpus substitutivo do recurso ordinário. Precedentes: HC 109.956/PR, 1.ª Turma, Rel. Min. MARCO AURÉLIO, DJe de 11/09/2012; HC 104.045/RJ, 1.ª Turma, Rel. Min. ROSA WEBER, DJe de 06/09/2012. Decisões monocráticas dos ministros LUIZ FUX e DIAS TÓFFOLI, respectivamente, nos autos do HC 114.550/AC (DJe de 27/08/2012) e HC 114.924/RJ (DJe de 27/08/2012).
+2. Sem embargo, mostra-se precisa a ponderação lançada pelo Ministro Marco Aurélio, no sentido de que, "no tocante a habeas já formalizado sob a óptica da substituição do recurso constitucional, não ocorrerá prejuízo para o paciente, ante a possibilidade de vir-se a conceder, se for o caso, a ordem de ofício."
+3. É possível a regressão cautelar do regime prisional sem a oitiva prévia do Apenado, exigível somente na regressão definitiva ao regime mais rígido. Precedentes.
+4. Ausência de ilegalidade flagrante que, eventualmente, ensejasse a concessão da ordem de ofício.
+5. Ordem de habeas corpus não conhecida."
+(HC 253.702/PE, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 16/11/2012).
+Desse modo, deve subsistir o entendimento firmado nas instâncias ordinárias, por ausência de constrangimento ilegal apto a justificar a concessão da ordem.
+Por fim, registro que é possível, após o cumprimento do mandado de prisão e com a retomada do cumprimento da pena, seja designada audiência de justificação, ocasião na qual o apenado poderá justificar-se, exercendo, assim, o pleno exercício do seu direito de defesa.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
