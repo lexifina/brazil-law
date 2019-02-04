@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. NÃO CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do recurso especial.
+Infere-se dos autos que a Oitava Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao recurso interposto pela ora agravante, conforme ementa abaixo colacionada (e-STJ, fls. 864-865):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. INTERNET. GRUPO VIRTUAL PRIVADO. WHATSAPP. OFENSAS. DIREITO À LIBERDADE DE EXPRESSÃO E DIREITO À HONRA OBJETIVA. PONDERAÇÃO. PESSOA PÚBLICA. CRÍTICAS CORRELATAS AOS ATOS DE GESTÃO. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA MANTIDA.
+1. A liberdade de expressão e de manifestação do pensamento é direito fundamental e Constitucionalmente protegido, cuja finalidade, dentre outras coisas, é servir à livre formação da opinião pública, sem possibilidade de punição por crenças ou por convicções. A sua natureza humanitária situa-se na necessidade de discutir diferentes pontos de vista para conhecer a realidade e suas possíveis interpretações, condição necessária à formação plena da personalidade.
+2. Um dos limites ao exercício do direito de expressão é a proteção aos direitos da personalidade, com destaque à Honra e à Imagem. Em caso de confronto, o Magistrado deverá analisar, caso a caso, se houve uma manifestação desproporcional das opiniões pessoais, atingindo de forma lesiva a esfera jurídica da vítima.
+3. Em se tratando de pessoa pública, a análise em questão ganha contornos peculiares, pois é necessário avaliar a linha tênue que separa as opiniões tecidas com o ânimo de criticar sua postura profissional daquelas que atacam diretamente sua vida pessoal.
+4. As críticas, embora proferidas com palavras duras, mas feitas em grupo particular e com o ânimo de criticar a postura profissional da autora enquanto gestora (síndica), não geram dano moral indenizável.
+5. Recurso conhecido e desprovido. Sentença mantida.
+Nas razões do apelo especial, a recorrente apontou ofensa aos arts. 186, 187 e 927 do CC, sob a assertiva de que as expressões utilizadas pelos recorridos extrapolam os limites da liberdade de expressão, caracterizando ato ilícito, passível de indenização moral.
+O processamento do recurso especial não foi admitido pela Corte estadual, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da questão jurídica objeto da controvérsia, observa-se que o Tribunal de origem entendeu que as palavras ofensivas teriam sido proferidas em um grupo privado, dentro de uma relação de confiança de seus integrantes e com a intenção de criticar a postura profissional, e não a vida pessoal da ora recorrente, razão pela qual não seria cabível a indenização por danos morais.
+A propósito, extrai-se o seguinte excerto do acórdão estadual (e-STJ, fls. 870-871):
+A Síndica, ora recorrente, é a responsável pelos atos de administração do grupo social envolvido. E é próprio da natureza das atividades desenvolvidas atrair críticas e comentários dos condôminos.
+É necessário, portanto, avaliar a linha tênue que separa as opiniões tecidas com o ânimo de criticar sua postura profissional daqueles que atacam diretamente sua vida pessoal.
+De início, importa destacar que as conversas apresentadas pela autora da Ação de Indenização por Danos Morais ocorreram em um grupo privado no aplicativo whatsapp. Essa consideração mostra-se relevante, pois demonstra que seus participantes não tinham a intenção de tornar públicas as suas críticas ou de convencer outros moradores a pactuar com as suas opiniões.
+Trata-se de situação diversa da publicação de informações jocosas em redes sociais. No caso concreto, as conversas apresentadas não nasceram natureza pública capaz de ferir de forma irreversível a imagem da recorrente perante a comunidade. A divulgação posterior dos diálogos, ironicamente, foi feita pela recorrente, de sua própria vontade.
+Demais, o referido grupo foi formado por pessoas interessas em criar uma nova chapa para candidatar-se à administração do prédio. Tinha como finalidade, portanto, discutir propostas de gestão e assuntos correlatos. As opiniões tecidas contra a recorrente foram todas feitas dentro desse contexto, motivadas pela forma de condução dos atos de gerenciamento do imóvel.
+Inegável que os termos utilizados em algumas ocasiões foram duros. No entanto, ao que parece, a relação entre os moradores do condomínio, de forma geral, alcançou patamares críticos. A exemplo do relato feito à folha 407, segundo o qual, em um evento social, a recorrente dirigiu-se à mesa de alguns moradores do condomínio, manifestando palavras em tom agressivo.
+De todo o exposto, entendo que as palavras ofensivas proferidas pelos requeridos foram externadas em um grupo privado, dentro de uma relação de confiança entre seus integrantes e com o ânimo de criticar a postura profissional da requerente enquanto gestora.
+Em tais circunstâncias, tolher as expressões contrárias aos atos de liderança, impondo a condenação ao pagamento de danos morais, mostra-se como censura a liberdade de expressão e manifestação do pensamento dos condômino.
+Para derruir a convicção formada, seria necessário o revolvimento fático-probatório, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Publique-se.
