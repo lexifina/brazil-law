@@ -1,0 +1,21 @@
+DECISÃO
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUINTE DA CARTEIRA DE PREVIDÊNCIA DAS SERVENTIAS NÃO OFICIALIZADAS. ELEVAÇÃO DA COMARCA À ENTRÂNCIA ESPECIAL OU FINAL ACÓRDÃO AMPARADO NA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO DO PARTICULAR DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fulcro no art. 105, III a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+CONTRIBUIÇÃO PREVIDENCIÁRIA. Contribuinte da Carteira de Previdência das Serventias não oficializadas. Elevação da Comarca à entrância especial ou final. Reenquadramento automático da contribuição face à elevação de entrância da serventia em que trabalhou. Inadmissibilidade. A Lei Complementar 980/05 apenas alterou o sistema de classificação de entrâncias. Necessidade de Decreto para reclassificação do salário de contribuição Recurso provido (fls. 298).
+2. Em seu Apelo Especial inadmitido, alega a parte recorrente violação dos arts. 535 e 476, ambos do CPC/1973, dos arts. 2o. e 10, ambos da Lei Complementar Estadual 980/2005, e dos artigos 20, 25 e 45, § 3o., 62 e 69, todos da Lei Estadual 10.393/1970. Sustenta que houve deficiência na prestação jurisdicional, não sanada por meio do julgamento dos Aclaratórios, e defende, tal como defendeu na origem, que se enquadra na entrância final e, portanto, deve ser reenquadrado no IPESP e, posteriormente, no SPPREV, para o fim de contribuírem com a remuneração base semelhante aos servidores da Comarca da Capital e das demais Comarcas consideradas pela legislação pertinente como de entrância final, obrigando o IPESP a realizar o devido enquadramento, com sua respectivas consequências.
+3. Com contrarrazões (fls. 456/465), o recurso foi inadmitido na origem (fls. 482/483).
+4. É o breve relatório.
+5. A irresignação não merece prosperar.
+6. Inicialmente, não se vislumbra qualquer vício na prestação jurisdicional. A lide foi resolvida integralmente e com a devida fundamentação.
+7. No mais, constata-se que a controvérsia foi decidida pela Corte local com amparo na interpretação de legislação local (Lei Estadual 10.393/1970 e Lei Complementar Estadual 980/2005). Assim, inviável a impugnação feita em Recurso Especial, nos termos da Súmula 280/STF. Nesse sentido:
+PROCESSUAL CIVIL. OMISSÃO NO JULGADO INEXISTENTE. AÇÃO RESCISÓRIA. LITERAL VIOLAÇÃO DE ARTIGO DE LEI. ART. 485, V, DO CPC. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. SÚMULA 280/STF.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Na espécie, o Tribunal estadual assentou que a decisão rescindenda "não contrariou expressamente qualquer determinação legal, apenas considerou que a Lei Complementar nº 980/05 não elevou a Comarca de Sorocaba a uma entrância superior, mas que houve, com a referida lei, a extinção das antigas quatro entrâncias com a implantação de nova classificação, agora com três entrâncias (inicial, intermediária e final) razão pela qual, ausente o pressuposto de elevação de entrância da classe de serventia, não há violação de direito dos impetrantes".
+3. Na verdade, no presente caso, a questão não foi decidida conforme objetivava o recorrente, uma vez que foi aplicado entendimento diverso ao pretendido, de modo que a irresignação traduz-se em inconformação com a tese adotada.
+4. A revisão dos requisitos da petição inicial da ação rescisória demandaria reexame do acervo fático dos autos, inviável na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+5. Ademais, segundo se observam das razões de recorrer e dos fundamentos de decidir, a revisão do acórdão demandaria interpretação de lei local (Lei estadual 10393/70 e Lei Complementar estadual 980/05), o que é vedado nesta instância especial. Incidência da Súmula 280 do STF.
+Agravo regimental improvido (AgRg no AREsp. 752.204/SP, Rel. Min. HUMBERTO MARTINS, DJe 24.9.2015).
+8. Ante o exposto, nega-se provimento ao Agravo do Particular.
+9. Publique-se.
+10. Intimações necessárias.
