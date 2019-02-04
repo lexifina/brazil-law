@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): não cabimento do REsp quando a tese recursal é eminentemente constitucional (6º da Lei de Introdução às Normas do Direito Brasileiro.=), Súmula 282/STF (artigos 4º, inciso VI, e 9º da Lei nº 4.595/64 e 20 da Lei nº 8.024/90), ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF (artigo 535, inciso II, do Estatuto Processual), Súmula 83/STJ e consonância do acórdão recorrido com jurisprudência do STJ (artigos 27 do Código de Defesa do Consumidor c/c artigo 269, inciso IV, do CPC de 1973.).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: consonância do acórdão recorrido com jurisprudência do STJ (artigos 27 do Código de Defesa do Consumidor c/c artigo 269, inciso IV, do CPC de 1973.).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno o agravante que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º e 1.026, §2º do CPC/15.
+Publique-se. Intimem-se.
