@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO ESTADO DO PARÁ S.A. com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITORIA. SENTENÇA CONFIRMADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. RECURSO DESPROVIDO.
+Na hipótese, não há falar em ofensa ao art. , do (intimação pessoal). Conforme restou comprovado, a extinção do feito ocorreu em face da inércia da parte que não diligenciou no prazo que lhe foi concedido, visando recolher as custas processuais intermediárias para cumprimento de novos atos, Mandado Judicial de penhora e avaliação, apesar de haver sido regularmente intimada.
+Seus argumentos são totalmente divergentes da realidade fática. Portanto, não pode suscitar ausência da sua intimação pessoal, quando a decisão combatida está fundada no descumprimento da diligencia e ausência de recolhimento de custas, ônus processual da parte interessada, necessário ao impulso e prosseguimento do feito. Assim procedendo foi prejudicado pela sua própria atitude. À unanimidade, nos termos do voto do desembargador relator, RECURSO DESPROVIDO" (fl. 214 e-STJ).
+A recorrente alega, além de divergência jurisprudencial, a violação do art. 485, § 1º, do CPC/2015. Defende "ser indispensável para que a sentença extintiva seja considerada válida, além do requerimento do réu (Súmula nº 240 do Colendo Superior Tribunal de Justiça), que se tenha efetivada a intimação pessoal da parte" (fl. 240 e-STJ).
+Sem contrarrazões.
+É o relatório. DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Sobre a imprescindibilidade de requerimento do réu como condição para a extinção da causa por abandono do autor, a jurisprudência desta Corte há muito se encontra consolidada no sentido de que é defeso ao juiz extinguir o processo de ofício, sendo imprescindível o requerimento do réu, pois, de um lado, não é dado presumir desinteresse dos réus já citados no prosseguimento e solução da causa e, de outro, ao autor não poderia ser imposta tão pesada sanção sem o requerimento prévio da parte ré, pois sua inércia, nesse caso, não estaria suficientemente evidenciada.
+Prescreve a Súmula nº 240/STJ: "A extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu".
+Além disso, assiste razão ao recorrente quanto à necessidade de intimação via edital na hipótese de frustração da intimação pessoal porque desconhecido o endereço correto do autor.
+Nesse sentido:
+"PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA. PARQUE NACIONAL DE ILHA GRANDE. INDENIZAÇÃO POR PERDA DE POSSE. ABANDONO. EXTINÇÃO. NECESSIDADE DE PRÉVIA E EFETIVA INTIMAÇÃO.
+1. A extinção do feito por abandono (art. 267, § 1º, do CPC) não prescinde da efetiva intimação do interessado, ainda que por edital, caso a pessoal seja inviabilizada por falta de endereço correto.
+2. Agravo Regimental não provido".
+(AgRg no REsp 1.260.267/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/09/2012, DJe 24/09/2012 - grifou-se)
+"RECURSO ESPECIAL. PROCESSO CIVIL. EXTINÇÃO POR ABANDONO. ARTIGO 267, INCISO III, DO CPC. AUSÊNCIA DE INTIMAÇÃO PESSOAL.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de ser imprescindível à extinção do feito, a intimação pessoal do autor, procedendo-se à intimação por edital, quando desconhecido o endereço. A extinção do processo por abandono do autor pressupõe o ânimo inequívoco, ante a inércia manifestada quando intimado pessoalmente, permanece ele silente quanto ao intento de prosseguir no feito, o que não se deu no caso dos autos.
+2. O Tribunal Regional entendeu que, tendo o juízo singular oportunizado a emenda à inicial, deferindo prazo de 30 dias para que a CEF informasse o endereço atualizado do requerido, não teria havido manifestação da recorrente, razão porque correta estaria a extinção do feito sem julgamento de mérito, não obstante a ausência de intimação pessoal.
+3. Recurso especial provido".
+(REsp 1.148.785/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/11/2010, DJe 02/12/2010 - grifou-se)
+"RECURSO ESPECIAL - ALÍNEAS "A" E "C" - PROCESSO CIVIL - EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO - ABANDONO DA CAUSA - INTIMAÇÃO PESSOAL DO AUTOR INFRUTÍFERA - NECESSIDADE DE INTIMAÇÃO POR EDITAL - SÚMULA 240 DO STJ.
+É cediço que, nas hipóteses de extinção do processo sem julgamento de mérito por abandono da causa (art. 267, inciso III, do CPC), a intimação pessoal do autor é indispensável, na forma do § 1º do mesmo artigo. Se o oficial de justiça deixou de cumprir o mandado de intimação da empresa autora para complementação das custas porque não localizado o representante legal da pessoa jurídica, o ilustre magistrado condutor do feito deveria ter procedido à intimação por edital, ao invés de ter intimado o procurador constituído nos autos. A intimação pessoal do patrono da parte, a par de ser dispensável, não é apta a suprir a intimação pessoal do autor.
+Não se pode presumir o desinteresse do réu no prosseguimento da demanda, razão pela qual é defeso ao juiz, com base no artigo 267, inciso III, do CPC, extinguir de ofício o processo sem a prévia manifestação do réu. Esse entendimento cristalizou-se no enunciado da Súmula 240 do STJ: "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu".
+Diante desses fundamentos, de reconhecer que se trata, na espécie, de notória divergência jurisprudencial a autorizar o provimento do recurso também pelo fundamento da letra "c".
+Considerando-se, no entanto, que o patrono da parte já efetuou o depósito da diferença das custas após a prolação da sentença que extinguiu o processo, não faz sentido, à luz dos princípios da economia e celeridade processuais, seja determinada a realização da intimação da autora por edital para a mesma providência. Dessa forma, devem os autos retornar ao juízo de origem para que, superada a questão das custas, tenha regular prosseguimento a demanda.
+Recurso especial provido".
+(REsp 316.656/RS, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA, julgado em 03/06/2004, DJ 06/09/2004 - grifou-se)
+Nesse contexto, é inequívoco que o Tribunal de origem dissentiu da jurisprudência consolidada desta Corte ao manter íntegra sentença que, além de indevidamente extinguir de ofício o processo, o fez sem antes promover a indispensável citação por edital.
+Por tal motivo merece ser provido o recurso a fim de determinar o prosseguimento do feito na origem.
+Ante o exposto, dou provimento ao recurso especial para afastar a extinção do processo sem resolução de mérito por abandono da causa e determinar o prosseguimento do feito.
+Publique-se. Intimem-se.
