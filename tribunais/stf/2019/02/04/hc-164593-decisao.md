@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de agravo regimental interposto em habeas corpus impetrado contra decisão da Primeira Turma desta Suprema Corte que, após rejeitar embargos de declaração opostos pela defesa, determinou a expedição de mandado de prisão em desfavor do ora paciente.
+    O recurso foi afetado ao Tribunal Pleno a fim de extrair posição do colegiado maior acerca da admissibilidade ou inadmissibilidade de realização de sustentação oral em sede de agravo regimental em habeas corpus.
+    Consta dos autos pedidos de ingresso como amici curiae formulados pelo Conselho Federal da Ordem dos Advogados do Brasil (e.doc. 31) e pela Associação dos Advogados de São Paulo – AASP (e.doc. 35).
+    É o relato. Decido.
+    2. De início, consigno que, conforme bem leciona o eminente decano desta Suprema Corte, “na ação de habeas corpus, os sujeitos da relação processual penal, além do órgão judiciário competente para julgá-la, são, apenas, (1) o impetrante, (2) o paciente, (3) a autoridade apontada como coatora e (4) o Ministério Público” (HC 114649, Relator(a): Min. CELSO DE MELLO, julgado em 16/11/2012, grifei).
+    Em linha semelhante, em diversos julgamentos, pondera o eminente Min. Marco Aurélio que o “habeas corpus revela parte única o paciente, personificado pelo impetrante” (HC 165492, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 13/08/2019, por exemplo).
+    Nesse sentido, na linha da jurisprudência da Corte, compreendo como incabível, em regra, a participação de outros sujeitos processuais na ambiência do habeas corpus.
+    Nada obstante, há nos autos particularidade a ser ponderada. É que se trata de habeas corpus submetido à apreciação do Tribunal Pleno para a solução de uma questão jurídica objetiva. Almeja-se, portanto, a construção de uma tese jurídica a respeito da possibilidade de realização de sustentação oral em sede de agravo regimental.
+    Esse contexto, que confere contornos de certa abstrativização da resolução da controvérsia, propicia a participação de terceiros que possam contribuir para a construção democrática e dialógica da decisão a ser tomada pelo Plenário, a revelar a consecução da dimensão constitucional do contraditório.
+    Sob o enfoque do contraditório, ainda que examinado instrumento diverso, qual seja, o Incidente de Resolução de Demandas Repetitivas, Sofia Temer esclarece que “é uma exigência legal que a decisão do IRDR seja amplamente debatida, que lhe seja dada publicidade e que seja facultado o envolvimento da sociedade na fixação da tese” (Incidente de resolução de demandas repetitivas. 3. ed. Salvador: JusPodivm, 2018, p. 132-133), a denotar que referida garantia constitucional realmente se associa à participação da sociedade sob a óptica da influência e do convencimento do Estado-Juiz.
+    Nesse sentido, revela-se viável a admissão de amicus curiae. Não para gerar interferência no desate da questão de fundo (constrangimento ilegal alegado pelo impetrante), mas para colher elementos de informação referentes à temática que se ajustam à afetação da matéria ao crivo do colegiado maior.
+    Cumpre enfatizar que, no caso concreto, há evidente relação de pertinência entre o tema a ser solucionado e a dedicação das entidades que postulam admissão. Isso porque, como se sabe, a matéria a ser examinada pelo Pleno diz respeito precisamente às prerrogativas do exercício da advocacia, de modo que a participação dos requerentes, em tese, pode melhor aparelhar a decisão futura.
+    3. Diante do exposto, admito como amici curiae o Conselho Federal da Ordem dos Advogados do Brasil (e.doc. 31) e a Associação dos Advogados de São Paulo – AASP (e.doc. 35).
+    À Secretaria a fim de que sejam feitas as anotações e diligências necessárias.
+    Publique-se. Intimem-se.
+    Brasília, 4 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
