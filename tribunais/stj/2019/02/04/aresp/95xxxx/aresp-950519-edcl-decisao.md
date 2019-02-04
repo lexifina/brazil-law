@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que indeferiu a Petição n. 213744, na qual se alegou ausência de provas para embasar a condenação de EUDES DE ARRUDA BARROS FILHO, incurso nos arts. 180, caput, e §§1º e 2º e 333, todos do Código Penal.
+Aduz, em síntese, que o prazo recursal para a Defensoria Pública inicia-se com a oposição do "ciente" pelo Defensor e que, na dúvida, deve a questão ser resolvida a favor do recorrente.
+Reiterando a argumentação anteriormente expendida, sustenta a inexistência de provas robustas da participação do recorrente nos crimes que lhe foram imputados e que a dosimetria da pena está exacerbada.
+Prossegue tecendo considerações sobre a interpretação das normas, citando o posicionamento de diversos autores acerca do art. 180, §1º, do Código Penal, além de julgados de diferentes tribunais.
+Pugna, ao final, pela extinção da punição atribuída ao recorrente.
+É o relatório.
+Decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+No caso, a decisão recorrida é clara ao afirmar que "na linha dos precedentes desta eg. Corte, "não se pode exigir que a intimação de Defensor Público tenha de ser feita por meio de mandado na pessoa do mesmo oficiante na causa. Mostra-se razoável proceder à inequívoca ciência da Instituição da Defensoria Pública, por intermédio de oficio ou mesmo de mandado, devidamente recebido, restando a ela o dever de organizar, com a presteza e a precisão devidas, a atuação de seus membros. A ocorrência de eventuais substituições no patrocínio do réu não implica nulidade, incidindo sobre a espécie o princípio da indivisibilidade (HC 24.683/RS, Quinta Turma, Rel. Ministra Laurita Vaz, DJe de 7/3/05; e HC-304.957/SC, Relator Ministro Felix Fischer, Quinta Turma, DJe de 6/5/2015)."" (e-STJ fls. 1316/1317).
+Há, ainda, nos autos, certidão no sentido de que "a Defensoria Pública do Estado da Paraíba foi intimada eletronicamente da decisão de fls. 1268/1269, conforme termo de ciência de fl. 1274, nos termos do art. 5o, § 3o da lei 11.419/2006, e também conforme a adesão da referida Defensoria Pública ao Portal de Intimação Eletrônico através do ofício n. 135/2016-GDPG/DPPB" (e-STJ fl. 1299).
+E, no que concerne à inexistência de provas a embasar o édito condenatório, destaquei que, "mesmo após a anulação do trânsito e julgado, a Defensoria Pública do Estado da Paraíba, apesar de devidamente intimada, não interpôs recurso algum da decisão proferida no presente agravo em recurso especial (e-STJ fl. 1280), não pode, nesta oportunidade, após decorrido o prazo recursal, peticionar alegando ausência de provas para a condenação" (e-STJ fl. 1318).
+O embargante, na realidade, pretende rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Finalmente, ao indeferir a Petição n. 213744/2018, determinei a certificação do trânsito em julgado e a baixa dos autos à origem para as devidas providências.
+Por tal razão, esgotada está a jurisdição do Superior Tribunal de Justiça, sendo inviável o conhecimento da presente insurgência.
+Ante o exposto, com fundamento no art. 34, XVIII, "a" do RISTJ, não conheço dos embargos de declaração.
+Publique-se.
+Certifique-se o trânsito em julgado e remetam-se os autos imediatamente ao Tribunal de Justiça da Paraíba, conforme determinado às e-STJ fls. 1316/1318.
