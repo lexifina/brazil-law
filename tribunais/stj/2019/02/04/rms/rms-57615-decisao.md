@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por SÔNIA MOREIRA LOPES DE MEDEIROS, com base no art. 105, II, b, da Constituição da República, contra acórdão prolatado pela 3ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa transcrevo (fl. 441e):
+MANDADO DE SEGURANÇA - SERVIDOR DO MUNICÍPIO DE CARATINGA - NECESSIDADE DE READAPTAÇÃO FUNCIONAL - AUSÊNCIA DE COMPROVAÇÃO - DIREITO LÍQUIDO E CERTO INEXISTENTE - ORDEM DENEGADA. - Não restando demonstrada a alegada ofensa a direito líquido e certo, diante da inexistência de prova cabal nos autos que evidencie a necessidade de manutenção da impetrante em readaptação funcional, deve ser denegada a segurança.
+No presente recurso, a Recorrente alega ter sido diagnosticada com "transtorno bipolar com episódio hipomaníaco", desde o ano de 2001, sendo que a partir deste momento iniciou o ajustamento funcional (fl. 469), passando a exercer a função de secretária da escola, uma vez que não poderia mais permanecer como docente.
+Destaca, ainda, a alteração ocorrida no Estatuto dos Servidores Públicos (art. 25 da Lei Municipal n. 3.430/13), o qual não mais contempla a readaptação funcional do servidor acometido de doença que o impeça de exercer o cargo efetivo, sustentando que que a lei posterior não tem o condão de alterar a situação da servidora que já estava readaptada por doença adquirida antes da alteração legislativa, sob pena de violação ao disposto no art. 6º da Lei de Introdução às Normas do Direito Brasileiro.
+Afirma que configura-se como abusivo e ilegal o ato da administração Pública pelo qual determinou-se o retorno da Recorrente à sala de aula que ocorreu sob a justificativa de não mais existir no Estatuto do Servidor Público da Municipalidade o direito ao ajustamento funcional.
+Sem contrarrazões (fl. 573e), subiram os autos a esta Corte, admitido o recurso na origem (fl. 576e).
+Indeferida a liminar às fls. 585/587e.
+O Ministério Público Federal manifestou-se às fls. 591/595e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O presente recurso é manifestamente inadmissível, porquanto foi interposto contra acórdão que, em julgamento de apelação cível, manteve a sentença proferida em mandado de segurança.
+A Constituição da República restringe o uso do Recurso Ordinário à impugnação de acórdão que decide mandado de segurança em única instância, sendo que, no caso em exame, o provimento judicial atacado foi proferido em grau recursal.
+Com efeito, é firme o posicionamento desta Corte segundo o qual constitui erro grosseiro a interposição de Recurso Ordinário, quando cabível o recurso especial, o que afasta a aplicação do princípio da fungibilidade.
+Destaco, nesse sentido, os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. HIPÓTESE DE RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. ERRO GROSSEIRO.
+1. O artigo 105, II, "b", da Constituição Federal atribui ao STJ a competência para apreciar Recurso Ordinário interposto contra as decisões que denegam a segurança.
+2. No caso dos autos, a ordem foi concedida, razão pela qual a irresignação da parte recorrente deveria ser manifestada por meio do Recurso Especial. Saliente-se, por oportuno, que é inaplicável o princípio da fungibilidade recursal no presente caso, por se tratar de erro grosseiro. Precedentes do STJ.
+3. Recurso Ordinário não provido.
+(RMS 51.498/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2016, DJe 13/09/2016, destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA EM DETRIMENTO DO RECURSO ESPECIAL. ACÓRDÃO CONCESSIVO DA SEGURANÇA. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ESTRITA OBSERVÂNCIA AO ART. 105, II, "B", DA CONSTITUIÇÃO FEDERAL. CONCURSO DE PROVAS E TÍTULOS PARA DELEGAÇÃO DE SERVIÇOS CARTORÁRIOS.
+1. O art. 105, II, "b", da Constituição Federal preconiza que "Compete ao Superior Tribunal de Justiça julgar, em recurso ordinário: os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão". Logo, é inadmissível recurso ordinário interposto contra acórdão que concedeu a segurança almejada. Precedentes: AgRg no RMS 25.169/SP, Relator Ministro Humberto Martins, Segunda Turma, DJ de 26 de novembro de 2007 e AgRg no Ag 891.132/SP, Relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJ de 10 de setembro de 2007.
+2. Deveras, o recurso cabível para o STJ seria o especial, e não o ordinário em mandado de segurança; por isso a interposição equivocada pelo impetrante configura erro grosseiro, pois injustificada a dúvida quanto à irresignação cabível e insuscetível de aplicação do princípio da fungibilidade recursal, já que a Constituição Federal delimita o uso do recurso ordinário contra decisão que denega a segurança em sede de writ decido em última instância por Tribunal de Justiça ou Regional Federal.
+3. Recurso ordinário não conhecido.
+(RMS 27.961/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 25/08/2009, DJe 03/09/2009, destaque meu).
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO CONTRA AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO. ERRO GROSSEIRO.
+1. A interposição de recurso ordinário contra acórdão de agravo regimental configura erro grosseiro, afastando qualquer pretensão de aplicação ao caso do princípio da fungibilidade recursal.
+2. Recurso ordinário não conhecido.
+(RO no AgRg no AREsp 214.593/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 13/05/2014, DJe 20/05/2014).
+RECURSO ORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO. RECURSO MANIFESTAMENTE INCABÍVEL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. PRECEDENTES.
+1. O recurso ordinário só é admissível contra acórdão proferido em única instância pelos Tribunais Superiores, em julgamento de habeas corpus, mandado de segurança, habeas data ou mandado de injunção, nos termos do art. 102, inciso II, alínea "a", da Constituição da República (AgRg no RO no AREsp 590.473/GO, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/12/2014, DJe 5/2/2015).
+2. Esta Corte Superior somente admite o princípio da fungibilidade recursal: quando houver dúvida objetiva sobre qual o recurso a ser interposto; quando o dispositivo legal for ambíguo; quando houver divergência doutrinária ou jurisprudencial quanto à classificação do ato processual recorrido e a forma de atacá-lo, o que não é o caso dos presentes autos. Precedentes: Pet 5.128 AgR, Relator Min. CELSO DE MELLO, Segunda Turma, julgado em 4/2/2014, ACÓRDÃO ELETRÔNICO DJe-074, divulgado em 14/4/2014, publicado em 15/4/2014; RHC 120.363 AgR, Relator Min. GILMAR MENDES, Segunda Turma, julgado em 25/2/2014, ACÓRDÃO ELETRÔNICO DJe-054, divulgado em 18/3/2014, publicado em 19/3/2014.
+3. Aplicação de multa. Certifique-se o trânsito em julgado.
+Baixem-se os autos.
+Agravo interno não conhecido.
+(AgInt no RO nos EDcl no AgRg no RE nos EDcl no AgRg no AREsp 617.933/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 05/10/2016, DJe 14/10/2016, destaques meus).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
