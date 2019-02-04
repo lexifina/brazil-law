@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão proferida por Desembargador do Tribunal de Justiça do Estado do Pará, nos autos do HC n. 0809510-13.2018.8.14.0000.
+Consta dos autos que o paciente foi preso em flagrante pela prática do crime de extorsão (e-STJ fls. 32/44). Na audiência de custódia, foi-lhe decretada a prisão preventiva (e-STJ fls. 107/108).
+Irresignado com a decisão que decretou a prisão preventiva do paciente, a defesa impetrou habeas corpus, com pedido liminar, perante a Corte local, com o fim de revogar o decreto prisional. A liminar requerida, contudo, foi indeferida pelo Desembargador Relator (e-STJ fls. 22/23).
+Na presente impetração, a defesa pleiteia, preliminarmente, o afastamento/mitigação do enunciado sumular 691/STF.
+No mérito, sustenta a falta de justa causa para decretação da prisão preventiva, uma vez que "a suposta vítima - Sra. LEILA SUELY TADAIESKY DE LIMA OLIVEIRA - não compareceu perante a autoridade, seja quando do suposto flagrante, seja na fase de investigação quando da IPL" (e-STJ fl. 12), o que fragiliza o decreto de prisão preventiva.
+Requer, ao final, seja revogado o decreto preventivo.
+É o relatório. Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal, in verbis: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, aplicável, mutatis mutandis, a este Superior Tribunal de Justiça, v.g: HC n. 117.440/PE, Quinta Turma, Rel. Min. JORGE MUSSI, DJe de 21/6/2010; HC n. 142.822/SP, Quinta Turma, Rel. Min. ARNALDO ESTEVES LIMA, DJe de 7/12/2009; HC n. 134.390/MG, Sexta Turma, Rel. Min. OG FERNANDES, DJ de 31/8/2009).
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular, o que não se verifica na espécie.
+Da leitura do ato coator, não se verifica manifesta ilegalidade que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte.
+Entendo, assim, que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar, no momento adequado, a argumentação da impetração e as provas juntadas ao mandamus originário.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Publique-se.
