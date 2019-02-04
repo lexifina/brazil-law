@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Na presente oportunidade, a defesa argumenta que a audiência de custódia não cumpriu a sua função, não tendo sido devidamente observado o caso concreto, assim como a desnecessidade de aplicação da medida cautelar de monitoração eletrônica. (e-STJ fl. 6). Nesse contexto, enfatiza que a referida medida cautelar representa significativa restrição de liberdade e não deve ser banalizada, não encontrando ensejo no presente caso, sobretudo quando o paciente revela ser primário, portador de bons antecedentes e não ostenta qualquer indício de que esteja envolvido com a prática delitiva.
+Diante disso, requer, em liminar e no mérito, a revogação da decisão que determinou o monitoramento eletrônico e o recolhimento domiciliar em tempo integral do paciente. Subsidiariamente, pugna seja determinada a flexibilização do recolhimento domiciliar e a possibilidade de circulação do paciente ao longo do dia, a saber, dentre as 06h00 da manhã e as 22h00 da noite. (e-STJ fl. 10).
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que não foram colacionadas peças processuais indispensáveis à compreensão da tese levantada na inicial, quais sejam, cópia da decisão que decretou a medida cautelar de monitoração eletrônica e cópia da decisão ou acórdão proferido pelo Tribunal impetrado.
+Como é cediço, "constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal" (AgRg no HC n. 278.141/SP, Rel. Ministra ASSUSETE MAGALHÃES, julgado em 22/10/2013, DJe 25/11/2013).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se. Intime-se.
