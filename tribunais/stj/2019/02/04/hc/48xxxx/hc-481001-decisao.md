@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de [NOME], contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão de fls. 499-502, não ementado.
+Daí o presente mandamus, no qual o impetrante alega a existência de constrangimento ilegal consubstanciado na ausência dos requisitos ensejadores da prisão preventiva, reforçando que as condições pessoais do paciente seriam favoráveis.
+Aduz que, ainda que condenado, "terá direito ao cumprimento em regime aberto" em razão do art. 33, §4º, da lei 11.343/2006(fl. 7).
+Requer, assim, a revogação da prisão preventiva do paciente.
+A liminar foi indeferida às fls. 509-510.
+As informações foram prestadas às fls. 516-530 .
+O d. Ministério Público Federal, às fls. 532-536, manifestou pela denegação da ordem, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. NÃO CONHECIMENTO DO WRIT. DENEGAÇÃO DA ORDEM.
+1. A apresentação do habeas corpus como substitutivo de recurso próprio, embora descabida, é indiretamente autorizada pelas Cortes Superiores, quando se impõe a verificação, na quase totalidade dos casos, sobre a possibilidade de concessão da ordem de ofício.
+2. O decreto preventivo encontra-se devidamente fundamentado, porquanto motivado pelos indícios de autoria e materialidade do delito, bem como pela necessidade de garantia da ordem pública.
+3. As substâncias entorpecentes apreendidas na residência do paciente (porções de maconha e pés de planta que constituem matéria-prima para a preparação da mesma droga), somadas às circunstâncias do flagrante, em que houve apreensão de diversos materiais comumente usados no preparo e embalo de entorpecentes (balança de precisão, facas com resquícios de maconha, além de munições) são fatores que denotam dedicação do acusado à trafícância.
+4. Condições pessoais favoráveis não são garantidoras de direito subjetivo à liberdade, se outros elementos recomendarem a prisão.
+5. Diante dos argumentos trazidos na inicial não se vislumbra a superveniência de qualquer novo evento apto a ensejar a modificação do quadro fático que serviu de suporte à constrição da liberdade do paciente. Logo, inviável a revogação da preventiva sem a notícia de motivo que a impeça de subsistir, nos termos do art. 316 do Código de Processo Penal, máxime quando a decisão que a decretou não carrega nenhuma mácula.
+6. Parecer pela denegação da ordem" (fl. 532).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+Na hipótese, extrai-se da decisão aqui impugnada a seguinte fundamentação:
+" ..
+No caso concreto, não se considera a gravidade genérica do crime, mas especificamente o fato de o acusado ter na sua residência porções de maconha embaladas e não embaladas, seis pés de maconha, balança de precisão e munições, o que corrobora, para esta fase de cognição sumária, a conclusão de que está envolvido com o tráfico" (fls. 67-70). "
+A análise do trecho transcrito, portanto, permite reconhecer a ocorrência de flagrante ilegalidade, uma vez que os fundamentos que dão suporte à prisão cautelar do paciente encontram-se fundados na gravidade genérica dos fatos denunciados, dissociada de qualquer elemento concreto e individualizado que indicasse a indispensabilidade da prisão cautelar à luz do art. 312 do CPP, não se ajustando à orientação jurisprudencial que os Tribunais superiores firmaram acerca da matéria, diante do fato da prisão preventiva. Acrescente-se, ainda, o fato de ter sido encontrado pequena quantidade de entorpecente.
+Sobre o tema, ainda, os seguintes julgados desta eg. Corte Superior de Justiça:
+" ..  TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. CUSTÓDIA ANTECIPADA BASEADA NA GRAVIDADE DOS FATOS CRIMINOSOS E NA NECESSIDADE DE SE COIBIR A PRÁTICA DE TAIS INFRAÇÕES. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA DA ORDEM CONSTRITIVA À LUZ DO ART. 312 DO CPP. PACIENTE PRIMÁRIA E SEM ANTECEDENTES CRIMINAIS. COAÇÃO ILEGAL DEMONSTRADA. LIMINAR DEFERIDA. CONFIRMAÇÃO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Para que a prisão cautelar, que é medida de exceção, subsista, não basta que se indiquem abstratamente as hipóteses do art. 312 do CPP, devendo-se apontar os fatores concretos que levaram à sua decretação.
+2. Há constrangimento ilegal quando a preventiva encontra-se fundada na gravidade genérica dos fatos denunciados, dissociada de qualquer elemento concreto e individualizado que indicasse a indispensabilidade da prisão cautelar à luz do art. 312 do CPP.
+3. Condições pessoais favoráveis, mesmo não sendo garantidoras de eventual direito à soltura, merecem ser devidamente valoradas.
+4. Habeas corpus não conhecido, concedendo-se, contudo, a ordem de ofício para, confirmando a liminar anteriormente deferida, revogar a custódia preventiva da paciente, se por outro motivo não estiver presa, mediante o compromisso de comparecimento a todos os atos processuais" (HC n. 271.581/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 27/5/2014, grifei).
+"PROCESSUAL PENAL E PENAL. TEMA NÃO ENFRENTADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. LIBERDADE PROVISÓRIA. TRÁFICO DE DROGAS. VEDAÇÃO APRIORÍSTICA E GENÉRICA. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA. NULIDADE.
+1. Matéria que não foi enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.
+2. A gravidade abstrata do delito de tráfico de drogas não serve de fundamento para a negativa da liberdade provisória, tendo em vista a declaração de inconstitucionalidade da vedação apriorística e genérica prevista no art. 44 da Lei n. 11.343/2006.
+3. É nula a decisão que decreta a prisão preventiva com base apenas na gravidade abstrata do delito de tráfico de drogas, sem fundamentação concreta.
+4. Recurso ordinário em habeas corpus conhecido em parte e, nessa extensão, dado provimento para que o paciente responda ao processo em liberdade, mediante estabelecimento, pelo juízo de primeiro grau, das medidas cautelares diversas da prisão que entender cabíveis, salvo se por outro motivo estiver preso" (RHC n. 39.351/PE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014, grifei).
+Na mesma linha, os seguintes precedentes: AgRg no  HC n. 278.766/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 26/8/2014; RHC n. 39.351/PE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014; RHC n. 47.457/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 1º/9/2014; HC n. 275.352/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 2/9/2014.
+Por esses motivos, não conheço do presente habeas corpus.
+Contudo, concedo a ordem de ofício para revogar a prisão preventiva do paciente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de outras medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+P. e I.
