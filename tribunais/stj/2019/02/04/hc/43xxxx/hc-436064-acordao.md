@@ -1,0 +1,72 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E COM NUMERAÇÃO ADULTERADA. NEGATIVA DO RECURSO EM LIBERDADE. AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CPP. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O PROCESSAMENTO E O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM. RECOMENDAÇÃO, AO TRIBUNAL A QUO, DE PRIORIDADE NO JULGAMENTO DO APELO DEFENSIVO.
+1. A tese atinente à ausência dos requisitos necessários à decretação da prisão preventiva não foi apreciada no acórdão prolatado pelo Tribunal a quo, razão pela qual a análise do tema diretamente por esta Corte Superior acarretaria indevida supressão de instância.
+2. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no julgamento do recurso de apelação deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+3. Fica afastada, ao menos por ora, a alegação de excesso de prazo para o julgamento da apelação, pois, a despeito de o paciente estar preso cautelarmente desde 12/9/2016 e haver sido condenado em 18/5/2017, o recurso segue seu trâmite regular, mormente diante da defesa - que optou pelo procedimento previsto no art. 600, § 4º, do CPP - haver demorado mais de dois meses para apresentar suas razões após ser intimada para tanto, e, ainda, da necessidade de retorno dos autos à origem para possibilitar ao Ministério Público estadual o oferecimento das contrarrazões.
+4. Pela consulta na página eletrônica do Tribunal de origem, é possível verificar que já foi expedido ofício a fim de solicitar o retorno do processo à instância superior, circunstância que evidencia sua diligência para o julgamento do feito em prazo razoável.
+5. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem. Recomendada ao Tribunal a quo prioridade no julgamento do apelo defensivo.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conhecer parcialmente do pedido e, nesta parte, denegar a ordem, com recomendação, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] COSTA JÚNIOR alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte no Habeas Corpus n. 2017.019396-7.
+Consta dos autos que o paciente foi condenado às penas privativas de liberdade de 8 anos, 2 meses e 8 dias de reclusão e 1 ano, 7 meses e 6 dias de detenção, pela prática dos delitos de tráfico ilícito de entorpecentes, posse ilegal de arma de fogo com numeração adulterada e posse ilegal de arma de fogo de uso permitido.
+No édito condenatório, foi negado ao réu o direito de recorrer em liberdade.
+No presente mandamus, sustenta o impetrante que não estariam presentes os requisitos do art. 312 do CPP, necessários à manutenção da custódia cautelar do paciente na sentença condenatória.
+Aduz que haveria excesso de prazo para o julgamento do recurso de apelação, que "não foi sequer distribuído  no  Egrégio Tribunal de Justiça para o julgamento" (fl. 10).
+Destaca que o acusado está encarcerado desde 12/9/2016, "restando evidente o descumprimento de todos os prazos previstos em nossa legislação processual penal" (fl. 10).
+Requer a concessão da ordem, in limine, a fim de que seja revogada a prisão preventiva a que se encontra submetido o paciente, com a expedição de alvará de soltura em seu favor.
+Indeferida a liminar (fls. 95-97) e apresentadas as informações (fls. 102-103 e 105-110), o Ministério Público Federal opinou pela não concessão da ordem (fls. 112-116).
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E COM NUMERAÇÃO ADULTERADA. NEGATIVA DO RECURSO EM LIBERDADE. AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CPP. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O PROCESSAMENTO E O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM. RECOMENDAÇÃO, AO TRIBUNAL A QUO, DE PRIORIDADE NO JULGAMENTO DO APELO DEFENSIVO.
+1. A tese atinente à ausência dos requisitos necessários à decretação da prisão preventiva não foi apreciada no acórdão prolatado pelo Tribunal a quo, razão pela qual a análise do tema diretamente por esta Corte Superior acarretaria indevida supressão de instância.
+2. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no julgamento do recurso de apelação deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+3. Fica afastada, ao menos por ora, a alegação de excesso de prazo para o julgamento da apelação, pois, a despeito de o paciente estar preso cautelarmente desde 12/9/2016 e haver sido condenado em 18/5/2017, o recurso segue seu trâmite regular, mormente diante da defesa - que optou pelo procedimento previsto no art. 600, § 4º, do CPP - haver demorado mais de dois meses para apresentar suas razões após ser intimada para tanto, e, ainda, da necessidade de retorno dos autos à origem para possibilitar ao Ministério Público estadual o oferecimento das contrarrazões.
+4. Pela consulta na página eletrônica do Tribunal de origem, é possível verificar que já foi expedido ofício a fim de solicitar o retorno do processo à instância superior, circunstância que evidencia sua diligência para o julgamento do feito em prazo razoável.
+5. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem. Recomendada ao Tribunal a quo prioridade no julgamento do apelo defensivo.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+O paciente foi acusado de praticar os crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, 12 e 16, ambos da Lei n. 10.826/2003 e 180 do CP. Os fatos ocorreram em 12/9/2016, data em que foi preso em flagrante.
+No dia 16/9/2016, a prisão em flagrante do suspeito foi convertida em preventiva, nos seguintes termos:
+ ..  Importante registrar que, apesar de o flagrado não ser primário, não tem bons antecedentes, conforme se verifica com a certidão juntada aos autos, pelo que, em eventual sentença condenatória, o autuado não fará jus à redução prevista no § 4º do art. 33, pelo que a prisão preventiva, ainda, apresenta feição instrumental ao feito e ainda, houve grande apreensão de material entorpecente, pelo que se evidencia que a ordem pública carece ser acautelada emergencialmente (fls. 31-32).
+Na sentença condenatória, constou:
+RECURSO: O réu encontra-se preso, sendo fixado o regime fechado e não tendo alteração dos fatos, pelo que não permito o direito em aguardar o trânsito em julgado em liberdade (fl. 51).
+De acordo com o Tribunal de Justiça:
+Através da decisão de lis. 44/50, o presente habeas corpus não restou conhecido quanto à arguição de constrangimento ilegal proveniente da manutenção da prisão preventiva e negativa do direito de recorrer em liberdade, visto que "está sendo manejado em substituição a recurso previamente estabelecido no ordenamento jurídico (fl. 49), assim como "não se verifica ilegalidade patente e, consequentemente, o eventual constrangimento ilegal passível de ser sanado" (fl. 45).
+Assim, restou-se apenas a análise acerca do excesso de prazo para o julgamento do apelo.
+ ..
+No caso em comento, observa-se das informações trazidas pela autoridade coatora, fls. 43/43 verso, que o Estado-Juiz foi diligente no exercício de suas funções, uma vez que o processo criminal tramita dentro de tempo razoável, transcorrendo, pois, com regularidade e em consonância com o Princípio da Razoabilidade e Proporcionalidade:
+ ..
+Ademais, conforme informado pela magistrada a quo, houve a decisão no dia 08/11/2017 acerca dos Embargos de Declaração opostos pelo paciente, tendo o Juízo recebido a apelação e determinado a subida dos autos ao TJ/RN.
+Desse modo, entendo justificado o trâmite do processo não merecendo prevalecer a tese de excesso de prazo.
+ ..
+Assim, não consubstanciada a coação ilegal descrita na inicial, verifico infrutífera a pretensão liberatória.
+Entretanto, apesar da determinação judicial para a subida dos autos ao 2º Grau em face da interposição de recurso, ainda não houve o seu cumprimento pela Secretaria Judiciária da 1ª Vara Criminal da Comarca de Parnamirim/RN, razão pela qual acolho o pedido apresentado pelo Ministério Público em sede de parecer, no sentido de que se oficie à autoridade tida como coatora para que providencie a imediata remessa dos autos originários (Processo nº 0104065-74.2016.8.20.0124) ao Tribunal de Justiça do Rio Grande do Norte (fls. 82-88).
+II. Prisão preventiva - supressão de instância
+A tese atinente à ausência dos requisitos necessários à manutenção da prisão preventiva na sentença condenatória não foi apreciada no acórdão prolatado pelo Tribunal a quo, de modo que a análise do tema diretamente por esta Corte Superior acarretaria indevida supressão de instância.
+III. Excesso de prazo - não ocorrência
+Cumpre registrar, ab initio, que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na espécie, a prisão cautelar perdura desde 12/9/2016 e o réu foi condenado, em primeiro grau, à pena privativa de liberdade total de 9 anos, 9 meses e 14 dias, pela prática dos crimes de tráfico ilícito de entorpecentes e posse ilegal de arma de fogo de uso permitido e com numeração adulterada.
+Conforme se infere dos autos, a denúncia foi oferecida em 18/10/2016 e, no dia 19/10/2016, expedida carta precatória para o acusado apresentar resposta à acusação.
+Informou o Magistrado de origem que "o paciente não apresentou resposta à acusação no prazo concedido, nem habilitou advogado, sendo a defesa protocolada através da Defensoria Pública, em 17 de março de 2017" (fl. 58).
+Em seguida - 28/3/2017 -, a denúncia foi recebida e, na mesma oportunidade, designada audiência de instrução e julgamento para o dia 18/5/2017, quando foi proferida sentença condenatória.
+Inconformado, o réu, por meio de defensor constituído, interpôs recurso de apelação, em 23/5/2017, com a indicação de que apresentaria suas razões na instância superior.
+Opôs, ainda, embargos de declaração, em 30/5/2017, acolhidos pelo Juiz de origem, em 8/11/2017, a fim de fixar o regime inicial fechado quanto à pena de reclusão. Nessa mesma data, recebeu a apelação e determinou a subida dos autos para processamento.
+Em consulta à página eletrônica do Tribunal estadual, verifiquei que o recurso foi distribuído em 17/7/2018. A defesa do paciente, intimada em 26/7/2018, apresentou suas razões tão somente em 2/10/2018. Imediatamente, os autos foram remetidos ao primeiro grau para contrarrazões e, em 22/11/2018, foi expedido ofício a fim de solicitar a devolução do processo.
+Assim, a despeito de o paciente estar cautelarmente privado de sua liberdade desde 18/10/2016, não há delonga injustificada na tramitação processual, pois sobreveio condenação em 18/5/2017 e decisão de embargos de declaração em 8/11/2017. O recurso de apelação foi distribuído em segunda instância, em 17/7/2017, mas a defesa - que optou pelo procedimento previsto no art. 600, § 4º, do CPP -, demorou mais de dois meses para apresentar suas razões e, ainda, os autos tiveram de retornar à origem para possibilitar ao Ministério Público estadual o oferecimento das contrarrazões. O Tribunal estadual já solicitou o retorno do processo para julgamento da insurgência.
+Diante de tal cenário, não percebo desídia ou paralisação indevida do processo por culpa do Judiciário ou do Ministério Público. As instâncias de origem apenas seguiram os ditames legais.
+Não observo, pois, excesso de prazo a consubstanciar flagrante ilegalidade que justifique a intervenção prematura desta Corte Superior.
+Ilustrativamente:
+ ..
+II - O excesso de prazo no julgamento do recurso de apelação, quando injustificado, consubstancia-se em constrangimento ilegal sanável via habeas corpus (princípio constitucional da duração razoável do processo - art. 5º, inc. LXXVIII, da CF).
+III - Todavia, malgrado o recurso de apelação tenha sido interposto em 23/9/2014, esclarece a em. Desembargadora-relatora, nas informações, que está ultimando o seu julgamento. Nesse passo, constato ainda que o Ministério Público já ofertou seu parecer e os autos se encontram conclusos para julgamento. Portanto, não verifico excesso de prazo teratológico censurável pela presente via, uma vez que se insere nos limites da normalidade das circunstâncias que envolvem o julgamento de uma apelação.
+Ordem denegada. Recomendação ao eg. Tribunal de Justiça do Estado do Ceará para que imprima maior celeridade no julgamento do recurso de apelação criminal protocolizado sob o n. 0009715.77.2013.8.06.0128.
+(HC n. 348.959/CE, Rel. Ministro Felix Fischer, 5ª T., DJe 7/10/2016, destaquei.)
+Constatadas, então, a compatibilidade do prazo e a diligência do Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+Todavia, mesmo não caracterizada a delonga injustificada na tramitação processual, recomendo ao Tribunal a quo celeridade no julgamento da Apelação Criminal n. 2018.005868-0 (0104065-74.2016.8.20.0124), tendo em vista o tempo em que o réu se encontra preso preventivamente.
+IV. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem. No entanto, recomendo que o Tribunal de origem priorize o julgamento do apelo defensivo (Apelação Criminal n. 0104065-74.2016.8.20.0124).
