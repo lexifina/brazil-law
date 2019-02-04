@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. OFENSA A ENUNCIADO DE SÚMULA. ATO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. AGRAVO DE INSTRUMENTO. ÔNUS DA IMPUGNAÇÃO ESPECÍFICA. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. É descabida a interposição de Recurso Especial com fundamento em violação de Súmula, pois esta não se enquadra no conceito de lei federal.
+3. Quanto à tese que visa reconhecer a falta de impugnação específica da decisão agravada, a fim de obstar o conhecimento do Agravo de Instrumento interposto na origem, o Tribunal a quo concluiu: "Inicialmente, afasto a preliminar suscitada pela recorrida de que a agravante não atacou os fundamentos da decisão agravada. Ao reverso, conforme assinalado linhas atrás, a questão em debate cinge-se na possibilidade ou não de redução do valor dos honorários de sucumbência fixados na sentença e cobrados pela União, questão devidamente abordada nas razões da peça recursal" (fl. 100, e-STJ).
+4. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte (fls. 104-105, e-STJ):
+PROCESSO CIVIL. AÇÃO ORIGINÁRIA DE REPETIÇÃO DE INDÉBITO. EXECUÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. ALEGAÇÃO DE ERRO MATERIAL, POR APLICAÇÃO DO PARÁGRAFO 3o ART. 20 DO CPC QUANDO DEVERIA TER SIDO APLICADO O PARÁGRAFO 4o. REDUÇÃO DO VALOR DO TÍTULO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO PROVIDO.
+1. No caso, a sentença, transitada em julgado, condenou a parte autora, ora agravada, em custas e honorários advocatícios, fixados em 10% (dez por cento) sobre o valor atribuído à causa, que é de R$ 48.074.026,56 (quarenta e oito milhões, setenta e quatro mil, vinte e seis reais e cinqüenta e seis centavos (ação autuada em 19/05/2010). Não houve recurso e, por conseguinte, ocorreu o trânsito em julgado da sentença. Na fase de execução desses honorários de sucumbência, o magistrado a quo acolheu a alegação de que houve erro material na fixação desses honorários e os reduziu para R$ 20.000,00 (vinte mil reais).
+2. Inicialmente, afasto a preliminar suscitada pela recorrida de que a agravante não atacou os fundamentos da decisão agravada. Ao reverso, conforme assinalado linhas atrás, a questão em debate cinge-se na possibilidade ou não de redução do valor dos honorários de sucumbência fixados na sentença e cobrados pela União, questão devidamente abordada nas razões da peça recursal.
+3. Transcorridos mais de dois anos, após o trânsito em julgado, uma vez intimadas as executadas a dar cumprimento à r. sentença, efetivando o pagamento, em favor da Fazenda Nacional, do valor correspondente aos honorários sucumbenciais, a segunda agravada/executada peticionou ao MM. Juízo a quo a retificação da r. sentença exequenda, que, a seu ver, encerra erro material, passível de correção a qualquer tempo, haja vista ter fixado a verba honorária com lastro tão somente no § 3o do artigo 20 do CPC, sem referir-se ao disposto no parágrafo 4º do mesmo dispositivo legal, incidindo, assim, em equívoco manifesto, razão por que deve ser aplicada, na espécie, a regra insculpida no art. 463, inciso I, do Codex processual.
+4. A mera alegação de que o juiz sentenciante, ao fixar os honorários de sucumbência, aplicou, equivocadamente, ou deixou a reconhecer a incidência de certo dispositivo legal, evidentemente que, não se tratando de ação rescisória, não constitui fundamento jurídico suficiente, a qualquer título, para que se possa sequer cogitar de afastamento da qualidade de coisa julgada de que se reveste a r. sentença de primeiro grau. Precedentes do eg. STJ.
+5. Ocorre que as ora recorridas não impugnaram oportunamente a referida decisão, que, sem dúvida, fixou honorários advocatícios, em favor da parte adversária, em valor bastante elevado, tendo, no entanto, quedado inerte, inclusive pelo prazo reservado à ação rescisória, permitindo, assim, a formação da coisa julgada material.
+6. Agravo provido.
+Os Embargos de Declaração foram rejeitados (fl. 139, e-STJ).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação, em preliminar, do art. 535 do CPC, sob o argumento de que a omissão apontada nos Embargos de Declaração não foi suprida; e, no mérito, dos arts. 128, 460 e 463, I, todos do CPC/1973 e Súmula 182 do STJ. Aduz, em suma, que o recurso de Agravo de Instrumento interposto na origem não deveria merecer conhecimento, por falta de impugnação específica dos fundamentos da decisão agravada.
+Contrarrazões apresentadas às fls. 166-174, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 05.11.2018.
+Ressalto que o acórdão recorrido foi publicado na vigência do CPC/1973. Por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, ressalte-se que é descabida a interposição de Recurso Especial com fundamento em violação de súmula, pois esta não se enquadra no conceito de lei federal.
+A propósito:
+CIVIL E PROCESSO CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA E NULIDADE DE TÍTULOS DE CRÉDITO C/C COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E SÚMULA. DESCABIMENTO (..).
+(..)
+2. É incabível recurso especial para discutir eventual violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+(..)
+12. Recursos especiais parcialmente conhecidos e providos em parte.
+(REsp 1423942/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/09/2017, DJe 29/09/2017)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. (..). VIOLAÇÃO À SÚMULA Nº 487 DO STF. IMPOSSIBILIDADE DE ABERTURA DA VIA ESPECIAL.
+(..)
+8. Não é possível a abertura da instância especial por suposta violação a súmulas, por não se enquadrarem no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal.
+9. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1243841/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/09/2017, DJe 02/10/2017)
+Constato que não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/08/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/06/2007.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente.
+No caso, a Corte regional levou em consideração todos os argumentos apresentados pela insurgente, em especial o que defende a possibilidade de correção de erro material na fixação dos honorários advocatícios sem que isso signifique desrespeito à coisa julgada.
+Por sua vez, o Tribunal de origem optou por seguir a tese de que a alteração dos ônus da sucumbência, in casu, implica desrespeito à coisa julgada, na medida em que se trata de error in judicando que deveria ter sido objeto de recurso ou de Ação Rescisória, não manejados no momento oportuno.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 535 do CPC/1973.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. (TRIBUTÁRIO. AGRAVO REGIMENTAL. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. LEI 9.316/96. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL. IMPROPRIEDADE DA VIA ELEITA).
+1. O inconformismo, que tem como real escopo a pretensão de reformar o decisum, não há como prosperar, porquanto inocorrentes as hipóteses de omissão, contradição, obscuridade ou erro material, sendo inviável a revisão em sede de embargos de declaração, em face dos estreitos limites do art. 535 do CPC.
+2. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+3. A pretensão de revisão do julgado, em manifesta pretensão infringente, revela-se inadmissível, em sede de embargos
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 824.309/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 11/05/2009).
+Acerca da suposta falta de cumprimento do ônus da impugnação específica no Agravo de Instrumento interposto pela recorrida, a Corte local fundamentou o seguinte (fl. 100, e-STJ):
+Inicialmente, afasto a preliminar suscitada pela recorrida de que a agravante não atacou os fundamentos da decisão agravada. Ao reverso, conforme assinalado linhas atrás, a questão em debate cinge-se na possibilidade ou não de redução do valor dos honorários de sucumbência fixados na sentença e cobrados pela União, questão devidamente abordada nas razões da peça recursal.
+Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por tudo isso, conheço parcialmente do Recurso Especial e, nessa extensão, nego-lhe provimento.
+É como voto.
