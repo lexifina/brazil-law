@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO CENTRAL DO BRASIL - BACEN, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fls. 2024/2025):
+PROCESSUAL CIVIL E CIVIL. COISA JULGADA EM MANDADO DE SEGURANÇA. AÇÃO ANULATÓRIA. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. APELAÇÃO. VALIDADE DO ATO DE LIQUIDAÇÃO EXTRAJUDICIAL. INDENIZAÇÃO POR EVENTUAIS PREJUÍZOS DECORRENTES DA MÁ GESTÃO DOS LIQUIDANTES NOMEADOS PELO BACEN. POSSIBILIDADE. INAPLICABILIDADE DO DISPOSTO NO ARTIGO 515, § 3º, DO CPC.
+I - No caso em exame, os demandantes apelam da r. sentença que, reconhecendo a existência de coisa julgada com referência ao mandado de segurança nº 1997.34.00.000007-2 que tramitou na 14ª Vara Federal de Brasília, extinguiu o processo, sem resolução de mérito, nos termos do art. 267, V, do Código de Processo Civil, e condenou os autores em custas e no pagamento de honorários advocatícios, fixados em 10 % (dez por cento) sobre o valor da causa, com fulcro no art. 20 do CPC.
+II - Da instrução dos autos, observa-se que no mandado de segurança destacado e nesta demanda há, em comum, o pedido formulado pelo primeiro e segundo autores visando à decretação da nulidade do ATO PRESI nº 605/96, sob a alegação de violação aos princípios do devido processo legal, do contraditório e da ampla defesa; da ofensa aos princípios da impessoalidade, da isonomia e da moralidade; da ausência de fundamentação e da recusa, pelo BACEN, das garantias ofertadas pelo terceiro autor.
+III - Por conseguinte, estão sujeitos aos efeitos da coisa julgada no mencionado mandado de segurança nº 1997.34.00.000007-2, relativamente ao pedido de decretação de nulidade do ATO PRESI nº 605/96, tão somente os impetrantes, ou seja, o primeiro e o segundo autores na presente demanda, sem que tais efeitos alcancem, neste feito, o terceiro autor que não foi parte na ação mandamental.
+IV - Subsiste, ademais, a pretensão dos autores no sentido de condenar o BACEN por eventuais prejuízos decorrentes da má gestão dos liquidantes nomeados pela autarquia em decorrência da decretação da liquidação extrajudicial do terceiro autor.
+V - A propósito, a sentença proferida no mandado de segurança em referência destacou que "eventuais abusos decorrentes da liquidação podem ser remediados pelo Judiciário, havendo, inclusive, possibilidade do BACEN ser responsabilizado patrimonialmente".
+VI - No caso em exame, mostra-se inaplicável o disposto no art. 515, § 3º, do CPC, por envolver esta lide matéria não exclusivamente de Direito, motivo por que os autos devem retornar à primeira instância para julgamento do mérito da demanda, conforme requerido pelos autores e pela ré.
+VII - Diante desse quadro, as preliminares deverão ser apreciadas em 1ª grau.
+VIII - Apelação conhecida e parcialmente provida.
+Embargos de declaração rejeitados (e-STJ fl. 2042).
+Nas suas razões, o BACEN aponta violação dos seguintes dispositivos: arts. 12, VI, 267, V e 467, do CPC/1973, bem como do art. 211 da Lei n. 6.404/1976. Aduz, por fim, maltrato ao art. 535 do CPC/1973, uma vez que nada foi dito acerca da permanência do Banco Interunion S.A. no polo ativo da demanda, após o encerramento do seu regime especial em razão de sua conversão em liquidação ordinária.
+Contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535 do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 04/03/2016; AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2015.
+No caso, o julgado recorrido decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado, sendo de relevo destacar:
+Não há omissão no acórdão embargado. O voto condutor foi expresso, afirmando que: "No caso em exame, mostra-se inaplicável o disposto no art. 515, § 3º, do CPC, por envolver esta lide matéria não exclusivamente de Direito, motivo por que os autos devem retornar à primeira instância para julgamento do mérito da demanda, conforme requeridos pelos autores (fl. 1850) e pela Autarquia (fl. 1873). Diante desse quadro, as preliminares deverão ser apreciadas em 1º grau " (fl. 1916) (e-STJ fl. 2041). (Destaques do original)
+Quanto ao mais, observo que o presente recurso não comporta conhecimento.
+É que a pretensão recursal do BACEN é destinada a impugnar o espectro do reconhecimento da coisa julgada pela Corte de origem, a partir das premissas fáticas assentadas no acórdão objurgado, cuja modificação demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, nos termos da Súmula n. 7.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINTOS. ATUALIZAÇÃO. REVISÃO GERAL DA REMUNERAÇÃO.
+ ..
+2. A inversão das conclusões do Tribunal de origem quanto à existência de litispendência e coisa julgada, tal como postulado nas razões recursais, exige novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, consoante a Súmula 7/STJ.
+ ..
+6. Recurso Especial não conhecido. (REsp 1716057/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/03/2018, DJe 02/08/2018).
+ADMINISTRATIVO. PROCESSO CIVIL. SERVIDOR PÚBLICO. ABONO PECUNIÁRIO. LEI 7.686/1988. EXECUÇÃO. LITISPENDÊNCIA. COISA JULGADA. TRÍPLICE IDENTIDADE. VERIFICAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA.
+ ..
+2. A alteração das conclusões adotadas pelas instâncias ordinárias, acerca da litispendência e da ofensa à coisa julgada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1242477/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/02/2017, DJe 24/02/2017).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
