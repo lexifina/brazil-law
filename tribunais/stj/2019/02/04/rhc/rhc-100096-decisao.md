@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARCOS VINÍCIUS MARTINS DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido nos autos do HC n.º 1.0000.18.034667-8/000.
+Consta nos autos que o Recorrente foi preso em flagrante, em 5/4/2018, pela suposta prática do delito tipificado no art. 157, caput, do Código Penal (roubo). A segregação foi convertida em preventiva (fls. 34/36).
+Irresignada, a defesa impetrou habeas corpus originário perante o Tribunal de origem, que denegou a ordem. Eis a ementa do julgado:
+HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. PRESENÇA DOS REQUISITOS FÁTICOS (ARTIGO 312 DO CPP) E INSTRUMENTAIS (ARTIGO 313, I, DO CPP) DA MEDIDA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS FATOS APURADOS. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DESCABIMENTO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA. 1. Tendo sido o paciente preso preventivamente pela suposta prática do delito de roubo, presentes a prova da materialidade delitiva e os indícios suficientes de autoria, inexiste constrangimento ilegal na decisão que, fundamentadamente, decretou a sua segregação cautelar, visando a garantir a ordem pública. 2. O princípio do estado de inocência, estatuído no artigo 5o, LVII, da Constituição da República, não impede a manutenção da prisão provisória, quando presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal. 3. O Código de Processo Penal preconiza, de forma expressa, o princípio da proporcionalidade, composto por dois outros, quais sejam: adequação e necessidade. 4. A prisão preventiva, espécie de medida cautelar, é exceção na sistemática processual, dando, o quanto possível, promoção efetiva ao princípio constitucional da não-culpabilidade. Todavia, embora medida extrema pode ser determinada sempre que presentes os requisitos exigidos pelo CPP. 5. Sendo o crime de roubo majorado apenado com reprimenda máxima, privativa de liberdade, superior a quatro anos, é possível a manutenção da segregação provisória do paciente, como forma de garantia da ordem pública, mormente face á gravidade concreta dos fatos apurados. 6. Não se mostrando adequadas e suficientes, no caso concreto, as medidas cautelares diversas da prisão, não poderão ser aplicadas, mormente quando presentes os requisitos para a manutenção da prisão preventiva. 7. Ordem denegada (fl. 46).
+Dai o presente recurso, no que o recorrente sustenta que não estão presentes na hipótese os requisitos autorizadores da segregação cautelar e que a prisão está despida de fundamentação idônea.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares alternativas à prisão, para que possa aguardar em liberdade o trânsito em julgado de eventual sentença condenatória.
+O pedido liminar foi indeferido (fls. 77/79).
+Informações prestadas (fls. 95/117).
+O Ministério Público Federal opinou para que "seja julgado prejudicado o presente recurso ordinário" (fls. 119/121).
+É o relatório.
+Decido.
+De fato, o presente recurso encontra-se prejudicado.
+Isso porque, conforme informações prestadas pelo Juízo de primeiro grau, foi concedida a liberdade provisória ao recorrente com imposição de medidas cautelares diversas da prisão (fl. 96).
+Assim, não há como negar a perda superveniente do objeto deste recurso em habeas corpus por não mais subsistir a prisão preventiva aqui impugnada.
+Ante exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
