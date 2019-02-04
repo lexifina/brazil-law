@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RISTJ.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por [NOME] contra decisão de minha lavra, às fls. 1.119, que não conheceu do seu agravo em recurso especial, porquanto não impugnado especificamente os fundamentos da decisão de inadmissão do recurso especial.
+O agravante pugna pela reforma da decisão proferida, argumentando que "houve completa e adequada exploração da decisão agravada" que inadmitiu o recurso especial (fl. 1.126, e-STJ).
+Ao fina, requer o provimento do agravo, para "votação colegiada", determinando a reforma das decisões do Tribunal a quo (fl. 1.126, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RISTJ.
+2. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Cuida-se, na origem, de sentença que julgou improcedente o pedido do autor, ex-policial militar, para anular sua exoneração do cargo de [NOME], por falta de preenchimento dos requisitos de perfil psicológico compatível com o desempenho da função.
+Em decisão de apelação, o Tribunal de Justiça de São Paulo manteve a sentença, por entender que a exoneração se deu dentro da previsão legal, em observância das formalidades e dos princípios constitucionais do devido processo legal e da ampla defesa. Em face disso, o autor interpôs recurso especial alegando violação do art. 535 do Código de Processo Civil de 1973, uma vez que o acórdão recorrido não teria "enfrentado a questão referente à mudança do libelo acusatório no momento da decisão final do feito" (fl. 1.023, e-STJ).
+Com efeito, a presidência do Tribunal de origem inadmitiu a subida do recurso especial pelos seguintes fundamentos:
+Com efeito, não se verifica a pretendida ofensa ao art. 535 do Código de Processo Civil, porquanto as questões trazidas à baila pelo recorrente foram todas apreciadas pelo v. acórdão atacado, nos limites em que expostas, naquilo que à Turma Julgadora pareceu pertinente à apreciação do recurso com análise e avaliação dos elementos de convicção carreados para os autos. Ademais, "consoante entendimento pacificado desta Corte, o órgão judicial, para expressar sua convicção, não precisa aduzir comentários sobre todos os argumentos levantados pelas partes. O Pretório de origem, pronuncia-se sobre as questões de fato e de direito para fundamentar o resultado, exprimindo o sentido geral do julgamento, não se emoldurando, assim, a pretendida violação ao art. 535 do Código de Processo Civil." (cf. AResp. 210.910, rel. Min. Humberto Martins, DJ 22/03/2013)
+D"outro bordo, a pretendida inversão do julgado implicaria na análise de direito local, o que é inviável no presente recurso, destinado tão-somente à apreciação de violação às normas constitucionais, incidindo na espécie o óbice da Súmula 280 do Supremo Tribunal Federal.
+Ademais, ressalte-se que busca o recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior.
+Como se denota, dentre outros fundamentos, a decisão de inadmissão do recurso especial está respaldado na jurisprudência do STJ no sentido de que a revisão do acórdão do Tribunal de origem, a fim de verificar a culpa do agravante, encontra óbice na súmula 7/STJ, uma vez que seu acolhimento demandaria incursão no contexto fático-probatório dos autos.
+Ocorre que o agravante em suas razões limita-se a sustentar que "não almeja discutir arcabouço fático-probatório". Na espécie, caberia ao então agravante demonstrar que "o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos" (AgInt no AREsp 1.267.441/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 4/9/2018, DJe 10/9/2018).
+No mesmo sentidos: AgInt no AREsp 943.953/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 28/10/2016; AgInt no AREsp 905.415/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21/09/2016; AgRg no AREsp 783.787/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 18/10/2016; AgRg no AREsp 815.940/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25/02/2016; e AgRg no AREsp 520.470/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 13/8/2014.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
