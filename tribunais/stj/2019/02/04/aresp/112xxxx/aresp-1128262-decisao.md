@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por SALETE [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 272):
+PREVIDENCIÁRIO. Revisão do benefício de aposentadoria. Pretendida inclusão das horas extras habituais e adicional de insalubridade na base de cálculo.
+Inadmissibilidade. Vantagens modais sobre as quais não incidiu contribuição previdenciária. Artigos 40, § 3º e 201, § 11, da CR. Recurso não provido.
+Rejeitados os aclaratórios (e-STJ fls. 284/290).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 457 da Consolidação das Leis do Trabalho; dos arts. 28, § 9º da Lei n. 8.212/1991; e dos arts. 40, §§ 3º, 14 e 17, da Constituição Federal, sustentando a incorreção do benefício concedido, uma vez que todos os adicionais recebidos em atividade deveriam integrar a base de cálculo de seus proventos, como, inclusive, disposto na legislação municipal instituidora da parte adversa.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência das Súmulas 280 do STF e 7 do STJ (e-STJ fls. 320/321).
+Na presente irresignação, a parte agravante alega, em resumo, a inaplicabilidade de referidos óbices ao caso.
+Contraminuta às e-STJ fls. 342/353.
+Passo a decidir.
+A irresignação recursal não comporta acolhida.
+De início, no pertinente à suposta contrariedade do art. 40, §§ 3º, 14 e 17, da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No que toca à alegação de contrariedade aos arts. 457 da Consolidação das Leis do Trabalho e 28, § 9º da Lei n. 8.212/1991, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, em relação às apontadas ofensas aos artigos, percebe-se que tais dispositivos não dizem respeito diretamente à questão jurídica efetivamente decidida pelo acórdão recorrido, o que revela a deficiência de fundamentação nesse particular, a ensejar o óbice de conhecimento encartado na Súmula 284 do STF. Pondere-se, por oportuno, que a parte ora agravante, servidora pública municipal aposentada, busca a revisão de proventos pagos por instituto de previdência local.
+Outrossim, no tocante ao pleito de revisão do valor do benefício discutido, ainda que apontada suposta violação a dispositivos de lei federal, a argumentação do apelo nobre centra-se na necessidade de apreciação da legislação municipal que seria aplicável, notadamente o art. 24 da Lei n. 6.145/2011 apontado nas razões recursais.
+Nesse passo, deve-se destacar ser notório que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a lei local, conforme a inteligência da Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
