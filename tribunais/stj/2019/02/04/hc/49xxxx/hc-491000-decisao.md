@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial e com pedido de liminar impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 0008273-08.2018.8.26.0496.
+O Juízo das execuções deferiu ao paciente pedido de progressão para o regime aberto, convertendo o benefício em prisão albergue domiciliar.
+O Tribunal de origem deu parcial provimento ao agravo ministerial para determinar a imediata recondução do paciente ao regime semiaberto para comprovação do requisito subjetivo necessário à concessão da benesse mediante a realização de exame criminológico.
+Requer a impetrante seja concedida medida liminar "para suspender os efeitos do acórdão e manter o paciente no regime aberto" (fl. 10).
+É o relatório. Decido.
+Em consonância com julgados do Supremo Tribunal Federal (por exemplo, RHC n. 118.623/MS, relator Ministro Roberto Barroso, Primeira Turma, DJe de 5/12/2013; e HC n. 113.690, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 8/10/2012), a Quinta e a Sexta Turmas do Superior Tribunal de Justiça consideram que é inadequado habeas corpus contra decisão do Tribunal a quo atacável pela via de recurso especial, ressalvando-se casos de flagrante ilegalidade em que seja recomendável conceder, de ofício, a ordem.
+No entanto, essa não é a hipótese dos autos.
+O exame inicial das alegações, diante do que foi decidido, não revela ilegalidade ou abuso manifestos de modo a autorizar a concessão da medida liminar. Veja-se, a propósito, trecho do acórdão proferido pelo Tribunal de origem (fls. 79-82):
+Com a devida vênia do posicionamento externado pelo julgador singular, a situação em foco recomendava maior cautela na aferição do merecimento do agravado para promoção de regime, considerada a gravidade concreta do delito pelo qual se viu condenado, a par do considerável interstício restante de sanção a cumprir.
+No caso, observa-se dos documentos juntados pela Justiça Pública que [NOME] participou de roubo em plena via pública, à luz do dia, com atuação de três agentes, cabendo àquele atemorizar a vítima, fazendo menção de estar armado e proferindo ameaças de morte, enquanto os comparsas usavam de violência, detalhes indicadores de perversidade e covardia extremadas (fls. 35/44).
+Não bastasse, o sentenciado ainda ostenta condenação pretérita por delito idêntico, voltando a delinquir após beneficiado com o indulto (fls. 48 e 54), peculiaridade apta a indicar preocupante resistência à ensinança ministrada no cárcere ou inquestionável persistência na senda do crime, tudo a exigir controle estatal mais rigoroso para concessão do benefício almejado.
+Diante de tal quadro, tem-se que o singelo atestado de bom comportamento carcerário não se revela suficiente para se constatar a absorção da terapêutica penal por indivíduo condenado pela prática de delito gravíssimo, sem se ignorar sua predileção por infração envolvendo violência ou grave ameaça.
+ ..
+E, como é cediço, o artigo 112 da Lei de Execução Penal, com a nova redação dada pela Lei nº. 10.792/2003, dispensa a realização de exame criminológico antecedendo decisão sobre a progressão de regime; mas isso não quer dizer que basta o preenchimento do requisito temporal ou tempo de permanência na prisão, porquanto a mesma lei faz alusão a bom comportamento, de modo a traduzir a necessidade de mérito, algo reforçado pelo artigo 33, § 2º, do Código Penal.
+Na verdade, o exame criminológico, em face das alterações impostas aos artigos 6º e 112 da Lei nº. 7.210/84, deixou de representar requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo juízo da execução quando assim o entender necessário para a formação de seu convencimento, ainda mais diante de hipóteses como a dos autos.
+ ..
+Justamente por isso, consignou o Excelso Pretório que "o crime praticado mediante violência ou grave ameaça pode configurar motivação idônea para imposição do exame criminológico" (STF, Reclamação n. 22.685/SP, Redatora do Acórdão a Ministra ROSA WEBER, julgado 07-6-2016, grifou-se e destacou-se), não bastando, para dirimir a questão, singelo atestado de bom comportamento carcerário.
+Ademais, evidenciando-se que a medida de urgência confunde-se com o próprio mérito do presente habeas corpus, é adequado reservar ao órgão competente a análise minuciosa das razões da pretensão depois de devidamente instruídos os autos.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações à autoridade coatora.
+Dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
