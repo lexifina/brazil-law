@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NÃO CONFIGURADA. ALEGAÇÃO DE FATO SUPERVENIENTE. AUSÊNCIA DE INFLUÊNCIA NA SOLUÇÃO DA LIDE. PRECEDENTES. LITIGÂNCIA DE MÁ-FÉ DA RECORRENTE. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Simed - Serviços Médicos Integrados Ltda. ajuizou ação ordinária de obrigação de fazer em desfavor de [NOME] da Irmandade Senhor dos Passos de Ubatuba pretendendo a manutenção e o cumprimento do contrato de prestação de serviços firmado entre as litigantes.
+ Sobrevindo a contestação, a ré alegou que o serviços não foram devidamente prestados pela autora e propôs reconvenção objetivando a resolução do contrato e indenização por perdas e danos.
+O Magistrado de primeiro grau julgou procedente o pedido da exordial e improcedente o pedido reconvencional efetuado pela ré, condenando a requerida ao efetivo cumprimento do contrato, sob multa diária de R$ 5.000,00 (cinco mil reais), além das custas processuais e dos honorários advocatícios pela sucumbência da ação principal, assim como pela sucumbência da reconvenção, fixada em 10% do valor da causa (e-STJ, fl. 394).
+Interposta apelação pela casa de saúde, a Trigésima Sexta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento à insurgência, conforme acórdão assim ementado (e-STJ, fl. 905):
+Ação de obrigação de fazer. Cumprimento de contrato de prestação de serviços. Rescisão unilateral imotivada.
+Documentos que demonstram que a Ré criou óbices às atividades da Autora. Ação procedente. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 917-920).
+Nas razões do recurso especial, fundamentado na alínea a do permissivo constitucional, a recorrente alegou afronta aos arts. 493 e 1.022, II, do Código de Processo Civil de 2015.
+Sustentou, em síntese, negativa de prestação jurisdicional, porquanto omisso o acórdão recorrido, e a recusa da Corte de origem em analisar fatos supervenientes à prolação da sentença que seriam capazes de alterar o deslinde da controvérsia.
+Aduziu que a matéria do presente recurso extrapola os limites subjetivos do processo por se tratar de uma questão que envolve saúde pública.
+Contrarrazões às fls. 965-972 (e-STJ), pleiteando a imposição de multa por litigância de má-fé à parte recorrente.
+O processamento do recurso especial foi denegado pelo Tribunal de origem, o que levou a insurgente à interposição do presente agravo.
+Contraminuta às fls. 1.066-1.078 (e-STJ).
+A recorrida protocolizou a Petição n. 658.123/2018 (e-STJ, fls. 1.127-.1131) reiterando a aplicação da multa por litigância de má-fé, em razão da anterior distribuição do AREsp 1.331.765/SP, já transitado em julgado, alegando tratar-se de recursos idênticos com "mesmos objetos, partes, matérias e relação jurídica".
+Brevemente relatado, decido.
+Inicialmente, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido expressamente enfrentou todas as questões suscitadas pela recorrente, notadamente quanto à inexistência de influência dos fatos supervenientes para a solução da lide, tratando-se, na verdade, de pretensão de novo julgamento da matéria.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual não viola o art. 1.022 do Código de Processo Civil de 2015 nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, para decidir de modo integral a controvérsia posta.
+Nesse sentido:
+RESPONSABILIDADE CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022, I E II, DO ATUAL CPC. AUSÊNCIA DE OMISSÕES. ABALROAMENTO DE VEÍCULOS CAUSADO POR EMPRESA DE ÔNIBUS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. LESÕES SOFRIDAS PELA VÍTIMA. DANO MORAL CONFIGURADO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. "Na linha dos precedentes desta Corte, acidentes ocorridos em auto-estradas, mesmo por culpa exclusiva de terceiros, são considerados fortuitos internos, incapazes, por isso, de afastar a responsabilidade Civil do transportador." (AgRg nos EDcl no REsp 1318095/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/06/2012, DJe 27/06/2012).
+3. O acolhimento da pretensão recursal a fim de afastar a responsabilidade civil da agravante pelo ilícito ocorrido, seria necessário a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, o que faz atrair a incidência da Súmula 7 do STJ.
+4. A revisão do valor fixado a título de indenização por danos morais só é possível em recurso especial quando a quantia fixada nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.042.632/RJ. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/5/2017).
+Quanto à alegação de ausência de análise de fatos novos, a Corte local consignou que os fatos trazidos aos autos pela recorrente "eram irrelevantes para a solução da lide", assim como a "imputação de infrações contratuais à SIMED que antes não lhe haviam sido imputadas, não constituíam objeto da lide" (e-STJ, fls. 919-920). Dessa forma, verifica-se que não é possível a aplicação do art. 493 do CPC/2015, uma vez que os fatos supervenientes são insuscetíveis de influenciar o resultado das decisões nas instâncias ordinárias.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA - DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO DE SOBRESTAMENTO DO FEITO. IRRESIGNAÇÃO DA AUTORA.
+1. O fato novo autorizado pela lei, a teor dos arts. 493 do CPC/15 e art. 462 do CPC/73, a ser examinado mesmo na fase recursal é aquele constitutivo, modificativo ou extintivo do direito apto a influir na solução da lide e superveniente à instrução, circunstâncias que não se verificam na presente hipótese.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AgInt na PET no AREsp 616.274/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. TEMPO DE CONTRIBUIÇÃO FATO SUPERVENIENTE. ART. 493 DO CPC/2015. AUSÊNCIA DE UTILIDADE NO PROVIMENTO DO RECURSO. REQUISITOS PARA APOSENTADORIA NÃO PREENCHIDOS QUANDO DA PROLAÇÃO DA SENTENÇA DE 1º GRAU.
+1. Na hipótese dos autos, o recorrente pugna para que sejam computadas as contribuições vertidas após o requerimento administrativo, sob a alegação de que, no curso da ação, teria completado os requisitos para a concessão da aposentadoria.
+2. A Corte a quo entendeu que não é possível a aplicação do art. 493 do CPC/2015, uma vez que o fato superveniente deve guardar pertinência com a causa de pedir e com o pedido inicial.
+3. Complementarmente, o Tribunal Regional asseverou que, "por ocasião da prolação da sentença de primeiro grau (18/08/2014 - fls. 202/210), o autor computava o total de 34 anos, 9 meses e 10 dias de tempo de contribuição, sendo insuficientes à concessão da aposentadoria por tempo de serviço integral". 4. Percebe-se, portanto, que, mesmo que houvesse o acatamento da tese proposta pelo recorrente (de que seria possível o cômputo do tempo de contribuição após o requerimento administrativo), não prosperaria o pleito, porquanto não preenchidos os requisitos para concessão da aposentadoria por tempo de serviço integral quando da prolação da sentença.
+5. Nota-se a ausência de utilidade do provimento pretendido no presente Recurso Especial, sendo o caso de se reconhecer a falta de interesse recursal da parte.
+6. Recurso Especial do qual não se conhece.
+(REsp 1694987/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017, sem grifos no original)
+Por fim, quanto à pretensão, deduzida nas contrarrazões e na Petição n. n. 658.123/2018 (e-STJ, fls. 1.127-.1131), de penalização da recorrente por litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre valor da causa, observada a gratuidade de justiça deferida à recorrente.
+Publique-se.
