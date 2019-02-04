@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTANDER LEASING S.A. ARRENDAMENTO MERCANTIL, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP assim ementado:
+EXECUÇÃO FISCAL. IPVA. EXECUTADA QUE NÃO COMPROVOU, NA QUALIDADE DE ARRENDANTE, TER COMUNICADO EVENTUAL ALTERAÇÃO DO DOMÍNIO ÀS AUTORIDADES RESPONSÁVEIS PELO CADASTRO DE CONTRIBUINTES DO IPVA, A TANTO NÃO EQUIVALENDO A BAIXA DO GRAVAME NO SISTEMA NACIONAL DE GRAVAMES. RESPONSABILIDADE SOLIDÁRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. RECURSO DA FAZENDA DO ESTADO PROVIDO.
+Nas razões do especial, o recorrente alega violação dos arts. 123, § 1º, I, e 134 do CTB; dos arts. 130 e 131, I, do CTN; dos arts. 1.228 e 1.267, parágrafo único, do CC/02, bem como dissídio jurisprudencial, sustentando a sua ilegitimidade para figurar no polo passivo da execução fiscal, tendo em vista que providenciou a baixa do gravame após o término do contrato de arrendamento mercantil para aquisição do veículo, cujo IPVA deixou de ser quitado pelo arrendatário.
+Com contrarrazões, o recurso foi admitido pelo Tribunal de origem.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, cabe ressaltar, inicialmente, que o recurso especial se origina de execução fiscal ajuizada pela Fazenda do Estado de São Paulo, em desfavor da instituição financeira, com base em crédito tributário oriundo do inadimplemento de IPVA.
+Em primeiro grau de jurisdição, o Juízo da Vara da Fazenda Pública da Comarca de Barueri/SP extinguiu o processo, sem resolução de mérito, nos termos do art. 267, VI, do CPC/1973, ante a ilegitimidade do recorrente para figurar no polo passivo da execução.
+Irresignada, a Fazenda Estadual interpôs recurso de apelação, que foi provido pelo TJ/SP, para, anulando a sentença, rejeitar a exceção de pré-executividade e, via de consequência, determinar o prosseguimento do executivo fiscal. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 90):
+Sendo a arrendante parte legítima para responder solidariamente pelo IPVA, sua exoneração perante o fisco depende do cumprimento da obrigação acessória de comunicar eventual alteração do domínio às autoridades responsáveis pelo Cadastro de Contribuintes do IPVA.
+E ao contrário do que constou da sentença, a baixa do gravame no Sistema Nacional de Gravames a tanto não equivale, ausente demonstração de que o arrendatário tenha exercido opção pela aquisição do bem, com a competente transferência do veículo.
+Em tais condições, dá-se provimento ao recurso, para rejeitar a exceção de pré-executividade, prosseguindo-se em primeira instância como de direito.
+Pois bem.
+Da leitura do excerto supra, observa-se claramente que a instância ordinária não emitiu juízo de valor sobre os arts. 123, § 1º, I, e 134 do CTB; 130 e 131, I, do CTN, 1.228 e 1.267, parágrafo único, do CC/2002. Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
