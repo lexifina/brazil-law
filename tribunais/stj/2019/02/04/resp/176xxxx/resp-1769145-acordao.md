@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPVA. RESPONSABILIDADE SOLIDÁRIA APÓS ALIENAÇÃO DO VEÍCULO. ACÓRDÃO AMPARADO NA EXEGESE DE LEI ESTADUAL. SÚMULA 280/STF.
+1. O acórdão hostilizado reconheceu a responsabilidade tributária solidária da alienante com base na exegese da Lei Estadual 13.296/2008, o que atrai a incidência da Súmula 280/STF.
+3. Se por um lado é correto afirmar que o art. 134 do CTB prevê apenas a responsabilidade solidária pelas "penalidades impostas e suas reincidências até a data da comunicação", daí não se extrai a artificiosa conclusão de que inexiste responsabilidade tributária, mesmo porque o Código de Trânsito não disciplina, nem afasta, o exercício da competência tributária pelo ente estatal (o CTB, lei federal, realmente não poderia invadir a atividade legislativa tributária estadual, única apta a dispor sobre os tributos específicos do ente estatal). Nesse sentido, o STJ possui jurisprudência que admite a fixação de responsabilidade solidária, em relação aos tributos estaduais, em caso de previsão na legislação específica: REsp 1.640.978/SP, Rel. Ministro Gurgel de Faria, DJe 12/5/2017.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+TRIBUTÁRIO. IPVA. Quem aliena veículo automotor sem comuniar a ocorrênica à repartição encarregada do registro e licenciamento responde pela obrigação tributária do adquirente omisso, como devedor solidário. Incidência dos arts. 4º, III, da LE nº 6.606/89, 6º, II e § 2º, da LE 13.296/08 e 124, II, do CTN. Sentença mantida. Recurso não provido.
+A recorrente alega violação dos arts. 121, II, 124, II, e 125, I, do CTN e do art. 134 do Código de Trânsito Brasileiro.
+Não foram apresentadas as contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 28.9.2017.
+Controverte-se a respeito do acórdão que julgou improcedente o pedido deduzido em Ação Ordinária, reconhecendo a responsabilidade solidária da alienante do veículo em relação ao IPVA.
+A recorrente invoca a tese de violação do art. 134 do Código de Trânsito Brasileiro, que prescreve o seguinte:
+Art. 134. No caso de transferência de propriedade, o proprietário antigo deverá encaminhar ao órgão executivo de trânsito do Estado dentro de um prazo de trinta dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação.
+Em relação ao dispositivo acima, efetivamente a jurisprudência do STJ é pacífica no sentido de que norma prevê apenas responsabilidade solidária pelo pagamento de infração à legislação administrativa (multas de trânsito), não abrangendo a tributária.
+Tal orientação conduziria, em tese, ao provimento do recurso.
+Sucede que a Corte regional, com base na legislação local, identificou a existência de disciplina específica na legislação tributária, a qual prevê a responsabilidade solidária do alienante, enquanto este não comunicar à repartição competente a transferência de propriedade (fl. 98, e-STJ).
+Nesse contexto, não é possível conhecer do apelo, tendo em vista que, conforme já mencionado, a solução da controvérsia se deu exclusivamente com fulcro na exegese da legislação local, o que atrai o óbice da Súmula 280/STF.
+Verifico que, se por um lado é correto afirmar que o art. 134 do CTB prevê apenas a responsabilidade solidária pelas "penalidades impostas e suas reincidências até a data da comunicação", daí não se extrai a artificiosa conclusão de que inexiste responsabilidade tributária, mesmo porque o Código de Trânsito não disciplina e nem afasta o exercício da competência tributária pelo ente estatal (o CTB, lei federal, realmente não poderia invadir a atividade legislativa tributária estadual, única apta a dispor sobre os tributos específicos do ente estatal).
+Nesse sentido, o STJ possui jurisprudência que admite a responsabilidade solidária, relativamente aos tributos estaduais, em caso de previsão na legislação específica:
+TRIBUTÁRIO. IPVA. RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA. EX-PROPRIETÁRIO DO VEÍCULO, CUJA ALIENAÇÃO NÃO FORA COMUNICADA AO DEPARTAMENTO DE TRÂNSITO. LEI ESTADUAL. OBSERVÂNCIA.
+1. O art. 134 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro) não trata de responsabilidade tributária, sendo restrito à responsabilização pelas penalidades administrativas do veículo cuja alienação não foi comunicada ao departamento de trânsito, conforme entendimento sedimentado pela Primeira Seção na Súmula 585 do STJ, segundo a qual "a responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro - CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação".
+2. Nos termos do art. 124 do CTN, somente por lei específica pode ser instituída a solidariedade quanto à responsabilidade pelo pagamento de tributos, de modo que a atribuição da responsabilidade solidária, por débitos de IPVA, ao ex-proprietário do veículo é condicionada à previsão da lei estadual.
+3. Hipótese em que o acórdão a quo deve ser mantido, pois, embora o Tribunal de origem, na solução da controvérsia, tenha citado como fundamento o art. 134 do Código de Trânsito Brasileiro, também mencionou o estabelecimento da responsabilidade tributária solidária por meio de lei estadual.
+4. Recurso especial não provido (REsp 1.640.978/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 12/5/2017).
+Com essas considerações, não conheço do Recurso Especial.
+Nos termos do art. 85, § 11, do CPC, majoro a verba honorária em 1%, fixando-a, portanto, em substituição ao montante arbitrado nas instâncias de origem, em 16% do valor atualizado da causa, suspendendo a sua exigibilidade em razão da concessão dos benefícios da Justiça Gratuita, nos termos da legislação correlata.
+É como voto.
