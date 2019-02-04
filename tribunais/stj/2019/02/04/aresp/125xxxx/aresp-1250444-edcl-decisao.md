@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por PLANDE PLANEJAMENTO E DESENVOLVIMENTO DE PRODUTOS LTDA e OUTRO, em 05/11/2018, por meio dos quais se impugna decisão, de minha lavra, que negou provimento a Recurso Especial, interposto pela parte ex adversa, em ação na qual se discute a possibilidade de reparação de danos em razão da concessão de tutela de urgência, ao depois revogada.
+Nas razões dos Embargos de Declaração, as ora embargantes sustentam o seguinte:
+"Considerando que a Agravada interpôs Recurso Especial em face de Acórdão proferido em Agravo de Instrumento pelo E. Tribunal de Justiça, cuja decisão interlocutória não houve condenação de honorários, requer seja declarada a decisão a fim de sanar a omissão no tocante ao percentual de honorários sucumbenciais recursais ter sido "majorado" em 10%, para que fique claro qual o percentual de honorários deve incidir sobre o valor do proveito econômico buscado pela Agravante no Cumprimento de Sentença que originou uma série de interposições de recursos (Agravo de Instrumento, Contraminuta, Recurso Especial, Contrarrazões, Agravo de Despacho denegatório de Recurso Especial e Contraminuta)" (fl. 234e).
+Requer, por fim, "seja aclarada referida decisão, confiando que Vossa Excelência se dignará a prover os presentes embargos, objetivando a devida manifestação sobre os pontos que restaram omissos, conforme restou demonstrado nos presentes embargos" (fl. 234e).
+Sem contraminuta.
+Há erro material na decisão embargada.
+Com efeito, embora tenha sido determinada a majoração dos honorários, em razão do não conhecimento do Recurso Especial, interposto pela parte ex adversa, a verdade é que tal majoração se mostra, no caso em tela, indevida, de vez que se cuidou de acórdão proferido em sede de decisão interlocutória, na qual, ademais, não houve prévia fixação de honorários - pressuposto lógico para a majoração da verba, em sede recursal.
+Ante o exposto, rejeito os Embargos de Declaração e procedo, de ofício, à correção do erro material apontado, para afastar, da decisão embargada, a indevida condenação em honorários recursais.
+I.
