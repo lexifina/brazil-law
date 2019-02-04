@@ -1,0 +1,60 @@
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. INCAPACIDADE TOTAL E TEMPORÁRIA. PERDE A QUALIDADE DE SEGURADA. APELAÇÃO DO INSS PROVIDA. APELAÇÃO DA PARTE AUTORA PREJUDICADA.
+1. Tratam os autos na origem de pedido de auxílio-doença/aposentadoria por invalidez ou benefício assistencial. A sentença concedeu o auxílio-doença desde a data do requerimento administrativo (18.8.2011) até a concessão do benefício assistencial (13.3.2015). O acórdão julgou improcedente o pedido por não constar dos autos prova da incapacidade no período em que a autora não contribuiu, extrapolando o período de graça.
+2 Não se presta o Recurso Especial ao exame de suposta afronta a dispositivos constitucionais, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+3. A instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos, concluindo pela perda da qualidade de segurada, seja pela falta de contribuição, pela extrapolação do período de graça e ainda pela falta de comprovação do agravamento de sua doença dentro do período de graça.
+4. Verifica-se que a análise da controvérsia demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. Recurso Especial não conhecido
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. INCAPACIDADE TOTAL E TEMPORÁRIA. PERDA QUALIDADE DE SEGURADA. APELAÇÃO DO INSS PROVIDA. APELAÇÃO DA PARTE AUTORA PREJUDICADA.
+A aposentadoria por invalidez, nos termos do art. 42 da Lei n. 8.213/91, é devida ao segurado que for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência.
+No tocante aos requisitos de qualidade de segurada e cumprimento da carência verifica-se que possuiu vínculos empregatícios, em períodos descontínuos, de 06/03/91 a 20/10/11 (cópia da CTPS - fls. 10-12).
+Quanto à alegada invalidez, o laudo médico judicial concluiu que a parte autora é portadora de insuficiência renal crônica, estando incapacitada de forma total e temporária desde 2014 (fls.48-56).
+Verifica-se, assim, que entre o encerramento do último vínculo empregatício, aos 20/10/11 e o ajuizamento da presente ação em 26/08/14, houve ausência de contribuições por um lapso de tempo superior aos 12 (doze) meses relativos ao "período de graça", previsto no art. 15, inc. II, da Lei 8.213/91.
+Ressalte-se que referido "período de graça" pode ser estendido por no máximo três anos, se evidenciadas as hipóteses nele previstas, o que não ocorreu no presente caso.
+Consequentemente, condeno a parte autora ao pagamento da verba honorária, que ora estipulo em R$ 1.000,00 (hum mil reais), na esteira da orientação erigida pela E. Terceira Seção desta Corte (Precedentes: AR 2015.03.00.028161-O/SP, Relator Des. Fed. [NOME]; AR 2011.03.00.024377-9/MS, Relator Des. Fed. [NOME]). Sem se olvidar tratar-se de parte beneficiária da justiça gratuita, observar-se-á, in casu, a letra do art. 98, parágrafo 3o, do CPC/2015.
+Por fim, deixo de analisar o pleito acerca do benefício assistencial, haja vista sua concessão na seara administrativa.
+Apelação do INSS provida. Apelação da parte autora prejudicada. (fls. 154-160, e-STJ).
+Os Embargos de Declaração foram desacolhidos. (fls. 195-201, e- STJ).
+O recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 371,489 e 1022 do CPC/2015; 5º e 93 da CFRB;15,42,102,151 da Lei 8213/91. Sustenta que o acórdão deve, portanto, ser abatido por esse Tribunal, uma vez que, além de se omitir na tese fundamental da Ação (manutenção da qualidade de segurada daquela que está doente com insuficiência renal crônica e teve sua condição agravada dentro do período de graça) está afrontando a jurisprudência pátria sem ao menos indicar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Tratam os autos na origem de pedido de auxílio-doença/aposentadoria por invalidez ou benefício assistencial. A sentença concedeu o auxílio-doença desde a data do requerimento administrativo (18.8.2011) até a concessão do benefício assistencial (13.3.2015). O acórdão julgou improcedente o pedido por não constar dos autos prova da incapacidade no período em que a autora não contribuiu, extrapolando o período de graça. Os Embargos de Declaração foram desacolhidos; o Recurso Especial, inadmitido e o agravo, convertido para melhor exame da matéria.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os autos foram recebidos neste gabinete em 19 de outubro de 2018.
+A irresignação não merece acolhida. O Tribunal de origem consignou:
+No tocante aos requisitos de qualidade de segurada e cumprimento da carência -verifica-se que possuiu vínculos empregatícios, em períodos descontínuos, de 06/03/91 a 20/10/11 (cópia da CTPS - fls. 10-12).
+Quanto à alegada invalidez, o laudo médico judicial concluiu que a parte autora é portadora de insuficiência renal crônica, estando incapacitada de forma total e temporária desde 2014 (fls.48-56).
+Verifica-se, assim, que entre o encerramento do último vínculo empregatício, aos 20/10/11 e o ajuizamento da presente ação em 26/08/14, houve ausência de contribuições por um lapso de tempo superior aos 12 (doze) meses relativos ao "período de graça", previsto no art. 15, inc. II, da Lei 8.213/91.
+Ressalte-se que referido "período de graça" pode ser estendido por no máximo três anos, se evidenciadas as hipóteses nele previstas, o que não ocorreu no presente caso.
+Cumpre destacar que não se há falar em direito adquirido, nos termos do art. 102, parágrafo único, da Lei 8.213/91, pois não ficou consignado no laudo médico-pericial que a parte autora estivesse incapacitada desde a época em que cessou o seu labor.
+Ademais, não foi anexado aos autos nenhum documento médico capaz de comprovar que sua incapacidade remonta à referida época.
+Vislumbra-se, portanto, que não tem direito à percepção de auxílio-doença tampouco de aposentadoria por invalidez. (fls.154-160, e-STJ)
+De início, não se presta o Recurso Especial ao exame de suposta afronta a dispositivos constitucionais, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+Não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. (..) (AgInt no REsp 1630265/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 06/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.(..) (AgInt no AREsp 801.104/DF, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016).
+A instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos, concluindo pela perda da qualidade de segurada, seja pela falta de contribuição, pela extrapolação do período de graça ou ainda pela falta de comprovação do agravamento de sua doença dentro do período de graça. Desse modo, verifica-se que a análise da controvérsia demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. PROVA. REEXAME. IMPOSSIBILIDADE. DECISÃO AGRAVADA. FUNDAMENTOS NÃO AFASTADOS. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Havendo o acórdão de origem delineado a controvérsia a partir do universo fático-probatório constante dos autos, não há como, em sede de recurso especial, alterar o entendimento fixado pelo Tribunal a quo, relativamente à não comprovação da incapacidade laboral apta à concessão do benefício de aposentadoria por invalidez.
+2. Não é possível, em sede de recurso especial, o reexame do acervo fático-probatório dos autos, ante o obstáculo representado pela dicção da Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 809.056/SP, Rel. Minª. Diva Malerbi - Desembargadora Convocada TRF 3ª Região, Segunda Turma, DJe 01/03/2016).
+PROCESSO CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE COMPROVAÇÃO DA INCAPACIDADE. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. O Tribunal de origem concluiu: "ocorre que, o Perito Oficial aponta que o periciado não apresenta incapacidade laborativa, destacando que o mesmo, no momento atual encontra-se hábil para a atividade de auxiliar de serviços gerais, tanto que se encontra devidamente empregado".
+2. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido implicaria o necessário revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Agravo Regimental não provido. (AgRg no AREsp 677.615/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 04/08/2015).
+A excepcional intervenção corretiva do Superior Tribunal de Justiça somente se legitima quando detectado erro jurídico na aplicação de norma ou princípio, o que, in casu, não ocorre:
+AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL. PENHORA. SALÁRIO. REVALORAÇÃO DA PROVA. PRETENSÃO. REEXAME. SÚMULA N. 7-STJ. NÃO PROVIMENTO.
+1. Se o Tribunal de segundo grau concluiu que a penhora recaiu apenas parcialmente sobre verbas salariais, liberando estas e mantendo a constrição sobre os demais valores, alterar essa conclusão encontra o óbice de que trata o verbete n. 7, da Súmula.
+2. A errônea valoração da prova, a permitir a intervenção desta Corte na questão, é a jurídica, decorrente de equívoco de direito na aplicação de norma ou princípio no campo probatório.
+3. Agravo regimental a que se nega provimento.(AgRg no AREsp 26.857/GO, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/09/2013)
+Assim, não há como afastar o óbice sumular 7/STJ sob o argumento de buscar a parte recorrente mera revaloração das provas.
+Por tudo isso, não conheço do recurso.
+É como voto.
