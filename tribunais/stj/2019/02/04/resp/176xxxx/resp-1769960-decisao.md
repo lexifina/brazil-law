@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANDRA MARIA FIGUEIREDO COUTO, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO INTERLOCUTÓRIA NÃO AGRAVÁVEL - AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ARTIGO 1.015 DO NOVO CPC - ROL TAXATIVO - Se a decisão agravada não se enquadra nas hipóteses previstas no artigo 1.015 do novo CPC, impossível se torna o conhecimento do recurso, haja vista que o rol das decisões interlocutórias que desafiam agravo de instrumento é taxativo" (e-STJ fl. 650)
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 354 e 1.015, I, II, VII, VIII, XIII, do Código de Processo Civil de 2015.
+Sustenta, em síntese, que
+"a discussão sobre quem detém legitimidade a exercer a substituição processual (espolio ou herdeiros do réu falecido em razão de não ter sido aberto o inventário) é matéria de igual razão aquelas abordada no artigo 1.015, VII, VIII, IX. Pois que igualmente discutem sobre legitimidade de parte.
+(..) Se é agravável a decisão relativa a litisconsórcio e intervenção de terceiros, não há razão para excluir da abrangência recursal do agravo de instrumento a decisão relativa a substituição processual.
+E mais, se é agravável a decisão que analisa mérito não há razão para excluir da abrangência recursal do agravo de instrumento a decisão relativa a definição do critério do cálculo e de transferência dos lançamento dos débitos havidos durante o período da locação para o nome da empresa ré-locatária, liberando a inscrição do nome da terceira.
+Argumenta, ainda, que a questão relativa à fixação do dies a quo da relação locatícia é decorrente da extinção da ação de despejo, portanto passível de agravo de instrumento.
+Requer o provimento do recurso especial para que seja conhecido o agravo de instrumento interposto.
+Sem contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece provimento.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O entendimento jurisprudencial do Superior Tribunal de Justiça é no sentido de que a interpretação do rol constante do art. 1.015 do CPC/2015 deve ser restritiva. Observe-se:
+"PROCESSUAL CIVIL. QUESTÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS TENDO COMO REPRESENTATIVO DA CONTROVÉRSIA O RESP Nº 1.704.250/MT. AFETAÇÃO, CONTUDO, DESPROVIDA DE EFEITO SUSPENSIVO, MODULANDO O DISPOSTO NO INCISO II DO ART. 1.037/CPC. POSSIBILIDADE, ENTÃO, DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL PRESENTE. AGRAVO DE INSTRUMENTO. DESCABIMENTO. ART. 1.015 do CPC/2015. ROL TAXATIVO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA. NÃO HÁ SIMILARIDADE ENTRE OS INSTITUTOS. COMPETÊNCIA DO JUÍZO E REJEIÇÃO DE JUÍZO ARBITRAL PARA A EXTENSÃO PRETENDIDA. OPÇÃO POLÍTICO-LEGISLATIVA DO CONGRESSO NACIONAL.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem que negou seguimento ao Agravo Interno, em segundo grau, que rejeitou Agravo de Instrumento, com base no entendimento de que as matérias concernentes à competência do Juízo e ao indeferimento de produção de prova não estão contidas no rol do art. 1.015 do CPC/2015, sendo, por esse motivo, descabido o manejo do Agravo.
+2. A controvérsia acerca de a decisão interlocutória relacionada à definição de competência desafiar o recurso de Agravo de Instrumento em razão da interpretação extensiva ou analógica do inciso III do art. 1.015 do CPC/2015, foi afetada ao rito do art. 1.036 do Novo CPC (correspondente ao art. 543-C do CPC/73), ou seja, o rito dos recursos repetitivos. A discussão é objeto do ProAfR no REsp 1.704.520/MT, Rel. Min. Nancy Andrighi, Corte Especial, DJe 28/2/2018. Contudo, observa-se no acórdão acima transcrito que a Corte Especial, embora afete o tema ao julgamento pelo rito repetitivo, expressamente decidiu pela NÃO suspensão dos demais processos, modulando os efeitos do inciso II do art. 1.037 do CPC/2015. Assim, apesar de afetado ao rito dos recursos repetitivos, o presente julgamento pode continuar.
+3. Acerca do caso, considera-se que a interpretação do art. 1.015 do Novo CPC deve ser restritiva, para entender que não é possível o alargamento das hipóteses para contemplar situações não previstas taxativamente na lista estabelecida para o cabimento do Agravo de Instrumento. Observa-se que as decisões relativas à competência, temática discutida nos presentes autos, bem como discussões em torno da produção probatória, estão fora do rol taxativo do art. 1.015 do CPC/2015.
+4. Por outro lado, não é a melhor interpretação possível a tentativa de equiparação da hipótese contida no inciso III (rejeição da alegação de convenção de arbitragem) à discussão em torno da competência do juízo.
+5. Recurso Especial não provido.
+(REsp 1.700.308/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/4/2018, DJe 23/5/2018)
+Além disso, importa consignar que esse Corte tem admitido a interpretação extensiva do art. 1.015 do CPC/2015 em situações de urgência. A propósito:
+"Ainda que se compreenda que o rol do art. 1.015, do CPC/2015 seja exemplificativo (ainda não há definição sobre isso), há que ser caracterizada a situação de perigo a fim de se estender a possibilidade do agravo de instrumento para situações outras que não aquelas expressamente descritas em lei" (REsp 1.729.794/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/5/2018, DJe 9/5/2018).
+No presente caso, não se observa situação de urgência ou o risco do perecimento do direito.
+Assim, o agravo de instrumento apresentado na origem não merece conhecimento, pois versa sobre questão relativa a substituição processual, havendo que ser levada a exame em preliminar de apelação, nos termos do art. 1.009, 1º do CPC/2015.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
