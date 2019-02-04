@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - Conselheiro Furtado assim ementado:
+"COMPRA E VENDA DE IMÓVEL. JULGAMENTO PARCIAL DE MÉRITO. INDENIZAÇÃO POR ATRASO. LUCROS CESSANTES. Decisão que julgou parcialmente o mérito, condenando a ré a indenizar lucros cessantes do autor, em 0,5% (meio por cento) do valor de venda do imóvel, atualizado pela Tabela Prática do TJ-SP, por mês de atraso, de dezembro de 2015, já com o prazo de tolerância, até a expedição do "habite-se" (17 de outubro de 2016), com correção monetária desde cada vencimento e juros de m ora de 1% (um por cento) ao mês, da citação. Irresignação da ré. Impugnação apenas quanto à condenação por lucros cessantes e ao quantum indenizatório, não quanto à ocorrência ou ao período da mora. Danos materiais presumidos pelo simples atraso. Precedentes do STJ. Súmula 162 do TJ-SP. Lucros cessantes indenizados. Fixação em 0,5% (meio por cento) do valor atualizado do imóvel, por cada mês de mora. Cláusula penal contratual que prevê esse percentual, para m ora da vendedora. Não comprovação de valor diverso da média de aluguéis do estado de São Paulo, alegado pela agravante com base em reportagem jornalística. Decisão mantida. Recurso desprovido" (fl. 219 e-STJ)
+A recorrente alega violação dos artigos 389, 393, 402 e 403 do Código Civil, sob o argumento de que diante da ocorrência de caso fortuito e de força maior - o que por si só já a isentaria da responsabilidade por indenizar por eventuais prejuízos da parte autora -, inexistiria conduta ilícita de sua parte e, por conseguinte, não haveria nexo de causalidade entre os danos alegados e os supostos prejuízos.
+Contrarrazões foram apresentadas (fl. 240 e-STJ).
+É o relatório.
+DECIDO.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Observa-se que a pretensão da ora recorrente parte da premissa de que ocorreu, na hipótese, caso fortuito ou de força maior que afastariam a caracterização de conduta ilícita indenizável.
+No entanto, a Corte local não analisou a controvérsia sob esse aspecto, ficando configurada a falta de prequestionamento que enseja a aplicação da Súmula nº 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Na origem, com o reconhecimento da sucumbência recíproca, a parte ré acabou condenada ao pagamento de honorários fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
