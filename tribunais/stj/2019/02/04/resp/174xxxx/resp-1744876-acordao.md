@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. RECURSO ESPECIAL. FUNDAMENTO INATACADO. RAZÕES GENÉRICAS. SÚMULAS 283 E 284/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. O Tribunal de origem decretou a extinção da Execução Fiscal com base nos seguintes fundamentos (fl. 126, e-STJ): a) é inexigível a multa administrativa contra empresa que teve a Falência decretada em 30.5.2005, no regime do Decreto-Lei 7.661/1945; b) a extensão, em 23.3.2006 (ou seja, já na vigência da Lei 11.101/2005), dos efeitos da decretação falimentar a outras empresas integrantes do mesmo grupo econômico (entre as quais a recorrida), mediante desconsideração das respectivas personalidades jurídicas, não modifica o termo legal da Falência, que "é o mesmo da empresa Têxtil Braslinho S/A"; e c) incumbe ao Juízo Falimentar a definição do regime pelo qual a falência será processada, descabendo qualquer providência, a esse respeito, ao Juízo da Execução Fiscal".
+3. A recorrente se limita a, genericamente invocar a aplicação do art. 192, § 4º, da Lei 11.101/2005, sem impugnar o fundamento de que o juízo da Execução Fiscal não detém competência para reapreciar matéria afeta ao Juízo Falimentar (ou seja, a eficácia ex tunc da extensão da decretação da Falência às demais empresas integrantes do grupo econômico). Aplicação das Súmulas 283 e 284/STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+ADMINISTRATIVO - EMBARGOS À EXECUÇÃO FISCAL - MULTA ADMINISTRATIVA - MASSA FALIDA - EXTINÇÃO - LEI Nº 7.661/45 - HONORÁRIOS - RECURSO DESPROVIDO.
+A recorrente alega violação do art. 535 do CPC/1973, do art. 23, parágrafo unico, III, do Decreto-Lei 7.661/1945 e do art. 192, § 4º, da Lei 11.101/2005.
+Foram apresentadas as contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 3 de setembro de 2018.
+O Tribunal de origem decretou a extinção da Execução Fiscal com base nos seguintes fundamentos (fl. 126, e-STJ): a) é inexigível a multa administrativa contra empresa que teve a Falência decretada em 30.5.2005, no regime do Decreto-Lei 7.661/1945; b) a extensão, em 23.3.2006 (ou seja, já na vigência da Lei 11.101/2005), dos efeitos da decretação falimentar a outras empresas integrantes do mesmo grupo econômico, mediante desconsideração das respectivas personalidades jurídicas, não modifica o termo legal da Falência, que "é o mesmo da empresa Têxtil Braslinho S/A"; e c) incumbe ao Juízo Falimentar a definição do regime pelo qual a falência será processada, descabendo qualquer providência, a esse respeito, ao Juízo da Execução Fiscal".
+Constato que não se configurou a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal regional não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Confira-se:
+AGRAVO REGIMENTAL. ALEGADA OFENSA AOS ARTIGOS 273, 458, II, 473, 535, II DO CÓDIGO DE PROCESSO CIVIL E 11 DA LEI N. 8692/93. SÚMULAS 05 E 07 DO STJ. EM VIRTUDE DA FALTA DE ARGUMENTOS CAPAZES DE PROVOCAR UM JUÍZO DE RETRATAÇÃO, RESTA MANTIDA A DECISÃO ANTERIOR.
+I - Os embargos de declaração são recurso de natureza particular, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição ou omissão.
+II - O simples descontentamento dos embargantes com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não, em regra, à sua modificação, só muito excepcionalmente admitida.
+(..)
+VI - Agravo improvido (AgRg nos EDcl no Ag 975.503/MS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 11/09/2008).
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte recorrida examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, o recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a recorrente se limita a, genericamente invocar a aplicação do art. 192, § 4º, da Lei 11.101/2005, sem impugnar o fundamento de que o juízo da Execução Fiscal não detém competência para reapreciar matéria afeta ao Juízo Falimentar (ou seja, a eficácia ex tunc da extensão da decretação da Falência às demais empresas integrantes do grupo econômico). Aplicação das Súmulas 283 e 284/STF.
+Com essas considerações, conheço parcialmente do Recurso Especial para, nessa parte, negar-lhe provimento.
+É como voto.
