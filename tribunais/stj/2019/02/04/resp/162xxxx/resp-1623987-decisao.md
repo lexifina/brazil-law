@@ -1,0 +1,20 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por COMPANHIA PARANAENSE DE ENERGIA, com fundamento na alínea "a" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal de Justiça do Estado do Paraná, cuja ementa está assim redigida:
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - AGRAVO RETIDO - INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DA PROVA PERICIAL - CERCEAMENTO DE DEFESA- NÃO CONFIGURAÇÃO- AGRAVO RETIDO CONHECIDO E DESPROVIDO. APELAÇÃO CÍVEL 1 - MANIFESTAÇÃO ACERCA DA INVERSÃO DO ÔNUS DA PROVA - DESNECESSIDADE - NULIDADE DA PROVA PERICIAL - NÃO CONFIGURAÇÃO - MODO DE APURAÇÃO DO VALOR DA ENERGIA FORNECIDA E CONSUMIDA SEM O DEVIDO REGISTRO - HONORÁRIOS ADVOCATÍCIOS - SENTENÇA PREPONDERANTEMENTE CONDENATÓRIA - VERBA FIXADA DE ACORDO COM A REGRA DO § 3.Q DO ART. 20 DO CPC RECURSO 1 CONHECIDO E DESPROVIDO. RECURSO DE APELAÇÃO CÍVEL 2 - CÁLCULO DA MÉDIA DO CONSUMO A PARTIR DA DATA DA VERIFICAÇÃO DA IRREGULARIDADE- HONORÁRIOS ADVOCATÍCIOS - SENTENÇA PREPONDERANTEMENTE CONDENATÓRIA - VERBA FIXADA DE ACORDO COM A REGRA DO § 3.2 DO ART. 20 DO CPC - INTERPRETAÇÃO E APLICAÇÃO DOS ARTS. 54 E 22 DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO ART. 72, IV, B DA RESOLUÇÃO 456/2000 DA ANEEL. - RECURSO 2 CONHECIDO E PARCIALMENTE PROVIDO.
+É o sucinto relatório.
+Decido.
+Nos termos do art. 9º, caput, do RISTJ, a competência dos órgãos integrantes do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Compulsando os autos, verifica-se que a controvérsia central gira em torno da recuperação de valores relativos à utilização de energia elétrica em decorrência de irregularidades em medidor de energia, discutindo-se notadamente a aplicação das regras editadas pela ANEEL.
+Já à fl. 500 e-STJ, o recurso especial explicita:
+Trata-se de Ação Declaratória de Inexistência de Débito ajuizada com o objetivo de que seja declarada a inexigibilidade do débito apurado em razão de verificação de procedimento irregular no equipamento de medição de energia elétrica, que foi unilateralmente produzido pela COPEL, no valor histórico de R$ 7.688,88 (sete mil, seiscentos e oitenta e oito reais e oitenta e oito centavos), com pedido liminar de proibição de corte e/ou suspensão do fornecimento de energia elétrica.
+A matéria é, pois, de competência da Primeira Seção, conforme o disposto no artigo 9º, § 1º, inciso X, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA INTERNA. PRIMEIRA E QUARTA TURMAS DESTE E. STJ. SERVIÇO DE FORNECIMENTO DE ÁGUA. PREÇO PÚBLICO. TARIFA. ART. 9º, § 1º, INCISO X, DO RISTJ. COMPETÊNCIA DA E. PRIMEIRA SEÇÃO.
+I - Compete à e. Primeira Seção desta c. Corte Superior processar e julgar recurso especial cuja relação jurídica litigiosa versa sobre preço público (art. 9º, § 1º, inciso X, do RISTJ).
+II - Na espécie, cuida-se, originariamente, de ação ordinária proposta por particular contra a Companhia Estadual de Águas e Esgotos - CEDAE - , na qual se pleiteia a nulidade da cobrança de preço público, na modalidade de tarifa, afirmada ilegal e abusiva, bem como o restabelecimento do serviço de água no domícilio da demandante.
+III - Precedentes aplicáveis: CC 43324/RJ, Corte Especial, Rel. Min. Peçanha Martins, DJ de 5/2/2007; AgRg no REsp 985.522/RS, 1ª Turma, Rel. Min. Luiz Fux, DJe de 19/2/2009; AgRg no Ag 1084537/RJ, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 18/2/2009; AgRg no Ag 1004001/RJ, 1ª Turma, Rel. Min. Denise Arruda, DJe de 11/2/2009; REsp 1062975/RS, 2ª Turma, Rel. Min. Eliana Calmon, DJe de 29/10/2008; AgRg no REsp 1081718/RJ, 1ª Turma, Rel. Min. Francisco Falcão, DJe 29/10/2008; AgRg no REsp 1027844/RJ, 1ª Turma, Rel. Min. José Delgado, DJe de 23/6/2008; REsp 595.119/RJ, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ 5/3/2007.
+Conflito conhecido para se declarar a competência da e. Primeira Seção.
+(CC 102.588/RJ, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 01/04/2009, DJe 20/04/2009)
+Diante do exposto, declino da competência para uma das Colendas Turmas que integram a 1ª Seção desta Corte.
+Publique-se.
