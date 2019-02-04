@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], contra acórdão assim ementado:
+EMENTA: AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA. CONVERSÃO DE OFÍCIO DA AÇÃO DE EXECUÇÃO EM AÇÃO DE COBRANÇA APÓS A FORMAÇÃO DO CONTRADITÓRIO - IMPOSSIBILIDADE. ESTABILIZAÇÃO DA LIDE. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. AUSÊNCIA DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO. EXECUÇÃO EXTINTA SEM RESOLUÇÃO DO MÉRITO. AGRAVO REGIMENTAL CONHECIDO E NÃO PROVIDO. MONOCRÁTICA MANTIDA.
+1. Trata-se de insurgência contra decisão interlocutória que converteu a ação de execução em o ação de cobrança após a formação do contraditório e sem que houvesse solicitação de qualquer das partes.
+2. A parte agravada entrou com uma ação de execução cumulada com pedido de indenização por danos morais. E, após a formação do contraditório, a juíza entendeu pela conversão da o ação de execução em ação de cobrança.
+3. Pela dicção do artigo 264 do Código de Processo Civil, feita a citação, é defeso ao autor modificar o pedido ou a causa de pedir, sem o consentimento do réu, mantendo-se as mesmas partes, salvo as substituições permitidas em lei, descabendo a pretensão de conversão da ação executiva em ação de cobrança sem que tenha sido solicitada pela parte autora e consentida pela parte requerida. Outrossim, a causa de pedir não pode ser modificada após a estabilização o da lide (art. 264 do CPC), sob pena de violar o princípio da demanda (art. 128 do CPC).
+4. Diante da impossibilidade de conversão da ação de execução em ação ordinária, após a citação, sem anuência da parte requerida, deve-se acolher a exceção de pré-executividade e extinguir o processo de execução por ofensa ao artigo 586 do Código de Processo Civil, por ausência de certeza, liquidez e exigibilidade da obrigação.
+5. A falta de certeza, liquidez e exigibilidade da obrigação representada no título executivo as inviabiliza o prosseguimento da execução, por ser nula, com fundamento no artigo 618, inciso I, do Código de Processo Civil.
+6. Ação de Execução nº 0186993-87.2015.8.06.0001 extinta sem resolução do mérito, com fundamento nos artigos 267, inciso IV, c/c 618, inciso I, ambos do Código de Processo Civil.
+7. Agravo regimental conhecido e não provido. Decisão Monocrática mantida.
+Nas razões de recurso especial, alega a ora recorrente, em suma, divergência jurisprudencial e violação aos artigos 585, II, do Código de Processo Civil de 2015; 279, 283, 346, 831, § único, 832 e 833 do Código Civil.
+Sustenta o preenchimento dos requisitos legais para formação do título executivo extrajudicial apresentado nos autos.
+Defende não se tratar de contrato de abertura de crédito, mas de contrato de fiança inserido em contrato de financiamento bancário fixo, perfazendo assim título executivo extrajudicial, não se plicando, ao caso dos autos, o teor das Súmulas 233 e 258 do STJ.
+Aduz a nulidade processual por ausência de decisão acerca dos embargos de declaração opostos.
+Apresentadas contrarrazões (e-STJ fls. 542 - 554), pugnando o não provimento do recurso.
+O recurso foi admitido na origem, nos termos da decisão de fls. 563 - 565, e-STJ.
+Assim posta a questão, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Conforme informado pela parte agravante, bem como, em vista da certidão de fl. 317, e-STJ, houve a interposição de embargos declaração na origem. Não é possível, todavia, visualizar nos autos a petição dos referidos embargos, e a correlata decisão, estando presentes apenas os embargos opostos pela parte agravada.
+ Com o fito de evitar o prosseguimento do processo, possivelmente eivado de nulidade, e ainda, com vistas a compor adequadamente os elementos necessários para análise de eventual e remanescente pretensão recursal, chamo o feito à ordem e determino o retorno dos autos à origem, para que proceda ao julgamento dos embargos de declaração em comento, ou esclareça se há algum erro material quanto à certidão de fl. 317, e-STJ.
+Acaso se constate a efetiva ausência de decisão nos embargos de declaração, declaro nulas as decisões de admissibilidade dos recursos especiais interpostos, devendo o feito reassumir a correta marcha processual, oportunizando às partes, após a decisão dos embargos, a reabertura de prazo processual para interposição dos recursos cabíveis, em subsistindo eventual interesse.
+Intimem-se.
