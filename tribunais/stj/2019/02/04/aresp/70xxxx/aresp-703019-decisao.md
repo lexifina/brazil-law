@@ -1,0 +1,16 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. O PAGAMENTO DOS CRÉDITOS DE CONTRIBUINTE DO EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA EM AÇÕES PREFERENCIAIS NOMINATIVAS É PERMITIDO DESDE QUE HAJA AUTORIZAÇÃO DA ASSEMBLEIA GERAL. JULGADO PARADIGMA REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC): RESP 1.003.955/RS, REL. MIN. ELIANA CALMON, DJE 27.11.2009. O TRIBUNAL DE ORIGEM CONSIGNOU QUE NÃO SUBSISTE PROVA DE AUTORIZAÇÃO ASSEMBLEAR PARA A CONVERSÃO DOS CRÉDITOS EXEQUENDOS PRINCIPAIS EM AÇÕES. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL DAS CENTRAIS ELÉTRICAS BRASILEIRAS S.A.
+1. Trata-se de Agravo contra decisão que inadmitiu Recurso Especial interposto por CENTRAIS ELÉTRICAS BRASILEIRAS S.A., com fundamento nas alíneas a e c do permissivo constitucional, em adversidade ao acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada (fls. 413).
+2. Nas razões do Apelo Especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 4o., § 9o. da Lei 4.156/1962 e 3o. do Decreto-Lei 1.512/1976. Sustenta, em síntese, que o pagamento mediante ações independe da anuência do credor. Ademais, as Assembleias Gerais ocorridas não apenas autorizaram a antecipação da conversão do crédito em ações como também realizaram referidas capitalizações.
+3. Sem contrarrazões, o recurso foi inadmitido na origem (fls. 451/452).
+4. É o relatório.
+5. A Primeira Seção desta Corte Superior firmou entendimento segundo o qual é permitida a conversão em ações dos valores devidos pela Eletrobras em razão de Empréstimo Compulsório sobre energia elétrica. No entanto, somente revela-se cabível quando há autorização específica da sua Assembleia Geral. Confira-se o seguinte julgado, proferido sob o rito do art. 543-C do CPC/1973:
+TRIBUTÁRIO E ADMINISTRATIVO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. DECRETO-LEI 1.512/76 E LEGISLAÇÃO CORRELATA. RECURSO ESPECIAL: JUÍZO DE ADMISSIBILIDADE. INTERVENÇÃO DE TERCEIRO NA QUALIDADE DE AMICUS CURIAE. PRESCRIÇÃO: PRAZO E TERMO A QUO. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. JUROS MORATÓRIOS. TAXA SELIC.
+(..)
+4. JUROS REMUNERATÓRIOS SOBRE A DIFERENÇA DA CORREÇÃO MONETÁRIA: São devidos juros remuneratórios de 6% ao ano (art. 2o. do Decreto-lei 1.512/76) sobre a diferença de correção monetária (incluindo-se os expurgos inflacionários) incidente sobre o principal (apurada da data do recolhimento até 31/12 do mesmo ano). Cabível o pagamento dessas diferenças à parte autora em dinheiro ou na forma de participação acionária (ações preferenciais nominativas), a critério da ELETROBRAS, tal qual ocorreu em relação ao principal, nos termos do Decreto-lei 1.512/76.
+(..) (REsp. 1.003.955/RS, Rel. Min. ELIANA CALMON, DJe 27.11.2009).
+6. Ocorre que a Corte de origem consignou que, no caso dos autos, a ELETROBRAS não apresentou comprovante de tal contemporaneidade da AGE de conversão. Dessa forma, rever tal posicionamento esbarra no óbice da incidência da Súmula 7 do STJ.
+7. Diante do exposto, conhece-se do Agravo das CENTRAIS ELÉTRICAS BRASILEIRAS S.A., para negar seguimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
