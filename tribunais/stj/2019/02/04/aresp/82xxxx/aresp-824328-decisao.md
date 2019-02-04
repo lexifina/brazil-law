@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado na alínea "a"  do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 781):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. REAJUSTE DE 28,86%. FASE DE EXECUÇÃO. AÇÃO COLETIVA. LIMITAÇÃO DE LITISCONSORTES: IMPOSSIBILIDADE. QUESTÃO QUE DEVE SER DECIDIDA NOS AUTOS QUE ORIGINARAM O TÍTULO EXEQUENDO. PRECLUSÃO. RECURSO IMPROVIDO.
+1. Este Tribunal Regional Federal decretou a nulidade ab initio do processo, a fim de que o feito fosse processado nos termos do procedimento adequado, assentando que "o Sindicato autor propôs a presente ação com base em título executivo judicial obtido no mandado de segurança coletivo 93.0037788-4".
+2. A regra da limitação dos litisconsortes, nos termos do artigo 46, parágrafo único, do CPC não se aplica às ações coletivas, pois o autor é um só - na hipótese em tela, o sindicato/agravado. Precedente.
+3. Ainda que admitida a possibilidade de desmembramento, em razão das dificuldades na execução do julgado da ação coletiva, tal questão deveria ter sido deduzida no mandado de segurança que originou o título judicial exequendo.
+4. Não tendo sido arguida oportunamente, a questão encontra-se preclusa. Precedente.
+5. Agravo legal improvido.
+No especial obstaculizado, a parte recorrente apontou violação do art. 46 do CPC/1973. Sustenta, em síntese, que, diante do elevado número de substituídos, seria salutar o desmembramento do polo ativo pelo sindicato, limitando-se a quantidade de substituídos para 10 ou 15 servidores.
+ Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 7 do STJ (e-STJ fls. 808/809).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Sem contraminuta.
+ Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, nos termos do enunciado da Súmula 7 do Superior Tribunal. Nesse sentido:
+PROCESSUAL CIVIL. SINDICATO. EXECUÇÃO. 3,17%. ART. 46, PARÁGRAFO ÚNICO, DO CPC. LITISCONSÓRCIO ATIVO FACULTATIVO. NÚMERO DE DEMANDANTES QUE NÃO COMPROMETE A RÁPIDA SOLUÇÃO DO LITÍGIO NEM DIFICULTA A DEFESA. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Com efeito, a possibilidade de limitação do litisconsórcio facultativo está prevista no parágrafo único do art. 46 do Código de Processo Civil, podendo ser determinada de ofício pelo juiz, nos casos em que verificar prejuízo para a rápida solução do litígio, ou requerida pelo réu quando a pluralidade de autores constituir óbice ao exercício dos direitos inerentes ao processo.
+2. Hipótese em que o Tribunal a quo consignou que "se a execução se dá por simples cálculo aritmético referente a atualização dos cálculos elaborados pela UFRJ, não se vislumbra, pois, comprometimento à celeridade processual, sendo admissível o litisconsórcio facultativo, tendo em vista os contornos do caso concreto. É que, apresentando-se razoável o litisconsórcio, na hipótese, em número de 5 autores, com identidade de fato e de direito, sem provocar embaraço à celeridade processual não há falar em limitação do litisconsórcio com desmembramento do feito" (fl. 164, e-STJ).
+3. Para entender que a pluralidade de litigantes compromete a rápida solução da demanda, necessário incursionar na seara fático-probatória, o que é vedado na via estreita do Recurso Especial, consoante enuncia a Súmula 7/STJ.
+ 4. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido (REsp 1.651.921/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/3/2017, DJe 18/4/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ART. 46, PARÁGRAFO ÚNICO, DO CPC. LITISCONSÓRCIO ATIVO FACULTATIVO. LIMITAÇÃO. POSSIBILIDADE. PODER DO JUIZ. SÚMULA 07/STJ. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+ I. O art. 46, parágrafo único, do CPC, admite a possibilidade de o juiz limitar o número de litigantes e determinar o desmembramento quanto aos demais, quando a pluralidade de litigantes comprometer a rápida solução do litígio ou dificultar a defesa.
+II. O entendimento jurisprudencial do STJ é firme no sentido de que a análise quanto aos requisitos que conduziram ao desmembramento do feito demanda o reexame de matéria fática, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+III. Agravo Regimental improvido (AgRg no AgRg no REsp 1.455.005/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 24/2/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
