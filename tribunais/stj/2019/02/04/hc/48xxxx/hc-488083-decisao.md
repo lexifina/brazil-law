@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial e com pedido de liminar impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação n. 0009606-77.2017.8.12.0800.
+O paciente foi condenado às penas de 2 anos e 10 meses de reclusão no regime fechado e de 9 dias-multa, pela prática do delito previsto no art. 157, caput, c/c o art. 14, II, do Código Penal, porque "tentou subtrair, para si, com violência a pessoa, consistente em agressões físicas, 01 aparelho de telefone de celular, da marca Samsung, modelo 15, pertencente à vítima [NOME], não conseguindo seu intento por circunstâncias alheias a sua vontade" (fl. 237).
+Em apelação, foi negado provimento ao recurso defensivo (fls. 235-246).
+Requer a defesa, liminarmente e no mérito, a fixação do regime inicial semiaberto para o cumprimento da pena, nos termos das Súmulas n. 269 e 440 do STJ.
+É o relatório. Decido.
+Conforme a orientação jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça, é inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, ressalvando-se casos de flagrante ilegalidade em que seja recomendável conceder, de ofício, a ordem (HC n. 472.649/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/10/2018; AgRg no HC n. 436.958/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/3/2018; HC n. 467.738/RJ, relator Ministro Felix Fischer, Quinta Turma, DJe de 26/10/2018).
+O Juízo de primeiro grau, ao fixar o regime prisional, destacou a presença de circunstância judicial desfavorável (culpabilidade), bem como a reincidência específica do paciente, nos seguintes termos (fl. 154):
+A despeito da pena ser inferior a 8 (oito) anos, denoto que o réu é reincidente, aliás reincidente específico em delito de roubo, além de ter registrado elevada culpabilidade no cometimento do crime, motivos pelos quais estabeleço o regime inicial fechado para o cumprimento da pena, nos termos do artigo 33, § 3o do CP, não sendo caso, ao meu sentir, justamente por ditas circunstâncias, da aplicação do disposto na Súmula 269 do STJ.
+O Tribunal de origem manteve o regime prisional mais gravoso, assim se manifestando (fl. 245):
+Em que pese o quantum de pena privativa fixada ao acusado, as circunstâncias judiciais do art. 59 do Código Penal são desabonadoras, tendo em vista a manutenção da negativação da culpabilidade, e, ademais, o apelante ostenta reincidência, razão pela qual, desatendidos os requisitos, inviável o cumprimento da pena em regime inicial que não seja o fechado.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência, pois, a despeito de a pena privativa de liberdade ser inferior a 4 anos de reclusão, o paciente é reincidente e há circunstância judicial desfavorável (culpabilidade).
+Ressalto que, "em interpretação contrario sensu da Súmula 269 desta Corte, mostra-se descabida a alegação de desproporcionalidade na imposição do meio prisional mais severo, pois, nada obstante ser a pena total do réu inferior a 4 anos de reclusão, as circunstâncias judiciais negativas e a sua reincidência indicam a necessidade de imposição do regime fechado" (HC n. 440.779/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 25/4/2018).
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações ao Tribunal de origem.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
