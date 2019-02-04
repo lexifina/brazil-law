@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. LEIS ESTADUAIS. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O Tribunal de origem, ao dirimir a controvérsia, concluiu que "O servidor público que, no exercício de cargo de provimento em comissão por um período inferior a 10 (dez) anos, mas superior a 4 (quatro) anos, dele for afastado sem ser a pedido ou por penalidade, ou se aposentar, fica assegurado o direito, a título de vantagem pecuniária, por ano de exercício, a 1/10 (um décimo) da diferença entre o vencimento do cargo de provimento em comissão e o do cargo efetivo ocupado, que será somado ao vencimento do cargo efetivo, consoante o que dispunha o artigo 1o, §1º, da Lei Estadual 9.532/1987, posteriormente revogada pela Lei Estadual 14.683/2003".
+3. O exame da controvérsia, como enfrentado pelas instâncias ordinárias, exige análise de dispositivos de legislação local (Leis Estaduais 9.532/1987 e 14.683/2003), pretensão insuscetível de ser apreciada em Recurso Especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. SERVIDOR DO ESTADO DE MINAS GERAIS. APOSTILAMENTO PROPORCIONAL. DIFERENÇA ENTRE O VENCIMENTO DO CARGO COMISSIONADO E O CARGO EFETIVO, E NÃO REMUNERAÇÃO. LEI ESTADUAL 9.532/1987. GRATIFICAÇÃO POR ESTÍMULO À PRODUÇÃO INDIVIDUAL (GEPI). NÃO INCORPORAÇÃO À APOSTILA. SENTENÇA MANTIDA.
+- O servidor público que, no exercício de cargo de provimento em comissão por um período inferior a 10 (dez) anos, mas superior a 4 (quatro) anos, dele for afastado sem ser a pedido ou por penalidade, ou se aposentar, fica assegurado o direito, a título de vantagem pecuniária, por ano de exercício, a 1/10 (um décimo) da diferença entre o vencimento do cargo de provimento em comissão e o do cargo efetivo ocupado, que será somado ao vencimento do cargo efetivo, consoante o que dispunha o artigo 1º, §1º, da Lei Estadual 9.532/1987, posteriormente revogada pela Lei Estadual 14.683/2003.
+- A Gratificação por Estímulo à Produção Individual (GEPI), por se tratar de parcela que integra a remuneração, e não o vencimento do cargo, não integra a apostila proporcional, que é devida com base na diferença do vencimento (e não da remuneração) entre o cargo comissionado e o efetivo ocupado.
+Os Embargos de Declaração foram rejeitados.
+A recorrente alega violação do art. 1.022 do CPC/2015 e 4º do Decreto-Lei 4.657/1942. Afirma que faz jus às parcelas relativas ao apostilamento proporcional, levando-se em conta a diferença entre a remuneração do cargo comissionado anteriormente ocupado e a do cargo efetivo.
+Contrarrazões 294-297.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.8.2018.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Confira-se:
+AGRAVO REGIMENTAL. ALEGADA OFENSA AOS ARTIGOS 273, 458, II, 473, 535, II DO CÓDIGO DE PROCESSO CIVIL E 11 DA LEI N. 8692/93. SÚMULAS 05 E 07 DO STJ. EM VIRTUDE DA FALTA DE ARGUMENTOS CAPAZES DE PROVOCAR UM JUÍZO DE RETRATAÇÃO, RESTA MANTIDA A DECISÃO ANTERIOR.
+I - Os embargos de declaração são recurso de natureza particular, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição ou omissão.
+II - O simples descontentamento dos embargantes com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não, em regra, à sua modificação, só muito excepcionalmente admitida.
+(..)
+VI - Agravo improvido (AgRg nos EDcl no Ag 975.503/MS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 11/09/2008).
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, melhor sorte não assiste à parte insurgente.
+A controvérsia em exame remete à análise de direito local (Leis estaduais 9.532/1987 e 14.683/2003), revelando-se incabível a via recursal especial para rediscussão da matéria, ante a incidência da Súmula 280 do STF, cujo entendimento segue corroborado pelo precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AGENTE COMUNITÁRIO DE SAÚDE. SUBMISSÃO A PROCESSO SELETIVO. ADEQUAÇÃO AOS TERMOS DA EMENDA CONSTITUCIONAL N. 51/2006. REGULAMENTAÇÃO PELA LEI N. 11.350/2006. PROCESSO ADMINISTRATIVO EIVADO DE IRREGULARIDADES. CONTRARIEDADE AOS DITAMES CONSTITUCIONAIS. REINTEGRAÇÃO AO CARGO. MEDIDA PRUDENTE. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. MATÉRIA ANALISADA PELA CORTE DE ORIGEM COM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE APRECIAÇÃO.
+1. Não merece prosperar irresignação sobre a qual, para aferir a procedência, seria necessária a interpretação de norma local.
+2. Na espécie, afirma o recorrente que a existência da Lei Municipal 9.584/01, a qual disciplina as relações com os agentes comunitários de saúde municipais, afasta a aplicação das normas da Consolidação das Leis do Trabalho, devendo ser observado também, que "a Lei Federal n.º 11.350/06 em nada contradiz o que estabelece a Lei Municipal acima mencionada, nem tampouco desautoriza a sua aplicação".
+3. Eventual violação de lei federal seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação de dispositivos da Lei 9.584/01, não cabendo, portanto, o exame da questão em recurso especial.
+4. O exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+5. Além disso, a matéria foi dirimida no âmbito constitucional, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde da controvérsia.
+Agravo regimental improvido.
+(AgRg no AREsp 487.667/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/05/2014, DJe 19/05/2014, destaquei).
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, desprovejo-o.
+É como voto.
