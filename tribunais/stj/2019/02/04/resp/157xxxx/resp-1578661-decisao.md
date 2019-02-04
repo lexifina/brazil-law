@@ -1,0 +1,29 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. PENSÃO ESPECIAL DE EX-COMBATENTE. REVERSÃO. REQUISITOS PREVISTOS NO ART. 30 DA LEI 4.242/1963. NECESSIDADE DE ANÁLISE. DIVERGÊNCIA JURISPRUDENCIAL. ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA 284/STF. INCIDÊNCIA, POR ANALOGIA. RECURSO ESPECIAL DO PARTICULAR A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO OCUPANTE DE CARGO DE NÍVEL MÉDIO. EXERCÍCIO DE ATIVIDADES TÍPICAS DE CARGO DE NÍVEL SUPERIOR. LEI 10.667/2003, ART. 6o. LEI 10.855/2004, ART. 5o. EXERCÍCIO DE FUNÇÃO DE CONFIANÇA. DESVIO DE FUNÇÃO NÃO CONFIGURADO. HONORÁRIOS DE SUCUMBÊNCIA.
+Segundo as normas de regência, cumpre ao servidor ocupante de cargo de nível médio prestar apoio ao ocupante de cargo de nível superior, o que impõe, necessariamente, uma certa zona de convergência entre esses dois cargos.
+Para que ocorra desvio de função apto a gerar indenização, é necessária a existência de ato formal da Administração designando o servidor para exercício em cargo diverso do seu, sob pena de instalar-se verdadeiro caos na Administração Pública ou que, pelo menos, fique caracterizado abuso da Administração em prejuízo do servidor, o que não é o caso dos autos.
+A percepção de função gratificada para exercício do cargo de chefe do setor em que o servidor atua descaracteriza eventual desvio de função. Precedentes.
+Quanto à fixação da verba honorária, é pacífico o entendimento da 2ª Seção deste Tribunal, no sentido que dita verba deve ser fixada em 10% sobre o valor da causa ou da condenação, sendo que a regra em referência somente não é aplicável no caso em que resultar valor exorbitante ou ínfimo, o que não é o caso dos autos (fls. 584).
+2. Nas razões de seu Apelo Nobre, a parte recorrente alega, além de divergência jurisprudencial, violação dos arts. 30 da Lei 4.242/1963; 26, 7o. da Lei 3.765/1960, aduzindo, em suma, que o Tribunal de origem decidiu equivocadamente a respeito da reversão da pensão, uma vez que as leis vigentes à época do falecimento do instituidor da pensão eram as Leis 4.242/1963 e 3.765/1960.
+3. Aos Embargos de Declaração opostos (237/242) foi negado provimento por unanimidade (fls. 244/250).
+4. É o relatório.
+5. Cuida-se, na origem, de Ação Ordinária ajuizada contra a União, na qual se objetiva a concessão de pensão (reversão) decorrente do reconhecimento da condição de dependente de ex-combatente.
+6. No mérito, o Tribunal de origem assim consignou:
+O pai da autora faleceu em 15.12.1960 (fl. 22). Nesta data vigorava para a análise do recebimento do benefício a Lei 3.765/1960, aplicada ao caso, porquanto dado o tratamento de ex-combatente, deve ser observada a lei aplicável ao militar, que previa o seguinte para os benefícios de pensão por morte de militar.
+(..).
+Quando do falecimento do genitor da autora, sua mãe ainda estava viva, vindo a falecer somente em 16.9.1974 (fl. 21). De acordo com a norma a pensão por morte era devida pela ordem à viúva, não prevendo a repartição em cotas pensão entre a viúva e os filhos.
+Sendo assim, à época do óbito do ex-combatente, a beneficiária de sua pensão era exclusivamente sua mulher, e com o óbito desta não houve reversão do seu direito para a filha, qual seja a autora da ação.
+(..).
+Não há amparo legal para a reversão da cota-parte da viúva em favor da filha do ex-combatente. Isso porque o legislador ordinário, expressamente, vedou a transferência do direito à pensão entre os dependentes, consoante leitura do art. 14 da Lei 8.059/1990 (g.n.) (fls. 194/195).
+7. É firme o entendimento desta Corte de que o direito à reversão da pensão rege-se pela lei vigente à data do óbito do instituidor do benefício.
+8. No caso concreto, o Tribunal de origem atestou que o óbito do instituidor da pensão especial se deu em 15.12.1960 (fls. 194); portanto, a controvérsia deve ser examinada à luz das Leis 4.242/1963 e 3.765/1960.
+9. Os requisitos estabelecidos pelo artigo 30 da Lei 4.242/1963 para a percepção da pensão especial de ex-combatente (encontrar-se incapacitado, sem poder prover os próprios meios de subsistência e não perceber qualquer importância dos cofres públicos) acentuam a natureza assistencial do benefício, devendo, assim, serem preenchidos não apenas pelo ex-combatente mas também por seus dependentes. Precedentes: AgRg no AgRg no AREsp. 59.192/ES, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 18.11.2014; AgRg no Ag 1.429.793/PE, Rel. Min. ARNALDO ESTEVES LIMA, Primeira Turma, DJe 2.8.2012; AgRg no REsp. 1.380.998/PB, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 13.11.2013.
+10. Assim, é imperioso que o Tribunal de origem analise se a parte recorrente preenche os requisitos autorizadores para a reversão da pensão previstos no art. 30 da Lei 4.242/1963.
+11. Ante o exposto, dá-se provimento ao Recurso Especial do Particular, nos termos da fundamentação acima.
+12. Por fim, a divergência jurisprudencial, autorizativa do Recurso Especial interposto com fundamento na alínea c do inciso III do art. 105 da Constituição Federal, requer comprovação e demonstração, mencionando-se e cotejando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas ou votos.
+13. Incidente, no ponto, o óbice, por analogia, da Súmula 284/STF.
+14. Ante o exposto, dá-se provimento ao Recurso Especial do Particular, para determinar ao Tribunal de origem que analise se a parte recorrente preenche os requisitos previstos no art. 30 da Lei 4.242/1963, para efeitos de reversão da pensão.
+15. Publique-se.
+16. Intimações necessárias.
