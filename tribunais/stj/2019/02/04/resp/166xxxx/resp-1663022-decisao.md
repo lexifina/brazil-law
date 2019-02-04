@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra decisão que negou seguimento ao recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Contrato de previdência privada - Ação de obrigação de não fazer com pleito cumulado de restituição de valores previdenciários - Demanda de contribuintes em face de instituição previdenciária e companhia de energia elétrica - Sentença de procedência para dar como indevidos os descontos procedidos pelas rés, condená-las na respectiva devolução e a não mais recolherem tais valores - Parcial reforma do julgado, apenas para reconhecer a incidência da prescrição relativamente aos indevidos descontos anteriores ao decênio legal - Necessidade - Arguição de ilegitimidade processual por parte da empresa ré - Descabimento - Descontos efetuados pela ré "Fundação CESP", com repasse à corré "CTEEP" - Responsabilidade solidária evidenciada - Restituição de contribuições previdenciárias - Relação obrigacional de natureza pessoal - Prescrição decenária do art. 205, do CC/2002 - Incidência - Correto reconhecimento quanto ao indevido desconto dos valores referentes à previdência privada complementar, nas folhas de pagamento dos autores - Obrigação de não fazer consistente em cessarem os descontos, com restituição dos valores deduzidos nos últimos 10 anos - Cabimento.
+Apelos das rés parcialmente providos" (e-STJ fl. 642).
+Nas razões do recurso especial (e-STJ fls. 727-739), os recorrentes alegam, além de divergência jurisprudencial, violação dos artigos 177 do Código Civil/1916, 205 e 2.028 do Código Civil de 2002, os quais estabelecem a prescrição vintenária sobre a restituição de valores descontados indevidamente.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, advindo o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+No tocante à prescrição, a controvérsia posta nos autos cinge-se à restituição de contribuições vertidas a plano de previdência complementar, sob pena de concretização de enriquecimento ilícito.
+Com efeito, não há falar na prescrição aplicada sobre obrigação pessoal, de trato sucessivo, sujeita à prescrição vintenária ou mesmo a decenal, tendo em vista que o pedido inicial, tratou de restituição fundada na alegação de enriquecimento sem causa (arts. 884 e 885 do CC/2002), o que atrai o disposto no artigo 206, § 3º, inciso IV, do Código Civil de 2002.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DE VALORES PAGOS A MAIOR A EX-ASSOCIADO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. RESTITUIÇÃO DOS VALORES FUNDADA EM ENRIQUECIMENTO SEM CAUSA. PRESCRIÇÃO CONFIGURADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INTERRUPÇÃO DO TRANSCURSO DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais - acerca da ausência de cerceamento de defesa; de não ter havido a interrupção do transcurso do prazo prescricional trienal aplicável pela notificação extrajudicial; e de que o aludido prazo escoou completamente - demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+2. Nos termos da jurisprudência desta Corte, tratando-se de pedido de restituição de valores fundado em enriquecimento sem causa, o prazo prescricional aplicável ao presente feito é o disposto no artigo 206, § 3º, inciso IV, do Código Civil de 2002. Súmula 83/STJ.
+3. Pedido de condenação por litigância de má-fé. Não se vislumbra a ocorrência de nenhuma das hipóteses autorizativas previstas no art.
+80 do CPC/2015. Frise-se que não se pode confundir má-fé com a equivocada interpretação do direito. 4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido" (AgInt no AgInt no AREsp 1.000.415/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/10/2017, DJe 30/10/2017).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
