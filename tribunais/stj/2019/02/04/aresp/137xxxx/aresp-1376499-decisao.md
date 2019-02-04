@@ -1,0 +1,29 @@
+DECISÃO
+A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento acerca dos juros remuneratórios, no julgamento dos Temas n. 24 a 27, sob o rito dos recursos especiais repetitivos, conforme o acórdão assim ementado:
+ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+(..). (REsp n. 1.061.530/RS, relatora Ministra Nancy Andrighi, DJe de 10/3/2009.)
+Transcrevo, por oportuno, trecho do mencionado decisum, no qual esta Corte fixou parâmetros a serem seguidos para o reconhecimento da abusividade dos juros remuneratórios, considerando, consoante a jurisprudência deste STJ, que o percentual avençado deve ter como base a taxa média de mercado divulgada pelo Banco Central do Brasil. Confira-se:
+Logo, diante desse panorama sobre o posicionamento atual da 2ª Seção, conclui-se que é admitida a revisão das taxas de juros em situações excepcionais, desde que haja relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) esteja cabalmente demonstrada.
+Necessário tecer, ainda, algumas considerações sobre parâmetros que podem ser utilizados pelo julgador para, diante do caso concreto, perquirir a existência ou não de flagrante abusividade.
+(..).
+Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+(..)
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros. (destaquei)
+Verifica-se, portanto, que o entendimento firmado por este Tribunal Superior é no sentido de que a taxa média de mercado não pode ser exigida como um valor fixo.
+Pela análise preliminar dos autos, ao que parece, o Colegiado estadual decidiu em contrariedade com a orientação consolidada nesta Corte Superior, ao limitar os juros remuneratórios à taxa média de mercado, fundado na irrazoabilidade em se conceder margem de tolerância em relação ao parâmetro de mercado e porque ".. o contrato em exame prevê a cobrança de juros remuneratórios acima da taxa média de juros divulgada pelo BACEN, impositiva se mostra a limitação desse encargo ao referido parâmetro de mercado.(fl. 114), sem ponderar a taxa de juros cobrada e a média de mercado para aferir a abusividade.
+Portanto, faz-se necessária a devolução dos autos à Corte de origem para a observância da sistemática dos recursos repetitivos quanto à realização do procedimento do juízo de retratação, consoante determinam os arts. 1.040 e 1.041 do Código de Processo Civil, in verbis:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1o.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, nos termos do art. 21-E, inciso VIII, do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos ao Tribunal a quo para que se observe a sistemática prevista nos arts. 1.040 e 1.041, do Código de Processo Civil.
+Publique-se. Intimem-se.
