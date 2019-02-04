@@ -1,0 +1,68 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. MPU. CONCURSO DE REMOÇÃO. PRAZO MÍNIMO. NOMEAÇÃO DE NOVOS CONCURSADOS. DIREITO À PREFERÊNCIA DE ESCOLHA NA LOTAÇÃO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A alegação, trazida no Agravo Interno, de que a fixação de critérios para participação do Servidor em concurso de remoção insere-se no âmbito de discricionariedade da Administração, porquanto não foi suscitada por ocasião da interposição do Recurso Especial, constitui indevida inovação recursal, o que é defeso na oportunidade do Agravo Interno. Precedentes: AgInt no AgInt no AREsp. 1.010.735/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.5.2017; AgInt no REsp. 1.530.405/SP, Rel. Min. REGINA HELENA COSTA, DJe 22.5.2017.
+2. No mais, cuida-se, na origem, de Ação Ordinária que discute o direito da autora de participar do concurso de remoção promovido pelo MPU e regido pelo Edital PGR 10/2015.
+3. Verifica-se que o acórdão recorrido está em sintonia com a jurisprudência firmada nesta Corte Superior de que, ao fixar o prazo mínimo de três anos, não há justificativa para preferir a lotação dos novos concursados nas vagas remanescentes ao concurso de remoção, em detrimento dos mais antigos do concurso anterior. Precedente: REsp. 1.678.491/SC, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017.
+4. Agravo Interno da UNIÃO a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela UNIÃO contra a decisão que negou seguimento ao Recurso Especial, nos termos da seguinte ementa:
+PROCESSO CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. O ART. 28 DA LEI 11.415/2006 NÃO POSSUI COMANDO NORMATIVO CAPAZ DE DESCONSTITUIR OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO QUE RECONHECEU A EXISTÊNCIA DE VIOLAÇÃO AO DIREITO DE PREFERÊNCIA DE ESCOLHA DE LOCAL DE LOTAÇÃO SEGUNDO A ANTIGUIDADE, NOS TERMOS PREVISTOS NO EDITAL DO CERTAME. SÚMULA 284 DO STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+2. Essa decisão manteve o entendimento firmado pelo Tribunal de origem, assim ementado:
+ADMINISTRATIVO. MINISTÉRIO PÚBLICO DA UNIÃO. CONCURSO DE REMOÇÃO. PARTICIPAÇÃO. PRAZO DE TRÊS ANOS NA LOTAÇÃO. ART. 28 DA LEI 11.415/2006. VAGAS EXISTENTES. CANDIDATOS APROVADOS EM NOVO CONCURSO. INTERESSE DA ADMINISTRAÇÃO.
+A vedação da participação no concurso de remoção a quem não completou o período mínimo de três anos, acrescida da não abertura de concurso de relotação prévio à nomeação dos aprovados em novo concurso, implica a preterição de servidor mais antigo na escolha de vagas já existentes em localidades de sua preferência, em ofensa ao princípio da proporcionalidade.
+A lei, ao fixar o prazo mínimo de três anos, ressalva a remoção no interesse da administração, não havendo justificativa, a princípio, para preferir a lotação dos novos concursados nas vagas remanescentes ao concurso de remoção, em detrimento dos mais antigos do concurso anterior (fls. 259).
+3. Em suas razões recursais, a parte agravante sustenta que a fixação de critérios para participação do Servidor em concurso de remoção insere-se no âmbito de discricionariedade da Administração, tal como previsto na legislação especifica da carreira.
+4. Desse modo, pugna pela reconsideração da decisão ou a submissão do presente Agravo ao Órgão Colegiado competente.
+5. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. MPU. CONCURSO DE REMOÇÃO. PRAZO MÍNIMO. NOMEAÇÃO DE NOVOS CONCURSADOS. DIREITO À PREFERÊNCIA DE ESCOLHA NA LOTAÇÃO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A alegação, trazida no Agravo Interno, de que a fixação de critérios para participação do Servidor em concurso de remoção insere-se no âmbito de discricionariedade da Administração, porquanto não foi suscitada por ocasião da interposição do Recurso Especial, constitui indevida inovação recursal, o que é defeso na oportunidade do Agravo Interno. Precedentes: AgInt no AgInt no AREsp. 1.010.735/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.5.2017; AgInt no REsp. 1.530.405/SP, Rel. Min. REGINA HELENA COSTA, DJe 22.5.2017.
+2. No mais, cuida-se, na origem, de Ação Ordinária que discute o direito da autora de participar do concurso de remoção promovido pelo MPU e regido pelo Edital PGR 10/2015.
+3. Verifica-se que o acórdão recorrido está em sintonia com a jurisprudência firmada nesta Corte Superior de que, ao fixar o prazo mínimo de três anos, não há justificativa para preferir a lotação dos novos concursados nas vagas remanescentes ao concurso de remoção, em detrimento dos mais antigos do concurso anterior. Precedente: REsp. 1.678.491/SC, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017.
+4. Agravo Interno da UNIÃO a que se nega provimento.
+
+AgInt no RECURSO ESPECIAL Nº 1.669.692 - PR (2017/0101460-1)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+AGRAVANTE
+:
+UNIÃO
+AGRAVADO
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+MARÍLIA AGUIAR FAVARO - [OAB]
+
+RENATA AMORIM LARANJEIRA VILAR - [OAB]
+VOTO
+1. A despeito das alegações trazidas à baila pela parte agravante, a decisão agravada merece ser mantida.
+2. De início, importante salientar que a alegação trazida no Agravo Interno, de que a fixação de critérios para participação do servidor em concurso remoção insere-se no âmbito de discricionariedade da administração, não foi suscitada por ocasião da interposição do Recurso Especial, constituindo-se indevida inovação recursal, o que é defeso na oportunidade do Agravo Interno. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3 DO STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DIFERENÇAS SALARIAIS. CONVERSÃO DO PADRÃO MONETÁRIO. LEI 8.880/1994. PAGAMENTO REALIZADO NO INÍCIO DO MÊS SUBSEQUENTE AO DE REFERÊNCIA. AUSÊNCIA DE PREJUÍZOS. ANÁLISE DO MOMENTO EM QUE, DE FATO, OCORREU O PAGAMENTO DOS SERVIDORES PÚBLICO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚM. 7 DO STJ.
+1. O Superior Tribunal de Justiça consolidou o entendimento segundo o qual a ampla devolutividade do recurso ordinário não pode ser levada ao extremo de permitir-se a livre discussão de temas que não foram objeto da exordial e sequer restaram enfrentados pela Corte de origem, daí porque é vedada a inovação recursal.
+2. No caso dos autos, a análise da data do efetivo pagamento do servidor demanda, necessariamente, novo exame do acervo fático-probatório, esbarrando no óbice da Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no AgInt no AREsp. 1.010.735/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.5.2017).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. LEI 8.880/94. OBSERVÂNCIA OBRIGATÓRIA PELOS ESTADOS. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC. INOVAÇÃO RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte, ao julgar o Recurso Especial n. 1.101.726/SP, submetido ao rito do art. 543-C, firmou entendimento segundo o qual, considerando a competência privativa da União para legislar sobre o sistema monetário, é obrigatória a observância pelos Estados e Municípios dos critérios previstos na Lei Federal 8.880/94, para a conversão em URV dos vencimentos e dos proventos de seus servidores.
+III - A discussão relativa à reestruturação da carreira dos servidores foi apresentada apenas quando da interposição do agravo interno em recurso especial, o que configura inadmissível inovação recursal.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido (AgInt no REsp. 1.530.405/SP, Rel. Min. REGINA HELENA COSTA, DJe 22.5.2017).
+3. No mais, cuida-se, na origem, de Ação Ordinária que discute o direito da autora de participar do concurso de remoção promovido pelo MPU e regido pelo edital PGR 10/2015.
+4. Verifica-se que o acórdão recorrido está em sintonia com a jurisprudência firmada nesta Corte superior. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REMOÇÃO. ARTIGO 28, § 1o., DA LEI 11.415/2006. PERMANÊNCIA MÍNIMA DE TRÊS ANOS. AUSÊNCIA DE PREJUÍZO À ADMINISTRAÇÃO. INADMISSIBILIDADE DA ALEGAÇÃO DE VIOLAÇÃO DAS NORMAS DO EDITAL. SÚMULA 7/STJ.
+1. Versa-se sobre inconformismo contra acórdão do Tribunal de origem, que permitiu à servidora pública do MPU participar de concurso de remoção, independentemente do prazo mínimo de três anos de exercício.
+2. Inicialmente, constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada.
+3. Note-se que a lei, ao fixar o prazo mínimo de três anos, ressalva a remoção no interesse da administração, e, prima facie, não há justificativa para preferir a lotação dos novos concursados nas vagas remanescentes ao concurso de remoção, em detrimento dos mais antigos do concurso anterior. Nesse contexto, é de se possibilitar à recorrida a participação no concurso de remoção quanto às vagas remanescentes, sendo-lhe ofertadas, se atendidos os demais requisitos, as vagas remanescentes na cidade para a qual deseja transferir-se, na linha dos precedentes do STJ (REsp 1.602.135. Ministro Napoleão Nunes Maia Filho. Data da publicação: 5.5.2017; REsp 1.610.216. Ministro Napoleão Nunes Maia filho. Data da publicação: 22.3.2017).
+4. Por fim, quanto às alegações de que o acórdão recorrido não observou as regras do conteúdo do edital, cumpre acrescentar que sua análise importa no revolvimento do acervo fático-probatório contido nos autos, medida vedada na via estreita do Recurso Especial, conforme o teor da Súmula 7/STJ.
+5. Recurso Especial a que se nega provimento (REsp. 1.678.491/SC, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017).
+5. Ante o exposto, nega-se provimento ao Agravo Interno da UNIÃO.
+6. É como voto.
