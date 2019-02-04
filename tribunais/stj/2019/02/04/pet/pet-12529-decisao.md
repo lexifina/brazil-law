@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de tutela provisória requerida por SIMONE DA CUNHA FERREIRA SOARES para a concessão de efeito suspensivo a recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, cujo juízo de admissibilidade ainda não foi realizado na origem.
+A requerente alega que "é possível a concessão diretamente pelo Superior Tribunal de Justiça do efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem quando efetivamente demonstrada, além dos requisitos próprios da tutela de urgência, situação de manifesta ilegalidade ou teratologia" (fl. 21).
+Argumenta que "a decisão proferida viola as normas infraconstitucionais porque no polo passivo figuravam o município, o prefeito e a procuradoria do município e todos foram tempestivamente comunicados sobre a medida proposta, participando de todos os atos do processo" (fl. 22).
+Sustenta que "experimentará prejuízos irreparáveis", uma vez que "é casada, mãe de família e perderá a sua única fonte de renda para sobreviver" (fl. 24).
+É o relatório. Decido.
+Defiro a gratuidade de justiça requerida.
+A competência do Superior Tribunal de Justiça para o exame de requerimentos de atribuição de efeito suspensivo somente se inaugura depois da publicação da decisão de admissibilidade do recurso especial, por força do que dispõe o art. 1.029, § 5º, I, do CPC:
+1.029.  ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO. RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA. COMPETÊNCIA. TRIBUNAL LOCAL. FUMAÇA DO BOM DIREITO. PERIGO DA DEMORA. REQUISITOS NÃO DEMONSTRADOS. 1. Nos termos do artigo o art. 1.029, § 5º, I, do Código de Processo Civil de 2015, com a redação dada pela Lei nº 13.256/2016, o pedido de concessão de efeito suspensivo a recurso especial poderá ser formulado por requerimento dirigido a esta Corte Superior no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, hipótese diversa do caso em exame. 2. No caso em tela, ainda não realizado o juízo de admissibilidade do recurso especial no tribunal de origem. Eventual pedido de atribuição de efeito suspensivo ao apelo nobre deverá, portanto, ser formulado ao presidente ou vice-presidente do tribunal local (art. 1.029, § 5º, do CPC/2015). (..) 4. Agravo interno não provido. (AgInt na TP n. 847/RJ, relator Ministro Ricardo Villas Bôas Cueva, 3ª turma, DJe de 15/06/2018.)
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. RECLAMO PENDENTE DE JUÍZO DE ADMISSIBILIDADE. INCOMPETÊNCIA DO STJ.
+1. Competência do Tribunal de origem para apreciar pedido de tutela provisória referente a recurso especial pendente de admissibilidade, "ex vi" do art. 1.029, § 5º, inciso III, do Código de Processo Civil de 2015. (..) (AgInt na TP n. 1.251/MT, relator Ministro Paulo de Tarso Sanseverino, DJe de 5/3/2018.)
+Na espécie, não foi comprovada a teratologia da decisão recorrida, razão pela qual, não ultrapassado o juízo de admissibilidade do recurso especial na origem, verifica-se a incompetência do STJ para apreciar o pleito da requerente.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do pedido.
+Publique-se. Intimem-se.
