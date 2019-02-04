@@ -1,0 +1,15 @@
+DECISÃO
+1. Trata-se de habeas corpus, com pedido liminar, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC 2272570-39.2018.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito à livre locomoção de ANDRE LUIS DE SOUZA e SERGIO TABORDA DOS REIS.
+Nesta via, o impetrante afirma que a detração penal deveria ter sido efetuada, nos termos do artigo 387 do Código de Processo Penal, para fins de fixação do regime inicial de cumprimento das penas.
+Sustenta que se estaria diante de flagrante ilegalidade passível de afastar o óbice contido no verbete 691 da Súmula do Supremo Tribunal Federal.
+Requer, liminarmente, que o paciente SERGIO TABORDA DOS REIS possa aguardar em liberdade o julgamento do presente writ, e, no mérito, pugna pela concessão da ordem para que seja fixado regime diverso do fechado para cumprimento da penas.
+É o relatório.
+2. Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar. Senão vejamos (e-STJ, fls. 55-56):
+ ..
+Por aqui, uma vez que a pretensão diz respeito ao próprio mérito do writ (aplicação da detração penal), não há como aferir, nos limites restritos dessa fase processual a existência de manifesta irregularidade, bem como a presença dos requisitos autorizadores da medida (fumus boni juris e periculum in mora).
+Assim, melhor que se aguarde a chegada das informações e o regular desenvolvimento do processo para que seja possível avaliar com maior profundidade a conveniência e oportunidade do pedido.
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no writ ajuizado na origem, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
