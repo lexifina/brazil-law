@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIELE VIECILI MATTIONI, com arrimo no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"RECURSOS DE APELAÇÃO CÍVEL - AÇÃO REIVINDICATÓRIA - PRELIMINARES: I. CERCEAMENTO DE DEFESA - INEXISTÊNCIA - RECOLHIMENTO DO PREPARO EFETUADO NO DIA SEGUINTE - NÃO CONHECIMENTO DO RECURSO, DESERÇÃO CONFIGURADA - INTELIGÊNCIA DO ART. 511 DO CPC - II. INTERPOSIÇÃO DE DOIS RECURSOS DE APELAÇÃO - PRECLUSÃO CONSUMATIVA - PRINCÍPIO DA UNIRRECORRIBILIDADE - NÃO CONHECIMENTO DO RECURSO - III. NULIDADE DO PROCESSO E REMESSA DOS AUTOS AO JUÍZO DE ORIGEM PARA REABERTURA DE PRAZO PARA REGULAR HABILITAÇÃO DOS HERDEIROS - PRECLUSÃO CONSUMATIVA - MATÉRIA JÁ RESOLVIDA EM SEDE DE ACÓRDÃO PROFERIDO EM EMBARGOS DE DECLARAÇÃO - RECURSO NÃO CONHECIDO - MÉRITO - RECONVENÇÃO - TÍTULO DOMINIAL VÁLIDO - POSSE INJUSTA DO RÉU - REQUISITOS COMPROVADOS - AÇÃO JULGADA PROCEDENTE - SENTENÇA MANTIDA - RECURSOS CONHECIDOS E DESPROVIDOS.
+1. Não há ilegalidade, nem cerceamento de defesa, na hipótese em que o juiz, verificando suficientemente instruído o processo, entende desnecessária a realização de novas provas. O juiz é livre para examinar todas as provas dos autos, inclusive decidir sobre a necessidade ou não de produzi-las, extraindo delas os fundamentos de sua decisão. Vigora o princípio do livre convencimento motivado.
+2. Comprovação do recolhimento do preparo recursal da apelação somente no dia seguinte à sua interposição. Infringência ao artigo 511 do Código de Processo Civil. Ausência de justo impedimento a autorizar a aplicação da Súmula 484 do STJ. Pagamento do preparo recursal realizado por meio eletrônico, o qual também estava disponível no dia anterior quando interposto o recurso pela via digital.
+3. Consoante o princípio da unirrecorribilidade, é vedada a utilização de duas vias recursais para a impugnação de um mesmo ato judicial. Assim, na interposição simultânea de dois apelos pela mesma parte incide a preclusão consumativa em relação ao segundo recurso.
+4. Tratando-se o objeto do apelo de matéria já resolvida pelo Colegiado em sede de julgamento de embargos de declaração, opera-se a preclusão consumativa prevista nos artigos 471 e 473 do Código de Processo Civil.
+5. Comprovado o autor ter domínio sobre a área reivindicada, entendendo na espécie por posse injusta aquele que ofende o direito de propriedade, deve ser mantida a sentença de primeiro grau de jurisdição.
+6. Para efeitos da ação reivindicatória, a posse é aquela exercida divorciada do título de propriedade, de outro título ou contrato que autoriza a posse sobre a coisa. Havendo título de propriedade sobre o imóvel, o qual se encontra individualizado, e sendo injusta a posse, comprovados os requisitos para a procedência da ação de imissão de posse reivindicatória" (e-STJ fls. 2.533-2.534).
+Os embargos de declaração opostos por BENITO VIECILI MATTIONI foram rejeitados (e-STJ fls. 2.671-2.684) e aqueles opostos por MARIELE VIECILI MATTIONI foram parcialmente acolhidos a fim de conhecer da sua apelação, mas negar-lhe provimento (e-STJ fls. 2.686-2.697).
+Em suas razões (e-STJ fls. 2.856-2.881), a recorrente MARIELE VIECILI MATTIONI sustenta, em síntese, (i) que o processo seria nulo em virtude da ausência de capacidade processual do espólio de [NOME] e (ii) que estariam preenchidos todos os requisitos da prescrição aquisitiva por usucapião, de modo que a demanda reivindicatória deveria ser julgada improcedente.
+Com as contrarrazões, e admitido o recurso na origem (e-STJ fls. 3.013-3.016), subiram os autos a esta colenda Corte.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (e-STJ fls. 3.123-3.148).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Nas razões do especial - elaborado nos moldes de recurso de apelação cível, sem a técnica recursal exigida nesta instância especial -, não há indicação precisa dos dispositivos legais que teriam sido violados pelo acórdão recorrido.
+Aplica-se, à espécie, por analogia, o disposto na Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA DO NOME DO AUTOR EM ROL DE INADIMPLENTES. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL COM INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. QUANTUM INDENIZATÓRIO DO DANO MORAL. INCIDÊNCIA DA SÚM 7/STJ.
+1. Nos termos da jurisprudência do STJ, é imprescindível que no recurso especial sejam particularizados, de forma inequívoca, os normativos federais supostamente contrariados pelo Tribunal de origem, sob pena de incidência da Súmula n.º 284 do STF.
+2. Na hipótese, a recorrente não indicou os dispositivos de lei federal supostamente violados e, no tocante à alínea "c" do recurso especial, limitou-se a transcrever precedentes paradigmas sem, contudo, precisar qual artigo de lei teria recebido interpretação divergente.
+3. A conclusão a que chegou o Tribunal de origem acerca do valor fixado a título de dano moral, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Entender de forma diversa implicaria na necessária incursão na seara fática para reexame de provas, conduta vedada em sede de recurso especial, ante o óbice da Súmulas 7/STJ.
+4. Agravo regimental não provido, com aplicação de multa".
+(AgRg no AREsp 511.537/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2014, DJe 04/08/2014 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO. SERVIÇO DE TELEFONIA. COBRANÇA. VIOLAÇÃO DO ARTIGO 535 DO CPC. SÚMULA 284/STF. PREQUESTIONAMENTO. SÚMULA 211/STJ. SÚMULA 7/STJ.
+1.- Tendo o Tribunal de origem fundamentado o posicionamento adotado com elementos suficientes à resolução da lide, não há que se falar em ofensa ao artigo 535, do CPC.
+2.- A ausência de particularização do dispositivo legal tido por afrontado é deficiência com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial.
+3.- Não examinada a matéria objeto do Recurso Especial pela instância a quo, mesmo com a oposição dos Embargos de Declaração, incide o enunciado 211 da Súmula do Superior Tribunal de Justiça.
+4.- A convicção a que chegou o Acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial o enunciado 7 da Súmula desta Corte Superior.
+5.- Agravo Regimental improvido".
+(AgRg no AgRg no AREsp 111.412/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2014, DJe 06/06/2014 - grifou-se)
+Além disso, nota-se que a inversão das conclusões das instâncias de cognição plena quanto ao preenchimento dos requisitos da ação de usucapião demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+A respeito:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE USUCAPIÃO. REQUISITOS. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA 284 DO STF. MATÉRIA FÁTICO-PROBATÓRIA. ENUNCIADO Nº 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Na interposição do recurso especial não basta a simples menção ao dispositivo tido por violado. É necessária a demonstração, de forma clara e precisa, da alegada ofensa à legislação federal (enunciado nº 284/STF).
+2. Não se vislumbra violação ao art. 535 do Código de Processo Civil, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+3. Assentada pelas instâncias ordinárias a presença dos requisitos legais para o reconhecimento da usucapião extraordinária, a inversão do que ficou decidido pelo Tribunal de origem demandaria, tal como propugnado nas razões recursais, novo exame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor do enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento".
+(AgRg no Ag 1.355.863/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/08/2011, DJe 19/09/2011 - grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PROPÓSITO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREENCHIMENTO DOS REQUISITOS PARA USUCAPIÃO EXTRAORDINÁRIA. QUESTÃO QUE DEPENDE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7 DO STJ.
+1. Esta Corte entende que, via de regra, não é cabível recurso especial para reexaminar a satisfação dos requisitos que habilitam ao direito de usucapião extraordinária. Precedentes.
+2. Ainda que cabível, em tese, o recurso especial, seria imprescindível a revisão do conteúdo fático e probatório dos autos para a verificação dos pressupostos específicos, providência inviável nesta instância em face da Súmula 7/STJ.
+3. Embargos de declaração recebidos como agravo regimental, a que se nega provimento".
+(EDcl no AREsp 261.693/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/03/2013, DJe 12/03/2013 - grifou-se)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
