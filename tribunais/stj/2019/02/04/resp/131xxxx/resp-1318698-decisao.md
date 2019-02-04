@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. AGRAVO LEGAL. TCFA. IBAMA PRESCRIÇÃO.
+1. A TCFA, com supedâneo no artigo 149 da CF, passou a se reger pelas normas insculpidas no CTN e, mais especificamente, a obedecer regras tributárias de decadência e prescrição.
+2. Trata-se de lançamento por ofício, em que o contribuinte acessa a pagina do IBAMA na internet para obter o boleto da taxa previamente calculada, devendo imprimi-lo e efetuar o pagamento, no prazo legal.
+A parte recorrente alega violação do art. 535 do CPC/1973 e do art. 173 do CTN, porquanto não poderia cobrar o tributo enquanto pendente o parcelamento do débito.
+Sem contrarrazões.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 167/169):
+In casu, não se trata de lançamento por homologação, pois o fato gerador decorre do exercício regular do poder de polícia conferido ao IBAMA e independe da atuação do contribuinte ou da mensuração econômica de seu objeto social, bastando que se dediquem a atividades potencialmente poluidoras ou comercializem produtos perigosos ao meio ambiente, à flora ou à fauna. O procedimento difere da rotina criada para os demais tributos, em especial dos impostos.
+Trata-se de lançamento de ofício, em que o contribuinte acessa a página do IBAMA na internet para obter o boleto da taxa previamente calculada, devendo imprimi-lo e efetuar o pagamento, no prazo legal.
+Dessa forma, não há falar em ausência do competente lançamento, nos moldes previstos no art. 142 do CTN, pois o lançamento ocorreu, de ofício, de forma automática, em direta razão da atividade exercida pelo contribuinte. Como se trata de valor previamente definido, não vislumbro ofensa ao art. 15 do Decreto nº 70.235/72 e arts. 3º e 37 da IN/1BAMA nº 08/2003, pois tais dispositivos legais tratam de procedimento atinente a assegurar a ampla defesa administrativa pela lavratura de auto de infração por infringência a alguma norma ambiental. Mas disso não se trata, pois a Taxa de Controle e Fiscalização Ambiental - TCFA é tributo, legal e exigível. De conseguinte, não efetuado o pagamento, nasce para o Fisco o direito de efetuar o lançamento, a partir do vencimento da taxa, incidindo a regra do art. 173, I, do CTN, a saber:
+ ..
+Nesse caso, há impossibilidade de conjugação da regra contida no art. 173, inciso I, do CTN, com o disposto no art. 150, § 4º, do mesmo diploma legal, porquanto, este último dispositivo legal diz respeito ao lançamento por homologação, e a própria Fazenda Nacional defende que a taxa em comento não se amolda a essa modalidade de lançamento.
+Pois bem.
+Esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 535 do CPC/1973 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+De outro lado, a tese recursal não foi prequestionada pelo Tribunal de origem, de tal sorte que o conhecimento do especial encontra óbice na Súmula 282 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
