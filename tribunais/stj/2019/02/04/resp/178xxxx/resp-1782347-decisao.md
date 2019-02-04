@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco Bradesco S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ, fl. 1.198):
+Agravo de instrumento. Expurgos inflacionários. Liquidação de sentença. Decisão anterior. Preclusão. Recurso não conhecido.
+Não deve ser conhecido o recurso de agravo de instrumento quando preclusa a matéria por atacar, na verdade, decisão anterior, tornando o recurso intempestivo e manifestamente incabível.
+Houve a oposição de embargos de declaração (e-STJ, fls. 1.208-1.216), que foram rejeitados (e-STJ, fls. 1.243-1.245).
+Nas razões do apelo especial, o recorrente alega violação dos arts. 473, 1.016, 1.017 e 1.022 do CPC/2015, sustentando, em síntese, que todos os requisitos de admissibilidade do agravo de instrumento foram atendidos no momento de sua interposição, sendo ele tempestivo, por desafiar decisão interlocutória que decidiu questão incidental formulada com base em novo fundamento para a apreciação dos documentos que foram desconsiderados pelo Juízo a quo.
+Ademais, aponta que o Tribunal de origem teria deixado de se pronunciar acerca de matérias que poderiam ser conhecidas de ofício, inclusive, a despeito da oposição de embargos de declaração.
+Contra-arrazoado (e-STJ, fls. 1.272-1.282), o recurso foi admitido (e-STJ, fls. 1.286-1.287), vindo os autos a este Tribunal.
+Brevemente relatado, decido.
+A Segunda Seção do Superior Tribunal de Justiça, na sessão realizada no dia 28/11/2018, no julgamento dos REsps n. 1.610.789/MT e 1.361.869/SP, acolheu questão de ordem suscitada pelo Relator, Ministro Raul Araújo, e decidiu, por unanimidade, suspender todos os processos individuais ou coletivos, seja na fase de conhecimento ou de execução, que versem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 (vinte e quatro) meses a contar de 5/2/2018, aguardando ainda o julgamento dos Recursos Extraordinários n. 632.212, 631.363, 626.307 e 591.797, com repercussão geral perante o Colendo Supremo Tribunal Federal.
+Por maioria, a Seção decidiu encaminhar às instâncias de origem todos os processos relacionados ao tema que estejam nesta Corte, nos termos de proposta feita pelo Sr. Ministro Luis Felipe Salomão.
+Diante do exposto, determino a devolução dos autos ao Tribunal estadual, com a respectiva baixa, a fim de que permaneça suspenso o processo, e para que, após a publicação dos acórdãos relativos aos recursos extraordinários submetidos a julgamento com repercussão geral, sejam tomadas as providências previstas nos arts. 1.040 e 1.041, § 2º, do CPC de 2015.
+Publique-se.
