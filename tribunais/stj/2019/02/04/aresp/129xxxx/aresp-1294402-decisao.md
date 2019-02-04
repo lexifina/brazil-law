@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo interposto por MARIA MARTA DE SOUZA SIQUEIRA contra decisão do Tribunal de Justiça de Minas Gerais, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 275)
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - GEPI - IMPRENSA OFICIAL DO ESTADO DE MINAS GERAIS - COISA JULGADA
+1. A discussão acerca da incorporação da GEPI aos proventos de aposentadoria da requerente, ainda que fundada em suposto equilíbrio entre os servidores da autarquia, revela-se inviável, haja vista que se encontra sob o manto da coisa julgada material.
+Embargos declaratórios rejeitados (e-STJ fl. 300).
+No especial obstaculizado, a parte recorrente apontou violação do art. 1.022, I, do CPC/2015, sustentando a negativa de prestação jurisdicional pela Corte a quo, que não teria observado que a causa de pedir ora formulada seria distinta daquela que embasou a lide anterior, razão pela qual não incidiria a prejudicial da coisa julgada ao caso, sob pena de, diante de decisões judiciais conflitantes, gerar um degrau remuneratório entre servidores ocupantes do mesmo cargo.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que inexistiam os vícios apontados. (e-STJ fls. 331/333)
+O Ministério Público Federal apresentou parecer opinando pela conversão do agravo para negar seguimento ao recurso especial (e-STJ fls. 365/367)
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Em relação à alegada ofensa do dispositivo invocado, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Nesse contexto, mostra-se pertinente a transcrição do excerto do julgado exarado pelo Tribunal a quo, em que a questão foi expressamente resolvida. Confira-se (e-STJ fls. 278/279):
+A análise comparativa das ações revela que ambas possuem as mesmas partes, mesma causa de pedir e mesmo pedido, sendo patente a identidade das ações.
+Outrossim, a própria apelante aduz que os processos são idênticos, mas defende que por terem sido julgados por magistrados distintos, tiveram decisões divergentes.
+Nessa linha, a apelante aduz que sua causa de pedir seria diferente, haja vista que busca, na verdade, o equilíbrio entre os servidores da autarquia e não simplesmente a percepção da GEPI.
+Ocorre que, em ambos os casos, a discussão gira em torno do suposto direito da autora de incorporar a GEPI aos seus proventos de aposentadoria, e essa questão se encontra sob o manto da coisa julgada material, na forma do art. 467, do CPC/1973, razão pela qual se torna inviável sua rediscussão nos presentes autos.
+Nesse sentido manifestou o Procurador de Justiça: "Portanto, seja sob o argumento de que a verba se mostra devida, seja em razão de fundamento ligado ao tratamento igualitário que deve ser dado aos servidores e ex-servidores em situação jurídica semelhante, ou em razão de conflitos surgidos em decorrência de decisões judiciais conflitantes, o fato é que o pleito do impetrante não se mostra possível, já que, seja qual for o fundamento do pedido, o mesmo redunda em ofensa à coisa julgada, tornando imperativa a extinção do feito sem apreciação meritória nos exatos termos do art. 267, V, do CPC".
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo, para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
