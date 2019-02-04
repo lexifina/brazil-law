@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fls. 471):
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. RECONHECIMENTO DE PERÍODO LABORADO SOB CONDIÇÕES ESPECIAIS. COISA JULGADA. NÃO CARACTERIZAÇÃO.
+1. Embora ataquem idêntico ato administrativo, as ações postulam o enquadramento especial de períodos diferentes, de modo que não há coisa julgada, merecendo reforma a decisão que extinguiu o processo sem resolução do mérito.
+2. A Lei nº 9.711/98 e o Regulamento Geral da Previdência Social aprovado pelo Decreto nº 3.048/99 resguardam o direito adquirido de os segurados terem convertido o tempo de serviço especial em comum, ainda que posterior a 28-05-1998, observada, para fins de enquadramento, a legislação vigente à época da prestação do serviço.
+3. Até 28/04/1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+4. Comprovado o exercício de atividades exercidas em condições especiais, as quais devem ser acrescidas ao tempo reconhecido pelo INSS, tem o segurado direito à revisão do seu benefício de aposentadoria por tempo de serviço/contribuição, nas condições que lhe sejam mais favoráveis, em respeito ao direito adquirido e às regras de transição, tudo nos termos dos artigos 5º, inciso XXXVI, da CF, 3º e 9º da EC 20/98 e 3º e 6º da Lei 9.876/99.
+Rejeitados os aclaratórios (e-STJ fls. 489/491).
+Nas suas razões, o recorrente alega violação dos arts. 467, 468 e 474 do CPC/1973, sustentando que a matéria dos autos já foi decidida em outro processo e abarcada pela coisa julgada, razão pela qual não pode mais ser discutida.
+Contrarrazões às e-STJ fls. 535/540.
+Juízo positivo de admissibilidade à e-STJ fl. 559.
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que o recurso especial não merece ser conhecido.
+O Tribunal de origem assim se pronunciou quanto à coisa julgada (e-STJ fls. 452/453):
+No caso em comento, na primeira ação (2007.77.62.002027-3) foi requerido o reconhecimento dos períodos especiais de 02/04/75 a 04/09/75, 05/09/75 a 29/08/78 e 28/08/78 a 01/07/85 e a revisão de sua aposentadoria por tempo de serviço/contribuição; na segunda (a presente), foi requerido o reconhecimento das atividades exercidas em condições especiais no período de 17/07/85 a 20/03/07, bem como a revisão de sua aposentadoria por tempo de contribuição.
+O reconhecimento do tempo de serviço especial consubstancia-se em verdadeiro pedido, e não simples causa de pedir. Com efeito, o pedido de reconhecimento da especialidade de dado período de trabalho relaciona-se a uma sentença declaratória e tem como causa de pedir remota as próprias condições do labor exercido pelo segurado, e causa de pedir próxima ao direito a ter reconhecida a especialidade do labor exercido segundo a lei previdenciária.
+Assim, de rigor na primeira ação ajuizada pelo autor havia cumulação sucessiva de pedidos: reconhecimento do labor comum e especial, seguido da concessão de aposentadoria por tempo de contribuição. Nesta segunda demanda, o mesmo se deu entre o reconhecimento do labor especial e a revisão da aposentadoria por tempo de contribuição.
+Embora atacando idêntico ato administrativo, as ações postulam o enquadramento especial de períodos diferentes, de modo que não há coisa julgada, merecendo reforma a decisão que extinguiu o processo sem resolução do mérito.
+O recorrente aponta genericamente que a questão já havia sido objeto de outro processo.
+Assim, pelo cotejo entre as razões do recurso e do acórdão, há nítido desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Ilustrativamente, cito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
