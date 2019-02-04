@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROCEDIMENTO DEMARCATÓRIO. TERRENOS DE MARINHA. SÚMULA 7/STJ.
+1. No tocante à citada violação ao art. 1º do Decreto-Lei 20.910/1932, sob o argumento de que ocorreu a prescrição, em virtude de o procedimento ter sido homologado em 2001 e a ação ajuizada apenas em 2007, é inviável analisar a tese defendida no Recurso Especial, pois tais premissas fáticas, defendidas no apelo extremo, não constam do acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+2. Da mesma forma, no que no que concerne à suposta vulneração do art. 11 do Decreto-Lei 9.760/1964, sob a alegação de que a demarcação foi realizada, quando autorizada a notificação por edital, novamente não se pode conhecer da irresignação. Isso porque não consta do aresto vergastado a anotação da data em que efetivamente ocorreu o procedimento demarcatório. Mais uma vez aplica-se a Súmula 7/STJ.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. DECADÊNCIA. DOMÍNIO PÚBLICO. TERRENO DE MARINHA. EXIGÊNCIA DE NOTIFICAÇÃO PESSOAL.
+1. Reexame necessário e apelação interposta em face de sentença que, nos autos de ação anulatória tendo como objeto procedimento administrativo para demarcação da linha de preamar média (LPM), invalidou o processo nº 10768-007612/97-20 com relação à parte recorrida a partir da publicação do Edital n. 1/2001 (inclusive), anulando as averbações realizadas pelo cartório de Registro de Imóveis na matrícula dos imóveis atingidos e a inscrição em dívida ativa de todos os débitos relativos ao não pagamento de foro, laudêmio e taxas de ocupação cobrados em razão da demarcação do terreno de marinha nos autos do processo administrativo.
+2. A falta de informações, nos registros públicos, de que a área seria caracterizada como terreno de marinha quando da aquisição do imóvel, tem como efeito que, somente a partir da notificação para o pagamento da taxa de ocupação, pode-se começar a contar o prazo para impugnar o débito lançado e a relação jurídica que o respalda. No caso, a averbação na matricula do imóvel de que o mesmo seria parte foreiro ao domínio da União se deu em 28.2.2007. Precedente: TRF2, ApelReex 201150010126654, Rel.
+Des. Fed. ALUISIO GONÇALVES DE CASTRO MENDES, EDJF2R 5.2.2014.
+3. A convocação dos interessados certos para se manifestarem acerca da demarcação da Linha Preamar feita por editais, de forma genérica, fere o princípio constitucional do devido processo legal, uma vez que não assegura o direito ao contraditório e à ampla defesa. Precedente vinculativo: STF, Tribunal Pleno, ADI 4.264, Rel. Min. RICARDO LEWANDOWSKI, DJe 30.5.2011.
+4. Remessa necessária e apelação não providas.
+Não houve Embargos de Declaração.
+A recorrente alega que os arts. 1º do Decreto 20.910/1932 e 11 do Decreto-Lei 9.760/1964 foram violados. Afirma que ocorreu a prescrição porque o procedimento administrativo foi homologado em 2001 e, apenas em 2007, a autora foi a juízo reclamar do domínio da União. Ademais, defende:
+A redação do art. 11 do Decreto -Lei 9.760/1946 em vigor antes do advento da Lei n.º 11.481/2007, período no qual foi efetuada a demarcação da área objeto desta demanda, autorizava a notificação editalícia dos ocupantes de terrenos de marinha, não sendo obrigatória a intimação pessoal. Destarte, não há como reputar inválido o procedimento administrativo em tela, pois, ao tempo de sua conclusão, vigorava legislação que autorizava a notificação por meio de edital.
+Assim é que a jurisprudência do e. Superior Tribunal de Justiça passou a reconhecer que a intimação pessoal nos procedimentos de demarcação dos terrenos de marinha só se impõe a partir de 16.03.2011, data em que o e. Supremo Tribunal Federal deferiu medida cautelar para suspender, com efeito ex nunc, a eficácia do art. 1.º da Lei n.º 11.481/2007 (ADI 4264 MC).
+(..)
+No caso, tendo a Administração concluído o procedimento administrativo de demarcação dos terrenos de marinha e acrescidos em período anterior à vigência da Lei n.º 11.481/2007, não há falar em nulidade formal por falta de intimação pessoal.
+
+O Ministério Público Federal opina pelo parcial conhecimento e não provimento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Ao decidir a controvérsia, o Tribunal a quo consignou (fls. 160-161):
+Como relatado, cuida-se de reexame necessário e apelação interposta pela UNIÃO em face de sentença que, nos autos de ação anulatória ajuizada por NELSON NEVES [NOME] e ELZA DO NASCIMENTO MESQUITA [NOME] tendo como objeto procedimento administrativo para demarcação da linha de preamar média (LPM), invalidou o processo nº 10768-007612/97-20 com relação à parte recorrida a partir da publicação do Edital n. 1/2001 (inclusive), anulando as averbações realizadas pelo cartório de Registro de Imóveis na matrícula dos imóveis atingidos e a inscrição em dívida ativa de todos os débitos relativos ao não pagamento de foro, laudêmio e taxas de ocupação cobrados em razão da demarcação do terreno de marinha nos autos do processo administrativo.
+Regular o apelo, dele conheço.
+Preliminarmente, merece ser afastada a alegação da União de impossibilidade de questionamento, pelos demandantes, da regularidade do processo de demarcação ou do cadastramento do imóvel como terreno de marinha, ao argumento de ter transcorrido lapso temporal superior ao prazo de 5 (cinco) anos previsto no Decreto nº 20.910/32.
+A falta de informações, nos registros públicos, de que a área seria caracterizada como terreno de marinha quando da aquisição do imóvel, tem como efeito que, somente a partir da notificação para o pagamento da taxa de ocupação, pode-se começar a contar o prazo para impugnar o débito lançado e a relação jurídica que o respalda, conforme entendimento já esposado por esta 5ª Turma Especializada
+(..)
+No caso, a averbação na matricula do imóvel de que o mesmo seria parte foreiro ao domínio da União se deu em 28.2.2007, conforme certidão de fl. 17.
+Não há, nos autos, quaisquer outros documentos que indiquem que os apelados tinham ciência da condição do imóvel como sendo público, não podendo se declarar o transcurso do decadencial para impugnar o procedimento administrativo demarcatório da LPM referente ao imóvel em testilha.
+Outra questão trazida ao exame deste Eg. Tribunal diz respeito à necessidade, ou não, de notificação pessoal dos interessados no curso de processo de demarcação de terreno de marinha instaurado pela União.
+(..)
+Desta forma, retorna a metodologia prevista na redação originária do art. 11 do Decreto -Lei 9.760/46, em que os interessados certos deveriam ser pessoalmente convidados, cabendo a expedição de editais apenas para os interessados cujos dados não constem do respectivo registro do imóvel ou dos cadastros da Secretaria do Patrimônio da União (SPU).
+Questão diversa é a que trata da alegação de que os terrenos de marinha são de propriedade da União e que os registros imobiliários não são oponíveis à apelante, nos termos da Súmula 496 do Superior Tribunal de Justiça (STJ), que diz que "os registros de propriedade particular de imóveis situados em terrenos de marinha não são oponíveis à União".
+Os fatos tratados nesta demanda são diferentes dos dispostos na citada súmula, como exposto em entendimento consagrado por este TRF2, que versa precisamente sobre a questão debatida nestes autos:
+(..)
+Não se pretende afirmar que o fato de a União não constar da cadeia dominial afasta a sua propriedade, mas que, devido à presunção relativa de propriedade particular gerada pelo registro imobiliário e em virtude dos princípios da legalidade, confiança legítima e segurança jurídica, não há relação jurídica entre as partes que legitime a cobrança de importâncias decorrentes da ocupação de bens públicos enquanto não for procedida a devida averbação da propriedade da União junto ao Registro Geral de Imóveis.
+Ante o exposto, NEGO PROVIMENTO À APELAÇÃO E AO REEXAME NECESSÁRIO.
+É como voto.
+No tocante à citada violação ao art. 1º do Decreto-Lei 20.910/1932, sob o argumento de que ocorreu a prescrição em virtude de o procedimento ter sido homologado em 2001 e a ação ajuizada apenas em 2007, é inviável analisar a tese defendida no Recurso Especial, pois tais premissas fáticas, defendidas no apelo extremo, não constam do acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Da mesma forma, no que no que concerne à suposta vulneração do art. 11 do Decreto-Lei 9.760/1964, sob a alegação de que a demarcação foi realizada, quando autorizada a notificação por edital, novamente não se pode conhecer da irresignação. Isso porque não consta do aresto vergastado a anotação da data em que efetivamente ocorreu o procedimento demarcatório. Mais uma vez aplica-se a Súmula 7/STJ.
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
