@@ -1,0 +1,30 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REGULAR. PROCESSO DE FALÊNCIA. DISSOLUÇÃO IRREGULAR DA EMPRESA NÃO VERIFICADA. DESCABE REDIRECIONAR A EXECUÇÃO QUANDO NÃO HOUVE COMPROVAÇÃO DE EXCESSO DE MANDATO OU INFRINGÊNCIA À LEI, AO CONTRATO SOCIAL OU AO ESTATUTO. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto pela ESTADO DO RIO GRANDE DO SUL, contra acórdão de lavra do TJ/RS, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. RESPONSABILIDADE SÓCIO-GERENTE. MASSA FALIDA. IMPOSSIBILIDADE.
+A responsabilidade do administrador de empresa devedora de tributo está traçada no art. 135, III, do CTN.
+Todavia, a imputação de responsabilidade não está vinculada apenas ao inadimplemento da obrigação tributária, mas na configuração das demais condutas nele descritas: práticas de atos com excesso de poderes ou infração de lei, contrato social ou estatuto.
+A falência da empresa não configura justa causa para o redirecionamento da execução contra os administradores.
+Correta, por isso, a exclusão dos administradores da empresa falida da execução fiscal.
+Agravo desprovido (fls. 800).
+2. Sustenta a parte recorrente, em suma, violação dos arts. 535 do CPC/1973 e 135 do CTN, afirmando que houve desconsideração do laudo pericial que apontou ilícitos dos sócios.
+3. Em síntese, é o relatório.
+4. O Tribunal de origem consignou que a falência da empresa não configura justa causa para o redirecionamento da execução contra os Administradores.
+5. Verifica-se que o acórdão recorrido encontra-se no mesmo sentido que o decidido nesta Corte. O STJ consolidou entendimento de que, ocorrendo dissolução da sociedade empresária pela via da falência, não há falar em irregularidade na dissolução, e de que somente é possível o redirecionamento para o patrimônio dos sócios gerentes, acaso comprovada a prática de atos com excesso de poderes ou infração da lei, que não são passíveis de averiguação via Recurso Especial. Nesse sentido:
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL NA ORIGEM. EMPRESA FALIDA. REDIRECIONAMENTO CONTRA SÓCIO. AUSÊNCIA DE PRESUNÇÃO DE DISSOLUÇÃO IRREGULAR. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Preliminarmente, constato que, muito embora tenha a recorrente alegado ofensa ao art. 535, II, do CPC/1973, não existe fundamentação a ela relativa no bojo recursal, razão pela qual não há o que se apreciar.
+2. O acórdão combatido alinhavou que "o mero inadimplemento não caracteriza infração à lei e, portanto, não se presta como argumento único para o redirecionamento do processo executivo" (fl. 123, e-STJ).
+3. Ademais, anotou o Colegiado de origem que houve dissolução hígida da empresa em virtude de sua falência, o que não gera presunção de irregularidades "apta a ensejar a inclusão dos sócios no pólo passivo da lide" (fl. 126, e-STJ).
+4. O STJ consolidou entendimento de que, ocorendo dissolução da sociedade empresária pela via da falência, não há falar em irregularidade na dissolução, e de que somente é possível o redirecionamento para o patrimônio dos sócios gerentes, acaso comprovada a prática de atos com excesso de poderes ou infração da lei, que não são passíveis de averiguação via Recurso Especial. Incidência da Súmula 83/STJ.
+5. Recurso Especial não conhecido (REsp. 1.768.992/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.11.2018).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. FGTS. DÍVIDA NÃO TRIBUTÁRIA. PEDIDO DE REDIRECIONAMENTO COM BASE NA LEGISLAÇÃO CIVIL. POSSIBILIDADE. RESP 1.371.128/RS, REL. MIN. MAURO CAMPBELL MARQUES, DJE 17.9.2014, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. REGULAR PROCESSO DE FALÊNCIA. DISSOLUÇÃO IRREGULAR DA EMPRESA NÃO VERIFICADA. DESCABE REDIRECIONAR A EXECUÇÃO QUANDO NÃO HOUVE COMPROVAÇÃO DE EXCESSO DE MANDATO OU INFRINGÊNCIA À LEI, AO CONTRATO SOCIAL OU AO ESTATUTO. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. No tocante ao art. 535 do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. A 1a. Seção do Superior Tribunal de Justiça consolidou orientação, no julgamento do REsp. 1.371.128/RS, da relatoria do Ministro MAURO CAMPBELL MARQUES, afetado ao rito do art. 543-C do CPC, de que, havendo indícios de dissolução irregular, cabe o redirecionamento da Execução Fiscal de dívida não tributária aos sócios-gerentes com base na da legislação civil (art. 10 do Decreto 3.078/19 e art. 158 da Lei 6.404/78).
+3. Nos termos da Súmula 435/STJ; presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+4. O encerramento da empresa executada, mediante regular processo de falência, devidamente registrado perante a Junta Comercial, não legitima o redirecionamento da Execução Fiscal, acaso não comprovado comportamento fraudulento, a prática de atos com excesso de poder, violação à lei, ao contrato ou ao estatutos sociais. Precedentes: REsp. 1.470.840/SP, Rel. Min. HUMBERTO MARTINS, DJe 12.12.2014; AgRg no AREsp. 435.125/SP, Rel. Min. SÉRGIO KUKINA, DJe 19.3.2014.
+5. In casu, o acórdão recorrido está em sintonia com atual orientação do STJ, motivo pelo qual não merece prosperar a irresignação, nos termos da Súmula 83/STJ, cuja incidência também pode ocorrer nas hipóteses de interposição de Recurso Especial pela alínea a do permissivo constitucional.
+6. Agravo Regimental da FAZENDA NACIONAL a que se nega provimento (AgRg no AREsp. 524.935/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 27.5.2016).
+6. Ademais, alterar o que restou decidido pelo Tribunal de origem, invocando desconsideração do laudo pericial, necessita de revolvimento fático-probatório, providência vedada nesta seara.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Estado do Rio Grande do Sul.
+8. Publique-se. Intimações necessárias.
