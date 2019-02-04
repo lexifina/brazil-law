@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 188):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO EM TRAMITAÇÃO. RECUPERAÇÃO JUDICIAL DA DEVEDORA- EMPRESA DE TELEFONIA.
+NO CASO EM TELA, A IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA ESTÁ PENDENTE DE JULGAMENTO, LOGO INVIÁVEL O LEVANTAMENTO DOS VALORES BLOQUEADOS.
+ORIENTAÇÃO DO OFÍCIO - CIRCULAR N. 02-2017 DA SECPRES.
+No especial obstaculizado, o ora agravante apontou violação dos arts. 490, 525, § 8º e 526, § 1º, do CPC/2015. Alegou, inicialmente, que o acórdão recorrido proferiu julgamento citra petita, uma vez que deixou de apreciar um dos pedidos recursais.
+Defendeu, ainda, a possibilidade de levantamento de valores incontroversos, prosseguindo a impugnação tão somente em relação à parcela tida como excessiva. Asseverou, por fim, que o deferimento da recuperação judicial da agravada não invalida questões processuais já consolidadas (e-STJ fls. 200/210).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo.
+Contraminuta às e-STJ fls.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feital essa anotação, observa-se, da leitura do acórdão recorrido, que o Tribunal de origem não emitiu juízo de valor sobre o art. 490 do CPC/2015, tampouco foram opostos embargos de declaração para fins de prequestionamento, incidindo, assim, as Súmulas 282 e 356 do STF.
+Na verdade, sob o pretexto de que houve violação do mencionado artigo, o agravante alega a existência de suposta omissão no julgado. Nessa situação, caberia à parte opor embargos de declaração na origem, que é o remédio processual adequado para sanar esse vício.
+Nesse contexto, além da ausência de prequestionamento do art. 490 do Diploma Processual, a alegação de ofensa a esse dispositivo revela deficiência da fundamentação recursal, o que atrai, por analogia, a aplicação da Súmula 284 do STF.
+Ultrapassado esse ponto, verifica-se que o Tribunal a quo concluiu pela inviabilidade do levantamento dos valores bloqueados, pela seguinte motivação (e-STJ fls. 190/193):
+O bloqueado, via BACEN-JUD, do montante de R$ 98.956.41 ocorreu em 30/09/2014 (fl. 89 dos autos eletrônicos).
+Pelo sistema processual, verifica-se que a impugnação ao cumprimento de sentença foi oposta em 25/02/2015.
+Posteriormente, em 14/09/2015, os autos foram remetidos à contadoria, que apurou o valor de R$ 26.150,08 (fl. 92).
+A empresa de telefonia se manifestou concordando com o valor, postulou a expedição de alvará ao impugnado, para levantamento do valor indicado no cálculo para o credor, e o restante em seu favor. Tal pleito foi formulado em 09/11/2015 (fl. 95).
+Em dezembro de 2015, o ora agravante, manifestou-se discordando do valor apresentado pela contadoria (fl. 98).
+De acordo com a informação processual, novamente o juiz remeteu os autos ao contador judicial para elaborar novo cálculo ou prestar esclarecimentos.
+Feitas essas considerações a respeito da tramitação do cumprimento de sentença e a respectiva impugnação, passo ao exame do pedido.
+O Ofício-Circular Nº 093/2016-CGJ, determinou a suspensão de ações, execuções e atos tendentes à constrição de bens de sociedades empresárias vinculadas ao Grupo OI.
+Isso se deve à ação de recuperação judicial que tramita perante a 7ª Vara Empresarial do Rio de Janeiro, que determinou "A suspensão de todas as ações e execuções contra as Recuperandas, pelo prazo de 180 dias, de modo a evitar que constrições judiciais sejam realizadas no período compreendido entre o ajuizamento da presente recuperação judicial e o deferimento do seu processamento".
+No processo de recuperação judicial, restou assim fixado:
+ ..  1) Ficam suspensas todas as execuções, sejam elas extrajudiciais ou de cumprimento de sentença, provisórias ou definitivas, inclusiva as execuções através das quais estejam sendo cobradas multas e/ou sanções administrativas aplicadas contra as devedoras, excetuando-se as que tenham sido extintas por sentença ou aquelas em que, efetivada a constrição judicial em espécie, tenham decorrido o prazo para impugnação pela devedora, ou ainda, a sentença proferida na impugnação, ou nos embargos, que tenha transitado em julgado. Na hipótese, tanto a prolação da sentença como a certificação do decurso do prazo para impugnação do débito ou o trânsito em julgado da sentença que julgou a impugnação apresentada pelo devedor, terão como marco inicial data anterior á decisão que deferiu a tutela de urgência (21/06/2016). ..
+O Ofício-Circular n. 02/2017, da Secretaria da Presidência, noticia a revogação do efeito suspensivo concedido, para que as suspensões das ações e execuções, extrajudiciais ou de cumprimento de sentença, não alcancem o levantamento de valores depositados pelas recuperandas antes de 21/06/2016, com a expressa finalidade de pagamento, bem como os valores depositados antes da aludida data em execuções nas quais tenha se dado a preclusão ou trânsito em julgado da sentença de embargos à execução ou da decisão final da impugnação ao cumprimento de sentença, permitindo-se, nestes casos, o levantamento.
+Como já referido, o bloqueio ocorreu no ano de 2014, anterior a decisão proferida no processo de recuperação judicial.
+A impugnação ao cumprimento de sentença, cuja peça processual encontra-se às 120-143, ainda não foi julgada.
+Embora tenha manifestação da empresa de telefonia, no ano de 2015, no sentido de concordar com o valor da contadoria e postulando o levantamento dos valores, tal à época não foi analisado pelo juiz e também não reiterado pelas partes. Surgiu fato novo - processo de recuperação judicial - pelo qual se tornou possível o levantamento de valores somente em determinados casos.
+Ademais, analisando as razões da impugnação oferecida, a empresa de telefonia aponta como valor devido, R$ 17.025,15.
+Nessa senda, salvo melhor juízo, considerando que, no presente feito, há pendência de julgamento da impugnação, inviável o atendimento do pedido.
+Pois bem, a tese recursal defende, em síntese, a possibilidade de liberação de valores incontroversos, lastreando-se nos arts. 525, § 8º, e 526, § 1º, do CPC/2015, e argumenta inexistir fato impeditivo ao levantamento, pois a recuperação judicial possui efeitos ex nunc.
+Percebe-se, portanto, que os fundamentos do acórdão não foram expressamente rebatidos nas razões recursais, as quais se mostraram dissociadas das premissas jurídicas apontadas pelo Tribunal a quo.
+Dessa forma, forçosa a aplicação das Súmulas 283 e 284 do STF, pois "a jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem" (AgInt no Resp 1.629.094/RS, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 03/08/2017).
+Ademais, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
