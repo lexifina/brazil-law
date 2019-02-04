@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial e com pedido de liminar impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro no Agravo de Execução Penal n. 0115584-83.2018.8.19.0001.
+O Juízo da execução penal deferiu o pedido de livramento condicional formulado pelo paciente (fls. 20-21).
+Irresignado, o Ministério Público interpôs agravo em execução penal, ao qual foi dado provimento.
+Requer a defesa a concessão de liminar, para "restabelecer-se a decisão de primeira instância que concedeu livramento condicional ao paciente tendo reconhecido taxativamente estarem preenchidos todos os requisitos exigidos pela legislação de regência" (fl. 9).
+É o relatório. Decido.
+Em consonância com julgados do Supremo Tribunal Federal (RHC n. 118.623/MS, relator Ministro Roberto Barroso, Primeira Turma, DJe de 5/12/2013; e HC n. 113.690, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 8/10/2012), a Quinta e a Sexta Turmas do Superior Tribunal de Justiça consideram que é inadequado habeas corpus contra decisão do Tribunal a quo atacável pela via de recurso especial, ressalvando-se casos de flagrante ilegalidade em que seja recomendável conceder, de ofício, a ordem.
+Porém, essa não é a hipótese dos autos.
+No presente writ, o Tribunal de origem cassou a decisão de deferimento do livramento condicional com a seguinte fundamentação (fls. 59-60):
+Como se sabe, a concessão de livramento condicional demanda a observância dos requisitos de natureza objetiva e subjetiva, na forma do art. 83 do Código Penal, sendo certo que o simples preenchimento do lapso temporal não confere ao apenado, automaticamente, o direito à percepção da benesse. É necessário que as condições pessoais do condenado indiquem que o benefício se apresenta como medida adequada para a sua ressocialização.
+Na hipótese, o apenado não ostentou comportamento satisfatório durante o cumprimento da pena, como exige o art. 83, III, do Código Penal, o que inviabiliza a concessão do benefício de livramento condicional, apesar de possuir índice de comportamento carcerário classificado como "bom" (fl. 17), não se podendo simplesmente ignorar o fato de ter o agravado se evadido quando beneficiado pela visita periódica ao lar e de ter levado quase 06 meses ate a sua recaptura.
+Assim, ausente o requisito subjetivo exigido para a concessão do livramento condicional, a autodisciplina e o senso de responsabilidade, haja vista que o agravado tentou frustrar a execução de sua pena, sendo inviável a manutenção da decisão agravada.
+O parecer do Ilustre Procurador de Justiça, Dr. [NOME], é no sentido da reforma da decisão agravada, o que deve ser acolhido, ante os fundamentos acima expostos.
+Os fundamentos do acórdão recorrido não se mostram, em princípio, desarrazoados, mormente quando explicitam as razões consideradas pelo colegiado para o indeferimento do pedido.
+Nesse contexto, não estão presentes os requisitos indispensáveis ao deferimento da medida urgente requerida, sobretudo o fumus boni iuris.
+A propósito, o Superior Tribunal de Justiça consolidou a orientação de que, "para a concessão do livramento condicional, o Magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional" (AgRg no HC n. 394.009/SP, relator Ministro Feliz Fischer, Quinta Turma, DJe de 30/10/2017).
+O STJ também entende ser impossível, "na via estreita do habeas corpus, desconstituir as conclusões das instâncias ordinárias sobre o não preenchimento de requisito subjetivo necessário à concessão de progressão de regime e livramento condicional, uma vez que tal providência implica no reexame do conjunto fático-probatório" (HC n. 376.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/2/2017).
+Desse modo, o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+Ante o exposto, indefiro o pedido de liminar.
+Requisitem-se informações ao Tribunal de origem e ao Juízo da execução.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
