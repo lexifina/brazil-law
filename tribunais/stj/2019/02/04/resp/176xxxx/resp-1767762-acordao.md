@@ -1,0 +1,47 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPTU. PRESCRIÇÃO. AJUIZAMENTO ANTES DA LC 118/2005. DEMORA NA CITAÇÃO IMPUTADA AO CREDOR. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Em processo de Execução Fiscal ajuizado anteriormente à LC 118/2005, é pacífica a orientação do STJ de que o despacho que ordena a citação não interrompe o prazo prescricional, pois somente a citação pessoal produz esse efeito, devendo prevalecer o disposto no art. 174 do CTN sobre o art. 8º, § 2º, da LEF.
+2. Ajuizada a demanda dentro do prazo prescricional e realizada a citação do executado fora dele, o marco interruptivo deve retroagir à data do ajuizamento do feito somente quando a demora na citação for imputada ao mecanismo da Justiça (REsp 1.120.295/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 21/5/2010).
+3. Com efeito, tendo a Corte local consignado, no acórdão recorrido, que a Súmula 106 do STJ não comporta adequação casuística na hipótese sub judice, haja vista a inércia do ente público, conclusão em sentido contrário, para entender que a paralisação do feito decorreu dos mecanismos da Justiça, importaria em reexame de matéria fático-probatória, providência vedada em Recurso Especial, nos termos da Súmula 7/STJ, como já decidiu a Primeira Seção do STJ, no REsp 1.102.431/RJ, sob o rito do art. 543-C do CPC/1973.
+4. Recurso Especial parcialmente conhecido e nessa parte não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 59, e-STJ):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. PRESCRIÇÃO DECRETADA DE OFICIO. PRAZO PRESCRICIONAL QUE SE INTERROMPE COM A CITAÇÃO DO EXECUTADO. INTELIGÊNCIA DA ANTIGA REDAÇÃO DO ART. 174, PARÁGRAFO ÚNICO DO CTN. EXEQUENTE QUE RESTOU INERTE FRENTE À SATISFAÇÃO DE SEUS CRÉDITOS. INAPLICABILIDADE DA SÚMULA 106 DO STJ INSURGÊNCIA RECURSAL CONTRA A CONDENAÇÃO AO PAGAMENTO DAS CUSTAS PROCESSUAIS. AUSÊNCIA DE NORMA LEGAL ESTADUAL QUE ISENTE O MUNICÍPIO QUANTO AO DEVER DE PAGAR AS CUSTAS. AFASTAMENTO DO FUNRJUS ART. 3º, ALÍNEA "I", DO DECRETO ESTADUAL Nº 962/1932. RECURSO PARCIALMENTE PROVIDO.
+Aponta a parte recorrente, em Recurso Especial, violação, no mérito, dos arts. 174 do CTN e art. 8º da LEF. Afirma (fl. 80, e-STJ):
+Na realidade o processo não ficou paralisado por culpa do Município, visto que a execução fiscal foi ajuizada no prazo legal, bem como foi requerida a citação do executado, sendo a demora na efetivação do ato citatório responsabilidade exclusiva do serviço judicial.
+(..)
+Portanto, tendo em vista que a prescrição interrompeu-se com o despacho que ordenou a citação, e que a demora no regular prosseguimento foi de responsabilidade do cartório, tem-se por óbvio que não se operou o lapso prescricional contra o Município de Curitiba.
+À fl. 119, e-STJ, proveu-se o Agravo e determinou-se sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 3 de setembro de 2018.
+Trata-se, na origem, de Execução Fiscal proposta pelo Município de Curitiba em desfavor de Transportes Cimensul Ltda., em decorrência da certidão de dívida ativa nº 7.585 no valor de R$ 4.120,38, pelo não pagamento de IPTU no período de 2002 e 2003.
+O Tribunal de origem manteve a sentença que extinguiu a exigibilidade do crédito tributário, em face da ocorrência da prescrição intercorrente. Destaco trecho do acórdão de origem (fls. 63-64, e-STJ):
+Na hipótese dos autos, considerando que a ação foi proposta em 18/05/2004, somente a citação pessoal do devedor tinha o condão de interromper o fluxo do prazo prescricional, o que não ocorreu.
+Verifica-se que em 20/05/2004 o magistrado a quo determinou a citação da parte executada.
+Em 20/05/2004 o mandado de citação retornou, sem o devido cumprimento, pois o executado não foi encontrado Foi proferida sentença em 07/03/2016.
+Assim, não prospera a alegação de que houve culpa do ádiciário (súmula 106/ST4, porque o interesse na citação, e desenvolvimento do processo era do exequente, nada justificando a espera por um grande lapso temporal sem que durante esse período tivesse comparecido aos autos e requerido diligências para acelerar a citação.
+Com efeito, tendo a Corte local consignado, no acórdão recorrido, que a Súmula 106 do STJ não comporta adequação casuística na hipótese sub judice, haja vista a inércia do ente público, conclusão em sentido contrário, para entender que a paralisação do feito decorreu dos mecanismos da Justiça, importaria em reexame de matéria fático-probatória, providência vedada em Recurso Especial, nos termos da Súmula 7/STJ, como já decidiu a Primeira Seção do STJ, no REsp 1.102.431/RJ, sob o rito do art. 543-C do CPC/1973.
+A propósito, confira-se a ementa do referido julgado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. PARALISAÇÃO DO PROCESSO POR CULPA DO PODER JUDICIÁRIO. SÚMULA 106 DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 07/STJ.
+1. O conflito caracterizador da lide deve estabilizar-se após o decurso de determinado tempo sem promoção da parte interessada pela via da prescrição, impondo segurança jurídica aos litigantes, uma vez que a prescrição indefinida afronta os princípios informadores do sistema tributário.
+2. A perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário. Inteligência da Súmula 106/STJ. (Precedentes: AgRg no Ag 1125797/MS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 18/08/2009, DJe 16/09/2009; REsp 1109205/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 02/04/2009, DJe 29/04/2009; REsp 1105174/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/08/2009, DJe 09/09/2009; REsp 882.496/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2008, DJe 26/08/2008; AgRg no REsp 982.024/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/04/2008, DJe 08/05/2008)
+3. In casu, a Corte de origem fundamentou sua decisão no sentido de que a demora no processamento do feito se deu por culpa dos mecanismos da Justiça, verbis:
+"Com efeito, examinando a execução fiscal em apenso, constata-se que foi a mesma distribuída em 19/12/2001 (fl.02), tendo sido o despacho liminar determinando a citação do executado proferido em 17/01/2002 (fl. 02 da execução). O mandado de citação do devedor, no entanto, somente foi expedido em 12/05/2004, como se vê fl. 06, não tendo o Sr. Oficial de Justiça logrado realizar a diligência, por não ter localizado o endereço constante do mandado e ser o devedor desconhecido no local, o que foi por ele certificado, como consta de fl. 08, verso, da execução em apenso.
+Frustrada a citação pessoal do executado, foi a mesma realizada por edital, em 04/04/2006 (fls. 12/12 da execução).
+(..)
+4. A verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 7/STJ.
+5. Recurso especial provido, determinando-se o retorno dos autos à instância de origem para prosseguimento do executivo fiscal, nos termos da fundamentação expendida. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1.102.431/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe de 1º/2/2010, grifei).
+Ainda nesse sentido:
+ADMINISTRATIVO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. REQUISITOS: LAPSO TEMPORAL E INÉRCIA DO CREDOR. DESÍDIA DO EXEQUENTE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Nos termos da jurisprudência do STJ, a prescrição intercorrente depende não só da análise fria do lapso temporal, mas também de outro requisito indispensável, a prova da desídia do credor na diligência do processo.
+2. O Tribunal de origem, ao analisar a matéria, afastou a ocorrência de prescrição por reconhecer a ausência de inércia da exequente.
+Dessa forma, desconstituir tal premissa requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, por esbarrar no óbice da Súmula 7/STJ.
+3. Recurso Especial não provido.
+(REsp 1.656.898/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 5/5/2017).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos § § 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço parcialmente do Recurso Especial e nessa parte nego-lhe provimento.
+É como voto.
