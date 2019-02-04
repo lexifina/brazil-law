@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que a recorrente foi submetida a prisão em flagrante, convertida em preventiva em 28/5/2018. Posteriormente, foi condenada à pena de 5 anos, 6 meses e 20 dias de reclusão em regime semiaberto, pela prática do crime de roubo majorado. O pedido de prisão domiciliar, por ser a recorrente mãe de menor de 12 anos, foi indeferido pelo Juízo de primeiro grau (e-STJ, fls. 49-54).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, postulando a substituição da prisão preventiva por domiciliar, uma vez que a paciente seria mãe de uma filha menor de 12 (doze) anos. A ordem foi denegada (e-STJ, fls. 92-98).
+Neste recurso, a recorrente alega que, por ser mãe de filha menor de 12 anos, faz jus à prisão domiciliar com base no art. 318 do Código de Processo Penal, nos termos da decisão proferida pelo Supremo Tribunal Federa no HC n. 143.641/SP.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar o decreto preventivo e substituí-lo por prisão domiciliar.
+O pedido de medida liminar foi indeferido (e-STJ, fl. 130).
+O Ministério Público Federal opina pelo não provimento do recurso (e-STJ, fls. 209-211).
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, conforme informação prestada pelo Juízo de primeiro grau, a sentença condenatória proferida nos autos do Processo n. 0770687-22.2018.8.13.0024 transitou em julgado sem que as partes tivessem manifestado desejo de recorrer, tendo sido expedido, em 25/10/2018, a Guia de Execução Penal Definitiva (e-STJ, fls. 172-204).
+Desse modo, evidencia-se a perda do interesse processual em relação à presente ação mandamental, em que se pretendia demonstrar a existência de constrangimento ilegal decorrente da custódia preventiva.
+Nesse sentido, confiram-se os seguintes precedentes:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. PENA-BASE ACIMA DO MÍNIMO LEGAL. GRAVIDADE CONCRETA DO DELITO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTIDADE, NATUREZA E VARIEDADE DAS DROGAS. ART. 42 DA LEI N. 11.343/06 E ART. 33, § 3º, DO CÓDIGO PENAL - CP. REGIME FECHADO. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. DIREITO DE RECORRER EM LIBERDADE. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. EXECUÇÃO DA PENA DEFINITIVA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO. 1.  ..  3. Considerando o trânsito em julgado da condenação, resta prejudicado o pedido de revogação da prisão cautelar, tendo em vista que a prisão decorre de condenação definitiva do paciente. 4. Habeas corpus não conhecido." (HC 453.082/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/09/2018, DJe 09/10/2018).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS e FALSA IDENTIDADE. DECRETAÇÃO DA REVELIA DO RÉU. IMPOSSIBILIDADE DE INTIMAÇÃO PARA A AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO EM RAZÃO DE NÃO HAVER SIDO ENCONTRADO NO ENDEREÇO FORNECIDO EM JUÍZO. CIÊNCIA INEQUÍVOCA DA AÇÃO PENAL. OBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO CÓDIGO DE PROCESSO PENAL. INVIABILIDADE DE RECONHECIMENTO DE NULIDADE COM A QUAL CONCORREU A PARTE. ARTIGO 565 DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1.  ..  3. Assim, se o réu foi considerado revel porque, mesmo sabendo da existência de ação penal em seu desfavor, se mudou sem aviso prévio, o que impossibilitou a sua intimação acerca da audiência de instrução e julgamento, não pode a defesa pretender que o feito seja anulado sob o argumento de que não esgotados os meios válidos para tentar localizá-lo. Precedentes.
+ILEGALIDADE DA PRISÃO PREVENTIVA DO ACUSADO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA JÁ TRANSITADA EM JULGADO. PREJUDICIALIDADE DO RECLAMO NO PONTO.
+1. A aventada ilegalidade da prisão preventiva do paciente, bem como a almejada substituição da sua segregação por medidas cautelares diversas encontram-se prejudicadas ante a superveniência do trânsito em julgado do édito repressivo. Precedentes. 2. Recurso julgado parcialmente prejudicado, e, na parte remanescente, desprovido." (RHC 83.279/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/08/2018, DJe 10/08/2018).
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, arquivem-se os autos.
