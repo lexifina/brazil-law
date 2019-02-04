@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na deliberação monocrática, consoante orienta o princípio da dialeticidade e o disposto no artigos 1.021, § 1º, do NCPC e 259, § 2º, do RISTJ. Aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A, em face da decisão de fls. 495-501, e-STJ, da lavra deste signatário, que negou provimento a agravo em recurso especial.
+O apelo nobre, de sua vez, amparado na alínea "a" do permissivo constitucional, fora deduzido em desfavor de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 396-403, e-STJ):
+PLANO DE SAÚDE - Rescisão unilateral do contrato coletivo pela ré por não convir sua continuidade - Contrato que, embora intitulado como coletivo, tinha como essência caráter individual, pois firmado com microempresa, tendo como beneficiários apenas membros da família (marido, esposa e filhos) - Aplicação do Código de Defesa do Consumidor e do artigo 13, II, da Lei nº 9.656/98 - Abusividade e ilicitude na rescisão unilateral, e no momento em que um dos beneficiários realiza tratamento grave de doença genética - Obrigatória a manutenção do contrato pela ré, nos mesmos termos e condições vigentes quando da denúncia unilateral - RECURSO DESPROVIDO.
+Nas razões do recurso especial (fls. 405-415, e-STJ), a recorrente apontou violação aos artigos 104, 132 188, I, e 478 do CC/2002; e 13 da Lei 9.656/98. Sustentou, em síntese, que: a) a previsão contida no art. 13 da Lei 9.656/98 não se aplicaria ao presente contrato, de natureza coletiva; e b) seria lícita a possibilidade de resilição unilateral, porquanto avençada em contrato plenamente válido.
+Contrarrazões às fls. 452-457, e-STJ.
+Em juízo de admissibilidade (fls. 468-469, e-STJ), negou-se o processamento do recurso especial, sob os fundamentos de que: a) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; b) incidiria ao caso o enunciado nº 7 da Súmula do STJ.
+Em desfavor de tal decisão, foi oposto agravo, no qual se apontou, em suma, que o reclamo merece trânsito, uma vez que: a) a decisão de admissibilidade, ao apreciar o mérito da demanda, usurpou competência do STJ; b) todos os requisitos de admissibilidade foram preenchidos; e c) o exame da pretensão não demandaria reanálise de provas.
+Em decisão monocrática de fls. 495-501, e-STJ, este signatário negou provimento ao apelo nobre, ante a inexistência de nulidade na decisão de nulidade na decisão de admissibilidade proferida pelo Tribunal a quo e incidência da Súmula 83/STJ à espécie.
+Irresignada, a agravante interpõe agravo interno (fls. 517-528, e-STJ), no qual assevera, em suma, que: a) o art. 13 da Lei 9.656/98 tem aplicabilidade somente a planos de saúde individuais; e b) a resilição do contrato em comento configura ato lícito.
+Não foi apresentada impugnação (fls. 533, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na deliberação monocrática, consoante orienta o princípio da dialeticidade e o disposto no artigos 1.021, § 1º, do NCPC e 259, § 2º, do RISTJ. Aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece acolhida, pois os argumentos tecidos pela recorrente não são capazes de infirmar a decisão vergastada.
+1. Da leitura da decisão agravada, colhe-se que esta relatoria negou provimento ao recurso especial com fulcro em precedentes recentes desta Corte, nos quais restou assentado que os contratos de plano de saúde empresariais que possuam menos de 30 beneficiários submetem-se a um regime jurídico híbrido, que compartilha características próprias dos modelos coletivos e individual/familiar.
+Nesse sentido, a resilição unilateral de tais contratos, em que pese possível, deve ser matizada pelas normas do sistema consumerista, as quais podem impedir o exercício de tal potestade, quando o ato violar direitos básicos do consumidor.
+No ponto, relevante a transcrição do seguinte trecho da decisão atacada (fls. 497-499, e-STJ):
+2. No que toca às demais controvérsias suscitadas pela insurgente, melhor razão não lhe assiste.
+Na espécie, consignou o Tribunal de origem que a disciplina do art. 13, II, da Lei 9.656/98, que veda a resilição unilateral do contrato de plano de saúde, seria aplicável à presente avença, uma vez que, não obstante intitulada empresarial, abarcaria pequeno número de beneficiários, integrantes de um mesmo grupo familiar.
+Embora intitulado como empresarial, o contrato celebrado foi entre a operadora do plano de saúde e a pequena empresa com o objetivo de prestar serviços de assistência médica ao sócio, sua esposa e filhos, portanto, ao grupo familiar.
+Assim, inegável que a entidade familiar era a destinatária final dos serviços contratados, justificando a aplicação do Código de Defesa do Consumidor.
+Portanto, de rigor a aplicação ao caso o disposto no artigo 13, II, e 35-E, III da Lei 9656/98, que vedam a rescisão unilateral dos contratos familiares e individuais pela operadora do plano de saúde.
+Com efeito, entende esta Corte que os contratos de plano de saúde integrados por pequeno grupo de beneficiários submetem-se a um regime híbrido, intermediário entre os planos individuais/familiares e coletivos, dada a existência de hipossuficiência da estipulante frente à operadora contratada.
+Nesse contexto, faz-se necessária mitigação de algumas regras próprias do regime jurídico contratos coletivos de assistência à saúde, dentre as quais se destaca a impossibilidade de rescisão unilateral imotivada
+Sobre o tema, relevante a transcrição dos seguintes precedentes:
+RECURSO ESPECIAL. CIVIL. SAÚDE SUPLEMENTAR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE TRINTA BENEFICIÁRIOS. RESCISÃO UNILATERAL E IMOTIVADA. CLÁUSULA CONTRATUAL. MITIGAÇÃO. VULNERABILIDADE. CONFIGURAÇÃO. CARACTERÍSTICAS HÍBRIDAS. PLANO INDIVIDUAL E COLETIVO. CDC. INCIDÊNCIA. MOTIVAÇÃO IDÔNEA. NECESSIDADE. REAJUSTES ANUAIS. MECANISMO DO AGRUPAMENTO DE CONTRATOS. REAJUSTE POR FAIXA ETÁRIA. IDOSO. PERCENTUAL ABUSIVO. DEMONSTRAÇÃO. QUANTIAS PAGAS A MAIOR. DEVOLUÇÃO. PRESCRIÇÃO TRIENAL. OBSERVÂNCIA.
+(..)
+2. As questões controvertidas nestes autos são: se é válida a cláusula contratual que admite a rescisão unilateral e imotivada do plano de saúde coletivo empresarial que contém menos de 30 (trinta) beneficiários e se a devolução das quantias de mensalidades pagas a maior deve se dar a partir de cada desembolso ou do ajuizamento da demanda.
+3. É vedada a suspensão ou a rescisão unilateral nos planos individuais ou familiares, salvo por motivo de fraude ou de não pagamento da mensalidade por período superior a 60 (sessenta) dias (art. 13, parágrafo único, II, da Lei nº 9.656/1998). Incidência do princípio da conservação dos contratos.
+4. Nos contratos de planos privados de assistência à saúde coletivos, admite-se a rescisão unilateral e imotivada após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias, desde que haja cláusula contratual a respeito (art. 17, caput e parágrafo único, da RN ANS nº 195/2009).
+5. Os contratos grupais de assistência à saúde com menos de 30 (trinta) beneficiários possuem características híbridas, pois ostentam alguns comportamentos dos contratos individuais ou familiares, apesar de serem coletivos. De fato, tais avenças com número pequeno de usuários contêm atuária similar aos planos individuais, já que há reduzida diluição do risco, além de possuírem a exigência do cumprimento de carências. Em contrapartida, estão sujeitos à rescisão unilateral pela operadora e possuem reajustes livremente pactuados, o que lhes possibilita a comercialização no mercado por preços mais baixos e atraentes.
+6. Diante da vulnerabilidade dos planos coletivos com quantidade inferior a 30 (trinta) usuários, cujos estipulantes possuem pouco poder de negociação em relação à operadora, sendo maior o ônus de mudança para outra empresa caso as condições oferecidas não sejam satisfatórias, e para dissipar de forma mais equilibrada o risco, a ANS editou a RN nº 309/2012, dispondo sobre o agrupamento desses contratos coletivos pela operadora para fins de cálculo e aplicação de reajuste anual.
+7. Os contratos coletivos de plano de saúde com menos de 30 (trinta) beneficiários não podem ser transmudados em plano familiar, que não possui a figura do estipulante e cuja contratação é individual. A precificação entre eles é diversa, não podendo o CDC ser usado para desnaturar a contratação.
+8. Em vista das características dos contratos coletivos, a rescisão unilateral pela operadora é possível, pois não se aplica a vedação do art. 13, parágrafo único, II, da Lei nº 9.656/1998, mas, ante a natureza híbrida e a vulnerabilidade do grupo possuidor de menos de 30 (trinta) beneficiários, deve tal resilição conter temperamentos, incidindo, no ponto, a legislação do consumidor para coibir abusividades, primando também pela conservação contratual (princípio da conservação dos contratos).
+9. A cláusula contratual que faculta a não renovação do contrato de assistência médica-hospitalar nos contratos de plano de saúde com menos de 30 (trinta) usuários não pode ser usada pela operadora sem haver motivação idônea. Logo, na hipótese, a operadora não pode tentar majorar, de forma desarrazoada e desproporcional, o custeio do plano de saúde, e, após, rescindi-lo unilateralmente, já que tal comportamento configura abusividade nos planos coletivos com menos de 30 (trinta) beneficiários.
+10. É possível a devolução dos valores de mensalidades de plano de saúde pagos a maior, diante do expurgo de parcelas judicialmente declaradas ilegais, a exemplo de reajustes reconhecidamente abusivos, em virtude do princípio que veda o enriquecimento sem causa. Aplicação da prescrição trienal em tal pretensão condenatória de ressarcimento das quantias indevidamente pagas. Precedente da Segunda Seção, em recurso repetitivo.
+11. Recurso especial parcialmente provido.
+(REsp 1553013/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/03/2018, DJe 20/03/2018)  grifou-se
+Nota-se, contudo, que, em sede de agravo interno, a insurgente tão somente reafirma a inaplicabilidade do art. 13 da Lei 9.656/98 aos contratos de cunho coletivo, o que tornaria lícita sua conduta.
+Não impugna, em seu arrazoado, de modo específico, o fundamento invocado pela decisão agravada, qual seja, a aplicabilidade do CDC aos contratos coletivos de plano de saúde com menos de 30 beneficiários, a qual pode conduzir à inviabilidade da resilição unilateral da avença, quando a medida representar violação à ordem consumerista - tal como fixado no caso em tela pelo Tribunal de origem.
+Assim, ausente o ataque inequívoco à tese que dá amparo à decisão recorrida, reputa-se violado o princípio da dialeticidade, apregoado pelos artigos 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ, o que impede o conhecimento do agravo, nos termos da Súmula 182/STJ. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. APLICAÇÃO DA SÚMULA 182/STJ. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. CABIMENTO. DESNECESSIDADE DE COMPROVAÇÃO DE TRABALHO ADICIONAL. AGRAVO IMPROVIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência da Súmula n. 182/STJ.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1299920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a incidência da Súmula nº 362 do STJ, que levou ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado. Inobservância do art. 1.021, § 1º, do NCPC, e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1190687/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/03/2018, DJe 05/04/2018)
+Logo, diante do vício de fundamentação ora verificada, impõe-se a manutenção da decisão unipessoal.
+2. Do exposto, não conheço do agravo.
+É como voto.
