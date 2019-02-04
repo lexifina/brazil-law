@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “INDENIZAÇÃO POR DANOS MATERIAIS (FASE DE CUMPRIMENTO DE SENTENÇA) Despacho que determinou nova intimação do executado para adimplemento voluntário da obrigação (face à retificação do cálculo, pela Contadoria) - Hipótese de não conhecimento do recurso Inexistência de cunho decisório, tampouco previsão no rol do art. 1.015 do Novo CPC (taxativo) e, portanto, não pode ser desafiada por agravo de instrumento (mas sim através de impugnação ao cumprimento de sentença, já ofertada pelos mesmos devedores, conforme consulta ao andamento processual) - Precedentes - Decisão mantida Recurso não conhecido.” (eDOC 19, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido teria prejudicado ato jurídico perfeito ao manter sentença que considerou novo cálculo da contadoria judicial em detrimento de perícia anteriormente realizada, o que não configuraria retificação de cálculo. (eDOC 25, p. 9)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil), consignou que a Contadoria apenas realizou retificação de cálculos, e que o pedido da recorrente não poderia ser discutido em sede de Agravo de Instrumento. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Anote-se que, inobstante tenha o r. despacho objeto da insurgência recursal sido proferido na fase de cumprimento de sentença, o certo é que não se enquadra na hipótese prevista no art. 1.015, I, parágrafo único, do Novo CPC, simplesmente por não possui cunho decisório. Limitou-se a determinar a intimação dos executados (ora agravantes) para adimplemento voluntário da obrigação, diante da retificação do cálculo pela Contadoria, nos termos do artigo 523, § 1º, do mesmo Estatuto.
+    Destarte, o inconformismo dos agravantes com relação ao novo cálculo ou sua retificação, deve, ser, desafiado mediante impugnação, como de fato o foi, conforme consulta ao andamento processual (impugnação, inclusive, já respondida, com nova determinação de remessa dos autos ao Contador, ante a divergência dos cálculos).” (eDOC 19, p. 4)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 8.9.2014. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO DISTRITAL. REAJUSTE DE 84,32% REFERENTE A MARÇO DE 1990. RETIFICAÇÃO DE CÁLCULO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DA AMPLA DEFESA E DA COISA JULGADA. REPERCUSSÃO GERAL REJEITADA. AGRAVO REGIMENTAL DESPROVIDO” (RE 648.566 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 16.03.2017)
+    “AÇÃO RESCISÓRIA. CABIMENTO. EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI E LV, DA CONSTITUIÇÃO FEDERAL. ATO JURÍDICO PERFEITO, COISA JULGADA E DIREITO ADQUIRIDO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. CONTRADITÓRIO E AMPLA DEFESA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.” (ARE 979.470 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20.02.2017)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
