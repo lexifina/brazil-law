@@ -1,0 +1,10 @@
+Decisão: Trata-se, originalmente, de habeas corpus impetrado em favor de CESARE BATTISTI contra “ato passível de ser praticado pelo Exmo. Sr. Presidente da República, tendo em vista fundado receio de ameaça à liberdade de locomoção do Paciente, considerando a existência de expediente administrativo a fim de embasar decisão do Chefe do Poder Executivo, a qual poderá culminar na remessa do Paciente para o exterior, contra sua vontade”. O impetrante postulou “ordem para obstar eventual extradição, deportação ou expulsão do Paciente, passível de ser levada a efeito pela autoridade coatora, o Exmo. Sr. Presidente da República”.
+    No dia 12 de dezembro de 2018, decretei a prisão cautelar do ora requerido, tendo em vista: 1) a decisão plenária na EXT 1.085, na qual ficou assentada a autorização desta Suprema Corte para a extradição de CESARE BATISTI, condicionada a entrega à decisão do Presidente da República, no exercício da soberania estatal; 2) a inaplicabilidade, aos atos de soberania estatal, do prazo decadencial previsto na Lei 9.784/99 para revogação dos atos administrativos, por ser da própria natureza do exercício do poder soberano, como é o caso da concessão de refúgio, a sua revisibilidade a qualquer tempo, porquanto amparado em juízo estritamente político e sujeito às conjunturas sociais, tanto internas quanto externas; 3) a presença dos requisitos legais da Lei de Migração (art. 84 da Lei 13.445/2017) para a decretação da prisão do Requerido.
+    Como é de conhecimento público, a prisão de CESARE BATISTI foi efetuada no último dia 12 de janeiro, na Bolívia, de onde se procedeu à sua entrega direta às autoridades italianas.
+    Por meio da Petição 1101/2019, a defesa do extraditando requereu “a desistência da ação, considerando o fato notório acerca da entrega do Reclamante à Itália”.
+    Ex positis, homologo o pedido de desistência e julgo extinto o processo, sem resolução de mérito, com fundamento nos artigos 21, VIII, do RISTF e 485, VIII, do CPC.
+    Publique-se. Int..
+    Brasília, 4 de fevereiro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
