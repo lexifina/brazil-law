@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SLC ALIMENTOS LTDA E FILIAL(IS), em 16/07/2018, em face de decisão que inadmitiu Recurso Especial, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. ICMS. CONVÊNIO ICMS Nº 100/97 DO CONFAZ. ART. 9º, INCISO VIII, "F", DO LIVRO I DO RICMS. ISENÇÃO DAS SAÍDAS INTERNAS DE FARELO ESTABILIZADO DE ARROZ DESTINADO A ALIMENTAÇÃO ANIMAL OU EMPREGO EM RAÇÃO ANIMAL.
+O Convênio ICMS nº 100/97 apenas autorizou que os Estados e o Distrito Federal concedessem redução de base de cálculo ou isenção do imposto em relação às operações internas de produtos nele relacionados.
+O RICMS especificou a previsão contida no Convênio, que autorizava a concessão de isenção nas saídas internas de "farelo de arroz" destinado à alimentação animal ou emprego na fabricação de ração animal, limitando o benefício apenas ao "farelo estabilizado de arroz".
+Possibilidade de tal limitação, porque os Convênios do CONFAZ relativos a isenção de ICMS apenas autorizam os Estados. Apenas ao Estado cabe dispor sobre o benefício, podendo fazê-lo ou não.
+Os subprodutos de arroz que pretende a impetrante sejam enquadrados como "resíduos industriais" não estão abrangidos nesta expressão, pois, em relação àquela espécie, apenas o rareio estabilizado de arroz foi previsto no RICMS.
+APELAÇÃO PROVIDA. REMESSA NECESSÁRIA PREJUDICADA" (fl. 394e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 416/422e).
+No Recurso Especial, interposto com fundamento na alínea a do permissivo constitucional, as partes ora agravantes alegam violação ao art. 1º da Lei Complementar 24/75, sustentando, em síntese, que têm "direito líquido e certo à isenção do ICMS prevista no art. 9o, VIII, "f", do Livro I do RICMS/RS e na Cláusula Primeira, VI, do Convênio Confaz 100/97, sempre que promoverem vendas de farelo de arroz NÃO estabilizado destinadas à alimentação animal ou à fabricação de ração animal"; que "a Corte Estadual, ao negar aplicação a norma estadual e ao próprio Convênio Confaz 100/97 em face de saídas de farelo de arroz não estabilizado, acabou por violar o próprio art. 1o da LC 24/75, no qual consta que "as isenções do imposto sobre operações relativas à çirculação de mercadorias serão concedidas ou revogadas nos termos de convênios celebrados e ratificados pelos Estados e pelo Distrito Federal" (art. 1o, LC 24/75)" (fls. 429/445e).
+O Recurso Especial foi inadmitido, pelo Tribunal de origem (fls. 471/476e), o que ensejou a interposição do presente Agravo (fls. 480/490e).
+A irresignação não merece prosperar.
+Com efeito, no caso dos autos, a Corte a quo entendeu, mediante a análise do Regulamento Estadual do ICMS, que não cabe a isenção do ICMS em relação às saídas internas de farelo de arroz não estabilizado destinado à alimentação animal ou fabricação de ração animal, de modo que inviável seu exame em sede de Recurso Especial, nos termos da Súmula 280/STF, que preceitua: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+"PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. APLICAÇÃO DE MULTA FISCAL PELO DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. OBSERVÂNCIA DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF.
+1. A Corte de origem, ao apreciar a controvérsia, fundamentou sua decisão com base na interpretação da legislação local, o que inviabiliza a apreciação da questão em sede de recurso especial.
+Incidência da Súmula 280/STF.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 976.282/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/02/2017).
+"PROCESSO CIVIL E TRIBUTÁRIO. ICMS. RESPONSABILIDADE TRIBUTÁRIA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. RETROATIVIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. LEI ESTADUAL. SÚMULA 280/STF.
+1. Recurso especial em que se discute responsabilidade tributária de empresa de depósito, autuada por não cumprimento de obrigação acessória.
+2. Hipótese em que o Tribunal de origem declarou que a empresa contratou a pessoa jurídica declarada inidônea pelo fisco (em razão de emitir notas fiscais "frias") e armazenou mercadorias sem tomar as mínimas precauções. Reformar as premissas fáticas adotadas pelo tribunal de origem encontra óbice na súmula 7 do Superior Tribunal de Justiça.
+3. A questão controvertida dos autos perpassa pela análise de norma local (art. 12, I, "c", do RICMS, e art. 9º da Lei Estadual 6.374/89), pelo que é de rigor a incidência da Súmula 280 do STF: "Por ofensa a direito local, não cabe recurso extraordinário".
+Agravo regimental improvido" (STJ, AgRg no REsp 1.43.8434/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL. EXCLUSÃO DA CONDENAÇÃO DA AUTARQUIA ESTADUAL AO PAGAMENTO DAS CUSTAS JUDICIAIS. TAXA JUDICIÁRIA. APLICAÇÃO DE DIREITO LOCAL. SÚMULA 280 DO STF.
+1. A ofensa a direito local não desafia o recurso especial (Súmula 280/STF).
+2. A pretensão do recorrente requer aplicação de lei local, revelando-se incabível a via recursal extraordinária para rediscussão da matéria, ante a incidência da Súmula 280/STF.
+(Precedentes: AgRg no Ag 833.632/SP, DJ 08.10.2007; AgRg no REsp 855.996/MG, DJ 15.10.2007; (REsp 861.155/MG, DJ 13.09.2007) 3. In casu, o acórdão recorrido se respaldou na Lei Estadual nº 12.399/06, conforme se verifica nos trechos do aresto recorrido: "(..) A Lei Estadual nº 12 399/06 isentou condicionalmente contribuintes em débito de ICMS do recolhimento integral de juros e multas.(..)" (fl. 19, do e-STJ) 4. Agravo regimental a que se nega provimento" (STJ, AgRg no Ag 1.322.009/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 16/11/2010).
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
