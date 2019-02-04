@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA ECONÔMICA FEDERAL, com fundamento no art. 105, III, "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+"ADMINISTRATIVO. AGRAVO REGIMENTAL. COBRANÇA DE COTAS CONDOMINIAIS. RESPONSABILIDADE DA CEF.
+Ainda que os imóveis que se encontram em débito para com o autor em relação às respectivas cotas condominiais tenham sido alienados a terceiros, não há como afastar a responsabilidade da CEF pelo respectivo pagamento.
+Os imóveis encontram-se registrados, perante o respectivo Ofício do Registro de Imóveis, em nome do Fundo de Arrendamento Residencial - FAR, cuja gestão foi legalmente atribuída à CEF (Lei n. 10.188/01, art. 2º, § 8º), a quem compete, ainda, "representar o arrendador ativa e passivamente, judicial e extrajudicialmente" (idem, art. 4º, inc. VI)" (fl. 318 e-STJ).
+Os embargos de declaração opostos foram parcialmente acolhidos apenas para reconhecer o prequestionamento (fl. 360-369 e-STJ).
+Nas razões recursais (fls. 374-400 e-STJ), a recorrente alega violação dos arts. 489, § 1º, V, 1.021, § 3º, 1.022 do Código de Processo Civil de 2015, 3º, 17 e 267, VI, do Código de Processo Civil de 1973, 1º e 2º da Lei nº 10.188/2001.
+Alega a ausência de fundamentação no acórdão do agravo interno, haja vista que a relatora limitou-se a transcrever na íntegra a decisão unipessoal.
+Aduz a ocorrência de negativa de prestação jurisdicional no julgamento dos embargos declaratórios, pois os vícios indicados não foram sanados.
+Assevera, ainda, a sua ilegitimidade passiva para responder pelas dívidas condominiais dos moradores (possuidores regulares ou posseiros).
+Após as contrarrazões (fls. 412-432 e-STJ), a Vice-Presidência do tribunal de origem admitiu o processamento do presente apelo (fl. 435 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Na origem, Condomínio Residencial Jardim Sesquicentenário (ora recorrido) ajuizou ação de cobrança contra Fundo de Arrendamento Residencial - FAR (ora interessado), representado pela Caixa Econômica Federal - CEF (ora recorrente), postulando o pagamento de despesas condominiais (fls. 3-10 e-STJ).
+O magistrado de piso julgou procedentes os pedidos (fls. 242-246 e-STJ).
+Interposta a apelação (fls. 251-256 e-STJ), o relator negou-lhe seguimento (fls. 283-288 e-STJ), sendo mantida no julgamento do agravo interno (fls. 311-319 e-STJ). Eis, por pertinente, os fundamentos do acórdão recorrido:
+"(..)
+No caso concreto, não há necessidade de formação de litisconsórcio no polo passivo da ação, porquanto não se trata de litisconsórcio unitário. Além disso, não há previsão legal acerca da obrigatoriedade de participação de outras pessoas na demanda. Assim, eventual citação das pessoas indicadas pela parte ré permitiria o ingresso no feito de terceiros estranhos à lide principal e ampliaria o número de relações jurídicas em discussão: além daquela existente entre autor e ré, haveria, obrigatoriamente, de ser discutida a relação da CEF com os terceiros e entre esses mesmos terceiros e o autor. (..)
+Em suma, eventual discussão sobre a divisão de responsabilidade entre a CEF e os terceiros que com ela contrataram, por não dizer respeito ao mérito da pretensão trazida na petição inicial, deverá ser objeto de ação própria, a fim de dar efetividade ao princípio constitucional que assegura "a razoável duração do processo e os meios que garantam a celeridade de sua tramitação" (CRFB, art. 5º, inc. LXXVIII).
+Quanto à afirmação de que todos os valores devidos - ou parte deles - poderiam ter sido satisfeitos pelos ocupantes dos imóveis em débito, por se tratar de causa extintiva do direito do autor, o ônus da prova de sua ocorrência está a cargo da CEF, nos exatos termos do inc. II do art. 333 do CPC. (..)
+No caso concreto, ainda que os imóveis que se encontram em débito para com o autor em relação às respectivas cotas condominiais tenham sido alienados a terceiros, não há como afastar a responsabilidade da CEF pelo respectivo
+pagamento. A uma, porque os imóveis em questão encontram-se registrados, perante o respectivo Ofício do Registro de Imóveis, em nome do Fundo de Arrendamento Residencial - FAR (E1, MATRIMÓVEL7; MATRIMÓVEL9;
+MATRIMÓVEL12; MATRIMÓVEL14; MATRIMÓVEL16; MATRIMÓVEL18;
+MATRIMÓVEL20; MATRIMÓVEL22; MATRIMÓVEL24; MATRIMÓVEL26), cuja gestão foi legalmente atribuída à CEF (Lei n. 10.188/01, art. 2º, § 8º), a quem compete, ainda, "representar o arrendador ativa e passivamente, judicial e extrajudicialmente" (idem, art. 4º, inc. VI). A duas, porque a CEF sequer levou os contratos de transferência a registro, obrigação que lhe competia, nos termos da cláusula trigésima dos respectivos instrumentos (E23, CONTR3 a CONTR12). E, a três, porque tais imóveis teriam sido abandonados por seus ocupantes, encontrando-se desocupados nos dias atuais.
+Portanto, a responsabilidade do proprietário pela satisfação das cotas condominiais vencidas e vincendas, no caso concreto, é principal, e não subsidiária, como quer fazer crer a parte ré, o que leva à procedência da pretensão formulada na petição inicial, nesse ponto" (fls. 284-286 e-STJ).
+Por sua vez, no presente recurso, a recorrente alega a configuração da negativa de prestação jurisdicional sob o fundamento de que o acórdão recorrido deixou de apreciar as seguintes questões: (i) incidência do art. 1º, § 1º, da Lei nº 10.188/2001, o qual estabelece que a gestão do FAR cabe ao Ministério das Cidades, sendo, portanto, o imóvel de propriedade da União; (ii) os bens e os direitos do Fundo não se comunicam com o patrimônio da CEF nem mesmo integram o seu ativo; (iii) a CEF não pode responder patrimonialmente por dívida condominial da União; (iv) necessidade de litisconsórcio passivo necessário da União e dos compradores do imóvel e (v) expressa previsão contratual e legal acerca da responsabilidade do comprador (devedor fiduciante) pelo pagamento da dívida.
+Cotejando as premissas acima, é possível verificar que o acórdão recorrido deixou de analisar matérias essenciais ao deslinde da controvérsia, todas expostas nas razões dos embargos de declaração de fls. 324-338 e-STJ.
+Dessa forma, ocorreu a negativa de prestação jurisdicional, devendo os autos retornarem ao tribunal de origem para apreciar os pontos acima indicados, ficando prejudicados os demais argumentos.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 535 do CPC.
+2. Na hipótese, é imprescindível a prévia manifestação do Tribunal de origem sobre a questão relativa à impossibilidade de se descontar dos proventos as parcelas que eram tidas por indevidas, no período acobertado por decisão transitada em julgado, baseada nas alegações de boa-fé e de natureza alimentar dos proventos.
+3. Cumpre ressaltar que se equivoca o Tribunal a quo, ao afirmar que, em se tratando de competência originária do Tribunal de Justiça, há devolução de toda a matéria ao Tribunal Superior, porquanto, ainda que interposto nos autos de ação rescisória, o recurso especial não tem a natureza de "recurso ordinário", de modo que subsistem os requisitos de admissibilidade referentes a tal recurso, inclusive a necessidade de prequestionamento da matéria suscitada.
+4. Recurso especial provido"
+(REsp 1.260.022/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/12/2011, DJe 2/2/2012 - grifou-se).
+"PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME]"
+(REsp 1.337.055/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/08/2012, DJe 11/09/2012 - grifou-se).
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão de fls. 360-369 e-STJ, determinando a devolução dos autos ao tribunal de origem para reapreciar as alegações apresentadas nos embargos de declaração de fls. 324-338 e-STJ, nos moldes da fundamentação supra.
+Publique-se.
+Intimem-se.
