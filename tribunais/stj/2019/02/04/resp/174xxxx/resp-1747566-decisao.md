@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. COMPENSAÇÃO COM PERÍODOS LABORADOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS DE LEI FEDERAL TIDOS POR VIOLADOS. SÚMULA 282/STF. PRECLUSÃO DA POSSIBILIDADE DE ALEGAÇÃO, EM EMBARGOS DE EXECUÇÃO DE MATÉRIA NÃO ABORDADA NO PROCESSO DE CONHECIMENTO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" , da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 94):
+EXECUÇÃO. AUXÍLIO -DOENÇA. DESCONTO DO PERÍODO DE PRESTAÇÃO LABORATIVA. AUSÊNCIA DE COMPENSAÇÃO NO TÍTULO EXECUTIVO OU FATO SUPERVENIENTE. OBEDIÊNCIA. COISA JULGADA.
+- O magistrado, na fase de execução, está adstrito à imutabilidade da coisa julgada (art. 5º, XXXVI, da Constituição Federal) e ao conteúdo do título executivo.
+- O título judicial em execução não determinou a compensação de eventuais parcelas atrasadas a serem pagas nos períodos em que a parte autora exerceu atividade laborativa. Obediência à coisa julgada.
+- A autarquia previdenciária dispunha das informações referentes ao alegado vínculo empregatício do exequente já na fase de conhecimento, pois constavam da base de dados do Cadastro Nacional de Informações Sociais - CNI S Apelação do INSS desprovida.
+A parte recorrente alega violação dos artigos 42, 43, 46, 47, 59, 60, 101 e 115, II, da Lei 8.213/1991, 71 da Lei n. 8.212, 368, 876, 884 e 885, do Código Civil, e 462, 741 e 743 do CPC/1973, argumentando, em síntese, a impossibilidade de execução dos valores devidos a título de benefício de aposentadoria por invalidez concomitante ao período em que a parte exequente exerceu atividade laborativa, suscitando a autorização de compensação dos valores recebidos de forma indevida, sob pena de enriquecimento sem causa do segurado.
+Ainda, alega que, em atenção ao princípio da especialidade, é "irrelevante se o recolhimento/trabalho do exequente ocorreu antes ou depois do trânsito em julgado da ação de conhecimento, não havendo portanto que se falar em preclusão" (fl. 100).
+Juízo positivo de admissibilidade às fls. 118/119.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Primeiramente, no que pertine a alegada violação aos artigos 42, 43, 46, 47, 59, 60, 101 e 115, II, da Lei 8.213/1991, 71 da Lei n. 8.212, 368, 876, 884 e 885, do Código Civil, e 462, 741 e 743 do CPC/1973, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ademais, colhe-se do voto condutor do acórdão recorrido que as razões de impossibilidade de percepção do benefício durante exercício laborativo por parte do exequente poderiam, mas não foram suscitadas durante a fase de cognição, o que torna impossível de ser revista em sede de execução, por força da coisa julgada, verbis (fl. 93, e-STJ):
+Com efeito, a liquidação deverá sempre se ater aos termos e limites estabelecidos na r. sentença e no v. acórdão. Mesmo que as partes tivessem assentido com a liquidação, não estaria o Juiz obrigado a acolhê-la nos termos em que apresentada se em desacordo com a coisa julgada, com o que se impede "que a execução ultrapasse os limites da pretensão a executar" (RTFR 162/37). Veja-se também: RT 160/138; STJ-RF 315/132.
+Além disso, verifica-se que o embargante dispunha das informações referentes ao alegado vínculo empregatício do exequente já na fase de conhecimento, pois constavam da base de dados do Cadastro Nacional de Informações Sociais - CNIS (fl. 21/22).
+Assim, tendo em vista que a autarquia previdenciária não requereu, durante a fase de conhecimento, o desconto do período em que a parte autora manteve atividade laborativa, nem comprovou fato superveniente à sentença, é indevida a compensação, ante ofensa à coisa julgada.
+O recorrente, ao direcionar a sua tese no sentido de que "são necessários os descontos dos períodos de trabalho após os termos iniciais dos benefícios fixados judicialmente, que não podem ser cumulados com benefícios de incapacidade" (fl. 100, e-STJ), deixou de impugnar a referida fundamentação nas razões do recurso especial, o que torna inadmissível o recurso que não a impugnou. Aplica-se ao caso as Súmulas 283 e 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
