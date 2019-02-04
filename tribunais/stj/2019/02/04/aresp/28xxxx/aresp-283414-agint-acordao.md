@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. PROCEDIMENTO ADMINISTRATIVO. LEGALIDADE. SÚMULA 7 DO STJ. APLICAÇÃO.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Infirmar o entendimento alcançado pela Corte de origem, acerca da legalidade de procedimento administrativo, depende do reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por LIDIO JOÃO FERRAZ DE DEUS contra decisão proferida às e-STJ fls. 681/683, que conheceu do agravo para não conhecer do recurso especial.
+Repisa a parte agravante que não é hipótese de aplicação da Súmula 7 do STJ.
+Impugnação (e-STJ fls. 703/708).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal registro, verifica-se que a parte recorrente não trouxe nenhum argumento capaz de alterar o decisum atacado.
+Conforme consignado no decisum atacado, a Corte a quo entendeu pela legalidade do procedimento administrativo. Por oportuno, confiram-se os seguintes trechos extraídos do acórdão recorrido:
+Na hipótese, ressai incontroverso que a acusação foi formulada pelo Cel. [NOME] (fl. 352). A par disso e em razão de não haver comprovação de nenhum parentesco entre ele e o Maj. [NOME], Presidente do Conselho, ou ainda com o justificante ou os oficiais, conclui-se pela inocorrência de parcialidade a ratificar a impossibilidade da atuação do conselheiro presidencial, já que faltante a subsunção do fato alegado às previsões legais. Além disso, não se pode olvidar que os atos administrativos gozam de presunção de legitimidade e nessa" condição, elidem a decretação de invalidade procedimental com espeque apenas em singelas ilações, desprovidas de demonstração de prejuízo" (e-STJ fls 524/525)
+(..)
+No tocante ao libelo acusatório, também revela-se sem densidade a anulação sugerida, pois fácil é constatar que o ato indicou, um a um e claramente, os fatos que desencadearam o procedimento, ao longo de três páginas (fls. 124-126), cuja inteligibilidade e riqueza de detalhes permitiram a elaboração de defesa  fls. 310-321), por meio de Procurador devidamente constituído (fl. 161), que inclusive acompanhou todo o desenvolvimento procedimental. Tanto é verdade a precisão, e lucidez das razões lá expostas, que sequer o apelante logrou pontuar em que exatamente consistiu a falha do libelo, rodeando em torno de vagas ponderações, incapazes de evidenciar o efetivo óbice à defensão. Ademais, ainda que não fosse tão minudente como fora e que seu teor se limitasse a permitir a compreensão das acusações, sem requinte de pormenorizações, seria igualmente válido, uma vez que no âmbito administrativo, ínexiste a necessidade de tipificação estrita e a observância de rígidas solenidades, havendo-se por suficiente o respeito ao devido processo legal e a asseguração da ampla defesa e do contraditório" (e-STJ fls 525/526).
+(..)
+"Por mesma razão, quer seja, pela informalidade do procedimento administrativo, sobressai insubsistente a alegação de que a alteração da ordem de coleta dos depoimentos testemunhais configurou causa de nulidade do ato, se a ela não concorreu, nenhuma nesga de lesão à defesa, já que o Presidente do Conselho outorgou ao justificante o direito à reinquirição de testemunhas para reparar a inversão seqüencial (fl. 309), direito esse, que vale notar, sequer foi aproveitado pelo apelante. De modo que sobeja perceptível que a insurgência nesse aspecto, não passa de simples apego ao formalismo, ao invés de oposição a dano, propriamente dito. Com efeito, segundo o princípio pas de nullité sans grief é indevida a declaração de nulidade de atos processuais por aspecto formalístico quando tenham atingido sua finalidade" (e-STJ fls. 527/528).
+Dessa forma, verifica-se que a controvérsia foi decidida com base na realidade do conjunto fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial ante o óbice estampado na Súmula 7 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
