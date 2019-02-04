@@ -1,0 +1,23 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO. MARCO INICIAL. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. A Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, ocorrido em 22/2/2018, da relatoria do Ministro Rogerio Schietti Cruz, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+2. Agravo regimental improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão de minha relatoria, assim ementada (fl. 112):
+HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO. MARCO INICIAL. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE.
+Ordem concedida liminarmente nos termos do dispositivo.
+Em suas razões recursais, defende o agravante que, no caso de superveniência de nova condenação, se, após somadas as penas, não for alterado o regime carcerário do condenado, o prazo para a concessão do benefício da progressão de regime deverá ser interrompido e calculado a partir do trânsito em julgado da nova condenação e com base na soma das penas a serem cumpridas (fls. 120/121).
+Aduz que entendimento contrário à tese ora defendida fere os princípios constitucionais da reserva legal e da individualização da pena (art. 5º, XXXIX e XLVI, da CF), ao permitir a aplicação de benefício não previsto em Lei, fazendo com que o condenado seja favorecido pela manutenção da data-base em período anterior ao da nova condenação, deixando, por conseguinte, de individualizar corretamente a reprimenda (fl. 122).
+Requer o conhecimento e o provimento do agravo, a fim de que seja reformada a decisão hostilizada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Narram os autos que o Juízo da Unidade Regional de Execução Criminal de São José do Rio Preto - DEECRIM 8ª RAJ, em virtude de nova condenação, ao homologar os cálculos, considerou, como termo inicial para novos benefícios, a data da execução provisória da pena, pois ocorrida em data anterior ao trânsito em julgado da sentença (fl. 43).
+Interposto recurso pelo Ministério Público, o Tribunal paulista, por unanimidade, deu provimento para constar como data para novos benefícios a data do trânsito em julgado da última condenação (fl. 109).
+Ocorre que, conforme ficou explicitado na decisão impugnada, a Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, ocorrido no dia 22/2/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+Como dito no voto condutor, é preciso ressaltar que a unificação de nova condenação definitiva já possui o condão de recrudescer o quantum de pena restante a ser cumprido pelo reeducando, logo, a alteração da data-base para concessão de novos benefícios, a despeito da ausência de previsão legal, configura excesso de execução, baseado apenas em argumentos extrajurídicos.
+Assim, não trazendo fundamentos aptos a infirmar a decisão agravada, mantenho-a integralmente.
+Ante o exposto, nego provimento ao agravo regimental.
