@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. SUPERAÇÃO DO ÓBICE NA OCASIÃO DA APRECIAÇÃO DO PEDIDO LIMINAR. SUPERVENIÊNCIA DE JULGAMENTO DO MÉRITO DO HABEAS CORPUS ORIGINÁRIO. DENEGAÇÃO DA ORDEM. NECESSIDADE DE CONFIRMAÇÃO DA TUTELA PROVISÓRIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MENÇÃO APENAS À GRAVIDADE ABSTRATA DO CRIME E A CONJECTURAS SOBRE RISCO PARA ORDEM PÚBLICA E SEGURANÇA DA SOCIEDADE. INEXISTÊNCIA DE INDICAÇÃO DE ELEMENTOS CONCRETOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de teratologia ou ilegalidade manifesta.
+2. No caso, na ocasião da apreciação do pedido liminar, o referido óbice foi superado, tendo em vista a verificação de teratologia manifesta na decisão que decretou a prisão preventiva do paciente. Sobreveio o julgamento do mérito do writ originário, tendo a ordem sido denegada, situação que demanda a confirmação da liminar anteriormente deferida.
+3. Conforme reiterada jurisprudência deste Superior Tribunal, a prisão cautelar só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência.
+4. Ordem concedida, confirmando-se a liminar deferida, para revogar a prisão preventiva imposta ao paciente, sem prejuízo da aplicação, ou não, de cautelares diversas pelo Magistrado singular, fundamentadamente, ou de decretação de nova prisão preventiva, caso haja motivos concretos e supervenientes para tanto.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], em que se aponta constrangimento ilegal no indeferimento do pedido liminar feito no HC n. 5423352.78.2018.8.09.0000, em curso no Tribunal de Justiça de Goiás, e consequente manutenção da prisão preventiva do paciente, pela suposta prática dos crimes do art. 33 da Lei n. 11.343/2006 e art. 12 da Lei n. 10.826/2003.
+Postula-se, inicialmente, a superação do óbice da Súmula 691/STF, porquanto o decreto prisional carece de fundamentação concreta a justificá-la.
+Requer-se, ao final, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição de alvará de soltura.
+Em 18/9/2018, deferi a liminar para que o acusado pudesse aguardar em liberdade o julgamento final do presente writ, sem prejuízo da aplicação de medidas cautelares diversas da prisão, fundamentadamente, pelo Magistrado singular, ou da superveniência do esgotamento das instâncias ordinárias.
+Em 16/10/2018, o Ministério Público Federal emitiu parecer pela prejudicialidade do habeas corpus (fls. 141/142).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a impetração a revogação da prisão preventiva imposta ao paciente, visto que carente de fundamentos a justificá-la.
+Dos autos, tem-se a informação de que o Tribunal de Justiça, por maioria, julgou o mérito do Habeas Corpus n. 5423352.78.2018.8.09.0000, denegando a ordem.
+Assim, a liminar anteriormente deferida necessita de confirmação, sob pena de se restabelecer o constrangimento ilegal a que fora submetido o paciente.
+O Magistrado singular fundamentou a decretação da prisão cautelar do acusado, nos seguintes termos (fls. 102/103):
+ ..  in casu, com efeito, pelos elementos informadores tenho que, ao menos nesta quadra, há que ser convertido a prisão em flagrante em prisão preventiva, pois vejo presentes os requisitos do art. 312 do CPP, mormente a necessidade de se assegurar a garantia da ordem pública.
+ ..
+Ademais, ao meu sentir, não é, ao menos nesta fase da persecutio criminis, o caso de aplicação isolada ou cumulativamente, de quaisquer das medidas cauletares previstas na Lei 12.403/11, por todos os fundamentos retros.
+O Tribunal de Justiça, no julgamento do habeas corpus, limitou-se a afirmar que a custódia foi decretada em vista dos evidentes indícios da autoria e materialidade delitiva, com base nos elementos concretos dos autos. Além disso, considerou-se a medida de ser necessária para a garantia da ordem pública e aplicação da lei penal. Diversamente do alegado, o ato decisório atacado está adequadamente fundamentado e em razões válidas (fl. 134).
+Da análise dos trechos transcritos, observa-se que não há elemento concreto que justifique a decretação da custódia, mormente porque há apenas considerações genéricas a respeito da gravidade do crime, sem nenhuma indicação pontual de como a liberdade do paciente poderia prejudicar a ordem pública ou a aplicação da lei penal, o que é inadmissível, nos termos da jurisprudência deste Superior Tribunal.
+Não tendo o decreto preventivo apontado elementos hábeis a demonstrar a necessidade da prisão para garantia da ordem pública ou econômica, ou da instrução criminal e assegurar a aplicação da lei penal, faz-se necessária a revogação da custódia, segundo a jurisprudência desta Corte.
+Confira-se:
+HABEAS CORPUS. HOMICÍDIOS TENTADOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MENÇÃO A GRAVIDADE ABSTRATA DO CRIME E A AUSÊNCIA DE RESIDÊNCIA FIXA NO DISTRITO DA CULPA. ARGUMENTAÇÃO DISSOCIADA DE OUTRO ELEMENTO CONCRETO DOS AUTOS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Conforme reiterada jurisprudência deste Superior Tribunal, a prisão cautelar só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência.
+2. No caso, o Juízo de primeiro grau não apresentou nenhum elemento concreto que justificasse a decretação da custódia, tendo se limitado a considerações a respeito da gravidade abstrata do crime e a ausência de moradia fixa do réu.
+3. Não cabe ao Tribunal de origem agregar motivação em decisão que pecou por sua carência.
+4. Ordem concedida para que o paciente [NOME] aguarde em liberdade o julgamento da ação penal, se por outra razão não estiver preso e ressalvada a possibilidade de haver decretação de nova prisão, caso se apresente motivo novo e concreto para tanto, deixando a cargo e critério do Juízo de primeiro grau a possibilidade de aplicação de medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+(HC n. 382.022/SP, de minha relatoria, Sexta Turma, DJe 14/8/2017 - grifo nosso)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DEFICIENTE. GRAVIDADE ABSTRATA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração do que consiste o periculum libertatis.
+2. No caso, o decreto de prisão preventiva carece de fundamentação concreta, pois se limita a invocar a gravidade abstrata da conduta atribuída ao paciente, ausente, portanto, a indicação de dado concreto que justifique a imposição da prisão provisória.
+ ..
+4. Ordem concedida.
+(HC n. 362.244/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 10/11/2016 - grifo nosso)
+Em face do exposto, concedo a ordem, confirmando-se a liminar deferida, para revogar a prisão preventiva imposta ao paciente, sem prejuízo da aplicação, ou não, de cautelares diversas pelo Magistrado singular, fundamentadamente, ou de decretação de nova prisão preventiva, caso haja motivos concretos e supervenientes para tanto.
