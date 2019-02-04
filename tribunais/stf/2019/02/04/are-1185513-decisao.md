@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA. MANDADO DE INJUNÇÃO. IMPROCEDÊNCIA DO PEDIDO. ADICIONAL NOTURNO AOS POLICIAIS MILITARES. QUESTÃO DEFINIDA EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS TRANSITADO EM JULGADO. APLICAÇÃO DE MULTA DO ART. 1.021, §4º DO CPC.” (eDOC 1, p. 215)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LXXI; 7º, IX; e 39, § 3º, do texto constitucional.
+    Nas razões recursais, alega-se o direito à percepção de adicional noturno sobre o valor da hora normal, tendo em vista o fato de que os servidores trabalham sob regime diferenciado de plantão, bem como alega a omissão por parte do Poder Público em regulamentar o referido direito. (eDOC 1, p. 255/256)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local e infraconstitucional aplicável à espécie (Lei Estadual 10.098/1994 e Código de Processo Civil) e o conjunto probatório constante dos autos, bem como jurisprudência do Superior Tribunal de Justiça, consignou que os militares não teriam direito ao adicional noturno. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Conforme exposto na decisão monocrática, em 15/08/2016 foi admitido pelo Órgão Especial deste Tribunal de Justiça o Incidente de Resolução de Demandas Repetitivas (IRDR) nº 700694450039, diante da existência de vários Mandados de Injunção em tramitação com objeto relacionado ao pedido mencionado.
+    E, não obstante o julgamento ocorrido na sessão do Orgão Especial de 08/05/2017, por maioria, pelo reconhecimento do direito pleiteado, posteriormente, forma interpostos Embargos de Declaratórios, tombados sob nº 70074064734, com julgamento realizado em 27/11/2017, com deferimento de efeitos infrigentes, resultando proclamado pela Corte Especial do TJRS, assim, inexistir direito à gratificação noturno aos policiais militares.
+    (...)
+    Afora isto, ao interpor o presente Agravo Iterno a parte recorrente não apresentou qualquer fato novo ou necessidade de esclarecimentos outros na interpretação que foi feita quando da prolação da decisão monocrática de denegação do pedido inicial formalizado no mandado de injunção, de modo que mantenho integralmente a decisão prolatada ” (eDOC 1, p. 218/222)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF. Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. REGIME DE PLANTÃO. PERCEPÇÃO DE HORAS EXTRAS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 987.270, Rel. Min. Luiz Fux, Primeira Turma, DJe 2.12.2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 15.8.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO REMUNERADO POR SUBSÍDIO. RECEBIMENTO DE HORAS EXTRAS E ADICIONAL NOTURNO. EXAME DE LEGISLAÇÃO INFRA. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSIÇÃO DE MULTA. AGRAVO REGIMENTAL DESPROVIDO.” (RE 951.925-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 19.12.2016)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
