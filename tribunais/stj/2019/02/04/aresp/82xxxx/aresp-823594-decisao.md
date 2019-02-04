@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], em que pretende a admissão de recurso especial, que desafia acórdão assim ementado (e-STJ fl. 288):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - TRANSPORTE DE CAFÉ - ENTREGA A DESTINATÁRIO DIVERSO DAQUELE INFORMADO NAS NOTAS FISCAIS - DESCARACTERIZAÇÃO DO DIFERIMENTO - ARTIGO 204, DO CTN - ICMS - EXIGÊNCIA DE MULTA DE REVALIDAÇÃO E MULTA ISOLADA - AUSÊNCIA DE PROVA DE RECOLHIMENTO DO IMPOSTO DEVIDO OU DA ILEGALIDADE DA AUTUAÇÃO FISCAL - OBRIGAÇÃO SOLIDÁRIA DA EMPRESA TRANSPORTADORA - IMPROCEDÊNCIA DO PEDIDO - SENTENÇA REFORMADA.
+A Certidão de Dívida Ativa goza de presunção de certeza e liquidez nos termos do artigo 204, do CTN, podendo, ser elidida apenas por prova inequívoca a cargo de que a aproveite.
+Tratando-se de operações em que as mercadorias (sacas de café) foram entregues a destinatário diverso do consignado na documentação fiscal, resta configurada a descaracterização do diferimento e correta a declaração de falsidade das notas fiscais que as acobertaram.
+Responde solidariamente pela obrigação principal o Transportador que ignorando o artigo 21, da Lei nº 6.763/75 e o artigo 148, do RICMS/2002 transporta mercadorias desacobertadas de documentação fiscal idônea.
+O descumprimento de obrigação acessória consubstanciada na apresentação de documento inábil a acobertar o transporte de mercadoria autoriza a aplicação da multa isolada e independe do ânimo do contribuinte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 305/312).
+No apelo nobre (e-STJ fls. 315/323), o recorrente, apontando violação dos arts. 130 e 332 do CPC/1973, sustentou o ocorrência de cerceamento de defesa, pois o acórdão recorrido, ao decidir que não foi produzida prova suficiente para afastar a presunção de legitimidade de CDA, deixou de observar que a parte autora postulou a produção de prova oral e pericial, que não veio a ser deferida, visto que o magistrado de primeira instância julgou antecipadamente a ação anulatória, concluindo pela procedência do pedido. Aduziu que essa dilação probatória permitiria a comprovação de que não tinha ciência das irregularidades constantes nas notas fiscais das mercadorias por ele transportadas, afastando, assim, a responsabilidade solidária ao pagamento do ICMS reconhecida pelo acórdão recorrido.
+Sem contrarrazões (e-STJ fl. 353).
+O Tribunal de origem obstou o recurso especial com base na Súmula 211 do STJ (e-STJ fls. 355/357), fundamento esse com o qual não concorda o agravante (e-STJ fls. 364/376).
+Contraminuta às e-STJ fls. 392/395.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, verifico que o recurso especial em comento não merece ser mesmo admitido.
+Com efeito, os dispositivos de lei federal tido por violados - arts. 130 e 332 do CPC/1973, os quais foram apontados pelo recorrente para respaldar a tese de nulidade por cerceamento de defesa, a despeito da oposição de embargos de declaração, não foram efetivamente analisados pelo acórdão recorrido, carecendo o apelo nobre, portanto, do requisito do prequestionamento, nos termos da Súmula 211 do STJ.
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, CONHEÇO do agravo, para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
