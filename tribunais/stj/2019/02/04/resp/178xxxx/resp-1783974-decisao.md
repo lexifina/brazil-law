@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por BAIRRO NOVO PORTO VELHO EMPREENDIMENTO IMOBILIARIO S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia assim ementado:
+"Apelação cível. Contrato de compra e venda de imóvel. Descumprimento pela parte vendedora. Atraso na entrega da obra. Responsabilidade civil. Configuração. Dever de indenizar. Manutenção. Dano material. Configurado. Reforma. Atualização saldo devedor. INCC. IGPM. Reforma. Honorários de advogados. Manutenção. Razoabilidade" (e-STJ fl. 343).
+Nas razões do recurso especial, a recorrente alega violação dos seguintes artigos com as respectivas teses:
+i) artigos 186, 927 e 944 do Código Civil: não cabimento de indenização por dano moral e material;
+ii) artigos 389 e 393 do CC: o atraso na entrega da obra
+Nas razões do recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes artigos com as respectivas teses:
+i) artigos 186, 927 e 944 do Código Civil: não cabimento de indenização por dano moral;
+ii) artigos 389 e 393 do CC: o atraso na obra é plenamente justificável pela ocorrência de fatos que se enquadram perfeitamente como caso fortuito e força maior.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+No tocante à pretensão de ver reconhecida a ocorrência de caso fortuito/força maior, o Tribunal de origem, após análise dos elementos acostados aos autos, concluiu ser injustificável o atraso na entrega da obra, eis a letra do acórdão transcrito no que interessa à espécie:
+"Tentando se eximir da responsabilidade, a empresa requerida alegou que a obra atrasou em virtude das chuvas torrenciais que assolaram a capital rondoniense no final de 2011, bem como em virtude do rompimento da BR-364, ocorrido em março de 2012, fatores que atrapalharam a execução das obras e dificultaram o cumprimento do contrato alinhavado pelas partes.
+A prova produzida nos autos, bem como as máximas da experiência, indicam que o argumento da parte requerida não reflete verdadeiramente a realidade dos fatos.
+Com efeito, a requerida não demonstrou nos autos o caráter extraordinário dos fatos apontados como excludentes de responsabilidade (chuvas no ano de 2011 e danificação da rodovia BR-364), ônus que lhe incumbia (art. 333, II, do CPC); ademais, fora ajustado prazo contratual extra para a conclusão das obras - carência de 180 (cento e oitenta) dias, e mesmo assim a construtora ficou inadimplente. Entretanto, ainda que os fatos tivessem ocorrido de forma alheia à vontade da parte requerida, isto não afastaria a responsabilidade de indenizar, tendo em vista que a construtora assume o risco do empreendimento, respondendo independentemente de culpa (art. 12 do CDC), além de não ter comprovado culpa de terceiro que pudesse desnaturar a responsabilidade legal prevista ou romper com o nexo de causalidade" (e-STJ fls. 347/348).
+Rever a conclusão do acórdão recorrido de que os fatos narrados não se caracterizariam como caso fortuito e força maior dependeria do revolvimento do contexto fático-probatório dos autos, procedimento vedado em recurso especial.
+Em relação aos lucros cessantes, o Tribunal de origem decidiu que se justifica o ressarcimento devido à não fruição da propriedade imóvel em razão do atraso na entrega.
+Nesse contexto, tal entendimento está em harmonia com a jurisprudência desta Corte Superior, firmada no sentido de que a inexecução do contrato de promessa de compra e venda acarreta a obrigação ao pagamento de indenização por lucros cessantes, ainda que presumido, o que atrai a incidência da Súmula nº 568/STJ.
+Confira-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 301.607/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 15/09/2016).
+Por fim, quanto à condenação em danos morais, o acórdão recorrido foi assim fundamentado:
+"Em relação ao dano moral, indubitável é o abalo experimentado pela parte autora, que não pode ser considerado como mero aborrecimento, sobretudo porque as suas expectativas e anseios foram frustrados, mesmo que decorrentes do inadimplemento contratual" (e-STJ fl. 348).
+Ocorre que, segundo orientação jurisprudencial do Superior Tribunal de Justiça, em regra, a demora na entrega do imóvel constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar. E, no caso sob exame, não ficou evidenciada situação excepcional capaz de superar o mero inadimplemento contratual.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. NÃO CABIMENTO. RECURSO PROVIDO.
+1. É entendimento firmado pelo Superior Tribunal de Justiça "que o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis" (REsp 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe de 22/3/2017).
+2. Tendo em vista que, no presente caso, a fundamentação do dano moral teve como justificativa somente a frustração da expectativa da parte autora, que se privou do uso do imóvel pelo tempo de aproximadamente oito meses de atraso na entrega, sem tecer fundamentação adicional a justificar a angústia ou abalo psicológico de modo a configurar dano moral, é mister o provimento do recurso no ponto. Precedentes.
+3. Agravo interno a que se dá provimento, para reconsiderar a decisão agravada, dando parcial provimento ao recurso especial para excluir o dano moral" (AgInt no REsp 1.715.252/RO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 7/6/2018, DJe 15/6/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. PRÉ-QUESTIONAMENTO FICTO. OMISSÃO. AUSÊNCIA. DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+2. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial.
+3. Agravo interno no recurso especial desprovido" (AgInt no REsp 1.719.311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/5/2018, DJe 28/5/2018).
+Ante o exposto, dou parcial provimento ao recurso especial para afastar a condenação ao pagamento de indenização a título de dano moral.
+Diante da sucumbência recíproca, condeno as partes ao pagamento das custas processuais e dos honorários advocatícios fixados em 10% do valor atualizado da causa, devendo a recorrente arcar na proporção de 5% (cinco por cento) e a recorrida 5% (cinco por cento), ressalvada a justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
