@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto por Randi Indústrias Texteis Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 287):
+AGRAVO DE INSTRUMENTO. EMBARGOS À ARREMATAÇÃO. RECEBIMENTO DE APELAÇÃO NO EFEITO DEVOLUTIVO. ART. 520, V, CPC. EXECUÇÃO DEFINITIVA. REQUISITOS. ART. 587, CPC. MANDADO DE IMISSÃO NA POSSE. CARTA DE ARREMATAÇÃO.
+1. O art. 520, inciso V, do CPC determina a apelação da sentença que julgou improcedentes os embargos à execução deve ser recebida no efeito devolutivo.
+2. Conforme art. 587 do CPC, a execução é definitiva, quando fundada em título extrajudicial, qual seja, a certidão de dívida ativa, e ainda quando são julgados improcedentes os embargos à arrematação, como já definiu o STJ.
+3. O mandado de imissão na posse deve proceder a carta de arrematação tão logo esta seja expedida.
+4. Agravo de instrumento ao qual se nega provimento.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 522, 527, III, e 558 do CPC/73. Sustenta que: (I) "para que seja parametrizado o preço da arrematação, em relação ao qual seria considerado preço vil, indispensável a avaliação do bem, em salvaguarda ao direito de propriedade e ausência de danos ao proprietário, no caso a recorrente. Este procedimento não foi realizado, atentando desfavoravelmente ao entendimento consolidado por esta Corte" (fl. 296) e (II) era cabível a suspensão do trâmite processual em razão da interposição do agravo de instrumento, tendo em vista "o prejuízo experimentado com a convalidação de arrematação a preço vil" (fl. 299).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ademais, o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados (arts. 522, 527, III, e 558 do CPC/73), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
