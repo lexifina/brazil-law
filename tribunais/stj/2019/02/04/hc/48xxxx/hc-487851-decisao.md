@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial e com pedido de liminar impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0002719-64.2017.819.0030.
+O paciente foi condenado às penas de 8 anos, 9 meses de reclusão no regime fechado e de 25 dias-multa, pela prática do delito previsto no art. 157, § 2º, I e II, do Código Penal, por duas vezes, em concurso formal, porque, mediante grave ameaça, exercida com o emprego de de arma de fogo, subtraiu, em parceria com outro indivíduo, dois aparelhos celulares e um relógio de pulso, pertencentes a duas vítimas (fls. 21-33).
+O Tribunal a quo deu parcial provimento ao apelo defensivo para readequar a dosimetria da pena, fixando-a em 6 anos, 2 meses e 20 dias de reclusão, mais 15 dias-multa, mantendo, no mais, a sentença impugnada (fls. 43/51).
+Requer, liminarmente e no mérito, a fixação de regime inicial mais brando para o cumprimento da pena.
+É o relatório. Decido.
+Em conformidade com julgados do Supremo Tribunal Federal, a jurisprudência do Superior Tribunal de Justiça considera que é inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, ressalvando-se casos de flagrante ilegalidade em que seja recomendável conceder, de ofício, a ordem (HC n. 472.649/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/10/2018; AgRg no HC n. 436.958/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/3/2018; HC n. 467.738/RJ, relator Ministro Felix Fischer, Quinta Turma, DJe 26/10/2018).
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+O Tribunal de origem, ao manter a condenação do paciente e de seu comparsa, em regime prisional fechado, deixou, de igual modo, registradas as circunstâncias que caracterizaram o modus operandi do crime, a revelar que os acusados agiram juntos na prática do crime de roubo, com o uso de arma de fogo. Logo após a subtração dos pertences das vítimas, o paciente, ao que parece, efetuou possíveis disparos, na via pública, provocando verdadeiro temor em uma das vítimas, que, ao correr, sofreu uma queda com sua filha, de apenas 5 meses, em seus braços, tornando o contexto delituoso ainda mais delicado e traumático (fl. 27).
+Do quanto narrado, depreende-se que o pedido de liminar demanda análise mais aprofundada dos elementos constantes dos autos, de forma a verificar a possível ocorrência de constrangimento ilegal a ser reparado nesta via, além de ser eminentemente satisfativo, confundindo-se com o mérito da impetração.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações ao Tribunal de origem.
+Após, ouça-se o Ministério Público Federal.
+Publique-se. Intimem-se.
