@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto dos Servidores do Estado de Minas Gerais - IPSEMG, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.990):
+AGRAVO INTERNO - APELAÇÃO CÍVEL PROVIDA DE PLANO - DECISÃO DE 1º GRAU COM POSICIONAMENTO SEDIMENTADO PELOS TRIBUNAIS SUPERIORES - DECISÃO MANTIDA.
+Deve ser confirmada a decisão que deu provimento ao recurso de apelação interposto contra decisão contrária ao entendimento do C. STJ, consoante determinação do art. 557, §1º. do CPC.
+Opostos embargos declaratórios, foram rejeitados (fls. 2.003/2.008).
+Sustenta a parte recorrente, em preliminar, a nulidade do acórdão dos embargos declaratórios em face da existência de afronta ao art. 535, I e II, do CPC/1973, uma vez que foram eles rejeitados pelo Tribunal de origem sem, contudo, o necessário saneamento dos vícios apontados no acórdão embargado.
+Ainda em preliminar, o IPESEMG também alegada a nulidade da execução, no que concerne a [NOME], tendo em vista que seu falecimento se deu em momento anterior à propositura da ação de execução, restando caracterizada, portanto, a violação aos arts. 13, 37 e 682, II, do CPC/1973 c/c o art. 5º da Lei 8.906/1994.
+A parte recorrente aduz, ainda, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos legais:
+a) arts. 462, 467, 468, 474 e 795 do CPC/1973, uma vez que (fl. 2.026):
+ ..  a análise do conteúdo da petição inicial dos embargos (autos anexos), revela que em momento algum foi suscitada, debatida ou decidida a questão da prescrição, ou mesmo a questão da nulidade da execução interposta por pessoa falecida.
+Assim sendo, obviamente não há falar em coisa julgada, capaz de vedar a apreciação da matéria de ordem pública em referência.
+Se a matéria da prescrição e da nulidade das execuções não foi decidida na sentença de embargos, como ocorre no caso, não há falar em invocação da coisa julgada (art. 467 do CPC), sob pena de violação tanto do próprio art. 467 como, sobretudo, do art. 468 do CPC, verbis:
+ ..
+Em acréscimo, não há aplicar, nesta mesma hipótese (ausência de alegação da matéria nos embargos), a norma do art. 474 do CPC, vez que, tal aplicação, implicaria em negativa de vigência dos artigos 219, § 5º, e 295, inciso IV, ambos do CPC.
+b) arts. 219, § 5º, 295, IV, do CPC/1973 c/c os arts. 1º do Decreto 20.910/1932, 193 do Código Civil e 4º da Lei 4.597/1942, pois (fls. 2.026/2.027):
+É incontroverso nos autos que as recorridas [NOME], Conceição Pereira dos Santos Martins e [NOME], não obstante figurarem na inicial da ação, na verdade sequer propuseram até a presente dada a execução do julgado quanto às diferenças dos seus créditos, nos moldes do artigo 730 do Código de Processo Civil.
+Desta forma, considerando o transcurso de mais de 12 (doze) anos do trânsito em julgado do título judicial (ocorrido em 11/05/1998), pugnou-se pelo reconhecimento e declaração da prescrição.
+Lado outro, ainda que se considerasse, como fez a sentença anulada, que pedidos de documentos ou providência efetuados pelas recorridas em preparação para a execução interrompessem o prazo prescricional, como concluiu a própria sentença, ainda assim estariam prescritos os créditos, vez que a última manifestação das recorridas data dos fins do ano de 1999.
+Fato é que a jurisprudência do Colendo Superior Tribunal de Justiça é pacífica ao considerar que, não tendo sido decidida a matéria de ordem pública na sentença dos embargos, não há falar em coisa julgada obstativa da sua arguição em sede de exceção de pré-executividade (natureza jurídica da petição de fls. 1.444 e seguintes).
+ ..
+O acórdão hostilizado violou e negou vigência, ainda, aos artigos 193 do Código Civil, art. 4º da Lei nº 4.597/1942 e artigo 219, § 5o, cumulado com o artigo 1.211, ambos do Código de Processo Civil, os quais, ao contrário do que foi consignacfo, impõe ô reconhecimento da prescrição de ofício, em qualquer tempo e grau jurisdicional, porquanto matéria.de ordem pública, passível de reconhecimento de ofício, inclusive, e, repita-se, a qualquer tempo do trâmite processual, notadamente em razão de não haver sentença que tenha decidido sobre a matéria.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às fls. 2.087/2.128.
+O recurso foi inadmitido na origem (fls. 2.131/2.135).
+Contra essa decisão foi interposto agravo (fls. 2.137/2.148), o qual restou provido a fim de ser reautuado como apelo nobre (fl. 2.212).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016.
+Por sua vez, "não se conhece da suposta afronta ao artigo 535 do CPC/1973 quando o recorrente não apresenta qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF" (AgInt no REsp 1.577.777/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 06/12/2018).
+De outro lado, não se olvida que as matérias relativas às condições da ação - legitimidade, interesse processual (interesse de agir) e possibilidade jurídica do pedido -, bem como à prescrição, por configurarem matéria de ordem pública, comportam apreciação a qualquer tempo e grau de jurisdição, não estando, portanto, sujeitas à preclusão. Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA INSUSCETÍVEL DE PRECLUSÃO NAS INSTÂNCIAS ORDINÁRIAS.
+INTERRUPÇÃO DA PRESCRIÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. SUSPENSÃO DO LUSTRO PRESCRICIONAL POR INEXISTÊNCIA DE LIQUIDEZ DO TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Discute-se nos autos a ocorrência da pretensão executiva. O tribunal de origem consignou que o acórdão exequendo transitou em julgado em 8.3.2002. Por ter sido ajuizado o protesto interruptivo da prescrição em 9.3.2007, ocorreu a alegada prescrição.
+2. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+3. Nos termos da jurisprudência pacífica do STJ, a prescrição é matéria de ordem pública e, como tal, não se sujeita à preclusão perante as instâncias ordinárias, podendo ser conhecida de ofício a qualquer tempo e grau de jurisdição.
+ ..
+Agravo regimental improvido.
+(AgRg no REsp 1.339.970/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/06/2013)
+PROCESSUAL CIVIL. TRIBUTÁRIO. INTERESSE PROCESSUAL. MATÉRIA DE ORDEM PÚBLICA. REEXAME NECESSÁRIO. DEVIDO ENFRENTAMENTO DA TESE. NECESSIDADE. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS.
+1. O acórdão recorrido incorreu em efetiva violação ao art. 535, inciso II, do Código de Processo Civil, pois o ente estadual suscitou omissão atinente à ausência de interesse de agir do contribuinte, visto que este teria aderido a programa de parcelamento.
+2. O Tribunal deixou de analisar o tema suscitado por entender que a matéria estaria preclusa, pois configuraria inovação recursal vedada pelo princípio do tantum devolutum quantum apelatum.
+3. Contudo, a jurisprudência do STJ é firme no sentido de que a matéria relativa às condições da ação - legitimidade, interesse processual (interesse de agir) e possibilidade jurídica do pedido -, por configurarem matéria de ordem pública, comportam apreciação a qualquer tempo e grau de jurisdição, não estando, portanto, sujeitas à preclusão.
+4. Outrossim, o amplo efeito devolutivo da remessa necessária mitiga o princípio tantum devolutum quantum appelatum, uma vez que não limita o conhecimento do Tribunal a quo à matéria efetivamente impugnada no recurso de apelação pelo ente público.
+Agravo regimental improvido.
+(AgRg no REsp 1.444.360/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 22/05/2014)
+Tal entendimento, todavia, não se aplica ao caso concreto, haja vista que as questões suscitadas pela parte ora recorrente, conquanto de ordem pública, deixaram de ser suscitadas em momento oportuno, nos seus embargos à execução  cuja respectiva decisão já transitou em julgado.
+Com efeito, não arguida, oportunamente, a matéria de defesa, incide o disposto no art. 474 do CPC/1973, reputando-se "deduzidas e repelidas todas as alegações e defesas que a parte poderia opor tanto ao acolhimento como à rejeição do pedido".
+Nesse sentido, cito os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA. PETICIONAMENTO DO RECURSO NO DIA POSTERIOR. POSSIBILIDADE. ERRO MATERIAL. CORREÇÃO. EXCEÇÃO DE COISA JULGADA. OBJEÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. INADMISSIBILIDADE. MATÉRIA DE DEFESA OPONÍVEL NA FASE DE CONHECIMENTO. PRECLUSÃO.
+1. Há prorrogação do prazo recursal quando se comprovar que o sistema de peticionamento eletrônico do Superior Tribunal de Justiça esteve indisponível no último dia de vencimento do prazo processual por período superior a 60 minutos, ininterruptos ou não, no período de 6 às 23 horas (art. 7º da Resolução STJ/GP nº 10 de 6 de outubro de 2015).
+2. Na fase de conhecimento do processo devem ser arguidas todas as matérias defensivas disponíveis, pois com o trânsito em julgado da decisão definitiva da causa reputam-se repelidas todas as alegações que poderiam ter sido feitas pela parte e não o foram para a rejeição do pedido, nos termos de art. 474 do CPC (eficácia preclusiva da coisa julgada).
+3. As condições da ação e os pressupostos processuais, como a litispendência e a exceção de coisa julgada, são matérias de ordem pública e podem ser aventadas em qualquer tempo ou grau de jurisdição, mas até o trânsito em julgado da sentença de mérito (art. 267, § 3º, do CPC).
+4. A exceção de coisa julgada não suscitada apropriadamente na fase de conhecimento e, tendo havido o trânsito em julgado da decisão de mérito, não sendo fato superveniente a esta (art. 475-L do CPC), somente pode ser alegada na via da ação rescisória (art. 485, IV, do CPC) e não na fase de cumprimento de sentença.
+5. Embargos de declaração acolhidos com efeitos infringentes para sanar erro material. Agravo regimental não provido.
+(EDcl no AgRg nos EDcl no REsp 1.309.826/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 07/03/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ACIDENTE DO TRABALHO. AÇÃO REGRESSIVA PREVISTA NO ART. 120 DA LEI 8.213/1991. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. QUESTÃO DEFINITIVAMENTE DECIDIDA. COISA JULGADA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do agravante, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+2. A jurisprudência do STJ firmou-se no sentido de que, ainda que se trate de matéria de ordem pública, não é possível nova análise de matéria já definitivamente apreciada, sob pena de ofensa à coisa julgada.
+3. Segundo o princípio da persuasão racional ou da livre convicção motivada do juiz, previsto nos artigos 130 e 131 do CPC/1973, mantidos nos artigos 370 e 371 do CPC/2015, cabe ao magistrado dirigir a instrução probatória, analisando livremente as provas produzidas nos autos, bem como rejeitar as diligências requeridas, caso entenda protelatórias. No caso concreto, foi de acordo com as circunstâncias específicas que o Tribunal de origem decidiu pela desnecessidade da produção de outras provas, valendo-se de prova emprestada de outro processo para o deslinde da controvérsia.
+4. O acórdão recorrido decidiu em sintonia com a jurisprudência do STJ no sentido de que cabe ao magistrado determinar a produção das provas necessária à instrução do processo, indeferindo as diligências que considerar inúteis ou meramente protelatórias.
+5. Agravo interno não provido.
+(AgInt no REsp 1.687.153/SE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 20/03/2018)
+Por fim, é inviável o exame da tese de afronta aos arts. 219, § 5º, 295, IV, do CPC/1973 c/c os arts. 1º do Decreto 20.910/1932, 193 do Código Civil e 4º da Lei 4.597/1942 pois, em virtude da adoção de fundamento de natureza prejudicial - existência de coisa julgada -, deixou o Tribunal de origem de emitir juízo de valor acerca das teses suscitadas pela parte ora recorrida, motivo pelo qual incide na espécie a Súmula 211/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
