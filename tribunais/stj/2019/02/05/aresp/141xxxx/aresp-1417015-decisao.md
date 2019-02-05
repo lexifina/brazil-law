@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação cominatória, fundada na abusividade da rescisão imotivada do contrato de plano de saúde.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. É possível a resilição unilateral do contrato coletivo de plano de saúde imotivadamente, após a vigência do período de 12 meses e mediante prévia notificação da outra parte (60 dias), uma vez que a norma inserta no art. 13, II, "b", parágrafo único, da Lei 9.656/98 aplica-se exclusivamente a contratos individuais ou familiares. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+4. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CARIOCA CHRISTIANI-NIELSEN ENGENHARIA S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/07/2018.
+Concluso ao gabinete em: 18/12/2018.
+Ação: cominatória, ajuizada pela agravante, em face de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA., fundada na abusividade da rescisão imotivada do contrato de plano de saúde.
+Sentença: julgou procedente os pedidos para manter o plano de saúde tal como contratado e declarar a nulidade da cláusula que permite a resilição unilateral imotivada.
+Condenou a agravada ao pagamento das custas, despesas processuais e honorários advocatícios fixados em 15% do valor da causa.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO COMINATÓRIA. Plano de Saúde. Pretensão contra a resilição unilateral do contrato pleiteada pela ré. Sentença de procedência.
+Apela a ré sustentando a validade da cláusula autorizadora; cumprimento da obrigação de notificação prévia com 60 dias de antecedência; e ser a vedação normativa restrita aos contratos individuais e familiares.
+Cabimento parcial.
+Contrato coletivo empresarial. Possibilidade de rescisão unilateral. De acordo com o princípio da autonomia da vontade, não há obrigação de as partes manterem o vínculo anteriormente estipulado "ad eternum". A empresa contratada, em tese, pode denunciar o ajuste no momento em que entender necessário. Não fosse assim, correr-se-ia o risco de se ter relações perenes, a ponto de tornarem o exercício de determinadas atividades inviável. Art. 13, II, "b", parágrafo único, da Lei nº 9.656/98 aplica-se tão somente aos contratos individuais ou familiares.
+Apelada também não figura como empresa familiar. Ostenta capital social de R$ 284.000.000,00. Não há hipossuficiência que permita a incidência protetiva do CDC, notadamente, quanto à interpretação e aplicação de cláusulas contratuais.
+No entanto, necessário sopesar os tratamentos pelos quais se submetem alguns dos beneficiários do plano de saúde. Levando- se em consideração a função social do contrato e as peculiaridades do caso, impõe-se a prorrogação do contrato por mais dois anos após a prolação do acórdão, para que a apelada ou os beneficiários realizem nova contratação sem o risco de serem atingidos de surpresa com o julgamento de improcedência do pedido e consequente revogação da medida antecipatória. Incidente assim o princípio do poder geral de cautela.
+Recurso parcialmente provido para julgar parcialmente procedente a ação, ressalvando a manutenção do contrato vigente, por prazo suplementar de mais dois anos, a partir da prolação do acórdão, ou enquanto algum de seus beneficiários estiver sob tratamento ou dele necessitar. Sucumbência invertida.
+Recurso especial: alega violação dos arts. 1.022, II, do CPC/15, art. 13, II, da Lei 9.656/98, art. 51 do CDC e arts. 421 e 422, do CC/02, bem como dissídio jurisprudencial.
+Afirma haver omissão quanto aos dispositivos de lei tidos por violados. Sustenta a aplicabilidade do art. 13 da Lei 9.656/98 aos contratos coletivos empresariais, bem como que a mera alegação de onerosidade excessiva não autorizaria a rescisão unilateral do contrato. Defende a abusividade da rescisão unilateral imotivada e a nulidade da cláusula contratual que a autoriza.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da possibilidade de rescisão unilateral dos contratos coletivos de plano de saúde (Súmula 568/STJ)
+As duas Turmas de Direito Privado do STJ entendem que é possível a resilição unilateral do contrato coletivo de plano de saúde imotivadamente, após a vigência do período de 12 meses e mediante prévia notificação da outra parte (60 dias), uma vez que a norma inserta no art. 13, II, "b", parágrafo único, da Lei 9.656/98 aplica-se exclusivamente a contratos individuais ou familiares. Nesse sentido: AgInt no REsp 1692039/SP, 3ª Turma, DJe de 08/11/2018; AgInt nos EDcl no AREsp 1083267/SP, 4ª Turma, DJe de 25/10/2017; AgInt no AREsp 952.334/SP, 3ª Turma, DJe de 16/05/2017; e AgRg no AgRg no AREsp 51.473/SP, 4ª Turma, DJe de 14/10/2015.
+Ressalte-se o que restou consignado pelo Tribunal de origem (e-STJ, fl. 436/437):
+As partes celebraram contrato de Prestação de Serviços Médicos e Hospitalares em 01.01.2014 (f. 55/120).
+Constou do pacto a possibilidade de cancelamento de forma unilateral, após 12 meses de vigência, com notificação prévia de 60 dias (cláusula 24.2.1, f. 111).
+A contratada, ré-apelante, optou por rescindir o instrumento em 15.09.16, conforme notificação dirigida à autora-apelada e recebida em 14.07.2016 (f. 130).
+(..)
+De acordo com o princípio da autonomia da vontade, não há obrigação de as partes manterem o vínculo anteriormente estipulado ad eternum.
+Contudo, em tese, a empresa contratada poderia denunciar o ajuste no momento em que entendesse necessária a rescisão. Não fosse assim, correr-se-ia o risco de se ter relações perenes, a ponto de tornarem o exercício de determinadas atividades inviável.
+Nesse sentido orienta a Jurisprudência do STJ:
+CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONTRATO COLETIVO DE SAÚDE. CLÁUSULA PREVENDO RESCISÃO UNILATERAL. VALIDADE. ART. 13, II, "B", PARÁGRAFO ÚNICO, DA LEI N. 9.656/1998. NOTIFICAÇÃO PRÉVIA. OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que é possível a resilição unilateral do contrato coletivo de saúde, uma vez que a norma inserta no art. 13, II, "b", parágrafo único, da Lei n. 9.656/98 se aplica exclusivamente a contratos individuais ou familiares. Precedentes. 2. No caso, o acórdão recorrido firmou a existência de cláusula contratual prevendo a possibilidade de resilição unilateral do contrato e a ocorrência de notificação prévia acerca da intenção de interrupção da continuidade da avença. No ponto, incidência das Súmulas 7 e 83 do STJ. 3.- Agravo regimental não provido. (AgRg no AgRg no AREsp 671523/SP, Quarta Turma, Rel. Min. LUIS FELIPE SALOMÃO, j. 15.12.15).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. RESCISÃO UNILATERAL PELA OPERADORA.POSSIBILIDADE. ART. 13, PARÁGRAFO ÚNICO, II, DA LEI Nº 9.656/98. INAPLICABILIDADE AO CASO. DECISÃO MANTIDA.
+3. Esta Corte possui a compreensão de que é possível a resilição unilateral do contrato coletivo de plano de saúde, imotivadamente após a vigência do período de 12 meses e mediante prévia notificação da outra parte, uma vez que a norma inserta no art. 13, II, b, parágrafo único, da Lei 9.656/98 aplica-se exclusivamente a contratos individuais ou familiares (AgRg no AgRg no AREsp nº 51.473/SP, Rel. Ministro ANTÔNIO CARLOS FERREIRA, Quarta Turma, DJe 14/10/2015).4. Agravo interno não provido. (AgInt no REsp 1590174/SP, Terceira Turma, Rel. Min. MOURA RIBEIRO, j. 23.08.16).
+Na hipótese, o Tribunal de origem entendeu que a agravada poderia denunciar o ajuste no momento em que entendesse necessária a rescisão, em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor da causa para 17%.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
