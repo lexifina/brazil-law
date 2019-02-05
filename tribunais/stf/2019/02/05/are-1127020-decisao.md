@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado da Bahia, cuja ementa reproduzo (eDOC 22, p.6):
+    “Apelação civil.
+    Ação de Mandado de Segurança.
+    - Autoridade indigitada coatora que determina a intimação de testemunhas de acusação, em número além do máximo legalmente permitido.
+    - Ofensa ao princípio da ampla defesa e do devido processo legal. Violação a direito líquido e certo do apelante. Afronta à isonomia processual.
+    - Recurso provido. Segurança concedida. Sentença reformada. Julgamento pela procedência da ação mandamental.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV; 93, IX; 42; e 2º, da Constituição Federal.
+    Nas razões recursais, aduz-se, em suma, que “O ato de punição não poderia e nem poderá ser apreciado pelo Judiciário sob os aspectos de sua motivação que envolvem os critérios de conveniência e oportunidade da Administração Pública na aplicação de penalidades.” (eDOC 27, p. 12)
+    A Segunda Vice-Presidência do TJ/BA inadmitiu o recurso ante os óbices das súmulas 282 e 356, do STF. (eDOC 28, pp. 1-3).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, quanto à alegada deficiência na prestação jurisdicional, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Supremo Tribunal Federal assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República.
+    Na espécie, verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou: (eDOC 18, pp.)
+    “No presente feito, verifica-se que houve, realmente, violação a direito líquido e certo do apelante, posto que o número de testemunhas a serem ouvidas quando da colheita das provas deve restringir-se ao limite expresso na lei, sob pena de desrespeitar o princípio da isonomia entre as partes. O art. 68 da Lei 7.099/2001 é claro e taxativo ao dispor que ‘o presidente da comissão, após nomear o secretário, determinará a autuação da portaria e das demais peças existentes e instalará os trabalhos, designando dia, hora e local para as reuniões e ordenará a citação do acusado para apresentar defesa inicial e indicar provas, inclusive rol de testemunhas com o máximo de cinco nomes.’, obstando, desta forma, qualquer ampliação deste limite legal.
+    Convém salientar, que mesmo buscando a verdade real dos fatos do processo, não se pode olvidar as garantias processuais que a ele são exigidas, sob pena de se incorrer em desrespeito à norma legal.
+    Assim, VOTO PELO PROVIMENTO DO RECURSO, para Julgar Procedente a Ação Mandamental, concedendo-se a Segurança suplicada e via de consequência declarar esgotada a prova oral de acusação já levada a efeito no processo administrativo em referência.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie (Lei 7.099/2001), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Quanto à alegada ofensa ao artigo 2º da Constituição Federal, a jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que o julgamento, pelo Poder Judiciário, da legalidade dos atos dos demais poderes, não representa ofensa ao princípio da separação dos poderes. Nesse sentido:
+    “CONSTITUCIONAL. SEPARAÇÃO DOS PODERES. POSSIBILIDADE DE ANÁLISE DE ATO DO PODER EXECUTIVO PELO PODER JUDICIÁRIO. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279, 280 E 454. AGRAVO IMPROVIDO. I - Cabe ao Poder Judiciário a análise da legalidade e constitucionalidade dos atos dos três Poderes constitucionais, e, em vislumbrando mácula no ato impugnado, afastar a sua aplicação. II - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte. III - O exame de matéria de fato e a interpretação de cláusulas editalícias atrai a incidência das Súmulas 279 e 454 do STF. IV - Agravo regimental improvido.” (AI nº 640.272/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 31/10/07).
+     Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, “a” e “b”, do CPC, e 21, § 1º, do RISTF.
+     Incabível a aplicação do disposto no art. 85, §11, CPC, por se tratar de mandado de segurança na origem.
+    Publique-se.
+    Brasília, 05 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
