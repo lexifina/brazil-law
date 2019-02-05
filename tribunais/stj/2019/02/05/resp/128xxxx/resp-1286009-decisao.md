@@ -1,0 +1,33 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda do Estado de São Paulo, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fls. 418/419):
+Mandado de Segurança. Servidor Público. Aposentadoria. Contagem recíproca de tempo de serviço. Tempo de serviço contado na iniciativa privada. Cômputo com o tempo de serviço anotado na Administração pública. O interregno temporal no qual o segurado esteve em gozo de auxílio-doença e aposentadoria por invalidez dentro do regime geral de previdência integra a contagem de tempo, para efeito de
+aposentadoria, a ser concedida no regime próprio de previdência. CF, art. 201, § 9º.
+Recursos improvidos.
+Alega a recorrente violação dos arts. 267, VI, e 269, IV, do CPC/1973; 18 da Lei n. 1.533/1951; e 55, II, da Lei n. 8.213/1991.
+O art. 267, VI, do CPC/1973 teria sido violado, pois o Tribunal de origem não reconheceu a ilegitimidade passiva do Procurador Geral do Estado.
+Já a ofensa ao art. 269, IV, do CPC decorreria da ausência de interesse de agir em face de parecer, dado o seu caráter meramente opinativo.
+Por outro lado, o mandado de segurança teria sido impetrado depois do transcurso do prazo decadencial. Portanto, ao se admitir o seu processamento, haveria contrariedade ao art. 18 da Lei n. 1.533/1951.
+No mérito, defende a recorrente afronta ao art. 55 da Lei n. 8.213/1991, pois o período no qual o recorrido esteve em auxílio saúde e aposentadoria por invalidez não foi intercalado com períodos de contribuição no âmbito do Regime Geral de Previdência Social.
+Sem contrarrazões (e-STJ, fl. 303).
+Parecer do MPF às e-STJ fls. 334/337, opinando pelo não provimento do recurso especial.
+É o relatório.
+Inicialmente, no que tange à alegada violação dos arts. 267, VI, e 269, IV, do CPC/1973; 18 da Lei n. 1.533/1951, por ilegitimidade passiva, falta de interesse de agir e decadência, respectivamente, a Corte a quo decidiu as questões nos seguintes termos (e-STJ, fl. 278):
+A decadência não resta caracterizada. Com efeito, a contagem do prazo de caducidade teve inicio em 16 de fevereiro de 2004, com a ciência ao interessado do ato impugnado (fl. 193). O "writ" foi impetrado, tempestivamente, em 15 de junho, dentro do prazo de 120 (cento e vinte dias) estabelecido pelo art. 18, da Lei n. 1.533/51.
+A alegação de carência de ação por ilegitimidade de parte do Procurador Geral do Estado foi bem rechaçada pelo i. Magistrado sentenciante: "Apesar de não ser a autoridade diretamente responsável pelo ato, inegável que o Procurador Geral do Estado possui extremada influência em sua prática, porquanto constitui a pessoa quem aprovou o parecer normativo e de observância obrigatória em que juridicamente fundada a decisão administrativa impugnada (fls. 187). Assim, necessária sua integração na lide como litisconsorte necessário".
+Demais, não há que se falar em carência de ação por falta de interesse, posto que sem a providência judicial o impetrante não teria como remover o óbice estabelecido pela autoridade impetrada.
+Com isso, para se chegar a conclusão contrária à do Tribunal a quo, no sentido de que a ação mandamental foi ajuizada dentro do prazo decadencial, que o Procurador Geral tem extrema influência na prática do ato questionado, por ter aprovado o parecer de observância obrigatória, e que o Mandado de Segurança é imprescindível a remover o óbice estabelecido pela autoridade coatora, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+Quanto ao mérito, observa-se que não há violação do art. 55, II, da Lei n. 8.213/1991, porquanto o acórdão recorrido se fundou, corretamente, na premissa de que o tempo em gozo de auxílio-doença e aposentadoria por invalidez, por terem sido intercalados por tempo de contribuição, devem ser computados para fins de aposentadoria no Regime Geral de Previdência Social.
+A base do argumento do órgão julgador foi o de que o sistema de contagem recíproca de tempo de contribuição prevista no art. 201, § 9º, da Constituição Federal possibilita que os tempos de contribuição intercalados sejam no RGPS e no RPPS.
+De fato, conjugando-se a norma tida por violada e a norma constitucional que prevê a reciprocidade do tempo de contribuição nos regimes geral e próprio de previdência, chega-se à exegese de que é possível a contagem do tempo de gozo dos benefícios previdenciários supramencionados para fins de aposentadoria no RPPS, mesmo que os tempos de contribuição imediatamente anterior e posterior ao período de gozo do benefício não tenham sido no RGPS.
+Tal compreensão se coaduna com o entendimento firmado por esta Corte no REsp 1.410.433/MG, julgado sob o regime dos recursos repetitivos, no qual não se fez distinção entre os regimes para fins de fixação da tese.
+A ementa do recurso repetitivo foi assim estabelecida:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA POR INVALIDEZ DECORRENTE DE TRANSFORMAÇÃO DE AUXÍLIO-DOENÇA. REVISÃO DA RMI. ART. 29, II E § 5º, DA LEI 8.213/91 ALTERADO PELA LEI 9.876/99. AUSÊNCIA DE ILEGALIDADE NA APURAÇÃO DO VALOR INICIAL DOS BENEFÍCIOS. EXIGÊNCIA DE SALÁRIOS-DE-CONTRIBUIÇÃO INTERCALADOS COM PERÍODOS DE AFASTAMENTO POR INCAPACIDADE. RECURSO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal são unânimes em reconhecer a legalidade da apuração da renda mensal inicial - RMI dos benefícios de aposentadoria por invalidez oriundos de auxílio-doença.
+2. Nos termos do disposto nos arts. 29, II e § 5º, e 55, II, da Lei 8.213/91, o cômputo dos salários-de-benefício como salários-de-contribuição somente será admissível se, no período básico de cálculo - PBC, houver afastamento intercalado com atividade laborativa, em que há recolhimento da contribuição previdenciária.
+3. A aposentadoria por invalidez decorrente da conversão de auxílio-doença, sem retorno do segurado ao trabalho, será apurada na forma estabelecida no art. 36, § 7º, do Decreto 3.048/99, segundo o qual a renda mensal inicial - RMI da aposentadoria por invalidez oriunda de transformação de auxílio-doença será de cem por cento do salário-de-benefício que serviu de base para o cálculo da renda mensal inicial do auxílio-doença, reajustado pelos mesmos índices de correção dos benefícios em geral.
+4. Recurso especial desprovido. Acórdão sujeito ao regime do art.
+543-C do CPC.
+(REsp 14.10.433/MG, Rel. Min. ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 11/12/2013, DJe 18/12/2013)
+Ante o exposto, com fulcro no art. 932, IV, "b", do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
