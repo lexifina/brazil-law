@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ARTIGO 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. RENÚNCIA À PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO INTERCORRENTE. VERIFICAÇÃO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (fl. 80):
+PROCESSUAL CIVIL. AGRAVO. ARTIGO 557 DO CPC. EXECUÇÃO FISCAL. PRESCRIÇÃO. OCORRÊNCIA. PARCELAMENTO. INOVAÇÃO. CERCEAMENTO DE DEFESA. AFASTADO.
+- Não conheço da questão relativa ao parcelamento da dívida, decorrente da Lei nº 11.941/2009, uma vez que não foi objeto da decisão de primeiro grau, dos argumentos contidos na apelação da União e do decisum recorrido. Cuida-se de inovação, cuja análise por esta corte implicaria supressão de instância, o que não se admite.
+- A tese discutida na primeira peça recursal atinente à ocorrência da prescrição foi analisada no julgado recorrido, que manteve a decisão singular, consoante o artigo 557, caput, do Código de Processo Civil
+- Não há que se falar em cerceamento de defesa, porquanto, instada a se manifestar acerca da prescrição (fl. 21), a exequente nada aduziu sobre a deliberação judicial (fl. 22), de modo que ausente o suscitado vício.
+-Assim, inalterada a situação fática e devidamente enfrentadas as questões controvertidas e os argumentos deduzidos, a irresignação não merece provimento, o que justifica a manutenção da decisão recorrida por seus próprios fundamentos.
+- Agravo conhecido em parte e, na parte conhecida, desprovido.
+Embargos de declaração rejeitados.
+A recorrente alega violação aos artigos 462 e 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou sobre a alegação de renúncia da prescrição pelo pedido de parcelamento do débito.
+Alega, ainda, ofensa aos 191 do CC e 40, § 4º, da Lei 6.830/80, sob o fundamento de que o parcelamento do débito executado imposta em renúncia da prescrição, bem como, de que não houve prescrição intercorrente, porquanto, não houve paralização do processo por prazo superior a cinco anos.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 107/108.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REFORMATIO IN PEJUS E JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação do art. 535 do CPC/1973 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da parte recorrente.
+3. Não há nulidade no julgamento quando acolhido o pleito em perfeita harmonia com o princípio da congruência, pois o pedido inicial "deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita" (AgRg no AREsp n.
+322.510/BA, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/06/2013).
+4. Agravo interno desprovido (AgInt no REsp 1.327.487/GO, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 19/09/2018)
+Outrossim, no que diz respeito à suposta violação ao artigo 191 do CC, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor sobre os mencionados dispositivos legais por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela ausência de prequestionamento, nos termos da Súmula 211/STJ.
+Destaca-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO ALEGAÇÃO DE VIOLAÇÃO DO ART. 513 DO CPC/73. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚMULA DO STJ. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 471 E 472 DO CPC/73. AUSENCIA DE PREQUESTIONAMENTO. INCIÊNCIA DOS ENUNCIADOS SUMULARES 282 DO STF E 211 DO STJ.
+I - Na origem, trata-se de ação de reintegração de posse promovida pela Empresa Metropolitana de Águas e Energia S/A contra a Prefeitura do Município de São Paulo e os moradores da "Favela da Fumaça". O juízo da Vara de Fazenda Pública acolheu-se preliminar de ilegitimidade passiva, com modificação da competência para a Vara comum estadual, diante da exclusão da Municipalidade do feito.
+Interposta apelação, não se conheceu do recurso, sob o fundamento de que o recurso cabível seria agravo de instrumento.
+II - No que trata da alegada infringência ao art. 513 do CPC de 1973, sem razão a recorrente, uma vez que o acórdão recorrido encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que julgado que exclui litisconsorte do polo passivo da lide sem extinguir o processo é decisão interlocutória, recorrível por meio de agravo de instrumento, e não de apelação, cuja interposição, nesse caso, é considerada erro grosseiro.
+III - Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ.
+IV - Em relação à apontada infringência aos arts. 471 e 472 do CPC de 1973, verifica-se que no acórdão recorrido não foi analisado o conteúdo desses dispositivos legais, tampouco foram aventados nas razões dos aclaratórios manejados, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos enunciados sumulares n. 282 do STF e 211 do STJ.
+V - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava a recorrente pleitear seu exame nos embargos de declaração opostos, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+VI - Agravo interno improvido (AgInt no AREsp 1.150.852/SP, Rel. Min. Francisco Falção, Segunda Turma, DJe 11/09/2018).
+Cumpre registrar que "a mera oposição de embargos declaratórios não é suficiente para atender ao requisito do prequestionamento, sendo indispensável o efetivo exame da questão pelo Tribunal de origem. Nem se diga que a interposição do recurso especial, alegando afronta ao art. 535 do Código de Processo Civil/73, supriria a falha, pois a referida ofensa não foi sequer exposta adequadamente, impedindo assim qualquer tentativa da parte" (AgInt no REsp 1.157.185/MT, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 10/04/2018).
+Com relação à prescrição intercorrente, verifica-se que para alterar a posição do Tribunal de origem e concluir que o processo não ficou paralisado por mais de cinco anos é necessária nova incursão no acervo fático e probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS.
+SÚMULA 284/STF. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DA PARTE CREDORA. VERIFICAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A alteração das conclusões adotadas pela Corte de origem, acerca da verificação de inércia da parte credora e da ocorrência de prescrição intercorrente, tal como proposta pela recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.628.279/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 05/12/2017)
+Ante ao exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
