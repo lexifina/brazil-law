@@ -1,0 +1,42 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. FUNDO GARANTIDOR DA HABITAÇÃO POPULAR (FGHab). INVALIDEZ. PRESCRIÇÃO.
+1. Recurso especial e acórdão recorrido a devolverem a cobertura prestada pelo FGHab, criado mediante a Lei 11.977/09, como se contrato de seguro fosse. Conhecimento da controvérsia nos moldes em que devolvida.
+2. Esta Corte Superior tem por pacífica a incidência do prazo prescricional ânuo previsto no art. 206, § 1º, II, do CC/2002 para as pretensões formuladas pelo próprio segurado/mutuário em face de sua invalidez. Reconhecimento, no entanto, pela instância de origem, de que houve a comunicação da invalidez antes do implemento do prazo de 1 ano a contar da aposentadoria do mutuário, sem que a demandada respondesse o pedido até o ajuizamento da presente ação.
+3. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela CAIXA ECONÔMICA FEDERAL, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal Regional Federal da 5ª Região, cuja ementa está assim redigida:
+PROCESSUAL CIVIL. CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO - SFH. SEGURO. INCAPACIDADE PERMANENTE. PRESCRIÇÃO. INOCORRÊNCIA. COBERTURA DO SEGURO.
+1. Apelação interposta pela Caixa Econômica Federal - CEF, ao argumento de que a concessão da Aposentadoria por Invalidez da Autora pela Previdência Social do Município ocorreu em 13 de junho de 2013, entretanto, a comunicação só se deu no dia 13/07/2015, ou seja, 02 (dois) anos após a ocorrência do fato que ensejaria a cobertura securitária pretendida, ocorrendo, dessa forma, a prescrição da pretensão autoral, pois o prazo prescricional, neste caso, é de um ano.
+2. A regra do art. 178, parágrafo 6º, II, do CC/1916, e a do art. 206, parágrafo 1º, II, b, do CC/2002, regulamentam a prescrição no tocante à ação do segurado contra o segurador. Ao mutuário se aplica o prazo decenal do artigo 205, do CC/2002.
+3. Não há que se falar na prescrição da pretensão autoral à cobertura securitária, pois a concessão da Aposentadoria por Invalidez se deu com início de vigência em 18/06/2013, tendo sido comunicado o sinistro ao estipulante em 04/04/2014, sem que nenhuma providência tenha sido tomada. A presente demanda foi ajuizada em 18/01/2016, antes do transcurso do prazo decenal do artigo 205, do CC/2002. Apelação improvida.
+Em suas razões recursais, sustentou, em suma, além do dissídio, a prescrição e a negativa de prestação jurisdicional, pois omisso o acórdão acerca da incidência do prazo prescricional ânuo. Pediu o provimento.
+Houve contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+Antes do ingresso na controvérsia, é preciso destacar que o contrato de financiamento habitacional celebrado na espécie não fora garantido pelo seguro habitacional (SH/SFH) objeto de tantas discussões judiciais nos últimos anos, inexistindo, ao que se extrai da inicial, seguradora ou mesmo apólice de seguro.
+Previu-se, sim, a cobertura de determinados riscos pelo Fundo Garantidor da Habitação Popular (FGHab), criado dentro do programa Minha Casa Minha Vida, cujos recursos são oriundos: da integralização de cotas pela União e pelos agentes financeiros que optarem por aderir às coberturas previstas; dos rendimentos obtidos com a aplicação das disponibilidades financeiras em títulos públicos federais e em ativos com lastro em créditos de base imobiliária; da recuperação de prestações honradas com recursos do FGHab; as comissões cobradas, dentro outras fontes previstas no estatuto do Fundo.
+As coberturas, de sua parte, estão previstas no art. 20 da Lei 11.977:
+I - garantir o pagamento aos agentes financeiros de prestação mensal de financiamento habitacional, no âmbito do Sistema Financeiro da Habitação, devida por mutuário final, em caso de desemprego e redução temporária da capacidade de pagamento, para famílias com renda mensal de até R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais); e
+II - assumir o saldo devedor do financiamento imobiliário, em caso de morte e invalidez permanente, e as despesas de recuperação relativas a danos físicos ao imóvel para mutuários com renda familiar mensal de até R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais).
+Por outro lado, na forma do art. 28, em tendo os financiamentos imobiliários sido garantidos pelo FGHab, são dispensados da contratação de seguro com cobertura de Morte, Invalidez Permanente - MIP e Danos Físicos ao Imóvel - DFI.
+O acórdão recorrido e a própria instituição financeira no recurso especial interposto, apesar do quanto referido, trataram da causa como se estivesse pauta em contrato de seguro, razão por que a questão relativa à prescrição será analisada nos termos em que devolvida no recurso especial e analisada no acórdão recorrido.
+O aresto do Egrégio Tribunal Regional Federal da 5ª Região entendeu aplicável o prazo decenal previsto no art. 205 do CCB, porque (fl. 174 e-STJ): "A prescrição de um ano prevista no antigo e no novo Código Civil aplica-se na relação entre a CAIXA e a empresa seguradora, não sendo imputável ao mutuário. Ao particular se aplica o prazo decenal do artigo 205, do CC/2002."
+Ocorre que sequer seguradora existiria na espécie, senão um fundo criado especialmente para a cobertura de determinados riscos. Ainda assim, entendendo-se aplicável o regime a disciplinar os seguros, já que o FGHab fez as suas vezes, formulada a pretensão pelo mutuário em face do fundo garantidor, tendo em vista a sua invalidez, aplicar-se-ia o prazo ânuo previsto no art. 206, §1º, "b", do CCB, e não o geral.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SFH. INVALIDEZ PERMANENTE. MUTUÁRIO. SEGURO. COBERTURA. PRESCRIÇÃO. PRAZO DE UM ANO. RECURSO PROVIDO.
+1. A questão da legitimidade passiva da Caixa Econômica Federal encontra óbice na Súmula 7/STJ.
+2. A Segunda Seção desta Corte decidiu que é de um ano o prazo prescricional das ações do segurado/mutuário contra a seguradora, nas quais se busca a cobertura de sinistro relacionado a contrato de mútuo firmado no âmbito do SFH (EREsp 1272518/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015).
+2. O cômputo do prazo ânuo começa a correr da data em que o segurado teve ciência inequívoca da incapacidade laboral (Súmula nº 278/STJ), permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização (Súmula nº 229/STJ) (AgRg nos EDcl no REsp 1507380/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2015, DJe 18/09/2015).
+3. No caso, decorrido mais de um ano entre a concessão da aposentadoria e a comunicação do sinistro, declara-se a prescrição.
+4. Agravo interno não provido. (AgInt no REsp 1367497/AL, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/03/2017, DJe 06/04/2017)
+Apesar disso, o acórdão fora enfático em reconhecer, com apoio no substrato fático probatório, que o segurado fora aposentado por invalidez em 18/06/2013 e comunicara a ocorrência do fato previsto no inciso II do art. 20 (invalidez) em data de 04/04/2014, ou seja, antes do implemento do prazo alegadamente aplicável de um ano e, ademais, não obtivera da ré qualquer resposta acerca de sua pretensão.
+A propósito (fl. 177 e-STJ):
+Destarte, não há que se falar na prescrição da pretensão autoral à cobertura securitária, pois a concessão da Aposentadoria por Invalidez se deu com início de vigência em 18/06/2013, tendo sido comunicado o sinistro ao estipulante em 04/04/2014, sem que nenhuma providência tenha sido tomada. A presente demanda foi ajuizada em 18/01/2016, antes do transcurso do prazo decenal do artigo 205 do CC/2002.
+Nesta perspectiva, tem-se por incidente o disposto no enunciado 229/STJ, segundo o qual: "O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão."
+Hegemônica acerca dos fatos da causa, afirmou a instância de origem não ter havido qualquer resposta por parte da ré até o ajuizamento da ação, razão por que não haverá reconhecer o implemento da prescrição sustentada até o ajuizamento da ação em janeiro de 2016.
+Ante o exposto, nego provimento ao recurso especial.
+Não tendo havido fixação dos honorários de advogado na origem, inviável a majoração prevista no 85, §11, do CPC.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
