@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Copafel Comércio de Parafusos e Ferramentas Ltda. contra decisão que inadmitiu o recurso especial com suporte na Súmula 7/STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo nas alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 430):
+APELAÇÃO CÍVEL - AÇÃO CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVA - EFETIVAÇÃO DA LIMINAR EM 23/08/2007 - NECESSIDADE DE AJUIZAMENTO DA AÇÃO PRINCIPAL NO PRAZO DE 30 (TRINTA) DIAS NOS TERMOS DO ART. 806 DO CPC/ OU ART. 308 CPC/2015 - EXIGÊNCIA LEGAL NÃO OBSERVADA PELA PARTE - INEXISTÊNCIA DE INFORMAÇÃO NO PROCESSO DE AJUIZAMENTO DE AÇÃO PRINCIPAL - PROCESSO QUE SE PROLONGA POR MAIS DE NOVE ANOS - EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO - PRECEDENTES DESTE TRIBUNAL E DO STJ - MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração foram rejeitados.
+A recorrente sustenta violação do art. 1.022 do Código de Processo Civil de 2015 sob a alegação de que o julgado seria omisso em relação à tese de impossibilidade de propositura da ação principal no prazo de 30 dias, previsto no art. 806 do CPC/1973, porquanto a realização da prova pericial requerida na ação cautelar não teria sido efetivada.
+A parte recorrida não ofereceu contrarrazões ao recurso.
+O parecer do Ministério Público Federal é pelo não conhecimento do agravo e, caso conhecido, pelo desprovimento da iniciativa, (e-STJ, fls. 543/547).
+É o relatório.
+O recurso especial volta-se contra acórdão que preservou a decisão de primeiro grau que extinguiu a ação cautelar. A insurgente alega tão somente omissão no aresto pois, a seu ver, a Corte regional deixou de apreciar tema invocado nos embargos de declaração referente à não efetivação da medida cautelar, haja visto que a perícia requerida na produção antecipada da prova não teria sido realizada.
+Observo que o Juiz de primeiro grau julgou extinta a ação cautelar por considerar que o pleito de recolhimento e lacre do material foi efetivamente acolhido em liminar, e, passados quase dez anos, a perícia não foi realizada, porquanto todos os peritos nomeados pelo juiz e indicados pelas partes se recusaram a fazê-lo. Entendeu o magistrado ausentes os requisitos autorizadores da medida cautelar, considerando não configurado o perigo da demora, em razão do tempo decorrido desde o deferimento da medida liminar e ainda porque a eventual ação de perdas e danos poderia ser ajuizada contra ambas as partes, oportunidade em que a prova pericial poderia ser realizada (e-STJ, fls. 359/360).
+O Tribunal a quo preservou o decisum consignando, em relação ao tema reputado omisso, que a liminar, nos termos em que pleiteada, foi cumprida em 23/8/2017. Salientou, também, que o processo cautelar tem natureza acessória e a sua finalidade é apenas de assegurar a eficácia do provimento a ser proferido na demanda principal, esta com possibilidade de ampla produção probatória e com prazo obrigatório de 30 dias para a propositura.
+Consignou-se no acórdão recorrido que a extinção da cautelar, no caso, é medida que se impõe, porquanto não proposta a ação principal no prazo legal, conforme disposto à época no art. 808, I, do Código do Processo Civil de 1973, atual art. 309, II, CPC/2015.
+Confiram-se os excertos do acórdão recorrido:
+Infere-se dos autos que a Apelada ajuizou a presente cautelar preparatória para garantir a eficácia de uma futura determinação jurisdicional por entender incompatíveis os argumentos expostos pela apelada quando da rejeição do material por "NÃO CONFORMIDADE". Partindo-se deste pressuposto, observa-se que o juízo singular, determinou o recolhimento e lacre de todos om material objeto desta lide, ficando acondicionado em local da própria apelada, conforme termo de fls.
+169/170.
+Mais uma vez, importante frisar que a liminar deferida, fls. 137, foi cumprida em 23/08/2007, conforme AUTO DE LACRAÇÃO de fls. 169/170.
+Após várias designações de peritos, não foi possível a realização do exame pericial, tendo o Juízo de origem em despacho de 18/07/2012, fls. 313, assim se manifestou:
+R. Hoje.
+Em observância ao princípio do contraditório, intime-se a parte requerente para, em 10 dias, se manifestar acerca da petição de fls. 255/256.
+Após, direi.
+A apelante peticionou, fls. 315/316, argumentou a presente ação tem por objetivo a realização de perícia em material recusado pela PETROBRAS, para que somente após elaboração de laudo pericial, fosse intentada ação judicial para que pudesse recompor os prejuízo alegados, seja contra PETROBRAS ou contra SUDIFER(fornecedor do material).
+Já indicam os art. 305 e 308 do CPC, como deve ser o procedimento de tutela cautelar:
+ ..
+Apesar de ter iniciado a época, a ação cautelar buscando assegurar plenamente a efetividade de um futuro resultado positivo da ação principal, esta ação principal, deveria obrigatoriamente, ser proposta dentro do prazo de trinta dias disposto no agora art. 308 do CPC/2015, o a época art. 806 do CPC/73, contados a partir da efetivação da liminar, sob pena de caducidade da medida e extinção do processo cautelar (CPC/73, art. 808, inc. I), agora art. 309, II, CPC/2015.
+Não proposta a ação dentro deste prazo, como ocorre in casu, eis que a medida cautelar fora efetivada em 22/08/2007 (fls. 169/170) e até a presente data não existem noticias nos autos de propositura da ação principal, de rigor a extinção da ação cautelar por decadência e, por conseguinte, cassar os efeitos da medida liminar anteriormente deferida, nos termos do art. 309, II, do CPC. Tal dispositivo deve ser combinado com o art. 487, II, do Código de Processo Civil, extinguindo-se a ação sem resolução de mérito. (e-STJ, fls. 434/435) Grifos acrescidos.
+Nessa senda, ao contrário do que sustenta a recorrente, não há falar em omissão no julgado, pois o Tribunal a quo manifestou-se sobre todas as questões relevantes para a solução da controvérsia. O inconformismo do insurgente quanto ao decidido não configura violação dos dispositivos invocados.
+A propósito:
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. APLICAÇÃO DA URV. RECURSO ESPECIAL DA MUNICIPALIDADE INADMITIDO COM BASE NO ART. 1.030, I, "B" DO CPC/2015. AGRAVO PARA O STJ. RECURSO INCABÍVEL. RECURSO ESPECIAL DA PARTE AUTORA. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ACÓRDÃO COM BASE EM LEGISLAÇÃO LOCAL E FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 280/STF E 126/STJ.
+1. Com o advento do CPC de 2015 passou a existir expressa previsão legal no sentido do não cabimento de Agravo contra decisão que nega seguimento a Recurso Especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.030, § 2º, c/c art. 1.042, do CPC/2015).
+2. Inexiste a alegada violação ao art. 1.022, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+3. Sendo imprescindível a análise da legislação local para o deslinde da controvérsia, torna-se inviável o acolhimento da pretensão recursal, ante a incidência da Súmula 280/STF.
+4. Firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja a aplicação do óbice contido na Súmula 126/STJ.
+5. Recurso Especial interposto pela Municipalidade não conhecido, e Recurso Especial do autor conhecido em parte e, nessa parte, não provido.
+(REsp 1.729.090/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/5/2018, DJe 2/8/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
