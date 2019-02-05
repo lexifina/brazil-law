@@ -1,0 +1,13 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo nos Embargos de Declaração no Habeas Corpus n. 0802275-27.2018.8.20.0000, em que foi mantida sua prisão cautelar.
+Depreende-se dos autos que o paciente foi condenado em primeiro grau de jurisdição pela prática dos delitos de tráfico e associação ao tráfico de drogas, à pena de 8 anos de reclusão, em regime inicial semiaberto. Em writ dirigido à Corte estadual, a defesa questionou o início da execução provisória da pena, dada a interposição de recurso de apelação, bem como a inércia do Juízo da execução penal em apreciar os pedidos de soltura do réu.
+Instado a se manifestar, o Ministério Público Federal pugnou pelo não conhecimento do habeas corpus.
+Decido.
+Primeiramente, é imperioso destacar que, como bem apontado pelo Parquet, "o pleito do impetrante deixou de ser analisado pelo Tribunal a quo" (fl. 234). A Corte de origem, ao analisar os embargos de declaração, asseverou que "os argumentos trazidos na exordial não merecem ser conhecidos, pois o impetrante está usando o presente como sucedâneo recursal, o que é vedado" (fl. 14).
+Segundo o Tribunal local, " c onstata-se, assim, que execução provisória que se insurge o impetrante é decorrente do determinado na sentença penal condenatória, ou seja, é matéria inerente à própria ação penal, que atualmente está sujeita à jurisdição desse Tribunal de Justiça, em face do efeito devolutivo do recurso de apelação interposto". Aponta, ainda, que, "tendo sido impetrado, concomitantemente, o presente habeas com o recurso apropriado, deve prevalecer o meio de maior amplitude, no caso a apelação corpus criminal, sob pena de ofensa ao princípio da unirrecorribilidade" (fl. 14, destaquei).
+Dessa forma, verifica-se a questão foi não examinada pelo Tribunal local, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Confira-se, a propósito, o seguinte precedente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de imposição de regime inicial menos gravoso ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta  ..  (HC n. 351.490/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 11/5/2016, destaquei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
