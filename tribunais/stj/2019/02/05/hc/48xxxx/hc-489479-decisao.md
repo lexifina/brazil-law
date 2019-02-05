@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial e com pedido de liminar impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0009071-32.2017.8.26.0066.
+O paciente foi condenado, em primeira instância, às penas de 7 anos, 9 meses e 22 dias de reclusão no regime fechado e de pagamento de 781 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em apelação, o TJSP deu parcial provimento ao recurso para readequar a pena e fixá-la em 6 anos e 3 meses de reclusão, mais 625 dias-multa.
+Neste writ, postula a impetrante o deferimento de medida liminar "para que seja concedido ao paciente o direito de aguardar o trânsito em julgado do processo de origem em liberdade com expedição do alvará de soltura". No mérito, requer a concessão da ordem "para o fim de cassar a r. decisão expedida pela autoridade coatora, para reconhecer a nulidade de provas obtidas em razão da invasão domiciliar, absolvendo-se o paciente e, subsidiariamente, o reconhecimento da atenuante da confissão espontânea e compensação integral dela com a agravante da reincidência, ou, ao menos, a diminuição do quantum de exasperação aplicado na segunda fase da dosimetria" (fls. 14-15).
+É o relatório. Decido.
+Em consonância com julgados do Supremo Tribunal Federal (por exemplo, RHC n. 118.623/MS, relator Ministro Roberto Barroso, Primeira Turma, DJe de 5/12/2013; e HC n. 113.690, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 8/10/2012), a Quinta e a Sexta Turmas do Superior Tribunal de Justiça consideram que é inadequado habeas corpus contra decisão do Tribunal a quo atacável pela via de recurso especial, ressalvando-se casos de flagrante ilegalidade em que seja recomendável conceder, de ofício, a ordem.
+No entanto, observa-se que a matéria relativa à prisão cautelar do paciente não foi submetida à apreciação do Tribunal a quo. Assim, seu exame pelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (HC n. 273.799/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/5/2016; RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações à autoridade coatora e ao Juízo de primeira instância.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
