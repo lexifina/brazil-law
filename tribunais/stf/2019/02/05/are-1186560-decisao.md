@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “RECURSO INOMINADO SERVIDOR PÚBLICO AGENTE DE SEGURANÇA PRETENSÃO DE REMOÇÃO POR UNIÃO DE CÔNJUGES – INVIABILIDADE DEFICIT NO QUADRO DE FUNCIONÁRIOS DA UNIDADE PRISIONAL NO QUAL SE ENCONTRA LOTADO TUTELA DO INTERESSE PÚBLICO SENTENÇA MANTIDA”. (eDOC 14, p. 19).
+    No recurso extraordinário (eDOC 15, p. 1), interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação ao art. 226, do texto constitucional.
+    Nas razões recursais, alega-se que “a decisão nega ao recorrente o direito de convivência com seu cônjuge em detrimento do interesse da administração pública”. (eDOC 15, p. 6).
+    Aduz que há violação ao artigo 226 da constituição federal, uma vez que, a entidade familiar não está sendo protegida.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Constituição do Estado e Estatuto dos Servidores Públicos do Estado de São Paulo) e o conjunto probatório constante dos autos, consignou que não foram cumpridos os requisitos para viabilizar a transferência do recorrente, uma vez que, a sua transferência iria causar prejuízo ao interesse público, em razão do déficit de agentes de segurança no CDP de Sorocaba, local no qual o recorrente se encontra atualmente lotado.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A remoção por união de cônjuges se encontra disciplinada no artigo 130 da Constituição Estadual e nos artigos 234 e 235 do Estatuto Dos Servidores Públicos Do Estado De São Paulo (Lei 10.261/68), sendo que os requisitos para viabilizá-la são os que se seguem: a) ambos os cônjuges devem exercer função pública; b) existência de vagas no local de destino e c) não causar prejuízos ao interesse público.
+    Na hipótese em testilha, apesar da cônjuge do requerente (recorrente) João Luiz Brandi exercer função pública estadual, os demais requisitos não se encontram satisfeitos, o que inviabiliza a remoção pleiteada pelo autor.
+    A conclusão transcrita no parágrafo anterior decorre do teor dos documentos carreados às fls.47 dos autos, que atesta a existência de um déficit de agentes de segurança no CDP de Sorocaba, local no qual o requerente (ora recorrente) se encontra atualmente lotado.
+    (…)
+    Resta manifesto, portanto, que o déficit de agentes de segurança no CDP de Sorocaba/S.P inviabiliza a remoção por união de cônjuges pleiteada pelo autor (ora recorrente) João Luiz Brandi, eis que acabaria por importar em gravame ao interesse público”. (eDOC 14, p. 21).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público federal. Remoção. Circunstâncias fáticas que nortearam a decisão do Tribunal a quo em prol do princípio da proteção à família. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A Corte de origem concluiu, em razão de circunstâncias fáticas específicas, que o princípio da proteção à família deveria prevalecer em relação ao princípio da supremacia do interesse público, ante o evidente prejuízo que a não remoção acarretaria para a unidade familiar. 2. Ponderação de interesses que, in casu, não prescinde do reexame do conjunto fático-probatório da causa, o qual é inadmissível em recurso extraordinário. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, 11, do CPC, pois os agravados não apresentaram contrarrazões”. (ARE 992.000 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 27.4.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MANUTENÇÃO DA CESSÃO. PROTEÇÃO DA FAMÍLIA. ANULAÇÃO DE ATO ADMINISTRATIVO. INTERESSE PÚBLICO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO”. (RE 784.210 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 31.5.2016).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro, em 10%, o valor da verba honorária fixada pela origem (eDOC 14, p. 22), observados os limites previstos nos parágrafos 2º e 3º do artigo 85 do CPC, ressalvada a concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
