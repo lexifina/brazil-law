@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por HIPOLABOR FARMACÊUTICA LTDA., contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, proferido na vigência do CPC/73, assim ementado:
+"APELAÇÃO. TRIBUTÁRIO E PROCESSUAL CIVIL. VALOR DA CAUSA. CORRESPONDÊNCIA COM O CONTEÚDO ECONÔMICO DA DEMANDA.
+A importância em definir o valor da causa vai além dos interesses exclusivamente privados, pois envolve questões de indubitável interesse público, como a fixação da competência e o arbitramento de penalidades pecuniárias, cabendo ao juiz exercer, inclusive de ofício, o controle sobre tal elemento, não se caracterizando, nesta hipótese, qualquer ofensa ao art. 2º do digesto processual civil" (fl. 135e)
+Opostos embargos de declaração (fl. 140e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente que o acórdão recorrido violou os arts. 258, 259 e 260, 282, V, 283, 284 e 730 c/c art. 475-B, todos do CPC; e arts. 170 e 170-a, CTN; e art. 74, §§ 2º e 5º, da Lei nº 9.430/1999, pugnando pelo prosseguimento do processo com o valor atribuído na inicial.
+Apresentadas contrarazzões às fls. 172/173e, foi o Recurso Especial admitido na origem (fl. 176e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação não merece acolhimento.
+Com efeito, o Tribunal de origem proferiu acórdão em consonância com a jurisprudência desta Corte Superior no sentido de que o valor da causa deve ser atribuído em razão do proveito econômico a ser obtido.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. IMPUGNAÇÃO AO VALOR DA CAUSA. PROVEITO ECONÔMICO DA DEMANDA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - O tribunal de origem, ao decidir a controvérsia, consignou haver interesse econômico no caso dos autos, em razão da inversão das fases de habilitação e classificação, porquanto, classificada em segundo lugar, a inabilitação da vencedora levaria à análise dos documentos da ora Recorrente e, por conseguinte, à sua esperada habilitação e contratação.
+IV - O valor da causa deve corresponder ao do seu conteúdo econômico, considerado como tal, aquele referente ao benefício que se pretende obter com a demanda, conforme os ditames dos artigos 258 e 259, I, do Código de Processo Civil. Precedentes.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido"(STJ, AgInt no REsp 1.739.440/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 26/11/2018).
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. RECONHECIMENTO DE SOCIEDADE DE FATO COM REFLEXOS PATRIMONIAIS. RECURSO DO MINISTÉRIO PÚBLICO, NA QUALIDADE DE FISCAL DA LEI. 1. OMISSÃO NÃO CONFIGURADA. 2. VALOR DA CAUSA. MATÉRIA DE ORDEM PÚBLICA. 3. AGRAVO REGIMENTAL IMPROVIDO. 1. No tocante à alegação de violação do art.
+535 do CPC/1973, é preciso deixar claro que o acórdão recorrido resolveu as questões deduzidas no processo satisfatoriamente, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+2. É firme a jurisprudência do STJ no sentido de que "o valor da causa diz respeito à matéria de ordem pública, sendo, portanto, lícito ao magistrado, de ofício, determinar a emenda da inicial quando houver discrepância entre o valor atribuído à causa e o proveito econômico pretendido" (REsp n. 1.133.495/SP, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 6/11/2012, DJe 13/11/2012).
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AgRg no AREsp 460.375/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 02/08/2017).
+Dessa forma, incide ao caso a Súmula 568/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
