@@ -1,0 +1,89 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. MORTE DE FILHO MAIOR POR DESCARGA ELÉTRICA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIO DE SERVIÇOS DE ENERGIA. RECURSO DA ELETROACRE. TRIBUNAL LOCAL QUE ATESTOU A RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇOS DE ENERGIA ELÉTRICA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. ATO ILÍCITO. DANO, E NEXO DE CAUSALIDADE SUFICIENTEMENTE COMPROVADO. REFORMA. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+DECISÃO
+SONIA MARIA [NOME] [NOME] (SONIA) ajuizou ação de indenização por donos morais e materiais contra ELETROACRE - COMPANHIA DE ELETRICIDADE DO ACRE S.A. (ELETROACRE), em virtude da morte por descarga elétrica de seu filho [NOME], ocorrida aos 10/9/2015.
+Os pedidos foram julgados procedentes a fim de condenar a ré ao pagamento de danos materiais fixados em R$ 1.540,54 (um mil quinhentos e quarenta reais e cinquenta e quatro centavos), e a quantia de R$ 500.000,00 (quinhentos mil reais), a título de dano moral, devidamente atualizada e com juros de mora de 1% ao mês, a partir do evento danoso (Súmulas 362 e 54 do STJ).
+O Tribunal a quo deu parcial provimento ao apelo da ELETROACRE, a fim de reduzir o valor reparatório para a quantia de R$ 100.000,00 (cem mil reais), e para afastar o dano material, nos termos do acórdão a seguir ementado:
+DIREITO CIVIL. APELAÇÃO. PRELIMINAR DE PRECLUSÃO TEMPORAL DA CONTESTAÇÃO. NÃO VERIFICADA. PRELIMINAR DE ILEGITIMIDADE ATIVA. REJEITADA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADE CIVIL OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA. NÃO CARACTERIZADA. NEXO DE CAUSALIDADE. COMPROVADO. REPARAÇÃO POR DANOS MORAIS. MORTE DA VÍTIMA. DESCARGA ELÉTRICA. DANO MORAL. REPARAÇÃO. DESPROPORCIONALIDADE. DANO MATERIAL. NÃO COMPROVADO. JUROS MORATÓRIOS. INCIDÊNCIA A PARTIR DO EVENTO DANOSO. SÚMULA 54/STJ.
+1. Observadas as regras de regência, tempestiva a contestação do apelante.
+2. Comprovado que a vítima do fato era filho da apelada. Preliminar de ilegitimidade ativa rejeitada.
+3. As concessionárias de serviço público de fornecimento de energia elétrica respondem objetivamente, nos termos do art. 37 , § 6º , da Constituição Federal, pelos danos materiais e morais ocasionados em decorrência de morte resultante de choque elétrico proveniente de fio de alta tensão caído no chão, ainda mais quando não houve a devida comprovação de culpa exclusiva da vítima ou de terceiro.
+4. É assente na jurisprudência do Superior Tribunal de Justiça que a valoração da compensação moral deve ser apurada mediante prudente análise do Juiz, orientado pela máxima da proporcionalidade, observados a natureza, a gravidade e a repercussão da ofensa; o grau de culpa e a intensidade do dolo do ofensor; eventual participação culposa do ofendido; a capacidade econômica do ofensor; as condições sociais, econômicas e políticas do ofendido.
+5. Sendo desproporcional o valor da reparação fixado na sentença, comporta revisão por este Tribunal, reduzindo-o para R$ 100.000,00 (cem mil reais) para a genitora da vítima fatal.
+6. Não há prova de que a autora arcou com as despesas com funeral, visto que os documentos juntados aos autos com a finalidade de comprovar o dano material estão em nome de terceiro, tampouco há presunção de dependência entra este e aquela.
+7. Em se tratando de responsabilidade extracontratual, os juros moratórios incidem desde o evento danoso, inclusive sobre o valor dos danos morais. Enunciado 54 da Súmula do STJ.
+8. Preliminares rejeitadas. Apelo provido em parte (e-STJ, fls. 343/344).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 377/386).
+Irresignada, ELETROACRE interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 37 da CF; 75, VII, e 373 do NCPC; 14, § 3º, II, do CDC; 927 e 945 do NCPC.
+Sustentou, em suma, que não há prova nos autos (1) de que o corpo encontrado carbonizado pela Polícia seja de [NOME]; que sua morte tenha sido decorrente do acidente; e que a recorrida SONIA era, de fato, genitora da vítima; (2) não há falar em responsabilidade da recorrente, tratando-se a hipótese de culpa exclusiva da vítima; (3) o acidente decorreu da negligência de terceiro; e (4) não há prova do dano moral, sendo certo que não se indeniza prejuízo moral hipotético.
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem (e-STJ, fls. 491/494 e 498/499).
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da responsabilidade da ELETROACRE e da prova do ato ilícito, do nexo de causalidade e do dano
+A Corte de origem, após afastar a alegada ilegitimidade passiva da ré, reconheceu a sua responsabilidade objetiva, bem como o dever de indenizar a genitora da vítima, [NOME], nos termos da fundamentação abaixo:
+2. Da preliminar de ilegitimidade ativa
+A empresa argui a ilegitimidade ativa da autora apelada, argumentando que não havia prova de que a vítima era filho da demandante.
+Todavia, dos autos deflui indene de dúvidas que a vítima do sinistro foi [NOME], o qual era filho da apelada, conforme cópia da carteira de trabalho (fl. 25).
+Assim, também encaminho pela rejeição da preliminar de ilegitimidade ativa.
+ ..
+3. Do mérito
+3.1. Da inexistência de prova da ocorrência do sinistro
+No exame do mérito, sustenta a empresa apelante que não houve prova de que efetivamente tenha ocorrido algum acidente no local descrito na inicial ou ainda de quais foram as circunstâncias do sinistro.
+Reputo que a argumentação é absolutamente infundada.
+A prova carreada aos autos com a petição inicial é firme em demonstrar, não só a ocorrência do sinistro, como ainda as circunstâncias que levaram a vítima [NOME] a óbito. É o que se extrai, a propósito, do laudo de exame cadavérico (fls. 19/21; 32/33), laudo pericial criminal em local de morte violenta (fls.
+37/40), certidão de óbito (fl. 213), e, ainda, no boletim de ocorrência de fls. 30/31, onde consta o registro de [NOME], 2º [NOME], no sentido de que:
+"por volta das 13h recebemos via 190 a informação de que no endereço supracitado, um homem morreu vítima de descarga elétrica. Ao chegarmos ao local indicado constatamos a veracidade do fato, nos deparamos com um corpo carbonizado às margens da estrada. Conforme apurado no local, a vítima [NOME], 23 anos, trafegava com uma motocicleta de placa MZZ 3511, marca Honda/CG Titan, quando nas proximidades do km 14, da estrada (RM Pelé), atingiu um cabo de alta tensão energizado que estava caído sobre a via. A vítima teve o corpo carbonizado ao sofrer forte descarga elétrica de alta tensão.
+O veículo foi totalmente consumido pelo fogo. Informo ainda que a perícia técnica foi acionada, comparecendo ao local do fato por volta das 19h10min para a realização dos trabalhos periciais. Informo que após término pericial, o corpo foi removido e levado ao instituto médico legal (IML), em Rio Branco, para os demais procedimento cabíveis." 3.2. Da responsabilidade civil De outro giro, a recorrente alega não haver responsabilidade civil pelo evento danoso, haja vista não ter praticado nenhuma conduta ilícita, bem assim inexistir dano e nexo de causalidade na hipótese.
+Em se tratando de responsabilidade civil, é imprescindível a demonstração dos elementos referentes ao ato lesivo, comissivo ou omissivo, ao dano e ao nexo causal entre esse comportamento e o dano de ordem material ou moral causado a terceiros.
+Da narrativa inicial e do álveo processual resultou demonstrado nos autos que, no dia 10.9.2015, por volta do meio dia, a vítima [NOME] trafegava pelo ramal do Pelé, pilotando uma motocicleta (PLACA MZZ- 3511), quando, nas proximidades do Km 14 da estrada, foi atingido por um cabo de alta tensão energizado que estava sobre a via. Em decorrência do choque, teve morte instantânea, ficando com o corpo totalmente carbonizado.
+De acordo com a prova dos autos, o cabo de alta tensão, ainda energizado, estava caído sobre a via pública quando a vítima com ele colidiu, vindo a sofrer a descarga elétrica.
+Nota-se que as circunstâncias do sinistro se devem à falha na prestação do serviço pela concessionária, que negligenciou no seu dever de cuidado e fiscalização da rede elétrica que atendia aquela região, sem a correta proteção, poda das árvores, limpeza dos arredores das instalações elétricas. Com efeito, segundo o laudo pericial criminal, o rompimento do fio de alta tensão possivelmente foi decorrente da queda de uma árvore na margem esquerda do ramal (fl.37/40), fato a revelar a falta de fiscalização por parte da apelante.
+ ..
+Sobre o tema, convém notar que a responsabilidade das empresas concessionárias de serviço público é objetiva, consoante preconiza o art. 37, § 6º, da Constituição Federal.
+No caso, não há como ignorar que os danos decorrentes de acidentes com energia elétrica a terceiros na área de atuação da apelante são de sua inteira responsabilidade, em perfeita sintonia com a aplicação da teoria do risco, prescindindo da comprovação de dolo ou culpa.
+ ..
+Por essa linha de exposição, demonstrada está a conduta ilícita da apelante, cuja omissão é relevante independentemente de dolo ou culpa.
+Quanto ao dano, tem-se que, de acordo com o laudo de fl. 32, a vítima teve o corpo carbonizado em decorrência de ação térmica provocada pela descarga elétrica.
+Induvidoso, por conseguinte, a existência de danos de ordem moral e material a reparar. Moral, em virtude de ofensa à integridade física e à vida da vítima, com repercussão no âmbito familiar, cujos parentes são privados da convivência do ente querido, ferindo assim também atributos da personalidade. Material, em virtude das despesas de funeral da vítima.
+A empresa apelante, todavia, sustenta a quebra do nexo de causalidade, aduzindo como causa excludente a culpa exclusiva da vítima.
+Contudo, não é o que deflui da prova produzida.
+Sendo certo que é dever da concessionária zelar pela segurança dos consumidores, redobrado deveria ter sido o cuidado com a manutenção (poda de árvores e limpeza da área) da rede elétrica no local, daí evidenciado o nexo causal entre a conduta dela e o resultado morte.
+Ademais disso, não seria razoável admitir que a vítima pudesse prever a existência do cabo energizado quando trafegava normalmente na via pública em sua motocicleta. Ora, se não deu causa ao evento nem descumpriu nenhuma regra de trânsito, não há culpa exclusiva a sustentar.
+Dito isso, não há de se falar em culpa exclusiva da vítima, tampouco em quebra do nexo de causalidade (e-STJ, fl. 349/354).
+Pois bem.
+Quanto a responsabilidade da ré, a Corte de origem dirimiu a controvérsia em conformidade com a orientação firmada no âmbito desta Corte, nos termos dos precedentes abaixo.
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS PROPOSTA POR FAMÍLIA DE VÍTIMA DE ACIDENTE FATAL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. RESPONSABILIDADE CIVIL OBJETIVA.
+1. Inexiste ofensa ao art. 535 do CPC, quando o tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos.
+2. Inviável a análise da negativa de vigência a dispositivo legal que não estava em vigor à época dos fatos.
+3. Mesmo antes da Constituição Federal de 1988 e da entrada em vigor do Código Civil de 2002, já se reconhecia a responsabilidade objetiva da empresa concessionária de energia elétrica, em virtude do risco da atividade.
+4. O risco da atividade de fornecimento de energia elétrica é altíssimo sendo necessária a manutenção e fiscalização rotineira das instalações. Reconhecida, portanto, a responsabilidade objetiva e o dever de indenizar.
+5. Conforme a jurisprudência sedimentada no Superior Tribunal de Justiça, sendo incontroverso o óbito, as despesas com o funeral, são presumidas, de modo que é adequada sua fixação limitada ao mínimo previsto na legislação previdenciária.
+ .. .
+8. Diante das peculiaridades do caso, razoável a fixação da compensação por danos morais no valor de 300 salários mínimos a cada um dos recorrentes.
+9. Recurso especial conhecido em parte e, nesta parte, provido.
+(REsp 1095575/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 18/12/2012, DJe 26/03/2013).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO INDENIZATÓRIA - REDE ELÉTRICA DE ALTA TENSÃO INSTALADA IRREGULARMENTE - MORTE POR ELETROCUSSÃO RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, na qual enfrentou de maneira direta e objetiva o questionamento acerca da presença dos requisitos da reparação civil e seus consectários jurídicos. Precedentes do STJ: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011 e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011.
+2. A Corte local, após sopesar todo o acervo fático-probatório carreado ao autos, concluiu não ter a vítima concorrido para o evento danoso. Incidência da Súmula 7/STJ, na hipótese. Precedentes: AgRg no AREsp 384092/ES, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 28/10/2013.
+ .. .
+4. Agravo interno desprovido.
+(AgInt no AREsp 624.967/ES, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 13/12/2016, DJe 19/12/2016).
+Assim, estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Quanto à ocorrência do ato ilícito, esta encontra suficientemente comprovada, tendo a Corte de origem ressalvado que de acordo com a prova dos autos, o cabo de alta tensão, ainda energizado, estava caído sobre a via pública quando a vítima com ele colidiu, vindo a sofrer a descarga elétrica (e-STJ, fl. )
+Assim para afastar o entendimento acima, seria necessário o reexame de todo conjunto fático-probatório da causa, o que encontra óbice no enunciado da Súmula nº 7 do STJ.
+Nesse sentido, veja-se o precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. MORTE DO FILHO DOS AUTORES, POR ELETROCUSSÃO. OMISSÃO DA CONCESSIONÁRIA NA MANUTENÇÃO DA REDE DE ENERGIA ELÉTRICA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. INDENIZAÇÃO POR DANOS MATERIAIS. INOVAÇÃO RECURSAL, EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 30/10/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação de Indenização, ajuizada pela parte agravada em face da Companhia Energética do Maranhão-CEMAR, objetivando indenização por danos morais e materiais pela morte do filho dos autores, em decorrência de descarga elétrica de um fio de alta tensão, de responsabilidade da empresa ré. A sentença julgou procedente, em parte, o pedido, para condenar a ré ao pagamento de indenização por danos morais, despesas com o funeral e pensionamento, no valor de 1/3 (um terço) do salário-mínimo. O acórdão reformou parcialmente a sentença, tão somente em relação à base de cálculo da verba honorária.
+ .. .
+IV. O entendimento firmado pelas instâncias ordinárias, com base no exame dos elementos fáticos dos autos - no sentido de que a recorrente não comprovou que a morte decorreu de culpa exclusiva da vítima, restando patente a existência do dano e da relação de causalidade com a omissão dos deveres de cuidado e de manutenção devidos -, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+ .. .
+VI. Em relação à indenização por dano material, a parte agravante suscita tese que não foi objeto das razões do Recurso Especial, tratando-se, portanto, de indevida inovação recursal, em sede de Agravo interno, que não merece ser conhecida, na forma da jurisprudência.
+VII. Agravo interno parcialmente conhecido e improvido.
+(AgInt no AREsp 1248433/MA, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, j. 8/5/2018, DJe 15/5/2018).
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/03/2016), CONHEÇO do agravo, a fim de CONHECER e NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de ELETROACRE, nos termos do art. 85, § 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
