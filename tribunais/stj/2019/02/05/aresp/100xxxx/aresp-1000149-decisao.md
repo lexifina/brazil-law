@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial sob o fundamento de o recurso estar em conformidade com a jurisprudência dominante desta Corte, a dizer que não há direito à licença-prêmio por assiduidade após a revogação do art. 87 da Lei n. 8.112/1990.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 91):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA PRÊMIO POR ASSIDUIDADE. MEDIDA PROVISÓRIA N. 1.522/96 E SUCESSIVAS REEDIÇÕES, ATÉ A CONVERSÃO DA MP N. 1.573-13/97 NA LEI N. 9.527/97.
+1. O artigo 87 da Lei n. 8.112/90 (Regime Jurídico Único dos Servidores Públicos) que assegurava aos servidores pertencentes ao quadro da Advocacia-Geral da União o benefício licença-prêmio foi revogado pela Medida Provisória n. 1522, de 11 de outubro de 1996, que, após inúmeras edições, foi convertida na Lei 9527, de 10 de dezembro de 1997, razão pela qual não cabe a concessão do benefício pleiteado pelo autor.
+2. Precedente (TRIBUNAL - TERCEIRA REGIÃO - AMS - APELAÇÃO EM MANDADO DE SEGURANÇA - 198.466 Processo: 199961000237598, UF: SP Órgão Julgador: SEGUNDA TURMA Data da decisão: 16/05/2006 Documento: TRF300103546, Fonte DJU: 02/06/2006, PÁGINA: 403 Relator(a) JUIZA CECILIA MELLO).
+3. Apelação não provida.
+Foram apresentadas contrarrazões às e-STJ, fls. 146-150.
+Instado a se manifestar, o Ministério Público Federal - MPF deu parecer (fls. e-STJ, 212-218) opinando pelo não provimento do presente agravo em recurso especial.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+É o relatório.
+O cerne da controvérsia é saber se a MP 1.522/1996, posteriormente convertida na Lei n. 9.527, de 10 de dezembro de 1997, a qual revogou o art. 87 da Lei n. 8.112/1990, tem eficácia em relação aos Procuradores da Fazenda Nacional, haja vista o art. 131 da Constituição Federal prever que cabe à lei complementar dispor sobre a organização e funcionamento da Advocacia-Geral da União.
+Com a finalidade de regulamentar o dispositivo, a Lei Complementar n. 73/1993, em seu art. 26, caput, prevê que os membros efetivos da Advocacia-Geral da União têm os direitos assegurados pela Lei n. 8.112/1990, além dos previstos na própria lei.
+Nesse cenário, impõe-se o não conhecimento do presente recurso especial, tendo em vista que a jurisprudência do Superior Tribunal de Justiça tem entendimento consolidado no sentido da inadequação do recurso especial para o exame de conflito entre lei ordinária e lei complementar, sendo a matéria reservada ao Supremo Tribunal Federal, mediante recurso extraordinário.
+Nesse sentido:
+TRIBUTÁRIO. IPTU. ALEGAÇÃO DE CONFLITO ENTRE LEI ORDINÁRIA E LEI COMPLEMENTAR. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO ESPECIAL.
+I - A questão diz respeito à vigência, na hipótese dos autos, do inciso 8º do art. 27 da Lei n. 9.514/1997, que dispõe sobre a responsabilidade do devedor fiduciante pelo pagamento de impostos, in casu, o IPTU, e outros encargos.
+II - A referida lei, no presente caso, estaria em conflito com a determinação contida no art. 123 do CTN.
+III - Nesse panorama, se apresenta impositivo o não conhecimento do presente recurso especial, uma vez que a jurisprudência do Superior Tribunal de Justiça tem entendimento pacificado no sentido da não cognoscibilidade do apelo nobre para o exame de conflito entre lei ordinária e lei complementar, sendo a matéria reservada ao Supremo Tribunal Federal, mediante recurso extraordinário. Com esse entendimento: AgRg no REsp 1.467.230/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/10/2014; REsp 1365433/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2013, DJe 26/09/2013; REsp 577.228/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/02/2017, DJe 24/02/2017.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.670.292/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/3/2018, DJe 12/3/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. CONFLITO ENTRE LEIS ORDINÁRIAS EM FACE DE LEI COMPLEMENTAR. LEGALIDADE DA MAJORAÇÃO DA ALÍQUOTA DA COFINS-IMPORTAÇÃO. LEI 10.865/2004. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. ART. 195, § 12, DA CF/1988. INAPLICABILIDADE DO ART. 1.032 DO CPC/2015.
+1. Afastada a alegada ofensa ao art. 1.022 do CPC/2015, eis que o acórdão recorrido se manifestou de forma clara e fundamentada sobre a matéria posta em debate na medida necessária para o deslinde da controvérsia. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+2. O recurso especial é via imprópria para discussão de conflito entre leis ordinárias (Leis n. 1.0.865/2004, 10.833/2003, 10.637/2002) em face de lei complementar (CTN), haja vista a índole constitucional de tal discussão.
+3. A tentativa de afastar a aplicação dos arts. 15, § 3º, e 8º, § 21, da Lei n. 10.865/2004, relativamente à majoração de alíquota da COFINS-Importação, na forma como pretendida pela recorrente, demanda sua declaração de inconstitucionalidade, nos termos da Súmula Vinculante n. 10 do STF, o que corrobora com a índole constitucional da discussão.
+4. O caso em análise não comporta a aplicação do art. 1.032 do CPC/2015, no sentido de abrir prazo para manifestação da recorrente sobre a questão constitucional e para a demonstração da repercussão geral para fins de remessa dos autos ao Supremo Tribunal Federal, uma vez que tal providência seria desnecessária e inútil na hipótese dos autos, tendo em vista que já existe recurso extraordinário interposto e admitido na origem, de modo que, em momento oportuno, os autos subirão ao Supremo Tribunal Federal para análise da questão constitucional.
+5. Agravo interno não provido.
+(AgInt no REsp 1.622.902/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/3/2017, DJe 13/3/2017)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
