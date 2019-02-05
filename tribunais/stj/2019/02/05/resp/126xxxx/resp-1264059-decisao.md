@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 277):
+ANTECIPAÇÃO DE TUTELA. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE.
+Não configurada a prescrição intercorrente se, embora decorridos mais de cinco anos desde a citação da empresa-agravante, não se verifica inércia culposa da exeqüente a ensejar o reconhecimento da prescrição, tendo o credor diligenciado no sentido de encontrar os responsáveis tributários e bens passíveis de penhora.
+Alega o recorrente a existência e dissídio jurisprudencial quanto ao reconhecimento da prescrição intercorrente nos casos em que o exequente diligencia no sentido de encontrar bens passíveis de penhora, mesmo que o redirecionamento da ação aos sócios tenha se dado somente após 5 (cinco) anos da citação da empresa.
+Contrarrazões às e-STJ, fls. 335/339.
+Parecer do Ministério Público Federal às e-STJ, fls. 532/534.
+É o relatório.
+A irresignação não merece prosperar.
+Com efeito, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+Ademais, o insurgente não indicou o dispositivo de lei federal que teria sido infringido pelo acórdão recorrido. Tal falta compromete, inclusive, o conhecimento da insurgência fundada na alínea "c" do permissivo constitucional, dada a necessidade de apontamento da norma com interpretação controvertida. Assim, no ponto, incide o óbice da Súmula 284/STF.
+No aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. COISA JULGADA. VIOLAÇÃO. MATÉRIA FÁTICA. REEXAME. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DEMAIS QUESTÕES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO. SIMILITUDE FÁTICA. NÃO EVIDENCIADA.
+1. A Corte de origem entendeu que houve efetivo descumprimento da sentença prolatada em ação civil pública, de modo que a revisão das conclusões do acórdão recorrido demandaria necessário revolvimento dos aspectos fáticos da lide, além de reanálise das cláusulas contratuais, o que é vedado nesta via recursal ante o disposto nas Súmulas nºs 5 e 7/STJ.
+2. O simples acolhimento dos aclaratórios na origem, sem que haja expresso pronunciamento, mesmo que implícito, a respeito das normas indicadas nos dispositivos legais indicados como malferidos no recurso especial, não é suficiente para fins de considerar prequestionada a matéria (Súmula nº 211/STJ).
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp 610.722/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/6/2016, DJe 2/8/2016 - grifos acrescidos)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. NÃO RECONHECIMENTO DO TEMPO ESPECIAL. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. Não se conhece da alegação de dissídio jurisprudencial se a parte não informa em relação à aplicação de qual dispositivo legal este teria se estabelecido. "É imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Ministra Laurita Vaz, Corte Especial, DJe 17/12/2009).
+2. O Tribunal de origem, soberano na análise dos fatos, concluiu que "o Autor não possui o tempo mínimo requerido de serviço especial necessário à obtenção do benefício previdenciário de aposentadoria especial, levando em consideração que, uma vez desconsiderado o período de 23.05.1983 a 02.09.1983, o qual, conforme demonstrado no presente voto, não pode ser enquadrado como tempo de serviço especial, o segurado não implementaria o tempo mínimo de 25 anos de serviço especial exigido, conforme a tabela apresentada na r. sentença às fls. 358" (fl. 469, e-STJ). A revisão desse entendimento, nos termos apresentados pelo recorrente, esbarra no óbice da Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1.656.502/ES, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/4/2017, DJe 2/5/2017 - grifos acrescidos)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
