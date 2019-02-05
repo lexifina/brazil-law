@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 488):
+MANDADO DE SEGURANÇA. ADESÃO AO PARCELAMENTO. LEI 12.996, DE 2014. CONSEQUÊNCIAS NA ESFERA ADMINISTRATIVA. AUSÊNCIA DE PEDIDO DE DESISTÊNCIA. INCLUSÃO DE PARTE DOS DÉBITOS. POSSIBILIDADE.
+A adesão a programa de parcelamento não importa renúncia ou desistência tácita de discussão da dívida. É possível o desmembramento de dívida, para fins de inclusão de somente parte de débitos que estejam sendo executados ou discutidos na via judicial ou administrativa.
+Em suas razões, o recorrente sustenta ofensa aos artigos 17, § 7º, da Lei 11.941/2009 e 111 do CTN, ao fundamento de que "É condição para a eficácia, ante a União, de pedido de adesão a parcelamento, nos termos do contido no art. 1º, da Lei 11.941/2009, dispositivo aplicável ao parcelamento da Lei 12.996/2014, conforme determina seu art. 17, §7º, a desistência, de forma irrevogável e irretratável, de ações judiciais propostas, renunciando ao direito sobre o qual se funda a ação, quando esta verse sobre débito incluído na benesse." (fl. 510).
+Instada a se manifestar, a douta Subprocuradoria-Geral da República opinou pelo não provimento do recurso.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 533.
+É o relatório. Passo a decidir.
+A irresignação não comporta conhecimento.
+Em estudo dos autos, constata-se que o recorrente, ao indicar ofensa aos artigos 17, § 7º, da Lei 11.941/2009 e 111 do CTN e direcionar a sua tese no sentido de necessidade de renúncia de todas as ações em curso para adesão ao parcelamento, deixou de impugnar o fundamento do acórdão recorrido segundo o qual " ..  a opção pelo parcelamento da dívida implica confissão irretratável dos fatos, mas não exclui a possibilidade de discussão dos aspectos jurídicos da exação, considerado o princípio da inafastabilidade da jurisdição, ressalvado à autoridade administrativa o exame quanto aos requisitos para adesão válida e permanência no programa. A exigência de desistência da ação e de renúncia do direito sobre o qual ela se funda, prevista no art. 6º da Lei nº 11.941, de 2009, é cabível somente nas ações em que se postula o restabelecimento ou reinclusão em outros parcelamentos, e deve se dar, inclusive, de forma expressa, o que não ocorreu no caso dos autos." (fl. 493)
+Ato contínuo, a Corte de origem salienta ainda que " ..  a Lei nº 11.941, de 2009, permite que o contribuinte escolha "débitos" que pretende ver parcelados, dentre os diversos que eventualmente possua, sejam eles inscritos em dívida ativa ou não. Se, v.g., um tributo é apurado mensalmente, gerando um débito a cada mês ou competência, é certo que poderá o contribuinte eleger algumas competências (= débitos) para parcelamento, deixando outras de fora. O que não pode, porque a lei a tanto não o autoriza, é pretender parcelar "percentual" ou "fração" de um débito isolado, como, por exemplo, "50%" desta ou daquela competência/débito, o que não pretende a impetrante." (fl. 494).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
