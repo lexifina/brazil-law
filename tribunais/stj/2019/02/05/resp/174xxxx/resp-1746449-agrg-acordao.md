@@ -1,0 +1,59 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. COMPROVAÇÃO. IMPOSSIBILIDADE DE REALIZAÇÃO DO EXAME DE CORPO DE DELITO. AUSÊNCIA SUPRIDA POR PROVA TESTEMUNHAL. ADMISSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. O exame de corpo de delito é indispensável para comprovar que o furto foi praticado com o rompimento de obstáculo (art. 155, § 4º, I, do CP e art. 158 do CPP). O laudo pericial pode ser substituído por outros elementos de prova apenas quando os vestígios tenham desaparecido por completo ou o lugar se tenha tornado impróprio para a constatação dos peritos.
+3. No caso, não foi possível realizar a perícia, pois, por motivo de segurança, a porta da residência arrombada foi reparada pela vítima. Nessa hipótese, o art. 167 do Código de Processo Penal autoriza que a falta da prova pericial seja suprida por prova testemunhal (exame indireto), como ocorreu no caso.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto por IGOR CRUZ RODRIGUES e [NOME] contra a decisão unipessoal de fls. 432/438, por meio da qual, com fundamento no art. 255, § 4º, II, do Regimento Interno do Superior Tribunal de Justiça, negou-se provimento ao recurso especial.
+Segundo os agravantes (e-STJ, fls. 447), o decisum merece reforma, pois ainda que "a porta do imóvel tivesse sido reparada, supostamente para evitar "risco a segurança da casa", ainda assim haveria de ser realizado exame de corpo de delito indireto para comprovar o conserto recente indicativo de anterior arrombamento, sendo que, sem essa prova técnica, não é possível incidir a qualificadora do art. 155, § 4º, I, do CP."
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado, dando-se provimento à irresignação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Ultrapassados os requisitos de admissibilidade do agravo regimental, passa-se ao mérito recursal.
+Os elementos existentes nos autos indicam que os recorrentes foram condenados, cada um, a 5 (cinco) anos de reclusão, em regime semiaberto, e ao pagamento de 180 (cento e oitenta) dias-multa, pela prática de crime previsto no art. 155, § 4º, I e IV, do Código Penal.
+O TJSE negou provimento ao recurso de [NOME] [NOME] DA [NOME] e deu parcial provimento à apelação de IGOR CRUZ RODRIGUES, para redimensionar a pena-base aplicada e, com arrimo no art. 580 do Código de Processo Penal, estendeu os efeitos do julgado ao corréu.
+Nas razões do apelo nobre (e-STJ, fls. 272/281), a defesa aponta violação dos arts. 158, 167 e 171, todos do Código de Processo Penal, pois, o delito imputado aos recorrentes teria sido praticado com rompimento de obstáculo, que deixa vestígios, sendo indispensável perícia direta para sua comprovação, o que não ocorreu. Acrescenta que o art. 167 do CPP somente admite a substituição do exame pericial pela prova testemunhal quando não foi possível a realização da prova técnica.
+Requer, ao final, o provimento do recurso especial, para que seja decotada a qualificadora de rompimento de obstáculo e para que a infração seja desclassificada para o crime de furto simples, redimensionando-se a pena.
+Em parecer (e-STJ, fls. 422/429), o Ministério Público Federal opinou pelo provimento do recurso especial.
+Por decisão monocrática desta Relatoria, negou-se provimento ao recurso especial (e-STJ, fls. 432/438).
+Daí a apresentação deste regimental.
+A irresignação, porém, não merece prosperar.
+No caso dos autos, o Tribunal estadual se manifestou nos seguintes termos, in verbis (e-STJ, fls. 405/406):
+ ..
+No que atine à arguição de que não restou comprovada a causa de aumento de pena referente ao rompimento de obstáculo (prevista no inciso I, do §4º do artigo 155 do CP), também não merece prosperar.
+Como bem ressaltado pelo Procurador de Justiça, em que pese a ausência de perícia, restou evidenciado nos autos, por outros meios de prova, "que o furto em questão foi precedido pelo arrombamento da porta dos fundos da casa de onde os agentes retiraram as reses furtivas".
+Com efeito, o doutrinador Cleber Masson ensina que, não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta (CPP, art. 167).
+ ..
+Sabe-se que a jurisprudência pátria possui o entendimento de que a realização do exame pericial para comprovação do rompimento do obstáculo apenas é prescindível quando os vestígios desaparecerem ou se não mais puderem ser constatados pelos peritos.
+Contudo, no caso dos autos, a manutenção dos vestígios materiais apenas para a realização do exame pericial estaria pondo em risco a segurança da casa, expondo-a de uma forma que facilmente seria alvo de outros crimes.
+Com isso, explicitada a razão da impossibilidade da realização do exame pericial, os demais outros meios de prova constantes nos autos são suficientes para a comprovar a existência do rompimento de obstáculo.
+Assim, tem-se comprovada a materialidade da qualificadora em comento diante da sua comprovação por outros meios de prova constantes nos autos, mesmo diante da ausência do Laudo Pericial.
+Nessa planura, entendo pela necessidade de incidência da qualificadora de rompimento de obstáculo para a prática do crime de furto descrita no art. 155, §4º, I, do CP, diante de sua ocorrência incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste e, portanto, deve o réu ser condenado por furto qualificado.
+Portanto, deve ser mantida a aludida qualificadora.
+Do trecho acima, depreende-se que o TJSE considerou que a prova técnica para a comprovação da qualificadora de rompimento de obstáculo pode ser suprida pela prova oral ou documental, excepcionalmente e de forma justificada, quando os vestígios tiverem desaparecido.
+Como asseverado na decisão impugnada, para desconstituir as conclusões do julgado, no intuito de abrigar o pleito de violação à lei federal (pela verificação de impossibilidade de realizar exame pericial e se as provas oral e/ou documental eram aptas a suprir o exame pericial), seria necessário a este Sodalício aprofundado revolvimento do contexto fático-probatório, providência exclusiva das instâncias ordinárias, que encontra óbice na Súmula 7/STJ.
+Observa-se que o acórdão impugnado está em consonância com a jurisprudência consolidada sobre a matéria (grifos acrescidos):
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. APRESENTAÇÃO DE JUSTIFICATIVA PLAUSÍVEL. COMPROVAÇÃO POR OUTROS MEIOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto. Precedentes.
+2. Conforme registrado no aresto impugnado, a realização da perícia para atestar o rompimento de obstáculo não foi possível, tendo em vista que a manutenção do local a ser periciado nas condições em que se encontrava após a realização do crime de furto, ou seja, com a porta da residência arrombada, colocaria em risco a segurança de seus moradores. Assim, tendo as instâncias ordinárias apresentado justificativa plausível para não realizar a perícia, as declarações da vítima e o depoimento testemunhal, meios de prova indireta, são válidos para a comprovação da qualificadora.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1247037/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/06/2018, DJe 13/08/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. PLEITO DE EXCLUSÃO DA QUALIFICADORA, ANTE A AUSÊNCIA DE PERÍCIA. DELITO QUE NÃO DEIXOU VESTÍGIOS. CONFISSÃO DO ACUSADO E DEMAIS PROVAS QUE ATESTAM O USO DE CHAVE FALSA. POSSIBILIDADE. QUALIFICADORA MANTIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Nos casos em que a infração deixa vestígio, por imperativo legal (art. 158 do CPP), é necessária a realização do exame de corpo de delito direto. Por outro lado, nos termos do art. 167 do CPP, "não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta".
+- Por outro lado, o emprego de chave falsa pode, a depender da hipótese, não deixar vestígios, como, por exemplo, quando se emprega grampo, arame ou chave de feitio especial para a abertura de fechaduras, sem dano ou arrombamento, de modo que, nesses casos, é dispensável o exame pericial para a caracterização da qualificadora do crime de furto (AgRg no AREsp 886.475/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/09/2016, DJe 26/09/2016).
+- Hipótese em que restou demonstrado que o delito em tela não deixou vestígios, pois, além do fato de o acusado ter afirmado que usou uma chave réplica, a qual, em regra, não gera danos, o veículo objeto do furto já se encontrava com diversas avarias, sendo desnecessária a perícia, portanto.
+- Assim, tendo o acórdão recorrido assentado que a perícia, no caso, seria inócua, pois o delito em epígrafe não deixou vestígios, e, por outro lado, havendo o paciente confessado o emprego de chave falsa, entendo que, não havendo hierarquia de provas, não há ilegalidade na condenação (..) pelo crime de furto qualificado em razão do emprego de chave falsa, com base em provas outras que não a pericial (AgRg no AREsp 265.106/DF, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 09/09/2013).
+- Habeas corpus não conhecido.
+(HC 394.886/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2017, DJe 29/08/2017)
+PROCESSO PENAL E PENAL. EMBARGOS DE DECLARAÇÃO. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO E/OU OMISSÃO. OCORRÊNCIA. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. IMPRESCINDIBILIDADE DE PERÍCIA DIRETA. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão (artigo 619 do Código de Processo Penal).
+2. É assente neste Superior Tribunal de Justiça o entendimento de que o reconhecimento das qualificadoras de rompimento de obstáculo e de escalada no delito de furto requisita a realização de exame pericial direto, somente substituível por outros meios de prova quando não existirem ou desaparecerem os vestígios ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+3. Logo, se era possível a realização da perícia, como no caso concreto dos autos, e esta não ocorreu de acordo com as normas pertinentes (art. 159 do CPP), a prova testemunhal, a confissão do acusado e o exame indireto não suprem a sua ausência.
+4. Embargos de declaração acolhidos, a fim sanar a omissão apontada, com efeitos infringentes, tão somente para afastar a causa de aumento do rompimento de obstáculo para a configuração do delito de furto qualificado.
+(EDcl no HC 408.471/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+Assim, como dito no julgado agravado, o recurso especial encontra o óbice, também, na súmula 83/STJ, segundo a qual "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
