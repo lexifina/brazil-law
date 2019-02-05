@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — AGRAVO – DESPROVIMENTO.
+    1. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do princípio da segurança jurídica e da inalterabilidade das decisões judiciais. Discorre acerca dos atos processuais na primeira instância e do quadro fático-probatório.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    AÇÃO DE EXECUÇÃO. AGRAVO. ACORDO HOMOLOGADO DESCUMPRIMENTO DO PACTO. PROSSEGUIMENTO DA EXECUÇÃO. POSSIBILIDADE. Ocorrendo o descumprimento de acordo devidamente homologado em processo de execução, pode o magistrado determinar o prosseguimento do feito, sem que isso caracterize a anulação da sentença homologatória", por se tratar de efeito do descumprimento, previsto no próprio acordo. Não se pode afirmar que tenha havido nos autos uma sentença homologatória que fez coisa julgada material, diante da cláusula nona que autorizava apenas a suspensão do feito até o cumprimento integral do acordo.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do ato impugnado o seguinte trecho:
+    O que se viu foi a ordem de prosseguimento de uma ação de execução porque o acordo firmado pelas partes, durante tramitação do feito, não foi integralmente cumprido pelas devedoras, na medida em que o veículo não foi entregue à credora, como pactuado, o que justifica a decisão de prosseguimento da execução em face do descumprimento do acordo. Extrai-se da composição firmada a fI. 32134, que os autos ficariam suspensos - cláusula nova, fI. 33 - até que houvesse a quitação integral do pacto, quando então ocorreria a extinção do processo de execução. Desta forma, não se pode afirmar que tenha havido nos autos uma sentença homologatória que fez coisa julgada material, porque isso não ocorreu, diante da cláusula nona que autorizava apenas a suspensão do feito até o cumprimento integral do acordo. Como isso não aconteceu, houve a prolação de nova decisão que determinou o prosseguimento da ação de execução. Isto é perfeitamente possível.
+    Desta feita não pode o agravante afirmar que com um mero despacho o MM. Juiz anulou a sentença proferida nos autos, porque a homologação do acordo sempre estará vinculada aos termos do que foi pactuado, o que autoriza o prosseguimento da execução, se os devedores não cumprem a sua parte na forma como transigiram.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
