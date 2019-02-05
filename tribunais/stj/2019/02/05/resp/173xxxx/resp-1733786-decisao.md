@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E FINANCEIRO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO (FUNDEB). VALOR MÍNIMO ANUAL POR ALUNO (VMAA). CRITÉRIO DE FIXAÇÃO. MÉDIA NACIONAL. OBSERVÂNCIA DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA RESP 1.101.015/BA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Pilar em face de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa dispõe:
+CONSTITUCIONAL E ADMINISTRATIVO. PRELIMINARES REJEITADAS. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB. COMPLEMENTAÇÃO DA UNIÃO. CRITÉRIOS DE COMPLEMENTAÇÃO E SUPLEMENTAÇÃO DO VMAA. NOVA SISTEMÁTICA DE CÁLCULOS. ANEXO DA LEI N. 11.494/2007. NOTA EXPLICATIVA.
+1. Preliminares de ilegitimidade passiva ad causam da União e prescrição rejeitadas.
+2. Diante da promulgação da Emenda Constitucional nº 53/2006, o FUNDEF foi extinto e, em seu lugar, foi criado o Fundo de Manutenção e Desenvolvimento de Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, através da Medida Provisória nº 339/2006, posteriormente convertida na Lei nº 11.494/2007.
+3. A Lei instituidora do FUNDEB, em seu anexo, mediante Nota Explicativa, estabeleceu nova sistemática de cálculo para as complementação e suplementações do Fundo a cargo da União.
+4. O FUNDEB é constituído de 27 Fundos, sendo um para cada Estado e outro para o Distrito Federal.
+5. O legislador constituinte deixou a cargo do legislador ordinário a organização dos Fundos, a distribuição proporcional de seus recursos, as diferenças e as ponderações quanto ao valor anual por aluno entre etapas e modalidades da educação básica e tipos de estabelecimento de ensino, bem como a forma de cálculo desse valor anual mínimo por aluno, inexistindo, então, qualquer indicativo na Constituição Federal de que o valor nacional a ser fixado deve ser necessariamente o "valor médio anual nacional por aluno", não havendo que se falar, portanto, em inconstitucionalidade nos dispositivos e no anexo da Lei nº 11.494/2007.
+6. É de se cumprir, portanto, para efeito de complementação da União, os parâmetros estabelecidos no anexo da Lei nº 11.494/2007, isto porque inexiste critério uniforme de complementação, devendo o ente público cumprir a Nota Explicativa constante no citado anexo para o cálculo de distribuição dos recursos do FUNDEB, diferentemente da sistemática adotada no FUNDEF.
+7. Hipótese em que inexistiu comprovação de que os critérios de complementação do VMAA utilizados teriam dado ensejo a parcelas de complementação da União.
+8. Recurso adesivo para majoração dos honorários advocatícios improvido. Apelação da União provida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente alega ofensa aos arts. 489, § 1º, IV, 927, V, e 1022 do CPC/2015, pois o acórdão recorrido foi omisso quanto à aplicabilidade de precedente vinculante do TRF da 5ª Região.
+Aponta violação aos arts. 1º, caput, 3º, 4º, 32 e 33 da Lei nº 11.494/2007, pois durante os primeiros anos do FUNDEB, o VMAA fixado pelo Poder Executivo, com espeque no art. 1º do Decreto nº 5.690/2006, ficou abaixo do [NOME], do FUNDEF.
+Segundo entende:
+o que a lei fez foi simplesmente estipular dois valores de VMAA"s em sua sistemática, impondo à União que sempre levasse em conta o maior deles quando do cálculo dos complementos devidos aos Municípios: ou o VMAA do FUNDEB calculado sob sua nova sistemática regionalizada ou o valor do VMAA do FUNDEF em 2006, calculado de forma nacionalizada, conforme a extinta lei que o regia, qual seja, a Lei n. 9.424/96 , sendo importante frisar que essa imposição tem uma finalidade específica, porquanto com a nova ampliação do alcance do FUNDEB (= ampliação dos custos do programa), o legislador pretendeu evitar redução dos repasses e solução de continuidade a todos os objetivos (novos e velhos) do fundo educacional, razão por que impediu que os valores a serem repassados a partir do novo fundo, mais amplo, não fossem inferiores em relação ao antigo, extinto, menos abrangente
+Requer que a União seja condenada a retificar o valor repassado ao FUNDEB nos exercícios de 2009 e 2010.
+Contrarrazões apresentadas às e-STJ fls. 397/437.
+O recurso foi admitido na origem.
+É relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em preliminar, afasta-se a ofensa aos artigos 489, § 1º e 1022, II, do CPC/2015, pois na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Ilustrativamente:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Quanto ao mérito, o Tribunal a quo concluiu que:
+não se pode estabelecer um critério uniforme de complementação, impondo a cada ente federativo demonstrar categoricamente que a União deixou de complementar o Fundo, tendo por base os critérios legalmente estabelecidos no anexo da Lei nº 11.494/2007, onde se encontra Nota Explicativa para o cálculo de distribuição dos recursos do Fundo.
+No entanto, o cálculo a ser empregado para fixação do novo valor mínimo do FUNDEB deve levar em consideração o Valor Mínimo por Aluno (VMAA) do FUNDEF de 2006 que, segundo esta Corte Superior, decorre da correta interpretação da Lei 9.424/96.
+A jurisprudência do STJ pacificou-se no sentido de que a fixação do VMAA, para fins de complementação do valor do FUNDEF, atual FUNDEB - Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, deverá ser observado o valor mínimo nacional, e não a média mínima obtida em determinado Estado ou Município.
+Com efeito, a controvérsia restou definitivamente dirimida no âmbito da Primeira Seção, por ocasião do julgamento do REsp 1.101.015/BA, submetido à sistemática do art. 543-C do CPC, da relatoria do Ministro Teori Albino Zavascki. Anote-se a ementa do julgado (DJe 2/6/2010):
+ADMINISTRATIVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO - FUNDEF. VALOR ANUAL MÍNIMO POR ALUNO - VMAA. FIXAÇÃO. CRITÉRIO: MÉDIA NACIONAL.
+1. Para fins de complementação pela União ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental - FUNDEF (art. 60 do ADCT, redação da EC 14/96), o "valor mínimo anual por aluno" (VMAA), de que trata o art. 6º, § 1º da Lei 9.424/96, deve ser calculado levando em conta a média nacional. Precedentes.
+2. Recurso especial a que se nega provimento. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, II e III, do CPC/2015 c/c o art. 255, § 4º, II e III, do RISTJ, dou parcial provimento ao recurso especial.
+Publique-se. Intimem-se.
