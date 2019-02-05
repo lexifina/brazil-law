@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Ultralimpo Empreendimentos e Serviços Ltda., com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (e-STJ, fl. 330):
+TRIBUTÁRIO. CRÉDITO PREVIDENCIÁRIO (SAT). NFLD. COMPETÊNCIAS NÃO INCLUÍDAS NA AÇÃO DE DEPÓSITO PREPARATÓRIO. DECADÊNCIA. PRESCRIÇÃO. INOCORRÊNCIA.
+1. Trata-se de apelação interposta por ULTRALIMPO EMPREENDIMENTOS E SERVIÇOS LTDA em face de sentença que julgou improcedente o pedido de reconhecimento judicial de inexistência de relação jurídica tributária que obrigue a empresa autora cumprir o parcelamento perfectibilizado em razão da NFLD n. 35.710.946-5, alusiva a pendências de pagamento das contribuições ao SAT nas competências de 01/2000 a 05/2000, em razão da ocorrência de prescrição, condenando-a ao pagamento de honorários advocatícios no valor de R$1.000,00, nos termos do art. 20, parágrafo 4º, do CPC.
+2. Referida Notificação Fiscal de Lançamento de Débito foi lavrada pelo Fisco em 31/05/2005 para prevenir a decadência do crédito previdenciário (SAT), já que a empresa apelante não efetuara o depósito do montante integral do crédito questionado, relativo às competências lançadas (01/2000 a 05/2000), na Ação de Depósito Preparatório (Processo n. 98.0022455-6) ajuizada em 02/12/98 pela apelante para o fim de obter a suspensão da exigibilidade do crédito, relativo ao período de 12/1998 a 05/2004, na Ação Ordinária n. 0005251-07.1999.4.05.8100.
+3. O Superior Tribunal de Justiça assentou o entendimento de que "Eventuais diferenças não cobertas pelos valores depositados poderão ser lançadas pelo Fisco, se for o caso, no prazo de cinco anos contados da data da conversão dos depósitos em renda". (REsp 636.626/PR, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 15/05/2007, DJ 04/06/2007, p. 299)
+4. Na espécie, consoante documento acostado aos autos, a conversão do depósito em pagamento definitivo em favor da União ocorreu em 13/05/2008. Portanto, não há se falar sequer em prescrição, considerando que o crédito fora constituído preventivamente, em 2005, para evitar a consumação da decadência, embora não pudesse ser cobrado em razão da suspensão da exigibilidade obtida por medida liminar.
+5. Apelação improvida.
+A recorrente alega, nas razões do especial, a existência de contrariedade aos arts. 156, V, e 174 do CTN. Acena, ainda, com dissídio jurisprudencial quanto ao tema.
+Sustenta, em síntese, que, " ..  após a constituição definitiva do crédito, a Fazenda Nacional tem o prazo de cinco anos para promover sua cobrança através de execução fiscal. Após esse prazo, configura-se a prescrição, extinguindo-se assim o crédito tributário" (e-STJ, fl. 337).
+Assevera que  ..  os valores inseridos no lançamento, relativos às competências 01/2000 a 05/2000, não foram depositados judicialmente, razão pela qual o referido crédito tributário exigido no processo administrativo não se encontrava com a sua exigibilidade suspensa e, por se tratar de débito já constituído mediante a lavratura da NFLD, poderia ter sido exigido judicialmente desde a referida data (30/01/2005), ipso facto, a inépcia do Fisco acarretou a prescrição do direito da Fazenda de interpor a competente ação em face do transcurso de mais de 05 (cinco) anos da constituição do crédito" (e-STJ, fl. 338).
+Sem contrarrazões (e-STJ, fl. 353).
+Parecer do Ministério Público Federal (e-STJ, fls. 365/370).
+É o relatório.
+A Corte de origem afastou a ocorrência da prescrição do crédito tributário, com base no seguinte (e-STJ, fl. 328):
+Hipótese em que o MM. Juiz a quo julgou improcedente o pedido de reconhecimento judicial de inexistência de relação jurídica tributária que obrigue a empresa autora cumprir o parcelamento perfectibilizado em razão da NFLD n. 35.710.946-5, alusiva a pendências de pagamento das contribuições ao SAT nas competências de 01/2000 a 05/2000, em razão da ocorrência de prescrição.
+A sentença não merece reparos.
+Referida Notificação Fiscal de Lançamento de Débito foi lavrada pelo Fisco em 31/05/2005 (fls.73) para prevenir a decadência do crédito previdenciário (SAT), já que a empresa apelante não efetuara o depósito do montante integral do crédito questionado, relativo às competências lançadas (01/2000 a 05/2000), na Ação de Depósito Preparatório (Processo n. 98.0022455-6) ajuizada em 18/01/99 (fls. 127-128) pela apelante para o fim de obter a suspensão da exigibilidade do crédito, relativo ao período de 12/1998 a 05/2004, na Ação Ordinária n. 0005251-07.1999.4.05.8100 (fls. 150).
+O Superior Tribunal de Justiça assentou o entendimento de que "Eventuais diferenças não cobertas pelos valores depositados poderão ser lançadas pelo Fisco, se for o caso, no prazo de cinco anos contados da data da conversão dos depósitos em renda". (REsp 636.626/PR, Rel. Ministro Teori Albino Zavascki, 1ª T., julgado em 15/05/2007, DJ 04/06/2007)
+Na espécie, consoante documento de fls. 127, a conversão do depósito em pagamento definitivo em favor da União ocorreu em 13/05/2008. Portanto, não há se falar sequer em prescrição, considerando que o crédito fora constituído preventivamente, em 2005, para evitar a consumação da decadência, embora não pudesse ser cobrado em razão da suspensão da exigibilidade obtida por medida liminar.
+Em face do exposto, nego provimento à apelação para manter a sentença recorrida.
+Verifica-se que a orientação adotada pela Corte de origem encontra-se em conformidade com a jurisprudência do Superior Tribunal de Justiça no sentido de que "eventuais diferenças não cobertas pelos valores depositados poderão ser lançadas pelo Fisco, se for o caso, no prazo de cinco anos contados da data da conversão dos depósitos em renda" (REsp 636.626/PR, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJ 4/6/2007).
+Por outro lado, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar a existência da prescrição do crédito em cobro, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO. GRUPO ECONÔMICO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. PRESCRIÇÃO. RESP 1.120.295/SP. INOCORRÊNCIA. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+4. A Primeira Seção do STJ, por ocasião do julgamento do Recurso Especial 1.120.295-SP, representativo de controvérsia, de relatoria do Ministro Luiz Fux, consignou entendimento de que a interrupção da prescrição no momento da propositura da demanda somente se configura quando realizada a citação tempestivamente (art. 174 do CTN, na redação anterior à LC 118/2005) ou, ainda que de forma intempestiva, quando a demora decorrer de culpa do Poder Judiciário.
+5. A alteração das conclusões adotadas na origem quanto à não ocorrência de prescrição demanda a incursão nas questões de fato e de prova dos autos, providência inadmissível na via especial.
+Incidência da 7/STJ.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.724.365/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/4/2018, DJe 25/5/2018)
+TRIBUTÁRIO. RECURSO ESPECIAL. ART. 174 DO CTN. INTERPRETAÇÃO.
+PRESCRIÇÃO. INOCORRÊNCIA.
+1. O Tribunal de origem em nenhum momento aduziu que a interposição de recurso administrativo configuraria causa interruptiva da prescrição. Apenas asseverou que tal circunstância seria causa suspensiva da exigibilidade do crédito tributário.
+2. A Corte regional, com base na prova dos autos, constatou a inexistência de prescrição em razão dos atos terem sido praticados dentro do qüinqüênio legal, bem como que a interposição de recurso administrativo trata-se de causa suspensiva da exigibilidade do crédito. Análise mais aprofundada do tema referente à prescrição encontra óbice no disposto na Súmula nº 7 desta Corte.
+3. Recurso especial improvido.
+(REsp 759.066/RS, Rel. Min. CASTRO MEIRA, SEGUNDA TURMA, julgado em 23/8/2005, DJ 19/9/2005, p. 311)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA.
+ELETRIFICAÇÃO RURAL. FINANCIAMENTO DE EXPANSÃO DE REDE DE ENERGIA ELÉTRICA. IMPOSSIBILIDADE DE SE VERIFICAR A PRESCRIÇÃO ALEGADA. INCIDÊNCIA DAS SÚMULA 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO- NÃO CONHECIDO. APLICAÇÃO DE MULTA.
+ ..
+2. A decisão agravada afirmou que a impossibilidade de se verificar a prescrição alegada, decorreu da incidência das Súmulas 5 e 7 do STJ e a agravante restringiu-se a insistir na aplicação do prazo prescricional de cinco anos com base na dissonância entre o acórdão recorrido e o REsp 1.063.661/RS.
+3. Agravo regimental não conhecido, com aplicação de multa.
+(AgRg no REsp 1.237.243/RS, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/6/2011, DJe 1º/7/2011)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
