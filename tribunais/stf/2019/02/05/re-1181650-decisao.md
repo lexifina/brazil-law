@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da Terceira Região.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente alega ter o acórdão recorrido violado o disposto no art. 150, III, “a”, da Carta Magna, bem como o disposto na Súmula 584/STF.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Juízo de origem, com base na legislação de regência (Código Tributário Nacional e Lei 8.541/1992) e no conteúdo fático-probatório constante dos autos, manteve a sentença de improcedência do pedido em acórdão assim ementado (fl. 45, Vol. 7):
+    “TRIBUTÁRIO. IRPJ. OMISSÃO DE RECEITA. ART'S. 43 E 44 DA LEI Nº 8.541/92: REVOGAÇÃO. ART. 106, II, "C". APLICAÇÃO DO ART. 144 DO CTN.
+    1. O lançamento reporta-se à data da ocorrência do fato gerador e observa a lei vigente à época, consoante previsão lançada no art. 144 do CTN, de sorte que apurada omissão de receita no ano de 1995, incide a regra dos art’s. 43 e 44 da Lei n° 8.541/92, mesmo que posteriormente revogados.
+    2. Em se tratando de autuação decorrente de omissão de receitas, não há que se falar em retroatividade de lei mais benéfica, pois o art. 106, II, "c" do CTN aplica-se tão somente aos casos de cominação de penalidades.
+    3. Apelação improvida.”
+    Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Mesmo que fosse possível superar todos esses graves óbices a argumentação recursal, na forma como colocada pela recorrente, traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
