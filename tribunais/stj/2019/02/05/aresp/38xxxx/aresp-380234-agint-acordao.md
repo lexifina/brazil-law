@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ITBI. IMUNIDADE TRIBUTÁRIA. OFENSA A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. REEXAME. INVIABILIDADE. SÚMULA 7/STJ.
+1. Não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o agravante se limitou a afirmar de forma genérica ofensa ao referido normativo, sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+2. Não cabe a esta Corte Superior, em sede de recurso especial, a análise de eventual ofensa a dispositivos constitucionais, uma vez que, nos termos do artigo 102, III, da Constituição Federal, a uniformização de interpretação de tais normas cabe, tão somente, ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do art. 156, §2º, I, da CF/88.
+3. A revisão pretendida em sede de recurso especial exige, necessariamente, nova incursão nas provas dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator):
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 450):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ITBI. INTEGRALIZAÇÃO DO CAPITAL SOCIAL. IMUNIDADE PREVISTA NO ART. 156, § 2º, I, DA CF/88. LIMITADA AO VALOR DO CAPITAL SOCIAL A SER INTEGRALIZADO. FUNDAMENTO CONSTITUCIONAL. NATUREZA DA ATIVIDADE EXERCIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO CONHECIDO.
+A agravante sustenta que expôs de forma clara e fundamentada a violação ao artigo 535 do CPC/73, de modo que o óbice da Súmula 284/STF deve ser afastado. Aduz, ainda, que o recurso foi interposto em razão de violação à lei federal, bem como, que não é necessário o reexame de provas.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ITBI. IMUNIDADE TRIBUTÁRIA. OFENSA A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. REEXAME. INVIABILIDADE. SÚMULA 7/STJ.
+1. Não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o agravante se limitou a afirmar de forma genérica ofensa ao referido normativo, sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+2. Não cabe a esta Corte Superior, em sede de recurso especial, a análise de eventual ofensa a dispositivos constitucionais, uma vez que, nos termos do artigo 102, III, da Constituição Federal, a uniformização de interpretação de tais normas cabe, tão somente, ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do art. 156, §2º, I, da CF/88.
+3. A revisão pretendida em sede de recurso especial exige, necessariamente, nova incursão nas provas dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator):
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, para restar devidamente demonstrada a alegada violação ao art. 535 do CPC/1973, indispensável que se exponha, de forma clara e fundamentada, não apenas a questão de direito que não foi abordada no acórdão proferido em sede de embargos de declaração, mas a sua efetiva relevância para fins de novo julgamento pela Corte de origem.
+No caso em análise, contudo, o agravante se limitou a afirmar de forma genérica a ofensa ao referido normativo, sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Destaca-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OMISSÃO NO JULGADO. ALEGAÇÃO GENÉRICA. IMPORTAÇÃO DE VEÍCULO. PENA DE PERDIMENTO. PAGAMENTO DE TRIBUTOS. REPETIÇÃO. CABIMENTO.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. Esta Corte de Justiça tem decidido que a alegação de violação do art. 535 do CPC/73 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, o que não ocorreu na espécie, o que enseja a aplicação da Súmula 284 do STF.
+3. Na hipótese dos autos, de acordo com a legislação tributária de regência, os tributos (II, PIS/Importação e COFINS/Importação) não incidem sobre mercadorias e bens estrangeiros que tenham sido objeto de pena de perdimento, exceto nas hipóteses em que não sejam localizados, consumidos ou revendidos, situação não ocorrida in casu.
+4. A devolução do valor recolhido a título de IPI também deve ocorrer, pois o seu fato gerador, que é o desembaraço aduaneiro, nem chegou a ocorrer, conforme premissa fática firmada pela Corte de origem.
+5. Recurso especial conhecido, em parte e, nessa extensão, desprovido (REsp 1.499.408/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/08/2018, DJe 30/08/2018).
+Outrossim, não cabe a esta Corte Superior, em sede de recurso especial, a análise de eventual ofensa a dispositivos constitucionais, uma vez que, nos termos do artigo 102, inc. III, da Constituição Federal, a uniformização de interpretação de tais normas cabe, tão somente, ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do art. 156, §2º, inc. I, da CF/88.
+Nesse sentido: AgRg no AREsp 239.416/RJ, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 6/3/2013; AgRg no AREsp 251.740/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 13/3/2013; AgRg no AREsp 265.051/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 13/3/2013; AgRg no AREsp 89.419/RS, Rel. Min. Ari Pargendler, Primeira Turma, DJe de 18/3/2013; e AgRg no REsp 1.303.691/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 29/4/2013.
+Por fim, verifica-se que o Tribunal de origem, soberano na análise do acervo fático e probatório dos autos, concluiu que "não foi devidamente comprovada nos autos que a empresa faz jus à imunidade tributária, mesmo porque, analisando os documentos juntados aos autos, referentes aos balanços patrimoniais de 2002 e 2003, bem como as notas fiscais de fls. 90/91, não há como se inferir a atividade exercida pela empresa nos dois exercícios anteriores ou três posteriores à incorporação do imóvel, devendo, por isso prevalecer a presunção de legalidade do lançamento efetivado pela Municipalidade"
+Nesse contexto, a revisão pretendida em sede de recurso especial exige, necessariamente, nova incursão nas provas dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
