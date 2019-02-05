@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo BANCO SANTANDER (BRASIL) S.A., contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/73, assim ementado:
+"EXECUÇÃO PROVISÓRIA. Bloqueio Judicial e penhora sobre ativos financeiros. Decisão, proferida em 19-09-2011, que rejeitou a alegação de prescrição e fixou como data final para a incidência de juros o efetivo pagamento. Anterior recurso de agravo de instrumento que não veiculou tais questões. Ocorrência de preclusão consumativa. Recurso não conhecido" (fl. 1.783e).
+Opostos embargos de declaração (fls. 1.789/1.798e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 219, § 5º, 471, 473, 475-G e 535, inciso II, e 620 do CPC/73 e 90, 206, § 3º, incisos IV e V, e 2.028 do Código Civil, arts. 59 e 60 do CC/16, sustentando, em síntese, além de negativa de prestação jurisdicional, não ter havido a preclusão da matéria ora debatida.
+Transcorrido in albis o prazo para apresentação de contrarrazões, foi o Recurso Especial inadmitido na origem (fls. 1.864/1.865e), daí a interposição do presente Agravo (fls. 1.867/1.886e).
+Contraminuta às fls. 1.907/1.915e.
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No mérito, este Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que a pretensão de derruir a conclusão firmada pelo Tribunal de origem quanto a ocorrência da coisa julgada/preclusão esbarra no óbice da Súmula 7/STJ.
+Vejamos:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ACIDENTE DO TRABALHO. AUXÍLIO-ACIDENTE CUMULADO COM AUXÍLIO-DOENÇA. OCORRÊNCIA DA PRECLUSÃO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. No presente caso, o Tribunal de origem consignou que "encontra-se preclusa a possibilidade de dedução dos valores percebidos àquele título, operando-se a coisa julgada em favor do exequente" (fl. 181, e-STJ).
+3. Tendo o Tribunal a quo entendido que ocorreu a preclusão do direito da parte recorrente, para alterar tal conclusão seria necessário o reexame de provas, o que é inviável ante óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Recurso Especial não conhecido" (STJ, REsp 1.673.302/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/09/2017).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. JUROS MORATÓRIOS ATÉ O EFETIVO PAGAMENTO. NÃO INCIDÊNCIA. VALORES PAGOS ADMINISTRATIVAMENTE. COISA JULGADA E PRECLUSÃO. SÚMULA 7/STJ. NÃO CONFIGURADA VIOLAÇÃO AO ART. 535 DO CPC/1973. ARTS. 128, 460 DO CPC/1973 E 401 DO CC NÃO PREQUESTIONADOS.
+1. A questão relativa à incidência de juros moratórios entre a data da elaboração da conta de liquidação e a do efetivo pagamento do precatório já foi decidida pela Corte Especial do Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, por meio do REsp 1.143.677/RS, da relatoria do Min. Luiz Fux.
+2. Para modificar o entendimento firmado no acórdão recorrido, aferindo a existência e os limites da coisa julgada e a preclusão in casu, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+3. Não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+4. Não se pode conhecer da insurgência contra a ofensa aos arts. 128, 460 do CPC e 401 do CC, pois os referidos dispositivos legais não foram analisados pela instância de origem. Incide, na espécie, a Súmula 211/STJ.
+5. Agravo Interno não provido" (STJ, AgInt no REsp 1.587.740/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/09/2016).
+"PROCESSUAL CIVIL. PRECLUSÃO. REVISÃO. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF.
+1. Tendo o tribunal de origem entendido que ocorreu a preclusão do direito da recorrente, para alterar tal conclusão seria necessário o reexame de provas, o que é inviável ante óbice da Súmula 7 do Superior Tribunal de Justiça.
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência da Súmula 283/STF.
+3. Agravo Regimental não provido" (STJ, AgRg no REsp 1.564.579/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/09/2016).
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nesta extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
