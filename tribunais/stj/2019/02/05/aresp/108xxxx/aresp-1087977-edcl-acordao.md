@@ -1,0 +1,80 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. INTUITO DE REDISCUTIR O MÉRITO DO JULGADO. INVIABILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+2. Não há obscuridade na apreciação do decisum embargado. As alegações do embargante não têm o intuito de solucionar omissão, contradição ou obscuridade, mas denotam a vontade de rediscutir o julgado.
+3. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL. AGRAVO INTERNO QUE NÃO ATACA A TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITE O RECURSO ESPECIAL. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO.
+1. Cuida-se de inconformismo contra decisão da Presidência do STJ que não conhece do Agravo em Recurso Especial.
+2. O Recurso Especial não foi admitido pela decisão agravada, com espeque no seguinte lastro: Súmula 7/STJ e razões recursais dissociadas do acórdão recorrido. Malgrado isso, a parte em seu Agravo deixou de impugnar especificamente: razões recursais dissociadas do acórdão recorrido, que sustentou a recusa no recebimento do recurso e por si só manteria a decisão de inadmissibilidade recursal.
+3. O recorrente não infirma todos os fundamentos do acórdão vergastado, o que denota deficiência na fundamentação do recurso, incidindo, por analogia, o disposto nos enunciados 283 e 284 da Súmula do Supremo Tribunal Federal, que tratam de pressupostos genéricos de admissibilidade recursal, aplicáveis também ao presente caso.
+4. Agravo Interno a que se nega provimento.
+Houve interposição de Embargos de Declaração pugnando ao STJ, em síntese:
+Daí não haver no caso concreto afronta aos verbetes Sumulares 283 e 284, do STF, pois como exaustivamente demonstrado no recurso especial, houve sim a fundamentação específica da matéria tida por violada, inclusive, com destaque nos acórdãos paradigmáticos e análise analítica deles para permitir o conhecimento do recurso superior.
+(..)
+Dessa feita, e conforme exposto nas linhas acima, resta claro que o decisum embargado é obscuro e deve ser sanado, para aclarar o v. acórdão embargado, com o devido enfrentamento dos pontos ventilados no agravo regimental que deu origem aos presentes embargos declaratórios.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os autos foram recebidos neste Gabinete em 12.12.2017.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados, máxime não padecem de obscuridade.
+Os Aclaratórios constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+O Recurso Especial não foi admitido pela decisão agravada, com espeque no seguinte lastro: Súmula 7/STJ e razões recursais dissociadas do acórdão recorrido. Malgrado isso, a parte em seu Agravo deixou de impugnar especificamente: razões recursais dissociadas do acórdão recorrido, que sustentou a recusa no recebimento do recurso e por si só manteria a decisão de inadmissibilidade recursal.
+Como se depreende, o recorrente não infirma todos os fundamentos do acórdão vergastado, o que denota deficiência na fundamentação do recurso, incidindo, por analogia, o disposto nos enunciados 283 e 284 da Súmula do Supremo Tribunal Federal, que tratam de pressupostos genéricos de admissibilidade recursal, aplicáveis também ao presente caso.
+Súmula 283/STF É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Na mesma linha, destacam-se os seguintes julgados do STJ:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+ (..)
+ 4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido. (AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 5/8/2014, DJe 8/8/2014);
+ ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial. Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/8/2014, DJe 19/8/2014).
+Nesse diapasão, registre-se que o presente Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto, não há falar em reparo na decisão, pelo que se reitera o seu teor:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 211/STJ e Súmula 7/STJ.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ e razões recursais dissociadas do acórdão recorrido.
+Entretanto, a parte Agravante deixou de impugnar especificamente: razões recursais dissociadas do acórdão recorrido.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ART. 544, § 4º, I, DO CPC/1973. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. NÃO OCORRÊNCIA.
+ ..  3. Conforme reiterada jurisprudência desta Corte, nos termos do art. 544, § 4º, I, do CPC/1973, o conhecimento do agravo em recurso especial está condicionado à impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao apelo nobre, sejam eles autônomos ou não. Precedentes.
+ ..  5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no AREsp 419.689/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2016, DJe 08/06/2016.)
+Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp 880.709/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/06/2016, DJe 17/06/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016; AgRg no AREsp 825.588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe 12/04/2016; AgRg no AREsp 809.829/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016; e, AgRg no AREsp 905.869/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016.
+Ante o exposto, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do agravo em recurso especial.
+Destarte, verifica-se no mesmo sentido da decisão monocrática da Presidência do STJ que, de fato, a parte agravante não atacou todos os fundamentos da decisão ora recorrida. Desse modo, acertado o retromencionado decisum que negou conhecimento ao Agravo em Recurso Especial.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Ao lume do exposto, nega-se provimento ao Agravo Interno.
+É o voto.
+Desta feita, não há obscuridade no aresto vergastado, uma vez que está clarividente que o Recurso Especial não foi admitido pela decisão agravada, com espeque no seguinte lastro: Súmula 7/STJ e razões recursais dissociadas do acórdão recorrido. Malgrado isso, a parte em seu Agravo deixou de impugnar especificamente: razões recursais dissociadas do acórdão recorrido, que sustentou a recusa no recebimento do recurso e por si só manteria a decisão de inadmissibilidade recursal.
+Como se depreende, o recorrente não infirma todos os fundamentos do acórdão vergastado, o que denota deficiência na fundamentação do recurso, incidindo, por analogia, o disposto nos enunciados 283 e 284 da Súmula do Supremo Tribunal Federal, que tratam de pressupostos genéricos de admissibilidade recursal, aplicáveis também ao presente caso.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão, contradição ou obscuridade no decisum embargado. As alegações do embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Destaque-se que o CPC impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse sentido, confira-se a doutrina de Nelson Nery Junior e [NOME]:
+Não enfrentamento, pela decisão, de todos os argumentos possíveis de infirmar a conclusão do julgador. Para que se possa ser considerada fundamentada a decisão, o juiz deverá examinar todos os argumentos trazidos pelas partes que sejam capazes, por si sós e em tese, de infirmar a conclusão que embasou a decisão. Havendo omissão do juiz, que deixou de analisar fundamento constante da alegação da parte, terá havido omissão suscetível de correção pela via dos embargos de declaração. Não é mais possível, de lege lata, rejeitarem-se, por exemplo, embargos de declaração, ao argumento de que o juiz não está obrigado a pronunciar-se sobre todos os pontos da causa. Pela regra estatuída no texto normativo ora comentado, o juiz deverá pronunciar-se sobre todos os pontos levantados pelas partes, que sejam capazes de alterar a conclusão adotada na decisão.
+(Código de Processo Civil Comentado, São Paulo, Revista dos Tribunais, 2016, p. 1.249-1.250, destaque no original).
+Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016)
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitera-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Ao lume do exposto, rejeitam-se os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É o voto.
