@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer, fundada na abusividade do valor da mensalidade do plano de saúde cobrado após o seu desligamento da empresa.
+2. O julgamento de ação proposta por beneficiário de plano de saúde para manutenção, após sua aposentadoria, em plano de saúde oferecido e custeado pelo ex-empregador, inclusive no modelo de autogestão, é de competência da Justiça Comum. Precedente. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravos e recursos especiais conhecidos. Recursos especiais conhecidos e providos.
+DECISÃO
+Cuidam-se de agravos em recursos especiais interpostos por [NOME] e por FUNDAÇÃO SAÚDE ITAÚ, contra decisão interlocutória que negou seguimento aos recursos especiais fundamentados nas alíneas "a" e "c" do permissivo constitucional.
+Agravos em recursos especiais interpostos em: 02/08/2018 ([NOME] DE [NOME]) e 10/08/2018 (FUNDAÇÃO SÁUDE ITAÚ).
+Concluso ao gabinete em: 03/12/2018.
+Ação: de obrigação de fazer, ajuizada por [NOME], em face de FUNDAÇÃO SAÚDE ITAÚ, fundada na abusividade do aumento da mensalidade do plano de saúde após a sua aposentadoria.
+Sentença: julgou parcialmente procedente a ação para condenar a FUNDAÇÃO SAÚDE ITAÚ a manter o plano de saúde de [NOME] DE [NOME] e de seus beneficiários, nos termos e condições vigentes por ocasião da extinção do vínculo trabalhista, mediante assunção da totalidade do prêmio, com emissão de boleto bancário. Declarou abusiva a alteração da forma de custeio e autorizou apenas os aumentos anuais da ANS, bem como condenou a FUNDAÇÃO SAÚDE ITAÚ a restituir os valores indevidamente pagos a mais.
+Condenou a FUNDAÇÃO SAÚDE ITAÚ ao pagamento das custas processuais e honorários advocatícios fixados em 15% sobre o valor da causa.
+Acórdão: cassou a sentença e declarou a competência da justiça do Trabalho para conhecer do feito, nos termos da seguinte ementa:
+PLANO DE SAÚDE Segurado aposentado enquanto beneficiário de contrato coletivo de assistência médica Pretensão de continuidade do vínculo nas mesmas condições antes vigentes Questão relativa às relações de trabalho Sentença de procedência parcial Natureza da obrigação e vínculo desta à relação empregatícia que resulta reconhecimento da competência da Justiça do Trabalho Inteligência do Artigo 114, X, da Constituição Federal Decisão anulada de ofício com remessa dos autos àquela Justiça especializada.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial de [NOME] DE [NOME] RIBEIRO: alega violação dos arts. 47, 51, IV, do CDC, art. 31 da Lei 9.656/98, bem como dissídio jurisprudencial.
+Sustenta que teria direito a ser mantido no plano de saúde nas mesmas condições da vigência do contrato de trabalho, por tempo indeterminado, mediante pagamento da cota parte da empregada e do empregador, bem como que, ainda que o plano seja de autogestão, a competência será da Justiça Comum.
+Recurso especial de FUNDAÇÃO SAÚDE ITAÚ: alega violação dos arts. 42, 44, 64, §1º e 4º, do CPC/15, bem como dissídio jurisprudencial.
+Afirma que as relações discutidas na hipótese sob julgamento decorrem de ajuste contratual particular para concessão de plano de saúde e não decorrentes do contrato de trabalho. Aduz que o plano de saúde também teria sido custeado pelo empregado e que seria evidente a natureza cível da questão.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+Verifica-se que os recursos interpostos possuem o propósito comum de combater a decisão que concluiu pela competência da Justiça do Trabalho na hipótese sob julgamento, a qual versaria sobre a manutenção de ex-empregado em plano de saúde operado pela ex-empregadora, por entender que não haveria contrato civil de plano de saúde, mas apenas obrigações oriundas do contrato de trabalho.
+Dessa maneira, os recursos especiais de [NOME] DE [NOME] RIBEIRO e de FUNDAÇÃO SAÚDE ITAÚ serão apreciados em conjunto, a fim de evitar a desnecessária repetição de argumentos.
+- Da competência da Justiça Comum para julgamento de ação proposta por beneficiário de plano de saúde para manutenção, após sua aposentadoria, em plano de saúde oferecido pelo ex-empregador (Súmula 568 do STJ)
+A Segunda Seção do STJ recentemente alterou sua jurisprudência para consolidar o entendimento de que o julgamento de ação proposta por beneficiário de plano de saúde para manutenção, após sua aposentadoria, em plano de saúde oferecido pelo ex-empregador, inclusive no modelo de autogestão, é de competência da Justiça Comum. Confira-se o seguinte precedente:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA ESPECIALIZADA DO TRABALHO. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO.
+1. Conflito negativo de competência suscitado pelo Juízo Trabalhista. Conclusão ao gabinete em 10/04/2018.
+2. O propósito do presente conflito consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+3. Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88.
+4. Plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, §2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+5. A operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa nº 137/06 da ANS.
+6. O fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+7. Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+8. Declarada a competência da Justiça comum Estadual para julgamento da demanda." (CC 157.664/SP, de minha Relatoria, SEGUNDA SEÇÃO, julgado em 23/05/2018, DJe 25/05/2018)
+Na hipótese, o Tribunal de origem decidiu que a competência seria da Justiça do Trabalho, em dissonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO dos agravos e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO dos recursos especiais interpostos por [NOME] e por FUNDAÇÃO SAÚDE ITAÚ e DOU-LHES PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Publique-se. Intimem-se.
