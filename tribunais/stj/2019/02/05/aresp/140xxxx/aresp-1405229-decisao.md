@@ -1,0 +1,76 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 4ª Região que inadmitiu recurso especial com amparo no óbice da Súmula 7/STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base nas alíneas "a" e "c" do permissivo constitucional contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86%. INCIDÊNCIA SOBRE A GRATIFICAÇÃO DE ESTÍMULO À FISCALIZAÇÃO (GEFA). POSSIBILIDADE.
+A partir da edição da Medida Provisória n. 831, de 18/01/1995, a GEFA passou a ser calculada nos termos do art. 8º da referida MP, observando, como limite máximo, valor igual a oito vezes o do maior vencimento básico da respectiva tabela.
+Assim, a base de cálculo da GEFA passou a ser o padrão A-III multiplicado por oito, e não o vencimento básico de cada servidor. Nesse contexto, o reajuste de 28,86% deve incidir sobre a gratificação no período posterior à edição da MP n. 831/1995 até 1999.
+Precedentes do STJ.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 217-225).
+Renovados os aclaratórios, estes foram parcialmente acolhidos. O julgado recebeu a seguinte ementa:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. HONORÁRIOS ADVOCATÍCIOS.
+Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão impugnada, com vistas à supressão de omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado.
+Com efeito, não se revelam meio hábil ao reexame da causa ou modificação do julgado no seu mérito, pois opostos quando já encerrado o ofício jurisdicional naquela instância.
+A jurisprudência vem entendendo que, existindo litigiosidade, é cabível a fixação dos honorários em liquidação de sentença por arbitramento. Embargos de declaração parcialmente providos para arbitrar os honorários advocatícios.
+Ajuizados embargos declaratórios, seguiu-se sua rejeição (e-STJ, fls. 296-305).
+O recorrente aponta violação do art. 1.022 do CPC/2015. Alega omissão quanto ao art. 20, § 3º, "a" e "c", do CPC/1973. Destaca a irrisoriedade do valor fixado, pois não observado que, na vigência da nova norma, não haverá fixação de honorários advocatícios na execução.
+Refere contrariedade ao art. 85, § 3º, II, do CPC/2015. Defende a não aplicação do CPC/1973, porque, no seu entendimento, " ..  demandas que tiveram sentença lavrada ainda sob a égide do CPC/1973, mas que foram perfectibilizadas sob o regime do atual CPC, ou seja, foram modificadas por arestos prolatados sob o NCPC, incidente, de forma imediata, o regramento processual" (e-STJ, fl. 328).
+Acrescenta que o STJ, no julgamento do REsp 1.243.928, majorou o valor da verba em caso semelhante. Ademais (e-STJ, fls. 332-333):
+ ..  mesmo que se entenda incidir o CPC/73 e não a regra do art.85 do atual CPC, o grau de zelo dos profissionais, o trabalho realizado, o tempo de duas décadas dispendidos, a natureza e importância da causa para os autores, o local da prestação dos serviços, que não se cingiu a Porto Alegre, avançando necessariamente à Brasília, para atendimento junto ao STJ não só deste processo, mas do Recurso Repetitivo que teve imediato reflexo neste processado, são circunstâncias insertas nas letras do § 3º do art.20 do CPC/73 que deságuam, concessa máxima vênia, em percentual necessariamente muito superior aos ínfimos R$10.000,00 equivalentes a irrisórios 0,22% arbitrados.
+Sem contrarrazões.
+É o relatório.
+O presente recurso não merece prosperar.
+Inexiste violação do art. 1.022 do CPC/2015 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+Tem-se, na origem, agravo de instrumento interposto contra decisão que, em liquidação de sentença, excluiu da conta o valor correspondente aos 28,86% aplicado sobre a Gefa. O Tribunal a quo deu provimento ao recurso e, no julgamento de embargos declaratórios, definiu que " ..  existindo litigiosidade, é cabível a fixação dos honorários em liquidação de sentença por arbitramento" (e-STJ, fl. 259).
+Por conseguinte, com base no art. 20 do CPC/1973 - após destacar que, sob sua vigência, foi proferida a decisão agravada -, fixou os honorários advocatícios em R$ 10.000,00 (dez mil reais).
+Esta Corte Superior entende que a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença. Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA. LEI NOVA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA.
+ ..
+3. No mérito, o Tribunal a quo consignou que "a melhor solução se projeta pela não aplicação imediata da nova sistemática de honorários advocatícios aos processos ajuizados em data anterior à vigência do novo CPC."
+4. Com efeito, a Corte Especial do Superior Tribunal de Justiça posicionou-se que o arbitramento dos honorários não configura questão meramente processual.
+5. Outrossim, a jurisprudência do STJ é pacífica no sentido de que a sucumbência é regida pela lei vigente na data da sentença.
+6. Esclarece-se que os honorários nascem contemporaneamente à sentença e não preexistem à propositura da demanda. Assim sendo, nos casos de sentença proferida a partir do dia 18.3.2016, aplicar-se-ão as normas do CPC/2015.
+7. In casu, a sentença prolatada em 21.3.2016, com supedâneo no CPC/1973 (fls. 40-41, e-STJ), não está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual merece prosperar a irresignação.
+8. Quanto à destinação dos honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais, o artigo 29 da Lei 13.327/2016 é claro ao estabelecer que pertencem originariamente aos ocupantes dos cargos das respectivas carreiras jurídicas.
+9. Recurso Especial parcialmente provido, para fixar os honorários advocatícios em 10% do valor da condenação, nos termos do artigo 85, § 3º, I, do CPC/2015.
+(REsp 1.636.124/AL, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/12/2016, DJe 27/4/2017)
+DIREITO PROCESSUAL CIVIL E INTERTEMPORAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. SENTENÇA CONDENATÓRIA PROFERIDA NA VIGÊNCIA DO CPC/1973 E PUBLICADA JÁ QUANDO EM VIGOR O CPC/2015. NOVO ESTATUTO. OBSERVÂNCIA.
+1. No que diz respeito às causas em que for parte a Fazenda Pública, o art. 85, § 3º, I a V, do CPC/2015 estabeleceu critérios objetivos para a fixação dos honorários de sucumbência com base no valor da condenação ou do proveito econômico obtido na demanda, prevendo cinco faixas progressivas e escalonadas como parâmetro para tal apuração.
+2. Apesar de a propositura da ação demarcar os limites da causalidade e os riscos de eventual sucumbência, o Superior Tribunal de Justiça elegeu a sentença - ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios - como marco para a incidência das regras do novo estatuto processual, notadamente em face da natureza jurídica híbrida do referido instituto (processual-material).
+3. A despeito de ser possível a incidência dos honorários previstos nos art. 85, § 11, do CPC/2015, em sede recursal (Enunciado Administrativo n. 7 do STJ), os honorários de sucumbência deverão obedecer à legislação vigente na data da sentença ou do acórdão que fixou a condenação, lembrando-se que a decisão produz todos os seus efeitos jurídicos somente após a sua publicação.
+4. Hipótese em que a sentença foi proferida sob a égide do CPC/1973, sendo o decisum, contudo, publicado já na vigência no novo Código Processual, considerando-se as peculiaridades da contagem dos prazos no processo eletrônico (art. 5º da Lei n. 11.419/2006, c/c o art. 224 do CPC/2015).
+5. Recurso especial provido para determinar que o Tribunal de origem reexamine o valor dos honorários de sucumbência, à luz do disposto no art. 85, § 3º e seguintes, do CPC/2015.
+(REsp 1.644.846/RS, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 31/8/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.657.177/PE, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 23/8/2017)
+Na hipótese, como se disse alhures, a fixação da verba advocatícia deu-se em razão de controvérsia ocorrida em liquidação de sentença. Não há sentença, portanto. Contudo, aplicada a mesma lógica exposta no precedentes acima citados, tem-se que a sucumbência configurou-se quando proferida a decisão pelo juiz singular.
+Assim, correta a solução estabelecida pela instância inferior, que, considerando a prolatação do decisum sob a égide do CPC/1973 (e-STJ, fl. 260), fez incidir a regra do art. 20, § 3º, daquela norma.
+No mais, o Superior Tribunal de Justiça entende que o arbitramento dos honorários advocatícios pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ. Nessa linha:
+PROCESSUAL CIVIL. VERBA HONORÁRIA FIXADA PELA EQUIDADE. JUÍZO DE VALOR FEITO NO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. A jurisprudência do STJ é uníssona no sentido de que, sendo vencida a Fazenda Pública, os honorários serão fixados consoante apreciação equitativa do juiz, que considerará o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, consoante o disposto no art. 20, § 4º, do CPC, o qual se reporta às alíneas do § 3º e não a seu caput.
+2. Os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostrarem irrisórios ou exorbitantes, o que não ocorre na hipótese em apreço. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7.
+Agravo regimental improvido.
+(AgRg no REsp 1.511.018/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/6/2015)
+Contudo, admite-se a adequação do valor quando a condenação se mostra irrisória ou exorbitante. A propósito:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS DE ADVOGADO.
+No âmbito do recurso especial, o valor arbitrado a título de honorários de advogado só pode ser revisado se for excessivo ou irrisório; espécie em que verba honorária foi fixada em quantia exorbitante.
+Recurso especial conhecido e provido em parte.
+(REsp 1.318.867/BA, Rel. Min. ARI PARGENDLER, PRIMEIRA TURMA, DJe 19/12/2013)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7/STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+3. O STJ firmou entendimento no sentido de ser incabível a reanálise do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios conducentes à fixação do quantum indenizatório.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 397.251/SP, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 3/2/2014)
+Na hipótese, o Tribunal local fez o seguinte registro (e-STJ, fl. 260):
+No tocante ao quantum a ser arbitrado a título de honorários advocatícios, estabelece o CPC/73 que a verba sucumbencial será fixada atendendo os limites dispostos no § 3º do art. 20, entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da condenação, considerando o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+A determinação da verba honorária não está adstrita aos limites, em percentual, estabelecidos no § 3º do art. 20, senão aos critérios de avaliação estabelecidos em suas alíneas, havendo possibilidade de se determinar valores aquém ou além do previsto, de acordo com o caso em análise e com a apreciação equitativa do magistrado. No caso vertente, considerando a natureza da lide, arbitro os honorários advocatícios em R$ 10.000,00 (dez mil reais).
+A cifra definida foi fundamentada nas circunstâncias da causa, de modo que não é concebível qualquer juízo quanto à correção, ou não, da condenação em honorários advocatícios sem nova análise dos fatos constantes dos autos.
+Essa providência, bem se sabe, é inadmissível em apelo extremo, nos termos da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
