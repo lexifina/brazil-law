@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RICARDO [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0048969-98.2018.8.16.0000).
+Consta dos autos ter sido o paciente, em 24/2/2018, preso em flagrante, custódia essa convertida em preventiva, pela suposta prática dos crimes previstos no art. 157, § 2º, I, II e V, c/c o art. 14, II, e nos arts. 180 e 288, todos do Código Penal.
+Narra a denúncia que o paciente e os corréus, além de se associarem, de forma estável, para cometer crimes, tentaram subtrair, mediante o emprego de várias armas de fogo e restringindo a liberdade das vítimas, diversos bens da empresa Deycon, bem como aparelhos celulares, coletes balísticos e armas de fogo. A peça acusatória ainda afirma que eles "receberam e conduziram, em proveito comum, coisas que sabiam ser produtos de crimes, consistentes no veículo VW/Gol, placa [PLACA], cor prata, sendo que a placa original seria [PLACA], com alerta de furto do dia 20.01.2018, e o caminhão Iveco/Daily, placas [PLACA], sendo que a placa original seria [PLACA], com alerta de roubo do dia 16.09.2017" (e-STJ fl. 48).
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura do paciente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 60):
+HABEAS CORPUS - RECEPTAÇÃO, ASSOCIAÇÃO PARA O CRIME E ROUBO - CRIME PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA - DESCABIMENTO - EXCESSO DE PRAZO NÃO VERIFICADO - ENCERRAMENTO DA INSTRUÇÃO CRIMINAL - SÚMULA 52, STJ - MANUTENÇÃO DA CUSTÓDIA QUE SE IMPÕE - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - . ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+Nas razões deste writ, sustenta o impetrante inexistir motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos contidos no art. 312 do Código de Processo Penal, asseverando que militam em favor do paciente condições pessoais favoráveis, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+Afirma haver excesso de prazo para a formação da culpa, pois, a despeito de o paciente estar preso há mais de 300 dias, a instrução criminal ainda não se encerrou, enfatizando que a demora relatada não foi ocasionada pela defesa.
+Defende, ainda, a suficiência da imposição de medidas cautelares alternativas.
+Busca, inclusive liminarmente, seja relaxada a custódia do paciente, ainda que mediante a fixação de medidas diversas do cárcere.
+O pedido liminar foi indeferido (e-STJ fls. 68/70).
+Informações prestadas às e-STJ fls. 74/78 e 79/172.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É, em síntese, o relatório.
+Inviável o prosseguimento do writ.
+Com relação ao pedido de revogação da custódia cautelar, vê-se que a presente impetração é mera reiteração do HC n. 446.387/PR, cuja ordem foi denegada nos termos da seguinte ementa:
+PROCESSO PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA ARMADA, ROUBO CIRCUNSTANCIADO E RECEPTAÇÃO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. MEDIDA CAUTELAR DIVERSA DA PRISÃO. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a manutenção da prisão preventiva está justificada, pois o decreto prisional fez menção ao modus operandi da conduta, a saber, "crimes graves, praticados com emprego de arma de fogo, em concurso de pessoas, com restrição à liberdade das vítimas, com a utilização de grande aparato bélico e extrema organização dos atos delituosos a serem praticados por cada um dos componentes do grupo criminoso". Assim, está demonstrada a necessidade da prisão provisória como forma de garantir a ordem pública.
+3. Segundo magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, rel. Ministra Cármen Lúcia, DJe 20/2/2009).
+4. Os fundamentos adotados para a decretação da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Ordem denegada.
+O alegado excesso de prazo, por sua vez, perdeu seu objeto, pois, conforme consignado pelo Parquet Federal, "observou-se que na data de 16/01/2019 foi proferida sentença condenatória em desfavor do ora paciente, como incurso nas penas do artigo 157, § 2º, incisos I, II e V, do Código Penal (com redação anterior à Lei n. 13.654/2018), por três vezes, e artigo 157, § 2º, incisos I, II e V (com redação anterior à Lei n. 13.654/2018), combinado com o artigo 14, inciso II, na forma do artigo 70, todos do Código Penal, bem como nas penas do artigo 288, parágrafo único, e do artigo 180, caput, na forma do artigo 69, todos do Código Penal" (e-STJ fl. 176).
+Assim, prolatada a sentença, fica prejudicada a alegação de excesso de prazo para o encerramento da instrução probatória.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
