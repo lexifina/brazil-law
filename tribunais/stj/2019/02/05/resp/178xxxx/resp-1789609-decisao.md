@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FGTS. PRESCRIÇÃO. ACÓRDÃO COM FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Pará, nesses termos ementado (fl. 199):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE COBRANÇA DE FGTS. SERVIDOR TEMPORÁRIO. RECONHECIMENTO DE OFÍCIO DE PRESCRIÇÃO BIENAL DO CONTRATO DE TRABALHO NA FORMA DO ART.7º, XXIX, DA CF/88. ANTE A OCORRÊNCIA DA PRESCRIÇÃO BIENAL RESTANDO PREJUDICADO O RECURSO VOLUNTÁRIO. NOS TERMOS DA FUNDAMENTAÇÃO EXPOSTA. DECISÃO UNÂNIME.
+1 - Quanto a prescrição, é preciso registrar que, em 13/11/2014, o STF, no julgamento do ARE nº 709.212, com repercussão geral, mudou o seu entendimento que dizia que a prescrição para cobrança das parcelas de FGTS era de 30 (trinta) anos para admitir que ela é de 5 (cinco) anos, nos termos ao Decreto nº 20.910/32, obedecido o prazo bienal para a propositura do ação após o término do contrato de trabalho, em obediência ao art. 7º, XXIX, da CRFB/88.
+2 - No presente caso, vigorando o contrato de trabalho do Autor de 02/02/1998 a 30/09/2007 e tendo sido ajuizada a demanda em 29/10/2009, ou seja, mais de 2 (dois) anos após a data de extinção do contrato, já restava prescrito o direito do autor em 01/10/2009.
+3 - Declaro a prescrição do pedido formulado pelo Autor/Apelante ante a ocorrência da prescrição bienal após o término do contrato de trabalho, restando prejudicado o recurso, nos termos da fundamentação exposta.
+Nas razões do especial, o recorrente sustenta, além da divergência jurisprudencial, violação do art. 1º do Dec.-Lei n. 20.910/1932, uma vez que não observou o prazo de cinco anos para a cobrança do FGTS.
+Apresentadas contrarrazões às fls. 239/244.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+A limitação do prazo prescricional de 30 anos para cinco anos, observado o prazo de 2 anos após o término do contrato de trabalho, foi declarada pelo Tribunal de origem a partir do entendimento do STF firmado no ARE n. 709.212 em repercussão geral. Veja-se (fl. 201):
+Quanto a esta questão, é preciso registrar que, em 13/11/2014, o STF, no julgamento do ARE nº 709.212, com repercussão geral, mudou o seu entendimento que dizia que a prescrição para cobrança das parcelas de FGTS era de 30 (trinta) anos para admitir que ela é de 5 (cinco) anos, nos termos do Decreto nº 20.910/32, obedecido o prazo bienal para a propositura da ação, em obediência ao art. 7º. XXIX. da CRFB/88.
+De fato, a reforma do acórdão a quo não é possível em recurso especial em face da fundamentação eminentemente constitucional nele presente. Ora, não cabe ao STJ, em recurso especial, o exame de questão constitucional. Confira-se:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. PROFESSOR. DISTRIBUIÇÃO DA CARGA HORÁRIA UTILIZANDO COMO PARÂMETRO A HORA ATIVIDADE. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL E EM LEGISLAÇÃO DO ESTADO. CPC/2015. RECURSO EXTRAORDINÁRIO INTERPOSTO NOS AUTOS. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE NESTA CORTE. EMBARGOS DE DECLARAÇÃO. OMISSÃO.
+I - Embargos de declaração opostos contra acórdão que negou provimento ao agravo interno, confirmando a rejeição do recurso especial como representativo de controvérsia.
+II - O sobrestamento do recurso especial de que trata o art. 1.031, § 2º, do CPC/2015, cumpre registrar que a providência ali prevista constitui mera faculdade do relator, quando considerar prejudicial o recurso extraordinário em relação ao especial.
+III - Todavia, no caso dos autos, inexiste prejudicialidade do recurso extraordinário em relação ao especial, e sim a impossibilidade de conhecimento do recurso especial. Isso porque, apesar de estar em discussão a aplicação da Lei Federal n. 11.738/2008, o Tribunal de origem decidiu a controvérsia sob fundamento exclusivamente constitucional, declarando a inconstitucionalidade do art. 2º, § 4º, da Lei n. 11.738/08, o que afasta a competência do Superior Tribunal de Justiça, sob pena de usurpação da competência do Supremo Tribunal Federal. Assim, não é o caso de sobrestamento do recurso especial.
+IV - Embargos de declaração parcialmente acolhidos, sem efeitos modificativos, nos termos da fundamentação.
+(EDcl no AgInt no REsp 1632654/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/12/2018, DJe 12/12/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
