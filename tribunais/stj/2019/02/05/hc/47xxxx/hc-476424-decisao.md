@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar impetrado em favor de [NOME] e [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que os pacientes, "previamente ajustados e em unidade de desígnios, subtraíram para si, mediante grave ameaça exercida com simulação de porte de arma de fogo, a quantia de R$13,00 (treze reais) da vítima [NOME]" (e-STJ fl. 12).
+[NOME] foi condenado à pena de 3 (três) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime fechado, e ao pagamento de 8 (oito) dias-multa; Paulo, à reprimenda de 2 (dois) anos e 8 (oito) meses de reclusão, inicialmente no regime fechado, mais 6 (seis) dias-multa, todos pelo delito tipificado no art. 157, § 2º, II, c/c o art. 14, II, ambos do Código Penal (e-STJ fls. 14/20).
+Interposta apelação, os desembargadores da 13ª Câmara de Direito Criminal negaram provimento ao recurso de [NOME] e deram parcial provimento ao de Paulo para fixar-lhe o regime prisional semiaberto, mantidos os demais termos da sentença (e-STJ fls. 21/23).
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente da imposição dos regimes prisionais mais gravosos para os acusados.
+Sustenta ausência de fundamentos concretos para a imposição dos regimes mais severos, tendo em vista que foi considerada, somente, a gravidade abstrata do crime, o que vai de encontro ao disposto nas Súmulas n. 718 e 719 do STF e 440 do STJ.
+Afirma que Paulo é primário, sendo-lhe favoráveis todas as circunstâncias judiciais, tanto que a pena-base foi estabelecida no patamar mínimo legal, o que enseja a concessão do regime aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+Assevera que, apesar da condição de reincidente de [NOME], no caso, deve ser aplicado o enunciado 269 da Súmula do STJ, já que a reprimenda básica foi fixada no patamar mínimo legal por não se encontrarem presentes circunstâncias judiciais desfavoráveis, sendo possível o abrandamento do regime prisional para o intermediário.
+Dessa forma, requer, liminarmente, seja fixado o regime inicial de cumprimento da pena aberto para Paulo e o semiaberto para [NOME] até o julgamento final deste writ. No mérito, postula a confirmação da liminar (e-STJ fls. 3/10).
+O pedido liminar foi indeferido (e-STJ fls. 27/29).
+Prestadas as informações (e-STJ fls. 33/58), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela concessão parcial da ordem, a fim de que fosse promovido o abrandamento do regime prisional inicial imposto ao paciente Paulo, do semiaberto para o aberto, sem que igual tratamento fosse assegurado ao corréu (e-STJ fls. 62/64).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, o abrandamento dos regimes iniciais de cumprimento das penas impostas aos acusados sob o argumento de que, em relação a Paulo, cabe o regime inicialmente aberto, pois todas as circunstâncias judiciais do art. 59 do Código Penal lhes são favoráveis. Já em relação a [NOME], assinala que deve ser estabelecido o regime intermediário, conforme o disposto na Súmula n. 269 do STJ.
+Na hipótese, o Tribunal de Justiça assim se manifestou (e-STJ fl. 23):
+O regime prisional, no entanto, para Paulo, comporta modificação. O fato de não ter sido usada arma na ação delituosa e as demais circunstâncias pessoais permitem possa iniciar o resgate da pena privativa de liberdade em regime semiaberto, suficiente à prevenção e reprovação da conduta.
+Quanto a [NOME], em razão, também, da agravante citada, correto o regime prisional fechado, para início de desconto da pena corporal.
+Nessa conformidade, nega-se provimento ao apelo de [NOME] e dá-se parcial provimento ao de [NOME], para fixar-lhe o regime prisional semiaberto, mantidos, no mais, os termos da r. sentença.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis.
+Ademais, na esteira da jurisprudência desta Corte Superior, admite-se a imposição de regime prisional mais gravoso do que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+No caso em apreço, o réu Paulo foi condenado à pena definitiva de 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicialmente intermediário, sendo a reprimenda básica fixada no patamar mínimo legal.
+Dessa forma, por lhe serem favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, impõe-se a fixação do regime inicialmente aberto para cumprimento da sanção.
+Já em relação ao acusado [NOME], verifica-se que a reprimenda definitiva foi fixada em 3 (três) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, sendo a pena-base estabelecida no montante mínimo e mantido o regime inicialmente fechado.
+Embora o quantum da reprimenda comporte o regime aberto, a reincidência impõe o regime semiaberto, nos termos do art. 33, § 2º, b, do Código Penal e do enunciado n. 269 da Súmula desta Corte.
+Ressalta-se que a condição de multirreincidente não impede o abrandamento do regime prisional.
+Nesse sentido:
+AGRAVO REGIMENTAL. REGIME INICIAL DE CUMPRIMENTO DA PENA. SÚMULA N. 269 DO STJ. RÉU MULTIRREINCIDENTE. REPRIMENDA NO PATAMAR MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. IMPOSIÇÃO DO REGIME INTERMEDIÁRIO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante o entendimento consolidado do Superior Tribunal de Justiça, o enunciado da Súmula n. 269 é aplicável ao réu condenado a pena igual ou inferior a quatro de reclusão, caso as circunstâncias judiciais tenham sido favoravelmente avaliadas, ainda que o sentenciado seja multirreincidente específico.
+2. Agravo regimental não provido (AgRg no HC 324.602/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017).
+
+HABEAS CORPUS  ..  PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU REINCIDENTE. PENA DEFINITIVA INFERIOR A 4 ANOS. FIXAÇÃO DO REGIME INICIAL FECHADO. APLICAÇÃO DO ENUNCIADO N. 269 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO, PARA FIXAR O REGIME INICIAL SEMIABERTO.
+ ..
+2. Em que pese ser o paciente multirreincidente, verifica-se que o total das penas fixadas foi de 2 anos, 8 meses e 20 dias de reclusão, ou seja, é inferior a 4 anos, e considerando-se as circunstâncias judiciais favoráveis, é possível a fixação do regime inicial semiaberto, a teor do disposto no Enunciado n. 269 da Súmula do STJ, segundo o qual é admissível a fixação do regime prisional semiaberto ao réu reincidente condenado à pena igual ou inferior a quatro anos, quando favoráveis as circunstâncias judiciais.
+Writ não conhecido. Concessão da ordem, de ofício, para fixar o regime inicial semiaberto (HC 216.803/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/05/2016, DJe 16/05/2016).
+Ante o exposto, concedo a ordem de habeas corpus a fim de estabelecer o regime inicialmente aberto de cumprimento da pena para o paciente [NOME] e o regime intermediário para [NOME].
+Publique-se. Intimem-se.
