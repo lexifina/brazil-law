@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de petição de tutela de urgência requerida por [NOME] para a concessão de efeito suspensivo ativo a recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (TJSP) no Agravo em Execução Penal n. 0004524-75.2017.8.26.0509 assim ementado (fl. 43):
+AGRAVO EM EXECUÇÃO PENAL - Progressão de regime - A decisão concessiva possui natureza meramente declaratória (posicionamento das Cortes superiores - STJ e STF) - Pelo entendimento da maioria desta C. Turma Julgadora, a decisão têm natureza constitutiva - Recurso desprovido, portanto.
+Em 9/1/2019, o Presidente da Seção de Direito Criminal do Tribunal de origem admitiu parcialmente o recurso especial (fls. 261-263).
+Argumenta o requerente que o TJSP não seguiu as orientações dos tribunais superiores de que "a decisão que defere a progressão de regime de cumprimento de pena tem natureza declaratória" (fl. 9), estando, portanto, "evidente a possibilidade de êxito do recurso especial, que visa unicamente o reconhecimento da natureza declaratória da decisão que defere a progressão de regime e o lapso inicial para a contagem à posterior progressão" (fl. 22).
+Sustenta que "vem sendo mantido em regime prisional mais gravoso do que o de direito, unicamente em razão do entendimento equivocado de direito realizado pelo e. TJSP" (fl. 35).
+Requer "a concessão de efeito suspensivo ativo ao recurso especial  ..  a fim de que seja determinada a alteração do termo inicial para o regime aberto, como sendo aquela em que  ..  atingiu o lapso temporal para a progressão ao regime semiaberto, até o julgamento do recurso" (fl. 38).
+É o relatório. Decido.
+No HC n. 479.367/SP, distribuído ao Ministro Felix Fischer em 12/11/2018, foi formulada idêntica pretensão, na qual se sustenta que a decisão que defere a progressão de regime tem natureza meramente declaratória.
+Ao analisar o pedido de medida liminar para que fosse considerada como termo inicial para a contagem do lapso temporal a data do implemento do requisito objetivo, assim decidiu o Ministro Felix Fischer:
+No caso, a análise do pleito excede os limites cognitivos do pedido liminar, pois demanda incursão no mérito da impetração e possuiu natureza satisfativa, devendo ser realizada em momento oportuno pelo Colegiado competente para o julgamento do writ, após a verificação mais detalhada dos dados constantes do processo.
+O exame perfunctório, portanto, não permite a constatação de indícios suficientes para a configuração do fumus boni iuris, não se configurando, de plano, flagrante ilegalidade a ensejar a concessão da medida de urgência.
+Ante o exposto, indefiro o pedido liminar.
+Portanto, a presente petição é mera reiteração de pedido formulado em writ anterior que se encontra em curso no STJ, pois, além da identidade de partes, de pedido e de causa de pedir, ambos os instrumentos impugnam o mesmo acórdão e a mesma matéria.
+Assim, além de o processamento concomitante dos aludidos pedidos no STJ configurar litispendência, deve-se considerar o princípio da economia processual e o propósito de evitar a ocorrência de decisões contraditórias (AgRg no HC n. 286.354/AC, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 23/5/2014; RCD no HC n. 423.298/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/12/2017; AgRg no HC n. 404.890/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 27/11/2017).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se. Intimem-se.
