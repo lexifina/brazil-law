@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 7 (sete) ano, 5 (cinco) meses e 25 (vinte e cinco) dias de reclusão, pelo cometimento do crime do art. 157, § 2º, I e II, na forma do art. 70, caput, ambos do Código Penal.
+A defesa aponta a violação dos arts. 33, § 2º, "b" e 68, parágrafo único, ambos do Código Penal, alegando, em síntese: a) ausência de fundamentação para o aumento de 3/8 (três oitavos) na terceira fase da dosimetria, operado unicamente em razão do número de majorantes; e b) impossibilidade de fixação do regime mais gravoso com base na gravidade abstrata do delito.
+As contrarrazões foram apresentadas às e-STJ fls. 268/248.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 263/269.
+É o relatório. Decido.
+O recurso merece prosperar, em parte.
+Os elementos existentes nos autos dão conta de que o Tribunal de Justiça de São Paulo deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 7 (sete) anos, 5 (cinco) meses e 25 (vinte e cinco) dias de reclusão, pelo cometimento do crime do art. 157, § 2º, I e II, na forma do art. 70, caput, ambos do Código Penal.
+A defesa se insurge contra o aumento de 3/8 (três oitavos) na terceira fase da dosimetria, operado unicamente em razão do número de majorantes.
+Com razão, isso porque se observa do acórdão recorrido (e-STJ fl. 201) que o aumento de 3/8 se deu com base unicamente no número de majorantes, o que contraria a orientação sumulada por esta Corte, segundo a qual "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (enunciado n. 443 da Súmula/STJ).
+A propósito, colacionam-se os seguintes precedentes a mero título de amostragem:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. AUMENTO DA FRAÇÃO NA TERCEIRA FASE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE CORRUPÇÃO DE MENORES. FUNDAMENTO INIDÔNEO PARA A EXASPERAÇÃO. BIS IN IDEM. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, o aumento na terceira fase da dosimetria da pena pela incidência das majorantes do crime de roubo, em fração acima da mínima legal, exige fundamento concreto e idôneo.
+2. O fato de o crime de roubo ter sido praticado em comparsaria com um adolescente, quando o réu já foi condenado pelo delito de corrupção de menores, não pode ser utilizado como fundamento na terceira fase da dosimetria da pena do roubo, sob pena de ofensa ao princípio do ne bis in idem.
+2. Agravo regimental improvido. (AgRg no AREsp 1284925/RS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe de 4/12/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. INADEQUAÇÃO DA VIA ELEITA. DOSIMETRIA. MAUS ANTECEDENTES. FOLHA DE ANTECEDENTES CRIMINAIS. COMPROVAÇÃO IDÔNEA. CONDENAÇÕES CRIMINAIS COM MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. TERCEIRA FASE DA DOSIMETRIA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/3. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. APLICAÇÃO DO ENUNCIADO N. 443 DA SÚMULA DO STJ. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Nos termos do disposto no enunciado n. 443 da Súmula desta Corte, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+- Na hipótese, o aumento da pena na fração de 3/8 ocorreu em razão da quantidade de majorantes, sem a indicação de fundamentação concreta que evidenciasse a necessidade de aplicação de fração superior a mínima.
+ ..
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente (HC 323.144/SP, desta Relatoria, DJe 19/4/2016).
+Desse modo, forçoso concluir pela necessidade da reforma do acórdão, reduzindo-se a exasperação da pena para o patamar mínimo de 1/3 (um terço).
+No caso em apreço, já realizada a operação dosimétrica, procedo à alteração apenas do aumento operado na terceira fase, isto é, em vez do acréscimo de 3/8, considerar o acréscimo de 1/3, em observância à jurisprudência desta Corte, resultando a pena em 7 (sete) anos, 3 (três) meses e 3 (três) dias de reclusão.
+Por fim, nenhuma ilegalidade se verifica quanto ao regime prisional. Isso porque, embora a reprimenda definitiva tenha permanecido em patamar superior a 4 e inferior a 8 anos de reclusão, a manutenção do regime inicial mais gravoso, impõe-se pelo fato de se tratar de agente reincidente, à luz do art. 33, § 2º, do Código Penal. A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGIME PRISIONAL. PENA SUPERIOR A QUATRO E INFERIOR A OITO ANOS. RÉU REINCIDENTE. MODO FECHADO. RECURSO NÃO PROVIDO.
+1. Estabelecida a sanção corporal em 5 anos e 10 meses de reclusão e verificada a reincidência do agente, o regime inicial fechado é o cabível para o cumprimento da pena privativa de liberdade, nos termos do art. 33, § 2º, alínea "a", do Código Penal. Precedente.
+2. Agravo regimental não provido. (AgRg no REsp 1705153/RO, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 7/3/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. REGIME INICIAL FECHADO. FUNDAMENTO CONCRETO. REINCIDÊNCIA. MOTIVAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar a situação descrita nos arts. 932, VIII, do Código de Processo Civil, c/c o 253, parágrafo único, II, "b", parte final, do RISTJ, situação ocorrida nos autos. No caso, correta a decisão do Tribunal a quo que inadmitiu o recurso especial, visto o acórdão recorrido ter sido proferido em consonância com o entendimento desta Corte Superior.
+2. Não há ilegalidade na fixação do regime inicial fechado quando apontado dado fático suficiente a indicar a maior reprovabilidade da conduta - na espécie, a reincidência do agravante -, ainda que o quantum da pena tenha sido inferior a oito anos (art. 33, § 3º, do CP).
+3. Agravo regimental não provido. (AgRg no AREsp 831.035/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 3/8/2016)
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, dou parcial provimento ao recurso especial para fixar a pena do recorrente em 7 (sete) anos, 3 (três) meses e 3 (três) dias de reclusão.
+Publique-se. Intimem-se.
