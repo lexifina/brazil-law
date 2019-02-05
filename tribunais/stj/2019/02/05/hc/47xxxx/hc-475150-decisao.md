@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no julgamento do Agravo de Execução Penal n. 7000205-56.2018.8.26.0590.
+Os autos dão conta de que o Juízo da Vara das Execuções Criminais da Comarca de São Vicente deferiu o pedido formulado pelo ora paciente, progredindo-o ao regime semiaberto (e-STJ fls. 27/31).
+Irresignado, o Ministério Público interpôs recurso de agravo em execução perante o Tribunal de origem, que lhe deu provimento para cassar a decisão de primeiro grau, determinando a complementação do exame criminológico, com a participação também do médico psiquiatra, após o que deveria o pedido de progressão ser reapreciado (e-STJ fls. 32/36).
+No presente writ, a Defensoria Pública do Estado de São Paulo afirma que o paciente cumpre pena de 20 anos e 4 dias de reclusão pela prática de crimes hediondo e comum. Acrescenta que, preso desde 2/10/2012, cumprirá integralmente sua reprimenda em 7/10/2032 (e-STJ fl. 2).
+Alega que a Lei de Execução Penal foi alterada em 2003 para não mais exigir a realização do exame criminológico para que o sentenciado progrida de regime, e que, uma vez satisfeito o requisito temporal e comprovado que o reeducando ostenta bom comportamento carcerário, impõe-se a progressão ao regime mais brando (e-STJ fl. 3).
+Ressalta que "o sentenciado permaneceu em regime semiaberto entre março e agosto de 2018, tendo observado pontualmente as normas do regime intermediário, em especial, usufruído de saída temporária e retornado pontualmente ao estabelecimento prisional, fato que, por si só, demonstra possuir maturidade para permanecer em regime intermediário" (e-STJ fl. 5).
+Por isso requer, liminarmente, que o paciente aguarde o julgamento do mérito da presente impetração no regime semiaberto. No mérito, pugna pela concessão da ordem de forma definitiva para que o sentenciado permaneça em regime semiaberto.
+O pleito urgente foi indeferido (e-STJ fls. 42/44).
+As informações foram prestadas (e-STJ fls. 49/56 e 59).
+O Ministério Público Federal opinou pelo não cabimento do habeas corpus (e-STJ fl. 61).
+É, em síntese, o relatório.
+A questão posta a deslinde refere-se à necessidade de complementação do exame criminológico para o deferimento do pedido de progressão ao regime semiaberto.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso, o Tribunal de origem, ao dar provimento ao agravo da acusação, cassou a decisão do Juízo de piso, determinando a complementação do exame criminológico já realizado, apontando a necessidade de parecer psiquiátrico. Eis os fundamentos adotados para tanto (e-STJ fls. 34/36):
+ ..  conforme se depreende de fls. 35/44, o agravado foi analisado apenas por profissionais da área de psicologia e assistência social.
+De rigor, portanto, acolher-se o recurso ministerial, pois, de fato, o exame criminológico encontra-se incompleto, uma vez que não foi elaborado pela Comissão Técnica de Classificação.
+Tal vício é capaz de gerar a anulação da sentença, para que o exame criminológico seja complementado, pois, nos moldes em que foi elaborado, encontra-se em evidente desrespeito às normas legais.
+O art. T da Lei de Execução Penal dispõe expressamente que "A Comissão Técnica de Classificação, existente em cada estabelecimento, será presidida pelo diretor e composta, no mínimo, por dois chefes de serviço, um psiquiatra, um psicólogo e um assistente social, quando se tratar de condenado à pena privativa da liberdade".
+Assim, da interpretação deste dispositivo, aliado ao art. 8" do mesmo Diploma Legal, é possível concluir-se que o exame criminológico deve ser realizado por esta Comissão Técnica de Classificação, respeitando-se, consequentemente, sua composição.
+ ..
+Desta forma, DOU PROVIMENTO ao agravo em execução penal interposto pelo Ministério Público, para cassar a decisão que deferiu o regime semiaberto ao agravado [NOME], determinando seja o exame criminológico complementado, com a participação também do médico psiquiatra, após o quê deverá o pedido de progressão ser reapreciado.
+Como se vê, o Tribunal de origem, ao determinar a complementação do exame criminológico, não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que pudessem afastar a decisão do Magistrado de primeiro grau, desconsiderando, ainda, o exame criminológico já realizado por psicóloga e assistente social, com parecer favorável à concessão da benesse (e-STJ fl. 34).
+A propósito:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO DE REGIME. COMPLEMENTAÇÃO DO EXAME CRIMINOLÓGICO. PARECER PSIQUIÁTRICO. GRAVIDADE DOS CRIMES. LONGA PENA A CUMPRIR. FALTAS GRAVES VETUSTAS. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+V - Embora o cometimento de falta grave no curso da execução constitua fundamento idôneo para indeferir o pedido de progressão de regime, eventuais faltas graves antigas não podem ser utilizadas para negar a benesse, sob pena de perpetuação dos seus efeitos ao longo de toda a execução penal, em afronta aos princípios da razoabilidade e da ressocialização da pena.
+VI - Nesse passo, a decisão que retarda a progressão de regime, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico, configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável à concessão do benefício.
+Habeas corpus não conhecido. Ordem concedida de ofício para para cassar a decisão do eg. Tribunal de origem e manter o benefício da progressão de regime concedido ao paciente pelo d. Juízo da Execução. (HC 414.772/SP, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/11/2017, DJe 21/11/2017, grifei.)
+Dessa forma, não havendo fundamento que demonstre, efetivamente, o demérito do condenado e que justifique a negativa de promoção ao regime intermediário, deve ser reconhecida a ilegalidade do acórdão.
+Ante o exposto, concedo a ordem para cassar o acórdão impugnado e restabelecer a decisão do Juízo de primeiro grau que deferiu ao ora paciente a progressão ao regime semiaberto.
+Publique-se. Intimem-se.
