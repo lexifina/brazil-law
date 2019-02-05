@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Ministério Público do Estado de Mato Grosso do Sul contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CRIMINAL – ROUBO MAJORADO – ART. 157, § 2º, I DO CP – INCONSTITUCIONALIDADE FORMAL DO ARTIGO 4º, DA LEI 13.654/18 – REJEIÇÃO – MÉRITO – AFASTAMENTO DEO EMPREGO DE ARMA – POSSIBILIDADE – LEI MAIS BENÉFICA – DESCLASSIFICAÇÃO PARA ROUBO SIMPLES – PENA-BASE – REDUÇÃO PROPORCIONAL – CIRCUNSTÂNCIAS DO CRIME NEGATIVAS – PARCIAL PROVIMENTO.
+    Por ser matéria de ordem pública, a inconstitucionalidade, pode ser reconhecida a qualquer tempo e grau de jurisdição. Examinada a questão, afasta-se a inconstitucionalidade formal do artigo 4º, da Lei 13.654/18 , devendo o fato do roubo ter sido cometido com emprego de arma branca ser considerado como vetor negativo da pena-base, em nova dosimetria da pena a ser confeccionada pelo juízo da execução penal. Afasta-se também a inconstitucionalidade material, tendo em vista que não houve supressão do crime de roubo pela nova lei, continuando protegidos os bens jurídicos tutelados.
+    Tratando-se de ‘novatio legis in mellius’, aplica-se a Lei 13.654/2018, para afastar a causa de aumento prevista no inciso I do § 2º do art. 157 do CP, desclassificando-se a conduta para o crime de roubo simples.
+    Desloca-se o emprego de arma para primeira fase da dosimetria da pena, exasperando-se a pena-base. Afasta-se à análise negativa da conduta social e consequências do crime quando essas não possuem fundamentação idônea.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 65 da Constituição da República.
+    Cabe registrar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de Mato Grosso do Sul, no julgamento do recurso, sustentou as suas conclusões em aspectos fático-probatórios:
+    “No que pertine a inconstitucionalidade formal da nova lei, tenho que não há o vício alegado.
+    Toda legislação – no caso, lei ordinária – nasce com presunção de constitucionalidade e para apontarmos a existência de vício formal em seu processo há necessidade de extensa análise probatória.
+    O que temos em relação Projeto de Lei nº 149/2015 é o seguinte: havia uma previsão inicial – artigo 3º – de de revogação do inciso I do § 2º do art. 157 do Código Penal, atinente à majorante de emprego de arma.
+    No curso da tramitação do referido Projeto, houve a emenda ‘aditiva’ apresentada pela Senadora Simone Tebet tratando apenas de modificações ao artigo 1º PL 149/2015.
+    Portanto, referida emenda não alterou a disposição inicial contida no PL 149/2015, mais precisamente no artigo 3º.
+    Após ser submetido à Comissão de Constituição, Justiça e Cidadania, o projeto foi aprovado da forma em que foi proposto, inexistindo o aludido vício formal.”
+    Cumpre assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.157.600/MT, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.178.106/MS, Rel. Min. GILMAR MENDES).
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 05 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
