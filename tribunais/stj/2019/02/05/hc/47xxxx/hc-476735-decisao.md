@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VAGNER JÚNIOR DAMACENO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 2 (dois) meses de reclusão, em regime inicialmente fechado, e ao pagamento de 520 (quinhentos e vinte) dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo em vista que foi surpreendido na posse de 465g (quatrocentos e sessenta e cinco gramas) de maconha divididos em cinco porções (e-STJ fls. 16/19).
+Interposta apelação, os desembargadores da 14ª Câmara de Direito Criminal negaram provimento ao recurso defensivo (e-STJ fls. 20/27).
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente do não reconhecimento do tráfico privilegiado e da imposição do regime fechado para início de cumprimento da sanção.
+Sustenta que a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 não foi concedida com fulcro, somente, na presença dos maus antecedentes do acusado.
+Defende que, em razão do período depurador, a má antecedência deve ser afastada, nos termos do art. 64, I, do Código Penal.
+Ressalta a ocorrência do indevido bis in idem, uma vez que os maus antecedentes foram utilizados tanto para exasperar a pena-base quanto para afastar a aplicação do pretendido redutor.
+Afirma que, por ser primário e portador de bons antecedentes, deve ser aplicada referida causa especial de diminuição da pena.
+Alega, ainda, ausência de fundamentos idôneos para a imposição do regime prisional mais severo, já que foi considerada, somente, a gravidade abstrata do delito de tráfico, e que a nocividade da droga apreendida não serve para justificar a fixação do regime inicialmente fechado.
+Argumenta que, nos termos do art. 33, § 2º, c, do Código Penal, é cabível a sua alteração para o intermediário, e invoca as Súmulas n. 718 e 719 do STF.
+Dessa forma, pugnou pela concessão da ordem para (e-STJ fl. 12):
+fixar a pena-base no mínimo legal;
+ alterar o regime inicial de cumprimento de pena para o aberto, ou,
+subsidiariamente fixar, ao menos, o regime semiaberto para início do cumprimento de pena.
+O pedido liminar foi indeferido (e-STJ fls. 32/34).
+Prestadas as informações (e-STJ fls. 40/55), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (e-STJ fls. 57/65).
+É, em síntese, o relatório.
+Objetiva a defesa, primeiramente, a fixação da pena-base no patamar mínimo legal pelo afastamento dos maus antecedentes em razão da observância do período depurador, nos termos do art. 64, I, do Código Penal.
+Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na espécie, o Juízo de primeiro grau fixou a pena-base nos seguintes termos (e-STJ fl. 18):
+Tendo em vista a normal intensidade da conduta do réu, que não desdobrou o dolo mínimo necessário para a configuração do delito, seus maus antecedentes não geradores de reincidência (fls. 66/67), a natureza da droga apreendida e demais circunstâncias e consequências do crime, fixo a pena-base acima do mínimo legal, qual seja, 05 (cinco) anos e 02 (dois) meses de reclusão e 520 (quinhentos e vinte) dias-multa, cada dia-multa no seu mínimo legal.
+O Tribunal de Justiça manteve a sentença nos termos abaixo transcritos (e-STJ fl. 25):
+A reprimenda mostrou-se adequada e motivadamente dosada: pena-base fixada em 5 anos e 2 meses de reclusão e 520 dias-multa pelos maus antecedentes, pela natureza do entorpecente e pelas circunstâncias e consequências do crime. À míngua de causas modificadoras, a pena foi, assim, tornada definitiva.
+A natureza do entorpecente (maconha) e as circunstâncias e consequências do crime, no presente caso, além de normais para o tipo penal, serviram para formação da convicção para o tráfico de drogas, motivo pelos quais não podem recrudescer a reprimenda. Contudo, os maus antecedentes foram corretamente reconhecidos com arrimo em condenação anterior transitada em julgado (fls. 67 e 90), o que justifica a exasperação da pena-base.
+O legislador não estabeleceu percentuais fixos para nortear o cálculo da pena-base, deixando a critério do julgador encontrar parâmetros suficientes a desestimular o acusado e a própria sociedade a praticarem condutas reprováveis semelhantes, bem como a garantir a aplicação da reprimenda necessária e proporcional ao fato praticado.
+Além disso, a legislação ordinária não exige que as circunstâncias judiciais sejam todas consideradas desfavoráveis para a fixação da pena em patamar superior ao mínimo previsto no preceito secundário da norma penal.
+Sob esse prisma, não vislumbro o suscitado constrangimento ilegal, uma vez que não prospera a alegação da defesa de que, transcorrido o período depurador, não deve ser considerada a condenação para fins de caracterizar os maus antecedentes, já que referido período de cinco anos afasta a reincidência, mas não retira a valoração negativa dos antecedentes.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  DOSIMETRIA. CONDENAÇÃO ANTERIOR. PERÍODO DEPURADOR. TRANSCURSO. MAUS ANTECEDENTES. CONFIGURAÇÃO. POSSIBILIDADE.
+1.As condenações anteriores ao prazo depurador de 5 anos podem constituir motivação idônea para a exasperação da pena-base a título de maus antecedentes, apesar do fato de que não podem ser consideradas como reincidência. Precedentes.
+2. Agravo regimental improvido (AgRg no HC 389.185/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017, grifei).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. MAUS ANTECEDENTES. CONDENAÇÃO ALCANÇADA PELO TEMPO DEPURADOR. FUNDAMENTOS VÁLIDOS. SEGUNDA FASE DA DOSIMETRIA. ERRO NO CÁLCULO PENAL. READEQUADÇÃO DA PENA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. TEMA NÃO APRECIADO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+ ..
+4. A jurisprudência desta Corte é reiterada no sentido de que, para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade. Precedentes.
+5. Verificado que o Juízo sentenciante incorreu em erro no cálculo penal, pois fixou a pena intermediária em patamar superior ao resultado da soma da sanção inicial (6 anos) com o acréscimo pela agravante da reincidência (1 ano e 2 meses), cabe o deferimento da ordem, de ofício, para se aplicar ao paciente o apenamento correto.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer erro no cálculo penal e estabelecer a sanção final em 7 anos e 2 meses de reclusão mais pagamento de 600 dias-multa, mantido o regime fechado (HC 406.954/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017, grifei).
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria está devidamente justificado, nos termos do art. 59 do Código Penal, inexistindo, portanto, flagrante ilegalidade ou teratologia a ser sanada nesta via excepcional.
+De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+No caso em apreço, o Tribunal local manifestou-se no sentido de que (e-STJ fl. 25):
+Inaplicável o redutor de pena do artigo 33, § 4º, da Lei nº 11.343/06, por conta da má antecedência do acusado, pois a benesse, por determinação legal, é de aplicação exclusiva a réus primários de bons antecedentes.
+Não se verifica, portanto, ilegalidade no acórdão recorrido, uma vez que o Tribunal a quo, respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006, com observância aos pormenores da situação concreta, diante da presença dos maus antecedentes, excluiu a possibilidade de aplicação do pretendido redutor.
+No mesmo sentido:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ANTECEDENTES. DECURSO DE MAIS DE CINCO ANOS ENTRE O TRÂNSITO EM JULGADO DA CONDENAÇÃO ANTERIOR E O NOVO CRIME. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. ACÓRDÃO RECORRIDO ALINHADO À JURISPRUDÊNCIA DO STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/06. INAPLICABILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADE CRIMINOSA.  ..  HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - A jurisprudência deste Tribunal é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base acima do mínimo legal.
+IV - Na espécie, não há que reconhecer desproporção na pena-base aplicada, uma vez que há motivação particularizada, em obediência aos princípios da individualização da pena e da proporcionalidade, ausente, portanto, notória ilegalidade a justificar a concessão da ordem de ofício. Precedentes.
+V - Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+VI - In casu, a redutora de pena disposta no art. 33, § 4º, da Lei n. 11.343/2006 foi afastada, em razão dos maus antecedentes criminais do paciente, fundamentação consonante ao entendimento firmado no âmbito deste Tribunal. Precedentes.
+ ..
+Habeas corpus não conhecido (HC 468.990/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/12/2018, DJe 14/12/2018, grifei).
+A mais disso, não configura o alegado bis in idem a exasperação da pena-base em face dos maus antecedentes e o afastamento do redutor previsto na Lei de Drogas.
+Nesse sentido:
+PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE E INAPLICABILIDADE DA MINORANTE. BIS IN IDEM. INOCORRÊNCIA. PEDIDO DE ALTERAÇÃO DO REGIME PRISIONAL. INOVAÇÃO RECURSAL. AGRAVO NÃO PROVIDO.
+1. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+2. Hipótese em que as instâncias de origem negaram a incidência da referida minorante, pela falta do atendimento dos pressupostos legais, pois o recorrente é portador de maus antecedentes (registra duas condenações anteriores definitivas).
+3. Não configura bis in idem a utilização dos maus antecedentes para exasperar a pena-base e, ao mesmo tempo, para afastar a aplicação da causa de diminuição do tráfico privilegiado.
+4. O pedido de alteração do regime prisional para o inicial semiaberto configura indevida inovação recursal, pois não foi objeto de questionamento nas razões do recurso especial.
+5. Agravo regimental não provido (AgInt no AREsp 1350765/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/09/2018, DJe 26/09/2018, grifei).
+Por fim, ressalta-se que, diante do quantum de pena definitivamente aplicada - 5 anos e 2 meses de reclusão -, seria cabível o regime inicialmente semiaberto. No entanto, diante da presença de circunstância judicial desfavorável, deve ser mantido o regime fechado, senão vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME INICIAL. 11,5 KG DE MACONHA. MAUS ANTECEDENTES. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE DE FIXAÇÃO DO REGIME FECHADO. AGRAVO DESPROVIDO.
+Embora a primariedade do recorrente e o quantum de pena, superior a 4 e inferior a 8 anos, permitirem, em tese, a fixação do regime semiaberto, os fundamentos apresentados revelam que a pena-base foi fixada acima do mínimo legal tendo em vista os maus antecedentes, justificando a imposição do regime mais gravoso, de acordo com o disposto no § 3º do art. 33 do Código Penal - CP. Precedentes.
+Agravo desprovido (AgRg no HC 453.499/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/09/2018, DJe 17/09/2018, grifei).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
