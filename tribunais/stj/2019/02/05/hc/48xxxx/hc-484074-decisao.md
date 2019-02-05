@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRESCRIÇÃO. MARCO INTERRUPTIVO. ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO NÃO INTERROMPE O LAPSO PRESCRICIONAL. EXTINÇÃO DA PUNIBILIDADE. PARECER ACOLHIDO.
+Ordem concedida.
+DECISÃO
+Trata-se de habeas corpus, ajuizado em benefício de [NOME], em que se busca, inclusive em caráter liminar, o reconhecimento da prescrição da condenação havida na Ação Penal n. 0001847-08.2013.8.26.0220, da 3ª Vara Criminal da comarca de Guaratinguetá/SP.
+Insurge-se o impetrante contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do HC n. 2093468-57.2018.8.26.0000. Eis a ementa do decisum (fl. 107):
+Habeas Corpus. Pleito de reconhecimento da prescrição. Impossibilidade. Não transcurso do prazo entre a publicação do v. Acórdão e a presente data. Decisão colegiada que tem o condão, ainda que confirmatória da condenação, de interromper a fluência do prazo prescricional. Precedentes deste Sodalício. Manutenção da situação do increpado. Ordem denegada.
+Consta da inicial que o paciente foi condenado, em primeiro grau, à pena de 1 ano e 8 meses, de reclusão, pelo crime de tráfico ilícito de entorpecentes. A publicação da sentença teria ocorrido em 25/7/2013.
+Interpostos recursos pela acusação e defesa, a Corte estadual manteve o patamar da condenação. O acórdão foi publicado no dia 27/3/2015. O trânsito em julgado para o Ministério Público ocorreu no dia 6/7/2015.
+Em 1º/2/2016, chegou nesta Corte Superior o AREsp n. 845.477/SP, apresentado contra a decisão que inadmitiu o recurso especial interposto pelo ora paciente e corréu. No dia 19/2/2016, o Ministro Presidente Francisco Falcão não conheceu dos agravos interpostos. Somente o corréu [NOME] ajuizou agravo regimental contra essa decisão, a mim distribuído. Levado o feito a julgamento, em 17/5/2016, a Sexta Turma negou provimento ao regimental, mas, de ofício, concedeu habeas corpus para fixar o regime aberto e substituir a pena privativa de liberdade por restritivas de direitos, a serem definidas pelo Juízo da Execução.
+A defesa do ora paciente formulou, então, pedido de extensão da ordem de habeas corpus. A pretensão foi deferida no julgamento realizado em 14/2/2017. O trânsito em julgado desse acórdão ocorreu em 21/3/2017.
+À vista disso, de acordo com a petição inicial, o Supremo Tribunal Federal julgou prejudicado o agravo interposto pelo réu [NOME]. O trânsito em julgado o ocorreu no dia 18/10/2017.
+Aqui, o impetrante sustenta que há constrangimento ilegal decorrente do acórdão que julgou a impetração no Tribunal de origem, já que a data inicial para a contagem da prescrição seria dia 25/07/2013 e não a do trânsito em julgado para o Ministério Público em 06/07/2015, pois o acordão confirmatório da sentença não teria o condão de interromper o lapso temporal da prescrição (fl. 9).
+Menciona que, no caso concreto, o início do prazo prescricional se deu em 25/7/2013, com a publicação da sentença que condenou o paciente a 1 ano e 8 meses de pena, concretizando-se o lapso prescricional no dia 25/7/2017, anteriormente ao trânsito em julgado da decisão que julgou prejudicado o recurso extraordinário (18/10/2017).
+Em 12/12/2018, deferi a liminar para suspender a execução da condenação até o julgamento desta impetração.
+Informações prestadas (fls. 138/143).
+O Ministério Público Federal, através do parecer escrito pelo Subprocurador-Geral da República [NOME], opinou pela concessão da ordem (fls. 148/151).
+É o relatório.
+Estou de acordo com a opinião do parecerista, segundo a qual, tendo em vista que entre a data de publicação da sentença condenatória e a data do trânsito em julgado da decisão do STF que julgou prejudicado o agravo em recurso extraordinário transcorreu prazo superior a quatro anos, e que a pena aplicada ao paciente não excede dois anos, deve ser concedida a ordem, extinguindo-se a punibilidade pela prescrição (fl 151).
+Isso porque, a Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp n. 1301820/RJ (de relatoria do Ministro Humberto Martins, DJe 24/11/2016), pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada.
+Na hipótese, a Corte estadual confirmou a sentença condenatória, negando provimento aos recursos interpostos. Assim, tendo em vista a pena imposta ao paciente (1 ano e 8 meses), a prescrição se daria em 4 anos (art. 109,V, CP).
+A sentença, conforme consta do andamento processual na página eletrônica do Tribunal a quo na internet, foi publicada em 25/7/2013. Outrossim, o trânsito em julgado definitivo se deu em 18/10/2017, é o que se depreende do ARE n. 1.035.792, que tramitou no Supremo Tribunal Federal.
+Dessa forma, forçoso reconhecer a prescrição da pretensão punitiva estatal, na modalidade intercorrente, pois entre a data da publicação da sentença condenatória e o trânsito em julgado em definitivo, transcorreu lapso superior a 4 anos.
+Tal o contexto, acolho o parecer e concedo a ordem para declarar extinta a punibilidade do paciente em face da ocorrência da prescrição da pretensão punitiva intercorrente (Ação Penal n. 0001847-08.2013.8.26.0220, da 3ª Vara Criminal da comarca de Guaratinguetá/SP).
+Intime-se o Ministério Público estadual desta decisão.
+ Publique-se.
