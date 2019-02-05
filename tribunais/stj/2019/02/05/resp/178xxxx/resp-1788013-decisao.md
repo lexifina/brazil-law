@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. PENSÃO. PRETENSÃO ACERCA DE DIFERENÇAS NÃO PAGAS PELA AUTARQUIA PREVIDENCIÁRIA ESTADUAL EM SEDE DE TUTELA INDIVIDUAL POR FORÇA DO RECONHECIMENTO DA PRESCRIÇÃO QUINQUENAL QUE AGORA ESTÃO SENDO PLEITEADAS EM SEDE DE EXECUÇÃO DE AÇÃO COLETIVA. FUNDAMENTOS DO VOTO CONDUTOR NÃO INFIRMADOS. INCIDÊNCIA DAS SÚMULAS 284 E 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros, com fundamento no art. 105, III, "a", da CF, contra acórdão prolatado pela 1ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado (fls. 101-108, e-STJ):
+APELAÇÃO - PREVIDENCIÁRIO - PEDIDO DE HABILITAÇÃO EM EXECUÇÃO DE SENTENÇA - Complementação de pensão de 75% para 100% dos proventos ou vencimentos - Prescrição reconhecida em primeiro grau - Irresignação - Descabimento - Orientação da Corte Superior no sentido de que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva - Pedido de habilitação em sentença que, assim, se deu quando superado o prazo prescricional - Sentença mantida - Negado provimento ao recurso.
+Sem embargos de declaração.
+O recorrente em suas razões alega que o acórdão recorrido contrariou dispositivo de Lei Federal, sem, contudo, indicar qual dispositivo foi violado, argumentando que "a sentença fundada na prescrição feriu de morte o direito da habilitante" (..), sendo certo que "o prazo a ser aplicado à execução individual da sentença coletiva é de 20 anos, e se coaduna com os termos da Súmula 150 do Supremo Tribunal Federal" (fls. 118; 119, e-STJ).
+Ao final, requer o provimento do recurso, para reformar o "respeitável julgado", como medida de direito e de justiça (fl. 121, e-STJ).
+Contrarrazões às fls.124-127, e-STJ.
+Juízo positivo de admissibilidade às fls. 129-131, e-STJ.
+É o relatório. Passo a decidir.
+Cuida-se, na origem, de ação proposta por pensionistas do Instituto de Previdência do Estado de São Paulo - IPESP com a pretensão de executar ação civil pública proposta pelo Ministério Público do Estado de São Paulo, uma vez que as diferenças ora pleiteadas e que entendem serem devidas não foram acolhidas em sede de ação individual por força da prescrição quinquenal.
+O Acórdão recorrido manteve a sentença do juízo de primeiro grau que reconheceu a prescrição do direito e extinguiu o feito com fundamento no artigo 267, VI, do CPC/1973, ao fundamento de que o trânsito em julgado do provimento jurisdicional concedido na ação coletiva deu-se em 05 de setembro de 2001, porém "a parte exequente, de seu turno, ingressou com a habilitação em 18 de setembro de 2006, para o fim de recebimento das aludidas prestações, ultrapassando o prazo de cinco anos previsto no Decreto 20.910/32" (fl. 104, e-STJ).
+Com efeito, ficou consignado no acórdão recorrido que "não sobeja dúvida de que a pretensão da parte exequente encontra-se fulminada pela prescrição, mostrando-se descabidas as alegações expostas nas razões de apelação" (fl. 105, e-STJ).
+Ocorre que o recorrente em suas razões não infirma os fundamentos do voto condutor, incidindo, na espécie, o teor das Súmulas 284 e 283 do STF, ante a deficiência na motivação e ausência de impugnação específica às razões de decidir.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRETENSÃO À PRODUÇÃO DE PROVA PERICIAL. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.661.222/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 14/5/2018)
+No mais, a revisão de tais conclusões demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
