@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – CONTRADITÓRIO PRÉVIO – NULIDADE – AUSÊNCIA.
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Morro Agudo/SP, ao acolher representação formulada pela autoridade policial e requerimento do Ministério Público, no processo nº 1501417-29.2018.8.26.0374, determinou a prisão preventiva do paciente ante a suposta prática do crime previsto no artigo 121, § 2º, incisos II e IV (homicídio qualificado por motivo fútil e emprego de meio a dificultar a defesa da vítima), do Código Penal. Ressaltou a gravidade e a repercussão social do delito. Frisou a confissão do paciente. Concluiu ser indispensável a custódia para garantir a ordem da pública e a aplicação da lei penal, aludindo ao fato de haver sido o paciente encontrado em local diverso do distrito da culpa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 484.590. O Relator inadmitiu-o.
+    Os impetrantes sustentam a insubsistência do ato por meio do qual imposta a preventiva. Afirmam estar a prisão lastreada no clamor social. Dizem que o pronunciamento implicou violação ao contraditório e ao artigo 282, § 3º, do Código de Processo Penal por ter sido proferido sem que a defesa obtivesse ciência prévia e se manifestasse acerca da representação formulada pela autoridade policial. Destacam as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, residência fixa, atividade lícita e família constituída.
+    Requerem, no campo precário e efêmero, o afastamento da preventiva, com a expedição de alvará de soltura. No mérito, buscam a confirmação da providência.
+    Não foi possível obter informações atualizadas do processo, uma vez submetido a sigilo.
+    Não consta, na impetração, a data do cumprimento do mandado de prisão.
+    A fase é de apreciação da medida acauteladora.
+    2. Levando em conta que, nos termos do artigo 312 do Código de Processo Penal, a existência de indícios suficientes de autoria constitui um dos pressupostos da prisão preventiva, e considerados o risco de frustração e a urgência da medida, a prévia manifestação da defesa mostra-se desnecessária à legitimidade da custódia cautelar, cujo contraditório é exercido de forma diversa. O Pleno, quando do julgamento do habeas corpus nº 102.732, de minha relatoria, concluiu prescindir a prisão preventiva de anterior ciência do destinatário.
+    A análise da decisão que resultou na preventiva do paciente revela haver sido consideradas a imputação e a repercussão social da conduta. Inexiste a prisão automática tendo em conta a infração possivelmente cometida, levando à inversão da ordem do processo-crime, que direciona, ante o princípio constitucional da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Quanto ao risco de intimidação de testemunhas, deve ser indicado dado concreto, individualizado, a demonstrar a indispensabilidade da custódia. A problemática atinente ao fato de ter o paciente se evadido do distrito da culpa tem solução no artigo 366 do Código de Processo Penal. Ainda que, citado por edital, o acusado não constitua defesa técnica, as consequências são apenas a suspensão do processo e do prazo prescricional, devendo a prisão preventiva balizar-se no artigo 312 do Código de Processo Penal. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da prisão preventiva retratada no processo nº 1501417-29.2018.8.26.0374, da Vara Única da Comarca de Morro Agudo/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
