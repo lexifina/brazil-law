@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — NEGATIVA DE SEGUIMENTO.
+    1. O Superior Tribunal de Justiça, interpretando a legislação de regência, entendeu não ter o candidato, portador de deficiência auditiva unilateral, direito de concorrer às vagas destinadas aos deficientes físicos. No extraordinário, o recorrente alega a violação dos artigos 5º, § 3º, 37, inciso VIII, e 133 da Constituição Federal. Diz contrariada a convenção internacional sobre direitos das pessoas com deficiência e respectivo protocolo facultativo. Discorre sobre a dificuldade de acesso ao mercado de trabalho às pessoas portadoras de deficiência.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CANDIDATO PORTADOR DE PERDA AUDITIVA UNILATERAL. INEXISTÊNCIA DE DIREITO DE CONCORRER ÀS VAGAS DESTINADAS AOS DEFICIENTES FÍSICOS. INTERPRETAÇÃO DO DECRETO 3.298/1999, ALTERADO PELO DECRETO 5.296/2004. PRECEDENTE DA CORTE ESPECIAL. 1. Nos moldes da jurisprudência recente e atual desta Corte Superior de Justiça firmado no bojo do MS n. 18.966/DF, a surdez unilateral não possibilita aos seu portadores concorrer a vagas de concursos públicos nas vagas destinadas aos portadores de deficiência. Precedentes: MS 18.966/DF, Rel. Min. Castro Meira, Rel. p/ Acórdão Min. Humberto Martins, Corte Especial, DJe 20/03/2014; AgInt no RMS 50.567/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/12/2016; MS 18.851/DF, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 26/08/2016. 2. Agravo interno não provido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 5 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
