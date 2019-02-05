@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. O prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o Agravo interposto contra a decisão que nega seguimento a Recurso Especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt no AREsp 1184810/MT, Rel. Ministro MAURO Campbell Marques, Segunda Turma, Dje 24/04/2018).
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por GENOVA & CASTILHO ADVOGADOS que desafia decisão de lavra da Presidência do STJ, proferida às e-STJ fls. 1.351/1.352, que não conheceu dos recursos, com fulcro no art. 21-E, V, do RISTJ, por intempestividade.
+Posteriormente, restou interposto agravo interno, que fora recebido como embargos declaratórios e acolhidos em parte, sem efeitos infringentes, para corrigir o erro material, mantendo o não conhecimento do agravo em recurso especial de GENOVA & CASTILHO ADVOGADOS (e-STJ fl. 1.376/1.378).
+No presente agravo interno (e-STJ fl. 1.384/1.390) a parte agravante sustenta que o agravo em recurso especial é tempestivo, uma vez que se aplica o prazo em dobro do art. 229 do CPC/2015.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 1.396/1.400.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, observa-se que a decisão recorrida não merece reparos.
+Com efeito, a Presidência deste Tribunal, ao examinar o agravo em recurso especial, reconheceu a sua intempestividade nos seguintes termos (e-STJ fl. 1.376/1.378):
+Em atenção ao princípio da fungibilidade, recebo o presente agravo interno como embargos de declaração, em razão da existência de erro material na decisão ora agravada.
+Analisando os autos, quanto ao intempestividade do recurso especial, verifico que existe erro material na decisão embargada, razão pela qual a corrijo. Com efeito, o decidido anteriormente não levou em consideração o prazo em dobro previsto no artigo 191 do Código de Processo Civil para interposição do recurso especial. Considerando o prazo em dobro para litisconsortes com procuradores diversos e a comprovação da suspensão do expediente forense, o recurso especial está tempestivo.
+Porém, quanto à intempestividade do agravo em recurso especial, cumpre esclarecer que, mesmo nos termos do art. 229 do Código de Processo Civil de 2015, ainda persiste o entendimento de que "o prazo em dobro previsto no art. 191 do CPC não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer" (EDcl no AREsp 477.220/DF, 4.ª Turma, Rel. Min. Maria Isabel Gallotti, DJe de 16/5/2014).
+Dessa forma, desde antes da interposição do agravo em recurso especial a parte não tem direito ao prazo em dobro.
+Ademais, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n.º 3 do STJ, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Sendo assim, no código atual o prazo para a interposição do agravo e do recurso especial é de 15 (quinze) dias, mas, contados em dias úteis, nos termos art. 219, caput, c.c. os arts. 994, VI e VIII, 1.003, § 5.º, 1.029 e 1.042, caput, todos do Código de Processo Civil.
+Acontece que o entendimento jurisprudencial, no Código de Processo Civil de 1973, era no sentido de admitir a comprovação posterior da tempestividade. Veja-se: AgInt no AREsp 829.932/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/10/2016, DJe 13/10/2016; e AgInt no AREsp 886.498/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/09/2016, DJe 30/09/2016.
+Todavia, esse entendimento não mais persiste, em razão de disposição expressa do Código de Processo Civil vigente, pois, nos termos do § 6.º do seu art. 1.003, ele assevera que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento idôneo, apto a comprová-la, ser encartado aos autos no momento da interposição do recurso que pretende seja conhecido.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. PRINCÍPIO DA PRIMAZIA DO MÉRITO. ART. 932, PARÁGRAFO ÚNICO, DO CPC/15. INTIMAÇÃO DO RECORRENTE. INAPLICABILIDADE. REGRA ESPECIAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. OBRIGATORIEDADE. ART. 1.006, § 3º, DO CPC/15. DECISÃO MANTIDA.
+1. Na sistemática do CPC/73, era possível a demonstração da tempestividade em virtude de feriado local ou suspensão do expediente, nos termos do entendimento do STF (RE 626.358 AgR, Rel. Ministro Cezar Peluso, Plenário) e do STJ (AgRg no AREsp 137.141/SE, Rel. Min. Antonio Carlos Ferreira, Corte Especial).
+2. Por sua vez, o art. 1.003, § 6º, do CPC/15 impõe ao recorrente o ônus de comprovar a ocorrência de feriado local ou de suspensão do expediente no ato de interposição do recurso.
+3. Não obstante o princípio da primazia do mérito, o próprio Código de Processo Civil de 2015 estabeleceu expressa obrigatoriedade de comprovação de feriado local ou suspensão do expediente, regra específica que prevalece sobre a regra geral.
+4. Não comprovada a existência de feriado local ou suspensão do expediente no ato da interposição do recurso, nos termos do § 6º do art. 1.003 do CPC/15, deve o relator considerar inadmissível o recurso, independente de intimação, não se aplicando o art. 932, parágrafo único.
+5. Agravo interno no agravo em recurso especial não provido."
+(AgInt nos EDcl no AREsp 1016839/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/06/2017, DJe 29/06/2017).
+Além disso, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp 1686469/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/03/2018, DJe 27/03/2018).
+Ante o exposto, ACOLHO em parte os embargos de declaração, sem efeitos infringentes, apenas para corrigir o erro material verificado na decisão de fls. 1351/1352, nos termos acima debatidos, mantido, todavia, o não conhecimento do recurso de GENOVA & CASTILHO ADVOGADOS.
+Publique-se. Intimem-se.
+Vê-se que a parte ora agravante fora intimada da decisão agravada em 31/03/2016, deveria ter interposto o agravo até o dia 22/04/2016, contudo este somente foi manejado no dia 13/05/2016.
+Consoante anteriormente explanado, apesar da previsão existente no art. 229 do CPC/2015, ainda persiste o entendimento de que "o prazo em dobro previsto no art. 191 do CPC/1973 não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer" (EDcl no AREsp 477.220/DF, 4.ª Turma, Rel. Min. Maria Isabel Gallotti, DJe de 16/5/2014).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. INTEMPESTIVIDADE. ART. 229 DO CPC/2015. INAPLICABILIDADE.
+1. O prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o Agravo interposto contra a decisão que nega seguimento a Recurso Especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt no AREsp 1081447/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/10/2017, DJe 19/12/2017).
+2. Agravo interno não provido (AgInt no AREsp 1184810/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/04/2018, DJe 24/04/2018).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
