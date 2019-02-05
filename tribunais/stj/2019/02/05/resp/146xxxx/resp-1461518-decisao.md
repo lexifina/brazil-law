@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DE PALMEIRA, na vigência do CPC/73, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. REPETIÇÃO DO INDÉBITO. REGIME PRÓPRIO DE PREVIDÊNCIA. MUNICÍPIO DE PALMEIRA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRESCRIÇÃO.
+Não havendo documento que comprove que o Município tenha protocolizado requerimento de restituição administrativa acerca dos valores supostamente recolhidos indevidamente, deve ser reconhecida a prescrição do direito de repetir as contribuições recolhidas em período superior a quinze anos" (fl. 337e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 357/360e).
+A parte recorrente alega violação aos arts. 165, 166 e 174, IV, do CTN e à Súmula 546/STF, sustentando que:
+"Todos os elementos coligidos ao processo demonstram e provam que as negativas da Recorrida começaram a se concretizar a partir do ano de 2008, mediante recusa na emissão de Certidões de Tempo de Contribuição e compensações previdenciárias relativas ao período compreendido entre jan/1993 a fev/1994.
+Assim, se for para ventilar hipótese de prescrição, o prazo deveria ser contado a partir de 2008, considerando que a ação em curso teve ajuizamento em julho de 2010.
+(..)
+Ora, ante o recolhimento pelo Município de Palmeira de contribuições previdenciárias posteriormente declaradas pelo órgão arrecadador como indevidas, resta pertinente o pedido de repetição de indébito, vez que esse lapso de tempo (jan/1993 a fev/1994), em remota hipótese de não se conferir como devido pela Recorrida, causará desequilíbrio econômico do Fundo de Previdência que, sem o acervo desse tempo, jamais poderá postular a compensação previdenciária dos segurados inativados, impondo, assim, déficit previdenciário.
+A ofensa a citada lei federal açambarca, também, o art. 174, incs. II, III e IV, que trata da prescrição, nesta redação:
+(..)
+Tendo a Recorrida se desincumbido de suas atribuições quanto a vigilância e auscultação dos procedimentos administrativos, tão logo fora surpreendida em 2008 pela Recorrida nas negativas de expedição de Certidões de Tempo de Contribuição aos segurados e obstrução aos processos de compensação previdenciária no período compreendido entre jan/1993 a fev/1994, articulou medidas judiciais buscando dito reconhecimento.
+Portanto, decorreu lapso de apenas poucos meses, pois em 2008 a Recorrente já articulava interpelação judicial (Autos nº 2008.70.09.003078-4/PR) em face da Recorrida, interrompendo, assim o prazo prescricional, hipótese omitida no v. acórdão.
+Cabe, por sua vez, neste caso a aplicação da Súmula nº 576 do STF, embora a matéria esteja, neste recurso, sendo analisada pela Superior Corte de Justiça:
+Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão, que o contribuinte "de jure" não recuperou do contribuinte "de facto" o "quantum" respectivo.
+Portanto, no presente caso está configurado o prejuízo suportado pela Recorrente ante as negativas da Recorrida por compensação previdenciária de processos de concessão de benefícios, bem como pela obstrução na expedição de Certidões de Tempo de Contribuição aos segurados, cujo impacto negativo se efetivará com o aumento do déficit previdenciário" (fls. 374/376e).
+Apresentadas as contrarrazões (fls. 383/385e), o Recurso Especial foi admitido, na origem (fl. 388e).
+A irresignação não merece prosperar.
+Inicialmente, ressalto que o Recurso Especial tem por objetivo o controle de ofensa à legislação federal, e, por isso, não cabe a esta Corte a análise de suposta violação de súmulas.
+No mais, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que, "da análise dos documentos anexados aos autos, não há qualquer documento que comprove que o Município tenha protocolizado requerimento de restituição administrativa acerca dos valores supostamente recolhidos indevidamente. Logo, tendo a presente demanda sido ajuizada em 28 de julho de 2010, é de se reconhecer prescrita a pretensão da parte autora em repetir as contribuições recolhidas no período de janeiro de 1993 a fevereiro de 1994, porque decorrido mais de quinze anos do suposto indébito (TRF4, APELREEX 2008.70.03.002408-1, Segunda Turma, Relatora Vânia Hack de Almeida, D.E. 27/01/2010)" (fls. 334/335e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
