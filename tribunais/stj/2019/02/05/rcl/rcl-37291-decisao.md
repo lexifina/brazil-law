@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de reclamação com pedido de liminar apresentada pelo MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS contra acórdão da Turma de Uniformização do Sistema dos Juizados Especiais do Tribunal de Justiça do Estado de São Paulo assim ementado:
+PEDIDO DE UNIFORMIZAÇÃO - Falta de demonstração analítica de divergência - Aplicação da Súmula 1ª da Turma de Uniformização - Pedido não conhecido.
+Alega o reclamante que formulou "Pedido de Uniformização de Interpretação de Lei  ..  em face de decisões de primeiro e segundo graus adotadas nos autos de processo movido por LEÔNIA DOS SANTOS (1012170- 12.2017.8.26.0577 (doc. 01), do Anexo do Juizado Especial da Fazenda Pública da comarca de São José dos Campos), por meio do qual a autora, servidora pública municipal, reivindica o reconhecimento de direito à incorporação de gratificação prevista na legislação municipal e o consequente pagamento dos valores não adimplidos desde a sua supressão, ocorrida no dia 1º de março de 1997" (fl. 4).
+Sustenta que endereçado o pedido de uniformização "a essa Corte Superior, este acabou sendo julgado pela Turma Recorrida, em intolerável usurpação da competência do Superior Tribunal de Justiça" (fl. 7).
+Aduz que "o fato de a Colenda Turma de Uniformização ter avocado para si a competência para julgar o pedido formulado pelo Recorrente, da qual deveria ter declinado em favor dessa c. Corte Superior, consubstanciou a hipótese do art. 998, inc. I, do Código de processo Civil, que ora se invoca para o propósito exato de preservar a competência desse e. Tribunal" (fl. 9).
+Afirma que o periculum in mora está consubstanciado no fato de que, "ocorrendo  ..  o trânsito em julgado do v. aresto ora combatido, iniciar-se-á o cumprimento da sentença eivada de ilegalidade, sem que haja possibilidade de posterior reexame da matéria aqui aventada" (fl. 17).
+Requer, em liminar, a suspensão do julgado reclamado.
+É o relatório. Decido.
+A concessão da tutela de urgência deve ser fundada na existência concomitante do fumus boni iuris e do periculum in mora. É imprescindível a existência de nexo de subordinação entre a providência de natureza liminar e a fumaça do bom direito e a comprovação, de maneira efetiva, do risco danoso caso não seja deferida.
+Na espécie, a despeito das bem lançadas razões quanto à usurpação da competência desta Corte pelo Tribunal reclamado, o reclamante não demonstrou a iminência de nenhum ato expropriatório ou do perecimento do direito, em evidente ausência do periculum in mora, não se justificando a concessão da liminar requerida.
+Ante o exposto, indefiro o pedido de liminar sem prejuízo de avaliação ulterior pelo relator.
+Solicite-se ao Juízo reclamado que, no prazo de 10 dias, preste informações (inciso I do art. 989 do CPC e inciso I do art. 188 do RISTJ).
+Publique-se. Intimem-se.
