@@ -1,0 +1,28 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE DUPLICATAS. IRRESIGNAÇÃO SUBMETIDA AO NCPC. EXECUÇÃO PROPOSTA SEM O COMPROVANTE DE ENTREGA DAS MERCADORIAS. DOCUMENTO ESSENCIAL QUE NÃO PODERIA SER JUNTADO AOS AUTOS POSTERIORMENTE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+[NOME] E CONSTRUÇÕES LTDA. (A FERNANDES) ajuizou embargos à execução contra si promovida por a PETROCAMP AUTO POSTO LTDA. (POSTO), alegando que não teria sido juntado aos autos o comprovante de entrega das mercadorias relativas às duplicatas em que lastreadas a execução (e-STJ, fls. 1/10).
+O magistrado de primeiro grau acolheu os embargos declarando a nulidade da execução por ausência de título (e-STJ, fls. 105).
+O TJSP deu parcial provimento ao recurso de apelação do POSTO por entender que, em relação a algumas das duplicatas, foram efetivamente juntados aos autos os comprovantes de entrega das mercadorias, ainda que posteriormente ao oferecimento dos embargos.
+O acórdão ficou assim ementado:
+APELAÇÃO Embargos à execução Pedidos acolhidos para extinguir a execução Pleito de reforma Admissibilidade, em parte Relação jurídica incontroversa Execução de duplicatas não aceitas - Canhotos das notas fiscais em parte apresentados Inexistência de ofensa ao art. 434, do CPC Autonomia dos embargos em relação à execução Flexibilização da regra insculpida no artigo 434, do CPC, tendo em vista a preservação, na hipótese, do contraditório Apelada que não se insurgiu quanto à autenticidade dos documentos, limitando-se a impugnar o momento da juntada Entrega das mercadorias demonstrada Duplicatas nº 9359 e 9403 exigíveis Inexigibilidade restrita à duplicata nº 88 - Sentença reformada, em parte Recurso parcialmente provido (e-STJ, fl. 131)
+Inconformada, A [NOME] interpôs recurso especial, com fundamento no art. 105, III, a da CF, alegando que o Tribunal de origem, ao admitir o processamento da execução não instruída desde o início com o comprovante de entrega das mercadorias teria violado os arts. 15, II, a, da Lei nº 5.474/86, 320, 434 e 803, I, do NCPC.
+Apresentadas contrarrazões (e-STJ, fls. 157/162), o recurso não foi admitido na origem com fundamento na Súmula nº 7 do STJ.
+No agravo que se seguiu, A [NOME] rechaçou a incidência do enunciado sumular em referência.
+DECIDO.
+O agravo em recurso especial é espécie recursal cabível e, ademais, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão agravada. CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A discussão posta em causa diz respeito à possibilidade de a parte juntar aos autos da execução o comprovante de entrega das mercadorias representadas nas duplicadas.
+Tratando-se de documentos obrigatórios, que servem para constituir o próprio título executivo, não é possível admitir sua juntada posterior.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. PROVA DOCUMENTAL. PRODUÇÃO EXTEMPORÂNEA. EXCEÇÕES LEGAIS. INAPLICABILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A regra prevista no art. 396 do Código de Processo Civil, segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior (CPC, art. 397), o que não ocorreu, conforme relatado pelo Tribunal a quo. Precedentes do STJ.
+2. A Corte Local afirmou "ser fato incontroverso nestes autos que tais elementos sempre estiveram na posse dos prepostos do apelante, de sorte que o pedido de juntada documental apenas quando da apresentação de alegações finais orais momento em que já configurada a preclusão consumativa da fase processual instrutória - não se deu em razão de força maior, mas sim de óbvia deficiência da defesa por aquele apresentada." (fl. 199, e-STJ).
+3. Assim, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1.618.161/AC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 06/03/2017)
+EXECUÇÃO. TITULO EXECUTIVO EXTRAJUDICIAL. PARA QUE A DUPLICATA OU TRIPLICATA SEM ACEITE SE FORMALIZE COMO TITULO EXECUTIVO EXTRAJUDICIAL, E MISTER QUE ESTEJA ACOMPANHADA DE DOCUMENTO COMPROBATÓRIO DE ENTREGA E RECEBIMENTO DA MERCADORIA (ART. 15, II, "C", DA LEI N. 5.474/68), NÃO SENDO POSSIVEL A FORMALIZAÇÃO POSTERIORMENTE AO AJUIZAMENTO DA EXECUÇÃO, EM SEDE DE EMBARGOS DO DEVEDOR. RECURSO CONHECIDO E PROVIDO.
+(REsp 46.261/MG, Rel. Ministro PAULO COSTA LEITE, Terceria Turma, DJ 13/6/1994)
+Nessas condições, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para restabelecer a sentença que acolheu os embargos à execução.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
