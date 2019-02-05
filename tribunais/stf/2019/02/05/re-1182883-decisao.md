@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, São Paulo Previdência (SPPREV). Aparelhado o recurso na alegação de afronta ao art. 40, §§ 1º, 3º, 4º e 17, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Eis a ementa do acórdão recorrido:
+    “Mandado de segurança. Policial Civil. Aposentadoria especial nos termos da LC nº 51/85. Lei que foi recepcionada pela Constituição Federal de 1988. Matéria de repercussão geral decidida pelo C. STF no RE nº 567.110/AC. Integralidade garantida nos termos do artigo 1º da LC nº 51/85, respeitando-se o cargo e a classe em que se der a aposentadoria. Paridade inexistente nos termos das Emendas Constitucionais nº 41/03 e nº 47/05. Segurança ora concedida em parte. Recursos, voluntário e oficial, parcialmente providos.”
+    A recorrente argumenta que o direito à integralidade não assegura “proventos equivalentes à última remuneração quando na ativa”.
+    O exame das alegações referentes à forma de cálculo dos proventos demandaria a prévia análise da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada pelas instâncias ordinárias, nos termos da Súmula nº 279/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, aplicável, ainda, a Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Colho precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO SERVIDOR PÚBLICO ESTADUAL. POLICIAL CIVIL. APOSENTADORIA ESPECIAL. LEI COMPLEMENTAR 51/1985. POSSIBILIDADE. RE 567.110. TEMA 26. INTEGRALIDADE. REQUISITOS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. FORMA DE CÁLCULO DA APOSENTADORIA ESPECIAL E PARIDADE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO. VERIFICAÇÃO NO CASO CONCRETO. OFENSA REFLEXA. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1.096.052-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 17.9.2018.)
+    “Agravo regimental no recurso extraordinário. Previdenciário. Aposentadoria especial. Lei Complementar 51/85. Paridade e integralidade. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático- probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa.” (RE 983.962-AgR, Rel. Min. Dias Toffolli, Segunda Turma, DJe 08.6.2017.)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
