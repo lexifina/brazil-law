@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO ANULATÓRIA. TAXAS CONDOMINIAIS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+PAULO ROBERTO BENASSE (PAULO) ajuizou ação anulatória contra CONDOMINIO EDIFÍCIO SANTA MATILDE e EDVALDO DE SOUZA PINTO (CONDOMÍNIO e EDVALDO), pleiteando o reconhecimento de irregularidade de convocações para assembleia, bem como da aprovação de taxa extraordinária.
+O Juízo de piso indeferiu o pedido de tutela de urgência quanto à suspensão da cobrança das taxas extraordinárias (e-STJ, fls. 16/17).
+Interposto agravo de instrumento por PAULO, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado (e-STJ, fl. 40):
+DESPESAS CONDOMINIAIS. AÇÃO ANULATÓRIA DE TAXAS CONDOMINIAIS. Condomínio edilício. Alegação de nulidade da assembleia geral que instituiu a cobrança de taxas extras de reforma. Regular convocação. Desnecessidade de apresentação de orçamento prévio. Recurso desprovido.
+Inconformado, PAULO interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação do art. 12, §4º, da Lei 4.591/64, aduzindo, em síntese, que (1) as convocações para assembleias são irregulares, visto que genéricas; (2) a aprovação das taxas exigiria orçamento prévio; e (3) é ilegal a instituição de taxas extraordinárias em caráter permanente para obras não especificadas e sem valor definido.
+Não houve intimação para apresentação de contrarrazões por não estarem o CONDOMÍNIO e EDVALDO representados nos autos.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de demonstração da ofensa a lei federal e a incidência da Súmula nº 7 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) (2) e (3) Da tutela de urgência
+O Tribunal de origem concluiu que, diante dos elementos carreados aos autos, em análise liminar, não se sustentam as alegações de que as convocações foram inadequadas, bem como que o tempo decorrido desde as assembleias afasta o perigo de dano ou risco ao resultado útil do processo, nos termos da fundamentação seguinte:
+Ora, dos recortes das convocações para assembleia trazidos pelo próprio agravante às fls.10 e 11, observa-se, in limine, que houve deliberação sobre os seguintes assuntos: prestação de contas, previsão orçamentária, aprovação do projeto do auto de vistoria do corpo de bombeiro, continuação do rateio extra para fundo de melhorias e, finalmente, assuntos Gerais. Logo, não se sustenta a alegação de que não foram realizadas convocações adequadas para a assembleia condominial.
+Frise-se, outrossim, que o agravante impugna convocações de assembleias ocorridas desde 2009, ou seja, nove anos atrás, fato que retira de sua tese o perigo de dano ou risco ao resultado útil ao processo.
+Com relação ao segundo argumento, observa- se que a assembleia ocorrida em fevereiro de 2016 deliberou acerca das "melhorias a serem realizadas":
+"Sr. [NOME]xplicou que a continuidade do ractio extra, será necessário para executar algumas obras que faltam no condomínio como prumadas, telefonia, regularização do AVBC, reforma do telhado e, posteriormente, a modernização dos elevadores. Por este motivo, propôs a continuidade no mesmo valor atual de R$80,00 para os próximos 12 meses, sendo aprovado por unanimidade" (SIC - fls. 08).
+Vale dizer, em outras palavras, que, em sede sumária de cognição, não se vislumbra ilicitude na conduta do agravado, que por meio da assembleia geral órgão máximo do condomínio edilício, que tem poderes para modificar a lei convencional e criar os "fundos" que desejar desde que não sejam contrários à ordem pública constituiu a taxa extra de reforma para despesas úteis e necessárias, agindo, aparentemente, dentro da legalidade, tal como lhe era permitido fazer (e-STJ, fls. 41/42 - sem destaque no original).
+No entanto, verifica-se que a ausência de perigo da demora, fundamento suficiente para a manutenção do acórdão, não foi impugnado de forma específica nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
