@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra decisão do Tribunal de Justiça do Estado do Espírito Santo no HC n. 0028203-46.2018.8.08.0000.
+Consta dos autos que o paciente foi denunciado e preso preventivamente pela suposta prática do crime previsto no artigo 168, § 1º, inciso II, do Código Penal.
+Irresignada com a prisão preventiva, a defesa impetrou habeas corpus perante o Tribunal estadual. O pedido liminar foi deferido para conceder a liberdade provisória ao paciente, condicionada à observância de medidas cautelares alternativas à prisão, consistentes em a) comparecer em Juízo mensalmente para informar e justificar atividades; b) não mudar de residência, sem prévia permissão da autoridade processante, ou ausentar-se por mais de 8 (oito) dias de sua residência, sem comunicar àquela autoridade o lugar onde será encontrado e c) pagamento de fiança de R$ 50.000,00 (cinquenta mil reais) (e-STJ fl. 11).
+Feito o pedido de reconsideração junto ao TJES, houve nova Decisão minorando o valor da fiança para R$ 15.000,00 (quinze mil reais) (e-STJ fl. 11).
+Na presente impetração (e-STJ fls. 3/23), a defesa alega, em síntese, a ilegalidade da prisão preventiva diante da ausência dos requisitos do artigo 312 do Código de Processo Penal, declarando que A simples alusão de que o paciente está sendo processado por outros crimes ou respondendo a inquéritos não é, por si só, suficiente à manutenção de sua custódia cautelar (e-STJ fl. 15).
+Ressalta que o paciente não tem condições financeiras para pagar a fiança arbitrada pelo Juízo, pois a renda de sua família é de apenas um salário mínimo, estando o paciente segregado apenas por não possuir condições financeiras.
+Afirma que o paciente é primário, possui ocupação lícita, residência fixa, não traria qualquer tipo de perturbação à ordem pública e está colaborando com a persecução criminal.
+Pugna, liminarmente e no mérito, pela revogação da prisão preventiva, com a dispensa do pagamento de fiança, com ou sem aplicação das medidas cautelares diversas da prisão, tais como o comparecimento periódico em Juízo para informar e justificar atividades, bem como da proibição de acesso ou frequência a determinados lugares, apresentação de CNH e passaporte (e-STJ fl. 22).
+O pedido liminar foi deferido para conceder ao paciente a liberdade provisória, independentemente do pagamento da fiança arbitrada, até o julgamento do mérito do presente habeas corpus, sendo mantidas as demais medidas cautelares impostas (e-STJ fls. 216/222).
+Prestadas as informações (e-STJ fls. 228/231 e 245/314), o Ministério Público Federal manifestou-se pela denegação da ordem e, caso concedida, que seja na exata extensão da decisão liminar de fls. 216-222 e tão somente até o julgamento definitivo do habeas corpus pelo Tribunal de origem (e-STJ fls. 240/241).
+É o relatório. Decido.
+O seguimento do presente habeas corpus está prejudicado pela perda superveniente do objeto.
+A defesa pede, na presente impetração, a dispensa da fiança. Nesse contexto, o Desembargador Presidente do Tribunal de Justiça local informou que já houve a exclusão da indigitada fiança, no dia 19/10/2018, com a expedição de alvará de soltura em benefício do paciente, in verbis (e-STJ fl. 231):
+Por sua vez, o impetrante peticionou em 16/10/2018 informando ausência de recolhimento da fiança em razão de hipossuficiência de renda.
+Assim, em 19/10/2018 determinei a exclusão da fiança arbitrada, mantendo as demais medidas cautelares impostos, sendo expedido no mesmo dia o competente alvará de soltura.
+Assim, como a impugnada fiança estipulada pelo Tribunal já foi revogada, não há como negar a perda superveniente do objeto desta impetração.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intime-se. Publique-se.
