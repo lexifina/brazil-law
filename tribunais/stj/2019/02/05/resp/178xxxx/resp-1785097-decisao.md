@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO, contra acórdão prolatado, por unanimidade, pela 5ª Turma do Tribunal Regional Federal da 2ª Região no julgamento de apelação, assim ementado (fls. 242e):
+ADMINISTRATIVO. SERVIDORA PÚBLICA. ACUMULAÇÃO DE CARGOS. ÁREA DA SAÚDE. CONSTITUIÇÃO FEDERAL DE 1988 LEI Nº 8.112/90. COMPATIBILIDADE DE HORÁRIOS. AFERIÇÃO CONCRETA.
+1. Remessa necessária e apelação contra sentença que concedeu a segurança, para reconhecer o direito do impetrante ao exercício dos cargos de auxiliar de enfermagem junto ao Hospital Municipal Salgado Filho, bem como de Técnico em Enfermagem vinculado à Unirio.
+2. A Constituição Federal assegura a acumulação de cargos desde que seja respeitado o teto remuneratório e haja compatibilidade de horários (art. 37, XI e XVI, alinea "c"). Por sua vez, a Lei nº 8.112/90 exige apenas a compatibilidade de horários como requisito para a acumulação de cargos.
+3. Ausência de previsão legal de carga horária semanal máxima. A acumulação de cargos condiciona-se à compatibilidade de horários, a ser aferida concretamente. Precedente do TCU quanto à possibilidade de acumulação da qual resulte jornada semanal superior a 60 horas (Plenário, AC 1008- 14/13-P, Rei. Min. VALMIR CAMPELOJ. 24.4.2013).
+4. Precedentes do STF (RE 351.905, Rcl. Min. ELLEN GRACIE. DJE 9.9.2005: RE 633.298. Rei. Min. RICARDO LEWANDOWSKI, DJE 14.2.2012), do STJ (MS 19.476, Rcl. Min. HUMBERTO MARTINS, DJE 30.8.2013; MS 15.663, Rcl. Min. HUMBERTO MARTINS, DJE 3.4.2012) e da 5" Turma Especializada desta Corte (AC 201251010482362, Rcl. Dcs. Fcd. ALUISIO MENDES. E-DJF2R 6.2.2014).
+5. Referente a acórdão do TRF5 acerca da acumulação de dois cargos de farmacêutico, com jornada de trabalho de 70 horas semanais, decidiu o STF que o mesmo se "alinha à jurisprudência desta Corte no sentido da constitucionalidade da acumulação de dois cargos públicos privativos de profissionais da área de saúde, desde que exista compatibilidade de horários" (ARE 836.071, Rcl. Min. ROBERTO BARROSO. DJE 5.11.14). No mesmo sentido: STF, 2a Turma. ARE 859.484, Rei. Min. DIAS TOFFOLI, DJE 19.6.2015.
+6. Cabe à Administração exercer o controle da legalidade acerca da situação regular para a acumulação remunerada de dois cargos privativos da área de saúde, podendo investigar periodicamente a continuidade dessa condição. Porém, a incompatibilidade de horários deve ser aferida em cada caso especifico por meio de procedimento administrativo, no qual sejam garantidos os princípios do contraditório e da ampla defesa, não sendo suficiente para impedir o servidor de exercer um dos cargos públicos apenas a jornada de trabalho total superior a 60 horas semanais. Caso em que a demandante acumula cargos de auxiliar de enfermagem com jornada de trabalho total de 60 horas semanais.
+7.Remessa necessária e Apelação não provida.
+Opostos embargos de declaração, foram rejeitados (fls. 263/268e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 4º, X, e 40, §1º, da LC n. 73/93, alegando-se, em síntese, que "o que se evidencia da prova constante dos autos é a inexistência de compatibilidade entre os dois cargos discutidos no presente processo. Com efeito, o desempenho de um total de 70 horas semanais de exercício cumulado de cargos, mostra, em si, a dificuldade de fazer compatíveis os horários, pois, admitido um dia semanal de folga obrigatório, a operação matemática seria: 70h/6 = onze horas e quarenta minutos por dia" (fl. 273e).
+Com contrarrazões (fls. 278/280e), o recurso foi admitido (fls. 309/312e).
+O Ministério Público Federal manifestou-se às fls. 326/332e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, concluiu que, no caso concreto, a jornada de trabalho do Recorrido não ultrapassa as 60 horas e, portanto, está em conformidade com o parecer da AGU, nos seguintes termos (fls. 234/243e):
+Ademais, parecer da Advocacia Geral da União não possui força normativa a possibilitar sua preponderância sobre a Constituição Federal, a qual condiciona a acumulação de cargos apenas à compatibilidade de horários, sem fazer qualquer referência à quantidade de horas trabalhadas.
+No caso concreto, o apelado labora cm regime de plantões noturnos de 12 horas a cada dois dias (12X48), com carga horária de 30 horas semanais (fl. 57), no Hospital Municipal Salgado Filho e, conforme o Decreto nº 4.836/2003 e a Ordem de Serviço nº 02, de 11 de maio de 2011 (fls. 62/63), sua carga horária na UNIRIO é de 30 (trinta) horas semanais.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REEXAME DE PROVA. SÚMULA Nº 07 DO STJ. DEMONSTRAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE. ASPECTO SUBJETIVO.
+A teor do enunciado da Súmula nº 7 do Superior Tribunal de Justiça, se a reforma do julgado depende do reexame da prova, o recurso especial não pode prosperar.
+Impossibilidade de exame com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 291.128/ES, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 28/04/2015, DJe 13/05/2015)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. DEPENDÊNCIA ECONÔMICA NÃO RECONHECIDA NA ORIGEM. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem concluiu que não há nos autos elementos suficientes capazes de demonstrar a efetiva dependência econômica da parte autora em relação ao neto falecido.
+2. A pretensão de reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 688.078/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/05/2015, DJe 26/05/2015)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
