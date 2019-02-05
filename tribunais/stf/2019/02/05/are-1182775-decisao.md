@@ -1,0 +1,21 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com base no art. 102, III, a da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 59, Vol. 5):
+    “EMENTA — AGRAVO DE INSTRUMENTO — Desapropriação - Expedição de precatório complementar para pagamento de saldo residual — Valor do débito incontroverso - Admissibilidade —A expedição de precatório complementar, no caso, não se enquadra na vedação trazida pelo artigo 100 e parágrafos da CF — Precedentes — Decisão mantida — Recurso não provido”.
+    Nas razões recursais, a parte recorrente aponta violação ao § 8º do artigo 100 da CF/88.
+    Em contrarrazões, a parte ora agravada sustenta a não adequação do caso às vedações do artigo 100, §8º, da CF/1988.
+    É o relatório. Decido.
+    De início, reputam-se preenchidos todos os pressupostos constitucionais de admissibilidade do Apelo Extremo. Dessa forma, passo à análise do mérito.
+    A parte recorrente se insurge contra decisão que determinou a expedição de precatório complementar para pagamento do crédito residual devido ao recorrido. A propósito, veja-se trecho do voto condutor do acórdão recorrido (fl. 61, Vol. 5):
+    “Na situação em exame, a parte executada (ora agravante) não pagou adequadamente as parcelas do precatório originário e isso gerou resíduos. Desse modo, o precatório complementar, ao versar apenas sobre as diferenças apuradas em decorrência do pagamento insuficiente, é medida de direito que se impõe para a correção da distorção.
+    Com razão a parte recorrente, pois, conforme entendimento consagrado no SUPREMO TRIBUNAL FEDERAL, será necessária a expedição de precatório complementar ou suplementar apenas quando houver erro material, inexatidão aritmética ou substituição de índices por força de lei.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRECATÓRIO COMPLEMENTAR. SUBSTITUIÇÃO DOS ÍNDICES DE ATUALIZAÇÃO. POSSIBILIDADE.1. O Supremo Tribunal Federal assentou que não se exclui da sistemática do precatório o pagamento de valores complementares ao precatório satisfeito parcialmente, salvo as hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis ao caso. Precedentes.2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.3. Agravo interno a que se nega provimento”. (ARE 1.092.372-AgR/SP, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 6/9/2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SALDO REMANESCENTE. PRECATÓRIO COMPLEMENTAR. IMPOSSIBILIDADE. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. PRECEDENTES. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO–PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO”. (RE 1.065.086-AgR/SP, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 6/9/2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso. II A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988. III Agravo regimental a que se nega provimento.” (ARE 722.803/SP-AgR, Segunda Turma, Rel. Min. RICARDO LEWANDOWSKI, DJe de 15/8/2014).
+    No caso, o acórdão recorrido diverge da orientação desta CORTE, devendo ser acolhida a presente irresignação.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, CONHEÇO DO AGRAVO PARA DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO, de modo a determinar a expedição de novo precatório e o cancelamento de eventual ofício encaminhado ao DEPRE.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
