@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME], contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, com base nos seguintes fundamentos: i) ausência de violação de dispositivos de lei; ii) aplicação da Súmula 7/STJ; iii) incidência da Súmula 83/STJ; iv) não configuração do dissídio em razão da aplicação da Súmula 7/STJ; v) ausência de indicação do dispositivo de lei sobre o qual se teria dado interpretação divergente; e vi) aplicação da Súmula 5 desta Corte.
+No entanto, da leitura do agravo em recurso especial, observa-se que o agravante deixou de impugnar os fundamentos da decisão estadual relativos à aplicação da Súmula 83/STJ; à ausência de configuração do dissídio baseado na aplicação da Súmula 7/STJ; à falta de indicação do dispositivo de lei sobre o qual se teria dado interpretação divergente; e à incidência da Súmula 5 desta Corte.
+Desse modo, não havendo a impugnação consistente de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (um mil) reais.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
