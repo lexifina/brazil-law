@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 325/326, que não conheceu do recurso.
+Sustenta a parte embargante que "após farta jurisprudência e o próprio artigo 1.007 § 4º do Código de Processo Civil, ficou demonstrada a oportunidade do embargante em juntar o preparo superando a deserção, tornando a r.decisão obscura e confusa dificultando o entendimento do embargante, pois esse julgador apesar de fundamentar-se no novo Código de Processo Civil, impossibilitou o embargante de juntar ao recurso especial as custas do preparo" (fl. 333).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento. Assim, incidiu na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Ao contrário do afirmado, houve oportunidade para regularização. Registre-se que foi percebido, no tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte (fls. 232/236). Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
