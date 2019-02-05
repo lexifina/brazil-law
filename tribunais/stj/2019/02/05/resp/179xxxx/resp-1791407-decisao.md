@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. CONTRATO DE TRABALHO TEMPORÁRIO. FGTS. AFERIÇÃO DE NULIDADE. ANÁLISE DE PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, nesses termos ementado (fl. 149):
+ADMINISTRATIVO E TRABALHISTA. CONTRATAÇÃO DE SERVIDORA, PELO MUNICÍPIO DE CABO FRIO, COM FULCRO NO REGIME TEMPORÁRIO RELACIONADO A EXCEPCIONAL INTERESSE PÚBLICO, EX VI DO ART. 37, IX, DA CRFB. AÇÃO DE COBRANÇA DE VERBAS LABORAIS AJUIZADA APÓS A EXTINÇÃO DO AJUSTE. CORRETO RECONHECIMENTO DO DIREITO AO RECEBIMENTO DAS VERBAS ATINENTES AO DÉCIMO TERCEIRO SALÁRIO E ÀS FÉRIAS ACRESCIDAS DE UM TEÇO RELATIVAS AO PERÍODO TRABALHADO, OBSERVADA A PROPORCIONALIDADE QUE SE APLICA AO CASO. CONTRATO QUE NÃO FOI DECLARADO NULO. INAPLICABILIDADE AO CASO DO ART. 19-A DA LEI N. 8.036/90 E DO ENUNCIADO 363 DO TST. IMPOSSIBILIDADE DE TRANSMUDAÇÃO DO REGIME JURÍDICO. RECOLHIMENTO DA TAXA JUDICIÁRIA QUE SE IMPÕE, JÁ QUE NÃO ABRANGIDA PELA ISENÇÃO RELATIVA ÀS CUSTAS. AFASTADA A COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, [NOME] A SENTENÇA FOI PROLATADA SOB A ÉGIDE DO NCPC. RECURSO DO RÉU CONHECIDO E DESPROVIDO. RECURSO DA AUTORA PROVIDO EM PARTE.
+Os embargos de declaração apresentados na origem foram providos por julgado assim sintetizado (fl. 183):
+EMBARGOS DE DECLARAÇÃO. RECONHECIMENTO DA SUCUMBÊNCIA. MÍNIMA DA PARTE AUTORA EQUIVOCADO. ACOLHIMENTO APENAS DO PEDIDO RELATIVO ÀS FÉRIAS PROPORCIONAIS PELOS PERÍODOS AQUISITIVOS DE 2011 A 2014, COM O ACRÉSCIMO DO TERÇO CONSTITUCIONAL. DESPROVIMENTO TANTO DO PEDIDO RELATIVO AO FGTS QUANTO ÀS PARCELAS DE 13º SALÁRIO. IMPERIOSO O RESTABELECIMENTO DA SUCUMBÊNCIA RECÍPROCA, NOS TERMOS DA SENTENÇA APELADA, COM EXCLUSÃO APENAS DA COMPENSAÇÃO DE HONORÁRIOS. ACOLHIMENTO DOS EMBARGOS.
+Nas razões do especial, a recorrente sustenta, além da divergência jurisdicional, violação do art. 19-A da Lei n. 8.036/1990 e do art. 489, § 1º, do CPC/2015. Assevera que o contrato de trabalho exercido com a fazenda é nulo de modo que deve receber FGTS pelo tempo em que laboral.
+Apresentadas contrarrazões às fls. 210/216.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Não se pode conhecer da violação do art. 489, § 1º, do CPC/2015, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação precisa de como esse dispositivo foi violado. Incide, no caso, a Súm. n. 284/STF.
+O Tribunal de origem declarou a contratação temporária realizada nos termos previstos pela Constituição Federal. Salientou, então, ausência de nulidade do vínculo entre as partes. Confira-se (fl. 152):
+Com efeito, a autora foi nomeada em 14.04.2003 para ocupar cargo de cozinheira da estrutura administrativa da edilidade de Cabo Frio e foi exonerada em 31.12.2014.
+Contudo, o ajuste possui natureza temporária e se fulcra em situação de excepcional interesse público (cozinheira), nos moldes do que estabelece o art. 37, IX, da CF, regulamentado pela Lei Federal 8.745/93 e, no âmbito do município de Cabo Frio, pela Lei nº 2.178/2009, conforme fls. 19/20, indexador 000013.
+Assim, a autora se submete à relação laboral de natureza estatutária e legal, sendo inaplicáveis as regras da CLT ao caso, como já decidiram os pretórios superiores.
+Logo, o provimento da pretensão recursal, quanto ao recebimento de FGTS, depende de exame probatório dos autos com o fim de aferir eventual nulidade do contrato de trabalho temporário. Essa tarefa não é possível nos termos da Súm. n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
