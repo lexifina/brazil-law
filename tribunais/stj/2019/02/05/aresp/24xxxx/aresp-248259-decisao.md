@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de agravos interpostos pela TRANSPORTES LARA LTDA. - ME e pela FAZENDA NACIONAL, que objetiva a admissão de recursos especiais contra acórdão do Tribunal Regional Federal da 4ª Região.
+Em seu recurso, o particular alega violação dos arts. 151 e 173 do CTN, aduzindo a existência de decadência tributária.
+A FAZENDA PÚBLICA aduz em seu arrazoado:
+a) violação do art. 535 do CPC/1973, por considerar obrigatória a integração pedida nos embargos de declaração, pertinente à existência de auto de infração a caracterizar infração da lei;
+b) violação do art. 135 do CTN, ao argumento de que a existência de auto de infração caracteriza, por si só, a existência de infração da lei capaz de autorizar o redirecionamento.
+Contra contraminuta.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de execução fiscal em que oposta exceção de pre-executividade, arguindo ilegitimidade passiva do sócio e decadência tributária.
+No primeiro grau de jurisdição, foi deferida a exceção e extinta a execução fiscal em razão da decadência, bem como afastada a responsabilidade do sócio.
+Irresignadas, as PARTES interpuseram recursos de apelação. O Tribunal a quo deu provimento à apelação da FAZENDA para afastar a decadência, mas manteve afastada a responsabilidade do sócio.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 495-499):
+Decadência/Prescrição
+Primeiramente, no que pertine à juntada de documentos pela União com o recurso de apelação, saliento que, referindo-se eles à decadência, cabível o seu conhecimento, porquanto se trata de matéria de ordem pública, podendo, inclusive, ser declarada de oficio pelo juiz.
+A decadência diz respeito ao tempo que o Pisco possui para constituir o crédito tributário, não havendo hipóteses de suspensão e interrupção do prazo previsto legalmente. A prescrição.refere-se ao lapso temporal que dispõe para lançar mão do instrumento processual para cobrança, Aqui cabem situações de suspensão e interrupção do transcurso do prazo.
+A prescrição obedece o disposto rio art. 174 do CTN. inicia-se com a constituição definitiva do crédito e é interrompida pela citação pessoal do devedor, nos termos da redação original do parágrafo único, inciso I desse dispositivo legal.
+A partir da vigência da Lei Complementar n. 118 de 09/02/2005 que modificou o artigo 174, § único, I, do CTN, o marco interruptivo da prescrição passou a ser o despacho que determinar a citação. O regramento é aplicável somente às ações ajuizadas a partir de 09/06/2005. data do término da "vacatio legis" dessa Lei Complementar, a qual só pode ter eficácia prospectiva afastada a aplicação retroativa prevista no art. 4o desta norma, pois de natureza processual, incidindo a partir do seu vigor aos atos futuros, individualmente falando.
+No caso, o crédito tributário diz respeito ao Imposto de Renda relativo a 12/1993.
+No que pertine á decadência, é aplicável ao débito exequendo o que prevê o artigo 173 do Código Tributário Nacional, in verbis:
+ ..
+A teor do art. 173, II, do CTN, o direito de a Fazenda Pública constituir o crédito tributário extingue-se após cinco anos contados da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado.
+Consta da certidão de dívida ativa que os créditos foram constituídos mediante auto de infração; com lançamento suplementar em 26/09/2001
+A União sustenta, em seu apelo, a não ocorrência,da decadência, porquanto houve discussão administrativa a respeito do débito, a qual findou por anular o primeiro lançamento; ínterim no qual não se computa o prazo decadencial.
+O exame dos autos (documentos de fls. 217/371) permite verificar que o lançamento inicial foi realizado por. Notificação de Lançamento Suplementar emitida em 17/01/1997, dentro, portanto, do prazo decadencial de cinco anos a contar do fato gerador do tributo, conforme cópias de documentos relativas ao processo administrativo nº 10980.002363/97-52, do qual se originou.
+o segundo processo administrativo autuado sob o nº 10980.006949/2001-70.
+A empresa executada .ofereceu impugnação administrativa, a qual foi considerada intempestiva, vindo em sequência decisão que indeferiu o pedido de retificaçao do lançamento, declarando a nulidade da primeira notificação (fl.284).
+A decisão proferida no segundo processo administrativo esclarece que "o presente lançamento é decorrente de outro, efetuado por meio de Notificação de Lançamento Suplementar emitida em 17/01/1997 (fls. 55/61 do processo apensado de nº 10980.002363/97-52) a qual foi anulada pela decisão, da IMF em Curitiba PR de, fls. 841/85 do referido processo em face de vício formal, no caso, ,a falta do nome, cargo e matrícula da autoridade responsável pela notificação, sem prejuízo da emissão de novo documento autuatório na forma prevista na lei, o que ocorreu em 28/08/2001, por meio da notificação de lançamento suplementar de fls. 01/07.
+Como se vê, havendo discussão administrativa do débito, não há falar em fluência do prazo decadencial ou prescricional, pois suspensa está a exigibilidade, do crédito tributário (art. 151, III, CTN).
+Todo o procedimento administrativo de Constituição definitiva do crédito foi encerrado apenas em 26/09/2001, com a decisão prolatada pela Primeira Câmara do Primeiro Conselho de Contribuintes, que negou provimento ao recurso interposto pela executada.
+Assim, não há decadência a ser declarada na espécie.
+No que pertine à prescrição, iniciando-se o prazo prescricional em 26/09/2001. poderia a Fazenda Pública cobrá-lo até 26/09/2006.
+O prazo prescricional só se interrompe com a citação pessoal do devedor (art. 174, parágrafo único, I, do CTN, na redação anterior à vigência da Lei Complementar 118/2005).
+A executada foi citada em 19/08/2005. quando ainda não evidenciada a extinção do direito de cobrança do crédito pela precrição.
+Redirecionamento
+O executado alega que não é parte legítima para figurar no polo passivo da execução fiscal. O mero inadimplemento do tributo não caracteriza infração legal.
+Apenas a atuação das pessoas delicadas nos incisos do art. 135 do CTN com dolo, excesso de poderes ou, infração à lei, contrato social ou estatutos efetivamente possibilitaria" o redirecionamento do, feito executivo à pessoa do sócio. Tal posicionamento,, inclusive, foi recentemente sumulado pelo STJ:
+ ..
+Na hipótese dos autos, a exequente não demonstrou a ocorrência de qualquer anomalia caracterizadora de gestão ilícita.
+Não fosse isso, houve dissolução regular da empresa por força de processo de falência, conforme documentação de, fl. 237. Não há falar em casos tais, em dissolução irregular da sociedade, não obstante tenha o representante legal da executada afirmado que a empresa executada havia paralisado suas atividades. Nesse sentido:
+ ..
+Assim, à falta de evidências concretas, dolus malus, fraude ou excesso de poderes a motivar o inadimplemento tributário ou mesmo dissolução irregular da pessoa jurídica, é de se afastar o excipiente do pólo passivo da execução fiscal.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+1. DO RECURSO DA FAZENDA
+a) DA VIOLAÇÃO DO ART. 535 DO CPC/1973
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese defendida pelo recorrente.
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão, em especial acerca da insuficiência do auto de infração para caracterizar infração da norma a autorizar o redirecionamento da execução fiscal com fundamento no art. 135 do CTN.
+Dessa forma, correta a rejeição dos embargos de declaração, ante a inexistência de omissão, contradição ou obscuridade a ser sanada, e, por conseguinte, deve-se concluir pela ausência de ofensa ao art. 535 do CPC/1973.
+b) DA VIOLAÇÃO DO ART. 135 DO CTN
+Inicialmente, impõe-se a observação do entendimento consolidado nesta Corte, expressado na redação da Súmula 430 do STJ: "O inadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade solidária do sócio-gerente."
+Com efeito, o entendimento expressado por esta Corte reforça a necessidade de o órgão julgador analisar, quando da apreciação de pedido de redirecionamento da execução fiscal, a existência das circunstâncias descritas no art. 135 como autorizadoras da responsabilização dos sócios, diretores e gerentes, das sociedades empresárias, especialmente quanto à demonstração da atuação com excesso de poderes ou em violação da lei, do estatuto ou do contrato social.
+Anote-se, ademais, que a dissolução irregular da sociedade empresária constitui ato que determina o redirecionamento da execução fiscal ao sócio-gerente. Essa é a orientação reafirmada pela Primeira Seção do Superior Tribunal de Justiça nos autos do REsp n. 1.371.128/RS, julgado sob o rito dos recursos especiais representativos de controvérsia repetitiva, aplicada, inclusive, à cobrança de dívida ativa não tributária.
+Sobre o tema, provocada a se manifestar, esta Corte Superior consolidou o entendimento no sentido de que, havendo dissolução da sociedade empresária pela via da falência, não há falar em irregularidade na dissolução e de que somente é possível o redirecionamento para o patrimônio dos sócios gerentes, acaso comprovada a prática de atos com excesso poderes ou infração da lei.
+No mesmo sentido:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Em relação à indicada violação do art. 1.022, II, do CPC/2015 pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja a tese de que o prazo prescricional somente inicia com o encerramento do processo falimentar, tendo o julgador abordado a questão explicitamente, afastando a referida tese. II - Não há violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.
+III - Na hipótese de processo falimentar, o Superior Tribunal de Justiça já decidiu no sentido de que a falência não equivale a dissolução irregular da empresa e que somente quando esgotados os bens da sociedade empresária falida é que a execução pode ser redirecionada para o patrimônio dos sócios gerentes, caso comprovada a prática de atos com excesso poderes ou infração à lei. Nesse sentido: AgRg no AREsp 128.924/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/8/2012, DJe 3/9/2012; AgRg nos EDcl no REsp 1227953/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 26/04/2011, DJe 03/05/2011.
+IV - Nesse panorama, considerando o termo a quo o encerramento do processo falimentar, ocorrido em 21.3.2007, tem-se por afastada a prescrição.
+V - Agravo interno improvido.
+(AgInt no REsp 1.648.735/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 01/03/2018, DJe 06/03/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.
+VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REGULAR PROCESSO DE FALÊNCIA. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. INCABÍVEL.
+PRECEDENTES.
+1. Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito da questão.
+2. Esta Corte firmou o entendimento de que o encerramento da empresa executada, mediante regular processo de falência, devidamente registrado perante a Junta Comercial, não legitima o redirecionamento da Execução Fiscal, acaso não comprovado comportamento fraudulento, a prática de atos com excesso de poder, violação à lei, ao contrato ou ao estatutos sociais. Precedente: AgRg no AREsp 524935/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 27/05/2016.
+3. Agravo interno não provido.
+(AgInt no REsp 1.429.931/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017).
+Na hipótese dos autos, a Corte regional indeferiu o pleito de redirecionamento da execução fiscal ao argumento de que não se verificava nenhuma das circunstâncias autorizadoras da responsabilização dos sócios na forma do art. 135 do CTN, uma vez não ser possível o redirecionamento pelo mero inadimplemento de obrigação tributária e por não ser possível o reconhecimento da irregularidade da dissolução societária, tendo em vista a submissão ao procedimento legal da falência, forma regular de extinção do ente societário.
+Dessarte, considerado o delineamento fático realizado pelo órgão judicial a quo, deve-se reconhecer que o recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, porquanto, além de o acórdão recorrido estar em conformidade com a orientação jurisprudencial deste Tribunal Superior, não há como se revisar a sua conclusão sem o reexame de fatos e provas.
+2. DO RECURSO DO PARTICULAR
+Compulsando-se os autos, extrai-se que a Corte regional consignou não ter se configurado decadência tributária, uma vez que, conforme estabelece o art. 173, II, do CTN, não se teria decorrido prazo superior a cinco anos da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado:
+A teor do art. 173, II, do CTN, o direito de a Fazenda Pública constituir o crédito tributário extingue-se após cinco anos contados da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado.
+Consta da certidão de dívida ativa que os créditos foram constituídos mediante auto de infração com lançamento suplementar em 26/09/2001
+A União sustenta, em seu apelo, a não ocorrência,da decadência, porquanto houve discussão administrativa a respeito do débito, a qual findou por anular o primeiro lançamento; ínterim no qual não se computa o prazo decadencial.
+O exame dos autos (documentos de fls. 217/371) permite verificar que o lançamento inicial foi realizado por. Notificação de Lançamento Suplementar emitida em 17/01/1997, dentro, portanto, do prazo decadencial de cinco anos a contar do fato gerador do tributo, conforme cópias de documentos relativas ao processo administrativo nº 10980.002363/97-52, do qual se originou.
+O segundo processo administrativo autuado sob o nº 10980.006949/2001-70.
+A empresa executada ofereceu impugnação administrativa, a qual foi considerada intempestiva, vindo em sequência decisão que indeferiu o pedido de retificaçao do lançamento, declarando a nulidade da primeira notificação (fl.284).
+A decisão proferida no segundo processo administrativo esclarece que "o presente lançamento é decorrente de outro, efetuado por meio de Notificação de Lançamento Suplementar emitida em 17/01/1997 (fls. 55/61 do processo apensado de nº 10980.002363/97-52) a qual foi anulada pela decisão, da IMF em Curitiba PR de, fls. 841/85 do referido processo em face de vício formal, no caso, ,a falta do nome, cargo e matrícula da autoridade responsável pela notificação, sem prejuízo da emissão de novo documento autuatório na forma prevista na lei, o que ocorreu em 28/08/2001, por meio da notificação de lançamento suplementar de fls. 01/07.
+Como se vê, havendo discussão administrativa do débito, não há falar em fluência do prazo decadencial ou prescricional, pois suspensa está a exigibilidade, do crédito tributário (art. 151, III, CTN).
+Todo o procedimento administrativo de Constituição definitiva do crédito foi encerrado apenas em 26/09/2001, com a decisão prolatada pela Primeira Câmara do Primeiro Conselho de Contribuintes, que negou provimento ao recurso interposto pela executada.
+Assim, não há decadência a ser declarada na espécie.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo sobre a questão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo da FAZENDA NACIONAL para NÃO CONHECER do seu recurso especial; CONHEÇO do agravo do particular para NÃO CONHECER do seu recurso especial.
+Publique-se. Intimem-se.
