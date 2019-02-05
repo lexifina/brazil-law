@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Goiás confirmou o entendimento do Juízo no tocante à ausência de caráter confiscatório da multa tributária aplicada, consignando razoável o percentual de 60%, observada a legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 150, inciso IV, da Constituição Federal. Afirma abusivo o percentual da aludida penalidade, a caracterizar o confisco vedado no texto constitucional.
+    2. Quanto ao percentual de 60% da multa aplicada, a decisão recorrida está em harmonia com precedentes do Supremo – ação direta de inconstitucionalidade nº 551/RJ, relator ministro Ilmar Galvão, com acórdão publicado no Diário da Justiça de 14 de fevereiro de 2003, e recurso extraordinário nº 582.461/SP, relator ministro Gilmar Mendes, julgado sob o ângulo da repercussão geral, com acórdão veiculado no Diário da Justiça de 18 de agosto de 2011.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Com efeito, verifica-se que as multas aplicadas nas Cédulas de Dívida Ativa, no importe de 60% (sessenta por cento) sobre o valor do tributo, a teor do que disciplinado pelo artigo 71, inciso I, alínea ‘a’, do Código Tributário Estadual (Lei nº 11.651/91), possuem natureza punitiva.
+    Destarte, pelo que se apura, a penalidade consubstanciada na multa é destinada ao contribuinte omisso e inadimplente, cujo intuito, além de punitivo, configura forma de refrear a sonegação fiscal. Ademais, importante anotar, ainda, que as multas aplicadas, no patamar de 60% (sessenta por cento) não afrontam o princípio proibitivo do não confisco (art. 150, inciso IV, da Constituição Federal), porquanto a aplicação de multa, por atraso de pagamento de imposto, em percentual inferior ou até mesmo igual ao do débito principal não constitui, de per si, confisco e tampouco mostra-se desarrazoada ou abusiva, nem ofensiva ao princípio da capacidade contributiva.
+    Assim, evidenciado que a multa aplicada, com fundamento no artigo 71, inciso I, alínea ‘a’, do Código Tributário Estadual (Lei nº 11.651/1991) possui natureza punitiva e não afronta o princípio do não confisco, mister se faz mantida a decisão objurgada.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
