@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. ARTS. 458 E 535 DO CPC/1973. INOVAÇÃO RECURSAL NOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. NÃO CABIMENTO. INEXISTÊNCIA DE VÍCIOS. DISPOSITIVOS LEGAIS APONTADOS VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. ALEGAÇÕES GENÉRICAS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela FAZENDA NACIONAL, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 55 e-STJ):
+Agravo de instrumento. Falência. Impugnação de crédito. Contribuição previdenciária da cota do empregado. Descaracterização de crédito tributário. Agravo a que se nega provimento.
+Embargos de declaração opostos e rejeitados (fl. 72 e-STJ).
+No recurso especial, a recorrente aponta negativa de vigência ao art. 485 e 535, I e II, do CPC/1973, ao argumento de que a Corte de origem se omitiu sobre a alegação de que o valor que o credor trabalhista habilita na falência é o montante líquido apurado na ação trabalhista e, portanto, já descontado o percentual da contribuição previdenciária, o que também demonstra contradição no acórdão que consignou que os valores da contribuição previdenciária integram o valor do cálculo, sendo cabíveis os descontos na data do efetivo pagamento.
+Sustenta contrariedade aos arts. 46 da Lei n. 8.541/1992 e 20, 28, I, e 30, I, a e b, da Lei n. 8.212/191 alegando, em suma, que o fato gerador da exação é a prestação do serviço decorrente da relação de emprego e deve ser paga pelo ora falido, porque o fato gerador da contribuição social devida pelo empregado já ocorreu e o credor trabalhista vai habilitar apenas o valor líquido do seu crédito.
+Contrarrazões a fls. 88-92 e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+Afasta-se a apontada ofensa aos arts. 485 e 535, I e II, do CPC/1973.
+A tese jurídica sobre a qual a recorrente aponta omissão e contradição veio a ser suscitada somente em embargos de declaração opostos após o julgamento do recurso da apelação, configurando indevida inovação recursal, incabível em sede de recurso integrativo.
+Ora, a falta de manifestação do órgão julgador de questão não arguida no momento oportuno e sobre a qual se consumou a preclusão não configura nenhum dos vícios do arts. 485 e 535 do CPC/1973. Inexistem, pois, omissão ou contradição a ensejar o retorno dos autos à Corte de origem.
+Quanto aos arts. 20 e 28, I, da Lei n. 8.212/1991, não houve juízo de valor pela Corte de origem, razão pela qual não se conhece do recurso por falta de cumprimento do requisito de prequestionamento. Incidência da Súmula 282/STF.
+Na espécie, a Corte de origem afastou, naquele momento, a obrigação do recolhimento da contribuição previdenciária com relação à quota parte do empregado, ao entendimento de que o desconto deve ser feito quando houver o pagamento dos valores ao trabalhador, destacando, a respeito, trecho do parecer do perito contador, referendado pelo administrador judicial, no sentido de que ""referidos descontos serão cabíveis na data do efetivo pagamento ao credor" (fl. 31)" (fls. 56/57 e-STJ).
+Ocorre, contudo, que a recorrente não impugna especificamente os fundamentos adotados pela Corte de origem para a solução da demanda - por si só capazes de manter o resultado da decisão -, bem como as razões recursais se apresentam genéricas, incapazes de demonstrar em que medida a Corte de origem teria incorrido em violação dos dispositivos legais citados. Aplica-se à espécie o teor de ambas as Súmulas 283/STF e 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
