@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por VANDERLEI FIDÊNCIO DA SILVA, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 71):
+AGRAVO DE INSTRUMENTO - AUSÊNCIA DE PEÇAS NECESSÁRIAS - INSTRUÇÃO DEFICIENTE DO RECURSO VIOLAÇÃO AO ARTIGO 525 DO CÓDIGO DE PROCESSO CIVIL - INADMISSIBILIDADE.
+A falta de peças tidas como necessárias à correta apreciação da controvérsia, da mesma forma que as obrigatórias c facultativas, impõe o não conhecimento do agravo.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 165, 511, caput, 518, caput e § 2º, 535, II, do CPC/73; 5º, LV, 37, caput, 93, IX, da CF; 2º, parágrafo único, da Lei Estadual n. 11.608/03 e à Súmula 178/STJ. Sustenta que "os documentos previdenciários do autor em nada vinculariam ou impediriam o julgamento do agravo de instrumento que discute a ausência do porte de remessa e retorno" (fl. 146).
+É o relatório.
+A irresignação não comporta acolhida.
+Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, LV, 37, caput, 93, IX, da Constituição Federal.
+Quanto à alegação de afronta ao art. 2º, parágrafo único, da Lei Estadual n. 11.608/03, é de se ressaltar que o exame de dispositivos de legislação local em recurso especial não se revela possível, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+No caso, o Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 165, 511, caput, 518, caput e § 2º, do CPC/73, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+De outro lado, é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
