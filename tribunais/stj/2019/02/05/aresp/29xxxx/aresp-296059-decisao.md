@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo, interposto por PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/73, assim ementado:
+"DIREITO TRIBUTÁRIO. IMPOSTOS. ISS. EMBARGOS À EXECUÇÃO FISCAL.
+Recolhimento do ISS, via alíquota fixa, por sociedade de prestação de serviços de contabilidade. Impossibilidade, no caso concreto, pois ausente a responsabilidade pessoal dos profissionais associados. ISS sobre exportação de serviços.
+Ausência de prova de que o resultado foi produzido no exterior. Exclusão da base de cálculo dos serviços não prestados no município exequente. Não caracterização do conceito de estabelecimento prestador em outros municípios.
+Apelo improvido" (fl. 1.101e).
+Opostos embargos de declaração (fls. 1.118/1.126e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 12, 15 e 28 do Decreto 9.295/46, 966, parágrafo único, 982, 967, 1.150, 983, 997, inciso IV e VII e 1.008 do Código Civil, 97, incisos I e IV, e 110 do CTN, sustentando, em síntese, que possui direito a recolher o ISS com base na alíquota fixa.
+Transcorrido in albis o prazo para apresentação de contrarrazões, foi o Recurso Especial inadmitido na origem (fls. 1.417/1.419e), daí a interposição do presente Agravo (fls. 1.450/1.465e).
+Não houve contraminuta.
+A irresignação não merece acolhimento.
+Com efeito, este Superior Tribunal de Justiça possui entendimento consolidado no sentido de que "a tributação privilegiada do ISS exige que a sociedade uni ou pluriprofissional preste serviço em caráter personalíssimo sem intuito empresarial" (STJ, EDcl no AgRg no AREsp 155.844/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de19/10/2017).
+Entretanto, no caso, o Tribunal de origem, ao analisar a presente demanda, expressamente consignou que a ora agravante possui natureza de sociedade empresarial, impossibilitando sua fruição do benefício da tributação do ISS pela alíquota fixa.
+Dessa forma, de rigor a manutenção do acórdão recorrido, uma vez que possuindo caráter de sociedade empresarial a ora recorrente não faz jus ao benefício fiscal ora pleiteado.
+Ressalta-se, por oportuno, que derruir a convicção exposta no acórdão recorrido demandaria, necessariamente, a incursão no acervo probatório dos autos, providência vedada pela Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 535, I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. NULIDADE DA CDA. SÚMULA 7/STJ. ISS. SOCIEDADE LIMITADA. CARÁTER EMPRESARIAL. NÃO INCIDÊNCIA DO ART. 9º, §§ 1º E 3º, DO DECRETO-LEI N. 406/68. TRATAMENTO TRIBUTÁRIO PRIVILEGIADO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ.
+(..)
+4. A jurisprudência da Primeira Seção desta Corte Superior é uniforme no sentido de que o benefício da alíquota fixa do ISS a que se refere o art. 9º, §§ 1º e 3º, do Decreto-Lei n. 406/68, somente é devido às sociedades uniprofissionais que tenham por objeto a prestação de serviço especializado, com responsabilidade pessoal dos sócios e sem caráter empresarial (AgRg nos EREsp 1.182.817/RJ, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 22/8/2012, DJe 29/8/2012).
+5. A análise quanto à natureza jurídica da sociedade formada pela empresa recorrente pressupõe o reexame de seus atos constitutivos e das demais provas dos autos, o que é vedado na via do recurso especial, ante os óbices das Súmulas 5 e 7 do STJ. Precedentes: AgRg nos EDcl no Ag 1.367.961/PR, Rel. Ministro Castro Meira, Segunda Turma, DJe 3/11/2011; AgRg no Ag 1.345.711/PR, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 11/03/2011; AgRg no Ag 1.221.255/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/2/2010; AgRg no REsp 1.003.813/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 2/9/2008, DJe 19/9/2008; REsp 555.624/PB, Rel. Ministro Franciulli Netto, Segunda Turma, DJ 27/9/2004.
+6. Agravo regimental a que se nega provimento" (STJ, AgRg nos EDcl no REsp 1445260/MG, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe de 28/03/2016).
+Outrossim, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que, in verbis:
+"Por outro lado, não há que se falar em excesso de execução, em face da não incidência de ISS sobre a exportação de serviços, pois para configuração da exceção necessário a prova de que resultado do serviço tenha sido produzido no exterior, ônus do qual não se desincumbiu a embargante.
+(..)
+No caso dos autos, ainda que o serviço não tenha sido prestado no Município de Porto Alegre, inexistiu demonstração de que a apelante possua "estabelecimento prestador" noutros municípios" (fl. 1.106/1.111e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nesta extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
