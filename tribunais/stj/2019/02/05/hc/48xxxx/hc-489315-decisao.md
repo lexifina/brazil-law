@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME], contra sentença da lavra do Juízo da 10ª Vara Criminal da comarca de Goiânia (GO), no julgamento da Ação Penal n. 359363-17.2016.8.09.0175.
+O paciente foi condenado, pela prática dos crimes descritos nos arts. 33 e 35 da Lei n. 11.343/2006, às penas de 8 anos e 10 meses de reclusão em regime inicial fechado e de 1.287 dias-multa, tendo sido determinada a manutenção de sua segregação cautelar
+Requer o impetrante, liminarmente, seja concedida liberdade provisória ao paciente em respeito ao princípio da isonomia, considerada a identidade fática e circunstâncias pessoais entre os corréus, bem como tendo em vista a afronta ao art. 2º, II, da Lei n. 9.296/96, visto que haveria possibilidade de produção de provas por outros meios disponíveis. Pleiteia também a suspensão da ação penal, que está em fase de recurso de apelação, por suposta afronta ao princípio da repercussão geral.
+No mérito, pede a concessão da ordem para que seja declarada a nulidade absoluta do processo, bem como das provas produzidas com amparo em interceptações telefônicas deferidas com base exclusivamente em denúncia anônima, com a consequente expedição de alvará de soltura.
+É o relatório. Decido.
+No HC n. 484.015/GO, distribuído ao Ministro Jorge Mussi em 10/12/2018, foi formulada idêntica pretensão, tendo sido indeferido liminarmente o habeas corpus ante a incompetência do Superior Tribunal de Justiça para apreciação do writ, considerada a ausência de ato coator sujeito à jurisdição desta Corte.
+A presente impetração é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir. Além disso, ambos impugnam o mesmo acórdão e a mesma matéria, inexistindo alteração fático-processual que justifique a reapreciação do julgado proferido pelo STJ.
+Conclui-se pela inadmissibilidade do presente habeas corpus, porquanto não se pode conhecer de impetração que é mera reiteração de writ já apreciado por este Tribunal Superior (AgRg no HC n. 286.354/AC, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 23/5/2014, AgRg no HC n. 418.281/RN, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 8/3/2018).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se. Intimem-se.
