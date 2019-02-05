@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 486.281, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que os pacientes Almir, Anderson, Robson e Wilson foram presos preventivamente e condenados, respectivamente, às penas de 10 anos e 9 meses de reclusão, em regime inicial fechado, e multa; 11 anos, 11 meses e 20 dias de reclusão, em regime inicial fechado, e multa; 9 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e multa; e 11 anos de reclusão, em regime inicial fechado, e multa; pela prática dos crimes previstos nos arts. 288, caput, 155, § 4º, II e IV, 155, § 4º, II e IV, c/c o art. 14, II, na forma do art. 71, todos do Código Penal.
+    3. Contra a manutenção da prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Paraná. O writ foi denegado.
+    4. Em seguida, sobreveio impetração de habeas corpus no Superior Tribunal de Justiça. O Relator, Ministro Nefi Cordeiro, indeferiu a liminar.
+    5. Neste habeas corpus, a defesa sustenta, em síntese, que “a denúncia não tem suporte fático e amparo jurídico legal, sendo totalmente improcedente”; que os “fatos narradas na denúncia e peça policial não correspondem com a verdade”; e que “a decisão que negou o direito dos Pacientes apelarem em liberdade é carente de fundamentação, sem justificação plausível e idônea”.
+    6. Prossegue a impetração para afirmar que as “situações dos Pacientes são idênticas ao réu DAVI DOS SANTOS, o qual foi beneficiado pelo direito de apelar em liberdade”; e que os pacientes estão “presos desde novembro de 2017 (mais de um ano)”.
+    7. Com esses argumentos, a defesa requer “a decretação das liberdades provisórias/revogações das prisões preventivas em favor dos Pacientes e as expedições dos competentes alvarás de soltura”.
+    Decido.
+    8. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento consolidado na Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício, notadamente se se considerar o entendimento do Supremo Tribunal Federal no sentido de que a gravidade em concreto do crime, a periculosidade do agente e o fundado receio de reiteração delitiva justificam a manutenção da custódia cautelar (vg. HC 136.778, Rel. Min. Ricardo Lewandowski; HC 128.779, Rel. Min. Dias Toffoli; HC 135.418, Rel. Min. Gimar Mendes; HC 132.543, Relª. Minª. Rosa Weber).
+    10. No caso de que se trata, tal como assentou a autoridade impetrada, “a sentença apresenta fundamento idôneo para manter a prisão preventiva, consignando que os pacientes formaram um grupo criminoso especializado em causar prejuízos financeiros à idosos e às instituições financeiras relacionadas, por meio da aquisições dos cartões das vítimas e realização de operações com máquinas de cartão em posse da organização, de modo que, a princípio, não se constata ilegalidade”.
+    11. Ademais, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a “alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 05 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
