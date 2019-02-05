@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança, fundada na realização indevida de descontos nos valores recebidos pelas consultas realizadas.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/07/2018.
+Concluso ao gabinete em: 18/12/2018.
+Ação: de cobrança, ajuizada pelo agravante, em face de UNIMED PIRACICABA SOCIEDADE COOPERATIVA DE SERVIÇOS MÉDICOS, fundada na realização indevida de descontos nos valores recebidos pelas consultas por ele realizadas.
+Sentença: julgou procedentes os pedidos para condenar a agravada:
+A) em obrigação de não fazer, consistente em se abster de promover novas glosas nos pagamentos devidos ao autor, sob o fundamento de teto de consultas de acupuntura, obrigação essa a perdurar até que haja válida deliberação interna que estabeleça tal limitação; B) a promover o pagamento dos valores glosados, apontados na petição inicial, com correção monetária desde a data na qual deveriam ter sido pagos, pelos índices da Tabela do Tribunal de Justiça deste Estado, e juros de mora de 1% (um por cento) ao mês contados da citação; C) no reembolso das despesas processuais, corrigidas do desembolso, e em honorários advocatícios de R$ 2.000,00, relativos à condenação em obrigação de não fazer, arbitrados por equidade, uma vez que não há expressão econômica passível de estimativa, com correção monetária pelos índices da Tabela do Tribunal de Justiça deste Estado a contar da data desta sentença; e em mais 15% (quinze por cento) do valor da condenação do item "b" supra. (e-STJ, fls. 597/598)
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+Ação de cobrança - Procedência - Inconformismo - Acolhimento - Alegações de cerceamento de defesa e falta de interesse processual que são infundadas - Glosas efetuadas pela ré sobre os valores de consultas e procedimentos de acupuntura realizados pelo autor acima do limite de 960 atendimentos por mês - Prova documental produzida que demonstra que foi o próprio autor quem propôs limitação ao número de atendimentos por hora e, consequentemente, por mês, tendo se comprometido, perante a ré, a levar tal proposta para deliberação do departamento de acupuntura e mediar eventuais discordâncias internas - Autor que se quedou inerte em cumprir o compromisso assumido, não podendo se beneficiar de sua própria torpeza - Comportamento contraditório, violador da boa-fé objetiva, que também se aplica à relação entre os cooperados e a cooperativa e entre os cooperados - Outros cooperados da área de acupuntura que já vinham observando o limite proposto pelo autor como se norma interna fosse, o que o autor não poderia desconhe cer - Autor que pretende tratamento privilegiado em relação aos demais, também em ofensa à boa-fé objetiva - Limitação que, ademais, é justificada, eis que benéfica aos pacientes - Número de atendimentos superior ao limite discutido que denota atendimento não satisfatório, também justificando as glosas realizadas - Sentença reformada, para julgar improcedente a demanda - Recurso provido.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega haver divergência jurisprudencial, pois teria contrariado decisão proferida pelo Tribunal de origem em processo semelhante.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da divergência jurisprudencial
+O agravante não realizou o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (e-STJ, fl. 662) para 18% do valor atualizado da causa.
+ Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
