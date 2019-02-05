@@ -1,0 +1,43 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. DEFEITO NA PRESTAÇÃO DE SERVIÇO. DESCONTO INDEVIDO NOS PROVENTOS DE APOSENTADORIA DO AUTOR. DANO MORAL. QUANTUM. PROPORCIONALIDADE DO VALOR FIXADO NA ORIGEM. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE ÊXITO NO RECURSO INTERPOSTO. INAPLICABILIDADE DA NORMA. DECISÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. REEXAME DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS Nº 7 E 83 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+FRANCISCO PEDRO DA SILVA (FRANCISCO) ajuizou ação de indenização contra o BCV - BANCO DE CRÉDITO E VAREJO S.A. (BCV) reclamando a reparação por danos decorrentes de descontos indevidos no benefício previdenciário de sua titularidade.
+O juízo de primeiro grau julgou parcialmente procedentes os pedidos, declarando a inexigibilidade dos valores descontados do benefício previdenciário recebido pelo FRANCISCO e condenando o BCV ao pagamento em dobro do valor indevidamente descontado, bem como de indenização por dano moral no patamar de R$ 3.000,000 (três mil reais). Os honorários advocatícios foram fixados em R$ 1.500,00 (mil e quinhentos reais).
+O Tribunal de origem, por sua vez, negou provimento ao apelo do FRANCISCO em acórdão assim ementado:
+E M E N T A - RECURSO DE APELAÇÃO - DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS - MANUTENÇÃO DO VALOR DA COMPENSAÇÃO POR DANOS MORAIS - HONORÁRIOS ADVOCATÍCIOS - ANÁLISE PREJUDICADA.
+01. Manutenção do valor da compensação por danos morais, pois razoável, proporcional e adequado às circunstâncias do caso concreto.
+02. Diante da manutenção do valor da compensação pleiteada, fica prejudicada a análise da insurgência do recorrente contra os honorários advocatícios fixados na sentença.
+Recurso parcialmente conhecido e não provido (e-STJ, fl. 278).
+Os embargos de declaração opostos por FRANCISCO e por [NOME] HUBNER SOCIEDADE INDIVIDUAL DE ADVOCACIA (ADVOGADO) foram rejeitados (e-STJ, fls. 365/367).
+Irresignados, FRANCISCO e o ADVOGADO interpuseram recurso especial, fundado nas alíneas a e c do permissivo constitucional, em que apontaram a violação dos arts. 5º, V, da CF; 12, 186 e 944 do Código Civil; e 85, §§ 2º e 11, do NCPC, sustentando, em síntese, 1) a desproporcionalidade do valor fixado a título de dano moral no caso concreto, e 2) o direito à majoração da verba honorária no caso concreto.
+O apelo especial não foi admitido na origem sob o fundamento de incidência das Súmulas nºs 7 e 83 do STJ e porque o .
+FRANCISCO e o ADVOGADO, então, interpuseram o presente agravo impugnando a incidência dos aludidos óbices sumulares.
+Contraminuta apresentada (e-STJ, fls. 1.054/1.058).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De início, mostra-se inviável o exame da ofensa ao art. 5º da CF, uma vez que a jurisprudência desta Corte é pacífica no sentido de que não cabe ao Superior Tribunal de Justiça apreciar, na via especial, suposta violação de matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Sobre o tema, confiram-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO NÃO PROVIDO.
+ ..  2. Não cabe a análise de afronta a matéria constitucional, ainda que com intuito de prequestionamento.  ..  (EDcl no AREsp 550.307/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 11/11/2014)
+Ademais, de acordo com a jurisprudência desta Corte Superior, somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão (AgInt no AREsp nº 533.370/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 17/12/2018).
+No caso concreto, o acórdão concluiu que o valor fixado na origem seria razoável diante das peculiaridades do caso concreto, consignando que,
+Compete ao magistrado, por falta de parâmetro legal e doutrinário a servir de norte para o arbitramento dos danos morais, a árdua missão de dosar a verba compensatória em situações como a versada. A reparação, por certo, não visa apenas a mitigar os efeitos dos sentimentos negativos sofridos pela vítima, mas também a inibir a reiteração da conduta ilícita perpetrada.
+Nessas circunstâncias, considerando o montante mensalmente descontado do benefício previdenciário do autor (R$ 13,50 e R$ 34,22), a inexistência de restrição em seu nome, o grau de culpa e a força econômica do ofensor; a extensão dos danos causados pela conduta ilícita, o caráter pedagógico da condenação, mantenho o valor da indenização fixada na sentença (R$ 3.000,00), mais do que suficiente para recompensar o desconforto sofrido, sem caracterizar, contudo, o enriquecimento ilícito da vítima. Inclusive, tal valor é superior ao costumeiramente arbitrado por esta Câmara Cível em casos semelhantes (processo n. 0801441-02.2016.8.12.0005 e n. 0801299-62.2016.8.12.0016) (e-STJ, fls. 279/280).
+Logo, não se vislumbrando, na hipótese vertente, nenhum motivo que justifique a intervenção excepcional desta Corte, o apelo nobre esbarra nos rigores contidos na Súmula nº 7 do STJ, pois rever a conclusão a que chegou o acórdão recorrido ensejaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial.
+Da mesma forma, a majoração dos honorários advocatícios com base no art. 85, §§ 2º e 11, do NCPC, pressupõe que a parte recorrente tenha obtido êxito em seu recurso.
+Nesse sentido, destaca-se o seguinte precedente:
+ADMINISTRATIVO. EMPREGADO PÚBLICO. CONTRATAÇÃO TEMPORÁRIA. DIREITO À PERCEPÇÃO DE FGTS. [NOME]. NÃO MAJORAÇÃO. INTERPOSIÇÃO DE RECURSO ESPECIAL NÃO CONSTITUIU TRABALHO ADICIONAL.
+ ..
+V - Com fundamento no art. 85, § 3º, inciso I, c/c o § 5º do CPC/2015, e levando em consideração o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa e o trabalho realizado pelo procurador, bem como o tempo exigido para esse trabalho, fixo os honorários advocatícios em 10% sobre o valor da causa.
+VI - Por outro lado, não cabe a majoração dos honorários advocatícios sucumbenciais, visto que esse acréscimo em fase recursal foi instituído pelo § 11 do art. 85 do CPC/2015 objetivando remunerar o trabalho adicional realizado pelo advogado da parte vencedora, bem como coibir recursos meramente protelatórios.
+VII - No casos dos autos, considerando que a parte agravada sucumbiu desde a primeira instância, a interposição do recurso especial não constituiu trabalho adicional de seu patrono, razão pela qual não cabe a majoração dos honorários advocatícios sucumbenciais. Nesse sentido: AgInt nos EDcl no REsp 1357561/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 04/04/2017, DJe 19/04/2017; AgInt no AREsp 829.107/RJ, Rel. Ministro Antonio Carlos Ferreira, Rel. p/ Acórdão Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2016, DJe 6/2/2017.
+VIII - Agravo interno improvido.
+(AgInt no REsp nº 1.658.473/MG, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 29/8/2018 - sem destaque no original)
+Além disso, a jurisprudência desta Corte converge em relação ao entendimento de que a análise da pretensão recursal sobre a distribuição do ônus da sucumbência, aplicação do princípio da causalidade e o valor dos honorários advocatícios demandaria o reexame do conjunto fático-probatório, o que é inviável nesta via especial (AgInt no AREsp nº 1.320.339/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 07/12/2018).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Não tendo obtido êxito no seu recurso, deixo de majorar os honorários advocatícios fixados em favor dos agravantes.
+Advirta-se, todavia, que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts.1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+
+Publique-se. Intimem-se.
