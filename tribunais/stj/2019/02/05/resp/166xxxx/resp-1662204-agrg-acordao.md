@@ -1,0 +1,34 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 334 DO CÓDIGO PENAL - CPP. CONTRABANDO. OFENSA AOS ARTS. 383 E 384 DO CPP. PRINCÍPIO DA CORRELAÇÃO. VIOLAÇÃO. NÃO OCORRÊNCIA. CONDUTA DELITIVA. FATOS DESCRITOS NA INICIAL ACUSATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se vislumbra a alegada violação dos arts. 383 e 384 do CPP, porquanto a hipótese dos autos demonstra que a denúncia contém a exposição de todos os fatos juridicamente relevantes e necessários à tipificação do delito imputado ao agravante, o que lhe garantiu o pleno exercício da ampla defesa e do contraditório.
+2. O princípio da congruência ou correlação no processo penal estabelece a necessidade de correspondência entre a exposição dos fatos narrados pela acusação e a sentença. Por isso, o réu se defende dos fatos, e não da classificação jurídica da conduta a ele imputada (HC 119.264/STF, PRIMEIRA TURMA, Rel. Ministra ROSA WEBER, DJe de 5/6/2014).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão por mim proferida (fls. 478/481), que negou provimento ao recurso especial em razão de inexistência de ofensa ao princípio da correlação e pela incidência da Súmula n. 283 do Supremo Tribunal Federal - STF.
+O agravante alega que "não foi realizada a narrativa, na inicial acusatória, sobre qualquer tipo de proibição, que perfaz elemento normativo do tipo de contrabando" (fl. 494), sendo genérica a afirmação contida na denúncia.
+Assevera que o crime de contrabando é norma penal em branco e "Ocorre que a narrativa levada a cabo na denúncia não comporta a desclassificação realizada pelo voto condutor na 4ª Seção do TRF-4, com base no art. 383, visto que, conforme já referido, inexistia narrativa da proibição consistente em complemento extrapenal capaz de integrar o tipo. Isto é, nunca foi narrado o elemento normativo de "proibição" na narrativa fática acusatória" (fl. 495), inocorrendo o contraditório.
+Alega que não incide a Súmula n. 283/STF, pois "Se é alegada a ausência de narrativa da "proibição", claramente inclui-se a caracterização da proibição como relativa" (fl. 497), e a desclassificação da conduta desrespeitou o contraditório e o princípio da correlação.
+Requer, por fim, a reconsideração do julgado ou a sua reforma no colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Em que pesem os argumentos veiculados no presente agravo regimental, não há como modificar a decisão ora agravada.
+Consoante consignado na decisão agravada, a instância ordinária entendeu que não ocorreu a alegada violação dos arts. 383 e 384 do Código de Processo Penal - CPP.
+A hipótese dos autos demonstra que a denúncia contém a exposição de todos os fatos juridicamente relevantes e necessários à tipificação do delito imputado ao agravante, o que lhe garantiu o pleno exercício da ampla defesa, não sendo o caso de se oportunizar a manifestação da defesa. A propósito, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALSIFICAÇÃO DE PAPEIS PÚBLICOS. VIOLAÇÃO AO ART. 158 DO CPP. INOCORRÊNCIA. COMPROVAÇÃO DA MATERIALIDADE DELITIVA. OUTROS MEIOS IDÔNEOS DE PROVA. ESPECIALMENTE PROVA DOCUMENTAL. CIRCUNSTÂNCIAS DO CASO QUE AFASTAM A EXIGIBILIDADE DA REALIZAÇÃO DE EXAME DE CORPO DE DELITO. OFENSA AO ART. 384 DO CPP. PRINCÍPIO DA CORRELAÇÃO. OBSERVÂNCIA. EMENDATIO LIBELLI. POSSIBILIDADE. ALTERAÇÃO DA CAPITULAÇÃO JURÍDICA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O rigor da exigência estabelecida no artigo 158 do Código de Processo Penal é mitigado pela norma do artigo 167 do mesmo diploma legal, segundo o qual "não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta.
+2. In casu não foi possível a realização do exame pericial, eis que não juntado aos autos as Guia Nacionais de Recolhimento de Tributos Estaduais- GNR"s contrafeitas, mas apenas cópias destes documentos, impedindo assim, a realização da perícia técnica.
+3. A materialidade do falsum ficou comprovada por meio de ofícios apresentados pela Secretaria da Receita Federal, Secretaria de Estado dos Negócios da Fazenda de São Paulo, pelo Banco do Brasil, bem como extratos da conta corrente da empresa, que contrapunham a informação contida na autenticação mecânica na GNR"s, tornando desnecessário o exame de corpo delito direito.
+4. Aferida a materialidade do delito por outros elementos probatórios idôneos, desnecessário o exame de corpo delito direto, não havendo falar portanto em ofensa ao artigo 158 do Código de Processo Penal.
+5. Este Tribunal sufragou o entendimento no sentido de que não havendo modificação quanto ao fato descrito na exordial acusatória, como a hipótese presente, pode o magistrado dar nova classificação jurídica ao fato definido na denúncia ao prolatar a sentença (emendatio libelli), prescindindo de aditamento da peça exordial ou mesmo de abertura de prazo para a defesa se manifestar, já que o réu se defende dos fatos narrados pela acusação e não dos dispositivos de lei indicados. Incidência do enunciado nº 83 da Súmula desta Corte.
+5. Agravo regimental a que se nega provimento (AgRg no REsp 1.129.640/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 15/2/2013).
+Veja-se também, o seguinte julgado do Supremo Tribunal Federal:
+HABEAS CORPUS. PROCESSUAL PENAL MILITAR E PENAL MILITAR. DENÚNCIA. CRIMES DE ABANDONO DE POSTO E DE ORGANIZAÇÃO DE GRUPO PARA A PRÁTICA DE VIOLÊNCIA. NULIDADE PROCESSUAL. INEXISTÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OCORRÊNCIA. ORDEM CONCEDIDA PARCIALMENTE.
+1. O princípio da congruência ou correlação no processo penal estabelece a necessidade de correspondência entre a exposição dos fatos narrados pela acusação e a sentença. Por isso, o réu se defende dos fatos, e não da classificação jurídica da conduta a ele imputada.
+ ..  (HC 119.264/STF, PRIMEIRA TURMA, Rel. Ministra ROSA WEBER, DJe de 5/6/2014).
+Ademais, anoto que, ainda que superado o óbice da Súmula n. 283/STF, não caberia a desclassificação do delito do art. 18 da Lei n. 10.826/2003 para a conduta prevista no art. 334 do Código Penal - CP (contrabando ou descaminho), em respeito ao princípio da especialidade. Nesse sentido: AgRg no REsp 1.498.667/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 8/5/2017 e AgRg no REsp 1.497.217/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 25/5/2016).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
