@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Companhia Brasileira de Bebidas, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 722):
+Ação declaratória cumulada com pedido de repetição de indébito - Prestação de serviços de energia elétrica - Portaria n. 27/87 do DNAEE - Aumento diferenciado entre as diversas classes de consumo - Ausência de ilegalidade ou ofensa ao princípio da isonomia, não se podendo admitir, por conseguinte, o efeito cascata pretendido na inicial - Empresa demandante que, na época da edição da referida Portaria, sequer exercia suas atividades na Comarca - Decreto de extinção do feito, sem exame do mérito (Código de Processo Civil, artigo 267, VI) - Sentença mantida Recurso improvido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 739/743).
+Alega a recorrente violação do art. 535 do CPC/1973, pois o Tribunal de origem foi omisso quanto às questões suscitadas em embargos de declaração.
+Sustenta contrariedade ao art. 420 do CPC/1973, porquanto houve cerceamento do direito de defesa, uma vez que foi indeferida a produção de prova pericial.
+Aponta ofensa aos arts. 164, III, e 177, § 2º, do Decreto n. 41.019/1957, porque é ilegal a majoração da tarifa de energia elétrica promovida pela Portaria 027/1987, que, sem nenhum critério econômico ou técnico, aplicou aumentos desiguais para consumidores em igual condição, o que fere o princípio da isonomia. Argumenta que houve um aumento injustificado de energia elétrica para os consumidores industriais.
+Sem contrarrazões.
+Parecer do Ministério Público Federal, às e-STJ, fls. 851/861, em que opina pelo não conhecimento do apelo nobre.
+É o relatório.
+Quanto à alegada violação do art. 535 do CPC/1973, verifico que a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+Ademais, o Tribunal de origem extinguiu o feito, sem exame do mérito, por ausência de interesse da recorrente, com amparo no seguinte fundamento (e-STJ, fl. 7725):
+De outra parte, restando demonstrando nos autos que no ano de 1987 a empresa demandante sequer funcionava na Comarca Jaguariúna, passando a exercer suas atividades naquela cidade apena ano de 1992, incontestável a ausência de interesse processual na ação proposta, mostrando-se, por isso, de rigor a extinção do feito, sem exame do mérito (Código de Processo Civil, artigo 267, VI).
+No entanto, a insurgência deixou incólume tal justificativa.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. DETRAN/PE. DEFICIENTE FÍSICO. ALTERAÇÃO DA LEI QUE CONSIDERAVA O CANDIDATO COMO DEFICIENTE, DURANTE O CONCURSO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. DEFICIÊNCIA FÍSICA RECONHECIDA, PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 12/02/2016, contra decisão publicada em 02/02/2016.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). No caso, a parte recorrente deixou de impugnar o fundamento do acórdão recorrido, no sentido de que "a junta médica do certame em apreço aplicou a literalidade do supracitado Decreto 5296/04, o qual não estava em vigor na data da publicação do edital do certame em questão, entendendo pela desclassificação do candidato ora apelante por considerar que a sua surdez bilateral não se enquadrava na previsão de deficiência auditiva". Incidência da Súmula 283/STF.
+III. Ademais, tendo o acórdão recorrido concluído pela existência de perda auditiva bilateral, suficiente a enquadrar o autor como deficiente auditivo, nos termos da lei, aferir a existência da perda auditiva, em Recurso Especial, demandaria o reexame do conteúdo fático-probatório dos autos, providência vedada, em sede de Recurso Especial, ante o óbice da Súmula 7/STJ.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1.504.904/PE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/4/2016, DJe 19/4/2016 - grifos acrescidos)
+In obiter dictum, destaco que esta Corte já se debruçou sobre a controvérsia dos autos e firmou jurisprudência no sentido de que não há ilegalidade no reajuste diferenciado da tarifa de fornecimento de energia elétrica implementado pela Portaria n. 27/1987 do DNAEE, uma vez que está em conformidade com a separação dos consumidores em classes, estabelecida pelos arts. 164, III, e 177, § 2º, do Decreto n. 41.019/1957.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ENERGIA ELÉTRICA. VIOLAÇÃO DO ART. 535 DO CPC INEXISTENTE. TARIFAS DIFERENCIADAS. PORTARIA 27/87 DO DNAEE. CONSUMIDORES DE CLASSES DISTINTAS. LEGALIDADE. PRECEDENTES DESTA CORTE.
+1. Não há violação ao artigo 535 do CPC quando o Tribunal de origem, mesmo sem ter examinado individualmente cada um dos argumentos da recorrente, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese da recorrente.
+2. O acórdão recorrido encontra-se em consonância com o entendimento firmado por esta Corte Superior no sentido de que não há ilegalidade no reajuste diferenciado da tarifa de fornecimento de energia elétrica implementado pela Portaria 27/87 do DNAEE, por estar em conformidade com a separação dos consumidores em classes (residencial, industrial, comercial, rural, etc.), estabelecida pelos arts. 164, III, e 177, § 2º, do Decreto 41.019/57.
+Precedentes: AgRg no AREsp 307.445/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/06/2013; AgRg no REsp 1.326.926/SP, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 06/12/2013; AgRg no REsp 1.347.444/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 04/12/2012; AgRg no AREsp 15.603/SP, Rel. Min. Castro Meira, Segunda Turma, DJe 02/08/2012.
+3. Agravo regimental não provido
+(AgRg no AREsp. 633.506/SP, Rel. Min. BENEDITO GONÇALVES, DJe 15/5/2015)
+ADMINISTRATIVO. ENERGIA ELÉTRICA. TARIFAS DIFERENCIADAS. PORTARIA 27 DE 1987 DO DNAEE. CONSUMIDORES DE CLASSES DISTINTAS. LEGALIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Segundo a jurisprudência do STJ, a discriminação tarifária está em conformidade com a classificação do consumidor em classes (residencial, industrial, comercial, rural etc.), consoante estabelecido pelos arts. 164, III, e 177, § 2o. do Decreto 41.019/1957, de modo que inexiste a apontada ilegalidade regulamentada pela Portaria 27, de 1987, do DNAEE (AgRg no AREsp 15.603/SP, Rel. Min. Castro Meira, Segunda Turma, DJe 2/8/12).
+2. Quanto às demais questões suscitadas nas razões recursais, a agravante limita-se a tecer alegações genéricas, sem indicar de forma clara o dispositivo de lei federal que teria sido vulnerado pelo acórdão recorrido. Incide, na espécie, a Súmula 284/STF, ante a deficiência na fundamentação.
+3. Agravo Regimental não provido
+(AgRg no AREsp. 307.445/SP, Rel. Min. HERMAN BENJAMIN, DJe 12/6/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
