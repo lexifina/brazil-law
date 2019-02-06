@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO. DISCUSSÃO ACERCA DA PRECLUSÃO CONSUMATIVA. TRIBUNAL LOCAL QUE AFASTOU A AUSÊNCIA DE INTERESSE PROCESSUAL, DECORRENTE DE PRECLUSÃO CONSUMATIVA, COM BASE NOS FATOS DA CAUSA. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+DECISÃO
+ESPÓLIO DE GILDA DOS [NOME] (ESPÓLIO) representado por [NOME] ajuizou ação declaratória de falsidade de documento contra [NOME] ([NOME]).
+O juízo de piso extinguiu o feito, sem resolução do mérito, ante o reconhecimento de ausência de interesse processual (art. 485, VI, do NCPC).
+O Tribunal a quo deu parcial provimento ao recurso de apelação, para declarar ausente a preclusão e determinar que a discussão fosse remetida às vias ordinárias, como assentado no acórdão proferido no agravo de instrumento nº 1.0000.15.088653-9/001, nos termos do acórdão a seguir ementado.
+APELAÇÃO CÍVEL - INVENTÁRIO - ARGUIÇÃO DE FALSIDADE DE DOCUMENTO - PRECLUSÃO CONSUMATIVA - EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO - NÃO CABIMENTO - REMESSA DA DISCUSSÃO ÀS VIAS ORDINÁRIA - Diante da complexidade das provas exigidas para deslinde de arguição de falsidade de documento, juntado aos autos de ação de inventário, deve a discussão ser remetida às vias ordinárias, como determinado em acordão do AI nº 1.0000.15.088653-9/001, haja vista não restar configurada a ausência de interesse processual, decorrente de preclusão consumativa (e-STJ, fls. 158).
+Os embargos de declaração foram acolhidos, sem efeitos infringentes, nos, a fim de corrigir erro material existente no acórdão, determinando que conste, como referência do incidente de falsidade, os documentos de ID nº 2078527 (petição) e ID nº 2078873 (inteiro teor do incidente). (e-STJ, fl. 191/196).
+Irresignadas, GISELE DOS [NOME] LEMES e [NOME] (GISELE e [NOME]) manejaram recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 390 do CPC/73 (art. 430 do NCPC), 141 e 492 do NCPC.
+Sustentaram em suma, que (1) o prazo mencionado no art. 430 do do NCPC foi desrespeitado, pois diversamente do que a Turma Julgadora entendeu, o incidente de falsidade não foi apresentado tempestivamente, pois o ora recorrido perdeu o prazo para a arguição; (b) o documento cuja falsidade se arguiu foi juntado ao processo em maio/2015 e a inventariante se manifestou várias vezes nos autos sem impugná-lo; (3) somente em maio/2016 foi ajuizada a ação declaratória de falsidade documental, apesar de a inventariante ter sido intimada sobre a decisão na qual foi ordenada a distribuição do incidente em setembro/2015; (4) a interposição do agravo de instrumento não impede a ocorrência da preclusão temporal, sobretudo porque o recurso foi recebido apenas no efeito devolutivo; e, (5) o acórdão recorrido revela-se extra petita, por julgar questões que não foram devolvidas para análise do Tribunal a quo.
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 217/237).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+Da falta de interesse processual decorrente de alegada preclusão consumativa
+Cinge-se a controvérsia acerca da ocorrência da preclusão consumativa para se arguir falsidade de documento.
+O Tribunal mineiro, diante da complexidade das provas exigidas para o deslinde de arguição de falsidade de documento feita pelo ESPÓLIO DE GILDA DOS [NOME], juntado aos autos de ação de inventário, determinou que a discussão deveria ser remetida às vias ordinárias, como determinado em acordão do AI nº 1.0000.15.088653-9/001, anteriormente manejado, haja vista não se encontrar configurada a ausência de interesse processual decorrente de preclusão consumativa, conforme fora atestado na sentença.
+A esse respeito, confira-se excerto do aludido acórdão:
+A princípio, imprescindível registrar que a Apelante apresentou tempestivamente, nos autos do Inventário de Gilda dos [NOME], incidente de Falsidade de documento, em 29/07/2015 (ID 2078382).
+Em setembro de 2015, o juízo de 1º Grau determinou que a inventariante procedesse, "conforme dispõe a Lei, à distribuição correta do procedimento o incidental de falsidade" (ID 2651446).
+Tal decisão foi objeto de agravo de instrumento (nº 1.0000.15.088653-9/001), julgado por este Tribunal em abril de 2016, cujo acórdão assentou que, se o documento contestado foi oferecido antes de encerrada a instrução, como ocorreu in casu, deveria a parte arguir a falsidade nos próprios autos, nos termos do arts. 390 e seguintes do CPC de 1973. Todavia, as alegações feitas pela inventariante, acerca do aludido documento, dependiam de provas, de modo que o incidente deveria ser remetido para as vias ordinárias.
+O referido acórdão foi disponibilizado para consulta em 3/5/2016, sendo que o Apelante distribuiu o incidente em autos apartados, no Juízo Sucessório, em 23/05/2016. Nesse contexto, o Magistrado a quo entendeu que a Apelante permaneceu inerte, não procurando as vias próprias, pois a ação foi proposta após 06 meses da juntada do documento, encontrando-se preclusa a arguição de falsidade.
+Pois bem, salvo melhor juízo, entendo que o entendimento disposto na decisão atacada não possui razão de ser. Do mesmo modo, entendo que a Apelada incorreu em claro equívoco. Explico-me.
+O acórdão lavrado por este e. Tribunal, de relatoria do i. JD convocado [NOME], determinou que o incidente fosse remetido às vias ordinárias, nos termos do art. 612 do CPC/2015, o que é distinto da arguição de falsidade de documento, cujo prazo está fixado pelo art. 390 do CPC/1973 (art. 430 do CPC/2015).
+Ao que consta, embora o documento controvertido, referente a suposto negócio jurídico celebrado entre um dos herdeiros e sua falecida genitora, seja datado de 1996, os demais herdeiros somente tomaram conhecimento de sua existência no momento em que foi juntado aos autos do inventário, em 07/05/2015. Não se configura, por óbvio, a decadência do prazo para requerer a anulação, cujo termo inicial deu-se no momento do conhecimento inequívoco do documento.
+Logo, o instituto da preclusão não se aplica ao caso, haja vista que a validade e eficácia da dação em pagamento, consubstanciada em instrumento particular juntado aos autos do inventário pelo herdeiro [NOME], pode ser discutido nas vias ordinárias, ou seja, em outro juízo, por meio de demanda própria, independente do inventário (e-STJ fl. 160/161, sem destaque no original).
+Observa-se, das razões acima, que a Corte de origem afastou a ausência de interesse processual, decorrente de preclusão consumativa, com base na acurada análise do conjunto fático-probatório delineado nos autos, de modo que rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ.
+A propósito, vejam-se os precedentes:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ALÍNEA C. INCIDÊNCIA. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+I- Tendo o Tribunal de origem decidido com base no complexo fático-probatório delimitado e avaliado nas instâncias ordinárias, nova análise sobre o tema encontra óbice no teor da Súmula 7 desta Corte Superior.
+ .. .
+IV- Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO, Desembargador convocado do TJ/BA, Terceira Turma, j. 17/6/2010, DJe 30/6/2010).
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO. SEGURO SAÚDE. DEMORA NO FORNECIMENTO DE TRASLADO. MORTE DO MENOR. CULPA CONCORRENTE. MATÉRIA DE PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO NOS MOLDES LEGAIS.
+I - Em âmbito de recurso especial não há campo para se revisar entendimento assentado em provas, conforme está sedimentado no enunciado 7 da Súmula desta Corte.
+ .. .
+Recurso especial não conhecido.
+(REsp 539.736/SP, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro CASTRO FILHO, Terceira Turma, j. 22/08/2006, DJ 23/10/2006.
+Nessas condições, CONHEÇO do recurso especial para NEGAR-LHE PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios, por serem inaplicáveis no presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
