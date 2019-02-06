@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 451/452, e-STJ):
+AÇÃO COM PEDIDO DECLARATÓRIO DE INEXISTÊNCIA DE DÉBITO CUMULADO COM INDENIZAÇÃO POR DANOS MORAIS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. CANHOTO DA PRESTAÇÃO CONTENDO AUTENTICAÇÃO MECÂNICA. PROVA DOCUMENTAL DO PAGAMENTO IDÔNEA. AUSÊNCIA DE COMPROVAÇÃO DO ALUDIDO PAGAMENTO NO EXTRATO DA FINANCEIRA. FALHA NA COMUNICAÇÃO ENTRE O RECEBEDOR E ELA QUE NÃO PODE SER IMPUTADO À CONSUMIDORA NEM PREJUDICÁ-LA. DANO MORAL QUE PRESCINDE DE PROVA. DAMNUM IN RE IPSA. QUANTUM. NECESSIDADE DE READEQUAÇÃO FACE O ENTENDIMENTO JURISPRUDENCIAL. VALOR FIXADO EM R$30.000,00. JUROS DE MORA. TERMO INICIAL DO EVENTO DANOSO. SÚMULA 54 DO STJ. CORREÇÃO DE OFÍCIO.
+RECURSO DE APELAÇÃO CIVIL APELAÇÃO INTERPOSTO PELA RÉ, OMNI S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO, CONHECIDO E, NO MÉRITO, NÃO PROVIDO.
+RECURSO DE APELAÇÃO CIVIL APELAÇÃO INTERPOSTO PELA AUTORA, ANDREANA GOMES DA SILVA DE SOUZAE, CONHECIDO E, NO MÉRITO, PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 505/516, e-STJ).
+Nas razões do recurso especial, o recorrente alega a ocorrência de divergência jurisprudencial.
+Sustenta, em síntese, que o valor dos danos morais é excessivo e que os juros de mora incidentes sobre esse tipo de indenização têm como termo inicial a data de seu arbitramento, e não a data do evento danoso.
+Não foram apresentadas contrarrazões (fl. 602, e-STJ).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 606/609, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem condenou o recorrente ao pagamento de indenização de R$ 30.000 (trinta mil reais) a título de danos morais à autora, em razão da inscrição indevida de seu nome no rol dos inadimplentes, nos seguintes termos (fls. 465/471, e-STJ):
+Em suma, a autora/apelada comprovou a contento que efetuou o pagamento da parcela vencida que gerou a inclusão nos cadastros restritivos de crédito.
+Logo, a inscrição do nome dela em cadastro de restrição de crédito pelo inadimplemento inexistente constituiu fato ilícito e deve a financeira requerida (que promoveu a negativação da autora) indenizá-la a título de danos morais.
+(..)
+Quanto aos danos morais, é pacífico neste Colendo Tribunal de Justiça que a inscrição e a manutenção indevida do nome do consumidor em órgãos de proteção ao crédito dispensam a comprovação objetiva do dano moral.
+Isso porque, o dano moral decorrente da inscrição indevida, é considerado in re ipsa, ou seja, decorre apenas do fato da coisa.
+Com relação ao quantum indenizatório, é sabido, que a indenização por danos morais tem finalidade repressiva e compensatória, visando demonstrar ao ofensor que é necessário dispensar o devido respeito aos seus consumidores, servindo como fator inibitório, e, ao mesmo tempo, proporcionar ao ofendido uma compensação econômico-financeira pela dor moral indevidamente imposta a ele, é certo que, por si só, não pode ser uma compensação real ao sofrimento e dores da vítima, mas poderá oferecer-lhe oportunidade de aliviar a sua perda.
+O valor arbitrado a título de dano moral deve condizer com a gravidade da lesão causada ao consumidor, cujo caráter, inclusive punitivo, destina-se a evitar que se repita esse procedimento.
+Assim sendo, considerando as circunstâncias do caso concreto e a jurisprudência desta corte, impõe-se negar provimento ao apelo da ré e, acolher o pedido da autora para majorar o valor da indenização por danos morais para R$ 30.000,00, acrescido de com correção monetária pelo índice do INPC, constados a partir de seu arbitramento, nos termos da Súmula 362 do STJ, no caso, do presente acórdão, e juros de mora de 1% ao mês, incidentes desde o evento danoso, conforme orientação da Súmula 54 do STJ, quantia essa que restará suficiente para cumprir a finalidade punitiva, pedagógica e compensatória da verba, sem configurar enriquecimento injustificado.
+A pretensão de redução do valor da indenização merece prosperar.
+Com efeito, o Superior Tribunal de Justiça considera excepcionalmente cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando for ele excessivo ou irrisório (AgInt no AREsp 1322588/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/10/2018, DJe 9/11/2018 e AgInt no REsp 1714785/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/10/2018, DJe 15/10/2018).
+No caso em exame, em que não foram demonstradas maiores consequências advindas da negativação do nome da autora, verifica-se que o valor indenizatório fixado pelo Tribunal de origem em R$ 30.000,00 (trinta mil reais) se distancia dos parâmetros jurisprudenciais desta Corte, colhidos nas hipóteses de indenização por dano moral decorrente de inscrição indevida em cadastros de inadimplentes.
+Em casos análogos, o Superior Tribunal de Justiça tem julgado razoável o arbitramento de indenização em moeda corrente no valor situado entre 10 a 30 salários mínimos, podendo variar, para mais ou para menos, a depender das circunstâncias do caso.
+Assim, considerados os critérios jurisprudenciais, pautados pela moderação, proporcionalidade e razoabilidade, reduzo o valor devido a título de danos morais para R$ 15.000,00 (quinze mil reais), quantia não insignificante a ponto de não cumprir com sua função inibitória da repetição da prática abusiva, nem excessiva a ponto de causar um enriquecimento indevido à parte autora.
+Em relação ao termo inicial dos juros moratórios incidentes sobre a indenização por danos morais, a Corte de origem assim se manifestou (fl. 472, e-STJ):
+Por se tratar de danos morais decorrentes de descumprimento extracontratual e o dano ter ocorrido por falha na prestação de serviço, tem-se o evento danoso como prazo inicial dos juros de moratórios, conforme entendimento já sumulado pelo STJ:
+Súmula 54 - Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.
+Verifica-se, portanto, que o entendimento do Tribunal de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual, nas hipóteses de responsabilidade extracontratual, os juros de mora incidem desde a data do evento danoso, nos termos da Súmula 54/STJ.
+Nesse sentido, cita-se o seguinte julgado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. CERCEAMENTO DE DEFESA E CARACTERIZAÇÃO DO DANO. APLICAÇÃO DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. SÚMULA 54/STJ.
+1. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Segundo o entendimento da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito, os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 822.671/MA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/2/2018, DJe 09/2/2018)
+Incide, no ponto, a Súmula 83 do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para fixar o valor devido a título de danos morais em R$ 15.000,00 (quinze mil reais), mantendo-se os juros de mora desde o evento danoso, conforme foi expressamente consignado pelo Tribunal de origem (fl. 471, e-STJ).
+Intimem-se.
