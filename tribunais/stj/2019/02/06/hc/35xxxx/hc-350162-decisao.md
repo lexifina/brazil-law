@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRETENSÃO DE RECONHECIMENTO DE NULIDADE, EM RAZÃO DE INOBSERVÂNCIA DE REGRA DE PREVENÇÃO. NULIDADE RELATIVA. ARGUIÇÃO EM MOMENTO OPORTUNO E INDICAÇÃO DO PREJUÍZO. AUSÊNCIA. SÚMULAS 523 E 706/STF. APLICABILIDADE. PLEITOS SUBSIDIÁRIOS DE FIXAÇÃO DE REGIME INICIAL MENOS RIGOROSO E DETRAÇÃO PENAL. IMPROCEDÊNCIA. REGIME FECHADO DEVIDAMENTE FUNDAMENTO NAS CIRCUNSTÂNCIAS DO CASO CONCRETO. DETRAÇÃO. INEXISTÊNCIA DE INFORMAÇÕES SOBRE O TEMPO DE PRISÃO DOS ACUSADOS. INVIABILIDADE DE VERIFICAÇÃO DO ALEGADO CONSTRANGIMENTO.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] e Hasael Helisel Almeida Pereira contra ato coator do Tribunal de Justiça de São Paulo.
+Narram os autos que o Juízo de Direito da 9ª Vara Criminal da comarca da Capital/SP condenou os pacientes como incursos no crime de roubo circunstanciado, tendo sido aplicada ao paciente [NOME] a pena de 7 anos e 4 meses de reclusão, no regime inicial fechado, e 17 dias-multa; e ao paciente Hasael Helisel a pena de 5 anos e 6 meses de reclusão, no regime inicial fechado, e 13 dias-multa (fls. 16/20 - Ação Penal n. 0013742-88.2013.8.26.0050).
+Inconformada, a defesa interpôs apelação criminal na colenda Corte de origem, que deu parcial provimento ao apelo para reduzir a pena-base do paciente [NOME] ao mínimo legal e excluir da condenação dos acusados a majorante do emprego de arma, resultando a reprimenda definitiva de ambos em 5 anos e 4 meses de reclusão, e 13 dias-multa, mantido o regime inicial fechado em relação ao paciente [NOME] (fls. 21/30 - Apelação Criminal n. 0013742-88.2013.8.26.0050):
+RECURSOS DA DEFESA - Roubo qualificado  Materialidade e Autoria comprovadas por prova oral e documental - Absolvição - Impossibilidade - Afastada a causa de aumento referente ao emprego de arma - vítima não deu conta de que os acusados se valeram de arma para ameaçá-la -roubo permeado por apenas uma causa de aumento - Adequação da pena - Regime fechado, compatível com o crime de roubo - Recurso parcialmente provido.
+Aqui, a impetrante alega constrangimento ilegal consistente na inobservância da regra de prevenção pelo Tribunal de origem, uma vez que, sendo a Segunda Câmara Criminal a competente para a análise da apelação defensiva, tendo em vista a distribuição de anterior habeas corpus impetrado em favor dos pacientes, os autos foram distribuídos para a Sétima Câmara Criminal, tendo sido distribuídos, ainda, após o parecer do Ministério Público, à uma Câmara Criminal Extraordinária.
+Acrescenta que em decorrência do reconhecimento da nulidade, a prisão dos pacientes deve ser relaxada, em função do consequente excesso de prazo.
+Argumenta com a possibilidade de fixação do regime inicial semiaberto ao acusado [NOME], tendo em vista a sua primariedade e a fixação da pena-base no mínimo legal.
+Sustenta a impetrante, ainda, o direito do paciente [NOME] à detração penal, uma vez que se encontra preso há mais de 3 anos em razão da ação penal em que foi condenado.
+Postula, então, a concessão liminar da ordem para que seja reconhecida a nulidade, relaxando-se a prisão preventiva imposta. Subsidiariamente, pede-se a aplicação da detração penal e a fixação de regime inicial diverso do fechado ao paciente [NOME].
+Em 25/2/2016, indeferi o pedido liminar (fls. 34/37).
+Prestadas as informações (fls. 49/63).
+O Ministério Público Federal opinou pela concessão parcial da ordem (fls. 65/66):
+Habeas corpus. Roubo majorado. Julgamento da apelação sem a observância da regra de competência por prevenção. Nulidade.
+Não configuração. Prejuízo não demonstrado. Aplicação do princípio pas de nullité sans grief (art. 563 do CPP). Súmula 523 do STF. Detração. Impossibilidade. Matéria não analisada pelo Tribunal Estadual. Supressão de instância. Regime fechado.
+Alteração. Possibilidade. Fundamentação inadequada. Parecer pela concessão parcial da ordem.
+É o relatório.
+Busca a impetração a concessão da ordem para que seja reconhecida a nulidade decorrente da inobservância da regra de prevenção pelo Tribunal de origem, relaxando-se a prisão preventiva imposta. Subsidiariamente, pede-se a fixação de regime inicial diverso do fechado ao paciente [NOME], bem como a aplicação da detração penal.
+Da análise dos autos, observa-se que não há nenhuma informação de que a defesa dos pacientes tenha arguido eventual incompetência antes do julgamento do apelo defensivo pela Câmara Criminal Extraordinária, isto é, não houve arguição do vício em momento oportuno, tampouco a indicação do prejuízo.
+Ademais, é relativa a nulidade decorrente da inobservância da competência penal por prevenção (Súmula 706/STF). Assim, não alegada no momento próprio, no processo em que ocorreu o julgamento, fica sanada a irregularidade.
+No tocante ao regime inicial de expiação em relação ao paciente [NOME], também não vislumbrei coação ilegal, pois as instâncias ordinárias fundamentaram a fixação do mais rigoroso, com argumento em elemento concreto, consistente no fato de que seria o único suficiente para a repressão da conduta e prevenção de reiterações, tendo em vista as especificidades do caso concreto, em que foi a vítima ameaçada após a prisão, nas dependências da delegacia de polícia, na presença do policial civil (fl. 19).
+Sobre a detração penal, não há nos autos informações sobre o tempo de prisão dos acusados, razão pela qual não há como verificar se o Juízo de primeiro grau laborou em equívoco ao indeferir o pleito.
+Em face do exposto, denego a ordem.
+Publique-se.
