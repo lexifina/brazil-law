@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA. NULIDADE DE ASSEMBLEIAS CONDOMINIAIS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+MAXINVEST - PARTICIPAÇÕES E INVESTIMENTOS LTDA. (MAXINVEST), LUIS [NOME] (LUIS), ENGENHO MORAES LTDA. e CÍNTIA MARIA DIAS MACEDO ajuizaram ação declaratória contra CONDOMÍNIO EDIFÍCIO LES ARDENES (CONDOMÍNIO), alegando a nulidade de assembleia geral extraordinária em que foi aprovado o fechamento de sacadas, em deliberação não unânime, e, via de consequência, a nulidade de assembleia que decidiu quanto ao padrão a ser adotado.
+A sentença julgou procedente o pedido, para anular as Assembleias Gerais Extraordinárias realizadas em 30/11/2009 e 14/12/2009 no tocante à deliberação sobre o fechamento das sacadas (e-STJ, fls. 944/955).
+Interpostas apelações pelo CONDOMÍNIO e SIMONE CAMARGO, esta na condição de assistente simples, e recurso adesivo por LUIS, o Tribunal de origem negou-lhes provimento, em acórdão assim ementado (e-STJ, fl. 1.083):
+APELAÇÃO CÍVEL. CONDOMÍNIO. AÇÃO DECLARATÓRIA. NULIDADE DE APROVAÇÃO DO FECHAMENTO DAS SACADAS DO EDIFÍCIO COM A COLOCAÇÃO DE VIDROS. O fechamento de sacada, de regra, causa prejuízo à estética do projeto arquitetônico original do edifício, implicando alteração de fachada. A não observância, em assembleia, de disposição da convenção condominial que exige unanimidade das frações ideais para aprovação de modificação na fachada acarreta a anulação da deliberação de fechamento as sacadas.
+Manutenção da sentença de procedência do pedido.
+RECURSO ADESIVO. A sentença condenará o vencido a pagar honorários ao advogado do vencedor (art. 85 do CPC/15). O acolhimento da preliminar de ilegitimidade ativa implica condenação da parte ao pagamento dos ônus de sucumbência.
+APELAÇÕES DESPROVIDAS.
+RECURSO ADESIVO DESPROVIDO.
+Inconformado, CONDOMÍNIO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 1.228, 1.335, I, do CC/02 e divergência jurisprudencial, sustentando, em síntese, que (1) o fechamento da sacada com vidro não se enquadra como modificação de fachada; e (2) tal isolamento representa manifestação do livre direito do proprietário de uso, gozo e disposição da propriedade privada, não podendo ser exigida a unanimidade, sendo válida a decisão da maioria dos condôminos.
+MAXINVEST ofereceu contrarrazões (e-STJ, fls. 1.122/1.129).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de prequestionamento, bem como a incidência das Súmulas nºs 5 e 7 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (2) Do reexame de fatos e provas
+O Tribunal de origem concluiu que o fechamento da sacada com vidro implica a alteração da fachada, a demandar aprovação por unanimidade, segundo o disposto na Convenção do CONDOMÍNIO, nos termos da seguinte fundamentação:
+A alteração ou fechamento de sacada, ainda que realizada na propriedade privada, implica alteração de fachada quando causar prejuízos estéticos ao projeto arquitetônico original.
+A propósito, quanto à questão estética, saliento que o próprio construtor do edifício em seu depoimento pessoal afirmou que a sua posição é de não-fechamento da sacada por esse motivo, pois é "um prédio bonito, famoso pela plástica dele" sendo que o fechamento vai "tirar o efeito estético, a plástica do prédio, o que deixa ele bonito", embora não se oponha ao fechamento se observados os requisitos para tanto.
+Ademais, as fotografias carreadas às folhas 231-233 e 259-268 e as constantes no laudo pericial (fls. 573-593) são suficientes para demonstrar a alteração defendida na inicial, sendo possível visualizar, pelo lado externo, a instalação de vidros ou toldos com suas respectivas aberturas, a qual diverge do padrão arquitetônico original do edifício entregue pela construtora.
+Outrossim, não restou demonstrado nos autos a aprovação pelos condôminos, em assembleia, de um padrão construtivo para o fechamento da sacada, embora existam projetos elaborados nesse sentido.
+Note-se que na Assembleia Geral Extraordinária de 14.12.2009 acabou não ocorrendo a aprovação de padrão pelos condôminos presentes (fl. 287).
+Tal circunstância gera inegável prejuízo ao conjunto arquitetônico do edifício, o que inclusive foi observado pelo perito judicial em seu laudo, no qual foi constatada a existência de apartamentos com instalação de toldos na sacada, alguns com redes de proteção, uma unidade com sacada fechada por vidros e a maioria das unidades com a fachada original, sem qualquer alteração (578-584).
+É evidente que tal situação só corrobora a preocupação com a manutenção da estética original do edifício, que possui elevado padrão construtivo e arquitetônico.
+Por sua vez, embora seja plenamente possível a mudança da estrutura ou da fachada do edifício, adotando-se padrão diverso do originalmente estabelecido, deve sempre ser observado o regramento da convenção condominial.
+Trata-se, em verdade, de questão de soberania da convenção, que ao fim e ao cabo reflete a vontade dos condôminos, devendo, por isso, ser respeitada por todos.
+(..)
+Como visto, a alteração de fachada do Edifício Les Ardenes somente pode ser admitida mediante aprovação unânime dos condôminos, o que não foi devidamente observado, segundo se verifica da ata da Assembleia Geral Extraordinária ocorrida no dia 30.11.2017 (fls. 96-99).
+Portanto, alterar a conclusão do Tribunal a quo, para reconhecer que o fechamento não implica alteração da fachada, ensejaria indevida incursão fático-probatória, em manifesta ofensa ao disposto na Súmula nº 7 do STJ.
+De outro lado, embora o CONDOMÍNIO tenha afirmado que a deliberação representa a vontade da maioria, a Corte de origem reconheceu que sequer foi obtida a maioria de votos, em virtude da irregular representação de condôminos ausentes, nos seguintes termos:
+Ao final da votação, o resultado foi de cinco (05) condôminos contrários ao fechamento das sacadas e de sete (07) condôminos a favor disto.
+Não bastasse, verifica-se que o síndico recebeu notificações e oposição de moradores tanto em relação ao fechamento das sacadas quanto em relação a própria validade da deliberação em assembleia (fls. 105-145), pois pelo menos dois dos votantes sequer apresentaram procuração para votar em nome dos proprietários, havendo também violação ao art. 20, §3º da convenção no sentido de que "cada procurador não poderá representar mais de dois condôminos" na assembleia geral (fl. 33).
+Tal assertiva resta demonstrada pela "relação de presenças" à folha 112, no qual se observa que um dos presentes representou outros quatro proprietários.
+Enfim, além de a intervenção ser significativa por dizer respeito a alteração de fachada, houve a aprovação do fechamento por apenas sete (07) das dezesseis (16) unidades condominiais do Edifício Les Ardenes, circunstância que também deve ser considerada no caso específico dos autos.
+A pretensão de alteração da fachada mediante aprovação maioria dos presentes na forma como realizada não pode ser admitida, mormente diante das significativas repercussões em relação a todos os demais condôminos.
+Considerando que o fechamento da sacada implicou alteração da fachada, tal circunstância é suficiente para anulação da deliberação em assembleia, porquanto não observada a unanimidade prevista na convenção.
+De fato, considerando as peculiares da lide, não é possível admitir que um grupo minoritário de condôminos, mediante aprovação em confronto com a convenção do condomínio, deliberem acerca da fachada do prédio em detrimento do interesse da maioria dos demais condôminos (e-STJ, fls. 1.090/1.091).
+Verifica-se que o fundamento acima destacado não foi impugnado de forma específica nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor do CONDOMÍNIO, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
