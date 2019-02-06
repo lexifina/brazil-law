@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME], contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER - Prestação de serviço público - Fornecimento de medicamentos a pessoa portadora de doença grave - Direito à saúde, nos termos do art. 196, da CF - Ação julgada procedente em Primeiro Grau.
+HONORÁRIOS ADVOCATÍCIOS - Fixação em 8% do valor da causa (R$ 25.123,59) - Valor que se mostra elevado frente à natureza da demanda - Redução em valor certo para R$ 2.000,00, observado os critérios estabelecidos pelo artigo 85, § 8o do CPC/2015.
+MULTA DIÁRIA - Possibilidade de fixação frente às Fazendas Públicas - Redução para R$ 100,00, limitada a R$ 10.000,00. R. sentença reformada, nesta parte.
+Recursos oficial e voluntário providos" (fl. 161e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 85, §§ 2º e 3º, do CPC/2015, sustentando a irrisoriedade da condenação em honorários advocatícios.
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 199/206e.
+Inadmitido o Recurso Especial (fls. 207/208e), foi interposto o presente Agravo (fls. 211/225e).
+Contraminuta a fls. 228/231e.
+A irresignação não merece conhecimento.
+Insurge-se o agravante quanto ao valor fixado a título de honorários advocatícios em Ação de obrigação de fazer, que objetiva a obtenção de medicamentos.
+Na hipótese em exame, no que tange aos honorários, o Tribunal local consignou o seguinte:
+"De outra parte, o montante fixado em Primeiro Grau mostra-se excessivo, não guardando sintonia com a natureza da demanda, devendo ser reformado para adequar-se conforme o parágrafo 8º, do artigo 85, do CPC/15:
+"§ 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+Frise-se que o valor dado à causa não representa proveito econômico, portanto, é aleatório e inestimável, não servindo de parâmetro para a fixação.
+Destarte, o valor de R$ 2.000,00 (dois mil reais) remunera dignamente o profissional e não pode ser considerado fora dos padrões norteadores da fixação" (fl. 169e).
+Nesse contexto, verifica-se que o Tribunal a quo, com base nos elementos fáticos-probatórios do autos, considerou que os honorários devem ser fixados por apreciação equitativa, em razão da condenação não ter gerado proveito econômico à parte autora.
+É importante ressaltar que a jurisprudência do STJ firmou entendimento no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual, sendo sua fixação ato próprio dos juízos das instâncias ordinárias.
+Assim sendo, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+A propósito:
+"PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. REVISÃO. INVIABILIDADE. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias.
+2. In casu, no que tange aos honorários, o Tribunal de origem consignou: "nas ações que versam sobre concessão de medicamentos não se pode usar o valor estimado da causa como parâmetro para o cálculo de honorários, eis que se trata somente de obrigação dos réus a fornecer o medicamento pretendido. O chamado proveito econômico da demanda deve ser visto com cautela, eis que se trata de fornecimento de medicação que implica em sobrevida para o autor. Neste sentido, a fixação dos honorários deve se dar de forma equitativa, eis que a demanda possui valor econômico inestimável, por se tratar de tutela da saúde, sendo aplicável na espécie as disposições do art. 85, § 8º do CPC/2015. Portanto, dou parcial provimento à remessa necessária somente para fixar os honorários em R$ 3.000,00 pro rata entre os réus, na esteira de precedentes desta Corte. Ante o exposto, voto por dar parcial provimento à remessa necessária e negar provimento às apelações" (fl. 402, e-STJ, grifos no original).
+3. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determinado na sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial." Na mesma linha: AgInt no AREsp 1.038.352/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23.6.2017; AgInt no REsp 1.639.036/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2.5.2017; e AgInt nos EDcl no REsp 1.565.492/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22.3.2017.
+4. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC/1973, art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial previsto na alínea "c" do inciso III do art. 105 da Constituição Federal.
+5. Recurso Especial não conhecido" (STJ, REsp 1.683.125/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/10/2017).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
