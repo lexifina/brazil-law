@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2084082-37.2017.8.26.0000.
+Infere-se dos autos que o recorrente foi denunciado pela suposta prática dos crimes previstos nos arts. 33, caput; 33, § 1º, II e III; e 35, todos da Lei 11.343/2006 (tráfico de entorpecentes e associação para o narcotráfico) e no art. 12 da Lei 10.826/2003 (posse irregular de arma de fogo).
+Posteriormente, restou foi condenado às penas de 10 anos de reclusão, em regime fechado e 2 anos de detenção, em regime semiaberto, e absolvido das infrações dos artigos 33, § 1º, II e III e 35, da Lei n. 11.343/06, negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRAFICO E POSSE IRREGULAR DE ARMA DE FOGO - Impetração visando a revogação da prisão preventiva com ou sem imposição de outra medida cautelar, concessão de liberdade provisória, absolvição sumária do paciento (artigo 397 do CPP> com o reconhecimento da atipicidade da conduta descrita no artigo 35 da Lei 11.343/06 e inépcia da denúncia - Informação nos autos de ter sido superado o constrangimento ilegal apontado com a prolação de sentença condenatória com relação ao crime previsto no artigo 33, caput, da Lei de Drogas e no artigo 12 da Lei 10.826/03 e absolvição quanto aos delitos descritos nos artigos 33, 5 Io, incisos II e III, e 35, ambos da Lei 11.343/06 - Aplicação do art. 659, do CPP - Pedido julgado prejudicado.
+Denúncia que preenche os requisitos do art. 41 do CP . Denegada a ordem (fl. 85).
+No presente recurso, sustenta a inépcia da denúncia, nos termos do art. 41 do CPP, tendo em vista a inexistência de descrição da conduta descrita no tipo penal do art. 35 da Lei 11.343/2006.
+Assevera que não foi inserida na denúncia um segundo agente, nem tampouco o vínculo associativo, razão pela qual não houve demonstração da figura típica imputada, devendo ser invalidado o procedimento penal instaurado.
+Requer, em liminar, a revogação da prisão preventiva do recorrente. No mérito, busca o reconhecimento da inépcia da denúncia, com a extinção da Ação Penal n. 0007369-21.2016.8.26.0637.
+Liminar indeferida às fls. 170/171.
+O Ministério Público Federal opinou pelo não conhecimento do recurso ou, se conhecido, pelo seu desprovimento (fls. 176/180).
+É o relatório.
+Decido.
+De início, cumpre ressaltar que foi formulado pedido idêntico em benefício do mesmo recorrente no HC n. 435.025/SP.
+Assim, tendo o presente recurso ordinário em habeas corpus a mesma parte e questionando matéria anteriormente arguida no referido writ, o qual diz respeito à mesma ação penal de origem (0007369-21.2016.8.26.0637) e impugna, inclusive, o mesmo julgado, resta configurada inadmissível reiteração, o que impede o conhecimento das alegações. Confira-se a jurisprudência pacífica deste Tribunal:
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (533, 725 KG DE MACONHA). POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. QUESTÃO NÃO DEBATIDA NO ACÓRDÃO IMPUGNADO. EXCESSO DE PRAZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A impetração de habeas corpus com o objeto idêntico ao de outro já julgado caracteriza indevida reiteração de pedidos, circunstância que impede o conhecimento das alegações suscitadas.
+2. Se o Tribunal de origem não decidiu o tema referente aos fundamentos da prisão cautelar da paciente no acórdão impugnado e a atual impetração não foi instruída com o julgado que debateu a questão na origem, não tem cabimento o Superior Tribunal de Justiça falar a respeito da idoneidade ou não da motivação da custódia provisória.
+3. Quando o retardo na instrução decorre de circunstâncias excepcionais (por exemplo, da necessidade de se deprecar a realização de atos processuais, inclusive para citar a própria paciente, e da dificuldade em citar o outro acusado, que não está sendo localizado e contra quem está em aberto mandado de prisão), não há falar em extrapolação dos limites da razoabilidade ou em demora injustificável. A fim de que não se efetive o apontado constrangimento ilegal de excesso de prazo para formação da culpa, é recomendável o desmembramento do feito em relação à paciente.
+4. Habeas corpus conhecido em parte e, nessa parte, denegado, com a recomendação ao Juízo a quo de imprimir celeridade no julgamento da ação penal, inclusive desmembrando o processo se necessário for (HC 340.037/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 18/04/2016).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA SENTENÇA. ABSOLVIÇÃO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A inicial do presente mandamus pugna pelo reconhecimento da nulidade da sentença e pela absolvição do paciente, sendo esse o mesmo pedido formulado no HC n. 334.031/SP, o que configura reiteração de pedido, processualmente inadmissível.
+II - Ademais, há também, no caso, supressão de instância, uma vez que o eg. Tribunal a quo não se pronunciou sobre as matérias ventiladas no presente writ, o que impede a análise, por esta Corte Superior de Justiça, pela vez primeira, de temas não debatidos pelas instâncias ordinárias.
+Agravo regimental desprovido (AgRg no HC 335.596/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/04/2016).
+Ante exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
