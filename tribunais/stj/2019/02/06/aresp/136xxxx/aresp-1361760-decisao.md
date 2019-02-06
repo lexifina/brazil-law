@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. NOTAS PROMISSÓRIAS RURAIS. PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS. IRRESIGNAÇÃO DE AMBAS AS PARTES. RECURSO DE APELAÇÃO 1 (EMBARGADA): PRETENSÃO DE MANUTENÇÃO DOS JUROS MORATÓRIOS COMO COBRADOS.
+IMPOSSIBILIDADE. JUROS MORATÓRIOS QUE DEVEM SER LIMITADOS À 1% AO ANO. PREVISÃO EXPRESSA NO PARÁGRAFO ÚNICO DO ART. 5º, DO DL 167/67. SENTENÇA MANTIDA.
+Recurso conhecido e desprovido.
+RECURSO DE APELAÇÃO 2 (EMBARGANTES): NÃO CONHECIMENTO DO PEDIDO DE CONCESSÃO DA JUSTIÇA GRATUITA. BENEFÍCIO JÁ DEFERIDO EM PRIMEIRO GRAU. AUSÊNCIA DE REVOGAÇÃO. ILEGITIMIDADE PASSIVA DO EMBARGANTE SILVÉRIO IANISKY. NULIDADE DO AVAL. NÃO ACOLHIMENTO. APLICAÇÃO DO ARTIGO 60, § 4º, DO DL 167/67. ATO COOPERATIVO REALIZADO ENTRE COOPERATIVA E SEUS ASSOCIADOS. ALEGAÇÃO DE ABATIMENTO DA DÍVIDA EM VALOR MAIOR QUE O CONSIDERADO PELA COOPERATIVA. NÃO ACOLHIMENTO. AUSÊNCIA DE PROVA NESTE SENTIDO. RECIBO QUE NITIDAMENTE DIZ RESPEITO À OUTRAS OPERAÇÕES. INAPLICABILIDADE DO CDC. COOPERATIVA AGROINDUSTRIAL. AUSÊNCIA DE CONCESSÃO DE CRÉDITO NESTE CASO. PRÁTICA NÃO EQUIPARADA À INSTITUIÇÃO FINANCEIRA. IMPOSSIBILIDADE DE DIMINUIÇÃO DA MULTA, DIANTE DA INAPLICABILIDADE DO CDC. MULTA EXPRESSAMENTE PREVISTA DE ACORDO COM O ART. 71, DO DL 167/67. INADIMPLEMENTO DA OBRIGAÇÃO EM RAZÃO DE ESTIAGEM. ALEGAÇÃO DE CASO FORTUITO E FORÇA MAIOR. PRETENSÃO DE AFASTAMENTO DOS ENCARGOS DA MORA. IMPOSSIBILIDADE. OBRIGAÇÃO EXIGÍVEL. FATO PREVISÍVEL NA ATIVIDADE AGRÍCOLA. PREQUESTIONAMENTO. DETERMINAÇÃO QUE DEVE SER CUMPRIDA PELA PARTE, NÃO PELO JULGADOR.
+Recurso de Apelação parcialmente conhecido e na parte conhecida, desprovido.
+Alegou-se, no especial, violação do artigo 5º, parágrafo único, do Decreto-Lei 167/67 sob a alegação de que não há, na espécie, limitação dos juros de mora.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local determinou a limitação dos juros moratórios em 1% (um por cento) ao ano decorrente da mora constante de nota promissória rural, no que está de acordo com esta Corte, que entende ser aplicável tal limitação tanto nas cédulas quanto nas notas rurais.
+Assim:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO CDC RECONHECIDA PELO TRIBUNAL A QUO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. CÉDULA DE CRÉDITO RURAL. JUROS. INADIMPLÊNCIA. 1% AO MÊS. HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "Firme nesta Corte o entendimento de que a cédula ou nota de crédito rural rege-se pelo Decreto-Lei n. 167/67, que prevê, em caso de inadimplemento, a incidência apenas de juros moratórios à taxa de 1% a.a. e de multa contratual. Assim, é ilegal a pactuação de qualquer outra taxa, comissão de permanência ou encargo, tendente a burlar o referido diploma legal" (AgRg no Ag 1340324/PR, Rel. Ministro CESAR ASFOR ROCHA, SEGUNDA TURMA, julgado em 17/02/2011, DJe 17/03/2011).
+2. Constatado que os honorários de sucumbência foram fixados em patamar razoável, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em sede de recurso especial, promover a revisão pretendida, ante a incidência da Súmula 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 689.472/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/6/2015, DJe 26/6/2015)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
