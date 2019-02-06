@@ -1,0 +1,52 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS. CIRURGIA PLÁSTICA. NEGLIGÊNCIA MÉDICA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ADRIANA DA SILVA (ADRIANA) ajuizou ação de desfazimento contratual c/c indenização por danos materiais e morais contra PROCORPO ASSESSORIA ADMINISTRATIVA EM CIRURGIA PLÁSTICA LTDA. (PROCORPO) e [NOME] ([NOME]), em virtude dos resultados estéticos após cirurgia plástica embelezadora.
+O Juízo de Piso julgou procedentes os pedidos iniciais para condenar os réus ao pagamento de indenização por dano moral e material, além das custas processuais e honorários advocatícios fixados em 20% sobre o valor atualizado da condenação (e-STJ, fls. 711/714).
+Inconformados, PROCORPO e [NOME] interpuseram recursos de apelação, ambos desprovidos pelo Tribunal de origem, em acórdão assim ementado:
+Apelação. Ação de indenização por danos materiais e morais. Erro médico. Cirurgia plástica embelezadora. O cirurgião não pode imputar ao paciente a escolha do procedimento adequado, muito menos a escolha da melhor técnica a ser aplicada. Nesse passo, tem-se que o réu, como prestador de serviço e sujeito ao Código de Defesa do Consumidor, tinha a obrigação legal de bem informar a paciente acerca dos serviços médicos que lhe seriam prestados, assim como todas as intercorrências da cirurgia, além da indicação da melhor técnica. Expectativa de melhora da aparência. Obrigação de resultado porque inegavelmente prometida uma melhora estética à paciente. Jurisprudência consolidada a respeito. Não comprovada prestação de informações adequadas, antecedentes à cirurgia. Responsabilidade solidária de todos os integrantes da cadeia de fornecimento reconhecida. Médico e clínica médica. Precedentes. Danos materiais. Determinação de reembolso dos valores pagos pelas cirurgias. Danos morais. Sofrimento inegável. Sentença mantida. Recurso desprovido (e-STJ, fl. 792)
+Em seguida, [NOME] opôs embargos de declaração, rejeitados pelo Tribunal de origem (e-STJ, fls. 815/820).
+PROCORPO interpôs recurso especial, com base no art. 105, III, a, da CF, que foi inadmitido por incidência da Súmula nº 284 do STF (e-STJ, fls. 826/839; 882).
+Em seguida, [NOME] interpôs recurso especial, com base no art. 105, III, a, da CF, alegando violação dos arts. 371 e 479 do NCPC, por entender, em suma, que (1) o acórdão recorrido valorou, de forma equivocada, as provas dos autos; (2) houve o cerceamento de defesa (e-STJ, fls. 848/862).
+Contrarrazões apresentadas (e-STJ, fls. 876/880).
+O apelo nobre de [NOME] não foi admitido por ausência de ofensa a dispositivo infraconstitucional e incidência da Súmula nº 7 do STJ (e-STJ, fls. 883/884).
+Irresignado, [NOME] interpôs agravo em recurso especial sustentando a violação dos dispositivos de lei federal, bem como a inaplicabilidade do óbice sumular (e-STJ, fls. 887/893).
+Contraminuta apresentada (e-STJ, fls. 900/906).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada ofensa ao art. 371 do NCPC
+Nas razões do recurso especial, [NOME] sustentou, em síntese, que o acórdão recorrido valorou, de forma equivocada, as provas dos autos, uma vez que não houve negligência ou imprudência por parte do corpo clínico.
+O Tribunal de origem, por sua vez, assim se manifestou:
+Conforme bem salientou o juízo "a quo", o resultado esperado pela apelada não foi alcançado na primeira intervenção cirúrgica com técnica de "circum-aerolar", sendo que os corréus imputam à paciente a escolha de procedimento diverso, afirmando que a apelada rechaçou veementemente a técnica denominada "cicatriz em T invertido", obrigando-os ao emprego de outra, menos recomendada para o quadro clínico da paciente.
+Assim, necessárias algumas considerações a respeito da natureza das obrigações dos médicos, irradiadas das cirurgias plásticas.
+Tendo em vista a cirurgia plástica/estética ter caráter eletivo, desnecessária para fins terapêuticos, a doutrina e jurisprudência pátrias tendem a evidenciar a obrigação de resultado, diante promessa de efetiva melhora na aparência do paciente, e pela possibilidade de seu alcance independente das condições de saúde da outra parte, que é o contratante de serviços.
+Entretanto, é relativa a presunção da culpa do lesante nas obrigações de resultado, sendo-lhe facultado demonstrar a licitude de seu comportamento (e-STJ, fls. 795/796)
+ ..
+Por primeiro, destaque-se a propaganda divulgada pela clínica ré, acostada a fls. 22/24, com cunho eminentemente publicitário, restando clara a obrigação de resultado e criando expectativa no consumidor, nos termos do artigo 30 do CDC.
+Em segundo lugar, embora a apelada tenha assinado termo de autorização e consentimento (fls. 139/140), tais documentos apresentam termos claramente genéricos, não se extraindo deles estivesse a apelada informada corretamente acerca da melhor técnica a ser aplicada para seu biótipo, tampouco das consequências advindas da modificação de técnica solicitada.
+Absolutamente inverossímil, e não corroborada por prova alguma, a alegação dos corréus no sentido de que foi a apelada quem não concordou com a cirurgia de "mastopexia com cicatriz resultante em T invertido", mesmo cientificada da possibilidade de insucesso.
+Tais assertivas tampouco têm o condão de provar que o médico corréu efetivamente informou a autora a respeito dos riscos advindos do emprego de técnica diversa da preconizada para seu quadro clínico.
+A autora, por sua vez, afirma categoricamente não ostentar qualquer conhecimento técnico em medicina, não podendo eleger o melhor procedimento, sequer informada a respeito de quaisquer das técnicas, acreditando na idoneidade das propagandas veiculadas pela clínica corré.
+À falta de informações adequadas, previamente à autora, não se pode afastar a responsabilidade do profissional e da clínica pelo resultado muito aquém do esperado, a exigir realização de novo procedimento, até porque não demonstrada, como frisado, a recusa da paciente ao melhor tratamento (e-STJ, fls. 797/799) .
+ ..
+Evidente que a necessidade de nova cirurgia constitui descumprimento à obrigação de resultado assumida pelos apelantes, sem prova cabal a respeito da efetiva assunção de riscos pelo paciente ao optar pela realização de cirurgia com outro método, razão pela qual clara a negligência no exercício profissional.
+Não observado o direito à informação e ao efetivo e livre consentimento motivado, além do descumprimento da obrigação de resultado, patente o dever de indenizar (e-STJ, fl. 801).
+Tem-se que o Tribunal local, nesse particular, afirmou que não foi demonstrada a recusa de ADRIANA ao melhor tratamento e concluiu que foi evidente a negligência de [NOME] no exercício profissional.
+Em verdade, [NOME] insurge-se contra a conclusão alcançada pelo Tribunal a quo, fundada na análise do conjunto fático-probatório dos autos, o que não se admite na estreita via o apelo especial, atraindo a incidência da Súmula nº 7 do STJ.
+A propósito, veja-se o julgado:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. ERRO MÉDICO. CIRURGIA DE CATARATA. INFLAMAÇÃO SEVERA. AUSÊNCIA DE CUIDADOS EXIGÍVEIS DO MÉDICO. CEGUEIRA UNILATERAL. LAUDO PERICIAL. LIVRE CONVENCIMENTO MOTIVADO. SÚMULA 7/STJ. ARBITRAMENTO DO DANO MORAL. EXORBITÂNCIA. INEXISTÊNCIA. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. CITAÇÃO VÁLIDA DAS PARTES. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+(..)
+6. O julgador não está vinculado ao laudo pericial produzido nos autos, quando presentes concretos elementos de convicção acerca da efetiva ocorrência do ato ilícito. Ante o exercício do livre convencimento devidamente motivado do julgador, não há que se falar em cerceamento de defesa apenas porque as conclusões obtidas diante das provas dos autos foram contrárias aos interesses de uma das parte. Precedentes.
+7. A argumentação tecida pelo recorrente de inexistência de erro médico - ao destacar trechos do laudo pericial que, em tese, amparam sua pretensão - encontra óbice na Súmula 7/STJ, pois inadmissível em recurso especial a revisão de fatos e provas que atestaram a culpa do profissional causador do dano à paciente, tal como registrado soberanamente pelo Tribunal de origem.
+8. A alteração do valor arbitrado a título de compensação por danos morais exige o revolvimento de fatos e provas, circunstância vedada em recurso especial pela Súmula 7/STJ. Apenas em hipóteses excepcionais, em que configurado evidente exagero ou irrisoriedade da quantia, o STJ estabelece nova fixação excepcional.
+(..)
+12. Recursos especiais parcialmente conhecidos e, nessa extensão, parcialmente providos.
+(REsp 1.677.309/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 20/3/2018, DJe 3/4/2018)
+(2) Da alegada ofensa ao art. 479 do NCPC
+Quanto ao suposto cerceamento de defesa, verifica-se que o dispositivo infraconstitucional mencionado nas razões do especial não foi objeto de discussão pelo Tribunal a quo e não houve interposição de Embargos de Declaração com tal finalidade, estando ausente o indispensável debate prévio. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Incide-se a Súmula nº 282 do STF.
+Nestas condições, com fundamento no art. 932, III, do NCPC, CONHEÇO do agravo para NÃO CONHECER do Recurso Especial.
+Deixo de majorar os honorários advocatícios, porquanto arbitrados em seu limite máximo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
