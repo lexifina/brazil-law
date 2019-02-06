@@ -1,0 +1,32 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO QUE NÃO INFIRMA TODOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+SAMA S.A. - MINERAÇÕES ASSOCIADAS (SAMA) interpôs agravo de instrumento contra decisão que, nos autos do cumprimento de sentença movida por ADÃO ANTONIO DA MOTA (ADÃO), julgou improcedente a impugnação ao cálculo elaborado pelo Contador Judicial.
+O Tribunal de origem, por sua vez, negou provimento ao apelo da SAMA em acórdão assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA INDENIZATÓRIA. CÁLCULO ELABORADO PELA CONTADORIA JUDICIAL HOMOLOGADO. PRESUNÇÃO DE VERACIDADE. ARGUMENTO DE NULIDADE DA DECISÃO RECORRIDA POR AUSÊNCIA DE FUNDAMENTAÇÃO, RECHAÇADO. ESCLARECIMENTOS E/OU IMPEDIMENTOS SOBRE A PERÍCIA. PRAZO PRECLUSIVO.
+I INCIDÊNCIA DO ENUNCIADO Nº 2 STJ, que dita: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça . - grifei;
+II AUSÊNCIA DE FUNDAMENTAÇÃO Os cálculos da Contadoria Judicial, cujas percepções gozam de presunção legal de veracidade, detêm fé pública até prova em contrário. Assim, o só argumento de nulidade, por ter a Magistrada declinado sua confiabilidade no laudo apresentado pelo experto judicial não subsome ausência de fundamentação, senão inconcusso motivo de convicção para decidir, posto que podia, pode e deve a Julgadora valer-se do auxiliar da justiça para a implementação de atos aptos a dirimir indecisões, imprecisões ou irresoluções que as partes, de per si, não conseguem elucidar. Tese de ofensa ao inciso IX do art. 93 da CF rechaçada;
+III DISCUSSÃO SOBRE CRITÉRIOS DA PERÍCIA. PRECLUSÃO No caso concreto, se havia inconformismo ou dúvida inserta sob a idoneidade e capacidade técnicas do Contador Judicial ou quanto à elaboração dos cálculos aplicados, isto é, quanto aos critérios adotados em perícia, cabia à agravante, ora executada, em tempo e modo devidos, suscitar, na primeira oportunidade (art. 245, CPC/73), os esclarecimentos ou as suspeições e impedimentos, nos moldes do § 1º, inciso III, art. 138 e arts. 423, 435 e inciso I do art. 452, todos do CPC/1973 (interpretação segundo Enunciado nº 2 STJ), visando ilidir a presunção de veracidade que recaía sob os cálculos por ele apresentados, o que não ocorreu. O prazo, no ponto, por subsumir atividade intrínseca às partes, é preclusivo;
+IV Decisão de primeira instância reformada em parte, tão só quanto ao prazo para o efetivo pagamento, a sê-lo na quinzena legal, como dantes e hodiernamente previsto no CPC, conforme se infere do art. 475-J da codificação de 1973 com correspondência ao art. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fls. 1.459/1.460).
+Irresignada, a SAMA interpôs recurso especial, fundado nas alíneas a e c do permissivo constitucional, apontando a violação dos arts. 489, 494 e 805 do NCPC; 463 e 620 do CDC/73, sustentando, em síntese, 1) a ausência de fundamentação; 2) a necessidade de intimação do devedor para se manifestar sobre o novo cálculo de atualização da dívida, haja vista que a discussão sobre o cálculo não estaria sujeita à preclusão.
+O apelo especial não foi admitido na origem sob o fundamento de incidência das Súmulas nºs 282 e 284 do STF e 7 do STJ.
+A SAMA, então, interpôs o presente agravo repisando as teses ventiladas no nobre denegado na origem.
+Contraminuta apresentada (e-STJ, fls. 296/301).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois a SAMA não infirmou devidamente os seus esteios, deixando de refutar, de forma arrazoada, a incidência do óbice contido na Súmula nº 282 do STF.
+De fato, a SAMA limitou-se a renegar a incidência da Súmula nº 7 do STJ, alegando que o recurso especial não trata de simples reexame de matéria, tampouco em incursão na conjuntura fática, sem evidenciar, ou ao menos tentar demonstrar, o efetivo debate, pelo acórdão recorrido, dos temas invocados nas razões do apelo nobre.
+Da mesma forma, apesar de insistir na tese de existência de divergência jurisprudencial, a SAMA também não cuidou de apresentar o cumprimento das exigências legalmente exigidas para a demonstração do dissídio, de molde a impugnar o fundamento de deficiência da fundamentação recursal.
+Nesse contexto, tendo sido apresentado em desacordo com os requisitos do art. 932, III, do NCPC, o recurso não se mostra viável.
+A propósito, cita-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.  ..
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 27/5/2016)
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Advirta-se, ainda, que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts.1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+
+Publique-se. Intimem-se.
