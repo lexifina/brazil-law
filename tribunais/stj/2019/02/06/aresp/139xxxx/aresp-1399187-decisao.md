@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manejado em adversidade a acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (e-STJ fl. 277):
+APELAÇÃO. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS (ART. 33 DA LEI ANTIDROGAS) e CORRUPÇÃO ATIVA (ART. 333 DO CP). AUSÊNCIA DE PROVAS E DESCLASSIFICAÇÃO DA CONDUTA PARA AQUELA PREVISTA NO ART, 28 DA LEI 11.343/06. IMPOSSIBILIDADE. PROVAS CLARAS E SUFICIENTES PARA SUSTENTAR O JUÍZO CONDENATÓRIO. PALAVRAS DOS POLICIAIS QUE REALIZARAM A PRISÃO EM FLAGRANTE É PROVA APTA A FUNDAMENTAR O JUÍZO CONDENATÓRIO. RECURSO CONHECIDO E IMPROVIDO.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, apontou a defesa contrariedade aos arts. 28 e 33, da Lei n. 11.343/2006 e aos art. 155 e 156, do Código de Processo Penal.
+Aduziu, em suma, que a condenação do recorrente se deu com base em presunções.
+Argumentou que "de fato, foram apreendidas drogas com o recorrente, todavia não é porque o indivíduo está pinando droga que pratica tráfico, já que o tipo subjetivo do tráfico difere do tipo subjetivo do crime de porte ilegal para consumo. Tal diferença está estampada no próprio texto do art. 28 quando estabelece um especial fim de agir, qual seja, para o próprio consumo, enquanto o art. 33, que pão exige um especial fim de agir, requer, como próprio nomem iuris revela, dolo de mercancia, mesmo quando o fornecimento da droga é forma gratuita, sendo certo que no caso a denúncia narra a conduta de portar a droga, entendendo, sem descrição fática suficiente, que havia dolo de mercancia." (e-STJ fl. 285)
+Alegou, ainda, que a quantidade de drogas apreendida é ínfima - 17 porções de crack, que totalizam 3,8g.
+Pugnou, assim, pela absolvição do recorrente ou, subsidiariamente, pela desclassificação da sua conduta para o art. 28 da Lei 11.343/2006, ou, ainda, para o art. 33, §3º, da mesma lei.
+O Tribunal local inadmitiu o recurso especial (e-STJ fls. 299/301), por incidência dos enunciados sumulares n. 284/STF e 7/STJ.
+Contrarrazões às e-STJ fls. 293/297.
+No agravo (e-STJ fls. 304/309), o recorrente rebate as razões que levaram à inadmissão do especial.
+O Ministério Público Federal opinou pelo não provimento do agravo (e-STJ fls. 329/334), nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. ART. 105, III, "A" DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N.º 284/STF. PARECER PELO NÃO PROVIMENTO DO AGRAVO.
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+No caso, sem razão o recorrente.
+Extrai-se dos autos que a Corte local, ao manter a condenação do acusado pelo crime de tráfico, assim o fez, na forma seguinte (e-STJ fls. 278/279):
+ ..
+A primeira causa de pedir recursal se fulcra na afirmação de que não existe prova suficiente a sustentar um juízo condenatório pela prática dos crimes capitulados no art. 33 da Lei 11.343/06 e no art. 333 do CP.
+Trata-se de alegação que não deve ser acolhida, visto que:
+a) sob o crivo do contraditório, os policiais [NOME] (fl. 103) e [NOME], testemunhas da prisão em flagrante do apelante, confirmaram seus depoimentos prestadas na fase de IP acerca da autoria dos dois crimes que lhe são imputados;
+b) é por todos sabido que há situações em que, por conta das características do iter criminis, é impossível a existência de outras testemunhas além dos policiais que realizaram a prisão em flagrante delito. Em situações como essa, a palavra dos policiais, servidores públicos cujos atos são dotados de fé pública e que não têm interesse em que o processo tenha este ou aquele desfecho - favorável à pretensão da sociedade ou do réu - tem força probatória e é suficiente para sustentar o decreto condenatório;
+c) o fato de existir prova clara, harmônica e suficiente de que a droga encontrada tinha finalidade mercantil, ou seja, que seria vendida pelo apelante e sua comparsa permite manter a condenação por tráfico de drogas e afasta a tese recursal de que se tratava de entorpecente para uso, nos termos do art. 28 da Lei 11.343/06. Ademais, claríssima a palavra dos policiais no sentido de que o apelante tentou lhes "subornar" para não ser preso em flagrante pela prática do tráfico de drogas, ou seja, praticou o crime capitulado no art. 333 do CP.
+Logo, devem ser rejeitadas as teses recursais, visto que há claramente provas da autoria e da materialidade do crime de tráfico de drogas por parte do recorrente, bem como da corrupção ativa.
+Dessa forma, em que pese o esforço argumentativo da defesa, para esta Corte Superior de Justiça absolver o recorrente, ou desclassificar a sua conduta teria, necessariamente, de esmerilar todo o conjunto probatório e fático, o que é, terminantemente, vedado pelo óbice da Súmula n. 7:
+A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. CAUSA DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI 11.343/2006. IMPOSSIBILIDADE. MAUS ANTECEDENTES. REGIME INICIAL MAIS GRAVOSO. CABIMENTO.
+I - O eg. Tribunal de origem, ao apreciar o conjunto de provas carreado aos autos - dentre as quais o depoimento dos policiais responsáveis pelo flagrante - concluiu pela adequação da conduta à figura típica prevista no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). A desconstituição de tal entendimento depende de nova análise do acervo probatório, providência inviável em sede de recurso especial, a teor do enunciado n. 7 da Súmula desta Corte.
+II - As condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, o que ilide o reconhecimento da causa de diminuição de pena prevista no art. 33,§ 4º, da Lei de Drogas, (HC n.338.010/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/4/2016 - grifei).
+III - Justifica-se a fixação de regime inicial de cumprimento de pena mais gravoso do que a quantidade de pena imposta permitiria uma vez constatado os maus antecedentes do réu. Precedente: HC n. 300.802/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/4/2017, AgRg no HC n. 326.343/RJ, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 25/11/2015.
+Agravo regimental não provido. (AgRg no AREsp 1054643/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 15/8/2017, DJe 18/8/2017) - (grifei)
+Ressalte-se, ainda, que esta Corte já se manifestou no sentido de que não há óbice que a condenação seja embasada no depoimento de policiais responsáveis pela investigação, mormente quando colhidos sob o crivo do contraditório e em harmonia com os demais elementos de prova, como se verifica no presente caso.
+Nesse sentido:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO DE USO PERMITIDO. INSUFICIÊNCIA DE PROVA E USO NO LOCAL DE TRABALHO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO PARA POSSE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. CONDENAÇÃO BASEADA EM DEPOIMENTO DE POLICIAIS MILITARES. POSSIBILIDADE. RECURSO IMPROVIDO.
+1. Desconstituir o entendimento do Tribunal de origem, que reconheceu ter o acusado sido flagrado portando arma de fogo de uso permitido em área particular de outrem, objetivando o acusado a absolvição ou a desclassificação do delito, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula 7/STJ.
+2. O depoimento dos policiais militares que flagraram o acusado cometendo o ilícito penal constitui meio idôneo a amparar a condenação, conforme já sedimentou esta Corte de Justiça.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 739.749/RS, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 19/5/2016, DJe 27/5/2016)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
