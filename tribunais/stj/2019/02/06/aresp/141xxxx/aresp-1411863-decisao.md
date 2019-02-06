@@ -1,0 +1,27 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO C/C INDENIZAÇÃO. HONORÁRIOS SUCUMBENCIAIS FIXADOS DE FORMA EQUITATIVA (ART. 85, § 8º DO NCPC). PERCENTUAIS PREVISTOS NO ART. 85, § 2º DO NCPC. INAPLICABILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO
+DECISÃO
+ELITE ELETRICIDADE TÉCNICA LTDA promoveu contra EBC - EMPRESA BRASILEIRA DE COBRANÇAS LTDA - ME, ARELI COELHO PEDROSA (ARELI) E ISABELLE MACEDO SOUZA E SILVA (ISABELLE), ação de ressarcimento c/c indenização por danos morais, a qual foi extinta sem julgamento do mérito, tendo em vista a ausência de recolhimento das custas, tendo sido fixados os honorários advocatícios no valor de R$ 3.000,00 (três mil reais) para cada réu (e-STJ, fls. 481/483).
+Interposta apelação pelas partes, o Tribunal de origem não conheceu do recurso interposto por EBC, bem como negou provimento ao apelo de ARELI e ISABELLE, em acórdão assim ementado:
+Prestação de serviços. Ação de ressarcimento cumulada com indenização por danos morais. Inépcia da inicial reconhecida. Extinção do feito, sem julgamento do mérito. Recurso da autora fundado no indeferimento da gratuidade pretendida. Razões recursais que não atacam os fundamentos da sentença. É manifestamente inadmissível recurso de apelação cujas razões recursais são dissociadas do que restou decidido na sentença. Honorários sucumbenciais. Fixação equitativa. Cabimento. Manutenção da verba na forma da r. sentença. Recurso da autora não conhecido. Não provido o das corrés (e-STJ, fl. 641).
+Os embargos de declaração opostos por ARELI e ISABELLE foram rejeitados (e-STJ, fls. 660/663).
+Inconformadas, ARELI e ISABELLE interpuseram recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação do art. 85, § 2º do NCPC, alegando, em síntese, que os honorários advocatícios devem ser fixados de acordo com os limites ali estabelecidos, ou seja, entre 10% e 20% sobre o valor da causa, o que não ocorrera na espécie.
+Afirmaram ainda, que referidos honorários foram fixados em valor ínfimo (R$ 3.000,00 - três mil reais).
+Em juízo de admissibilidade, a presidência da seção de direito privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão cinge-se em estabelecer se os honorários sucumbenciais arbitrados pelo § 8º do art. 85 do NCPC podem ser fixados em percentual inferior a 10%.
+Ao apreciar o tema, o Tribunal de origem consignou que a fixação dos honorários em R$ 3.000,00 (três mil reais) seria razoável para retribuir o trabalho desempenhado pelo causídico, à luz dos incisos do § 2º do art. 85 do NCPC. Confira-se:
+O pedido das apelantes não merece acolhimento, pois a fixação dos honorários sucumbenciais deve atender à natureza compensatória dos serviços profissionais de forma retributiva e condigna.
+Dessa forma, para proceder o arbitramento, é preciso sopesar a natureza da lide, a complexidade do trabalho prestado, a capacidade econômica das partes, o zelo profissional e o tempo despendido para execução das tarefas do patrono.
+No caso concreto, sopesados os aspectos acima mencionados, o arbitramento em percentual sobre o valor da causa (R$ 349.771,40, em março de 2015), revelar-se-ia mesmo excessivo, de forma que a fixação por equidade na forma da sentença, mostrou-se mais adequada às particularidades do caso concreto, quantia que remunera condignamente o profissional (e-STJ, fl. 645).
+Esta Corte Superior já teve a oportunidade de se pronunciar no sentido de que o arbitramento dos honorários sucumbenciais por equidade não está vinculado aos percentuais mínimo e máximo a serem observados nas causas com proveito econômico definido, devendo ser consideradas as circunstâncias em que o trabalho foi realizado.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. APRECIAÇÃO EQUITATIVA. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. LIMITAÇÃO. NÃO OCORRÊNCIA.SÚMULA 83/STJ. NÃO PROVIMENTO.  .. . 3. Na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015. 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1173218/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 15/06/2018)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
