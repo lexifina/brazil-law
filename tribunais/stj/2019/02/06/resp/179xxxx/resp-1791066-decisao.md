@@ -1,0 +1,7 @@
+DECISÃO
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Superior Tribunal de Justiça, nos seguintes feitos: REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP, todos da relatoria do Min. Mauro Campbell Marques, submeteu à Primeira Seção/STJ a questão relativa à "possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal", a fim de que tais recursos sejam julgados na forma dos recursos repetitivos.
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal.
+Posteriormente, tais recursos devem ter seguimento negado (na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça) ou devem ser novamente examinados pelo Tribunal de origem (na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado os acórdãos relativos aos recursos representativos da controvérsia, o recurso especial seja submetido ao procedimento acima referido.
+Publique-se. Intimem-se.
