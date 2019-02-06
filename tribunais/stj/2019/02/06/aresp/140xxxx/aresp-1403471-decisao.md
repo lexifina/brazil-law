@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 148, e-STJ):
+Tutela provisória. Plano de saúde. Cobertura. Fornecimento de aparelho denominado "cough assist". Autor portador de doença neuromuscular a comprometer a sua capacidade respiratória. Expressa indicação médica. Negativa abusiva. Súmula 102 do TJ/SP. Precedentes. Prevalecimento por ora do direito do segurado à preservação de sua saúde. Liminar mantida. Recurso improvido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o recorrente alega violação aos arts. 47, 51 do Código de Defesa do Consumidor; 421, 422 do Código Civil e 10, VI, da Lei 9.656/98.
+Sustenta, em síntese, ser devida a negativa de fornecimento de equipamento não previsto no rol da ANS, em razão da não abusividade da previsão contratual.
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 177/178, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O recorrente sustenta que não teria a obrigação de fornecer ao segurado o aparelho Cough Assist, em razão de cláusula que exclui tal equipamento do rol de cobertura.
+O Tribunal de origem assim se manifestou sobre o tema (fls. 149/151, e-STJ):
+Não se mostram relevantes os fundamentos do recurso.
+O autor ora agravado é portador de doença neuromuscular rara, em razão da qual perdeu movimentos do corpo, vendo comprometidas a capacidade de tossir e a musculatura respiratória.
+Nesse quadro, seu médico assistente solicitou o aparelho "cough assist" (fls. 109), cuja cobertura foi negada pela ré, o que, a princípio, configura conduta abusiva.
+Esta Corte já consolidou o entendimento no sentido de que, "havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS" (Súmula nº 102).
+Há muito vem se decidindo no Colendo Superior Tribunal de Justiça que "o plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura" (Resp. nº 668.216/SP, 3ª T., Rel. Min. Carlos Alberto Menezes Direito, j. 15/03/2007).
+Especificamente sobre a cobertura em questão, esta Corte já se pronunciou em mais de uma oportunidade conferindo a tutela almejada:
+Apelação. Plano de saúde. Ação de obrigação de fazer. Negativa de cobertura de procedimento indicado pelo médico da autora. Sentença de procedência. Autora portadora de [NOME] (Cid. G. 12.2). Prescrição do uso do "Cough Assist Machine", em caráter de urgência, Relação de consumo caracterizada. Aplicação da Súmula 469 do C. STJ. Negativa abusiva da ré de cobrir procedimento prescrito por médico especialista que acompanha o tratamento. Interpretação das Súmulas 96 e 102 deste E. Tribunal de Justiça. Objetivo contratual da assistência médica comunica-se necessariamente, com a obrigação de restabelecer ou procurar restabelecer, através dos meios técnicos possíveis, a saúde do paciente. Despesas tidas em consequência do procedimento indicado e dele decorrentes devem ser assumidas integralmente pela ré, conforme determinado pela r. sentença. Honorários recursais. Aplicação do artigo 85, §11, do CPC/2015 vigente à época da publicação da sentença. Majoração da verba honorária como forma de remunerar o patrono do recorrido pelo trabalho adicional desempenhado em sede recursal. Verificação dos limites estipulados na lei, no cômputo geral, os honorários advocatícios definitivos devem ser fixados em 20% do valor da causa. Consideração do valor devido pelo trabalho extraordinário efetuado em sede recursal. Recurso não provido. (TJSP; Apelação 1010941-76.2016.8.26.0019; Relator (a): Edson Luiz de Queiroz; Órgão Julgador: 9ª Câmara de Direito Privado; Foro de Americana - 2ª Vara Cível; Data do Julgamento: 20/10/2017).
+(..)
+Por outro lado, na análise preliminar da matéria em debate, havendo choque entre o direito do segurado à preservação de sua saúde e o interesse econômico da agravante, há de prevalecer por ora aquele primeiro.
+Nesse mesmo sentido, o Superior Tribunal de Justiça já decidiu que é permitido às operadoras de plano de saúde limitar a cobertura de determinadas doenças, de custeio não obrigatório, sendo-lhes vedado, contudo, limitar o procedimento e insumos médico-terapêuticos indicados por profissional habilitado na busca da cura.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor - desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código de Defesa do Consumidor -, revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico, indicado pelo médico que acompanha o paciente, voltado à cura de doença coberta. Precedentes.
+2. Nesse contexto, alterar as premissas adotadas pelo decisum atacado, no sentido de haver abusividade na negativa de realização do procedimento requerido, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1174176/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/6/2018, DJe 27/6/2018)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ABUSIVIDADE DE CLÁUSULA CONTRATUAL. RECONHECIMENTO. OBRIGAÇÃO DE COBERTURA DE "STENT". REAVALIAÇÃO. SÚMULA Nº 5 DO STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. FORNECIMENTO DE MATERIAL IMPRESCINDÍVEL AO TRATAMENTO MÉDICO. INCIDÊNCIA DA SÚMULA Nº 83/STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice das Súmulas nº 5 e 7 do STJ.
+2. O entendimento dominante nesta Corte Superior é no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura e que é abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário. Incidência da Súmula nº 83 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 549.853/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2014, DJe 25/11/2014)
+Na hipótese, portanto, considerando que o acórdão recorrido está em consonância com a jurisprudência desta Corte acerca da matéria, incide o teor da Súmula 83/STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Intimem-se.
