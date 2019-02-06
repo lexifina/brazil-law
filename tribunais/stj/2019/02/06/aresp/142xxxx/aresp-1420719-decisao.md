@@ -1,0 +1,43 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE PROCEDIMENTO COMUM. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO
+DECISÃO
+Trata-se na origem de agravo de instrumento interposto CARMO VIEIRA (CARMO), em virtude da decisão proferida pelo juízo de piso, indeferindo a concessão da gratuidade da justiça em ação de procedimento comum proposta por CARMO contra BANCO ITAÚ CONSIGNADO S.A. (ITAÚ).
+O Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+Agravo de instrumento. Ação de procedimento comum. Pedido de gratuidade processual indeferido. Não comprovação da hipótese de necessidade. Documentos apresentados que não comprovam a hipossuficiência alegada para a concessão do referido benefício. Decisão mantida. Recurso não provido, com determinação (e-STJ, fl.75).
+Inconformado, CARMO interpôs recurso especial, com base no art. 105, III, a e c, da Constituição Federal, sustentando, violação do art.98. 99,§§ 3º e 4º, do NCPC, sob o argumento de que há provas nos autos de sua insuficiência financeira. Ressaltou que faz jus à concessão do benefício da gratuidade da justiça para todos os atos do processo (e-STJ, fls.81/88).
+O apelo nobre não foi admitido sob o fundamento de incidência da Súmula nº 7 do STJ. CARMO interpôs agravo em recurso especial, sustentando, em síntese, o preenchimento dos requisitos para análise do recurso (e-STJ, fls.90/91 e 94/99).
+Sem contraminuta.
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do pedido de gratuidade judiciária
+A jurisprudência desta Corte é firme quanto ao deferimento da assistência judiciária gratuita para a pessoa física ou jurídica, desde que comprovada a impossibilidade de arcar com as despesas do processo sem prejuízo próprio.
+Na espécie, o Tribunal de origem, soberano na análise das provas, consignou que CARMO não faz jus ao benefício de gratuidade judiciária, conforme se lê dos seguintes trechos:
+Conheço do recurso, embora ausente de preparo, pois o tema em discussão é exatamente o benefício da Justiça gratuita.
+Andou bem o douto Magistrado ao indeferir o benefício da Justiça gratuita.
+Nos termos da Constituição Federal, a Justiça gratuita será prestada aos que comprovarem a insuficiência de recursos (artigo 5º, LXXIV).
+Desse modo, o Juiz deve examinar o caso concreto de molde a conceder o benefício àquele que demonstrar insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios (artigo 98 do CPC/15).(..)
+No caso dos autos, o Agravante pleiteou a gratuidade processual sob o argumento de se encontrar em dificuldades financeiras e não possuir condições de arcar com os custos do processo, sem prejuízo de seu sustento próprio ou de sua família. Contudo, constam dos autos documentos que demonstram ter o Agravante condições de arcar com o valor das custas processuais, a afastar a presunção de hipossuficiência trazida pela declaração acostada à pág. 11 dos autos originais.
+O Agravante, segundo se extrai de seus holerites (págs. 61/64 deste), aufere rendimentos mensais bem próximos dos quatro salários mínimos, valor esse acima do usualmente considerado para a concessão do benefício pleiteado, pela Defensoria Pública de São Paulo, que é de até três salários mínimos, de modo que não logrou êxito em comprovar nos autos sua hipossuficiência para arcar com as custas processuais.
+Não obstante, verifica-se de sua declaração de imposto de renda (págs. 40/45 e 46/56 deste) que, além de aposentado, é empresário e possui patrimônio, o que afasta a alegada hipossuficiência.
+Como bem enunciou o n. Magistrado "a quo": "Conforme informe de rendimentos para declaração de imposto de renda às fls. 46/47, o autor é empresário, possuindo bens e direitos, o que é incompatível com sua alegação de hipossuficiente. Outrossim, observo que o valor a ser recolhido não onerará o requerente a prejudicar lhe o sustento próprio ou de sua família" (pág. 66 deste).
+Importante assinalar que o serviço judicial sempre tem custo e, na hipótese de concessão dos benefícios da Justiça Gratuita, esse custo será suportado: a) por todos os contribuintes de impostos estaduais do Estado de São Paulo, pois o orçamento da Justiça Comum Estadual decorre de repasse de valores, formados por impostos, do Governo do Estado de São Paulo; b) por todos os demandantes que pagam a taxa judiciária, nas ações em trâmite da Justiça Comum Estadual, pois 30% desse tributo é repassado ao Poder Judiciário do Estado de São Paulo, para integrar o "Fundo Especial de Despesa".
+Desse modo, a r. decisão agravada merece ser mantida, com determinação de que as custas de preparo deste Agravo deverão ser recolhidas junto ao Juízo de origem (e-STJ, fls.76/78).
+O recorrente com a sua irresignação busca ultrapassar a conclusão a que chegou o Tribunal a quo, com nítido propósito de revisar o conteúdo fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula nº 7 desta Corte.
+Neste sentido:
+INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. PESSOA JURÍDICA. BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA CONCEDIDO PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. 2. AGRAVO IMPROVIDO.
+1. É inviável, no âmbito de recurso especial, em virtude do óbice da Súmula n. 7 do STJ. rever o entendimento do tribunal de origem, que manteve o deferimento do pedido de justiça gratuita.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 862.849/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/11/2016, DJe 25/11/2016)
+PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. SITUAÇÃO ECONÔMICA VERIFICADA NA ORIGEM. REVISÃO. EXAME DE MATÉRIA DE FATO. SÚMULAS 7 E 83 DO STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, decidiu que o recorrente possui meios de prover as custas do processo.
+2. Aferir a condição de hipossuficiência do recorrente para fins de aplicação da Lei Federal 1.060/50 demanda o reexame de todo o contexto fático-probatório dos autos, o que é defeso a este Tribunal, em razão do óbice da Súmula 7/STJ.
+3. A Corte Especial já pacificou jurisprudência no sentido de que o julgador pode indeferir o benefício da assistência judiciária gratuita, diante das evidências constantes no processo. Incidência da Súmula 83/STJ.
+4. Demais disso, a jurisprudência firmou entendimento no sentido de que a simples declaração de pobreza, firmada pelo requerente do pedido de assistência judiciária gratuita, é relativa, devendo ser comprovada pela parte a real necessidade de concessão do benefício. Agravo regimental improvido.
+(AgRg no AREsp 769.514/SP, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, j. 15/12/2015, DJe 2/2/2016),
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. PREENCHIMENTO DOS REQUISITOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO NÃO ATACADO.
+1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente. Reapreciação de matéria no âmbito do recurso especial encontra óbice na Súmula 7 do Superior Tribunal de Justiça.  ..  5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 820.085/PE, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 16/2/2016, DJe 19/ 2/2016
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo em recurso especial para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § º do NCPC).
+Publique-se. Intime-se.
