@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. COMETIMENTO DE DUAS FALTAS GRAVES. PERDA DOS DIAS REMIDOS PARA CADA FALTA. MANIFESTA ILEGALIDADE. PARECER ACOLHIDO. Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício [NOME], no qual se aponta como autoridade coatora a Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que deu parcial provimento ao Agravo em Execução n. 9000906-50.2017.8.26.0482, nos termos da seguinte ementa (fl. 52):
+AGRAVO EM EXECUÇÃO PENAL - Remição - Pratica de 02 faltas graves durante a execução - Recurso da defesa - Afastamento da perda sucessiva de 1/3 dos dias remidos para cada infração - Improcedência - Observância aos princípios da proporcionalidade e individualização da pena - Precedentes desta E. Corte - Consideração dos dias remidos como pena efetivamente cumprida - Acolhimento - Inteligência do art. 128 da LEP - Recurso parcialmente provido para esse fim.
+Sustenta a defesa que se equivocaram os nobres Julgadores ao determinar a perda sucessiva de 1/3 dos dias que o sentenciado teria direito a remir com relação a cada falta grave. As alterações trazidas pela Lei nº. 12.433/2011 tiveram por objeto beneficiar o sentenciado, de modo a impedir a perda total dos dias remidos. Nos termos da disposição do artigo 127 da LEP, o juiz poderá revogar, até 1/3 do tempo remido, em caso de falta grave. Em nenhum momento se autorizou a revogação de 1/3 do tempo remido para cada falta cometida (fl. 4).
+Requer, assim, a concessão da ordem para restringir a perda dos dias ao máximo de uma única redução de até 1/3 do montante total (fls. 7/8).
+Liminar indeferida (fls. 63/64).
+Informações prestadas (fls. 67/73), o Ministério Público Federal ofereceu parecer pela concessão da ordem (fls. 78/81).
+É relatório.
+Há manifesta ilegalidade a ser sanada, como bem afirmou o Subprocurador-Geral da República [NOME] em seu parecer, cujos fundamentos, a seguir transcritos, adoto como razão de decidir (fls. 79/80):
+ ..  O Tribunal de origem manteve a perda dos dias remidos em 1/3 para cada infração cometida no curso da execução da pena, conforme fundamento a seguir transcrito (fls. 53/54):
+Verifica-se dos autos que o sentenciado realizou atividade laboral no período de 01/04/2016 a 21/04/2016 (fl. 03), com direito, portanto, à remição de sua pena à fração correspondente aos dias trabalhados.
+Em razão disso, efetuou pedido em primeiro grau, que lhe foi parcialmente deferido, porque determinada a perda de 1/3 (um terço) de seus dias remidos, sucessivamente, para cada uma das 02 faltas de natureza grave por ele praticadas posteriormente ao período acima referido.
+Ressalte-se que, com o advento da Lei 12.433/2011, não se admite mais a exclusão do total dos dias remidos pelo sentenciado, limitando-se a perda à fração de 1/3 (um terço).
+Contudo, isso não significa dizer que o juiz da execução está adstrito a esse patamar, porquanto após realizado o primeiro desconto, o reeducando poderia praticar diversas outras infrações sem que lhe acarretasse qualquer perda.
+Nessas hipóteses, o infrator contumaz seria claramente beneficiado em detrimento daquele sentenciado que praticou apenas uma única falta de natureza grave, o que afrontaria os princípios da proporcionalidade e da individualização da pena.
+( )
+Assim, partindo-se da premissa de que o sentenciado não tem assimilado os fins da terapêutica penal, mostrou-se escorreita a decretação da perda dos dias remidos no patamar máximo de 1/3 (um terço), sucessivamente, para cada falta grave praticada, medida esta suficiente e necessária para a prevenção e reprovação de tais comportamentos durante a execução de sua pena
+Segundo dispõe o art. 127 da Lei nº 7.210/1984, com redação dada pela Lei nº 12.433/2011, cometida falta grave pelo condenado, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.
+O artigo 57 do mesmo diploma legal dispõe que na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão.
+O cometimento de falta grave, no curso da execução penal, acarreta a perda de até 1/3 sobre a totalidade dos dias trabalhados até a data da falta grave, não podendo essa fração ser aplicada sucessivamente para cada infração praticada. Nesse sentido, o seguinte julgado do STJ:
+EXECUÇÃO PENAL. FALTA GRAVE. CONSEQUÊNCIA. PERDA DOS DIAS REMIDOS. LIMITAÇÃO. 1/3 (UM TERÇO). LEI N. 12.433/2011. RETROATIVIDADE DA LEI MAIS BENÉFICA. ORDEM CONCEDIDA.
+1. Desalinha-se à jurisprudência do Supremo Tribunal Federal e desta Corte Superior o decisum que determina a perda de 1/3 (um terço) dos dias remidos para cada falta disciplinar, e, por consequência, o retorno do apenado ao regime fechado.
+2. Já é assente o entendimento de que, independentemente do número de faltas graves cometidas, a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal, com a redação dada pela Lei n. 12.433, de 29/6/2011, mais benéfica, está limitada a 1/3 (um terço), eis que "o tempo remido remanescente da perda não poderá ser incluído em nova declaração de perda dos dias remidos, uma vez que se reinicia a contagem dos dias a serem remidos a partir da data da última infração disciplinar" HC n. 293.475/SP, Rel. Ministro Félix Fischer, 5ª T., DJe 11/6/2015).
+3. Ordem concedida para, confirmando a liminar, assegurar ao paciente o direito de permanecer no regime semiaberto, pelo desconto de apenas 1/3 dos dias remidos, em razão das duas faltas graves. (HC 377.088/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2017, DJe 11/05/2017) - grifo nosso
+Deve, portanto, ser reformado o acórdão atacado, para que a perda dos dias remidos seja limitada a 1/3, independente do número de infrações praticadas.
+Em face do exposto, o parecer do Ministério Público Federal é pelo não conhecimento do habeas corpus e, caso conhecido, pela concessão da ordem.
+ ..
+Nesse sentido, confira-se ainda:
+EXECUÇÃO PENAL. FALTA GRAVE. CONSEQUÊNCIA.PERDA DOS DIAS REMIDOS. LIMITAÇÃO. 1/3 (UM TERÇO). LEI N. 12.433/2011. RETROATIVIDADE DA LEI MAIS BENÉFICA. ORDEM CONCEDIDA.
+1. Desalinha-se à jurisprudência do Supremo Tribunal Federal e desta Corte Superior o decisum que determina a perda de 1/3 (um terço) dos dias remidos para cada falta disciplinar, e, por consequência, o retorno do apenado ao regime fechado.
+2. Já é assente o entendimento de que, independentemente do número de faltas graves cometidas, a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal, com a redação dada pela Lei n. 12.433, de 29/6/2011, mais benéfica, está limitada a 1/3 (um terço), eis que "o tempo remido remanescente da perda não poderá ser incluído em nova declaração de perda dos dias remidos, uma vez que se reinicia a contagem dos dias a serem remidos a partir da data da última infração disciplinar" HC n. 293.475/SP, Rel. Ministro Félix Fischer, 5ª T., DJe 11/6/2015).
+3. Ordem concedida para, confirmando a liminar, assegurar ao paciente o direito de permanecer no regime semiaberto, pelo desconto de apenas 1/3 dos dias remidos, em razão das duas faltas graves. (HC n. 377.088/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/5/2017 - grifo nosso)
+Ante o exposto, acolhendo o parecer ministerial, concedo a ordem para determinar que a perda dos dias remidos seja limitada a 1/3, sem depender do número de infrações praticadas (Execução Penal n. 959.346).
+Comunique-se.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
