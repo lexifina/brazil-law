@@ -1,0 +1,38 @@
+DECISÃO
+RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 56 NÃO CONFIGURADO. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, protocolizada pelo Ministério Público da Bahia contra decisão do juízo da Vara do Júri e Execuções Penais da Comarca de Barreiras/BA, proferida no Habeas Corpus n. 0501945-54.2018.8.05.0022, que teria descumprido a Súmula Vinculante n. 56.
+    O reclamante alega que “a Comarca de Barreiras, de entrância final, é dotada de Unidade Prisional, denominada Conjunto Penal de Barreiras, com capacidade para 533 (quinhentos e trinta e três) presos condenados ao Regime Fechado e Semiaberto, bem como presos provisórios, do sexo masculino, consoante redação exposta no Provimento CGJ nº 04/2018 do Tribunal de Justiça do Estado da Bahia (Anexo I)”.
+    Sustenta que, “no tocante ao Regime Semiaberto, o Juiz de Direito que antecedeu o ora reclamado nesta Vara de Execuções Penais, ciente da inoperabilidade das 128 (cento e vinte e oito) vagas destinadas ao semiaberto, tinha entendimento escorreito no sentido de aplicar a Súmula Vinculante 56.
+    Assim, aos presos com regime semiaberto, seja inicial ou em razão de progressão, vinha sendo concedido o benefício da substituição por prisão albergue domiciliar sem monitoramento eletrônico (dada a inexistência de Casa do Albergado ou similar e de aparato eletrônico) nesta Comarca- vide Anexo II”.
+    Afirma que “o preso Caisson Vieira Lima, sentenciado na região Sul do Estado, fora transferido para este Conjunto Penal por ordem do Superintendente de Gestão Prisional do Estado da Bahia, na data de 14 de maio de 2018, conforme (ANEXO V), supostamente, em atenção ao Provimento CGJ nº 04/2018”.
+    Relata que, “constatada a ilegalidade do ato administrativo pela colocação do sentenciado do regime Semiaberto nesta Unidade Prisional – que não possui o semiaberto em funcionamento – esta Promotoria de Justiça ingressou com o Habeas Corpus nº 0501945-54.2018.8.05.0022, pugnando pelo retorno do preso para a Comarca de origem, local onde o regime correto poderia ser executado.
+    Dado o latente constrangimento ilegal na transferência do sentenciado que, após a equivocada transferência, fora colocado em regime prisional mais severo que aquele que faria jus, o eminente Juiz de Direito, à época, da Vara de Execuções Penais desta Comarca, de plano, diante da suficientemente comprovada ilegalidade, concedeu, por sentença o writ, determinando o retorno imediato do preso, isto no dia 08 de junho de 2018 (ANEXO VI).
+    Contudo, ao tomar o Estado conhecimento da decisão (14.06.2018 – ANEXO VII), no dia que se seguiu (15.06.2018 – ANEXO VIII) foi revogada a designação do juiz sentenciante (sem qualquer pedido deste) e designado outro juiz para, da capital do Estado, exercer ‘remotamente’ a jurisdição nesta vara de Execuções Penais”.
+    Assevera que “o Juiz de Direito da Vara do Júri e Execuções Penais de Barreiras/BA, ao postergar a execução da sentença já proferida em sede de Habeas Corpus, vem descumprindo há 60 (sessenta) dias a Súmula Vinculante 56”.
+    Requer a antecipação da tutela para “ser o atual estado de inércia, com urgência cessado por esse Supremo Tribunal Federal, para garantia do cumprimento de suas próprias decisões plenárias (Súmula Vinculante nº 56), até deliberação definitiva”.
+    Eis o teor dos pedidos:
+    “Em face do exposto, o MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA requer:
+    a) sejam requisitadas informações da autoridade judiciária reclamada (Juízo de Direito da Vara do Júri e Execuções Penais de Barreiras), que as prestarás no prazo de cinco dias, conforme artigo 157 RISTF;
+    b) a intimação da Douta Procuradoria-Geral da República para oferecer parecer nos termos do artigo 160 do RISTF;
+    c) Julgue procedente a Reclamação, determinando ao Juízo da Vara do Júri de Execuções Penais da Comarca de Barreiras, alternativamente:
+    c.1) Imediato cumprimento da sentença prolatada no Habeas Corpus nº 0501945-54.2018.8.05.0022, com o retorno do paciente Caisson Vieira Lima à Unidade Prisional de origem ou qualquer outra onde a sua reprimenda possa ser executada no regime adequado de cumprimento, qual seja, o semiaberto;
+    c.2) Na hipótese de entendimento de que haja dificuldades para o cumprimento da sentença, nos estritos termos do quanto prolatada, seja, alternativamente, determinada a saída antecipada de sentenciado do regime com falta de vagas, para o regime aberto, com prisão domiciliar (não há Casa do Albergado na Comarca) e sem monitoramento eletrônico, em razão de não possuir o equipamento o Estado da Bahia”.
+    2. Em 10.8.2018, o Ministro Dias Toffoli requisitou informações à autoridade reclamada a respeito das alegações postas na petição inicial.
+    A autoridade reclamada prestou informações em 13.9.2018.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Com o instituto da súmula vinculante inaugurou-se hipótese de cabimento de reclamação para o Supremo Tribunal Federal, como disposto no § 3º do art. 103-A da Constituição da República.
+    A contrariedade a determinada súmula ou a sua aplicação indevida por decisão judicial ou ato administrativo possibilita a atuação deste Supremo Tribunal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida, com ou sem a aplicação da súmula, conforme o caso.
+    4. O que se põe em foco na presente reclamação é se o juízo da Vara do Júri e Execuções Penais da Comarca de Barreiras/BA teria contrariado a Súmula Vinculante n. 56 do Supremo Tribunal Federal, na qual se enuncia:
+    “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS”.
+    O reclamante alega que o preso Caisson Vieira Lima estaria cumprindo pena em regime semiaberto, pelo que sua transferência para o Conjunto Penal de Barreiras, que não teria local apropriado para esse regime prisional, ofenderia a Súmula Vinculante n. 56.
+    5. A autoridade reclamada, entretanto, informou que Caisson Vieira Lima “encontra-se no regime fechado”. É o que consta também dos dados apresentados pela autoridade reclamada referentes ao Sistema de Informações do Departamento Penitenciário Nacional.
+    Não há nos autos documento a corroborar a alegação do reclamante de que o custodiado faria jus atualmente a cumprir pena em regime semiaberto.
+    Não se há cogitar de contrariedade à Súmula Vinculante n. 56 do Supremo Tribunal Federal.
+    6. Os Ministros deste Supremo Tribunal têm negado seguimento a reclamações análogas à presente, ajuizadas pela mesma promotora de justiça contra o juízo da Vara do Júri e Execuções Penais da Comarca de Barreiras/BA, nas quais também se constatou divergência entre a situação fática narrada na petição inicial e a relatada em informações pela autoridade coatora.
+    Assim, por exemplo: Rcl n. 31.420, Relator o Ministro Alexandre de Moraes, DJe 29.8.2018; Rcl n. 31.435, Relator o Ministro Ricardo Lewandowski, DJe 19.9.2018; Rcl n. 31.430, Relator o Ministro Marco Aurélio, DJe 21.9.2018; Rcl n. 31.462, Relatora a Ministra Rosa Weber, DJe 2.10.2018; Rcl n. 31.464, Relator o Ministro Gilmar Mendes, DJe 18.10.2018; Rcl n. 31.427, Relator o Ministro Edson Fachin, DJe 21.11.2018.
+    7. Pelo exposto, nego seguimento à presente reclamação (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicado o exame da medida liminar requerida.
+    Publique-se.
+    Brasília, 6 de fevereiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
