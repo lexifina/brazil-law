@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. ANISTIA. LEI 8.878/1994. REINTEGRAÇÃO. NATUREZA DO VÍNCULO. CARGO ANTERIOR. PRECEDENTES. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal Regional Federal da 3ª Região, que negou admissibilidade a recurso contra acórdão assim ementado:
+ADMINISTRATIVO. EMPREGADO PÚBLICO DEMITIDO. ANISTIA. LEI N.º 8.878/94. RETORNO AO SERVIÇO PÚBLICO. MOROSIDADE. PEDIDO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. PRESCRIÇÃO CONFIGURADA. REENQUADRAMENTO NO REGIME ESTATUTÁRIO. IMPOSSIBILIDADE. CÔMPUTO DO PERÍODO EM QUE ESTEVE AFASTADO COMO TEMPO DE SERVIÇO INADMISSIBILIDADE.
+1. A pretensão à reparação por danos morais e materiais em razão do retardamento na efetivação do retorno do autor ao serviço público encontra-se prescrita. O entendimento que se firmou no âmbito do Superior Tribunal de Justiça é no sentido de que o termo inicial da prescrição do pleito reparatório é a edição dos Decretos 1498/1995 e 1499/1995, que suspenderam os procedimentos para a efetivação da anistia prevista pela Lei n.º 8878/94, o que acarretou na alegada morosidade no retorno ao serviço público dos beneficiados pela anistia.
+No caso concreto, a ação foi proposta em 21/02/2013, oportunidade em que já havia transcorrido o prazo prescricional qüinqüenal (artigo 1º Decreto n 20.910/32).
+2. O art. 2º da Lei 8878/94 é peremptório no sentido de que o retorno dos anistiados "dar-se-á, exclusivamente, no cargo ou emprego anteriormente ocupado ou, quando for o caso, naquele resultante da respectiva transformação". Caso concreto em que o autor ocupava anteriormente emprego público, sendo legítimo seu retorno ao serviço público sob o regime celetista.
+3. A excepcionalidade do reingresso no serviço público por meio da anistia, torna imperiosa a necessidade de observância do princípio da legalidade (art. 37, II, da CF) na efetivação do retorno ao mesmo emprego ou cargo outrora ocupado (art. 2o da Lei 8878/94), sob pena de violação ao princípio do concurso público (art. 37, II, da CF). Precedentes.
+4. Não há base legal para que seja computado como tempo de serviço o período em que o autor esteve afastado de seu emprego público. A Lei 8878/94 não traz qualquer disposição nesse sentido, ao contrário, dessume-se de suas normas a impossibilidade do recebimento de qualquer vantagem retroativa, direta ou indireta, quanto ao período não trabalhado.
+5. Apelação desprovida.
+Os Embargos de Declaração opostos
+Em suas razões de recurso especial, sustenta a parte recorrente violação dos arts. 2º da Lei nº 8.878/1994 e art. 243, § 1º, da Lei nº 8.112/1990, na medida em que embora reintegrado por conta da anistia, foi enquadrado no regime antigo, ou seja, no regime celetista, não obstante a Lei de Anistia determinasse que no caso de transformação do cargo ou emprego deveria ser enquadrada naquele resultante da respectiva transformação. Por fim, aponta divergência jurisprudencial.
+Apresentadas contrarrazões (e-STJ fls. 503/521).
+A decisão agravada negou seguimento ao especial sob a compreensão de que a revisão do julgado implicaria reexame de provas, nos termos da Súmula 7/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque não pretende revisar provas, mas sim a correta interpretação da legislação federal.
+Ofertada contraminuta (e-STJ fls. 545/548).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo o agravante impugnado os fundamentos da decisão de inadmissibilidade, passo a análise do recurso especial.
+O Tribunal de Origem ao determinar a reintegração do autos na condição de empregado público no regime celetista, assentou os seguintes fundamentos, verbis:
+Conforme se extrai da decisão da Comissão Especial Interministerial - CEI, datada de 27/04/2009 (fls. 101/217), a Administração declarou a condição de anistiado do autor e reconheceu o direito ao retorno ao emprego público anteriormente ocupado, com fundamento no art. 1º, inciso II, da Lei 8878/1994.
+Registro que, diante da excepcional idade do regime de reingresso no serviço público estabelecido pela Lei 8878/1994, há que se ater estritamente aos lermos preconizados pela norma quanto ao retorno do beneficiado pela anistia.
+Nesse ponto, o art. 2o do mencionado diploma legal é peremptório no sentido de que o retorno dos anistiados "dar-se-á, exclusivamente, no cargo ou emprego anteriormente ocupado ou, quando for o caso, naquele resultante da respectiva transformação".
+Em que pese a argumentação do autor em suas razões recursais, certo é que todas elas sucumbem diante do caráter excepcional do reingresso no serviço público com fundamento na anistia, do qual decorre a imperiosa necessidade de observância do princípio da legalidade (art. 37, II, da CF) na efetivação do retorno ao mesmo emprego ou cargo outrora ocupado (art. 2o da Lei 8878/94), sob pena de violação ao princípio do concurso público (art. 37, II, da CF).
+Por estes fundamentos, não se aplica a essa espécie excepcional de reingresso no serviço público a regra de transição disposta no art. 243 da Lei 8112/90 que se destina aos ocupantes de emprego público quando da entrada em vigor do Regime Jurídico Único da União.
+Portanto, o autor deve retornar ao serviço público no mesmo regime vigente à época da demissão, no caso, celetista.
+Com efeito, o acórdão recorrido encontra-se em sintonia com a orientação do STJ no sentido de que o regresso de celetistas anistiados deve respeitar o mesmo regime jurídico anteriormente havido, sob pena de violação do princípio do concurso público (CF, art. 37, II), não lhes sendo aplicáveis os arts. 243 da Lei 8.112/1990 e 19 do ADCT, que discorrem sobre estabilidade excepcional ou anômala para servidores da administração pública direta, autárquica e fundacional.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ANISTIA. RETORNO DE EMPREGADO ORIGINÁRIO DE EXTINTA EMPRESA PÚBLICA AO SERVIÇO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DOS TRANSPORTES. ATO DO MINISTRO DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO. PRETENSÃO DE ALTERAÇÃO DE REGIME JURÍDICO. IMPOSSIBILIDADE. PRECEDENTES DA PRIMEIRA SEÇÃO.
+1. O Ministro de Estado dos Transportes não é parte legítima para figurar no polo passivo deste mandado de segurança, pois o ato indicado por ilegal e abusivo de direito não foi por ele praticado.
+2. Os servidores públicos anistiados devem ser enquadrados no mesmo regime jurídico a que estavam submetidos, sendo, por conseguinte, ilícita a transposição do Regime Celetista para o Regime Jurídico Único federal. Precedentes.
+3. Agravo regimental da impetrante prejudicado.
+4. Mandado de segurança denegado.
+(MS 16.430/DF, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 11/12/2013, DJe 17/12/2013)
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANISTIA. RETORNO. REGIME JURÍDICO CELETISTA OU ÚNICO. ART. 2º DA LEI 8.878/1990.
+1. Trata-se de Mandado de Segurança impetrado por empregados celetistas da extinta Companhia de Colonização do Nordeste, contra ato do Ministro de Estado do Planejamento, Orçamento e Gestão, que não determinou o retorno dos anistiados, anteriormente celetistas, ao Regime Jurídico Único dos servidores públicos.
+2. "Não há como deferir o retorno ao serviço sob regime diverso daquele inicialmente firmado entre o empregado e a empresa pública, não sendo aplicável, na espécie, os artigos 243 da Lei 8.112/90 e 19 do ADCT, tampouco o entendimento fixado pelo Supremo Tribunal Federal na Medida Cautelar na ADI 2.135-4/DF" (MS 14.828/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 14.9.2010). No mesmo sentido: MS 12.781/DF, Rel. Min. Arnaldo Esteves Lima, Terceira Seção, DJe de 4.8.2008; MS 7.857/DF, Rel. Min. Felix Fischer, Terceira Seção, DJ de 25.3.2002; MS 6.336/DF, Rel. Min. Hamilton Carvalhido, Terceira Seção, DJ de 22.5.2000.
+3. Segurança denegada.
+(MS 16.887/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 28/11/2012, DJe 01/02/2013)
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. LEI 8.878/94. ANISTIA. RETORNO DE EMPREGADO ORIGINÁRIO DE EXTINTA EMPRESA PÚBLICA AO SERVIÇO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DAS CIDADES. ATO DO MINISTRO DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO. AUSÊNCIA DE ILEGALIDADE OU ABUSIVIDADE. CONTRATO INICIAL REGIDO PELA CLT. REINGRESSO PELO REGIME ORIGINÁRIO. MODIFICAÇÃO PARA O REGIME JURÍDICO ÚNICO. LEI 8.112/90. IMPOSSIBILIDADE. SEGURANÇA DENEGADA.
+1. Mandado de segurança no qual os impetrantes, anistiados pela Lei 8.874/94, questionam ato que determinara o retorno ao serviço para compor quadro especial em extinção do Ministério das Cidades, sob o regime celetista.
+(..)
+5. A Lei 8.878/94 determina que o retorno ao serviço público dos empregados públicos anistiados deve se dar no mesmo regime jurídico a que estavam submetidos antes da demissão ou dispensa, não sendo lícita a transposição para o Regime Jurídico Único federal. Precedentes: MS 6.336/DF, Terceira Seção, Rel. Min. Hamilton Carvalhido, DJ de 22.5.2000;
+MS 7.857/DF, Terceira Seção, Rel. Min. Felix Fischer, DJ de 25.3.2002; MS 12.781/DF, Terceira Seção, Rel. Min. Arnaldo Esteves Lima, DJe de 4.8.2008.
+6. Não há como deferir o retorno ao serviço sob regime diverso daquele inicialmente firmado entre o empregado e a empresa pública, não sendo aplicável, na espécie, os artigos 243 da Lei 8.112/90 e 19 do ADCT, tampouco o entendimento fixado pelo Supremo Tribunal Federal na Medida Cautelar na ADI 2.135-4/DF.
+7. Ordem denegada.
+(MS 14.828/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 14/09/2010)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ANISTIA. LEI 8.878/1994. GOVERNO COLLOR. REINTEGRAÇÃO. NATUREZA DO VÍNCULO. CARGO ANTERIOR. INDENIZAÇÃO. PERCEPÇÃO RETROATIVA DE VALORES. VEDAÇÃO LEGAL. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. O acórdão atacado está em consonância com o entendimento desta Corte no sentido de que "os servidores públicos anistiados devem ser enquadrados no cargo anteriormente ocupado e no mesmo regime jurídico a que estavam submetidos" (AgRg no REsp 1.167.665/DF, Rel.
+Ministro Jorge Mussi, Quinta Turma, julgado em 28/02/2012, DJe 08/03/2012).
+3. De outro lado, é vedada a retribuição pecuniária retroativa, a qualquer título, aos ex-servidores desligados durante o Governo "Collor", posteriormente anistiados, em razão da demora na sua reintegração aos quadros do Serviço Público.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1468551/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/05/2015, DJe 14/05/2015)
+In casu, incide o teor da Súmula 568/STJ: "O relator monocraticamente o no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
