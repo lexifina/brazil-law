@@ -1,0 +1,35 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. IPI. PREENCHIMENTO INCORRETO NA INDICAÇÃO DO PRODUTO NA GUIA DE EXPORTAÇÃO E NAS NOTAS FISCAIS. AUSÊNCIA DE PREJUÍZO PARA O FISCO. MULTA. DESCABIMENTO. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fulcro na alínea a do art. 105, III da CF/1988, contra acórdão proferido pelo egrégio TRF da 3a. Região, que restou assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPI. DIVERGÊNCIA NA INDICAÇÃO DO PRODUTO NA GUIA DE EXPORTAÇÃO E NAS NOTAS FISCAIS. MULTA. HONORÁRIOS ADVOCATÍCIOS.
+[NOME] casu, desarrazoada a imposição da multa prevista no artigo 365, II, do Regulamento do IPI, visto que, embora o produto mencionado nas notas fiscais não correspondesse à realidade, houve correta indicação dele na guia de exportação e não houve qualquer prejuízo para o Fisco.
+II. Honorários advocatícios majorados.
+III. Apelação da embargada e reexame necessário desprovidos. Apelação da embargante provida parcialmente (fls. 266).
+2. Os Embargos de Declaração opostos (fls. 269/276) foram acolhidos, sem efeitos infringentes (fls. 279/286).
+ 3. Em seu Apelo Raro, a parte recorrente aduz violação do art. 136 do CTN defendendo que a responsabilidade por infração à legislação tributária é de natureza objetiva, razão pela qual impertinente considerar se houve prejuízo ao Fisco ou se o contribuinte agiu com intenção de fraudar a legislação ou não (fls. 293). Pugna pela reforma do julgado.
+4. Com contrarrazões (fls. 301/306), o recurso foi admitido na origem (fls. 308/309).
+5. É o relatório.
+6. O recurso não colhe prosperar.
+7. Com efeito, verifica-se que o acórdão de origem manteve a sentença de procedência dos embargos, com a extinção da execução que objetivava a cobrança de multa decorrente de erro na emissão das notas fiscais, pois embora o produto mencionado nas notas não correspondesse à realidade, houve correta indicação dele na guia de exportação e não houve qualquer prejuízo para o Fisco (fls. 266).
+ 8. Levando em conta o Princípio da Razoabilidade, asseverou a Corte regional, ainda, que:
+Conforme consignou o Juiz, o equívoco na denominação do produto não causou qualquer prejuízo ao Fisco, não se justificando a penalidade imposta.
+Isso porque a divergência entre a denominação do produto na nota fiscal de saída da mercadoria e a declarada na guia de exportação comprova que a embargante não pretendeu enganar o Fisco, já que o produto foi corretamente descrito na guia de exportação.
+Concluiu o Juiz que a penalidade imposta afrontou o princípio da razoabilidade.
+A Fazenda em seu recurso sustenta que a autuação foi acertada, pois a própria embargante teria confessado erro na emissão das notas fiscais, com classificação atribuída ao produto divorciada da realidade.
+Entretanto, conforme consignou o Juiz, a descrição correta do produto na guia de exportação demonstra que houve apenas um equívoco da embargante, e que não houve tentativa de enganar o Fisco. Ademais, o Fisco não teve qualquer prejuízo, não sendo razoável aplicar tão pesada multa (equivalente ao valor da mercadoria) (fls. 264/265).
+9. Nesse sentido é a jurisprudência desta Corte, a saber:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ADUANEIRO. LICENÇA DE IMPORTAÇÃO. PEDIDO DE RETIFICAÇÃO NO SISCOMEX ANTES DA CONFERÊNCIA DA MERCADORIA COM POSTERIOR EMISSÃO DA LICENÇA CORRETA. CONDUTA DO CONTRIBUINTE SEM POTENCIAL LESIVO AO CONTROLE ADUANEIRO. AUSÊNCIA DE PREJUÍZO AO FISCO. NÃO-INCIDÊNCIA DA MULTA PREVISTA NO ART. 169 DO DECRETO-LEI 37/66.
+1. Sendo o Siscomex um sistema abrangente que engloba a Licença de Importação - LI e a Declaração de Importação - DI, a esses dois documentos (etapas no sistema) pode ser dado tratamento uniforme no que diz respeito à aplicação das penalidades previstas no art. 169, do DL 37/66, pois, em última análise, é o conjunto dos registros informatizados no Siscomex que equivale à antiga Guia de Importação (art. 6º, §1º, do Decreto n. 660/92).
+2. Assim, para os casos de retificação espontânea de LI é perfeitamente aplicável a jurisprudência desta Casa que permite a retificação espontânea da DI e da Guia de Importação sem a aplicação de multa se requerida antes da conferência da mercadoria no despacho aduaneiro e não houver qualquer prejuízo para o Fisco. Precedentes da linha jurisprudencial citada: REsp. n. 948.234/SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 04.09.2007; AgRg no Ag. 570.621/RS, Segunda Turma, Rel. Min. Franciulli Netto, julgado em 14.06.2005; REsp. 243.491/CE, Segunda Turma, Rel. Min. Eliana Calmon, julgado em 14.08.2001; REsp. 227.878/CE, Primeira Turma, Rel. Min. Humberto Gomes de Barros, julgado em 12.09.2000; REsp. n. 660.682/PE, Segunda Turma, Rel. Min. Eliana Calmon, julgado em 21.03.2006.
+3. O entendimento parte da constatação de que a norma punitiva deve ser aplicada mediante a observação do potencial lesivo da conduta praticada ao controle aduaneiro, sendo despropositado punir condutas que em nada afetam tal controle e que não geram prejuízo econômico ao Fisco.
+4. No caso concreto, no momento do registro da Declaração de Importação 04/0304893-6, a LI 04/0421130-2 não encerrava a descrição correta da mercadoria importada, tendo sido pleiteada a correção no curso do despacho aduaneiro ainda antes da parametrização, o que gerou posteriormente a LI 04/0576464-0 que corrigiu o equívoco. A multa aplicada pela autoridade fiscal deve ser afastada.
+5. Agravo regimental não provido (AgRg no AREsp. 279.269/AM, Rel. Min. MAURO CAMPBELL MARQUES, DJe 26.5.2015).
+
+TRIBUTÁRIO E PROCESSO CIVIL. ART. 535 DO CPC. ALEGAÇÃO DE VIOLAÇÃO. ADUANEIRO. IMPORTAÇÃO. GUIA DE IMPORTAÇÃO. PREENCHIMENTO INCORRETO. RETIFICAÇÃO. AUSÊNCIA DE PREJUÍZO PARA O FISCO. MULTA DO ART. 526, II, DO REGULAMENTO ADUANEIRO. AFASTAMENTO. PRECEDENTES DO STJ.
+1. Não ocorre violação ao art. 535 do CPC quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia apresentada nos autos.
+2. É incabível a aplicação da multa de 30% incidente sobre o valor da mercadoria, prevista no artigo 526, II, do Regulamento Aduaneiro (Decreto 91.030/85), no caso de preenchimento equivocado da Guia de importação, mormente quando consignado pela Corte de origem ter havido a posterior retificação do ato e não ter a Receita Federal suportado qualquer prejuízo, porquanto o art. 421 do mesmo regulamento prevê a dispensa da multa na hipótese.
+3. Precedentes: AgRg no REsp 653.263/PR, Rel. Ministra Denise Arruda, Primeira Turma, DJ 18/06/2007; REsp 660.682/PE, Rel. Ministra Eliana Calmon, Segunda Turma, DJ de 10.05.2006; AgRg no Ag 570.621/RS, Rel. Ministro Franciulli Netto, Segunda Turma, DJ 08.08.2005; REsp 227.878/CE, Rel. Ministro Humberto Gomes de Barros, primeira turma, DJ 16.10.2000.
+4. Recurso especial a que se nega provimento (REsp. 1.125.348/SP, Rel. Min. SÉRGIO KUKINA, DJe 3.3.2015).
+10. Ante o exposto, nega-se seguimento ao Recurso Especial da FAZENDA NACIONAL.
+11. Publique-se.
+12. Intimações necessárias.
