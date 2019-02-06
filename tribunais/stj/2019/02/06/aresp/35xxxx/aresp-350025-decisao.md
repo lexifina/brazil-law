@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por EDUARDO [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial interposto com fundamento nas alíneas a e c do permissivo constitucional.
+Consta dos autos que o agravante foi condenado, como incurso nas sanções do art. 157, § 2º, incisos I e II, do Código Penal, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e pagamento de 13 (treze) dias-multa, no valor mínimo legal, porque, no dia 15 de janeiro de 2009, na companhia de mais 4 pessoas, agindo com unidade de desígnios, identidade de propósitos e comunhão de esforços, subtraiu para si, mediante violência e grave ameaça exercida com emprego de arma de fogo, R$ 17.000,00 (dezessete mil reais) em espécie.
+Inconformada, a defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem, para reduzir a pena para 5 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa (e-STJ fls. 1.068/1.079).
+Daí o recurso especial, no qual o ora agravante alegou, além da ocorrência de dissídio jurisprudencial, violação aos arts. 59, I e II, e 65, I, do Código Penal; e 387, I, II e III, e 617 do Código de Processo Penal.
+Inadmitido o recurso na origem, os autos subiram a este Tribunal Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ fl. 1.314).
+É, em síntese, o relatório.
+Decido.
+Suficientemente impugnados os fundamentos da decisão de inadmissibilidade do recurso especial e presentes os pressupostos processuais, conheço do agravo. Vejo, no entanto, que a irresignação não merece prosperar.
+De plano, verifica-se que os dispositivos apontados como violados não foram objeto de análise pelo Tribunal a quo, tampouco foram opostos embargos de declaração com o fito de sanar eventual omissão. Assim, revela-se ausente o necessário prequestionamento, o que inviabiliza a apreciação da questão por esta Corte Superior. Incidem na espécie, portanto, as Súmulas n. 356 e 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito, os seguintes julgados desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. NEGATIVA DE VIGÊNCIA DO ART. 51, P.Ú., DA LEI N. 11.343/06. PRORROGAÇÃO DO PRAZO DE CONCLUSÃO DO INQUÉRITO POLICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS ENUNCIADOS N. 282 E N. 356, AMBOS DO STF. (I) - ALEGAÇÃO DE INÉPCIA DA DENÚNCIA APÓS A PROLAÇÃO DO ÉDITO CONDENATÓRIO. PRECLUSÃO. (II) - IRREGULARIDADES NO INQUÉRITO POLICIAL NÃO CONTAMINAM A AÇÃO PENAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 282 e 356/STF.
+2. "Na linha dos precedentes desta Corte, a alegação de inépcia da denúncia deve ser deduzida antes da prolação do édito condenatório, sob pena de convalidação pelo princípio da preclusão". (HC 291.368/SE, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 06/06/2014)
+3. É assente neste Tribunal o entendimento de que "eventuais irregularidades ocorridas na fase investigatória, dada a natureza inquisitiva do inquérito policial, não contaminam a ação penal." (HC 232.674/SP, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 10/4/2013.)
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 843.321/RO, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016, grifei.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE VISTA AO MINISTÉRIO PÚBLICO FEDERAL. NÃO OCORRÊNCIA. REVISÃO CRIMINAL. VIOLAÇÃO AO ART. 621, I, DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+1. Não há falar em nulidade por ausência de vista ao Ministério Público Federal, na medida em que o parecer foi apresentado às fls. 164/170.
+2. Não se conhece da arguida violação ao art. 621, I, do Código de Processo Penal, ante a ausência de prequestionamento, requisito indispensável, a teor dos enunciados sumulares 282 e 356/STF.
+3. Segundo o entendimento desta Corte, ainda que a suposta violação de lei federal tenha surgido no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão, sob pena de não se ter por satisfeito o requisito do prequestionamento.
+4. Agravo regimental improvido. (AgRg no REsp 1112981/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/11/2015, DJe 23/11/2015, grifei.)
+Quanto ao alegado dissídio, verifico que a aventada divergência jurisprudencial não foi demonstrada nos termos exigidos pela legislação processual de regência. A mera transcrição de ementas não serve à comprovação do dissídio, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados.
+Nesse sentido:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E NULIDADE DO ATO DE RECONHECIMENTO DE PESSOA. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.
+ ..
+DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO NOS TERMOS ART. 541, PARÁGRAFO ÚNICO, DO CPC/73 E DO ART. 255 DO RISTJ. RECURSO IMPROVIDO.
+1. O conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional exige a demonstração do dissídio jurisprudencial, de acordo com os requisitos do art. 541, parágrafo único, do CPC/73 e do art. 255 do RISTJ.
+2. Na espécie, deixou o recorrente de realizar o cotejo analítico entre os acórdãos confrontados, evidenciando que foram adotadas soluções diversas em litígios semelhantes, sendo insuficiente a mera transcrição das ementas dos julgados apontados como paradigma.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 729.869/RJ, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/10/2016, DJe 07/11/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSO PENAL. LESÃO CORPORAL GRAVE. PLEITO ABSOLUTÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NECESSIDADE DE TRANSCRIÇÃO DE TRECHOS DOS ACÓRDÃOS RECORRIDOS E PARADIGMA. REINCIDÊNCIA. AGRAVAMENTO DA PENA-BASE EM 1/6. RAZOABILIDADE E PROPORCIONALIDADE. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO INTEGRAL. INVIABILIDADE. AGENTE MULTIRREINCIDENTE. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+2. O conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnado e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial. Diante disso, não é bastante, à realização do cotejo analítico, a simples transcrição de ementas ou votos - como ocorreu na espécie -, pois insuficiente para demonstrar a similitude fática entre o acórdão recorrido e o considerado mais adequado ou "padrão" (arts. 541, parágrafo único, do CPC e 1.029, § 1º, do NCPC).
+ ..
+6. Agravo regimental conhecido em parte e, nessa extensão, não provido. (AgInt no REsp 1475151/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2016, DJe 27/10/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
