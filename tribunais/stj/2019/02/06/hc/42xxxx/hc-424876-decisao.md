@@ -1,0 +1,21 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO PREVIDENCIÁRIO (ART. 171, § 3º, DO CP). ALEGAÇÃO DE AUSÊNCIA DE DEFESA. DEFICIÊNCIA DE DEFESA TÉCNICA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PREJUÍZO NÃO DEMONSTRADO. APLICAÇÃO DO PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal Regional Federal da 1ª Região.
+Os autos dão conta de que o Juízo federal condenou a paciente à pena de 1 ano e 8 meses de reclusão e, 31 dias-multa, como incursa no art. 171, § 3º, do Código Penal (fls. 420/428 - Processo n. 25244-69.2010.4.01.3700).
+Tão somente a acusação recorreu, tendo o Tribunal Regional Federal da 1ª Região dado parcial provimento à apelação ministerial, redimensionando a pena para 2 anos, 2 meses e 20 dias de reclusão, em regime aberto e 46 dias-multa (fls. 476/480 - Apelação criminal n. 0025244-69.2010.4.01.3700).
+Daí a presente impetração, em que se sustenta, em breve síntese, o efetivo prejuízo suportado pela paciente, em decorrência da deficiência da defesa técnica habilitada nos autos (fl. 15).
+Defende que, a paciente não pode sofrer o prejuízo de uma condenação e, muito menos, cumprir uma pena sem ter a oportunidade de exercer de forma efetiva o seu direito constitucional à ampla defesa, que não pode ser prejudicado pela irresponsabilidade de um advogado que agiu do início ao fim do processo de forma desidiosa (fls. 19/20).
+Resumidamente, requer o impetrante a anulação de todo processo, desde seu nascedouro, para que a paciente possa, enfim, exercer seu direito à defesa de forma real e efetiva (fl. 26).
+Ao final, pontua, caso os Ilustríssimos Doutos Julgadores não entendam por reconhecer a deficiência (ou inexistência) da defesa técnica, in limini, então, este humilde defensor, que esta subscreve, requer que seja, LIMINARMENTE, declarada a nulidade absoluta do acórdão proferido nos autos da ação em epígrafe, desconstituindo o trânsito em julgado do feito, com fulcro no verbete da SUM 431, do STF, a fim de que o prazo para apresentação das contrarrazões seja devolvido e referido recurso seja novamente julgado, agora, com a prévia intimação da data da sessão de julgamento deste defensor, que subscreve este mandamus (fl. 41).
+Em 10/11/2017, indeferi a liminar.
+Informações prestadas às fls. 534/588.
+O Ministério Público Federal emitiu parecer pelo não conhecimento do habeas corpus (fls. 590/595).
+É o relatório.
+O impetrante alega nulidade processual em virtude da deficiência de defesa técnica. No entanto, a alegação de que o paciente estaria indefeso desde o momento da apresentação da resposta à acusação não merece prosperar, uma vez que tal pretensão não foi analisada pelo Tribunal de origem, razão pela qual, o presente writ não merece conhecimento, sob pena de indevida supressão de instância.
+Ainda que assim não fosse, não se sustenta a alegação genérica de violação do princípio da ampla defesa, pois, a teor da Súmula 523/STF: No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+In casu, tem-se dos autos que a paciente foi devidamente assistida por advogado constituído durante todo o feito, tendo sido os atos processuais inerentes ao devido processo legal praticados adequadamente, dentro dos prazos legais, inexistindo qualquer constrangimento ilegal daí advindo, tampouco demonstração de prejuízo.
+De mais a mais, acompanho o parecer da Subprocuradora-Geral da República Sra. [NOME] que, assim se manifestou quanto à última insurgência apresentada pela defesa, pontuando que é inverídica a alegada falta de publicação da inclusão do recurso de apelação na da pauta de julgamentos. Conforme informações obtidas no sítio eletrônico do Tribunal Regional Federal da 1ª Região, a pauta de julgamento incluindo a apelação criminal nº 025244-69.2010.4.01.3700 foi publicada em 31 de julho de 2017. Desse modo, é descabida a alegada nulidade do julgamento em segunda instância, por incidência da súmula 431/STF
+Ante o exposto, denego a ordem.
+Publique-se.
