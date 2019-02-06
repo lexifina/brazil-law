@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Ministério Público do Estado de Mato Grosso do Sul contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CRIMINAL – ROUBO MAJORADO PELO EMPREGO DE ARMA – RECURSO DEFENSIVO – REDUÇÃO DA PENA-BASE – MAUS ANTECEDENTES – IMPOSSIBILIDADE – EMPREGO DE ARMA – USO DE FACA – SUPERVENIÊNCIA DA LEI 13.654/2018 – ‘NOVATIO LEGIS IN MELLIUS’ – MAJORANTE REVOGADA – PENA REDIMENSIONADA – RECURSO PARCIALMENTE PROVIDO.
+    Se as circunstâncias judiciais foram corretamente analisadas e a pena bem dosada, é de ser mantida, pois se o réu ostenta diversas condenações penais com trânsito em julgado, é de rigor a negativação da moduladora dos antecedentes e a elevação da pena-base, sendo defeso ao magistrado fixar a pena-base no mínimo diante deste cenário. A simples menção às incidências constantes da certidão de antecedentes é própria da análise desta moduladora, a qual se dá de forma muito objetiva, sendo desnecessário maiores digressões acerca do tema.
+    A Lei nº 13.654, de 23 de abril de 2018, extirpou o emprego de arma branca como circunstância majorante do delito de roubo. Em havendo a superveniência de ‘novatio legis in mellius’, ou seja, sendo a nova lei mais benéfica, de rigor que retroaja para beneficiar o réu.
+    Recurso parcialmente provido, em parte com o parecer.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 65 da Constituição da República.
+    Cabe registrar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Cumpre assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.157.600/MT, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.178.106/MS, Rel. Min. GILMAR MENDES).
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 06 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
