@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais (HC n. 1.000018.096801-8/000).
+Consta dos autos que o recorrente foi preso em flagrante no dia 22/8/2018 pela suposta prática do delito previsto no artigo 29, §1º, III, da Lei 9.605/98 c/c artigo 12 da Lei 10.826/03 c/c artigo 180, §1º, do Código Penal, sendo a custódia convertida em prisão preventiva em audiência de custódia.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 70):
+EMENTA: "HABEAS CORPUS" - RECEPTAÇÃO - CRIME AMBIENTAL - POSSE DE ARMA DE FOGO - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - REVOGAÇÃO DA CUSTÓDIA - IMPOSSIBILIDADE - MOTIVOS JUSTIFICADORES DA SEGREGAÇÃO CAUTELAR DEMONSTRADOS - CONSTRANGIMENTO ILEGAL - INOCORRÊNCIA - ORDEM DENEGADA.
+- Não acarreta constrangimento ilegal a manutenção da prisão preventiva que leva em consideração a necessidade da manutenção da medida constritiva como forma de garantia da ordem pública, evidenciada pela gravidade concreta dos delitos cuja prática é imputada ao paciente.
+No presente recurso, a defesa, inicialmente, nega a materialidade do delito de receptação de combustível ilícito. Nesse sentido, argumenta que é comum na roça, onde o Paciente tem seu domicílio, a aquisição de combustíveis por qualquer pessoa, diretamente dos caminhoneiros, que fazem ponto de parada para descanso, conserto de pneus e lanchar, exatamente onde o paciente/recorrente possui, de fato uma "vendinha" anexa a uma borracharia. (e-STJ fls. 84/85).
+Argumenta, também, que o Ministério Público Estadual, por ocasião do pedido de revogação da prisão preventiva, manifestou-se favoravelmente pela aplicação das medidas cautelares diversas da prisão, sob o fundamento da ausência de pressupostos que poderiam justificar a manutenção da prisão preventiva.
+Por fim, ressalta a inidoneidade dos fundamentos utilizados para a manutenção da medida cautelar extrema, em razão de estarem ausentes os requisitos previstos no artigo 312 do Código de Processo Penal.
+Diante disso, requer seja dado provimento ao recurso, com expedição do devido alvará de soltura.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso, recebendo o parecer a seguinte ementa (e-STJ fl. 100).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. CRIME AMBIENTAL. POSSE DE ARMA DE FOGO. RECEPTAÇÃO. PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE SOCIAL DO AGENTE E GRAVIDADE CONCRETA DOS DELITOS EVIDENCIADAS POR SUA HABITUALIDADE DELITIVA (RECORRENTE JÁ CONDENADO PELA PRÁTICA DE CRIMES SIMILARES AOS DOS PRESENTES AUTOS). RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+É o relatório. Decido.
+O seguimento do presente recurso ordinário em habeas corpus está prejudicado pela perda superveniente do objeto, afinal, o ato coator originário, impugnado pela defesa do paciente, não produz mais efeitos jurídicos. Isso porque, conforme extraído do portal eletrônico do Tribunal de Justiça de Minas Gerais, em 21/01/2019 o paciente foi posto em liberdade, determinando-se a expedição de alvará de soltura.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
