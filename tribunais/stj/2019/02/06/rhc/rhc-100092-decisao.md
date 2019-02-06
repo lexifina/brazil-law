@@ -1,0 +1,9 @@
+DECISÃO
+ERNESTO MATALON alega sofrer coação ilegal em decorrência de acórdão do Tribunal Regional Federal da 2ª Região, denegatório do HC n. 0004931-24.2018.4.02.0000.
+O recorrente busca a revogação do decreto de sua prisão preventiva, exarado em 2/5/2018, nos Autos n. 0060662-28.2018.4.02.5101 (Operação Câmbio Desligo).
+Durante o processamento deste recurso, no dia 10/8/2018, o Juiz substituiu a cautelar ora impugnada por medidas do art. 319 do CPP. Posteriormente, cassou o decisum e, haja vista a situação de foragido do réu.
+Diretamente perante o Supremo Tribunal Federal, a medida extrema foi substituída por fiança de R$ 10 milhões, em decisão liminar. O Juiz exigiu o pagamento da totalidade do valor em espécie, mas o relator do HC n. 162.780/RJ, Ministro Gilmar Mendes, concedeu outra medida de urgência, ainda precária, para que se aceitasse o oferecimento de R$ 2 milhões em espécie e de dois imóveis qualificados pela defesa, mediante registro de hipoteca judicial.
+Ao que parece, atualmente, o conflito existente é entre a decisão do Juiz de primeiro grau que havia estabelecido fiança em valor elevado e a liminar concedida por Ministro do Supremo Tribunal Federal. Ao que se sabe, não há, a respeito do tema, prévia manifestação do Tribunal Regional Federal da 2ª Região, a inaugurar a competência deste Superior Tribunal para incursionar na controvérsia.
+A decisão liminar de Ministro da mais alta Corte de Justiça do país, mesmo que precária, somente poderá ser modificada por deliberação do órgão colegiado ao qual está vinculado. Logo, está o presente recurso ordinário prejudicado. Não há utilidade de analisar a suficiência e adequação de prisão preventiva que não subsiste atualmente.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, julgo prejudicado este recurso ordinário em habeas corpus.
+Publique-se e intimem-se
