@@ -1,0 +1,7 @@
+DECISÃO
+MOISÉS LIMA OLIVEIRA, recorrente neste recurso ordinário em habeas corpus, alega sofrer coação ilegal em seu direito a locomoção, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Pará no HC n. 0803855-60.2018.8.14.0000.
+Em consulta à página eletrônica da Corte estadual, verifiquei que, após a interposição do presente recurso, sobreveio, em 5/11/2018, a prolação de decisão de pronúncia nos autos da ação penal objeto deste recurso (Processo n. 0004422-40.2018.8.14.0028) e foi mantida a segregação cautelar do réu.
+Conforme reiterada jurisprudência de ambas as Turmas Criminais deste Tribunal Superior, a superveniência de decisão de pronúncia, por constituir novo título judicial a amparar o encarceramento provisório do acusado, é causa de prejudicialidade do mandamus impetrado contra anterior decreto de prisão preventiva.
+Tem-se concluído que "não cabe a esta Corte averiguar a motivação do novo decreto constritivo sem que haja prévia submissão desta tese ao Tribunal de origem, sob pena de indevida supressão de instância" (AgRg no HC n. 251.260/MG, Rel. Ministro Og Fernandes, 6ª Turma, DJe 24/6/2013). No mesmo sentido, confira-se o seguinte julgado da Quinta Turma: HC n. 243.953/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 13/3/2013.
+À vista do exposto, com fundamento nos arts. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este recurso ordinário em  habeas corpus, pela perda do seu objeto.
+Publique-se e intimem-se.
