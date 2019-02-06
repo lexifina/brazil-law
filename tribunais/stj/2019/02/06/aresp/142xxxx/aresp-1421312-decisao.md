@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por DISTRITO FEDERAL, contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ÓBITO DE INFANTE. FALHA NA PRESTAÇÃO DO SERVIÇO. FATO CONTROVERTIDO. DISTRIBUIÇÃO DINÂMICA DO ÔNUS PROBATÓRIO. PROVA NEGATIVA AFASTADA. DECISÃO MANTIDA.
+1. A regra expressa no art. 373, § 1º, do CPC, possibilita a distribuição dinâmica do ônus da prova de acordo com quem melhor apresenta condições de produzi-la.
+2. Diante das peculiaridades da causa, em especial, a controvérsia acerca da falha na prestação do serviço, notória a dificuldade da produção da prova pelos genitores da vítima; e, de outro lado, a melhor condição do Distrito Federal para cumprir o encargo, haja vista ter em seu poder documentação propensa a esclarecer as circunstâncias em que prestado o serviço, a fim de apurar eventual falha e o nexo de causalidade com o dano suportado pela família.
+3. Não se trata de atribuir incumbência de comprovar fato negativo, porquanto não se exige que o ente demonstre a falha na prestação de serviço, mas a assertiva de que houve a prestação regular e adequada do serviço inapta a provocar o grave dano, consubstanciado no óbito da criança.
+4. Agravo conhecido e não provido" (fl. 309e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 373, §§ 1º e 2º, do CPC/2015, sustentando ser indevida a inversão do ônus da prova no caso concreto, cabendo à parte autora demonstrar os fatos constitutivos de seu direito.
+Por fim, requer o provimento do recurso.
+Sem contrarrazões.
+Inadmitido o Recurso Especial (fls. 334/335e), foi interposto o presente Agravo (fls. 338/346e).
+Sem contraminuta.
+A irresignação não merece conhecimento.
+Com efeito, o acórdão recorrido rejeitou a pretensão do recorrente, ao fundamento de que "diante das peculiaridades da causa, em especial, a controvérsia acerca da falha na prestação do serviço, notória a dificuldade da produção da prova pelos genitores da vítima; e, de outro lado, a melhor condição do Distrito Federal para cumprir o encargo, haja vista ter em seu poder documentação propensa a esclarecer as circunstâncias em que prestado o serviço, a fim de apurar eventual falha e o nexo de causalidade com o dano suportado pela família" (fl. 311e). Asseverou, ainda, que "não se exige que o ente demonstre a falha na prestação de serviço, mas a assertiva de que houve a prestação regular e adequada do serviço inapta a provocar o grave dano, consubstanciado no óbito da criança" (fl. 312e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
