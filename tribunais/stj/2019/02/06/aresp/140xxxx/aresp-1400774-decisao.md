@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por NEWTON MORAIS SERVIÇOS MÉDICOS S/S contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+APELAÇÃO - EMBARGOS À EXECUÇÃO - CHEQUE - SENTENÇA DE IMPROCEDÊNCIA. CERCEAMENTO DE DEFESA - Ocorrência - Causa subjacente - Possibilidade de exame, na hipótese de não ter havido a circulação do título - Necessidade de plena compreensão dos fatos antecedentes à propositura da demanda, envolvendo a efetiva prestação dos serviços contratados. NULIDADE DA SENTENÇA RECONHECIDA DE OFÍCIO - JULGAMENTO DO RECURSO PREJUDICADO, POR MAIORIA DE VOTOS.
+Nas razões do especial, aponta a recorrente existência de dissídio jurisprudencial, além de violação dos artigos 887 e 896 do Código Civil, alegando que diante da autonomia conferida ao título de crédito, é de ser reconhecida sua abstração e inoponibilidade das exceções pessoais, por conseguinte, sua validade.
+Alternativamente, afirma que cumpriu sua obrigação no negócio jurídico que originou a emissão do cheque objeto da lide.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+No mérito, o Tribunal de origem, ao contrário do afirmado pela agravante, concluiu que o cheque não circulou e que sua emissão foi para prestar caução para futuras despesas de prestação de serviços estéticos adquiridos por uma componente da sociedade de advogados emitente da cártula, como se extrai dos trechos (fl. 229, e-STJ):
+Isto porque, independentemente de o cheque ter sido emitido pela sociedade de advogados apelante para pagamento de serviço beneficiado por pessoa física, que com ela não se confunde, o fato de relevo é o de que não houve a circulação do título, de modo que a apelada exequente não ostenta a condição de "terceira" relativamente à relação jurídica debatida nos autos.
+Se a apelante emitiu o cheque para pagamento dos serviços contratados junto à apelada, independentemente da natureza do serviço ou de quem fosse o efetivo destinatário fático, inconteste que a prestação deveria ter sido integralmente cumprida para que, consequentemente, pudesse ser exigido o pagamento integral do preço.
+A este respeito, todavia, não há elementos suficientes nos autos para que compreendida, de modo exauriente, a controvérsia estabelecida, ainda mais levando em conta que, em primeiro grau, sequer se oportunizou às partes que pleiteassem as provas que pretendiam produzir.
+Isto posto, em respeito ao princípio da ampla defesa, respeitado entendimento em sentido contrário, a r. sentença deve ter sua nulidade reconhecida, para que os autos retornem à origem e se possibilite a instrução probatória a respeito da causa debendi.
+Observo que o acórdão recorrido está em harmonia com a orientação desta Corte Superior. Ademais, rever tais premissas lançadas no acórdão atacado esbarraria no óbice da Súmula nº 7, desta Corte Superior. De igual teor, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. SUSTAÇÃO EM VIRTUDE DE DESACORDO COMERCIAL CIRCULAÇÃO DOS CHEQUES. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cotejando as premissas do acórdão estadual, constata-se que a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. A parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 821.059/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 16/3/2016)
+CHEQUE. CAUÇÃO. CAUSA DEBENDI. POSSIBILIDADE - Cheque entregue para garantir futuras despesas hospitalares deixa de ser ordem de pagamento à vista para se transformar em título de crédito substancialmente igual a nota promissória.
+- É possível assim, a investigação da causa debendi de tal cheque se o título não circulou.
+- Não é razoável em cheque dado como caução para tratamento hospitalar ignorar sua causa, pois acarretaria desequilíbrio entre as partes. O paciente em casos de necessidade, quedar-se-ia à mercê do hospital e compelido a emitir cheque, no valor arbitrado pelo credor.
+(REsp 796.739/MT, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, DJ 7/5/2007)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
