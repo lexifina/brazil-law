@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP contra decisão que negou seguimento a recurso especial sob o fundamento de óbice na Súmula 7 deste Tribunal Superior.
+A insurgente defende em síntese que a questão fática está delimitada no acórdão recorrido, consistente na intimação da ANP no mesmo dia da realização da perícia, impossibilitando o encaminhamento de assistente técnico ao local. Admite que fiscal da autarquia acompanhou a retirada do lacre e recolhimento do combustível do caminhão tanque. No entanto, esse fiscal não foi orientado a acompanhar o trabalho pericial realizado no laboratório do INT.
+Argumenta que, diante desse cenário reconhecido no acórdão, estaria configurada a violação dos arts. 421, § 1º, 425 e 431-A do CPC/1973.
+Finaliza o recurso afirmando que (e-STJ, fl. 366):
+Permissa venia, não é o caso: de reexame de provas, até porque não se controverte acerca do fato de a ANP não ter tido a oportunidade de participar do ato probatório com a indicação e atuação de seu assistente técnico. O que se discute é apenas a legitimidade - ou a falta de legitimidade - da prova produzida sem que tenha tido a ANP a oportunidade de participar.
+14. A matéria é de direito e se resume ao seguinte: é válida a prova pericial produzida sem que tenha uma das partes tido a oportunidade de participar com a atuação de seu assistente técnico pelo fato de a intimação para o ato ter ocorrido no mesmo dia em que o exame pericial
+Parecer do Ministério Público Federal - MPF às e-STJ, fls. 379-382, pronunciando-se no sentido do não provimento do agravo em recurso especial.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O recurso especial foi interposto com base no art. 105, III, alínea "a", da CF/1988, em oposição a acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ, fl. 337):
+AÇÃO CAUTELAR. PRODUÇÃO ANTECIPADA DE PROVA PERICIAL. PRESENÇA DO FUMUS BONI IURIS E DO PERICULUM IN MORA. DESPROVIMENTO DA APELAÇÃO.
+1. A ação cautelar tem natureza acessória e como objetivo fundamental garantir a eficácia do provimento final de um processo de conhecimento (in casu, a futura ação principal de ressarcimento). Ademais, pressupõe a presença simultânea dos requisitos cautelares específicos, quais sejam, o fumus boni iuris e o periculum in mora. O primeiro consubstanciado na plausibilidade de que a tese jurídica defendida pelo requerente venha a prevalecer no julgamento da lide principal, e o segundo consistente na possibilidade da ocorrência de um dano irreparável ou de difícil reparação, antes do julgamento da lide.
+2. Na presente medida cautelar, a requerente objetiva a produção de prova pericial, com a análise técnica de combustível armazenado em caminhão que fora lacrado pela ANP e a perícia foi realizada pelo Instituto Nacional de Tecnologia, considerando-se presentes os requisitos (fumus boni iuris e o periculum in mora) para a concessão da liminar.
+3. Inexistência de erro de procedimento, já que se verificou a presença de representante da ANP na data designada para o início da Perícia, com a coleta da amostra.
+4. Apelação conhecida e desprovida.
+Alega a recorrente no recurso especial violação dos arts. 421, § 1º, 425 e 431-A do CPC/1973, uma vez que, dada as circunstâncias fáticas anteriormente relatadas, não teria tido oportunidade de participar do trabalho pericial por meio de seus assistentes técnicos.
+Contrarrazões às e-STJ, fls. 352-355.
+É o relatório.
+O óbice ao conhecimento do recurso com fundamento na Súmula 7 do STJ se impõe; não pelos fatos mencionados no agravo, os quais, de fato, são incontroversos, mas pela seguinte situação reconhecida pelo órgão julgador do tribunal de origem (e-STJ, fl. 333):
+Deste modo, não houve o erro de procedimento alegado, já que se verificou a presença de representante da ANP na data designada para o início da perícia, com a coleta da amostra. E, por óbvio, tal presença somente era necessária na coleta da amostra do produto que se encontrava lacrado no caminhão. A análise da amostra foi feita em laboratório por técnicos do INT e o prazo para tal análise poderia ser de até 2 dias úteis, conforme informações do referido Instituto (fl. 80).
+Conforme trecho destacado, reconheceu-se que a presença de assistente técnico somente era necessária na coleta da amostra do produto que se encontrava lacrado. Como houve fiscalização de agente da ANP em tal diligência, não resta configurado qualquer prejuízo à defesa no processo.
+Com isso, para se chegar à conclusão contrária à do Tribunal a quo de que não era necessária a presença de assistente técnico na análise laboratorial do produto, inclusive por demandar prazo de até 2 (dois) dias úteis para conclusão, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, II, do CPC/2015, c/c com o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
