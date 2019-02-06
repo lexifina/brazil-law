@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, c, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 158):
+PREVIDENCIÁRIO - REMESSA NECESSÁRIA, APELAÇÃO CÍVEL E RECURSO ADESIVO - TEMPO ESPECIAL - COMPROVAÇÃO PRESENTE NOS AUTOS - APOSENTADORIA ESPECIAL - ATUALIZAÇÃO DOS VALORES A SEREM PAGOS - APELAÇÃO DO INSS DESPROVIDA, REMESSA NECESSÁRIA E RECURSO ADESIVO DO AUTOR PARCIALMENTE PROVIDOS.
+I - A documentação presente nos autos comprova a especialidade das atividades desenvolvidas pelo autor no período reconhecido na sentença de primeiro grau, fazendo jus ao seu cômputo como laborado em condições especiais.
+II - Com o reconhecimento do período em questão como laborado em condições especiais, o autor apresenta um total de mais de 25 (vinte e cinco) anos trabalhados em condições especiais, fazendo jus à conversão de sua aposentadoria por tempo de contribuição em aposentadoria especial, nos termos previstos no artigo 57 da Lei nº 8.213/91, desde a data do requerimento administrativo.
+III - Os juros de mora, a partir da citação, e a correção monetária devem incidir nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+IV - A atualização das diferenças a serem pagas deve ser realizada até a data do efetivo pagamento das parcelas devidas.
+V - Apelação do INSS desprovida e remessa necessária e recurso adesivo do autor parcialmente providos.
+Foram improvidos os embargos de declaração interpostos.
+No recurso especial (fls. 197-202), o recorrente - sem apontar a legislação federal tida por violada - afirma, em síntese, em relação ao reconhecimento da atividade especial pelo Tribunal a quo, que:
+"O v. acórdão impugnado, ao deixar assente que o fato do laudo e/ou formulários [PLACA]/PPP serem extemporâneos à época do vínculo empregatício não os tornam inaptos à comprovação do tempo de serviço em condições nocivas à saúde do trabalhador, culmina por divergir do entendimento firmado pelo Colendo Tribunal Regional Federal da 5ª Região  .. ."
+Indica, como embasamento ao que defende no recurso, dissídio jurisprudencial com base no julgado do Tribunal Regional Federal da 5ª Região (Apelação Cível n. 2001.84.00.010336-1).
+Foram apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base em óbice constante da Súmula n. 7 do STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+No tocante ao dissídio jurisprudencial, verifica-se, conforme a previsão do art. 255, § 1º, do RISTJ, que é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+Da análise do recurso especial, observa-se que o recorrente não aponta qual o dispositivo infraconstitucional teria sido objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, c, da [NOME], o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça.
+Nesse mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre apontar o dispositivo objeto do dissenso e demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Ademais, a propositura do recurso pela via da divergência jurisprudencial não dispensa o recorrente de apontar qual o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide a Súmula 284/STF. Precedentes do STJ.
+5. Agravo Interno não provido.
+(AgInt no REsp 1581326/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 2/2/2017, DJe 3/3/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO, NO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL VIOLADO OU QUE TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos do art. 105, III, c, da Constituição Federal, é cabível a interposição de recurso especial, quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+II. A Corte Especial do STJ consolidou o entendimento de que a ausência da indicação do dispositivo legal supostamente violado ou que tenha recebido interpretação divergente torna incabível o conhecimento do Recurso Especial, quer tenha sido interposto pela alínea "a", quer pela "c" do permissivo constitucional (STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014).
+III. Considera-se deficiente a fundamentação, quando o Recurso Especial suscita tese a ser apreciada pelo STJ, mas deixa de indicar o dispositivo legal violado ou que teria recebido interpretação divergente, ensejando a aplicação da Súmula 284/STF. Precedentes do STJ (AgRg no AREsp 402.492/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/11/2013; AgRg no AREsp 416.446/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 03/06/2014).
+IV. Agravo Regimental improvido. (AgRg no AREsp 484.048/PB, Rel. Min. ASSUSETE MAGALHÃES, DJe 3/9/2014).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INDICAÇÃO TARDIA DO DISPOSITIVO NO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO DESPROVIDO.
+1. A indicação de dispositivo legal em torno do qual teria ocorrido interpretação divergente é requisito de admissibilidade do recurso especial previsto pelo art. 105, III, c, da CF, exigido mesmo em caso de dissídio notório, sob pena de incidência do óbice da Súmula 284/STF. Precedentes.
+2. Em decorrência da preclusão consumativa, a ausência de indicação do dispositivo na ocasião da interposição do recurso especial não é sanada pelo agravo contra a inadmissão daquele recurso.
+3. Agravo interno desprovido.
+(AgInt no AREsp 895.772/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 7/3/2017, DJe 13/3/2017).
+Por fim, ainda que assim não fosse, a decisão proferida pelo Tribunal a quo está em sintonia com a jurisprudência desta Corte, conforme se observa do seguinte precedente, in verbis:
+PREVIDENCIÁRIO. TERMO INICIAL. CONCESSÃO. APOSENTADORIA ESPECIAL. REQUERIMENTO ADMINISTRATIVO. IRRELEVÂNCIA DA COMPROVAÇÃO EXTEMPORÂNEA. PRECEDENTE DA PRIMEIRA SEÇÃO DO STJ.
+1. A parte recorrente ajuizou ação para ver reconhecido o seu direito a concessão de aposentadoria especial. Contudo, apesar de possuir tempo suficiente para aposentação na data do requerimento administrativo, somente com o laudo pericial se comprovou que a atividade que exercia era especial.
+2. A Primeira Seção do STJ, no julgamento da Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria".
+3. Recurso Especial provido.
+(REsp 1615494/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 1/9/2016, DJe 6/10/2016)
+No mesmo sentido, ainda, a Súmula n. 68 da TNU, in verbis:
+Enunciado
+O laudo pericial não contemporâneo ao período trabalhado é apto à comprovação da atividade especial do segurado.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
