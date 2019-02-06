@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por NAVIERA ULTRANAV LTDA, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pela Décima Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 242):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE AMBIENTAL COM O NAVIO VICU A NO PORTO DE PARANAGUÁ. VAZAMENTO DE ÓLEO E METANOL. PRESCRIÇÃO INTERCORRENTE AFASTADA. AUSÊNCIA DE PRÉVIA INTIMAÇÃO DA AUTORA. CERTIDÃO APÓCRIFA DE CARGA DO PROCESSO PELO PATRONO DA AUTORA. CONTRARIEDADE COM A INFORMAÇÃO CONSTANTE DO SÍTIO DE CONSULTA PROCESSUAL. PRECEDENTES. SENTENÇA CASSADA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 281/288).
+A recorrente sustenta ofensa ao artigo 206, § 3º, V, do Código Civil, bem como divergência jurisprudencial, alegando a ocorrência da prescrição intercorrente no presente caso, uma vez que a caracterização da desídia do credor não depende de sua intimação para dar andamento ao processo.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que as partes fizeram acordo no ano de 2005, retirando os autos em carga o advogado do recorrente, que só os restituiu 9 (nove) anos depois, requerendo a intimação do devedor para comprovar os pagamentos nos termos do acordo.
+Leia-se o excerto do acórdão local (fls. 245/247):
+A discussão se situa na aferição de eventual prescrição intercorrente.
+Perlustrados os autos, vislumbra-se que as partes firmaram acordo, protocolizado a 11/2/2005 (f. 20). Na sequência, fora certificado nos autos que o advogado da Autora retirou a 30/9/2005 os autos em carga, procedendo a sua devolução somente a 10/10/2014 (f. 26).
+Tal circunstância acarretou a extinção do processo, com resolução do mérito, em face da prescrição intercorrente.
+É sabido que a prescrição intercorrente se consuma pela paralisação do processo, de forma injustificada, por prazo superior àquele previsto para a prescrição da própria pretensão da parte. Tema tratado na Súmula nº 150 do STF e prevista no art. 924, inciso V, do novo Código de Processo Civil. Tal instituto comumente aplicável somente aos processos de execução, exige previa intimação da parte para dar andamento ao processo. Nesse sentir, são os precedentes do Superior Tribunal de Justiça:
+(..)
+Some-se a isso que a certidão lançada (f. 26), - que deu azo à suposta ocorrência da prescrição intercorrente nos autos -, está dissonante com a informação da Consulta Processual extraída do sítio da Assejepar na rede mundial de computadores -, segundo a qual os autos foram devolvidos a 24/3/2007 (f. 70) e não 07.10.2014, como constou à f. 26.
+Saliento, ainda, que sequer fora colhida a assinatura do procurador da parte que retirou o processo em carga.
+Para além disso, após a notícia da formalização de acordo entre as partes, competia à serventia proceder a imediata conclusão dos autos para apreciação do pedido, o que de fato, não foi feito. Nesse cenário, assiste razão à Apelante.
+Ocorre que esta Corte decidiu que, nos termos do revogado Código de Processo Civil, a prescrição intercorrente tem início depois de finda a suspensão do processo ou, inexistindo este, decorrido um ano, independentemente de intimação da parte para dar andamento ao processo, senão para alegar alguma causa obstativa da prescrição.
+Veja-se:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe 22.8.2018).
+Como se vê, no caso dos autos, o processo ficou parado e os autos na posse do advogado do credor por prazo equivalente a 3 (três) vezes o da prescrição trienal, aplicável à hipótese, o que torna inequívoco o seu exaurimento.
+Anoto, ainda, que não é necessária a homologação do acordo, pois caracterizaria venire contra factum proprium, uma vez que a parte pretende justamente o seu cumprimento, e, ademais, a certidão de que os autos ficaram em poder do advogado do credor tem presunção de veracidade (fl. 31), sendo a petição do acordo apresentada na mesma data de sua devolução, e ainda consta à fl. 30 recibo de quitação do acordo conferido pela própria credora.
+Relembre-se que o comparecimento da parte supre a ausência de intimação e, embora comparecendo, a recorrida não fez alegação alguma sobre eventual causa que impedisse o curso da prescrição.
+A propósito:
+AGRAVO REGIMENTAL. CITAÇÃO. PRAZO. EXCEÇÃO DE INCOMPETÊNCIA. COMPARECIMENTO ESPONTÂNEO NO CARTÓRIO. CITAÇÃO PELO ESCRIVÃO. CIÊNCIA INEQUÍVOCA. INÍCIO DO PRAZO PARA RESPONDER.
+1. "É pacífico nesta Corte Superior o entendimento segundo o qual o comparecimento espontâneo aos autos para argüição de nulidade relativa a atos de citação e intimação supre possíveis vícios de comunicação processual, contando-se o prazo recursal eventualmente cabível a partir da data do comparecimento, que coincide com a data da ciência inequívoca da decisão a ser impugnada". (REsp 1236712/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/11/2011, DJe 11/11/2011).
+2. No caso dos autos, conforme reconhecem os próprios recorrentes, houve citação dos réus, nos próprios autos (comparecimento espontâneo), pelo escrivão do cartório, tendo-se iniciado o prazo recursal naquele momento diante da ciência inequívoca da parte.
+3. Agravo regimental não provido.
+(AgRg no AREsp 431.547/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 3.3.2015).
+Diante do exposto, dou provimento ao recurso especial para restabelecer a sentença que reconheceu a prescrição intercorrente.
+Intimem-se.
