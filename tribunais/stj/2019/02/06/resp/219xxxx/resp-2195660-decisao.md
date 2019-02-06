@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela FAZENDA NACIONAL com respaldo na alínea "a" do permissivo constitucional, que defende a devolução dos valores recebidos a título de antecipação de tutela judicial posteriormente revogada.
+Passo a decidir.
+A Primeira Seção do Superior Tribunal de Justiça, em 14/11/2018, acolheu questão de ordem nos Recursos Especiais n. 1.734.685/SP, n. 1.734.627/SP, n. 1.734.641/SP, n. 1.734.647/SP, n. 1.734.656/SP e n. 1.734.698/SP, da relatoria do em. Ministro Og Fernandes, propondo a revisão da tese firmada no Tema repetitivo n. 692/STJ quanto à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS em virtude de decisão judicial precária, que venha a ser posteriormente revogada.
+A questão de ordem foi autuada como Pet n. 12.482/DF (art. 927, § 4º, do CPC e art. 256-S do RISTJ, na redação dada pela Emenda Regimental n. 24, de 28 de setembro de 2016), tendo sido vinculada no referido tema repetitivo, com determinação de suspensão, em todo território nacional, do trâmite dos processos ainda sem trânsito em julgado, individuais ou coletivos.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal Superior a fim de que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que apliquem as medidas cabíveis previstas nos art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
