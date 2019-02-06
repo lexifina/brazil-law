@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 29, Vol. 9):
+    “EXECUÇÃO DE TÍTULO JUDICIAL - Desapropriação, ora em fase de execução (pagamento de precatório) - Pretensão de afastar os juros moratórios e compensatórios – Inviabilidade - Precatório que sequer foi submetido à moratória inserida no art. 78 da ADCT - Decisão mantida Recurso improvido.”
+    Opostos Embargos de Declaração foram rejeitados (fl. 69, Vol. 9).
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente aponta violação aos arts. 5º, XXXVI; 100, § 12; 78 do ADCT, bem como à EC 30 e à EC 62 da CF/1988. Aduz, em síntese, que não incidem juros moratórios e compensatórios no período de parcelamento instituído no referido artigo da Carta Republicana (fls. 13-68, Vol. 11).
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Quanto à alegação de afronta ao art. 5º, XXXVI, da Constituição, o apelo extraordinário não tem chances de êxito, pois esta Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Devolvidos os autos ao Tribunal de origem para fins de eventual adequação da fundamentação e/ou manutenção da decisão, o Juízo a quo manteve o entendimento firmado no acórdão recorrido que consignou o seguinte (fl. 30, Vol. 9):
+    “Malgrado ter o C. Supremo Tribunal Federal fixado entendimento de não incidirem juros moratórios e compensatórios no prazo da moratória constitucional, posição também admitida no E. Superior Tribunal de Justiça, o certo é que não se pode dar vigência aqui ao que se decidiu naqueles C. Tribunais, porque a situação é outra.
+    No presente caso, o precatório não foi submetido à moratória inserida no art. 78 da ADCT. Como bem observado pelo magistrado singular:
+    ‘[...] o precatório destes autos é de 1998, e o pagamento só foi realizado em 2011, treze anos depois.
+    Não foi feito o pagamento de qualquer parcela.
+    (...)’”
+    Ademais, foram os seguintes os fundamentos do Tribunal de origem para manter o acórdão recorrido (fl. 9, Vol. 18):
+    “No presente caso, ficou consignado o fato de que o precatório não foi submetido à moratória inserida no art. 78 da ADCT. Assim, considerando-se que o precedente do Pretório Excelso louvou-se em hipótese distinta e apreciou questão jurídica diversa, nada há de ser alterado.
+    Conforme afirmado no julgado:
+    ‘[...] inexistiu pagamento fracionado em parcelas anuais, iguais e sucessivas, sendo certo que a devedora apenas efetivou um único depósito extemporâneo em evidente desobediência à lei.
+    Não pode, assim, pretender que sejam aplicados os efeitos da moratória (interrupção de juros compensatórios e moratórios a partir do dia 13/09/2000) se nem mesmo houve a adoção desta sistemática. (...)’” .
+    Como se vê, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 6 de fevereiro de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
