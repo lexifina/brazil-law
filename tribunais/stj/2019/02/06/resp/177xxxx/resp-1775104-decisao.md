@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO JULGADA IMPROCEDENTE. CUMPRIMENTO DO CONTRATO DE FORMA EXPRESSIVA. ADIMPLEMENTO SUBSTANCIAL. MANUTENÇÃO, IN TOTUM, DA SENTENÇA RECORRIDA.
+I- A controvérsia travada em sede recursal diz respeito à aplicabilidade da Teoria do Adimplemento Substancial, que estabelece que diante do cumprimento parcial da avença que se aproxime da totalidade do estipulado na avença, é retirado do credor o direito de pleitear a rescisão do contrato.
+II- Observa-se que, embora não haja expressa previsão no CC/02, tal instituto encontra guarida no ordenamento jurídico nacional consectário dos princípios da boa-fé objetiva e da função social do contrato, como se exprime do art. 187, do CC/02.
+III-Assim, caracteriza-se o adimplemento substancial sempre que há expressivo cumprimento do contrato e há boa-fé objetiva na execução, de modo a preservar o equilíbrio contratual e evitar o enriquecimento sem causa e o abuso de direito do credor.
+IV - Na hipótese dos autos, a planilha de fls. 103, acostado pelo Apelante, informa que 97,22% (noventa e sete vírgula vinte e dois por cento) do contrato já foi liquidado, razão pela qual se devem ser observados os princípios da boa-fé objetiva e a função social do contrato, afastando-se a possibilidade de rescisão do contrato quase integralmente cumprido.
+V- Desse modo, a busca e apreensão do veículo dado em garantia, por ser medida excessivamente gravosa ao devedor, deve ser obstada, em decorrência da aplicação da teoria do adimplemento substancial, o que não retira o direito de o credor buscar os efeitos desejados por outros meios menos gravosos.
+VI- Recurso conhecido e improvido.
+VII-Decisão por votação unânime.
+Os embargos de declaração tiveram provimento negado (e-STJ, fls. 221-227).
+A recorrente sustenta ofensa aos artigos 489, § 1º; 1.022 do Código de Processo Civil/2015; 187, 421, 422, 475 do Código Civil; e 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969, alegando ser devida a busca e apreensão do bem em razão da inaplicabilidade da teoria do adimplemento substancial para considerar a purga da mora do devedor.
+Suscita dissídio jurisprudencial
+Assim delimitada a controvérsia, passo a decidir.
+As instâncias ordinárias julgaram improcedente a ação de busca e apreensão ante a aplicação da teoria do adimplemento substancial do contrato, veja-se (e-STJ, fls. 195-197):
+Assim, caracteriza-se o adimplemento substancial sempre que há expressivo cumprimento do contrato e há boa-fé objetiva na execução, de modo a preservar o equilíbrio contratual e evitar o enriquecimento sem causa e o abuso de direito do credor.
+Na hipótese dos autos, a planilha de fls.103, acostado pelo Apelante, informa que 97,22% (noventa e sete vírgula vinte e dois por cento) do contrato já foi liquidado, razão pela qual se devem ser observados os princípios da boa-fé objetiva e a função social do contrato, afastando-se a possibilidade de rescisão do contrato quase integralmente cumprido.
+Desse modo, a busca e apreensão do veículo dado em garantia, por ser medida excessivamente gravosa ao devedor, deve ser obstada, em decorrência da aplicação da teoria do adimplemento substancial, o que não retira o direito de o credor buscar os efeitos desejados por outros meios menos gravosos.
+(..)
+Volvendo-se aos autos, conStata-se que o Devedor/Apelado pagou 56 das 60 parcelas do contrato de financiamento do veículo, e apresentou proposta de acordo para a quitação do mesmo, depositando judicialmente R$2.500,00 (dois mil e quinhentos reais), motivo pelo qual, pautando-se nos princípios da boa- fé objetiva e na vedação do enriquecimento ilícito do credor, a Magistrada a quo determinou a expedição de alvará para o levantamento do bem depositado em juízo, revogou a liminar deferida e julgou improcedente o pedido formulado pelo ora Recorrente.
+Assim, por todos os motivos alhures discorridos, a manutenção da sentença é medida que se impõe.
+Ocorre que a Segunda Seção desta Corte, no julgamento do REsp repetitivo 1.418.593/MS, sob a relatoria do Ministro Luís Felipe Salomão, entendeu que, para afastar a mora nas ações de ação de busca e apreensão, deve o devedor pagar a integralidade da dívida. Confira-se sua ementa:
+ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO DE BUSCA E APREENSÃO. DECRETO-LEI N. 911/1969. ALTERAÇÃO INTRODUZIDA PELA LEI N. 10.931/2004. PURGAÇÃO DA MORA. IMPOSSIBILIDADE. NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA NO PRAZO DE 5 DIAS APÓS A EXECUÇÃO DA LIMINAR.
+1. Para fins do art. 543-C do Código de Processo Civil: "Nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária".
+2. Recurso especial provido.
+(DJe de 27.5.2014)
+Após alguns precedentes firmados nesta Corte privarem o credor do direito à busca e apreensão em razão do pequeno resíduo de prestações, a Segunda seção, no recente julgamento do REsp 1.622.555/MG, de relatoria do Ministro Marco Buzzi, ainda pendente de publicação, abordou a questão do adimplemento substancial nas ações de busca e apreensão, mormente ante o entendimento firmado em sede de recurso repetitivo acerca da impossibilidade de purgação da mora, concluindo que há contradição entre a aplicação da teoria do adimplemento substancial com a disposição da lei e com o próprio posicionamento adotado no REsp repetitivo 1.418.593/MS.
+Diante do precedente citado, não há como afastar o exercício regular do direito do credor na busca e apreensão do bem.
+Em face do exposto, dou provimento ao recurso especial para julgar procedente a ação de busca e apreensão e inverto a sucumbência, nos moldes como fixados na sentença (e-STJ, fl. 127), em benefício do recorrente.
+Intimem-se.
