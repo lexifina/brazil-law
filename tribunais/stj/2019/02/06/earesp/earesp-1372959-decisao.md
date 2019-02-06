@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. NÃO RECEBIMENTO. TRIBUNAL DE ORIGEM QUE ASSENTA A AUSÊNCIA DE GARANTIA DO JUÍZO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. NÃO RECEBIMENTO EM FACE DE INTEMPESTIVIDADE. INAPLICABILIDADE DO INCISO II DO ART. 16 DA LEF. MANUTENÇÃO DA SENTENÇA DE NÃO RECEBIMENTO POR OUTRO FUNDAMENTO. INEXISTÊNCIA DE GARANTIA.
+I) A juntada da prova do seguro garantia não pode servir de marco inicial para a contagem do prazo de 30 dias para a interposição dos embargos porquanto a redação atual do inciso II foi conferida pela Lei nº. 13.043, de 13/11/2014, que entrou em vigor após a oferta da garantia.
+II) Considerando que a lavratura da penhora não foi realizada até o presente momento e que o exequente expressamente rejeitou o bem ofertado, a sentença que não que não recebeu os embargos deve ser mantida por outro fundamento, qual seja a ausência de garantia. O § 1º do art. 16 da LEF é claro ao estabelecer que "não são admissíveis embargos do executado antes de garantida a execução."
+APELO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente alega violação ao art. 16 da Lei nº 6.830/80, asseverando que: a) foi "apresentado seguro garantia em valor superior ao débito, garantindo integralmente o juízo" (fl. 462), razão pela qual não podem ser considerados intempestivos os embargos à execução fiscal opostos; b) "não há necessidade de aceitação da garantia pelo executado para oposição dos respectivos embargos à execução fiscal" (fl. 462); c) "a execução fiscal foi devidamente garantida com seguro garantia" (fl. 468), devendo ser reputados tempestivos os embargos do devedor opostos; e d) "o juízo estava garantido, então, não se pode aplicar o § 1º do art. 16 da Lei nº 6.830/80 no presente caso" (fl. 469).
+Invoca, ainda, divergência jurisprudencial.
+Não houve apresentação de contrarrazões.
+O recurso foi inadmitido pela decisão de fls. 489/496, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Observa-se que o Tribunal de origem assentou que a lavratura da penhora não fora realizada e que a Municipalidade exequente expressamente rejeitara o bem ofertado. Nesses termos, concluiu que, ausente a garantia do juízo, correta, ainda que por fundamento diverso, a sentença de primeiro grau que não admitira os embargos à execução fiscal (fl. 427):
+"Todavia, conforme ressaltado pela própria apelante em suas razões recursais, a lavratura da penhora não foi realizada até o presente momento. Ainda, não há nos autos notícia de que o exequente tenha aceitado o bem ofertado à época em que oferecido. Já em sede de embargos, o Município de Capão da Canoa expressamente rejeitou o bem ofertado, conforme se verifica da petição de fl. 296.
+Assim, não é possível considerar que a execução fiscal esteja garantida. E o § 1º do art. 16 é claro ao estabelecer que "não são admissíveis embargos do executado antes de garantida a execução"." (grifou-se)
+Em consequência, acolher a pretensão recursal, para efeito de reputar garantido o juízo da execução fiscal, requer o revolvimento da matéria de fato, providência obstada em sede de recurso especial em razão do óbice contido na Súmula 7/STJ.
+Nesse sentido, confira-se, mutatis mutandis:
+EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. CERTIDÃO POSITIVA DE DÉBITOS COM EFEITO DE NEGATIVA. DISCUSSÃO ACERCA DA GARANTIA INTEGRAL DA DÍVIDA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO PARA CHEGAR-SE A CONCLUSÃO DIVERSA DA DO ARESTO IMPUGNADO. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Inicialmente, afasta-se a apontada ofensa aos arts. 458 e 535 do CPC/1973. A questão foi dirimida pela Corte Regional em sua integralidade, não se constatando mácula no julgado que justifique o acolhimento da pretensão da recorrente sob este fundamento.
+2. A argumentação exposta nas razões do Recurso Especial quanto à inexistência de garantia idônea ou de causa suspensiva da exigibilidade do crédito controverte a questão fática da causa, cuja investigação é obstada pela incidência da Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1676487/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 17/10/2017) (grifou-se)
+Outrossim, a divergência jurisprudencial, com fundamento na alínea c do permissivo constitucional, sob tal enfoque, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. USUCAPIÃO. 1. PREENCHIMENTO DOS REQUISITOS. REVISÃO. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. 2. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 3. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal estadual, soberano na análise das provas, concluído que a agravada cumpriu os pressupostos exigidos pela legislação (art. 1.240 do CC) e que a usucapião está caracterizada na espécie, não se mostra possível modificar tais conclusões por demandar o reexame do conjunto fático-probatório dos autos, procedimento sabidamente vedado na via do recurso especial (Súmula n. 7/STJ).
+2. O Superior Tribunal de Justiça firmou entendimento de que a incidência do enunciado n. 7 da Súmula desta Corte impede o conhecimento do recurso no que tange à alínea c do inciso III do artigo 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo interno desprovido.
+(AgInt no REsp 1638034/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
