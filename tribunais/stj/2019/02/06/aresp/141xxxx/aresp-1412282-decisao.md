@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE CAMPINAS, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"Apelação Cível - Ação de Cobrança - Contrato administrativo - Prestação de Serviços de limpeza, asseio e conservação predial em áreas internas e externas dos prédios administrados pela Secretaria Municipal de Educação - Cobrança dos consectários da mora no adimplemento das faturas, assim como as diferenças de pagamentos a menor - Sentença de parcial procedência - Recurso do Município - Desprovimento de rigor.
+1. Preliminares de inépcia da inicial e falta de interesse de agir afastadas.
+2. Juros de mora e correção monetária - Pagamentos realizados com atraso/a menor - Fato que se tornou incontroverso nos autos - Devida a correção monetária em razão do pagamento de parcelas em atraso pela Administração, independente de expressa previsão contratual - Inexistência de quitação tácita - Manutenção dos critérios para o cálculo da correção monetária e dos juros moratórios estipulados na r. sentença.
+3. Ônus de sucumbência mantidos (regras vigentes ao tempo da publicação da sentença impugnada).
+R. Sentença mantido. Recurso desprovido" (fl. 1.611e).
+Nas razões do Recurso Especial, interposto com fulcro na alínea a do permissivo constitucional, aduz a parte recorrente violação aos arts. 330, I, 324 e 485 do CPC/2015, 58 e parágrafo primeiro, da Lei 8.666/93, 187 do Código Civil, argumentando que: (a) "o pedido genérico feito na Petição Inicial, além de não estar autorizado no Código de Processo Civil, dificultou sobremaneira o exercício de defesa da Municipalidade, violando princípios caros como o do contraditório e o da ampla defesa. Isto porque, a Contestação do Município teve que ser elaborada sem uma noção clara a respeito do valor ao qual estava sendo cobrada. Sem esta ciência, não houve como fazer uma impugnação, nesta oportunidade, de cada um dos pontos que estavam sendo cobrados, o que trouxe prejuízo no exercício de defesa da Municipalidade" (fl. 1.628e); (b) "a recorrida roga por elementos claramente econômicos não previstos no contrato administrativo, quais sejam a correção monetária e os juros. Trata-se de cláusulas econômicas que, com base no dispositivo supra mencionado, não podem ser modificadas" (fl. 1.629e); (c) "o eventual reconhecimento de juros e correção monetária em pagamentos aceitos pela recorrida, sem qualquer impugnação, ferem o artigo 187 do Código Civil, uma vez que este dispositivo impõe à legislação civil o dever de respeito da Boa-fé Objetiva, que traz em seu bojo o Princípio da confiança" (fls. 1.631/1.632e).
+Requer, ao final, o provimento do recurso.
+Apresentadas as contrarrazões (fls. 1.635/1.644e), negado seguimento ao Recurso Especial (fl. 1.646e), foi interposto o presente Agravo (fls. 1.649/1.658e).
+Apresentada a contraminuta a fls. 1.886/1.893e.
+A irresignação não merece acolhimento.
+Com efeito, a Corte de origem concluiu pelo desprovimento da Apelação Cível interposta pelo Município de Campinas, nos seguintes termos:
+"2.1 Preliminarmente, não há que se falar em inépcia da inicial.
+De sua leitura infere-se que a causa de pedir, em tese, justifica a pretensão deduzida, o que é suficiente para que se considere apta a inicial.
+Além disso, dos fatos narrados decorre logicamente o pedido, o qual foi devidamente compreendido pelo requerido, que pôde exercer, amplamente, seu direito de defesa.
+(..)
+.2 Trata-se de ação ordinária proposta pela empresa Arcolimp Serviços Gerais Ltda., visando à cobrança do Município de valores referentes a juros de mora e correção monetária em razão de supostos pagamentos realizados com atraso e outros a menor.
+A empresa apelada celebrou contratos administrativos com o Município de Campinas (312/05 e 349/06), com o objeto de prestação de serviços de limpeza, asseio e conservação predial em áreas internas e externas dos prédios administrados pela Secretaria Municipal de Educação - SME.
+(..)
+O fato de ter havido pagamentos em atraso de diversas faturas referentes aos serviços prestados pela apelada, e outros a menor, se tornou incontroverso nos autos.
+Importante consignar que a correção monetária não é ônus, mas mera atualização da moeda aviltada pela inflação. Assim, antes de ser um "plus", representa mero mecanismo de preservação dos termos contratuais iniciais.
+(..)
+Inadmissível, assim, a tese de quitação tácita, já que o requerente não se comportou de modo satisfativo com a avença e tem interesse na apuração da integralidade de seu pagamento.
+Cabe observar que os critérios para o cálculo da correção monetária e dos juros moratórios estipulados na r. Sentença e aqui mantidos são aplicáveis no caso em tela ("correção monetária desde o vencimento de cada fatura pela tabela prática de atualização dos débitos das Fazendas Públicas modulada e juros moratórios, de um por cento ao mês desde a citação até 28/06/2009 e de meio por cento ao mês a partir de então").
+Portanto, devido o pagamento das diferenças anotadas perito judicial (fls. 551/1430 e 1495/1499), realizado em conformidade com a determinação do Juízo sentenciante" (fls. 1.612/1.618e).
+Nesse contexto, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, firmada no sentido de que não é possível declarar a inépcia da petição inicial quando a narração dos fatos denota razoável compreensão da causa de pedir e do pedido.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CERCEAMENTO DE DEFESA. PROVA. INDEFERIMENTO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, decidiu pela desnecessidade das provas requeridas. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+3. Não pode ser considerada inepta petição inicial suficientemente instruída, que narra de forma lógica a causa de pedir e os pedidos, e não contém nenhum dos vícios previstos no parágrafo único do art. 295 do CPC/1973, aplicável ao caso.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1230271/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 19/06/2018).
+Ademais, o STJ entende ser devida a correção monetária em razão do pagamento de parcelas em atraso pela Administração, independente de expressa previsão contratual nesse sentido.
+A propósito:
+"PROCESSUAL CIVIL - ADMINISTRATIVO - RECURSO ESPECIAL - CONTRATO ADMINISTRATIVO - HONORÁRIOS ADVOCATÍCIOS - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULA 211/STJ - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - PAGAMENTOS EFETUADOS COM ATRASO - DIREITO À CORREÇÃO MONETÁRIA - EXCEÇÃO A DETERMINADO PERÍODO, POR FORÇA DE PREVISÃO CONTRATUAL - INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL - SÚMULA 5/STJ - OBRIGAÇÃO ILÍQUIDA - JUROS MORATÓRIOS DEVIDOS A PARTIR DA CITAÇÃO.
+1. Não se admite recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. Súmula 211/STJ.
+2. Não ocorre ofensa ao art. 535 do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+3. Esta Corte tem pacífico entendimento no sentido de ser devida a correção monetária em razão do pagamento de parcelas em atraso pela Administração, independente de expressa previsão contratual nesse sentido.
+4. Havendo expressa previsão contratual afastando a correção monetária decorrente de atraso no pagamento para determinado período, por livre acertamento entre as partes, torna-se impositiva a aplicação do princípio pacta sunt servanda.
+5. É inviável o conhecimento do recurso especial quando o acolhimento da pretensão depender da interpretação de cláusulas contratuais. Incidência da Súmula 5/STJ.
+6. Os juros moratórios, em se tratando de obrigação ilíquida, devem incidir a partir da citação.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido" (STJ, REsp 1.178.903/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 03/05/2010).
+"ADMINISTRATIVO. CONTRATO DE OBRA PÚBLICA. PAGAMENTO EM ATRASO. CORREÇÃO MONETÁRIA. JUROS. INCIDÊNCIA.
+1. "A submissão dos contratos administrativos às cláusulas nele estabelecidas, como prevê o art. 44 do Decreto-Lei 2.300/86, não exime a Administração de pagar com correção monetária as parcelas em atraso, ainda que omisso a respeito o contrato. O descumprimento da avença, no caso, se deu pelo atraso do pagamento, e não pela incidência da correção monetária, que nada mais é do que a recomposição do valor real da moeda" (REsp 599.851/RJ, Rel. Min. Teori Albino Zavascki, DJU de 09.05.05).
+2. "Pagamento em atraso, feito pelo Poder Público, só o libera quando integralmente pago, incluindo-se na integralidade os consectários legais e a correção monetária" (REsp 202.912/RJ, Rel. Min. Francisco Peçanha Martins, Rel. p/ acórdão Eliana Calmon, DJU de 12.06.00).
+3. Recurso especial conhecido em parte e provido também em parte" (STJ, REsp 917.309/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJ de 15/08/2007, p. 266).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
