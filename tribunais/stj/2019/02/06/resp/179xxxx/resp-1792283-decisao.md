@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME] (fls. 703/712e), objetivando a reforma de acórdão do Tribunal de Justiça do Estado de Minas Gerais, proferido em apelação, assim ementado (fl. 685/699e):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - BENEFICIÁRIO - ESTADO: ILEGITIMIDADE. 1. A ação para pagamento de prêmio de seguro de vida deve ser proposta em face da seguradora contratada. 2. O Estado que apenas realiza o desconto em folha de pagamento de servidor por opção dele na consignação não possui legitimidade para figurar em ação na qual pleiteia pagamento de seguro de vida.
+APELAÇÃO CÍVEL - AÇÃO DE BENEFICIÁRIO DE SEGURO DE VIDA - PRAZO PRESCRICIONAL DECENAL - PRECEDENTES DO STJ - SENTENÇA CASSADA. O prazo prescricional para a propositura de ação indenizatória pelo terceiro beneficiário de contrato de seguro de vida é decenal, nos termos do art. 205 do Código Civil Brasileiro, não devendo ser confundido com o prazo do segurado que é ânuo (art. 206, II, CCB/02).
+Feito breve relato, decido.
+No caso, a pretensão é a declaração de nulidade da rescisão contratual unilateral efetivada por pessoa jurídica de direito privado e sua condenação no pagamento de prêmio/capital segurado. Portanto, a relação jurídica litigiosa é regida pelas normas do Direito Privado, estando inserida dentre aquelas de competência da Segunda Seção desta Corte, nos termos do art. 9º, caput, § 2º, II e XIV, do Regimento Interno desta Corte.
+Ademais, segundo o entendimento da Corte Especial, "Na definição da competência das Seções deste Superior Tribunal de Justiça, prevalece a natureza da relação jurídica litigiosa. Pouco importa o instrumento processual utilizado ou a espécie da lei que fundamentou a decisão recorrida ou que foi invocada no recurso  .. " (in CC n. 29.481/SP, Corte Especial, Relator Ministro Cesar Asfor Rocha, DJ de 28/05/2001).
+Nesse sentido:
+CONFLITO INTERNO DE COMPETÊNCIA - AGRAVO REGIMENTAL - RELAÇÃO JURÍDICA LITIGIOSA - OBRIGAÇÃO DE DIREITO PRIVADO - COMPETÊNCIA DA SEGUNDA SEÇÃO DO STJ.
+1. A competência interna no STJ é firmada em razão da natureza da relação jurídica litigiosa (res in iudicium deducta).
+2. Recurso especial em que se discute responsabilidade civil de pessoa jurídica de Direito Privado. Competência da Segunda Seção desta Corte, nos termos do art. 9º, § 2º, II, do RISTJ.
+3. Agravo regimental não provido.
+(AgRg no CC n. 109.258/ES, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 01/02/2013, DJe 28/02/2013).
+Verifico que a matéria já foi analisada pelas Turmas que compõem a Segunda Seção, consoante precedentes que ora reproduzo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE SEGURO DE VIDA EM GRUPO. RESCISÃO. OCORRÊNCIA DO SINISTRO ENQUANTO O CONTRATO PERMANECIA ÍNTEGRO EM DECORRÊNCIA DE LIMINAR. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 535 do Código de Processo Civil/73 quando o v. acórdão recorrido, embora não tenha examinado o argumento suscitado pela parte, adota fundamentação suficiente, decidindo integralmente a controvérsia.
+2. Segundo o acórdão recorrido, o pagamento do prêmio é devido porque, apesar de comunicada a rescisão unilateral, ao tempo da ocorrência do sinistro, o contrato de seguro de vida em grupo permanecia íntegro, em decorrência de decisão liminar válida e eficaz.
+3. A ausência de impugnação do cerne do fundamento do acórdão guerreado inviabiliza a análise do mérito do recurso especial.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 833.348/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO CUMULADA COM REPETIÇÃO DE INDÉBITO. SEGURO DE VIDA. ALEGAÇÃO DE NULIDADE DE CLÁUSULAS CONTRATUAIS. PRETENSÃO INDENIZATÓRIA DECORRENTE DA EXTINÇÃO DO CONTRATO. IMPRESCRITIBILIDADE AFASTADA. INCIDÊNCIA DO PRAZO PRESCRICIONAL ÂNUO.
+1. Ação ajuizada em 02/12/2010. Recurso especial atribuído ao gabinete em 26/08/2016. Julgamento: CPC/73 2. O propósito recursal é definir o prazo prescricional aplicável às pretensões deduzidas pelo segurado.
+3. O recorrido, em sua petição inicial, deduz as seguintes pretensões: i) a de manutenção das condições contratuais previstas na "Apólice 40" (apólice já extinta); ii) a declaração de nulidade da cláusula que prevê o reajuste por mudança de faixa etária prevista na "Apólice Ouro Vida Grupo Especial" (apólice ainda vigente); e iii) também, a repetição de indébito relativa aos valores pagos a maior a este título.
+4. Quanto à pretensão de manutenção das condições gerais contidas na "Apólice 40" (contrato já extinto), mostra-se imperiosa a aplicação do prazo prescricional anual previsto no art. 206, § 1º, II, "b", do CC/02, que versa sobre a pretensão do segurado contra o segurador.
+5. Quanto às pretensões relativas ao contrato ainda vigente, constata-se que as mesmas não se restringem à declaração de nulidade das cláusulas contratuais, mas, justamente, à obtenção dos efeitos patrimoniais dela decorrentes, ou seja, a indenização pelos prejuízos advindos do pagamento a maior do prêmio, em virtude da previsão de atualização segundo a mudança de faixa etária.
+6. O prazo prescricional para a propositura de ação objetivando a restituição de prêmios em virtude de conduta supostamente abusiva da seguradora, amparada em cláusula contratual considerada abusiva, é de 1 (um) ano, por aplicação do art. 206, § 1º, II, "b", do Código Civil.
+7. A relação jurídica estabelecida entre as partes é de trato sucessivo, com renovação periódica da avença, devendo ser aplicada, por analogia, a Súmula 85/STJ. Logo, não há que se falar em prescrição do fundo de direito e, como consequência, serão passíveis de cobrança apenas as quantias indevidamente desembolsadas nos 12 (doze) meses que precederam o ajuizamento da ação.
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 1637474/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+Isto posto, DECLINO DA COMPETÊNCIA para a apreciação do presente recurso e DETERMINO a devolução dos autos à Secretaria Judiciária, para a redistribuição do feito a uma das Turmas que compõem a Segunda Seção, nos termos do art. 9º, caput, e § 2º, II e XIV, do Regimento Interno desta Corte.
+Publique-se e intimem-se.
