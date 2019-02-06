@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 126):
+HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Não há nulidade na conversão, de ofício pelo juízo, da prisão em flagrante em prisão preventiva, eis que prevista, expressamente, no art. 310, inc. II, do Código de Processo Penal. Conversão de flagrante em prisão preventiva. Paciente indiciado por haver cometido crimes de tráfico de substância entorpecente e posse irregular de arma de fogo e munições. Existência material dos crimes comprovada e presentes indicativos suficientes de autoria. Por ocasião do fato delituoso, foi o paciente abordado pela polícia, em face de informações de que estaria traficando drogas em seu estabelecimento comercial, na posse de 49 gramas de cocaína, além da quantia de R$ 450,00.
+Ato contínuo, em buscas na residência do paciente, lograram os policiais localizar, ainda, 67 gramas de maconha, diversas munições calibres 22 e 38, além de uma espingarda de chumbinho adulterada para o calibre 22. A decisão hostilizada bem examinou o fato, decretando a prisão para garantia da ordem pública.
+Circunstâncias do fato que revelam maior periculosidade do agente - que já responde outro feito criminal por delito patrimonial - e seu engajamento reiterado na prática delituosa. Por se tratar de procedimento anterior à decretação da prisão preventiva e ao oferecimento de denúncia, a não realização da audiência de custódia, ainda que configure irregularidade, não tem o condão de contaminar os demais atos do processo, ou ainda, a prisão provisória do agente do crime, quando devidamente amparada pelo art. 312 do Código de Processo Penal. Inexistência de constrangimento ilegal.
+ORDEM DENEGADA.
+O recorrente foi preso em flagrante, no dia 30/11/2018, após a apreensão de 46g de cocaína, 67g de maconha, 20 munições de calibre .38, 11 munições de calibre .22 e 1 espingarda de chumbinho, modificada para munição do último calibre. A prisão foi convertida em preventiva em razão da suposta prática dos delitos dos arts. 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003. Diante disso, a defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada.
+Pleiteia o impetrante, em liminar, a revogação da prisão preventiva e a expedição de alvará de soltura em favor do paciente, mediante a imposição de medidas cautelares diversas.
+É o relatório. Decido.
+No HC n. 487.060/RS, distribuído ao Ministro Joel Ilan Paciornik em 23/12/2018, foi formulada idêntica pretensão, na qual se sustenta a ilegalidade da prisão cautelar. A liminar foi apreciada durante o plantão judiciário e indeferida.
+Ou seja, a presente impetração é mera reiteração de pedido formulado em writ anterior que se encontra em curso no STJ, pois, além da identidade de partes, de pedido e de causa de pedir, ambos os writs impugnam o mesmo acórdão e a mesma matéria.
+Ante o exposto, indefiro a liminar.
+Ouça-se o MPF.
+Publique-se. Intimem-se.
