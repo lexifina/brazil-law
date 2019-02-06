@@ -1,0 +1,17 @@
+DECISÃO
+CONFLITO NEGATIVO DE COMPETÊNCIA. INTERDITO PROIBITÓRIO. MOVIMENTO GREVISTA. SÚMULA VINCULANTE 23. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE PARA PROCESSAR E JULGAR A PRESENTE DEMANDA, O JUÍZO DA 18a. VARA DO TRABALHO DE PORTO ALEGRE - RS, O SUSCITANTE.
+1. Trata-se de Conflito Negativo de Competência, envolvendo o JUÍZO DA 18a. VARA DO TRABALHO DE PORTO ALEGRE - RS e o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, nos autos da Ação de Interdito Proibitória proposta contra o Sindicato dos Municipários de Porto Alegre.
+2. A ação foi originariamente distribuída à Justiça Estadual que declarou-se incompetente para o julgamento da demanda, ao argumento de que a competência para processamento e julgamento de interditos proibitórios inerentes à posse, ameaçada por movimentos grevistas, é da justiça do Trabalho, e, não, da Justiça Comum Estadual (fls. 19).
+3. Por sua vez, a Justiça Trabalhista também se declarou incompetente e suscitou o presente Conflito.
+4. É o relatório.
+5. A Emenda Constitucional 45 de 2004 ampliou a competência da Justiça do Trabalho atribuindo-lhe, especificamente no inciso II do art. 114 do Texto Constitucional, competência para processar e julgar as ações que envolvam exercício do direito de greve.
+6. O Supremo Tribunal Federal, no Recurso Extraordinário 579.948/MG, submetido ao regime da Repercussão Geral, reconheceu a competência da justiça laboral para analisar ações de interdito proibitório, decorrente de movimento grevista, a partir do reconhecimento de que a causa de pedir - alegado exercício abusivo do direito de greve - subsume-se ao inciso II do art. 114 da Carta Magna.
+7. Eis a ementa do julgado:
+CONSTITUCIONAL. COMPETÊNCIA JURISDICIONAL. JUSTIÇA DO TRABALHO X JUSTIÇA COMUM. AÇÃO DE INTERDITO PROIBITÓRIO. MOVIMENTO GREVISTA. ACESSO DE FUNCIONÁRIOS E CLIENTES À AGÊNCIA BANCÁRIA: "PIQUETE". ART. 114, INCISO II, DA CONSTITUIÇÃO DA REPÚBLICA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. "A determinação da competência da Justiça do Trabalho não importa que dependa a solução da lide de questões de direito civil" (Conflito de Jurisdição n. 6.959), bastando que a questão submetida à apreciação judicial decorra da relação de emprego.
+2. Ação de interdito proibitório cuja causa de pedir decorre de movimento grevista, ainda que de forma preventiva.
+3. O exercício do direito de greve respeita a relação de emprego, pelo que a Emenda Constitucional n. 45/2003 incluiu, expressamente, na competência da Justiça do Trabalho conhecer e julgar as ações dele decorrentes (art. 114, inciso II, da Constituição da República).
+4. Recurso extraordinário conhecido e provido para fixar a competência da Justiça do Trabalho (RE 579648, Relator(a): Min. MENEZES DIREITO, Relator(a) p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 10/09/2008, REPERCUSSÃO GERAL - MÉRITO DJe-043 DIVULG 05-03-2009 PUBLIC 06-03-2009 EMENT VOL-02351-08 PP-01534 RTJ VOL-00208-03 PP-01271)
+8. Tal orientação, foi sedimentada com a edição da Súmula Vinculante 23, de seguinte teor: A Justiça do Trabalho é competente para processar e julgar ação possessória ajuizada em decorrência do exercício do direito de greve pelos trabalhadores da iniciativa privada.
+9. Ante o exposto, conhece-se do presente Conflito e declara-se competente para processar e julgar a presente demanda o JUÍZO DA 18a. VARA DO TRABALHO DE PORTO ALEGRE - RS, o suscitante.
+10. Publique-se. Intimações necessárias.
