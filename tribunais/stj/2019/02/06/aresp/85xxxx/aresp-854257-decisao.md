@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por ETIVALDO DE SOUZA PALHA contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que (a) o julgamento pelo relator não ofende o art. 557 do CPC/1973, mormente quando o decisum for submetido ao órgão colegiado; (b) o Superior Tribunal de Justiça já pronunciou a regularidade da convocação de Juízes Federais de Primeiro grau para atuarem em Tribunal; (c) o acórdão não diverge do entendimento do STJ a respeito da decadência; (d) o julgado foi baseado em matéria fática no tocante à não observância ao contraditório e à ampla defesa e acerca da inexistência de comprovação do efetivo trabalho em que o contrato foi considerado irregular, cuja alteração esbarra na Súmula 7 do STJ.
+Na petição do agravo em recurso especial, o agravante renova suas razões de mérito do especial, sem impugnar quaisquer dos aludidos fundamentos, em evidente desrespeito ao princípio da dialeticidade.
+Como é cediço, nos termos do disposto no art. 544, § 4º, I, do CPC/1973, o agravante deve atacar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles. Nesse sentido, vide: AgRg no AREsp 748.670/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 24/11/2015; AgRg no AREsp 700.751/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28/09/2015.
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
