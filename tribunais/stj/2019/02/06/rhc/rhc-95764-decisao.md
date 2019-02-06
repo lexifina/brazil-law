@@ -1,0 +1,6 @@
+DECISÃO
+GEOVANE FRANCISCO PAUFERRO DE ARAUJO, ora recorrente, estaria sofrendo constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe no Habeas Corpus n. 201700330004.
+Depreende-se dos autos que o Juízo singular, em 19/11/2015, converteu o flagrante do paciente em prisão preventiva pela suposta prática do delito previsto no art. 157, § 2º, I e II, do Código Penal. A Corte de origem, por sua vez, denegou a ordem lá impetrada, mantendo o encarceramento provisório, e afastando a alegação de excesso de prazo para o enceramento do feito.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifico que foi proferida sentença na ação penal originária (Processo n. 201675000536) para condenar o recorrente à pena de 6 anos e 9 meses de reclusão, pelo delito descrito na denúncia, no regime aberto, em observância ao disposto no art. 387, § 2º, do CPP. Na ocasião, foi-lhe concedido do direito de recorrer em liberdade, além de ser determinada expedição de alvará de soltura em seu favor.
+À vista do exposto, nos termos do art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este recurso em habeas corpus, pela perda do objeto.
+Publique-se e intimem-se.
