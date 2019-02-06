@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VERBA HONORÁRIA. RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E DE INDICAÇÃO DOS DISPOSITIVOS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE COTIA em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 75):
+AGRAVO DE INSTRUMENTO - Exceção de pré-executividade - R. decisão que não conheceu da exceção, sem, contudo, fixar a verba honorária em desfavor da agravada - Descabimento - Verba honorária que é devida no cumprimento de sentença, no processo de execução e, por analogia, na exceção de pré-executividade - Inteligência do art. 85, § 1º, do NCPC - Precedentes - Recurso provido.
+Nas razões do recurso especial, interposto com base na alínea c do permissivo constitucional, o recorrente aponta divergência jurisprudencial sob o argumento de que, mesmo não sendo conhecida a exceção de pré-executividade, o Tribunal de origem condenou-o ao pagamento de honorários advocatícios.
+A inadmissão do recurso especial se fez à consideração de que o reconrrente não atendeu ao requisito previsto nos arts. 541, parágrafo único, do CPC/1973 (atual 1029, § 1º, do CPC/2015) e 255, § 1º, do RISTJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+A insurgência não merece prosperar.
+Isso porque, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige demonstração de similitude fática e jurídica entre os acórdãos supostamente divergentes e indicação do dispositivo com interpretação divergente, o que não restou comprovado no presente caso.
+Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Verifica-se das razões recursais que o recorrente não demonstrou as circunstâncias que identificam ou assemelham os casos confrontados, restando ausente a necessária similitude fática para a comprovação do dissídio, incidindo também, o óbice previsto na Súmula 284/STF, porquanto não indicados os dispositivos com interpretação divergente.
+Nesse sentido:
+AÇÃO INDENIZATÓRIA. ENERGIA ELÉTRICA. CORTE. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FALTA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO
+ ..
+II - A alegada divergência jurisprudencial não foi demonstrada nos moldes exigidos pelo artigo 255 e parágrafos do RI/STJ, visto que a agravante, além de não realizar o devido cotejo analítico, limitando-se a colacionar ementas e votos dos julgados, deixando de mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados, deixou de explicitar sobre qual norma infraconstitucional teria ocorrido a dissidência interpretativa, conforme exigido pelo art. 105, inciso III, alínea "c", da Carta Magna: der a lei federal interpretação
+divergente a que lhe haja atribuído outro Tribunal. Incide, à espécie, o enunciado sumular nº 284 do STF. Precedentes: AgRg no REsp nº 781.422/DF, Rel. Min. HÉLIO QUAGLIA BARBOSA, DJ de 1/8/2006; AgRg no Ag nº 702.783/SP, Rel. Min. DENISE ARRUDA, DJ de 1/2/2006; REsp nº 533.766/RS, Rel. Min. TEORI ALBINO ZAVASCKI, DJ de 16/5/2005 e REsp nº 564.972/SC, Rel. Min. HAMILTON CARVALHIDO, DJ de 13/12/2004.
+III - Agravo regimental a que se nega provimento.
+(AgRg no AREsp 83.349/RJ, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 17/04/2012, DJe 07/05/2012)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique.
+Intimem-se.
