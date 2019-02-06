@@ -1,0 +1,15 @@
+DECISÃO
+COMPETÊNCIA – SUPREMO – CESSAÇÃO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O ministro Edson Fachin instaurou este inquérito, mediante requisição do Procurador-Geral da República, visando apurar a suposta prática, pelos deputados federais Alfredo Pereira do Nascimento – à época ministro dos Transportes – e Milton Antônio Casquel Monti, das infrações descritos nos artigos 317 (corrupção passiva) do Código Penal e 1º, inciso V e § 1º, inciso I (lavagem de dinheiro), da Lei nº 9.613/1998, consideradas as declarações veiculadas em acordos de colaboração premiada formalizados por Benedicto Júnior, José de Carvalho Filho, João Antônio Pacífico Ferreira e Paulo Falcão, no âmbito da denominada Operação Lava Jato.
+    Com a petição/STF nº 36.961/2017, o Procurador-Geral da República postulou a redistribuição do inquérito, frisando ausente conexão com a denominada Operação Lava Jato, a afastar a prevenção. O ministro Edson Fachin – folha 109 a 112 –, entendendo pertinente o pedido, submeteu a matéria à Presidência do Supremo que, em 2 de agosto de 2017, determinou a livre redistribuição do inquérito, do qual Vossa Excelência assumiu a relatoria.
+    Vossa Excelência, em 31 de agosto de 2018, determinou, quanto ao investigado Alfredo Nascimento, o desmembramento dos autos do inquérito, declinando da competência para a Justiça Federal de primeiro grau da Subseção Judiciária de Brasília. Assinalou que os fatos investigados – a configurarem, em tese, os crimes previstos nos artigos 317 (corrupção passiva) e 1º, inciso V e § 1º, inciso I (lavagem de dinheiro), da Lei nº 9.613/1998 – estariam vinculados ao cargo de ministro dos Transportes à época ocupado pelo investigado, inexistindo relação com o mandato parlamentar atualmente exercido.
+    Alfredo Nascimento interpôs agravo regimental – folha 685 a 68 –, afirmando que a competência do Supremo há de ser aferida conforme a função desempenhada tanto no momento da prática do delito como no presente. Sustenta que no período dos fatos investigados – ocorridos entre os anos de 2006 e 2008 –, alternava-se entre os cargos de senador da República e de ministro dos Transportes, alegando atualmente desempenhar a função de deputado federal. Ressalta que detinha foro por prerrogativa de função, mantendo-o, razão pela qual diz ser o caso de adequação da competência do Supremo.
+    Milton Antônio Casquel Monti e Alfredo Nascimento, desde 31 de janeiro de 2019, não exercem mandato de Deputado Federal.
+    Os autos encontram-se no Gabinete.
+    2. A competência do Supremo é de Direito estrito e está balizada de forma rígida na Constituição Federal. O término do mandato dos parlamentares direciona a concluir-se não mais persistir a prerrogativa de foro.
+    3. Remetam este inquérito e a petição à primeira instância da Justiça Federal da Seção Judiciária do Distrito Federal. Fica prejudicado o agravo protocolado por Alfredo Nascimento.
+    4. Publiquem.
+Brasília, 6 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
