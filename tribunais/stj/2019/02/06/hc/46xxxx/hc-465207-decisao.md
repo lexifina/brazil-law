@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO. GRANDE QUANTIDADE DE ENTORPECENTE (28,9 KG DE COCAÍNA). FUNDAMENTO IDÔNEO. COMPENSAÇÃO DA REINCIDÊNCIA COM A CONFISSÃO PARCIAL. POSSIBILIDADE. ILEGALIDADE REVELADA NO PONTO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos da liminar já deferida.
+DECISÃO
+No Processo n. 0001247-61.2014.8.12.0019, o Juízo de Direito da 2ª Vara Criminal da comarca de Ponta Porã/MS condenou [NOME] por incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, mais 750 dias-multa.
+À apelação da defesa, a Segunda Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul negou provimento.
+Sobreveio o presente writ, em que se pretende, inclusive em caráter liminar, a readequação da pena-base, para que seja reduzida ao mínimo legal ou, ao menos, fixada em patamar mais brando, e o afastamento do aumento procedido na segunda fase, compensando-se integralmente a agravante da reincidência com a atenuante da confissão.
+Para tanto, alega-se que: a) a razoabilidade e proporcionalidade não foram observadas pelas instâncias inferiores, uma vez que a presença de uma única circunstância judicial negativa (quantidade e qualidade da substância) deu ensejo à elevação da pena-base em 2 (dois) anos (fl. 6); b) vendo-se que o paciente confessou espontaneamente o delito  .. , não há porque sonegar plena aplicação da atenuante, ou aplicá-la em valor inferior ao da agravante (fl. 10); e c) as instâncias a quo não apreciaram concretamente a intensidade da reprovação penal, deixando de minudenciar a maior reprovabilidade da conduta praticada, assentando apenas, de forma genérica, A quantidade de droga, no entanto, é elevada, e o tipo da droga, é mais lesivo somando 28,9 kg de cocaína, o que caracteriza grande quantidade e lhe desfavorece, em evidente afronta ao art. 93, IX, da CF/88, que exige a motivação das decisões judiciais (fl. 12).
+Deferi medida liminar apenas para compensar a reincidência com a confissão e, assim, reduzir a pena privativa de liberdade do paciente a 7 anos de reclusão.
+Ouvido, o Ministério Público Federal opinou pelo não conhecimento do writ, nos termos do parecer assim resumido (fls. 75/76):
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INVIABILIDADE. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA BASE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. MOTIVAÇÃO IDÔNEA. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO PARCIAL. NÃO CONHECIMENTO.
+1. Não se conhece de habeas corpus interposto como substitutivo de recurso próprio. No entanto, verificada flagrante ilegalidade, deve a ordem ser concedida de ofício.
+2. A fixação da pena base acima do mínimo legal exige a indicação de elementos concretos, o que restou observado na espécie com base diante da natureza e quantidade da droga apreendida.
+3. A necessidade compensação integral da confissão com a agravante da reincidência não restou enfrentada pelo Tribunal de origem, não podendo ser conhecida sob pena de supressão de instância.
+4. Eventualmente, reconhecida a confissão parcial do paciente, que não assumiu a integralidade da droga apreendida, não deve ser admitida a compensação integral com a confissão espontânea.
+5. Parecer pelo não conhecimento do writ.
+É o relatório.
+Reafirmo que, no tocante à pretendida readequação da pena-base, não há manifesta ilegalidade ou desproporcionalidade no aumento de 2 anos em razão da grande quantidade de droga apreendida - 28,9 kg de cocaína. Nesse sentido: AgRg no HC n. 309.253/SP, da minha relatoria, Sexta Turma, DJe 8/3/2018; e HC n. 435.315/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/6/2018.
+Há evidente ilegalidade a ser reparada, porém, quanto à pretendida compensação da reincidência com a confissão. Isso porque vai de encontro com a tranquila jurisprudência do Superior Tribunal de Justiça a compreensão do sentenciante, confirmada pela Corte a quo, de que a agravante predomina sobre a atenuante.
+Com efeito, nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão do réu, ainda que parcial ou retratada, for utilizada pelo magistrado para fundamentar a condenação, tal como na espécie, deve incidir a respectiva atenuante. Inteligência do enunciado n.º 545 da súmula desta Corte Superior de Justiça. Ademais, por envolver a personalidade do agente, a atenuante da confissão espontânea é igualmente preponderante e deve ser compensada com a agravante da reincidência (HC n. 440.546/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 14/8/2018).
+Quer dizer, no caso, há que se fazer pequeno reparo no que tange ao cálculo da pena imposta ao paciente, a fim de se aplicar a compensação integral no ponto em discussão e, com isso, estabelecer a reprimenda final de 7 anos de reclusão e 700 dias-multa.
+Ante o exposto, concedo a ordem nos termos da liminar já deferida.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
