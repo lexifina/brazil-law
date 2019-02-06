@@ -1,0 +1,27 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. INÉPCIA DA DENÚNCIA. INEVIDÊNCIA. TRANCAMENTO DA AÇÃO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 2º, INCISO II, DA LEI 8.137/1990. AUSÊNCIA DE RECOLHIMENTO DE ICMS PRÓPRIO. TIPICIDADE DA CONDUTA. QUESTÃO PACIFICADA PELA TERCEIRA SEÇÃO.
+Recurso improvido. Liminar anteriormente deferida tornada sem efeito.
+DECISÃO
+Em favor de [NOME] e Clerisson [NOME] foi impetrado o presente habeas corpus, apontando como autoridade coatora o Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o Juízo da Vara Criminal de Brusque/SC (Processo n. 0901292-94.2015.8.24.0011) recebeu denúncia contra os recorrentes por suposta prática descrita no art. 2º, inciso II c/c o art. 11, caput, ambos da Lei nº 8.137/1990, por duas vezes, na forma continuada (art. 71 do Código Penal).
+A impetração, ajuizada na Corte estadual, visando trancar a ação penal por inépcia da denúncia e por falta de justa causa, foi denegada (HC n. 4005395-66.2017.8.24.0000), a teor da seguinte ementa (fl. 246):
+HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. DEIXAR DE RECOLHER TRIBUTO (ICMS) DECLARADO AO FISCO (ART. 2º, INC. II, COMBINADO CM O ART. 12, INC. I, AMBOS DA LEI Nº 8.137/1990).
+INÉPCIA DA DENÚNCIA AFASTADA. PREENCHIMENTO DOS PRESSUPOSTOS EXIGIDOS PELO ART. 41 DO CÓDIGO DE PROCESSO PENAL. CRIME OMISSIVO. AUSÊNCIA DE NECESSIDADE DE DESCRIÇÃO DO ELEMENTO SUBJETIVO OU DO PODER E DEVER DE AGIR.
+PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. TEMA ENFRENTADO PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL (ARE Nº 999.425 RG/SC, REL. MIN. RICARDO LEWANDOWSKI). NÃO PAGAMENTO DE ICMS PRÓ- PRIO DEVIDO PELA SOCIEDADE EMPRESÁRIA AO FISCO ESTADUAL. HIPÓTESE DE MERO INADIM- PLEMENTO DE OBRIGAÇÃO TRIBUTÁRIA AFASTADA. FATO TÍPICO, ANTIJURÍDICO E PUNÍVEL. ENQUA- DRAMENTO NORMATIVO CORRETO.
+ORDEM DENEGADA.
+No presente recurso ordinário, insiste a defesa no trancamento, argumentado que não há justa causa para a ação penal, por falta de atipicidade, na medida em que os recorrentes incorreram em mero inadimplemento do tributo, ou seja, a empresa que administram não é substituta tributária ou responsável tributário, mas contribuinte direto do ICMS relativo à venda de mercadorias. Menciona que os denunciados apenas deixaram de recolher, na qualidade de administradores da empresa OPPNUS, tributo próprio dessa pessoa jurídica e não o devido por terceiros. Dessa forma, aduz que a conduta dos recorrentes não se subsume à figura típica do art. 2º, II da Lei n. 8.137/1990.
+Sustenta também ser a denúncia inepta, porque não satisfaz os requisitos do art. 41 do Código de Processo Penal, porquanto é deveras superficial ao ponto de descrever tão somente a condirão de sócios gestores, o tributo, a quantia e a competência que deixou de ser recolhida pela empresa contribuinte, sem especificar e muito menos provar qualquer fraude ou meio ardil supostamente adotado para suprimir tributo (fl. 275).
+Pede, liminarmente, seja suspensa a ação penal na origem até o julgamento deste recurso. No mérito, busca o provimento do recurso para, reformando o acórdão atacado, conceder a ordem de habeas corpus e determinar o trancamento da ação penal.
+Com contrarrazões (fls. 289/290). Despacho de admissibilidade à fl. 293.
+Foi indeferida a liminar (fl. 302/303). Por ocasião da apreciação dos embargos de declaração opostos a essa decisão, reconsiderei o indeferimento da medida urgente para determinar a suspensão do andamento da ação penal até o julgamento deste feito (fls. 323/324).
+Informações prestadas (fls. 318/320).
+Parecer do Ministério Público Federal opinando pelo desprovimento do recurso.
+É o relatório.
+De início, não há falar em inépcia na denúncia.
+Consta que os recorrentes, como gestores da empresa, deixaram de recolher dentro do prazo, no período de setembro a outubro de 2013, valor do tributo ICMS descontado ou cobrado (R$ 58.772,03), na qualidade de sujeitos passivos de obrigação.
+Segundo ainda a inicial acusatória, os denunciados, além da administração geral da empresa, determinavam os atos de escrituração fiscal e eram responsáveis pela apuração e recolhimento do referido imposto.
+Nesse contexto, verifica-se a presença dos requisitos mínimos para denunciar, ou seja, indícios de autoria e materialidade.
+Existe, plausibilidade na imputação, demonstrando a peça de ingresso liame entre a suposta atuação dos recorrentes nos fatos e a prática tida por delituosa, o que assegura aos acusados o amplo direito de defesa. A propósito, o AgRg no HC 145.048/PB, de minha relatoria, Sexta Turma, DJe 13/5/2013.
+Quanto ao trancamento, a da Terceira Seção, em 22/8/2018, no julgamento do HC n. 399.109/SC, afetado pela Sexta Turma, firmou a tese de que o não recolhimento de ICMS em operações próprias é fato típico. Prevaleceu o seguinte entendimento: A interpretação consentânea com a dogmática penal do termo "descontado" é a de que ele se refere aos tributos diretos quando há responsabilidade tributária por substituição, enquanto o termo "cobrado" deve ser compreendido nas relações tributárias havidas com tributos indiretos (incidentes sobre o consumo), de maneira que não possui relevância o fato de o ICMS ser próprio ou por substituição, porquanto, em qualquer hipótese, não haverá ônus financeiro para o contribuinte de direito.
+Ante o exposto, nego provimento ao recurso. Consequentemente, sem efeito a liminar anteriormente deferida.
+Publique-se.
