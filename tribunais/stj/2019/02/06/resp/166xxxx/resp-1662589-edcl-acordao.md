@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TABELIÃO. PAGAMENTO DA COTA PATRONAL FIXADA COM BASE NA CONSTITUIÇÃO E LEIS ESTADUAIS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO AO ART. 97, III, DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. DISPOSITIVO QUE REPRODUZ O CONTEÚDO DE NORMA CONSTITUCIONAL. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não comprovando quaisquer dos vícios presentes nas hipóteses do art. 1022 do CPC/2015.
+2. O acórdão assentou que não se apontou com clareza qual ato de governo local contestado em face de lei federal teria sido julgado válido. Ademais, asseverou-se que o art. 97, III, do Código Tributário Nacional não foi debatido no acórdão recorrido nem foi mencionado nas razões de apelação.
+3. Quanto à ausência de prequestionamento, tem-se que as causas da ausência do debate, delineadas nos Embargos de Declaração, não alteraram o resultado consistente na falta de análise, requisito para admissão do Recurso Especial.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração interpostos contra acórdão assim ementado:
+PROCESSUAL CIVIL. TABELIÃO. VINCULAÇÃO AO REGIME PRÓPRIO DOS SERVIDORES DE SANTA CATARINA POR FORÇA DE DECISÃO JUDICIAL NECESSIDADE DE PAGAMENTO DA COTA PATRONAL FIXADA COM BASE NA CONSTITUIÇÃO E LEIS ESTADUAIS. INTERPOSIÇÃO DO RECURSO COM BASE NAS ALINEAS "B" E "C" DO ART. 105 DA CONSTITUIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. VIOLAÇÃO AO ART. 97, III, DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. DISPOSITIVO QUE REPRODUZ O CONTEÚDO DE NORMA CONSTITUCIONAL. NÃO CABIMENTO DE RECURSO ESPECIAL.
+1. O Recurso Especial não pode ser conhecido pelo que interposto pelas alíneas "b" e "c" do permissivo constitucional, pois sequer se aponta qual ato de governo local contestado em face de lei federal teria sido julgado válido ou se indica acórdão que demonstraria a divergência na interpretação da lei federal. A deficiência na fundamentação impede o conhecimento do recurso por incidência da Súmula 284/STF.
+2. A alegação de violação ao art. 97, III, do CTN não pode ser conhecida, por incidência da Súmula 211/STJ, uma vez que o dispositivo não foi debatido no acórdão recorrido e não incidiu ele em omissão, já que a norma não foi alegada na Apelação. Ademais, "As Turmas que integram a Primeira Seção/STJ têm entendido que "a interpretação do art. 97 do CTN, que reproduz norma encartada no art. 150, I, da CF/88, implica apreciação de questão constitucional, inviável em recurso especial" (AgRg no REsp 1.289.233/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 23.4.2012)." (AgRg no REsp 1.527.996/MT, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/6/2015).
+3. Recurso Especial não conhecido.
+A parte recorrente insurge-se quanto ao reconhecimento da ausência de comprovação do ato de governo local contestado em face de lei federal (art. 105, III, "b", da Constituição) e de prequestionamento do art. 97 do CTN.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não comprovando a presença de quaisquer dos vícios presentes nas hipóteses do art. 1022 do CPC/2015.
+O acórdão assentou que não se apontou com clareza qual ato de governo local contestado em face de lei federal teria sido julgado válido. Ademais, asseverou-se que o art. 97, III, do Código Tributário Nacional não foi debatido no acórdão recorrido nem foi mencionado nas razões de apelação. As causas da ausência desse debate, delineadas nos Embargos de Declaração, não alteraram o resultado consistente na falta de análise, requisito para admissão do Recurso Especial.
+Por outro lado, ainda que se atendesse à pretensão infringente do embargante, permanece incólume o fundamento segundo o qual a interpretação do art. 97 do CTN, que reproduz norma encartada no art. 150, I, da CF/88, implica apreciação de questão constitucional, inviável em Recurso Especial (AgRg no REsp 1.289.233/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 23.4.2012 e AgRg no REsp 1.527.996/MT, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/06/2015).
+Ante o exposto, rejeito os Embargos de Declaração.
+É como voto.
