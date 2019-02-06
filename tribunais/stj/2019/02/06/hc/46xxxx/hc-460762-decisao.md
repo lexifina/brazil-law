@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face de acórdão proferido pelo Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo das Execuções indeferiu o pleito de livramento condicional formulado em benefício do ora paciente.
+Irresignada, a defesa interpôs agravo em execução penal, que foi parcialmente provido pelo Tribunal de origem, determinando que o paciente se submeta a exame criminológico, após o que, a sua pretensão seria novamente apreciada.
+Daí o presente writ, em que a Impetrante sustenta, em síntese, que o reeducando atende aos requisitos do art. 112, da LEP, os quais já teriam sido analisados e comprovados pelo Juízo de primeira instância anteriormente, quando deferiu a progressão do regime prisional.
+Salienta, ainda, que a gravidade do delito cometido e a longa pena a cumprir não são justificativas hábeis a inviabilizar o deferimento do livramento condicional, muito menos a submeter a análise de tal pleito à prévia realização de exame criminológico.
+Requer, liminarmente e no mérito, a concessão da ordem, para que se defira ao paciente o direito ao livramento condicional.
+A liminar foi indeferida (fls. 25-28).
+As informações foram prestadas (fls. 34-39).
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do mandamus, mas pela concessão da ordem de ofício (fls. 41-46).
+É o relatório.
+DECIDO.
+Acerca do livramento condicional, o acórdão proferido pelo Tribunal a quo restou fundamentado da seguinte forma (fls. 20-21):
+O agravante cumpre pena total de 15 anos, 02 meses e 13 dias de reclusão, em regime fechado, pela prática de crimes de roubos duplamente circunstanciados, porte ilegal de arma e desacato, cujo término está previsto para 18.12.2019.
+Ao indeferir o pedido de livramento condicional, o douto Juiz da origem se reportou à gravidade extremada dos delitos praticados pelo sentenciado que, além de reincidente (está em sua quinta execução), apresenta ainda histórico de evasão e abandono, entendendo ser prudente que primeiro seja inserido no regime intermediário para, no caso de absorção da terapia penal, cogitar-se no deferimento da benesse mais ampla.
+Pois bem.
+Como é cediço, ao se fazer a ponderação entre o direito subjetivo do preso ao livramento condicional e o indiscutível direito da coletividade de ver alijado de seu meio o indivíduo que habitualmente ofende as normas gerais de conduta social, não pode haver dúvida sobre a prevalência deste último.
+Em razão de tal premissa, a possibilidade de se antecipar a liberdade do condenado, concedendo-lhe a benesse legal, apenas deve ser deferida no caso em que se tenha a segurança de que a reprimenda imposta, e parcialmente, cumprida atingiu seus objetivos precípuos de prevenção, repressão e ressocialização.
+Na hipótese, a despeito da gravidade dos delitos praticados pelo agravante, não houve a realização de exame criminológico para a concessão do referido benefício, e como reiteradamente tem decidido esta Turma Julgadora, o juiz não pode olvidar da realidade que o cerca, e ainda que seja mesmo caótica a situação dos presos brasileiros, infelizmente, em termos de valores são os da sociedade ordeira e livre que devem preponderar.
+Por isso, ainda que a Lei de Execução, com a reforma de 2003, não tenha mais se referido ao exame criminológico, ela também peremptoriamente não o excluiu, o que vem reforçado pela Súmula Vinculante 26, de sorte que se impõe submeter, pelo menos o condenado por crime grave e praticado com violência ou grave ameaça à pessoa, como é o caso, à verificação da provável e frutífera adaptação em situação menos rigorosa.
+Assim, mostra-se mais razoável a realização de exame multidisciplinar criminológico, conduzido por experts, que possa melhor instruir o julgamento de mérito para concessão do benefício do livramento condicional.
+Ante o exposto, dá-se parcial provimento ao agravo, com determinação para que o sentenciado seja submetido a exame criminológico, após o que sua pretensão ao livramento condicional deverá ser novamente analisada.
+Decidiu a Corte estadual que o livramento condicional só pode ser analisado, in casu, após a realização de exame criminológico, firmando o entendimento de que se impõe submeter, pelo menos o condenado por crime grave e praticado com violência ou grave ameaça à pessoa, como é o caso, à verificação da provável e frutífera adaptação em situação menos rigorosa (fl. 21).
+Fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime ou livramento condicional, de modo que o indeferimento desta última benesse processual somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+Cito, a propósito, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. TRIBUNAL QUE INDEFERE O BENEFÍCIO E DETERMINA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS E LONGEVIDADE DA PENA. FUNDAMENTO INIDÔNEO PARA A AFASTAR A IMPLEMENTAÇÃO DO REQUISITO SUBJETIVO. ORDEM CONCEDIDA DE OFÍCIO. RECURSO DESPROVIDO.
+1. Conforme reiterada orientação jurisprudencial deste Superior Tribunal de Justiça, a gravidade abstrata dos delitos praticados e a longevidade da pena a cumprir não podem servir, por si sós, como fundamento para a determinação de prévia submissão do apenado a exame criminológico para fins de concessão do benefício do livramento condicional. Precedentes.
+2. O Tribunal de origem reformou a decisão de primeiro grau para determinar a submissão do paciente à realização de exame criminológico com fundamento na gravidade em abstrato do crime cometido pelo paciente (assinalando, incluvise, erroneamente, tratar-se de homicídio qualificado, ao passo que se trata de crime de roubo). Referido fundamento se mostra inidôneo, ao passo que não se apontou nenhum elemento concreto dos autos que, efetivamente, pudesse rechaçar o decisum de primeiro grau que concedeu o livramento condicional ao sentenciado.
+3. Diante do flagrante constrangimento ilegal, faz-se imperiosa a concessão da ordem de habeas corpus de ofício para restabelecer a decisão singular concessiva do livramento condicional.
+4. Agravo regimental desprovido" (AgRg no HC 396.384/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 7/6/2018, DJe 20/6/2018)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DO CRIME COMETIDO PELO CONDENADO. MOTIVAÇÃO INSUFICIENTE/INIDÔNEA. DECISÃO AGRAVADA MANTIDA.
+1. Esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime ou livramento condicional, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+2. Na hipótese dos autos, a decisão do Tribunal de Justiça negou provimento ao recurso do paciente sob fundamento de que o crime pelo qual foi o agravado condenado é de acentuada gravidade, circunstância que evidencia traços singulares de periculosidade a demonstrar a necessidade de observância do exame criminológico com vista a cuidadosa apuração de mérito para a progressão.
+3. Agravo regimental não provido" (AgRg no HC 340.787/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/6/2016, DJe 1º/8/2016).
+Ante o exposto, concedo o habeas corpus, para determinar que o juízo das execuções proceda novo exame do pedido de livramento condicional, nos exatos termos do art. 83 do CP.
+Comunique-se.
+Publique-se.
+Intimem-se.
