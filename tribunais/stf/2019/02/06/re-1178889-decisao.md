@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. SIMPLES NACIONAL. EXCLUSÃO. IMPUGNAÇÃO TEMPESTIVA. SUSPENSÃO DOS EFEITOS DO ATO DECLARATÓRIO ATÉ A DECISÃO FINAL. REGULARIZAÇÃO DA DÍVIDA VIA PARCELAMENTO. INSUBSISTÊNCIA DOS MOTIVOS PARA A EXCLUSÃO. PROPORCIONALIDADE.
+    1. É pacífico no âmbito desta Corte que a exigência de regularidade fiscal para ingresso e permanência no Simples Nacional, constante do artigo 17, V, da LC nº 123/2006 é constitucional e não fere, em abstrato, o princípio da proporcionalidade.
+    2. Contudo, as especificidades da questão fática envolvida na lide demandam que se analise, com temperos, a aplicabilidade da regra, sob pena de ofensa à proporcionalidade no caso particular.
+    3. A Administração Tributária tem como diretriz não só a legalidade como também a proporcionalidade, princípios não antagônicos, mas compatíveis, cuja harmonização compete ao juiz, ao aplicar a lei no caso concreto (por suas peculiaridades), sem violar a isonomia ou a legalidade.
+    4. Mantida a sentença que concedeu ordem para determinar o reingresso da impetrante no Simples Nacional, uma vez que não mais subsistiam os motivos para a exclusão, uma vez que, no curso do processo administrativo, houvera a regularização da dívida, mediante adesão a parcelamento, e a impugnação, tempestivamente interposta, tivera o efeito de impedir a definitividade da exclusão até a decisão final.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2° e 97 da CF. Sustenta que: (i) o órgão fracionário do Tribunal de origem afastou a LC n° 123/2006 sem observar a cláusula de reserva de plenário; (ii) o Poder Judiciário atuou como autoridade administrativa.
+    A pretensão recursal não merece prosperar. A jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”.
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que falar em ofensa ao art. 97 da Constituição.
+    Quanto à suposta violação ao art. 2º da Constituição, é firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação dos poderes” (MS 23.452, Rel. Min. Celso de Mello). Nessa linha, veja-se a ementa do AI 732.188 AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no agravo de instrumento. Processual civil e constitucional. Multa. Imposição contra o Poder Público. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes.
+    [...]
+    2. Não há falar em ofensa ao princípio da separação dos poderes quando o Poder Judiciário desempenha regularmente a função jurisdicional.
+    3. Agravo regimental não provido.”
+    Ademais, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF.
+    No mesmo sentido as seguintes decisões monocráticas: ARE 906676/PR, Rel. Min. Alexandre de Moraes; RE 1173050/PR, Rel. Min. Ricardo Lewandowski; RE 1171033/SC, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 06 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
