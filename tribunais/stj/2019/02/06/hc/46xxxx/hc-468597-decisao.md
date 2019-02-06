@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de UBIRAJARA DE LIMA contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu pedido de liminar lá impetrado.
+Colhe-se dos autos que o paciente, preso em flagrante em 31/03/2018, foi condenado à pena privativa de liberdade de 1 (um) ano e 8 (oito) meses de reclusão, em regime fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006, sendo-lhe negado o apelo em liberdade.
+Nesta Corte, a defesa sustenta que não há fundamento válido para a prisão cautelar. Destaca a primariedade do agente e a pouca quantidade de droga apreendida, o que reforçaria a desnecessidade do encarceramento.
+Pleiteia a revogação da prisão preventiva imposta ao paciente.
+O pedido liminar foi deferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo nos casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+No caso, observa-se flagrante ilegalidade a permitir a superação do referido óbice sumular.
+O Juiz sentenciante indeferiu o apelo em liberdade, pelos fundamentos a seguir reproduzidos:
+"Ubirajara ostenta antecedente antigo (fls. 111/12 e 128). Não pode ser, pois, rotulado como franco incursionador da fronteira penal.
+Quantidade não tão elevada de droga, dolo inerente ao tipo. Fixada pena- base em 05 anos de reclusão e 500 dias-multa, reduzida em 2/3, diante da primariedade e bons antecedentes do acusado (só pelo fracionamento, não se pode presumir faça de sua vida atividade direcionada ao tráfico), o que resulta 01 ano e 08 meses de reclusão e 166 dias-multa, no valor mínimo legal (à falta de outros elementos).
+Ausentes causas modificadoras, torno a reprimenda definitiva, devendo seu cumprimento operar-se, de início, no REGIME FECHADO (o réu praticou crime de tráfico, de natureza grave, que atinge indistinto universo de pessoas, afetadas direta e pessoalmente por tão grave conduta, que abala sobremaneira o equilíbrio social. E com a inclinação do réu à prática de crimes desse naipe, se solto, há probabilidade de que volte a ofender a ordem pública estabelecida e, assim, por ora, revela-se pernicioso seu convívio com a sociedade, devendo cumprir pena em regime mais gravoso, para que possa se adequar às regras do bom convívio social).
+ ..
+Nega-se recurso em liberdade.
+Prisão do réu para garantia da ordem pública.
+O réu foi condenado por prática de crime de natureza grave, em REGIME FECHADO. Tal infração, agora já reconhecida pelo juiz a quo (é certo, sujeita a recurso), por certo abalou a ordem pública estabelecida, sendo certo que, se solto, poderá o réu vir a praticar outras infrações como a que hoje já foi condenado.
+Prisão do réu para assegurar a aplicação da lei penal.
+Houve condenação, em Primeiro Grau, à pena reclusiva, tendo sido imposto regime fechado. E sabendo, pois, que já foi condenado no juízo a quo, ao cumprimento de pena em regime fechado, poderá evadir-se para evitar cumprir a reprimenda fixada, ausentando-se, quiçá, de forma definitiva, do distrito da culpa, inviabilizando a pretensão punitiva e executória do Estado." (e-STJ, fls. 22-23)
+No caso, consideradas as circunstâncias do crime e a pena cominada, entendo que é flagrantemente desproporcional a manutenção em cárcere do paciente, sentenciado à pena privativa de liberdade de 1 (um) ano e 8 (oito) meses de reclusão e preso em flagrante com pequena quantidade de entorpecente - 4,53g (quatro gramas e cinquenta e três centigramas) de crack.
+Nesse contexto, deve ser permitido ao paciente aguardar em liberdade o julgamento de seu recurso de apelação.
+A propósito:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO. ANÁLISE DO MÉRITO. PRINCÍPIO DA OFICIALIDADE. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. CONSTRANGIMENTO ILEGAL. SENTENÇA GARANTIU DIREITO DE RECORRER EM LIBERDADE . QUANTIDADE DE PENA IMPOSTA. TEMPO DE PRISÃO CAUTELAR. CONDIÇÕES PESSOAIS FAVORÁVEIS. REGIME PRISIONAL MAIS GRAVOSO COM BASE NA HEDIONDEZ DO DELITO. AUSÊNCIA DE RECURSO DA ACUSAÇÃO. MEDIDA CAUTELAR. ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Sopesando a quantidade de pena imposta e o tempo de prisão cautelar, as condições pessoais favoráveis do paciente, a ausência de recurso da acusação e a fixação de regime prisional mais gravoso com base na hediondez do delito, evidenciado está o constrangimento ilegal hábil a permitir a concessão da ordem de ofício.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para, confirmando a medida liminar e com parecer favorável do Ministério Público Federal, revogar a prisão preventiva do paciente, sob a imposição da medida cautelar diversa da prisão prevista no artigo 319, inciso I, do Código de Processo Penal, cuja regulamentação será feita pelo Juízo de primeiro grau; e estender os benefícios da presente ordem ao corréu."
+(HC 474.950/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018)
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA. REGIME INICIAL DE CUMPRIMENTO DA PENA. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DIREITO DE RECORRER EM LIBERDADE. QUANTIDADE NÃO RELEVANTE DE DROGA. CONDENAÇÃO À PENA DE 2 ANOS E 6 MESES DE RECLUSÃO. PACIENTE PRESO HÁ CERCA DE 1 ANO. RAZOABILIDADE. AUSÊNCIA. ILEGALIDADE. OCORRÊNCIA. HABEAS CORPUS CONCEDIDO.
+1. O pleito de fixação de regime prisional mais brando não foi apreciado pelo Tribunal local, o que impede o seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+2. Embora o decreto prisional tenha feito referência à quantidade de droga apreendida e à tentativa de fuga dos acusados no curso das apurações, não se revela razoável a manutenção da custódia cautelar, tendo em vista a apreensão de quantidade não relevante de droga - 7, 70 g de maconha, 5,30 g de crack e 6,20 g de cocaína, bem como que o paciente é réu primário e se encontra preso há mais de 1 ano, tendo sido condenado à pena de 2 anos e 6 meses de reclusão, por sentença que transitou em julgado para o Parquet, já tendo cumprido cerca de metade de sua pena.
+3. Habeas corpus concedido para a soltura do paciente LUIS SERGIO GERONIMO DA COSTA, o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual."
+(HC 416.072/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018)
+Diante do exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para, confirmando a liminar anteriormente deferida, revogar a prisão preventiva imposta ao paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, a critério do Magistrado de primeiro grau.
+Publique-se. Intimem-se.
