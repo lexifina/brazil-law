@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. LEGITIMIDADE DO SINDICATO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se configura a alegada ofensa aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada.
+2. Não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+3. Não houve prequestionamento dos arts. 81 e 103 da Lei 8.078/1990 e 203 do Código Civil, pois, em que pese a oposição de Embargos de Declaração, os dispositivos legais supostamente violados não foram analisados pelo órgão julgador. Incidência da Súmula 211/STJ.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu em parte e, nessa parte, negou provimento ao Recurso Especial interposto pelo Sindicado dos Trabalhadores da Saúde, Trabalho e Previdência do Estado do Rio Grande do Sul (fls. 354-357, e-STJ).
+O insurgente, em breve síntese, alega: a) ocorreu violação do art. 1.022 do CPC/2015, ante a manifesta negativa de prestação jurisdicional perpetrada na origem; b) "é contraditório aplicar o óbice da Súmula n.º 211 dessa Corte Superior e, ao mesmo tempo, firmar entendimento de que não houve ofensa direta aos artigos 489, parágrafo 1º, e 1.022, inciso II, do atual Código de Processo Civil. Porquanto, a deficiência constante no âmbito r. acórdão regional foi diretamente mencionada em sede de embargos declaratórios opostos na origem e, também, em preliminar de negativa de prestação jurisdicional inserta nas razões do recurso especial ora em comento".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.12.2017.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, não se configura a alegada ofensa aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada.
+A Corte de origem, ao apreciar a demanda dos autos, asseverou (fls. 155-157, e-STJ):
+Conforme restou incontroverso nos autos, à época em que o Sindicato ajuizou o protesto interruptivo da prescrição e, posteriormente, a própria execução coletiva, a servidora [NOME] já havia falecido, razão pela qual aquela entidade não poderia atuar em seu benefício.
+Por sua vez, não há prova nos autos de que os ora exequentes, herdeiros da referida servidora, integrem a categoria representada na demanda coletiva, de modo que não detém o Sindicato legitimidade para promover o protesto interruptivo da prescrição ou, ainda, a própria execução em seu favor - grifei.
+Assim, as medidas executivas tomadas pelo Sindicato em relação ao título formado na Ação Ordinária nº 93.0003759-5 não beneficiam os ora exequentes, razão pela qual, em face do disposto no art. 1º do Decreto 20.910/32 e na Súmula 150 do STF, tendo a presente execução sido ajuizada após o transcurso do lapso de cinco anos contados do trânsito em julgado, em 12/11/2015, encontra-se prescrita a pretensão executória.
+Verifica-se, portanto, que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+Além disso, asseverei que não houve prequestionamento dos arts. 81 e 103 da Lei 8.078/1990 e 203 do Código Civil, pois, em que pese a oposição de Embargos de Declaração, os dispositivos legais supostamente violados não foram analisados pelo órgão julgador, o que atraiu o óbice da Súmula 211/STJ.
+Por fim, ressalto que não há nenhuma contradição em aplicar a Súmula 211/STJ e, ao mesmo tempo, afirmar que não houve ofensa aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil de 2015, uma vez que o recorrente, em seu Recurso Especial, no tópico destinado às alegações de afronta aos referidos dispositivos do CPC/2015, nem sequer tratou da eventual omissão relacionada à análise, pela instância a quo, dos artigos tidos por não prequestionados.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
