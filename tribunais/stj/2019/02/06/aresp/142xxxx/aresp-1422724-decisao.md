@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 03/STJ. INFRAÇÃO ADMINISTRATIVA. MULTA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO FUNDAMENTADO NAS PROVAS DOS AUTOS. REVISÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por BANCO BMG SA em face de decisão proferida pelo Tribunal de Justiça do Estado do Espírito Santo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 633):
+CIVIL E PROCESSUAL CIVIL. CONSUMIDOR. APELAÇÃO CÍVEL. PROCON/ES. INSTITUIÇÃO FINANCEIRA. MULTA. COMPETÊNCIA DA AUTARQUIA. VIOLAÇÃO AO CDC. VALOR DA MULTA. MANUTENÇÃO. RAZOABILIDADE.
+1. O PROCON tem poder de polícia para impor multas decorrentes de transgressão às regras ditadas pela Lei n. 8.078/90 (Código de Defesa do Consumidor). A sanção consagrada no art. 56, do CDC tem como objetivo a punição do fornecedor de serviço por prática abusiva vedada pelo diploma consumerista, coibindo a reiteração da conduta. Precedentes do STJ.
+2. "O envio do cartão de crédito, ainda que bloqueado, sem pedido pretérito e expresso do consumidor, caracteriza prática comercial abusiva, violando frontalmente o disposto no artigo 39, III, do Código de Defesa do Consumidor". (REsp 1199117/SP, Rel. Ministro PAULO DE TARSO SANSEVER1NO, TERCEIRA TURMA, julgado em 18/12/2012, DJe 04/03/2013). Outros precedentes do STJ.
+3. A restrição unilateral de margem consignável do consumidor, sem a respectiva autorização prévia, igualmente configura prática abusiva da instituição financeira, consoante disposição do art. 39, III, do CDC.
+4. O valor da multa aplicada pelo PROCON após constatar infrações das normas de defesa do consumidor deve ser graduado de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor. Art. 57 do CDC. Precedentes do TJES.
+5. Deve ser mantida a penalidade imposta pelo PROCON quando aplicada em conformidade com as normas consumeristas, sobretudo para garantir o caráter pedagógico/educativo e sancionatório da penalidade.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente aponta violação aos arts. 1.022, II, do CPC/2015, 57, do CDC e 25, do Decreto nº 2.181/97.
+Em síntese, aduz que o v. acórdão deixou de se pronunciar sobre questões suscitadas nos aclaratórios, bem como restou comprovada a expressa anuência dos consumidores para recebimento do cartão e também quanto à reserva de margem consignável para possível empréstimo, de modo que a multa aplicada feriu os princípios da razoabilidade e da proporcionalidade.
+A inadmissão do recurso especial se fez à consideração de que: i) não se configurou a suposta violação ao artigo 1022 do CPC/2015 porquanto o acórdão recorrido contém fundamentação adequada; ii) o acórdão recorrido está em consonância com o entendimento do STJ quanto à competência do Procon para aplicação de multa, atraindo a incidência da Súmula 83/STJ; iii) quanto ao valor da multa aplicada, admitir entendimento contrário implicaria revolvimento do acervo fático-probatório, o que atrai a incidência da Súmula 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A pretensão não merece acolhida.
+Isso porque, sem razão o recorrente quanto à alegada violação ao art. 1.022 do CPC/2015, sob a alegação de que o Tribunal de origem não se manifestou sobre questões suscitadas na apelação e nos embargos declaratórios.
+Cumpre asseverar que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No tocante à suposta ofensa aos arts. 57, do CDC e 25 do Decreto nº 2.181/97, alega o recorrente que o valor da multa aplicada feriu os princípios da razoabilidade e da proporcionalidade e não foi graduada de acordo com a gravidade da infração, nem tampouco com a vantagem auferida pelo recorrente.
+Registra-se que, o Tribunal de origem, soberano nos elementos probatórios dos autos, concluiu que o valor da penalidade da multa não foi excessiva e está em conformidade com as normas consumeristas, conforme os seguintes trechos do acórdão recorrido (e-STJ fl. 632):
+(..)
+No caso dos autos, como relatado anteriormente, a Apelante foi punida administrativamente pelo fato de ter enviado cartões de crédito e promovido reserva de margem consignável de consumidores sem a prévia autorização, condutas altamente reprováveis, notadamente ao considerar que o processo administrativo foi iniciado após diversas reclamações encaminhadas à autarquia.
+Em verdade, se cada um dos 18 (dezoito) consumidores tivesse iniciado reclamação junto ao PROCON/ES e, em cada processo administrativo único, tivesse sido aplicada multa, o valor da penalidade imposta no referido procedimento significaria, a grosso modo, a fixação de sanção concernente a, aproximadamente, R$ 17.000,00 (dezessete mil reais), o que reforça a razoabilidade do quantum expresso no julgado.
+Observa-se, ainda, que o PROCON/ES indicou que a empresa detém faturamento anual superior a R$ 100.000.000,00 (cem milhões de reais), fls. 121, o que demonstra a higidez financeira da empresa Recorrente.
+Assim, entendo que a multa fixada não é excessiva, está em conformidade com as normas consumeristas e, por isso, deve ser mantida, sobretudo para garantir o caráter pedagógico/educativo e sancionatório da penalidade, que restariam prejudicados com a eventual redução do quantum.
+Assim, rever tais premissas como pretende o recorrente, não é possível em sede de recurso especial, por importar necessário reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
