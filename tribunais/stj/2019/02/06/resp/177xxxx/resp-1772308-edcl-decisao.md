@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Emplavi Sociedade Imobiliária Ltda. contra decisão de fls. 859/863 que determinou a devolução dos autos ao Tribunal de origem, com a respectiva baixa, em razão da repercussão geral prevista no tema 211, RE 648.245/MG.
+Sustenta a embargante, em resumo, obscuridade na decisão embargada uma vez que, ao se reconhecer "que prevalece o entendimento do STF de que somente lei em sentido formal pode instituir, majorar ou alterar a base de cálculo, enquanto aspecto essencial da Regra Matriz de Incidência" (fl. 871), deveria ter sido negado provimento ao recurso especial, nos termos do art. 932, IV, b, do CPC/15 ou não conhecido do recurso fazendário porquanto tratar-se de matéria de índole constitucional.
+Requer o acolhimento dos presentes embargos para que seja sanado o vício apontado.
+É o relatório.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+Realmente, não há como tachar de obscura a decisão recorrida que claramente determina o retorno dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local, frente ao que decidido pela Excelsa Corte, porquanto a matéria debatida coincide com a questão reconhecida pelo Supremo Tribunal Federal como de repercussão geral, a saber, necessidade de lei em sentido formal para a atualização do valor venal de imóveis, Tema 21, RE 648.245/MG e AI 764.518/MG.
+Como é de sabença geral, o vício da obscuridade dá-se quando falta clareza na decisão, implicando evidente dificuldade na compreensão do julgado, o que, como antes demonstrado, não é a hipótese dos autos. A esse respeito, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA APÓS EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OBSCURIDADE E OMISSÃO. INEXISTÊNCIA. MULTA.
+1. Trata-se de Embargos de Declaração contra acórdão que manteve a inadmissão de Embargos de Divergência porquanto os acórdãos confrontados não guardam necessária semelhança fático-processual.
+2. Obscuridade é vício que impossibilita a clara compreensão do provimento jurisdicional que compôs a lide - situação não caracterizada nos presentes autos.
+ ..
+4. Embargos de Declaração rejeitados, com aplicação de multa de 1% sobre o valor da causa.
+(EDcl no AgRg nos EREsp 1172175/PR, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 17/4/2013, DJe 21/6/2013)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO DO ARTIGO 535 DO CPC. OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REEXAME. INOVAÇÃO. NÃO CONHECIMENTO.
+1. A obscuridade verifica-se quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, ocorre a obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível.
+ ..
+4. Agravo regimental improvido.
+(AgRg no REsp 677.210/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 18/8/2005, DJ 3/10/2005, p. 352)
+Ademais, imperioso destacar que o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, uma vez que é incapaz de gerar prejuízo às partes. Nesse sentido: AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017.
+Certo, porém, que ficam a salvo dessa diretriz situações reveladoras de erro ou equívoco patentes, o que não se verifica no caso ora decidido.
+Por fim, inviável a aplicação do comando previsto no art. 932, IV, b, do CPC/15, porquanto tanto o STF quanto este STJ possuem entendimento tranquilo de que incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repercussão geral ou repetitivo. Daí a compreensão pela necessidade do cumprimento da norma inserta no art. 1.040 do CPC/15, ou seja, o rejulgamento por órgão fracionário competente do recurso direcionado à Corte de origem (apelação, agravo de instrumento), se o acórdão estiver em confronto com o posicionamento consolidado nas Cortes Superiores; ou a negativa de seguimento de recurso extraordinário lato sensu se o acórdão recorrido estiver em conformidade com o precedente firmado.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegada obscuridade do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Assim, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
