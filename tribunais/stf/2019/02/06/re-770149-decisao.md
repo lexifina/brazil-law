@@ -1,0 +1,15 @@
+Petição/STF nº 37/2019
+DECISÃO
+PROCESSO SUBJETIVO – TERCEIRO – ADMISSIBILIDADE.
+    1. O Gabinete prestou as seguintes informações:
+    O Tribunal, no recurso extraordinário nº 770.149/PE, da relatoria de Vossa Excelência, reconheceu a repercussão geral da questão atinente à viabilidade de Município, cuja Câmara municipal esteja em débito com a Fazenda Nacional, obter Certidão Positiva de Débito com Efeito de Negativa – CPDEN – Tema nº 743.
+    Os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe e Tocantins, bem assim o Distrito Federal, mediante a petição/STF nº 37/2019, protocolada pela Câmara Técnica do Colégio Nacional de Procuradores Gerais dos Estados e do Distrito Federal – CONPEG e assinada pelos respectivos Procuradores regularmente credenciados, buscam a admissão no processo na condição de terceiros interessados.
+    Ressaltam o contexto fático da controvérsia ao abordar a possibilidade de restrições ao Poder Executivo municipal decorrentes de irregularidades imputadas ao Legislativo. Asseveram a probabilidade de a decisão afetar os Estados da Federação e o Distrito Federal. Aludem a solicitações, realizadas pela União, de suspensão de inúmeras ações cíveis originárias estaduais, com base no Tema nº 743, visando afastar limitações lastreadas em irregularidades ocasionadas pelos outros Poderes. Afirmam existir representatividade, considerado o legítimo interesse dos requerentes na definição dos contornos dos princípios da separação dos poderes e da intranscendência das sanções. Destacam a relevância jurídica, econômica e social da questão. Discorrem a respeito do mérito, sustentando a intranscendência das penas.
+    Vossa Excelência, em 26 de fevereiro de 2016, admitiu, no processo, como terceira interessada, a Associação Brasileira das Secretarias de Finanças das Capitais Brasileiras – ABRASF.
+    O processo é eletrônico, encontra-se concluso e sem data prevista para julgamento.
+    2. A controvérsia possui repercussão ímpar ao versar a viabilidade de Município cuja Câmara municipal esteja em débito com a Fazenda Nacional obter Certidão Positiva de Débito com Efeito de Negativa – CPDEN. Está-se diante de matéria de interesse dos entes federativos requerentes, sob o ângulo da representatividade. O quadro mostra-se favorável ao acolhimento do pedido.
+    3. Admito os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe e Tocantins, bem assim o Distrito Federal como terceiros interessados no processo, recebendo-o no estágio em que se encontra.
+    4. Publiquem
+Brasília, 6 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
