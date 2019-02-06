@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 268):
+DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO ESPECIAL. COPEIRA DE HOSPITAL. AGENTES BIOLÓGICOS. REQUISITOS PREENCHIDOS.
+1. O reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos é admissível até 28/04/1995, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29/04/1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até 05/03/1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+2. Considera-se especial a atividade onde o segurado esteja exposto a agentes biológicos, com previsão nos Códigos 1.3.2 e 2.1.3 do Quadro Anexo ao Decreto nº 53.831/64; Códigos 1.3.4 do Anexo I e 2.1.3 do Anexo II do Decreto nº 83.080/79; Código 3.0.1 do Anexo IV do Decreto nº 2.172/97 e Código 3.0.1 do Anexo IV do Decreto nº 3.048/99.
+3. A exposição a agentes biológicos não precisa ser permanente para caracterizar a insalubridade do labor, sendo possível o cômputo do tempo de serviço especial diante do risco de contágio sempre presente. Não se reclama exposição às condições insalubres durante todos os momentos da prática laboral.
+4. Os equipamentos de proteção individual não são suficientes para descaracterizar a especialidade da atividade exercida, porquanto não comprovada a sua real efetividade por meio de perícia técnica especializada e não demonstrado o uso permanente pelo empregado durante a jornada de trabalho.
+Os embargos de declaração interpostos foram improvidos.
+No presente recurso especial (fls. 296-302), o recorrente aponta, inicialmente, a violação do art. 1.022 do CPC ao argumento de que, mesmo ante a oposição de embargos de declaração, o Tribunal a quo teria deixado de apreciar a correta aplicação do art. 57, § 3º, da Lei n. 8.213/91, bem como a incidência deste no caso de exposição a agentes biológicos.
+Aponta, ainda, contrariedade ao art. 57, § 3º, da Lei n. 8.213/91.
+Sustenta, em síntese, que o reconhecimento de especialidade do trabalho por exposição a agentes biológicos, em período posterior à vigência da Lei n. 9.032/95, ocorreu sem que houvesse a devida comprovação da habitualidade da exposição no período em análise, tendo esta exposição ocorrido de forma intermitente.
+Sem a apresentação de contrarrazões, o recurso especial foi admitido na origem.
+É o relatório. Decido.
+Em relação à alegada violação do art. 1.022 do CPC/15, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 1.022 do CPC/15 atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Quanto a questão de fundo, tenho que não assiste razão ao recorrente.
+No concernente à comprovação da exposição aos agentes biológicos, de forma habitual e permanente, o Tribunal a quo consignou, in verbis (fls. 262-263):
+1. Período - 30/05/1990 a 29/06/2011
+Empresa - Casa de Misericórdia de Cornélio Procópio
+Atividade/função/setor - Copeira (auxiliar de nutrição e copa)- Setor Medicina de Mulheres
+Prova documental - PPP (fls. 26-27), CTPS (fl. 45), laudo técnico judicial (fls. 208-213)
+Agentes nocivos - Micro-organismos e parasitas
+EPI"s - A utilização de equipamentos de proteção individual (EPI) é irrelevante para o reconhecimento das condições especiais, prejudiciais à saúde ou à integridade física do trabalhador, da atividade exercida no período anterior a 03 de dezembro de 1998, data da publicação da MP nº 1.729, de 2 de dezembro de 1998, convertida na Lei nº 9.732, de 11 de dezembro de 1998, que alterou o § 2º do artigo 58 da Lei 8.213/91. Para o período posterior, não há nos autor informações acerca do uso adequado de EPI"s ou EPC"s, e ainda que no formulário PPP conste a anotação de EPI eficaz, nenhum equipamento foi mencionado, tampouco há comprovantes de entrega, uso, trocas e fiscalização desses aparatos, não podendo se falar, dessa forma, em EPI eficaz.
+Enquadramento legal - Agentes Biológicos: Códigos 1.3.2 e 2.1.3 do Quadro Anexo ao Decreto nº 53.831/64; Códigos 1.3.4 do Anexo I e 2.1.3 do Anexo II do Decreto nº 83.080/79; Código 3.0.1 do Anexo IV do Decreto nº 2.172/97 e Código 3.0.1 do Anexo IV do Decreto nº 3.048/99.
+Conclusão - o agente nocivo (biológicos) é elencado como especial e a prova é adequada, devendo ser mantido o reconhecimento do período como especial.
+ ..
+Da mesma forma, é possível o reconhecimento da especialidade do labor, conquanto não se saiba a quantidade exata de tempo de exposição ao agente insalutífero. Não se reclama exposição às condições insalubres durante todos os momentos da prática laboral. Caso se admitisse o contrário, chegar-se-ia ao extremo de entender que nenhum trabalho faria jus àquela adjetivação.
+De fato, a exposição de forma intermitente aos agentes biológicos não descaracteriza o risco de contágio, uma vez que o perigo existe tanto para aquele que está exposto de forma contínua como para aquele que, durante a jornada, ainda que não de forma permanente, tem contato com tais agentes (TRF4, APELREEX 5002443- 07.2012.404.7100, Sexta Turma, Relator p/ Acórdão João Batista Pinto Silveira, juntado aos autos em 26/07/2013). Assim, os requisitos da habitualidade e da permanência devem ser entendidos como não-eventualidade e efetividade da função insalutífera, continuidade e não-interrupção da exposição ao agente nocivo. A intermitência refere-se ao exercício da atividade em local insalubre de modo descontínuo, ou seja, somente em determinadas ocasiões. Se o trabalhador desempenha diuturnamente suas funções em locais insalubres, mesmo que apenas em metade de sua jornada de trabalho, tem direito ao cômputo do tempo de serviço especial, porque estava exposto ao agente agressivo de modo constante, efetivo, habit ual e permanente (TRF/4, AC nº 2000.04.01.073799-6/PR, 6ª Turma, Relator Desembargador Federal Luiz Carlos de Castro Lugon, DJU 9/5/2001).
+Vê-se, pois, que a Corte a quo, destinatária do conjunto probatório, considerou que as atividades exercidas pelo recorrente, sujeitas a agentes insalubres, caracterizaram-se como atividades especiais, ou seja, ocorreram de forma habitual e permanente, consoante legislação aplicável à espécie.
+Sendo assim, para rever o entendimento firmado na instância ordinária, seria necessário o revolvimento de todo conjunto fático-probatório para se chegar a entendimento diverso, o que não é possível na seara do recurso especial ante o óbice constante da Súmula n. 7/STJ, que veda tal revisão.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+E com fundamento no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios fixados na instância ordinária em 1% .
+Publique-se. Intimem-se.
