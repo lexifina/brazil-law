@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por [NOME], por meio da qual sustenta que a Turma Recursal do Juizado Especial do Estado de São Paulo, por ocasião do julgamento de recurso inominado, divergiu da jurisprudência desta Corte.
+É O BREVE RELATÓRIO. DECIDE-SE.
+A Resolução STJ n. 12/2009, que previa o cabimento de reclamação para esta Corte com o fim de examinar divergência jurisprudencial entre acórdão prolatado por Turma Recursal Estadual e a jurisprudência do STJ, foi expressamente revogada pela Emenda Regimental n. 22, de 16/03/2016.
+Ademais, na apreciação de questão de ordem suscitada no julgamento do AgRg na Rcl 18.506/SP, a Corte Especial aprovou a Resolução STJ n. 3/2016, a qual prevê que, a partir de 7 de abril de 2016, as Câmaras Reunidas ou a Seção Especializada dos Tribunais de Justiça passam a ser competentes para "processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+Desse modo, considerando que a presente reclamação foi protocolada quando já em vigor a Resolução STJ n. 3/2016, não mais subsiste a competência do STJ para sua apreciação.
+Forte nessas razões, determino a remessa dos autos ao Tribunal de origem, ao qual está vinculada a Turma Recursal, para os fins de direito.
+Publique-se. Intimem-se.
