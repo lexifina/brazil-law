@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO NÃO CONFIGURADA. OMISSÃO QUANTO AO ART. 1.238. CAPUT, DO CC/02. CONFIGURADA. REQUISITOS NÃO ANALISADOS PELA CORTE DE ORIGEM. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF, POR ANALOGIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, MAS SEM EFEITOS INFRINGENTES.
+DECISÃO
+MOACIR ALVES e SILCEIA GONCALVES LIMA ALVES (MOACIR e SILCEIA) ajuizaram ação de usucapião contra [NOME] e ANTONIO MARCIO DE OLIVEIRA ([NOME] e ANTÔNIO) afirmando que possuem a posse do imóvel situado no lote 30 da quadra 79 do bairro Bethânia, desde 1991, com animus domini.
+[NOME] e ANTÔNIO ajuizaram ação reivindicatória aduzindo que adquiriram o imóvel da CEF e que os requeridos, apesar de notificados, se recusaram a desocupar o imóvel.
+Em primeiro grau, a ação de usucapião foi julgada procedente e improcedente a ação reivindicatória.
+[NOME] e ANTÔNIO apelaram sustentando que não houve prova do animus domini e que os requeridos são mero detentores do imóvel. Afirmaram que não foram preenchidos os requisitos legais para o reconhecimento da usucapião porque a posse inicial era precária, não sendo possível a sua transmudação para posse justa. Por derradeiro, defenderam que os bens públicos não podem ser adquiridos por usucapião.
+O Tribunal de origem deu provimento ao recurso em acórdão, assim ementado:
+APELAÇÃO CÍVEL - USUCAPIÃO E REIVINDICATÓRIA - SENTENÇA CONJUNTA - IRRESIGNAÇÃO - PRAZO - CC/16 - REGRA DE TRANSIÇÃO - APLICAÇÃO - LAPSO TEMPORAL INSUFICIENTE - REJEIÇÃO DA PRETENSÃO AQUISITIVA - PROCEDÊNCIA DO PEDIDO REIVINDICATÓRIO. 1 - Nos termos do art. 2.028 do CC, serão os da lei anterior os prazos, quando reduzidos pelo novo CC, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada. 2 - Não tendo os autores da ação de usucapião comprovado o lapso temporal necessário à aquisição originária, a pretensão deve ser julgada improcedente. 3 - Deve ser julgada procedente a ação reivindicatória se os autores comprovam justo título e impedimento do exercício da posse (e-STJ, fl. 225).
+Os embargos de declaração opostos por MOACIR e SILCEIA foram rejeitados (e-STJ, fls. 251/259).
+Irresignados, MOACIR e SILCEIA interpuseram recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a negativa de vigência do art. 2.029 do CC/02 que regulamenta a regra especial sobre os prazos prescritivos de aquisição da propriedade, indicando, ainda, a existência de dissídio jurisprudencial sobre o tema. Alegaram que o art. 1.238 do CC/02 estabelece o prazo de 15 anos para a prescrição aquisitiva e que não houve qualquer oposição até 2007.
+Houve contrarrazões (e-STJ, fls. 285/295).
+O recurso especial não foi conhecido em decisão monocrática de minha, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE USUCAPIÃO. VIOLAÇÃO DO ART. 2.029 DO CC/02. REGRA DE TRANSIÇÃO. USUCAPIÃO. INAPLICABILIDADE AO CASO. ARTIGO SEM CONTEÚDO NORMATIVO. SÚMULA Nº 284 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 309).
+Nas razões destes aclaratórios, MOACIR e SILCEIA afirmaram que existe contradição na decisão embargada porque o apelo nobre foi interposto em virtude da negativa de vigência ao art. 1.238, caput e parágrafo único e que deveria ser reconhecida a regra de transição do art. 2.029 do CC/02 ao caso em apreço.
+Houve impugnação (e-STJ, fls. 324/326)
+É o relatório.
+DECIDO.
+O atual inconformismo merece prosperar, mas sem efeitos infringentes.
+De plano vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+MOACIR e SILCEIA afirmaram que existe contradição na decisão embargada porque o apelo nobre foi interposto em virtude da negativa de vigência ao art. 1.238, caput e parágrafo único e que deveria ser reconhecida a regra de transição do art. 2.029 do CC/02 ao caso em apreço.
+Assiste parcial razão aos embargantes.
+Constou na decisão embargada que a ação de usucapião foi proposta aos 15/10/2007 e que MOACIR e SILCEIA alegaram a posse do imóvel desde 1991 (edícula) e 21/3/1996, tendo o pedido de usucapião sido fundamentado no art. 1.238 do CC/02 que estabelece a posse por 15 anos.
+É o que se verifica do trecho do acórdão proferido na Corte de origem, in verbis:
+Sustentaram, assim, que desde 21.03.1996 detinham a posse ininterrupta, mansa e pacífica do imóvel por meio de cláusula constituti, além de exercerem também a posse mansa e pacífica do imóvel desde 1991. quando lhes foram transmitidas as posses do lote e da edícula então construída, na qual passaram a residir (f.5).
+Pois bem. O pedido de usucapião está fundamentado no art. 1.238 do CC/2002, que assim estabelece:
+"Art. 1.238 Aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis.
+Parágrafo único. O prazo estabelecido neste artigo reduzir-se-á a dez anos se o possuidor houver estabelecido no imóvel a sua moradia habitual, ou nele realizado obras ou serviços de caráter produtivo".
+De acordo com citado dispositivo, para obter a chamada usucapião extraordinária, imprescindível o preenchimento de três elementos fundamentais, quais sejam: a posse mansa, pacífica e ininterrupta, por determinado período, com intenção de dono  ..  (e-STJ, fl. 229)
+Assim, não obstante a indicação do parágrafo único do art. 1.238 do CC/02, verifica-se que os fundamentos analisados pelo Tribunal de origem se referiam apenas aos requisitos do caput do já citado artigo.
+O Tribunal de origem ressaltou, no julgamento dos aclaratórios, que a regra do art. 2.029 do CC/02 não foi analisada porque desnecessária e, ainda que aplicada, o prazo previsto no artigo o prazo para o reconhecimento da usucapião previsto no art. 1.238 do CC/02 não teria sido atendido, confira-se:
+Em primeiro lugar, assinale-se que não foram tecidas considerações a respeito da regra contida no art. 2.029 do CC/02, por não se entender necessária. Isso porque, consta expressamente do acórdão embargado as seguintes considerações:
+ ..
+Considerando que o CC/2002 entrou em vigor em 11.01.2003, entende-se que os dois anos previstos no art. 2.029 deveriam ser contados até 11.01.2005. No entanto, a ação usucapienda proposta pelos segundos embargantes ingressou em Juízo apenas em 15.10.2007 (f.2-v).
+Demais disso, ainda que se somassem dois anos aos quinze anos necessários para a aquisição originária por usucapião, conforme previsto no art. 1.238 do CC/2002, os segundos Embargantes não teriam comprovado o lapso temporal necessário para a aquisição originária por usucapião á época da propositura da ação. Isso porque, conforme salientado no acórdão embargado, em sua inicial os segundos Embargantes defendiam a posse ininterrupta do imóvel objeto do litigio por 16 (dezesseis) anos.
+Portanto, novamente, o tema da usucapião foi analisado apenas com base nos requisitos do caput do art. 1.238 do CC/02.
+Nas razões do seu recurso especial, MOACIR e SILCEIA afirmaram que em momento algum das fases recursais colocou-se em dúvida que os recorrentes deram utilidade social ao imóvel usucapiendo e que por isso a decisão deveria considerar o prazo de 10 anos e declarar o implemento da usucapião (e-STJ, fl. 273).
+Ocorre de tal tese, redução do prazo para 10 anos previsto no parágrafo único do art. 1.238 do CC/02, não foi analisada pela Corte de origem, sendo forçoso reconhecer, quanto ao ponto, a falta de prequestionamento nos termos da Súmula nº 282 do STF, por analogia.
+Nessas condições, ACOLHO os embargos de declaração, sem efeitos infringentes.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se. Intime-se
