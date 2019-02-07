@@ -1,0 +1,26 @@
+RECLAMAÇÃO. AJUIZAMENTO CONTRA DECISÃO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. PRECEDENTES. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação ajuizada por Humberto da Silva Guedes contra acórdão proferido pela Segunda Turma do Supremo Tribunal Federal nos autos do Recurso Extraordinário 863.413, por suposta afronta à autoridade da decisão proferida por esta Suprema Corte no julgamento do Recurso Extraordinário 597.854 (Tema 535 da Repercussão Geral).
+    Eis o teor da decisão ora reclamada, in verbis:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. PENSÃO MENSAL E VITALÍCIA PARA EX-GOVERNADORES: INCONSTITUCIONALIDADE. PRECEDENTES. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Narra o reclamante que foi submetido a processo administrativo junto ao Tribunal de Contas do Estado de Rondônia, o qual culminou com a cassação da aposentadoria que percebia em decorrência do exercício do cargo de Governador de Estado no interregno de 20/05/1975 a 10/04/1979.
+    Relata que, a fim de sustar os efeitos do referido ato, impetrou mandado de segurança contra o Estado de Rondônia, tendo a ordem sido concedida pelo Tribunal local.
+    Discorre que o Estado de Rondônia interpôs recurso extraordinário, ao qual esta Corte deu provimento, denegando a segurança anteriormente concedida.
+    Aduz que o caso em tela guarda identidade temática com aquele que foi objeto do Recurso Extraordinário 597.854 (Tema 535 da Repercussão Geral) e que a decisão ora reclamada estaria em desacordo com a tese jurídica firmada no referido paradigma.
+    Argumenta que “o Acórdão objurgado não só caça a autoridade do plenário dessa Suprema Corte, que já havia se debruçado e definido a matéria constitucional em apreço, ao passo que se dispõe afrontar os princípios esculpidos no texto constitucional, viabilizando a sublevação ao direito adquirido, inteligência do art. 5º, inciso XXXVI de nossa Constituição Federal”.
+    Alega a necessidade de cassação do acórdão ora reclamado, a fim de adequá-lo ao que decidido no Tema 535 da Repercussão Geral, por entender determinante à correta conclusão da controvérsia posta em análise.
+    Requer, por fim, a procedência da presente demanda, a fim de “sustar de imediato (artigo 993 do CPC) os efeitos do acórdão, que contraria frontalmente decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade, para que se alinhe aos preceitos estabelecidos pelo Plenário da Excelsa Corte”.
+    É o relatório. DECIDO.
+    Esta Suprema Corte firmou orientação no sentido da impossibilidade de ajuizamento de reclamação que objetiva impugnar suas próprias decisões. Confiram-se, nesse sentido, os seguintes julgados:
+    “RECLAMAÇÃO. DECISÃO PROFERIDA PELO VICE-PRESIDENTE DESTA CORTE. NÃO CABIMENTO. Não cabe reclamação contra decisões dos membros do Supremo Tribunal Federal. Precedentes. Com efeito, a reclamação não é via processual adequada, no Supremo Tribunal Federal, à impugnação de suas decisões (Rcl-AgRg 3.316, de minha relatoria, Segunda Turma, 21.06.2005; Rcl-AgRg 3.916, rel. min. Carlos Britto, Pleno, 12.06.2006). A impugnação das decisões do Supremo Tribunal Federal se faz nos termos da legislação processual, por meio dos recursos próprios. Agravo regimental desprovido.” (Reclamação 4.591-AgR, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 04/12/2009, grifei)
+    “RECLAMAÇÃO CONTRA DECISÃO DE MINISTRO DO STF. NÃO CABIMENTO.
+    1. A competência originária do STF para processar e julgar reclamação, prevista nos arts. 102, I, l, e 103-A, § 3º, limita-se a preservar a competência do Tribunal, garantir a autoridade de suas decisões ou a eficácia de súmula vinculante. Na hipótese dos autos, não está configurada nenhuma dessas situações. Isso porque, (a) inadmissível falar em decisão do STF que usurpa a competência do próprio STF e (b) a reclamação não é via para preservar as competências dos órgãos do STF definidas em seu regimento. Precedentes.
+    2. Agravo regimental a que se nega provimento.” (Reclamação 13.996-AgR, Rel. Min. Teori Zavascki, Tribunal Pleno, DJe de 11/06/2013, grifei)
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. RECLAMAÇÃO. DESCABIMENTO CONTRA ACÓRDÃO DE TURMA INTEGRANTE DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. A reclamação revela-se incabível quando invocado, como ato reclamado, decisão de Ministro ou de composição colegiada de turma integrante do Supremo Tribunal Federal. Precedentes: Rcl 13.996-AgR, Relator Ministro Teori Zavascki, Pleno, DJe de 11/6/2013; Rcl 4.591-AgR, Rel. Min. Joaquim Barbosa, DJe de 4/12/2009 e Rcl nº 8.301-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe 9/10/2009.
+    2. Agravo regimental desprovido.” (Reclamação 15.790-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 04/03/2015, grifei)
+    Ex positis, NEGO SEGUIMENTO à presente Reclamação, nos termos do artigo 932, inciso VIII, do Código de Processo Civil, combinado com o artigo 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2019.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
