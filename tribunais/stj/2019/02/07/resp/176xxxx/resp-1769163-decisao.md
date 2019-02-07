@@ -1,0 +1,26 @@
+EMENTA
+PROCESSO CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DE DANOS PESSOAIS POR VEÍCULO AUTOMOTOR DE VIA TERRESTRE. SEGURO DPVAT. TERMO INICIAL DA PRESCRIÇÃO. CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ. NECESSIDADE DE LAUDO MÉDICO. PRESCRIÇÃO NÃO CONSUMADA.
+1. Ação de cobrança de seguro DPVAT.
+2. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez.
+3. Exceto nos casos de invalidez permanente notória, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico, sendo relativa a presunção de ciência.
+ 4. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e/ou "c" do permissivo constitucional.
+Recurso especial interposto em: 17/05/2018.
+Concluso ao gabinete em: 23/10/2018.
+Ação: de cobrança securitária - DPVAT ajuizada pelo recorrente em face de PORTO SEGURO COMPANHIA DE SEGUROS GERAIS.
+Sentença: julgou parcialmente procedente o pedido inicial para condenar a parte ré ao pagamento da importância de R$ 5.068,00, atualizada monetariamente e com juros legais de mora de 1% ao mês.
+Pela sucumbência em parte mínima e atento ao princípio da causalidade, determinou que a parte requerida arcará com custas, despesas processuais e honorários de advogado arbitrados em 10% do valor da condenação atualizada.
+Acórdão: deu provimento à apelação interposto pela SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA para julgar improcedente a ação, condenando-se o autor ao pagamento de custas, despesas processuais e honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa, nos termos do artigo 85, § 8º, do Código de Processo Civil, observada a gratuidade da justiça, conforme a seguinte ementa:
+Ação de cobrança de seguro obrigatório de veículo, DPVAT - a falta de pedido administrativo não impede ação judicial,conforme a data da ação, segundo posição do STF - ausência de documentos que demonstrem a necessidade do segurado de tratamento médico continuado - ação ajuizada após o prazo previsto no artigo 206, § 3º, IX, do Código Civil - prescrição caracterizada - sentença de procedência parcial afastada - improcedência da ação - apelação provida, sucumbência a cargo do autor, observada a gratuidade da justiça.
+Recurso especial: alega violação dos arts. 206, § 3º, IX, do CC, Súmulas 278 e 573, ambas do STJ; bem como dissídio jurisprudencial. Sustenta que, na presente hipótese, o Tribunal de origem, de forma equivocada, entendeu que ocorreu o instituto da prescrição. Nesse contexto, relata que "o acidente sofrido pela vítima se deu em 02 de fevereiro de 2004, contudo somente após a confecção do laudo médico de fls. em 09/05/2014 é que Recorrente teve ciência de sua incapacidade, não se podendo esquecer que a ciência inequívoca se deu com a realização da perícia judicial em 05 de agosto de 2016; tendo a ação sido ajuizada em 02/07/2014, por certo está dentro do prazo prescricional".
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Prescrição do Seguro DPVAT
+A Segunda Seção desta Corte Especial, sob o rito dos recursos especiais repetitivos, consolidou o entendimento no REsp n. 1.388.030/MG, de relatoria do Min. Paulo de Tarso Sanseverino, no sentido de que "o termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez, e que exceto nos casos de invalidez permanente notória, ou naqueles em que o conhecimento anterior resulte comprovado na fase de instrução, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico".
+No mais, da leitura do voto condutor do julgamento do recurso especial repetitivo, percebe-se claramente que o entendimento pacificado neste Superior Tribunal de Justiça é no sentido de que o termo inicial do prazo prescricional é a data em que a vítima tem ciência inequívoco da sua invalidez que, todavia, nos termos do art. 334 do CPC/1973, não pode ser presumida.
+Assim, a data de emissão de laudo médico atestando a invalidez permanente é considerada como prova do referido conhecimento inequívoco. Demais conjecturas fáticas que levam à presunção deste conhecimento não são aceitas pela jurisprudência consolidada nesta Corte Superior, à exceção da invalidez notória em hipóteses como amputação de membros ou quando o conhecimento anterior resulte comprovado na fase de instrução.
+Assim, o Tribunal de origem decidiu de forma contrária à orientação deste STJ, ao considerar a data do evento danoso como termo inicial do prazo prescricional, presumindo que a ciência inequívoca da invalidez permanente tenha ocorrido em data anterior ao laudo médico pericial.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V,  a , do CPC/2015, bem como na Súmula 568/STJ, para restabelecer os efeitos da sentença.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
