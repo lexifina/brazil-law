@@ -1,0 +1,19 @@
+DECISÃO
+PENA-BASE – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+PENA – REGIME DE CUMPRIMENTO – RELEVÂNCIA.
+HABEAS CORPUS – LIMINAR –DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Décima Terceira Vara Criminal da Comarca de São Paulo/SP, no processo nº 0016559-86.2017.8.26.0050, condenou a paciente a 6 anos e 8 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 666 dias-multa, em virtude da prática da infração definida no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Na dosimetria, impôs a pena-base em 8 anos, tendo em vista o piso de 5 e o teto de 15 anos, ante a elevada quantidade de entorpecente apreendida – 1.934,3 gramas de maconha. Observou a atenuante concernente a menoridade relativa, reduzindo a sanção em 1 ano e 2 meses. Disse ausentes causas de aumento e de diminuição. Estabeleceu o regime mais gravoso para o início do cumprimento da pena, considerada a hediondez do delito. O trânsito em julgado da condenação ocorreu em 19 de abril de 2017.
+    Ajuizada revisão criminal, julgou-se parcialmente procedente o postulado, para reconhecer a atenuante alusiva à confissão espontânea. A sanção foi redimensionada em 5 anos, 6 meses e 20 dias de reclusão e 555 dias-multa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 474.308/SP, inadmitido pelo Relator.
+    A impetrante sustenta a desproporcionalidade da fixação da pena-base 3 anos acima do mínimo previsto para o tipo. Destaca pertinente o aumento na fração de 1/6, referindo-se a precedente do Superior Tribunal de Justiça. Aponta constrangimento ilegal, afirmando implementado o regime mais gravoso com fundamento na hediondez da infração. Salienta haverem o Tribunal de Justiça e Superior Tribunal, no julgamento da ação revisional e da impetração, complementado as premissas do Juízo quanto ao regime inicial de cumprimento.
+    Requer, no campo precário e efêmero, a redução do grau de aumento da pena-base. No mérito, busca seja limitado a 1/6 o patamar de aumento da pena-base, ante o mínimo previsto para o tipo, e imposto o regime semiaberto de cumprimento da sanção.
+    A fase é de exame da medida de urgência.
+    2. O Juízo, ao definir a pena-base, levando em conta o piso de 5 e o teto de 15 anos, veio a estabelecê-la em 8 anos. Considerou a quantidade da substância encontrada – 1.934,3 gramas de maconha –, reportando-se ao artigo 42 da Lei nº 11.343/2006. A dosimetria resolve-se, de regra, no campo do justo ou injusto. Difícil é o pronunciamento judicial que, sob tal ângulo, encerre ilegalidade, e esta não surge.
+     O regime inicial de cumprimento de pena veio a ser fixado, tendo em vista a hediondez do crime. O Supremo, no julgamento do habeas corpus nº 82.959, de minha relatoria, em 23 de fevereiro de 2006, concluiu no sentido da inconstitucionalidade desse entendimento. O regime deve ser definido a partir do patamar referente à condenação e das circunstâncias judiciais – artigo 33, parágrafos 2º e 3º, do Código Penal –, mostrando-se o título condenatório, nesse ponto, carente de motivação. Tem-se que o Colegiado de origem e Superior Tribunal de Justiça, ao citar a quantidade de entorpecentes para justificar o regime, violou o preceituado no artigo 617 do Código de Processo Penal, promovendo nova fundamentação em instrumental da defesa.
+    3. Defiro a liminar, não nos termos em que postulada, mas para determinar ao juízo da Execução Penal, no processo nº 0016559-86.2017.8.26.0050, da Décima Terceira Vara Criminal da Comarca de São Paulo/SP, que proceda a nova fundamentação quanto à imposição do regime inicial de cumprimento de pena.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 7 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
