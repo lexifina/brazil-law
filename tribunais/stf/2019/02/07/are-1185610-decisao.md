@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. APOSENTADORIA ESPECIAL. POLICIAL CIVIL. LEI COMPLEMENTAR N. 51/1985 E LEI COMPLEMENTAR N. 144/2014. EMENDA CONSTITUCIONAL N. 41/2003. PARIDADE E INTEGRALIDADE. TEMA 1.019. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “SERVIDOR PÚBLICO ESTADUAL. Policial civil. Pedido de aposentadoria especial voluntária, com base no disposto na LC nº 51/85, com as alterações da LCE nº 144/14. Direito líquido e certo configurado. Norma recepcionada pela CF/88. Ingresso na carreira policial civil antes das EC´s nºs 20/98 e 41/03. Direito à paridade e aos proventos integrais. Atendimento dos pressupostos constitucionais. O requisito temporal de 5 anos para a aposentadoria diz respeito ao cargo, e não ao nível ou classe. Precedentes. Sentença mantida. Apelo e remessa necessária conhecidos e não providos” (fl. 34, vol. 2).
+    2. No recurso extraordinário os agravantes alegam ter o Tribunal de origem contrariado os §§ 1º, 3º, 4º, 8º e 17 do art. 40 da Constituição da República, o art. 6º da Emenda Constitucional n. 41/2003 e o art. 3º da Emenda Constitucional n. 47/2005.
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (fl. 101, vol. 2).
+    Os agravantes sustentam que “a discussão veiculada no presente recurso extraordinário é de matéria constitucional, pois diz respeito à forma de cálculo e de reajuste dos proventos de todas as aposentadorias especiais concedidas com base nas regras do artigo 40 da CF, isto é, regras do corpo permanente. Dessa forma, é equivocado o entendimento adotado no despacho de inadmissibilidade, o qual tem como fundamentos que o recurso impõe a análise de lei local e de aspectos fáticos” (fl. 110, vol. 2).
+    Analisada a questão trazida na espécie, DECIDO.
+    4. No julgamento do Recurso Extraordinário n. 1.162.672, Relator o Ministro Dias Toffoli, este Supremo Tribunal reconheceu a repercussão geral da controvérsia sobre o “direito de servidor público que exerça atividades de risco de obter, independentemente da observância das regras de transição das Emendas Constitucionais nºs 41/03 e 47/05, aposentadoria especial com proventos calculados com base na integralidade e na paridade” (Tema 1.019):
+    “SERVIDOR PÚBLICO. ATIVIDADES DE RISCO. APOSENTADORIA. PROVENTOS. INTEGRALIDADE E PARIDADE REMUNERATÓRIA. REGRAS DE TRANSIÇÃO DAS EMENDAS CONSTITUCIONAIS NºS 41/03 E 47/05. PRESENÇA DE REPERCUSSÃO GERAL” (RE n. 1.162.672-RG, Relator o Ministro Dias Toffoli, DJe 30.11.2018).
+    Reconhecida a repercussão geral do tema suscitado no recurso extraordinário com agravo, os autos deverão retornar à origem para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+    5. Pelo exposto, determino a imediata devolução destes autos ao Tribunal de origem para observar-se o disposto no art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
