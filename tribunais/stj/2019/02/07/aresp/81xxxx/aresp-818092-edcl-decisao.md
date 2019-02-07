@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de Embargos de Declaração opostos por MARIA DE LOURDES XAVIER DOS SANTOS em face da decisão que deu provimento ao Recurso Especial, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO DE PENSÃO POR MORTE. TERMO INICIAL DO PRAZO DECADENCIAL: DATA DA CONCESSÃO DA PENSÃO POR MORTE E NÃO A DATA DA APOSENTADORIA. PRAZO AUTÔNOMO EM RELAÇÃO AO BENEFÍCIO CONCEDIDO AO INSTITUIDOR DA PENSÃO. PRINCÍPIO DA ACTIO NATA. EMBARGOS DE DECLARAÇÃO DO SEGURADO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+2. Sustenta a embargante contradição na decisão, porque de fato o acórdão de origem já utilizara o termo inicial da decadência a partir da concessão da pensão por morte. Esclarece que no caso dos autos, o que se defende é que a contagem do termo inicial do prazo decadencial só teria inicial a partir do trânsito em julgado da ação revisional ajuizada pelo falecido marido.
+3. É o relatório.
+4. De fato, assiste razão à embargante, merecendo reparos na contradição da decisão de fls. 339/348.
+5. Da atenta leitura dos autos, verifica-se que a Corte de origem, de fato, toma como início da contagem do prazo decadencial, não a concessão da aposentadoria do de cujus, mas, sim, a concessão da pensão por morte. Reconhecendo, assim, a decadência do direito à revisão uma vez que decorridos mais de 10 anos entre a concessão da pensão e o ajuizamento do feito.
+6. Embora a parte autora sustente que o prazo decadencial só se iniciou em 2003, data em que transitou em julgado a ação revisional movida pelo instituidor da pensão em vida, a Corte de origem afirma o contrário consignando, expressamente, que o trânsito em julgado da sentença, no processo de conhecimento, ocorreu em 31.3.1998 (fls. 261).
+7. Nesse cenário é inviável acolher a pretensão da embargante, uma vez que não seria possível a revisão do acervo probatório a fim de aferir qual seria a exata data em que se deu o trânsito em julgado da ação revisional, ante a incidência da Súmula 7 desta Corte.
+8. Ademais, é importante pontuar que o trânsito em julgado deve ser considerado a partir do processo de conhecimento, onde já restou consolidado o direito do Segurado, não havendo que se falar que somente após o processo de execução que o direito tenha se perfectibilizado.
+9. Ante o exposto, acolho os Embargos de Declaração, com efeitos infringentes, para, sanando a contradição, negar provimento ao Agravo em Recurso Especial do Particular.
+10. Publique-se. Intimações necessárias.
