@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. COMPETÊNCIA TERRITORIAL. RESOLUÇÃO DO ÓRGÃO ESPECIAL DO TRIBUNAL ESTADUAL. ALEGADA INCONSTITUCIONALIDADE. INEXISTÊNCIA DE LESÃO OU AMEAÇA À LIBERDADE DE LOCOMOÇÃO AINDA QUE INDIRETAMENTE. VIA IMPRÓPRIA. PARECER ACOLHIDO.
+Writ não conhecido.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como autoridade coatora a Oitava Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que negou provimento ao Agravo em Execução Penal n. 9000166-93.2018.8.26.0050 (fls. 22/27).
+Consta dos autos que o paciente, preso em estabelecimento prisional compreendido na circunscrição judiciária da comarca de Franco da Rocha/SP, teve o processo de execução encaminhado ao Juízo da 1ª Vara das Execuções Criminais da Capital, por força da Resolução n. 790/2017 do Órgão Especial do Tribunal de Justiça de São Paulo.
+Irresignado, o Ministério Público estadual interpôs agravo em execução no Tribunal a quo. A Defensoria Pública estadual apresentou contrarrazões concordando com o pleito ministerial.
+Diante do desprovimento do agravo, a defesa impetrou o presente writ, afirmando que a Resolução n. 790/2017 feriu a LC Estadual n. 1.208/13 à medida que desrespeita o preceituado no artigo 1º, parágrafo 8º, o qual dispõe que os processos de execuções criminais já em curso perante as varas especializadas permanecerão nas varas em que estão tramitando até sua conclusão. Por conta disso, é ilegal o deslocamento da competência territorial dos processos da Comarca de Franco da Rocha para a Comarca da Capital (fls. 6/7).
+Requer, assim, seja concedida a ordem impetrada, cassando-se o acórdão para determinar sejam os autos remetidos à comarca de Franco da Rocha (fl. 12).
+Não houve pedido de liminar.
+Informações prestadas (fls. 34/42 e 43/54), o Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 58/62).
+É o relatório.
+Estou de acordo com o parecer oferecido pela Subprocuradora-Geral da República, [NOME], cujos fundamentos adoto como razão de decidir (fls. 61/62):
+ ..  a defesa pretende a análise quanto à alegada contrariedade da Resolução nº 790/2017 do Órgão Especial do TJSP, frente a Lei Complementar Estadual nº 1.208/2013, bem como em relação ao art. 65 da Lei de Execução Penal.
+Contudo, é cediço que o habeas corpus não pode ser utilizado como instrumento de controle abstrato da validade das leis e dos atos normativos em geral. Nesse sentido é a jurisprudência do Superior Tribunal de Justiça. Confira-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO "SODOMA". ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO, EXTORSÃO E CONCUSSÃO. INCONSTITUCIONALIDADE DO DECRETO ESTADUAL N. 28/2015. ANULAÇÃO DA INVESTIGAÇÃO. TRANCAMENTO DA AÇÃO PENAL. IMPROPRIEDADE DA VIA ELEITA. AUSÊNCIA DE EVIDÊNCIA INEQUÍVOCA DE ATIPICIDADE DA CONDUTA, FALTA DE INDÍCIOS DE AUTORIA E MATERIALIDADE DELITIVA OU EXTINÇÃO DA PUNIBILIDADE.
+1. O trancamento da ação penal, através do habeas corpus - ou do recurso ordinário em habeas corpus -, é medida de exceção, sendo cabível tão-somente quando, de forma inequívoca, emergirem-se dos autos a atipicidade da conduta, a falta de indícios de autoria e da materialidade delitiva ou, ainda, quando for impedida a compreensão da acusação, em flagrante prejuízo à defesa do acusado (Precedentes). Essas circunstâncias, a propósito, não podem estar evidenciadas, de plano, na ação penal de origem.
+2. Se essa é a orientação desta Corte quanto à ação penal, quiçá no que se refere à pretendida anulação de investigação que deu origem à denúncia, porquanto constitui apenas procedimento de caráter informativo, não probatório, ao passo que eventuais vícios nele contidos não terão o poder de macular as provas nele obtidas ou tornar nula a ação penal. Além disso, o recebimento da denúncia afasta o interesse de agir no tocante à anulação da investigação pré-processual realizada (Precedentes).
+3. A ação constitucional do habeas corpus (ou o recurso ordinário em habeas corpus) não é via adequada à declaração de inconstitucionalidade, em tese, do Decreto Estadual n. 28/2015, uma vez que esse remédio não pode ser utilizado como sucedâneo da ação direta de inconstitucionalidade (Precedentes). A declaração incidental de inconstitucionalidade só haveria de ocorrer caso fosse absolutamente necessária para a decisão do caso concreto, diferentemente da presente hipótese.
+4. Recurso a que se nega provimento.
+(RHC 71.442/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/08/2016, DJe 29/08/2016). (g.n)
+Outrossim, para se proceder ao exame da matéria veiculada neste writ, seria necessário interpretar a legislação estadual, sendo imperioso, para acolher a pretensão formulada, examinar com detalhamento a Lei Complementar Estadual nº 1.208/2013, bem como a Resolução nº 790/2017 do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, procedimento inviável na estreita via do writ.
+ ..
+Com efeito, é pacífico o entendimento desta Corte Superior de que o habeas corpus não é meio adequado para controle de constitucionalidade de normas, quando não demonstrado de plano a existência de lesão ou ameaça à liberdade de locomoção, como no presente caso.
+Neste sentido: HC n. 468.341/SP, Ministra Laurita Vaz, DJe 18/12/2018 e HC n. 468.865/SP, Ministro Reynaldo Soares da Fonseca, DJe 29/11/2018.
+Ante o exposto, acolhendo o parecer ministerial, não conheço do habeas corpus.
+Publique-se.
