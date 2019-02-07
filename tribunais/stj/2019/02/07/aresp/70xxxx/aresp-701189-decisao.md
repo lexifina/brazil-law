@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER BRASIL S/A contra decisão denegatória de seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Na razões do nobre apelo, a parte agravante discute: a) inexistência de abusividade dos juros remuneratórios pactuados; b) possibilidade de cobrança da comissão de permanência; c) legitimidade da cobrança das taxas e tarifas bancárias; e) impossibilidade de compensação de valores e repetição do indébito, e; f) ofensa aos princípios da lealdade, probidade e boa-fé contratual.
+É o relatório.
+Decido.
+Juros remuneratórios:
+A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento acerca dos juros remuneratórios, ao apreciar os Temas n. 24 a 27, sob o rito dos recursos especiais repetitivos, conforme o acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. DELIMITAÇÃO DO JULGAMENTO
+ ..
+ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+ .. ". (REsp n. 1.061.530/RS, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 10/3/2009.)
+Quanto à alegação de inexistência de abusividade dos juros remuneratórios, o Tribunal de origem decidiu que:
+No caso, na Cédula de Crédito Bancário Crédito Pessoal e na Cédula de Crédito Bancário Confissão e Renegociação de Dívida n. 00331456320000008750, verifica-se que os juros remuneratórios foram pactuados em 68,81% e em 42,58% ao mês em 12/11/2008 e em 20/03/2009. Por sua vez, as taxas médias de mercado registradas pelo BACEN, às épocas das contratações, para a operação de crédito pessoal, foram de 54,49% ao mês e de 50,48%.
+Logo, resta caracterizada a dita abusividade apenas com relação à Cédula de Crédito Bancário Crédito Pessoal, pois a taxa pactuada é muito superior à taxa média de mercado da época. Cabível, pois, a pretensão de redução dos juros, devendo ser aplicada a taxa média de mercado divulgada pelo BACEN à época da contratação para a operação de crédito pessoal. (Fl. 136.)
+Para que a conclusão seja contrária ao decidido no acórdão recorrido acerca da ausência de abusividade das taxas de juros remuneratórios contratados, seria necessário revolver provas e fatos dos autos, o que é vedado pelo enunciado da Súmula n. 7 do Superior Tribunal de Justiça, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA COMPROVADA. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. REVOLVIMENTO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado somente quando cabalmente comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações da espécie.
+2. O Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada excede em muito a média de mercado. A alteração de tal entendimento, como pretendida, demandaria a análise de cláusulas contratuais e do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento." (AgRg no REsp n. 1.440.011/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 27/5/2016.)
+Vejam-se também estes julgados: AgRg no AREsp n. 541.423/MG, relatora Ministra Nancy Andrighi, DJe de 28/8/2014; AgRg no AREsp n. 344.213/MS, relator Ministro Ricardo Villas Bôas Cueva, DJe de 30/9/2014; e AgRg no REsp n. 1.414.974/SC, relator Ministro Raul Araújo, DJe de 16/9/2014.
+Comissão de permanência:
+No caso dos autos, o Tribunal de origem afastou a cobrança da comissão de permanência, tendo em vista a ausência de previsão contratual (fl. 139). O julgado está de acordo com a jurisprudência deste STJ, firme no sentido de que é necessária a demonstração de pactuação do encargo para sua cobrança. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIMITAÇÃO DOS JUROS EM 12% AO ANO. DESCABIMENTO. CAPITALIZAÇÃO MENSAL DOS JUROS. LEGALIDADE. PACTUAÇÃO EXPRESSA. COMISSÃO DE PERMANÊNCIA. PREVISÃO CONTRATUAL. DECISÃO MANTIDA.
+1. As instituições financeiras não se sujeitam à limitação dos juros prevista na Lei de Usura (Súmula n. 596/STF), salvo exceções legais, sendo inaplicáveis os arts. 591 e 406 do CC/2002 para esse fim. Ademais, conforme a Súmula n. 382/STJ: "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade." 2. É permitida a capitalização de juros com periodicidade inferior a um ano, em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada.
+3. Havendo previsão contratual, é válida a cobrança da comissão de permanência no período de inadimplemento, desde que não cumulada com correção monetária nem com outros encargos remuneratórios ou moratórios. Afora isso, o valor exigido a esse título não pode ultrapassar a soma da taxa de juros de remuneração pactuada para a vigência do contrato, dos juros de mora e da multa contratual, nos termos das Súmulas n. 30, 294, 296 e 472 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 516.908/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/9/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS. ALEGAÇÃO GENÉRICA. COMISSÃO DE PERMANÊNCIA. CUMULAÇÃO COM OS DEMAIS ENCARGOS. PROIBIÇÃO.
+1. É válida a cláusula contratual que prevê a cobrança da comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, de acordo com a espécie da operação, tendo como limite máximo o percentual contratado, sendo admitida apenas no período de inadimplência, desde que pactuada e não cumulada com os encargos da normalidade (juros remuneratórios e correção monetária) e/ou com os encargos moratórios (juros moratórios e multa contratual).
+2. Tendo o Tribunal local verificado que, no caso dos autos, a comissão de permanência foi cumulada com a multa contratual, a cobrança daquela se mostra inviável.
+3. Para se afastar a constatação da Corte de origem, se dependeria da interpretação de cláusulas contratuais, procedimento vedado em sede de recurso especial por força da Súmula nº 5/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp n. 809.642/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/2/2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. COMISSÃO DE PERMANÊNCIA. CAPITALIZAÇÃO DE JUROS. AFASTAMENTO EM FACE DA AUSÊNCIA DE JUNTADA DO CONTRATO. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Desde que pactuada, é possível a cobrança de comissão de permanência, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato e exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual (Súmula n. 472/STJ).
+3. "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17/2000, em vigor como MP nº 2.170- 01, desde que expressamente pactuada" (REsp n. 973.827/RS, Relatora para acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+4. No caso concreto, o Tribunal de origem afirmou que o contrato não foi juntado aos autos, o que impede verificar a expressa pactuação da comissão de permanência e da capitalização mensal de juros.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 372.705/RS, relator Ministro Antonio Carlos Ferreira, DJe de 19/3/2014.)
+Taxas e tarifas bancárias:
+A parte recorrente deixou de indicar os dispositivos legais supostamente violados pelo acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Compensação de valores e/ou repetição do indébito:
+A jurisprudência pacificada neste Superior Tribunal de Justiça é no sentido de ser cabível a compensação de valores e a repetição do indébito sempre que houver constatação de pagamento indevido, independentemente da comprovação de erro. Confira-se, a propósito, os precedentes abaixo transcritos:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA ILEGAL DE VALORES. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. DEVOLUÇÃO EM DOBRO.
+1. A prescrição, no caso de ilegalidade de cobrança, é vintenária. Precedente: AgRg no Ag 1320715/PR.
+2. A jurisprudência deste Tribunal Superior é assente no sentido de que a compensação de valores e a repetição de indébito são cabíveis sempre que verificado o pagamento indevido, em repúdio ao enriquecimento ilícito de quem o receber, independentemente da comprovação do erro. Precedentes: AgRg no REsp 1026215/RS; AgRg no REsp 1013058/RS; AgRg no Ag 953.299/RS.
+3. Reconhecida a má-fé da instituição financeira - a qual não pode ser revista em face do óbice da Súmula 7/STJ -, cabível a devolução em dobro.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp nº 376.906/PR, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 15/08/2014).
+No mesmo sentido, dentre outros: AgRg no AREsp 423.239/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 22/05/2014 e AgRg no AREsp 487.887/RS, Rel. Min. SIDNEI BENETI, DJe de 26/05/2014.
+Portanto, correto o acórdão recorrido ao manter a sentença, afirmar que: "em sendo constatado pagamento a maior, é cabível a compensação e a repetição do indevido, de forma simples" (fl. 146).
+Ofensa aos princípios da lealdade, probidade e boa-fé contratual:
+Quanto às referidas alegações, verifica-se que tais questões não não foram prequestionadas e que os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, há que incidir os enunciados das Súmulas 211/STJ e 282/STF.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Por fim, deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intime-se.
