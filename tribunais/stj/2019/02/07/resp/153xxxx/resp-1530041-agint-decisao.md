@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado pela Liberty Seguros S/A no qual noticia a perda de objeto do recurso em razão da prolação de sentença, nos autos principais, pela Justiça Estadual.
+Requer, desse modo, que seja julgado prejudicado o recurso especial, determinando-se a baixa dos autos.
+É o relatório.
+De início, verifica-se a impossibilidade de acolhimento do pedido da parte peticionante.
+Isso porque, conforme decisão proferida às fls. 399/401, foi determinada a devolução dos autos ao Tribunal de origem, com base nos arts. 1.040 e 1.041 do CPC/2015, para que seja realizado o juízo de conformação ou manutenção do acórdão local frente ao que será decidido pelo Supremo Tribunal Federal nos autos do RE 827.996/PR, Rel. Min. Gilmar Mendes - Tema 1.011.
+Note-se que o vigente sistema processual brasileiro não comporta a cisão e a concomitância de julgamentos perante as instâncias ordinária e especial. Logo, em se descortinando a presença de tema submetido à sistemática dos repetitivos ou da repercussão geral, mesmo que veiculado em apenas um dos recursos especiais interpostos nos autos, mas impondo a necessária e prévia feitura de juízo de conformação pela Corte local, postergada resultará a inauguração da jurisdição do STJ enquanto não exaurido o ofício judicante do Tribunal de origem, que só ocorrerá com o rejulgamento da apelação ou do agravo de instrumento a seu cargo, ou seja, por ocasião do juízo de retratação/conformação, ou mesmo manutenção, nos moldes desenhados nos arts. 1.040 e 1.041 do CPC/2015.
+Em tal contexto, presente a necessidade do juízo de conformação (ressalvadas unicamente as hipóteses em que positivada a intempestividade do recurso especial ou do agravo para o seu destrancamento), o feito deverá retornar à respectiva instância recursal ordinária, quedando desinfluente a circunstância de já ter havido o provisório juízo de admissibilidade pela Corte a quo.
+Assim, não tendo havido, ainda, o juízo de conformação pela Corte de origem por meio do rejulgamento do recurso a ela dirigido (i.e. apelação/agravo de instrumento), tem-se por não esgotada a jurisdição a quo, o que, por conseguinte, implica não haver se inaugurado a instância extraordinária.
+Nesses termos, é certo que a pretensão do peticionante deverá ser arguida perante o Tribunal de origem, que detém competência para acolher ou refutar o pedido, uma vez que ainda não foi inaugurada a jurisdição deste Sodalício.
+Por essas razões, indefiro o pedido de reconsideração.
+Publique-se.
