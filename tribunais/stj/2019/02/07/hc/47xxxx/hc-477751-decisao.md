@@ -1,0 +1,13 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2191539-94.2018.8.26.0000, em que foi mantida a determinação de realização de exame criminológico.
+A impetrante acoima de ilegal a decisão do Juízo das Execuções que determinou a submissão do paciente a exame criminológico para a devida análise do seu pedido de progressão de regime. Afirma que o paciente iniciou o cumprimento da pena em 17/11/2014 e faz jus ao benefício desde 17/5/2018. Destaca a completa ausência de fundamentação do decisum e requer, em liminar, a sua concessão.
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pelo não conhecimento do habeas corpus.
+Decido.
+Na hipótese, a Corte de origem manteve a decisão que negou ao apenado a progressão de regime, determinando a prévia realização de exame criminológico, ao destacar que "o sentenciado, reincidente, foi condenado pelo crime de tráfico, no qual demonstrou periculosidade e insensibilidade moral na prática do delito, havendo registros de outros procedimentos penais que respondeu, de maneira a indicar resistência a observância da lei" (fl. 33).
+Portanto, percebe-se que a instância ordinária entendeu devido o indeferimento do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado é reincidente e possui maus antecedentes, o que, todavia, já objeto de ponderação no processo de conhecimento e, assim, não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Nesse sentido:
+ ..
+3. O Tribunal de Justiça cassou a decisão do Juízo da execução - que concedeu ao paciente a progressão de regime ao semiaberto, sem a necessidade de submetê-lo ao exame criminológico, por entender preenchidos os requisitos objetivo e subjetivo - tão somente devido à gravidade do delito praticado e à folha de antecedentes do paciente, sem, no entanto, trazer nenhuma circunstância concreta a demonstrar a imprescindibilidade da realização do exame criminológico do paciente.
+4. Writ não conhecido. Ordem concedida de ofício, para restabelecer a decisão de primeira instância, assegurando-se ao paciente o direito à progressão ao regime semiaberto (HC n. 293.442/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 5/8/2014, grifei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem postulada, a fim de determinar a imediata apreciação do pleito de progressão de regime com fulcro nos requisitos legais previstos.
+Publique-se e intimem-se.
