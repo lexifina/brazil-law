@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo CONSELHO REGIONAL DE CONTABILIDADE DE MINAS GERAIS contra decisão do Tribunal Regional Federal da 1ª Região que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 119):
+CONSTITUCIONAL E ADMINISTRATIVO. EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. COBRANÇA DE ANUIDADES. NATUREZA JURÍDICA DE TRIBUTO. LEI Nº 11.000/04. APLICAÇÃO RESTRITA AOS CONSELHOS REGIONAIS DE MEDICINA.
+1. As anuidades exigidas pelos conselhos profissionais se enquadram no conceito de contribuições de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação na fiscalização nas respectivas áreas, nos termos previstos no art. 149 da Carta Magna.
+2. Nesse sentido, as referidas contribuições possuem natureza jurídica de tributo, da competência exclusiva da União, e são submetidas aos princípios que regem o sistema tributário nacional, dentre eles, o da reserva legal, que determina a vedação de exigência ou majoração de tributo sem lei que o estabeleça (art. 150, I, da CF/88). Não é permitido aos conselhos profissionais, por ausência de lei que os autorize, corrigirem suas anuidades por meio de resolução ou qualquer outro ato administrativo, por manifesta afronta ao princípio da legalidade, previsto no art. 150, I, da Carta Magna.
+3. Não há que se falar, no caso ora em exame, em incidente de inconstitucionalidade (art. 97 da Constituição Federal) em relação à Lei nº 11.000/04, que trata da cobrança e execução "das contribuições anuais, devidas por pessoas físicas ou jurídicas, bem como as multas e os preços de serviços, relacionados com suas atribuições legais, que constituirão receitas próprias de cada Conselho". Ocorre que a referida lei tem sua aplicação restrita aos Conselhos Regionais de Medicina. Nesse sentido: ((AC 2007.38.00.008112-4/MG, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma,e-DJF1 p.408 de 31/07/2009).
+4 Apelação a que se nega provimento.
+Embargos de declaração rejeitados (e-STJ fls. 129/133).
+No especial obstaculizado, a parte ora agravante aponta violação da Lei n. 12.249/2010, que introduziu o art. 21, §§ 3º e 4º ao Decreto-Lei n. 9.295/1946.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que incide a Súmula 126 do STJ (e-STJ fls. 154/155).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Sem contraminuta (e-STJ fl. 168).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não merece prosperar.
+Com efeito, no caso em análise, o Tribunal de origem decidiu a questão mediante fundamentação constitucional (arts. 97, 149 e 150, I, da Constituição Federal de 1988) e infraconstitucional (Lei n. 11.000/2004 e Lei n. 12.514/2011), ambas suficientes e autônomas à preservação do decisum.
+Todavia, o recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível, nos termos da Súmula 126 do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. ADVOGADO. LIMITAÇÃO DO NÚMERO DE REQUERIMENTOS E NECESSIDADE DE PRÉVIO AGENDAMENTO. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. EXISTÊNCIA DE FUNDAMENTO CONSTITUCIONAL, NO ACÓRDÃO RECORRIDO, NÃO IMPUGNADO, POR RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. O Tribunal de origem, mantendo a sentença que concedera parcialmente a segurança, considerou descabida a limitação quantitativa de requerimento de benefícios previdenciários por advogado mandatário, perante a Previdência Social, e a necessidade de agendamento prévio, para protocolo dos pedidos, com base em fundamento eminentemente constitucional, ou seja, o direito do advogado ao livre exercício profissional, consagrado nos arts. 5º, XIII, e 133 da CF/88. Nesse contexto, tendo o acórdão recorrido fundamento constitucional, não impugnado, mediante Recurso Extraordinário, incide, no ponto, a Súmula 126 do STJ, segundo a qual "é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+V. Agravo interno improvido. (AgInt no AREsp 958.858/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 16/03/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FORNECIMENTO DE MEDICAMENTOS. TRATAMENTO DE SAÚDE. CERCEAMENTO DE DEFESA. REVISÃO. SÚMULA 7/STJ. ACÓRDÃO IMPUGNADO. DUPLO FUNDAMENTO. QUESTÃO CONSTITUCIONAL NÃO INFIRMADA. SÚMULA 126/STJ.
+ ..
+2. A despeito da existência de fundamento constitucional, a parte agravante limitou-se a interpor recurso especial, deixando de interpor o extraordinário, de competência do Supremo Tribunal Federal, o que atrai a incidência da Súmula 126/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1441750/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 19/11/2015)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
