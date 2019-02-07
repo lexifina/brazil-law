@@ -1,0 +1,18 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio de Janeiro que negou provimento ao apelo defensivo, mantendo sentença que condenou o recorrente à pena de 6 (seis) anos de reclusão, pelo cometimento do crime do art. 158, § 3º, do Código Penal.
+A defesa aponta a violação do art. 619, do Código de Processo Penal, alegando, em síntese, que o acórdão recorrido foi omisso ao não considerar que a vítima em momento algum afirmou ter tido contato com o recorrente antes de chegar ao shopping, o que evidencia a sua não participação na prática delituosa.
+Contrarrazões às e-STJ fls. 682/694.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 767/768.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Anota-se que não procede a alegação da defesa de ofensa ao art. 619 do CPP, porquanto o magistrado deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso; porém não está obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir (ut, AgRg nos EDcl no AREsp 1127961/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 08/03/2018).
+In casu, a instância de origem, soberana na apreciação do acervo fático-probatório dos autos, concluiu pela existência de provas suficientes da participação do recorrente no delito. Confira-se:
+A vítima [NOME], disse que no dia dos fatos estava estacionando o carro na loja [NOME], na av. Ayrton Senna, quando viu um rapaz próximo saindo do carro. Ignorando tal conduta, abriu a porta de trás do carro para apanhar sua bolsa, momento que o referido rapaz, que na verdade se trata do réu ALEXANDRE, a determinou que não corresse, afirmando que já tinha matado uma pessoa e que ambos sairiam dali juntos.
+Aterrorizada, a vítima ofereceu a chave do carro e sua bolsa, o qu não produziu efeito. Em seguida, ela foi colocada no banco do passageiro, enquanto ALEXANDRE tomou a direção. Antes de deixarem o estacionamento, DANIEL entrou no banco traseiro do carro.
+Ao seguirem pela Avenida das Américas em direção à Campo Grande, os dois acusados mantinham contato com um terceiro, posteriormente identificado como o réu DAYVISON. Durante tal percurso, a vítima foi constantemente ameaçada de morte, em hipótese de ser policial, além de lhe ser exigido seus dados e as senhas dos cartões de crédito.
+Em continuidade, o veículo foi parado pela primeira vez, sendo exigido que vítima abaixasse os olhos. É neste momento que DAYVISON entra no carro e em seguida sai com DANIEL para testar as senhas dos cartões.
+Após a constatação de que as senhas estavam corretas, os acusados foram até o Park Shopping, localizado em Campo Grande, ocasião em que DAYVISON e DANIEL foram fazer uma série de compras,
+enquanto ALEXANDRE permanecia com a vítima, simulando ser seu namorado quando necessário.
+Por fim, a vítima foi liberada no shopping, em seu automóvel, enquanto os acusados se evadiram no segundo carro, o automóvel Hyundai, modelo ix35, placa [PLACA]. Ao se aproximar de casa, [NOME] decidiu ir à 13a Delegacia. de Polícia noticiar o crime, tomando conhecimento que a central de cartões de crédito já tinha alertado sua família, além de disponibilizar seu carro para realização de perícia. (e-STJ fl. 586)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
