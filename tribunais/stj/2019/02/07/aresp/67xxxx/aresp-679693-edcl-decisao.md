@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE CONTRADIÇÃO NO DECISUM. COMPENSAÇÃO TRIBUTÁRIA. ART. 170-A DO CTN. AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA LEI. RECONHECIMENTO DA CONTRADIÇÃO. EMBARGOS DA EMPRESA ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. Trata-se de Embargos de Declaração no Agravo em Recurso Especial opostos pela DISTRIBUIDORA DE BEBIDAS PRAIA AZUL LTDA., contra decisão que deu parcial provimento ao Recurso Especial da FAZENDA NACIONAL, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. COMPENSAÇÃO TRIBUTÁRIA. DEVE SER CONSIDERADO O REGIME JURÍDICO VIGENTE À ÉPOCA DO AJUIZAMENTO DA AÇÃO, RESTANDO ASSEGURADO, TODAVIA, O DIREITO DE O CONTRIBUINTE EFETUAR A COMPENSAÇÃO TRIBUTÁRIA NA VIA ADMINISTRATIVA DE ACORDO COM AS NORMAS POSTERIORES, DESDE QUE ATENDIDOS OS REQUISITOS PRÓPRIOS. RESP 1.137.738/SP, REL. MIN. LUIZ FUX, DJE 01.2.2010, REPRESENTATIVO DA CONTROVÉRSIA. O DISPOSTO NO ART. 170-A DO CTN, QUE EXIGE O TRÂNSITO EM JULGADO PARA FINS DE COMPENSAÇÃO DE CRÉDITO TRIBUTÁRIO, SE APLICA ÀS DEMANDAS AJUIZADAS APÓS A VIGÊNCIA DA LEI COMPLEMENTAR 104/01. RESP 1.167.039/DF, REL. MIN. TEORI ALBINO ZAVASCKI, DJE 2.9.10, REPRESENTATIVO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA NACIONAL (fls. 622).
+
+2. Na suas razões recursais, a parte embargante requer seja sanada a contradição na decisão objurgada, sob o argumento de que o art. 170-A do CTN é inaplicável a compensação da Embargante visto que a ação que originou o crédito tributário foi ajuizada em 28/08/1998, ou seja, antes da sua vigência (fls. 631).
+3. A parte embargada não ofertou Impugnação aos Embargos (fls. 638).
+4. É o relatório.
+5. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não se verifica na hipótese.
+6. Excepcionalmente, o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+7. Os Embargos de Declaração não se prestam à finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de direito material, de modo a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8. De fato ocorreu contradição quanto à aplicação do art. 170-A do CTN no presente caso, visto que a ação que originara o crédito fora ajuizada em 1998. Antes, portanto, da inovação legislativa (LC 104/2001). Posição consolidada no REsp. 1.167.039/DF, de relatoria do Min. TEORI ALBINO ZAVASCKI, publicado em 2.9.2010, processado sob o regime do art. 543-C do CPC/1973.
+9. Deve, pois, serem acolhidos os Embargos de Declaração, para suprir a contradição apontada e, em consequência, afastar a aplicação do disposto no art. 170-A do CTN.
+10. Diante do exposto, para sanar contradição, com base nessas considerações, acolhem-se os Embargos de Declaração opostos pela Empresa, com efeitos modificativos.
+11. Publique-se.
+12. Intimações necessárias.
