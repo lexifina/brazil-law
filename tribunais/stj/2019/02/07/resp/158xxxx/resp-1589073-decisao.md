@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 112):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA DE BENS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA. IMPOSSIBILIDADE. CABÍVEL, NO ENTANTO, A PENHORA SOBRE OS DIREITOS DO DEVEDOR FIDUCIÁRIO, COM PRÉVIA ANUÊNCIA DA INSTITUIÇÃO FINANCEIRA. PRECEDENTES DESTE TRIBUNAL E DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é cabível a penhora sobre bens garantidos por alienação fiduciária, pois estão fora da esfera patrimonial do devedor. Precedentes do STJ.
+2. Contudo, é possível que a constrição recaia sobre os direitos do devedor fiduciário, decorrentes do contrato entabulado com a instituição financeira, mediante anuência prévia do credor fiduciário. Precedentes do TRF 1a Região e do STJ.
+3. Agravo regimental não provido.
+A parte recorrente aponta violação aos arts. 11, VIII da Lei 6.830/80; 655, XI, e 673 do CPC. Sustenta que anda mal o Tribunal de origem quando, "apesar de reconhecer a possibilidade da penhora recair sobre os direitos do devedor fiduciante, condiciona a constrição à anuência prévia do credor fiduciário; restrição esta que não consta na legislação" (fl. 127).
+É O RELATÓRIO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O Tribunal de origem não se manifestou sobre a alegação de que anda mal quando, "apesar de reconhecer a possibilidade da penhora recair sobre os direitos do devedor fiduciante, condiciona a constrição à anuência prévia do credor fiduciário; restrição esta que não consta na legislação" (fl. 127), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
