@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado por BANCO BRADESCO S.A. por meio do qual defende a impossibilidade de baixa do recurso ao Tribunal de origem e sobrestamento do feito, ao argumento de que o presente feito já se encontra em fase de cumprimento de sentença.
+É o relatório.
+Decido.
+Não merece acolhida o pedido ora formulado.
+1. Como restou anteriormente asseverado na decisão de fls. 833 (e-STJ), no julgamento da Questão de Ordem no Resp n. 1.568.798/DF, da relatoria do Sr. Ministro Luis Felipe Salomão, trazida na assentada do dia 27.11.2018, a Quarta Turma do STJ decidiu, em observância aos RE nº 591.797, RE nº 632.212 e RE 1.141.156, pela devolução de todos os processos individuais ou coletivos, na fase de conhecimento ou execução, ao Tribunal de origem competente para que lá permaneçam suspensos, pelo prazo de 24 meses a contar de 5.2.2018, data em que, homologado o acordo coletivo, iniciou-se o prazo para a adesão dos interessados
+Concluindo, cumpre ainda destacar que a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que o recurso sobrestado na forma dos arts. 543-B, § 3º, e 543-C, § 7º, do CPC/73 (atual art. 1040 e seguintes do CPC/15) não é capaz de gerar nenhum prejuízo às partes, razão pela qual é irrecorrível. Nesse diapasão: AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro Og Fernandes, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1.666.877/SE, Rel. Ministro Marco Aurélio Bellizze, TERCEIRA TURMA, DJe 04/09/2017; e AgInt no AREsp 920.593/RJ, Rel. Ministra Regina Helena Costa, PRIMEIRA TURMA, DJe 02/08/2017, dentre outros.
+De rigor, portanto, a manutenção da decisão ora atacada, sendo oportuno a advertência de que eventual recurso protelatório será, na próxima vez, apenado com multa.
+2. Ante o exposto, indefiro o pedido ora formulado, confirmando, portanto, o comando exarado na decisão de fls. 833 (e-STJ), que determinou a devolução dos autos ao Tribunal de origem para que, após a publicação dos acórdãos dos respectivos recursos extraordinários, observe-se a sistemática dos recursos representativos de controvérsia, consoante o disposto no artigo 1.040, c.c o §2º, do art. 1.041, ambos do CPC/15.
+Publique-se.
+Intimem-se.
