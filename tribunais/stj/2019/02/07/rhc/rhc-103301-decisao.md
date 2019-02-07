@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar, interposto por LUCAS PIRES desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o ora recorrente encontra-se preso preventivamente pela prática, em tese, do delito inscrito no art. 121, § 2º, incisos I e IV, do Código Penal (e-STJ fl. 22).
+Narra a decisão de pronúncia que o ora recorrente, em razão de disputa relacionada ao controle de pontos de tráfico de drogas, efetuou disparo de arma de fogo nas costas da vítima, que faleceu (e-STJ fl. 22).
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 70):
+"HABEAS CORPUS". HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA. NEGATIVA AO DIREITO DE RECORRER EM LIBERDADE. DECISÃO FUNDAMENTADA. PACIENTE PRESO DURANTE INSTRUÇÃO CRIMINAL. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. [NOME]. AUSÊNCIA DE ALTERAÇÃO JURÍDICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+- Náo há quo se falar em constrangimento ilegal se a decisão que indeferiu ao paciente o direito de recorrer em liberdade encontra-se adequadamente fundamentada.
+- Levando-se em consideração a ausência do altoraçáo jurídica do Paciente, náo há que se falar em violação aos Princípios do Contraditório e da Ampla Defesa, notadamente diante da ausência de prejuizo efetivo sofrido pelo Paciente.
+- Ordem denegada.
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que manteve a custódia cautelar (e-STJ fl. 85).
+Destaca que a defesa do recorrente não foi intimada da decisão que acolheu embargos declaratórios para modificar a sentença de pronúncia, o que se consubstanciaria em flagrante nulidade (e-STJ fl. 90).
+Complementa afirmando que o acórdão hostilizado não pode acrescentar fundamentação à decisão que decretou a prisão preventiva (e-STJ fl. 107).
+Diante dessas considerações, pede a cassação do acórdão recorrido (e-STJ fl. 108).
+Liminar indeferida às e-STJ fls. 117/119.
+Informações prestadas às e-STJ fls. 124/135.
+Ao se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso. O parecer foi ementado nos seguintes termos (e-STJ fl. 139):
+RECURSO EM HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, §2º, I E IV DO CP). PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS. NÃO DEMONSTRAÇÃO. MEDIDA CONSTRITIVA LASTREADA NA GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. NÃO DEMONSTRAÇÃO. INEXISTÊNCIA DE PREJUÍZO PARA A DEFESA. PARECER PELO NÃO PROVIMENTO DO PRESENTE RECURSO EM HABEAS CORPUS.
+É o relatório.
+Consoante se observa, busca a defesa seja reconhecida a nulidade do feito porquanto ela não foi intimada para a apresentação de resposta aos aclaratórios ministeriais, que foram, ao final, acolhidos.
+De fato, extrai-se do acórdão recorrido que não houve intimação da defesa para apresentar resposta aos embargos ministeriais. Ao compulsar o aresto impugnado, consigna a Corte de origem que, "após leitura minuciosa da decisão de pronúncia, pude verificar que não houve alteração jurídica após o acolhimento dos embargos de declaração interpostos pelo Ministério Público, mesmo porque, a Impetração sequer comprovou o efetivo prejuízo sofrido pelo Paciente, já que na decisão de pronúncia o Ilustre Magistrado a quo já havia negado o direito do Paciente recorrer em liberdade" (e-STJ fl. 73).
+Razão assiste, contudo, à defesa.
+Com efeito, verifica-se que o referido recurso ministerial de embargos de declaração continha efeitos modificativos. Dessarte, a ausência de prévia intimação da defesa para apresentar contrarrazões constitui nulidade em razão da ofensa aos princípios do contraditório e da ampla defesa, mormente na espécie vertente, em que foram acrescidos, pelo Juízo de piso, novos fundamentos para manter a segregação cautelar do ora recorrente, por ocasião da prolação de pronúncia.
+Nesse sentido:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ACOLHIMENTO PELO TRIBUNAL DE ORIGEM DE EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES. AUSÊNCIA DE INTIMAÇÃO PRÉVIA DA PARTE ADVERSA. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. A ausência de contrarrazões ao recurso ministerial (embargos de declaração com efeitos modificativos) enseja nulidade, conforme entendimento consolidado pela Suprema Corte: "visando os embargos declaratórios à modificação do provimento embargado, impõe-se, considerado o devido processo legal e a ampla defesa, a ciência da parte contrária para, querendo, apresentar contrarrazões" (STF, HC n. 92.484 ED, Relator Ministro JOAQUIM BARBOSA, Segunda Turma, julgado em 5/6/2012, publicado em 19/6/2012).
+2. No mesmo sentido, precedentes desta Corte: EAREsp 285.745/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 02/12/2015, DJe 02/02/2016); AgRg nos EDcl no REsp 1054867/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/11/2015, DJe 17/11/2015; EDcl nos EDcl no REsp 1278101/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/03/2015, DJe 10/03/2015.
+3. Recurso ordinário em habeas corpus parcialmente provido, a fim de anular o v. acórdão exarado nos embargos de declaração e, em consequência, determinar que novo julgamento seja proferido após regular intimação da parte embargada para, querendo, apresentar contrarrazões. (RHC 62.786/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2016, DJe 29/02/2016.)
+Ante o exposto, dou provimento ao recurso para cassar o acórdão recorrido, bem como a decisão proferida nos embargos de declaração na origem, devendo nova decisão ser prolatada mediante prévia intimação da defesa para apresentar resposta ao recurso aclaratório.
+Publique-se. Intimem-se.
