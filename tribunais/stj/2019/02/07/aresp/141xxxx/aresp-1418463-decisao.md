@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ALEGADA NÃO OCORRÊNCIA DE PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Execução de Julgado. Honorários advocatícios. Prescrição intercorrente. Caracterização. Pedido de citação do devedor para pagamento do débito. Processo paralisado desde então. Pedido de reativação da execução feito mais de cinco anos depois. Prescrição intercorrente configurada. Apelação não provida.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente assevera que: a) "houve inércia do apelado em pagar o que é devido e da serventia do juízo em certificar o decurso de prazo para pagamento, mas não da apelante, que se vê agora penalizada com a extinção da execução, sem ter dado causa à paralisação do feito" (fl. 397); e b) "para reconhecimento da prescrição intercorrente, é imprescindível a comprovação da inércia do autor/exequente, bem como imperiosa precedente intimação pessoal do credor para diligenciar nos autos" (fl. 397).
+Não houve apresentação de contrarrazões.
+O recurso foi inadmitido pela decisão de fl. 402, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A recorrente insurge-se contra o reconhecimento da prescrição intercorrente para execução de honorários advocatícios.
+Contudo, observa-se que a mesma recorrente não indicou como contrariado, pelo acórdão recorrido, nenhum dispositivo legal, o que denota a deficiência da fundamentação recursal. Desta forma, aplica-se, por analogia, o óbice da Súmula 284/STF, a impedir o conhecimento do recurso especial: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCESSÃO DE BOLSA CAPES. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+1. Considerando que o Recurso Especial vocaciona-se a defender a higidez do direito objetivo e a unificar a jurisprudência em matéria infraconstitucional, é imprescindível que o insurgente exponha com clareza os dispositivos legais que teriam sido violados por ocasião de julgamentos emanados das instâncias inferiores.
+2. A parte recorrente deixou de indicar os dispositivos legais supostamente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, conforme a Súmula 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. Mesmo a interposição do Recurso Especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo de lei federal que teria sido interpretado de forma divergente pelos julgados confrontados, consoante entendimento pacificado nesta eg. Corte.
+4. Ademais, a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+6. Recurso Especial não conhecido.
+(REsp 1698512/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/12/2017, DJe 19/12/2017) (grifou-se)
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Cuida-se, na origem, de ação civil pública proposta pelo Ministério Público do Estado de Mato Grosso do Sul em desfavor do ex-Prefeito de Cassilândia/MS, objetivando sua condenação pela prática de ato improbo, na utilização de servidores públicos municipais, Procuradores do Município, para realizar sua defesa pessoal em ações de improbidade administrativa.
+II - A falta de demonstração clara e objetiva de violação a dispositivos de lei federal caracteriza deficiência de fundamentação do recurso especial, incidindo, por analogia, o enunciado n. 284 da Súmula do STF.
+III - Agravo interno improvido.
+(AgInt no AREsp 985.161/MS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/05/2017, DJe 26/05/2017) (grifou-se)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
