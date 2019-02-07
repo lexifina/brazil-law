@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo em recurso especial, em que são partes CATHO ONLINE LTDA e MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, contra decisão que negou seguimento ao recurso especial na origem.
+O recurso especial foi interposto contra julgado do E. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, com a seguinte ementa:
+A cláusula de previsão de multa na rescisão ou no "cancelamento" do contrato com prazo indeterminado de prestação de serviço de divulgação e procura de emprego lesa direito do consumidor. Por isso, acolhe-se em parte a ação civil pública e se condena a ré a se abster da exigência, a devolver de modo simples os valores recebidos a tal título e a publicar o acórdão na imprensa para conhecimento dos interessados.
+O Ministério Público do Estado de São Paulo ajuizou ação civil pública, pelo rito comum ordinário, em face de Catho Online LTDA, conforme consta na sentença alegando, em síntese, que "chegou a seu conhecimento que a ré adota prática abusiva aos consumidores em geral, consistente na renovação automática do contrato de serviços e cobrança de multa pelo cancelamento da assinatura e que, para a concretização dessa prática, utiliza indevidamente cartões de crédito e débito de seus clientes".
+A matéria tratada nos autos, como se percebe é típicamente consumerista e de direito privado, não havendo a participação de órgãos públicos ou entidades públicas reguladoras. Tais circunstâncias, atraem a competência, pela matéria, das Turmas de direito privado, conforme previsão do art. 9 do RI/STJ.
+Ante o exposto, determino a redistribuição dos autos no âmbito da Segunda Seção, a um dos Exmos. Ministros integrantes da Terceira e Quarta Turmas.
+Publique-se. Intime-se.
