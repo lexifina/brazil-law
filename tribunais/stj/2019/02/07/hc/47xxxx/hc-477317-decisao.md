@@ -1,0 +1,28 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NOCIVIDADE DA DROGA (1.719,6 G DE COCAÍNA). PEQUENA REDUÇÃO. PRECEDENTES. REGIME FECHADO. NECESSIDADE.
+Ordem parcialmente concedida a fim de fixar a pena imposta ao paciente em 7 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 700 dias-multa.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como órgão coator o Tribunal de Justiça do Rio de Janeiro (Apelação n. 0002112-58.2016.8.19.0039 - fls. 13/21).
+Colhe-se dos autos que o Tribunal de origem manteve a sentença proferida pelo Juízo de primeiro grau que condenou o ora paciente como incurso no art. 33, caput, da Lei n. 11.343/2006 (1.719,6 g de cocaína - fl. 48), à pena de 8 anos de reclusão, a ser cumprida inicialmente em regime fechado, além do pagamento de 800 dias-multa (fls. 48/57).
+Daí a presente impetração, na qual a defesa pretende, em suma, a redução da pena-base e a fixação de regime mais brando para o início do cumprimento da reprimenda.
+Sem pedido liminar, o Ministério Público Federal opinou pelo não conhecimento do writ, em parecer assim ementado (fl. 63):
+PENAL E LEGISLAÇÃO ESPECIAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. DOSIMETRIA E REGIME PRISIONAL. QUANTIDADE (QUASE 2KG) E NATUREZA (COCAÍNA) DOS ENTORPECENTES APREENDIDOS. MOTIVAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de revisão criminal, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem, de ofício.
+2. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. A fixação do regime fechado e o aumento da pena-base acima do mínimo legal, em razão da quantidade e da natureza dos entorpecentes apreendidos, atende ao disposto na Lei de Drogas e no Código Penal.
+4. Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Nos termos do art. 42 da Lei n. 11.343/2006, o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Assim, as instâncias ordinárias fixaram a pena-base acima do mínimo legal, em razão de o paciente ter sido surpreendido com 1.719,6 g de cocaína (fl. 48), fundamentação idônea e em conformidade com a jurisprudência desta Corte. Todavia, reduzo-a para 7 anos de reclusão, além do pagamento e 700 dias-multa, quantum que tem sido fixado por esta Corte, em casos análogos. Confira-se, a propósito, o julgamento proferido no AgRg no REsp n. 1.440.647/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/3/2018.
+Ainda no mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. AUSÊNCIA DE LAUDO FINAL DE APREENSÃO DA DROGA. INOCORRÊNCIA. LAUDO JUNTADO AOS AUTOS. NULIDADE NÃO EVIDENCIADA. DOSIMETRIA. EXISTÊNCIA DE ÚNICA CONDENAÇÃO DEFINITIVA. VALORAÇÃO COMO CIRCUNSTÂNCIA JUDICIAL E COMO REINCIDÊNCIA. BIS IN IDEM. VIOLAÇÃO À SÚMULA 241/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. QUANTIDADE E NATUREZA DA DROGA APREENDIDA (QUASE 3 QUILOS DE COCAÍNA). FUNDAMENTAÇÃO CONCRETA. ART. 42 DA LEI N. 11.343/06. DESPROPORCIONALIDADE. MAJORAÇÃO DA PENA-BASE REDUZIDA PARA 2 ANOS. NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Estando persente nos autos o laudo definitivo do entorpecente apreendido, onde consta que a paciente estava na posse de 2 quilos e 714 gramas de cocaína, divididos em 263 unidades, não há que se falar em nulidade e absolvição por falta de prova da materialidade. Precedentes.
+ ..
+4. A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, e, no caso de fundamentação baseada na quantidade e/ou natureza dos entorpecentes, aplica-se o art. 42 da Lei n. 11.343/06, cuja norma prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico. Na hipótese, considerando o mínimo e máximo da pena do delito de tráfico ilícito de drogas, de 5 a 15 anos de reclusão, e sendo indevida a majoração referente aos maus antecedentes, devem-se ser levadas em consideração apenas a quantidade e a natureza das drogas apreendidas, mostrando-se razoável majorá-la em 2 anos, restando a pena-base fixada em 7 anos de reclusão e pagamento de 667 dias-multa. Na segunda etapa, a pena foi majorada em 1 ano de reclusão e 100 dias-multa, em razão da reincidência, resultando a pena final em 8 anos de reclusão e pagamento de 767 dias-multa.
+Habeas corpus não conhecido, mas concedida a ordem, de ofício, para reduzir a pena do paciente ao patamar de 8 anos de reclusão e pagamento de 767 dias-multa.
+(HC n. 414.992/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 2/5/2018 - grifo nosso).
+Por fim, mantenho a fixação do regime fechado para o início do cumprimento da reprimenda, tendo em vista a fixação da pena-base acima do mínimo legal.
+Ante o exposto, concedo parcialmente a ordem tão somente a fim de fixar a pena imposta ao paciente em 7 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 700 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
