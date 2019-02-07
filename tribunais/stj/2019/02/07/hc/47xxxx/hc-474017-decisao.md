@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. EXECUÇÃO PROVISÓRIA DA PENA. ORDEM CONCEDIDA PELO SUPREMO TRIBUNAL FEDERAL NO HC N.º 163.897/AC. PERDA DE OBJETO. PEDIDO DE HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AURIMAR SANTOS DE SOUSA contra acórdão do Tribunal Regional Federal da 1.ª Região proferido na Apelação Criminal n.º 0001014-89.2011.4.01.3000.
+Consta dos autos que o Paciente foi condenado, em primeiro grau, às penas de 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e 258 (duzentos e cinquenta e oito) dias-multa, pela prática da conduta descrita no art. 33, caput, c.c. o art. 40, inciso I, da Lei de Drogas, sendo substituída a pena privativa de liberdade por duas penas restritivas de direitos, a serem fixadas pelo Juízo das Execuções Penais (fls. 37-43).
+Verifica-se da análise do processo que o ora Paciente " ..  foi preso em flagrante durante barreira policial de rotina na BR 317, Km 2, quando adentrava o território nacional transportando 9.551 g de cocaína adquirida em Cobija (Bolívia). A droga era transportada para Rio Branco (AC) escondida em estrutura montada junto aos para-lamas do veículo por ele conduzido" (fls. 23-24).
+Irresignada, a Acusação interpôs recurso de apelação. O Tribunal de origem deu parcial provimento ao apelo, a fim de fixar a pena definitiva em 5 (cinco) anos, 1 (um) mês e 25 (vinte e cinco) dias de reclusão, em regime inicial fechado, e pagamento de 466 (quatrocentos e sessenta e seis) dias-multa, indeferindo a substituição da pena reclusiva por penas alternativas (fl. 53). Foi determinada, ainda, a imediata comunicação ao Juízo de origem para o início da execução provisória das penas.
+A Defesa, então, impetrou habeas corpus, com pedido de liminar, alegando, em suma, que o Paciente tem direito de recorrer em liberdade, em razão do princípio da presunção da inocência.
+Afirma que a decisão que determinou a prisão carece de fundamentação idônea e não estão preenchidos os requisitos para a decretação da custódia cautelar.
+Registra que é provável a reforma do acórdão condenatório pelos Tribunais Superiores.
+Aduz que o Superior Tribunal de Justiça corresponde à segunda instância no caso em análise, pois houve modificação da sentença pelo Tribunal de origem.
+Alega que o Paciente possui condições pessoais favoráveis, pois é primário, possui bons antecedentes e ocupação lícita.
+Requer, em liminar e no mérito, a concessão de salvo-conduto para assegurar ao Apenado o direito de recorrer em liberdade ou substituir a custódia por medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Nos autos do HC n.º 163.897/AC, Rel. Ministro GILMAR MENDES, foi concedida a ordem, após superação do enunciado da Súmula n.º 691 do Supremo Tribunal Federal, para "suspender a execução provisória da pena, até o julgamento colegiado de possível RESP/ARESP pelo Superior Tribunal de Justiça, ou de habeas corpus que verse sobre questões iguais ou mais abrangentes que aquelas perfiladas nos recursos endereçados aos Tribunais Superiores." E, ainda, de ofício, "restabelecer a fração aplicada pelo Juízo de primeiro grau, acerca do redutor previsto no artigo 33, §4º, da Lei 11.343/2006", bem como readequar "o regime inicial à jurisprudência desta Corte, sem prejuízo de análise acerca da possibilidade de substituição da pena privativa de liberdade por restritiva de direitos." (fls. 78-88)
+Diante dessa situação, evidencia-se a perda do interesse processual em relação à presente ação mandamental, em que se pretendia demonstrar a existência de constrangimento ilegal decorrente da execução provisória da pena após o exaurimento das instâncias ordinárias.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se
