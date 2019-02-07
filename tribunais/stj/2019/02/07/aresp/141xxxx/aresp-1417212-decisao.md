@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/2015. AÇÃO DE REVISÃO E RESILIÇÃO CONTRATUAL. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA Nº 5 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA INATACADO. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+PATRÍCIA ROSSATO STEFANELO e outro (PATRÍCIA e outro) promoveram contra TORP DOURADOS EMPREENDIMENTO IMOBILIÁRIO SPE S.A. e outros (TORP e outras) e contra a ASSOCIAÇÃO ALPHAVILLE TERRA DOURADOS I (ASSOCIAÇÃO) ação de revisão e resilição contratual com pedido de antecipação dos efeitos da tutela. Narraram que celebraram com TORP e outros contratos de promessa de compra e venda para a aquisição de dois imóveis e, passado determinado tempo, decidiram pedir a rescisão das avenças, com base em cláusula contratual, mas que não foram atendidos por TORP e outros. Pediram, ademais, a suspensão da cobrança de taxas de condomínio devidas à ASSOCIAÇÃO.
+O Juízo monocrático julgou parcialmente procedente o feito (e-STJ, fls. 524/535).
+TORP e outras e a ASSOCIAÇÃO apresentaram recursos de apelação em separado.
+O Tribunal de Justiça do Estado do Mato Grosso do Sul manteve intacta a sentença sobre o mérito do caso e acolheu parcialmente pedido relativo à proporcionalidade na fixação das verbas de sucumbência devidas pela ASSOCIAÇÃO. Leia-se da ementa do acórdão:
+Recurso interposto por Terras Alphaville Dourados Empreendimentos Imobiliários Ltda, Tl Capital Dourados Empreendimento Imobiliário Spe Ltda. e Torp Dourados Empreendimento Imobiliário SPE S.A.: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS C/C RESCISÃO CONTRATUAL E DEVOLUÇÃO DE VALORES - RESCISÃO CONTRATUAL - POSSIBILIDADE - RESTITUIÇÃO DE VALORES - DEVIDA - RECURSO CONHECIDO E DESPROVIDO.
+Havendo previsão legal e contratual para tanto, é possível a resilição do contrato de compra e venda de imóvel, observando-se as disposições contratuais atinentes à rescisão contratual.
+Recurso interposto por Associação Terras Alphaville Dourados 1: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS C/C RESCISÃO CONTRATUAL E DEVOLUÇÃO DE VALORES - RESPONSABILIDADE PELA RESTITUIÇÃO DE VALORES - AUSÊNCIA DE SOLIDARIEDADE. RESPONSABILIDADE PELAS VERBAS SUCUMBENCIAIS - SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS - VALOR MANTIDO - RATEIO ENTRE OS ADVOGADOS DOS REQUERIDOS - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+A solidariedade decorre da lei ou do contrato. Na hipótese, a Associação Terras Alphaville Dourados, responsável pela cobrança apenas das taxas de condomínio, não é solidariamente responsável pela restituição dos valores pagos pela aquisição do imóvel.
+Havendo sucumbência, a requerida deve ser condenada ao pagamento proporcional das verbas sucumbenciais (e-STJ, fls. 611/612).
+Os embargos de declaração opostos por TORP e outras foram rejeitados (e-STJ, fls. 647/659).
+Ainda inconformados, TORP e outras interpuseram recurso especial com base no art. 105, III, a e c, da Constituição Federal, por violação dos arts. 413, 421 e 422 do CC/2002. Alegaram, em síntese, os contratos não foram observados por PATRÍCIA e outro, em violação aos princípios da probidade e da boa fé. As recorrentes não apresentaram arrazoado relativo à interposição do recurso pela alínea c (e-STJ, fls. 662/669).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre, por considerar que a revisão do acórdão recorrido não prescinde do reexame de cláusulas contratuais e do conjunto fático-probatório dos autos, incidindo, assim, os óbices das Súmulas nº 5 e 7 do STJ, os quais desautorizam também a interposição do recurso pela alínea c (e-STJ, fl. 687/690).
+Dessa decisão, foi interposto o presente agravo, em que as recorrentes aduziram que o recurso discute apenas violação de lei, não se buscando a reapreciação de provas (e-STJ, fls. 692/698).
+PATRÍCIA e outro apresentaram contraminuta (e-STJ, fls. 701/709).
+É o relatório.
+DECIDO.
+A insurgência não ultrapassa a barreira do conhecimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, a parte agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo. Não é cabível a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+No caso, TORP e outras deixaram de impugnar especificamente a aplicação da Súmula nº 5 do STJ, a qual dispõe que a interpretação de cláusulas contratuais não enseja a interposição de recurso especial.
+Revela-se deficiente, portanto, a fundamentação do agravo.
+Nessas condições, com fundamento no art. 932, III, do CPC/2015 c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do agravo em recurso especial.
+Deixo de majorar os honorários advocatícios por já terem sido fixados em seu patamar máximo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do CPC/2015, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
