@@ -1,0 +1,94 @@
+DECISÃO
+ Trata-se de Agravo, interposto por THEREZINHA LULINI na vigência do CPC/2015, contra decisão do Tribunal Regional Federal da 2ª Região, que inadmitiu o Recurso Especial de acórdão assim ementado:
+"PREVIDENCIÁRIO - APELAÇÃO - APOSENTADORIA POR IDADE (RURAL). REQUISITOS AUSENTES - ECONOMIA FAMILIAR NÃO COMPROVADA - APELAÇÃO INTEGRALMENTE PROVIDA I - A aposentadoria por idade, no que tange ao exercício de atividade rural. encontra-se disciplinada nos artigos 11, 48 §§ 2º e 3º, 142 e 143 da Lei nº 8.213/91 e, ainda, no art. 201, § 7, II da CF/88, tendo como pressupostos a exigência de que o labor rural tenha sido exercido em período imediatamente anterior ao requerimento do benefício, por tempo igual ao número de meses de contribuição correspondente à carência do benefício, além da idade de 60 anos para o homem e 55 para a mulher.
+II - Conquanto a autora tenha comprovado a realização do trabalho rural, não restou comprovado o caráter de labor em economia familiar que caracteriza a concessão aos segurados especiais.
+III - Apelação e remessa oficial integralmente provida" (fls. 181/189e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados, nos seguintes termos:
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - CONCESSÃO DE APOSENTADORIA RURAL POR IDADE - QUALIDADE DE SEGURADA ESPECIAL NÃO OBSERVADA - VÍCIOS PROCESSUAIS/ERRO MATERIAL INEXISTENTES - EMBARGOS DESPROVIDOS.
+I- Os embargos de declaração se prestam ao aperfeiçoamento da prestação jurisdicional, para efeito de sanar eventuais vícios processuais do julgado, tais como contradição, obscuridade ou omissão e ainda, para corrigir erro material ou erro de fato, caso existente, mas não operam, via de regra, efeitos infringentes, o que só acontece, excepcionalmente, em situações em que a correção de um desses vícios mencionados resulte, necessariamente, em modificação da orientação anterior.
+II- A embargante aduz que o v. acórdão padece de "erro material" na apreciação das provas colacionadas com objetivo de consubstanciar o seu exercício de labor rural na qualidade de segurada especial; bem como sustenta que divergiu de entendimentos consolidados pelo STJ; bem como do art. 11. VII da Lei 8.213/91.
+III- Não se vislumbram no v. acórdão erro material na apreciação das provas colacionadas, nem vícios processuais previstos no artigo 1.022 do CPC/15, tampouco deixou de analisar questões a luz da legislação vigente.
+IV- Embargos de declaração desprovidos" (fl. 217e).
+Sustenta a parte ora agravante em síntese, que:
+"RAZÕES DO AGRAVO DE INSTRUMENTO
+Inicia-se o presente pedindo vênia para destacar que a R. Sentença deferiu o pedido autoral de aposentadoria e que o V. Acórdão, embora ratifique o labor campesino da Agravante, destaca que "não restou comprovado o caráter de economia familiar" - Ementa abaixo:
+(..)
+Sucede Excelências que o caso dos autos não comporta trabalho familiar, mas individual, o que está provado com prova material devidamente corroborado pelos depoimentos em audiência.
+Ademais o próprio inciso VII do artigo 11 da Lei 8.213/91 (abaixo) - oferta alternativas para o trabalho rural, quais sejam: individualmente (caso dos autos) ou regime de economia familiar ..
+(..)
+Ademais, o próprio C. STJ tem entendimento sedimentado no sentido de que a atividade urbana exercida por outro membro familiar não descaracteriza a qualidade de segurada especial do outro membro que exercer seu labor individualmente - exato caso dos autos, como estampa a ementa extraída do julgamento do AgRg no REsp 1342162/CE - AGRAVO REGIMENTAL NO RECURSO ESPECIAL 2012/0161255-3, Relatoria do Ministro SÉRGIO KUKINA (1155), 1ª Turma, ocorrido em 24/09/13 e publicado no DJe de 27/09/13, consoante Ementa a seguir.
+(..)
+Cumpre acrescentar que não só a lei, mas também o C. STJ tem entendimento sedimentado nesse sentido qual seja de que o afastamento do segurado especial por até 120 dias/ano, não descaracteriza esta condição como reflete a Ementa (Certidão anexa), extraída do julgamento do Aglnt no AREsp 389443/PR - AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL, 2013/0290989-1, Relatoria do Ministro GURGEL DE FARIA (1160), 1a Turma, julgado em 17/11/2016 e publicado no DJe 09/12/2016, Ementa adiante:
+(..)
+Ademais, Excelência o "colono" ou meeiro informal rural ter filho com o "patrão" é uma realidade brasileira, não devendo assim a Recorrente ser discriminada por esta situação, com sua desaposentadoria (revogação da aposentadoria deferida no 1º grau) Acrescentou no voto, que o Sr. [NOME] se aposentou em 2005, como contribuinte individual, assim:
+(..)
+Excelência o destaque acima também não deve, data vênia servir de óbice para o direito da autora, especialmente porque o próprio CNIS acima referido (FL. 146), confessa que após a aposentadoria o Sr. [NOME] passou a laborar como segurado especial.
+Vale acrescentar que segundo entendimento do C. STJ, interpretando o artigo 11 da Lei 8.213/91, que o trabalho urbano do marido da autora, que neste caso, após aposentado foi classificado pelo próprio INSS como Segurado especial rural, não desqualifica a condição de segurada especial da Recorrente como reflete a Ementa resultante do julgamento do Aglnt no AREsp 790792/SP - AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL, 2015/0257669-8, Relatoria do Ministro GURGEL DE FARIA (1160),1ª Turma,julgado em 06/06/2017 e publicado no DJe 23/08/2017, Ementa adiante:
+(..)
+A Recorrente, sem qualquer intenção de reexame das provas, até porque já foram mencionadas no V. Acórdão, pede vênia para destacar as provas dos autos, inclusive robustos depoimentos das testemunhas em audiência (em que o INSS intimado não compareceu), confissão parcial do INSS, contrato de parceria agrícola, que equivocadamente, data vênia, os Eminentes Desembargadores consideraram frágeis mas que serviram para o convencimento do Magistrado do 1º grau, o que demonstra, data vênia, extremo rigorismo dos emitentes Desembargadores Federais, data vênia, o que não coaduna com entendimento do C.
+STJ:
+(..)
+Como se vê Excelências, não se trata de reanálise de fatos. Absolutamente não!!
+Cumpre acrescentar que a Recorrente apresentou, além dos indícios de prova material, também a prova material plena, qual seja o contrato de parceria agrícola, abrangendo todo o período de carência, ainda assim refutado pelos insignes desembargadores do TRF2, sendo que o artigo 115 da IN do INSS, nº 45/2010 (abaixo), deixa claro que cada documento apresentado pode provar até 3 anos de labor.
+(..)
+Assim, data máxima vênia, V. Acórdão de fls. e fls., mantido incólume pela D. Decisão dos Embargos que reformou a R. Sentença, que deferira a aposentadoria da autora, inclusive com tutela de urgência, por ter trabalhado quase toda a vida na lavoura, MERECE ser aprimorado com sua reforma, data máxima vênia, para restabelecimento da R. Sentença e segurança jurídica (a Recorrente já está percebendo sua aposentadoria de um salário mínimo feliz da vida), vez que a rurícola Recorrente que SEMPRE trabalhou e residiu na roça, desde o requerimento administrativo, já implementara TODAS as condições para se aposentar Súmulas abaixo:
+E por derradeiro, pede vênia para destacar os verbetes das súmulas abaixo:
+ - Súmula nº 6 da [NOME]
+(..)
+Cumpre acrescentar que o Egrégio Tribunal Regional Federal da 2ª Região, com extremo rigor deu pequeno valor ao conjunto probatório dos autos, desconsiderando documento que isoladamente serve como prova material como recomenda C. TNU e julgados do C. STJ, consoante Ementa a seguir transcrita (..).
+Como se vê Excelência não se pretende reexame de fatos e nem de documentos, uma vez que este Egrégio Tribunal Federal já os mencionou na D. Decisão acima transcrita O que se pretende é tão somente que o C. STJ valorize os mencionados documentos da mesma que os valorou em caso pretéritos e, aprimorando o V. Acórdão Regional, defira a aposentadoria da quase nonagenária Agravante, por medida de justiça com a aplicação irretocável da lei Federal, sobretudo do Artigo 48, § 1ºda Lei 8.213/91, além da valoração jurídica da prova material presente nos autos (devidamente corroborada pelos depoimentos das testemunhas), além do temperamento do extremo rigor, usado no 2º grau, data máxima vênia, em desfavor de uma rurícola típica "negra, pano na cabeça, quase analfabeta, expressões típicas do campesino", o que claramente foi percebido pelo MM Juízo do 1º grau que lhe deferiu o pedido na R. Sentença)
+(..)
+Como se vê a manutenção do presente indeferimento fere direto legal e constitucional assegurado a Agravante, vez que implementara TODAS as condições para se aposentar, como a especial rural.
+Ademais cabe acrescentar que o Princípio da isonomia ou também chamado de princípio da igualdade é o pilar de sustentação de qualquer Estado Democrático de Direito, não devendo assim os trabalhadores rurais, tão discriminados na atualidade pela nossa Sociedade urbana capitalista (pouco compram - apenas o fazem nas liquidações, data vênia), serem discriminados no momento tão esperado da Aposentadoria" (fls. 261/280e).
+Requer, ao final, que o presente Agravo seja recebido e provido, com a reforma da r. decisão agravada e o consequente conhecimento e provimento do Recurso Especial.
+Foi apresentada Contraminuta (fls.282/283e).
+A irresignação não merece conhecimento.
+Do exame dos autos, verifica-se os fundamentos da decisão agravada, para inadmitir o Recurso Especial, são os seguintes:
+"Trata-se de recurso especial, interposto por THEREZINHA LULINI, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão de fls. 168/175, integrado pelo de fls. 195/202, assim ementados:
+(..)
+Em seu recurso, a parte recorrente sustenta, em síntese, que o acórdão recorrido violou o artigo 11 da Lei nº 8.213/91. Aduz que a "Recorrente, sem qualquer intenção de reexame das provas, até porque já foram mencionadas no V. Acórdão, pede vênia para destacar as provas dos autos, inclusive robustos depoimentos das testemunhas em audiência (em que o INSS intimado não compareceu), confissão parcial do INSS, contrato de parceria agrícola, que equivocadamente, data vênia, os Eminentes Desembargadores consideraram frágeis mas que serviram para o convencimento do Magistrado do 1º grau, o que demonstra, data vênia, extremo rigorismo dos emitentes (sic) Desembargadores Federais, data vênia, o que não coaduna com entendimento do C. STJ (..)"
+Foram apresentadas contrarrazões.
+É o breve relatório. Decido.
+Não deve ser admitido o recurso. Nada há no acórdão impugnado que contrarie, in abstracto, os dispositivos infraconstitucionais alegadamente violados.
+O resultado do julgamento baseia-se em determinada premissa fática. Admitidos os fatos, as conclusões não destoam da lei, daí que não cabe recurso especial, pois a aferição da ofensa a texto de lei teria que reanalisar os fatos, e isto é incabível.
+À luz da súmula nº 7 do Superior Tribunal de Justiça, é vedado, em sede de recurso especial, o reexame do conjunto fático-probatório constante dos autos ("A pretensão de simples reexame de prova não enseja recurso especial").
+Significa dizer que a premissa equivocada deve ser demonstrada com o corpo teórico constatado pelo acórdão atacado, à luz das premissas de fato por ele vislumbradas.
+In casu, do exame dos autos, verifica-se que o órgão julgador decidiu a controvérsia após análise dos fatos, sendo certo que, para se chegar à conclusão diversa, tornar-se-ia imprescindível reexaminar o conjunto fático-probatório dos autos, o que, como visto, é vedado.
+Confiram-se, a propósito, os seguintes trechos do acórdão impugnado:
+(..)
+Em relação à alegada existência de dissídio jurisprudencial, verifica- se que também não estão presentes os pressupostos de admissibilidade recursal, nos termos do disposto no art. 1.029, §1º, do CPC.
+O STJ tem entendimento no sentido de que a súmula nº 7 também se aplica aos recursos interpostos pelo art. 105, III, alínea "c", da Constituição Federal. Confira-se o seguinte aresto:
+(..)
+Portanto, o debate no especial encontra óbice na súmula nº 7 do STJ. Não restou demonstrado, sem necessidade de exame dos fatos e provas, que o julgado contrariou os dispositivos legais citados ou, ainda, que conferiu à lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+Do exposto, inadmito o recurso especial" (fls. 254/259e).
+A parte agravante, todavia, deixou de infirmar, especificamente, a decisão recorrida, isto é, deixou de se insurgir, fundamentadamente, quanto ao entendimento de que "em relação à alegada existência de dissídio jurisprudencial, verifica-se que também não estão presentes os pressupostos de admissibilidade recursal, nos termos do disposto no art. 1.029, §1º, do CPC". E que "o STJ tem entendimento no sentido de que a súmula nº 7 também se aplica aos recursos interpostos pelo art. 105, III, alínea "c", da Constituição Federal" (fl.258e). No mais, a ora agravante reitera as razões de mérito, trazendo, inclusive, julgado dessa Corte Superior que entendeu "que a atividade urbana exercida por outro membro familiar não descaracteriza a qualidade de segurada especial do outro membro que exercer seu labor individualmente - exato caso dos autos"(fl. 265e).
+Diante desse contexto, o presente Agravo em Recurso Especial não pode ser conhecido.
+Com efeito, com o advento da Lei 12.322, de 09/09/2010, o Agravo de Instrumento contra decisão que não admite Recurso Especial passou a ser Agravo nos próprios autos. Porém, o legislador incorporou, ao texto legal, o princípio da dialeticidade, há muito sedimentado na jurisprudência desta Corte, com amparo na doutrina acerca do tema.
+Assim, de acordo com o inciso I do § 4º do art. 544 do CPC/73, é dever da parte agravante atacar, especificamente, todos os fundamentos da decisão do Tribunal de origem que nega trânsito ao Recurso Especial, sob pena de não conhecimento de sua irresignação.
+Esta Corte, com fundamento no citado dispositivo, bem como no princípio da dialeticidade recursal, vem aplicando, por analogia, a Súmula 182/STJ ao Agravo que não refute, de maneira específica, todos os fundamentos da decisão que não admitiu o Recurso Especial. É o que se depreende da leitura dos seguintes julgados:
+
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. EFEITO SUSPENSIVO. VIA INADEQUADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do verbete n. 182 da Súmula desta Corte, é manisfestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+(..)
+3. Agravo regimental improvido" (STJ, AgRg no AREsp 620.602/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 29/06/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/ STJ.
+I - Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial, nos termos da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido" (STJ, AgRg no Ag 1.368.414/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/03/2015).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO MONOCRÁTICA NÃO REFUTADOS. PRINCÍPIO DA DIALETICIDADE RECURSAL FUNDAMENTOS AUTÔNOMOS. SÚMULA 182/STJ. OBRIGAÇÃO DE INFIRMAR TODOS ELES. PRECEDENTE. RESOLUÇÃO N. 432 DO CONTRAN. NORMA INFRALEGAL NÃO ABRANGIDA PELO CONCEITO DE LEI FEDERAL. PRECEDENTE. ART. 306 DO CTB. ALTERAÇÃO PELA LEI N. 12.760/2012. ADMISSÃO DE OUTROS MEIOS DE PROVA. PRCEDENTE.
+Agravo regimental improvido" (STJ, AgRg no AREsp 811.800/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 17/03/2016).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. INOVAÇÃO RECURSAL. LEI ESTADUAL N. 9.664/2012. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. ALÍNEA "C". DISPOSITIVO DE LEI EM QUE TERIA OCORRIDO A DISSIDÊNCIA INTERPRETATIVA. AUSÊNCIA DE INDICAÇÃO. SÚMULA 284 DO STF. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ.
+2. No agravo regimental, a agravante não impugna todas as razões da decisão agravada, limitando-se apenas a rebater a incidência da Súmula 284/STF.
+3. Nos termos do art. 544, § 4º, inciso I, do Código de Processo Civil, "a parte deve impugnar todos os fundamentos da decisão agravada, autônomos ou não, pois não existe identidade entre a lógica da Súmula n. 182/STJ e a Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial do agravo em especial, obriga a corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico". (AgRg no AREsp 68.639/GO, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2011, DJe de 2/2/2012).
+Agravo regimental não conhecido" (STJ, AgRg no AREsp 450.558/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/02/2014).
+O novo Código de Processo Civil ratificou tal entendimento, conforme se depreende do seu art. 932, III, in verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III. não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..)".
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do presente Agravo em Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
