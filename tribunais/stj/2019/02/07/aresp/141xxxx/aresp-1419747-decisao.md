@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONTRATO DE CONCESSÃO. ABASTECIMENTO DE ÁGUA. DESCUMPRIMENTO. DIREITO DO USUÁRIOS EM RECEBER SERVIÇO ADEQUADO. ACÓRDÃO BASEADO NAS PROVAS DOS AUTOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ CAGECE em face de decisão proferida pelo Tribunal de Justiça do Estado do Ceará, que negou admissibilidade a recurso especial manejado contra acórdão cuja ementa assim se resume (e-STJ fls. 344/345):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS E MATERIAIS. CONTRATO DE CONCESSÃO. ABASTECIMENTO DE ÁGUA. INADIMPLEMENTO DA EMPRESA CONCESSIONÁRIA. OBRIGATORIEDADE DE CUMPRIMENTO. ALEGAÇÃO DE CULPA DE TERCEIRO. NÃO CABIMENTO. AUSÊNCIA DE REQUERIMENTO DE QUALQUER FORMA DE INTERVENÇÃO DE TERCEIROS. ÔNUS QUE CABE À EMPRESA CONCESSIONÁRIA EM SEDE DE CONTESTAÇÃO. CONTRATO FIRMADO EXCLUSIVAMENTE ENTRE O MUNICÍPIO E A CAGECE (EMPRESA CONCESSIONÁRIA). RESPONSABILIDADE DA CAGECE EM REALIZAR AS OBRAS NECESSÁRIAS E PROMOVER O ABASTECIMENTO DE ÁGUA DE FORMA ADEQUADA. DIREITO DOS USUÁRIOS EM RECEBER SERVIÇO ADEQUADO. INTELIGÊNCIA DOS ARTS. 6º E 7º, I, AMBOS DA LEI 8.987/95. PLEITO DE EFEITO SUSPENSIVO ATIVO AO RECURSO. IMPOSSIBILIDADE. SENTENÇA QUE CONFIRMOU TUTELA ANTECIPADA. INTELIGÊNCIA DO ART. 520, VII, DO CPC. APELAÇÃO CONHECIDA E IMPROVIDA. SENTENÇA MANTIDA.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação aos arts. 267, VI c/c 295, III, do CPC/1973, sob o argumento de que ao longo do processo demonstrou que vem tomando várias medidas com o objetivo de resolver definitivamente e melhorar o fornecimento de água nos bairros Conjunto sol Nascente (Dr. [NOME]), Vila Côco e Adautão, de modo que ausente o interesse processual e inexistência de pretensão resistida.
+A inadmissão do recurso especial se fez à consideração de que rever o entendimento adotado demandaria revolvimento de provas dos autos, o que atrai a incidência da Súmula 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+A pretensão não merece prosperar.
+Isso porque, o Tribunal de origem, soberano nos elementos probatórios dos autos, consignou expressamente que o contrato firmado entre as partes estava sendo descumprido, bem como concluiu pela responsabilidade da recorrente quanto ao abastecimento de água nos bairros do Município de Pereiro.
+A propósito, os seguintes trechos do acórdão recorrido (e-STJ fls. 350/351):
+(..)
+A empresa apelante alega que está despendendo todos os esforços para a consecução de seu desiderato, qual seja, abastecer os bairros cuja referência se faz na inicial, afirmando inclusive que eventual paralisação das obras de melhoramento necessárias ao abastecimento é de responsabilidade do Estado do Ceará.
+Ainda em primeiro grau, a título de apuração de todo o alegado por ambas as partes, determinou o juiz que o oficial de justiça do juízo diligenciasse os moradores dos bairros cuja ausência de abastecimento se alega na inicial acerca da existência ou não do fornecimento de água e da eventual realização de obras de melhoramento, constando os termos relativos a tais diligências às fls. 118/120.
+Consta de tais informações, recolhidas dos próprios moradores, que, de fato, não estavam os mesmos sendo abastecidos com água pela CAGECE, e muito menos estavam sendo realizadas obras de melhoria para o seu fornecimento.
+Portanto, conclui-se que a CAGECE não cumpriu com estabelecido em contrato, restando saber se tal descumprimento foi motivado. Pois bem.
+Alega a CAGECE, ora apelante, que eventual paralisação nas obras necessárias ao fornecimento de água nos bairros mencionados se deu por responsabilidade do Estado do Ceará, que supervisiona e custeia tais obras, o que justificaria a precariedade, para não dizer a ausência, do abastecimento de água naquelas localidades, sendo tais obras complexas, o que demandaria tempo para sua consecução.
+Não obstante o alegado, conforme se infere do contrato firmado entre as partes, observa-se que o ajuste se deu exclusivamente entre o Município de Pereiro e a CAGECE, com o objetivo do fornecimento de água para a referida Municipalidade, sendo sua tal responsabilidade (abastecimento de água dos bairros).
+(..)
+Destarte, tendo a empresa apelante se comprometido com o fornecimento de água aos bairros do município apelado, alguma intercorrência surgida que interfira na atividade da mesma deve ser resolvida entre esta e o causador da adversidade (caso seja este realmente responsável).
+Nesse contexto, a revisão do entendimento adotado conforme a pretensão recursal demandaria revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, providência vedada no âmbito do recurso especial, nos termos da Súmula nº 7 do STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para negar seguimento ao recurso especial.
+Publique-se.
+Intimem-se.
