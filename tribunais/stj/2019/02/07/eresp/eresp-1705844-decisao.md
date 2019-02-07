@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Irmãos Fischer S.A. Ind. e Com. e Outras contra acórdão proferido pela Segunda Turma desta Corte, assim ementado (fl. 1978):
+PROCESSUAL CIVIL. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. JUROS MORATÓRIOS E REMUNERATÓRIOS. CUMULAÇÃO. IMPOSSIBLIDADE.
+1. Hipótese em que, por meio de decisão monocrática, foi dado parcial provimento ao apelo recursal da parte ora agravada para aplicar o entendimento consolidado pela Primeira Seção no julgamento dos Recursos Especiais 1.003.955/RS e 1.028.592/RS, Rel. Min. Eliana Calmon, j. 12.8.2009, com rejeição dos aclaratórios em 24.3.2010, e afastar a incidência cumulativa de juros remuneratórios e moratórios sobre o crédito da devolução do empréstimo compulsório reconhecido por Sentença judicial.
+2. A jurisprudência do STJ é pacífica no sentido de que, "na hipótese dos critérios de devolução do empréstimo compulsório sobre o consumo de energia elétrica instituído em favor da Eletrobrás, os juros moratórios e remuneratórios não incidem simultaneamente (EREsp 826.809/RS)" (AgRg nos EDcl no REsp 859.012/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 27.11.2012), pois "é inviável a cumulação dos juros remuneratórios de 6% ao ano com qualquer outro índice. Os remuneratórios incidem apenas até a data do resgate, e os moratórios, a partir da citação" (EDcl no AgRg no Ag 1.305.805/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2.2.2011). Na mesma linha: AgRg no AREsp 857.389/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13.4.2016; e REsp 1.689.355/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23.10.2017
+3. Agravo Interno não provido.
+A divergência jurisprudencial foi apresentada quanto ao termo final da incidência dos juros remuneratórios sobre os valores ainda devidos pela Eletrobrás e que não foram objeto de conversão em ações (fl. 1993).
+Aponta como paradigma, os acórdãos proferidos pela Primeira Seção desta Corte, processados sob o rito dos feitos repetitivos, REsp 1003955/RS e REsp 1028592/RS, de relatoria da Ministra Eliana Calmon.
+É O RELATÓRIO.
+Inicialmente, a comprovação da divergência jurisprudencial exige o cotejo analítico entre os julgados confrontados e a demonstração da similitude fática, partindo-se de quadro fático semelhante, ou assemelhado, para conclusão dissonante de julgamento quanto ao direito federal aplicável.
+Na hipótese dos autos, alega a embargante que "por força do recurso apresentado pela Eletrobras, a E. Segunda Turma, apreciando a questão e pretendendo aplicar ao caso o entendimento consolidado pelo STJ no julgamento do Resp 1.003.955/RS, confundiu os valores convertidos em ações com o saldo não convertido e deu a eles o mesmo tratamento, partindo da premissa de que este era, também, o entendimento da 1ª Seção do STJ sobre a matéria" (fl. 1993).
+Assim, é de se concluir que o acórdão embargado não tratou do tema ora apresentado, não havendo falar em divergência jurisprudencial. Deveria a parte embargante ter opostos os competentes embargos de declaração.
+Nesse sentido, confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGENCIA. ALEGAÇÃO DE QUE O ACORDÃO EMBARGADO NÃO DECIDIU A MATERIA CONTROVERTIDA NOS AUTOS. NOS EMBARGOS DE DIVERGENCIA CONFRONTAM-SE OS JULGADOS ASSIM COMO PROFERIDOS NOS ACORDÃOS EMBARGADOS E PARADIGMAS; EVENTUAL ERRO NO ACORDÃO EMBARGADO SO PODE SER CORRIGIDO EM EMBARGOS DE DECLARAÇÃO.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+(AgRg nos EREsp 151.480/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 29/05/1998, DJ 29/06/1998, p. 10)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se.
