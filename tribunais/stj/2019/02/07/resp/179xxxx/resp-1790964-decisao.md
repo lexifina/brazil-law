@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE OMISSÕES. DIFERENÇAS SALARIAIS. 3,17%. LIMITAÇÃO À DATA DA EFETIVA REESTRUTURAÇÃO. EXCLUSÃO DE "QUINTOS/DÉCIMOS". MATÉRIA PRECLUSA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. N. 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros contra acórdão do Tribunal Regional Federal da 4ª Região, nesses termos ementado (fl. 857):
+EMBARGOS À EXECUÇÃO. REAJUSTE DE 3,17%. LIMITAÇÃO TEMPORAL. INCIDÊNCIA SOBRE GRATIFICAÇÕES, VPNIS E QUINTOS INCORPORADOS.
+O direito a receber a diferença do referido reajuste é limitado ou pela superveniente concessão no percentual correto ou pela reestruturação da carreira a qual pertence o servidor, na forma do estabelecido pela MP 2.225-45/2001.
+Com relação aos cargos em comissão e funções gratificadas, cujos valores foram alterados substancialmente pela Lei n. 9.030/95, esta 4ª Turma já se manifestou no sentido de que o reajuste de 3,17% deve incidir somente até fevereiro de 1995.
+Devem ser ressalvadas de tal limitação as parcelas da remuneração incorporadas a título de "quintos e décimos" até o mês de dezembro de 1994.
+Os embargos de declaração apresentados na origem foram providos por julgado assim ementado (fl. 1.225):
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. REAJUSTE DE 3,17%. COISA JULGADA. RETORNO DOS AUTOS DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA NOVO JULGAMENTO.
+Tendo em conta que o acórdão embargado decidiu acerca de ponto já examinado no agravo de instrumento, configura-se a violação à coisa julgada, devendo o reajustes de 3,17% ser limitado à data da reorganização efetivada, em atenção ao que estabelece o artigo 10 da MP n. 2.225/2001.
+Novos embargos de declaração não foram providos.
+Nas razões do especial, os recorrentes sustentam violação dos arts. 489, II, e 1.022, ambos do CPC/2015, pois o Tribunal de origem não se manifestou acerca de todas as questões relevantes para o deslinde da controvérsia. Assevera malversação do art. 10 da MP n. 2.225-45/2001 e dos arts. 28 e 29, § 5º, da Lei n. 8.880/1994 e do art. 333, I, do CPC/1973, pois não é possível limitar o pagamento da diferença de 3,17%, incidentes sobre quintos/décimos, à data da MP n. 431/2008 (convertida na Lei n. 11.784/2008); porquanto os valores dessas vantagens estão definidos em tabela própria.
+Apresentadas contrarrazões às fls. 1.318/1.339.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+Quanto à violação do art. 10 da MP n. 2.225-45/2001 e dos arts. 28 e 29, § 5º, da Lei n. 8.880/1994 e do art. 333, I, do CPC/1973, o Tribunal de origem decidiu pela impossibilidade de julgar, naquele momento processual, a questão relacionada à limitação de pagamento da diferença de 3,17% sobre quintos/décimos. Para tanto, declarou que essa questão, presente na decisão impugnada em agravo de instrumento, não foi oportunamente recorrida. Confira-se (fl. 1.223):
+No agravo de instrumento, ao qual foi negado provimento, houve pedido expresso dos exequentes nesse sentido, como se vê do trecho do relatório:
+A parte agravante requer a reforma da decisão, sustentando ser devida a incidência do reajuste de 3,17% sobre as parcelas adimplidas a título de quintos/décimos de função incorporados, VPNI e DAS, em virtude de não terem as mesmas sido contempladas com a incorporação do índice em 01/01/2002, remanescendo obrigação de fazer a ser implementada pela executada.
+Contra essa decisão não foi interposto recurso, restando assentado que fosse observada a MP nº 2.225/01 para fins de limitação da apuração das diferenças.
+Esse fundamento, capaz de manter o acórdão a quo por si só, não foi impugnado no recurso especial. Desse modo, o exame do recurso especial, nesse ponto, esbarra no óbice da Súm. n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
