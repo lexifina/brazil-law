@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DE COBRANÇA. PISO SALARIAL NACIONAL DO MAGISTÉRIO. LEI 11.738/2008. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DA ADI Nº.4167. DIFERENÇAS REMUNERATÓRIAS A TÍTULO DE IMPLEMENTAÇÃO RETROATIVA DO PISO NACIONAL DO ANO 2014 e 2015 (JANEIRO A JULHO). DESCUMPRIMENTO DO REAJUSTE NA DATA BASE DA REVISÃO ANUAL. PAGAMENTO COMPLEMENTAR DEVIDO. NÃO COMPROVAÇÃO DE IMPOSSIBILIDADE DO PELO MUNICÍPIO. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, c, da Constituição Federal. A parte recorrente alega violação aos arts. 18, caput; e 37, X e XIII, da CF.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, seria imprescindível a análise da legislação infraconstitucional pertinente, o que é inviável em recurso extraordinário. Nesse sentido, cito os seguintes precedentes: ARE 1.148.682, Rel. Min. Ricardo Lewandowski; ARE 1.111.197, Rel. Min. Marco Aurélio; ARE 1.092.189, Rel. Min. Edsno Fachin.
+    Ademais, o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da CF. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 07 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
