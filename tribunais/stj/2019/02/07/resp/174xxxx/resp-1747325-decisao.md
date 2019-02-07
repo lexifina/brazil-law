@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIOS CONCEDIDOS NAS SEARAS ADMINISTRATIVA E JUDICIAL. CUMULAÇÃO. ACÓRDÃO QUE CONTÉM FUNDAMENTO CONSTITUCIONAL SUFICIENTE À MANUTENÇÃO DO QUE DECIDIDO. NÃO IMPUGNAÇÃO POR MEIO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRF da 3ª Região, assim ementado (fl. 112, e-STJ):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. APELAÇÃO. AGRAVO INTERNO. ANÁLISE DOS PRECEDENTES. AUSÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA.
+I. Nas razões de apelação, o agravante juntou precedentes do STJ e desta Corte, alinhados ao seu entendimento, segundo os quais seria permitido receber os atrasados do benefício concedido judicialmente, até a data de início do benefício concedido administrativamente, com manutenção deste último beneficio.
+II. Todos os precedentes juntados aos autos são anteriores a 26/10/2016, data em que o Plenário do STF proferiu decisão no RE 661.256/DF, Relator Ministro Roberto Barroso, Relator para Acórdão Ministro Dias Toffoli. Naquele julgamento, o STF fixou a tese de que "No âmbito do Regime Geral da Previdência Social - RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. I 8, §2º, da Lei 8.213/91".
+III. Como ressalvado na decisão agravada, a decisão proferida pelo STF guarda relação direta com a matéria veiculada pelo agravante na apelação, tratando-se de entendimento dominante sobre o tema.
+IV. A decisão agravada não padece de qualquer vício quanto à sua fundamentação, porque discorreu detalhadamente sobre o assunto e as razões que embasaram o decisum. Os precedentes citados pelo agravante encontram-se superados, diante do recente julgamento do STF sobre a matéria, não vinculando a decisão do Juízo.
+V. Recurso improvido.
+Embargos de declaração rejeitados.
+O recorrente alega, além da divergência jurisprudencial, violação aos artigos 124, II, da Lei nº 8.213/91, artigo 775 do CPC/2015, porquanto faz jus ao percebimento cumulativo do benefício mais vantajoso concedido administrativamente e daquele concedido judicialmente, objeto da execução.
+Juízo positivo de admissibilidade às fls. 142/143, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+In casu, o acórdão recorrido ao solucionar a controvérsia referente à possibilidade de recebimento dos atrasados do benefício concedido judicialmente até a data de início do benefício concedido administrativamente, adotou fundamentação constitucional que se mostra suficiente à solução do litígio.
+No caso, decidiu-se pelo não acolhimento da pretensão com fundamento na tese fixada pelo Plenário do STF no RE n. 661.256/DF. Ocorre que o recorrente não interpôs recurso extraordinário ao tempo e modo necessários, circunstância que conduz ao não conhecimento do recurso especial. Incide ao caso a Súmula 126/STJ.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
