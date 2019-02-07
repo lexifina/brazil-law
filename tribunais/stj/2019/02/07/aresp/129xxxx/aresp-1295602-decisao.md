@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do NCPC), interposto por MAURICIO PEREIRA DA SILVA e OUTROS, contra decisão que não admitiu recurso especial (fls. 296/297, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 257/258, e-STJ):
+APELAÇÃO. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA. LOCAÇÃO RESIDENCIAL. ANULAÇÃO DA SENTENÇA POR FALTA DE FIXAÇÃO DE PARÂMETROS PARA SUA EXECUÇÃO E AUSÊNCIA DE FUNDAMENTAÇÃO. IMPOSSIBILIDADE. DECISÃO QUE ACOLHEU O PEDIDO NOS TERMOS EM QUE VEICULADO NA PETIÇÃO INICIAL, FUNDAMENTANDO AS RAZÕES DO ACOLHIMENTO. POSSIBILIDADE DE COMPLEMENTAÇÃO DA DECISÃO (RELATIVAMENTE AOS JUROS MORATÓRIOS LEGAIS E CORREÇÃO MONETÁRIA) "EX OFFICIO". SENTENÇA MANTIDA, COM COMPLEMENTAÇÃO. APELO DESPROVIDO. 1.- A petição inicial fixa os limites subjetivos e objetivos da ação. Não há falta de clareza na sentença que acolhe o pedido nos termos em que pleiteado pelo autor na petição inicial, expondo as razões do acolhimento. 2.- A aplicação de juros moratórios legais e correção monetária pode ser feita "ex officio", por força do disposto no art. 322, § 1º, do CPC/2015.
+APELAÇÃO. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA. LOCAÇÃO RESIDENCIAL. INVERSÃO DO ÔNUS SUCUMBENCIAL. IMPOSSIBILIDADE. ÔNUS QUE DEVE RECAIR SOBRE QUEM FOI VENCIDO NA DEMANDA E/OU DEU CAUSA AO AJUIZAMENTO DA AÇÃO. SENTENÇA MANTIDA. APELO DESPROVIDO. O ônus sucumbencial deve recair sobre quem foi vencido na demanda ou deu causa ao ajuizamento da ação.
+APELAÇÃO. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA. LOCAÇÃO RESIDENCIAL. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO. NECESSIDADE. TRABALHO REALIZADO EM GRAU RECURSAL. INCIDÊNCIA DO ART. 85, §§ 2º E 11, DO CPC/2015. Processada a apelação na vigência do CPC/2015, necessária a majoração dos honorários sucumbenciais em razão do trabalho adicional realizado em grau recursal nos termos do art. 85, §§ 2º e 11, do mesmo diploma processual.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, os recorrentes apontam ofensa aos artigos 85, § 14, 489, § 1º, IV, e 491 do NCPC.
+Sustentam, em síntese, a "ausência de indicação dos parâmetros necessários à elaboração do cálculo de liquidação do julgado, da extensão do pagamento a ser realizado, torna a sentença um título executivo incompleto e incapaz de ser executado"
+Aduzem que "o recorrido o maior sucumbente, merece ser condenado ao pagamento de honorários advocatícios devidos aos patronos dos apelantes, sendo vedada a compensação de honorários", afirmando "a legislação proíbe a compensação em caso de sucumbência parcial".
+Sem contrarrazões, conforme certidão à fl. 295, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; (ii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do NCPC), buscando destrancar o processamento daquela insurgência.
+Não foi apresentada contraminuta, conforme certidão à fl. 316, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Depreende-se dos autos que o conteúdo normativo do artigo 85, § 14 do NCPC, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do NCPC.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Não prospera, ainda, à alegada violação ao art. 489, § 1º, IV, do NCPC, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pelos recorrentes, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Assim, não há falar em deficiência de fundamentação, porquanto a controvérsia foi fundamentadamente decidida pelo acórdão recorrido, embora de forma contrária aos interesses das partes.
+Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE SOLIDÁRIA. MINERAÇÃO DE CARVÃO. RECUPERAÇÃO AMBIENTAL DA ÁREA DEGRADADA. INEXISTÊNCIA DE VÍCIO DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO.
+(..)
+2. Não há falar em ofensa ao art. 489, II, e § 1º, IV, do CPC/2015, tendo em vista que o acórdão recorrido apresentou fundamentação adequada no sentido de que não foram apresentados elementos suficientes para infirmar a conclusão da decisão agravada de que tanto a ora recorrente como uma outra carbonífera contribuíram para o dano ambiental em questão, conclusão essa baseada nos documentos juntados aos autos e corroborados por depoimentos de testemunhas.
+(..)
+5. Recurso especial não provido.
+(REsp 1722488/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/05/2018, DJe 29/05/2018)
+3. Na hipótese, o Tribunal de origem, ao confirmar a sentença de procedência, considerou que a r. sentença, ao acolher o pedido de cobrança, o fez para condenar os insurgentes no pagamento de valores cobrados pelo autor, conforme os limites expostos na petição inicial. Consignou, ainda, sobre tais valores deveriam incidir juros de mora e correção monetária, ambos contados do vencimento de cada parcela cobrada. Observou, por fim, "que qualquer outro valor não foi abrangido pelo dispositivo da r. sentença, sendo ilegítima a sua cobrança".
+É, aliás, o que se extrai do seguinte excerto (fls. 360/361, e-STJ):
+Cediço que a petição inicial fixa os limites subjetivos e objetivos da ação.
+No caso concreto, a petição é clara relativamente aos valores cobrados. De fato, o autor cobra: i) aluguéis vencidos entre março e agosto de 2015; ii) faturas de energia elétrica vencidas entre abril e agosto de 2015; iii) faturas de consumo de água vencidas entre abril e julho de 2015; iv) IPTU relativos aos meses de janeiro a agosto de 2015; v) aluguéis e demais encargos locatícios inadimplidos até a efetiva desocupação do imóvel; vi) multa contratual de 10% e juros moratórios de 12% ao ano sobre estes valores.
+O dispositivo da r. sentença, ao acolher o pedido de cobrança, o fez nos termos em que delineado pelo autor, ou seja, condenou os réus no pagamento das supracitadas verbas.
+Evidente que, sobre tais verbas, devem incidir, ainda, juros legais e correção monetária, o que pode ser feito até mesmo ex officio por força do disposto no art. 322, § 1º, do CPC/2015. Assim, sobre as quantias supracitadas devem incidir juros de mora de 1% ao mês e correção monetária de acordo com a Tabela Prática do Tribunal de Justiça de São Paulo, ambos contados da data de vencimento de cada parcela (pois trata-se de dívida líquida e certa, aplicando-se o art. 397 do Código Civil).
+Observo que qualquer outro valor não foi abrangido pelo dispositivo da r. sentença, sendo ilegítima a sua cobrança.
+Nestes termos, não há como se acolher a alegação de nulidade da r. sentença nos termos em que pleiteado pelos réus. De fato, a r. sentença está fundamentada e eventual complementação é realizada por meio deste julgado.
+Por fim, as contrarrazões servem para impugnar as razões de apelação, e não formular novos pedidos, conforme pleiteados pelo autor. Assim, deveria o autor deduzir os pedidos na peça processual adequada e no momento oportuno.
+Desse modo, não há ofensa à regra processual, segundo a qual é vedado a prolação de sentença ou decisão ilíquida no processo civil (art. 491 do CPC/2015), quando se tratar de obrigação de pagar quantia.
+Além disso, conforme se constata das razões recursais, que os referidos fundamentos, não foram impugnados pela parte recorrente.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+Outrossim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
