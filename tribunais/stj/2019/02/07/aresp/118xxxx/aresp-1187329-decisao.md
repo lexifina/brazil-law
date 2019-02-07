@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. DECADÊNCIA. RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela FAZENDA NACIONAL, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 544 e-STJ):
+TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. DECADÊNCIA. LANÇAMENTO POR ARBITRAMENTO. HONORÁRIOS.
+1. O lançamento tributário para a cobrança de supostas diferenças de contribuições previdenciárias incidentes sobre parcelas recolhidas por força de sentenças ou acordos homologatórios em ações de natureza trabalhista foi realizado pela autarquia previdenciária em 27/09/2001, estão fulminados pela decadência todos os créditos tributários anteriores a 27/09/1996.
+2. O art. 148 do CTN dispõe expressamente que quando houver omissão nas declarações será cabível o lançamento por arbitramento, de modo que, havendo omissão na discriminação das parcelas salariais, nada obsta o lançamento pelo valor total.
+3. No caso da Reclamação Trabalhista nº 1317/97, referente à competência de 03/98, inexiste nos autos documento que possa comprovar o pagamento da contribuição previdenciária devida, na medida em que na GRPS de fl. 378 não há qualquer indicação a demonstrar, de forma clara e inequívoca, que se refere a alguma reclamação trabalhista específica, sendo perfeitamente legítimo o lançamento por arbitramento.
+4. Em relação aos honorários advocatícios, entendo que as partes sucumbiram de parcelas consideráveis, devendo os honorários de advogado ser, igualmente, repartidos e compensados, nos termos do artigo 21 do Código de Processo Civil.
+5. Recursos improvidos.
+Embargos de declaração opostos pela parte adversa e acolhidos (fl. 572 e-STJ).
+No recurso especial, a recorrente sustenta contrariedade ao art. 173, I, do CTN, alegando não ocorrência da decadência para a constituição do crédito pelo lançamento efetuado em 27/9/1996, pela autoridade fazendária, relativamente ao não pagamento de contribuições destinadas à previdência social, pertinentes a fatos geradores ocorridos a partir de janeiro de 1996, não declarados pelo devedor, cujo prazo quinquenal iniciou-se em 1º/1/1997.
+Contrarrazões a fls. 583-589 e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+Nas razões recursais, a recorrente alega a regra da decadência do art. 173, I, do CTN ao argumento de se tratar de cobrança das contribuições previdenciárias pertinentes a fatos geradores ocorridos no ano de 1996, das quais não houve pagamento e que não foram declaradas pelo contribuinte, para fim de demonstrar que não houve a consumação da decadência para o lançamento efetuado em 27/9/2001 (fl. 559 e-STJ).
+Todavia, na espécie, o que se verifica é que a Corte de origem firmou convicção quanto à consumação da decadência para a constituição de créditos tributários anteriores a 27/9/1996, por se tratar de "lançamento tributário para a cobrança de supostas diferenças de contribuições previdenciárias incidentes sobre parcelas recolhidas por força de sentenças ou acordos homologatórios em ações de natureza trabalhista" (fl. 540 e-STJ):
+Na hipótese, o lançamento tributário para a cobrança de supostas diferenças de contribuições previdenciárias incidentes sobre parcelas recolhidas por força de sentença ou acordos homologatórios em ações de natureza trabalhista foi realizado pela autarquia previdenciária em 27/09/2001, estão fulminados pela decadência todos os créditos tributários anteriores a 27/09/1996, como consignado no decisum.
+Com efeito, as alegações deduzidas com vistas a justificar a apontada violação do art. 173, I, do CTN consubstanciam razões desassociadas dos fundamentos fático-jurídicos dispostos pela Corte de origem no acórdão recorrido para resolver a demanda - situação essa que não permite exata compreensão da controvérsia, inviabilizando o conhecimento do recurso especial. Incidência da Súmula n. 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
