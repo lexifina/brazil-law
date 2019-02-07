@@ -1,0 +1,47 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, contra acórdão prolatado, por unanimidade, pela 5ª Turma Especializada do Tribunal Regional Federal da 2ª Região, no julgamento de apelação e reexame necessário, assim ementado (fls. 423/424e):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ROYALTIES. ALTERAÇÕES PROMOVIDAS PELA LEI 12.734/2012. ADIN 4917-MC/DF. MEDIDA CAUTELAR. REMESSA NECESSÁRIA E RECURSO DE APELAÇÃO DESPROVIDOS.
+1. A controvérsia posta nos autos cinge-se em perquirir se cabível o pagamento de royalties ao autor na forma determinada pela Lei 9.478/97, anteriormente às mudanças acrescidas pela Lei nº 12.734/12.
+2. É cediço que o §1º do art. 20 da Constituição Federal define os titulares do direito à participação no resultado da exploração de petróleo ou gás natural no respectivo território. Isto decorre do ônus que aqueles entes federativos têm de suportar em razão da exploração, garantindo-se que participem no resultado ou sejam compensados pela exploração de petróleo ou gás natural.
+3. Com o advento da Lei 12.734/2012, introduziu-se no ordenamento jurídico brasileiro nova forma de partilha de tais recursos, de modo a beneficiar estados e municípios não ajustados às condições territoriais anteriormente previstas.
+4. Nos autos da ADI nº 4.917, a Min. Carmen Lúcia deferiu a medida cautelar pleiteada, para suspender os efeitos dos arts. 42-B; 42-C; 48, II; 49, II; 49-A; 49-B; 49-C; § 2º do art. 50; 50-A; 50-B; 50-C; 50-D; e 50-E da Lei Federal n. 9.478/97, com as alterações promovidas pela Lei n. 12.734/2012.
+5. A Ministra fundamentou a referida decisão no entendimento de que "o Estado e o Município, em cujo território se tenha exploração de petróleo ou de gás natural ou que seja confrontante com área marítima na qual se dê esta atividade (em plataforma continental, mar territorial ou zona econômica exclusiva), titulariza o direito assegurado na regra constitucional".
+6. Apesar dos §§ 3º do art. 48 e 7º do art. 49, ambos da Lei 12.734/12, não terem tido sua aplicabilidade suspensa em razão do deferimento da medida cautelar mencionada, verifica-se, da leitura da legislação, uma relação de dependência entre os mesmos, de modo que dependem, para sua funcionalidade, do disposto no inciso II dos mesmos dispositivos.
+7. Remessa necessária e recurso de apelação desprovidos.
+Opostos embargos de declaração, foram rejeitados (fls. 441/449e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 48, § 3º, e 49, § 7º, da Lei n. 9.478/97, com redação dada pela Lei n. 12.734/12, e art. 7º da Lei n. 7.990/89, alegando-se, em síntese, que tais dispositivos não sofreram suspensão pela decisão cautelar proferida pelo Supremo Tribunal Federal na ADI 4.917, gerando "efeitos financeiros na distribuição de royalties a ser realizada no presente mês de junho/2013, referente à produção/movimentação de abril/2013" (fl. 460e).
+Aduz-se ser "incabível a aplicação da teoria da inconstitucionalidade por arrastamento na via difusa", o que competiria ao STF, nos termos do art. 102, I, a, da Constituição da República, e arts. 1º, 10, e 11, § 2º, da Lei n. 9.868/99.
+Com contrarrazões (fls. 547/553e), o recurso foi admitido (fl. 570e).
+O Ministério Público Federal manifestou-se às fls. 601/607e, opinando pelo desprovimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+O tribunal de origem analisou a controvérsia nos seguintes termos (fls. 413/419e):
+É cediço que o § 1º do art. 20 da Constituição Federal define os titulares do direito ã participação no resultado da exploração de petróleo ou gás natural no respectivo território. Isto decorre do ônus que aqueles entes federativos têm de suportar em razão daquela exploração, garantindo-se que participem no resultado ou sejam compensados pela exploração de petróleo ou gás natural.
+Nesse sentido, cabe mencionar que a Política Nacional do Petróleo foi criada pela Lei nº 2.004/53, que prevê, em seu artigo 27:
+(..)
+Ocorre que, com o advento da Lei 12.734/2012, introduziu-se no ordenamento jurídico brasileiro nova forma de partilha de tais recursos, de modo a beneficiar estados e municípios não ajustados às condições territoriais anteriormente previstas.
+Entretanto, foi ajuizada Ação Declaratória de Inconstitucionalidade pelo Governador do Estado do Rio de Janeiro contra "as novas regras de distribuição dos royalties e participações especiais devidos pela exploração do petróleo, introduzidas pela Lei Federal n. 12.734/2012 (doc. n. 1). De forma específica, são impugnados os arts. 42-B; 42- C; 48, II; 49, II; 49-A; 49-B; 49-C; 50; 50-A; 50-B; 50-C; 50-D; e 50-E da Lei Federal n. 9.478/97, todos com a redação dada pela Lei Federal n. 12.734/2012. Nesta ação direta retoma-se a questão do veto à Lei n. 12.734/2012, que foi discutido no MS n. 31.816/DF".
+Nesse sentido, nos autos da ADI nº 4.917, a Min. Carmen Lúcia deferiu a medida cautelar pleiteada, para suspender os efeitos daqueles dispositivos. Vejamos:
+(..)
+Verifica-se, portanto, que a questão central a ensejar o deferimento da medida cautelar pela Min. Carmen Lúcia foi o direito constitucionalmente garantido aos estados e municípios produtores de petróleo ou gás natural, em razão do ônus que os mesmos tem que suportar quando da referida exploração.
+Pretendeu o autor que fosse declarada suspensa a aplicabilidade dos §§ 3º do art. 48 e 7º do art. 49, ambos da Lei 12.734/12, o que foi deferido pelo magistrado de primeiro grau.
+Apesar de tais dispositivos não terem tido sua aplicabilidade suspensa em razão do deferimento da medida cautelar acima mencionada, verifica-se, da leitura da legislação, uma relação de dependência entre os mesmos, de modo que, conforme bem asseverou o Ministério Público, "as normas do § 3º, do artigo 48, e § 7º, do artigo 49, da Lei nº 9.478/97, por fazerem alusão aos incisos suspensos liminarmente pela Ministra Carmen Lúcia, tiveram seus significados esvaziados, e se encontram sem aplicabilidade prática" (fl. 405).
+(..)
+Assim, da leitura dos dispositivos acima transcritos, infere-se que aqui se faz presente a mesma razão que ensejou o deferimento da medida cautelar nos autos da ADI 4.917/DF, qual seja, a reparação devida aos estados e municípios onerados com a produção de petróleo ou gás natural.
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz da constitucionalidade dos arts. 48, § 3º, e 49, § 7º, da Lei n. 9.478/97, com redação dada pela Lei n. 12.734/12, e consoante o disposto na decisão cautelar proferida nos autos da ADI n. 4971/DF, pelo Supremo Tribunal Federal.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014 - destaque meu).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014 - destaques meus).
+Destaco, na mesma esteira, as seguintes decisões monocráticas desta Corte, em casos idênticos ao presente feito: REsp n. 1.649.262/RJ, Rel. Min. Mauro Campbell Marques, DJe 19.11.2018; REsp n. 1.649.196/RJ, Rel. Min. Mauro Campbell, DJe 16.11.2018; REsp n. 1.757.113/RJ, Rel. Min. Mauro Campbell Marques, DJe 14.11.2018.
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
