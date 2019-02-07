@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Penal. Habeas Corpus. Tráfico de drogas. Prisão cautelar. Regime inicial. Substituição da reprimenda. Superação da Súmula 691/STF. Ordem concedida de ofício.
+1. Hipótese de paciente (primário e de bons antecedentes) condenado a 3 anos, 10 meses e 20 dias de reclusão pelo tráfico de pequena quantidade de droga.
+2. A prisão preventiva pelo tráfico de pequena quantidade de maconha é contraproducente do ponto de vista de política criminal.
+3.  Possibilidade de fixação de regime inicial diverso do fechado e de substituição da pena privativa de liberdade por medida restritiva de direitos. Precedentes.
+4. Habeas corpus não conhecido. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 483.956, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput e § 4º, da Lei 11.343/06, vedado o direito de recorrer em liberdade.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, indeferido liminarmente.
+    4. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 483.956, Ministro Reynaldo Soares da Fonseca, indeferiu a medida liminar.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a manutenção da custódia cautelar. Alega, ainda, a possibilidade da fixação de regime inicial mais brando, assim como da substituição da pena privativa de liberdade por outra pena restritiva de direitos.
+    6. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do acionante. Cumulativamente, pleiteia a fixação do regime inicial aberto e a substituição da pena privativa de liberdade.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. As peculiaridades do processo, contudo, autorizam a superação da Súmula 691/STF.
+    9. O paciente foi preso em flagrante com 155,69g de maconha. Por esse fato, o Juízo da 3ª Vara Criminal da Comarca de Araraquara/SP condenou o acusado a 3 anos, 10 meses e 20 dias de reclusão, em regime fechado, na forma do art. 33, § 4º, da Lei de Drogas. Na sequência, vedou o direito de recorrer em liberdade, sob o fundamento de que “se trata de crime assemelhado aos hediondos e restam presentes os fundamentos da prisão preventiva”.
+    10. Da leitura dos autos, não encontro elementos empíricos idôneos que evidenciem a necessidade da custódia processual e o risco efetivo de reiteração delitivas. Além disso, ressalto que prender cautelarmente pelo tráfico de pequena quantidade de droga é contraproducente do ponto de vista da política criminal, notadamente porque a maconha não é dotada da mesma potencialidade lesiva de outras substâncias entorpecentes, na medida em que – a despeito de razoável grau de controvérsia sobre o tipo de dano que ela causa ao usuário – não é uma droga que torne o indivíduo que a consome socialmente perigoso.
+    11. Nessas condições, incide a jurisprudência do Supremo Tribunal Federal no sentido de que a prisão cautelar exige a demonstração, empiricamente motivada, dos requisitos previstos no art. 312 do Código de Processo Penal (Cf. HC 109.449, Rel. Min. Marco Aurélio; e HC 115.623, Rel. Min. Rosa Weber).
+    12. Ademais, observo que o regime inicial de cumprimento de pena foi estabelecido com fundamento apenas no caráter hediondo do crime de tráfico de entorpecentes, em contrariedade à orientação consolidada pelo Tribunal no julgamento do HC 111.840, de relatoria do Ministro Dias Toffoli. De modo que ficou superada a obrigatoriedade de início do cumprimento da pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    13. Da mesma forma, o Plenário do Tribunal, no julgamento do HC 97.256, Rel. Min. Ayres Britto, declarou, incidentalmente, a inconstitucionalidade do artigo 44 da Lei nº 11.343/06, na parte em que vedava a substituição da pena privativa de liberdade por medida restritiva de direitos, em favor dos condenados pela prática do crime de tráfico de entorpecentes.
+    14. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para: i) revogar a prisão cautelar do paciente, assegurando-lhe o direito de aguardar o julgamento da apelação, em liberdade, sem prejuízo das medidas cautelares do art. 319 do CPP; ii) determinar ao Tribunal de Justiça do Estado de São Paulo que, no julgamento da apelação, reveja o regime inicial para o cumprimento da pena e examine a possibilidade da substituição de que trata o art. 44 do Código Penal, na linha dos reiterados pronunciamentos do Plenário desta Corte.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 07 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
