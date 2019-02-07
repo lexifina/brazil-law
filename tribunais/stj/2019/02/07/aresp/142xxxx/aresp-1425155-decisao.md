@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São José dos Campos contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 46):
+Agravo de instrumento indeferimento de assistência judiciária ação indenizatória estabelecimento fechado pela Prefeitura demonstração de dificuldade financeira concessão da gratuidade decisão reformada Recurso provido
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 99, § 3º, do CPC/2015 e 226 do CC/2002. Sustenta que: (I) a hipossuficiência financeira da pessoa jurídica deve ser expressamente comprovada; e (II) não foram trazidas provas da hipossuficiência no presente caso, ausente qualquer documentação contábil nesse sentido.
+A parte agravada deixou o prazo de impugnação transcorrer in albis, cf. certidão de fl. 66.
+É o relatório.
+O Tribunal de origem dirimiu a controvérsia sob os seguintes fundamentos (fl. 47):
+Ao contrário da legislação anterior, o novo CPC autoriza expressamente a concessão da assistência judiciária gratuita a pessoa jurídica (art. 98). A análise do pedido de assistência judiciária deve levar em conta o pedido feito pela parte e a boa-fé.
+A negativa ao pedido só seria possível se embasada em comprovação de que a parte possua meios para custear o processo. Não é possível uma suposição genérica de que a parte possua meios financeiros para custear a demanda judicial.
+Inexistindo indícios firmes da existência de riqueza ou condições financeiras para arcar com tais despesas, o benefício deve ser concedido. Não há na espécie motivos fáticos ou jurídicos para o indeferimento da assistência judicial, mesmo porque a empresa não esta funcionando, o que indica a inexistência de recursos.
+No entanto, observa-se que a Corte a quo partiu de premissa equivocada ao avaliar a concessão da justiça gratuita, razão pela qual o recurso comporta provimento.
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido de ser possível a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, desde que demonstrem a impossibilidade de arcarem com os encargos processuais, nos termos da Súmula 481/STJ ("Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais").
+Com efeito, "a concessão do benefício da justiça gratuita à pessoa jurídica demanda efetiva prova da impossibilidade de arcar com as custas processuais, sendo inadmitida sua presunção" (EREsp 1.055.037/MG, Rel. Min. Hamilton Carvalhido, Corte Especial, DJe 14/9/2009).
+Anote-se, ainda, que a Corte Especial deste Tribunal Superior já se manifestou no sentido de que "as pessoas jurídicas de direito privado, com ou sem fins lucrativos, para obter os benefícios da justiça gratuita, devem comprovar o estado de miserabilidade, não bastando simples declaração de pobreza" (EREsp 1.185.828/RS, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe 1º/7/2011 - grifos nossos).
+Ainda nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE PROVA. PRECEDENTE: ERESP 1.185.828/RS, REL. MIN. CESAR ASFOR ROCHA, DJU 9.6.2011. ENTENDIMENTO ADOTADO PELA CORTE ESPECIAL. A CORTE LOCAL AFIRMOU, EXPRESSAMENTE, QUE NÃO FICOU DEMONSTRADA A HIPOSSUFICIÊNCIA DA EMPRESA RECORRENTE. DESCONSTITUIR TAL FUNDAMENTO DEMANDA REEXAME DE PROVA. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Quanto à concessão do benefício da assistência judiciária gratuita, conforme o disposto na Lei 1.060/1950, a Corte Especial, no julgamento do EREsp. 1.185.828/RS de Relatoria do Ministro CESAR ASFOR ROCHA, DJU 9.6.2011, consolidou entendimento segundo o qual as pessoas jurídicas podem ser beneficiárias da justiça gratuita de que trata a dita lei, desde que comprovem a impossibilidade de pagamento dos encargos do processo, sem comprometer a sua existência.
+2.  ..
+3. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AREsp 1.111.843/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/5/2018, DJe 28/5/2018)
+PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. PRESUNÇÃO. INOCORRÊNCIA. CONCESSÃO. POSSIBILIDADE. SÚMULA 481/STJ. PROVA DA MISERABILIDADE. SÚMULA 7/STJ.
+1. A concessão do benefício da justiça gratuita à pessoa jurídica demanda efetiva prova da impossibilidade de arcar com as custas processuais, sendo inadmitida sua presunção. EREsp 1.055.037/MG, Rel. Min. Hamilton Carvalhido, Corte Especial, DJe 14.9.2009.
+2. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481/STJ).
+3.  ..
+4. Recurso Especial não conhecido.
+(REsp 1.682.102/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/10/2017, DJe 17/10/2017)
+Nesse contexto, como a análise da efetiva comprovação de hipossuficiência é matéria eminentemente probatória, é o caso de determinar a devolução dos autos à origem para que procedam a uma nova análise da questão, observando-se a jurisprudência deste STJ acima indicada. Destaca-se que essa medida possui amparo em precedentes desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL CONHECIDO. EFEITO DEVOLUTIVO AMPLO. APLICAÇÃO DO DIREITO À ESPÉCIE. POSSIBILIDADE, DESDE QUE NÃO EXIJA INCURSÃO NO SUBSTRATO FÁTICO-PROBATÓRIO DA LIDE. RETORNO À INSTÂNCIA ORDINÁRIA.
+1. Segundo jurisprudência consolidada desta Corte, uma vez conhecido o recurso especial, deve o julgador prosseguir no exame da questão, realizando o julgamento da causa, com a aplicação do direito à espécie, nos moldes do art. 257 do RISTJ e da Súmula 456/STF.
+2.. Entretanto, nos casos em que a aplicação do direito à espécie exige a incursão no substrato fático-probatório dos autos, necessário se faz que eles retornem à instância ordinária, para que a causa seja julgada conforme os parâmetros estabelecidos por este STJ.
+3. No caso, o recurso especial foi provido para, na linha da jurisprudência desta Corte, definir que o prazo prescricional de ações que almejam indenização decorrente de dano ambiental tem início na data da ciência inequívoca da lesão. 4. Entretanto, as particularidades do caso em exame não permitem a apuração, na presente quadra processual, da existência de prescrição, razão pela qual se faz necessário o retorno dos autos à origem, a fim de que a questão seja examinada tendo por premissa que o termo inicial do prazo ocorre com a ciência inequívoca da lesão.
+5. Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1.170.322/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 5/6/2018, DJe 8/6/2018)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIO. AUSÊNCIA. IRRESIGNAÇÃO DA PARTE. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. APLICAÇÃO DO DIREITO À ESPÉCIE. POSSIBILIDADE, DESDE QUE NÃO IMPLIQUE REEXAME DE PROVAS.
+1. A atribuição de efeitos modificativos aos embargos declaratórios é possível apenas em situações excepcionais, em que sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como consequência lógica e necessária.
+2. Inexiste previsão no art. 535 do CPC, quer para reabertura do debate, quer para análise de questões não abordadas nos acórdãos recorridos, notadamente quando fundados os embargos de declaração no mero inconformismo da parte.
+3. Superado o juízo de admissibilidade e desde que não haja a necessidade de reexame do substrato fático-probatório dos autos, o recurso especial comporta efeito devolutivo amplo, o que implica o julgamento da causa e a aplicação do direito à espécie, nos termos do art. 257 do RISTJ, da Súmula 456/STF e do § 3º do art. 515, do CPC, que procura dar efetividade à prestação jurisdicional, sem deixar de atender para o devido processo legal.
+4. Embargos de declaração no recurso especial rejeitados.
+(EDcl no REsp 1.255.398/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/8/2014, DJe 22/9/2014)
+Ante o exposto, dou provimento ao agravo, para conhecer e prover o recurso especial, determinando o retorno dos autos à origem nos termos acima expostos.
+Publique-se.
