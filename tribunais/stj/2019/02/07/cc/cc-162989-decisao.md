@@ -1,0 +1,42 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. MANUTENÇÃO IRREGULAR DE ESPÉCIES DA FAUNA EM CATIVEIRO E USO INDEVIDO DE SÍMBOLO DA ADMINISTRAÇÃO. PRIMEIRA CONDUTA. AUSÊNCIA DE INDÍCIOS DE TRANSNACIONALIDADE DO DELITO, BEM COMO DE QUE OS PÁSSAROS APREENDIDOS SEJAM ESPÉCIMES AMEAÇADAS DE EXTINÇÃO, EXÓTICAS OU PROTEGIDAS POR TRATADOS E CONVENÇÕES INTERNACIONAIS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. TEMA 648 (REPERCUSSÃO GERAL). SEGUNDA CONDUTA. ARQUIVAMENTO. JUÍZO FEDERAL QUE ATUOU DENTRO DA SUA ESFERA DE JURISDIÇÃO.
+Conflito conhecido para declarar a competência do Juízo de Direito da 3ª Vara Criminal de Ribeirão Preto/SP, o suscitante, para processar o inquérito (Processo n. 0030792-44.2018.8.26.0506) quanto à conduta tipificada no art. 29, § 1º, III, da Lei n. 9.605/1998.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 3ª Vara Criminal de Ribeirão Preto/SP, o suscitante, e o Juízo Federal da 6ª Vara de Ribeirão Preto - SJ/SP, o suscitado.
+Consta dos autos que, durante investigação realizada pela Polícia Militar Ambiental, na residência do investigado [NOME], foram encontradas quatorze aves silvestres, sendo que, em duas delas, foram verificadas irregularidades nas anilhas (fl. 56).
+Os autos do inquérito foram encaminhados à Justiça Federal de Ribeirão Preto - SJ/SP, sendo autuados sob o n. 0006420-33.2017.4.03.6102 e distribuídos ao Juízo da 6ª Vara Federal local, que acolhendo a opinião do Ministério Público Federal, declinou da competência em favor da Justiça estadual, por não vislumbrar a prática do crime tipificado no art. 296, § 1º, III, do Código Penal, nem interesse da União ou da autarquia federal na conduta relativa ao crime ambiental (art. 29, § 1º, III, da Lei n. 9.605/1998). Eis a decisão (fl. 56):
+Trata-se de inquérito policial instaurado para averiguar a prática, em tese, dos crimes tipificados no art. 296, § 1º, inciso III, do Código Penal e do art. 29, § 1º, inciso III, da Lei n.º 9.605/98.
+Segundo noticiado nos autos, durante fiscalização realizada pela Polícia Militar Ambiental, na residência do investigado [NOME], foi encontrado no local, quatorze aves silvestres, sendo que em duas delas, foram verificadas irregularidades nas anilhas.
+Tais espécimes, canário -da -Terra e Trinca -ferro, não figuram na Lista Nacional de Espécimes da Fauna Brasileira Ameaçada de Extinção (Portaria do Ministério do Meio Ambiente n.º 444/2014, anexo I), o que atrairia a competência da Justiça Federal.
+Ademais, ainda que haja indícios de suposta falsificação e/ou adulteração de selo público do IBAMA (anilhas), não há elementos seguros de que o investigado tivesse a intenção de utilizá-los em detrimento da autarquia.
+O Ministério Público Federal se manifesta pela incompetência desta Justiça Federal, por entender que não se vislumbra lesão a bens, serviços ou interesses da União, suas autarquias ou empresas públicas (fls. 42/45).
+Compartilho do entendimento esposado pelo i. membro do parques federal, razão por que acolho o parecer de fls. 42/45, adotando-o como razão de decidir, e o faço para declinar da competência para conhecer deste processo.
+Considerando, por derradeiro, que compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença da União no processo (STJ, Súmula 150), determino a remessa deste inquérito policial à Justiça Estadual da Comarca de Ribeirão Preto/SP.
+Na Justiça estadual (comarca de Ribeirão Preto/SP), o procedimento foi reautuado sob o n. 0030792-44.2018.8.26.0506 e distribuído ao Juízo da 3ª Vara Criminal local, que suscitou o conflito, acolhendo a opinião ministerial, no sentido de que o uso de anilhas falsificadas, com símbolos caracterizados da administração pública federal, atraia o interesse federal nas condutas apuradas no inquérito (fl. 72).
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo estadual (fls. 82/83):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO ESTADUAL E JUÍZO FEDERAL. MANUTENÇÃO EM CATIVEIRO DE PÁSSAROS SILVESTRES SEM A DEVIDA IDENTIFICAÇÃO - ART. 29, § 1º, III, DA LEI 9.605/98 E COM ANILHAS SUPOSTAMENTE ADULTERADAS - ART. 296, § 1º, III, DO CÓDIGO PENAL.
+INTERESSE DA UNIÃO NÃO CARACTERIZADO.
+- Inquérito Policial (IP nº 0905/2017-4 DPF/RPO/SP, proc. nº 006420- 33.2017.403.6102), instaurado para apurar a possível prática de infrações consubstanciadas na manutenção em cativeiro de pássaros silvestres sem a devida identificação (art. 29, § 1º, III, da Lei 9.605/98) e com anilhas supostamente adulteradas (art. 296, § 1º, III, do Código Penal).
+- A competência para processar e julgar os crimes contra a fauna é da Justiça Estadual, exceto nos casos em que há demonstração de que a ofensa atingiu interesse direto e específico da União, de suas entidades autárquicas ou de empresas públicas federais (competência da Justiça Federal). Precedentes.
+- Embora seja o órgão federal responsável pela autorização e fiscalização da criação em cativeiro de espécies da fauna silvestre brasileira, verifica-se que tal fato, por si só, não basta para configurar o interesse federal na apuração de eventual crime ambiental.
+- No que pertine ao delito de falsificação de selos públicos (anilhas IBAMA), observa-se que dos autos não restou evidenciado que o investigado tinha a intenção de comercializar os pássaros apreendidos ou pretendesse fazer uso das anilhas ou de qualquer outro selo, sinal identificador ou emblema do IBAMA de modo a abalar a crença nos deveres funcionais da autarquia ou seus interesses econômicos ou fiscalizatórios numa escala pública.
+- Parecer pelo conhecimento do conflito, para declarar competente o Juízo Suscitante - Juízo de Direito da 3ª Vara Criminal de Ribeirão Preto - SP.
+É o relatório.
+Como relatado, o inquérito noticia duas condutas delitivas: a manutenção irregular de espécie da fauna em cativeiro (art. 29, § 1º, III, da Lei n. 9.605/1998) e a utilização de sinal público falsificado (art. 296, § 1º, III, do CP).
+No que se refere à primeira conduta, não há interesse federal.
+O Pleno do Supremo Tribunal Federal, apreciando o tema 648 da repercussão geral, fixou a seguinte tese: Compete à Justiça Federal processar e julgar o crime ambiental de caráter transnacional que envolva animais silvestres, ameaçados de extinção e espécimes exóticas ou protegidas por compromissos internacionais assumidos pelo Brasil.
+No caso, não há indicação de que nenhuma das aves seja exótica, nem que figure na lista de espécies ameaçadas de extinção ou protegidas por compromissos internacionais, tampouco há indícios de transnacionalidade na conduta, circunstâncias que, por ora, firmam a competência estadual para processar o feito.
+De outra parte, quanto ao uso de sinal público falsificado, embora o Juízo estadual tenha cogitado da ocorrência de crime de competência federal, verifica-se que o Ministério Público Federal, enquanto titular da ação penal pública, entendeu por não oferecer denúncia, ao argumento de que não há indícios de dolo na conduta (fls. 52/53):
+ ..
+Além disso, embora haja comprovação de que a falsificação de selos públicos do IBAMA (anilhas) tenha ocorrido, não há evidências que o investigado tivesse a intenção de comercializá-los, bem como não consta que pretendesse fazer uso das anilhas ou de qualquer outro selo, sinal identificador ou emblema do IBAMA de modo que pudesse abalar a crença nos deveres funcionais da autarquia ou seus interesses econômicos ou fiscalizatórios numa escala pública.
+ ..
+O Juiz Federal, por seu turno, anuiu com a conclusão (fl. 56).
+Assim, especificamente em relação a essa conduta, há nítido arquivamento, tendo o Juízo Federal atuado dentro da sua esfera de jurisdição.
+Nesse sentido, confira-se:
+ ..
+2. Arquivado o inquérito relativamente ao crime de roubo pela autoridade reconhecidamente competente, resta a remessa dos autos ao juízo competente para a apreciação do crime de receptação.
+3. Conflito não conhecido.
+(CC n. 62.104/SP, Ministra Maria Thereza de Assis Moura, Terceira Seção, DJ 17/9/2007)
+Em face do exposto, acolhendo o parecer, conheço do conflito para declarar a competência do Juízo de Direito da 3ª Vara Criminal de Ribeirão Preto/SP, o suscitante, para processar o inquérito (Processo n. 0030792-44.2018.8.26.0506) quanto à conduta tipificada no art. 29, § 1º, III, da Lei n. 9.605/1998.
+Dê-se ciência aos Juízes envolvidos.
+Publique-se.
