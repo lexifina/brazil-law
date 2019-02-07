@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. LEI N. 12.777/2010. NOVA ESTRUTURA REMUNERATÓRIA. OPÇÃO. TÉCNICO DO IPHAN. IMPOSSIBILIDADE. CARGO NÃO CONTEMPLADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 253):
+ADMINISTRATIVO. PLANO DE CARREIRA. OPÇÃO POR NOVA ESTRUTURA REMUNERATÓRIA. ART. 19 DA LEI 12.277/10.
+O autor não se enquadra no rol taxativo de categorias profissionais abarcadas pela Lei 12.277/2010, motivo pelo qual não possui direito à nova estrutura salarial.
+Nas razões da presente irresignação, o recorrente alega violação dos arts. 41, §4º, da Lei 8.112/90 e 19 da Lei 12.277/2010, além de dissídio jurisprudencial, sob os seguintes argumentos: (a) "os únicos servidores que puderem optar pela Estrutura Remuneratória Especial, instituída pela Lei nº 12.277/2010, não ingressaram originariamente no IPHAN, através de concurso público de provas, ou provas e títulos, mas foram redistribuídos de órgãos/entes outros, embora, como dito, detenham a mesma qualificação profissional e técnica, desempenhem as mesmíssimas atividades e atribuições no mesmo órgão/ente, assumam as mesmas responsabilidades dos demais integrantes da referida autarquia, sujeitem-se ao mesmo regime jurídico remuneratório e percebam o mesmo vencimento básico do autor" (fl. 264); e (b) "não se discute propriamente no presente feito equiparação funcional, mas apenas a possibilidade de o autor, que desenvolve as mesmas atividades/atribuições, assume as mesmas responsabilidades e possui mesmo regime jurídico e padrão de vencimentos dos demais arquitetos, engenheiros etc. do IPHAN - subsumidos aos códigos identificadores nº 442017 (arquiteto), 442036 (engenheiro agrônomo); 442037 (engenheiro civil); 442035 (engenheiro) etc., previstos no Anexo XII -, possa, também, realizar a opção pela Estrutura Remuneratória Especial, instituída pela Lei nº 12.277/2010" (fl. 265).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 595.
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+Com efeito, colhe-se do acórdão recorrido a seguinte fundamentação (fls. 247-251, grifos no original):
+ ..
+Quanto ao mérito, analisando caso idêntico ao dos autos, transcrevo excerto da sentença da lavra do Juiz Federal Francisco Donizete Gomes (processo nº 5032389- 19.2015.404.7100), nos seguintes termos:
+(..) A Lei nº 12.277/12, invocada pela autora para amparar o seu direito, dispôs, entre diversas matérias, sobre a estrutura remuneratória dos cargos de engenheiro, arquiteto, economista, estatístico e geólogo regidos pela Lei nº 8.112/90, e, no que interessa ao caso dos autos, assim estatuiu:
+CAPÍTULO VII
+DA ESTRUTURA REMUNERATÓRIA DE CARGOS ESPECÍFICOS
+Art. 19. Fica instituída Estrutura Remuneratória Especial para os cargos de provimento efetivo, de nível superior, de Engenheiro, Arquiteto, Economista, Estatístico e Geólogo, regidos pela Lei no 8.112, de 11 de dezembro de 1990, integrantes dos Planos de Carreiras e de Cargos referidos no Anexo XII desta Lei.
+ ..
+O Anexo XII referido no caput do artigo 19 facultou a opção aos servidores ocupantes dos cargos de engenheiro, arquiteto, economista, estatístico e geólogo das seguintes carreiras:
+ ..
+- Plano Especial de Cargos da Cultura - Lei nº 11.233/05;
+ ..
+A autora é ocupante do cargo de Técnico - Arquitetura e Urbanismo (técnico I, classe A, padrão IV, cf. E1-CHEQ9) do Iphan, regido pela Lei nº 11.233/05, acima indicada, que criou o plano especial de cargos da cultura.
+Não há controvérsia quanto à exigência, para ao desempenho desse cargo, de curso superior em Arquitetura e Urbanismo, conforme reconhecido pelo Iphan em sua contestação e como consta dos documentos juntados com a defesa. É o que consta, por exemplo, do edital do último concurso para o Iphan (Edital nº 1, de 23/9/2009), citado na Nota Técnica nº 261/2011/CGNOR/DENOP/SRH/MP (E6-PROCADM2, pp. 9-11):
+ ..  3.2.2.2.1. REQUISITOS DE FORMAÇÃO ACADÊMICA: Diploma de conclusão de curso de graduação em Arquitetura e Urbanismo, fornecido por instituição de ensino superior reconhecida pelo Ministério da Educação e registro no respectivo órgão de classe. (grifou-se)
+Nada obstante isso, e independentemente das atividades realizadas pela autora - se são semelhantes, ou não, às atividades dos cargos de arquiteto de outras carreiras do serviço público federal - é fato que o cargo por ela ocupado não foi contemplado pela Lei nº 12.277/10 para opção pela nova estrutura remuneratória, como visto.
+Nesta linha, embora o seu pedido possa ser reconhecido como justo, não há como acolhê-lo à míngua de previsão legal. Com efeito, em sendo a lei clara e expressa a respeito dos cargos abrangidos pela possibilidade de opção pela nova estrutura remuneratória, não há como estendê-la aos Técnicos em Arquitetura e Urbanismo, ou aos eventuais Técnicos em Economia, Engenharia, Estatística e Geologia, sob o fundamento de isonomia.
+O pedido, dessa forma, esbarra na jurisprudência do Supremo Tribunal Federal, consolidada na recente Súmula Vinculante nº 37:
+Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+Dito de outra forma, o pedido da demandante envolve questão de ordem legislativa, que deve ser solucionada pelo Poder Legislativo, na via própria, e não perante o Poder Judiciário, por via oblíqua. A lei emanada do Legislativo elegeu um critério - possibilitar a servidores ocupantes de determinados cargos, a opção por um novo plano de carreira -, por razões que não cabe ao Judiciário investigar.
+A Lei nº 12.277/10, tendo instituído um novo regime jurídico mais benéfico aos servidores, é norma que deve ser interpretada restritivamente, segundo o princípio da legalidade. Ou seja, as hipóteses nela previstas para adesão à nova estrutura são taxativas e não se pode ampliar seus efeitos além daquilo que está nela literalmente escrito.
+Nesse sentido já se manifestou o Tribunal Regional Federal da 4ª Região a respeito do caso:
+SERVIDOR. PLANO DE CARREIRA. OPÇÃO POR NOVA ESTRUTURA REMUNERATÓRIA. LEI 12.277/2010. Os autores não se enquadram no rol taxativo de categorias profissionais abarcadas pela Lei 12.277/2010, motivo pelo qual não possuem direito à nova estrutura salarial. (TRF4, AC 5017390-91.2011.404.7200, Quarta Turma, Relator p/ Acórdão Candido Alfredo Silva Leal Junior, juntado aos autos em 24/05/2013) (grifou-se)  ..
+ No caso dos autos, em que pese a constatação de que o cargo do autor (Técnico) possui grande semelhança de atribuições e nível de escolaridade daqueles previstos na Lei nº 12.277/10, não há como estender o pretendido enquadramento e a percepção da Gratificação de Desempenho de Atividade de Cargos Específicos (GDACE), uma vez que a referida legislação possui um rol taxativo dos cargos contemplados, não incluindo o cargo de Técnico.
+ ..
+Ao que se tem, a revisão da conclusão a que chegou o Tribunal de origem, no sentido de que o recorrente não preenche os requisitos da Lei 12.277/10 para optar pela nova estrutura remuneratória, sendo que o cargo que ocupa não está contemplado nesta legislação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido, as seguintes decisões monocráticas: AREsp 1.233.474/RJ, Rel Min. Sérgio Kukina, DJe: 11/04/2018; AREsp 1.240.644/RJ, Rel Min. Sérgio Kukina, DJe: 02/03/2018.
+Por fim, registra-se que o dissídio jurisprudencial não foi demonstrado nos moldes estabelecidos nos artigos 1.029, §1º, do CPC/2015 e 255, §§ 1º e 2º do RISTJ, pois não realizado o devido cotejo analítico. Imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
