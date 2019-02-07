@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ORGANICA - FARMACIA DE MANIPULACAO LTDA à decisão de fls. 252/253, que não conheceu do recurso.
+Sustenta a parte embargante que "Ocorre, que Vossa Excelência analisou assunto diverso, sem qualquer relação com o processo telado, fundamentando todas a sua decisão na falta de preparo do recurso, o que não ocorreu." (fl. 258).
+Ainda, aduz, que "Percebe-se claramente erro material na decisão, onde no relatório esclarece que "Mediante análise dos autos, o recurso especial não foi devidamente preparado, uma vez que não foi recolhida a importância devida a título de custas, de acordo com a legislação local".(fls. 258/259).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem devido recolhimento das custas, Assim, incide, na espécie, o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgRg no AREsp 165.686/BA, 1ª Turma, Rel. Min. Ari Pargendler, DJe de 1º/9/2014; e AgRg no AREsp 425.678/SC, 4ª Turma, Rel. Min. Luis Felipe Salomão, DJe de 7/3/2014.
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
