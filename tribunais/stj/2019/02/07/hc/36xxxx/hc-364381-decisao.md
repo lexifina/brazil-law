@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. PLEITO DE REABERTURA DO PRAZO PARA O OFERECIMENTO DAS RAZÕES DE APELAÇÃO. PRÉVIO WRIT NÃO EXAMINADO PELA CORTE DE ORIGEM POR SER CABÍVEL NA ESPÉCIE REVISÃO CRIMINAL. INEXISTÊNCIA DE EVIDENTE ILEGALIDADE A JUSTIFICAR A UTILIZAÇÃO DA VIA ELEITA.
+Writ não conhecido.
+DECISÃO
+Em razão do acórdão do Tribunal de Justiça do Rio Grande do Sul que não conheceu do HC n. [CPF], impetra-se este habeas corpus em nome de [NOME] - condenada como incursa nos arts. 33, caput, e 35, caput, c/c o art. 40, VI, todos da Lei n. 11.343/2006, à pena de 10 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, mais multa (Processo n. 023/2.11.0005388-5, da 3ª Vara Criminal da comarca de Rio Grande).
+Aponta-se ilegalidade no indeferimento, pelo Juízo a quo, do pedido de reabertura do prazo para oferecimento de novas razões de apelação, o que foi feito ao fundamento de ocorrência de preclusão consumativa.
+Aduz-se que não pode a coacta restar "forçada" a tolerar a exclusiva atuação de profissional que não mais detém sua confiança em razão de pura "antecipação" deste na interposição de recurso em relação à condenação da qual ainda não havia a paciente sequer sido intimada (fl. 4).
+Sustenta-se, ainda, que deixou a autoridade coatora na necessária análise dos autos de proceder com a determinação de que fosse operada a inclusão do novo defensor da paciente nos autos (mais uma vez) e a exclusão do anterior em função da revogação de poderes (fl. 6).
+Requer-se a anulação dos atos posteriores à prolação da sentença, determinando-se a reabertura do prazo para oferta das razões recursais pelo atual patrono constituído, com o imediato recolhimento do mandado de prisão.
+No recesso forense, a Ministra Laurita Vaz, então Vice-Presidente, no exercício da Presidência, indeferiu o pedido liminar.
+Depois de prestadas informações, os autos seguiram ao Ministério Público Federal, que opinou nos termos do parecer de fls. 461/470.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente.
+No caso, o alegado constrangimento não se apresenta com a nitidez imprimida na inicial, haja vista que, conforme ressaltado pelo Juízo de origem, à época em que apresentado o recurso, o então Defensor possuía regulares poderes para tanto (fl. 397).
+Vale ressaltar que, nos termos do art. 392, inciso II, do Código de Processo Penal, tratando-se de réu solto - como é o caso dos autos -, é suficiente a intimação do seu causídico da sentença condenatória proferida em primeiro grau, não se exigindo a intimação pessoal do acusado quando o advogado já teve ciência da prolação do édito (HC n. 417.633/ES, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/2/2018).
+Além disso, uma vez praticado o ato processual, este, como regra, é abarcado pelo instituto da preclusão consumativa, não se podendo admitir a apresentação de novos argumentos ante a constituição de diferentes advogados para representá-lo, o que, além de acarretar tumulto processual, feriria o princípio do contraditório, pois ensejaria desequilíbrio entre os sujeitos atuantes no processo (AgRg no AREsp n. 809.662/GO, Ministro Jorge Mussi, Quinta Turma, DJe 1º/6/2018).
+Quanto à alegação de que não houve a inclusão nos autos do novo defensor, foi reconhecida na origem a instrução deficiente, o que tem amparo na jurisprudência desta Corte.
+Não há o que censurar, portanto, na decisão do Tribunal a quo, de não conhecer do writ lá impetrado.
+Nesse sentido também é a manifestação da Subprocuradora-Geral da República Maria das Mercês de [NOME], deste teor (fls. 465/470 - grifo nosso):
+ ..
+Desse modo, não há falar, como pretende a Defesa,na desconstituição do trânsito em julgado do acórdão proferido, a fim de que seja devolvido o prazo para a apresentação de novas razões de apelação, pelo fato de ter a acusada constituído novo Defensor.
+Como já salientado, à época da prolação do édito condenatório, [NOME] [NOME] ALVES era representada, nos autos pelo Dr. CIRO CARNEIRO FILHO, que, atuando de forma diligente, apelou da sentença condenatória e pugnou pela absolvição da ré, ou, subsidiariamente, pela redução da pena aplicada.
+Somente no dia 01.10.2015, a acusada nomeou novo Defensor para atuar no feito - Dr. FÁBIO QUADRO DA ROSA, requerendo, na ocasião, a devolução do prazo para apresentar novas razões recursais à apelação interposta pelo causídico anterior.
+Portanto, não merece acolhida o pedido defensivo.
+É que a constituição de novo advogado nos autos não implica a interrupção, a suspensão ou a devolução de qualquer prazo processual, recebendo o novo patrono o processo no estado em que se encontra.
+Na situação sob análise, o antigo advogado da ré, Dr. CIRO CARNEIRO FILHO, era quem tinha poderes para interpor apelação, não se podendo cogitar na devolução do prazo recursal em razão da nomeação de novo causídico para exercer a defesa da acusada, por já haver se operado, quanto àquele ato processual, a preclusão consumativa.
+ ..
+Na mesma linha de posicionamento tem se manifestado esse [NOME], no sentido de que, havendo sido as partes devidamente intimadas da sentença condenatória, não é possível a reabertura de prazo recursal por força da nomeação de novo causídico pelo acusado, por já haver se operado a preclusão, conforme se verifica do julgado adiante transcrito:
+EMENTA (parcial). "PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. 1. TRÁFICO DE DROGAS. AUSÊNCIA DE APRESENTAÇÃO DAS RAZÕES DO RECURSO DE APELAÇÃO INTERPOSTO NOS TERMOS DO ART. 600, § 4º, DO CÓDIGO DE PROCESSO PENAL. NULIDADE. INEXISTÊNCIA. ADVOGADO CONSTITUÍDO NOS AUTOS DEVIDAMENTE INTIMADO. IMPOSSIBILIDADE DE DEVOLUÇÃO DO PRAZO RECURSAL A OUTRO DEFENSOR QUANDO JÁ CONSUMADA A PRECLUSÃO TEMPORAL.
+(..)
+Inexiste nulidade, se o advogado constituído do réu, a despeito de regularmente intimado pela imprensa oficial, permanece inerte e não apresenta as razões de apelação.
+2. O substabelecimento a novo advogado, após o transcurso do prazo para a apresentação das razões do recurso de apelação, não impõe a reabertura do lapso para o protocolo da peça processual e nem obriga à intimação do novo causídico para fazê-lo, haja vista a ocorrência de preclusão lógica (perda de uma faculdade processual), recebendo o defensor o processo no estado em que se encontra. A inércia do advogado constituído pelo réu, que perde o prazo para a apresentação das razões recursais, não é causa de suspensão ou interrupção de prazos.
+3. A reabertura de prazo recursal para advogado constituído após a perda do lapso recursal pelo causídico anterior viola os princípios da celeridade processual, da segurança jurídica, da razoabilidade, da lealdade processual e da boa-fé objetiva, por permitir manobras ardilosas objetivando a reabertura de prazo recursal diante da inércia da defesa dentro do prazo previsto em lei.
+(..)
+5. Agravo regimental a que se nega provimento. Concessão de habeas corpus de ofício, para redimensionar a pena do agravante para 5 (cinco) anos de reclusão e 500 (quinhentos) dias- multa, com extensão da ordem ao corréu [NOME], cuja pena vai definida em 5 (cinco) anos e 6 (seis) meses de reclusão e 700 (setecentos) dias-multa, mantidos os demais termos da condenação." (STJ - AgRg no Ag 1.319.158/TO - Relator Ministro MARCO AURÉLIO BELLIZZE - Quinta Turma - Julgado em 26.11.2013 - DJe 04.12.2013) - Destaque nosso.
+Como [NOME] [NOME] ALVES e seu Patrono - à época regularmente constituído nos autos - foram devidamente intimados do édito condenatório, é válida e eficaz a certidão do trânsito em julgado.
+Ante o exposto, não conheço do presente writ.
+Publique-se.
