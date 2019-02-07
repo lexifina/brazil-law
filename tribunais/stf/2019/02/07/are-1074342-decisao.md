@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    O Tribunal de origem, ao reexaminar os autos a fim de aplicar o art. 1.030, I e II, do Código de Processo Civil, afirmou que houve equívoco quando da primeira remessa destes autos ao Supremo Tribunal Federal, haja vista que deveriam ter sido enviados à Turma Regional de Uniformização de Jurisprudência (doc. 11, f. 241).
+    Após decisão que negou provimento ao agravo interposto contra decisão que não admitiu o pedido de uniformização de jurisprudência (doc. 11, fl.243/244), o Presidente da TRU, em sede de embargos de declaração, determinou nova remessa dos autos a esta Corte para apreciação do agravo em recurso extraordinário (doc. 11, fl. 248/249).
+    Conforme já manifestado nos autos, este Supremo Tribunal submeteu as questões trazidas no presente processo à sistemática da repercussão geral (Recurso Extraordinário n. 870.947/SE, Tema n. 810: repercussão geral reconhecida e mérito julgado).
+    Anote-se que a jurisprudência da Corte é pacífica no sentido de que a existência de precedente firmado por seu Tribunal Pleno autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma. Vide:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REAFIRMAÇÃO DA JURISPRUDÊNCIA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. RE 855.178-RG. JULGAMENTO IMEDIATO. POSSIBILIDADE. TRÂNSITO EM JULGADO. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE nº 909.527/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/5/16).
+    “Agravo regimental em recurso extraordinário. 2. Direito Processual Civil. 3. Insurgência quanto à aplicação de entendimento firmado em sede de repercussão geral. Desnecessidade de se aguardar a publicação da decisão ou o trânsito em julgado do paradigma. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental” (RE n° 1.129.931/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 27/8/18).
+    Entretanto, o eminente Ministro Luiz Fux, Relator do feito paradigma da repercussão geral, conferiu efeito suspensivo aos embargos de declaração por meio dos quais se busca a modulação dos efeitos da decisão tomada pelo Plenário desta Suprema Corte, o que impõe, excepcionalmente, diante dessa peculiaridade, que se aguarde o julgamento dos referidos embargos declaratórios pelo Plenário do STF para que a Corte de origem aplique a sistemática da repercussão geral no caso em tela.
+    Pelo exposto, mantenho a devolução destes autos ao Tribunal de origem para que, após a conclusão do julgamento dos embargos de declaração no RE nº 870.947/SE, sejam observados os procedimentos previstos nos incs. I e II do art. 1.030 do Código de Processo Civil (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
