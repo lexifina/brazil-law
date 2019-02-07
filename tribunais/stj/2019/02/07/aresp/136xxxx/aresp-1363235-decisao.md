@@ -1,0 +1,35 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+PENAL. PROCESSO PENAL. CRIME DE FURTO TENTADO. ART. 155, § 1o C/C ART. 14. II, AMBOS DO CP. MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. DOSIMETRIA DA PENA.
+1. Materialidade e autoria comprovadas nestes autos, notadamente através da comunicação em flagrante nº 0001667-36.2015.4.02.5001, além das demais provas produzidas durante a instrução criminal, como as imagens do circuito de monitoramento da agência bancária reproduzidas na sentença e a prova testemunhai colhida em juizo. não deixando dúvidas de que o Réu, com vontade livre e consciente, tentou furtar valores e objetos da agência bancária da CEF.
+2. O julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59. do Código Penal, a fim de aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime.
+3. Correta a fixação da pena-base acima do mínimo legal, no patamar de 01 (um) ano e 05 (cinco) meses, diante da presença de uma circunstância desfavorável, concernente à personalidade do acusado, sendo certo que a majoração da pena base não decorreu de uma análise subjetiva da personalidade do agente, mas a partir de elementos concretos dos autos, que demonstraram uma personalidade voltada para a prática delitiva.
+5. Inocorrência de bis in idem na exacerbação da pena do delito cometido no curso do cumprimento da pena por outro crime, eis que, a despeito do previsto no artigo 118, I, da Lei de Execuções Penais, aquela teve como fundamento precípuo a avaliação negativa da personalidade do acusado, pela sua falta de comprometimento com ordens emanadas de autoridades constituídas, não, necessariamente, do juízo executivo.
+6. Uma vez reconhecido nos autos não ser o Réu primário, descabe a incidência da causa de diminuição de pena prevista no § 2o do art. 155 do Código Penal, mas, por outro lado, deve ser considerada a reincidência para os efeitos de agravamento do regime de cumprimento de pena e de impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos, eis que são múltiplas as repercussões legais da reincidência, não estando restrita à problemática do agravamento da pena.
+7. O Supremo Tribunal Federal já reconheceu a constitucionalidade dos efeitos reflexos da reincidência (STF, HC 94236).
+8. Apelação desprovida. Sentença confirmada. (e-STJ fl. 358)
+Sustenta a defesa a violação dos arts. 44, § 3º e 59 do Código Penal, alegando, em síntese, ausência de fundamentação idônea para a valoração desfavorável do vetor judicial da personalidade. Sustenta, também, a ocorrência de bis in idem na utilização do mesmo fato (condenação anterior) na primeira fase para majorar a pena-base e na segunda fase a título de reincidência. Aduz, por fim, estarem presentes os requisitos para a substituição da pena corporal por restritiva de direitos.
+Contrarrazões às e-STJ fls. 370/412.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 452/458.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos dão conta de que o agravante foi condenado à pena de 11 (onze) meses e 10 (dez) dias de reclusão, em regime semiaberto, pelo cometimento do crime do art. 155, § 1º, c/c 14, II, do Código Penal.
+Neste recurso, a defesa alega que o vetor judicial relativo à personalidade carece de fundamentação idônea.
+Sem razão, isso porque conforme bem destacou o acórdão regional à e-STJ fl 255, o fato de o réu ter cometido o crime "em horário que deveria estar recolhido ao seu domicilio, em virtude de sua condenação por crime anterior, evidenciando, assim, ser uma pessoa sem comprometimento com o respeito às ordens emanadas das autoridades constituídas, constitui elemento que extrapola o tipo penal e autoriza a majoração da pena-base. Nessa linha: AgRg no REsp 1589304/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 07/11/2016.
+Não há também que se falar em bis in idem, porquanto a personalidade, única circunstância considerada negativa na primeira fase, foi assim avaliada ante a ausência de comprometimento do réu com as normas emanadas das autoridades constituídas e não pela existência de anterior condenação. Nesse sentido, confira-se o seguinte trecho da sentença condenatória.
+Antecedentes:
+O réu ostenta maus antecedentes, pois. na data dos fatos, já havia sido condenado definitivamente pela prática de crime de roubo (art. 157, § 1º, do CP) (fl. 58 destes autos e fls. 111-119 do Processo ne 0001667-36.2015.4.02.5001, em apenso); todavia, a fim de evitar bis in idem, esta condenação será considerada apenas na segunda fase da dosimetria, na forma do art. 61,1, do CP.
+ ..
+Personalidade:
+A personalidade do agente é bastante reprovável, porquanto ele praticou o crime de tentativa de furto pelo qual está sendo condenado nesta sentença na madrugada de 29/07/2015, poucos dias após iniciar o cumprimento de pena privativa de liberdade em regime aberto pela prática de crime de roubo (art. 157, § 1º, do CP), em flagrante descumprimento de uma das regras impostas pelo juízo da execução penal, qual seja, recolhimento domiciliar no horário de 21h00 as 5h00 (fl. 58 destes autos e fls. 111-119 do Processo n. 0001667-36.2015.4.02.5001. em apenso), relevando ser uma que não respeita ordem emanada das autoridades constituídas. Reforça esta conclusão o fato de o réu ter se evadido da prisão em agosto de 2016 e não ter sido localizado até a presente data, conforme se extrai do mandado de prisão nº 9360-39.2010.8.08.0024.0002, extraído do Banco Nacional de Mandados de Prisão (fls. 264-265).
+ ..
+Pena base:
+A pena cominada ao crime do art. 155, caput. do Código Penal é: reclusão de 1 a 4 anos e multa. Diante da existência de uma circunstância desfavorável, fixo a pena base em 1 ano e 5 meses de reclusão e 59 dias-multa.
+ ..
+Segunda Fase:
+Incide a circunstância atenuante prevista no art. 65, inciso III. "d", pois o réu confessou ser o autor do crime na fase investigativa e perante este juízo.
+Presente, ainda, a circunstância agravante prevista no art. 61, I, do CP, por ser o réu reincidente (fl. 58 destes autos e fls. 111-119 do Processo n. 0001667- 36.2015.4.02.5001, em apenso).
+Em obediência ao atual entendimento do STJ, compenso as circunstâncias agravante e atenuante acima mencionadas.
+Por fim, inviável a substituição da pena privativa de liberdade por restritivas de direitos, tendo em conta a reincidência do recorrente e a existência de circunstância judicial desfavorável. A propósito: HC 470.168/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 30/10/2018.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final do RISTJ, conheço do agravo para negar seguimento ao recurso especial.
+Publique-se. Intimem-se.
