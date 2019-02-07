@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. IRRISÓRIOS. OFENSA AO ART. 20, §§ 3º E 4º DO CPC/1973. POSSIBILIDADE DE REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto pelo Município do Rio de Janeiro contra decisão da Corte de origem que não admitiu o recurso especial pelo teor da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão oriundo da Quinta Câmara Cível do Tribunal de Justiça do Rio de Janeiro, assim ementado (fls. 481-489):
+Apelação cível. Embargos à execução. Condenação dos embargados aos honorários advocatícios. Aplicável a teoria da causalidade. Inteligência da Súmula 303/STJ. Litigiosa a constitucionalidade do título. Sustada a sua eficácia em medida cautelar, cujo trânsito deu- se antes da citação do embargante. Silêncio dos embargados. Desistência não pronunciada a tempo. Sucumbência mantida. Montante arbitrado em dissonância com o disposto no art. 20, § 4º do CPC/73. Complexidade diminuta da causa. Sentença reformada. Apelo a que se dá parcial provimento.
+Embargos de declaração rejeitado (fls. 518-522).
+O recorrente sustenta violação ao art. 20, §§ 3º e 4º do CPC/1973. Para tanto, argumenta que a verba sucumbencial arbitrada não se revela compatível com a importância da causa, uma vez que para o valor em execução de quase dois milhões de reais, o acórdão recorrido fixou o valor irrisório de R$ 2.000,00 (dois mil reais), "incompatível com a natureza e importância do trabalho realizado" (fl. 534, e-STJ).
+Requer ao final o provimento do recurso, "a fim de que seja majorado os honorários, e restaurada a inteireza do ordenamento processual" (fl. 544, e-STJ).
+Com contrarrazões (fls. 550-565).
+O agravante sustenta em suas razões que o seu recurso especial satisfaz os requisitos de admissibilidade, não se encontrando os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Na origem, cuida-se de sentença em embargos à execução proposta no valor de R$ 1.936.694,46 em que foi reconhecida a inexigibilidade do título cobrado, em face de decisão prolatado em ação rescisória, condenando a embargada ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa.
+O acórdão recorrido reformou parcialmente a sentença, reduzindo os honorários advocatícios para R$ 2.000,00 (dois mil reais), sob o fundamento de que "se não existe mais execução, já que o título judicial foi desconstituído por ação rescisória, inexiste valor de execução e valor dos Embargos à execução, o que torna sem valor a condenação imposta" (fl. 488, e-STJ), concluindo que a importância estaria em consonância com os parâmetros da proporcionalidade e razoabilidade.
+De início, no que diz respeito ao art. 20, §§3º e 4º, do CPC/1973, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os valores fixados a título de honorários advocatícios somente podem ser modificados em situações excepcionais, quando se mostrarem irrisórios ou exorbitantes, de modo a afrontar os parâmetros da razoabilidade.
+No presente caso, o Tribunal de origem, ao analisar os elementos fáticos dos autos, concluiu que o montante de R$ 2.000,00 (dois mil reais) é suficiente para retribuir o trabalho dos procuradores da municipalidade do Rio de Janeiro.
+Para se chegar a entendimento diverso do contido na decisão hostilizada, necessário seria proceder-se ao revolvimento das provas apresentadas, finalidade que escapa ao âmbito do apelo manejado, nos termos do enunciado n. 7 da súmula do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. OFENSA À RAZOABILIDADE E PROPORCIONALIDADE. POSSIBILIDADE DE REVISÃO DO JUÍZO DE EQUIDADE. EXCEPCIONALIDADE CONFIGURADA.
+1. Na forma da jurisprudência do STJ, vencida a Fazenda Pública, para a fixação do quantum dos honorários advocatícios, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, §§ 3º e 4º, do CPC/1973, utilizando-se do juízo de equidade e podendo adotar como base de cálculo o valor da causa, o valor da condenação ou mesmo arbitrar valor fixo, não ficando adstrito aos percentuais legalmente previstos. Posicionamento firmado sob o rito do art. 543-C do CPC/1973 (REsp 1.155.125/MG, Rel. Min. Castro Meira, Primeira Seção, DJe de 6/4/2010).
+2. É pacífico, nesta Corte Superior, o entendimento de que, em regra, a revisão do valor fixado em honorários advocatícios exige novo exame dos fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. Esse obstáculo apenas pode ser afastado quando se verificar excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, o montante fixado equivale a 0,01% do valor da causa, percentual este que é desproporcional ao proveito econômico discutido (R$ 8.184.855,84), configurando-se a hipótese da irrisoriedade. Assim, cabível a revisão da verba com sua consequente majoração para 1% do valor atribuído à causa.
+4. Agravo interno não provido.
+(AgInt no REsp 1465953/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 26/9/2018)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
