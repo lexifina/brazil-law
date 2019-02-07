@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 754):
+APELAÇÃO. AÇÃO ANULATÓRIA DE AUTOS DE INFRAÇÃO E IMPOSIÇÃO DE MULTA ADMINISTRATIVA PELO PROCON CARIOCA EM DECORRÊNCIA DE INFRAÇÃO A NORMAS DE COMÉRCIO ELETRÔNICO, PREVISTAS NO DECRETO FEDERAL Nº 7962/2013. SENTENÇA DE PROCEDÊNCIA QUE ANULOU OS AUTOS DE INFRAÇÃO. DESACERTO DO JULGADO. O PROCON CARIOCA, ÓRGÃO INTEGRANTE DO SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR, POSSUI COMPETÊNCIA PARA APURAR E PUNIR INFRAÇÕES À LEGISLAÇÃO CONSUMERISTA, NA FORMA DO ARTIGO 5º DO DECRETO 2.181/97. O FATO DE SE TRATAR DE COMÉRCIO ELETRÔNICO, DE ÂMBITO NACIONAL, NÃO EXCLUI A COMPETÊNCIA DO ÓRGÃO DE DEFESA DOS DIREITOS DO CONSUMIDOR LOCAL, SOBRETUDO PORQUE OS CONSUMIDORES DA CIDADE DO RIO DE JANEIRO ENCONTRAM-SE EXPOSTOS ÀS PRÁTICAS IRREGULARES APURADAS. AUSÊNCIA DE PROVAS ACERCA DA APURAÇÃO DOS MESMOS FATOS POR PARTE DOS ÓRGÃOS ESTADUAL E FEDERAL CORRELATOS, NÃO HAVENDO FALAR EM BIS IN IDEM . PROCESSO ADMINISTRATIVO QUE TRAMITOU DE FORMA REGULAR, PERMITINDO A AMPLA DEFESA E O CONTRADITÓRIO À EMPRESA AUTUADA. RESPEITO AOS PARÂMETR OS ESTABELECIDOS NO PARÁGRAFO ÚNICO DO ART. 57 DO CÓDIGO DE DEFESA DO CONSUMIDOR QUANTO À ADEQUAÇÃO DA PENALIDADE DE MULTA. RECURSO CONHECIDO E PROVIDO PARA REFORMAR A SENTENÇA APELADA, JULGANDO IMPROCEDENTES OS PEDIDOS. INVERSÃO DO ÔNUS SUCUMBENCIAL.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 57 do CDC. Sustenta, em suma, que a multa foi estipulada tomando como base exclusivamente a condição econômica da ora agravante, o que caracteriza uma punição desproporcional, sem a observância de todos os parâmetros de dosagem da sanção.
+Contrarrazões ao recurso especial às fls. 883/892.
+Contraminuta ao agravo às fls. 991/997.
+É o relatório.
+O Tribunal de origem dirimiu a controvérsia acerca da proporcionalidade da multa com base nos seguintes termos (fl. 762):
+Por fim, nota-se o respeito aos parâmetros estabelecidos no parágrafo único do art. 57 do Código de Defesa do Consumidor quanto à adequação da penalidade de multa. O montante alcançado se justifica pelo fato de terem sido constatadas as irregularidades em três sítios eletrônicos distintos, mostrando-se condizente com a capacidade econômica da apelada.
+Saliente-se que o quantum da multa observou os critérios objetivos estabelecidos pela Anexo II da Resolução ng 2 de 26/03/2012 da SEDECON, em plena consonância com a legislação pertinente, inexistindo indícios do alegado "animus arrecadandi", sendo certo que a multa se destina aos fundos de proteção ao consumidor previstos no CDC.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca da observância, pela Administração, de todos os parâmetros punitivos previstos na legislação e da consequente razoabilidade da multa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENALIDADE ADMINISTRATIVA IMPOSTA PELO PROCON. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL REFLEXA. ANÁLISE DE PORTARIA. IMPOSSIBILIDADE. MULTA EXCESSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I -  ..
+IV - In casu, rever o entendimento do tribunal de origem, que afastou a alegação de excessividade do valor da multa aplicada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ.
+V -  ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.708.740/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/5/2018, DJe 23/5/2018)
+Por fim, cumpre dizer que resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional. Sobre o tema:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. ART. 11 DA LEI 8.429/92. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE CONSIGNA A PRESENÇA DO ELEMENTO SUBJETIVO (DOLO) APTO A CARACTERIZAR O ATO IMPROBO VIOLADOR DOS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1.  ..
+3. Por fim, segundo orientação desta Corte "resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (AgInt no REsp 1.590.388/MG, Rel.
+Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017).
+4. Agravo regimental não provido.
+(AgRg no AREsp 536.696/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 6/12/2018, DJe 19/12/2018)
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
