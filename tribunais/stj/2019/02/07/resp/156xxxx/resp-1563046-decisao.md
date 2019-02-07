@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial manifestado por Prato Feito Alimentação e Serviços Ltda, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 140):
+AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO DO ARTIGO 543-C, § 7º, II, DO CÓDIGO DE PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. PRECATÓRIO. CESSÃO DO CRÉDITO. PEDIDO DE HABILITAÇÃO DO CESSIONÁRIO EM RELAÇÃO À VERBA HONORÁRIA CONTRATUAL.
+Em razão da interposição de Recurso Especial acerca da matéria objeto do RESP 1.102.473/RS, os autos foram novamente remetidos pela Primeira Vice-Presidência deste Tribunal, para a reapreciação do julgado, nos termos do artigo 543-C, § 7º, II, do Código de Processo Civil.
+Honorários Contratuais - Em se tratando de honorários contratuais, não há que se falar em habilitação de crédito cedido pelo advogado que patrocionou a causa, porquanto o valor originalmente executado pertence à parte autora da ação originária. Ademais, ao expediente recursal, não foi juntada qualquer decisão proferida pelo juízo singular deferindo a reserva da verba honorária contratada antes da expedição do requisitório.
+RECURSO DESPROVIDO. UNÂNIME.
+Sustenta a parte recorrente "que o presente recurso especial é cabível com base na alínea "c" do inciso III do artigo 105 da Constituição Federal, em razão do decisum do Tribunal de Justiça do Estado do Rio Grande do Sul ter violado os artigos 23 e 24 da Lei Federal 8.906/94, bem como o art. 5º da Resolução nº 115 do CNJ" (fl. 160).
+Nesse sentido, argumenta que "a contrariedade consiste, fundamentadamente, em ter a decisão atacada entendido pela impossibilidade de ser admitida a habilitação da cessionária, porquanto os honorários advocatícios - objeto da cessão - integram o precatório que foi expedido em nome da autora" (fls. 160/161).
+Afirma que, "segundo a Resolução nº 115 do CNJ, ao advogado de uma causa envolvendo pagamento de precatório ou RPV"s será atribuída a qualidade de beneficiário, quando se tratar de honorários sucumbenciais ou contratuais" (fl. 162).
+Segue afirmando que (fls. 163/164):
+ ..  no momento da cessão de crédito, é apresentado o contrato de honorários ao Tabelionato, para que seja constatada a veracidade do alegado crédito. Nesse ínterim, sabendo-se que o Tabelião tem fé pública e que ocorre a conferencia de todos os documentos atinentes à cessão do crédito do precatório, não há que se falar em ausência de juntada do contrato de honorários, ou da necessidade de requerimento de reserva.
+O artigo 22 do Estatuto da OAB dispõe sobre o direito material do advogado em receber pelos serviços prestados os valores acordados contratualmente e os fixados pelo juízo, conforme o dispositivo abaixo disposto:
+ ..
+O artigo 23 do Estatuto da OAB, disposto pela Lei 8.906/94, determina que os honorários pertencem ao advogado, tendo autonomia para executá-los tanto em seu nome quanto em nome da parte:
+ ..
+O fato do Cedente, advogado, ter executado os honorários sucumbenciais em nome da parte não afasta a sua titularidade do crédito, tendo ampla liberdade para executá-lo ou cedê-lo a terceiros.
+O artigo 24 do Estatuto também dispõe sobre a nulidade de qualquer disposição que retire ao recebimento dos honorários sucubenciais:
+ ..
+Nesse contexto, havendo escritura pública especificando "que o valor cedido refere-se aos honorários contratuais e sucumbenciais dos Processos 105574215, [CPF] e 1072455236,  ..  nos quais o CEDENTE figurou como advogado" (fl. 165), conclui que "não deve ser mantida esta respeitável decisão, considerando que contrária ao entendimento do Tribunal Superior sobre temática, devendo ser reformado a decisão na qual indeferiu a habilitação do crédito cedido" (fl. 166).
+Como paradigmas, aponta os seguintes julgados desta Corte: AgRg no REsp 1.087.479/RS (Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, DJe 05/12/2011); REsp 1.102.473/RS (Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe 27/08/2012).
+Por fim, requer o provimento do recurso especial (fl. 170):
+a) seja reformada a respeitável decisão a fim de que seja deferida a habilitação de crédito cedido amparada pelos artigos 23 e 24, § 3º, da Lei nº 8.906/94, tendo em vista que a manutenção da mesma contraria o entendimento do Superior Tribunal de Justiça sobre a matéria.
+Sem contrarrazões (fl. 226).
+O recurso foi admitido na origem (fls. 233/235).
+É o relatório. Passo a decidir.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016.
+Cuida-se, na origem, de pedido de habilitação formulado pela parte ora recorrente, "como beneficiário dos direitos referentes ao precatório nº 52.517, uma vez que adquiriu, por escritura pública, os direitos creditórios relativos aos honorários advocatícios contratuais" (fl. 35).
+O Tribunal de origem confirmou a decisão de 1º Grau, que indeferiu tal pedido de habilitação a partir de dois fundamentos autônomos, a saber: (a) "o valor originalmente executado pertence à parte exequente", pois "a verba honorária em análise faz parte do crédito em que é detentora a exequente e não o advogado" (fl. 142); (b) "sequer foi juntado ao expediente recursal qualquer decisão proferida pelo juízo singular deferindo a reserva da verba honorária contratada antes da expedição do requisitório" (fl. 142).
+Ocorre que nos acórdãos paradigmas a questão decidida era outra, acerca da possibilidade de cessão dos créditos referentes aos honorários advocatícios sucumbenciais integrantes do precatório expedido em nome da parte. Senão vejamos:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. PROCESSO CIVIL. FORMULAÇÃO DE PEDIDO DE DESISTÊNCIA DA HABILITAÇÃO OBJETO DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. IMPOSSIBILIDADE. CESSÃO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO AUTÔNOMO DO CAUSÍDICO. PRECATÓRIO. ESPECIFICAÇÃO DO CRÉDITO RELATIVO À VERBA ADVOCATÍCIA OBJETO DA CESSÃO DE CRÉDITO. HABILITAÇÃO DO CESSIONÁRIO. POSSIBILIDADE.
+1. De acordo com o Estatuto da Advocacia em vigor (Lei nº 8.906/94), os honorários de sucumbência constituem direito autônomo do advogado e têm natureza remuneratória, podendo ser executados em nome próprio ou nos mesmos autos da ação em que tenha atuado o causídico, o que não altera a titularidade do crédito referente à verba advocatícia, da qual a parte vencedora na demanda não pode livremente dispor.
+2. O fato de o precatório ter sido expedido em nome da parte não repercute na disponibilidade do crédito referente aos honorários advocatícios sucumbenciais, tendo o advogado o direito de executá-lo ou cedê-lo a terceiro.
+3. Comprovada a validade do ato de cessão dos honorários advocatícios sucumbenciais, realizado por escritura pública, bem como discriminado no precatório o valor devido a título da respectiva verba advocatícia, deve-se reconhecer a legitimidade do cessionário para se habilitar no crédito consignado no precatório.
+4. Recurso especial provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1.102.473/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe 27/08/2012)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA. EXECUÇÃO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. DIREITO AUTÔNOMO DO CAUSÍDICO. PRECEDENTES. PRECATÓRIO. CESSÃO DE CRÉDITO. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO
+1. O agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Ainda que o precatório tenha sido expedido em nome da parte, é indiscutível que o crédito consubstanciado nos honorários de sucumbência pertence ao advogado, que detém o direito material de executá-lo ou, se assim o preferir, cedê-lo para terceiro.
+3. De outra ponta, é possível a cessão de crédito por escritura pública dos honorários sucumbenciais, sendo o cessionário detentor de interesse e legitimidade para prosseguir na execução.
+4. Ainda que os honorários tenham caráter alimentar e não devam ser parcelados, cabe ao advogado se insurgir quanto à forma de pagamento adotada pelo devedor, requerendo o desmembramento dos créditos, para que sua verba seja paga via precatório individualizado, expedido em seu favor, em parcela única.
+ 5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.087.479/RS, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, DJe 05/12/2011)
+Logo, conclui-se que o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, uma vez que o acórdão recorrido não guarda a necessária similitude fática com os acórdãos paradigmas.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
