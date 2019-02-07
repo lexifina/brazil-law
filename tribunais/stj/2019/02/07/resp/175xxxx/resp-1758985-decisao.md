@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl.354):
+CONSTITUCIONAL. PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. EMENDAS CONSTITUCIONAIS NºS 20/1998 E 41/2003. MAJORAÇÃO DOS TETOS DO VALOR DOS BENEFÍCIOS. APLICAÇÃO AOS BENEFÍCIOS CONCEDIDOS EM DATA ANTERIOR À MAJORAÇÃO DOS TETOS. POSSIBILIDADE DE UTILIZAÇÃO DOS NOVOS TETOS MAJORADOS EM FASE DE EXECUÇÃO SEM NECESSIDADE DE DETERMINAÇÃO DO JULGADO EXEQUENDO. VERBA HONORÁRIA. FIXAÇÃO ÚNICA PARA A AÇÃO DE EMBARGOS À EXECUÇÃO E PARA A AÇÃO DE EXECUÇÃO. ISENÇÃO DE CUSTAS DO INSS.
+1. A majoração dos novos tetos da renda mensal, estabelecida pelas Emendas Constitucionais nºs 20/1998 e 41/2003, não consiste em recálculo da renda mensal inicial (RMI). Assim, na hipótese do julgado exequendo determinar novo cálculo da RMI, sem referir quanto à aplicação dos novos limites do valor dos proventos em cada competência, deve utilizar-se tais tetos majorados no cálculo em fase de execução. Interpretação que melhor se harmoniza com o que restou decidido pelo STF no julgamento do RE nº 564.354-SE.
+2. A aplicação do teto majorado diretamente ocorre tão-somente após a aplicação do coeficiente de cálculo sobre o salário-de-benefício, isto é, depois do cálculo da renda mensal inicial. Interpretação em consonância com o texto das Emendas Constitucionais nºs 20/1998 e 41/2002 e julgamento proferido pelo STF no RE nº 564.354-SE.
+3. A verba honorária deve ser fixada em conjunto para a ação de execução e os respectivos embargos.
+4. O INSS é isento do pagamento das custas na justiça Federal.
+Opostos embargos de declaração, foram rejeitados (fl. 377)
+Aponta o recorrente violação aos arts. 1.022, II, do CPC/2015, 21, 23 e 25 do Decreto 89.312/84, 40 do Decreto 82.080/79, 6º da LICC e 29, § 2º, da Lei 8.213/91, sustentando, além de negativa de prestação jurisdicional, que não se aplicam os tetos constitucionais estabelecidos pelas Ecs 20/98 e 41/03 a benefícios concedidos em momento anterior à Constituição Federal de 1988.
+Sem contrarrazões.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à tese de que não seriam aplicáveis os tetos constitucionais ao caso concreto, a irresignação também não prospera, pois, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em recurso especial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
