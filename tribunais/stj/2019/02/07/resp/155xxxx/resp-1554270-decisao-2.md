@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. CONTRIBUIÇÃO PARA O PSS. APOSENTADORIA ANTERIOR À EC 41/2003. IRRELEVÂNCIA. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/1973. AUSÊNCIA. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros, com fundamento na alínea a do inciso III do art. 105 do permissivo constitucional, contra acórdão da Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 1.168-1.174):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. COMPENSAÇÃO DE REAJUSTES. CÁLCULOS. REESTRUTURAÇÃO DE CARREIRA. CONTRIBUIÇÃO PARA O PSS. APOSENTADORIA ANTERIOR À EC 41/2003. IRRELEVÂNCIA. JUROS DE MORA. NÃO INCIDÊNCIA. SUCUMBÊNCIA.
+1. Não demonstrado o desacerto das contas elaboradas pela Contadoria Judicial, e não havendo controvérsia sobre o direito ao crédito, resta acertado o julgado que houve por bem acolher a conta oficial, por estar equidistante das partes.
+2. O reajuste de 28,86% não incide sobre reestruturações de carreira, ressalvando-se apenas o princípio da irredutibilidade de vencimentos. Precedentes.
+3. Sobre valores pagos a servidores públicos e a pensionistas por força de cumprimento de decisão judicial (decorrente da relação jurídica com o serviço público), incide desconto para o PSS.
+4. A contribuição para o PSS incide também sobre os proventos dos servidores que se inativaram antes da EC 41/2003, pois o Supremo Tribunal Federal, nos autos da ADI 3128/DF, julgou constitucional o art. 4º, caput, da referida Emenda.
+5. A retenção da contribuição para o PSS deve ocorrer apenas sobre verbas remuneratórias pagas em cumprimento de decisão judicial, e não sobre verbas de natureza indenizatória como os juros de mora.
+4. Tendo a embargada decaído em menor parte, pagará a União honorários advocatícios de sucumbência arbitrados em 10% do valor pelo qual prosseguirá a execução, atendendo precedentes da 2ª Seção desta Corte.
+Os embargos de declaração foram rejeitados (fls. 1.213-1.217).
+Os recorrentes alegam inicialmente violação do art. 535, II, do CPC/1973, sob o pretexto de que o acórdão recorrido omitiu-se sobre a circunstância de que a contribuição previdenciária dos servidores, decorrente de decisão judicial, não incide sobre créditos originados anteriormente à data da vigência da EC 41/2003.
+Requer, ao final, o provimento do recurso, para que seja decretada a nulidade do acórdão proferido no julgamento dos embargos declaratórios.
+Contrarrazões oferecidas às fls. 1.280-187.
+Crivo positivo de admissibilidade à fl. 1.301.
+É o relatório. Passo a decidir.
+Na origem, a sentença entendeu pela parcial procedência do pedido, proferida em embargos à execução individual de título coletivo que deferiu aos substituídos o reajuste de 28,86%, determinando a compensação das parcelas pagas administrativamente, limitando o cálculo às reestruturações de carreira e afastando a incidência de contribuição social - PSS - sobre os juros moratórios.
+O acórdão recorrido negou provimento à apelação da União e deu parcial provimento à apelação da parte autora, apenas para majorar os honorários de sucumbência para 10% sobre o valor pelo qual prosseguirá a execução, nos termos do artigo 20, § 3º e 4º, do Código de Processo Civil.
+Os recorrente sustentam violação do art. 535 do CPC/1973, dizendo que o acórdão recorrido omitiu-se sobre a circunstância de que a contribuição previdenciária dos servidores, decorrente de decisão judicial, não incide sobre créditos originados anteriormente à data da vigência da EC 41/2003.
+Ocorre que o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou:
+Assim, sobre valores pagos a servidores públicos e a pensionistas por força de cumprimento de decisão judicial (decorrente da relação jurídica com o serviço público), incide desconto para o PSS.
+A contribuição incide também sobre os proventos dos servidores que se inativaram antes da EC 41/2003, pois o Supremo Tribunal Federal, nos autos da ADI 3128/DF, julgou constitucional o art. 4º, caput, da referida Emenda, tendo deixado registrado que "No ordenamento jurídico vigente, não há norma, expressa nem sistemática, que atribua à condição jurídico-subjetiva da aposentadoria de servidor público o efeito de lhe gerar direito subjetivo como poder de subtrair ad aeternum a percepção dos respectivos proventos e pensões à incidência de lei tributária que, anterior ou ulterior, os submeta à incidência de contribuição previdencial. Noutras palavras, não há, em nosso ordenamento, nenhuma norma jurídica válida que, como efeito específico do fato jurídico da aposentadoria, lhe imunize os proventos e as pensões, de modo absoluto, à tributação de ordem constitucional, qualquer que seja a modalidade do tributo eleito, donde não haver, a respeito, direito adquirido com o aposentamento".
+No entanto, não cabe promover desconto para o PSS sobre os valores de que trata o artigo supramencionado forem pagos a título indenizatório, como é o caso dos valore recebidos a título de juros de mora.
+Como se denota, ao contrário do que faz crer o recorrente, o Tribunal de origem manifestou-se sim acerca da contribuição do PSS antes da entrada em vigor da EC n. 41/2003.
+Nesse contexto, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
