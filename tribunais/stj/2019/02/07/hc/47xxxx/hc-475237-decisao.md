@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 461.701/SP, JULGADO PELA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. WRIT NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de RICARDO MUSSI DE ALMEIDA JÚNIOR contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido nos autos do HC n.º 2148104-70.2018.8.26.0000, por intermédio do qual foi denegada a ordem pleiteada.
+Consta dos autos que o Paciente foi preso em flagrante, no dia 15/07/2018, juntamente com outra pessoa, por suposta infração ao disposto nos arts. 33 e 35, ambos da Lei n.º 11.343/2006, pois surpreendido na posse de dois tijolos de maconha, no total de 964,26g. Na ocasião, os Agentes "confessaram que estavam levando a droga para um indivíduo provar a qualidade e então iriam fechar negócio" (fl. 22). A prisão foi convertida em preventiva.
+Irresignada, a Defesa impetrou writ no Tribunal de origem, cuja ordem foi denegada.
+Daí o presente mandamus, no qual o Impetrante sustenta que carece de fundamentação idônea o decreto prisional, pois calcado em argumentos abstratos. Aduz que não se encontram presentes os requisitos previstos no art. 312 do Código de Processo Penal. Destaca que o Paciente, primário, estava apenas acompanhando o Corréu e que não tinha ciência que havia droga no veículo. Argumenta que, acaso advenha sentença condenatória, o Paciente certamente fará jus à minorante do § 4.º do art. 33 da Lei n.º 11.343/2006.
+Requer, no mérito, a revogação da prisão preventiva do Paciente, com a expedição do alvará de soltura, ainda que lhe sejam impostas as medidas alternativas previstas no art. 319 do Código de Processo Penal.
+Prestadas as informações (fls. 19-20), o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], opinou pela prejudicialidade do habeas corpus (fls. 32-36).
+É o relatório. Decido.
+A matéria submetida à análise desta Corte no presente habeas corpus consubstancia-se em mera reiteração de pedido, tendo em vista que já foi apreciada pela Sexta Turma nos autos do HC n.º 461.701/SP, de minha relatoria, na sessão de julgamento realizada no dia 18/10/2018, cujo acórdão foi assim ementado:
+"HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. PROPORCIONALIDADE ENTRE A PRISÃO CAUTELAR E EVENTUAL REGIME PRISIONAL A SER FIXADO. INCABÍVEL O EXAME. ORDEM DENEGADA.
+1. É válido o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto do fato delituoso, cifrada na quantidade de entorpecente apreendido - 964,26g (novecentos e sessenta e quatro gramas e vinte e seis decigramas) de maconha.
+2. As instâncias ordinárias ressaltaram os indícios de o Paciente faz do tráfico sua atividade habitual, a demonstrar a necessidade da custódia cautelar para garantia da ordem pública.
+3. Se há indicação de fundamentos concretos para justificar a prisão preventiva, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. "Não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal. (Precedentes)" (HC 438.765/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/05/2018, DJe de 01/06/2018.)
+5. Ordem de habeas corpus denegada."
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intimem-se.
