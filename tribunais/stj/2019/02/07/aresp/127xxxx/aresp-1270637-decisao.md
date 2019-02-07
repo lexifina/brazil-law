@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO DE COBRANÇA. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. DANOS ORIGINÁRIOS DE VÍCIOS NA CONSTRUÇÃO. PEDIDO JULGADO IMPROCEDENTE. INSURGÊNCIA DAS AUTORAS. COBERTURA SECURITÁRIA QUE SE ESTENDE SOMENTE SOBRE OS VÍCIOS DE CONSTRUÇÃO QUE POSSAM, COMPROVADAMENTE, OCASIONAR DESMORONAMENTO TOTAL OU PARCIAL DOS IMÓVEIS. LAUDO PERICIAL QUE, ENTRETANTO, NÃO APONTA AMEAÇA DE IMINENTE DE DESMORONAMENTO. DANOS VERIFICADOS QUE NÃO SE ENCONTRAM ENTRE OS RISCOS COBERTOS. INEXISTÊNCIA DE DEVER DE REPARAR, ANTE A AUSÊNCIA DE COBERTURA. SENTENÇA ESCORREITA. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alegam os ora agravantes violação do artigo 51, I, IV, XIII, e § 1º, II, do Código de Defesa do Consumidor, além de divergência jurisprudencial.
+Não merece reforma a decisão agravada, a qual foi publicada na vigência da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do atual Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com efeito, observo que o Tribunal de origem reconheceu a abusividade das cláusulas que afastavam a responsabilidade da seguradora no caso de vícios de construção, o que demonstra a manifesta ausência de interesse dos recorrentes na interposição de recurso especial, visando ao provimento já alcançado.
+Depois, anoto que apenas com o reexame do conjunto fático-probatório dos autos seria possível considerar violados os artigos indicados pelos recorrentes e infirmar as conclusões do acórdão recorrido, que consignou:
+Ocorre que, embora se reconheça a aplicação do Código de Defesa do Consumidor, e, por conseguinte, a abusividade da cláusula 3.2, não há como se olvidar, ou ignorar, que somente os riscos elencados na cláusula 3.1 são acobertados pela apólice securitária.
+Portanto, só há cobertura sobre os vícios construtivos que possam, comprovadamente, ocasionar desmoronamento total ou parcial de cada um dos imóveis, individualmente considerados.
+Todavia, no caso dos autos, não restou demonstrado que os danos verificados nas casas das autoras oferecem risco de desmoronamento.
+O laudo pericial é claro ao atestar que "não há meios de precisar a ameaça de desmoronamento, vez que, pode haver ameaça sem manifestação visível" (2º quesito, fl. 596 da requerida, 33º quesito, dos requerentes, fl. 605, e 3º ponto controvertido apontado pelo juízo, fl. 607).
+Destaca-se que os imóveis analisados têm cerca de 30 (trinta) anos, logo, natural o desgaste destes e a necessidade de manutenção.
+Assim, tem-se que indevida a indenização pleiteada, uma vez que os danos elencados pelas autores e verificados na prova pericial não estão cobertos pelo seguro habitacional.
+A esse propósito, adequadamente, consignou o sentenciante: "No presente caso, o laudo pericial não citou a ocorrência de um vício estrutural grave que possa acarretar desmoronamento dos imóveis. Impende destacar que a prova pericial foi produzida sob o crivo do contraditório, com a possibilidade de ambas as partes formularem quesitos e acompanharem a perícia e suas conclusões por meio de assistente técnico. (..). Concluiu-se, portanto, que não há como compelir a seguradora ao pagamento da reparação securitária pleiteada na inicial" (fl. 783/784).
+Incidência, pois, da Súmula 7/STJ, bem aplicada pela decisão primeva de admissibilidade, que incide também quanto ao dissídio.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
