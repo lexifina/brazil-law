@@ -1,0 +1,32 @@
+DECISÃO
+ Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Apelação cível. Ação de obrigação de fazer cumulada com pedido de indenização por danos morais. Pedido de isenção do pagamento de pedágio em razão de alegação do apelante estar inserido em hipótese que o isentaria de tal cobrança. Sentença que julga extinto o feito reconhecendo a ilegitimidade ativa. Condições da ação. Matéria de ordem pública que pode ser reconhecida a qualquer tempo e grau de jurisdição. Inteligência do art. 485, § 3º CPC/15. Precedente STJ. Inexistência de cerceamento de defesa ou violação ao contraditório. Autor que não comprova ser proprietário ou possuidor de automóvel ou que utilize veículo que passe pela praça de pedágio. Ilegitimidade bem reconhecida. Alteração da verdade que constitui causa para condenação em litigância de má-fé. Art. 80, II CPC/15. Manutenção da sentença. Honorários recursais. Inteligência do art. 85, § 1s CPC/15. Desprovimento do recurso.
+Os embargos de declaração opostos foram acolhidos em parte (fls. 423-432, e-STJ).
+Nas razões de recurso especial, alegam o ora agravante divergência jurisprudencial e violação dos arts. 3º e 317 do Código de Processo Civil, sustentando ser parte legítima para requerer a concessão de isenção de pedágio e demais pedidos, inclusive indenizatório, tendo comprovado nos autos.
+Requer o afastamento da multa por litigância de má-fé.
+Sem contrarrazões.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 280-283, e-STJ, sob o fundamento de demandar reexame de matéria fática, a teor das Súmulas 7 do STJ e 279 do STF, assim impossível a análise quanto à divergência jurisprudencial.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+A Corte estadual com base na análise dos elementos de prova assim consignou:
+Pretende o autor que lhe seja concedido "passe livre" relativo ao pedágio para veículo de sua propriedade ou posse, além de indenização por danos morais, ao argumento de que sua residência se localiza ao lado de rodovia administrada pela ré, onde foi construída praça de pedágio e que, em razão de tal fato, houve concessão de isenção de pedágio a vários moradores locais, benefício cuja extensão é pleiteada em razão do princípio da igualdade.
+Inicialmente ressalte-se que não restou configurado cerceamento de defesa ou violação ao contraditório em razão do reconhecimento da ilegitimidade ativa em momento posterior ao saneamento do feito.
+Isso porque as condições da ação, enquanto matéria de ordem pública, podem ser declaradas em qualquer momento ou grau de jurisdição, na forma do art. 485, § 3º CPC/15 (antigo 267, § 3º, CPC/73), verbis:
+(..)
+Quanto à legitimidade para a causa e, sendo esta definida como atributo conferido a parte para discutir situação jurídica litigiosa, andou bem o juízo de primeiro grau ao reconhecer a ausência desta condição quanto ao autor.
+Considerando a pretensão autoral de que lhe fosse concedida isenção de pagamento do pedágio construído em área de sua residência, necessária a prova mínima de que possui veículo e que trafega com o mesmo no local onde é cobrado o pedágio, ônus do qual entretanto o autor não se desincumbiu.
+Em cumprimento à determinação judicial que, em observância ao princípio do contraditório substancial, deferiu ao autor prazo para demonstrar a propriedade do imóvel em seu favor, este juntou o documento de fl. 22 que se refere a automóvel de propriedade do Banco Itaucard S.A com anotação de arrendamento para terceiro ([NOME]), em razão da existência de leasing.
+O autor não demonstrou por conseguinte, ter a propriedade ou a posse do automóvel, e tampouco comprovou fazer uso do veículo O documento de fl. 16, que se refere ao pagamento de tarifa de pedágio não faz referência ao automóvel ligado de alguma forma ao apelante, e como esclarecido pelo patrono, foi anexado em vários outros processos "somente com o fim de demonstrar o valor do pedágio".
+Assim, não logrou o autor demonstrar a legitimidade para pleitear em juízo o direito de abstenção de pagamento de pedágio por não ter demonstrado ser proprietário ou possuir automóvel que trafegue pela via administrada pela ré.
+Acertado o reconhecimento da ausência de condição da ação, sendo certo que a matéria, além de ter sido reiterada no Juízo de primeiro grau, como destacou a magistrada prolatora da sentença, também já foi apreciada por esta Corte.
+(..)
+Ressalte-se que a atual legislação processual impõe a fixação de honorários advocatícios em sede recursal, ante o disposto no § 1Q do art. 85 CPC/153.
+Isso posto, VOTO pelo DESPROVIMENTO do recurso, mantendo-se integralmente a sentença tal como lançada, e fixando honorários, na forma do §22 art. 85 CPC/15, em 10% (dez por cento) sobre o valor da causa.
+Nesse espectro, é impossível concluir de modo diverso desse entendimento, pois exigiria o vedado reexame dos fatos e provas, providência que esbarra no óbice da Súmula 7 desta Corte.
+No que diz respeito à aplicação da multa de má-fé, observo que o acórdão recorrido se pronunciou pelos seguintes fundamentos:
+Correta, ainda, a condenação do autor ao pagamento de multa por litigância de má-fé, uma vez que se apurou em primeira instância a alteração da verdade dos fatos, incidindo a regra do art. 80, II CPC/15, fato que, inclusive, se reproduziu em processos análogos conforme constou do julgado, impondo-se a punição a título pedagógico.
+A revisão das conclusões do acórdão recorrido, com a finalidade de descaracterização da conduta por litigância de má-fé, reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, ante a inafastável Súmula 7 do Superior Tribunal de Justiça.
+A incidência da Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
