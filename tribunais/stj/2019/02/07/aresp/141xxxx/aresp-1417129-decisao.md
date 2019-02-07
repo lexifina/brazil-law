@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial (e-STJ fls. 449/451).
+O acórdão recorrido está assim ementado (e-STJ fl. 384):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. CONTRATO DE SEGURO DE VEÍCULO. OCORRÊNCIA DE SINISTRO. ROUBO. SEGURADA QUE NÃO É PORTADORA DE CNH. PRESCINDIBILIDADE. VEÍCULO DIRIGIDO POR TERCEIRO. IRRELEVÂNCIA. AUSÊNCIA DE MÁ- FÉ. NEGATIVA DE COBERTURA DE SINISTRO. QUEBRA DE PERFIL NÃO REVELADA. INDENIZAÇÃO DEVIDA. CARACTERIZAÇÃO DO DANO MATERIAL. QUANTIA EQUIVALENTE AO VALOR DO AUTOMÓVEL NA TABELA FIPE. CONSTRANGIMENTO QUE ULTRAPASSA O MERO DISSABOR. CONFIGURAÇÃO DO DANO MORAL. REDUÇÃO DO QUANTUM. APELO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 410/419).
+No especial (e-STJ fls. 422/428), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 186, 765, 768 e 927 do CC/2002, sustentando, em síntese, a legalidade da recusa de pagamento de indenização securitária, uma vez que a recorrida teria omitido, no momento da contratação do seguro, informações que agravariam o risco do seguro.
+Pugnou pela exclusão da indenização por dano moral, tendo em vista a ausência de ato ilícito.
+No agravo (e-STJ fls. 454/457), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 464).
+É o relatório.
+Decido.
+Assim consta do acórdão recorrido (e-STJ fls. 388/392):
+A controvérsia reside no fato da Apelada e proprietária do automóvel não possuir CNH, o que acarretaria a perda de seus direitos, além de terceiro estar conduzindo o carro no momento do roubo, considerando que a negativa de cobertura embasou-se na suposta má-fé da Segurada, pois seu Corretor teria, segundo a Recorrente, constado declarações "inexatas", que influenciaram na aceitação da proposta ou no valor do prêmio, prejudicando o direito à indenização, haja vista que a Autora seria a condutora principal do veículo.
+Contudo, observa-se que a Recorrida, em momento algum, informou à Requerida que possuía CNH nem foi noticiado à mesma, pela Corretora, que o seguro só poderia ser contratado caso fosse habilitada, conforme se verifica da declaração acostada à fl.29, não havendo que se falar em falsidade dos dados.
+Gize-se, outrossim, que a informação inexata das partes pode gerar uma presunção de aumento de risco de sinistro, entretanto, sempre dependente de prova de que efetivamente existiu, bem como teve influência no dano resultante, o que não ocorreu.
+É certo que inexistem elementos comprovadores de alegada má-fé na contratação do seguro, não se podendo reputar omisso nem inverídico o perfil declarado pelo Corretor na apólice, até porque a avença não exclui, expressamente, a cobertura para outros condutores, ressalvados aqueles situados na faixa etária dos 18 aos 25 anos.
+Ademais, também não consta dos autos qualquer prova que permita concluir tenha a Demandante omitido informação, com o intuito de, deliberadamente, provocar a diminuição do valor do prêmio.
+Portanto, pela ausência de dados capazes de excluir a responsabilidade da Seguradora no contrato pactuado, descabido o afastamento da cobertura securitária, pois o fato de estar o veículo sendo conduzido por terceiro (genro na segurada) não exclui a indenização, em caso de sinistro.
+Além disso, não restou demonstrado que a alegada divergência acerca do perfil do condutor gerou agravamento do risco e comprometeu a estabilidade econômico-financeira da Apelante, ônus que lhe incumbia e do qual não se desonerou.
+Destaque-se que a boa-fé, nas relações contratuais, é presumida;já o reconhecimento da má-fé, contudo, depende de prova inequívoca de sua ocorrência.
+(..)
+Registre-se, também, que a indicação de condutor na apólice não implica exclusão de cobertura, ainda que o automóvel tenha sido conduzido por pessoa diversa, como ocorre no caso sub oculi, mormente em se tratando de integrante da família, devidamente habilitado para a direção de veículo automotor.
+No que tange aos danos morais, o seu cabimento, igualmente, é admitido quando violadas a honra, a intimidade, a vida privada ou a imagem da pessoa, o que vislumbramos in casu, haja vista que a Autora é idosa, tendo sido acusada de haver agido com má-fé e de tentar ludibriar uma Seguradora, quando, em verdade, atuou, desde o início, corretamente, informando tudo que lhe fora questionado, inclusive asseverando que as pessoas condutoras de seu veículo eram a filha e o genro, posto que jamais possuiu carteira de habilitação.
+Como se vê, o Tribunal de origem, com base nos elementos probantes dos autos, entendeu não ter sido comprovada a má-fé da recorrida na contratação do seguro, tampouco o efetivo agravamento do risco, de forma que, para rever o entendimento da Corte a quo, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Da mesma forma, para alterar os fundamentos do acórdão recorrido relativos à indenização por dano moral, seria imprescindível a revisão de provas, o que esbarra no óbice da Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Embora o recurso tenha sido interposto na vigência do CPC/2015 (e-STJ fls. 452 e 454), sendo-lhe aplicável a disposição inserta no art. 85, § 11, da nova lei processual, deixo de majorar os honorários advocatícios fixados pelas instâncias ordinárias, em virtude de já terem atingido o percentual legal máximo (e-STJ fl. 312).
+Publique-se e intimem-se.
