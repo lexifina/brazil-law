@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 5ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional em desafio a acórdão assim ementado (e-STJ fl. 387):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CELETISTA. TEMPO ESPECIAL. RECONHECIMENTO. ADEQUAÇÃO. REPERCUSSÃO GERAL. ART. 543-B, § 3º, DO CPC.
+1. Retorno dos autos para fins de adequação do julgado ao entendimento firmado pelo col. STF no ARE nº 664335/SC, proferido sob os auspícios da Repercussão Geral.
+2. O Col. STF, por maioria, adotou o entendimento de que, se "o Equipamento de Proteção Individual (EPI) for realmente capaz de neutralizar a nocividade, não haverá respaldo constitucional à aposentadoria especial", bem assim que, "na hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, a declaração do empregador, no âmbito do Perfil Profissiográfico Previdenciário (PPP), da eficácia do EPI, não descaracteriza o tempo de serviço especial para aposentadoria."
+3. Prova do caráter especial das atividades exercidas pelo Autor, exposto a tensão superior a 250 volts, visto que a atividade de maquinista e engenheiro civil estão em consonância com o item 2.4.3 e 2.1.1, do Decreto 53.831/64, respectivamente, bastando o enquadramento da categoria profissional a que pertence o trabalhador no rol constante dos anexos que os integravam, prevalecendo a presunção legal decorrente do exercício da atividade profissional, no período de 2-5-1984 a 28-4-1995, quando empregado da CBTU.
+4. Apelado que não faz jus ao cômputo especial do período de 29.04.1995 a 2-10-2012, em razão do uso eficaz do EPI, no tocante ao fator de risco (acidentes por choque elétrico - tensão superior a 250 volts), consoante se infere do PPP. Autor que não perfaz o tempo de serviço necessário à concessão da aposentadoria especial.
+5. Adequação do julgado à decisão do STF, para afastar o reconhecimento do período de 29-4-1995 a 2-10-2012, como especial. Apelação do particular improvida e Remessa Necessária provida, em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 437/440).
+No especial obstaculizado, o recorrente alegou violação dos arts. 57 e 58 da Lei n. 8.213/91 e dos Decretos Regulamentares n. 53.831/64 e n. 83.080/79, sustentando que o laudo presente nos autos não demonstra a efetividade da utilização do EPI.
+Segundo defendeu (e-STJ fl. 480):
+o que se tem no PPP, pelo formato que adota, é mera declaração (jamais demonstração), porquanto o campo EPI EFICAZ é formado por um Quadro onde se apõe um singelo "S" (sim), "N" (não) ou "NA" (não se aplica). O expediente capaz de demonstrar a eficácia do EPI é o Laudo Pericial, uma vez que detalha e demonstra a pretensa eficácia. Repise-se, no caso em tela, o Laudo Pericial é silente.
+Após apresentação de contrarrazões (e-STJ fls. 598/602), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o julgado foi baseado em matéria fática, cuja alteração esbarra na Súmula 7 do STJ.
+Na presente irresignação, o agravante sustenta que a solução não requer o reexame de matéria fática, mas apenas uma revaloração das provas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que foram preenchidos os requisitos de admissibilidade do agravo. Entretanto, o recurso especial não merece ser conhecido.
+Quanto à eficácia da utilização do EPI, assim se pronunciou o Tribunal de origem (e-STJ fls. 413 e 223):
+Quanto ao período trabalhado após a vigência da Lei nº 9.032, de 28.4.95, faz-se necessária a comprovação da efetiva exposição a agentes nocivos, para fins de enquadramento do tempo de serviço como especial.
+Assim, no período de 29.4.95 a 02.10.2012, apesar de o Autor ter continuado a exercer a mesma atividade, na mesma empresa, não faz jus o ora Apelado ao cômputo especial, porquanto o Perfil Profissiográfico Previdenciário - PPP informa que o EPI é eficaz em relação ao fator de risco (acidentes por choque elétrico - tensão superior a 250 volts).
+Primeiramente destaque-se que o PPP colacionado os autos, atesta que a utilização do equipamento de proteção individual foi eficaz.
+No toante ao silêncio do Laudo Técnico silente, entendo que o ônus de provar a especialidade da atividade é do particular, razão pelo qual não pode se beneficiar da apontada omissão do laudo.
+Ademais, a declaração da CBTU de que o fornecimento de equipamento de proteção individual e coletivo não são 100% eficazes na proteção contra choques elétricos, não pode ser considerada, em razão da peculiaridade de cada caso. Além de destoar do entendimento proferido em sede de Repercussão Geral pelo STF - ARE nº 664335/SC.
+Dessa forma, verifica-se que o Tribunal de origem concluiu pela eficácia do uso do EPI com base no suporte fático-probatório constante nos autos, sendo inviável sua revisão no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido é o entendimento desta Corte, in verbis:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INCONFORMISMO. ATIVIDADE ESPECIAL. EFICÁCIA DO EPI COMPROVADA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Não ocorreu ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O acórdão recorrido, com base nos fatos e nas provas dos autos, reconheceu que a comprovada eficácia do EPI afasta a especialidade da atividade exercida. Tal entendimento não pode ser revisto, a teor da Súmula 7/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1151894/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 07/03/2018) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
