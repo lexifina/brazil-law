@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. LIBERDADE PROVISÓRIA CONCEDIDA PELO JUÍZO DE PRIMEIRA INSTÂNCIA DURANTE A TRAMITAÇÃO DESTE PROCESSO. SUPERVENIENTE AUSÊNCIA DE INTERESSE PROCESSUAL. HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra o acórdão prolatado pelo Tribunal de Justiça do Estado de Pernambuco no Habeas Corpus n.º 0506617-9.
+Consta dos autos que o Paciente foi preso em flagrante, em 7/2/2014, com a decretação de sua prisão preventiva no dia subsequente. Posteriormente, foi denunciado pela suposta prática do crime do art. 121, § 2.º, incisos II e IV, do Código Penal, c.c o art. 1º, inciso I, da Lei n.º 8.072/1990. Em 21/12/2017, sobreveio decisão de pronúncia, que o encaminhou para julgamento pelo Tribunal do Júri, como incurso no art. 121, caput, do referido Códex. Impetrado habeas corpus, o Tribunal de origem denegou a ordem, em acórdão assim ementado (fl. 140):
+"PROCESSUAL PENAL. HABEAS CORPUS. ARTS. 121, § 2º, II E IV, DO CÓDIGO PENAL. FALTA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO. INOCORRÊNCIA. PRISÃO CAUTELAR FUNDAMENTADA NA PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PEDIDO DE OFÍCIO DA PROCURADORIA DE JUSTIÇA. PRECARIEDADE DO SISTEMA PRISIONAL. TRANSFERÊNCIA DO LOCAL DE CUMPRIMENTO PARA PRISÃO DOMICILIAR CUMULADA COMO MONITORAMENTO ELETRÔNICO. ARGUMENTAÇÃO INIDÔNEA. NÃO CONHECIMENTO. ORDEM DENEGADA.
+I - Ao decretar a prisão cautelar do paciente com vistas a garantir a ordem pública, o togado monocrático se amparou notadamente no modus operandi do delito, que evidencia a periculosidade do agente e justifica a sua segregação cautelar com vistas à garantia da ordem pública. Precedentes do STF e STJ.
+II - Nesse sentido, o Superior Tribunal de Justiça, por meio da súmula nº 52, entende que "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". Atualmente o juízo aguarda a inclusão do processo na pauta da sessão do Júri".
+III - Se observa que a ocorrência de flagrante violação dos direitos humanos dos presos não diz respeito à ilegalidade stricto sensu da prisão ou abuso de autoridade praticado por quaisquer das autoridades judiciais. O debate pretendido pelo Representante do Parquet deve ocorrer no âmbito das discussões concernentes às políticas públicas, onde poderão ser amplamente analisadas e revistas as condições em que se encontram os estabelecimentos prisionais no nosso país. A pretendida transferência do local de cumprimento da prisão não conta com previsão legal, não servindo para justificá-la a mera alegação de precariedade do sistema prisional. As medidas pretendidas pela Procuradoria são inviáveis pela via eleita.
+IV - Não conheço dos pedidos formulados pela douta procuradoria de justiça, e, quanto aos pedidos formulados pela defesa do paciente, voto pela denegação da ordem. Decisão unânime."
+Alega a Defesa, em suma, a existência de ilegalidade na manutenção da prisão preventiva devido à ocorrência de excesso de prazo, mormente diante do fato de que " t rata-se de processo com apenas um réu, nenhuma precatória expedida, inexistindo também qualquer incidente provocado pela defesa, tanto que, nas informações prestadas ao Tribunal de Justiça, o togado singular nada registrou sobre tais aspectos" (fl. 3). Argumenta que a Súmula n.º 52 do STJ pode ser mitigada diante das peculiaridades do caso concreto, bem assim ser possível a substituição por medidas cautelares.
+Pede, liminarmente e no mérito, a expedição de alvará de soltura.
+O pedido liminar foi indeferido (fls. 165-167).
+Informações às fls. 174-181.
+O Ministério Público Federal opinou pela prejudicialidade do writ (fl. 183).
+É o relatório.
+Decido.
+Em informações prestadas às fls. 174-181, o Juízo de primeiro grau de jurisdição esclareceu que, em 08/11/2018, foi "proferida decisão concedendo a liberdade provisória mediante a aplicação das medidas cautelares nos termos do artigo 319, I e IV, do CPP e em seguida expedido e cumprido o alvará de soltura" (fl. 176).
+Por conseguinte, é de ser reconhecida a superveniente perda do interesse no julgamento deste writ.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
