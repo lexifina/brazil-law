@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 3ª Região, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado no que interessa (e-STJ fls. 231/232):
+PREVIDENCIÁRIO. AGRAVO LEGAL. REVISÃO DE BENEFÍCIO. ALTERAÇÃO DO TETO PELAS ECs 20/98 E 41/03. BENEFÍCIO COM DIB ANTERIOR À DATA DA PROMULGAÇÃO DA CF/88. DECISÃO FUNDAMENTADA.
+- Agravo legal interposto pela parte autora cm face da decisão monocrática que rejeitou a preliminar e negou seguimento ao seu apelo, mantendo a r. sentença que julgou improcedente o pedido de aplicação dos novos tetos fixados pelas ECs nº 20/98 e 41/03 ao benefício de aposentadoria por tempo de serviço da autora, com DIB em 11/07/1984, desde a edição das referidas emendas, com o pagamento das diferenças daí advindas.
+- Como o benefício previdenciário teve DIB em 11/07/1984, antes da promulgação da atual CF, ele não faz jus à revisão pretendida.
+- Não é o caso de se reportar ao RE nº 564.354.
+(..)
+- Agravo legal improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 247/255).
+No especial obstaculizado, o recorrente apontou violação dos arts. 543-B, § 3º, do CPC de 1973, e 1.039, caput, do CPC de 2015, tendo em vista que o aresto impugnado deixou de aplicar a tese firmada pelo Supremo Tribunal Federal no RE n. 564.354/SE, julgado sob o regime de repercussão geral, no sentido da viabilidade da adequação do benefício concedido antes da Carta Constitucional de 1988 aos novos tetos das ECs n. 20/1998 e 41/2003.
+Decorrido o prazo para apresentação de contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ante o óbice da Súmula 7 do STJ.
+Na presente irresignação, o agravante alega que não pretende o reexame de provas, mas a aplicação do direito ao caso concreto.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal registro, colhe-se dos autos que o julgado solveu a controvérsia com base na premissa de que o entendimento do Supremo Tribunal Federal não seria aplicável ao caso, tendo em vista que a adequação dos salários de benefício aos tetos das ECs n. 20/98 e 41/03, não incidiria em benefício concedido anteriormente à Constituição Federal de 1988 (e-STJ fl. 231).
+Dessa forma, verifica-se que a conclusão do acórdão a quo a respeito do direito vindicado apoia-se em fundamentação eminentemente constitucional. Nesse contexto, a revisão do julgado não é da competência deste Tribunal Superior, nos termos do art. 105, III, da Constituição Federal.
+Ilustrativamente, cito:
+PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. APLICAÇÃO DOS TETOS DAS EC 20/1998 E 41/2003. DECADÊNCIA. ART. 103, CAPUT, DA LEI 8.213/1991. NÃO INCIDÊNCIA.
+1. Trata-se de Recurso Especial questionando a aplicação dos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003 a benefícios concedidos anteriormente à vigência de tais normas.
+2. O escopo do prazo decadencial da Lei 8.213/1991 é o ato de concessão do benefício previdenciário, que pode resultar em deferimento ou indeferimento da prestação previdenciária almejada, consoante se denota dos termos iniciais de contagem do prazo constantes no art. 103, caput, da Lei 8.213/1991.
+3. Por ato de concessão deve-se entender toda manifestação exarada pela autarquia previdenciária sobre o pedido administrativo de benefício previdenciário e as circunstâncias fático-jurídicas envolvidas no ato, como as relativas aos requisitos e aos critérios de cálculo do benefício, do que pode resultar o deferimento ou indeferimento do pleito.
+4. A pretensão veiculada na presente ação consiste na revisão das prestações mensais pagas após a concessão do benefício para fazer incidir os novos tetos dos salários de benefício, e não do ato administrativo que analisou o pedido da prestação previdenciária.
+5. Por conseguinte, não incide a decadência prevista no art. 103, caput, da Lei 8.213/1991 nas pretensões de aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 a benefícios previdenciários concedidos antes dos citados marcos legais, pois consubstanciam mera revisão das prestações mensais supervenientes ao ato de concessão.
+6. Da leitura do voto condutor do acórdão recorrido, vê-se que a solução da controvérsia, no sentido de conceder a revisão do benefício previdenciário da parte autora, observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, foi dirimida pelo Tribunal de origem sob enfoque exclusivamente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Nesse sentido, é pacífica a jurisprudência no sentido de que "não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna" (STJ, AgRg no AREsp 470.765/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 31/03/2014).
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1656894/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se e intimem-se.
