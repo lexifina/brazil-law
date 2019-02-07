@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ACÓRDÃO RECORRIDO FULCRADO NOS EFEITOS DA MODULAÇÃO DA DECLARAÇÃO DE INCONSTITUCIONALIDADE, EFETUADA NO ÂMBITO DO STF. ENFOQUE CONSTITUCIONAL DA MATÉRIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 5ª Região de cuja ementa se extrai:
+A parte recorrente irresigna-se contra a incidência do IPCA-E sobre a dívida exequenda, em face da suposta inaplicabilidade da TR, por força da ADI 4357, onde teria sido declarada em parte, por arrastamento, a inconstitucionalidade do art. 1º-F da Lei n.º 9.494/97, com a redação dada pelo art, 5.º da Lei n.º 11.960/09. Roga-se pelo sobrestamento da execução ou aplicação da TR, até o julgamento pelo Supremo"Tribunal Federal do pedido de modulação dos efeitos da decretação de inconstitucionalidade da TR, por arrastamento, nas ADIs 4357/DF e 4425/DF.
+Os embargos de declaração opostos foram acolhidos, ficando consignado que:
+A modulação dos efeitos da declaração de inconstitucionalidade do STF proferida no julgamento das Ações Diretas de Inconstitucionalidade nºs 4.357 e 4.425 é aplicável apenas aos precatórios já expedidos ou pagos, devendo-se considerar o IPCA-E na elaboração dos cálculos para futura expedição de precatórios.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a ora agravante aponta ofensa ao art. 27 da Lei 9.868/99, c/c o art. 1º da Lei 9.494/97, alegando, em síntese, que:
+Logo, o próprio Supremo Tribunal Federal, na repercussão geral reconhecida no RE 870.947/SE, limitou o alcance da declaração de inconstitucionalidade das referidas ADIs aos créditos inscritos em precatório, sendo portanto necessária ainda a orientação daquela Corte quanto aos entendimentos formados nas referidas ADIs.
+Frise-se, pois, que a inconstitucionalidade do 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009, é restrita à atualização monetária do precatório, não afetando a atualização da condenação que se promove na fase de cumprimento do julgado, antes da própria expedição do requisitório de pagamento.
+E não poderia ser diferente, pois a norma constitucional impugnada nas citadas ADIs (art. 100, § 12, da CR/88, incluído pela EC nº 62/90) trata exclusivamente da correção monetária de precatório, nada disciplinando sobre a atualização da condenação, a qual é promovida antes da expedição daquele.
+Em suas contrarrazões, a recorrida pugna pela manutenção do aresto atacado.
+O recurso foi inadmitido pela decisão de fls. 175/176, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+"A orientação jurisprudencial desta Corte Superior é no sentido de que eventual ofensa ao art. 27 da Lei n. 9.868/1999 é discussão de cunho eminentemente constitucional, motivo pelo qual é inviável a rediscussão do tema pela via do recurso especial" (AgInt no REsp 1684838/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/04/2018, DJe 16/04/2018).
+Em suma, verifica-se que o acórdão recorrido baseia-se em fundamentos de natureza eminentemente constitucional  especialmente os efeitos da modulação efetuada pelo Supremo Tribunal Federal.
+Ressalte-se que não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+Diante do exposto, com fundamento no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
