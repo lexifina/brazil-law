@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica do fundamento relacionado à inexistência de omissão no acórdão recorrido.
+Nas razões do agravo interno, a parte agravante insiste nas violações apontadas no recurso especial, alegando que não sustentou a ocorrência de omissão no julgado (e-STJ, fls. 534-546).
+Intimada, a parte agravada não apresentou impugnação.
+Em face das razões expostas no agravo interno, reconsidero a decisão de fls. 529-530 (e-STJ), proferida pela Presidência desta Corte Superior, e passo a realizar novo juízo de admissibilidade do recurso.
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial interposto em face do acórdão assim ementado (e-STJ, fl. 415):
+Câmara Extraordinária. Resolução nº 737/2016. Processos entrados no Tribunal até dezembro de 2015 e distribuídos a outros relatores. Redistribuição excepcional feita em 12.09.2016 para cumprimento da Meta 2 do CNJ.
+Plano de saúde. Recomendação médica de home care. Perícia Indireta, baseada nos documentos produzidos sob o crivo do contraditório, que concluiu pela desnecessidade de atendimento especializado em ambiente domiciliar. Ausência de outras provas capazes de deslegitimar as conclusões do laudo pericial. Sentença de improcedência do pedido mantida. Recurso impróvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 12, inciso II, alíneas "c", "d" e "e", e 35-F da Lei nº 9.656/98; arts. 4º, inciso I, 39, 47 e 51 do Código de Defesa do Consumidor; e arts. 421 e 422 do Código Civil; bem como divergência jurisprudencial.
+Sustenta a obrigatoriedade da prestação do serviço médico de internação domiciliar (home care), o qual "é indispensável para manutenção da vida do paciente, tendo em vista o seu atual estado de saúde, ressaltando que a sua manutenção em ambiente hospitalar pode agravar sua saúde, principalmente em razão do risco de contrair infecção hospitalar" (e-STJ, fl. 442).
+Acrescenta que o Código de Defesa do Consumidor "estabelece expressamente que, em caso de dúvida, a interpretação sempre deverá ocorrer favoravelmente ao consumidor que é a parte mais fraca da relação" (e-STJ, fl. 447).
+Alega, ainda, que "a atitude da Recorrida violou os princípios da boa-fé e probidade", considerando que "fraciona a prestação do serviço de modo que a finalidade do contrato não encontra o fim a que se destinou" (e-STJ, fl. 448).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+Da leitura do acórdão recorrido, verifica-se que a matéria foi decidida pelo Tribunal de origem com base em circunstâncias fáticas e probatórias inerentes à causa, o que impede o seu reexame em recurso especial. É o que se depreende da fundamentação do julgado (e-STJ, fls. 416-417):
+O recurso não merece provimento.
+Conforme consta dos autos, o autor, pessoa idosa de mais de 86 anos, sofreu fratura no fêmur em 2010, sendo submetido a procedimento cirúrgico. Em 2011, sofreu nova fratura, mas devido às suas condições clínicas e à possibilidade de agravamento em razão de internação hospitalar, foi-lhe prescrito tratamento na modalidade home care, com enfermagem 24 horas e fisioterapia respiratória e motora diária, conforme relatórios médicos de fls. 41/42 e 43. Contudo, afirma que a ré negou-lhe a cobertura de tal tratamento sob o fundamento de não estar incluso na cobertura contratual. Assim, ajuizou a presente ação pretendendo que a ré arque com os custos do home care, incluindo a enfermagem 24 horas, as sessões de fisioterapia e os medicamentos que forem necessários até alta definitiva.
+A digna Magistrada de primeiro grau julgou improcedente o feito, revogando a tutela antecipada anteriormente concedida por entender que, não obstante as limitações impostas ao autor, desnecessária a assistência médica integral na modalidade home care, bastando serviços de um "cuidador" ou familiar adequadamente treinado e orientado para tanto, inclusive para que seja respeitado o equilíbrio contratual.
+Pois bem.
+ ..
+Na hipótese, o laudo pericial de fls. 284/291 é categórico ao afirmar que: "As condições clínicas do periciando exigiam sessões de fisioterapia, notadamente motora, sem a necessidade da presença de auxiliar de enfermagem, visto que os suportes exigidos com higiene, alimentação, vestuário, locomoção e medicação, poderiam ser supridos por cuidador ou familiar adequadamente orientado".
+Importante consignar que a perícia, embora tenha sido realizada de forma indireta após o falecimento do autor, baseou-se nos documentos médicos constantes nos autos, inclusive aqueles juntados pelo autor, todos produzidos sob o crivo do contraditório. Assim, não se pode ignorar sua força probatória, até mesmo porque inexistentes outras provas capazes de enfraquecer as conclusões periciais.
+Destarte, diante da desnecessidade do acompanhamento do autor por equipe médica especializada em ambiente domiciliar, era mesmo de rigor a improcedência do pedido.
+Como se vê, a Corte estadual baseou sua decisão em laudo médico pericial que concluiu pela desnecessidade da internação domiciliar do paciente.
+A desconstituição de tais premissas, portanto, a fim de concluir pela imprescindibilidade da prestação do serviço de internação domiciliar ao beneficiário, como pretendido pela recorrente, demandaria o reexame do acervo fático-probatório dos autos, procedimento que, na via do recurso especial, encontra óbice no verbete da Súmula 7 do STJ.
+Ademais, a vedação da Súmula 7 do STJ impede, por semelhantes motivos, a análise da apontada divergência jurisprudencial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
