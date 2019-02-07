@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de extensão formulado em favor de WILLES DA [NOME] SALLES, no qual pretende que sejam estendidos os efeitos da ordem concedida ao corréu [NOME], que teve a prisão preventiva revogada, mediante e aplicação das medidas cautelares previstar no art. 319 do CPP.
+Aduz, para tanto, que deve ser aplicado à hipótese o disposto no art. 580 do CPP.
+Parecer do Ministério Público Federal pelo deferimento do pleito.
+É o relatório.
+Nos termos do art. 580 do Código de Processo Penal, a decisão do recurso interposto por um dos acusados, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Este Superior Tribunal de Justiça, entendeu pela ilegalidade da prisão preventiva do paciente, em razão da falta de elementos concretos na decisão que decretou a custódia cautelar.
+Verifica-se, consequentemente, na hipótese, a existência de similitude fático-processual entre o paciente e o corréu, porquanto, a prisão do requerente foi decretada no mesmo provimento judicial tido como ilegal por esta Corte Superior, em razão da inidoneidade da fundamentação.
+Neste contexto, deve a decisão ser estendida ao requerente, em atendimento ao disposto no art. 580 do CPP.
+ Nestes termos, trago à colação os seguintes julgados:
+ "PEDIDO DE EXTENSÃO EM HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO, FALSIDADE IDEOLÓGICA E QUADRILHA. PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO JUSTIFICADA À LUZ DO ART. 312 DO CPP. DESPROPORCIONALIDADE DA MEDIDA EXTREMA. PROVIDÊNCIAS CAUTELARES DIVERSAS. ART. 319 DO CPP. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA. ORDEM CONCEDIDA DE OFÍCIO. IDENTIDADE DE SITUAÇÕES PROCESSUAIS. EXTENSÃO DEFERIDA.
+1. Esta Quinta Turma, por maioria de votos, reconheceu que a manutenção da custódia antecipada do paciente seria medida excessiva diante do tempo de prisão já cumprido e que a finalidade almejada quando da ordenação da preventiva poderia ser atingida com a aplicação de providências cautelares alternativas, concedendo-lhe a ordem de ofício para substituir a preventiva por providências cautelares alternativas.
+2. Verificada a identidade fático-processual entre a situação do paciente e o do requerente e que a decisão que concedeu a ordem de ofício não se encontra fundada em motivos de caráter pessoal, aplica-se o disposto no artigo 580 do Código de Processo Penal.
+3. Pedido de extensão deferido para substituir a custódia preventiva do requerente pelas medidas alternativas à prisão previstas no art. 319, I, IV, V e VIII, do Código de Processo Penal, mantido o pagamento da fiança no valor de 100 (cem) salários mínimos, devendo ser expedido o competente alvará de soltura em seu favor, salvo se por outro motivo estiver preso." (PExt no HC 401.867/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/2/2018, DJe 7/3/2018, grifou-se);
+"HABEAS CORPUS. PEDIDO DE EXTENSÃO. SIMILITUDE DE SITUAÇÃO PROCESSUAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA DE NATUREZA EXCLUSIVAMENTE PESSOAL. INCIDÊNCIA DO DISPOSTO NO ART. 580 DO CÓDIGO DE PROCESSO PENAL.
+1. O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, nos ditames do art. 580 do Código de Processo Penal. Precedentes.
+ 2. Na espécie, os motivos que ensejaram o afastamento do regime prisional mais severo - inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990 - e justificaram a escolha do regime intermediário - presença de circunstâncias judiciais desfavoráveis - se comunicam ao corréu.
+ 3. Pedido deferido a fim de estabelecer para o corréu [NOME] o regime semiaberto para o início do desconto da reprimenda." (PExt no HC 339.880/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018, grifou-se).
+ Ante o exposto, concedo a ordem, para deferir o pedido de extensão ao requerente WILLES DA [NOME] SALLES, e revogar a sua prisão preventiva,mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de Primeiro Grau.
+Publique-se. Intimem-se.
