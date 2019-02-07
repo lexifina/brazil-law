@@ -1,0 +1,39 @@
+EMENTA
+CIVIL E CONSUMIDOR. RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. CONTRATO DE PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO DE USO DOMICILIAR. RECUSA INDEVIDA. DEVER DE COBERTURA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+GISLAINE AMARAL KOLANIAN (GISLAINE) ajuizou ação de cobrança em desfavor de OMINT SERVIÇOS DE SAÚDE LTDA. (OMINT), cujos pedidos foram julgados procedentes para condenar a ré a indenizar os danos materiais experimentados em virtude de negativa de cobertura contratual de necessário tratamento medicamentoso, corrigidos monetariamente pela tabela prática do TJESP, desde a data do desembolso, acrescidos de juros de 1% (um por cento) ao mês, a partir da citação (e-STJ, fls. 114/117).
+Irresignada, OMINT interpôs apelação, que foi desprovida pelo Tribunal de origem em acórdão assim ementado:
+Ação de cobrança. Plano de saúde. Preliminar de falta de interesse de agir afastada. Devido o reembolso das despesas com a aquisição dos medicamentos que correspondem ao próprio tratamento médico prescrito, mesmo que de uso domiciliar. Irrelevância de não constarem no rol da ANS - Súmula n.º 102 deste E. Tribunal. Decisão mantida. Recurso improvido (e-STJ, fl. 148).
+Os embargos de declaração opostos por OMINT, nos quais sustentou omissão em relação à preliminar de falta de interesse de agir quanto ao medicamento Eprex, sob a alegação de que a cobertura jamais teria sido negada e GISLAINE nunca teria apresentado as despesas para reembolso, foram rejeitados (e-STJ, fls. 156/158).
+Irresignada, a OMINT interpôs recurso especial, com fulcro no art. 105, III, a, da CF, apontando a violação dos arts. 10 da Lei nº 9.656/98, 267, VI, 295, III, 535 do CPC/73 e 884 do CC/02, sustentando: (1) negativa de prestação jurisdicional; (2) não ter a obrigação de fornecer medicamentos para o tratamento domiciliar da paciente; e (3) enriquecimento sem causa.
+O recurso especial não foi admitido (e-STJ, fls. 174/175), advindo agravo em recurso especial, não conhecido por decisão monocrática de minha relatoria assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO COM FUNDAMENTO NO CPC/73. RESOLUÇÃO Nº 1/STJ. RECURSO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO DISPOSTO NO ART. 544, § 4.º, I, DO CPC/73. AGRAVO NÃO CONHECIDO (e-STJ, fl. 192).
+O agravo interno oposto por OMINT foi provido para conhecer do agravo em recurso especial e dar provimento ao recurso especial a fim de que os autos retornem ao Tribunal de origem para o julgamento completo dos embargos de declaração, nos moldes da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A VIGÊNCIA DO NCPC. VIOLAÇÃO DO ART. 535 DO CPC./73 EMBARGOS DE DECLARAÇÃO. OMISSÃO DO ACÓRDÃO LOCAL. RECONSIDERAR A DECISÃO AGRAVADA E ACOLHER OFENSA AO ART. 535 DO CPC/73. DETERMINAR A DEVOLUÇÃO DOS AUTOS À ORIGEM A FIM DE QUE O TRIBUNAL A QUO SE MANIFESTE COMO ENTENDER DE DIREITO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PROVIDO. (e-STJ, fl. 214).
+Remetidos os autos por esta Corte Superior, o Tribunal de origem manteve a rejeição dos embargos de declaração opostos por OMINT nos termos da ementa adiante transcrita:
+Plano de Saúde - Preliminar de falta de interesse de agir devidamente analisada e rejeitada tanto pelo v. acórdão que negou provimento à apelação interposta, quanto pelo v. acórdão que rejeitou os embargos de declaração opostos, assim como todas as demais questões relevantes para a solução da questão submetida a julgamento Mantidos os v. acórdãos de fls. 147/150 e 156/158. (e-STJ, fl. 224).
+Ainda inconformada, OMINT interpôs recurso especial, com fundamento no art. 105, a, da CF, alegando violação do art. 10, caput e VI, da Lei 9.656/98, por reputar que a operadora do plano de saúde não poderia ser instada a pagar medicamentos de uso domiciliar, cuja cobertura não é obrigatória à luz da legislação e nem encontra previsão contratual.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal estadual admitiu o apelo nobre (e-STJ, fls. 242/243).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+OMINT insurge-se contra o acórdão do Tribunal local que determinou o fornecimento de medicamento de uso domiciliar, por reputar que a operadora do plano de saúde não poderia ser instada a pagar medicamentos de uso domiciliar, cuja cobertura não é obrigatória à luz da legislação e nem encontra previsão contratual.
+O entendimento dominante nesta Corte é de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura e que é abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Na verdade, se não fosse assim, estar-se-ia autorizando que a empresa se substituísse aos médicos na escolha da terapia adequada de acordo com o plano de cobertura do paciente. E isso é incongruente com o sistema de assistência à saúde, porquanto quem é senhor do tratamento é o especialista, ou seja, o médico que não pode ser impedido de escolher a alternativa que melhor convém à cura do paciente.
+Sendo assim, observa-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ, no sentido de ser abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar.
+Nesse sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PLANO DE SAÚDE. MEDICAMENTOS DE USO DOMICILIAR. INDEVIDA RECUSA DE COBERTURA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ausentes os vícios do art. 535 do CPC/73, rejeitam-se os embargos de declaração.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.097.679/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 23/2/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. NEGATIVA. ALEGAÇÃO DE MEDICAMENTO DE USO DOMICILIAR. DANO MORAL CONFIGURADO.
+1. Revela-se abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar. Precedentes do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.064.435/GO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 23/11/2017 - sem destaque no original)
+Logo, o acórdão de origem, ao entender ser indevida a recusa da OMINT de custear a medicação requerida, encontra-se alinhado com a jurisprudência desta Corte. Por essa razão, não merece qualquer tipo de reparo.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de OMINT, limitados a 20%, nos termos do art. 85, § 11 do NCPC, observada eventual concessão de gratuidade da justiça.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
