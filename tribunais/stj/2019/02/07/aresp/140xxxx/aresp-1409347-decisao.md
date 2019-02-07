@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA C/C PEDIDO DE REPETIÇÃO DE INDÉBITO, LUCROS CESSANTES E DANOS MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. SIMPLES FRUSTRAÇÃO. DANO MORAL NÃO CONFIGURADO. O ÓBICE DA SÚMULA 7 IMPOSSIBILITA O EXAME DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+DECISÃO
+VALÉRIA MARIA DE LIMA MATTEO (VALÉRIA) e RODRIGO ROMÃO MATTEO (RODRIGO) ajuizaram ação declaratória c/c pedido de repetição de indébito, lucros cessantes e danos morais contra LÁZIO INVESTIMENTOS IMOBILIÁRIOS LTDA. (LÁZIO INVESTIMENTOS), e HABITCASA CONSULTORIA DE IMÓVEIS LTDA. (HABITCASA), que foi julgada parcialmente procedente.
+A apelação interposta por LÁZIO INVESTIMENTO e HABITCASA foi parcialmente provida pelo Tribunal de origem, nos termos da seguinte ementa:
+COMPRA E VENDA Condenação a corré extra petita Reconhecimento Atraso na entrega da obra configurado Prejuízo presumido Aplicação da Súmula 162 da Turma Especial da Seção de Direito Privado Subseção I, TJSP Posicionamento firmado pela Turma Especial - Privado 1 - em incidente de resolução de demanda repetitiva Tema 04 do TJSP Indenização por danos materiais por lucros cessantes devida Dano moral não configurado, visto que mera frustração de negócio imobiliário não caracteriza dano moral Honorários arbitrados Preliminar acolhida Recurso da Lazio parcialmente provido. (e-STJ fls. 465)
+Inconformados, VALÉRIA e OUTRO interpuseram recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação do art. 186 do CC, ao sustentarem que (1) sofreram danos morais decorrentes do atraso na entrega da obra, devendo a Lazio ser condenada à indenização, e (2) há divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude (i) da incidência da Súmula 284 do STF; e (ii) a divergência não foi comprovada, tendo em vista a ausência de similitude fática e incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, VALÉRIA e OUTRO sustentaram que (a) houve violação ao art. 186 do CC/02; (b) não é caso de incidência da súmula 7 do STJ; e (c) demonstrou a divergência jurisprudencial.
+Sem impugnação.
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Dos danos morais
+Com relação ao dano moral pelo atraso na entrega de imóvel adquirido em construção, a eg. Terceira Turma desta Corte, no julgamento do Resp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3;2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1426710/RS, Terceira Turma, julgado em 25/10/2016, DJe 09/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ , Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e,
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1637627/RJ, Rel. Ministra j. 6/12/2016, DJe 14/12/2016; REsp 1.633.274/SP; j. 8/11/2016, DJe 11/11/2016; AgRg no AResp 809935/RS, DJe 11/03/2016; e, REsp 1551968/SP, 2ª Seção, DJe 6/9/2016.
+Na hipótese vertente, a fundamentação do dano moral está justificada somente na frustração de negócio imobiliário, sem tecer nota adicional ao mero atraso que pudesse, para além dos danos materiais, causar grave sofrimento ou angústia a ponto de configurar verdadeiro dano moral.
+Veja-se, nesse sentido, excerto do voto condutor da apelação:
+Os danos morais no caso em tela são indevidos, pois conforme lição de Youssef Said Cahali, em sua clássica obra "Dano Moral" RT, a frustração de negócios imobiliários, salvo raríssimas exceções, não dão ensanchas a acolhê-los, posicionamento doutrinário, aliás, amplamente adotado pela jurisprudência pátria. (e-STJ, fl. 469/470).
+Desse modo, inexistindo circunstância específica que seja capaz de provocar graves lesões à personalidade dos recorridos, acompanho o recente entendimento firmado na Terceira Turma desta Corte, a fim de afastar a configuração do dano extrapatrimonial na hipótese dos autos, considerando que o dano moral exsurge de agressão à personalidade do ofendido, conforme julgamento do REsp 1.426.710 (Terceira Turma, julgado em 25/10/2016, DJe 08/11/2016).
+Assim, estando o acórdão recorrido de acordo com a jurisprudência dominante do STJ, aplicável, no caso concreto, a Súmula 568 do STJ.
+(2) Da divergência jurisprudencial
+É impossível o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que para verificar a identidade entre o paradigma apresentado e os fundamentos do acórdão recorrido, necessário seria o reexame da situação fática de cada caso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGITIMIDADE DA PARTE RECONHECIDA. INEXISTÊNCIA DE MENÇÃO EXPRESSA NO TÍTULO JUDICIAL ACERCA DO SEU ALCANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2.  ..
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 965.951/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/12/2016, DJe 1/2/2017 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
