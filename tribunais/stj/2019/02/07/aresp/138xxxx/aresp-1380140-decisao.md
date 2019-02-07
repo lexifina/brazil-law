@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo Empresa Brasileira de Infra-estrutura Aeroportuária - INFRAERO contra decisão que inadmitiu recurso especial, este interposto com base no art. 105, III, a e c, da CF em face de acórdão proferido pela 4ª Turma Especializada do Tribunal Regional Federal da 2ª Região , assim ementado (fls. 234/235):
+TRIBUTÁRIO. INFRAERO. IMUNIDADE TRIBUTÁRIA RECÍPROCA TAXA DE COLETA DE LIXO DOMICILIAR - TCLD. INOCORRÊNCIA. APELAÇÃO PROVIDA.
+1. A INFRAERO. constituída como empresa pública, executa, em regime de monopólio, serviços de infra-estrutura aeroportuária constitucionalmente outorgados à União Federal, qualificando-se, em razão de sua específica destinação institucional, como entidade delegatária dos serviços públicos a que se refere o art. 21, inciso XII, alínea "c", da Lei Fundamental, o que a coloca sob o manto da imunidade tributária prevista no art. 150, VI, "a", da Constituição Federal. Entretanto, sabe-se que a aludida imunidade recíproca abarca somente impostos e não taxas pelos serviços prestados pelo Poder Público Municipal.
+2. O art. 145, II, da Constituição Federal estabelece que taxa é um tributo exigido em razão do exercício do poder de policia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição.
+3. Extrai-se do disposto constitucional que a simples colocação do serviço municipal à disposição do contribuinte já constitui o fato gerador do tributo em comento, não havendo que se questionar a efetiva utilização do serviço de coleta de lixo ou não, seja o lixo classificado como comum ou especial (em razão de seu substrato e descarte).
+4. A taxa de coleta de lixo domiciliar (TCLD), instituída pela Lei Municipal nº 2.687/98, segundo orientação já firmada pelo STF, é constitucional, posto que possui base de cálculo diversa de imposto, tendo o serviço individualizado e especificado conforme a quantidade de lixo produzida pelo imóvel e o seu destino, não afrontando o disposto no § 2o do art. 145 da Constituição Federal (Súmula Vinculante nº 19/STF).
+5. Honorários advocatícios fixados em R$ 200,00 (duzentos reais), a fim de se cumprir o disposto no art. 20. §§ 3o e 4o, do CPC.
+6. Apelação provida.
+Os embargos de declaração opostos às fls. 238/243 foram rejeitados às fls. 254/263.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, aponta violação ao art. 1022 do CPC/2015. Entende que o Tribunal de origem, em que pese a oposição do recurso integrativo, "nada foi falado sobre o fato gerador, sobretudo sobre o argumento de que é a própria lei municipal que torna o serviço indisponível no Aeroporto, dada a grande quantidade de lixo produzida ali" (fl. 277).
+Requer, por fim, o provimento do presente recurso.
+Contrarrazões apresentadas às fls. 319/327.
+É o relatório.
+A rresignação não merece prosperar.
+Com efeito, confira-se o trecho do acórdão recorrido (fl. 231):
+Com efeito, preceitua o art. 145, II, da Constituição Federal, que taxa é um tributo exigido em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição.
+Nesse passo, constitui requisito essencial para a exigência de toda e qualquer taxa a certeza de que sua cobrança deverá recair tão somente sobre serviços públicos específicos e divisíveis, ou que revele, no aspecto material do fato gerador, a presença de atividade estatal diretamente vinculada ou colocada à disposição do contribuinte.
+Destarte, extrai-se do disposto constitucional que a simples colocação do serviço municipal à disposição do contribuinte já constitui o fato gerador do tributo em comento, não havendo que se questionar a efetiva utilização do serviço de coleta de lixo ou não, seja o lixo classificado como comum ou especial (em razão de seu substrato e descarte).
+Registre-se, ainda, que o Código Tributário Nacional define como serviços públicos específicos aqueles que possam ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade pública, tendo-os por divisíveis quando suscetíveis de utilização, separadamente, por parte de cada um de seus usuários (art. 79, incisos II e III).
+Nesse contexto, a taxa de coleta de lixo domiciliar (TCLD), instituída pela Lei Municipal nº 2.687/98, segundo orientação já firmada pelo STF, é constitucional, posto que possui base de cálculo diversa de imposto, tendo o serviço individualizado e especificado conforme a quantidade de lixo produzida pelo imóvel e o seu destino, não afrontando o disposto no § 2o do art. 145 da Constituição Federal.
+Como visto, o aresto impugnado não incorreu em ofensa ao art. 1022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A matéria debatida pela parte recorrente encontra-se pacificada nesta Corte Superior nos termos do que decidido pelo Tribunal local, no sentido de que a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido. Precedentes.
+3. Outrossim, a pretensão de que seja avaliada pelo Superior Tribunal de Justiça a condição econômica da parte agravante exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.372.130/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
