@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por GREEN LINE SISTEMA DE SAÚDE S/A, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de GREEN LINE SISTEMA DE SAÚDE S/A, apesar ter sido juntada, a guia de recolhimento das custas devidas ao Superior Tribunal de Justiça encontra-se ilegível, impossibilitando a verificação da regularidade do preparo.
+O Superior Tribunal de Justiça consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 05/10/2017).
+Dessa forma, é "firme a jurisprudência desta Corte no sentido de que a juntada de guias de preparo ilegíveis atrai o Enunciado da Súmula 187/STJ, implicando a deserção do recurso especial" (AgInt no AREsp 1039483/PE, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 26/06/2018).
+Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ainda, a parte Recorrente foi intimada do acórdão recorrido em 15/08/2014, sendo o recurso especial interposto somente em 04/09/2014.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 508 do Código de Processo Civil de 1973.
+Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp 1686469/AM, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/03/2018).
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
