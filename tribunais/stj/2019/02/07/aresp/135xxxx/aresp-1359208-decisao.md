@@ -1,0 +1,14 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+Homicídio qualificado. Condenação. Pena: 13 anos de reclusão, regime inicial fechado. Réu preso. Recurso da defesa sustentando nulidade por deficiência de defesa técnica e pena-base no mínimo. 1 - No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu (STF, Súm. 523). No caso, foi oportunizada a formulação de perguntas às testemunhas pela defesa, não tendo esta demonstrado a existência de prejuízo. 2 - A aplicação da pena atende os requisitos dos artigos 59 e 68 do CP. 3 - Recurso desprovido. Parecer acolhido. (e-STJ fl. 643)
+Aponta a defesa a violação do art. 59 do Código Penal, alegando, em síntese, a desproporcionalidade na fixação da pena-base em dois anos acima do mínimo legal ante a existência de apenas uma circunstância judicial negativa.
+Contrarrazões às e-STJ fls. 677/379.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 724/727.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos dão conta de que o agravante foi condenado à pena de 13 (treze) anos de reclusão pela prática do crime tipificado no art. 121, § 2º, I, do Código Penal.
+Neste recurso, a defesa alega a desproporcionalidade na fixação da pena-base em dois anos acima do mínimo legal ante a existência de apenas uma circunstância judicial negativa.
+Sem razão, notadamente porque "a ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada que impõe ao magistrado apontar os fundamentos da consideração negativa, positiva ou neutra das oito circunstâncias judiciais mencionadas no art. 59 do CP e, dentro disso, eleger a reprimenda que melhor servirá para a prevenção e repressão do fato-crime" (AgRg no HC n. 188.873/AC, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 16/10/2013).
+Além disso, o aumento da pena base em 2 (dois) anos acima do mínimo legal não se revela desproporcional, isso porque a pena para o delito do art. 121, § 1º, do CP varia entre 12 (doze) e 30 (trinta) anos, estando adequado o acréscimo operado na origem em razão da avaliação negativa das circunstâncias do crime.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
