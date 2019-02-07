@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de RENEE PIMENTEL DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, no julgamento do HC n. 0802783-72.2017.8.14.0000.
+Extrai-se dos autos que foi determinada a prisão preventiva da paciente em 25/10/2017 no curso da investigação da prática dos delitos tipificados nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (tráfico e associação para o tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, alegando carência de fundamentação da decisão que decretou a custódia. O writ foi denegado, nos termos do seguinte o acórdão:
+HABEAS CORPUS. ART. 33, CAPUTE ART. 35 DA LEI  11.343/2006. PRISÃO PREVENTIVA. DECRETO PREVENTIVO COM BASE EM FATOS CONCRETOS PREVISTOS NO ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. MOTIVO SUFICIENTE PARA A DECRETAÇÃO DA PREVENTIVA. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA, NOS TERMOS DO VOTO DA DESA. RELATORA.
+1. Não há que se falar em constrangimento ilegal por ausência de fundamentação concreta quando o decisum buscou base na garantia da ordem pública, pois demonstra ser pessoa de elevada periculosidade ante a gravidade do crime e, a meu ver, não há qualquer dúvida de que existem elementos concretos a ensejar a necessidade da manutenção da prisão cautelar do paciente. Precedentes. Ademais as circunstâncias concretas do crime, a quantidade e qualidade de entorpecentes, tendo em vista que o mesmo foi encontrado com 21 (vinte e um) pacotes de substância entorpecente, denotam que o mesmo fazia da traficância sua ocupação habitual;
+2. Outrossim, o fato de o paciente ser primário, ter bons antecedentes, ocupação lícita e residência fixa, não representam óbice para a manutenção da prisão preventiva, quando identificados os requisitos para a manutenção da cautelar;
+3. Ordem de Habeas Corpus conhecida e denegada, nos termos do voto da Desa. Relatora (fl. 19).
+No presente mandamus, o impetrante reafirma a inexistência dos pressupostos necessários à decretação da prisão cautelar. Pondera a presença das condições pessoais favoráveis do paciente, ressaltando o caráter excepcional da prisão preventiva, bem como ofensa ao princípio da presunção de inocência.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva. Com a expedição de alvará de soltura.
+Liminar indeferida às fls. 30/31.
+Informações prestadas às fls. 38/44, 66/69.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 484/489).
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica da Corte Estadual, observa-se que, em 16/01/2019, nos autos da ação penal que aqui se cuida, foi proferida sentença condenando o ora paciente à pena de 7 anos de reclusão, a ser cumprida em regime semiaberto, bem como ao pagamento de 700 dias-multa, tendo sido negado o direito de recorrer em liberdade, mantida sua custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva, determinando, ainda, a adequação da segregação antecipada ao regime prisional fixado.
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora paciente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. CONCURSO DE PESSOAS. NEGATIVA DE AUTORIA. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR MANTIDA NA SENTENÇA. NOVOS FUNDAMENTOS. NOVO TÍTULO. FUNDAMENTOS NÃO ENFRENTADOS NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. O habeas corpus não é o meio adequado para a análise de tese de negativa de autoria ou participação por exigir, necessariamente, uma avaliação do conteúdo fático-probatório, procedimento incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+3. Caso em que o Juízo sentenciante, ao negar ao paciente o direito de apelar em liberdade, inovou nos fundamentos para manter a prisão cautelar, referindo-se a supostas práticas delitivas ocorridas posteriormente ao fato praticado nos autos.
+4. Conforme precedente desta Quinta Turma, "a superveniência de sentença penal condenatória, na qual se agrega nova motivação para a manutenção da prisão cautelar, torna prejudicada a irresignação quanto ao ponto, isto porque, o novo título prisional contém fundamentos cuja legalidade ainda não foi examinada pelo Tribunal originário, não cabendo, portanto, a este Superior Tribunal apreciá-la de forma originária, sob pena de indevida supressão de instância" (AgRg no RHC 49.413/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/10/2014, DJe 06/11/2014).
+5. Habeas corpus não conhecido (HC 345.071/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/03/2016, DJe 07/03/2016).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA O FIM DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NULIDADE. TESTEMUNHO DE POLICIAIS QUE ATUARAM COMO PERITO. MATÉRIA NÃO APRECIADA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. CONDENAÇÃO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. NOVOS FUNDAMENTOS DA CUSTÓDIA CORPORAL. PREJUDICIALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - O pedido de revogação da prisão preventiva encontra-se prejudicado em virtude da superveniência de novo título prisional ao qual foram agregados novos fundamentos para a manutenção da segregação cautelar do paciente.
+Habeas corpus não conhecido (HC 312.886/RN, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 18/05/2015).
+Pelo exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
