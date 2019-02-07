@@ -1,0 +1,5 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos já sob a vigência do Código de Processo Civil de 2015 (arts. 1.036, caput e § 1º, e 257-C, do RISTJ) (REsps ns. 1.694.261/SP, 1.694.316/SP e 1.712.484/SP, 1ª S., Rel. Min. Mauro Campbell Marques, - TEMA 987), com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do mencionado diploma, abordando a seguinte questão: "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal".
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos acima identificados, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se. Cumpra-se.
