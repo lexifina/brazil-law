@@ -1,0 +1,28 @@
+DECISÃO
+1. Cuida-se de Agravo Regimental interposto por [NOME] em face de decisão que não conheceu de seu Agravo em Recurso Especial, em razão da intempestividade do recurso.
+2. Alega a parte agravante, em suma, que a jurisprudência do STJ permite comprovar, quando da interposição do Agravo Regimental, a tempestividade do recurso em razão da existência de causa que suspenda o prazo recursal.
+3. Pugna, desse modo, pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja provido o Recurso Especial.
+4. É o relatório.
+5. Assiste razão à Agravante, de fato a Corte Especial deste Tribunal Superior alterou seu entendimento anterior, que exigia a demonstração de suspensão de expediente ou feriado local por ocasião da interposição do recurso, passando a admitir que tal comprovação possa ser realizada até mesmo por ocasião da interposição do Agravo Regimental contra a decisão que não conhece o anterior por intempestividade.
+6. Confira-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RECONSIDERAÇÃO DA DECISÃO QUE NEGOU SEGUIMENTO AO AGRAVO. JUNTADA DE DOCUMENTO EM AGRAVO REGIMENTAL COM VISTAS À COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO. POSSIBILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. TEMA SUBMETIDO AO RITO DOS REPETITIVOS. REVISÃO DO JULGADO. CESSAÇÃO DO VÍNCULO COM A EMPRESA PATROCINADORA. NECESSIDADE. [NOME] 108/2001. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça admite a comprovação do recesso forense, no âmbito dos Tribunais de Justiça, em agravo regimental.
+2. As regras do Código do Consumidor não se aplicam às relações de direito civil envolvendo participantes e/ou assistidos de planos de benefícios e entidades de previdência complementar fechadas, devendo a Súmula n. 321/STJ ser aplicada somente às entidades abertas de previdência complementar.
+3. Além disso, consoante o entendimento deste Tribunal, faz-se necessária a cessação do vínculo com o patrocinador para que o participante possa fazer jus ao benefício de complementação de aposentadoria, seja ela programada ou continuada, nos termos do art. 3º, I, da LC n. 108/2001.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 710.777/SE, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 1.4.2016).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial (AgRg no AREsp. 137.141/SE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 15.10.2012).
+7. Dessa maneira, tendo a parte Agravante trazido, juntamente com sua peça recursal, a necessária comprovação, é de ser conhecido seu Agravo em Recurso Especial.
+8. Tendo em conta os princípios da celeridade processual e da eficiência, passa-se, imediatamente, à nova análise do Agravo em Recurso Especial.
+9. Defende o autor o reconhecimento dos períodos trabalhados em atividades especiais (regime celetista), para fins de contagem recíproca, com a consequente revisão de sua aposentadoria.
+10. A Corte de origem negou provimento ao Apelo ao fundamento de que não é possível a contagem de tempo especial no RPPS, assim consignando:
+O(a) autor(a) requereu a aposentadoria por tempo de serviço quando era funcionário estatutário da Prefeitura Municipal de Cubatão, com a contagem recíproca dos períodos de atividades exercidas anteriormente ao último vínculo, em empresas privadas.
+Embora o autor afirme ter exercido atividades sob condições especiais, com exposição a agentes agressivos prejudiciais à saúde e à integridade física, tal discussão se torna despicienda no caso em questão, ante a vedação disposta no art. 96 da Lei 8.213/91, que trata da contagem recíproca:
+Dessa forma, o tempo de serviço do autor, trabalhado em empresas privadas, será obrigatoriamente considerado como comum e somado ao tempo de serviço trabalhado na condição de estatutário, compensando-se financeiramente os regimes previdenciários - geral e estatutário.
+Dessa forma, não há como reconhecer a natureza especial das atividades indicadas na inicial.
+11. Ocorre que reconhecida pelo STF a repercussão geral da matéria em deslinde no RE 1.014.286 (Tema 942 - Possibilidade de aplicação das regras do regime geral de previdência social para a averbação do tempo de serviço prestado em atividades exercidas sob condições especiais, nocivas à saúde ou à integridade física de servidor público, com conversão do tempo especial em comum, mediante contagem diferenciada).
+12. Nesses termos, à luz da nova legislação processual civil e com fim de garantir a segurança e estabilidade jurídica acerca da matéria, entendo que o presente feito deve ser sobrestado até o posicionamento do Supremo Tribunal Federal quanto ao tema, a fim de que se evite o julgamento precipitado de feito que pode ser posteriormente reformado pela tese que venha a ser fixada pela Suprema Corte Federal.
+13. Em face do exposto, dá-se provimento ao Agravo Interno do Particular para tornar sem efeito as decisões anteriores, ordenando a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, determinando-se o sobrestamento do presente feito até o julgamento do RE 1.014.286.
+14. Publique-se. Intimações necessárias.
