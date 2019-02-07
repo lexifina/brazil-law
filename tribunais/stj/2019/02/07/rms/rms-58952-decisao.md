@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME], com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado:
+MANDADO DE SEGURANÇA. PROCESSO SELETIVO SIMPLIFICADO. PLEITO DE NOMEAÇÃO IMEDIATA. INEXISTÊNCIA DE DIREITO SUBJETIVO. PRAZO DE VALIDADE NÃO EXPIRADO. ATO DISCRICIONÁRIO. LIQUIDEZ E CERTEZA NÃO CONFIGURADAS. PRECEDENTES DAS CORTES SUPERIORES. INTELIGÊNCIA DO ART. 485, VI, DO NOVO CÓDIGO DE PROCESSO CIVIL. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. DENEGAÇÃO DA SEGURANÇA.
+- O mandado de segurança é remédio processual destinado a coibir atos abusivos ou ilegais de autoridades públicas, protegendo o direito individual do cidadão diante do poder por elas exercido.
+- Considerando que o prazo de validade do processo seletivo simplificado, no qual o impetrante restou aprovado, ainda não se expirou, não há que se reconhecer o direito líquido e certo pleiteado, ou seja, a nomeação imediata, ensejando a extinção do feito sem alcance do mérito, nos termos do art. 485, VI, do Novo Código de Processo Civil, devendo ser denegada a ordem mandamental, de acordo com o disposto no art. 6o, §5º, da Lei nº 12.016/09.
+Sustenta, em síntese, que "após a finalização do concurso, o Governador do Estado da Paraíba, nomeou através do Ato Governamental nº 756/2017, o 1o lugar da ordem de classificação para o cargo de Vice-Diretor, destinado a assumir a vaga existente na escola [NOME]. Na mesma data, o Ato Governamental nº 753/2017, nomeou a segunda colocada para o cargo de Diretor, para assumir o cargo de Direito da [NOME] [NOME] [NOME]. Desta forma, compõe-se o Diretor e Vice-Diretor devidamente aprovados e classificados no concurso existente".
+Assim, conclui que a omissão na sua nomeação transformou-se em claro ato de preterição.
+Com contrarrazões (fls. 250/259e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 277/280e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com o art. 34, XVIII, b, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual, enquanto não expirado o prazo de validade do concurso público, o candidato aprovado, ainda que dentro do número de vagas, possui mera expectativa de direito à nomeação, dependente do juízo de conveniência e oportunidade da Administração Pública.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ATO OMISSIVO. AUSÊNCIA DE AUTORIZAÇÃO DO MPOG PARA PROVIMENTO DAS VAGAS. PRETERIÇÃO POR CONTRATAÇÃO TEMPORÁRIA PARA OS CARGOS DO CONCURSO. NÃO COMPROVAÇÃO. APROVAÇÃO DENTRO DO NÚMERO DE VAGAS. PRAZO DE VALIDADE DO CONCURSO AINDA NÃO EXPIRADO. INEXISTÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO. JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. A alegada preterição não foi devidamente comprovada nos autos, principalmente no que diz respeito à contratação temporária de pessoal para o exercício de atividades típicas e inerentes do cargo almejado.
+2. Enquanto não expirado o prazo de validade do concurso público, o candidato aprovado, ainda que dentro do número de vagas, possui mera expectativa de direito à nomeação, que dependerá do juízo de conveniência e oportunidade da administração pública. Precedentes: RMS 33.925/ES, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 02/02/2012; RMS 32.574/CE, Rel. Min. Teori Albino Zavaski, Primeira Turma, DJe 13/09/2011, AgRg no RMS 33.951/PA, Rel. Min. Herman Benjamin, Segunda Turma, DJe 05/09/2011.
+3. Mandado de segurança denegado.
+(MS 18.623/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 13/11/2013, DJe 02/04/2014).
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS. PRAZO DE VALIDADE NÃO EXPIRADO. EXPECTATIVA DE DIREITO.
+1. Trata-se de Mandado de Segurança no qual a impetrante alega ter sido aprovada dentro do número de vagas em concurso para provimento de cargo de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica, sem a respectiva nomeação.
+2. Enquanto não expirado o prazo de validade do concurso público, o candidato aprovado dentro do número de vagas possui mera expectativa de direito à nomeação, a ser concretizado conforme juízo de conveniência e oportunidade.
+3. Segurança denegada.
+(MS 18.717/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 22/05/2013, DJe 05/06/2013).
+Na espécie, o concurso tinha validade até 17.01.2018, cabendo à Administração a escolha do melhor momento para nomear os candidatos, observada a ordem de classificação, porém a impetração do writ se deu em 24.03.2017.
+Isto posto, com fundamento no art. 932, IV, do Código de Processo Civil de 2015 e art. 34, XVIII, b, do Regimento Interno desta Corte, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se e intimem-se.
