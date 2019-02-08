@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 970/971, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Inicialmente, registre-se que das publicação à época, inclusive a publicação do V. Acórdão Recorrido, não constou o nome do advogado original e titular do patrocínio, motivando na petição de Recurso Especial, pedido específico para fazer constar o nome do referido advogado, das publicações.
+Em tese, não constando o nome do advogado na publicação, nula seria a publicação do Acórdão Recorrido, com o que o prazo para interpor qualquer recurso não estaria fluindo.
+Trata-se de argumento secundário do Embargante, já que o argumento principal que sinaliza para a tempestividade do Recurso Especial, é que do sistema de acompanhamento do processo, sistema oficial do Tribunal de Justiça de Goiás, cópia anexa, constava na data da publicação do acórdão recorrido:
+"Processo 464331-63 - Conhecido e Não-Provido - Intimação 30/06/2017 - Data Limite 25/07/2017".
+Evidenciado que o prazo de 25/07/2017 foi fornecido pelo sistema eletrônico do Tribunal de Justiça, digno de fé pública, amparados assim pelos princípios da segurança e confiança dos atos oficiais, respaldado pelo respeito e credibilidade dos prazos estabelecidos pelo sistema oficial (fls. 974/975).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme a própria parte afirma em suas razões (fls. 974/975), o pedido de publicação exclusiva em nome do advogado, Dr. [NOME], só foi realizado na petição de recurso especial, só tendo efeitos a partir desse momento, portanto, não há que se falar em nulidade da publicação do acórdão recorrido, que ocorreu antes do referido pedido.
+Quanto à questão de sinalização do fim do prazo pelo sistema do Tribunal de origem, vale ressaltar que o juízo de admissibilidade do recurso especial é bifásico. Assim, de acordo com a jurisprudência do STJ, a certidão lavrada por servidor público ou pelo sistema nos autos do processo que atesta a tempestividade do recurso não impede o reexame desse requisito pelo STJ. Nesse sentido: AgRg no REsp n. 770.786/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 8/3/2010; e AgRg no AREsp n. 703.592/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2015.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
