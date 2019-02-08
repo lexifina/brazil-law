@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da Execução indeferiu o indulto da pena do paciente (fls. 61/62). O Tribunal a quo manteve essa decisão (Agravo de Execução Penal n. 0000594-13.2017.8.26.0521).
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos necessários para a concessão do benefício. Assegura que se o pedido tivesse sido realizado em momento adequado, não teria sido indeferido, pois a condenação posterior ainda não existiria.
+Requer, em liminar e no mérito, a concessão do indulto.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem, nos termos da seguinte ementa:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. REQUISITO OBJETIVO NÃO IMPLEMENTADO. TRÂNSITO EM JULGADO DE CONDENAÇÕES EM MOMENTO ANTERIOR À PUBLICAÇÃO DO DECRETO PRESIDENCIAL. NECESSIDADE DO CÔMPUTO, NO CÁLCULO DO REQUISITO OBJETIVO, DAS CONDENAÇÕES QUE SE TORNARAM DEFINITIVAS ATÉ 25/12/2015. PRECEDENTES. PARECER, EM PRELIMINAR, PELO NÃO CONHECIMENTO DO WRIT E, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM. (fl. 144)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a controvérsia refere-se ao indulto da pena, a qual foi indeferido nos seguintes termos:
+Juízo da Execução:
+ ..
+Trata-se de pedidos de indulto de pena formulado com base no Decreto Presidencial n.º 8.615/2015, e de progressão ao regime semiaberto de prisão, em favor de [NOME]. O Ministério Público opinou pelo indeferimento.
+É o relatório. Decido.
+O pedido de Indulto de Penas é improcedente.
+Conforme bem observado pelo D. Promotor de Justiça, o cálculo de penas demonstra que o executado não regatou até o dia 25/12/2015 a fração necessária à concessão da benesse pleiteada. Ausente, portanto, o requisito objetivo.
+Ante o exposto, indefiro o pedido formulado em favor de [NOME] ([RG]), por ausência de requisito objetivo.
+Acórdão:
+ ..
+Com efeito, formulou-se pedido de indulto relativo à reprimenda de cinco (5) anos e quatro (4) meses de reclusão com lastro no Decreto Presidencial nº. 8.615/15, sob o argumento de que [NOME], reincidente em crime doloso e recolhido ao cárcere desde 25 de julho de 2.012, havia resgatado mais da metade da sanção até a publicação daquela norma, sem registrar falta disciplinar durante o período de prova estabelecido (fls. 22).
+Contudo, antes mesmo de apreciado o pedido, apurou- se haver quatro condenações criminais suportadas pelo agravante (relativas às PECs sob os nºs. 7000040-45.2012.8.26.0549, 0001428-50.2016.8.26.0521, 0004316-04.2015.8.26.0496 e 7000016-80.2013.8.26.0549), no caso totalizando sete (7) anos e quatro (4) meses de reclusão, quadro apto a inviabilizar, de plano, a benesse alvitrada, porquanto não implementado o desconto de metade do "castigo" até a data limite imposta no Decreto.
+ ..
+Feita a ressalva, acresça-se que, no concernente ao indulto, partiu o magistrado de simples somatória do tempo total de prisão de [NOME] durante suas diversas idas e vindas ao sistema prisional (fls. 43) para se constatar o fato dele haver cumprido pouco mais de três (3) anos de pena até 25 de dezembro de 2.015, não perfazendo, destarte, o requisito insculpido no artigo 1º, I, do Decreto Presidencial com relação ao "castigo" decorrente da unificação, no caso aparentemente ignorada pela Defensoria Pública nas razões de reclamo.
+Convém notar, ainda, que, embora a unificação tenha ocorrido por ocasião do pedido de indulto, todas as condenações deram-se antes da edição da norma presidencial, quadro apto a autorizar a somatória para fins de aferição do requisito objetivo, tal como determina o artigo 8º do Decreto nº. 8.615/2015.
+Outra não foi a interpretação dada pelo Superior Tribunal de Justiça diante de norma idêntica observada em Decreto anterior, assinalando-se que "O disposto nos arts. 8º e 11, § 3º, do Decreto Presidencial, segundo os quais: as penas correspondentes a infrações diversas devem somar-se, para efeito da declaração de indulto e da comutação de penas, até 25 de dezembro de 2013, e a declaração de indulto e de comutação das penas terá preferência sobre a decisão de qualquer outro incidente no curso da execução penal, não tem o condão de ensejar a desconsideração das condenações que se tornaram definitivas dentro do lapso temporal previsto no Decreto Presidencial (25/12/2013), mas que ainda não tivessem sido somadas até essa data, ao contrário, determina que seja procedida, no cálculo das penas, à prévia soma das penas, somente devendo ser excluídas do cálculo as condenações que se tornaram definitivas após 25 de dezembro de 2013" (STJ, HC 320264/SC, Relator Ministro NEFI CORDEIRO, DJe 25-5-2016 grifou- se), mesma solução adotada diante das disposições contidas no Decreto Presidencial nº.8.615/2015.
+E, malgrado o precedente em destaque faça apenas alusão às condenações tornadas definitivas até a data de publicação do Decreto, certo é que também aquelas tidas como "provisórias" integrarão o cômputo para fins de definição do requisito objetivo-temporal necessário à concessão da benesse, consoante disposição expressa contida no artigo 6º da norma em destaque, na hipótese assinalando o cabimento do benefício mesmo na pendência de recurso em instância superior (excetuados aqueles interpostos pela acusação com vistas à majoração da pena ou alteração de algum dos requisitos indispensáveis à concessão da benesse).
+Neste passo, outro precedente daquela mesma Corte Superior merece ser colacionado, consignando-se que, "De acordo com os arts. 5º e 7º do Decreto Presidencial n. 7.420/2010, é possível, ainda que haja, em desfavor do reeducando, sentença que não tenha transitado em julgado, a concessão de indulto. 3. O mesmo entendimento deve ser considerado quando da aferição do requisito objetivo necessário para obtenção do benefício, de modo que a pena tida como provisória deve ser somada à definitiva" (STJ, HC 320779/MG, Relator Ministro RIBEIRO DANTAS, DJe 1º-10-2016 grifou-se).
+À vista do exposto, pelo meu voto, NEGO PROVIMENTO AO RECURSO, mantendo a decisão impugnada. (fls. 87/90)
+Em que pesem as razões da defesa, estas não merecem prosperar.
+Isso porque o acórdão proferido pelo Tribunal de origem manteve, de forma fundamentada, o indeferimento do pedido de indulto, por verificar que não estava preenchido o requisito temporal para obtenção do benefício.
+Da atenta leitura do Decreto Presidencial n. 8.615/15 notadamente os arts. 6º e 8º, verifica-se que, ainda que haja, em desfavor do reeducando, sentença que não tenha transitado em julgado, é possível a concessão da comutação de penas e indulto. A propósito, cite-se:
+" Art. 6º O indulto e a comutação de penas de que trata este Decreto são cabíveis, ainda que:
+I - a sentença tenha transitado em julgado para a acusação, sem prejuízo do julgamento de recurso da defesa em instância superior;
+ ..
+Art. 8º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2015."
+Destarte, não resta evidenciada a ocorrência de flagrante ilegalidade apta a justificar a concessão da ordem, de ofício. A propósito:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. INDULTO. DECRETO PRESIDENCIAL N. 7.420/2010. SOMA DAS PENAS DEFINITIVA E PROVISÓRIA. NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. De acordo com os arts. 5º e 7º do Decreto Presidencial n. 7.420/2010, é possível, ainda que haja, em desfavor do reeducando, sentença que não tenha transitado em julgado, a concessão de indulto.
+3. O mesmo entendimento deve ser considerado quando da aferição do requisito objetivo necessário para obtenção do benefício, de modo que a pena tida como provisória deve ser somada à definitiva.
+4. Habeas corpus não conhecido. (HC 320.779/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/10/2016, DJe 18/10/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO. COMUTAÇÃO. REQUISITO OBJETIVO. CONDENAÇÃO PROVISÓRIA. CÁLCULO. PACIENTE EM LIBERDADE. NÃO ALTERA REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O Decreto n. 7.420/2010 prevê, expressamente, a possibilidade de se conceder o indulto ao condenado, ainda que a pena decorra de condenação que ainda não transitou em julgado para a defesa. E mais, que essa pena provisória deve ser levada em consideração quando do cálculo do benefício.
+3. Entretanto, o impetrante não logrou demonstrar o preenchimento dos requisitos objetivos para a concessão do benefício. O fato de ter o paciente respondido ao processo em liberdade não altera os requisitos estabelecidos no Decreto de regência.
+4. Habeas corpus não conhecido. (HC 337.969/SP, de Minha Relatoria, julgado em 19/05/2016, DJe 30/05/2016)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
