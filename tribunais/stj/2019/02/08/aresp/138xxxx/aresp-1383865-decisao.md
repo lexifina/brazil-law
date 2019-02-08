@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. PREENCHIMENTO DOS REQUISITOS. INTEGRALIDADE E PARIDADE. ALEGADA VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. REEXAME DOS FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Regime Próprio de Previdência Social de São José do Rio Preto contra decisão da Corte de origem que não admitiu o recurso especial pelo teor da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão oriundo da 5ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado (fls. 308-318, e-STJ):
+RECURSO DE APELAÇÃO EM AÇÃO DE PROCEDIMENTO COMUM. 1. INTEGRALIDADE E PARIDADE. Ingresso no serviço público antes da vigência das Emendas Constitucionais 20198 e 41/03. Direito garantido à e paridade de proventos. 2. CORREÇÃO MONETÁRIA. No julgamento das ADI 4.357 e 4.425 foi declarada a inconstitu cio nalidade da expressão "índice oficial de remuneração básica da caderneta de poupança" entendendo o STF que, por arrastamento, o art. 1 0-F da Lei 9.494197, com redação dada pelo art. 51 da Lei 11.960/09 também é, em parte, inconstitucional. Aplicação do índice IPCA/IBGE que reflete a correção monetária. 3.
+JUROS MORATÓRIOS. Índice que deve ter os mesmos critérios de fixação de juros moratórios entre devedores públicos e privados, não podendo ser inferior àquele pelo qual a Fazenda Pública recebe seus créditos. Princípio da isonomia. 4. MODULAÇÃO DOS EFEITOS. A modulação dos efeitos da declaração de inconstitucionalidade feita pelo E. Supremo Tribunal Federal aplica- se somente aos precatórios ex  edidos até o dia 25.03.2015, não tendo qualquer reflexo nas çondenações atuais  que - deverão observar a inconstitucionalidade. S. Sentença de procedência mantida. Recurso desprovido.
+Sem embargos de declaração.
+A recorrente em suas razões alega violação dos arts. 141, 489, § 1º, IV e 492 do CPC/2015 e 1º da Lei n. 10.887/2004, sob o argumento de que o acórdão recorrido é nulo por não enfrentar todos os argumentos deduzidos no processo, além de manter a decisão de primeiro grau, apontada como nula por ter concedido pleito ao autor diverso do requerido na inicial.
+Sustenta, ainda, que a servidora não faz jus ao benefício de aposentadoria especial com proventos integrais, uma vez que não atingiu os requisitos exigidos tal, como tempo de contribuição, idade, tempo de serviço público e tempo de serviço na carreira antes da entrada em vigor da Emenda Constitucional n. 41/2003.
+Ao final, requer o provimento do recurso, com o fim de anular o acórdão recorrido, determinando-se a remessa para pronunciamento da questão de ordem pública "julgamento extra petita" descrita na apelação, subsidiariamente requer-se a reforma do acórdão para que seja respeitado o disposto na legislação federal (fl. 331, e-STJ).
+Sem contrarrazões (certidão, fls. 343, e-STJ).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No caso concreto, o acórdão recorrido manteve a sentença, que julgou procedente o pedido inicial, reconhecendo o direito da autora ao recebimento do benefício de aposentadoria especial.
+De início, no tocante à alegada violação do artigo 489, § 1º, inciso IV, do Código de Processo Civil de 2015, a alegação não merece ser acolhida, porquanto o Tribunal de origem apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses dos recorrentes.
+Ademais, conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016). No mesmo sentido, também: REsp 1665273/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/06/2017.
+Com efeito, o Tribunal de origem, ao analisar o conjunto probatório, não deixa dúvida de que a agravada ingressou no serviço público antes da Emenda Constitucional n. 41/2003 e rejeitou os argumentos do agravantes com os seguintes fundamentos:
+ ..
+Compulsando os autos, verifica-se que pretende o particular a concessão de aposentadoria respeitada a paridade com os membros da ativa.
+Conforme documentos_ acostados aos autos, a particular ingressou no serviço público antes da Emenda Constitucional 41/03.
+Neste passo, tem-se que, aqueles que ingressaram antes da entrada em vigor das Emendas constitucionais 20/98  dezembro de 1998 e 41/03  dezembro de 2003 - fazem jus ao recebimento dos seus proventos integrais e com paridade, quando passarem à inatividade.
+ ..
+Assim, a modificação do acórdão recorrido, que reconheceu a existência dos requisitos para reconhecimento da aposentadoria especial com proventos integrais, somente poderia ser modificado mediante o revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. LABOR ESPECIAL. CONTRIBUINTE INDIVIDUAL. COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Na hipótese em exame, o Tribunal de origem reconheceu como tempo especial o laborado pelo contribuinte individual, assegurando ao recorrido o benefício pleiteado.
+2. O acolhimento da pretensão recursal e a modificação do julgado a quo demandam reexame do contexto fático-probatório, mormente no que diz respeito à análise do tempo de serviço, da especialidade do labor e da condição de contribuinte individual. Precedente: AgRg no REsp. 1.454.157/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15.10.2014.
+3. Recurso Especial não provido" (STJ, REsp 1523054/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 05/8/2015).
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
