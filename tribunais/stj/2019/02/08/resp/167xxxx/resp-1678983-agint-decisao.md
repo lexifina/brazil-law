@@ -1,0 +1,18 @@
+DECISÃO
+Vistos etc.
+O Excelso Pretório, recentemente (14/09/2018), reconhecera a existência de repercussão geral acerca da competência para julgamento das ações em que se discute o direito ao seguro habitacional no RE 827.996/PR.
+Inaugurou-se o tema 1.011, delimitando a controvérsia nos seguintes termos: "Controvérsia relativa à existência de interesse jurídico da Caixa Econômica Federal para ingressar como parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, consequentemente, à competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza."
+A Colenda 4ª Turma, quando do julgamento do Aresp 966.543/PR e do AREsp 826.653/PR, de modo a evitar a prolação de decisões contrárias acerca da presente controvérsia, passou a determinar que o processo fique sobrestado na origem até o julgamento do recurso extraordinário em epígrafe.
+A solução fora também adotada por esta Terceira Turma no REsp 1.761.636 e no REsp 1761633, julgados em sessão de 13/11/2018.
+É que toda a sorte de decisões passaram a ser prolatadas em tema tão delicado como o da competência para julgamento de determinada ação na origem. Alguns Tribunais reconhecem a ausência de provas acerca do comprometimento do FCVS e afastam o interesse da CEF, outros a sua presença, outros, ainda, a desnecessidade dessa prova em face da Lei 13.000/14 e, finalmente, outros limitam-se a reconhecer que a questão deve ser analisada pela Justiça Federal, declinando da competência na forma do enunciado 150/STJ.
+No mais das vezes, esta Corte Superior têm mantido a aplicação do enunciado 150/STJ ou, quando reconhecida a presença ou ausência de elementos de convicção acerca do comprometimento do FCVS, tem aplicado o enunciado sumular 7/STJ, o que acaba por fazer com que os processos sejam julgados na Justiça Federal ou Estadual, remanescendo, pois, uma sensação de instabilidade incompatível com a definição da competência do órgão julgador.
+Deste modo, tenho que é imperioso:
+
+a) determinar o sobrestamento dos processos no Tribunal de origem, de modo a que se aguarde o julgamento do recurso extraordinário, procedendo-se, então, na forma dos arts. 1.039 e 1.040 do CPC de 2015.
+
+b) conclamar a instância de origem a sobrelevar a lógica do sistema de precedentes estabelecido no CPC de 2015, negando-se seguimento aos recursos especiais ou extraordinários sobrestados se o acórdão recorrido coincidir com a orientação do tribunal superior (inciso I do art. 1.040 do CPC); ou realizando juízo de retratação se o acórdão recorrido contrariar a orientação do tribunal superior (inciso II, do art. 1.040 do CPC);
+
+c) Existentes outras questões além daquela abrangida pelo tema 1.011, deverá o recurso ser reencaminhado a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e ainda não prejudicadas.
+
+Ante o exposto, torno sem efeito a decisão de fls. 1.074/1.078, determinando o sobrestamento e a remessa dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso extraordinário com repercussão geral, proceda-se na forma dos arts. 1.039 e 1.040 do CPC/2015.
+Intimem-se.
