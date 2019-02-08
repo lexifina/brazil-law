@@ -1,0 +1,38 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPARECIMENTO ESPONTÂNEO. PRECEDENTE ESPECÍFICO DA CORTE ESPECIAL. SÚMULA 83/STJ.
+RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela CAIXA ECONÔMICA FEDERAL contra acórdão do Tribunal Regional Federal da 2ª Região, ementado nos seguintes termos:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CITAÇÃO NÃO CONFIGURADA. COMPARECIMENTO ESPONTÂNEO. INEXISTÊNCIA. PETIÇÃO PROTOCOLADA POR ADVOGADO SEM INSTRUMENTO DE MANDATO. RECURSO PROVIDO.
+1. A intimação do recorrente acerca da realização do leilão não supre a necessidade de citação, sendo certo que esta possui requisitos específicos, devendo ser acompanhada de cópia da petição inicial e consignar o prazo para a apresentação da resposta (arts. 223, 225 e 226 do CPC/73).
+2. O Juízo a quo, entretanto, entendeu que a petição protocolada em nome do ora agravante supriria a ausência de citação, por configurar comparecimento espontâneo. Ocorre que a referida petição foi protocolada por advogado sem a apresentação de qualquer instrumento de mandato outorgado pelo recorrente. A irregularidade da representação foi, inclusive, reconhecida em primeira instância na decisão.
+3. Nos termos do art. 37 do Código de Processo Civil vigente à época em que apresentada a petição, "sem o instrumento de mandato, o advogado não será admitido a procurar em juízo". O dispositivo trazia como exceção apenas a prática de atos urgentes, desde que a procuração fosse trazida a juízo no prazo de 15 (quinze) dias, prorrogáveis por mais 15 (quinze). O próprio artigo, em seu parágrafo único, previa que, não apresentado instrumento de mandato, seria reputado como inexistente o ato processual praticado.
+Registre-se, ainda, que, como se não bastasse a inexistência de procuração, o art. 38 do CPC/73 exigia poderes específicos para receber citação.
+4. O comparecimento espontâneo nos autos somente supre a citação se o advogado subscritor do recurso tiver procuração com poderes especiais para tanto. Apresentada petição sem qualquer instrumento de mandato, não há que se falar em citação do recorrente.
+5. Agravo de instrumento conhecido e provido.
+Em suas razões, a parte recorrente sustentou que o acórdão recorrido violou o disposto nos artigos 1.022, 239, §1º, 276, 5º, 489, § 3º, do Código de Processo Civil de 1973. Postulou conhecimento e provimento do recurso.
+Presentes as contrarrazões, o recurso especial foi admitido.
+É o relatório.
+Decido.
+Não merece provimento o presente recurso especial.
+O Tribunal de origem, reformando a decisão de piso, deu provimento ao recurso de agravo de instrumento para reconhecer a ausência de citação do ora recorrido, considerando-o por citado a partir da publicação do acórdão recorrido e determinando a devolução do prazo para apresentação de embargos à execução.
+Contrariada, a parte recorrente sustenta que o comparecimento espontâneo do réu, através de advogado, supriria a citação. Apontou precedentes.
+Primeiramente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação. Ademais, a contrariedade da parte com a decisão posta não caracteriza vício de julgamento.
+Quanto ao mérito, o acórdão recorrido foi expresso ao se manifestar no sentido da impossibilidade de a citação ser suprida pela intimação do agravante acerca do leilão, bem como pela inexistência do ato processual praticado por advogado que não tenha procuração nos autos, verbis:
+Feito esse breve relato, entendo que a irresignação recursal merece prosperar. Com efeito, é incontroverso que o recorrente não foi pessoalmente citado, conforme reconhecido na decisão de fls. 402/408 dos autos originários. Ademais, a intimação do recorrente acerca da realização do leilão não supre a necessidade de citação, sendo certo que esta possui requisitos específicos, devendo ser acompanhada de cópia da petição inicial e consignar o prazo para apresentação da resposta (art. 223, 225 e 226 do CPC/73, em vigor à época).
+Com efeito, a orientação jurisprudencial desta Corte Superior tem sido no sentido de que não perfaz comparecimento espontâneo o peticionamento nos autos por advogado destituído de poderes especiais para receber a citação.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. COMUNICAÇÃO NOS AUTOS DE AGRAVO DE INSTRUMENTO INTERPOSTO. AUSÊNCIA DE PODERES PARA RECEBER CITAÇÃO NO INSTRUMENTO PROCURATÓRIO. COMPARECIMENTO ESPONTÂNEO. NÃO CONFIGURAÇÃO.
+ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. O Superior Tribunal de Justiça possui entendimento consolidado de que, em regra, o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo apto a suprir tal necessidade. Precedentes: AgRg no AREsp 410.070/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 3/12/2013; AgRg no Ag 1.176.138/MS, Rel. Ministro Raul Araújo, Quarta Turma, DJe 6/11/2012; AgRg no Ag 1.144.741/MG, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe 27/8/2012; AgRg no REsp 1.256.389/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 9/10/2014; REsp 648.202/RJ, Rel. Ministro Carlos Alberto Menezes Direito, Terceira Turma, DJ 11/4/2005; AgRg no REsp 1.468.906/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/9/2014;
+AgInt no AREsp 47.435/GO, Rel. Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, DJe 16/4/2018; AgInt no AREsp 993.298/MT, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 25/4/2018.
+2. É que, na forma da orientação pacificada, se configura o comparecimento espontâneo do réu com: "a) a juntada de procuração com poderes especiais, desde que possível o acesso aos autos do processo; e b) a apresentação de embargos ou exceção de pré-executividade, ainda que não outorgados poderes especiais ao advogado para receber a citação". Mas, não perfaz tal comparecimento espontâneo: "a) o peticionamento nos autos por advogado destituído de poderes especiais para receber a citação e sem a apresentação de defesa; b) o peticionamento para informar a adesão a programa de parcelamento do débito tributário; e c) a carga dos autos por advogado sem poderes específicos para receber citação não supre a ausência do referido ato" (REsp 1.165.828/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 7/3/2017, DJe 17/3/2017).
+3. No caso, em ação de busca e apreensão, após deferida medida liminar, o advogado constituído pela parte requerida comunicou a interposição de agravo de instrumento. O aresto ora embargado considerou que, mesmo ausentes poderes no instrumento procuratório para receber citação, teria havido o comparecimento espontâneo da parte aos autos, posicionamento que conflita com a jurisprudência firmada na matéria por esta Corte de Justiça.
+4. Embargos de divergência acolhidos.
+(EREsp 1709915/CE, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 01/08/2018, DJe 09/08/2018) (grifos meus)
+Dessa forma, o ato praticado por advogado sem procuração nos autos, ou seja, ainda menos substanciosa que a hipótese prestigiada pelo precedente (peticionamento por advogado destituído de poderes especiais para receber citação), não caracteriza comparecimento espontâneo.
+Portanto, a pretensão recursal esbarra no óbice da Súmula 83/STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Advirto as partes que a interposição de recursos protelatórios será punida com aplicação de multa.
+Intimem-se.
