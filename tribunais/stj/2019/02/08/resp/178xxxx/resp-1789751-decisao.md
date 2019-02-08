@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENFERMAGEM DA PARAIBA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+Tributário e Processual Civil. Execução fiscal. Conselho profissional. Lei 12.514/11. Cobrança de valores inferiores a quatro anuidades. Extinção da execução. O art. 8º da Lei nº 12.514/11 prescreve a cobrança dos débitos por conselhos regionais, determinando o valor ínfimo para os valores inferiores a quatro anuidades. A ação executiva foi ajuizada em 16/03/16, quando já estava em pleno vigor a Lei nº 12.514/11, regulamentando a cobrança judicial. A execução fiscal está em dissonância com o comando do art. 8º da Lei 12.514/11, Apelação improvida.
+Os embargos de declaração interpostos foram improvidos.
+No presente recurso especial, o recorrente aponta violação do art. 8º da Lei n. 12.514/2011.
+Sustenta, em síntese, que é indevida a extinção da presente execução fiscal, tendo em vista que o valor do feito executivo supera o patamar monetário mínimo estabelecido na Lei n. 12.514/2011.
+É o relatório. Decido.
+É irrefutável que as instâncias ordinárias, ao analisarem o conteúdo fático e probatório dos autos, atestaram que o valor da execução fiscal em apreço não alcança o patamar mínimo legalmente previsto, tendo, inclusive, o juízo monocrático consignado expressamente que "do exame dos autos, constata-se que o crédito executado é inferior ao valor atualizado de 04 (quatro) anuidades, não preenchendo, assim, os requisitos exigidos pela Lei nº 12.154/2011.".
+Dessa forma, verifica-se que a irresignação do recorrente, acerca do preenchimento do requisito referente ao valor mínimo para a apresentação de execução fiscal, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
