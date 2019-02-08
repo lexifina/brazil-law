@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais - IBAMA contra decisão que negou provimento ao agravo em recurso especial em razão da incidência da Súmula 7/STJ.
+ Em suas razões, a parte embargante sustenta que a decisão embargada foi omissa, pois deixou de aplicar o art. 85. § 11, do CPC/2015, dada a ausência de fixação de honorários de sucumbência para a fase recursal.
+A parte embargada apresentou impugnação na qual requer a rejeição dos embargos, pois "à luz dos §§ 1º, 2º e do próprio §11, do artigo 85 do CPC/2015, os honorários advocatícios sucumbenciais, somados, em todas as fases, não podem ultrapassar o teto de 20% (vinte por cento) do valor da condenação. Como já demonstrado, a soma fixada a título de honorários no Acórdão recorrido já ultrapassa, e muito, àquela legalmente permitida." (fl. 254).
+É o relatório.
+ De fato a decisão embargada não se manifestou a respeito da possibilidade de arbitramento de honorários recursais, a teor do disposto no art. 85, § 11, do CPC/2015.
+Contudo, em que pese a mencionada omissão, não há como acolher a pretensão.
+Isso porque, consoante bem apontado na impugnação de fls. 252/255, o valor da causa (atualizado em 28/11/2018) alcança o valor de R$ 14.768,09. Assim, conforme previsto no art. 85, §§ 1º e 2º, do CPC/2015 não seria possível a majoração da verba honorária, já arbitrada pelo acórdão em R$ 5.000,00, pois superaria o limite máximo de 20% sobre o valor atualizado da causa.
+Por fim, verifico, de ofício, que, na decisão de fls. 241/243, não houve exame do pleito de redução da verba honorária (fls. 168/169), formulado nas razões de recurso especial.
+No entanto, inviável o conhecimento do recurso especial nesse ponto, uma vez que a parte recorrente, ora embargada, não fez menção a qualquer dispositivo de lei para fundamentar seu pleito de redução da verba honorária, o que a atrai a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Dessarte, acolho os embargos de declaração para sanar a omissão apontada acerca dos honorários recursais sem efeitos modificativos.
+Publique-se.
