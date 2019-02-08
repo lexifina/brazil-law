@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu seu recurso especial, fundado no artigo 105, inciso III, alínea a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, a agravante discute: a) ocorrência de dano moral in re ipsa; e b) a indevida aplicação da Súmula 385/STJ.
+É o relatório. Decido.
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n. 1.386.424/MG, DJe de 16/05/2016, vinculado ao Tema n. 922, firmou entendimento no sentido do descabimento de indenização por danos morais quando preexistente anotação anterior em nome do ofendido nos órgãos de proteção ao crédito. Eis a ementa do julgado:
+RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO CARACTERIZADO. INSCRIÇÃO INDEVIDA COMANDADA PELO SUPOSTO CREDOR. ANOTAÇÕES ANTERIORES. SÚMULA 385/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula 385/STJ).
+3. Embora os precedentes da referida súmula tenham sido acórdãos em que a indenização era buscada contra cadastros restritivos de crédito, o seu fundamento - "quem já é registrado como mau pagador não pode se sentir moralmente ofendido por mais uma inscrição do nome como inadimplente em cadastros de proteção ao crédito", cf. REsp 1.002.985-RS, rel. Ministro Ari Pargendler - aplica-se também às ações voltadas contra o suposto credor que efetivou a inscrição irregular.
+4. Hipótese em que a inscrição indevida coexistiu com quatorze outras anotações que as instâncias ordinárias verificaram constar em nome do autor em cadastro de inadimplentes.
+5. Recurso Especial a que se nega provimento. (REsp 1.386.424/MG, relator Ministro Paulo de Tarso Sanseverino, relatora p/ Acórdão Ministra Maria Isabel Gallotti, Segunda Seção, DJe de 16/05/2016)
+Na espécie, o Tribunal a quo decidiu em consonância com esse entendimento nos seguintes termos (fls. 169/170):
+Em relação ao pedido de dano moral, também não merece reparo a sentença, eis que o caso dos autos não transborda o mero inadimplemento contratual, situação que, via de regra, não enseja o reconhecimento de dano moral indenizável. Além disso, a parte já possui outros débitos levados a registro (fl. 15).
+Ressalte-se que, para se concluir em sentido contrário ao que foi expressamente consignado no acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta via excepcional, em face do óbice erigido pela Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ante o exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
