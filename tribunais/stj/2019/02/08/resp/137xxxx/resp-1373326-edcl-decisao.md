@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENCARGO PREVISTO NO ART. 1o. DO DECRETO-LEI 1.025/1969. HABILITAÇÃO NO JUÍZO FALIMENTAR COMO CRÉDITO PRIVILEGIADO DA UNIÃO. ART. 83, INC. III DA LEI 11.101/2005. OMISSÃO CONFIGURADA. EMBARGOS DA FAZENDA NACIONAL ACOLHIDOS.
+1. Trata-se de Embargos de Declaração no Recurso Especial opostos pela FAZENDA NACIONAL contra decisão que negou provimento ao seu Recurso Especial, nos termos da seguinte ementa:
+RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. ENCARGO PREVISTO NO ART. 1o. DO DECRETO-LEI 1.025/1969. HABILITAÇÃO NO JUÍZO FALIMENTAR. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO (fls. 136).
+
+2. Na suas razões recursais, a parte embargante alega que nada obstante o correto acolhimento do pleito da União para fazer constar na habilitação falimentar a verba discutida, restou omissa a decisão no ponto do pedido relativo a classe em que os referidos créditos deveriam ser incluídos (fls. 144).
+3. É o relatório.
+4. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+5. A teor do disposto no art. 535, incisos I e II do CPC/1973, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+6. No caso ocorreu omissão quanto à classe em que a verba em análise deveria ser incluída. Em relação ao tema, o Superior Tribunal de Justiça entende que, por se tratar de crédito tributário da União, o encargo legal previsto no art. 1o. do Decreto-Lei 1.025/1969 deve ser habilitado na falência como crédito privilegiado, nos termos do art. 83, inc. III da Lei 11.101/2005. A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ENCARGO LEGAL. NATUREZA. CRÉDITO TRIBUTÁRIO. HABILITAÇÃO. PROCESSO FALIMENTAR COMO CRÉDITO PRIVILEGIADO.
+1. A indicada afronta do art. 208, § 2º, da Lei 7.661/1945 não deve ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O encargo legal do art. 1º do Decreto-Lei 1.025/1969 constitui crédito tributário da União, portanto pode ser habilitado como crédito privilegiado tributário em processo falimentar, conforme dispõe o art. 83, III, da Lei 11.101/2005. Precedente: REsp 1.517.361/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 29/5/2015.
+3. Recurso Especial parcialmente conhecido e, nessa parte, provido (REsp. 1.527.022/SP, Rel. Min. HERMAN BENJAMIN, DJe 25.5.2016).
+7. Diante do exposto, acolhem-se os Embargos de Declaração da FAZENDA NACIONAL para sanar omissão e determinar que o Tribunal de origem classifique o encargo previsto no art. 1o. do Decreto-Lei 1.025/1969 como crédito privilegiado, nos termos do art. 83, III da Lei 11.101/2005.
+8. Publique-se. Intimações necessárias.
