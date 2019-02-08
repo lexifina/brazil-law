@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, contra acórdão prolatado, por unanimidade, pela 10ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de apelação, assim ementado (fls. 202e):
+PROCESSO CIVIL. ASSISTÊNCIA SOCIAL. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. DIREITO PERSONALÍSSIMO. ART. 20, § 3º, DA L. 8.742/93. EXTINÇÃO DO PROCESSO. ART. 267, IV E § 3º, CPC.
+Beneficio de prestação continuada (L. 8.742/93), tem natureza assistencial, limitado, portanto, à pessoa do beneficiário, cuja titularidade não se transfere a eventuais herdeiros ou sucessores.
+Extinção do processo. Apelação prejudicada.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts. 43, 265, I, 1.055, 1.059 e 1.062 do Código de Processo Civil e 23, parágrafo único, do Decreto n. 6.214/2007, alegando-se, em síntese, que o benefício de prestação continuada tem caráter personalíssimo, significando que não há possibilidade de pagamento de prestações originárias de período posterior à ocorrência do óbito, todavia, esta característica do benefício assistencial não impede o pagamento de parcelas incorporadas ao patrimônio do autor ainda em vida.
+Sem contrarrazões (fl. 221e), o recurso foi admitido (fls. 227/229e).
+É o relatório.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Cinge-se a controvérsia a respeito da possibilidade ou não da transmissão aos herdeiros dos valores retroativos de benefício assistencial no caso de falecimento da parte autora no curso do processo.
+No caso, extrai-se dos autos que o INSS foi condenado, em 29.10.2007, ao pagamento do benefício de prestação continuada (fls. 106/112e).
+Antes do julgamento dos recursos de apelação interpostos pelas partes, a Autora faleceu, o que acarretou na extinção do processo sem resolução do mérito (fls. 197/202e):
+Em consulta realizada em 19.09.08 ao Sistema DATAPREV/PLENUS, verificou-se que a parte autora faleceu em 14.08.08 (fls. 158).
+O amparo previdenciário (L. 6.179/74), substituído pela renda mensal vitalícia (L. 8.213/91) e, posteriormente, pelo beneficio de prestação continuada (L. 8.742/93), tem natureza assistencial, limitado, portanto, à pessoa do beneficiário, cuja titularidade não se transfere a eventuais herdeiros ou sucessores.
+Trata-se, pois, de benefício de prestação continuada personalíssimo, não podendo ser transferido aos herdeiros em caso de óbito; nem gera direito à percepção de pensão por morte pelo que não pode ser pedido em juízo ou fora dele a cobrança de valores acaso devidos ao beneficiário que falecer (REsp 175.087 SP, Min. Jorge Scartezzini; AgRg no Ag 839244 SP, Min. Paulo Gallotti, Resp 264.774 SP, Min. Gilson Dipp).
+Aliás, assim já decidiu a eg. 10a Turma deste Tribunal (AC 2007.03.99.024036-1, Des. Sérgio Nascimento)
+Posto isto, de ofício, julgo extinto o processo, sem resolução do mérito, nos termos do art. 267, VI e § 3o do [NOME]. Civil. Prejudicada a apelação.
+Com efeito, esta Corte firmou entendimento segundo o qual, apesar do benefício assistencial não gerar direito à percepção de pensão por morte, os herdeiros do beneficiário têm legitimidade processual para pleitear valores não recebidos em vida pelo de cujus falecido no curso do processo.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. MORTE DO AUTOR NO CURSO DA AÇÃO. EXTINÇÃO DO PROCESSO. DIREITO DOS HERDEIROS/SUCESSORES A RECEBER EVENTUAIS PARCELAS ATÉ A DATA DO ÓBITO. POSSIBILIDADE. PRECEDENTES.
+1. O entendimento desta Corte é no sentido de que, apesar do caráter personalíssimo dos benefícios previdenciários e assistenciais, os herdeiros têm o direito de receber eventuais parcelas que seriam devidas ao autor que falece no curso da ação. Precedentes: AgRg no REsp 1.260.414/CE, Rel. Min. Laurita Vaz, Quinta Turma, DJe 26/3/2013; AgRg no Ag 1.387.980/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 28/5/2012; AgRg no REsp 1.197.447/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 2/2/2011.
+2. Agravo interno não provido.
+(AgInt no REsp 1531347/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017, destaque meu).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO TITULAR DO BENEFÍCIO NO CURSO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS PARA O RECEBIMENTOS DOS VALORES NÃO PAGOS EM VIDA. POSSIBILIDADE. ARTIGOS 20 E 21 DA LEI 8.742/1993. ARTIGO 23 DO DECRETO 6.214/2007. RECURSO ESPECIAL PROVIDO.
+1. No caso de benefício assistencial de prestação continuada, previsto na Lei 8.742/1993, não obstante o seu caráter personalíssimo, eventuais créditos existentes em nome do beneficiário no momento de seu falecimento, devem ser pagos aos seus herdeiros, porquanto, já integravam o patrimônio jurídico do de cujus. Precedentes.
+2. O caráter personalíssimo do benefício impede a realização de pagamentos posteriores ao óbito, mas não retira do patrimônio jurídico do seu titular as parcelas que lhe eram devidas antes de seu falecimento, e que, por questões de ordem administrativa e processual, não lhe foram pagas em momento oportuno.
+3. No âmbito regulamentar, o artigo 23 do Decreto nº 6.214/2007, garante expressamente aos herdeiros ou sucessores o valor residual não recebido em vida pelo beneficiário,
+4. Portanto, no caso de falecimento do beneficiário no curso do processo em que ficou reconhecido o direito ao benefício assistencial, é possível a habilitação de herdeiros do beneficiário da assistencial social, para o recebimento dos valores não recebidos em vida pelo titular.
+5. Recurso especial provido.
+(REsp 1568117/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017, destaques meus).
+Isto posto, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial, para anular o acórdão do Tribunal Regional Federal da 3ª Região que extinguiu o feito sem julgamento de mérito e determinar que seja realizado novo julgamento dos recursos de apelação interpostos pelas partes.
+Publique-se e intimem-se.
