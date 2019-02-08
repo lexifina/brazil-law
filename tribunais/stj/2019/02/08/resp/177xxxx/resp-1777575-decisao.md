@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 489 DO CPC/2015. ACÓRDÃO RECORRIDO QUE NÃO PADECE DE FALTA DE MOTIVAÇÃO. ADMINISTRATIVO. AÇÃO ACIDENTÁRIA. ALEGADA VIOLAÇÃO À COISA JULGADA (ART. 515, CAPUT, DO CPC/2015). DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+ACIDENTÁRIA - Execução - Atualização do precatório - Descabimento da incidência de juros moratórios entre a conta de liquidação e a expedição/inscrição do precatório, desde que respeitado o prazo constitucionalmente previsto para o pagamento (art. 100, § 5º, da CF) - Recurso provido.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente alega violação aos arts. 489, § 1º, V e VI, e 515, caput, do CPC/2015, asseverando que: a) "ainda que o e. Tribunal a quo tenha invocado decisão do E. STJ em recurso repetitivo sobre a matéria, não pode prescindir de considerar, em sua fundamentação, especificidades do caso concreto que o diferenciam substancialmente do julgado paradigma, sob pena de deficiência grave de fundamentação a viciar a decisão impugnada" (fl. 198); e b) "o acórdão impugnado ignora o acórdão anterior, que estabeleceu expressamente a aplicação da Lei nº 11.960/2009 no que tange aos juros e correção monetária, violando assim a coisa julgada" (fl. 199).
+Não houve apresentação de contrarrazões.
+O recurso foi admitido pela decisão de fls. 236/238.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, se os fundamentos do aresto recorrido mostram-se insuficientes ou incorretos na opinião do recorrente, não quer dizer que eles não existam.
+Não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte, motivo pelo qual não resta caracterizada ofensa ao art. 489 do CPC/2015.
+De outra parte, a recorrente defende tese segundo a qual restou violada a coisa julgada, ao argumento de que o acórdão recorrido afastou, indevidamente, a aplicação da Lei nº 11.960/2009 em relação à incidência de juros e correção monetária sobre a conta de liquidação.
+Contudo, observa-se que o Tribunal de origem não se pronunciou sobre o disposto no art. 515, caput, do CPC/2015, e eventual omissão nem sequer foi suscitada por meio de embargos de declaração, razão pela qual é inviável o conhecimento da questão, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 535 do CPC/1973 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Observa-se que em nenhum momento foi sequer ventilada a vedação da compensação das contribuições devidas a terceiros. Nesse aspecto, a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+4. Recurso especial não conhecido.
+(REsp 1673756/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018) (grifou-se)
+Por fim, importa esclarecer que a análise da divergência jurisprudencial resta prejudicada quando a tese sustentada foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+Nesse sentido, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. DIREITO À EDUCAÇÃO. MATRÍCULA EM CRECHE PÚBLICA. ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Trata-se de ação em que se busca desconstituir acórdão que obrigou o Distrito Federal a matricular menor em creche pública.
+2. A controvérsia foi dirimida pelo Tribunal de origem sob enfoque eminentemente constitucional, razão porque compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação da competência inserta no art. 102 da Constituição Federal. No mesmo sentido, em casos análogos: STJ, AgInt no REsp 1.607.178/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 20/10/2016; AgInt no REsp 1.576.116/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/4/2016; REsp 1.603.869/DF, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada do TRF/3ª Região), Segunda Turma, DJe de 16/6/2016.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+5. Recurso Especial não conhecido.
+(REsp 1689988/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/10/2017, DJe 19/12/2017)
+Diante do exposto, com base no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
