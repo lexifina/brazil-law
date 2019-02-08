@@ -1,0 +1,28 @@
+DECISÃO
+Relatório.
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por [NOME], que aponta, como autoridade impetrada, o Ministro de Estado da Saúde, a quem atribui responsabilidade, por omissão, pela falta de resposta a requerimento apresentado em 17 de julho de 2017, nos autos do processo administrativo n. 25410.002208/2017-19, pelo qual solicitou redução da jornada de trabalho, com fundamento no art. 5º da Medida Provisória 2.174-28, de 24/08/2001.
+Requer a impetrante a concessão da segurança ".. a fim de que a Administração proceda desde logo à prática dos atos necessários à publicação da concessão do pedido de redução de jornada de trabalho de quarenta para trinta horas semanais, com remuneração proporcional, com fundamento nos artigos 4º e 5º da Medida Provisória 2.174-28, de 24/08/2001" (fl. 10).
+O pedido de concessão de liminar foi indeferido, pelos fundamentos da decisão às fls. 80 e 81.
+Intimada, a União manifestou interesse no feito (fl. 92).
+A Autoridade impetrada trouxe aos autos as informações de fls. 123 a 388, nas quais noticiou que o processo administrativo "estava na iminência de ser concluído e, aparentemente, a decisão administrativa seria pela redução da carga horária pleiteada" (fl. 128). No mais, pontuou que "a redução da carga horária é medida excepcional e faz parte da discricionariedade administrativa", pelo que "não há direito líquido e certo à redução da carga horária" (fl. 128). Admite, porém, que "o expediente chegou a ficar cerca de 90 (noventa) dias sem movimentação efetiva, haja vista que inexistia uma comissão técnica capaz de analisar os pedidos e sobre eles exarar uma manifestação que pudesse subsidiar a futura decisão do Ministro de Estado da Saúde" (fl. 129).
+O Ministério Público Federal, pelo Subprocurador-Geral da República [NOME], manifestou-se pela concessão da ordem, consoante as razões expostas no parecer às fls. 393 a 398, resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA. REQUERIMENTO ADMINISTRATIVO PROTOCOLIZADO EM 17 DE JULHO DE 2017 PARA REDUZIR JORNADA DE TRABALHO DE 40 HORAS PARA 30 HORAS SEMANAIS, COM REDUÇÃO PROPORCIONAL DA REMUNERAÇÃO, A FIM DE CUIDAR DO FILHO (1 ANO), DA MÃE (80 ANOS) E DA TIA (86 ANOS), PESSOAS QUE INSPIRAM CUIDADOS ESPECIAIS. DEMORA INJUSTIFICADA. OFENSA AOS PRINCÍPIOS DA RAZOÁVEL DURAÇÃO DO PROCESSO E DA CELERIDADE. TEORIA DOS FREIOS E CONTRAPESOS. PARECER NO SENTIDO DA CONCESSÃO DA ORDEM, FIXANDO PRAZO DE 30 DIAS ÚTEIS PARA QUE A ADMINISTRAÇÃO RESOLVA DEFINITIVAMENTE O PROCESSO ADMINISTRATIVO N. 25410.002208/2017-19.
+(Fls. 393 e 394).
+Pedido de gratuidade de justiça deferido pela Presidência (fl. 72).
+Representação regular (fl. 28).
+Decisão.
+A teor do que dispõe o art. 1.º da Lei n. 12.016/2009, a concessão da segurança vai condicionada à demonstração, mediante prova documental idônea apresentada com a exordial, da violação de um direito líquido e certo da impetrante, por ato ilegal ou abusivo da autoridade impetrada.
+Na hipótese dos autos, a omissão combatida, senão abusiva, é manifestamente ilegal.
+É que, nas informações que encaminhou, disse a Autoridade impetrada:
+O expediente chegou a ficar cerca de 90 (noventa) dias sem movimentação efetiva, haja vista que inexistia uma comissão técnica capaz de analisar os pedidos e sobre eles exarar uma manifestação que pudesse subsidiar a futura decisão do Ministro de Estado da Saúde..784, de
+Uma vez criada a Comissão de Jornada de Trabalho, o caso em epígrafe foi a esta submetido e, após analisar detidamente a situação, em 24/07/2018, foi expedido o Despacho CJT/CGESP/SAA/SE/MS, o qual opinou pelo deferimento do pleito da impetrante.
+Na seqüência, em 31/07/2018, uma minuta de portaria autorizando a servidora [NOME] COSTA [NOME], matrícula SIAPE n.º 1475173, ocupante do cargo de Tecnologista, pertencente ao Quadro de Pessoal Permanente do Ministério da Saúde, a cumprir jornada de trabalho reduzida com remuneração proporcional, de 8 (oito) horas diárias e 40 (quarenta) horas semanais para 6 (seis) horas diárias e 30 (trinta) horas semanais, foi deferida pelo Secretário-Executivo e encaminhada ao Chefe de Gabinete do Ministro, para conhecimento e providências relativas à publicação da portaria.
+De acordo com a última movimentação processual, desde 02/08/2018, os autos encontram-se na Divisão de Atos e Publicações Oficiais do Gabinete do Ministro, para publicação da decisão final da autoridade máxima do Ministério da Saúde. (fl. 129, destacou-se).
+Logo, é já concluída a instrução do processo administrativo em tela, que aguarda, desde 2 de agosto de 2018 tão somente a "publicação da decisão final da autoridade", em absoluto desacordo com o que prescreve o art. 24 da Lei n. 9.784, de 29 de janeiro de 1999. Confira-se:
+Art. 24. Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos administrados que dele participem devem ser praticados no prazo de cinco dias, salvo motivo de força maior.
+Parágrafo único. O prazo previsto neste artigo pode ser dilatado até o dobro, mediante comprovada justificação.
+Nisto está, pois, a ilegalidade da omissão combatida, justificadora da concessão da ordem.
+Dessarte, com amparo no art. 1º da Lei n. 12.016/2009 e no art. 34, XIX do RISTJ, concedo a segurança para determinar à autoridade impetrada que, se ainda não o fez, adote, no prazo de cinco dias previsto no art. 24 da Lei n. 9.784/1999 as providências necessárias para a publicação do ato pendente.
+Custas pela União.
+Sem honorários advocatícios, consoante previsto no art. 25 da Lei n. 12.016/2009 e Súmula 105/STJ.
+Publique-se.
