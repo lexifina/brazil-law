@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE ROBERTO [NOME] [NOME], apontando-se como autoridade coatora o Tribunal Regional Federal da 4ª Região que denegou o writ de origem, por acórdão que tem a seguinte ementa (fl. 70):
+HABEAS CORPUS. CONTRABANDO DE CIGARROS. NOVO FLAGRANTE APÓS CONDENAÇÕES PELO MESMO CRIME. REITERAÇÃO DELITIVA. CONTUMÁCIA EVIDENCIADA POR LARGO ROL DE ANTECEDENTES CRIMINAIS. PRISÃO PREVENTIVA. MANUTENÇÃO. CAUTELARES SUBSTITUTIVAS. DESCABIMENTO. PRISÃO DOMICILIAR. GENITORA COM IDADE AVANÇADA. IMPOSSIBILIDADE. HIPÓTESE NÃO CONTEMPLADA PELO ART. 318 DO CPP.
+1. O concreto risco de reiteração delitiva, pois apesar de já processado e condenado pelo mesmo delito a mais de seis anos de reclusão (consideradas apenas as ações penais oriundas da Justiça Federal), e com ciência inequívoca do ilícito cometido, voltou a delinquir, sendo novamente preso em flagrante pelo contrabando de cigarros, justifica a manutenção da prisão preventiva para garantia da ordem pública.
+2. Embora se trate de crime sem violência ou grave ameaça, não se tem autorizada liberdade provisória a quem reitera e se mantém na atividade criminosa, em total descaso com o ordenamento jurídico vigente - pois tem plena e absoluta ciência do ilícito cometido e com o Judiciário - pelo descumprimento às reprimendas que lhe foram impostas.
+3. O largo rol de antecedentes criminais demonstra a tendência delitiva do preso, bem como o desprezo com o Poder Judiciário, indicando não só a necessidade da prisão preventiva já decretada, mas também a adequação da medida e a impossibilidade de substituição por cautelares diversas da prisão, que já se mostraram ineficazes.
+4. Condições pessoais favoráveis, por si só, não autorizam a revogação da custódia quando presentes os requisitos do art. 312 do CPP, especialmente quando a reiteração ocorre após cumprimento de pena pelo mesmo delito.
+5. Incabível a prisão domiciliar para cuidado de genitora com idade avançada, pois tal hipótese não é contemplada no rol do art. 318 do Código de Processo Penal.
+O impetrante argumenta que há constrangimento ilegal, porque não estão presentes os requisitos autorizadores da prisão, sendo possível a aplicação de medidas alternativas. Por isso, requer a concessão do habeas corpus, para a revogação da custódia.
+O paciente responde pela prática do crime tipificado no art. 334-A, § 1º, IV, do CP.
+A liminar foi indeferida.
+As informações solicitadas constam dos autos.
+O Ministério Público Federal manifestou-se no sentido do não conhecimento do habeas corpus.
+Na origem, processo n. 5016464-75.2018.4.04.7003, em 3/12/2018 determinou-se a expedição de carta precatória para inquirição de testemunhas, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 31/1/2019.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva está assim fundamentada (fl. 119):
+ .. .O crime descrito no artigo 334-A, § 1º, do Código Penal, em tese, é doloso e punido com reclusão de 02 (dois) a 05 (cinco) anos.
+Conforme se verifica das certidões dos eventos 6, 7 e 8, [NOME] possui diversas condenações perante a Justiça Estadual do Paraná, por crimes de roubo, formação de quadrilha, porte ilegal de armas e outros, além de 4 condenações perante a Justiça Federal, sendo 3 delas por crime de contrabando.
+A prática reiterada de delitos, inclusive no mesmo tipo penal de contrabando, evidencia a necessidade da medida da decretada preventiva com fundamento na garantia da ordem pública. Observo que mesmo estando em cumprimento de pena pelos casos em que já foi condenado, tal medida não se mostrou suficiente para evitar que o indiciado incorresse novamente na prática delitiva.
+Ressalte-se que não se trata de decretação da medida preventiva pela periculosidade abstrata do crime, mas em decorrência do concreto risco à ordem pública, evidenciado pela reiteração delitiva, inclusive do mesmo delito que ora se apura.
+Portanto, CONVERTO a prisão em flagrante do indiciado preso [NOME] em PRISÃO PREVENTIVA. Expeça-se o mandado de prisão e providencie-se o seu cumprimento. .. .
+Como já adiantado no exame da liminar, o decreto prisional tem fundamento na reiteração delitiva, pois o paciente possui diversas condenações perante a Justiça Estadual do Paraná, por crimes de roubo, formação de quadrilha, porte ilegal de armas e outros, além de 4 condenações perante a Justiça Federal, sendo 3 delas por crime de contrabando e a prática reiterada de delitos, inclusive no mesmo tipo penal de contrabando, evidencia a necessidade da medida da decretada preventiva com fundamento na garantia da ordem pública, razão, portanto, apta a ensejar a constrição.
+Esta Corte também tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
