@@ -1,0 +1,16 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ACLARATÓRIOS OPOSTOS PELO MINISTÉRIO PÚBLICO AO ACÓRDÃO QUE GARANTIU AO EMBARGADO O DIREITO DE AGUARDAR EM LIBERDADE O ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA RECURSAL. PRETENSÃO DE SUSPENSÃO IMEDIATA DO JULGADO. ALEGAÇÃO DE ERROR IN PROCEDENDO E DE OMISSÃO. PERDA DO OBJETO.
+Embargos de declaração prejudicados.
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Ministério Público Federal ao acórdão de minha relatoria, no qual concedi a ordem para revogar a prisão preventiva decretada em desfavor de [NOME], eis a ementa do julgado (fl. 228):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS ABSTRATOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA.
+1. Na hipótese dos autos, a fundamentação apresentada pelas instâncias ordinárias para justificar a segregação cautelar do paciente, em que pese trazer elementos concretos, não é suficiente para justificar a cautelar mais gravosa - prisão. Possível, no caso, fixar medidas cautelares diversas de prisão.
+2. Ordem concedida para revogar a prisão preventiva, assegurando ao paciente o direito de aguardar o trânsito em julgado da condenação em liberdade, devendo o Juiz singular fixar cautelares alternativas à prisão.
+Em breve síntese, o embargante pontua obscuridade/contradição no aresto embargado, pois, in casu, verifica-se que o acórdão fustigado não pode conferir uma amplitude inédita a ponto de engessar toda e qualquer possibilidade de o juízo de piso competente para futura execução penal (ainda) que (mal) dita "provisória" decrete nova custódia cautelar do ora paciente, pois em que pese fixação de medidas cautelares diversas da prisão previstas no artigo 319 do CPP, nada obsta que mantenha-se ou se decrete segregação social se por outro motivo esteja ou venha a ser preso o paciente, no decorrer da ação penal por que responde, caso se demonstre sua necessidade ou se existirem ou vier(em) a existir novo(s) motivo(s) com arrimo no artigo 312 do CPP, ou, então, vir a ser decretada em sentença condenatória ou como início de execução penal, posto que "provisória" se esgotadas as instâncias ordinárias de competência constitucional para dirimir questões fático-jurídicas (fls. 237/238).
+Requer, pois, o provimento dos embargos para, dirimindo relevante obscuridade/contradição/ilegalidade, em efeito infringente decotar o aresto embargado o reconhecimento de inexistente e equivocado "direito de o paciente aguardar "trânsito em julgado" de condenação em liberdade (fl. 238).
+É o relatório.
+Entendo que os embargos de declaração do Ministério Público perderam seu objeto.
+Ora, o acórdão aqui embargado concedeu a ordem a [NOME] para lhe garantir o direito de permanecer em liberdade até o esgotamento das vias recursais ordinárias, o que, conforme consta do portal do Tribunal de Justiça de São Paulo na internet, já ocorreu.
+A apelação do réu foi julgada em 27/11/2018. Publicado o acórdão, foram opostos embargos de declaração pelo então paciente, os quais também já foram apreciados pela Terceira Câmara Criminal. Não há novos embargos de declaração, tampouco embargos infringentes opostos na origem.
+Pelo exposto, julgo prejudicados os embargos de declaração de fls. 234/238 e 239/243.
+Publique-se.
