@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] ANDRÉ e OUTROS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 329):
+SERVIDORES PÚBLICOS MUNICIPAIS. URV. Conversão. Artigos 543-B e 543-C, do CPC/73.
+Prescrição de fundo de direito afastada. Lei Federal nº 8.880/94, de observância obrigatória pelos entes federativos. Aplicabilidade geral e eficácia imediata. Ausência de demonstração do prejuízo sofrido e da subsistência das diferenças. Precedentes desta Câmara de Direito Público. Demanda improcedente. Mantido o v. acórdão que negou provimento ao recurso dos autores.
+Opostos embargos de declaração, foram rejeitados (fls. 345/350).
+As partes recorrentes apontam violação aos arts. 330, I, 333 c/c 130, 543-B e 543-C do CPC/73 e 22, 23, 28 e 29, § 5º da Lei n.º 8.880/94. Pretendem a aplicação do entendimento segundo o qual "a apuração de eventual perda será em fase de liquidação/execução, competindo apenas às vias Ordinárias o reconhecimento do direito vindicado, afirmando a ocorrência de error in procedendo. Defendem o direito às diferenças vencimentais perseguidas.
+É o relatório.
+Inicialmente, o Tribunal de origem não se manifestou sobre a alegação de que a apuração de eventuais perdas decorrentes da conversão em URV deverá ser realizada durante a fase de liquidação, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia às partes recorrentes, nas razões do apelo especial, indicarem ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1682293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+Quanto ao mérito, a Corte de origem afastou a pretensão autoral, sob as seguintes considerações (fls. 331/333):
+Esta C. Câmara possui o entendimento de que a Lei Federal nº 8.880/94 é de aplicação compulsória a todos os entes federativos, inclusive aos vencimentos dos respectivos servidores, não se podendo cogitar de eventual ofensa ao princípio federativo previsto na Constituição da República.
+Ademais, esta C. Câmara reconhece que a jurisprudência do E. Superior Tribunal de Justiça é no sentido de que não haverá compensação com reajustes futuros de natureza diversa.
+No entanto, ainda que as diferenças devidas pela incorreção da conversão salarial não sejam compensáveis com reajustes futuros, eventual resíduo cessará por ocasião da fixação de novo padrão de vencimentos para os servidores, conforme já decidido pelo E. Supremo Tribunal Federal (RE no 407.981/PE, Relator o Ministro Sepúlveda Pertence; RE no 488.994/SP, Relator o Ministro Eros Grau e também RE no 561.836-RN, Relator o Ministro Luiz Fux).
+Por outro lado, é sabido que, conforme o artigo 333, I, do CPC/73, que regeu o julgamento do apelo, é atribuição dos autores o ônus da prova quanto ao fato constitutivo de seu direito.
+Desse modo, reconhecida a obrigatoriedade de observância da Lei Federal nº 8.880/94, competia aos autores comprovarem o prejuízo sofrido com a conversão errônea dos vencimentos em URV, em desacordo com os critérios fixados no referido diploma legal, sendo que nada os impedia de fazê-lo já com a inicial. A propósito, confira a jurisprudência desta C. Câmara:
+ ..
+Pelo exposto, é confirmado, também por estes fundamentos, o v. acórdão que negou provimento à apelação dos autores, subsistindo a improcedência da ação (arts. 543-B, §3º e 543-C, § 7º, do CPC/73).
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. MUNICÍPIO DE SANTOS. CONVERSÃO SALARIAL EM URV. APLICAÇÃO DA LEI FEDERAL 8.880/1994. PERDA SALARIAL NÃO COMPROVADA. SÚMULA 7/STJ.
+1. Cuida-se de Ação que objetiva o recálculo e o pagamento de diferenças salariais decorrentes da não aplicação do disposto na Lei 8.880/1994.
+2. In casu, o Tribunal a quo entendeu que os agravantes não conseguiram comprovar a existência de prejuízo salarial - é a recomposição deste o que pleiteiam - e ressaltou a impropriedade da fórmula adotada pelos autores na elaboração dos cálculos.
+3. Diante das conclusões das instâncias ordinárias pela ausência de comprovação da perda salarial e inadequação dos cálculos, a reforma do acórdão recorrido exige o revolvimento fático-probatório, procedimento vedado pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo Regimental não provido.
+(AgRg no AREsp 88.387/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/3/2012, DJe 13/4/2012).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
