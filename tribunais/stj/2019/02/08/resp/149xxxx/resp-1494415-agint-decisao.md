@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de Agravo Interno interposto pelo INSS contra decisão que deu parcial provimento ao seu Recurso Especial, para determinar que as condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991 e os juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1o.-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+2. Sustenta o INSS o reconhecimento da incidência imediata da Lei 11.960/2009 e requer o sobrestamento do feito, uma vez que o Supremo Tribunal Federal ainda não concluiu o julgamento do RE 870.947/SE.
+3. É o relatório.
+4. De fato, a modulação efeitos do entendimento firmado no RE 870.947/SE ainda está pendente de julgamento pelo Supremo Tribunal Federal, razão pela qual o Min. LUIZ FUX, determinou o sobrestamento do feito que cuida da matéria.
+5. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão de repercussão geral, aprecie a questão dos juros e correção monetária nos termos do que for definido pelo Supremo Tribunal Federal, mantendo-se os demais fundamentos da decisão. Prejudicado os Embargos de Declaração de fls. 418/419.
+6. Publique-se. Intimações necessárias.
