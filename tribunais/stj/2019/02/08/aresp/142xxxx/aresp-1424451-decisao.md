@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 178):
+APELAÇÃO. RESPONSABILIDADE DO ESTADO. DESCLASSIFICAÇÃO EM CONCURSO PÚBLICO NA FASE DE INVESTIGAÇÃO SOCIAL. DANO MORAL. ALEGAÇÃO DE DANO IN RE IPSA. Não ocorrência. Autor desclassificado de concurso para provimento de cargo de soldado PM na fase de investigação social, em razão de contenda escolar levada a conhecimento do Juizado da Infância e Juventude. Desclassificação anulada pelo Judiciário em ação anterior. Remanesce a discussão atinente à existência de dano moral advindo do ato da Administração. Eliminação do concurso, por si só, não reúne aptidão para determinar a indenização compensatória. As circunstâncias que envolvem a repercussão experimentada pelo autor não determinam a existência de significativo sentimento negativo. Fato não reúne potencial e aptidão para configurar o dano moral. Sentença mantida. RECURSO NÃO PROVIDO.
+
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial acerca da configuração de dano moral in re ipsa.
+É o relatório.
+ O inconformismo não comporta êxito, pois na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela.
+Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
