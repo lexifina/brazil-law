@@ -1,0 +1,13 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NOME DO SÓCIO INSERIDO NA CDA SEM APURAÇÃO DE SUA RESPONSABILIDADE. IMPOSSIBILIDADE DE REDIRECIONAMENTO DA EXECUÇÃO FISCAL. DECISÃO PROFERIDA COM BASE NA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL (INSTRUÇÃO NORMATIVA DCT/SER N. 02/1995). SÚMULA 280/STF. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO DO ESTADO DE MINAS GERAIS REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos pelo ESTADO DE MINAS GERAIS contra decisão assim ementada:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NOME DO SÓCIO INSERIDO NA CDA SEM APURAÇÃO DE SUA RESPONSABILIDADE. IMPOSSIBILIDADE DE REDIRECIONAMENTO DA EXECUÇÃO FISCAL. DECISÃO PROFERIDA COM BASE NA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL (INSTRUÇÃO NORMATIVA DCT/SER N. 02/1995). SÚMULA 280/STF. MULTA DO ART. 538 DO CPC AFASTADA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DO ESTADO DE MINAS GERAIS, APENAS PARA AFASTAR A MULTA DO ART. 538 DO CPC (fls. 221).
+2. A parte embargante defende, em suma, que a delimitação da controvérsia posta no Recurso Especial do Estado (..) refere-se ao não cabimento de exceção de pré-executividade para demonstrar a ausência de responsabilidade tributaria do sócio constante da CDA, assim, o Agravo Regimental do embargado, em que se discute a responsabilidade do contribuinte, não deveria ter sido conhecido, em razão da Súmula 182/STJ. Aponta, ainda, contradição na aplicação da Súmula 280/STF.
+3. É o relatório.
+4. De início, cumpre esclarecer que o art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+5. A adoção do entendimento firmado no Resp. 1.104.900/ES, de que a inclusão do nome do sócio na CDA acarreta inversão do ônus probatório, pressupõe anterior processo administrativo em que se apurou a prática dos atos elencados no art. 135 do CTN.
+6. Na hipótese, o Tribunal de origem, amparado na legislação local (Instrução Normativa DCT/SER n. 02/1995), concluiu que o nome do sócio foi inserido de forma automática no título executivo, sendo, portanto, inaplicável o citado precedente.
+7. Ademais, o excerto acima torna evidente que a insurgência da executada seria viável no âmbito da Exceção de Pré-Executividade, por não demandar dilação probatória.
+8. Assim, não se verifica qualquer hipótese de cabimento dos Embargos de Declaração.
+9. Diante do exposto, rejeitam-se os Declaratórios do ESTADO DE MINAS GERAIS.
+10. Publique-se. Intimações necessárias.
