@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 100):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. MULTA COMINATÓRIA (ASTREINTES). POSSIBILIDADE.
+Segundo pacífica jurisprudência, cabível o arbitramento de multa diária contra a Fazenda Pública como meio coercitivo para cumprimento de obrigação de fazer. É possível a cobrança imediata da multa aplicada ao INSS por atraso no cumprimento de tutela antecipada (astreintes), porquanto se trata de obrigação distinta daquela que é objeto do processo propriamente dito. Precedentes.
+Embargos de declaração rejeitados.
+Nas razões de sua irresignação, o recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa ao artigo 537, §3º, do CPC/2015, ao argumento de que "ainda que se permita a execução provisória da multa cominada, ela só pode ser levantada após o trânsito em julgado da sentença favorável à parte". Logo, "o INSS não pode ser compelido ao pagamento de multa (astreintes) na hipótese dos autos, uma vez que o processo principal foi julgado improcedente" (fl. 116).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 129.
+É o relatório. Passo a decidir.
+Inicialmente, não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar especificamente qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No mais, colhe-se do aresto impugnado a seguinte fundamentação (fls. 96-97, grifos no original):
+ ..
+Pois bem. No que concerne ao cabimento de multa diária implementada à Autarquia, inexiste, pois, qualquer vedação no que se refere à cominação de astreinte contra a Fazenda Pública, em caso de descumprimento de ordem judicial. Assim já decidiu o Superior Tribunal de Justiça em reiteradas decisões: Resp n" 508116, DJ de 13-10-2003; Resp nº 464388, DJ de 29-09- 2003; Agresp n" 374502, DJ de 19-12-2002 e Resp nº 316368, DJ de 04-03-2002. Frise-se que o objetivo da multa não é penalizar a parte que descumpre a ordem, mas garantir a efetividade do comando judicial.
+Destaco, ainda, que o fato de o processo principal, porventura, estar fadado ao insucesso, bem como neste não ter sido tratado do tema das astreintes impostas quando da antecipação de tutela não é empecilho à execução de tal obrigação. Com efeito, a multa pode ser imposta mesmo antes de proferida a sentença ou após, nos termos do artigo 537 do CPC/15. A propósito, quando do julgamento do Agravo de Instrumento nº 0004588-76.2015.404.0000, de minha Relatoria, a Quinta Turma deste TRF assim se manifestou sobre o tema:
+ ..
+Desta feita, nota-se que não é possível conhecer do recurso especial que apresenta suposta violação do art. 537, §3º, do CPC/2015, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Ressalta-se que a questão atinente à possibilidade de se levantar o valor referente à multa cominada somente após o trânsito em julgado da sentença favorável à parte não impede que a astreinte seja imposta e executada. Portanto, o referido dispositivo indicado como violado em nada pode macular o juízo formulado pela Corte a quo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/73. INOCORRÊNCIA. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86% SOBRE OS ANUÊNIOS. INCIDÊNCIA, EXCETO SE A BASE DE CÁLCULO HOUVER SIDO REAJUSTADA PELO MESMO ÍNDICE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.  ..
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido. (AgInt no REsp 1343673/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 31/08/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. MULTA DO TCU. TOMADA DE CONTAS ESPECIAL. PRESCRIÇÃO. INTERRUPÇÃO. COMANDO NORMATIVO. SÚMULA 284/STF. HONORÁRIOS NÃO FIXADOS NA ORIGEM. DESCABIMENTO DE MAJORAÇÃO DE HONORÁRIOS RECURSAIS. AGRAVO INTERNO PARCIALMENTE PROVIDO. 1.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O comando normativo do dispositivo indicado como violado resta inapto de sustentar a tese apresentada no recurso especial, de modo que inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do STF. 3. Não tendo sido fixados honorários sucumbenciais nas instâncias ordinárias, inviável a majoração em honorários recursais nos termos do art. 85, § 11, do CPC/2015.
+4. Agravo interno parcialmente provido. (AgInt no REsp 1657511/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/12/2018)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
