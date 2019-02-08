@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 121):
+REEXAME NECESSÁRIO. APELAÇÃO. ADMINISTRATIVO. MILITAR. REVERSÃO DE COTA-PARTE DE PENSÃO. AUSÊNCIA DA PRESCRIÇÃO DE FUNDO DE DIREITO. ART. 28, DA LEI Nº 3.765/60. PRESCRIÇÃO DAS PARCELAS ANTERIORES AOS CINCO ANOS CONTADOS DA DATA DO REQUERIMENTO ADMINISTRATIVO. SÚMULA 85 DO STJ E ART. 2º DO DECRETO Nº 20.910/1932. EXAME DE LEGALIDADE DA CONCESSÃO DA PENSÃO PELO TCU NÃO É ÓBICE PARA O PAGAMENTO DE ATRASADOS.
+1. Não há prescrição do fundo de direito, haja vista a pensão, assim como a integralização requerida, poder ser requerida a qualquer tempo, a teor do art. 28, da Lei nº 3.765/60.
+2. Os valores referentes à integralização do benefício devem ser considerados devidos desde a data do requerimento administrativo.
+3. Ocorrência da prescrição quinquenal das parcelas anteriores ao período de cinco anos que antecede o requerimento administrativo, pois a relação envolvida na espécie é de trato sucessivo, uma vez que o ato omissivo que se repete mensalmente, atraindo a aplicação da Súmula 85 do STJ e do art. 2º do Decreto nº 20.910/1932.
+4. A apreciação da legalidade dos atos concessórios de pensões pelo Tribunal de Contas da União não tem o condão de impedir o recebimento das parcelas em atraso, por força da presunção de legalidade e legitimidade de que gozam os atos administrativos, bem como o fato de não ser tal verba objeto de apreciação, mas apenas o próprio ato concessório(TRF2, 5ª Turma Especializada, ApelRex 200751010185359, Rel. Des. Fed. [NOME], E-DJF2R 5.2.2014; TRF2, 7ª Turma Especializada, AC 201251010075434, Rel. Des. Fed. [NOME], E-DJF2R 18.2.2014).
+5. Remessa necessária e apelação não providas.
+Nas suas razões, a recorrente aponta afronta ao contido no § 2º do art. 31 da Lei nº 3765/60 e § 5º do art. 54 do Decreto n. 49.096, de 10 de outubro de 1960, e alega que "os atos da Administração Pública foram praticados em perfeita consonância com os dispositivos legais vigentes, não cabendo qualquer reparo no seu procedimento."
+Contrarrazões às e-STJ fls. 136/141.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida essa premissa, observo que o teor dos preceitos invocados no apelo nobre não foi apreciado no acórdão recorrido, tampouco foram opostos embargos de declaração com essa finalidade, o que denota que o especial carece do indispensável prequestionamento e faz incidir, por analogia, o óbice da Súmula 282 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
