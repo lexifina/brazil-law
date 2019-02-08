@@ -1,0 +1,18 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO DE DECISÕES PROFERIDAS PELO JUÍZO DE PRIMEIRA INSTÂNCIA E DE OMISSÃO DO TRIBUNAL ESTADUAL NO EXAME DO WRIT. SUPERVENIENTE PERDA DO OBJETO.
+Recurso prejudicado.
+DECISÃO
+Trata-se de recurso interposto contra o acórdão proferido no HC n. 4004396-08.2016.8.04.0000, complementado pelo dos embargos de declaração. Eis as ementas dos respectivos julgados da Primeira Câmara Criminal do Tribunal de Justiça do Amazonas (fls. 482 e 506):
+HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ARTIGO 93, INCISO DA CONSTITUIÇÃO FEDERAL.NÃO CONFIGURAÇÃO. DESNECESSIDADE DE MOTIVAÇÃO EXAUSTIVA. JUSTA CAUSA. EXISTÊNCIA. PROSSEGUIMENTO DA AÇÃO PENAL QUE SE IMPÕE. ORDEM DENEGADA.
+I - Para o cumprimento do art. da Constituição Federal é desnecessária a exaustiva fundamentação como deseja o impetrante, inclusive, porque, neste momento descabe ao magistrado fazer maiores juízo de valor sobre a questão, pois o momento é regido pelo princípio o in dubio pro societate.
+II - A análise mais aprofundada do tema demandaria exame do conjunto fático-probatório dos autos, peculiar ao processo de conhecimento, inviável em sede de habeas corpus, remédio jurídico-processual, de índole constitucional, que tem como escopo resguardar a liberdade de locomoção contra ilegalidade ou abuso de poder, marcado por cognição sumária e rito célere.
+III - Ordem denegada. DIPP, QUINTA TURMA, julgado em 12/06/2012, DJe 20/06/2012.
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MERA REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. LIMITADORES DO ARTIGO 619 DO DIPLOMA PROCESSUAL PENAL. RECURSO DESACOLHIDO.
+I - Inexistindo qualquer ambiguidade, contradição, omissão ou obscuridade no acórdão recorrido, nos exatos termos do art. 619 do Diploma Processual Penal, os aclaratórios devem ser desacolhidos.
+O recorrente alega que carece de fundamentação a decisão proferida na Ação Penal n. 0212619-31.2016.8.04.0001 de recebimento da denúncia e a de indeferimento do seu pedido de absolvição sumária. Sustenta que o acórdão vergastado preservou a decisão de primeiro grau, mantendo-a, portanto, totalmente desprovida de motivação, e violando, outrossim, o art. 619 do Código de Processo Penal, ao rejeitar os embargos de declaração e não suprir a omissão apontada. Requer o conhecimento e provimento do presente recurso, a fim de que seja sanada a omissão quanto aos fundamentos da decisão que rejeitou o pleito de absolvição sumária.
+Sucede que sobrevieram a prolação de sentença condenatória na referida ação penal, o julgamento da apelação da defesa, a inadmissão do recurso especial e, pelo que se depreende do andamento do feito na origem, o trânsito em julgado da condenação.
+Assim, diante desse novo panorama, perdeu o objeto este feito.
+De qualquer maneira, como bem anotado no parecer do Ministério Público Federal (Subprocurador-Geral da República [NOME]):
+apesar de sucintas as decisões de instauração da ação penal (recebimento da denúncia) e de negativa de absolvição sumária verifica-se que o juízo singular manifestou-se acerca do preenchimento dos requisitos do artigo 41 do CPP e da inexistência de causas de rejeição referidas no artigo 395 do CPP (e-STJ, fls. 420), e considerou, ainda, que a resposta escrita do réu não trouxera elementos hábeis a fundamentar sua absolvição tout court, nos termos do artigo 397, do CPP (e-STJ, fls. 438). Não se há de vislumbrar, por inexistente, afronta alguma aos artigos 93, inciso IX, da CF/88 e 619 do CPP.
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
