@@ -1,0 +1,40 @@
+DECISÃO
+O presente feito decorre de mandado de segurança impetrado por Mix Center Supermercado Ltda em face de suposto ato coator perpetrado pelo Superintendente Regional do Trabalho objetivando seja reconhecida a inexistência de relação jurídico-tributária que a obrigue a recolher contribuição para o FGTS sobre os valores pagos. Em sentença, denegou-se a segurança. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+CONTRIBUIÇÕES AO FGTS. BASE DE CÁLCULO.
+1. No que tange às verbas expressamente previstas na alínea "d", "f" e item 6, do § 9º do art. 28 da Lei nº 8.212/1991 férias indenizadas e ao respectivo terço constitucional, dobra de férias, abono de férias e vale transporte), verifica-se a ocorrência de carência de ação por ausência de interesse de agir, pois já não incluem a base de cálculo do FGTS, por força do disposto no art. 15, § 6º, da Lei nº 8.036/1990.
+2. A contribuição ao FGTS incide sobre os valores pagos a título de abono de qualquer natureza; adicional de insalubridade e periculosidade; adicional noturno; adicional de transferência; auxílio-doença pago nos 15 (quinze) primeiros dias do afastamento; aviso prévio indenizado (adicional de aviso indenizado, aviso indenizado, aviso prévio adicional indenizado); horas extras e o correlato adicional e férias usufruídas.
+Foram rejeitados os embargos declaratórios opostos.
+Recurso especial interposto por Mix Center Supermercado Ltda, com fundamento no art. 105, III, a, da Constituição Federal por violação ao art. 535 do CPC/1973, afirmando, em síntese, que o Tribunal a quo, incorreu em omissão ao não se pronunciar sobre matéria apresentada.
+Aduziu ofensa ao art. 15 da Lei 8.036/1990 e arts. 457 e 458 da CLT. Sustentou, em síntese, que indenização não poderia ser considerada remuneração.
+Afirmou, que os valores pagos a título de abono de férias e de qualquer natureza; adicional de insalubridade e periculosidade; adicional noturno; adicional de transferência; auxílio-doença pago nos 15 (quinze) primeiros dias do afastamento (artigos 59 a 64 da Lei 8.213/91); aviso prévio indenizado (adicional de aviso indenizado, aviso indenizado, aviso prévio adicional indenizado); horas extras e o correlato adicional, férias usufruídas, terço de férias constitucional sobre as férias gozadas indenizadas e dobradas; férias proporcionais (aviso prévio indenizado, férias proporcionais sobre o adicional incidente sobre o aviso prévio indenizado), e vale transporte pago em pecúnia, por não estarem revestidas do conceito de remuneração, excluídos da base de cálculo da contribuição ao FGTS, porquanto possuem nítida natureza indenizatória.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+No STJ, foi proferida decisão para conhecer parcialmente do recurso especial e, nesta parte, negar provimento.
+Opostos embargos de declaração por Mix Center Supermercado Ltda, não foram conhecidos.
+Opostos novos embargos de declaração, às fls. 404-406. Sustenta a parte embargante que os embargos de declaração anteriormente opostos trouxeram omissões, porém não foram considerados pela decisão recorrida.
+É o relatório. Decido.
+Os embargos merecem parcial acolhimento.
+Diante das razões apresentadas pela parte embargante, reconsidero a decisão de fls. 398-400. Desse modo, passo a correção, nos termos da fundamentação a seguir.
+Alega a parte embargante, às fls. 391, que:
+Conquanto a matéria tenha sido vertida nesse sentido, sendo pugnada a uniformização da interpretação acerca do que dispõem os artigos 457 e 558 da CLT, enquanto únicos dispositivos de lei federal a definir o que vem a ser salário/remuneração, não houve em instante algum do acórdão qualquer manifestação ou ponderação do Julgador quanto a tais pontos, quedando-se omisso o decisum.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe do seguinte trecho da decisão:
+Em relação à alegada violação ao art. 535 do CPC/1973, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017).
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, reconsidero a decisão de fls. 398-400 para rejeitar os embargos de declaração opostos.
+Publique-se. Intime-se.
