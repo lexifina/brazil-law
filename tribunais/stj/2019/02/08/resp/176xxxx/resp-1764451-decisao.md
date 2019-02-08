@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 166):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. TETO. EMENDAS
+CONSTITUCIONAIS  S 20/98 E 41/03.
+1. Na hipótese não incide a decadência ou a prescrição de fundo do direito, pois não se trata da revisão do ato de concessão do beneficio prevista no art. 103, caput, da Lei nº 8.213/91.
+2. Fixado pelo Supremo Tribunal Federal o entendimento de que o limitador (teto do salário de contribuição) é elemento externo à estrutura jurídica dos benefícios previdenciários, o valor apurado para o salário de benefício integra-se ao patrimônio jurídico do segurado, razão pela qual todo o excesso não aproveitado em razão da restrição poderá ser utilizado sempre que alterado o teto, adequando-se ao novo limite. Em outras palavras, o salário de benefício, expressão do aporte contributivo do segurado, será sempre a base de cálculo da renda mensal a ser percebida em cada competência, respeitado o limite máximo do salário de contribuição então vigente. Isto significa que, elevado o teto do salário de contribuição sem que tenha havido reajuste das prestações previdenciárias (como no caso das Emendas Constitucionais 20/1998 e 41/2003), ou reajustado em percentual superior ao concedido àquelas, o benefício recupera o que normalmente receberia se o teto à época fosse outro, isto é, sempre que alterado o valor do limitador previdenciário, haverá a possibilidade de o segurado adequar o valor de seu benefício ao novo teto constitucional, recuperando o valor perdido em virtude do limitador anterior, pois coerente com as contribuições efetivamente pagas.
+3. O ajuizamento da Ação Civil Pública nº 0004911-28.2011.4.03.6183, em 5/5/2011, promoveu a interrupção da prescrição qüinqüenal, que perdura até a decisão proferida naquele feito transitar em julgado. Portanto, a prescrição qüinqüenal, no caso, conta-se retroativamente daquela data.
+4. As teses relativas ao percentual de juros e o índice de correção monetária devem ser diferidas para a fase de execução, de modo a racionalizar o andamento do presente processo de conhecimento.
+Opostos embargos de declaração, foram rejeitados (fl. 201)
+Aponta o recorrente violação aos arts. 21, 23 e 25 do Decreto 89.312/84, 40 do Decreto 82.080/79, 6º da LICC e 29, § 2º, da Lei 8.213/91, sustentando, que não se aplicam os tetos constitucionais estabelecidos pelas Ecs 20/98 e 41/03 a benefícios concedidos em momento anterior à Constituição Federal de 1988.
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial conforme petição de fls. 264/272.
+É o relatório.
+A irresignação não merece prosperar.
+Isso porque, a tese de que não seriam aplicáveis os tetos constitucionais ao caso concreto, a irresignação também não prospera, pois, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em recurso especial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
