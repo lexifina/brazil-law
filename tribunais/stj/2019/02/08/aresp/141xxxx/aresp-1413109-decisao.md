@@ -1,0 +1,53 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. TELEFONIA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO VERIFICADA. LUCROS CESSANTES NÃO DEMONSTRADOS NAS INTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+DECISÃO
+TAPAJÓS COMÉRCIO DE MEDICAMENTOS LTDA. (TAPAJÓS) ajuizou ação de indenização por danos materiais contra CLARO S.A. (CLARO), Incorporadora da Embratel Telecomunicações S.A., em virtude de falha na prestação do serviço de telefonia.
+O Juízo de Piso julgou parcialmente procedentes os pedidos para condenar a CLARO ao pagamento de R$ 12.000,00 a título de danos morais em favor da TAPAJÓS. Ademais, extinguiu sem resolução do mérito a ação cautelar em apenso, por perda superveniente de interesse face à perda do objeto (e-STJ, fls. 250/254).
+Inconformadas, CLARO e TAPAJÓS interpuseram recursos de apelação, desprovidos pelo Tribunal de origem, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. CONTRATO FIRMADO ENTRE AS PARTES PARA PRESTAÇÃO DE SERVIÇOS DE TELEFONIA. FALHA SERVIÇO. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. INAPLICABILIDADE DO CDC. PESSOA JURÍDICA. POSSIBILIDADE DE DANOS MORAIS. SÚMULA 227 STJ. OCORRÊNCIA DE DANOS MORAIS. RESPONSABILIDADE CIVIL. CONDUTA, CULPA DOLO E NEXO CAUSAL PRESENTES. INDENIZAÇÃO DEVIDA. LUCROS CESSANTES. AUSÊNCIA DE PROVAS. QUANTUM INDENIZATÓRIO ADEQUADO. RECURSOS CONHECIDOS E DESPROVIDOS. SENTENÇA MANTIDA.
+1. É possível que pessoa jurídica afigure-se como consumidor, sendo protegida pelas garantias contidas no CDC, desde que seja destinatária final;
+2. A utilização do serviço como insumo na atividade empresarial impede o reconhecimento de relação de consumo entre a pessoa jurídica adquirente e o prestador, uma vez que o destinatário final de fato é o cliente da pessoa jurídica adquirente, que fará gozo do produto dentro da plenitude da prestação de serviço;
+3. O STJ vem fazendo aplicação da teoria finalista mitigada, que entende possível se relativizar a noção de destinatário final nos casos em que a vulnerabilidade do adquirente, ainda que pessoa jurídica no exercício da atividade empresarial, seja patente perante o fornecedor, ou se verifique a submissão a prática abusiva;
+4. A apelada contratou o serviço de telefonia da apelante, utilizando-o para a comunicação com seus clientes, compondo o serviço a cadeia produtiva da empresa, sendo necessária ao alcance das suas atividades empresariais;
+5. Segundo entendimento jurisprudencial consolidado do Superior Tribunal de Justiça "a contratação do serviço de telefonia não caracteriza relação de
+6. consumo tutelável pelo CDC, pois o referido serviço compõe a cadeia produtiva da empresa, sendo essencial à consecução do seu negócio. Também não se verifica nenhuma vulnerabilidade apta a equipar a empresa à condição de consumidora frente à prestadora do serviço de telefonia,
+7. É possível a configuração do dano moral da pessoa juridica (Súmula 227 do STJ), devendo, contudo, tal como no caso em apreço, haver mácula a sua honra objetiva, representada pela imagem da empresa perante terceiros, sua reputação e respeitabilidade de seu nome comercial no mercado em que atua, etc. Precedentes STJ;
+8. In casu, verifica-se presentes os requisitos para a configuração do dano moral indenizável, a saber: ato ilícito, culpa, dano, e nexo de causalidade. Ato ilícito consistente na conduta da empresa de telefonia em falhas na prestação do serviço; culpa no que diz respeito a demora da apelante em solucionar os problemas na centrai telefônica da apelada; dano observado no fato de que a conduta da apelante repercutiu na honra objetiva da empresa apelada e nexo de causalidade na íntima relação de causa e efeito, de modo que o dano sofrido é decorrência direta da conduta praticada.
+9. Considerar em todo e qualquer caso ter o apelante direito ao recebimento de lucro cessante pelo nâo funcionamento do serviço de telefonia, sem a existência de provas nos autos, é sancionar o lucro imaginário e ou simplesmente hipotético e, em última análise, pactuar com raciocínios desarrazoados
+10. No que tange ao quantum indenizatório. a doutrina e jurisprudência adotam, entre outros, os critérios da capacidade econômica das partes e o objetivo compensatório, ao que se soma um componente punitivo-pedagógico que visa a impulsionar a melhoria dos serviços prestados Na hipótese dos autos o valor indenizatório fixado se mostra adequado, razão pela qual deve ser mantido no patamar de R$12.000,00 (doze mil reais);
+11. Sentença mantida;
+12. Recursos conhecidos e desprovidos. (e-STJ, fls. 355/356)
+Os embargos de declaração opostos por TAPAJÓS foram desprovidos (e-STJ, fls. 453/458).
+Inconformada, TAPAJÓS interpôs recurso especial, com base no art. 105, III, a e c da CF, sustentando, em síntese, dissídio jurisprudencial e violação dos arts. 491, 1.022 e 1.025 do NCPC porque (1) o acórdão recorrido padeceria do vício de omissão, não tendo se manifestado sobre o argumento de que a proporção dos lucros cessantes pode ser matéria de fase de liquidação e, portanto, não exige que a discussão do quantum debeatur seja esgotado na fase cognitiva; e (2) faria jus à indenização por danos materiais a título de lucros cessantes, sendo possível a demonstração de sua extensão em fase de liquidação (e-STJ, fls. 462/478).
+Houve contrarrazões (e-STJ, fls. 489/503).
+O apelo nobre não foi admitido as razões recursais demandariam o revolvimento das provas dos autos (e-STJ, fls. 555/558).
+Irresignada, TAPAJÓS interpôs agravo em recurso especial, sustentando o afastamento do mencionado óbice (e-STJ, fls. 563/570).
+Foi apresentada a contraminuta (e-STJ, fls. 574/585).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação do art. 1.022 do NCPC
+Nas razões do recurso especial, TAPAJÓS sustentou que o acórdão recorrido padeceria do vício de omissão, pois o Tribunal de Justiça do Estado do Amazonas não se manifestado sobre o argumento de que a proporção dos lucros cessantes pode ser matéria de fase de liquidação e, portanto, não exige que a discussão do quantum debeatur seja esgotado na fase cognitiva.
+Sem embargo, razão não assiste à recorrente.
+Isso porque, tendo o Tribunal de origem concluído pela inexistência de lucros cessantes a serem indenizados, a tese sobre o momento processual em que a dimensão dos danos pode ser demonstrada resulta irrelevante ao deslinde da controvérsia.
+Desta feita, a Corte Local deixou de apreciar a matéria em testilha sem que tal fato constitua omissão, mas sim uma decorrência lógica da solução jurídica alcançada pelo Tribunal.
+(2) Dos lucros cessantes
+Neste tocante, TAPAJÓS defendeu que faria jus à indenização por danos matérias a título de lucros cessantes relativos aos dezessete dias em que ficou sem os serviços de telefonia, sendo possível a demonstração de sua extensão em fase de liquidação.
+Contudo, o Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, concluiu que não ficou demonstrada a existência de lucros cessantes passíveis de reparação.
+Nesse sentido, transcreve-se trecho do aresto hostilizado:
+Nesse norte, julgo que considerar em todo e qualquer caso ter o apelante ao recebimento de lucro cessante pelo não funcionamento do serviço de telefonia, sem a existência de provas nos autos, é sancionar o lucro imaginário e ou simplesmente hipotético e, em última análise, pactuar com raciocínios desarrazoados. (e-STJ, fl. 370)
+(..)
+A meu sentir, em tais situações a parte prejudicada deve provar a ocorrência da efetiva diminuição em seus lucros em virtude do fato alegado.
+Ademais, a experiência demonstra que o comércio como um todo sofre a influência da variável da sazonalidade, isto é, as suas vendas e, consequentemente, seu faturamento, variam de acordo com a época do ano e/ou da mercadoria comercializada, desta feita, para uma melhor apuração dos valores das vendas que deixaram de ser realizadas, seria necessário o comparativo de vendas brutas com um período mais extenso, de no mínimo 1 ano de vendas, comparativo esse não apresentado pela apelante.
+Ora, não tendo o segundo apelante se desincumbido do seu ônus processual (art. 373, inciso I, do NCPC), não há que se falar em condenação ao pagamento de lucros cessantes. (e-STJ, fl. 371)
+Desta feita, revela-se inviável, na estreita via do recurso especial, rever a conclusão alcançada pela Corte Local, tendo em vista que a aferição de eventuais lucros cessantes demanda inafastável revolvimento das provas dos autos, atraindo a incidência da Súmula nº 7 do STJ.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TELEFONIA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. FALHA NA PRESTAÇÃO DO SERVIÇO. NÃO COMPROVAÇÃO DOS DANOS MATERIAIS E LUCROS CESSANTES. CONCLUSÃO DO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao desate da controvérsia, só que de forma contrária aos interesses da parte. Logo, não padece de vícios de omissão, contradição ou obscuridade, a justificar sua anulação por esta Corte. Tese de violação do art. 535 do CPC repelida.
+2. Na espécie, o Tribunal de origem entendeu que não houve comprovação dos danos materiais/lucros cessantes alegados em decorrência da suspensão indevida do serviço de telefonia. Assim, para se concluir em sentido contrário, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 797.189/MG, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 9/12/2015)
+Nestas condições, com fundamento no art. 932 do NCPC, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios, tendo em vista que já foram fixados em 20% sobre o valor da causa em desfavor da recorrente.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
