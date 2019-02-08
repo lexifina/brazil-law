@@ -1,0 +1,67 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS INTEMPESTIVIDADE.
+1. Inexistência de ofensa ao art. 535, do CPC/73, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, não é possível conhecer de petição recursal apresentada na forma física, caso a norma do Tribunal exija sua interposição eletrônica.
+3. Ainda que protocolizada no prazo legal a petição em formato físico, é necessária a interposição eletrônica tempestiva do recurso, sob pena de não ser conhecida.
+4. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] com arrimo no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão do Tribunal de Justiça do Estado de São Paulo (fl. 110):
+EXECUÇÃO - EMBARGOS À EXECUÇÃO - INTEMPESTIVIDADE - REJEIÇÃO LIMINAR - CABIMENTO - IMPLANTAÇÃO DO PETICIONAMENTO ELETRÔNICO NO JUÍZO DE ORIGEM - OBRIGATORIEDADE - O ART. 21 DA RESOLUÇÃO Nº 551-2011 DESTE E. [NOME] VEDA O RECEBIMENTO DE PETIÇÕES FÍSICAS, POR MEIO DO PROTOCOLO INTEGRADO, EM AUTOS QUE TRAMITAM ELETRONICAMENTE - INAPLICABILIDADE DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS, EM RAZÃO DA EXPRESSA VEDAÇÃO LEGAL - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Consta dos autos que [NOME] opuseram embargos à execução nos autos da ação de execução ajuizada por VIAÇÃO VITÓRIA LTDA.
+O juízo de primeiro grau julgou extinta a ação em razão da intempestividade dos embargos, além de condenar os embargante ao pagamento dos ônus sucumbenciais.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo conforme a ementa acima transcrita.
+Opostos embargos declaratórios, estes restaram rejeitados nos seguintes termos (fl. 124):
+EMBARGOS DE DECLARAÇÃO - PREQUESTIONAMENTO - EXPOSTA COM CLAREZA A CONVICÇÃO DOS JULGADORES, O JULGADO QUE A EXPRESSA SATISFAZ O PRECEITO CONSTITUCIONAL E LEGITIMA A OUTORGA DA PRESTAÇÃO JURISDICIONAL - DESCABIMENTO DE QUALQUER ESCLARECIMENTO - EMBARGOS DECLARATÓRIOS REJEITADOS.
+Em suas razões de recurso especial, os recorrentes alegaram contrariedade ao art. 535, inciso II, do Código de Processo Civil/73, sob o fundamento de que houve negativa de prestação jurisdicional. Apontaram negativa de vigência aos arts. 244 e 736, ambos do Código de Processo Civil/73, em razão da aplicabilidade do princípio da instrumentalidade das formas e da possibilidade de oposição dos embargos à execução por meio de petição física no protocolo integrado. Requereram, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões às fls. 179/188.
+É o relatório.
+Passo a decidir.
+Não merece acolhida a irresignação recursal.
+1. No que tange à alegação de negativa de prestação jurisdicional:
+O banco recorrente alegou violação ao art. 535, incisos I e II, do Código de Processo Civil/73, ao argumento de que houve negativa de prestação jurisdicional.
+No entanto, as questões submetidas ao Tribunal a quo foram suficiente e adequadamente apreciadas, com abordagem integral dos temas e fundamentação compatível.
+Destarte, não há se falar em negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REVISÃO DE BENEFÍCIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem, após a análise dos elementos dos autos, concluiu que não é devido o reajuste do benefício complementar pelo autor, uma vez que no presente caso, incide a Lei 8.020/90, o qual destina eventuais sobras no exercício anual para o fundo de contingência, ou para a redução das contribuições. Verifica-se que para desconstituir o entendimento exposto pelo Tribunal local e acolher a pretensão recursal seria imprescindível a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas, bem como a interpretação de cláusulas contratuais, o que é defeso nesta instância especial ante os óbices das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no AREsp 1233390/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018)
+Ademais, consoante a jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DEFERIMENTO DO PEDIDO LIMINAR. POSSE VELHA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CABIMENTO. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022, I e II, do Código de Processo Civil de 2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica.
+3. Não há falar em erro de julgamento se a decisão de primeiro grau aplica indevidamente o art. 927 do CPC/73, e o Tribunal de origem enquadra o fato em dispositivo legal diverso, confirmando a liminar de reintegração de posse, porque preenchidos os requisitos do art. 273 do CPC/73.
+4. O Superior Tribunal de Justiça tem entendimento de que é possível a concessão de tutela antecipada em ação possessória de força velha, desde que preenchidos os requisitos do art. 273 do CPC/73, a serem aferidos pela instância de origem.
+5. Segundo o acórdão recorrido, os documentos carreados aos autos mostraram-se suficientes para comprovar a existência da posse sobre o imóvel e o esbulho praticado. Incidência da Súmula 7/STJ.
+6. Agravo interno não provido. (AgInt no AREsp 1089677/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+2. Quanto à tempestividade dos embargos à execução:
+O Tribunal de Justiça bandeirante negou provimento ao recurso de apelação sob os seguintes fundamentos (fls. 110/111):
+(..)
+2. Após a citação, por carta precatória, nos autos da execução movida por VDC Transportes Coletivos Ltda., os apelantes opuseram os correspondentes embargos à execução, que foram liminarmente rejeitados, nos seguintes termos (cf. fl. 84):
+"Vistos. Verifica-se que citados, os embargantes se valeram do protocolo integrado para a distribuição da presente inicial de embargos à execução (lis. 18), o que é vedado. Ora, tendo sido distribuídos pela via inadequada, não há como se reputar a data em que distribuíram a inicial na Comarca de Campinas, dia 20/03/2013 (último dia do prazo), como a data da distribuição. Como os embargos foram distribuídos digitalmente, perante este Juízo, somente no dia 22/03/2013, ou seja, fora do prazo, hão se ser rejeitados. Posto isso, REJEITO LIMINARMENTE os presentes embargos por intempestivos, com fulcro no artigo 739, inciso I, do Código de Processo Civil. Custas pelos embargantes. P.R.I.".
+Consoante o disposto no art. 738, "caput", do CPC: "Os embargos serão oferecidos no prazo de 15 (quinze) dias, contados da data da juntada aos autos do mandado de citação".
+Infere-se dos autos que a carta precatória contendo o mandado de citação dos recorrentes foi juntada aos autos em 05-3-2013 (cf. fl. 70). Assim, o prazo quinzenal para a interposição dos presentes embargos à execução expirou em 20-3-2013, data do protocolo físico da petição em cartório (cf. carimbo de fl. 18).
+De acordo com a Resolução nº 551-2011 deste [NOME] e o respectivo cronograma de implantação do peticionamento eletrônico em primeiro e segundo graus de jurisdição, o processamento digital de autos - à época da interposição dos embargos - já era obrigatório no juízo de origem (cf. Comunicado SPInº 110-2012).
+Com efeito, o art. 21 daquela Resolução estabelece que "não será admitido o protocolo integrado para petições dirigidas aos processos que tramitam eletronicamente, em primeiro e segundo grau de jurisdição".
+Assim, foi determinado aos apelantes que apresentassem o respectivo peticionamento digital, o qual somente ocorreu em 22-3-2013, portanto, após o decurso do prazo legal.
+Diante da manifesta intempestividade, correta a decisão do magistrado, que extinguiu liminarmente os embargos, nos termos do art. 739,1, do CPC.
+Ressalte-se que não é possível o recebimento dos embargos pelo princípio da instrumentalidade das formas, em razão da expressa vedação legal, consoante art. 9o, da Resolução nº 551-2011, que estabelece: "A correta formação do processo eletrônico é responsabilidade do advogado ou procurador" (g.n.).
+Nesse contexto, o posicionamento adotado pelo Tribunal de Justiça a quo não merece reparos.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não é possível conhecer de petição recursal apresentada na forma física, caso a norma do Tribunal exija sua interposição eletrônica.
+Destarte, ainda que protocolizada no prazo legal a petição em formato físico, é necessária a interposição eletrônica tempestiva do recurso, sob pena de ser reconhecida sua intempestividade.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. Admissível o agravo, apesar de não infirmar a totalidade da decisão agravada, pois a jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz à preclusão das matérias não impugnadas.
+2. Consoante a jurisprudência deste Superior Tribunal de Justiça, a interposição de recurso por via física, quando obrigatório o protocolo eletrônico, não configura erro escusável, pois cabe à parte recorrente zelar pela regularidade da insurgência.
+2.1. Ainda que protocolizada no prazo legal a petição do reclamo em formato físico, é necessária a interposição eletrônica tempestiva do recurso.
+2.2. No caso concreto, o Comunicado nº 378/2013 do Tribunal de Justiça do Estado de São Paulo tornou obrigatório o peticionamento eletrônico para os feitos de competência da Seção de Direito Privado - Subseção de Direito Privado 2 - a partir de 19 de agosto de 2013 e o insurgente protocolizou, depois dessa data, o agravo de instrumento somente em meio físico, sendo que a interposição eletrônica foi intempestiva, tornando inadmissível o reclamo. Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido. (AgInt no REsp 1647324/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 26/04/2018, g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PROTOCOLO ELETRÔNICO OBRIGATÓRIO. COMUNICADO Nº 378/2013 DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+1 - Em respeito ao princípio da unirrecorribilidade recursal, interpostos dois recursos contra uma única decisão pela mesma parte, não se deve conhecer do segundo, pois opera-se a preclusão consumativa. 2 - É intempestivo o agravo em recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação da decisão agravada (recurso interposto sob a égide do CPC/15).
+3 - O Comunicado nº 378/2013 do Tribunal de Justiça do Estado de São Paulo tornou obrigatório o peticionamento eletrônico para os feitos de competência da Seção de Direito Privado - Subseção de Direito Privado 2 - a partir de 19 de agosto de 2013.
+4 - Ainda que protocolizada no prazo legal, por equívoco, a petição de agravo em recurso especial em formato físico, é necessária a interposição eletrônica tempestiva do recurso, o que não ocorreu no caso dos autos. Precedentes.
+5 - É da parte recorrente a responsabilidade pelo zelo na regularidade da interposição do seu recurso, de modo que não é escusável a falta de conhecimento de que esse ato somente poderia ser realizado eletronicamente e não de forma física. Precedentes.
+6 - Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1112684/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017, g.n.)
+Ante o exposto, com base no art. 932, inciso IV, do CPC/15 c.c. o Enunciado n.º 568/STJ, conheço do recurso especial, no entanto, nego-lhe provimento.
+Intimem-se.
