@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ALEGADA AFRONTA AO ART. 8º, § 10, DA LEI 11.775/2008. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região do qual se extrai:
+Com efeito, se a própria Lei nº 11.775/08 previu a exclusão do encargo de 20% do débito consolidado, em nítida intenção do legislador de conferir uma benesse ao contribuinte, descabe condenar o executado em honorários advocatícios, até mesmo em casos de improcedência dos embargos à execução, razão pela qual o recurso da União não merece acolhida.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea "a" do permissivo constitucional, a recorrente aponta ofensa ao art. 8º, § 10, da Lei 11.775/2008, alegando, em síntese, que:
+Com efeito, o presente caso versa sobre a possibilidade da cobrança de honorários advocatícios em sede de execução fiscal e embargos à execução que tratam de crédito rural, tendo em vista o enunciado do § 10 do art. 8º da Lei nº 11.775/2008, que expressamente veda a incidência do encargo legal previsto no Decreto-Lei nº 1.025/1969, sobre as dívidas originárias de crédito rural inscritas em DAU.
+Como acima explicitado, a Corte Superior de Justiça proíbe a cobrança de honorários advocatícios em execuções já acrescidas do encargo do Decreto-Lei nº 1.025/1969. Assim, se houver a incidência de tal encargo, a cobrança, em destaque, de honorários, nos embargos, resta prejudicada. Destarte, a contrário sensu, extrai-se da posição firmada pelo STJ que, quando não houver possibilidade de cumulação de tais verbas, os honorários decorrentes de condenação judicial podem ser regularmente exigidos.
+Nesse sentido, a jurisprudência do STJ acima colacionada não alcança a cobrança de honorários advocatícios em execuções fiscais e embargos à execução relativos às dívidas de operações de crédito rural, porque impossível ocorrer, no caso, cumulatividade.
+O recurso foi admitido pela decisão de fl. 127.
+É o relatório. Passo a decidir.
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Constou do acórdão recorrido que:
+Com efeito, se a própria Lei nº 11.775/08 previu a exclusão do encargo de 20% do débito consolidado, em nítida intenção do legislador de conferir uma benesse ao contribuinte, descabe condenar o executado em honorários advocatícios, até mesmo em casos de improcedência dos embargos à execução, razão pela qual o recurso da União não merece acolhida.
+Contudo, tal fundamentação não foi impugnada de modo adequado no presente recurso. Além disso, verifica-se que o disposto no art. 8º, § 10, da Lei 11.775/2008 não possui comando suficiente nem para infirmar os fundamentos do acórdão recorrido, nem para, por si só, sustentar a tese no sentido de que, no caso, é viável, a fixação de honorários advocatícios.
+Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Diante do exposto, com base no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
