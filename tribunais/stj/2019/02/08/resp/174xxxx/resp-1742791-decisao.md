@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. EXISTÊNCIA DE PRETENSÃO RESISTIDA. ART. 19, § 1o. DA LEI 10.522/2002. INAPLICABILIDADE. RECURSO ESPECIAL DA EMPRESA A QUE SE DÁ PROVIMENTO. RETORNO DOS AUTOS À ORIGEM, PARA QUE SEJA ARBITRADA A VERBA HONORÁRIA DEVIDA PELA FAZENDA NACIONAL.
+1. Trata-se de Recurso Especial interposto por ELETROCOR LABORATÓRIO DE DIAGNÓSTICOS LTDA., com fundamento nas alíneas a e c do art. 105, III da CF/1988, contra acórdão proferido pelo TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. HONORÁRIOS ADVOCATÍCIOS. LEI 10.522, DE 2002, ART. 19, §1º.APLICABILIDADE.
+Havendo reconhecimento do pedido por ocasião da contestação, incide o disposto no § 1º do art. 19 da Lei 10.522/02 (fls. 173).
+2. Nas razões do Apelo Nobre, a parte recorrente sustenta, além de dissídio entre julgados, violação do art. 19, § 1o. da Lei 10.522/2002, sob o argumento de que os efeitos do Art. 19, §1º, da Lei 10.522/2002, recaem apenas quando há reconhecimento integral da procedência do pedido, isto é, não se aplica ao caso em tela, haja vista a União reconhecer apenas parcialmente o pedido da ora Recorrida, não aceitando o que tange aos cálculos utilizados pela mesma para se definir valores. Ou seja, não houve, como afirma a Recorrida, o reconhecimento integral da procedência do pedido (fls. 197). Pugna pela reforma da decisão, a fim de condenar a União ao pagamento dos honorários advocatícios.
+3. Com contrarrazões (fls. 278/282), fora o recurso admitido na origem (fls. 285).
+4. É o relatório.
+5. O recurso merece acolhimento.
+6. Com efeito, o entendimento consolidado nesta Corte Superior é no sentido que, havendo pretensão resistida pela FAZENDA PÚBLICA, que apresenta contestação, ainda que limitada à forma de cálculo do débito, é cabível a condenação em honorários advocatícios. Não incide, na hipótese, o disposto no § 1o. do art. 19 da Lei 10.522/2002. A propósito, cite-se o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SUCUMBÊNCIA DA UNIÃO. RECONHECIMENTO DO PEDIDO. CONTESTAÇÃO. PRETENSÃO PARCIALMENTE RESISTIDA. ART. 19, § 1º, DA LEI 10.522/2002. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Tendo a União formulado defesa processual ante a pretensão lançada e, no mérito, havendo se recusado a anuir com a quantificação objetiva e imediata da pretensão condenatória, requerendo a apuração do débito em fase de liquidação, não há como concluir que se está diante da exceção prevista no art. 19, § 1º, da Lei 10.522/2002. Precedentes.
+2. Agravo interno a que se dá provimento, para restabelecer a sentença de primeiro grau e condenar a recorrida ao pagamento dos honorários advocatícios lá fixados em 10% sobre o valor repetível (AgInt no AgInt no REsp. 1.585.663/PR, Rel. Min. OG FERNANDES, DJe 8.5.2017).
+7. Ante o exposto, dá-se provimento ao Recurso Especial de ELETROCOR LABORATÓRIO DE DIAGNÓSTICOS LTDA., a fim de determinar o retorno dos autos ao Tribunal de origem, para que arbitre o valor dos honorários advocatícios devidos pela FAZENDA NACIONAL.
+8. Publique-se. Intimações necessárias.
