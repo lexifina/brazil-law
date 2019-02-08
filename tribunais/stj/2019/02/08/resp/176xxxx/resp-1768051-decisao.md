@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. SUPOSTA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. ALEGADA DISSOLUÇÃO IRREGULAR. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 5ª Região que obstou o redirecionamento da execução fiscal.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 535 do CPC/73, bem como ao art. 50 do CC, c/c os os arts. 592 e 596 do CPC/73, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) no caso, ficou demonstrada a dissolução irregular da pessoa jurídica.
+O recurso foi admitido pela decisão de fl. 278.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 2, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+No mais, constou do acórdão recorrido que:
+Preceitua a súmula 435, do STJ que: "presume-se dissolvida irregularmente a empresa que deixa de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente".
+Na hipótese, a Fazenda lastreia seu pedido de redirecionamento na dissolução irregular da empresa executada, aduzindo que esta se encontra com o status de "Baixada por inaptidão", nos cadastros da Receita Federal do Brasil.
+Entretanto, entendo que tal situação não se mostra suficiente para autorizar o redirecionamento pleiteado. É que a dissolução irregular caracteriza-se pela não localização da empresa executada no endereço informado ao Fisco.
+Com efeito, verifico que a empresa executada foi devidamente citada, conforme certidão de fls. 24, e além disso o Oficial de Justiça se dirigiu ao endereço descrito no mandado e promoveu a penhora que máquinas. Em razão disso, não há nos autos comprovação de que a empresa não está mais estabelecida no endereço constante na CDA e do respectivo mandado de citação.
+Por outro lado, tenho que a situação de inatividade da empresa junto aos registros da Receita Federal do Brasil não é, de per si, suficiente para legitimar, o redirecionamento da execução fiscal.
+Em suma, entendeu o Tribunal de origem inviável o redirecionamento da execução fiscal, tendo em vista que não ficou caracterizada a dissolução irregular da pessoa jurídica, havendo menção, inclusive, à efetivação de penhora.
+Contudo, tal fundamentação não foi impugnada de modo adequado no presente recurso. Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Além disso, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  e se reconhecer que houve a dissolução irregular da empresa executada  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Diante do exposto, com base no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
