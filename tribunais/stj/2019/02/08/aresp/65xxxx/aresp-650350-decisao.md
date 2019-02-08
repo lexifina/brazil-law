@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo BANCO DO BRASIL S/A contra decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a Vice-Presidência do Tribunal de origem negou seguimento ao recurso especial quanto à violação do art. 535, II, do CPC de 1973, ante o óbice da Súmula n. 284 do STF; quanto à capitalização mensal de juros, por incidência das Súmulas n. 5, 7 e 83 do STJ; e, denegou seguimento ao recurso, no que se refere à comissão de permanência, com fundamento no art. 543-C, § 7º, I, do CPC de 1973.
+Entretanto, a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada. Limitou-se a aduzir que a jurisprudência tem entendido de forma diversa da decisão objurgada e que o acórdão recorrido diverge de paradigma deste eg. STJ que permite a cobrança da capitalização de juros, desde que expressamente pactuada.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito, confira-se estes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REALIZAÇÃO DE PROVA PERICIAL. IRREGULARIDADE. MERA AVALIAÇÃO DO ESTADO DE CONSERVAÇÃO DOS ELEVADORES. REEXAME DE PROVAS. IMPOSSIBILIDADE. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULAS 7 E 182 DO STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, acerca da ausência de irregularidade na realização da perícia, na qual apenas se promoveu a avaliação do estado dos elevadores, implica o reexame dos fatos e provas constantes dos autos, providência vedada em recurso especial, conforme o óbice disposto na Súmula 7/STJ.
+2. É inviável o agravo em recurso especial se a parte deixa de impugnar parte dos fundamentos da decisão agravada.
+3. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+4. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.053.309/BA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 17/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula nº 182/STJ.
+ ..
+5. Agravo interno não conhecido. (AgInt no AREsp n. 1.088.428/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 22/11/2017.)
+Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Ante o exposto, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Por fim, deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intimem-se.
