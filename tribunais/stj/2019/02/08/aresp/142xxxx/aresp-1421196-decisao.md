@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Silvânia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 168):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. DIFERENÇAS SALARIAIS. PROFESSOR. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO VERTICAL E ADICIONAL DE TITULARIDADE. REQUISITOS DAS LEIS MUNICIPAIS Nos 1.5201 E 1.522 DE 31 DE DEZEMBRO DE 2007. ATENDIDOS. TERMO INICIAL. DATA DO PROTOCOLO DA AÇÃO. AUSÊNCIA DE PROVA DA DATA DE PROTOCOLO DO PEDIDO ADMINISTRATIVO. DIFICULDADES FINANCEIRAS E LIMITE CONSTITUCIONAL DE GASTOS. IRRELEVÂNCIA.
+1. A Lei municipal nº 1.522, de 31 de dezembro de 2007, que dispõe sobre o Plano de Carreira e Remuneração do Magistério Público do Município de Silvânia, em seu artigo 9º, conceitua e estabelece os critérios a serem observados para progressão vertical na carreira dos professores, fazendo clara referência à exigência de conclusão de curso de pós graduação, requisito atendido no caso sub examine.
+2. Nos termos da legislação de regência (artigo 67, da Lei Municipal n.º 1.521, de 31 de dezembro de 2007), ao professor que apresentar certificado de conclusão do curso de especialização (pós graduação lato sensu) é concedido o acréscimo de 30% (trinta por cento) sobre o seu vencimento básico.
+3. Uma vez presentes os requisitos legais aplicáveis à espécie, é patente o direito subjetivo da servidora à progressão vertical e adicional de titularidade nos exatos termos da legislação que regula a carreira.
+4. Em se tratando de ato administrativo vinculado, é dever da Administração Pública cumprir a dita regra, em observância ao princípio da legalidade. Precedentes deste egrégio Sodalício.
+5. Compete à parte autora da ação o ônus da prova no tocante ao fato constitutivo do seu direito.
+Assim, uma vez não comprovado o dia em que foram entregues os requerimentos administrativos junto ao órgão municipal, a improcedência do pedido de fixação de termo inicial pela data descrita na exordial é medida que se impõe, a teor do artigo 373, I, do CPC.
+6. APELAÇÕES CÍVEIS CONHECIDAS, MAS DESPROVIDAS.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 15 e 16 da LRF e 2º da Lei 9.784/99. Defende que os gastos de pessoal estão acima do limite legal a que se refere o art. 20 da LRF, portanto, até que haja a recondução para o limite estabelecido, não pode o gestor conceder vantagem, aumento, reajuste ou adequação de remuneração a qualquer título.
+É o relatório.
+O inconformismo não prospera.
+De início, observa-se que a matéria pertinente ao art. não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide, no ponto, o óbice da Súmula 282/STF.
+No mais, o Tribunal de origem, ao decidir a questão relativa à impossibilidade material e financeira de implantação de reajuste remuneratório estabelecido pela lei local e a ofensa à Lei de Responsabilidade Fiscal, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+Ainda que assim não fosse, "o acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça de que não incidem as restrições previstas na Lei de Responsabilidade Fiscal sobre as despesas com pessoal quando decorrerem de decisões judiciais" (AgRg no Ag 1.217.796/MA, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 08/05/2012, DJe 23/05/2012).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DA LC N. 101/2000. AUMENTO DE DESPESA. PREVISÃO ORÇAMENTÁRIA. EXCEÇÃO LEGAL. DECISÃO JUDICIAL. PRECEDENTES. SÚMULA 83/STJ.
+O entendimento pacífico desta Corte é no sentido de que há exceção legal quanto aos limites orçamentários quando as despesas excedentes forem decorrentes de decisão judicial - Lei Complementar n. 101/2000 (LRF), no seu art. 19, § 1º, IV. Precedentes. Súmula 83/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 461.158/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/03/2014, DJe 28/03/2014).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
