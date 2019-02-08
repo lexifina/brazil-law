@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PARCELAMENTO. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO. ART. 151, VI DO CTN. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA DE OMISSÃO DO JULGADO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo egrégio TRF da 5a. Região, assim ementado:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. PARCELAMENTO APÓS O AJUIZAMENTO DA AÇÃO. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. ART. 151, INCISO VI, DO CÓDIGO TRIBUTÁRIO NACIONAL. SUSPENSÃO DO PROCESSO. ART. 792, DO CPC.
+1. Se o débito fiscal for parcelado no curso da ação executiva, como é o caso, a execução somente será extinta quando o devedor quitar a última prestação, devendo, até então, permanecer suspensa, a teor do disposto no art. 792, do Código de Processo Civil.
+2. Isso porque o parcelamento de débito fiscal importa em uma das causas legais de suspensão de exigibilidade do crédito tributário, nos termos do art. 151, inciso VI, do Código Tributário Nacional.
+3. Honorários advocatícios fixados em desfavor da Fazenda Nacional (que se recusara a admitir a suspensão da execução) na importância de R$ 2.500,00. Redução, dada a simplicidade da matéria, para R$ 400,00 (quatrocentos reais), em consonância com o disposto no §4º, do art. 20, do Código de Processo Civil - CPC, aplicável à espécie. Apelação provida em parte (fls. 139).
+2. Os Embargos de Declaração opostos (fls. 143/145) foram rejeitados (fls. 148/153).
+3. Nas razões de seu Apelo Nobre, a parte recorrente alega violação do art. 535, II do CPC/1973 aduzindo, em suma, que o Tribunal de origem quedou-se silente sobre a alegação de omissão quanto à não comprovação da regularidade do parcelamento. Para tanto, aduziu que o pagamento das parcelas não foi devidamente comprovado, além de ser inferior ao devido. Pugna pela retorno dos autos à origem.
+4. Com contrarrazões (fls. 167/168), o recurso fora admitido na origem (fls. 170).
+5. É o relatório.
+6. A questão em debate cinge-se à existência de omissão no acórdão hostilizado no tocante à alegação de omissão quanto à suposta irregularidade do parcelamento. Em relação ao tema, merece destaque o seguinte trecho do acórdão combatido:
+No caso sob exame, não vislumbro nenhum vício a ser sanado. Resta patente que o intento do Embargante é o de rediscutir o mérito do feito.
+O Acórdão embargado reportou-se à legislação de regência do tema trazido a tomo e, pautando-se em precedentes jurisprudenciais, deixou claro que, se houver o parcelamento do débito tributário, no curso de ação executiva, deve esta permanecer suspensa, conforme o disposto no art. 792, do CPC. Destarte, apenas quando o devedor quitar a última prestação, o feito será extinto. Ainda que se sustente que o pagamento não é integral, não há notícia da inclusão do parcelamento, podendo o fisco, no futuro, cobrar as diferenças. - Decisão sob censura que, com todas as vênias aos entendimentos eventualmente dissonantes, explanou, "de forma clara e suficiente, os motivos norteadores da convicção formulada. O fato de a tese defendida pela Embargante não ter sido analisada ao seu gosto não configura omissão, pois os fundamentos nos quais se suportam a decisão embargada são claros, e não deixam margem a dúvidas (fls. 149).
+7. Da simples leitura do trecho acima transcrito, verifica-se que inexiste a violação apontada, uma vez que a Corte de origem salientou que se houver o parcelamento, no curso da ação executiva, deve esta permanecer suspensa, nos termos do art. 154, VI do CTN.
+8. A questão subjacente de regularidade ou não dos pagamentos, aptos a quitar a dívida, não tem o condão de afastar a suspensão da exigibilidade do crédito, podendo, sim, futuramente, ser resolvida em extinção do benefício fiscal, se assim restar configurada.
+9. Assim, observa-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+10. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+11. Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC. OFENSA NÃO CARACTERIZADA. ART. 273 DO CPC. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SUMULA 7 DO STJ. FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA A. DISSÍDIO PRETORIANO PREJUDICADO.
+1. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..).
+5. Agravo Regimental não provido (AgRg no AREsp. 615.053/RJ, Rel. Min. HERMAN BENJAMIN, DJe 6.4.2015).
+
+DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCON. APLICAÇÃO DE MULTA EMPRESA PÚBLICA FEDERAL. REDUÇÃO DO VALOR. NÃO OFENSA AO ART. 535 DO CPC. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao artigo 535 do CPC.
+2. A controvérsia dos autos foi dirimida com base nos fatos e provas constantes dos autos, de modo que o recurso especial é inviável em razão do enunciado 7 da Súmula desta Corte.
+3. Agravo regimental não provido (AgRg no AREsp. 618.556/PE, Rel. Min. BENEDITO GONÇALVES, DJe 31.3.2015).
+12. Diante do exposto, nega-se provimento ao Recurso Especial da FAZENDA NACIONAL.
+13. Publique-se.
+14. Intimações necessárias.
