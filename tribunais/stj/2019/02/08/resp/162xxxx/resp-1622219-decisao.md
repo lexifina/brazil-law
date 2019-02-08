@@ -1,0 +1,28 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/73. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. CONTRADIÇÃO NÃO DEMONSTRADA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO E PREJUÍZO PROCESSUAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ Fl. 115):
+EXECUÇÃO POR TÍTULO EXTRAJUDICIAL - Decisão que acolheu em parte os embargos de declaração do executado para que fosse excluída a aplicação da segunda multa de 10%, bem como para expurgar os honorários de advogado da fase de cumprimento de sentença - Reforma para exclusão da multa de 10%, eis que não se trata de cumprimento de sentença - Recurso provido.
+Os embargos de declaração foram acolhidos para fins de prequestionamento.
+No recurso especial, o recorrente aponta ofensa aos seguintes dispositivos: (a) art. 535, I e II, do CPC, sustentando que o acórdão recorrido padece de omissão e (b) arts. 250, 475-J, 620, 743, 745, III, do CPC, alegando, em síntese, que (a) o processo é nulo, pois não é possível adotar o rito do cumprimento de sentença para a execução de título extrajudicial; (b) o prejuízo é evidente, porque há a dupla incidência da multa de 10%, bem como de honorários advocatícios.
+Contrarrazões às e-STJ Fls. 152-160.
+Juízo de admissibilidade do presente recurso realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Quanto à apontada violação ao art. 535, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem julgou, com fundamentação suficiente, a matéria devolvida à sua apreciação, ao afirmar, em síntese, que (a) em se tratando de execução de título executivo extrajudicial (contrato de locação), "não há falar em incidência da multa de 10% prevista no art. 475-J do Código de Processo Civil, eis que está é devida quando da fase de cumprimento de sentença, o que, evidentemente, não é o caso presente", razão pela qual "deve ser reformada a decisão agravada para exclusão da multa de 10% incluída nos cálculos"; e (b) alterado o valor da execução, "não é necessário tornar-se nulo todo o procedimento, quando já afastado o prejuízo ao devedor, devendo-se aproveitar os atos que não resultaram em prejuízo a defesa".
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional ou ausência de fundamentação.
+Com relação à apontada violação ao art. 535, I, do CPC, não houve, na fundamentação do recurso especial, a indicação adequada da questão federal controvertida, tendo deixado o recorrente de informar de que modo o acórdão recorrido é contraditório, incidindo o óbice da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Quanto ao mais, o Tribunal de origem, ao dar provimento ao agravo de instrumento do recorrente, (a) determinou a exclusão da multa de 10% incluída nos cálculos do exequente e (b) indeferiu o pedido de anulação do processo, por entender que devem ser aproveitados os atos processuais que não resultaram em prejuízo à defesa.
+Com efeito, o entendimento adotado pelo Tribunal de origem perfilha a orientação desta Corte de que "o princípio processual da instrumentalidade das formas, sintetizado pelo brocardo pas de nullité sans grief e positivado nos arts. 282 e 283, ambos do NCPC, impede a anulação de atos inquinados de invalidade quando deles não tenham decorrido prejuízos concretos" (REsp 1731464/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018).
+No caso concreto, quando as conclusões da Corte de origem resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como infirmar tal posicionamento, em virtude da incidência da Súmula 7/STJ.
+Isso porque, o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Por outro lado, "O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição" (AgRg no REsp 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 16/05/2018).
+Assim, além de perfilhar o mesmo entendimento desta Corte, ilidir as conclusões do aresto impugnado - quanto à ausência de excesso de execução e de prejuízo processual ao recorrente -, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial.
+Diante do exposto, nego provimento ao recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Intime-se.
