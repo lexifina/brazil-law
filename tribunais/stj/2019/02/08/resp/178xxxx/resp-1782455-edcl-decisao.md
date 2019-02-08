@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRETENSA INCIDÊNCIA DA MP Nº 780/2017 (CONVERTIDA NA LEI Nº 13.494/2017), QUE PROCEDEU À INCLUSÃO DO § 3º AO ART. 115 DA LEI Nº 8.213/91. RETROATIVIDADE. INVIABILIDADE. EMBARGOS ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+DECISÃO
+Trata-se de embargos de declaração (fls. 102/105) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. BENEFÍCIO PREVIDENCIÁRIO PAGO INDEVIDAMENTE. INCLUSÃO NO CONCEITO DE DÍVIDA ATIVA NÃO-TRIBUTÁRIA. INVIABILIDADE. INADEQUAÇÃO DA VIA ELEITA. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA. RECURSO ESPECIAL REPETITIVO 1.350.804/PR. ALEGADA VIOLAÇÃO AOS ARTS. 39, § 2º, DA LEI Nº 4.320/64, 37-A DA LEI Nº 10.522/2002 E 493 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+A embargante aduz, em síntese, que: a) omissa a decisão, "uma vez que não se pronunciou sobre a alteração promovida pela MP 780, de 19.5.2017 (convertida na Lei 13.494/2017), que promoveu a inserção do § 3º no art. 115 da (..) da Lei 8.213/91, passando a autorizar, expressamente, o INSS a inscrever em dívida ativa os valores pagos indevidamente (ou a maior), a título de benefício previdenciário ou assistencial" (fl. 103); e b) "mister se faz, portanto, seja apreciado o pedido de aplicação imediata de tal alteração legislativa, bem como, a possibilidade de convalidação do ato de inscrição em dívida ativa do crédito exequendo" (fl. 104).
+Requer sejam acolhidos os embargos.
+Não houve apresentação de impugnação pelo embargado.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O embargante pugna pela aplicação imediata da alteração promovida pela MP nº 780/2017 (convertida na Lei nº 13.494/2017), que procedeu à inclusão do § 3º ao art. 115 da Lei nº 8.213/91, para prever a possibilidade de inscrever, em dívida ativa, valor pago de forma indevida a título de benefício previdenciário ou assistencial e não devolvido ao INSS.
+De fato, a decisão embargada não se pronunciou sobre a nova hipótese normativa.
+No entanto, sem reparo, nesse particular, o aresto impugnado, que evidenciou que a inclusão do § 3º ao art. 115 da Lei nº 8.213/91 constitui novação jurídica, que "somente pode regular ações ajuizadas após a vigência da nova lei, sendo inviável a sua retroatividade" (fl. 64).
+Com efeito, a inovação trazida não possui aplicação no presente caso, tendo em vista que o crédito foi constituído anteriormente ao início da vigência da MP nº 780/2017 (convertida na Lei nº 13.494/2017).
+De qualquer forma, como se constata, a decisão embargada mantém-se no que tange à inadequação do executivo fiscal para cobrança de crédito decorrente de suposto pagamento indevido de benefício previdenciário.
+Diante do exposto, acolho os embargos de declaração opostos, sem atribuição de efeitos infringentes, nos termos da fundamentação.
+Publique-se. Intimem-se.
