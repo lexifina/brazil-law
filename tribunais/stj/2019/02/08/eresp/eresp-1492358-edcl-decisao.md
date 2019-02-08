@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de Embargos de Declaração opostos por ILCA TEREZINHA VIANNA DA CONCEIÇÃO GALIÃO em face da decisão que deu parcial provimento ao seu Recurso Especial, nos termos da seguinte ementa:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 3,17%. LIMITAÇÃO TEMPORAL. BASE DE INCIDÊNCIA. FUNÇÕES GRATIFICADAS E CARGOS EM COMISSÃO INCORPORADOS. LEI 9.030/95. AUSÊNCIA DE ALTERAÇÃO OU REESTRUTURAÇÃO DE CARGOS OU DE CARREIRA. MP 2.225/2001. JUROS DE MORA EM CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. ALTERAÇÃO LEGISLATIVA. LEI 11.960/2009. NORMA DE CARÁTER PROCESSUAL. APLICAÇÃO IMEDIATA. RESP. REPRESENTATIVO DE CONTROVÉRSIA 1.205.946/SP, 3S, REL. MIN. BENEDITO GONÇALVES, DJE 2.2.2012. JUROS DE MORA. ART. 1o.-F DA LEI 9.494/97. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.270.439/PR, REL. MIN. CASTRO MEIRA, DJE 2.8.2013. CORREÇÃO MONETÁRIA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL DO ART. 5o. DA LEI 11.960/09 (ADIN 4.357/DF). ÍNDICE UTILIZADO: IPCA. ENTENDIMENTO CONSOLIDADO EM RECURSO ESPECIAL REPETITIVO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+2. Sustenta a embargante omissão quanto ao inversão dos ônus de sucumbência e a correção da parte dispositiva, vez que cuida-se de anuênio e não quintos.
+3. É o relatório.
+4. Assiste razão à embargante, impondo-se a reexame do feito.
+5. No mérito, o recorrente defende que, em atenção ao caráter geral do reajuste de 3,17%, conforme previsão contida nos art. 28 e 29 da Lei 8.880/1994, o título executivo que embasa a execução originária admite a incidência do mencionado reajuste sobre as rubricas relativas ao reajuste de 28,86% e anuênios, uma vez que todas as vantagens foram expressamente reconhecidas pela Administração Pública aos Servidores Federais.
+6. Ocorre que, no caso dos autos, a Corte de origem, contudo, rechaça a pretensão ao fundamento de que a verba referente ao índice 3,17% não restou abrangida pelo título executivo, não sendo admissível, ademais, a alteração do pedido inicial em sede de execução.
+7. Nestes termos, inviável o acolhimento da tese recursal, uma vez que a alteração da premissa fixada pela Corte de origem demandaria, necessariamente, a revisão do acervo probatório dos autos, o que atrairia a incidência da Súmula 7/STJ.
+8. Resta, assim, prejudicada a análise do redimensionamento dos ônus sucumbenciais.
+9. Embargos de Declaração da Servidora acolhidos para, sanando o erro material apontado, negar provimento à pretensão de incidência do índice de 3,17% aos anuênios em sede de execução.
+10. Publique-se. Intimações necessárias.
