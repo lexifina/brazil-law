@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 204):
+SERVIDOR PÚBLICO. RECÁLCULO DOS VENCIMENTOS PELA CONVERSÃO EM URV (LEI Nº 8.880/94, ART. 22) COM O PAGAMENTO DAS PARCELAS VENCIDAS. Termo "ad quem" para pleitear eventual pagamento das diferenças remuneratórias decorrentes da conversão. Data da reestruturação da carreira. Tese fixada em sede de repercussão geral pelo RE n. 561.836/RN. Policial Civil. Carreira do autor reestruturada em 1996. Possíveis diferenças acumuladas anteriores à reestruturação atingidas pela prescrição quinquenal. Precedentes. Improcedência do pedido por fundamentação diversa da adotada pela sentença.
+RECURSO NÃO PROVIDO.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante sustenta a não ocorrência da prescrição em virtude da reestruturação da carreira, sob o argumento de que "ao contrário do que restou fixado pelos termos do V. Acórdão recorrido, somente encontram-se prescritas as parcelas vencidas ao quinquênio que antecedeu ao aforamento da lide e não o direito em que se funda a ação, no caso a errônea conversão dos vencimentos dos servidores em obediência à Lei Federal n. 8.880/94" (fl. 213).
+É o relatório.
+A irresignação não comporta acolhida.
+Com efeito, no que diz respeito à tese de não ocorrência da prescrição, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
