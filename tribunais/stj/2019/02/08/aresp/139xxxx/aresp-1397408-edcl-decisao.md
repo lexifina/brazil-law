@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MEIRE APARECIDA DE CARVALHO em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+"Portanto, todas as questões da decisão agravada foram apontadas e enfrentadas nas razões do Agravo de Despacho Denegatório de Recurso Especial e especificamente abordada a questão da PRESCRIÇÃO e a sua interpretação diversa de acórdãos precedentes, tanto deste E. Superior Tribunal de Justiça como do Tribunal de origem, o E. Tribunal de Justiça do Estado de São Paulo, este com decisões em ações envolvendo as mesmas partes e fatos e eventos contemporâneos.
+4.- Como se pode verificar, restou provado que todas as questões contidas na decisão agravada foram enfrentadas nas razões do presente agravo.
+ ..
+6.- Tendo a r. decisão referido de forma genérica sobre a majoração da verba honorária e o benefício da justiça gratuita, cabe ressaltar que:
+ ..
+7.- Portanto, Embargante é beneficiária de justiça gratuita e a par disso, os honorários advocatícios foram inicialmente fixados em 10% e após majorados para 20%, atingindo o limite legal.
+Nesse sentido e visando evitar discussões futuras, deve ser consignado que a Embargante é beneficiária de justiça gratuita e a par disso, que a sucumbência a ser mantida é aquela fixada em 2ª Instância deve ser determinado se a majoração é aquele do TJ de 10% para 20% ou de 10% para 15% como apontado pela r. sentença.
+8.- Igualmente, trata-se, pois, de questão que necessita ser dirimida." (fls. 576/578)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, em especial a questão do não cabimento de REsp alegando violação a norma constitucional e a incidência da Súmula 7/STJ. Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Ilustrativamente: AgRg no AREsp 226.300/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 13/12/2012.
+Ademais, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Outrossim, tampouco há obscuridade, contradição, omissão ou erro material na decisão embargada quanto aos honorários recursais. Isso porque o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem", devendo ser "observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça" (grifo nosso).
+Assim, como no presente caso a parte é beneficiária da gratuidade da justiça (fl. 108), serão observados os preceitos do art. 98, § 3º, do Código de Processo Civil.
+Do mesmo modo, o Tribunal de origem majorou os honorários arbitrados na sentença para 20% sobre o valor atualizado para a causa, razão pela qual também serão observados os limites percentuais previstos no art. 85, parágrafos 2º e 3º, do Código de Processo Civil.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
