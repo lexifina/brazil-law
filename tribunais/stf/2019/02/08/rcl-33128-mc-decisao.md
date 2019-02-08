@@ -1,0 +1,28 @@
+RECLAMAÇÃO. CONCESSÃO DE REAJUSTE SALARIAL COM BASE EM INTERPRETAÇÃO DAS LEIS 10.697/2003 E
+10.698/2003. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 37. LIMINAR DEFERIDA.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional ajuizada pela União, com fundamento no art. 102, I, “l”, da Constituição Federal, em face de decisão proferida pelo Tribunal Regional Federal da 1ª Região no processo nº 0034309-20.2012.4.01.3700, em que deu provimento à apelação dos autores para “assegurar o reajuste de vencimentos nos termos da Lei n. 10.698/2003, no percentual de 13,23%, sem prejuízo do reajuste concedido pela Lei n. 10.697/2003, observada a prescrição quinquenal das parcelas vencidas.”
+    2. Relata a reclamante que Carlos Magno de Resende e outros ajuizaram ação objetivando reajuste salarial no percentual de 13,23%, sob o argumento de que as Leis nºs 10.697/2003 e 10.698/2003, ao instituírem vantagem pecuniária individual aos servidores públicos federais, concederam revisão geral de remuneração, com índices diferenciados, o que violaria o inciso X do artigo 37 da Constituição Federal e o princípio da isonomia.
+    Argumenta que a decisão reclamada, ainda que indiretamente, se fundamenta no princípio da isonomia e no art. 37, X, da Constituição Federal para “convolar incremento absoluto de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos) em aumento de 13,23% retroativo a 2003, sem nenhuma autorização legal”. Aponta violação da Súmula Vinculante nº 37, que assim dispõe:
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.”
+    3. Busca a concessão de medida cautelar para que seja suspensa a eficácia da decisão reclamada, nos termos do art. 989,II, do CPC/2015. Quantos aos requisitos necessários para a medida, argumenta:
+    a) a plausibilidade do direito reside na jurisprudência consolidada no âmbito deste STF quanto à questão em discussão, bem como a própria Súmula Vinculante 37, que confirma a interpretação do direito a ser adotada;
+    b) o perigo da demora na prestação jurisdicional constata-se no comando jurisdicional que concede o reajuste, na medida em que coloca em risco o trâmite das leis orçamentárias, bem como o equilíbrio financeiro do erário, conforme nota técnica nº 3736/2016-MP.
+    No mérito, requer a procedência da reclamação.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista no artigo 102, I, e no artigo 130-A, § 3º, ambos da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de autoridade de decisão proferida por esta Corte com efeito vinculante.
+    2. A questão jurídica controversa na presente reclamação constitucional consiste na violação da autoridade da Súmula Vinculante 37 por decisão judicial em que concedida a incorporação do percentual de 13, 23% à remuneração de servidor público federal.
+    3. O Tribunal Regional Federal da 1ª Região deu provimento à apelação dos autores para reconhecer o direito ao reajuste no percentual de 13,23%, ao fundamento de que a Vantagem Pecuniária Individual, instituída pela Lei nº 10.698/2003 constituiu um aumento geral e não um abono em valor fixo.
+    4. Decisões desta Suprema Corte em reclamações recentemente ajuizadas, seja em caráter monocrático, seja em caráter colegiado, revelam interpretação jurídica majoritária de ofensa à Súmula Vinculante nº 37 pelo deferimento da integração do percentual de 13,23% ao salário do servidor público por traduzir aumento remuneratório implícito pelo Poder Judiciário com base na regra constitucional da isonomia salarial.
+    5. Nessa linha de argumentação, cito os seguintes precedentes judiciais: Rcl 26.307/SE, Rel. Min. Gilmar Mendes, DJe 08.8.2017; Rcl 25.942/SE, Rel. Min. Alexandre De Moraes, DJe 07.8.2017, Rcl. 24349 MC/DF, Rel. Luiz Fux, Dje 12.8.2016; Rcl 24966 MC/DF, Rel. Min. Dias Toffoli, Dje 8.9.2016; Rcl. 24984 MC/DF, Rel. Min. Dias Toffoli, Dje 31.8.2016; Rcl. 23801 MC/DF, Rel. Min. Edson Fachin, Dje 7.10.2016; Rcl. 23443/BA, Rel. Min. Luiz Fux, Dje 8.8.2016.
+    6. Por essas razões, nesse juízo de cognição sumária, baseada nas informações trazidas na inicial e no contexto decisório e institucional formado neste Supremo Tribunal Federal, entendo configurado o requisito da plausibilidade jurídica.
+    7. De outro lado, o requisito do perigo da demora está também delineado na natureza do provimento jurisdicional do ato reclamado, que consiste em determinação de pagamento do reajuste a servidor público federal, inclusive das parcelas vencidas, de modo a afetar imediatamente o orçamento da União.
+    Ademais, configura-se ainda o perigo da demora ante a jurisprudência deste Supremo Tribunal Federal, firme no sentido de negar a restituição dos valores percebidos de boa-fé, notadamente em se tratando de verba de natureza alimentar, como no caso.
+    8. Por todo o exposto, sem prejuízo da nova apreciação da matéria, quando do julgamento definitivo de mérito, oportunidade em que os argumentos serão amplamente debatidos, defiro a medida cautelar requerida para suspender os efeitos da decisão proferida no processo nº 0034309-20.2012.4.01.3700 em trâmite perante o Tribunal Regional Federal da 1ª Região.
+    Requisitem-se informações à autoridade reclamada, nos termos do artigo 989, inciso II, do CPC/2015.
+    Cite-se o beneficiário da decisão reclamada, conforme disposto no artigo 989, III, do CPC/2015, a fim de que apresente contestação, no prazo legal.
+    Publique-se. Intime-se.
+    Brasília, 8 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
