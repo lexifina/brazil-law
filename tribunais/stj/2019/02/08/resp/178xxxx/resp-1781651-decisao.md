@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado de São Paulo, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Narram os autos que [NOME] e outro ajuizaram a subjacente ação ordinária em face da parte ora recorrente, visando a concessão do direito de gozo de férias anuais relativo ao período do curso de formação de soldados, a qual foi julgada parcialmente procedente pelo Juízo de 1º Grau (fls. 78/80).
+O Tribunal de origem manteve incólume a sentença, nos termos do acórdão assim ementado (fl. 145):
+Apelação - Servidor Público Estadual - Militar - Curso de Formação de Soldado PM - Prescrição afastada - Não corre a prescrição do direito à férias enquanto o servidor estiver em atividade - Reconhecimento das férias referente ao período do curso para todos os fins legais - Admissibilidade - Incidência do art. 7º, XVII, da CF - Possibilidade - Evolução normativa que garantiu ao aluno soldado a averbação do tempo correspondente ao período de sua formação para todos os efeitos legais (Decreto-lei nº 260/70; Decretos nºs 25.438/86, 28.312/88 e 34.729/92) - Decretos que não ofendem as disposições da Lei Estadual nº 10.261/68, aplicável aos militares, diante do art. 33, da Lei nº 10.123/68 (Lei Orgânica da Polícia) - Indeferimento que traria enriquecimento ilícito à Administração e prestação de serviço gratuito - Precedentes do E. STJ, deste Egrégio Tribunal de Justiça e desta E. 11ª Câmara de Direito Público - Sentença de parcial procedência mantida - Recurso improvido.
+Sustenta o recorrente violação ao art. 1º do Decreto 20.910/1932, ao argumento de que teria ocorrido a prescrição do próprio fundo de direito, haja vista que (fl. 160):
+ ..  a prescrição se inicia com o encerramento do ano em que as férias poderiam ser usufruídas. Contudo, se o servidor é demitido no meio deste ano, como as férias não poderão mais ser utilizadas, a data da demissão é o termo inicial da prescrição.
+O vinculo funcional não funciona como causa de impedimento da prescrição ad aternum - o encerramento do vínculo que antecipa o termo inicial da prescrição.
+Por fim, requer o provimento do recurso especial, a fim de "julgar improcedente a ação em razão da prescrição do direito de contagem/concessão de férias" (fl. 161).
+Contrarrazões às fls. 164/169.
+Recurso admitido na origem (fls. 170/171).
+É o relatório. Passo a decidir.
+Entendeu o Tribunal de origem que "não corre a prescrição do direito às férias ou mesmo licença-prêmio enquanto o servidor estiver em atividade" (fl. 147).
+Nesse diapasão, inexistindo nos autos notícia de que o direito requerido pela parte recorrente tenha sido negado expressamente pela Administração, conclui-se que a Corte estadual deu à controvérsia solução que encontra-se em harmonia com a jurisprudência deste Superior Tribunal. Senão vejamos:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. COBRANÇA DE FÉRIAS VENCIDAS E NÃO GOZADAS. NÃO OCORRÊNCIA DA PRESCRIÇÃO. PRAZO PRESCRICIONAL QUE SE INICIA NO ATO DA APOSENTADORIA. INDENIZAÇÃO DEVIDA A SERVIDORES ATIVOS E INATIVOS. AGRAVO REGIMENTAL DO ESTADO DO RIO DE JANEIRO DESPROVIDO.
+1. O colendo Supremo Tribunal Federal já pacificou o entendimento de que tanto o Servidor aposentado quanto o ainda em atividade fazem jus à indenização por férias não gozada, uma vez que deixaram de usufruir, no período adequado, seu direito a férias por vontade da própria Administração.
+2. A própria Administração optou em privar o Servidor por período superior ao permitido na legislação estadual do gozo de suas férias anuais, comprometendo sua saúde e desvirtuando a finalidade do instituto. Assim, embora ainda se possa desfrutar do direito, não se pode negar que a saúde física, psíquica e mental do Servidor ficou afetada, sobretudo pela quantidade de períodos acumulados em prol da Administração, devendo, portanto, ser indenizado.
+3. Conforme orientação jurisprudencial desta Corte Superior, não tendo a Administração negado expressamente o direito pleiteado pelo Servidor, o termo inicial do prazo prescricional para pleitear férias não gozadas se inicia somente por ocasião da aposentadoria, mesmo que ele ainda se encontre em atividade.
+4. Agravo Regimental do ESTADO DO RIO DE JANEIRO desprovido.
+(AgRg no AREsp 509.554/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 26/10/2015)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
