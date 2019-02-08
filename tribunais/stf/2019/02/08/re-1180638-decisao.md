@@ -1,0 +1,14 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado de São Paulo contra acórdão que, confirmado em sede de juízo de retratação pelo E. Tribunal de Justiça local, está assim ementado:
+    “DESAPROPRIAÇÃO – Execução de sentença – Moratória constitucional – Prazo prescricional que se inicia com o depósito da última parcela – Credor que requereu se aguardasse a complementação dos depósitos – Autos arquivados sem intimação das partes – Credor que não se manteve inerte – Apuração de saldo devedor remanescente que somente se dá após o pagamento das parcelas da moratória constitucional – Preclusão inexistente – Desnecessidade de expedição de novo precatório – Dívida que não foi integralmente paga – Sentença de improcedência – Recurso improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição Federal.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a ADI 2.924/SP, Rel. Min. CARLOS VELLOSO, fixou entendimento que torna acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “CONSTITUCIONAL. PRECATÓRIO. CRÉDITO COMPLEMENTAR: NOVO PRECATÓRIO. Regimento Interno do Tribunal de Justiça do Estado de São Paulo, inciso V, do art. 336. CF, art. 100. Interpretação conforme sem redução do texto.
+    I. – Dispõe o inciso V do art. 336 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo que ‘para pagamentos complementares serão utilizados os mesmos precatórios satisfeitos parcialmente até o seu integral cumprimento’. Interpretação conforme, sem redução do texto, para o fim de ficar assentado que ‘pagamentos complementares’, referidos no citado preceito regimental, são somente aqueles decorrentes de erro material e inexatidão aritmética, contidos no precatório original, bem assim da substituição, por força de lei, do índice aplicado.
+    II. – ADI julgada procedente, em parte.”
+    Cumpre registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 722.803/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.113.298/SP, Rel. Min. ALEXANDRE DE MORAES – RE 1.065.086/SP, Rel. Min. LUIZ FUX, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    Publique-se.
+    Brasília, 08 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
