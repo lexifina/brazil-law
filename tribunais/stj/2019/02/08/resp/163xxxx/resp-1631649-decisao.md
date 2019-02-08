@@ -1,0 +1,84 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. CPC/73. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA. RESCISÃO. INDÍCIOS DE ESTELIONATO PRATICADO POR FUNCIONÁRIO DA RÉ APODERANDO-SE DA IMPORTÂNCIA PAGA PELO COMPRADOR. FATO DO SERVIÇO. ART. 14 DO CDC. INVERSÃO DO ÔNUS DA PROVA OPE LEGIS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRECEDENTE.
+RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por SALA - COMÉRCIO DE AUTOMÓVEIS LTDA. em face de acórdão do TJPR, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PEDIDOS JULGADOS PROCEDENTES. RECURSO DA RÉ. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA EM SEDE DE SENTENÇA. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. CONTRATO DE COMPRA E VENDA. RESCISÃO. INDÍCIOS DE ESTELIONATO PRATICADO POR FUNCIONÁRIO DA RÉ QUE SE APODERA DA IMPORTÂNCIA PAGA PELO COMPRADOR. RESPONSABILIDADE CIVIL DO EMPREGADOR POR ATO DE PREPOSTO (ART. 932, III, CC). VEROSSIMILHANÇA À VERSÃO DO AUTOR. DEVER DE RESTITUIÇÃO DO VALOR INVESTIDO. RECURSO DESPROVIDO.
+Nos termos da jurisprudência do STJ, o empregador responde objetivamente pelos atos ilícitos de seus empregados e prepostos praticados no exercício do trabalho que lhes competir, ou em razão dele (arts. 932, III, e 933 do Código Civil). (REsp 1365339/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/04/2013, DJe 16/04/2013)
+No recurso especial, interposto com fundamento na alínea c do permissivo constitucional, a recorrente apontou dissídio jurisprudencial com precedente desta Corte, aduzindo que a inversão do ônus da prova, determinada somente no momento da sentença, acarreta cerceamento de defesa, devendo ser anulado a decisão, a fim de se oportunizar a produção de provas.
+Contrarrazões ao recurso especial às fls. 689/699.
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+A questão aqui discutida passa, necessariamente, pela análise do voto que proferi quanto do julgamento do ERESP 422.778/SP, apontado como paradigma pela própria recorrente, nos seguintes termos:
+ A alegação central da empresa embargante diz com a divergência jurisprudencial desta Corte acerca da aplicação automática da regra de inversão do ônus da prova, prevista no art. 6º, inciso VIII, do CDC, seja quanto à falta de fundamentação da respectiva decisão, seja quanto ao momento processual adequado para tal.
+ Citou como paradigmas os acórdãos da Quarta Turma proferidos nos Recursos Especiais nº 662.608 e 881.651, relatoria do Min. Hélio Quaglia Barbosa, bem como no Recurso Especial n. 591.110, relatoria do Min. Aldir Passarinho Júnior.
+ No seu respeitável voto, o eminente relator mencionou precedente da minha relatoria, no REsp. n. 802.832-MG, em que se estabeleceu que a inversão do ônus da prova prevista no art. 6º, VIII, do CDC, não é regra de julgamento, mas de instrução, devendo ser deliberada pelo juiz em momento intermediário do processo, permitindo a produção de provas pela parte a quem se atribuiu a carga probatória.
+ A ementa desse acórdão foi a seguinte:
+RECURSO ESPECIAL. CONSUMIDOR. RESPONSABILIDADE POR VÍCIO NO PRODUTO (ART. 18 DO CDC). ÔNUS DA PROVA. INVERSÃO "OPE JUDICIS" (ART. 6º, VIII, DO CDC). MOMENTO DA INVERSÃO. PREFERENCIALMENTE NA FASE DE SANEAMENTO DO PROCESSO.
+ A inversão do ônus da prova pode decorrer da lei ("ope legis"), como na responsabilidade pelo fato do produto ou do serviço (arts. 12 e 14 do CDC), ou por determinação judicial ("ope judicis"), como no caso dos autos, versando acerca da responsabilidade por vício no produto (art. 18 do CDC).
+Inteligência das regras dos arts. 12, § 3º, II, e 14, § 3º, I, e. 6º, VIII, do CDC.
+ A distribuição do ônus da prova, além de constituir regra de julgamento dirigida ao juiz (aspecto objetivo), apresenta-se também como norma de conduta para as partes, pautando, conforme o ônus atribuído a cada uma delas, o seu comportamento processual (aspecto subjetivo). Doutrina.
+ Se o modo como distribuído o ônus da prova influi no comportamento processual das partes (aspecto subjetivo), não pode a a inversão "ope judicis" ocorrer quando do julgamento da causa pelo juiz (sentença) ou pelo tribunal (acórdão).
+Previsão nesse sentido do art. 262, §1º, do Projeto de Código de Processo Civil.
+ A inversão "ope judicis" do ônus probatório deve ocorrer preferencialmente na fase de saneamento do processo ou, pelo menos, assegurando-se à parte a quem não incumbia inicialmente o encargo, a reabertura de oportunidade para apresentação de provas.
+Divergência jurisprudencial entre a Terceira e a Quarta Turma desta Corte.
+RECURSO ESPECIAL DESPROVIDO.
+ Ocorre que o presente caso, porém, versa acerca de responsabilidade pelo fato do produto, prevista no art. 12 do CDC, abrangendo os danos causados aos consumidores por produtos defeituosos, tutelando-se a sua segurança física e patrimonial.
+ No precedente da minha relatoria, por exemplo, mencionado no voto do relator, tratava-se de caso de responsabilidade pelo vício do produto (art. 18 do CDC), protegendo-se o consumidor em relação à falta da qualidade legitimamente esperada de um produto adquirido no mercado de consumo.
+ A peculiaridade da responsabilidade pelo fato do produto, assim como ocorre na responsabilidade pelo fato do serviço (art. 14), é a previsão, no microssistema do CDC, de regra específica acerca da distribuição do ônus da prova da "inexistência de defeito".
+ O art. 12, § 3º, estabelece textualmente o seguinte:
+Art. 12. O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos.
+§ 1º O produto é defeituoso quando não oferece a segurança que dele legitimamente se espera, levando-se em consideração as circunstâncias relevantes, entre as quais:
+I - sua apresentação;
+II - o uso e os riscos que razoavelmente dele se esperam;
+III - a época em que foi colocado em circulação.
+§ 2º O produto não é considerado defeituoso pelo fato de outro de melhor qualidade ter sido colocado no mercado.
+§ 3º O fabricante, o construtor, o produtor ou importador só não será responsabilizado quando provar:
+I - que não colocou o produto no mercado;
+II - que, embora haja colocado o produto no mercado, o defeito inexiste;
+III - a culpa exclusiva do consumidor ou de terceiro.
+ A previsão legal é sutil, mas de extrema importância na prática processual.
+ O fornecedor, no caso o fabricante, na precisa dicção legal, "só não será responsabilizado quando provar .. que, embora haja colocado o produto no mercado, o defeito inexiste."
+ Ou seja, o ônus da prova da inexistência de defeito do produto ou do serviço é do fornecedor, no caso, do fabricante demandado.
+A inversão do ônus da prova, nessa hipótese específica, não decorre de um ato do juiz, nos termos do art. 6º, VIII, do CDC, mas derivou de decisão política do próprio legislador, estatuindo a regra acima aludida.
+ É a distinção entre a inversão do ônus da prova "ope legis" (ato do legislador) e a inversão "ope judicis" (ato do juiz).
+Em sede doutrinária, já tive oportunidade de analisar essa delicada questão processual (Responsabilidade Civil no Código do Consumidor e a Defesa do Fornecedor, 3ª edição. São Paulo: Saraiva, 2010, p. 355/357).
+ Em síntese, são duas modalidades distintas de inversão do ônus da prova previstas pelo Código de Defesa do Consumidor (CDC), podendo ela decorrer da lei (ope legis) ou de determinação judicial (ope judicis).
+ Na primeira hipótese, a própria lei - atenta às peculiaridades de determinada relação jurídica - excepciona a regra geral de distribuição do ônus da prova.
+ Isso ocorreu nas duas hipóteses previstas pelos enunciados normativos dos arts. 12, §3º, II, e 14, §3º, I, do CDC, atribuindo ao fornecedor o ônus de comprovar, na responsabilidade civil por acidentes de consumo (fato do produto - art. 12 - ou fato do serviço - art. 14), a inexistência do defeito, encargo que, segundo a regra geral do art. 333, I, do CPC, seria do consumidor demandante.
+ Nessas duas hipóteses de acidentes de consumo, mostra-se impertinente a indagação acerca dessa questão processual de se estabelecer qual o momento adequado para a inversão do ônus da prova.
+ Na realidade, a inversão já foi feita pelo próprio legislador ("ope legis") e, naturalmente, as partes, antes mesmo da formação da relação jurídico-processual, já devem conhecer o ônus probatório que lhe foi atribuído por lei.
+ A segunda hipótese prevista pelo CDC, relativa à inversão do ônus da prova "ope judicis", mostra-se mais tormentosa, pois a inversão resulta da avaliação casuística do magistrado, que a poderá determinar uma vez verificados os requisitos legalmente previstos, como a "verossimilhança" e a "hipossuficiência" a que refere o enunciado normativo do art. 6º, VIII, do CDC.
+ Nestes casos, de que era exemplo marcante a situação retratada no REsp. n. 802.832-MG, envolvendo responsabilidade por vício no produto (art. 18 do CDC), é que surge a questão de se estabelecer qual o momento processual mais adequado para que o juiz, verificando a presença dos pressupostos legais, determine a inversão da distribuição do ônus probatório mediante decisão fundamentada.
+ Nesse ponto, no julgamento do REsp. n. 802.832-MG, nesta Segunda Seção, consoante a ementa acima transcrita, já manifestei minha concordância com a posição do eminente relator no sentido de que a inversão ope judicis do ônus da prova deve ocorrer preferencialmente no despacho saneador mediante decisão fundamentada de molde a assegurar plenamente o contraditório e a ampla defesa.
+ O presente caso, porém, é um típico acidente de consumo em que o consumidor demandante, ao abrir uma garrafa de refrigerante, teve a infelicidade de a tampa ser arremessada em direção ao seu rosto pela pressão interna da garrafa, causando graves lesões em seu olho direito.
+ Esse fato amolda-se perfeitamente à regra do art. 12 do CDC, que contempla da responsabilidade pelo fato do produto.
+ Consequentemente, a regra de inversão do ônus da prova da inexistência de defeito do produto é a do art. 12, § 3º, iniciso II, do CDC, e não a do art. 6º, VIII, do CDC, atribuído pelo próprio legislador ao fabricante, não havendo necessidade de qualquer ato decisório prévio do juiz.
+ Normalmente, a prova do defeito, como fato constitutivo do direito do demandante, deveria ser produzida pelo consumidor lesado, como autor da ação indenizatória.
+ Essa modificação na distribuição dos encargos probatórios pela própria lei, denominada de inversão ope legis do ônus da prova, tem um motivo claro.
+ Historicamente, a proteção efetiva ao consumidor sempre foi dificultada pela necessidade de ele comprovar os fatos constitutivos de seu direito. A vulnerabilidade do consumidor, no mercado massificado das relações de consumo em geral, constitui um enorme obstáculo a que ele obtenha os elementos de prova necessários à demonstração de seu direito. Isso é particularmente mais grave quando se sabe que essa prova é, via de regra, eminentemente técnica, sendo o fornecedor um especialista na sua área de atuação. Por isso, tendo o fabricante as melhores condições técnicas de demonstrar a inexistência de defeito no produto colocado no mercado, foi procedida a essa inversão pelo próprio legislador, sendo-lhe atribuído esse encargo.
+ Portanto, tratando-se de caso de inversão do ônus probatório por força de lei (ope legis), não há necessidade de o juiz reabrir a instrução, podendo a regra ser aplicada diretamente pelo juiz ou pelo próprio tribunal, como ocorreu no caso em julgamento.
+ Enfim, essa distinção é relevante, pois está-se a tratar, no presente caso, de uma situação de inversão do ônus da prova "ope legis", como se fosse "ope judicis".
+A corroborar tal entendimento, cito precedente da Quarta Turma, de relatoria do Min. Luiz Felipe Salomão:
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. JUNTADA DE DOCUMENTOS EM GRAU DE APELAÇÃO. EXCEPCIONALIDADE. DOCUMENTOS INDISPENSÁVEIS À PROPOSITURA DA AÇÃO OU FUNDAMENTAIS/SUBSTANCIAIS À DEFESA. NÃO CABIMENTO. INTERPRETAÇÃO DOS ARTS. 283, 396 E 397 DO CPC. DOCUMENTO APÓCRIFO. FORÇA PROBANTE LIMITADA. ART. 368 DO CPC. AÇÃO DE RESPONSABILIDADE POR FATO DO SERVIÇO E DO PRODUTO. SERVIÇO DE BLOQUEIO E MONITORAMENTO DE VEÍCULO AUTOMOTOR. ROUBO. ACIONAMENTO DO SISTEMA DE BLOQUEIO. MONITORAMENTO VIA SATÉLITE. ALCANCE DO SERVIÇO CONTRATADO. CLÁUSULA CONTRATUAL. AMBIGUIDADE. INTERPRETAÇÃO FAVORÁVEL AO ADERENTE/CONSUMIDOR. ART. 423 DO CÓDIGO CIVIL E ARTS.
+6º, INCISO III, E 54, § 4º, DO CDC. CLÁUSULAS CONTRATUAIS QUE DEVEM SER [NOME] INTÉRPRETE. CONSUMIDOR.
+HIPOSSUFICIÊCIA INFORMACIONAL.
+1. Os documentos indispensáveis à propositura da ação (CPC, art.
+283) ou os fundamentais/substanciais à defesa devem ser apresentados juntamente com a petição inicial ou contestação (CPC, art. 396), não se admitindo, nesse caso, a juntada tardia com a interposição de recurso de apelação, não sendo o caso também de documento novo ou destinado a fazer prova de fatos ocorridos depois dos articulados (CPC, art. 397).
+2. Indispensáveis à propositura da ação ou fundamentais/essenciais à defesa são os documentos que dizem respeito às condições da ação ou a pressupostos processuais, bem como os que se vinculam diretamente ao próprio objeto da demanda, como é o caso do contrato para as ações que visam discutir exatamente a existência ou extensão da relação jurídica estabelecida entre as partes.
+3. No caso, foi carreada ao recurso de apelação cópia de "contrato padrão" que supostamente comprovaria haver limitação a impedir o sucesso do pleito deduzido pelo consumidor. Trata-se de prova central do objeto da ação, da causa de pedir - documento substancial ou fundamental, nos dizeres de [NOME] -, que devia ser levada aos autos no momento da defesa apresentada pelo réu, nos termos do art. 396 do CPC. Prova essa que cabia ordinariamente ao requerido, uma vez que se está diante da chamada inversão ope legis do ônus da prova em benefício do consumidor. Em se tratando de demanda de responsabilidade por fato do serviço, amparada no art. 14 do Código de Defesa do Consumidor, a jurisprudência reconhece a inversão do ônus da prova independentemente de decisão do magistrado - não se aplicando, assim, o art. 6º, inciso VIII, do CDC (REsp 802.832/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 21/09/2011; REsp 1.095.271/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 05/03/2013).
+(..)
+9. Recurso especial provido.
+(REsp 1262132/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/11/2014, DJe 03/02/2015)
+Em que pese a atecnia da sentença e do acórdão recorrido ao tratar do tema, o caso dos autos é, nitidamente, uma hipótese de responsabilidade civil por fato do serviço, aplicando-se o disposto no art. 14 do CDC, respondendo o fernecedor, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços. Por tal razão, a inversão do ônus da prova ocorre por força de lei, não havendo necessidade de o juiz reabrir a instrução, como ocorreu no caso dos autos.
+Cabia à recorrente, portanto, nos termos do art. 14, §3º, provar que: I - tendo prestado o serviço, o defeito inexiste; II - a culpa exclusiva do consumidor ou de terceiro.
+Da sentença, extrai-se que:
+ A requerida confirma que de fato houve a noticiada pretensão do requerente em adquirir veiculo na referida concessionária, porém contesta que a alegação autoral de que, como parte do referido pagamento, teria sido colocado no negócio o veículo que era de propriedade do autor.
+ Porém, a negativa apresentada pelo réu não se sustenta. (fls. 440/441)
+Portanto, ainda que não fosse possível a inversão, o ônus da prova, no presente caso, estava regido pela regra geral do art. 333, II, do CPC/73, estatuindo que compete ao réu a prova de fato impeditivo, modificativo ou extintivo do direito do autor.
+Por todas as razões já expostas, não vislumbro o cerceamento de defesa alegado, tampouco a necessidade de anulação da sentença, porquanto era ônus da recorrente, desde o ajuizamento da ação, comprovar os fatos alegados em contestação.
+Ante o exposto, nego provimento ao recurso especial.
+Advirto as partes da multa prevista ao agravo interno manifestamente improcedente (art. 1.021, § 4º, do NCPC).
+Intimem-se.
