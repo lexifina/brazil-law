@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO CONFIGURAÇÃO. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL DE LEI ESTADUAL. SÚMULA N. 280/STF. DEPÓSITO JUDICIAL. TEMPESTIVIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Fleury S.A., fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação rescisória. Artigo 485, V do CPC. Ausência dos requisitos legais pertinentes. Ação manifestamente inadmissível. Falta, ademais, do depósito prévio previsto no artigo 488, II do CPC. Petição inicial indeferida. Processo extinto. Agravo regimental não provido.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega violação dos seguintes dispositivos: a) art. 535, II, do CPC/73, aduzindo que o acórdão a quo restou omisso a despeito da oposição de declaratórios; b) art. 485, V, do CPC/73, sustentando que há violação literal à Lei Estadual n. 12.294/06 apta a ensejar a rescisória; c) art. 488, II, do CPC/73, alegando que houve tempestivo depósito judicial.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade pela ausência de violação ao art. 535 do CPC/73, bem como pela incidência da Súmula n. 7/STJ.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, no que diz respeito à violação do art. 535, II, do CPC/73, a recorrente sustenta que a Corte de Origem deixou de analisar a dissonância entre o Decreto Estadual n. 51.305/06 e a Lei Estadual n. 12.294/06.
+Entretanto, depreende-se da leitura do decisium que a omissão apontada não se sustenta. Eis que o Tribunal não deixou de se manifestar sobre o ponto, apenas decidiu contrariamente ao interesse da parte, o que não é capaz de configurar violação do art. 535 do CPC.
+Cito excerto do acórdão recorrido (e-STJ fl. 364):
+A incidência do ICMS pressupõe, assim, a existência prévia de lei estadual posterior à LC n. 114 publicada em 20.12.02; a Lei Estadual n. 11001 foi publicada em 21.12.01, depois da EC 33/2001, publicada em 12.11.01, mas antes da LC 114/02. Mas nada foi dito sobre as obrigações acessórias e sobre o descabimento da exigência de inscrição estadual e de emissão de nota fiscal para o transporte da mercadoria entre o recinto alfandegário e o estabelecimento do importador; ao contrário, como reconheceu o ora agravante, há previsão legal para a exigência (Decreto Estadual n. 51.305/06 c.c. Lei Estadual n. 12.294/06 c.c. artigo 22 do RICMS).
+Não houve, pois, violação de literal disposição de lei. Ademais, "Ainda é válida a enunciação do CPC ant., no art. 800, caput: "A injustiça da sentença e a má apreciação da prova ou errônea interpretação do contrato não autorizam o exercício da ação rescisória". "É incabível ação rescisória por violação de lei se, para apurar a pretensa violação, for indispensável reexaminar matéria probatória debatida nos autos" (STJ, 1ª Seção, AR 3.731-AgRg, Min. Teori Zavascki, 23.05.07, ref. CPC Anotado, T. Negrão e outros, 43ª Ed. Saraiva, nota 19 ao art. 485). Aqui, nem se sabe se a requerente, autodeclarada importadora frequente de insumos para sua atividade (p. 62, item 21), manteve inalterado seu objetivo social nem em que termos alterou o pedido e a causa de pedir, já que uma das folhas da petição pertinente não foi juntada (p. 78, 215, 218/219, 221/224, 234).
+No mérito, melhor sorte não assiste a parte.
+No que diz respeito à existência de violação literal de lei a embasar a ação rescisória, o acolhimento da tese enseja análise da dissonância entre o Decreto e a Lei Estadual, o que esbarra no óbice da Súmula n. 280/STF, in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+No mesmo sentido:
+PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO. ALEGADA CONTRARIEDADE AO ART. 6º DA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL. ANÁLISE VEDADA EM SEDE DE RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ERRO DE FATO. SÚMULA 7 DO STJ. PRECEDENTES DO STJ.
+1. Não cabe a esta Corte Superior analisar princípios (direito adquirido, ato jurídico perfeito e coisa julgada) contidos na referida lei, hoje denominada Lei de Introdução às Normas do Direito Brasileiro, por estarem revestidos de carga eminentemente constitucional.
+2. A apreciação da existência de erro de fato demanda reexame do contexto fático-probatório do processo, procedimento vedado ante o disposto na Súmula n. 7 do STJ. Precedentes.
+3. Não é cabível o exame, em sede de recurso especial, de suposta infringência ao artigo 485, inciso V, do Código de Processo Civil, quando se aponta violação a literal disposição de lei local, em razão do óbice da Súmula 280/STF. Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 224.095/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/05/2013, DJe 24/05/2013)
+Por fim, com relação ao depósito judicial previsto no art. 488, II, do CPC/73, a parte sustenta que o mesmo foi realizado em 11 de agosto de 2014, anteriormente ao despacho saneador e à monocrática proferida.
+No ponto, a Instância a quo se manifestou no seguinte sentido (e-STJ fl. 365):
+Por fim como já ficou expresso acima, a requerente deixou de fazer oportunamente o depósito a que se refere o artigo 488, II do CPC, do qual não é isenta, uma vez que não se beneficia do § único do mesmo artigo nem da MP 2.180-35 de 24.08.01 por não ser autarquia federal e porque o aludido depósito não tem natureza de custas processuais nem tem finalidade recursal, mas tem natureza de multa, sucumbencial. Fez tal depósito a destempo, valendo-se de valor dado à causa sem correspondência mínima com o proveito econômico almejado no mandado de segurança indicado.
+Destarte, haja vista o trecho acima transcrito, torna-se irrefragável a conclusão de que a pretensão recursal demanda revolvimento do conjunto fático e probatório constantes dos autos a fim de reconhecer a tempestividade do depósito, o que é inviável a teor da Súmula n. 7/STJ.
+Nesse, o seguinte precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPVA. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE QUE O DEPÓSITO JUDICIAL SUSPENDE A EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE COMPROVAÇÃO DO DEPÓSITO AFIRMADA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE AFERIÇÃO NESTA CORTE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. No tocante à violação ao art. 535 do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. No mérito, a Corte local afirmou, expressamente, que o comprovante acostado aos autos não demostra com clareza, ser depósito referente à execução fiscal objeto deste litígio; desse modo, entendimento diverso, conforme requer a parte agravante, implicaria em reexame de provas, o que atrai o óbice da Súmula 7/STJ, segundo a qual a pretensão de simples reexame de provas não enseja Recurso Especial.
+3. Agravo Regimental de HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO a que se nega provimento.
+(AgRg no AREsp 752.909/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 27/04/2017)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
