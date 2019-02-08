@@ -1,0 +1,46 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO EM RECURSO ESPECIAL. ICMS. CREDITAMENTO. PAGAMENTO A MENOR. APLICAÇÃO DO REGIME DO ARTIGO 150, § 4º, DO CTN. DECADÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa assim estabelece, verbis:
+APELAÇÕES CÍVEIS. ICMS. OPERAÇÕES INTERESTADUAIS. CRÉDITO PRESUMIDO CONCEDIDO PELA UNIDADE FEDERATIVA DE ORIGEM EQUIVALENTE A 8% DA ALIQUOTA INTERESTADUAL DE 12%.
+1. DECADÊNCIA Se houve auto de lançamento do ICMS, não há falar em lançamento por homologação; logo, para fins de decadência, não incide art. 150, § 4º, mas o art. 173, I, ambos do CTN, portanto, o prazo decadencial inicia no 12 dia do exercício seguinte. Orientação do STJ pelo sistema de repercussão geral (REsp 973733-SC). Caso em que, desde o 12 dia do exercício seguinte até o auto de lançamento não decorreram mais de cinco anos.
+2. CREDITAMENTO DE CRÉDITO PRESUMIDO Não havendo Convênio, celebrado na forma da LC 24/75, entre os Estados de origem e de destino, descabe creditar-se neste do ICMS de crédito presumido concedido por aquele. Precedentes.
+3. MULTA DE 120% Confiscar significa ato pelo qual se adjudica em favor do Fisco bens pertencentes a outrem, para o Poder Público pagar-se de impostos e multas. Portanto, aproxima-se dos 100%, aproximação essa que tanto pode ser por baixo quanto por cima (aquém ou além). Por isso, tem-se admitido multa de até 120%.
+4. DISPOSITIVO Por maioria, apelação da embargante desprovida e provida a do Estado.
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a e c, do permissivo constitucional o recorrente alega a violação aos artigos 150, § 4º, e 156, V, do CTN, ao sustentar em síntese, a decadência do crédito tributário. Argumenta ademais sobre esta questão, divergência jurisprudencial.
+O recorrente pugna ainda pela concessão de efeitos suspensivos ao acórdão proferido na origem, sob respaldo do artigo 1.029, § 5º, do CPC/2015.
+Contrarrazões ao recurso especial às fls. 490/500 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do apelo especial.
+No agravo, o recorrente rechaçou as razões de inadmissibilidade do recurso especial.
+Contraminuta ao agravo em recurso especial às fls. 546/549 (e-STJ).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mérito, o recorrente alega a decadência do crédito tributário, ao argumentar o transcurso do prazo decadencial ocorrido no período de 01.01.2006 à 31.12.2006, pois o prazo para o lançamento pela Fazenda, no caso do ICMS - tributo sujeito ao lançamento por homologação - é de cinco anos a contar do fato gerador. e, no caso, o lançamento apenas se deu em 01.09.2011. Aduz que o art. 173, I, do CTN somente pode ser aplicado no caso de ausência total de pagamento, o que não ocorreu, pois a própria Fazenda considerou como creditado o percentual correspondente à diferença do incentivo fiscal concedido pelo Estado de Santa Catarina, isto é, de 4%.
+O Tribunal de origem ao analisar a controvérsia em questão afastou a decadência ao assim se manifestar em sentença, e posteriormente no acórdão, in verbis, respectivamente:
+Na verdade, o prazo decadencial previsto no art. 150, §4º do CTN, é efetivamente aplicável aos impostos sujeitos ao lançamento por homologação, desde que informado e pago o tributo.
+(..)
+Em suma, em operações interestaduais, em que o Estado de origem - no caso Santa Catarina - concedeu 8% de crédito presumido de ICMS do total de 12% da alíquota interestadual, quer dizer, houve pagamento efetivo de apenas 4%, a apelante se creditou da alíquota total face ao Estado do RS.
+Deveras, impende consignar que a obrigação tributária não declarada pelo contribuinte no tempo e modo determinados pela legislação de regência está sujeita ao procedimento de constituição do crédito pelo fisco, por meio do lançamento substitutivo, o qual deve se dar no prazo decadencial previsto no art. 173, I, do CTN, quando não houver pagamento antecipado sem a constatação de dolo, fraude ou simulação do contribuinte, ou no art. 150, § 4º, do CTN, quando ocorrer o recolhimento, ainda que em valor menor do que aquele que a Administração entende devido, pois, nesse último caso, a atividade exercida pelo contribuinte, de apurar, informar e pagar o crédito tributário, está sujeita à verificação pelo ente público, sem a qual ela é tacitamente homologada.
+Na hipótese dos autos, como consignado acima, o Tribunal de origem assentou que houve pagamento (ainda que a menor) passível de homologação pelo fisco e que não ficou evidenciada má-fé por parte da contribuinte, motivo pelo qual aplicou o art. 150, § 4º, do CTN.
+Portanto, consoante estas balizas fáticas e considerando a jurisprudência desta Corte, o lançamento de ofício de ICMS pago a menor em decorrência de creditamento indevido está sujeito ao prazo estipulado no art. 150, § 4º, do CTN, razão pela qual reconheço a decadência da obrigação tributária no período apontado.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM
+RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ICMS. DÉBITO TRIBUTÁRIO. PAGAMENTO A MENOR. CREDITAMENTO INDEVIDO. PRAZO DECADENCIAL. APLICAÇÃO DO ART. 150, §4º, DO CÓDIGO TRIBUTÁRIO NACIONAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, em casos de pagamento a menor de débito tributário em decorrência de creditamento indevido, o prazo decadencial é contado na forma do disposto no art. 150, §4º, do CTN.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no REsp 1577327/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/08/2016, DJe 16/08/2016)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTO SUJEITO A LANÇAMENTO
+POR HOMOLOGAÇÃO. PRAZO DECADENCIAL. PAGAMENTO A MENOR.
+APLICAÇÃO DO ART. 150, § 4º, DO CTN. EXEGESE DO ENTENDIMENTO
+FIRMADO NO RESP PARADIGMA 973.733/SC. SÚMULA 83/STJ.
+1. A Primeira Seção, no julgamento do REsp 973.733/SC, Rel. Min. Luiz Fux, submetido ao rito dos recursos repetitivos (art. 543-C do CPC), firmou entendimento no sentido de que, nos tributos sujeitos a lançamento por homologação, para a fixação do prazo decadencial para a constituição do crédito tributário, considera-se apenas a existência, ou não, de pagamento antecipado, pois é esse o ato que está sujeito à homologação pela Fazenda Pública, nos termos do art. 150, e parágrafos, do CTN. Súmula 83/STJ.
+2. "Não importa, para efeitos da contagem da decadência, perquirir as circunstâncias apresentadas pelo contribuinte para justificar o pagamento a menor. A dedução aqui considerada (creditamento indevido) nada mais é do que um crédito utilizado pelo contribuinte decorrente da escrituração do tributo apurado em determinado período (princípio da não cumulatividade), que veio a ser recusada (glosada) pela administração", de modo que "houve pagamento a menor de débito tributário em decorrência de creditamento indevido. Dessa forma, deve-se observar o disposto no art. 150, § 4º, do CTN" (AgRg nos EREsp 1.199.262/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/10/2011, DJe 7/11/2011.). Agravo regimental improvido.
+(AgRg no REsp 1448906/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/12/2015, DJe 05/02/2016)
+Não obstante a presença do fumus boni iuris, não vislumbro o periculum in mora asseverado pelo recorrente, porquanto não há prova que de fato houve a constrição patrimonial do executado, razão pela qual não prospera a concessão de efeitos suspensivos ao apelo especial.
+Em face da procedência deste apelo especial, inverto os ônus sucumbenciais fixados na origem, e, ademais, observando-se que o recurso especial fora interposto em face de acórdão publicado já no âmbito de vigência do CPC/2015, acresço os honorários em 10% sobre o valor fixado na origem a título de verba sucumbencial recursal, consoante dispõe o artigo 85, §§ 3º, 4º, III, e 11, c/c Enunciado Administrativo 7/STJ.
+Ante o exposto, com fundamento no artigo 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intimem-se.
