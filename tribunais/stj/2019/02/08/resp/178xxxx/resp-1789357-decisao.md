@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, COM NUMERAÇÃO SUPRIMIDA.
+Recurso defensivo. Absolvição. Impossibilidade. Autoria e materialidade bem delineadas. Preservação do incremento operado na 1ª etapa. Pena privativa mantida. Redução da pecuniária, proporcionalmente. Inteligência do CP, art. 68. Inaplicabilidade das benesses do CP, art. 44. Regime intermediário preservado. Detração penal que descabe nesta oportunidade, pois, a teor do que dispõe a LEP, art. 112, depende de requisito subjetivo (bom comportamento carcerário), inaferível em âmbito de apelação criminal. Além disso, por ser matéria de competência do Juízo da Execução, sua análise, neste Tribunal, fatalmente, suprimiria a instância e ofenderia o duplo grau de jurisdição, sem contar que não se encontra preso por esses autos. Parcial provimento." (e-STJ, fl. 204).
+O recorrente alega negativa de vigência do art. 44, § 3º, do Código Penal. Sustenta que a pena privativa de liberdade deve ser substituída pela restritiva de direitos ao argumento de que a reincidência não é específica e a medida é socialmente recomendável.
+Contrarrazões apresentadas (e-STJ, fls. 262-276) e admitido o recurso, os autos subiram a esta Corte.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 291-296).
+É o relatório.
+Decido.
+Para permitir a análise dos critérios utilizados na dosimetria da pena, faz-se necessário expor excertos do acórdão ora impugnado:
+"A privativa partiu com implícito acréscimo de 1/3 - 4 anos de reclusão - calcada nos maus antecedentes e na reincidência (englobada nesta etapa), comprovados pela certidão de fls. 109 e informação ora anexada (Execução nº 2, referente ao Proc. nº 0045862-24.2012.8.26.0050), o que se preserva, porque proporcional às circunstâncias. A pecuniária não acompanhou a carcerária - foi fixada em 20 dias-multa -, reduzida, doravante, a 13 dias-multa, de acordo com o CP, art. 68.
+Ainda, na intermediária, operou-se diminuição na subentendida fração de 1/8, pela atenuante da confissão, perfazendo-se, definitivamente, 3 anos, 6 meses de reclusão e 11 dias-multa, à míngua de variáveis.
+Reincidente, inaplicáveis as substituições previstas no CP, art. 44, que não seriam socialmente recomendáveis. No que tange ao regime, já contemplado com o semiaberto, a teor do disposto na Súmula/STJ, nº 269, mais nada pode pretender." (e-STJ, fls. 206, grifei)
+Nos termos do art. 44 do Código Penal, a substituição da pena privativa de liberdade por restritiva de direitos, no caso de crime doloso, exige que a pena aplicada não seja superior a 4 anos e que o delito não tenha sido cometido mediante violência ou grave ameaça à pessoa. Ademais, o agente deve possuir circunstâncias judiciais favoráveis e não pode ser reincidente em crime doloso, podendo este último requisito ser relevado se a reincidência não for específica e a medida seja socialmente recomendável. No caso, ante a constatação da reincidência, bem como pelos motivos que ensejaram a valoração desfavorável das circunstâncias judiciais, inviável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do artigo 44, inciso II, do Código Penal, conquanto não seja reincidente específico.
+Outrossim, alterar o entendimento do Tribunal de origem a respeito da possibilidade de substituição da pena do réu quando ele for reincidente, demanda revolvimento de matéria fático-probatória, procedimento inviável nesta instância, ante a incidência da Súm. 7/STJ.
+Nesse sentido:
+ ..
+1. A alteração do entendimento das instâncias de origem acerca da possibilidade de substituição da pena do réu reincidente em crime doloso demanda revolvimento de matéria fático probatória, procedimento inviável na instância especial, ante a incidência da Súmula 7/STJ.
+2. Não há ilegalidade na vedação da substituição da pena privativa de liberdade em caso de réu reincidente em crime doloso, se a medida não for socialmente recomendável, conforme jurisprudência reiterada desta Corte Superior.
+3. Agravo improvido. (AgRg no AREsp n. 1.133.532/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA., DJe 4/12/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
