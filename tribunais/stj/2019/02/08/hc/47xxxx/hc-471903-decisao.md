@@ -1,0 +1,35 @@
+EMENTA
+HABEAS CORPUS. PORTE DE ARMA DE USO PERMITIDO. FRAGILIDADE DO ACERVO PROBATÓRIO. REEXAME DO MATERIAL COGNITIVO. IMPOSSIBILIDADE NA VIA ELEITA. SILÊNCIO DO RÉU. CONDENAÇÃO LASTREADA EM OUTROS ELEMENTOS DE PROVA. ÔNUS DA PROVA. ILEGALIDADE. NÃO OCORRÊNCIA.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0002237-37.2012.8.26.0294).
+Narram os autos que o Juízo de Direito da 25ª Vara do Foro Central Criminal Barra Funda da comarca da Capital/SP condenou o paciente pela prática do delito tipificado no art. 14, caput, da Lei n. 10.826/2003 à pena de 2 anos de reclusão, em regime inicial aberto, e pagamento de 10 dias-multa, substituída a pena carcerária por duas penas restritivas de direito (fls. 16/22).
+Interposta apelação pela defesa, o Tribunal a quo negou-lhe provimento (fls. 36/48).
+Opostos embargos de declaração, foram eles rejeitados (fls. 49/52).
+Na sequência, inadmitido o recurso especial na origem, houve a interposição do agravo em recurso especial (AREsp n. 1.239.091/SP), não conhecido por esta Corte, decisão confirmada em agravo regimental.
+Daí a presente impetração, na qual o impetrante infirma a condenação, arguindo a nulidade do acórdão impugnado, uma vez que infringiu o art. 187 do Código de Processo Penal, ao utilizar o silêncio do réu no interrogatório em seu desfavor, bem como o art. 156 do Código de Processo Penal, ao desconsiderar importante pressuposto subjacente à regra de distribuição do ônus da prova, qual seja a possibilidade de produzi-la (fls. 4/5).
+Destaca que o aspecto de maior relevo,  contudo,  sempre com a vênia devida,  foi deixar de lado valoração de prova absolutamente incontroversa, extraída que foi dos depoimentos policiais dos milicianos:  todos ocupantes do veículo,  exceto o paciente,  contaram pretender realizar roubos naquela oportunidade; plausível, portanto, concluir que o paciente não fazia parte dessa combinação e por isso aquele que portava a arma dela se desfez, jogando-a no colo do único que não sabia dos reais desígnios do grupo (fl. 7).
+Afirma, por fim, que o paciente, não cometeu o crime (responsável era quem trazia consigo o revólver e dele espertamente se desfez ao perceber ação policial que imediatamente aconteceria), então sua condenação, no fraco sentir do impetrante, não se deu legalmente, à medida que dele se exigiu prova que já não tinha como produzir,  tanto tempo depois do fato e que se deixou de considerar circunstância inegalmente apta a lhe validar a explicação oferecida em Juízo, de resto já posta de lado por haver preferido silenciar quando autuado em flagrante (fl. 8).
+Requer, assim, a anulação do acórdão recorrido e, por conseguinte, o reconhecimento da prescrição retroativa da ação penal.
+Não houve pedido de liminar.
+Dispensadas as informações, o Ministério Público Federal, em parecer exarado pela Subprocuradora-Geral da República [NOME], manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 77/81).
+É o relatório.
+Em síntese, busca o impetrante infirmar o arcabouço probatório que fundamentou a sentença, corroborada pelo Tribunal a quo. Contudo, esta não é a via adequada para se alcançar tal desiderato. Com efeito, como cediço, no âmbito do habeas corpus, é inadmissível o reexame aprofundado dos elementos fático-probatórios da ação penal com o intuito de desconstituir o que foi decidido nas instâncias ordinárias.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ART. 333 DO CÓDIGO PENAL. OFENSA AOS PRINCÍPIOS DO JUIZ NATURAL E DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE FRAGILIDADE PROBATÓRIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. MANEJO DO WRIT PARA REEXAMINAR OS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS ESPECIAL E EXTRAORDINÁRIO INTERPOSTOS NA ORIGEM. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+ ..
+3. Na hipótese vertente, os elementos extraídos da narrativa constante do acórdão demonstram a presença de suporte mínimo à acusação formulada, e "infirmar a conclusão da instância ordinária, que entendeu pela existência de suporte probatório mínimo de autoria e materialidade, é revolvimento probatório, vedado na via do habeas corpus" (RHC n. 74.318/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/8/2016, DJe 1º/9/2016).
+ ..
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 311.084/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/12/2018)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. ROUBO MAJORADO. CONCURSO DE AGENTES. EMPREGO DE ARMA DE FOGO. PRISÃO PREVENTIVA. NEGATIVA DE AUTORIA. REEXAME DE PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CIRCUNSTÂNCIAS DO DELITO. GRAVIDADE CONCRETA. CUSTÓDIA FUNDAMENTADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA E INADEQUAÇÃO. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR DO ART. 318, INCISO V, DO CÓDIGO DE PROCESSO PENAL. FILHA MENOR DE 12 (DOZE) ANOS. HABEAS CORPUS COLETIVO N. 143.641/SP DO SUPREMO TRIBUNAL FEDERAL. DELITO PRATICADO COM VIOLÊNCIA OU GRAVE AMEAÇA. REQUISITOS NÃO PREENCHIDOS. NÃO CABIMENTO. WRIT NÃO CONHECIDO.
+ ..
+2. A tese de fragilidade das provas quanto à autoria e à imputação criminosa é questão que não pode ser dirimida na via sumária do habeas corpus, por demandar o reexame aprofundado das provas coletadas no curso da instrução criminal, devendo ser solucionada na sede própria.
+ ..
+9. Habeas corpus não conhecido.
+(HC n. 454.160/SC, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2018)
+Urge acrescentar que, segundo o entendimento desta Corte, estando o édito condenatório amparado em outros elementos probatórios produzidos sobre o crivo do contraditório judicial e efetivamente aptos a caracterização da autoria e materialidade delitivas, a menção isolada, embora equivocada, ao silêncio do réu na fase inquisitorial, de per si, não possui o condão de macular o processo, afastando-se a pretensão anulatória (HC n. 419.677/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 15/2/2018).
+De outro lado, irrepreensível o entendimento do Tribunal a quo no sentido de que é ônus da defesa comprovar a alegação que fez no sentido de que a arma era de outrem e que foi jogada em sua direção por um os ocupantes do veículo, ônus que lhe cabia, consoante estabelece o art. 156 do Código de Processo Penal (fl. 45).
+Com efeito, compete à defesa comprovar os fatos impeditivos, modificativos ou extintivos da pretensão acusatória, nos termos do artigo 156 do Código de Processo Penal (AgRg no AREsp n. 1.169.413/SP, Ministro Felix Fischer, Quinta Turma, DJe 20/6/2018).
+Ante o exposto, denego a ordem.
+Publique-se.
