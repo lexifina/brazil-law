@@ -1,0 +1,4 @@
+DECISÃO
+Os requerentes MARTORELLI E GOUVEIA ADVOGADOS e SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL apresentaram petição de fls. 1744/1766, na qual informaram que nos autos Ação Ordinária nº. 0003486-78.1997.4.05.8000 (a qual deu origem à Ação de Execução 0804452-07.2017.4.05.8000, em que fora proferida a decisão objeto do presente recurso), deferindo o pleito de destacamento dos honorários contratuais no importe de 3% (três por cento) sobre o crédito percebido por cada filiado do Sindifisco Nacional, caracterizando, assim, a perda superveniente do objeto do presente recurso.
+Ante o exposto, observa-se o esvaziamento do objeto do presente agravo em recurso especial conforme as informações acima transcritas, homologo a desistência do recurso para que produza seus efeitos legais, declarando a extinção do procedimento recursal, nos termos dos arts. 998 do Código de Processo Civil de 2015, e 34, IX, do RISTJ.
+Publique-se. Intimem-se.
