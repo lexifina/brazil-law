@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/15. AÇÃO DE INDENIZAÇÃO. ACIDENTE FERROVIÁRIO. ABALROAMENTO DE VEÍCULO EM PASSAGEM DE NÍVEL. CULPA CONCORRENTE. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. NECESSIDADE DO CUMPRIMENTO DE MEDIDAS DE SEGURANÇA NOS SERVIÇOS FERROVIÁRIOS.
+RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por RUMO MALHA PAULISTA S.A em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+APELAÇÃO. Responsabilidade civil. Ação de indenização por danos materiais decorrentes de acidente de trânsito envolvendo veículo e trem em passagem de nível, julgada improcedente, ao fundamento de culpa exclusiva do condutor do automóvel.
+- Recurso da autora (proprietária do veículo) imputando à administradora da ferrovia a responsabilidade pelo acidente, consistente na ausência de sinalização luminosa e sonora quando da passagem do trem. Cabimento. Prova testemunhai. Mitigação da desconsideração do depoimento da testemunha da autora, porquanto apresentou informações que corroboraram os fatos descritos na petição inicial. Prova documental: a) Fotografias do local que comprovam a existência de sinalização de solo, mas não de cancela; e b) Boletim de Ocorrência. Documento elaborado por agente público que compareceu ao sítio do acidente e constatou a ausência de cancela e defeito nos equipamentos de segurança (inoperância de um dos sinaleiros e o outro com a luz verde acionada para os veículos, conforme croqui contido no bojo do B.O.). Prova documental que goza de presunção /uris tantum de veracidade e não foi infirmada pela ré. Responsabilidades objetiva (art. 37, § 6o, da CF) e subjetiva (art. 186 do CC) da concessionária devidamente configuradas (defeito nos equipamentos de segurança) e não da Administração Pública. Inteligência dos arts. Io, § 4o, 12 e 13 do Decreto nº 1.832/96.
+- Culpa concorrente evidenciada. Motorista do automóvel que não agiu com as cautelas previstas na legislação de _ trânsito antes de adentrar em cruzamento com passagem de nível. Incidência dos arts. 29, XII e 44, ambos do CTB." Conduta imprudente da vítima, fixado o percentual de sua responsabilidade em 50% do valor da indenização. - Dano material. Adoção do valor do menor orçamento. Impugnação genérica, porquanto não impugnada a idoneidade dos documentos. Montante compatível com os danos causados ao automóvel. Sentença reformada.
+RECURSO PARCIALMENTE PROVIDO, com sucumbência recíproca.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) arts. 186 e 927 do CC e 29, 44, 45 e 212 do CTB, alegando que (i) "ficou constatado que a atitude da vítima ao cruzar a linha férrea sem tomar os cuidados necessários, configurou motivo determinante para a ocorrência do acidente", (ii) as provas constantes dos autos demonstraram que a empresa adotou todas as medidas de segurança que lhe eram cabíveis, (iii) o condutor da composição agiu de maneira cautelosa, de acordo com normas internas de segurança; e (b) art. 10 do Decreto-lei 1.832/96, sustentando que a responsabilidade pela segurança e sinalização das passagens de nível é do município.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Como se sabe, o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+No caso, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que o abalroamento aconteceu por desídia de ambas as partes: (a) ausência de prova acerca do adequado funcionamento da sinalização da passagem de nível e (b) falta de cautela do condutor do veículo.
+Le-sê no acórdão recorrido:
+ Portanto, do conjunto probatório coligido, a concessionária-ré não logrou êxito em demonstrar o perfeito funcionamento dos equipamentos de segurança instalados na passagem de nível onde ocorreu o acidente.
+ Restou, pois, bem demonstrada a responsabilidade objetiva da concessionária-ré pelos danos experimentados pelo autor, à luz do disposto no art. 37, § 6o, da Constituição Federal, bem assim a subjetiva, por culpa in omiitento e in vigilando, na forma do art. 186 do Código Civil, ao não providenciar a instalação de uma cancela e o adequado funcionamento dos sinais luminosos e sonoros existentes no local.
+ A par da responsabilização da concessionária, a dinâmica do acidente revela a falta de cautela do motorista que conduzia o veículo pertencente à autora-apelante.
+(..)
+ Ora, ainda que os equipamentos de segurança não tivessem sido acionados ou apresentassem defeito, a legislação de trânsito impõe a todo condutor que intenciona transpor cruzamento, a necessária cautela antes de executar a manobra.
+ A propósito, se o condutor do veículo da autora tivesse adotado o padrão de direção defensiva, agindo.com a devida prudência e atenção especialmente em passagem de nível de linha férrea, bem provável que o acidente não ocorreria.
+ Assim, configurada a culpa concorrente do motorista que dirigia o automóvel pertencente à autora no evento, impõe-se a aplicação da regra contida no art. 945 do Código Civil:
+Com efeito, a pretensão recursal não está a exigir do Superior Tribunal de Justiça a emissão de um juízo acerca da correta aplicação dos arts. 186 e 927 do CC e 29, 44, 45 e 212 do CTB.
+Isso porque, quando as conclusões da Corte de origem resultam da análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como ilidir tal posicionamento, a teor do enunciado da Súmula 7/STJ.
+Pelos mesmos motivos, o recurso especial interposto pela alínea c do permissivo constitucional não pode ser conhecido no ponto.
+Por fim, com relação à apontada violação ao art. 10 do Decreto-lei 1.832/96, a 2ª Seção do STJ já firmou entendimento, em sede de recurso repetitivo, acerca da "existência do dever legal da Administração Ferroviária de vedação física das faixas de domínio da ferrovia, mediante muros e cercas, bem como da sinalização e da fiscalização dessas medidas garantidoras da segurança da circulação da população, mormente em locais de adensamento populacional, sendo certo que o seu descumprimento gera a obrigação de indenizar" (REsp 1210064/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 31/08/2012).
+Diante do exposto, nego provimento ao recurso especial.
+Honorários advocatícios recursais inaplicáveis à espécie, em razão da compensação determinada pelo acórdão recorrido, permitido à época (Súmula 306/STJ).
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Intime-se.
