@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO PENAL. ART. 33, CAPUT DA LEI Nº 11.343/2006. ALEGAÇÃO DE AUSÊNCIA DE MATERIALIDADE DO DELITO DE TRÁFICO DE ENTORPECENTES, ANTE A NÃO JUNTADA DO LAUDO TOXICOLÓGICO DEFINITIVO. ALMEJADA ABSOLVIÇÃO. IMPOSSIBILIDADE. ANULAÇÃO, DE OFÍCIO, DA SENTENÇA, NO TOCANTE À CONDENAÇÃO PELO CRIME DE TRÁFICO DE ENTORPECENTES, PARA PROLAÇÃO DE NOVA DECISÃO, APÓS CONFECÇÃO E JUNTADA DO RESPECTIVO LAUDO TOXICOLÓGICO DEFINITIVO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA ANULADA DE OFÍCIO.
+1. Verifica que o Juiz sentenciante afirmou restar a materialidade do delito de tráfico de entorpecentes comprovada pelo auto de apresentação e apreensão e pelo laudo de constatação. Ocorre que tal laudo não se presta a embasar a condenação pelo delito acima descrito, para a qual é exigida a confecção do laudo definitivo, que irá esclarecer e confirmar a toxicidade da droga, através de inúmeros exames técnicos laboratoriais aptos a comprovar a presença da substância que gera a dependência física ou psíquica do indivíduo, bem como seus efeitos farmacológicos. Vale ressaltar que antedita ausência documental não poderá ser suprida por nenhuma outra prova constante dos autos, seja ela a própria confissão do acusado, os depoimentos testemunhais ou o auto de apresentação e apreensão.
+2. Deste modo, apesar de o pleito absolutório não merecer acolhimento, a sentença condenatória exarada pelo Juiz de 1º grau, apenas no tocante à condenação pelo crime de tráfico de entorpecentes, por outro lado, não pode mais subsistir, por afrontar, sobremaneira, os princípios do contraditório, da ampla defesa e do devido processo legal, devendo ser anulada de ofício, já que se trata de questão de ordem pública, a fim de que outra decisão seja proferida, após a regular confecção e juntada do respectivo laudo toxicológico definitivo.
+3. Recurso conhecido e improvido, mas anulada, de oficio, a sentença penal condenatória, nos termos do voto da Desa. Relatora.
+Nas razões recursais, alega o Parquet violação dos arts. 563, 564, III, d, c/c 572, II, todos do CPP, ao argumento de que a ausência de intimação para manifestação acerca do Laudo Toxicológico Definitivo, acostado às fls. 324/325 é despicienda quando esta apenas confirma o Laudo de Constatação anexo às fls. 30/31 (fl. 484).
+Ressalta que o primeiro Laudo possui o mesmo grau de certeza do segundo, não havendo qualquer prejuízo para a defesa, pois esta se defende dos fatos, não existindo motivos para nova manifestação se, do Laudo novo não existe nenhuma matéria que importe em inovar na acusação feita pelo Parquet, ainda mais quando o objetivo da perícia foi alcançado, no caso, a demonstração de que a substância apreendida se tratava dos entorpecentes conhecidos como "cocaína" e "maconha" (fl. 487).
+Pugna pelo provimento do recurso para restabelecer a sentença condenatória.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+Como se vê, o acórdão recorrido assentou-se em fundamentos infraconstitucional e constitucional, mormente a inobservância do devido processo legal, contraditório e da ampla defesa.
+Há, portanto, questão constitucional autônoma a autorizar a interposição de recurso extraordinário.
+O recorrente, todavia, não interpôs o indispensável apelo extraordinário, atraindo a incidência da Súmula 126 do STJ, segundo a qual: É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 387, IV, DO CPP. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126/STJ).
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1554557/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2015, DJe 25/11/2015).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
