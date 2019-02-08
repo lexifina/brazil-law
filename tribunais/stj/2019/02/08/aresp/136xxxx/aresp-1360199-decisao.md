@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto pelo Estado do Ceará, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Ceará, que não admitiu recurso especial com base nos seguintes fundamentos: (I) incidência do óbice da Súmula 211/STJ; e (II) no tocante à alínea c do permissivo constitucional, o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, dizer que "o art. 105, inciso III da Constituição Federal não estabelece o requisito do pré-questionamento para a interposição do Recurso Especial, referido dispositivo exige que a matéria federal tenha sido decidida pelo tribunal, e que o tema conste no acórdão recorrido, o que enseja a propositura do recurso cabível." (fl. 230), não tem o condão de infirmar o óbice da Súmula 211/STJ.
+Ademais, apesar de afirmar, genéricamente, que "O cotejo analítico foi pontuado na medida em que o Ente Federativo relacionou os julgados trazidos ao caso em debate. Salvo melhor juízo e segundo os léxicos, cotejar é expressão que trata de "relacionar"." (fl. 231), a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
