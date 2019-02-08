@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra r. decisão que não admitiu o seu recurso especial, por sua vez manejado em face de v. acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO, assim ementado (fls. 251-252):
+"APELAÇÕES CÍVEIS. DIREITO DE VIZINHANÇA. PLEITOS CONSISTENTES NA OBRIGAÇÃO DE REPARAÇÃO DOS DANOS CAUSADOS POR INFILTRAÇÕES NO IMÓVEL DA AUTORA E NA CONDENAÇÃO DA DEMANDADA A NÃO IMPEDIR O ACESSO DA DEMANDANTE À CORRESPONDÊCIA E AOS BANHEIROS COLETIVOS, ALÉM DE INDENIZAÇÃO A TÍTULO DE DANO MORAL. 1) LAUDO PERICIAL INCISIVO NO SENTIDO DE QUE AS INFILTRAÇÕES EXISTENTES NO TETO DO IMÓVEL DA AUTORA SÃO PROVENIENTES DO BUZINOTE LOCALIZADO NA UNIDADE RESIDENCIAL SITUADA NO PISO SUPERIOR, PERTENCENTE À DEMANDADA. MANUTENÇÃO DA SENTENÇA NA PARTE QUE CONDENOU A DEMANDADA A PROCEDER OS REPAROS NECESSÁRIOS COM O FIM DE SANAR O PROBLEMA. 2) ALEGAÇÃO DE QUE A DEMANDADA ESTARIA IMPEDINDO O ACESSO DA AUTORA ÀS CORRESPONDÊNCIAS QUE NÃO FOI COMPROVADA. 3) PROVA TESTEMUNHAL QUE, ENTRETANTO, DEIXOU CLARO QUE O ACESSO A ALGUNS BANHEIROS NÃO É FRANQUEADO A TODOS OS MORADORES. REFORMA DA SENTENÇA NO PERTINENTE A ESTA QUESTÃO, PORQUANTO TODOS OS MORADORES POSSUEM O DIREITO DE ACESSAR AS ÁREAS COMUNS DO PRÉDIO, DAS QUAIS FAZEM PARTE OS BANHEIROS, POR SEREM DE USO COLETIVO. ARTIGO 5º, INCISO II, DA CF. 4) DANO MORAL CARACTERIZADO. VALOR DE R$ 5.000,00 QUE REMUNERA DE FORMA JUSTA OS PREJUÍZOS IMATERIAIS SOFRIDOS PELA AUTORA. PRIMEIRO RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO. SEGUNDO RECURSO AO QUAL SE NEGA PROVIMENTO."
+Opostos embargos de declaração, foram desprovidos (fls. 280-282).
+Nas razões do recurso especial (art. 105, III, alínea "a", da CF), apontou a parte recorrente ofensa ao disposto no art. 944 do Código Civil e art. 375 do CPC/15.
+Foram apresentadas contrarrazões ao recurso especial, conforme fls. 307-310.
+O Tribunal de origem negou seguimento ao recurso especial (fls. 313-315).
+Contra aludida decisão, o recorrente interpõe o agravo (fls. 320-330).
+Consta contraminuta de agravo às fls. 334-336.
+É o relatório.
+DECIDO.
+2. Compulsando os autos, observa-se que a parte agravante sustentou em seu recurso especial, violação ao disposto no art. 944 do Código Civil e art. 375 do Código de Processo Civil de 2015, uma vez que: (i) foi impedida pela parte ré de ter acesso a suas correspondências, com violação ao art. 375 do CPC/15, pois a afirmação se confirma como uma decorrência da experiência comum; (ii) quando da fixação do valor de indenização por danos morais, as instâncias ordinárias deixaram de observar o previsto no art. 944 do Código Civil, acerca da proporcionalidade do valor com a extensão do dano experimentado pela parte.
+3. Nesse aspecto, a alegação genérica de violação à lei federal, sem indicar em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional.
+Com efeito, não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
