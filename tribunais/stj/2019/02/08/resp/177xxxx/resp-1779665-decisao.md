@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 614):
+APELAÇÃO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO.CONCURSO PÚBLICO. TESTE PSICOLÓGICO. LEGALIDADE. INAPTIDÃO DECLARADA. PARTICIPAÇÃO NO CFO/BM POR FORÇA DE LIMINAR EM MANDADO DE SEGURANÇA. DECISÃO REFORMADA. PERMANÊNCIA NOS QUADROS DA CORPORAÇÃO EM CONTRARIEDADE À DECISÃO JUDICIAL QUE INADMITIU A CONTINUAÇÃO NO CERTAME. IMPOSSIBILIDADE. IMPROCEDÊNCIA DO PEDIDO. DESPROVIMENTO.
+- Havendo previsão dos critérios de realização do exame psicológico no edital, bem como na legislação especifica, aplicável indistintamente a todos os candidatos, não se podendo admitir que um dos concorrentes se submeta a novo teste psicológico, sob pena de violação à isonomia.
+- Não se discute a subjetividade do teste psicológico aplicado em concurso, cujo resultado quanto à inadmissão de concorrente na carreira foi mantida por decisão judicial transitada em julgado, não sendo possivel sobrepor o resultado da perícia judicial ao laudo oficial.
+- A permanência na Corporação após decisão por acórdão do Tribunal que reconheceu a ausência de direito liquido e certo do autor prosseguir no certame, não autoriza a incorporação ao seu patrimônio jurídico, dos direitos concedidos aos demais candidatos, pois sua participação à época nas demais fases do concurso deu-se em caráter precário.
+- Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 635/641).
+Sustenta a parte recorrente, além de dissídio jurisprudencial, violação aos seguintes dispositivos legais:
+a) art. 489, II e III, do CPC/2015, ao argumento de que o Tribunal de origem "não se pronunciou sobre a ilegalidade da lei que regia o edital ao tempo do concurso, mesmo apresentando as irregularidades que ela continha e sua consequente revogação" (fl. 654). E prossegue (fl. 654):
+Não somente isso, mas as decisões feriram a Lei 5.301/69, uma vez que a lei do edital já está banida do ordenamento jurídico, além de negar vigência ao artigo 369 do CPC, pois, o Recorrente demonstrou através da perícia que o exame realizado pelo CBMMG estava incorreto, o que reflete na lesão dos artigos 373 e 375 do CPC.
+Desta forma o posicionamento dos ilustres julgadores não abrangeu todos os pontos ressaltados nos embargos de declaração, e mesmos estes pontos obscuros sendo objeto de questionamento, não houve posicionamento sobre eles.
+Ao deixar de se pronunciar sobre os artigos mencionados e aceitar as ilegalidades demonstradas na aplicação do exame do Recorrente, a Eg. Câmara deixa margem para que estes questionamentos sejam levados ao conhecimento das Instâncias Superiores, a fim de garantir um julgamento justo que reconheça a omissão e lesão às leis federais demonstradas.
+b) art. 1.022, I e II, do CPC/2015, uma vez que, malgrado a oposição de embargos declaratórios, deixou o Tribunal de origem de sanar as omissões e o erro apontados no acórdão embargado.
+Por fim, requer o provimento do recurso especial "para ANULAR o acórdão dos embargos de declaração ou REFORMAR de plano o acórdão da apelação e em consequência a sentença, dando provimento aos pedidos" (fl. 667).
+Contrarrazões às fls. 719/732.
+Recurso admitido na origem (fls. 748/750).
+É o relatório. Passo a decidir.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+Confira-se o seguinte trecho do voto condutor do acórdão embargado (fls. 616/617):
+Presentes os pressupostos de admissibilidade, conheço do recurso, porque próprio, tempestivo, dispensado do preparo recursal, regularmente processado.
+Sustenta o apelante, em suma, o equívoco de sua exclusão do certame por inaptidão no exame psicológico, pretendendo ser incorporado no seu patrimônio jurídico o direito de permanecer na Corporação, com os mesmos direitos dos demais concursados que, à época, foram convocados para participar do CFO, sem discriminação.
+Cediço que a avaliação psicológica realizada em concursos da Polícia Militar de Minas Gerais está regulamentada na Lei nº 5.301/69:
+ ..
+A exigência de aptidão psicológica para ingressar no Curso de Formação de Oficiais, com parecer favorável do profissional habilitado na comissão examinadora, é um requisito legal, de forma que o teste realizado pela banca examinadora é ato tipicamente administrativo.
+Nesse caso, deve o Poder Judiciário se limitar à verificação da observância do Edital e da legislação especifica que rege a espécie.
+Dessarte, não é possível substituir a Administração no que diz respeito às conclusões relativas à capacidade dos candidatos para o exercício do cargo, ainda que baseado em laudo particular ou judicial.
+Na hipótese em apreço, o apelante concorreu ao CFO/BM/2001 e foi contraindicado no exame psicológico. Todavia, ingressou em juízo com ação específica e concluiu o CFO/BM/2001 por força de liminar deferida nos autos do mandado de segurança de nº 0024.01.017568-5, a qual foi confirmada por sentença concessiva da segurança, mas que, posteriormente, foi cassada pela decisão proferia no acórdão da Ap. Civel de f. 57/62, que não reconheceu o direito liquido e certo do autor.
+Portanto; a participação do apelante no CFO/BM/2001 se deu em caráter precatório, diante da "provisoriedade" de sua matrícula;- tendo permanecido dentro do CBMMG apenas por força de decisão judicial que, como visto, foi posterior posteriormente cassada por este Egrégio Tribunal.
+Embora tenha concluído o curso de formação e exercido todos esses anos as funções de Oficial; tal exercício não lhe garante o direito de obter diferenças salariais.
+Ressalte-se que não foi permitida ao apelante a conclusão dó curso com à formatura (f.30), e, mesmo requerida a antecipação de tutela para que dela participasse, a liminar foi indeferida por ser imprescindível a demonstração da ilegalidade do exame psicológico.
+A circunstância de o apelante ter sido considerado apto pela pericia judicial produzida anos depois, com exigências diversas, não serve como prova de sua aptidão psicológica à época de sua eliminação. Nesse sentido, decidiu este Egrégio TJMG:
+ ..
+Por sua vez, "na forma da jurisprudência desta Corte, "o exame de suposta omissão do Tribunal de origem a respeito de dispositivos de lei local demandaria a realização de juízo de valor acerca da essencialidade da questão para o deslinde da controvérsia, o que obrigatoriamente passaria pelo exame daquela legislação. Incidência da Súmula 280/STF" (STJ, EDcl nos EDcl no AgRg no REsp 1.237.906/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 03/10/2011)" (AgRg no AREsp 528.829/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 18/09/2015).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
