@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO. TENTATIVA. EXECUÇÃO PROVISÓRIA DA PENA. EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. POSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IGOR PERMINO DA SILVA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro proferido na Apelação Criminal n.º 0230203-31.2015.8.19.0001.
+Consta dos autos que o Paciente - denunciado como incurso no art. 157, § 2.º, inciso II, c.c. o art. 14, inciso II, ambos do Código Penal, por ter, juntamente com um Adolescente, iniciado atos de subtração de uma bicicleta, mediante violência - foi absolvido em primeira instância, sob a motivação de que não havia prova suficiente para a condenação (fls. 20-23).
+Irresignada, a Acusação interpôs recurso de apelação, que foi provido para condenar o Paciente como incurso no art. 157, § 2.º, inciso II, na forma do art. 14, inciso II, ambos do Código Penal, à pena privativa de liberdade de 2 (dois) anos e 8 (oito) meses de reclusão, em regime aberto, e ao pagamento de 6 (seis) dias-multa. Determinou-se a expedição de mandado prisional, após o exaurimento das instâncias ordinárias (fls. 24-39).
+No presente writ, a Defesa alega que o Paciente sofre constrangimento ilegal resultante da antecipação de execução de pena, pois significa o afastamento da presunção de inocência antes do trânsito em julgado. Argumenta que a prisão é unicamente consequência do julgado e não de fato novo do Paciente que se possa considerar subversivo à ordem processual. Aduz que não se trata de confirmação da condenação, mas de modificação da sentença absolutória.
+Requer, em liminar e no mérito, seja assegurado ao Apenado o direito de recorrer em liberdade.
+O pedido liminar foi indeferido (fls. 50-52).
+Prestadas as informações (fls. 57-62), o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], opinou pelo não conhecimento do habeas corpus ou, se conhecido, pela denegação da ordem (fls. 66-69).
+É o relatório.
+Decido.
+O Supremo Tribunal Federal, ao apreciar o ARE n.º 964.246 RG/SP, julgado sob o regime da repercussão geral, reafirmou a jurisprudência dominante sobre a matéria no sentido de que " ..  a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE 964.246 RG, Relator Ministro TEORI ZAVASCKI, DJe de 25/11/2016).
+Não é outro o entendimento do Superior Tribunal de Justiça, conforme se extrai do seguinte julgado:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO DA DIREÇÃO DE VEÍCULO AUTOMOTOR. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. CABIMENTO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mostra-se devida a imposição do regime inicial mais gravoso, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal quando verificado que o agravante teve a pena-base estabelecida acima do mínimo legal.
+2. Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal).
+3. Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+4. Agravo regimental não provido." (AgRg no AREsp 1.058.790/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2018, DJe 09/08/2018; sem grifos no original.)
+Como se vê, o decisum de segunda instância, que determinou a expedição de mandado de prisão tão logo exauridos os recursos cabíveis na instância ordinária, está em conformidade com a jurisprudência dominante.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
