@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WILLIAN ROBERTO SOARES BARBOZA, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2009830-92.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Nesta via, o impetrante afirma que a manutenção da custódia cautelar não apresentou fundamentação idônea, tendo em vista a ausência dos requisitos necessários, previstos no art. 312 do Código de Processo Penal.
+Salienta que "Por óbvio que a justificativa de que o mesmo estaria "escondido", não pode ser vista com bons olhos pelo Poder Judiciário, inclusive esta douta defesa comunga do mesmo entendimento, porém, o mesmo ficou apavorado ao saber que poderia ser preso e recolhido diante de outro mandado de prisão que supostamente existiria por outro processo, que posteriormente se resolveu" (e-STJ fl. 5).
+Alega, ainda, a presença dos pressupostos para o deferimento das medidas cautelares alternativas à prisão.
+Requer, desse modo, a concessão sumária e definitiva da ordem constitucional para que seja revogada a segregatória preventiva do paciente.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fl. 229):
+ ..
+A despeito dos argumentos expendidos na impetração, as circunstâncias de fato e de direito não autorizam a concessão da liminar, pois não se vislumbram o fumus boni juris e o periculum in mora ensejadores da medida.
+O juízo cognitivo desta fase possui âmbito restrito, razão pela qual a concessão da liminar deve motivar-se na flagrante ilegalidade do ato ou no abuso de poder da autoridade, justificando, assim, a suspensão imediata de seus efeitos. E não se verifica, no caso em análise, a presença dos requisitos necessários, devendo-se aguardar o julgamento do habeas corpus pela Turma Julgadora.
+Além do mais, há notícia de envolvimento do paciente em várias lides criminais.
+Por conseguinte, INDEFIRO o pedido liminar.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
