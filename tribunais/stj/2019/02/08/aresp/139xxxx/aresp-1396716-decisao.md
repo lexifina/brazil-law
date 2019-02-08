@@ -1,0 +1,57 @@
+DECISÃO
+ Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRESCRIÇÃO - CONDIÇÃO SUSPENSIVA - NÃO CONFIGURADA - RECURSO IMPROVIDO.
+1. Não existindo nenhum elemento que possa validar a existência da condição suspensiva prevista no inc. I, art. 199, do Código Civil, inexiste óbice na aplicação do art. 206, § 5º, inc. II, do mesmo diploma legal, o qual é expresso em estabelecer o termo inicial da prescrição da pretensão dos profissionais a partir da conclusão de cada serviço prestado.
+2. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 328-338, e-STJ).
+Nas razões de recurso especial, alega o ora agravante divergência jurisprudencial e violação dos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil; 121, 189, 199, I, e 206, § 5º, II, do Código Civil, sustentando nulidade por negativa de prestação jurisdicional e insuficiência de fundamentação.
+Defende, em síntese, o afastamento da prescrição da pretensão de cobrança de valores referentes à prestação de serviços técnicos especializados na sua área de atuação para a empresa ora agravada.
+Sem contrarrazões.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 356-366, e-STJ, sob os seguintes fundamentos, assim sumariados: a) o acórdão recorrido dirimiu a lide de modo integral e fundamentado; b) o acórdão recorrido decidiu a lide de acordo com a jurisprudência desta Corte (incidência da Súmula 83/STJ) e; c) a divergência jurisprudencial não atendeu aos requisitos regimentais e legais.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+No tocante às alegações de ofensa aos artigos 489 e 1.022 do Código de Processo Civil, verifico que não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Com efeito, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Desse modo, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos dos acórdãos cujas ementas transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+A Corte estadual com base na análise dos elementos de prova confirmou a sentença que acolheu a prescrição e extinguiu o processo, pelos seguintes fundamentos:
+Conforme anteriormente relatado, cuidam os autos de APELAÇÃO CÍVEL interposta por [NOME], em virtude do inconformismo com os termos da r. sentença de fls. 236/242 que, nos autos da Ação de Cobrança ajuizada por ele em face de USIMAN SERVIÇOS MANUTENÇÃO E INDÚSTRIA E COMÉRCIO LTDA., declarou a ocorrência de prescrição, julgando extinto o processo, com resolução do mérito, na forma do art. 269, IV, do CPC/73.
+Irresignado, o apelante apresentou suas razões recursais às fls. 253/259, alegando que, por força do inc. I, art. 199, do Código Civil, não houve a fluência do prazo prescricional, uma vez que existia condição suspensiva sobre o negócio firmado entre as partes.
+Para melhor situar os Eminentes Pares, esclareço que, com base no que foi narrado na petição inicial, o autor, ora recorrente, ajuizou a presente ação de cobrança aduzindo que prestou serviços técnicos especializados em sua área de atuação para a empresa requerida, ora recorrida.
+Segundo alegou, ficou ajustado que receberia como contraprestação 6% (seis por cento) do total dos resultados oriundos dos serviços prestados pela recorrida à ARCELORMITTAL BRASIL S/A, cuja execução tivesse a participação do recorrente.
+Por fim, disse que após a rescisão do contrato, a empresa apelada deixou de promover o pagamento de valores devidos pelos serviços prestados no montante de R$ 140.810,00 (cento e quarenta mil, oitocentos e dez reais).
+Após o regular trâmite do feito, proferiu-se, como visto, a r. sentença recorrida, oportunidade em que foi acolhida a prejudicial de mérito forma do art. 269, IV, do CPC/73.
+Em sua fundamentação, o Magistrado a quo entendeu que o recorrente, na qualidade de profissional liberal, prestou seus últimos serviços à recorrida até o final do ano de 2008 e somente ajuizou a presente demanda com o desiderato de pleitear supostas remunerações não pagas no ano de 2014, após o prazo qüinqüenal estabelecido no art. 206, §5º do Código de Processo Civil.
+Pois bem. Feitas tais considerações, percebe-se que a controvérsia existente nos autos cinge-se em averiguar se transcorreu ou não o prazo prescricional para a pretensão do recorrente em buscar possíveis valores não pagos pela recorrida por força de serviços prestados.
+Inicialmente, saliento que não existe controvérsia em relação ao fato de que ocorreu no ano de 2008 a conclusão dos serviços prestados pela apelada à empresa ARCELORMITTAL BRASIL S/A. Inclusive, isto foi expressamente aceito pelo recorrente em sua peça de réplica, mais precisamente à fl. 173.
+O recorrente, contudo, firma suas alegações recursais na suposta existência de uma cláusula suspensiva, a qual estabelece que o pagamento de sua comissão estava subordinado ao recebimento, pela recorrida, dos valores pagos pela empresa tomadora dos serviços executados com sua participação.
+Ocorre que, em detido estudo dos autos, pude constatar que não existe nenhum elemento que possa validar a existência de tal condição suspensiva existente entre as partes.
+Primeiramente, tem-se que o autor, conforme afirmação constante em sua própria peça inicial, celebrou com a parte apelada um "contrato verbal, que perdurou por vários anos, (..)" (fl. 3). Não obstante a possibilidade do ajuste ser firmado de tal modo, o certo é que o contrato verbal dificulta o exame do implemento da referida condição suspensiva.
+Ainda com base nas afirmações na petição inicial, extrai-se que, se verdadeira a afirmativa de que o pagamento feito pela empresa requerida ao autor se vinculava ao que aquela percebia da empresa tomadora do serviço, isso não mais ocorreu, como o próprio autor mencionou, "após a rescisão do contrato entre as partes", momento em que o alegado pagamento efetuado ao recorrente passou a ser feito de acordo com o fluxo de caixa da empresa recorrida.
+Para demonstrar, cito o seguinte trecho da petição inicial:
+"(..) Conforme avençado, o Requerente vinha sendo remunerado no percentual correspondente conforme os pagamentos dos serviços eram efetuados pela Vale à empresa Requerida.
+Importa salientar que não havia dia específico no mês para que a Requerida efetuasse os pagamentos ao Requerente, trazendo assim problemas na vida social do mesmo, por haver contas a pagar e estas serem pontuais na cobrança, todavia, o Requerente sem relevou esses fatos, mesmo diante de todos os transtornos, por achar que se tratavam de contratempos.
+Não bastando o ocorrido ser reiterado durante todos os anos trabalhados, após a rescisão do contrato entre as partes, a Usiman deixou de promover os pagamentos dos correspondentes valores ainda devidos em razão dos serviços prestados pelo Requerente.
+(..)
+Após reiteradas cobranças feitas ainda de forma amigável é que, mais de um ano depois, em novembro de 2012, a Usiman promoveu o pagamento de R$ 20.000,00 (vinte mil reais) ao Requerente. Na ocasião, se comprometeu a retomar a regularidade dos pagamentos conforme o seu fluxo de caixa até a total satisfação do crédito do Requerente."
+Assim, após o término do contrato ajustado entre as partes, no ano de 2008, o alegado pagamento efetuado ao recorrente passou a ser feito de acordo com o fluxo de caixa da empresa recorrida.
+Inclusive, a Sra. [NOME], representante legal da requerida, em seu depoimento prestado em juízo, afirmou peremptoriamente que o pagamento era feito ao autor "de acordo com o caixa da empresa". Senão, vejamos:
+"(..); que conhece [NOME], ora autor; que o autor prestava serviços à demandada, porém não tinha horário estabelecido de trabalho e não era todos os dias que comparecia à empresa; que o autor não recebia mensalmente, mas sim de acordo com o caixa da empresa, porém tinha valor fixado de R$ 4.500,00 (quatro mil e quinhentos reais) por mês, porém, por vezes, se acumulava três a quatro meses para realização do pagamento e algumas vezes com gratificação; (..)."
+Ademais, poderia o autor ter buscado corroborar suas afirmativas através de outros meios de prova. Contudo, limitou-se a requerer tão somente o depoimento pessoal da representante da parte apelada que, como visto, em nada lhe ajudou.
+Dessa forma, não assiste razão ao recorrente quanto a alegada existência de condição suspensiva, de modo que, em consonância com o decidido na r. sentença ora impugnada, deve ser aplicado o art. 206, § 5o, inc. II, do Código Civil, o qual é expresso em estabelecer o termo inicial da prescrição da pretensão dos profissionais a partir da conclusão de cada serviço prestado.
+Ante o exposto, CONHEÇO do recurso interposto por [NOME] e NEGO-LHE PROVIMENTO. É como voto.
+Nesse espectro, é impossível concluir de modo diverso desse entendimento, - e se afastar a prescrição da pretensão de cobrança -, pois exigiria o vedado reexame dos fatos e provas e de cláusulas contratuais, providência que esbarra nos óbices das Súmulas 5 e 7 desta Corte.
+A incidência das Súmulas 5 e 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
