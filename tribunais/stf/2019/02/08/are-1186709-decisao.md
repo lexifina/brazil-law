@@ -1,0 +1,35 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. EXECUÇÃO COMPLEMENTAR DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA DE CATEGORIA PROFISSIONAL. UGEIRM. NOVA EXECUÇÃO AJUIZADA PLEITEANDO DIFERENÇA DE VALORES IMPAGOS NA EXECUÇÃO PRECEDENTE. IMPOSSIBILIDADE. HIPÓTESE DE FRACIONAMENTO DO CRÉDITO CARACTERIZADA. VEDAÇÃO CONSTITUCIONAL. SENTENÇA DE EXTINÇÃO MANTIDA.
+    Pretensão de cobrança de diferenças entre o valor devido e aquele cobrado na execução de sentença precedente, referente ao período entre o trânsito em julgado e o adimplemento dos reajustes, os quais não foram incluídos no cálculo da liquidação de sentença anterior. Tais valores deveriam ter sido incluídos naquela execução anteriormente ajuizada, não autorizando a propositura de nova demanda para cobrar pretensas diferenças não incluída no cálculo de anterior feito executivo. Vedação ao fracionamento da execução, consoante art. 100, §8º, da CF.
+    RECURSO DESPROVIDO” (pág. 2 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 100, § 8°, da mesma Carta. Para tanto, argumentou-se que:
+    “O simples ajuizamento da segunda demanda executiva para cobrança de valores equivocadamente não incluídos na primeira (provenientes do mesmo título executivo), ainda que desnecessário, não caracteriza fracionamento do crédito; basta a expedição de precatório complementar no valor executado!
+    É que, a despeito do que dispõe o § 8° do artigo 100 da Constituição Federal, acrescido pela Emenda Constitucional 62/2009, não há, no ordenamento jurídico pátrio, vedação à expedição de precatório complementar para pagamento de saldo remanescente inadimplido no primeiro requisitório.
+    […]
+    No caso em apreço, claro está que a questão é de erro material/erro de cálculo, pois não houve a inclusão, no cálculo que deu origem ao precatório, de algumas parcelas devidas conforme o título judicial que embasou a execução.
+    Autorizando, portanto, a cobrança dos valores não pagos seja na primeira execução (o que poderia causar tumulto processual), seja através de execução autônoma, com pagamento através de precatório complementar.
+    Assim, a expedição de precatório complementar para pagamento de valores referentes a erro material, como é o caso dos autos, é perfeitamente admitida pelo Egrégio Supremo Tribunal Federal” (págs. 24 e 27 do documento eletrônico 2).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem dirimiu a controvérsia dos autos nos seguintes termos:
+    “Trata-se de pedido de execução de sentença proferida em ação coletiva julgada procedente, na qual foi reconhecido o direito ao pagamento dos reajustes da Lei n° 10.395/95, objetivando o autor o pagamento dos valores correspondentes ao período entre o trânsito em julgado da demanda de conhecimento – 13/05/2005 – e a data da implantação dos reajustes - 17/03/2006.
+    Com efeito, da manifestação do credor se constata que a presente execução se refere à complementação da precedente execução de sentença de nº 001/1.11.0065718-6, a qual encontra-se aguardando pagamento de precatório, conforme consulta no site do ETJRS.
+    Ocorre que, como bem destacado pela parte contrária, a cobrança de valores não exigidos naquela ação configura efetivo fracionamento do crédito principal, pois embasada no mesmo titulo judicial já executado.
+    Nesse passo, conforme § 8º do art. 100 da Constituição Federal, é vedado o fracionamento da execução, com a expedição de requisitório complementar, posto que a execução deve abarcar todo o titulo judicial, apurando-se o total devido, e, assim, possibilitar sua veiculação por via da RPV ou de precatório do valor total apurado.
+    Por conseguinte, eventuais discussões sobre o valor do crédito que envolva o mesmo título judicial executivo, buscando o pagamento de eventuais diferenças, devem ser deduzidas e enfrentadas nos próprios autos da execução da sentença, não sendo cabível o ajuizamento de nova ação complementar para resolver tais questões, sob pena de caracterizar-se o fracionamento do crédito, o que é vedado constitucionalmente” (págs. 7 e 8 do documento eletrônico 2).
+    Constata-se, assim, que o acórdão recorrido está em consonância com o entendimento desta Corte firmado no sentido de que “a Constituição proíbe o fracionamento do valor da execução, de modo que parte do pagamento ocorra segundo a ordem estabelecida pelo precatório, e a parte restante seja paga mais rapidamente, em regime de requisição de pequeno valor” (RE 595.978-AgR/PE, de relatoria do Ministro Joaquim Barbosa, Segunda Turma). No mesmo sentido, destaco julgados deste Tribunal, cujas ementas transcrevo a seguir:
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. EXECUÇÃO DE VERBAS DECORRENTES DE MATRÍCULAS DISTINTAS. ÚNICO CREDOR. FRACIONAMENTO DA EXECUÇÃO PARA FINS DE EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR. IMPOSSIBILIDADE.
+    1. Esta Corte já assentou que é impossível o fracionamento da execução para expedição de requisição de pequeno valor. Precedentes.
+    2. Agravo interno a que se nega provimento” (ARE 949.366-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma).
+    “CONSTITUCIONAL. FRACIONAMENTO DE EXECUÇÃO. REQUISIÇÃO DE PEQUENO VALOR. COMPLEMENTO POSITIVO. IMPOSSIBILIDADE.
+    1. Esta Corte possui o entendimento de não ser possível o fracionamento da execução.
+    2. Agravo regimental improvido” (RE 501.840-AgR/RS, Rel. Min. Ellen Gracie, Segunda Turma).
+    Por fim, quanto à alegação de ocorrência de erro material, verifico que, para dissentir da conclusão adotada pelo Tribunal a quo, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, transcrevo ementas de julgados desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRECATÓRIO. CÁLCULOS HOMOLOGADOS. ERRO MATERIAL. REEXAME DO ACERVO PROBATÓRIO. SÚMULA 279/STF.
+    É firme o entendimento desta Corte no sentido de que a discussão acerca da ocorrência de erro material nos cálculos homologados demanda o reexame do acervo probatório constante dos autos, providência vedada nesta via processual (Súmula 279/STF).
+    Agravo regimental a que se nega provimento” (ARE 749.924-AgR/AM, Rel. Min. Roberto Barroso, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Execução de sentença. Precatório. Erro material nos cálculos da contadoria. Coisa julgada. 3. Matéria de índole infraconstitucional. Ofensa reflexa. 4. Reexame fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento” (AI 767.504-AgR/CE, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que já foram fixados no patamar máximo pelo Juízo de origem.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
