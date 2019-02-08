@@ -1,0 +1,51 @@
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. QUALIFICADORA DO RECURSO MOTIVO TORPE. TRIBUNAL DE ORIGEM QUE AFASTOU A QUALIFICADORA POR ENTENDER QUE É MANIFESTAMENTE IMPROCEDENTE. POSSIBILIDADE. INCLUSÃO DA QUALIFICADORA. ÓBICE DO ENUNCIADO N.º 7 DA SÚMULA DESTA CORTE. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, proferido no Recurso em Sentido Estrito n.º 0052517-79.2017.8.21.7000.
+Consta nos autos que os Recorridos foram pronunciados para responder perante o Tribunal do Júri pela suposta prática do delito disposto no art. 121, § 2.º, incisos I e IV, do Código Penal.
+A Corte a quo deu parcial provimento ao recurso dos réus para afastar da pronúncia a qualificadora do motivo torpe, restando os réus pronunciados como incursos no art. 121, § 2.º, inciso IV, do Código Penal, em acórdão assim ementado (fl. 375):
+"RECURSO EM SENTIDO ESTRITO. CRIME CONTRA A VIDA. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. PRONÚNCIA PARCIALMENTE MANTIDA.
+Legítima defesa indemonstrada em relação ao réu B.T.N. Não está inequivocamente demonstrada nos autos a legítima defesa alegada. Uma testemunha relatou que o acusado desferiu um disparo de arma de fogo pelas costas da vítima tendo afirmado "agora chegou a tua hora". Assim, a dinâmica dos fatos retratada por segmento probatório existente nos autos não demonstra suficientemente a ocorrência da excludente de ilicitude da legítima defesa.
+Indícios suficientes de autoria no tocante aos réus R.M.S. e L.S.L. Há indícios suficientes de autoria aptos a justificar a pronúncia. Consta relato testemunhal dando conta de que L.S.L. teria desferido um disparo de arma de fogo em direção à vítima e de que R.M.S. estaria conduzindo o veículo.
+Qualificadoras.
+Recurso que dificultou a defesa da vítima: manutenção. O substrato probatório indica a possibilidade de que tenha sido a vítima atingida pelas costas. Possibilidade de que o ofendido tenha sido surpreendido pelo agir dos acusados.
+Motivo torpe: afastamento. Inexiste nos autos provas indicando a plausibilidade na hipótese acusatória de que o fato possa ter sido cometido em razão de rivalidade decorrente do tráfico de drogas ou de disputa territorial entre grupos rivais.
+RECURSOS PARCIALMENTE PROVIDOS."
+Embargos de declaração foram opostos e rejeitados (fl. 402-406).
+Sustenta o recurso especial que o acórdão recorrido negou vigência aos art. 212, § 2.º, inciso I, do Código Penal e 74, § 1º, 413, caput e § 1.º, e 414, caput, do Código de Processo Penal, já que a qualificadora do motivo torpe deve integrar a sentença de pronúncia.
+Afirma que a qualificadora foi perfeitamente delineada nos autos. Sustenta para tanto, que (fl. 419):
+" ..  não cabe a argumentação do acórdão, no sentido de que não houve menção acerca do tráfico de drogas. Primeiro, porque a denúncia menciona que a motivação se deu por conta de eventual dívida de tráfico de drogas, bem como em razão de rivalidade de grupos criminosos inimigos, sendo que, quanto ao segundo motivo exposto, há provas suficientes ao efeito de caracterizar a torpeza do homicídio. E, por segundo, por óbvio que as testemunhas ([NOME] e [NOME]) não mencionariam a participação do grupo na prática do tráfico de drogas, uma vez que não se autoincriminariam, já que também envolvidos na contenda."
+Busca, assim, para restabelecer a qualificadora do motivo torpe na pronúncia.
+Contrarrazões às fls. 444-452.
+O Ministério Público Federal, em parecer de fl. 478, opinou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+O acórdão recorrido afastou a qualificadora do motivo torpe sob a seguinte fundamentação (fls. 386-387; grifos no original):
+"3.2. Motivo torpe: afastamento.
+Por outro lado, deve ser afastada a qualificadora disposta no artigo 121, §2º, inciso I, do Código Penal. A acusação afirmou que o delito foi cometido "por motivo torpe, aniquilando a vítima em virtude de uma dívida do tráfico de drogas, além de rivalidade decorrente de disputa de território entre grupos rivais, sendo que os denunciados pertencem a grupo investigado pela prática de crimes diversos como tráfico de drogas, crimes contra a vida e delitos patrimoniais" (fl. 3).
+Todavia, nenhuma das testemunhas ouvidas no decorrer da instrução foi capaz de prestar esclarecimentos sobre essa questão.
+A genitora da vítima [NOME], embora tenha mencionado desavença, não soube declinar as razões, não tendo feito menção sobre a possibilidade de que tenha sido decorrente de tráfico de drogas (fls. 165v.-168).
+Igualmente, o irmão do ofendido, [NOME], não mencionou qualquer circunstância vinculada ao comércio ou uso de drogas (fls. 168v.-171).
+Além disso, [NOME] relatou "eu já não sei lhe dizer muito bem se eles tinha rixa deles ali, claro não sei porque eu sei que eles tinham alguma rixinha, mas o porque eu não sei lhe dizer." (fls. 171v.-174).
+Dessa forma, por ser manifestamente improcedente, deve a qualificadora em apreço ser afastada da pronúncia."
+No caso, o Tribunal a quo concluiu que o conjunto fático-probatório dos autos não era suficiente para caracterizar a incidência da qualificadora do motivo torpe. Modificar tal entendimento para acolher o pleito de estabelecimento da mencionada qualificadora demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, atraindo o óbice do enunciado da Súmula n.º 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. MOTIVO TORPE E DE PERIGO COMUM. PRONÚNCIA. EXCLUSÃO DAS QUALIFICADORAS PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. MODIFICAÇÃO DO JULGADO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência deste Sodalício é no sentido de se admitir a exclusão de qualificadoras na decisão de pronúncia, quando manifestamente improcedentes, sem que isso implique usurpação da competência do Tribunal do Júri.
+2. O Tribunal de origem, com base nas provas coligidas aos autos, entendeu pela exclusão da qualificadora do motivo torpe e de perigo comum. Desse modo, para se concluir de forma diversa, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte.
+3. É vedado em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente (EDcl no AgRg no Resp 1.660.712, Rel. Ministro FÉLIX FISCHER, QUINTA TURMA, DJe 08/06/2016).
+4. Agravo regimental desprovido." (AgRg no REsp 1.706.906/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 31/08/2018.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RÉU PRONUNCIADO POR HOMICÍDIO TRIPLAMENTE QUALIFICADO. QUALIFICADORAS DO MEIO INSIDIOSO OU CRUEL E DO MOTIVO TORPE AFASTADAS PELO TRIBUNAL A QUO POR AUSÊNCIA DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A teor do art. 30 do Código Penal, não se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime. Já as circunstâncias de caráter objetivo, por sua vez, não são, em princípio, incomunicáveis, a menos que fique comprovado que o coautor não tenha a elas anuído, nem mesmo assumido o risco de sua produção." (HC n. 101.219/RJ, Rel. Ministra Laurita Vaz, 5ª T., DJe 8/11/2010).
+2. Ao afastar as qualificadoras do meio insidioso ou cruel e do motivo torpe, a Corte estadual explicitou não haver indícios de saber o recorrente que o corréu portava uma faca e nem de sua intenção de desferir inúmeros golpes contra a vítima. Também evidenciou não estar demonstrado conhecer o acusado a motivação que levou seu comparsa a matar a vítima. Assim, analisar a demanda a fim de verificar a incidência ou não das qualificadoras em questão demandaria incursão fático-probatória nos autos, providência obstada pela Súmula n. 7 do STJ.
+3. Agravo regimental não provido." (AgRg no REsp 1.391.675/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/08/2017, DJe 10/08/2017.)
+Frise-se que consoante a jurisprudência desta Corte Superior de Justiça, não configura usurpação da competência constitucional do Tribunal do Júri a exclusão de qualificadoras na fase de pronúncia, quando manifestamente improcedentes.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL. DECISÃO DE PRONÚNCIA. RECURSO QUE DIFICULTOU OU IMPOSSIBILITOU A DEFESA DO OFENDIDO. QUALIFICADORA DECOTADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ELEMENTOS A SUSTENTAR A INCIDÊNCIA DA QUALIFICADORA. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Qualificadora prevista no inciso IV do § 2º do art. 121 do CP excluída pelo Tribunal de origem. Fundamento de que a narrativa da exordial acusatória não apresenta nenhum fato demonstrativo de que o réu agiu com o intuito de dificultar ou impossibilitar a defesa da vítima.
+1.1. A Corte local também asseverou que "o fato de a vítima ser um idoso, certamente, não configura um "recurso", supostamente, utilizado pelo réu para o cometimento do homicídio, mas sim circunstância pessoal da vítima", prevista como causa de aumento de pena no § 4º do art. 121 do CP. 2. Com efeito, "nos termos da jurisprudência deste Sodalício não configura usurpação da competência constitucional do Tribunal do Júri a exclusão de qualificadoras na fase de pronúncia, quando manifestamente improcedentes" (AgRg no AREsp 1.118.726/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/6/2018, DJe 28/6/2018).
+3. Ademais, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+Precedente.
+4. Agravo regimental improvido"(AgRg no REsp 1.746.450/MA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/09/2018, DJe 26/09/2018.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
