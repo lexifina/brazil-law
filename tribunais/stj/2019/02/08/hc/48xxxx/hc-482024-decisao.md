@@ -1,0 +1,28 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. EMPREGO DE ARMA BRANCA. FACA. LEI N. 13.654/2018. NOVATIO LEGIS IN MELLIUS. RETROATIVIDADE. ORDEM CONCEDIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação n.º 0000395-72.2017.8.16.0196.
+Consta nos autos que o Paciente foi condenado como incurso no art. 157, § 2.º, inciso I, do Código Penal, à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto (fls. 30-51).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 52-59).
+Interposto o recurso especial, a Defesa pleiteou à Presidência do Tribunal de origem e ao Juízo das Execuções Penais que fosse aplicada em favor do Paciente a nova Lei n.º 13.654/2018. Todavia, os pleitos não foram atendidos (fls. 73-75 e 75).
+Nas razões desta Impetração, sustenta-se que a Lei n.º 13.654/18 é mais benéfica ao Paciente, uma vez que afastou a causa de aumento de pena referente ao uso de arma branca (faca) no crime de roubo. Assim, argumenta que a nova legislação deve ser retroativamente aplicada na hipótese em apreço, nos termos do art. 5.º, incisos XXXIX e XL, da Constituição Federal e do art. 2.º, parágrafo único, do Código Penal.
+Pleiteia, liminarmente e no mérito, a readequação da pena, a fim de que seja afastada a causa de aumento de pena decorrente do uso de arma, nos termos da nova redação introduzida no Código Penal pela Lei n.º 13.654/18.
+Liminar deferida às fls. 82-84.
+Informações prestadas às fls. 95-103.
+O Ministério Público Federal, em parecer da lavra do Dr. [NOME], opinou pelo não conhecimento do writ e pela concessão da ordem de habeas corpus de ofício (fls. 110-113).
+É o relatório. Decido.
+No caso, o Tribunal de origem manteve a condenação do Paciente pela prática do crime de roubo majorado, o qual foi descrito nos seguintes termos:
+"o denunciado [NOME] agindo dolosamente, de forma consciente e voluntária, valendo-se de grave ameaça exercida mediante voz de assalto e utilização de arma (faca) contra a vítima [NOME], subtraiu, para si, com ânimo de assenhoreamento definitivo, um aparelho de telefone celular, marca Motorola, modelo G22 de propriedade da referida vítima" (fl. 30-31, sem grifos no original).
+Com efeito, a jurisprudência desta Corte Superior posiciona-se no sentido de que a nova redação introduzida no Código Penal pela Lei n.º 13.654/18 extirpou do ordenamento jurídico a causa de aumento de pena anteriormente aplicável ao uso de armas brancas no crime de roubo. Portanto, por se tratar de legislação mais benéfica, o novo dispositivo legal deve retroagir para alcançar fatos pretéritos, o que pode ser reconhecido em qualquer grau de jurisdição, inclusive de ofício.
+A esse respeito, confira-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUPERVENIÊNCIA DA LEI N. 13.654/2018. REVOGAÇÃO DO INCISO I DO § 2º DO ART. 157 DO CP. ROUBO COM EMPREGO DE ARMA BRANCA. CIRCUNSTÂNCIA QUE NÃO MAIS SE SUBSUME ÀS MAJORANTES DO DELITO. AFASTAMENTO DA CAUSA DE AUMENTO. RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. INCONSTITUCIONALIDADE DA LEI 13.654/2018. COMPETÊNCIA DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei n. 13.654, de 23 de abril de 2018, revogou o inciso I do artigo 157 do CP, de modo que o emprego de arma branca não se subsume mais a qualquer uma das majorantes do crime de roubo. Assim, uma vez que o caso dos autos é de roubo com emprego de arma branca (faca), impõe-se a concessão de habeas corpus de ofício para que a pena seja reduzida na terceira fase da dosimetria, em observância ao princípio da retroatividade da lei penal mais benéfica.
+2. "Não compete ao STJ, em recurso especial, o exame inaugural da inconstitucionalidade da Lei 13.654/2018, por vício formal, sob pena de usurpação da competência do Supremo Tribunal Federal." (AgInt nos EDcl no REsp 1.687.565/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe 25/09/2018).
+3. Agravo regimental a que se nega provimento." (AgRg no AgRg no AREsp 1.275.927/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/10/2018, DJe de 24/10/2018, sem grifos no original).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. EMPREGO DE ARMA BRANCA. LEI N. 13.654/2018. NOVATIO LEGIS IN MELLIUS. RETROATIVIDADE EM BENEFÍCIO DO RÉU.
+1. Nos termos da orientação do Superior Tribunal de Justiça, a "Lei 13.654/18 extirpou o emprego de arma branca como circunstância majorante do delito de roubo. Em havendo a superveniência de novatio legis in mellius, ou seja, sendo a nova lei mais benéfica, de rigor que retroaja para beneficiar o réu" (AgRg no AREsp n. 1.249.427/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/06/2018, DJe 29/06/2018).
+2. Agravo regimental a que se nega provimento." (AgRg no HC 455.182/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe de 26/09/2018, sem grifos no original.)
+Portanto, deve ser extirpada da condenação imposta ao Paciente a incidência da causa de aumento de pena anteriormente prevista no art. 157, inciso I, do Código Penal (atualmente revogado pela Lei n.º 13.654/18), por se tratar de novatio legis in mellius.
+Ante o exposto, CONCEDO a ordem de habeas corpus para extirpar da condenação do Paciente a causa de aumento de pena anteriormente prevista no art. 157, inciso I, do Código Penal (uso de arma branca).
+Comunique-se, com urgência, ao Juízo da 2ª Vara de Execuções Penais da Comarca da Curitiba/PR (Execução n.º 0001486-79.2017.8.16.0009).
+Publique-se. Intimem-se.
