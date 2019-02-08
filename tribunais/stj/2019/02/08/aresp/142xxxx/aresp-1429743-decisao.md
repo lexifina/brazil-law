@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado por Rush Gráfica e Editora Ltda., contra decisão que inadmitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 667):
+APELAÇÃO. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. ICMS. DECLARAÇÃO POSTERIOR DE INIDONEIDADE. Empresa vendedora declarada inidônea, por simulação da existência de estabelecimento ou de empresa. Não comprovação da veracidade da compra e venda. Creditamento de ICMS indevido. Súmula 509/STJ. Precedentes desta Câmara.
+Sentença de improcedência mantida. Honorários.
+Redução. Impossibilidade. Recurso não provido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte ora agravante aponta dissídio jurisprudencial. Sustenta, em síntese que possui o direito ao creditamento do ICMS, porquanto trata-se de adquirente de boa fé, havendo as notas fiscais sido declaradas inidôneas, pelo Fisco Estadual, posteriormente à aquisição das mercadorias, sendo certo, ainda, que "em caso idêntico presente demanda já assentou o C. Superior Tribunal de Justiça que a decretação da inidoneidade somente passa a produzir efeitos com sua publicação" (fl.677) e "As compras efetuadas pela ré junto à empresa Maxfly foram devidamente faturadas com a emissão de nota fiscal eletrônica pela vendedora, e se houve emissão de nota fiscal eletrônica não havia na época como supor a adquirente das mercadorias que havia algum processo interno da Fazenda do Estado para cancelamento da inscrição da vendedora. As operações de compra e venda mercantil com a empresa Maxfly efetivamente ocorreram com a entrega das mercadorias e pagamento do preço e foram devidamente escrituradas pela autora. A época das operações de compra e venda não havia qualquer notícia de eventual irregularidade da vendedora junto ao Fisco." (fl.682).
+Houve contrarrazões (fl. 701/714).
+Por força do art. 1.030, I, do CPC/2015, a Vice-Presidência da Corte de origem negou seguimento ao recurso especial, considerando o quanto decidido no Tema STJ nº 272 (REsp 1.148.444/MG, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 14/04/2010, DJe 27/04/2010). (fls. 715/716).
+É o relatório.
+Inicialmente, no tocante à questão do aproveitamento do creditamento de ICMS por comerciante de boa-fé, no caso de nota fiscal emitida pela vendedora declarada posteriormente inidônea, deixo de conhecer do agravo em recurso especial, porquanto a Vice-Presidência da Corte Regional negou seguimento ao apelo raro observando o rito previsto no art.1.030, I, b, e II, do CPC/2015 quanto ao ponto.
+No que remanesce, verifica-se que o recurso especial não comporta trânsito.
+Com efeito, observa-se que a parte ora agravante, nas razões de recurso especial, não apontou de forma clara e precisa o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014).
+Assim, incide, na espécie, a Súmula 284 do STF. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento
+(AgRg no AREsp 770.014/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2015, DJe 03/02/2016) (grifou-se).
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF.
+1. "É imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido
+interposto pela alínea a quer pela c." (AgRg nos EREsp 382.756/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 18/11/2009, DJe 17/12/2009.).
+2. A apresentação tardia da indicação do dispositivo de lei que entende violado, quando não apontado no recurso especial, representa inovação vedada no âmbito do agravo regimental.
+Agravo interno improvido.
+(AgInt no AREsp 1587696/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/4/2016).
+Assim, verifica-se que o recurso especial não poderia ser conhecido no tocante à alínea c do permissivo constitucional, tendo em vista que a parte ora agravante não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa. Em outras palavras, o recurso não se amolda às exigências dos arts.1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, conheço em parte do agravo em recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
