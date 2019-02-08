@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO, contra acórdão prolatado pela 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 118e):
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - Fixação em 10% do valor da execução, por ocasião da rejeição dos embargos do devedor - Hipótese em que, para que se cumpra estritamente o comando contido no acórdão exequendo, tem lugar a consideração do valor integral devido (principal, juros e correção monetária) quando da expedição do ofício requisitório, incidindo então sobre o importe assim consolidado os 10% devidos ao patrono das exequentes-embargadas - Cálculo a ser feito, observado esse critério, que não representa a incidência de juros sobre juros - Apelo das exequentes-embargadas provido em parte.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 467, 471, 475, g, do Código de Processo Civil, alegando-se, em síntese, que "a Fazenda do Estado foi condenada a pagar juros anteriores à citação, bem como juros sobre juros, prática somente permitida ao sistema financeiro, em casos específicos, estabelecidos por lei" (fl. 130e).
+Com contrarrazões (fls. 147/150e), o recurso foi inadmitido (fl. 185e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 223e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual não se admite, por configurar bis in idem, a incidência de juros de mora em honorários advocatícios fixados em percentual sobre o valor atualizado da condenação ou do débito executado, porquanto já computados na respectiva base de cálculo, sendo cabível o acréscimo apenas quando a verba honorária de sucumbência tiver sido fixada em quantia certa.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INCIDÊNCIA DE JUROS LEGAIS SOBRE VERBA ADVOCATÍCIA. INADMISSIBILIDADE.
+1. O Tribunal de segundo grau declarou a incidência de juros moratórios com cômputo a partir do acórdão que fixou os honorários advocatícios, entendendo inaplicável o art. 219 do CPC. Em sede de recurso especial, sustenta a Fazenda do Estado de São Paulo: a) a não-incidência de juros sobre honorários advocatícios, pois já estão incluídos na condenação principal, da qual essa verba é um percentual; b) caso assim não se entenda, que sejam calculados a partir da citação, segundo o teor do art. 219 do CPC.
+2. Na esteira de precedente da Primeira Turma desta Corte, firma-se o entendimento de que "corrigido monetariamente o valor principal da dívida, incidindo os juros moratórios, de forma reflexa incidirão as correções sobre a verba honorária devida. Assim, não há que se aplicar os artigos 293 do Código de Processo Civil e 1062 e 1064 do Código Civil, por ventilarem hipóteses diversas" (EDclAgrResp 395.625/PR, Rel. Min. Denise Arruda, DJ 29/06/2004).
+3. Recurso especial provido.
+(REsp 1.001.792/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 01/04/2008, DJe 16/04/2008).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INCIDÊNCIA DE JUROS DE MORA SOBRE VERBA ADVOCATÍCIA. INADMISSIBILIDADE. EXCEPCIONALIDADE NÃO CONFIGURADA. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - O acórdão recorrido está em confronto com a orientação desta Corte, segundo a qual, não se admite, por configurar bis in idem, a incidência de juros de mora em honorários advocatícios fixados em percentual sobre o valor atualizado da condenação ou do débito executado, porquanto já computados na respectiva base de cálculo, sendo cabível o acréscimo apenas quando a verba honoraria de sucumbência tiver sido fixada em quantia certa.
+III - Os Agravantes não apresentam, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg no REsp 1490859/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 22/06/2016).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA. DUPLA INCIDÊNCIA. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 535. NÃO OCORRÊNCIA.
+1. Trata-se, na origem, de Agravo de Instrumento contra decisão proferida em Execução de Sentença que afastou a incidência de juros moratórios sobre honorários advocatícios fixado em percentual sobre o montante da condenação.
+(..).
+3. O Superior Tribunal de Justiça tem entendimento consagrado no sentido de que a base de cálculo dos honorários advocatícios compreende os juros moratórios e a correção monetária, ainda que de forma reflexa, aplicáveis sobre o valor da condenação.
+4. Sendo a verba honorária calculada a partir de percentual incidente sobre o montante total da condenação e sendo este devidamente atualizado - incluindo todos os consectários legais -, não há espaço para a alegação de nova incidência de juros moratórios sobre o valor dos honorários advocatícios. Precedentes: AgRg no REsp 1.182.162/PR, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 5.10.2010, DJe 18.10.2010; REsp 1.001.792/SP, 1.ª Turma, Rel. Min. José Delgado, DJe de 16.4.2008.
+(..).
+6. Recurso Especial não provido.
+(REsp 1.534.308/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2015, DJe 05/08/2015).
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. VÍCIOS. INEXISTÊNCIA. MERO INCONFORMISMO. AGRAVO DE INSTRUMENTO. FORMAÇÃO. AUSÊNCIA DE CERTIDÃO DE INTIMAÇÃO. AFERIÇÃO DA TEMPESTIVIDADE POR OUTROS MEIOS. ADMISSIBILIDADE. EXECUÇÃO DE HONORÁRIOS. INCLUSÃO DE JUROS DE MORA. BASE DE CÁLCULO ATUALIZADA. IMPOSSIBILIDADE. ENTENDIMENTO DO STJ. CONSONÂNCIA. SÚMULA 83/STJ.
+1. O mero inconformismo da parte, a pretexto de violação do art. 535 do CPC, não se coaduna com a disciplina dos embargos declaratórios, inexistindo omissão, contradição ou obscuridade a ser sanada no julgado embargado.
+2. Conforme entendimento jurisprudencial desta Corte, a ausência da certidão de intimação na formação do agravo de instrumento pode ser relevada se for possível a aferição da tempestividade recursal por outros meios.
+3. A jurisprudência desta Corte firmou-se no sentido de que não se admite a incidência de juros de mora em honorários advocatícios se estes foram arbitrados em percentual do valor do débito executado que já está atualizado, sob pena de bis in idem.
+Agravo regimental improvido.
+(AgRg no AREsp 656.767/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 06/08/2015, DJe 17/08/2015).
+Na mesma linha: AgRg no REsp 1.528.577/RS, 1ª T., Rel. Min. Sérgio Kukina, DJe de 15.9.2015; AgRg no AREsp 656.767/RS, 2ª T., Rel. Min. Humberto Martins, DJe 17.8.2015; AgRg no REsp 1.109.317/PR, 6ª T., Rel. Min. Ericson Maranho - Des. Convocado do TJ/SP - DJe de 6.5.2015.
+Isto posto, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial, para afastar a incidência de juros de mora nos honorários advocatícios.
+Publique-se e intimem-se.
