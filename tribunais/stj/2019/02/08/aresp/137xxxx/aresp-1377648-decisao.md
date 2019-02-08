@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO. CONCESSÃO DA TUTELA ANTECIPADA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. ALEGAÇÃO DE PERSISTÊNCIA DE INTERESSE NO JULGAMENTO DO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO INTERLOCUTÓRIA. NATUREZA PROVISÓRIA DA DECISÃO RECORRIDA. PERDA DO OBJETO. RECURSO PREJUDICADO.
+DECISÃO
+PETRO RIO O&G EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO LTDA (O&G) ajuizou agravo de instrumento contra decisão que, em ação de responsabilidade civil promovida por GEOQUASAR ENERGY SOLUTIONS PARTICIPAÇÕES LTDA - MASSA FALIDA (GEOQUASAR), concedeu tutela antecipada para declarar a indisponibilidade de uma fração de seus bens de modo a resguardar o resultado útil do processo.
+O Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. TUTELA ANTECIPADA. INDISPONIBILIDADE DE VEÍCULOS E IMÓVEIS QUE INTEGRAM O PATRIMÔNIO DA AGRAVANTE. DEFERIMENTO. JUÍZO ARBITRAL. CLÁUSULA COMPROMISSÓRIA. INAPLICABILIDADE. DEFERIMENTO DA LIMINAR. DECISÃO NÃO TERATOLÓGICA, CONTRÁRIA À LEI OU À EVIDENTE PROVA DOS AUTOS. MANUTENÇÃO DA INDISPONIBILIDADE PARCIAL DOS BENS DA AGRAVANTE. AUSÊNCIA DE PROVA DE RISCO PARA AS ATIVIDADES EMPRESARIAIS. DECISÃO CORRETA, NA FORMA E NO CONTEÚDO, QUE INTEGRALMENTE SE MANTÉM.
+RECURSO IMPROVIDO. (e-STJ, fl. 64).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 112/116).
+Inconformada, O&G interpôs recurso especial com base na alínea a do inciso III do art. 105 da Constituição. Sustentou, em resumo, violação (1) dos arts. 489 e 1.022; do CPC/2015, pugnando pela anulação do acórdão recorrido por omissão no exame de tese deduzida no agravo de instrumento a respeito dos requisitos do fumus boni juris e do periculum in mora, e por vício de fundamentação ante a genérica aplicação da Súmula nº 58 do TJRJ; e, (2) dos arts. 1.008 e 1.016 do NCPC, porquanto a decisão recorrida teria extrapolado os limites do efeito devolutivo do agravo de instrumento ao apreciar tema não discutido na instância de origem - a cláusula compromissória arbitral - incorrendo em supressão de instância (e-STJ, fls. 133/167).
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo inadmitiu o apelo nobre.
+Dessa decisão, foi interposto o presente agravo em recurso especial. No arrazoado, a O&G comunicou a superveniência da sentença de mérito (e-STJ, fls. 248), na qual o Juízo de origem julgou improcedente a ação movida pela GEOQUASAR, e revogou a antecipação da tutela objeto do presente feito. Apesar desse fato, a O&G afirmou persistir interesse no exame do presente agravo e no recurso especial, no que concerne a violação dos arts. 1.008 e 1.016 do CPC/2015, desistindo quanto aos demais pontos do recurso (e-STJ, fls 218/240).
+Contraminuta apresentada (e-STJ, fls. 269/277).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo está prejudicado.
+Conforme relatado pela própria recorrente, houve a superveniente prolação da sentença de mérito, a qual revogou a tutela provisória, não subsistindo, portanto, o interesse no julgamento do presente feito. Nesse sentido, faço menção ao seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM AGRAVO DE INSTRUMENTO. SENTENÇA SUPERVENIENTE. RECURSO PREJUDICADO.
+1. A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.485.765/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 20/10/2015, DJe 29/10/2015, sem destaque no original)
+A O&G, em seu agravo, buscou superar a falta de interesse afirmando que o acórdão recorrido teria extrapolado os limites objetivos do agravo de instrumento ao emitir juízo sobre tema que não teria sido discutido na primeira instância, em ofensa aos arts. 1.008 e 1.016 do CPC/2015.
+Ocorre que a literalidade do Código de Processo Civil de 2015 prevê que a decisão que concede a tutela antecipada e também os fundamentos de uma decisão judicial, seja ela qual for, não fazem coisa julgada, a teor do disposto nos artigos 304, § 6º, e 504, I.
+Ressalte-se, incidenter tantum, que a jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Em casos assim, aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735 do STF.
+Ante a perda de objeto, JULGO PREJUDICADO o agravo em recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do CPC/2015, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
