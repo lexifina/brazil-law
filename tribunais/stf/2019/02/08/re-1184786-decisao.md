@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 8ª Turma do Tribunal Superior do Trabalho, ementado, no que interessa, nos seguintes termos:
+    “MIGRAÇÃO PARA NOVO PLANO – TRANSAÇÃO – EFEITOS 1. Esta Eg. Corte firmou o entendimento de que a adesão às regras de saldamento, bem como a opção voluntária por novo plano, não impedem a rediscussão do valor do saldamento do plano anterior. Precedentes. 2. Ademais, o reconhecimento da possibilidade de pleitear o reexame do valor do saldamento do plano anterior não significa concluir pela invalidade do pactuado. Precedentes”. (eDOC 47, p. 1-2)
+    No recurso extraordinário (eDOC 53), interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, ofensa ao ato jurídico perfeito, uma vez que, seria inválida a revisão judicial do termo de transação celebrado pelas partes.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Consolidação das Leis Trabalhistas) e o conjunto probatório constante dos autos, bem como, interpretar cláusulas contratuais, consignou que a parcela denominada CTVA (Complemento Temporário Variável de Ajuste de Mercado) integraria a base de cálculo da contribuição previdenciária recolhida à Funcef, devendo repercutir na complementação da aposentadoria.
+    Consignou, ainda, que a adesão às regras de saldamento, bem como a opção voluntária por novo plano, não impedem a rediscussão do valor do saldamento do plano anterior. Nesse sentido, confiram-se trecho do acórdão proferido:
+    “Esta Eg. Corte, em casos envolvendo as Reclamadas, firmou o entendimento de que a adesão às regras de saldamento, bem como a opção voluntária por novo plano, não impedem a rediscussão do valor do saldamento do plano anterior.
+    (…)
+    Ademais, o reconhecimento da possibilidade de se pleitear o reexame do valor do saldamento do plano anterior não significa concluir-se pela invalidade do pacto. Adoto como razões de decidir, os fundamentos exarados por ocasião do julgamento do RR-1073-07.2011.5.04.0512, de relatoria do Ministro Aloysio Corrêa da Veiga, da 6ª Turma, publicado no DEJT de 15/8/2014, que aborda questão idêntica”. (eDOC 47, p. 16-19).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se os seguintes julgados de ambas as turmas desta Corte:
+    “DIREITO CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PREVIDÊNCIA PRIVADA. MIGRAÇÃO. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO MATERIAL PROBATÓRIO E DE CLÁUSULAS DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS 279 E 454/STF. 1. Para dissentir do acórdão recorrido e concluir pela existência das inconstitucionalidades apontadas, seria necessária a análise do material fático e probatório constante dos autos e das cláusulas constantes do contrato celebrado entre as partes, procedimento inviável em recurso extraordinário. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento”. (RE 1.158.499 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 7.12.2018).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS OFENSA INDIRETA À CONSTITUIÇÃO CONTENCIOSO DE MERA LEGALIDADE REEXAME DE FATOS E PROVAS IMPOSSIBILIDADE SÚMULA 279/STF INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL SÚMULA 454/STF SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM ABUSO DO DIREITO DE RECORRER IMPOSIÇÃO DE MULTA (1% SOBRE O VALOR CORRIGIDO DA CAUSA), SE UNÂNIME A VOTAÇÃO (CPC, ART. 1.021, § 4º) AGRAVO INTERNO IMPROVIDO”. (ARE 1.078.403 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 9.2.2018).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, IV, a, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
