@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl.77):
+EMBARGOS À EXECUÇÃO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. RECEBIMENTO DE BENEFÍCIO POR INCAPACIDADE NO PERÍODO EM QUE HOUVE REMUNERAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+I - Consoante jurisprudência pacífica do C. Superior Tribunal de Justiça, somente é possível, na fase da execução, a invocação de fato impeditivo, modificativo ou extintivo da obrigação verificado em momento posterior ao trânsito em julgado da decisão de mérito proferida na fase de conhecimento, em razão da eficácia preclusiva da coisa julgada. Precedentes do C. STJ.
+II- A verba honorária deve ser fixada em R$ 1.000,00 (um mil reais), consoante entendimento da Terceira Seção e Oitava Turma desta E. Corte (Nesse sentido: AR nº 2016.03.00.008925-9, Relatora Des. Fed. [NOME], 3a Seção, j. 8/6/17 e AC nº 2017.03.99.016102-8, Relator Des. Fed. [NOME], 8a Turma, j. 14/6/17).
+III- Apelação provida.
+Opostos embargos de declaração, foram rejeitados (fl. 95)
+Nas razões do apelo especial, aponta o recorrente violação aos arts. 11, V, 42, 46, 59, 60, 61, 62 e 63 da Lei 8.213/91, 502 e 503 do CPC, 884 e 885 do CC. Sustenta a impossibilidade de execução dos valores devidos a título de benefício de aposentadoria por invalidez nos períodos em que o recorrido exerceu atividade laborativa.
+Alega que "Não obstante o comando legal e ter restado comprovado o exercício do trabalho pela parte autora, o v. acórdão admitiu a possibilidade de percepção do beneficio sem desconto do período trabalhado" (fl. 102).
+Afirma que "é impossível a concomitância de atividade remunerada com a percepção de benefício por incapacidade, devendo ser cancelado o beneficio no período em que houve exercício de atividade laborativa" (fl. 102).
+Aduz que "No caso dos autos, restou comprovado que o segurado laborou durante o período de suposta incapacidade, não justificando o recebimento do salário cumulado com o beneficio previdenciário de auxílio-doença/aposentadoria por invalidez" (fl. 102).
+Enfatiza, ainda, que "o v. acórdão transitado em julgado em fase de conhecimento não se manifestou sobre a questão do desconto do período laborado, razão pela qual inexiste coisa julgada nesse aspecto" (fl. 104).
+Sem contrarrazões.
+É o relatório.
+O recurso não prospera.
+Inicialmente, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos arts. 11, V, 42, 46, 59, 60, 61, 62 e 63 da Lei 8.213/91, apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1682293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO. 1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+De outro lado, faz-se oportuna a observação das razões do acórdão recorrido, que negou o pedido do INSS, ante o reconhecimento da existência de coisa julgada em favor do recorrido, motivo pelo qual o Tribunal não poderia mais se manifestar sobre a questão, é o que se infere do seguinte trecho (fls. 74/75):
+Embora tratando de "compensação" somente alegada na fase da execução do julgado, merece referência  não apenas em razão de certa similitude dos institutos, mas também, pela expressa referência a fatos impeditivos, modificativos ou extintivos  o REsp. Representativo de Controvérsia nº 1.235.513, Primeira Seção, Rel. Min. Castro Meira, v.u., j. 27/06/12, DJe 20/08/12, in verbis:
+(..).
+In casu, verifica-se que em nenhum momento a matéria atinente ao desconto dos valores percebidos decorrentes de atividade remunerada foi aventada pelo INSS em fase de conhecimento. Logo, incabível, no presente momento, o acolhimento da alegação de que o embargado exerceu atividade remunerada incompatível com o recebimento de benefício previdenciário por incapacidade.
+Ao que se observa, referido entendimento não diverge da jurisprudência do Superior Tribunal de Justiça, conforme se vê dos seguintes precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUXÍLIO-ACIDENTE. CUMULAÇÃO COM APOSENTADORIA. EXECUÇÃO. PRECLUSÃO DA POSSIBILIDADE DE ALEGAÇÃO, EM EMBARGOS, DE MATÉRIA QUE DEVERIA TER SIDO LEVANTADA NA FASE DE CONHECIMENTO. PROCESSO DE EXECUÇÃO. ADSTRIÇÃO AOS LIMITES DO DISPOSITIVO DO TÍTULO JUDICIAL, SOB PENA DE OFENSA À COISA JULGADA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Verifica-se que o Tribunal Regional não dissentiu dos precedentes do STJ, firmados no sentido de não ser possível, no âmbito de Execução, alegar matéria que não foi oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.689.930/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/10/2017, DJe 20/10/2017).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. EXECUÇÃO EM MANDADO DE SEGURANÇA. PEDIDO SUBSIDIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. ALEGAÇÃO DE PAGAMENTO EFETUADO EM DATA ANTERIOR À SENTENÇA DE MÉRITO. IMPOSSIBILIDADE. EXEGESE DO ART. 741, VI, DO CPC. PRECEDENTES. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É inadmissível o recurso especial quando não ventilada, na decisão recorrida, a questão federal suscitada. Incidência da Súmula 282/STF.
+2. Na execução contra a Fazenda Pública, os embargos poderão versar sobre qualquer causa impeditiva, modificativa ou extintiva da obrigação, a exemplo de pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença (art. 741, VI, do CPC). Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.183.296/CE, Quinta Turma, Rel. Min. JORGE MUSSI, DJe 9/10/2014)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. AUXÍLIO-ACIDENTE. COMPENSAÇÃO. EXCESSO DE EXECUÇÃO. IMPOSSIBILIDADE. COISA JULGADA. OBSERVÂNCIA.
+1. Em sede de embargos à execução, não há falar em compensação dos valores recebidos a título de auxílio-doença e auxílio-acidente se não houve essa previsão no título judicial, tendo em conta o instituto da coisa julgada.
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1302703/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2011, DJe 28/11/2011)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
