@@ -1,0 +1,22 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE POSSE ILEGAL DE ARMA DE FOGO. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE INEXISTÊNCIA DO MANDADO DE BUSCA E APREENSÃO NO QUAL SE AMPARARAM OS POLICIAIS PARA A REALIZAÇÃO DO FLAGRANTE. QUESTÃO CONTROVERSA. IMPOSSIBILIDADE DE PROFUNDO EXAME DE PROVAS. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido.
+DECISÃO
+Pretendendo o trancamento da ação penal instaurada contra [NOME] pela suposta prática do crime previsto no art. 12 da Lei n. 10.826/2003 (Autos n. 0000476-52.2015.8.24.0104), com a alegação de nulidade da busca feita pela autoridade policial no domicílio do recorrente, porquanto não haveria prova da existência do respectivo mandado judicial, impetrou-se habeas corpus na origem.
+O Tribunal de Justiça de Santa Catarina denegou a ordem no HC n. 4000519-05.2016.8.24.0000 nos termos da seguinte ementa (fl. 105):
+HABEAS CORPUS - CRIME DE POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO (LEI N. 10.826/2003, ART. 12) - PLEITO DE TRANCAMENTO DA AÇÃO PENAL COM ESCOPO NA ILEGALIDADE DO FLAGRANTE - AUSÊNCIA DE MANDADO DE BUSCA E APREENSÃO - PLAUSIBILIDADE DA TESE DEFENSIVA QUE NÃO DISPENSA DISSOLUÇÃO DA CONTROVÉRSIA DURANTE A INSTRUÇÃO PROCESSUAL - MENÇÃO DOS AGENTES PÚBLICOS ACERCA DA EXISTÊNCIA DO DOCUMENTO - PRESUNÇÃO DE VERACIDADE DAS DECLARAÇÕES FIRMADAS PELA AUTORIDADE POLICIAL - CIRCUNSTÂNCIAS QUE, EM PRINCÍPIO, DEMONSTRAM A LEGALIDADE DA DILIGÊNCIA - PROVA DA MATERIALIDADE E PRESENÇA DE INDÍCIOS SUFICIENTES DE AUTORIA - EXISTÊNCIA DE LASTRO PROBATÓRIO MÍNIMO CAPAZ DE DAR AZO À ACUSAÇÃO - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA.
+Com a mesma pretensão, foi interposto este feito, no qual se reitera a tese de que os policiais justificaram a entrada no domicílio do ora recorrente e o subsequente flagrante no cumprimento a um inexistente mandado de busca e apreensão (fl. 122).
+Argumenta-se que a versão dos policiais desfruta de presunção de veracidade, porém tal presunção não é absoluta, e, não havendo notícia do aludido Mandado de Busca e Apreensão, seja nos autos ou seja em qualquer outro local, apelar-se para a sua existência para assim dar guarida a ação policial abusiva é algo que assombra por atentar contra princípios básicos do Direito (fl. 124).
+Opinou o Ministério Público Federal pelo desprovimento do recurso, conforme parecer assim resumido (fl. 149):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE ILEGALIDADE DA PRISÃO EM FLAGRANTE. AÇÃO POLICIAL EMBASADA EM MANDADO DE BUSCA E APREENSÃO SUPOSTAMENTE INEXISTENTE. AUSÊNCIA DE PROVA PRECONSTITUÍDA NESTE SENTIDO. DEPOIMENTO POLICIAL QUE CONTA COM PRESUNÇÃO DE VERACIDADE. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+Estou de pleno acordo com a manifestação do Procurador Regional da República (4ª Região) no exercício da função de Subprocurador-Geral da República [NOME], a qual acolho por seus próprios fundamentos (fls. 150/151 - grifo nosso):
+ ..
+O recurso é próprio e tempestivo, porém não merece êxito. É que a via eleita reclama prova pré-constituída apta a justificar a concessão da ordem, destinada a obstar eventual ilegalidade. No caso subexamine os policiais afirmaram, no depoimento prestado por ocasião do flagrante, que este ocorreu durante o cumprimento de mandado de busca e apreensão.
+Esta afirmação, prestada por servidor público, conta com presunção de veracidade, que não foi desconstituída por meio da presente via eleita, que emergiu desprovida de prova pré-constituída.
+Ademais, sem ter acesso aos autos originários, não há como afirmar se o mandado de busca e apreensão foi ou não expedido.
+Diante do exposto, manifesta-se o Ministério Público Federal pelo desprovimento do recurso.
+Realmente, é inviável a esta Corte Superior se aprofundar no exame do acervo fático-probatório para, afastando a presunção de veracidade de que gozam as palavras dos policiais - os quais afirmaram expressamente estarem participando do cumprimento de Mandado de Busca e Apreensão (fls. 25/26) -, concluir que o referido mandado judicial, na verdade, nunca foi expedido.
+Trata-se de questão que deve ser dirimida na origem, suscitando-se ao Juízo a quo esclarecimentos acerca do mandado de busca em referência, sobretudo quanto aos motivos de, em caso de efetiva expedição, não constar o referido documento dos autos da ação penal em análise.
+Ante o exposto, acolhendo o parecer, nego provimento ao recurso em habeas corpus.
+Publique-se.
