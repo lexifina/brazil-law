@@ -1,0 +1,38 @@
+DECISÃO
+ Trata-se de agravo interposto por RÁDIO E TELEVISÃO BANDEIRANTES S/A contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado:
+Embargos declaratórios. Equívoco material consistente em não levar em conta que, para a fixação da multa a título de perdas e danos era de 50% do valor da remuneração ao tempo do inadimplemento. Cláusulas 8.1.b e 5.1. Raciocínio jurídico correto da r. sentença e do v. acórdão, mas com equívoco por não considerar que o valor da remuneração não era de R$ 80.000,00, mas de R$ 40.000,00 (50%). Daí que o valor da multa é de R$ 960.000,00 e não de R$ 1.920.000,00. Acolhimento dos embargos para tanto, alterando-se o resultado para parcial provimento ao recurso dos réus e julgamento de parcial procedência da ação.
+Sucumbência mínima da ré frente aos pedidos que não altera a sucumbência estabelecida na r. sentença.
+Embargos de declaração rejeitados (e-STJ, fls. 757-759).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 10 e 1.022 do Código de Processo Civil de 2015.
+Sustenta que a decisão dos embargos declaratórios atacaram o mérito da discussão, interpretando cláusulas contratuais, uma vez que inexistentes os vícios descritos no art. 1.022 do CPC/2015.
+Deseja o restabelecimento do acórdão que, ao manter a sentença, julgou procedente o pedido de pagar à ora recorrente "o valor constante da multa contratual, estipulada no item 8.1, "e", do contrato firmado entre as partes, no valor de R$ 1.920.000,00," (e-STJ, fl. 499).
+Contrarrazões apresentadas (e-STJ, fls. 775-785).
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+Da análise dos autos, verifica-se que discussão descrita no art. 10 do CPC/2015 não foi objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração, o que impossibilita o julgamento do recurso nesse aspecto por ausência do necessário prequestionamento, nos termos da Súmula nº 211, do STJ.
+Deveria a parte nas razões do seu especial, alegar a ofensa ao art. 535 do CPC/73, a fim de viabilizar ao Superior Tribunal de Justiça a apreciação de suposto vício de omissão em que tenha incidido o acórdão embargado local, o que não ocorreu.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73.  ..  AUSÊNCIA DE PREQUESTIONAMENTO. OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO, SEM MANIFESTAÇÃO DO TRIBUNAL A QUO. SÚMULA Nº 211 DO STJ. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Esta Corte admite o prequestionamento implícito dos artigos tidos por violados, mas desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem.
+3. Ausência de alegação de violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp 748.582/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10.05.2016, DJe 13.05.2016 - grifo nosso).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.  ..  QUESTÕES NÃO DISCUTIDAS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AFERIÇÃO DA TEMPESTIVIDADE DOS EMBARGOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O conteúdo normativo de todas as normas apontadas como violadas não foi debatido pelo Tribunal de origem, carecendo, no ponto, do imprescindível requisito do prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Dessa forma, mesmo tendo sido opostos embargos de declaração, estes não tiveram o condão de suprir o devido prequestionamento, razão pela qual deveria a parte, no recurso especial, ter suscitado a violação ao art. 535, II, do Código de Processo Civil, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Inafastável, nesse particular, a Súmula n. 211 desta Corte.
+ ..
+3. Agravo improvido.
+(AgRg nos EDcl no AREsp 740.572/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10.05.2016, DJe 19.05.2016 - grifo nosso).
+Relativamente à pertinência dos embargos declaratórios, acolhidos com efeitos infringentes para sanar erro material no cálculo da multa, o acórdão recorrido fundamentou nos seguintes termos:
+A correção do raciocínio se vê da própria inicial em que a embargada pretendia receber R$ 2.400.000,00, valor obtido da multiplicação de R$ 100.000,00 por 24 meses. O montante não foi acolhido porque o valor do contrato era de R$ 80.000,00 e a multiplicação resultava em R$ 1.920.000,00, total que foi adotado pela r. sentença e v. acórdão, mas sem levar em conta, como deveriam, que a cláusula 8.1.b. era clara no sentido de que a multa era de 50% do valor do contrato à data do inadimplemento.
+Impõe-se, pois, a correção do equívoco na conta feita para apuração do valor da multa mínima, já que a r. sentença e o v. acórdão não levaram em conta que o valor a multiplicar pelo número de meses do contrato era 50% dos R$ 80.000,00 equivalentes à remuneração à data do inadimplemento. O valor base para a multiplicação não era R$ 80.000,00, mas R$ 40.000,00.
+O acolhimento dos embargos é para declarar que o valor da multa prefixada no item 8.1.b no contrato é de R$ 960.000,00 e não de R$ 1.920.000,00, mantido, no mais, o v. acórdão embargado. Com isso, o resultado do recurso fica sendo de parcial provimento ao apelo da ré para estabelecer que o valor da multa é R$ 960.000,00, o que é mínimo no confronto com os demais pedidos e justifica a manutenção da sucumbência imposta na r. sentença. (grifo nosso)
+A meu ver, a Corte de origem manteve o raciocínio jurídico externado na sentença, limitando-se, no julgamento dos embargos declaratórios, a corrigir erro material verificado no cálculo da multa compensatória.
+Ao assim proceder, agiu em obediência ao disposto no art. 1.022 do CPC/2015. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. RESPONSABILIDADE DA SEGURADORA. VÍCIOS DE CONSTRUÇÃO ([NOME]). AMEAÇA DE DESMORONAMENTO. CONHECIMENTO APÓS A EXTINÇÃO DO CONTRATO. BOA-FÉ OBJETIVA PÓS-CONTRATUAL. PRECEDENTES DO STJ. INTEGRATIVO ACOLHIDO. EFEITOS INFRINGENTES.
+1. Aplicabilidade do NCPC ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta egrégia Corte Superior já proclamou que os embargos de declaração constituem a via adequada para sanar omissões, contradições, obscuridades ou erros materiais do decisório embargado, admitida a atribuição de efeitos infringentes apenas quando esses vícios sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado (EDcl no AgRg no EREsp nº 747.702/PR, Rel. Ministro MASSAMI UYEDA, Corte Especial , DJe de 20/9/2012). É o caso.
+3. Embargos de declaração acolhidos, com efeitos infringentes. (sem grifos no original)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
