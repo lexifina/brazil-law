@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. AÇÃO ORDINÁRIA. ILEGALIDADE DA RETENÇÃO DE PAGAMENTOS DE VALORES CONTRATUAIS. ALEGADA OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO NÃO DEMONSTRADAS. RETENÇÃO DE VALORES CONTRATUAIS. REGULARIDADE BASEADA NA ANÁLISE DO CONJUNTO PROBATÓRIO E DA INTERPRETAÇÃO DAS CLÁUSULAS DO CONTRATO ENTABULADO ENTRE AS PARTES. ENTENDIMENTO DIVERSO. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por JSL LOCADORA DE VEICULOS LTDA - ME contra decisão do Tribunal de Justiça do Estado de Sergipe que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado (fls. 585-586, e-STJ):
+APELAÇÃO CÍVEL AÇÃO ORDINÁRIA - PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL - REJEITADA MÉRITO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS LOCAÇÃO DE VEÍCULOS LEVES E CAMIONETAS - SOCIEDADE DE ECONOMIA MISTA - CONTRATAÇÕES REGIDAS PELA LEI 9.478/1997 E DECRETO
+2.745/1998 - DESCUMPRIMENTO DO CONTRATO E RESCISÃO POR CULPA DA EMPRESA CONTRATADA - RETENÇÃO DO RELATÓRIO DE MEDIÇÃO CLÁUSULA CONTRATUAL VÁLIDA INEXISTÊNCIA DE ATO ILÍCITO - IMPROCEDÊNCIA DO PLEITO INICIAL
+- RECURSO CONHECIDO E IMPROVIDO.
+- No caso concreto, inexistindo comprovação de quitação dos débitos previdenciários e trabalhistas apurados na fiscalização da execução do objeto contratual, a retenção do relatório de medição é medida contratual cuja aplicação se impõe, com o objetivo de resguardar os direitos de terceiros (empregados), o que revela nítido atendimento à função social do contrato, bem como de prevenir eventual responsabilização perante o INSS, Ministério do Trabalho e Fisco, em decorrência de obrigações que pertencem à Empresa contratada.
+Nas razões do recurso especial (fls. 663-678, e-STJ), a recorrente apontou, além da existência de dissídio jurisprudencial, violação dos seguintes dispositivos normativos: arts. 11, 489, inciso II, parágrafo 1º, incisos I, III, IV e VI, 927, inciso V, e 1.022, inciso II, parágrafo único, inciso II, todos do CPC/2015; e o item 7.3 do Decreto nº 2.745/1998, sustentando, em síntese: a) a existência de omissão no julgado recorrido ao não apresentar, o Tribunal de origem, as teses jurídicas potencialmente influentes e sobre elas se posicionar a respeito; e b) ser ilegal a retenção de pagamento por serviços já realizados, notadamente por configurar enriquecimento sem causa por parte do ente estatal, de maneira que requereu a condenação da demandada, a fim de condená-la à liberação do último pagamento da prestação dos serviços da recorrente, bem como na indenização pelos danos materiais e morais oriundos do ilícito praticado.
+Contrarrazões ofertadas às fls. 716-737, e-STJ.
+Em decisão monocrática (fls. 740-744, e-STJ), a Corte de origem indeferiu o processamento do apelo nobre ao considerar que não foi demonstrada a alegada vulneração ao art. 1.022, inciso II, do CPC/2015 e ao art. 489, inciso II, § 1º, III e IV, ambos do CPC/2015, e aplicação do óbice da Súmula 7/STJ.
+Nas razões do agravo em recurso especial (fls. 749-759, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentação no sentido de superar os impedimentos acima indicados.
+Sem contraminuta (fl. 762, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à alegada afronta aos arts. 11, 489, inciso II, parágrafo 1º, incisos I, III, IV e VI, 927, inciso V, e 1.022, inciso II, parágrafo único, inciso II, todos do CPC/2015, sem razão a recorrente.
+Isto porque, conforme a jurisprudência desta Corte, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação aos referidos dispositivos da legislação processual.
+A propósito, o julgado a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018)
+No mérito, o Tribunal de origem, com base na análise do conjunto fático-probatório carreado aos autos, bem como no exame do contrato entabulado entre as partes, concluiu pela regularidade do direito à retenção por parte da empresa demandada do valor necessário à quitação da Guia do FGTS, e da Previdência Social, consoante se observa nos seguintes trechos do acórdão recorrido (fls. 591-592, e-STJ):
+Feitas essas considerações, após uma análise minuciosa do caderno processual, observo que a Autora não logrou êxito em comprovar o fato constitutivo do seu direito à indenização pleiteada.
+O contrato sob análise impõe, em sua Cláusula 2.3.7, a obrigação da Empresa contratada de apresentar a quitação da Guia de Recolhimento do FGTS e da Guia da Previdência Social, sob pena de retenção do Relatório de Medição, verbis:
+2.3.7 - Fornecer, sob pena de ser retido o Relatório de Medição - RM, cópia autenticada da Guia de Recolhimento do Fundo de Garantia por Tempo de Serviço e Informações à Previdência Social completa e quitada, referente a este Contrato e seu respectivo comprovante de entrega, nos termos da legislação vigente.
+A Apelada encaminhou diversos comunicados à Empresa apelante indicando as pendências que precisavam ser regularizadas no decorrer da execução contratual, informando que para que houvesse a liberação da medição correspondente ao último mês docontrato (26.09 a 25.10.2012), deveria ser comprovado o cumprimento das obrigações trabalhistas e previdenciárias, tal como previsto no contrato.
+Bastava que a Empresa demandante comprovasse o adimplemento das obrigações que lhe competiam,
+porém, assim não procedeu, preferindo alegar genericamente a abusividade da cláusula contratual transcrita acima,
+invocando a displina da Lei de Licitações, que, consoante já demonstrado, não se aplica ao caso concreto.
+A documentação adunada aos autos comprova à exaustão o descumprimento da ora Apelante no decorrer da execução do contrato, tanto pela demora no início da prestação do serviço, como na conduta desidiosa em apresentar as certidões fiscais e previdenciárias.
+De outro lado, não se pode exigir da Apelada outra atitude que não a de resguardar os direitos de terceiros (empregados), o que revela nítido atendimento ã função social do contrato, bem como de prevenir eventual responsabilização perante o INSS, Ministério do Trabalho e Fisco por obrigações que são precipuamente da Empresa contratada.
+Como é notório, constitui dever da Empresa contratada salvaguardar a tomadora dos serviços de quaisquer ônus ou ações originadas por ação ou omissão da primeira ou de suas subcontratadas. Assim, inexistindo comprovação de quitação dos débitos previdenciários e trabalhistas apurados na fiscalização da execução do objeto contratual, a suspensão do pagamento da medição é medida contratual cuja aplicação se impõe.
+Logo, diante das provas apresentadas, verifico que não houve ilicitude na retenção do Relatório de Medição, não se configurando dever de indenizar da Apelada, a qualquer título.
+Nesse contexto, para aferir as alegações da recorrente e afastar as premissas firmadas pelo Tribunal de origem, a fim de acolher a tese de ilegalidade da retenção de valores contratuais levada a efeito pela ora recorrida, seria necessário o revolvimento do conteúdo-fático probatório dos autos, assim como um reexame das cláusulas do contrato firmado entre os litigantes, procedimento vedado na via especial, ante os óbices das Súmulas 5 e 7 desta Corte Superior.
+A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONTRATO DE COMODATO POR TEMPO INDETERMINADO. REEXAME DE CLÁUSULA CONTRATUAL E CONJUNTO PROBATÓRIO. ÓBICE SÚMULAS 5 E 7 DESTA CORTE. AGRAVO IMPROVIDO.
+I - A respeito da análise de cláusula de renúncia das benfeitorias em favor do comodante, bem como quanto ao exercício do direito de retenção, a análise por esta Corte encontra óbice nas Súmulas 5 e 7 deste Tribunal.
+Agravo improvido. (AgRg no Ag 798.385/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 21/10/2008, DJe 05/11/2008)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Considerando o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários de sucumbência fixados na origem (fl. 484, e-STJ) para R$ 3.000 (três mil reais).
+Intimem-se.
