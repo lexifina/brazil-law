@@ -1,0 +1,53 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. INDENIZAÇÃO SECURITÁRIA. INVALIDEZ PERMANENTE. RAZÕES RECURSAIS GENÉRICAS. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. IRRISORIEDADE. MAJORAÇÃO. POSSIBILIDADE.
+1. Deficiente a fundamentação do recurso especial quando ausente a indicação adequada da questão federal controvertida, atraindo o óbice da Súmula 284 do STF
+2. O valor fixado pelas instâncias ordinárias, a título de honorários advocatícios, somente pode ser alterado se for excessivo ou irrisório, em razão do óbice do enunciado n.º 7/STJ.
+3. Na linha dos precedentes do Superior Tribunal de Justiça, considera-se irrisória a verba honorária fixada em menos de 1% sobre o valor da causa ou do proveito econômico perseguido no feito, admitindo-se, nesses casos, a revisão desse valor em sede de recurso especial.
+4. RECURSO ESPECIAL DA SEGURADORA NÃO CONHECIDO E RECURSO ESPECIAL DA SEGURADA PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recursos especial e recurso especial adesivo interpostos, respectivamente, por MAPFRE VERA CRUZ VIDA E PREVIDÊNCIA S/A e [NOME], contra acórdão proferido pelo Tribunal de Justiça de Goiás nos autos dos embargos à execução em que contende as partes.
+Esta a ementa do acórdão recorrido (fls. 716/776):
+DUPLO APELO CÍVEL. AGRAVO RETIDO. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. I - A indenização referente ao seguro de vida e acidentes pessoais, não se constitui em direito personalissimo da vítima, sendo plenamente transmissível aos seus sucessores, razão por que, ajuizada a demanda de cobrança pelo titular originário do direito, o seu superveniente falecimento legitima sua substituição pelos respectivos sucessores. II - O destinatário da prova no processo é o magistrado e, nos termos do artigo 130 do Código de Processo Civil, compete a ele, de oficio ou a requerimento da parte, determinar as provas necessárias á Instrução do processo, indeferindo as inúteis ou meramente protelatórias. III - A preliminar relativa a suposta nulidade da execução, em razão de ausência de titulo hábil a embasar a presente Ação Executiva, ventilada no presente recurso, já foi apreciada pelo juízo a quo, tendo, inclusive sido interposto recurso em face de tal decisão, o qual não foi conhecido. IV - A par da dicção legal, a jurisprudência pacifica do Superior Tribunal de Justiça é no sentido de que a denunciação da lide somente se torna obrigatória quando a omissão da parte implicar em perda do seu direito de regresso, hipótese não retratada no artigo 70, Inciso III, do CPC, na qual tal direito permanece incólume. V - À embargante/apelante, incumbe o ônus de comprovar o fato constitutivo do seu direito, nos termos do artigo 333, inciso I, do Código de Processo Civil. Não se desincumbindo do ônus da prova em comprovar a suposta fraude securitária, o julgamento de improcedência de seu pedido é medida que se impõe. VI - A má-fé da segurada há de estar inequivocamente comprovada para autorizar a conclusão no sentido de ter ela agido com malícia e dissimulação para influir na aceitação da avença, porquanto a má-fé não pode ser presumida. VII - Considerando que os documentos acostados pela parte exequente na Ação de Execução de Titulo Executivo Extrajudicial são capazes de comprovar, de forma suficiente, a existência do contrato de seguro, as coberturas contratadas e a incapacidade total permanente da mão esquerda da segurada, há de se reconhecer o direito da segurada ao pagamento do prêmio. VIII - Inversão dos ônus de sucumbência. Uma vez reformada a sentença e consagrando-se a 1ª apelante/embargada vencedora, forçoso inverter os ônus de sucumbência. para recair, exclusivamente sobre a parte vencida, ora, 1ª apelada. PRIMEIRO APELO CONHECIDO E PROVIDO. AGRAVO RETIDO E SEGUNDO APELO CONHECIDOS, MAS IMPROVIDOS.16
+Opostos embargos de declaração, foram acolhidos para aclarar que a indenização deverá ser corrigida monetariamente pelo INPC desde a recusa administrativa (fls. 853/861).
+Em seu recurso especial (fls. 865/874), com fundamento no art. 105, III, "a", do permissivo constitucional (fls. 865/874), a recorrente, MAPFRE VERA CRUZ E PREVIDÊNCIA S/A, alegou violação ao artigo 1º, §§1º e 2º, da Lei n.º 6.899/81.
+O recurso especial da seguradora foi admitido às fls. 925/928.
+[NOME], por sua vez, interpôs recurso especial adesivo com fundamento nas alíneas "a" e "c", da Constituição Federal, alegando ofensa aos artigos 20, §3º do CPC/1973, uma vez que a verba honorária fixada (R$800,00) representa menos de 0,1% do valor da causa (fls. 885/903)
+Postularam o provimento.
+Contrarrazões apresentadas apenas pela seguradora às fls. 910/915 e 957/962.
+Em decisão de fls. 979/981, acolhi o agravo interposto por [NOME], determinando a sua reautuação como recurso especial.
+É o relatório.
+Passo a decidir.
+Inicialmente, registro que o acórdão recorrido foi publicado antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo STJ 2/2016.
+Ato contínuo, passo à análise do recurso especial interposto por MAPFRE VERA CRUZ VIDA E PREVIDÊNCIA S/A.
+O conhecimento da irresignação recursal encontra óbice no enunciado n.º 284/STF, verbis: "É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Ante o exposto, não conheço do recurso especial".
+Efetivamente, mostram-se insuficienes as razões recursais quanto à alegação de violação ao artigo 1º, §§1º e 2º, da Lei n.º 6.899/81 , ao tempo em que a recorrente não demonstrou de que forma referido dispositivo legal foi contrariado pelo Tribunal a quo, limitando-se a transcrever a sua redação e excerto do acórdão recorrido, sem idicar, de forma clara e precisa, de que forma ocorrera a sustentada violação.
+Segundo vem reiteradamente decidindo esta Corte Superior de Justiça, o recurso especial interposto com fundamento na alínea "a" do permissivo constitucional pressupõe a demonstração clara e precisa da forma pela qual o Tribunal a quo teria contrariado a norma federal indicada como violada. Deve-se cotejar, ainda,  o conteúdo preceituado na norma e os argumentos deduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal , de modo que  a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial  (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 15/09/2017).
+Por outro lado, melhor sorte assiste à recorrente [NOME].
+A orientação jurisprudencial desta Corte é firme no sentido de que, em regra, a revisão dos critérios adotados pelo julgador na fixação dos honorários advocatícios é inviável em sede especial, pois demanda reexame do conjunto fático-probatório dos autos.
+ Entretanto, tal entendimento não é absoluto, sendo possível a alteração dos honorários quando estabelecidos de forma exorbitante ou irrisória, conforme se depreende dos seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REGULARIDADE DA INTIMAÇÃO. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. HONORÁRIOS ADVOCATÍCIOS IRRISÓRIOS. MAJORAÇÃO. POSSIBILIDADE. DECISÃO MANTIDA.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. No caso dos autos, o Tribunal de origem arbitrou os honorários
+advocatícios em valor irrisório, sendo necessária sua majoração, a fim de remunerar adequadamente o advogado.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1504830/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 20/11/2018);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM 0,1% DO VALOR DA CAUSA, COM BASE NO ART. 20, § 4º, DO CPC/1973. VALOR IRRISÓRIO.
+1. O magistrado, utilizando como critério a equidade, deve arbitrar os honorários advocatícios observando o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+2. Trabalho desenvolvido ao longo de quase 22 anos. Percentual de 0, 1% sobre o valor da causa que se revela flagrantemente irrisório. Reversão ao percentual de 5% fixado na sentença em processo apenso.
+3. Agravo interno provido, para acolher o recurso especial.
+(AgInt no AREsp 958633/DF, Rel. Ministro LAZARO GUIMARÃES, QUARTA TURMA, DJe 27/09/2018);
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. SÚMULA 7/STJ. IRRISORIEDADE.
+1. A alteração do valor fixado a título de honorários advocatícios
+somente é possível, em recurso especial, nas hipóteses em que a
+quantia estipulada pelo Tribunal de origem revela-se irrisória ou
+exagerada.
+2. São irrisórios os honorários advocatícios fixados em patamar
+inferior a 1% sobre o valor da causa. Precedentes.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1177501/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 12/04/2018).
+In casu, da confrontação do valor da causa (R$482.511,05) com aquele arbitrado a títulos de honorários advocatícios (R$800,00), constata-se, inequivocamente, a irrisoriedade da verba honorária, pois o montante fixado é inferior a 1% do valor da causa, razão pela qual comporta revisão.
+Trata-se, ademais, de demanda que tramita desde o ano de 2007, sendo certo que a pretensão autoral na ação de execução foi integralmente alcançada com a reforma da sentença dos embargos à execução em grau de apelação, de forma que a recorrida foi condenada ao pagamento de 60% sobre o valor total da cobertura securitária, valor que à época da propositura da demanda correspondia a R$360.000,00.
+Destarte, levando em consideração as peculiaridades do caso concreto, em especial a natureza da lide, o grau de zelo do profissional, além dos demais parâmetros dispostos nas alíneas do § 3º do art. 20 do CPC/1973, entendo que o valor referente aos honorários advocatícios devidos deve ser elevado para R$80.000,00 (oitenta mil reais).
+Ante o exposto, não conheço do recurso especial de MAPFRE VERA CRUZ VIDA E PREVIDÊNCIA S/A e dou provimento ao recurso especial de [NOME] para redimensionar a verba honorária para R$80.000,00.
+Intimem-se.
