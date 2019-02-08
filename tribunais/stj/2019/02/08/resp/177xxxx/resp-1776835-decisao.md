@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Apelação cível. Revisional de contrato. Empréstimo pessoal. Tarifa de cadastro. Legalidade. Juros abusivos. Inexistência. A tarifa de cadastro quando contratada é válida e somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira. Não há que se falar em abusividade na taxa mensal de juros quando observada a taxa média divulgada pelo BACEN para operações da espécie.
+Alega-se violação dos artigos 1.022 e 489 do Código de Processo Civil, além de dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso e que é admissível a revisão de contrato bancário na hipótese de abusividade de suas cláusulas.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso e nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao mais, esta Corte tem, de fato, entendimento de que é possível revisar contratos bancários quando houver abusividade em suas cláusulas, o que se diz especialmente em razão da irresignação deduzida no recurso especial, acerca da juros remuneratórios, os quais não podem exorbitar da média de mercado.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. DEMONSTRAÇÃO CABAL DO ABUSO. NECESSIDADE. TAXA DE ABERTURA DE CRÉDITO (TAC). TAXA DE EMISSÃO DE CARNÊ (TEC). EXPRESSA PREVISÃO CONTRATUAL. COBRANÇA. LEGITIMIDADE. MORA CONFIGURADA.
+1. "A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, a conclusão de abusividade, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras" (AgRg nos EDcl no Ag 1322378/RN, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 1.8.2011).
+2. "As tarifas de abertura de crédito (TAC) e emissão de carnê (TEC), por não estarem encartadas nas vedações previstas na legislação regente (Resoluções 2.303/1996 e 3.518/2007 do CMN), e ostentarem natureza de remuneração pelo serviço prestado pela instituição financeira ao consumidor, quando efetivamente contratadas, consubstanciam cobranças legítimas, sendo certo que somente com a demonstração cabal de vantagem exagerada por parte do agente financeiro é que podem ser consideradas ilegais e abusivas, o que não ocorreu no caso presente" (REsp 1.246.622/RS, Rel. Ministro Luís Felipe Salomão, Quarta Turma, unânime, DJe de 16.11.2011).
+3. O reconhecimento da cobrança indevida dos encargos exigidos no período da normalidade contratual descarateriza a mora do devedor. Na hipótese dos autos, contudo, os encargos discutidos em Juízo para o período da adimplência são regulares, resultando que a cobrança, sob esse aspecto, faz-se sobre valores realmente devidos, não havendo motivo para afastar tais consectários, que também estão harmônicos com os parâmetros admitidos pelo STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1309365/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/8/2012, DJe 13/8/2012)
+No caso dos autos, todavia, o Tribunal local consignou que "taxa mensal de juros no contrato de n. 0503000035146 (fls. 15/17-e) é 22,00%, e no contrato de n. 050300033806 (fls. 20/22-e), 14,50%.
+Não obstante, em consulta ao sítio eletrônico do Banco Central do Brasil, constatei que a média dos juros para empréstimo pessoal não consignado à época da celebração do contrato, era 20,33% ao mês e 821,03% ao ano" (e-STJ, fls. 257/258).
+É, todavia, por ser média que não se deve reputá-la limítrofe para a aferição da abusividade. A cláusula abusiva, no que concerne à taxa de juros remuneratórios, é entendida como aquela que supera desarrazoadamente a média do mercado e não simplesmente a que dela se afasta.
+Não se vislumbra, pois, a alegada abusividade.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
