@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 83):
+AÇÃO MONITÓRIA. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. Mora "ex re". Correção monetária e juros de mora que são devidos a partir do vencimento de obrigação assumida no contrato. Aplicação do art. 397, do CC. Precedentes da jurisprudência. Juros moratórios de 1% ao mês que foram fixados no contrato. Inteligência do artigo 406, do CC. Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 240 do Código de Processo Civil de 2015, aduzindo que os juros de mora devem incidir somente após a citação do recorrente na ação originária, momento em que foi constituída a mora, e não a partir do descumprimento contratual.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+Observo que o conteúdo normativo do art. 240 do CPC/2015 não foi objeto de exame pela Corte de origem, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a esse aspecto, de modo que é inviável a análise dos dispositivos legais indicados no recurso especial, pois ausente o requisito do prequestionamento. Incidem, na espécie, portanto, os óbices previstos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+Ademais, verifica-se que o acórdão recorrido decidiu a controvérsia mediante a seguinte fundamentação (e-STJ, fl. 84):
+Com efeito, a dívida cobrada pela autora consistente em prestação de serviços educacionais vencidos e não pagos entre os meses de fevereiro e outubro de 2013.
+Sendo assim, o instrumento contratual se mostrava claro quanto ao termo de vencimento, de modo que os juros moratórios e a correção monetária devem ser contados a partir do momento em que a obrigação se venceu, pois a hipótese é de mora ex re, que se dá pelo não pagamento do valor ajustado em contrato no tempo, lugar e forma convencionados, conforme dispõe o artigo 397 do Código Civil.
+Tal fundamento, autônomo e suficiente à manutenção do julgado, não foi infirmado nas razões do recurso especial, atraindo à espécie, portanto, a incidência do verbete da Súmula 283 do Supremo Tribunal Federal.
+Por fim, a título de reforço argumentativo, ressalto que o entendimento adotado no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, no sentido de que "os juros moratórios nas obrigações positivas e líquidas (mora ex re) fluem a partir do vencimento da obrigação. Incidência da Súmula 83/STJ" (AgInt no AgRg no REsp 1.153.050/AC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/11/2018, DJe 4/12/2018).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do mesmo artigo, bem como as disposições legais referentes à gratuidade de justiça.
+Intimem-se.
