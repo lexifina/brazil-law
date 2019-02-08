@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, relator Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; e AgInt no AREsp 933.131/SP, relator Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ e na ausência de demonstração do dissídio jurisprudencial.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando no mencionado óbice sumular.
+De fato, o Tribunal de origem, ao manter a sentença de improcedência, destacou a impossibilidade de converter o auxílio-doença em aposentadoria por invalidez, por ter constatado que a incapacidade é temporária e parcial, in verbis (e-STJ fls. 164/165):
+Pois bem, conforme revela a perícia médica juntada aos autos, a autora encontra-se incapacitada de forma temporária para o trabalho.
+Nesse sentido, assim concluiu o perito:
+"Incapacidade total temporária física e laboral.
+Existe nexo causal do quadro clínico apresentado com as atividades laborais.
+Necessita de reabilitação profissional, realizado através do tratamento proposto pelo médico assistente. (..)".
+Posteriormente, quando das respostas aos quesitos formulados, o expert afirmou que a autora apresenta lesão em menisco de joelho direito, cuja sequela lhe acarreta incapacidade laborai temporária, com prognóstico de recuperação em seis meses, havendo necessidade de reabilitação profissional.
+Logo, sendo temporária e parcial a incapacidade laborativa da segurada, mostra-se inviável a conversão do benefício auxílio-doença em aposentadoria por invalidez, na medida em que não foram preenchidos os requisitos elencados no art. 42 da lei de benefícios. E nesse mesmo sentido são os documentos anexados aos autos, porquanto em nada se referem acerca da incapacidade total e permanente da autora, conforme alega na inicial.
+A revisão dessa conclusão demandaria o reexame do material fático-probatório dos autos, providência inviável em sede de recurso especial, diante do óbice da Súmula 7 do STJ.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA CAPACIDADE DO SEGURADO. O BENEFÍCIO EXIGE A COMPROVAÇÃO DA INCAPACIDADE TOTAL DEFINITIVA DO SEGURADO, O QUE NÃO FICOU DEMONSTRADO NA HIPÓTESE DOS AUTOS. REQUISITOS PARA CONCESSÃO DA APOSENTADORIA NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO. AGRAVO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, com base no conjunto fático-probatório dos autos, especialmente o laudo pericial produzido em juízo, concluiu que o Segurado possui capacidade laboral, uma vez que as patologias que apresenta não tem repercussões clínicas capazes de gerar incapacidade laboral total e permanente, não preenchendo, assim, os requisitos legais para a concessão do benefício.
+2. Ao contrário do que sustenta o recorrente, o fato de ser portador de SIDA, não garante o automático reconhecimento de sua incapacidade total, isto porque o fato gerador do benefício não é a doença e sim a comprovação do estado de incapacidade, o que não ficou demonstrado nos autos.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 550.168/MS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/09/2018, DJe 27/09/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. FIXAÇÃO DO TERMO INICIAL DO BENEFICIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem fixou as datas de início dos benefícios de auxílio-doença e aposentadoria por invalidez concedidos à agravante com base nos marcos em que comprovado o preenchimento dos requisitos legais para tanto. Rever o entendimento consignado, portanto, requer revolvimento do conjunto fático-probatório dos autos, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp 1662267/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/04/2018, DJe 17/04/2018).
+Registro, por oportuno, que o marco inicial de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do atual Codex Processual. Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Isenção das custas e verbas de sucumbência na forma do parágrafo único do art. 129 da Lei n. 8.213/1991.
+Publique-se. Intimem-se.
