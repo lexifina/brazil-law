@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. TETO REMUNERATÓRIO. BASE DE CÁLCULO DO 1/3 DE FÉRIAS. EMENDA CONSTITUCIONAL N. 41/2003: EFICÁCIA IMEDIATA. PRECEDENTE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “Trata-se de ação ordinária, ajuizada pelo SINDICATO DOS FISCAIS DE RENDAS DO ESTADO DO RIO DE JANEIRO — SINFRERJ em favor dos auditores fiscais desse Estado. Alega que a emenda constitucional n° 41 introduziu o limite máximo para remuneração dos servidores públicos dos três poderes, sendo que os auditores da receita estadual são submetidos à redução salarial, tendo como teto o subsídio do Chefe do Poder Executivo estadual. Assevera que as férias e seu adicional de 1/3 (um terço) são definidos como verba de caráter indenizatório, não compondo a remuneração dos servidores. Diante de tal fato, requer a concessão da tutela antecipada para que o réu use como base de cálculo do adicional de 1/3 (um terço) de férias dos fiscais, a remuneração bruta de cada um, sem a dedução do limite remuneratório, por se tratar de verba indenizatória. Por fim, pleiteia o pagamento das diferenças devidas, devidamente atualizadas. (...)
+    Por fim, tampouco merece prosperar o agravo interno do autor, SIFRERJ, que pretende que o Estado utilize como base de cálculo o adicional de 1/3 (um terço) de férias de seus associados a remuneração bruta de cada um sem a dedução do teto remuneratório, pagando as diferenças, devidas.
+    Salienta que se trata de verba indenizatória, sendo descabido desconto.
+    De fato, consoante os documentos, anexados aos autos, é possível verificar que são efetuados descontos nos vencimentos dos associados do 1º apelante a título de excedentes ao teto, em respeito Emenda Constitucional n° 41/03.
+    Ocorre que, o entendimento do autor, vai de encontro ao limite remuneratório máximo, previsto no art. 37, XI, da CF/88, com a redação dada pela Emenda Constitucional n°41/2003, in verbis: (…)
+    Assim, a base de cálculo para a concessão do adicional de 1/3 de férias do servidor é exclusivamente aquele que está em consonância com o teto remuneratório, estabelecido na Constituição da República.
+    Vale destacar que, apesar da natureza indenizatória do valor, percebido a título de adicional de 1/3 sobre as férias, sua base de cálculo sofre limitação pelo redutor constitucional.
+    Assim, o adicional de férias de 1/3 é calculado sobre a remuneração líquida, deduzido o corte, efetuado em virtude do teto.
+    Como se vê, os argumentos, trazidos em nada alteram as razões constantes da decisão monocrática, que se mantém por seus próprios fundamentos.
+    Por todo o exposto, voto no sentido de ser conhecido o agravo interno e, no mérito, ser negado provimento ao recurso” (vol. 12).
+    2. O recorrente alega contrariados o inc. XVII do art. 7º, o § 11º do art. 37, o § 2º do art. 39, o caput do art. 40, o inc. IV do art. 150 e o § 5º do art. 195 da Constituição da República.
+    Sustenta que “as verbas indenizatórias não podem sofrer as deduções e/ou reduções impostas às verbas de caráter remuneratório.
+    Ocorre que o Estado do Rio de Janeiro, para fins de cálculo do adicional de férias usa como base o valor da remuneração do servidor depois da incidência do teto remuneratório, ou seja, o adicional de 1/3 dos auditores fiscais é calculado sobre o valor da remuneração do Governador, e não sobre remuneração normal.
+    Esta prática representa uma perda pecuniária significativa para os associados do Sindicato Recorrente.
+    Oportuno registrar, que o Recorrente não se insurge contra a incidência do teto remuneratório incidente no salário de seus associados.
+    O que se almeja é definir como base de cálculo do adicional de 1/3 de férias a remuneração normal dos associados do Sindicato Recorrente, como preconizado na Constituição Federal e Estadual.
+    Ora, a norma constitucional em seu artigo 37, parágrafo 11 é taxativa e autoriza a não submissão ao teto das verbas indenizatórias. Assim sendo, o adicional de férias não deve sofrer limitações, e sua base de cálculo deve ser a remuneração normal do servidor” (fls. 10-11, vol. 17).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao recorrente.
+    4. O Tribunal de origem assentou que “a base de cálculo para a concessão do adicional de 1/3 de férias do servidor é exclusivamente aquele que está em consonância com o teto remuneratório, estabelecido na Constituição da República”.
+    Este Supremo Tribunal, no julgamento do Recurso Extraordinário n. 609.381 (Tema n. 480 da repercussão geral), firmou entendimento pelo qual se assentou que “o teto de retribuição estabelecido pela Emenda Constitucional 41/03 possui eficácia imediata, submetendo às referências de valor máximo nele discriminadas todas as verbas de natureza remuneratória percebidas pelos servidores públicos da União, Estados, Distrito Federal e Municípios, ainda que adquiridas de acordo com regime legal anterior” (RE n. 609.381, Relator o Ministro Teori Zavascki, Plenário, DJe 11.12.2014).
+    Confira-se trecho do voto do Relator:
+    De fato, na linha daquilo que já havia sido observado pelo Min. Cezar Peluso no voto proferido no MS 24.875, o preceito constitucional do teto de retribuição possui comando normativo claro e eficiente, que veda o pagamento de excessos, ainda que adquiridos após a promulgação da Constituição Federal de 1988. Assim, mesmo que a norma do art. 9º da EC 41/03 venha a ser invalidada, a mensagem enunciada pela Constituição será a mesma. Vale dizer: os excessos que transbordam o valor do teto são inconstitucionais, e não escapam ao comando redutor estabelecido pelo art. 37, XI, da CF”.
+    Inadmissível seria a percepção de adicional de terço de férias por servidores públicos calculado com base em remuneração considerada inconstitucional, ou seja, que excedam o limite do teto remuneratório previsto no inc. XI do art. 37 da Constituição da República.
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal. Nada há a prover quanto às alegações do agravante.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual somado ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil/2015, com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
