@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCOS D"ARAUJO VILAÇA LOBO contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fls. 473/491):
+AGRAVO INTERNO. TRIBUTÁRIO. PROCESSUAL CIVIL. PIS E COFINS. COMERCIANTE VAREJISTA DE COMBUSTÍVEIS. AUSÊNCIA DE ARGUMENTOS A JUSTIFICAR A REFORMA DA DECISÃO AGRAVADA.
+I - Imperativo consignar que deseja a agravante, na verdade, modificar a decisão, ora impugnada, que manteve a sentença que julgou improcedente o pedido deduzido nos autos de ação ordinária, objetivando a condenação da ré a restituir à autora valores excessivos pagos a título de PIS e COFINS, em função do regime de substituição tributária estipulado pela Lei nº 9.718/98, mediante processo de anulação ou estorno das parce- las vincendas dos mesmos tributos, bem como a efetivação deste procedimento através de "nota fiscal de ressarcimento" e o acréscimo de juros ao montante devido, conforme a Taxa SELIC.
+II- Entendo que a decisão atacada não merece reparo, uma vez que o agravante não trouxe argumento que alterasse o quadro descrito acima.
+III- Agravo interno improvido
+A parte recorrente alega violação do art. 166 do CTN ao argumento de não ser ele aplicável à situação em estudo, uma vez que o COFINS trata de tributo direto, e a sistemática de substituição tributária progressiva a ele aplicada impossibilita o repasse do encargo financeiro do tributo ao consumidor final (e-STJ fls. 496/503).
+A recorrente também interpôs recurso extraordinário (e-STJ fls. 506/524), sobrestado na origem, para aguardar o julgamento do Tema 228 STF (e-STJ fl. 579).
+Passo a decidir.
+A questão objeto do apelo extremo interposto na origem, em que se questiona a possibilidade de se repetir o montante recolhido a maior à título de COFINS sobre combustíveis em regime de substituição tributária quando o valor da operação é menor que a base de cálculo do tributo recolhido, é similar aquela discutida no Tema 228 do STF, para os quais o STF tem determinado o sobrestamento dos recursos.
+Ainda, verifico que os temas aguardam julgamento colegiado.
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem, para que se aguarde o julgamento dos extraordinários com repercussão geral admitida e seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
