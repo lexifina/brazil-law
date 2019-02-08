@@ -1,0 +1,21 @@
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto por Alisson Ferreira de Morais, no qual aponta-se como autoridade coatora a 13ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo - TJSP.
+    A defesa alega, em suma, que
+    “[o] ora Paciente, em grau de Recurso de Apelação, foi alterado para o Semiaberto para o cumprimento da pena e determinado a expedição do Mandado de Prisão e dessa feita, cognoscível de ser vergastado o Venerando Acórdão” (pág. 5 da petição inicial).
+    Argumenta, nesse sentido, que “[a] simples gravidade do suposto delito, não é parâmetro para a imposição do regime mais rigoroso para o cumprimento da pena” (pág. 12 da petição inicial).
+    Sustenta, ainda, que
+    “a ação penal, alcançou a Prescrição Retroativa, artigo 107, inciso IV, 1ª parte C/C com o artigo 109, inciso V, todos do Código Penal, a qual é matéria de ordem pública e pode ser reconhecida em qualquer grau de jurisdição. Denúncia recebida na data de 04/10/2010, Respeitável Sentença, e-STJ, folha 12, final. Trânsito em Julgado em 24/09/2015, conforme Certidão do Trânsito em Julgado, E-SAJ, folha 346” (pág. 6 da petição inicial).
+    Requer, ao final:
+    “[...] a) Se vencidas as preliminares arguidas, protesta a defesa pela expedição do competente Contramandado de Prisão, em favor de Alisson Ferreira de Morais proporcionando o Regime Aberto para o cumprimento do restante da pena e na remotíssima hipótese do não acolhimento do que foi vindicado, pela Prisão Domiciliar, artigo 318, inciso VI, do Código de Processo Penal (CPP) e se ao tempo do julgamento deste ‘writ’, o Paciente for levado preso, pela determinação da expedição do competente Alvará de Soltura Clausulado, ou, até mesmo a teor do artigo 654, § 2, do CPP, para o Paciente responder aos atos processuais em liberdade, com o compromisso de comparecer em juízo, sempre que intimado;
+    b) Se for ouvida a Autoridade Coatora, de ser pelo meio tecnológico mais célere possível, ou seja, Malote Digital, a teor da RES 100, do CNJ, de 19/11/2009, sendo que para quem está com o ‘status libertatis’ privado, um dia a mais, é uma eternidade, com a observância do artigo 655 e 662, do Código de Processo Penal (CPP);
+    c) Intimação do (a) Ilustre Subprocurador (a) da República, para opinar no feito e em caso excepcional, com fundamento no Decreto-Lei 552/1969, ‘caput’” (págs. 23-24 da petição inicial).
+    É o relatório. Decido.
+    Os elementos trazidos na petição inicial indicam que a autoridade coatora seria a 13ª Câmara Criminal do TJSP, o que afasta a competência deste Supremo Tribunal Federal para processar e julgar o presente habeas corpus, haja vista que elas não figuram no taxativo rol do art. 102, I, i, da Constituição Federal.
+    Ademais, quanto ao pleito de declaração da prescrição retroativa, com base no art. 107, IV combinado com o art. 109, V, todos do Código Penal, este também não merece prosperar.
+    O paciente foi definitivamente condenado a uma pena de 01 (um) ano, 03 (três) meses e 16 (dezesseis) dias de reclusão, por infração ao art. 33, caput, da Lei 11.343/06; e 02 (dois) anos de reclusão, pelo delito de corrupção ativa, o que atrai o lapso prescricional de 4 anos (art. 109, V, do CP). E a simples leitura dos autos revela que não transcorreu prazo superior a 4 anos entre os diversos marcos interruptivos da prescrição (art. 117 do CPP).
+    No caso de que se trata, o lapso de 4 anos não transcorreu: (i) entre a data dos fatos (22/12/2009) e a data do recebimento da denúncia (4/5/2010); (ii) entre o recebimento da denúncia e a data em que publicada, em cartório, a sentença condenatória recorrível (6/3/2012); e (iii) entre essa última data e o trânsito em julgado da condenação (24/9/2015).
+    Por outro lado, entendo que o acórdão confirmatório da condenação, que apenas ajustou as penas impostas, não tem o condão de excluir a sentença condenatória como marco interruptivo da prescrição, nos exatos termos do art. 117, IV, do Código Penal.
+    Isso posto, nego seguimento ao presente recurso (art. 21, § 1º, RISTF). Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
