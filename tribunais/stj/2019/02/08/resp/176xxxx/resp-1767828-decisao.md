@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 230/231):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. NÃO-OCORRÊNCIA. PRESCRIÇÃO. AÇÃO CIVIL PÚBLICA. RENDA MENSAL INICIAL. RECUPERAÇÃO DOS EXCESSOS DESPREZADOS NA ELEVAÇÃO DO TETO DAS ECS 20 E 41. BENEFÍCIOS CONCEDIDOS ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. HONORÁRIOS. CONSECTÁRIOS LEGAIS.
+1. A decadência prevista no art. 103 da Lei 8.213/91, atinge tão somente a pretensão à revisão do ato de concessão do benefício propriamente dito. A revisão dos critérios de reajuste da renda mensal, em face das alterações promovidas pelas Emendas Constitucionais 20/1998 e 41/2003 não configura revisão do ato de concessão, não atraindo a incidência do art. 103 da Lei de Benefícios.
+2. A citação do INSS na Ação Civil Pública nº 0004911-28.2011.4.03.6183, ajuizada perante a Justiça Federal de São Paulo, constitui causa interruptiva do prazo prescricional para a propositura da ação individual, conforme entendimento reiterado do Superior Tribunal de Justiça (REsp 1.428.194).
+3. Em relação ao pagamento de parcelas vencidas, a prescrição qüinqüenal tem como marco inicial o ajuizamento da ação individual (Aglnt no REsp 1.642.625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12-6-2017).
+4. O Pleno do STF, por ocasião do julgamento do RE nº 564.354, no dia 08 de setembro de 2010, reafirmou o entendimento manifestado no Ag. Reg. no RE nº 499.091-1/SC, decidindo que a incidência do novo teto fixado pela EC nº 20/98 não representa aplicação retroativa do disposto no artigo 14 daquela Emenda Constitucional, nem aumento ou reajuste, apenas readequação dos valores percebidos ao novo teto. Idêntico raciocínio deve prevalecer no que diz respeito à elevação promovida no teto pela EC nº 41/2003.
+5. O Supremo Tribunal Federal pacificou o entendimento de que também se aplica aos benefícios concedidos anteriormente à Constituição Federal de 1988 os efeitos do julgamento do RE 564.354, relativo aos tetos das ECs 20/98 e 41/2003. Precedentes.
+6. Honorários advocatícios fixados, nesta sede, em 10% sobre o valor das parcelas vencidas até a prolação desta decisão, nos termos da Súmula 76 do TRF4, considerando as variáveis dos incisos I a IV do § 2o do artigo 85 do CPC.
+7. O INSS é isento do pagamento de custas processuais quando demandado no Foro Federal (art. 4o, I, da Lei nº 9.289/96). Contudo, essa isenção não se aplica quando se tratar de demanda ajuizada perante a Justiça Estadual do Paraná (Súmula 20 do TRF4).
+8. Consectários legais fixados nos termos do decidido pelo STF (Tema 810) e pelo STJ (Tema 905).
+Aponta o recorrente violação aos arts. 21, 23 e 25 do Decreto 89.312/84, 40 do Decreto 82.080/79, 6º da LICC e 29, § 2º, da Lei 8.213/91, sustentando, que não se aplicam os tetos constitucionais estabelecidos pelas Ecs 20/98 e 41/03 a benefícios concedidos em momento anterior à Constituição Federal de 1988.
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Isso porque, a tese de que não seriam aplicáveis os tetos constitucionais ao caso concreto, a irresignação também não prospera, pois, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em recurso especial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
