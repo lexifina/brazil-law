@@ -1,0 +1,66 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. IMPUGNAÇÃO À PENHORA. BEM DE FAMÍLIA. OFENSA A ARTIGO CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. VIOLAÇÃO DO ART. 489 DO NCPC. INOCORRÊNCIA. CONSTITUIÇÃO DA PARTE EXEQUENTE EM REGIME DE CONDOMÍNIO. MATRÍCULA DO IMÓVEL. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento interposto que deu origem a este recurso, pode-se inferir que CONDOMÍNIO CHÁCARA DE CAMPO VERDE (CONDOMÍNIO) propôs ação de cobrança contra [NOME] (MARCOS), visando ao recebimento de taxas condominiais vencidas e não pagas.
+Em primeira instância, foram julgados parcialmente procedentes os pedidos, condenando MARCOS ao pagamento do valor de R$ 28.877,76 (vinte e oito mil, oitocentos e setenta e sete reais e setenta e seis centavos), corrigido desde a propositura da ação e acrescido de juros moratórios legais de 1% ao mês, a partir da citação. Em razão da sucumbência recíproca, cada parte foi condenada ao pagamento de metade das custas processuais, compensando-se os honorários nos termos da Súmula nº 306 do STJ (e-STJ, fls. 60/63).
+No curso da demanda, em fase de cumprimento de sentença, MARCOS apresentou impugnação à penhora, a qual foi rejeitada sob o fundamento de que a regra da impenhorabilidade do bem de família não é absoluta, comportando exceções, como a do art. 3º, IV, da Lei nº 8.009/90, que dispõe que a regra não prevalece quando se tratar de cobrança de impostos, predial ou territorial, taxas e contribuições em função do imóvel familiar (e-STJ, fl. 52).
+Essa decisão interlocutória foi desafiada por agravo, na forma de instrumento, no qual MARCOS sustentou (1) ser o único imóvel de sua propriedade, utilizado para fins de moradia, razão pela qual goza da proteção da Lei nº 8.009/90; e, (2) que a dívida cobrada não possui natureza propter rem, por ser a parte exequente associação de moradores e não condomínio (e-STJ, fls. 1/16).
+O Tribunal de origem negou provimento ao recurso de agravo na forma de instrumento de MARCOS, com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - Ação de cobrança - Taxa condominial - Fase de cumprimento de sentença - Penhora realizada sobre o imóvel objeto da lide, caracterizado como bem de família - Cabimento - Situação excepcional prevista no artigo 3º, inciso IV, da Lei nº 8.009/90 - Decisão mantida - Recurso desprovido (e-STJ, fl. 112).
+Irresignado, MARCOS interpôs recurso especial (e-STJ, fls. 117/136), com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 1º, 2º, 3º, IV, VI, 5º, da Lei nº 8.009/90, 489, VI, 926, do NCPC, 65, § 1º, I, da Lei nº 4.591/1964, 3º, I, II, III, IV, 5º, II, XXII, XXXII, XXXV, XXXVI, XLI, LIV, da CF, ao sustentar que (1) a decisão recorrida se mostra sem qualquer embasamento legal; (2) não se trata de taxa vinculada ao imóvel, porque a parte exequente é uma mera associação sem fins lucrativos e não um condomínio. Afirmou, ainda, que não se pode equiparar taxas impositivas de entidades associativas com dívidas de caráter propter rem; e, (3) dissídio jurisprudencial.
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 178/192).
+O Tribunal de Justiça do Estado de São Paulo inadmitiu o apelo nobre diante da (1) ausência de violação do art. 489, § 1º, do NCPC; (2) falta de demonstração da vulneração aos arts. 1º, parágrafo único, 5º, 8º, da Lei nº 8.009/90; (3) incidência da Súmula nº 7 desta Corte; e, (4) falta de demonstração de forma analítica da similitude de situações com soluções jurídicas diversas entre os acórdãos paragonado e paradigmas (e-STJ, fls. 193/194).
+Nas razões do agravo em recurso especial, MARCOS aduziu que (1) a decisão denegatória mostra-se genérica e impeditiva; (2) houve efetiva comprovação da violação legislativa e da divergência jurisprudencial; (3) não se aplica, ao caso, a Súmula nº 7 do STJ; e, (4) reafirmou que a jurisprudência do STJ é uníssona quanto à impenhorabilidade do bem único de família por execuções advindas da cobrança de taxas de associação de moradores (e-STJ, fls. 197/210).
+A contraminuta ao agravo em recurso especial foi apresentada (e-STJ, fls. 217/225).
+Em atendimento ao art. 1.042, § 4º, do NCPC, o Tribunal de Justiça do Estado de São Paulo manteve a decisão agravada (e-STJ, fl. 226).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Anote-se da impossibilidade de análise, na estreita via do recurso especial, da alegada violação dos arts. 3º, I, II, III, IV, 5º, II, XXII, XXXII, XXXV, XXXVI, XLI, LIV, da CF, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. VIOLAÇÃO CONSTITUCIONAL. IMPOSSIBILIDADE. PROGRAMA DE ARRENDAMENTO RESIDENCIAL. INADIMPLEMENTO CONTRATUAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. POSSIBILIDADE.
+ ..
+2. Não cabe ao Superior Tribunal de Justiça intervir em matéria de competência do STF, sob pena de violar a rígida distribuição de competência recursal disposta na Carta Magna.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 723.323/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 22/9/2015, DJe 25/9/2015).
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO NÃO PROVIDO.
+1. Embargos de declaração opostos com o fito de rediscutir a causa já devidamente decidida. Nítido caráter infringente. Ausência de contradição, omissão ou obscuridade. Inexistência de qualquer hipótese inserta no art. 535 do CPC.
+2. Não cabe a análise de afronta a matéria constitucional, ainda que com intuito de prequestionamento.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa prevista no art. 557, § 2º, do CPC.
+(EDcl no AREsp 550.307/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 6/11/2014, DJe 11/11/2014)
+No mais, a irresignação não comporta acolhimento.
+(1) Da alegada ofensa ao art. 489 do NCPC
+MARCOS alegou que o acórdão recorrido se encontra desprovido de fundamentação, em afronta ao art. 489 do NCPC.
+Não merece prosperar o recurso neste ponto, considerando que os fundamentos adotados bastam para justificar a decisão. A matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcrito:
+De acordo com a matrícula copiada a fls. 76/78 dos autos de origem, verifica-se que a agravada foi constituída em regime de condomínio, nos termos da Lei nº 4.591/64. O título executivo judicial, por sua vez, reconheceu a natureza condominial da recorrida e, por essa razão, condenou o agravante a pagar-lhe as taxas condominiais inadimplidas (cf. fls. 60/62). Verifica-se, pois, que o imóvel pertencente ao recorrente não se enquadra nas hipóteses de impenhorabilidade tratadas na lei que protege o bem de família. Pelo contrário, por se tratar, na origem, de cobrança de dívida decorrente de taxas vinculadas ao próprio imóvel, a penhora do bem é autorizada, tal como, acertadamente, determinou o juízo a quo. Consigne-se, por fim, que mera certidão da prefeitura municipal reconhecendo como condomínio apenas a parte reservada ao clube instalado nas dependências da agravada não ilide a matrícula oficial que contempla todas as informações atinentes à sua constituição e personalidade jurídica. De rigor, portanto, a manutenção da decisão agravada por seus próprios fundamentos (e-STJ, fls. 113/114 - sem destaques no original).
+Pelo que se vê dos autos, não há que se falar em ofensa ao art. 489 do NCPC.
+(2) Da natureza jurídica da parte recorrida
+O Tribunal a quo manteve a sentença, sob o fundamento de que a parte recorrida foi constituída em regime de condomínio, de modo que o imóvel de MARCOS não se enquadra nas hipóteses de impenhorabilidade previstas na Lei nº 8.009/90, nos seguintes termos:
+De acordo com a matrícula copiada a fls. 76/78 dos autos de origem, verifica-se que a agravada foi constituída em regime de condomínio, nos termos da Lei nº 4.591/64. O título executivo judicial, por sua vez, reconheceu a natureza condominial da recorrida e, por essa razão, condenou o agravante a pagar-lhe as taxas condominiais inadimplidas (cf. fls. 60/62). Verifica-se, pois, que o imóvel pertencente ao recorrente não se enquadra nas hipóteses de impenhorabilidade tratadas na lei que protege o bem de família. Pelo contrário, por se tratar, na origem, de cobrança de dívida decorrente de taxas vinculadas ao próprio imóvel, a penhora do bem é autorizada, tal como, acertadamente, determinou o juízo a quo. Consigne-se, por fim, que mera certidão da prefeitura municipal reconhecendo como condomínio apenas a parte reservada ao clube instalado nas dependências da agravada não ilide a matrícula oficial que contempla todas as informações atinentes à sua constituição e personalidade jurídica. De rigor, portanto, a manutenção da decisão agravada por seus próprios fundamentos (e-STJ, fls. 113/114 - sem destaques no original).
+Por seu turno, MARCOS, nas razões do recurso especial, alegou, em suma, que não foi constatada a existência de condomínio regularmente existente, sendo a parte recorrida uma mera associação sem fins lucrativos, visando a locupletar-se. Daí porque, trata-se de dívida de caráter pessoal e não obrigação propter rem.
+Ou seja, nada mencionou acerca da natureza condominial da parte exequente constante da matrícula do imóvel.
+De forma que, sem impugnar especificamente os fundamentos do acórdão recorrido, incide, à espécie, a Súmula nº 283 do STF.
+A propósito, vejam-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+AGRAVO INTERNO NO ESPECIAL. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO - ACC. NATUREZA EXTRACONCURSAL. ART. 49, §4º, DA LEI Nº 11.101/2005. SÚMULA Nº 83/STJ. TRANSCURSO DO PRAZO DE SUSPENSÃO. PLANO HOMOLOGADO. FUNDAMENTOS. SÚMULA Nº 283/STF.DECISÃO MANTIDA.
+ ..
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal - Súmula nº 283/STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1.258.939/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 14/3/2017, DJe 20/3/2017 - sem destaque no original)
+ (3) Da divergência jurisprudencial
+O dissídio jurisprudencial não pode ser conhecido porque não realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029, § 1º, do NCPC (541, caput, parágrafo único, do CPC/73) e 255, §§ 1º e 3º, do RISTJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. NATUREZA COMUM DOS DOCUMENTOS. INDICAÇÃO DA AÇÃO PRINCIPAL A SER PROPOSTA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO IMPROVIDO.
+ ..
+3. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 822.008/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 8/3/2016, DJe 28/3/2016)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios, porquanto não fixados na origem.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
