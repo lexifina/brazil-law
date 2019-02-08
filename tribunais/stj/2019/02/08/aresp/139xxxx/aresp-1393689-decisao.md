@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+NULIDADE DE NEGÓCIO JURÍDICO C.C. REPARAÇÃO POR DANOS MATERIAIS MORAIS - Improcedência do pedido - Inconformismo - Acolhimento parcial - Alienação realizada por quem não é proprietário - Configuração de venda a non domino - Nulidade absoluta - Precedente do Colendo Superior Tribunal de Justiça - Necessidade de restituição do montante pago - Ausência de violação aos direitos de personalidade - Lesão de cunho meramente patrimonial - Inexistência de dano moral suscetível de indenização - Sentença reformada - Recurso parcialmente provido.
+Nas razões do especial, a parte recorrente alegou violação dos arts. 206, § 3º, I, do Código Civil; 166 e 489 do Código de Processo Civil. Sustentou ausência de fundamentação do julgado recorrido. Afirmou que "a prescrição a ser aplicada no presente caso, deve ser aquela prevista no artigo 206 do Código Civil" (fl. 115). Apontou que "as provas produzidas nos autos, demonstram não tratar-se de venda "non domini", ou seja, mas sim de transferência de direitos possessórios. Também não há nenhuma comprovação de ter a RECORRIDA perdido efetiva a posse do imóvel" (fl. 128).
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+No tocante às alegações de ofensa ao art. 489 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016.
+Observo que o Tribunal de origem não decidiu acerca do art. 206 do Código Civil, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 282/STF.
+Com efeito, a Corte local, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (fl. 106, e-STJ):
+Em verdade, restou configurada a venda a non domino, pois a ré não era a proprietária do imóvel e não tinha a autorização dos verdadeiros donos para aliená-lo, sendo impossível a transferência de titularidade do imóvel.
+(..).
+Conforme se verifica do trecho acima, o Colegiado estadual concluiu que a parte ré não era a proprietária do imóvel e não tinha a autorização dos verdadeiros donos para aliená-lo, sendo impossível a transferência de titularidade do imóvel por quem não era seu legítimo dono. Dessa forma, a revisão deste entendimento demandaria a análise do conjunto fático disposto nos autos, o que não é viável, diante da incidência do veto da Súmula n. 7 do STJ.
+Guardados os devidos contornos fáticos próprios de cada caso, veja-se o seguinte julgado:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. INDIRETA. DOAÇÃO. ENCARGO. DESCUMPRIMENTO. REVOGAÇÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO. VENDA DE COISA ALHEIA (A NON DOMINO).
+INEXISTÊNCIA. SÚMULAS 7 E 211 DO STJ.
+1. A Corte de origem resolveu a matéria com base no contexto fático dos autos, reconhecendo que, em processo diverso, houve revogação da doação por descumprimento do encargo somente sobre as áreas ainda sob domínio da União. A pretensão de revogação quanto às áreas adquiridas pelo Município teria sido alcançada pela prescrição.
+2. Reverter esse entendimento demandaria reexame direto de provas, o que é vedado em recurso especial, conforme a Súmula 7/STJ. Além disso, por tais circunstâncias, os dispositivos tidos como violados, relativos à venda de coisa alheia (a non domino), não foram objeto de decisão na instância ordinária, incorrendo a pretensão recursal no óbice da Súmula 211/STJ.
+3. Recurso especial não conhecido.
+(REsp 1291672/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/04/2018, DJe 09/04/2018.)
+A incidência, novamente, da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
