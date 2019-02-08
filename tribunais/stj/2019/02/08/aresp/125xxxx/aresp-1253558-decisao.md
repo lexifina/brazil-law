@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FINANCIAMENTO HABITACIONAL. SEGURO. PRESCRIÇÃO. TERMO INICIAL DO PRAZO. DATA EM QUE O SEGURADO TEVE CIÊNCIA INEQUÍVOCA DA INVALIDEZ PERMANENTE.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] em face da decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+SFH. COBERTURA SECURITÁRIA. INVALIDEZ PERMANENTE. CONTRATO DE MÚTUO. PRESCRIÇÃO. ART. 206, §1º, INCISO II, "B", DO CÓDIGO CIVIL/2002.
+1. Lide na qual se requer a cobertura do saldo devedor em razão de invalidez permanente do mutuário. Apelação interposta contra sentença que reconheceu a prescrição da pretensão da parte autora de pleitear a cobertura securitária do financiamento habitacional objeto da lide e rejeitou os pedidos de quitação do referido contrato e de ressarcimento de valores. A Juíza de primeiro grau entendeu pela aplicação do prazo anual previsto no art. 206, §1º, II, "b", do Código Civil/2002 (antigo art. 178, §6º, II, do Código Civil/1916).
+2. Trata-se de contrato de compra e venda e mútuo com alienação fiduciária em garantia no âmbito do SFH. Durante a vigência do contrato firmado entre as partes está prevista a cobertura do saldo devedor do financiamento imobiliário em caso de morte e invalidez permanente do devedor, nos termos das cláusulas vigésima e vigésima primeira.
+3. Hipótese em que não se discute a invalidez permanente do apelante, e sim o prazo prescricional aplicável, bem como seu termo inicial.
+4. O entendimento mais atual do STJ é no sentido de aplicação do prazo prescricional ânuo, previsto no art. 178, §6º, inciso II, do Código Civil de 1916, bem como no art. 206, §1º, II, alínea "b", do Código Civil de 2002 nas demandas ajuizadas pelo mutuário em face da seguradora, para cobertura do sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do SFH (precedente do STJ: REsp 871893/RS da relatoria da Ministra Maria Isabel Gallotti, Segunda Seção, DJe de 21/05/2012).
+5. Quanto ao termo inicial do prazo prescricional, tal prazo se conta do fato gerador da pretensão, conforme expressamente previsto na alínea "b" do inciso II do §1º do art. 206 do Código Civil de 2002. No caso dos autos, a contagem do prazo prescricional inicia-se quando do reconhecimento da invalidez permanente do apelante perante o órgão previdenciário estadual do Espírito Santo, em 11/02/2010, com a concessão do benefício de aposentadoria por invalidez.
+6. Apelação conhecida e desprovida.
+Em suas razões recursais, a parte recorrente, requerendo o afastamento da prescrição, alega violação aos arts. 727, 189 e 206, § 1º, II, b, do Código Civil, bem como divergência jurisprudencial.
+Aduz, que o v. acórdão combatido também deu interpretação equivocado ao art. 206, 1§º, "b" do CC/02, porquanto considerou como "fato gerador da pretensão" a concessão do benefício de aposentadoria e não a data de negativa da cobertura.( e- STJ Fls. 231)
+É o relatório.
+Passo a decidir.
+Não merece acolhida a irresignação recursal.
+A jurisprudência do STJ é no sentido de que a prescrição da pretensão de cobrança da indenização securitária em caso de sinistro coberto pelo seguro obrigatório contratado é de um ano, nos termos do art. 178, §6º, do CC/16 e 206, §1º, do CC/02, conforme os seguintes julgados:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FINANCIAMENTO HABITACIONAL. SEGURO. PRESCRIÇÃO. TERMO INICIAL DO PRAZO. DATA EM QUE O SEGURADO TEVE CIÊNCIA INEQUÍVOCA DA INVALIDEZ PERMANENTE. SÚMULA 278/STJ.
+1. É de um ano o prazo para o exercício da pretensão de cobrança da indenização contratada no seguro obrigatório habitacional. Precedentes.
+2. "O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral" (Súmula 278/STJ).
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 579.630/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/11/2014, DJe 09/12/2014)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. MUTUÁRIO. INVALIDEZ PERMANENTE. SEGURO. PRESCRIÇÃO ANUAL. TERMO INICIAL. CIÊNCIA INEQUÍVOCA.
+1. Na hipótese de contrato de mútuo habitacional firmado no âmbito do Sistema Financeiro Habitacional (SFH), é ânuo o prazo prescricional da pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional obrigatório. Precedentes. (AgRg nos EDcl no REsp 1507380/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 08/09/2015, DJe 18/09/2015)
+Ademais, nos termos das Súmulas n. 229 e 278 desta Corte, o cômputo do prazo ânuo começa a correr da data em que o segurado teve ciência inequívoca da incapacidade laboral, permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização.
+Com efeito, o Tribunal de Justiça a quo manteve a decisão de primeiro grau que reconhecera a ocorrência da prescrição da pretensão autoral sob os seguintes fundamentos (e- STJ Fls. 220):
+Assim, indiscutível, no caso dos autos, a aplicação do prazo prescricional ânuo previsto no art. 206, §1º, inciso II, "b", do atual Código Civil, bem como a condição de segurado do mutuário. Quanto ao termo a quo do prazo prescricional, observa-se que se conta tal prazo do fato gerador da pretensão, conforme expressamente previsto na alínea "b" do inciso II do §1º do art. 206 do Código Civil de 2002. No caso dos autos, a contagem do prazo prescricional inicia-se quando do reconhecimento de sua invalidez permanente perante o órgão previdenciário estadual do Espírito Santo, em 11/02/2010, com a concessão do benefício de aposentadoria por invalidez (fl. 47).
+Portanto, correta a sentença que reconheceu o decurso do prazo prescricional, tendo em vista a data de ajuizamento da presente demanda em 02/09/2015 (cf. termo de autuação de fl. 72) e a data do ato de concessão da aposentadoria por invalidez (11/02/2010 - fl. 47).
+Destarte, inviável a pretensão do recorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado administrativo n. 7/STJ), fixo os honorários recursais em R$ 2200,00 (dois mil e duzentos reais), em atenção ao que dispõe o artigo 85, § 11, do Novo Código, ressalvada a concessão do benefício da gratuidade de justiça concedido na origem.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
