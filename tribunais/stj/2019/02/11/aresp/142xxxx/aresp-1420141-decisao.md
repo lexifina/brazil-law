@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. CONFLITO ENTRE LEGISLAÇÃO LOCAL E LEI COMPLEMENTAR FEDERAL. MATÉRIA CONSTITUCIONAL. SÚMULA Nº 280 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manejado pela FAZENDA DO ESTADO DE SÃO PAULO em face de decisão que negou admissibilidade ao recurso especial por entender que os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido que contém fundamentação adequada, tampouco teria ficado evidenciado o suposto maltrato à norma legal enunciada, e que rever a posição da Turma Julgadora importaria em reexame de elementos fáticos, bem como na análise de direito local, incidindo, respectivamente, as Súmulas nº 7 do Superior Tribunal de Justiça e nº 280 do Supremo Tribunal Federal.
+A agravante insurge-se contra a decisão agravada alegando, em síntese, a não incidência das Súmulas nº 7 do STJ, eis que não se discute matéria probatória, e da Súmula nº 280 do STF, tendo em vista que a discussão gira em torno da legislação federal (arts. 35, I, 38 e 148 do CTN, arts. 1º, 6º, §5º e 10 da Lei 12.016/09), e não da legislação local.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece conhecimento.
+Da análise do acórdão recorrido, verifica-se que a controvérsia foi resolvida sob o argumento de que o Decreto Estadual nº 46.655, de 1º de abril de 2002, com a redação do Decreto nº 55.002, de 09 de novem bro de 2009, modificou a base de cálculo do ITCMD em violação aos arts. 97, II, § 1º, do CTN, no que tange ao princípio da legalidade tributária, e que as exceções a essa regra somente poderiam ser veiculadas em lei complementar, consoante o disposto no art. 146, III, "a", da Constituição Federal.
+Inicialmente, registro que o acórdão recorrido não proferiu juízo de valor a cerca dos arts. 35, I, 38 e 148 do CTN, arts. 1º, 6º, §5º e 10 da Lei 12.016/09, e não houve oposição de embargos de declaração na origem, o que impossibilita o conhecimento da irresignação no ponto, haja vista a incidência da Súmula nº 282 do STF, in verbis: "É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Quanto ao mais, melhor sorte não assiste à recorrente.
+É que a análise de conflito entre a legislação local em face de lei complementar federal é questão de cunho constitucional, cuja competência cabe ao Supremo Tribunal Federal no âmbito do recurso extraordinário, o que impossibilita o conhecimento do recurso especial no ponto, sobretudo em razão da incidência da Súmula nº 280 do STF, in verbis:"Por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
