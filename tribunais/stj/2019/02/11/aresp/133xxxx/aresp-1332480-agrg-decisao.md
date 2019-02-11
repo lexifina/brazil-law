@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra decisão da Presidência deste Sodalício, que não conheceu do agravo em recurso especial, ante o óbice da Súmula n. 182/STJ.
+Consta dos autos que o agravante foi condenado à pena de 1 ano de detenção, a ser cumprida no regime aberto, mais pagamento de 10 dias-multa, como incurso no artigo 12 da Lei 10.826/03.
+Inconformada a defesa apresentou recurso de apelação perante a Corte de origem, a qual lhe negou provimento.
+Foi interposto o apelo nobre com fulcro no permissivo constitucional, argumentando a defesa que a condenação seria nula, pois obtida mediante a violação do domicílio do acusado.
+Em juízo prévio de admissibilidade, o recurso foi inadmitido, o que deu ensejo à interposição do respectivo agravo, no qual a defesa sustentou que os óbices indicados na decisão agravada não incidiriam na hipótese dos autos.
+Por decisão da Presidência deste Sodalício, o recurso não foi conhecido, ante o óbice da Súmula n. 182/STJ.
+Daí o presente regimental, no qual a defesa assevera que a decisão deveria ser reconsiderada, pois teria impugnado os fundamentos da decisão de inadmissão na origem, reiterando as razões do apelo nobre apresentado.
+Requer o provimento do recurso para que seja absolvido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+É o relatório.
+Da análise dos autos, verifica-se a existência dos pressupostos necessários ao conhecimento do recurso, devendo-se reconsiderar a decisão de fls. 564/565, nos termos do art. 259, § 6º do RISTJ e passar à nova análise da insurgência.
+Em consulta ao site do Superior Tribunal de Justiça verificou-se a existência da impetração anterior do HC n. 428.110/DF, desta Relatoria, impugnando o mesmo acórdão, relacionado à mesma ação penal, no qual a pretensão defensiva para a anulação do julgamento, em razão de ter sido a prova colhida em violação do domicílio foi afastada por este Superior Tribunal, ficando registrado no mencionado decisum que "extrai-se do aresto impugnado que o paciente possuía e mantinha sob sua guarda, no interior de sua residência, arma de fogo e munições sem autorização e em desacordo com determinação legal (e-STJ fl. 13). Os artefatos foram encontrados durante operação policial denominada "Ganância", ocasião em que policiais cumpriram mandados de busca e apreensão em locais vinculados ao réu e à sua esposa (e-STJ fl. 13). Diante da informação de um novo endereço do increpado, os agentes se dirigiram ao local, e após a autorização de sua mulher, ingressaram no imóvel, tendo ele próprio indicado o lugar exato em que o armamento e as munições se encontravam. Feitos tais esclarecimentos, não se verifica qualquer irregularidade no ingresso dos policiais na residência do paciente, pois, a par de haver no processo a informação de que a sua esposa autorizou o ingresso dos agentes no local, foi acusado de praticar o crime de posse ilegal de arma de fogo nas modalidades possuir e manter sob sua guarda, estando-se diante de ilícito de natureza permanente", circunstância que revela a perda do objeto do presente agravo em recurso especial.
+Ante o exposto, com fundamento no artigo 34, inciso XI, do Regimento Interno deste Superior Tribunal de Justiça, julga-se prejudicado o agravo em recurso especial.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
