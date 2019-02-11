@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência das Súmulas 284/STF e 7/STJ.
+Nas razões recursais, sustenta o agravante violação do art. 157, § 2º, I, do Código Penal, ao argumento de ser necessária a apreensão e perícia da arma, que ateste seu potencial lesivo, para que se configure a majorante do roubo.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+A discussão posta à debate no presente recurso cinge-se ao exame da necessidade ou não de apreensão e consequente perícia da arma utilizada no cometimento do delito, para a configuração do roubo majorado.
+O Tribunal a quo manifestou-se acerca da questão, nos seguintes termos (fls. 235/236):
+O réu permaneceu silente, tanto no inquérito, quanto em juízo (fl. 13 e mídia digital).
+As vítimas, no entanto, reafirmaram fossem mais de seis os agentes envolvidos na empreitada delitiva, confirmando o reconhecimento, bem como a ameaça exercida com emprego de arma de fogo (fls. 9, 10 e mídia digital).
+Por sua vez, os policiais militares reafirmaram as circunstâncias da prisão, oportunidade em que as vítimas apontaram o réu como um dos autores, sendo apenas recuperado o celular da vítima Thayna. O policial militar [NOME], esclareceu que ao indagar o réu, este confessou o roubo, alegando que a arma empregada no crime estava com outro roubador (fls. 7, 8 e mídia digital).
+Cinge-se o pedido defensivo ao pretendido afastamento da majorante referente ao emprego de arma de fogo, do aumento exacerbado na terceira fase de dosimetria, bem como a aplicação do regime inicial semiaberto.
+Pois bem, se as vítimas dizem que os roubadores apresentaram-se armados para a prática da grave ameaça no delito de roubo, é de rigor que se tenha como provado o fato e, de resto, o que de ordinariamente acontece é que, em regra, nesses crimes usam-se armas verdadeiras, com potencial vulnerante, capazes de matar ou ferir. Portanto, essa é a prova possível para a circunstância especial de aumento da pena prevista para o crime.
+Ademais disso, se os roubadores se desfizeram do instrumento de prova, cabia ao apelante o ônus de apresentá-lo para a perícia, se o alega ineficaz como objeto vulnerante. À acusação, se apreendida a arma, caberia a iniciativa da prova técnica que demonstrasse a aptidão para o uso agressivo.
+Contudo, não se pode obrigá-la a realizar perícia se os ladravazes ocultam o objeto da prova. Nessa hipótese, segundo permite o artigo 157 do CPP, o juiz decide acerca dessa circunstância formando "sua convicção pela livre apreciação da prova". Não se restringe a um tipo legal, in casu, unicamente a pericial. Pode valer-se de testemunhos e do depoimento da vítima, para concluir se foi empregue arma na realização do crime.
+Correto, pois, o desfecho condenatório, nos exatos termos em que operada a sentença.
+Conforme se verifica, o acórdão recorrido está em consonância com o entendimento firmado por essa Corte. A Terceira Seção, no julgamento do EREsp n.º 961.863/RS, alinhando-se à jurisprudência do Supremo Tribunal Federal, firmou entendimento de ser prescindível a apreensão e perícia da arma de fogo para a aplicação da causa de aumento prevista no art. 157, § 2.º, I, do Código Penal, desde que comprovada a sua utilização por outros meios de prova. Nesse sentido: HC 342.179/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/12/2015, DJe 02/02/2016, HC 274.279/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/11/2014, DJe 17/11/2014.
+No caso, o Juízo firmou sua convicção com fundamento nos depoimentos das vítimas, que asseguraram que foram abordadas por seis indivíduos, sendo-lhes exibida uma arma de fogo (fl. 177), o que constitui meio hábil de prova. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. APREENSÃO E PERÍCIA DA ARMA DE FOGO. PRESCINDIBILIDADE. USO EVIDENCIADO POR OUTROS MEIOS DE PROVAS.
+1. O entendimento assente na Terceira Seção desta Corte Superior é no sentido da prescindibilidade da apreensão e perícia da arma de fogo para a incidência da majorante no delito de roubo, desde que evidenciada sua utilização por outros meios de provas, tais como a palavra da vítima ou o depoimento de testemunhas, como ocorreu no caso dos autos.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC 430.260/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 26/03/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. EMPREGO DE ARMA. PROVA. APREENSÃO E PERÍCIA DO ARTEFATO. DESNECESSIDADE. PALAVRA DAS VÍTIMAS. CAUSA ESPECIAL DE AUMENTO DE PENA CONFIGURADA. RECURSO IMPROVIDO.
+1. Quanto à incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não ficou comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, por ocasião do julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP) - e relator para o acórdão o Ministro Gilson Dipp - firmou o entendimento de que, para a incidência da causa especial de aumento prevista no inciso I do § 2º do art. 157 do Código Penal, mostra-se prescindível a apreensão e a realização de perícia na arma utilizada na prática do crime de roubo, desde que seja comprovada a sua utilização na prática delituosa por outros meios de prova.
+2. As instâncias ordinárias se apoiaram nos depoimentos das vítimas para concluir pela utilização da arma no crime de roubo, de modo que se mostra devida a incidência da causa especial de aumento de pena, insculpida no art. 157, § 2º, I, do Código Penal.
+3. Restabelecida a causa de aumento de uso de arma de fogo, não há ilegalidade na restauração da sentença de primeiro grau, que havia exasperado a pena em 1/2, na terceira fase da dosimetria, ao apontar dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, o emprego de duas armas de fogo e o concurso de dois agentes - em decisão justificada quanto a tais detalhes.
+4. Agravo regimental não provido.
+(AgRg no REsp 1407791/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2015, DJe 02/02/2016)
+Estando, portanto, o acórdão recorrido em harmonia com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
