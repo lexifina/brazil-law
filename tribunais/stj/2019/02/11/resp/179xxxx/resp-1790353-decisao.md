@@ -1,0 +1,55 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. PLEITO MINISTERIAL DE CONDENAÇÃO. ART. 16, PARÁGRAFO ÚNICO, DA LEI 10.826/2003. PORTE ILEGAL DE MUNIÇÃO DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. ATIPICIDADE DA CONDUTA NÃO EVIDENCIADA. APREENSÃO E PERÍCIA. IRRELEVÂNCIA. DESNECESSIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça estadual.
+Consta dos autos que o recorrido [NOME] foi condenado pelo juízo de primeiro grau como incurso no delito previsto no artigo 180, caput, do Código Penal, c.c. o artigo 16, parágrafo único, inciso IV, do Código Penal, nos termos do art. 69, caput, do Código Penal, à pena 01 (um) ano de reclusão, no regime inicial aberto, mais 10 dias-multa. Houve substituição por uma pena restritiva de direitos (fls. 188-203).
+Irresignada, a Defesa interpôs apelação criminal, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso foi provido, absolvendo o recorrido das imputações previstas na sentença recorrida (fls. 314-335). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. ABSOLVIÇÃO POR AUSÊNCIA DE LAUDO PERICIAL DE EFICIÊNCIA DE ARMA DE FOGO. IMPRESCINDIBILIDADE. Se na hipótese de o laudo pericial reconhecer a falta de aptidão lesiva do instrumento, resulta caracterizada a inexistência de arma e, assim, a necessidade de absolvição do processado, decerto que a não realização de perícia, a fim de se apuração acerca da lesividade do objeto, implica idêntico resultado decisório, qual seja a absolvição do apelante. RECURSO CONHECIDO E PROVIDO, PARA ABSOLVER O APELANTE POR ATIPICIDADE DA CONDUTA E INSUFICIÊNCIA DE PROVA DA LESIVIDADE."
+Nas razões do recurso especial, interposto com fulcro na alínea a do permissivo constitucional o recorrente sustenta violação ao artigo 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, e ao art. 386, inciso III, do Código de Processo Penal. Para tanto, alega que:
+a) " ..  o entendimento firmado por essa Corte Superior, no qual o simples fato de portar a arma ou a munição de uso restrito é suficiente para consumar o delito, independentemente de comprovação da lesividade à incolumidade pública" (fl. 347).
+b) "o fundamento utilizado pelo Tribunal de Justiça de que a não comprovação da potencialidade lesiva da arma implica na absolvição do recorrido por atipicidade da conduta não é compatível com a correta interpretação dada à lei pelo Superior Tribunal de Justiça" (fl. 349).
+Apresentadas as contrarrazões (fls. 357-368), o recurso foi admitido na origem (fls. 370-371) e os autos ascenderam a este Superior Tribunal de Justiça.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo provimento do recurso especial (fl. 382).
+É o relatório.
+Decido.
+Razão assiste ao recorrente.
+Busca-se, no presente reclamo, em síntese, a cassação do acórdão recorrido, no qual houve a absolvição do recorrido [NOME] da imputação do delito previsto no artigo 16, parágrafo único, inciso IV, da Lei n. 10.826/2003.
+Para melhor delimitar a questão, reproduzo trecho do v. acórdão de apelação, no punctum saliens:
+"O tipo penal do artigo 16, parágrafo único, inciso IV, da Lei nº 10.826/03, descreve crime de mera conduta e de perigo abstrato, logo, sua consumação independe da comprovação de prejuízo concreto para a sociedade, bastando, para sua caracterização, a demonstração da posse, sem autorização ou em desacordo com determinação legal, motivo pelo qual é prescindível a realização de exame pericial, desde que obtida esta demonstração por outros meios de prova, sobremodo quando sequer há questionamento quanto a isso.
+No caso, o que se questiona é a potencialidade lesiva da arma de fogo apreendia, face à ausência de laudo pericial que ateste, uma vez que mesmo sendo crime formal não dispensa a necessidade de que a conduta perpetrada seja apta a gerar, no mínimo, risco de lesão ao bem jurídico tutelado pela norma.
+Não obstante, a arma deve ser apta a efetuar disparos, caracterizando a sua potencialidade lesiva. Em contrapartida, a arma inapta a deflagar não gera qualquer perigo, acarretando em atipicidade da conduta, vez que configuraria crime impossível, daí a imprescindibilidade do laudo pericial.
+ ..
+A condenação do apelante pela suposta prática do crime previsto no artigo 16, da Lei nº 10.826/03, violou um dos princípios basilares do Direito Penal, qual seja, o da ofensividade ou lesividade, que significa o agasalho da ideia de que não há delito sem que haja lesão ou perigo de lesão a um bem jurídico determinado.
+ ..
+Nessa senda, é estreme de dúvidas e, inclusive, acobertado pela jurisprudência, que uma arma inapta ao disparo não configuraria nenhum dos delitos previstos no Estatuto do Desarmamento. Isso porque, em tais hipóteses, a incolumidade pública não está em risco, visto que o artefato não passaria de um mero pedaço de metal, e não de uma arma de fogo.
+Assim, nesses casos, o meio eleito pelo agente para lesar a incolumidade pública seria absolutamente inapto, nos termos do artigo 17, do Código Penal.
+ ..
+Nesse cenário, muito embora o crime perpetrado seja considerado de perigo abstrato e mera conduta, o fato em exame não configura crime, porquanto não basta a simples adequação da conduta do modelo legal (tipicidade formal), deve-se comprovar também a produção de dano, ou risco de dano, ao bem jurídico tutelado pelo tipo penal (tipicidade material).
+Sendo assim, se não houve a perícia, não há Corno comprovar o risco à coletividade.
+ ..
+Desta feita, não provada, por culpa exclusiva do aparato de persecução penal, a potencialidade lesiva da arma, vital para a caracterização do delito em tela, plenamente aplicável ao caso o princípio do in dúbio pro reo, o qual informa, segundo a doutrina:
+ ..
+Ante o exposto, desacolhendo o parecer Ministerial de Cúpula, conheço do recurso e dou provimento, para absolver o apelante por atipicidade da conduta e insuficiência probatória, nos termos do artigo 386, incisos III e VII, do Código de Processo Penal.
+É o voto." (fls. 314-335).
+Pois bem.
+A jurisprudência deste eg. Tribunal Superior é firme no sentido de que "Tanto a posse irregular de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/2003) quanto o porte ou posse de arma de fogo de uso restrito (art. 16 da mesma lei) são crimes de perigo abstrato, dispensando-se prova de efetiva situação de risco ao bem jurídico tutelado" (AgRg no AREsp 1.027.337/MT, Quinta Turma, de minha relatoria, DJe 27/03/2017, grifei).
+Acerca da questão, colaciono os seguintes precedentes desta Corte:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. ATIPICIDADE DA CONDUTA. CRIME DE PERIGO ABSTRATO. EXAME PERICIAL. DESNECESSIDADE. REDUÇÃO DO PRAZO DE PRESCRIÇÃO. NÃO OCORRÊNCIA.
+ ..
+II - Tanto a posse irregular de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/2003) quanto o porte ou posse de arma de fogo de uso restrito (art. 16 da mesma lei) são crimes de perigo abstrato, dispensando-se prova de efetiva situação de risco ao bem jurídico tutelado.
+III - "O simples porte de arma de fogo, acessório ou munição, por si só, coloca em risco a paz social, porquanto o instrumento, independentemente de sua potencialidade lesiva, intimida e constrange as pessoas, o que caracteriza um delito de perigo abstrato. O tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016).
+ ..
+Agravo regimental desprovido" (AgRg no AREsp 1.027.337/MT, Quinta Turma, de minha relatoria, DJe 27/03/2017, grifei).
+"PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE COMPROVAÇÃO DA CAPACIDADE LESIVA. DESNECESSIDADE. CRIME DE PERIGO ABSTRATO.
+I - "O princípio constitucional da proporcionalidade não constituiu fundamento autônomo do acórdão atacado na via especial, não sendo necessário no caso a interposição de recurso extraordinário." (AgRg no REsp 1618965/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 24/05/2017)
+II - Para a configuração do crime tipificado no art. 14 da Lei n. 10.826/2003 - no caso, porte ilegal de munição de uso permitido -, é irrelevante a quantidade de munição apreendida, bem como o fato de estar desacompanhada de arma, por se tratar de delito de perigo abstrato e de mera conduta, que visa proteger a segurança pública e a paz coletiva, sendo desnecessário, ainda, aferir-se a potencialidade lesiva dos objetos em questão.
+Agravo regimental desprovido." (AgRg no REsp 1.704.321/RS, Quinta Turma, de minha relatoria, DJe 14/3/2018, grifei).
+"PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. SALVO CONDUTO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. FUNDAMENTAÇÃO INIDÔNEA. TRANCAMENTO DA AÇÃO PENAL. ABSOLVIÇÃO. ART. 12 DA LEI N. 10.826/2003. POSSE ILEGAL DE MUNIÇÃO. CRIME DE PERIGO ABSTRATO. ATIPICIDADE DA CONDUTA NÃO EVIDENCIADA. RECURSO PARCIALMENTE PROVIDO.
+1. Para a aplicação das medidas cautelares diversas da prisão, exige-se fundamentação específica que demonstre a necessidade e adequação da medida em relação ao caso concreto.
+2. Tendo sido tão somente listadas as cautelares fixadas, sem justificativa de sua pertinência aos riscos que se pretendia evitar, tem-se a falta de suficiente fundamento e decorrente ilegalidade.
+3. É entendimento desta Corte que o porte ilegal de munição, ainda que desacompanhado da respectiva arma de fogo, é delito de perigo abstrato, sendo punido antes mesmo que represente qualquer lesão ou perigo concreto.
+4. Recurso em habeas corpus parcialmente provido, para cassar as medidas cautelares impostas ao recorrente, [NOME], o que não impede a fixação de novas medidas cautelares, pelo juízo de piso, por decisão fundamentada, inclusive menos graves que a prisão processual" (RHC 80.631/PI, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/04/2017, grifei).
+Assim, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, in casu, o enunciado da Súmula n. 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para cassar o acórdão proferido pelo eg. Tribunal a quo e determinar que o outro seja proferido, com a observância do entendimento acima transcrito, e, por conseguinte, com o restabelecimento da condenação do recorrido como incurso nas sanções do art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003.
+P. e I.
