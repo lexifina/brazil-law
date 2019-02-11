@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fl. 122):
+APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE COBRANÇA DE DÍVIDA PAGA. AUSENTE COMPROVAÇÃO DO VALOR COMPENSADO. ÔNUS QUE INCUMBE AO AUTOR. PEDIDO JULGADO IMPROCEDENTE. AUSENTE DEVER DE INDENIZAR. IMPOSSIBILIDADE DE RESTITUIÇÃO. DESPROVIMENTO DO APELO.
+- Não tendo o autor logrado êxito em desincumbir-se do encargo de comprovar o fato constitutivo do seu direito alegado na inicial, deixa de atender ao imposto pelo art. 333, I, do CPC, restando imperativa a manutenção da sentença de improcedência.
+O agravante sustenta, nas razões de recurso especial, ofensa ao artigo 373, I e II, do Código de Processo Civil, alegando que demonstrou nos autos o pagamento da dívida cobrada indevidamente pelo réu com a entrega de outro veículo. Requer, assim, o acolhimento dos seus pedidos de ressarcimento em dobro e de danos morais.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o acórdão recorrido confirmou a sentença de improcedência pelos seguintes fundamentos (fl. 124):
+Analisando as provas colacionadas aos autos, adianto que o autor não comprovou os fatos constitutivos do seu direito, ônus que lhe era dirigido, consoante dispõe o art. 333, I, do novo Código de Processo Civil, a amparar a pretensão indenizatória.
+Com efeito, a prova trazida aos autos é insuficiente a atestar a realização de negócio jurídico referente a entrega do automóvel em compensação da devolução e sustação dos cheques emitidos pelo autor, considerando que a parte não juntou ao processo recibo com as formalidades que a lei prescreve, prova esta que não se mostrava impossível, sendo insuficiente a juntada do documento escrito de próprio punho pelo autor e sem assinatura do promovido (fl. 14).
+Assim sendo, inexiste mínimo indicativo de que a dívida existente perante o promovido foi saldada com a entrega do automóvel FORD RANGER, ou que, sequer faça parte da negociação ora discutida, deixando a parte de fazer prova da sua própria assertiva, o desprovimento do recurso é medida imperativa.
+Como se vê no excerto transcrito, o acórdão recorrido concluiu que não foi comprovado o pagamento da dívida cobrada e a adoção de entendimento diverso por esta Corte, como propugnado no recurso especial, demandaria reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
