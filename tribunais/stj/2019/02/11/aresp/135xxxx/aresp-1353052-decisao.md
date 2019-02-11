@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. EXAME PERICIAL. SUPOSTA NULIDADE. IRRELEVÂNCIA. CRIME DE PERIGO ABSTRATO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] PRATES e JOCEMAR CORREA CONTESSA contra decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou seguimento a recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Consta nos autos que os Agravantes foram condenados como incursos no art. 14 da Lei n.º 10.826/2003, sendo cominadas a cada um as penas de 2 (dois) anos de reclusão, em regime inicial aberto, e 10 (dez) dias-multa, substituídas as penas privativas de liberdade por duas sanções restritivas de direitos.
+Contra a sentença, a Defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem para determinar a imediata suspensão da exigibilidade das custas processuais, nos termos da seguinte ementa (fl. 207):
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO. ART. 14 DA LEI 10.826/03. CRIME DE PERIGO ABSTRATO. LAUDO PERICIAL. PROVAS DA AUTORIA E MATERIALIDADE. PENAS MANTIDAS. SUSPENSÃO DE CUSTAS.
+1. O porte ilegal de arma de fogo é crime de perigo abstrato e de mera conduta, mostrando-se prescindível a demonstração de perigo concreto. Precedentes. Na esteira do entendimento dos Tribunais, em especial o Supremo Tribunal Federal, não são inconstitucionais os crimes de perigo abstrato, a exemplo daqueles previstos na Lei 10.826/03, que teve sua constitucionalidade assentada na ADI 3.112/DF.
+2. Não se faz necessária a demonstração da qualidade técnica dos peritos que verificam a potencialidade lesiva da arma de fogo apreendida. A perícia, segundo entendimento jurisprudencial consolidado, sequer é exigida. Preliminar afastada. Materialidade comprovada.
+3. Compete ao Juízo da origem definir a pena adequada ao caso, comportando alteração, em grau de recurso, apenas em situações em que a modificação não for arrazoada, proporcional ou contrariar disposição legal ou preceito constitucional. Caso concreto em que a pena está adequada. Pena mantida.
+4. Segundo disposição do art. 44, §2º, do CP, a pena superior a um ano pode ser substituída por duas penas restritivas de direitos. Desse modo, a alegada parca condição financeira não é motivo a determinar o afastamento da prestação pecuniária. No presente, inexistiu demonstração dessa condição.
+5. A multa é preceito secundário do tipo pelo qual o réu foi condenado, não havendo previsão legal para a isenção do pagamento.
+6. O pedido de isenção das custas processuais deve ser dirigido à Execução. No entanto, por disposição do art. 12 da Lei 1.060/50, cabível a suspensão da sua exigibilidade. Precedentes.
+APELAÇÃO PARCIALMENTE PROVIDA."
+Irresignada, a Defesa interpôs recurso especial, sustentando ofensa aos arts. 158 e 159, ambos do Código de Processo Penal, ao argumento de que (fl. 226):
+"A Defesa não desconhece os entendimentos acerca da ausência de necessidade de perícia na arma ou munição apreendidas, todavia, este entendimento merece modificação, pois não é crível que se admita, v.g., como arma artefato que não possua condições de uso.
+Sem a produção de prova válida e definitiva acerca do artefato apreendido, merece reforma o acórdão, pois caracterizada negativa de vigência ao art. 386, VII, do CPP."
+Requer, desse modo, a absolvição dos Recorrentes.
+Contrarrazões às fls. 232-237.
+Ao analisar a admissibilidade do apelo especial, o Tribunal a quo não o admitiu (fls. 239-247), daí a interposição do presente agravo (fls. 253-259).
+O Ministério Público Federal manifestou-se às fls. 287-290, opinando pelo não conhecimento e, se conhecido, pelo não provimento do agravo em recurso especial.
+É o relatório.
+Decido.
+É assente nesta Corte que a conduta de portar ilegalmente arma de fogo, acessório ou munição não depende de lesão ou perigo concreto para caracterizar sua tipicidade, pois o objeto jurídico tutelado não é a incolumidade física, e, sim, a segurança pública e a paz social, colocados em risco com a posse ou o porte de armas ou munições à deriva do controle estatal
+Diante dessa situação, mostra-se irrelevante, portanto, aferir a eficácia da arma para a configuração do tipo penal, pois o simples fato de portá-la já é suficiente para a configuração do crime.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 14 DA LEI N. 10.826/2003. CRIME DE PERIGO ABSTRATO. ARMA DESMUNICIADA. IRRELEVÂNCIA. PRESCINDIBILIDADE DO EXAME PERICIAL. PERÍCIA EFETIVADA QUE DEMONSTROU A EFICÁCIA DA ARMA. TIPICIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO PROFERIDO EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O crime de porte ilegal de arma de fogo é de perigo abstrato, portanto são prescindíveis, para o reconhecimento da materialidade delitiva, a realização de perícia para atestar a potencialidade lesiva do artefato ou a constatação de seu efetivo municiamento.
+2. O recorrido transportava e mantinha sob sua guarda espingarda de uso permitido, à margem do controle estatal, artefato que, mesmo desmuniciado, possui potencial de intimidação e reduz o nível de segurança coletiva exigido pelo legislador, conduta que se subsume ao tipo penal previsto no art. 14 da Lei n. 10.826/2003.
+3. Apesar de ser prescindível o laudo pericial para a configuração da materialidade do crime, o exame de constatação de potencialidade do armamento registrou que, embora o sistema de repetição da espingarda seja ineficiente, "a arma de fogo descrita efetua disparo".
+4. Consoante pacífica jurisprudência desta Corte, "acórdão proferido em habeas corpus, por não possuir a mesma extensão almejada no recurso especial, não serve de paradigma para fins de comprovação da divergência jurisprudencial, ainda que se trate de dissídio notório" (AgRg no AREsp n. 864.672/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/6/2016).
+5. Agravo regimental não provido." (AgRg no AREsp 1.262.717/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/10/2018, DJe 16/11/2018; sem grifos no original.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. OFENSA AOS ARTS. 619 E 620 DO CPP. NÃO OCORRÊNCIA. AUSÊNCIA DE CERCEAMENTO DE DEFESA. DISCRICIONARIEDADE DO MAGISTRADO PARA ANALISAR A PERTINÊNCIA, RELEVÂNCIA E NECESSIDADE DAS DILIGÊNCIAS REQUERIDAS PELA DEFESA. MANDADO DE BUSCA E APREENSÃO. CRIME DE NATUREZA PERMANENTE. ABOLITIO CRIMINIS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO DA APELAÇÃO. CRIMES DE PERIGO ABSTRATO. CONFISSÃO ESPONTÂNEA. QUANTUM DE REDUÇÃO DA PENA DEVIDAMENTE FUNDAMENTADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+6. Os crimes de posse e de porte de arma de fogo ou munição são de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, porquanto o objeto jurídico tutelado não é a incolumidade física e sim a segurança pública e a paz social, colocadas em risco pelo porte/posse de arma de fogo ou munição, revelando-se despicienda a comprovação do potencial ofensivo do artefato através de laudo pericial.
+7. Consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior a 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea. In casu, foi reconhecida a atenuante da confissão espontânea e a pena reduzida em 2 (dois) meses, com a indicação de fundamento concreto para a fixação em patamar inferior a 1/6.
+8. Agravo regimental não provido." (AgRg no AREsp 1.154.440/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/09/2018, DJe 03/10/2018; sem grifos no original.)
+Assim, eventual nulidade do laudo pericial realizado pelos policiais civis é irrelevante para a comprovação da materialidade do crime de porte ilegal de arma de fogo, já que é prescindível a existência de exame pericial.
+Ressalte-se, ainda, que, no caso, houve a realização de auto de constatação de eficiência de arma de fogo, o qual foi realizado por dois peritos nomeados, ambos com diploma de curso superior, no qual foi constatada a comprovação da lesividade da arma (fl. 212).
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
