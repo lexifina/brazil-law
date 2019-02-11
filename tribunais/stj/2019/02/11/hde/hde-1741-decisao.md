@@ -1,0 +1,11 @@
+DECISÃO
+RUTH LOPES CORDEIRO formulou pedido de homologação da decisão estrangeira proferida pelo Tribunal Distrital de Miami, Flórida, Estados Unidos da América, que deferiu a alteração de seu nome para SHANTELL RUTHIELY LOPES CORDEIRO.
+Em razão da alteração do nome da requerente, procedeu-se à citação por edital de eventuais terceiros interessados (fls. 51-53), tendo decorrido o prazo sem resposta (fl. 55).
+O Ministério Público Federal não se opôs à homologação, consignando o seguinte (fl. 60):
+Como está descrito na exordial, a requerente casou-se e reside nos Estados Unidos da América, desde pelo menos 1998, onde está integrada socialmente. Tal o quadro, a mudança do nome em nada compromete a segurança jurídica. Portanto, a questão é de ser resolvida de acordo com o art. 7º, caput, da Lei de Introdução às Normas do Direito Brasileiro (LINDB), que manda aplicar a lei do domicílio das partes. Nem se vislumbra hipótese de manifesta incompatibilidade com a ordem pública interna (art. 17 da LINDB), pois o grau de integração da requerente à realidade norte-americana importa no reconhecimento da menor intensidade da rejeição da lei estrangeira pela ordem jurídica interna (Jacob Dolinger. Direito Internacional Privado, Parte Geral, Renovar, 9ª ed. Rio de Janeiro, 2008, p. 410/411: "a intensidade da rejeição da lei estrangeira está na dependência de quão próximas do foro as pessoas ou as situações jurídicas estejam situadas".
+É o relatório. Decido.
+Os documentos necessários à pretensão foram devidamente apresentados. Consta dos autos a decisão de alteração de nome (fls. 37-38), acompanhada de chancela consular brasileira (fl. 38) e traduzida por profissional juramentado no Brasil (fls. 34-35), bem como a comprovação do trânsito em julgado (fl. 39).
+Os pressupostos indispensáveis ao deferimento do pedido foram, portanto, observados (arts. 216-C e 216-D do RISTJ). Ademais, a pretensão não ofende a soberania nacional, a dignidade da pessoa humana e a ordem pública nem os bons costumes (arts. 17 da Lei de Introdução às Normas do Direito Brasileiro e 216-F do RISTJ).
+Ante o exposto, homologo o título judicial estrangeiro de alteração de nome.
+Expeça-se a carta de sentença.
+Publique-se. Intimem-se.
