@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 190):
+PROCESSUAL CIVIL. TRIBUTÁRIO. COMPENSAÇÃO CRÉDITO DE TÍTULO AO PORTADOR COM DÉBITO INSCRITO EM DÍVIDA ATIVA. NECESSIDADE DA JUNTADA DA CÁRTULA NO ORIGINAL. DOCUMENTO INDISPENSÁVEL À PROPOSITURA DA AÇÃO.
+1. A cártula é o documento essencial para o exercício do crédito que o título consubstancia, devendo ser apresentado no original. A mera fotocópia não serve para conferir eficácia ao título ao portador, porque geraria insegurança jurídica diante da possibilidade de existirem outras reproduções em circulação.
+2. A parte Autora, além de ter deixado de providenciar a juntada do título ao portador no original, sequer justificou nos autos as razões pelas quais não o apresentou, limitando-se a alegar que a cópia estava autenticada pelo Tabelionato de Notas, que tem fé pública.
+3. Ausente documento indispensável à propositura da ação,, não há processo válido, merecendo, portanto, a sua extinção ex officio.
+4. Sentença cassada. Processo extinto sem resolução do mérito, nos termos do art. 267, IV, do CPC. Apelação prejudicada.
+Os embargos declaratórios foram rejeitados (fls. 199/203).
+A parte recorrente aponta violação aos arts. 2º, 128, 460 e 515 do CPC. Sustenta que a redução da verba honorária, para o percentual de 5% (cinco por cento) sobre o valor da causa, configurou indevida reformatio in pejus e julgamento extra petita, tendo em vista a ausência de pedido, por parte da ora recorrida, neste sentido.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No caso, o Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 2º, 128, 460 e 515 do CPC/73 apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/73, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
