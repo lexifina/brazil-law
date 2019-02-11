@@ -1,0 +1,50 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. GR N.º 1. INDULTO DA SANÇÃO PECUNIÁRIA. ART. 1.º, INCISO XI, DO DECRETO N.º 8.615/2015. EXTINÇÃO DA PUNIBILIDADE INDEPENDENTE DO PAGAMENTO DA MULTA. AUSÊNCIA DE PERIGO OU RESTRIÇÃO À LIBERDADE DE LOCOMOÇÃO DO PACIENTE. SÚMULA N.º 693/STF. WRIT NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GIRLEAN EXPEDITO DE JESUS SOUSA, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento do Agravo de Execução Penal n.º 9001477-22.2018.8.26.0050.
+Consta dos autos que o Juízo das Execuções Penais indeferiu o pedido de indulto da sanção pecuniária previsto no Decreto n.º 8.615/15, pois "o Sentenciado não compareceu ao Juízo para justificar suas atividades desde 15/04/15, motivo pelo qual não ocorreu o cumprimento integral da pena" privativa de liberdade (fl. 51). No mesmo ato, determinou a realização do cálculo da pena restante.
+Inconformado, o Paciente interpôs agravo de execução penal, o qual foi desprovido nos seguintes termos (fl. 23):
+"Agravo em execução - Condenado por quadrilha ou bando, posse ilegal de arma de fogo de uso restrito, uso de documento falso e roubo circunstanciado - Pedido de indulto da pena de multa com base no Decreto n.º 8.615/15 - Ausência de requisito objetivo - Indeferimento na origem - Hipossuficiência não demonstrada, ademais - Requisitos do art. 1.º, X, não preenchidos - Recurso desprovido."
+No presente writ, a Defensoria Pública esclarece, de início, que, em relação à GR 01, o período compreendido entre 15/04/2015 e 23/12/2015 deve ser considerado como tempo de efetivo cumprimento da pena, pois o Paciente estava em regime aberto sem que tenha ocorrido sustação ou revogação desse direito durante esse interregno.
+Argumenta, por outro lado, que, tendo em vista a natureza jurídica declaratória da decisão sobre o indulto, a análise dos requisitos exigidos ao reconhecimento do direito deve estar adstrita ao cenário do momento de publicação do Decreto Presidencial; e, no caso, os requisitos objetivos foram, sim, satisfeitos pelo Paciente, uma vez que não foi homologada infração disciplinar de natureza grave no período de doze meses anteriores à publicação do decreto e foi cumprido o lapso estabelecido até 25/12/2015.
+Afirma que a multa passou a ter caráter de dívida de valor, sendo sua cobrança realizada na forma de execução fiscal. Assim, o Paciente faz jus à extinção da punibilidade independentemente de seu pagamento.
+Requer, liminarmente e no mérito, seja declarada "a ocorrência do indulto da pena de multa, conforme previsto no Decreto n.º 8.615/2015 ou seja declarada a extinção da punibilidade independente do pagamento da multa" (fl. 9; sem grifos no original).
+O pedido liminar foi indeferido devido à deficiente instrução (fls. 30-32).
+Prestadas as informações (fls. 38-39 e 47-49), o Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República [NOME], opinou pelo não conhecimento do writ (fls. 74-78).
+É o relatório. Decido.
+A ordem não pode ser conhecida.
+Da acurada leitura dos autos, verifico que a impetração não apontou nenhum perigo ou restrição à liberdade de locomoção do Paciente, o que inviabiliza, por si só, a utilização do remédio constitucional do habeas corpus.
+É entendimento pacífico dos Tribunais Pátrios que o pedido exclusivamente relativa à pena de multa não pode ser veiculado pela via do writ, que é o remédio constitucional próprio para cessar ou evitar constrangimento ilegal apenas ao direito ambulatorial.
+Aliás, foi por tal razão que o Supremo Tribunal Federal editou a Súmula n.º 693, in verbis:
+"Não cabe "habeas corpus" contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada."
+Nesse sentido, cito o seguinte julgado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. CUMPRIMENTO INTEGRAL DA PENA PRIVATIVA DE LIBERDADE. INDULTO DA PENA DE MULTA. INEXISTÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO. SÚMULA N. 693 DO SUPREMO TRIBUNAL FEDERAL - STF. NÃO CABIMENTO DE HABEAS CORPUS. WRIT NÃO CONHECIDO.
+- O presente habeas corpus não merece conhecimento, pois impetrado em substituição a recurso próprio (HC n.109956, Relator Ministro MARCO AURÉLIO, Primeira Turma, DJe 11/9/2012).
+- A única pretensão deduzida no mandamus é a concessão do indulto na pena de multa. Ocorre que é pacífico o entendimento desta Corte Superior de que não é cabível o uso do remédio heroico quando não há qualquer ameaça ao direito de locomoção do paciente. Precedentes.
+Habeas corpus não conhecido." (HC 325.967/SP, Rel. Desembargador Convocado do TJ/SP ERICSON MARANHO, DJe 15/09/2015; sem grifos no original.)
+Ad argumentandum tantum, ressalto que o tema referente à extinção da punibilidade independente do pagamento da multa não foi examinado pelo Tribunal de Justiça do Estado de São Paulo. Diante dessa situação, a matéria não pode ser apreciada per saltum pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Quanto ao indulto da pena de multa, o Tribunal de origem, ao manter o indeferimento do pleito formulado com base no Decreto n.º 8.615/2015, assim consignou (fls. 24-25; sem grifos no original):
+"Ao que tudo indica, embora não tenha cometido faltas disciplinares e a referida prisão em flagrante tenha ocorrido aos 31.12.15, ou seja, em período posterior à publicação do referido decreto, não tem mesmo direito ao benefício.
+É que o diploma legal invocado exige, para a concessão do indulto da pena de multa, o cumprimento da pena privativa de liberdade até 25 de dezembro de 2015.
+Nesse contexto, inviável a concessão da benesse, pois "o sentenciado não compareceu ao juízo para justificar suas atividades desde 15.04.15, motivo pelo qual não correu o cumprimento integral da pena".
+E, ainda que assim não fosse, ausente também demonstração de sua incapacidade financeira.
+Certo que o recorrente é assistido pela Defensoria.
+Mas, apenas dessa circunstância não se pode presumir sua hipossuficiência financeira para saldar a dívida, mesmo porque não trouxe prova de pobreza, como lhe competia.
+Por isso que não se acha preenchido os requisitos exigidos no aludido decreto."
+Sobre a interrupção do cumprimento da pena, o entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte Superior de Justiça, segundo a qual se o Paciente não compareceu em Juízo para a observância das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida.
+Nesse sentido:
+"HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. EXIGÊNCIA DE COMPARECIMENTO DA SENTENCIADO EM JUÍZO. DESCUMPRIMENTO. CÔMPUTO DO PERÍODO QUE MEDEIA A DATA DO INÍCIO DO ABANDONO E A DE PROLAÇÃO DA DECISÃO QUE SUSPENDEU O BENEFÍCIO COMO PENA EFETIVAMENTE CUMPRIDA. IMPOSSIBILIDADE. PRECEDENTES. ORDEM DENEGADA.
+1. Se a Paciente não compareceu em Juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida.
+2. Ordem denegada." (HC 445.879/SP, Rel. Ministra LAURITA VAZ, DJe 04/02/2019.)
+"HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. EXTINÇÃO DA PENA. IMPOSSIBILIDADE. PENA REMANESCENTE. CUMPRIMENTO DA PENA SEQUER INICIADO. DESCASO COM A EXECUÇÃO DA REPRIMENDA. CONDUTA INCOMPATÍVEL COM A FINALIDADE DO REGIME MENOS GRAVOSO. FRUSTRAÇÃO DOS FINS DA EXECUÇÃO. ART. 36, § 2º, DO CP. CONDUTA PASSÍVEL, INCLUSIVE, DE CONFIGURAÇÃO DE FALTA GRAVE. ART. 50, V, DA LEP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ.
+2. O descumprimento das condições impostas no regime aberto mostra-se incompatível com a sua finalidade ressocializadora, porquanto acarreta a frustração dos fins da execução, além de configurar, em tese, falta disciplinar de natureza grave, nos termos do inciso V do art. 50 da Lei de Execução Penal - cujo reconhecimento é apto a interromper o prazo para a aquisição de futuros benefícios, além de importar em regressão de regime -, inexistindo, pois, constrangimento ilegal a ser sanado.
+3. Ordem denegada." (HC 380.077/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe de 06/11/2017; sem grifos no original.)
+Além disso, destaco que o agravo de execução defensivo foi desprovido com base no que dispõe o art. 1.º, inciso XI, do Decreto Presidencial n.º 8.615/2015, verbis:
+"Art. 1.º Concede-se o indulto coletivo às pessoas, nacionais e estrangeiras:
+ ..
+XI - condenadas a pena de multa, ainda que não quitada, independentemente da fase executória ou do juízo em que se encontre, aplicada cumulativamente com pena privativa de liberdade cumprida até 25 de dezembro de 2015, desde que não supere o valor mínimo para inscrição de débitos na Dívida Ativa da União, estabelecido em ato do Ministro de Estado da Fazenda, e que não tenha capacidade econômica de quitá-la." (sem grifos no original.)
+Como se sabe, "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC 434.405/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 21/03/2018).
+Diante dessa situação, a pretensão defensiva não se subsume à literalidade do dispositivo questionado e contraria o entendimento de que a interpretação judicial dos decretos presidenciais deve ser restritiva, a bem do respeito à competência privativa do Presidente da República e da separação dos Poderes.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
