@@ -1,0 +1,35 @@
+EMENTA
+CONSTITUCIONAL, PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. PLEITO DE CORREÇÃO DE PROVA DISSERTATIVA. INEXISTÊNCIA DE ATO COMISSIVO OU OMISSIVO ATRIBUÍVEL À AUTORIDADE APONTADA COMO COATORA. ILEGITIMIDADE PASSIVA. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO.
+DECISÃO
+Trata-se de mandado de segurança impetrado por [NOME] contra ato alegadamente coator da PRESIDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+O impetrante relata que se inscreveu e prestou provas no concurso público para analista judiciário do STJ. Aduz que a sua prova objetiva, redigida em caneta azul, foi corrigida, entretanto a prova dissertativa não foi apreciada em razão de ter sido redigida em caneta azul. Acrescenta que a falta de correção de sua prova discursiva em razão desse pequeno detalhe seria violadora da razoabilidade, uma vez que a determinação editalícia somente busca atingir um objetivo técnico. Ao final, pede seja corrigida sua prova dissertativa.
+A liminar pleiteada foi indeferida.
+A autoridade impetrada prestou informações. Preliminarmente, sustenta sua ilegitimidade, por ser atribuição do Cebraspe a negativa de correção da prova discursiva do impetrante. Sucessivamente, aduz faltar ao impetrante interesse de agir, uma vez que a prova discursiva do impetrante não foi corrigida em razão da cor da tinta de caneta utilizada, mas sim pelo fato de a pontuação do impetrante na prova objetiva haver sido 72, quando a nota de corte para as vagas reservadas a negros e pardos havia sido 74. No mérito, argumenta que é vinculante a exigência do edital de que se utilize caneta de tinta preta.
+Parecer do Ministério Público Federal às fls. 371/374.
+É o relatório.
+O mandado de segurança é garantia constitucional fundamental exercida através de ação civil de rito especial posta à disposição do titular do direito líquido e certo lesado ou sob ameaça de lesão decorrente de ato ilegal ou abusivo de poder atribuído à autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+Tem rito sumário específico, só aceitando a disciplina do Código de Processo Civil de forma subsidiária. Assim, compete ao impetrante, notadamente, indicar, na inicial, a autoridade coatora, o ato ilegal ou abusivo por ela praticado e o direito líquido e certo lesado ou sob a ameaça de iminente lesão, fazendo, desde já, a comprovação do que alega, o que se determinou chamar de prova pré-constituída.
+Com efeito, nos termos do que dispõe a Constituição Federal:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+ ..  b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;
+No caso dos autos, inicialmente, é de se afastar a competência desta Corte Superior para a análise do suposto ato lesivo ao direito do Impetrante.
+Com efeito, a teor do Edital que regia o concurso (fls. 13 e ss/e-STJ), o ato atacado foi praticado pela banca examinadora do concurso, integrada pelo CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos), sem participação da autoridade impetrada, que, ademais, não encampou o ato.
+De conseguinte, a autoridade apontada como coatora não é parte legítima para figurar no presente feito, porque não é de sua autoria o ato supostamente ilegal, o que leva à conclusão de que a pretensão formulada na inicial não está sob a tutela jurisdicional originária desta Corte via mandado de segurança, uma vez que os responsáveis por examinar o pleito do impetrante não figuram entre as autoridades indicadas no dispositivo constitucional transcrito acima (art. 105, I, b).
+Neste sentido já decidiu este Superior Tribunal:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. CONCURSO. PROVA OBJETIVA. REVISÃO DE QUESTÕES. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO. ATO DE ATRIBUIÇÃO DA ENTIDADE ORGANIZADORA DO CERTAME.
+1. A ação mandamental exige a demonstração, de plano, da existência do ato ilegal ou abusivo atribuído à autoridade impetrada. Na espécie, contudo, a petição inicial não atribui tal prática a qualquer autoridade mencionada no art. 105, inc. I, "b", da Constituição Federal.
+2. Autoridade coatora é a pessoa que ordena, executa diretamente ou omite a prática do ato impugnado, não sendo este o caso do Ministro de Estado da Agricultura, Pecuária e Abastecimento em relação à revisão de questões da prova objetiva aplicada no concurso para provimento de cargos de Agente de Inspeção Sanitária e Industrial de Produtos de Origem Animal.
+3. A teor da compreensão firmada pelo Superior Tribunal de Justiça, "a homologação do concurso é mera consequência do seu resultado, de modo que, na verdade, a presente impetração volta-se contra ato de atribuição do CESPE, a quem compete a elaboração, correção da prova e análise dos recursos administrativos, o que acaba por afastar a competência desta Corte para conhecer desta ação mandamental" (AgRg no MS 14.132/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, julgado em 25/3/2009, DJe 22/4/2009).
+4. Agravo regimental a que se nega provimento.
+(AgRg no MS 13.735/DF, Rel. Ministro OG FERNANDES, TERCEIRA SEÇÃO, julgado em 22/05/2013, DJe 31/05/2013)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUTORIDADE COATORA. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE. INEXISTÊNCIA DE RELAÇÃO HIERÁRQUICA. ILEGITIMIDADE PASSIVA. AGRAVO DESPROVIDO.
+I - No caso, cabe ao Centro de Seleção e Promoção de Eventos (CESPE) elaborar as questões da prova do concurso e julgar os respectivos recursos administrativos.
+II - Insurgindo-se o mandado de segurança contra ato de atribuição do CESPE/FUB (conteúdo de questão de concurso em contraste com normas do edital), o e. Desembargador Presidente da Comissão do Concurso não deve figurar como autoridade coatora.
+III - Além da manifestação acerca do mérito do mandamus por parte da autoridade apontada coatora, exige-se, para fins de aplicação da  teoria da encampação , vínculo hierárquico imediato entre aquela autoridade e a que deveria, efetivamente, ter figurado no feito.
+IV - In casu, não existe relação de hierarquia entre o e. Desembargador Presidente da Comissão do Concurso e o CESPE/FUB.
+Agravo regimental desprovido.
+(AgRg no RMS 24.116/AM, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/05/2008, DJe 02/06/2008)
+A respeito especificamente de Mandados de Segurança impetrados contra ato supostamente coator da Presidência do STJ no mesmo concurso objeto da inicial, já foram extintos por ilegitimidade passiva os MS 24.447, Rel. Min. Salomão, e 24.680, Rel. Min. Felix Fischer.
+Por essas razões, declaro a ilegitimidade passiva do Ministro Presidente do Superior Tribunal de Justiça e, de conseguinte, com fulcro no art. 6º, § 5º, da Lei n. 12.016/2009 e nos arts. 34, XIX e 212 do RISTJ, extingo o feito sem resolução do mérito.
+Publique-se. Intimem-se.
