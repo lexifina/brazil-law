@@ -1,0 +1,7 @@
+DECISÃO
+[NOME] DE [NOME] [NOME] alega sofrer constrangimento ilegal diante de acórdão proferido no Habeas Corpus n. 1.0000.18.004574-2/000.
+Em consulta processual realizada na página eletrônica desta Corte Superior, verifico a anterior a impetração do HC n. 439.681/MG, em que também figurou como paciente [NOME]. Aquele mandamus voltou-se contra o mesmo ato aqui impugnado (acórdão prolatado no Habeas Corpus n. 1.0000.18.004574-2/000) e objetivou, igualmente, ver permitido ao réu apelar em liberdade da sentença que o condenou a cumprir pena em regime semiaberto, sob a assertiva de que a manutenção da prisão preventiva pelo Juízo de primeiro grau, além de desproporcional, está desprovida de fundamentação idônea.
+Nota-se, portanto, que este writ é mera reiteração de pedido.
+Ademais, ressalto que, em 26/6/2018, foi prolatado acórdão pela Sexta Turma, que manteve a decisão por mim anteriormente proferida, em que indeferi liminarmente aquele habeas corpus, por não despontar das decisões acoimadas coatoras, e que instruíram inicialmente o mandamus, qualquer ilegalidade ou teratologia decorrente da vedação do recurso em liberdade ao paciente - condenado a 7 anos, 4 meses e 6 dias de reclusão, em regime inicial semiaberto, pela prática, em continuidade delitiva, do crime do art. 157, § 2º, II, c/c o art. 65, II, "h", ambos do Código Penal.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
