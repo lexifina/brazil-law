@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por [NOME] e OUTROS contra decisão que deu provimento ao recurso especial interposto por TELEFÔNICA BRASIL S.A. para julgar improcedente o pedido incial.
+Em suas razões, os embargantes sustentam a existência de omissão quanto "ao conteúdo existente nas radiografias anexadas pela ré, ora embargada, onde fica demonstrada a diferença existente entre integralização e incorporação do acervo telefônico" (fl. 516)
+Apresentada impugnação às fls. 524-533.
+É o relatório.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica a alegada omissão no julgado, pois, quanto à complementação de ações e a inviabilidade da aplicação da súmula 371/STJ aos contratos de participação financeira na modalidade Planta Comunitária de Telefonia (PCT), a decisão embargada expressamente consignou:
+"Conforme entendimento desta Corte Superior, nos contratos firmados no sistema de Planta Comunitária de Telefonia (PCT), somente com a incorporação da rede telefônica ao patrimônio da companhia, ora recorrente, é que surge o dever de ressarcir o consumidor por meio de subscrição de ações. Desta forma, o valor a ser considerado para o cálculo do número de ações a serem subscritas deve ser o da avaliação do bem incorporado ao patrimônio da concessionária e não o montante pago à construtora pelo adquirente da linha telefônica, sendo, portanto, inviável a aplicação, na hipótese, da Súmula 371/STJ.
+A propósito:
+"RECURSO ESPECIAL. DIREITO CIVIL E EMPRESARIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM EMPRESA DE TELEFONIA. COMPLEMENTAÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. CRITÉRIO DO BALANCETE MENSAL. SÚMULA 371/STJ. INAPLICABILIDADE.
+1. Controvérsia acerca da aplicação do critério do balancete mensal a um contrato de planta comunitária de telefonia - PCT com previsão de retribuição de ações condicionada à integralização do capital mediante dação da planta comunitária à companhia telefônica, nos termos da Portaria 117/1991 do Ministério das Comunicações.
+2. Nos termos da Súmula 371/STJ: "nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+3. Na linha da jurisprudência desta Corte Superior, a data da integralização, mencionada na Súmula 371/STJ, é a data do pagamento do preço estabelecido no contrato, ou a do pagamento da primeira parcela, no caso de parcelamento.
+4. Particularidade dos contratos da modalidade PCT, em que a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas mediante a entrega de bens, em momento posterior ao pagamento do preço, com a incorporação da planta comunitária ao acervo patrimonial da companhia telefônica.
+5. Necessidade de prévia avaliação e de aprovação da assembleia geral da companhia, para a integralização do capital em bens ("ex vi" do art. 8º da Lei 6.404/1976).
+6. Inviabilidade de aplicação da Súmula 371/STJ aos contratos de participação financeira celebrados na modalidade PCT.
+7. Precedente específico da QUARTA TURMA desta Corte Superior no mesmo sentido.
+8. RECURSO ESPECIAL PROVIDO." (REsp 1742233/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/10/2018, DJe 08/10/2018, g.n.)
+Nessas condições, verifica-se que o acórdão recorrido, ao determinar que "os autores tem direito a receber a quantidade de ações correspondentes ao valor patrimonial que empregaram na data da integralização, conforme entendimento consolidado na Súmula 371 do Superior Tribunal de Justiça" (fl. 270), está em dissonância com a jurisprudência desta Corte, merecendo, pois, reforma." (fls. 510-511)
+Ademais, consoante se extrai dos autos, verifica-se que a alegação de que "mesmo se considerando como data da integralização aquela da incorporação do acervo telefônico, a emissão das ações deu-se somente posteriormente" (fl. 518) não foi suscitada oportunamente, pois não foram apresentadas contrarrazões ao apelo nobre pelos ora embargantes, o que configura indevida inovação recursal.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
