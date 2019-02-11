@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: i) não cabimento de recurso especial por violação a dispositivo constitucional; ii) ausência de obscuridade/contradição/omissão/erro; iii) Súmula 283/STF, no que se refere à existência de cerceamento de defesa e da necessidade de produção da prova pericial; bem como em relação à supressão de instância quanto à inversão do ônus da prova e à ausência de arbitramento da verba honorária, uma vez que a ação ainda não se encerrou.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: Súmula 283/STF, no que se refere à existência de cerceamento de defesa e da necessidade de produção da prova pericial; bem como em relação à supressão de instância quanto à inversão do ônus da prova e à ausência de arbitramento da verba honorária, uma vez que a ação ainda não se encerrou .
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
