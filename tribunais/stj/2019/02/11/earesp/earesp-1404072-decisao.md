@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - EMBARGOS DE DECLARAÇÃO A ELA OPOSTOS NÃO PROVIDOS - ALEGAÇÕES QUE NÃO ALTERAM O ENTENDIMENTO NELA FIRMADO - TRÂNSITO EM JULGADO - REDISCUSSÃO DOS LIMITES DO TÍTULO EXECUTIVO - INVIABILIDADE NESTA FASE PROCESSUAL - RECURSO NÃO PROVIDO.
+"Consoante jurisprudência desta Corte, uma vez transitada em julgado a decisão condenatória, não é possível, em sede de cumprimento de sentença, rediscutir as questões definidas no título executivo, sob pena de ofensa ao instituto da coisa julgada." (AgInt no AREsp 876.825/DF).
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC - RECURSO NÃO PROVIDO.
+"1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. "(EDcI no MS 21.315/DF).
+Nas razões do especial, aponta a parte agravante violação aos artigos 873, I, e 1.022 do Código de Processo Civil.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa ao art. 1.022 do Código de Processo Civil.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, apurou a ocorrência do trânsito em julgado da ação e consignou não ser possível em sede de cumprimento de sentença questões já delineadas no título executivo, assim se pronunciando:
+ ..
+Ressalto que, as partes tiveram inúmeras oportunidade para requerer reprodução do trabalho pericial, arcando com o ônus do eventual pedido, e não o fizeram.
+A par destas considerações, assinalo que, no laudo pericial acostado às fls.401/452, o expert tomou por base orçamentaria a data de junho/2007, por ser a data estabelecida nos autos principais para a demolição, aplicando índices de perspectiva de defasagem do imóvel demolido em razão do seu tempo de uso.
+Entretanto, tais aspectos destoam do objeto da sentença liquidanda, porquanto a decisão é clara em condenar o Executado ao ressarcimento dos danos materiais infligidos à Exequente, consistente na reedificação do imóvel indevidamente demolido, devendo o montante ser extraído com base em orçamento pericial elaborado nesta fase processual, inexistindo ordem de valoração de mercado do imóvel construído.
+Em outras palavras, objetiva a sentença condenar o Executado à indenização material consistente na reconstrução do bem, com as mesmas especificações, e não mesmas condições, sendo contraditório e inexequível construir um imóvel novo com base edificação velha.
+Assim, identificado o equívoco, o Perito, após a manifestação das partes, retificou o laudo pericial apresentando às fls.498/545 o orçamento pericial, nos seguintes termos do último esclarecimento às fls.622, in verbis:
+"Assim sendo, este Perito ratifica a seguinte conclusão ao Laudo Pericial, constante às fls.498/545 dos autos, dizendo o seguinte:
+Analisando todos os documentos constantes dos autos e os anexos a este Laudo Pericial, podemos afirmar que o valor para reconstruir o imóvel, obedecendo integralmente a Sentença de fls.447/455 e fls.458/459, levando em consideração material a mão de obra, e todos os encargos, referenciada a tabela Sinapi do mês de Julho de 2016 é de R$248.630.33 (duzentos e quarenta e oito mil seiscentos e trinta reais e trinta e três centavos)." (sic) (grifei) Desta feita, como o escopo da perícia foi quantificar os prejuízos sofridos pela Exequente com a demolição indevida do imóvel, a fim reconstruir os 175,22m  construídos com os seguintes cômodos (fls.409 e fls.411): salão de atendimento de 7,45m x 8,20m, escritório e área de panificação de 7,45m x 8,00m, área de depósito de banheiros de 7,45m x 4,00m, área descoberta de 7,45m x 5,00m, com metragem total de 7,45m de frente, 25,20m nas laterais e 5,00m de comprimento; reputo proporcional e razoável o valor apresentado pelo perito para fixação do quantum indenizatório da s entença no valor de R$248.630,33 (duzentos e quarenta e oito mil, seiscentos e trinta reais com trinta e três centavos), corrigidos a partir de julho/2016 (data base da conclusão pericial).
+(Id 1439474 - pág. 65/66) Argumenta que a perícia não considerou que à época da demolição a estrutura do prédio estava em péssimo estado de conservação.
+A sentença liquidanda condenou a agravante a ressarcir a requerente pelos danos materiais a esta infligidos com a demolição do imóvel mencionado, cujo "quantum", a ser apurado em liquidação de sentença por arbitramento, deverá corresponder ao orçamento (material de construção, mão-de-obra e encargos sociais e fiscais) para reedificação do (Id 1439429 - pág.
+prédio demolido, com o mesmo número de peças e de área construída 28).
+Os mencionados Embargos de Declaração opostos à sentença não foram providos (pág. 32 do Id 1439429). Logo, as razões que os embasaram não têm, por si sós, o poder de alterar o julgado. Dessa maneira, a determinação acima foi mantida, e não há notícia de Recurso que a tenha alterado.
+ ..
+Assim, conclui-se, tal como consignado pelo juízo , que não cabe a a quo rediscussão da sentença, tampouco questionar as delimitações em que a liquidação se dará, já que precluso o debate a respeito dos limites do direito, impondo-se a manutenção do laudo homologado.
+ ..
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, descaracterizar a responsabilidade da recorrente, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Acrescento que o Tribunal estadual não divergiu da jurisprudência do Superior Tribunal de Justiça (STJ) ao decidir que, com o trânsito em julgado da sentença, surge a eficácia preclusiva da coisa julgada, impedindo que se alegue análise, na fase de cumprimento do julgado . Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECOLHIMENTO DE MULTA. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL QUE CUMPRIU OS REQUISITOS LEGAIS DE ADMISSIBILIDADE. PRESCRIÇÃO. ALEGAÇÃO APENAS EM CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. PRECLUSÃO. DECISÃO MANTIDA.
+1. "O condicionamento da interposição de qualquer recurso ao depósito da multa do art. 538 do CPC só é admissível quando se está diante da segunda interposição de embargos de declaração protelatórios, o que não ocorreu na espécie" (EDcl nos EDcl no AgRg no Ag n. 1.349.660/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/6/2015, DJe 24/6/2015).
+2. O recurso especial que cumpre os requisitos legais de admissibilidade deve ser conhecido.
+3. Com o trânsito em julgado da sentença, surge a eficácia preclusiva da coisa julgada, impedindo que se alegue análise, na fase de cumprimento do julgado, inclusive matéria de ordem pública, como a prescrição ocorrida integralmente no processo de conhecimento. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp 1711344/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/08/2018, DJe 28/08/2018)
+Incide, pois, no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
