@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FLAVIO AUGUSTO DURIGON VASCONCELOS ROCHA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Os autos dão conta de que o paciente foi condenado, por infração ao art. 306, caput, c/c o art. 298, I, ambos do Código de Trânsito Brasileiro, à pena de 7 (sete) meses de detenção, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 11 (onze) dias-multa e da suspensão ou proibição de obter a permissão ou habilitação para dirigir veículo automotor pelo prazo de 2 (dois) meses e 10 (dez) dias (e-STJ fls. 11/14).
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que lhe negou provimento, determinando que, "após o decurso do prazo para eventual interposição de embargos", fosse expedido mandado de prisão (e-STJ fls. 24/28).
+No presente writ, a Defensoria Pública do Estado de São Paulo afirma que "a infração sob análise foi praticada sem violência ou grave ameaça à pessoa. Trata-se, inegavelmente, de crime de baixíssimo potencial lesivo. A pena aplicada é inferior a 04 (quatro) anos de reclusão. Nesse contexto, seria de rigor a substituição da pena corporal por restritivas de direitos. Registre-se que Flavio, é verdade, possui condenação criminal, tendo restado configurada a reincidência. Porém, isto não impede esta substituição, nos termos do art. 44, §3º, do Estatuto Repressivo, uma vez que não se trata de reincidência específica" (e-STJ fls. 2/3).
+Destaca que "o fato anterior é extremante antigo (data de 2003), tendo ele já cumprido a sua pena. Nunca mais se envolveu com qualquer delito com violência" (e-STJ fl. 3).
+Alega, ainda, que "a reincidência, por si só, não constitui motivação idônea que justifique a não aplicação do artigo 33, § 2º, "c", do Código Penal no que diz respeito a fixação do regime de cumprimento de pena. É completamente desproporcional que, somente devido à agravante da reincidência, o paciente inicie a condenação em regime semiaberto (encarcerado). A proporcionalidade deve ser observada" (e-STJ fl. 4).
+Aduz que "a pena aplicada é de 07 meses de detenção. Com pena tão curta, nem haverá tempo hábil para progressão, o que significa que terá ele, na prática, de cumprir toda a pena encarcerado" (e-STJ fl. 5).
+Por isso, requer, liminarmente, a suspensão da ordem de prisão até o julgamento definitivo desta impetração e, no mérito, a substituição da pena privativa de liberdade por restritiva de direitos e a fixação do regime aberto para o início do cumprimento da pena (e-STJ fls. 1/7).
+A liminar foi indeferida (e-STJ fls. 32/34).
+Prestadas as informações (e-STJ fls. 41/70), opinou o Ministério Público Federal pelo não conhecimento do writ (e-STJ fl. 72).
+É o relatório.
+Na espécie, as instâncias de origem estabeleceram a pena-base do paciente acima do mínimo legal e, na segunda etapa da dosimetria, aplicaram o aumento derivado da reincidência do acusado. Nesse tear, fixaram o regime semiaberto para o início do cumprimento da pena (e-STJ fl. 13).
+Assim, inviável acolher os pedidos formulados pela defesa.
+Isso porque, embora a sanção aplicada não ultrapasse 4 (quatro) anos de reclusão, a presença de circunstâncias judiciais desfavoráveis, somada à reincidência do réu, impedem a aplicação do disposto no Enunciado n. 269 da Súmula do Superior Tribunal de Justiça.
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. FURTO TENTADO. DOSIMETRIA. PENA-BASE. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAUS ANTECEDENTES E PERSONALIDADE VOLTADA PARA A PRÁTICA DE DELITOS. CABIMENTO. PENA INFERIOR A 4 ANOS. RÉU MULTIRREINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INICIAL FECHADO. POSSIBILIDADE. INAPLICABILIDADE DA SÚMULA N. 269 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+ ..
+- É cabível a adoção do regime prisional fechado aos reincidentes condenados à pena igual ou inferior a 4 anos se desfavoráveis as circunstâncias judiciais. Inaplicabilidade do Enunciado n. 269 da Súmula do STJ.
+Habeas corpus não conhecido.
+(HC 324.787/SC, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 22/03/2016, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. ARREPENDIMENTO POSTERIOR. RECONHECIMENTO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE REVOLVIMENTO DE PROVAS. REGIME INICIAL FECHADO. LEGALIDADE. SÚMULA N. 269 DO STJ. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. É válida a imposição do regime inicial fechado ao réu reincidente que teve a circunstância judicial considerada desfavorável, mesmo quando condenado a pena inferior a 4 anos. Súmula n. 269 do STJ.
+4. Agravo regimental não provido.
+(AgInt no HC 323.418/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/06/2016, DJe 21/06/2016, grifei.)
+Além disso, no tocante à substituição da pena privativa de liberdade por restritivas de direitos, esta Corte Superior entende que "a substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos, não reincidente e cuja culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente" (HC n. 353.206/RS, relator Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 9/8/2016, DJe 24/8/2016).
+No caso, acerca da insurgência, consta do acórdão recorrido a seguinte fundamentação (e-STJ fl. 28):
+Inviável a substituição de sua pena privativa de liberdade por restritiva de direitos; pois, apesar de não se tratar de reincidência específica, a condenação anterior fora por crime bem mais grave, não lhe sendo favoráveis as circunstâncias judiciais.
+Nesse mesmo sentido:
+HABEAS CORPUS. SUCEDÂNEO DO RECURSO ADEQUADO. INADMISSIBILIDADE. USURPAÇÃO DE PATRIMÔNIO DA UNIÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. RÉU REINCIDENTE. IMPOSSIBILIDADE. ALEGAÇÃO DE ERRO NA DOSIMETRIA. SUPRESSÃO. AUSÊNCIA DE COMPROVAÇÃO DA ILEGALIDADE. DEFICIÊNCIA NA INSTRUÇÃO DOS AUTOS. AMPLA DILAÇÃO PROBATÓRIA. INVIABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm mais admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais.
+2. Questão relativa à substituição da pena privativa de liberdade por restritivas de direitos já foi analisada e indeferida nos autos do REsp n. 1.525.276/RS, em consonância com o entendimento jurisprudencial desta Corte Superior, no sentido de que, tratando-se de réu reincidente, não estão preenchidos os requisitos do art. 44 do Código Penal.
+3. Inviável a análise da alegação de que houve utilização indevida de julgado como agravante da reincidência. Questão não enfrentada na origem, vedada a supressão de instância, além de não ter sido comprovada, de plano, no presente writ, ausentes os documentos essenciais e comprobatórios. Manifesta a deficiência na instrução dos autos, sendo vedada a ampla dilação probatória em habeas corpus.
+4. Habeas corpus não conhecido. (HC 352.111/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/11/2016, DJe 21/11/2016, grifei.)
+À vista de tais pressupostos, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
