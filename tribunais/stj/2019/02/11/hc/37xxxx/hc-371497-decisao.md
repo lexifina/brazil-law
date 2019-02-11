@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CLEITON PEREIRA DE OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que, perante o Juízo das Execuções de Rio Claro/SP, o paciente sofreu procedimento de apuração de falta disciplinar grave.
+O procedimento foi instaurado para apurar a falta ocorrida em 24 de julho de 2013, ocasião em que o paciente foi encontrado na posse de 30 (trinta) porções de maconha.
+A falta grave foi homologada em 13 de fevereiro de 2015.
+Contra essa decisão insurgiu-se a defesa.
+No entanto, em sessão de julgamento realizada em 20 de junho de 2016, a Primeira Câmara de Direito Criminal negou provimento ao recurso. Eis a ementa do acórdão (e-STJ fl. 107):
+Execução Penal. Falta disciplinar de natureza grave - Nulidade e prescrição. Inocorrência - Autoria e materialidade demonstradas - Homologação da falta sem anotação dos efeitos dela decorrentes - Decisão de primeiro grau omissa neste ponto. Agravo não provido, com recomendação.
+No Superior Tribunal, sustenta a defesa que, transpassado mais de 1 (um) ano desde a data da prática da falta disciplinar - 24 de julho de 2013 - sem que tenha havido regular apuração da conduta, não seria mais possível, diante da prescrição, sua anotação e a determinação de perda dos dias remidos.
+Alega, outrossim, a nulidade absoluta do procedimento disciplinar, pois foi expedida carta precatória para a oitiva judicial do paciente, contudo, a Defensoria Pública deixou de ser intimada dessa decisão.
+Pondera, ademais, a nulidade da decisão homologatória da falta disciplinar, pois não acostado aos autos laudo técnico bastante a demonstrar a ilicitude da substância apreendida em poder do reeducando.
+Diante dessas considerações, pede, liminar e definitivamente, seja declarada nula a decisão que homologou a falta disciplinar imputada ao paciente, seja pela prescrição da pretensão punitiva, seja pela ausência de intimação da defesa acerca da expedição de carta precatória ou seja por falta de laudo técnico, determinando-se a exclusão da sindicância anotada no prontuário do paciente, bem como a elaboração de novo cálculo de penas.
+A liminar foi indeferida às e-STJ fls. 115/116.
+As informações foram prestadas às e-STJ fls. 124/129 e 131/147.
+O Ministério Público Federal, às e-STJ fls. 150/152, manifestou-se pela concessão da ordem.
+É o relatório.
+Acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fl. 108):
+De igual modo, a prescrição suscitada não procede, porquanto não cabe aqui, diversamente do que busca o agravante, a aplicação do prazo prescricional estabelecido no artigo 114, I, do Código Penal, por ser o menor prazo legalmente previsto para as prescrições.
+Em face da ausência de previsão legal específica quanto a essa matéria, determina-se a utilização, por analogia, do artigo 109, inciso VI, do Código Penal.
+Nessa esteira vem decidindo a Colenda 1ª Câmara Criminal: Agravo em Execução Penal nº 0197484-72.2013.8.26.0000. Relator MÁRCIO BARTOLI, v.u. julgado em 10.02.2014; Agravo em Execução Penal nº 0188425-60.2013.8.26.0000, Relator MÁRIO DEVIENNE FERRAZ, v.u, julgado em 27.01.2014.
+A propósito, vale ressaltar acórdão do Colendo Superior Tribunal de Justiça: "A jurisprudência desta Corte Superior de Justiça está consolidada no sentido de que, ante a lacuna da lei, o prazo de prescrição para apuração de falta disciplinar grave, durante a execução, é regulado pelo disposto no inciso VI do art. 109 do Código Penal. No caso dos autos, 3 anos, tendo em vista que a falta grave foi cometida na vigência da Lei n. 12.234/2010. Prescrição não operada" (MC 265149/MG 2013/0046487-8 Rei. Ministro Sebastião Reis Júnior Sexta Turma J. 16.04.2013).
+No caso em questão, verifica-se que o fato ocorreu em 23 de julho de 2013 e a r. decisão hostilizada foi proferida em 13 de fevereiro de 2015, portanto em lapso inferior a 03 anos.
+No mais, ficou devidamente demonstrado que o reeducando praticou a conduta que caracterizou a falta disciplinar de natureza grave.
+De fato, consoante a jurisprudência já consolidada do Superior Tribunal de Justiça, o prazo prescricional a ser considerado na apuração de faltas graves é o previsto no inciso VI do art. 109 do Código Penal.
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA GRAVE. PRESCRIÇÃO DA FALTA GRAVE. INOCORRÊNCIA. NÃO DECORRIDO LAPSO TEMPORAL SUPERIOR A TRÊS ANOS. AGRAVO PROVIDO.
+1. Nos termos do entendimento desta Corte, a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010.
+2. Não há falar em prescrição, porquanto não transcorrido o prazo prescricional de 3 anos entre a ocorrência da falta grave e a data da homologação pelo Juízo das execuções.
+3. Agravo regimental provido para, afastada a extinção da punibilidade pela prescrição, determinar a devolução dos autos ao Tribunal de origem para que prossiga no julgamento do agravo em execução interposto pela defesa. (AgRg no REsp n. 1.702.078/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/9/2018, DJe 25/9/2018)
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA INFRAÇÃO DISCIPLINAR. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. DILAÇÃO PROBATÓRIA. PERDA DOS DIAS REMIDOS CALCADA NA GRAVIDADE DA CONDUTA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme em assinalar que "o prazo prescricional para aplicação de sanção administrativa disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, é de 3 (três) anos, consoante o disposto no art. 109, inciso VI, do Código Penal, contados entre o cometimento da falta e a decisão judicial que homologou o procedimento administrativo instaurado para sua apuração." (HC n. 294.248/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/12/2014).
+2. O Tribunal local apontou não apenas a previsão legal da conduta a título de falta grave como também a existência de elementos a demonstrar a materialidade e a autoria imputada ao paciente, de modo que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório.
+3. A perda dos dias eventualmente remidos é consectário do reconhecimento da prática de infração disciplinar e, na hipótese, foi determinada pelo Juízo da execução penal, no patamar de 1/6, com fulcro na gravidade da conduta infracional, bem como no histórico carcerário do apenado.
+4. Agravo regimental não provido. (AgRg no HC n. 452.842/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/6/2018, DJe 1/8/2018)
+Ocorre que, consoante bem asseverado no parecer ministerial, o Tribunal a quo deixou de observar que o paciente, nascido em 24/12/1992 (e-STJ fl. 90), era menor de 21 anos de idade quando do cometimento da falta, em 24/7/2013, de modo que o prazo prescricional deve ser reduzido para 1 ano e 6 meses, nos termos do art. 115 do Código Penal.
+Assim, cometida a infração disciplinar em 24/7/2013, e homologada a falta grave em 13/2/2015, é forçoso reconhecer a prescrição da falta disciplinar, haja vista a superação do lapso prescricional pertinente à sua apuração.
+Ante o exposto, concedo a ordem para declarar a prescrição da pretensão punitiva da falta disciplinar cometida pelo paciente em 24/7/2013.
+Publique-se. Intimem-se.
