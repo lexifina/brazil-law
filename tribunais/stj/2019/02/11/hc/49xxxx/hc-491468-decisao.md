@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, a ser cumprida inicialmente no regime fechado, pela prática do delito tipificado no art. 1º da Lei n. 9.455/1997, tendo em vista que, previamente ajustado e com unidade de desígnios, juntamente com outro corréu, constrangeu, com emprego de violência e grave ameaça, as vítimas [NOME], [NOME] e [NOME], causando-lhes sofrimento físico e mental, com o fim de obter confissão do crime de latrocínio ocorrido no Município de Mirassolância (e-STJ fl. 37).
+A defesa interpôs apelação pleiteando a absolvição do acusado, ante a inexistência de provas da prática do delito de tortura. No entanto, os desembargadores da Primeira Câmara de Direito Criminal negaram provimento ao recurso (e-STJ fls. 52/58).
+Recebeu o acórdão esta ementa (e-STJ fl. 58):
+Torturas - Ausência de vestígios dos crimes que não impede a condenação - Concorrência na prática dos delitos induvidosa - Autoria demonstrada por outros meios de provas - Possibilidade - Absolvição - Não cabimento - Penas e regime adequados - Apelo não provido.
+No Superior Tribunal de Justiça, aponta a defesa constrangimento ilegal decorrente da condenação do paciente nas sanções do crime de tortura, em relação à fixação da pena-base acima do mínimo legal.
+Alega que "a fundamentação da r. sentença recorrida  ..  foi absolutamente fora do contexto social e legal, se mostrando vaga, imprecisa além de não se ater aos fatos dos autos, ao fixar esta excessiva pena, totalmente divorciada do contexto dos fatos que servem de subsídio para a análise da personalidade, dos antecedentes, da culpabilidade e da conduta social do Apelante" (e-STJ fl. 13).
+Sustenta, outrossim, erronia quanto ao regime inicial, ao argumento de que "o regime prisional deve ser compatível para a reeducação e não sua dessocialização. Daí porque o regime deve ser necessário e adequado para impedir nova lesão ao bem jurídico, sem produzir efeitos gravosos ou ofensas aos direitos fundamentais do condenado" (e-STJ fl. 27).
+Ao final, em tema liminar, postula o redimensionamento da reprimenda e a fixação de regime inicial aberto.
+É, em síntese, o relatório.
+Depreende-se dos autos que o presente writ impugna acórdão proferido pela 1ª Câmara de Direito Criminal do Tribunal de origem - Apelação n. 0007381-77.2008.8.26.0358 (e-STJ fls. 68/70).
+Ocorre que a causa de pedir e o pedido deste habeas corpus são idênticos aos do HC n. 329.753/SP, impetrado nesta Corte e também atribuído a esta relatoria, que igualmente impugna o mesmo acórdão prolatado pelo Tribunal de Justiça de São Paulo na mesma apelação.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração do HC n. 329.753/SP, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
