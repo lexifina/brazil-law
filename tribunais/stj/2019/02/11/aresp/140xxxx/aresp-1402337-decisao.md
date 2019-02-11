@@ -1,0 +1,59 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA E APREENSÃO EM DOMICÍLIO. NULIDADE DA PROVA. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de [NOME] manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+O juízo singular condenou o agravante como incurso nas sanções do artigo 33 da Lei n. 11.343/2006, à pena de 7 (sete) anos de reclusão, no regime inicial fechado, e 600 (seiscentos) dias-multa (fls. 166-174).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 231-256).
+Os embargos infringentes opostos foram rejeitados (fls. 284-299).
+No recurso especial, interposto com fulcro nas alíneas a e c do permissivo constitucional, a defesa alega ofensa ao artigo 386, inciso II, do Código de Processo Penal, aos argumentos de que:
+(i) "a forma como se deu a apreensão da substância entorpecente foi manifestamente ilegal, porquanto o ingresso forçado na residência do réu ocorreu desamparado de fundadas razões que identificassem previamente a ocorrência, no interior do domicílio, de situação de flagrante delito" (fl. 310);
+(ii) "os agentes policiais não apresentaram qualquer justificativa que demonstrasse ser o ingresso forçado a medida mais adequada para o êxito na investigação" (fl. 315).
+Contrarrazões às fls. 326-332.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 83 do STJ (fls. 334-342).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice (fls. 347-364).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 386-388).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em síntese, nas suas razões recursais, seja reconhecida a nulidade das provas obtidas pelo policiais militares após o ingresso dos policiais na residência do recorrente.
+O Tribunal de origem, ao analisar a matéria, fez constar o seguinte:
+"Tecidas tais considerações, passo ao exame da quaestio proposta, nos termos acima explicados:
+O embargante suscitou, preliminarmente, em razões de apelação, o reconhecimento da ilicitude da prova produzida, pois a ação policial foi realizada sem mandado judicial, o que afrontaria a regra constitucional da inviolabilidade do domicílio. Sem razão a defesa em sua assertiva.
+Revela o acervo probatório que a Brigada Militar, em atividade de patrulhamento de rotina em conhecido ponto de tráfico, visualizou o acusado em atitude suspeita: ao perceber a presença da viatura policial, correu para o interior de sua casa, sendo abordado na posse de parte das drogas apreendidas. Ao realizarem buscas na residência, os agentes públicos lograram apreender o restante do material tóxico, além de cédulas em dinheiro de pequeno valor.
+Neste raciocínio, sendo o crime de tráfico de drogas permanente, em casos de flagrante não há que se falar em invasão de domicílio ou nulidade do flagrante pela ausência de determinação judicial prévia, conforme se infere da redação da garantia fundamental insculpida no art. 5o, inc. XI, da Constituição Federal, que dispõe: "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial." Assim, em que pese não desconheça a existência de crítica doutrinária a respeito do tema, permanece íntegro o entendimento perante as Cortes Superiores acerca do caráter permanente do crime de tráfico de drogas, sendo, por tal razão, relativizado o mandamento preconizado pelo art. 5o, inc.XI, da Carta Magna. Sobre o tema, colaciono os seguintes precedentes do e. STJ:
+ ..
+Importante destacar que a matéria foi abordada em sede de recurso representativo da controvérsia, oportunidade que o STF assentou o entendimento sobre a possibilidade de busca e apreensão domiciliar sem mandado judicial em caso de crime permanente, desde que amparada em fundadas razões, devidamente justificadas a posteriori, indicativas que a ação policial ocorreu em hipótese de flagrante delito, como é o caso dos autos, senão vejamos:
+ ..
+Na hipótese retratado nos autos, o ingresso dos policiais posteriormente foi justificado pela apreensão do material entorpecente, restando configurada, portanto, a exceção constitucional descrita, face a situação de flagrante delito ocorrida." (fls. 295-298)
+Sobre o tema, insta consignar que o Superior Tribunal de Justiça entende ser permanente o crime de tráfico de drogas - na modalidade guardar ou ter em depósito -, configurando-se o flagrante enquanto o entorpecente estiver em poder do infrator. Incide, portanto, no caso, a excepcionalidade do art. 5º, inciso XI, da Constituição Federal.
+Nesse sentido, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS E USO DE DOCUMENTO FALSO. AUSÊNCIA DE MANDADO DE BUSCA E APREENSÃO. NULIDADE. INEXISTÊNCIA. CRIME PERMANENTE. PRECEDENTES. PENA-BASE. ART. 42 DA LEI 11.343/2006. QUANTIDADE DA DROGA. CONDENAÇÕES PRETÉRITAS ATINGIDAS PELO PERÍODO DEPURADOR. POSSIBILIDADE. AUMENTO PROPORCIONAL E RAZOÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que nos crimes de natureza permanente, como é o caso do tráfico ilícito de entorpecentes, mostra-se prescindível o mandado de busca e apreensão para que os policiais adentrem na residência do acusado quando se tem por objetivo fazer cessar a atividade criminosa, dada a situação de flagrância, conforme ressalva o art. 5º, inciso XI, da Constituição da República.
+2. A argumentação carece de relevância, na hipótese, na medida em que se alega que a prova encontrada na residência seria ilícita e não poderia basear a condenação, quando é certo que toda a droga foi apreendida no ônibus no qual o acusado vinha do Paraguai para o Brasil.
+3. A pena-base foi aumentada em quantum absolutamente razoável (3 meses), considerando a quantidade de drogas transportada (24kg de maconha) e os maus antecedentes do acusado, em conformidade com o art. 42 da Lei 11.343/2006 e 59 do Código Penal.
+4. A jurisprudência desta Corte superior entende que condenações anteriores transitadas em julgado, alcançadas pelo período depurador de 5 anos, consoante o art. 64, I, do CP, embora afastem os efeitos da reincidência, não impedem, em princípio, a configuração de maus antecedentes.
+5. Agravo Regimental desprovido" (AgRg no REsp 1558156/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/12/2017, grifei).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. FUNDADAS RAZÕES. BUSCA E APREENSÃO DA DROGA SEM MANDADO JUDICIAL. POSSIBILIDADE. DESNECESSIDADE NA HIPÓTESE DE CRIME PERMANENTE. EXCEÇÃO À INVIOLABILIDADE DE DOMICÍLIO. PROVA LÍCITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento perfilhado pela Corte de origem está em harmonia com a jurisprudência pacífica deste Tribunal, segundo a qual, sendo o crime de tráfico de drogas, nas modalidades guardar e ter em depósito, de natureza permanente, assim compreendido aquele cuja a consumação se protrai no tempo, não se exige a apresentação de mandado de busca e apreensão para o ingresso dos policiais na residência do acusado, quando se tem por objetivo fazer cessar a atividade criminosa, dada a situação de flagrância, conforme ressalva o art. 5º, XI, da Constituição Federal. Ainda, a prisão em flagrante é possível enquanto não cessar a permanência, independentemente de prévia autorização judicial. Precedentes (HC 407.689/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 27/8/2017).
+2. No caso, o Tribunal de origem corretamente afastou a alegação de ilicitude da prova colhida na busca e apreensão de drogas na residência do recorrente (142 pedras de crack e 73 porções de cocaína), considerando a situação de flagrância pela prática de crime permanente de tráfico de drogas (ter em depósito), evidenciada por informação concreta da ocorrência do delito, e que prescinde de mandado judicial.
+3. Agravo regimental desprovido" (AgRg no REsp 1670962/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/12/2017, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 157 DO CPP. TRÁFICO DE ENTORPECENTES E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. FLAGRANTE EM DELITO PERMANENTE. VIOLAÇÃO DE DOMICÍLIO. PROVA ILÍCITA. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente neste Superior Tribunal de Justiça que "Tratando-se de crimes de natureza permanente, como é o caso do tráfico ilícito de entorpecentes, mostra-se prescindível o mandado de busca e apreensão para que os policiais adentrem o domicílio do acusado, não havendo se falar em eventuais ilegalidades relativas ao cumprimento da medida (precedentes) (RHC 78.087/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/02/2017, DJe 08/03/2017). Súmula 568/STJ.
+2. Agravo regimental a que se nega provimento." (AgRg no AREsp 1100949/SC, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 18/9/2017, grifei).
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. PRINCÍPIO DA CORRELAÇÃO ENTRE A DENÚNCIA E A SENTENÇA. RECONHECIMENTO. AUSÊNCIA DE NULIDADE.
+ ..
+TRÁFICO DE DROGAS. MANDADO DE BUSCA E APREENSÃO. DESNECESSIDADE. FLAGRANTE DELITO. CRIME PERMANENTE.
+É dispensável o mandado de busca e apreensão quando se trata de flagrante delito da prática de crime previsto na Lei Antidrogas, como ocorreu na hipótese em apreço, até porque referido crime é de natureza permanente, ficando o agente em estado de flagrância enquanto não cessada a permanência.
+ ..
+2. Agravo regimental a que se nega provimento" (AgRg no REsp n. 1.475.699/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 1º/4/2016).
+"PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ARTS. 33 DA LEI 11.343/06 E 12 DA LEI 10.826/03. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. MANDADO DE BUSCA E APREENSÃO. AUSÊNCIA DE NULIDADE. INQUÉRITO POLICIAL. PEÇA INFORMATIVA. CULTIVO E DEPÓSITO DE MACONHA. CRIME PERMANENTE. RECURSO DESPROVIDO.
+ ..
+II - In casu, não se constata ilegalidade no mandado de busca e apreensão expedido em razão de denúncia anônima acerca da existência de uma plantação de Cannabis Sativa ("maconha") na residência do recorrente, cujo conteúdo não se revela genérico a ponto de ensejar o trancamento da ação penal.
+ ..
+IV - Verifica-se que o v. acórdão impugnado está de acordo com a jurisprudência pacífica desta Corte, que entende ser permanente o crime de tráfico de drogas - na modalidade guardar ou ter em depósito -, configurando-se o flagrante enquanto o entorpecente estiver em poder do infrator. Incide, portanto, no caso, a excepcionalidade do art. 5º, inciso XI, da Constituição Federal (precedentes).
+Recurso ordinário em habeas corpus desprovido" (RHC n. 61.053/PI, Quinta Turma, de minha relatoria, DJe de 28/3/2016).
+Essa tese também é a que prevalece no eg. Supremo Tribunal Federal:
+"TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE. PROVA ILÍCITA. 1. Cuidando-se de crime de natureza permanente, a prisão do traficante, em sua residência, durante o período noturno, não constitui prova ilícita. Desnecessidade de prévio mandado de busca e apreensão. 2. HC indeferido" (HC n. 84.772/MG, Segunda Turma, Relª. Minª. Ellen Gracie, DJ de 12/11/2004).
+Desse modo, não há que se falar em ilicitude ou ilegitimidade das provas obtidas.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
