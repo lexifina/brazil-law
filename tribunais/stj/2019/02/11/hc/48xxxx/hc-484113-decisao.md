@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAICON KAENO SATURNINO DE OLIVEIRA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi absolvido da imputação descrita na denúncia, como incurso nas sanções do artigo 157, parágrafo 2º, inciso II e art. 157, parágrafo 2º, inciso II, c.c. art. 14, inciso II, todos do Código Penal.
+Irresignada, a acusação interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao apelo, para condenar o paciente, como incurso nas sanções do artigo 157, parágrafo 2º, inciso II e art. 157, parágrafo 2º, inciso II, c.c. art. 14, inciso II, todos do Código Penal, às penas de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 15 (quinze) dias-multa, nos termos do acórdão juntado às fls. 22-30.
+No presente writ, o impetrante alega que houve afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Requer, ao final, a concessão da ordem, para fixar o regime semiaberto, para início de cumprimento da pena (fls. 3-11).
+O pedido liminar foi indeferido (fls. 38-39).
+As informações foram prestadas às fls. 45-57.
+O Ministério Público Federal, às fls. 59-63, manifestou-se pela denegação da ordem, nos termos da seguinte ementa:
+"PENAL. PROCESSUAL PENAL. ROUBO MAJORADO. ART. 157, § 2o, INCISO II E ART. 157, II, C/C ART. 14, II, NA FORMA DO ART. 71, TODOS DO CÓDIGO PENAL. REGIME PRISIONAL FECHADO. ART. 33 DO CÓDIGO PENAL. FUNDAMENTAÇÃO CONCRETA. 1. "Inexiste violação à Súmula n." 440 dessa Corte Superior quando a fixação do regime prisional é baseada na gravidade concreta da conduta delituosa, a evidenciar que a pena-base deixou de ser exasperada tão-somente em razão da benevolência das instâncias ordinárias. "2. No caso, embora o paciente tenha sido condenado a reprimenda inferior a 8 (oito) anos, as instâncias ordinárias apresentaram fundamentação concreta a justificar o regime inicial fechado, notadamente em razão das circunstâncias incomuns em que o crime foi praticado, destacando-se o concurso de agentes e a violência fiscia e psicológica às vítimas, aspectos que demonstram maior periculosidade e exige um tratamento mais rigoroso ao sentenciado. 3. Parecer pela denegação do habeas corpus."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do ato, salvos os casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante alega que houve afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Em relação ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente, in verbis:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+Quanto ao punctum saliens, o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou, in verbis:
+"O regime inicial fechado é imperioso porque os corréus, com premeditação, rapinaram posto de abastecimento e tentaram, em seguida, subtrair automotor. Renderam o frentista com violência física e investiram com brutalidade contra o dono do veículo, de sorte que a conduta imprimida pelos corréus é tida como violenta e delineia sensível reprovação na conduta, de modo que não reúnem mérito para iniciar o cumprimento da pena noutro regime que não o inicial fechado. Há acentuada vilania de comportamento na conduta dos infratores que frontalmente atentaram contra a incolumidade física de mais de um cidadão ."
+In casu, o regime adequado à hipótese é o inicial fechado, uma vez que, não obstante o montante final da pena autorizar o regime semiaberto, depreende-se do acórdão impugnado que houve fundamentação idônea a lastrear a aplicação do regime mais gravoso, inexistindo flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Nesse sentido:
+" ..  REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. ELEVADA QUANTIDADE DE ENTORPECENTE. MODO MAIS GRAVOSO JUSTIFICADO. ILEGALIDADE INEXISTENTE.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado.
+2. Na espécie, estabelecida a sanção em patamar superior a 4 anos e inferior a 8 anos de reclusão, a gravidade concreta do crime, evidenciada pela expressiva quantidade de droga que motivou a fixação da pena-base acima do mínimo legal, é justificável a imposição do modo prisional fechado.3. Agravo improvido." (AgRg no AgRg no AREsp 1210932/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 15/06/2018).
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
