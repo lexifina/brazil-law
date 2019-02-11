@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. APELAÇÃO CÍVEL. INAPLICABILIDADE DAS NORMAS DA ASSOCIAÇÃO PARA IMPOR OBRIGAÇÃO DE NÃO FAZER QUANTO À UTILIZAÇÃO DO IMÓVEL RETRATADO NA DEMANDA EM RAZÃO DA NÃO CONDIÇÃO DE SÓCIOS OU FILIADOS DOS REQUERIDOS. AUSÊNCIA DE IMPUGNAÇÃO DO REFERIDO FUNDAMENTO DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 283/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto pela ASSOCIACAO MELHORAMENTOS RESIDENCIAL S JOSE DO RIBEIRAO contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado (fl. 158, e-STJ):
+ASSOCIAÇÃO. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C.C. PEDIDO DE TUTELA ANTECIPADA.
+Utilização do imóvel em desconformidade com o regulamento interno da associação. Locação da unidade a terceiros mediante contraprestação pecuniária. Recusa dos proprietários à submissão do regramento próprio com a justificativa de que não se associaram à autora. Insurgência, na espécie, adequada.
+Associação que reclama manifestação expressa e inequívoca.
+Pagamento da taxa mensal de manutenção, por seu turno, que não importa em efetivo ingresso no corpo social da pessoa jurídica.
+Providência, apenas, que afasta o alegado enriquecimento sem causa dos proprietários, contemplados com específicos serviços patrocinados pela associação, sem conotação associativa.
+Impossibilidade, outrossim, de sujeição da matéria ao condomínio edilício. Necessária observância da natureza jurídica atribuída às associações e de suas conseqüências legais. Incidência do disposto no art. 5º, inc. XX, da Constituição Federal. Precedentes.
+APELO DESPROVIDO.
+Nas razões do recurso especial (fls. 540-552, e-STJ), a recorrente apontou violação dos seguintes dispositivos normativos: arts. 1277, 1336, ambos do CC; e art. 10, inciso II, da Lei nº 4.591/64, sustentando, em síntese, que o proprietário pode fazer cessar as interferências prejudiciais ao sossego, saúde e segurança, o que, no venerando acórdão foi totalmente negado, uma vez que, na hipótese dos autos, os recorridos vêm extrapolando o seu direito de propriedade, ao destinar o imóvel retratado nos autos, que é exclusivamente residencial, fins comerciais.
+Requereu, ao final, o acolhimento do seu pedido, a fim de compelir os requeridos de destinar o imóvel residencial para locação de temporadas e finais de semana, bem como aplicar multa diária em caso de descumprimento.
+Em decisão monocrática (fls. 292-294, e-STJ), a Corte local indeferiu o processamento do apelo nobre ao considerar que não foi comprovada a ofensa aos dispositivos arrolados, aplicação da Súmula 7/STJ e ausência de comprovação do dissídio jurisprudencial suscitado.
+Nas razões do agravo em recurso especial (fls. 308-318, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentação no sentido de superar os impedimentos acima indicados.
+Contraminuta ofertada às fls. 321-325, e-STJ.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mérito, o Tribunal de origem indeferiu o recurso de apelação, consistente no pedido de obrigação de não fazer alusivo à utilização do imóvel retratado nos autos, ao consignar que os demandados não se sujeitam às normas oriundas da associação, consoante se observa nos seguintes trechos do acórdão recorrido (fl. 160, e-STJ):
+Nada além dessa circunstância, em síntese, é resultante do pagamento das taxas de manutenção. Logo, necessária a sujeição da hipótese à previsão do art. 5º, inc. XX, da CF, segundo a qual "ninguém poderá ser compelido a associar se ou a permanecer associado". A condição de sócio ou filiado, reitere-se, não pode ser compulsoriamente atribuída à parte, contra a sua vontade, porque o valor da liberdade de associação, consubstanciado na Constituição Federal, deve prevalecer sobre o interesse dos demais proprietários alinhados à criação de uma entidade destinada a promover melhorias no loteamento.
+Afastada a associação sustentada pela apelante, descabe, por conseqüência, sujeitar os apelados às suas normativas, apartando-se, igualmente, a exigibilidade de qualquer punição aplicada pela apelante. Aliás, essa impossibilidade não significa, por si só, que o uso desarrazoado da propriedade não se encontra sujeito ao regramento jurídico, considerando as inúmeras prescrições legais inseridas na tutela do direito de vizinhança.
+No contexto, verifica-se que a recorrente, nas razões do recurso especial, deixou de impugnar o referido fundamento, qual seja, a não condição dos requeridos de sócios ou filiados da associação autora da presente ação, incidindo, portanto, o enunciado sumular nº. 283 do Supremo Tribunal Federal, que assim dispõe: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INDEVIDA EXCLUSÃO DO BENEFICIÁRIO DOS SERVIÇOS DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESTABELECIMENTO OCORRIDO SOMENTE APÓS AJUIZAMENTO DE AÇÃO JUDICIAL. LONGO PERÍODO SEM USUFRUIR DO CONVÊNIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. DANO MORAL. AFERIÇÃO. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. QUANTUM INDENIZATÓRIO. VALOR NÃO EXORBITANTE. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não ocorre ofensa ao art. 1.022, II, do NCPC, quando o acórdão recorrido examina, de forma fundamentada, como no caso, as questões postas em debate. O mero inconformismo da parte com o desfecho contrário aos seus interesses não configura negativa de prestação jurisdicional.
+3. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula nº 283 do STF.
+4. De acordo com a jurisprudência desta Corte, é possível o reexame do valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+5. No caso concreto, em que a indenização foi arbitrada em R$ 20.000,00 (vinte mil reais), o montante não se revela irrisório ou exagerado, a permitir a intervenção do STJ.
+6. Consoante iterativa jurisprudência deste Tribunal Superior, não é possível o conhecimento do recurso lastreado também na alínea c do permissivo constitucional, em virtude da falta de identidade entre os paradigmas apresentados e os fundamentos do acórdão, considerando-se a situação fática de cada caso.
+7. É vedado, no agravo interno, apreciar questões que não foram objeto de impugnação no recurso especial, bem assim não debatidas pelas instâncias ordinárias, sob pena de supressão de instância e inovação recursal.
+8. Agravo interno não provido. (AgInt no AREsp 1355056/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2018, DJe 19/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. AVALISTA. RECUPERAÇÃO JUDICIAL. COMPETÊNCIA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF.
+(..)
+3. A ausência de impugnação de um fundamento do acórdão recorrido enseja o não conhecimento do recurso no ponto, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. Agravo interno não provido. (AgInt no AREsp 1243423/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios, fixados em 15% (quinze por cento), para 17% (dezessete por cento) do valor atribuído à causa.
+Intimem-se.
