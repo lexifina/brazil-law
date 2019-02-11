@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). ACÓRDÃO QUE CONSIDEROU OS EMBARGOS DECLARATÓRIOS OPOSTOS NA ORIGEM COMO PEDIDO DE RECONSIDERAÇÃO E, COM ISSO, AFASTOU A EFICÁCIA INTERRUPTIVA DO RECURSO. IMPOSSIBILIDADE. PRINCÍPIOS DA FUNGIBILIDADE E DA TIPICIDADE RECURSAL. EFICÁCIA INTERRUPTIVA DO PRAZO RECURSAL IMPOSITIVA, DESDE QUE O RECURSO SEJA CABÍVEL E TEMPESTIVO. PRECEDENTES. DEVOLUÇÃO DO PRAZO RECURSAL. NECESSIDADE.
+AGRAVO CONHECIDO PARA, DESDE LOGO, DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por ASSOCIAÇÃO DO PLANO DE SAÚDE DA SANTA CASA DE SANTOS em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim resumido:
+AGRAVO DE INSTRUMENTO Prazo Interposição - Embargos de declaração opostos contra decisão anterior - Mero pedido de reconsideração - Ato que não suspende e tampouco interrompe o prazo recursal - Intempestividade manifesta do agravo - Recurso não conhecido (e-STJ fl. 555).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 590/593).
+Nas razões do especial, a recorrente, além de apontar dissídio jurisprudencial, alegou que a Corte de origem, ao decidir que os aclaratórios opostos contra a decisão que determinou o pagamento das astreintes, eram na verdade, pedido de reconsideração, motivo pelo qual seria intempestivo o agravo de instrumento subsequente, feriu o disposto no art. 1.026 do Código de Processo Civil de 1973.
+Sustentou que, quando o órgão julgador entende que os embargos de declaração têm o intuito obter efeitos infrigentes, não há previsão legal para o afastamento do efeito interruptivo do recurso, sendo certo que o sancionamento legal previsto é a imposição de multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 1973.
+Foram apresentadas contrarrazões às fls. 635/645 (e-STJ).
+Inadmitido o apelo nobre (e-STJ fls. 650/651), vieram os autos conclusos em decorrência da interposição do agravo de fls. 654/667 (e-STJ).
+O Ministério Público Federal emitiu parecer às fls. 708/711 (e-STJ).
+É o relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Devidamente impugnada a decisão agravada, constata-se que assiste razão à recorrente.
+Com efeito, o entendimento adotado pelo Tribunal a quo está em confronto com a jurisprudência do Superior Tribunal de Justiça, pacificada no âmbito da Corte Especial, conforme se verifica, verbis:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RECEBIMENTO DE EMBARGOS DE DECLARAÇÃO COM PEDIDO DE EFEITO MODIFICATIVO COMO MERO PEDIDO DE RECONSIDERAÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 538 DO CPC. RECURSO PROVIDO.
+1. Configura violação ao art. 538 do CPC o recebimento de embargos de declaração como mero "pedido de reconsideração", ainda que contenham nítido pedido de efeitos infringentes.
+2. Tal descabida mutação: a) não atende a nenhuma previsão legal, tampouco aos requisitos de aplicação do princípio da fungibilidade recursal; b) traz surpresa e insegurança jurídica ao jurisdicionado, pois, apesar de interposto tempestivamente o recurso cabível, ficará à mercê da subjetividade do magistrado; c) acarreta ao embargante grave sanção sem respaldo legal, qual seja a não interrupção de prazo para posteriores recursos, aniquilando o direito da parte embargante, o que supera a penalidade objetiva positivada no art. 538, parágrafo único, do CPC.
+3. A única hipótese de os embargos de declaração, mesmo contendo pedido de efeitos modificativos, não interromperem o prazo para posteriores recursos é a de intempestividade, que conduz ao não conhecimento do recurso.
+4. Assim como inexiste respaldo legal para se acolher pedido de reconsideração como embargos de declaração, tampouco há arrimo legal para se receber os aclaratórios como pedido de reconsideração. Não se pode transformar um recurso taxativamente previsto no art. 535 do CPC em uma figura atípica, "pedido de reconsideração", que não possui previsão legal ou regimental.
+5. Recurso especial provido.
+(REsp 1.522.347/ES, CORTE ESPECIAL, Rel. Ministro RAUL ARAÚJO, DJe 16/12/2015 - grifos nossos)
+Cumpre destacar o seguinte excerto extraído do voto-condutor do aresto, de relatoria do Min. Raul Araújo, verbis:
+Realmente, o surpreendente recebimento dos aclaratórios como pedido de reconsideração acarreta para o embargante uma gravíssima sanção sem previsão legal, qual seja a não interrupção de prazo para posteriores recursos, fazendo emergir preclusão, o que supera, em muito, a penalidade prevista no parágrafo único do art. 538 do CPC. A inesperada perda do prazo recursal é uma penalidade por demais severa, contra a qual nada se poderá fazer, porque encerra o processo. Nessa linha de intelecção, o recebimento dos aclaratórios como pedido de reconsideração aniquila o direito constitucional da parte ao devido processo legal e viola, ainda, o princípio da proibição da reformatio in pejus. Inexiste maior prejuízo para a parte do que a perda da possibilidade de recorrer, assegurada na lei processual, apresentando seus argumentos às instâncias superiores, no fito legítimo de buscar a reforma de julgado que entende equivocado.
+Por sua vez, o Código de Processo Civil já estabelece no parágrafo único do art. 538 a penalidade cabível quando o jurisdicionado desvirtua a função dos embargos de declaração, qual seja, as multas.
+Assim, o recebimento dos aclaratórios como pedido de reconsideração padece de, ao menos, duas manifestas ilegalidades, sendo a primeira a ausência de previsão legal para tal sanção subjetiva, e a segunda, a "não interrupção do prazo recursal", aniquilando o direito da parte embargante e ignorando a penalidade objetiva, estabelecida pelo legislador no parágrafo único do art. 538 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO RECURSAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "A única hipótese de os embargos de declaração, mesmo contendo pedido de efeitos modificativos, não interromperem o prazo para posteriores recursos é a de intempestividade, que conduz ao não conhecimento do recurso" (REsp 1522347/ES, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 16/09/2015, DJe 16/12/2015).
+3. "Quando não há alegação, tampouco decisão anterior, a impenhorabilidade do bem de família é matéria de ordem pública, dela podendo conhecer o juízo a qualquer momento, antes da arrematação do imóvel" (REsp 981.532/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/08/2012, DJe 29/08/2012).
+4. Agravo interno desprovido.
+(AgInt no AREsp 377.850/SP, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe 05/09/2018)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. RECEBIMENTO DE EMBARGOS DE DECLARAÇÃO COM PEDIDO DE EFEITO MODIFICATIVO COMO MERO PEDIDO DE RECONSIDERAÇÃO E SEM INTERRUPÇÃO DE PRAZO. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 538 DO CPC. PRECEDENTE DA CORTE ESPECIAL.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, a oposição de embargos de declaração de forma tempestiva, ainda que rejeitados por terem propósito infringente, interrompem o para recurso, não podendo ser recebidos como mero pedido de reconsideração. Precedente da Corte Especial: REsp 1522347/ES, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 16/9/2015, DJe 16/12/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.161.733/SP, QUARTA TURMA, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 22/05/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO TEMPESTIVOS. INTERRUPÇÃO DO PRAZO RECURSAL. IMPOSSIBILIDADE DE RECEBIMENTO COMO PEDIDO DE RECONSIDERAÇÃO.
+1. A questão da omissão do julgado e a relativa à interrupção do prazo recursal pela oposição tempestiva de embargos declaratórios não demandam reexame de provas. Afasta-se a Súmula 7/STJ.
+2. Os embargos de declaração tempestivos, ainda que rejeitados por terem o propósito de rejulgamento, interrompem o prazo recursal, não podendo ser recebidos como mero pedido de reconsideração. Precedente da Corte Especial: EDcl no AgRg no AREsp 168.637/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/12/2015, DJe 16/12/2015.
+3. Agravo regimental não provido.
+(AgRg no AREsp 834.956/DF, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 11/04/2016)
+Desse modo, os embargos declaratórios opostos na origem interromperam o prazo para eventuais recursos, sendo, por consequência, tempestivo o agravo de instrumento.
+Diante do exposto, conheço do agravo e, desde logo, dou provimento ao recurso especial para, reconhecendo a interrupção dos prazos processuais gerada pela oposição dos embargos de declaração por parte da ora recorrente, determinar o retorno dos autos à origem, afastando-se o óbice da intempestividade, a fim de que se prossiga no julgamento do recurso.
+Intimem-se.
