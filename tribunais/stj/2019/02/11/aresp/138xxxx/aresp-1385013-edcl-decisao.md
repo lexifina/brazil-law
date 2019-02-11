@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+DECISÃO
+Trata-se de embargos de declaração opostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 20, §§ 3º E 4º, DO CPC/1973. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Sustenta a parte embargante a existência do vício de omissão quanto à majoração dos honorários de advogado.
+Apresentada impugnação.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Suprimo o existente vício alegado.
+Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal, o qual fixo no importe de mil reais.
+Ante o exposto, acolho os embargos de declaração, nos termos da fundamentação.
+Publique-se. Intimem-se.
