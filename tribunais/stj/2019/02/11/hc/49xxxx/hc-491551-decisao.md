@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MICHEL PEREIRA PEIXOTO, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro que indeferiu a liminar no writ de origem.
+O impetrante busca a revogação da prisão preventiva, sob a alegação de ausência de fundamentação válida para a manutenção da constrição cautelar.
+O paciente foi denunciado pela prática dos delitos tipificados nos arts. 157, § 2º, II, e 157, § 2º, II, c/c o art. 14, II, todos do Código Penal.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que tão somente em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+O Tribunal de origem indeferiu a liminar nos seguintes termos (fl. 36):
+ .. .Numa cognição sumária, indefiro a concessão da almejada liminar. Oficie-se ao juízo coator, de quem requisito as informações reputadas pertinentes. .. .
+A decisão de prisão preventiva assim dispôs (fl. 23):
+ .. .Inicialmente, cumpre consignar que nenhuma forma de agressão física no ato prisional foi relatada pelo custodiado. Quanto à prisão em flagrante, foram observadas as formalidades legais, bem como as condições objetivas e subjetivas da medida pré-cautelar. O custodiado foi preso em flagrante pela prática, em tese, do crime de roubo, punido com pena privativa de liberdade máxima superior a quatro anos Admite-se, portanto, a prisão preventiva, nos termos do art. 313,1, do CPP. Há prova da existência do crime e indícios suficientes de autoria, materializados nos depoimentos das vítimas e testemunhas em sede policial. No caso concreto, observa-se que houve grave ameaça com emprego de violência e concurso de pessoas, contra duas vítimas, aparentemente em continuidade delitiva, o que revela a alta periculosidade do agente e a necessidade da prisão como garantia da ordem pública. Ademais, a liberdade do custodiado pode gerar mais temor às vítimas que, já abaladas pelo crime, ainda deverão comparecer em juízo para depor e realizar o ato de reconhecimento de forma isenta e livre de intimidações, tornando necessária a prisão cautelar per conveniência da instrução criminal, a fim de tutelar a produção da prova e não comprometer a busca pela verdade. Assim, com fundamento nos arts. 310, inciso II, 312 e 313, todos do CPP, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA.  .. .
+Como se vê, a decisão apresenta fundamento na gravidade do crime - roubo majorado, com emprego de violência contra duas vítimas e em concurso de pessoas - de modo que não se verifica, ao primeiro exame, ilegalidade na decisão recorrida.
+Ressalte-se que há divergência, nesta Sexta Turma, sobre a fundamentação do decreto prisional, ante as circunstâncias fáticas do crime de roubo majorado, motivo pelo qual é inviável a concessão da liminar no presente caso, sendo que a análise da matéria deve ocorrer de forma mais apurada, por ocasião do julgamento de mérito do Colegiado, juiz natural da causa, assim inclusive garantindo-se a necessária segurança jurídica.
+Assim, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, sendo necessária a análise apurada do caso, o que será melhor realizado pelo Tribunal a quo, quando da análise do mérito do writ originário.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
