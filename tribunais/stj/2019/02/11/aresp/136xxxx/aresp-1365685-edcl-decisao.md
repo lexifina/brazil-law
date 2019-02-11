@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSE GOMES DE ALMEIDA E OUTROS em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante, em síntese, que não seriam devidos honorários recursais uma vez que o advogado da parte adversa não atuou nesta fase recursal ao não apresentar contrarrazões ao recurso.
+Argumenta ainda que "ainda que o Agravo em Recurso Especial tenha sido manejado na vigência do Código de Processo Civil/2015, constata-se que a publicação da decisão de origem ( fls 514/517 e fls 518/519 ) que arbitrou em 10% os honorários ocorreu em 30/11/2015, ou seja antes da vigência do Novo CPC/2015". (fl. 740)
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Esclareça-se que o marco temporal que autoriza a majoração dos honorários sucumbenciais é a publicação do acórdão que ensejou a interposição do recurso especial, no caso dos autos 31/10/2017 (fl. 735), portanto na vigência do Código de Processo Civil de 2016.
+Ilustrativamente:
+"EMBARGOS DE DECLARAÇÃO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NO AGRAVO INTERNO. DESCABIMENTO.
+1. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, que estejam presentes os pressupostos legais de cabimento.
+2. Ante o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"), o presente grau de jurisdição inaugurou-se com a publicação do acórdão que ensejou a interposição do próprio Recurso Especial, protocolado em 31.8.2011, antes da vigência do novo diploma processual civil.
+3. Na linha do decidido pelo STJ, "deixa-se de aplicar honorários sucumbenciais recursais nos termos do enunciado 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)" (..)" (STJ, AgInt no AgRg no REsp 1.200.271/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 17/5/2016).
+4. Embargos de Declaração rejeitados." (EDcl no AgInt no REsp n. 1.372.059/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/4/2017.)
+No que tange à alegação de inexistência de atuação do patrono da parte adversa na fase de recurso ressalte-se que, conforme orientação jurisprudencial desta Corte Superior, para a majoração dos honorários recursais é dispensável o trabalho adicional do advogado da parte Recorrida no grau recursal. Ilustrativamente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR. ALIENAÇÃO MENTAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ENUNCIADO ADMINISTRATIVO 7 DO STJ. NOVO CPC/15. TRABALHO ADICIONAL.
+ ..
+3. Registre-se, ainda, que esta Corte Superior tem se posicionado no sentido de que, para a majoração dos honorários advocatícios de que trata o art. 85, § 11, do novo CPC/15, "não é exigível a comprovação de trabalho adicional do  advogado  do  recorrido  no grau recursal, tratando-se apenas de critério de quantificação da verba" (AgInt nos EDcl no REsp 1357561/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/2017, DJe 19/04/2017).
+4. Agravo interno a que se nega provimento." (AgInt no AREsp n. 1.073.648/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/8/2017.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
