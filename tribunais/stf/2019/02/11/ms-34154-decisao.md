@@ -1,0 +1,17 @@
+Vistos etc.
+    Em seu parecer, a Procuradora-Geral da República propõe a realização de diligência, com intimação das partes, a fim de que, novamente, se manifestem sobre a possibilidade e o interesse na solução consensual da demanda.
+    A mencionada proposição está fundada nos seguintes argumentos, na fração de interesse (evento 129, fls. 6-7; destaques acrescidos):
+    “(...) submetido o feito à CCAF, a União não apenas rechaçou a proposta do Distrito Federal, mas esclareceu – já perante o Supremo Tribunal Federal – que ainda seria possível ao impetrante assinar o termo aditivo, na forma da Lei Complementar 156/2016, para preservar a segurança jurídica. Aliás, quanto ao ponto, ainda não houve manifestação judicial, pois o despacho da Ministra Relatora determinou a oitiva da União quanto à proposta do Distrito Federal e, em seguida, a concessão de imediata vista dos autos à Procuradoria-Geral da República.
+    O Distrito Federal impetrou o mandado de segurança em 2016 e o processo permaneceu suspenso por 2 anos, em razão da liminar concedida no MS 34023, de modo que não há prejuízo em aguardar nova intimação das partes para manifestação de interesse na resolução consensual da demanda ou a imediata designação de audiência conciliatória, com a participação do Ministério Público Federal, para a tentativa de mediação judicial, consideradas as manifestações – proposta recusada e contraproposta – já apresentadas pelas partes após a informação do fim das tratativas na CCAF.
+    Aliás, vale destacar que, de 2016 até hoje, houve alteração na situação jurídico financeira e gestora das partes, o que leva a crer na possibilidade de mudanças de paradigma e perspectiva no enfrentamento de questões como a presente, a envolver o equilíbrio federativo.
+    Todas essas circunstâncias demonstram que, apesar do encerramento – por ora, infrutífero – das tentativas conciliatórias perante a CCAF, parece persistir a possibilidade de solução consensual da demanda.
+    (…)
+    Portanto, recomenda-se insistir na intimação das partes, para manifestação sobre a solução consensual da demanda ou para comparecimento em juízo para audiência conciliatória, privilegiando-se, dessa forma, a harmonização autônoma de seus interesses e o equilíbrio do pacto federativo.”
+    Entendo que a proposta de intimação da União e do Distrito Federal, para nova tentativa de autocomposição, nos termos sugeridos pelo Ministério Público, deve ser acolhida, considerada, principalmente, a mudança na situação financeira e gestora dos referidos entes federados, ensejadora de potencial modificação na perspectiva de enfrentamento da questão.
+    Com efeito, tendo em vista o novo contexto dos entes políticos envolvidos, afigura-se relevante, inclusive, verificar a possibilidade de aceitação, por parte do Distrito Federal, da contraproposta apresentada pela União, qual seja, a de assinatura de termo aditivo nos termos da Lei Complementar nº 156/2016.
+    Intimem-se, pois, a União e o Distrito Federal, por seus órgãos de representação judicial, para que se manifestem, no prazo de 5 (cinco) dias, sobre a possibilidade e o interesse, considerada a mudança na situação financeira e gestora dos referidos entes federados, de reabertura de tratativas no âmbito da Câmara de Conciliação e Arbitragem da Administração Federal (CCAF), com o escopo de obter solução consensual para a presente demanda.
+    Decorrido o prazo, voltem os autos conclusos.
+    Publique-se.
+    Brasília, 11 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
