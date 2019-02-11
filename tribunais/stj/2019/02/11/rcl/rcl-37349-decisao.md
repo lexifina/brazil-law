@@ -1,0 +1,9 @@
+DECISÃO
+Cuida a espécie de Reclamação fundada no art. 988, II, do CPC, manejada por [NOME], [NOME], [NOME] e SIGFRID FRAZÃO KEYSSELT, todos por intermédio de procurador regularmente constituído (fl. 12), em que atribuem ao ilustre Dr. [NOME] REGINALDO COSTA RODRIGUES NOGUEIRA, DD. Juiz Assessor do Núcleo Auxiliar de Conciliação de Precatórios, do e. Tribunal de Justiça da Bahia, a emissão de cinco decisões administrativas (fls. 17/20) que, em tese, estariam, em parte, desrespeitando a autoridade da decisão liminar proferida por este Relator, no âmbito do Recurso Especial 1.748.266/BA (cópia às fls. 21/26), no que determinou a parcial suspensão de pagamento de valores vinculados a precatórios que indica,originários de condenação pecuniária imposta ao Estado da Bahia, em favor dos ora requerentes.
+É o necessário relato. Decido.
+Ao que se tira da narrativa exposta na exordial (fls. 3/11), lastreada nas decisões todas que a instruem, tenho que o douto Magistrado requerido parece ter conferido indevido elastério à referida decisão deste Relator, no que pôs à salvo o oportuno pagamento dos aludidos precatórios, relativamente aos valores não decorrentes da noticiada multa diária.
+Assim, em ordem a se evitar indesejável dano aos reclamantes, ante a expectativa de virem a experimentar eventual falta de observância à ordem cronológica no pagamento de seus créditos, hei por bem em deferir a medida liminar solicitada pelos autores, para que a autoridade judicial reclamada não obste o regular curso dos pagamentos já autorizados pela decisão deste STJ, reproduzida às fls. 21/26.
+Cumpra-se, no mais, as diligências dispostas no art. 188, I e III, do RISTJ, com a requisição de informações à autoridade reclamada e a citação do Estado da Bahia.
+Adiante, encaminhe-se estes autos ao douto Ministério Público Federal, para os fins anotados no art. 190 do mesmo Regimento Interno.
+Comunicações com a necessária urgência.
+Publique-se.
