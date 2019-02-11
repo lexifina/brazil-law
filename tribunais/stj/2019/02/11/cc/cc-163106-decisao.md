@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA ÚNICA DE MARCELINO VIEIRA-RN, suscitante, e o TRIBUNAL REGIONAL DO TRABALHO DA 21ª REGIÃO, suscitado, nos autos da reclamação trabalhista movida por [NOME] em desfavor do MUNICÍPIO DE MARCELINO VIEIRA-RN, em que requer o pagamento de verbas remuneratórias referentes ao vínculo laboral.
+A ação foi proposta perante o Juízo da Vara Única do Trabalho de Pau de Ferros-RN, que julgou procedente em parte o pleito autoral. Em grau de recurso ordinário, o TRT da 21ª Região declarou a incompetência absoluta da Justiça do Trabalho, determinando o encaminhamento do feito à Justiça Estadual.
+Os autos foram distribuídos ao Juízo de Direito da Vara Única da Comarca de Marcelino Vieira-RN, que suscitou o presente conflito, por entender não ser a competente para a análise do feito.
+Relatados. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+In casu, a parte reclamante defende ter sido contratada para trabalhar na função de Agente Comunitário de Saúde na data de 02/01/2000.
+O regime de contratação teria sido o celetista, nos termos do que dispõe a Lei Municipal nº 161/2006, a qual, no art. 7º, caput, estabelece que, litteris:
+Art. 7º O pessoal admitido no emprego público de que trata esta lei terá sua relação de trabalho regida pela Consolidação das Leis do Trabalho-CLT-e legislação trabalhista correlata.
+Ademais, o art. 8º da Lei Federal nº 11.350/2006, sobre os Agentes Comunitários de Saúde, dispõe que:
+Art. 8o Os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4o do art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT, salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+O Supremo Tribunal Federal, ao julgar a ADI 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC 45/2004, ao apreciar a expressão relação de trabalho, afastou qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+No caso em exame, nos termos da Lei Municipal nº 106/2006 e da Lei Federal nº 11.350/2006, depreende-se que a relação jurídica estabelecida entre as partes é de natureza trabalhista.
+Dessarte, aplica-se o entendimento da Primeira Seção desta Corte, segundo o qual compete à Justiça do Trabalho processar e julgar reclamação trabalhista ajuizada por agente público contratado sob o regime celetista:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. AGENTE COMUNITÁRIO DE SAÚDE. RECLAMAÇÃO TRABALHISTA. REGIME CELETISTA. LEI N. 11.350/06. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Na hipótese, cuida-se de servidora municipal (agente comunitário de saúde) contratada sob o regime da Consolidação das Leis do Trabalho, após prévio processo seletivo, de acordo com o previsto no art. 8º da Lei Federal n. 11.350/06, não havendo lei local dispondo sobre regime jurídico diverso.
+2. "Nesse contexto, como a lei submeteu a servidora ao regime celetista, deve prevalecer a competência da justiça especializada para apreciar a controvérsia". (AgRg no CC 116.065/PE, Rel. Min. Castro Meira, Primeira Seção, julgado em 8.2.2012, DJe 17.2.2012.).
+Agravo regimental improvido.
+(AgRg no CC 121.904/RN, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 13/06/2012, DJe 18/06/2012)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. SERVIDOR PÚBLICO MUNICIPAL CONTRATADO PELO REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. De acordo com o entendimento da Primeira Seção desta Corte, a Justiça do Trabalho é competente para o processo e julgamento de causas propostas por servidores públicos municipais contratados sob o regime da CLT, instituído por meio de legislação municipal própria.
+2. Agravo regimental a que se nega provimento.
+(AgRg no CC 134.347/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015).
+CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. NEGATIVO. RECLAMAÇÃO TRABALHISTA. REGIME JURÍDICO CELETISTA. LEI MUNICIPAL 1.017/2008. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES.
+1. Trata-se de Conflito Negativo de Competência entre o Juízo de Direito da 2ª Vara Cível, Criminal e de Execuções Criminais de Cambuí-MG e o Juízo da 1º Vara do Trabalho de Pouso Alegre - MG, nos autos da Reclamação Trabalhista ajuizada por [NOME] contra o Município de Córrego do Bom Jesus, visando obter verbas decorrentes de vínculo empregatício.
+2. A determinação da competência para o processo e o julgamento das demandas que envolvem direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+3. O autor foi admitido no Município de Córrego do Bom Jesus, mediante a assinatura de sua carteira de trabalho (fl. 17, e-STJ) e nos termos da Lei Municipal 1.017/2008, que dispõe em seu art. 1º, parágrafo único, que o regime jurídico local é o celetista (fl. 18, e-STJ).
+4. Assim, temos que a relação jurídica estabelecida entre as partes encontra-se amparada pelos preceitos da Consolidação das Leis do Trabalho, razão pela qual não há como afastar a competência da Justiça Laboral para o julgamento da demanda. Precedentes do STJ.
+5. Agravo Regimental não provido.
+(AgRg no CC 135.877/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 26/11/2014, DJe 10/12/2014, destaques meus).
+Confiram-se, ainda, as seguintes decisões monocráticas: CC 144.929/PR, Rel. Min. Og Fernandes, DJe de 07.11.2016; CC 149.192/PR, Rel. Min. Benedito Gonçalves, DJe de 17.10.2016; CC 141.705/PR, Rel. Min. Assusete Magalhães, DJe de 07.10.2016: CC 146.661/PR, Rel. Min. Mauro Campbell Marques, DJe de 09.09.2016.
+Ante o exposto, conheço do conflito e declaro competente o TRIBUNAL REGIONAL DO TRABALHO DA 21ª REGIÃO.
+Publique-se. Intime-se.
