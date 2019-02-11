@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO EM GRUPO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O reexame de cláusulas contratuais ou de fatos e provas em recurso especial é inadmissível.
+3. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ITAÚ SEGUROS S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/11/2018.
+Concluso ao gabinete em: 21/12/2018.
+Ação: de cobrança ajuizada por GISLAINE MACIEL DE OLIVEIRA em desfavor da agravante, pleiteando o pagamento de indenização por invalidez permanente parcial/total por acidente, ou conforme coberturas dispostas nos contratos de seguro de vida básico, seguro de acidentes pessoais e seguro de vida complementar.
+Sentença: julgou parcialmente procedente a pretensão inicial para condenar a seguradora ré ao pagamento de indenização pela invalidez permanente em favor da autora no valor de R$ 83.568,75, a ser atualizado pelo IGPM/FGV com incidência a partir do ajuizamento da ação, acrescido de juros de mora de 1% ao mês desde a citação.
+Acórdão: deu provimento à apelação da parte autora, ora agravada, para reformar a sentença e condenar a parte requerida ao pagamento de indenização pela invalidez permanente por acidente em favor da autora, no valor de R$ 117.593,75, bem como negou provimento ao apelo do réu, ora agravante. A ementa do julgado restou ementada nos seguintes termos:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO EM GRUPO - APLICAÇÃO DO CDC - RENOVAÇÃO DAS APÓLICES - AUSÊNCIA DE DEMONSTRAÇÃO DE CIÊNCIA INEQUÍVOCA DO SEGURADO - DORT/LER - DOENÇA EQUIPARA A ACIDENTE DE TRABALHO - LAUDO PERICIAL QUE APONTA INCAPACIDADE PERMANENTE - RECEBIMENTO DE AUXÍLIO ACIDENTE PELO INSS - INAPLICABILIDADE DA TABELA SUSEP - COBERTURA QUE NÃO EXCLUEM DO CONCEITO DE ACIDENTE PESSOAL AQUELES ORIUNDOS DE DOENÇAS PROFISSIONAIS - RECURSO DA PARTE AUTORA CONHECIDO E PROVIDO - RECURSO DA PARTE REQUERIDA DESPROVIDO.
+Recurso especial: alega violação dos arts. 757, 760 e 801 do CC, bem como dissídio jurisprudencial. Assevera que "não há cobertura na apólice de seguro em discussão para os casos de incapacidade laborativa, além do mais, as doenças ocupacionais, além de serem riscos excluídos da Apólice Securitária, também não podem ser equiparadas a acidente de trabalho em matéria de seguro". Aduz que foi condenada a pagar indenização por cobertura para risco não contratado. Sustenta que é dever da empresa empregadora - e não da seguradora - o repasse das informações acerca do contrato de segurado de vida oferecido por aquela aos seus empregados. Defende que a interpretação restritiva dos contratos de seguro é plenamente compatível com a proteção ao consumidor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 801 do CC, indicado como violado, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à análise da subsunção ou não da invalidez apresentada pela segurada (doença profissional) ao risco expressamente acobertado no contrato de seguro (acidente pessoal), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência acerca de uma das teses apontadas - responsabilidade do estipulante pelo repasse de informações ao segurado - inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014. Incidência, no ponto, da Súmula 284/STF.
+Além disso, a incidência da Súmula 7/STJ acerca de tema que se supõe divergente - enquadramento da lesão ocupacional sofrida pelo segurado no conceito de acidente pessoal prescrito na apólice - impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da CF/88. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 408) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
