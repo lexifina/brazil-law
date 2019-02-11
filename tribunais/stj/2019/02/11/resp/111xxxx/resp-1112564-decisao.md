@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DA PAIXÃO E SILVA, com fundamento no art. 105, inciso III, letra "c", da Constituição Federal, frente a acórdão do eg. Tribunal Regional Federal da Primeira Região, assim ementado:
+AGRAVO REGIMENTAL. SFH. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. NATUREZA CAUTELAR. IMPROPRIEDADE. VALOR OFERTADO IRRISÓRIO. INDEFERIMENTO DA INICIAL. INADEQUAÇÃO DA VIA ELEITA.
+1. Justifica-se, na espécie, o indeferimento da inicial, ante a visível impropriedade de se utilizar a ação de consignação em pagamento como sucedâneo de ação cautelar, eis que a autora ajuizou ação ordinária objetivando discutir critérios de reajuste da prestação de contrato de financiamento da casa própria, havendo, após, ingressado com a consignatária para o depósito de prestações em valor que não corresponde ao valor tido como incontroverso.
+2. O pedido cautelar de depósito pode ser deduzido em ação própria ou na ação de rito ordinário com vistas à revisão contratual (CPC, art. 273, § 3º). Precedentes desta Corte.
+3. No caso, o valor ofertado pela consignante (R$ 56,63 - fls. 04), mostra-se irrisório se comparado ao valor da última prestação quitada (R$ 329,54 - fls. 06), não guardando, assim, relação com o conteúdo econômico do contrato.
+4. Agravo regimental interposto pela apelante improvido" (na fl. 221).
+Manejados embargos de declaração, foram rejeitados (nas fls. 238/240).
+A recorrente alega divergência jurisprudencial, sustentando que a ação de consignação em pagamento é via adequada para se discutir os critérios de reajustes aplicáveis a contratos de financiamento de imóveis.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Com efeito, o Superior Tribunal de Justiça, em julgamento submetido ao rito dos recursos repetitivos, firmou a tese de que, "em ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional". Confira-se a ementa do julgado:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. CONTRATO BANCÁRIO. IMPROCEDÊNCIA. FINALIDADE DE EXTINÇÃO DA OBRIGAÇÃO. NECESSIDADE DE DEPÓSITO INTEGRAL DA DÍVIDA E ENCARGOS RESPECTIVOS. MORA OU RECUSA INJUSTIFICADA DO CREDOR. DEMONSTRAÇÃO. OBRIGATORIEDADE. EFEITO LIBERATÓRIO PARCIAL. NÃO CABIMENTO. CÓDIGO CIVIL, ARTS. 334 A 339. CPC DE 1973, ARTS. 890 A 893, 896, 897 E 899. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CPC DE 2015.
+1. "A consignação em pagamento visa exonerar o devedor de sua obrigação, mediante o depósito da quantia ou da coisa devida, e só poderá ter força de pagamento se concorrerem "em relação às pessoas, ao objeto, modo e tempo, todos os requisitos sem os quais não é válido o pagamento" (artigo 336 do NCC)". (Quarta Turma, REsp 1.194.264/PR, Rel. Ministro Luís Felipe Salomão, unânime, DJe de 4.3.2011).
+2. O depósito de quantia insuficiente para a liquidação integral da dívida não conduz à liberação do devedor, que permanece em mora, ensejando a improcedência da consignatória.
+3. Tese para os efeitos dos arts. 927 e 1.036 a 1.041 do CPC: - "Em ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional".
+4. Recurso especial a que se nega provimento, no caso concreto.
+(REsp 1108058/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 10/10/2018, DJe 23/10/2018)
+Sendo assim, como a insuficiência do depósito conduz, obrigatoriamente, à total improcedência da ação de consignação em pagamento, não há falar em possibilidade de revisão de cláusulas, providência que seria consentânea com a vencida tese proposta pelo il. relator do precedente paradigmático, de que a insuficiência do depósito em hipóteses como tais, não conduzira "à improcedência do pedido, mas sim à extinção parcial da obrigação, até o montante da importância consignada, acarretando o reconhecimento da sucumbência recíproca, devendo a sentença que concluir pela insuficiência do depósito determinar, sempre que possível, o montante devido que valerá como titulo executivo, ainda que para tanto seja necessária a revisão de cláusulas contratuais" (Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO)).
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
