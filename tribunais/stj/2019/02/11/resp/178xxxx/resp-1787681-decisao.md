@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME] DE PAULA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1398, e-STJ):
+AGRAVO DE INSTRUMENTO DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA ÉGIDE DO CÓDIGO DE DEFESA DO CONSUMIDOR ENCERRAMENTO IRREGULAR REQUISITOS PREENCHIDOS - O abuso de direito ou a má-fé do sócio da executada, os elementos probatórios são suficientes para reconhecer que a personalidade jurídica serve de obstáculo ao ressarcimento reconhecido nos autos da ação principal.
+- As pessoas jurídicas e a sócia, ora agravadas não negam o encerramento irregular das empresas rés, apenas afirmam que este se deu antes da propositura da ação;
+- O ato ilícito (não pagamento dos títulos vendidos) foi em 1989 e 1990, quando, ao que indica, não estava dissolvida a empresa.
+Ademais, é de se ressaltar que sequer houve baixa das empresas rés nos órgãos oficiais, com indicação inconteste de encerramento das atividades.
+RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, a recorrente aponta ofensa ao artigo 50 do CC/02.
+Sustenta, em síntese, que "só pode haver desconsideração da personalidade jurídica (medida excepcionalíssima) quando restar demonstrado o seu abuso" (e-STJ, fl. 1503), "na modalidade de desvio de finalidade ou de confusão patrimonial", bem como, no caso dos autos, "o Tribunal a quo não se dedicou a análise de tais requisitos, baseando-se no suposto encerramento irregular das partes (que não se verifica no caso dos autos, uma vez que a baixa das empresas na Junta Comercial do Estado de São Paulo foi claramente demonstrada) e no fato de que, até o momento, não foram encontrados bens em seus nomes para satisfazer o crédito do ora Recorrido" (fl. 1504, e-STJ).
+Contrarrazões às fls. 1571/1580 (e-STJ).
+Após a decisão de admissão do recurso especial (fls. 1581/1582, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A pretensão recursal merece prosperar.
+1. Com efeito, quanto à alegada ofensa ao art. 50 do CC/02, observa-se que o Tribunal de origem, no julgamentos dos embargos de declaração, ao consignar inexistirem bens penhoráveis e concluir ter havido encerramento das atividades, entendeu estarem presentes os requisitos aptos ao deferimento do pleito de desconsideração da personalidade jurídica, nos seguintes termos (fls. 1434/1435, e-STJ):
+No caso, as pessoas jurídicas e a sócia da empresa Iate Clube de Castilho ora agravadas NÃO NEGAM o encerramento irregular das empresas rés, apenas afirmam que este se deu antes da propositura da ação. Acontece que o ato ilícito (não pagamento dos títulos vendidos) foi em 1989 e 1990, quando, ao que indica, não estava dissolvida a empresa. Ademais, é de se ressaltar que sequer houve baixa das empresas rés nos órgãos oficiais, com indicação inconteste de encerramento das atividades.
+E, até a interposição deste recurso contra a decisão que indeferiu o pedido de desconsideração, ainda não haviam sido localizados bens em nome do devedor, ou seja, há cerca de SETE ANOS o credor pretende apenas e tão somente cumprir decisão judicial com trânsito em julgado, sem sucesso.
+Portanto, de todos os ângulos, deve ser dado provimento ao recurso, para desconsiderar a personalidade jurídica.
+Esclareça-se que o posicionamento encampado na instância ordinária destoa do entendimento perfilhado neste Tribunal Superior, porquanto, "para haver a desconsideração da personalidade jurídica, as instâncias ordinárias devem, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos objetivos sem os quais a medida torna-se incabível" (AgRg no REsp 1496638/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/10/2016, DJe 28/10/2016) .
+Assim, não tendo sido a desconsideração da personalidade jurídica fundamentada no desvio de finalidade ou na confusão patrimonial, mas tão-somente na ausência de bens para responder pela dívida e no encerramento das atividades empresariais, o acórdão recorrido merece reforma.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 50 DO CC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. ENCERRAMENTO DAS ATIVIDADES OU DISSOLUÇÃO IRREGULARES DA SOCIEDADE. INSUFICIÊNCIA. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. DOLO. NECESSIDADE. INTERPRETAÇÃO RESTRITIVA. ACOLHIMENTO.
+1. "Tratando-se de regra de exceção, de restrição ao princípio da autonomia patrimonial da pessoa jurídica, a interpretação que melhor se coaduna com o art. 50 do Código Civil é a que relega sua aplicação a casos extremos, em que a pessoa jurídica tenha sido instrumento para fins fraudulentos, configurado mediante o desvio da finalidade institucional ou a confusão patrimonial", desse modo, o "encerramento das atividades ou dissolução, ainda que irregulares, da sociedade não são causas, por si só, para a desconsideração da personalidade jurídica, nos termos do Código Civil." (EREsp 1.306.553/SC, Relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 10/12/2014, DJe 12/12/2014) 2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 148.408/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 02/02/2017)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. INADIMPLEMENTO. INSOLVÊNCIA. EMPRESA DEVEDORA. NÃO PREENCHIMENTO DE REQUISITOS.
+1. É possível a desconsideração da personalidade jurídica nos termos do art. 50 do CC - teoria maior - quando há constatação do desvio de finalidade pela intenção dos sócios de fraudar terceiros ou quando houver confusão patrimonial.
+2. A mera demonstração de insolvência ou a dissolução irregular da empresa, por si sós, não ensejam a desconsideração da personalidade jurídica.
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp 334.883/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 04/02/2016, DJe 18/02/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. INOVAÇÃO EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CC/2002. TEORIA MAIOR. DISSOLUÇÃO IRREGULAR. INSUFICIÊNCIA E INEXISTÊNCIA DE PROVA. AFERIÇÃO DA PRESENÇA DOS ELEMENTOS AUTORIZADORES DA TEORIA DA DISREGARD DOCTRINE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É vedado à parte inovar em sede de agravo regimental, trazendo argumentação não abordada no recurso especial.
+2. A teoria da desconsideração da personalidade jurídica (disregard of legal entity doctrine) incorporada ao nosso ordenamento jurídico tem por escopo alcançar o patrimônio dos sócios-administradores que se utilizam da autonomia patrimonial da pessoa jurídica para fins ilícitos, abusivos ou fraudulentos, nos termos do que dispõe o art. 50 do CC: comprovação do abuso da personalidade jurídica, mediante desvio de finalidade ou de confusão patrimonial, em detrimento do interesse da própria sociedade e/ou com prejuízos a terceiros. Precedentes.
+3. A mera demonstração de insolvência da pessoa jurídica ou de dissolução irregular da empresa sem a devida baixa na junta comercial, por si sós, não ensejam a desconsideração da personalidade jurídica. Precedentes.
+4. Tendo por incontroversa a base fática apresentada pelo Tribunal de origem - inexistência de prova de encerramento irregular das atividades empresariais e de algum dos requisitos do art. 50 do CC -, este Tribunal Superior não esbarra no óbice da Súmula 7/STJ por analisar a alegação de violação do art. 50 do CC. Precedente.
+5. Agravo regimental não provido.
+(AgRg no AREsp. 550.419/RS, Rel. Min. RAUL ARAÚJO, DJe 19/05/2015)
+Nesse passo, inevitável a reforma do julgado hostilizado.
+2. Do exposto, amparado pelo art. 932 do NCPC c/c Súmula 568/STJ, dou provimento ao recurso especial a fim de afastar, pelos fundamentos lançados no acórdão recorrido, a desconsideração da personalidade jurídica da empresa litigante.
+Publique-se.
+Intimem-se.
