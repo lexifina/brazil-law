@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESSARCIMENTO AO SUS. DEPÓSITO JUDICIAL. LEVANTAMENTO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. SÚMULAS 283 E 284 DO STF. FUNDAMENTO CONSTITUCIONAL. SÚMULA 126/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR, em face de decisão proferida pelo Tribunal Regional Federal da 2ª Região que negou admissibilidade a recurso especial manejado contra acórdão sintetizado nos seguintes termos:
+ADMINISTRATIVO. AÇÃO CAUTELAR. APELAÇÃO CÍVEL. PAGAMENTO INTEGRAL DA DÍVIDA SEM A UTILIZAÇÃO DO DEPÓSITO JUDICIAL. SUSPENSÃO DA EXIGIBILIDADE. PARÁGRAFOS 25 E 26 DO ARTIGO 65 DA LEI 12.249/2010. LEVANTAMENTO. CONVERSÃO AUTOMÁTICA DO SALDO DEPOSITADO EM RENDA A FAVOR DA AUTARQUIA. RECURSO DESPROVIDO.
+Trata-se de apelação interposta pela AGÊNCIA NACIONAL DE SAUDE SUPLEMENTAR - ANS nos autos da ação cautelar ajuizada pela AMICO SAÚDE LTDA, objetivando a suspensão do débito nº 455040355090, referente ao processo nº 33902.232034/2002-27.
+A parte autora requereu a desistência do feito, nos termos do artigo 269, V, do CPC de 1973 (renúncia ao direito sobre o qual se funda a ação), para adesão ao REFIS, às fls.
+76/88, razão pela qual foi proferida a sentença extinguindo o feito, com resolução de mérito, na forma do artigo 487, III, c, do CPC.
+Em sede de apelação, a ANS se insurge contra o levantamento do depósito, que deverá ser efetuado integralmente pela parte autora, tendo em vista a quitação do débito objeto dos autos em sede administrativa (fls. 465 dos autos da ação ordinária).
+O disposto nos §§ 25 e 26 do artigo 65, da Lei n.º 12.249/2010, deve ser interpretado no sentido de que o levantamento se refere a depósitos realizados administrativamente e não em juízo, sob pena de imediata conversão do depósito em renda, obstando eventual impugnação judicial do crédito, em afronta aos princípios constitucionais do contraditório e da ampla defesa. Precedentes deste eg. Tribunal Regional Federal.
+Recurso desprovido.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente sustenta violação ao art. 65, §26, da Lei 12.249/1990, aduzindo o levantamento de depósito judicial pela autora só poderia ter sido feito após verificar-se que não mais existiam outros créditos em aberto, tributários ou não, vencidos e exigíveis.
+Decisão de inadmissibilidade do recurso especial às fls. 163/165 e-STJ.
+Agravo em recurso especial às fls. 169/174 e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Houve a correta impugnação dos fundamentos da decisão que inadmitiu o recurso especial, razão pela qual conheço do agravo sub examine.
+No que tange à controvérsia suscitada nos autos, o acórdão recorrido contém os seguintes fundamentos:
+Destaco o disposto nos §§ 25 e 26 do artigo 65 da Lei n.º 12.249/2010, que regulamenta o pagamento de débitos administrados pelas autarquias federais:
+Art. 65. Poderão ser pagos ou parcelados, em até 180 (cento e oitenta) meses, nas condições desta Lei, os débitos administrados pelas autarquias e fundações públicas federais e os débitos de qualquer natureza, tributários ou não tributários, com a Procuradoria-Geral Federal.
+ ..  § 25. O saldo dos depósitos existentes, em espécie ou em instrumentos da dívida pública federal, exceto precatórios, vinculados aos débitos a serem pagos ou parcelados nos termos deste artigo será automaticamente convertido em renda das respectivas autarquias e fundações, após aplicação das reduções sobre o valor atualizado do depósito para o pagamento à vista ou parcelamento.
+§ 26. Na hipótese em que o saldo exceda ao valor do débito após a consolidação de que trata este artigo, o saldo remanescente será levantado pelo sujeito passivo, caso não haja outro crédito tributário ou não tributário vencido e exigível em face do sujeito passivo.
+Conforme ressaltado pelo Juízo a quo, estes dispositivos devem ser interpretados no sentido de que o levantamento se refere a depósitos realizados administrativamente e não em juízo, sob pena de imediata conversão do depósito em renda, obstando eventual impugnação judicial do crédito, em afronta aos princípios constitucionais do contraditório e da ampla defesa.
+Neste sentido é o entendimento desta Eg. Corte Regional  ..
+O acórdão recorrido ao fundamentar o acerto da sentença, pontuou que o levantamento do saldo dos valores depositados a que se refere a Lei 12.249/2010, diz respeito a montante eventualmente recolhido na esfera administrativa e não judicial.
+Além disso, acrescentou que qualquer levantamento de saldo de depósito judicial para quitar eventuais créditos tributários ou não tributários vencidos e exigíveis, obstaria a impugnação judicial destes créditos, com afronta aos princípios do contraditório e da ampla defesa.
+Observa-se que este fundamento (em destaque) não foi devidamente impugnado nas razões do recurso especial sub examine. Incide, assim, as Súmula 283 e 284 do STF por aplicação analógica.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. IMPROBIDADE ADMINISTRATIVA. DANO AO ERÁRIO. DOSIMETRIA DA PENA. REVISÃO. IMPOSSIBILIDADE NO CASO CONCRETO. SÚMULA N. 7/STJ. INCIDÊNCIA. VIOLAÇÃO AO ART. 535. INOCORRÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n.
+283 do Supremo Tribunal Federal.
+ ..
+(AgInt no REsp 1478830/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/02/2017, DJe 16/03/2017)
+Ademais, o fundamento constitucional autônomo, qual seja, violação aos princípios constitucionais da ampla defesa e contraditório, não foi impugnado por meio de recurso extraordinário, razão pela qual resta inviabilizado o processamento do recurso especial ante a incidência insuperável da Súmula 126/STJ, in verbis: " É inadmissível recurso especial quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. MENOR SOB GUARDA. ACÓRDÃO RECORRIDO. FUNDAMENTOS DE ORDEM INFRACONSTITUCIONAL E CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA N.º 126/STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. O acórdão recorrido dirimiu a controvérsia pertinente à pensão por morte com base em fundamentos de índole infraconstitucional e constitucional (art. 227, caput, e § 3º, II, da Constituição Federal). Contudo, o recorrente não interpôs recurso extraordinário, o que faz incidir na espécie a Súmula 126/STJ. 2. Agravo regimental desprovido. (AgRg no REsp 1.250.761/RS, Quinta Turma, Relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), DJe 22/5/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
