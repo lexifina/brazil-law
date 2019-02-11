@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões (fls. 2086-2088), sustenta a parte embargante que os fundamentos da decisão embargada "estão contraditórios com os termos do Recurso Especial", onde teria demonstrado o dissídio jurisprudencial por meio do devido cotejo analítico, utilizando, para tanto, paradigma oriundo do Tribunal de Justiça do Estado do Paraná.
+Afirma, também, que a decisão embargada foi omissa ao não apreciar os "argumentos tanto probatórios como violadores apontados" em seu recurso especial.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada apresentou impugnação às fls. 2095-2099.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente dois dos fundamentos da decisão agravada, quais sejam: a incidência da Súmula 283/STF e a ausência/deficiência de cotejo analítico.
+Sabe-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Ilustrativamente: AgRg no AREsp 226.300/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 13/12/2012.
+Em momento algum a parte embargante aponta de que modo, em seu agravo em recurso especial, procedeu à devida impugnação dos fundamentos utilizados pela decisão agravada para inadmitir o seu apelo extremo, de modo a caracterizar eventual omissão da decisão embargada.
+Ao contrário, limita-se a sustentar que tal vício, bem como a suposta "contradição", teriam ocorrido em relação às razões aduzidas em seu recurso especial. Todavia, olvida-se que tal insurgência não foi, e nem deveria ter sido, objeto de apreciação da decisão embargada, na medida em que seu agravo sequer ultrapassou a barreira do conhecimento.
+Ademais, a contradição autorizadora do manejo dos embargos de declaração é aquela interna à decisão embargada, como a que se evidencia entre os seus fundamentos e as suas conclusões, inocorrente no caso em apreço. Desse modo, não há falar em contradição da decisão embargada "com os termos do Recurso Especial" (fl. 2088).
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição, obscuridade ou erro material.
+III - A contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1737581/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 28/08/2018, DJe 04/09/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. EXISTÊNCIA DE OMISSÃO VÍCIO SANADO. INOCORRÊNCIA DE PERDA SUPERVENIENTE DO OBJETO DO RECURSO ESPECIAL. DECISÃO AGRAVADA QUE NÃO FOI SUBSTITUÍDA PELA SENTENÇA. AUSÊNCIA DE CONTRADIÇÃO. CONTRADIÇÃO EXTERNA NÃO AUTORIZA A OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+ ..
+3. A contradição que autoriza o manejo dos embargos de declaração é aquela interna, ou seja, entre proposições do próprio julgado e não aquela entre ele e a lei ou entendimento das partes.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no REsp 1602681/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+O que se observa, é a nítida pretensão de rediscussão de matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, o que não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
