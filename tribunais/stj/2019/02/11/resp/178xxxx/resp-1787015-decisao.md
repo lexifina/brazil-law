@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Agravo de Execução de pena. Progressão de Regime. Crime hediondo. Lapso temporal de 3/5 (três quintos). Reincidência específica. Irrelevância. Livramento condicional. Crime doloso. Fração de 1/2. Não provimento.
+Constatada a reincidência, independentemente da natureza do crime antecedente, exige-se o cumprimento de 3/5 da pena do crime hediondo ou equiparado, isso porquê a Lei de Crimes Hediondos não faz distinção entre a reincidência comum ou específica. Precedentes STJ.
+Tratando-se de apenado reincidente em crime doloso, deve ser aplicada a fração de 1/2 para fins de concessão de livramento condicional, conforme art. 83, inc. II, do CP.
+Sustenta a defesa violação ao art. 112 da LEP, alegando que a existência de ação penal em que a recorrente é acusada, em curso, sem a prolação de sentença ou a prisão em flagrante, é o único óbice considerado para a negação do benefício (fl. 71).
+Afirma, ainda, que não há que se levar em conta informações decorrentes de inquéritos e mesmo de ações penais que não abarcadas pelo trânsito em julgado, uma vez que a avaliação destas informações sob o ponto de vista constitucional não gera qualquer consequência negativa ao indivíduo (fl. 71).
+Requer a concessão de progressão de regime ao recorrente.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+O Juízo da 1ª Vara de Execuções e Contravenções Penais de Porto Velho/RO indeferiu o pedido de progressão de regime formulado pelo ora recorrente, ao fundamento de que a mera reincidência é o suficiente para a exigência do cumprimento de 3/5 da pena do crime hediondo para progressão de regime (fl. 18).
+Irresignada, a defesa interpôs agravo em execução, tendo sido improvido pelo Tribunal de origem pelos seguintes fundamentos (fls. 63/64):
+Da progressão de regime
+No caso dos autos, a defesa postula pela aplicação da fração de 2/5 para a condenação de n. 3 - tráfico de drogas - pois alega que para a aplicação da fração de 3/5, escolhida pelo juízo a quo, a reincidência deve ser específica, ou seja, o agravante devia ter cometido outro crime hediondo.
+Sem razão a defesa.
+No que tange à fração a ser aplicada, tem-se que o §2º, do art. 2º da Lei de crimes Hediondos prevê que: "A progressão de regime, no caso dos condenados aos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente".
+A expressão neste artigo abrange o tráfico ilícito de entorpecente, crime pelo qual o agravante foi condenado após ter transitado em julgado uma condenação pelos crimes previstos no art. 14, caput, da Lei n. 10.826/03 e art. 309, do CTB, de modo que o comando legal não estabelece que a reincidência deve ser genérica ou específica, portanto, basta que o agente seja reincidente.
+O Superior Tribunal de Justiça possui entendimento consolidado nesse sentido:
+(..)
+Logo, não havendo distinção entre reincidência genérica ou específica, está corretamente aplicada a fração de 3/5 ao presente caso.
+Contudo, cumpre informar que a reincidência consiste em condição pessoal, vinculando-se, portanto, à pessoa do condenado e não às suas condenações individualmente consideradas, não havendo que se falar em ofensa aos princípios da legalidade, reserva legal, execução da pena, humanidade e presunção de inocência, como alega a defesa.
+Portanto, uma vez reconhecida a reincidência, esta alcança todas as condenações a que o sentenciado cumpre pena, influindo sobre o requisito objetivo dos benefícios da execução, sendo incabível dividir as penas ao fim do cálculo conforme realizado na liquidação das penas de fls. 04/06.
+Porém, por tratar-se somente de recurso da defesa bem como que se aplicada a fração de 3/5 ao total da pena, conforme entendimento desta relatoria bem como dos Tribunais Pátrios, prejudicaria o agravante, não altero a forma em que se deu o cálculo e ratifico a fração utilizada.
+Como se pode observar, o recorrente não combateu o fundamento apresentado pela Corte local, segundo o qual a lei não exige que a reincidência seja específica para a incidência da fração de 3/5, para fins de progressão de regime, limitando-se a sustentar violação genérica e totalmente dissociada da realidade descrita no acórdão recorrido acerca do disposto no art. 112 da LEP, razão pela qual imperiosa a incidência da Súmula 284/STF. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. ARESP QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ AO AGRAVO. OFENSA AOS ARTS. 155 DO CPP E 71 DO CP. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ APLICADA A PARTE DO RESP. AFRONTA AO ART. 225 DO CP (ANTIGA REDAÇÃO). (I) - ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (II) - AUSÊNCIA DE PROVA DA MISERABILIDADE DA FAMÍLIA DA VÍTIMA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. SÚMULA 7/STJ. (III) - COMPROVAÇÃO DE MISERABILIDADE. DESNECESSIDADE. PROTEÇÃO INTEGRAL À CRIANÇA. CONTRARIEDADE AO ART. 386, V E VII, DO CPP. ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. MALFERIMENTO AO ART. 400 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VIOLAÇÃO AO ART. 68 DO CP. DISPOSITIVO DE LEI QUE NÃO AMPARA A PRETENSÃO RECURSAL. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VILIPÊNDIO AOS ARTS. 619 DO CPP, E 535, II, DO ANTIGO CPC. (I) - INEXISTÊNCIA DE OMISSÃO NO JULGADO RECORRIDO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. (II) - NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PLEITO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+8. Estando a fundamentação do acórdão recorrido dissociada das razões recursais a ele relacionadas, resta impossibilitada a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+9. O questionamento acerca da suposta nulidade processual foi levado à apreciação do Tribunal a quo, pela primeira vez, tão somente em sede de aclaratórios, ou seja, o que o recorrente buscava não era o prequestionamento da matéria, mas sim seu pós questionamento, algo que é totalmente inadmissível, à luz da jurisprudência desta Corte Superior de Justiça. (EDcl no REsp 31.257/SP, Rel. Min. HUMBERTO GOMES DE BARROS, PRIMEIRA TURMA, DJ 23/05/1994)
+10. "Conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração". (EDcl no AgRg nos EAREsp 97.444/MG, Rel. Min. JORGE MUSSI, TERCEIRA SEÇÃO, DJe 20/02/2015)
+11. Agravo regimental parcialmente conhecido, e nessa extensão, não provido. (AgRg no AREsp 942.1
+65/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
