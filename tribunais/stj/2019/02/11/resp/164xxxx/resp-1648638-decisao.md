@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Associação dos Juízes do Rio Grande do Sul - AJURIS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. PAGAMENTO DOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO DO TRABALHO POR INCAPACIDADE. AVISO-PRÉVIO INDENIZADO E SEUS REFLEXOS. TERÇO CONSTITUCIONAL DE FÉRIAS. AUXÍLIO-TRANSPORTE. SAT/RAT E TERCEIROS. COMPENSAÇÃO. SUCUMBÊNCIA.
+1. Não incide contribuição previdenciária sobre o pagamento dos primeiros quinze dias de afastamento do trabalho por incapacidade, aviso-prévio indenizado e seus reflexos e terço constitucional de férias gozadas.
+2. Não há incidência de contribuição previdenciária sobre as verbas pagas a título de auxílio-transporte, face ao caráter não salarial do benefício. Precedentes do STF e do STJ.
+3. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições devidas ao SAT/RAT e terceiros, na medida em que a base de incidência das mesmas também é a folha de salários.
+4. As contribuições previdenciárias recolhidas indevidamente podem ser objeto de compensação com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie e destinação constitucional, conforme previsto nos arts. 66 da Lei nº 8.383/91, 39 da Lei nº 9.250/95, observando-se as disposições do art. 170-A do CTN. É vedada a restituição/compensação, pelo sujeito passivo, das contribuições destinadas a outras entidades ou fundos.
+5. Ônus sucumbenciais mantidos, conforme fixados em sentença.
+Os embargos de declaração interpostos foram improvidos.
+Na origem, trata-se de mandado de segurança preventivo cujo valor da causa, em março de 2015, era de R$ 113.083,13 (cento e treze mil, oitenta e três reais e treze centavos).
+No presente recurso especial, o recorrente aponta violação ao art. 170 do CTN.
+Sustenta, em síntese, que não há restrição legal para que as contribuições destinadas a terceiros sejam objeto de compensação.
+Apresentadas contrarrazões pela manutenção do acórdão, a recorrida aduz que a Instrução Normativa SRF n. 1.300/2012 veda a compensação das contribuições destinadas a outras entidades ou fundos.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem o entendimento de que o indébito referente às contribuições previdenciárias (cota patronal) destinadas a terceiros pode ser objeto de compensação com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie, desde que observada a limitação constante do art. 170-A do CTN.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PARA TERCEIROS OU FUNDOS. COMPENSAÇÃO COM TRIBUTOS DA MESMA ESPÉCIE. POSSIBILIDADE. IN"S RFB 900/2008 E 1.300/2012. EXORBITÂNCIA DA FUNÇÃO REGULAMENTAR.
+1. Esta Corte já se manifestou no sentido de que o indébito referente às contribuições previdenciárias (cota patronal) e destinadas a terceiros pode ser objeto de compensação com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie e destinação constitucional, observando, contudo, a limitação constante do art. 170-A do CTN. Precedentes: EDcl no REsp 1568163/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 08.09.2016; AgInt no REsp 1536294/SC, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 27.10.2016.
+2. Agravo interno não provido (AgInt no REsp n. 1.586.372/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 1º/12/2016, DJe de 19/12/2016.)
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÕES SOCIAIS DESTINADAS A TERCEIROS. LEGITIMIDADE. PAGAMENTO DOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO DO TRABALHO POR INCAPACIDADE. AFASTAMENTO DO TRABALHO POR MOTIVO DE DOENÇA OU ACIDENTE EM PERÍODO INFERIOR A QUINZE DIAS.
+I - O Superior Tribunal de Justiça tem jurisprudência firmada, inclusive sob o rito dos recursos especiais repetitivos (REsp n. 1.230.957/RS), no sentido de que não incide contribuição previdenciária patronal nos 15 primeiros dias do afastamento por doença ou acidente, sobre o terço constitucional de férias e sobre o aviso prévio indenizado.
+II - Segundo a jurisprudência desta Corte o indébito referente às contribuições previdenciárias (cota patronal) destinadas a terceiros pode ser objeto de compensação com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie, desde que observada a limitação constante do art. 170-A do CTN (AgInt no REsp 1591475/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe de 30/11/2016; AgInt no REsp 1586372/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 1/12/2016, DJe de 19/12/2016).
+III - Agravo interno improvido
+(AgInt no REsp n. 1.634.879/SC, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 16/11/2017, DJe 22/11/2017.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer o direito do contribuinte de compensar a contribuição previdenciária destinada a terceiros com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie, desde que observada a limitação constante do art. 170-A do CTN.
+Publique-se. Intimem-se.
