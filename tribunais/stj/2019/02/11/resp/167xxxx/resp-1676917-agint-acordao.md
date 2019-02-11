@@ -1,0 +1,78 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ART. 1.003, § 6o. DO CÓDIGO FUX. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. No caso dos autos, a parte agravante foi intimada da decisão em 9.2.2017, sendo o recurso interposto somente em 7.3.2017, quando já esgotado o prazo recursal de 15 dias úteis.
+2. Considerando a função constitucional desta Corte de uniformização da jurisprudência pátria, ressalvo o meu ponto de vista, para acompanhar o entendimento firmado por este Tribunal no AREsp. 957.821/MS, julgado pela Corte Especial, de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, nos termos do art. 1.003, § 6o. do Código Fux, não se admitindo a comprovação posterior.
+3. Agravo Interno dos Particulares a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] E OUTROS contra decisão da Presidência desta Corte Superior que, em razão da intempestividade, não conheceu do recurso interposto.
+2. Alega a parte agravante, em suma, que não lhe foi oportunizado sanear o vício (demonstrar a existência dos feriados no curso do prazo processual). Sustenta que esta Corte admite a comprovação a posteriori.
+3. Pugna, desse modo, pelo provimento do presente Recurso para que o Recurso Especial seja conhecido e provido.
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ART. 1.003, § 6o. DO CÓDIGO FUX. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. No caso dos autos, a parte agravante foi intimada da decisão em 9.2.2017, sendo o recurso interposto somente em 7.3.2017, quando já esgotado o prazo recursal de 15 dias úteis.
+2. Considerando a função constitucional desta Corte de uniformização da jurisprudência pátria, ressalvo o meu ponto de vista, para acompanhar o entendimento firmado por este Tribunal no AREsp. 957.821/MS, julgado pela Corte Especial, de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, nos termos do art. 1.003, § 6o. do Código Fux, não se admitindo a comprovação posterior.
+3. Agravo Interno dos Particulares a que se nega provimento.
+
+AgInt no RECURSO ESPECIAL Nº 1.676.917 - PE (2017/0143918-2)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+ADVOGADO
+:
+[NOME] - [OAB]
+AGRAVADO
+:
+UNIÃO
+VOTO
+1. A despeito das alegações dos agravantes, razão não lhes assiste.
+2. Impende ressaltar, inicialmente, meu entendimento a respeito do tema tratado no Agravo Interno.
+3. O Código Fux (CPC/2015) traz um capítulo introdutório, no Livro I, Parte Geral, sobre as Normas Fundamentais do Processo Civil. Tais normas são regras gerais e devem reger todo o processo civil e dizem respeito aos demais Livros, como consta na Exposição de Motivos da Lei 13.105/2015.
+4. Em seu art. 10, previsto no Capítulo que trata dessas Normas Fundamentais do Processo Civil, o Código Fux proíbe a decisão-surpresa. Esse princípio é de observância obrigatória em todo processo civil contemporâneo, pois o novo Código, além de primar pela solução de mérito, veda ao juiz, em qualquer grau de jurisdição, denegar qualquer pleito ou declarar qualquer vício ou nulidade, sem que antes seja dada a oportunidade ao contraditório, ainda que tal matéria esteja entre aquelas que de ofício podem ser reconhecidas.
+5. Nos dizeres do [NOME], o Estado democrático não se compraz com a ideia de atos repentinos, inesperados, de qualquer dos seus órgãos, mormente daqueles destinados à aplicação do Direito. A efetiva participação dos sujeitos processuais é medida que consagra o princípio democrático, cujos fundamentos são vetores hermenêuticos para aplicação das normas jurídicas (A Atendibilidade dos Fatos Supervenientes no Processo Civil: Uma Análise Comparativa entre o Sistema Português e o Brasileiro. Coimbra: Almedina, 2012, p. 61).
+6. Ressalte-se que a regra do art. 10 é repetida no art. 933 do Código Fux, para que não haja dúvida sobre sua aplicação também no âmbito dos Tribunais. Tal dispositivo, determina que o Relator intime a parte para se manifestar em 5 dias, em homenagem ao princípio do contraditório, permitindo que a parte tenha o poder de influenciar na solução da demanda. Penso que isso pode ser tido como básico na compreensão da jurisdição contemporânea.
+7. Da mesma forma, extrai-se da regra geral, prevista no art. 932, parág. único do Código Fux, no Capítulo que trata dos Processos nos Tribunais, que o Relator concederá o prazo de 5 dias para que o recorrente sane o vício ou complemente a documentação exigível ao exame da postulação recursal, antes de declarar a inadmissibilidade do recurso. Eis o dispositivo:
+Art. 932. Incumbe ao relator:
+(..)
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.
+8. O STF, em recente julgado, ARE 953.221/SP (Rel. Min. LUIZ FUX, 1a. Turma, DJe 5.8.2016), em questão levantada pelo ilustre Ministro MARCO AURÉLIO, discutiu a aplicação do art. 932, parág. único do CPC/2015. Segundo o eminente Ministro LUIZ FUX, o dispositivo foi inserido no novo Código como uma garantia ao cidadão. Em sua palavras, em alguns tribunais, os relatores, de forma monossilábica e sem nenhuma fundamentação, consideravam inadmissíveis os recursos. Então, eu acho que o mínimo que o cidadão tem o direito de saber é por que ele foi acolhido ou rejeitado. Por essa razão é que a lei estabelece que, antes de tornar o recurso inadmissível, o relator tem que dar oportunidade para ser suprido o defeito. Dessa forma, entendeu a 1a. Turma do STF que o dispositivo supracitado aplica-se aos casos em que seja necessário sanar vícios formais (tais como ausência de procuração ou de assinatura, preparo, tempestividade), e não à complementação da fundamentação.
+9. Assim, verifica-se que a interpretação dada pela Suprema Corte é de que o art. 932, parág. único do Código Fux aplica-se aos vícios formais, e, entre eles, insere-se a tempestividade, que é justamente o caso dos autos, como se vê da forma mais clara possível.
+10. Com efeito, entendo que o art. 1.003, § 6o. não é contraditório ao art. 932, parág. único do Código Fux. Senão, vejamos.
+11. Preceitua o art. 1.003, § 6o. do Código Fux que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. A literalidade do dispositivo, data venia, está em desarmonia com todos os princípios fundamentais do Código Fux, que prima pela tutela efetiva dos direitos fundamentais, que engloba a duração razoável do processo e a solução integral do mérito (art. 4o. do Código Fux), além da vedação da decisão-surpresa e respeito ao contraditório inclusive no âmbito dos Tribunais (arts. 10 c/c do 932, parág. único do Código Fux).
+12. Assim, interpretar a norma de forma restritiva acabaria por imprimir retrocesso ao justo entendimento já consolidado nesta Corte, que é o de oportunizar à parte a comprovação do feriado local, de forma a afastar a intempestividade de seu recurso, mesmo depois de aforada a petição recursal. Lembre-se que a jurisprudência consolidada no STJ se deu sob a égide do Código de 1973, que era extremamente formal e legalista, oposto à orientação que veio a ser adotada pelo Código Fux, acolhendo a mais saudável diretriz que protege os direitos fundamentais, como o direito ao julgamento justo, e não apenas ao julgamento legal, como era dantes.
+13. Apenas para recordar, a jurisprudência a que me refiro, foi proferida no âmbito da Corte Especial do STJ, seguindo orientação traçada pelo STF, e decidiu que, nos casos de feriado local ou de suspensão do expediente forense no Tribunal de origem que resulte na prorrogação do termo final para interposição do recurso, a comprovação da tempestividade do recurso especial pode ser realizada posteriormente, quando da interposição do agravo regimental contra a decisão monocrática do relator que não conheceu do recurso por considerá-lo intempestivo. Precedentes citados do STF: AgRg no RE 626.358/MG, DJe 23.8.2012; HC 108.638/SP, DJe 23.5.2012; do STJ: AgRg no REsp. 1.080.119/RJ, DJe 29.6.2012. Cite-se o referido julgado:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial (AgRg no AREsp. 137.141/SE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 15.10.2012).
+14. Desta forma, deve-se entender que a melhor orientação, ou a orientação interpretativa mais justa, que propicia a necessária compatibilização que se deve promover entre o art. 1.003, § 6o. e o art. 932, parág. único do Código Fux, é a que conjuga harmoniosamente os dois dispositivos.
+15. Registre-se que a interpretação literal (essa locução manifesta contradição nos seus próprios termos) que se pretende conferir ao primeiro item (art. 1.003, § 6o. do Código Fux) apenas ressuscitaria a então chamada jurisprudência defensiva que o Código Fux de Processo Civil visa combater; sinalize-se, ainda, que em tempos de total virtualização do processo, em que os meios eletrônicos encontram-se disponíveis ao fácil acesso de todos, a comprovação por meio físico dessas informações sequer expressa a famosa lógica do razoável.
+16. Além de tais fatores, deve-se também atentar que a situação ora enfrentada, pode e deve também ser analisada à luz do princípio da vedação ao retrocesso, nesse caso, ao retrocesso jurisprudencial.
+17. De se frisar, como já disse alhures, que sob a égide do Código Buzaid, que era extremamente formal, inflexível e indiferente à prevalência do enfrentamento meritório das questões, este STJ, através do precedente da Corte Especial, AgRg no AREsp. 137.141/SE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 15.10.2012, havia reconhecido o direito da parte recorrente em demonstrar a ocorrência do feriado local posteriormente, quando da interposição do recurso interno, julgamento este que representou um marco histórico na seara recursal, já demonstrando o avanço tendente à superação de pequenas nulidades para se conferir primazia à análise meritória da causa.
+18. Ora, referido marco não torna despicienda a obrigação da parte interpor tempestivamente a sua irresignação, apenas possibilita que ela possa, à vista de peculiaridades locais, demonstrar posteriormente que o fizera dentro do prazo legalmente estipulado, não representando de maneira alguma, qualquer privilégio em relação ao prazo recursal, que continua sendo fatal e inelástico.
+19. Pois bem, como então pode este Tribunal da Cidadania admitir que o avanço jurisprudencial obtido após àquele julgamento da Corte Especial seja jogado por terra em virtude do advento do Código Fux, o qual, justamente tem por norte, o afastamento ou a ampla possibilidade de afastamento de pequenas irregularidades, e aqui frise-se não quanto ao prazo, mas apenas quanto à demonstração da tempestividade à vista de ocorrências pontuais, por exemplo, o feriado local ou a suspensão de expediente forense.
+20. O apego à redação de único dispositivo, que claramente atenta contra a mens legis do Código, representa mutatis mutandis, um retrocesso jurisprudencial, porquanto se sob a égide da lei mais severa se admitia a complacência, não se pode tolerar que, vigente a lei mais complacente, o julgamento seja mais severo.
+21. Se o Código Fux visa à obtenção ou a maior busca pelo julgamento do mérito das demandas, o Judiciário, enquanto intérprete da legislação não pode tolher do cidadão, o direito de poder comprovar, ainda que na primeira oportunidade seguinte, que à vistas das vicissitudes casuísticas, seu recurso foi interposto tempestivamente.
+22. No entanto, a Corte Especial, no julgamento do AREsp. 957.821/MS, firmou entendimento de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, não se admitindo a comprovação posterior. Restou consignado, ainda, que o entendimento construído à luz do CPC/1973 não subsiste ao Código Fux.
+23. No caso dos autos, a parte agravante foi intimada da decisão em 9.2.2017, sendo o recurso interposto somente em 7.3.2017, quando já esgotado o prazo recursal de 15 dias úteis. Não havendo que se falar que a comprovação do feriado na peça de Agravo em Recurso Especial supra a falta de comprovação no momento de interposição do Recurso Especial.
+24. Assim, considerando a missão constitucional desta Corte de uniformização da jurisprudência pátria, ressalvo o meu ponto de vista, para acompanhar o entendimento firmado por este Tribunal no AREsp. 957.821/MS, de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, nos termos do art. 1.003, § 6o. do Código Fux, não se admitindo a comprovação posterior.
+25. Ante o exposto, nega-se provimento ao Agravo Interno dos Particulares.
+26. É como voto.
