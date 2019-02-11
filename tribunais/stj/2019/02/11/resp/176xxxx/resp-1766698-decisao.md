@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ÁGUA E ESGOTO. SERVIÇO DE ESGOTAMENTO SANITÁRIO. PRESTAÇÃO DE SERVIÇOS DE COLETA E TRANSPORTE DOS DEJETOS. LEGITIMIDADE DA COBRANÇA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA 1.339.313/RJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/Rio de Janeiro, assim ementado (fls. 230/231):
+AGRAVO LEGAL EM FACE DA DECISÃO MONOCRÁTICA QUE NEGANDO SEGUIMENTO AO APELO DA EMPRESA RÉ MANTEVE A SENTENÇA DE PROCEDÊNCIA DO PEDIDO AUTORAL. INDENIZATÓRIA. COBRANÇA DE TARIFA DE ESGOTO. RELAÇÃO DE CONSUMO. TRATAMENTO DOS DEJETOS NÃO REALIZADO. INEXISTÊNCIA DE SERVIÇO DE ESGOTAMENTO SANITÁRIO PRESTADO DE FORMA INTEGRAL, EFETIVA E EFICIENTE. AUSÊNCIA DE FATO GERADOR APTO A LEGITIMAR A COBRANÇA.
+1. Cuida-se de recurso em face da decisão monocrática que manteve a sentença de procedência do pedido autoral.
+2. Existe, na hipótese, relação de consumo entre o prestador do serviço e o autor, sendo aplicáveis as normas insertas no Código Consumerista.
+3. A falta de tratamento de esgoto restou incontroversa. A inexistência de sistema público de esgotamento sanitário, em funcionamento ou implantado pela ré, sendo o esgoto jogado "in natura" em terrenos, sem qualquer tratamento, impede a configuração de fato gerador apto a legitimar a cobrança do tributo.
+4. A contraprestação pecuniária pelo serviço de esgotamento sanitário somente é devida se este é prestado de forma integral, efetiva e eficiente, sendo certo que, os custos da manutenção e o mero transporte e coleta dos dejetos não se prestam como fato gerador do tributo.
+A não disponibilização do serviço de forma integral e adequada ao consumidor fere o art.145, II, da CRFB/88.
+5. As Cortes Superiores já manifestaram entendimento no sentido de que a natureza jurídica dos serviços de água e esgoto prestados por concessionária de serviço público é de tarifa ou preço público.
+6. Conclui-se, portanto, que se o serviço de tratamento e coleta de resíduos da água fornecida não é prestado, não se justifica a cobrança de tarifa a ele referente, sob pena de violação do princípio do enriquecimento sem causa.
+Precedentes.
+7. Nega-se provimento ao recurso.
+Embargos de declaração rejeitados.
+A recorrente alega violação do artigo 45 da Lei n. 11.445/2007, sob os seguintes argumentos: (a) ser lícita e devida a referida cobrança independentemente do respectivo tratamento total dos resíduos antes de seu despejo; (b) a cobrança dessa tarifa já seria exigível pela simples realização da coleta e do transporte e escoamento dos dejetos, não sendo tal cobrança afastada sequer em casos onde ocorra a utilização de galerias de águas pluviais para a prestação do serviço, uma vez que a concessionária trata o lodo gerado no sistema público de esgotamento; (c) desde que sejam executada duas ou mais atividades referentes ao serviço sanitário, será legítima a cobrança da tarifa de esgoto.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 310/314.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O acórdão recorrido assim se manifestou quanto à legitimidade da cobrança pelo serviço de esgotamento sanitário (fls. 233 e 238):
+A agravante não nega que o serviço de tratamento de esgoto sanitário não é prestado, restringindo-se a alegar a legalidade da cobrança da tarifa de esgoto, posto que presta serviço de coleta, afastamento, transporte, destino final e expansão da rede de esgoto.
+A inexistência de sistema público de esgotamento sanitário, em funcionamento ou implantado pela ré, sendo o esgoto jogado in natura em terrenos ou rios, sem qualquer tratamento, impede a configuração de fato gerador apto a legitimar a cobrança.
+A contraprestação pecuniária pelo serviço de esgotamento sanitário somente é devida se este é prestado de forma integral, efetiva e eficiente, sendo certo que, os custos da manutenção e o mero transporte e coleta dos dejetos não se prestam como fato gerador.
+ ..
+Nesse contexto, deve ser afastada da cobrança a quantia atinente ao serviço de esgotamento sanitário não prestado pela ré de forma adequada.
+A tese suscitada foi discutida no REsp 1.339.313/RJ, submetido ao rito dos recursos repetitivos previsto pelo art. 543-C do Código de Processo Civil, a seguir ementado:
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. SERVIÇO DE ESGOTAMENTO SANITÁRIO. PRESTAÇÃO DE SERVIÇOS DE COLETA E TRANSPORTE DOS DEJETOS. INEXISTÊNCIA DE REDE DE TRATAMENTO. TARIFA. LEGITIMIDADE DA COBRANÇA.
+1. Não há violação do artigo 535 do CPC quando a Corte de origem emprega fundamentação adequada e suficiente para dirimir a controvérsia.
+2. À luz do disposto no art. 3º da Lei 11.445/2007 e no art. 9º do Decreto regulamentador 7.217/2010, justifica-se a cobrança da tarifa de esgoto quando a concessionária realiza a coleta, transporte e escoamento dos dejetos, ainda que não promova o respectivo tratamento sanitário antes do deságue.
+3. Tal cobrança não é afastada pelo fato de serem utilizadas as galerias de águas pluviais para a prestação do serviço, uma vez que a concessionária não só realiza a manutenção e desobstrução das ligações de esgoto que são conectadas no sistema público de esgotamento, como também trata o lodo nele gerado.
+4. O tratamento final de efluentes é uma etapa posterior e complementar, de natureza sócio-ambiental, travada entre a concessionária e o Poder Público.
+5. A legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos, principalmente porque não estabelece que o serviço público de esgotamento sanitário somente existirá quando todas as etapas forem efetivadas, tampouco proíbe a cobrança da tarifa pela prestação de uma só ou de algumas destas atividades. Precedentes: REsp 1.330.195/RJ, Rel. Min. Castro Meira, Segunda Turma, DJe 04.02.2013; REsp 1.313.680/RJ, Rel. Min. Francisco Falcão, Primeira Turma, DJe 29.06.2012; e REsp 431121/SP, Rel. Min. José Delgado, Primeira Turma, DJ 07/10/2002.
+6. Diante do reconhecimento da legalidade da cobrança, não há o que se falar em devolução de valores pagos indevidamente, restando, portanto, prejudicada a questão atinente ao prazo prescricional aplicável as ações de repetição de indébito de tarifas de água e esgoto.
+7. Recurso especial provido, para reconhecer a legalidade da cobrança da tarifa de esgotamento sanitário. Processo submetido ao regime do artigo 543-C do CPC e da Resolução 8/STJ. (REsp 1339313/RJ, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/6/2013, DJe 21/10/2013).
+Nesse sentido: AgRg no AREsp 731171/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 9/10/2018; REsp 1766786/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/11/2018; REsp 1675065/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/9/2017; AgInt no AREsp 933461/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24/11/2016.
+Dessa forma, conforme o entendimento firmado no REsp 1.339.313/RJ (recurso repetitivo), ainda que a concessionária não promova tratamento sanitário antes do deságue dos dejetos sanitários, é cabível a cobrança da tarifa pela prestação de uma só ou de algumas das atividades elencadas pelo art. 9º da Lei 7.217/2010 (coleta, transporte, tratamento ou disposição final dos esgotos sanitários de unidades de tratamentos).
+Verifica-se que o entendimento do Tribunal de origem está contrário à jurisprudência consolidada nesta Corte a respeito do tema.
+Ante o exposto, dou provimento ao recurso especial, para reconhecer a legalidade da cobrança da tarifa de esgotamento sanitário.
+Publique-se. Intimem-se.
