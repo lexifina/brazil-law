@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO, contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de agravo de instrumento, assim ementado (fls. 86/89e):
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA DE CRÉDITO DE NATUREZA ALIMENTAR. IMPOSSIBILIDADE. FALECIMENTO DO TITULAR DO CRÉDITO. IRRELEVÂNCIA. AGTR IMPROVIDO.
+1. A decisão agravada, proferida nos autos da execução de título extrajudicial de origem, indeferiu o pedido de penhora no rosto dos autos de feito executivo, por considerar que esta Corte Regional, nos autos do AGTR 0001792-85.2015. 4.05.0000, determinou o levantamento da referida penhora, bem como por entender que não é a pessoa do credor que define a natureza da ordem de pagamento, mas sim o próprio crédito, que não perde a sua natureza alimentar em razão do falecimento do credor original.
+2. Não é o titular do crédito que define a sua natureza, mas sim o próprio crédito, que não perde a sua natureza alimentar cm razão do falecimento do credor original.
+3. No julgamento dos embargos de declaração opostos nos autos do AGTR 142.372-PB, da mesma forma, restou consignado que "não é o valor a ser percebido que determina o caráter alimentar da verba, mas a sua natureza, que no caso é salarial, já que se refere ao índice 28,86% que deixou de ser pago na forma correta pela UNIÃO".
+4. Também o fato de o valor da execução se referir a período pretérito não pode ser considerado legítimo para afastar a natureza alimentar do crédito, já que todo crédito pago judicialmente, pela via do precatório, refere-se a período anterior, de modo que, por esse argumento da agravante, não haveria que se falar em qualquer precatório de natureza alimentar, o que não é concebível, máxime tendo cm conta o disposto no art. 100, § 1º, da CF/88 (os débitos de natureza alimentícia compreendem aqueles decorrentes de salários, vencimentos, proventos, pensões e suas complementações, benefícios previdenciários e indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo).
+5. Agravo de instrumento improvido.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 833, IV e § 2º, do Código de Processo Civil de 2015, alegando-se, em síntese, que "o novo Código de Processo Civil, em seu art. 833 (inciso IV e § 2º) somente resguarda a impenhorabilidade dos vencimentos até o valor de 50 salários-mínimos mensais" (fl. 104e).
+Com contrarrazões (fls. 114/120e), o recurso foi admitido (fls. 122e).
+O Ministério Público Federal manifestou-se às fls. 133/139e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No que se refere à tese da limitação da impenhorabilidade dos vencimentos até o valor de 50 (cinquenta) salários-mínimos, observo que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 833, IV e § 2º, do Código de Processo Civil.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo qüinqüenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014, destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013, destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
