@@ -1,0 +1,45 @@
+DECISÃO
+Trata de habeas corpus, com pedido liminar, impetrado em favor de ADILSON REX, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul que denegou o writ de origem.
+O acórdão impugnado contém a seguinte ementa (fls. 46/47):
+HABEAS CORPUS.
+ROUBOS TRIPLAMENTE MAJORADOS EM CONCURSO FORMAL.
+No caso, é imputada ao paciente a prática, em tese, de fatos de gravidade concreta, tratando-se, em tese, de roubos (concurso formal) praticados em concurso de três agentes, com emprego de armas de fogo, violência real e restrição de liberdade das vítimas. O paciente e outros dois agentes teriam invadido, durante a madrugada, o Parque de Máquinas da Prefeitura Municipal de Bom Progresso e, mediante grave ameaça armada, rendido quatro vítimas, dentre elas o vigilante do local. Os ofendidos foram amarrados e trancados em um banheiro existente no local, tendo os agentes subtraído diversos bens, dentre eles um trator e um veículo Ford/Ka. Durante a ação delitiva, duas vítimas foram agredidas com coronhadas, resultando lesionadas. Um dos corréus foi preso ainda na noite do fato-subtração, âmbito em que resultou aprendido um aparelho de telefone celular utilizado por ele. No curso das diligências investigativas, ao manusear o aparelho de telefone celular apreendido, a autoridade policial identificou reiterados contatos telefônicos mantidos entre o paciente e aquele indivíduo, inclusive na noite do fato. Constatou, ainda, que o paciente contatou outro suspeito do fato-subtração, que foi reconhecido por uma das vítimas. Por fim, a autoridade policial localizou e apreendeu parte dos objetos subtraídos no telhado de um imóvel vizinho a residência do paciente.
+Diante deste contexto, em juízo da plausibilidade penal, há prova da materialidade delitiva, bem assim indícios suficientes da autoria do flagrado.
+Neste passo, mostra-se necessária a prisão do paciente, a bem da garantia da segurança pública local, estando evidenciados o fumus comissi delicti e o periculum libertatis nos fatos penalmente relevantes de gravidade social concreta que lhe estão sendo imputados no processo-crime a quo, praticado mediante grave ameaça armada (arma de fogo), concurso de agentes e restrição de liberdade da vítima. Ademais, o paciente responde a um procedimento-crime pela prática de tráfico de drogas, o que aponta para a possibilidade concreta de reiteração delitiva.
+Assim, mostra-se necessária a prisão do paciente, a bem da garantia da segurança comunitária local, estando evidenciados o fumus comissi delicti e o periculum libertatis nos fatos penalmente relevantes que estão sendo imputados a ele no processo-crime de origem, impondo-se a manutenção da sua segregação cautelar.
+Nesta toada, é incabível a aplicação de medidas cautelares alternativas à custódia prévia do paciente, dada a sua evidente insuficiência para a garantia da segurança pública comunitária local.
+ORDEM DENEGADA.
+O impetrante busca a revogação da prisão preventiva, sob a alegação de ausência de indícios de materialidade e autoria delitiva, bem como dos requisitos ensejadores da medida cautelar.
+Pugna, subsidiariamente, pela aplicação das medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal.
+O paciente foi preso preventivamente pela prática do delito tipificado no art. 157, § 2º, II e IV, e § 2º-A, I, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Na origem, a ação penal n. 0003068-38.2018.8.21.0075 encontra-se em fase instrutória, com audiência de instrução e julgamento designada para o dia 28/3/2019, conforme informações processuais eletrônicas disponíveis em 1º/2/2019.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Quanto aos fundamentos da prisão preventiva, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva assim dispôs (fls. 36/39 - com destaques):
+ .. .Para que seja decretada a prisão preventiva é necessário que estejam presentes as condições de admissibilidade (art. 313, do CPP), pressupostos (art.312, in fine, do CPP) e os fundamentos (art. 312, lª parte, do CPP) para a decretação da prisão preventiva, e se revelem inadequadas ou insuficientes as medidas cautelares diversas da prisão, de acordo com o previsto no art. 310, II, do CPP e do art. 5º, LXVI, da CF, o que passo a analisar.
+Destaco, inicialmente, que estão presentes os pressupostos da preventiva - prova da existência do crime e indícios suficiente da autoria, indicadores do fumus boni júris ou fumus comissi delicti.
+No que tange às condições de admissibilidade da preventiva, vislumbro o preenchimento das hipóteses legais. Vejamos:
+Não bastasse se tratar de crime cuja pena máxima é superior a 4 anos, observo, de saída, que há expressa vedação legal no tocante à concessão de liberdade provisória (art. 44 da Lei nº 11.343/06), embora não se desconheça precedentes da Suprema Corte relativizando tal dispositivo.
+Sucede que para além de tal vedação genérica e abstrata, o caso concreto reclama a adoção de medida enérgica para que prontamente se restabeleça a ordem pública.
+Saliento que Bom Progresso é uma pacata cidade, com população urbana de aproximadamente 2,5 mil habitantes.
+Fatos como os aqui noticiados são de extrema gravidade e clamam por providências, em razão do elevado grau de audácia e de periculosidade dos representados.
+Evidente, assim o periculum libertatis a exigir, ainda que em juízo de ponderação, a preponderância da proteção do coletivo, o que justifica a medida constritiva para garantia da ordem pública.
+Aliás, vem sendo decidido pelos Tribunais Superiores, condições pessoais favoráveis, como ser primário e ter bons antecedentes, não asseguram a liberdade provisória, quando demonstrada a necessidade de segregação cautelar (STJ, HC 440.264 - RS, decisão de lavra do Ministro REYNALDO SOARES DA FONSECA, publicada em 19/03/2018).
+Note-se que o regime de liberdades estabelecido na Constituição Federal, especialmente o princípio da presunção de inocência, pode e deve ser excepcionado com a medida drástica da prisão cautelar, sempre que houver fundado receio do cometimento de novos delitos.
+No caso dos autos, embora o fato de o réu Adilson se tecnicamente primário, responde por envolvimento em outros delitos, um deles por tráfico de entorpecentes, delito de enorme lesividade social.
+Já o representado [NOME], possui condenação transitada em julgado, por delito de mesma natureza dos fatos ora apurados. Some-se a isso o fato de estar foragido do sistema carcerário.
+Dessa forma, há que se valorar a periculosidade que representa à sociedade.
+Assim, presentes os pressupostos, as condições de admissibilidade e os fundamentos, é imperiosa a decretação da prisão preventiva dos investigados - em especial para a garantia da ordem pública.
+Por fim, considerando todos os fundamentos lançados e os elementos de prova colhidos até o momento, não vislumbro sejam suficientes as medidas cautelares substitutivas da prisão, estabelecidas no artigo 319 do CPP.
+Diante do exposto, ACOLHO o pedido formulado pela autoridade policial e pelo órgão ministerial e, por conseguinte, DECRETO A PRISÃO PREVENTIVA de ADILSON REX e de [NOME] DA [NOME], para garantia da ordem pública, nos termos do artigo 312, caput, do Código de Processo Penal. .. .
+Como se vê, a decisão apresenta fundamentação válida para a prisão preventiva, evidenciando a periculosidade do acusado na sua vivência delitiva, já que responde por envolvimento em outros delitos, um deles por tráfico de entorpecentes.
+Conforme a jurisprudência pacífica do STJ, a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
