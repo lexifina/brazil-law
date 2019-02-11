@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. EXTINÇÃO DA ASSOCIAÇÃO DOS FUNCIONÁRIOS DO BANCO DA PROVÍNCIA DO RIO GRANDE DO SUL - DAB. SUCESSÃO PROCESSUAL DA BANESPREV. CABIMENTO.
+Fundo Banespa de Seguridade Social - BANESPREV que passou a administrar o Plano de Benefícios, sendo extinta a Associação dos Funcionários do Banco Província. Nesse ínterim, tenho que a BANESPREV deve responder legalmente por todos os pagamentos de benefícios dos participantes do Plano. Resta evidente assim, a assunção da BANESPREV e a obrigação de efetuar os pagamentos feitos pela Associação dos Funcionários do Banco Província do Rio Grande do Sul - DAB.
+DERAM PROVIMENTO AO RECURSO. UNÂNIME."
+Opostos os embargos de declaração, esses foram rejeitados.
+Nas razões do recurso especial, a parte recorrente sustentou violação ao artigo 1022, II, do novo Código de Processo Civil, visto que não analisada " a  ausência de título executivo contra o Banesprev - Fundo Banespa de Seguridade Social;  b  ausência de previsão no Convênio de Adesão ao Plano DCA de Aposentadoria administrado pelo Banesprev quanto ao pagamento ou execução de valores decorrentes de ações judiciais existentes contra o DAB;  c  necessidade de observância e respeito ao instituto da coisa julgada."
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Da análise dos autos, verifico que as alegações de ofensa ao artigo 1022, II, do CPC/15, não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Outrossim, assinalo que o Tribunal de origem analisou expressamente a questão referente à legitimidade da BANESPREV para suceder processualmente a ora recorrente, conforme se verifica do seguinte trecho (fls. 359/361 e-STJ):
+"A parte autora moveu ação ordinária em face da Associação dos Funcionários do Banco Província do Rio Grande do Sul - DAB postulando o pagamento diferenças de complementação de aposentadoria.
+Argumenta em síntese, que tendo em vista a extinção da ASSOCIAÇÃO DOS FUNCIONÁRIOS DO BANCO DA PROVÍNCIA DO RIO GRANDE DO SUL - DAB, sendo a mesma substituída pelo FUNDO BANESPA DE SEGURIDADE SOCIAL - BANESPREV, diante da assunção da obrigação de administrar e pagar os benefícios de complementação de aposentadoria, determine a sucessão processual para que o BANESPREV substitua a ASSOCIAÇÃO DOS FUNCIONÁRIOS DO BANCO DA PROVÍNCIA DO RIO GRANDE DO SUL - DAB no pólo passivo da presente demanda, excluindo-se definitivamente a DAB da lide, sob pena de, injusta e indevidamente, uma vez efetivada a prestação jurisdicional, a Autora, ora Agravante, não receber o seu crédito, pois extinta a Associação dos Funcionários do Banco da Província do Rio Grande do Sul - DAB e sem ativos garantidores para pagamento da condenação.
+Pois bem Questão incontroversa que a complementação de aposentadoria é efetuada pela Associação dos Funcionários do Banco Província do Rio Grande do Sul S.A., por intermédio do Departamento de Aposentadoria e Benefícios (DAB).
+Contudo, adianto que estou em reformar a decisão recorrida.
+A matéria inclusive já foi tratada no agravo de instrumento de n. [CPF], no qual foi dado provimento ao recurso no sentido de que deve haver a substituição no pólo passivo da ação. Vejamos a ementa:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. FASE DE CUMPRIMENTO DE SENTENÇA. SUBSTITUIÇÃO PROCESSUAL. BANCO BANESPREV. EM SE TRATANDO DE OBRIGAÇÃO SOLIDÁRIA ENTRE O BANCO DEMANDADO, NA CONDIÇÃO DE SUCESSOR E DEVEDOR SOLIDÁRIO DA ASSOCIAÇÃO PREVIDENCIÁRIA, POSSUI LEGITIMIDADE PARA RESPONDER AS AÇÕES PROPOSTAS POR FILIADOS DA ASSOCIAÇÃO. Agravo de instrumento desprovido.
+(Agravo de Instrumento Nº [CPF] , Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Elisa Carpim Corrêa, Julgado em 24/08/2017)
+Entendo que procedem os argumentos da agravante/credora, devendo haver a dita substituição do pólo passivo para fins de prosseguimento do processo de execução.
+Como bem referido pela parte agravante, considerando que a Associação dos Funcionários do Banco da Província do Rio Grande do Sul - DAB não era uma entidade de previdência complementar estruturada e autorizada a operar como tal, e ainda, considerando que a PREVIC, entendendo que o Banco Santander S.A. agia como patrocinador e administrador da DAB, notificou a mesma para que adequasse aos referidos pagamentos a legislação vigente, impedindo a Associação dos Funcionários do Banco da Província do Rio Grande do Sul - DAB de continuar a realizar os pagamentos.
+Nesse contexto foi elaborado um Termo de Ajustamento de Conduta - TAC entre a PREVIC e o Banco Santander S.A. consolidando a obrigação de que os pagamentos feitos pela Associação dos Funcionários do Banco da Província do Rio Grande do Sul - DAB fossem feitos por uma entidade de previdência complementar.
+Desta sorte a agravada Fundo Banespa de Seguridade Social - BANESPREV passou a administrar o Plano de Benefícios, sendo extinta a Associação dos Funcionários do Banco Província.
+Nesse ínterim, tenho que a BANESPREV deve responder legalmente por todos os pagamento de benefícios dos participantes do Plano.
+Resta evidente assim, a assunção da BANESPREV e a obrigação de efetuar os pagamentos feitos pela Associação dos Funcionários do Banco Província do Rio Grande do Sul - DAB."
+Com efeito, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+Ademais, tendo sido firmado TAC entre a PREVIC e o Banco Santander S.A, com a extinção das obrigações previdenciárias em relação à Associação dos Funcionários do Banco Província, assumidas pela BANESPREV, imperioso concluir que a ora agravante sequer possui interesse em recorrer (REsp 1714925/CE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/9/2018, DJe 14/9/2018).
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Intimem-se.
