@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão da 2ª Turma Cível do Colégio Recursal – Limeira/SP, ementado nos seguintes termos:
+    “SERVIDOR - LIMEIRA - AGENTE DE TRÂNSITO – ADICIONAL DE PERICULOSIDADE INDEVIDO – SERVIDOR ESTATUTÁRIO – INOVAÇÃO RECURSAL – RECURSO NÃO PROVIDO”. (eDOC 1, p. 125).
+    No recurso extraordinário (eDOC 1, p. 129-146), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º, III; 5º caput e inciso I e 7º, XXIII, do texto constitucional.
+    Nas razões recursais, alega-se a ofensa ao disposto na Lei Federal nº 13.022/14 e Lei Federal 12.740/2012.
+    Aduz que, ao determinar o pagamento de multa de 5% por litigância de má-fé, o Juízo a quo não considerou os princípios do contraditório e da ampla defesa.
+     Por fim, aduz que nos termos da portaria MTE 1885/2013, todos os trabalhadores expostos a atividades e operações perigosas com risco de ameaça à vida ou acidentes nas atividades profissionais de segurança pessoal ou patrimonial, têm direito ao adicional de periculosidade.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Portaria MTE nº 1885/2013) e o conjunto probatório constante dos autos, consignou que não há cerceamento de defesa, uma vez que, a prova requerida pelo recorrente não pode ser realizada no âmbito dos juizados especiais.
+    Consignou, ainda, que a Portaria MTE n. 1885/13 não tem nenhuma relação com a profissão do recorrente, agente de trânsito. Ademais, o recorrente não demonstrou com base em que lei o agente de trânsito possuiria direito ao adicional de periculosidade.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não há o cerceamento de direito do autor, porque a prova pericial, requerida a fls. 102, é incabível no sistema do juizado especial.
+    A Portaria MTE n. 1885/13 não tem nenhuma relação com a profissão do recorrente de agente de trânsito. O ato mencionado trata das atividades de segurança pessoal ou patrimonial. Assim, não tem aplicação ao autor.
+    (…)
+    Além do mais, o autor não demonstrou - com base em lei municipal ou outra superior - que, como agente de trânsito, possui direito ao adicional de periculosidade. O autor apontou lei que se refere aos guardas municipais, mas seu ofício é totalmente diverso. E também invocou dispositivos referentes à Consolidação das Leis do Trabalho, mas o cargo ocupado pela parte autora está sob o regime estatutário, não se aplicando a CLT”. (eDOC 1, p. 125-126).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 6.12.2017. DIREITO ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTAUAIS. AGENTES DE SEGURANÇA PENITENCIÁRIA. REGIME ESPECIAL DE TRABALHO POLICIAL. RECEBIMENTO DE ADICIONAL DE PERICULOSIDADE. VEDAÇÃO LEGAL. REEXAME DE LEGISLAÇÃO LOCAL E DE PROVAS. SÚMULAS 280 E 279 DO STF. 1. Nos termos da orientação sedimentada nas Súmulas 280 e 279 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação local pertinente à matéria em discussão ou da apreciação de fatos e provas. 2. A análise da questão referente à possibilidade de recebimento de adicional de periculosidade por servidores contemplados pelo Regime Especial de Trabalho Militar, no caso em análise, depende do reexame da legislação local aplicável à espécie e das provas dos autos. Incidência das Súmulas 280 e 279 do STF. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o § 11 do art. 85 do CPC, em virtude da Súmula 512”. (ARE 1.086.920 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 7.6.2018).
+     “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE PERICULOSIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. AGRAVO INTERNO DESPROVIDO”. (ARE 1.016.785 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 24.4.2017).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro, em 10%, o valor da verba honorária fixada pela origem (eDOC 1, p. 126), observados os limites previstos nos parágrafos 2º e 3º do artigo 85 do CPC, ressalvada a concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 11 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
