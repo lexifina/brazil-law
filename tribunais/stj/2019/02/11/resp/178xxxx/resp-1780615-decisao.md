@@ -1,0 +1,45 @@
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. INDULTO DE PENAS. DECRETO FEDERAL N.º 8.615/2015. FALTA GRAVE PRATICADA NO PERÍODO DE PROVA DO DECRETO. DOZE MESES ANTERIORES À PUBLICAÇÃO. RECONHECIMENTO DA INFRAÇÃO DISCIPLINAR HOMOLOGADO POSTERIORMENTE. POSSIBILIDADE. REQUISITO SUBJETIVO NÃO CUMPRIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça daquele Estado.
+Ressai dos autos que o d. Juízo da execução concedeu ao ora recorrido o benefício da comutação de penas, entendendo que estariam preenchidos os seus requisitos objetivo e subjetivo (fls. 10-11).
+Irresignado, o Parquet estadual interpôs agravo em execução, perante o eg. Tribunal de Justiça do Estado de Minas Gerais, por meio do qual buscava a revogação do benefício. O eg. Tribunal de origem negou provimento ao agravo, nos termos do v. acórdão de fl. 46, assim ementado:
+"AGRAVO EM EXECUÇÃO - COMUTAÇÃO DE PENAS NOS MOLDES DO DECRETO PRESIDENCIAL nº 8.61512015 - FALTA DISCIPLINAR NÃO HOMOLOGADA NO PERÍODO DEFINIDO PELO ATO PRESIDENCIAL - BENEFICIO CONCEDIDO SOBRE A PENA JÁ CUMPRIDA - REVOGAÇÃO - IMPOSSIBILIDADE - DECISÃO MANTIDA.
+Preenchidos os requisitos objetivos e subjetivos constantes do Decreto nº 8.61512015, e não havendo a homologação da falta disciplinar praticada pelo agravado antes da publicação do ato presidencial, deve o benefício de comutação de penas ser calculado sobre a pena já cumprida.
+Desprovimento ao recurso é medida que se impõe.
+V.V.
+EMENTA: AGRAVO EM EXECUÇÃO PENAL - RECURSO MINISTERIAL - CONCESSÃO DE COMUTAÇÃO - DECRETO Nº 8.615/15 - FALTA GRAVE COMETIDA NOS 12 MESES ANTERIORES À PUBLICAÇÃO DO DECRETO PRESIDENCIAL - DESNECESSIDADE DE HOMOLOGAÇÃO - APURAÇÃO - PRAZO TRIENAL.
+1. A prática de falta grave nos 12 (doze) meses anteriores à publicação do Decreto Presidencial impede a concessão do indulto, a despeito de sua homologação pelo Juízo da execução, dentro do prazo prescricional, que conforme uniformização jurisprudencial do colendo Superior Tribunal de Justiça, é de três anos."
+Opostos embargos de declaração, estes foram rejeitados (fls. 72-75).
+Nas razões do recurso especial, o Parquet sustenta violação ao art. 50, inciso II, da Lei n. 7.210/1984, ao argumento de que "em momento algum, o Decreto n.º 8.615/2015 estabelece que a falta grave praticada pelo condenado deva ser apurada e homologada até a data da publicação do decreto presidencial." (fl. 160).
+Alega, nesse sentido que " d e acordo com o art. 5º do Decreto n.º 8615/2015, "a concessão dos benefícios previstos neste Decreto fica condicionada à inexistência de aplicação de sanção, homologada pelo juízo competente, garantido o direito ao contraditório e à ampla defesa, por falta disciplinar de natureza grave, prevista na Lei 7.210, de 1984, cometida nos últimos doze meses de cumprimento da pena, contados retroativamente à publicação deste Decreto"" (fl. 86).
+Ausentes as contrarrazões (fls. 104), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A d. Procuradoria-Geral da República apresentou parecer pelo provimento do recurso especial (fls. 133-139).
+É o relatório.
+Decido.
+Neste apelo nobre, o Parquet mineiro sustenta que a decisão da origem contrariou dispositivo de lei federal, uma vez que concedeu ao apenado o benefício do indulto, desconsiderando a prática de falta grave no período de prova.
+No ponto, assim se manifestou a instância a quo (fl. 52):
+"Ouso divergir do ilustre Desembargador Relator.
+Não há como negar ao agravado a comutação de pena, pois ele preenche os requisitos objetivos e subjetivos para a concessão do benefício.
+De acordo com o Decreto Presidencial 8.615/15, publicado no Diário Oficial da União em 24/12/2015, para se negar os benefícios do indulto ou comutação de penas ao apenado, pelo cometimento de falta disciplinar grave, é necessário que esta tenha sido homologada pelo Juízo competente.
+No caso em análise, a falta grave somente fora apurada e homologada na audiência de justificação, em 05104/2016.
+Dessa forma, não homologada a suposta falta grave antes da publicação do Decreto, deve ser mantida a concessão da comutação de pena."
+Assiste razão ao recorrente.
+In casu, o apenado teria praticado falta grave durante o período de prova do decreto de indulto, precisamente, em 12/11/2015 (fl. 49). O fato de a referida infração disciplinar ter sido homologada, em juízo, após a data de 24/12/2015, não afasta o óbice à concessão do benefício, vez que não satisfeito o requisito subjetivo.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. COMUTAÇÃO. DECRETO PRESIDENCIAL N. 8.615/2015. COMETIMENTO DE FALTA GRAVE NOS DOZE MESES ANTERIORES AO DECRETO. HOMOLOGAÇÃO. AUDIÊNCIA DE JUSTIFICAÇÃO. PRESCINDIBILIDADE. PAD REGULAR. AMPLA DEFESA E CONTRADITÓRIO ASSEGURADOS. ILEGALIDADE NÃO CONFIGURADA. HOMOLOGAÇÃO POSTERIOR AO PERÍODO DE RELEVÂNCIA DO DECRETO. INDEFERIMENTO DA BENESSE POR AUSÊNCIA DO REQUISITO SUBJETIVO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - É firme a jurisprudência desta Corte no sentido de ser "desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, com a participação da defesa técnica" (HC 333.233/SP, Quinta Turma, de minha relatoria, DJe 6/11/2015).
+III - O art. 5º do Decreto n. 8.615/2015 dispõe que as faltas graves praticadas nos doze meses anteriores à sua publicação, judicialmente homologadas, obstam a concessão da benesse. Não exige o referido ato normativo, entretanto, que a homologação ocorra até a data de sua publicação, podendo o ato judicial ocorrer posteriormente. Precedentes.
+IV - A Terceira Seção deste Tribunal Superior, no julgamento do EREsp n. 1.549.544/RS, unificou referido entendimento para considerar possível o indeferimento de indulto ou comutação de pena em razão de falta grave que tenha sido praticada nos doze meses anteriores ao decreto presidencial, ainda que homologada após sua publicação.
+Habeas corpus não conhecido." (HC 417.676/SC, Quinta Turma, de minha relatoria, DJe 01/06/2018, grifei),
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 8.615/2015. FALTA GRAVE. HOMOLOGAÇÃO POSTERIOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 1.549.544/RS, da relatoria do Ministro Felix Fischer, julgado em 14/9/2013, sufragou, por unanimidade, o mesmo entendimento do acórdão recorrido de que o prazo de doze meses a que se refere o Decreto Presidencial n. 8.615/2015 relaciona-se apenas ao cometimento da falta grave, e não à sua homologação judicial.
+2. Agravo regimental não provido." (AgRg no HC 387.726/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 16/03/2017, grifei).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/15. FALTA GRAVE PRATICADA NOS DOZE MESES ANTERIORES AO DECRETO (ART. 5º). POSSIBILIDADE DE HOMOLOGAÇÃO APÓS ESSE PERÍODO. HABEAS CORPUS NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O art. 5º do Decreto Presidencial n. 8.615/15 obsta a concessão de indulto aos apenados que tiverem cometido falta grave nos dozes meses de cumprimento da pena, contados retroativamente à data de publicação do referido Decreto. A homologação dessa infração pode ocorrer após esse período. Precedentes.
+Habeas corpus não conhecido." (HC 406.319/MG, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 26/10/2017, grifei).
+Assim, considerando que o v. acórdão recorrido está em dissonância com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, in casu a Súmula 568/STJ, que assim dispõe: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso, quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, para reformar o v. acórdão de origem e revogar o benefício da comutação de penas concedido ao sentenciado.
+P. e I.
