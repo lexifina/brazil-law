@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por MÔNICA PIMENTEL COSTA contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Amazonas.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 28, caput, e § 2º, da Lei 11.343/06.
+Defende a ausência de provas que demonstrem o tráfico de drogas, à alegação de que só existem indícios e presunções nos autos, bem como a droga seria utilizada para consumo próprio, razão pela qual requer a desclassificação de sua conduta para a prevista no artigo 28, caput, da Lei 11.343/06.
+Apresentadas as contrarrazões (e-STJ, fls. 221-230), o recurso foi inadmitido com fundamento na Súmula 7/STJ (e-STJ, fls. 231-234). Daí este agravo (e-STJ, fls. 240-245).
+O Ministério Público Federal opinou pelo conhecimento do agravo para que seja negado seguimento ao recurso especial (e-STJ, fls. 264-271).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem afastou o pleito de desclassificação do delito de tráfico para uso de drogas, com a seguinte fundamentação:
+"Portanto, a materialidade e autoria da infração penal restaram comprovadas pelo auto de prisão em flagrante (fl. 03), pela declaração de testemunha (fl. 04), pelo auto de exibição e apreensão (fl. 11), pelo laudo de exame em substância (fls. 14/15) e, por fim, pela própria confissão da Acusada na fase inquisitorial (fl. 06), oportunamente transcrita:
+"QUE perguntado à interrogada qual a finalidade da droga que foi apreendida em seu poder, 15 (quinze) porções de substânca supostamente entorpecente  Respondeu que parte serviria para o seu consumo pessoal e parte a interrogada tinha a intenção de vender; QUE perguntado a interrogada há quanto tempo realiza o comércio de droga  Respondeu que há cerca de sete meses; QUE perguntado à interrogada de quem compra a droga que revende
+Respondeu que adquire de uma pessoa desconhecida, cuja transação aconece na Feira da Panair, bairro Morro da Liberdade; QUE perguntado à interrogada qual a procedência do dinheiro que foi apreendido em seu poder, R$ 48,85 (quarenta e oito reais e oitenta e cinco centavos)  Respondeu que tal valor é de sua propriedade e é proveniente de encontros sexuais que a interrogada realizou; QUE perguntado à interrogada se já foi presa anteriormente  Respondeu que sim, em novembro de 2015, foi presa em flagrante pelo crime de tráfico de drogas  .. " (Grifos Acrescentados)
+Na fase judicial, a Ré negou a prática do delito, informando que as substâncias destinavam-se ao seu próprio consumo e de um amigo e, quando questionada se já havia comercializado entorpecentes anteriormente, usou o seu direito ao silêncio.
+Entretanto, os testemunhos policiais foram firmes e coerentes, no sentido de afirmar que a Recorrente foi presa em flagrante na posse de 15 (quinze) porções de cocaína e, na ocasião, confessou que pretendia vender parte das substâncias.
+Impende destacar que o testemunho policial, assim como o depoimento de qualquer outra testemunha, devidamente compromissada na forma da lei, merece credibilidade, especialmente quando coaduna com as demais circunstâncias apuradas nos autos.
+Enquanto que ao réu é constitucionalmente assegurado o direito de não produzir prova contra si próprio, daí porque natural que refute a prática do crime que lhe está sendo atribuída. Contudo, essa defesa deve ser analisada em conjunto com as demais provas do processo, e, no presente caso, o restante do conjunto probatório aponta no sentido de que a Apelante comercializava entorpecentes.
+A Jurisprudência Pátria se orienta neste sentido, como se vê na seguinte decisão:
+"Tóxicos. Tráfico. Prova. Negativa de autoria. A negativa de autoria do crime de tráfico de droga, fundada em mero argumento de defesa, não desvanece o valor da prova contida nos autos." (10050120070117905 RO 100 501.2007 011790-5, Relator: Desembargador Eliseu Fernandes, Data de Julgamento:
+25/06/2008, 1a Vara de Delitos de Tóxicos). (Grifos Acrescentados).
+Saliente-se, ainda, que a própria acusada admitiu, tanto na fase policial quanto em juízo, que estava na posse dos entorpecentes na ocasião do flagrante, negando, na audiência de instrução e julgamento, a intenção de comercializá-las.
+A sua versão, todavia, é incompatível com as circunstâncias delineadas, uma vez que a quantidade e a forma de acondicionamento das substâncias demonstram a intenção de comercialização destas, o que caracteriza a tipificação prevista no art. 33 da Lei 11.343/06.
+Ademais, a condição de usuária sustentada pela Recorrente não afasta, por si só, a traficância, sendo comum a prática de tráfico por usuários, inclusive no intuito de sustentar o próprio vício.
+Sendo assim, as circunstâncias expostas pelas testemunhas não podem ser desprezadas diante da mera negativa da ré, a qual se mostra totalmente isolada no contexto fático-probatório.
+Acentue-se que para a configuração do delito de tráfico de entorpecentes, é desnecessário o flagrante da efetiva comercialização, pois trata-se de crime de ação múltipla, que se perfaz por uma das ações contidas no tipo penal, conforme se deu no caso em análise.
+É imperioso destacar, ainda, que a Apelante responde a outra ação penal pelo crime tipificado no art. 33 da Lei 11.343/06 (Processo nº 0242849 -
+90.2015.8.04.0001, em trâmite na 3a VECUTE), o que demonstra sua habitualidade delitiva.
+Dessa maneira, filio-me ao entendimento exposto pelo juízo a quo, de que as provas produzidas ao longo do feito são suficientes para embasar o decreto condenatório e atribuir à acusada a responsabilidade criminal pela prática do crime de tráfico de entorpecentes." (e-STJ, fls. 190-193).
+O acórdão combatido rejeitou a tese de desclassificação para uso de drogas, pontuando que "a condição de usuária sustentada pela Recorrente não afasta, por si só, a traficância, sendo comum a prática de tráfico por usuários, inclusive no intuito de sustentar o próprio vício" (e-STJ, fl. 192). Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela desclassificação de sua conduta de tráfico para uso de drogas, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Neste sentido:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (45,1 G DE MACONHA). VIOLAÇÃO DOS ARTS. 28 E 33, § 4º, AMBOS DA LEI N. 11.343/2006. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA DE TRÁFICO PARA USO DE DROGAS. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. SÚMULA 7/STJ.
+1. De rigor, a aplicação do óbice contido na Súmula7/STJ, porquanto tendo a Corte de origem concluído que, diante do contexto fático-probatório, a conduta praticada pelos agravantes se amolda à prevista no art. 33 da Lei n. 11.343/2006, seria inviável entender de modo diverso, dada a necessidade de revisão dos elementos fático-probatórios, vedada na via recursal eleita.
+2. A análise da tese recursal, no sentido de desclassificar o crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) para a conduta tipificada no art. 28 da mesma lei (posse de substância entorpecente para uso próprio) demanda necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte (AgRg no AREsp n. 1.012.231/CE, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/4/2017).
+3. Agravo regimental improvido."
+(AgRg no REsp 1719973/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. EXCLUDENTE DE ESTADO DE NECESSIDADE E DESCLASSIFICAÇÃO DO DELITO PARA PORTE DE DROGAS PARA USO PRÓPRIO. SÚMULA N. 7 DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O reconhecimento do estado de necessidade, bem como a desclassificação do crime para porte de drogas para uso próprio depende do revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial.
+2. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental desprovido."
+(AgRg no AREsp 1193020/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/03/2018, DJe 02/04/2018).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
