@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo formulado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL em desafio à decisão que inadmitiu o segundo recurso especial interposto contra a manutenção do acórdão do Tribunal de Justiça do Estado de São Paulo, que, ao apreciar agravo regimental, manteve a inadmissão do primeiro apelo nobre por força do art. 543-C, § 7º, I, do CPC/1973 (e-STJ fl. 327).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse esclarecimento, verifico que o Supremo Tribunal Federal, no julgamento da Questão de Ordem no Ag n. 760.358-7, assentou o entendimento de que o agravo interno para o Colegiado do Tribunal de origem é o único recurso cabível contra o juízo negativo de admissibilidade de recurso extraordinário sem repercussão geral, na forma do art. 543-B, § 2º, do Código de Processo Civil/1973.
+No âmbito deste Tribunal, idêntica compreensão foi acolhida com respeito aos recursos especiais sobrestados devido à assunção de representativo de controvérsia (QO no Ag n. 1.154.599/SP, Relator Ministro CESAR ASFOR ROCHA, Corte Especial, julgado 16/2/2011, DJe 12/5/2011).
+Nesse contexto, mostra-se incabível o recurso especial em desafio a acórdão que mantém decisão em juízo negativo de apelo extremo, porquanto, na vigência do CPC de 1973, não havia previsão legal de cabimento de recurso ou de outro remédio processual.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. TEMA 405. REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO DECLARADO PREJUDICADO. RECURSO ESPECIAL EM QUE SE ALEGA VIOLAÇÃO DO ART. 543-B, § 2º, DO CPC. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO.
+1. A Corte Especial afirmou o entendimento de que são manifestamente incabíveis recursos direcionados à Suprema Corte, quando o Tribunal a quo aplica o instituto da repercussão geral, como na hipótese dos autos.
+2. É firme o entendimento desta Corte de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+3. Agravo Regimental do INSS desprovido (AgRg no AREsp 451.572/PR, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 01/04/2014) (Grifos acrescidos).
+Nos termos do disposto no art. 85, § 11, c/c o art.  98, § 1º, VI, §§ 2º e 3º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Majoro os honorários recursais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
