@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Pedido de reconsideração formulado pela Procuradora de Justiça do Mato Grosso do Sul, Dra. Lucienne Reis D’Avilla, integrante do CRECRIM/MPMS, objetivando reverter decisão que determinou o arquivamento da presente proposta de edição de Súmula Vinculante, tendo em vista a evidente ilegitimidade ativa ad causam da proponente.
+    Alega que, conforme decidido pelo Supremo Tribunal Federal no RE 985392, com repercussão geral reconhecida, o Ministério Público dos estados e do Distrito Federal possui legitimidade para atuar em feitos de seu interesse perante os Tribunais Superiores, independentemente do Ministério Público Federal.
+    Argumenta que negar legitimidade processual ao MP estadual e exigir a atuação da Procuradoria-Geral da República equivaleriam a “vincular o órgão federal a uma demanda cuja sensibilidade e razão de ser é, por vezes, mais bem compreendida por aquele que direta e diuturnamente convive com a questão".
+    Afirma que esse tema também foi enfrentado pelo Superior Tribunal de Justiça, ocasião em que a Terceira Seção daquela Corte, de forma semelhante ao Supremo Tribunal Federal, destacou que os Ministérios Públicos estaduais e do Distrito Federal “possuem o direito de, por meio de recursos próprios, desincumbir-se plenamente de suas atribuições constitucionais nos Tribunais Superiores".
+    Reitera que a interposição de tantos recursos com o escopo de ver aplicada a majorante do art. 40, inc. V, da Lei nº 11.343/06 deixa nítido que "os Tribunais pátrios não estão dando a importância devida aos precedentes", o que dá ensejo à edição da súmula ora proposta.
+    Ao final, requer que "a Colenda Comissão de Jurisprudência reavalie o pleito da requerente" e "proponha, de ofício, a edição da pretendida Súmula Vinculante", a fim de sedimentar o entendimento jurisprudencial a respeito do art. 40, V, da Lei nº 11.343/2006, “no sentido de que a aplicação da majorante independe da efetiva transposição da fronteira interestadual".
+    Bem examinados os autos, verifico que não merece prosperar o pedido de consideração em apreço.
+    É que inexiste previsão legal ou regimental que ampare o pedido de reconsideração ora formulado, sendo inviável, outrossim, recebê-lo como agravo regimental, nos termos do art. 317 do RISTF, por não ter sido observado o prazo de 5 (cinco) dias para a interposição do referido recurso.
+    Consoante reiterada jurisprudência desta Corte, “[e]m se tratando de pedido de reconsideração apresentado no prazo descrito no art. 317 do RI/STF, nada impede que se conheça do pedido como agravo regimental” (HC 135175 AgR/SP, Primeira Turma, Ministro Roberto Barroso, DJe de 1º/6/2017). No mesmo sentido: ARE 933848 Rcon/MS, Segunda Turma, Ministro Dias Toffoli, DJe de 1º/3/2016; .
+    Todavia, na hipótese dos autos, a proponente foi intimada da decisão de inadmissibilidade da proposta de súmula vinculante em 11/10/2018 e somente em 09/11/2018 protocolou o denominado pedido de reconsideração.
+    A notória inobservância do prazo recursal contido no art. 317 do RISTF inviabiliza, pois, o conhecimento do pedido em apreço como agravo regimental, na linha dos precedentes supramencionados.
+    E mesmo que assim não fosse, melhor sorte não assistiria à proponente.
+    Primeiro, porque o precedente invocado para fundamentar o pedido de reconsideração não se aplica ao processo administrativo de edição, revisão ou cancelamento de súmulas vinculantes, que é regido por normas procedimentais próprias, estabelecidas pela Lei nº 11.417/2006 e pelos arts. 354-A a 354-G, do RISTF.
+    Segundo, porque referida Lei nº 11.417/2006, em seu art. 3º, estipula o rol taxativo de legitimados para propor a edição, revisão ou cancelamento de súmula vinculante, dentre os quais se não se inclui a ora proponente.
+    Consigne-se, ainda, que após a Emenda Regimental 46, de 6/6/2011, compete ao Presidente da Corte - e não mais à Comissão de Jurisprudência – averiguar, de início, a adequação formal da proposta de súmula vinculante (art. 354-A do RISTF), como, de fato, ocorreu no presente feito, o que autoriza, por conseguinte, também a apreciação do presente pedido de reconsideração.
+    Por fim, nota-se que, ao requerer à Comissão de Jurisprudência a proposição, “de ofício”, do enunciado ora proposto, com base no art. 3ª, inc. IX, da Lei nº 11.417/2006, a proponente reconhece, por via oblíqua, a própria ilegitimidade, conforme outrora afirmado nos autos.
+    Ante o exposto, indefiro o pedido de reconsideração.
+    Considerando que “[o] simples pedido de reconsideração não interrompe nem suspende o prazo para interposição de outros recursos cabíveis” (HC 97240 AgR/SP, Segunda Turma, Ministra Ellen Gracie, DJe 14/8/2009 e ARE 690064 ED-segundos/PE, Primeira Turma, Ministro Dias Toffoli, DJe de 4/11/2014), determino à Secretaria Judiciária que certifique o trânsito em julgado e arquive os autos.
+    'Publique-se. Int..
+    Brasília, 11 de fevereiro de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
