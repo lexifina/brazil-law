@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA –ISSQN. CONTROVÉRSIA SOBRE A EXISTÊNCIA DA PRESTAÇÃO DO SERVIÇO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal da Fazenda Pública do Colégio Recursal de São José dos Campos/SP:
+    “EMENTA – AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ISS. CONSTRUÇÃO EM OBRA PRÓPRIA. NÃO AFASTAMENTO DO IMPOSTO EM QUESTÃO. CONTRATAÇÃO DE TERCEIROS QUE, NA QUALIDADE DE TOMADOR DE SERVIÇO, GERA A RESPONSABILIDADE SOLIDÁRIA PARA O RECOLHIMENTO DO ISSQN. MANUTENÇÃO DA SENTENÇA TAL COMO PROFERIDA. REURSO NÃO PROVIDO” (fl. 160).
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, o inc. II do art. 146, o inc. I do art. 150 e o art. 156 da Constituição da República.
+    Sustenta-se que “a cobrança/exigência de ISSQN, realizada pela Recorrida em construções em terreno próprio, não possui lei alguma que estabeleça ou autoriza tal cobrança de ISSQN quando não existe prestação de serviço efetiva, o que há anos é considerado inconstitucional, no entanto, a municipalidade continua realizando esta cobrança indevida, pois ainda existem pessoas que pagam, por desconhecer sua ilegalidade.
+    Assim, a instituição de cobrança de ISSQN quando não há prestação de serviço, afronta diretamente o princípio da legalidade” (fl. 190).
+    Requer-se o provimento do recurso extraordinário, “reformando-se os v. acórdãos recorridos para reconhecer a afronta aos dispositivos da Constituição Federal, anulando o lançamento de ISSQN, face a inexistência de fato gerador para a cobrança do ISSQN, uma vez que o recorrente realizou a compra do terreno e construiu por sua conta e risco, inexistindo prestação de serviço no presente caso” (fl. 192).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal (fl. 200).
+    4. No agravo, alega-se presente o prequestionamento da matéria.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste ao agravante.
+    6. O Turma Recursal assentou:
+    “Em que pese os argumentos trazidos pelo recorrente, a r. sentença guerreada deve ser mantida por seus próprios fundamentos.
+    Isso porque, ainda que tenha o recorrente construído em proveito próprio, como ele mesmo admitiu na exordial e em suas razões de recurso, houve a contratação de serviços de terceiros para a execução da obra. Desta feita, evidenciou-se o fato gerador pelos serviços prestados em favor do recorrente para fins de construção civil.
+    E não há como se afastar a responsabilidade solidária do tomador de serviço, como pretende o autor, pois esta é a expressa previsão dos artigos 124, inciso II, 128, do Código Tributário Nacional, como bem esclareceu o MM. Juiz sentenciante.
+    Ou seja, nenhuma prova foi feita pelo recorrente no sentido de afastara incidência do imposto em questão, cuja isenção somente ocorre nos casos de incorporação imobiliária, em que a atividade do incorporador é a construção civil em terreno próprio para posterior venda de unidades autônomas, o que não é o caso dos autos. (…)
+    Desta feita, de se concluir que o recorrente, ainda que como tomador do serviço, terceirizou a execução da obra, tendo ocorrido o fato gerador a ensejar o lançamento do tributo em análise” (fls. 195-196).
+    7. A pretensão do agravante, quanto à existência ou não do fato gerador do tributo, existência ou não da prestação do serviço, exigiria análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal:
+    “Agravo regimental em recurso extraordinário. 2. Tributário. ISS. Atividade de locação de bem móvel com prestação de serviços. RE-RG 626.706. Não incidência. 3. Incidência das súmulas 279, 280 e 454. Controvérsia que depende do reexame do conjunto fático-probatório, da legislação local e da interpretação de cláusulas contratuais. 4. Agravo regimental a que se nega provimento” (RE n. 826.022 -AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 14.4.2016).
+    “AGRAVO REGIMENTAL. PROCESSUAL. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULAS 283 E 356 DO STF). ACÓRDÃO RECORRIDO. AUSÊNCIA DE OMISSÃO. ALEGADA VIOLAÇÃO DOS POSTULADOS DO DEVIDO PROCESSO LEGAL. OFENSA INDIRETA OU REFLEXA (SÚMULA 636 DO STF). CABIMENTO DO RECURSO EXTRAORDINÁRIO COM FUNDAMENTO NA ALÍNEA B DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. TRIBUTÁRIO. ISSQN. COMPETÊNCIA TRIBUTÁRIA ATIVA. LOCAL DA PRESTAÇÃO DO SERVIÇO OU DO ESTABELECIMENTO DO PRESTADOR. MATÉRIA INFRACONSTITUCIONAL. REEXAME DO QUADRO FÁTICO-PROBATÓRIO (SÚMULAS 279 E 636 DO STF) Agravo regimental a que se nega provimento” (AI n. 633.343-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 13.8.2012).
+    Nada há a prover quanto às alegações do agravante.
+    8. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual somado ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil/2015, com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 11 de fevereiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
