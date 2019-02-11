@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. SENTENÇA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. CONVICÇÃO NO SENTIDO DE QUE O PACIENTE SE DEDICARIA A ATIVIDADES CRIMINOSAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE NA VIA ELEITA. REGIME INICIAL. IMPOSIÇÃO DO FECHADO. MENÇÃO ÀS CIRCUNSTÂNCIAS CONCRETAS DA CONDUTA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em beneficio de [NOME], em que se aponta como autoriade coatora o Tribunal de Justiça de São Paulo, que deu parcial provimento aos recursos de apelação da defesa e da acusação para fixar a pena-base no mínimo legal e afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, resultando a reprimenda definitiva em 5 anos de reclusão e 500 dias-multa, no regime inicial fechado (Ação Penal n. 0001308-77.2016.8.26.0530).
+Alega a impetrante constrangimento ilegal na não aplicação do redutor em questão, sem fundamentação idônea para tanto.
+Postula, então, a aplicação da minorante nos termos da sentença condenatória, fixando-se regime inicial aberto e substituindo-se a privativa de liberdade por restritiva de direitos.
+É o relatório.
+De início, observo que o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+No caso, o presente writ, substitutivo do recurso adequado, não comporta processamento.
+Ao deixar de aplicar o redutor em questão, o Tribunal a quo consignou que admitiu que "trabalhava" como traficante havia quase um mês e trazia mais de cem porções, o evidencia dedicação a atividades criminosas, levando-se à conclusão, desta forma, que faz do crime seu modo de vida, lembrando-se que a mitigação não é direito subjetivo (fl. 75).
+Como se percebe, o privilégio não foi aplicado na presente hipótese em razão das peculiaridades do caso concreto, que fizeram crer que o paciente agia de forma profissional no tráfico. A alteração de tal conclusão, portanto, demandaria reexame de provas, inviável na via estreita do writ.
+Em relação ao regime inicial, também não verifiquei o alegado constrangimento, pois se consignou que os motivos e as circunstâncias do crime indicam a insuficiência, especialmente porque socialmente não recomendável à prevenção e repressão do delito de tráfico, impulsionador de uma verdadeira cadeia delitiva, assolando a sociedade de forma funesta, mercê da natureza propulsora e devastadora do entorpecentes apreendido (cocaína), cujo poder viciante assola seus dependentes que, para garantir o consumo, na maioria das vezes, praticam crimes patrimoniais, o que, igualmente, impõe a manutenção do regime fechado, como acertadamente fixado, porque outro mais brando não atenderia à gravidade concreta da conduta, já exaustivamente explanada (fl. 76), elementos concretos capazes de justificar a imposição de regime inicial mais rigoroso.
+Prejudicado o pleito de substituição da privativa de liberdade por restritiva de direitos, dada a manutenção da pena definitiva imposta (superior a 4 anos).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
