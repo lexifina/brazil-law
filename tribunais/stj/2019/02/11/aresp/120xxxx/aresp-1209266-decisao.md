@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE COBRANÇA DE TÍTULO C/C AÇÃO CONDENATÓRIA DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMISSÃO FRAUDULENTA DE TÍTULOS REPASSADOS POR ENDOSSO. PROTESTO INDEVIDO. DANO MORAL CARACTERIZADO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do art. 105, III, da Constituição Federal, ao fundamento de ausência de demonstração da ofensa ao art. 186 do Código Civil, bem como de incidência da Súmula 07/STJ (e-STJ fls. 656-657).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 660-669).
+No recurso especial, a parte recorrente alega ofensa ao art. 186 do Código Civil, sustentando, em síntese, a inviabilidade da sua condenação ao pagamento de indenização por danos morais, sobretudo pelo fato de que a sua boa-fé resta notória, pois desconhecia, até a finalização do inquérito policial, qualquer falsidade na assinatura das notas promissórias.
+Apresentadas contrarrazões (e-STJ fls. 649-654).
+É o relatório. Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa ao art. 186 do Código Civil, sustentando, em síntese, a inviabilidade da sua condenação ao pagamento de indenização por danos morais, sobretudo pelo fato de que a sua boa-fé resta notória, pois desconhecia, até a finalização do inquérito policial, qualquer falsidade na assinatura das notas promissórias.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 628-629):
+Do que se apura dos autos, as notas promissórias nsº 2, 3, 4, 5 e 6 foram emitidas fraudulentamente pela ré Olivia, com protesto das quatro últimas (fls. 61), sendo endossadas ao réu Álvaro.
+Ressalte-se que a ré Olivia não respondeu ao feito, tornando-se revel, presumindo-se pela veracidade dos fatos alegados na inaugural. Há notícia, inclusive, de ação penal acerca da emissão fraudulenta das cártulas, tendo sido suspensa nos termos da Lei nº 9.099/95 (fls. 284/285).
+Consoante já anotado, os títulos foram repassados ao réu Álvaro por endosso, de sorte que não se vislumbra má-fé na posse das cártulas, circunstância que legitimou o protesto do título nº 001, em 30/09/2002 (fls. 33).
+Quanto aos demais títulos, porém, verifica-se que o réu Álvaro assumiu os riscos de causar dano à autora, pois o mesmo estava ciente da natureza espúria dos títulos, conforme se vê de suas declarações na Delegacia de Polícia em 02/04/2004 (fls. 55/56), sendo que, ainda assim, levou a protesto as demais notas promissórias em 26/10/2004 (fls. 61), bem como promoveu o processo executivo em 25/11/2004 (fls. 53).
+Nesse trilho, o dano moral é decorrente da injusta promoção de processo executivo (fls. 315/317), que, obviamente, acarretou a inquietação íntima da requerente, pessoa atingida. (grifos nossos)
+Com efeito, vislumbra-se que a irresignação da parte agravante não merece guarida, haja vista que, analisar o pleito relativo ao reconhecimento da sua boa-fé, bem como elidir a conclusão do aresto impugnado de que "o réu Álvaro assumiu os riscos de causar dano à autora, pois o mesmo estava ciente da natureza espúria dos títulos, conforme se vê de suas declarações na Delegacia de Polícia em 02/04/2004 (fls. 55/56), sendo que, ainda assim, levou a protesto as demais notas promissórias em 26/10/2004 (fls. 61), bem como promoveu o processo executivo em 25/11/2004 (fls. 53)", o que "acarretou a inquietação íntima da requerente", demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+A propósito, mutatis mutandis:
+RECURSO ESPECIAL. AÇÃO DE REGRESSO. CHEQUE PÓS-DATADO. ENDOSSO. TERCEIRO. DESCONTO ANTES DA DATA COMBINADA. RECURSO IMPROVIDO. 1.- A relação jurídica subjacente a emissão do cheque não pode ser oponível ao endossatário que se presume terceiro de boa-fé, ao tomar a cártula por meio do endosso, ressalvada a possibilidade de confirmação da má-fé por parte deste. 2.- A tese, inserta nas razões do Recurso Especial, principalmente, quanto à alegada má-fé da parte recorrida, circunstância imprescindível para o reconhecimento do direito reclamado, demanda incursão no conjunto fático-probatório dos autos, situação que atrai a incidência da Súmula n. 7 do STJ. 3.- Recurso Especial improvido. (REsp 1169414/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/10/2011, DJe 13/10/2011) - g.n.
+Destarte, melhor sorte não socorre ao agravante.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
