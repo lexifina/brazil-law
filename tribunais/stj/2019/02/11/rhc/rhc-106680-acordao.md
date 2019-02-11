@@ -1,0 +1,84 @@
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA. RAZOABILIDADE. SENTENÇA DE PRONÚNCIA. SÚMULA N. 21/STJ. RECURSO ORDINÁRIO DESPROVIDO.
+I - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Precedentes.
+II - No que tange à alegação de excesso de prazo, destaca-se que encontra-se, por ora, superada, pois verifica-se que foi prolatada decisão de pronúncia em desfavor do paciente, tendo sido mantida a sua custódia cautelar. Incide, portanto, o óbice da Súmula n. 21 desta Corte Superior: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução".
+III - Ademais, verifica-se que o recorrente foi preso em 08/06/2016, sendo pronunciado no dia 09/11/2017. A defesa interpôs recurso em sentido estrito no dia 14/12/2017, sendo o recorrente intimado, no dia 30/07/2018 para constituir novo advogado, uma vez que a defesa, mesmo devidamente intimada, não apresentou as razões do recurso. No dia 03/12/2018, o recorrente desistiu do recurso em sentido estrito, estando os autos aguardando desmembramento em relação a outro réu, sem qualquer elemento, portanto, que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Recurso ordinário desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de recurso ordinário em habeas corpus interposto por [NOME], em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que, em 08/06/2016, foi decretada a prisão preventiva do recorrente pela prática, em tese, do delito previsto no art. 121, § 2º, incisos I e IV c/c art. 14, inciso II, ambos do Código Penal. Em 09/11/2017, foi prolatada sentença de pronúncia, a qual manteve a segregação cautelar do ora recorrente.
+Irresignada, ao argumento de que haveria constrangimento ilegal por excesso de prazo para a conclusão do feito, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, cuja ordem foi denegada, em v. acórdão ementado nos seguintes termos:
+"HABEAS CORPUS. HOMICÍDIO. RÉU PRONUNCIADO. PRISÃO PREVENTIVA MANTIDA. EXCESSO DE PRAZO. INOCORRÊNCIA. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO PELA DEFESA. COAÇÃO ILEGAL NÃO CONFIGURADA. ORDEM DENEGADA.
+1. Inicialmente, consigno que a com a prolação da sentença de pronúncia, não há que se falar em constrangimento ilegal decorrente do excesso de prazo da prisão cautelar, incindindo no caso concreto a Súmula 21 do Superior Tribunal de Justiça.
+2. In casu, após detida análise dos autos, verifico que a sentença de pronúncia foi proferida em 03/11/2017, submetendo o paciente a julgamento perante o Tribunal do Júri, oportunidade em que foi interposto Recurso em Sentido Estrito pela Defesa, porém, não apresentando as razões recursais o que acarretou a necessidade de o magistrado determinar a nomeação de novo defensor, em 30/07/2018, o que justifica maior dilação do prazo para a designação da Sessão Plenária.
+3. Para se verificar a configuração de excesso de prazo, deve-se analisar se houve ou não justificativa para a referida demora, à luz do princípio da razoabilidade, tendo como critérios balisadores a complexidade do feito, a atuação da defesa e a conduta do Poder Judiciário e das autoridades públicas envolvidas na persecução.
+4. Ordem conhecida e denegada" (fl. 400).
+Daí o presente recurso ordinário, no qual o recorrente repisa os argumentos lançados no writ originário, reafirmando a existência de constrangimento ilegal, consubstanciado na ocorrência de excesso de prazo para a conclusão do feito.
+Requer, ao final, o relaxamento de sua prisão preventiva.
+O Ministério Público Federal manifestou-se, às fls. 449-454, pelo desprovimento do recurso, nos seguintes termos:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA CONCLUSÃO DO FEITO. PRINCÍPIO DA RAZOABILIDADE. INOCORRÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO IMPROVIMENTO DO RECURSO" (fl. 449).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA. RAZOABILIDADE. SENTENÇA DE PRONÚNCIA. SÚMULA N. 21/STJ. RECURSO ORDINÁRIO DESPROVIDO.
+I - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Precedentes.
+II - No que tange à alegação de excesso de prazo, destaca-se que encontra-se, por ora, superada, pois verifica-se que foi prolatada decisão de pronúncia em desfavor do paciente, tendo sido mantida a sua custódia cautelar. Incide, portanto, o óbice da Súmula n. 21 desta Corte Superior: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução".
+III - Ademais, verifica-se que o recorrente foi preso em 08/06/2016, sendo pronunciado no dia 09/11/2017. A defesa interpôs recurso em sentido estrito no dia 14/12/2017, sendo o recorrente intimado, no dia 30/07/2018 para constituir novo advogado, uma vez que a defesa, mesmo devidamente intimada, não apresentou as razões do recurso. No dia 03/12/2018, o recorrente desistiu do recurso em sentido estrito, estando os autos aguardando desmembramento em relação a outro réu, sem qualquer elemento, portanto, que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Recurso ordinário desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Consoante relatado, o recorrente defende a existência de excesso de prazo para a formação da culpa.
+No que concerne ao apontado excesso de prazo na formação da culpa, ressalta-se que os prazos processuais não possuem características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte Superior firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo.
+Sobre o tema, o seguinte precedente desta Corte Superior:
+"HABEAS CORPUS. FURTO QUALIFICADO E RECEPTAÇÃO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO CONFIGURAÇÃO. ORDEM DENEGADA.
+1. A jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. O Juízo de primeira instância apontou concretamente a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de colocar o réu cautelarmente privado de sua liberdade, ao ressaltar o fundado risco de reiteração delitiva, em virtude da reincidência específica do paciente, além do fato de não haver sido encontrado para responder a outras duas ações penais nas quais também lhe é imputada a prática de crime de mesma natureza.
+3. Por idênticas razões, as demais medidas cautelares não se prestariam para evitar a reiteração delitiva.
+4. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios; assim, eventual demora no término da instrução criminal deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+5. Fica afastada, ao menos por ora, a alegação de excesso de prazo, sobretudo porque a instrução já foi concluída.
+6. Ordem denegada" (HC n. 422.424/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/12/2017, grifei).
+Por oportuno, transcrevo o seguinte trecho das informações prestadas:
+"[NOME] teve sua prisão em flagrante homologada e convertida em prisão preventiva em 08/06/2016, fls. 75/77.
+Os acusados foram denunciados como incursos no art. 121, §2º, incisos I e IV c/c art. 14 do CPB, (fls. 02/06).
+Denuncia recebida em 13/07/2016 (fls.74).
+Decisão recebe a denúncia e determina a citação dos acusados em 13/07/2016, fls. 74
+Em 28/11/2016, foi efetivada a citação de [NOME], fls. 146.
+Resposta à acusação de [NOME] apresentada em 07/12/2016, fls. 131/133.
+Em 20/03/2017, decisão ratificando o recebimento da denúncia e determinando que se designe dia e hora para ter lugar audiência instrutória dentre outros expedientes, (fls. 154/156).
+Foi designado o dia 07/08/2017 para ter lugar a audiência instrutória, fls. 188.
+Consta às fls. 228/228v, o termo de audiência, onde foram ouvida a vítima, 8 (oito) testemunhas de acusação, tendo as defesas dispensado suas testemunhas, e procedido o interrogatório dos réus [NOME] e [NOME], em 07/08/2017.
+Em 26/09/2017, o representante do Ministério Público apresentou suas Alegações Finais, fls 243/246.
+Consta às fls. 260/264, as alegações finais de [NOME], que fora apresentada em 23/10/2017.
+Em 09/11/2017 foi proferida sentença de pronuncia em desfavor de [NOME] e [NOME], fls. 265/268
+Em 14/12/2017, [NOME] interpôs recurso em sentido estrito contra a decisão que o pronunciou, fls. 272.
+Consta dos autos, às fls. 184/185, cópia da decisão onde foi indeferido o requerimento de revogação da prisão preventiva formulado pela defesa de [NOME], em 05/12/2017.
+Em 30/07/2018, foi proferida decisão no sentido de manter a custódia preventiva dos réus, nos termos do art.312 e 313, tendo em vista a extensa lista infracional dos acusados, bem como para assegurar a aplicação da lei penal, a manutenção da ordem pública e a integridade física da vítima, tendo, ainda, sido determinado a preparação de expedientes intimatórios de [NOME], para que constitua novo advogado, tendo em vista que sua defesa, devidamente intimada para apresentar as razões do recurso interposto não o fez.
+Preparado os expedientes, devidamente intimado, a defesa de [NOME], em 03/12/2018, apresentou pedido de desistência de recurso em sentido estrito, fls. 338/340.
+Estando os presentes autos aguardando desmembramento em relação a [NOME]" (fls. 440-441, grifei).
+In casu, incide, portanto, o óbice da Súmula n. 21 desta Corte Superior, que prescreve que "Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução."
+Nesse sentido os seguintes julgados deste Tribunal Superior:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. SÚMULA 21 STJ. ORDEM NÃO CONHECIDA.
+ ..
+4. Nos termos do enunciado nº 21 da Súmula do Superior Tribunal de Justiça, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+5. Ordem não conhecida" (HC n. 345.165/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/10/2016).
+"HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO E TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO CAUTELAR. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO DA PRISÃO. GRAVIDADE CONCRETA. MODUS OPERANDI. FUGA DO DISTRITO DA CULPA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. EXCESSO DE PRAZO. DECISÃO DE PRONÚNCIA PROFERIDA. SÚMULA Nº 21/STJ. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+ ..
+2. Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, notadamente em se considerado o modus operandi da conduta, consistente em disparar vários tiros de arma de fogo, de forma repentina, causando a morte de uma das vítimas e deixando a outra com paraplegia, em razão de brigas por drogas e mulheres. Ademais, o paciente também ficou foragido do distrito da culpa por vários meses.
+3. Eventuais condições pessoais favoráveis do recorrente não possuem o condão de, por si sós, conduzir à revogação da prisão preventiva.
+4. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+5. A decisão de pronúncia, já proferida nos autos, torna superado o pedido de relaxamento da prisão por excesso de prazo para o encerramento da instrução, nos termos do Enunciado nº 21 da Súmula desta Corte.
+6. Writ parcialmente conhecido e, nessa extensão, denegado" (HC n. 344.783/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2016).
+Da leitura do excerto acima transcrito, verifica-se que, apesar do atraso na instrução criminal, ele se justifica, uma vez que o recorrente foi preso em 08/06/2016, sendo pronunciado no dia 09/11/2017. A defesa interpôs recurso em sentido estrito no dia 14/12/2017, sendo o recorrente intimado, no dia 30/07/2018 para constituir novo advogado, uma vez que a defesa, mesmo devidamente intimada, não apresentou as razões do recurso. No dia 03/12/2018, o recorrente desistiu do recurso em sentido estrito, estando os autos aguardando desmembramento em relação a outro réu.
+Assim sendo, não se afigura portanto, qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO; POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO; POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA; ROUBO CIRCUNSTANCIADO, POR TRÊS VEZES, EM CONCURSO FORMAL IMPRÓPRIO DE CRIMES; ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E ASSOCIAÇÃO CRIMINOSA ARMADA, EM CONCURSO DE AGENTES E CONCURSO MATERIAL DE CRIMES. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INEXISTÊNCIA. AUSÊNCIA DE DESÍDIA DO JUÍZO. EVENTUAL MORA DECORRENTE DAS PECULIARIDADES DO FEITO. PLURALIDADE DE DELITOS, VÍTIMAS E RÉUS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e deste Superior Tribunal de Justiça. Contudo, ante as alegações expostas na inicial, afigura-se razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. Constitui entendimento consolidado do Superior Tribunal de Justiça que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+3. Na hipótese, a mora na tramitação do processo não pode ser atribuída ao Juízo, mas às peculiaridades do feito, considerando a pluralidade de delitos (oito), vítimas (seis) e de réus (cinco) com advogados distintos e a necessidade de expedição de cartas precatórias para oitiva de testemunhas e interrogatório dos acusados. Verificou-se ainda, que foram protocolizados pedidos de revogação da custódia cautelar e impetração de habeas corpus originário pelos acusados. Assim, conquanto seja legítima à defesa a adoção dos meios e recursos inerentes ao processo penal, não há como negar que, em contrapartida ao exercício desse direito, tem-se inevitáveis sobressaltos no andamento processual.
+4. Não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Judiciário a responsabilidade pela demora do feito.
+Habeas corpus não conhecido" (HC n. 397.964/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 1º/02/2018, grifei).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+É o voto.
