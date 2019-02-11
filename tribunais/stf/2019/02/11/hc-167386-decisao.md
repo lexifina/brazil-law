@@ -1,0 +1,42 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por José Lopes da Luz Filho e outros em favor de Edevano Pereira de Souza, contra atos do Superior Tribunal de Justiça, exarados nos autos do AREsp 825.689/MG e do HC 481.112/MG.
+    O magistrado de primeiro grau, forte no art. 386, VII, do Código de Processo Penal, absolveu o paciente da prática dos crimes de tráfico de drogas e de associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006).
+    Em sede de apelação, o Tribunal de Justiça de Minas Gerais deu parcial provimento ao recurso ministerial para condenar o ora paciente à pena de 04 (quatro) anos, 04 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, c/c art. 40, V, da Lei 11.343/2006).
+    Irresignada, a Defesa manejou recurso especial, que, inadmitido na origem, ensejou a interposição de agravo ao Superior Tribunal de Justiça. O Ministro Reynaldo Soares da Fonseca, via decisão monocrática, negou provimento ao AREsp 825.689/MG. Interpostos agravo regimental e embargos de declaração, foram negados.
+    Inconformada, a Defesa impetrou o HC 481.112/MG perante a Corte Superior, que, via decisão monocrática da lavra do Ministro Reynaldo Soares da Fonseca, indeferiu liminarmente o HC 481.112/MG. Ato contínuo, interposto agravo regimental, a Corte Superior negou provimento ao recurso.
+    No presente writ, os Impetrantes sustentam a possibilidade de aplicação do regime inicial semiaberto, nos termos do art. 33, §§ 1º, b, 2º, b, e 3º, do Código Penal, tendo em vista o quantum da pena aplicada e as circunstâncias judiciais dos pacientes valoradas favoravelmente. Requerem, em medida liminar e no mérito, a fixação do regime semiaberto.
+    É o relatório.
+    Decido.
+    Colho excertos dos atos apontados como coatores:
+    AREsp 825.689/MG
+    “(...).
+    Por fim, como cediço, em se tratando de tráfico de entorpecentes, desde o julgamento, pelo Supremo Tribunal Federal, do HC n. 111.840/ES, inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, determinando, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, c/c o art. 59, do Código Penal.
+    Outrossim, a Corte Suprema, em 1º/9/2010, no julgamento do HC 97.256/RS, declarou incidentalmente a inconstitucionalidade do § 4º do art. 33 e do art. 44, ambos da Lei n. 11.343/2006, na parte relativa à proibição da conversão da pena privativa de liberdade em restritiva de direitos aos condenados por tráfico ilícito de entorpecentes.
+    Esse entendimento também é adotado por ambas as Turmas da Terceira Seção desta Corte, conforme segue:
+    (…).
+    Dessa forma, constata-se que o regime fechado, mais severo do que a pena comporta, foi mantido sem fundamentação idônea, em evidente afronta ao art. 93, inciso IX, da Constituição da República e à Súmula 440/STJ, que segue transcrita: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+    Nesse mesmo sentido, seguem as Súmulas n. 718 e 719/STF, respectivamente:
+    (…).
+    No entanto, verifico que, não obstante o recorrente seja tecnicamente primário, condenado à pena privativa de liberdade superior a 4 e não excedente a 8 anos, envolve o presente caso tráfico de expressiva quantidade e deletéria natureza dos entorpecentes – 2,6kg de cocaína –, o que justifica a fixação do regime inicial fechado.
+    Nesse sentido, seguem julgados desta Corte:
+    (…).
+    Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", parte final do RISTJ, conheço do agravo para negar provimento ao recurso especial”.
+    HC 481.112/MG
+    “(...).
+    Verifica-se que o presente habeas corpus e o Aresp 825.689/MG se referem ao mesmo paciente, se originam da mesma ação penal, voltam-se contra o mesmo acórdão e têm pedidos idênticos.
+    Ao analisar o mencionado agravo em recurso especial por decisão monocrática, deixei de conhecê-lo, aos seguintes fundamentos:
+    (…).
+    Trata-se, portanto, de ‘reiteração de insurgência já apreciada e julgada pelo Superior Tribunal de Justiça, de forma que a tese aqui deduzida já foi integral e exaustivamente enfrentada, tornando-se insuscetível de nova análise por esta Corte. Nesse sentido:
+    (…).
+    Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.”
+    O Superior Tribunal de Justiça, ao conhecer do AREsp 825.689/MG para negar provimento ao recurso especial, consignou que ‘não obstante o recorrente seja tecnicamente primário, condenado à pena privativa de liberdade superior a 4 e não excedente a 8 anos, envolve o presente caso tráfico de expressiva quantidade e deletéria natureza dos entorpecentes – 2,6kg de cocaína –, o que justifica a fixação do regime inicial fechado’.
+    Nos autos do HC 111.840/ES, Rel. Min. Dias Toffoli, em sessão realizada em 27.6.2012, o Plenário desta Suprema Corte declarou a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90, com a redação dada pela Lei 11.464/07, que instituiu a obrigatoriedade de imposição do regime inicial fechado para o cumprimento da pena de crimes hediondos e equiparados.
+    O julgado não reconheceu direito automático a esse benefício, impondo-se sua apreciação pelo juiz do processo à luz do preenchimento, ou não, dos requisitos legais do art. 33 do Código Penal. Agregue-se o fato de que o benefício não está condicionado ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais dos artigos 59 do Código Penal e 42 da Lei 11.343/2006, conforme expressa remissão do art. 33, § 3º, do mesmo diploma legal.
+    Na hipótese, o ato dito coator está em consonância com a jurisprudência desta Suprema Corte no sentido da “Possibilidade de indeferir a substituição da pena por restritiva de direitos e de fixar o regime de cumprimento da pena forte na quantidade e natureza da droga. Precedente.” (RHC 122.804/MT, de minha relatoria, 1ª Turma, DJe 14.10.2014). De igual modo, “O Supremo Tribunal já assentou entendimento quanto à possibilidade de o juiz fixar o regime inicial fechado e afastar a substituição da pena privativa de liberdade por restritiva de direitos com base na quantidade e na natureza do entorpecente apreendido (RHC nº 125.077/MS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 4/3/15)” (RHC 132.328/MS, Rel. Min. Dias Toffoli, 2ª Turma, DJe 30.5.2016); e “A teor das normas de regência, além da quantidade de pena, a fixação do regime inicial deve observar as circunstâncias sopesadas no desenrolar da dosimetria da pena, notadamente, na hipótese de tráfico de drogas, a natureza e quantidade dos entorpecentes apreendidos” (HC 140.720/AM, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.6.2017).
+    Em relação ao HC 481.112/MG, o Ministro Reynaldo Soares da Fonseca, via decisão monocrática, indeferiu o writ forte na ‘reiteração de insurgência já apreciada e julgada pelo Superior Tribunal de Justiça, de forma que a tese aqui deduzida já foi integral e exaustivamente enfrentada, tornando-se insuscetível de nova análise por esta Corte’.
+    Nesse espectro, “A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus” (HC 146.334-AgR/PR, Rel. Min. Celso de Mello, 2ª Turma, DJe 23.10.2017); “a jurisprudência deste Supremo Tribunal já assentou a inadmissibilidade de ‘habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada’ (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 18/8/15)” (HC 129.705-AgR/SP, Rel. Min. Dias Toffoli, 2ª Turma, DJe 14.12.2015); “não conhece de habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada” (HC 126.835-AgR/DF, Rel. Min. Roberto Barroso, 1ª Turma, DJe 18.8.2015); e “O habeas corpus é inadmissível quando se trata de mera reiteração das razões de medida anteriormente impetrada nesta Corte. Precedentes...” (RHC 113.089-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.9.2014).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
