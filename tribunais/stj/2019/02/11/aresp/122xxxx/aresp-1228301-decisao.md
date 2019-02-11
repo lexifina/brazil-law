@@ -1,0 +1,102 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE OMISSÃO. [NOME]. ALEGAÇÃO DE EQUÍVOCO NO ENQUADRAMENTO DA LESÃO SOFRIDA AO PERCENTUAL ESTABELECIDO EM LEI. PRETENSÃO DE REVISÃO DA DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. APLICAÇÃO DA LEI VIGENTE NA DATA DA SENTENÇA QUE EFETUOU O ARBITRAMENTO (CPC/1973). INAPLICABILIDADE DA VEDAÇÃO DISPOSTA NO ART. 85, § 14, DO CPC/2015. POSSIBILIDADE DE COMPENSAÇÃO DE HONORÁRIOS. SÚMULA 306/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA PARTE CONHECIDA, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por NAIR FERREIRA DE MIRANDA em face de decisão que inadmitiu o recurso especial interposto, com base no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"AGRAVO - DECISÃO MONOCRÁTICA EM RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA - [NOME] - CÁLCULO DA INDENIZAÇÃO ESCORREITA - PROPORCIONALIDADE FIXADA SOBRE PERCENTUAL ESTABALECIDO EM LEI - SÚMULA 474 STJ - RECURSO CONHECIDO E DESPROVIDO.
+"A indenização do seguro [NOME], em caso de invalidei parcial do beneficiário, será paga de forma proporcional ao grau de invalidez". (Enunciado 474 STJ).
+Inexistindo argumentos capazes de infirmar a decisão agravada, esta deve ser mantida na íntegra." (e-STJ fl. 265)
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 286-293).
+Nas razões do recurso especial, a recorrente alega, em síntese, que houve negativa de prestação jurisdicional e que, na fixação da indenização decorrente do seguro [NOME], o Tribunal de origem não observou a tabela de danos corporais aplicável e "a decisão objurgada  ..  deixou de observar corretamente o enquadramento da lesão incontroversa resultante ao Recorrente aos parâmetros estabelecidos pela legislação aplicável, culminando assim em indenização inferior à que faz jus o Recorrente" (e-STJ fl. 301). Assevera, ainda, que não houve sucumbência recíproca, pois a causa de pedir foi atendida, ainda que não em sua integralidade. Defende, por fim, a impossibilidade de compensação de honorários advocatícios, pois pertencem aos patronos das partes, e não a estas.
+Contrarrazões às fls. 320-325 (e-STJ).
+Sobreveio juízo de admissibilidade do Tribunal de origem (e-STJ fls. 327-331), que negou seguimento ao recurso especial por considerar que incide o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, no que tange à alegada violação do art. 1.022 do CPC/2015, constato não estar configurada a sua ocorrência.
+Ocorre que, na hipótese dos autos, o Tribunal de origem assim decidiu a respeito da controvérsia:
+"Depreende-se da hipótese em apreço, que embora a Agravante sustente que o quantum indenizatório fora fixado de maneira equivocada, e que os ônus de sucumbência devam recair somente para a Agravada verifica-se que a matéria fora analisada na decisão ora vergastada, a qual transcrevo:
+Extrai-se dos autos que a Apelante ajuizou a presente ação de cobrança do Seguro Obrigatório - [NOME], em virtude do acidente de trânsito ocorrido em 01/01/2009, que resultou em invalidez parcial permanente no punho avaliada em 20% (vinte porcento), conforme laudo pericial acostado às fls. 169-177.
+Após a instrução processual, sobreveio o ato sentencial vergastado que julgou parcialmente procedente os pedidos formulados na peça inicial, condenando a seguradora, ao pagamento do seguro obrigatório no valor de R$675,00 (seiscentos e setenta e cinco reais), incindindo juros moratórios de 1% (um porcento) ao mês a partir da citação e correção monetária desde a data do sinistro, bem como, condenando as partes em custas e dos honorários fixados em 20% do valor da causa, recíprocos, na proporção de 55% (cinqüenta e cinco porcento) para Apelante e 45% (quarenta e cinco porcento) para a Apelada, razão pela qual se insurge nesta instância.
+Feito esse breve introito elucidativo, passo à análise recursal.
+Sobre o assunto, cumpre ressaltar que a Lei 6.194/1974, dispõe sobre o Seguro Obrigatório de Danos Pessoais causados por veículos automotores de via terrestre, ou por sua carga, a pessoas transportadas ou não, regulamentando o valor das indenizações a serem pagas.
+Outrossim, para uniformizar um parâmetro de fixação de indenização é que a legislação estabeleceu tabela com percentuais a serem concedidos sobre o valor do teto máximo de R$13.500,00 (treze mil e quinhentos reais), prevendo os tipos de lesões e seus respectivos percentuais.
+A par disso, nota-se da tabela anexa à mencionada Lei, doravante colacionada, que a lesão suportada pela Apelante está vinculada à indenização de 25% sobre o teto, caso a lesão seja em sua totalidade. vejamos o que disciplina a lei que trata da matéria:
+ ..
+Nessa esteira, o Superior Tribunal de Justiça, por meio do verbete sumular nº 474, consolidou o entendimento de que "A indenização do seguro [NOME], em caso de invalidei parcial do beneficiário, será paga deforma proporcional ao grau de invalidez". (Destacamos)
+Assim, conforme a Tabela caso a invalidez fosse total, o percentual a ser pago seria de 25% (vinte e cinco porcento) sobre o teto, entretanto, o laudo pericial é claro ao consignar que a invalidez é parcial e comprometeu 20% (vinte porcento) da função do punho (fls. 174-175).
+Desse modo, utilizando-se a tabela da Lei nº 6.194/74, na redação dada pela MP 581/08, verifica-se que a base de cálculo deve ser de 25% (vinte e cinco porcento) sobre o teto remuneratório, em relação ao qual incidirá o percentual de 20% (vinte porcento) que se refere ao grau da invalidez parcial suportado pela Apelante.
+Por conseguinte, a sentença não deve ser modificada, uma vez que fixou o valor da indenização no montante de R$675,00 (seiscentos e setenta e cinco reais), correspondente ao grau de lesão sofrido para o caso de perda de 20% da mobilidade do punho." (e-STJ fls. 267-270)
+Da leitura do trecho acima transcrito, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo os elementos concretos que levaram às suas conclusões de que, em conformidade com o grau de invalidez parcial do punho da recorrente consignado no laudo pericial, o valor da indenização securitária deve ser correspondente a 20% (vinte por cento) sobre a base de cálculo de 25% (vinte e cinco por cento) do teto remuneratório, conforme enquadramento nos parâmetros da tabela constante da Lei 6.194/1974.
+Portanto, a insurgência ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+No tocante às alegações de equívoco no enquadramento da lesão sofrida pela recorrente no percentual de indenização estabelecido pelo juízo de origem, a decisão de admissibilidade está correta ao indicar que o conhecimento do recurso especial é obstado pelo teor da Súmula 7 deste Superior Tribunal de Justiça.
+Com efeito, seria necessário o reexame do conjunto fático-probatório constante dos autos para averiguar a procedência da alegação de que "a intenção do expert foi de indicar o valor global da lesão e nunca apenas a sua repercussão" (e-STJ fl. 303), bem como para alterar as premissas fixadas pela Corte estadual de que, conforme o laudo pericial, a invalidez é parcial e comprometeu 20% da função do punho da vítima, e, portanto, o valor da indenização deve ser fixado no patamar de 20% da base de cálculo correspondente à "perda completa da mobilidade de um dos ombros, cotovelos, punhos ou dedo polegar", qual seja, qual seja, 25% do teto remuneratório.
+O mesmo óbice impede que o recurso seja conhecido em relação à insurgência referente à fixação da sucumbência recíproca entre as partes.
+Isso porque alterar o entendimento do Tribunal de origem a respeito da distribuição dos ônus sucumbenciais demandaria incursão na seara fático-probatória dos autos, o que é vedado na via do recurso especial.
+Sobre o tema, confiram-se os seguintes julgados:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA FUNDADA EM ACIDENTE DE TRÂNSITO, COM ELEVADO NÚMERO DE VÍTIMAS. VALIDADE DAS TRANSAÇÕES EXTRAJUDICIAIS CELEBRADAS APÓS O SINISTRO PARA COMPOSIÇÃO DOS PREJUÍZOS. LESÃO NÃO CONFIGURADA. EFICÁCIA DO NEGÓCIO JURÍDICO EM RELAÇÃO ÀS VÍTIMAS MENORES. TEMA NÃO PREQUESTIONADO. COMPENSAÇÃO POR DANOS MORAIS FIXADA COM RAZOABILIDADE. LUCROS CESSANTES. AUSÊNCIA DE PREQUESTIONAMENTO. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. NECESSIDADE DE REEXAMINAR FATOS E PROVAS.  ..
+6. Não é possível saber se a distribuição dos ônus sucumbenciais fixada pelas instâncias de origem reflete adequadamente o decaimento de cada parte sem reexaminar fatos e provas, o que veda a Súmula nº 7 do STJ. Precedentes.
+7. Recurso especial não provido.
+(REsp 1384480/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/05/2017, DJe 02/06/2017, g.n.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - ABSTENÇÃO DE USO DE MARCA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO AUTOR.
+1. A reforma do acórdão a quo, para concluir pela presença dos requisitos ensejadores do dever de indenizar, sobretudo a existência de má-fé e a prática de ato ilícito pela empresa ora agravada, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+2. A verificação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, a fim de reformular a distribuição dos ônus de sucumbência, bem como a alteração da sucumbência mínima ou recíproca identificada pelas instâncias ordinárias, são inviáveis no âmbito do recurso especial, por demandarem o reexame de matéria fática, o que esbarra no óbice da Súmula 7/STJ.
+3. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+4. Agravo interno desprovido.
+(AgRg no AREsp 475.129/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/04/2017, DJe 04/05/2017, g.n.)
+Por fim, acerca da possibilidade de compensação de honorários advocatícios de sucumbência, impõe-se destacar o entendimento desta Corte Superior de que os parâmetros para a condenação em honorários advocatícios de sucumbência devem observar as normas vigentes na data da prolação da sentença que arbitrou os honorários, em virtude da sua natureza híbrida processual e material e da necessidade de preservação do direito adquirido.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC/1973. APLICAÇÃO DA REGRA DO ART. 20, §§ 3º E 4º, DO CPC/1973. JUÍZO DE EQUIDADE. REVISÃO DO VALOR. SÚMULA 7/STJ.
+1. A regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença. Em razão de sua natureza material, afasta-se a aplicação imediata da nova norma. Precedentes.
+2. No caso, a sentença foi prolatada em 10/12/2015, devendo aplicar-se o comando do art. 20, §§ 3º e 4º, do CPC/1973.
+ ..
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1686733/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/04/2018, DJe 09/04/2018, g.n.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. SOBRESTAMENTO. DESNECESSIDADE. JUÍZO DE EQUIDADE. VALOR ÍNFIMO. SÚMULA 7 DO STJ. AFASTAMENTO.
+ ..
+3. Apesar de a propositura da ação demarcar os limites da causalidade e os riscos de eventual sucumbência, o STJ elegeu a sentença - ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios - como marco para a incidência das regras do novo estatuto processual, notadamente em face da natureza jurídica híbrida do referido instituto (processual-material).
+4. Hipótese em que, tendo sido a execução proposta em 2006 e a sentença que a extinguiu, fixando a verba honorária, proferida em 2010, a eventual decisão a ser adotada por esta Corte no julgamento do recurso repetitivo - cuja tese controvertida refere-se à aplicabilidade da Súmula 345 do STJ diante da superveniência do art.
+85, § 7º, do CPC/2015 - não terá o condão de alterar o entendimento explicitado na decisão ora agravada. Afastado, portanto, o sobrestamento do feito.
+ ..
+8. Agravos internos desprovidos.
+(AgInt no AREsp 1007254/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 08/03/2018, g.n.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. COMPENSAÇÃO DE VERBA HONORÁRIA. POSSIBILIDADE. MARCO TEMPORAL. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/73. INCIDÊNCIA DA SÚMULA Nº 306 DO STJ. PRETENSÃO DE APLICAÇÃO DO ART. 85, § 14, DO NCPC. ARTIGO NÃO PREQUESTIONADO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+ ..
+3. Esta Corte assentou entendimento no sentido de que em homenagem à natureza processual material e com o escopo de preservar-se o direito adquirido, as normas sobre honorários advocatícios não são alcançadas por lei nova. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. (REsp 1465535/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 22/8/2016)
+4. Na lide examinada os honorários foram fixados pela sentença sob a vigência do CPC/73, sendo possível, portanto, a aplicação da Súmula nº 306 do STJ.
+5. Agravo interno não provido com aplicação de multa.
+(AgInt no AREsp 1034509/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 06/06/2017, DJe 13/06/2017, g.n.)
+RECURSO ESPECIAL. PROCESSO CIVIL. ARBITRAGEM. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. [NOME]. EMBARGOS DO DEVEDOR. MÉRITO. COMPETÊNCIA DO JUÍZO ARBITRAL. QUESTÕES FORMAIS, ATINENTES A ATOS EXECUTIVOS OU DE DIREITOS PATRIMONIAIS INDISPONÍVEIS. COMPETÊNCIA DO JUÍZO ESTATAL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA. LEI NOVA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA.  ..
+6. O Superior Tribunal de Justiça propugna que, em homenagem à natureza processual material e com o escopo de preservar-se o direito adquirido, as normas sobre honorários advocatícios não são alcançadas por lei nova. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+7. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de esta Corte Superior reformar o acórdão recorrido após a vigência do novo CPC, incidem, quanto aos honorários, as regras do diploma processual anterior.
+8. Recurso especial provido.
+(REsp 1465535/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2016, DJe 22/08/2016, g.n.)
+No caso sob apreciação, tendo em vista que a sentença que fixou a sucumbência recíproca foi proferida na vigência do Código de Processo Civil de 1973 (e-STJ fls. 205-211), as regras aplicáveis quanto aos honorários sucumbenciais são aquelas dispostas nesse diploma processual, e não no CPC/2015.
+Nesse contexto, não se revela aplicável ao caso a vedação contida no art. 85, § 14, do CPC/2015, admitindo-se a compensação da verba honorária, em consonância com o entendimento consolidado na Súmula 306 desta Corte Superior, segundo a qual "os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte".
+Sobre o tema, confiram-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO. POSSIBILIDADE. SÚMULA Nº 306/STJ. COMPENSAÇÃO. VIOLAÇÃO DA COISA JULGADA. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que, havendo sucumbência recíproca, os honorários advocatícios devem ser compensados. Inteligência da Súmula nº 306/STJ.
+3. Se o provimento judicial transitado em julgado que serve de título executivo não nega a possibilidade de compensação da verba honorária, admite-se que tal compensação se faça em execução ou em fase de cumprimento de sentença sem que isso se traduza em ofensa à coisa julgada. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1575551/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO DOS VÍCIOS. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 165 E 458, II, DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. AÇÃO E RECONVENÇÃO. COMPENSAÇÃO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+ ..
+6. Em interpretação do CPC/73 o STJ já decidiu que a compensação de honorários advocatícios é válida nas hipóteses em que configurada sucumbência recíproca.
+ ..
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1656180/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/11/2017, DJe 29/11/2017)
+Ante o exposto, com base no art. 253, inciso II, alíneas "a" e "b", do Regimento Interno deste Superior Tribunal de Justiça, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, tendo em vista que já foram fixados em quantia equivalente a 20% (vinte por cento) sobre o valor da condenação (e-STJ fl. 211), limite indicado no § 2º daquele dispositivo legal.
+Intimem-se.
