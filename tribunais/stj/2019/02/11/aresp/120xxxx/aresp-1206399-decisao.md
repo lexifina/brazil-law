@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À AÇÃO MONITÓRIA. RECONHECIMENTO DA ILEGITIMIDADE ATIVA. PREMISSA DE QUE OS CHEQUES APRESENTADOS NÃO CONTÊM O ENDOSSO DO BENEFICIÁRIO. PRETENSÃO DE REVISÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PROPORCIONALIDADE E RAZOABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. HONORÁRIOS RECURSAIS (ART. 85, §11, CPC/2015).
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por CASA DO MARCENEIRO GUAÇU LTDA. em face de decisão que inadmitiu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Monitória - Embargos - Cheque nominal - Ausência de prova do endosso - Ilegitimidade ativa demonstrada - Embargante que contratou serviços de montagem de móveis planejados, mas não foram entregues, levando-a proceder a sustação dos cheques emitidos para pagamento por desacordo comercial - Excepcionalidade que admite a discussão da causa debendi - Exigibilidade dos títulos afastada - Decisão reformada - Recurso provido." (e-STJ fl. 158)
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 175-178).
+Nas razões do recurso especial, a recorrente alega, em síntese, que a ação monitória deve ser julgada procedente, pois a sentença proferida na ação condenatória n. 3005017-90.2013.8.26.0363 "previu expressamente a possibilidade de circulação dos cheques consignando que a recorrida seria ressarcida dos valores desembolsados para pagamento de terceiros de boa-fé que estiverem de posse destes cheques" (e-STJ fl. 188). Assevera, ainda, que "os cheques foram endossados pela empresa portadora/beneficiária, através da aposição da assinatura no verso do cheque, como determina a lei civil, não havendo, portanto, o que se falar em ilegitimidade de parte" (e-STJ fl. 189). Pugna, subsidiariamente, pela redução do valor arbitrado para os honorários advocatícios de sucumbência, por considerá-lo desproporcional em relação à pretensão deduzida.
+Sem contrarrazões (e-STJ fl. 199).
+Sobreveio juízo de admissibilidade do Tribunal de origem (e-STJ fls. 200-201), que inadmitiu o recurso especial, por considerar que incide, no caso, o óbice da Súmula 7 deste Superior Tribunal de Justiça e que não foi demonstrada a vulneração aos dispositivos legais apontados.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar, uma vez que a decisão de inadmissibilidade está correta ao indicar que o teor da Súmula 7/STJ obsta o conhecimento do recurso especial.
+Com efeito, o Tribunal de origem, após exame dos elementos de informação acostados aos autos, assim decidiu a controvérsia:
+"De fato, a autora não comprovou a legitimidade ativa.
+Conforme se depreende, os cheques de fls. 08/09 foram emitidos pela ré nominalmente à empresa "ACR NOVO MÓVEIS MARCENARIA ME", pessoa alheia ao processo.
+Dispõe o artigo 17 da Lei nº 7.357/87 que: "O cheque pagável a pessoa nomeada, com ou sem cláusula expressa "à ordem", é transmissível por via de endosso."
+Todavia, os cheques apresentados não contêm o endosso do beneficiário, de modo que não há como aferir a regularidade de eventual endosso das cártulas em favor da autora, acarretando, pois, na sua ilegitimidade para pleitear os valores aduzidos na petição inicial.
+ ..
+Porém, ainda que assim não fosse, observa-se que a embargante tem razão ao se opor ao pagamento dos títulos.
+No caso, a prova carreada aos autos demonstra que os cheques foram entregues à empresa ACR NOVO MÓVEIS ME como pagamento pelos serviços de fabricação, instalação e montagem de móveis planejados.
+A documentação anexada a fls. 33/45 e a cópia da r. sentença proferida nos autos da ação condenatória nº 3005017-90.2013.8.26.0363 comprovam a inexecução do serviço, a contraordem ao pagamento e o quanto alegado pela embargante neste recurso.
+Nulas as cártulas, eis que oriundas de negócio jurídico que não se concretizou, não há como subsistir sua exigibilidade.
+E como é cediço, ato nulo não produz efeitos nem gera direitos. Esta regra também se aplica ao cheque, pois, do contrário, seria o mesmo que avalizar ou tornar lícito um cheque fruto de estelionato.
+ ..
+Ora, é manifesta a excepcionalidade do caso em questão na discussão da causa debendi, que joga por terra a presunção que favorece o terceiro que, no caso, trata-se e repita-se de pessoa que não comprovou o endosso, e por consequência sua legitimidade ativa." (e-STJ fls. 159-162)
+Da leitura dos trechos acima transcritos, revela-se inviável a reforma do acórdão recorrido, eis que seria inevitável o reexame do conjunto fático-probatório constante dos autos para apurar se, conforme alega a recorrente, "os cheques foram endossados pela empresa portadora/beneficiária, através da aposição da assinatura no verso do cheque, como determina a lei civil" (e-STJ fl. 189), e, por conseguinte, revisar a premissa fixada pela Corte estadual de que "os cheques apresentados não contêm o endosso do beneficiário, de modo que não há como aferir a regularidade de eventual endosso das cártulas em favor da autora, acarretando, pois, na sua ilegitimidade para pleitear os valores aduzidos na petição inicial" (e-STJ fl. 159).
+Diante da impossibilidade de desconstituição desse fundamento, que, por si só, é apto a amparar a conclusão pela extinção da ação monitória, afigura-se desnecessária a discussão acerca das alegações da recorrente quanto à viabilidade de circulação dos cheques e aos termos da sentença proferida na anterior ação condenatória.
+Por fim, verifica-se que o Tribunal de origem, ao inverter a distribuição dos ônus da sucumbência, considerou razoável e proporcional arbitrar o valor dos honorários advocatícios em R$ 2.000,00 (dois mil reais).
+Embora a recorrente alegue que o montante seria desproporcional, uma vez constatado, no caso concreto, que não houve desrespeito ao bom senso e aos critérios recomendados pela doutrina e pela jurisprudência, não se justifica, in casu, a excepcional intervenção desta Corte Especial a fim de revisar o valor, pois não se revela exorbitante.
+Com efeito, este Superior Tribunal de Justiça possui entendimento pacificado no sentido de que a revisão do valor fixado a título de honorários advocatícios dependeria de que fosse apreciado novamente o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado e o tempo exigido para o serviço do advogado. No entanto, nos termos do enunciado da Súmula 7/STJ, não é autorizado, na via eleita, reexaminar os aspectos fáticos analisados pelas instâncias de origem.
+Sobre o tema, confira-se a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE NULIDADE DE TESTAMENTO PÚBLICO. HERDEIRO NECESSÁRIO EXCLUÍDO NA PARTE DISPONÍVEL. ALEGADA INCAPACIDADE ABSOLUTA DA TESTADORA FALECIDA. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INCIDÊNCIA SÚMULA 7/STJ.
+1. No presente caso, a análise da pretensão recursal referente ao julgamento antecipado da lide e a necessidade de produção de outras provas para o deslinde da controvérsia demandaria o revolvimento do conjunto fático-probatório dos autos, providência esta vedada na instância especial. Incidência da Súmula n. 7 desta Corte.
+2. Em regra, não é cabível, em recurso especial, examinar a justiça do valor fixado a título de honorários, na medida em que a análise das circunstâncias previstas nos §§ 3º e 4º do art. 20 do CPC impõe, necessariamente, incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 950.573/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe 20/10/2016, g.n.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DOS CRITÉRIOS PARA SUA FIXAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTES. AGRAVO IMPROVIDO.
+1. A revisão dos critérios adotados pela Corte de origem para a fixação dos honorários advocatícios com base no art. 20, § 4º, do CPC, em regra, é inviável em recurso especial, tendo em vista a necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula n. 7 do STJ. Precedentes.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 609.502/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/02/2015, DJe 03/03/2015, g.n.)
+Ante o exposto, com base no art. 253, inciso II, alínea "a", do Regimento Interno deste Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro o valor dos honorários advocatícios de sucumbência fixado no acórdão recorrido (e-STJ fl. 162) para R$ 2.200,00 (dois mil e duzentos reais).
+Intimem-se.
