@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. INTERESSE RECURSAL E VIOLAÇÃO PRINCÍPIOS DA BOA-FÉ CONTRATUAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICABILIDADE DA SÚMULA 211/STJ. LITISPENDÊNCIA. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CASA DO MARCINEIRO GBR LTDA - ME e DANIEL RODRIGUES FEITOZA contra decisão do Tribunal de Justiça do Estado de São Paulo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, e interposto contra acórdão assim ementado (e-STJ, fl. 302):
+LITISPENDÊNCIA - INOCORRÊNCIA PRELIMINAR REJEITADA OBRIGAÇÃO DE FAZER OUTORGA DE ESCRITURA - ÁREA OFERECIDA COMO DAÇÃO EM PAGAMENTO - ACORDO HOMOLOGADO JUDICIALMENTE TRANSITADO EM JULGADO CLÁUSULA QUE PREVÊ PERDA DO IMÓVEL - SENTENÇA PARCIALMENTE PROCEDENTE - SUCUMBÊNCIA RECÍPROCA MANTIDA NEGADO PROVIMENTO AOS RECURSOS.
+Nas razões do recurso especial, os recorrentes alegaram violação dos arts. 267,V e 301, V e §§ 1º, 2º e 3º do CPC/1973 (485, V, 337, IV e §§ 1º, 2º e 3º do CPC/2015) e 422 do Código Civil.
+Sustentam, em síntese, a ausência de interesse processual bem como a existência de litispendência tendo em vista que "O processo mencionado na R. Decisão citada (número de ordem 1185/2013 - 0009046-58.2013.8.26.0066), apesar de manejado pelo rito ordinário, na matéria que envolve questão possessória tem natureza dúplice e, portanto, naquela sede já estava o ora Recorrido discutindo a questão que insiste em repetir nessa ação, faltando-lhe interesse processual" bem como "É pacífico o entendimento segundo o qual ocorre a litispendência, mesmo que parcial, e não continência ou conexão, quando já houver sido proferida sentença no primeiro processo (que é o caso) e havendo coincidência (ainda que parcial) das partes, causa de pedir e pedido" (e-STJ, fls. 345).
+Defendem que foram violados os princípios de probidade e boa-fé contratual, uma vez que "a questão da dúplice cobrança pelo Recorrido (multa por descumprimento do acordo e dação em pagamento da área) ainda não transitou em julgado, não se podendo dizer, com o devido respeito, que deve ser reconhecida a perda da área oferecida em dação, sem prejuízo da execução da multa, pois haveria dupla punição aos Recorrentes e patente enriquecimento ilícito pelo Recorrido" (e-STJ, fls. 351).
+Opostos embargos de declaração, foram rejeitados nos seguintes termos (e-STJ, fls. 328/336):
+Embargos de declaração - contradição - vício inexistente - pretensão infringente - inadmissibilidade
+embargos opostos para fins de prequestionamento - impossibilidade - desnecessidade de menção expressa dos dispositivos legais tidos por violados - embargos rejeitados
+Contrarrazões apresentadas (e-STJ, fls. 358/364).
+É o relatório.
+Passo a decidir.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à alegada violação dos arts. 267, V do CPC/73 (485, V, CPC/2015) 422 do Código Civil, verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. SUSPENSÃO. OBRIGAÇÃO INDIVISÍVEL. COMPROVAÇÃO DO DOMÍNIO. DENUNCIAÇÃO À LIDE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Reapreciar as conclusões do aresto impugnado encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça diante da necessidade de reexame das circunstâncias fáticas da causa.
+5. Agravo interno não provido.
+(AgInt no AREsp 704.352/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 14/02/2018) - g.n.
+Quanto a alegação de existência de litispendência, assim se pronunciou o Tribunal de origem no acórdão recorrido (e-STJ, fl. 305):
+No processo número 0009046-58.2013.8.26.0066 - 1185/2013, GBR e Casa do Marcineiro propuseram ação para que sejam reintegradas na posse da área de 990 metros quadrados oferecida como dação em pagamento nos autos do processo nº 402/98, pedem também, o desfazimento dos muros e edificações lá erguidos e que sejam indenizadas por danos materiais e morais, fls. 49/62.
+Esta ação visa a outorga da escritura pára transferência da área dada em pagamento.
+Não se trata da mesma ação, a causa de pedir e o pedido são distintos, de modo que não há que se falar em ações idênticas.
+Desse modo, para se elidir as conclusões do aresto impugnado acima destacadas, e, assim, concluir pela existência de litispendência no presente caso, como argumentado nas razões do recurso especial, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO DE NULIDADE DA SENTENÇA. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 282 DO STF. VERIFICAÇÃO DE LITISPENDÊNCIA. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A violação ao art. 1.022 do Código de Processo Civil de 2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, concluindo pela configuração da litispendência.
+2. A questão referente à nulidade da sentença não foi objeto de debate pelo Tribunal de Justiça, tampouco foram opostos embargos de declaração com o objetivo de sanar omissão neste ponto específico.
+Dessa forma, não tendo sido enfrentada pelo acórdão recorrido a referida tese, o conhecimento do recurso especial fica obstado, dada a ausência de prequestionamento, incidindo, por conseguinte, a Súmula n. 282 do STF. Segundo pacífica jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento.
+3. O acórdão consignou expressamente que os autores, ora agravantes, apresentaram discussão a respeito de tema já suscitado e examinado em embargos à execução anteriormente propostos contra a mesma instituição financeira e sobre o mesmo contrato.
+Nesse contexto, alcançar conclusão diversa da que chegou o Tribunal estadual, acerca da configuração da litispendência, demandaria o revolvimento do acervo fático-probatório, procedimento inviável no âmbito do recurso especial, incidindo na hipótese a Súmula n. 7 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 1130021/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE TAXA CONDOMINIAL. ARTS. 489 E 1.022, DO CPC/2015. AUSÊNCIA DE OMISSÕES. PRELIMINARES DE CONEXÃO. LITISPENDÊNCIA E COISA JULGADA. AUSÊNCIA DOS REQUISITOS. REVISÃO. SÚMULA 7 DO STJ. RESPONSABILIDADE DO PROPRIETÁRIO. QUITAÇÃO DO DÉBITO. NÃO COMPROVAÇÃO. MULTA DO ART. 1.026, §2º DO CPC/2015. MANUTENÇÃO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Assim, não há falar, no caso, em negativa de prestação jurisdicional.
+2. O Tribunal de origem, amparado nas premissas fáticas dos autos, entendeu que não estão presentes as hipóteses legais de conexão, litispendência, a coisa julgada. A revisão do julgado estadual demandaria reexame de provas. Incidência do óbice da Súmula 7 do STJ.
+3. O acolhimento da pretensão recursal, a fim de afastar a obrigação do agravante pelo pagamento das taxas condominiais, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Quanto ao afastamento da multa aplicada com amparo no art. 1.026, § 2º, do atual CPC, verifica-se que o Tribunal Estadual já havia analisado e decidido de modo claro e objetivo as questões que delimitaram a controvérsia, não havendo a necessidade de oposição de embargos de declaração.
+5. O mero inconformismo da parte não constitui hipótese de cabimento de embargos de declaração e tampouco caracteriza vício no acórdão, razão pela qual deve ser mantida a multa aplicada em sede de embargos de declaração.
+6. Agravo interno não provido.
+(AgInt no AREsp 1316325/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/11/2018, DJe 16/11/2018; grifou-se)
+Destarte, não merece prosperar o reclamo.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, arbitro os honorários recursais em R$ 500,00 (quinhentos reais), a serem suportados exclusivamente pelas recorrentes.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
