@@ -1,0 +1,42 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. COMPENSAÇÃO INTEGRAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. RÉU MULTIRREINCIDENTE. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA N. 568/STJ. APLICAÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por ELTON FIDELIS RIBEIRO RODRIGUES contra decisão proferida pelo eg. Tribunal de Justiça do Estado do Estado de Minas Gerais que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que o MM. Juízo de 1º Grau condenou o ora recorrente como incurso nas sanções do art. 157, § 2º, inciso II, do Código Penal, à pena de 8 (oito) anos e 8 (oito) meses de reclusão, em regime inicial fechado, mais 46 dias-multa (fls. 113-119).
+O eg Tribunal de origem, por seu turno, em decisão unânime, deu parcial provimento ao recurso de apelação criminal ali interposto pela Defesa, para reduzir a reprimenda corporal para 5 (cinco) anos e 4 (quatro) meses de reclusão, mais 16 dias-multa (fls. 176-190). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL - ROUBO MAJORADO PELO CONCURSO DE PESSOAS - RECONHECIMENTO DA TENTATIVA - INVIABILIDADE - CRIME CONSUMADO - PENA -BASE - DIMINUIÇÃO - NECESSIDADE - PENA PROVISÓRIA - COMPENSAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA - NECESSIDADE. Se o agente retirar da vítima a posse da res furtiva, e desta detiver a posse de forma mansa e pacifica, ainda que por breve período de tempo, é impossível reconhecer a causa de diminuição afeta à tentativa (art. 14 do Código Penal). A pena -base deve ser fixada no mínimo legal se as circunstâncias judicias do art. 59 não prejudicarem o réu. A atenuante da confissão espontânea e a agravante da reincidência, por serem causas subjetivas, devem ser compensadas na segunda fase da dosimetria da pena."
+Sobreveio, então, recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual o recorrente alega violação ao art. 61, inciso I, e 65, inciso III, d, ambos do Código Pena. Para tanto, alega que:
+a) " ..  A confissão espontânea, para ser utilizada como atenuante, deve ser utilizada como instrumento de convencimento do julgador da autoria do fato em questão, auxiliando na responsabilização do indivíduo ao fato" (fl. 197);
+b) "No julgamento do HC 365.963/SP, o Superior Tribunal de Justiça fixou a tese da possibilidade de compensação integral da agravante da reincidência com a atenuante da confissão espontânea, irradiando seus efeitos tanto à reincidência genérica quanto à reincidência especifica" (fl. 198);
+c) "Firmou-se a tese, portanto, que a compensação entre a referida agravante e a supracitada atenuante deve ser completa, não existindo a "repartição" do conjunto de agravantes ou de atenuantes para a realização da compensação" (fl. 199).
+Contrarrazões apresentadas (fls. 207-211).
+O apelo nobre foi inadmitido na origem pela aplicação das Súmula n. 83/STJ (fls. 213-217).
+Daí o presente agravo, no qual o agravante repisa os argumentos expendidos no recurso especial e refuta os fundamentos da decisão que o inadmitiu (fls. 220-225). Alega que "a súmula .83 do STJ não se aplica ao presente caso, uma vez que se colacionou julgados recentes no sentido de que a compensação da confissão espontânea coma agravante da reincidência é medida que deve ser aplicada mesmo quando o agente possui mais de uma condenação em sua ficha criminal" (fl. 223).
+Contraminuta apresentada pelo Parquet estadual (fls. 228-230).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fls. 241-244).
+É o relatório.
+Decido.
+Superadas as questões relativas ao conhecimento do agravo, passo à análise do recurso especial.
+Não logra êxito a irresignação.
+Sobre a quaestio, no que importa ao caso, consignou o eg. Colegiado a quo:
+"Quanto aos pedidos de redução da pena -base e de compensação da atenuante da confissão espontânea com a agravante da reincidência, melhor sorte assiste aos apelantes.
+A CAC de Rafael traz apenas uma condenação por roubo, configurando assim a reincidência especifica, mas a de Elton traz duas condenações por tráfico de drogas (fls. 47/48 e 49/50).
+Ainda assim vejamos como o magistrado procedeu na fixação da pena:
+ ..  Presente também a agravante da reincidência, motivo pelo qual elevo a pena em 1 (um) ano de reclusão e 10 (dez) dias -multa, resultando, ao final da segunda fase, em uma pena intermediária de 6 (seis) anos e 6 (seis) meses de reclusão e 35 (trinta e cinco) dias -multa. Na terceira e última fase da dosimetria, não há causas de diminuição a incidir.
+Lado outro, presentes a causa de aumento referente ao concurso de pessoas, razão pela qual elevo a pena intermediária em 1/3 (um terço) e TORNO DEFINITIVA A PENA EM 8 (OITO) ANOS E 8 (OITO) MESES DE RECLUSÃO E 46 (QUARENTA E SEIS)" (fls. 176-190, grifei).
+Verifica-se, na espécie, que o v. acórdão está em harmonia com o entendimento deste eg. Superior Tribunal de Justiça. Isso porque, a jurisprudência dessa eg. Corte pacificou o entendimento no sentido de que a multirreincidência obsta a compensação integral com a atenuante da confissão.
+Com efeito: "Conforme o entendimento consolidado pela Terceira Seção desta eg. Corte, muito embora se reconheça a compensação da confissão espontânea com a reincidência, em se tratando de réu multireincidente, a compensação integral implicaria ofensa aos princípios da individualização da pena e da proporcionalidade, mormente porque a multireincidência exige maior reprovação, devendo, pois, prevalecer sobre a atenuante" (AgRg no AREsp 585.654/DF, Quinta Turma, de minha relatoria, julgado em 16/02/2016, DJe 26/02/2016).
+Como bem ressaltado pelo ilustre representante do Parquet Federal, em seu d. parecer: "nos termos da jurisprudência pacífica do STJ, a multirreincidência é fundamento idôneo e capaz de justificar a majoração da pena-base, pois as duas anotações criminais pretéritas autorizaram a preponderância da agravante de reincidência sobre a atenuante da confissão, na segunda fase da dosimetria. Nesse cerne, estando o acórdão recorrido em sintonia com a orientação jurisprudencial do STJ" (fl. 244).
+Confira-se, a propósito, precedentes de ambas as Turmas da Terceira Seção.
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACUSADO MULTIRREINCIDENTE. COMPENSAÇÃO INTEGRAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. INVIABILIDADE.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.341.370/MT (Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013), sob o rito do art. 543-C, c/c o § 3º do CPP, consolidou entendimento no sentido de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. No presente caso, a Corte de origem asseverou que o acusado é multirreincidente, devendo prevalecer a agravante da reincidência em relação à atenuante da confissão.
+3. Agravo regimental não provido" (AgRg no REsp 1699948/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/12/2017, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. REDIMENSIONAMENTO DE PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Consoante recente precedente desta Corte Superior, à evidência, o réu que ostenta condenações com trânsito em julgado anterior ao crime versado nos autos é multirreincidente e possui comportamento mais reprovável que aquele sentenciado por apenas um único fato criminoso anterior, independentemente de a maior parte dessas condenações haver sido sopesada na primeira fase da dosimetria e não na segunda, a viabilizar, assim, a não compensação da reincidência com a confissão.
+3. Agravo regimental não provido." (AgInt no HC 396.868/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 1º/8/2017).
+Dessa feita, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
