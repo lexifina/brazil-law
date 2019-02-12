@@ -1,4 +1,4 @@
 Art. 14. É facultado ao Poder Executivo a cessão especial de servidor para as organizações sociais, com ônus para a origem.
 § 1º Não será incorporada aos vencimentos ou à remuneração de origem do servidor cedido qualquer vantagem pecuniária que vier a ser paga pela organização social.
 § 2º Não será permitido o pagamento de vantagem pecuniária permanente por organização social a servidor cedido com recursos provenientes do contrato de gestão, ressalvada a hipótese de adicional relativo ao exercício de função temporária de direção e assessoria.
-§ 3º O servidor cedido que não atua diretamente na unidade que exerce a atividade publicizada perceberá as vantagens do cargo a que fizer jus no órgão de origem quando for ocupante de primeiro ou segundo escalão na organização social. (Arquivada pelo Ato de 13 de fevereiro de 2019)
+§ 3º O servidor cedido perceberá as vantagens do cargo a que fizer juz no órgão de origem, quando ocupante de cargo de primeiro ou de segundo escalão na organização social.
