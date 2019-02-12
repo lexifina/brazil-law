@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO. AÇÃO CIVIL PÚBLICA. INSTITUIÇÃO DE RESERVA FLORESTAL LEGAL. NULIDADE RELATIVA A INTIMAÇÃO DOS PATRONOS DOS APELANTES PARA INDICAR PROVAS AFASTADAS. JULGAMENTO ANTECIPADO DA LIDE EM NADA MODIFICARIA A REITERAÇÃO DESTA INTIMAÇÃO. MERO ERRO SEM PREJUÍZO. ILEGITIMIDADE PASSIVA DO GOVERNO DO ESTADO DE SÃO PAULO AFASTADA. OBRIGAÇÃO PROPTER REM. RESPONSABILIDADE OBJETIVA. SISTEMA LEGAL PERTINENTE É CONSTITUCIONAL. AMPLIAÇÃO DOS PRAZOS PARA O PROJETO E EXECUÇÃO DO REFLORESTAMENTO. PRELIMINARES AFASTADAS E APELO PROVIDO EM PARTE.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, XXXVI; 37, caput; e 225, §§ 1º, 4º e 5º, da CF.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “os argumentos expendidos não são suficientes para infirmar as conclusões do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo, tampouco evidenciado o suposto maltrato à norma constitucional enunciada”; (ii) “Sob o pálio da alínea ‘c’, conforme anotado no ARE 646.035-AgR/SP, in DJU de 13/09/2011, ‘incabível recurso extraordinário interposto com fundamento no art. 102, inc. III, alínea ‘c’, da Constituição da República, quando não há aplicação de lei local em detrimento da Constituição. É a hipótese dos autos, onde, em nenhum momento, se enfrenta tal situação.”
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pela negativa de seguimento do agravo. Veja-se a ementa do parecer ministerial:
+    “Recurso extraordinário com agravo. Instituição de reserva legal. Obrigação propter rem de recuperar a área degradada. Agravo que não impugnou todos os fundamentos da decisão recorrida. Súmula 283. Descabimento do extraordinário pela alínea ‘c’ do permissivo constitucional. Ausência de prequestionamento do art. 5º, XXXVI, da Constituição Federal. Deficiência na demonstração de repercussão geral. Óbice da Súmula 280. Parecer por que seja negado seguimento ao agravo.”
+    Correto o parecer ministerial, que adoto como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação por remissão (ARE 757.522-AgR, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
