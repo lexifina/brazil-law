@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 3ª Turma dos Juizados Especiais Federais de Pernambuco. Veja-se o seguinte trecho de ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO-TRANSPORTE. AUTOMÓVEL PARTICULAR UTILIZADO POR SERVIDOR PARA DESLOCAMENTO AO LOCAL DE TRABALHO. POSSIBILIDADE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. EFEITOS DA DECISÃO DO STF NO RE 870.947-SE. REPERCUSSÃO GERAL. JULGAMENTO DO MÉRITO. APLICAÇÃO IMEDIATA, INDEPENDENTEMENTE DO TRÂNSITO EM JULGADO. RECURSO DO IFPE IMPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 2º, da Constituição. Sustenta que: (i) “A autuação do Judiciário no caso concreto deveria se restringir a aplicar a lei, no caso a MP nº 2.165-6/2001, ou invalidá-la se detectasse algum vício de constitucionalidade, atuando, nessa última hipótese, como legislador negativo. Não cabe ao Judiciário atuar como legislador positivo, ampliando a hipótese de pagamento do auxílio-transporte”; (ii) há julgamento desta Corte, em repercussão geral, quanto aos critérios de correção monetária não finalizado, devendo observar o término do julgamento.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) existência de ofensa reflexa à Constituição; e (ii) “embora o aludido julgado não tenha transitado em julgado, sua eficácia é imediata, conforme entendimento perfilhado pelo STF no RE 1035126”.
+    O recurso não merece acolhida. Esta Corte possui entendimento que a matéria aqui debatida (pagamento de auxílio-transporte a servidor público) está restrita ao âmbito infraconstitucional. Nesse sentido, cito o seguinte precedente:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO TRANSPORTE. NATUREZA INDENIZATÓRIA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 2º DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (ARE 966.456, Rel. ª Min. Cármen Lúcia)
+    Quanto à questão sobre os juros e correção monetária, o Supremo Tribunal Federal, nos autos do RE 870.947 (Tema 810), da relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da matéria – constitucionalidade da aplicação dos critérios de correção monetária relativos à caderneta de poupança (Taxa Referencial TR) sobre os débitos da Fazenda Pública, conforme determina o art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009.
+    Cabe lembrar que o julgamento do mencionado paradigma já foi iniciado mas ainda não transitou em julgado.
+    Diante do exposto:
+    (i) quanto ao pegamento de auxílio-transporte ao recorrido, nego seguimento ao recurso extraordinário;
+    (ii) quanto à correção monetária e juros, com base no art. com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicado o precedente estabelecido no RE 870.947 (Tema 810).
+    Publique-se.
+       Brasília, 12 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
