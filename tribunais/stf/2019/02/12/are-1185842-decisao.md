@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PRECEDENTES – MATÉRIA FÁTICA – AGRAVO – DESPROVIMENTO.
+    1. Atentem para o que decidido pelo Tribunal de Origem:
+    ADMINISTRATIVO. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA COLETIVO. POSSIBILIDADE DESDE QUE INTEGRANTE DO GRUPO OU CATEGORIA PROCESSUALMENTE SUBSTITUÍDA.
+    1. Pleiteia a autora a implantação da vantagem pecuniária especial (VPE), prevista na Lei nº 11.134/05, concedida nos autos do Mandado de Segurança Coletivo impetrado pela Associação de Oficiais Militares Estaduais do Rio de Janeiro.
+    2. No caso dos presentes autos, o título executivo judicial foi proferido em mandado de segurança coletivo, de modo que devem ser aplicados, ao caso, a tese jurídica veiculada no Enunciado 629 do STF e os ditames do art. 21 da Lei do Mandado de Segurança e não o disposto no art. 5º, XXI, da Constituição Federal.
+    3. Malgrado o fato de no momento da impetração do mandado de segurança constar listagem dos associados, os efeitos da sentença alcançam todos os integrantes da categoria, uma vez que os sindicatos e associações, na qualidade de substitutos processuais, detêm legitimidade para atuar judicialmente na defesa dos interesses coletivos de toda categoria que representam, sendo prescindível a relação nominal dos filiados e suas respectivas autorizações, nos termos da Súmula 629/STF (AgRg no RMS 30826/CE, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe: 11/09/15; AgRg no RMS 1423791/BA, Rel. Ministro Og Fernandes, Segunda Turma, DJe: 26/03/15).
+    4. O favorecido pela sentença mandamental coletiva poderá promover a execução individual desde que integrante do grupo ou categoria processualmente substituída pela parte impetrante (RE -AgR 601914, Rel. Ministro Celso de Mello, Segunda Turma, DJe: 06/03/12; RE -AgR 601215, Rel. Ministro Celso de Mello, Segunda Turma, DJe: 06/03/12; RE -AgR 696845, Rel. Ministro Luiz Fux, Primeira Turma, DJe: 16/10/12).
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, observem ter o Tribunal de origem decidido a questão, veiculada em fase de cumprimento de sentença, a partir do exame do título judicial já alcançado pela preclusão e da legislação de regência circunstância a afastar a atuação, em sede extraordinária, do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
