@@ -1,0 +1,18 @@
+DECISÃO
+MANDADO DE SEGURANÇA – FATO SUPERVENIENTE – CONTRADITÓRIO.
+    1. O assessor Dr. William Akerman Gomes assim retratou o caso:
+    Cairo Roberto Woichikowski insurge-se contra a decisão, de 14 de setembro de 2010, mediante a qual o Plenário do Conselho Nacional de Justiça, apreciando o Procedimento de Controle Administrativo nº 2009.10.00.002363-0, invalidou concurso público do qual decorreu a respectiva nomeação para o Ofício de Contador, Partidor, Distribuidor, Depositário Público e Avaliador Judicial da Comarca de Barracão/PR.
+    Afirma haver iniciado atividade laboral aos quinze anos de idade junto às serventias judiciais do Estado do Paraná, primeiramente na condição de aprendiz e, após, como empregado juramentado. Diz da aprovação, em segundo lugar, no concurso público para o provimento de cargo de titular do Ofício Contador, Distribuidor, Depositário Público e Avaliador Judicial da Comarca de Barracão/PR. Assinala ter sido designado, em 10 de março de 1999, para responder interinamente pelo aludido Ofício. Sublinha a propositura, em 19 de junho de 2009, contra o Estado do Paraná, de ação visando a declaração do direito à nomeação, julgada procedente em primeiro grau de jurisdição, confirmada a liminar implementada.
+    Sob o ângulo do risco, sustenta o prejuízo ante a determinação do Conselho Nacional de Justiça, dirigida ao Presidente do Tribunal de Justiça do Estado do Paraná, de adoção de providências para a estatização das serventias judiciais privatizadas. Ressalta que a remuneração percebida é a única fonte de renda. Pleiteia o deferimento de medida de urgência para suspender os efeitos, em relação a si e até o julgamento final deste mandado de segurança, da decisão atacada.
+    No mérito, busca a concessão da ordem, cassando-se definitivamente o ato impugnado. Postula, caso não seja acolhida a pretensão, o reconhecimento do direito de ser aproveitado para as funções previstas na Lei estadual nº 16.023, de 19 de dezembro de 2008, que regulamentou as atribuições das unidades estatizadas substitutivas das Escrivanias e Ofícios da Justiça do Paraná, criando, no âmbito do Poder Judiciário local, o cargo de analista judiciário.
+    Vossa Excelência, em 1º de março de 2011, ao implementar a medida acauteladora, determinou a manutenção do impetrante na titularidade do cartório até o julgamento final deste mandado de segurança.
+    O Conselho Nacional de Justiça prestou informações, tendo a União protocolado agravo contra a liminar.
+    O Ministério Público Federal opina pelo indeferimento da ordem.
+    Em 31 de janeiro último, Vossa Excelência determinou a inclusão do processo na pauta da Sessão de julgamento da Primeira Turma de 12 de fevereiro de 2019, juntamente com outros 103 mandados de segurança versando a mesma matéria.
+    Consulta ao sítio eletrônico do Superior Tribunal de Justiça revelou a revogação da medida de urgência e o trânsito em julgado, em desfavor do impetrante – ocorrido no dia 10 de maio de 2016 e certificado pelo Superior Tribunal de Justiça em 16 de maio do mesmo ano – de decisão proferida na ação declaratória mencionada na inicial, assegurando a permanência no Ofício de Contador, Partidor, Distribuidor, Depositário Público e Avaliador Judicial da Comarca de Barracão/PR.
+    2. Ante a garantia constitucional do contraditório e o disposto no artigo 493, parágrafo único, do Código de Processo Civil, abro vista ao impetrante para, querendo, manifestar-se.
+    3. Torno sem efeito a liberação do processo para apreciação. Comunique-se com urgência à Presidência da Primeira Turma, considerada a designação da data – 12 de fevereiro de 2019 – para exame.
+    4. Publiquem.
+Brasília, 12 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
