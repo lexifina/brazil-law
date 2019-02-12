@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 4ª Câmara de Direito Comercial do Tribunal de Justiça do Estado de Santa Catarina, ementado nos seguintes termos:
+    “FINANCIAMENTO. DE VEÍCULO. Cédula de crédito bancário. Revisional. Parcial procedência. Inconformismo do demandante. Juros remuneratórios inferiores à média de mercado. Manutenção. Capitalização implícita vedada. Comissão de permanência e juros de mora. Falta de interesse recursal nestes temas. Tarifa bancária. Expurgo. Imposto sobre operações financeiras. Cobrança diluída. Inadmissibilidade. Mora sobrestada. Repetição do indébito devida. Sucumbência redistribuída. Apelo conhecido em parte e provido parcialmente”. (eDOC 6, p. 4)
+    Foram opostos embargos de declaração que restaram parcialmente providos, apenas para integrar a fundamentação do acórdão, mantida a solução (eDOC 6, p. 45).
+    No recurso extraordinário (eDOC 8, p. 45), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 62, do texto constitucional e à emenda constitucional nº 32.
+    Nas razões recursais, alega-se que, ao inadmitir capitalização de juros em qualquer periodicidade, houve negativa de vigência à emenda constitucional nº 32.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que houve parcial provimento do recurso especial interposto pelo recorrente, nos seguintes termos:
+    “Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, com fundamento no art. 932 do CPC/2015, bem como na Súmula 568/STJ, para i) autorizar a capitalização mensal dos juros nos contratos bancários, desde que pactuada; ii) autorizar a cobrança da tarifa de abertura de crédito (TAC) e do IOF diluído, desde que estejam pactuados; iii) caracterizar a mora do devedor; iv) autorizar a cobrança da comissão de permanência, desde que pactuada e não cumulada com outros encargos; e v) permitir a compensação da verba honorária”. (eDOC 9, p. 69).
+    Deste modo, considerando a decisão proferida pelo Superior Tribunal de Justiça abarca as razões de pedir do recorrente no recurso extraordinário, ora analisado, julgo o recurso prejudicado, em razão da perda do seu objeto, nesse sentido são os acórdãos abaixo:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. APOSENTADORIA ESPECIAL. PEDIDO DE UNIFORMIZAÇÃO ACOLHIDO PELO TRIBUNAL DE ORIGEM. PERDA DO OBJETO DO RECURSO EXTRAORDINÁRIO. 1. Constata-se que foi proferida decisão pela Turma de Uniformização reconhecendo o direito pleiteado pelo ora embargante nas razões de seu recurso extraordinário, motivo pelo qual não há como deixar de reconhecer o prejuízo do recurso pela perda superveniente do seu objeto. 2. Embargos de declaração acolhidos, com excepcionais efeitos modificativos, para dar provimento ao agravo interno e julgar prejudicado o recurso extraordinário”. (ARE 933856 AgR-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe 5.11.2018).
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO: DENEGAÇÃO DO MANDADO DE SEGURANÇA. RECURSO EXTRAORDINÁRIO PREJUDICADO: PERDA SUPERVENIENTE DE OBJETO. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 1069871 ED-AgR, Rel. Min. Cármen Lúcia (Presidente), Tribunal Pleno, DJe 26.6.2018).
+    Ante o exposto, julgo prejudicado o recurso (art. 21, IX, RISTF).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
