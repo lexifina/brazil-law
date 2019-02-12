@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. PROFESSORA MUNICIPAL. LICENÇA REMUNERADA PARA FREQUÊNCIA A CURSO DE DOUTORADO. AUSÊNCIA DE PRESTAÇÃO DE INFORMAÇOES E DE DEFESA. EFEITOS DA REVELIA. INAPLICABILIDADE. ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO. AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL. DIREITO LÍQUIDO E CERTO CONFIGURADO. A inatividade ou o silêncio deliberado da autoridade coatora e do órgão de representação judicial da Fazenda Pública no mandado de segurança não induz a aplicação dos efeitos da revelia, uma vez que o mandamus está indissoluvelmente vinculado à demonstração dos fatos alegados pelo impetrante, mediante prova pré-constituída dos fatos que embasam a sua pretensão. II – Editado o ato discricionário e explicitados os motivos que o embasaram, fica o administrador vinculado aos seus fundamentos, podendo o interessado provocar o controle jurisdicional,em busca da constatação da coerência entre o ato administrativo e os motivos determinantes. III. Afigurando-se insubsistente a negativa apresentada pela Administração Pública para o indeferimento da Licença para Aprimoramento Profissional e satisfeitos os demais requisitos previstos na legislação correlata, resta configurada ofensa a direito líquido e certo a ser sanada mediante a concessão da segurança vindicada. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO. ORDEM CONCEDIDA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 18 e 39 da CF.
+    A decisão agravada negou seguimento ao recurso extraordinário por entender que incidem, no caso, as Súmulas 282 e 356/STF.
+    O recurso extraordinário é inadmissível. Para dissentir da conclusão do Tribunal de origem, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nesse sentido, cito o seguinte precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Mandado de segurança. Cabimento. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, nem da legislação infraconstitucional pertinente. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE 1.172.240-AgR, Rel. Min. Presidente – Dias Toffoli)
+    Quanto à suposta violação ao art. 2º da Constituição, o STF já firmou o entendimento de que não viola o princípio da separação dos poderes o exame, pelo Poder Judiciário, do ato administrativo tido por ilegal ou abusivo. Veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 12 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
