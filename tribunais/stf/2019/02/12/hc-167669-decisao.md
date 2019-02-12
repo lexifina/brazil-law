@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Processo Penal. Habeas Corpus. Prisão preventiva. Tráfico e associação para o tráfico de drogas. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. FUNDAMENTAÇÃO SUFICIENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Para ser compatível com o Estado Democrático de Direito – o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas – e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+    2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto da conduta delitiva, em face da relevante quantidade da droga apreendida – 500 g de crack – a indicar dedicação habitual à mercancia ilícita, além do risco de reiteração delitiva, tendo em vista que o recorrente já responde pela suposta prática dos delitos de posse ilegal de arma de fogo de uso restrito, tráfico de drogas e associação para o tráfico de drogas.
+    3. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas e associação para o tráfico (500g de crack). A prisão em flagrante foi convertida em preventiva.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado do Rio Grande do Sul. Denegada a ordem, sobreveio recurso ordinário em habeas corpus no Superior Tribunal de Justiça. O Relator, Ministro Rogerio Schietti Cruz, negou provimento ao recurso.
+    4. Em seguida, a defesa interpôs agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante afirma “que o paciente não foi encontrado em posse das drogas, eis que o corréu FILIPI, em audiência de instrução, assumiu estar na posse de uma mochila a qual estava a droga”; e sustenta, em síntese, que “a decisão que decretou a prisão preventiva do paciente não apresentou justificativa plausível para o encarceramento antecipado”.
+    6. Prossegue a impetração para alegar que “as sucessivas decisões judiciais proferidas nas instâncias ordinárias (…) não indicam, a partir de fundamentos concretos e atuais, o risco que a liberdade do paciente ofereceria à ordem pública, à instrução criminal ou à aplicação da lei penal”.
+    7. Com esses argumentos, a defesa requer a concessão da ordem a fim de que “seja revogada a ordem de prisão proferida em prejuízo do paciente, sem imposição de nenhuma outra medida cautelar”. Alternativamente, requer “seja aplicada ao paciente, uma vez em liberdade, medida(s) cautelar(es) alternativa(s) à prisão”.
+    Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. A orientação do Tribunal é firme no sentido de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    10. O Supremo Tribunal Federal possui o entendimento de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel.ª Min.ª Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    11. No caso de que se trata, o juízo de origem não divergiu deste posicionamento ao assentar que “deve ser levada em conta a grande quantidade de substância entorpecente apreendida, o que constitui forte elemento a indicar a traficância e a periculosidade dos agentes”.
+    12. Além disso, tal como assentou a autoridade impetrada, “a Corte de origem sublinhou que ‘o paciente responde criminalmente pelos processos nºs 072/2.17.0003051-8, 072/2.17.0004051-3 e 072/2.17.0004863-8, por posse ou porte ilegal de arma de fogo de uso restrito, tráfico de drogas e associação para o tráfico de drogas’”. Hipótese que atrai o entendimento do STF no sentido de que a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    13. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 12 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
