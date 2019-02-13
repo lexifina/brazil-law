@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com base nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (e-STJ, fls. 104/105):
+DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO LEGAL. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE DE TRABALHADORA RURAL. BENEFÍCIO INDEVIDO.
+1. Nos termos da orientação jurisprudencial firmada tanto no Supremo Tribunal Federal como no Superior Tribunal de Justiça, bem como em Turmas desta E. Corte, os embargos de declaração interpostos de decisão monocrática do Relator podem ser conhecidos como agravo regimental ou legal quando tiverem propósitos infringentes, em obediência aos princípios da economia processual e da fungibilidade.
+2. No caso em questão, a autora apresentou apenas a sua certidão de casamento, celebrado em 13/11/99, na qual o marido foi qualificado como lavrador.
+É pacífico o entendimento dos Tribunais, considerando as difíceis condições dos trabalhadores rurais, admitir a extensão da qualificação do cônjuge ou companheiro à esposa ou companheira.
+3. Assim, a certidão de casamento poderia servir, a princípio como início de prova material.
+4. Contudo, em se tratando de segurado especial, é necessário que a atividade seja comprovada através de algum dos documentos elencados no art. 106 da Lei nº 8.213/91, tais como bloco de notas de produtor rural, contratos de parceria, dentre outros, sendo insuficiente a apresentação do documento relacionado, que não comprovou o efetivo exercício da atividade da autora em regime de economia familiar.
+Os embargos da autarquia (e-STJ, fls. 108/112) foram rejeitados, nos termos da decisão (e-STJ, fls. 130/134):
+EMBARGOS DE DECLARAÇÃO. AGRAVO LEGAL EM APELAÇÃO CÍVEL. NÃO VERIFICAÇÃO DAS HIPÓTESES PREVISTAS NO ARTIGO 1.022 DO CPC/15. PROPÓSITO MERAMENTE MODIFICATIVO. PREQUESTIONAMENTO. RECURSO REJEITADO.
+1. De acordo com o art. 1.022 do Código de Processo Civil, os embargos de declaração possuem função processual específica, que consiste em integrar, retificar ou complementar a decisão embargada.
+2. O embargante não logrou demonstrar a existência de omissão ou de qualquer das hipóteses elencadas naquele dispositivo legal.
+3. A insatisfação da parte com o resultado da decisão embargada não enseja a oposição de embargos de declaração.
+4. Os embargos para fim de prequestionamento têm como pressuposto de admissibilidade a demonstração da ocorrência de qualquer das hipóteses previstas nos incisos do art. 1.022 do CPC/15, não se fazendo necessária, para interposição de recursos aos Tribunais Superiores, alusão expressa a todos os dispositivos legais mencionados pelas partes.
+5. Embargos de declaração rejeitados.
+Alega a recorrente contrariedade aos arts. 26, III, 39, 48 e 143 da Lei 8.213/1991; 369 e 1.003, §§ 1º e 3º, do CPC/2015.
+Sustenta que foram apresentadas provas testemunhais e materiais, e que tais documentos constituem início de prova material idôneo.
+Os embargos de declaração (e-STJ fls. 108/112) foram rejeitados nos termos da decisão (e-STJ fls. 130/134).
+Sem contrarrazões (e-STJ, fl. 150).
+Admitido o recurso especial na origem (e-STJ, fls. 152/154), subiram os autos a esta Corte de Justiça.
+É o relatório.
+O recurso é passível de provimento.
+Com efeito, a aposentadoria rural por idade, tal como requerida nestes autos, é devida, uma vez que a segurada cumpriu a carência exigida, conforme consta do art. 48 da Lei n. 8.213/1991. Documento pessoal e robustas provas testemunhais comprovam o cumprimento de tal exigência.
+Como se verifica, o acórdão recorrido fundamentou sua negativa ao pleito no fato de os documentos colacionados como início de prova material não integrarem o rol previsto o art. 106 da Lei n. 8.213/1991. Entretanto, é sabido que o acesso do trabalhador rural a tais documentos muitas vezes é restrito pelo patronato.
+No que tange ao exercício de atividade rural, a autora apresentou sua certidão de casamento, em que consta a qualificação de seu cônjuge como lavrador. As testemunhas ouvidas em juízo roboram o início de prova material de que a autora exercia atividade rurícola há mais de 30 anos e que sempre trabalhou na lavoura com o marido durante todos esses anos.
+Quanto à comprovação da idade mínima, o documento de identificação da autora indica data de nascimento em 24/10/1958, o que leva à conclusão de que a autora tem mais de 55 anos de idade.
+A jurisprudência deste Superior Tribunal aponta para a possibilidade de reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos, nos casos de aposentadoria de trabalhador rural. Tal entendimento foi fixado no julgamento proferido sob o rito dos recursos repetitivos, nos termos do art. 543-C do CPC/1973 (REsp 1.348.633/SP, Rel. Min. Arnaldo Esteves Lima, Primeira Seção, julgado em 28/8/2013, DJe 5/12/2014).
+Nesse sentido:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA POR TEMPO DE SERVIÇO. ART. 55, § 3º, DA LEI 8.213/91. TEMPO DE SERVIÇO RURAL. RECONHECIMENTO A PARTIR DO DOCUMENTO MAIS ANTIGO. DESNECESSIDADE. INÍCIO DE PROVA MATERIAL CONJUGADO COM PROVA TESTEMUNHAL. PERÍODO DE ATIVIDADE RURAL COINCIDENTE COM INÍCIO DE ATIVIDADE URBANA REGISTRADA EM CTPS. RECURSO PARCIALMENTE PROVIDO.
+1. A controvérsia cinge-se em saber sobre a possibilidade, ou não, de reconhecimento do período de trabalho rural anterior ao documento mais antigo juntado como início de prova material.
+2. De acordo com o art. 400 do Código de Processo Civil "a prova testemunhal é sempre admissível, não dispondo a lei de modo diverso". Por sua vez, a Lei de Benefícios, ao disciplinar a aposentadoria por tempo de serviço, expressamente estabelece no § 3º do art. 55 que a comprovação do tempo de serviço só produzirá efeito quando baseada em início de prova material, "não sendo admitida prova exclusivamente testemunhal, salvo na ocorrência de motivo de força maior ou caso fortuito, conforme disposto no Regulamento" (Súmula 149/STJ).
+3. No âmbito desta Corte, é pacífico o entendimento de ser possível o reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos. Precedentes.
+4. A Lei de Benefícios, ao exigir um "início de prova material", teve por pressuposto assegurar o direito à contagem do tempo de atividade exercida por trabalhador rural em período anterior ao advento da Lei 8.213/91 levando em conta as dificuldades deste, notadamente hipossuficiente.
+5. Ainda que inexista prova documental do período antecedente ao casamento do segurado, ocorrido em 1974, os testemunhos colhidos em juízo, conforme reconhecido pelas instâncias ordinárias, corroboraram a alegação da inicial e confirmaram o trabalho do autor desde 1967.
+6. No caso concreto, mostra-se necessário decotar, dos períodos reconhecidos na sentença, alguns poucos meses em função de os autos evidenciarem os registros de contratos de trabalho urbano em datas que coincidem com o termo final dos interregnos de labor como rurícola, não impedindo, contudo, o reconhecimento do direito à aposentadoria por tempo de serviço, mormente por estar incontroversa a circunstância de que o autor cumpriu a carência devida no exercício de atividade urbana, conforme exige o inc. II do art. 25 da Lei 8.213/91.
+7. Os juros de mora devem incidir em 1% ao mês, a partir da citação válida, nos termos da Súmula n. 204/STJ, por se tratar de matéria previdenciária. E, a partir do advento da Lei 11.960/09, no percentual estabelecido para caderneta de poupança. Acórdão sujeito ao regime do art. 543-C do Código de Processo Civil.
+(REsp 1.348.633/SP, Rel. Min. ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 28/8/2013, DJe 5/12/2014)
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL. PREMISSA FÁTICA. INVERSÃO. DESCABIMENTO.
+1. A Primeira Seção, em julgamento proferido sob o rito do art. 543-C do CPC/73, assentou a compreensão de ser "possível o reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos" (REsp n. 1.348.633/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 28/08/2013, DJe 05/12/2014).
+2. Nos termos da Jurisprudência deste STJ, o documento extemporâneo ao tempo serviço pode servir como início de prova material, mas deve ser confirmado por robusta prova testemunhal.
+3. Hipótese em que o Tribunal de origem reconheceu que os testemunhos existentes no processo não corroboraram a documentação apresentada, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 943.928/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 2/2/2018)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço do recurso especial e dou-lhe provimento, nos termos da fundamentação, para conceder à autora a aposentadoria rural por idade, nos termos da decisão de primeira instância.
+Publique-se. Intimem-se.
