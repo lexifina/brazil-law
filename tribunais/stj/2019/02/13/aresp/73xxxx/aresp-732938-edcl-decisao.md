@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL INEXISTENTES. REAJUSTE DE 28,86%. COMPENSAÇÃO. OFENSA A COISA JULGADA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO DOS SERVIDORES REJEITADOS.
+1. Cuida-se de Embargos de Declaração no Recurso Especial opostos por [NOME] OUTROS à decisão, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE MANIFESTAÇÃO ACERCA DA BASE DE CÁLCULO DOS HONORÁRIOS E DO VALOR DAS ASTREINTES. EMBARGOS DECLARATÓRIOS ACOLHIDOS, COM EFEITOS INTEGRATIVOS, APENAS PARA SANAR A OMISSÃO APONTADA, SEM EFEITOS INFRINGENTES (fls. 2003/2007).
+2. Às fls. 2011/2014, a parte embargante sustenta, em síntese, a ocorrência de omissão na decisão quanto à análise das questões tratadas no Recurso Especial relativas à existência de coisa julgada afastando a possibilidade de limitação do pagamento das diferenças de 28,86%.
+3. Requer que os presentes Embargos sejam acolhidos e providos, a fim de que seja sanada a omissão apontada e, consequentemente, que se dê efeitos infringentes ao Embargos Declaratórios.
+4. É o relatório.
+5. O art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração, que são restritos a situações em que patente a existência de obscuridade, contradição, omissão ou erro material no julgado. Não se prestam, pois, ao rejulgamento da lide, mediante o reexame de matéria já decidida.
+6. Esta Corte Superior somente admite a atribuição de efeitos infringentes a Embargos de Declaração quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+7. Portanto, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, evidencia-se que a parte embargante busca a reapreciação do mérito da causa, não sendo este o escopo dos Aclaratórios. A discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos que não podem ser ampliados.
+8. Outrossim, torna-se inviável, em sede de Recurso Especial, desconstituir o acórdão da Corte de origem, uma vez que, para acolher a pretensão da parte recorrente, a fim de demonstrar erro na execução, verificar o desacerto das contas apresentadas ou ofensa à coisa julgada, inevitavelmente seria necessário o reexame do acervo fático-probatórios dos autos, o que encontra óbice no enunciado da Súmula 7/STJ.
+9. Ante o exposto, rejeitam-se os Embargos de Declaração dos Servidores.
+10. Publique-se. Intimações necessárias.
