@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do acórdão recorrido:
+    II - RECURSO DE REVISTA. USINA CAETÉ S.A. - UNIDADE CACHOEIRA. ACIDENTE DE TRABALHO. INDENIZAÇÃO POR DANO MORAL. LESÃO OCORRIDA NA VIGÊNCIA DA EC Nº 45/2004. PRESCRIÇÃO TRABALHISTA. I. No que diz respeito à aplicação do prazo prescricional (se trabalhista ou civil) à pretensão de indenização por dano moral decorrente de acidente de trabalho ou de doença profissional, esta Corte Superior pacificou sua jurisprudência no sentido de que, para as hipóteses em que a pretensão diz respeito a lesão ocorrida após a vigência da Emenda à Constituição nº 45, em 31/12/2004, é cabível a aplicação da norma prescricional trabalhista (prevista no art. 7º, XXIX, da CF/88). Somente para as hipóteses em que a pretensão é referente a lesão ocorrida antes da entrada em vigor da Emenda à Constituição nº 45 é cabível a aplicação das normas prescricionais do direito civil. II. No caso dos autos, está consignado no acórdão regional que o acidente de trabalho ocorreu em 30/12/2006, o que atrai a aplicação do prazo prescricional previsto no art. 7º, XXIX, da Constituição Federal. III. Dessa forma, o exame da prescrição à luz da disciplina contida na lei civil (art. 205 do Código Civil de 2002) contraria a jurisprudência desta Corte Superior e viola o disposto no art. 7º, XXIX, da Constituição Federal, uma vez que a lesão ocorreu após a entrada em vigor da Emenda à Constituição nº 45, em 31/12/2004. IV. Recurso de revista de que se conhece e a que se dá provimento.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    O Pleno, no recurso extraordinário com agravo nº 650.932, da relatoria do ministro Ricardo Lewandowski, concluiu pela natureza legal da definição do termo inicial de prazo prescricional do evento danoso indenizável.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
