@@ -1,0 +1,50 @@
+DECISÃO
+[NOME] suscita o presente conflito negativo a pretexto de que o Tribunal Regional do Trabalho da 4ª Região, ao reformar sentença proferida pelo Juízo da 1ª Vara do Trabalho de Santa Maria, que julgou improcedente a reconvenção ajuizada por Usina Hidroelétrica Nova Palma Ltda., nos autos da reclamação trabalhista 0000578-41.2012.5.04.0701, proposta pelo suscitante, declarou que a posse do imóvel rural em que reside desde o nascimento, mas que já era ocupado por seu pai antes dele, não estaria vinculada ao extinto contrato de trabalho entre as partes, vigente entre 1995 e 2010, por meio de comodato.
+Sustenta que a competência pertence à Justiça estadual, primeiramente à Vara Judicial de Júlio de Castilhos, depois à comarca de Faxinal do Soturno, RS, para onde o feito foi redistribuído, e onde busca usucapir o imóvel na ação de usucapião extraordinário 096/1.16.0000627-4.
+Alega que a Corte Trabalhista expediu mandato de reintegração de posse em favor da ex-empregadora (fl. 138), porém a jurisprudência do STJ, de que é exemplo o CC 143.215/SC, dispõe que somente quando há simultaneidade entre a ocupação e o vínculo trabalhista a questão é apartada da Justiça comum.
+Requer a concessão de tutela de urgência para impedir o cumprimento do mandado de reintegração, a pretexto do perdimento das benfeitorias e investimentos na área, ao passo que o fumus boni juris seria evidente de acordo com os precedentes desta Corte.
+A petição inicial foi dirigida ao TRT da 4ª Região, que a remeteu a esta Corte (fls. 151/152).
+A tutela de urgência foi deferida às fls. 241/243.
+Nova Palma Energia Ltda., atual designação de Usina Hidroelétrica Nova Palma Ltda., apresentou manifestação às fls. 259/265, no sentido de que há decisão de procedência da reconvenção à reclamação trabalhista, na qual postulada a reintegração de posse, com trânsito em julgado perante a Justiça do Trabalho, em que determinada a saída do suscitante do imóvel, feito esse em que se promoveu dilação probatória na qual ficou estabelecido que houve proposta de comodato oferecida a [NOME], além de que a posse prévia, alegada na inicial, deve-se ao anterior vínculo de trabalho celebrado com o seu genitor, que após a aposentadoria deixou o imóvel.
+O Juízo de Direito da Vara de Faxinal do Soturno, RS, informa o atual trâmite da ação de usucapião, estando a dilação probatória em fase inicial (fl. 322).
+O Juízo do Trabalho comunica que a versão apresentada na inicial não corresponde à realidade, possuindo o autor residência em outro local, ao passo que o imóvel em questão é utilizado para depósito e cultura de soja, decorrendo o tempo de residência exclusivamente dos vínculos sucessivos de trabalho (fls. 324/329).
+O Ministério Público Federal apresenta parecer no sentido da competência da Justiça estadual (fls. 331/335).
+Assim resumida a questão, passo a decidir.
+Efetivamente a inicial não se reporta em nenhum momento ao trânsito em julgado da reconvenção apresentada à reclamação trabalhista.
+Essa circunstância, na hipótese dos autos, conduz à revogação da medida.
+Com efeito, não é o conflito de competência a via apropriada para promover a rescisão do julgado trabalhista.
+Por conseguinte, havendo decisão transitada em julgado num dos processos subjacentes, incide o óbice da Súmula 59 desta Corte, que reza:
+Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízes conflitantes.
+A correta exegese do mencionado enunciado já foi enfrentada pela Segunda Seção, em precedente cuja ementa foi assim redigida:
+PROCESSUAL CIVIL. CONFLITO POSITIVO. AGRAVO REGIMENTAL. FALÊNCIA. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA. CONSTRIÇÃO DO PATRIMÔNIO DOS SÓCIOS. MEDIDA ADOTADA POR AMBOS OS ÓRGÃOS JUDICIAIS. PREVALÊNCIA DO JUÍZO UNIVERSAL. SÚMULA N. 59-STJ. DECISÃO DECLARATÓRIA DA COMPETÊNCIA. INAPLICABILIDADE.
+I. Havendo decretação da desconsideração da personalidade jurídica da falida/executada por mais de um órgão judicial, prevalece a decisão do Juízo falimentar, com a consequente arrecadação dos bens dos sócios, deve o cumprimento de sentença ser processado perante o Juízo universal.
+II. O trânsito em julgado a que se refere a Súmula n. 59-STJ é da ação, não da decisão declaratória da competência.
+III. Agravo regimental improvido.
+(AgRg no CC 111.058/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, unânime, DJe de 27.09.2010)
+Finalmente, a reforma do acórdão proferido pelo Tribunal Regional do Trabalho da 4ª Região estava sujeita aos limites traçados nos próprios instrumentos e recursos previstos na legislação processual aplicável, havendo o suscitante exaurido todos, inclusive com a interposição de recurso extraordinário após frustrada a tentativa junto ao Tribunal Superior do Trabalho. Nesse sentido, tem-se guiado a jurisprudência desta Corte, in verbis:
+CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. COMPETÊNCIA. CPC, ART. 575, II; ART. 877. SÚMULA N. 59/STJ.
+- SEJA NO PROCESSO CIVIL (ART. 575, II, CPC), SEJA NO PROCESSO TRABALHISTA (ART. 877, CLT) É COMPETENTE PARA A EXECUÇÃO DA SENTENÇA O JUÍZO QUE DECIDIU A CAUSA EM PRIMEIRO GRAU DE JURISDIÇÃO.
+- O COMANDO JURISPRUDENCIAL EXPRESSO NA SÚMULA N. 59, DESTE TRIBUNAL, QUE PROCLAMA A INEXISTÊNCIA DE "CONFLITO DE COMPETÊNCIA SE JÁ EXISTE SENTENÇA COM TRÂNSITO EM JULGADO, PROFERIDA POR UM DOS JUÍZOS CONFLITANTES" HÁ DE SER CONCEDIDO NA CONTEXTURA DAS REGRAS PROCESSUAIS QUE DEFINEM A COMPETÊNCIA DO JUÍZO DA CAUSA PARA A EXECUÇÃO DO TÍTULO JUDICIAL.
+- CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+(Terceira Seção, CC 7.142/RJ, Rel. Ministro VICENTE LEAL, unânime, DJU de 8.5.1995)
+Mas não é só.
+A versão relativa à anterioridade da posse do imóvel em questão também ficou definida de forma diversa da descrita na inicial e na ação de usucapião. É o que se extrai da seguinte passagem do acórdão regional, analisando o teor da dilação probatória (fls. 295/296):
+Assim, a prova contida nos autos é robusta no sentido de que no período anterior ao contrato de trabalho do reconvindo, ele residiu na propriedade da reconvinte por força da existência de contrato de trabalho de seu pai com a empresa, sendo que a partir de 10-05-1995, ele passou a manter relação de emprego com a autora da reconvenção.
+O reconvindo não comprovou que após a aposentadoria do seu pai, ele permaneceu residindo na propriedade da reconvinte, ônus que lhe incumbia, nos termos do inciso II do artigo 333 do CPC.
+Como o local é de difícil acesso, o pai do reconvindo residia no local por força de contrato de trabalho e o reclamante também passou a prestar serviços para a usina, entende-se que a residência foi concedida para o cumprimento do trabalho, mas não como retribuição pelo trabalho prestado.
+À vista dos documentos juntados pela reconvinte, o reconvindo confessou que não mora mais no local da discórdia, além de ter confessado que, após a extinção do seu contrato de trabalho, foi procurado pela reconvinte para formalizar contrato de arrendamento.
+Assim, não mantendo a reconvinda mais contrato de trabalho com o reconvinte desde 14-09-2010, este não tendo firmado contrato de arrendamento e nem de comodato, não pode permanecer ocupando o imóvel, pois não possui mais sua posse, desde a rescisão do contrato de trabalho, independentemente do que posteriormente for decidido na Justiça Comum acerca da propriedade do bem. (sem negritos no original)
+Verifica-se, portanto, que jamais a posse foi exercida com animus domni, nem em períodos desvinculados dos contratos de trabalho do suscitante e do seu genitor anteriormente, o que distingue a presente situação dos precedentes invocados, em que tal nuance é determinante.
+Mais adequada é a jurisprudência da Segunda Seção que encarrega a Justiça do Trabalho do exame de tais questões, assumindo relevância a contemporaneidade da ocupação com a vigência do contrato de trabalho atualmente extinto:
+Conflito de competência. Reclamatória trabalhista proposta por ex-empregado rural em desfavor de seu ex-empregador. Existência de comodato de imóvel como pacto acessório ao contrato de trabalho. Decisão do juízo trabalhista a respeito da posse do imóvel. Posterior decisão do juízo cível, em ação de reintegração de posse, visando a disciplinar a mesma questão jurídica. Impossibilidade.
+- De acordo com os elementos de convicção presentes aos autos, realmente havia uma vinculação entre a posse do imóvel pelo trabalhador e o contrato de trabalho desfeito.
+- Nessa situação, recentemente a 2ª Seção reconheceu a influência da EC nº 45/04 sobre a questão e alterou a jurisprudência anterior, passando a reconhecer que compete ao juízo trabalhista decidir sobre o pedido de reintegração de posse.
+- O juízo cível não pode pretender interpretar a decisão do juízo trabalhista para, relativizando-a, disciplinar também a matéria, porque só o juiz trabalhista tem competência para analisar a questão. Precedente. A decisão do juízo trabalhista deveria ter sido alvo de recurso próprio por parte do interessado, inclusive para que se aclarasse completamente seu alcance, na hipótese de haver dúvida a respeito.
+Conflito conhecido para declarar competente o JUÍZO DA 1ª VARA DO TRABALHO DE BENTO GONÇALVES - RS.
+(CC 79.961/RS, Rel. Ministra NANCY ANDRIGHI, unânime, DJU de 16.8.2007)
+Conflito positivo de competência. Reintegração de posse. Reclamação trabalhista. Comodato. Relação de trabalho.
+1. Compete à Justiça do Trabalho apreciar e julgar controvérsia relativa à posse do imóvel cedido em comodato para moradia durante o contrato de trabalho, entendimento firmado em virtude das alterações introduzidas pela Emenda Constitucional nº 45/04, art. 114, inciso VI, da Constituição Federal.
+2. Conflito conhecido para declarar competente o Juízo da Vara do Trabalho de Araucária/PR.
+(CC 57.524/PR, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, unânime, DJU de 23.10.2006)
+Em face do exposto, não conheço do conflito, ficando revogada a decisão de fls. 241/243, que determinou a paralisação dos processos.
+Comunique-se. Intimem-se.
