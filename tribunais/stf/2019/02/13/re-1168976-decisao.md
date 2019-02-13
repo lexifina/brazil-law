@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba, que, ao julgar procedente o pedido de concessão do auxílio-acidente disciplinado pelo art. 86 da Lei nº 8.213/1991, adotou a seguinte fundamentação, no tocante aos consectários legais:
+    “[…]
+    Para fins de correção monetária do benefício previdenciário, a contar de cada parcela dívida, devida a incidência da correção pelo INPC, até a entrada em vigor da Lei 11.960/09, e, posteriormente, com base nos ‘índices de remuneração básica da caderneta de poupança’ até o dia 25.03.15, marco após o qual os créditos deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E) ao tempo do efetivo pagamento, em razão da decisão do STF nas ADIs 4357 e 4425 e sua respectiva modulação de efeitos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição. A parte recorrente alega violação ao art. 100, § 12, da CF. Afirma que o Tribunal de origem errou ao “considerar que a decisão do STF alcançaria também o período anterior à inscrição do precatório”.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o mérito do RE 870.947-RG, Rel. Min. Luiz Fux, sob a sistemática da repercussão geral, fixou as seguintes teses (Tema 810):
+    “1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e
+    2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.”
+    Tendo em vista a oposição de embargos declaração ao acórdão paradigma, e que o Min. Luiz Fux, Relator do RE 870.947-RG, concedeu efeito suspensivo aos mencionados, entendo que se deve aguardar o julgamento do referido recurso.
+    Assim, determino o sobrestamento deste recurso.
+    À secretaria, para o acompanhamento necessário, vindo-me os autos conclusos após a finalização do julgamento do mencionado paradigma.
+    Publique-se.
+          Brasília, 13 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
