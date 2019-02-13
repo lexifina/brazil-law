@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 189):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. AUSÊNCIA DE INCAPACIDADE LABORAL. LAUDO PERICIAL. REQUISITOS NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO. APELAÇÃO NÃO PROVIDA.
+- São exigidos à concessão dos benefícios: a qualidade de segurado, a carência de doze contribuições mensais - quando exigida, a incapacidade para o trabalho de forma permanente e insuscetível de recuperação ou de reabilitação para outra atividade que garanta a subsistência (aposentadoria por invalidez) e a incapacidade temporária (auxílio-doença), bem como a demonstração de que o segurado não era portador da alegada enfermidade ao fíliar-se ao Regime Geral da Previdência Social.
+- No caso, a perícia judicial concluiu pela ausência de incapacidade laborai da autora para o exercício da atividade laboral habitual.
+- Não patenteada a contingência necessária à concessão do benefício pleiteado, pois ausente a incapacidade total para o trabalho, temporária ou definitiva. Requisitos não preenchidos.
+- Fica mantida a condenação da parte autora a pagar custas processuais e honorários de advogado, arbitrados em 12% (doze por cento) sobre o valor atualizado da causa, já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ Io e 11, do Novo CPC. Porém, fica suspensa a exigibilidade, na forma do artigo 98, § 3o, do referido código, por ser beneficiária da justiça gratuita.
+Nas razões do apelo especial, aponta o recorrente divergência jurisprudencial, afirmando que "este Egrégio Superior Tribunal de Justiça no REsp 384.337/SP, entende que embora a perícia médica judicial tenha grande relevância em matéria de benefício previdenciário por incapacidade, o Juiz NÃO está adstrito às conclusões do jurisperito, determinando a concessão do benefício" (fl. 197).
+Sem contrarrazões.
+É o relatório
+A irresignação não merece prosperar.
+Isso porque, na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Do exposto, nego provimento a agravo.
+Publique-se.
