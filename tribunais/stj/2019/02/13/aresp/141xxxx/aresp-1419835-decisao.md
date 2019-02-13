@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - RETIFICAÇÃO DO POLO PASSIVO - INDEFERIDO - LITISPENDÊNCIA - INEXISTENTE SENTENÇA DE PROCEDÊNCIA - COMPROVAÇÃO DA EXISTÊNCIA E REGULARIDADE CONTRATUAL - VALORES CONTRATADOS DEPOSITADOS DIRETAMENTE PARA APELADA - INEXISTÊNCIA DE DANOS MORAIS - RECURSO PROVIDO - AÇÃO JULGADA IMPROCEDENTE.
+1. Em havendo a juntada de instrumento contratual devidamente formalizado com a assinatura do contratante, a contratação mostra-se lícita, sendo improcedente o pedido de reconhecimento de inexistência de relação contratual.
+2. Corolário do reconhecimento de existência e licitude de relação negocial é a improcedência dos pedidos de condenações no pagamento de indenização por danos materiais e morais" (fl. 308 e-STJ).
+No recurso especial, a recorrente, além de indicar dissídio jurisprudencial, aponta violação do art. 373 do Código de Processo Civil de 2015, dos arts. 104, III, 166, IV, do Código Civil e do art. 37, § 1º, da Lei 6.015/73.
+Argumenta que o contrato de mútuo feneratício é nulo porque foi celebrado por analfabeto, contendo assinatura a rogo de quem não detinha mandado por instrumento público conferindo poderes para a prática do ato. Sustenta, ainda, que não recebeu o crédito objeto do contrato na conta em que recebe o benefício previdenciário.
+Requer o provimento do recurso para que seja declarada a nulidade do contrato de mútuo, determinando a restituição em dobro dos valores pagos e arbitrando uma compensação por danos morais.
+Não foram apresentadas contrarrazões (fl. 340 e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Verifica-se que a matéria versada no art. 373 do CPC/2015 não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar vício porventura existente.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, o Tribunal local entendeu que não foi comprovada a alegada irregularidade do contrato firmado com a instituição financeira.
+Eis a letra do acórdão na parte que interessa:
+"(..)
+Tenho que o Banco Bradesco S.A. comprovou a existência e regularidade do contrato em tela. O artigo 595, do Código Civil, estabelece que "no contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas".
+Portanto, estando contempladas as formalidades mencionadas, deve ser reconhecida a existência e a validade do negócio jurídico. E, como consequência, não há se falar na necessidade de celebração de contrato ou constituição de mandatário por instrumento público.
+Analisando a Cédula de Crédito Bancário trazida com a contestação (f. 82 e seguintes), verifica-se o fiel cumprimento dos requisitos acima elencados. Ora, o instrumento contratual foi pactuado pela Autora no intento de obter, junto ao Banco Requerido, o empréstimo da quantia líquida de R$ 563,99. Esse documento, além de conter a aposição da digital da contratante, que é comprovadamente analfabeta, possui a assinatura de outras duas pessoas, a rogo e como testemunha.
+Convém ressaltar, ainda, que no instrumento contratual está contida a opção pela contratação de empréstimo consignado, ou seja, modalidade de negócio jurídico que vincula o pagamento das prestações mensais diretamente ao beneficio previdenciário percebido pela Apelante. Desse modo, além de firmar o contrato com o Banco, a Autora também concedeu o permissivo para serem efetuados descontos de sua aposentadoria. Portanto, está cristalina a existência de relação contratual entre as partes.
+Por outro turno, no que toca à validade da contratação, a alegação de que o empréstimo teria sido fraudulento não é suficiente para afastar o reconhecimento da relação contratual. Ora, se a Autora já suspeitava da utilização de seus documentos e sua conta por terceiros, até mesmo diante do elevado número de contratos e ações que move, deveria ter requerido a instauração de incidente de falsidade documental.
+Contudo, analisando os autos, não há qualquer pedido nesse sentido.
+Portanto, em face do instrumento contratual e demais documentos acostados aos autos, bem como da ausência de comprovação de eventual irregularidade ou nulidade, é de ser reconhecida a contratação do empréstimo bancário. Desta feita, a Autora falta com a verdade quando afirma que não pactuou referido contrato, o que é contraditado pela própria aposição de sua digital e demais assinaturas existentes.
+Assim, diante da alegação da Requerente de que não havia assinado o contrato, ou não se lembra de tê-lo feito, quando comprovadamente assinou, considera- se presumido o recebimento do numerário emprestado. Da mesma forma e ainda que eventualmente não tenha por ele próprio sacado referido valor, diante da contratação por ela feita, tal crédito foi-lhe colocado à disposição. Se, eventual e hipoteticamente, outrem utilizou-se dos documentos e ou do cartão dela Apelante para sacar o valor, é questão que cabe a ela própria e ou ao suposto terceiro esclarecer.
+Dessa forma, por quaisquer ângulos que se observe a questão posta, tenho que deve ser acolhido o Recurso interposto, para o fim de julgar improcedente a ro ação originária" (fls. 310-311 e-STJ).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Vale ressaltar que consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO CONSUMADA. DESCONSTITUIÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ANÁLISE FEITA COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Rever as conclusões das instâncias ordinárias quanto à ocorrência de prescrição da ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais exige, necessariamente, a incursão no material fático-probatório dos autos, notadamente porque as alegações da recorrente são no sentido de considerar outro termo inicial para a contagem do prazo prescricional, o que atrai a aplicação da Súmula 7/STJ.
+2. No que toca ao conhecimento do apelo especial por divergência jurisprudencial, também não colhe êxito. Isso porque julgado fundado em fatos e provas (incidência da Súmula 7/STJ) não enseja a possibilidade de demonstração da similitude fática, conforme tranquilo entendimento desta Corte Superior.
+3. Agravo interno desprovido"
+(AgInt no AREsp 1.114.253/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa (R$ 31.451,06, fl. 23 e-STJ), os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
