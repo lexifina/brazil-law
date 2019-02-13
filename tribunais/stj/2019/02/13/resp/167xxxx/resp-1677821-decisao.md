@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com base nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fls. 517/518):
+DIREITO PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. AGRAVO RETIDO. APOSENTADORIA POR IDADE RURAL. TEMA STJ  642. LABOR RURAL À DATA DO IMPLEMENTO ETÁRIO. NECESSIDADE. AVERBAÇÃO DE TEMPO DE SERVIÇO.
+1. Não há cerceamento de defesa quando o juiz indefere provas desnecessárias à instrução do processo, as diligências inúteis ou as meramente protelatórias, de acordo com o art. 130 do CPC. Destarte, restou desnecessária a realização de prova pericial, à vista de provas materiais suficientes para comprovação da especialidade. Agravo Retido improvido.
+2. De acordo com o Superior Tribunal de Justiça, "o segurado especial tem que estar laborando no campo, quando completar a idade mínima para se aposentar por idade rural, momento em que poderá requerer seu benefício" (Tema STJ n. 642).
+3. Não ostentando a parte autora a qualidade de segurada especial no período de carência imediatamente anterior ao requerimento administrativo é inviável a concessão da aposentadoria por idade rural pleiteada.
+A insurgente alega contrariedade aos arts. 442 e 1.022 do CPC/2015.
+Sustenta que o Tribunal recorrido cerceou seu direito de defesa ao deixar de analisar as provas postuladas.
+Sem contrarrazões (e-STJ, fl. 556).
+Admitido o recurso especial na origem (e-STJ, fl. 559), subiram os autos a esta Corte de Justiça.
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de violação do art. 1.022 do CPC, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Ademais, extrai-se do acórdão impugnado (e-STJ, fl. 513):
+O juízo a quo reconheceu em favor da parte autora como tempo de serviço rural somente o interregno de 07/02/1970 a 31/12/1994, deixando de considerar o período remanescente, pelos seguintes motivos, verbis:  ..
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART.1.022 DO CPC/2015 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. APOSENTADORIARURAL POR IDADE. COMPROVAÇÃO DA ATIVIDADE RURAL. RECURSO QUE NÃO ATACA OSFUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. PRETENSÃO DE [NOME]. SÚMULA 7/STJ.
+1. Constata-se que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+ .. .
+(REsp 1.655.052/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, Data da decisão 6/4/2017 DJe 25/4/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVOREGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. PETIÇÃOELETRÔNICA. SÚMULA 115/STJ. EXISTÊNCIA DE PROCURAÇÃO NOS AUTOS.REGULARIDADE DA REPRESENTAÇÃO COMPROVADA. EMBARGOS ACOLHIDOS COM EFEITOSMODIFICATIVOS. AGRAVO REGIMENTAL. APOSENTADORIA POR TEMPO DE SERVIÇO.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA.SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório.
+2. No caso dos autos, verifica-se a existência de erro material, razão pela qual merece acolhimento os embargos de declaração, com efeitos modificativos, a fim de afastar a incidência da Súmula 115/STJ, considerando a regularidade da representação processual.
+3. O agravo regimental não merece ser conhecido, porquanto nos termos da jurisprudência do STJ, inviável o agravo regimental que deixa de impugnar os fundamentos da decisão agravada, nos termos do que dispõe a Súmula 182 do STJ.
+4. Embargos de declaração acolhidos com efeitos modificativos, para afastar o óbice da Súmula 115/STJ e não conhecer do agravo regimental.
+(EDcl no AgRg no AREsp 833.463/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, Data da decisão 2/8/2016, DJe 12/8/2016)
+Quanto à questão do recurso, trata-se de ação previdenciária em que a autora pede a concessão do benefício de aposentadoria rural, após labor na agricultura, em regime de economia familiar, no período de 7/2/1970 a 8/2/2005.
+O Juízo de primeira instância julgou parcialmente procedente a demanda, onde reconheceu somente o período trabalhado entre 7/2/1970 a 31/12/1994.
+Inconformada, a parte autora interpôs recurso de apelação para o Tribunal Regional Federal da 4ª Região, que negou provimento ao recurso. No julgamento da apelação, ao cuidar da questão de provas apresentadas pela autora, o Tribunal a quo ratificou o entendimento do juiz singular quanto ao reconhecimento do período de labor rural somente até o ano de 1994. Extrai-se do acórdão recorrido (e-STJ, fl. 514):
+Ratifico o acima transcrito, pois entre 1985 e 1996 o esposo da autora verteu contribuições quase ininterruptamente e no valor de 4 a 5 salários mínimos, e se aposentou por tempo de contribuição como trabalhador urbano, o que comprova que a principal fonte de renda da família não era a da agricultura.
+A Segunda Seção deste Superior Tribunal de Justiça julgou o Recurso Especial n. 1.354.908/SP (Rel. Min. Mauro Campbell Marques, DJe 10/2/2016), que foi processado sob o rito dos recursos repetitivos, Tema n. 642, quando firmou o entendimento acerca da questão de que a atividade rural deve ser comprovada no período imediatamente anterior ao requerimento de concessão do benefício de aposentadoria rural, conforme acórdão assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA POR IDADE RURAL. COMPROVAÇÃO DA ATIVIDADE RURAL NO PERÍODO IMEDIATAMENTE ANTERIOR AO REQUERIMENTO. REGRA DE TRANSIÇÃO PREVISTA NO ARTIGO 143 DA LEI 8.213/1991. REQUISITOS QUE DEVEM SER PREENCHIDOS DE FORMA CONCOMITANTE. RECURSO ESPECIAL PROVIDO.
+1. Tese delimitada em sede de representativo da controvérsia, sob a exegese do artigo 55, § 3º combinado com o artigo 143 da Lei 8.213/1991, no sentido de que o segurado especial tem que estar laborando no campo, quando completar a idade mínima para se aposentar por idade rural, momento em que poderá requerer seu benefício. Se, ao alcançar a faixa etária exigida no artigo 48, § 1º, da Lei 8.213/1991, o segurado especial deixar de exercer atividade rural, sem ter atendido a regra transitória da carência, não fará jus à aposentadoria por idade rural pelo descumprimento de um dos dois únicos critérios legalmente previstos para a aquisição do direito. Ressalvada a hipótese do direito adquirido em que o segurado especial preencheu ambos os requisitos de forma concomitante, mas não requereu o benefício.
+2. Recurso especial do INSS conhecido e provido, invertendo-se o ônus da sucumbência. Observância do art. 543-C do Código de Processo Civil.
+(REsp 1.354.908/SP, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 10/2/2016)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
