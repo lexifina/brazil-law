@@ -1,0 +1,38 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PRESENTES CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de [NOME] manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+O juízo singular condenou o agravante como incurso nas sanções do artigo 288 do Código Penal, à pena de 4 (quatro) anos e 8 (oito) meses de reclusão, no regime semiaberto (fls. 2.271-2.327).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso foi parcialmente provido para redimensionar a pena ao patamar de 2 (dois) anos e 3 (três) meses de reclusão, no tudo o mais mantida a condenação de primeiro grau (fls. 2.520-2.632).
+No recurso especial, interposto com fulcro nas alíneas a e c do permissivo constitucional, a defesa alega ofensa ao artigo 44 do Código Penal, aos argumentos de que:
+(i) " o  acordão, de forma equivocada, após o decreto condenatório, deixa de conceder o benefício da substituição da pena reclusiva por restritivas de direitos ao condenado [NOME], com a argumentação de que a associação criminosa de que fez parte atuava em crimes graves" (fl. 2.689);
+(ii) " a o negar o direito do réu de ter sua pena substituída por conta de atos de que não fez parte como os furtos ou roubos, como pode-se verificar nos autos, e certidão judicial criminal de fls. 140-142 dos autos, que prova a primariedade do réu, a decisão recorrida afronta o dispositivo 44 da Lei Federal nº 2848/40, Código Penal, bem como a constituição federai que assegura a individualização da pena expressa no inciso XLVI do art. 5º da CF e a o princípio da responsabilidade pessoal do art. XLV da CF" (fl. 2.689).
+Contrarrazões às fls. 2.704-2.716.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão dos óbices das Súmulas 7 e 83 do STJ (fls. 2.734-2.757).
+Nas razões do presente agravo, a parte alega que não incidem os referidos óbices (fls. 2.88-2.811).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 2.823-2.842).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em síntese, nas suas razões recursais, a substituição da pena privativa de liberdade por restritiva de direitos.
+O Tribunal de origem, ao analisar a matéria, fez constar o seguinte, verbis:
+"SUBSTITUIÇÃO DA RECLUSIVA POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. [NOME], [NOME] e Marcelo.
+Ainda que o quantum de pena fixado aos acusados [NOME], [NOME] e Marcelo, os dois primeiros 2 anos e 3 meses, e, o último, 1 ano e 9 meses, pudesse ensejar a substituição da reclusiva por restritivas de direitos, o elevado grau de periculosidade demonstrado por eles, que integravam associação criminosa bastante ativa naquela região, responsável por crimes de elevadíssima gravidade, evidencia a insuficiência da medida, razão pela qual vai indeferida." (fl. 2.627)
+Pois bem.
+A presença de circunstância judicial desfavorável não recomenda a substituição da pena privativa de liberdade por penas restritivas de direitos por não preencher requisitos necessários, constantes do art. 44, inciso III, do Código Penal, mesmo sendo o recorrente primário e tendo a pena sido fixada em patamar inferior a 4 (quatro) anos de reclusão.
+Nesse sentido os seguintes precedentes deste Tribunal Superior:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PENA INFERIOR A 4 ANOS DE RECLUSÃO. REGIME PRISIONAL FECHADO ESTABELECIDO COM BASE NA HEDIONDEZ DO CRIME. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE, VARIEDADE E NATUREZA DA DROGA APREENDIDA. POSSIBILIDADE DE FIXAÇÃO DE REGIME INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE NÃO RECOMENDAM A SUBSTITUIÇÃO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+- Para a imposição de regime prisional mais gravoso do que a pena comporta, é necessária fundamentação específica, com base nas circunstâncias judiciais desfavoráveis e em elementos concretos extraídos dos autos. Inteligência das Súmulas 440/STJ e 718 e 719 do STF.
+- Considerando que a pena-base foi fixada acima do mínimo legal, em razão da quantidade, diversidade e natureza das drogas apreendidas, para uma pena definitiva inferior a 4 anos de reclusão, deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal e art. 42 da Lei n. 11.343/2006.
+- Embora o quantum de pena fixado seja inferior a 4 anos, a quantidade e a natureza do entorpecente apreendido não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto" (HC n. 299.114/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/10/2016, grifei).
+"PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. IMPOSIÇÃO DO REGIME INICIAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS. FUNDAMENTO COM BASE NA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (128 PINOS DE COCAÍNA). FIXAÇÃO DO REGIME FECHADO. CONDENAÇÃO NÃO SUPERIOR A 4 ANOS. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO. FUNDAMENTO CONCRETO PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO - O SEMIABERTO - E NÃO O FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Nos termos do entendimento firmado pelo STJ, a natureza, a variedade e a quantidade da substância entorpecente constituem fundamento idôneo para justificar a imposição do regime mais severo e para o indeferimento da substituição das penas. Precedentes.
+3. Todavia, embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos - 2 anos e 6 meses - cuja pena-base foi estabelecida no mínimo legal. Precedentes.
+4. Conforme o novel entendimento do STF, HC n. 118.533/MS, o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos, pois o tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa, havendo evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+5. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para estabelecer o regime semiaberto para o cumprimento da pena reclusiva" (HC n. 367.301/SP, Sexta turma, Rel. Min. Nefi Cordeiro, DJe de 17/10/2016, grifei).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
