@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão da lavra deste signatário (fls. 378-380), que reconheceu a intempestividade do agravo em recurso especial.
+Em suas razões, o embargante alega que a insurgência é tempestiva, ao argumento de ter havido a reabertura de prazo para interposição do recurso na origem.
+É o relatório.
+Decido.
+Os embargos de declaração merecem acolhida.
+1. Sabe-se que os embargos de declaração têm a finalidade de completar, aclarar, esclarecer ou corrigir uma decisão omissa, obscura, contraditória ou que contenha erro material, afirmação que se depreende dos incisos do próprio artigo 1.022 do CPC/15.
+Com efeito, no presente caso, verifica-se que a parte embargante fora beneficiada com a reabertura de prazo pelo Tribunal local, em razão de equívoco ocorrido naquela instância (fls. 326, e-STJ), consoante se extrai da decisão de fl. 328 (e-STJ), de modo que deve se reputar tempestivo o agravo em recurso especial, sobretudo quando considerada a dobra para a interposição de recursos em favor da Defensoria Pública (art. 186 do NCPC).
+Desse modo, acolho os embargos de declaração, com atribuição de efeitos infringentes, reconhecendo-se a tempestividade do agravo em recurso especial, ao que passo a analisar a irresignação.
+2. Quanto à contrariedade ao art. 51, IV, § 1º, III, do CDC, verifica-se a ausência de prequestionamento.
+Com efeito, esta Corte Superior possui o entendimento de que não basta a oposição de embargos de declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do recurso especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, este Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+1. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial..
+2. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+4. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+5. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+6. Recurso especial não provido."
+(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017, grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017, grifou-se)
+Assim, no presente caso, a parte recorrente não alegou ofensa ao art. 1.022 do Código de Processo Civil de 2015 e a temática referente à preservação da boa-fé contratual não foi enfrentada pelo Tribunal de origem, mesmo com a oposição dos embargos de declaração, o que caracteriza a ausência de prequestionamento. Nesse contexto, revelam-se aplicáveis ao caso sob apreciação o óbice da Súmula 211 deste Superior Tribunal de Justiça.
+3. No que se refere à tese da violação ao contraditório, ao fundamento da imprescindibilidade da realização de perícia contábil, tem-se que não houve indicação da legislação federal tida como contrariada, não se prestando a utilização de dispositivos constitucionais para fundar o recurso especial.
+O recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FUNDAMENTOS INSUFICIENTES PARA ALTERAR A DECISÃO AGRAVADA. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. FALTA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. RECURSO IMPROVIDO.
+1. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+2. A ausência de similitude fática entre os arestos confrontados evidencia inexistência de dissídio jurisprudencial, tornando inviável o inconformismo pela alínea "c" do permissivo constitucional.
+3. Agravo regimental não provido.
+(AgRg no Ag 1040590/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/10/2011, DJe 21/10/2011)
+4. Em relação à vulneração do art. 4º do Decreto n. 22626/3, no Recurso Especial n. 973.827/RS, Rel. p/ acórdão Min. Maria Isabel Galloti, Dje de 24/09/2012, julgado na forma do art. 543-C do CPC/1973, a Segunda Seção do STJ fixou o entendimento de que "a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+Essa mesma tese foi reiterada em muitos outros julgados das Turmas que compõem a Segunda Seção, podendo-se destacar aqui:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. AGRAVO NÃO PROVIDO.
+(..)
+2. A jurisprudência firmada pela Segunda Seção deste Tribunal Superior, em sede de recurso especial representativo de controvérsia - Resp 973.827/RS, é no sentido de ser possível a cobrança da capitalização mensal dos juros, desde que atendidos os seguintes requisitos: a) existência de previsão contratual expressa da capitalização com periodicidade inferior a um ano; e b) tenha sido o contrato firmado após 31/03/2000, data da primeira edição da MP, então sob o nº 1963-17, não sendo admissível antes dessa data. Além disso, o entendimento deste Sodalício é no sentido de que havendo previsão contratual da taxa de juros anual superior ao duodécuplo da mensal, é suficiente para permitir a cobrança da taxa efetiva anual contratada. (..)
+7. Agravo interno não provido.
+(AgInt no REsp 1480331/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/10/2017, DJe 05/10/2017; grifou-se)
+BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL DOS JUROS.
+(..)
+4. A divergência entre as taxas de juros anual e o duodécuplo da taxa mensal, previstas numericamente no contrato, é suficiente para caracterizar a expressa contratação de capitalização.
+5. Agravo interno não provido.
+(AgInt no AREsp 506.961/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/09/2017, DJe 02/10/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. PREVISÃO CONTRATUAL. COMISSÃO DE PERMANÊNCIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E CLÁUSULAS CONTRATUAIS. SÚMULA 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência firmada pela Segunda Seção deste Tribunal Superior, em sede de recurso especial representativo de controvérsia - Resp 973.827/RS, é no sentido de ser possível a cobrança da capitalização mensal dos juros, desde que atendidos os seguintes requisitos: a) existência de previsão contratual expressa da capitalização com periodicidade inferior a um ano; e b) tenha sido o contrato firmado após 31/03/2000, data da primeira edição da MP, então sob o nº 1963-17, não sendo admissível antes dessa data. Além disso, o entendimento deste Sodalício é no sentido de que havendo previsão contratual da taxa de juros anual superior ao duodécuplo da mensal, é suficiente para permitir a cobrança da taxa efetiva anual contratada.(..)
+5. Agravo interno não provido.
+(AgInt no REsp 1457460/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2017, DJe 29/09/2017; grifou-se)
+No caso em análise, a Corte local analisou o contrato entabulado entre as partes para então concluir a seguinte premissa acerca da capitalização de juros: "O contrato foi assinado em 02.02.2010 (f. 20), sendo posterior à edição da Medida Provisória nº 2.170-36/2001, e admitindo, portanto, a capitalização de juros." (fl. 203, e-STJ).
+Para derruir as conclusões adotadas pelo aresto estadual seria necessário o reexame das cláusulas contratuais e dos fatos discutidos no feito, providência incompatível com a via especial. Deste modo, não merece prosperar a irresignação do recorrente, aplicando-se os enunciados das Súmulas 5, 7 e 83 do STJ.
+5. Em face do exposto, acolho os embargos de declaração, com efeitos modificativos, para sanar o erro material existente, reconsiderando a decisão de fls. 378-380 (e-STJ) quanto à intempestividade, e, em consequência, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
