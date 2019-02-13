@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por RHODOSS IMPLEMENTOS RODOVIÁRIOS LTDA contra a decisão que indeferiu o processamento de recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal, o qual visa reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR. ICMS. EXPEDIÇÃO DE CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA. TUTELA DE URGÊNCIA. AUSÊNCIA DOS REQUISITOS. MULTA POR LITIGÂNCIA DE MÁ-FÉ INDEVIDA I. Não ajuizada a execução fiscal, por inércia da Fazenda Pública, o devedor que antecipa a prestação de garantia em juízo, de forma cautelar, tem direito à certidão positiva com efeitos de negativa, conforme entendimento jurisprudencial.
+Todavia, a mesma jurisprudência reconhece que este oferecimento de caução, antes da propositura da execução fiscal é equiparável à penhora antecipada, por óbvio, então, deve obedecer o critério de prevalência previsto no art. 11 da LEF, senão o contribuinte ostentará condição mais favorável que o executado.
+II. No caso, a agravante apresenta como garantia do crédito tributário vencido, precatórios. O credor tributário, ora agravado, apresenta recusa ao bem oferecido, justamente porque não obedece à ordem legal de preferências.
+III. Importa registrar que o credor pode recusar a garantia oferecida, bem como, a observância da ordem legal, por si só, não implica maior onerosidade ao devedor. Precedentes do STJ.
+IV. No caso, não há, portanto, garantia do crédito tributário para o efeito de expedição de certidão positiva, com efeito de negativa.
+Ausentes os requisitos para a concessão da tutela de urgência pretendida V. A alegação de matérias repetidas e conhecidas nos tribunais, por si só, não autoriza a aplicação da multa prevista no art. 80 do CPC.
+Agravo parcialmente provido.
+Nas razões de recurso especial aponta a parte recorrente ofensa aos arts. 8º, 9º e 11 da Lei n. 6.830/1980, e 620 do Código de Processo Civil, sob o fundamento de que, verbis:
+Os excertos acima correlacionados demonstram, claramente que o artigo 11 da LEF NÃO deve ser aplicado isoladamente, tendo em vista a existência de outras normas jurídicas que disciplinam a indicação de bens à penhora, as quais conferem ao rol trazido pela LEF o caráter relativo, EIS QUE A APLICAÇÃO DO MESMO SOMENTE DEVE SER UTILIZADA APÓS A ANÁLISE DAS CIRCUNSTÂNCIAS PRESENTES NO PROCESSO, ASSIM COMO O INTERESSE DAS PARTES, DESTACANDO-SE A REDAÇÃO DO ART. 620 DO CPC, QUE DETERMINA QUE A EXECUÇÃO SE PROCEDA DA FORMA MENOS GRAVOSA AO DEVEDOR (fl. 336).
+O Presidente da Seção de Direito Público do Tribunal de Justiça de São Paulo negou seguimento ao recurso especial com base no art. 543-C, § 7º, inciso I, do Código de Processo Civil de 1973, haja vista que, quanto às questões referentes à possibilidade de penhora de precatório em desacordo com a ordem legal e aplicação do princípio da menor onerosidade, o acórdão impugnado encontrar-se-ia em conformidade com os recursos especiais repetitivos n. 1.108.298/SP e n. 1.337.790/PR.; e não o admitiu quanto às mesmas questões, em razão da aplicação da Súmula n. 83.
+Sobreveio agravo regimental, que não foi conhecido pela Câmara, bem como agravo em recurso especial.
+É o relatório.
+Decido.
+Não há outras questões a serem apreciadas nas razões do recurso especial além daquelas já examinadas no julgamento dos Recursos Repetitivos n. 1.108.298/SP e n. 1.337.790/PR, que serviram de fundamento para a inadmissibilidade do apelo nobre com base no art. 1.030, inciso I, do Código de Processo Civil.
+Nessa linha, o presente agravo perdeu o seu objeto.
+Caso contrário estaria sendo desvirtuada a finalidade prevista para os recursos repetitivos no sentido de que, uma vez submetida a questão federal a essa sistemática e apreciado seu mérito pelo Superior Tribunal de Justiça, caberá aos tribunais de origem, de forma definitiva, adequar as demais decisões ao entendimento erigido por esta Corte Superior.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
