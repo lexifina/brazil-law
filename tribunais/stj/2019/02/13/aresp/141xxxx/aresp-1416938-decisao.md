@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - EMBARGOS DE TERCEIRO - ALIENAÇÃO FIDUCIÁRIA - POSSÍVEL FRAUDE - SUSPENSÃO - BUSCA E APREENSÃO - TUTELA DE URGÊNCIA - REQUISITOS CONFIGURADOS - DECISÃO MANTIDA. 1. A tutela de urgência de natureza antecipada será concedida quando, diante da probabilidade do direito alegado, houver perigo de dano ou risco ao resultado útil do processo. 2. O perigo da demora é pressuposto para concessão das tutelas provisórias de urgência e se faz presente quando não se pode esperar a decisão final sem que isso gere danos aos direitos do requerente. 3. A probabilidade do direito se faz presente quando as alegações das partes e o quadro probatório existente, ainda que incompleto, demonstram que o direito alegado provavelmente existe. 4. Havendo a discussão acerca da propriedade do veículo, já que a sua transferência pode ter ocorrido em razão de suposta fraude, a suspensão do cumprimento do mandado de busca e apreensão é a medida que se impõe. 5. Recurso conhecido e não provido" (fl. 327 e-STJ).
+Nas razões do recurso especial, a agravante sustentou a violação dos artigos 3º do Decreto Lei nº 911/1969 e 1.361 do Código Civil.
+Aduziu, em síntese, que preenchidos os requisitos do art. 3º do Decreto Lei nº 911/1969, deve ser deferida a busca e apreensão e, em ato contínuo, consolidada a propriedade em nome do credor. Teceu, ainda, considerações sobre o princípio da boa-fé e a irrelevância quanto ao bem estar em nome de terceiro.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Não obstante a irresignação da agravante, os magistrados da instância ordinária decidiram apenas que o pedido de tutela de urgência, formulado em embargos de terceiro, atendia aos requisitos legais, conforme se observa do seguinte excerto:
+"(..)
+Registre-se, inicialmente, que a parte agravada declara que a aquisição do veículo de placa [PLACA] por [NOME] se deu por meio de fraude.
+Isso porque alega que deixou o referido veículo na posse da concessionária ANCAR, por meio da pactuação de contrato de consignação (doc. eletrônico nº 28), a fim de que fosse efetivada a sua venda. Todavia, a embargante tomou conhecimento acerca da sua entrega para terceiro, sem que recebesse qualquer quantia produto de sua alienação, não ocorrendo, nem mesmo, a sua transferência pela via administrativa, visto que o recibo encontra-se em seu poder.
+Tais fatos são corroborados pelos documentos eletrônicos de ordem 26/37, de onde se extrai, inclusive, a realização de Boletim de Ocorrência narrando o ocorrido.
+Além disso, verifica-se a existência de impedimento no veículo, em razão de apropriação indébita, nos termos do documento eletrônico nº 33, em que se demonstra a probabilidade do direito da agravada.
+Diante do exposto, havendo dúvida acerca da propriedade do veículo, resta configurado, também, o requisito do perigo de dano, já que autorizar o cumprimento do mandado de busca e apreensão geraria enorme prejuízo à apelada, possível proprietária.
+Por fim, ressalte-se que não merece prosperar a alegação do agravante no que tange à impossibilidade de discussão de direitos inerentes à propriedade, já que a possível ocorrência de apropriação indébita do veículo impede a sua transferência pela mera tradição.
+Dessa maneira, estando presentes os requisitos necessários para concessão da tutela de urgência, deve ser confirmada a decisão agravada" (fls. 333-334 e-STJ).
+Como visto, as questões foram solucionadas à luz do acervo probatório acostado aos autos, exigindo a inversão do julgado e, por consequência, a revogação da tutela, o vedado reexame de provas.
+Imperioso ressaltar, ainda, que a jurisprudência do STJ, em atendimento ao disposto na Súmula 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+Confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. (AgInt no REsp 1253947/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+2. Na hipótese dos autos, o Tribunal de origem, com base nas provas carreadas aos autos, concluiu não estarem presentes os requisitos ensejadores da concessão de tutela antecipada. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+(..)
+4. Agravo regimental desprovido" (AgRg no AREsp 348.724/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/8/2017).
+Por fim, no que tange às questões de mérito trazidas no recurso - requisitos da busca e apreensão e consolidação da propriedade do bem em nome do credor-, verifica-se que não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, carecendo, assim, do requisito do prequestionamento. Incide, portanto, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, não foram estipulados.
+Publique-se.
+Intimem-se.
