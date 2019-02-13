@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA A QUAL JULGOU INTEMPESTIVO O APELO NOBRE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE NA VIGÊNCIA DO CÓDIGO BUZAID. DECISÃO DE INADMISSÃO COM BASE NO ART. 543-C DO CPC/1973. ERRO GROSSEIRO NÃO CONFIGURADO. REMESSA À ORIGEM PARA JULGAR COMO AGRAVO INTERNO. DECISÃO RECORRIDA RECONSIDERADA PARA DETERMINAR A REMESSA DO AUTOS À ORIGEM A FIM DE QUE O ARESP SEJA JULGADO COMO AGRAVO REGIMENTAL.
+1. Trata-se de Agravo Interno interposto [NOME] E EDITORA LTDA. contra decisão monocrática de lavra da eminente Presidência, a qual julgou intempestivo o seu Recurso Especial.
+2. Nas suas razões recursais, sustenta a possibilidade de comprovação posterior de feriado local, razão pela qual pede que seu Apelo seja considerado tempestivo.
+3. Impugnação não apresentada.
+4. Em síntese, é o relatório.
+5. Sendo o Apelo Nobre interposto na vigência do Código Buzaid, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado administrativo 2/STJ).
+6. No caso, aplicável o seguinte precedente da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial (AgRg no AREsp. 137.141/SE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 15.10.2012).
+7. Assim, comprovada a existência de feriado forense na origem, afasta-se a ocorrência da intempestividade, razão pela qual merece ser reconsiderada a decisão recorrida.
+8. Passa-se à analise do Agravo em Recurso Especial interposto contra decisão que inadmitiu o Apelo com base no art. 543-C, §7o., I do Código Buzaid.
+9 Sobre o tema, a orientação firmada pela Corte Especial deste Sodalício é de que, interposto o Agravo de que trata o art. 544 do Código Buzaid contra decisão fulcrada no art. 543-C, §7o., I do referido diploma, deve ser determinada sua remessa ao Tribunal de origem para julgamento como agravo interno por não estar configurada hipótese de erro grosseiro. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO, NO TRIBUNAL A QUO, QUE NEGA SEGUIMENTO AO ESPECIAL COM BASE NO ART. 543-C DO CPC. INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. DESCABIMENTO. ERRO GROSSEIRO. NÃO CONFIGURAÇÃO. REMESSA DO RECURSO PELO STJ À CORTE DE ORIGEM PARA APRECIAÇÃO COMO AGRAVO INTERNO. AGRAVO PROVIDO.
+1. No julgamento da Questão de Ordem no Ag 1.154.599/SP, a Corte Especial assentou o entendimento de que não cabe agravo (CPC, art. 544) contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC, podendo a parte interessada manejar agravo interno ou regimental na origem, demonstrando a especificidade do caso concreto.
+2. Entretanto, o art. 544 do CPC prevê o cabimento do agravo contra a decisão que não admite o recurso especial, sem fazer distinção acerca do fundamento utilizado para a negativa de seguimento do apelo extraordinário. O não cabimento do agravo em recurso especial, naquela hipótese, deriva de interpretação adotada por esta Corte Superior, a fim de obter a máxima efetividade da sistemática dos recursos representativos da controvérsia, implementada pela Lei 11.672/2008.
+3. Então, se equivocadamente a parte interpuser o agravo do art. 544 do CPC contra a referida decisão, por não configurar erro grosseiro, cabe ao Superior Tribunal de Justiça remeter o recurso à Corte de origem para sua apreciação como agravo interno.
+4. Agravo interno provido (AgRg no AREsp. 260.033/PR, Rel. Min. RAUL ARAÚJO, DJe 25.9.2015).
+10. No mesmo sentido: AgInt no AREsp. 878.255/SP, Rel. Min. GURGEL DE FARIA, DJe 24.10.2018; AgInt no REsp. 1.442.316/SP, Rel. Min. NANCY ANDRIGHI, DJe 11.5.2018.
+11. Ante o exposto, reconsidera-se a decisão agravada e determina-se a remessa dos autos ao Tribunal a quo, a fim de que o Agravo em Recurso Especial seja julgado como Agravo Regimental, como se entender de direito.
+12. Publique-se. Intimações necessárias.
