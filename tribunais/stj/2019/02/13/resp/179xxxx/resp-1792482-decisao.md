@@ -1,0 +1,54 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. VIOLAÇÃO AO ART. 1.022, I, DO CPC. ALEGAÇÃO GENÉRICA DE EXISTÊNCIA DE CONTRADIÇÃO. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. HIPÓTESE DE CABIMENTO. PRETENSÃO QUE DEMANDA O REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA 284/STF. ANÁLISE CASUÍSTICA.
+RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO CIDADE S/A em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de prestação de contas em fase de cumprimento de sentença. Agravante que se insurge contra despacho que suspendeu o curso do processo principal, para aguardar o julgamento de agravo de instrumento interposto pela agravada. Ordem que não desafia novo agravo, dado não corresponder a qualquer das hipóteses previstas no rol exaustivo do art. 1.015 do CPC/15. Precedentes. Recurso de que não se conhece.
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente aponta, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) art. 1.022, I, do CPC, sustentando que o acórdão recorrido padece de contradição; (b) art. 1.015, § único, do CPC, alegando que o agravo de instrumento é cabível, porque, na origem, o processo principal está na fase de cumprimento de sentença; (c) arts. 995 e 1.029, § 5º, do CPC, aduzindo que a decisão agravada tem cunho decisório, que causa prejuízo processual ao recorrente.
+Contrarrazões às e-STJ Fls. 113-134.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+A contradição que dá ensejo a embargos de declaração é a que se estabelece no âmbito interno do julgado embargado, ou seja, a contradição do julgado consigo mesmo, como quando, por exemplo, o dispositivo não decorre logicamente da fundamentação.
+Sobre o tema, lecionam [NOME] e [NOME]:
+ Os embargos de declaração não são cabíveis para corrigir uma contradição entre a decisão e alguma prova, argumento ou elemento contido em outras peças constantes dos autos do processo. Não cabem, em outras palavras, embargos de declaração para eliminação de contradição externa. A contradição que rende ensejo a embargos de declaração é a interna, aquela havida entre trechos da decisão embargada.
+(..)
+ A decisão é, enfim, contraditória quando traz proposições entre si inconciliáveis. O principal exemplo é a existência de contradição entre a fundamentação e o dispositivo.
+ ([NOME] JR. [NOME]. [NOME]. Leonardo José Carneiro. Curso de Direito Processual Civil. Meios de impugnação às decisões judiciais e processo nos Tribunais. Vol. 3. 15ª ed. Salvador: JusPodivm. 2018. pág. 297)
+Nas razões recursais, o recorrente, ao apontar violação ao art. 1.022, I, do CPC, se limitou a afirmar que "os embargos de declaração possuíam nítido desiderato de eliminar a contradição apontada, bem como viabilizar o recurso excepcional cabível".
+Segundo a jurisprudência do Superior Tribunal de Justiça, "é deficiente a alegação genérica de violação dos arts. 489 e 1.022, I e II, do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal local e não comprova ter questionado as apontadas falhas nos embargos de declaração. Incidência da Súmula 284/STF" (AgInt no AREsp 1089706/MT, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe, 25.10.2017).
+No mesmo sentido, cita-se, ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ARBITRAMENTO DE HONORÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. NEGLIGÊNCIA DO ADVOGADO. INADIMPLEMENTO SUBSTANCIAL DO CONTRATO. INEXISTÊNCIA. REVISÃO. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. Não há como rever as conclusões do tribunal de origem, a partir da tese de que houve inadimplemento substancial do contrato de prestação de serviços advocatícios, sem a análise de aspectos fático-probatórios dos autos e de cláusulas contratuais, providências vedadas em recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1282456/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSUMIDOR. AUSÊNCIA DE INTERESSE JURÍDICO DA ANATEL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA A DISPOSITIVO DE LEI FEDERAL. SÚMULA N. 284 DO STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Tratando-se de ação proposta por consumidor para discutir a relação contratual com a concessionária de serviço público, sem existir interesse jurídico da agência reguladora, não há falar em legitimidade passiva desta. Precedentes.
+2. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação do recurso especial que alega violação do art. 535 do CPC/1973, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, a quantia estabelecida pelo Tribunal de origem não se mostra excessiva, a justificar sua reavaliação em recurso especial.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1113100/PA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/04/2017, DJe 17/04/2017)
+Como se vê, não há como prosperar a alegação de ofensa ao art. 1.022, I, do CPC quando as razões recursais apresentam-se genéricas e não indicam, com exatidão, como o julgado teria sido contraditório.
+No tocante à apontada violação aos arts. 995, 1.015, § único e 1.029, § 5º, do CPC, o acórdão recorrido não conheceu do agravo de instrumento por duas razões: (a) o despacho agravado não se enquadra em qualquer das hipóteses previstas no art. 1.015 do CPC e (b) "o despacho atacado apenas manteve a decisão anterior, objeto de outro agravo de instrumento, pelo que tal despacho não porta conteúdo decisório novo, a desafiar outro agravo, à vista do princípio da unicidade recursal".
+Nas razões recursais, o recorrente afirma que (a) a decisão agravada foi proferida em sede de cumprimento de sentença e (b) a decisão agravada modificou a anterior que havia determinado o prosseguimento do feito.
+Em que pese assistir razão ao recorrente quanto ao cabimento de agravo de instrumento contra "decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário" (§ único, do art. 1.015 do CPC), o óbice da Súmula 7/STJ impede perquirir o teor da decisão atacada e, consequentemente, infirmar o fundamento do acórdão recorrido acerca da necessidade de observância do princípio da unicidade recursal, porque o "despacho atacado apenas manteve a decisão anterior".
+Por fim, o recurso especial interposto pela alínea c do permissivo constitucional não pode ser conhecido.
+O recorrente não indicou dispositivo de legislação federal sobre o qual recai a suposta divergência jurisprudencial, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial 1.346.588/DF, reafirmou a necessidade do recorrente identificar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio e de ferir a ampla defesa e contraditório ante a dificuldade do recorrido de identificar de forma clara e precisa a tese jurídica a ser impugnada.
+De qualquer sorte, "É entendimento assente neste Tribunal Superior, que não se conhece do recurso especial fundamentado na divergência relativamente ao art. 535 do Código de Processo Civil, porquanto a análise acerca da violação ao dispositivo depende da constatação, em cada caso concreto, quanto à ocorrência ou não de omissão, contradição ou obscuridade, o que impede a demonstração da divergência, em razão das peculiaridades de cada demanda" (AgRg no REsp 1405904/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 19/04/2016) Cita-se, ainda: AgInt no AREsp 942.653/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/09/2016, DJe 04/10/2016; AgRg no AREsp 786.616/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/11/2015, DJe 24/11/2015; e AgRg no AREsp 176.094/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2012, DJe 13/11/2012.
+Diante do exposto, não conheço do recurso especial.
+Honorários advocatícios recursais incabíveis na espécie.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Intime-se.
