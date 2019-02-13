@@ -1,0 +1,39 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. FUNDAMENTO CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto, com fulcro no art. 105, III, a, da CF/88, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 283):
+EXECUÇÃO FISCAL. EMBARGOS. REEXAME DE RECURSO. JUÍZO DE RETRATAÇÃO. ARTIGO 543-B, § 3º, DO CPC. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. IPTU. ART. 515, §2º. CPC. PRESCRIÇÃO. CDA. NULIDADE NÃO CONFIGURADA. PROGRESSIVIDADE. LC 40/2001.
+1. Determinado pela Vice-Presidência deste Tribunal o eventual juízo de retratação, nos termos do artigo 543-B, § 3º, do CPC, de modo que cabível o reexame do recurso de apelação.
+2. A Rede Ferroviária Federal S/A foi extinta em 22 de janeiro de 2007, por disposição da MP 353, convertida na Lei nº 11.483/07, sucedendo-lhe a União nos direitos, obrigações e ações judiciais.
+3. O plenário do Supremo Tribunal Federal, no julgamento do RE 599.176/PR, com repercussão geral reconhecida, entendeu não se aplicar o princípio da imunidade tributária recíproca a débito de Imposto Predial e Territorial Urbano (IPTU) devido pela extinta Rede Ferroviária Federal S/A (RFFSA).
+4. Considerando que a defesa da executada apresenta outras causas de pedir, devem ser elas examinadas, por força do que dispõe o art. 515, § 2º, do Código de Processo Civil (Quando o pedido ou a defesa tiver mais de um fundamento e o juiz acolher apenas um deles, a apelação devolverá ao tribunal o conhecimento dos demais).
+5. Em se tratando de tributo sujeito a lançamento direto (caso do IPTU e das taxas a ele adjetas), considera-se o termo inicial do prazo prescricional o primeiro dia do exercício em cobrança. Precedentes do STJ. No caso, não há se falar e prescrição.
+6. A certidão de dívida ativa constitui-se em título executivo extrajudicial (artigos 585, VII, e 586 do CPC), hábil a, por si só, ensejar a execução, pois decorre de lei a presunção de liquidez e certeza do débito que traduz. A inscrição cria o título e a certidão de inscrição o documento para efeito de ajuizamento da cobrança judicial pelo rito especial da Lei nº 6.830/80.
+7. Em se tratando de lei municipal posterior à Emenda Constitucional nº 29, de 2000, é descabida a alegação de inconstitucionalidade, fundada em falta de previsão de progressividade na Constituição Federal, uma vez que, desde a referida emenda, o art. 156, § 1º, incisos I e II, possibilitou que o IPTU seja progressivo ou tenha alíquotas diferenciadas. Aplica- se, pois, contrario sensu, o disposto na Súmula nº 668 do Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+Em sede de recurso especial, foi reconhecida a existência de omissão no acórdão proferido e determinado o retorno dos autos à origem para novo julgamento dos embargos de declaração, cuja ementa destaca-se (fl. 459):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO EXISTENTE. IMUNIDADE TRIBUTÁRIA RECÍPROCA. RFFSA.
+1. Hipótese em que demonstrada a existência de omissão no acórdão, sendo, pois, cabível a oposição de embargos declaratórios, conforme prescrito no artigo 1.022 do Novo CPC.
+2. À época dos fatos geradores, não se verificava em relação aos serviços prestados pela extinta RFFSA nenhuma das características ensejadoras da extensão da imunidade tributária recíproca às pessoas jurídicas de direito privado integrantes da Administração Indireta. Inclusive no julgamento do RE 599.176/PR, o Supremo Tribunal Federal considerou a RFFSA contribuinte regular do tributo.
+No apelo especial, a parte recorrente aponta ofensa aos artigos 130 e 131 do CTN, afirmando que não é devido o pagamento do IPTU pela União, uma vez que a própria RFFSA detinha imunidade tributária.
+Contrarrazões às fls. 486/498.
+Juízo positivo de admissibilidade à fl. 502.
+É o relatório. Passo a decidir.
+No pertinente à alegação de que não é devido o pagamento do IPTU pela União, uma vez que a RFFSA detinha imunidade tributária, a questão perpassa pela imunidade recíproca, que nos autos, foi dirimida com fundamento constitucional, especificamente com base no artigo 150, VI, "a", da CF. De modo que o recurso especial é inviável quanto ao ponto, sob pena de usurpar-se a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. IPTU. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Hipótese em que o Tribunal de origem decidiu a questão referente à sucessão tributária da União na propriedade de imóvel pertencente à extinta Rede Ferroviária Federal S.A. - RFFSA com base em fundamento eminentemente constitucional (imunidade e competência constitucional, a teor do art. 150, VI, a, da CF/88), o que impede a revisão por esta Corte, em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Agravo regimental improvido. (AgRg no Resp 1.575.338/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 3/3/2016, DJe 11/03/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. TRIBUTÁRIO. IPTU. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. MATÉRIA CONSTITUCIONAL.
+1. Não ocorre contrariedade ao art. 535, II, do CPC, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+2. O recurso não comporta conhecimento, tendo em vista que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi decidida sob enfoque eminentemente constitucional, qual seja, a imunidade tributária, sendo defeso o exame por esta Corte, sob pena de usurpação da competência do Pretório Excelso.
+3. Consoante a reiterada jurisprudência desta Corte, não compete ao Superior Tribunal de Justiça, na via do recurso especial, analisar eventual contrariedade a preceito contido na CF/88, tampouco uniformizar a interpretação de matéria constitucional.
+4. Agravo regimental a que se nega provimento (AgRg no Resp 1.564.468/PR, Rel. Ministra Diva Malerbi, Segunda Turma, julgado em 1º/3/2016, DJe 9/3/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. IPTU. TRANSFERÊNCIA DO IMÓVEL DA RFFSA PARA À UNIÃO. IMUNIDADE TRIBUTÁRIA RECÍPROCA POR SUBSTITUIÇÃO TRIBUTÁRIA. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. REFORMA EM RECURSO ESPECIAL. INVIABILIDADE.
+1. Não ocorre ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. O acórdão recorrido ancorou-se em fundamentação eminentemente constitucional para solucionar a questão relativa à incidência de IPTU relativo à imóvel transferido à União em virtude da extinção da Rede Ferroviária Federal S/A, o torna inviável a análise da controvérsia em sede de recurso especial.
+3. Agravo regimental a que se nega provimento (AgRg no Resp 1.572.135/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/2/2016, DJe 22/2/2016).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
