@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões alega, em síntese, que por meio do agravo em recurso especial houve o rebatimento de todos os fundamentos lançados na decisão que inadmitiu o recurso especial.
+Relatados. Decido.
+Tendo em vista as razões lançadas pelo ora agravante em sua peça recursal, reconsidero a decisão agravada e, com fundamento no art. 1.021, § 2º, do Código de Processo Civil, determino a distribuição dos autos.
+Publique-se. Intimem-se.
