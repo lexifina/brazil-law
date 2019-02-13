@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SERVIDOR PÚBLICO FEDERAL. DOCENTES DA FURG. REAJUSTE DE 3,17%. TÍTULO JUDICIAL FORMADO EM AÇÃO COLETIVA AJUIZADA POR SINDICATO. ABRANGÊNCIA. COISA JULGADA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, reitera-se a negativa de prestação jurisdicional pelo Tribunal a quo:
+ ..  o Douto Tribunal Regional deixou de apreciar a alegação da entidade quanto ao advento de diversas normas reestruturantes da carreira da autora e que já teriam absorvido o índice pleiteado. Desta forma, a situação fática dos autos não restou plenamente esclarecida pelo Tribunal Regional. No caso, o acesso às instâncias extraordinárias não permite uma nova análise das provas constantes dos autos cabendo ao Tribunal Regional deixar claro em sua fundamentação todos os aspectos fáticos e jurídicos essenciais ao deslinde da causa, sob pena de cerceamento do direito recursal da FURG. No caso, houve violação ao art. 1022. Outrossim, com relação a aplicação do óbice da súmula 07/STJ ao presente caso, tal se verifica diante da omissão do regional que deixou de apreciar a alegação de limitação do índice às reestruturações anteriores ao ingresso da autora na entidade.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+2. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, deu a solução que melhor espelha a orientação jurisprudencial do STJ sobre a matéria.
+Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Em verdade, constata-se que o Tribunal a quo enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia, ao assim se pronunciar:
+A tese de que o(a) exequente não é alcançado pela decisão exequenda é infundada, uma vez que (a) ele(a) integra a categoria profissional contemplada pelo título judicial e (b) embora tenha ingressado no quadro de pessoal da FURG sob a vigência do plano de cargos e salários implantando pela Lei n.º 11.784/2008 - o que, em tese, afastaria a defasagem remuneratória que a sentença coletiva visou a recompor (o pressuposto fático para ser beneficiário do reajuste de 3,17%, que não consiste em parcela autônoma, mas índice que deixou de ser aplicado sobre a tabela de vencimentos vigente em janeiro de 1995, e, por reconhecimento judicial foi incorporado à remuneração dos servidores, para recompor o prejuízo sofrido) - fato é que o título executivo definiu que até março de 2012 a remuneração dos professores da FURG era inferior à devida, o que confere a todos, independentemente da data de início do vínculo funcional, o direito ao reajuste.
+Além disso, os limites subjetivo e objetivo da coisa julgada são extraídos de seu conteúdo, de modo que a assertiva de que o título executivo é direcionado somente para os docentes que ingressaram na FURG antes de janeiro de 1995 encontra óbice na natureza genérica e expansiva do provimento judicial coletivo, decorrente da representatividade da entidade-autora, e na exigência de isonomia entre os integrantes da mesma carreira. A vingar a tese defendida pela executada, os docentes admitidos antes de janeiro de 1995 perceberão diferenças remuneratórias até março de 2012, ao passo que os demais nada receberão, apesar de exercerem idêntica função.
+A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
