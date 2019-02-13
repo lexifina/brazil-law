@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98012, de 31 de janeiro de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 2202.99.00
+Mercadoria: Bebida não alcoólica, não gaseificada, pronta para consumo, obtida pela diluição, em água potável, de água de coco integral, suco concentrado de maçã, suco concentrado de abacaxi, polpa de couve, suco concentrado de uva, polpa de melão, polpa de gengibre, suco concentrado de limão, polpa de kiwi, polpa de pepino, polpa de hortelã, extrato aquoso de chá verde, antioxidante ácido ascórbico, corante natural clorofila, aroma natural de melão, comercialmente denominada "Bebida mista de água de coco e suco detox", apresentada em embalagens cartonadas de 200 ml e 1.000 ml, e de plástico de 350 ml.
+Dispositivos Legais: RGI/SH 1 (texto da posição 22.02) e RGI/SH 6 (textos das subposições 2202.9 e 2202.99), da Nomenclatura Comum do Mercosul (NCM), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.012-2019.pdf]
