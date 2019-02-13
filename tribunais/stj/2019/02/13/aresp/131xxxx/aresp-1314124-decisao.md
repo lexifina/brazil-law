@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por RHESUS CENTRO DE DIAGNOSTICOS LTDA. contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO - ART. 1.018, § 2º, CPC - DESCUMPRIMENTO - NÃO COMPROVAÇÃO - EXECUÇÃO FISCAL - REDIRECIONAMETNO DO FEITO - ART. 135, III, CTN- SÚMULA 435/STJ - RECURSO PROVIDO.
+1.Quanto à preliminar de descumprimento da comprovação da interposição do agravo de instrumento ao Juízo a quo, cumpre ressaltar o disposto no art. 1.018, CPC: "Art. 1.018. O agravante poderá requerer a juntada, aos autos do processo, de cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso. (..) § 2o Não sendo eletrônicos os autos, o agravante tomará a providência prevista no caput, no prazo de 3 (três) dias a contar da interposição do agravo de instrumento. § 3o O descumprimento da exigência de que trata o § 2.2, desde que arguido e provado pelo agravado, importa inadmissibilidade do agravo de instrumento." 2.Da mesma forma que disposto no art. 526, do revogado Código de Processo Civil , o descumprimento da exigência deve ser arguido e comprovado pelo agravado.
+3.No caso, entretanto, os recorridos, apesar de argui-lo, não tiveram êxito em comprovar o descumprimento da exigência pelos documentos juntados através de sua contraminuta. Destarte, resta afastada a preliminar alegada.
+4.0 Superior Tribunal de Justiça já enfrentou a questão, posicionando-se pela possibilidade de os sócios-gerentes serem incluídos no polo passivo da execução fiscal, já que, se a sociedade executada não é localizada no endereço informado à Junta Comercial, presume-se sua dissolução irregular.
+5.0s diretores, gerentes ou representantes das sociedades podem ser responsabilizados pelas obrigações tributárias nos casos de dissolução irregular da sociedade ou de atuação dolosa ou culposa na administração dos negócios, por meio de fraude ou excesso de poderes.
+6.Quando há dissolução irregular da sociedade, o ônus da prova se inverte e o gerente da sociedade, incluído na execução fiscal, poderá demonstrar não ter agido com dolo, culpa, excesso de poder ou mediante fraude. Nesse sentido: REsp 1017732/RS e AgRg no REsp 813.875/RS.
+7.Na hipótese, a empresa executada não foi localizada no domicílio cadastrado perante o Fisco, pelo Oficial de Justiça (fl. 167), inferindo-se, assim, sua dissolução irregular (Súmula 435/STJ), possibilitando o redirecionamento da execução fiscal.
+8.Cabível a responsabilização daquele que, vinculado ao fato gerador do tributo cobrado, demonstra a prática de atos de administração com excesso de poderes, infração à lei, contrato social ou estatuto,consistente - entre eles - no encerramento irregular da sociedade, justificando, desta forma, a aplicação do disposto no art. 135, III, CTN, na medida em que, além de não pagar o tributo (o que, por si só não autoriza sua responsabilização, como sedimentado na jurisprudência), dissolve irregularmente a empresa.
+9. Na hipótese, cobram-se tributos cujos fatos geradores ocorreram entre 2005 e 2007.
+10.Perante o MM Juízo a quo, a agravante requereu a inclusão de Neusa da [NOME] e [NOME] no polo passivo da lide (fl. 179/v).
+11.Compulsando os autos, verifica-se que os requeridos eram , conforme contrato social acostado (fls. 39/50), administradores da pessoa jurídica executada, quando de sua constituição, bem como eram por ela responsáveis após sua dissolução irregular (fl. 182), podendo ser responsabilizados nos termos do art. 135, III, CTN.
+12.Resta resguardado, entretanto, o direito dos incluídos em arguir eventual ilegitimidade passiva ad causam em momento e meio processual oportuno.
+13.Perlustrando os autos, inexiste qualquer outro endereço da empresa executada e tampouco apontaram os recorridos o alegado "endereço atual", que justificasse a atividade da pessoa jurídica (fls. 263/264).
+Aponta a parte recorrente violação ao art. 135 do Código Tributário Nacional.
+É o relatório. Decido.
+A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema n. 649, vinculado ao Recurso Especial Repetitivo n. 1.347.627, da relatoria do Min. Ari Pargendler, firmou entendimento no sentido de que "a pessoa jurídica não tem legitimidade para interpor recurso no interesse do sócio", nos termos da seguinte ementa:
+PROCESSO CIVIL. EMBARGOS DO DEVEDOR. A pessoa jurídica não tem legitimidade para interpor recurso no interesse do sócio. Recurso especial desprovido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ n. 8/08. (DJe 21/10/2013).
+Ainda nesse mesmo sentido, o seguinte julgado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. ILEGITIMIDADE DA EMPRESA PARA INTERPOSIÇÃO DE RECURSO. ORIENTAÇÃO FIRMADA EM JULGAMENTO DE RECURSO REPETITIVO.
+1. O STJ firmou posicionamento, no julgamento do REsp 1.347.627/SP, no rito do art. 543-C do CPC/73, de que "a pessoa jurídica não tem legitimidade para interpor recurso no interesse do sócio".
+2. Essa orientação vem sendo respeitada pela Segunda Turma do STJ. Nesse sentido: AgInt no AREsp 923.859/PR, Rel. Ministra Assusete Magalhães, DJe 11/11/2016 e AgRg no REsp 1.539.081/SP, Rel. Ministro Og Fernandes, DJe 14/9/2015.
+3. Hipótese em que o Tribunal de origem deu provimento ao Agravo interposto pela Fazenda Pública para deferir o redirecionamento contra o sócio administrador da executada Pink Alimentos do Brasil Ltda., de modo que somente este (o sócio administrador) detém legitimidade para recorrer.
+4. Registre-se que a presente decisão não acarreta prejuízo ao corresponsável, uma vez que o juízo de primeiro grau deverá promover a citação do redirecionado, que poderá se valer de todos os meios processuais para se defender.
+5. Recurso Especial não conhecido.
+(REsp 1.675.281/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/10/2017).
+Nessa linha, não conheço do recurso especial em razão da ausência de legitimidade recursal da pessoa jurídica recorrente.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique. Intimem-se.
