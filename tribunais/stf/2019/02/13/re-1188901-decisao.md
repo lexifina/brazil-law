@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL CIVIL. APOSENTADORIA ESPECIAL. PARIDADE E INTEGRALIDADE. TEMA 1.019. RE 1.162.672. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “POLICIAL CIVIL – PRETENSÃO AO RECONHECIMENTO DE INTEGRALIDADE E PARIDADE – IMPOSSIBILIDADE – ATRIBUTOS QUE FORAM EXTINTOS PARA BENEFÍCIOS FUTUROS COM O ADVENTO DA EC 41/03, E QUE SOMENTE PODEM SER CONFERIDOS ÀS APOSENTADORIAS DE SERVIDORES QUE, NOS TERMOS DOS ARTS. 6º E 3º, RESPECTIVAMENTE, DAS REFERIDAS EMENDAS CONSTITUCIONAIS, ATENDAM AOS REQUISITOS CUMULATIVOS NELA PREVISTOS, SOB PENA DE ESTABELECER-SE REGIME MISTO E EXCLUSIVO PARA OS POLICIAIS CIVIS, O QUE É INADMISSÍVEL – SENTENÇA DE PROCEDÊNCIA REFORMADA – RECURSO DA FAZENDA PROVIDO.” (Doc. 1, fl. 139)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 1, fl. 161 e Doc. 10, fl. 80)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 40, § 4º e à Emenda Constitucional 20/1998. (Doc. 1, fl. 165 e Doc. 10, fl. 86)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice na Súmula 280 do STF. (Doc. 1, fl. 190)
+    Em virtude de decisão pela qual a Presidência desta Corte determinou a devolução dos autos à origem para observância da sistemática da repercussão geral (Doc. 3 e Doc. 10, fl. 7), o Tribunal de origem devolveu o feito à Turma julgadora para a apreciação da controvérsia à luz do entendimento firmado pelo Supremo Tribunal Federal na análise do RE 590.260 (Tema 139). (Doc. 10, fl. 10)
+    Em juízo de retratação, a Turma julgadora houve por bem manter a decisão anteriormente proferida, em acórdão cuja ementa transcrevo:
+    “APOSENTADORIA DE POLICIAL CIVIL – ACÓRDÃO QUE DEU PROVIMENTO AO RECURSO INOMINADO INTERPOSTO PELA FAZENDA PARA JULGAR IMPROCEDENTE A AÇÃO – POLICIAIS CIVIS INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/03 – INTEGRALIDADE E PARIDADE QUE SOMENTE PODEM LHES SER RECONHECIDAS COM O CUMPRIMENTO DAS REGRAS DE TRANSIÇÃO PREVISTAS NO ART. 6º, DA EC 41/03. E ART. 3º DA EC 47/05 – DETERMINAÇÃO DO STF PARA QUE ESTA TURMA PROCEDA NA FORMA DO ART. 1.030, INCS I E II, DO CPC – ACÓRDÃO PROFERIDO EM PERFEITA HARMONIA COM O QUE RESTOU DECIDIDO NA REPERCUSSÃO GERAL N. 590.260 DO SUPREMO TRIBUNAL FEDERAL – TEMA 139 – ADEQUAÇÃO INEXISTENTE – ACÓRDÃO MANTIDO.” (Doc. 10, fl. 14)
+    Em novo juízo de admissibilidade, o Tribunal a quo, aplicando a sistemática da repercussão geral (Tema 139), julgou prejudicado o recurso extraordinário. (Doc. 10, fl. 18)
+    Desta decisão, o recorrente interpôs agravo em recurso extraordinário (artigo 1.042 do CPC/2015), que foi recebido como agravo interno (Doc. 10, fl. 63). A decisão foi mantida monocraticamente e, encaminhada à Turma julgadora que, em novo juízo de retratação, proferiu acórdão assim ementado:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. Aposentadoria Especial – Delegado de Polícia. Sentença de procedência – Acórdão que, em sede de Recurso Inominado, reformou a sentença e declarou improcedente a pretensão ao reconhecimento do direito à aposentadoria especial com integralidade e paridade, sob o fundamento de que o autor, embora tenha ingressado nos quadros públicos antes da EC 41/03, não cumpre as regras de transição previstas na mesma emenda constitucional e na EC 47/05.
+    Decisão monocrática da lavra do D. Presidente do Colégio Recursal Central dos Juizados Especiais da Capital que não admitiu o Recurso Extraordinário interposto pelo autor.
+    Decisão monocrática da lavra da ministra Cármen Lúcia, DD. presidente do E. Supremo Tribunal Federal, em sede de agravo em Recurso Extraordinário, determinando a devolução dos autos ao Tribunal de origem para observância dos procedimentos previstos no art. 1.030, incs. I e II, do Código de Processo Civil, dado o reconhecimento da repercussão geral, com mérito julgado, tema nº 139.
+    Acórdão da Turma Recursal que manteve a decisão anterior, por entender que estava em perfeita harmonia com o que ficou decidido, em sede de repercussão geral pelo STF no Tema nº 139.
+    Decisão monocrática da lavra do D. Presidente do Colégio Recursal Central dos Juizados Especiais da Capital que negou seguimento ao recurso extraordinário por estar o Acórdão recorrido em estrita consonância aos termos da r. Decisão proferida pelo C. Supremo Tribunal Federal no RE 590.620, paradigma do Tema nº 139.
+    Decisão que enfrentou a questão em amplitude e profundidade – Insurgência que se apresenta como reiteração de argumentos anteriormente apresentados – Decisão mantida.
+    Nega-se provimento ao recurso.” (Doc. 10, fls. 69-70)
+    Irresignado, o recorrente opôs embargos declaratórios os quais restaram desprovidos e, após, interpôs novo recurso extraordinário. (Doc. 10, fls. 77/83)
+    Em novo exame de admissibilidade, o Tribunal a quo, considerando o teor da decisão supracitada, admitiu o apelo extremo. (Doc. 10, fl. 96)
+    É o relatório. DECIDO.
+    A matéria versada no recurso extraordinário foi submetida por esta Corte ao regime da repercussão geral (Tema 1.019, RE 1.162.672, Rel. Min. Dias Toffoli).
+    Ex positis, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
