@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que não conheceu do agravo em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante, em síntese: "Com efeito, consoante demonstrado acima, essa Colenda Décima Primeira Câmara incorreu em evidente erro material ao proferir o acórdão, uma vez que a majoração dos honorários advocatícios no percentual de 15% sobre o valor atualizado da causa já havia ocorrido, quando da prolatação do acórdão Nº [CPF], junto a nona câmara cível do TJ/RS". (fl. 794)
+Mais adiante, complementa: "Dessarte, ante todo o exposto, é que requer o acolhimento dos presentes embargos de forma que seja sanado o erro material, acima apontado. Devendo o embargado ser condenado ao grau máximo, ou seja, 20% sobre o valor da causa, devido ao grau de zelo do profissional, o lugar de prestação do serviço e a natureza e a importância da causa, nos termos do art. 85, § 2º, do CPC." (fl. 795)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+Às fls. 816/822, FÁCIL COMÉRCIO DE CAMINHÕES LTDA. interpôs, por sua vez, agravo interno.
+É o relatório. Decido.
+Os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais na forma como prevista no decisum impugnado.
+Ressalte-se que os honorários recursais foram majorados em desfavor da parte Recorrente no importe de 15% sobre o montante já arbitrado, nos termos do § 11 do art. 85 do Código de Processo Civil. Não se trata de substituir os honorários sucumbenciais já fixados na origem. Os honorários sucumbenciais fixados nas instâncias ordinárias apenas servirão como base de cálculo sobre a qual incidirão os 15% majorados nesta instância.
+Sendo assim, a base de cálculo é diferente e houve, sim, um acréscimo ao patamar já estipulado pela juízo a quo, percentual este dentro dos parâmetros previstos no novo Diploma Processual.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Por fim, em relação ao agravo interno de fls. 816/822, não sendo, portanto, caso de retratação, determino a distribuição do agravo, nos termos do artigo 21-E, § 2º, do RI/STJ.
+Publique-se. Intimem-se.
