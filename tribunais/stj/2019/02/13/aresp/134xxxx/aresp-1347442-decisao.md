@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 284/STF.
+Nas razões recursais, sustenta o agravante negativa de vigência ao art. 33, § 2º, c e § 3º e 59, ambos do Código Penal, ao argumento de ser inidôneo o fundamento para a imposição de regime prisional mais gravoso, justificado na gravidade abstrata do delito.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo provimento do agravo e do recurso especial, requerendo, ainda, o início da execução da pena.
+Intimada, manifestou-se a Defensoria Pública sobre o referido pedido de execução (fls. 262/268).
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+A controvérsia posta à debate cinge-se em se definir sobre a validade do fundamento para a fixação de regime prisional mais severo que o previsto em lei em face da quantidade de pena aplicada.
+Acerca da referida questão, manifestou-se o Tribunal a quo, nos seguintes termos (fl. 175):
+Por fim, mantenho o regime inicial semiaberto para início do cumprimento da pena.
+Ao fixar o regime prisional, não pode o magistrado se limitar apenas ao quantum da pena aplicada, devendo, pois, considerar ainda a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, assim como as circunstâncias e consequências do crime. A propósito, cito alguns julgados do E. Supremo Tribunal Federal, como segue:
+ ..
+Com efeito, o roubo é crime grave, revelando temibilidade e periculosidade do agente, características de personalidade que recomendam a imposição de um período de segregação carcerária mais rigorosa.
+Deste modo, é inviável acolher o pedido defensivo de fixação do regime inicial aberto, devendo ser mantido o intermediário, uma vez que o crime foi praticado com violência, tendo o réu agarrado a vítima pelo cabelo, assim como mediante simulação do emprego de arma, circunstância que impediu qualquer possibilidade de reação por parte da ofendida.
+Nos termos do § 3º do art. 33 do CP, a determinação do regime inicial de cumprimento da pena observará os critérios previstos no art. 59 do Código Penal. Exige-se, portanto, vinculação concreta para a fixação de regime inicial mais gravoso do que o pertinente à pena aplicada, sendo inadmissível a mera referência à gravidade abstrata do delito, ou a elementos ínsitos ao tipo penal e que não extrapolam o comum da espécie.
+Desse modo, sendo a pena fixada em patamar não superior a 4 anos ao réu primário, cujas circunstâncias judiciais previstas no art. 59 do Código Penal foram consideradas favoráveis, a fixação do regime inicial mais gravoso exige fundamentação concreta, não sendo suficiente a mera alusão genérica à gravidade do roubo, daí a ilegalidade. Nesse sentido, os enunciados das Súmulas do STF:
+Súmula 718/STF - A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada;
+Súmula 719/STF - A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Quanto ao início de cumprimento da pena, com efeito, a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Os fundamentos do voto condutor do acórdão no Supremo Tribunal Federal, de relatoria do Ministro Teori Zavascki, encontram-se sintetizados na seguinte ementa:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC 126292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 de 17-05-2016) .
+O Pleno Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, Rel. Min. TEORI ZAVASCKI, DJe 25/11/2016).
+Destaque-se que tendo sido prolatado o juízo condenatório por Tribunal de Apelação e ainda que na pendência de recursos especial ou extraordinário, somente casuísticos efeitos suspensivos concedidos impedirão a execução provisória, nos termos dosarts. 637 do CPP e 27, § 2º, da Lei 8.038/90, c/c a Súmula 267 do STJ.
+Ressalte-se, ainda, ser a orientação firmada pelo art. 9º, § 2º, da Resolução n. 113, de 20 de abril de 2010, do CNJ, no sentido de que, Estando o processo em grau de recurso, sem expedição de guia de recolhimento provisória, às Secretarias desses órgãos caberão expedi-la e remetê-la ao juízo competente.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de fixar o regime inicial aberto. Defiro, ainda, o pedido de execução provisória da pena, delegando-se ao Tribunal local a execução dos atos, a quem caberá a expedição de mandado de prisão e guia de recolhimento provisório.
+À Coordenadoria da Sexta Turma, para extração de cópia integral dos autos, a ser encaminhada ao Tribunal de origem.
+Publique-se.
+Intimem-se.
