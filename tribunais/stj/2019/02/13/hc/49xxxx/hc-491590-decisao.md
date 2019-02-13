@@ -1,0 +1,13 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 5004406-10.2018.04.7110, em que foi mantida a decisão que determinou a conversão em privativa de liberdade das penas restritivas anteriormente impostas.
+A defesa alega que, " e m nenhum momento houve a abertura de prazo para a justificação pelo executado do não pagamento da pena de prestação pecuniária, - somente ordem para pagar as prestações atrasadas -, como também não houve a designação da necessária audiência de justificação" (fl. 10, grifei), razão pela qual requer " a  concessão da ordem, em definitivo, confirmando a recolhimento da ordem judicial de prisão, e a soltura do paciente, e, ao final, determinando a realização da audiência de justificação para possibilitar ao paciente explicar os motivos pelos quais não cumpriu totalmente as penas de prestação de serviços à comunidade e também a de prestação pecuniária" (fl. 20, sublinhei).
+Decido.
+Consoante disposto na legislação vigente e a própria jurisprudência do Superior Tribunal de Justiça, " a s penas restritivas de direitos se convertem em penas privativas de liberdade, se ocorrer o descumprimento injustificado da restrição imposta (art. 44, § 4º do CP)" (REsp n. 1.699.665/PR, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/8/2018).
+É imperioso consignar também que " a  jurisprudência deste Tribunal entende que, para a conversão de medidas restritivas de direito em pena privativa de liberdade, é indispensável a intimação do condenado, assegurando-lhe o direito ao contraditório e à ampla defesa" (HC n. 399.057/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 21/8/2017, grifei).
+Todavia, a questão relativa à necessidade de prévia audiência de justificação não foi sequer aventada no writ originário, de forma que sua apreciação direta pelo Superior Tribunal de Justiça configuraria indevida supressão de instância. Confira-se:
+ ..
+2. Sob pena de indevida supressão de instância, esta Corte não pode apreciar o alegado excesso de prazo na formação da culpa, pois essa questão não foi suscitada na inicial do mandamus nem apreciada pelo Tribunal a quo. Precedentes  ..  (RHC n. 102.222/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 22/10/2018).
+ ..
+1. As nulidades arguídas no mandamus não foram submetidas ao Tribunal estadual na apelação criminal, de modo que não podem ser conhecidas sob pena de indevida supressão de instância  ..  (AgInt no HC n. 465.962/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 1º/10/2018).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
