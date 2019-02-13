@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAYARA CRISTINE DA SILVA SENA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000300-42.2016.8.26.0570).
+Colhe-se dos autos que a paciente foi condenada, como incursa nas sanções do art. 33, caput, c/c o § 4º, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão, em regime semiaberto, mais pagamento de 166 dias-multa, por ter sido apreendida na posse de 14 porções de cocaína, com peso de 9,12g (nove gramas e doze centigramas) - e-STJ fls. 18/20.
+Irresignadas, apelaram as partes, sendo negado provimento ao recurso defensivo e dado parcial provimento ao recurso do Ministério Público, a fim de estabelecer o regime fechado para o início de cumprimento da pena da paciente. Eis a ementa (e-STJ fl. 23):
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES. Mérito incontroverso.
+Recurso defensivo - Eleição do regime aberto e substituição da corporal por restritiva de direitos - Descabimento - Recurso desprovido.
+Recurso Ministerial - Afastamento da causa de diminuição de pena do artigo 33, § 4º, da Lei de Tóxicos - Descabimento - Condições pessoais favoráveis à ré que foram corretamente consideradas na sentença - e eleição do regime fechado para desconto da corporal - Possibilidade - Recurso parcialmente provido.
+Daí o presente habeas corpus, no qual aduz a impetrante que a paciente estaria sofrendo constrangimento ilegal, sustentando, para tanto, a ilegalidade quanto ao estabelecimento de regime fechado para o início de cumprimento da reprimenda, pela inobservância do disposto nas Súmulas n. 718 e 719/STF (e-STJ fls. 5/8).
+Requer, inclusive liminarmente, a concessão da ordem a fim de estabelecer o regime aberto em benefício da paciente.
+O pedido liminar foi deferido (e-STJ fls. 30/32).
+Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pelo não conhecimento do writ (e-STJ fls. 38/40).
+É, em síntese, o relatório.
+O Pleno do eg. Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal). Afastou, dessa forma, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e dos demais delitos a eles equiparados.
+Em tal contexto, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Na espécie, o Tribunal local, reformando nesse ponto a sentença, assim se manifestou quanto à fixação do regime inicial para o cumprimento de pena (e-STJ fl. 26):
+O regime inicial eleito para o cumprimento da corporal foi semiaberto, o ponto, porém, comporta modificação.
+Com efeito, embora a ré apresente perfil pessoal favorável, o delito praticado é grave e demonstra que a acusada preferiu se valer da criminalidade a qualquer outra atividade lícita para, ao que alega, manter sua filha pequena.
+De se lembrar que ela mesma admitiu que praticava habitualmente o comércio ilícito para auferir renda.
+Assim, tem-se que o regime fechado é resposta penal adequada, sendo o caso nesse ponto de se dar provimento ao recurso da acusação.
+Como se depreende da transcrição acima, o Tribunal de origem fixou o regime inicial fechado com alicerce apenas nas elementares do tipo penal e na gravidade em abstrato do delito de roubo, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como do enunciado da Súmula n. 440 desta Corte Superior, que assim dispõem:
+Enunciado 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Enunciado 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Enunciado 440/STJ: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Por oportuno, observa-se que a pena-base foi fixada no mínimo legal, em razão da análise favorável das circunstâncias judiciais. Sob tal perspectiva, considerando que a pena definitiva foi fixada em 1 ano e 8 meses de reclusão, deve o regime de cumprimento da reprimenda ser o aberto, em atenção ao disposto no art. 33, §§ 2º, "c", e 3º, do Código Penal.
+À vista de tais pressupostos, concedo a ordem, ratificando a liminar, para fixar o regime inicial aberto de cumprimento de pena.
+Publique-se. Intimem-se.
