@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREJUDICIALIDADE. QUESTÃO DEBATIDA EM OUTRO FEITO.
+Agravo não conhecido (art. 34, XVIII, a, do RISTJ).
+DECISÃO
+[NOME] interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, contra acórdãos proferidos pelo Tribunal de Justiça de São Paulo no julgamento da Apelação Criminal n. 0008588-02.2011.8.26.0619, nos Embargos de Declaração n. 0008588-02-2011.8.26.0619/50000, nos Embargos de Declaração n. 0008588-02-2011.8.26.0619/50001 e nos Embargos de Declaração n. 0008588-02-2011.8.26.0619/50002.
+A Corte de origem, no entanto, inadmitiu o recurso, reputando-o intempestivo (fl. 3.316):
+Considerando que acórdão de fls. 2584/2585 determinou o trânsito em julgado para a defesa, o que foi certificado em 14 de novembro de 2017 (fls. 2587), deixo de conhecer dos recursos especial e extraordinário interpostos em 11 de dezembro de 2017 (fls. 2597 e 2713) por intempestivos.
+Daí, sobreveio o presente agravo, no qual o agravante sustenta a tempestividade do reclamo, ao argumento de que foi declarada sponte propria e, à evidência, por puro revanchismo, pelo Desembargador Relator que então era o competente para o julgamento dos recursos ordinários, no âmbito do egrégio TJSP (fl. 3.356).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 3.408):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMAS. OPOSIÇÃO DE QUATRO EMBARGOS DE DECLARAÇÃO SUCESSIVOS PELA DEFESA. NOTÓRIO PROPÓSITO PROTELATÓRIO. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. NÃO CONHECIMENTO DO RECURSO ESPECIAL. NULIDADES E TESE ABSOLUTÓRIA. ACOLHIMENTO. INVIABILIDADE. APLICAÇÃO DA REDUTORA DO § 4º DO ART. 33 DA LEI 11.343/06. CONDENADO POR ASSOCIAÇÃO PARA O TRÁFICO. INCOMPATIBILIDADE.
+1. A reiterada e sucessiva oposição de embargos de declaração manifestamente incabíveis - porque dissociados das hipóteses autorizadoras previstas no art. 619 do CPP - autoriza a certificação do trânsito em julgado, independentemente da interposição de novos recursos, a fim de manter a harmonia do sistema e obstar a adoção de novas práticas procrastinatórias pela parte.
+2. Eventual acolhimento das teses recursais demandaria, necessariamente, alteração do juízo soberano a respeito do acervo fático-probatório dos autos, emitido pelo Tribunal de origem - providência vedada na via do recurso especial (enunciado sumular 7/STJ).
+3. "  A  associação com o tráfico de drogas inviabiliza a aplicação da causa redutora de pena (§ 4º do art. 33 da Lei de Drogas). Precedentes " (HC 450.223/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/10/2018, DJe 09/11/2018).
+4. Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo está prejudicado, pois a questão atinente à determinação de certificação do trânsito em julgado (decorrente da oposição de sucessivos aclaratórios manifestamente descabidos) já foi examinada por esta Corte, quando da análise do HC n. 426.118/SP, no qual proferi decisão indeferindo liminarmente a impetração, ao seguinte fundamento (fl. 322):
+ ..
+Nos termos da jurisprudência desta Corte Superior de Justiça, é possível que os Tribunais de apelação possam obstar a protelação infinita dos processos de sua competência, fixando um termo final para os seus julgados e estabelecendo a preclusão, pois a interposição de sucessivos recursos com a finalidade meramente protelatória autoriza o imediato cumprimento da decisão, consoante jurisprudência firmada pelo STJ e pelo STF (HC n. 338.756/PR, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 30/11/2016).
+A propósito:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS ACLARATÓRIOS NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INFUNDADO. NÍTIDO CARÁTER PROTELATÓRIO. DESVIRTUAMENTO DO CÂNONE DA AMPLA DEFESA. ABUSO DE DIREITO. DETERMINAÇÃO DE BAIXA DOS AUTOS À ORIGEM PARA IMEDIATA EXECUÇÃO DA SENTENÇA CONDENATÓRIA. EMBARGOS NÃO CONHECIDOS.
+1. A recorribilidade vazia, infundada, como in casu, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e boa fé processual, além de se afigurar desvirtuamento do próprio cânone da ampla defesa.
+2. Não obstante na esfera penal não ser viável a fixação de multa por litigância de má-fé, é perfeitamente possível, antes mesmo do trânsito em julgado da condenação, a baixa dos autos, independentemente da publicação do acórdão, para que inicie o cumprimento da pena imposta.
+3. Embargos de declaração não conhecidos, com a determinação de imediata baixa dos autos à Vara de origem, para fins de execução da sentença condenatória, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, devendo a Coordenadoria da Sexta Turma certificar o trânsito em julgado.
+(EInf nos EDcl nos EDcl no AgRg no AREsp 408256, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/2/2014 - grifo nosso)
+Nessa mesma linha, recentemente, o Pleno do Supremo Tribunal Federal decidiu que, estando evidente o abuso do direito de recorrer, o que se verifica com a interposição de recursos protelatórios, impõe-se pôr termo ao processo, com a certificação do trânsito em julgado e a baixa imediata dos autos, independentemente da publicação do acórdão (ARE 934762 AgR-ED-EDv-AgR / SP, Ministro Luiz Fux, DJe 234, DIVULG 11/10/2017, PUBLIC 13/10/2017).
+Ante o exposto, indefiro liminarmente a petição inicial.
+A decisão foi atacada por agravo regimental, mas sobreveio pedido de desistência formulado pelo impetrante daquele writ, que acabou dando ensejo à prejudicialidade do recurso (agravo regimental)
+Ante o exposto, não conheço do agravo (art. 34, XVIII, a, do RISTJ).
+Publique-se.
