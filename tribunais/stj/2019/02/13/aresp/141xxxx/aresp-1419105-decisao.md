@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], contra decisão que inadmitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 411):
+RECURSO DA EMBARGADA - Embargos à execução - Alegação da FESP que os cálculos apresentados pela exequente, ora embargada, estão incorretos e, que os valores cobrados são referentes ao Fator de Atualização Monetária sobre verba remuneratória e apresentam uma série de incoerências - Assim, os juros moratórios foram calculados equivocadamente, violando a coisa julgada e, que o montante foi aferido sem observância da Lei nº 11.960/2009, o que reputa ser incorreto, bem como o valor cobrado não foram descontados os pagamentos administrativos já realizados - Sentença de procedência - Inconformismo da embargada - Inadmissibilidade - Coisa julgada material (execução) - Exegese do artigo 502 e 507, do CPC/15 - Prevalecem os índices aplicados pelos v.
+Acórdãos (fls. 226/232, 244/252, 271/276 e 299 - processo apenso) em respeito à "res judicata" - Contadoria Judicial ratificou que o valor já foi pago administrativamente (fls.
+349) - Sentença que julgou procedentes os embargos, mantida - Recurso da embargada, improvido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte ora agravante sustenta violação aos arts. 85, §8º, e 924, I e III, do CPC/2015. Sustenta, em síntese que: (I) "não consta dos autos qualquer comprovante de pagamento administrativo do débito, ainda que parcial. Demais disso, os alegados pagamentos administrativos nunca foram sequer mencionados no curso da instrução processual, o que se fazia de rigor" (fl.421); e (II) "ainda que mantido o desconto dos supostos pagamentos administrativos, o que se admite apenas por amor ao argumento, deve a ré, em razão do princípio da causalidade, ser condenada no pagamento de honorários advocatícios sobre o valor integral da dívida, cristalizado na Certidão juntada aos autos." (fl.422).
+É O RELATÓRIO.
+O recurso especial não comporta trânsito.
+Com efeito, a matéria pertinente aos arts. 85, § 8º, e 924, I e III, do CPC/2015, não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
