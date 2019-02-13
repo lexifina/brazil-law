@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO. DESCUMPRIMENTO CONTRATUAL. PROVA MÍNIMA DO FATO CONSTITUTIVO DO DIREITO. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA Nº 7 DO STJ. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+LUÍS GUSTAVO BARBOZA ZANON (LUÍS) ajuizou ação declaratória de inexigibilidade de título contra [NOME] ([NOME]), alegando que o protesto seria indevido, tendo em vista que [NOME] não cumpriu suas obrigações decorrentes de contrato de empreitada, em relação ao qual foram emitidos os cheques protestados.
+A sentença julgou improcedente o pedido (e-STJ, fls. 80/83).
+Interposta apelação por LUÍS, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado (e-STJ, fl. 125):
+CAMBIAL - Cheque - Descumprimento de obrigação não demonstrado - Aplicação do art. 333, I, do CPC/73 (art. 373, I, do CPC/73 (art. 373, I, do NCPC) - Ação declaratória de inexigibilidade de título c/c o pedido de indenização por danos morais improcedente - Preliminar rejeitada - Apelação não provida.
+Inconformado, LUÍS interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 355, I, 373, II, 476, 477 do NCPC, 6º, V e VIII, do CDC e divergência jurisprudencial, aduzindo, em síntese, que (1) [NOME] não comprovou o fato impeditivo, modificativo ou extintivo do direito, enquanto LUÍS comprovou a existência do negócio jurídico e pleiteou a produção de prova pericial; (2) [NOME] não cumpriu o acordado no contrato, ensejando a exceção de contrato não cumprido; e (3) deveria ter sido deferida a inversão do ônus da prova em benefício do consumidor.
+[NOME] não ofereceu contrarrazões.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de demonstração da ofensa a lei federal, a incidência da Súmula nº 7 do STJ e inexistência de similitude fática entre os julgados. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (2) Da comprovação do fato constitutivo do direito
+O Tribunal de origem concluiu que LUÍS não se desincumbiu do ônus de comprovar o fato constitutivo do direito, pois não juntou elementos mínimos de prova do descumprimento obrigacional por parte de [NOME], nos termos da seguinte fundamentação:
+A demanda judicial não pode ser uma aventura jurídica. Há de conter postulações precisas, claras, definidas, delimitadas e determinadas, viabilizando, assim, o exercício do direito de defesa.
+Com efeito, compulsando os autos, verifica-se que o autor não logrou êxito em demonstrar a inexistência do débito representado pelo cheque em questão, não se desincumbindo do "onus probandi", a teor do art.
+333, I, do CPC/73 (art. 373, I, do NCPC).
+Como anotado no "decisum", "o autor não juntou aos autos elementos mínimos de provas a respeito de qual seria, efetivamente, o descumprimento da obrigação por parte do réu. Ademais, o requerente não trouxe aos autos quais seriam as modificações faltantes no imóvel que caberiam ao réu executar, ônus probatório que não se desincumbiu (CPC, art. 333, inciso Nelson Nery Junior e Rosa Maria de Andrade Nery (Código de Processo Civil Comentado, 6a Edição, Editora Revista dos Tribunais, páginas 695/696) ensinam que "O não atendimento do ônus de provar coloca a parte em desvantajosa posição para a obtenção do ganho da causa." Na verdade, o apelante não nega a emissão do cheque, tendo se limitado a formular colocações genéricas, sobre um descumprimento de obrigação pelo apelado, mas elas não podem surtir o efeito esperado pelo recorrente.
+Como já decidiu esta Corte em caso similar, "fosse verdadeira a assertiva da apelante, segundo a qual os indigitados cheques foram emitidos para pagamento de mercadorias não entregues, seria de se esperar demonstrasse ela o suposto "desacordo" e a reclamação pelo inadimplemento, seja por meio da troca de mensagens eletrônicas, seja por meio de notificação etc. prova documental essa que já haveria de ter sido produzida, insisto" (apelação nº 1036247-82.2014.8.26.0224, Rei. Des. Ricardo Pessoa de Mello Belli, j. 22/06/2015) (e-STJ, fls. 126/127).
+Nessa linha, o acórdão recorrido alinhou-se ao entendimento do STJ no sentido de que a prova do fato constitutivo do direito compete ao autor, não se exigindo do réu a prova do fato impeditivo, modificativo ou extintivo do direito, se a parte autora não trouxe comprovação mínima das teses deduzidas na petição inicial. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE OMISSÃO E DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. NECESSIDADE DE COMPROVAÇÃO MÍNIMA DAS TESES DEDUZIDAS. AGRAVO DESPROVIDO.
+1. O decisum recorrido esclareceu adequadamente a controvérsia, apontando justificação consistente, não se confundindo com omissão ou deficiência de fundamentação o simples fato de ter apresentado embasamento diferente do pretendido pela parte.
+2. A jurisprudência desta Corte Superior se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito.
+3. Assim, antes de ser imputado à ré o ônus de produção da prova em sentido contrário, caberia ao autor comprovar minimamente o seu direito, por meio da apresentação de documento comprobatório do pedido de cancelamento do terminal telefônico, ônus do qual não desincumbiu.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.717.781/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 05/06/2018, DJe 15/06/2018)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. CONSUMO EXCEDENTE AO MÍNIMO CONTRATADO. NECESSIDADE DE COMPROVAÇÃO IDÔNEA. REGIMENTAL NÃO PROVIDO.
+1. O autor da ação de cobrança deve comprovar o fato constitutivo de seu direito demonstrando o inadimplemento do serviço efetivamente prestado.
+2. "Nos termos do art. 333 do Código de Processo Civil, cabe ao autor demonstrar a veracidade dos fatos constitutivos de seu direito (inciso I) e ao réu invocar circunstância capaz de alterar ou eliminar as conseqüências jurídicas do fato aduzido pelo demandante (inciso II)" (AgRg no Ag 1.313.849/MG, Segunda Turma, Rel. Min. Herman Benjamin, DJe de 2/2/2011).
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 43.617/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 15/09/2015, DJe 13/10/2015)
+Dessarte, não merece reforma o acórdão recorrido, em consonância com o entendimento do STJ.
+Ademais, modificar a conclusão do acórdão recorrido para reconhecer a ocorrência do descumprimento contratual que poderia eventualmente justificar exceção de contrato não cumprido, implicaria reexame de fatos e provas, vedado em recurso especial, nos termos da Súmula nº 7 do STJ.
+(3) Da inversão do ônus da prova
+LUÍS sustentou que deveria ter sido determinada a inversão do ônus da prova em favor do consumidor.
+No entanto, verifica-se que o conteúdo normativo do art. 6º, V e VIII, do CDC, indicado como violado, não foi objeto de debate no Tribunal de origem, o que evidencia a ausência de prequestionamento, a atrair o óbice da Súmula nº 282 do STF.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de LUÍS, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
