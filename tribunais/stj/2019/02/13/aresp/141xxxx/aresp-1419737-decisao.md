@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por CURSO A. CARVALHO SOCIEDADE LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a", da Constituição Federal, insurge-se acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. PREJUDICIAL DE PRESCRIÇÃO. ART. 282, § 2º, DO CPC DE 2015. CONHECIMENTO DIRETO DO MÉRITO. AÇÃO DE COBRANÇA. CONTRATO DE PARCERIA. PACTUAÇÃO VERBAL. NÃO COMPROVAÇÃO. ÔNUS DA PROVA. IMPROCEDÊNCIA. APELO IMPROVIDO. SENTENÇA MANTIDA.
+- O art. 282, § 2º, do CPC, autoriza o enfrentamento direto do mérito, quando a decisão comporte solução favorável a quem arguiu matéria preliminar ou prejudicial. A norma se coaduna com as garantias de economia e celeridade recursais, além de se alinhar a tendências do moderno processo civil, ao dizer da preferência que este dá à sentença de mérito, como forma mais completa e segura da prestação jurisdicional.
+- Consoante regra do artigo 333 do CPC de 1973 (art. 373, do CPC de 2015), cabe ao autor provar o fato constitutivo de seu direito e, ao réu, o fato impeditivo, modificativo ou extintivo do direito do autor.
+- Não demonstrada a efetiva pactuação do contrato verbal de parceria, tampouco as cláusulas e condições em que supostamente celebrada a avença, imperiosa a manutenção da sentença que julgou improcedentes os pedidos formulados na inicial" (fl. 587 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 607-611 e-STJ).
+No recurso especial, a parte recorrente alega violação dos arts. 1.022 e 489 do Código de Processo Civil de 2015. Sustenta, em síntese, que o Tribunal de origem incorreu em omissão e negativa de prestação jurisdicional, pois deixou de se pronunciar sobre a documentação acostada aos autos, referente ao repasse de valores e aos relatórios de parceria.
+Requer o provimento do recurso para que seja anulado o acórdão dos embargos de declaração.
+Contrarrazões apresentadas às fls. 642-648 e-STJ.
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No tocante à violação dos art. 1.022 e 489 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, observa-se que a conclusão do acórdão recorrido decorreu de minuciosa análise do acervo fático probatório dos autos, conforme se pode extrair do seguinte trecho do voto condutor do julgado:
+"(..)
+Então, para que se reconheça eventual direito decorrente de contrato verbal, é preciso que haja inequívoca, induvidosa e insofismável comprovação de sua existência, bem como de todos os seus termos, cláusulas e condições, pena de improcedência do pedido.
+No caso dos autos, a tese recursal se arrima, em suma: na alegada exclusividade que a Apelante teria de explorar a atividade de cursos "satelitários" nas cidades em questão, de forma que eventual execução do serviço por terceiro - no caso, a Apelada - necessariamente passaria por sua aprovação; em repasse de valores da Apelada à Apelante e, por fim, no envio do "relatório de parceria".
+Com relação ao primeiro ponto, a alegação de exclusividade carece de prova. Consta dos autos autorização do LFG para que a Apelante explore os cursos nos municípios indicados. Contudo, não há qualquer menção expressa ou qualquer termo que dê a entender a exclusividade da Apelante (f. 21-TJ e f. 165-TJ). Se não bastasse, a inicial se refere a valores relativos aos anos de 2005 e 2006 (f. 03-TJ), ao passo que referida "autorização" data do final de 2007, com autenticação efetivada no dia 1411012009.
+A corroborar este entendimento, o antigo proprietário do curso LFG, [NOME], afirmou em depoimento que o LFG "autorizou a empresa Dominium  Ré  a abrir três unidades, sendo elas em São Lourenço, outra em Campo Belo e a terceira em Alfenas. A administração do IELF/LFG deve ter comunicado a autora da autorização concedida à ré para abertura de três unidades" (f. 299-TJ).
+Afirmou, ainda, que as cinco unidades discutidas (Varginha, Pouso Alegre, São Lourenço, Campo Belo e Alfenas) já eram administradas por Dominium ao tempo da "autorização". A única menção à suposta exclusividade da Apelante se refere aos anos de 2002 e 2003, isto é, período anterior aos anos a que se refere a cobrança constante da inicial.
+A testemunha [NOME] (f 3011303-TJ), administrador do curso LFG à época dos fatos, afirmou que o LFG não desconhecia a existência de alguma relação entre as partes. Contudo, também afirmou que o LFG mantinha contato direto com a Ré, que já explorava as unidades de Varginha e Pouso Alegre, e mantinha São Lourenço, Campo Belo e Alfenas em sua área de abrangência, (..):
+(..)
+A fim de corroborar a tese de que não havia exclusividade, juntou a Ré diversos e-mails trocados diretamente com representantes do LFG - antes e depois dos fatos controvertidos - para demonstrar que havia tratativas diretas entre as partes, sem intervenção da Autora (f. 48150-TJ; f. 157/158-TJ).
+Ao manifestar-se sobre todos os documentos mencionados, a Autora limitou-se a afirmar que "a requerente acredita tratar-se de mero equívoco cometido por funcionário cia rede LFG, já que, conforme se depreende do documento anexo, a Autora possui autorização para exploração de cursos na cidade de São Lourenço desde 2003" (f. 163 e 165-TJ).
+Ora, não houve qualquer equívoco na relação entre LFG e a Ré.
+A alta cúpula do LFG afirmou que trata diretamente com a Ré por ser ela a parceira indicada para atuar nos municípios mencionados, inclusive em razão de desinteresse da Autora. Os representantes do LFG sabiam indubitavelmente com quem tratavam, eis que há inúmeras menções do LFG à Ré Dominium e ao seu sócio Vicente, ademais de outros inúmeros documentos que posicionam a Ré Dominium como franqueada direta de LFG. Por todos, mencione-se o contrato de f. 1421145-TJ e folhas seguintes.
+Assim, tenho por não provada a alegação de exclusividade da Autora para exploração do serviço "satelitário" nos municípios e no período discutidos. Por consequência, poderia a Ré ter tratado diretamente com LFG para iniciar, autonomamente, a transmissão via satélite. A alegação de mero equívoco do LFG não é roborada por qualquer prova; pelo contrário, é contrariada por prova testemunhal, que afirmou a existência de relação direta entre LFG e Dominium.
+Com relação aos "relatórios de parceria" trata-se de documentos datados majoritariamente de 2003, quando, segundo a prova testemunhal, a Autora possuía exclusividade sobre o serviço de aula presencial. Ademais, os mesmos documentos não mencionam a quais serviços se referem, omissão relevante para o deslinde da controvérsia: não se discute que havia uma parceria - de termos desconhecidos - entre as partes no início da relação, quando as aulas eram presenciais. Contudo, o principal ponto controvertido se refere a serviços satelitários para transmissão de aulas telepresenciais nos anos de 2005 e 2006, o que não parece ser objeto dos "relatórios de parceria".
+Destarte, conclui-se que referidos documentos também não fazem prova robusta e inconteste da existência de contrato de parceria, tampouco esclarecem as respectivas cláusulas.
+Logo, diante das provas produzidas, tenho que deve ser mantida a sentença de improcedência (..)" (fls. 591-594 e-STJ).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017- grifou-se).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. MANIFESTO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+2. A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+3. Embargos de Declaração rejeitados."
+(EDcl no AgRg no AREsp 840.702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 9/8/2016, DJe 8/9/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais) (fl. 521 e-STJ), os quais devem ser majorados para R$ 2.500,00 (dois mil e quinhentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
