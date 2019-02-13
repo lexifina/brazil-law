@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por DERICK DA SILVA LEME contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2228859-18.2017.8.26.0000.
+Consta dos autos que o recorrente - e outros 14 investigados - foi denunciado pela suposta prática da conduta descrita no art. 2º, §§ 2º e 4º, IV, da Lei n. 12.850/2013. De acordo com a inicial acusatória, o recorrente integrou e financiou organização criminosa armada, autodenominada de Primeiro Comando da Capital (PCC), na região de Campinas e adjacências, para o fim de cometer crimes, em especial o tráfico de drogas, além de delitos contra o patrimônio e relacionados a aquisição, posse, porte, guarda, manutenção em depósito, transporte, fornecimento, empréstimo e emprego de armas de fogo, com conexão com outra organização criminosa independente. Por ocasião do recebimento da exordial, foi decretada sua prisão preventiva (e-STJ fls. 744/747).
+Impetrado prévio writ na origem buscando a revogação da custódia cautelar, a ordem foi parcialmente conhecida e, nessa extensão, denegada.
+Nas presentes razões, o recorrente sustenta excesso de prazo na constrição cautelar, que perdura desde 19/10/2016, e no encerramento da instrução criminal. Argui que o desmembramento do processo poderia contribuir para o trâmite mais célere do processo. Preconiza afronta aos princípios da não culpabilidade, da duração razoável do processo e da razoabilidade.
+Argumenta que a prisão preventiva não está devidamente fundamentada, uma vez que foi proferida genericamente e sem lastro nas hipóteses do art. 312 do CPP. Aduz que a gravidade abstrata do crime não pode supedanear o decreto constritivo. Ressalta que, em caso de condenação, o provável regime prisional a ser cominado seria o aberto ou semiaberto, de forma que a custódia cautelar se revela mais gravosa e desproporcional. Defende, outrossim, a viabilidade da aplicação das cautelares alternativas do art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com a aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido (e-STJ fls. 991/993).
+Informações prestadas (e-STJ fls. 997/998 e 1.021/1.039).
+Parecer ministerial pelo não provimento do recurso (e-STJ fls. 1.012/1.015).
+É, em síntese, o relatório.
+Conforme informações extraídas do sítio eletrônico do Tribunal de origem, nos autos da Ação Penal n. 0003019-36.2018.8.26.0114, objeto do presente recurso, constatei que em 19/12/2018 houve prolação de sentença para condenar o recorrente, pela prática do delito previsto no art. 2º, §4º, inciso IV, da Lei n. 12.850/2013, à pena de 04 anos, 10 meses e 24 dias de reclusão, em regime inicialmente fechado. Foi-lhe negado o direito de recorrer em liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (Sexta Turma, AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, j. 15/3/2016, DJe 29/3/2016)
+Ademais, prejudicado também se encontra o pleito de relaxamento de prisão em decorrência do alegado constrangimento ilegal pelo excesso de prazo na formação da culpa, em razão da superveniência da sentença condenatória.
+Dessarte, é patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
