@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 21, de 16 de janeiro de 2019
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI
+EMENTA: SETOR AUTOMOTIVO. SUSPENSÃO. PEÇAS E COMPONENTES DESTINADOS À INDÚSTRIA DE AUTOPROPULSADOS.
+A suspensão do IPI de que trata o art. 5º, caput, c/c § 2º, inciso II, da Lei nº 9.826, de 1999 (na redação dada pelo art. 4º da Lei nº 10.485, de 2002), e disciplinada pelo art. 2º da IN RFB nº 948, de 2002, não é opcional, mas, sim, de aplicação compulsória, haja vista a expressão “sairão com suspensão” - indicativa de obrigatoriedade, constante do referido dispositivo legal. Tal norma estabelece que deverão sair do estabelecimento industrial com suspensão do IPI os componentes, chassis, carroçarias, acessórios, partes e peças, adquiridos para emprego na montagem dos produtos autopropulsados classificados nos códigos da Tipi ali indicados, evidenciando-se que dos produtos da Posição 87.04 estão abrangidos apenas aqueles classificados nos códigos 8704.10.00, 8704.2 e 8704.3.
+DISPOSITIVOS LEGAIS: Lei nº 9.826, de 1999, art. 5º; Lei nº 10.485, de 2002, art. 4º; Decreto nº 7.212, de 2010 (Ripi/2010), art. 136, inciso III, e § 3º, inciso II; e IN RFB nº 948, de 2009, art. 2º.
+[arquivo anexo: SC Cosit nº 21-2019.pdf]
