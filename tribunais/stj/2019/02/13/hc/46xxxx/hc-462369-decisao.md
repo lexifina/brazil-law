@@ -1,0 +1,61 @@
+EMENTA
+HABEAS CORPUS. PENAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 67 DO CÓDIGO PENAL. EXISTÊNCIA DE DUAS ATENUANTES PREPONDERANTES E APENAS UMA AGRAVANTE PREPONDERANTE. AUMENTO DA PENA NA SEGUNDA FASE DA DOSIMETRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES. ORDEM DE HABEAS CORPUS CONCEDIDA PARCIALMENTE.
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido na Apelação Criminal n.º 1.0024.10.029706-8/003.
+Consta dos autos que o Paciente foi condenado, em 14/06/2016, à pena de 16 (dezesseis) anos de reclusão, em regime inicial fechado, pela prática do crime tipificado no art. 121, § 2.º, incisos I, III e IV, c.c. o art. 65, incisos I e II, alínea d, todos do Código Penal (fls. 38-41).
+Inconformado, o Condenado interpôs recurso de apelação. O Tribunal de origem deu parcial provimento ao apelo a fim de reduzir a reprimenda para 14 (quatorze) anos de reclusão. O acórdão foi assim ementado (fl. 24):
+"JÚRI. HOMICÍDIO TRIPLAMENTE QUALIFICADO. PRELIMINAR DE NULIDADE. INOVAÇÃO DA ACUSAÇÃO EM PLENÁRIO. INOCORRÊNCIA. REJEIÇÃO DA PRELIMINAR. DOSIMETRIA. EQUIVOCO NA FIXAÇÃO DA PENA BASE. REDUÇÃO DA REPRIMENDA. POSSIBILIDADE. RECURSO PROVIDO EM PARTE.
+- Sustentada a presença das qualificadoras desde o princípio da ação penal, não há que se falar em inovação da tese ministerial em plenário, inexistindo nulidade a ser declarada.
+- Estando equivocada a dosimetria da pena, mostra-se possível a redução da pena.
+- Sendo o homicídio qualificado, uma das qualificadoras deve ser considerada na fixação da pena base, funcionando as outras como agravantes.
+- Recurso provido em parte."
+Neste writ, o Impetrante alega, em suma, que o "juiz monocrático, ao analisar a pena, na segunda fase, ou seja, na pena intermediária, incorreu em "error in procedendo", considerado nulidade absoluta, porque decorrente de análise do sistema trifásico" (fl. 7).
+Aduz que, "mesmo sendo reconhecidas duas agravantes e duas atenuantes de grandeza (obrigatórias), o magistrado deixou de fazer a compensação priorizando a questão da preponderância como determina o art. 67 do CP" (fl. 7).
+Expõe que "houve grave vício,  ..  porque, em havendo concurso de atenuantes e agravantes, se deixou de seguir as regras insculpidas no art. 67 do CP, de forma que ao se operar a segunda fase do sistema trifásico, foi o réu prejudicado, pois teve a pena intermediária aumentada em dois anos, quando deveria ter se estacionado nos 12 anos da pena-base" (fl. 7).
+Assevera que a "sentença condenatória deve ser anulada, porque ao se operar a segunda fase da pena, não houve fundamentação idônea como determina o art. 93, IX, da CF/88, assim prejudicando em muito a situação do apenado" (fl. 10).
+Requer "sejam os autos remetidos à primeira instância para que seja feita outra análise da pena, com nova e motivada análise no tocante a segunda fase (pena intermediária), em especial a compensação entre as agravantes e atenuantes, no entanto, mantendo-se a condenação" (fls. 10-11).
+Pleiteia, ainda, em caso de anulação da sentença condenatória, "seja expedido o alvará de soltura, por evidente excesso de prazo, uma vez que o paciente se acha preso no regime fechado há mais de 04 anos" (fl. 11).
+O Impetrante não formulou pedido liminar.
+Foram prestadas informações às fls. 58-74 e 88-118.
+O Ministério Público Federal manifestou-se às fls. 77-82, opinando "pela concessão parcial da ordem, para reconhecer a preponderância das atenuantes da confissão espontânea e da menoridade relativa sobre as agravantes do motivo torpe e do emprego de meio que poderia ensejar perigo comum, respeitando-se os limites da Súmula nº 231 do STJ".
+É o relatório.
+Decido.
+A Juíza sentenciante, ao proferir a sentença condenatória, individualizou a pena privativa de liberdade do Paciente nos seguintes termos (fls. 40-41):
+"1ª. Fase da dosimetria da pena:
+Assim, emergindo uma circunstância desfavorável, aplico o recurso que dificultou a defesa da vítima para qualificar o crime e fixo a pena base em (14) quatorze anos de reclusão.
+Na 2ª fase, encontram-se presentes as atenuantes da menoridade e da confissão, bem como a agravante do motivo torpe, reconhecida pelo Conselho de Sentença como qualificadora, mas cuja valoração foi deixada para essa fase, conforme anotado.
+No concurso de atenuantes e agravantes, conforme a regra do art. 67 do CPB, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes. Considerando-se que o motivo do crime e a menoridade e confissão são equivalentes e preponderantes, compenso-as entre si.
+ ..
+Reconhecido pelo Conselho de Sentença a qualificadora do meio que podia resultar perigo comum, cuja valoração foi deixada para essa fase (art. 61, II, "d") conforme anotado, aumento a reprimenda de dois anos.
+Na 3ª Fase, registro que não há causas especiais de diminuição ou aumento de pena, motivo pelo qual fica a reprimenda concretizada em (16) dezesseis anos de reclusão."
+O Colegiado de origem deu parcial provimento ao apelo defensivo e expôs, na parte que interessa, as seguintes razões (fls. 60-63):
+" ..  Assim, passo a fazer a adequação das penas.
+Considerando que as circunstâncias judiciais foram todas favoráveis, entendo que a surpresa servirá apenas para qualificar o delito, razão pela qual, a pena base deverá ser fixada em 12 (doze) anos de reclusão.
+Na segunda fase, mantenho a compensação das atenuantes da confissão e da menoridade com a agravante do motivo torpe, conforme realizada pela d. magistrada sentenciante, e pela qualificadora do perigo comum, a qual será aqui usada como agravante, aumento a pena em 02 (dois), ou seja, para 14 (quatorze) anos de reclusão.
+Na terceira fase, ausentes causas de diminuição ou de aumento de pena, fica a reprimenda concretizada, definitivamente, em 14 (quatorze) anos de reclusão.
+Para o cumprimento da pena mantenho o regime inicialmente fechado.
+Em face do exposto, DOU PARCIAL PROVIMENTO AO RECURSO, nos termos do presente voto."
+De acordo com o previsto no art. 67 do Código Penal, no concurso entre agravantes e atenuantes, "a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência" (sem grifos no original).
+Nessa perspectiva, a jurisprudência desta Corte Superior é pacífica no sentido de que as atenuantes da confissão espontânea e da menoridade relativa - por estarem relacionadas à personalidade do agente -, bem como a agravante do motivo determinante do crime, são consideradas circunstâncias preponderantes. Veja-se:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO QUALIFICADO TENTADO. FALSA IDENTIDADE. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. CONFISSÃO ESPONTÂNEA QUALIFICADA. MANIFESTAÇÃO DOS RÉU SOPESADA NA FORMAÇÃO DO JUÍZO CONDENATÓRIO. INCIDÊNCIA DA SÚMULA 545/STJ. COMPENSAÇÃO ENTRE A ATENUANTE E A AGRAVANTE DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. POSSIBILIDADE. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. No que se refere à segunda fase do critério trifásico, conforme o entendimento consolidado na Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, o que se infere na hipótese dos autos.
+5. Este Superior Tribunal de Justiça já firmou o entendimento de que a confissão espontânea (Recurso Especial Representativo de Controvérsia 1.341.370/MT) e a menoridade relativa, sendo atributos da personalidade do agente, são igualmente preponderantes com a reincidência e os motivos do delito, consoante disposto no art. 67 do Código Penal.
+6. No caso, contudo, a pena do paciente restou majorada na segunda fase da dosimetria pela incidência da agravante do emprego de recurso que dificultou a defesa da vítima, a qual deverá ser integralmente compensada com a atenuante da confissão espontânea. Precedente.
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do paciente em relação ao delito de homicídio qualificado tentado para 9 anos e 4 meses de reclusão." (HC 459.078/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/09/2018, DJe 17/09/2018, sem grifos no original.)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE. CULPABILIDADE. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA DECLINADA. PROPORCIONALIDADE. COMPENSAÇÃO ENTRE A ATENUANTE DA CONFISSÃO ESPONTÂNEA E A AGRAVANTE DO MOTIVO TORPE. POSSIBILIDADE. PENA REVISTA. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+ ..
+8. No tocante à segunda fase da dosimetria, este Superior Tribunal de Justiça já firmou o entendimento de que a confissão espontânea (Recurso Especial Representativo de Controvérsia 1.341.370/MT) e a menoridade relativa, sendo atributos da personalidade do agente, são igualmente preponderantes com a reincidência e os motivos do delito, consoante disposto no art. 67 do Código Penal.
+9. Na hipótese dos autos, a Corte de origem compensou parcialmente a atenuante da confissão espontânea com a agravante do motivo torpe, malgrado a jurisprudência desta Corte reconheça que a atenuante da confissão espontânea, por dizer respeito à personalidade do réu, deve ser entendida como igualmente preponderante com os motivos do crime.
+10. Deve ser revista a pena imposta ao paciente, a fim de seja procedida à compensação integral na segunda fase da dosimetria, estabelecendo-se a reprimenda em 16 anos de reclusão, dada a ausência de outras circunstâncias a serem valoradas na terceira etapa da dosimetria.
+11. Writ não conhecido e ordem concedida, de ofício, para estabelecer a pena de 16 anos de reclusão." (HC 403.623/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017, sem grifos no original.)
+No caso, não obstante terem sido reconhecidas duas circunstâncias atenuantes preponderantes (confissão espontânea e menoridade relativa) e duas circunstâncias agravantes, sendo apenas uma preponderante (motivo torpe), o Colegiado de origem, em dissonância com o entendimento deste Tribunal Superior e com o previsto no art. 67 do Código Penal, manteve a majoração da pena intermediária em 2 (dois) anos.
+Desse modo, constata-se o alegado constrangimento ilegal na fixação da pena, haja vista que, na hipótese, uma das atenuantes deveria ter sido compensada integralmente com a agravante do motivo torpe e a outra teria de preponderar sobre a agravante prevista no art. 61, inciso II, alínea d, do Código Penal.
+Passo, assim, ao redimensionamento da reprimenda:
+Na primeira fase de dosimetria, ausentes circunstâncias judiciais desfavoráveis, mantenho a pena-base em 12 (doze) anos de reclusão.
+Na fase intermediária, reconhecidas as atenuantes da confissão espontânea e da menoridade relativa (preponderantes) e as agravantes do motivo torpe (única preponderante) e do emprego de meio que poderia ensejar perigo comum, a reprimenda deve retornar ao mínimo legal de 12 (doze) anos de reclusão, observada a Súmula n.º 231/STJ.
+Na terceira fase, em razão da inexistência de causas de aumento ou de diminuição da pena, torno definitiva a pena de 12 (doze) anos de reclusão, em regime inicial fechado.
+Ante o exposto, CONCEDO, EM PARTE, A ORDEM de habeas corpus a fim de, reformando o acórdão recorrido no que diz respeito à segunda fase de dosimetria, readequar a pena do Paciente ao patamar de 12 (doze) anos de reclusão.
+Publique-se. Intimem-se.
