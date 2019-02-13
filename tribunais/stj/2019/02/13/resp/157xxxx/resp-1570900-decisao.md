@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO. ART. 543-C, § 7º, II, DO CPC. VÍCIOS DE CONSTRUÇÃO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. COBERTURA SECURITÁRIA. LEI 12.409/2011 ALTERADA PELA LEI 13.000/2014. APÓLICE PÚBLICA. RAMO 66. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Em decisões anteriores, coadunava com o entendimento de que, para o reconhecimento da legitimidade passiva da Caixa Econômica Federal - e a conseqüente competência da Justiça Federal -, em demandas que visavam a ativação de cobertura securitária por vícios de construção em contratos de mútuo no âmbito do SFH, era necessária a prova do comprometimento dos recursos do FCVS (posição harmônica com o Resp 1.091.363/SC). Não considerava, então, que as provas carreadas se mostravam suficientes para tal comprovação. Entretanto, após a análise de inúmeras ações da mesma natureza, passei a adotar entendimento recente, segundo o qual o comprometimento do FCVS/FESA, no caso, não é remoto, justificando a manutenção da empresa pública na lide e a conseqüente competência da Justiça Federal para julgamento.
+2. Em sede de juízo de retratação, resta mantida a posição previamente adotada.
+Opostos embargos de declaração, foram eles rejeitados.
+É o relatório. Decido.
+A matéria está sendo apreciada pelo Supremo Tribunal Federal no RE n. 827.996-PR, em sede de repercussão geral (Tema 1.011): "controvérsia relativa à existência de interesse jurídico da Caixa Econômica Federal para ingressar como parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, consequentemente, à competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza".
+Conforme decisão de 5 de outubro de 2018, o Tribunal, por maioria, reputou constitucional a questão e, também por maioria, reconheceu a existência de repercussão geral da questão constitucional suscitada.
+Ante o exposto, com fulcro no art. 1030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem para que o recurso fique sobrestado aguardando o julgamento do Tema n. 1.011 pelo Supremo Tribunal Federal, e, após, sejam adotadas as providências previstas no art. 1040 do CPC/2015.
+Publique-se. Intimem-se.
