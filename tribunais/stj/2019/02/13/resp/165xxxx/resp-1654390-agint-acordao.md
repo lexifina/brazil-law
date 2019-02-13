@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção do STJ, em sede de recurso repetitivo, pacificou o entendimento de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". (REsp 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015).
+2. É pacífica a jurisprudência desta Corte a respeito da impossibilidade de "aceitação tácita" sobre a cobrança do encargo cobrado por associação de moradores, sendo indispensável que o adquirente do terreno manifeste adesão inequívoca ao ato que instituiu tal encargo. Precedentes.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por ASSOCIACÃO DE PROPRIETÁRIOS AMIGOS DA PORTA DO SOL - APAPS em face de decisão da minha lavra, assim sintetizada:
+RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. IMPOSSIBILIDADE.
+1. A Segunda Seção do STJ, em sede de recurso repetitivo, pacificou o entendimento de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". (REsp 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015).
+2. Recurso especial provido.
+Alega que os Agravados anuiram expressamente com toda a estrutura comum que utilizam, até porque a estrutura existente no local onde o imóvel se situa precede sua a aquisição do imóvel pela parte Agravada, sendo impossível que discordasse de sua existência e manutenção.
+Alega que questões como a efetiva disponibilização do serviço pela Agravante e a concreta fruição pela parte agravada, a adesão e a concordância desta com a associação e o rateio das despesas, são impossíveis de serem julgadas sem o reexame da matéria probatória.
+Defende não ser identificado na decisão monocrática qual o dispositivo de lei federal utilizado para considerar indevida a cobrança de rateio de despesas de proprietários de imóveis em loteamentos fechados, como é o Residencial Porta do Sol.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção do STJ, em sede de recurso repetitivo, pacificou o entendimento de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". (REsp 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015).
+2. É pacífica a jurisprudência desta Corte a respeito da impossibilidade de "aceitação tácita" sobre a cobrança do encargo cobrado por associação de moradores, sendo indispensável que o adquirente do terreno manifeste adesão inequívoca ao ato que instituiu tal encargo. Precedentes.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+3. Sobre as taxas de manutenção criadas por associações de moradores, o tribunal de origem assim se manifestou:
+Cuida a demanda de ação de cobrança de taxas de manutenção relativas ao loteamento "Associação de Proprietários Amigos Porta do Sol", localizado no Município de Mairinque, onde o apelado tem seu imóvel.
+Alega o réu que não é associado da apelante, não usufrui os serviços oferecidos pela associação, e que por se tratar de loteamento horizontal, os serviços essenciais básicos devem ser prestados e custeados pelo Município.
+Restou incontroverso nos autos, contudo, que o apelado é beneficiário dos serviços prestados pela apelante, tais como a limpeza da área, construção de benfeitorias, serviços de segurança, entre outros.
+A autora é uma associação fundada em 1981, com estatuto próprio, no qual há previsão de exigência de mensalidades com a finalidade de incrementar e melhorar as condições de moradia do local (fls.49/56).
+Convém observar que, embora o proprietário do imóvel que se situa em área administrada por associação de moradores não possa ser compelido a integrar a associação, sob pena de violação à liberdade de associação prevista no art. 5o, XX, da CF, tampouco pode ficar isento do pagamento de rateio de despesas incidentes sobre seu imóvel, das quais se beneficia.
+É possível cobrar taxas de manutenção do loteamento mesmo daqueles que não sejam associados, desde que tais proprietários ou ocupantes do imóvel se beneficiem dos serviços realizados pela associação criada para esse propósito.
+Permitir que o apelado não contribuísse com a associação caracterizaria, sem dúvida, enriquecimento sem causa em seu favor, o que é vedado pelos artigos 844 e seguintes do Código Civil.
+Aliás, o não pagamento da contribuição por um dos moradores impacta diretamente os demais, que terão que suprir a omissão do devedor para poder fazer às despesas fixas de manutenção do loteamento, que a todos aproveita.
+Ressalte-se, mais uma vez, que o apelado não está obrigado a se associar à recorrida: ele apenas está obrigado a pagar o quinhão que lhe cabe no rateio das despesas tidas com os serviços que lhe foram prestados, ainda que potencialmente. Por este motivo, mostra-se irrelevante a alegação de que o apelado não é beneficiado diretamente com os serviços da apelante.
+Vale anotar, ainda, que foram juntadas à inicial diversas atas assembleares, além de orçamentos de futuras obras a serem realizadas pela associação (fls.84/86) e uma planilha correspondente aos gastos realizados pela ora apelante entre os anos de 1995 e 2007 (fls.214).
+A obrigação de pagar a taxa de manutenção de loteamento em casos análogos ao dos autos já foi reconhecida por esta C. Câmara e este E. Tribunal, como se verifica da seguinte jurisprudência:
+(..)
+De rigor, portanto, a reforma do "decisum", julgando-se procedente a ação para condenar o réu ao pagamento do débito indicado na inicial, corrigido a partir de cada vencimento e acrescido de juros moratórios a partir da citação, além das demais prestações vincendas, igualmente corrigidas e acrescidas de juros legais a partir de cada vencimento. (fls. 653-656 e-STJ)
+Conforme jurisprudência firmada na Segunda Seção desta Corte Superior, no âmbito do julgamento de recursos especiais representativos da controvérsia: "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" (REsp 1.280.871/SP e REsp 1.439.163/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Rel. p/ Acórdão Ministro Marco Buzzi, Segunda Seção, julgados em 11.03.2015, DJe 22.05.2015).
+Outrossim, é pacífica a jurisprudência desta Corte a respeito da impossibilidade de "aceitação tácita" sobre a cobrança do encargo cobrado por associação de moradores, sendo indispensável que o adquirente do terreno manifeste adesão inequívoca ao ato que instituiu tal encargo.
+Confira-se:
+Não há como olvidar que as obrigações de ordem civil, sejam de natureza real ou contratual, pressupõem, como fato gerador ou pressuposto, a existência de uma lei que as exija ou de um acordo firmado com a manifestação expressa de vontade das partes pactuantes, pois, em nosso ordenamento jurídico positivado, vale rememorar, há somente duas fontes de obrigações: a lei ou o contrato;
+(..)
+Inexiste, portanto, espaço para a concepção de uma "aceitação tácita" a ser imposta pelo Poder Judiciário como preceitua o voto do eminente relator, pois, na ausência de uma legislação que regule especificamente a presente matéria, prepondera, na hipótese, o exercício da autonomia da vontade a ser manifestado pelo proprietário ou, inclusive, pelo comprador de boa-fé, emanada da própria garantia constitucional da liberdade de associação e da legalidade, uma vez que ninguém pode ser compelido a fazer algo senão em virtude de lei.
+(..)
+Há, portanto, dois obstáculos ao acatamento da tese apresentada pelo ilustre relator. Primeiro, no direito civil, as obrigações somente possuem como fonte geradora a lei e a vontade, ambas ausentes na hipótese, não podendo a jurisprudência assumir este papel para, irradiando-se no mundo como uma nova fonte obrigacional cogente, regular situações futuras. Segundo, o Pretório Excelso já decidiu que a análise de possível violação ao princípio do enriquecimento sem causa, em tais casos, perpassa ao exame da liberdade associativa como garantia fundamental, tanto é que admitiu a matéria como afeta à repercussão geral, não havendo como ignorar possível colisão principiológica. Concluindo, a aquisição de imóvel situado em loteamento fechado em data anterior à constituição da associação não pode, nos termos da jurisprudência sufragada por este Superior Tribunal de Justiça, impor ao adquirente que não se associou, nem a ela aderiu, a cobrança de encargos. Se a compra se opera em data posterior à constituição da associação, na ausência de fonte criadora da obrigação (lei ou contrato), é defeso ao poder jurisdicional, apenas calcado no princípio enriquecimento sem causa, em detrimento aos princípios constitucionais da legalidade e da liberdade associativa, instituir um dever tácito a terceiros, pois, ainda que se admita a colisão de princípios norteadores, prevalece, dentre eles, dada a verticalidade
+de preponderância, os preceitos constitucionais, cabendo tão-somente ao Supremo Tribunal Federal, no âmbito da repercussão geral, afastá-los se assim o desejar ou entender. (REsp"s 1.280.871/SP e 1.439.163/SP)
+No presente caso, consoante incontroverso nos autos, a taxa de manutenção referente às despesas comuns foi cobrada de proprietário não associado, sobressaindo, assim, a dissonância entre a jurisprudência desta Corte e o acórdão estadual, que manteve a sentença a qual julgou procedente a pretensão deduzida pela associação de moradores.
+4. Ante o exposto, nego provimento ao agravo interno.
+  o voto.
