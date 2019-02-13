@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo, interposto por SOMPO SEGUROS S.A., em 29/04/2011, mediante o qual se impugna decisão indeferitória de seguimento a seu Recurso Especial, esse tomado de acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MEDIDA CAUTELAR DE COMPETÊNCIA ORIGINÁRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO À APELAÇÃO. JULGAMENTO DO RECURSO. PERDA DO OBJETO DA CAUTELAR. DEPÓSITOS REALIZADOS NO PROCESSO PRINCIPAL.
+1. Da análise das guias acostadas, infere-se que os depósitos foram realizados nos autos do processo principal, razão pela qual somente lá e perante o juízo competente poderá ser deduzido eventual pedido de levantamento e/ou conversão em renda.
+2. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+3. Agravo regimental improvido" (fl. 574e).
+Embargos de Declaração rejeitados (fls. 582/589e).
+Alega-se, nas razões do Recurso Especial, manejado com apoio na alínea a do permissivo constitucional, ofensa aos arts. 535, II, 475-0, inciso I, § 3º, e 575, inciso II, do CPC, bem como ao art. 41, caput e § 1º, da Lei 8.981/95.
+Sustenta, a parte recorrente, em síntese, que:
+"34. Conforme já se suscitou, os depósitos efetuados pela ora Recorrente, cujo levantamento foi requerido, referem-se aos valores, passíveis de dedução do imposto de renda, pelo regime de competência, advindos da COFINS, que, por estarem com a exigibilidade suspensa, sujeitava a Recorrente, relativamente aos fatos geradores ocorridos entre fevereiro de 1.999 e novembro de 2.001, ao disposto no artigo 41, § 1º, da Lei nº 8.981/95.
+35. Sendo assim, a partir do momento em que não há mais qualquer causa suspensiva da exigibilidade da COFINS nos autos do Mandado de Segurança nº 1999.61.00.005649-0, a Recorrente não está mais sujeita ao disposto no § 1º, do artigo 41, da Lei nº 8.981/95, mas sim ao caput do mesmo artigo, de modo que a possibilidade de dedução dos tributos que não se encontram com a exigibilidade suspensa, pelo regime de competência, importa na necessidade de levantamento dos depósitos judiciais vinculados à presente demanda.
+36. Ora, se os depósitos feitos pela Recorrente na presente medida cautelar dizem respeito aos valores que deveriam ter sido deduzidos, pelo regime de competência, do imposto de renda, e não o foram em razão da suspensão da exigibilidade do crédito tributário relativo à COFINS, uma vez que não há mais qualquer causa suspensiva e, por conseqüência, a possibilidade de dedução da verba relacionada à COFINS pelo regime da competência, não há razão para que os supramencionados continuem depositados até o trânsito em julgado
+37. Portanto, ao condicionar o levantamento dos depósitos judiciais ao trânsito em julgado, o v. aresto acabou por negar vigência (i) ao § 1º, do artigo 41, da Lei nº 8.981/95, tendo em vista que tal sistemática não se aplica à Recorrente, uma vez que não há qualquer causa de suspensão da exigibilidade da COFINS; (ii) ao caput do mesmo artigo, uma vez que, em razão da ausência de causa suspensiva da exigibilidade da COFINS, deveria tê-lo aplicado, possibilitando, portanto, o levantamento imediato dos depósitos. Desta forma, resta imperiosa a necessidade de reforma do v. acórdão" (fls. 605/606e).
+Aduz-se, ainda, que o acórdão recorrido padeceria de omissão, porquanto teria deixado de considerar que "o pleito de levantamento não só dispensa o trânsito em julgado da ação mandamental, como não necessariamente deve ser apreciado por aquela Corte" (fl. 600e).
+Requer-se, por fim, "que esta Colenda Corte conheça e proveja o presente recurso para: a) anular o v. aresto em virtude da ofensa ao art. 535, II, do Código de Processo Civil, devolvendo os autos ao Tribunal de origem para análise dos pontos omissos; ou, em assim não procedendo; b) reformar o v. acórdão, em razão da violação aos artigos 41, "caput" e § 1º da Lei nº 8.981/95; artigos 475-0, inciso I, § 3º e 575, inciso II, ambos do Código de Processo Civil, no sentido de permitir o levantamento dos depósitos judiciais efetuados" (fl. 609e).
+Contrarrazões às fls. 617/628e.
+Recurso Especial inadmitido (fls. 637/638e), com base na Súmula 211/STJ, o que ensejou a interposição de Agravo (fls. 640/651e).
+Sem contraminuta.
+O recurso não merece prosperar.
+Não há de se cogitar de omissão, no acórdão recorrido. Dessarte, as questões ventiladas pelo ora recorrente não foram apreciadas, no âmbito do Tribunal de origem, de forma plenamente justificada. É que se entendeu, no julgado recorrido, que seriam objeto de outro processo, estranho à presente ação cautelar, daí porque não poderiam ser resolvidas nos persentes autos.
+No mérito propriamente dito, não colhe melhor sorte o ora recorrente.
+Com efeito, as matérias versadas no presente Recurso Especial não foram examinadas nem decididas, no âmbito do Tribunal de origem.
+Dessarte, o v. acórdão recorrido limitou-se a afirmar que:
+"Da análise das guias acostadas, infere-se que os depósitos foram realizados nos autos do processo principal, razão pela qual somente lá e perante o juízo competente poderá ser deduzido eventual pedido de levantamento e/ou conversão em renda.
+Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática" (fl. 573e).
+Nada, absolutamente nada, foi dito acerca dos temas levantados pelo ora recorrente em seu Especial.
+Inarredável a aplicação, na espécie, da Súmula 211/STJ e, por analogia, da Súmula 283/STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa parte, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
