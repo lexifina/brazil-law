@@ -1,0 +1,15 @@
+EMENTA
+AGRAVO INTERNO RECEBIDO COMO EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CORREÇÃO DE ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+DECISÃO
+Cuida-se de agravo interno interposto por LIRILIO ANTONIO DALSSASSO contra decisão monocrática desta relatoria, a qual conheceu do agravo para negar provimento ao recurso especial.
+A decisão está assim ementada (e-STJ, fl. 497):
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DA MENSALIDADE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do agravo interno, o recorrente alegou que, no recurso especial apresentado, trouxe a alegação de negativa de prestação jurisdicional em relação "ao fato de que o Tribunal de origem analisou o presente caso com base em premissa equivocada - de que o reajuste sub judice se deu na vigência de contratação anterior" (fl. 506, e-STJ).
+Aduz, outrossim, que na decisão agravada, consta a seguinte fundamentação: "a matéria apontada como omitida - os cálculos apresentados pelo perito atestaram a quitação da dívida, não havendo nenhum valor devido pelo recorrente, assim como os valores depositados em consignação superam o valor devido - foi objeto de expressa manifestação pela Corte local.." (fl. 506, e-STJ).
+Nesse contexto, sustenta que o trecho acima é incompatível com a discussão suscitada nas razões do recurso especial.
+Sem impugnação, conforme certidão à fl. 514 (e-STJ, fl. 486).
+Brevemente relatado, decido.
+O inconformismo, na verdade, revela a intenção da parte de sanar erro material na decisão agravada. Diante disso, recebo o presente agravo interno como embargos de declaração, aplicando o princípio da fungibilidade recursal, a fim de corrigir o vício apontado no decisum recorrido.
+Assim, a fim de afastar o erro material da decisão ora agravada, esclareço que o trecho constante à fl. 499 (e-STJ), onde se lê: "Destaque-se, por oportuno, que a matéria apontada como omitida - os cálculos apresentados pelo perito atestaram a quitação da dívida, não havendo nenhum valor devido pelo recorrente, assim como os valores depositados em consignação superam o valor devido - foi objeto de expressa manifestação pela Corte local" passa a ser assim redigido: "Destaque-se, por oportuno, que a matéria apontada como omitida - No caso dos autos, a adesão ocorreu em 1995, tendo havido migrações para outros planos, até o atual plano coletivo (em junho/2002). Portanto, os valores mensais atualmente pagos não guardam nenhuma relação com a mudança de faixa etária havida quando da contratação anterior, com o que improcedem o pleito revisional e repetitório - foi objeto de expressa manifestação pela Corte local".,
+Diante do exposto, após receber o agravo interno como embargos de declaração, acolho os aclaratórios, sem efeitos infringentes, apenas para sanar o erro material apontado.
+Publique-se.
