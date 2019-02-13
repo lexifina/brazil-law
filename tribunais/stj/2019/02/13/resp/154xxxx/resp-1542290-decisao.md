@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por KARINE CÂMARA DE MORAIS VIEIRA contra acórdão proferido pelo TJMG assim ementado (e-STJ fl. 130):
+APELAÇÃO CÍVEL. DIREITO FALIMENTAR. PEDIDO DE EXTINÇÃO DAS OBRIGAÇÕES. PROVA DA QUITAÇÃO FISCAL. EXIGÊNCIA DO ART. 191 DO CTN. DOCUMENTO INDISPENSÁVEL. PEDIDO IMPROCEDENTE.
+- Segundo o art. 135, III, do Decreto Lei 7.661145 (antiga Lei de Falências), extingue as obrigações do falido "o decurso do prazo de cinco anos, contado a partir do encerramento da falência, se o falido, ou o sócio gerente da sociedade falida, não tiver sido condenado por crime falimentar".
+- Entretanto, o artigo 191 do Código Tributário Nacional estabelece que "A extinção das obrigações do falido requer prova de quitação de todos os tributos".
+- Assim, da análise sistemática do art. 135, III, do Decreto-Lei nº 7.661/45 c/c a regra especial do art. 191, do CTN é possível concluir que a comprovação de quitação dos tributos devidos pela empresa falida, mediante a apresentação da Certidão Negativa de Débitos (art. 205, CTN) ou Certidão Positiva com Efeitos Negativos (art. 206, CTN), é indispensável à procedência da ação em que se busca a declaração de extinção das obrigações do falido, cuja ausência resulta na rejeição do pedido.
+- Precedentes deste Tribunal.
+- Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 137/145), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alega ofensa ao art. 135, III, do Decreto-lei n. 7.661/1945, entendendo ser desnecessária a quitação de todos os tributos quando operado o decurso de prazo para encerramento da falência.
+Juízo de admissibilidade positivo (e-STJ fls. 160/161).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Sobre a extinção das obrigações do falido, entendeu a Turma julgadora que (e-STJ fl. 132):
+Da análise sistemática do art. 135, III, do Decreto-Lei nº 7.661/45 em consonância com a regra especial do art. 191, do CTN é possível concluir que a comprovação de quitação dos tributos devidos pela empresa falida, mediante a apresentação da Certidão Negativa de Débitos (art. 205, CTN) ou Certidão Positiva com Efeitos Negativos (art. 206, CTN), é indispensâvel à procedência da ação em que se busca a declaração de extinção das obrigações do falido.
+(..)
+regra prevista no art. 191 do Código Tributário Nacional, segundo a qual, para a declaração da extinção das obrigações do falido, é necessária a prova de quitação de todos os tributos relativos à sua atividade mercantil.
+A exigência de quitação de todos os tributos para a declaração da extinção das obrigações do falido, regra inserida no Capítulo VI ("Garantias e Privilégios do Crédito Tributário") do CTN, configura-se, portanto, pressuposto inafastável para o acolhimento da pretensão recursal.
+Na hipótese dos autos, tem-se que a existência de débitos tributários na esfera federal é incontroversa, de modo que a ausência de certidão negativa de débito tributário junto ao Fisco, constitui óbice intransponível ao julgamento de procedência do pedido, pois a declaração da extinção das obrigações do falido expressamente "requer prova de quitação de todos os tributos" (art. 191, CTN).
+Destarte, ausente comprovação da quitação de todos os tributos, inviável o acolhimento do pedido de extinção das obrigações do falido (..)
+Entretanto, o entendimento desta Corte sobre o tema é em sentido diverso, concluindo que os créditos tributários não apresentam qualquer relevância na fase final do encerramento da falência, sendo certo que as obrigações do falido que serão extintas são aquelas submetidas ao juízo falimentar, não sendo esse o caso dos tributos. Anotem-se:
+RECURSO ESPECIAL. FALÊNCIA. DL 7.661/1945. EXTINÇÃO DAS OBRIGAÇÕES DO FALIDO. DECURSO DO PRAZO DE CINCO ANOS. PROVA DA QUITAÇÃO DE TRIBUTOS. DESNECESSIDADE.
+1- Extinção das obrigações do falido requerida em 16/8/2012. Recurso especial interposto em 19/8/2016 e atribuído à Relatora em 26/8/2016.
+2- Controvérsia que se cinge em definir se a decretação da extinção das obrigações do falido prescinde da apresentação de prova da quitação de tributos.
+3- No regime do DL 7.661/1945, os créditos tributários não se sujeitam ao concurso de credores instaurado por ocasião da decretação da quebra do devedor (art. 187), de modo que, por decorrência lógica, não apresentam qualquer relevância na fase final do encerramento da falência, na medida em que as obrigações do falido que serão extintas cingem-se unicamente àquelas submetidas ao juízo falimentar.
+4- Recurso especial provido.
+(REsp n. 1.426.422/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/3/2017, DJe 30/3/2017.)
+RECURSO ESPECIAL. EMPRESARIAL. FALÊNCIA. AÇÃO DECLARATÓRIA DE EXTINÇÃO DAS OBRIGAÇÕES DO FALIDO (DL 7.661/45, ART. 135, III). DECURSO DO PRAZO PRESCRICIONAL DE CINCO ANOS. TRÂNSITO EM JULGADO DA SENTENÇA DE ENCERRAMENTO DA FALÊNCIA. AUSÊNCIA DE PRÁTICA DE CRIME FALIMENTAR. PROVA DE QUITAÇÃO DOS TRIBUTOS FISCAIS (CTN, ARTS. 187 E 191). RECURSO PARCIALMENTE PROVIDO.
+1. A declaração de extinção das obrigações do falido poderá referir-se somente às obrigações que foram habilitadas ou consideradas no processo falimentar, não tendo, nessa hipótese, o falido a necessidade de apresentar a quitação dos créditos fiscais para conseguir o reconhecimento da extinção daquelas suas obrigações, em menor extensão, sem repercussão no campo tributário.
+2. Sendo o art. 187 do Código Tributário Nacional - CTN taxativo ao dispor que a cobrança judicial do crédito tributário não está sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento, e não prevendo o CTN ser a falência uma das causas de suspensão da prescrição do crédito tributário (art. 151), não há como se deixar de inferir que o crédito fiscal não se sujeita aos efeitos da falência.
+3. Desse modo, o pedido de extinção das obrigações do falido poderá ser deferido: I) em maior abrangência, quando satisfeitos os requisitos da Lei Falimentar e também os do art. 191 do CTN, mediante a "prova de quitação de todos os tributos"; ou II) em menor extensão, quando atendidos apenas os requisitos da Lei Falimentar, mas sem a prova de quitação de todos os tributos, caso em que as obrigações tributárias não serão alcançadas pelo deferimento do pedido de extinção.
+4. Recurso especial parcialmente provido para julgar procedente o pedido de extinção das obrigações do falido, em menor extensão, sem repercussão no campo tributário.
+(REsp n. 834.932/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/8/2015, DJe 29/10/2015.)
+Diante do exposto, DOU PROVIMENTO ao recurso especial, para determinar o prosseguimento do requerimento de extinção das obrigações do falido perante o Juízo de primeiro grau, afastando a necessidade de juntada das certidões negativas de débitos tributários.
+Publique-se e intimem-se.
