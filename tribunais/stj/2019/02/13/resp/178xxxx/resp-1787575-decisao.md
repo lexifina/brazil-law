@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. SÚM. N. 345/STJ. PRECEDENTES. REDUÇÃO DOS HONORÁRIOS PELA METADE. SÚMULAS N. 283 E 284 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fundação Universidade Federal do Rio Grande, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS. INAPLICABILIDADE DO ARTIGO 85-§ 7º DO CPC- 2015. INAPLICABILIDADE DO ARTIGO 90-§ 4º do [PLACA].
+1. O Supremo Tribunal Federal, julgando o Recurso Extraordinário n. 420816/PR, deu interpretação conforme ao referido artigo 1º-D da Lei n. 9.494, de 1997, no sentido de que não seriam devidos honorários nas execuções propostas contra a Fazenda Pública, quando não embargadas e iniciadas posteriormente à edição da MP n. 2.180-35/2001, nos casos em que o pagamento deveria ser feito via precatório (débitos superiores a sessenta salários mínimos).
+2. A interpretação dada pelo STF ao artigo 1º-D da Lei n. 9.494, de 1997, corresponde, em linhas gerais, à regra trazida pelo artigo 85, §7º do nCPC. Tal entendimento já não era aplicável às execuções individuais de sentença proferida em ação coletiva, caso em que era cabível a aplicação da Súmula nº.345 do STJ.
+3. Não há razão para não manter o afastamento da regra, prevista agora no artigo 85, §7º, do nCPC, nos casos de execução individual de sentença proferida em ação coletiva, sendo cabível a fixação de honorários advocatícios no presente caso.
+4. Existindo regra específica e completa para dar conta dos honorários advocatícios nas ações em que a Fazenda Pública seja parte (artigo 85-§ 3º do CPC- 2015), esse regime é o que deve ser observado, sem possibilidade nem necessidade de buscar soluções fora daquelas ditadas naquela norma pelo legislador processual. Descabe a aplicação do artigo 90, § 4o do [PLACA] à situação dos autos.
+5. Agravo de instrumento improvido.
+Opostos embargos de declaração, foram eles parcialmente providos apenas para fins de prequestionamento.
+Nas razões de recurso especial, alega a parte recorrente violação dos seguintes dispositivos: a) art. 1º-D da Lei n. 9.494/97, aduzindo que não cabe a condenação em honorários, não existindo relevância o fato de a execução individual ser fundada em título decorrente de ação coletiva; c) art. 90, §4º, do CPC/15, sustentando que os honorários devem ser reduzidos para 5%.
+Houve contrarrazões (e-STJ fls. 95/98).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+Com relação à condenação em honorários em cumprimento de sentença contra a Fazenda Pública, a Corte a quo entendeu pela possibilidade com fulcro na seguinte fundamentação (e-STJ fl. 36):
+Assim, verifica-se que a interpretação dada pelo STF ao artigo 1º-D da Lei n. 9.494, de 1997, corresponde, em linhas gerais, à regra trazida pelo artigo 85, §7º do nCPC.
+Entretanto, tal entendimento já não era aplicável às execuções individuais de sentença proferida em ação coletiva, caso em que era cabível a aplicação da Súmula nº. 345 do STJ:
+São devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas.
+Assim, como o disposto no artigo 85, §7º do nCPC não alterou regra que já existia anteriormente à sua edição, não há razão para alterar a aplicação da exceção à regra, que é o caso da execução individual de sentença proferida em ação coletiva.
+Ressalto que os precedentes que ensejaram a edição da Súmula nº. 345 do STJ já afastavam a aplicação do previsto no art. 1º-D da Lei nº 9.494/1997, para os caso de execução individual de sentença proferida em ação coletiva.
+O decisium vai ao encontro da jurisprudência desse e.STJ, segundo a qual são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas, a teor da Súmula n. 345/STJ. Na mesma linha, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. SÚM. N. 345/STJ. RESP. N. 1.648.238/RS, TEMA REPETITIVO: 973. AGRAVO INTERNO NÃO PROVIDO.
+1. "O art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsócio." (REsp 1648238/RS, Rel. Ministro GURGEL DE FARIA, CORTE ESPECIAL, julgado em 20/06/2018, DJe 27/06/2018).
+2. Agravo interno não provido.
+(AgInt no AREsp 1279025/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2018, DJe 24/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS. CABIMENTO. SÚMULA 345/STJ.
+1. De acordo com o enunciado da Súmula 345/STJ, "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte, razão pela qual não merece reforma.
+3. Agravo Interno não provido.(AgInt no AREsp 919265/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/02/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. FAZENDA PÚBLICA. HONORÁRIOS. AÇÃO COLETIVA. EXECUÇÕES INDIVIDUAIS NÃO EMBARGADAS. SÚMULA 345/STJ.
+I - "São devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas" - Súmula 345/STJ.
+II - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada. III - Agravo Regimental improvido. (AgRg no REsp 1.242.102/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 04/09/2015).
+Por fim, com relação à redução do valor dos honorários, a tese recursal de que há direito à redução quando não houver impugnação, posto que o pagamento não é imediato em razão de mandamento constitucional não é capaz de infirmar a conclusão a que chegou a Corte de Origem. Cito excerto do acórdão (e-STJ fl. 38):
+Quanto ao pedido subsidiário, de redução da verba honorária em razão do disposto no artigo 90, §4º, do nCPC, também não merece prosperar o recurso.
+Ocorre que, existindo regra específica e completa para dar conta dos honorários advocatícios nas ações em que a Fazenda Pública seja parte (artigo 85-§ 3º do [PLACA]), esse regime é o que deve ser observado, sem possibilidade nem necessidade de buscar soluções fora daquelas ditadas naquela norma pelo legislador processual.
+Eis que tal fundamento, no sentido de que a existência de norma específica a disciplinar as ações em que a Fazenda Pública é parte afasta a incidência dos demais dispositivos, não restou impugnado, fazendo da argumentação do especial insuficiente para fins de infirmar a conclusão a que chegou a Instância a quo. Incidem os óbices das Súmulas n. 283 e 284 do STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
