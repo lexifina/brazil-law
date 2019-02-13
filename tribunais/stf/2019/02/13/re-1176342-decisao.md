@@ -1,0 +1,36 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (eDOC 5, p. 2/3):
+    “MANDADO DE SEGURANÇA. PREJUDICIAL DE DECADÊNCIA ADMINISTRATIVA. INAPLICABILIDADE DO ART. 54 DA LEI Nº 9.784/99. SITUAÇÃO DE FLAGRANTE INCONSTITUCIONALIDADE. PRECEDENTES DO STF. REJEIÇÃO.
+    - Haja vista o fundamento de inconstitucionalidade flagrante de acumulação de cargos públicos, não há que se cogitar em aplicação do instituto decadencial. Isso porque, consoante entendimento proclamado em diversas ocasiões pela Corte Suprema, o prazo decadencial previsto no art. 54 da Lei n. 9.874/1999 não se aplica em relação aos atos flagrantemente inconstitucionais.
+    MANDADO DE SEGURANÇA. OFICIAL DE JUSTIÇA. CARGO TÉCNICO. CUMULAÇÃO COM CARGO DE PROFESSOR. COMPATIBILIDADE DE HORÁRIO. POSSIBILIDADE. PERMISSÃO DO ART. 37, XVI, “b”, DA CONSTITUIÇÃO FEDERAL. DIREITO LÍQUIDO LÍQUIDO E CERTO EVIDENCIADO. PRECEDENTE DO STJ. CONCESSÃO DO WRIT.
+    - O Cargo de Oficial de Justiça possui natureza técnica para fins de enquadramento nas exceções constitucionais, abrindo a possibilidade de acumulação com outro cargo de Professor, prevista no art. 37, XVI, “b”, da Constituição Federal de 1988, notadamente, havendo compatibilidade de horário.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, XVI, b, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a ilegalidade da acumulação “uma vez que o cargo exercido de OFICIAL DE JUSTIÇA do TJ do Estado da Paraíba não se enquadra como cargo técnico, notadamente porque trata-se de cargo que exige escolaridade de nível médio.” (eDOC 6, p. 7).
+    A Presidência do TJ/PB admitiu o extraordinário (eDOC 8).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do mandado de segurança, asseverou (eDOC 5, pp. 5-7):
+     “Nesse sentido, tenho que o Impetrante logrou êxito em demonstrar que faz jus a acumulação de cargos tida como indevida pela Corregedoria de Justiça do Tribunal de Justiça da Paraíba.
+    Com efeito, toda a discussão girou em torno de saber se o Cargo de Oficial de Justiça possui natureza técnica para fins de enquadramento nas exceções constitucionais, abrindo a possibilidade de acumulação com outro cargo de professor, prevista no art. 37, XVI, “b”, da Constituição Federal de 1988.
+    (…)
+    Dessarte, no que diz respeito ao Cargo de Oficial de Justiça, vale destacar que o Superior Tribunal de Justiça, em caso semelhante ao dos autos, por ocasião do Recurso Ordinário em Mandado de Segurança nº 17.089-MA, da relatoria do Ministro José Arnaldo da Fonseca, firmou o entendimento de que o Oficial de Justiça exerce função de perfil técnico, sustentando a possibilidade de acumulação com outro cargo de Professor, desde que provada a compatibilidade de horário.
+    Veja-se o seguinte trecho da referida decisão:
+    ‘(…)
+    No presente caso, a nosso ver, a atividade desempenhada pelo oficial de justiça se enquadra no conceito de cargo técnico, sobretudo diante das peculiaridades que englobam o exercício da função.
+    É que, como auxiliar da justiça, o oficial de justiça desempenha atividades específicas e absolutamente indispensáveis à correta e efetiva prestação jurisdicional por parte o Estado. Nesse contexto, dispõe o art. 143 do Código de Processo Civil:
+    (…)
+    Assim, o oficial de justiça, além de possuir e utilizar conhecimentos específicos da área do Direito (processual, penal, civil, comercial etc.), indispensáveis ao seu labor diário, o que, por si só, já lhe garantiria o status de cargo técnico, ainda deve possuir certa familiaridade com determinados métodos e procedimentos adquiridos com a prática efetiva da profissão ou em virtude de cursos de preparação ministrados quando do ingresso no serviço forense.
+    Assim, o oficial de justiça, no seu munus público diário de desempenhar as diligências judiciais, ordenadas pelo juiz, ou que lhe forem atribuídas por lei, desenvolve atividade de caráter nada burocrático, sobretudo porque não está sujeito a regulamentos rígidos ou a uma rotina inflexível.
+    Ademais, como se sabe, não é condição para se configurar um cargo técnico que ele seja exercido por profissional com conhecimentos específicos de nível superior. Noutras palavras, no presente caso, mesmo sendo o cargo de oficial de justiça do Recorrente um cargo de nível médio, isto não lhe retira a natureza de cargo técnico para os fins do disposto no art. 37, XVI, “b” da Constituição.’
+    Portanto, pode, para todos os efeitos, o cargo de Oficial de Justiça ser considerado como de natureza técnica para os fins de enquadrá-lo no permissivo constitucional da cumulação disciplinada no art. 37, XVI, “b”, da Constituição Federal de 1988.
+    Ademais, não há incompatibilidade de horário, eis que o Impetrante exerce suas atividades no Poder Judiciário no período vespertino, ao passo que suas funções de professor são desempenhadas a noite (id 316300), além do fato de se saber que os Oficiais de Justiças têm maior flexibilidade de expediente.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à natureza do cargo de oficial de justiça e à compatibilidade de horários entre os cargos exercidos pelo servidor, demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Servidor Público. Acumulação de cargos. Professor e oficial de justiça. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 1104168 - AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 06-06-2018).
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. ACUMULAÇÃO DE CARGOS PÚBLICOS. NATUREZA TÉCNICA. SÚMULA 279/STF. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Hipótese em que dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza do cargo público questionado, se técnica ou não, exigiria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF). 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1081292 - AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 01-03-2018).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
