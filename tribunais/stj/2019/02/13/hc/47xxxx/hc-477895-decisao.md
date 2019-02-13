@@ -1,0 +1,27 @@
+DECISÃO
+MAURO LUCIO TEIXEIRA DE SOUSA alega sofrer coação ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0002852-74.2017.8.26.0495.
+Consta dos autos que o paciente foi condenado, em primeira instância, à pena de 5 anos e 10 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+O Tribunal de origem deu parcial provimento à apelação da defesa para afastar a majoração da pena-base e tornar a reprimenda definitiva em 5 anos de reclusão, em regime fechado, mais multa.
+Busca a defesa a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e o abrandamento do regime inicial de cumprimento da pena.
+Deferida a liminar a fim de que o réu aguarde em regime semiaberto o julgamento do writ.
+Prestadas as informações, o Ministério Público Federal opinou pela não concessão da ordem.
+Decido.
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+No caso, o Tribunal de origem salientou o seguinte ao dosar a pena (fl. 37, destaquei):
+Na etapa final, não é possível a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06, uma vez que a quantidade expressiva do entorpecente apreendida atesta a imersão do réu no meio e nas atividades ilícitas, lhe afastando em razoável medida da figura do dito "traficante de primeira viagem".
+Portanto, a instância originária fundamentou concretamente a não aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas. Salientou, para tanto, as condições estabelecidas no art. 42 da Lei de Drogas, qual seja, a quantidade dos entorpecentes apreendidos.
+Embora tal argumento constitua, de fato, elemento concreto e idôneo a justificar a não incidência do redutor, considero que o montante de substâncias encontrado com o acusado (90,5 g de cocaína) não foi excessivamente elevado a ponto de, isoladamente, evidenciar a acentuada reprovabilidade da conduta do réu.
+Entendo, assim, ser desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a não incidência da minorante.
+Assim, identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.343/2006 e fixo a fração de diminuição de pena no patamar de 2/3.
+II. Nova dosimetria
+Ao proceder, pois, à nova dosimetria da pena, verifico que a reprimenda-base ficou estabelecida no mínimo legal, ou seja, em 5 anos de reclusão e pagamento de 500 dias-multa. Na segunda fase, não há agravantes ou atenuantes. Na terceira etapa, reduzo a reprimenda em 2/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em 1 ano e 8 meses reclusão e pagamento de 166 dias-multa.
+III. Consectários - regime e substituição
+Como consectário da redução efetivada na pena do paciente, deve ser procedido ao ajuste no regime inicial do seu cumprimento. Uma vez que ele foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, teve a pena-base estabelecida no mínimo legal, foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 e foi apreendido com quantidade de drogas não tão elevada, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Igual sorte não assiste, contudo, ao acusado quanto à pretendida substituição da sanção reclusiva por medida restritiva de direitos, haja vista que, dados os elementos concretos dos autos - droga altamente deletéria aos usuários e em quantidade não irrelevante -, evidencia-se que a substituição da reprimenda não se mostra medida socialmente recomendável.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo parcialmente a ordem, a fim de: a) aplicar em 2/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, reduzir a reprimenda da paciente para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; e b) fixar o regime aberto de cumprimento de pena.
+Comunique-se, com urgência, o inteiro teor dessa decisão ao Tribunal de Justiça estadual e ao Juízo de primeiro grau, para as providências cabíveis.
+Publique-se e intimem-se.
