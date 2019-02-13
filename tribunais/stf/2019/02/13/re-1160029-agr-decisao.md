@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo regimental contra decisão que negou seguimento a recurso, com fundamento na jurisprudência desta Corte. Eis um trecho desse julgado:
+    “Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Destaco que, para adotar o entendimento de que o recorrente é empresa pública prestadora de serviços públicos de natureza não concorrencial, nos moldes do decidido nos autos da ADPF 387, de minha relatoria, seria indispensável o incursionamento no contexto fático-probatório engendrado nos autos, uma vez que o Tribunal a quo não se manifestou acerca desse ponto”. (eDOC 6, p. 3).
+    No agravo regimental (eDOC 7), entre outras questões, alega-se que o recorrente interpôs recurso especial simultaneamente com o presente recurso extraordinário, sendo que, o seu recurso especial foi provido, no sentido de determinar a aplicação do procedimento previsto no art. 730 do CPC/1973, nos seguintes termos:
+    “PROCESSUAL CIVIL. RECURSO ESPECIAL. EMPRESA PÚBLICA PRESTADORA DE SERVIÇO PÚBLICO SEM ATUAÇÃO NO MERCADO. EQUIPARAÇÃO À FAZENDA PÚBLICA. RITO DO ART. 730 DO CPC/1973. APLICABILIDADE. PRECEDENTES DO STF E STJ. RECURSO ESPECIAL PROVIDO”. (eDOC 4, p. 73).
+    É o relatório.
+    Decido.
+    Da detida análise dos autos, verifico assistir razão à parte recorrente. Assim, reconsidero a decisão constante do eDOC 6 e passo à novo exame do apelo extremo.
+    No caso, observo que o Superior Tribunal de Justiça deu provimento ao Recurso Especial nº 1.613.485 - RS, interposto concomitantemente ao apelo extraordinário, para determinar a aplicação do procedimento previsto no art. 730 do CPC/1973 ao recorrente.
+    Deste modo, considerando a decisão proferida pelo Superior Tribunal de Justiça abarca as razões de pedir do recorrente no recurso extraordinário, ora analisado, julgo o recurso prejudicado, em razão da perda do seu objeto, nesse sentido são os acórdãos abaixo:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. APOSENTADORIA ESPECIAL. PEDIDO DE UNIFORMIZAÇÃO ACOLHIDO PELO TRIBUNAL DE ORIGEM. PERDA DO OBJETO DO RECURSO EXTRAORDINÁRIO. 1. Constata-se que foi proferida decisão pela Turma de Uniformização reconhecendo o direito pleiteado pelo ora embargante nas razões de seu recurso extraordinário, motivo pelo qual não há como deixar de reconhecer o prejuízo do recurso pela perda superveniente do seu objeto. 2. Embargos de declaração acolhidos, com excepcionais efeitos modificativos, para dar provimento ao agravo interno e julgar prejudicado o recurso extraordinário”. (ARE 933.856 AgR-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe 5.11.2018).
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO: DENEGAÇÃO DO MANDADO DE SEGURANÇA. RECURSO EXTRAORDINÁRIO PREJUDICADO: PERDA SUPERVENIENTE DE OBJETO. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 1.069.871 ED-AgR, Rel. Min. Cármen Lúcia (Presidente), Tribunal Pleno, DJe 26.6.2018).
+    Ante o exposto, reconsidero a decisão constante do eDOC 6 e julgo prejudicado o agravo regimental, bem como, o recurso extraordinário, ante a superveniente perda de objeto (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
