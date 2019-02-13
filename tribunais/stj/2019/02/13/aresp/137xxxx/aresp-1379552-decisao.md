@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por CONDOMÍNIO RESIDENCIAL PINHEIROS, contra decisão que não admitiu recurso especial (fls. 501/502 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado: (fl. 452, e-STJ):
+Ação monitória - contrato de prestação de serviços de construção - prova pericial que constatou defeitos nos serviços prestados e inexecução de parte das oln"as - abatimento proporcional do preço - sucumbência recíproca reconhecida com a adequada distribuição proporcional dos encargos - ação julgada parcialmente procedente - sentença mantida - recurso improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 466/469, e-STJ).
+Na origem, a demanda proposta versa sobre ação monitória visando o ressarcimento pelos danos materiais. O Juízo de primeiro grau julgou parcialmente procedente o pedido. O Tribunal a quo manteve incólume a sentença.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos artigos 535, do CPC/73, 476, 615, 313, 616 e 442, do CC/02. Sustenta, em síntese, que não é obrigado a aceitar a obra defeituosa.
+Contrarrazões às fls. 497/499, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do apelo especial, sob argumento de inexistir negativa a prestação jurisdicional, bem como rever a conclusão do Tribunal demandaria o reexame de fatos e provas.
+Daí o presente agravo (fls. 505/536, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o recorrente busca refutar os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 539/540, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Quanto à apontada violação do artigo 535 do CPC/73, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Destaque-se, por oportuno, que a matéria essencial para o deslinde da controvérsia foi objeto de manifestação pela Corte local, embora contrária aos interesses do recorrente, consoante denotam os seguintes excertos do acórdão recorrido (fls. 468/469, e-STJ):
+ ..  Com efeito, o V. Acórdão deixou claro que o valor a ser pago relativamente ao contrato objeto da cobrança foi corretamente definido pela r. sentença de Primeiro Grau, asseverando "as conclusões técnicas da perícia realizada, que constatou falhas na colocação de pisos, redução de custos pela substituição do piso, além da obra da guarita, que foi entregue inacabada, gerando a necessidade de desconto do valor inicialmente contratado, apurando o valor devido pelo apelante" (fls. 464). A esse passo, verifica-se que o julgado concluiu de forma diversa da pretendida pela parte interessada, caracterizando, assim, o vedado caráter infringencial, não passível de apreciação nesta sede.  .. "
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados. Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+3. No caso concreto, o Tribunal local, com amparo nos elementos de convicção dos autos, concluiu que deveria haver o abatimento do débito perseguido pela parte recorrida.
+Confira-se trecho extraído do aresto hostilizado (fls. 453, e-STJ):
+" ..  Essa é a hipótese dos autos, pois a apreciação do pedido do autor independe da realização de outras provas, podendo ser realizada à luz do direito positivo vigente, podendo ser realizada de acordo com a perícia levada a efeito. Meritoriamente, consigna-se que, corretamente, a r. sentença analisou detidamente as conclusões técnicas da perícia realizada, que constatou falhas na colocação de pisos, redução de custos pela substituição do piso, além da obra da guarita, que foi entregue inacabada, gerando a necessidade de desconto do valor inicialmente contratado, apurando o valor devido pelo apelante. E tal entendimento não restou alterado pelas razões recursais.  .. ".
+Por outro lado, o recorrente defende que não deve ser obrigado a receber o serviço prestado, pois eivado de vícios.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS. AUSÊNCIA DE ILÍCITO CARACTERIZADOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. PRECLUSÃO TEMPORAL. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. O Tribunal local, mediante a análise do contexto fático-probatório dos autos, foi categórico em afastar a responsabilidade da empresa recorrida pelos alegados danos reclamados pelo autor da ação, concluindo pela ausência dos requisitos ensejadores da reparação civil. Infirmar, pois, as conclusões do acórdão recorrido, como postulado pelo agravante, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+2. A falta de combate a fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência ao recurso especial do óbice da Súmula 283/STF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.128/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/09/2014, DJe 16/10/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. AUSÊNCIA DE PROVAS SUFICIENTES PARA COMPROVAR O ALEGADO NA INICIAL. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. VIOLAÇÃO DO ART. 333 DO CPC/73. 3. AGRAVO INTERNO IMPROVIDO.
+1. O acolhimento da pretensão recursal, quanto a existência de provas suficientes para comprovar o alegado na inicial, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+2. O STJ tem entendimento pacificado de que cabe às instâncias ordinárias, soberanamente, a análise quanto à necessidade e suficiência da prova para a formação de seu livre convencimento motivado.
+3. Agravo interno improvido.
+(AgInt no REsp 1591919/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 25/11/2016)
+4. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se.Intimem-se.
