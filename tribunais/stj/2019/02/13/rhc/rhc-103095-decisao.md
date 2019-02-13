@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por UILLES DOS SANTOS GUEDES contra acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia (HC n. 0025207-93.2017.8.05.0000).
+Depreende-se dos autos que o recorrente foi preso em flagrante, no dia 19 de junho de 2016, na companhia de um adolescente, pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, c/c o art. 40, VI, todos da Lei n. 11.343/2006, no art. 12 da Lei n. 10.826/2003 e no art. 309 da Lei n. 9.503/1997, todos na forma do art. 69 do Código Penal.
+Narra a denúncia que uma guarnição da Polícia Militar, em ronda de rotina, avistou dois indivíduos em uma motocicleta, sendo que eles, ao perceberem a presença policial, desfizeram-se de 12 (doze) papelotes de substância entorpecente conhecida como cocaína, que seriam vendidos em uma festa por R$ 60,00 (sessenta reais) cada. Foi ainda encontrada na carteira do adolescente uma pedra de crack, a qual seria vendida ao valor de R$ 10,00 (dez reais).
+A prisão em flagrante foi convertida em preventiva (e-STJ fls. 17/19).
+Irresignada com a manutenção da custódia e com a demora para a formação da culpa, a defesa impetrou prévio writ na origem, entretanto a ordem foi denegada, conforme evidencia a seguinte ementa (e-STJ fls. 48/49):
+HABEAS CORPUS. ART. 33 C/C ART. 35, C/C ART. 40, INCISO IV, DA LEI Nº 11.343/2006, C/C ART. 12 DA LEI 10.826/2003, C/C ART. 309 DA LEI 9.503/97. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, POSSE ILEGAL DE ARMA DE FOGO. DECRETO DE PRISÃO PREVENTIVA ESTEADO EM FUNDAMENTAÇÃO IDÔNEA. PACIENTE FIGURA COMO RÉU EM OUTRAS AÇÕES PENAIS. RISCO DE REITERAÇÃO DELITIVA. ANDAMENTO DO FEITO EM CONFORMIDADE COM O PRINCÍPIO DA RAZOABILIDADE. NÃO CONFIGURADA DESÍDIA NA CONDUÇÃO DO PROCESSO. INSTRUÇÃO ENCERRADA. SÚMULA 52 DO STJ. ORDEM DENEGADA.
+- Presentes os pressupostos e os requisitos da prisão preventiva, corroborados com os suficientes indícios de autoria e prova da materialidade do delito, em razão do flagrante, bem como não havendo qualquer ilegalidade na prisão do paciente, é de ser denegada a ordem.
+- Nos termos da jurisprudência tanto desta Corte quanto dos Tribunais Superiores, é válida a prisão preventiva para a garantia da ordem pública, fundamentada no risco de reiteração da conduta delitiva.
+- Embora o art. 319, do CPP, preveja a aplicação de medidas cautelares em substituição à prisão preventiva, a análise do caso concreto não recomenda que as mesmas sejam utilizadas quando, em se considerando a periculosidade do paciente, essas não se revelarem suficientes para assegurar, de forma eficaz, a ordem pública.
+- Os prazos processuais não devem sofrer rigor excessivo em sua observância, sendo necessário o exame segundo as especificidades do caso, a exigir demora injustificada para que se configure ilegalidade do cerceamento imposto.
+- A Súmula 52 do Superior Tribunal de Justiça estabelece que encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+HABEAS CORPUS DENEGADO.
+Daí o presente recurso ordinário (e-STJ fls. 62/74), no qual o recorrente, por meio da Defensoria Pública estadual, reitera o pedido de revogação da prisão preventiva por excesso de prazo para a formação da culpa e ausência de fundamentação do decreto constritivo. Aduz, ainda, a ausência de manifestação quanto à possibilidade de substituição do cárcere por outras medidas cautelares menos gravosas.
+Argumenta que o processo teve a instrução realizada em 5/4/2017, que foram apresentadas as alegações finais e que desde 8/11/2017 aguarda-se a prolação de sentença.
+Requer, liminarmente e no mérito, seja-lhe reconhecido o direito de responder ao processo em liberdade, expedindo-se o competente alvará de soltura em seu favor.
+A liminar foi indeferida (e-STJ fls. 84/87) e foram prestadas as informações às e-STJ fls. 92/93, 103/106 e 107/126).
+É, em síntese, o relatório.
+Pois bem. Informações prestadas pelo Juízo de primeiro grau às e-STJ fls. 92/93 noticiam que o recorrente foi absolvido, em 26/5/2018, da prática dos crimes que lhe foram imputados, expedido o competente alvará de soltura.
+Assim, fica sem objeto este recurso, que buscava, justamente, a soltura do recorrente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
