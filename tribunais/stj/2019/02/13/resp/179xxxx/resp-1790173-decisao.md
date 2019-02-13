@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial, apresentado por OI S.A, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de OI S.A, o recurso especial não foi instruído com a guia de custas e seu respectivo comprovante de pagamento e, apesar de a parte ter juntado os comprovantes posteriormente, não há como se verificar a tempestividade do referido recolhimento, o que acarreta a deserção.
+Ressalte-se que "a greve dos bancários constitui justo impedimento ao recolhimento do preparo, desde que efetivamente impeça a parte de assim proceder, circunstância que deve ser manifestada e comprovada no ato da interposição do respectivo recurso, com o posterior pagamento das custas e a juntada da respectiva guia aos autos, no dia subsequente ao término do movimento grevista (ou no prazo eventualmente fixado pelo respectivo Tribunal via portaria), sob pena de preclusão" (AgRg nos EREsp n. 1.002.237/SP, Segunda Seção, relatora Ministra Nancy Andrighi, DJe de 20/11/2012).
+Dessa forma, no caso dos autos, apesar de a parte ter juntado os comprovantes posteriormente, não há como ser verificada a tempestividade do referido recolhimento, uma vez que não foi carreado aos autos documento comprovando o término do movimento paredista, tampouco portaria do tribunal de origem regulamentando o recolhimento, razão pela qual não se pode considerar o recolhimento efetuado em razão da preclusão.
+Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
