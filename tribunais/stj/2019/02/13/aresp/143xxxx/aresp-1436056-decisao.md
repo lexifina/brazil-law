@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu recurso especial, em face da incidência da Súmula 83/STJ à espécie.
+A parte agravante sustenta, em síntese, que não se aplica a Súmula 83 do STJ aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional e que o Tribunal a quo usurpou da competência desta Corte.
+É o relatório.
+De início, consigna-se que a jurisprudência desta Corte orienta-se no sentido de que a Súmula 83/STJ tem aplicação tanto em relação aos recursos especiais amparados na alínea c, quanto pela alínea a, do permissivo constitucional.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA AFASTADA. INCIDÊNCIA DAS SÚMULAS NºS 7 E 83/STJ.
+ ..
+5. Estando o acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula nº 83 desta Corte, aplicável por ambas as alíneas autorizadoras.
+6. Agravo regimental não provido.
+(AgRg no REsp 1082347/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/6/2013, DJe 9/8/2013)
+Ademais, sem razão a parte recorrente ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Nesse linha de raciocínio, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial. No caso, como o recurso especial foi inadmitido tendo por base também a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Em outras palavras, o agravo deixou de rebater, de modo específico, um dos fundamentos adotados pela decisão agravada, o que atrai a incidência, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
