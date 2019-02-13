@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por INSTITUTO SÃO PAULO DE ARTE E CULTURA, contra decisão que não admitiu recurso especial (fls. 416/417 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado: (fl. 391, e-STJ):
+AÇÃO DE COBRANÇA. Contrato de prestação de serviços. 1. Prescrição. Reconhecimento parcial. Prazo de cinco anos contados da data de vencimento de cada parcela autônoma (art. 206, § 3º, VIII, Código Civil). Prescrição reconhecida quanto as parcelas vencidas entre fevereiro e julho de 2010. 2. Livros contábeis apresentados como prova de pagamento. Dúvida sobre os lançamentos. Impugnação do autor. Julgamento antecipado da lide. Inadmissibilidade. Necessidade de abertura de instrução. Sentença parcialmente anulada. Recurso parcialmente provido para esse fim.
+Na origem, a demanda proposta versa sobre ação de cobrança visando o ressarcimento pelos danos materiais. O Juízo de primeiro grau julgou improcedente o pedido. O Tribunal a quo deu parcial provimento ao reclamo para reformar a sentença e determinar o retorno dos autos a origem.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos artigos 355, I, 408 e 418, do CPC. Sustenta, em síntese, que há prova suficiente para reconhecer a quitação da totalidade da dívida.
+Contrarrazões às fls. 409/414, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do apelo especial, sob argumento de rever a conclusão do tribunal demandaria a reexame de fatos e provas.
+Daí o presente agravo (fls. 419/433, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o recorrente busca refutar o óbice aplicado pela Corte estadual.
+Contraminuta às fls. 435/437, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. No caso concreto, o Tribunal local, com amparo nos elementos de convicção dos autos, considerou que não era caso de julgamento antecipado da lide. Confira-se trecho extraído do aresto hostilizado (fl. 394, e-STJ):
+" ..  Quanto às demais mensalidades, vencidas entre agosto de 2010 e março de 2011, com o devido respeito, o pagamento não foi comprovado de forma hábil pelo réu. Embora registrados os lançamentos dos honorários contábeis nos livros comerciais, não significa, necessariamente que tenham sido pagos. Mesmo porque os mesmos livros apontam valores no passivo circulante do réu em nome da autora, o que deixa dúvidas acerca dos alegados pagamentos. Portanto, uma vez impugnados, os lançamentos deveriam ser ratificados com os respectivos documentos comprobatórios. Sendo assim, o caso era de instrução do feito e não de julgamento antecipado, com acolhimento do pedido. Todavia, sequer foi dada a oportunidade de as partes especificarem provas, e, ademais, ainda que não o fizessem, convém lembrar que é ao juiz que compete "determinar as provas necessárias ao julgamento do mérito" (art. 370, CPC).  .. ".
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. MORA CARACTERIZADA. NECESSIDADE DE DEVOLUÇÃO DOS VALORES PAGOS. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO DA RESPONSABILIDADE SOLIDARIA DA IMOBILIÁRIA. Súmula 7/STJ. FALTA DE PREQUESTIONAMENTO.
+1. Os integrantes da cadeia de consumo, em ação indenizatória consumerista, também são responsáveis pelo danos gerados ao consumidor, não cabendo a alegação de que o dano foi gerado por culpa exclusiva de um dos seus integrantes. Precedentes.
+2. A análise da pretensão recursal referente à necessidade de produção de outras provas para o deslinde da controvérsia e à possibilidade do julgamento antecipado da lide demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido. Incidência da Súmula 7 do STJ.
+3. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no AREsp 1029864/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/09/2018, DJe 21/09/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1042 DO CPC/15) - AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C DESPEJO, ARBITRAMENTO E COBRANÇA DE ALUGUEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS RÉUS.
+1. A jurisprudência do STJ se firmou no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. As conclusões adotadas pelo órgão julgador no sentido de competir ao juiz decidir sobre a produção de provas necessárias, ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando em cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ.
+3. O Tribunal local, após análise do conjunto probatório constante dos autos, considerou que se insere no poder de livre apreciação da prova do magistrado decidir sobre a possibilidade de julgamento antecipado da lide, sendo que a pretensão recursal exige o revolvimento de fatos e provas, procedimento vedado por esta Corte Superior, a teor da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1080264/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se.Intimem-se.
