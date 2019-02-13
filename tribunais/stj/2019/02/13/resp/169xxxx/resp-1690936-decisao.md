@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO FINASA S.A. contra acórdão que negou provimento ao agravo de instrumento interposto, em julgado que recebeu a seguinte ementa (e-STJ fl. 242):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. LIMINAR DEFERIDA. VENDA DO BEM.
+Se o credor vende extrajudicialmente o bem apreendido, contrariando expressa determinação judicial e sem ter dado ciência ao devedor de que iria aliená-lo, aquele deve devolver a este o valor de mercado do bem apurado pelo oficial de justiça no momento da apreensão do automóvel e não a quantia recebida pela alienação indevida.
+Nas razões do recurso especial (e-STJ fls. 249/262), o recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 2º do Decreto-Lei n. 911/1969. Informa que "após o deferimento da liminar e seu devido cumprimento, o Réu não se manifestou no sentido de purgar a mora, dentro do prazo previsto de 5 dias, com o intuito de reaver o bem e quitar o débito de seu contrato, o que por si só consolida a posse do bem nas mãos do credor, conforme disposto no artigo 3º, § 1º do Decreto-Lei 911/69" (e-STJ fl. 254). Conclui que "não há que se falar em desrespeito à ordem judicial por parte do Recorrente, frente à ausência de notificação do Recorrido quanto à realização do leilão do bem ora apreendido, posto que, não há sequer previsão legal que obrigue o Recorrente a comunicar o Recorrido" (e-STJ fl. 254).
+Sustenta, ainda, a falta de ocorrência de enriquecimento ilícito, pois "o devedor (comprador), por sua vez, permanece como possuidor direto da coisa até quitação final do débito, de forma que, se no decorrer da execução da avença, deixar ele de solver as obrigações pactuadas, sobrevém à consolidação da titularidade dominial ao credor, a quem é licito proceder a alienação do bem para satisfação de seu crédito, conforme preconiza o artigo 3º, § 1º, do Decreto-Lei 911/69" (e-STJ fl. 256).
+Aduz, por fim, que "o Recorrido em momento algum apresentou provas de que o valor arrecadado com o leilão do veículo estava abaixo do valor real do bem, baseando-se sempre na avaliação superficial realizada por parte do Sr. oficial de Justiça" (e-STJ fl. 257).
+O recorrido apresentou contraminuta (e-STJ fls. 321/324).
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal de origem manteve a decisão de primeira instância, que condenou a instituição financeira a restituir o "valor do bem apurado pelo Oficial de Justiça no auto de busca e apreensão, acrescido de correção monetária e juros de mora de 1% ao mês" (e-STJ fl. 243), nos seguintes termos (e-STJ fls. 243/245):
+Conforme se verifica dos autos, o Agravante, após a improcedência da ação de busca e apreensão ajuizada em desfavor do Agravado, foi intimado a devolver o bem objeto do contrato firmado entre as partes, que se encontrava em seu poder em decorrência de decisão liminar proferida no mencionado processo.
+Realizada a venda extrajudicial do bem apreendido, conforme lhe faculta o Decreto -Lei 911/69, a instituição financeira depositou em juízo o valor arrecadado com a referida alienação, qual seja, R$5.700,00 (cinco mil e setecentos reais), ao fundamento de que este era o valor de mercado do veículo.
+Após ampla discussão acerca do valor a que o Agravante estava obrigado a devolver ao Agravado, o juízo a quo proferiu a decisão objeto do presente recurso, determinando que o valor a ser restituído seria aquele informado pelo Oficial de Justiça no momento da busca e apreensão do bem, qual seja, R$10.500,00 (dez mil e quinhentos reais).
+A controvérsia cinge-se, portanto, em se aferir se o Agravante está obrigado a restituir o valor do bem apurado com sua venda em leilão ou se deve devolver ao Agravado o valor informado na avaliação feita pelo Oficial de Justiça no ato da busca e apreensão.
+Sabe-se que a possibilidade de venda do veículo apreendido está garantida ao credor nas formas regidas pelo Decreto-Lei 911/69.
+Contudo, foi igualmente prevista a aplicação de multa e perdas e danos no art. 3º, §6º e §7º, do mencionado Decreto-Lei, visando a compensar o demandado que teve retirado seu patrimônio sem causa jurídica para tanto.
+Analisando com acuidade os documentos juntados, verifica-se que o juízo de primeira instância indeferiu o pedido para que o veículo fosse liberado para venda às fls. 66-67 - TJ, ao argumento de que a autorização para alienação do bem poderia acarretar prejuízos irreparáveis ao consumidor.
+No entanto, em flagrante desrespeito à ordem judicial, o Agravante alienou o automóvel e somente informou ter vendido o bem após ter sido intimado, derradeiramente, para restitui-lo.
+Além disso, não há notícia nos autos de que o Agravante comunicou o Agravado do leilão do bem, em flagrante desrespeito ao entendimento -pacificado na jurisprudência de que o credor deve dar ciência ao devedor de que alienará o bem apreendido:
+(..).
+Assim, a fim de se evitar o enriquecimento ilícito da instituição financeira, o retorno ao status quo ante somente ocorrerá com a restituição do valor de mercado do bem, constante da avaliação do oficial de justiça, e não do valor da venda do bem, que foi realizada indevidamente.
+(grifei).
+Dessa forma, foi negado provimento ao recurso sob o fundamento de que, apesar do indeferimento pelo juízo de primeira instância do pedido de liberação do veículo para venda, o recorrente, desrespeitando a ordem judicial, alienou o automóvel. Assim, para evitar o enriquecimento ilícito da instituição financeira, foi determinada a restituição ao recorrido do valor de mercado do bem, de acordo com avaliação do oficial de justiça (R$ 10.500,00 - dez mil e quinhentos reais), e não pelo valor da venda (R$ 5.700,00 - cinco mil e setecentos reais).
+Contudo, no recurso especial, a parte, apontando contrariedade ao art. 2º do Decreto-Lei n. 911/1969, não impugnou o principal fundamento do acórdão recorrido. Incidem, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
