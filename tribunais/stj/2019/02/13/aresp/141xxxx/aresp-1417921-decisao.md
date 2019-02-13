@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM RESTITUIÇÃO DE VALORES. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. LEGITIMIDADE PASSIVA. RESPONSABILIDADE CONSTATADA PELAS INSTÂNCIAS ORDINÁRIAS COM BASE NAS PROVAS E NO CONTRATO. SÚMULAS N. 5 E 7 DO STJ. 2. INCIDÊNCIA DO PRAZO PRESCRICIONAL DECENAL. ART. 205 DO CC. PRECEDENTES. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação de conhecimento em desfavor de [NOME] e [NOME] - espólio, pretendendo a rescisão do contrato de compromisso de compra e venda de terreno e a devolução da quantia paga.
+O Magistrado de primeiro grau julgou procedentes os pedidos para declarar a rescisão do contrato e condenar os requeridos a devolverem, ao requerente, o valor de R$ 80.000,00 (oitenta mil reais), com correção monetária a partir do desembolso e juros de 1% ao mês, desde a data limite para a entrega do empreendimento.
+Interposta apelação pelos requeridos, a Nona Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu parcial provimento ao apelo apenas para adequar o termo inicial dos juros de mora, a partir da citação.
+O acórdão está assim ementado (e-STJ, fls. 155-164):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - LEGITIMIDADE PASSIVA - Réus que figuraram no contrato como vendedores e garantidores hipotecários da empresa responsável pelas obras de infraestrutura do loteamento - Aplicação do Código de Defesa do Consumidor à espécie, notadamente o art. 7º, parágrafo único e art. 25, § 1º, que prevê a responsabilidade solidária entre todos os causadores dos danos - Legitimidade passiva dos réus pelo atraso na entrega do lote compromissado - PRELIMINAR REJEITADA.
+PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - Inocorrência - Pretensão de resolução contratual com restituição de valores decorrente de inadimplemento contratual por parte dos réus, com relação ao atraso na entrega do imóvel - Aplicação do prazo de prescrição decenal (art. 205 do CC) - O prazo prescricional previsto no artigo 206, parágrafo 3º, V, do CC incide apenas nos casos de responsabilidade civil extracontratual - Precedentes do c. STJ - PREJUDICIAL DE MÉRITO REJEITADA.
+RESOLUÇÃO DE COMPROMISSO DE COMPRA E VENDA DE LOTE SEM BENFEITORIA - PEDIDO DE RESTITUIÇÃO DE VALORES PAGOS - CULPA DOS RÉUS - Atraso na entrega do lote compromissado, por mais de quatro anos - Fato que motivou o desinteresse do autor no prosseguimento do negócio, tendo inclusive, já quitado o preço ajustado no contrato - Possibilidade de resolução contratual, com restituição integral dos valores pagos pelo autor, considerando a culpa dos réus - Súmula 543 do STJ - Réus que agiram de má-fé ao utilizarem-se do imóvel compromissado para integralizar o capital social da empresa que assumiu as obras, da qual são sócios - Expedição de ofício ao Ministério Público corretamente determinado na sentença - Sentença reformada unicamente para adequar o termo inicial dos juros de mora, a partir da citação - RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Os demandados interpuseram recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 17 do CPC/2015; e 206, § 3º, V, do Código Civil.
+Sustentaram, em síntese, sua ilegitimidade passiva, pois "a realização das obras relativas à infraestrutura do empreendimento residencial ventura estava a cargo exclusivo da empresa Terra Azul" (e-STJ, fl. 200).
+Aduziram, ainda, a ocorrência da prescrição, considerando a incidência do prazo trienal, contado da celebração do contrato.
+Contrarrazões às fls. 207-223 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de não demonstração da alegada ofensa aos dispositivos legais arrolados e de incidir a Súmula 7/STJ.
+Irresignados, os recorrentes apresenta agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 247-258 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, ao analisar a questão da legitimidade passiva de [NOME] e [NOME] - espólio, o acórdão recorrido, mediante acurada análise do acervo probatório e do contrato firmado entre os recorrentes e [NOME], asseverou que consignou que a parte é integrante da cadeia de consumo, devendo responder pelo atraso na entrega do lote compromissado.
+Confira-se o seguinte trecho extraído do aresto combatido (e-STJ, fls. 159-160):
+Depreende-se dos autos que em 02/06/2009, o autor celebrou com [NOME] e [NOME], "Instrumento Particular de Compromisso de Venda e Compra" do Lote nº 07, da Quadra 03, do "Loteamento Residencial Ventura", localizado na Comarca de Itatiba/SP, pelo preço total de R$ 80.000,00, pago à vista na data da assinatura do contrato (fls. 09/18).
+Sendo assim, não há que se falar em ilegitimidade passiva dos réus, que figuram no compromisso de compra e venda na qualidade de vendedores, ostentando, portanto, a existência de ação conjunta com a empresa Terra Azul, responsável pelas obras de infraestrutura.
+Registre-se que o Código de Defesa do Consumidor, ao qual se submete a relação entre as partes, assegura ao consumidor o direito de buscar ressarcimento por danos sofridos contra todos os que participaram da cadeia de fornecimento de produtos ou serviços (art. 7º, parágrafo único e art. 25, § 1º, CDC), pelo que não podem os réus agora, arguir não terem qualquer responsabilidade pelo descumprimento do que foi pactuado no compromisso que firmaram com o autor.
+Não bastasse, como bem destacou a i. Magistrada sentenciante, "pela prova harmônica produzida nos autos, ficou evidenciado que o contrato descrito na inicial não foi cumprido, não sendo possível aos requeridos se eximirem da responsabilidade acerca da não conclusão do empreendimento.
+Registre-se que os requeridos figuraram como garantidores hipotecários da conclusão das obras no Termo de Ajustamento de Conduta firmado (fl. 36). Ainda, consoante se infere dos feitos n.º 1004468.35.2014 e 1003659-45.2014, em trâmite nesta Vara, a requerida é sócia administradora da pessoa jurídica "[NOME] Empreendimentos e Participações Ltda.", que assumiu a responsabilidade pela conclusão das obras do empreendimento."
+Desse modo, para infirmar as conclusões do Tribunal de origem, seriam imprescindíveis o reexame de provas e a análise do contrato, o que é inadmissível nesta instância extraordinária, consoante dispõem as Súmulas n. 5 e 7 do STJ.
+No mais, constata-se que o Tribunal local afastou a alegação de prescrição, sob o argumento de que o prazo prescricional a ser aplicado é o de 10 (dez) anos (art. 205 do Código Civil).
+Tal entendimento se harmoniza à orientação firmada nesta Corte, de que o prazo prescricional para a pretensão de restituição de valores pagos, diante de rescisão de contrato de compra e venda de imóvel, submete-se ao prazo prescricional de 10 (dez) anos, previsto no art. 205 do Código Civil.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DE VALORES PAGOS. PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CC/2002. RECURSO IMPROVIDO.
+1. A pretensão ao recebimento de valores pagos, que não foram restituídos diante de rescisão de contrato de compra e venda de imóvel, submete-se ao prazo prescricional de 10 (dez) anos, previsto no art. 205 do Código Civil, e não ao prazo de 3 (três) anos, constante do art. 206, § 3º, IV e V, do mesmo diploma.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.544.768/DF, Relator o Ministro Lázaro Guimarães, Desembargador Convocado do TRF 5ª Região, Quarta Turma, DJe de 27/11/2017);
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE COBRANÇA. RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL. DECENAL. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7 DO STJ.
+1. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+2. Não cabe, em recurso especial, reexaminar conteúdo contratual, bem como matéria fático-probatória. Incidência dos Enunciados n.º 5 e 7/STJ.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.498.564/MG, Relator o Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 29/9/2017);
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. RESTITUIÇÃO DE VALORES PAGOS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. ACÓRDÃO QUE AFASTOU A PRESCRIÇÃO E ANULOU A SENTENÇA. VIOLAÇÃO DO ART. 535 DO CPC DE 1973. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. ART. 205 DO CC DE 2002. JURISPRUDÊNCIA. MÉRITO NÃO DISCUTIDO. FALTA DE PREQUESTIONAMENTO. RECURSO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado n. 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Não prospera a alegada ofensa ao art. 535 do Código de Processo Civil/73, tendo em vista que o v. acórdão recorrido enfrentou as questões alegadas, adotando fundamentação suficiente e decidindo integralmente a controvérsia, não obstante tenha adotado entendimento contrário ao buscado pela recorrente.
+3. O acórdão recorrido acompanha o entendimento desta Corte no sentido de ser aplicável, ao caso, o prazo prescricional geral decenal previsto no art. 205 do Código Civil de 2002, por se tratar de demanda em que há pedido de restituição de valores pagos decorrente de rescisão de contrato de promessa de compra e venda ajuizada antes de transcorrida metade do prazo vintenário estabelecido no Código Civil de 1916. Precedentes.
+4. É incabível a apreciação do mérito da demanda na hipótese em que mantido o acórdão recorrido que anulou a sentença para, afastando-se a prescrição, determinar o prosseguimento do feito, ante a ausência de prequestionamento.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.321.697/RJ, Relator o Ministro Raul Araújo, Quarta Turma, DJe de 24/4/2017);
+RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. NÃO OCORRÊNCIA. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR PERDAS E DANOS E DANO MORAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL. ART. 205 DO CC. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. Afasta-se a ofensa aos arts. 458 e 535 do CPC quando a Corte de origem examina, de modo claro e objetivo, as questões que delimitam a controvérsia.
+2. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões indenizatórias decorrentes de inadimplemento contratual.
+3. Não se conhece de recurso especial fundado em dissídio jurisprudencial quando não realizado o cotejo analítico entre os arestos confrontados.
+4. Recurso especial parcialmente conhecido e desprovido.
+(REsp n. 1.591.223/PR, Relator o Ministro João Otávio de Noronha, Terceira Turma, DJe de 9/6/2016)
+Desse modo, incide a Súmula n. 83 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre o valor da condenação.
+Publique-se.
