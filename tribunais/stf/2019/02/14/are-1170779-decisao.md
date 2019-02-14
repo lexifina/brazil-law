@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ANALISTA JUDICIÁRIO DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS. SISTEMA DE COTAS PARA NEGROS. ANÁLISE DAS CARACTERÍSTICAS FENOTÍPICAS DO CANDIDATO. APLICAÇÃO DA LEI 12.990/14.
+    I – É constitucional a avaliação realizada por banca examinadora de concurso público sobre a presença de características fenotípicas negras para a inclusão do candidato na relação de aprovados nas vagas reservadas às cotas para negros, conforme entendimento do STF no julgamento da ADPF 186/DF.
+    II – As características físicas do impetrante atendem ao critério da aparência adotado pelo edital do concurso para a reserva de vagas aos candidatos negros, por isso, deve ser reconhecido seu direito ao benefício estabelecido na Lei 12.990/14.
+    III – Segurança concedida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 2º da CF. Requer a reforma do acórdão recorrido, de modo a reconhecer “a impossibilidade do Poder Judiciário alterar os critérios de identificação das pessoas negras (pretas ou pardas) para fins de classificação em vagas reservadas em concurso público”.
+    O recurso extraordinário é inadmissível. O Plenário do Supremo Tribunal Federal (STF), ao examinar em 08.06.2017 o mérito da ADC 41, sob minha relatoria, declarou a integral constitucionalidade da Lei nº 12.990/2014, que reserva vagas para negros em concursos públicos. Na oportunidade fixou a seguinte tese: “É constitucional a reserva de 20% das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública direta e indireta. É legítima a utilização, além da autodeclaração, de critérios subsidiários de heteroidentificação, desde que respeitada a dignidade da pessoa humana e garantidos o contraditório e a ampla defesa”.
+    Na hipótese, para dissentir da conclusão adotada pelo Tribunal de origem, no sentido de que “as características físicas do impetrante atendem ao critério da aparência adotado pelo edital do concurso para a reserva de vagas aos candidatos negros” seria imprescindível o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), da legislação infraconstitucional pertinente e de cláusulas editalícias (Súmula 454/STF), o que torna inviável o processamento do recurso extraordinário. Confira-se, na mesma linha, o RE 1.074.953, Rel. Min. Dias Toffoli.
+    Quanto à suposta violação ao art. 2º da Constituição, o STF já firmou o entendimento de que não viola o princípio da separação dos Poderes o exame, pelo Poder Judiciário, do ato administrativo tido por ilegal ou abusivo. Veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 14 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
