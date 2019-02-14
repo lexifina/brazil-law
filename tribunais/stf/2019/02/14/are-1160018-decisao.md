@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo (eDOC 1, p. 105):
+    HONORÁRIOS PERICIAIS. Requerimento da prova feito pelo autor. Adiantamento pelo demandante. Não cabimento Lei especial aplicável às ações civis públicas (art. 18, Lei nº 7.347/1985). Trabalho pericial que tampouco pode ser feito gratuitamente ou ter seu custeio transferido ao réu. Inteligência dos arts. 19, 20 e 33 do CPC. Uso dos recursos do Fundo Estadual de Defesa dos Interesses Difusos. Admissibilidade. Enquadramento em suas finalidades. Recurso improvido.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 97; e 167, II e IV, da Constituição Federal. Sustenta-se violação aos princípios que regem o orçamento público, bem como ofensa ao princípio da reserva de plenário, valor social do trabalho e à previsão do repouso semanal remunerado preferencialmente aos domingos.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, de violação ao regramento constitucional do orçamento público, a parte Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (Lei 7.347/1985, art. 18; Código de Processo Civil, arts. 19, 20 e 33; Lei Estadual/SP 13.555/09), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Quanto à alegação de violação do art. 97 do Texto Constitucional, constato que a decisão do Tribunal de origem não declarou a inconstitucionalidade dos dispositivos normativos, mas apenas interpretou norma legal. A jurisprudência desta Corte é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Não se verifica, portanto, desrespeito à cláusula da reserva de plenário, como pretende o Recorrente. A hipótese é de mera interpretação sistemática, que não exige a aplicação do art. 97 da Constituição Federal. Nesse sentido, confiram-se os seguintes precedentes: ARE 822.168-AgR, Rel. Min. Roberto Barroso, Primeira Turma,  DJe  de 18.11.2014; RE 792.917-AgR, Rel. Min. Luiz Fux, Primeira Turma,  DJe  de 03.06.2014; e RE 773.577-AgR, Rel. Min. Marco Aurélio, Primeira Turma,DJe  de 19.03.2014.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
