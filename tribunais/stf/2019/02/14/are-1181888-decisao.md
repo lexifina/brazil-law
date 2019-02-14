@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão recorrido:
+    AÇÃO ORDINÁRIA DE DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. CONSELHO REGIONAL DE QUÍMICA-IV-REGIÃO. EMPRESA DE TRANPORTE E ARMAZENAGEM DE PETRÓLEO. ATIVIDADE BÁSICA DA EMPRESA (ART. 1° DA Lei 6839/1980). DESOBRIGATORIEDADE DE REGISTRO. CONTRATAÇÃO DE PROFISSIONAL QUÍMICO. POSSIBILIDADE NOS TERMOS DO LAUDO PERICIAL.
+    1- O critério legal para a obrigatoriedade ou não de registro junto aos conselhos profissionais determina-se pela atividade básica da empresa, ou pela natureza da prestação de serviços a terceiros, a teor do artigo 1" da Lei no 6.839/80.
+    2- Empresa que opera no ramo de "I- as operações de transporte e armazenamento de granéis, petróleo e seus derivados e de gás em geral, por meio de dutos, terminais ou embarcações, próprias ou de terceiros; II- o transporte de sinais, de dados, voz e imagem associados às suas atividades fins; III- a construção e operação de novos dutos, terminais e embarcações, mediantes associação com outras empresas majoritária ou minoritariamente; a participação em outras sociedades controladas ou coligadas, bem como o exercício de outras atividades afins e correlatas. § 1° às atividades econômicas decorrentes de seu objeto social serão desenvolvidas pela companhia em caráter de livre competição com outras empresas, obedecendo estritamente às condições de mercado. §2° a companhia exercerá atividades vinculadas ao seu objeto social por meios próprios ou de terceiros"" não desenvolve atividade ligada à química, nem presta serviços de tal natureza a terceiros, não estando sujeita ao registro no Conselho Regional de Química.
+    3- De igual modo, embora o Laudo Pericial esclareça que não existe a obrigação da empresa autora registrar-se perante o Conselho réu, assentou ser conveniente a indicação de responsável técnico, devidamente qualificado para responder pelas atividades desenvolvidas no Laboratório de Controle de Qualidade o que se entende cabível já que o manuseio dos produtos requer técnicas, tanto no que se refere à garantia de sua qualidade quanto aos riscos de seu armazenamento (combustão, explosão e intoxicação).
+    4- Apelação do Conselho Regional de Química da IV Região e da autora improvidas.
+    2. Observem as premissas da decisão impugnada. Em momento algum foi adotado entendimento a partir do texto constitucional. O acórdão atacado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par disso, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Ante o quadro, conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 14 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
