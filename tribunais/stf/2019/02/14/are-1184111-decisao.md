@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça de São Paulo, assim ementado (eDOC 2, p. 114):
+    “APELAÇÃO E REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. ICMS.
+    A decisão proferida em ação de mandado de segurança, no sentido de reconhecer o direito à devolução dos valores retidos, e pagos a maior, por ocasião da entrada dos veículos na revenda, não tem a extensão pretendida, não atendida, no caso, a legislação tributária.
+    RECURSO DO ESTADO PROVIDO, PREJUDICADOS O EXAME DO RECURSO DA EMPRESA E O REEXAME NECESSÁRIO.”
+    Os embargos de declaração foram desprovidos (eDOC 4, p. 19).
+    No recurso extraordinário interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LV; 93, IX; 150, I, III, a e b; 155, II; e 170, caput, da Constituição Federal.
+    Nas razões recursais, sustenta-se que “na condição de contribuinte substituto tributário, cumpriu integralmente a obrigação tributária que lhe competia cumprir em virtude de decisão judicial em mando de segurança” (eDOC 4, p. 50).
+    Em um primeiro momento, os autos foram autuados como AI 787.003, oportunidade em que a Presidência determinou a baixa dos autos para aplicação do Tema 201 do STF da repercussão geral. Nada obstante, a Câmara julgadora manteve o acórdão sob o seguinte fundamento (eDOC 4, p. 269):
+    “APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. ART. 1.040 DO CPC. APELAÇÃO E REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. ICMS.
+    A decisão proferida em ação de mandado de segurança, no sentido de reconhecer o direito à devolução dos valores retidos, e pagos a maior, por ocasião da entrada dos veículos na revenda, não tem a extensão pretendida, não atendida, no caso, a legislação tributária.
+    RECURSO DO ESTADO PROVIDO. PREJUDICADOS O EXAME DO RECURSO DA EMPRESA E O REEXAME NECESSÁRIO.
+    A tese fixada no RE nº 593.849/MG, Tema 201 do STF, não se aplica ao caso, que versa sobre matéria distinta.
+    MANTIVERAM O JULGAMENTO ANTERIOR EM SEDE DE REAPRECIAÇÃO.”
+    Ato contínuo, a Primeira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul encaminhou os autos ao STF (eDOC 4, p. 88 a 96).
+    É o relatório. Decido.
+    Observa-se que o Tribunal deu provimento a apelação do Estado, ratificando o entendimento esposado pela relatora, com base nos seguintes fundamentos (eDOC 4, p. 273):
+    “Não obstante, pois, haver decisão, conferindo direito à transferência de credito fiscal, não tem a extensão pretendida, desimportando o teor do ofício encaminhado ao Fisco, informando que estaria promovendo o ressarcimento determinado pela ordem judicial (fl. 31).
+    Como se refere a apelação já mencionada, a forma pela qual haverá de se dar a devolução do saldo credor apurado em favor do contribuinte, depois de devidamente lançado nos livros fiscais, e informado em GIA, deverá ser procedida na forma da legislação aplicável à espécie.
+    Ora, o direito de crédito, visando à compensação com o débito do imposto, está condicionado à idoneidade da documentação e à escrituração, nos prazos e condições estabelecidos, de acordo com o art. 15, § 1º, da Lei Estadual nº 8.820/89, o que, no caso, não foi atendido.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e da legislação aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INSCRIÇÃO NO CADASTRO INFORMATIVO DOS CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO FEDERAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE REPERCUSSÃO CONSTITUCIONAL IMEDIATA. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. Nos termos da jurisprudência do Supremo Tribunal Federal, não enseja a abertura da via extraordinária a controvérsia relativa à existência de direito líquido e certo à concessão de mandado de segurança, visto que, nessas hipóteses, a verificação de pressupostos não encontra ressonância na Constituição. O acolhimento da pretensão demandaria o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente ao caso, providência vedada nesta via processual (Súmulas 279 e 280/STF). Agravo regimental a que se nega provimento.” (ARE 805.103-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 06.08.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. SUSPENSÃO DE INSCRIÇÃO NO CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO FEDERAL – CADIN. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 916.540-AgR/SP, Rel. Min. Cármen Lúcia).ada a normas infraconstitucionais pela decisão recorrida
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípio do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos. Confira:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 932, IV, “a”, do CPC.
+    Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
