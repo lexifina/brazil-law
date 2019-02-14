@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 8º, I e II, da CF. Sustenta que: (i) o acórdão recorrido, ao validar o desmembramento de sindicato, violou os princípios da unicidade sindical e da liberdade de associação; (ii) é parte legítima para pleitear o recebimento da contribuição sindical do ano de 2009, em relação aos trabalhadores em educação do Município de Montividiu.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    A análise de eventual ofensa ao referido preceito constitucional demandaria incursão no acervo fático-probatório dos autos, o que não se admite no âmbito do Recurso Extraordinário, nos termos da Súmula 279 do Supremo Tribunal Federal.
+    Deixo, pois, de admitir o recurso”.
+    A pretensão recursal não merece prosperar. A jurisprudência desta Corte é firme no sentido de que não implica ofensa ao princípio da unidade sindical a criação de novo sindicato, por desdobramento de sindicato preexistente, para representação de categoria profissional específica, desde que respeitados os requisitos impostos pela legislação trabalhista e atendida a abrangência territorial mínima estabelecida pela Constituição. Nesse sentido, confiram-se:
+    “Agravo regimental no recurso extraordinário. Constitucional. Negativa de prestação jurisdicional. Não ocorrência. Desmembramento. Novo sindicato. Princípio da unicidade sindical. Violação. Não ocorrência. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. Segundo a jurisprudência desta Corte, a criação de novo sindicato por desmembramento de sindicato preexistente não viola o princípio da unicidade sindical, desde que respeitada a base territorial mínima de um município. 3. Agravo regimental não provido.” (RE 608.304-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SINDICATO. DESMEMBRAMENTO. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA UNICIDADE SINDICAL. IMPROCEDÊNCIA. 1. É firme a jurisprudência do Supremo Tribunal Federal no sentido de que não implica ofensa ao princípio da unidade sindical a criação de novo sindicato, por desdobramento de sindicato preexistente, desde que o território de ambos não se reduza a área inferior a de um município. 2. Agravo regimental desprovido.” (RE 573.533-AgR, Rel. Min. Ayres Britto)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º do CPC/2015.
+    Publique-se.
+          Brasília, 14 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
