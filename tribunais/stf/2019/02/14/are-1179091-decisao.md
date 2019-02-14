@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 11, p. 25):
+    “APELAÇÃO. Previdência Privada. Ação de indenização por perdas e danos, em decorrência de suposto ilícito praticado pelos réus em negociações provenientes do superávit do plano de previdência privada. Apelação do autor. Pedido de reconhecimento da legitimidade passiva de BANESPREV. Acolhimento. Recurso adesivo de Banco Santander. Pedido de reconhecimento de sua ilegitimidade passiva. Acolhimento: Patrocinador que não integra a lide. Fundo de previdência complementar que possui personalidade jurídica e patrimônio próprios, responsável pela administração dos recursos. Mérito. Sentença de extinção com julgamento do mérito pela prescrição, nos termos do artigo 206, § 3º "V", do CC. Recurso interposto pelo autor. Pretensão de aplicação do prazo decenal do art. 205 do CC. Descabimento. Ação de reparação civil por ato ilícito. Correta a aplicação do prazo trienal. Transferências realizadas no período de 2007 e 2008. Ação interposta em junho de 2013. Prescrição. Ausência de provas quanto a suposta transferência' realizada em 2010. Ação proposta mais de três anos após suposto ilícito. Mérito mantido.
+    Apelação do autor parcialmente provida, para reconhecimento da legitimidade passiva de BANESPREV, mantido o reconhecimento da prescrição. Recurso adesivo do Banco provido, para reconhecimento da ilegitimidade passiva de Banco Santander.
+    Foram opostos embargos, porém rejeitados (eDOC 11. p. 45).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º , V, X, e XXXVI; 59, VII; 93, IX; e 202, caput, da Constituição Federal.
+    Nas razões recursais, aduz-se que o dispositivo legal que cabe ao seu caso é o artigo 205 do Código Civil e que há prestação jurisdicional indevida. Sustenta-se, por fim, existência de dano patrimonial causado por má gestão patrimonial do plano de previdência complementar (eDOC 11).
+    É o relatório. Decido.
+    O tribunal a quo negou provimento à apelação, confirmando a sentença. Vejamos os seguintes trechos:
+    “Quanto ao prazo prescricional, indiscutível, em face do teor da inicial, que a pretensão do autor está fundada em pedido de ó reparação civil por ato ilícito, aplicando-se, portanto, o prazo prescricional de três anos, por força do que dispõe o art. 206, § 3, inc. IV, do Código Civil.
+    (…)
+    O pedido inicial está alicerçado em responsabilidade civil por ato ilícito.
+    A disciplina da responsabilidade civil estatui que aquele que "por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem", comete ato ilícito, ficando obrigado a repará-lo (art. 186 do 'CC/02).
+    É certo, portanto, que o dever de indenizar encontra-se condicionado à prova da existência dos elementos caracterizadores da responsabilidade civil.
+    No caso, deixou o apelante de demonstrar quais foram os danos causados pelos apelados, aduzindo mera possibilidade de ocorrência de insolvabilidade da entidade de previdência privada, o que poderia acarretar a suspensão do seu benefício.
+    O dano hipotético não justifica a reparação.” (eDOC 11, p. 30/32).
+     Embora haja estribo argumentativo na possível afronta ao direito de indenização, garantida no art. 5º, V e X, do Texto Constitucional, a parte Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (art. 206, do Código Civil), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Nesse mesmo sentido, têm-se observado em julgamentos, proferidos no âmbito desta Suprema Corte, que tratam sobre a mesma matéria: ARE 1.101.493 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 6.6.2018; ARE 1.0145.542 AgR, de minha relatoria, Segunda Turma, DJe 21.6.2017.
+    Ademais, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à configuração, ou não, de dano reparável, exigiria o reexame do conjunto fático-probatório dos autos, o que inviabiliza o processamento do apelo extremo por questão constitucional meramente reflexa. Incidente, portanto, o óbice da Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 932, IV, “a” e “b”, do CPC. Com fulcro no art. 85, §11, do CPC, majoro em ¼ (um quarto) os honorários advocatícios fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
