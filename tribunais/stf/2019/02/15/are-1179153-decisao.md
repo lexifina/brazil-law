@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, cuja ementa transcreve-se a seguir (eDOC 25, pp. 77 e 78):
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. CÁLCULOS APRESENTADOS PELA UNIÃO FEDERAL NÃO QUESTIONADOS NA ÉPOCA PRÓPRIA. PRECLUSÃO.
+    1- Os agravantes impetraram mandado de segurança com pedido de depósito dos valores discutidos, objetivando que fosse determinada à autoridade impetrada que se abstivesse de autuá-los pelo fato de excluírem da base de cálculo do imposto de renda pessoa física as parcelas recolhidas a título de formação de fundo previdenciário. Por decisão transitada em julgado, foi reconhecida a não incidência do imposto de renda quando do recebimento da complementação de aposentadoria, proporcionalmente ao montante recolhido pelo beneficiário, no período de 1/1/1989 a 31/12/1995 (período de vigência da Lei nº 7.713/88), uma vez que retido na fonte.
+    2- O juízo a quo determinou, com base em cálculos apresentados pela União Federal, a expedição de alvarás de levantamentos em favor dos agravantes, considerando parte dos valores depositados judicialmente, e determinou a conversão do saldo remanescente em renda do estado do Rio de Janeiro. Essa decisão não foi questionada na época própria pelos agravantes.
+    3- Os agravantes tiveram a oportunidade de questionar a decisão que determinou a expedição dos alvarás de levantamento e a conversão do saldo remanescente em renda do Estado do Rio de Janeiro, e não o fizeram na época própria, vindo a requerer a remessa dos autos ao Contador Judicial após decorrido cerca de um ano da intimação da referida decisão.
+    4-A matéria deveria ter sido argüida no momento próprio, ou seja, em face da decisão que determinou a expedição dos alvarás de levantamento e a conversão do saldo remanescente em renda do Estado do Rio de Janeiro. Entretanto, não consta, nos presente autos, notícia de que houvesse a interposição de qualquer recurso em face da referida decisão.
+    5-Desse modo, em que pese o inconformismo dos agravantes, não há mais como discutir acerca dos cálculos apresentados pela União Federal/Fazenda Nacional, restando extemporânea qualquer impugnação neste sentido, tendo em vista que a matéria encontra-se preclusa (art. 473 do CPC).
+    6-Agravo de instrumento improvido.”
+    Os embargos de declaração foram desprovido (eDOC 25, p. 104).
+    No recurso extraordinário interposto com fundamento no art. 102, III, a , do permissivo constitucional, alega-se violação aos arts. 5º, XXXV, LIV e LV; e 93, IX, da Constituição de 1988.
+    Sustenta-se, em suma, a deficiência na prestação jurisdicional e a violação a ampla defesa uma vez que o juízo de origem não determinou a remessa dos autos ao contador judicial para adequação dos valores apurados (eDOC 26, p. 20)).
+    É o relatório. Decido.
+    Inicialmente, ressalta-se que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
