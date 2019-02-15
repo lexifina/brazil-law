@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    DIREITO ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. SOCIEDADE ANÔNIMA. ESTATUTO DA PETROBRÁS. CLÁUSULA COMPROMISSÁRIA ESTATUTÁRIA. Nos termos do artigo 58 do Estatuto da PETROBRÁS, disputas ou controvérsias que envolvam a Companhia, seus acionistas, os administradores, tendo por objeto a aplicação das disposições contidas na Lei nº 6.404/76 devem ser resolvidas por meio de arbitragem; Se no estatuto da empresa há previsão da solução de conflitos pela arbitragem, ou seja, se há cláusula compromissória, não poderá o sócio abster-se de aderi-la, uma vez que, o acesso às regras expostas no estatuto, é público, sob pena de inviabilizar a condução das relações internas da sociedade anônima. O investidor não é obrigado a fazer parte da companhia. Se optar pelo ingresso, presume-se que avaliou e acatou voluntariamente as disposições estatutárias. Até porque, o registro do estatuto social na junta comercial, ou sua inscrição na bolsa de valores ou no mercado de balcão, ratifica a presunção de pleno conhecimento pelos acionistas. A exigência de aceitação expressa não encontra respaldo nem na Lei das Sociedades Anônimas, nem na Lei da Arbitragem; Não há falar em ofensa ao princípio constitucional da inafastabilidade do controle judicial. O princípio contido no artigo 5º, inciso XXXV, da CRFB deve ser entendido como regra de coibição de abuso de direito, de ato arbitrário ou ilegal e somente nestes casos deve ser acionado.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar a decisão atacada interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Ante o quadro, conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 15 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
