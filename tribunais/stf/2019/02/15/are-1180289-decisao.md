@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face do acórdão da 6ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado (eDOC 2, p. 188):
+    “APELAÇÃO e REEXAME NECESSÁRIO – Ação ordinária – Empregada pública da USP – Pretensão de inscrição no regime previdenciário da SPPrev – Sentença de procedência – Reforma que se impõe – Ausência de prescrição – Natureza declaratória do pedido – Legitimidade passiva da SPPrev – Ônus da condenação que seria por ela suportado – Preliminares afastadas – Autora admitida pelo regime celetista – Estabilidade adquirida por força do artigo 19 do ADCT, que não provoca o reconhecimento de cargo público e da condição de funcionário público – Lei Complementar nº 1.010/07 que não prevê como segurado o empregado público – Aplicabilidade do art. 40, §13, da Constituição Federal – Necessidade de observância do regime geral de previdência social – Recurso provido, com solução extensiva ao reexame necessário.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 205-209).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, alega-se violação dos arts. 3º, IV; 5º, XXXV e XXXVI; e 37, XI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 2, p. 220):
+    “Está exaustivamente comprovado nos autos, que o autor é servidor que desenvolve função de natureza permanente no serviço público desde a sua contratação, foi declarado estável no serviço público, em decisão judicial foi-lhe assegurado o direito ao recebimento de adicional da sexta parte sobre os vencimentos integrais, possui redutor salarial previsto no inciso XI do artigo 37 da Constituição Federal, até com progressão funcional foi beneficiado, portanto somando-se tudo isso e deixando claro que ingressou no serviço público após realizar processo seletivo, igual aos outros servidores, fazendo jus ao pedido do presente recurso.”
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando que a análise de maltrato a dispositivo constitucional demandaria o exame de matéria infraconstitucional, bem como a incidência à espécie do óbice da Súmula 283 do STF (eDOC 2, p. 233/234).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente destaco que, ao apreciar o ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    No mais, verifica-se que o Tribunal de origem, ao apreciar a apelação, asseverou (eDOC 2, p. 190/191):
+    “Cumpre consignar que, embora a autora alegue ter sido admitida por concurso público, ela não faz qualquer prova nesse sentido e o seu relatório funcional indica o seu ingresso por meio de análise curricular, o que não pode ser equiparado a concurso (fl. 110).
+    Por outro lado, a sua contratação é regida pela Consolidação das Leis do Trabalho, de tal modo que ela não se submete ao regime estatutário e nem ocupa cargo público.
+    (...)
+    E, por sua vez, a Lei Complementar Estadual nº 1.010/07, que instituiu a SPPrev, estabelece, em seu art. 2º, I, que são seus segurados “os titulares de cargos efetivos, assim considerados os servidores cujas atribuições, deveres e responsabilidades específicas estejam definidas em estatutos ou normas estatutárias e que tenham sido aprovados por meio de concurso público de provas ou de provas e títulos ou de provas de seleção equivalentes”.
+    Portanto, da leitura do dispositivo, denota-se que não estão compreendidos na categoria de segurados da SPPrev os servidores contratados sob a égide da CLT, hipótese na qual a autora se enquadra, apesar de estável.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e o exame da legislação local aplicável à espécie(Lei Complementar Estadual 1.010/2007), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ante o exposto, nego provimento ao recurso nos termos do artigo 932, IV, a e b, do CPC.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
