@@ -1,0 +1,20 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Diego Lorentz Gimenez e outro, em favor de Paulo Duarte da Cunha, contra decisão monocrática de Ministro Relator do STJ, nos autos do HC 489.621/SP.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de Paulo Duarte da Cunha, contra decisão de desembargador do Tribunal de Justiça do Estado de São Paulo. O paciente teve a prisão em flagrante convertida em preventiva em razão da suposta prática do delito tipificado no art. 33 da Lei n. 11.343/2006. Requerem os impetrantes seja o paciente imediatamente colocado em liberdade, expedindo-se, para tanto, o respectivo alvará de soltura, tendo em vista a existência de constrangimento ilegal decorrente da ausência dos requisitos autorizadores da prisão preventiva. É o relatório. Decido. Consoante a Súmula n. 691 do STF, ‘não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’. Esse enunciado, mutatis mutandis, é plenamente aplicável ao Superior Tribunal de Justiça. O afastamento desse óbice processual é excepcionalmente possível em hipótese de preponderante necessidade de garantia da efetividade da prestação da tutela jurisdicional de urgência, a fim de suspender flagrante constrangimento ilegal. No entanto, para a concessão da ordem de ofício mediante o adiantamento do pronunciamento da instância superior, impõe-se a ocorrência de situação concreta em que haja decisão absolutamente teratológica e desprovida de razoabilidade. No caso em apreço, não se mostra patente a aventada excepcionalidade. Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações à autoridade coatora. ” (eDOC 14)
+    No STJ, a liminar foi indeferida.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Tribunal de Justiça nem pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    É que, em 20.12.2018, na residência do paciente, em cumprimento de mandado de busca e apreensão, foram apreendidos “uma sacola plástica de supermercado contendo dois tijolos de maconha (um pesando 2,75 gramas e, o outro, 302,20 gramas), uma balança digital, saquinho de balas (normalmente usados para embalar drogas) e as quantias de R$1.500,00 (mil e quinhentos), em notas de R$100,00 e R$50,00, e de R$720,00 (setecentos e vinte) em notas de R$10,00, R$50,00 e R$100,00”. (eDOC 12, p. 54)
+    Mais: o magistrado registrou que “as folhas de antecedentes juntadas no presente feito comprovam que o autuado possui péssimos antecedentes, ostentando vários outros envolvimentos criminosos.” (eDOC 12, p. 54)
+    Assim, neste momento, não vejo flagrante ilegalidade na prisão do paciente, a ponto de justificar a supressão de instância.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a decisão do STJ.
+    Ante o exposto, nego seguimento ao presente habeas corpus (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
