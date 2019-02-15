@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (eDOC 2, p. 53):
+    “Apelação Cível. Mandado de Segurança.
+    Agente Fiscal de Rendas – Licença-prêmio convertida em pecúnia – Subteto – Incidência do princípio da adstrição da sentença ao pedido – Retidão do cálculo efetivado pela Administração – Sentença mantida.
+    Nega-se provimento ao recurso interposto.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 97).
+    No recurso extraordinário, com fundamento no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa ao art. 37, XI e § 11, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 2, p. 114):
+    “... a licença-prêmio não deve sofrer o limite constitucional de que trata o inciso XI do art. 37 da Constituição Federal, justamente por se tratar de verba indenizatória.
+    Além disso, o § 1º do artigo 43 da LC 1.059/2008 estabelece o caráter indenizatório e a não aplicação do limite de vencimentos previsto no art. 37, XI da Carta Magna, resta evidente que a base de cálculo para o pagamento da conversão em pecúnia da licença prêmio deve ser a remuneração do Agente Fiscal de Rendas desconsiderando-se a regra que limita os vencimentos. Em outras palavras, a base de cálculo deve ser a remuneração bruta da Recorrente.”
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 280 e 636 do STF (eDOC 2, p. 124-125).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 2, p. 76-78):
+    “Entrementes, por conta do princípio da adstrição da sentença ao pedido, cumpre ressaltar que a questão sub examine guarda outro enfoque, na medida em que a pretensão deduzida se limita tão-só a postular a não incidência do redutor salarial sobre as licenças-prêmio convertidas em pecúnia, tendo em vista o naipe de tais verbas.
+    Com efeito, o artigo 43 da Lei Complementar nº 1059/08, com a redação conferida pela Lei Complementar nº 1122/10, ao dispor sobre a possibilidade de conversão em pecúnia de licença-prêmio não usufruída, estabelece em seu parágrafo 2º que “O valor da indenização de que trata este artigo será calculado com base na remuneração efetivamente percebida pelo Agente Fiscal de Rendas, referente ao mês anterior ao do evento a que se refere o “caput” deste artigo, considerando-se, para sua determinação, o limite a que se refere o inciso XII do artigo 115 da Constituição Estadual, e o pagamento será efetuado no prazo de 6 (seis) meses subsequentes ao mês da aposentadoria, e em separado do demonstrativo dos proventos”.
+    O legislador bandeirante, ao tratar da conversão em pecúnia de licença-prêmio não usufruída por Agente Fiscal de Rendas, firmou expressamente como base de cálculo da indenização a remuneração efetivamente percebida pelo servidor no mês anterior à aposentação ou passamento. E com razão.
+    De fato, não se mostra razoável a não incidência do teto na conversão em pecúnia de licença-prêmio não usufruída, vez que, na hipótese de gozo, perceberia o servidor vencimentos correspondentes àqueles pagos quando em efetivo exercício, ou seja, com a aplicação do redutor salarial.
+    Sob esse prisma, não se verifica nenhuma inconstitucionalidade no cálculo efetivado pela Administração, ao revés, vez que ao se admitir a não incidência do limitador na hipótese de conversão de licença-prêmio em pecúnia estar-se-ia chancelando burla ao comando constitucional, o que inadmissível é, à própria evidência.”
+    Na espécie, depreende-se dos fundamentos que constam no acórdão recorrido, que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Complementar Estadual 1.059/2008). Desse modo, o entendimento a respeito da incidência do limite da indenização relativa à licença prêmio não usufruída em atividade, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. FISCAL DE RENDAS DO ESTADO DE SÃO PAULO. LICENÇA-PRÊMIO CONVERTIDA EM PECÚNIA. INCIDÊNCIA DO TETO ESTADUAL. ACÓRDÃO FUNDAMENTADO NA LEI COMPLEMENTAR ESTADUAL N. 1.059/2008. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 906.471-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 21.10.2015).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO . DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE FISCAL DE RENDAS APOSENTADO. TETO REMUNERATÓRIO. NÃO INCIDÊNCIA. LICENÇA PRÊMIO NÃO USUFRUÍDA. NATUREZA INDENIZATÓRIA. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. A discussão acerca da natureza jurídica de verbas percebidas por servidores públicos civis ou militares se insere no âmbito infraconstitucional. Precedentes. Agravo regimental a que se nega provimento.” (ARE 788.008-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 6.8.2014).
+    Por fim, quanto à interposição do apelo extraordinário com base no art. 102, III, alínea c, da Constituição Federal, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal. Portanto, resta inviabilizado o recurso extraordinário.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, nos termos da Súmula 512 do STF.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
