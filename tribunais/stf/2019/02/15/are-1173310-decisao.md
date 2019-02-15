@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Décima Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 2, p. 24):
+    “PECÚLIO POST MORTEM. APLICAÇÃO DA LEI VIGENTE À DATA DO ÓBITO. PREENCHIMENTOS DOS REQUISITOS LEGAIS. Pretensão de recebimento de pecúlio post mortem que deve ser equacionada à luz do principio tempus regit actum. Óbito do ex-servidor quando ainda vigente a Lei Estadual n.° 285/79. O pecúlio nada mais é que a justa contrapartida do custeio realizado pelo servidor falecido ao longo de toda sua vida funcional. Base de cálculo consoante expressa previsão legal. Recurso improvido.”
+    Os embargos de declaração foram rejeitados. (eDOC 2, pp. 39-43)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 24, XII e § 4º; e 40, § 12, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “além de vedado o pagamento do pecúlio post mortem reclamado por ser contrário ao regramento constitucional (artigo 40, § 12 da CRFB/88) e às disposições da Lei Federal n° 9.717/98, o pagamento não tem a necessária base legal, uma vez que as disposições da Lei n° 285/79 estão com a sua eficácia suspensa desde a edição daquela lei federal, em 1998, por força do artigo 24. XII e §4° da CRFB/88.” (eDOC 2, p. 74)
+    A Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro inadmitiu o recurso ante aplicação da Súmula 280 do STF. (eDOC 2, pp. 87-90)
+    É o relatório. Decido.
+    Não assiste razão ao agravante.
+    Conforme se depreende das razões de decidir do acórdão a quo, o Tribunal de origem negou provimento à Apelação Cível, assentando a incidência, ao caso, da Lei Estadual 285/1979, por entender que esta era a legislação vigente ao tempo do fato gerador do benefício. Extrai-se do voto condutor do acórdão recorrido o seguinte trecho (eDOC 2, pp. 28/29):
+    “A querela jurídica existente entre as partes nos presentes autos refere-se ao pagamento de pecúlio post morlem, a atrair reflexão do tema em causa, segundo princípios de matiz constitucional.
+    Eventuais alterações legislativas, com profundo impacto no patrimônio jurídico do beneficiário de pensão previdenciária, não são aptas a atingi-1o, em respeito ao direito adquirido, como corolário da segurança jurídica, de indispensável observância num Estado fundado em bases democráticas.
+    Necessário, ainda, cumprir o princípio do tempo rege o ato — tempus regit actum, valendo transcrever, por oportuno, a doutrina de Luiz Rodrigues Wambier sobre o tema:
+    (…)
+    O exame detido dos autos revela a data de 7 de abril de 2002, como a hipótese de incidência apta a qualificar a apelada como beneficiária do beneficio previdenciário em comento, isso pelo falecimento de seu cônjuge, quando ainda vigente a Lei Estadual n.° 285/79, sendo certo que as alterações supervenientes sofridas pelo aludido diploma legal pela Lei n° 5.109/2007 não têm relevância jurídica na hipótese.
+    Tal espécie normativa estadual foi editada de acordo com permissivo constitucional insculpido no art. 24, XII, havendo previsão expressa sobre o já mencionado pecúlio post mortem, além de alterações posteriores, seja por ato infralegal, seja por lei em sentido formal.
+    Esta Corte de Justiça já se manifestou no sentido de que o art. 5º da Lei n° 9.717/98 não prejudica o direito à percepção do beneficio previdenciário pretendido, pois o pecúlio post mortem nada mais é que a justa contrapartida do custeio realizado pelo servidor falecido ao longo de toda sua vida funcional.
+    Confira-se, pois, recentíssimo julgado nessa mesma linha de raciocínio:
+    (…)”
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local, o que é obstado pela Súmula 280 do STF.
+    Na mesma linha, observa-se que a discussão acerca do art. 5º da Lei Federal 9.717/1998 do mesmo modo inviabiliza o processamento do apelo extremo, por caracterizar eventual ofensa reflexa ao texto constitucional.
+    Sobre os temas:
+    “Agravo regimental em recurso extraordinário. 2. Administrativo. Pensão por morte. Cônjuge divorciada. 3. Análise da legislação local. Lei Complementar Estadual 180/1978. Ofensa meramente reflexa ao texto constitucional. Súmula 280 do STF. 4. Necessidade do reexame de conteúdo fático-probatório. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 678354 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 16.05.2014)
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.6.2015)
+    Cito, ainda, as seguintes decisões monocráticas: ARE 1.100.310, Rel. Min. Luiz Fux, DJe 1º.2.2018; ARE 1.100.568, Rel. Min. Celso de Mello, DJe 1º.2.2018; ARE 1.099.579, Rel. Min. Alexandre de Moraes, DJe 5.2.2018; e RE 1.095.501, Rel. Min. Ricardo Lewandowski, DJe 2.2.2018.
+     Ante o exposto, nego provimento ao agravo, nos termos do artigo 932, IV, “a”, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
