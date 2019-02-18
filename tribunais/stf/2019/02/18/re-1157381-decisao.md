@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “Apelação Cível - Mandado de Segurança - Medicamento – ICMS-Importação - Pessoa não contribuinte habitual do imposto - Entendimento pacificado pelo E. Supremo Tribunal Federal pelo qual a cobrança do ICMS-Importação condiciona-se à existência de legislação local posterior à Emenda Constitucional n. 33/01 e à Lei Complementar Nacional n. 114/02 - Cobrança indevida - Sentença reformada - Recurso provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 24, §§ 3° e 4°, e 155, § 2°, IX, a, da CF. Sustenta, em essência, que a incidência de ICMS sobre a importação por contribuinte não habitual encontra amparo legal na EC n° 33/2001 e na Lei estadual n° 11.001/2001.
+    A pretensão recursal não merece prosperar. O acórdão recorrido não diverge da jurisprudência desta Corte, que, ao apreciar o tema 171 da sistemática da repercussão geral, fixou a seguinte tese: Após a Emenda Constitucional 33/2001, é constitucional a incidência de ICMS sobre operações de importação efetuadas por pessoa, física ou jurídica, que não se dedica habitualmente ao comércio ou à prestação de serviços.
+    A validade da constituição do crédito tributário depende da existência de lei complementar de normas gerais (LC n° 114/2002) e de legislação local resultantes do exercício da competência tributária. Confira-se trecho do voto do Min. Rel. Joaquim Barbosa no RE 439.796:
+    “Para ser constitucionalmente válida a incidência do ICMS sobre operações de importação de bens, irrelevante a qualificação jurídica do adquirente, as modificações no critério material, na base de cálculo e no sujeito passivo da regra-matriz devem ter sido realizadas em lei posterior à EC 33/2001 e à LC 114/2002 (que modificou a LC 87/1996, para prever normas gerais específicas à incidência sobre importação de bens, independentemente de se tratar de adquirente-comerciante).”
+     Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 18 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
