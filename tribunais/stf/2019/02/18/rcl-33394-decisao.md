@@ -1,0 +1,15 @@
+RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE AFRONTA À SÚMULA NÃO DOTADA DE EFEITO VINCULANTE. NÃO CABIMENTO. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.
+    Vistos etc.
+    1. Trata-se de reclamação, com pedido de liminar, proposta por José Odir Lautert Carvalho, contra decisão proferida pela Primeira Vara Cível da Comarca de Cruz Alta/RS, nos autos da execução por quantia certa Processo nº 1011/1.03.0001472-3, que teria afrontado a Súmula 121 deste Supremo Tribunal Federal, do seguinte teor: “É vedada a capitalização de juros, ainda que expressamente convencionada”.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista no artigo 102, I, l, da Constituição Federal é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, de desobediência a súmula vinculante ou de descumprimento de decisão desta Corte com efeito vinculante.
+    2. Nesse contexto, inviável, mediante reclamação, o exame da alegada afronta à diretriz da Súmula 121/STF – que não é dotada de efeito vinculante (grifei):
+    “EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. NÃO PROVIMENTO. 1. Suposta violação à Súmula STF nº 729. A súmula despida de eficácia vinculante não é paradigma apto a dar ensejo ao conhecimento de reclamação constitucional. Precedentes. 2. Alegação de afronta ao julgado na ADC nº 4/DF. Falta de correspondência entre o paradigma e as decisões reclamadas. Conquanto tenha havido menção à vedação legal de antecipação dos efeitos da tutela pretendida no feito originário (art. 1º da Lei nº 9.494/97), o pedido foi negado, pois não se vislumbrou, no caso concreto, a presença dos requisitos necessários à concessão da medida. 3. Impossibilidade de uso da reclamação constitucional como sucedâneo de recurso. Precedentes. 4. Agravo interno a que se nega provimento” (Rcl 8214 ED/MG, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe 10.11.2011).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. MANDADO DE SEGURANÇA. EFEITOS DA DECISÃO. ALEGAÇÃO DE AFRONTA À SÚMULA 271 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Não cabe reclamação fundamentada na afronta a súmula do Supremo Tribunal Federal sem efeito vinculante. Precedentes” (Rcl 6531 AgR/SC, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe 20.11.2009).
+    “AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECLAMAÇÃO. SÚMULA DO SUPREMO TRIBUNAL FEDERAL DESTITUÍDA DE EFEITO VINCULANTE. INVIABILIDADE DA AÇÃO. 1. Não cabe reclamação constitucional para questionar violação a súmula do Supremo Tribunal Federal destituída de efeito vinculante. Precedentes. 2. As atuais súmulas singelas do STF somente produzirão efeito vinculante após sua confirmação por dois terços dos ministros da Corte e publicação na imprensa oficial (art. 8º da EC nº 45/04). 3. Agravo desprovido” (Rcl 3284 AgR/SP, Tribunal Pleno, Rel. Min. Carlos Britto, DJe 28.8.2009)
+    3. Diante do exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
