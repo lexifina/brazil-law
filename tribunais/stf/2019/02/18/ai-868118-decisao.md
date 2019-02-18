@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    ”ADMINISTRATIVO - AÇÃO DE DESAPROPRIAÇÃO - LIQUIDAÇÃO - PRECATÓRIO COMPLEMENTAR - EXPURGOS INFLACIONÁRIOS - REFORMA DA DECISÃO. 1 - Salvo em hipóteses excepcionais, é inviável a "inclusão dos chamados 'expurgos inflacionários' no cálculo para a formação de precatório complementar, quando a conta que deu origem ao primeiro precatório, homologada por sentença, assim não determinar." (STJ - REsp. n.º 547.723/MG - Rel. Min. Denise Arruda - 1ª Turma - DJ. 07/02/06 - un.). 2 - Ainda que a liquidação originária do débito não tenha disposto sobre todos os expurgos inflacionários, não cabe aplicá-los em fase de expedição de precatório complementar, se as partes acordaram quanto aos cálculos e ressalvaram, para posterior discussão, tão-somente a matéria relativa aos expurgos inflacionários do ano de 1989 e anteriores, razão pela qual devem ser decotados dentre os comandos liquidatórios os relativos à inclusão dos expurgos dos Planos Collor I e Collor II. 3 - Sentença reformada, em reexame necessário, e recurso voluntário prejudicado.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXIV e XXXVI, da Constituição.
+    A pretensão recursal não merece prosperar. A jurisprudência do Supremo Tribunal Federal é no sentido de ser inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e da inafastabilidade da jurisdição, uma vez que, se violação houvesse, seria meramente indireta ou reflexa.
+    Ademais, para dissentir do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicável ao caso e o reexame dos fatos e do material probatório constante dos autos, providências inviáveis neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
