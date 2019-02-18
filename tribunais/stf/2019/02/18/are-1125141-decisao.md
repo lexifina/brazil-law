@@ -1,0 +1,38 @@
+Decisão: Trata-se de recurso extraordinário com agravo o qual foi remetido ao Tribunal de Justiça do Rio Grande do Sul para que se cumprisse o disposto no art. 1.036 do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo Tema 916, cujo paradigma é o RE 765.320, Rel. Min. Teori Zavascki, DJe 23.9.2016. (eDOC 10)
+    Ao analisar os autos, o Tribunal de origem, entendeu que a discussão não se amolda ao paradigma indicado. (eDOC 13)
+    Reenviados a esta Corte, após detida análise dos autos, observo que a matéria, do modo como é trazida na petição de recurso extraordinário, é diversa do citado paradigma.
+    Nesses termos, torno sem efeito a decisão constante do eDOC 10 e passo à apreciação do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de turma recursal estadual, assim ementado:
+    “RECURSO INOMINADO. MAGISTÉRIO ESTADUAL. CONTRATO ADMINISTRATIVO TEMPORÁRIO. VÍNCULO EMPREGATÍCIO NÃO RECONHECIDO. PERCEPÇÃO DE FGTS. AUSÊNCIA DE PREVISÃO LEGAL.
+    1) Trata-se de ação de cobrança através da qual a parte autora, contratada temporária do requerido, pretende o reconhecimento de vínculo empregatício, bem como à percepção ao pagamento do FGTS, julgada improcedente na origem.
+    2) Princípio da Legalidade - A Administração Pública é regida a luz dos princípios constitucionais inscritos no “caput” do artigo 37 da Carta Magna, sendo que o princípio da legalidade é a base de todos os demais princípios que instrui, limita e vincula as atividades administrativas. Dessa feita, o administrador público está adstrito ao princípio constitucional da legalidade e as normas de Direito Administrativo.
+    3) A Constituição Federal, em seu art. 37, IX, prevê a forma de contratação de servidor, na modalidade temporária, permitindo ao administrador a contratação de servidor por tempo determinado, visando atender ao interesse público.
+    4) A Lei Estadual nº. 10.376/95 dispõe sobre a contratação de professor temporário, dispondo em seu art. 5º e 6º que o pagamento da remuneração do professor será realizado de acordo com as regras alcançadas aos servidores do quadro efetivo do magistério, ou seja, de acordo com as normas de direito público.
+    5) No caso telado, a demandante foi contratada em caráter temporário/emergencial para exercer a função de professora, nos termos do artigo 37, IX da CF e nos termos da Lei Estadual nº. 10.376/95, pelo que, o vínculo existente entre as partes é de natureza administrativa, não se tratando de relação de emprego com caráter obreiro clássico, razão pela qual, incabíveis as pretensões relativas aos dispositivos da CLT, especialmente ao pedido de vínculo e pagamento de FGTS.
+    6) Sentença mantida pelos próprios fundamentos, nos termos do art. 46, última parte, da Lei Federal nº. 9.099/95.
+    6)”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e c, da Constituição Federal, aponta-se violação aos arts. 7º, III; 37, II, IX e §+ 2º 3º, do texto constitucional. (eDOC 3, p. 3)
+    Nas razões recursais, afirma-se que o vínculo com a recorrente teria ocorrido fora das hipóteses previstas para a contratação por tempo determinado, pois os temporários ocupariam por diversos anos função típica e permanente de servidores efetivos, o que tornaria imperiosa a submissão ao sistema do FGTS.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, anoto que o acórdão recorrido não declarou inconstitucionalidade de tratado ou lei federal, nem julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Desse modo, incabível a interposição do recurso extraordinário pela alínea c do inciso III do artigo 102 da Constituição Federal.
+    Por outro lado, a Turma Recursal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou que não haveria nulidade na contratação administrativa. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A Lei Estadual nº. 10.376/95 dispõe sobre a contratação de professor temporário, dispondo em seu art. 5º e 6º que o pagamento da remuneração do professor será realizado de acordo com as regras alcançadas aos servidores do quadro efetivo do magistério, ou seja, de acordo com as normas de direito público, in verbis:
+    Art. 5º - As contratações serão por hora-aula, sendo a base de cálculo para remuneração elaborada da seguinte forma:
+    I - currículo por atividades: serão os vencimentos do Magistério Público Estadual, acrescidos da gratificação de unidocência, com exercício por período de 4 (quatro) horas diárias, de segundas a sextas-feiras, acrescido de 2 (duas) horas a serem cumpridas aos sábados;
+    II - currículo por área e/ou disciplina: o valor da hora-aula terá por base os vencimentos correspondentes ao nível 5 do Plano de Carreira do Magistério Público Estadual, sem as vantagens individuais;
+    III - o valor da hora-aula para o currículo por atividade será obtido mediante a divisão do vencimento básico mensal da Carreira por quatro semanas e meia, seguida da divisão do quociente obtido pelo número de horas semanais efetivamente realizadas, acrescido do percentual de 1/6 (um sexto), correspondente ao repouso remunerado;
+    IV - o valor da hora-aula para o currículo por área e/ou disciplina será obtido mediante a divisão do vencimento mensal do nível 5 por quatro semanas e meia, seguido da divisão do quociente obtido pelo número de horas semanais efetivamente realizadas, acrescido do percentual de 1/6 (um sexto), correspondente ao repouso remunerado.
+    Art. 6º - A remuneração de que trata o artigo anterior será reajustada sempre que se modificarem os vencimentos do Quadro de Carreira do Magistério Público Estadual, nos mesmos percentuais e na mesma data.
+    Nesse sentido é a orientação jurisprudencial, no sentido de afastar qualquer direito trabalhista ao contratado emergencial e temporário, posto que o vínculo, seja ou não prorrogado o contrato, perdura com o caráter administrativo, (...) (eDOC 2, p. 14)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRATAÇÃO TEMPORÁRIA. FGTS. AUSÊNCIA DE NULIDADE NO CONTRATO. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário”. (RE 967.539 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 17.3.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRATO TEMPORÁRIO. FGTS. LEI 8.036/1990 E LEI ESTADUAL 10.254/1990. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO”. (RE 965.893 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
