@@ -1,0 +1,27 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Relatório
+    1. Em 13.12.2018, neguei seguimento à reclamação ajuizada por Jaguaribe Engenharia Ltda. – Epp contra acórdão proferido pela Primeira Turma Recursal do Tribunal de Justiça da Bahia no Processo n. 0149405- 05.2017.8.05.0001, ao seguinte fundamento:
+    “O objetivo da reclamação é a preservação da competência e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal (al. l do inc. I do art. 102 e § 3º do art. 103-A da Constituição da República), não sendo admissível o seu aproveitamento como atalho processual impróprio para se percorrerem vias recursais com supressão de instâncias e descumprimento de procedimentos e fases legalmente definidos.
+    A reclamação não pode ser utilizada como sucedâneo recursal, sendo instrumento inidôneo para o reexame do conteúdo do ato reclamado” (doc. 6).
+    2. Publicada essa decisão no DJe de 5.2.2019, Jaguaribe Engenharia Ltda. – Epp opõe, em 12.2.2019, embargos de declaração.
+    3. A embargante afirma que “apenas requereu nesta reclamação que o Juiz a quo fundamentasse sua decisão que fora exarada forma genérica” (fl. 3, doc. 7).
+    Sustenta que “a decisão dos autos se limita a fundamentar genericamente a rejeição do recurso oposto pelos réus, sem enfrentar minimamente os fatos e argumentos abordados no recurso, situação que muito se assemelha à utilização de fundamentação-padrão, o que viola o princípio da motivação e fundamentação das decisões judiciais, previsto no art. 93, inciso IX da CF” (fl. 3, doc. 7).
+    Assevera que “o Novo Código Processo Civil também consagra expressamente o princípio da motivação ao prever em seu art. 11 que todos os julgamentos dos órgãos do Poder Judiciário serão públicos e fundamentadas todas as decisões, sob pena de nulidade” (fl. 4, doc. 7).
+    Requer “seja conhecida e provida a presente irresignação, face a violação constitucional supramencionada para desconstituir o acórdão recorrido, determinando que outra seja proferida em que se exteriorize as reais razões de decidir, sem que sejam utilizados subterfúgios no sentido de “driblar” a aplicação da norma constitucional” (fl. 4, doc. 7).
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. Razão jurídica não assiste à embargante.
+    5. Opostos os embargos de declaração contra decisão monocrática, neles se alegando os vícios do art. 1.022 do Código de Processo Civil, fica dispensada a conversão em agravo regimental para julgamento da Turma, conforme, por exemplo, as decisões proferidas nos Recursos Extraordinários ns. 476.109-ED, Relator o Ministro Cezar Peluso, DJe 8.10.2007; 411.024-ED, Relator o Ministro Sepúlveda Pertence, DJ 11.5.2004; e 277.612, Relator o Ministro Carlos Velloso, DJ 12.11.2001.
+    6. Na decisão embargada, limitou-se aos exames dos pressupostos de cabimento de reclamação no Supremo Tribunal Federal.
+    A reclamação teve o seu seguimento negado por não poder ser utilizada como sucedâneo recursal, portanto, não foi examinado o conteúdo da decisão reclamada.
+    7. É pacífico o entendimento de os embargos de declaração não se prestarem para provocar a reforma da decisão embargada, salvo no ponto em que tenha sido omissa, contraditória ou obscura, nos moldes do art. 1.022 do Código de Processo Civil, o que não ocorre na espécie.
+    O exame da petição recursal é suficiente para constatar não se pretender provocar o esclarecimento de qualquer ponto obscuro, omisso ou contraditório, mas tão somente modificar o conteúdo do julgado, para fazer prevalecer a tese do embargante.
+    8. A pretensão da embargante é rediscutir a matéria. O Supremo Tribunal Federal assentou serem incabíveis os embargos de declaração quando, “a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, [a parte] vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa” (RTJ n. 191/694-695, Relator o Ministro Celso de Mello).
+    Confiram-se, por exemplo, os julgados a seguir:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil. II - O embargante busca tão somente a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. III - Embargos de declaração rejeitados” (ARE n. 728.047-AgR-ED, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 6.3.2014).
+    “EMBARGOS DECLARATÓRIOS – INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO. Uma vez voltados os embargos declaratórios ao simples rejulgamento de certa matéria e inexistente no acórdão proferido qualquer dos vícios que os respaldam – omissão, contradição e obscuridade –, impõe-se o desprovimento” (ARE n. 760.524-AgR-ED, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 26.11.2013).
+    9. Pelo exposto, rejeito os embargos de declaração (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal e § 2º do art. 1.024 do Código de Processo Civil).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
