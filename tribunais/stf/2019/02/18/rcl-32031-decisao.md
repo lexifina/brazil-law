@@ -1,0 +1,23 @@
+Decisão:
+    1. Trata-se de reclamação, com pedido de medida liminar, ajuizada em face de decisão do Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, que negou seguimento a recurso extraordinário, com base no tema 315 da repercussão geral (RE nº 592.317-RG).
+    2. As reclamantes narram haver ajuizado ação (autos nº 0802427-93.2007.8.26.0000) em que pleitearam a equiparação remuneratória com os quadros da carreira de Procurador do Município de São José dos Campos, com fundamento no art. 40, § 3º, da Lei Complementar municipal º 56/1992. O pedido foi julgado procedente em primeiro grau, em sentença reformada pelo TJ/SP em sede de apelação, em acórdão assim ementado:
+    “SERVIDORAS PÚBLICAS MUNICIPAIS – ativas e inativa – ocupantes de cargo denominado Procurador I – colimam isonomia com aqueles ocupantes de cargos denominados Procurador – inadmissibilidade – precedentes do STF. Ação julgada parcialmente procedente.
+    Recursos dos réus providos, prejudicado o das autoras” (doc. 44).
+    3. O recurso extraordinário interposto foi remetido ao STF por meio do AI 701.822, o qual foi devolvido à origem pelo Ministro Joaquim, nos termos do art. 543-B do CPC/73, para aguardar o julgamento do tema 315 da repercussão geral. A decisão foi mantida pela Primeira Turma, em acórdão da minha relatoria. Apreciado o referido paradigma, o TJ/SP negou seguimento ao recurso extraordinário, por meio da decisão ora reclamada. Interposto agravo interno, este foi desprovido, nos seguintes termos:
+    “Agravo interno – decisão monocrática que negou seguimento ao recurso extraordinário.
+    - Aumento – Extensão – Judiciário – Administração.
+    - A questão do aumento de vencimentos de servidores públicos civis militares regidos pelo regime estatutário e de extensão das vantagens e gratificações, com base no princípio da isonomia a serem feitos pelo Poder Judiciário e pela Administração pública é matéria idêntica à tratada no leading case RE n. 592.317.
+    Nega-se provimento ao recurso”.
+    4. Neste cenário, as reclamantes ajuizaram a presente reclamação, sob alegação de má aplicação da tese firmada no tema 315 da repercussão geral. Sustenta a inaplicabilidade daquele paradigma e da Súmula Vinculante 37 (“Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia”) à hipótese, porque “no caso dos autos, foi editada lei específica, sendo a isonomia de vencimentos expressamente prevista pelo art. 40, § 3º, da Lei Complementar Municipal nº 56, de 24 de julho de 1992”.
+    5. É o relatório. Decido.
+    6. Deixo de requisitar as informações, porquanto suficientemente instruído o efeito, bem como o parecer da Procuradoria-Geral da República, diante do caráter reiterado da matéria (art. 52, parágrafo único, RI/STF).
+    7. O pedido não prospera. Com efeito, no julgamento do tema 315, o Supremo Tribunal Federal reafirmou jurisprudência e atribuiu efeitos de repercussão geral ao enunciado de súmula 339, fixando a seguinte tese: “Não cabe, ao Poder Judiciário, que não tem a função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”. Após o referido julgamento, foi editada a Súmula Vinculante nº 37, de idêntico teor.
+    8. No caso dos autos, o que as reclamantes pleitearam, na origem e no recurso extraordinário interposto, foi, justamente, a equiparação remuneratória com carreira da qual não são integrantes. Assim, não há que se falar em ausência de similitude entre o caso concreto e a tese de repercussão geral aplicada ao caso.
+    9. Ademais, não cabe ao STF, seja em sede de recurso extraordinário, seja em reclamação, a interpretação de direito local. Assim, descabe, no caso, julgar a afirmação de que a isonomia remuneratória pleiteada encontra respaldo em lei complementar municipal, se o órgão jurisdicional competente para a análise da questão (no caso, o TJ/SP) sequer tratou sobre o ponto.
+    10. O pedido, portanto, não prospera.
+    11. Advirto, por fim, que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, tomando tempo e recursos escassos desta Corte, causando, ainda, prejuízos à parte contrária. Deste modo, a reiteração implicará a imposição de multa por litigância de má-fé, nos termos no art. 80 e seguintes do CPC/2015.
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
