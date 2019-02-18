@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. LEI MUNICIPAL N. 636/2012. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE DE LEGISLAÇÃO LOCAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “APELAÇÃO CÍVEL – RECLAMAÇÃO TRABALHISTA – MUNICÍPIO DE RIBEIRÓPOLIS - ADICIONAL DE INSALUBRIDADE – PREVISÃO LEGAL QUE NECESSITA D E REGULAMENTAÇÃO INEXISTENTE – INAPLICABILIDADE DA NR 15 DO MINISTÉRIO DO TRABALHO ANTE A INEXISTÊNCIA DO DIREITO DE RECEBER A GRATIFICAÇÃO PLEITEADA – REFORMA DA SENTENÇA -IMPROCEDÊNCIA DA DEMANDA - RECURSO CONHECIDO E PROVIDO - DECISÃO UNÂNIME ” (fl. 21, e-doc 10).
+    2. Os agravantes alegam contrariados o princípio constitucional da dignidade da pessoa humana, o inc. XXXV do art. 5º, o inc. XXIII do art. 7º e o § 3º do art. 39 da Constituição da República e asseveram a legitimidade do pagamento de adicional de insalubridade.
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 280 e 282 do Supremo Tribunal Federal e pela inexistência de preliminar de repercussão geral (fl. 35, e-doc. 13).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste aos agravantes.
+    5. A apreciação do pleito recursal demandaria análise da legislação infraconstitucional local aplicável à espécie (Lei municipal n. 636/2012) e reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 deste Supremo Tribunal. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO: SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. REGULAMENTAÇÃO: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.105.417-AgR, de minha relatoria, Plenário, DJe 1º.8.2018).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.080.025-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 11.12.2017).
+    Confira-se também a decisão monocrática proferida no ARE n. 1.153.349, Relator o Ministro Gilmar Mendes, DJe 27.8.2018.
+    Nada há a prover quanto às alegações dos agravantes.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
