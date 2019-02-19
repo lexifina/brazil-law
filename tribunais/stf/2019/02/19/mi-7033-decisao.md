@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Direito Constitucional. Mandado de injunção. Aposentadoria especial de servidor público. Atividade insalubre. Ausência de interesse processual.
+1. A Súmula Vinculante nº 33 impede que a autoridade administrativa indefira, sob a alegação de ausência de lei específica, pedidos relativos à aposentadoria especial de servidores públicos que aleguem exercer atividades sob condições prejudiciais à saúde ou à integridade física.
+2. Writ extinto, sem resolução do mérito.
+    1. Trata-se de mandado de injunção impetrado por servidora do Município de Cascavel - PR, ocupante do cargo de dentista. Aponta omissão na edição das leis complementares previstas no art. 40, § 4°, da Constituição e requer aposentadoria especial pelo exercício de atividade sob condições prejudiciais à saúde ou à integridade física.
+    2. A impetrante afirma que, em junho de 2018, protocolou pedido de aposentadoria, por exercer atividade insalubre, contar com mais de 25 (vinte e cinco) anos de contribuição e 56 (cinquenta e seis) anos de idade. Relata, porém, que o pleito foi indeferido pelo Instituto de Previdência, em razão de não terem sido preenchidos os requisitos para a aposentadoria integral exigidos pela Lei municipal nº 5780/2011, pelo art. 40 da Constituição ou pelas Emendas Constitucionais nº 20/1998, 41/2003 e 47/2005. Busca, assim, a concessão da ordem, para que a lacuna na regulamentação do art. 40, § 4º, inciso III, da CF, seja suprida com a aplicação do art. 57 da Lei nº 8.213/1991, conferindo-lhe o direito à aposentadoria especial e ao abono de permanência (doc. 4).
+    3. As autoridades impetradas prestaram informações (docs. 21, 22 e 25). A Procuradoria-Geral da República se manifestou pela extinção do mandado de injunção sem resolução de mérito, por ausência de interesse de agir, tendo em vista a edição da Súmula Vinculante nº 33 (doc. 27).
+    4. É o relatório. Decido.
+    5. Segundo a jurisprudência do Supremo Tribunal Federal, o mandado de injunção se destina a viabilizar o exercício de direitos que se encontram pendentes de regulação normativa, por omissão do Poder Público no atendimento a um dever de legislar imposto pela Constituição.
+    6. Quanto à aposentadoria especial de servidores públicos que exerçam atividades sob condições prejudiciais à saúde ou à integridade física (CF/1988, art. 40, § 4º, III), a matéria já está pacificada por este Tribunal, tendo sido reconhecida a omissão inconstitucional. Nesse sentido, em 09.04.2014, o Plenário aprovou a Súmula Vinculante nº 33, com o seguinte teor:
+    “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica”.
+    7. Nos termos do art. 103-A da Constituição, a referida súmula tem efeito vinculante em relação aos demais órgãos do Poder Judiciário e à Administração Pública direta e indireta, nas esferas federal, estadual e municipal. Eventual contrariedade à súmula enseja a propositura de reclamação perante o STF (CF/1988, art. 103-A, § 3º).
+    8. Assim, a parte autora não tem interesse para impetrar mandado de injunção, já que a autoridade administrativa não poderá alegar a ausência de lei específica para indeferir pedidos relativos à aposentadoria especial de servidores públicos que alegam exercer atividades sob condições prejudiciais à saúde ou à integridade física.
+    9. Diante do exposto, com base no art. 485, VI, do Código de Processo Civil e art. 21, § 1º, do RI/STF, julgo extinto o presente mandado de injunção, sem resolução do mérito.
+    Publique-se. Intimem-se.
+Brasília, 19 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
