@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Latrocínio. Condenação transitada em julgado. Dosimetria da pena. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 489.256, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 13 (treze) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 157, § 3º, parte final, c/c os artigos 14, II, e 61, I, todos do Código Penal.
+    3. O Tribunal de Justiça do Estado do Mato Grosso negou provimento à apelação da defesa.
+    4. Após o trânsito em julgado da condenação, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 489.256, Ministro Ribeiro Dantas, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante aponta a existência de vícios na dosimetria da pena. Para tanto, sustenta:
+    (i) a inaplicabilidade, no caso, da agravante referente à reincidência criminosa, “porque o paciente é réu primário”;
+    (ii) a aplicabilidade da causa de diminuição de pena prevista no artigo 65, I, do Código Penal, na medida em que “o paciente nasceu no dia 21/02/1995, e o fato ocorreu no dia 06/10/2015, ou seja, o paciente contava com 20 (vinte) anos à época do fato”;
+    (iii) a possibilidade da redução da pena no patamar máximo de 2/3, em razão do crime ter sido praticado na modalidade tentada.
+    6. A defesa requer o deferimento de medida liminar a fim de revogar a prisão processual do acionante. No mérito, postula a concessão da ordem a fim de reduzir a pena imposta ao paciente. Cumulativamente, pleiteia seja fixado o regime inicial aberto, assim como seja determinada a substituição da pena privativa de liberdade por outra pena restritiva de direitos. “Caso superados os pedidos anteriores, como pedido alternativo, requer a concessão da ordem para anular todo o processo cód. 420906, em tramite na 5º vara Criminal de Cuiabá – MT a partir da sentença, para que outra seja proferida, com observância do Art. 381, III, do CPP”.
+    Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF.
+    9. A orientação do STF é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia.
+    10. As peças que instruem a impetração não evidenciam situação teratologia, ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício, notadamente se se considerar que a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+    11. Quanto ao mais, o entendimento do STF é no sentido de que a “prisão decorrente de sentença criminal transitada em julgado encontra arrimo na jurisprudência consolidada deste Supremo Tribunal Federal. O ajuizamento da ação revisional não impede a execução da pena definitiva” (HC 120.492, Relª. Minª. Rosa Weber).
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 19 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
