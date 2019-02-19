@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO INVERTIDA. HONORÁRIOS. DESCABIMENTO.
+1. Consoante o entendimento desta Corte, não é cabível a fixação de verba honorária na hipótese em que o devedor antecipa-se no cumprimento da obrigação de pagar e promove espontaneamente os atos necessários à expedição da requisição de pequeno valor (execução invertida). Precedentes.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão da lavra do MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), proferida às e-STJ fls. 225/227, que, após reconsiderar manifestação anterior, conheceu do agravo do INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL para dar provimento ao respectivo recurso especial em virtude da impossibilidade de fixação de honorários em execução invertida.
+Aduz a parte agravante que houve sequestro de valores para adimplemento da RPV, razão pela qual não se poderia falar em cumprimento espontâneo e necessário o arbitramento de honorários, que não revogado o art. 570 do CPC/1973, bem como que a irresignação da parte agravada esbarraria no óbice da Súmula 7 do STJ.
+Requer, assim, a reforma da decisão atacada para que seja desprovido o recurso especial da parte adversa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO INVERTIDA. HONORÁRIOS. DESCABIMENTO.
+1. Consoante o entendimento desta Corte, não é cabível a fixação de verba honorária na hipótese em que o devedor antecipa-se no cumprimento da obrigação de pagar e promove espontaneamente os atos necessários à expedição da requisição de pequeno valor (execução invertida). Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, registre-se que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na presente hipótese, este recurso ataca decisão proferida no julgamento de recurso especial interposto ainda sob a égide do CPC/1973.
+Feitas essas considerações, observa-se que o presente agravo não merece prosperar.
+Com efeito, o Superior Tribunal de Justiça possui entendimento de que não é cabível a fixação de verba honorária na hipótese em que o devedor antecipa-se no cumprimento da obrigação de pagar e promove espontaneamente os atos necessários à expedição da requisição de pequeno valor (execução invertida). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO INVERTIDA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não cabe a fixação de verba honorária quando o executado apresenta os cálculos do benefício para, no caso de concordância do credor, expedir-se a correspondente requisição de pequeno valor. Precedentes: AREsp 551.815/RS, Rel. Ministro Humberto Martins, DJ de 15/9/2014; AREsp 485.766/RS, Rel. Ministro Benedito Gonçalves, DJ de 15/9/2014; AREsp 542.740/RS, Rel. Ministro Herman Benjamin, DJ de 8/9/2014; e AREsp 487.170/RS, Rel. Ministro Mauro Campbell Marques, DJ de 3/4/2014" (AgRg no AREsp 641.596/RS, Rel. Min. OG FERNANDES, Segunda Turma, DJe de 23/03/2015).
+2. Agravo Interno a que se nega provimento. (AgInt no AREsp 876.956/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 08/09/2016).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. OBRIGAÇÃO DE PEQUENO VALOR. EXECUÇÃO INVERTIDA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL DO ESTADO DO RIO GRANDE DO SUL.
+1. Esta Corte Superior possui entendimento segundo o qual descabe a fixação dos honorários advocatícios na hipótese de execução invertida, entendida como aquela em que a Fazenda Pública devedora antecipa-se no cumprimento da obrigação de pagar e promove espontaneamente os atos necessários à expedição da Requisição de Pequeno Valor. Precedentes: AgRg no REsp. 1.579.310/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 15.4.2016; EDcl no AREsp. 755.561/RS, Rel. Min. HERMAN BENJAMIN, DJe 4.2.2016; AgRg no AREsp. 605.340/RS, Rel. Min. OLINDO MENEZES, DJe 9.12.2015 e REsp. 1.551.850/RS, Rel. Min. HUMBERTO MARTINS, DJe 15.10.2015.
+2. Embargos de Declaração de iniciativa do ESTADO DO RIO GRANDE DO SUL acolhidos, com efeitos infringentes, para conhecer do Agravo e dar provimento ao Recurso Especial, a fim de afastar a condenação em honorários advocatícios.(EDcl no AgRg no AREsp 25.347/RS, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 30/06/2016).
+No caso dos autos, contudo, a decisão de relator adotada como razões de decidir pelo aresto hostilizado, apesar de reconhecer a ausência de pretensão resistida, teve por cabível a imposição das despesas da sucumbência ao entendimento de que " ..  a apresentação dos cálculos e pronto reconhecimento do valor do débito pela parte devedora, a denominada "execução invertida" não resulta no imediato pagamento do crédito  .. " (e-STJ fl. 77). Tal posicionamento diverge da orientação desta Corte acima aludida.
+Reforce-se que, na linha da jurisprudência deste STJ, " ..  não cabe a fixação de honorários advocatícios na hipótese em que o devedor apresenta os cálculos para expedição da correspondente requisição de pequeno valor, caso o credor concorde com o valor apresentado, o que se denomina execução invertida" (REsp 1675990/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 09/10/2017), razão pela qual despicienda a consideração acerca de eventual pagamento do débito.
+Outrossim, para adoção do entendimento aludido, não há que se falar em revolvimento dos elementos de convicção dos autos, uma vez que não houve distanciamento da premissa fática assentada pelas instâncias ordinárias.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao presente agravo interno.
+É como voto.
