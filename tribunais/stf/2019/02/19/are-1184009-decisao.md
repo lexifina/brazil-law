@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. URP. EXTINÇÃO DA EXECUÇÃO DE TÍTULO JUDICIAL. DESPROVIMENTO DA APELAÇÃO.” (eDOC 1, p. 188)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação à coisa julgada e ofensa ao princípio da segurança jurídica, ao argumento de que “o processo originário que se executava apenas transitou em julgado em 2011, ou seja, a mais de vinte anos da data do ‘suposto reajuste em 1988’, e, fora julgada procedente a ação, reconhecendo-se o seu efeito cascata [...]”. (eDOC 1, p. 391)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    É firme a jurisprudência do Supremo Tribunal Federal no sentido de que a afronta ao princípio constitucional da proteção à coisa julgada configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário.
+    A repercussão geral da matéria foi rejeitada no julgamento do ARE 748.371 RG, de minha relatoria, tema 660 da sistemática da repercussão geral, assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ainda que assim não fosse, melhor sorte não teria a parte recorrente quanto à existência de violação constitucional.
+    Na espécie, o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto-Lei 2.335/87) e o conjunto probatório constante dos autos, consignou que a parte recorrente não faz jus ao reajuste de 16,19%, referente à URP de abril a maio de 1988. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Adveio Voto-Vista da lavra do Exmo. Desembargador Federal Manoel de Oliveira Erhardt, entendendo pelo esvaziamento da Execução em face das reestruturações, bem como da limitação temporal aos meses de Abril e Maio de 1988 quanto à URP no valor correspondente a 7/30 de 16,19%, e considerando o ingresso no Serviço Público posteriormente a 1988, nos seguintes termos:
+    (…)
+    Verifica-se, no caso, que o (a) Apelante não faz jus ao reajuste de 7/30 do percentual de 16,19%, referente à URP, tendo em vista que a Súmula 671 do Supremo Tribunal Federal limitou o pagamento ao período de Abril a Maio de 1988, e o seu ingresso no Serviço Público Federal deu-se após o ano de 1988.” (eDOC 1, p. 179/180)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REAJUSTE DE VENCIMENTOS. URP DE ABRIL E MAIO DE 1988. DECRETO-LEI 2.425/1988. PRESCRIÇÃO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. PRECEDENTES. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 1.123.778, Rel. Min. Luiz Fux, Primeira Turma, DJe 1º.8.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. PAGAMENTO. DIFERENÇAS. URP. ABRIL E MAIO DE 1988. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279/STF , e das normas infraconstitucionais, sendo certo que eventual ofensa à Constituição seria apenas indireta. Precedentes. II Agravo regimental a que se nega provimento, com aplicação da multa (art. 1.021, § 4°, do CPC).” (RE-AgR 1.096.900, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.3.2018)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, IV, a, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
