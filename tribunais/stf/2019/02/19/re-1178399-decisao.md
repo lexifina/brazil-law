@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem, reformando o entendimento do juízo, julgou improcedente o pedido, assentando a legalidade do ato de exclusão do recorrido das fileiras da corporação da Polícia Militar do Estado do Ceará. No extraordinário, o recorrente aponta violados os artigos 2º, 5º, incisos LIV e LV, e 93, inciso IX, da Constituição Federal. Alega cerceamento de defesa e falta de fundamentação. Argui a nulidade do acórdão recorrido.
+    2. Eis os fundamentos da decisão recorrida:
+    A insurgência recai, em síntese, na ilegalidade ou não do ato que excluiu o apelado das fileiras da corporação da Polícia Militar do Estado do Ceará.
+    Pelos documentos juntados aos autos, observa-se que a Administração Pública instaurou Processo Administrativo Disciplinar, conforme Portaria nº 089/2006-DP/3 (fl. 87), donde foi apurado a prática dos crimes de extorsão (art. 158, CP) e de porte ilegal de arma (art. 14, Lei nº. 10.826/03).
+    Ultrapassado tal ponto, faz-se imperioso analisar o ponto central da presente demanda, qual seja a ausência de intimação do apelado e de seu advogado da decisão final proferida pelo Conselho Disciplinar da Polícia Militar do Estado do Ceará.
+    Além disso, também deve ser frisado que tanto o acusado como seu advogado foram devidamente intimados de todos os atos desenvolvidos no processo administrativo disciplinar, inclusive da sessão de julgamento em que foi proferida a decisão supramencionada, ficando plenamente ciente do teor da mesma, nos termos do seguinte trecho explicitado na sentença proferida pela MM. Juíza a quo às fls. 1.011, in litteris:
+    Na hipótese, a decretação da nulidade absoluta de todos os atos processuais, resultando na consequente reintegração do apelado é medida que não atende aos três subprincípios acima elencados, uma vez que tal medida acarreta enormes malefícios ao Estado e à sociedade, tendo em vista que houve o efetivo descumprimento dos valores militares insculpidos no art. 27, incs. IV, XII, XIII, XVI, XIX da Lei Estadual nº. 10.072/76, Estatuto da Polícia Militar vigente à época do cometimento das infrações e, portanto, aplicável ao caso.
+    O acórdão impugnado mediante o extraordinário revela análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Nego seguimento a este extraordinário. Considerada a fixação dos honorários advocatícios em R$ 500,00, majoro-os em mais R$ 500,00, consoante o artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 19 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
