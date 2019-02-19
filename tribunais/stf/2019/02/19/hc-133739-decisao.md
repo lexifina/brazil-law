@@ -1,0 +1,21 @@
+Trata-se de habeas corpus impetrado em favor de Demethrios de Oliveira Nonato contra acórdão do Superior Tribunal de Justiça – STJ nos autos do agravo regimental no REsp. 1.459.352/PB, Rel. Min. Jorge Mussi.
+    Colho do relatório do Parquet Federal, que ora adoto:
+    “1. O paciente foi denunciado como incurso no art. 180 do Código Penal (receptação) e no art. 16 da Lei nº 10.826/03 (posse ilegal de arma de fogo de uso restrito), porquanto recebeu e manteve escondida uma pistola Glock G-17, calibre 9 mm, que havia sido subtraída de um Agente de Polícia Federal, apontado como integrante de uma quadrilha especializada em assaltos e tráfico de drogas. O Juízo da 1ª Vara Federal da Subseção Judiciária de João Pessoa/PB julgou procedente a pretensão punitiva e o condenou à pena de 10 (dez) anos de reclusão, em regime inicial fechado, e ao pagamento de 70 (setenta) dias-multa. Inconformados, a defesa e o órgão do Ministério Público Federal apelaram. A 3ª Turma do Tribunal Regional Federal da 5ª Região, por unanimidade, deu provimento, em parte, às apelações, para reduzir as penas pelo crime de receptação para 03 (três) anos de reclusão, e posse irregular de arma de fogo de uso restrito para 03 (três) anos e 06 (seis) meses de reclusão. A defesa interpôs recurso especial, ao qual o Ministro-relator do Superior Tribunal de Justiça negou seguimento. Sobreveio agravo regimental, que foi desprovido, nos termos da seguinte ementa:
+    AGRAVO REGIMENTAL. RECURSO ESPECIAL DECIDIDO MONOCRATICAMENTE. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA.
+    1. O art. 557, §1º-A, do Código de Processo Civil, aplicável subsidiariamente na área penal, autoriza ao relator dar provimento ao recurso quando o acórdão recorrido estiver em confronto com a jurisprudência desta Corte, justamente o que se verificou no presente caso.
+    RECEPTAÇÃO E POSSE DE ARMA DE FOGO DE USO RESTRITO. PRINCÍPIO DA CONSUNÇÃO E RECONHECIMENTO DE CRIME FORMAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF.
+    1. As teses referentes ao princípio da consunção e à caracterização do crime formal, não foram objeto de debate ou deliberação pelo Tribunal de origem, não tendo as questões sido prequestionadas, atraindo a incidência da Súmula n. 282 do STF.
+    DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REDIMENCIONAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+    1. A revisão da dosimetria da pena em sede de recurso especial é admissível apenas diante de ilegalidade flagrante.
+    2. Na espécie, considerada negativa a culpabilidade e a circunstância do crime, majorou-se a pena-base do delito e desconstituir essa circunstância exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula 7/STJ.
+    3. Agravo regimental a que se nega provimento.
+    2. No presente writ, a defesa sustenta que a aquisição e o recebimento da arma de fogo pelo recorrente integra o tipo penal do art. 16 da Lei nº 10.826/03, não podendo este ser responsabilizado pela prática do delito previsto no Estatuto do Desarmamento e pelo crime de receptação, sob pena de configuração de bis in idem. Afirma que, no caso, não há desígnios autônomos em relação aos crimes, aplicando-se o princípio da consunção.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, tenho que é caso de não conhecimento do writ.
+    Isso porque a tese suscitada nesta impetração não foi debatida no STJ. Segundo o Ministro Jorge Mussi, Relator do voto condutor, “as questões referentes ao princípio da consunção e à caracterização do crime formal, não foram objeto de debate ou deliberação pelo Tribunal de origem, não tendo as questões sido prequestionadas, atraindo a incidência da Súmula n. 282 do STF (...)”.
+    Destarte, a análise do tema por esta Corte ensejaria indevida dupla supressão de instância e extravasamento dos limites de competência deste Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Isso posto, nego seguimento a este habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de fevereiro de 2019.
+          Ministro Ricardo Lewandowski
+                      Relator
