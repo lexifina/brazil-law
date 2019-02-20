@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 44, de 14 de fevereiro de 2019
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: OBRAS DE CONSTRUÇÃO CIVIL. SERVIÇOS DE CONSTRUÇÃO CIVIL. ESTAÇÕES E REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. REGIME CUMULATIVO E NÃO CUMULATIVO. APLICAÇÃO.
+A construção de estações e redes de distribuição de energia elétrica é considerada obra de construção civil, devendo submeter as receitas dela decorrentes ao regime de apuração cumulativa da Cofins.
+Os serviços de manutenção de estações e redes de distribuição de energia elétrica são considerados serviços de construção civil, devendo as receitas deles decorrentes serem submetidas, em regra, ao regime de apuração não cumulativa da Cofins. Tais receitas só estarão abarcadas pelo regime de apuração cumulativa do inciso XX do art. 10 da Lei nº 10.833, de 2003, quando os referidos serviços de manutenção estiverem vinculados a um mesmo contrato de administração, empreitada ou subempreitada de obra de construção civil e a realização de tal obra for incondicional.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 10; Lei nº 9.718, de 1998; Lei Complementar nº 116, de 2003; Lei nº 8.666, de 1993; Lei nº 5.194, de 1966.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: OBRAS DE CONSTRUÇÃO CIVIL. SERVIÇOS DE CONSTRUÇÃO CIVIL. ESTAÇÕES E REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. REGIME CUMULATIVO E NÃO CUMULATIVO. APLICAÇÃO.
+A construção de estações e redes de distribuição de energia elétrica é considerada obra de construção civil, devendo submeter as receitas dela decorrentes ao regime de apuração cumulativa da Contribuição para o PIS/Pasep.
+Os serviços de manutenção de estações e redes de distribuição de energia elétrica são considerados serviços de construção civil, devendo as receitas deles decorrentes serem submetidas, em regra, ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep. Tais receitas só estarão abarcadas pelo regime de apuração cumulativa do inciso XX do art. 10 c/c o inciso V do art. 15 da Lei nº 10.833, de 2003, quando os referidos serviços de manutenção estiverem vinculados a um mesmo contrato de administração, empreitada ou subempreitada de obra de construção civil e a realização de tal obra for incondicional.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 10, inciso XX, art. 15, inciso V; Lei nº 10.637, de 2002; Lei nº 9.718, de 1998; Lei Complementar nº 116, de 2003; Lei nº 8.666, de 1993; Lei nº 5.194, de 1966.EMENTA:
+[arquivo anexo: SC Cosit nº 44-2019.pdf]
