@@ -1,0 +1,24 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade dos recursos extraordinários, exarado pela Presidência do Tribunal a quo, foram manejados agravos. Nas minutas sustenta-se que os recursos extraordinários reúnem todos os requisitos para sua admissão. Aparelhado o recurso da União na afronta ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Por sua vez, o Estado do Paraná aponta violação dos arts. 196, 197 e 198 do texto constitucional.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento dos recursos extraordinários, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe os agravos.
+    O Tribunal de origem inadmitiu ambos os recursos considerado o RE 855.178-RG, submetido à sistemática da repercussão geral, entre outros óbices.
+    Firmou-se o entendimento desta Suprema Corte no sentido de que incabível agravo de instrumento ou reclamação de decisão que, na origem, aplica o precedente da repercussão geral. Contra decisão desse teor, reputa-se admissível apenas agravo regimental no âmbito do próprio Tribunal a quo.
+    Tal entendimento restou positivado pelo Código de Processo Civil de 2015, verbis:
+    “Art. 1.035. O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
+    (…)
+    § 7º Da decisão que indeferir o requerimento referido no § 6º ou que aplicar entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos caberá agravo interno.” (grifo nosso)
+    Ressalto, ainda, o óbice consubstanciado no art. 1.042, parte final, do CPC 2015, que dispõe: “Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos”.
+    Observo, por oportuno, em atenção ao princípio da fungibilidade recursal, que foi determinada, em um primeiro momento, a conversão dos agravos e das reclamações em agravo regimental, a ser julgado pelo Tribunal de origem (v.g. AI 760.358-QO, Pleno, Rel. Min. Gilmar Mendes, DJe 19.12.2009, e Rcls 7.547 e 7.569, Pleno, Rel. Min. Ellen Gracie, DJe 11.12.2009). Posteriormente, a jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido de que somente possível a conversão em agravo regimental quanto aos recursos interpostos e às reclamações ajuizadas até a data do julgamento dos referidos processos, qual seja, 19.11.2009. Nesse sentido, Rcl 11.633-AgR, Pleno, Rel. Min. Gilmar Mendes, DJe 13.9.2011 e Rcl 9.471, 2ª Turma, Rel. Min. Gilmar Mendes, DJe 13.8.2010:
+     “Agravo regimental em reclamação. 2. Indeferimento da inicial. Ausência de documento necessário à perfeita compreensão da controvérsia. 3. Reclamação em que se impugna decisão do tribunal de origem que, nos termos do art. 328-A, § 1º, do RISTF, aplica a orientação que o Supremo Tribunal Federal adotou em processo paradigma da repercussão geral (RE 598.365-RG). Inadmissibilidade. Precedentes. AI 760.358, Rcl 7.569 e Rcl 7.547. 4. Utilização do princípio da fungibilidade para se determinar a conversão em agravo regimental apenas para agravos de instrumento e reclamações propostos anteriormente a 19.11.2009. 5 Agravo regimental a que se nega provimento.”
+    Ainda, exemplificativamente, as seguintes decisões monocráticas: ARE 713.609, Rel. Min. Celso de Mello, DJe 03.4.2013, ARE 737.931, Rel. Min. Gilmar Mendes, DJe 03.4.2013, ARE 720.845, Rel. Min. Ricardo Lewandowski, DJe 15.3.2013, ARE 703.326, Rel. Min. Joaquim Barbosa, DJe 02.10.2012, ARE 654.045, Rel. Min. Luiz Fux, DJ 01.3.2012, e ARE 646.211, Rel. Min. Cármen Lúcia, DJe 02.8.2012.
+    Nessa linha, em se tratando o presente de agravo interposto após 19.11.2009, manifesto o seu descabimento, consoante a compreensão jurisprudencial consolidada nesta Casa, assim como incabível sua conversão em agravo regimental.
+    Ressalte-se, quanto ao agravo da União, que, embora afirme não impugnar a aplicação do precedente da repercussão geral pelo Tribunal de origem, persiste, ao longo da argumentação, no debate em torno do tema nele tratado.
+    Por conseguinte, não merecem processamento os apelos extremos, consoante também se denota dos fundamentos da decisão que desafiou os recursos, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
