@@ -1,0 +1,16 @@
+DESPACHO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Itaú Unibanco S/A contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Apelação cível. Embargos à execução fiscal. Repercussão geral. STF. Sobrestamento somente com relação aos recursos extraordinários. Serviços bancários. ISS. Hipóteses de incidência. Lei Complementar 116/2003. Rubrica ‘Operações ativas’. Serviço expressamente previsto na lista anexa à legislação pertinente. Imposto devido. Rubrica ‘adiantamento a depositantes’. Ausência de previsão na lista anexa. Serviço de operação de crédito e não de prestação de serviço. Não incidência do tributo. Multa, juros e correção monetária. Cobrança devida. Manutenção. Multa em razão de dolo, simulação ou fraude. Não ocorrência. Exclusão.
+    Recurso de Apelação parcialmente provido.
+    1) Havendo reconhecimento de repercussão geral em torno de determinada matéria constitucional apenas os Recursos Extraordinários devem ser sobrestados. Precedentes.
+    2) Pacífico o entendimento no sentido de que apesar de se tratar de rol taxativo, este admite interpretação extensiva para enquadrar serviços idênticos, ou seja, de mesma natureza, mas com nomenclaturas distintas. ‘Súmula 424 – É legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987’. Interpretação idêntica se dá à Lei complementar 116/2003.
+    3) O serviço de ‘operações ativas’ está expressamente previsto na lista anexa à LC 116/2003 e, portanto, sobre tais operações, incide o ISS.
+    4) Não pode incidir o ISS sobre a rubrica denominada ‘adiantamento a depositantes’, pela não caracterização da hipótese de incidência na lista anexa à Lei Complementar, bem como porque tal rubrica é relativa a operações de crédito, e não a prestação de serviços.
+    5) Não restando demonstrado nos autos, extreme de dúvidas, que tenha o embargante agido com dolo, fraude ou simulação, é de ser excluída a multa de 60% que lhe foi imposta a este título.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 784.439-RG/AL, Rel. Min. ROSA WEBER, Tema nº 296/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se ao “Caráter taxativo da lista de serviços sujeitos ao ISS a que se refere o art. 156, III, da Constituição Federal”.
+    Isso significa que se impõe, quanto ao Tema nº 296/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
