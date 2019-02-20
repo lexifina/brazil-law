@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. DOIS CARGOS DE TÉCNICO EM RADIOLOGIA. LIMITAÇÃO DE CARGA HORÁRIA. DANOS À SAÚDE. LEI N. 7.394/85. IMPOSSIBILIDADE. DIREITO FUNDAMENTAL INDISPONÍVEL. ”. (eDOC 1, p. 135)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, XVI, do texto constitucional.
+    Nas razões recursais, alega-se que a carga semanal máxima de 24 horas prescrita legalmente deveria ser considerada para cada emprego de maneira individual, e que o único requisito legal estabelecido para a acumulação de cargos seria a compatibilidade de horários. (eDOC 1, p. 150)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a Lei 7.394/1985 e o conjunto probatório constante dos autos, consignou que os cargos em questão não podem ser acumulados, por demonstrarem risco grave à saúde do recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não se discute a possibilidade de acumulação de um cargo de Técnico em Radiologia e outro cargo da área de saúde, que depende somente da verificação da compatibilidade de horários, conforme decido pela Corte Constitucional (RE 633298 AgR, Relator: Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 13/12/2011, DJe-032 de 14/02/2012).
+    A questão se refere à cumulação de dois cargos idênticos, cuja norma regulamentadora, devida as condições de trabalho, restringe a carga horária laborai, de modo a preservar a saúde do profissional.
+    Nesse contexto, impede ressaltar que o direito à saúde trata-se de um direito fundamental indisponível, o que se traduz pelo fato de que o titular desse direito não está autorizado a abrir dele, isso quer seja na órbita jurídica com também material.
+    Assim, considero inadmissível a acumulação de dois cargos de Técnico em Radiologia, tendo em vista o disposto no art. 24 da Lei n. 7.394/85, que atendo ao risco à saúde do profissional que atua nessa área, estabeleceu o limite de 24 horas semanais de trabalho, que uma vez ultrapassado afeta o direito à saúde, resguardado pela Constituição Federal, em seu art. 196.” (eDOC 1, p. 131)
+    A jurisprudência desta Corte consolidou-se no sentido de que as controvérsias quanto à carga horária das profissões regulamentadas são de índole infraconstitucional, como se vê dos seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PEDIDO DE ACUMULAÇÃO DE DOIS CARGOS PÚBLICOS DA ÁREA DE SAÚDE. EXTRAPOLAÇÃO DE JORNADA DE TRABALHO ESTABELECIDA PELA LEI Nº 7.394/1985. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 279/STF. Para dissentir da conclusão firmada pelo Tribunal de origem, faz-se necessário analisar a legislação infraconstitucional aplicada ao caso, bem como uma nova apreciação dos fatos e do material probatório constantes dos autos, providências vedadas neste momento processual. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento”. (ARE 826.177 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 24.10.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. TÉCNICO EM RADIOLOGIA. ACUMULAÇÃO DE CARGOS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 936.295 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 25.5.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Técnico em radiologia. Acumulação de cargos. 3. Matéria restrita à analise de legislação infraconstitucional (Lei 7.394/85 e Decreto 92.790/86). 4. Reexame fático-probatório. Verbete 279 da Súmula do STF. Precedentes. 5. Agravo regimental a que se nega provimento”. (ARE 817.366 AgR, rel. Min. Gilmar Mendes, Segunda Turma, DJe 12.9.2014)
+    Além disso, divergir do entendimento do Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2019
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
