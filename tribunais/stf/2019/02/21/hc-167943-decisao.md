@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus com pedido liminar, impetrado por Acrísio Venâncio da Cunha Filho, em favor de Ronaldo Rodrigues Justino, contra decisão do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça (STJ), que concedeu a ordem no HC 465.207/MS sem acolher a integralidade do pedido.
+    Consta dos autos que o paciente foi preso em flagrante e posteriormente denunciado pela prática do delito descrito no art. 33, caput, da Lei nº 11.343/2006, restando condenado ao final da instrução à pena de 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e ao pagamento de 750 (setecentos e cinquenta) dias-multa.
+    Irresignada, a defesa interpôs apelação criminal no TJ/MS alegando, em suma, ilegalidade na individualização da pena, haja vista o exagero do quantum fixado na pena-base.
+    O recurso foi desprovido nos termos da ementa a seguir transcrita:
+    “APELAÇÃO CRIMINAL DEFENSIVA – TRÁFICO DE DROGAS – RONALDO RODRIGUES JUSTINO – REDUÇÃO DA PENA – IMPERTINÊNCIA – RECURSO DESPROVIDO. Incabível a redução da pena definitiva quando constatado que a reprimenda foi devidamente individualizada, de modo que cada uma das circunstâncias judiciais e legais utilizadas para exasperação da reprimenda teve incidência devidamente fundamentada pelos elementos fáticos existentes no caso concreto.” (eDOC 2, p. 8)
+    Sobreveio a impetração de habeas corpus no STJ que, mesmo tendo concedido a ordem para reparar o cálculo da pena imposta, não satisfez a pretensão do paciente. (eDOC 5)
+    Nesta Corte o impetrante reitera os pedidos pretéritos e enfatiza a ilegalidade na dosimetria da pena.
+    Alega que o juízo de origem, ao majorar a pena base em 2 (dois) anos, tendo em vista somente a quantidade e qualidade do entorpecente, teria violado os princípios da razoabilidade e da proporcionalidade.
+    Postula, liminarmente e no mérito, a redução da pena-base para o mínimo legal.
+    O presente writ foi a mim distribuído por prevenção ao HC 167.885/MS.
+    É o relatório.
+    Passo a decidir.
+    Inicialmente registra-se que conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional. Contudo, o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena.
+    Nesse sentido, conforme consignado pela Segunda Turma, quando do julgamento do HC 137.532/SP, Rel. Min. Ricardo Lewandowski, Red. p. Acórdão Min. Dias Toffoli, DJe 17.8.2017:
+    “(...) 2. Havendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08). 3. É pacífica a jurisprudência da Corte de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal e consideradas na sentença condenatória (HC nº 120.146/SP, Primeira Turma, de minha relatoria, DJe de 22.4.14)”.
+    Ademais, o Plenário do STF, em precedente cuja repercussão geral foi reconhecida, entendeu que a questão acerca da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da pena-base pelo juízo sentenciante possui natureza infraconstitucional. Para tanto assentou-se:
+    “RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código Penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de Instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional”. (AI-RG nº 742.460, Rel. Min. Cézar Peluso, DJe 25.9.2009)
+    No presente caso não verifico teratologia ou ilegalidade na fixação da pena base a qual foi apenado o paciente, pelo delito de tráfico de entorpecentes, de modo que não se justifica a concessão da presente ordem.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se. Int..
+    Brasília, 21 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
