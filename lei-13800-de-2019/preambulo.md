@@ -1,0 +1,2 @@
+Autoriza a administração pública a firmar instrumentos de parceria e termos de execução de programas, projetos e demais finalidades de interesse público com organizações gestoras de fundos patrimoniais; altera as Leis nº s 9.249 e 9.250, de 26 de dezembro de 1995, 9.532, de 10 de dezembro de 1997, e 12.114 de 9 de dezembro de 2009; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
