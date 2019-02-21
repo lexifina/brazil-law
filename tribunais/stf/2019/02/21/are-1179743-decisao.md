@@ -1,0 +1,29 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Sindicato dos Policiais Rodoviários Federais no Estado do Rio Grande do Norte – SINPRF/RN contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. URP. EXTINÇÃO DA EXECUÇÃO DE TÍTULO JUDICIAL. DESPROVIMENTO DA APELAÇÃO.
+    I – Apelação interposta à Sentença proferida nos autos de Embargos à Execução, que julgou Procedente a Pretensão para extinguir Execução de Título Judicial, sob o fundamento de que o Exequente ingressou no Serviço Público Federal após o ano de 1988 e, portanto, não faria jus ao reajuste de 7/30 do percentual de 16,19%, referente à URP de Abril e Maio de 1988.
+    II – Rejeição da preliminar de incompetência absoluta do Juízo sentenciante, uma vez que o STJ possui jurisprudência consolidada no sentido de que a execução individual de sentença condenatória proferida em ação coletiva não segue a regra geral de ser processada perante o mesmo Juízo que decidiu a causa em processo de conhecimento (EDACC 201303991052, HERMAN BENJAMIN, STJ – PRIMEIRA SEÇÃO, DJE DATA: 17/06/2014; AARESP 201400245378, MAURO CAMPBELL MARQUES, STJ – SEGUNDA TURMA, DJE DATA: 19/05/2014; RESP 200802244991, NANCY ANDRIGHI, STJ – TERCEIRA TURMA, DJE DATA: 28/10/2010). Ademais, a alegação deveria ter sido realizada na ação de execução, e não nos embargos à execução, meio de defesa do devedor.
+    III – A Súmula nº 671, do STF, consagrou o direito ao reajuste em tela, assinalando que ‘os servidores públicos e os trabalhadores em geral têm direito, no que concerne à URP de abril/maio de 1988, apenas ao valor correspondente a 7/30 de 16,19% sobre os vencimentos e salários pertinentes aos meses de abril e maio de 1988, não cumulativamente, devidamente corrigidos até o efetivo pagamento’.
+    IV – Tratando-se de hipótese em que o ingresso no serviço público deu-se após o ano de 1988, não há diferenças salariais a serem executadas.
+    V – Desprovimento da Apelação.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 5º, XXXVI, da Constituição da República.
+    Impõe-se assinalar, desde logo, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário interposto pela parte ora agravante.
+    Cabe salientar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal Regional Federal da 5ª Região, ao resolver a questão suscitada nos autos, apoiou-se em aspectos fático-probatórios:
+    “Verifica-se, no caso, que o (a) Apelante não faz jus ao reajuste de 7/30 do percentual de 16,19%, referente à URP, tendo em vista que a Súmula 671 do Supremo Tribunal Federal limitou o pagamento ao período de Abril a Maio de 1988, e o seu ingresso no Serviço Público Federal deu-se após o ano de 1988.”
+    Impende destacar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.175.788/RN, Rel. Min. ALEXANDRE DE MORAES – ARE 1.176.488/RN, Rel. Min. GILMAR MENDES, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA  TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. PAGAMENTO. DIFERENÇAS. URP. ABRIL E MAIO DE 1988. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos.
+    II – Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF –, e das normas infraconstitucionais, sendo certo que eventual ofensa à Constituição seria apenas indireta. Precedentes.
+    II – Agravo regimental a que se nega provimento, com aplicação da multa (art. 1.021, § 4º, do CPC).”
+    (RE 1.096.900-AgR/DF, Rel. Min. RICARDO LEWANDOWSKI)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte ora agravante revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 21 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
