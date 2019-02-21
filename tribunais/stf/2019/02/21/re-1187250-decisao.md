@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 2ª Região, reformando o entendimento do Juízo, acolheu em parte os embargos à execução. No extraordinário, o recorrente aponta a violação dos artigos 1º, inciso II, 5º, cabeça e incisos XXXVI, LIV e LV, 37, inciso X, 93, inciso IX, e 100, § 1º, da Constituição Federal. Diz contrariados os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da segurança jurídica, da dignidade da pessoa humana, do fato consumado, da congruência e da coisa julgada.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    PROCESSO CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. EXTINÇÃO DA EXECUÇÃO INDIVIDUAL. LITISPENDÊNCIA. EXECUÇÃO COLETIVA. INEXISTÊNCIA. PRESCRIÇÃO. INOCORRÊNCIA. COMPENSAÇÃO. POSSIBILIDADE. LIQUIDAÇÃO PRÉVIA. DESNECESSÁRIA.
+    1. A sentença, após afastar a prescrição e a litispendência, acolheu os embargos e extinguiu a execução individual para reajuste de 3,17% concedido a servidores da UFRJ, convencido o juízo da iliquidez do título executivo judicial, formado na coletiva e não submetido à prévia liquidação.
+    2. Para apurar o valor exequendo, o sindicato utilizou elementos fornecidos pela UFRJ nos embargos à execução coletiva, extinta com determinação para início de execuções individualizadas, a exemplo da ora embargada.
+    3. As partes não divergem sobre a base de cálculos e os encargos, e a execução, instruída com planilhas individualizadas para cada exequente, indica os elementos utilizados para elaboração das contas (ano, mês, base de cálculos, percentual de incidência, fator de correção e juros), não se mostrando necessária a liquidação prévia do julgado. Precedentes.
+    4. É desinfluente o trânsito em julgado do acórdão que negou provimento ao apelo do Sindicato, mantendo a extinção da execução coletiva, pois os cinco substituídos a ela renunciaram e decidiram obter, individualmente, apenas os créditos reconhecidos pela própria Universidade naqueles embargos à execução, inexistindo litispendência entre as execuções. Precedentes.
+    5. Subsistindo a execução coletiva, a UFRJ poderá comprovar que os servidores favorecidos com a execução individual nada têm a receber no processo executório anterior, em face da renúncia, nos moldes autorizados pelo art. 741, VI do CPC.
+    6. Inexiste prescrição da pretensão na execução individual ajuizada menos de dois anos e meio após a extinção da execução coletiva proposta no quinquênio legal. Inteligência do art. 3° do Decreto-lei n° 4.597/42.
+    7. Na execução contra a Fazenda Pública as parcelas pagas a mesmo título, administrativamente ou por força de decisão judicial, devem ser compensadas, evitando-se o bis in idem. Aplicação do art. 741, VI, do CPC.
+    8. Compensados, a pedido da UFRJ nos embargos à execução, os valores pagos aos exequentes sob a mesma rubrica, desde a MP n° 2.225/01, marco temporal final do reajuste de 3,17%, a UFRJ tornou-se credora de R$ 14.494,15, e não devedora dos R$ 39.283,76 pleiteados na execução individual.
+    9. Não afronta a coisa julgada a limitação da incorporação de 3,17% à data da reorganização de vencimentos efetivada pela MP n° 2.225/01. Precedentes do STJ.
+    10. A verba honorária, porém, incide sobre os valores pagos administrativamente. O pagamento de parcelas referentes à condenação judicial, depois do trânsito em julgado, não interfere no título executivo para diminuir a verba honorária nele já fixada.
+    11. O valor exequendo não foi contestado pela UFRJ, que pleiteou apenas a compensação com valores pagos sob a mesma rubrica, desde a MP n° 2.225/01, marco temporal final para recebimento do reajuste de 3,17%. Dessa forma, os honorários - fixados em 10% sobre o total da condenação - incidem sobre o total, abatidos apenas os valores pagos administrativamente antes do trânsito em julgado da ação principal, em 22/9/2004.
+    12. A contribuição previdenciária (PSS) e o imposto de renda (IR) podem ser descontados no momento do precatório ou requisição de pagamento, sendo desnecessária a sua expressa quantificação na planilha de cálculos da execução.
+    13. Apelação parcialmente provida para acolher parcialmente os embargos à execução da UFRJ, determinando-se o prosseguimento da ação executiva pelo valor devido a título de honorários.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade dos recursos.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
