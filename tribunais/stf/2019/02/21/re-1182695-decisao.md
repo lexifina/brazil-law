@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – HONORÁRIOS CONTRATUAIS – PRECATÓRIO – FRACIONAMENTO – IMPOSSIBILIDADE — PROVIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região entendeu pela procedência do pedido de execução autônoma dos honorários advocatícios contratuais. No extraordinário, o recorrente aponta violados os artigos 5º, incisos XXXV, LIV e LV, e 100, § 8º, da Constituição Federal. Discorre sobre a diferença entre honorários contratuais e sucumbenciais e a impossibilidade de fracionamento da execução para atender interesses particulares.
+    Eis a síntese do acórdão recorrido:
+    AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. FRACIONAMENTO. HONORÁRIOS CONTRATUAIS. 1. O art. 18 da Resolução nº 405/2016 do CJF estabelece, de forma expressa, que os honorários advocatícios sucumbenciais e contratuais não integram o valor principal, autorizando-se a expedição de requisição própria para seu pagamento. 2. Desse modo, não cabe condicionar a requisição da verba honorária à observância da mesma modalidade a que sujeito o crédito principal, sob pena de esvaziar de eficácia o art. 18 da Resolução nº 405/2016 do CJF.
+    2. Atuando no campo monocrático, devo atentar para os precedentes do Tribunal, com os quais o acórdão recorrido mostra-se divergente. Confiram com a ementa a seguir:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. REQUISITÓRIO EXPEDIDO. DESTAQUE DE HONORÁRIOS CONTRATUAIS INADIMPLIDOS. IMPOSSIBILIDADE. NÃO OPONIBILIDADE DE NEGÓCIO JURÍDICO PRIVADO ALHEIO À FAZENDA PÚBLICA.
+    1. A jurisprudência do STF não admite a expedição de requisitório em separado para pagamento de honorários advocatícios contratuais, à luz do art. 100, §8º, da Constituição da República.
+    2. A possibilidade de oposição de contrato de honorários contratuais não honrado antes da expedição de requisitório decorre de legislação infraconstitucional, notadamente o Estatuto da Ordem dos Advogados do Brasil, e a controvérsia referente ao adimplemento de negócio jurídico entre causídico e respectivo cliente não possui relevância para a Fazenda Pública devedora e a operabilidade da sistemática dos precatórios.
+    3. A presente controvérsia não guarda semelhança com o do RE 564.132, que deu fundamento à edição da Súmula Vinculante 47 do STF, pois a autonomia entre o débito a ser recebido pelo jurisdicionado e o valor devido a título de honorários advocatícios restringe-se aos sucumbenciais, haja vista a previsão legal destes contra a Fazenda Pública, o que não ocorre na avença contratual entre advogado e particular. Precedente: Rcl-AgR 24.112, de relatoria do Ministro Teori Zavascki, Segunda Turma, DJe 20.09.2016. (agravo regimental no recurso extraordinário nº 1.035.724, relatado na 2ª Turma pelo ministro Edson Fachin, acórdão publicado no Diário da Justiça de 20 de setembro de 2017)
+    No mesmo sentido decidiu a 1ª Turma no agravo regimental no recurso extraordinário com agravo 1.030.392, julgado na sessão de 13 de março de 2018, vencido o relator, ministro Roberto Barroso.
+    3. Ante os precedentes, conheço do extraordinário e o provejo para, reformando o acórdão recorrido, determinar o retorno do processo à origem para que analise o pedido na forma dos parâmetros acima indicados.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
