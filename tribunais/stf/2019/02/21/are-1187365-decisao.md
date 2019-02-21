@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    APELAÇÃO CÍVEL. Procuradores Municipais de Itapecerica da Serra. Pretensão à equiparação remuneratória com os Procuradores da Câmara Municipal. Inadmissibilidade. Cargos pertencentes a quadros diferentes e Poderes diversos, incumbidos de atuação diversa. Inteligência dos artigos da Lei Orgânica do Município de Itapecerica da Serra, do Estatuto dos Funcionários Públicos local e dos art. 39, § 1º, e 37, X e XII, ambos da Constituição Federal e da Súmula 339 Supremo Tribunal Federal. Sentença mantida. Recurso não provido. (eDOC 11, p. 24).
+    Foram opostos embargos de declaração que restaram rejeitados (eDOC 11, p. 70).
+    No recurso extraordinário (eDOC 12, p. 61), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º; 37, caput, inciso XII e XIII, do texto constitucional.
+    Nas razões recursais, alega que se trata de situação de paridade e não de equiparação, aduz que o Poder Judiciário não estaria legislando, mas simplesmente aplicando a Legislação já existente.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que a decisão proferida pelo Juízo a quo, no sentido de que não há obstáculo a que se prevejam estímulos maiores para determinada carreira em detrimento daqueles reservados a outra e que não cabe ao Poder Judiciário definir tais pontos, visto que depende de Lei, está em consonância com a jurisprudência desta Corte.
+    Este é o entendimento da Súmula Vinculante nº 37, segundo a qual, não cabe ao Poder Judiciário aumentar vencimentos de servidores públicos sob o fundamento da isonomia. Confira-se, a propósito, o seguinte precedente:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. CARGOS DE DIRETORES DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO – EXTENSÃO DE VANTAGENS A SERVIDORES PÚBLICOS PELO PODER JUDICIÁRIO COM FUNDAMENTO NA ISONOMIA. IMPOSSIBILIDADE. SÚMULA VINCULANTE 37. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO LCOCAL APLICADA AO CASO (LCE Nº 980/2005). SÚMULA 280/STF. 1. O Supremo Tribunal Federal veda o aumento de vencimentos pelo Judiciário, com base no princípio da isonomia, na equiparação salarial ou a pretexto da revisão geral anual. Tal entendimento restou reafirmado no julgamento do RE 592.317-RG, sob a relatoria do Ministro Gilmar Mendes, e deu origem à Súmula Vinculante 37. 2. Para chegar à conclusão pretendida pela parte recorrente, é imprescindível a análise da legislação local infraconstitucional aplicada ao caso, procedimento vedado neste momento processual, conforme a Súmula 280/STF. Precedentes. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento”. (ARE 1.136.229 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 12.11.2018).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
