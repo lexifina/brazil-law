@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Goiás, confirmando o entendimento do Juízo, condenou o recorrente Geraldo Bibiano pela prática dos atos de improbidade.
+    Nas razões do extraordinário, o recorrente alega a injusta imputação da prática de ato de improbidade administrativa, ante a ausência de dolo e nexo de causalidade entre a vantagem obtida e o exercício funcional do agente público.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    As provas dos autos demonstram que o primeiro apelante foi responsável pela despesa efetuada sem licitação, em fracionamento que indica claramente a finalidade de burlar a lei de regência, assertiva corroborada pelo depoimento de Eliete Luiza de Rezende Souza (fs. 262/264), quando declarou ter sido pressionada a confessar a autoria dos ilícitos e a efetuar a restituição ao erário dos valores apropriados, mas que na verdade, era ele o responsável pelos atos, inclusive foi quem efetuou o ressarcimento do valor ao erário estadual. De modo que configurado o dolo na conduta do primeiro apelante, porquanto à época dos fatos exercia ele o cargo de Secretário Extraordinário do Governo, sendo o ordenador das despesas realizadas com a manutenção do Palácio do Governo do Estado de Goiás, que eram pagas por meio de adiantamentos tomados pela servidora retromencionada. Assim, em que pese a servidora Eliete ter emitido e endossado os cheques em seu nome, o apelante era o verdadeiro responsável pelo ordenamento das despesas e pelo talonário de cheques para pagamento.
+    Nestes termos, infere-se que o primeiro apelante, em ato livre e consciente, valendo-se da função pública que ocupava obteve vantagem indevida, ainda que de forma indireta, cabendo-lhe suportar o ônus da conduta, evidenciada sua má-fé e o locupletamento ilícito.
+    Quanto à aventada inexistência de superfaturamento em relação à aquisição dos bens móveis, ao contrário do sustentado, o relatório da auditoria realizada pelo Tribunal de Contas do Estado de Goiás (fls. 221/230) confirma as irregularidades na contratação da empresa Itapoan Decorações Ltda, contendo indícios de superfaturamento.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, da leitura do extraordinário formalizado por Geraldo Bibiano, observa-se a não indicação do dispositivo constitucional tido por violado, limitando-se a discorrer sobre a controvérsia, abordando aspectos enfrentados pelo Colegiado. Pertinente, assim, o teor do verbete nº 284 da Súmula desta Corte:
+    É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
