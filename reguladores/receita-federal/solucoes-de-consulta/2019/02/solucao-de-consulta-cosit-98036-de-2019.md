@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98036, de 8 de fevereiro de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8543.70.20
+Mercadoria: Aparelho para eletrocutar mosquitos, composto por tambor de aço galvanizado em formato cilíndrico e tampa em forma côncava, contendo aquecedor para manter temperatura entre 29º C a 42º C, simulando a temperatura de humanos e animais, conexão para liberação de gás CO2 em intervalos regulares para emular a respiração humana e de animais, ventilador a vácuo e tela eletrificada. Possui fotocélulas para controle automático de liga e desliga. Mede 137,2 cm de altura e 35,6 cm de diâmetro, pesando 20,5 kg. Necessita ser conectado a uma rede 110 V ou 220 V e a um cilindro de CO2.
+Dispositivos Legais: RGI 1 (texto da posição 85.43), RGI 6 (texto da subposição 8543.70) e RGC 1 (texto do item 8543.70.20) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.036-2019 .pdf]
