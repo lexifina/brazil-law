@@ -1,0 +1,22 @@
+RECLAMAÇÃO. SÚMULA VINCULANTE 11. USO DE ALGEMAS. PEDIDO DE LIMINAR. AUSÊNCIA DOS PRESSUPOSTOS AUTORIZADORES.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Igor Jeremias contra ato do Juiz de Direito da Vara de Audiência de Custódia da Comarca de Criciúma/SC, que teria supostamente contrariado o enunciado da Súmula Vinculante nº 11.
+    Argumenta a Defesa do Reclamante, em síntese, que o ato reclamado afrontou o enunciado da Súmula Vinculante nº 11, porquanto “a manutenção das algemas não veio acompanhada de fundamentação idônea, na medida em que o magistrado lançou mão de argumentos genéricos, aplicáveis a qualquer caso.” Requer, em medida liminar, a suspensão da ação penal na origem. No mérito, pugna pelo reconhecimento de nulidade da audiência de custódia, da prisão preventiva e atos posteriores.
+    É o relatório.
+    Decido.
+    A via estreita da reclamação constitucional (arts. 102, I, l, e 103-A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    Quanto às hipóteses de cabimento da reclamação, ressalto que a “eficácia diferenciada, naturalmente expansiva, das decisões do Supremo Tribunal Federal, não autoriza, porém, que qualquer ato contrário a seus precedentes, imputável a qualquer juízo, obtenha reparação direta por meio de reclamação à Corte” (Rcl 9.592/DF, Rel. Min. Cezar Peluso, DJe 27.4.2010).
+    Há que examinar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    Colho do enunciado da Súmula Vinculante nº 11 desta Suprema Corte:
+    “Só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado”.
+    Por outro lado, extraio os seguintes excertos do ato reclamado:
+    “Aberta a audiência, constatou-se a presença dos acima nominados. O conduzido Igor declarou não ter defensor constituído, sendo assistido pela Defensoria Pública: Os conduzidos Alexandre e Densilson possuem advogado constituído: Bruno Ferreira. Foram mantidas as algemas dos conduzidos pela segurança dos presentes. Em seguida, os conduzidos foram ouvidos assegurado contato prévio com o Defensor e advogado constituído. Ato contínuo, foi aberta a palavra ao Ministério Público e à Defesa para manifestação. O MM Juiz proferiu a seguinte decisão: O APF já foi anteriormente analisado, com a conversão da prisão em flagrante em prisão preventiva dos conduzidos Denilson Godinho, Igor Jeremias e Alexandre de Brida. SERVE A PRESENTE DECISÃO COMO MANDADO DE PRISÃO. Considerando que os conduzidos relataram terem sofrido violência física por parte do Delegado que efetuou a prisão (Darlan), encaminhe-se à 2ª promotoria para apurar eventual excesso. Distribua-se o APF à Vara competente e, uma vez recebido (caso em plantão), abra-se vista dos autos ao Ministério Público para formação da opinio delicti". Intimados os presentes. O documento é assinado digitalmente pelo magistrado na forma do art. 36, §1º, da Resolução Conjunta n. 3/2013-GP/CGJ, na presença das partes. E, para constar, foi determinada a lavratura do presente termo.”
+    Em juízo de delibação, verifico que a decisão exarada pela autoridade reclamada se encontra fundamentada, apontando as razões de seu convencimento para justificar, na hipótese, o uso de algemas.
+    Além disso, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colham-se informações junto ao Juízo de Direito da Vara de Audiência de Custódia da Comarca de Criciúma/SC.
+    Após, ao Ministério Público para manifestação.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
