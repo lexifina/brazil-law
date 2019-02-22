@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98037, de 12 de fevereiro de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8527.21.00
+Mercadoria: Aparelho multifuncional destinado a veículos automotores, alimentado por fonte externa de energia, contendo, em um mesmo corpo, receptores de radiodifusão (AM/FM) e de posicionamento global por satélite (GPS), transmissor/receptor de sinais via bluetooth, reprodutor de som armazenado em suporte semicondutor com conector USB e tela a cores de cristal líquido (LCD) de 7" touchscreen, dispondo de conexões para instalação de acessórios como antena de GPS, antena de receptor de radiodifusão, microfone, câmera de auxílio de manobras em marcha ré e saídas para auto-falantes, denominado comercialmente de "Sistema multimídia veicular com GPS, receptor de radiodifusão e reprodutor de som".
+Dispositivos Legais: RGI 1 e 3 c) (texto da posição 85.27), RGI 6 (textos das subposições de primeiro nível 8527.2 e de segundo nível 8527.21) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.037-2019 .pdf]
