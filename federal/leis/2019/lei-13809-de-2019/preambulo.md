@@ -1,0 +1,3 @@
+LEI Nº 13.809, DE 21 DE FEVEREIRO DE 2019
+Reabre o prazo para opção pelo regime de previdência complementar de que trata o § 7º do art. 3º da Lei nº 12.618, de 30 de abril de 2012.
+Faço saber que o PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL, no exercício do cargo de PRESIDENTE DA REPÚBLICA, adotou a Medida Provisória nº 853, de 2018, que o Congresso Nacional aprovou, e eu, Davi Alcolumbre, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
