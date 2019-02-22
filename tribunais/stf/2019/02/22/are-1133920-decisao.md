@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA Guarda Municipal Metropolitano. Aposentadoria especial. PRELIMINAR Não conhecimento do apelo por descompasso com o art. 514, II, do CPC. Não ocorrência As razões recursais evidenciam a pretensão do Município de inversão do resultado do julgamento - Preliminar rejeitada.
+    MÉRITO Servidor que exerce atividade insalubre e perigosa. Aposentadoria especial assegurada pelo artigo 40, § 4º, da Constituição Federal Artigo 88, da Lei Orgânica do Município de São Paulo, alterado pela Emenda nº 36/2013 Ainda que questionada a constitucionalidade de referida. emenda, de rigor a concessão da aposentadoria especial, nos termos da Lei nº 8.213/91. Precedentes Parcelas referentes ao abono permanência não requeridas Condenação do Município ao pagamento destas afastada. Apelo não provido e reexame necessário provido em parte.” (eDOC 1, p. 138)
+     No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 40, §§ 3º, 4º, 144, § 8º e 201 caput, do texto constitucional. (eDOC 2, p. 224)
+    Nas razões recursais, alega-se que o recorrido não poderia receber aposentadoria especial por ser guarda civil metropolitano, não possuindo, a categoria, natureza policial. (eDOC 55, p.4)
+    Decido.
+    Com razão a parte agravante.
+    Da detida análise dos autos, verifica-se que o tribunal a quo deferiu à ao recorrido (guarda municipal do Município de São Paulo) o direito à aposentadoria, na forma do art. 57, da Lei 8.213/91, ao fundamento de estar tal orientação em alinhamento com o teor da Súmula Vinculante 33. Esse o primeiro equívoco. Isso porque a referida súmula confere o direito à aposentadoria especial àqueles que exercem atividades prejudiciais à saúde ou à integridade física (art. 40, § 4º, III, da Constituição Federal), fatores degradantes esses que não se revelam ínsitos à função de guarda municipal. Logo, inaplicável à espécie a Súmula Vinculante 33.
+    Superado o ponto, passo à análise do tema pertinente à possibilidade de guardas municipais se verem amparados pelo direito à aposentadoria prevista no art. 40, § 4º, II, do texto constitucional. Sobre a matéria, verifico que o Plenário desta Corte, por oportunidade do julgamento dos MI´s 6.770, 6.773, 6.780 e 6.874, reconheceu não ter o legislador constitucional contemplado os guardas municipais com o direito à aposentadoria diferenciada, de modo que defeso à classe o benefício da LC 51/85.
+    Ainda nesse sentido, destacam-se as seguintes decisões monocráticas: MI 6.793, Rel. Min. Luiz Fux, DJe 7.2.2018; MI 6.722, Rel. Min. Ricardo Lewandowiski, DJe 17.11.2017; MI 6769, Rel. Min. Edson Fachin, DJe 19.12.2017 e MI 3824, Rel. Min Roberto Barroso, DJe 2.2.2018.
+    Ante o exposto, dou provimento ao recurso extraordinário para julgar improcedente o pleito formulado na inicial (art. 932, V, a, do CPC c/c art. 21, §2º, do RISTF), tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
