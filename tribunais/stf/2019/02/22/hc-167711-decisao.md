@@ -1,0 +1,24 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Luiz Antonio Lourenço da Silva em favor de Jeferson Eliziario da Silva, contra decisão monocrática da lavra do Ministro Joel Ilan Paciornik, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 481.414/SP.
+    O paciente foi condenado à pena de 07 (sete) anos de reclusão, em regime inicial semiaberto, pela prática dos crimes de receptação qualificada e de adulteração de sinal identificador de veículo automotor, tipificados nos arts. 180, § 1º, e 311, do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça de São Paulo deu provimento ao recurso ministerial para majorar a pena para 08 (oito) anos e 02 (dois) meses de reclusão, em regime inicial fechado.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Joel Ilan Paciornik, indeferiu liminarmente o HC 481.414/SP.
+    No presente writ, o Impetrante alega inidônea a fundamentação do acórdão estadual e da decisão recorrida, porquanto teratológica a condenação do paciente, ‘sem qualquer amparo probatório’. Requer, em medida liminar e no mérito, a cassação do acórdão exarado pela Corte Estadual, o reconhecimento da nulidade processual apontada e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    Não há como dar seguimento ao pedido.
+    Primeiro porque diante do novel posicionamento jurisprudencial do STF e desta Corte onde não deve ser conhecido o habeas corpus substitutivo de recurso próprio. Também não se constata a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+    No que diz respeito à alegação de existência de provas teratológicas e insuficientes para condenação, constata-se que para se modificar as conclusões das instâncias ordinárias sobre a ocorrência dos fatos, mostra-se necessário o revolvimento aprofundado do conjunto fático-probatório, providência que é totalmente incompatível com os estreitos limites da via eleita, que é marcada pelo seu rito célere e cognição sumária.
+    Nesse sentido:
+    (…).
+    Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus”.
+    Registro a existência de óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, pois o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Ademais, para concluir em sentido diverso das instâncias anteriores quanto à condenação do paciente, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Com efeito, esta Suprema Corte já assentou que “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal”(HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012). No mesmo diapasão: “A negativa de autoria delitiva desafia exame aprofundado de fatos e provas, providência incompatível com a cognição estreita do habeas corpus”(HC 126.661/CE, Redator para o acórdão Min. Edson Fachin, 1ª Turma, DJe 26.8.2015); “Impossibilidade de reexame de prova para decidir pela inexistência de indícios de autoria e prova da materialidade para a pronúncia da agravante”(HC 122.360-AgR/ES, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 02.6.2014); e “Não é o habeas corpus instrumento processual idôneo para aferir a qualidade da prova ou do indício, porque essa atividade exige o revolvimento de provas” (HC 107.382/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 17.5.2011).
+    Anoto, por fim, que a jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, 2ª Turma, j. 06.3.2018).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2019.
+Ministra Rosa Weber
+Relatora
