@@ -1,0 +1,19 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada contra acórdão do Tribunal de Justiça de São Paulo que negou provimento a apelação, mantendo sentença nos autos nº 0330388.67.2001.8.26.0100, em acórdão assim ementado (doc. 18):
+    Honorários advocatícios. Cumprimento de sentença. Valor devido que observou, corretamente, depósito judicial efetuado nos autos, que possui efeito liberatório de pagamento e é elisivo da mora, conforme posição do STJ em Recurso Especial Repetitivo (nº 1348640/RS, Rel. Min. Paulo de Tarso Sanseverino, 7.5.2014). Inexistência de afronta à coisa julgada e de nulidade da r. sentença. Honorários diminuídos, porém, com base no artigo 85, § 2º, do CPC, para o montante de R$ 138.153,32, a remunerar com dignidade o serviço advocatício prestado nos autos. Preliminares rejeitadas. Apelo parcialmente provido.
+    2. Na reclamação, alega-se violação à autoridade da decisão do Supremo Tribunal Federal proferida no RE 589.513-ED-ED-AgR-ED e ADIs 493 e 4.357.
+    3. A reclamação dirigida a esta Corte só é cabível quando se tratar de usurpação de sua competência ou de ofensa à autoridade de suas decisões (art. 102, I, l, da Constituição). No segundo caso, exige-se que o pronunciamento tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte, ou então que tenha efeito vinculante (art. 988, II a IV, e §5º, II).
+    4. Portanto, a alegação de ofensa a precedente sem força vinculante ou ao direito objetivo não dá ensejo à propositura de reclamação, conforme já decidiu o Supremo Tribunal Federal nas Rcl 4.381 AgR, Rel. Min. Celso de Mello, e Rcl 5.391 AgR, Rel. Min. Dias Toffoli. No mesmo sentido, veja-se a Rcl 23.051 AgR, sob a minha relatoria:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. DESCABIMENTO DA VIA. ALEGAÇÃO DE OFENSA A DIREITO OBJETIVO E A PRECEDENTE SEM FORÇA VINCULANTE. PRECLUSÃO DA DISCUSSÃO SOBRE A QUESTÃO IMPUGNADA NAS INSTÂNCIAS INFERIORES.
+    1. A reclamação dirigida a esta Corte só é cabível quando sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CRFB/1988, arts, 102, I, l, e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte.
+    2. A alegação de ofensa ao direito objetivo ou a enunciado de Súmula sem força vinculante não dá ensejo à propositura de reclamação.
+    3. Não cabe reclamação para o exame da tese de fundo quando o que se pretende, na verdade, é viabilizar um recurso não interposto.
+    4. Agravo regimental desprovido.
+    5. Ademais, as teses firmadas nas ADIs 493 (Rel. Min. Moreira Alves) e 4.357 (Rel. Min. Ayres Britto) não socorrem o direito pleiteado pelo reclamante. Na primeira, o STF afirmou que a inviabilidade da incidência da TR como índice de atualização de contatos de financiamento vinculados ao Plano de Equivalência Salarial por Categoria Profissional – PES/CP (Lei 8.177/1991). Já na ADI 4.357, afirmou a inconstitucionalidade parcial da sistemática de precatórios inaugurada pela EC nº 62/2009, na qual se incluía a incidência da TR como índice de correção de débitos da Fazenda Pública.
+    6. O caso narrado nos autos não se enquadra em nenhuma das hipóteses acima narradas, o que implica dizer inexistir relação de aderência estrita entre o ato reclamado e os paradigmas invocados, requisito indispensável à propositura da reclamação. Neste sentido, Nesse sentido, as Rcl 6.040 ED, Rel. Min. Teori Zavascki; Rcl 11.246 AgR, Rel. Min. Dias Toffoli; e Rcl 21.409, sob a minha relatoria, enter muitos outros.
+    7. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    8. Sem honorários, pois não houve contraditório efetivo.
+    Publique-se.
+          Brasília, 22 de fevereiro de 2019
+Ministro LUÍS ROBERTO BARROSO
+Relator
