@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo interno interposto em 17.12.2015, cujo objeto é decisão que negou seguimento ao recurso extraordinário pelos seguintes fundamentos:
+    “Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que assentou a inexistência de direito adquirido à manutenção de benefício previdenciário concedido por lei originariamente inconstitucional, posteriormente revogada.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    O recurso não deve ser provido, uma vez que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal.
+    O Tribunal de origem decidiu pela inexistência de direito adquirido ao benefício previdenciário após a revogação da Lei municipal nº 2.988/1978, com fundamento na inconstitucionalidade originária da legislação instituidora, editada sob o manto da Constituição de 1967 (com alterações trazidas pela EC nº 1/1969).
+    Esta Corte já decidiu que a proteção dada ao direito adquirido se circunscreve às hipóteses em que o direito tenha sido validamente adquirido. Nesse sentido, veja-se trecho do voto do Ministro Teori Zavascki, no julgamento do RE 609.381-RG:
+    “Não há dúvida de que, como acentuou o Min. Sepúlveda Pertence no MS 24.875 e em outros precedentes, a irredutibilidade de vencimentos constitui modalidade qualificada de direito adquirido. Todavia, o seu âmbito de incidência exige a presença de pelo menos dois requisitos cumulativos: (a) que o padrão remuneratório nominal tenha sido obtido conforme o direito, e não de maneira juridicamente ilegítima, ainda que por equívoco da Administração Pública; e (b) que o padrão remuneratório nominal esteja compreendido dentro do limite máximo pré-definido pela Constituição Federal.” (grifou-se)
+    A parte ora agravante sustenta: (i) a constitucionalidade da Lei municipal nº 2.988/1978, que instituiu a aposentadoria parlamentar aos membros da Câmara do Município de Belo Horizonte; (ii) violação ao princípio do direito adquirido.
+    Reconsidero a decisão recorrida. Passo à análise do recurso.
+    O recurso extraordinário deve ser provido. Na hipótese, consta do acórdão que o ora recorrente gozava da aposentadoria parlamentar no momento da revogação da Lei municipal nº 2.988/1978 pela Lei municipal nº 5.735/1990, que extinguiu o Fundo de Previdência da Câmara Municipal de Belo Horizonte.
+    O acórdão recorrido considera não ser devido o benefício ao autor, em razão de sua inconstitucionalidade. Afirma que, “como a lei anterior padecia do vício de inconstitucionalidade, não há que se falar em direito adquirido, em consequência, não se constituindo em situação jurídica consumada.”
+    A decisão proferida pelo Tribunal de origem não se alinha à jurisprudência desta Corte. Nesse sentido, veja-se trecho de decisão proferida no RE 332.261, julgado sob a relatoria do Min. Nelson Jobim:
+    “Sobre a matéria - concessão de aposentadoria a vereadores - essa Corte já se posicionou quanto à discussão travada nos autos, restando assente o entendimento de que a interpretação e aplicação de lei nova não poderiam atingir os autores que já haviam preenchido os requisitos para a obtenção do benefício, segundo a legislação contemporânea, visto como tinha, direito adquirido a esse respeito. Deve, pois, ser resguardado o direito dos recorrentes”.
+    Sobre a mesma controvérsia confira-se, ainda, a ementa do RE 221.902-AgR, também sob a relatoria do Ministro Nelson Jobim:
+    “Proventos de aposentadoria de ex-vereadores. Decisão que considera ilegítima a sua concessão por lei municipal. Acórdão em divergência com a orientação do STF. Regimental não provido.”
+    Há de ser resguardado, portanto, o direito adquirido pelo recorrente, uma vez que, ao tempo da aposentadoria, preenchia ele todos os requisitos estipulados para o gozo do benefício. Incide, assim, na espécie, a Súmula 359/STF: “Ressalvada a previsão em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou servidor civil, reuniu os requisitos necessários”.
+    Diante do exposto, com base no 21, § 2º, do RI/STF, reconsidero a decisão agravada, e dou provimento ao recurso extraordinário, para julgar procedente o pedido inicial. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 22 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
