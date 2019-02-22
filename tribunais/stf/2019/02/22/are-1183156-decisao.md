@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. PECÚLIO POST MORTEM INSTITUÍDO PELA LEI ESTADUAL 285/79. INAPLICABILIDADE DA LEI FEDERAL 9.717/98 ANTE A NATUREZA SECURITÁRIA OU DE POUPANÇA DO BENEFICIO. PRINCIPIO TEMPUS REGIT ACTUM. DIREITO ADQUIRIDO. RECURSO AO QUAL SE NEGOU SEGUIMENTO AO ABRIGO DO ART. 557, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO. IMPROVIMENTO.
+    I — Inaplicável a Lei federal 9.717/98 quando se trata de pecúlio post mortem previsto na Lei estadual 285/79, porquanto não se enquadra nos benefícios de natureza geral, configurando-se espécie de seguro ou poupança para, falecido o servidor, dispor a família de recursos imediatos;
+    II - Falecendo o servidor anteriormente à revogação da lei estadual faz o sucessor jus ao pecúlio, sob pena de consagrarmos o enriquecimento sem causa — o servidor contribuiu anos a fio para formação da fonte de custeio, sendo moral e legalmente inadmissível que o órgão previdenciário se aproprie desses valores em detrimento da família enlutada;
+    III - Recurso ao qual se negou seguimento — art. 557, do Código de Processo Civil;
+    IV — Improvimento ao agravo interno.” (eDOC 1, p. 130) (grifos do original)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; 24, § 4º; e 40, § 12, do texto constitucional.
+    Nas razões recursais, alega inexistência de direito adquirido, bem como sustenta a impossibilidade de pagamento do denominado pecúlio post mortem, ao argumento de que “com a edição da lei nacional estabelecedora das normas gerais para os regimes próprios de previdência”, o pagamento do referido benefício passou a ser ilegal. (eDOC 2, p. 13)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Na espécie, o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 285/1979), consignou que a parte recorrida faz jus ao pecúlio post mortem. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Reiterando meu apreço à douta representação agravante, não há elementos que possam modificar a decisão do relator.
+    Ratifica-se que negar à Apelada o beneficio seria, de fato, rogara maxima venia, consagrar o enriquecimento indevido da parte do órgão previdenciário que se utilizou dos valores recolhidos, aplicou-os, seja lá de que forma o fez, e agora nega aos beneficiários o seu pagamento, atitude que o Direito e a Moral veementemente repelem.
+    Por outro lado, o beneficio não se enquadra, data venia, naqueles benefícios de que trata a Lei federal citada pelo Apelante. Estamos diante de pecúlio, espécie de seguro ou poupança que o servidor fazia para que, à época do seu falecimento, sua família tivesse disponibilidade financeira imediata.” (eDOC 1, p. 131)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PECÚLIO POST MORTEM. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 995.292, Rel. Min. Luiz Fux, Primeira Turma, DJe 24.4.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PECÚLIO POST MORTEM. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. SUSPENSÃO DE NORMA INFRACONSTITUCIONAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei estadual 285/1979), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II - A questão que não foi debatida em momento processual anterior constitui inovação recursal, insuscetível de ser levantada nas razões do agravo regimental. Precedentes. III - Agravo regimental improvido.” (ARE-AgR 698.595, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 11.3.2013)
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MILITAR. AUXÍLIO FUNERAL. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demandaria a análise das normas infraconstitucionais pertinentes, procedimento inviável nesta fase recursal (Súmula 280/STF). Precedentes. 2. Ausência de argumentos capazes de infirmar a decisão agravada. 3. Agravo regimental a que se nega provimento.” (ARE-AgR 774.534, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.10.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
