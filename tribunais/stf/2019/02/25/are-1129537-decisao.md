@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “RECURSO INOMINADO. AÇÃO DE RESSARCIMENTO DE VALORES. CONTRATO DE SEGURO. ASSISTÊNCIA FUNERAL. PREVISÃO EXPRESSA NO CONTRATO ACERCA DA IMPOSSIBILIDADE DE REEMBOLSO DE VALORES. PRÉVIA CIÊNCIA DA SEGURADA EM RELAÇÃO AOS TERMOS DO CONTRATO. INEXISTÊNCIA DE NEGATIVA DE COBERTURA. LEGALIDADE DO DISPOSITIVO CONTRATUAL. CONTRATAÇÃO DE SERVIÇOS FUNERÁRIOS DE TERCEIRO REALIZADA POR CONTA E RISCO DA SEGURADA. PRETENSÃO DE RESSARCIMENTO QUE SE MOSTRA IMPROCEDENTE. SENTENÇA MANTIDA. RECURSO IMPROVIDO.” (eDOC 3, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXII e 170, V, do texto constitucional. (eDOC 4, p. 2)
+    Nas razões recursais, alega-se que faz jus ao ressarcimento dos valores pagos, tendo em vista o contrato de seguro adquirido.
+    Decido.
+    O recurso não merece prosperar.
+    De pronto, verifico que o recurso não merece trânsito porquanto intempestivo.
+    Verifico que o ora recorrente foi intimada do acórdão recorrido em 30.6.2017, sexta-feira (eDOC 3, p. 11), e o recurso extraordinário foi interposto apenas em 24.7.2017, segunda-feira (eDOC 4, p. 1).
+    Assim, não há como conhecer da pretensão da parte agravante, ante a intempestividade do extraordinário interposto na origem. Esse é o entendimento desta Corte consolidado nas ementas a seguir:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. O recurso extraordinário não pode ser conhecido por ser intempestivo, uma vez que a parte recorrente protocolou a petição quando já transcorrido o prazo de 15 (quinze) dias previsto no art. 508 do Código de Processo Civil, contados após a publicação do acórdão em que o Tribunal de origem rejeitou os embargos de declaração. Agravo regimental a que se nega provimento.” (ARE 831.172 AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma, DJe 31.10.2014)
+    “Agravo regimental no recurso extraordinário com agravo. 1. ARE interposto na origem. RE INTEMPESTIVO. 2. ARE interposto no STJ. RE contra decisão em que não se admitiu o REsp. Pressupostos processuais. Ausência de repercussão geral do tema. Precedentes. 1. ARE interposto na origem: o agravante não observou o prazo de 15 dias para a interposição do recurso extraordinário. 2. ARE interposto no STJ: o Plenário da Corte, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, entendeu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria. No caso, o STJ assentou a intempestividade do recurso especial. 3. Agravo regimental não provido.” (ARE 810.140 AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
