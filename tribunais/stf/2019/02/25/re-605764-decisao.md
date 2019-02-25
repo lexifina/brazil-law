@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO E PROCESSO CIVIL. MANDADO DE SEGURANÇA. IMPLANTAÇAO DE REAJUSTE DE 26,05% RELATIVO À URP DE FEVEREIRO DE 1989. ATUALIZAÇÃO DO CÁLCULO DA OBRIGAÇÃO DE PAGAR NO JUÍZO DA EXECUÇÃO. INCOLUMIDADE DA OBRIGAÇÃO DE FAZER.
+    - A decisão proferida pelo juízo trabalhista acolheu parcialmente o parecer do Ministério Público e limitou, temporariamente, a execução da sentença atá a instituição do Regime Jurídico Único, com a edição da Lei 8.112/90, ou seja, fixou a competência do juízo trabalhista ao período celetista e atualizou os cálculos referentes à obrigação de pagar, mantendo incólume, por outro lado, a obrigação de incorporar o reajuste. Dai ser incorreto falar em revogação da sentença neste aspecto, pois o que ocorreu foi a modificação do termo ad quem para o cômputo das prestações vencidas (até o advento do Regime Único), pois a obrigação de fazer (implantar o reajuste) não foi alterada pelo juízo da execução.
+    Apelação e remessa obrigatória improvidas.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXVI; LV e LX; 93, IX; 109, I; e 114 da CF.
+    O recurso não deve ser provido. Quanto à alegada ofensa ao art. 93, IX, da CF, o Plenário do STF já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).
+    Ademais, o Tribunal de origem, ao julgar a controvérsia, assentou que:
+    “Com efeito, o ato de administração que determinou o desconto nos vencimentos dos substituídos mostra-se flagrantemente em descompasso com a sentença transitada em julgado (fls. 82), que reconheceu aos autores o direito à incorporação do percentual de 26,05% relativo a URP de fevereiro de 1989. Portanto, afrontou a autoridade da coisa julgada.
+    Noutro passo, é invertida a afirmação de que o juízo de execução trabalhista revogou a decisão que determinou a implantação do percentual de 26,05%, porquanto uma decisão executiva não tem o condão de rescindir sentença transitada em julgado e, se contiver tal teor, será eivada de nulidade.”
+    Esse fundamento não foi rebatido nas razões do recurso extraordinário, permanecendo incólume. A hipótese atrai a incidência da Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
