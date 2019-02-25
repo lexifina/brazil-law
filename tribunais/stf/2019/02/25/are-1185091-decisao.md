@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO – DESPROVIMENTO .
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a procedência de pedido formulado em embargos de terceiro em ação de reintegração de posse em loteamento urbano. No extraordinário, cujo trânsito pretende alcançar, a recorrente alega a violação do artigo 5º, incisos XXI e LV, da Constituição Federal. Argui a nulidade do acórdão, por negativa de prestação jurisdicional.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Todo este conjunto probatório, mais os documentos acostados aos autos, demonstram que os antigos proprietários efetivamente exerciam a posse que o início do loteamento deu-se lá pelos idos de 1979. Assim, os documentos de folhas 139/150, demonstram que os antigos proprietários adquiriram bens e animais, e pagaram mão de obra, sempre fazendo referência aos documentos do sítio.
+    De observar que simplesmente a autora não consegue explicar o loteamento, preferindo falar em invasões da área. Realmente é fenômeno estranho este da realização de loteamento quando a autora afirma que ocupava toda a área, aquele quarteirão, com algumas ruas ainda sem denominação, a demonstrar a novidade e ainda aquelas áreas que cedeu a seu antigo advogado e ao arquiteto que desenhou a planta. A prova não o socorre e não consegue definir claramente o que teria acontecido, restando a descoberta sua afirmação de posse vintenária, com o que bem andou o magistrado ao julgar improcedente a ação.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 25 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
