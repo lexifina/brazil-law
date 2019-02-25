@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Paraná, está assim ementado:
+    “1) DIREITO ADMINISTRATIVO. AÇÃO ANULATÓRIA DE MULTA. POSTO DE COMBUSTÍVEIS. NULIDADE DO TCA – TERMO DE COMPROMISSO AMBIENTAL, POR VÍCIO DE REPRESENTAÇÃO. TEORIA DA APARÊNCIA. ALEGADO CARÁTER CONFISCATÓRIO DA MULTA (R$ 50.000,00) NÃO DEMONSTRADO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 150, IV, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou as suas conclusões em aspectos fático-probatórios:
+    “Como bem observou a sentença, o Procedimento Administrativo nº 54299/08 foi iniciado a pedido do Apelante, ao requerer a renovação do Alvará de Licença para revenda de combustíveis.
+    Contudo, passados mais de 5 (cinco) anos, a documentação solicitada não foi apresentada de forma integral pelo Apelante, ocasião em que a Autoridade Ambiental do Município lavrou o Auto de Infração que deu início ao procedimento administrativo sancionatório.
+    Diz o Apelante que o TCA – Termo de Compromisso Ambiental, não foi firmado por nenhum dos dois sócios com poderes de representação da empresa (Eucler Alcântara Ferreira e Euder Alcântara Ferreira) e, portanto, seria nulo, bem como a multa dele decorrente.
+    Pois bem. Nos diversos documentos juntados, em mais de uma ocasião, a pessoa que assina em nome do Auto Posto Cruz de Malta Ltda. é Maria Helena Ribeiro de Alcântara Ferreira que, segundo documento juntado na seq. 1.36 PROJUDI (f. 324), é a esposa de Eucler Alcântara Ferreira.
+    Consta nos autos que Maria Helena assinou o primeiro TCA em 27/09/2009 (fls. 251/252, mov. 1.22), ocasião em que se obrigou a providenciar, até 31/12/2010, a correção de irregularidades nas instalações e na documentação do Posto de Combustíveis, sob pena de multa de R$ 5.000,00.
+    Em 05/05/2011, Maria Helena requereu dilação de prazo por 01 (um) ano para a conclusão do TCA (fls. 254/255, mov. 1.23).
+    Em 29/03/2012, Maria Helena requereu novo adiamento, mas desta vez não indicou nenhum prazo para conclusão do TCA (fls. 265/266, mov. 1.23).
+    Assim, em 1º de junho de 2012, a mesma pessoa firmou novo TCA com a Secretaria Municipal do Meio Ambiente, obrigando-se a regularizar as situações descritas naquele TCA até 30/11/2012, estabelecendo-se prazo de 180 dias para validade do TCA.
+    Na ocasião foi estipulada a multa de R$ 50.000,00 para o caso de descumprimento, destinada ao Fundo Municipal do Meio Ambiente.
+    …...................................................................................................
+    Não é crível que os sócios não tivessem conhecimento de nada e que tudo – inclusive os serviços para adequação do Auto Posto –, tenham sido feitos às escondidas por Maria Helena. Por óbvio tinham conhecimento de sua atuação e estiveram de acordo e, portanto, não há qualquer vício de representação a ser reconhecido no TCA.
+    Por outro lado, não há que se falar em caráter confiscatório da multa, haja vista que o contrato social onde consta o capital social de R$ 100.000,00 (fls. 44/46), é de dezembro de 2007 e, portanto, não serve como parâmetro para o alegado.”
+    Vê-se, portanto, que a pretensão deduzida pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
