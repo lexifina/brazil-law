@@ -1,0 +1,36 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “IMPORTAÇÃO DE MERCADORIAS. MANDADO DE PROCEDIMENTO FISCAL DE DILIGÊNCIA. INTERPOSIÇÃO FRAUDULENTA DE TERCEIROS. PERDIMENTO DAS MERCADORIAS. MULTA. EMBARGOS À EXECUÇÃO. NULIDADE DA CDA.
+    1. A expedição de mandado de procedimento fiscal de diligência é desnecessária na hipótese de fiscalização realizada no curso de despacho aduaneiro.
+    2. Caracterizada a interposição fraudulenta de terceiros, com vistas a burlar a fiscalização e lesar ao erário, é de ser aplicada a pena de perdimento de mercadorias, prevista no art. 23, §1º , do Decreto-lei nº 1.455, de 1976, e do art. 689, VI, do Decreto 6.759, de 2009.
+    3. É aplicável a pena de multa do art. 33 da Lei nº 11.488, de 2007, à empresa que, com o fim de ocultação dos reais intervenientes, cede seu nome a terceiros para realizarem operações de comércio exterior.
+    4. Preenchidos os requisitos do art. 2º , § 5º , da Lei nº 6.830, de 1980, não há falar em nulidade da CDA, ainda mais quando não verificado efetivo prejuízo à defesa do executado.” (eDOC 5, p. 183)
+    Opostos embargos de declaração foram rejeitados. (eDOC 5, p. 203)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5°, LIV, LV, LVII, XII, XIII, do texto constitucional. (eDOC 5, p. 234)
+    Nas razões recursais, alega-se que a sentença condenatória foi baseada em prova ilícita, oriunda de diligência efetuada sem o correspondente mandado de procedimento fiscal.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, no tocante à alegada ofensa à ampla defesa e ao contraditório, é firme a jurisprudência desta Corte no sentido de que a afronta a esses princípios, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário. A repercussão geral da matéria foi rejeitada no julgamento do ARE 748.371 RG, de minha relatoria, DJe 1º.8.2013, tema 660 da sistemática da repercussão geral, assim ementado:
+     “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Tributário Nacional, e Lei de Execução Fiscal - Lei 6.830/80) e o conjunto probatório constante dos autos, consignou que não há de se falar em nulidade da certidão de dívida ativa (CDA). Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+     “A alegação de cerceamento de defesa e nulidade do título por inconsistências na CDA não se sustenta.
+    Os requisitos que devem estar presentes na CDA são os mesmos que constam no Termo de Inscrição de Dívida Ativa, conforme estabelece o art. 2º, § 6º da Lei nº 6.830 de 1980. Esse, por sua vez, deve conter os elementos previstos no art. 2º, § 5º, da mesma lei, o qual dispõe:
+    Art. 2º, § 5º - O Termo de Inscrição de Dívida Ativa deverá conter: I - o nome do devedor, dos co-responsáveis e, sempre que conhecido, o domicílio ou residência de um e de outros;
+    II - o valor originário da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos em lei ou contrato;
+    III - a origem, a natureza e o fundamento legal ou contratual da dívida;
+    IV - a indicação, se for o caso, de estar a dívida sujeita à atualização monetária, bem como o respectivo fundamento legal e o termo inicial para o cálculo;
+    V - a data e o número da inscrição, no Registro de Dívida Ativa; e
+    VI - o número do processo administrativo ou do auto de infração, se neles estiver apurado o valor da dívida.
+    Dessa forma, considerando que na CDA que instruiu a execução (evento 1 - OUT9) consta a exata identificação do devedor, o montante devido, a origem da dívida, além dos critérios utilizados para cálculo de juros, correção e multa, não há falar em nulidade.
+    Acresce, ainda, que o dispositivo legal acima não enumera, dentre os elementos que a CDA deve conter, o demonstrativo do débito atualizado e nem a descrição do fato gerador.
+    Outrossim, de acordo com a jurisprudência dominante do Superior Tribunal de Justiça, a existência de vício formal na CDA não implica nulidade se, como aqui ocorre, não acarretar efetivo prejuízo à defesa do executado.” (eDOC 5, p. 173 -174)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+     Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Exceção de pré-executividade. Dilação probatória. CDA. Procedimento administrativo fiscal. Alegada existência de nulidade. Infraconstitucional. Necessidade de reexame dos fatos e das provas. Súmula nº 279/STF. 1. O exame da controvérsia acerca da impossibilidade de dilação probatória em sede de exceção de pré-executividade e acerca da alegada nulidade da certidão de dívida ativa e do procedimento administrativo fiscal, pressupõe a análise da causa à luz da legislação infraconstitucional aplicável, bem como o reexame das provas dos autos, o que é vedado em recurso extraordinário. Incidência do enunciado da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE 1073.133 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 26.2.2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. SUPOSTA NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA – CDA. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. MATÉRIA SEM REPERCUSSÃO GERAL. TEMA 660. ARE 748.371. DEMAIS ALEGAÇÕES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NAS INSTÂNCIAS ANTERIORES. IMPOSSIBILIDADE DE MAJORAÇÃO. AGRAVO INTERNO DESPROVIDO.” (RE 893.250 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 15.9.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2019.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
