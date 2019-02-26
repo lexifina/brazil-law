@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma Recursal do Juizado Especial da Comarca de Formiga-MG, onde o recurso inominado teve o provimento negado e a sentença de primeiro grau foi mantida. (eDOC 1, p. 105)
+    Não houve interposição de embargos declaratórios.
+    No recurso extraordinário, alega-se vulneração do art. 40, § 5º, da Constituição da República.
+    Nas razões recursais, sustenta-se, em síntese, que “a recorrente durante todo o tempo exerceu suas atividades seja dentro da sala de aula ou ministrando aulas de reforço, inclusive, suprindo ausência de professor regente” (eDOC 1, p. 109).
+    A Presidência do Tribunal de origem inadmitiu o recurso extraordinário, mediante aplicação da Súmula 279 do STF e por entender que a parte recorrente não apresentou o requisito processual da preliminar formal de repercussão geral. (eDOC 1, pp. 132-135).
+    É o relatório. Decido.
+    Verifica-se que o Tribunal de origem, quando do julgamento da controvérsia, consignou o seguinte (eDOC 1, pp. 101-103):
+    “Compulsando os autos, verifico às f.33/35 que a recorrente não exercia funções de magistério, pois monitorava a entrada e saída de alunos, auxiliava nos recreios e na secretaria da escola, ministrava aulas de reforço de vez em quando e acompanhava os alunos na sala de aula por períodos curtos, até a chegada do professor.
+    As provas orais produzidas às f.58/62 reafirmaram que a recorrente não exercia atividades relacionadas ao magistério.
+    Nesse contexto, a recorrente não preencheu os requisitos previstos no artigo 40, §5º da Constituição da República, o que impossibilita a concessão de aposentadoria especial. Nessa perspectiva, é o entendimento do Tribunal de Justiça de Minas Gerais:
+    (…)
+    Assim, nos termos do artigo 373, I, do CPC, a recorrente não se desincumbiu do ônus em comprovar que a sua nova função é exclusiva do magistério para computar o período de desvio de função.”
+    Na espécie, constata-se que os fundamentos assentados no acórdão recorrido encontram-se em consonância com a jurisprudência pacífica desta Corte, uma vez que no julgamento da ADI 3.772/DF, da Relatoria do Ministro Ricardo Lewandowski, DJe 27.03.2009, fixou-se o entendimento no sentido de que “a função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção da unidade escolar”.
+    Esse entendimento foi ratificado no julgamento do mérito do RE-RG 1.039.644 (Tema 965), de relatoria do Ministro Alexandre de Moraes, Dje 13.11.17, oportunidade em que o Plenário Virtual reafirmou sua jurisprudência dominante para assentar a seguinte tese:
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DOS PROFESSORES (CONSTITUIÇÃO, ART. 40, § 5º). CONTAGEM DE TEMPO EXERCIDO DENTRO DA ESCOLA, MAS FORA DA SALA DE AULA. 1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca do cômputo do tempo de serviço prestado por professor na escola em funções diversas da docência para fins de concessão da aposentadoria especial prevista no art. 40, § 5º, da Constituição. 2. Reafirma-se a jurisprudência dominante desta Corte nos termos da seguinte tese de repercussão geral: Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio. 3. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC. Jurisprudência do SUPREMO TRIBUNAL FEDERAL reafirmada, nos termos do art. 323-A do Regimento Interno.”
+    Ademais, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame do acervo fático-probatório dos autos, o que inviabiliza o processamento do recurso nessa via extraordinária, nos termos da vedação contida na Súmulas 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
