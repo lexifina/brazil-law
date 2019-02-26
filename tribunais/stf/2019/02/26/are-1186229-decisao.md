@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Sexta Turma Cível do Tribunal de Justiça do Distro Federal e dos Territórios, assim ementado (eDOC 9, p. 49):
+     “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ADICIONAL POR TEMPO DE SERVIÇO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. BRESSER. URP.
+    I – O adicional por tempo de serviço e o adicional de insalubridade possuiu previsão de incidência apenas sobre o vencimento do cargo, legalmente fixado, e não sobre a remuneração, o que exclui a incidência das parcelas BRESSER e URP.
+    II – Constatado equívoco no cálculo, inexiste impedimento para que a Administração Pública proceda à revisão do adicional por tempo de serviço e do adicional de insalubridade, a fim de adequá-los ao princípio da legalidade quanto às parcelas posteriores, mediante processo administrativo, com observância do contraditório e da ampla defesa. Sentença reformada para denegar a segurança.
+    III – Apelação e remessa oficial providas.”
+    Os embargos de declaração opostos foram rejeitados. (eDOC 10, p. 43)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 37, caput, e inciso XV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “A adoção da sistemática de pagamentos das parcelas relativas aos planos BRESSER e URP que ate hoje integra a base de cálculo das gratificações e vantagens, baseia-se em decisões administrativas proferidas há mais de 20 anos, a exemplo do que fora proferindo nos autos do processo nº030. 014.559/94 .” (eDOC 11, p. 13)
+    Aduz-se, ainda, que “O Tribunal a quo ao deixar de reconhecer a coisa julgada, mais uma vez causa tormentosa incompatibilidade com suas próprias decisões, isto porque não presta deferência ao que for estabelecida nos Mandados de Segurança anteriores, estabelecida.” (eDOC 11, p. 24)
+    A Presidência do TJDFT inadmitiu o recurso extraordinário mediante aplicação da Súmula 280 do STF, e ao entendimento de que eventual ofensa à Constituição Federal seria de forma oblíqua ou reflexa. (eDOC 12, p. 10)
+    É o relatório. Decido.
+    Impõe-se o não conhecimento do presente recurso.
+    Consabido, a admissibilidade dos recursos é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, verifica-se que a negativa de seguimento do apelo extremo fundou-se na constatação de que: “para que se pudesse vislumbrar a alegada ofensa aos dispositivos constitucionais invocados, seria necessária antes, a análise da matéria à luz de lei local, imune ao recurso extremo por força do enunciado 280 da Súmula do STF”, e “Ainda que fosse possível superar esse óbice, eventual ofensa ao texto da Constituição Federal só seria cognoscível de forma reflexa, o que não autoriza a inauguração da via extraordinária, conforme reiterada jurisprudência da Corte Suprema.” Contudo, o agravante deixou de impugnar esse último fundamento.
+    O agravo, portanto, não ataca integralmente os fundamentos da decisão que inadmitiu o recurso extraordinário.
+    Desse modo, torna-se inviável o seu conhecimento, nos termos da súmula 287 do STF. Confiram-se, a respeito, os seguintes julgados:
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. GRATIFICAÇÃO DE PLANTÃO. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (ARE 1.039.123-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe 15.09.2017).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamento da decisão do tribunal de origem que não admite o recurso extraordinário. Incidência da súmula 287/STF. II Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais. III Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC (ARE 1.076166-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 01.02.2018).
+    Ante o exposto, não conheço do agravo, nos termos do art. 932, III, do CPC, e do art. 21, § 1º, RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
