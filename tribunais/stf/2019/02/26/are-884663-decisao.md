@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    A Presidência da Corte determinou a devolução destes autos ao Tribunal de origem para aplicação da sistemática da repercussão geral (RE 630.733-RG Tema 335).
+    Os autos retornaram a esta Corte por ter o Tribunal a quo refutado o juízo de retratação sob o fundamento de existir distinção entre o caso concreto e o paradigma da repercussão geral indicado no despacho de devolução. Eis o teor da ementa do julgado:
+    “MANDADO DE SEGURANÇA – CONCURSO PARA INGRESSO NO CURSO DE FORMAÇÃO DE SOLDADOS PM – RETORNO DA VICE-PRESIDÊNCIA – RE Nº 630.733/STF – EDITAL QUE VEDA EXPRESSAMENTE REMARCAÇÃO DE TESTE DE APTIDÃO FÍSICA EM RAZÃO DE PROBLEMA TEMPORÁRIO DE SAÚDE, MAS NADA REFERE ACERCA DA GRAVIDEZ – CANDIDATA GESTANTE QUE, APÓS SER APROVADA NO TESTE DE SAÚDE, FOI CONVOCADA PARA SUBMETER-SE AO TESTE – VIOLAÇÃO A DIREITO LÍQUIDO E CERTO – REMARCAÇÃO DO TESTE E PROSSEGUIMENTO NO CERTAME – POSSIBILIDADE – JULGAMENTO RATIFICADO PARA MANTER A CONCESSÃO DA SEGURANÇA.
+    A decisão proferida pelo Supremo Tribunal Federal no Recurso Extraordinário nº 630.733/DF, no qual reconheceu ‘a inexistência de direito dos candidatos à prova de segunda chamada nos testes de aptidão física, salvo contrária disposição editalícia, em razão de circunstâncias pessoais, ainda que de caráter fisiológico ou de força maior’, não diz respeito a situação de candidatas gestantes, mas sim a outros problemas de saúde temporários que impediam os candidatos de se submeterem ao teste de aptidão física.
+    Se a candidata está impossibilitada de realizar os exames de aptidão física ante o seu avançado estado de gestação, ela possui direito líquido e certo na remarcação do teste físico, porquanto além desse direito concordar com o princípio da isonomia em sua dimensão material (tratar igualmente os iguais e desigualmente os desiguais, na medida de suas desigualdades), ainda atende a norma constitucional que alça a maternidade ao status de direito social (art. 6º, CF)”.
+    Examinados os autos, decido.
+    A possibilidade de remarcação do teste de aptidão física em concurso público teve a repercussão geral reconhecida no julgamento do RE nº 630.733/DF-RG, Relator o Ministro Gilmar Mendes, DJe de 5/4/11, (Tema 335), motivo pelo qual se procedeu a devolução dos autos à origem para aplicação da sistemática da repercussão geral.
+    Ocorre que, posteriormente, no julgamento da RE nº 1.058.333/PR, Tribunal Pleno, Relator o Ministro Luiz Fux, DJe de 13/11/17, o Supremo Tribunal Federal reconheceu a repercussão geral especificamente da matéria constitucional que coincide com a versada nestes autos.
+    O assunto corresponde atualmente ao tema 973 da Gestão por Temas da repercussão geral do portal do STF na internet e trata da “possibilidade de remarcação do teste de aptidão física de candidata grávida à época de sua realização, independentemente de haver previsão expressa nesse sentido no edital do concurso público”.
+    Tem-se, portanto, que o referido julgamento viabilizou ampliar a discussão da questão, o que impõe a devolução dos autos à origem por este Supremo Tribunal para proceder a readequação do tema da matéria aqui suscitada (CPC, art. 1.030, inc. III).
+    Ante o exposto, mantenho o despacho de devolução dos autos à origem, agora pelo Tema 973 da repercussão geral, para observância dos procedimentos previstos no inc. III do art. 1.030 do Código de Processo Civil (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministra Dias Toffoli
+Presidente
+Documento assinado digitalmente
