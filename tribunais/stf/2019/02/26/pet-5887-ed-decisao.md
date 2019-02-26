@@ -1,0 +1,19 @@
+Decisão: Trata-se de embargos de declaração opostos em face de decisão na qual, sem julgamento de mérito, não conheci do pedido veiculado. A decisão tem o seguinte teor (eDOC 51):
+    “Ariovaldo Antônio Donatti interpõe Petição, com pedido de medida cautelar, para suspender decisão proferida pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, proferida no Agravo Regimental 2194962-67.2015.8.26.0000/50080, que suspendeu os efeitos da tutela antecipada que determinou o fornecimento de medicamento não registrado no território nacional.
+    Em sua petição, o requerente afirma ter diagnóstico de neoplasia maligna e estar em fase em que os procedimentos médicos recomendados têm se mostrado ineficazes. Por essa razão, pleiteia o fornecimento da substância denominada Fosfoetanolamina Sintética, a fim de mitigar os sintomas da doença. Para garantir o acesso à medicação, porquanto o medicamento não possui registro no órgão competente, interpôs ação de obrigação de fazer, com pedido de antecipação dos efeitos da tutela, perante a Vara da Fazenda Pública da Comarca de São Carlos. A antecipação foi deferida para determinar que, no prazo de vinte dias, fosse disponibilizada a substância em quantidade suficiente para garantir o seu tratamento, que deverá ser indicada pelo Instituto de Química, responsável pela pesquisa, que já forneceu a inúmeros pacientes (eDOC 6, p. 40). Aduz que o Órgão Especial do Tribunal de Justiça suspendeu a referida liminar, razão por que busca o restabelecimento dos efeitos da tutela antecipada. Requer, ainda, a concessão do benefício da assistência judiciária gratuita.
+    É, em síntese, o relatório.
+    Defiro ao autor os benefícios da assistência judiciária gratuita.
+    Em que pesem as razões apresentadas pelo requerente, a petição não comporta conhecimento, diante da inadequação da via eleita.
+    Com efeito, ao ajuizar a presente medida cautelar inominada, pretende o requerente o restabelecimento dos efeitos da antecipação da tutela que foram suspensos por decisão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo. A cautelar, ostentando natureza recursal, deve ser dirigida ao Tribunal de origem.
+    Verifica-se, pois, que inexiste elemento objetivo que justifique, no caso ora em exame, hipótese configuradora da competência originária do Supremo Tribunal Federal para apreciar este processo. Desse modo, sendo taxativas as hipóteses de competência originária do Supremo Tribunal Federal, estabelecidas no art. 102, I, da Constituição Federal, inexiste competência deste Tribunal para apreciação do presente feito.
+    Ante o exposto, não conheço do pedido (arts. 21, § 1º, do RISTF).”
+    Em face dessa decisão, o embargante sustenta haver omissão relativamente ao descumprimento de preceito fundamental, consubstanciado nos arts. 1º, III, 5º, caput, e 196 da CR. Afirma que a Universidade de São Paulo estaria a descumprir a decisão liminar proferida pelo juízo de 1ª Instância da Comarca de São Carlos – SP. Embora, em seu caso, o Tribunal de Justiça de São Paulo não tenha suspendido os efeitos da liminar, haveria reiterados acórdãos em que, não obstante a garantia do direito à saúde, simplesmente cassam-se as decisões liminares. Requer a acolhimento dos embargos para o saneamento da omissão.
+    É, em síntese, o relatório.
+    Em que pesem os argumentos do embargante, inexiste omissão a ser suplantada. A decisão embargada limitou-se a acolher a preliminar de mérito de ausência de competência originária do Supremo Tribunal Federal para conhecer da questão.
+    Em situações como essa, descabe exigir-se a manifestação pormenorizada sobre cada um dos argumentos suscitados pela parte, porquanto sequer haveria competência para deles conhecer.
+    Ante o exposto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
