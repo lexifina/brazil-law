@@ -1,0 +1,13 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, em que se discute o preenchimento dos requisitos legais para a obtenção da aposentadoria especial de servidor público policial, assim como o direito à paridade e integralidade remuneratória. Tal acórdão está assim ementado (eDOC 1, p. 268):
+    “DIREITO PÚBLICO – OBRIGAÇÃO DE FAZER – SERVIDOR PÚBLICO ESTADUAL VINCULADO À POLÍCIA CIVIL DO ESTADO DE SÃO PAULO – PRETENSÃO AO RECONHECIMENTO DA APOSENTADORIA ESPECIAL COM INTEGRALIDADE E PARIDADE – SENTENÇA DE PROCEDÊNCIA – APELAÇÃO DA F.E.S.P. – PROVIMENTO – Lei Complementar Federal nº 51/1985, com redação dada pela Lei Complementar nº 144/2014, devidamente recepcionada pela Constituição Federal de 1988, garantiu o direito à aposentadoria especial – Contudo, concessão da integralidade de vencimentos e da paridade de reajustes com os servidores da ativa condicionada às regras constitucionais de transição (E.C. nº 41/2003 e E.C. Nº 47/2005) – Não preenchimento dos requisitos – Posicionamento do S.T.F. (RE nº 596.962/MT) – Precedentes desta Colenda Câmara – Sentença reformada – Recurso provido.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 321).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 4º e 8º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “se julgarmos a análise constitucional em conjunto com a Lei Complementar Federal nº 51/85, alterada pela Lei Complementar Federal nº 144/14 e as regras da Emenda Constitucional 47/05, assim como, pelo fato do Recorrente ter ingressado na servidão pública em data anterior à 2003, concluímos que a aplicação da integralidade e da paridade remuneratória ao presente caso torna-se plenamente viável.” (eDOC 1, p. 299).
+    Verifica-se que o Supremo Tribunal Federal, ao analisar o RE-RG 1.162.672-RG, de relatoria do Min. Presidente, plenário virtual, DJe 30.11.2018 (Tema 1019), reconheceu a existência de repercussão geral da questão constitucional suscitada, cuja ementa restou assim redigida:
+    “Servidor público. Atividades de risco. Aposentadoria. Proventos. Integralidade e paridade remuneratória. Regras de transição das Emendas Constitucionais nºs 41/03 e 47/05. Presença de Repercussão Geral”.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+  Documento assinado digitalmente
