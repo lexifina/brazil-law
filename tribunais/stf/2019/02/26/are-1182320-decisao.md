@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. CONTROVÉRSIA ACERCA DO DEFERIMENTO OU INDEFERIMENTO DE MEDIDAS CAUTELARES, PROVIMENTOS LIMINARES OU ANTECIPAÇÃO DE TUTELA. AGRAVO DE INSTRUMENTO. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO - Ação civil pública ambiental. 1) Preliminar de nulidade da decisão por violação ao disposto no artigo 2º da Lei nº 8.437/92 afastada. 2) Tutela antecipada parcialmente concedida para o fim de determinar à Municipalidade de São Paulo que se abstenha de emitir Alvará de Construção de Obra Nova ou Alvará de Funcionamento para os imóveis descritos na petição inicial, até decisão judicial transitada em julgado, bem como para que se proceda à averbação do ajuizamento da ação civil pública nas matrículas dos imóveis. 2.1) Da determinação para que a Municipalidade se abstenha de emitir os alvarás - Possibilidade - Alegação de que a ocupação da área acarretará riscos à saúde humana e ao meio ambiente - Medida acautelatória de preservação do meio ambiente - Dever do Estado e da coletividade - Inteligência do art. 225 da CF. 2.2) Determinação para que se proceda à averbação do ajuizamento da ação civil pública nas matrículas dos imóveis - Possibilidade - Direito à informação - Poder geral de cautela do juiz - Recurso improvido.” (Doc. 9, fl. 36)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 10, fl. 15)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 23, VI, 60, § 4º, III e 97, da Constituição Federal. (Doc. 12, fl. 18)
+    O Tribunal a quo, em primeiro juízo de admissibilidade, negou seguimento ao recurso extraordinário por entendê-lo intempestivo. (Doc. 13, fl. 55)
+    Foram opostos embargos de declaração que comprovaram a tempestividade do apelo extremo.
+    Em novo juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso por entender que a ofensa à Constituição, acaso existente, seria indireta. (Doc. 13, fl. 76)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Esta Suprema Corte firmou jurisprudência no sentido de que não cabe recurso extraordinário contra decisão que defere ou indefere provimento liminar ou antecipação dos efeitos da tutela, por vedação expressa da Súmula 735 deste Tribunal, de seguinte teor: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”. Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DA SÚMULA 735 DO STF.
+    1. A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Súmula 735 do STF.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o art. 85, § 11, do CPC, visto que não houve fixação prévia de honorários advocatícios no presente feito.” (ARE 988.731-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 7/12/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULA 735 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+    I – Em regra é incabível a interposição de recurso extraordinário para combater decisão que concede ou denega pedido de medida cautelar ou de antecipação de tutela, porque esses provimentos judiciais não são definitivos e, assim, não se ajustam a um dos requisitos do art. 102, III, da Constituição.
+    II – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 987.342-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 23/2/2017)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis , DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
