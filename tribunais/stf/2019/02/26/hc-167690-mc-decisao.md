@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Segunda Vara da Comarca de Eusébio/CE, no processo nº 0014832-09.2016.8.06.0075, determinou a prisão preventiva do paciente, ocorrida no dia 3 de agosto de 2018, ante o alegado cometimento das infrações versadas nos artigos 155, § 4º, incisos I e IV (furto qualificado por rompimento de obstáculo e concurso de pessoas), do Código Penal e 2º (integrar organização criminosa) da Lei nº 12.850/2013. Destacou tratar-se de pessoa supostamente integrante de grupo criminoso voltado à prática de delitos patrimoniais. Ressaltou existentes a materialidade e os indícios de autoria. Frisou a necessidade da custódia para garantir a ordem pública e a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 490.947/CE. O Relator indeferiu a liminar.
+    O impetrante sustenta a insubsistência dos fundamentos do ato por meio do qual imposta a prisão, dizendo-o abstrato. Sublinha as condições pessoais favoráveis do paciente – primariedade, ocupação lícita, família constituída e residência fixa. Argui o excesso de prazo da custódia, afirmando-a perdurar por mais de 6 meses.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou que o processo-crime, o qual passou a tramitar na Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE, encontra-se na fase de instrução.
+    A etapa é de apreciação da medida acauteladora.
+    2. A análise da decisão que implicou a preventiva do paciente sinaliza haver sido considerada a imputação. Inexiste a prisão automática tendo em conta a infração supostamente cometida, levando à inversão da ordem do processo-crime, que direciona, ante o princípio constitucional da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A materialidade do delito e os indícios de autoria são, por si sós, elementos neutros, insuficientes a respaldarem o argumento referente à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor, devendo a custódia cautelar basear-se no artigo 312 do Código de Processo Penal. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. Quanto à necessidade de assegurar a aplicação da lei penal, deve ser indicado dado concreto, individualizado, a demonstrar a indispensabilidade da prisão. O Juízo partiu da capacidade intuitiva, olvidando que a presunção seria de postura digna, por achar-se o paciente submetido aos holofotes da Justiça. Tem-se a insubsistência das premissas lançadas.
+    O paciente está preso, sem culpa formada, desde 3 de agosto de 2018, ou seja, há 6 meses e 23 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato por meio do qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da prisão preventiva retratada no processo nº 0014832-09.2016.8.06.0075, da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso desta impetração não prejudica a de nº 490.947/CE, em tramitação no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Joel Ilan Paciornik.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 26 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
