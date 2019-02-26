@@ -1,0 +1,33 @@
+Proferi decisão monocrática determinando a devolução do feito à origem por considerar que o tema debatido no recurso extraordinário já foi examinado por esta Corte em sede de Repercussão Geral (RE 586.482-RG, Tema 87).
+    A recorrente insurge-se contra a decisão constante do documento eletrônico 17, alegando para tanto que “a tese recursal aqui veiculada diz respeito apenas aos efeitos da inadimplência definitiva, que passa a ser contabilizada como perdas, nos termos do art. 340 do Decreto nº 3.000/1999 (RIR/1999)”.
+    Torno sem efeito a decisão constante do documento eletrônico 17 e passo à análise do recurso.
+    Trata-se de recurso extraordinário interposto em face de acórdão assim ementado, no que importa:
+    “PROCESSUAL CIVIL – AGRAVO LEGAL – ARTIGO 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL – DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE APELAÇÃO – PIS/COFINS – BASE DE CÁLCULO – VENDAS INADIMPLIDAS – IMPOSSIBILIDADE DE EXCLUSÃO – AGRAVO LEGAL IMPROVIDO.
+    1. […]
+    2. Impossibilidade de dedução da base de cálculo da COFINS e do PIS de valores referentes a fortuitos inadimplementos contratuais (vendas inadimplidas). Jurisprudência dominante do STF, STJ e desta E. Corte.
+    3. O agravo não infirma os fundamentos da decisão agravada, razão pela qual deve ser integralmente mantidos.
+    4. Agravo legal improvido.” (pág. 25 do documento eletrônico 10).
+    Os embargos de declaração, em seguida opostos, foram rejeitados.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se violação dos arts. 145, § 1º; e 150, IV, ambos da mesma Carta.
+    A pretensão recursal não merece acolhida, tendo em vista que o acórdão recorrido não divergiu da jurisprudência desta Corte.
+    No julgamento do RE 586.482/RS, de relatoria do Ministro Dias Toffoli, Tema 87 da sistemática da Repercussão Geral, assim decidiu este Tribunal:
+    “TRIBUTÁRIO. CONSTITUCIONAL. COFINS/PIS. VENDAS INADIMPLIDAS. ASPECTO TEMPORAL DA HIPÓTESE DE INCIDÊNCIA. REGIME DE COMPETÊNCIA. EXCLUSÃO DO CRÉDITO TRIBUTÁRIO. IMPOSSIBILIDADE DE EQUIPARAÇÃO COM AS HIPÓTESES DE CANCELAMENTO DA VENDA.
+    1. O Sistema Tributário Nacional fixou o regime de competência como regra geral para a apuração dos resultados da empresa, e não o regime de caixa. (art. 177 da Lei nº 6.404/¨76).
+    2. Quanto ao aspecto temporal da hipótese de incidência da COFINS e da contribuição para o PIS, portanto, temos que o fato gerador da obrigação ocorre com o aperfeiçoamento do contrato de compra e venda (entrega do produto), e não com o recebimento do preço acordado. O resultado da venda, na esteira da jurisprudência da Corte, apurado segundo o regime legal de competência, constitui o faturamento da pessoa jurídica, compondo o aspecto material da hipótese de incidência da contribuição ao PIS e da COFINS, consistindo situação hábil ao nascimento da obrigação tributária. O inadimplemento é evento posterior que não compõe o critério material da hipótese de incidência das referidas contribuições.
+    3. No âmbito legislativo, não há disposição permitindo a exclusão das chamadas vendas inadimplidas da base de cálculo das contribuições em questão. As situações posteriores ao nascimento da obrigação tributária, que se constituem como excludentes do crédito tributário, contempladas na legislação do PIS e da COFINS, ocorrem apenas quando fato superveniente venha a anular o fato gerador do tributo, nunca quando o fato gerador subsista perfeito e acabado, como ocorre com as vendas inadimplidas.
+    4. Nas hipóteses de cancelamento da venda, a própria lei exclui da tributação valores que, por não constituírem efetivos ingressos de novas receitas para a pessoa jurídica, não são dotados de capacidade contributiva.
+    5. As vendas canceladas não podem ser equiparadas às vendas inadimplidas porque, diferentemente dos casos de cancelamento de vendas, em que o negócio jurídico é desfeito, extinguindo-se, assim, as obrigações do credor e do devedor, as vendas inadimplidas - a despeito de poderem resultar no cancelamento das vendas e na consequente devolução da mercadoria -, enquanto não sejam efetivamente canceladas, importam em crédito para o vendedor oponível ao comprador.
+    6. Recurso extraordinário a que se nega provimento.” (grifei).
+    Em situação idêntica a destes autos, o entendimento da Segunda Turma desta Corte foi o seguinte:
+    “Agravo regimental nos embargos de declaração no recurso extraordinário. Tributário. PIS/COFINS. Vendas a prazo inadimplidas. Questão já decidida em sede de repercussão geral. Renda e receita ou faturamento. Bases econômicas distintas. Exclusão do crédito tributário. Interpretação restritiva. Analogia. Aplicação. Impossibilidade.
+    1. O Plenário da Corte, em sede de repercussão geral, assentou que as vendas a prazo, mesmo quando inadimplidas, se inserem no campo da incidência tributária. Não se trata, pois, de hipótese de não incidência, como, a rigor, ocorre com as vendas canceladas, em que o fato gerador das contribuições não chega a existir.
+    2. O posterior inadimplemento de venda a prazo não constitui condição resolutiva da hipótese de incidência da contribuição ao PIS e da COFINS. Os danos decorrentes do inadimplemento de clientes devem ser reparados lançando-se mão da via apropriada.
+    3. A jurisprudência da Corte sempre rechaçou as tentativas de equiparação entre os suportes normativos dos regimes da receita e da renda. Cada base econômica tem tratamento constitucional e infraconstitucional distintos, ensejando a instituição e a cobrança de tributo específico, uma vez que retratam modos ou momentos de revelação distintos.
+    4. Se a lei não excluiu as ‘vendas inadimplidas’ da base de cálculo da contribuição ao PIS e da COFINS, não cabe ao intérprete fazê-lo sob alegação de isonomia, equiparando-as às vendas canceladas, por implicar hipótese de exclusão de crédito tributário, cuja interpretação deve ser restritiva, a teor do art. 111 do Código Tributário Nacional.
+    5. Descabe estender ao caso dos autos o tratamento conferido pelo art. 9º da Lei nº 9.430/1996, reproduzido no Decreto nº 3.000/1999 (RIR/1999), os quais admitem que as perdas no recebimento de créditos decorrentes das atividades da pessoa jurídica sejam deduzidas como despesas para fins de determinação do lucro real – materialidade da CSLL e do IRPJ.
+    6. Agravo regimental não provido, com imposição de multa de 2% do valor atualizado da causa, nos termos do art. 1.021, § 4º, do novo Código de Processo Civil.” (RE 1.110.831-ED-AgR/SP, Rel. Min. Dias Toffoli - grifos no original).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Ricardo Lewandowski
+Relator
