@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 164):
+    “POLICIAL CIVIL. AGENTE POLICIAL. Reconhecimento do direito à percepção dos proventos de acordo com os vencimentos auferidos na classe a que pertencia no momento da passagem à inatividade, qual seja, ‘Agente Policial – 1ª Classe’. Condenação da requerida ao pagamento das diferenças apuradas nas parcelas vencidas e vincendas, desde a data de aposentação. Parte autora promovida de Escrivão de Polícia de 2ª classe para a 1ª classe, antes da aposentadoria, mas seus vencimentos foram pagos com base na remuneração da 2ª classe. Inteligência dos artigos 40, § 1º, III, da CF, e do art. 2º, II, da EC 41/03. Não há que se confundir cargo com classe. Descabida a exigência de a parte autora completar cinco anos de efetivo exercício na classe em que se encontrava quando de sua aposentadoria. Classes são apenas divisões internas dentro da carreira, determinada por antiguidade e merecimento. Sentença de procedência mantida. Improvimento do recurso da SPPREV.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §1º, inciso III, da Carta da República, ao artigo 6º, da Emenda Constitucional 41/2003 e ao artigo 3º, da Emenda Constitucional 47/2005.
+    Sustenta-se, em suma, que “o valor dos proventos de aposentadoria, no presente caso, não poderá corresponder à última remuneração quando na ativa em razão de o autor não ter cumprido o requisito de 5 anos no mesmo nível quando de sua aposentadoria.” (eDOC 1, p. 173)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, constato que a matéria discutida nos presentes autos trata de hipótese diversa daquela veiculada no RE 662423, Rel. Min. Dias Toffoli, DJe 12.9.2012, cuja questão constitucional teve repercussão geral reconhecida por esta Corte (tema 578), razão pela qual, deixo de aplicá-la ao presente caso.
+    Na espécie, verifica-se que o Tribunal de origem negou provimento ao recurso inominado, mantendo a sentença por seus próprios fundamentos. Destaco o seguinte trecho da sentença: (eDOC 1, pp. 46/47)
+    “(...)
+    De início, destaque-se que a questão controvertida cinge-se tão apenas ao requisito de cinco anos no mesmo cargo para que a autora receba sua aposentadoria de forma equivalente à classe em que efetivamente se aposentou.
+    (...)
+    No caso em tela, a autora, quando da aposentadoria, contava com mais de 30 anos de perita criminal, dos quais dois foram exercidos na classe especial. Contudo, o fato de ela não ter permanecido cinco anos naquela classe não afeta em nada o seu direito ao recebimento de sua aposentadoria integral, equivalente à última classe por ela ocupada, já que inexistente previsão legal em sentido oposto e sendo esse o único obstáculo imposto pela ré.
+    (...).”
+    O acórdão recorrido revela-se em consonância com a jurisprudência desta Corte, cujo entendimento encontra-se pacificado no sentido de que a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado.
+    Confira-se, a propósito, os seguintes precedentes:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO, PARA CLASSE DISTINTA. CÁLCULO DE PROVENTOS. AUSÊNCIA DE CONTRARIEDADE AO ART. 40, § 1º, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (AI 768895 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.3.2011)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA. INEXISTÊNCIA DE CONTRADIÇÃO AO ART. 40, § 1º, III, DA CONSTITUIÇÃO. PRECEDENTES. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado (AI 768.895, Rel.ª Min.ª Cármen Lúcia). Desse modo, a aposentadoria de servidor público promovido no mesmo cargo, mas em classe distinta, não está condicionada ao prazo de 5 anos estabelecido no art. 40, § 1º, III, da Constituição. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento. (RE 590762 AgR, Min. Roberto Barroso, Primeira Turma, DJe 2.2.2015)
+    Ademais, eventual divergência em relação ao entendimento adotado pelo juízo a quo, no tocante aos critérios de promoção na carreira do servidor, demandaria a análise da legislação local aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, ”a”, do CPC e art. 21, § 1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
