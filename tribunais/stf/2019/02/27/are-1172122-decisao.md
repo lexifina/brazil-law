@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal do Tribunal de Justiça do Estado de São Paulo que manteve a sentença de procedência em ação de cobrança movida por segurado contra empresa de seguro, ora Recorrente, em que se discute ressarcimento de reparos em veículo recuperado após furto (eDOC 2, p. 119).
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se violação dos arts. 5º, LV, da Constituição Federal. Alega-se, em suma, a incompetência do Juizado Especial perante a complexidade da causa e da necessidade de perícia.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Quanto à declaração de incompetência dos Juizados Especiais em face da alegada necessidade de produção de prova complexa para o deslinde da controvérsia, a Corte, no julgamento do ARE-RG 640.671, de relatoria do Ministro Cezar Peluso, DJe 06.09.2011 (Tema 433), decidiu pela inexistência de repercussão geral da questão suscitada, por se tratar de matéria infraconstitucional, na ocasião a ementa ficou assim redigida:
+    Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.
+    Ademais, no exame do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013 (Tema 660), o Plenário do Supremo Tribunal Federal assentou que não há repercussão geral quando a alegação é de ofensa aos princípios da ampla defesa, do ato jurídico perfeito, e da coisa julgada, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso em exame.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
