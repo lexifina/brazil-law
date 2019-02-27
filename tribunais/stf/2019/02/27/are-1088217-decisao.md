@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CONDIÇÕES DA AÇÃO — Mandado de segurança. Alegação de que se cuida de impetração em face de lei em tese. Descabimento. Hipótese em que se cuida de situação concreta relativa à viabilidade de adaptação a novo regime de apuração de ICMS em tempo hábil e as consequências jurídicas em caso de descumprimento involuntário. Adequação da via eleita.
+    SUBSTITUIÇÃO TRIBUTÁRIA — ICMS. Alegação de inaplicabilidade do princípio da anterioridade nonagesimal por não se cuidar de criação de tributo ou de sua majoração, devendo o novo regime de apuração de ICMS ser aplicado aos produtos previstos no Decreto Estadual n ° 54.338/2009 a partir de sua entrada em vigor. Descabimento. Hipótese em que, conquanto efetivamente não se aplique o princípio da anterioridade, resulta necessária a concessão de tempo hábil para as adaptações necessárias à adoção do novo regime, sob pena de se impor injustamente sanções ao contribuinte, com ofensa à segurança jurídica.
+    RECURSO NÃO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, III, c, e § 7º, da Carta, bem como à Súmula 266 do STF. Sustenta que: (i) o mandado de segurança não pode ser utilizado para afastar a incidência das normas contidas no Decreto Estadual nº 54.338/2009; (ii) a implementação do regime de substituição tributária já estava prevista desde a edição da Lei Estadual nº 13.291/2008, de modo que a edição do Decreto Estadual nº 54.338/2009 não implicou qualquer violação aos princípios da anterioridade, segurança jurídica, razoabilidade ou proporcionalidade.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “(…)
+    No entanto, o recurso não merece trânsito.
+    Com efeito, ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. Acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas constitucionais enunciadas.
+    (…)
+    Inadmito, pois, o recurso extraordinário”.
+    A pretensão recursal não merece prosperar. Inicialmente, quanto ao cabimento do mandamus, verifico que a argumentação recursal não apresentou formal e motivadamente a repercussão geral da questão, providência necessária ao conhecimento do recurso. Tampouco indicou o dispositivo constitucional que teria sido violado pelo acórdão recorrido, hipótese que atrai a incidência da Súmula 284/STF.
+    Quanto ao mérito, a pretensão também não merece acolhida. O Tribunal de origem, com base na legislação local, concedeu a segurança pleiteada para assegurar à impetrante o direito de aderir ao regime de substituição tributária no prazo de 90 (noventa) dias.
+    Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional local (Lei Estadual nº 13.291/2008 e Decreto Estadual nº 54.338/2009), providência vedada em recurso extraordinário. A hipótese atrai a incidência da Súmula 280 desta Corte. Nesse sentido, confira-se o julgado:
+    “DIREITO TRIBUTÁRIO. ICMS. REGIME DE APURAÇÃO FISCAL. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 06.5.2016. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”. (ARE 964.508-AgR, Rel.ª Min.ª Rosa Weber)
+    No mesmo sentido, as seguintes decisões monocráticas: ARE 1.024.268, Rel. Min. Ricardo Lewandowski; ARE 870.267, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 21, § 1º,do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
