@@ -1,0 +1,21 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que negou seguimento à reclamação.
+    Em suas razões, a parte embargante sustenta contradição na decisão embargada, argumentando que por um lado reconhece que ‘a força vinculante de tal acórdão (ADI 1.797) limita-se à aplicação da decisão administrativa impugnada’, mas por outro lado entende possível a aplicação de ofensa ao art. 741 do CPC/73, aplicação que só seria possível se os efeitos vinculantes desta mesma ADI 1.797 transcenderem de seus limites objetivos e subjetivos, atingindo a presente lide. (eDOC 23, p. 4)
+    Aduz ainda omissão fundada na aplicação da referida ‘teoria da transcendência dos motivos determinantes’ por parte do r. acórdão reclamada. (eDOC 23, p. 5)
+    Intimada, a parte embargada apresentou contrarrazões. (eDOC 29)
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, ora não vislumbradas.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011; Rcl 25.195 AgR-ED, de minha relatoria, Segunda Turma, DJe 10.10.2017; e Rcl 12.416 AgR-ED, Edson Fachin, Tribunal Pleno, DJe 13.3.2018.
+    Conforme consignado na decisão embargada, na espécie, não se constata pressuposto de cabimento de reclamação, uma vez que a autoridade reclamada agiu no exercício de sua competência constitucional, julgando recurso especial fundado na violação de lei federal.
+    Assim, necessário concluir pela inexistência de aderência estrita entre o decidido no ato reclamado e o parâmetro de controle invocado, o que acarreta a inadmissibilidade da ação, por ausência de pressuposto de cabimento necessário.
+    Nesse sentido, além dos precedentes citados na decisão impugnada, confiram-se os seguintes:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. SERVIDOR PÚBLICO. REMUNERAÇÃO. CONVERSÃO EM URV. ALEGAÇÃO DE AFRONTA AO QUE DECIDIDO NA ADI 1.7971PE. INOCORRÊNCIA. AUSÊNCIA DE IDENTIDADE MATERIAL. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A ausência de identidade de temas entre o ato reclamado e a decisão desta Corte tida por descumprida torna inviável o manejo da reclamação. 2. No julgamento da ADI 1.7971PE esta Corte apreciou decisão administrativa do Tribunal Regional do Trabalho da 6 a Região, que estendeu aos seus servidores e Magistrados a diferença remuneratória de 11,98%, decorrente de erro verificado na conversão de cruzeiros reais em URV. 3. In casu, a fundamentação utilizada pela autoridade reclamada para negar seguimento ao recurso especial não guarda identidade com a decisão proferida nos autos da ADI 1.7971PE. 4. Agravo regimental desprovido.” (Rcl 10123 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.4.20 15)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA AO QUE DECIDIDO POR ESTA CORTE EM CASOS QUE VERSAM SOBRE A CORREÇÃO MONETÁRIA DE 11,98% EM VIRTUDE DA CONVERSÃO DA URV EM REAL. AUSÊNCIA DE IDENTIDADE MATERIAL. I - A decisão rcclamada deixou de conhecer de recurso especial com base em enunciado da Súmula do Superior Tribunal de Justiça. Não há falar, pois, cm qualquer descumprimento de decisão desta Corte. 11- Diante da ausência de identidade material entre os fundamentos do ato reclamado e aqueles emanados por qualquer decisão deste Tribunal, não merece seguimento a pretensão dos reclamantes. III - Agravo regimental a que se nega provimento.” (Rcl 10148-AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 1º.7.2014)
+    Desse modo, inexistem omissão, contradição, obscuridade a serem sanadas na decisão ora impugnada.
+    Ante o exposto, rejeito os embargos de declaração (art. 1024, §2º, do CPC).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
