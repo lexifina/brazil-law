@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Colégio Recursal do Tribunal de Justiça do Estado do Espírito Santo, que manteve a sentença por seus próprios fundamentos. Veja-se trecho conclusivo do acórdão:
+    “Assim, coaduno com o entendimento da sentença vergastada, eis que o Recorrente ingressou em seu cargo em 24 de outubro de 2011, quando havia sido instituída a modalidade de remuneração por subsídio dos servidores do Instituto De Atendimento Socioeducativo do Espírito Santo, a partir da Lei Complementar Estadual nº 503/2003, em vigor desde 05 de Novembro de 2009, ou seja, não há que se falar em eventual direito de optar pela manutenção da remuneração por vencimento, acrescida da gratificação em apreço pela Lei Complementar Estadual nº 362/2006, pois tal direito foi conferido aos servidores regidos pelo regime jurídico anterior, nomeados até a data da publicação de citada Lei Complementar 503/2009, o que não é o caso do Recorrente.
+    [...]
+    No entanto, resta claro que o Recorrente não faz jus ao recebimento, devido o ingresso no cargo em questão quando vigente a legislação estadual que previa a modalidade de remuneração por subsídio, sem acréscimo de qualquer tipo de gratificação.”
+     O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 37, X e XI; e 39, § 4º, da CF.
+    O recurso extraordinário é inadmissível. Para dissentir da conclusão do Tribunal de origem, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nesse sentido, cito os seguintes precedentes: RE 1.181.618, Rel. Min. Celso de Mello; ARE 1.169.761, Rel.Min. Luiz Fux; e RE 1.181.617, Relª. Minª. Rosa Weber.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita a parte recorrente, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 27 de fevereiro de 2019.
+Ministro Luís Roberto Barroso
+Relator
