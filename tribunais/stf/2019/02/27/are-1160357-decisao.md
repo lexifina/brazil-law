@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Superior do Trabalho, assim ementado, na parte recorrida (eDOC-76):
+    “RECURSO DE EMBARGOS REGIDO PELA LEI 13.015/2014. PRESCRIÇÃO QUINQUENAL. INTERRUPÇÃO. ARQUIVAMENTO DA AÇÃO AJUIZADA ANTERIORMENTE. CONTAGEM DA DATA DO AJUIZAMENTO DA AÇÃO ANTERIOR ARQUIVADA. No presente feito, a controvérsia está adstrita ao marco da contagem do prazo prescricional quinquenal, quando há registro de ação anteriormente arquivada, com pedidos idênticos. Frise-se que a pretensão recursal formulada pela Petrobras é que se considere para a retomada do prazo prescricional quinquenal, o ajuizamento da segunda ação. Por não entender pertinente a tese sustentada pela empresa reclamada no sentido de que o prazo inicia-se a partir do ajuizamento da segunda ação, mantém-se o acórdão recorrido que, ao dar provimento ao recurso de revista do sindicato autor decidiu que o efeito interruptivo de ajuizamento de ação anterior não está adstrito exclusivamente à aplicação do prazo prescricional bienal. Recurso de embargos conhecido e desprovido, no particular.”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se violação do artigo 7º, XXIX, da Constituição da República.
+    Sustenta-se, em suma, que “o v. acórdão do TST, ao não decretar a prescrição total, violou explicitamente a segurança jurídica, insculpida no artigo 7º, XXIX da Constituição Federal, criando a imprescritibilidade dos direitos do reclamante.“ (eDOC 78, p. 4).
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Com relação à prescrição, verifica-se, que no julgamento do ARE-RG 697.514, de relatoria do Ministro Gilmar Mendes, Dje de 14.09.2012, (Tema 583), o entendimento desta Corte é no sentido de que a discussão quanto à incidência da prescrição no direito trabalhista situa-se no âmbito infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como ocorre no caso dos autos.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
