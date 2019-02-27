@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “ACIDENTE DE TRÂNSITO – Animal na pista – Segurança e fiscalização de estrada – Responsabilidade – Natureza subjetiva – Dever de prestar o serviço sem que haja falta do serviço – Demonstração de controle de percurso – Viatura que passou pouco tempo antes no trecho em que ocorrera o acidente – Negligência não demonstrada – Imprevisibilidade – Falta de culpa – Ausente pressuposto para a responsabilização – Sentença reformada – Pedido julgado improcedente.
+    Apelação provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, § 6º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios:
+    “O acidente narrado na petição inicial e as circunstâncias em que ocorreu são incontroversos: um cachorro invadiu a pista de rolamento, não logrando o motorista segurado frear ou desviar dele, colidindo contra.
+    O Boletim de Ocorrência de fls. 35/39 e os documentos apresentados pela apelante às fls. 133/135 dão notícia do ocorrido.
+    .......................................................................................................
+    Contudo, no caso dos autos, a apelante demonstrou que realizou a fiscalização da pista, reunindo relatório do tráfego da viatura responsável pelo controle de percurso (fls. 136/138).
+    No dia do evento, a viatura IT0707 ‘passou no km 156+385 às 20h10 e no km 157+031 às 21h35’ (fls. 129), ou seja, momento antes do acidente, tanto que foi essa mesma viatura acionada, às 22h28, para atender no km 151+500 justamente o acidente em que se envolveu o segurado da apelada (cf. dados da ocorrência de fls. 133).
+    Na situação, o quadro probatório demonstra que a presença de animal na pista era mesmo imprevisível. E essa falta de previsibilidade afasta a culpa, pressuposto para que houvesse alguma responsabilização da apelante.
+    A apelante cumpriu sua obrigação de garantir a segurança de todos aqueles que trafegam pelas estradas, seja realizando a necessária manutenção, fiscalização e sinalização, visando impedir a circulação de animais na pista. Não existiu, portanto, falta objetiva do serviço.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.151.236/PE, Rel. Min. LUIZ FUX – ARE 1.158.318/GO, Rel. Min. DIAS TOFFOLI – ARE 1.158.631/PE, Rel. Min. MARCO AURÉLIO – ARE 1.160.025/RS, Rel. Min. GILMAR MENDES – ARE 1.161.998/SP, Rel. Min. CÁRMEN LÚCIA – RE 1.124.057/PE, Rel. Min. ALEXANDRE DE MORAES – RE 1.140.364/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Acidente. Animal na pista. Responsabilidade civil do Estado. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279. 3. Agravo regimental a que se nega provimento.”
+    (ARE 892.259-AgR/CE, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
