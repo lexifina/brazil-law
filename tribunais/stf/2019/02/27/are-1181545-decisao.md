@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL DIREITO PÚBLICO INESPECÍFICO. AÇÃO ANULATÓRIA DE APLICAÇÃO DE PENALIDADE IMPOSTA PELO MUNICÍPIO A INSTITUIÇÕES BANCÁRIAS. LEI MUNICIPAL Nº 7.494/94. OBRIGATORIEDADE DE INSTALAÇÃO DE PORTAS ELETRÔNICAS DE SEGURANÇA EM INSTITUIÇÕES FINANCEIRAS, INCLUSIVE POSTOS DE AUTO-ATENDIMENTO. COMPETÊNCIA SUPLETIVA DO MUNICÍPIO PARA LEGISLAR SOBRE A MATÉRIA. ART. 30 DA CONSTITUIÇÃO FEDERAL.
+    Possível o Município legislar sobre segurança em estabelecimento bancário, na medida em que: a) a matéria que tal não é de competência exclusiva da União (art. 22 da Constituição Federal); b) não se está a tratar de questão que envolva a regulamentação do Sistema Financeiro Nacional, modo a alcançar sua finalidade, dentro do contexto social em que é inserido (art. 192 da Constituição Federal); c) compete aos Municípios suplementar a legislação federal e estadual no que couber, sobretudo em se tratando de questão de nítida prevalência de interesse local, mormente por se estar a tratar de segurança pública (art. 30, I e II, da Constituição Federal). Improcedência de ação de desconstituição de penalidade imposta pelo Município aos autores, por força do disposto na lei municipal nº 7.494/94, regulamentada pelo DL nº 11.207/95, que tornou obrigatória a instalação de portas eletrônicas de segurança nas entradas e saídas de clientes, inclusive nos postos de auto-atendimento. Precedentes deste Tribunal. APELO DESPROVIDO" (eDOC 6, p 114).”
+    Opostos embargos de declaração, foram rejeitados. Eis a ementa do julgado:
+    “EMBARGOS DECLARATÓRIOS. EFEITO PREQUESTIONATIVO PURO. REJULGAMENTO. Ausência de qualquer das hipóteses de cabimento. Embargos que se traduzem em verdadeiro pedido de rejulgamento. Mesmo para fins de prequestionamento a parte deve comprovar as hipóteses legais (artigo 535 do CPC) para o cabimento deste recurso, não sendo permitida oposição com base apenas no pedido de prequestionamento puro. Omissão inexistente.
+    EMBARGOS REJEITADOS.” (eDOC 6, p 136)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º, IV, 5º, II, XXXV, LV e 37, 170 do texto constitucional. (eDOC 7, p. 41)
+    Nas razões recursais, alega-se que o acórdão proferido nos embargos de declaração violaram seu direito a devida prestação jurisdicional, ocorrendo em contradição e devendo ser cassado. No mérito, aduz que os terminais de autoatendimento não podem ser considerados agências ou postos de serviços bancários, tal como definido pela legislação municipal.
+    Decido.
+    O recurso não merece prosperar.
+    Observo que o Superior Tribunal de Justiça deu provimento ao Recurso Especial nº 129.106, interposto pelo ora recorrente, a fim de que o tribunal a quo anule “o acórdão dos Embargos de Declaração, a fim de que o Tribunal de origem se pronuncie, de maneira motivada e atendendo aos fatos e circunstâncias constantes dos autos, sobre a questão suscitada como omissa, ainda que para indicar os motivos pelos quais venha considerar o acórdão dos Embargos de Declaração tal questão impertinente ou irrelevante, na espécie.” (eDOC 13, p. 10-11)
+    Desta forma, tendo em vista a perda do objeto do recurso extraordinário ante a nulidade do acórdão recorrido, nada resta a decidir.
+    Ante o exposto, julgo prejudicado o presente recurso, por perda de seu objeto (art. 932, III, do NCPC e art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
