@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado (eDOC 32):
+    AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - HORAS IN ITINERE - FORMA DE PAGAMENTO - SEM ADICIONAL EXTRAORDINÁRIO E SEM REFLEXOS - ALTERAÇÃO PREVISTA EM NORMA COLETIVA – INVALIDADE. Conforme bem restou consignado na decisão agravada, a SBDI-1 possui o entendimento no sentido de que deve ser reputada inválida a cláusula coletiva que alterou o critério de pagamento das horas itinerantes e retirou a sua natureza jurídica salarial legalmente estabelecida por norma de ordem pública, em prejuízo do trabalhador e para mitigar a importância econômica do instituto. O agravo não trouxe nenhum argumento que infirmasse os fundamentos da decisão recorrida, limitando-se a renovar os argumentos expendidos no agravo de instrumento, motivo pelo qual merece ser mantida a decisão. Agravo desprovido.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, alínea a, alega-se ofensa ao artigo 7º, XXVI, da Constituição da República.
+    Sustenta-se, em suma, a validade dos termos de acordo coletivo, em referência à forma de pagamento das horas in itinere e seu reflexos.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal Superior do Trabalho assim asseverou (eDOC 32):
+    Com relação ao pleito recursal da reclamada quanto à validade da cláusula convencional que fixa natureza não salarial para as horas in itinere, sem razão. Como visto, somente se admite a composição das partes quando respeitados os direitos mínimos previstos em lei, de modo a favorecer o empregado, nunca subtraindo o mínimo (art.58,§2º, CLT).
+    (...)
+    De acordo com a iterativa, notória e atual jurisprudência do Tribunal Superior do Trabalho, é ilícita previsão negocial que implique supressão das horas in itinere ou que lhe atribua natureza indenizatória, por estar garantida por preceito de ordem pública e caráter cogente.
+    (…)
+    No caso, a Corte regional confirmou a sentença que validara a previsão da norma coletiva no que toca à limitação das horas in itinere a uma hora diária, mas refutara a validade das disposições normativas que implicavam o pagamento da referida parcela de forma simples e sem natureza jurídica salarial.
+    (…)
+    No que concerne à validade da cláusula coletiva quanto à fixação da remuneração das horas in itinere, na forma simples, ou seja, sem incidência do respectivo adicional e sem a integração ao salário e sem os reflexos nas demais parcelas salariais - não obstante a análise da validade da negociação coletiva neste ponto encaminhe resultado assemelhado àquele vislumbrado por meio da limitação desproporcional do tempo de trajeto ou sua supressão -, o referido ajuste, no que respeita à composição e à natureza jurídica da parcela, não pode prevalecer, porquanto impõe ao valor da parcela significativa redução, a ponto de confundir-se com a renúncia ao percebimento de parte substancial da remuneração correspondente. As horas in itinere, por consistirem tempo à disposição do empregador, nos termos do art. 4º da CLT, integram-se à jornada de trabalho, produzindo, por consequência, horas extraordinárias”
+    Eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à validade de cláusula em acordo coletivo referente ao pagamento das horas in itinere e seus reflexos, demandaria o reexame de cláusula contratual coletiva, o que é vedado, neste momento processual, pela Súmula 454, desta Corte.
+    Nesse sentido:
+    Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Convenção coletiva. Horas in itinere. Supressão. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório e de cláusulas contratuais. Súmulas 279 e 454 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental. (ARE 1.091.269 AgR, Rel. Min. Gilmar Mendes, Segunda Tuma, DJe 9.10.2018)
+    DIREITO DO TRABALHO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. 1. A matéria controvertida está restrita ao âmbito infraconstitucional. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (ARE 1.143.909 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 17.9.2018)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
