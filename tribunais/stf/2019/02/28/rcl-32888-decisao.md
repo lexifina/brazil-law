@@ -1,0 +1,43 @@
+RECLAMAÇÃO. CONSTITUCIONAL. EMPRESA PÚBLICA. REGIME DE MONOPÓLIO. EXECUÇÃO. PENHORA DE BENS. AFRONTA À AUTORIDADE DAS DECISÕES DO SUPREMO TRIBUNAL FEDERAL PROFERIDAS NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL 387 E 437. PRESTAÇÃO DE SERVIÇO PÚBLICO DE NATUREZA NÃO CONCORRENCIAL. REGIME DE PRECATÓRIO. POSSIBILIDADE. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Empresa Pública de Transporte e Circulação S/A – EPTC contra decisão proferida pela 14ª Vara do Trabalho de Porto Alegre/RS nos autos do Processo 0020927-16.2017.5.04.0014, por alegada ofensa ao que decidido pelo Supremo Tribunal Federal nos julgamentos das Arguições de Descumprimento de Preceito Fundamental 387 e 437 e do Recurso Extraordinário 599.628, Tema 253 da Repercussão Geral.
+    Eis o teor da decisão ora reclamada, in verbis:
+    “Vistos e examinados os autos deste processo.
+    Dou por liquidada a sentença no valor de R$ 13.605,22, atualizado até 01/10/2018, conforme cálculo de ID. 9ce2104.
+    Custas atualizadas.
+    Proceda-se ao lançamento da conta, observado o abatimento do depósito recursal efetuado nos autos.
+    Após, intime-se a reclamada, na pessoa para pagamento do débito remanescente de seu procurador constituído, consoante previsão do artigo 513 do CPC, no prazo de quinze dias.
+    No silêncio, prossiga-se a execução, mediante constrição de valores e/ou bens da devedora por meio dos convênios.
+    A restrição sobre veículos deverá incidir inclusive em relação à circulação.
+    Infrutíferas as diligências, expeça-se mandado para penhora de bens no endereço da reclamada.”
+    A reclamante alega, em síntese, que a decisão ora reclamada deixou de levar em consideração a jurisprudência desta Suprema Corte no que diz respeito à aplicação do regime de fazenda pública a empresas públicas e sociedades de economia mista prestadoras de serviços públicos essenciais em regime de monopólio.
+    Sustenta que é empresa pública prestadora de serviço público essencial de fiscalização de trânsito e transporte no âmbito do Município de Porto Alegre/RS, em regime de monopólio e sem finalidade lucrativa.
+    Argumenta que o ato reclamado determinou a realização de penhora de seus bens, em razão de condenação trabalhista, em desconformidade com o que decidido nas ADPF’s 387 e 437 e no RE 599.628, Tema 253 da Repercussão Geral.
+    Frisa que os privilégios de execução por regime da Fazenda Pública são a ela extensíveis, devendo a sua condenação ser submetida ao regime de precatórios.
+    Requer, ao final, a concessão de medida liminar para “suspender imediatamente o andamento do processo nº 0020927-16.2017.5.04.0014, em trâmite na 14ª Vara do Trabalho de Porto Alegre - RS, notadamente atos executórios, bem como a revogação de qualquer medida constritiva até o momento realizada, especialmente liberação de valores eventualmente bloqueados em contas bancárias através de penhora online (BACENJUD), até o julgamento final da presente Reclamação”. No mérito, pugna pela procedência do pedido para cassar a decisão exorbitante dos julgados paradigmas.
+    Em 20/12/2018, na qualidade de Presidente desta Suprema Corte, o Ministro Dias Toffoli concedeu parcialmente a tutela de urgência pleiteada pela reclamante, para “suspender o Processo nº 0020927-16.2017.5.04.0014 e os efeitos da decisão reclamada (CPC, art. 989, II)”. Na oportunidade, determinou S. Exa. a citação da parte beneficiária da decisão reclamada e a requisição de informações à autoridade reclamada.
+    Contra tal decisão, o beneficiário da decisão impugnada, Adriano Mezari Duarte, interpôs agravo regimental (Petição STF 4.364/2019 – Doc. 36), tendo, ainda, apresentado pedido de ingresso no feito na qualidade de terceiro interessado (Petição STF 206/2019 – Doc. 24).
+    É o relatório. DECIDO.
+    Ab initio, antes de examinar se, de fato, há desobediência à autoridade do que decidido no julgamento da Arguição de Descumprimento de Preceito Fundamental 387, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 25/10/2017, é preciso esclarecer o que ele dispõe. A ementa do referido acórdão possui o seguinte conteúdo:
+    “Arguição de descumprimento de preceito fundamental.
+    2. Ato lesivo fundado em decisões de primeiro e de segundo graus do Tribunal Regional do Trabalho da 22ª Região que determinaram bloqueio, penhora e liberação de valores oriundos da conta única do Estado do Piauí, para pagamento de verbas trabalhistas de empregados da Empresa de Gestão de Recursos do Estado do Piauí S/A (EMGERPI).
+    3. Conversão da análise do pedido de medida cautelar em julgamento de mérito. Ação devidamente instruída. Possibilidade. Precedentes.
+    4. É aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Precedentes.
+    5. Ofensa aos princípios constitucionais do sistema financeiro e orçamentário, em especial ao da legalidade orçamentária (art. 167, VI, da CF), aos princípios da independência e da harmonia entre os Poderes (art. 2º da CF) e ao regime constitucional dos precatórios (art. 100 da CF).
+    6. Arguição de descumprimento de preceito fundamental julgada procedente.”
+    Com efeito, no referido julgamento, esta Suprema Corte se manifestou no sentido da aplicabilidade do regime de precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado, em regime de monopólio.
+    Na ocasião, o Ministro Gilmar Mendes, relator da Arguição de Descumprimento de Preceito Fundamental 387, externou em seu voto os riscos da aplicação de medidas constritivas de bens às empresas prestadoras de serviços essenciais ao Estado, pontuando que “ordens de bloqueio, penhora e liberação de valores da conta única do estado de forma indiscriminada, fundadas em direitos subjetivos individuais, podem significar retardo/descontinuidade de políticas públicas ou desvio da forma legalmente prevista para a utilização de recursos públicos”.
+    No mesmo sentido foi a decisão proferida na Medida Cautelar da Arguição de Descumprimento de Preceito Fundamental 437, Rel. Min. Rosa Weber, DJe de 23/03/2017.
+    In casu, verifico que os elementos apresentados dão conta de que a reclamante é empresa pública prestadora de serviço público de natureza essencial, já que sua finalidade principal consiste em fiscalizar o sistema de trânsito e transportes no âmbito do Município de Porto Alegre, o que faz sem finalidade lucrativa e com exclusividade, já que não conta com a concorrência de outras empresas.
+    Dessa forma, entendo que o ato ora reclamado encontra-se em dissonância com o acórdão proferido por esta Suprema Corte no julgamento da Arguição de Descumprimento de Preceito Fundamental 387.
+    Demais disso, assevere-se, por oportuno, que o fato da citação do beneficiário da decisão reclamada, embora ordenada pelo Ministro Presidente, não ter sido formalmente realizada, não acarreta qualquer tipo de nulidade ao iter processual consagrado pelo Código de Processo Civil.
+    Isso porque, após o deferimento do pedido de medida liminar pelo Ministro Presidente, o beneficiário da decisão ora impugnada, Adriano Mezari Duarte, compareceu aos autos espontaneamente em duas oportunidades: ao apresentar pedido de ingresso no feito como interessado (Doc. 24) e ao interpor agravo regimental contra a decisão cautelar (Doc. 36).
+    Com efeito, assim preceitua o artigo 239, § 1º, do Código de Processo Civil, in verbis:
+    “Art. 239. Para a validade do processo é indispensável a citação do réu ou do executado, ressalvadas as hipóteses de indeferimento da petição inicial ou de improcedência liminar do pedido.
+    § 1º O comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução.”
+    Ex positis, JULGO PROCEDENTE a presente reclamação, com fundamento nos artigos 992 do Código de Processo Civil e 161, parágrafo único, do RISTF, para determinar o levantamento da anotação de penhora realizada nos autos do Processo 0020927-16.2017.5.04.0014, em trâmite na 14ª Vara do Trabalho de Porto Alegre/RS, bem como para que sejam aplicados à reclamante os critérios de pagamento fixados no julgamento da Arguição de Descumprimento de Preceito Fundamental 387, ficando PREJUDICADO o agravo regimental interposto contra a decisão cautelar.
+    Comunique-se o teor desta decisão à autoridade reclamada.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
