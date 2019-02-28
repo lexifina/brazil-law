@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça de São Paulo, assim ementado (v. 03, fl. 514):
+    TAXA DE RESÍDUOS SÓLIDOS DE SAÚDE – TRSS – Município de São Paulo – Exercício de 2006 – Mandado de segurança – Nulidade do lançamento fiscal – Inconstitucionalidade – Ausência de especificidade e divisibilidade – Requisito essencial – Inviabilidade de determinar o lixo produzido pelo porte de cada estabelecimento – Ausência de equivalência com a taxa de limpeza pública – Existência de base de cálculo que parte de premissas aleatórias estando ausente individualização do custo para cada contribuinte – Não aplicação da Súmula Vinculante nº 19 do Supremo Tribunal Federal – Cobrança Indevida – Sentença reformada – Segurança concedida – Recurso provido.
+    Os embargos de declaração foram rejeitados (v. 03, fls. 524-525).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 145, II, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que o serviço de coleta de lixo é divisível e específico, atendendo aos requisitos previstos em lei para que se possa instituir a taxa como uma contraprestação, nos termos do art. 145, II, da Constituição Federal.
+    A Presidência da Seção de Direito Público do TJSP determinou a remessa dos autos à Turma julgadora para possível juízo de retratação com fundamento no Tema 201 da repercussão geral. Nada obstante, a Câmara julgadora manteve o acórdão sob o seguinte fundamento (v. 04, fl. 720):
+    “(...) Todavia, o serviço de coleta de resíduos sólidos de serviços de saúde, instituída pela Lei Municipal nº 13.478/2002, não sei enquadra no conceito supra, pois beneficia toda a coletividade, e não apenas o contribuinte, que não pode ser individualizado.”.
+    Ato contínuo, a Presidência da Seção de Direito Público do TJSP encaminhou os autos ao STF.
+    É o relatório. Decido.
+    Observa-se que o Tribunal negou provimento a apelação, com base nos seguintes fundamentos:
+    “Quanto à Taxa de resíduos sólidos de saúde – TRSS, observo que a matéria é regulada pela Lei municipal n. 13.478 (arts. 93 e seguintes), constituindo fato gerador do referido tributo “a utilização potencial do serviço público e de coleta, transporte, tratamento e destinação final de resíduos sólidos de serviços de saúde, de fruição obrigatória, prestados em regime público” (art. 94, caput).”.
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local, sobretudo a Lei Municipal 13.478/02, o que é obstado pela Súmula 280 do STF.
+    Neste sentido, veja-se o seguinte julgado:
+    “DIREITO TRIBUTÁRIO. TAXA DE RESÍDUOS SÓLIDOS DE SERVIÇO DE SAÚDE. EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015. 3. Agravo regimental conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE 979052 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 15.12.2016)
+    Cito, ainda, os seguintes julgados: ARE 975.784, de relatoria do Ministro Luiz Fux, DJe 25.08.2016; ARE 978.309, de relatoria do Ministro Gilmar Mendes, DJe 1º.07.2016; e RE 877.423, de relatoria do Ministro Luís Roberto Barroso, DJe 23.04.2015.
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos do art. 932, IV, “a”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
