@@ -1,0 +1,27 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Maria Imaculada Conceição Ferreira de Carvalho contra acórdão que, proferido pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PÚBLICOS. LIMITAÇÃO DA CARGA HORÁRIA. POSSIBILIDADE.
+    1. Hipótese em que a autora pretende ver assegurado o direito de acumular dois cargos/empregos públicos de farmacêutica, perfazendo carga horária de 80 (oitenta) horas semanais, ao argumento de que haveria compatibilidade entre as respectivas jornadas;
+    2. A compatibilidade de horários, prevista no art. 37, XVI, da CF/88, como requisito para a possibilidade de acumulação de dois cargos/empregos públicos de profissional da área de saúde, não deve ser entendida, apenas, como a ausência de choque entre as jornadas de trabalho;
+    3. É razoável a limitação da carga horária semanal permitida em 60 (sessenta) horas semanais, tendo em vista que o ser humano necessita de um intervalo de descanso suficiente para o devido repouso, a alimentação e a locomoção, sob pena de causar danos a ele próprio e ao serviço desempenhado;
+    4. Apelação improvida.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, XVI, “c”, da Constituição da República.
+    Cabe registrar, desde logo, que a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 351.905/RJ, Rel. Min. ELLEN GRACIE, fixou entendimento que torna acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “CONSTITUCIONAL. ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PÚBLICOS. PROFISSIONAL DA SAÚDE. ART. 17 DO ADCT.
+    1. Desde 1º.11.1980, a recorrida ocupou, cumulativamente, os cargos de auxiliar de enfermagem no Instituto Nacional do Câncer e no Instituto de Assistência dos Servidores do Estado do Rio de Janeiro – IASERJ. A administração estadual exigiu que ela optasse por apenas um dos cargos.
+    2. A recorrida encontra-se amparada pela norma do art. 17, § 2º, do ADCT da CF/88. Na época da promulgação da Carta Magna, acumulava dois cargos de auxiliar de enfermagem.
+    3. O art. 17, § 2º, do ADCT deve ser interpretado em conjunto com o inciso XVI do art. 37 da Constituição Federal, estando a cumulação de cargos condicionada à compatibilidade de horários. Conforme assentado nas instâncias ordinárias, não havia choque de horário nos dois hospitais em que a recorrida trabalhava.
+    4. Recurso extraordinário conhecido e improvido.”
+    Cumpre destacar, por necessário, ante a inquestionável procedência de suas observações, o seguinte trecho da decisão proferida pela eminente Ministra CÁRMEN LÚCIA (ARE 693.868/SC), no sentido de que “Pela jurisprudência do Supremo Tribunal, não é possível a limitação da carga horária semanal relativa ao exercício cumulativo de cargos públicos, por tratar-se de requisito não previsto na Constituição da República”.
+    No caso ora em análise, o acórdão emanado do E. Tribunal Regional Federal da 5ª Região, ao dar provimento à apelação deduzida pela parte ora recorrida, consignou:
+    “Entendo que a limitação da carga horária semanal em 60 (sessenta) horas se encontra em perfeita consonância com o princípio da razoabilidade. Não se pode considerar que são harmônicas jornadas de trabalho levando-se em conta, apenas, a ausência de choque entre elas. O ser humano necessita de um intervalo de descanso suficiente para o devido repouso, a alimentação e a locomoção. A ausência deste pode causar danos ao servidor e ao serviço público por ele prestado.”
+    Vê-se, desse modo, que o entendimento que prevaleceu perante o Tribunal “a quo”, no sentido de que a carga horária semanal superior a 60 horas inviabiliza o direito pleiteado pela recorrente, diverge do magistério jurisprudencial desta Suprema Corte (AI 762.427/GO, Rel. Min. CÁRMEN LÚCIA – ARE 799.251/DF, Rel. Min. GILMAR MENDES – RE 1.158.393/MS, Rel. Min. CELSO DE MELLO, v.g.):
+    “Agravo regimental no recurso extraordinário. Servidor público. Acumulação de cargos. Compatibilidade de horários. Fixação de jornada por legislação infraconstitucional. Limitação da acumulação. Impossibilidade. Precedentes.
+    1. A jurisprudência da Corte é no sentido de que a Constituição Federal autoriza a acumulação remunerada de dois cargos públicos privativos de profissionais da saúde quando há compatibilidade de horários no exercício das funções e que a existência de norma infraconstitucional que estipula limitação de jornada semanal não constitui óbice ao reconhecimento do direito à acumulação prevista no art. 37, inciso XVI, alínea ‘c’.
+    2. Agravo regimental não provido.
+    3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º,  3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.”
+    (RE 1.131.433-AgR/AL, Rel. Min. DIAS TOFFOLI – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, dou  provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar que o Tribunal “a quo” observe a orientação jurisprudencial em referência e prossiga no julgamento da causa, como entender de direito.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
