@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. DEPÓSITO INSUFICIENTE APURADO. SALDO REMANESCENTE. ADITAMENTO AO PRECATÓRIO ORIGINÁRIO. IMPOSSIBILIDADE. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. RECURSO PROVIDO.
+    Decisão: Trata-se recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXPEDIÇÃO DE OFÍCIO REQUISITÓRIO COMPLEMENTAR. POSSIBILIDADE. Não há afronta ao art. 100 da Constituição Federal e nem mesmo ao art. 97, § 15 do ADCT. Decisão mantida.
+    AGRAVO NÃO PROVIDO.” (Doc. 1, fl. 108)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 100, § 8º, da Constituição Federal e 97, §15 do ADCT.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    Com efeito, a jurisprudência desta Suprema Corte se firmou no sentido de que, em execuções contra a Fazenda Pública, no caso de complementação de pagamentos insuficientes, faz-se necessária a expedição de novo precatório, sob o entendimento de que sua dispensa somente ocorreria quando houvesse erro material, inexatidão aritmética dos cálculos ou substituição do índice aplicado, por força de lei. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso. II – A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988. III – Agravo regimental a que se nega provimento.” (ARE 722.803-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 15/8/2014, grifei)
+    “Agravo regimental no agravo de instrumento. Precatório. Crédito complementar. Necessidade da expedição de novo precatório. Precedentes. 1. A jurisprudência da Corte pacificou o entendimento de que a complementação de valores remanescentes de precatórios judiciais, salvo nos casos de comprovada ocorrência de erro material, erro aritmético ou inexatidão dos cálculos, deverá obedecer o disposto no art. 100 da Constituição Federal, sendo necessária a expedição de novo precatório. 2. Agravo regimental não provido.” (RE 502.830-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/11/2014, grifei)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. INSUFICIÊNCIA DE PAGAMENTO EM RAZÃO DA MORA. IMPOSSIBILIDADE. 1. O Supremo Tribunal Federal assentou que não se exclui da sistemática do precatório o pagamento de valores complementares ao precatório satisfeito parcialmente, salvo as hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis ao caso. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento.” (RE 1.065.437-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 14/12/2017, grifei)
+    O acórdão recorrido diverge dessa orientação.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 21, § 2º, do RISTF, para determinar a expedição de novo precatório para satisfação do crédito remanescente, invertidos os ônus sucumbenciais.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
