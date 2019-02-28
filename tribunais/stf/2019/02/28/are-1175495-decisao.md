@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário manejado em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo (eDOC 12, p. 3):
+    “CORRETAGEM E SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI) - PEDIDO DE RESTITUIÇÃO Preliminar de ilegitimidade passiva suscitada pela ré-apelante que se afasta - Legitimidade da incorporadora para responder aos termos da ação em que se postula a restituição das verbas acima referidas que já foi reconhecida quando do julgamento dos Recursos Especiais 1.551.951-SP e 1.551.968-SP, pelo rito dos recursos repetitivos PRELIMINAR REJEITADA.
+    CORRETAGEM E SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI) - PEDIDO DE RESTITUIÇÃO - Consolidação da tese da pelo julgamento, também pelo rito dos recursos repetitivos, do Recurso Especial 1.599.511-SP - Validade da transferência, ao comprador, da comissão de corretagem, desde que previamente informado o preço total da aquisição da unidade, com destaque do valor da comissão de corretagem - Hipótese dos autos em que a atribuição foi previamente informada ao comprador, que firmou planilha de cálculo discriminativa de cada valor e contrato de promessa e compra e venda indicativa tão somente do valor do imóvel, sem quaisquer outras verbas embutidas - Restituição indevida - Taxa SATI - Abusividade da cobrança da taxa de assessoria técnico-imobiliária reconhecida - Sentença mantida – RECURSOS DESPROVIDOS”
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa ao artigos 5º, II, por violação ao princípio da legalidade.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos:
+    Ao julgar o RE-RG 950.787, em 28.04.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa aos princípios constitucionais, dentre eles o da legalidade, ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais (no caso, o Código de Defesa do Consumidor e o Código Civil) e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário, como no caso dos autos.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
