@@ -1,0 +1,31 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Célio dos Santos Leal contra acórdão que, confirmado em sede de embargos de declaração pela 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, está assim ementado:
+    “ADMINISTRATIVO. SERVIDOR CIVIL. CNEN. RESTABELECIMENTO DA VPNI PAGA EM RAZÃO DO ART. 12, § 4º DA LEI 8270/91. ABSORÇÃO DA RUBRICA EM RAZÃO DE REESTRUTURAÇÃO DA CARREIRA. AUSÊNCIA DE DECRÉSCIMO REMUNERATÓRIO. RECURSO CONHECIDO E PROVIDO. SENTENÇA DE PROCEDÊNCIA REFORMADA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a apreciar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 8.270/91 e 12.778/2012), o que torna incognoscível o apelo extremo.
+    Cabe destacar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que a 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional e em aspectos fático-probatórios:
+    “Inicialmente ressalto que não há direito adquirido a regime jurídico, de forma que possível alteração da legislação, redução de percentuais e até mesmo a supressão de rubricas, ressalvando-se, contudo, a garantia de irredutibilidade nominal dos vencimentos. Entendimento este já consagrado pelos Tribunais Superiores.
+    Ressalta-se que, segundo a parte ré afirma, a VPNI foi suprimida em decorrência de sua absorção reestruturação levada a cabo pela Lei 12.778/2012. Ou seja, houve nova definição de parâmetro remuneratório básico para a carreira.
+    Observa-se dos autos que, em razão de determinação do Plenário do Tribunal de Contas da União recomendou-se, a Secretaria de Recursos Humanos a automação e controle sistêmico da absorção da VPNI, resultando na supressão em fev/2014 da referida rubrica.
+    A VPNI em questão era paga em razão do art. 12, § 4º, da Lei 8.270/91.
+    Art. 12. Os servidores civis da União, das autarquias e das fundações públicas federais perceberão adicionais de insalubridade e de periculosidade, nos termos das normas legais e regulamentares pertinentes aos trabalhadores em geral e calculados com base nos seguintes percentuais:
+    I – cinco, dez e vinte por cento, no caso de insalubridade nos graus mínimo, médio e máximo, respectivamente;
+    II – dez por cento, no de periculosidade.
+    § 1º O adicional de irradiação ionizante será concedido nos percentuais de cinco, dez e vinte por cento, conforme se dispuser em regulamento. (Regulamento)
+    § 2º A gratificação por trabalhos com Raios X ou substâncias radioativas será calculada com base no percentual de dez por cento.
+    § 3º Os percentuais fixados neste artigo incidem sobre o vencimento do cargo efetivo.
+    § 4° O adicional de periculosidade percebido pelo exercício de atividades nucleares é mantido a título de vantagem pessoal, nominalmente identificada, e sujeita aos mesmos percentuais de revisão ou antecipação dos vencimentos.
+    § 5º Os valores referentes a adicionais ou gratificações percebidos sob os mesmos fundamentos deste artigo, superiores aos aqui estabelecidos, serão mantidos a título de vantagem pessoal, nominalmente identificada, para os servidores que permaneçam expostos à situação de trabalho que tenha dado origem à referida vantagem, aplicando-se a esses valores os mesmos percentuais de revisão ou antecipação de vencimentos.
+    Com transformação de determinada parcela estipendial em VPNI, esta se desvincula da natureza da verba anterior qualquer que fosse; verba indenizatória por exposição a agente nocivo ou perigoso, verba remuneratória por desempenho, ou incorporação por desempenho de atividade de confiança.
+    A rubrica VPNI, como já mencionado, não detém a natureza da verba que substitui. Mas objetiva evitar, em dado momento, a redução nominal dos vencimentos, ante a alteração da legislação, do regime jurídico do servidor público. Ou seja, é apenas mecanismo para evitar o decréscimo nominal estipendial.”
+    Impende registrar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 851.676/PE, Rel. Min. DIAS TOFFOLI – ARE 981.403/RS, Rel. Min. GILMAR MENDES – RE 819.458/PE, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Vê-se, desse modo, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro CELSO DE MELLO
+Relator
