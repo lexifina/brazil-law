@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo de instrumento cujo objeto é a decisão que não admitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, em que se decidiu pela reinclusão do candidato/recorrido aos quadros da Polícia Militar de Minas Gerais após a anulação do exame psicotécnico (eDOC 6, p. 145).
+    Em 12.12.2016, determinei a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral relativamente ao Tema 338 (AI 758.533), nos termos do art. 328 do RISTF (eDOC 7, p. 118-119).
+    Em despacho exarado pela Vice-Presidência do Tribunal de origem, foi restituído os autos a esta Corte para eventual reexame, no seguintes termos (eDOC 7, p. 122-123):
+    “Verifica-se que o referido paradigma reafirmou a jurisprudência segundo a qual a exigência do exame psicotécnico em concurso público depende de previsão legal e editalícia e deve seguir critérios objetivos
+    Contudo, o mencionado paradigma, indicado na decisão ora agravada, não abrange a peculiaridade existente no presente feito, já que a Turma Julgadora concluiu pela reinclusão do ora agravado nos quadros da PMMG, por considerar a prevalência do laudo judicial sobre o laudo oficial, “já que observou os mesmos parâmetros e técnicas previstos no edital do concurso público, observando-se que apontou, de forma clara, falhas de aplicação do exame psicológico realizado pela PMMG”. (fl. 340)
+    Assim, constatado que a hipótese dos autos não coincide com aquela objeto do paradigma AI nº 758.533-RG nem com as demais temáticas submetidas à sistemática da repercussão geral, não sendo possível adotar, neste feito, o procedimento previsto no artigo 328 do RISTF, determina-se a devolução dos autos ao Supremo Tribunal Federal.”
+    Após detida análise, reconsidero a decisão anterior e passo a um novo exame do recurso extraordinário.
+    Trata-se de agravo de instrumento cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas gerais, assim ementado (eDOC 6, p. 145):
+    “EMENTA: ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. CANDIDATO ELIMINADO NO EXAME PSICOTÉCNICO. SUBJETIVIDADE DO EXAME. APTDÃO DO CANDIDATO CONFIRMADA POR MEIO DE PERÍCIA JUDICIAL. ANULAÇÃO DO ATO ADMINISTRATIVO. REINCLUSÃO DO CANDIDATO AOS QUADROS DA PMMG. RECEBIMENTO DOS ATRASADOS. CABIMENTO. SENTENÇA REFORMADA PARCIALMENTE EM REEXAME.”
+    Os embargos de declaração foram rejeitados (eDOC 6, p. 163).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º; 37, caput e incisos I e II; e 39 § 3º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que“a realização dos exames psicológicos é não só razoável (a exigência legal é proporcional em relação aos fins que deseja alcançar) mas também indispensável para seleção de candidatos realmente aptos para o exercício da função atribuída ao cargo de militar.” (eDOC 7, p. 45).
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 279 do STF (eDOC 7, p. 81-83).
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos ao analisar o RE-RG 1.133.146, de relatoria do Ministro Luiz Fux, DJe 26.9.2018 (Tema 1.009), em que reconheceu a repercussão geral da matéria aqui em discussão e reafirmou a jurisprudência desta Corte, firmando o entendimento de que “uma vez que há previsão em lei e em edital para a realização do exame psicológico, a submissão e aprovação em referido teste se torna condição para prosseguimento nas fases seguintes do certame, sob pena de grave ofensa aos princípios da isonomia e legalidade.” Na oportunidade, a ementa restou assim redigida:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO COM PREVISÃO NO EDITAL E NA LEI. AUSÊNCIA DE CRITÉRIOS OBJETIVOS DE AVALIAÇÃO NO EDITAL. NULIDADE DO EXAME PSICOTÉCNICO. CONTROVÉRSIA QUANTO À NECESSIDADE DE REALIZAÇÃO DE NOVA AVALIAÇÃO PSICOLÓGICA PARA O PROSSEGUIMENTO NO CERTAME. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem, para adequação ao disposto no art. 1.040 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
