@@ -1,0 +1,24 @@
+Decisão: Trata-se agravo cujo objeto é a decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, de seguinte teor (eDOC 1, p. 246):
+    “Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea "a", da Constituição da República, por indicada violação aos seguintes dispositivos constitucionais: 1º, III, 201, §4º, 5º, XXXV.
+    O recorrente aponta a existência de repercussão geral de questão constitucional, exigência contida no art. 1035, §2º, do Código de Processo Civil, matéria cuja apreciação é da competência do C. Supremo Tribunal Federal.
+    No entanto, o recurso não merece trânsito. Com efeito, os dispositivos constitucionais tidos como violados nas razões de reclamo extraordinário não foram apreciados pelo acórdão hostilizado de modo explícito como é exigido, faltando, assim, o requisito do prequestionamento. Incidente, portanto, a Súmula 282 do Col. Supremo Tribunal Federal.
+    Ademais, o exame de dispositivos de lei federal é inviável em sede de recurso extraordinário porque exorbita dos limites da competência da Corte Suprema constitucionalmente estabelecidos. Nesse sentido: ARE 917.089 AgR/PR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 24/11/2015; ARE 871.247 ED/PB, Primeira Turma, Rel. Min. Rosa Weber, DJe de 25/11/2015.
+    Inadmito, pois, o recurso extraordinário com fundamento no art. 1.030, inciso V, do Código de Processo Civil.”
+    Nas razões do agravo, sustenta-se, em suma (eDOC 1, p. 254):
+    “... a decisão proferida pelo Presidente da Seção de Direito Público – QUE NÃO TEM COMPETÊNCIA PARA REALIZAR O JUÍZO DE ADMISSIBILIDADE DOS RECURSOS ESPECIAIS - invadiu a esfera de competência deste E. STF, pois, ao analisar a admissibilidade do recurso, foi além dos poderes constitucional e legalmente conferidos, pois julgou o mérito do recurso e não os requisitos de admissibilidade.
+    Ao final, reitera-se as razões do extraordinário.
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos de natureza extraordinária é aferida tanto na origem quanto no destino e que sua realização pelo juízo a quo não importa em usurpação da competência desta Corte. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Nesse sentido:
+    “Embargos de declaração no agravo de instrumento. Recebimento como agravo regimental. Juízo de admissibilidade de recurso extraordinário efetuado pela Corte de origem e análise do seu mérito por esta Corte, em autos de agravo de instrumento. Possibilidade. Precedentes. 1. O juízo prévio de admissibilidade de recursos dirigidos a este Supremo Tribunal Federal deve ser feito pelos Tribunais de origem, sem que isso implique usurpação de competência desta Corte. 2. Discordando a parte da decisão assim proferida, incumbe-lhe interpor agravo de instrumento, que necessariamente será encaminhado a esta Suprema Corte, que poderá apreciar não apenas o aludido juízo de admissibilidade feito pela Corte de origem, mas o próprio mérito da insurgência recursal. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (AI 815975 ED, Primeira Turma, Rel. Min. Dias Toffoli, DJe 14.9.2012)
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal.” (AI 178743 AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 16.5.1997)
+    Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, constata-se que a Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando a incidência à espécie do óbice da Súmula 282, bem como a inviabilidade do exame de dispositivos de lei federal em sede de recurso extraordinário (eDOC 1, p. 246). Entretanto, a parte agravante limitou-se a discorrer sobre possível usurpação pela Corte de origem da jurisdição de titularidade exclusiva deste Supremo Tribunal Federal e a reiterar as razões do extraordinário, não impugnando, especificamente, os fundamentos da decisão agravada.
+    Sendo assim, torna-se inviável o conhecimento do presente recurso, diante do óbice da Súmula 287 do STF.
+    Ante o exposto, não conheço agravo, nos termos do art. 932, III, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
