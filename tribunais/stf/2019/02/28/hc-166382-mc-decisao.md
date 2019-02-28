@@ -1,0 +1,19 @@
+DECISÃO
+PENA-BASE – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Décima Terceira Vara da Seção Judiciária de Pernambuco, no processo nº 2006.83.00.001887-0, condenou o paciente a 8 anos de reclusão, em regime inicial de cumprimento semiaberto, e ao pagamento de 140 dias-multa, em virtude da prática da infração descrita no artigo 312, cabeça (peculato), por nove vezes, na forma do artigo 71 (crime continuado), do Código Penal. Na dosimetria, valorou negativamente as circunstâncias judiciais relativas a culpabilidade e personalidade, bem assim os motivos, contornos e consequências do crime. Impôs a pena-base em 6 anos, tendo em vista o piso de 2 e o teto de 12 anos. Apontou ausentes atenuantes e agravantes. Fez incidir, na fração de 1/3, o aumento decorrente da continuidade delitiva. Embargos declaratórios da acusação foram providos para corrigir erro material.
+    Formalizadas apelações pela defesa e pelo Ministério Público, a Segunda Turma do Tribunal Regional Federal da 5ª Região, ao provê-las, promoveu a desclassificação da conduta para a versada no artigo 1º, inciso I (desvio de verba pública em proveito próprio ou alheio), do Decreto-Lei nº 201/1967. Manteve a consideração negativa da culpabilidade e das consequências do crime, estabelecendo a pena-base em 4 anos e 6 meses. Elevou o percentual da causa de aumento alusiva à continuidade delitiva para 1/2, tornando definitiva a sanção em 6 anos e 9 meses de reclusão. Impôs a pena de inabilitação para o exercício de cargo ou função pública pelo período de 5 anos. Embargos infringentes foram parcialmente conhecidos e, nessa extensão, desprovidos. Protocolado recurso especial, foi inadmitido na origem.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo em recurso especial nº 514.979/PE. O Relator dele conheceu para desprover o recurso especial. Na sequência, foram interpostos: agravo interno, desprovido pela Quinta Turma, embargos declaratórios, sem êxito, recurso extraordinário, sendo obstado o processamento, agravo interno, desprovido, novos embargos de declaração, desprovidos. O trânsito em julgado da condenação ocorreu em 3 de dezembro de 2018.
+    A impetrante sustenta a erronia da valoração negativa da culpabilidade e das consequências do crime, tendo-a como lastreada em elementos inerentes ao tipo penal. Diz configurada dupla punição. Salienta a iminência da determinação da execução da sanção.
+    Requer, no campo precário e efêmero, a suspensão da execução da pena até o julgamento definitivo da impetração. No mérito, busca a fixação da pena-base no mínimo legal.
+    A fase é de exame da medida acauteladora.
+    2. O Tribunal Regional Federal, estabeleceu a pena-base em 4 anos e 6 meses, patamar acima do mínimo previsto para o tipo, tendo em vista o piso de 2 e o teto de 12 anos. Assentou negativas a culpabilidade, uma vez configurada postura de poder do Secretário de Finanças do Município de Timbaúba/PE, a ponto de praticar atos não autorizados em lei, e as consequências da infração, ante os prejuízos causados aos cofres públicos, no valor de R$ 279.378,81. A dosimetria resolve-se, em regra, no campo do justo ou injusto. Difícil é o pronunciamento judicial a encerrar ilegalidade.
+    Quanto à alegação de haverem sido levados em conta elementos constitutivos do crime para a valoração negativa de circunstância judicial, inexiste sobreposição. Para o tipo são previstas pena mínima e máxima. A definição da adequada ocorre considerados os contornos da conduta delituosa.
+    Não há relevância a conduzir, no campo precário e efêmero, à providência pretendida.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 28 de fevereiro de 2019.
+Ministro MARCO AURÉLIO
+Relator
