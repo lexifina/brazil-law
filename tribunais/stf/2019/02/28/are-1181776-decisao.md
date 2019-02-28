@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado: (eDOC 1, p. 174)
+    REEXAME NECESSÁRIO – APELAÇÃO CÍVEL – FORNECIMENTO DE MEDICAMENTOS – DIREITO À SAÚDE – RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS – NECESSIDADE COMPROVADA – VERBA HONORÁRIA – DEFENSORIA PÚBLICA – ATUAÇÃO CONTRA PESSOA QUE INTREGRA A MESMA FAZENDA PÚBLICA – IMPOSSIBILIDADE – SÚMULA 421 DO C. STJ – CONDENAÇÃO AO PAGAMENTO DE CUSTAS – POSSIBILIDADE – EXCEPCIONALIDADE DO CASO CONCRETO – RECURSOS NÃO PROVIDOS – SENTENÇA MANTIDA.
+    1. O Poder Público é obrigado a prestar os serviços necessários à saúde dos cidadãos, inclusive com a necessidade de internação e fornecimento de medicamentos e realização de tratamentos e exames médicos, sobretudo para os mais necessitados. Trata-se, em verdade, da obrigação estatal de implementação do direito à vida (artigo 5º caput da CRFB/88) e da observância do princípio constitucional da dignidade da pessoa humana, insculpido no artigo 1º, inciso III, da Carta Magna brasileira.
+    2. O fato de o medicamento indicado para o tratamento da patologia não estar padronizado na Relação Estadual de Medicamentos Essenciais e Excepcionais (REMEME) e na Relação Nacional de Medicamentos Essenciais (RENAME) não constitui motivo idôneo a obstar o fornecimento ao paciente, na medida em que devidamente registrado na Agência Nacional de Vigilância Sanitária (ANVISA).
+    3. Sobre a fixação de honorários em favor da defensoria pública, o Superior Tribunal de Justiça já se manifestou, tendo editado a Súmula nº 421 que possuiu o seguinte enunciado: Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+    4. A teor do que dispõe o art. 4º, inciso XXI, da Lei Complementar nº 80/1994, embora seja possível a fixação de honorários sucumbenciais ao final da demanda, para a Defensoria Pública enquanto instituição, em observância à regra de sucumbência contida no artigo 20 do Código de Processo Civil, nas demandas patrocinadas pela Defensoria Pública em que a parte vencida for a própria pessoa jurídica de direito público à qual fizer parte, será indevida a verba honorária sucumbencial, em razão da evidente a confusão entre a pessoa do credor e a do devedor, prevista nos arts. 381, do Código Civil de 2002 (art. 1.0449 do Código Civil de 1916), e 267, X, do Código de Processo Civil.
+    5. Com relação às custas processuais, extrai-se do inc. V e do § 1º do art. 20 da Lei Estadual nº 9.974/2013 que o Estado do Espírito Santo está dispensado do pagamento de custas processuais, exceto se o processo tramitou em serventia judicial não oficializada, que é a hipótese dos autos.
+    6. Tratando-se de serventia não oficializada, as custas processuais serão destinadas ao particular delegatário, e não ao próprio Estado, que, dessa forma, não ostenta simultaneamente as qualidades de credor e devedor.
+    7. Por outro lado, não se verifica a alegada inconstitucionalidade do § 1º acima transcrito, por suposta incompatibilidade com o disposto no art. 31 do ADCT: “Serão estatizadas as serventias do foro judicial, assim definidas em lei, respeitados os direitos dos atuais titulares”. Isso porque, a serventia da 1ª Vara da Fazenda Pública Estadual de Vitória, ao que tudo indica, permanece não estatizada com amparo na exceção contida na parte final do dispositivo constitucional em comento. Nesses termos, sua receita não se caracteriza como pública, tampouco reverte-se aos cofres da Administração.
+    8. Apelos não providos. Reexame Necessário conhecido e sentença mantida.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 31 do ADCT.
+    Nas razões recursais, sustenta-se, em síntese, a impossibilidade de se condenar o Estado ao pagamento de custas cartorárias para si próprio, mesmo que se trate de serventia não oficializada (eDOC 1, p. 204).
+    A Vice-Presidência do TJ/ES inadmitiu o recurso extraordinário em virtude de incidir, na hipótese, a Súmula 280 do STF (eDOC 1, pp. 214-216).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 1, pp. 178-191):
+    “(...)
+    Com relação ao apelo do autor, a controvérsia diz respeito à existência ou não de confusão entre credor e devedor, no que se refere ao recebimento de honorários advocatícios sucumbenciais em demanda patrocinada pela Defensoria Pública Estadual contra o Estado do Espírito Santo.
+    O Superior Tribunal de Justiça, já se manifestou sobre o tema inúmeras vezes, tendo editado a Súmula nº 421 que possuiu o seguinte enunciado: Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra pessoa jurídica de direito público à qual pertença.
+    (...)
+    Também não merece prosperar a irresignação do Estado com relação à condenação ao pagamento das custas processuais.
+    Extrai-se do inc. V e do § 1º do art. 20 da Lei Estadual nº 9.974/2013 que o Estado do Espírito Santo está dispensado do pagamento de custas processuais, exceto se o processo tramitou em serventia judicial não oficializada, que é a hipótese dos autos (...).
+    Assim, tratando-se de serventia não oficializada, as custas processuais serão destinadas ao particular delegatário, e não ao próprio Estado, que, dessa forma, não ostenta simultaneamente as qualidades de credor e devedor.
+    (...).”
+    Sendo esses os fundamentos acolhidos pelo acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie (Lei Estadual 9.974/2013), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Ademais, esta Corte, ao apreciar o que o AI 826496 RG, Rel. Min. Gilmar Mendes, DJe 24.5.2011, sob a sistemática da repercussão geral, Tema 389, decidiu pela ausência de repercussão geral da questão relativa à subsistência da isenção na legislação estadual relativa à custas e emolumentos cobrados da Fazenda Pública. Confira-se, a propósito, a ementa do acórdão:
+    “Custas e emolumentos cobrados da Fazenda Pública pelo Judiciário estadual. Controvérsia quanto à subsistência de isenção na legislação estadual. Discussão restrita ao âmbito infraconstitucional. Repercussão geral rejeitada.”
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2019.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
