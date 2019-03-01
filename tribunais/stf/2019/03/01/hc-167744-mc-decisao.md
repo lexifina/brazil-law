@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+RECURSO ORDINÁRIO EM HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Barra Mansa/RJ, no processo nº 0015756-96.2018.8.19.0007, ao receber a denúncia, determinou as prisões preventivas do paciente e de outras pessoas, em virtude do suposto cometimento da infração prevista no artigo 2º, cabeça, combinado com o § 4º, inciso II (integrar organização criminosa com causa de aumento por concurso de funcionário público), da Lei nº 12.850/2013. Reportando-se ao conteúdo de interceptações telefônicas judicialmente autorizadas, destacou a existência de grupo criminoso estruturado, com atuação no âmbito de posto de vistoria do Departamento de Trânsito do Estado do Rio de Janeiro – DETRAN/RJ, na qual os envolvidos – vistoriadores e despachantes –, com o fim de proceder à aprovação de veículos desprovidos de condições ou com pendências, solicitavam e recebiam vantagens indevidas. Frisou que, mesmo após a atuação da Corregedoria do DETRAN, a prática delituosa persistiu. Concluiu ser indispensável a custódia para garantir a ordem pública, ante a gravidade das condutas, ressaltando demonstradas a estabilidade da organização criminosa e o risco de reiteração delitiva. Afirmou a necessidade da medida para a conveniência da instrução processual e a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 106.565. O Relator indeferiu a liminar.
+    O impetrante sustenta a insubsistência dos fundamentos do ato por meio do qual imposta a preventiva. Realça a ausência de indicação individualizada de fatos a evidenciarem e imprescindibilidade da prisão. Sublinha cabíveis medidas cautelares diversas, consistentes no afastamento das funções, incomunicabilidade com outros denunciados e comparecimento mensal ao Juízo. Evoca condições pessoais favoráveis do paciente – primário, sem antecedentes criminais, com residência fixa e família constituída.
+    Requer, no campo precário e efêmero, a revogação da custódia, com expedição de alvará de soltura ou contramandado de prisão e, sucessivamente, a imposição de cautelares diversas. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou que o processo-crime encontra-se na fase de citação dos acusados, não havendo notícia do cumprimento do mandado de prisão.
+    A etapa é de apreciação da medida de urgência.
+    2. O Juízo, ao determinar a prisão preventiva, assentou que o paciente, vistoriador, teria, presente a organização criminosa, praticado o crime de corrupção passiva. Destacou a existência de conteúdo de interceptações telefônicas, autorizadas judicialmente, nas quais revelada a atuação delitiva do grupo – composto por agentes públicos – responsável pela cobrança de valores indevidos para a aprovação e liberação de Cadastros de Registro e Licenciamento de Veículos no Detran de Barra Mansa/RJ. O quadro indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. O curso desta impetração não prejudica o do recurso em habeas corpus nº 106.565, do Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Antonio Saldanha Palheiro.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 1º de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
