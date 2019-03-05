@@ -1,0 +1,7 @@
+Art. 7º-A Ao aluno regularmente matriculado em instituição de ensino pública ou privada, de qualquer nível, é assegurado, no exercício da liberdade de consciência e de crença, o direito de, mediante prévio e motivado requerimento, ausentar-se de prova ou de aula marcada para dia em que, segundo os preceitos de sua religião, seja vedado o exercício de tais atividades, devendo-se-lhe atribuir, a critério da instituição e sem custos para o aluno, uma das seguintes prestações alternativas, nos termos do inciso VIII do caput do art. 5º da Constituição Federal:
+I - prova ou aula de reposição, conforme o caso, a ser realizada em data alternativa, no turno de estudo do aluno ou em outro horário agendado com sua anuência expressa;
+II - trabalho escrito ou outra modalidade de atividade de pesquisa, com tema, objetivo e data de entrega definidos pela instituição de ensino.
+§ 1º A prestação alternativa deverá observar os parâmetros curriculares e o plano de aula do dia da ausência do aluno.
+§ 2º O cumprimento das formas de prestação alternativa de que trata este artigo substituirá a obrigação original para todos os efeitos, inclusive regularização do registro de frequência.
+§ 3º As instituições de ensino implementarão progressivamente, no prazo de 2 (dois) anos, as providências e adaptações necessárias à adequação de seu funcionamento às medidas previstas neste artigo.
+§ 4º O disposto neste artigo não se aplica ao ensino militar a que se refere o art. 83 desta Lei.
