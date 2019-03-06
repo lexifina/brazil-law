@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que julgou parcialmente procedente ação direta de inconstitucionalidade.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 21, caput, § 1º, e 22, caput, 37, II e IX, da CF, pede para conferir, “ao inciso II do § 1º do artigo 231, da Lei Complementar nº 003/1993, do Município de Além Paraíba/ MG, interpretação aditiva conforme o artigo 37, II e IX, da CR, uma vez que o dispositivo, como redigido, viola os ditames constitucionais acerca da contratação temporária de excepcional interesse público”.
+    O recurso não deve ser provido, uma vez que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal (STF), que, no julgamento do RE 658.026-RG, sob a relatoria do Ministro Dias Toffoli, reconheceu a existência de repercussão geral da discussão acerca dos requisitos da temporariedade e da excepcionalidade justificadores para contratação de temporários sem concurso público.
+    No julgamento do mérito da questão, o STF assentou, entre outros pontos, que o “conteúdo jurídico do art. 37, inciso IX, da Constituição Federal pode ser resumido, ratificando-se, dessa forma, o entendimento da Corte Suprema de que, para que se considere válida a contratação temporária, é preciso que: a) os casos excepcionais estejam previstos em lei; b) o prazo de contratação seja predeterminado; c) a necessidade seja temporária; d) o interesse público seja excepcional; e) a necessidade de contratação seja indispensável, sendo vedada a contratação para os serviços ordinários permanentes do Estado, e que devam estar sob o espectro das contingências normais da Administração”.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 06 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
