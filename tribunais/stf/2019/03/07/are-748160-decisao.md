@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Paraná confirmou o entendimento do Juízo quanto à procedência do pedido de indenização por danos morais decorrentes de erro médico. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação do artigo 5º, cabeça e incisos I, LIV e LV, da Constituição Federal. Alega contrariados os princípios da igualdade, da ampla defesa e do contraditório. Argui a nulidade da sentença por desrespeito ao devido processo legal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem expressamente consignou ter a sentença penal condenatória reconhecido a falha na prestação do serviço prestado. Colho do acórdão recorrido os seguintes trechos:
+    AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ERRO MÉDICO - MORTE DE MENOR EM CONSEQUÊNCIA DE CHOQUE SÉPTICO DECORRENTE DE PNEUMONIA BILATERAL - ERRO NA CONCLUSÃO DE DIAGNÓSTICO QUE LEVOU AO FALECIMENTO DA VÍTIMA RECONHECIMENTO DA AUTORIA E DA MATERIALIDADE PELO JUIZO CRIMINAL - SENTENÇA PENAL CONDENATÓRIA COM TRÂNSITO EM JULGADO - ARTIGO 935, DO CÓDIGO CIVIL - NEGLIGÊNCIA E IMPERÍCIA DO MÉDICO E PRIMEIRO RÉU CONFIGURADAS - SENTENÇA PARCIALMENTE PROCEDENTE - APELAÇÃO CÍVEL - DESNECESSIDADE DE PROVA DOS SOFRIMENTOS SUPORTADOS QUANDO RESULTANTES DO FALECIMENTO DE UM FILHO - REDUÇÃO DO QUANTUM INDENIZATÓRIO - APELO PARCIALMENTE PROVIDO.
+    1. Na fixação da indenização por danos morais, deve-se considerar fatores tais como a culpabilidade e a capacidade econômica do ofensor, a gravidade do ato, o grau de ofensa, a extensão do dano, a dor e o sofrimento da vítima.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Ora, nem como muito empenho seria dado concluir pela violação aos preceitos constitucionais indicados.
+    A par desse aspecto, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, relator ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
