@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa reproduzo a seguir (eDOC 1, p. 220):
+    “TRIBUTÁRIO - ILEGITIMIDADE PASSIVA REJEITADA - CONTRIBUIÇÃO E ADICIONAL INCIDENTES SOBRE AÇÚCAR E ÁLCOOL - DECRETOS-LEI 308/67, 1.712/79, 1.952/82 E ATOS 15 E 23 PELO IAA – CONSTITUCIONALIDADE.
+    Rejeitada a preliminar de ilegitimidade passiva da autoridade apontada como coatora, pois a autoridade impetrada, juntamente com o Procurador da Fazenda Nacional, ao prestar informações, ingressou no mérito do ato impugnado, o que permite o reconhecimento da encampação do ato coator praticado.
+    O entendimento predominante é de que o Decreto 1.952/82, não criou nova hipótese de incidência, mas tão só alterou a alíquota da contribuição, consoante expressa autorização conferida ao executivo.
+    Não há ilegalidades nas alíquotas fixadas pelo IAA no período indicado na inicial, eis que dentro dos limites legais.”
+    Os embargos de declaração foram desprovidos (eDOC 1, p. 267).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV, LIV e LV; 37, caput; 93, IX; 149; 150, I, da Constituição Federal, bem como o artigo 25, I , ADCT.
+    Nas razões recursais, sustenta-se a impossibilidade de modificação da alíquota da contribuição social para o IAA, por meio de Decreto, a partir da promulgação da CF/88 (eDOC 1, p. 276).
+    Articula, ainda, com a falta de publicidade dos atos que implicaram a fixação das alíquotas.
+    A Vice-Presidência do TRF da 3ª Região admitiu o recurso por reputar preenchidos os requisitos de admissibilidade.
+    Decido.
+    Inicialmente, verifico que a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a contribuição para o Instituto do Açúcar e do Álcool e seu respectivo adicional foram recepcionados pela ordem constitucional vigente, porém restou assentado a inconstitucionalidade de alterações posteriores por autoridade administrativa:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO DEVIDA AO INSTITUTO DO AÇÚCAR E DO ÁLCOOL - IAA. A CF/88 RECEPCIONOU O DL 308/67, COM AS ALTERAÇÕES DOS DECRETOS-LEIS 1712/79 E 1952/82. Ficou afastada a ofensa ao art. 149, da CF/88, que exige lei complementar para a instituição de contribuições de intervenção no domínio econômico. A contribuição para o IAA é compatível com o sistema tributário nacional. Não vulnera o art. 34, § 5º, do ADCT/CF/88. É incompatível com a CF/88 a possibilidade da alíquota variar ou ser fixada por autoridade administrativa. Recurso não conhecido.” (RE 214206, Redator p/ Ac. Min. Nelson Jobim, Tribunal Pleno, DJ 29.05.1998)
+    “Contribuição devida ao Instituto do Açúcar e do Álcool - IAA. - O Plenário desta Corte, ao julgar o RE 158.208, reconheceu a constitucionalidade, em face da Constituição de 1967 e da Emenda Constitucional nº 1/69, da contribuição instituída em favor do IAA pelo Decreto-Lei 308/67, alterado pelos Decretos-Leis 1.712/79 e 1.952/82. - De outra parte, ao julgar o RE 214.206, esse mesmo Plenário não só afastou, com relação a essa contribuição, a alegação de ofensa ao artigo 149 da Constituição de 1988, mas também a entendeu recebida por esta em consonância com o disposto no artigo 34, § 5º, do ADCT, só se tendo por incompatível com a referida Carta Magna a possibilidade de a alíquota dessa contribuição variar ou ser fixada por autoridade administrativa, dado o princípio da legalidade. Recurso extraordinário conhecido e provido.”
+(RE 238166, Rel. Min. Moreira Alves, Primeira Turma, DJ 10.08.2001)
+    Assim, o acórdão recorrido divergiu do entendimento iterativo do Supremo Tribunal Federal, segundo o qual o marco temporal de imodificabilidade do aspecto quantitativo da contribuição ao Instituto do Açúcar e do Álcool é a promulgação da Constituição Federal de 1988, tal como previsto no artigo 34, §2º, do ADCT.
+    Cito, a esse respeito, a ementa do RE-AgR 597.098, de relatoria do Ministro Joaquim Barbosa, Segunda Turma, DJe 17.11.2011:
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. CONTRIBUIÇÃO AO INSTITUTO DO AÇÚCAR E DO ÁLCOOL. RECEPÇÃO PELA CONSTITUIÇÃO DE 1988. A DELEGAÇÃO DE COMPETÊNCIA PARA FIXAÇÃO DE ALÍQUOTAS NÃO FOI RECEPCIONADA. ALCANCE DOS PRECEDENTES. É compatível com os precedentes desta Corte a decisão que reconhece a recepção das exações pela Constituição de 1988, mas estabelece que após a referida promulgação a alíquota não pode ser modificada por entidade desprovida de mandato legislativo, de modo que o tributo deve ser calculado de acordo com a alíquota válida no momento da promulgação. Agravo regimental ao qual se nega provimento” (grifos nossos)
+    Mesmo entendimento sufragou a Primeira Turma desta Corte, conforme se depreende de excerto do voto do Ministro-Relator Marco Aurélio no âmbito do RE-AgR 545.470, Primeira Turma, DJe 13.02.2014: “Assiste razão às recorrentes quanto à inconstitucionalidade das alterações mediante ato administrativo ulterior à Lei Fundamental de 1988”.
+    Ante o exposto, conheço do recurso extraordinário, nos termos do art. 21, §2º, do RISTF, de modo a conceder a segurança, para fins de consignar a inexigibilidade da contribuição com base em alíquota prevista em ato administrativo do IAA posterior à promulgação da Constituição Federal de 1988.
+    Custas ex lege.
+    Incabível condenação em honorários sucumbenciais, nos termos da Súmula 512 do STF.
+    Publique-se.
+    Brasília, 7 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
