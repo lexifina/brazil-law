@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. RESERVA DE LEI COMPLEMENTAR PARA A ESTIPULAÇÃO DOS REQUISITOS PARA SUA CONCESSÃO. REQUISITOS DO ART. 14 DO CTN PREENCHIDOS. EXPEDIÇÃO DE CERTIDÃO DE REGULARIDADE FISCAL. POSSIBILIDADE.
+    I- A presunção de certeza e liquidez da Certidão de Dívida Ativa, por si só, não elide a discussão judicial, por mandado de segurança, do correspondente débito fiscal executado, notadamente quando a causa de pedir do writ envolver discussão sobre a configuração ou não de uma limitação ao poder de tributar, como é o caso da imunidade.
+    II- Compete à lei ordinária a estipulação de requisitos que digam respeito apenas à constituição e funcionamento das entidades beneficentes imunes, porquanto a regulação de qualquer limitação ao poder de tributar, aí se incluindo a previsão das condições necessárias para ter direito à determinada imunidade, só pode ocorrer mediante lei complementar, nos termos do art. 146, II da CF/88 (orientação do STF, cf. ADInMC n° 1.802-DF).
+    III- A restrição da aplicação da regra da imunidade aos impostos, procedida pelo caput do art. 9° do CTN, ao qual faz remissão o art. 14 do mesmo diploma legal, não obsta sua extensão às contribuições sociais, vez que, em relação a estas últimas, é a própria Constituição Federal quem o faz.
+    IV- Restando comprovado que o impetrante atendeu aos requisitos necessários para o gozo da imunidade prevista no art. 195, § 7° da CF/88, bem como não havendo nos autos prova de descumprimento de qualquer obrigação acessória que condicione a expedição de certidões de regularidade fiscal, não há como negar-lhe o direito de obtê-las frente ao INSS.
+    V- Apelação e remessa oficial improvidas.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 195, § 7°, da CF. Sustenta que: (i) a disposição constitucional, ao falar em lei, teve o intuito de exigir a edição de lei ordinária; (ii) a concessão da imunidade depende do atendimento dos requisitos do art. 55 da Lei nº 8.212/1991; (iii) a entidade não apresentou o Certificado de Entidade Beneficente de Assistência Social – CEBAS.
+    A pretensão recursal não merece prosperar, uma vez que o acórdão recorrido está alinhado ao entendimento desta Corte, que, no julgamento do RE 566.622-RG, decidiu que somente lei complementar pode estabelecer requisitos para a concessão de imunidade tributária. Naquela assentada, foi fixada a seguinte tese, para fins de repercussão geral: Os requisitos para o gozo de imunidade hão de estar previstos em lei complementar.
+    Com o julgamento do mencionado recurso, realizado sob a sistemática da repercussão geral, os requisitos necessários para a fruição da imunidade são aqueles previstos no art. 14 do Código Tributário Nacional. Em consequência, todos os requisitos relacionados em lei ordinária, a exemplo da exigência do CEBAS, são inválidos, em razão de inconstitucionalidade formal.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 07 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
