@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Associação Prudentina de Educação e Cultura (Apec). Aparelhado o recurso na afronta ao art. 155, § 2º, IX, “a”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo a não ocorrência de afronta ao art. 155, § 2º, IX, “a”, da Constituição da República. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. PREENCHIMENTO DOS REQUISITOS LEGAIS PARA CONCESSÃO DA IMUNIDADE TRIBUTÁRIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. IMPORTAÇÃO. DESEMBARAÇO ADUANEIRO. INCIDÊNCIA DE ICMS. CONTRIBUINTE NÃO HABITUAL DO TRIBUTO. POSSIBILIDADE. PRECEDENTE. CONTRARRAZÕES APRESENTADAS. MAJORAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE: AÇÃO NA ORIGEM NÃO SUJEITA À FIXAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 974826 AgR, Relator(a): Min. Cármen Lúcia, Segunda Turma, julgado em 09.9.2016, PROCESSO ELETRÔNICO DJe-203 DIVULG 22.9.2016 PUBLIC 23.9.2016)
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Ementa: CONSTITUCIONAL E TRIBUTÁRIO. ART. 155, §2º, IX, DA CONSTITUIÇÃO FEDERAL. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIA E SERVIÇOS – ICMS. OPERAÇÕES DE IMPORTAÇÃO. ESTADO APTO AO RECOLHIMENTO. LOCALIZAÇÃO DO ESTABELECIMENTO DESTINATÁRIO, INDEPENDENTEMENTE DO LOCAL DO DESEMBARAÇO ADUANEIRO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 279 DO STF. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o sujeito ativo do ICMS é o Estado-membro para o qual, efetivamente, destinou-se a mercadoria importada, independentemente do local do desembaraço aduaneiro. 2. Agravo regimental a que se nega provimento.”
+(RE 460118 AgR-segundo, Relator(a): Min. Teori Zavascki, Segunda Turma, julgado em 18.02.2014, ACÓRDÃO ELETRÔNICO DJe-046 DIVULG 07.03.2014 PUBLIC 10.03.2014)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de março de 2019.
+Ministra Rosa Weber
+Relatora
