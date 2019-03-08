@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo, interposto pelo Estado de São Paulo e por São Paulo Previdência – SPPREV, cujo objeto é a decisão que inadmitiu recurso extraordinário e de recurso extraordinário, interposto por Marcus Vinicius Feltrim Aquotti. Os extraordinários foram interpostos em face de acórdão da 13ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 183):
+    “MANDADO DE SEGURANÇA - APOSENTADORIA ESPECIAL - POLICIAL CIVIL - PRETENSÃO À INTEGRALIDADE E PARIDADE - Têm direito à aposentadoria especial os policiais civis com, pelo menos, 30 anos de contribuição previdenciária e 20 anos de atividade estritamente policial (para homens), ou 25 e 15 anos, respectivamente (para mulheres) - Inteligência da Lei Complementar Federal 51/1985, com a redação dada pela LCF 144/2014 - Entretanto, a concessão de integralidade e paridade está condicionada às regras constitucionais de transição (Emendas Constitucionais 41/2003 e 47/2005), a exemplo de quaisquer outras categorias de servidores públicos Sentença reformada.
+    BASE DE CÁLCULO - Benefício a ser calculado levando em conta os valores da última classe de exercício no cargo, independentemente do tempo nela ocupado - Inteligência do art. 40, § 1º, III, da Constituição Federal - Pedido, nesse ponto, procedente - Denegação da ordem reformada para concessão parcial.
+    Apelo e reexame necessário parcialmente providos.” (Grifos no original)
+    Os embargos de declaração opostos pelo Estado de São Paulo e por São Paulo Previdência - SPPREV foram rejeitados (eDOC 3, p. 240-244).
+    Os recursos extraordinários foram interpostos com fundamento no art. 102, III, a, do permissivo constitucional.
+    Nas razões recursais, Marcus Vinicius Feltrim Aquotti aponta ofensa ao art. 40, §§ 4º e 8º, da Constituição Federal. Sustenta, em suma, que, em se tratando o autor de Delegado de Polícia, aplica-se o regramento da Lei Complementar nº 51/85 (com as alterações dadas pela Lei Complementar nº 144/2014), fazendo jus, assim, à concessão da aposentadoria especial com integralidade e paridade de proventos (eDOC 3, p. 210-215).
+    O Estado e a SPPREV, por sua vez, aponta violação do art. 40, § 1º, III, da Carta da República. Aduz que a parte recorrida somente teria o “direito à aposentadoria com o salário da última classe se, em 16 de dezembro de 1998 – data da publicação da Emenda [EC 20/1998] – tivesse completado as condições para aposentação. Todavia, naquela data, não havia completado as condições necessárias para inativação” (eDOC 3, p. 250).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso do Estado de São Paulo e São Paulo Previdência, assentando que os requisitos para implementar a aposentadoria foram cumpridos após o advento da EC 20/98 (eDOC 3, p. 267), e admitiu o recurso interposto pelo servidor (eDOC 3, p. 268-270).
+    É o relatório. Decido.
+    De plano, verifica-se a inclusão da controvérsia em exame na sistemática da repercussão geral, Tema 1019, cujo recurso paradigma é o RE 1.162.672-RG, de relatoria do Ministro Presidente, DJe 30.11.2018. Na oportunidade (23.11.2018), o Plenário Virtual reconheceu a existência de repercussão geral da questão constitucional suscitada, cuja ementa restou assim redigida:
+    “Servidor público. Atividades de risco. Aposentadoria. Proventos. Integralidade e paridade remuneratória. Regras de transição das Emendas Constitucionais nºs 41/03 e 47/05. Presença de Repercussão Geral”.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 8 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
