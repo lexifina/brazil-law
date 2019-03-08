@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da Quarta Região, assim ementado (eDOC 1, p. 190):
+    “PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. TRABALHADOR RURAL. PROVA MATERIAL INSUFICIENTE. PRODUÇÃO DA PROVA TESTEMUNHAL. OBSTACULIZAÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 485, IV, E ART. 320, CPC.
+    1. Diante do caráter social das normas previdenciárias, que primam pela proteção do trabalhador, a eventual negativa de direitos à parte hipossuficiente deve ser deliberada a partir do exame de provas, evitando-se, tanto quanto possível, a decisão por presunção, quando ausentes elementos materiais e/ou testemunhais.
+    2. Ausente prova mínima para apreciação do pedido, o feito deve ser extinto sem exame do mérito. Precedente do STJ em sede de recurso representativo de controvérsia (REsp 1.352.721/SP, Corte Especial, Rel. Min. Napoleão Nunes Maia Filho, julgado em 16/12/2015, DJe 28/04/2016).”
+    Os embargos de declaração opostos foram rejeitados. (eDOC 1, p. 218).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput, XXXV, XXXVI, LIV, LV; e 97, da Constituição da República.
+    Nas razões recursais, sustenta-se que “O entendimento tradicional é no sentido de que a extinção do processo por insuficiência de provas induz à formação de coisa julgada material. E as exceções à regra devem estar expressamente autorizadas em lei.” (eDOC 1, p. 242)
+    Sustenta-se, ainda, que “negar a uma das partes os efeitos da coisa julgada material, quando a situação é típica da coisa julgada material constitui, sem sobra de dúvida, violação direta das garantias constitucionais da coisa julgada e da segurança jurídica, constantes da Constituição, art. 5º, caput e XXXVI. ” (eDOC 1, p. 250).
+    A Vice-Presidência do TRF da 4ª Região admitiu o recurso extraordinário. (eDOC 1, p. 261)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    As teses encampadas pela parte recorrente já foram amplamente debatidas por esta Corte em oportunidades em que se concluiu não haver repercussão geral de tais temas, por tratarem de normas infraconstitucionais. Portanto, se ofensa à Constituição houvesse, seria meramente por via reflexa.
+    Primeiramente, em relação à discussão sobre eventual ofensa ao art. 5º, caput, XXXVI, LIV e LV, da Constituição Federal, o Supremo Tribunal Federal já decidiu no julgamento do ARE 748.371-RG, rel. Min. Gilmar Mendes, DJe 1º.08.2013, sob a sistemática da repercussão geral, que não há ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (Tema 660).
+    Do mesmo modo, quanto à alegada violação ao art. 5º, XXXV, da Carta Magna, esta Corte reconheceu não haver repercussão geral da questão (Tema 895 - Ofensa ao princípio da inafastabilidade de jurisdição na hipótese em que há óbice processual intransponível ao julgamento de mérito). Eis a ementa do RE 956.302-RG, de minha relatoria, Plenário Virtual, DJe 16.06.2016:
+    PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+    Por fim, no tocante à apontada violação à reserva de plenário, constata-se que o Tribunal de origem, mediante ponderação entre os valores contidos na legislação de regência e nos princípios constitucionais evocados, atuou estritamente nos limites de sua competência constitucional, o que não configura violação à norma do art. 97 da Constituição Federal.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral (Temas 660 e 895), nos termos do art. 1.040 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 8 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
