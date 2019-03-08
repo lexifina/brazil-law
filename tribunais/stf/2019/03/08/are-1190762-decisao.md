@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “PROCESSUAL CIVIL. APELAÇÃO CÍVEL. INVENTÁRIO. HOMOLOGAÇÃO SOB O RITO DE ARROLAMENTO SUMÁRIO. ARTIGO 659, § 2° DO CÓDIGO DE PROCESSO CIVIL. ARTIGO 192 DO CÓDIGO TRIBUTÁRIO NACIONAL. EXIGÊNCIA DE QUITAÇÃO DO IMPOSTO DE TRANSMISSÃO CAUSA MORTIS OU DOAÇÃO – ITCD. DESNECESSIDADE. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+    1. Conforme disciplina o artigo 659, § 2° do novo Código de Processo Civil, após o trânsito em julgado da sentença de homologação de adjudicação, será lavrado o formal de partilha ou elaborada a carta de adjudicação e, em seguida, serão expedidos os alvarás referentes aos bens e às rendas por ele abrangidos, intimando-se o fisco para lançamento administrativo do imposto de transmissão e de outros tributos porventura incidentes.
+    2. Não prospera o argumento de que o artigo 192 do CTN possui hierarquia maior que a nova lei processual civil, na medida em que o mencionado artigo aborda assunto processual e não tributário, estando assim afastada sua aplicação, no caso dos autos.
+    3. Recurso conhecido e desprovido. Sentença mantida” (pág. 99 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 146, III, b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional e Código de Processo Civil). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo de origem. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Especificamente sobre o caso, cito o julgamento do ARE 1.169.127/DF, de relatoria da Ministra Cármen Lúcia, e do ARE 1.076.848/DF, de relatoria do Ministro Roberto Barroso.
+    Além disso, com o não conhecimento do agravo em recurso especial pelo Superior Tribunal de Justiça (AREsp 1.287.973/DF, com trânsito em julgado certificado em 15/2/2019 – págs. 231-237 e 244 do documento eletrônico 1), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283/STF. Nesse sentido, menciono os seguintes precedentes, entre outros: RE 587.089-AgR/MS, Rel. Min. Roberto Barroso; AI 785.229/PR e RE 827.447-AgR/RS, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 681.482-AgR/MG, Rel. Min. Joaquim Barbosa; AI 775.488-AgR/RJ, Rel. Min. Dias Toffoli; ARE 816.971-AgR/RS, AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
