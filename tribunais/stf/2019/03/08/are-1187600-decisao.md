@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, em que a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o apelo não pode ser conhecido, pois não houve o necessário recolhimento do preparo, configurando a deserção do recurso interposto.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que os conselhos de fiscalização profissional não desfrutam de isenção de preparo. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REGÊNCIA: CÓDIGO DE PROCESSO CIVIL/1973. DESERÇÃO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. EXIGIBILIDADE DE PREPARO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 851.517-AgR, Rel. Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, DJe de 3/11/2016)
+    Vejam-se, ainda, as seguintes decisões monocráticas dos ilustres ministros desta Corte confirmando essa diretriz: ARE 1.023.264, Rel. Min. EDSON FACHIN, DJe de 22/9/2017; ARE 714.025, Rel. Min. GILMAR MENDES, DJe 3/4/2017; ARE 713.577, Rel. Min. RICARDO LEWANDOWSKI, DJe 8/2/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 8 de março de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
