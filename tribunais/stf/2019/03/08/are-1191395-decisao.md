@@ -1,0 +1,26 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que houve violação aos artigos 5º, caput; 7º, XXXII; e 39, §1º, todos da CF/1988.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Tribunal de origem decidiu a controvérsia com fundamento nos fatos e provas constantes dos autos, bem como na legislação infraconstitucional de regência (Lei 12.277/2010 e Lei 8.112). A propósito, veja-se ementa do acórdão recorrido (fl. 70, Vol. 2):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. PEDIDO OPÇÃO ESTRUTURA REMUNERATÓRIA LEI Nº 12.277/2010. VIOLAÇÃO PRINCÍPIO DA ISONOMIA. NÃO CONFIGURADO. DIREITO ADQUIRIDO ESTRUTURA REMUNERATÓRIA. INEXISTÊNCIA.
+    1. A Lei nº 12.277/2010 instituiu ‘Estrutura Remuneratória Especial para os cargos de provimento efetivo, de nível superior, de Engenheiro, Arquiteto, Economista, Estatístico e Geólogo, regidos pela Lei nº 8.112, de 11 de dezembro de 1990’ (art. 19).
+    2. Inexistindo compatibilidade de atribuições e demais requisitos de qualificação e especialização entre as carreiras, não se cogita em identidade de cargos a ensejar sistema remuneratório equivalente, sendo de todo incabível a pretendida opção pelo padrão remuneratório concedido pela Lei nº 12.277/2010, tão somente pelo fato da servidora ser ocupante de cargo de nível superior (Assistente Social).
+    3. Por igualdade de razões, a criação de leis específicas para determinadas carreiras, em razão de suas peculiaridades, não constitui afronta ao princípio da isonomia, conquanto permitida pela própria Constituição (art. 39, §1º).
+    4. Pacífica a jurisprudência no sentido de inexistência de direito adquirido a regime jurídico. Precedentes dos Tribunais Superiores.
+    5. Aplicável, na espécie, a Súmula 339 do STF (‘Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia’).
+    6. Apelação da Autora desprovida”.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    De outro lado, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Por fim, esta SUPREMA CORTE, no RE 592.317-RG, julgado sob o rito da repercussão geral (Tema 315), posteriormente consolidado na Súmula Vinculante nº 37, firmou a seguinte tese:
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 8 de março de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
