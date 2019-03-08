@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. PRORROGAÇÃO DA LICENÇA-MATERNIDADE POR 60 (SESSENTA) DIAS. LEI ORGÂNICA DO MUNICÍPIO DE BELO HORIZONTE. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. LEI 11.770/2008. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “Ação ordinária. Servidora pública. Município de Belo Horizonte. Prorrogação de licença maternidade. É inviável o reconhecimento de direito à prorrogação do período de licença à gestante, referida na Lei Federal nº 11.770/08, em benefício de servidora municipal, quando não há ato regulamentador do programa no âmbito do Município. Recurso não provido.” (Doc. 1, fl. 133)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 1, fl. 148)
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, § 1º, 37, caput, 226 e 227 da Constituição Federal. (Doc. 2, fl. 28)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice nas Súmulas 282 e 356 do STF. (Doc. 2, fl. 52)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A matéria relativa à prorrogação da licença-maternidade de servidora municipal, quando sub judice a controvérsia, implica a análise de legislação infraconstitucional local aplicável à espécie (Lei Orgânica do Município de Belo Horizonte), o que encontra óbice na Súmula 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário".
+    Demais disso, para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei Federal 11.770/2008), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. PRORROGAÇÃO DE LICENÇA MATERNIDADE PARA 180 DIAS. LEI Nº 11.770/2008. MATÉRIA DE CUNHO INFRACONSTITUCIONAL. PRECEDENTES. À exceção do art. 7º, XVIII, da Constituição Federal, os demais dispositivos constitucionais tidos por violados não foram apreciados pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, no ponto, do necessário prequestionamento. Incidem, no caso, as Súmulas 282 e 356/STF. A discussão acerca da ampliação do direito de servidoras públicas estaduais e municipais à licença maternidade com fundamento em legislação federal se restringe ao âmbito infraconstitucional. Precedentes. Agravo regimental a que se nega provimento.” (ARE 803.386-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 1º/9/2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES RECURSAIS INSUFICIENTES PARA CONFRONTAR OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA RECURSAL. SÚMULAS 283 E 284 DO STF. EXTENSÃO DA LICENÇA-MATERNIDADE. MATÉRIA INFRACONSTITUCIONAL. LEI 11.770/2008. ANÁLISE DE NORMA LOCAL. LEI 12.214/2011 DO ESTADO DA BAHIA. INVIABILIDADE. SÚMULA 280/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 803.203-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 26/5/2014)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 8 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
