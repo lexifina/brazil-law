@@ -1,0 +1,31 @@
+MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGOS 26, 27, 28, 29, 30, 31 E 33 DA LEI 1.257/2018 DO ESTADO DE RORAIMA. CONCESSÃO DE VANTAGENS E AUMENTO DE REMUNERAÇÃO DE SERVIDORES PÚBLICOS ESTADUAIS. ALEGAÇÃO DE AUSÊNCIA DE PRÉVIA DOTAÇÃO ORÇAMENTÁRIA E DE ESTIMATIVA DO IMPACTO ORÇAMENTÁRIO E FINANCEIRO (ARTIGOS 169, § 1º, I, DA CONSTITUIÇÃO FEDERAL E 113 DO ADCT). APLICAÇÃO DO RITO DO ARTIGO 12 DA LEI FEDERAL 9.868/1999.
+    Decisão: Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada pelo Governador do Estado de Roraima, tendo por objeto os artigos 26, 27, 28, 29, 30, 31 e 33 da Lei 1.257/2018 do Estado de Roraima, de seguinte teor:
+    “Art. 26. Fica instituído o Adicional de Qualificação - AQ destinado aos servidores estáveis desta Lei, em razão dos conhecimentos adicionais adquiridos comprovados por meio de títulos, diplomas ou certificados de cursos de graduação ou pós-graduação, em sentido amplo ou estrito, reconhecidos pelo Ministério da Educação.
+    Art. 27. O Adicional de Qualificação - AQ incidirá sobre vencimento efetivo do servidor, como retribuição pela participação com aproveitamento em curso de graduação e pós-graduação, em sentido amplo ou estrito, observados os seguintes percentuais e limites:
+    I - 5% (cinco por cento) ao servidor que concluir ou tiver concluído o curso de graduação, na modalidade tecnólogo superior, comprovado por meio de diploma devidamente reconhecido pelo Ministério da Educação;
+    II -10% (dez por cento) ao servidor que concluir ou tiver concluído o curso de graduação, na modalidade bacharelado ou licenciatura plena, comprovado por meio de diploma devidamente reconhecido pelo Ministério da Educação;
+    III -15% (quinze por cento) ao servidor que concluir ou tiver concluído, com aproveitamento, curso de pós-graduação em sentido amplo, comprovado por meio de certificado, devidamente reconhecido pelo Ministério da Educação e com carga horária mínima de 360 (trezentas e sessenta) horas aulas;
+    IV -20% (vinte por cento) ao servidor que concluir ou tiver concluído, com aproveitamento, pós-graduação em nível de mestrado, comprovado por meio de título ou certificado, devidamente reconhecido pelo Ministério da Educação;
+    V -25% (vinte e cinco por cento) ao servidor que concluir ou tiver concluído, com aproveitamento, pós-graduação em nível de doutorado, comprovado por meio de título ou certificado devidamente reconhecido pelo Ministério da Educação.
+    § 1º Em nenhuma hipótese o servidor perceberá, cumulativamente, mais de um dentre os adicionais previstos neste artigo.
+    § 2º Só será contado como título, para efeito do Adicional de Qualificação - AQ a que se refere este artigo, o diploma ou certificado de conclusão de curso de graduação, pós-graduação, mestrado ou doutorado emitido por instituição credenciada e reconhecida pelo Ministério da Educação.
+    § 3º O Adicional de Qualificação - AQ será requerido pelo servidor no setor de Recursos Humanos do órgão no qual esteja lotado, com apresentação de diploma, certificado ou título reconhecido pelo Ministério da Educação e devidamente autenticado em cartório.
+    § 4º A documentação apresentada pelo servidor no setor de Recursos Humanos será encaminhada para o setor de Recursos Humanos do ITERAIMA, o qual terá o prazo de 90 (noventa) dias para análise do processo e publicação da portaria.
+    § 5º Para fins de efeitos pecuniários, o direito ao adicional será contado do próximo vencimento, após a publicação da homologação do pedido no Diário Oficial do Estado de Roraima.
+    Art. 28. Fica assegurado o Adicional de Penosidade nos cargos dos servidores que exercerem atividades penosas, conforme previsto no Artigo 68 da Lei Complementar nº 53, de 31 de dezembro de 2001.
+    Parágrafo único. A alíquota será definida de acordo com avaliação realizada por comissão competente.
+    Art. 29. Fica assegurada a incidência da alíquota de 5% (cinco por cento), 10% (dez por cento) e 20% (vinte por cento) do Adicional de Insalubridade nos cargos dos servidores que exercem atividades insalubres, conforme previsto nos Artigos 64 e 65 da Lei Complementar nº 53, de 31 de dezembro de 2001.
+    Art. 30. Fica assegurada a incidência da alíquota de 40% (quarenta por cento) aos servidores efetivos, grau de escolaridade: Ensino Superior - Área Administrativa, para todos os servidores que exercem função específica de área fim e área meio.
+    Art. 31. Fica assegurada a incidência da alíquota 10% (dez por cento), aos servidores públicos, ativos, efetivos, em caso de nomeação em comissão interna ou externa, a título de gratificação por desempenho de atividade em comissão - GDAC.
+    Art. 33. O vencimento básico dos cargos efetivos que integram o Quadro de Pessoal do ITERAIMA são expressos em classes, padrão e referências iniciais.”
+    Como parâmetro de controle, foi indicado o artigo 169, § 1º, I, da Constituição Federal, bem como o artigo 113 do Ato das Disposições Constitucionais Transitórias.
+    Em síntese, o requerente alegou que os dispositivos impugnados teriam implicado concessão de vantagens e aumento de remuneração de servidores públicos estaduais sem prévia dotação orçamentária, além de configurar criação de despesa obrigatória sem estimativa do impacto orçamentário e financeiro.
+    É o relatório. Decido.
+    A presente ação direta de inconstitucionalidade versa alegado desrespeito a normas constitucionais orçamentárias na concessão de vantagens e aumento de remuneração de servidores públicos, matéria que se reveste de grande relevância e apresenta especial significado para a ordem social e a segurança jurídica. Nesse particular, enfatizo a conveniência de que decisão venha a ser tomada em caráter definitivo, mediante a adoção do rito abreviado previsto no artigo 12 da Lei federal 9.868/1999.
+    Ex positis, notifiquem-se as autoridades requeridas, para que prestem informações no prazo de 10 (dez) dias. Após, dê-se vista ao Advogado-Geral da União e à Procuradora-Geral da República, para que cada qual se manifeste, sucessivamente, no prazo de 5 (cinco) dias.
+    À Secretaria Judiciária para as devidas providências.
+    Publique-se. Intimem-se.
+    Brasília, 8 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
