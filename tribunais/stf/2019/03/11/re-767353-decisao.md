@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. PERÍODO DE ATIVIDADE EXERCIDA NA CONDIÇÃO DE AUTÔNOMO. CONTAGEM RECÍPROCA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. OBRIGATORIEDADE DE INDENIZAÇÃO. CF/88, ART. 202, § 9º. LEI 8.213/91, ART. 96, IV.
+    O aproveitamento do tempo de serviço exercido na condição de autônomo para efeito de contagem recíproca no serviço público tem como requisito o pagamento da respectiva indenização, conforme jurisprudência sedimentada do Colendo Superior Tribunal de Justiça.
+    A indenização deve ser calculada com base na remuneração sobre a qual incidem as contribuições para o regime específico de previdência social a que está filiado o interessado, conforme previsto previsto no art. 45, § 3º, da Lei 8.213/91, sem a incidência de multa e juros moratórios, consoante entendimento da Turma.
+    Remessa oficial provida em parte.”
+    O Tribunal de origem acolheu em parte os embargos de declaração da autarquia e do impetrante para “o fim de prequestionamento e para corrigir erro material no dispositivo do voto, devendo ser considerado como correta a Lei 8.212/91, na forma da fundamentação”.
+    O Tribunal de origem acolheu, ainda, em parte os novos embargos de declaração opostos pelo impetrante para, corrigindo o erro material, considerar como correto no relatório do julgamento da apelação que “o Ministério Público opinou pelo provimento da remessa oficial”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI e LV; 146, III, b; 149; e 150, III, a, todos da CF.
+    O parecer ministerial da lavra do então Procurador-Geral da República Rodrigo Janot Monteiro de Barros é pelo “não conhecimento e, caso conhecido, pelo desprovimento do recurso extraordinário”.
+    O recurso não deve ser provido. O Plenário do Supremo Tribunal Federal (STF) já assentou a ausência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, por depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes – Tema 660).
+    Ademais, o TRF/4ª Região não decidiu a controvérsia sob o ângulo aqui proposto pela parte recorrente, que pretende a declaração de inconstitucionalidade do art. 45, § 3º, da Lei nº 8.212/1991, por ofensa aos princípios elencados nos arts. 146, III, b, 149, e 150, III, a, da Constituição Federal. Na verdade, o Tribunal de origem condicionou o reconhecimento do cômputo de serviço exercido na condição de autônomo para efeito de aposentação no serviço público, mediante o recolhimento da indenização das contribuições que não foram pagas a seu tempo. E o fez com base no regramento do art. 201, § 9º, da Constituição Federal e do art. 96, IV, da Lei nº 8.213/1991. Daí se conclui que a pretensão veiculada no recurso extraordinário carece de regular prequestionamento, como exigem as Súmulas 282 e 356/STF.
+    Acresce que a parte recorrente não atacou os fundamentos determinantes à conclusão adotada pelo TRF/4ª Região, que permanecem incólumes, o que atrai a incidência da Súmula 283/STF (“É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
