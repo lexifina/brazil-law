@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “MANDADO ,DE SEGURANÇA - LEI DISTRITAL Nº 92/90 - TRIBUNAL DE CONTAS DO DISTRITO FEDERAL - DECISÃO - INCONSTITUCIONALIDADE - PROVENTOS - PROFESSORES DE ENSINO MÉDIO - REDUÇÃO - TEMPO DE INATIVIDADE-CONTAGEM PARA TODOS OS EFEITOS ~ PRELIMINAR - ILEGITIMIDADE - REJEIÇÃO - SEGURANÇA CONCEDIDA A PARTIR DA IMPETRAÇÃO - UNÂNIME. A autoridade coatora não é aquela que edita normas genéricas, aponta ilegalidade ou faz recomendação, mas a que faz por aplicá-las em concreto, produzindo os efeitos ali previstos. A Lei Distrital nº 92/90 considerou como de efetivo exercício, lapso de tempo em que os professores do Grupo Magistério estiveram aposentados, por culpa exclusiva da Administração, possuindo direito líquido e certo à percepção das vantagens pessoais adquiridas no ato de aposentação.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XV; e 40, § 4º, da CF.
+    O recurso não deve ser provido, tendo em vista que, para dissentir do entendimento do Tribunal de origem, seria necessária uma nova apreciação dos fatos e do material probatório constantes dos autos, bem como o reexame da legislação infraconstitucional aplicada ao caso, procedimentos inviáveis neste momento processual. A hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido, confira-se o seguinte julgado de minha relatoria:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REVISÃO DE PROVENTOS DE SERVIDOR PÚBLICO INATIVO. LEI DISTRITAL Nº 92/1990. SÚMULAS 279 E 280/STF. PRECEDENTES. Hipótese em que a resolução da controvérsia demandaria a análise de legislação infraconstitucional e o reexame do conjunto probatório constante dos autos, o que é inviável em sede de recurso extraordinário (Súmulas 279 e 280/STF). Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (RE 573.947-AgR)
+     Diante do exposto, com base no art. art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 11 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
