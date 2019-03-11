@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Superior Tribunal de Justiça, assim ementado (Fl. 332, Vol. 3):
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACUMULAÇÃO ILEGAL DE CARGOS PÚBLICOS. DECADÊNCIA. INEXISTÊNCIA.
+    1. O acórdão proferido pelo Tribunal de origem destoou da atual e pacífica jurisprudência desta Corte Superior, orientada no sentido de que não ocorre a decadência da Administração Pública de adotar procedimentos para verificar a acumulação inconstitucional de cargos públicos.
+    2. Agravo interno a que se nega provimento.”
+    Opostos Embargos de Declaração, foram rejeitados.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta ter o acórdão recorrido afrontado o disposto nos artigos 37, XVI, “a”; e 206, V, da Carta Magna. Ao final, requer a reforma do acórdão recorrido, a fim de que seja declarada a legalidade da acumulação de cargos exercida pela recorrente.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Superior Tribunal de Justiça deu provimento ao Recurso Especial para afastar a decadência do direito de a Administração Pública adotar procedimentos para verificar a acumulação inconstitucional de cargos públicos.
+    Todavia, a recorrente limita-se a sustentar a legalidade da cumulação dos cargos impugnados, sem, contudo, atacar os fundamentos em que se baseou o acórdão recorrido. Incide, portanto o óbice da Súmula 284 (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia) do SUPREMO TRIBUNAL FEDERAL.
+    No mesmo sentido, em situação análoga à dos presentes autos, o seguinte julgado monocrático do ilustre Min. EDSON FACHIN: RE 930.130, DJe de 14/12/2016.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 11 de março de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
