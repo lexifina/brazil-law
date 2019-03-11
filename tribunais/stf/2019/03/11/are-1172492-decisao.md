@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão de negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve sentença que, com fundamento no art. 794, I, do CPC/1973, havia julgado extinta a presente execução. Veja-se, a ementa do julgado proferido pelo TJ/SP:
+    “Dano moral – Indenização – Autora perdeu o filho em atendimento no hospital réu – Município foi citado para pagamento no valor de R$ 183.600,00 – Apela, o Município, buscando reter o valor da condenação (R$ 15.521,12) já depositada para rediscutir o valor do débito – A Contadoria do Juízo entendeu corretas as contas – Disputa em termos de valores é pequena em comparação ao montante – Recurso improvido.”
+    O Tribunal de origem, ao rejeitar embargos de declaração, adotou a seguinte fundamentação:
+    “[...]
+    A decisão embargada ressaltou que a contadoria rebateu todas as impugnações apresentadas novamente pelo embargante. O parecer da contadoria e a sentença de primeiro grau constataram que o Município concordou com o termo inicial fixado em julho de 2010 a fls. 384 e que, devido à ausência de pagamento no exercício de 2012, os juros de mora retrocedem até a data de expedição do precatório. (...)”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 5º, da CF. Afirma que, na hipótese, não deve incidir juros de mora no período compreendido entre os dias 01.07.2011 e 31.12.2012, por força do disposto na Súmula Vinculante 17 .
+    O recurso extraordinário deve ser provido, uma vez que o acórdão embargado está em desacordo com a jurisprudência desta Corte, que afasta a incidência de juros moratórios no período previsto no art. 100, § 1º (atual § 5º), da Constituição Federal. Veja-se, nesse sentido, a redação da Súmula Vinculante 17:
+    "Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos"
+    Ademais, ao contrário da conclusão adotada pelo Tribunal de origem, a jurisprudência desta Corte afirma que, em caso de inadimplemento da obrigação no prazo constitucional assinalado no art. 100, § 1º (atual § 5º), da Constituição Federal, como ocorre na hipótese, os juros moratórios voltam a incidir somente a partir do primeiro dia do exercício financeiro seguinte ao que deveria ter sido pago o precatório. Precedentes: RE 940.236-AgR, Primeira Turma.
+    Diante do exposto, com base no art. 932, V, c/c o art. 1.042, § 5º, do CPC/201, e no art. 21, § 2º, do RI/STF, dou provimento ao recurso a fim de afastar a incidência de juros moratórios no período previsto no art. 100, § 5º, da Constituição, qual seja, a data de apresentação do precatório e o final do exercício financeiro seguinte à sua apresentação, devendo incidir juros de mora somente a partir do primeiro dia do exercício financeiro seguinte ao fim do prazo constitucional. Inaplicável o art. 85, § 11, do CPC/2015.
+    Publique-se.
+          Brasília, 11 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
