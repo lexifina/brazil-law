@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Casa Branca/SP, no processo nº 1500033-56.2019.8.26.0613, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 11 de janeiro de 2019, ante a suposta prática da infração prevista no artigo 157, § 2º, incisos II e V (roubo com causas de aumento por concurso de pessoas e restrição da liberdade da vítima), do Código Penal. Assentou atendidos os requisitos do artigo 306 do Código de Processo Penal. Ressaltou haver prova da materialidade e indícios de autoria. Destacou os contornos do delito a envolverem a restrição da liberdade da vítima, mantida amarrada durante a subtração de 535,00 reais, 50 dólares, 50 euros e 2.200 rublos. Reportou-se à apreensão de 14 chaves falsas, 2 pés de cabra, alicates e várias ferramentas, além de 31 unidades de luvas tipo cirúrgicas. Frisou indispensável a custódia para garantir a ordem pública, afirmando insuficiente medida cautelar alternativa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 495.270. O Relator indeferiu pedido de liminar.
+    Os impetrantes dizem ser o caso de mitigação do verbete nº 691 da Súmula do Supremo. Sustentam não configurada a situação descrita no artigo 302 do Código de Processo Penal, a tornar nula a prisão em flagrante. Alegam insubsistentes os fundamentos da decisão mediante a qual determinada a custódia. Arguem a violação dos artigos 93, inciso IX, da Constituição Federal e 312 do mencionado Código. Assinalam tratar-se de paciente primário, com bons antecedentes, ocupação lícita e família constituída.
+    Requerem, no campo precário e efêmero, a revogação da preventiva, com ou sem imposição de cautelar diversa, definida no artigo 319 do Código de Processo Penal.
+    Consulta ao sítio do Tribunal de Justiça, em 11 de março de 2019, revelou o recebimento da denúncia em 12 de fevereiro último, na qual imputou-se ao paciente o cometimento do delito versado no artigo 157, § 2º, inciso II, do Código Penal.
+    A fase é de apreciação da medida de urgência.
+    2. Quanto à nulidade da prisão em flagrante, não há relevância no que articulado. O Juízo destacou ter sido o auto lavrado perante autoridade policial, com a presença de condutor e testemunha. Realçou a manifestação do Órgão acusador, no que frisada a regularidade da custódia. Assentou inexistir mácula, salientando observado o disposto no artigo 306 do Código de Processo Penal. No tocante aos fundamentos da prisão, ao converter o flagrante em preventiva, ressaltou tratar-se de crime de roubo, praticado por meio de concurso de pessoas em que a vítima foi mantida amarrada durante a subtração de 535,00 reais, 50 dólares, 50 euros e 2.200 rublos. Apontou a apreensão de 14 chaves falsas, 2 pés de cabra, alicates e várias ferramentas, além de 31 unidades de luvas tipo cirúrgicas com os envolvidos. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução de pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. O curso deste habeas não prejudica o de nº 495.270/SP, em tramitação no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Ribeiro Dantas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 12 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
