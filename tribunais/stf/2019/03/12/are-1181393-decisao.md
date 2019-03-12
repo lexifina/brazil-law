@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo:
+    “Agravo de instrumento. Embargos à execução. Aprovação do plano de recuperação judicial. Novação da dívida. Execução individual que deve ser suspensa com relação à recuperanda, mas que pode prosseguir contra a avalista. Precedentes. Decisão revista. Recurso parcialmente provido”. (eDOC 2, p. 94).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV e XXXVI; 170, II; e 174 do texto constitucional.
+    Nas razões recursais, alega-se que o favorecimento de certos credores, com relação ao plano de recuperação judicial, afronta os princípios da Lei de Recuperação e Falência. Argumenta-se ainda que a execução só poderia ser iniciada após o decurso do prazo de 180 dias, em caso de descumprimento do referido plano, nos termos da Lei 11.101/05
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    No caso, observo que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 11.101/05) e o conjunto probatório constante dos autos, bem como com base na jurisprudência do Superior Tribunal Justiça, consignou que o processamento da recuperação judicial, ou da aprovação do plano de recuperação, não suspende ações de execução contra os coobrigados da recuperanda. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Em primeiro lugar, nos termos do art. 59 da Lei 11.101/2005, com relação à recuperanda não restam dúvidas de que o plano de recuperação judicial implica novação dos créditos anteriores ao pedido e obriga o devedor e todos os credores a ele sujeitos, malgrado, como expresso, sem prejuízo das garantias.
+    Assim, aprovado o plano de recuperação judicial (cf. fls. 109/112), os embargos à execução opostos devem ser recebidos no efeito suspensivo com relação à recuperanda. O mesmo, porém, não se dá com relação à avalista agravante.
+    E isto porque a própria Lei 11.101/2005, em seu art. 49, § 1º, determina que ‘os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso’.
+    No mais, tem-se que recentemente firmado entendimento pela Segunda Seção do Superior Tribunal de Justiça, em julgamento de recurso especial sob o rito dos repetitivos, no sentido de que o processamento da recuperação judicial ou mesmo a aprovação do plano de recuperação não suspende ações de execução contra fiadores e avalistas da recuperanda”. (eDOC 2, p. 95-96).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. RECUPERAÇÃO JUDICIAL. EXECUÇÕES FISCAIS EM CURSO. SUSPENSÃO. 1. Revela-se infraconstitucional a controvérsia relativa ao preenchimento dos requisitos para a suspensão das execuções fiscais em curso contra devedores empresários em recuperação judicial. 2. Agravo regimental a que se nega provimento”. (RE 1070371 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 11.9.2018).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO, À COISA JULGADA OU AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA INAFASTABILIDADE DE JURISDIÇÃO. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. LEI DE FALÊNCIA E RECUPERAÇÃO JUDICIAL (LEI 11.101/2005). OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 915.149 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 25.11.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de março de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
