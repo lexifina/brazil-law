@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO ACIDENTÁRIA. HONORÁRIOS PERICIAIS. RESSARCIMENTO AO INSS. SUCUMBÊNCIA DE BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. ISENÇÃO LEGAL. DEVER DO ESTADO. PRECEDENTES DO STJ.
+1. O STJ entende que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes.
+2. "A responsabilidade pelo pagamento dos honorários periciais dos beneficiários da assistência judiciária gratuita sucumbentes do pedido inicial é do Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes" (STJ, REsp 1.646.164/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 19.4.2017). Em igual sentido: STJ, AgRg no REsp 1.502.949/MS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 3.5.2017.
+3. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO PREVIDENCIÁRIA. PEDIDO INICIAL JULGADO IMPROCEDENTE. INSURGÊNCIA. APELO l. PLEITO DE CONCESSÃO DE AUXÍLIO-ACIDENTE. QUALIDADE DE SEGURADO. INCONTROVERSA. NEXO DE CAUSALIDADE. ATESTADO. LAUDO PERICIAL CONCLUSIVO. AUSÊNCIA DE INCAPACIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. APELO 2 PLEITO DE DEVOLUÇÃO DOS HONORÁRIOS PERICIAIS. IMPOSSIBILIDADE. INTELIGÊNCIA DA LEI Nº 8.213/91. CABE AO INSS ARCAR COM TAL DESPESA. INDEPENDENTEMENTE DA SUCUMBÊNCIA. ENTENDIMENTO SUMULADO PELO STJ. SENTENÇA MANTIDA.
+RECURSO 1 CONHECIDO E NÃO PROVIDO RECURSO 2 CONHECIDO E NÃO PROVIDO. (fls.311-336, e-STJ).
+Tratam os autos, na origem, de ação visando à concessão de benefício acidentário. A sentença indeferiu o pedido, por falta de comprovação da incapacidade laboral. O acórdão negou provimento às Apelações de ambas as partes. Apenas o Recurso Especial do INSS foi admitido na origem.
+Sustenta o INSS que apenas adianta os honorários periciais, na forma do art. 8º, § 2º, da Lei 8.620/93; o vencido deve devolver ao vencedor os valores adiantados a título de honorários periciais e, diante da AJG, a responsabilidade de ressarcimento à parte vitoriosa recai, então, diretamente sobre o Estado, na forma do art. 1º da Lei 1.060/50, que, afinal, concretiza o art. 52, LXXIV, da Constituição Federal.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os autos foram recebidos neste gabinete em 3 de dezembro de 2018.
+Discute-se nos autos a possibilidade de cobrar do Estado do Paraná os honorários periciais decorrentes de perícia médica realizada em demanda cujo litigante foi albergado pela assistência judiciária gratuita.
+A irresignação merece acolhida. O Tribunal de origem consignou:
+Assim, o Estado não poderá arcar com tal verba, pois justamente por ser o segurado isento de custas e demais despesas relativas à sucumbência é que o art. 8º, § 2º, da Lei n. 8.620/93 estabeleceu a obrigação do INSS de adiantar o pagamento das despesas da perícia judicial, ainda que requerida somente pelo segurado. A lei não estabeleceu a possibilidade de o INSS ser ressarcido da quantia despendida para a antecipação dos honorários do perito, de sorte que, depositado o respectivo valor, não há como recuperá-lo em favor da autarquia. (fl. 332, e-STJ).
+O STJ entende que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes. Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. HONORÁRIOS PERICIAIS. PAGAMENTO. PARTE SUCUMBENTE BENEFICIÁRIA DA JUSTIÇA GRATUITA. RESPONSABILIDADE DO ESTADO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática publicada em 27/04/2016, que, por sua vez, julgara recurso aviado contra acórdão publicado na vigência do CPC/73.
+II. Inexiste, no caso, ofensa aos princípios do contraditório e da ampla defesa, pois, conforme alega o ora agravante, "o prejuízo ao Estado surgiu com a decisão ora agravada", e, dessa decisão, foi ele devidamente intimado e se defendeu, mediante a interposição do presente Agravo. Precedentes do STJ (EDcl no AgRg no REsp 1.519.239/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe de 02.02.2016; AgRg no REsp 1.414.018/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 03/08/2017).
+III. Conforme reiterada jurisprudência desta Corte, "a responsabilidade pelo pagamento dos honorários periciais dos beneficiários da assistência judiciária gratuita sucumbentes do pedido inicial é do Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes" (STJ, REsp 1.646.164/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 19.04.2017). Em igual sentido: STJ, AgRg no REsp 1.502.949/MS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 03.05.2017.
+IV. Agravo interno improvido. (AgInt no REsp 1575879/SC, Rel. Minª Assusete Magalhães, Segunda Turma, DJe 24.10.2017).
+PROCESSUAL CIVIL. AÇÃO ACIDENTÁRIA. HONORÁRIOS PERICIAIS. RESSARCIMENTO AO INSS. SUCUMBÊNCIA DE BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA/ISENÇÃO LEGAL. DEVER DO ESTADO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece ser ônus do Estado arcar com os honorários periciais quando houver sucumbência de beneficiário da assistência judiciária gratuita ou de isenção legal.
+2. Não há falar em ofensa aos princípios do contraditório e da ampla defesa, pois o Estado de Santa Catarina teve a oportunidade de discutir a questão perante o Juízo a quo e, em sendo dela intimado, interpôs agravo de instrumento.
+3. Agravo interno desprovido. (AgInt no REsp 1592790/SC, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 23/06/2017).
+Diante do exposto, dou provimento ao Recurso Especial do INSS e condeno o Estado do Paraná a ressarcir as despesas realizadas pela Autarquia Previdenciária a título de antecipação de honorários periciais.
+É como voto.
