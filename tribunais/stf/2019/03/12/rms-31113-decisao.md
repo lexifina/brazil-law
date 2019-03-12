@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso ordinário interposto pelo Espólio de Douglas Ribeiro de Souza contra acórdão do Superior Tribunal de Justiça que indeferiu a petição inicial do mandado de segurança, nos termos da seguinte ementa:
+    “Mandado de segurança. Ministro de Estado. Pagamento de precatório. Não cabimento. 1. É incabível mandado de segurança contra Ministro de Estado visando a obter o depósito, o pagamento ou o sequestro de quantia objeto de condenação judicial e objeto de precatório já expedido, providências que, segundo o disposto no art. 100 da CF e nos artigos 730 e 731 do CPC, têm rito próprio, de competência do juiz da execução e do Presidente do respectivo Tribunal. 2. Agravo regimental a que se nega provimento”. (eDOC 3, p. 48)
+    O recorrente aduz, em síntese, que é credor da União no valor de R$ 4.844.306,03 em virtude de decisão judicial transitada em julgado. Sustenta que, em junho de 2011, foi depositado em conta judicial valor equivalente a 10% do montante corrigido do crédito, o que violou seu direito líquido e certo de receber o crédito, inscrito em precatório, em parcela única, tendo em vista o julgamento da ADI-MC 2362.
+    Por esse motivo, afirma que impetrou o MS contra Ministro do Planejamento, Orçamento e Gestão, para que adotasse providências à liquidação do valor remanescente.
+    Diante da denegação da ordem pleiteada perante o STJ, sustenta que interpôs o presente recurso ordinário, no qual insiste na alegação de afronta a direito líquido e certo.
+    A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso, em parecer ementado nos seguintes termos:
+    “Recurso ordinário em mandado de segurança. Acórdão do STJ que indeferiu a petição inicial, por inadequação da via eleita. Cabe ao presidente dos tribunais federais, estaduais ou do distrito, decretar o sequestro das verbas em caso de preterição da ordem de pagamento ou de não alocação orçamentária do valor necessário à satisfa- ção do débito. Assim, incabível a presente impetração contra Ministro de Estado, considerando que o pedido de sequestro deveria ter sido feito diretamente ao Presidente do TRF1. Parecer pelo desprovimento do recurso”. (eDOC 6)
+    Decido.
+    Não assiste razão ao recorrente.
+    O § 6º, do art. 100, da Constituição Federal , determina que “As dotações orçamentárias e os créditos abertos serão consignados diretamente ao Poder Judiciário, cabendo ao Presidente do Tribunal que proferir a decisão exequenda determinar o pagamento integral e autorizar, a requerimento do credor e exclusivamente para os casos de preterimento de seu direito de precedência ou de não alocação orçamentária do valor necessário à satisfação do seu débito, o sequestro da quantia respectiva”.
+    Dessa forma, conforme bem salientado pelo STJ “o processamento de precatórios judiciais visando ao pagamento de condenações judiciais tem início perante o juiz competente para a execução da sentença, a quem cabe requisitar o pagamento, via precatório, ao Presidente do Tribunal respectivo”.
+    Assim, não compete ao Ministro de Estado solucionar o tema em questão, de modo que resta demonstrada a inadequação do presente Mandado de Segurança.
+    No mesmo sentido, cito trecho do parecer proferido pela Procuradoria-Geral da República:
+    “Cabe ao Presidente dos tribunais federais, estaduais ou do distrito decretar o sequestro das verbas em caso de preterição da ordem de pagamento ou de não alocação orçamentária do valor necessário à satisfação do débito. Assim, incabível a presente impetração, considerando que o pedido de sequestro deveria ter sido feito diretamente ao Presidente do TRF1. Além disso, não cabe a Ministro de Estado resolver tema judicial, exceto se se discutisse o provisionamento de fundos para a solução dos débitos, em geral. O modo como se pagam tais créditos é resolvido por autoridade judiciária, na interpretação da lei
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de março de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
