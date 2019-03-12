@@ -1,0 +1,21 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado do Mato Grosso em favor de Tiago Simione de Sousa, contra decisão monocrática da lavra do Ministro Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 495.203/MT.
+    O paciente foi condenado às penas de 9 (nove) anos e 4 (quatro) meses de reclusão pela prática do delito de roubo qualificado, tipificado no art. 157, § 2º, II, do Código Penal, em regime inicial fechado.
+    Extraio do ato dito coator:
+    “(...).
+    De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+    Nesta oportunidade, acerca do regime inicial aplicado, destaco que a Corte de origem apresentou justificativa para a negativa de análise da matéria então impugnada, cuja apreciação ocorrerá no julgamento do recurso de apelação. Uma vez que não há notícia nos autos de julgamento de eventual recurso de apelação, ou de trânsito em julgado da ação penal, a custódia do paciente decorre hoje da manutenção da prisão preventiva.
+    Assim, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal, valendo ressaltar que o pedido liminar confunde-se com o próprio mérito, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo deste habeas corpus, pelo Colegiado da Quinta Turma.
+    Ante o exposto, indefiro a liminar”.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Aponta exasperação indevida na dosimetria da pena. Sustenta falta de fundamentação da sentença condenatória quanto à aplicação da causa de aumento de pena pertinente ao concurso de agentes. Defende a fixação de regime diverso do fechado para o início do cumprimento da reprimenda. Requer, em medida liminar, e no mérito, o redimensionamento da pena e a revogação da prisão preventiva do paciente.
+    É o relatório.
+    Decido.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 138.565/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 03.8.2017; HC 137.078/SP, de minha relatoria, 1ª Turma, DJe 24.4.2017; HC 136.296/SP, de minha relatoria, 1ª Turma, DJe 24.10.2016; e HC 134.104/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 19.8.2016.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete, pois, de acordo com o ato dito coator, ‘não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal, valendo ressaltar que o pedido liminar confunde-se com o próprio mérito, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo deste habeas corpus, pelo Colegiado da Quinta Turma’.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de março de 2019.
+Ministra Rosa Weber
+Relatora
