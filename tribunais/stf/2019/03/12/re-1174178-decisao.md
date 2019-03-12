@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa transcrevo (eDOC 1, p. 195):
+    “APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL – TAXA DE EXPEDIENTE – DER/MG - CERTIDÃO DE DÍVIDA ATIVA – PRESUNÇÃO DE CERTEZA E LIQUIDEZ – DESCONSTITUIÇÃO – REQUISITOS – ARTIGO 202, III, DO CTN E ARTIGO 2º, §5º, III, DA LEI Nº 6.830/80 – MULTA DE REVALIDAÇÃO – AUSÊNCIA DE CARÁTER CONFISCATÓRIO – HONORÁRIOS ADVOCATÍCIOS. A presunção de certeza e liquidez da CDA, título executivo extrajudicial, somente pode ser ilidida por prova inequívoca da ausência de seus requisitos, a cargo do interessado, conforme dispõe o art. 204 do CTN. Presentes todos os requisitos do art. 202 do CTN, bem como, do §5º, do art. 2º, da Lei 6.830/80 não há falar em nulidade do título. Não possui caráter confiscatório a multa de revalidação que se encontra pautada pelos ditames legais, em face de seu desiderato punitivo e de seu caráter não-tributário.”
+    Os embargos de declaração foram desprovidos (eDOC-1, p. 213).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, LV; 93, IX; e 145, §2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que a Taxa de Gerenciamento, Fiscalização e Expediente do Sistema de Transporte Coletivo Intermunicipal é inconstitucional uma vez que possuiu a mesma base de cálculo do ICMS.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalta-se que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Por fim, verifico que o Tribunal a quo considerou válida a CDA expedida em desfavor da recorrente por possuir todos os requisitos legais exigidos. Considerou inexistente vícios formais ou materiais capazes de desconstituir a presunção de certeza e liquidez da Cetidão (eDOC-1, p. 200).
+    O recurso extraordinário, por sua vez, apoiou-se na impossibilidade de cobrança do tributo, alegando possuir, a Taxa de Gerenciamento, Fiscalização e Expediente do Sistema de Transporte Coletivo Intermunicipal, a mesma base de cálculo do ICMS. Aplicável, portanto, o disposto na Súmula 284/STF: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 21, §1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários advocatícios fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 12 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
