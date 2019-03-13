@@ -1,0 +1,48 @@
+RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA. TERCEIRIZAÇÃO DE SERVIÇOS PARA CONSECUÇÃO DE ATIVIDADE-FIM. RESPONSABILIDADE SUBSIDIÁRIA DA EMPRESA CONTRATANTE. ALEGAÇÃO DE AFRONTA À AUTORIDADE DA DECISÃO DESTA SUPREMA CORTE PROFERIDA NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL 324. ARTIGO 25, PARÁGRAFO 1º, DA LEI 8.987/1995. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. PRECEDENTES. DEFERIMENTO DA MEDIDA LIMINAR.
+    DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Companhia Energética de Minas Gerais – CEMIG contra decisão proferida pela 11ª Turma do Tribunal Regional do Trabalho da 3ª Região nos autos do Processo 0000876-93.2015.5.03.0074, por suposta ofensa à Súmula Vinculante 10 e à autoridade da decisão proferida por esta Corte na Arguição de Descumprimento de Preceito Fundamental 324.
+    Extrai-se da sentença mantida pelo acórdão ora reclamado, in verbis:
+    “Tocante à responsabilidade da segunda ré, este Juízo já analisou nos autos do processo Proc. 00682-2008-074-03-00-6 (ação ajuizada pela esposa e filhas do trabalhador falecido em face das rés), tendo decidido verbis:
+    Os reclamantes denunciam a existência de intermediação de mão-de-obra entre as reclamadas.
+    O ordenamento jurídico repudia a intermediação de mão de obra, admitindo a terceirização de atividades acessórias, em alguns poucos casos, todos reproduzidos na Súmula 331 do TST.
+    […]
+    Do exame do contrato de prestação de serviços de f. 181 e seguintes, firmado entre as rés, constata-se que a segunda reclamada utilizou-se da primeira acionada para a construção e manutenção de rede elétrica, que abrange uma de suas atividades-fim. E a atividade exercida pelo falecido, dada a sua natureza (eletricista), está incluída na atividade principal da segunda demandada. Vê-se que a inserção da primeira reclamada entre a segunda e o reclamante serviu apenas para possibilitar a sonegação de direitos trabalhistas, caracterizando um verdadeiro merchandage, o que é, repise-se, vedado pelo ordenamento jurídico.
+    […]
+    Afastadas, pois, quaisquer das hipóteses lícitas de terceirização, resta configurada a responsabilidade solidária da segunda reclamada pelo adimplemento dos direitos deferidos, com fundamento no disposto no parágrafo único do art. 942 do CCB c/c parágrafo único dor artigo 8º da CLT.
+    De par com isso, pelo próprios fundamentos supra (expostos nos autos do processo Proc. 00682-2008-074-03-00-6), reputo que as rés devem ser responsabilizadas solidariamente pelas indenizações deferidas nesta demanda, com fulcro no artigo 942, caput e parágrafo único, do Código Civil.” (Doc. 5, fls. 16-17)
+    Narra a parte reclamante que é demandada em processo no qual se discute a responsabilização solidária pelo pagamento de indenização por danos morais em razão de acidente de trabalho em ação proposta por Geraldo Silva e Mirtes Joana Silva.
+    Relata que o Tribunal Regional do Trabalho da 3ª Região invocou o enunciado da Súmula 311 do TST para condenar a CEMIG ao pagamento da indenização por danos morais aos ora beneficiários, por considerar ilícita a terceirização realizada.
+    Sustenta que o juízo reclamado, ao acolher a tese de ilicitude da terceirização da atividade-fim, desconsiderou a autoridade da decisão proferida na Arguição de Descumprimento de Preceito Fundamental 324.
+    Afirma, ainda, que, “ao entender pela ocorrência de terceirização ilícita da atividade-fim e condenar a ora Reclamante ao pagamento de indenização por danos morais, a decisão do Regional Trabalhista negou vigência ao § 1º do artigo 25 da Lei 8.987/95 sem, contudo, declarar a inconstitucionalidade do mencionado dispositivo, contrariando, dessa forma, a Súmula Vinculante nº 10 do STF”.
+    Requer, liminarmente, a suspensão da decisão impugnada e da tramitação do Processo 0000876-93.2015.5.03.0074. No mérito, requer a procedência do pedido para cassar a decisão ora reclamada.
+    É o relatório. DECIDO.
+    Antes de examinar se, de fato, há desobediência à decisão proferida nos autos da ADPF 324, Rel. Min. Roberto Barroso, é preciso esclarecer o que ela dispõe. Naquela ocasião, o Tribunal julgou procedente o pedido formulado pela Associação Brasileira do Agronegócio – ABAG e firmou a seguinte tese:
+    “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada.
+    2. Na terceirização, compete à contratante:
+    i) verificar a idoneidade e a capacidade econômica da terceirizada; e
+    ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993.”
+    Com efeito, no referido julgamento fixou-se o entendimento de que “é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”.
+    Da análise dos autos, verifica-se que a pretensão deduzida pelo autor da demanda de origem envolve a verificação da licitude de contratação via terceirização, para fins de responsabilização subsidiária da ora reclamante pelo pagamento de indenização por acidente de trabalho.
+    No julgamento daquela demanda, o juízo reclamado condenou a ora reclamante, solidariamente, ao pagamento da indenização postulada pelos autores da ação, por considerar ilícita a terceirização realizada.
+    Destarte, observa-se que a decisão proferida nos autos da ADPF 324 abarca o caso concreto, já que guarda similitude fática com a situação posta nos autos.
+    De outro lado, quanto à alegada ofensa ao teor da Súmula Vinculante 10, é preciso esclarecer o que ela dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.”
+    Nesse contexto, ao realizar a leitura da sentença mantida pelo decisum ora reclamado, verifico que também parece ter havido afronta ao conteúdo da súmula vinculante em apreço, conforme se observa do seguinte excerto:
+    “Tocante à responsabilidade da segunda ré, este Juízo já analisou nos autos do processo Proc. 00682-2008-074-03-00-6 (ação ajuizada pela esposa e filhas do trabalhador falecido em face das rés), tendo decidido verbis:
+    […]
+    Do exame do contrato de prestação de serviços de f. 181 e seguintes, firmado entre as rés, constata-se que a segunda reclamada utilizou-se da primeira acionada para a construção e manutenção de rede elétrica, que abrange uma de suas atividades-fim. E a atividade exercida pelo falecido, dada a sua natureza (eletricista), está incluída na atividade principal da segunda demandada. Vê-se que a inserção da primeira reclamada entre a segunda e o reclamante serviu apenas para possibilitar a sonegação de direitos trabalhistas, caracterizando um verdadeiro merchandage, o que é, repise-se, vedado pelo ordenamento jurídico.
+    […]
+    Afastadas, pois, quaisquer das hipóteses lícitas de terceirização, resta configurada a responsabilidade solidária da segunda reclamada pelo adimplemento dos direitos deferidos, com fundamento no disposto no parágrafo único do art. 942 do CCB c/c parágrafo único dor artigo 8º da CLT.” (Doc. 5, fls. 16-17, grifei)
+    Destarte, a decisão ora reclamada afastou o que dispõe o artigo 25, § 1º, da Lei 8.987/1995, cujo teor transcrevo:
+    “Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.” (Grifei)
+    Dessa forma, entendo, neste juízo provisório, que, ao invocar a Súmula 331 do Tribunal Superior do Trabalho, o órgão fracionário afastou integralmente o comando legal que permite a terceirização, pelas concessionárias de serviço público, de atividades inerentes ao serviço concedido, em afronta à Súmula Vinculante 10, uma vez que destituiu “a norma de qualquer carga de eficácia jurídica, esvaziando por completo a pretensão originária do legislador, seja ela qual tenha sido” (Rcl 25.508, Rel. Min. Alexandre de Moraes, DJe de 22/08/2017).
+    No mesmo sentido cito as seguintes decisões monocráticas: Rcl 25.508, Rel. Min. Alexandre de Moraes; Rcl 10.132, Rel. Min. Gilmar Mendes; Rcl 19.598-MC, Rel. Min. Cármen Lúcia; e Rcl 23.024-MC, Rel. Min. Roberto Barroso.
+    Ex positis, por entender que os argumentos da parte reclamante são plausíveis, DEFIRO a MEDIDA LIMINAR, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para suspender os efeitos da decisão ora reclamada, até o julgamento final desta reclamação.
+    Solicitem-se informações (artigo 989, inciso I, do CPC) e comunique-se a autoridade reclamada acerca do teor desta decisão, em especial no que concerne ao deferimento da medida liminar.
+    Citem-se os beneficiários do decisum impugnado para a apresentação de contestação (artigo 989, inciso III, do CPC).
+    Nos termos do artigo 52, parágrafo único, do RISTF, dispenso o parecer da Procuradoria-Geral da República, por cuidar-se de matéria de caráter reiterado.
+    Publique-se.
+    Brasília, 13 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
