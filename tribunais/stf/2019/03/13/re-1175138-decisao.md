@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região que julgou improcedente pedido de readequação do valor de benefício previdenciário aos tetos estabelecidos pelas ECs 20/1998 e 41/2003, por entender que o direito pleiteado não alcança os benefícios que foram concedidos anteriormente ao advento da Constituição de 1988, como ocorre neste caso (DIB: 04.03.1987). Veja-se, nesse sentido, a ementa do julgado, proferido em juízo de retratação:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. ADEQUAÇÃO DE BENEFÍCIO AOS TETOS FIXADOS PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. PRECEDENTE DO STF (REPERCUSSÃO GERAL): RE 564.354/SE. BENEFÍCIO CONCEDIDO ANTES DA PROMULGAÇÃO DA CONSTITUIÇÃO DE 1988. RENDA MENSAL INICIAL E SALÁRIO DE BENEFÍCIO CALCULADOS SEGUNDO SISTEMÁTICA VIGENTE (CLPS). REVISÃO INDEVIDA. ACÓRDÃO MANTIDO. JUÍZO DE RETRATAÇÃO NEGATIVO.
+    [...]”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente violação aos arts. 5º, caput, e 93, IX, da CF, bem como aos arts. 14 da EC 20/1998 e 5º da EC 41/2003.
+    O recurso extraordinário deve ser provido. O Plenário do Supremo Tribunal Federal, ao examinar o mérito do RE 564.354, Relª. Minª. Cármen Lúcia, sob a sistemática da repercussão geral (Tema 76), entendeu ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários-de-contribuição que foram utilizados para os cálculos iniciais.
+    Acresce que a jurisprudência do STF afirma positivamente pela aplicação imediata dos mencionados tetos, inclusive, aos benefícios concedidos anteriormente ao advento da Constituição Federal de 1988. Vejam-se, nessa linha: RE 959.061-AgR, Rel. Min. Edson Fachin, Primeira Turma; RE 1.105.261-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, bem como o RE 1.054.294-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Previdenciário. 3. Reajuste de benefício anterior à CF/88. Emendas Constitucionais 20/1998 e 41/2003. Tema 76. Aplicação imediata. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental.”
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso. Ficam invertidos os ônus de sucumbência.
+    Publique-se.
+          Brasília, 13 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
