@@ -1,0 +1,28 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita, no que importa:
+    “CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO INTERNO. CONCURSO PÚBLICO PARA SOLDADO DE FILEIRA DA POLÍCIA MILITAR ESTADUAL. EDITAL. IDADE LIMITE DE 30 ANOS. COMPROVAÇÃO EXIGIDA PARA INSCRIÇÃO NO CURSO DE FORMAÇÃO. REPROVAÇÃO PELO EXTRAPOLAMENTO DA IDADE MÁXIMA NA 3ª ETAPA DO CERTAME, QUAL SEJA, CURSO DE FORMAÇÃO PROFISSIONAL. CANDIDATO QUE JÁ CONTAVA COM 29 ANOS QUANDO DA INSCRIÇÃO DO CONCURSO. CLASSIFICADO SOMENTE PARA 2ª TURMA DO CURSO DE FORMAÇÃO, QUANDO JÁ HAVIA COMPLETADO 31 ANOS. LIMITAÇÃO JUSTIFICADA PELA NATUREZA DA ATRIBUIÇÃO DO CARGO. PREVISÃO EM LEI ESTADUAL. POSSIBILIDADE. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+    1 – A questão controvertida cinge-se à legalidade da participação do recorrente no Curso de Formação Profissional para ingresso na Polícia Militar do Estado do Ceará, tendo em vista contar com idade superior à prevista em lei e no edital do certame.
+    [...]
+    3 – A limitação de idade para inscrição em concursos públicos para policial militar é perfeitamente viável, desde que tal discriminação, gerada em virtude da natureza especial das atribuições, esteja prevista em lei estadual, tal como no caso em questão.
+    4 – Não há que se falar de ilegalidade ou inconstitucionalidade da norma editalícia que prevê o limite máximo de 30 (trinta) anos para a matrícula no Curso de Formação Profissional, ademais, quando não demonstrado qualquer ausência de razoabilidade na espécie.
+    5 – In casu, o candidato recorrente, à data da inscrição do concurso, já possuía 29 (vinte e nove) anos de idade, ou seja, já era previsível que no decorrer das etapas do concurso pudesse atingir a idade limite, uma vez que o certame poderia não ser concluído no período de 1 (um) ano.
+    6 – Nesse passo, o candidato era consciente dos riscos que corria ao participar de um certame com expressa limitação de idade, deveria ter ciência, desde o início, como condição imprescindível para matricular-se no Curso de Formação, a idade limite de 30 (trinta) anos, nos termos da cláusula 3.2 do edital.
+    7 – Agravo Regimental conhecido e desprovido” (págs. 1-2 do documento eletrônico 19).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação dos arts. 5°, caput; 37, caput, I e II; e 93, IX, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo provimento do recurso extraordinário (documento eletrônico 28).
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com o entendimento desta Corte firmado no sentido de que a comprovação do requisito de idade deve ser realizada no momento da inscrição no concurso público. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal, cujas ementas transcrevo a seguir:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. LIMITE DE IDADE. PREVISÃO EM LEI ESPECÍFICA E NO EDITAL. COMPROVAÇÃO. MOMENTO DA INSCRIÇÃO.
+    1.  É possível a imposição de limite de idade para inscrição em concurso público, desde que haja anterior previsão legal e que a exigência seja razoável diante das atribuições do cargo público. Precedentes.
+    2.  A comprovação da idade ocorre no momento da inscrição, tendo em conta a impossibilidade de se antever a data em que será realizada a fase fixada como parâmetro para aferição do requisito da idade.
+    3.  Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    4.  Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 943.837-AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma – grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. LIMITE ETÁRIO. COMPROVAÇÃO. MOMENTO DA INSCRIÇÃO. PRECEDENTES. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 895.591-AgR/CE, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 7.6.2017. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CURSO DE FORMAÇÃO DE OFICIAIS DA POLÍCIA MILITAR DO ESTADO DE GOIÁS. LIMITE DE IDADE. PREVISÃO EM LEI. MOMENTO DA COMPROVAÇÃO. INSCRIÇÃO NO CERTAME.
+    1. A idade estabelecida em lei e no edital do certame deve ser comprovada no momento da inscrição no concurso.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o artigo 85, § 11, CPC, porquanto não houve fixação de honorários anteriormente” (ARE 979.284-AgR/GO, Rel. Min. Edson Fachin, Segunda Turma – grifei).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. Limite etário para participação de curso de formação da Polícia Militar do Estado do Ceará. Impossibilidade de dimensionar o período transcorrido entre a abertura das inscrições do concurso e a efetiva homologação. A comprovação da idade deve dar-se no momento da inscrição. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE 721.339-AgR/CE, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento. Com base no art. 85, § 8°, do Código de Processo Civil, fixo os honorários advocatícios em R$ 500,00 (quinhentos reais).
+    Publique-se.
+    Brasília, 13 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
