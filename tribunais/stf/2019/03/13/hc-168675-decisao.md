@@ -1,0 +1,21 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Humberto Tibagi de Barros em favor de Emilio Gabriel Junior, contra decisão monocrática da lavra da Ministra Laurita Vaz, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 493.957/SP.
+    O paciente foi condenado à pena de 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial aberto, pela prática do crime de peculato (art. 312, § 1º, do CP), tendo sido substituída a pena privativa de liberdade por duas restritiva de direitos - prestação de serviços à comunidade e prestação pecuniária.
+    Extraio do ato dito coator:
+    “(...).
+    A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido e do perigo na demora. Este pode até ser admitido; aquela, ao revés, não se evidencia estreme de dúvidas, mormente diante do lapso temporal entre a determinação de cumprimento das penas restritivas de direitos que lhe foram aplicadas (11/06/2013) e a conversão em privativa de liberdade nos moldes estabelecidos na sentença condenatória (09/04/2018). Inadimplidas as condições do regime aberto, houve a regressão ao regime intermediário.
+    Assim, prima facie, houve um descumprimento reiterado pelo Paciente das obrigações impostas, apto a demonstrar, aparentemente, a razoabilidade da medida ora impugnada.
+    O caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável neste juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+    Ante o exposto, INDEFIRO o pedido liminar”.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Insurge-se contra a regressão ao regime intermediário pelo descumprimento da pena restritiva de direitos. Argumenta a existência de circunstâncias favoráveis, como bons antecedentes, residência fixa e ocupação lícita. Requer, em medida liminar e no mérito, a suspensão da regressão de regime, a continuidade do cumprimento das penas restritivas de direitos e, sucessivamente, a fixação de regime aberto.
+    É o relatório.
+    Decido.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 138.565/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 03.8.2017; HC 137.078/SP, de minha relatoria, 1ª Turma, DJe 24.4.2017; HC 136.296/SP, de minha relatoria, 1ª Turma, DJe 24.10.2016; e HC 134.104/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 19.8.2016.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete, pois, de acordo com o ato dito coator, ‘O caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável neste juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito’.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de março de 2019.
+Ministra Rosa Weber
+Relatora
