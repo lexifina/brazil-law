@@ -1,0 +1,24 @@
+DECISÃO
+MANDADO DE SEGURANÇA – CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO – REMOÇÃO –INTERESSE PÚBLICO – PROCEDIMENTO – INICIATIVA – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. William Akerman Gomes assim revelou as balizas do caso:
+    Ignez Guimarães Bolotário insurge-se em face de ato por meio do qual o Corregedor Nacional do Ministério Público provocou a deflagração da reclamação disciplinar nº 1.00562-2018-17, a ser submetida à admissibilidade do Plenário do mencionado Conselho, visando aferir a necessidade da remoção por interesse público.
+    Evocando os artigos 130-A, § 2º, inciso III, da Constituição Federal, 142 do Regimento Interno do Conselho, 98, inciso XVII, e 211 da Lei Complementar nº 75/1993, sustenta ser o pronunciamento inconstitucional, ilegal e abusivo.
+    Diz usurpada a atribuição do Plenário do Conselho pelo Corregedor Nacional ao haver “autuado de ofício a reclamação” visando remoção por interesse público.
+    Aduz a impossibilidade jurídica da pretensão de remoção por interesse público sem motivação disciplinar e assinala que não teve acesso à citada reclamação. Alega desvio de finalidade no ato, parcialidade do Corregedor Nacional e violação da inamovibilidade, do contraditório e da ampla defesa.
+          Articulando com a gravidade e a complexidade dos fatos, pretende, liminarmente, suspender os efeitos das reclamações disciplinares nº 1.00521/2018-85 e 1.00562/2018-17 até ulterior decisão colegiada. Busca, alfim, a confirmação da tutela provisória, com o deferimento da ordem para reconhecer a nulidade dos atos praticados nos referidos procedimentos.
+    Em 9 de julho de 2018, a Presidência do Supremo, durante as férias coletivas, determinou a requisição de informações à autoridade impetrada e o encaminhamento do processo, a seguir, a Vossa Excelência.
+    O Corregedor Nacional do Ministério Público prestou informações. Noticia a instauração do processo administrativo disciplinar nº 1.00391/2018-26 contra a impetrante, a partir da apuração realizada na reclamação nº 1.0090/2017-48. Declara ter havido a constatação, pela Corregedoria Nacional do Ministério Público, do risco da permanência da impetrante, na Procuradoria do Trabalho em Londrina, à adequada prestação dos serviços à comunidade local, em razão das dificuldades de relacionamento com o público interno e externo.
+    Relata a instauração da reclamação disciplinar nº 1.00521/2018-85 com a única finalidade de submeter a remoção por interesse público à admissibilidade do Plenário do Conselho, o que, conforme aponta, atende à ampla defesa e ao contraditório de forma mais efetiva do que a apresentação do pedido em mesa, como é facultado ao Corregedor.
+    Sublinha ser viável relativização da garantia da inamovibilidade por meio de remoção por interesse público mediante ato do Conselho, aludindo à inteligência do artigo 93, inciso VIII, da Constituição Federal. Reportando-se ao artigo 142 do Regimento Interno do Conselho, reitera a exigência de pronunciamento do Plenário apenas para instaurar o procedimento de remoção e ressalta a previsão da iniciativa por qualquer autoridade ou cidadão visando a deflagração.
+    Esclarece a respeito do equívoco na distribuição do procedimento nº 1.00562/2018-17 ao conselheiro Lauro Machado Nogueira, sanado, segundo articula, com o imediato arquivamento em 25 de junho de 2018. Sustenta inexistir ofensa a direito líquido e certo.
+    O processo encontra-se concluso para apreciação da medida acauteladora.
+    2. Percebam a dinâmica e a organicidade do Direito. A impetração versa a legalidade da deflagração do procedimento nº 1.00562-2018-17 pelo Corregedor Nacional do Ministério Público a ser submetido à admissibilidade do Plenário do Conselho, visando aferir a necessidade da remoção por interesse público.
+    O artigo 142 do Regimento Interno do Conselho Nacional do Ministério Público prevê a possibilidade de provocação por qualquer autoridade ou cidadão quanto à deflagração do procedimento objetivando a remoção por interesse público. Apenas a efetiva instauração – e não a mera provocação – está circunscrita à esfera de atribuições do Plenário do Conselho.
+    Inexiste a alegada impossibilidade de remoção por interesse público. Em virtude de não ser garantia de caráter absoluto, os artigos 128, § 5º, inciso I, alínea “b”, da Constituição Federal e 38, inciso II, da Lei nº 8.625/1993 ressalvam, expressamente, a inamovibilidade ante a necessidade de atendimento ao interesse público.
+    Não vislumbro, no campo precário e efêmero, os requisitos autorizadores do implemento de medida acauteladora.
+    3. Indefiro a liminar, a teor do artigo 7º, inciso III, da Lei nº 12.016/2009.
+    4. Após, colham o parecer da Procuradoria-Geral da República, nos termos do artigo 12 da Lei nº 12.016/2009.
+    5. Publiquem.
+Brasília, 14 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
