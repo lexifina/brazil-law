@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 496.363/SP. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] ou JHONATAN HENRIQUE [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Ao que se tem dos autos, o Paciente foi preso em flagrante, em 15/09/2018 (convertido o flagrante em prisão preventiva na mesma data), e posteriormente denunciado pela suposta prática dos crimes tipificados no art. 33, caput, c.c. art. 40, inciso V, da Lei n.º 11.343/2006, c.c. o art. 29, caput, do Código Penal e no art. 35, caput, c.c. o art. 33, caput, ambos da Lei de Drogas.
+Isso porque o Paciente teria se associado a outros 2 (dois) Acusados para o fim de praticar, em tese, o delito de tráfico de drogas entre Estados da Federação.
+Segundo consta dos autos, o Paciente estaria atuando na escolta de veículo que transportava 323,498 Kg (trezentos e vinte três quilogramas e quatrocentos e noventa e oito gramas) de maconha (peso líquido), acondicionados em 446 (quatrocentos e quarenta e seis) invólucros de plástico, na forma de tijolos (fl. 169).
+Conforme se verifica nos autos do HC n.º 496.363/SP (conexo ao presente writ), o Tribunal de origem denegou a impetração originária em acórdão assim ementado:
+"Habeas Corpus - Tráfico de droga - Insurgência contra a manutenção da custódia cautelar - Alegações de ausência dos requisitos da prisão preventiva e de presença de condições pessoais favoráveis à liberdade provisória - Inadmissibilidade - Manutenção da prisão preventiva, para garantia da ordem pública, mercê gravidade in concreto do delito, evidenciada pela grande quantidade de droga apreendida (323,498 kg.  trezentos e vinte três quilogramas e quatrocentos e noventa e oito gramas  de "maconha"), reveladora da periculosidade do agente - Irrelevantes primariedade e bons antecedentes - Descabimento, por inadequação, de qualquer das medidas cautelares previstas no artigo 319 do Código de Processo Penal, com a redação dada pela Lei nº 12.403/2011, mormente em face da norma inscrita no artigo 282, inciso II, do mesmo Código. Mandamus denegado."
+Nas razões deste habeas corpus, alega o Impetrante, inicialmente, a existência de excesso de prazo na formação da culpa, aduzindo que "já se faz 05 meses da prisão em flagrante e até o presente momento não houve julgamento do mérito da presente lide criminal" (fl. 5).
+No mais, sustenta que não estão presentes os requisitos legais para a manutenção da prisão preventiva.
+Assevera ser flagrantemente ilegal a decisão que decretou a prisão preventiva "já que sequer especifica a necessidade da manutenção do paciente em cárcere, ou seja trata-se de uma fundamentação abstrata, sem qualquer motivação concreta para a prisão  .. " (fl. 7).
+Assinala ser desnecessária a manutenção da custódia cautelar sob o argumento de que, "certamente, ao final do julgamento, a pena será de 01 (um) ano e 08 (oito) meses  ..  certamente será aplicado o tráfico privilegiado, crime este, hoje, não considerado hediondo, tendo como consequência a aplicação de pena restritiva de direito ou, no máximo, a aplicação do regime inicial aberto" (fl. 16).
+Afirma, ainda, a possibilidade de aplicação de medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal (fls. 16-17).
+Requer, ao final, que, in verbis (fls. 17-18):
+ " ..  seja conhecido e provido o presente habeas corpus repressivo, e deferida a liminar pleiteada, nos ditames da Lei como medida de inteira justiça. Subsidiariamente, seja aplicado, em caráter liminar, 02 medidas cautelares diversas da prisão. Subsidiariamente requer-se a revogação da prisão preventiva por excesso de prazo na formação da culpa, tendo em vista que já se faz 05 meses da prisão em flagrante e até o presente momento não houve julgamento do mérito da presente lide criminal."
+É o relatório.
+Decido.
+O presente feito foi distribuído à minha relatoria em 06/03/2019.
+Ocorre que, no HC n.º 496.363/SP, a mim distribuído em 1º/03/2019, foi formulada idêntica pretensão, em favor do mesmo Paciente.
+A presente impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão e a mesma matéria.
+Com efeito, não podem ser processados nesta Corte, concomitantemente, habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do mandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
