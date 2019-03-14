@@ -1,0 +1,18 @@
+DECISÃO
+[NOME] acoima de ilegal acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0008378-82.2018.8.26.0496, que manteve o aresto que homologou a data da decisão que concedera a progressão ao regime semiaberto, como termo inicial para a aferição do tempo necessário à progressão ao regime aberto.
+A assere que "o lapso temporal para a segunda progressão de regime inicia-se na data em que os requisitos da primeira foram atingidos, pois a decisão judicial sobre progressão de regime tem natureza declaratória" (fl. 3).
+Requer, liminarmente e no mérito, a reelaboração dos cálculos de pena.
+Indeferida a liminar (fls. 41-42) e prestadas as informações (fls. 47-59), o Ministério Público Federal ofertou parecer pela concessão da ordem (fls. 61-65).
+Decido.
+O Tribunal de Justiça, ao decidir a controvérsia, assinalou :
+O termo inicial a ser adotado para fins de cálculo de progressão de regime não é a data em que o requisito objetivo foi preenchido pelo reeducando, mas sim o dia em que foi proferida sentença progredindo o sentenciado ao regime anterior.
+Tal decisão, ao analisar o preenchimento também do requisito subjetivo pelo condenado, possui cunho constitutivo, e não meramente declaratório de direito pré-existente (fl. 35, grifei).
+A respeito do tema, urge consignar que a Quinta e a Sexta Turmas desta Corte Superior alinharam-se ao posicionamento do Supremo Tribunal Federal de modo a fixar, como data-base para subsequente progressão de regime, aquela na qual o reeducando preencheu os requisitos objetivo e subjetivo do art. 112 da LEP e não aquela em que: a) o Juízo da VEC deferiu o benefício anterior ou b) ocorreu o efetivo ingresso no regime atual.
+A decisão que defere a progressão de regime é declaratória, e não constitutiva. Embora se espere celeridade da análise do benefício, é fato que a providência jurisdicional, por vezes, demora meses para ser implementada. Não se pode desconsiderar, em prejuízo do réu, o período em que, mesmo atendidos os requisitos legais, permaneceu a cumprir pena em regime mais gravoso, enquanto o Judiciário analisava seu pedido de promoção ou providenciava sua transferência para unidade prisional adequada.
+Ilustrativamente:
+ ..  A Quinta Turma do Superior Tribunal de Justiça - STJ, acompanhando o posicionamento adotado pela Suprema Corte no HC n. 115.254, Relator o Ministro Gilmar Mendes, modificou seu entendimento no sentido de que, nos casos em que houver excesso de prazo na apreciação do pedido de progressão de regime prisional, a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime (AgRg no REsp 1.582.285/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/08/2016)  ..  (HC n. 449.221/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2018).
+ ..
+3. Flagrante ilegalidade. A data-base para subsequente progressão de regime é aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das execuções deferiu o benefício.
+4. Agravo regimental improvido. Ordem concedida de ofício a fim de determinar o retorno dos autos ao Tribunal de origem para considerar a data-base para progressão de regime a data de implementação dos requisitos  ..  (AgRg no REsp n. 1721008/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 6/6/2018).
+À vista do exposto, concedo a ordem, a fim de fixar a data na qual o apenado cumpriu os requisitos objetivo e subjetivo para a promoção ao regime semiaberto, como termo a quo a ser observado em futuro pedido de progressão de regime.
+Publique-se e intimem-se.
