@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de THIAGO TAVARES DE LIMA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado da Paraíba.
+Depreende-se dos autos que o paciente cumpre pena de 11 anos e 1 mês de reclusão pelos crimes de tráfico de drogas, de associação para o tráfico e de posse irregular de arma de fogo de uso permitido. Efetuado pedido de progressão para o regime semiaberto, o pleito foi indeferido.
+O Tribunal de origem não conheceu de habeas corpus que visava à progressão de regime. Eis a respectiva ementa (e-STJ fl. 21):
+HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. EXECUÇÃO PENAL. INDEFERIMENTO DE PEDIDO DE PROGRESSÃO DE REGIME. INSURGÊNCIA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. CABIMENTO DE AGRAVO EM EXECUÇÃO. NÃO CONHECIMENTO DO WRIT.
+Existindo recurso próprio contra a decisão que o paciente afirma ser ilegal, previsto na Lei de Execução Penal, é incabível a análise do ato judicial em sede de habeas corpus, que não constitui sucedâneo recursal.
+É sabido que a matéria afeta ao habeas corpus deverá ser adstrita ao exame da legalidade, ou não, de um ato que, eventualmente, lese, ou ameace lesionar, o direito de ir e vir do indivíduo, não comportando exame de mérito, vedada na via estreita via como esta.
+No presente habeas corpus, o impetrante defende que o paciente preenche os requisitos objetivos e subjetivos exigidos para o deferimento da progressão de regime. Ao final, requer a concessão do benefício.
+É, em síntese, o relatório.
+Conforme se depreende da leitura do acórdão que julgou o habeas corpus impetrado na origem, a progressão de regime não foi apreciada pela instância a quo, o que configura supressão de instância e impede o conhecimento do presente writ.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO. ASSOCIAÇÃO PARA O TRÁFICO. FALSA IDENTIDADE. DECISÕES DE INTERCEPTAÇÃO TELEFÔNICA E DE BUSCA E APREENSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. PROVAS AUTÔNOMAS. CONDENAÇÃO. TRANSNACIONALIDADE DO DELITO. COMPETÊNCIA DA JUSTIÇA FEDERAL. SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA EM PARTE.
+ ..
+3. O tema relativo à transnacionalidade do delito de tráfico não foi abordado no acórdão combatido, sendo vedado o seu exame por esta Corte sob pena de indevida supressão de instância.
+4. Ordem concedida, em parte, para declarar nulas as decisões que determinaram a quebra de sigilo telefônico e de busca e apreensão, assim como das provas decorrentes, devendo esse material probatório ser extraído dos autos. (HC 374.585/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2017, DJe 16/03/2017.)
+De qualquer forma, verifica-se constrangimento ilegal flagrante, haja vista que o Tribunal de origem se negou a enfrentar a matéria, ao argumento de que "existe recurso próprio para atacar a decisão impugnada" (e-STJ fl. 24).
+Contudo, a recusa do Tribunal de origem em examinar o writ configura constrangimento ilegal.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NULIDADE. CERCEAMENTO DE DEFESA NO CURSO DA AÇÃO PENAL. QUESTÃO NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. OMISSÃO NA ANÁLISE DO TEMA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO PARA O ENFRENTAMENTO DO TEMA PELO TRIBUNAL LOCAL.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. A falta de apreciação do tema pelo Tribunal local impede seu enfrentamento nesta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+3. Constrangimento ilegal constatado na negativa de apreciação da matéria atinente ao cerceamento de defesa, sob o lastro de deficiência na formação do remédio heroico, uma vez que o documento considerado necessário foi apresentado na impetração.
+4. Recurso ordinário não conhecido, mas, de ofício, concedida a ordem para determinar que o Tribunal de origem aprecie o mérito do habeas corpus originário, como entender de direito. (RHC 61.840/CE, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/08/2016, DJe 15/08/2016, grifei.)
+PROCESSUAL PENAL. HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. HABEAS CORPUS ORIGINÁRIO NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM POR SUPOSTA INADEQUAÇÃO DA VIA ELEITA. QUESTÃO DE DIREITO QUE INDEPENDE DA ANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RETORNO DOS AUTOS À ORIGEM. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. O Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. Hipótese em que o Tribunal de origem não conheceu da impetração originária - versando sobre a legalidade na imposição do regime inicial fechado -, por suposta inapropriação da via eleita. Não tendo havido o exaurimento da matéria pelas instâncias de origem, inviável a apreciação por esta Corte Superior de Justiça, sob pena de supressão de instância.
+3. Tratando-se de matéria exclusivamente de direito, não demandando revolvimento fático-probatório, inexiste óbice à análise do pedido formulado no habeas corpus originário, ainda que de ofício, nos termos do art. 654, §2º, do CPP. Precedentes.
+4. Writ não conhecido. Ordem concedida, de ofício, para determinar, o retorno da impetração ao Tribunal de 2º Grau para que este examine o mérito do Habeas Corpus originário, decidindo como entender de direito, mormente quanto à possibilidade de concessão da ordem, de ofício. (HC 349.445/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Contudo, concedo a ordem de ofício para determinar ao Tribunal de Justiça do Estado de Paraíba que aprecie o mérito do writ impugnado (0044090-33.2010.8.15.0040).
+Publique-se. Intimem-se.
