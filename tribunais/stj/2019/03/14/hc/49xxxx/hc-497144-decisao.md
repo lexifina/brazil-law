@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO VICTOR LOBO DA SILVA, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ - HC n. 0702452-03.2019.8.18.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Consta dos autos que o paciente foi preso em flagrante em 15-02-2019, como incurso nos artigos 157, § 2º, inciso II, § 2º-A, inciso I, e 288, ambos do Código Penal, tendo a custódia sido convertida em preventiva.
+Inconformada, a defesa impetrou prévio writ na origem, cujo pedido liminar foi indeferido.
+Entende que não estariam presentes os requisitos previstos no artigo 312 do Código de Processo Penal para a decretação da segregação cautelar.
+Aduz que não teria sido demonstrado, com base em elementos concretos, como a liberdade do acusado poderia oferecer risco à ordem pública, ao bom andamento da instrução criminal ou à aplicação da lei penal.
+Realça as condições pessoais favoráveis do paciente, que seria primário, menor de 21 anos, de bons antecedentes, com residência fixa e ocupação lícita, predicados que lhe garantiriam o direito de responder à ação penal em liberdade.
+Argumenta, por fim, a excepcionalidade da medida extrema, enfatizando que o acusado faria jus a substituição da preventiva por medidas cautelares descritas no art. 319 do CPP.
+Requer, liminarmente, a concessão da ordem constitucional para que possa aguardar em liberdade o julgamento final do writ e, no mérito, seja revogada a prisão preventiva, fixando, caso entenda necessário, medidas cautelares menos gravosas (art. 319 do CPP), expedindo-se alvará de soltura em seu favor.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fl. 79):
+ ..
+A princípio, verifica-se dos autos que a prisão preventiva mostra-se necessária para a garantia da ordem , nos termos do art. 312 do CPP, sobretudo em razão da , demonstrada pública gravidade concreta do crime pelo , uma vez que praticado mediante o emprego de armas de fogo e em concurso de modus operandi agentes (quatro).
+A propósito, consta dos autos Termo de Apreensão segundo o qual foram utilizados, na prática delitiva, um revólver calibre 32 e um 38, acrescidos de um simulacro de arma de fogo.
+Cumpre ressaltar que a vítima declara, perante a autoridade policial, que "os três indivíduos, todos armados, ", fato que evidencia maior gravidade concreta da passaram a apontar suas armas de fogo para a declarante conduta.
+Oportuno ressaltar, ainda, que a impetrante não apresentou documentos que comprovem a alegação de que o paciente possui "uma companheira grávida de 5 meses que depende de sua companhia durante a gestação ". ( ) e de seu labor para prover a subsistência Além disso, a existência de condições pessoais favoráveis, por si só, não constitui óbice à decretação da prisão preventiva.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
