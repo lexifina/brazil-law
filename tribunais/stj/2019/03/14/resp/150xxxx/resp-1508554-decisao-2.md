@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. IMPROBIDADE ADMINISTRATIVA. POLICIAL CIVIL. DISPARO DE ARMA DE FOGO DA CORPORAÇÃO PARA FINS ILÍCITOS. DOSIMETRIA DA PENA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Distrito Federal e Territórios contra acórdão proferido pelo Tribunal de Justiça do mesmo ente federativo assim ementado (e-STJ fl. 273):
+IMPROBIDADE ADMINISTRATIVA. BONS ANTECEDENTES. FATO ISOLADO. PREJUÍZOS MATERIAIS. EXTENSÃO DO DANO. REPARAÇÃO. INCOLUMIDADE PÚBLICA. CRITÉRIOS EQUITATIVOS. RAZOABILIDADE DA PUNIÇÃO. PRINCIPIO DA PROPORCIONALIDADE.
+I - O demandado é primário, tem bons antecedentes e registros funcionais irrepreensíveis, o que autoriza a conclusão de que a conduta ímproba, que levou à sua condenação, na esfera penal, a duas penas restritivas de direito, seja fato isolado em sua vida.
+II - O art. 12, parágrafo único, da Lei 8.429/92 determina que o Juiz, na fixação das penas, levará em conta a extensão do dano. Considerando que os prejuízos materiais foram espontaneamente reparados e avaliando a dimensão do perigo à incolumidade pública, em contraposição ao fato de que ninguém ficou ferido, revela-se desproporcional a demissão do agente público.
+III - Observadas, nas circunstâncias retratadas, a natureza da infração, a inexistência de danos concretos ao serviço público, as características subjetivas favoráveis do agente, a prestação de bons serviços à administração pública distrital sem qualquer antecedente desabonador, as circunstâncias conflituosas em que o ato ímprobo ocorreu, haja vista a violência da agressão anterior perpetrada por um desconhecido, é inequívoca a desproporção da pena de demissão do cargo público.
+IV - Apelação do réu provida.
+Opostos embargos de declaração, restaram parcialmente acolhidos nos seguintes termos (e-STJ fl. 283):
+EMBARGOS DE DECLARAÇÃO. VÍCIOS. OMISSÃO. CONTRADIÇÃO. TESE DE CONDUTA ATÍPICA. REJEIÇÃO EXPRESSA. FUNDAMENTAÇÃO. INTEGRAÇÃO. RETIFICAÇÃO DO RESULTADO.
+I - A tese de que a conduta do réu seria atípica, sob o ponto de vista da improbidade administrativa, foi rejeitada expressamente no acórdão, o que torna improcedentes os embargos de declaração nesse ponto específico.
+II - Constatada a avaliação sumária da adequação da multa fixada na r. sentença, cumpre integrar o julgado com os fundamentos que determinam sua manutenção, como sanção proporcional à improbidade reconhecida.
+III - Há contradição no resultado divulgado, pois a e. 6ª Turma Cível não deu provimento à apelação de forma unânime. Houve "parcial provimento por maioria", apenas para excluir a pena de demissão, posto que reconhecida a improbidade e mantido o dever de pagamento da sanção pecuniária.
+IV - Embargos de declaração do réu parcialmente providos para integrar a fundamentação. Embargos de declaração do Ministério Público providos para retificar o resultado final.
+Nas razões do recurso especial, o recorrente indica violação do art. 12, III, da Lei 8429/92, sustentando, em síntese, que o fato de o policial civil ter sido apenado pela prática do crime de disparo de arma de fogo não impede que tal conduta seja igualmente sancionada como ato de improbidade administrativa, nos termos do art. 11 da Lei 8429/92 e, ainda, que seja decretada a perda do cargo público.
+Contrarrazões às e-STJ fls. 340/349.
+Decisão de admissibilidade do recurso especial (e-STJ fls. 411/412).
+Parecer do Ministério Público Federal (e-STJ fls. 404/409).
+É o relatório. Decido.
+Incide o Enunciado Administrativo nº 2/STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+A insurgência deduzida no recurso especial sub examine diz respeito à falta de proporcionalidade das sanções cominadas à parte ora Recorrida.
+A esse respeito, o Tribunal a quo assim se manifestou:
+Em resumo, a aplicação de penalidades, com fundamento no art. 12 da Lei 8.429/92, deve considerar as circunstâncias objetivas dos fatos, de acordo com a natureza da improbidade e suas repercussões, além das elementares subjetivas do agente, de acordo com as atenuantes relatadas e seus antecedentes funcionais.
+Se o dano patrimonial foi reparado, a lesão à incolumidade pública foi liquidada na sentença penal e houve perdão tácito da entidade empregadora, na forma de arquivamento do processo administrativo, a sentença civil que, adequadamente fixa multa significativa, mas declara a perda do cargo, representa, a despeito da independência de instâncias, excesso jurídico, que não contribui para a pacificação social e para a harmonização do ambiente coletivo, funções precípuas da tutela jurisdicional.
+Observadas, nas circunstâncias retratadas, a natureza da infração, a inexistência de danos concretos ao serviço público, as características subjetivas favoráveis do agente, a prestação de bons serviços à administração pública distrital sem qualquer antecedente desabonador, as circunstâncias conflituosas em que o ato ímprobo foi perpetrado, haja vista a violência da agressão anterior perpetrada por um desconhecido, é inequívoca a desproporção da pena de demissão do cargo público.
+No caso dos autos, o acórdão recorrido fundamentadamente e, ainda, levando em conta o princípio da proporcionalidade bem como o conjunto fático e probatório constante dos autos, manteve a aplicação de multa civil e excluiu a penalidade de perda do cargo público. A revisão de tais fundamentos é inviável na via recursal eleita, tendo em vista a incidência da Súmula 7/STJ.
+No mesmo sentido:
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. PROPAGANDA POLÍTICA EM POSTOS DE SAÚDE. ART. 11 DA LEI 8.429/1992. VIOLAÇÃO DOS PRINCÍPIOS DA MORALIDADE, IMPESSOALIDADE E DA PUBLICIDADE. CONFIGURAÇÃO DE CULPA E DOLO GENÉRICO. ELEMENTO SUBJETIVO. DOSIMETRIA. ART. 12 DA LIA. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ.
+ ..
+6. O entendimento firmado na jurisprudência do STJ é no sentido, como regra geral, de que modificar o quantitativo da sanção aplicada pela instância de origem enseja reapreciação dos fatos e da prova, obstada nesta instância especial. Ademais, a análise da pretensão recursal no sentido de que sanções aplicadas não observaram os princípios da proporcionalidade e razoabilidade, com a consequente reversão do entendimento manifestado pelo Tribunal de origem, exige o reexame de matéria fático-probatória dos autos, o que é vedado em Recurso Especial, nos termos da Súmula 7/STJ. No ponto, é importante salientar que as razões expendidas no presente recurso não são suficientes a afastar a incidência da Súmula 7/STJ quanto à alegação de gravidade excessiva da pena aplicada. Afinal, houve ampla fundamentação acerca dos atos imputados aos ora recorrentes e correlação à penalidade imposta.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1656384/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 02/05/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DECISÃO ATACADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. IMPROBIDADE. ATO CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. INCIDÊNCIA.
+ ..
+6. Esta Corte consolidou o entendimento de que é viável a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa quando, da leitura do acórdão recorrido, verificar-se a desproporcionalidade entre os atos praticados e as sanções impostas.
+7. No presente caso, a imposição da multa civil no importe de R$ 20.000,00 (vinte mil reais) e a proibição de contratar com o poder público ou receber benefícios ou incentivos fiscais ou creditícios por 5 (cinco) anos evidenciam que a pena foi fixada dentro de um juízo de proporcionalidade, o que inviabiliza qualquer reproche a ser realizado na via excepcional.
+8. A imposição do ressarcimento não constitui uma sanção propriamente dita, mas sim uma recomposição do dano causado.
+ ..
+(AgInt no AREsp 617.831/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 09/10/2018, DJe 16/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
