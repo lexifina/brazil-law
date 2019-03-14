@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência das Súmulas 279/STF, 83/STJ e 7/STJ.
+Sustenta o recorrente violação dos arts. 35 e 42 da Lei 11.343/06 e 59 do CP, sob o fundamento de que há bis in idem na valoração da quantidade de droga para fixação da pena referente aos arts. 33 e 35 da Lei 11.343/06.
+Requer o provimento do recurso especial para que seja recalculada a pena-base relativa ao art. 35 da Lei 11.343/06, afastando-se a valoração negativa decorrente da quantidade de droga, e fixando-a no mínimo legal.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame do mérito recursal.
+O recorrente foi condenado pela prática dos delitos previstos nos arts. 33 e 35 da Lei 11.343/06 à pena de 11 anos de reclusão, regime fechado, e 1460 dias-multa. Interposto recurso pela defesa, o Tribunal de origem negou provimento à apelação.
+O voto condutor do acórdão assim decidiu quanto ao tema ora impugnado (fls. 670/671):
+Os aumentos operados nas penas-base foram devidamente fundamentados na sentença. O aumento da pena base em razão da natureza e quantidade de droga é expressamente autorizado pelo artigo 42 da Lei 11343/06.
+Nesse sentido, a doutrina:
+"É natural supor que, quanto maior for a quantidade de drogas ilícitas em circulação maior será o perigo em re- lação à saúde pública. Ademais quanto mais forte for a droga ilícita, igualmente, mais grave será a conseqüência
+em virtude da sua utilização. Esses fatores, portanto, podem e devem ser levados em conta pelo magistrado. "
+Certo, ainda, que a inteligência de tal dispositivo legal é que conforme a natureza da droga e sua quantidade, maior será o perigo à saúde.
+Com efeito, nos termos da jurisprudência desta Corte, não se verifica o alegado bis in idem em face da utilização da quantidade de droga apreendida - na hipótese, 4.192kg de cocaína - como fundamento para o incremento da pena-base dos delito de tráfico e de associação para o tráfico. Confiram-se, a propósito, os seguintes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO DO RÉU CONDENADO COMO INCURSO NOS ARTS. 33, CAPUT, E 35, AMBOS D. N. 11.343/06. PEDIDO DE ABSOLVIÇÃO. REEXAME DE FATOS. ÓBICE DA SÚMULA 7/STJ. PENA-BASE. MAJORAÇÃO. QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA. BIS IN IDEM. INOCORRÊNCIA. CRIMES DIVERSOS. REFORMATIO IN PEJUS. NÃO CONFIGURAÇÃO. PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO. 1. Hipótese em que o recorrente foi condenada pela prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei 11.343/06, por ter sido comprovado que ela e seu companheiro tinham em depósito no seu imóvel, para fins de comércio, 2,5 Kg de maconha. As instâncias ordinárias concluíram, ainda, que as circunstâncias do flagrante, especificamente a apreensão da expressiva quantidade de droga no quarto do casal e dos instrumentos para a comercialização da droga (3 balanças de precisão), bem como as prévias investigações policiais dando conta do intenso comércio ilícito na casa dos réus demonstravam o vínculo subjetivo entre a recorrente e seu companheiro na reiterada prática do comércio ilícito de entorpecentes.
+2. Dessa forma, a pretensão de absolvição pelos delitos de tráfico de drogas e de associação para o tráfico, este último sob a alegação de falta de comprovação da estabilidade e permanência entre os réus, demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em recurso especial (Súm. 7/STJ).
+3. O aumento da pena-base em 1 ano de reclusão, fundado na quantidade de droga (2,5 Kg de maconha), pelos delitos de tráfico de drogas e de associação para o tráfico, atende ao disposto no art. 59 do Código Penal e 42 da Lei n. 11.343/2006.
+4. Ao contrário da tese da defesa, não há que se falar em bis in idem na consideração da quantidade de drogas para majorar a pena-base, tanto em relação ao delito de tráfico (art. 33 da Lei n. 11.343/2006) quanto ao de associação para o tráfico (art. 35 da Lei n. 11.343/2006), uma vez que se tratam de crimes diversos.  ..  (AgRg no AREsp 736.226/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018).
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. CONTRADIÇÃO E OMISSÃO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PENA-BASE MAJORADA. ATIVIDADE CONJUNTA EXERCIDA PELOS MEMBROS DA ORGANIZAÇÃO CRIMINOSA DE MANEIRA ESTÁVEL E PERMANENTE E GRANDE QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO AO PRINCÍPIO DO NON BIS IN IDEM. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+ ..
+2. A pena-base do delito de associação para o tráfico foi devidamente fundamentada pela Corte estadual, que, além do embasamento na quantidade de drogas apreendidas, ressaltou que houve uma atividade conjunta exercida pelos membros da organização criminosa de maneira estável e permanente.
+Ademais, impende ressaltar que, "havendo a instância ordinária aumentado a pena-base dos delitos de tráfico e associação ao tráfico em razão da quantidade de droga apreendida  .. , agiu em observância ao art. 42 da Lei n. 11.343/2006" (AgRg no HC 388.641/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 04/09/2018).
+ ..
+4. Embargos declaratórios acolhidos para sanar os vícios apontados, sem efeitos modificativos (EDcl no HC 450.637/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/10/2018, DJe 08/11/2018).
+Incide, pois, in casu, o comando da Súmula 83/STJ, aplicável, inclusive aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
