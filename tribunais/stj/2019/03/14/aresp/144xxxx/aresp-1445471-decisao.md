@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL D3E INASALUBRIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Município de Rinópolis em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÃO - SERVIDORES MUNICIPAIS DE RINÓPOLIS - MECÂNICO - ADICIONAL DE INSALUBRIDADE - RESTABELECIMENTO - Art. 254, § 9o da Lei Orgânica Municipal - Laudo que concluiu pela existência de atividade insalubre exercida pelos autores, em grau máximo - Procedência - Ratificação dos fundamentos da r. sentença nos termos do art. 252 do Regimento Interno deste Tribunal, com acréscimo - Juros e correção monetária - Observação ao decidido no tema 810 do STF - Recurso não provido, com observação.
+Os Embargos de Declaração opostos foram rejeitados.
+Em suas razões de recurso especial, sustenta a parte recorrente que "tanto a Lei Orgânica do Município de Rinópolis, bem como o Estatuto dos Servidores, no que tange ao adicional de insalubridade, produziram norma de eficácia limitada e que dependia de integração legislativa ordinária" (e-STJ fl. 511).
+Apresentadas contrarrazões (e-STJ fls. 584/593).
+A decisão agravada negou seguimento ao especial sob a compreensão de que incide a Súmula 284/STF.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade recursais.
+Ofertada contraminuta (e-STJ fls. 639/648).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo o agravante impugnado os fundamentos da decisão de inadmissibilidade, passo a análise do recurso especial.
+A pretensão não merece acolhida.
+O recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal, o que não foi observado na espécie.
+Esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF  "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"  , também aplicada ao especial.
+A propósito, cito o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO PROAGRO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. DISCUSSÃO ACERCA DO VALOR DA COBERTURA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS E DO CONTRATO DE SEGURO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.  ..  III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado, no que respeita à alegação de omissão e contradição do julgado impugnado, ou a ausência de fundamentos para demonstrar de que modo os dispositivos legais teriam sido violados - arts. 186, 187 e 927 do Código Civil - consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). (AgInt no AREsp 1076685 / SC AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 2017/0072381-3, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 28/9/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
