@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 653):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO. ATIVIDADE ESPECIAL. CONSECTÁRIOS.
+Reconhecido o exercício de atividades especiais, é devida a conversão em tempo comum, para fins de revisão de aposentadoria.
+Naquela decisão, tendo como pano de fundo a revisão do benefício de aposentadoria por tempo de contribuição, foi decidido que autor logrou êxito em comprovar o exercício de labor especial, bem como a efetiva exposição a determinados agentes nocivos nos períodos em análise, sendo determinada pelo tribunal a quo a revisão da Renda Mensal Inicial - RMI do benefício previdenciário.
+Interpostos embargos de declaração, estes foram acolhidos para fins de sanar contradição existente entre a fundamentação e o dispositivo do voto condutor do acórdão, no seguintes termos (fl.673):
+Entretanto, a despeito da modificada no julgado de origem quanto à correção monetária, constou do dispositivo que se negava provimento à apelação do INSS e à remessa oficial.
+Portanto, dada à evidente contradição existente no voto condutor do acórdão, hão de ser acolhidos os presentes embargos de declaração para que o dispositivo tenha a seguinte redação: "Pelo exposto, voto no sentido de dar parcial provimento à apelação do autor, à apelação da autarquia e à remessa oficial".
+No presente recurso especial (fls. 680-689), o recorrente aponta, inicialmente, violação do artigo 1.022 do CPC, ao argumento de que, mesmo ante a interposição de embargos de declaração, o tribunal a quo teria deixado de apreciar a "legislação que fixa a forma de reconhecimento de tempo de serviço especial quando existente neutralização dos agentes insalubres".
+Alega, ainda, a contrariedade ao artigo 58, §§ 1º e 2º, da Lei n. 8.213/91.
+Sustenta, em síntese, que restou reconhecido para a parte autora o direito ao reconhecimento de tempo de serviço especial por periculosidade, embora inexista previsão regulamentar para o reconhecimento da insalubridade pelo desempenho de atividades perigosas com o advento do Decreto n. 2.172/97.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido, o recurso especial foi admitido na origem.
+É o relatório. Decido.
+Em relação à alegada violação ao art. 1.022 do CPC/15, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 1.022 do CPC/15 atrai o comando do enunciado sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Quanto à questão de fundo, de início, cabe ressaltar que são vários os períodos de trabalho em que se alega a especialidade do serviço, sendo que há a indicação da existência de laudo pericial em todos eles no acórdão recorrido a justificar a especialidade pelo agente nocivo.
+Sendo este o panorama dos autos tenho que incide a súmula 284/STF no recurso, porquanto a autarquia não aponta, dentre vários períodos indicados, aquele objeto do recurso nem a fundamentação utilizada no aresto, já que são diversas.
+Observa-se, ainda, que a conclusão do juízo a quo, a qual se baseou no conjunto fático-probatório dos autos, em relação a todos os períodos de labor especial em análise - após 1997 -, foi no sentido de ter restado devidamente comprovado nos autos o exercício de atividade especial pela parte autora, consoante a legislação aplicável a espécie, o que se depreende do seguinte trecho do acórdão recorrido, in verbis (fl. 645-646):
+Período 1º maio1995 a 9 jan.1998
+Empresa Conservex Vargas e Segurança Função Vigilante, com porte de arma de fogoAgentes nocivos Periculosidade
+Enquadramento Súmula 168 do TFR
+Comprovação CTPS (Evento 7-PROCADM2-p. 8) e PPP (Evento 27, PPP2-p. 1)
+Conclusão É possível o reconhecimento da especialidade pelo enquadramento por atividade profissional, por equiparação à função de guarda, conforme a jurisprudência deste Regional (TRF4, Quinta Turma, APELREEX 5007176-47.2012.404.7122, rel. [NOME], j. 3dez.2015); TRF4, Sexta Turma, APELREEX 5024472-08.2013.404.7200, rel. [NOME], j. 3fev.2016).
+Período 13 jan. 1998 a 26 out. 2000
+Empresa Mecânica e Metalúrgica Milano Funçãoa) de 13 jan.1998 a 31 mar.1999, ajudante de produção no setor de chaparia (estruturas metálicas); b) de 1ºabr.1999 a 26out.2000, ajudante geral no setor de fabricação (soldagem de botijões)Agentes nocivosem a), graxa e óleos minerais e ruído de 94 decibéis em b), ruído de 95 decibéis, fumos metálicos, radiações não ionizantes, graxa e óleos mineraisEnquadramentoCódigos 1.1.4, 1.1.6, 1.2.9 e 1.2.11 do anexo ao D 53.831/1964; códigos 1.1.5, 1.2.10 e 1.2.11 do anexo I ao D 83.030/1979; código 2.0.1 do anexo IV do D 2.172/1997 e código 2.0.1 do anexo IV do D 3.048/1999
+Comprovação PPP (Evento 7- PROCADM2-p. 13) e laudo técnico (Evento 29-LAU1)
+Conclusão É possível o reconhecimento da especialidade em razão da exposição efetiva aos agentes nocivos acima referidos, nos termos da legislação de regência, sendo que não há comprovação de que eventual uso de EPIs atenuasse a ação dos referidos agentes.
+Período 24 ago.2001 a 8 set.2008 Empresa Vigilância Triângulo Função Vigilante (atuava em áreas públicas e privadas, zelando pela segurança de pessoas e de patrimônio, inspecionando dependência e fazendo rondas, de forma a evitar roubos, controlando movimentação de áreas de acesso livre e fiscalizando pessoas)
+Agentes nocivos Periculosidade Enquadramento Súmula 168 do TFR
+Comprovação PPP (Evento 27-PPP2) Conclusão É possível o reconhecimento da atividade como especial, independentemente de não haver especificação a respeito do uso de arma de fogo, tendo em conta que, nos termos da jurisprudência deste Tribunal, é possível reconhecer a especialidade da atividade de vigia quando o segurado está comprovadamente exposto a agentes prejudiciais à saúde ou à integridade física, como no caso (TRF4, Sexta Turma, APELREEX 5024472-08.2013.404.7200, rel. [NOME], j. 3fev.2016)
+A comprovação da exposição efetiva aos agentes nocivos está suficientemente demonstrada, em especial pela prova técnica. em especial pela prova técnica. Quanto à questão da contemporaneidade do laudo, o entendimento desta Turma é de que "O fato de o laudo pericial não ser contemporâneo ao exercício das atividades laborativas não é óbice ao reconhecimento do tempo de serviço especial, visto que, se em data posterior ao labor despendido, foi constatada a presença de agentes nocivos, mesmo com as inovações tecnológicas e de medicina e segurança do trabalho que advieram com o passar do tempo, reputa-se que, à época do labor, a agressão dos agentes era igual, ou até maior, dada a escassez de recursos materiais existentes para atenuar sua nocividade e a evolução dos equipamentos utilizados no desempenho das tarefas" (TRF4, Quinta Turma, 5031879- 73.2014.404.9999, rel. [NOME], j. 18fev.2016).
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+E com fundamento no art. 85, §11, do CPC/2015, majoro os honorários advocatícios em 1% (um por cento).
+Publique-se. Intimem-se.
