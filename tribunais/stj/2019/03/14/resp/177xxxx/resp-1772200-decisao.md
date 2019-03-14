@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE A ENDEMIAS. PISO SALARIAL. LEI MUNICIPAL 03/2015, EDITADA EM OBSERVÂNCIA À NORMA FEDERAL. AUSÊNCIA DE INDICAÇÃO EXPRESSA DO DISPOSITIVO INFRACONSTITUCIONAL TIDO POR VIOLADO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça estadual, assim ementado (e-STJ fl. 196):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE A ENDEMIAS - SERVIDOR EFETIVO - PISO SALARIAL - LEI MUNICIPAL 03/2015, EDITADA EM OBSERVÂNCIA À NORMA FEDERAL - RESPEITO AOS PRINCÍPIOS DO PACTO FEDERATIVO E AUTONOMIA DOS ENTES FEDERATIVOS - PROVA NEGATIVA - ÔNUS DA COMPROVAÇÃO DE PAGAMENTO QUE RECAI SOBRE O ENTE PÚBLICO - ATUALIZAÇÃO MONETÁRIA PARA APLICAR O IPCA-E E JUROS PELO ÍNDICE DE CADERNETA DE POUPANÇA CONSOANTE ART. 1º-F, DA LEI 9494/97 - INVERSÃO DO ÔNUS SUCUMBENCIAL - SUCUMBÊNCIA DO APELANTE EM PARTE MÍNIMA DO PEDIDO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os recorrentes, em suas razões recursais, apontam violação da Lei 11.350/2006, com a redação dada pela Lei 12.994/2014, ao argumento de que "não existiu condição para aplicação imediata da lei nº 12.994/2014, que alterou a lei nº 11.350/2006, bem como, não consta da norma que fixou o Piso Salarial em R$ 1.014,00 para os Agentes Comunitários de Saúde e Guarda de Endemias, a exclusão dos servidores submetidos ao regime estatutário como ficou consignado no Acórdão atacado" (e-STJ fl. 210, grifo no original).
+Com contrarrazões (e-STJ fls. 246-254).
+Juízo positivo de admissibilidade às e-STJ fls. 275-283.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Constata-se que os recorrentes não indicam, nas razões do apelo nobre, dispositivo legal violado.
+Com efeito, com base no disposto no art. 105, III, "a" e "c", da CFRB, é dever do recorrente indicar expressamente qual o dispositivo legal violado, ao interpor seu recurso excepcional, sob pena de não conhecimento do apelo nobre.
+A jurisprudência do STJ é pacífica no sentido de que a não particularização, de forma inequívoca, pelo recorrente dos dispositivos legais que entenda tenham sido contrariados ou aos quais tenha sido conferida interpretação divergente configura deficiência insanável, atraindo, por analogia, a incidência do óbice da Sumula 284/STF, em ambas as alíneas do permissivo constitucional - o que inviabiliza a análise do mérito do recurso especial.
+A propósito, na parte que interessa:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  IMPOSSIBILIDADE. NÃO OBSERVÂNCIA DA REGRA INSERTA NO ART. 105, III, A, B E C, DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. Na esteira da jurisprudência desta Corte, "a ausência de indicação de dispositivo de lei federal que teria sido violado pelo acórdão recorrido ou interpretado de forma divergente pelos tribunais, torna o recurso especial interposto com base nas alíneas "a" e "c" do permissivo constitucional deficiente em sua fundamentação. Incidência, por analogia, da Súmula 284/STF" (STJ, AgRg no AREsp 635.592/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/03/2015).
+IV. No caso, tendo a parte recorrente, quando da interposição do seu Recurso Especial, indicado apenas violação ao art. 8º do RICMS do Estado de São Paulo, portanto, legislação estadual, afigura-se acertada a decisão que obstou o processamento do Apelo nobre, com base na Súmula 284 do STF, diante da ausência de menção expressa a afronta a dispositivo de legislação federal, nos moldes da alínea a do inciso III do art. 105 da Constituição Federal.
+V. Agravo Regimental improvido.
+(AgRg no AREsp 802.831/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 13/4/2016)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.  ..  AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL DE INTERPRETAÇÃO CONTROVERTIDA NOS TRIBUNAIS. SÚMULA 284/STF.  ..
+1. Revela-se incabível o conhecimento do Especial fundado no art. 105, III, alíneas a e c da Constituição Federal, uma vez que a Recorrente não indicou qual seria o dispositivo de lei federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia.
+ ..
+(AgRg nos EDcl no AREsp 25.735/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 4/3/2016)
+Ademais, o Tribunal de origem analisou a questão referente ao termo inicial do pagamento das diferenças correspondentes ao Piso Salarial das autoras, sob a seguinte fundamentação (e-STJ fls. 198-199):
+ ..  o direito dos autores somente exsurgiu com o advento da Lei Municipal 03/2015, cujo pagamento iniciou-se em janeiro/2015, pois descabido a aplicação da norma federal, para afastar a omissão dos Poderes Legislativo e Executivo municipais em disciplinar a matéria tratada, sob pena de violação ao pacto federativo e à autonomia dos entes federados.
+ ..
+Assim, em que pese a edição da norma federal, o pagamento somente se consubstancia para os agentes de saúde municipal, a partir da elaboração do regramento municipal sobre o piso.
+ ..
+Ademais, numa interpretação à normas legais sobre esse tema, de se observar que o regramento Federal nº 12.994/2014. Cumpria determinação trazida no art. o artigo 198 da CF, instituído pela Emenda 63/10, com a seguinte redação:
+"Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes:
+(..)
+§ 4º. Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação.
+§ 5º. Lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial."
+No entanto quanto aos agentes de saúde, a atividade era regida pela Lei n. 11.350/06, que dispunha em seu art. 8º: Os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4º do art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT, salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+Dentro deste panorama, como a Lei n. 11.350/06 definia o regime celetista como a regra para as contratações envolvendo agentes comunitários de saúde e de combate às endemias, e, considerando que a Lei Federal nº 12.994/2014, acresceu artigos à Lei 11.350/06, consoante expressa seu art. 1º "Art. 1º A Lei nº 11.350, de 5 de outubro de 2006, passa a vigorar acrescida dos seguintes artigos:(..)", a aplicação imediata da Lei 12.994/2014, somente ocorrerá nestes casos, não se aplicando aos servidores submetidos ao regime estatutário.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Acrescente-se, ainda, que para a resolução da controvérsia faz-se necessária a interpretação da legislação local, o que impede a sua revisão por esta Corte, ante o óbice descrito na Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
