@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - AÇÃO DECLARATÓRIA CUMULADA COM ANULATÓRIA E REPETIÇÃO DE INDÉBITO – IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA ( IPTU) - IMUNIDADE DE ENTIDADE SINDICAL (ARTIGO 150, INCISO VI, ALÍNEA ’C’, DA CONSTITUIÇÃO FEDERAL) – ESTACIONAMENTO – UTILIZAÇÃO DO BEM PARA FINS DIVERSOS DOS ESSENCIAIS DA ENTIDADE – SENTENÇA REFORMADA – INVERSÃO DO ÔNUS DE SUCUMBÊNCIA – RECURSO DE APELAÇÃO PROVIDO E REEXAME NECESSÁRIO PREJUDICADO” (pág. 2 do documento eletrônico 7).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 150, VI, c, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque a discussão trazida aos autos diz respeito à aplicação ou não dos bens imóveis para as finalidades essenciais do recorrente, de modo que para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. IMUNIDADE. ENTIDADE SINDICAL. COLÔNIA DE FÉRIAS. CONCLUSÃO DO TRIBUNAL A QUO DE QUE O BEM IMÓVEL NÃO ESTARIA DESTINADO ÀS FINALIDADES ESSENCIAIS DA AGREMIAÇÃO. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (ARE 920.747-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Tributário. Imunidade tributária. IPTU. Inexistência. Colônia de férias. Patrimônio não ligado às finalidades essenciais do sindicato. 3. Análise de fatos e provas. Súmula nº 279/STF. Precedentes. 4. Agravo regimental a que se nega provimento” (ARE 685.299-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: RE 245.093-AgR/SP, Rel. Min. Sepúlveda Pertence; ARE 1.063.507/SP, Rel. Min. Edson Fachin; ARE 1.071.260/SP, Rel. Min. Rosa Weber; e ARE 1.039.432/SP, Rel. Min. Roberto Barroso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados, observados os limites do art. 85, § 2°, do CPC.
+    Publique-se.
+    Brasília, 14 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
