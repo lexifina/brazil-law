@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. OMISSÃO QUANTO À INAPLICABILIDADE DA SÚMULA N. 7/STJ AO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE ANÁLISE DO ESPECIAL. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por Banco Santander Brasil S/A contra decisão monocrática de minha relatoria assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+A parte embargante sustenta que houve omissão a respeito da inaplicabilidade da Súmula n. 7/STJ ao caso em tela. Aduz que a questão é matéria essencialmente de direito em virtude da ofensa ao art. 2º, §§ 5º e 6º, da Lei n. 6.830/80, não havendo pedido para a revaloração das provas dos autos.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+In casu, o agravo em recurso especial não foi conhecido por ausência de impugnação a todos os fundamentos da decisão de inadmissibilidade. Dessa forma, não há que se falar em omissão acerca de aplicabilidade ou não de Súmula, posto que não se adentrou nas razões do especial.
+Os embargos de declaração possuem a finalidade simples de suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material.
+Essa espécie recursal só é admissível, portanto, quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida (cf. EDcl no AgRg nos EREsp 499.648/MA, Rel. Min. Arnaldo Esteves Lima, Corte Especial, DJe de 21.8.2008; EDcl no MS 8.650/DF, Rel. Min. Denise Arruda, Primeira Seção, DJe de 13.10.2008; EDcl no AgRg no Ag 941.403/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 23.10.2008).
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA POR INFRAÇÃO AMBIENTAL. TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO FÁTICO DA CAUSA, CONCLUIU PELA RESPONSABILIDADE DA PARTE PELO APONTADO DANO AMBIENTAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE DE ANÁLISE, NA VIA ESPECIAL, PELO STJ. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 21/11/2018.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, em razão da incidência das Súmulas 7/STJ e 284/STF.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à impossibilidade de manifestação desta Corte, em sede de Recurso Especial, ainda que para fins de prequestionamento, a respeito de alegada violação a dispositivos da Constituição Federal. Precedentes.
+V. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 1291936/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/02/2019, REPDJe 26/02/2019, DJe 25/02/2019)
+Ausente quaisquer das hipóteses legais, devem ser rejeitados os aclaratórios.
+Pelas considerações expostas, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
