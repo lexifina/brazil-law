@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 312):
+CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. OUTORGA DE DELEGAÇÃO DE SERVIÇOS NOTARIAIS E REGISTRAIS DO ESTADO DO RIO GRANDE DO SUL FASE DE INSCRIÇÃO DEFINITIVA. EDITAL DE ABERTURA nº 001/2015 E EDITAL DE CONVOCAÇÃO N. 05/2017 - CECPODNR PARA APRESENTAÇÃO DE DECLARAÇÃO DE TITULARIDADE DE ATIVIDADE NOTARIAL E DE ANTECEDENTES CRIMINAIS E CÍVEIS DE FORMA SUBSCRITA. PREENCHIMENTO PARCIAL DOS REQUISITOS. INDEFERIMENTO DA INSCRIÇÃO DEFINITIVA. MANUTENÇÃO. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO.
+1. O edital de abertura do certame para ingresso nos Serviços Notariais e de Registro do Estado do Rio Grande do Sul n2 001/2015 e o edital de convocação nQ 05/2017 previram que para a fase de inscrição definitiva no processo seletivo deveriam ser apresentadas pelos candidatos aprovados na etapa anterior, declaração de titularidade de atividade notarial e de antecedentes criminais e cíveis de forma subscrita.
+2. A parte impetrante apresentou a declaração de titularidade de acordo com o edital de abertura, contudo, no que tange à declaração de antecedentes criminais e cíveis, deixou de informar a existência de ação de execução cível, omitindo da Comissão do Concurso tal dado.
+3. Ato administrativo de indeferimento da inscrição definitiva do impetrante que está revestido de legalidade, pois exigiu do candidato conduta prevista no edital de abertura do certame.
+4. Ato administrativo de indeferimento da inscrição definitiva do impetrante que vai mantido, pelo não preenchimento do requisito editalício da declaração de antecedentes criminais e cíveis.
+SEGURANÇA DENEGADA. MAIORIA.
+Na origem, cuida-se de mandado de segurança, com pedido liminar, impetrado por [NOME], em face de ato supostamente ilegal atribuído ao 2º Vice Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul- Presidente do Conselho de Recursos Administrativos (CORAD) que negou provimento ao recurso administrativo proposto pelo recorrente.
+Em linhas gerais, informa que, no ano de 2015, participou do Concurso Público para Outorga de Delegação Notarial e de Registros do Estado do Rio Grande do Sul, Concurso de Ingresso-Provimento ou Remoção, na modalidade remoção.
+Após aprovação na prova objetiva e na fase intermediária, teve sua inscrição definitiva indeferida ante a ausência das seguintes documentações: a) declaração de próprio punho no que pertine a duas execuções fiscais e b) falta de comprovação de exercício por mais de dois anos da atividade notarial ou registral.
+Afirma no presente recurso ordinário que o v. Acórdão não pode prevalecer, porquanto alicerçado em formalismos há muito combatidos (fl. 351), e que jamais houve a intenção de omitir a existência de tais ações (..) deixou de mencioná-las na declaração de próprio punho por entender que ditas ações tratavam de processos findos, em razão do acordo entabulado (fl. 360).
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 395-407).
+O Ministério Público opina pelo desprovimento do recurso, nos termos do parecer de fls. 412-417, que guarda a seguinte ementa:
+Processual Civil. Administrativo. Concurso Público. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. Indeferimento da inscrição definitiva. Legalidade. Expressa exigência editalícia. Declaração de próprio punho acerca de antecedentes criminais e cíveis. Omissão da participação, como réu, em ações de execução cível. Princípios da vinculação ao edital e da isonomia. Precedentes do STJ. Parecer pelo conhecimento do recurso e, no mérito, pelo seu desprovimento.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto ao tema posto em discussão, o Tribunal de Origem assim se pronunciou:
+Prosseguindo, do exame da regra editalícia, se verifica que o impetrante apresentou precariamente a declaração de ausência de antecedentes criminais e cíveis (fl. 153), enquanto de fato, existe ação cível executiva ajuizada contra ele, conforme as informações de fls. 67-73, que omitiu da declaração.
+Tal fato foi considerado pela Comissão do Concurso como falha e não-cumprimento da regra editalícia.
+Ademais, no tocante à outra motivação da administração para negar a inscrição definitiva do impetrante, qual seja, a de não- apresentação de comprovante de exercício por mais de dois anos da titularidade da atividade notarial, tenho que não houve falha do candidato, haja vista a apresentação da Certidão-CGJ SECASEJ (fl. 130).
+Contudo, como pronunciou a autoridade impetrada no acórdão que julgou o recurso administrativo do impetrante (fls. 194-6): "a questão da ausência de comprovação da titularidade, apontada pela Comissão de Concursos, remanesce como questão de menor importância. Prejudicado seu enfrentamento, na medida em que o candidato já está eliminado por não ter cumprido com requisito essencial acima referido".
+As aludidas regras editalícias estão assim expressas edital:
+9. DA INSCRIÇÃO DEFINITIVA
+9.1. As inscrições definitivas serão recebidas pela FAURGS, em sua SEDE, no endereço especificado no subitem 1.2.1.
+9.2 Serão convocados para a inscrição definitiva os candidatos aprovados na prova escrita e prática.
+9.3 No prazo designado para a inscrição definitiva, o candidato, terá 15 (quinze) dias, prorrogáveis a critério da Comissão, para apresentar os seguintes documentos (cópia acompanhada do original para conferência ou cópia devidamente autenticada)
+a) cédula de identidade ou documento de identidade equivalente, reconhecido por lei;
+b) no caso de inscrição para vaga de ingresso por provimento:
+b.l) certificado de conclusão do curso de Bacharel em Direito, por faculdade oficial ou reconhecida, ressalvada a hipótese contemplada pela Súmula 266 do STJ; ou
+b.2) comprovação do exercício, por no mínimo dez anos, completados até a data da primeira publicação deste Edital, de função em serviço notarial ou de registro, através de um dos seguintes documentos:
+b.2.1) contrato de trabalho (CTPS, ficha de registro de empregados ou equivalente) estabelecido com o titular do serviço;
+b.2.2) certidão circunstanciada para fins específicos de inscrição no concurso, expedida pelo titular da serventia.
+c) no caso de inscrição pelo critério ingresso por remoção, comprovar ter exercido, por mais de 2 (dois) anos, a titularidade de atividade Notarial ou de Registro;
+d) duas (2) fotografias recentes, tamanho 3x4; e) prova de estar em dia com as obrigações militar e eleitoral, e inscrito no cadastro de pessoa física (CPF);
+f) curriculum vitae, com indicação das funções, atividades e cargos exercidos, públicos e privados, remunerados ou não, mencionando o(s) tempo(s) de serviços e consignando os lugares de residência desde os 18 (dezoito) anos de idade;
+g) declaração, subscrita de próprio punho, sobre antecedentes criminais, ações em que seja ou tenha sido réu, procedimentos administrativos em que tenha sido indiciado no juízo cível ou criminal, protesto de títulos, penalidades sofridas no exercício de cargo público ou em qualquer outra atividade profissional;
+(..)
+Assim, em que pese o impetrante tenha comprovado a sua titularidade, não cumpriu plenamente com o requisito da declaração de antecedentes criminais e cíveis, situação que não modifica a conclusão alcançada pela banca do concurso.
+(..)
+Da leitura do acordão mencionado, conclui-se que a decisão proferida pelo Tribunal a quo não merece reparos, eis que se encontra em consonância com o entendimento estabelecido pelo Superior Tribunal de Justiça.
+Com efeito, a jurisprudência dominante nesta Corte Superior é pacífica no sentido de que as regras editalícias, consideradas em conjunto como verdadeira lei interna do certame, vinculam tanto a Administração como os candidatos participantes. Desse modo, o concurso público deverá respeitar o princípio da vinculação ao edital.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. CARTÓRIO. CONCURSO PÚBLICO. NÃO APRESENTAÇÃO TEMPESTIVA DE DOCUMENTOS. DESCUMPRIMENTO DO EDITAL. INEXISTÊNCIA DE VIOLAÇÃO À ISONOMIA E À LEGALIDADE. TEMA APRECIADO PELO CNJ EM CASO IDÊNTICO. PRINCÍPIO DA VINCULAÇÃO AO EDITAL. PRECEDENTES. AUSÊNCIA DE CERTEZA E LIQUIDEZ DO DIREITO POSTULADO.
+1. Cuida-se de recurso ordinário interposto contra acórdão que denegou a segurança ao pleito de anulação da decisão administrativa de indeferimento de inscrição em concurso público pela ausência de apresentação de duas certidões exigidas pelo Edital. A recorrente alega que o prazo para retificação de documentos deveria ser-lhe franqueado para permitir a juntada posterior daqueles que se omitiu em agregar tempestivamente.
+2. Do exame dos autos, anoto que não há o direito líquido e certo buscado. A candidata não juntou, tempestivamente, a documentação demandada no Edital 01/2001 e teve sua inscrição indeferida; a previsão do item 8, "b" do Edital diz respeito à retificação de documento tempestivamente juntado, e não ao suprimento de documento não apresentado.
+3. Em caso idêntico, referido ao mesmo certame, o Conselho Nacional de Justiça assim manifestou, em Procedimento de Controle Administrativo: "cumpre reconhecer que o artigo fala, claramente, de apresentação incorreta de documentos, e não da falta, da ausência de documentos. O que se possibilita sanar, segundo o edital, é o documento incorreto (a exemplo da falta de autenticação em uma certidão) e não a ausência absoluta de algum documento." (CNJ, PCA 0006290-75.2011.2.00.0000).
+4. As obrigações dos editais de concursos públicos devem ter cumprimento compulsório, em homenagem ao art. 37, caput, da Constituição Federal. Precedentes: MC 19.763/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 14.11.2012; RMS 23.833/ES, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe lo.6.2011; RMS 29.646/AC, Rei. Min. Teori Albino Zavascki, Primeira Turma, DJe 17.8.2009; e AgRg na MC 15.389/AC, Rei. Min. Benedito Gonçalves, Primeira Turma, DJe 11.5.2009.
+Recurso ordinário improvido.
+(RMS 40.616/MG, Rei. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 07/04/2014)
+Forçoso concluir que o acórdão proferido pelo Tribunal a quo não merece reparos, haja vista em consonância com o entendimento prevalente nesta Corte Superior.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
