@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LIMITADA, em face de decisão que não admitiu recurso especial (fls. 246-256, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 175-185, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. SEGUROS. PLANO DE SAÚDE. HOME CARE. ALEGAÇÃO AUSÊNCIA DE COBERTURA. DESCABIMENTO. COBERTURA DEVIDA.
+1) Trata-se de ação de obrigação de fazer, através da qual o autor postula o fornecimento pela requerida dos serviços de home care, julgada procedente na origem.
+2) É aplicável o Código de Defesa do Consumidor aos contratos de seguro, na medida em que se trata de relação de consumo, consoante traduz o artigo 3º, §2º do CDC. Inteligência da Súmula 608 do STJ.
+3) O laudo médico colacionado às fls. 37/39 comprovou a necessidade de suporte e atendimento de manutenção do tratamento do autor, em razão da sua limitada atividade motora e respiratória, em face da doença neurodegenerativa - CID10 G11.1 -, que lhe acomete.
+4) O egrégio Superior Tribunal de Justiça, no julgamento do REsp nº. 1.378.707, reafirmou o entendimento de que o home care, quando prescrito pelo médico assistente, deve ser custeado pelo plano de saúde. Ressalva no sentido de que, nos contratos de plano de saúde sem contratação específica, o serviço de internação domiciliar (home care) pode ser utilizado em substituição à internação hospitalar, desde que observados certos requisitos como a indicação do médico assistente, a concordância do paciente e a não afetação do equilíbrio contratual nas hipóteses em que o custo do atendimento domiciliar por dia supera o custo diário em hospital.
+5) Destaca-se que é vedado ao plano de saúde recusar a custear tratamento prescrito pelo médico, mesmo quando o contrato não prevê cobertura em ambiente domiciliar, pois cabe ao médico definir qual é o melhor tratamento para seu paciente. Ademais, há previsão de cobertura no contrato para a doença apresentada pela parte agravada, e não a forma como o tratamento será realizado. Precedentes.
+Opostos embargos de declaração (fls. 189-191, e-STJ), esses foram rejeitados (fls. 193-200, e-STJ).
+Nas razões do recurso especial (fls. 204-212, e-STJ), a recorrente aponta violação aos artigos 1º, § 2º e 10, § 4º e inciso VI, e 12 da Lei 9.656/98; 4º, da Lei 9.961/00; 47 e 54, § 4º, do Código de Defesa do Consumidor; 10, 17, 369, 485, 489 1022 do CPC/2015; 186, 884 e 927 do Código Civil.
+Sustenta, em síntese, que: a) o acórdão é omisso quanto à incidência dos artigos 1º, § 2º e 10, § 4º e inciso VI, e 12 da Lei 9.656/98; 4º, da Lei 9.961/00; 47 e 54, § 4º, do Código de Defesa do Consumidor; 10, 17, 369, 485, 489 1022 do CPC/2015; 186, 884 e 927 do Código Civil à espécie; b) o contrato firmado junto à recorrida não prevê cobertura para atendimento domiciliar; e c) a limitação em comento está devidamente explicitada no instrumento contratual.
+Contrarrazões às fls. 219-231, e-STJ.
+Em juízo de admissibilidade (fls. 233-243, e-STJ), negou-se o processamento do recurso especial, sob os fundamentos de que: a) não houve negativa de prestação jurisdicional; e b) incidiriam ao caso os enunciados nº 5, 7 e 83 da Súmula do STJ.
+Irresignada, parte sucumbente interpõe o presente agravo, no qual refuta todos os óbices suscitados na decisão de admissibilidade.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, com lastro em entendimento firmado pelo Superior Tribunal de Justiça, consignou, de modo claro e fundamentado, ser abusiva a limitação de cobertura de tratamento domiciliar.
+Nesse contexto, tem-se que, em verdade, as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+2. No que toca às demais questões suscitadas no apelo, melhor razão não assiste à insurgente.
+Inicialmente, destaca-se a aplicabilidade do Código de Defesa do Consumidor ao caso, nos termos da Súmula 608/STJ.
+Nesse diapasão, assenta a jurisprudência do STJ que, ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código Consumerista), revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico ou do procedimento cirúrgico demandado.
+Logo, a existência de cobertura contratual para a doença apresentada pelo usuário conduz, necessariamente, ao dever de custeio do tratamento proposto pelo médico especialista. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. RECUSA INDEVIDA. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura" (AgInt no AREsp n. 622.630/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/12/2017).
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu que seria indevida a recusa ao procedimento a que a agravada deveria ser submetida. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+4. A recusa indevida da operadora de plano de saúde a autorizar o tratamento do segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia do enfermo, comprometido em sua higidez físico-psicológica. Precedentes.
+5. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1338481/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MÉDICO DOMICILIAR (HOME CARE). AUSÊNCIA DE PACTUAÇÃO.
+1. A jurisprudência do STJ firmou-se no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, motivo porque deve arcar com as despesas relativas ao tratamento médico domiciliar (home care). Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1181543/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/06/2018, DJe 01/08/2018)
+Na espécie, restou consignado pelas instâncias ordinárias a necessidade do tratamento domiciliar: (fls. 180-181, e-STJ):
+No caso dos autos, o panorama probatório atestou a necessidade utente de tratamento domiciliar para o autor, porquanto, portador de doença neurodegenerativa - ATAXIA CEREBELAR - CID10 G11.1 -, com perda progressiva da coordenação motora, com início aos 19 anos. Hoje, o autor com 50 anos de idade, apresenta importante redução da neurocondução, necessitando de suporte e atendimento de manutenção do tratamento, através do serviço home care, com fisioterapia e fonoaudiologia (fls. 37/39), visto sua limitada atividade motora e respiratória.
+O serviço de honre cate se traduz em uma modalidade continua de serviços na área da saúde, cujas atividades são dedicadas aos pacientes e seus familiares em um ambiente extra-hospitalar, mormente porque o segurado é pessoa com importante déficit motor e respiratório, que necessita de inúmeros cuidados.
+Por sua vez, a existência de cobertura contratual para tratamentos ligados à doença que acomete o beneficiário - ataxia cerebelar - constitui matéria incontroversa, porquanto não impugnada pela ora recorrente ao longo o processo.
+Desse modo, considerando que a decisão hostilizada encontra-se em consonância com a jurisprudência desta Casa, inarredável a incidência da Súmula 83/STJ.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem (fls. 151, e-STJ), observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
