@@ -1,0 +1,54 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Ramisch Administração e Participações LTDA, fundado nas alíneas "a" e "c" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. ITBI. AÇÃO ANULATÓRIA. IMUNIDADE. INTEGRALIZAÇÃO DE CAPITAL. INATIVIDADE DA EMPRESA DESDE SUA CONSTITUIÇÃO. INOBERVÂNCIA DOS REQUISITOS CONSTITUCIONAIS E LEGAIS PREVISTOS NO ART. 156, §2º, I, DA CF E NOS ARTS. 36 E 37, DO CTN.
+Transferência de imóveis que, in casu, não visa à integralização de patrimônio empresarial, mas sim à simples transferência de titularidade. Não tendo a parte autora exercido qualquer atividade mercantil, impossível aferir-se a condição de atividade preponderante da pessoa jurídica adquirente do bem que pretende a incidência da imunidade.
+APELO PROVIDO.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega, além do dissídio jurisprudencial, violação dos seguintes dispositivos: a) arts. 489, II, §1º, IV e VI, e 1.022, II, do CPC/15, aduzindo que o acórdão recorrido padece de omissões; b) arts. 36, 37, 109, 110 e 111 do CTN, sustentando que não há previsão legal para afastar o direito à imunidade de ITBI.
+Houve contrarrazões (e-STJ fls. 409/413).
+Sobreveio juízo negativo de admissibilidade pelas seguintes razões: a) ausência de negativa de prestação jurisdicional; b) incidência da Súmula n. 283/STF. No mais, alega estar prejudicada a análise do dissídio jurisprudencial.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 469/473).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante deixou de impugnar todos os fundamentos adotados no juízo de inadmissibilidade.
+A despeito da argumentação acerca da violação dos arts. 489 e 1.022 do CPC/15, com relação à aplicação da Súmula n. 283/STF o agravo não rebateu a contento a decisão da origem.
+Isto porque a Corte a quo consignou que (423/427):
+As razões do recurso não atacam todos os fundamentos do acórdão recorrido. Com efeito, o Órgão Julgador deu provimento à apelação do Município de Porto Alegre para afastar a imunidade em relação ao ITBI, visto que (I) a Recorrente "não exerceu a atividade à qual se propôs no período de avaliação da atividade preponderante entre 07/08/2009 e 06/08/2012", (II) "a transferência do imóvel no caso em comento não teve como mote a integralização de patrimônio empresarial, mas sim a simples transferência de titularidade dos sócios para a pessoa jurídica". (III) "A imunidade constitucional em comento tem como único e exclusivo escopo o de fomentar o desenvolvimento econômico, afastando a transferência de imóvel da incidência do ITBI em benefício da atividade erâpresarial ou não empresarial", e (IV) "Não tendo a parte autora (..) exercido qualquer atividade mercantil, afigura-se impossível aferir se a condição de atividade preponderante da pessoa jurídica adquirente do bem cuja transferência pretende a incidência da imunidade".
+ ..
+A Recorrente alega que (I) "a CF/88 exclui do benefício somente as empresas cuja atividade preponderante seja a compra e venda de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, locação de imóveis ou arrendamento mercantil", (II) "a atividade preponderante da empresa não se enquadra naquelas as quais a CF/88 exclui o benefício", pois "não foi auferida receita dessas atividades no período de análise", (III) a empresa se enquadra no § 2º do artigo 37 do Código Tributário Nacional, ""sendo o período de preponderância de 3 (três) anos, compreendidos entre 07 de agosto de 2009 e 06 de agosto de 2012", e (IV) houve interpretação extensiva da legislação tributária.
+Portanto, os principais fundamentos do acórdão de que (I) "a transferência do imóvel no caso em comento não teve como mote a integralização de patrimônio empresarial, mas sim a simples transferência de titularidade dos sócios para a pessoa jurídica", e (II) "A imunidade constitucional em comento tem como único e exclusivo escopo o de fomentar o desenvolvimento econômico, afastando a transferência de imóvel da incidência do ITBI em benefício da atividade empresarial ou não empresarial" não foram impugnados pela Recorrente.
+Assim, é caso de aplicação da Súmula 283 do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Assim, caberia à parte nas razões do seu agravo apontar os trechos do recurso especial em que foram impugnados os fundamentos destacados acima, o que não ocorreu in casu.
+Eis que se argumentou apenas que (e-STJ fl. 446):
+Todavia, com a devida vênia, não foi o que ocorreu nas razões do Recurso Especial interposto, pois a matéria foi devidamente impugnada, com plena condição de permitir a exata compreensão da controvérsia objeto do recurso, não merecendo prosperar a decisão do Nobre Desembargador Relator que sustentou óbice à súmula 283 do STF.
+Primeiro, o fundamento no tocante ao objetivo da transferência do imóvel pelos sócios da empresa agravante não poderia ser objeto de recurso especial, pois versa diretamente sobre matéria probatória, o que é vedado em recurso dessa natureza, em razão de óbice na Súmula 07 do STJ.
+Segundo, quanto à intenção/objetivo da imunidade constitucional, também não pode ser objeto de recurso especial, devendo ser analisada no recurso extraordinário que, diga-se, foi interposto pela ora agravante oportunidade que alegou ofensa à norma constitucional em razão de interpretações extensivas do Tribunal a quo.
+Terceiro, a parte agravante impugnou ponto a ponto as matérias tratadas no acórdão recorrido, manifestando expressamente os artigos de lei infraconstitucional que restaram violadas.
+
+Tal afirmação revela combate não específico e inapto a afastar a incidência da Súmula n. 283/STF.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+ Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do disposto nos arts. 544, § 4º, I, do CPC/1973 e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+3. O princípio da dialeticidade recursal impõe ao recorrente o ônus de explicitar os motivos pelos quais a decisão recorrida deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sob pena de vê-la mantida por seus próprios fundamentos.
+4. Na hipótese, o agravante não se desincumbiu do ônus de impugnar, de forma clara e direita, os motivos que levaram o Tribunal de origem a inadmitir o apelo extremo, notadamente a aplicação do óbice da Súmula 7 desta Corte, em flagrante desrespeito ao princípio da dialeticidade.
+5. Agravo interno desprovido.
+(AgInt no AREsp 443.001/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016)
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada.
+3. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Agravo interno não conhecido.
+(AgInt no REsp 1600403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). MATÉRIA CONSTITUCIONAL. APRECIAÇÃO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. Não cabe ao Superior Tribunal de Justiça apreciar, na via especial, suposta violação de matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no AREsp 851.024/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
