@@ -1,0 +1,11 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. BENS PÚBLICOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO. HONORÁRIOS RECURSAIS. DESCABIMENTO. AUSÊNCIA DE HONORÁRIOS NA ORIGEM. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos declaratórios opostos por [NOME] contra decisão de minha relatoria, assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO. BENS PÚBLICOS. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E VÁLIDA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+Sustenta que a decisão embargada quedou-se omissa quanto à fixação dos honorários sucumbenciais recursais.
+É o necessário relatar. Passo a decidir.
+Registro que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Como é cedido, consoante o disposto no art. 1.022 do CPC/2015, os aclaratórios são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material". Ocorre que, in casu, não há omissão a ser sanada. Explica-se. O enunciado do art. 85, § 11, do CPC/2015 leva a clara interpretação de que o cabimento de honorários recursais pressupõe a existência de arbitramento anterior de honorários sucumbenciais, entendimento esse extraível da expressão "majorar" levando em consideração o trabalho adicional em grau recursal. Resta, pois, inequívoca a conclusão de que referida verba não têm autonomia tampouco existência independente da condenação sucumbencial pretérita, fixada na instância ordinária, isso porque a lei pressupõe que a interposição do recurso representa a realização de um trabalho adicional e que, por isso, o montante fixado anteriormente deve ser aumentado, com a finalidade de retribuir esse trabalho a mais. Por conta disso, somente haverá a majoração dos honorários a título de ônus sucumbencial recursal quando obviamente houver a fixação pretérita, o que não ocorreu na hipótese.
+Ante o exposto, embargos de declaração rejeitados.
+Publique-se. Intimem-se.
