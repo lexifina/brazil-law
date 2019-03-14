@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. POSSE ILEGAL DE ARMA DE FOGO. ART. 12 DA LEI N. 10.826/2003. ALEGAÇÃO DE ILEGALIDADE NA DOSIMETRIA DA PENA DE TRÁFICO. RAZÕES DISSOCIADAS. SÚMULA 284/STF. ALEGAÇÃO DE VIOLAÇÃO DO ART. 59 DO CP. MATÉRIA NÃO PREQUESTIONADA. TEMA NÃO SUSCITADO POR OCASIÃO DA APRESENTAÇÃO DAS RAZÕES DE APELAÇÃO. INOVAÇÃO EM EMBARGOS DE DECLARAÇÃO NA ORIGEM. FALTA DE PREQUESTIONAMENTO.
+Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática que não conheceu do seu recurso especial e deferiu execução provisória da pena, mantendo-o submetido à pena de 2 anos e 9 meses de detenção, em regime semiaberto, e 25 dias-multa, à razão mínima, pela prática de conduta descrita no art. 12 da Lei n. 10.826/2003, imposta no Processo n. 0000897-35.2015.8.14.0067, conforme os termos da seguinte ementa (fl. 251):
+RECURSO ESPECIAL. PENAL. POSSE ILEGAL DE ARMA DE FOGO. ART. 12 DA LEI N. 10.826/2003. ALEGAÇÃO DE ILEGALIDADE NA DOSIMETRIA DA PENA DE TRÁFICO. RAZÕES DISSOCIADAS. SÚMULA 284/STF. ALEGAÇÃO DE VIOLAÇÃO DO ART. 59 DO CP. MATÉRIA NÃO PREQUESTIONADA. TEMA NÃO SUSCITADO POR OCASIÃO DA APRESENTAÇÃO DAS RAZÕES DE APELAÇÃO. FALTA DE PREQUESTIONAMENTO.
+Recurso especial não conhecido. Pedido de execução provisória deferido, ressalvado entendimento pessoal.
+O agravante alega, nas suas razões recursais, em síntese, que a decisão monocrática teria sido devidamente prequestionada, tendo o acórdão tratado amplamente das razões esplanadas no recurso. Estariam demonstradas a existência do preceito constitucional amparando as alegações da defesa.
+Sustenta que a oposição de embargos de declaração somente se faria necessária se tivesse ocorrido omissão no acórdão. Assim, a decisão monocrática afrontaria todas as razões de recurso protocolizado, tendo sido também demonstrado a existência do preceito legal, afastando o óbice da Súmula 284/STF.
+Reitera, por fim, as razões recursais referentes à violação do art. 59 do Código Penal, afirmando que o juízo teria utilizado apenas referências vagas e inerentes ao tipo penal, tão somente narrando a conduta, sem a indicação de elementos que extrapolem a sua normalidade (fls. 261/266).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve prosperar.
+Primeiramente, é notória a incidência da Súmula 284/STF, considerando a completa impertinência da alegação de violação do art. 33 da Lei n. 11.343/2006.
+Conforme explicitado na decisão monocrática, o caso em apreço cuida de posse ilegal de arma de fogo, conduta essa descrita no art. 12 da Lei n. 10.826/2003.
+Inafastável a incidência da Súmula 284/STF por estarem as razões recursais dissociadas do caso em apreço.
+Quanto à negativação das circunstâncias judiciais, a matéria não foi conhecida pela falta de prequestionamento. De fato, no acórdão que julgou os embargos de declaração, o Tribunal local explicitou que a dosimetria da pena não foi tratada nas razões de apelação, constando como irresignação apenas por ocasião do julgamento dos embargos de declaração (fl. 179):
+ ..
+Não há, pois, que se dizer que a questão recorrida não fora abordada por devolutum quantum appellatum.
+Se irresignada com a aplicação do artigo 59 do Código Penal em primeira permanecido silente em sua apelação, não cabe por meio de embargos declaratórios insurgir-se a parte. Assim como tal via não se presta a corrigir deliberação em torno de consideração da primariedade do então apelante (artigo 63 do mesmo diploma de lei).
+Não obstante a isso, é válido mencionar que, segundo entendimento reiterado do Superior Tribunal de Justiça, a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado (HC n. 424.759/SP, Ministro Felix Fischer, Quinta Turma, julgado em 13/3/2018, DJe 20/3/2018).
+ ..
+O trecho destacado pelo ora agravante também não demonstra discussão sobre todas as circunstâncias judiciais do art. 59 do Código Penal apontadas como violadas, como a personalidade e a culpabilidade (fls. 145/146):
+ ..
+VOTO: 02- MÉRITO:  ..  Dispõe o Código Penal, em seu artigo 33, §3º: A determinação do regime inicial cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 do Código. O Supremo Tribunal Federal sumulou a respeito: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea (Súmula 719/STF). Pois bem. Assim fundamentou o juiz a quo, no excerto correlato da sentença (fl. 49): O regime inicial para cumprimento da pena privativa de liberdade será o semiaberto. Inobstante a quantidade da pena aplicada oriente a determinação do regime aberto, considero que os critérios previstos no art. 59, consubstanciados nas circunstâncias judiciais já devidamente analisadas, aconselham que o réu inicie o cumprimento da reprimenda em regime mais severo. Vê-se, pois, que a motivação transcrita serve, perfeitamente, ao propósito que se refere; pois não deixou de fazer alusão às circunstâncias judiciais desfavoráveis ao apelante. Além disso, é importante, ressaltar que o apelante não era primário, porquanto já tinha contra si sentença condenatória transitada em julgado por violação ao artigo 14 da Lei 10.826/2003 (fl. 25). Improcedente, portanto, a alegação recursal.
+ ..
+Convém destacar, quanto aos antecedentes, que a jurisprudência pacífica desta Corte Superior admite a negativação dessa circunstância com base em condenação anterior com trânsito em julgado (HC n. 443.108/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 14/8/2018).
+Ante o exposto, nego provimento ao agravo regimental.
