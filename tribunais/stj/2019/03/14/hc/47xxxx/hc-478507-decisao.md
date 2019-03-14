@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado, em sentença confirmada pela Corte a quo, pela prática delitiva disposta no art. 33, caput, da Lei 11.343/2006 às penas de 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, além do pagamento de 680 dias-multa.
+Neste writ, alega o impetrante violação ao enunciado n. 241/STJ, porquanto uma mesma condenação definitiva teria sido utilizada para o incremento da pena-base e para o reconhecimento da reincidência. Alega, ainda, que o tráfico privilegiado foi afastado com fundamento na reincidência do réu, o que acarretaria bis in idem. Pugna pela fixação de regime prisional mais brando, bem como requer a substituição da pena privativa de liberdade, pois além de o delito cometido não envolver violência ou grave ameaça, a recidiva não é específica, impondo-se, portanto, a conversão da sanção corporal em medida restritiva de direitos.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela parcial concessão da ordem, a fim de fixar o regime prisional semiaberto.
+É o relatório.
+DECIDO.
+De início, observo que estão prejudicados os pleitos relativos à violação à súmula 241/STJ e à ocorrência de bis in idem pela concomitante consideração da reincidência, na segunda etapa de dosimetria, para a elevação da pena intermediária e, na terceira fase, para negar o tráfico privilegiado, pois referidos pedidos já foram objeto de análise desta Corte no HC 457.626/SP, cuja decisão foi publicada no DJe de 6/11/2018.
+Quanto ao regime prisional, as instâncias ordinárias manifestaram-se nos seguintes termos:
+Estabeleço o regime fechado como inicial de cumprimento da pena privativa de liberdade e vedo a interposição de recurso em liberdade, por se tratar de crime equiparado aos hediondos, regulado por lei própria e diante da reincidência. (sentença - fl. 65)
+O regime prisional inicial fechado foi corretamente fixado, em face da natureza do crime, que revela a periculosidade concreta do agente, reincidente e portador de maus antecedentes, que com sua conduta gera instabilidade em inúmeros lares, exigindo, em consequência, resposta penal mais enérgica com a qual não é compatível solução mais branda. Nesse tópico, é sempre pertinente lembrar que os mercadores de entorpecentes criam um poder paralelo que desafia e se opõe às autoridades constituídas, destrói pessoas e famílias, subjuga comunidades inteiras, e aniquila o futuro de crianças e jovens, decorrendo de suas condutas gravíssimas consequências para a sociedade. (acórdão - fl. 74)
+O fato de o paciente ser reincidente e da pena-base ter sido fixada acima do mínimo legal é motivo idôneo e suficiente para acarretar o recrudescimento do regime prisional, a teor do art. 33, §§ 2º e 3º, do CP. A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES, QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTOS VÁLIDOS. AGRAVANTE DA REINCIDÊNCIA. DUAS CONDENAÇÕES DEFINITIVAS ANTERIORES. APLICAÇÃO DA FRAÇÃO DE 1/5. AUMENTO PROPORCIONAL. REGIME PRISIONAL. PENA SUPERIOR A 4 ANOS E NÃO EXCEDENTE A 8 ANOS. CIRCUNSTÂNCIAS DESFAVORÁVEIS E REINCIDÊNCIA. MODO FECHADO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+(..)
+5. Estabelecido o quantum da pena em patamar superior a 4 anos e não excedente a 8 anos, e considerando a reincidência do paciente e a aferição desfavorável de circunstâncias judiciais, fica mantido o regime inicial fechado assim como a impossibilidade substituição da pena privativa de liberdade por restritivas de direitos, nos exatos termos dos arts. 33, §§ 2º e 3º, e 44, I, ambos do Código Penal.
+6. Habeas corpus não conhecido.
+(HC 457.361/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/10/2018, DJe 23/10/2018)
+Por fim, em razão do quantum de pena fixado, não comporta provimento o pleito relativo à substituição das penas, tendo em vista que não preenchido o requisito de ordem temporal disposto no art. 44, I, do CP.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
