@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. SÚMULA N. 284/STF. PEDIDO DE INGRESSO COMO AMICUS CURIAE. IRRECORRIBILIDADE DA DECISÃO. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Orca Distribuidora de Petróleo LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE RELAÇÃO JURÍDICA - CANCELAMENTO DA INSCRIÇÃO DA EMPRESA NO CAD/ICMS COMO MEDIDA PROTETIVA DA ORDEM ECONÔMICA - CABIMENTO DO AGRAVO DE INSTRUMENTO PARA A HIPÓTESE, DE INDEFERI MENTO DO PEDI DO DE INTERVENÇÃO NO AMICUS CURIAE NA LIDE - LEITURA EM CONJUNTO DO DISPOSTO NO ART. 138 E 1015, IX, AMBOS DO CPC/2015 - REQUISITOS PRESENTES NOS AUTOS DECISÃO REFORMADA - RECURSO PROVIDO.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, sustenta a parte recorrente, além do dissídio jurisprudencial, violação dos seguintes dispositivos: a) art. 1.022, II, do CPC/15, aduzindo negativa de prestação jurisdicional; b) art. 138 do CPC/15, sustentando que não restaram preenchidos os requisitos necessários para o ingresso do amicus curiae.
+Houve contrarrazões (e-STJ fls. 349/365).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+Com relação à negativa de prestação jurisdicional não basta a simples oposição dos aclaratórios na origem. É necessária a demonstração, de forma fundamentada que: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma. Tais demonstrações não ocorreram in casu, razão pela qual incide o óbice da Súmula n. 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. RESTITUIÇÃO DE VALORES. PRESCRIÇÃO. DATA DA CITAÇÃO. EXISTÊNCIA DE PROCESSO ADMINISTRATIVO. SÚMULA 7/STJ. REVISÃO DOS VALORES ARBITRADOS A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS. SÚMULA 7/STJ. JUROS. ART. 1º-F DA LEI 9.494/97. DECISÃO DO TRIBUNAL DE ORIGEM EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. As razões de recorrer quanto à violação do art. 1.022 do CPC/2015, são genéricas e desprovidas de argumentação jurídica, fazendo incidir o óbice da Súmula 284/STF.
+2. A análise acerca da existência ou não de processo administrativo para fins de aferição de data da contagem da prescrição demanda a incursão na seara fático-probatória dos autos, o que encontra óbice na S mula 7/STJ.
+3. Fixados os honorários advocatícios pelas instâncias ordinárias sob apreciação eqüitativa, sem que seja configurado valor excessivo ou irrisório, a revisão do quantum é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Tendo natureza tributária, aplica-se ao caso da Lei 11.960/09, devendo ser de 0,5% ao mês os juros de mora, de acordo com a modulação estabelecida nas ADIs 4357 e 4425.
+5. O conhecimento de Recurso Especial fundado na alínea "c" do art. 105, III, da CF/1988 exige a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas ou votos (artigos 1.029, § 1º do Código de Processo Civil de 2015 e 255, § 1º, do RISTJ). In casu, constata-se que a parte agravante não cumpriu as exigências insculpidas nos mencionados dispositivos, pois limitou-se a transcrever a ementa do julgado paradigma, restando ausente o necessário cotejo analítico a comprovar o dissídio pretoriano e a similitude fática.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1220449/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2018, DJe 20/08/2018)
+No mérito, a parte aponta que não foram preenchidos os requisitos do art. 138 do CPC os quais autorizam a participação do SINDCOM como amicus curiae. Alega ausência de representatividade e de interesse jurídico.
+Acerca da recorribilidade da decisão que indefere o ingresso do amicus curiae, destaco o seguinte excerto doutrinário:
+Ainda que a redação do art. 138, caput, do Novo CPC seja mais completa e de melhor qualidade que a redação do art. 7º, § 2º, da Lei 9.868/99, aparentemente herdou alguns vícios, como prever a irrecorribilidade da decisão (melhor do que a indevida expressão despacho) que admitir o amicus curiae. E a decisão que indeferir o pedido de ingresso, será recorrível
+No processo objetivo, ainda que haja divergência doutrinária, o Supremo Tribunal Federal vem se posicionando pela irrecorribilidade de qualquer decisão a respeito da intervenção do terceiro como amicus curiae, inclusive de indeferimento (STF, Decisão monocrática: [NOME]/DF, rel. Min. Marco Aurélio, j. 28.04.2009, DJe 86, 11.05.2009; ADI 3.931/DF, rel. Min. Cármen Lúcia, j. 28.10.2008, DJe 212, 07.11.2008), ainda que entenda admissível serem levadas em consideração no julgamento da causa as razões deduzidas pelo terceiro excluído (STF, Decisão monocrática: ADI 1.625/UF, rel. Min. Maurício Corrêa, decisão proferida pelo Min. Cezar Peluso, j. 28.10.2008, DJe 211, 06.11.2008; ADI 2.791 ED/PR, rel. Gilmar Mendes, j. 01.02.2008, DJe 22, 08.02.2008).
+(Novo Código de Processo Civil Comentado. Daniel Amorim Assumpção Neves. Salvador: Ed. JusPodivm, 2016)
+Nesse contexto, entendo que a interpretação atribuída ao art. 138 do CPC/2015 deve estar em consonância, mutatis mutandis, com a orientação do Supremo Tribunal Federal, no sentido da irrecorribilidade de "qualquer decisão a respeito da intervenção de terceiro como amicus curiae".
+No mesmo sentido:
+PROCESSUAL CIVIL. AMICUS CURIAE. INGRESSO. INDEFERIMENTO. AGRAVO INTERNO. DESCABIMENTO.
+1. A interpretação atribuída ao art. 138 do CPC/2015 por esta Corte de Justiça é no sentido de que é irrecorrível "qualquer decisão a respeito da intervenção de terceiro como amicus curiae".
+2. Agravo interno não conhecido.
+(AgInt na PET no AREsp 1295324/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 13/12/2018, DJe 13/02/2019)
+AGRAVO INTERNO NA PETIÇÃO NO RECURSO ESPECIAL. PEDIDO DE INGRESSO COMO AMICUS CURIAE. INDEFERIMENTO PELO RELATOR. PLEITO FORMULADO A DESTEMPO. RECURSO ESPECIAL JÁ JULGADO. INTERPOSIÇÃO DE RECURSO. DESCABIMENTO.
+1. Consoante o art. 138, caput, do CPC/2015, a decisão do relator que dispõe a respeito da intervenção do amicus curiae no processo é irrecorrível.
+2. Agravo interno não conhecido.
+(AgInt na PET no REsp 1367212/RR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 14/02/2018)
+Prejudicada a análise do dissídio jurisprudencial.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
