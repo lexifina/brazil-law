@@ -1,0 +1,39 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO. DESCUMPRIMENTO DE DECISÃO JUDICIAL. MULTA COMINATÓRIA. NOVO RECURSO PROTELATÓRIO. MULTA POR LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO DO JULGADO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+FUNDAÇÃO SABESP DE SEGURIDADE SOCIAL - SABESPREV (FUNDAÇÃO) interpôs agravo de instrumento com pedido de antecipação de tutela contra decisão que determinou o depósito, no prazo de 15 dias, do montante da multa pelo descumprimento da decisão que antecipou os efeitos da tutela, nos autos da ação de obrigação de fazer, autorizando o levantamento da quantia por OSMAR TRINDADE DOS SANTOS (OSMAR) após o trânsito em julgado de eventual sentença a ele favorável, proferida nos autos principais.
+O Tribunal local negou provimento ao agravo de instrumento interposto pela FUNDAÇÃO, em acórdão assim ementado:
+PLANO DE SAÚDE. AGRAVO DE INSTRUMENTO. Reconhecimento de descumprimento de decisão judicial. Determinação de depósito de valores a título de multa cominatória. Manutenção. Resistência injustificada da operadora já reconhecida por ocasião do julgamento do Agravo de Instrumento nº. 2166353-40.2016.8.26.0000. Novo recurso protelatório. Litigância de má-fé reconhecida. Decisão mantida. Recurso improvido, com observação (e-STJ, fl. 228)
+Irresignada, a FUNDAÇÃO interpôs recurso especial com base no art. 105, III, a, da CF, sustentando, em síntese, violação dos arts. 80, VII, e 81, § 2º, do NCPC, por entender que é indevida a aplicação da multa por litigância de má-fé por interposição de suposto recurso protelatório (e-STJ, fls. 233/242).
+Houve contrarrazões (e-STJ, fls. 252/261).
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o apelo nobre por incidência da Súmula nº 7 do STJ (e-STJ, fl. 278).
+Dessa decisão, foi interposto o presente agravo em recurso especial, sustentando, em suma, o afastamento do mencionado óbice (e-STJ, fls. 281/288).
+Contraminuta apresentada (e-STJ, fls. 291/293).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Da multa por litigância de má-fé
+O Tribunal de Justiça condenou a FUNDAÇÃO ao pagamento de multa por litigância de má-fé, por reconhecer que o recurso foi interposto com intuito manifestamente protelatório.
+Conforme se nota, a conclusão alcançada pela Corte local, neste tocante, se deu com fulcro nas circunstâncias fáticas e nas provas carreadas aos autos, sendo inviável o seu reexame na estreita via do recurso especial, consoante o teor da Súmula nº 7 do STJ.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Descabe a esta Corte apreciar as razões que levaram as instâncias ordinárias a aplicar a multa por litigância de má-fé prevista no artigo 17 do CPC/1973 quando for necessário rever o suporte fático-probatório dos autos. Incide o teor da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. A Corte local, com base nos elementos fático-probatórios dos autos concluiu pela ausência de cerceamento de defesa; e ocorrência de preclusão das questões atinentes à arrematação por preço vil e à reavaliação dos imóveis por alegada desconsideração do valor das edificações, tendo em vista as decisões nos Agravos de Instrumento nº [CPF] e [CPF] (fl. 878). Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.138.762/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 2/5/2018 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. 1. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 3. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. 4. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 5. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 6. LITIGÂNCIA DE MÁ-FÉ. PECULIARIDADES DO CASO CONCRETO. FUNDAMENTAÇÃO ADEQUADA. REEXAME DE FATOS E PROVAS INVIÁVEL. SÚMULA 7/STJ. 7. AGRAVO IMPROVIDO.
+1. É evidente a inadequação da via recursal eleita para alegação de ofensa a dispositivo constitucional, pois a matéria é de competência do STF.
+2. Em relação à negativa de prestação jurisdicional, verifica-se que a parte ora recorrente se limitou a defender genericamente a ocorrência de violação do artigo 535 do CPC/1973, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+3. Quanto à alegação de julgamento extra petita, a falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia.
+(É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+4. Não cabe a este Tribunal apreciar ofensa a súmula em recurso especial, uma vez que tal enunciado não se insere no conceito de lei federal, previsto no art. 105, II, a, da Constituição Federal.
+Incide, ao caso, o óbice da Súmula 518 desta Corte.
+5. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica do enunciado n. 283 da Súmula do STF.
+6. Uma vez que a Corte de origem, a partir da análise dos elementos de convicção presentes no feito, concluiu pela caracterização da litigância de má-fé, acolher a pretensão recursal implicaria no necessário revolvimento do acervo fático-probatório dos autos, medida vedada pela Súmula 7 do STJ.
+7. Agravo interno improvido.
+(AgInt no AREsp 1.200.579/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 18/4/2018 - sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
