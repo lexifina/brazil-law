@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo interno, interposto por em 08.02.2010 contra decisão monocrática do Ministro Joaquim Barbosa, relator originário do feito, que deu provimento ao recurso extraordinário interposto pela Administração dos Portos de Paranaguá e Antonina – APPA para “limitar a competência da Justiça do Trabalho até o advento da Lei estadual 10.219/1992” (fls. 744/745).
+    A parte agravante defende a inadmissibilidade do recurso extraordinário.
+    A Procuradora-Geral da República Raquel Elias Ferreira Dodge opina pelo provimento do agravo regimental.
+    Reconsidero a decisão agravada e passo a apreciação do recurso extraordinário.
+    Decido.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho que, ao apreciar recurso de revista decorrente de reclamação trabalhista que fora ajuizada por empregado da Administração dos Portos de Paranaguá e Antonina (APPA), admitido sob o regime da CLT, em 24.09.1987, decidiu positivamente pela competência da Justiça do Trabalho para a demanda, em acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. Embargos Declaratórios acolhidos, recebendo efeito modificativo, nos termos do Enunciado nº 278 do TST.
+    RECURSO DE EMBARGOS - COMPETÊNCIA DA JUSTIÇA DO TRABALHO - MUDANÇA DO REGIME JURÍDICO ÚNICO - APPA - A Administração dos Portos de Paranaguá e Antonina - APPA não se enquadra, em sua essência, na categoria de empresa da Administração Pública, de forma a descaracterizar a competência da Justiça do Trabalho prevista no texto constitucional invocado, mesmo após a instituição do regime jurídico único estadual, porque se trata de empresa com atividade econômica que a identifica com o empregador privado. Recurso de Embargos não conhecido.”
+    Na peça recursal (art. 102, III, a, da Constituição Federal), a APPA alega violação ao art. 114 da CF.
+    O recurso é inadmissível. O Plenário do Supremo Tribunal Federal, ao examinar, em 1º.10.2015, o ARE 906.491-RG, Rel. Min. Teori Zavascki, sob a sistemática da repercussão geral, reafirmou a jurisprudência da Corte e decidiu positivamente pela competência da Justiça do Trabalho para apreciar e julgar demanda proposta por servidor público admitido sem concurso público, pelo regime da CLT, anteriormente ao advento da Constituição Federal de 1988. Na oportunidade, a Corte determinou que, para tais casos, são inaplicáveis os precedentes formados na ADI 3.395-MC, Rel. Min. Cezar Peluso, e no RE 573.202-RG, Rel. Min. Ricardo Lewandowski. Veja-se, nesse sentido, a ementa que recebeu o julgado (Tema 853):
+    “CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA. SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELO REGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+    1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho – CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43).
+    2. Agravo a que se conhece para negar seguimento ao recurso extraordinário.”
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
