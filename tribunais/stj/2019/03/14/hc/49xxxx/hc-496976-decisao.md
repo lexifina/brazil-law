@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GIVALDO FERREIRA DE ARRUDA JÚNIOR, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO - HC n. 0000954-37.2019.8.17.0000 (0525162-1), que deferiu parcialmente o pleito liminar em writ impetrado na mencionada Corte.
+Consta dos autos que o paciente foi preso em flagrante em 26-02-2019, como incurso no artigos 16 da Lei n. 10.826/2003, tendo-lhe sido deferida a liberdade provisória mediante o pagamento de fiança no valor de R$ 29.940,00 (vinte e nove mil novecentos e quarenta reais).
+Inconformada, a defesa impetrou prévio writ na origem, cujo pedido liminar foi parcialmente deferido para reduzir o valor da fiança para R$ 9.998,00 (nove mil novecentos e noventa e oito reais).
+Nesta via, o impetrante alega que o paciente é pobre na acepção jurídica do termo, não possuindo recursos financeiros que suportem a fiança arbitrada, motivo pelo qual permanece encarcerado desde a prisão em flagrante.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que seja deferida a liberdade com o pagamento da fiança no valor de um salário mínimo.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Ainda que superado o referido óbice, da leitura do decisum impugnado verifica-se que o Desembargador Relator consignou que "não há na presente impetração substrato comprobatório da miserabilidade do paciente - não obstante esteja representado por advogado particular - o que inviabiliza, ao menos por ora, a concessão de liberdade provisória mediante dispensa de fiança nos termos autorizados pelo artigo 350 do CPP" (e-STJ fl. 53), circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS. (..) PRINCÍPIO DA BAGATELA. ATIPICIDADE. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO. SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+X - No que toca à incidência do princípio da bagatela, bem assim à atipicidade da conduta por ausência do elemento subjetivo do tipo, verifico que tais questões não foram apreciadas na instância de origem, "por demandar aprofundamento e análise da prova", ficando impedida esta Corte de proceder à respectiva análise, sob pena de indevida supressão de instância.
+Agravo regimental desprovido.
+(AgRg no RHC 93.603/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/09/2018, DJe 10/09/2018)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME PREVISTO NO ART. 89, PARÁGRAFO ÚNICO, DA LEI N. 8.666/93. ORDEM NÃO CONHECIDA NA ORIGEM. TRANCAMENTO DA AÇÃO PENAL, ATIPICIDADE DA CONDUTA E AUSÊNCIA DE BENEFÍCIO ECONÔMICO AO RECORRENTE COM A DISPENSA DE LICITAÇÃO. ANÁLISE. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE ORDEM PÚBLICA. IRRELEVÂNCIA. RECURSO CONHECIDO E DESPROVIDO.
+1. ""Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (RHC n. 81.284/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2017)" (AgRg no RHC 97.041/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 23/05/2018)
+Recurso ordinário em habeas corpus conhecido e desprovido.
+(RHC 67.144/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/08/2018, DJe 24/08/2018)
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
