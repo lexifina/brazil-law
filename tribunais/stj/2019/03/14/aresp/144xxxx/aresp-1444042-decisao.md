@@ -1,0 +1,60 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado contra decisão que inadmitiu o recurso especial interposto pela Fazenda Nacional, com base no art. 105, III, "a", da CF/1988, em oposição a acórdão do TRF da 3ª Região assim ementado (e-STJ, fl. 550):
+PROCESSUAL CIVIL - EXECUÇÃO FISCAL - AGRAVO DE INSTRUMENTO RESPONSABILIDADE DE SÓCIO - PROVA DAS OCORRÊNCIAS DO ART. 135, III DO CTN A SER PRODUZIDA PELA EXEQUENTE - SOLIDARIEDADE DO ART. 13 DA LEI 8.620/93 - INAPLICÁVEL - INCONSTITUCIONALIDADE - JUSTIÇA GRATUITA 1 - O dirigente da sociedade contribuinte só responde pelas dívidas tributárias mediante prova de que resultam de excesso de poder, infração à lei, contrato social ou estatuto.
+II - O simples inadimplemento da obrigação tributária não configura infração à lei.
+III - A solidariedade do art. 13 da Lei 8.620/93 não mais existe, vez que foi declarada inconstitucional pelo Supremo Tribunal Federal ao julgar o Recurso Extraordinário nº 562276 em repercussão geral.
+IV - Com a declaração de inconstitucionalidade do art. 13 da Lei 8.620/93, a solidariedade prevista no art. 4º, V, § 2º da Lei 6.830/80 que dava enseja à corresponsabilidade inserida na Certidão de Dívida Ativa perdeu o suporte de validade.
+V - A declaração de pobreza apresentada por pessoa física para fins de embasar pedido de gratuidade de justiça possui presunção de veracidade.
+VI - Apelo provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 603-611).
+Alega a agravante, nas razões do especial, a existência de violação dos arts. 1.022 do CPC/2015 e 4º da LEF. Aduz, em suma, que (e-STJ, fl. 625):
+Analisando os autos da Execução Fiscal em apreço, verifica-se que a pessoa física consta nas CDA"s exequendas, sendo, de igual forma, Executado na presente ação. Como a CDA é título executivo dotado dos atributos inerentes aos atos administrativos (presunção de legalidade, legitimidade e veracidade), a inclusão do nome do sócio no titulo faz presumir-se sua responsabilidade tributária até prova em contrário.
+Assim, estando o nome do sócio na CDA, e sendo ele Executado, impõe-se ao sócio o ônus de demonstrar a inexistência de responsabilidade, em sede de Embargos à Execução, não sendo necessário à Fazenda comprovar nos autos eventual excesso de poder ou infração à lei, conforme remansosa jurisprudência pátria
+A negativa de admissibilidade teve por fundamento o óbice da Súmula 7/STJ.
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de violação do art. 1.022, II, do CPC/2015, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do voto condutor do acórdão impugnado (e-STJ, fls. 547-548):
+Dessa forma, caberia à exeqüente demonstrar que os valores em execução decorrem de atos de gestão praticados pelo embargante com excesso de mandato, infração à lei ou contrato social, o que não foi feito.
+ ..
+Assim, com a declaração de inconstitucionalidade do art. 13 da Lei 8.620/93, a solidariedade prevista no art. 4º, V, § 2º da Lei 6.830/80 que dava ensejo à inclusão do sócio dirigente na Certidão de Dívida Ativa como corresponsável pela dívida fiscal perdeu o suporte de validade.
+Diante do exposto, dou provimento ao recurso de apelação, para reconhecer a ilegitimidade passiva do embargante para figurar no polo passivo da execução, em razão de não haver prova nos autos de que infringiu as disposições do art. 135, III do Código Tributário Nacional,
+Sendo assim, não há falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXCESSO NA CONDUTA DOS POLICIAIS, NO MOMENTO DA PRISÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC vigente, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.197/AC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. OMISSÃO DO ACÓRDÃO DISTRITAL AFASTADA. DECISÃO JUDICIAL. COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ. INDENIZAÇÃO. INVIABILIDADE. PRECEDENTES.
+1. Afasta-se a alegada violação do art. 1.022, I e II, do CPC/2015, porquanto a instância ordinária dirimiu, de forma clara e fundamentada, a questão que lhe foi submetida, e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 990.169/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/4/2017, DJe 19/4/2017)
+Quanto ao mais, a jurisprudência do Superior Tribunal de Justiça firmou a orientação de que a CDA goza da presunção de liquidez e certeza, o que implica transferir ao sócio, nela incluído, o ônus de demonstrar a ausência de responsabilidade tributária.
+ Por outro lado, é assente na jurisprudência do Superior Tribunal de Justiça o entendimento de que "a responsabilidade pessoal do sócio funda-se na regra de que o redirecionamento da execução fiscal e seus consectários legais, para o sócio-gerente da empresa, somente é cabível quando reste demonstrado que este agiu com excesso de poderes, infração à lei ou contra o estatuto, ou na hipótese de dissolução irregular da empresa" (REsp 1.101.728/SP, Rel. Min. Teori Albino Zavascki, Primeira Seção, DJe 23/3/2009, sob o rito do art. 543-C do CPC/1973).
+Acrescenta-se, ainda, o julgamento pela Primeira Seção do STJ, no âmbito do EREsp 702.232/RS, Rel. Min. Castro Meira, DJU 26/9/2005, que firmou a orientação de que a execução fiscal ajuizada somente contra a pessoa jurídica e, após o ajuizamento, que foi requerido o seu redirecionamento contra o sócio-gerente, incumbe ao Fisco a prova da ocorrência de alguns dos requisitos do art. 135 do CTN: i) quando esteja demonstrado que este agiu com excesso de poderes, infração à lei ou contra o estatuto, ou na hipótese de dissolução irregular da empresa; ii) constando o nome do sócio-gerente como corresponsável tributário na CDA cabe a ele o ônus de provar a ausência dos requisitos do art. 135 do CTN, independentemente se a ação executiva foi proposta em oposição à pessoa jurídica e contra o sócio ou somente em desfavor da empresa, tendo em vista que a CDA goza de presunção relativa de liquidez e certeza, nos termos do art. 204 do CTN, c/c o art. 3º da Lei n. 6.830/1980.
+No caso em questão, a Corte de origem reconheceu que não teria nos autos provas de que o recorrido infringiu as disposições do art. 135, III, do CTN (e-STJ, fl. 546):
+Dessa forma, caberia à exeqüente demonstrar que os valores em execução decorrem de atos de gestão praticados pelo embargante com excesso de mandato, infração à lei ou contrato social, o que não foi feito.
+Observa-se, portanto, que a execução fiscal tinha como objetivo a apuração de créditos de natureza previdenciária e que, na hipótese, não ficou demonstrado o excesso de poder, infração de lei, contrato social ou estatuto.
+Nesse contexto, para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar a possibilidade de que os sócios teriam violado o art. 135, III, do CTN, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial (óbice da Súmula 7/STJ), sobretudo quando há o pressuposto de que o nome dos sócios na CDA decorreu da simples inadimplência da empresa (e-STJ, fl. 548).
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. EXECUÇÃO FISCAL. NECESSIDADE DE COMPROVAÇÃO DE IRREGULARIDADES. ART. 135 DO CTN. SÚMULA 7 DO STJ.
+1. A parte sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito (Súmula 284/STF).
+2. O Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou a impossibilidade do redirecionamento da execução fiscal aos sócios da pessoa jurídica por não verificar a presença dos requisitos do art. 135 do CTN: "Os elementos apresentados no feito executivo não configuram hipótese de sucessão de empresas (art. 133 do CTN) ou dissolução irregular da executada (art. 135 do CTN), podem, contudo, configurar hipótese de grupo econômico, tendo em vista a narrativa de fatos que demonstram abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou pela confusão patrimonial (art. 50 do CCB)" (fl. 101, e-STJ). Rever tal entendimento esbarra no óbice da Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1.678.020/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2017, DJe 9/10/2017)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REDIRECIONAMENTO DA EXECUÇÃO. INCABIMENTO.
+1. Não é possível rever conclusão do Tribunal de origem, que assentou inexistir nos autos elementos que comprovem dissolução irregular da empresa ou de que o sócio agiu com excesso de mandato ou infringiu lei ou contrato social, ainda que coobrigado na CDA.
+Inteligência da Súmula 7 desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 801.916/MG, Rel. Min. DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 8/3/2016, DJe 14/3/2016)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO AOS SÓCIOS. DISSOLUÇÃO IRREGULAR DA EMPRESA NÃO CONFIGURADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.101.728/SP, sob o rito dos recursos repetitivos, consolidou entendimento segundo o qual o redirecionamento da Execução Fiscal para o sócio-gerente da empresa é cabível apenas quando demonstrado que este agiu com excesso de poderes, infração à lei ou ao estatuto ou, no caso de dissolução irregular da empresa, não se incluindo o simples inadimplemento de obrigações tributárias.
+2. Hipótese em que o Tribunal de origem, soberano na análise dos fatos e provas produzidos na demanda, indeferiu o pedido de redirecionamento da execução, por entender que é prematuro falar em dissolução irregular, pois a empresa passa por recuperação judicial, que leva a perspectivas de ser possível sua reestruturação.
+3. Modificar o entendimento proferido na instância de origem, para reconhecer a dissolução irregular da empresa e autorizar o redirecionamento contra os sócios, demandaria o reexame do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.538.788/PR, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 3/9/2015, DJe 14/9/2015)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
