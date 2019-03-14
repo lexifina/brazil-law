@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em Execução n. [CPF]).
+Consta dos autos que o Juízo competente homologou o PAD e reconheceu a prática de falta grave, aplicando ao paciente a alteração da data-base para fins de progressão de regime (fls. 45/47).
+A Corte de origem negou provimento ao agravo em execução da defesa (fls. 74/78).
+Sustenta a impetrante que foi desproporcional o reconhecimento da falta como grave diante da conduta praticada pelo paciente.
+Alega que não há previsão legal para a alteração da data-base, sem ter sido acostada aos autos uma nova condenação com trânsito em julgado, sendo ilegal a referida providência.
+Requer, ao final, a concessão da ordem constitucional para que seja reformado o acórdão impugnado, afastando o reconhecimento da falta grave e a alteração da data-base para obtenção de futuros benefícios.
+O pleito liminar foi indeferido às fls. 92/93.
+Informações prestadas às fls. 101/110 e 111/145.
+Parecer do Ministério Público às fls. 147/151.
+É o relatório.
+Cumpre pontuar, inicialmente, que esta Corte Superior de Justiça não mais admite a utilização do habeas corpus em substituição ao recurso cabível, como ocorre na hipótese, circunstância que impede o seu formal conhecimento.
+Entretanto, deve-se verificar se o caso revela constrangimento ilegal flagrante, circunstância que exige a atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal. Passa-se a análise do constrangimento ilegal alegado.
+Durante a execução da pena do paciente, ficou constatada a prática de falta grave, sendo homologado o PAD, aplicando-se o consectário legal consistente na alteração da data-base para futura progressão de regime.
+Inconformada, a defesa interpôs agravo em execução, o qual restou improvido pelo Tribunal de origem, nos seguintes termos (fls. 77/78):
+Foi reconhecida a prática de falta grave no curso da execução, na forma do art. 50, I e VI c/c o art. 39, I e II, ambos da LEP. De acordo com a decisão de fls. 28/29, o apenado teria interpelado os agentes penitenciários de forma desrespeitosa, exigindo rádios e televisores, além de dizer, em tom de ameaça, que a cadeia "iria tremer".
+No presente, não há elementos suficientes que comprovem que o apenado teria incitado os demais presos a subverterem à ordem e disciplina carcerária (inciso I). Entretanto, apesar de sua negativa, não há dúvidas que [NOME] desobedeceu e desrespeitou o servidor e não executou as ordens recebidas.
+ ..
+Portanto, há clara subversão à ordem e disciplina carcerária, pelo motivo que vai mantido o reconhecimento da prática da falta grave.
+A alteração da data-base é decorrência lógica do reconhecimento da falta grave no curso da execução. A matéria foi pacificada a partir do EREsp 1176486/SP - Ministro Napoleão Nunes Maia Filho - Terceira Seção - Dje 01/06/2012.
+Assim, nada há a reparar na decisão quanto à falta grave.
+Pelo exposto, nego provimento ao recurso.
+Dessa forma, constata-se que a conduta perpetrada, no presente caso, caracteriza a falta grave e o descumprimento de condições obrigatórias, aptos a autorizar a aplicação de sanção disciplinar, nos termos em que procedidos.
+Portanto, em que pese os argumentos apresentados neste mandamus, não merece acolhida a insurgência defensiva.
+Ademais, conforme jurisprudência vigente nesta Corte Superior de Justiça, é incabível a emissão de juízo de valor acerca da gravidade das práticas disciplinares imputadas ao condenado, ante o necessário revolvimento fático-probatório, vedado por meio de habeas corpus.
+Nesse sentido, confira-se:
+
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FALTA GRAVE. INOBSERVÂNCIA DE DEVERES PELA APENADA. PEDIDO DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. CONSTATADA ILEGALIDADE FLAGRANTE NA FRAÇÃO APLICADA DE PERDA DOS DIAS REMIDOS. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem de ofício. II - "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 7/3/2014).  ..  Ordem concedida, de ofício, apenas para determinar que a instância a quo decrete a perda de dias remidos - até o limite de 1/3 (um terço) -, de modo fundamentado, com esteio na atual redação do art. 127 da LEP, conferida pela Lei 12.433/2011. (HC 380.500/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/03/2017, DJe 04/04/2017)
+ AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE HOMOLOGADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO. NOVA OITIVA DO APENADO. DESNECESSIDADE. ATIPICIDADE DA CONDUTA OU SUA DESCLASSIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. Segundo a jurisprudência desta corte, "é desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica" (HC n. 321.366/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 3/8/2015). 2. A discussão sobre a configuração da infração disciplinar ou até mesmo a sua desclassificação para falta de natureza média ou leve demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. (grifo nosso) 3. Agravo regimental desprovido. (AgRg no HC 356.071/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017).
+Logo, com base nos argumentos acima delimitados, constata-se ser descabida a verificação acerca da gravidade dos fatos imputados ao ora paciente, a fim de concluir-se pela existência ou não da falta grave.
+No tocante às penalidades aplicadas pelas instâncias de origem, constata-se inexistir qualquer ilegalidade a ser sanada.
+Ressalte-se que a alteração da data-base só opera com relação à progressão de regime, não atingindo o livramento condicional, o indulto e a comutação a teor das Súmulas n.º 441 e 535/STJ.
+Desse modo, não evidenciada a suscitada coação, com amparo no art. 34, XX, do RISTJ, não se conhece do writ.
+Publique-se. Intime-se.
