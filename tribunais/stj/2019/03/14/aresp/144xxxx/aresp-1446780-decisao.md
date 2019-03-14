@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. ITBI. BASE DE CÁLCULO. LEGISLAÇÃO LOCAL TIDA POR INCONSTITUCIONAL PELA CORTE DE ORIGEM. VALOR VENAL DO IMÓVEL CONSTANTE DO IPTU OU VALOR DO NEGÓCIO. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 280 DO STF E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manejado pelo MUNICÍPIO DE SÃO PAULO em face de decisão que negou admissibilidade ao recurso especial em razão da incidência da Súmula nº 280 do STJ, eis que a análise da pretensão recursal demandaria reexame de direito local.
+O agravante insurge-se contra a decisão agravada alegando, em síntese, que alegou ofensa aos arts. 38, 97 e 148 do CTN, de modo que não seria necessária aferição de direito local para acolher a pretensão recursal, sobretudo porque esta Corte já teria admitido o arbitramento pelo Fisco da base de cálculo do ITBI, que no caso seria o valor venal do imóvel, o qual não precisa coincidir com o valor do IPTU, visto que ambos os tributos tem fatos geradores distintos que ocorrem em momentos também distintos.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 244-257 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece conhecimento.
+Da análise do acórdão recorrido, verifica-se que foi afastada a aplicação dos arts. 7º-A, 7º-B e 12, da Lei n. 11.154/91, acrescidos pela Lei nº 14.256/2006, sob o fundamento de inconstitucionalidade em razão de acolhimento de Incidente de Inconstitucionalidade perante o Órgão Especial do Tribunal de Justiça do Estado de São Paulo. Desse modo, manteve a sentença que fixada a base de cálculo do ITBI como sendo a constante do IPTU ou do valor da transação, o que for maior.
+Portanto, não é possível a esta Corte infirmar o acórdão recorrido no ponto, seja porque o acolhimento da alegada ofensa ao art. 38 do CTN implicaria, na hipótese, em aplicação de legislação local tida por inconstitucional, seja porque esta Corte já se manifestou no sentido de que a base de cálculo do ITBI é o valor real da venda do imóvel ou de mercado, o qual não se identifica necessariamente com a base de cálculo do IPTU (AgInt no AREsp 1.191.604/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/05/2018), cuja aferição na hipótese demandaria tanto reexame de lei local a atrair o óbice da Súmula nº 280 do STF quanto reexame de matéria fático-probatória a atrair a incidência da Súmula nº 7 desta Corte.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
