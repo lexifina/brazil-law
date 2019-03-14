@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. DECISÃO RECONSIDERADA. PENSÃO POR MORTE. ABSOLUTAMENTE INCAPAZ. TERMO INICIAL PARA CONCESSÃO DO BENEFÍCIO. DATA DO ÓBITO DE SUA GENITORA. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DO MPF.
+1. Trata-se de Embargos Declaratórios no Agravo em Recurso Especial opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão de minha relatoria, cuja ementa abaixo se transcreve:
+ADMINISTRATIVO. RECURSO ESPECIAL. PENSÃO POR MORTE. ABSOLUTAMENTE INCAPAZ. REVISÃO DO TERMO INICIAL EM REMESSA NECESSÁRIA. IMPOSSIBILIDADE. REFORMATIO IN PEJUS. O REEXAME NECESSÁRIO PREVISTO NO ART. 475 DO CPC NÃO PODE SER UTILIZADO COMO MECANISMO PREJUDICIAL À ENTIDADE DE DIREITO PÚBLICO. RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO
+2. A parte embargante sustenta que há omissão quantos aos argumentos de que o Tribunal de origem desconsiderou tratar-se a situação de prescrição, matéria de ordem pública, que pode ser reconhecida inclusive ex officio. Salienta que o prazo prescricional não corre contra o absolutamente incapaz, situação dos autos, motivo pelo qual o termo inicial do benefício deveria ser contado da data de falecimento da mãe do beneficiário (fls. 274).
+3. Sem impugnação (fls. 281).
+4 É o relatório.
+5. Considerando a pretensão infringente do julgado e em atenção ao princípio da fungibilidade recursal, recebo os presentes Embargos de Declaração como Agravo Interno.
+6. Analisando detidamente a controvérsia, verifica-se ser o caso de exercer o juízo de retratação, motivo pelo qual reconsidera-se a decisão agravada, tornando-a sem efeito.
+7. A insurgência merece prosperar.
+8. De fato, a jurisprudência desta Corte tem jurisprudência assenta que, para fins de concessão de benefício previdenciário, contra o menor não corre a prescrição, por isso que o termo a quo das prestações deve, nesses casos, coincidir com a data da morte do segurado. Nesse sentido:
+PROCESSUAL CIVIL. ERRO MATERIAL. CORREÇÃO EX OFFICIO PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. PENSÃO POR MORTE. TERMO INICIAL PARA CONCESSÃO DO BENEFÍCIO. DATA DO ÓBITO. SÚMULA 83/STJ.
+1. A simples correção de erro material - contido em decisão monocrática - por parte do Tribunal a quo não viola o princípio da non reformatio in pejus, razão pela qual não há que falar em violação ao art. 460 do CPC.
+2. Ademais, conforme expressamente delineado no acórdão recorrido, trata-se de pedido de concessão de pensão especial realizado por incapaz. Sendo assim o Superior Tribunal de Justiça orienta-se no sentido de que não corre a prescrição contra incapazes, resultando na conclusão de que são devidas as parcelas a partir da data do falecimento do instituidor da pensão, independentemente do momento em que formulado o requerimento administrativo ou de quando ocorreu a citação judicial válida. Incidência da Súmula 83/STJ.
+3. Recurso Especial não provido (REsp 1.684.500/SP, Rel. Min. HERMAN BENJAMIN, DJe 16.10.2017).
+
+PREVIDENCIÁRIO E PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. (I) RECONHECIMENTO DE TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. INÍCIO DE PROVA MATERIAL. (II) TERMO INICIAL DO BENEFÍCIO EM FAVOR DE MENORES. DATA DO ÓBITO DO SEGURADO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça admite a sentença trabalhista como início de prova material, para fins de reconhecimento de tempo de serviço, desde que fundada em elementos que atestem o exercício laboral no período alegado ou corroborada por outras provas nos autos.
+2. Não corre prescrição contra o menor absolutamente incapaz, não se lhe podendo aplicar, dest"arte, a regra do art. 74, II, da Lei 8.213 /91, sendo, portanto, devido o benefício de pensão por morte aos dependentes menores desde a data do óbito do mantenedor.
+Precedentes: AgRg no Ag 1.203.637/RJ, 5T, Rel. Min. LAURITA VAZ, DJe 3.5.2010; REsp. 1.141.465/SC, 6T, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), DJe 06.02.2013.
+3. Agravo Regimental do INSS desprovido (AgRg no AREsp 269.887/PE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe de 21.3.2014).
+9. Ante o exposto, dá-se provimento ao Agravo Interno para, reconsiderando a decisão de fls. 266/269, dar provimento ao Recurso Especial do MPF para fixar o termo inicial do benefício da parte autora, como sendo a data do óbito do instituidor do benefício, nos termos da fundamentação supra.
+10. Publique-se. Intimações necessárias.
