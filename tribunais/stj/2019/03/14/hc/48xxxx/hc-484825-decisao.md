@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO PELO TRIBUNAL ESTADUAL DE REINCIDÊNCIA ESPECÍFICA ENTRE OS DELITOS DE TRÁFICO E TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DISSONÂNCIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ORDEM CONCEDIDA, CONFIRMANDO LIMINAR DEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra o acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no Agravo de Execução Penal n.º 1.0114.15.005056-4/001.
+Consta dos autos que o Juízo da Execução indeferiu o pedido do Ministério Público para que fosse reconhecida a reincidência específica entre os delitos de tráfico e tráfico privilegiado, procedendo-se à retificação dos cálculos. O Parquet, então, interpôs Agravo de Execução Penal, o qual foi provido pelo Tribunal de origem, dando provimento à insurgência para determinar a retificação do atestado de pena do reeducando, fazendo constar a reincidência específica.
+Alega a Defesa que, conforme entendimento do Superior Tribunal de Justiça, " n ão sendo o delito de tráfico na sua forma minorada crime hediondo, não poderia ser considerado para ensejar reincidência específica diante de posterior condenação por tráfico de drogas na forma simples" (fls. 9-10).
+Busca, assim, em liminar com ratificação no mérito, que o Paciente não seja considerado reincidente específico.
+O pedido liminar foi deferido e as informações dispensadas (fl. 165-167).
+Instado a se manifestar o Ministério Público Federal opinou pela concessão da ordem.
+É o relatório. Decido.
+O mérito do direito invocado pela Parte Impetrante é de reconhecimento inequívoco, motivo pelo qual a ordem deve ser concedida, confirmando a liminar deferida.
+O Tribunal apontado como coator cassou a decisão do Juízo da Execução Criminal, sob os seguintes fundamentos (fls. 157-158):
+"Para fins de se considerar a reincidência como específica, basta que o novo crime cometido seja da mesma espécie que o anterior, ainda que um deles tenha sido considerado de natureza hedionda e o outro não.
+No caso em questão, embora o agravado tenha sido condenado primeiro pela prática do crime de tráfico com incidência da causa especial de diminuição de pena prevista no §4º do art. 33 da Lei 11.343/06, o delito continua sendo o tráfico de entorpecentes e circunstância da hediondez não torna o delito diverso do descrito caput."
+A Suprema Corte, em deliberação plenária, decidiu que o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n.º 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput. Eis a ementa do julgado:
+"HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+4. Ordem concedida." (HC 118.533/MS, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 23/06/2016, DJe 16/09/2016, sem grifos no original.)
+Sobre a controvérsia, a jurisprudência do Superior Tribunal de Justiça também firmou-se no sentido de que a aplicação da causa de diminuição do art. 33, § 4.º, da Lei n.º 11.343/2006 afasta o caráter de crime equiparado a hediondo do delito de tráfico de drogas.
+Nesse contexto, esta Corte também firmou entendimento no sentido de que " o  sentenciado condenado, primeiramente, por tráfico privilegiado (art. 33, § 4º, da Lei n.º 11.343/2006) e, posteriormente, pelo crime previsto no caput do art. 33 da Lei n.º 11.343/2006, não é reincidente específico, nos termos da legislação especial" (HC 419.974/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/05/2018, DJe 04/06/2018; sem grifos no original).
+Ainda, nesse sentido: AgRg no HC 455.227/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/11/2018 (DJe 26/11/2018); HC 471.013/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/10/2018 (DJe 26/10/2018); HC 453.983/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/08/2018 (DJe 09/08/2018); HC 436.103/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/06/2018 (DJe 29/06/2018).
+Ante o exposto, confirmando a liminar, CONCEDO A ORDEM de habeas corpus para cassar o acórdão proferido pelo Tribunal de origem no julgamento do Agravo em Execução n.º 1.0114.15.005056-4/001.
+Publique-se. Intimem-se.
