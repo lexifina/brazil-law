@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. FALTA DE INTERESSE DE AGIR. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Oi S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 336):
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM. TELEFONIA. FALTA DE INTERESSE DE AGIR. AFASTADA. QUALQUER TENTATIVA DA PARTE DE BUSCAR OBTER OS DOCUMENTOS PELA VIA EXTRAJUDICIAL COMPROVA O INTERESSE DE AGIR. SÚMULA 389 DO STJ INAPLICÁVEL. LIVRE ACESSO AO JUDICIÁRIO. GARANTIA CONSTITUCIONAL PREVISTA NO ARTIGO 5º, XXXV DA CF. MEDIDA CAUTELAR QUE OBJETIVA A OBTENÇÃO DE DOCUMENTOS PARA FUTURA UTILIZAÇÃO. RITO CORRETO PARA A PRETENSÃO DE OBTER DOCUMENTOS, INOCORRÊNCIA DE PRETENSÃO DE PRODUÇÃO DE PROVAS. ENTENDIMENTO DO STJ. DESNECESSIDADE DE COMPROVAÇÃO DO FUMUS BONI IURIS E DO PERICULUM IN MORA NAS MEDIDAS
+CAUTELARES DE APRESENTAÇÃO DE DOCUMENTOS. EXERCÍCIO ABUSIVO DE DIREITO. NÃO CONFIGURADO. DIREITO AO CONSUMIDOR DE OBTER DOCUMENTOS COMUNS AVENÇADOS ENTRE AS PARTES.RECURSO ADESIVO DESERTO. PARTE BENEFICIÁRIA DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. BENEFÍCIO NÃO EXTENSÍVEL AO ADVOGADO. DESERÇÃO RECONHECIDA.
+SÚMULA 47 DO TJPR. RECURSO CONHECIDO E DESPROVIDO. RECURSO ADESIVO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 358-365).
+Nas razões do apelo extremo (e-STJ, fls. 399-417), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 535, I e II, do CPC/1973 e 100, § 1º, da Lei 6.404/1976, sustentando, em síntese: i) negativa de prestação jurisdicional; e ii) que a exibição de documentos exige o exaurimento da via administrativa.
+Não foram apresentadas contrarrazões (e-STJ, fl. 446).
+O processamento do recurso especial foi admitido na origem (e-STJ, fls. 469-470).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão - situação facilmente constatável in casu -, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 535, I e II, do CPC/1973 (atual art. 1.022, I e II, do CPC/2015). Precedentes: AgRg no AREsp n. 55.751/RS, Terceira Turma, Relator o Ministro Paulo de Tarso Sanseverino, DJe 14/6/2013; AgRg no REsp n. 1.311.126/RJ, Primeira Turma, Relator o Ministro Napoleão Nunes Maia Filho, DJe 22/5/2013; REsp n. 1.244.950/RJ, Terceira Turma, Relator o Ministro Sidnei Beneti, DJe 19/12/2012; e EDcl no AgRg nos EREsp n. 934.728/AL, Corte Especial, Relator o Ministro Luiz Fux, DJe 29/10/2009.
+Quanto à questão de fundo, melhor sorte assiste à insurgente.
+Com efeito, nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976).
+Esse entendimento foi consolidado no julgamento do REsp n. 982.133, julgado sob o rito dos repetitivos, conforme ementa abaixo colacionada:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 22/09/2008)
+No caso dos autos, não há notícia de ter o recorrido realizado o requerimento administrativo, a fim de estar caracterizado o interesse de agir para a propositura da ação.
+Ante o exposto, dou parcial provimento ao recurso especial a fim de extinguir o feito sem resolução do mérito, em razão da ausência de interesse do recorrido na cautelar de exibição de documentos, e inverto os ônus da sucumbência.
+Publique-se
