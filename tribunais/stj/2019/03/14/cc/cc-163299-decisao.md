@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO FEDERAL DA 2ª VARA DE SANTA MARIA - SJ/RS, o suscitante, e o JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE SANTA MARIA - RS, o suscitado.
+Na origem, trata-se de "Inquérito policial para apurar a prática, em tese, do delito de lavra ou extração de recursos minerais sem licença dos órgãos ambientais competentes, art. 55 da Lei nº 9605/98, ou usurpação de patrimônio público da União previsto no art. 2º da Lei 8176/91, pois a empresa investigada estaria extraindo argila de área localizada em uma das margens da rodovia e, em parte, colocando-a em outra área, no lado oposto, em frente, com maquinário pertencente à firma" (e-STJ fl. 344).
+A Justiça Estadual declinou da competência para analisar o feito e determinou a remessa dos autos à Justiça Federal, por entender que o arquivamento das investigações se deu em relação ao art. 2º da Lei 8.176/91, remanescendo o delito capitulado no art. 55 da Lei 9.605/98 (crime ambiental).
+Por sua vez, o Juízo Federal suscitou o presente conflito negativo de competência :
+"(..) A competência da Justiça Federal depende da demonstração da existência de ameaça ou lesão a interesses, bens ou serviços da União, de suas autarquias ou empresas públicas.
+Reconhecida a inexistência do delito patrimonial (artigo 2º da Lei 8.176/91), tendo ocorrido apenas a terraplanagem com movimentação do solo, sem extração mineral com intuito comercial, percebe-se que não há violação a bens, serviços ou interesse da União que justifique a remessa dos autos a esta Justiça Federal.
+Isto porque de acordo com o registro efetuado pela Brigada Militar (Boletim de Ocorrência nº 3556179), Getúlio, empregado da empresa investigada, foi flagrado descarregando carga de solo argiloso em terreno pertencente a [NOME], ou seja, em área privada, o que afasta a competência federal." (e-STJ fls. 331-333)
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 344-346).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Com efeito, a jurisprudência desta Corte é firme em afirma que compete à Justiça Federal processar e julgar delitos nos quais haja ofensa direta a bens, serviços ou interessas da União, de suas autarquias ou empresas públicas.
+No caso, contudo, "constata-se que ficou demonstrado apenas que houve uma terraplanagem com a movimentação do solo, não havendo extração mineral com intuito comercial, ficando clara que a intenção do investigado era apenas fazer a terraplanagem. Sendo assim, verifica-se que não restou configurado na narrativa dos autos que houve a extração de recursos minerais, com a finalidade de utilização específica a que se destina. Deste modo, observa-se que sob a ótica do art. 55 da Lei 9.605/98, não se vislumbra os elementos requeridos pela norma, inexistindo notícia de exploração de recurso minerais, pesquisa, lavra ou extração, mas tão somente a movimentação de terra com fins de nivelamento da área. Assim, entender que a realização de terraplanagem como exploração ou extração de recurso minerais, seria entender que toda e qualquer obra de construção civil que ensejasse a prática de atos dessa espécie necessitaria de autorização do Departamento Nacional de Produção Mineral - DNPM." (e-STJ fls. 345-346).
+Inexistindo, assim, lesão direta a bens, serviços ou interesses da União, afasta-se a competência da Justiça Federal.
+Nesse sentido, destaco:
+"(..) A SIMPLES TERRAPLANAGEM DE DETERMINADA ÁREA, CONSISTENTE NA MOVIMENTAÇÃO DE TERRAS COM VISTAS A NIVELAR O SOLO, NÃO SE CONFUNDE COM A EXECUÇÃO DE PESQUISA, LAVRA OU EXTRAÇÃO DE RECURSOS MINERAIS TIPIFICADA NO ART. 55 DA LEI DE CRIMES AMBIENTAIS (..) "(CC 127.540/RS, Rel. Ministro SEBASTIÃO REIS JUNIOR, TERCEIRA SEÇÃO, DJe 10/05/2013)
+"AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. AÇÃO PENAL. CRIME AMBIENTAL. ART. 55 DA LEI N. 9.605/1998. EXTRAÇÃO RUDIMENTAR DE AREIA EM LEITO DE RIO. AUSÊNCIA DE DEMONSTRAÇÃO DE LESÃO A INTERESSE DA UNIÃO COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Compete à Justiça estadual o julgamento do crime do art. 55 da Lei n. 9.605/1998, consubstanciado em extração rudimentar de areia em leito de rio, quando não demonstrada excepcional lesão a interesse da União.
+2. Agravo regimental improvido." (AgRg no CC 151.896/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, DJe 01/02/2019)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 4ª Vara Criminal de Santa Maria - RS, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
