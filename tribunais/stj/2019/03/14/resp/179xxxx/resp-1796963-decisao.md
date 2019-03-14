@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o réu foi condenado na origem pela prática do crime de furto majorado (art. 155, §§ 2º e 4º, II, c/c 65, III, "d", do Código Penal), a cumprir a pena de 1 ano e 4 meses de reclusão, substituída por uma restritiva de direitos, além de 6 dias-multa, no valor de 1/30 do salário mínimo.
+Em grau de apelação, o Tribunal de Justiça, por maioria, negou provimento ao recurso da defesa (fl. 450/470).
+Interpostos embargos infringentes, estes restaram rejeitados, em acórdão assim ementado:
+EMBARGOS INFRINGENTES - FURTO - ABSOLVIÇÃO - LEITURA DOS DEPOIMENTOS EXTRAJUDICIAIS - POSSIBILIDADE - CONDENAÇÃO MANTIDA - EMBARGOS REJEITADOS. - É perfeitamente possível que, em juizo, se proceda à leitura dos depoimentos prestados pelos declarantes na fase inquisitorial, se posteriormente foi oportunizada ás partes a formulação de perguntas, nào havendo, pois, que se falar em ofensa aos arts. 155, 203 e 204 do Código de Processo Penal.
+Na petição de recurso especial, a parte recorrente alega que o acórdão recorrido violou os artigos 59 e 155, § 2º, do Código Penal. Assegura que o acórdão recorrido não trouxe fundamentação idônea para sustentar a redução mínima decorrente da causa de diminuição prevista no art. 155, § 2º, do Código Penal, sendo que todas as circunstâncias judiciais são favoráveis.
+Requer que se redimensione a pena, de modo a aplicar-se a fração máxima prevista em lei pelo furto privilegiado.
+Contrarrazões apresentadas - fls. 514/516.
+Admitido o recurso (fls. 518/520) os autos vieram a esta Corte.
+Parecer ministerial proferido nos termos da seguinte ementa (e-STJ, fl. 532):
+RECURSO ESPECIAL. PENAL E. PROCESSUAL PENAL. CRIME DF. FURTO QUALIFICADO PRIVILEGIADO (ART. 155, §§ 2º e 4º, II, DO CÓDIGO PENAL). CONDENAÇÃO À PENA DE 01 ANO E 04 MESES DE RECLUSÃO, EM REGIME INICIAL ABERTO. DOSIMETRIA. REVISÃO. INVIABILIDADE. REDUÇÃO EM 1/3 EM RAZÃO DO VALOR DO BEM. SÚMULA 7 DO ST). PARECER PELO NÃO CONHECIMENTO DO RECURSO.
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+A defesa pleiteia a aplicação da fração máxima de 2/3 (dois terços) da figura do furto privilegiado. No caso, Tribunal de origem reduziu a pena em 1/3 (um terço), sob os seguintes fundamentos:
+Do pedido de redução da reprimenda em 2/3  dois terços  pelo privilégio
+- O apelante pede a redução da reprimenda em 2V3  dois terços  nos termos do artigo 155 § 2º do Código Penal.
+Razão contudo não lhe assiste
+O MM Juiz a quo reconheceu o privilégio do § 2o do artigo 155 do Código Penal, diminuindo a reprimenda em 1/3  um terço  f.235-236
+O artigo 155 § 2o do Código Penal apresenta três hipóteses que podem ser observadas pelo sentenciante, analisando este o caso concreto caso seja reconhecido o privilégio, vejamos
+(..)
+O i Magistrado Primevo agiu dentro de sua discricionariedade e considerando o presente caso reduziu a acertadamente a reprimenda do apelante em 1/3  um terço)
+A fixação da pena no mínimo legal, a observância do regime aberto e a substituição da pena corporal respeitam o caráter ressooatizador da pena
+A redução da reprimenda em grau máximo pelo privilégio não é aconselhável
+in casu estimulando o agente a prática de novos delitos
+Essa é a jurisprudência:
+APELAÇÃO CRIMINAL - FURTO PRIVILEGIADO - ABSOLVIÇÃO - IMPOSSIBILIDADE  MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - APLICAÇÃO APENAS DA PENA DE MULTA - INVIABILIDADE  ALTERAÇÃO DA FRAÇÃO DE REDUÇÃO PELO PRIVILÉGIO E FIXAÇÃO DO REGIME ABERTO - POSSIBILIDADE - RECURSO PARCIALMENTE PROVIDO. -1. Restando devidamente comprovadas nos autos a materialidade e a autoria do crime de furto, diante da prova oral colhida, confirmada sob o crivo do contraditório, imperiosa a manutenção da condenação firmada em primeira instância, por seus próprios fundamentos. 2. Constatado que as condições apuradas nos autos não se mostraram totalmente favoráveis ao acusado, inviável a aplicação somente da pena de multa. 3. Levando-se em consideração o valor da res furtiva e do salário minimo vigente á época dos fatos, cabível a aplicação da fração de redução pelo privilégio no patamar intermediário de 1/2 (metade). 4. Diante da existência de erro material na r. sentença quanto á fixação do regime, necessário que se proceda a sua correção. Assim, levando-se em consideração o quantum de pena aplicado e a análise favorável de todas as circunstâncias judiciais previstas no art. 59 do Código Penal, de rigor a fixação do regime inicial aberto. (TJMG - Apelação Criminal 1.0223 15 023323- 5/001, Relator(a): Des (a) Eduardo Machado , 5a CÂMARA CRIMINAL, julgamento em 05/09/2017. publicação da súmula em 18/09/2017)  grifei  (fls. 465/466).
+Com efeito, o valor do bem subtraído constitui fundamento idôneo para se aferir o patamar de redução da pena do furto privilegiado. Ressalte-se que a res furtiva equivale a cerca de 20% (vinte por cento) do salário mínimo vigente à época dos fatos (R$ 622,00), restando plenamente justificado o patamar mínimo fixado. A propósito:
+HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. FURTOS QUALIFICADOS. CONTINUIDADE DELITIVA. NULIDADE. INOCORRÊNCIA. NÃO DEMONSTRAÇÃO DO PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR DO BEM. ATIPICIDADE MATERIAL. NÃO OCORRÊNCIA. ART. 155, § 2.º, DO CÓDIGO PENAL. FURTO PRIVILEGIADO. POSSIBILIDADE. PACIENTE PRIMÁRIO. RES FURTIVA. VALOR INFERIOR A UM SALÁRIO MÍNIMO. QUALIFICADORA OBJETIVA. REQUISITOS PREENCHIDOS. SÚMULA 511/STJ. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+ ..
+5. Para a concessão do benefício do privilégio no crime de furto, exige-se que o agente seja primário e de pequeno valor a res furtiva, ou seja, a importância do bem não deve ultrapassar um salário mínimo. Nos termos da Súmula 511 desta Corte, é cabível o benefício mesmo no caso de crime qualificado, desde que a qualificadora seja de ordem objetiva.
+6. Hipótese em que o paciente é primário e o valor do bem é inferior ao salário mínimo vigente na data do delito. A qualificadora aplicada é de ordem objetiva (concurso de agentes). E as circunstâncias judiciais foram consideradas favoráveis, com a fixação da pena-base no mínimo legal. Em razão da qualificadora, razoável a redução da reprimenda no patamar de 1/3 (um terço).
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de aplicar o benefício previsto no § 2.º do art. 155 do Código Penal, e, por conseguinte, reduzir a pena do paciente para 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão, mais 7 (sete) dias-multa, mantidos os demais termos da sentença e do acórdão. (HC 324.809/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015).
+Diante do exposto, com fundamento no art. 932, inc. IV, alínea "a", nego provimento ao recurso especial.
+Publique-se. Intimem-se.
