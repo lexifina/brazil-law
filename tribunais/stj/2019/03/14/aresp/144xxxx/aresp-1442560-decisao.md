@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo (art. 544 do CPC/73), interposto por UNIMED JUIZ DE FORA - COOPERATIVA DE TRABALHO MÉDICO LTDA., em face de decisão que não admitiu recurso especial (fls. 288-301, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 201-212, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER - RECUSA DA RÉ EM FORNECER MEDICAMENTO PARA TRATAMENTO DE CÂNCER DA PARTE AUTORA - TUTELA ANTECIPADA CONCEDIDA - DECISÃO MANTIDA.
+- Se o medicamento negado faz parte do tratamento de quimioterapia, para o qual há previsão expressa no contrato firmado entre a requerida e a estipulante em relação à qual a autora está vinculada, não há razão para a exclusão da cobertura, sendo que o fato do medicamento deter natureza experimental não desobriga a requerida de promover o tratamento respectivo, mormente se há prova médica inequívoca que dito tratamento tem a finalidade retardar a evolução da doença que acomete o paciente.
+Opostos embargos de declaração (fls. 215-222, e-STJ), esses foram rejeitados (fls. 230-237, e-STJ).
+Nas razões do recurso especial (fls. 240-257, e-STJ), a recorrente aponta violação aos artigos 6º da LINDB; 421, 422 do CC/2002; e 273, caput e inciso I, e 535 do CPC/73.
+Sustenta, em síntese, que: a) o acórdão recorrido é omisso em relação às cláusulas contratuais que excluem a cobertura pleiteada; b) o Poder Judiciário não pode declarar abusiva cláusula contratual livremente pactuada entre as partes; e c) as alegações dispostas pela ora recorrida não denotam a verossimilhança do direito pleiteado.
+Não foram apresentadas contrarrazões (fls. 281-282, e-STJ).
+Em juízo de admissibilidade (fl. 283, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que incidiria ao caso o enunciado nº 7 da Súmula do STJ.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que o exame da pretensão não demanda reanálise da matéria de fato.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo claro e fundamentado, assentou que, diante do acervo fático acostado aos autos, estariam comprovados a verossimilhança do direito invocado e o fundado receio de dano irreparável ou de difícil reparação, razão pela qual seria necessária a concessão da tutela de urgência.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 535 do CPC/1973 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+2. No que toca às demais questões suscitadas no apelo, melhor razão não assiste à insurgente.
+Verifica-se que a pretensão veiculada no recurso especial encontra óbice na Súmula 735 do STF, aplicada por analogia: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Com efeito, entende esta Corte ser descabido, via de regra, o recurso especial que pretende o reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar.
+Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Ainda que assim não fosse, tem-se que a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional reclamaria, necessariamente, a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+Sobre o tema, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - TUTELA ANTECIPADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar."). Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 273 do CPC/73) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+(..)
+(AgRg no AREsp 744.749/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+ AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 735 DO STF. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+(..)
+2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7 do STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 886.909/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. PRAZO PARA CUMPRIMENTO. IMPOSSIBILIDADE DE REVISÃO DA QUESTÃO EM SEDE DE RECURSO ESPECIAL. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA .SÚMULA 7/STJ.
+1. "Esta Corte, em sintonia com o disposto na Súmula nº 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere, indefere ou mantém liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg no AREsp 464.505/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/03/2014, DJe 08/04/2014).
+2. Inviável a análise do recurso especial se a matéria nele contida depende de reexame reflexo de questões fáticas da lide, ante o teor da Súmula 7 do STJ.
+3. Agravo interno não provido. (AgInt no AREsp 979.512/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+De fato, para derruir as conclusões assentadas pelo acórdão acerca da verossimilhança do direito invocado pela ora recorrente - argumento suscitado no bojo do recurso especial -, seria necessário revolver todo o acervo probatório constante dos autos.
+Nesses termos, inviável a admissão do presente recurso especial.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
