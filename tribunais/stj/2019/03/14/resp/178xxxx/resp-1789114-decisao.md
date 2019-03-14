@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao apelo defensivo, assim ementado:
+APELAÇÃO CRIMINAL - Roubo majorado - aumento da pena-base - com reconhecimento da confissão a pena permanece tal como foi lançada na r. sentença - regime fechado mais adequado - Recursos defensivo desprovido e recurso ministerial provido.
+Sustenta a defesa violação do art. 157, § 29, I, e do art. 33, § 22, do CP.
+Aduz que a promulgação da Lei 13.648/18, que alterou o art. 157, § 2º, I, CP, em sua redação atual, não mais contempla o inciso I, já que houve verdadeira abolitio criminis.
+Argumenta, ainda, que, sendo o acusado primário e, estando sua pena fixada em até 4 anos, deve ser estabelecido o regime semiaberto e não o fechado.
+Requer o provimento do recurso, a fim de que seja afastada a majorante em razão da entrada em vigor da Lei 13.654/2018 e fixado regime inicial mais brando.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento parcial do recurso.
+É o relatório.
+Decido.
+O recorrente foi condenado à pena de 5 anos e 4 meses de reclusão e 13 dias-multa pelo delito descrito no art. 157, § 2º, I, do Código Penal.
+Interposta apelação ministerial, o acórdão foi assim fundamentado:
+A dosimetria merece reparos.
+No caso em tela, verifica-se que a vítima sofreu agressão que resultou na lesão corporal de natureza leve, conforme laudo de fls. 78/80 e depoimentos dos policias em juízo confirmando que a vítima estava com um corte na cabeça.
+Assim, a pena-base deve ser fixada acima do mínimo em 1/6, resultando na pena de 4 anos e 8 meses de reclusão, e ao pagamento de 11 dias-multa.
+Na segunda fase, reconhecida a atenuante referente a confissão, retorna a pena ao patamar mínimo.
+Comprovada a majorante relativa ao emprego de arma branca (garrafa de vidro) a pena foi corretamente majorada em 1/3.
+Assim, a pena permanece como fixada na r. sentença em 5 anos e 4 meses de reclusão, e ao pagamento de 13 dias-multa.
+Por fim, o regime inicial de cumprimento da pena deve ser o fechado e não poderia ser outro, dada a evidente periculosidade do Réu, bem como pela necessidade de garantir-se a ordem pública que, evidentemente fica exposta e casos como o dos autos.
+Relativamente à inovação legislativa trazida pela Lei 13.654/2018, trata-se de lei posterior mais benéfica, retroage em favor do réu, nos termos do art. 2º, parágrafo único, do CP, razão pela qual deve ser afastada a majorante prevista no art. 157, § 2º, I, do CP, diante do cometimento do delito com uso de faca, arma branca. Confiram-se, a propósito, os seguintes precedentes desta Corte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. EMPREGO DE ARMA BRANCA. LEI N. 13.654/2018. RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. AUMENTO OPERADO NO MÍNIMO LEGAL PELA INCIDÊNCIA DE DUAS MAJORANTES. PENA INALTERADA. REGIME INICIAL SEMIABERTO. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.  ..  2. Com o advento da Lei n. 13.654, de 23 de abril de 2018, que revogou o inciso I do artigo 157 do CP, o emprego de arma branca, embora possa eventualmente ser valorado como circunstância judicial desabonadora, não se subsume a qualquer uma das majorantes do crime de roubo, impondo-se, portanto, a redução da pena na terceira fase da dosimetria, em observância ao princípio da retroatividade da lei penal mais benéfica, insculpido no art. 5º, XL, da Constituição da República.  ..  (HC 449.410/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/06/2018, DJe 01/08/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. VETORIAL DOS ANTECEDENTES. DECURSO DO PRAZO PREVISTO NO ART. 64, INCISO I, DO CÓDIGO PENAL. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. AFRONTA AO ART. 5º, XLVII, "B", DA CF. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMPREGO DE ARMA BRANCA. AFASTAMENTO. NOVATIO LEGIS IN MELLIUS. LEI 13.654/18. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.  ..  2. A análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Constituição Federal. 3. A Lei 13.654/18 extirpou o emprego de arma branca como circunstância majorante do delito de roubo. Em havendo a superveniência de novatio legis in mellius, ou seja, sendo a nova lei mais benéfica, de rigor que retroaja para beneficiar o réu (art. 5º, XL, da CF/88). 4. Recurso parcialmente provido a fim de reduzir a pena imposta ao recorrente ao patamar de 2 anos, 1 mês e 18 dias de reclusão, mais o pagamento de 5 dias-multa, mantidos os demais termos da condenação (AgRg no AREsp 1249427/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/06/2018, DJe 29/06/2018).
+Afastada a causa de aumento de pena em decorrência do uso de arma branca, passo à nova dosimetria da pena.
+Fixada a pena-base em 4 anos e 8 meses de reclusão e 11 dias-multa, reduz-se ao mínimo legal ante o reconhecimento da atenuante da confissão, na segunda fase, tal qual fixado pelas instâncias ordinárias. Na terceira fase, afastado o acréscimo da pena relativamente ao uso de arma branca, torna-se definitiva a pena de 4 anos de reclusão e 10 dias-multa.
+Em decorrência da redução da pena ora implementada, tratando-se de réu primário, cuja pena-base foi estabelecida acima do mínimo legal, faz jus o recorrente ao regime semiaberto.
+Ante o exposto, dou provimento ao recurso especial para fixar a pena em 4 anos e 10 dias-multa, a ser cumprida em regime inicial semiaberto.
+Publique-se.
+Intimem-se.
