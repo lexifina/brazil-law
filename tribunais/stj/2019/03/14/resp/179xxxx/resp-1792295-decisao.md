@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 1022 DO CPC/15. NÃO CONFIGURAÇÃO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM VALORES EXORBITANTES. EQUIDADE. ÓBICE DA SÚMULA N. 7/STJ. INAPLICABILIDADE DA SÚMULA N. 345/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial da UNIÃO fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+ADMINISTRATIVO. AGRAVO. EXECUÇÃO. ENTIDADE SINDICAL NA CONDIÇÃO DE EXEQUENTE E SUBSTITUTO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS DA EXECUÇÃO. PROVIMENTO PARCIAL
+I - A fixação da Verba Honorária rege-se pelo artigo 20, § 4o, do CPC/1973, vigente à época, e conforme a orientação do Tribunal Regional Federal da 5a Região em situações análogas.
+II - Provimento, em parte, do Agravo de Instrumento para majorar a Verba Honorária em 5% sobre o Valor da Execução.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, o recorrente alega violação dos seguintes dispositivos:
+(a) arts. 485, § 1º, IV e 1022, II, do CPC/15 e arts. 2º, 5º, LV e XXXV, e 93, IX, da Constituição Federal, aduzindo omissão no acórdão combatido;
+(b) art. 20, § 4º, do CPC/73, aduzindo que a majoração da verba honorária para 5% do valor da execução importou em valor exorbitante.
+Houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+Quanto ao primeiro ponto suscitado no especial, não se configura a ofensa apontada, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada, não havendo que se falar em omissão no acórdão recorrido.
+Vale ressaltar, com relação à negativa de vigência dos arts. 2º, 5º, LV e XXXV, e 93, IX, da Constituição Federal, que não cabe à essa Corte Superior a análise de violação de dispositivos constitucionais sob pena de usurpação da competência do STF.
+No mérito, aduz que se cuida de execução milionária, de forma que a fixação dos honorários se deu em valores excessivos. No mais, sustenta que o caso em tela não atrai a incidência da Súmula n. 345/STJ, visto que não se trata de sentença genérica e sem fixação de verba honorária. Eis que as teses trazidas inviabilizam o conhecimento do recurso.
+Primeiramente, a fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC E NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126/STJ. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE DE ORIGEM COM BASE NO CRITÉRIO DA EQUIDADE. DESPROPORCIONALIDADE NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido ou quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - A matéria constitucional decidida no acórdão não foi impugnada por meio de Recurso Extraordinário, circunstância que atrai o óbice da Súmula n.126 do Superior Tribunal de Justiça.
+IV - A fixação dos honorários advocatícios pelo tribunal de origem, com base no critério da equidade, demanda apreciação de elementos fáticos, inviabilizando a reapreciação por esta Corte, à vista do óbice da Súmula n. 7/STJ, salvo se configurada irrisoriedade ou exorbitância, o que não ocorreu.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1533109/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 05/12/2017)
+TRIBUTÁRIO. ISSQN. EMBARGOS À EXECUÇÃO. NULIDADE DE AUTO DE INFRAÇÃO. RECURSOS ESPECIAIS NÃO CONHECIDOS. ALEGAÇÃO DE IRRISORIEDADE DOS HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Ainda que o julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como a decisão sobre a qual foi interposto o recurso especial foi publicada sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça.
+II - Verifica-se que a irresignação do recorrente acerca do valor de honorários advocatícios, vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos decidiu que a condenação em honorários estaria de acordo com os critérios dos parágrafos 3º e 4º do art. 20 do CPC/73.
+III - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado n. 7 da Súmula do STJ.
+IV - Agravo interno improvido.
+(AgInt no AREsp 1001672/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2017, DJe 10/11/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do entendimento desta Corte, nas causas em que não há condenação, o magistrado não está adstrito aos limites entabulados no § 3º do artigo 20 do CPC/73 (art. 85, § 2º, NCPC), visto que, nestas hipóteses, os honorários deverão ser fixados equitativamente.
+2. Ressalvadas as hipóteses de notória exorbitância ou manifesta insignificância - que não se vislumbra no caso sub judice -, os honorários advocatícios fixados por critério de equidade não se submetem a controle por via de recurso especial, pois demandaria reexame de matéria fática, providência esta vedada a esta Corte, em razão do óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1144990/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+Em segundo lugar, a tese de inaplicabilidade da Súmula n. 345/STJ não foi alvo de discussão no acórdão recorrido, razão pela qual não pode ser analisado em sede de especial por carência de necessário prequestionamento, atraindo o óbice da Súmula n. 211/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
