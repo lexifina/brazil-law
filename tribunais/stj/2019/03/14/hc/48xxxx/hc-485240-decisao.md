@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0002504-27.2017.8.26.0537).
+Consta dos autos que o paciente foi condenado como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 3 anos e 9 meses de reclusão, em regime inicial fechado, bem como ao pagamento de 375 dias-multa (fls. 21/27).
+Interposta apelação, o Tribunal local negou provimento ao recurso, mantendo a condenação nos termos proferidos na sentença. Segue a ementa do acórdão (fls. 31/36):
+TRÁFICO ILÍCITO DE ENTORPECENTES - ACUSADO QUE TRAZIA CONSIGO PORÇÕES DE MACONHA, CRACK E COCAÍNA - DEPOIMENTOS DOS POLICIAIS EM SINTONIA COM O ACERVO PROBATÓRIO, A MERECER CREDIBILIDADE - TRAFICÂNCIA COMPROVADA - CONDENAÇÃO DEVIDA. RECURSO NÃO PROVIDO.
+No presente writ (fls. 31/36), a defesa alega que o paciente está sofrendo constrangimento ilegal, em razão da fixação do regime mais gravoso. Argumenta que o paciente é primário, portador de bons antecedentes e todas as circunstâncias judiciais foram consideradas favoráveis, tanto que a pena-base foi fixada no mínimo legal, sendo o regime fechado fixado apenas com base na gravidade abstrata do delito.
+Sustenta, ainda, que o paciente está preso desde 27 de novembro de 2017 e que esse tempo não foi levado em consideração quando o regime foi arbitrado, nos termos do art. 387, § 2º, do Código de Processo Penal.
+Dessa forma, requer, na liminar e no mérito, a fixação do regime mais brando.
+O pedido liminar foi deferido, em parte, para assegurar ao paciente o direito de aguardar, no regime semiaberto, o julgamento do presente habeas corpus.
+O Ministério Público Federal opinou, às e-STJ fls. 76/83, pela denegação da ordem.
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que julgou o apelo defensivo, o que, de acordo com a nossa sistemática recursal, enseja a hipótese do recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade na fixação do regime mais gravoso.
+Como é cediço, em se tratando de tráfico de entorpecentes, desde o julgamento pelo Supremo Tribunal Federal do HC n. 111.840/ES, inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, determinando, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, c/c o art. 59, do Código Penal.
+No caso, o Tribunal a quo manteve a pena do paciente em patamar que não excede 4 anos de reclusão, com o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 aplicado na fração de 1/4, com base na quantidade de entorpecentes apreendidos, corroborando a aplicação do regime inicial fixado (e-STJ fl. 35)
+O regime inicial fechado é o único adequado e suficiente ao caráter preventivo e repressivo da carcerária, sendo inviável o abrandamento. Isso porque, as circunstâncias em que cometido o delito, alhures mencionadas, evidenciam que desconto menos severo não seria suficiente para atingir o aspecto qualitativo da pena. E não se olvide que a traficância é mola propulsora da criminalidade que assola o país, uma vez que o usuário, na ânsia de sustentar seu vício, pratica toda sorte de delitos, abalando consequentemente toda a sociedade. Nessa esteira entende o C. Superior Tribunal de Justiça:
+(..)
+Entretanto, tratando-se de paciente primário, o regime inicial fechado, excessivamente mais severo do que a pena de 3 anos e 9 meses comporta revela-se desproporcional.
+Afinal, a condenação não excede 4 anos de reclusão, o paciente é primário e a quantidade de drogas apreendidas - 52 g de crack, 38 g de cocaína e 72 g de maconha (fls. 22) -, sopesada na terceira fase da dosimetria, apenas justifica o regime intermediário, na esteira do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO PRIVILEGIADO. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. APLICAÇÃO DA FRAÇÃO REDUTORA COM BASE NA QUANTIDADE DE DROGA APREENDIDA. POSSIBILIDADE DE FIXAÇÃO DO REGIME INICIAL SEMIABERTO. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. REQUISITOS LEGAIS NÃO PREENCHIDOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja recomendável a concessão da ordem de ofício.
+II - O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC n. 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+III - Ademais, a imposição de regime prisional mais gravoso do que a pena comporta requer fundamentação específica, baseada em elementos concretos extraídos dos autos. Inteligência das Súmulas n. 440/STJ e 718 e 719 do STF.
+IV - No caso, aplicada a pena de 2 anos de reclusão, deve ser estabelecido o regime inicial intermediário, tendo em vista a gravidade concreta do delito, evidenciada pela quantidade da droga apreendida, elemento que, inclusive, justificou a escolha da fração redutora de 3/5 pelo tráfico privilegiado. Aplicação dos art. 33, § 3º, do CP e art. 42 da Lei n. 11.343/2006. Precedentes.
+V - O Supremo Tribunal Federal, ao analisar o HC n. 97.256/RS, reconhecendo a inconstitucionalidade da parte final do art. 33, § 4º, da Lei de Drogas, passou a admitir a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal.
+VI - Na espécie, a quantidade de entorpecente apreendidos não recomenda a substituição da pena, nos termos do inciso III do art.
+44 do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela . Precedentes.
+Habeas corpus não conhecido. Ordem de ofício apenas para, confirmando a liminar anteriormente concedida (fls. 47-49), fixar o regime semiaberto para resgate da reprimenda, mantido os demais termos da condenação.
+(HC 485.779/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/02/2019, DJe 01/03/2019)
+Por fim, no que toca à pretendida aplicação da norma prevista no § 2º do art. 387 do Código de Processo Penal, verifica-se que a matéria não foi enfrentada pelas instâncias ordinárias, de forma que análise por esta Corte Superior significaria supressão de instância.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO CIRCUNSTANCIADO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. RECONHECIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-COMPROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. DETRAÇÃO. TEMA NÃO ANALISADO PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+(..)
+5. No que se refere à detração do tempo de prisão cautelar, verifica-se que o tema ora deduzido não foi objeto de cognição pela Corte de origem, o que obsta o seu exame por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+6.Writ não conhecido.
+(HC 428.693/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018)
+Ademais, a pena já se encontrava em patamar inferior a 4 anos de reclusão, sendo fixado o regime inicial semiaberto em virtude da existência de circunstância desfavorável (quantidade das drogas), razão pela qual a efetiva detração de eventual pena cumprida de forma provisória seria irrelevante.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para confirmar a liminar anteriormente deferida e fixar o regime semiaberto para cumprimento da pena.
+Publique-se. Intime-se.
