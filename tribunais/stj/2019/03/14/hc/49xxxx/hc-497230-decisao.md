@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ERIC [NOME] apontando como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de São Paulo, relator do HC n. 2034668-02.2019.8.26.0000.
+Consta dos autos que, em 9/2/2019, o paciente foi preso em flagrante e denunciado por ter supostamente praticado os delitos tipificados no art. 33, caput, da n. Lei 11.343/2006, uma vez que foi apontado pelo córréu [NOME] como sendo o fornecedor das drogas apreendidas - 9 (nove porções) de cocaína, pesando 20g (vinte gramas) - e por terem sido localizadas em sua residência anotações do tráfico e aproximadamente R$ 50.000,00 (cinquenta mil reais) em dinheiro. A custódia foi convertida em preventiva.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual, que indeferiu o pedido liminar (e-STJ fls. 195/196).
+Daí o presente habeas corpus, em que postula a superação da Súmula n. 691/STF, uma vez que a segregação cautelar do paciente padece de fundamentação idônea, em razão da ausência de indícios de autoria e materialidade do delito de tráfico. Alega que "a prova da autoria e materialidade da acusação se consubstancia exclusivamente na versão isolada dos policiais militares, porquanto na residência do paciente nada de ilícito foi encontrado. Embora os policias militares afirmem que o co-réu Rogério teria apontado o paciente como partícipe no crime de tráfico, na verdade essa versão não foi confirmada no auto de prisão em flagrante. De outra banda, as anotações encontradas na residência do paciente, além de não possuírem características típicas de traficância, o paciente apresentou farta documentação contábil e bancária que comprovam a licitude daqueles manuscritos" (e-STJ fl. 6).
+Aduz, ainda, que não estão presentes os requisitos do art. 312 do Código de Processo Penal, uma vez que o "paciente é primário, de bons antecedentes, com ocupação lícita (possui empresa devidamente regularizada), defensor constituído e residência fixa" (e-STJ fl. 10).
+Requer, assim, em liminar e no mérito, a concessão de liberdade provisória e, alternativamente, a substituição da prisão preventiva decretada por medidas cautelares diversas da prisão, nos termos dos arts. 282, 321 e 319, do Código de Processo Penal.
+É, em síntese, o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar de forma mais detida a argumentação constante da impetração.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+A propósito, constou da decisão ora combatida a referência aos indícios de habitualidade da traficância, que, neste juízo perfuntório, autoriza a manutenção da segregação cautelar como forma de se assegurar a aplicação da lei penal.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
