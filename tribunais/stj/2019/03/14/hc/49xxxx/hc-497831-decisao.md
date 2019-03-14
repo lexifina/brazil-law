@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], que se encontra cumprindo pena em regime semiaberto no Centro de Progressão Penitenciária Ataliba Nogueira - Campinas/SP, em que se aponta como autoridade coatora a Juíza de Direito da 2ª Vara das Execuções Criminais da comarca de Campinas/SP e o Tribunal de Justiça de São Paulo.
+Alega-se excesso de prazo para a análise de pedido de livramento condicional protocolizado em 19/9/2018, o que vem causando indubitável constrangimento ilegal ao paciente.
+Menciona-se ter sido impetrado habeas corpus no Tribunal local, no sentido de obter o conhecimento da ordem e consequentemente fosse determinado a imediata apreciação do benefício e demais incidentes na execução criminal, mas que a autoridade coatora indeferiu de plano a ordem impetrada, fundamentando que; "remédio heroico que não é o instrumento adequado para acelerar o trâmite de processos nem apressar o julgamento de pedidos formulados perante o Juízo das execuções (fl. 5).
+Requer-se a concessão da medida liminar para cassar o acórdão proferido pela autoridade coatora e, consequentemente, determinar que a Juíza de primeira instância analise o pedido de livramento condicional declinado em favor do paciente (fl. 9).
+É o relatório.
+O presente writ deve ser indeferido liminarmente, pois os impetrantes não lograram instruir suficientemente o mandamus com cópia do inteiro teor do acórdão impugnado, sendo tal peça indispensável para se verificar a verossimilhança das alegações.
+O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ.
+Ilustrando esse entendimento: HC n. 366.968/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/11/2017; HC n. 355.905/PE, Ministro Felix Fischer, Quinta Turma, DJe 7/4/2017; HC n. 317.882/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 31/8/2015; e RHC n. 45.789/RJ, Ministro Newton Trisotto (Desembargador convocado do TJ/SC), Quinta Turma, DJe 30/9/2015).
+Por tais razões, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
