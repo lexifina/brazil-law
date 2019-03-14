@@ -1,0 +1,35 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. HOMICÍDIO E LESÃO CORPORAL CULPOSOS COMETIDOS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. VIOLAÇÃO DOS ARTS. 186, § 3º, DO CPC; E 5º, § 5º, DA LEI N. 1.060/1.950. PLEITO DE RECONHECIMENTO DE TEMPESTIVIDADE DO RECURSO DE APELAÇÃO. RECORRENTE ASSISTIDO POR NÚCLEO DE PRÁTICA JURÍDICA VINCULADO À UNIVERSIDADE ESTADUAL DE LONDRINA. ENTIDADE DE ASSISTÊNCIA ESTATAL QUE FAZ JUS A PRAZO EM DOBRO. PRECEDENTES. DETERMINADO O RETORNO DOS AUTOS PARA ANÁLISE DA APELAÇÃO DEFENSIVA.
+Recurso especial provido nos termos do dispositivo.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Paraná na Apelação Criminal n. 0029592-80.2010.8.16.0014, que não foi conhecida em face de aludida intempestividade (fls. 400/405).
+TRÂNSITO. HOMICÍDIO E LESÃO CORPORAL CULPOSOS COMETIDOS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. CONDENAÇÃO À PENA DE 03 (TRÊS) ANOS E 06 (SEIS) MESES DE DETENÇÃO, EM REGIME ABERTO E SUSPENSÃO DA HABILITAÇÃO PELO PRAZO DE TRÊS (3) ANOS E NOVE (9) MESES. RECURSO DA DEFESA. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE CINCO (5) DIAS. INTELIGÊNCIA DO ART. 798, § 5.º, "B", DO CPP. INTEMPESTIVIDADE. BENEFÍCIO DO PRAZO EM DOBRO QUE NÃO SE APLICA AOS DEFENSORES DATIVOS. RECURSO NÃO CONHECIDO.
+O recurso especial aponta a violação dos arts. 186, § 3º, do Código de Processo Civil e 5º, § 5º, da Lei n. 1.060/1.950.
+Aduz que o fato de que o Recorrente tenha constituído este Escritório de Aplicação de Assuntos Jurídicos da Universidade Estadual de Londrina como seu Patrono faz com que sua defesa goze de prazo em dobro conforme dispõe a lei federal.  ..  Assim, de forma cristalina o v. acórdão do Egrégio Tribunal de Justiça do Paraná, que não conheceu do recurso de apelação, fundamentando em sua intempestividade, merece ser reformado.  ..  Isto porque o recurso era tempestivo ao tempo de sua interposição e apresentação das razões recursais. Vejamos.  ..  A contagem do prazo recursal de cinco (5) dias, se iniciou no dia 17 de julho de 2017 (terça-feira) e findou-se apenas no dia 27 de julho de 2017 (segunda-feira), sendo que o recurso foi interposto no dia 26 de julho de 2017, portanto um dia antes do final do prazo concedido a esta defesa, isto porque o Escritório de Aplicação de Assuntos Jurídicos da Universidade Estadual de Londrina, devidamente constituído nos autos, e não defensor dativo conforme apontou o acórdão atacado, goza de prazo em dobro, conforme já explanado anteriormente.  ..  Deste modo, o citado acórdão deve ser reformado para que seja apreciado o mérito de suas razões. (fl. 436).
+Pede o conhecimento e provimento do recurso, para que seja reformado o combatido aresto, visando a análise do mérito da apelação defensiva.
+Oferecidas as contrarrazões (fls. 764/766), o recurso especial foi admitido na origem (fls. 771/772).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 785/787).
+RECURSO ESPECIAL PROCESSO PENAL. PRAZO EM DOBRO. NÚCLEO DE PRÁTICA JURÍDICA VINCULADO À UNIVERSIDADE PÚBLICA. PARECER PELO PROVIMENTO DO RECURSO.
+É o relatório.
+Extrai-se do combatido aresto o seguinte trecho (fls. 403/404 - grifo nosso):
+ ..
+Preliminarmente, a Procuradoria Geral de Justiça manifesta-se pelo não conhecimento do recurso, ante a intempestividade.
+Afirma que "o recurso de apelação foi interposto apenas no dia 26/07/2017, mais de dez meses após o transcurso do prazo para os defensores e cinco dias após o termo final do prazo do réu" (mov. 17.1).
+Pois bem, a sentença foi proferida em 19.08.2016 (mov. 8.1).
+Os defensores do réu foram intimados em 02.09.2016 (mov. 13), tendo sido certificado o decurso do prazo em 07.09.2016 (mov. 14).
+Consta certidão de intimação do réu em 17.07.2017 (mov. 40.2). A Defesa do acusado interpôs recurso em 26.07.2017, requerendo prazo em dobro (mov. 41.1), o que foi concedido pelo juízo a quo, ao fundamento que "o Escritório de Aplicação de Assuntos Jurídicos da Universidade Estadual de Londrina, instituição mantida pelo Estado, presta assistência jurídica a pessoas carentes, que não têm condições de constituir advogado particular, fazendo o papel que caberia à Defensoria Pública, entendo que o disposto no §5º, do artigo 5º, da Lei 1.060/1950, que prevê o prazo em dobro para a Defensoria Pública, é perfeitamente aplicável" (mov. 45.1).
+Em que pese a decisão da ilustre Magistrada, entendo assistir razão a d. Procuradora de Justiça, trata-se de recurso intempestivo.
+Com efeito, nos termos do que dispõe o art. 593, inc. I, do Código de Processo penal, das sentenças condenatórias é cabível a interposição de recurso de apelação, no prazo de cinco (5) dias, que tem como marco inicial a intimação do acusado e seu defensor (art. 798, § 5.º, "a", do CPP), fluindo o lapso temporal a partir da última que ocorrer.
+Na hipótese em exame, a contagem do prazo recursal de cinco (5) dias, se iniciou no dia 17 de julho de 2017 (terça-feira) e findou-se no dia 23 de julho de 2017 (segunda-feira).
+A petição de interposição recursal somente foi protocolada, via projudi, no dia 26 de julho de 2017, às 11:11 horas (mov. 41.1). Portanto, além do prazo recursal.
+Frise-se, que, em que pese a decisão da Magistrada a quo, os Defensores Dativos não possuem prazo em dobro, pois é pacífico o entendimento que não têm esta prerrogativa, em razão de não integrarem o quadro estatal de assistência judiciária.
+ ..
+Razão assiste ao recorrente.
+Com efeito, o Superior Tribunal de Justiça, no julgamento do EDcl no AgRg no AREsp n.º 72.095/RS, Rel. Ministro OG FERNANDES, adotou o entendimento de que "o advogado para ter direito ao prazo em dobro conferido aos Defensores Públicos e previsto no art. 5.º, § 5.º, da Lei n.º 1.060/50, deve integrar serviço de assistência judiciária organizado e mantido pelo Estado, como aqueles prestados pelas entidades públicas de ensino superior" (DJe 18/12/2012) - (RMS n. 58.450/MG, Ministra Laurita Vaz, Sexta Turma, DJe 22/10/2018 - grifo nosso).
+A corroborar:
+PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. ASSISTÊNCIA JUDICIÁRIA. NÚCLEO DE PRÁTICA JURÍDICA. UNIVERSIDADE PÚBLICA. PRAZO EM DOBRO.
+1. Segundo a jurisprudência desta Corte, interpretando art. 5º, § 5º, da Lei nº 1.060/50, para ter direito ao prazo em dobro, o advogado da parte deve integrar serviço de assistência judiciária organizado e mantido pelo Estado, o que é a hipótese dos autos, tendo em vista que os recorrentes estão representados por membro de núcleo de prática jurídica de entidade pública de ensino superior.
+2. Recurso especial provido para que seja garantido à entidade patrocinadora da presente causa o benefício do prazo em dobro previsto no art. 5º, §5º, da Lei 1.060/50.
+(REsp n. 1.106.213/SP, Ministra Nancy Andrighi, Terceira Turma, DJe 7/11/2011 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer a tempestividade do recurso de apelação de fls. 330/332, determinando, por conseguinte, o retorno dos autos à origem para análise das teses defensivas contidas na referida insurgência.
+Publique-se.
