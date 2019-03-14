@@ -1,0 +1,11 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MILITAR REFORMADO. PRETENSÃO DE SOLDO DO POSTO HIERÁRQUICO SUPERIOR. IMPOSSIBILIDADE ASSENTADA PELA CORTE DE ORIGEM EM RAZÃO DA NATUREZA DA ENFERMIDADE E EM APRECIAÇÃO DO ACERVO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO DESSA CONCLUSÃO POR ESTA CORTE. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DO PARTICULAR REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos por NELUSO FERNANDES NOGUEIRA DA SILVA contra decisão assim ementada:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MILITAR REFORMADO. PRETENSÃO DE SOLDO DO POSTO HIERÁRQUICO SUPERIOR. IMPOSSIBILIDADE ASSENTADA PELA CORTE DE ORIGEM EM RAZÃO DA NATUREZA DA ENFERMIDADE E EM APRECIAÇÃO DO ACERVO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO DESSA CONCLUSÃO POR ESTA CORTE. AGRAVO EM RECURSO ESPECIAL DO MILITAR A QUE SE NEGA PROVIMENTO.
+2. Afirma a parte embargante, em suma, que a sua condição de companheira já foi reconhecida por decisão judicial, sendo desnecessária a apreciação das provas dos autos. De outro lado, defende o direito à reforma do Militar com base na remuneração do soldo hierarquicamente superior.
+3. É o relatório.
+4. Os Embargos não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do Código Fux, uma vez que decidiu toda a questão posta em debate com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+5. Ressalte-se que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido, conforme pretende a parte embargante nesta oportunidade, pois visa unicamente a majoração da verba honorária.
+6. No caso, restou demonstrada, fundamentadamente, as razões pelas quais a alteração do entendimento proferido pela Corte de origem atrai a incidência da Súmula 7/STJ.
+7. Pelo exposto, rejeitam-se os Embargos Declaratórios do PARTICULAR.
+8. Publique-se. Intimações necessárias.
