@@ -1,0 +1,57 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 2. INTERESSE DE AGIR. EXIBIÇÃO INCIDENTAL DE DOCUMENTO. SÚMULA 389/STJ. APLICABILIDADE. PRECEDENTES. 3. VALOR PATRIMONIAL DA AÇÃO. BALANCETE DO MÊS DA INTEGRALIZAÇÃO. SÚMULA 371/STJ. INCLUSÃO DO GRUPAMENTO DE AÇÕES NO CÁLCULO DO VPA. RESP 1.387.249/SC. 4. PEDIDO DE COMPLEMENTAÇÃO DE AÇÕES. PROCEDÊNCIA. MATÉRIA ADSTRITA À LEGITIMIDADE PASSIVA DA COMPANHIA TELEFÔNICA. BRASIL TELECOM. SUCESSORA. TELEPAR. PRECEDENTES. 5. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A., com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 455-456):
+APELAÇÕES CÍVEIS - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - SENTENÇA DE PROCEDÊNCIA.
+APELAÇÃO 1: AUSÊNCIA DE INTERESSE RECURSAL QUANTO AO CÁLCULO DA QUANTIDADE DAS AÇÕES NO CASO DE INTEGRALÇIZ.AÇÃO PARCELADA - NÃO CONHECIMENTO PRETENDIDA INDENIZAÇÃO PELOS JUROS SOBRE CAPITAL PRÓPRIO E BONIFICAÇÕES - CABIMENTO - DECORRÊNCIA LÓGICA DO DIREITO À SUBSCRIÇÃO :DAS AÇÕES - PLEITO DE UTILIZAÇÃO DA MAIOR COTAÇÃO ATÉ A ATUALIDADE PARA O CÁLCULO DE INDENIZAÇÃO DAS AÇÕES - IMPOSSIBILIDADE - RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+APELAÇÃO 2: INTERESSE DE AGIR - DESNECESSIDADE DE ESGOTAMENTO DA VIA ADMINISTRATIVA - PRESCRIÇÃO - IMPOSSIBILIDADE DE VERIFICAÇÃO - AUSÊNCIA DE INFORMAÇÃO QUANTO À DATA DA CAPITALIZAÇÃO - EMISSÃO DE AÇÕES REALIZADA EM MOMENTO DIVERSO AO DA INTEGRALIZAÇÃO, DE MODO LESIVO AO CONSUMIDOR - DIREITO AO RECEBIMENTO DE DIFERENÇAS - MATÉRIA JÁ PACIFICADA NO SUPERIOR TRIBUNAL DE JUSTIÇA - CÁLCULO PARA VERIFICAÇÃO DA QUANTIDADE DAS AÇÕES - APLICAÇÃO DA SÚMULA 371, DO SUPERIOR TRIBUNAL DE JUSTIÇA - - JUROS DE MORA - TERMO INICIAL - CITAÇÃO - GRUPAMENTO DE AÇÕES QUE NÃO OBSTA O RECEBIMENTO DA INDENIZAÇÃO - APELO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a recorrente alega a existência de divergência jurisprudencial e de violação aos arts. 267, VI, e 535, II, do Código de Processo Civil de 1973; 100, § 1º, 170, §§ 1º e 3º, e 223, § 2º, da Lei n. 6.404/1976; e 884 e 886 do Código Civil.
+Sustenta, em síntese, a negativa de prestação jurisdicional por parte do Tribunal, havendo omissão quanto à aplicabilidade do art. 100, § 1º, Lei n. 6.404/1976.
+Discorre sobre a necessidade de se observar as operações de grupamento de ações no cálculo da indenização eventualmente devida, sob pena de enriquecimento sem causa da recorrida.
+Defende a falta de interesse de agir da autora, em relação ao pedido de exibição de documentação, tendo em vista a ausência de prévio requerimento administrativo solicitando os documentos, com o respectivo comprovante de pagamento da taxa do serviço, consoante estabelece a Súmula 389 do STJ.
+Não foram apresentadas contrarrazões (e-STJ, fl. 577).
+Admitido o processamento do recurso especial na origem, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+De início, depreende-se dos autos que o recurso especial foi interposto contra decisão publicada quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto (Enunciado Administrativo n. 2 do STJ).
+Consoante análise dos autos, a alegação de violação ao art. 535 do CPC/1973 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+Relativamente à ausência de interesse de agir, convém registrar que a jurisprudência desta Casa dispõe que, "embora tenha editado a Súmula 389 ("a comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima"), o Superior Tribunal de Justiça, em reiterados julgados, assentou que a orientação supra não se restringe à ação cautelar de exibição de documentos, aplicando-se também aos pedidos de apresentação de dados formulados incidentalmente em demandas que objetivam o adimplemento contratual" (AgRg na MC 20.827/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2014, DJe 8/9/2014).
+No mesmo sentido, os julgados recentes desta Corte Superior:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE INADIMPLEMENTO CONTRATUAL. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. SÚMULA 389/STJ. APLICAÇÃO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, aplicáveis os termos e exigências da Súmula 389/STJ às ações ordinárias de adimplemento contratual com pedido incidental de exibição de documentos.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1534368/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2018, DJe 23/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. CUSTO DO SERVIÇO. AUSÊNCIA DE PAGAMENTO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a jurisprudência de ambas as Turmas integrantes da Segunda Seção no sentido de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+3. O deferimento do benefício da justiça gratuita não possui efeito retroativo.
+4. Agravo interno não provido.
+(AgInt no AREsp 1271960/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018)
+Outrossim, segundo o entendimento firmado pela Segunda Seção do STJ, em julgamento de recurso repetitivo, o quantitativo de ações relativo à companhia sucessora será calculado levando-se em conta o número de ações apurado com base no balancete mensal (Súmula n. 371/STJ), multiplicado por um fator de conversão, o qual engloba o grupamento de ações (REsp n. 1.387.249/SC, Relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 26/2/2014, DJe 10/3/2014).
+O julgado recebeu a seguinte ementa:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PROCESSUAL CIVIL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA.
+1. Para fins do art. 543-C do CPC: O cumprimento de sentença condenatória de complementação de ações dispensa, em regra, a fase de liquidação de sentença.
+2. Aplicação da tese ao caso concreto.
+3. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.387.249/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe 10/3/2014).
+Extrai-se do referido acórdão o seguinte excerto:
+"Então, o número de ações obtido deve ser multiplicado por um fator de conversão, para que se encontre o equivalente de ações na companhia sucessora, hoje existente. Esse fator de conversão (Fc) deve englobar os agrupamentos acionários eventualmente ocorridos. Por exemplo, se cada grupo de 1.000 ações da companhia X foram agrupadas em uma ação da companhia Y, a variável "Fc" deve englobar essa operação acionária." (Sem grifo no original).
+O Tribunal de origem consignou o seguinte (e-STJ, fl. 473):
+Finalmente, a alegação da 01 S/A de que o grupamento de ações seria fator intransponível para o pretendido pagamento das diferenças devidas, porquanto resultaria em enriquecimento ilícito, não pode obstar a pretensão da parte autora.
+Isso porque, a despeito da deliberação levada a efeito pela Assembleia Geral, há que se preservar a situação jurídica antes entabulada entre as partes, não podendo o acionista sofrer alterações na participação patrimonial decorrente do grupamento, pois aí sim restaria evidente o seu prejuízo.
+Dessa forma, verifica-se que o acórdão recorrido, quanto a essa questão, julgou em desconformidade com a jurisprudência desta Corte, impondo-se, assim, a sua reforma.
+Por derradeiro, no tocante à afirmativa de improcedência do pedido de complementação das ações, verifica-se que tal questão está intrinsecamente ligada à legitimidade passiva da companhia telefônica, ora insurgente, para responder pela dobra acionária.
+Nesse ponto, constata-se que o acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte Superior, no sentido de que a Brasil Telecom (atual Oi S.A.) sucedeu, por incorporação, a Telepar - Telecomunicações do Paraná, cabendo-lhe responder pelas ações não subscritas pela empresa incorporada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEGITIMIDADE ATIVA DO CESSIONÁRIO. CONTRATO EM QUE CONSTA A TRANSFERÊNCIA DOS DIREITOS. LEGITIMIDADE PASSIVA DA BRASIL TELECOM. SUCESSORA POR INCORPORAÇÃO DA TELEPAR. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. PRECEDENTES.
+1. A Corte de origem, analisando o contrato de cessão entre as partes, que constou do referido ajuste a cessão de todos os direitos e obrigações contratuais ao cessionário. Dessa forma, o cessionário possui legitimidade ativa para o presente pleito de complementação acionária.
+2. A Brasil Telecom S/A possui legitimidade passiva para responder pela complementação acionária de contrato de participação financeira decorrente da aquisição de linha telefônica, tendo em vista ser a sucessora, por incorporação, da Telepar.
+3. A Segunda Seção desta Corte Superior ao julgar o REsp 1.025.298/RS, de relatoria do Ministro Massami Uyeda, consagrou o entendimento no sentido de que na impossibilidade de subscrição das ações sua indenização deve se dar com base no valor da cotação na bolsa de valores na data do trânsito em julgado da demanda, incidindo sobre o montante aferido, a partir de então, correção monetária, bem como juros legais desde a citação.
+4. Agravo regimental não provido.
+(AgRg no Ag n. 1.390.714/PR, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/4/2013).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC. INEXISTÊNCIA. LEGITIMIDADE ATIVA DO CEDENTE PARA SUBSCRIÇÃO DE AÇÕES. ENUNCIADO N. 83/STJ. SUBSTITUIÇÃO DA TELEPAR. LEGITIMIDADE PASSIVA DA BRASIL TELECOM.
+1. Inexiste violação ao art. 535 do CPC quando o Tribunal de origem manifesta-se de forma clara e suficiente acerca da matéria que lhe é submetida a apreciação, sendo desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+2. Legitimidade ativa do cedente da linha telefônica para ações de subscrição de ação, e não o cessionário. Precedentes.
+3. Legitimidade passiva da Brasil Telecom S/A para responder pela complementação acionária de contrato de participação financeira decorrente da aquisição de linha telefônica, tendo em vista ser a sucessora, por incorporação, da Telepar.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg nos EDcl nos EDcl no AREsp n. 11.778/PR, Relator o Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 10/9/2012).
+Ante o exposto, dou parcial provimento ao recurso especial a fim de julgar improcedente o pedido de exibição de documentos, bem como determinar que, na apuração do valor patrimonial da ação, sejam observadas as operações de grupamento acionário.
+Publique-se.
