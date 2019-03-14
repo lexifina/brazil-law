@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1872, de 12 de março de 2019
+Altera a Instrução Normativa RFB nº 1.751, de 16 de outubro de 2017, que dispõe sobre a permissão de acesso do contribuinte aos serviços disponíveis no Atendimento Virtual (e-CAC) da Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 9º da Instrução Normativa RFB nº 1.782 e no art. 2º da Instrução Normativa nº 1.783, ambas de 11 de janeiro de 2018, resolve:
