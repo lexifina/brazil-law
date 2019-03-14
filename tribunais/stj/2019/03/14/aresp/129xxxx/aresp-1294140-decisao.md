@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. SUSPENSÃO. DISCUSSÃO ACERCA DA PRESENÇA DOS REQUISITOS. NOVO EXAME DO ACERVO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. PROVIDÊNCIA VEDADA EM RECURSO ESPECIAL. AGRAVO EM RECURSO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por A INFANTIL LOURDES ROUPAS E CALCADOS LTDA. - ME, com fundamento no art. 105, III, alíneas a e c da Constituição da República, contra acórdão proferido pelo egrégio TJ/MG, assim ementado:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - EFEITO SUSPENSIVO - ART. 919, § 1o. DO CPC/2015 - REQUISITOS NÃO PREENCHIDOS.
+1. O artigo 919 do Novo Código de Processo Civil dispõe que os embargos à execução, em regra, não terão efeito suspensivo.
+2. É possível a concessão do efeito suspensivo nos casos em que estiverem demonstrados os requisitos necessários para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes, nos termos do §1o. do art. 919 do CPC/2015 (fls. 875/884).
+2. Não foram interpostos Embargos de Declaração.
+3. Nas razões do seu Apelo Nobre inadmitido, a parte recorrente aponta violação do art. 739, § 1o. do CPC/1973; 919, § 1o. do Código Fux, sustentando, em síntese, que estão presentes os requisitos necessários para a concessão do efeito suspensivo aos Embargos de Execução e que a continuidade da execução trará prejuízos irreparáveis.
+4. Sem contrarrazões (fls. 923/930), o Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 933/934).
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. No mais, verifica-se que, embora a parte recorrente afirme que estão presentes o requisitos necessários para suspender os Embargos de Execução, o Tribunal Regional, ao decidir a controvérsia, consignou que não é plausível suspender a execução embargada, uma vez que não estão presentes os requisitos necessários para sua concessão (fls. 883).
+8. Dessa forma, a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO. UTILIZAÇÃO DE OUTROS MEIOS. POSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. A Primeira Seção do STJ, no rito do art. 543-C do CPC, decidiu que, tratando-se de fornecimento de medicamentos, cabe ao Juiz adotar medidas eficazes à efetivação de suas decisões, podendo, se necessário, determinar até mesmo, o sequestro de valores do devedor (bloqueio), segundo o seu prudente arbítrio, e sempre com adequada fundamentação (REsp 1.069.810/RS, Relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe de 06.11.2013).
+2. A escolha da medida coercitiva decorreu da análise das circunstâncias fáticas delineadas nos autos. A alteração das conclusões adotadas pela Corte de origem, segundo a pretensão das razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice contido na Súmula 7/STJ.
+3. Agravo regimental desprovido (AgRg no AREsp. 700.330/RJ, Rel. Min. OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), DJe 2.3.2016).
+
+PROCESSUAL CIVIL. DIREITOS INDÍGENAS. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. IMPOSIÇÃO DE MULTA DIÁRIA CONTRA A FAZENDA PÚBLICA POR DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. NECESSIDADE DA MEDIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Hipótese em que o Tribunal de origem, com base nas circunstâncias fáticas e probatórias da causa, concluiu pela necessidade da fixação de astreintes, tendo em vista a "falta de razoabilidade" em exigir-se o efetivo cumprimento do determinado no título executivo judicial, além de que as alegações das recorrentes consistem em "mera renovações de pedidos, com base em justificativas já apresentadas e reiteradas".
+3. Desse modo, rever o entendimento consignado pela Corte local requer revolvimento do conjunto fático-probatório. Incidência da Súmula 7/STJ.
+4. Ademais, o acórdão recorrido está em consonância com o atual entendimento do STJ, no sentido da possibilidade de imposição de multa diária contra a Fazenda Pública por descumprimento de obrigação de fazer. Aplicação da Súmula 83/STJ.
+5. Recurso Especial parcialmente conhecido, e nessa parte, não provido (REsp. 1.526.806/PE, Rel. Min. HERMAN BENJAMIN, DJe 5.8.2015).
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial de A INFANTIL LOURDES ROUPAS E CALCADOS LTDA.- ME.
+10. Publique-se. Intimações necessárias.
