@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que os réus foram denunciados pela prática dos delitos tipificados nos arts. 157, § 2º, I, II, IV e V, do Código Penal e 288, § único, (roubo majorado e associação criminosa), e o primeiro agravante também denunciado pelo crime previsto no art. 12 da Lei n. 10.826/2003 (posse irregular de arma de fogo de uso permitido). O Juízo de primeiro grau absolveu os réus da segunda imputação (associação criminosa) e condenou ambos às penas de 6 anos de reclusão, em regime fechado, e 20 dias-multa, além de pena de 1 ano de detenção, em regime aberto, e pagamento de 10 dias-multa para o primeiro réu, conforme a sentença às fls. 371-384.
+Irresignados, a defesa e a acusação apelaram da sentença. O Tribunal de origem negou provimento aos recursos, nos termos do acórdão assim ementado, no que interessa:
+APELAÇÃO CRIMINAL - RECURSO DA DEFESA - ROUBO MAJORADO - REDUÇÃO DA PENA - INVIABILIDADE - REGIME PRISIONAL FECHADO ADEQUADO AO CASO CONCRETO - ART. 33 DO CÓDIGO PENAL - RESTITUIÇÃO DE BENS - INADMISSIBILIDADE - ISENÇÃO DAS CUSTAS PROCESSUAIS - NÃO CONCESSÃO - NÃO PROVIMENTO, COM O PARECER.
+Apontando o juiz motivadamente elementos concretos aptos a fundamentar a valoração negativa de circunstância judicial, bem como exasperando adequadamente a reprimenda na primeira e segunda fases da dosimetria, à luz do que dispõem o art. 59 do CP e art. 93, IX, da CF, além de bem observar a disposição da Súmula 231 do STJ, não prospera o pedido recursal de redução da pena. A individualização da pena, como atividade discricionária vinculada do julgador, será revista apenas nas hipóteses de manifesta ilegalidade ou arbitrariedade, quando não observados os parâmetros de razoabilidade e proporcionalidade.
+A gravidade do delito - roubo triplamente majorado pelo concurso de pessoas, emprego de arma de fogo e restrição de liberdade da vítima - a presença de circunstância judicial desfavorável e a pena definitiva aplicada, em 6 anos de reclusão, impõem a manutenção do regime prisional fechado, em observância aos parâmetros estabelecidos no art. 33 da Lei Penal.
+Não havendo comprovação da origem lícita e real propriedade do bens apreendidos, inviável o pedido de restituição.
+O pedido de justiça gratuita não pode ser deferido, já que não houve mínima comprovação de que os recorrentes não possuem condições de arcar com as custas do processo, além disso têm profissão definida e não foram atendidos pela Defensoria Pública, mas por advogado particular durante todo o trâmite processual  ..  (fls. 589/590).
+.
+Na sequência, a defesa interpôs recurso especial, no qual alega violação do art. 33, § 2º, "b", do Código Penal.
+Sustenta, em síntese, que "a suposta gravidade do crime se encontra inerente ao tipo penal imputado aos recorrentes, não podendo assim justificar a imposição de regime mais gravoso do que determina a lei" (fl. 617).
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência da Súmula n. 83/STJ.
+Contraminuta às fls. 660-666. O Ministério Público Federal opina pelo desprovimento do agravo (fls. 674-675).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Correta a fixação do inicial fechado, diante da existência de circunstância judicial desfavorável, a teor dos artigos 33, §§ 2º e 3º, e 59 do Código Penal e em consonância com a orientação jurisprudencial desta Corte. A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGIME PRISIONAL. PENA SUPERIOR A QUATRO E INFERIOR A OITO ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO FECHADO. AGRAVO NÃO PROVIDO.
+1. Estabelecida a pena definitiva em 4 anos, 10 meses e 10 dias de reclusão e sendo desfavoráveis as circunstâncias judiciais (558 g de cocaína), o regime inicial fechado é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, §§ 2º e 3º, do Código Penal. Precedentes.
+2. Agravo regimental não provido (AgRg no REsp 1.525.593/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 05/03/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. AGÊNCIA DA CEF. DOSIMETRIA DA PENA. REGIME PRISIONAL. PENA-BASE ACIMA DO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Devidamente justificado o aumento da pena-base, no caso concreto, calcado nas circunstâncias do delito e na culpabilidade do agente, reveladas pela premeditação e organização da empreitada criminosa, no número de agentes (quatro) e de armas e na restrição à liberdade das vítimas, não há falar em ofensa ao art. 59 do Código Penal.
+2. Nos termos da jurisprudência desta Corte e do Supremo Tribunal Federal é possível a fixação de regime prisional mais gravoso do que a pena estabelecida permitir, quando presentes circunstâncias judiciais desfavoráveis (arts. 59 c/c o art. 33, §§ 2º e 3º do CP).
+3. Agravo Regimental desprovido. (AgRg no REsp 1.588.766/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 1º.6.2016).
+Diante do exposto, com fundamento na Súmula n. 568 do STJ, nego provimento ao recurso.
+Publique-se. Intimem-se.
