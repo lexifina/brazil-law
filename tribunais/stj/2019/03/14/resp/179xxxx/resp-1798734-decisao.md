@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA AO ART. 927 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE PARA, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT em face de decisão proferida pelo Tribunal Regional Federal da 1ª Região que inadmitiu recurso especial manejado contra acórdão assim ementado:
+ACIDENTE EM ESTRADA FEDERAL. RESPONSABILIDADE CIVIL DA ADMINISTRAÇÃO PÚBLICA. ATO OMISSIVO. NEXO DE CAUSALIDADE. DANOS MORAIS. LUCROS CESSANTES. SENTENÇA CONFIRMADA.
+1. Hipótese na qual os elementos dos autos comprovam que o acidente automobilístico ocorreu em rodovia sob responsabilidade do Departamento Nacional de Infraestrutura de Transportes e em decorrência da má sinalização e da negligência daquela autarquia, dai por que o pagamento da pretendida indenização por danos morais e lucros cessantes é medida que se impõe.
+2. Apelação e remessa oficial conhecidas e não providas.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea "a" do permissivo constitucional, a recorrente aponta violação aos seguintes dispositivos legais: a) art. 1.022 do CPC/2015, no "intuito de provocar a manifestação do órgão judicante sobre a aplicação da súmula 246 desta Corte (dedução do seguro DPVAT) e consequentemente, do art. 927 do CPC, que determina que os Tribunais e Juizes devem observar os enunciados das súmulas do Superior Tribunal de Justiça em matéria infraconstitucional"; b) sustentando que o Tribunal de origem deixou de observar o conteúdo da Súmula 246/STJ, contrariando assim, o art. 927 do CPC/2015.
+Contrarrazões apresentadas. (e-STJ, fls. 257/265)
+Decisão de admissibilidade do recurso especial devolvendo a essa Corte Superior somente os temas não afeitos à discussão sobre a aplicação do art. 1º F da Lei 9.464/1997.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+É o relatório. Decido.
+É necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Conforme relatado, a parte ora Recorrente aduz que houve ofensa ao art. 1022, do novo Código de Processo Civil, por entender que houve omissão pelo acórdão "a quo" quanto a pontos relevantes da discussão.
+Cumpre asseverar que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Outrossim, na linha da jurisprudência desta Corte, se os fundamentos do acórdão se mostram insuficientes ou incorretos na opinião da recorrente, não quer dizer que eles não existam. Não se pode confundir vício na fundamentação com juízo diverso do esperado pela parte, motivo pelo qual não resta caracterizada ofensa ao art. 1.022 do CPC/2015. Citam-se julgados desta Corte na mesma linha de consideração:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+AGRAVO INTERNO. RECURSO ESPECIAL. OFENSA AO ART. 489, § 1º, V, DONOVO CPC/15. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO DEMONSTRADA (..)
+(..) III. Não há que se falar em nulidade da decisão ora agravada, por afronta ao art. 489 do CPC/2015, "quando o julgador decidiu de forma fundamentada, identificando de forma clara e objetiva as teses adotadas, e ainda amparado em precedentes que se ajustam ao caso concreto" (STJ, AgInt no REsp 1.624.685/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 16/12/2016). (AgInt no AREsp 1105862/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+No que tange a suposta violação ao art. 927 do CPC/2015, observa-se que no caso examinado, não houve apreciação pelo Tribunal de origem acerca da indicada violação. Logo, fica impossibilitado o julgamento do recurso quanto ao ponto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 211/STJ, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+Nesse sentido, o seguinte precedente deste Tribunal Superior:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. LICITAÇÃO. ART. 31, § 5º, DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA. REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada no art. 31, § 5º, da Lei 8.666/93, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 469.244/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/03/2015, DJe 26/03/2015)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
