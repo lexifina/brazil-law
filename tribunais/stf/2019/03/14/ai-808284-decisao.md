@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO – DESPROVIMENTO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Proclamou-se:
+    COMINATÓRIA. Jundiaí. Construção da marginal norte e sul da Rodovia Anhanguera. Canalização do Córrego Guapeva. Aumento de vazão das águas pluviais. Prejuízos causados à propriedade dos autores. - 1. Denunciação da lide. O processo, por uma falha de tramitação acabou não sendo saneado e não foi apreciada a denunciação da lide; mas o ingresso na fase de instrução e a realização da perícia por dois anos, sem reclamação da ré, deixam implícita a rejeição da denunciação e sua anuência tácita com isso. Inviabilidade de reconhecer nulidade a que a ré também deu causa e que não foi alegada na primeira oportunidade. Aplicação do art. 243 e 245 do CPC. - 2. Agravo retido. Perícia. O laudo não se desqualifica por ter chegado a conclusão diferente da defendida pela parte. É bem fundamentado e os elementos que a ré entende faltar estão em seu poder, podendo ser trazidos por seu assistente técnico. Fatos suficientemente esclarecidos. Agravo rejeitado. - 3. Despejo de águas. O dono do prédio inferior ê obrigado a receber as águas que correm naturalmente do superior. Se o dono deste fizer obras de arte, para facilitar o escoamento, procederá de modo que não piore a condição natural e anterior do outro (Código Civil, art. 1.288). Obrigação do dono do prédio superior de reparar o dano causado e de fazer as obras necessárias à sua eliminação ou minoração. - Procedência. Recurso da ré provido em parte. Agravo retido rejeitado. 1
+    2. Ante o quadro, conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 14 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
