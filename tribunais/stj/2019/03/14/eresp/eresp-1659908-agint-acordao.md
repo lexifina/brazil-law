@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO 3/STJ. ACIDENTE DO TRABALHO. DISACUSIA. REDUÇÃO DA CAPACIDADE LABORATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA QUANTO À REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES DA CORTE ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão a ser revisitada diz respeito ao cabimento de embargos de divergência para aferição de regra técnica de conhecimento do recurso especial, no caso, a Súmula 7/STJ.
+2. Sustenta-se divergência entre o acórdão embargado, proferido pela Primeira Turma do STJ e o Recurso Especial 1.095.523/SP, proferido pela Terceira Seção, ambos envolvendo a comprovação da perda da capacidade auditiva, para fins de concessão de auxílio-acidente. O acórdão embargado aplicou a Súmula 7/STJ; o acórdão paradigma valorou a prova e não aplicou a Súmula 7/STJ.
+3. A jurisprudência do STJ é no sentido de que, acórdãos que aplicam regra técnica de conhecimento de recurso especial, como a Súmula 7/STJ, não se prestam a cotejo para efeito de embargos de divergência. Precedente ilustrativo: AgInt nos EDcl nos EREsp 1.418.825/RS, Corte Especial, Relator Ministro Jorge Mussi, DJe 9/11/2018.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: A Corte Especial, por unanimidade, negou provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Raul Araújo, Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES(Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão de minha lavra, que indeferiu liminarmente os embargos de divergência, assim ementada:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO 3/STJ. ACIDENTE DO TRABALHO. DISACUSIA. REDUÇÃO DA CAPACIDADE LABORATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA QUANTO À REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO. INADEQUAÇÃO DA VIA ELEITA. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE.
+Em suas razões de agravo interno, sustenta o agravante a reconsideração da decisão, alegando para tanto que há sim divergência quanto à aplicabilidade da Súmula 7/STJ no tocante à incapacidade laboral por perda auditiva de acordo com a Tabela de Fowler. Assim, entende que o acórdão embargado divergiu do Recurso Especial 1.095.523/SP. Acrescenta que, consoante Regimento Interno do STJ, a divergência que autoriza a interposição de embargos de divergência pode estar voltada para o direito processual.
+O prazo para o Instituto Nacional do Seguro Social apresentar impugnação ao presente recurso decorreu in albis.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO 3/STJ. ACIDENTE DO TRABALHO. DISACUSIA. REDUÇÃO DA CAPACIDADE LABORATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA QUANTO À REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES DA CORTE ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão a ser revisitada diz respeito ao cabimento de embargos de divergência para aferição de regra técnica de conhecimento do recurso especial, no caso, a Súmula 7/STJ.
+2. Sustenta-se divergência entre o acórdão embargado, proferido pela Primeira Turma do STJ e o Recurso Especial 1.095.523/SP, proferido pela Terceira Seção, ambos envolvendo a comprovação da perda da capacidade auditiva, para fins de concessão de auxílio-acidente. O acórdão embargado aplicou a Súmula 7/STJ; o acórdão paradigma valorou a prova e não aplicou a Súmula 7/STJ.
+3. A jurisprudência do STJ é no sentido de que, acórdãos que aplicam regra técnica de conhecimento de recurso especial, como a Súmula 7/STJ, não se prestam a cotejo para efeito de embargos de divergência. Precedente ilustrativo: AgInt nos EDcl nos EREsp 1.418.825/RS, Corte Especial, Relator Ministro Jorge Mussi, DJe 9/11/2018.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES(Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ, que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A questão a ser revisitada diz respeito ao cabimento de embargos de divergência para aferição de regra técnica de conhecimento do recurso especial, no caso, a Súmula 7/STJ.
+O embargante, ora agravante, sustenta divergência entre o acórdão embargado, proferido pela Primeira Turma do STJ e o Recurso Especial 1.095.523/SP, proferido pela Terceira Seção, ambos envolvendo a comprovação da perda da capacidade auditiva, para fins de concessão de auxílio-acidente.
+O acórdão embargado, com efeito, aplicou a Súmula 7/STJ. O acórdão paradigma, por sua vez, valorou a prova e não aplicou a Súmula 7/STJ.
+Ainda que sejam cabíveis embargos de divergência quanto ao direito processual, a jurisprudência do STJ se mantém no entendimento de que, acórdãos que aplicam regra técnica de conhecimento de recurso especial não se prestam a cotejo para efeito de embargos de divergência.
+Confira-se também:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. COMPROVAÇÃO OU CONFIGURAÇÃO DO DISSENSO PRETORIANO. INEXISTÊNCIA DE SIMILITUDE FÁTICA E DE IDENTIDADE JURÍDICA ENTRE OS ARESTOS CONFRONTADOS. DESCUMPRIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 1.043, § 4º, DO CPC/2015 E NO ARTIGO 266, § 4º, DO RISTJ. ANÁLISE RESTRITIVA E NÃO AMPLIATIVA NO CABIMENTO DO ERESP. INEXISTÊNCIA DE AFRONTA AO ARTIGO 489, INCISOS III E IV, DO CPC/2015. RECURSO IMPROVIDO.
+1. Para a configuração do dissídio jurisprudencial é imprescindível a demonstração da similitude fática e da identidade jurídica entre os arestos confrontados, conforme a pacífica orientação desta Corte Superior, a partir da interpretação do § 4º do artigo 1.043 do CPC/2015 e do § 4º do artigo 266 do Regimento Interno.
+2. O acórdão impugnado nos embargos de divergência, proferido pela Terceira Turma deste Superior Tribunal de Justiça, partiu da premissa fática estabelecida pelas instâncias ordinárias quanto à ocorrência da sucumbência recíproca  causada pela parcial procedência do pedido formulado em cautelar de exibição de documentos  para confirmar a possibilidade da compensação dos honorários, nos termos da Súmula n. 306/STJ.
+3. Já nos paradigmas apontados no recurso uniformizador houve a procedência total da ação cautelar de exibição de documentos, ajuizada em razão da recusa do fornecimento de cópias dos documentos solicitados, impondo-se a condenação da parte vencida ao pagamento dos ônus de sucumbência, tendo em vista a aplicação do princípio da causalidade.
+4. Inexistência de similitude fática e de identidade jurídica entre os acórdãos confrontados, requisitos imprescindíveis para a configuração do alegado dissenso pretoriano.
+5. Ademais, conforme jurisprudência deste Superior Tribunal de Justiça, a análise da similitude fática e da identidade jurídica entre o acórdão embargado e o julgado paradigma, nos embargos de divergência, deve ser restritiva e não ampliativa.
+6. A tese defendida pela agravante não se coaduna com a finalidade do recurso uniformizador, o qual não serve de via revisora da admissibilidade efetuada pela Terceira Turma no caso concreto, onde foi, inclusive, aplicada a Súmula n. 7/STJ. 7. Inexiste ofensa ao artigo 489, § 1º, incisos III e IV, do CPC/2015, porque devidamente fundamentada a decisão agravada, com amparo na legislação aplicável e na jurisprudência da Corte Especial.
+8. Agravo interno improvido.
+(AgInt nos EDcl nos EREsp 1.418.825/RS, Corte Especial, Relator Ministro Jorge Mussi, DJe 9/11/2018)
+Ante o exposto, nego provimento ao agravo interno.
