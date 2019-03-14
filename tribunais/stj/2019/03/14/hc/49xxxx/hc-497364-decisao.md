@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] no qual se aponta como autoridade coatora o Tribunal Regional Federal da 1ª Região (HC n. 1002902-74.2019.4.01.0000).
+Depreende-se dos autos que a paciente foi denunciada pela suposta prática das condutas descritas no art. 155, § 4º, inciso II, bem como no art. 308, ambos do Código Penal.
+Citada por edital, foram suspensos o processo e o prazo prescricional, na forma do art. 366 do Código de Processo Penal.
+Ao tomar conhecimento da ação penal, a acusada constituiu advogado e apresentou resposta à acusação.
+No dia 23 de agosto de 2018, foi ouvida a vítima, porém não compareceu para depoimento a testemunha [NOME].
+O Ministério Público Federal insistiu na oitiva da mencionada testemunha, porquanto essencial ao esclarecimentos dos fatos, indicando novo endereço, não se obtendo êxito, porém, na localização de [NOME].
+Nesse contexto, determinou o Magistrado singular a remessa dos autos ao Ministério Público Federal para a apresentação de alegações finais.
+Contra essa decisão insurgiu-se a defesa. Entretanto, o Desembargador relator indeferiu o pedido liminar.
+Nesta oportunidade, reitera a defesa a imprescindibilidade da oitiva da testemunha [NOME]. Pondera que apenas a referida testemunha pode esclarecer os pormenores dos acontecimentos, notadamente a qualificadora do abuso de confiança. Diante disso, assere a ilegalidade da remessa dos autos ao órgão acusador para alegações finais antes da oitiva da mencionada testemunha. Diante disso, pede, em tema liminar, seja suspenso o processo até o cumprimento da carta precatória em relação à [NOME]. No mérito, busca a confirmação do pedido emergencial, com a anulação do interrogatório da paciente.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade - Enunciado n. 691 da Súmula do STF -, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..  3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..  3. Agravo regimental improvido. (AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016)
+Na espécie, esclareceu o Tribunal Regional Federal, ao indeferir o pedido liminar, que, após várias tentativas frustradas de localização da testemunha, o magistrado "determinou à Secretaria inserção da certidão do oficial de justiça sobre sua falta de intimação ou então que pelo menos informasse o ocorrido, tendo, ato contínuo, determinado às partes apresentar alegações finais. Após o despacho do juiz, determinando à Secretaria certificar o ocorrido quanto á intimação da testemunha [NOME], não há qualquer evidência de que o MPF tenha insistido em sua oitiva, tanto que apresentou alegações finais sem nada alegar a respeito, tampouco há qualquer indicativo de que o magistrado insistirá em sua oitiva. De outra parte, em que pese a parte impetrante alegar que a testemunha seria comum à acusação e defesa, fato é que na audiência realizada em 23/8/2018, a defesa desistiu dessa testemunha, somente não tendo o juiz homologado tal pedido por entender que a testemunha seria comum às partes, ou seja, considerada a desistência da defesa quanto à oitiva dessa testemunha, eventual interesse remanescente em sua oitiva seria apenas da acusação" (e-STJ fls. 433/434, grifei).
+Este o quadro, entendo não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
