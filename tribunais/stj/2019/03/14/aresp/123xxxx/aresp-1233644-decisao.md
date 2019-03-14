@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 451):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. IMPUGNAÇÃO. VALOR DA EXECUÇÃO. PERÍCIA CONTÁBIL. VALOR SUPERIOR AO INDICADO PELA EXEQUENTE.
+Não cabe, em impugnação o cumprimento de sentença, o acolhimento de valor superior ao indicado pela parte credora quando da instauração da fase executiva, sob pena de constituir decisão ultra petita.
+Embargos de declaração rejeitados.
+No recurso especial o sustenta ofensa ao(s) artigos 492 e 509 do CPC/1973, sob os seguintes argumentos: (a) No presente caso, a Autora, ora exequente, após o cálculo da contadoria verificou inexatidão do valor da condenação constante na petição de Cumprimento de Sentença, e como se trata atualmente de mera petição apresentada no curso da demanda, entendendo que nada impede que o valor seja alterado no curso da ação, requereu que a continuidade do processo de liquidação se desse com base no cálculo da contadoria; (b) o cálculo da contadoria constante no processo trata-se de procedimento formalizado com base nos comandos da coisa julgada proferida na fase de conhecimento, e, por isso, exprime sobremaneira o exato comando da decisão transitada em julgado e dessa forma, não pode ser desconsiderado para fins de apuração e quitação da condenação atribuída ao devedor; (c) merece reforma a r. decisão regional, eis que não existe impeditivo legal para que a conta de liquidação em processo de Cumprimento de Sentença seja definida com base no cálculo da contadoria judicial, ainda que esse valor seja superior à conta trazida pelo credor em sua petição de cumprimento.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O recorrente, ao indicar ofensa as artigos 492 e 509 do CPC/1973 deixou de impugnar o fundamento do acórdão recorrido segundo o qual, é ônus processual do exequente instruir a inicial do cumprimento de sentença "com a memória discriminada e atualizada do cálculo - nos termos do art. 475-B do CPC de 1973, e do art. 524 do novo CPC - sendo que, se entendesse inadequados os critérios utilizados, deveria ter promovido a emenda à inicial em tempo hábil, com o recolhimento das respectivas custas adicionais, e como não o fez, resta o cumprimento de sentença limitado aos valores inicialmente apontados" (fl. 449 - com grifos).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
