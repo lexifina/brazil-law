@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “INTEGRAÇÃO DA VERBA CTVA (COMPLEMENTO TEMPORÁRIO VARIÁVEL DE AJUSTE AO PISO DE MERCADO) NA BASE DE CÁLCULO DA COMPLEMENTAÇÃO DE APOSENTADORIA. A reiterada jurisprudência da SDI-I desta Corte firmou entendimento de que a parcela CTVA, apesar de parcela variável, detém natureza salarial, pelo que deve compor a base de cálculo do salário de contribuições previdenciárias. Precedentes da SBDI-1.
+    Recurso de revista conhecido e provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5°, XXXVI, da CF.
+    O recurso não deve ser provido, tendo em vista que a controvérsia posta nos autos não tem alcance constitucional, uma vez que a alegada violação ao art. 5º, XXXVI, da CF só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação do material fático-probatório e das cláusulas constantes do contrato celebrado entre as partes, o que não enseja a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF.
+    Nesse sentido, veja-se a ementa do ARE 913.015-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO PREVIDENCIÁRIO. INCLUSÃO DA PARCELA CTVA NO SALÁRIO DE CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO PLANO REG/REPLAN. ADESÃO A NOVO PLANO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.”
+    Outros precedentes na mesma linha: ARE 1.004.762, Rel. Min. Ricardo Lewandowski; ARE 1.004.456, Rel. Min. Luiz Fux; ARE 1.003.737, Rel. Min. Marco Aurélio; ARE 1.004.459, Rel. Min. Gilmar Mendes; ARE 1.005.042, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
