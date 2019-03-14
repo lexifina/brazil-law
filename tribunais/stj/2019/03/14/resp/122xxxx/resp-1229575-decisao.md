@@ -1,0 +1,78 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Tibagi Administração e Participação Ltda., com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ, fl. 2.382):
+ADMINISTRATIVO. PEDIDO DE NULIDADE DO ATO DE LIQUIDAÇÃO EXTRAJUDICIAL. ATO MOTIVADO. OFENSA AO DEVIDO PROCESSO LEGAL E À AMPLA DEFESA NÃO CONFIGURADAS. INEXISTENTE O DEVER DE INDENIZAR. HONORÁRIOS REDUZIDOS.
+1 - O ato que determinou a liquidação extrajudicial da TIBAGI DTVM LTDA, foi praticado de ofício, na forma do permissivo legal, motivado pela prática de graves irregularidades na intermediação de compra e venda de títulos públicos de renda fixa, caracterizada pela participação em esquema no qual se auferia lucros fora das condições normais de mercado, que resultou em prejuízos ao erário.
+2 - E medida de caráter inibitório a infrações, aplicável ainda que a instituição se encontre absolutamente solvável, que tem por escopo o saneamento do mercado financeiro e a proteção dos credores.
+3 - Os atos administrativos se revestem de presunção de legitimidade e cabe ao administrado produzir provas de sua invalidade, ônus do qual não se desincumbiu a parte autora. O BACEN ao identificar indícios de irregularidades, atuou como lhe impõe a lei, usando de seu poder-dever de agir, de forma proporcional à ofensa praticada e dentro dos limites legais.
+4 - A liquidação extrajudicial é instrumento de intervenção do Estado no domínio econômico, e se dá, não como sanção, mas para sanear o sistema, preservando a economia pública. Não há, pois, que se falar em violação aos princípios do devido processo legal e da ampla defesa, a uma, porque face à extrema urgência, a adoção de providências deve ser imediata, e a defesa dos administradores da empresa se dá de forma diferida. A duas, porque devidamente motivado, o ato não pode ser tido como arbitrário.
+5 - Improcedentes os pedidos, os honorários devem ser fixados de forma proporcional. O trabalho desenvolvido e a matéria em discussão não justificam o valor arbitrado na sentença.
+6. Apelação parcialmente provida para fixar os honorários em 20% sobre o valor da causa.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 2.406-2.413).
+Alega a parte recorrente contrariedade aos arts. 128, 130, 330, I, 332, 333, I, 458, I e II, 459 e 535, I e II, do CPC/1973.
+Defende, em síntese: i) nulidade por omissão; ii) cerceamento de defesa por julgamento antecipado da lide, negativa da produção de provas e falta de individualização da conduta da recorrente; iii) nulidade por não realização de audiência conciliatória; e iv) julgamento alheio ao pedido, em razão de seu não acolhimento a despeito das provas coligidas.
+Apresentadas contrarrazões (e-STJ, fls. 2.529-2.558), o recurso especial foi admitido na origem (e-STJ, fls. 2.590-2.592).
+Parecer pelo conhecimento em parte e, nessa extensão, desprovimento (e-STJ, fls. 2.607-2.615).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015, combinado com a Meta 2/CNJ/2018).
+É o relatório.
+O recurso não prospera.
+Inicialmente, quanto à alegada violação do art. 535 do CPC/1973, verifico que a parte insurgente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+É fundamental que o recorrente desenvolva os argumentos que demonstrem a relevância da omissão para a solução da controvérsia, a fim de que o vício seja reconhecido por esta Corte como apto a ensejar a nulidade do julgado. A mera citação dos dispositivos legais invocados ou referência genérica aos aclaratórios não supre a deficiência recursal.
+Tal circunstância atrai a incidência da Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACP. PRETENSÃO DE REGULARIZAÇÕES FUNDIÁRIA E URBANÍSTICA, COM REASSENTAMENTO DE MORADORES, REALIZAÇÃO DE OBRAS DE INFRAESTRUTURA E REPARAÇÃO DE DANOS AMBIENTAIS. IRRESIGNAÇÃO INTERNA APRESENTADA CONTRA DECISÃO QUE NEGOU PROVIMENTO AO ARESP, FORTE NA AUSÊNCIA DE NULIDADE DO ACÓRDÃO DOS ACLARATÓRIOS, NA HARMONIA ENTRE O JULGADO RECORRIDO E A JURISPRUDÊNCIA DOS TRIBUNAIS SUPERIORES E NA AUSÊNCIA DE REALIZAÇÃO DO NECESSÁRIO COTEJO ANALÍTICO, NO TOCANTE À DIVERGÊNCIA JURISPRUDENCIAL ALEGADA. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. Para o acolhimento da alegação de nulidade do acórdão dos Aclaratórios deve a parte recorrente demonstrar a relevância da omissão, o prejuízo jurídico experimentado, dentre outros requisitos (AgRg no AREsp. 237.587/SP, Rel. Min. CASTRO MEIRA, DJe 6.12.2012), elementos não constantes do Apelo Raro, da parte agravante.
+ ..
+4. Agravo Interno do Estado do Rio Grande do Sul a que se nega provimento.
+(AgInt no AREsp 608.721/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/2/2018, DJe 9/3/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SISTEMA DE ECONOMIA. ACÓRDÃO EMBASADO EM LEI LOCAL. SÚMULA 280/STF. DEMONSTRAÇÃO DE PAGAMENTO COM ERRO. SÚMULA Nº 7/STJ
+1. O provimento do recurso especial por contrariedade ao art. 535, II, do CPC pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a esses recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; (d) não há outro fundamento autônomo, suficiente para manter o acórdão.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp 237.587/SP, Rel. Min. CASTRO MEIRA, SEGUNDA TURMA, julgado em 27/11/2012, DJe 6/12/2012)
+PROCESSO CIVIL. OMISSÃO QUE, SE EXISTENTE, NÃO IMPLICARIA A ANULAÇÃO DO ACÓRDÃO.
+A nulidade do acórdão só é decretada, por contrariedade ao artigo 535, II do Código de Processo Civil, quando o Tribunal a quo se omite a respeito de questão que, examinada, poderia influenciar o julgamento da lide. Hipótese em que, tratando-se de definir índice de correção monetária, não tem qualquer relevância a circunstância de o perito contar, ou não, com formação acadêmica no âmbito atuarial. Agravo regimental não provido.
+(AgRg no Ag 309.468/MG, Rel. Min. ARI PARGENDLER, TERCEIRA TURMA, julgado em 7/8/2001, DJ 10/9/2001, p. 385)
+Quanto ao cerceamento de defesa pelo julgamento antecipado da lide e negativa de produção de provas, a Corte de origem afastou a ocorrência de ambas as situações fáticas. Afirmou-se expressamente no acórdão, bem como nos aclaratórios, ter a sentença sido proferida após a instrução do feito e inexistir qualquer pedido de produção de provas (e-STJ, fl. 2.408):
+Com uma simples leitura do voto condutor do acórdão e sua ementa, verifica-se que houve manifestação expressa do Tribunal acerca do alegado cerceamento de defesa pelo encerramento prematuro da fase de saneamento. Senão vejamos:
+"Inicialmente, afasto as preliminares de nulidade da decisão proferida em Embargos de Declaração, bem como o cerceamento de defesa por julgamento antecipado da lide. A uma porque, não se verifica na sentença, omissão, contradição ou obscuridade a ensejar a interposição de embargos, restando evidente que o objetivo do recurso foi rediscutir matéria já analisada. A duas, porque não ocorreu o alegado cerceamento de defesa pelo julgamento antecipado da lide. Resta claro que o julgamento não se deu na forma do art. 330, do CPC, até porque houve instrução probatória."
+Razão assiste à embargante quando afirma que a matéria em discussão não é somente de direito. Assim também pensou o Juízo de piso, ao deferir a produção de prova pericial, de forma que resta evidente, que a sentença foi proferida tão somente após a manifestação das partes sobre o laudo pericial.
+Não há que se falar, pois, em interrupção precoce do saneador, ao argumento de que foi "surpreendida" com a sentença, já que "haviam postulado por outras provas e esperava fossem deferidas, ou então, indeferidas, sendo que nessa última hipótese poderia até haver a interposição de Recurso contra a lesão".
+Ora, com a juntada do laudo pericial, foi aberta vista às partes, sendo que a embargante tão somente concordou com o laudo pericial e aproveitou para apresentar o laudo pericial elaborado por seu assistente técnico que consiste, em síntese, num resumo das verbas indenizatórias. Não há pois, qualquer pedido de produção de provas não apreciado.
+Reverter tal conclusão demandaria exame direto de fatos e provas por esta Corte, o que é vedado em recurso especial, consoante a Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+Também não há que se falar em cerceamento de defesa pela falta de individualização da conduta dos recorrentes no acórdão, na medida em que o objeto do feito é a legalidade do atuar do Banco Central no processo administrativo questionado pela parte autora, ora recorrente.
+A mera não realização de audiência de conciliação não é causa de nulidade. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA DO CRÉDITO DA RECORRIDA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO A QUO NÃO ATACADO. SÚMULA 283/STF. NÃO REALIZAÇÃO DA AUDIÊNCIA DE CONCILIAÇÃO PREVISTA NO ARTIGO 331 DO CPC/1973.
+NULIDADE. INEXISTÊNCIA.
+ ..
+2. "Havendo julgamento antecipado da lide (CPC, art. 330), não há nulidade do processo por ausência da audiência de conciliação prevista no art. 331, CPC" (AgRg no REsp 736.550/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 24/5/2011). Em igual sentido: AgRg no REsp 1.412.972/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 16/2/2016; AgRg no AREsp 409.397/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, DJe 29/8/2014; AgRg no Ag 1.050.276/SP, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe 16/2/2009; REsp 591.965/RS, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 10/4/2006.
+3. Agravo interno não provido.
+(AgInt no REsp 1.560.164/RR, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/5/2017, DJe 29/5/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ALÍNEA A. DEFICIÊNCIA DAS RAZÕES RECURSAIS. REVISÃO DA MEMÓRIA DE CÁLCULO DO TRIBUTO, QUE O ACÓRDÃO A QUO AFIRMOU CORRETA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUDIÊNCIA PRELIMINAR (CPC, ART. 331). NÃO-REALIZAÇÃO. JULGAMENTO ANTECIPADO DA LIDE (CPC, ART. 330). NULIDADE. INEXISTÊNCIA.
+ ..
+3. "A designação de audiência de conciliação (art. 331, CPC) é incabível no julgamento antecipado da lide, porque é dever do juiz conhecer diretamente do pedido (art. 330, CPC), com harmonização dos princípios da celeridade e instrumentalidade do processo, em benefício das partes" (AgRg no AG 355.288/SP, 3ª Turma, Min, Nancy Andrighi, DJ de 25.06.2001).
+ ..
+5. A configuração ou não, em cada caso, de hipótese de julgamento antecipado da lide, por depender de juízo a respeito da necessidade ou não de produção de provas em audiência - juízo esse que se realiza mediante o cotejo do pedido com o material probatório constante dos autos -, é matéria que fica, em princípio, reservada à apreciação das instâncias ordinárias, sendo insuscetível de reexame na via do recurso especial, diante da orientação posta na Súmula 7/STJ. Precedentes.
+6. No caso concreto, a recorrente não indica qual prejuízo lhe teria advindo da não-realização da audiência, o que seria indispensável ao reconhecimento de nulidade (pas de nulité sans grief), nem infirma a afirmação do acórdão recorrido de que teria silenciado, quando instada a especificar as provas a serem produzidas em audiência, dando ensejo ao julgamento antecipado da lide.
+7. Recurso especial parcialmente conhecido e, nessa parte, improvido.
+(REsp 591.965/RS, Rel. Min. TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 28/3/2006, DJ 10/4/2006, p. 129)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR ESTADUAL APOSENTADO. AÇÃO ORDINÁRIA. AUDIÊNCIA DE CONCILIAÇÃO INEXISTENTE. ART. 331 DO CPC. VIOLAÇÃO NÃO CARACTERIZADA.
+Conforme entendimento desta Corte, a norma do dispositivo supracitado tem como objetivo dar maior agilidade ao processo, mas, em verdade, as partes podem transigir a qualquer momento.
+Assim, a não realização da audiência de conciliação não deve importar em nulidade do processo, o que só acarretaria prejuízos, de toda a sorte, para ambas as partes.
+Violação não caracterizada.
+Recurso desprovido.
+(REsp 252.400/AM, Rel. Min. JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, julgado em 13/9/2000, DJ 23/10/2000, p. 166)
+Descabe, por fim, falar-se em julgamento alheio ao pedido pelo seu mero desacolhimento. De qualquer sorte, a questão não foi objeto de decisão pela instância ordinária, faltando-lhe o requisito constitucional do prequestionamento. A hipótese torna inviável o conhecimento do recurso no ponto, à luz da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo).
+ Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
