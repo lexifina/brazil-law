@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 93):
+    “Embargos à execução - Custas iniciais Isenção - Descabimento Impossibilidade de se desconsiderar a aplicabilidade da Lei 11.608/2003 - Agravantes que não se enquadram em nenhum dos casos de isenção da citada lei, em seu art. 6º - Preceito tributário que dispõe sobre outorga de isenção Regra que deve ser interpretada restritivamente Art. 111, II, do CTN Agravo desprovido.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, aduz-se ofensa aos arts. 5º, caput, XXXIV, XXXV, LIV e LV; da Constituição Federal. Aponta-se ofensa aos princípios da isonomia; do acesso à Jurisdição, do devido processo legal, da ampla defesa e do contraditório, além do direito à petição “independentemente do pagamento de taxas”.
+    É o relatório.
+    Primeiramente, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípios do devido processo legal, da ampla defesa, do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Demais disso, ao julgar o RE-RG 950.787, em 28.04.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa ao princípio constitucional do acesso à Jurisdição ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário, como no caso dos autos.
+    Por outro lado, vejamos o seguinte trecho do acórdão recorrido, relativo ao pagamento das custas iniciais para a apresentação dos embargos do devedor pelas ora Recorrentes (uma, pessoa jurídica de direito privado e, outra, pessoa física):
+    “Por outro lado, as embargantes, ora agravantes, não se enquadram em nenhum dos casos de isenção da referida Lei Estadual, prevendo, em seu art. 6º, que somente a União, o Estado, o Município e respectivas autarquias e fundações, assim como o Ministério Público, estão isentos da taxa judiciária.” (eDOC 1, p. 94).
+    Percebe-se, então, que eventual divergência em relação ao entendimento adotado pelo juízo a quo, tal como posta na lide, demandaria interpretação de texto infraconstitucional (art. 6º, da Lei 11.608/2003), configurando-se, assim, hipótese de contrariedade indireta ou reflexa à Constituição Federal. Portanto, incide, no caso dos autos, o óbice da Súmula 279 do STF.
+    Ante o exposto, Ante o exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 932, IV, “a” e “b”, do CPC
+    Publique-se.
+    Brasília, 15 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
