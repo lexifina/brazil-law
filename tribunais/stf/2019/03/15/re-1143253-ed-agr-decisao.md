@@ -1,0 +1,9 @@
+Decisão: (Petição n° 75991/2018)
+    Trata-se de pedido de desistência do mandado do segurança do qual se originou o presente recurso extraordinário.
+    A jurisprudência consolidada do Supremo Tribunal Federal (STF) é no sentido de possibilitar a desistência do mandado de segurança, a qualquer tempo, independentemente da oitiva do impetrado, mesmo após a prolação de sentença. Confira-se, a propósito, a ementa do RE 669.367-RG:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL ADMITIDA. PROCESSO CIVIL. MANDADO DE SEGURANÇA. PEDIDO DE DESISTÊNCIA DEDUZIDO APÓS A PROLAÇÃO DE SENTENÇA. ADMISSIBILIDADE. É lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários (MS 26.890-AgR/DF, Pleno, Ministro Celso de Mello, DJe de 23.10.2009), a qualquer momento antes do término do julgamento (MS 24.584-AgR/DF, Pleno, Ministro Ricardo Lewandowski, DJe de 20.6.2008), mesmo após eventual sentença concessiva do writ constitucional, (…) não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC (RE 255.837-AgR/PR, 2ª Turma, Ministro Celso de Mello, DJe de 27.11.2009). Jurisprudência desta Suprema Corte reiterada em repercussão geral (Tema 530 - desistência em mandado de segurança, sem aquiescência da parte contrária, após prolação de sentença de mérito, ainda que favorável ao impetrante). Recurso extraordinário provido.” (RE 669367, Rel. Min. Luiz Fux, Relª. p/ Acórdão: Min. Rosa Weber, Tribunal Pleno)
+    Diante do exposto, homologo o pedido de desistência do mandado de segurança (art. 21, VIII, do RISTF), e extingo o processo sem resolução do mérito (art. 485, VIII, do Código de Processo Civil).
+    Publique-se.
+          Brasília, 15 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
