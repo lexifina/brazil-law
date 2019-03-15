@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1876, de 14 de março de 2019
+Altera a Instrução Normativa RFB nº 1.252, de 1 de março de 2012, que dispõe sobre a Escrituração Fiscal Digital das Contribuições Incidentes sobre a Receita (EFD-Contribuições).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no § 3º do art. 11 da Lei nº 8.218, de 29 de agosto de 1991, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
