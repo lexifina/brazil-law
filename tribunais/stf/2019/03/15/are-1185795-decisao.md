@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “RECURSO DE APELAÇÃO – SERVIDORES PÚBLICOS DO PODER EXECUTIVO – POLÍCIA MILITAR – CONVERSÃO DE CRUZEIRO REAL EM UNIDADE REAL DE VALOR (URV) – PRESCRIÇÃO – PRESTAÇÕES VENCIDAS ANTES DO QUINQUÊNIO QUE ANTECEDEU O AJUIZAMENTO DA DEMADA – PERDA SALARIAL – AUSÊNCIA – REAJUSTE DE 11,98% - INAPLICABILIDADE AO CASO – CERCEAMENTO DE DEFESA NÃO CARACTERIZADO – POSSIBILIDADE DE JULGAMENTO ANTECIPADO DA LIDE – AUSÊNCIA DE PROVA DA DATA DO EFETIVO PAGAMENTO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXIV, XXXV, LIV e LV; 7º, VI; e 37, XV, todos da CF.
+    O recurso extraordinário não deve ser provido. Aplica-se a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido em face da da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem, se faz necessário o reexame de fatos e provas constantes dos autos, procedimento vedado neste momento processual, nos termos da Súmula 279/STF. Nessa linha, veja-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. 1. CONVERSÃO EM UNIDADE REAL DE VALOR – URV. PREJUÍZO: IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). 2. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 749.880-AgR, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita a parte agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 15 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
