@@ -1,0 +1,19 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – VÍCIO – INEXISTÊNCIA – DESPROVIMENTO.
+    1. Em 7 de dezembro de 2018, assim me pronunciei:
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Ambas as Turmas já se manifestaram quanto à natureza legal da matéria sob exame:
+    Segundo agravo regimental no recurso extraordinário. Imposto de renda. Apuração de lucro real e dedução de créditos com exigibilidade suspensa. Leis nºs 8.541/92 e 8.981/95. Questão infraconstitucional. Ofensa constitucional indireta. 1. Ambas as Turmas desta Corte têm se posicionado no sentido de que a controvérsia envolvendo a apuração de lucro real e a dedução de créditos com exigibilidade suspensa, nos moldes das Leis nºs 8.541/92 e 8.981/95, se insere no campo infraconstitucional. Assim sendo, eventual incompatibilidade com a Constituição Federal, caso ocorresse, dar-se-ia de forma meramente reflexa ou indireta. Precedentes. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido. (Segundo agravo regimental no recurso extraordinário nº 505.508, relator ministro Dias Toffoli, Primeira Turma, com acórdão publicado no Diário da Justiça de 29 de fevereiro de 2012).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DO IMPOSTO SOBRE A RENDA. PREJUÍZO DECORRENTE DE ATIVIDADE DE INVESTIMENTO DENOMINADA DAY TRADE: LIMITAÇÃO IMPOSTA PELO ART. 76, § 3º, DA LEI N. 8.981/1995. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. CONCEITO DE RENDA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (Agravo regimental no recurso extraordinário nº 613.556, relatora ministra Cármen Lúcia, Segunda Turma, com acórdão veiculado no Diário da Justiça de 26 de fevereiro de 2015).
+    2. Ante o quadro, conheço do agravo e o desprovejo.
+    O recorrente, em embargos de declaração, aponta a necessidade de suspensão do trâmite do processo, considerado o fato de este veicular matéria idêntica à versada no recurso extraordinário nº 596.286/RJ, no bojo do qual o Pleno concluiu pela repercussão geral do tema relativo à constitucionalidade do artigo 5º da Lei nº 9.779/99.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por profissional de advocacia regularmente credenciado, foi protocolada no prazo assinado em lei.
+    Não há quer omissão, quer obscuridade, quer contradição na decisão impugnada. Em última análise, pretende o embargante nova apreciação da matéria de fundo, providência inviável na estreita via dos declaratórios.
+    O precedente indicado não é pertinente ao caso ora em julgamento, porquanto da leitura do pronunciamento impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado a partir de interpretação conferida à Lei nº 8.981/95.
+    Da decisão embargada consta expressamente a inexistência de tema constitucional a ser tratado, eis que a matéria foi julgada pela óptica legal. Logo, não se pode cogitar, na espécie, da existência de qualquer dos vícios suficientes a respaldar os embargos declaratórios. O pronunciamento traz os parâmetros observáveis, de modo a revelar a impropriedade dos declaratórios. O embargante desenvolve narrativa destoante do propósito de sanar obscuridade, contradição ou omissão.
+    3. Conheço dos embargos de declaração e desprovejo-os.
+    4. Publiquem.
+Brasília, 15 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
