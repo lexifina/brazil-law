@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Sexta Turma do Superior Tribunal de Justiça, assim ementado (eDOC 2, p. 69):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. DESAPOSENTAÇÃO. RENÚNCIA À APOSENTADORIA. DEVOLUÇÃO DE VALORES. DESNECESSIDADE. RECONHECIMENTO DE REPERCUSSÃO GERAL PELO STF. SOBRESTAMENTO DO FEITO. IMPOSSIBILIDADE. EXAME DE MATÉRIA CONSTITUCIONAL EM SEDE DE RECURSO ESPECIAL. DESCABIMENTO.
+    1. O reconhecimento da repercussão geral pela Suprema Corte não enseja o sobrestamento do julgamento dos recursos especiais que tramitam neste Superior Tribunal de Justiça. Precedentes.
+    2. A renúncia à aposentadoria, para fins de concessão de novo benefício, seja no mesmo regime ou em regime diverso, não implica em devolução dos valores percebidos.
+    3. Não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+    4. Agravo regimental a que se nega provimento.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 81).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput e XXXVI; 97; 195, caput e § 5º; 201, caput e § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 2, p. 109):
+    “permitir a desaposentação sem a restituição integral do sistema previdenciário ao seu statu quo ante, tanto pelo pagamento dos encargos financeiros como pela quitação em parcela única, importa a usurpação inteiramente despropositada da prerrogativa legislativa, além de provocar o rompimento do equilíbrio financeiro atuarial, sem a devida preocupação com as consequências a serem geradas à coletividade de segurados”
+    Em 8.1.2013, a Vice-Presidência do STJ determinou o sobrestamento do recurso até o julgamento por esta Corte do RE 661.256, sob a sistemática da repercussão geral (eDOC 2, p. 134).
+    Apreciada a matéria no âmbito do Supremo Tribunal Federal, os autos foram remetidos ao relator, que no exercício de juízo de retratação assim asseverou (eDOC 2, p. 158):
+    “... o que se discute no presente, uma vez que não impugnado, pela Autarquia Federal, aquele acórdão que reconheceu o direito à "desaposentação" sob a condição de restituição dos valores anteriormente percebidos, é a necessidade ou não da referida devolução, matéria que não foi alvo de discussão e manifestação pelo Plenário do Supremo Tribunal Federal, o qual limitou-se a afastar a possibilidade de "desaposentação".
+    Por conseguinte, nada há a reconsiderar nos termos do art. 1.040, II, do CPC.”
+    A Vice-Presidência do STJ, em 18.4.2018, em novo juízo de admissibilidade, assentou a refutação do juízo de retratação pelo relator e admitiu o extraordinário (eDOC 2, p. 177).
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    O Supremo Tribunal Federal, no julgamento do RE-RG 661.256, Rel. Min. Roberto Barroso, Rel. para o acórdão Min. Dias Toffoli, concluiu pela existência de repercussão geral da matéria versada nestes autos (Tema 503). Quando do julgamento de mérito, o Plenário, por maioria, deu provimento ao recurso, nos seguintes termos da ementa:
+    “Constitucional. Previdenciário. Parágrafo 2º do art. 18 da Lei 8.213/91. Desaposentação. Renúncia a anterior benefício de aposentadoria. Utilização do tempo de serviço/contribuição que fundamentou a prestação previdenciária originária. Obtenção de benefício mais vantajoso. Julgamento em conjunto dos RE nºs 661.256/SC (em que reconhecida a repercussão geral) e 827.833/sc. Recursos extraordinários providos. 1. Nos RE nºs 661.256 e 827.833, de relatoria do Ministro Luís Roberto Barroso, interpostos pelo INSS e pela União, pugna-se pela reforma dos julgados dos Tribunais de origem, que reconheceram o direito de segurados à renúncia à aposentadoria, para, aproveitando-se das contribuições vertidas após a concessão desse benefício pelo RGPS, obter junto ao INSS regime de benefício posterior, mais vantajoso. 2. A Constituição de 1988 desenhou um sistema previdenciário de teor solidário e distributivo. inexistindo inconstitucionalidade na aludida norma do art. 18, § 2º, da Lei nº 8.213/91, a qual veda aos aposentados que permaneçam em atividade, ou a essa retornem, o recebimento de qualquer prestação adicional em razão disso, exceto salário-família e reabilitação profissional. 3. Fixada a seguinte tese de repercussão geral no RE nº 661.256/SC: [n]o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à desaposentação, sendo constitucional a regra do art. 18, § 2º, da Lei nº 8213/91. 4. Providos ambos os recursos extraordinários (RE nºs 661.256/SC e 827.833/SC).”
+    Desta forma, verifica-se que o acórdão recorrido destoa deste entendimento.
+    Ademais, ressalta-se, por fim, que, uma vez fixada a inviabilidade da desaposentação, descabe discutir a necessidade de devolução dos valores recebidos a título de benefício.
+    Ante o exposto, nos termos do art. 932, V, b, do CPC, conheço do recurso extraordinário e lhe dou provimento para reformar o acórdão recorrido e julgar improcedente a demanda, assentando a impossibilidade de desaposentação.
+    Publique-se.
+    Brasília, 15 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
