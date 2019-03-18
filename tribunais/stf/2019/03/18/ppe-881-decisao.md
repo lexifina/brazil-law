@@ -1,0 +1,8 @@
+Despacho: 1. Por meio do ofício às fls. 37-38, a Superintendência Regional de Polícia Federal do Estado de São Paulo comunica o escorreito cumprimento do mandado de prisão domiciliar decretado em desfavor da nacional sul-africana Katzy Shokazi, esclarecendo, outrossim, que apreendeu o passaporte dessa estrangeira e cientificou o seu advogado constituído, o Dr. José Eduardo Lavinas Barbosa, OAB/SP 217.870.
+     2. À Secretaria Judiciária, para fazer constar, na autuação, o nome do sobredito profissional da advocacia, a quem concedo o prazo de 5 (cinco) dias para que se habilite neste feito e promova a juntada do instrumento de procuração.
+    Considerando que não mais recai qualquer anotação de sigilo sobre este pedido de prisão preventiva para fins de extradição, a obtenção de vista e cópia das peças já digitalizadas prescinde de qualquer autorização deste Relator. Dessarte, a defesa constituída poderá obter acesso, desde logo, mediante solicitação à Seção de Processos Originários Criminais desta Corte, fornecendo, para o mister, os recursos materiais necessários, ou mesmo arcando com os respectivos custos, nos termos do art. 9º, § 2º, III, da IN 139, de 29 de junho de 2012.
+    3. Feitas as anotações devidas, comunique-se o cumprimento das diligências cautelares ao Ministério da Justiça e à Missão Diplomática do Uruguai, para os fins do art. 29, parágrafo 3, do Acordo de Extradição entre os Estados Partes do Mercosul, e, após, aguarde-se, em cartório, a formalização da extradição propriamente dita.
+    Oficie-se. Publique-se.
+    Brasília, 18 de março de 2019.
+Ministro Edson Fachin
+Relator - Documento assinado digitalmente
