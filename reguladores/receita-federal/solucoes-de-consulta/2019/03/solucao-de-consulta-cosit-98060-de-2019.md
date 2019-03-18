@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98060, de 27 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM: 7326.90.90 Mercadoria: : Dispositivo de fixação (suporte) de uma estrutura destinada à passagem e sustentação de cabos elétricos em torres de aerogeradores, fabricado de chapa de aço, com dimensões de 85 mm x 45 mm x 71 mm e peso de 240 g, comercialmente denominado de "suporte para eletrocalha". Dispositivos Legais: RGI 1, 6 e RGC 1 da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.060-2019 .pdf]
