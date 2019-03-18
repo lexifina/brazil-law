@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98053, de 22 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM: 4009.22.90 Mercadoria: Tubo flexível de borracha vulcanizada não endurecida, com reforço externo de aço inoxidável trançado, provido de conexões roscadas, resistente à pressão de 1,6 MPa, com 40 cm de comprimento, do tipo utilizado em instalações sanitárias residenciais. Dispositivos Legais: RGI 1, RGI 6 e RGC 1, da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.053-2019 .pdf]
