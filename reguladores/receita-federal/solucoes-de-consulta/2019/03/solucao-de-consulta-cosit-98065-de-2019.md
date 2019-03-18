@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98065, de 27 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM: 5903.20.00 Mercadoria: Tecido estratificado com plástico alveolar, obtido por meio de dublagem de tecido de poliéster em ambas as faces de uma chapa de espuma de poliuretano, utilizado na fabricação de bojos de sutiãs, comercialmente denominado "manta dublada". Dispositivos Legais: RGI 1 (Nota 2 a) do Capítulo 59) e RGI 6 da NCM constante na TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.065-2019 .pdf]
