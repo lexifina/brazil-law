@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98041, de 20 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM: 8528.71.19 Mercadoria: Aparelho receptor-decodificador integrado (IRD) de TV digital terrestre (padrão ISDB-T), com gravador digital HD, saídas de áudio e vídeo, controle remoto com pilhas, cabo RCA, cabo HDMI, fonte de alimentação e manual do usuário, concebido para receber os sinais digitais das emissoras de TV aberta e decodificá-los para que sejam exibidos numa unidade de visualização externa (televisor analógico, por exemplo), comercialmente denominado "conversor digital terrestre". Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.041-2019 .pdf]
