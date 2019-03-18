@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98072, de 28 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM 3004.90.79 Mercadoria: Medicamento de uso veterinário, contendo Fluralaner como princípio ativo, indicado para o combate às infestações por pulgas e carrapatos em cães, acondicionado para venda a retalho em caixas com cartuchos contendo de 1 a 4 comprimidos mastigáveis. Dispositivos Legais: RGI 1 (texto da posição 30.04), RGI 6 (texto da subposição 3004.90) e RGC 1 (texto do item 3004.90.7 e do subitem 3004.90.79) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435/92, atualizadas IN/RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.072-2019 .pdf]
