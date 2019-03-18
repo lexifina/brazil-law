@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LXXI, 7º, IX, e 39, § 3º, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Leis Complementares Estaduais nºs 10.098/1994 e 10.990/1997), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. MANDADO DE INJUNÇÃO. POLICIAL MILITAR REFORMADO. REMUNERAÇÃO NA FORMA DE SUBSÍDIO. ARTS. 37, § 4º, E 144, § 9º, DA CRFB/88. NORMA CONSTITUCIONAL DE EFICÁCIA LIMITADA. ALEGAÇÃO DE NORMA REGULAMENTADORA EXISTENTE NO ÂMBITO DO ESTADO. INVIABILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (RE 914233 AgR, Relator(a): Min. Luiz Fux, Primeira Turma, julgado em 10.9.2018, PROCESSO ELETRÔNICO DJe-204 DIVULG 25.9.2018 PUBLIC 26.9.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PAGAMENTO DE SUBSÍDIO. LEIS COMPLEMENTARES ESTADUAIS NS. 127/2008 E 218/2016: IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL E DA MATÉRIA FÁTICO-PROBATÓRIA: INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1118895 AgR, Relator(a): Min. Cármen Lúcia (Presidente), Tribunal Pleno, julgado em 07.8.2018, PROCESSO ELETRÔNICO DJe-171 DIVULG 21.8.2018 PUBLIC 22.8.2018)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de março de 2019.
+Ministra Rosa Weber
+Relatora
