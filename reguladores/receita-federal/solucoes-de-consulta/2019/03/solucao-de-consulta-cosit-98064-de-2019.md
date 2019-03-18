@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98064, de 27 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM: 4701.00.00 Mercadoria: Pasta mecânica de madeira, em pó, composta de lignocelulose, possuindo uma densidade aparente de 300g/l a 400g/l, utilizada como um concentrado de fibra bruta com alta capacidade de absorção de água, própria para ser misturada na ração de aves e suínos, apresentada em sacos de 20kg. Dispositivos Legais: RGI 1 (Nota 1 do Capítulo 23) da NCM constante na TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.064-2019 .pdf]
