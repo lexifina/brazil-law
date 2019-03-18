@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98062, de 27 de fevereiro de 2019
+Assunto: Classificação de Mercadorias Código NCM: 6307.90.10 Mercadoria: Máscara facial de falso tecido, descartável, desidratada e comprimida na forma de pastilha, 100% algodão, não impregnada, não revestida e nem recoberta com preparação química, com função de auxiliar na aplicação de cosmético no rosto. Dispositivos Legais: RGI 1 (Nota 7 da Seção XI), RGI 6 e RGC 1 da NCM constante na TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.062-2019 .pdf]
