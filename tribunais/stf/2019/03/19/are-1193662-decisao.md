@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Ministério Público do Estado de Mato Grosso do Sul contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL – ROUBO E FURTO MAJORADOS – FURTO E ROUBO DE VEÍCULOS – FURTO QUALIFICADO PELA ESCALADA – AFASTAMENTO DAS MAJORANTES – IMPOSSIBILIDADE – COM O PARECER – EMBARGOS IMPROVIDOS – PROVIMENTO ‘EX OFFICIO’ PARA AFASTAR A MAJORANTE DO ROUBO COM USO DE ARMA BRANCA – ‘ABOLITIO CRIMINIS’ TRAZIDA PELA LEI 13.654/2018.
+    Inviável o afastamento da qualificadora da escalada no crime de furto, se a prova testemunhal e documental, assim como auto de constatação, atestam a sua ocorrência, e a transposição de muro de quase dois metros de altura torna prescindível a realização de exame pericial para sua comprovação.
+    De ofício, afasta-se a qualificadora do uso de arma, se foi usada uma arma branca, a qual, segundo a alteração trazida pela Lei 13.654/2018, deixou de ser apta a configurar a majorante do roubo, já que citada lei deve ser aplicada de imediato e para situações pretéritas, por ser lei mais benéfica ao réu.
+    Embargos improvidos.
+    De ofício, afastamento da causa de aumento no crime de roubo, com consequente redução de pena.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 65 da Constituição da República.
+    Cabe registrar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de Mato Grosso do Sul, no julgamento do recurso, sustentou as suas conclusões em aspectos fático-probatórios:
+    “Em que pese a inconstitucionalidade formal da Lei n. 13.654/18 tenha sido açodadamente sustentada por parte da doutrina e jurisprudência, a consulta ao Projeto de Lei nº 149/2015 evidencia que, já em seu nascedouro, era contemplada a alteração legislativa visando restringir a majorante aos casos de emprego de arma de fogo, cuja proposição constou do texto publicado após a conclusão das deliberações preliminares.
+    Aliás, inexistiu eventual supressão em quaisquer das fases do rito procedimental, sendo o Projeto de Lei com a previsão da revogação da majorante para o caso de ‘arma branca’ submetido às Casas Legislativas e, na sequência, devidamente encaminhado à sanção Presidencial, sem que se observe ocasional mácula.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Cumpre assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.157.600/MT, Rel. Min. RICARDO LEWANDOWSKI – RE 1.187.500/RO, Rel. Min. ROBERTO BARROSO, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. 2. Alegação de inconstitucionalidade formal do artigo 4º da Lei 13.654/2018. Reanálise de todos os documentos constantes do processo legislativo. 3. Impossibilidade em sede de recurso extraordinário. Súmula 279. 4. Agravo improvido.”
+    (ARE 1.176.106-AgR/MS, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 19 de março de 2019.
+Ministro CELSO DE MELLO
+Relator
