@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta ao art. 53, caput, do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PENSÃO DE EX COMBATENTE. LEIS NºS 3.765/1960 E 4.242/1963. CONTROVÉRSIA INFRACONSTITUCIONAL. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 975496 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 17.3.2017, PROCESSO ELETRÔNICO DJe-062 DIVULG 28.3.2017 PUBLIC 29.3.2017)
+    “ADMINISTRATIVO E PROCESSO CIVIL. CONDIÇÃO DE EX - COMBATENTE . SÚMULA STF 279. 1. Para se concluir de maneira diversa ao decidido pelo acórdão recorrido, seria imprescindível o reexame da matéria fático-probatória dos autos (Súmula STF 279). 2. Agravo regimental a que se nega provimento.” (RE 617050 AgR, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 12.4.2011, DJe-083 DIVULG 04.5.2011 PUBLIC 05.5.2011 EMENT VOL-02515-01 PP-00172 LEXSTF v. 33, n. 388, 2011, p. 172-174)
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de março de 2019.
+Ministra Rosa Weber
+Relatora
