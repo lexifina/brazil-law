@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “POLUIÇÃO AMBIENTAL. EMISSÃO DE FUMAÇA. VEÍCULO DE TRANSPORTE COLETIVO. IMPOSIÇÃO DE MULTAS. COBRANÇA NA VIA EXECUTIVA. EMBARGOS FUNDADOS NA ALEGAÇÃO DE INCOMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR SOBRE A MATÉRIA. SENTENÇA QUE OS DESACOLHE. CONFIRMAÇÃO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o RE 194.704/MG, Red. p/ o acórdão Min. EDSON FACHIN, fixou entendimento que desautoriza a pretensão recursal deduzida pela parte ora recorrente:
+    “RECURSO EXTRAORDINÁRIO. LEI MUNICIPAL 4.253/85 DO MUNICÍPIO DE BELO HORIZONTE. PREVISÃO DE IMPOSIÇÃO DE MULTA DECORRENTE DA EMISSÃO DE FUMAÇA ACIMA DOS PADRÕES ACEITOS. ALEGAÇÃO DE INCONSTITUCIONALIDADE POR OFENSA À REGRA CONSTITUCIONAL DE REPARTIÇÃO DE COMPETÊNCIAS FEDERATIVAS. INOCORRÊNCIA. NORMA RECEPCIONADA PELO TEXTO VIGENTE. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. Nos casos em que a dúvida sobre a competência legislativa recai sobre norma que abrange mais de um tema, deve o intérprete acolher interpretação que não tolha a competência que detêm os entes menores para dispor sobre determinada matéria (‘presumption against preemption’).
+    2. Porque o federalismo é um instrumento de descentralização política que visa realizar direitos fundamentais, se a lei federal ou estadual claramente indicar, de forma adequada, necessária e razoável, que os efeitos de sua aplicação excluem o poder de complementação que detêm os entes menores (‘clear statement rule’), é possível afastar a presunção de que, no âmbito regional, determinado tema deve ser disciplinado pelo ente menor.
+    3. Na ausência de norma federal que, de forma nítida (‘clear statement rule’), retire a presunção de que gozam os entes menores para, nos assuntos de interesse comum e concorrente, exercerem plenamente sua autonomia, detêm Estados e Municípios, nos seus respectivos âmbitos de atuação, competência normativa.
+    4. Recurso extraordinário a que se nega provimento.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 250.479/MG, Rel. Min. MARCO AURÉLIO – RE 390.665/MG, Rel. Min. RICARDO LEWANDOWSKI – RE 392.859/MG, Rel. Min. GILMAR MENDES – RE 445.071/MG, Rel. Min. DIAS TOFFOLI – RE 458.491/MG, Rel. Min. EDSON FACHIN, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Cabe registrar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 19 de março de 2019.
+Ministro CELSO DE MELLO
+Relator
