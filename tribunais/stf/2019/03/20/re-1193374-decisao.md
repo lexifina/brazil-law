@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, ementado, no que interessa, nos seguintes termos:
+    “PRESCRIÇÃO. INCLUSÃO DA RUBRICA CARGO COMISSIONADO NA BASE DE CÁLCULO DAS VANTAGENS PESSOAIS.
+    (…)
+    ADESÃO A NOVO PLANO. SALDAMENTO DO REG/REPLAN. ALEGAÇÃO DE TRANSAÇÃO
+    (...)
+    RUBRICA CARGO COMISSIONADO. BASE DE CÁLCULO DAS VANTAGENS PESSOAIS. (RECURSO DA FUNCEF)(...) “ (eDOC 64, p. 1/3).
+    No recurso extraordinário(eDOC 66), interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI e 202, § 2º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, a autonomia do direito previdenciário, de modo que, a aplicação ao caso de regras do direito do trabalho poderiam ocorrer apenas de forma subsidiária.
+    Aduz, ainda, a ofensa ao ato jurídico perfeito.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, cumpre destacar que no tocante à ofensa ao ato jurídico perfeito, o Supremo Tribunal Federal, no julgamento do ARE-RG 742.083 (tema 662), Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 1º.7.2013, rejeitou a repercussão geral dessa matéria, tendo em vista a natureza infraconstitucional da questão.
+    Ademais, destaco que a jurisprudência deste Tribunal firmou-se no sentido de que é incabível, em sede de recurso extraordinário, avaliar a eficácia de transação entre particulares e a regularidade da renúncia a direitos, por demandar a análise dos termos negociais e a interpretação de normas infraconstitucionais. Incidem na espécie as súmulas 279 e 454 do STF.
+    Sobre o tema, confiram-se os seguintes julgados de ambas as turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA COMPLEMENTAR. RESGATE DE CONTRIBUIÇÕES. CORREÇÃO MONETÁRIA. ÍNDICE APLICÁVEL. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGADA AFRONTA AO ATO JURÍDICO PERFEITO. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INCIDÊNCIA DA SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(ARE 896.642-AgR, Segunda Turma, Rel. Ministra Cármen Lúcia, DJe de 29.9.15);
+    “DIREITO PREVIDENCIÁRIO. INCLUSÃO DA PARCELA CTVA NO SALÁRIO DE CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO PLANO REG/REPLAN. ADESÃO A NOVO PLANO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (ARE 913.015-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 16.12.15);
+    “Agravos regimentais no recurso extraordinário com agravo. Previdência Privada. Suplementação de aposentadoria. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas e de cláusulas de regulamento de benefícios. Impossibilidade. Precedentes. 1. A afronta aos princípios do ato jurídico perfeito, do direito adquirido, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Inadmissível, em recurso extraordinário, a análise de cláusulas de regulamento de benefícios, de legislação infraconstitucional, e o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 454, 636 e 279/STF. 3. Agravos regimentais não providos.” (ARE 679.143-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 9.4.14).
+    No mesmo sentido, cito as seguintes decisões monocráticas: RE 1.158.862, Rel. Min. Ricardo Lewandowski, DJe 5.10.2018; RE 1.158.863, Rel. Min. Luiz Fux, DJe 19.9.2018; RE 1.155.821, de minha relatoria, DJe 5.9.2018.
+    Ante o exposto, nego seguimento ao recurso (artigo 932, IV, a , do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 16, p. 14), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 20 de março de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
