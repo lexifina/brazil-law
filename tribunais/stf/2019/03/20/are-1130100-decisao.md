@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Câmara Cível do Tribunal de Justiça do Espírito Santo decidiu:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. CONCURSO PÚBLICO. QUESTÃO PREJUDICIAL DECIDIDA EM OUTRA AÇÃO. PERDA SUPERVENIENTE DE INTERESSE PROCESSUAL. QUESTÃO NÃO TRATADA NA SENTENÇA. OMISSÃO INDIRETA. EMBARGOS DE DECLARAÇÃO. CABIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CARACTERIZADA. CONEXÃO. UMA DAS AÇÕES JÁ JULGADAS. APLICAÇÃO DA SÚMULA 235 DO STJ. MATÉRIA DECIDIDA EM OUTRA AÇÃO. TRÂNSITO EM JULGADO. IMUTABILIDADE. RECURSO IMPROVIDO.
+    1- Com a mudança do contexto fático, ocorrido durante o andamento processual, cabe ao juiz, na forma do art. 462 do CPC, levá-lo em consideração no momento de proferir sua sentença.
+    2- Com o deslinde do processo n. 014.11.005850-1 e sua decisão em caráter definitivo, operou-se a perda superveniente de interesse processual, já que não poderia ser dado provimento ao pleito de nomeação e posse aqui pretendido, para candidato que em outra ação não teve reconhecido seu direito de participar do curso de formação.
+    3- Verificada a ausência de manifestação do magistrado sobre questão prejudicial à presente demanda, como a perda superveniente de interesse processual, resta caracterizada a omissão indireta, sobre a qual cabe a interposição de embargos de declaração.
+    4- Forçoso reconhecer que o magistrado proferiu sua sentença embasando-se em fundamentação apta a motivar sua decisão, esclarecendo os motivos que o levaram a decidir naquele sentido, afastando qualquer mácula passível de anulação da sentença por ausência de fundamentação.
+    5- No momento da análise sobre a necessidade de reunião das ações ditas conexas, o magistrado de primeiro grau constatou que a primeira demanda já tinha sentença proferida, razão pela qual aplicável o entendimento prescrito pelo enunciado de súmula n. 235 do Superior Tribunal de Justiça segundo o qual: ‘a conexão não determina a reunião dos processos, se um deles já foi julgado’.
+    6- Decisão que não reconheceu o direito da Autora de participar do curso de formação transitou em julgado, não podendo mais ser objeto de análise por este Tribunal.
+    7- Para que o candidato seja considerado aprovado em concurso público é necessário que tenha êxito em todas as fases previstas no edital. Como no presente caso foi decidido que a candidata não tinha direito de participar do curso de formação, ela não preencheu todos os requisitos editalícios, não sendo considerada aprovada no certame.
+    8- Recurso improvido” (doc. 2, fl. 222).
+    3. Na decisão agravada, foram adotadas como fundamento para a inadmissibilidade do recurso extraordinário a demonstração insuficiente da preliminar de repercussão geral, a incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal e a ausência de ofensa constitucional direta.
+    4. A agravante argumenta ser “inegável a relevância do Recurso Extraordinário, haja vista que a questão é inerente à observância do princípio da legalidade pela Administração Pública e a aprovação de candidato em concurso público fora do número de vagas, o que segundo posicionamento do Supremo Tribunal Federal adotado nos autos do RE n. 837.311 (julgado em 22.10.2014), constitui sim, matéria de repercussão geral. (...) a violação a determinada norma legal ou dissídio sobre sua interpretação não requer, necessariamente, que tal dispositivo tenha sido expressamente mencionado no acórdão do Tribunal de origem” (doc. 3, fls. 24-26).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. LIV do art. 5º, o art. 37 e o inc. IX do art. 93 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à agravante.
+    Os argumentos expostos neste agravo não infirmam todos os óbices postos na decisão agravada, não tendo se manifestado a agravante especificamente quanto à ausência de ofensa constitucional direta, fundamento autônomo e suficiente a sustentar a inviabilidade do recurso extraordinário. Assim, por exemplo:
+    “AGRAVO INTERNO. AGRAVO DO ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS APTOS, POR SI SÓS, PARA SUSTENTAR A DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO NA ORIGEM. HIPÓTESE DE NÃO CONHECIMENTO. 1. Não pode ser conhecido o agravo do art. 1.042 do CPC/2015 quando não impugna especificamente a decisão que inadmitira o recurso extraordinário. 2. Agravo interno a que se nega provimento” (ARE n. 1.138.577-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2018).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.080.691-AgR, de minha relatoria, Plenário, DJe 27.2.2018).
+    Nada há a prover quanto às alegações da agravante, mantendo-se a decisão agravada por subsistirem os fundamentos não infirmados.
+    6. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de março de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
