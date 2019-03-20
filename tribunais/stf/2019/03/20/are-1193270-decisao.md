@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à condenação dos réus pela prática do crime previsto no artigo 121, § 2º, do Código Penal. No extraordinário cujo trânsito pretendem alcançar, os recorrentes apontam a violação do artigo 5º, incisos XLVI e LVII, da Constituição Federal. Aguem a nulidade da sentença por ausência de fundamentação da dosimetria da pena .
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    PENAL. PROCESSO PENAL. APELAÇÃO. SENTENÇA CONDENATÓRIA. HOMICÍDIO QUALIFICADO. PRELIMINAR DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO DA DOSIMETRIA DA PENA. NÃO ACOLHIMENTO. DECISÃO DE PRIMEIRO GRAU DEVIDAMENTE MOTIVADA. TESE DE LEGÍTIMA DEFESA PUTATIVA POR PARTE DO APELANTE CLAUDIOMAR FRANCISCO DA SILVA E DE AUSÊNCIA DE PARTICIPAÇÃO DA APELANTE MARGARIDA LIRA DA SILVA NO DELITO. NÃO ACOLHIMENTO. TESES DEVIDAMENTE APRECIADAS E AFASTADAS PELO CONSELHO DE SENTENÇA. PEDIDO DE REFORMA DA DOSIMETRIA DAS PENAS. DESNECESSÁRIO REPARO NO QUANTUM FIXADO. REPRIMENDA IMPOSTA DE MODO RAZOÁVEL E ADEQUADO AO CASO CONCRETO. PLEITO DE REVOGAÇÃO DA CUSTÓDIA PREVENTIVA DO RÉU. NÃO ACOLHIMENTO. IMPERIOSIDADE DE MANUTENÇÃO DO ENCARCERAMENTO. SEGREGAÇÃO PREVENTIVA FUNDAMENTADA NA NECESSIDADE DE GARANTIA DA ORDEM PUBLICA. SUPOSTA PERICULOSIDADE DO ACUSADO EVIDENCIADA PELO MODUS OPERANDI EMPREGADO. NECESSIDADE DA CUSTÓDIA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. ACUSADO QUE PERMANECEU FORAGIDO E FOI PRESO EM OUTRO ESTADO DA FEDERAÇÃO. ADEQUAÇÃO DA MEDIDA EXTREMA. PARECER DA PGJ NESSE SENTIDO. RECURSO IMPROVIDO. UNANIMIDADE.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 20 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
