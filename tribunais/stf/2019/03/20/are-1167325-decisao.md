@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravos interpostos contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Amapá, assim ementado:
+    “PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO POSSESSÓRIA ENTRE PARTICULARES. COMPETÊNCIA. JUSTIÇA ESTADUAL. 1) Em ação possessória envolvendo particulares, na qual se discute exclusivamente situação de fato (posse), não há que se falar competência da Justiça Federal, ainda mais quando ausente qualquer interesse de intervenção da União, devendo, pois, a Justiça Estadual processar e julgar o feito. Precedentes da Corte Estadual. 2) Em outros feitos envolvendo conflitos de mesma natureza, os processos foram deslocados à Justiça Federal que os devolveu ao primitivo juízo, ao fundamento de ausência de potencial prejuízo à União, considerando se tratar de ação possessória envolvendo particulares. 3) Agravo de instrumento desprovido”. (eDOC 9, p. 17)
+    No recurso extraordinário, interposto por Cláudio Dela Flora Goulart com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 109, I, do texto constitucional.
+    Nas razões recursais, alega-se que o juízo estadual não poderia ter deixado de remeter os autos à Justiça Federal após a manifestação de interesse da União no feito. (eDOC 10, p. 116)
+    Contra o juízo negativo de admissibilidade do RE, tanto o recorrente como a União apresentaram agravo, esta última em caráter adesivo. Reafirma seu interesse na lide sob a ponderação de que as partes originais discutiriam a posse de imóvel de sua propriedade. (eDOC 12, p. 77)
+    É o relatório.
+    Decido.
+    Assiste razão aos agravantes.
+    O Tribunal de origem, ao examinar a espécie dos autos, não reconheceu a existência de interesse da União na causa consignando o seguinte:
+    “No caso concreto, no bojo da mesma demanda, o juiz de primeiro grau deixou consignado que em outros processos envolvendo conflitos de mesma natureza, os processos foram deslocados à Justiça Federal que os devolveu ao primitivo juízo, ao fundamento de ausência de potencial prejuízo à União, considerando se tratar de ação possessória envolvendo particulares”. (eDOC 9, p. 20)
+    Registro, porém, que não consta do acórdão impugnado a indicação de julgado ou processo em que a Justiça Federal tenha negado o interesse federal em causa idêntica à presente.
+    É firme a jurisprudência desta Corte no sentido de que cabe à Justiça Federal decidir quanto à efetiva existência de interesse manifestado pela União em feito em que busca intervir. Ainda que plausível a tese de que a constante e notória devolução à Justiça Comum de demandas iguais à analisada pudesse ser equiparada à própria análise da Justiça Federal quanto à sua competência, o certo é que o ato impugnado não demonstrou minimamente a existência de tal jurisprudência.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Embargos de declaração no recurso extraordinário recebidos como agravo regimental. Competência da Justiça Federal. Interesse da União. Artigo 109, inciso I, da Constituição Federal. Precedentes. 1. A jurisprudência da Corte é firme no sentido de ser competente a Justiça Federal para processar as causas em que a União tenha interesse na lide e, no caso dos autos, houve manifestação expressa desse ente federativo sobre seu interesse. 2. Agravo regimental não provido”. (RE 627.852 ED, rel. Min. Dias Toffoli, Primeira Turma, DJe 16.9.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Constitucional. 3. Competência da Justiça Federal para decidir sobre interesse jurídico nos casos em que há manifestação de empresa pública. Art. 109, I, CF. Prevalência. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (ARE 898.975 AgR, de minha relatoria, Segunda Turma, DJe 2.8.2018)
+    Ante o exposto, conheço do agravo para dar provimento ao recurso extraordinário (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF) e determinar a remessa dos autos principais ao foro federal da situação do imóvel disputado.
+    Publique-se.
+    Brasília, 20 de março de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
