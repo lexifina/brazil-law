@@ -1,0 +1,23 @@
+DECISÃO
+MANDADO DE SEGURANÇA – CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO – ATO DE CONTEÚDO NEGATIVO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. William Akerman Gomes prestou as seguintes informações:
+    Luciano Ramos Canavarro Costa impetrou mandado de segurança, em face de ato do Corregedor Nacional do Ministério Público, visando invalidar a reclamação disciplinar nº 1.00033/2018-50, instaurada contra si, ou, sucessivamente, a decisão de arquivamento do citado procedimento, afirmando haver ofensa ao devido processo legal.
+    Relata a formalização da reclamação pelo Corregedor-Geral do Ministério Público do Estado do Maranhão, perante o Conselho Nacional, objetivando acompanhar impugnação a vitaliciamento em tramitação no Conselho Superior do Ministério Público do Maranhão.
+    Argui violados os princípios constitucionais da publicidade, da impessoalidade e do contraditório. Aponta omissão do Conselho Nacional diante do arquivamento da reclamação sem que tenha sido oferecida oportunidade de manifestação ao reclamado. Assevera que o Órgão deixou de fiscalizar o devido processo legal nos procedimentos administrativos em andamento no Conselho Superior do Ministério Público estadual. Dizendo da ocorrência de irregularidades, salienta a utilização da reclamação como instrumento de pressão junto aos Procuradores de Justiça para que houvesse o não vitaliciamento.
+    Assinala inexistir conteúdo negativo no ato coator, justificada, conforme articula, a competência originária do Supremo.
+    Indica haver ofensa à dignidade da pessoa humana e aos preceitos fundamentais da Lei Maior. Requer, no campo precário e efêmero, seja determinada a suspensão dos efeitos da decisão administrativa de arquivamento, proferida na reclamação disciplinar nº 1.00033/2018-50, e assegurada a intimação prévia do impetrante para manifestação. Postula, alfim, o reconhecimento da nulidade da reclamação disciplinar instaurada ou, sucessivamente, a invalidação do arquivamento.
+    2. Percebam os parâmetros objetivos revelados. O Plenário do Conselho Nacional do Ministério Público determinou o arquivamento da reclamação disciplinar nº 1.00033/2018-50, em virtude da perda de objeto, ante a exoneração do impetrante, por meio do Ato nº 321/2018-GPGJ do Ministério Público do Estado do Maranhão.
+    Confiram trecho da manifestação do membro auxiliar da Corregedoria Nacional do Ministério Público, adotada, como razões de decidir, pelo Corregedor Nacional:
+    […]
+    Inicialmente, vale destacar que a presente Reclamação Disciplinar perdeu o objeto com o advento da exoneração do Promotor de Justiça Luciano Ramos Canavarro Costa, conforme Ato n. 0321/2018-GPGJ do Ministério Público do Estado do Maranhão.
+    Pelo que consta dos fólios, o objeto da Reclamação Disciplinar era exatamente o acompanhamento de pedido de impugnação de vitaliciamento de promotor de justiça do MPMA.
+    Ademais, a partir da leitura cuidadosa do Ato n. 0321/2018-GPGJ, nota-se a motivação administrativa do ato, consistente em “(...) de acordo com a decisão constante do Processo Administrativo n. 16.124/2017 (Impugnação ao Vitaliciamento), transitada em julgado, no qual o E. Conselho Superior do Ministério Público entendeu pela sua não confirmação na carreira, tendo em vista que, no curso do estágio probatório, demonstrou inaptidão para o exercício das funções do cargo de Promotor de Justiça.
+    […]
+    A competência do Supremo é definida a partir de critérios de Direito estrito, cabendo processar e julgar os mandados de segurança impetrados contra atos das autoridades e órgãos citados no artigo 102, inciso I, alíneas “d” e “r”, da Constituição Federal. Considerada essa premissa, o pronunciamento mediante o qual determinado o arquivamento do procedimento administrativo, de cunho negativo, não se mostra passível de impugnação, uma vez que o exame da ação mandamental, nessa situação, implica a revisão de ato formalizado pela instância submetida ao controle do Conselho.
+    O tema foi pacificado pelo Pleno, em 9 de junho de 2011, quando da análise do agravo interno no mandado de segurança nº 27.712, relator o ministro Celso de Mello. Na ocasião, fez ver Sua Excelência:
+    O pronunciamento do Conselho Nacional de Justiça que consubstancie recusa de intervir em determinado procedimento ou, então, que envolva mero reconhecimento de sua incompetência ou, ainda, que nada determine, que nada imponha, que nada avoque, que nada aplique, que nada ordene, que nada invalide, que nada desconstitua não faz instaurar, para efeito de controle jurisdicional, a competência originária do Supremo Tribunal Federal.
+    3. Nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 21 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
