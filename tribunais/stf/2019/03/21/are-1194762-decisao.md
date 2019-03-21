@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que inadmitiu Recurso Extraordinário ao argumento de que, no caso, “foi manejado Incidente de Uniformização simultâneo, cuja tramitação ainda não se encerrou”, incidindo, no caso, o óbice previsto na Súmula 281/STF (fl. 4, Doc. 43).
+    Contra esse argumento, a parte agravante sustenta, em suma, que o extraordinário deve ser admitido pois impugna matéria distinta daquela veiculada no incidente de uniformização de jurisprudência. No mais, repisa os argumentos do apelo extremo relativos à aplicação do Tema 810 da repercussão geral ao caso dos autos.
+    É o relatório. Decido.
+    O recurso não merece prosperar.
+    A jurisprudência desta CORTE entende ser inadmissível a interposição simultânea de incidente de uniformização e de recurso extraordinário contra decisão de turma recursal de juizado especial.
+    Nesse sentido:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS FEDERAIS. INTERPOSIÇÃO SIMULTÂNEA DE INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA E RECURSO EXTRAORDINÁRIO. INSTÂNCIA RECURSAL NÃO ESGOTADA. OFENSIVIDADE AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECEDENTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.” (ARE 843.529-AgR, de minha relatoria, Primeira Turma, DJe de 1/8/2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO SIMULTÂNEA DE INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA E RECURSO EXTRAORDINÁRIO CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL FEDERAL. SUPRESSÃO DE INSTÂNCIA. SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - A jurisprudência desta Corte considera inadmissível o recurso extraordinário interposto contra decisão proferida por Turma Recursal dos Juizados Especiais Federais antes do julgamento de pedido de uniformização interposto concomitantemente contra essa mesma decisão. III – Diante da existência do incidente, pendente de julgamento, não há decisão de única ou última instância, o que daria ensejo à abertura da via extraordinária, circunstância que atrai a incidência da Súmula 281/STF. Precedentes de ambas as Turmas desta Corte. IV - Agravo regimental a que se nega provimento.” (ARE 1.163.829-AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 7/12/2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. TETO. REVISÃO DOS CRITÉRIOS DE REAJUSTE DE BENEFÍCIO. INTERPOSIÇÃO SIMULTÂNEA DE INCIDENTE DE UNIFORMIZAÇÃO E DE RECURSO EXTRAORDINÁRIO CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS ORDINÁRIAS. SÚMULA 281 DO STF. PRECEDENTES. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1.151.037-AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, DJe de 30/11/2018)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 21 de março de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
