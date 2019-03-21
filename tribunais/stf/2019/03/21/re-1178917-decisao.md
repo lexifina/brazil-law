@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EX-SOLDADO TEMPORÁRIO DA POLÍCIA MILITAR DO ESTADO DE SÃO PAULO. SERVIÇO AUXILIAR VOLUNTÁRIO. CONTRATAÇÃO COM BASE NA LEI ESTADUAL 11.064/2002 E NA LEI FEDERAL 10.029/2000. VÍNCULO EMPREGATÍCIO. AUSÊNCIA. ADI 4173/DF. CONSTITUCIONALIDADE. ACÓRDÃO RECORRIDO CONTRÁRIO À JURISPRUDÊNCA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “SOLDADO PM TEMPORÁRIO – Cobrança de indenização pela sonegação de direitos sociais – reconhecimento de tempo de serviço, com expedição de certidão para fins previdenciários – Recurso interposto pela ré – Parcial provimento ao recurso.” (Vol. 14 – fl. 2)
+    Os embargos de declaração opostos foram desprovidos. (Vol. 17 – fls. 1-3)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, II e IX, Constituição Federal. (Vol. 19 – fls. 1-15)
+    O recorrido, em contrarrazões, pugna preliminarmente pelo não conhecimento do recurso, diante da incidência da Súmula 280 do STF, e, caso superado o juízo de admissibilidade, pelo desprovimento do apelo extremo. (Vol. 20 – fls. 1-15)
+    O Tribunal a quo proferiu juízo positivo de admissibilidade. (Vol. 23 – fl. 1)
+    É o relatório. DECIDO.
+    O recurso extraordinário merece prosperar.
+    O Plenário do Supremo Tribunal Federal, na análise da ADI 4.173/DF, Rel. Min. Alexandre de Moraes, DJe de 25/2/2019, julgou parcialmente procedente o pedido formulado para afastar o limite de idade previsto no artigo 3º, I, Lei 10.029/2000. Com efeito, naquela oportunidade fixou-se o entendimento de que a Lei 10.029/2000 – ao estabelecer aos voluntários o direito de recebimento de auxílio mensal de natureza indenizatória, sem quaisquer vínculos empregatícios, trabalhistas, previdenciário ou afins – não viola o artigo 37, I, II e IX, Constituição Federal.
+    Por oportuno, trago à colação a ementa do referido julgado:
+    “FEDERALISMO E RESPEITO ÀS REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA. LEI FEDERAL 10.029/2000. COMPETÊNCIA DA UNIÃO PARA NORMAS GERAIS NA PREVISÃO DE PRESTAÇÃO VOLUNTÁRIA DE SERVIÇOS AUXILIARES NAS POLÍCIAS MILITARES E CORPO DE BOMBEIROS MILITAR (CF, ARTS. 22, INCISO XXI E 144, §7º). CONSTITUCIONALIDADE. AUSÊNCIA DE RAZOABILIDADE NA FIXAÇÃO DE LIMITES DE IDADE. PROCEDÊNCIA PARCIAL.
+    1. As regras de distribuição de competências legislativas são alicerces do federalismo e consagram a fórmula de divisão de centros de poder em um Estado de Direito. A própria Constituição Federal de 1988, presumindo de forma absoluta para algumas matérias a presença do Princípio da Predominância do Interesse, estabeleceu, a priori, diversas competências para cada um dos entes federativos e, a partir dessas opções, pode ora acentuar maior centralização de poder, principalmente na própria União (CF, art. 22), ora permitir uma maior descentralização nos Estados-Membros e nos Municípios (CF, arts. 24 e 30, I).
+    2. A Lei Federal 10.029/2000, que estabeleceu os parâmetros de organização de serviços voluntários nas Polícias Militares e nos Corpos de Bombeiros Militares, possui caráter nacional e foi editada dentro dos limites da competência da União (arts. 22, XXI, e 144, § 7º, da CF). Precedentes.
+    3. É incompatível com a Constituição a limitação máxima de idade para a prestação de quaisquer serviços voluntários na Polícia Militar e no Corpo de Bombeiros Militar. Inconstitucionalidade material da expressão ‘e menores de vinte e três anos’, constante do inciso I do art. 3º da Lei Federal 10.029/2000, por ausência de razoabilidade.
+    4. Ao dispor que os voluntários por ela disciplinados terão direito ao recebimento de auxílio mensal de natureza indenizatória ‘destinado ao custeio das despesas necessárias à execução dos serviços a que se refere essa lei’ (art. 6º), sem a configuração de ‘vínculo empregatício’ ou de ‘obrigação de natureza trabalhista, previdenciária ou afim’, em decorrência da relação jurídica constituída (art. 6º, § 2º), a Lei Federal 10.029/2000 não viola o artigo 37, I, II e IX, da Constituição Federal, dada a diversidade da natureza dos vínculos jurídicos estabelecidos.
+    5. Ação Direta de Inconstitucionalidade julgada parcialmente procedente.” (Grifei)
+    Logo, o acórdão recorrido, ao conceder indenização pelo não gozo de 13º salário e férias anuais, divergiu da orientação firmada pelo Supremo Tribunal Federal no julgamento da referida ADI.
+    Ex positis, com fundamento no disposto no artigo 932, V, CPC, DOU PROVIMENTO ao recurso extraordinário e CONDENO o recorrido nas custas processuais e em honorários advocatícios no patamar de 20% do valor da condenação.
+    Publique-se.
+    Brasília, 21 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
