@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Nayara Paulino Panobianco contra acórdão que, proferido pela Terceira Turma Recursal dos Juizados Especiais do Distrito Federal e dos Territórios, está assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO – PREJUDICIAL DE MÉRITO RECONHECIDA NA ORIGEM – PRESCRIÇÃO ÂNUA. RECURSO CONHECIDO E IMPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Convém assinalar, ainda, que a questão ora em exame foi decidida com base no direito local (Lei distrital nº 7.515/86), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de direito local:
+    “2. A teor do disposto no art. 1º da Lei nº 7.515/1986: ‘O direito de ação contra quaisquer atos relativos a concursos para provimento de cargos e empregos na Administração Direta do Distrito Federal e nas suas Autarquias prescreve em 1 (um) ano, a contar da data em que for publicada a homologação do resultado final.’
+    3. Na presente hipótese o concurso foi homologado em 02/06/2014, como se infere do Edital nº 13-SEAP/SEE, publicado no DODF do dia 03/06/2014, de modo que, aplicada a prescrição ânua, porque a inicial somente foi distribuída em 01/06/2018, o direito da autora está fulminado pelo instituto da prescrição, o que afasta a probabilidade do direito. De modo que não há resultado útil do processo a ser protegido (CPC, art. 305). Precedentes.”
+    Impende ressaltar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.123.233/DF, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.127.584/DF, Rel. Min. ALEXANDRE DE MORAES, v.g.):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO DO DISTRITO FEDERAL. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+    1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão.
+    2. Agravo Regimental a que se nega provimento.“
+    (ARE 928.546-AgR/DF, Rel. Min. EDSON FACHIN)
+    Cumpre observar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    2. Defiro o pretendido benefício da gratuidade, tendo em vista a afirmação feita pela parte ora recorrente, nos termos e para os fins a que se refere a legislação processual (CPC, arts. 98 e 99, “caput” e §§ 3º e 4º, c/c o art. 21, XIX, do RISTF), circunstância essa que não a exonerará, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 21 de março de 2019.
+Ministro CELSO DE MELLO
+Relator
