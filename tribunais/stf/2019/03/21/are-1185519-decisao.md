@@ -1,0 +1,26 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÕES CRIMINAIS. DUPLICATA SIMULADA. ABSOLVIÇÃO IMPOSSÍVEL. Firmadas as provas da autoria e da materialidade, impõe-se a condenação e, do contrário, impõe-se a absolvição.
+    II - FUNDAMENTAÇÃO. AFASTADA A NULIDADE. Devidamente fundamentada a aplicação da agravante consistente no crime continuado, não há como atacar o pedido de nulidade da sentença.
+    III - DOLO. ELEMENTO SUBJETIVO DO TIPO. EMISSÃO DE SUPLICATA SEM LASTRO. No delito duplicata simulada, a missão do título diante da comprovada a inexistência da venda que a lastreie caracteriza o dolo, impondo a condenação do emitente.
+    IV - DOSIMETRIA IRRETORQUÍVEL. Não há falar em correção da pena imposta quando correta a fixação pelo sentenciante, vez que observada atentamente as circunstâncias judiciais, não tendo incorrido em nenhum erro ou exacerbamento na fixação da pena base, aplicada bem próximo ao mínimo legal previsto para o ilícito, em consonância om a análise realizada, em quantidade suficiente para a prevenção e repressão do delito, não merecendo reforma.
+    APELAÇÕES CONHECIDAS. PROVEJO A PRIMEIRA E NEGO PROVIMENTO A SEGUNDA.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação dos arts. 5°, XXXIX; e 93,IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Colho do voto condutor do julgamento proferido pelo Tribunal de Justiça do Estado de Goiás, no que pertine ao exame deste recurso, o seguinte:
+    “[...]
+    Assim, não há como acolher tese referente à inexistência da materialidade e da autoria e muito menos da inexistência dos elementos do núcleo de tipificação do crime de duplicata simulada. Desta forma, inconcebível o pleito da sua absolvição de Vilmar, pois as provas são contundentes em confirmar a ocorrência do delito descrito na denúncia com a efetiva emissão das duplicatas simuladas em face da venda inexistente.
+    […]
+    Vê-se que está pretensão do segundo apelante, Vilmar de Souza, sob o fundamento de que não seria crime duplicata simulada, em face a inexistência da venda, buscando a desclassificação para crime de estelionato totalmente descabida e carece de respaldo legal.
+    Tem-se tanto na doutrina quanto na jurisprudência que, tal fato apresenta-se com. característica do crime duplicata simulada e, até mesmo, pode-se considerá-lo mais grave a forma que constou na descrição do art. 172, do CP, qual seja, a da venda em qualidade ou quantidade diversa àquela registrada na duplicata, pois a inexistência da venda reputa-se mais grave do que a descrição irregular da mercadoria vendida.
+    […]” (págs. 99-100 e 103 do documento eletrônico 5).
+    Observo que o acórdão recorrido decidiu a questão alusiva à tipicidade da conduta do recorrido com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (art. 172 do Código Penal), bem como no conjunto fático-probatório constante dos autos. Dessa forma, o exame das alegadas ofensas ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo, além de incidir, na espécie, a Súmula 279/STF, o que inviabiliza o extraordinário.
+    Além disso, ainda que superado esse óbice, o recurso não prosperaria.
+    Isso porque o entendimento consolidado no HC 72.538/RS, de relatoria do Ministro Marco Aurélio, é no sentido de que
+    “[...] A Lei n. 8.137, de 28 de dezembro de 1990, não expungiu do cenário jurídico, como fato glosado no campo penal, a emissão de fatura, duplicata ou nota que não corresponda a uma venda ou prestação de serviços efetivamente realizados, conduta que se mostra tão punível quanto aquelas que encerram simulação relativamente a qualidade ou quantidade dos produtos comercializados”.
+    Por fim, acerca da apontada nulidade do acórdão recorrido, observo que os Ministros deste Tribunal, no julgamento do AI 791.292-QO-RG/PE, relatado pelo Ministro Gilmar Mendes, reconheceram a repercussão geral (Tema 339) e reafirmaram a jurisprudência no sentido de que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Por oportuno, transcrevo a ementa do referido precedente:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
