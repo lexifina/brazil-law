@@ -1,0 +1,11 @@
+Vistos etc.
+    Referente à Petição STF 68.643/2017:
+    Valdir Xavier “requer seja reconhecido o decurso do prazo prescricional, dada a pena aplicada ao caso concreto, com a consequente declaração da extinção da punibilidade do peticionário, nos termos do art. 110, § 1º c.c. art. 114, ambos do Código Penal.” Afirma “Passados mais de 2 (dois) anos da sentença condenatória e tendo ocorrido o trânsito em julgado para a acusação, imperioso o reconhecimento de que se operou a prescrição da pretensão punitiva estatal da pena imposta, nos termos do art. 114 c.c. 110, §1º, ambos do Código Penal.”
+    Nada colhe.
+    Embora autorizado o reconhecimento da prescrição da pretensão punitiva em qualquer tempo e instância, a teor do art. 61 do Código de Processo Penal, ante a ausência, no presente caso, de elementos que permitam concluir pela ocorrência da prescrição, nada colhe a petição quanto à alegada extinção da punibilidade, a qual, acaso ocorrente, poderá ser declarada pelo juízo executório, que possui todas as informações necessárias sobre eventuais causas interruptivas e suspensivas, que lhe permitem fazer a correta apreciação do pleito. Nesse sentido:
+    "EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS. [...] III – Prescrição da pretensão punitiva. Matéria de ordem pública (CPP, art. 61), que poderá ser arguida a tempo e reconhecida em qualquer instância ou Tribunal, de ofício inclusive (CPP, art. 654, § 2º). IV – Impossibilidade de declarar a extinção da punibilidade do recorrente, porque os autos não estão instruídos com elementos seguros quanto aos marcos interruptivos do lapso prescricional, podendo o pleito ser formalizado no Juízo da Vara de Execução Criminal. V - Embargos de declaração rejeitados.” (AI 600500 AgR-ED, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 09-12-2013)
+     Indefiro o pedido. Não tendo a presente petição o condão de interromper a fluência do prazo recursal e considerado o tempo decorrido desde a publicação do acórdão pelo qual negado provimento ao recurso, em 07.11.2017, certifique-se o trânsito em julgado e, após, baixem-se os autos à origem.
+     Publique-se.
+     Brasília, 21 de março de 2019.
+Ministra Rosa Weber
+Relatora
