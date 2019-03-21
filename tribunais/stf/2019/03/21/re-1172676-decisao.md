@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto por Leonilda Dal’Acqua Kós contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. ATUALIZAÇÃO DA REQUISIÇÃO DE PAGAMENTO.
+    1. Possível a expedição de requisição complementar para o pagamento, pelo INSS, de juros de mora entre a data da conta de liquidação e a data da expedição da Requisição de Pequeno Valor (RPV), ou até a data de inscrição do precatório (1º de julho), em face do entendimento de que o Instituto devedor permanece em mora para com o credor nesse período, de acordo com a interpretação dada ao art. 100 da Constituição Federal e aos artigos. 394 a 401 do Código Civil.
+    2. Recálculo do valor da execução para que sejam contados juros de mora entre a data da conta e a expedição do precatório ou expedição da RPV, na taxa fixada pelo julgado até 29.07.2009, e, a partir de então, pela taxa de juros aplicáveis à caderneta de poupança, recalculando-se, também, a correção monetária, aplicando-se o IPCA-E no período em que anteriormente incidiu a variação da índice oficial de remuneração básica da caderneta de poupança, em razão da decisão proferida pelo STF no julgamento das ADIs nºs 4.357 e 4.425.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 100, § 12, da Constituição. Sustenta que a “Emenda Constitucional n° 62/2009, ao modificar o artigo 100 da CF/88, incluindo, dentre outros, o § 12, passou a reconhecer que enquanto não houver o efetivo pagamento da requisição, há mora da Fazenda Pública, mandando incidir os juros até o efetivo pagamento”.
+    O Plenário Virtual do Supremo Tribunal Federal, nos autos do RE 1.169.289-RG (Tema 1037), de relatoria do Ministro Marco Aurélio, reconheceu a existência de repercussão geral da matéria – incidência de juros de mora no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor (RPV) e o efetivo pagamento, tendo em vista a redação dada pela EC nº 62/2009 ao art. 100, § 12, da Constituição Federal.
+    Diante do exposto, com base no art. com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+       Brasília, 21 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
