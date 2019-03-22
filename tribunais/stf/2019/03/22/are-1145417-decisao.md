@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. DEFERIDO O PLEITO DO ESTADO DE ALAGOAS PARA INTEGRAR A LIDE. CASAS LEGISLATIVAS QUE NÃO POSSUEM PERSONALIDADE JURÍDICA, MAS, TÃO SOMENTE, JUDICIÁRIA. LEGITIMIDADE DO ENTE GOVERNAMENTAL PARA DEFENDER SEUS ÓRGÃOS EM JUÍZO, BEM COMO DEFENDER OS ATOS ADMINISTRIVOS TIDOS POR LESIVOS À DIREITO LÍQUIDO E CERTO. TETO REMUNERATÓRIO. FIXAÇÃO DE SUBTETO POR MEIO DE LEI ORDINÁRIA ESTADUAL. POSICIONAMENTO SEDIMENTADO PELO PLENO DESTE TRIBUNAL DE JUSTIÇA, NO SENTIDO DA IMPOSSIBILIDADE DE O LEGISLADOR INFRACONSTITUCIONAL ESTABELECER LIMITES REMUNERATÓRIOS INFERIORES AO TETO CONSTITUCIONAL, APÓS A EDIÇÃO DA EC 41/2003, A QUAL, DEU NOVA REDAÇÃO AO ART. 37, INCISO XI, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA SEGURANÇA JURÍDICA. NECESSIDADE DE OBSERVÂNCIA DO ENTENDIMENTO FIRMADO, AINDA QUE RESSALVADA A POSIÇÃO PESSOAL DO RELATOR. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO ART. 2º DA LEI ESTADUAL DE Nº 7.348/2012. ILEGALIDADE DO ATO IMPUGNADO. COMPROVAÇÃO DE VIOLAÇÃO À DIREITO LÍQUIDO E CERTO. LEI ESTADUAL DE Nº 7.349/2012. PRESUNÇÃO DE LEGITIMIDADE DOS ATOS ADMINISTRATIVOS. LEI DE RESPONSABILIDADE FISCAL QUE NÃO PODE SER UTILIZADA COMO ÓBICE À IMPLANTAÇÃO DE DIREITOS CONSTITUCIONAL E LEGALMENTE ASSEGURADOS AOS SERVIDORES PÚBLICOS. PRECEDENTES JURISPRUDENCIAIS. SEGURANÇA CONCEDIDA. DECISÃO UNÃNIME.”
+    O recurso busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente alega violação aos arts. 97; e 169, §§ 1º e 3º, da CF.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 282/STF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Carlos Alberto Vilhena, opinou pelo conhecimento e desprovimento do agravo para sequer conhecer do recurso extraordinário. Veja-se a ementa do parecer ministerial:
+    “Recurso Extraordinário com agravo.
+    Mandado de segurança. Servidor público. Subteto remuneratório fixado em lei estadual abaixo do teto constitucional. 7.348/2012. Ordem concedida. Embargos de declaração rejeitados. Recurso extraordinário do ministério público. Seguimento negado. Agravo.
+    Prequestionamento. Ausência. Necessidade de o tema constitucional ter sido abertamente debatido na instância anterior. Situação inocorrente. Súmula 282/STF.
+    A corte local entendeu pela constitucionalidade da lei estadual 7.349/2012 e pela ausência de violação aos comandos da lei de responsabilidade fiscal. Conclusão diferente demandaria análise de normas infraconstitucionais aplicáveis à espécia (Leis estaduais 7.348/2012 e 7.349/2012 e Lei de responsabilidade fiscal). Incidência da Súmula 280/STF. Precedente.
+    O recurso extraordinário não pode ser conhecido pelo permissivo da alínea ‘D’ do inciso III do artigo 102 da Constituição Federal, uma vez que ausente o juízo de constitucionalidade da legislação estadual em face da lei de responsabilidade fiscal.
+    Manifestação pelo conhecimento e desprovimento do agravo para sequer conhecer do recurso extraordinário.”
+    Correto o parecer ministerial, que adoto como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação por remissão (ARE 757.522-AgR, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
