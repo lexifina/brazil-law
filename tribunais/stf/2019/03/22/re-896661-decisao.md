@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, em face de acórdão do Tribunal Regional Federal da 4ª Região, que recebeu a seguinte ementa (Doc. 54):
+    “ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. TÍTULO DECORRENTE DE AÇÃO COLETIVA AJUIZADA PELA ASSOCIAÇÃO DOS ESCRIVÃES DE SANTA CATARINA (AESC). LEGITIMIDADE ATIVA DA EXEQUENTE. INCIDÊNCIA DA LEI Nº 11.960/2009. JUROS DE MORA. CAPITALIZAÇÃO. HONORÁRIOS.
+    Agravo improvido.”
+    Quanto a este acórdão, a UNIÃO ajuizou Recurso Extraordinário (Doc. 65) e Recurso Especial (fls. 27-52, Vol. 7).
+    Em juízo de admissibilidade, o TRF da 4ª Região admitiu o Recurso Especial (fl. 21, Vol. 8; e fl. 1, Vol. 72) e determinou o sobrestamento do Recurso Extraordinário para aguardar o julgamento do Tema 499 da repercussão gral (fl. 19, Vol. 8; fl. 1, Doc. 70).
+    O Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial “para determinar a aplicação, ao presente caso, dos juros aplicados à caderneta de poupança, uma única vez, até o efetivo pagamento, vedada a capitalização mensal de juros, nos termos do art. 1o.-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009” (fl. 38, Vol. 8; e 7, Doc. 77).
+    Interposto Agravo Regimental dessa decisão, o Superior Tribunal de Justiça negou-lhe provimento (fls. 1-2, Doc. 86), assim como foram rejeitados os Embargos de Declaração (fls. 1-2, Doc. 95).
+    Irresignada, a UNIÃO apresentou Recurso Extraordinário (fls. 1-15, Doc. 99) o qual fora admitido (fls. 120-122, Vol. 8; e fls. 1-3, Doc. 108).
+    Remetidos os autos a esta CORTE, o saudoso Min. TEORI ZAVASCKI, determinou a devolução dos autos ao STJ para que aguardasse o julgamento do RE 612.043-RG, Tema 499 (Vol. 9; e fl. 1, Doc. 115).
+    Todavia, aquela Corte Superior entendeu não se aplicar ao caso o aludido precedente, mas, sim o Tema 848, razão pela qual negou seguimento ao extraordinário (fls. 1-4, Doc. 138). Essa decisão transitou em julgado em 30/5/2017 (Doc. 143).
+    Feitos esses esclarecimentos, remanesce pendente de julgamento o Recurso Extraordinário interposto pela UNIÃO em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região. Assim, passo a examiná-lo.
+    No apelo extremo, alega-se que o acórdão recorrido violou os arts. 5º, XXI e XXXVI, da Constituição Federal, uma vez que desconsiderou ser a ora recorrida, parte ilegítima para a execução da sentença que determinou o pagamento, aos escrivães eleitorais representados pela Associação dos Escrivães de Santa Catarina - AESC, da remuneração integral da função comissionada FC-3 previstas nas leis estaduais, mesmo não ostentando a exequente a qualidade de sócia da entidade associativa à época da propositura da ação de conhecimento. Asseverou, ainda, que a matéria recursal guarda identidade com o Tema 499 da repercussão geral (fls. 1-26, Doc. 65).
+    O Tribunal Regional Federal da 4ª Região, ao reanalisar o Recurso Extraordinário, decidiu suspender o sobrestamento anteriormente determinado, e, em juízo de adequação, concluiu que o Tema 499 não possui aderência com o caso em apreço, pois o título executivo determinou de forma clara a sua abrangência a todos os associados da AESC. O acórdão foi assim ementado (fls. 1-2, Doc. 151):
+    “ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO. TEMA 499. AÇÃO COLETIVA AJUIZADA PELA ASSOCIAÇÃO DOS ESCRIVÃES DE SANTA CATARINA - AESC. LEGITIMIDADE ATIVA PARA PROPOR EXECUÇÃO.
+    1. O STF, ao julgar o tema da repercussão geral, declarou a constitucionalidade do art. 2º - A, da Lei 9.494/1997 e fixou a seguinte tese: ‘A eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa de interesses dos associados, somente alcança os filiados, residentes no âmbito da jurisdição do órgão julgador, que o fossem em momento anterior ou até a data da propositura da demanda, constantes da relação jurídica juntada à inicial do processo de conhecimento.’
+    2. No caso dos autos, tendo o acórdão executado expressamente consignado ser devido o pagamento de função comissionada a todos os associados da AESC, não há que se falar em ilegitimidade ativa da parte exequente.
+    3. Deve ser mantido o acórdão proferido em conformidade com o título executivo, não estando enquadrado na questão tratada no tema 499.”
+    É o relatório. Decido.
+    De fato, o Tema 499 não guarda identidade com a hipótese destes autos. Nesse paradigma, foi fixada a seguinte tese:
+    “A eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa de interesses dos associados, somente alcança os filiados, residentes no âmbito da jurisdição do órgão julgador, que o fossem em momento anterior ou até a data da propositura da demanda, constantes da relação jurídica juntada à inicial do processo de conhecimento.”
+    No caso dos autos, consoante a reiterada jurisprudência do STF tem reconhecido em casos idênticos a este, a questão se restringe aos limites da coisa julgada, matéria de natureza infraconstitucional que, inclusive já teve a repercussão geral negada no Tema 848 (ARE 901.963-RG, Rel. Min. TEORI ZAVASCKI).
+    Nesse mesmo sentido, as seguintes decisões transitadas em julgado: ARE 1.087.762, Rel. Min. ROBERTO BARROSO, DJe de 6/11/2017; RE 910.974, Rel. Min. CELSO DE MELLO, DJe de 21/2/2018; ARE 1.069.740, Rel. Min. EDSON FACHIN, DJe de 2/3/2018; ARE 1.070.892, Rel. Min. LUIZ FUX, DJe de 13/11/2018; e RE 909.583, Rel. Min. RICARDO LEWANDOWSKI, DJe de 30/10/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 22 de março de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
