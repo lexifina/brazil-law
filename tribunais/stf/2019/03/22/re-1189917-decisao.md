@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇAO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. SEGURANÇA CONCEDIDA. FARMÁCIA DE MANIPULAÇÃO. ABSTENÇÃO DE ATOS DE VIGILÂNCIA SANITÁRIA. INTERMEDIAÇÃO E CAPTAÇÃO DE RECEITAS PARA MANIPULAÇÃO. LEI FEDERAL 11.2951/09 QUE VEDA EXPRESSAMENTE A CAPTAÇÃO DE RECEITAS. INCIDENTE DE DECLARAÇÃO DE INCONSTITUCIOINIALIDADE. ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL POR AFRONTA AO PRINCÍPIO DA LIVRE INICIATIVA. POSSIBILIDADE DE CAPTAÇÃO DE RECEITAS APENAS ENTRE FILIAIS DA MESMA EMPRESA. A restrição que veda a captação de receitas entre filiais da mesma empresa, contida na Lei Federal n º 11.951/09, é inconstitucional e abusiva, conforme declaração expressa de inconstitucionalidade, em parte, do artigo l º da Lei nº 11.951/09 (que acrescentou o §1°e ao art. 36 da Lei nº 5.991/73) por afronta ao princípio da livre iniciativa e concorrência, pelo Órgão Especial deste TJPR. RECURSO PARCIALMENTE PROVIDO. SENTENÇA MANTIDA NO RESTANTE EM REEXAME NECESSÁRIO, CONHECIDO DE OFÍCIO ” (págs. 168-169 do documento eletrônico 4) .
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa aos arts. 2°, caput e II, e 196, 197 e 200, I, II e VII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário rever a interpretação conferida pelo Tribunal de origem às normas infraconstitucionais aplicáveis ao caso, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso.
+    Com esse entendimento, cito os seguintes julgados desta Corte, entre outros: ARE 1.177.219/PR, Rel. Min. Edson Fachin; ARE 1.164.815/PR, Rel. Min. Rosa Weber; RE 1.046.662/PR, Rel. Min. Luiz Fux; RE 1.037.788/ES, Rel. Min. Dias Toffoli; RE 845.453/PR, de minha relatoria; AI 766.373/ES, Rel. Min. Marco Aurélio; e ARE 1.135.393/SP, Rel. Min. Alexandre de Moraes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 22 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
