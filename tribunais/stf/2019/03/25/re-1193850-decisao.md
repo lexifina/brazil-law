@@ -1,0 +1,21 @@
+RECURSO EXTRAORNIÁRIO. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO SOCIAL. PIS/COFINS. REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA. LEI 13.043/2015. REDUÇÃO DO PERCENTUAL DE APROVEITAMENTO DE CRÉDITOS. PRINCÍPIO DA ANTERIORIDADE. CONTROVÉRSIA ACERCA DO DEFERIMENTO OU INDEFERIMENTO DE MEDIDAS CAUTELARES, PROVIMENTOS LIMINARES OU ANTECIPAÇÃO DE TUTELA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. REINTEGRA. DECRETO Nº 9.393/18. ANTERIORIDADE NONAGESIMAL.
+    A decisão agravada que determinou fosse observada a anterioridade nonagesimal do Decreto 9.393/18 está de acordo com os precedentes desta Corte e do STF.” (doc. 50)
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 150, III, c, e 195, § 6º, da Constituição Federal, sob o argumento de que a alteração do REINTEGRA não caracteriza instituição ou majoração de tributo e, dessa forma, não se submete ao princípio da anterioridade nonagesimal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Esta Suprema Corte firmou jurisprudência no sentido de que não cabe recurso extraordinário contra decisão que defere ou indefere provimento liminar ou antecipação dos efeitos da tutela, por vedação expressa da Súmula 735 deste Tribunal, de seguinte teor: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”. Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DA SÚMULA 735 DO STF.
+    1. A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Súmula 735 do STF.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o art. 85, § 11, do CPC, visto que não houve fixação prévia de honorários advocatícios no presente feito.” (ARE 988.731-AgR, rel. min. Edson Fachin, Primeira Turma, DJe de 7/12/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULA 735 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+    I – Em regra é incabível a interposição de recurso extraordinário para combater decisão que concede ou denega pedido de medida cautelar ou de antecipação de tutela, porque esses provimentos judiciais não são definitivos e, assim, não se ajustam a um dos requisitos do art. 102, III, da Constituição.
+    II – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 987.342-AgR, rel. min. Ricardo Lewandowski, Segunda Turma, DJe de 23/2/2017)
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
