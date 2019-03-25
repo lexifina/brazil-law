@@ -1,0 +1,73 @@
+RECLAMAÇÃO. CONSTITUCIONAL. CIVIL. RESPONSABILIDADE CIVIL DO EMPREGADOR POR DANOS CAUSADOS POR SEUS EMPREGADOS E PREPOSTOS NO EXERCÍCIO DE SUAS FUNÇÕES. ARTIGO 932, INCISO III, DA LEI 10.406/2002. ALEGAÇÃO DE OFENSA À SÚMULA VINCULANTE 10. INOCORRÊNCIA. MERA INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRECEDENTES. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Osmar Miquelato contra decisões proferidas pela 10ª Câmara Cível do Tribunal de Justiça do Estado do Paraná nos autos do Processo 0007098-89.2014.8.16.0045, sob a alegação de afronta ao enunciado da Súmula Vinculante 10.
+    Eis as ementas das decisões ora reclamadas, in verbis:
+    “APELAÇÃO CÍVEL. ‘AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS’. RECURSO DA PARTE REQUERIDA. SENTENÇA DE PARCIAL PROCEDÊNCIA, FUNDAMENTADA NA RESPONSABILIDADE PELO EXTRAVIO DE CHEQUES. CAUSA PETENDI BASEADA NA RELAÇÃO CONTRATUAL ENTRE CLIENTE E ADVOGADO (APLICAÇÃO DA TEORIA DA PERDA DE UMA CHANCE). SENTENÇA QUE DEVE SE ATER AO PEDIDO E À CAUSA DE PEDIR NARRADAS NA INICIAL, SOB PENA DE VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA. SENTENÇA EXTRA PETITA CASSADA À UNANIMIDADE. REJULGAMENTO DO MÉRITO (ART. 1.013, § 3.º, II, DO NCPC). AUSÊNCIA DE PROVA DE QUE O RÉU TERIA SIDO CONTRATADO PARA A PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS PELO AUTOR. RESPONSABILIDADE DO APELANTE QUE SE EXAURIU COM A ENTREGA DOS TÍTULOS EXECUTIVOS PRESCRITOS PARA OUTRO ADVOGADO, PARA O AJUIZAMENTO DA COMPETENTE DEMANDA. CONDUTA NEGLIGENTE DE TERCEIRO, QUE PERDEU AS CÁRTULAS, QUE NÃO PODE SER IMPUTADA AO REQUERIDO. SENTENÇA REFORMADA, A QUE JULGADOS IMPROCEDENTES OS PEDIDOS INICIAIS, COM A INVERSÃO DA SUCUMBÊNCIA EM DESFAVOR DO AUTOR. RECURSO CONHECIDO E PROVIDO, POR MAIORIA.”
+    “EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA. MERO INCONFORMISMO DA PARTE EMBARGANTE. Inexistindo na decisão contradições, omissões, obscuridades ou dúvidas, inviável se torna o acolhimento dos Embargos de Declaração, máxime quando se mostra visível que a intenção do embargante é a rediscussão de temas, não constituindo, todavia, a hipótese, a via processual adequada. PREQUESTIONAMENTO DA MATÉRIA. IMPOSSIBILIDADE, QUANDO NÃO HÁ VÍCIOS A SANAR, E DESNECESSIDADE. INTELIGÊNCIA DO ART. 1.025 DO NCPC. EMBARGOS CONHECIDOS E REJEITADOS.”
+    Narra o reclamante que se cuida, na origem, de ação de indenização por danos materiais por ele ajuizada, com o objetivo de ser reparado pelo réu, com quem firmou contrato para prestação de serviços advocatícios, pela perda de dois cheques que lhes foram confiados para que promovesse a cobrança judicial.
+    Discorre que o juízo de primeiro grau julgou procedente o pedido por ele formulado, responsabilizando o réu pelo extravio dos cheques objeto de discussão e, em sede de apelação, o Tribunal de Justiça do Estado do Paraná reformulou os termos da sentença, “afastando a responsabilidade do Réu advogado, uma vez que ele teria repassado os cheques a outro advogado, seu preposto que desempenhava atividade laboral nas mesmas dependências que o Réu, sob sua supervisão”.
+    Sustenta que, “considerando que no curso da marcha processual ficou evidenciado a entrega dos cheques extraviados para um prestador/preposto do Requerido”, opôs embargos de declaração apontando a necessidade de observância do artigo 932, inciso III, do Código Civil.
+    Aduz que os aclaratórios foram rejeitados pelo órgão fracionário do Tribunal de origem, em desrespeito à Súmula Vinculante 10, na medida em que teria sido negada vigência ao artigo 932, inciso III, do Código Civil.
+    Alega que, “apesar de não ter declarado expressamente a inconstitucionalidade do Art. 932, III da Lei 10.406/02, a decisão reclamada, proferida por órgão fracionário, negou a aplicação do mencionado artigo, em total afronta à regra de Reserva de Plenário”.
+    Requer, liminarmente, a suspensão dos efeitos das decisões recorridas e, no mérito, pugna pela procedência da presente reclamação “para que seja determinada a cassação definitiva (Art. 992, NCPC/15) dos acórdãos proferidos pelo Tribunal de Justiça do Paraná, tanto no Recurso de Apelação como a decisão nos Embargos de Declaração (autos 0007098-89.2014.8.16.0045), com a determinação de que nova decisão seja prolatada, observando o 932, III da Lei Federal 10.406/02”.
+    É o relatório. DECIDO.
+    Ab initio, consigno que reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal. A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a evitar o desvirtuamento do referido instrumento processual. Disso resulta: i) a impossibilidade de utilização per saltum da reclamação, suprimindo graus de jurisdição; ii) a impossibilidade de se proceder a um elastério hermenêutico da competência desta Corte, por estar definida em rol numerus clausus; e iii) a observância da estrita aderência da controvérsia contida no ato reclamado e o conteúdo dos acórdãos desta Suprema Corte apontados como paradigma.
+    A matéria também veio disciplinada pelo novo Código de Processo Civil, que, no artigo 988, prevê as hipóteses de seu cabimento, in verbis:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação:
+    I - proposta após o trânsito em julgado da decisão reclamada;
+    II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.” (Grifei)
+    Antes de examinar a alegada ofensa ao teor da Súmula Vinculante 10, é preciso esclarecer o que ela dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.”
+    In casu, a decisão impugnada proferida em sede de embargos de declaração consignou, in litteris:
+    “[...]
+    Como se vê, o Acórdão explica claramente os motivos pelo qual o requerido não pode ser responsabilizado pela perda dos cheques do autor, utilizando-se das exatas passagens dos depoimentos gravados em audiência, novamente invocados nos Aclaratórios, para concluir pela improcedência dos pedidos iniciais.
+    Além do mais, em relação à possibilidade de responsabilização solidária com fundamento no artigo 932 do Código Civil, o voto condutor do Acórdão consignou com clareza que:
+    ‘Há que se reforçar que a causa de pedir descrita na Inicial, circunscreve-se à responsabilidade do requerido, Dr. Alessandro, pelo extravio dos títulos executivos que lhe foram entregues em mãos para o ajuizamento de demanda, e que, em Alegações Finais, tão só, reporta-se o autor a que o requerido e o Dr. Fábio já teriam atuado em conjunto em outras demandas, e também ocupado o mesmo espaço físico (mov. 91.1), para atrair a responsabilidade daquele.’
+    Portanto, a irresignação do embargante na verdade se traduz no descompasso da decisão embargada com a interpretação das provas que, a seu juízo, poderiam justificar conclusão diversa.
+    Ademais, não se olvide que o Relator não precisa analisar todas as razões apontadas pelo recorrente, nem citar expressamente artigos de Lei invocados, desde que, apreciando o ponto nodal, encontre fundamentos suficientes para motivar a decisão.
+    […]”
+    Com efeito, não houve declaração de inconstitucionalidade de dispositivo legal ou afastamento de sua aplicação sem observância da cláusula de reserva de plenário, mas apenas interpretação da norma infraconstitucional que disciplina a matéria.
+    Dessa forma, não se vislumbra, no presente caso, violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10. Nesse sentido, cito os seguintes julgados:
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO CONSTITUCIONAL. DIREITO TRIBUTÁRIO. IRPJ E CSLL. ART. 43 DO CTN. CONCEITO DE RENDA ACRÉSCIMO. ART. 74 DA MP MP 2.158-35/01. DISPONIBILIDADE ECONÔMICA. EQUIVALÊNCIA PATRIMONIAL. DISPONIBILIZAÇÃO DO LUCRO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. INOCORRÊNCIA.
+    Na esteira da jurisprudência desta Suprema Corte, no caso em que ocorre tão só processo de interpretação legal, função inerente a toda atividade jurisdicional, não há falar em afronta à Súmula vinculante 10.
+    Agravo regimental conhecido e não provido.” (Reclamação 9.195-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 11/03/2019, grifei)
+    “AGRAVO INTERNO. RECLAMAÇÃO. EXAURIMENTO DE INSTÂNCIA. REQUISITO NÃO ATENDIDO. INOBSERVÂNCIA A PRECEDENTE VINCULANTE. RAZÕES DISSOCIADAS DOS FUNDAMENTOS CONSTANTES DA DECISÃO RECLAMADA. ALEGADA OFENSA À SÚMULA VINCULANTE 10. INEXISTÊNCIA NO CASO CONCRETO.
+    1. Nos termos do art. 988, § 5º, inciso II do CPC, o exaurimento das instâncias ordinárias é pressuposto para seu cabimento, quanto tem por fundamento a exigência de respeito a precedente julgado por esta SUPREMA CORTE, em regime de repercussão geral (Rcl 23.476-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe-174; Rcl 25.446/BA, Rel. Min. MARCO AURÉLIO, DJe-038; Rcl 25.523/SE, Rel. Min. DIAS TOFFOLI, DJe-029; Rcl 23.337/SE, Rel. Min. ROSA WEBER, DJe-251).
+    2. As razões da inicial desta reclamação, que se esteiam no RE 586.453, revelam-se totalmente dissociadas do que decidiu o Tribunal Superior do Trabalho, com fulcro no ARE 742.083, que não teve sua repercussão geral reconhecida por esta SUPREMA CORTE.
+    3. O acórdão reclamado apenas interpretou e aplicou o conjunto normativo pertinente de acordo com o caso concreto, não havendo infração à Súmula Vinculante 10 do STF. Nesse sentido: Rcl 27.141-MC (Rel. Min. CELSO DE MELLO, DJe de 14/11/2017); e a Rcl 27.143 (Rel. Min. GILMAR MENDES, DJe de 1º/8/2017).
+    4. Precedente em caso idêntico: Rcl 30844 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, DJe 22-10-2018.
+    5. Agravo interno a que se nega provimento.” (Reclamação 30.561-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 13/02/2019, grifei)
+    Demais disso, divergir do juízo reclamado quanto à conduta do advogado em questão, para ensejar sua responsabilização pelo extravio dos cheques do reclamante, demandaria o reexame do conjunto fático-probatório constante dos autos.
+    Todavia, é cediço que a reclamação constitucional é ação de cognição estreita, na qual não é possível o reexame fático-probatório. Neste sentido, trago à colação os seguintes precedentes, que espelham a pacífica jurisprudência desta Corte:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADC 16. ART. 71, § 1º, DA LEI 8.666/93. TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. CULPA IN VIGILANDO. AUSÊNCIA DE ADERÊNCIA ESTRITA.
+    1. É inviável a reclamação quando o ato reclamado não possui aderência estrita ao paradigma apontado como afrontado.
+    2. Ao contrário do alegado o ato impugnado não contraria a decisão proferida na ADC 16.
+    3. Não é cabível o manejo de reclamação para se obter o reexame do conjunto fático-probatório dos autos.
+    4. Agravo regimental a que se nega provimento, com fixação da multa prevista no art. 1.021, § 4º, CPC.” (Reclamação 28.751-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 26/09/2018, grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. AFRONTA À AUTORIDADE DO DECIDIDO NA ADI Nº 4.815 QUE NÃO SE CONFIGURA. OBRA DE FICÇÃO. AUSÊNCIA DE ESTRITA ADERÊNCIA. INVIABILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO QUE DEU SUPORTE À CONCLUSÃO ALCANÇADA PELA AUTORIDADE RECLAMADA. AUSÊNCIA DE IDENTIDADE MATERIAL COM A DECISÃO PARADIGMA. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO DA RECLAMAÇÃO.
+    1. À míngua de identidade de objeto entre o paradigma invocado e a decisão reclamada, não há como divisar a alegada afronta à autoridade da decisão desta Suprema Corte.
+    2. Inviável o uso da reclamação para reexame de conjunto probatório. Precedentes.
+    3. Agravo interno conhecido e não provido.” (Reclamação 26.884-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 17/11/2017, grifei)
+    “Embargos de declaração em agravo regimental em reclamação.
+    2. Direito Tributário.
+    3. Suposta afronta à decisão proferida na ADI 1.600. Alegação de que receitas omitidas, detectadas pelo fisco estadual, resultariam da atividade de transporte aéreo de passageiros.
+    4. Necessidade de análise do acervo probatório. Impossibilidade.
+    5. A reclamação não é via adequada para produção ou reexame de provas. Não cabimento.
+    6. Ausência de omissão, contradição ou obscuridade.
+    7. Não configuração de situação excepcional. Embargos protelatórios. Imposição de multa.
+    8. Embargos de declaração rejeitados.” (Reclamação 21.690-AgR-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 06/09/2017, grifei)
+    Ex positis, NEGO SEGUIMENTO à presente reclamação, nos termos do artigo 932, inciso VIII, do Código de Processo Civil, combinado com o artigo 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o pedido de medida liminar.
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
