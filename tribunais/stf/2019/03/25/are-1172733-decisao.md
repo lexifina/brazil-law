@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 395):
+    “AGRAVO REGIMENTAL – Ao Relator é permitido proferir decisão monocrática, cuja matéria é de entendimento consolidado no Superior Tribunal de Justiça – Desnecessidade da autorização da poupadora ao IDEC para a propositura da ação – Legitimidade ativa configurada – Os juros da mora são devidos a partir da citação – Utilização da Tabela Prática do Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito – Inteligência do caput e do parágrafo 1º- A, ambos do artigo 557 do Código de Processo Civil – Prequestionamento – A multa imposta tem previsão no parágrafo 2º, do artigo 557 do Estatuto Adjetivo Civil – Recurso improvido, com observação”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, “a”, aponta-se ofensa ao artigo 5º, XXI, XXXVI e 8º, III, da Constituição da República. O Recorrente questiona a legitimidade do exequente para a propositura da execução de sentença, como também os limites da coisa julgada. Alega, em síntese, que a liquidação de sentença é limitada aos filiados do IDEC, residentes no Distrito Federal, que assim o comprovarem quando da propositura da ação.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que no exame do ARE-RG 901.963, de relatoria do Ministro Teori Zavascki, Dje de 16.09.2015 (Tema 848), o Plenário desta Corte concluiu que, por se tratar de matéria infraconstitucional, não possui repercussão geral a questão relativa aos limites subjetivos de sentença condenatória genérica transitada em julgado proferida em ação civil pública ajuizada por associação, seja porque necessária a análise dos limites da coisa julgada, seja por demandar o exame de disposições da Lei 7.347/1985 e do Código de Defesa do Consumidor.
+    No que tange à discussão sobre os limites territoriais da eficácia de sentença transitada em julgado proferida em ação civil pública, ressalto que o Tribunal, no exame do ARE-RG 796.473, de relatoria do Ministro Gilmar Mendes, DJe de 21.10.2014 (Tema 715), reputou ausente a repercussão geral, por se tratar de questão que se resolve no âmbito da interpretação de normas infraconstitucionais.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
