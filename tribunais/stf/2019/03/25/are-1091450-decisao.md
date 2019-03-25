@@ -1,0 +1,27 @@
+Decisão:
+    1. Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+          “APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. REPETIÇÃO DE INDÉBITO. ISSQN. LOCAÇÃO DE BENS MÓVEIS. INCIDÊNCIA DO TRIBUTO FACE A NATUREZA DA ATIVIDADE. LOCAÇÃO DE BENS INCORPÓREOS. O ISSQN, como imposto sobre a circulação de bens que não sejam materiais, implica em movimentação ou circulação econômica de serviços, sendo sua principal característica a utilidade decorrente da transferência do bem incorpóreo e, inobstante não ter a Lei Complementar 56/87 definido o conceito de serviços, mas sim fornecido uma lista das atividades tributáveis, é certo que embora seja defeso incluir novos serviços, é permitido a interpretação extensiva, considerando a atividade de cessão onerosa de uso de bens como atividade tributável.
+    Recurso desprovido”.
+    2. Com a oposição dos embargos de declaração pelo Fisco, o acórdão foi integrado em decisão assim ementada:
+    “EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. PRETENSÃO DE ISENÇÃO DE RECOLHIMENTO DE ISSQN. OMISSÃO RECONHECIDA EM SEDE DE RECURSO EXTRAORDINÁRIO. RECONHECIMENTO DA PRESCRIÇÃO DOS EXERCÍCIOS DE 1991 A 1996 QUE SE IMPÕE. IMPROCEDÊNCIA DO PLEITO DE REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE COMPROVAÇÃO DE QUE O AUTOR TENHA EFETIVAMENTE ARCADO COM OS CUSTOS DO TRIBUTO. INTELIGÊNCIA DO ARTIGO 166 DO CTN E VERBETE SUMULAR N.° 546 DO E. STF.”
+    3. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 93, IX, e 145, § 1°, ambos da CF. Sustenta, em síntese, que arcou com o encargo econômico e recolheu indevidamente o imposto municipal sobre a atividade de locação de bens móveis.
+    4. A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “O recurso também não deve ser admitido, pois o atento exame das razões recursais revela, por fim, que o recorrente pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos.
+    Impositiva, no caso concreto, a aplicação do verbete n. 279, da Súmula do Supremo Tribunal Federal, visto que, para se chegar à conclusão contrária à adotada pelo órgão julgador, necessário seria o reexame do conjunto fático-probatório.
+    (...)
+    À conta de tais fundamentos, DEIXO DE ADMITIR os recursos interpostos com base nas Súmulas 7 do STJ e 279 do STF e nos termos previstos no artigo 541, parágrafo único, do Código de Processo Civil, e 255, §1°, do Regimento Interno do STJ.”
+    5. A pretensão recursal não merece prosperar. De início, no tocante à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nessa linha, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    6. No caso dos autos, note-se que o Tribunal de origem consignou o seguinte:
+    “Em relação à condição imposta pelo art. 166 do Código Tributário Nacional para quem pleiteia a restituição de tributos, observa-se que não há nos autos qualquer comprovação de que a empresa apelante tenha suportado sozinha a carga tributária.
+    Com efeito, não restou demonstrado pela apelante que a mesma tenha efetivamente arcado com o pagamento do tributo. A exigência prevista no artigo 166 do CTN, visa evitar o enriquecimento sem causa, já que poderia implicar em devolução de tributo recolhido por outrem, qual seja, o consumidor final.
+    Dessa forma, a repetição do alegado indébito só poderia ser admitida se a parte demonstrasse cabalmente, por meio de notas fiscais, por exemplo, que não repassou aos seus clientes o ônus financeiro de tributação do ISS, o que não ocorreu no caso dos autos.
+    A mera juntada das guias de ISS não tem o condão de, por si só, comprovar que a apelante suportou sozinha o ônus financeiro da tributação.
+    Portanto, diante do não cumprimento dos requisitos da lei, impõe-se a improcedência do pedido de repetição de indébito.”
+    7. Neste sentido, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da do enunciado da Súmula 279/STF.
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
