@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “REEXAME DA CONTROVÉRSIA, NOS TERMOS DO ART. 1.030, II, DO CPC/2015 — RETRATAÇÃO — PROVIDÊNCIA DESNECESSÁRIA. Débito do INSS apurado em ação acidentária após homologação da conta de liquidação. CORREÇÃO MONETÁRIA — Entendimento do STF no RE n° 870.947 (Tema 810) que não se aplica à espécie. JUROS DE MORA — Incidência entre a data da realização dos cálculos de liquidação e a da inscrição do precatório no orçamento — Admissibilidade, nos termos do que o STF decidiu no RE n° 579.431 (Tema 96), em 1910412017. Mantido o entendimento anteriormente adotado.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput; e 100, § 12, da CF.
+    Quanto à questão acerca da não incidência de juros moratórios aos pagamentos feitos dentro do prazo constitucional, o recurso é inadmissível. Isso porque o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal. Nessa linha, veja-se a ementa do RE 591.085-QO-RG, Rel. Min. Ricardo Lewandowski:
+    “CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II - Julgamento de mérito conforme precedentes. III - Recurso provido”.
+    Esse posicionamento ensejou a edição da Súmula Vinculante 17, assim transcrita: “Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre precatórios que nele sejam pagos”, a qual se encontra plenamente válida mesmo após a Emenda Constitucional nº 62/2009.
+    Quanto à questão sobre os juros e correção monetária, o Supremo Tribunal Federal, nos autos do RE 870.947 (Tema 810), da relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da matéria – constitucionalidade da aplicação dos critérios de correção monetária relativos à caderneta de poupança (Taxa Referencial TR) sobre os débitos da Fazenda Pública, conforme determina o art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009.
+    Cabe lembrar que o julgamento do mencionado paradigma foi iniciado, mas ainda não transitou em julgado.
+     Diante do exposto:
+     (i) quanto à questão da incidência dos juros moratórios durante o trâmite do precatório, nego seguimento ao recurso extraordinário;
+     (ii) quanto à questão da correção monetária e juros, com base no art. com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicado o precedente estabelecido no RE 870.947 (Tema 810).
+    Publique-se.
+          Brasília, 25 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
