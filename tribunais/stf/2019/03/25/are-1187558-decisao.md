@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMENTA: DIREITO ADMINISTRATIVO - SERVIDORES PÚBLICOS DO MUNICÍPIO DE BELO HORIZONTE - FÉRIAS -PRÊMIO - PRESCRIÇÃO - TERMO INICIAL - ATO DE APOSENTADORIA - INOCORRÊNCIA - OPÇÃO PELO REGIME JURÍDICO ESTATUTÁRIO - POSSIBILIDADE DE CONTAGEM DO TEMPO DE SERVIÇO PRESTADO SOB O REGIME CELETISTA - PREVISÃO NA LEI ORGÂNICA MUNICIPAL E NO ESTATUTO DOS SERVIDORES PÚBLICOS MUNICIPAIS.
+    - A contagem do prazo prescricional da pretensão relativa ao direito do servidor às férias-prêmio somente tem inicio com o ato de aposentadoria, conforme entendimento do STJ.
+    - Conforme legislação municipal aplicável ao caso, o tempo de serviço prestado por servidor do Município de Belo Horizonte, sob vínculo celetista, deverá ser computado para fins de concessão de férias -prêmio.
+    DIREITO CONSTITUCIONAL - DIREITO ADMINISTRATIVO -APELAÇÃO - REEXAME NECESSÁRIO - AÇÃO ORDINÁRIA =- SERVIDOR DO MUNICÍPIO DE BELO HORIZONTE - INGRESSO COMO CELETISTA - POSTERIOR OPÇÃO PELA TRANSFORMAÇÃO DO EMPREGO PÚBLICO EM CARGO PÚBLICO - CÔMPUTO DO TEMPO COMO CELETISTA PARA FIM DE CONCESSÃO DE FERIAS -PRÊMIO - IMPOSSIBILIDADE - SENTENÇA REFORMADA - RECURSO PREJUDICADO.
+    - As férias -prêmio são próprias do regime estatutário, beneficiando apenas os servidores ocupantes de cargo publico sujeitos ao mesmo. Assim, o servidor que teve seu regime jurídico transformado de celetista em estatutário só Rode contabilizar, para fim de obtenção de férias - prêmio, o período de serviço prestado sob o novo regime, salvo se a lei local, expressamente, autorizar a contagem do tempo laborado com base no regime celetista, o que não é o caso do Município de Belo Horizonte” (pág. 429 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a e c, da Constituição, sustentou-se, em suma, violação dos arts. 18; 22, I; 40, § 10 e § 12; e 195, § 5°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, destaco que esta Corte, no julgamento do RE 575.526- RG/PR (Tema 122 da Repercussão Geral), de relatoria da Ministra Cármen Lúcia, decidiu que não há repercussão geral em processos que discutam a possibilidade de se deferir a servidor público, cujo regime jurídico foi alterado do celetista para o estatutário, direitos previstos no estatuto dos servidores públicos. Colaciono, por oportuno, a ementa do referido julgado:
+    "DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ALTERAÇÃO DO REGIME CELETISTA PARA ESTATUTÁRIO. DIREITO-PREVISTO NO ESTATUTO DOS SERVIDORES PÚBLICOS. AUSÊNCIA DE TRANSCENDÊNCIA DE INTERESSES. RECURSO EXTRAORDINÁRIO RECUSADO.
+    1. O tema constitucional suscitado no recurso extraordinário - possibilidade de se deferir a servidor público, cujo regime jurídico é alterado do celetista para o estatutário, direito previsto no estatuto dos servidores públicos não tem transcendência -de interesses, -além de ser meramente residual por decorrer da interpretação do art. 19 do Ato das Disposições Constitucionais Transitórias.
+    2. Recurso extraordinário recusado" (RE 575.526 RG/PR, Rel. Min. Cármen Lúcia)
+    Outrossim, com relação à controvérsia envolvendo à contagem em dobro das férias-prêmio para fins de aposentadoria, verifico que não houve manifestação do Tribunal de origem quanto à matéria, tratando-se, assim, de inovação recursal, o que inviabiliza a apreciação neste momento processual.
+    Por fim, não prospera o recurso extraordinário com base na alínea d, inciso III, do art. 102, da Constituição Federal, porquanto o Tribunal de origem não julgou válida lei local contestada em face de lei federal.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
