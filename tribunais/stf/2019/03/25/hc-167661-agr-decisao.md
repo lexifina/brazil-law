@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo regimental em habeas corpus, interposto pela Defensoria Pública do Estado de São Paulo, em favor de Merilly Bizerra Barbosa, contra decisão por mim proferida nestes autos, onde decidi que o decreto da prisão preventiva não carecia de fundamentação idônea, sendo incabível a revogação da constrição cautelar.
+    Na espécie, a defesa busca, em síntese, a concessão de liberdade provisória da paciente.
+    Em consulta ao sítio do Tribunal de Justiça do Estado de São Paulo, constata-se que, em 22.3.2019, a 16ª Vara Criminal do Foro Central Criminal Barra Funda condenou a ré à pena de um ano e quatro meses de reclusão e multa de seis dias-multa, sendo concedido o direito de aguardar o julgamento de eventual apelação em liberdade.
+    Nos autos da Ação Penal 0039425-54.2018.8.26.0050, o magistrado decidiu pela condenação nos seguintes termos:
+    “Ante o exposto, julgo a ação PARCIALMENTE PROCEDENTE e CONDENO PATRÍCIA DE OLIVEIRA DE JESUS, MERILLY BIZERRA BARBOSA e BRENO FELIPE DA SILVA, qualificados nos autos, à pena de 01 (um) ano e 04 (quatro) meses de reclusão e multa de 06 (seis) dias-multa, calculados cada qual em um trigésimo do maior salário mínimo vigente ao tempo do cometimento do delito, com correção monetária desde aquela época, por infração ao artigo 155, §4º, inciso IV, c/c artigo 14, inciso II, ambos do Código Penal. A pena privativa de liberdade será cumprida inicialmente no regime aberto. Todavia, deixo de lhes conceder a substituição da pena privativa de liberdade por restritiva de direitos, já que não preenchem os requisitos subjetivos para tanto e a medida não se revela adequada e suficiente, observando-se a desabonadora conduta social e personalidade voltada à prática de crimes dos réus Breno Felipe da Silva e Merilly Bizerra Barbosa, bem como o fato de terem todos voltado a delinquir, após a prática do crime descrito na denúncia. Os réus poderão apelar em liberdade, observando-se o regime prisional imposto. Expeçam-se alvarás de soltura clausulados. Oportunamente, lance-se o nome dos réus no rol dos culpados e realize-se audiência de ingresso no regime aberto, expedindo-se mandados de prisão para esta finalidade.”
+    Assim, não mais subsiste o objeto deste writ.
+    Ante o exposto, julgo prejudicado o presente agravo, por perda superveniente do objeto, nos termos do art. 21, inciso IX, do RISTF.
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
