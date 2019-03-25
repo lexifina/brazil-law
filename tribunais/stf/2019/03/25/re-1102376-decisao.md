@@ -1,0 +1,28 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Trata-se de recursos – agravo, de um lado, e recurso extraordinário, de outro –, interpostos, respectivamente, pela União e por José Alfredo Alcântara Neto. O agravo foi deduzido contra decisão da Vice-Presidência do E. Tribunal Regional Federal da 1ª Região, que proferiu juízo negativo de admissibilidade do recurso extraordinário interposto contra acórdão emanado desse Tribunal, e o recurso extraordinário foi interposto contra acórdão proferido pelo do E. Superior Tribunal de Justiça.
+    Cumpre assinalar, desde logo, quanto ao apelo extremo deduzido por José Alfredo Alcântara Neto, que o Plenário do Supremo Tribunal Federal, ao julgar o RE 1.133.146/DF, Rel. Min. LUIZ FUX, Tema nº 1.009/RG, reconheceu a existência de repercussão geral da questão constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, nele fixando tese assim consubstanciada:
+    “No caso de declaração de nulidade de exame psicotécnico previsto em lei e em edital, é indispensável a realização de nova avaliação, com critérios objetivos, para prosseguimento no certame.”
+    Observo, ainda, que o Ministério Público Federal, em manifestação do ilustre Subprocurador-Geral da República Dr. CARLOS ALBERTO VILHENA, opinou contrariamente à pretensão deduzida por José Alfredo Alcântara Neto, em parecer assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO.
+    DECISÃO RECORRIDA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO INTERPOSTO PELA UNIÃO E DEU PROVIMENTO AO RECURSO EXTRAORDINÁRIO INTERPOSTO PELO PARTICULAR. APLICAÇÃO DA SÚMULA VINCULANTE 44. AGRAVO REGIMENTAL.
+    CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. PREVISÃO LEGAL. REALIZAÇÃO COM BASE EM CRITÉRIOS SUBJETIVOS. REPROVAÇÃO. IMPOSSIBILIDADE.
+    ‘SE A LEI EXIGE, PARA A INVESTIDURA NO CARGO PÚBLICO, O EXAME PSICOTÉCNICO, NÃO PODE O JUDICIÁRIO DISPENSÁ-LO OU CONSIDERAR O CANDIDATO APROVADO NELE, SOB PENA DE OFENSA AO ART. 37, I, DA CONSTITUIÇÃO’ (AI 422463 AGR), DEVENDO O CANDIDATO SUBMETER-SE A NOVO EXAME COM A UTILIZAÇÃO DE CRITÉRIOS DE AVALIAÇÃO OBJETIVOS. PRECEDENTE.
+    MANIFESTAÇÃO PELO CONHECIMENTO E PROVIMENTO DO AGRAVO REGIMENTAL, PARA RESTABELECER O QUE DECIDIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA E DETERMINAR AO CANDIDATO A REALIZAÇÃO DE NOVO EXAME PSICOTÉCNICO, A SER APLICADO COM A UTILIZAÇÃO DE CRITÉRIOS OBJETIVOS.”
+    O exame da presente causa evidencia que o acórdão emanado do E. Superior Tribunal de Justiça, ao determinar realização de novo exame psicotécnico, ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    De outro lado, no que se refere ao apelo extremo interposto pela União contra o acórdão proferido pelo E. Tribunal Regional Federal da 1ª Região, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento.
+    É que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    Com efeito, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    A mera análise das razões recursais da parte recorrente evidencia a necessidade de exame da questão suscitada nos autos com base em aspectos fático-probatórios e em cláusulas de edital:
+    “Há no edital informações suficientes relativas à avaliação psicológica. Conforme sobredito, a divulgação prévia dos critérios de avaliação e do perfil profissiográfico certamente influenciaria as respostas dos candidatos, podendo contaminar seu resultado e a isonomia do processo.
+    Não bastassem as regras abaixo, houve, quando da convocação para a realização de tal fase do certame, a publicação de edital, específico e descritivo das características de realização da prova/exame de aptidão psicológica:
+    .......................................................................................................
+    Nesse ponto, esclarece-se que o perfil psicológico (com as condições acima descritas) é feito com base em uma série de características que o candidato deve apresentar para futura execução das tarefas do cargo. No caso do teste específico, como informa a organizadora FUNRIO, foram utilizados exames aprovados pelo Conselho Federal de Psicologia:
+    .......................................................................................................
+    Assim, dentro de sua discricionariedade, a Administração decidiu qual seria o modo e o objeto da avaliação psicológica. Definiu-se que seria traçado um perfil profissiográfico, o qual serviria de base para a análise do perfil psicológico dos candidatos, dando maior objetividade ao certame.”
+    Sendo assim, e em face das razões expostas, nego provimento, de um lado, ao recurso extraordinário interposto por José Alfredo Alcântara Neto, por achar-se em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”), e, de outro lado, ao apreciar o ARE deduzido pela União, não conheço do apelo extremo a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro CELSO DE MELLO
+Relator
