@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRETENSÃO DE DEVOLUÇÃO DE PRAZO PARA APRESENTAÇÃO DE DEFESA ADMINISTRATIVA. ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 2º E 97 DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE INOBSERVÂNCIA DO INC. LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CÍVEL - Mandado de Segurança - Pretendida devolução de prazo para apresentação de defesa administrativa - Cabimento - Notificação das autuações pelo Domicílio Eletrônico do Cidadão Paulistano (DEC) - Regularidade da inclusão de ofício da contribuinte no DEC que não dispensa a devida intimação do ato - Publicação do ato que, por sua vez, não identifica de forma precisa a contribuinte (pelo Nome ou CNPJ) apenas pelo CCM em padrão de número que não foi utilizado em nenhuma outra publicação, inviabilizando inclusive a busca da publicação pela própria página do Diário Oficial da Municipalidade - Cerceamento do direito de defesa configurado - Violação ao inciso LV do art. 5º da Constituição Federal - Sentença mantida - Recurso improvido” (fl. 38, e-doc. 3).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O agravante alega contrariados o art. 2º, o inc. LV do art. 5º e o art. 97 da Constituição da República e pede a denegação da segurança.
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 282 do Supremo Tribunal Federal (fl. 78, e-doc. 3).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. A alegação de contrariedade aos arts. 2º e 97 da Constituição da República não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco tendo sido opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    6. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do agravante.
+    7. Pelo exposto, nego provimento a este recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
