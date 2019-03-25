@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de dois recursos extraordinários interpostos contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL. IMPROBIDADE ADMINISTRATIVA. ART. 37, § 4º, DA CONSTITUIÇÃO. NORMA DE EFICÁCIA CONDICIONADA. LEI 8.429/92. IMPOSSIBILIDADE DE RETROAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DA UNIÃO. CABIMENTO.
+    1. Os pedidos elaborados na inicial da presente ‘ação ordinária de reparação de danos em face da prática de ato de improbidade administrativa’ foram baseados no art. 37, § 4º, da Constituição, que estabeleceu que a forma e a gradação das sanções decorrentes de ato de improbidade seriam previstas em lei. O dispositivo constitucional em questão, portanto, não era auto-aplicável e dependia da regulamentação da Lei 8.429/92. Precedentes desta Corte.
+    2. As sanções aplicáveis aos atos de improbidade somente foram graduadas no art. 12 da Lei 8.429/92, que não se aplica aos atos anteriores à sua vigência.
+    3. A lei, como regra, disciplina os fatos futuros, e não os pretéritos, salvo se, expressamente, dispuser em sentido contrário, não podendo, todavia, de forma alguma e sob nenhum pretexto, retroagir para prejudicar direitos e impor sanções inexistentes no ordenamento jurídico à época em que os fatos se verificaram.
+    3. As Leis 3.164/57 (Lei Pitombo Godoy Ilha) e a Lei 3.502/58 (Lei Bilac Pinto) não serviram de fundamento ao pedido. Incabível qualquer manifestação a respeito.
+    4. Irrelevante a discussão acerca da influência da absolvição dos réus na esfera criminal. Mesmo que os atos fossem posteriormente entendidos como ímprobos, não poderiam ser punidos na forma da Lei posterior.
+    5. Perdendo o Ministério Público Federal a Ação de Improbidade por ele proposta, deve a União, entidade da qual aquele é Órgão integrante, arcar com os honorários sucumbenciais devidos à parte demandada.
+    6. Havendo ingressado o Ministério Público Federal com uma demanda visando o bem da sociedade, da coletividade, e não logrando êxito, nada mais correto que essa mesma coletividade, representada pela pessoa jurídica de direito público, ou seja, a União, arque com as despesas que a causa impôs a parte ré, pagando os honorários sucumbenciais que, em regra, são devidos em qualquer demanda, e não apenas na hipótese de ter havido má-fé na sua propositura.
+    7. Falece a apelante Construtora Norberto Odebrecht S/A de interesse recursal, uma vez que, tendo sido julgado improcedente o pedido, a referida parte foi vencedora na ação.
+    8. Apelação da Construtora Norberto Odebrecht S/A não conhecida. Apelações da União e do MPF e remessa oficial, tida por interposta, não providas.”
+    O primeiro recurso extraordinário foi interposto pelo Ministério Público Federal e busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação aos arts. 5º, XXXIX, 37, § 4º, 127, caput, e 129, II, da CF.
+    O segundo recurso extraordinário foi apresentado pela União e busca fundamento no art. 102, III, a, da Constituição. A parte alega ofensa aos arts. 5º, XXXV e LXXIII, 37, § 4º, 93, IX, 127, caput, e 129, III, da CF.
+    O Subprocurador-Geral da República, Rodrigo Janot Monteiro de Barros, opinou pela “prejudicialidade parcial dos recursos e, na parte em que conhecidos, pelo provimento de ambos”.
+    O Superior Tribunal de Justiça, ao dar parcial provimento aos recursos especiais simultaneamente interpostos aos presentes recursos extraordinário, afastou a condenação da União ao pagamento de honorários advocatícios (REsp 1.153.656). A referida decisão transitou em julgado em 1º de julho de 2011. Portanto, quanto a este ponto, os recursos extraordinários perderam seus respectivos objetos.
+    Quanto à questão da aplicação da Lei de Improbidade Administrativa (Lei nº 8.429/1992) relativamente aos ilícitos civis praticados antes de sua vigência, a jurisprudência do Supremo Tribunal Federal não admite sua aplicação retroativa. Confira-se, nessa linha, a ementa do ARE 1.125.761-AgR, Rel. Min. Alexandre de Moraes, que tratou de hipótese muito similar à presente:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPROBIDADE ADMINISTRATIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. LEI 8.429/1992. IRRETROATIVIDADE.
+    1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente.
+    2. A Lei 8.429/92 (Lei de Improbidade Administrativa) não se aplica aos atos praticados antes de sua vigência. Permanece, porém, a possibilidade de ressarcimento ao erário, iniciada com o Decreto 20.910/1932 e Decreto-Lei Federal 3.240/1941; e garantida pela Lei 3.164/1957 (Lei Pitombo-Godói), Lei 3.502/1958 (Lei Bilac Pinto), Lei 4.717/1965 (Ação Popular), Lei 7.347/1985 (Ação Civil Pública), Decreto-Lei 2.300/1986 e Código Civil.
+    3. Agravo Interno a que se nega provimento.”
+    A conclusão adotada pelo Tribunal de origem está em conformidade com a orientação firmada por esta Corte.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado os recursos extraordinários no tocante pedido de exclusão da condenação ao pagamento de honorários advocatícios. Quanto ao mais, com base no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 25 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
