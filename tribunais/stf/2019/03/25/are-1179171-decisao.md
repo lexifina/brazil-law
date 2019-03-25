@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC-7, p. 232):
+    “DECLARATÓRIA. ANULAÇÃO DE ASSEMBLÉIA. SANÇÃO DE EXCLUSÃO. FALTA DE PAGAMENTO DE QUOTAS ASSOCIATIVAS. REGULARIDADE. DIREITO AUSENTE A PARTICIPAÇÃO NO RATEIO DAS QUOTAS DEPOIS DE TRANSFORMADAS EM AÇÕES. MANUTENÇÃO DO JULGADO. IMPROVIMENTO DA APELAÇÃO.
+    No caso presente a Autora deixou por anos a fio de pagar sua taxa de manutenção, sendo por isso desligada da Associação. Todos os atos foram regularmente aprovados por Assembleia Geral, sendo a Autora por diversas vezes comunicada, uma delas com expressa referência de seu nome no jornal "Gazeta Mercantil", mas quedou-se inerte, optando por não emendar sua mora. Somente anos depois, após ter sido transformada a Primeira-Ré (CETIP) em Sociedade Anônima, que teve a Autora interesse em receber essas ações, isso por conta de sua antiga participação na Associação CETIP, sendo que dela já fora regularmente excluída, fato que impede o acolhimento do seu pleito. Sua conduta, depois de longo período de omissão não encontra suporte em lei, maxime quando não se apresenta ilegalidade ou arbitrariedade no ato de seu desligamento associativo, fruto de seu próprio desinteresse em manter o respectivo vínculo.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXIX e XL; da Constituição Federal. Alega, em síntese, violação dos princípios da irretroatividade da lei e da legalidade (eDOC 9, pp. 81/96).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao decidir a questão, assim registrou (eDOC 8, p. 12):
+    “Não enxergo, por idêntica fundamentação dos julgados supra identificados, qualquer violação ao artigo 397, parágrafo único do Código Civil, tendo sido a Apelante regularmente interpelada, tendo demonstrado interesse na sua participação só depois de cerca de sete anos de sua exclusão, visando naturalmente participar de um ganho para o qual fez a livre opção de não contribuir.
+    Ao contrário também do que alega, havia regular previsão de aplicação da penalidade, instituída que foi por Assembleia Geral, para cuja deliberação se fez a necessária e prévia convocação, com inteira e regular publicidade.
+    A deliberação tomada portanto não estava "fora de pauta" e a autoridade de quem aplicou a sanção mostrava-se presente.
+    A matéria já chegou inclusive ao conhecimento do E. Superior Tribunal de Justiça e por decisão recentíssima do culto Ministro LUIS FELIPE SALOMÃO, que não vislumbrou ilegalidade na interpretação do dispositivo estatutário ao apreciar hipótese idêntica, formulada por outro associado que pretendera participar do rateio dos ativos da "nova" CET1P S/A.
+    Por último, só para não passar em branco faço o registro de que a prejudicial de decadência reiterada em sede de Contrarrazões improcedia, haja vista que a alegação é de nulidade de decisão estatutária, não incidindo prazo, sendo oportuno igualmente recordar que poder-se-ia invocar o prejuízo não do desligamento em si da Autora, mas da ciência do prejuízo que a Apelante alega ter sofrido com a transformação da nova S/A.”.
+    Assim, para divergir do entendimento do Tribunal a quo, seria necessário a análise de texto infraconstitucional (Código Civil), além do revolvimento das provas dos autos, o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 279 do STF.
+    Ante o exposto, conheço do agravo para negar provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 25 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
