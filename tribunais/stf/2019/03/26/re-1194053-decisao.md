@@ -1,0 +1,30 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pela 1ª Turma Recursal da Fazenda Pública dos Juizados Especiais do Rio Grande do Sul, está assim ementado:
+    “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. MAGISTÉRIO ESTADUAL. ABONO FAMILIAR. LEI ESTADUAL Nº 6.526/1973. PREENCHIMENTO DOS REQUISITOS.
+    1. Divergem os litigantes acerca do direito da parte autora, servidora pública estadual integrante do quadro do magistério, vínculo temporário, de obter o pagamento de abono familiar.
+    2. Sentença de procedência confirmada por seus próprios fundamentos, nos moldes do artigo 46, última figura, da Lei nº 9.099/95.
+    RECURSO INOMINADO DESPROVIDO. UNÂNIME.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo, desde logo, quanto à alegada violação ao artigo 109, I, da Constituição Federal, que a controvérsia jurídica ora em exame já foi dirimida pela colenda Segunda Turma desta Suprema Corte que, ao julgar o ARE 858.729-ED/RS, Rel. Min. GILMAR MENDES, fixou entendimento consubstanciado em acórdão assim ementado:
+    “Embargos de declaração em recurso extraordinário com agravo recebidos como agravo regimental. 2. Alegada violação ao art. 109, I, da Constituição. O Supremo Tribunal Federal consolidou entendimento de que a mera alegação a existência de interesse do INSS não enseja o deslocamento de competência da Justiça Estadual para a Justiça Federal. Necessidade de análise do caso concreto. 3. Incabível recurso contra despacho que determina devolução dos autos ao Tribunal para aplicação da sistemática da repercussão geral. Inexistência de conteúdo decisório. Precedentes. 4. Agravo regimental a que se nega provimento.” (grifei)
+    Cumpre ressaltar, de outro lado, no tocante às demais alegações, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Observo, ainda, que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 6.526/1973 e Lei Complementar estadual nº 10.098/1994), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de direito local:
+    “Dispõe o art. 118 da Lei Complementar Estadual 10.098/94:
+    .......................................................................................................
+    Vê-se que o benefício está previsto na LC 10.098/94, Estatuto dos Servidores Públicos, não fazendo qualquer distinção entre efetivos e temporários. Estando a parte autora sujeita ao referido Estatuto, consoante se infere da sua própria ficha funcional, impõe-se o reconhecimento do direito alegado, independentemente de pedido administrativo, bastando a informação à administração acerca do nascimento do dependente, o que já faz incidir a legislação.
+    .......................................................................................................
+    Observo, por fim, que o Estado não comprovou que a autora recebe salário família, a fim de elidir a pretensão posta na inicial, ônus que lhe incumbia, a teor do art. 373, inc. II, do NCPC.”
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veicula da no caso em exame (RE 1.166.218/RS, Rel. Min. MARCO AURÉLIO – RE 1.167.386/RS, Rel. Min. CÁRMEN LÚCIA – RE 1.173.647/RS, Rel. Min. ROBERTO BARROSO, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. MAGISTÉRIO. PROFESSORA TEMPORÁRIA. CONTRATO EMERGENCIAL. REGIME GERAL DE PREVIDÊNCIA SOCIAL. ABONO FAMÍLIA. PAGAMENTO. LEI COMPLEMENTAR ESTADUAL 10.098/1994 E LEI ESTADUAL 6.526/1973, AMBAS DO ESTADO DO RIO GRANDE DO SUL. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. INCIDÊNCIA DA SÚMULA 280/STF. NECESSIDADE DE REANÁLISE DO CONJUNTO FÁTICOPROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. RECURSO EXTRAORDINÁRIO INADMISSÍVEL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame de normas infraconstitucionais locais, o que é vedado pela Súmula 280/STF, e do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. Inviável, portanto, o recurso extraordinário.
+    II – Agravo regimental a que se nega provimento.”
+    Cabe destacar, finalmente, que não se demonstrou, considerada  a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 26 de março de 2019.
+Ministro CELSO DE MELLO
+Relator
