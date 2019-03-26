@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. FALTA DE PREQUESTIONAMENTO. RESCISÃO UNILATERAL E SEM MOTIVAÇÃO. CONTRATO COLETIVO COM POUCOS BENEFICIÁRIOS. FATO JURÍDICO RELEVANTE. UMA DAS BENEFICIÁRIAS EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. QUEBRA DA BOA-FÉ OBJETIVA, OFENSA À FUNÇÃO SOCIAL DO CONTRATO E AO PRINCÍPIO DA RAZOABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de discussão acerca da aplicação, ou não, da legislação consumerista, no caso, impede a análise da matéria por esta Corte, à míngua de prequestionamento.
+2. Consoante a jurisprudência desta Corte, "a rescisão do contrato por conduta unilateral da operadora em face de pessoa jurídica com até trinta beneficiários deve apresentar justificativa idônea para ser considerada válida, dada a vulnerabilidade desse grupo de usuários, em respeito aos princípios da boa-fé e da conservação dos contratos" (REsp 1.708.317/RS, Relatora a Ministra Nancy Andrighi, DJe de 20/4/2018). Incidência da Súmula 83/STJ.
+3. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual uma das beneficiárias se encontra em tratamento oncológico.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno, interposto por ALLIANZ SAÚDE S.A., contra decisão desta Relatoria, que conheceu em parte e, nessa extensão, negou provimento ao recurso especial interposto.
+Em suas razões, alega que, embora não tenha sido expressamente mencionado o art. 2º do CDC no acórdão proferido pelo Tribunal de origem, houve o prequestionamento "quando o acórdão se refere a se tratar de relação de consumo" (e-STJ, fl. 329), além de acentuar a inaplicabilidade da legislação consumerista em planos de seguro-saúde, especialmente, diante da ausência de hipossuficiência.
+Acrescenta ser possível a rescisão unilateral do contrato coletivo de seguro-saúde e que foram observadas as disposições estabelecidas pela ANS para promover o cancelamento da apólice.
+Requer, assim, a reforma da decisão recorrida.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Com efeito, a ausência de discussão no acórdão proferido pelo Tribunal de origem acerca da aplicação, ou não, da legislação consumerista, impede a análise da matéria, nos termos da Súmula 356/STF.
+Ademais, a Corte local destacou que o "contrato não é propriamente coletivo, mas em verdade, cuida-se de contrato familiar", tendo em vista que "possui apenas duas famílias e doze pessoas", de modo que "o seu rompimento fere os princípios da boa-fé, da equidade contratual e também de sua função social", além de afirmar que "uma das beneficiárias está em tratamento oncológico" (e-STJ, fls. 220/221).
+Acentuou, ainda, que "não se trata de negar a possibilidade de rescisão contratual, mas de reconhecer que em alguns contratos, como aqueles firmados com operadores de plano de saúde, esta possibilidade é limitada e deve ser motivada" (e-STJ, fl. 223) e que, no caso, não há prova do alegado desequilíbrio econômico para justificar a denúncia do contrato.
+Assim, é correta a aplicação da Súmula 83/STJ, na medida em que o entendimento externado pelo Tribunal local está em consonância com a jurisprudência desta Corte, segundo a qual "a rescisão do contrato por conduta unilateral da operadora em face de pessoa jurídica com até trinta beneficiários deve apresentar justificativa idônea para ser considerada válida, dada a vulnerabilidade desse grupo de usuários, em respeito aos princípios da boa-fé e da conservação dos contratos" (REsp 1.708.317/RS, Relatora a Ministra Nancy Andrighi, DJe de 20/4/2018).
+Deveras, o entendimento quanto à possibilidade, em contratos de plano de saúde coletivos, de resilição unilateral e imotivada, mediante prévia notificação da outra parte com antecedência mínima de sessenta dias, caso haja cláusula contratual autorizativa, deve ser mitigado nas hipóteses em que o contrato de plano de saúde empresarial tenha menos de trinta beneficiários, exigindo-se, nesse último caso, que haja motivação idônea.
+Ademais, esta Corte Superior já decidiu ser inviável a rescisão unilateral do contrato de plano de saúde coletivo, na hipótese de o paciente se encontrar em tratamento médico garantidor da sobrevivência e/ou incolumidade física, como na hipótese dos autos, em que uma das beneficiárias se encontra em tratamento oncológico.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. DANOS MORAIS.FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283 DO STF. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento constante no acórdão recorrido encontra-se em consonância com entendimento desta Corte Superior, no sentido que diante da rescisão do plano de saúde coletivo, os beneficiários possuem o direito de permanecer no plano de saúde, mantidas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes. Precedentes.
+2. O STJ possui firme o entendimento no sentido de que o plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009). Nada obstante, no caso de usuário internado, independentemente do regime de contratação do plano de saúde (coletivo ou individual), dever-se-á aguardar a conclusão do tratamento médico garantidor da sobrevivência e/ou incolumidade física para se pôr fim à avença. Precedentes.
+3.  ..
+4. Agravo interno não provido." (AgInt no AREsp 1.179.353/RJ, Relator o Ministro Luis Felipe Salomão, DJe de 9/3/2018)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
