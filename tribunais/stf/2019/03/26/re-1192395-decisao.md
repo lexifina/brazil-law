@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL TEMPORÁRIO. ABONO FAMILIAR. LEIS 6.526/1973 E 10.098/1994 DO ESTADO DO RIO GRANDE DO SUL. CONCESSÃO. ALEGAÇÃO DE AFRONTA AOS ARTIGOS 2º, 7º, XII, 25, 37, CAPUT, 39, § 3º, 40, CAPUT e § 13, 109, I, E 201, IV, DA CONSTITUIÇÃO FEDERAL E AO ARTIGO 13 DA EMENDA CONSTITUCIONAL 20/1998. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. INADMISSIBILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo nas alíneas a e c do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. MAGISTÉRIO ESTADUAL. ABONO FAMILIAR. LEI ESTADUAL Nº 6.526/1973. PREENCHIMENTO DOS REQUISITOS. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+    1) Inexiste previsão específica no Estatuto do Magistério acerca do pagamento do abono familiar, razão pela qual, aplica-se o disposto no art. 118 da Lei Complementar Estadual 10.098/94.
+    2) Em que pese a autora esteja vinculada ao sistema do RGPS, não percebe o salário família, conforme se verifica por meio de seu contracheque anexado nos autos, assim, não se enquadra na exceção prevista no parágrafo 2º do artigo 2º da Lei Estadual nº 6.526/73, e sim, na regra geral dos funcionários públicos estaduais, a qual não impõe limite de faixa salarial.
+    3) A legislação estadual apenas exige que a parte não receba o salário família, sem prever que o pagamento do abono familiar fica condicionado à tabela do salário família a ser pago pelo INSS, portanto, o que se denota da análise do §2º do artigo 2º da Lei 6.526/73 é que a intenção do legislador foi evitar o pagamento em conjunto do abono familiar e do salário família, o que implicaria no pagamento em duplicidade do mesmo benefício, o que não é o caso dos autos.
+    4) Da análise do histórico funcional da autora (fl. 21), verifico que seus filhos estão cadastrados como dependentes e são menores de 18 anos de idade, de moldes que restou atendido o requisito previsto no inciso I do artigo 118 da Lei 10.098/94.
+    RECURSO INOMINADO DESPROVIDO. UNÂNIME.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º, 7º, inciso XII, 25, 37, caput, 39, § 3º, 40, caput e § 13, 109, inciso I, 201, inciso IV, da Constituição Federal e 13 da Emenda Constitucional 20/1998.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, verifica-se que os artigos 2º, 7º, inciso XII, 25, 37, caput, 39, § 3º, 40, caput e § 13, 109, inciso I, 201, inciso IV, da Constituição Federal e 13 da Emenda Constitucional 20/1998, que a parte agravante considera violados, não foram debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: ‘quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela’.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    (...)
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 139-140 e 175-176)
+    Nesse sentido, AI 738.029-AgR, rel. min. Rosa Weber, Primeira Turma, DJe de 25/6/2013; e ARE 737.360-AgR, rel. min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    II – Agravo regimental improvido.”
+    Relativamente à admissibilidade do recurso com fundamento na alínea c do permissivo constitucional, constata-se que o Tribunal a quo não julgou válida lei ou ato de governo local contestado em face da Constituição Federal, sendo, portanto, incabível o recurso nesse ponto.
+    Por fim, observo que o recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 26 de março de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
