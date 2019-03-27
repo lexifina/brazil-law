@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDORA PÚBLICA MUNICIPAL. REVISÃO DE CÁLCULO DE BENEFÍCIO PREVIDENCIÁRIO: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “AÇÃO ORDINÁRIA - CÁLCULO E PAGAMENTO DE APOSENTADORIA QUE FOI ELABORADO DE FORMA INCORRETA - LEI MUNICIPAL N° 2034/07 QUE DISPÕE SOBRE O PERCENTUAL E FORMA DE CÁLCULO DOS PROVENTOS DE APOSENTADORIA - PERCENTUAL QUE DEVE SER EQUIVALENTE A 80% DA MÉDIA ARITMÉTICA SIMPLES DAS MAIORES REMUNERAÇÕES UTILIZADAS COMO BASE PARA AS CONTRIBUIÇÕES AO REGIME DE PREVIDÊNCIA QUE ESTIVER VINCULADO - RECURSO DESPROVIDO” (fl. 172, vol. 2).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o § 2º do art. 40 da Constituição da República ao argumento de que “o valor do benefício previdenciário da Recorrida resultante da revisão do mesmo seja limitado ao valor da remuneração do cargo então ocupado pela mesma quando de sua aposentadoria” (fl. 153, vol. 1).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 284 do Supremo Tribunal Federal (fl. 199, vol. 2).
+    No agravo, alega o agravante que “a Lei Municipal nº 2034/2007 está subordinada aos termos do quanto ao disposto no art. 40, § 2º, da Constituição Federal, o qual limita o valor dos proventos de aposentadoria ao valor da última remuneração do cargo então ocupado pelo servidor” (fl. 208, vol. 2).
+    Requer “seja-lhe dado provimento de forma a determinar o prosseguimento do recurso extraordinário interposto, dando-lhe provimento ao mesmo a fim de, reformando-se o acórdão proferido, seja determinado que o valor do benefício previdenciário da Agravada, resultante da revisão, deve limitar-se ao valor da última remuneração do cargo então ocupado pela mesma quando de sua aposentadoria, em obediência ao disposto no art. 46, § 2º da Constituição Federal, nos termos do recurso extraordinário interposto” (fl. 208, vol. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Deve ser afastado o fundamento da decisão agravada de incidência da Súmula n. 284 do Supremo Tribunal Federal, pois da leitura das razões recursais é possível compreender a controvérsia e a irresignação do agravante.
+    Entretanto, a superação desse óbice é insuficiente para o acolhimento da pretensão do agravante.
+    5. O Tribunal de origem assentou:
+    “(...) os proventos de aposentadoria da apelada devem mesmo ser calculados de acordo com o percentual equivalente a 80% da média aritmética simples das maiores remunerações utilizadas como base para as contribuições ao regime de previdência a que estiver vinculado.
+      E diante da existência de lei específica do Município que, aliás, tem autonomia para regulamentar os direitos e deveres dos servidores, a irresignação da apelante não merece ser acolhida” (fls. 174-175, vol. 2).
+    A pretensão do agravante exigiria a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal.
+    A apreciação do pleito recursal exigiria, ainda, a interpretação da legislação infraconstitucional aplicável à espécie (Lei municipal n. 2.034/2007). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário e atrair a incidência da Súmula n. 280 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REVISÃO DE APOSENTADORIA. SERVIDOR PÚBLICO MUNICIPAL. LEI 9.886/2012 DO MUNICÍPIO DE FORTALEZA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.160.958-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 18.3.2019).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR MUNICIPAL. REVISÃO DE PROVENTOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.113.893-AgR, de minha relatoria, Tribunal Pleno, DJe 22.8.2018).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento ao presente recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de março de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
