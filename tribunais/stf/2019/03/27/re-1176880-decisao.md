@@ -1,0 +1,15 @@
+DECISÃO: O Instituto Nacional do Seguro Social, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em juízo de retratação pela 2ª Turma Recursal de Santa Catarina teria transgredido preceitos inscritos na Constituição Federal.
+    Cabe salientar, desde logo, com relação à alegada violação à norma inscrita no art. 5º, inciso XXXVI, da Constituição, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impende destacar, por relevante, no tocante às demais alegações, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem apoiou-se em aspectos fático-probatórios:
+    “‘(...) Trata-se o caso de benefício com DIB em 07.02.2000, com a primeira prestação paga em 01.04.2003 (HISCRE1, evento 12),  tendo início o prazo decadencial de dez anos, portanto, no dia primeiro do mês seguinte ao do recebimento da primeira prestação (art. 103 da Lei nº 8.213/91).
+    Contudo, apresentado pedido de revisão administrativa em 05.03.2013, ou seja, aproximadamente cinquenta e cinco dias antes de se operar a decadência, em 01.05.2013, e não havendo notícia, até o presente momento, da decisão administrativa de tal pedido revisional, encontra-se suspenso o prazo decadencial, porquanto não faria sentido exigir revisão administrativa e judicial ao mesmo tempo, só para resguardar a decadência (PADM5, evento 1)’.”
+    Cumpre salientar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por esta Suprema Corte (ARE 678.899-AgR/RS, Rel. Min. DIAS TOFFOLI – ARE 827.948-AgR/SC, Rel. Min. ROBERTO BARROSO – ARE 879.239- -AgR/RS, Rel. Min. ROSA WEBER – ARE 917.089-AgR/PR, Rel. Min. EDSON FACHIN, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço do presente recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 27 de março de 2019.
+Ministro CELSO DE MELLO
+Relator
