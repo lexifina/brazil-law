@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – CONTEMPORANEIDADE – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR –DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara da Comarca de Capão Bonito/SP no processo nº 0001553-14.2017.8.26.0123, condenou o paciente, em 1º de fevereiro de 2019, a 20 anos de reclusão, em regime inicial fechado de cumprimento, e ao pagamento de 2.000 dias-multa, ante o cometimento da infração prevista no artigo 33, cabeça (tráfico de drogas), por duas vezes, da Lei nº 11.343/2006. Destacou a apreensão de 916 pedras de crack (219,70 gramas) e 11 porções de maconha (10,63 gramas), além de R$ 1.490,00 em dinheiro. Negou o direito de recorrer em liberdade, referindo-se à posição de liderança ao arregimentar indivíduos para a comercialização de entorpecentes e à apreensão, com o corréu, de 21 pedras de crack, 8 eppendorfs de cocaína e 1 porção de maconha. Frisou o sentimento de temor por parte de testemunha. Realçou os maus antecedentes, aludindo à condenação anterior, a evidenciar a possibilidade de voltar a delinquir.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 494.232/SP, indeferido liminarmente pelo Relator.
+    O impetrante sustenta a ausência de fundamentação do ato por meio do qual determinada a prisão, afirmando-o abstrato e genérico. Aponta a falta de contemporaneidade dos fatos, ocorridos em 2017. Diz ter permanecido solto durante o curso do processo-crime, circunstância a sinalizar desnecessária a custódia. Sublinha a excepcionalidade da medida. Articula com a violação do princípio da dignidade da pessoa humana.
+    Requer, no campo precário e efêmero, a revogação da preventiva com a imposição de cautelar alternativa. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal estadual revelou a interposição de apelação, pendente de análise.
+    A fase é de apreciação da medida de urgência.
+    2. O Juízo, ao negar o direito de recorrer em liberdade, assinalou a posição de liderança do paciente ao agrupar indivíduos para a comercialização de entorpecentes. Ressaltou a quantidade e a variedade de substâncias encontradas – 916 pedras de crack (219,70 gramas) e 11 porções de maconha (10,63 gramas) –, além de R$ 1.490,00 em dinheiro, bem assim a apreensão de 21 pedras de crack, 8 eppendorfs de cocaína e 1 porção de maconha em poder de corréu. Tem-se demonstrada a periculosidade do paciente. Ocorre que a custódia foi implementada em 1º de fevereiro de 2019, em virtude de fatos alusivos ao dia 21 de fevereiro de 2017. Ante a significativa passagem do tempo, mostrou-se ausente a necessidade da prisão, no que pressupõe a contemporaneidade com o quadro a respaldá-la, sem a qual não há falar em risco concreto à ordem pública.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0001553-14.2017.8.26.0123, da Segunda Vara da Comarca de Capão Bonito/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
