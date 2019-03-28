@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, proferido em execução em mandado de segurança, cuja ementa é a seguinte:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM EXECUÇÃO EM MANDADO DE SEGURANÇA. HABILITAÇÃO DE HERDEIROS. DECISÃO ANTERIOR DEFERINDO A HABILITAÇÃO PARA OUTROS LITISCONSORTES. ISONOMIA. HABILITAÇÃO DIRETA DOS HERDEIROS. POSSIBILIDADE.
+    1. Agravo regimental interposto contra decisão que autorizou a habilitação de herdeiros em mandado de segurança.
+    2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não é cabível a sucessão de partes, ante o caráter mandamental e a natureza personalíssima da demanda, admitindo-se a habilitação, todavia, caso o feito esteja na fase de execução. Precedentes.
+    3. O momento que demarca o limite a partir do qual não mais seria possível a habilitação de herdeiros em mandado de segurança é o trânsito em julgado da fase de conhecimento, e não o dos embargos à execução, cuja oposição pressupõe já ter sido iniciada a fase de cumprimento da decisão judicial.
+    4. Hipótese em que a questão relativa à possibilidade de habilitação de herdeiros no caso de falecimento do impetrante na fase de conhecimento já havia sido enfrentada em relação a outros impetrantes, tendo a Primeira Seção expressamente decidido que ‘o único requisito para a habilitação de herdeiros, no caso em que o impetrante tenha deixado bens, é que se façam representar por meio do espólio, não importando se a data do óbito ocorreu antes ou depois do trânsito em julgado do acórdão exequendo’.
+    5. O respeito à isonomia impede que, no mesmo processo e ante a mesma situação fática, a habilitação de herdeiros seja permitida em relação a alguns dos impetrantes e negada a outros, remetendo-os às vias ordinárias.
+    6. Sobrevindo a morte da parte na fase de cumprimento da decisão judicial um processo de execução, o processo deverá ficar suspenso até a regularização (art. 265, inciso I e § 1º, do CPC). A habilitação de herdeiros destina-se a possibilitar a continuidade do processo, não tendo ligação direta e necessária com a questão relativa à definição dos quinhões hereditários e à divisão dos bens do de cujus.
+    7. A habilitação direta de herdeiros não acarreta prejuízo a eventuais herdeiros que não estejam no processo, uma vez que, para o levantamento dos valores devidos, deverá ser exigida a comprovação formal da partilha de bens, por meio da certidão de inventariança ou do formal e da certidão de partilha, sob pena de os valores ficarem disponíveis unicamente para o espólio (AgRg nos EmbExeMS 11.849/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 13/3/2013, DJe 20/3/2013).
+    Agravo regimental improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, I, da CF.
+    O recurso não deve ser provido, tendo em vista que a solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada, bem como o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 28 de março de 2019.
+      Ministro Luís Roberto Barroso
+Relator
