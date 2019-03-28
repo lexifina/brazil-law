@@ -1,0 +1,33 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (eDOC 5, pp. 2/3):
+    “ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS PÚBLICOS. TÉCNICO JUDICIÁRIO E PROFESSOR. POSSIBILIDADE DE SUBSTITUIÇÃO DO ANALISTA JUDICIÁRIO. PREVISÃO NA LEI DE ORGANIZAÇÃO JUDICIÁRIA. ENQUADRAMENTO NO CONCEITO DE CARGO TÉCNICO. ART. 37, INCISO XVI, ALÍNEA “B”. DA CONSTITUIÇÃO FEDERAL. VIABILIDADE DE CUMULAÇÃO COM PROFESSOR. PRECEDENTE DESTA CORTE EM CASO IDÊNTICO. CONCESSÃO DA ORDEM MANDAMENTAL. AGRAVO INTERNO PREJUDICADO.
+    - Considerando o teor do artigo 269, I da Lei Complementar nº 96/2010, que disciplina as atribuições do cargo de Técnico Judiciário do TJ/PB, autorizando-o a substituir o analista judiciário, nos seus impedimentos, suspeições e outros afastamentos, é de ser dada ao cargo de técnico judiciário também natureza técnica.
+    - O cargo de Técnico Judiciário se enquadra no conceito de técnico, uma vez que exige daquele que o exerce a aplicação de conhecimento específico, notadamente no campo da ciência jurídica. Como se depreende da praxe forense e da observância de seu trabalho diário, suas funções evidentemente exigem a aplicação de conhecimentos jurídicos específicos, especialmente do direito processual civil.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XVI, “b”, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a acumulação é ilegal uma vez que o cargo exercido de Oficial de Justiça do Estado da Paraíba não se enquadra como cargo técnico, notadamente porque trata-se de cargo que exige escolaridade de nível médio, a despeito da determinação do Conselho Nacional de Justiça (CNJ) que reeditou no dia 15 de janeiro a Resolução nº 48, de 2007, que determina que os Tribunais de Justiça de todo o país exijam, nos concursos públicos, nível superior para o cargo de oficial de Justiça ” (eDOC 6, p. 5).
+    A Presidência do TJ/PB admitiu o extraordinário (eDOC 8).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do mandado de segurança, asseverou (eDOC 5, p. 7):
+     “Ao que me parece, a situação narrada pela impetrante se amolda àquela prevista na alínea " b" do mencionado dispositivo.
+    Analisando detidamente o caderno processual, observo que, em 17/05/2001, a impetrante foi nomeada para o cargo de Técnico Judiciário, tendo tomado posse em 05/04/89, no cargo de professor da rede pública estadual.
+    Diante deste contexto, para verificar a licitude, ou não, da acumulação remunerada de cargos, fundamental perquirir se aquele no qual a impetrante exercer junto ao Poder Judiciário, qual seja, Técnico Judiciário, é considerado de natureza técnica na acepção adotada pelo texto constitucional.
+    Para tanto, a meu ver, seria necessária prova de que o desempenho da função de Técnico Judiciário exige conhecimentos profissionais e formação especializada.
+    Considerando o teor do artigo 269, I da Lei Complementar nº 96/2010, que disciplina as atribuições do cargo de Técnico Judiciário do TJ/PB, tal previsão autoriza o técnico judiciário substituir o analista judiciário, nos seus impedimentos, suspeições e outros afastamentos. Por isso, entendo que o cargo de técnico judiciário também possui natureza técnica.
+    (...)
+    Considerando o teor do artigo 269, I da Lei Complementar nº 96/2010, que disciplina as atribuições do cargo de Técnico Judiciário do TJ/PB, tal previsão autoriza o técnico judiciário substituir o analista judiciário, nos seus impedimentos, suspeições e outros afastamentos. Por isso, entendo que o cargo de técnico judiciário também possui natureza técnica.
+    (...)
+    Assim, sendo permitido ao Técnico Judiciário substituir o Analista Judiciário, que nos termos do ato coator da Corregedoria de Justiça é considerado de natureza técnica, entendo como possível o direito da impetrante exercer os dois cargos em questão.
+    (...)
+    Por tudo o que foi exposto, CONCEDO A SEGURANÇA POSTULADA, declarando o direito da impetrante de acumular os cargos de Técnica Judiciária e de Professora, sendo, por conseguinte, ilegal e abusivo o ato coator que determinou o exercício do direito de opção pela impetrante no prazo de 05 (cinco) dias
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à natureza do cargo em face das funções desempenhadas pelo servidor, demandaria o exame da legislação local aplicável à espécie (Lei Complementar Estadual 96/2010), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Administrativo. Natureza dos cargos acumulados. Legislação local. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local e o exame de ofensa reflexa à Constituição. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido.” (ARE 846524 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 18.3.2015)
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACUMULAÇÃO DE CARGOS PÚBLICOS. CARÁTER TÉCNICO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 279 DO STF. A discussão sobre o caráter técnico do cargo que se pretende acumular com o de professor, nos termos da norma da alínea b do inciso XVI do art. 37 da Constituição Federal, exige o exame das provas constantes dos autos e da legislação infraconstitucional pertinente, o que é inviável nesta esfera. Agravo regimental a que se nega provimento.” (AI 512663 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 19.12.2011)
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS PÚBLICOS. NATUREZA DO CARGO. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279 DO STF. DECADÊNCIA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE 1038463 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.8.2017)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do CPC.
+    Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 28 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
