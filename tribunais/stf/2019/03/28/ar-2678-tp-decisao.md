@@ -1,0 +1,17 @@
+DECISÃO
+TUTELA ANTECIPADA – AÇÃO RESCISÓRIA – DECISÃO RESCINDENDA HARMÔNICA COM A JURISPRUDÊNCIA DO TRIBUNAL – INDEFERIMENTO.
+    1. A assessora Dra. Virna Rebouças Cruz prestou as seguintes informações:
+    Ermelinda Zita Block busca rescindir acórdão formalizado no agravo regimental no mandado de segurança nº 29.658/DF, com trânsito em julgado em 9 de abril de 2016. Alega ocorrência de erro de fato e violação literal a disposição de lei, aludindo ao artigo 966, incisos V e VIII, do Código de Processo Civil.
+    Destaca a impetração de mandado de segurança contra pronunciamento do Conselho Nacional de Justiça, constante da Resolução nº 080/2009, mediante o qual declarado vago o Tabelionato de Notas e Especiais da Cidade de Camargo/RS, do qual era titular, considerada irregularidade no concurso de remoção efetuado em 20 de outubro de 1995. O pedido foi julgado improcedente com base em precedentes do Supremo em casos semelhantes. Na sequência, foram interpostos agravo regimental, embargos de declaração e segundos embargos de declaração, desprovidos.
+    A autora afirma haver o concurso de remoção, restrito aos integrantes da carreira, constituído verdadeiro certame. Assinala atendido o princípio da legalidade, realizada a remoção em observância à legislação estadual, ante a inexistência de regulamentação federal. Cita jurisprudência.
+    Diz decaído o prazo para anulação do ato administrativo por meio do qual removida, apontando superado o lapso quinquenal, nos termos da Lei nº 9.784/1999. Assevera desrespeitados os princípios da confiança e da segurança jurídica, no que a anulação do ato ocorreu 10 anos após a publicação. Sublinha a excepcionalidade da situação. Alega ausência de má-fé. Sustenta ser aplicável o artigo 54 da Lei nº 9.784/1999, evocando precedentes dos tribunais superiores sobre o dispositivo. Frisa haver erro de fato, salientando que, no julgamento, utilizou-se jurisprudência inadequada, tendo em vista não se tratar de efetivações e remoções por permuta.
+    Requer o implemento de tutela de urgência, visando suspender os efeitos do acórdão rescindendo, enquanto pendente de análise o tema de fundo desta ação rescisória. Busca, alfim, desconstituir a decisão proferida no mandado de segurança nº 29.658/DF, anulando-se o ato do Conselho Nacional de Justiça questionado e mantendo-se o concurso de remoção.
+    2. O prazo de decadência foi observado, uma vez alcançada a preclusão maior no dia 9 de abril de 2016 e iniciada, em seguida, a fluência do lapso decadencial.
+    A coisa julgada está compreendida no rol das garantias constitucionais, no inciso XXXVI do artigo 5º – “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”. Esta é ato jurídico perfeito, acabado por excelência. A relativização ocorre em via das mais afuniladas, versada na própria Constituição Federal. Pode-se atacá-la mediante ação de impugnação autônoma – a rescisória. De início, deve-se concluir pela incongruência de vislumbrar-se a relevância do articulado, na peça primeira desta ação, contra o que estampado, em termos de direito, em título judicial irrecorrível. A presunção direciona no sentido da prevalência deste último.
+    Conforme fez ver o ministro Teori Zavascki no pronunciamento rescindendo, o insucesso do mandado de segurança impetrado pela autora decorreu de reiteradas decisões do Supremo, inclusive do Plenário.
+    3. Indefiro o pedido de tutela de urgência.
+    4. Citem a ré.
+    5. Publiquem.
+Brasília, 28 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
