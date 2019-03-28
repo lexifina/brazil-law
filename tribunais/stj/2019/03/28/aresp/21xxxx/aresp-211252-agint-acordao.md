@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREVISÃO NA APÓLICE. AGRAVO NÃO PROVIDO.
+1. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+2. Tendo entendido a Corte a quo que os vícios construtivos não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto contra decisão deste Relator, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a parte agravante reitera as razões trazidas no recurso especial, afirmando: I) estar configurada a alegada ofensa ao art. 535 do CPC de 1973; e II) ser devida a cobertura dos vícios de construção pela Apólice do Seguro Habitacional do Sistema Financeiro de Habitação, tendo em vista a devida previsão na apólice. Salienta, ademais, a inaplicabilidade, no caso, das Súmulas 5 e 7 do STJ.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+A parte agravante não trouxe argumentos capazes de infirmar os fundamentos da decisão agravada, a qual deve ser mantida.
+De início, efetivamente, não prospera a alegada ofensa ao art. 535, I e II, do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Quanto à responsabilidade civil da seguradora pelos vícios construtivos, esta Corte de Justiça possui entendimento de que, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+A questão foi assim dirimida na Corte de origem:
+ Quanto ao mérito, os recorridos convencionaram a aquisição dos imóveis há mais de 21 anos, podendo ser constatada a notória falta de conservação, como a ausência de telhas, de acordo com as fotografias de fls. 688 e 715, salientando-se, outrossim, que ocorreram inúmeras modificações nas edificações, como pode ser observado a fls. 689 e 716.
+ Destarte, caberia aos mutuários efetuar a manutenção adequada dos imóveis, porém, é manifesto o abandono existente, o que se verifica facilmente nos documentos acostados a fls. 697 e 733.
+ Destaque-se que a construção abrange casas populares e o projeto devidamente aprovado fora executado, nada havendo nos autos que configure inobservância do pactuado.
+ (..)
+ Assim, o que efetivamente existe é a pretensão dos mutuários de reformar os imóveis às custas da seguradora, o que não se admite, sob pena de configurar enriquecimento sem causa.
+ Importante consignar que o tipo de construção envolve o preço de aquisição, sendo público e notório que as casas em referência tiveram por escopo proporcionar moradia às pessoas de baixa renda, consequentemente, trata-se de imóveis com características populares, cabendo a quem exerce a posse direta efetuar a manutenção necessária.
+ Ademais, o seguro habitacional tem como finalidade única a garantia do credor hipotecário, o qual, em caso de sinistralidade da edificação, teria a diminuição do bem garantidor do mútuo, ou havendo invalidez permanente, ou ainda a morte do mutuário, ficaria impossibilitada a amortização pertinente.
+ Desta forma, não se vislumbra a obrigação da seguradora em fiscalizar ou vistoriar obras de edificação de imóveis que, futuramente, seriam comercializados nos moldes do Sistema Financeiro de Habitação, pois isso cabe ao agente financeiro, que custeia de modo efetivo a construção, mediante garantia hipotecária do terreno, e libera as parcelas em observância ao cronograma físico-financeiro, o que demonstra a ausência de participação das seguradoras nesta fase do empreendimento imobiliário.
+ Além disso, o contrato de seguro tem início por ocasião da aquisição do imóvel, comparecendo, assim, o vendedor, o agente financeiro, que concede o mútuo, ou seja, o credor hipotecário, e, só após esse momento, a seguradora, o que dá ênfase da ausência de cobertura de seguro em fase anterior.
+Nesse contexto, tendo entendido a Corte a quo que os vícios construtivos eventualmente constatados no imóvel não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.305.102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/2/2016, DJe de 19/2/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DANOS CONSTRUTIVOS EM IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. Com base no princípio da dialeticidade recursal, não se conhece do agravo interno que veicula razões dissociadas dos fundamentos da decisão singular.
+3. A conclusão do acórdão recorrido, quanto à legitimidade ativa, adotada com base exclusivamente nos instrumentos anexos ao contrato de seguro, é insuscetível de reexame em sede de recurso especial, em razão do óbice da Súmula 5/STJ.
+4. Verificar se a apólice do seguro habitacional excluiria de modo válido a cobertura de vícios de construção demandaria na interpretação das cláusulas do ajuste, juízo obstado pelo óbice das Súmulas 5 e 7/STJ.
+5. Agravo interno conhecido em parte e, na extensão, desprovido.
+(AgInt no REsp 1.581.014/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/5/2018, DJe de 28/5/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE COBERTURA. AUSÊNCIA DE PREVISÃO. APÓLICE. VÍCIOS DE CONSTRUÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte local, analisando os fatos e as provas dos autos, asseverou que a demandada não pode ser responsabilizada pelos vícios construtivos alegados na exordial, por não estarem cobertos na apólice securitária, a qual, ainda que seja oriunda de pacto de adesão, possui cláusulas expressas.
+2. Infirmar a conclusão do Tribunal estadual (acerca da abrangência dos danos cobertos no contrato de seguro e da clareza de suas cláusulas) exigiria, indubitavelmente, o revolvimento fático-probatório destes autos, inclusive a interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante o disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.184.189/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/3/2018, DJe de 13/3/2018)
+Ademais, na petição de recurso especial, não houve impugnação de fundamentos essenciais e autônomos do acórdão recorrido, quais sejam: I) "o seguro habitacional tem como finalidade única a garantia do credor hipotecário, o qual, em caso de sinistralidade da edificação, teria a diminuição do bem garantidor do mútuo, ou havendo invalidez permanente, ou ainda a morte do mutuário, ficaria impossibilitada a amortização pertinente"; II) "não se vislumbra a obrigação da seguradora em fiscalizar ou vistoriar obras de edificação de imóveis que, futuramente, seriam comercializados nos moldes do Sistema Financeiro de Habitação, pois isso cabe ao agente financeiro, que custeia de modo efetivo a construção, mediante garantia hipotecária do terreno, e libera as parcelas em observância ao cronograma físico-financeiro, o que demonstra a ausência de participação das seguradoras nesta fase do empreendimento imobiliário"; e III) "o contrato de seguro tem início por ocasião da aquisição do imóvel, comparecendo, assim, o vendedor, o agente financeiro, que concede o mútuo, ou seja, o credor hipotecário, e, só após esse momento, a seguradora, o que dá ênfase da ausência de cobertura de seguro em fase anterior".
+Desse modo, incide também a Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Com efeito, é inviável recurso especial que deixa de impugnar os fundamentos autônomos do acórdão recorrido, porquanto, ainda que sejam acolhidas as teses contidas no petitório recursal, afastando-se uns ou alguns dos fundamentos impugnados, existirão outros, suficientes, por si sós, para manter a conclusão do julgado hostilizado. Destarte, de nada adiantará eventual provimento do recurso, se em relação aos outros fundamentos bastantes para sustentar a conclusão do aresto hostilizado, operou-se a preclusão.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM.CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES. SÚMULAS 7 DO STJ E 283 DO STF. AGRAVO NÃO PROVIDO.
+1. A convicção formada pelo Tribunal de origem de inexistência de saldo remanescente a ser levantado pela recorrente decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ).
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.135.148/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe de 6/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. VALOR DAS AÇÕES. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 2. DOBRA ACIONÁRIA. AUSÊNCIA DE CONDENAÇÃO NO TÍTULO EXECUTIVO. INCLUSÃO POSTERIOR. IMPOSSIBILIDADE. SÚMULA 83/STJ. 3. AGRAVO DESPROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica do enunciado n. 283 da Súmula do STF. Precedentes.
+2. A condenação às ações da telefonia móvel necessita de expresso pedido na inicial e, consequentemente, haver condenação expressa no título executivo, não se tratando, portanto, de um consectário lógico das ações da telefonia fixa. Acórdão a quo em harmonia com a jurisprudência desta Corte Superior. Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.107.364/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/11/2017, DJe de 20/11/2017)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
