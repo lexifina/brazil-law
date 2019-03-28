@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LXXI, 7º, IX, e 39, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 280/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Magistério estadual. Adicional noturno. Lei complementar estadual nº 10.098/1994 e Lei estadual nº 6.672/1974. Ofensa a legislação local. Precedentes. 1. Não se abre a via do recurso extraordinário à análise da legislação local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido.” (ARE 778.130-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.10.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor Público Estadual. Magistério. Adicional noturno. Aplicação conforme legislação infraconstitucional (Leis Estaduais 6.672/74 e 10.098/94). 3. Inadmissibilidade do recurso extraordinário. 4. Necessidade do reexame prévio da legislação local. Óbice da Súmula 280 do STF. Precedentes. 5. Agravo regimental a que se nega provimento.” (ARE 780.376-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.02.2014)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. HORAS EXTRAS E ADICIONAL NOTURNO. BASE DE CÁLCULO. DEFINIÇÃO DE REMUNERAÇÃO. LEGISLAÇÃO ESTADUAL. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 728.809-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 11.4.2013)
+    “Ementa: EXTENSÃO AO MAGISTÉRIO PÚBLICO ESTADUAL DE ADICIONAL NOTURNO. 1. Segundo o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, a ausência de lei regulamentando o direito ao adicional noturno do magistério público justifica a aplicação das regras do Estatuto dos Servidores Públicos Civis do Estado (LCE nº 10.098/1994) até a edição de norma legislativa própria. 2. Discussão que envolve aplicação de direito local, sendo, por isso mesmo, matéria de natureza infraconstitucional. 3. Inexistência de repercussão geral.” (ARE 820.903-RG, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 21.10.2014)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de março de 2019.
+Ministra Rosa Weber
+Relatora
