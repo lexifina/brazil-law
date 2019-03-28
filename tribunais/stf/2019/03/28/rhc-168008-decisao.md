@@ -1,0 +1,36 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus com pedido de medida liminar, interposto por Willian Cesar Pavanelli, contra acórdão da Sexta Turma do STJ, nos autos do HC 450.601/SP.
+    Colho o relatório da decisão impugnada:
+    “WILLIAM CEZAR PAVANELLI, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região/SP, que denegou a ordem no HC n. 5002866-41.2018.4.03.0000.
+    Nesta Corte, a defesa alega não haver sido indicada motivação idônea para decretar a prisão preventiva do réu na sentença que o condenou à pena de 4 anos e 8 meses de prisão, em regime fechado, mais multa, como incurso no art. 1º, I, da Lei n. 8.137/1990. Sustenta a inconstitucionalidade da execução da pena antes do trânsito em julgado e assevera que "em diversos outros processos o paciente foi localizado" (fl. 3).
+    Requer, liminarmente e no mérito, a expedição de salvo conduto.
+    Indeferida a liminar (fls. 104-107) e prestadas as informações (fls. 111-112, 114-133 e 139-156), veio o parecer do Ministério Público Federal (fls. 136-137), que opinou pela denegação da ordem. (eDOC 2, p. 92)
+    No STJ, a ordem foi denegada.
+    Nesta Corte, reitera os pedidos formulados naquele Tribunal. No caso, o recorrente se volta contra a sentença, na parte em que se decretou a prisão preventiva. Sustenta que respondeu toda a instrução em liberdade e que não há motivo para a decretação da prisão preventiva.
+    A PGR opina pelo desprovimento do recurso.
+    É o relatório.
+    Decido.
+    Analiso, pois, a decisão impugnada:
+    “Considerando a gravidade do delito praticado, que culminou em prejuízo de grande monta aos cofres públicos (R$ 4.501.762,03), aliado ao fato de que os réus se ocultam das intimações e deliberadamente se furtam ao cumprimento dos comandos judiciais, trazendo ao Juízo grande incerteza quanto à efetiva aplicação da lei penal, decreto a prisão preventiva dos sentenciados, com base nos artigos 312 e 313, inciso I, do CPP.” (eDOC 1, p. 40)
+    Ao apreciar o habeas corpus, registrou o TRF3:
+    “A decisão encontra-se suficientemente fundamentada.
+    No caso dos autos, segundo o juízo sentenciante, somente após inúmeras tentativas os réus foram localizados para citação e apresentaram, então, defesa escrita por meio de procurador constituído. Contudo, os réus e seus patronos não compareceram a nenhuma das audiências designadas, tendo sido decretada a revelia. Salienta aquele juízo que a defesa informou nos autos diversas localidades do país onde os réus poderiam ser intimados para comparecer à audiência de instrução e julgamento, sendo que algumas delas sequer existiam. Afirma, ainda, que os réus ludibriaram diversos oficiais de justiça, nos termos das certidões negativas juntadas aos autos e transcritas na sentença, ocultando-se e frustrando diversas diligências que visavam intimação, tudo com intuito de protelar o andamento da ação penal e atingir eventual prazo prescricional.
+    É de se considerar suficientemente fundamentada a decisão que, invocando elementos concretos dos autos, foi infirmada pela prova pré-constituída, sendo descabido o pedido de liberdade formulado no presente writ.
+    Verifica-se que não é a ausência dos réus o fundamento para a decisão, mas sim porque, a toda evidência, que os mesmos buscaram esquivar-se, vez que não compareceram nas audiências e nem informaram endereço correto de intimação, enfim, várias manobras processuais dos pacientes, obrigando o magistrado, com fundamento nos requisitos do artigo 312, do CPP, principalmente quanto a aplicação da lei penal, a decretar corretamente a prisão dos pacientes.
+    Assim, patente está, segundo certidões negativas dos oficiais de justiça transcritas na sentença que os pacientes são pessoas ardilosas que por vezes, reiteradamente, esquivaram-se da intimação das audiências de instrução e julgamento, por meio de manobras pouco recomendáveis.
+    Ora, todos esses fatos, por si só, já são o bastante para embasar a custódia cautelar, inexistindo, portanto, na decisão, qualquer vício de natureza formal, capaz de ensejar alguma reparação por este Juízo.
+    Logo, justifica-se plenamente a manutenção do enclausuramento imposto aos pacientes, fundamentado ante a presença de um dos requisitos necessários, objetivando a garantia da aplicação da lei penal.
+    Ademais, a alegação de que o paciente é primário, possui residência fixa e ocupação lícita, preenchendo os requisitos subjetivos, não implica, necessariamente, na revogação da prisão preventiva ou liberdade condicionada ao pagamento de fiança se presentes as circunstâncias do artigo 312 do Código de Processo Penal.” (eDOC 2, p. 21)
+    O STJ, por sua vez, asseverou:
+    “O Juiz, conforme o art. 387, § 2°, do CPP, decretou a prisão preventiva na sentença para garantir a ordem pública, ante a gravidade concreta do delito praticado, que culminou em prejuízo de grande monta aos cofres públicos (R$ 4.501.762,03), além do fato "de que os réus se ocultam das intimações e deliberadamente se furtam ao cumprimento dos comandos judiciais, trazendo ao Juízo grande incerteza quanto à efetiva aplicação da lei penal" (fl. 40, destaquei).
+    O Tribunal local asseverou, ainda, que o acusado e o corréu "reiteradamente esquivaram-se da intimação das audiências de instrução e julgamento, por meio de manobras pouco recomendáveis" (fl. 93). Tais motivos são, a princípio, suficientes para justificar a manutenção da prisão cautelar como forma de respaldar a aplicação da lei penal.”
+    De modo geral, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional para análise de excepcional situação jurídica de constrição da liberdade exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Assim, da leitura dos trechos acima transcritos, verifico que o decreto prisional encontra-se devidamente fundamentado em dados concretos, nos termos decididos pelos juízos inferiores.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Ante o exposto, nego provimento ao presente recurso ordinário em  habeas corpus  , com fundamento no artigo 192, caput , c/c o artigo 312 do RI/STF.
+    Publique-se.
+    Brasília, 28 de março de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
