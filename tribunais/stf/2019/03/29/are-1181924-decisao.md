@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma Recursal de Jurisdição Exclusiva do Tribunal de Justiça do Estado de Minas Gerais.
+    A Presidência do Juizado Especial do TJ/MG não conheceu do recurso em virtude de reconhecer a intempestividade do RE (eDOC 32).
+    Nas razões do agravo, o recorrente sustenta que “Ao contrário do que consta da decisão agravada, a própria lei de regência do processo eletrônico prevê no art. 4º, § 2º, da lei 11.419/06, a ressalva de que os casos previstos por lei exigindo intimação pessoal a mera ciência de intimação eletrônica indicando a data de sessão não supre a intimação pessoal.” (eDOC 47, p. 4)
+    Aduz, ainda, que “como o Estado compõe o corpo denominado de Fazenda Pública, nos termos do art. 183 do NCPC, e, portanto, tem intimação pessoal determinada por lei, em relação ao Este Público deverá ocorrer sempre a intimação pessoal do resultado do julgamento na turma recursal.” (eDOC 47, p. 4)
+    É o relatório. Decido.
+    Inicialmente, verifico que o recurso extraordinário foi interposto em 28.6.2018 (eDOC 29, p. 1), ao passo que a publicação do acórdão recorrido ocorreu em 5.6.2018 (eDOC 27,). Constato, também, que foi feita a intimação pessoal do ente público no dia 6.6.2018 (eDOC 28). Assim, o dies a quo para contagem do prazo é 6.6.2018, quarta-feira, e o termo final é 26.6.2018, terça-feira, conforme preceitua o art. 219 c/c art. 1.003, § 5º, do CPC.
+    Intempestivo, portanto, o recurso extraordinário.
+    Registre-se que, diversamente do assentado nas razões do agravo, considerar-se-á intimado o advogado com a publicação do acórdão recorrido no Diário Eletrônico.
+    Ressalte-se que o Supremo Tribunal Federal já firmou entendimento no sentido da inviabilidade de que seja conferida a prerrogativa de intimação pessoal aos procuradores do Estado. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Civil. Procurador do Estado. Direito a intimação pessoal. Inexistência. Precedentes. 3. Prazo recursal. Intempestividade reconhecida. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+(ARE 952438-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 2.6.2016).
+    “RECURSO - PRAZO - INTIMAÇÃO FICTA VERSUS PESSOAL. Não sendo pessoal, a intimação ocorre normalmente com a ciência a ser dada ao representante do Estado – um procurador. A expedição de mandado não tem o condão de reabrir o prazo recursal considerada a intimação ficta mediante a publicação do ato no Diário Oficial. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.” (AI 590.561-AgR, Rel. Min. Marco Aurélio, Primeira Turma, Dje 23.2.2007).
+    “Recurso extraordinário. Tempestividade. Autarquia federal. O termo inicial do prazo é a publicação da decisão recorrida na imprensa oficial, e não a intimação pessoal do seu procurador, prerrogativa conferida apenas aos advogados da União e procuradores da Fazenda Nacional. Conforme demonstrado no despacho agravado o extraordinário foi interposto pela autarquia seis dias após o término do prazo de trinta dias a que tinha direito, restando, assim, intempestivo. Agravo regimental desprovido.” (RE 308.282-AgR, Rel. Min. Ellen Gracie, Primeira Turma, Dje 26.4.2002).
+    Destaque-se, por fim, que “em processos oriundos dos juizados especiais não se aplicam as prerrogativas de contagem em dobro do prazo recursal” (AI 747.478 AgR-segundo, Rel. Min. Rosa Weber, Primeira Turma, DJe 04.05.2012).
+    Ante o exposto, não conheço do recurso, nos termos do art. 932, III, do CPC e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
