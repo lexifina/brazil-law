@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra decisão proferida pela Vara Única de Presidente Médici – RO, em Embargos Infringentes, assim fundamentada:
+    “(…) Depreende-se da sentença prolatada por este juízo, que o exequente já recebeu o valor referente o débito fiscal (id 911856), sendo que, encontrava-se pendente apenas o valor a título de honorários advocatícios (R$ 93,62), sendo que pretende receber valor extremamente baixo, o qual não paga sequer a diligência do Sr. Oficial de Justiça, sendo que no caso em comento não há possibilidade de intimação do executado por carta (AR), visto que reside na zona rural, conforme endereço indicado na petição de id 7801139.
+    Por tal razão, o feito foi extinto com resolução do mérito, em relação ao débito fiscal executado, e sem resolução do mérito em relação a cobrança dos honorários advocatícios (R$ 93,62), sem prejuízo do direito de renovação de cobrança por outro meio”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LXXVIII. Sustenta que: (i) a garantia de apreciação pelo judiciário de lesão a direito não pode ser negada a pretexto de se tratarem de valores baixos; (ii) é inadmissível que seja permitida a privação do devido processo legal e da razoável duração do processo. Requer seja atribuído efeito suspensivo ao recurso.
+    A pretensão recursal merece prosperar. O Plenário do Supremo Tribunal Federal, no julgamento do RE 591.033-RG, fixou entendimento no sentido de que, ausente legislação do ente federativo competente que dispense o ajuizamento da ação executiva, é inviável ao Judiciário extinguir execuções fiscais ao argumento de que estaria ausente o interesse processual. Confira-se, a propósito, ementa da decisão:
+    “TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. MUNICÍPIO. VALOR DIMINUTO. INTERESSE DE AGIR. SENTENÇA DE EXTINÇÃO ANULADA. APLICAÇÃO DA ORIENTAÇÃO AOS DEMAIS RECURSOS FUNDADOS EM IDÊNTICA CONTROVÉRSIA.
+    1. O Município é ente federado detentor de autonomia tributária, com competência legislativa plena tanto para a instituição do tributo, observado o art. 150, I, da Constituição, como para eventuais desonerações, nos termos do art. 150, § 6º, da Constituição.
+    2. As normas comuns a todas as esferas restringem-se aos princípios constitucionais tributários, às limitações ao poder de tributar e às normas gerais de direito tributário estabelecidas por lei complementar.
+    3. A Lei nº 4.468/84 do Estado de São Paulo - que autoriza a não-inscrição em dívida ativa e o não-ajuizamento de débitos de pequeno valor - não pode ser aplicada a Município, não servindo de fundamento para a extinção das execuções fiscais que promova, sob pena de violação à sua competência tributária.
+    4. Não é dado aos entes políticos valerem-se de sanções políticas contra os contribuintes inadimplentes, cabendo-lhes, isto sim, proceder ao lançamento, inscrição e cobrança judicial de seus créditos, de modo que o interesse processual para o ajuizamento de execução está presente.
+    5. Negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça.
+    6. Sentença de extinção anulada.
+    7. Orientação a ser aplicada aos recursos idênticos, conforme o disposto no art. 543-B, § 3º, do CPC.” (RE 591.033-RG, Rel.ª Min.ª Ellen Gracie)
+    É importante frisar que cada ente federado detém competência legislativa plena para fixar parâmetros que delimitem o valor mínimo passível de ser executado pelo rito da Lei nº 6.830/1980.
+    Na ausência de lei que delimite critérios para o prosseguimento da execução, não está ao arbítrio do julgador eleger o valor que lhe pareça razoável. A despeito de algumas execuções representarem valores diminutos, ainda assim consubstanciam o meio mais eficaz para que o contribuinte seja compelido à regularizar sua situação fiscal. Obstar o exercício de tal faculdade configura ato contrário à exegese que se deve extrair do art. 5º, XXXV, da CF.
+    No mesmo sentido, a seguinte decisão monocrática: ARE 836.502/SP, Rel. Min. Teori Zavaski.
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso para anular a decisão recorrida e determinar o prosseguimento da execução fiscal. Prejudicado o pedido de efeito suspensivo.
+    Publique-se.
+          Brasília, 29 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
