@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 102):
+    “APELAÇÃO - MANDADO DE SEGURANÇA - PROFESSOR ESTADUAL - Pretensão inicial voltada ao reconhecimento do direito líquido e certo da autora de ter expedida a Certidão de Liquidação de Tempo de Serviço, na qual deverão ser contabilizados para fins de aposentadoria os períodos de licença-saúde, faltas médicas e de Assistência Pedagógica das Diretorias de Ensino Recurso da autora - Extinção do feito sem julgamento de mérito no tocante à pretensão voltada ao reconhecimento do tempo de serviço prestado junto à Assistência Pedagógica das Diretorias de Ensino - Razões do recurso da impetrante completamente dissociada do conteúdo da sentença impugnada Ofensa ao princípio da dialeticidade, que inviabiliza o conhecimento do recurso Precedente do STJ Reexame necessário e recurso da Fazenda - O tempo de afastamento por licença-saúde e por falta médica (limitada a 6 ausências no ano) são considerados como de efetivo exercício para fins de aposentadoria especial do magistério Inteligência do art. 40, § 5º, da CF, art. 81, II, da Lei Estadual 10.261/68, e arts. 1º, I e 4º da Lei Complementar Estadual 1.041/2008 Sentença de parcial procedência mantida Recurso da autora não conhecido Reexame necessário e recurso da FESP não providos.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 5º e 10, da Carta da República .
+     A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso com base na Súmula 280 do STF (eDOC 2, pp. 138/139).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao decidir o feito, concluiu que a servidora, durante o gozo de licença-saúde, continua a ter direito ao cômputo desse período de afastamento para fins de aposentadoria, conforme os trechos a seguir transcritos (eDOC 2, pp. 108-110):
+    “(...)
+    Como se vê, o comando normativo exige a comprovação do tempo de efetivo exercício, cabendo à lei estadual, no caso de professor pertencente ao Quadro do Magistério da Secretaria de Estado da Educação, disciplinar o conceito de ‘efetivo exercício’.
+    No âmbito do Estado de São Paulo, o artigo 78, da Lei Estadual nº 10.261/68, traz a regra geral sobre os afastamentos que deve ser entendidos como de efetivo exercício, in verbis: (...)
+     Note-se que, ao contrário do que quer fazer crer a Administração, aludido rol não é taxativo, sendo plenamente possível a existência de que outras normas no ordenamento contenham previsão semelhante. Nessa linha, convém destacar o artigo 81, II, da própria Lei Estadual nº 10.261/68, que de modo categórico permitiu que o tempo de licença para tratamento de saúde fosse computado para efeito de aposentadoria:
+    Artigo 81 Os tempos adiante enunciados serão contados: (...) II para efeito de disponibilidade e aposentadoria, o de licença para tratamento de saúde.
+    A Lei Complementar Estadual 1.041/2008, por seu turno, estipulou que as ausências do servidor fundamentadas no tratamento de saúde devem ser computadas para fins de aposentadoria e disponibilidade (artigo 4º, c.c. art. 1º, I): (...)
+    Como se vê, diante de expressa previsão na legislação estadual, o período em que a impetrante se afastou do serviço em razão de falta médica (até o limite de 6 ausências no ano) ou de licença para tratamento de saúde deve ser considerado como tempo de serviço para fins de aposentadoria especial do magistério.”
+    Acolhidos esses fundamentos, eventual divergência em relação ao entendimento adotado demandaria o exame da legislação local aplicável à espécie (Lei Estadual 10.261/1968 e Lei Complementar Estadual 1.041/2008), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Confiram-se, a propósito, em casos específicos ao dos autos, as seguintes decisões monocráticas: ARE 1.086.921, de minha relatoria, DJe 16.02.2018; ARE 1.116.522, Rel. Min. Gilmar Mendes, DJe 25.04.2018; ARE 1.138.487, Rel. Min. Dias Toffoli, DJe 27.06.2018; ARE 1.137.383, Rel. Min. Ricardo Lewandowski, DJe 22.06.2018 e ARE 1.138.910, Rel. Min. Luiz Fux, DJe 20.06.2018.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
