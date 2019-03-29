@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 79, de 20 de março de 2019
+Assunto: Imposto sobre a Renda de Pessoa Física - IRPF
+CONTRIBUIÇÕES A ENTIDADES DE PREVIDÊNCIA COMPLEMENTAR EFETUADAS NO PERÍODO DE 1º DE JANEIRO DE 1989 A 31 DE DEZEMBRO DE 1995. ABATIMENTO NA APURAÇÃO DA BASE DE CÁLCULO DO IMPOSTO. RENDIMENTOS NÃO CORRESPONDENTES ÀS CONTRIBUIÇÕES DO PERÍODO.
+Na apuração do IRPF, os valores correspondentes às contribuições efetuadas exclusivamente pelo beneficiário no período de 1º de janeiro de 1989 a 31 de dezembro de 1995 podem ser abatidos das importâncias pagas por entidade de previdência complementar a título de complementação de aposentadoria, resgate ou rateio de patrimônio em caso de extinção da entidade de previdência complementar, na forma disciplinada pela Instrução Normativa RFB nº 1.343, de 5 de abril de 2013.
+As importâncias pagas por entidade de previdência complementar das quais se podem abater as contribuições efetuadas exclusivamente pelo beneficiário no período de 1º de janeiro de 1989 a 31 de dezembro de 1995 são as que se tenham originado do cômputo das contribuições desse período, de modo que elas não podem ser abatidas, na apuração do Imposto sobre a Renda (seja por ocasião da incidência na fonte ou do ajuste anual), das importâncias pagas pela entidade (complementação de aposentadoria, resgate ou rateio de patrimônio) que decorram apenas de contribuições efetuadas a partir de 1º de janeiro de 1996.
+Dispositivos Legais: Instrução Normativa RFB nº 1.343, de 5 de abril de 2013, arts. 1º, 2º e 7º.
+[arquivo anexo: SC Cosit nº 79-2019.pdf]
