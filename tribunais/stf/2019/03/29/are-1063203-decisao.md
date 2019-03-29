@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão no qual se manteve a sentença em que se julgou parcialmente procedente o pedido inicial para reconhecer o direito da autora, pensionista de servidor público, de receber as diferenças de remuneração pagas a título de Gratificação de Desempenho do Plano Geral do Executivo – GDPGPE em relação aos valores recebidos a esse mesmo título pelos servidores em atividade de 12/3/2009 até a data de conclusão do 1° ciclo de avaliação.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação dos arts. 5°, XXXV e LIV, e 37, XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG/MT (Tema 660), da relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Além disso, o acórdão recorrido não divergiu do entendimento firmado pelo Supremo Tribunal Federal no julgamento do ARE 1.052.570-RG/PR (Tema 983 da Repercussão Geral), da relatoria do Ministro Alexandre de Moraes, em que foram fixadas as seguintes teses jurídicas:
+    “I - O termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo;
+    II - A redução, após a homologação do resultado das avaliações, do valor da gratificação de desempenho paga aos inativos e pensionistas não configura ofensa ao princípio da irredutibilidade de vencimentos”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites legais.
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
