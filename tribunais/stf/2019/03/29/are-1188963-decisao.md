@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime previsto no artigo 1º, inciso I, da Lei nº 8.137/90. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 1º, inciso III, 2º, 5º, incisos XII, XXXVI, LIII, LIV, LVI e LVII, e 22, inciso I, § 2º, da Constituição Federal. Diz inobservada a coisa julgada e contrariados os princípios do juiz natural e da presunção de inocência. Afirma terem sido utilizadas provas ilícitas.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão impugnada os seguintes trechos:
+    Para que o delito do artigo 1º, da Lei 8.137/90 fique configurado, é preciso que o contribuinte omita informação ou preste declaração falsa à autoridade fazendária (conduta dolosa) com o objetivo de (nexo de causalidade) suprimir tributos (resultado).
+    Os elementos residentes nos autos amparam as alegações da acusação.
+    A autoria e a materialidade delitiva ficaram, pois, devidamente comprovadas. Por oportuno, destaco que o laudo de fls. 83/1100 possui valor probatório, sendo suficiente para provar a alegação da acusação, já que ele foi elaborado por peritos criminais federais - gozando, assim, de presunção de legitimidade - e porque o réu não trouxe aos autos qualquer prova que infirme tal laudo, o que, frise-se, poderia ter sido feito, inclusive em relação à alegação de homonímia, com, por exemplo, uma perícia na documentação que embasou o laudo de fls. 83/100.
+    Acresça-se que a documentação juntada pelo apelante com seu recurso (fls. 653/673) não infirma tal laudo, na medida em que ela não nega os fatos nele apontados: que o réu ordenou duas remessas de numerários para a conta Milano Finance Inc., logo que ele tinha disponibilidade de numerário no exterior não declarado à autoridade fazendária, pois se não o tivesse, não teria como ter feito tais remessas. A documentação trazida pelo réu, em certa medida, antes de infirmar o laudo de fis. 83/100, o corrobora, [...]
+    [...] conforme já demonstrado, a prova residente nestes autos é robusta e suficiente para amparar o édito condenatório, não há como se acolher as alegações do apelante no particular.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de março de 2019.
+Ministro MARCO AURÉLIO
+Relator
