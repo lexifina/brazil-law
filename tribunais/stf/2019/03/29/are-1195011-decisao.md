@@ -1,0 +1,26 @@
+Decisão: Trata-se agravo cujo objeto é a decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, de seguinte teor (eDOC 5, p. 65/66):
+    “Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alíneas a e d, da Constituição da República, por indicada violação aos artigos 24 XII §4º e 42 §2º da CF.
+    O recorrente aponta a existência de repercussão geral de questão constitucional, exigência contida no art. 1035, §2º, do Código de Processo Civil, matéria cuja apreciação é da competência do Col. Supremo Tribunal Federal.
+    No entanto, o recurso não merece trânsito pela alínea a.
+    Com efeito, os dispositivos constitucionais, tidos como violados, não foram apreciados pelo acórdão hostilizado, faltando, assim, o requisito do prequestionamento e nem teve a parte o cuidado de opor embargos declaratórios, nos termos do artigo 1.025 do CPC.
+    Incidem, portanto, os verbetes das Súmulas 282 e 356 do Col. Supremo Tribunal Federal.
+    Sob o pálio da alínea d, o cabimento do recurso extraordinário pressupõe haja a Corte de origem homenageado lei local em face da lei federal. Inexistente tal fato, impossível é entender pelo trânsito do extraordinário. É a hipótese dos autos, onde, em nenhum momento, se enfrenta tal situação.
+    A propósito do tema, o Col. Supremo Tribunal Federal já decidiu, verbis:
+    "(...) 2. O acórdão recorrido não julgou válida lei local contestada em face de lei federal, o que torna incabível a interposição do recurso extraordinário com fulcro no art. 102, III, d, da Constituição Federal. 3. Agravo regimental não provido" (AI 837.757 AgR/SP, Rel. Min. DIAS TOFFOLI, DJe de 19/12/2014). No mesmo sentido: ARE 890.419/SP, Rel. Min. ROBERTO BARROSO, DJe de 28/09/2015.
+    Inadmito, pois, o recurso extraordinário com fundamento no art. 1.030, inc. V, do Código de Processo Civil.” (Grifos no original)
+    Nas razões do agravo, sustenta-se, em suma, que “o Tribunal de origem somente pode apreciar os requisitos intrínsecos e extrínsecos de admissibilidade do recurso, os quais, em hipótese alguma, envolvem o mérito da questão” e que “não há que se falar em reexame de prova, pois a discussão gira em torno da negativa de vigência aos artigos 24, § 4.º, e 40, § 12, da Constituição Federal” (eDOC 5, p. 73).
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos de natureza extraordinária é aferida tanto na origem quanto no destino, o agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Assim, a sua realização pelo juízo a quo não importa em usurpação da competência desta Corte. Nesse sentido:
+    “Embargos de declaração no agravo de instrumento. Recebimento como agravo regimental. Juízo de admissibilidade de recurso extraordinário efetuado pela Corte de origem e análise do seu mérito por esta Corte, em autos de agravo de instrumento. Possibilidade. Precedentes. 1. O juízo prévio de admissibilidade de recursos dirigidos a este Supremo Tribunal Federal deve ser feito pelos Tribunais de origem, sem que isso implique usurpação de competência desta Corte. 2. Discordando a parte da decisão assim proferida, incumbe-lhe interpor agravo de instrumento, que necessariamente será encaminhado a esta Suprema Corte, que poderá apreciar não apenas o aludido juízo de admissibilidade feito pela Corte de origem, mas o próprio mérito da insurgência recursal. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (AI 815975 ED, Primeira Turma, Rel. Min. Dias Toffoli, DJe 14.9.2012)
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal.” (AI 178743 AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 16.5.1997)
+    Registre-se, ainda, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, constata-se que a Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando a incidência à espécie dos óbices das Súmulas 282 e 356 do STF, bem como a não ocorrência da hipótese de cabimento da alínea d do inciso III do art. 102 da Constituição Federal. Entretanto, a parte agravante limitou-se a discorrer sobre possível usurpação pela Corte de origem da jurisdição de titularidade exclusiva deste Supremo Tribunal Federal e que, na hipótese dos autos, não há que se falar em reexame de prova.
+    Constata-se, assim, que o agravo não impugna, especificamente, os fundamentos da decisão agravada, o que torna o seu conhecimento inviável diante do óbice da Súmula 287 do STF.
+    Ante o exposto, não conheço agravo, nos termos do art. 932, III e IV, a, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
