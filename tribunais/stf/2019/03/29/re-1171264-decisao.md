@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 3, pp. 94/95):
+    “APELAÇÃO CÍVEL AÇÃO DECLARATÓRIA C/C TUTELA INIBITÓRIA. IRREGULARIDADE EM ANÚNCIO PUBLICITÁRIO. NECESSIDADE DE AUTORIZAÇÃO PELA COMPANHIA MUNICIPAL DE TRÂNSITO E URBANIZAÇÃO - CMTU. LEI MUNICIPAL N. 10.966/2010. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO FORMULADO NA RECONVENÇÃO A FIM DE QUE A PARTE AUTORA SEJA CONDENADA AO PAGAMENTO DAS MULTAS E RETIRE O ANÚNCIO PUBLICITÁRIO. APELO DA PARTE AUTORA. ALEGAÇÃO DE INCOMPETÊNCIA DA CMTU PARA APLICAÇÃO DE MULTAS. ACOLHIMENTO. IMPOSSIBILIDADE DE APLICAÇÃO DE SANÇÃO PECUNIÁRIA POR SOCIEDADE DE ECONOMIA MISTA. IMPOSSIBILIDADE DE DELEGAÇÃO DE PODER DE POLÍCIA A ENTIDADE PRIVADA. PLEITO DE DECLARAÇÃO DA LEGALIDADE DO ANÚNCIO. PODER JUDICIÁRIO QUE NÃO PODE ATUAR EM SUBSTITUIÇÃO À AUTORIDADE ADMINISTRAIVA. PEDIDO QUE DEVE SER APRECIADO PELA CMTU, QUE DETÉM O PODER DE FISCALIZAÇÃO. LEI MUNICIPAL n. 10.966/2010. AUSÊNCIA DE COMPROVAÇÃO DE QUE O APELANTE PEDIU AUTORIZAÇÃO À CMTU. DEMAIS DISSO, MERA SOLICITAÇÃO DE AUTORIZAÇÃO QUE NÃO DESINCUMBE A AUTORA DE CUMPRIR COM AS DETERMINAÇÕES DA CITADA LEI MUNICIPAL. RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE PROVIDO.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa aos arts. 30, I e II; 37, caput, XIX e XX; e 173, §§ 1º a 5º, do Texto Constitucional.
+    Nas razões recursais, alega-se, em síntese, que “seria ilógico concluir que executando típica atividade estatal delegada por lei específica para a qual foi criada, não poderia a Recorrente aplicar as sanções e penalidades aos particulares em decorrência de sua própria fiscalização.” (eDOC 3, p. 135)
+    É o relatório. Decido.
+    De plano, observo que a questão acerca da possibilidade de aplicação de multa de trânsito por sociedade de economia mista teve a repercussão geral reconhecida por esta Corte no Tema 532 , que tem como paradigma o RE 633.782 RG, da relatoria do Min. Luiz Fux, mas que aguarda o julgamento do mérito.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
