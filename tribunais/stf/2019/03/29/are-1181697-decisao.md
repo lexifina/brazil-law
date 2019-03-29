@@ -1,0 +1,43 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça Militar do Estado de São Paulo, assim ementado (eDOC 4, pp. 103/104):
+    “Policial Militar – transgressão disciplinar de natureza grave – Expulsão – Ação ordinária – nulidade de ato administrativo – improcedência – infringência aos princípios da publicidade, devido processo legal, contraditório e ampla defesa – realização de sessão secreta na fase de julgamento – inocorrência – fase de julgamento composta de três fases – não existência de previsão legal para intimação das partes durante estas fases – publicidade atendida com as publicações em Boletim da Corporação e Diário Oficial – contraditório e ampla defesa exercidos antes da fase de julgamento com restabelecimento a partir da publicação da decisão, a qual inicia a fase recursal – vícios de nulidade não constatados – recurso improvido – unânime.”
+    No extraordinário, fundado no art. 102, III, a, da Constituição Federal, alega-se contrariedade aos arts. 5º, LIV, LV; 37 e 93, IX, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que “não houve intimação das manifestações do Conselho de Disciplina e da autoridade instauradora, além de acusar a realização de sessão secreta de julgamento do referido Conselho sem a notificação do recorrente.” (eDOC 4, p. 124)
+    A Presidência do tribunal inadmitiu o recurso extraordinário mediante aplicação da Súmula 280 do STF e do Tema 660 da sistemática da repercussão geral. (eDOC 5, pp. 33-42)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, para negar provimento ao recurso de apelação, assim decidiu (eDOC 4, pp. 106-108):
+     “O apelante respondeu a Conselho de Disciplina em razão de suposta prática de transgressões disciplinares de natureza grave.
+    Segundo consta dos autos, referido procedimento de natureza disciplinar teve suporte fático nos autos da Investigação PI nº CorregPM-287/135/2012, na qual se apurou a participação do apelante em crimes de extorsão mediante sequestro com resultado morte, formação de quadrilha e ocultação do cadáver de Cristiano Francisco de Freitas (Processo nº 590.01.2012.007334-0, controle 333/12 – 1ª Vara Criminal de São Vicente[1]).
+    (…)
+    O recorrente alega em suas razões de apelação que a decisão administrativa contra a qual se insurge está maculada com vício de nulidade pois fora elaborada em sessão secreta, o que é vedado pela Constituição Federal (art. 93, IX).
+    Alega, também, que, na oportunidade, não foi intimado para acompanhar a fase decisiva, tampouco seu defensor, à época.
+    Não lhe assiste razão.
+    A decisão administrativa em sede de Conselho de Disciplina não é secreta, obedece ao seu rito, ao seu devido processo legal.
+    (…)
+    E, por fim, temos que a ementa da decisão final deve ser publicada em Diário Oficial do Estado e seu inteiro teor em Boletim Geral, devendo ser transcrita no Assentamento Individual do militar do Estado, na forma do art. 183 do referido diploma.
+    Assim, admitindo-se que algum vício em termos de publicidade pudesse vir a ocorrer nas fases anteriores, estes seriam sanados com a publicação da decisão administrativa final em diário oficial.
+    (…)
+    O Conselho de Disciplina é um procedimento de natureza administrativa disciplinar destinado a aferir a capacidade moral da praça da Polícia Militar, com 10 ou mais anos de serviço, para permanecer nas fileiras da ativa da Corporação.
+     É regido, entre outras legislações, especificamente, pela LC estadual 893/01 e pelas chamadas I-16-PM.
+    O rito do Conselho de Disciplina, em estrita obediência aos princípios de natureza constitucional relacionados ao devido processo legal, prevê, em várias oportunidades, o concurso da Defesa.
+    (…)
+    Portanto, o Conselho de Disciplina obedeceu não somente ao exigido princípio da legalidade, mas, também, ao devido processo legal.
+    (…)
+    Os autores sustentaram, também, infringência ao art. 20 das I-16-PM, que dispõe:
+    (…)
+    Note que o dispositivo menciona o vocábulo “sessões”. A última sessão da qual a Defesa participa é aquela prevista no art. 165 das I-16-PM se aquela optar por oferecer suas alegações finais na forma oral.
+    Se, após a apresentação das alegações da Defesa, o Conselho julgar necessária qualquer outra diligência, na forma do art. 168 do mesmo diploma, deverá proceder segundo as normas gerais de produção de prova no processo, ou seja, com observância do contraditório e ampla defesa.
+    Na hipótese, isto não ocorreu, passando-se à fase decisiva.
+    Aqui, o legislador não previu a intervenção da parte durante a elaboração da decisão administrativa. Trata-se de fase destinada à análise e conclusão dos julgadores, segundo o havido no procedimento. Tanto assim, que não lhes é permitido trazer elementos estranhos para o processo.
+    Tudo em fiel observância à legislação de regência.”
+    Conforme se depreende da leitura do acórdão recorrido, para divergir do entendimento adotado pelo Tribunal de origem, quanto à ausência de publicidade dos atos do procedimento administrativo, bem como da inobservância do contraditório e da ampla defesa, seria necessário o reexame de fatos e provas constantes dos autos e da legislação local aplicável à espécie (Lei Complementar Estadual n. 893/2001 e I-16-PM) , o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Administrativo. Reintegração de policial militar. Aplicação da sistemática da repercussão geral na origem. Ausência de previsão legal de recurso para o Supremo Tribunal Federal. Recurso manifestamente incabível. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral. 2. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1160690-AgR, Rel. Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 12/11/2018, PROCESSO ELETRÔNICO DJe 11.12.2018).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Processo Administrativo Disciplinar. Demissão. Policial Militar. Absolvição do crime imputado por ausência de provas suficientes. Independência das esferas administrativa e penal. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. Majoração do valor da verba honorária fixada pela origem em 20%, observados os limites previstos nos parágrafos 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.” (ARE 1086763-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 06.06.2018).
+    Ademais, observa-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371, da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do CPC.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Edson Fachin
+Relator
+                  Documento assinado digitalmente
