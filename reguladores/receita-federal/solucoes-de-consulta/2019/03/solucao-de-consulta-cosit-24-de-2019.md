@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 24, de 18 de janeiro de 2019
+Assunto: Imposto sobre Produtos Industrializados - IPI
+SUSPENSÃO. IMPOSTO. COMERCIAL EXPORTADORA. AQUISIÇÃO COM FIM ESPECÍFICO DE EXPORTAÇÃO. REMESSAS DIRETAS.
+Para fins de aplicação da suspensão do IPI de que trata o art. 39, inciso I, da Lei nº 9.532, de 1997, consideram-se adquiridos com o fim específico de exportação os produtos remetidos diretamente do estabelecimento industrial para embarque de exportação ou para recintos alfandegados, por conta e ordem da empresa comercial exportadora. Assim sendo, a passagem desses produtos por diversos estabelecimentos fabricantes vendedores com o objetivo de a empresa comercial exportadora adquirente coletar, em único veículo de carga, todos os produtos adquiridos e assim os remeter, por sua conta e ordem, para embarque de exportação ou para recintos alfandegados, não se enquadra no conceito de "remetidos diretamente" expresso no § 2º do art. 39 da Lei nº 9.532, de 1997, não podendo a empresa comercial exportadora, neste caso, adquirir os produtos com a suspensão do IPI em pauta.
+Dispositivos Legais: Lei nº 5.172, de 1966 (CTN), art. 111; Lei nº 9.532, de 1997, art. 39, inciso I, e § 2º; Decreto nº 7.212, de 2010 (Ripi/2010), art. 43, inciso V, alínea "a" e § 1º; e IN RFB nº 1.152, de 2011, arts. 2º, inciso I, e 4º, inciso I (na redação dada pela IN RFB nº 1.462, de 2014).
+.
+[arquivo anexo: SC Cosit nº 24-2019.pdf]
