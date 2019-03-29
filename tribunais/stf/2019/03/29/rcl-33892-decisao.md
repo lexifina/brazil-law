@@ -1,0 +1,11 @@
+Decisão
+    Trata-se de reclamação, com pedido de liminar, contra decisão proferida pela 4ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, que teria deixado de aplicar tese de repercussão geral firmada no RE nº 837.311/PI.
+    Na inicial, a reclamante alega, em síntese, que: (a) prestou o concurso público para o cargo de Soldado de PM de 2ª classe, no qual alcançou a posição nº 2.271; (b) candidatos classificados na posição 2.216 a 2.606 foram considerados remanescentes, com promessa de nomeação dentro do prazo de validade do certame (doc. 1, fl. 2); (c) em edital publicado ainda na validade do edital objeto desta reclamação, foram nomeados 452 remanescentes, cuja nomeação, também ocorreu dentro da validade do certame onde o reclamante fora aprovado como remanescente, tendo sido este preterido aos candidatos aprovados no edital seguinte (doc. 1, fl. 4); (d) em decisão proferida em 19/02/2018, entendeu-se pelo não provimento das razões de apelo extremo do Reclamante (doc. 1, fl. 6), evidenciando o destoamento para com o entendimento desta CORTE firmado no RE 837.311/PI. Requer a concessão de medida liminar, a ser confirmada, ao final, para cassar o decisão reclamada.
+    É o relatório. Decido.
+    No caso, o pedido é manifestamente incabível. No sítio eletrônico do Tribunal de Justiça de São Paulo, consta a informação de que o ato impugnado transitou em julgado na data de 22/3/2019, enquanto que a presente ação foi proposta somente em 26/3/2019.
+    INDEFIRO DE PLANO a reclamação, pois, nos termos do art. 988, § 5º, inciso I, do CPC, não cabe esse remédio constitucional para desconstituir decisões transitadas em julgado. Trata-se de assimilação, pelo novo código processual, de antigo entendimento do STF, enunciado na Súmula 734 ( Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    À Secretaria para, oportunamente, certificar o trânsito em julgado.
+    Publique-se.
+    Brasília, 29 de março de 2019.
