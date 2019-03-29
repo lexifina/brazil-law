@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 7, p. 51):
+    “APELAÇÃO. PARCIAL PROCEDÊNCIA DO PEDIDO MEDIATO. RESPONSABILIDADE. Serviço público de saúde. Inteligência do artigo 37, § 6º, da Constituição Federal. Erro de diagnóstico. Liberação indevida de paciente idosa que apresentava fratura de fêmur. Agravamento da lesão após a alta indevida do hospital. Caracterização de falha do serviço. Negligência do atendimento prestado pela falta de experiência da médica plantonista que não visualizou a fratura de fêmur da autora. Dever de indenizar configurado. Prevalência do critério empregado para arbitramento adequado da indenização no valor de R$ 15.000,00. CRITÉRIO DE INCIDÊNCIA DOS CONSECTÁRIOS LEGAIS. Reconhecimento da inconstitucionalidade do artigo 5º da Lei n. 11.960/09. Incidência de correção monetária e juros de mora de acordo com a Tese n. 810 da repercussão geral. Correção monetária pelo IPCA-E e juros de mora da caderneta de poupança. Incidência dos juros moratórios a partir da data do ilícito, nos termos da Súmula 54 do STJ. Incidência da correção monetária desde a data do arbitramento. Inteligência da Súmula 362, do STJ. Inocorrência de “reformatio in pejus”. Precedentes. NEGADO PROVIMENTO AO RECURSO, COM OBSERVAÇÃO.’
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aduz-se violação do artigo 37, § 6º, da Constituição da República, buscando demonstrar a ausência de responsabilidade administrativa do Recorrente.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    No exame do ARE 945.271, de minha relatoria, DJe 16.6.2016 (Tema 880), a Corte decidiu que não há repercussão geral nos casos em que se discute indenização por dano moral decorrente de responsabilidade civil extracontratual, como no presente caso.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
