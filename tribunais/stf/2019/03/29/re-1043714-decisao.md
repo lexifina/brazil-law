@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “ATOS COOPERATIVOS – INCIDÊNCIA DE PIS E COFINS – NÃO HÁ VALORES A SEREM COMPENSADOS.
+    1. Trata-se de questão em que se pleiteia o direito ao aproveitamento integral dos créditos de PIS/COFINS, decorrentes do ato cooperativo, tendo em vista se tratar o mesmo de hipótese de não-incidência.
+    2. Afirma o impetrante que possui créditos decorrentes de aquisição de insumos, embalagens gastos com energia, fretes, etc., necessários à consecução dos fins e do próprio objeto social da cooperativa, considerando-os como atos cooperativos, nos termos do art. 79 da Lei nº 5.764/71, sobre os quais não há incidência tributária.
+    3. Os atos praticados ‘entre as cooperativas e seus associados, entre estes e aquelas e pelas cooperativas entre si quando associadas, para a consecução de seus objetivos sociais’, denominam-se atos cooperativos, os quais não implicam operação de mercado, nem compra e venda de produto ou mercadoria (Lei nº 5.764, artigo 79), bem assim não se confundem com os atos civis e comerciais, vindo daí a sua originalidade e estrutura legal tendente a emprestar-lhe tratamento diferenciado.
+    4. Resta nítido que os atos qualificados pelo impetrante como cooperativos, ou seja, aquisição de insumos, embalagens, gastos com energia e fretes, apesar de realizados para a consecução dos objetivos sociais da cooperativa, não se enquadram no conceito de atos cooperativos constante no art. 79 e parágrafo único da Lei nº 5.764/71, uma vez configuram compra e venda de produto ou mercadoria. Além disso, a referida lei não contém restrição tendente a impedir a exigência da contribuição ao PIS e ao COFINS.
+    5. Apelação improvida” (pág. 31 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação dos arts. 146, c; e 174, § 2°, IV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque verifico que, na espécie, a instância de origem decidiu a lide amparada na legislação ordinária pertinente. Para ultrapassar o entendimento da Corte a quo e acolher a pretensão recursal, seria necessário o reexame da causa à luz da legislação infraconstitucional (Lei 5.764/1971). Assim, eventual afronta ao dispositivo constitucional suscitado no recurso extraordinário seria indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    Além disso, avançar sobre a tese do recurso para divergir do acórdão demandaria o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Com esse entendimento, o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COFINS E CONTRIBUIÇÃO PARA O PIS. COOPERATIVA. INCIDÊNCIA DA EXAÇÃO APENAS NOS ATOS NÃO COOPERADOS. DISTINÇÃO, NO CASO CONCRETO, ENTRE ATOS COOPERADOS E NÃO COOPERADOS. SÚMULA 279/STF. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal Federal entende que não há incidência do PIS e da COFINS nos atos cooperativos próprios e que, por outro lado, incide a exação em atos praticados com terceiros não associados.
+    2. Identificar a natureza do ato praticado, se cooperado ou não, demandaria o reexame da legislação infraconstitucional e do acervo fático-probatório, o que é vedado em sede de recurso excepcional. Essa hipótese atrai a incidência da Súmula 279 desta Corte.
+    3. A Lei nº 5.764/1971 foi recepcionada pela Constituição de 1988 com natureza de lei ordinária e o seu art. 79 define o que é ato cooperativo. Saber se essa definição repercutirá ou não na materialidade de cada espécie tributária demanda a análise da subsunção do fato à norma de incidência específica (RE 599.362, Rel. Min. Dias Toffoli), providência vedada em sede de recurso excepcional.
+    3. [sic] Agravo regimental a que se nega provimento” (RE 599.266 AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma).
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Tributário. Prequestionamento. Ausência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Compensação. Discussão quanto à identidade de pleitos. Conexão. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. A matéria constante dos dispositivos constitucionais tidos como violados não foi examinada pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte.
+    2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    3. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional ou o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF.
+    4. Agravo regimental não provido” (ARE 938.284-AgR/AL, Rel. Min. Dias Toffoli, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de março de 2019.
+Ministro Ricardo Lewandowski
+Relator
