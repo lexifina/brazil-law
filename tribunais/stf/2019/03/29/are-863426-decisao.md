@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – AGENTES POLÍTICOS – REMUNERAÇÃO POR MEIO DE PARCELA ÚNICA DENOMINADA SUBSÍDIO – MUNICÍPIO DE BUENÓPOLIS – INCONSTITUCIONALIDADE DO ART. 47, III, DA LOM - MATÉRIA SUBMETIDA À APRECIAÇÃO DO ÓRGÃO ESPECIAL DESTE TRIBUNAL.
+    1. Apresentam-se inconstitucionais as normas insertas em leis municipais que asseguram aos agentes políticos detentores de cargo eletivo e secretários municipais a percepção da gratificação natalina, pois são remunerados, exclusivamente, por subsídio fixado em parcela única, nos termos do art. 39, § 4º, da CF.
+    2. Em atenção à cláusula de reserva de plenário (art. 97 da CF), a constitucionalidade do art. 47, III, da Lei Orgânica de Buenópolis/MG, deve ser analisada pelo Órgão Especial deste Tribunal de Justiça.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, VIII , XVII; e 39, § 3º, da CF. Sustenta que “existem inúmeras decisões do STF, do TJMG e dos demais tribunais superiores, decidindo no sentido de que cabe sim, pagamento de décimo terceiro salário para agentes políticos desde que haja previsão legislativa pertinente e que esta previsão atenda ao princípio da anterioridade”.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) incide, no caso, a Súmula 284/STF; e (ii) “Quanto às alegações relacionadas ao mérito, verifica-se que elas dependem do resultado do julgamento do incidente de inconstitucionalidade pelo Órgão Especial e de posterior manifestação da Turma Julgadora deste Tribunal sobre a questão, encontrando óbice na Súmula nº 513 do Supremo Tribunal Federal, já que a decisão que dá ensejo à abertura da via extraordinária é aquela que completa o julgamento do feito”.
+    Encaminhado os autos a esta Corte, o processo foi devolvido ao Tribunal de origem para que seja aplicado o entendimento firmado no RE 650.898 julgado sob a sistemática da repercussão geral. Em juízo de retratação, o Tribunal de Justiça do Estado de Minas Gerais entendeu não ser o caso de aplicar esse entendimento.
+    Passo a análise do recurso.
+    Após detida análise dos autos, constata-se que o Tribunal de origem, ao decidir a controvérsia, assentou que, “além do vício material de inconstitucionalidade supracitado, a norma local a ser objeto de análise também padece de vício de iniciativa, porquanto, nos termos do art. 61, II, alínea ‘a’, da CF, compete exclusivamente ao Chefe do Poder Executivo a iniciativa do processo legislativo que verse sobre a concessão da remuneração e vantagens financeiras aos agentes públicos”. Esse fundamento não foi rebatido nas razões do recurso extraordinário, permanecendo incólume. A hipótese atrai a incidência da Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de março de 2019.
+Ministro Luís Roberto Barroso
+Relator
