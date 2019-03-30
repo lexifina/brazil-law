@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pela Turma Recursal dos Juizados Especiais Federais de Pernambuco. Veja-se o seguinte trecho de ementa:
+    “PREVIDENCIÁRIO. ADMINISTRATIVO. SERVIDOR FEDERAL DA FUNASA. LEGITIMIDADE PASSIVA DA UNIÃO E DA FUNASA. EXERCÍCIO DE ATIVIDADE EM CONDIÇÕES ESPECIAIS. RECONHECIMENTO. OMISSÃO LEGISLATIVA. MANDADO DE INJUNÇÃO JULGADO PELO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DA LEI Nº 8.213/91. TEMPO ESPECIAL INSUFICIENTE. APOSENTADORIA INDEVIDA.ABONO DE PERMANÊNCIA AFASTADO. RECURSO DA PARTE AUTORA IMPROVIDO.”
+    Opostos embargos de declaração, foram eles providos com efeitos modificativos, assim ementado:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SERVIDOR FEDERAL DA FUNASA E DO MINISTÉRIO DA SAÚDE. LEGITIMIDADE PASSIVA DA UNIÃO E DA FUNASA. EXERCÍCIO DE ATIVIDADE EM CONDIÇÕES ESPECIAIS. RECONHECIMENTO. OMISSÃO LEGISLATIVA. MANDADO DE INJUNÇÃO JULGADO PELO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DA LEI Nº 8.213/91. TEMPO ESPECIAL SUFICIENTE. OMISSÃO/CONTRADIÇÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO PROVISO COM EFEITOS INFRINGENTES. APOSENTADORIA ESPECIAL DEVIDA. ABONO DE PERMANÊNCIA. CONCESSÃO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, III, a, da CF, bem como aos arts. 2º, § 5º, da EC nº 41/2003.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 279/STF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Carlos Alberto Vilhena, opinou pelo conhecimento e desprovimento do agravo para nem sequer conhecer do recurso extraordinário.
+    Decido.
+     O recurso não deve ser provido. O Plenário Virtual do Supremo Tribunal Federal, no julgamento do ARE 954.408-RG, sob a relatoria do Ministro Teori Zavascki (Tema 888), reconheceu a repercussão geral da controvérsia e reafirmou a jurisprudência no sentido de que não há qualquer óbice à extensão do direito ao abono de permanência aos servidores públicos beneficiados por aposentadoria especial. Isso porque a Constituição Federal não restringe a concessão da vantagem apenas aos servidores que cumprirem os requisitos necessários para a aposentadoria voluntária comum, tampouco veda o benefício aos que se aposentam com fundamento no art. 40, § 4º, da CF.
+    Dessa orientação não divergiu o acórdão do Tribunal de origem, uma vez que assentou ser legítimo o pagamento do abono de permanência previsto no art. 40, § 19, da CF ao servidor público que preencheu os requisitos para a concessão da aposentadoria voluntária especial (art. 40, § 4º, da CF), mas optou por permanecer em atividade.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 30 de março de 2019
+Ministro Luís Roberto Barroso
+Relator
