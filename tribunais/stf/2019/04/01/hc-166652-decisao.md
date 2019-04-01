@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. MASSACRE NO COMPLEXO PENITENCIÁRIO ANÍSIO JOBIM - MANAUS. ALEGAÇÃO DE DIVERSAS NULIDADES NA AÇÃO PENAL. MATÉRIAS NÃO ENFRENTADAS PELA CORTE DE ORIGEM. IMPOSSIBILIDADE DE EXAME POR ESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL IMPROVIDO. 1. As diversas nulidades apontadas pela defesa no presente writ não foram enfrentadas pelo Tribunal a quo, razão pela qual este Superior Tribunal de Justiça não pode examinar os temas, sob pena de indevida supressão de instância. 2. Agravo regimental improvido.” (AgRg no HC 470.874/AM)
+    Narra o impetrante que: a) foram impetrados dois habeas corpus no TJAM, “os quais, não obstante denunciarem flagrantes ilegalidades e inconstitucionalidades, estão há mais de 4 meses sem desembargador relator definido”; b) o STJ, no entanto, indeferiu “liminarmente a ordem, ao mesmo tempo em que entendeu necessário recomendar maior celeridade no julgamento dos Habeas Corpus n.º 4003442-88.2018.8.04.0000 e n.º 4003721-74.2018.8.04.0000 ao Tribunal de Justiça do Amazonas”, contudo, tal medida não surtiu qualquer efeito na prática, eis que os feitos continuam sem movimentação.
+    À vista do acima narrado “requer seja concedida a presente ordem de habeas corpus em favor de ERIC MARINHO E OUTROS 200 (DUZENTOS) RÉUS em, CARÁTER LIMINAR, isto é, de plano, independentemente das informações da autoridade coatora, a fim de que determine a suspensão da instrução, que se iniciará no dia 24 de setembro de 2018, até a efetiva deliberação do Tribunal de Justiça do Estado do Amazonas acerca do julgamento dos remédios constitucionais em que se discutem graves nulidades, que ferem os direitos e garantias fundamentais dos pacientes, reconhecendo-se a mora teratológica do Tribunal de Justiça do Estado do Amazonas, bem como a irrazoabilidade da duração dos remédios constitucionais, os quais estão em trâmite por mais de 4 meses não possuindo, ao menos, relator definido.”
+    A PGR opinou pela prejudicialidade do habeas corpus (eDOC.12).
+    Na sequência, o impetrante aduziu que não houve a perde de objeto do habeas corpus, pois “ao contrário do afirmado pela PGR, o Habeas Corpus n.º 4003721- 74.2018.8.04.0000 ainda não foi julgado, nem liminarmente.”
+    É o relatório. Decido.
+    Diversamente, do que aduz o impetrante, em consulta ao andamento processual disponível no sítio eletrônico do TJAM, o HC n.º 4003721- 74.2018.8.04.0000 teve sua fase alterada para “sobrestado”, do mesmo modo que o HC 4003442-88.2018.8.04.0000, o qual também se encontra suspenso, aguardando a resolução do Conflito de Competência 0008190.2018.8.04.0000.
+    Não bastasse, como ressaltou o TJAM, em resposta ao pedido de informações formulado por esta Corte, “que houve apreciação de liminar por expressa determinação de Vossa Excelência, devidamente informada nos autos.”
+     Assim, razão assiste à PGR ao argumentar pela perda de objeto do writ.
+    Com efeito, a movimentação processual superveniente, que determina o sobrestamento dos habeas corpus nos quais se alega existente excesso de prazo, prejudica a alegação de excesso de prazo, na medida em que se verifica que a suposta delonga processual, neste caso, não decorre de mera inércia ou desídia processual, mas de decisão posterior e cogente que determinou a suspensão dos feitos.
+    Há, nesse particular, alteração processual a implicar a extinção da impetração.
+    Ademais, foi determinado o Desembargador suscitante para apreciação de questões urgentes, relacionadas aos mencionados processos, o qual poderá analisar, com brevidade pedidos que não podem aguardar a resolução do conflito de competências para serem dirimidos.
+    Diante do exposto, com fulcro no artigo 21, IX, RISTF, julgo prejudicado este habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 1º de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
