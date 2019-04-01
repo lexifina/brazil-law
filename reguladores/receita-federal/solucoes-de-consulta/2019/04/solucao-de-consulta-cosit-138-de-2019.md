@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 138, de 28 de março de 2019
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+REMESSAS AO EXTERIOR. DIREITO DE USO DE DESENHO INDUSTRIAL. ROYALTIES. INCIDÊNCIA. IRRF. CIDE. ACORDO PARA EVITAR DUPLA TRIBUTAÇÃO.
+As importâncias pagas, creditadas, entregues, empregadas ou remetidas a residente ou domiciliado na República da Itália, em contraprestação pelo direito de uso de desenhos industriais em formato digital, enquadram-se no conceito de royalties e estão sujeitas à incidência de Imposto sobre a Renda na Fonte (IRRF) à alíquota de 15% (quinze por cento), levando-se em conta tanto a legislação interna, no que lhe é cabível, quanto as delimitações impostas pela Convenção Destinada a evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Imposto sobre a Renda, celebrada entre o Governo da República Federativa do Brasil e o Governo da República Italiana e aprovada pelo Decreto nº 85.985, de 6 de maio de 1981.
+Dispositivos Legais: Lei nº 9.279, de 14 de maio de 1996, art. 95; Lei nº 10.168, de 29 de dezembro de 2000, art. 2º, §2º; Lei nº 4.506, de 30 de novembro de 1964, art. 22; Decreto nº 85.985, de 6 de maio de 1981 - Convenção Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Imposto sobre a Renda, celebrada entre o Governo da República Federativa do Brasil e o Governo da República Italiana, art. 12; Decreto nº 9.580, de 22 de novembro de 2018 - Regulamento do Imposto de Renda (RIR), art. 767.
+.
+[arquivo anexo: SC Cosit nº 138-2019.pdf]
