@@ -1,0 +1,39 @@
+Trata-se de reclamação constitucional com pedido de liminar ajuizada por Andreia de Fátima Pereira, Flávia Renata Pereira e pelo Prefeito de Conceição das Pedras/MG, José Airton Pereira, contra Recomendação 1/2019, subscrita pela Promotora de Justiça Kátia de Castro Vilas Boas do Ministério Público do Estado de Minas Gerais – MPE-MG.
+    Os reclamantes sustentam, em síntese, a ocorrência de violação ao enunciado de Súmula Vinculante 13.
+    Argumentam, nesse sentido, que
+    “[a] ilustre Promotora Pública da Comarca de Natércia, Estado de Minas Gerais, enviou a Recomendação nº 01/2019, ao Prefeito Municipal de Conceição das Pedras (MG), afirmando que tanto a nomeação para cargos políticos não eletivos, quanto as contratações temporárias são formas excepcionais de admissão de servidores públicos, cujo provimento não se dá com o mesmo rigor e objetividade no provimento de cargos mediante concurso público.
+    Que a existência de ocupantes de cargos dessa natureza que possuam relação familiar com a autoridade nomeante ou com outros servidores da mesma pessoa jurídica ou que tenham sido nomeados em virtude de designação recíproca pode representar violação aos princípios da impessoalidade, moralidade e eficiência administrativa.
+    […]
+    Enfim, recomendou que se procedesse a exoneração das filhas do Prefeito Municipal, ora reclamantes, no prazo de dez dias, sob pena de ajuizamento de ação civil pública por ato de improbidade administrativa.” (págs. 4 – 5 da inicial)
+    Citam, em abono à sua tese, a Súmula Vinculante 13 e decisões desta Suprema Corte, as quais entenderam que a referida Súmula Vinculante não seria aplicável aos cargos de natureza política.
+    As reclamantes afirmam, mais, que:
+    “[...] se percebe, ao menos, vício quanto à motivação. Isto porque, a recomendação ao Prefeito Municipal, com o fito de determinar a exoneração ode suas filhas, invoca motivo – Súmula Vinculante 13 do STF –, não demonstrado, a priori, caso em que inexistirá correspondência entre o motivo de fato e o motivo legal, de per si viciando o ato. Eventualmente, se objetivo da recomendação é outro, visando a obrigar a exoneração haverá desvio de poder: a recomendação objetiva satisfazer finalidade alheia à sua natureza e ao seu objetivo expresso.” (pág. 15 da inicial).
+    Pedem, ao final, a suspensão “da ordem de exoneração das ora reclamantes” e ao final, que seja julgada procedente a reclamação confirmando o pedido liminar (pág. 18 da inicial).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, constato que a pretensão não merece acolhida, pois o pedido formulado não se enquadra em nenhuma das duas hipóteses permissivas inscritas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Corte, seja para garantir a autoridade de suas decisões.
+    Além disso, o art. 988, § 5°, II, do Código de Processo Civil, informa que a reclamação não será admitida quando “proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias”.
+    No ponto, ressalto que a disposição supratranscrita deve ser interpretada em consonância com o que dispõe o caput do art. 988, segundo o qual a reclamação somente será cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade das decisões do Tribunal; (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; e (iv) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    Pois bem. Eis o teor da Súmula Vinculante 13 deste Supremo Tribunal:
+    “A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal”.
+    Por sua vez, consta da recomendação reclamada, verbis:
+    “ CONSIDERANDO que a existência de ocupantes e cargos dessa natureza que possuam relação familiar com a autoridade nomeante ou com outros servidores da mesma pessoa jurídica ou que tenham sido nomeados em virtude de designação recíproca ou troca de favores pode representar violação aos princípios da impessoalidade, moralidade e eficiência administrativa;
+    CONSIDERANDO que o nepotismo constitui modalidade de ofensa aos princípios constitucionais da impessoalidade, moralidade e eficiência administrativa por meio da nomeação de familiares para o exercício de cargos públicos, nos termos da Súmula Vinculante n° 13;
+    […]
+    RECOMENDA ao Senhor José Airton Pereira, Prefeito Municipal de Conceição das Pedras proceda às exonerações de suas filhas Flávia Renata Pereira, do cargo de Secretária Municipal de Saúde, e Andréia de Fátima Pereira, do cargo de Secretária Municipal de Administração, no prazo de 10 (dez) dias.
+    Ao final do prazo, seja encaminhado à Promotoria de Justiça cópia dos termos de rescisões ou outro documento que comprove o efetivo cumprimento acima consignado.
+    Cabe ressaltar, que o não cumprimento do dispositivo nesta recomendação implicará na adoção das medidas legais cabíveis , como a propositura de ação civil pública por ato de improbidade administrativa.” (págs. 3-6 do documento eletrônico 6; grifos do original).
+    No presente caso, os reclamantes pretendem anular a Recomendação 01/2019, encaminhada pelo Ministério Público do Estado de Minas Gerais que sugeriu a exoneração das reclamantes Andreia de Fátima Pereira e Flávia Renata Pereira do cargo em comissão.
+    Como se vê, o ato reclamado apenas propõe a exoneração das secretárias municipais.
+    Assim, as circunstâncias do caso concreto impedem a aplicação da jurisprudência indicada na inicial, tendo em vista que a recomendação formulada pelo Ministério Público não tem efeito vinculante para a administração municipal, podendo o Chefe do Executivo local adotar ou não a proposta encaminhada pelo órgão ministerial.
+    Com efeito, a pretensão de anulação da recomendação formulada pelo MPE-MG é matéria que não possui aderência estrita com o entendimento consubstanciado na Súmula Vinculante 13.
+    Além do mais, ainda que a exoneração tivesse ocorrido, os cargos em comissão são de livre nomeação e exoneração, nos termos do art. 37, II, da CF/88. Assim, o ato que exonera ocupante de cargo comissionado é praticado no exercício do poder discricionário do administrador, que, em vista das circunstâncias, escolhe a solução que melhor atende ao interesse público.
+    Nesse sentido, cito a reclamação 27.075-AgR/RJ, de relatoria do Ministro Roberto Barroso, verbis:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECLAMAÇÃO. SÚMULA VINCULANTE 13. EXONERAÇÃO DE CARGO EM COMISSÃO. AUSÊNCIA DE ADERÊNCIA ESTRITA.
+    1. Reclamação que impugna ato administrativo de exoneração de servidor público de cargo em comissão, fundamentado em recomendação do Ministério Público .
+    2 A incidência da teoria dos motivos determinantes na exoneração ad nutum de servidor não guarda relação de estrita aderência com a Súmula Vinculante 13.
+    3. Agravo interno a que se nega provimento.”
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF). Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 1° de abril de 2019.
+Ministro Ricardo Lewandowski
+Relator
