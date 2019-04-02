@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 24, Vol. 3):
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – DELEGAÇÃO DE PERMISSÃO DE SERVIÇO PÚBLICO – EDITAL – VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO – ATRIBUIÇÃO DE PONTUAÇÃO POR TEMPO DE EXPERIÊNCIA – POSSIBILIDADE – AUSÊNCIA DE LEGALIDADE – CRITÉRIOS OBJETIVOS.
+    1. Não é possível flexibilizar as exigências postas no instrumento convocatório, porquanto a própria Administração Pública cuidou de elencar os requisitos específicos desejados dos participantes do certame.
+    2. A busca de critérios de tempo de experiência visa atender a melhor técnica, cuja primazia deve ser dar no caso concreto, tratando-se de critério objetivo, passível de utilização pela Administração Pública.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que o referido acórdão violou os arts. 37, caput; e 134, ambos da CF/1988.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Em relação à ofensa ao art. 37, caput, da Constituição Federal, aplica-se neste caso a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Ademais, o Tribunal de origem, com base no conteúdo probatório dos autos e nas cláusulas editalícias assim pontuou (fl. 25-28, Vol. 3):
+    “Importa consignar que é princípio específico da licitação a vinculação ao instrumento convocatório, sendo o edital considerado a lei interna do procedimento e nele deve constar tudo o que é importante para o certame, não sendo possível, ao Administrador, exigir, nem mais nem menos, do que nele se encontra previsto, nos termos do art. 3°, da Lei 8666/93.
+    [...]
+    Dessa forma, não é possível flexibilizar as exigências postas no instrumento convocatório, porquanto a própria Administração Pública cuidou de elencar os requisitos específicos desejados dos participantes do certame.
+    [...]
+    Entendo que as disposições tais como insertas no edital do certame possibilitam ao particular obter situação mais vantajosa, na medida em que atenda às exigências do certame, fazendo com que a Administração possa selecionar a melhor proposta.
+    Não se tem aqui uma cláusula condicionante que vede a participação de alguns em detrimento de outros, ao contrário, possibilita-se a habilitação preliminar daqueles que efetivamente possam cumprir o objeto da licitação.
+    [...]
+    Não há qualquer subjetividade ou direcionamento no uso do critério de pontuação, posto que se demonstra objetivo o critério, podendo abranger grande número de participantes e visa a excelência na prestação do serviço.”
+    Verifica-se, assim, que a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas e das cláusulas do edital de licitação. Incidem, portanto, os óbices das Súmulas 279: Para simples reexame de prova não cabe recurso extraordinário; e 454: Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário, ambas desta CORTE.
+    Por fim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 2 de abril de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
