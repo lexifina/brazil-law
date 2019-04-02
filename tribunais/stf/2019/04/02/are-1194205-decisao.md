@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Amazonas, ementado nos seguintes termos, no que interessa:
+    “IMPROBIDADE ADMINISTRATIVA. APELAÇÃO. PROCESSO LICITATÓRIO. PARTICIPAÇÃO DE PESSOA JURÍDICA QUE POSSUI O PARLAMENTAR EM SEU QUADRO SOCIETÁRIO. VEDAÇÃO PREVISTO NO ARTIGO 52, I E II, DA LEI ORGÂNICA DO MUNICÍPIO. NÃO CONFIGURAÇÃO. SUPLENTE DE VEREADOR. INTERPRETAÇÃO ESTRITA. HERMENÊUTICA. AUSÊNCIA DE PROVAS DA INTERVENÇÃO DE FATO NA PESSOA JURÍDICA. DANO AO ERÁRIO. INEXISTÊNCIA. SENTENÇA MANTIDA.” (eDOC 42, p. 11)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 37, caput e § 4º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação aos princípios da moralidade e da impessoalidade, porquanto o recorrido deveria ser impedido de contratar com o Poder Público, em virtude de seu exercício no cargo eletivo de vereador. (eDOC 45, p. 16-20)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    No caso, o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Orgânica do Município de Manaus) e o conjunto probatório constante dos autos, consignou que não há vedação para a contratação da empresa junto ao Poder Público. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Isso porque, o réu Jeferson Anjos não era vereador à época da realização do pregão eletrônico regido pelo Edital nº 023/2009 – CLS/PMM, mas sim suplente, não havendo legislação que vede a relação deste com pessoa jurídica de direito privado a qual firme contrato com o Poder Público.
+    Tal entendimento decorre da regra hermenêutica de que as normas limitadoras de direito devem ser interpretadas restritivamente. Sobre o tema, pertinente citar o entendimento consolidado da jurisprudência:
+    […]
+    A norma é clarividente ao vedar apenas aos vereadores após a diplomação ou posse firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista, fundação ou empresa concessionária de serviço público municipal. Não se pode incluir em tal restrição os suplentes, os quais somente exercerão o cargo de parlamentar em caso de vacância (eDOC 42, p. 13/14)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. IRREGULARIDADE EM CONTRATAÇÕES. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 280 DO STF. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (AI 858248 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 06.11.2015)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. IRREGULARIDADE EM CONTRATAÇÕES. SÚMULAS 279 E 280/STF. PRECEDENTES. A resolução da controvérsia demandaria a análise da legislação local e o reexame dos fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência das Súmulas 279 e 280/STF. Precedentes. Agravo regimental a que se nega provimento.” (AI 612.576-AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 1º.7.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 21.2.2017. IMPROBIDADE ADMINISTRATIVA. NEPOTISMO. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à inexistência, no caso, da prática de nepotismo, seria necessário o reexame de fatos e provas. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 919655 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 13.06.2017)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 2 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
