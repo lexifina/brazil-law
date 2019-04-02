@@ -1,0 +1,1 @@
+Art. 10 - C. Ato interno do Procurador-Geral do Estado poderá alterar a atribuição dos Procuradores Executivos de que trata esta Subseção no que diz respeito à distribuição dos órgãos de execução programática da Procuradoria-Geral cujas atividades compete a cada um coordenar, desde que conveniente ao interesse público e à otimização do desempenho institucional.
