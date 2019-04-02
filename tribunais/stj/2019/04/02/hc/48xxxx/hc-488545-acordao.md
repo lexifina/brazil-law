@@ -1,0 +1,35 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. PEQUENA QUANTIDADE. 1,4 G DE COCAÍNA E 52 G DE MACONHA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. POSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO.
+1. Conforme reiterada jurisprudência deste Superior Tribunal, a prisão cautelar só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência.
+2. Não obstante as considerações trazidas pelas instâncias ordinárias, entendo que não ficou demonstrada a real necessidade da extrema cautela. Na verdade, afigura-se desproporcional a imposição da constrição corporal, diante da pequena quantidade de droga apreendida (1,4 g de cocaína e 52 g de maconha), que não indica ser tráfico de grandes proporções.
+3. Ordem concedida para substituir a prisão cautelar imposta ao paciente, salvo se por outro motivo estiver preso, pelas medidas alternativas previstas no art. 319 do Código de Processo Penal, à escolha do Juiz singular, o qual poderá decretar a prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou caso haja motivos concretos e supervenientes.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora a Décima Câmara Criminal do Tribunal de Justiça de São Paulo (HC n. 0046325-09.2018.8.26.0000).
+Consta dos autos que o paciente, preso em flagrante, no dia 3/11/2018, pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, teve a prisão convertida em preventiva (Processo n. 1500594-27.2018.8.26.0545 - fls. 67/69).
+Pleiteando a revogação da prisão, a defesa impetrou habeas corpus no Tribunal a quo, que denegou a ordem, mantendo a custódia cautelar (fls. 289/292).
+Daí o presente writ, no qual a defesa alega que não estão presentes os requisitos para decretação da prisão preventiva.
+Afirma que o paciente é primário e possui domicílio fixo (comprovante anexo), bem como possuiu trabalho fixo (comprovante em anexo) de modo que inexiste qualquer motivo para a manutenção do encarceramento diante dos fatos narrados pelos condutores da prisão, pois não oferece risco à sociedade, muito menos à eventual produção de provas no curso do inquérito policial (fl. 6).
+Requer, assim, a concessão da ordem para que seja revogada a prisão preventiva imposta ao paciente ou convertida em medida cautelar diversa da prisão.
+Liminar indeferida (fls. 296/297).
+Informações prestadas (fls. 302/322 e 323/343), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 345/350).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a impetração a revogação da prisão preventiva imposta ao paciente, visto que carente de fundamentos a justificá-la.
+Conforme reiterada jurisprudência deste Superior Tribunal, a prisão cautelar só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência.
+O Juízo singular converteu a prisão em flagrante em preventiva, assim apontando (fl. 68):
+ ..
+No caso, ora sob análise, a prisão preventiva se faz necessária para garantia da ordem pública, pois os autuados não demonstraram exercer atividade lícita. Ademais, ou autuados foram presos em local que ocorria "baile funck", houve apreensão de drogas acondicionadas em expressivas porções individualizadas (31 para maconha), com significativo valor em dinheiro, sem origem ainda não identificada. As mercadorias ilícitas teriam sido apreendidas dentro do Veículo GM Celta, cuja propriedade foi assumida pelo indiciado Felipe. Consta também que Maicon estava no banco de trás do veículo quando da abordagem, havendo indicativo de que sabia da existência da droga.
+Diante disso, é plausível a imputação provisória feita pela autoridade policial e os antecedentes dos indiciados, militam em desfavor deles, havendo indícios veementes de que a comercialização de drogas representa sua real atividade, de modo que a prisão se faz necessária para evitar nova prática delitiva específica.
+ ..
+O Tribunal a quo manteve a segregação cautelar, afirmando que (fls. 291/292):
+ ..  de fato, trata-se, em tese, de tráfico de drogas, delito grave, equiparado a hediondo, em que teria sido apreendida razoável quantidade de maconha (31 invólucros 52g) e de cocaína (2 papelotes 1,4g) nas imediações de um baile funk, além de significativa quantia em dinheiro na posse do paciente e do corréu, o que evidencia ousadia e periculosidade, demonstrando a necessidade de manutenção da prisão cautelar para garantia da ordem pública.
+As circunstâncias acima delineadas também demonstram que seriam insuficientes, no presente caso, as medidas cautelares previstas no artigo 319 do Código de Processo Penal.
+Oportuno anotar, por fim, que as teses de que, em eventual condenação, o paciente poderia ser beneficiado com o redutor do artigo 33, § 4º, da Lei nº 11.343/06, com penas restritivas de direitos ou, ainda, com a fixação de regime aberto para cumprimento da carcerária, não podem ser consideradas como fundamentos para a revogação da prisão preventiva, pois tais questões demandam análise e considerações sobre o mérito da ação penal, o que é vedado nos estreitos limites de cognição do habeas corpus.
+Anoto, ainda, que alegações de primariedade, bons antecedentes, residência fixa e ocupação lícita não são suficientes, por si sós, para a obtenção do benefício pleiteado.
+Não há, pois, qualquer constrangimento ilegal a ser sanado.
+ ..
+Não obstante as considerações trazidas pelas instâncias ordinárias, entendo que não ficou demonstrada a real necessidade da extrema cautela. Na verdade, afigura-se desproporcional a imposição da constrição corporal, diante da pequena quantidade de droga apreendida (1,4 g de cocaína e 52 g de maconha), o que não indica ser tráfico de grandes proporções.
+Com efeito, há outras medidas menos gravosas mais adequadas à hipótese em apreço. Nessa linha, os seguintes precedentes: HC n. 434.053/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/5/2018; e RHC n. 89.565, de minha relatoria, Sexta Turma, DJe 19/12/2017.
+Por tais razões, concedo a ordem para substituir a prisão cautelar imposta ao paciente, salvo se por outro motivo estiver preso, pelas medidas alternativas previstas no art. 319 do Código de Processo Penal, à escolha do Juiz singular, o qual poderá decretar a prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou caso haja motivos concretos e supervenientes.
