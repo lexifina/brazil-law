@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE DE OFÍCIO - SENTENÇA DE EXTINÇÃO COM RESOLUÇÃO DO MÉRITO. 1. Inércia do exequente - Paralisação do processo por aproximadamente 19 anos sem qualquer manifestação da parte interessada. 2. Desnecessidade de prévia intimação para o regular prosseguimento do feito - Prescrição intercorrente que não se confunde com extinção por abandono de causa - Interesse do Exequente na continuidade do feito - Exequente intimado para dar andamento ao feito, inclusive para se manifestar acerca da prescrição intercorrente, porém permaneceu inerte. 3. Prescrição intercorrente - Ocorrência - Impossibilidade de eternização da demanda - Observância do princípio da razoável duração do processo 4. Custas pelo exequente mantida - Princípio da Causalidade. 5. Honorários Recursais - Impossibilidade de aplicação por falta de fixação em primeiro grau dos honorários sucumbenciais. 6. Sentença mantida. RECURSO DESPROVIDO. ” (eDOC 7, p. 7)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, LXXVIII, do texto constitucional.
+    Nas razões recursais, alega-se que a garantia da duração razoável do processo não pode beneficiar devedores inadimplentes, cujas execuções são suspensas até a descoberta de bens penhoráveis. (eDOC 9, p. 3)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Civil e Código de Processo Civil), consignou ser desnecessária a intimação da exequente para o reconhecimento da prescrição. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Além disso, não existe qualquer previsão legal no sentido de condicionar o reconhecimento da prescrição intercorrente à prévia intimação pessoal do credor.
+    A prescrição é instituto de direito material e pode ser reconhecida de ofício (por se tratar de matéria de ordem pública), não se submetendo aos ditames da lei processual para que sua incidência seja reconhecida”. (eDOC 7, p. 13)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. MULTA ADMINISTRATIVA. PROCON ESTADUAL. PRESCRIÇÃO INTERCORRENTE. 1. A questão discutida nestes autos foi totalmente analisada pelo acórdão recorrido sob a ótica infraconstitucional, não ensejando a interposição de recurso extraordinário. (...)”. (RE 1.137.187 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 17.9.2018)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. 1. A aferição da prescrição intercorrente na execução cinge-se ao âmbito infraconstitucional. 2. A controvérsia veiculada no presente feito não guarda similitude com o Tema 390 da sistemática da repercussão geral, porquanto no RE-RG 636.562 discute-se a reserva de lei complementar para dispor sobre marco inicial da prescrição de crédito tributário. 3. Agravo regimental a que se nega provimento”. (ARE 1.010.305 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 26.5.2017)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem (eDOC 7, p. 16) deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 2 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
