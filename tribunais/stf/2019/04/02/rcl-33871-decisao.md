@@ -1,0 +1,16 @@
+RECLAMAÇÃO MANEJADA PARA DISCUTIR ATO JUDICIAL JÁ ACOBERTADO PELA COISA JULGADA. ART. 988, 5º, I, DO CPC/2015. SÚMULA 734/STF. NÃO CABIMENTO SEGUIMENTO NEGADO.
+    Vistos etc.
+    1. Trata-se de reclamação proposta pela Associação dos Servidores da Justiça do Rio Grande do Sul contra decisão proferida pelo Superior Tribunal de Justiça, nos autos do Agravo em Recurso Especial nº. 1110464 à alegação de que inaplicável à hipótese dos autos o paradigma de repercussão geral invocado como fundamento para a negativa de seguimento de recurso extraordinário.
+    A reclamante afirma que o Vice-Presidente do STJ negou seguimento ao recurso extraordinário por ele interposto com fundamento no art. 1.030 do CPC/2015, à consideração que não haveria repercussão geral sobre a matéria discutida, conforme decidido no ARE 748.371.
+    Sustenta que a matéria dos autos “é de índole constitucional, aplicando-se, assim, o instituto da repercussão geral, como foi reconhecido pelo STF no julgamento do RE 596663, que discute os limites objetivos da coisa julgada na fase de execução de uma sentença (Tema 494/STF)”. Afirma, ainda, que o Superior Tribunal de Justiça julgou o tema de forma contrária ao entendimento firmado no RE 614.406, sob a sistemática da repercussão geral, no sentido de que o imposto de renda incidente na hipótese de percepção acumulada de proventos deve ser apurado sob o regime de competência, e não sobre o regime de caixa.
+    Defende, ainda, a tempestividade de embargos de declaração opostos contra acórdão proferido ao julgamento de agravo interno no agravo em recurso especial. Argumenta que “até o presente momento, o STJ não observou o feriado local da Revolução Farroupilha (20/09/2017), o qual, caso devidamente considerado, conduzirá a inarredável tempestividade do recurso aclaratório outrora oposto (dies ad quem: 22/09/2017).”
+    Requer a concessão de medida liminar para que “seja(m) cassado(s) o(s) acórdão(ãos) que determinou(ram) a aplicação do regime de caixa mascarado e determinar a aplicação do regime de competência (de forma a considerar cada parcela de forma isolada – não cumulada) ou, alternativamente, que seja determinada a suspensão do processo de primeiro grau (...)”. Por fim, punga pela procedência da reclamação para garantir a autoridade das decisões desta E. Suprema Corte, proferidas ao julgamento dos Temas 368 e 949.
+    É o relatório.
+    Decido.
+    1. Consoante consta do andamento processual do AREsp nº 1158207 no sítio eletrônico do Superior Tribunal de Justiça, a decisão reclamada transitou em julgado em 12.3.2019.
+    Uma vez que a presente reclamação constitucional só foi protocolada em 25.3.2019, a pretensão nela deduzida encontra óbice no art. 988, 5º, I, do CPC/2015, segundo o qual é inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada; e na Súmula 734/STF, cujo teor é o seguinte: não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal .
+    2. Nesse contexto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o pedido liminar.
+    Publique-se.
+    Brasília, 02 de abril de 2019.
+Ministra Rosa Weber
+Relatora
