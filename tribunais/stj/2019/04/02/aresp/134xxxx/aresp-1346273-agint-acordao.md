@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. DECISÃO MANTIDA. RECURSO DESPROVIDO. AFRONTA AOS ARTS. 128 E 460 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC. DIVULGAÇÃO DE IMAGENS COM FINS ECONÔMICOS. DANOS MORAIS E MATERIAIS. CABIMENTO. AGRAVO DESPROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017). Precedentes.
+2. O eg. Tribunal de origem adotou posicionamento consentâneo com a jurisprudência do Superior Tribunal de Justiça no que tange à indenização a título de dano material, que entende que a divulgação de imagem com fins econômicos, sem autorização do interessado, acarreta dano moral in re ipsa, bem como dano material, sendo devida a indenização e desnecessária a demonstração de seu prejuízo material ou moral. Precedentes.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno, interposto pelo CLUBE ATLÉTICO PARANAENSE, contra decisão que negou provimento ao recurso especial, sob os seguintes fundamentos: a) ausência de prequestionamento dos arts. 128 e 460 do CPC/73; e b) o entendimento do aresto recorrido, quanto à responsabilidade civil do recorrente a título de danos materiais, encontra-se em consonância com o entendimento do STJ.
+Em suas razões, o agravante alega que houve o prequestionamento dos arts. 128 e 460 do CPC/73, bem como a inaplicabilidade da Súmula 83/STJ, porquanto a jurisprudência do STJ que baseou o posicionamento exposto na decisão monocrática agravada leva em consideração justamente este ponto: em todos os acórdãos, entendeu-se pela necessidade de indenização pela utilização de imagem de pessoa claramente identificável! Não é este o caso dos autos, conforme expressamente delimitado pelo Tribunal a quo.
+Embora devidamente intimada, a parte agravada não apresentou impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O inconformismo não merece prosperar.
+Observa-se que os argumentos trazidos pelo recorrente mostram-se insuficientes para infirmar a decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Efetivamente, verifica-se inexistir o prequestionamento dos arts 128 e 460 do CPC/73, sobretudo em razão de o Tribunal de origem, nas razões dos embargos declaratórios, ter-se limitado a transcrever as razões do aresto recorrido, sem adentrar a tese de ocorrência de julgamento extra petita.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Além disso, quanto à responsabilização do recorrente pelo uso indevido da imagem do recorrido, o Tribunal assim consignou:
+Portanto, a imagem do autor foi utilizada com fins comerciais, em que pese a alegação de que de que se tratava apenas de uma campanha com exposição do amor dos torcedores por seu time de futebol, vez que a apelada Umbro, patrocinadora do Clube Atlético Paranaense, vinculava sua imagem à campanha "One Love", assim como a Arena Store, loja de produtos esportivos do referido clube de futebol.
+Portanto, inegável o caráter comercial da campanha e a exploração da imagem do autor com tal finalidade.
+Assim, deve haver a compensação pecuniária ao autor pelos danos materiais causados, mas não na forma perseguida na inicial, até porque ele não está apresentando nenhum produto específico da empresa Umbro ou do Clube Atlético Paranaense, que lhe autorize receber percentual sobre a renda deste produto. (e-STJ, fls. 511/514)
+Ao assim decidir, o eg. Tribunal de origem, de fato, adotou posicionamento consentâneo com a jurisprudência do Superior Tribunal de Justiça no que tange à indenização a título de dano material, que entende que a divulgação de imagem com fins econômicos, sem autorização do interessado, acarreta dano moral in re ipsa, bem como dano material, sendo devida a indenização e desnecessária a demonstração de seu prejuízo material ou moral.
+A esse respeito, cito os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DISSÍDIO DEVIDAMENTE DEMONSTRADO. APLICAÇÃO DA SÚMULA 07/STJ AFASTADA. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DIREITO À IMAGEM. UTILIZAÇÃO SEM AUTORIZAÇÃO. DANO MORAL. PROVA. DESNECESSIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1.252.599/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/4/2014, DJe de 5/5/2014, sem negrito no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO À IMAGEM. PUBLICAÇÃO DE FOTO SEM AUTORIZAÇÃO. PROVEITO ECONÔMICO. LOCUPLETAMENTO INDEVIDO. DANO MORAL. PROVA. DESNECESSIDADE. DIVULGAÇÃO COM FINS EDITORIAIS. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Em se tratando de direito à imagem, a obrigação da reparação decorre do próprio uso indevido do direito personalíssimo, não havendo de cogitar-se da prova da existência de prejuízo ou dano. O dano é a própria utilização indevida da imagem, não sendo necessária a demonstração do prejuízo material ou moral" ((REsp 267.529/RJ, Relator o Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, DJ de 18/12/2000).
+2. Tendo o Tribunal de origem, diante do contexto fático-probatório dos autos, reconhecido que a publicação tinha fins comerciais, a questão não pode ser revista em âmbito de Recurso Especial, ante o óbice da Súmula 7 desta Corte.
+3. A orientação pacificada no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 148.421/SP, de minha relatoria, QUARTA TURMA, julgado em 19/9/2013, DJe de 25/10/2013, sem negrito no original)
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DIREITO À IMAGEM. ATLETA. UTILIZAÇÃO SEM AUTORIZAÇÃO PARA PROMOÇÃO DE EVENTO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. AUSÊNCIA DE FINS LUCRATIVOS. IRRELEVÂNCIA. DANO MORAL. PROVA. DESNECESSIDADE. PRECEDENTES. DOUTRINA.
+1. Compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, porquanto matéria afeta à competência do STF (art. 102, inciso III, da Carta Magna).
+2. A obrigação da reparação pelo uso não autorizado de imagem decorre do próprio uso indevido do direito personalíssimo e não é afastada pelo caráter não lucrativo do evento ao qual a imagem é associada.
+3. Para a configuração do dano moral pelo uso não autorizado de imagem não é necessária a demonstração de prejuízo, pois o dano se apresenta in re ipsa.
+4. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+(REsp 299.832/RJ, Rel. Ministro VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/2/2013, DJe de 27/2/2013, sem negrito no original)
+RESPONSABILIDADE CIVIL. USO INDEVIDO DA IMAGEM. REVISTA DE GRANDE CIRCULAÇÃO. FIM COMERCIAL. SÚMULA N.º 403/STJ. PESSOA PÚBLICA. LIMITAÇÃO AO DIREITO DE IMAGEM. VALOR DA INDENIZAÇÃO. RAZOABILIDADE.
+1. "Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais" (Súmula 403/STJ).
+2. Mesmo quando se trata de pessoa pública, caracterizado o abuso do uso da imagem, que foi utilizada com fim comercial, subsiste o dever de indenizar. Precedente.
+3. Valor da indenização por dano moral e patrimonial proporcional ao dano sofrido e ao valor supostamente auferido com a divulgação da imagem. Desnecessidade de intervenção desta Superior Corte.
+4. Agravo a que se nega provimento.
+(AgRg no Ag 1.345.989/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/3/2012, DJe de 23/3/2012, sem negrito no original)
+Assim, quanto ao dano material, o acórdão recorrido está em consonância com a pacífica jurisprudência deste Tribunal Superior, incidindo na pretensão recursal, pois, o óbice da Súmula 83 do Superior Tribunal de Justiça.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
