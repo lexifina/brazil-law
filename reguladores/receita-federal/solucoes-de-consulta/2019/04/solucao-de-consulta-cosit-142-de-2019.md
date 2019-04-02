@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 142, de 28 de março de 2019
+Assunto: Contribuições Sociais Previdenciárias
+CONTRIBUIÇÃO PREVIDENCIÁRIA. RETENÇÃO. BASE DE CÁLCULO. SERVIÇOS. MATERIAIS E EQUIPAMENTOS. SIMPLES NACIONAL. IMUNIZAÇÃO.
+Para os optantes pelo Simples Nacional, imunização e controle de pragas urbanas (p.ex., dedetização, desratização, descupinização e similares) são serviços de limpeza e conservação. Nessa condição, são tributados pelo Anexo IV da Lei Complementar nº 123, de 2006, o que os submete à retenção da contribuição previdenciária, correspondente a 11% (onze por cento) sobre o valor bruto da nota fiscal do serviço.
+Os valores de materiais ou de equipamentos, próprios ou de terceiros, exceto os equipamentos manuais, cujo fornecimento esteja previsto em contrato, sem a respectiva discriminação de valores, desde que discriminados na nota fiscal, na fatura ou no recibo de prestação de serviços, não integram a base de cálculo da retenção, devendo o valor desta corresponder no mínimo a 80% (oitenta por cento) quando se referir a serviços de imunização e controle de pragas urbanas (limpeza e conservação), ainda que prestados em ambiente hospitalar.
+SOLUÇÃO PARCIALMENTE VINCULADA À SOLUÇÃO DECONSULTA COSIT Nº 275, DE 26 DE SETEMBRO DE 2014.
+Dispositivos Legais: Lei Complementar nº 123, de 2006, art. 13, inciso VI, e art. 18, § 5º-C, caput e inciso VI, e § 5º-H; Lei nº 8.212, de 1991, art. 31; IN SRF nº 459, de 2004, art. 1º, § 2º, inciso I; Decreto nº 3.048, de 1991, art. 219, § 7º; Instrução Normativa RFB nº 971, de 2009, art. 122.
+[arquivo anexo: SC Cosit nº 142-2019.pdf]
