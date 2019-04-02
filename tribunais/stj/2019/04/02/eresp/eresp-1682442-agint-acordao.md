@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL COMERCIAL. HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. VALIDADE. INAPLICABILIDADE DA SÚMULA 308/STJ. PREQUESTIONAMENTO. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição do agravo interno, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Consoante entendimento desta Corte Superior, não se aplica a Súmula 308/STJ nas hipóteses envolvendo contratos de aquisição de imóveis comerciais. Precedentes.
+3. A comprovação da boa-fé do adquirente não é suficiente para afastar a hipoteca firmada como garantia ao financiamento imobiliário de caráter comercial, mormente quando o compromisso de compra e venda é celebrado posteriormente à oneração do imóvel em favor de agente financeiro, como ocorre na presente hipótese.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Marco Buzzi (Presidente) e Luis Felipe Salomão votaram com o Sr. Ministro Relator. Impedido o Sr. Ministro Antonio Carlos Ferreira. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por [NOME] contra decisão de fls. 541/544 que deu provimento ao provimento ao recurso especial interposto por EMPRESA GESTORA DE ATIVOS S.A. - EMGEA e CAIXA ECONÔMICA FEDERAL para manter a hipoteca firmada com a construtora sob o fundamento de que não se aplica a Súmula 308 do STJ nas hipóteses envolvendo a aquisição de imóveis comerciais, não bastando a boa-fé do adquirente para afastar a hipoteca firmada como garantia ao financiamento imobiliário de caráter comercial.
+Nas razões do agravo interno, o agravante sustenta que: (1) a Súmula 308 do STJ não faz distinção entre imóvel comercial ou residencial, razão pela qual deve incidir no caso em análise, ante a boa-fé do adquirente; (2) a decisão agravada está em conflito com diversos casos julgados pelo STJ; (3) o recorrente foi vítima de conluio fraudulento havido entre a Caixa Econômica Federal e a construtora do empreendimento.
+Ao final, requer a reconsideração da decisão agravada ou a reforma pelo colegiado.
+Apresentada impugnação às fls. 608/613.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Consoante jurisprudência desta Corte Superior, o teor da Súmula 308 do STJ somente é aplicável nas hipóteses que envolvem contratos de aquisição de imóveis residenciais, não sendo possível afastar a hipoteca firmada como garantia ao financiamento imobiliário de caráter comercial, como ocorre na presente hipótese. Nesse sentido, colhem-se os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. HIPOTECA CONSTITUÍDA PELA CONSTRUTORA SOBRE UNIDADE OBJETO DE PROMESSA DE COMPRA E VENDA. IMÓVEL COMERCIAL. NÃO APLICAÇÃO DO DISPOSTO NA SÚMULA N. 308/STJ. EMBARGOS DE TERCEIRO IMPROCEDENTES. 2. TESE DE HAVER FRAUDE ENTRE O BANCO E A CONSTRUTORA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. 4. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO ACOLHIMENTO. 5. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Casa orienta que o entendimento cristalizado na Súmula 308/STJ aplica-se exclusivamente às hipotecas que recaiam sobre imóveis residenciais, afastando-se, por conseguinte, a incidência do respectivo verbete sumular quando a citada garantia recair sobre imóvel comercial.
+2. Concernente à fraude porventura cometida pelo banco e pela construtora, verifica-se que tal questão, além de já estar sendo apreciada em processo próprio, conforme suscitado pelo recorrente, não foi debatida nas instâncias ordinárias nesta demanda, carecendo, com isso, do indispensável prequestionamento a atrair a incidência das Súmulas 282 e 356 do STF.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+4. Não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno, conforme os critérios definidos pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+5. Agravo interno desprovido."
+(AgInt no REsp 1.668.863/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/11/2018, DJe de 16/11/2018, g.n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. IMÓVEL COMERCIAL. INAPLICABILIDADE DA SÚMULA 308/STJ. INSCRIÇÃO DA HIPOTECA E REGISTRO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte possui jurisprudência no sentido de não ser aplicável a Súmula 308/STJ nas hipóteses envolvendo contratos de aquisição de imóveis comerciais, portanto não submetidos ao Sistema Financeiro de Habitação - SFH.
+2. Mesmo que comprovada a boa-fé do terceiro adquirente, tal não é bastante para afastar a hipoteca firmada como garantia ao financiamento imobiliário de caráter comercial, como é a situação dos autos. Precedentes.
+3. Ultrapassar os fundamentos do acórdão acerca da inscrição e o registro da hipoteca demandaria a análise do contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento." (AgInt nos EDcl no AgInt no REsp 1.290.882/RJ, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 14/08/2018, DJe de 23/08/2018, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. HIPOTECA. IMÓVEL NÃO RESIDENCIAL. SÚMULA Nº 308/STJ. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É inaplicável o teor da Súmula nº 308/STJ nos casos envolvendo contratos de aquisição de imóveis não submetidos ao Sistema Financeiro de Habitação - SFH. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.613.516/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/11/2017, DJe de de 29/11/2017, g.n.)
+"CIVIL. HIPOTECA. IMÓVEL NÃO RESIDENCIAL. Permuta de terreno por área construída de natureza não residencial. Subseqüente hipoteca do terreno como garantia do financiamento destinado à edificação.
+Execução da hipoteca em razão da inadimplência da construtora.
+Inaplicabilidade da Súmula nº 308 do Superior Tribunal de Justiça, que diz respeito exclusivamente a hipotecas que recaem sobre imóveis residenciais. Recurso especial não conhecido."
+(REsp 427.410/RS, Rel. Ministro ARI PARGENDLER, TERCEIRA TURMA, julgado em 06/03/2008, DJe de 25/04/2008, g.n.)
+"Compra de salas comerciais. Hipoteca. Direito à seqüela.
+1. Não se tratando de aquisição de casa própria pelo Sistema Financeiro da Habitação, que dispõe de legislação protetiva especial, não há como dispensar o direito do credor hipotecário à seqüela, tal e qual estampado na legislação civil.
+2. Recurso especial conhecido e provido."
+(REsp 651.323/GO, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 07/06/2005, DJ de 29/08/2005, p. 335, g.n.)
+No caso dos autos, verifica-se que a empresa JAF Industrial de Madeiras Ltda firmou o contrato de compromisso de compra e venda referente às salas comerciais nº 1001, 1002 e 1003 em 13/06/1994, tendo o agravante as adquirido posteriormente, em 22/05/1996, por meio de instrumentos particulares de cessão e transferência de direitos e um compromisso de compra e venda. Dessa forma, verifica-se que todas as unidades foram adquiridas posteriormente à oneração do imóvel com a hipoteca firmada entre as agravadas e a construtora para o financiamento do empreendimento, que, conforme afirma o próprio agravante em sua petição inicial, foi registrada em 02/01/1992 (fl. 10).
+Em que pese a boa-fé do agravante ao adquirir as unidades comerciais, tal não é bastante para afastar a hipoteca firmada como garantia ao financiamento imobiliário de caráter comercial, mormente quando o compromisso de compra e venda é celebrado posteriormente à oneração do imóvel com a hipoteca em favor do agente financeiro, como é a situação dos autos.
+Ao contrário da orientação que prevalece atualmente no STJ, o Tribunal de origem manteve o entendimento da sentença que julgou procedentes os embargos de terceiro opostos pelo agravante para declarar a ineficácia da hipoteca e desconstituir a penhora efetivada sobre as salas comerciais por ele adquiridas no Edifício Comercial e Residencial Felipe Adura, objeto de matrícula nº 46.478 do 1º Ofício de Imóveis da Comarca de Cascavel/PR, mantendo o embargante na posse definitiva desses bens" (e-STJ, fls. 325/331), razão pela qual não merece reparo a decisão ora agravada.
+No que tange aos apontados julgados que divergem do entendimento esposado na decisão agravada, verifica-se que, se todos os julgados citados (REsp 1702123/PR; REsp 1703086/PR; REsp 1682886; REsp 1682591; REsp 1682512; REsp 1682229/PR; REsp 1669167; Ag 1192658/PR; Ag 1183628/PR; Ag 1183553; Ag 1319878/PR; Ag 1223175/PR) foram julgados monocraticamente e, consoante a jurisprudência assente desta Corte Superior, as decisões unipessoais não se prestam a demonstrar divergência jurisprudencial. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. ERRO MÉDICO. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+2. Tendo o tribunal de origem decidido a causa com base na análise dos elementos fático-probatórios dos autos, alterar sua decisão atrai a incidência da Súmula nº 7 desta Corte.
+3. As decisões monocráticas são imprestáveis à comprovação do dissídio jurisprudencial.
+4. Agravo interno não provido." (AgInt no AREsp 964.261/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe de 16/11/2016, g.n.)
+Por fim, a tese quanto à existência de fraude/conluio entre a Caixa Econômica Federal e a construtora, além de já estar sendo debatida em processo próprio, não foi apreciada pelo Tribunal a quo em nenhum grau de jurisdição. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. A propósito:
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. PREVIDÊNCIA. PRIVADA. VÍNCULO EMPREGATÍCIO PARTICIPANTE E PATROCINADOR. CONDIÇÃO. COMPLEMENTAÇÃO DE APOSENTADORIA. VALIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 7/STJ.
+1. É válida a exigência, estabelecida em regulamento de entidade fechada de previdência privada, de rompimento do vínculo empregatício entre o participante e o patrocinador, como condição para a concessão do benefício de complementação de aposentadoria.
+Precedentes da Segunda Seção.
+2. Não se admite recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.103.280/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/10/2018, DJe de 25/10/2018, g.n.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
