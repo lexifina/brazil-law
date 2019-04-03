@@ -1,0 +1,29 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Ronaldo Figueiredo Brito e outro em favor de José Eduardo Gonzales Quintanilha Veras, contra decisão monocrática da lavra da Ministra Laurita Vaz, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 498.787/RJ.
+    O paciente foi denunciado pela suposta prática do crime de estelionato, tipificado no art. 171 do Código Penal. O magistrado de primeiro decretou a prisão preventiva em desfavor do paciente.
+    Extraio do ato dito coator:
+    “(...).
+    A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido e do perigo na demora. Este pode até ser admitido; aquela, ao revés, não se evidencia estreme de dúvidas, mormente diante do que se consignou no acórdão impugnado (fls. 13-15; sem grifos no original):
+    "A prisão preventiva do paciente, bem como a sua manutenção, foi fundamentada na necessidade de se resguardar o meio social, de modo a evitar que a sociedade seja novamente lesada pela mesma conduta em tese cometida, eis que sua folha de antecedentes criminais contém diversas anotações pela prática de crimes contra o patrimônio (autos principais - 'anotações de fls. 41v., 42, 43v., 44, 44v., 45, 45v., 46, 46v., 47 e 47v'), evidenciando que muitas outras vítimas foram lesadas, não sendo isolado o golpe aplicado pelo paciente no processo originário.
+    Tais circunstâncias demonstram a imprescindibilidade da prisão preventiva para coibir a reiteração das condutas delitivas, conforme reiterada jurisprudência do STJ:
+    [...]
+    Frise-se que a aplicação de medida cautelar não fere o princípio da presunção de inocência, quando amparada de efetiva fundamentação.
+    Com efeito, na hipótese em tela, impõe-se uma atuação coercitiva do Estado, a fim de garantir o equilíbrio e a tranquilidade social, razão pela qual afasta-se, excepcionalmente, a intangibilidade da liberdade individual, a fim de salvaguardar interesses sociais, de modo a evitar a reiteração delitiva.
+    É consabido que residência fixa, exercício de atividade laborativa lícita e primariedade não garantem a liberdade daquele que sofre a persecução penal instaurada pelo Estado, se presentes os requisitos constritivos."
+    A decretação ou a manutenção da prisão preventiva depende da demonstração objetiva de um ou mais dos requisitos do art. 312 do Código de Processo Penal. Para isso, o Julgador deve consignar, expressamente, elementos reais e concretos indicadores de que o indiciado ou acusado, solto, colocará em risco a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal.
+    No caso, aparentemente, a constrição tem base empírica idônea, pois o entendimento do Superior Tribunal de Justiça é no sentido de que a concreta possibilidade de reiteração delitiva pode ser demonstrada pela prática anterior de delitos pelo Agente, a justificar a segregação processual para assegurar a ordem pública. Destaco ainda a seguinte ementa do Supremo Tribunal Federal:
+    (...).
+    Assim, o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável neste juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+    Ante o exposto, INDEFIRO o pedido liminar”.
+    No presente writ, os Impetrantes alegam, em síntese, ausência dos requisitos autorizadores da prisão preventiva. Aduzem que o crime imputado ao paciente admite a suspensão condicional do processo. Defendem a primariedade do paciente. Requerem, em medida liminar e no mérito, a revogação da prisão preventiva.
+    É o relatório.
+    Decido.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 138.565/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 03.8.2017; HC 137.078/SP, de minha relatoria, 1ª Turma, DJe 24.4.2017; HC 136.296/SP, de minha relatoria, 1ª Turma, DJe 24.10.2016; e HC 134.104/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 19.8.2016.
+    Ao exame dos autos, não detecto a ocorrência de situação autorizadora do afastamento do mencionado verbete, pois, de acordo com o ato dito coator, ‘No caso, aparentemente, a constrição tem base empírica idônea, pois o entendimento do Superior Tribunal de Justiça é no sentido de que a concreta possibilidade de reiteração delitiva pode ser demonstrada pela prática anterior de delitos pelo Agente, a justificar a segregação processual para assegurar a ordem pública’.
+    À míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de abril de 2019.
+Ministra Rosa Weber
+Relatora
