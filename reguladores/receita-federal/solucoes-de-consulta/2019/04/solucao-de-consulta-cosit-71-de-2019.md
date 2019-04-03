@@ -1,0 +1,26 @@
+Solução de Consulta Cosit nº 71, de 14 de março de 2019
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+Ementa: CONTRATO. LONGO PRAZO. SOCIEDADE DE ECONOMIA MISTA. PRAZO DE EXECUÇÃO. LUCRO. RECEITA BRUTA. DIFERIMENTO. DEMAIS RECEITAS. IMPOSSIBILIDADE.
+O diferimento do lucro, tratado pelo art. 10, § 3º, do Decreto-Lei nº 1.598, de 1977, ou o diferimento da receita bruta, consoante o art. 30, parágrafo único, da Lei nº 8.981, de 1995, pertinentes aos contratados para empreitada ou fornecimento a pessoa jurídica de direito público, ou empresa sob seu controle, empresa pública, sociedade de economia mista ou sua subsidiária, independem do prazo de execução de cada unidade a ser fornecida, desde que, no caso de execução a curto prazo, o faturamento seja realizado em valor por unidade e o contrato seja de longo prazo.
+Para fins de apuração do IRPJ por pessoas jurídicas enquadradas na sistemática do lucro real, o valor integrante do lucro líquido do exercício, incluindo as variações monetárias e multas, que não tiver sido realizado e que seja decorrente de contratos a longo prazo com entidades governamentais, a preço predeterminado, poderá ser objeto de diferimento.
+Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, arts. 9º; 10, § 3º; e 12; Lei nº 8.981, de 1995, art. 30, parágrafo único; Lei nº 9.718, de 1998, art. 9º.
+Dispositivos Infralegais: IN SRF nº 21, de 1979, IN RFB nº 658, de 2004, IN RFB nº 1700, de 2017, art. 37, Parecer Normativo CST nº 72, de 1978.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+Ementa: CONTRATO. LONGO PRAZO. SOCIEDADE DE
+ECONOMIA MISTA. PRAZO DE EXECUÇÃO. LUCRO. RECEITA BRUTA. DIFERIMENTO. DEMAIS RECEITAS. IMPOSSIBILIDADE.
+O diferimento do lucro, tratado pelo art. 10, § 3º, do Decreto-Lei nº 1.598, de 1977, e o diferimento da receita bruta, consoante o art. 30, parágrafo único, da Lei nº 8.981, de 1995, combinados com o art. 3º da Lei nº 8.003, de 1990, pertinentes aos contratados para empreitada ou fornecimento a pessoa jurídica de direito público, ou empresa sob seu controle, empresa pública, sociedade de economia mista ou sua subsidiária, independem do prazo de execução de cada unidade a ser fornecida, desde que, no caso de execução a curto prazo, o faturamento seja realizado em valor por unidade e o contrato seja de longo prazo.
+Para fins de apuração da CSLL por pessoas jurídicas enquadradas na sistemática do lucro real, o valor integrante do lucro líquido do exercício, incluindo as variações monetárias e multas, que não tiver sido realizado e que seja decorrente de contratos a longo prazo com entidades governamentais, a preço predeterminado, poderá ser objeto de diferimento.
+Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, arts. 9º; 10, § 3º; e 12; Lei nº 8.981, de 1995, art. 30, parágrafo único; Lei nº 9.718, de 1998, art. 9º.
+Dispositivos Infralegais: IN SRF nº 21, de 1979, IN RFB nº 658, de 2004, IN RFB nº 1700, de 2017, art. 37, Parecer Normativo CST nº 72, de 1978.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+Ementa: CONTRATO. LONGO PRAZO. SOCIEDADE DE ECONOMIA MISTA. PRAZO DE EXECUÇÃO. LUCRO. RECEITA BRUTA. DIFERIMENTO.
+O diferimento da receita bruta, conforme o art. 8º da Lei nº 10.833, de 2003, combinado com os art. 10, § 3º, e 12 do Decreto-Lei nº 1.598, de 1977, pertinentes aos contratados para fornecimento a pessoa jurídica de direito público, ou empresa sob seu controle, empresa pública, sociedade de economia mista ou sua subsidiária, independe do prazo de execução de cada unidade a ser fornecida, desde que, no caso de execução a curto prazo, o faturamento seja realizado em valor por unidade e o contrato seja de longo prazo.
+Conforme a legislação incidente, o montante que poderá ser diferido inclui as variações monetárias e as multas.
+Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, arts. 9º; 10, § 3º; e 12; Lei nº 8.981, de 1995, art. 30, parágrafo único; Lei nº 9.718, de 1998, art. 9º; Lei nº 10.833, de 2003, art. 8º.
+Dispositivos Infralegais: IN SRF nº 21, de 1979, IN RFB nº 658, de 2004, IN RFB nº 1700, de 2017, art. 37.
+Assunto: Contribuição para o PIS/Pasep
+Ementa: CONTRATO. LONGO PRAZO. SOCIEDADE DE ECONOMIA MISTA. PRAZO DE EXECUÇÃO. LUCRO. RECEITA BRUTA. DIFERIMENTO.
+O diferimento da receita bruta, conforme o art. 8º da Lei nº 10.833, de 2003, combinado com os art. 10, § 3º, e 12 do Decreto-Lei nº 1.598, de 1977 pertinentes aos contratados para fornecimento a pessoa jurídica de direito público, ou empresa sob seu controle, empresa pública, sociedade de economia mista ou sua subsidiária, independe do prazo de execução de cada unidade a ser fornecida, desde que, no caso de execução a curto prazo, o faturamento seja realizado em valor por unidade e o contrato seja de longo prazo.
+Conforme a legislação incidente, o montante que poderá ser diferido inclui as variações monetárias e as multas.
+Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, arts. 9º; 10, § 3º; e 12; Lei nº 8.981, de 1995, art. 30, parágrafo único; Lei nº 9.718, de 1998, art. 9º; Lei nº 10.833, de 2003, arts. 8º e 15, inciso V.Dispositivos Infralegais: IN SRF nº 21, de 1979, IN RFB nº 658, de 2004, IN RFB nº 1700, de 2017, art. 37.
+[arquivo anexo: SC Cosit nº 71-2019.pdf]
