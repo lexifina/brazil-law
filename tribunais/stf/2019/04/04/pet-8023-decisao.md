@@ -1,0 +1,26 @@
+DECISÃO
+Ementa: Petição. Pretensão de conferir efeito suspensivo a recurso extraordinário interposto na origem. Ausência de recebimento dos autos nesta corte. Negativa de seguimento.
+1. A jurisprudência desta Corte tem se orientado no sentido de que a atribuição de efeito suspensivo pressupõe que os autos estejam fisicamente neste Tribunal, momento em que se instaura a jurisdição cautelar do STF. Precedentes.
+2. Extinção do processo sem julgamento do mérito.
+    1. Trata-se de ação cautelar, autuada como petição, cujo objetivo é atribuir efeito suspensivo a recurso extraordinário interposto em face da decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+    2. Na decisão impugnada, o TJ/SP negou provimento ao Agravo de Instrumento em execução de título extrajudicial, sob o fundamento de que a falta de intimação dos requerentes não gera prejuízo apto a causar a nulidade do laudo pericial.
+    3. Negado provimento ao agravo, foram interpostos recursos especial e extraordinário. O STJ, ao negar provimento ao recurso, determinou o prosseguimento da execução em primeiro grau.
+    4. Em síntese, os autores pedem a nulidade do laudo pericial realizado sem a intimação dos requerentes, destacando que isso teria contribuído para a subavaliação do imóvel em 361 % (trezentos e sessenta e um por cento). Pleiteiam, ainda, efeito suspensivo ao recurso extraordinário, para sobrestar a execução originária, uma vez que o julgamento posterior à realização da praça tornaria inócuo eventual provimento do recurso.
+    5. É o relatório. Decido.
+    6. A pretensão não merece acolhida. A jurisprudência desta Corte tem se orientado no sentido de que a concessão de tutela de urgência no âmbito do recurso extraordinário interposto pela parte interessada é medida excepcional, justificada apenas mediante o preenchimento dos pressupostos a seguir: (i) a instauração de jurisdição cautelar do Supremo Tribunal Federal, por meio da existência de juízo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem ou resultante do provimento do recurso de agravo de instrumento; (ii) a viabilidade processual do recurso extraordinário interposto; (iii) a plausibilidade da tese jurídica veiculada no recurso extraordinário; (iv) a existência do periculum in mora, pela demora na apreciação do apelo extremo.
+    7. Tais requisitos não ocorrem no presente caso. Com efeito, o recurso extraordinário, interposto na origem, não foi remetido a este Tribunal. A jurisprudência desta Corte tem se orientado no sentido de que a atribuição de efeito suspensivo pressupõe que os autos estejam fisicamente nesta Corte, momento em que se instaura a jurisdição cautelar do Supremo Tribunal Federal. A título exemplificativo, confiram-se os seguintes precedentes:
+    AGRAVO REGIMENTAL. AÇÃO CAUTELAR. RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. ADMISSIBILIDADE DE MEDIDAS CAUTELARES PARA A CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO EXTRAORDINÁRIO APÓS A EC 45/04. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL SOMENTE QUANDO OS AUTOS ESTIVEREM FISICAMENTE NESTA CORTE. PRECEDENTE. AGRAVO IMPROVIDO.
+    1. A concessão de efeito suspensivo a recurso extraordinário é medida de caráter excepcional, sob pena de tornar inócua a determinação veiculada pelo § 2º do art. 542 do CPC.
+    2. A competência do Supremo Tribunal Federal para a concessão de efeito suspensivo a recurso extraordinário em medidas cautelares restringe-se aos casos urgentes em que o recurso, devidamente admitido, encontrar-se fisicamente nesta Corte, ainda que sobrestado.
+    3. Compete ao tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada. [QO-MC-AC n. 2.177, Relatora a Ministra ELLEN GRACIE, DJe de 20.2.09].
+    4. Na hipótese dos autos, o recurso extraordinário da requerente, embora admitido na origem, encontra-se no Superior Tribunal de Justiça. Aquela Corte, enquanto pendente de apreciação o recurso especial, é competente para o exame de medidas cautelares que visem à suspensão dos efeitos do acórdão recorrido.
+    5. Agravo regimental a que se nega provimento (AC 1454 AgR, Primeira Turma, Rel. Min. Cármen Lúcia, j. em 03.04.2007).
+    AGRAVO REGIMENTAL NA AÇÃO CAUTELAR – PEDIDO DE EFEITO SUSPENSIVO AO RECURSO EXTRAORDINÁRIO ADMITIDO NA INSTÂNCIA DE ORIGEM, PORÉM SEM RECEBIMENTO E AUTUAÇÃO NESTE SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A concessão de efeito suspensivo em recurso extraordinário reveste-se de excepcionalidade absoluta, razão pela qual as hipóteses nas quais a suspensão ocorre devem ser interpretadas restritivamente.
+    2. Decisão agravada mantida pelos seus próprios fundamentos.
+    3. Agravo regimental ao qual se nega provimento. (AC 2206 AgR, Segunda Turma, Rel. Min. Eros Grau, j. em 04.08.2009).
+    8. Diante do exposto, considerando o firme entendimento desta Corte quanto à questão em análise, nego seguimento à presente petição (RI/STF, art. 21, § 1º), ficando prejudicado o exame do pedido de medida liminar.
+    Publique-se. Intimem-se.
+Brasília, 04 de abril de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
