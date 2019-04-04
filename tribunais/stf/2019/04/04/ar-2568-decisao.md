@@ -1,0 +1,14 @@
+Despacho:
+    1. Trata-se de petição por meio da qual o autor requer a expedição de alvará judicial para o levantamento do valor depositado nos autos, nos termos do art. 968, II, do CPC, retendo-se desde já o valor da multa aplicada no acórdão dos embargos de declaração. Argumenta que, como o julgamento do agravo interno foi por maioria, nos termos do art. 974, parágrafo único, do CPC, o depósito não deve ser convertido em favor do réu, mas sim levantado pelo autor.
+    2. Assiste razão ao requerente. Nos termos do art. 968, II, do CPC, o depósito somente deve ser convertido em multa nos casos em que a ação seja declarada inadmissível ou improcedente por unanimidade, norma consonante com o que dispõe o parágrafo único do art. 974 do CPC, de acordo com o qual apenas nos casos de julgamento unânime em desfavor do autor o valor do depósito deverá ser convertido em favor do réu. Tendo em vista que o julgamento do agravo interno não foi unânime, deve o depósito ser revertido em favor do autor, desde que retidos os ônus da sucumbência e o valor da multa aplicada.
+    3. Destaco, nesse sentido, o entendimento do Min. Luiz Fux:
+    “O depósito previsto pelo art. 968, II, do CPC/2015 é condição específica de procedibilidade da ação rescisória, constituindo requisito de necessária observância para sua propositura. Nesse sentido é o art. 968, §3º, do CPC/2015.
+    Ressalte-se que a ratio essendi dessa condição específica da ação rescisória – o depósito prévio estipulado pelo art. 968, II, do CPC/2015 – é impor aos autores mais um requisito a ser avaliado antes da propositura desta ação, que não se destina a rediscutir questões já debatidas no processo original e cujo cabimento deve se revestir de estrita excepcionalidade, tendo em vista, principalmente, a garantia constitucional da coisa julgada (art. 5º, XXXVI, da CRFB/88).
+    Com efeito, o próprio art. 974 do CPC/2015 prevê que apenas nos casos em que a ação for julgada, por unanimidade, improcedente ou inadmissível é que o valor do depósito será convertido em favor do réu. In casu, entretanto, o acórdão da Primeira Turma deste Tribunal que desproveu o agravo interno não foi unânime, tendo ficado vencido o Min. Marco Aurélio. Dessarte, após o desconto da multa aplicada, o valor depositado deve ser revertido em favor da autora.” (AC 3079 CumpSent, Rel. Min. Luiz Fux, julgado em 28.05.2018, p. 30.05.2018)
+    4. Ante o exposto, defiro o pedido formulado e determino a expedição de alvará de levantamento do valor do depósito em favor do autor, descontando-se do seu montante a quantia referente à multa de 2% (dois por cento) sobre o valor atualizado da causa.
+    5. Remetam-se os autos à Secretaria deste Tribunal para as providências cabíveis.
+    6. Intime-se a União a respeito do valor da multa.
+          Publique-se. Intime-se.
+Brasília, 04 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
