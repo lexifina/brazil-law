@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto por Moisés da Rocha Oliveira, em favor de José Augusto de Queiroz Junior, contra decisão proferida pelo Ministro Ribeiro Dantas, do Superior Tribunal de Justiça (STJ), que negou provimento ao HC 485.020/SP.
+    Segundo os autos, o paciente foi condenado à pena de dois anos, quatro meses e vinte e quatro dias de reclusão, em regime semiaberto, e ao pagamento de doze dias-multa, pela prática do delito tipificado no art. 184, §2º, do Código Penal (violação de direito autoral).
+    Irresignada, a defesa interpôs apelação no Tribunal de Justiça do Estado de São Paulo, que foi desprovida nos termos do acórdão assim ementado:
+    “Apelação Criminal VIOLAÇÃO DE DIREITO AUTORAL. PRELIMINARES - Inconstitucionalidade do art. 184, § 2º, CP - Inexistência de ofensa ao princípio da taxatividade do Direito Penal - Inocorrência de inépcia da denúncia ou por violação ao artigo 530-D, do CPP - Não é necessário que haja identificação de todos os titulares do direito autoral e o prejuízo causado - Para a configuração do delito de violação de direito autoral é suficiente a perícia realizada por amostragem do produto apreendido, bastando a comprovação da inautenticidade. Preliminares rejeitadas. MÉRITO - Materialidade e autoria demonstradas - Inaplicabilidade dos princípios da adequação social e da insignificância. Penas corretamente fixadas. REJEITADAS AS PRELIMINARES, RECURSO DESPROVIDO.” (eDOC 1, p. 16)
+    Daí a impetração de habeas corpus no Superior Tribunal de Justiça, que não conheceu do writ por entender que não existia qualquer ilegalidade que ensejasse a concessão excepcional da ordem.
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza o argumento no sentido da atipicidade do delito em razão de a pirataria (violação de direito autoral) ser uma atividade socialmente aceita.
+    Requer, liminarmente e no mérito, a conversão o regime inicial de cumprimento da pena como aberto.
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental contra o referido decisum.
+    No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, “a”, da Constituição Federal.
+    No mesmo sentido, já se havia firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No caso, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste RHC, tendo em vista a situação fática assentada pelas decisões das instâncias inferiores, as quais apresentaram fundamentação legítima para justificar a manutenção do regime de cumprimento da pena, não socorrendo a defesa a tese de que da relativa aceitabilidade social da pirataria deveria decorrer a atipicidade da conduta, quando se sabe que a propriedade imaterial dos autores é bem jurídico tutelado pelo ordenamento brasileiro.
+    Ademais, a fixação do regime semiaberto para o início do cumprimento da pena foi devidamente justificada, estando, portanto, adequada à jurisprudência deste Tribunal. (RHC 144.447 AgR/SP, Min. Rel. Celso de Mello, DJe 7.2.2019; RHC 134.494 AgR/SP, Min. Rel. Celso de Mello, DJe 9.5.2017; HC 130.943 AgR/SP, Min. Rel. Celso de Mello, DJe 12.8.2016; HC 124.305/GO, Min. Rel. Teori Zavascki, DJe 19.12.2014; RHC 125.339/TO, Min. Rel. Dias Toffoli, DJe 2.2.2015)
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente recurso ordinário em habeas corpus.
+    Ante o exposto, nego seguimento ao presente recurso, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se. Int.
+    Brasília, 4 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
