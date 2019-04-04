@@ -1,0 +1,21 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA PREVENTIVO. FARMÁCIA DE MANIPULAÇÃO. PROIBIÇÃO DE CAPTAÇÃO E INTERMEDIAÇÃO DE RECEITA. VEDAÇÃO DE CENTRALIZAÇÃO DA MANIPULAÇÃO. §§ 1.º E 2.º, DO ART. 36 DA LEI Nº 5.991/73, COM A REDAÇÃO DADA PELA LEI Nº 11.951/09. CONSTITUCIONALIDADE DAS RESTRIÇÕES. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO. DENEGAÇÃO DA SEGURANÇA. RECURSO DESPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 1º, IV, e 170, “caput” e IV, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 5.991/73), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “Os §§ 1º e 2º do art. 36 da Lei nº 5.991/73, com a redação que lhes foi dada pela Lei nº 11.951/09, estabelecem:
+    ‘Art. 36. A receita de medicamentos magistrais e oficinais, preparados na farmácia, deverá ser registrada em livro de receituário.
+    § 1º É vedada a captação de receitas contendo prescrições magistrais e oficinais em drogarias, ervanárias e postos de medicamentos, ainda que em filiais da mesma empresa, bem como a intermediação entre empresas.
+    § 2º É vedada às farmácias que possuem filiais a centralização total da manipulação em apenas um dos estabelecimentos.’
+    Conquanto tais restrições caracterizem limitação à atividade realizada por farmácias e drogarias, e, por conseguinte, restrição à própria liberdade de comércio, como ressalta a apelante, a intervenção é absolutamente razoável e justificada, considerando-se os benefícios aos consumidores, especialmente o conhecimento prévio sobre em que estabelecimento, e consequentemente por qual profissional e em quais condições, será realizada a manipulação do fármaco que pretende adquirir.
+    .......................................................................................................
+    De se dizer, ainda, que não socorre a apelante o argumento no sentido de que proibição contida nos §§ 1º e 2º do art. 36 da Lei nº 5.991/73 seria dirigida apenas às drogarias, ervanárias e postos de medicamentos, não incluindo as farmácias homeopáticas.
+    Isso porque a vedação contida no dispositivo legal em comento é ampla quando alude à intermediação, proibindo-a com relação a quaisquer empresas, e não apenas àquelas que haviam sido mencionadas na redação do artigo.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.147.878/PR, Rel. Min. EDSON FACHIN – ARE 1.164.815/PR, Rel. Min. ROSA WEBER – RE 1.189.917/PR, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 04 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
