@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO — EMBARGOS À EXECUÇÃO FISCAL — IPTU — Período de 2007 a 2009 — Sociedade de economia mista prestadora de serviços públicos - Imunidade reconhecida - Precedentes do STJ — Honorários advocatícios — CPC, art. 85, § 3% inc. II Recurso parcialmente provido. ” (eDOC 1, p. 69)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 150, VI, a, do texto constitucional.
+    Nas razões recursais, alega-se que a Companhia Metropolitana de Habitação de São Paulo (COHAB), como sociedade de economia mista, integrante da Administração indireta, não poderia gozar da imunidade recíproca, porquanto não demonstrou o cumprimento dos requisitos para a obtenção do regime especial. (eDOC 1, p. 90-92)
+    Aduz, ainda, que o caráter econômico da atividade exercida pela empresa é incompatível com o instituto da imunidade condicionada. (eDOC 2, p. 93-95)
+    É o relatório.
+    Decido.
+    O recurso merece prosperar.
+    O Tribunal de origem, ao examinar a espécie dos autos, consignou que:
+    “Embora se trate de sociedade de economia mista, a COHAB se diferencia porque presta serviços e executa obras públicas, com poder de polícia administrativa, o que descaracteriza a natureza de simples exploradora de atividade econômica, como as demais sociedades de economia mista, sujeitando-se, portanto, às normas do direito público, como reconhecem diversos julgados no âmbito da chamada reciprocidade quanto à imunidade tributária.” (eDOC 1, p. 70)
+    Verifico que o acórdão de origem divergiu da jurisprudência desta Corte, que se firmou no sentido de que, para que seja assegurada a garantia prevista no art. 150, IV, a, da Constituição Federal, não se exige somente que a empresa estatal preste serviços público essencial, mas também que o serviço seja prestado em regime de exclusividade.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO CONSTITUCIONAL E TRIBUTÁRIO. IMUNIDADE RECÍPROCA. SERVIÇO PÚBLICO ESSENCIAL EM REGIME DE EXCLUSIVIDADE. PRECEDENTES. 1. A jurisprudência do STF afirma que o desempenho de serviço público essencial em regime de exclusividade autoriza o reconhecimento de imunidade tributária recíproca a sociedade de economia mista. Precedentes. 2. Agravo interno a que se nega provimento. (ACO 2304 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.8.2018)
+    “AGRAVO REGIMENTAL EM AÇÃO CÍVEL ORIGINÁRIA. DIREITO CONSTITUCIONAL E TRIBUTÁRIO. ESTADO QUE NOTIFICOU A ECT PARA RECOLHIMENTO DE ICMS. INCIDÊNCIA DA IMUNIDADE RECÍPROCA ÀS EMPRESAS PÚBLICAS PRESTADORAS DE SERVIÇO PÚBLICO. JURISPRUDÊNCIA. AGRAVO DESPROVIDO. 1. A ECT, atuando como empresa pública prestadora de serviço público, está albergada pela imunidade recíproca prevista no art. 150, VI, ‘a’ do texto constitucional. Precedentes. 2. No julgamento da ADPF 46, o Supremo Tribunal Federal afirmou o entendimento de que o serviço postal, prestado pela ECT em regime de exclusividade, não consubstancia atividade econômica estrita, constituindo modalidade de serviço público. 3. Agravo regimental a que se nega provimento.” (ACO 1331 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 12.12.2014)
+    Dessa forma, como a parte recorrida não presta serviço público em caráter de exclusividade, não deve gozar de benefícios fiscais não extensivos ao setor privado, conforme o disposto no art. 173, § 2°, da Constituição. No mesmo sentido, cito o RE 1.094.036/SP e ARE 1.087.471/SP, ambos de relatoria do Ministro Edson Fachin, bem como ARE 1.158.746, de relatoria do Ministro Ricardo Lewandowski.
+    Ante o exposto, dou provimento ao recurso extraordinário para afastar a imunidade tributária recíproca reconhecida à COHAB (art. 932, IV, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
