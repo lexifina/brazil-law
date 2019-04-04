@@ -1,0 +1,16 @@
+Decisão: Trata-se de habeas corpus em que se articula excesso de prazo no julgamento do RHC 105.840/SP pelo STJ.
+    O impetrante requer a concessão da ordem a fim de que seja determinado ao Ministro-Relator do referido recurso ordinário que inclua o processo na sessão de julgamento imediatamente posterior à comunicação da ordem ou naquela que o STF julgar razoável.
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com relação ao excesso de prazo, anoto que “a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a demora para conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (a) evidente desídia do órgão judicial; (b) exclusiva atuação da parte acusadora; ou (c) situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF/88” (HC 128833, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 08/09/2015, grifei).
+    No mesmo tom, “o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para se definir se houve ou não excesso, não se limitando o exame à mera soma aritmética dos prazos processuais (Precedentes do STF e do STJ). Dessa forma, o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando houver demora injustificada (Precedentes)” (HC 103385, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 08/02/2011, grifei).
+    Nessa linha, é cediço que inexiste extensão aritmeticamente precisa da duração razoável da marcha processual, incumbindo averiguar as particularidades do caso concreto.
+    No caso concreto, o RHC 105.840/SP foi distribuído por prevenção ao HC 361.402/SP, em 22.11.2018. Em 23.11.2018, os autos foram encaminhados ao Ministério Público Federal, que apresentou parecer em 11.12.2018. Em 12.12.2018, os autos foram conclusos ao Relator e, na mesma data, foi protocolada petição de impugnação, implicando novas providências da Coordenadoria da Sexta Turma. Em 14.12.2018, os autos retornaram conclusos ao Relator. Em 11.02.2019, foi protocolada petição de prioridade no julgamento do feito. Em 15.02.2019, os autos foram conclusos para julgamento.
+    Como se vê, o processo foi autuado em data relativamente recente e somente em 14.12.2018, o processo restou devidamente instruído e, aparentemente, pronto para julgamento. Decorrido apenas o lapso de três meses, a defesa suscitou, perante esta Corte, excesso de prazo na apreciação do feito.
+     Da situação fática evidenciada não depreendo, por ora, excesso de prazo que beire à teratologia, passível de concessão por meio da estreita via do habeas corpus. Ao contrário, o feito vem sendo impulsionado de maneira diligente pelo STJ e o transcurso do tempo, embora destoe do ideal, revela-se razoável e proporcional às intercorrências do processo.
+    2. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 4 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
