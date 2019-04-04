@@ -1,0 +1,13 @@
+Despacho: Em virtude das Petições STF 13.468/2019 e 13.493/2019, que comunicaram o falecimento do réu Roberto Braga de Carvalho Vianna, determinei a intimação do Ministério Público Federal, autor da ação de improbidade administrativa, a fim de promover a citação do espólio ou dos herdeiros do referido réu, no prazo de dois meses, durante o qual determinei a suspensão do processo, nos termos do artigo 313, I, do CPC/2015.
+    O Ministério Público Federal, intimado do referido despacho, apresenta manifestação na qual sustenta, em síntese, o que segue:
+    “Note-se que a comprovação do passamento de Roberto Braga de Carvalho Vianna foi trazida aos autos por seu patrono, calcada numa Informação, em tese, fornecida por órgão do Tribunal de Justiça fluminense. A certidão de óbito propriamente dita, contudo, não foi exibida.
+    O documento intitulado Informação – desprovido, inclusive, de assinatura ou chancela eletrônica que lhe confira autenticidade – apresentado tanto pelos advogados da corré Eliana Pinheiro dos Santos Bastos (f. 2648) quanto pelo patrono de Roberto Braga de Carvalho Vianna (f. 2651) – não pode ser considerado documento idôneo e apto a comprovar, em juízo, o evento morte.
+    Não se está aqui a negar o possível falecimento do corréu Roberto Braga de Carvalho Vianna. O que se afirma é que não há nos autos a competente certidão de óbito, documento capaz de confirmar, segundo nosso ordenamento jurídico, a morte de qualquer pessoa (Lei 6.015/1973, art. 32, c/c CPC, art. 615, parágrafo único; e CPP, arts. 62 e 683, parágrafo único).
+    Nessa quadra, o Ministério Público Federal requer, respeitosamente, a Vossa Excelência que suspenda, por ora, as determinações constantes do r. Despacho de f. 2656/2657, e, em contrapartida, determine a intimação do advogado Carlos Roberto Costa (OAB/RJ 92.480) para que proceda à juntada da certidão de óbito de Roberto Braga de Carvalho Vianna, noticiada na Petição STF 13493/2019 (f. 2649/2651).” (Doc. 44, grifos originais)
+    Com efeito, a “Informação” juntada aos autos (doc. 35 e 38), obtida em consulta pública aos Serviços Extrajudiciais do Estado do Rio de Janeiro, apesar possuir presunção de prova da morte, não contém todos os dados da certidão de óbito, como previsto no artigo 80 da Lei 6.015/1973.
+    Ex positis, DEFIRO o pedido do Ministério Público Federal e determino a juntada, pelo advogado Carlos Roberto Costa (OAB/RJ 92.480), da certidão de óbito do recorrente Roberto Braga de Carvalho Vianna, no prazo de 15 (quinze) dias, sob pena de continuidade do julgamento. Faculto à recorrente Eliana Pinheiro dos Santos Bastos a juntada da referida certidão.
+    Publique-se. Intime-se.
+    Brasília, 4 de abril de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
