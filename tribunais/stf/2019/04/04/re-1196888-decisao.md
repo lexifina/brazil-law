@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL - TCFA. VALOR. ATUALIZAÇÃO MONETÁRIA. PORTARIA.
+    A atualização monetária dos valores referentes à taxa de Controle e Fiscalização Ambiental - TCFA pode ser feita por meio de portaria interministerial, já que com base em lei prevendo os elementos essenciais da obrigação bem assim os limites e parâmetros da atualização, o que não implica a inobservância da reserva legal“ (pág. 14 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 150, I; 5°, II; e 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “Ora, nos termos do art. 97, §2º, do Código Tributário Nacional, não constitui majoração de tributo a simples atualização monetária - o que, portanto, pode ser realizado pelo Executivo, conforme jurisprudência pacífica do STJ, elaborada tendo em conta inicialmente o caso do IPTU (cf. Súmula 160 do STJ).
+    Ainda, no caso específico da TCFA em debate, a Medida Provisória nº 687, de 14-08-2015 (convertida na Lei nº 13.196, de 2015), em seu art. 3º, II, expressamente autorizava o Poder Executivo a atualizar monetariamente os valores, até o limite do valor acumulado de IPCA, o que, pelo Decreto nº 8.510, de 2015, foi atribuído a ato conjunto dos ministros da Fazenda e do Meio Ambiente (art. 1º, IV), de forma que não há se falar em violação ao princípio da legalidade.
+    Assim, como se trata apenas de correção monetária autorizada pela lei que estabeleceu ainda os parâmetros a ser seguidos, tem-se que foi observada a reserva legal quanto aos elementos essenciais da obrigação tributária e aos parâmetros e limites para a readequação do valor, caso em que não se verifica ilegalidade ou inconstitucionalidade na referida portaria.
+    Ademais, frise-se que a Lei nº. 13.196, de 2015, determinou mera atualização monetária da TCFA mediante aplicação do IPCA acumulado desde a data da última majoração. Vale dizer, limitou o aumento à taxa oficial de inflação do período em questão, que reflete, em linhas gerais, o aumento ou diminuição dos preços de produtos e serviços em todo o território nacional, de forma que não houve sequer aumento real (acima da inflação).
+    Destaca-se, ainda, que em sede de mandado de segurança (em que se exige prova pré-constituída) não é possível investigar em que medida aumentaram ao longo do tempo os custos do exercício do poder de polícia pelo IBAMA. Assim, diante da impossibilidade de dilação probatória, mostra-se inviável a análise, nestes autos, se a majoração excedeu ao real aumento dos custos.
+    […]
+    Por fim, cabe destacar que não é aplicável ao caso o § 2º do art. 97 do Código Tributário Nacional (Não constitui majoração de tributo, para os fins do disposto no inciso II deste artigo, a atualização do valor monetário da respectiva base de cálculo), pelo mesmo fato de que, no caso concreto, não se trata de reajuste de base de cálculo por ato isolado do Poder Executivo, mas sim de reajuste que seguiu as balizas advindas de lei em sentido formal.
+    Somente nessa hipótese de reajuste por ato isolado do Poder Executivo - o que não ocorre na espécie - é que seria válida a invocação do precedente formado no Supremo Tribunal Federal no julgamento do RE 648.245, que limita o reajuste à variação inflacionária dos últimos 12 (doze) meses (como no precedente citado, RE 648.245), aí sim mediante aplicação do dispositivo legal transcrito no parágrafo anterior.
+    Em conclusão, agiu acertadamente a juíza da causa ao denegar o presente mandado de segurança.
+    Ante o exposto, voto por negar provimento à apelação” (págs. 11-13 do documento eletrônico 2)
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    No mesmo sentido, cito os seguintes julgados: RE 1.138.647-AgR/SC, de minha relatoria; RE 1.070.439/PR, de relatoria do Ministro Celso de Mello; ARE 1.180.160/RJ, de relatoria do Ministro Gilmar Mendes; RE 1.176.823/RS, de relatoria do Ministro Alexandre de Moraes; e RE 1.161.574/RS, de relatoria do Ministro Roberto Barroso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 4 de abril de 2019.
+Ministro Ricardo Lewandowski
+Relator
