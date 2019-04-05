@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. IPVA. SUJEIÇÃO PASSIVA. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RECURSO EXTRAORDINÁRIO COM AGRAVO 748.371. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO AO ART. 1.267 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 282/STF. EXECUÇÃO FISCAL. IPVA. RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA DO EX-PROPRIETÁRIO DO VEÍCULO AUTOMOTOR. ALIENAÇÃO NÃO COMUNICADA AO ÓRGÃO DE TRÂNSITO. RESPONSABILIDADE PREVISTA EM LEI ESTADUAL. CABIMENTO. PRECEDENTES.
+    I – Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+    II – A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+    III – Na falta de comunicação ao órgão de trânsito da transferência de veículo automotor pelo alienante, será solidária a sua responsabilidade tributária pelo pagamento do IPVA, desde que haja previsão em lei estadual. Precedentes.
+    IV – A parte Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+    V – Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+    VI – Agravo Interno improvido. ” (Doc. 5, p. 43)
+    Nas razões do apelo extremo, o contribuinte sustenta preliminar de repercussão geral e, no mérito, apontou violação aos artigos 5º, LIII, LIV e LV, 146, III, a, e 155, III, da Constituição Federal.
+    Alega a ausência de responsabilidade solidária do alienante do veículo em caso, referente aos débitos executados originados do IPVA.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Ab initio, verifica-se que no tocante aos princípios da ampla defesa, do contraditório (artigo 5º, LV), do devido processo legal (artigo 5º, LIV) e os limites da coisa julgada (artigo 5º, XXXVI), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da relatoria do ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Além disso, ainda que ultrapassado esse óbice, observo que o Superior Tribunal de Justiça decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável à espécie (artigo 124, CTN), reconhecendo a responsabilidade solidária de débito do IPVA do alienante do veículo, quando prevista em lei estadual, cuja análise se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 5 de abril de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
