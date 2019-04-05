@@ -1,0 +1,26 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Isais Eugênio, em favor de José Luiz Monteiro Maia Junior, contra acórdão da Sexta Turma do STJ, nos autos do RHC 103.232/MS.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de recurso em habeas corpus interposto por Jose Luiz Monteiro Maia Junior contra o acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul no HC n. 1408878-89.2018.8.12.0000, que afastou a alegação de excesso de prazo nos Autos n. 0000990-12.2018.8.12.0014, da 1ª Vara da comarca de Maracaju.
+    Sustenta o recorrente, em suma, que a prisão preventiva decretada carece de fundamentação legal (fl. 189), que o acórdão do Tribunal local não considerou a primariedade, bons antecedentes, trabalho lícito, indiciado com família idônea, residência fixa (fl. 189), que nenhuma substância entorpecente foi encontrada em seu poder e que ele já está preso há mais de 131 dias (fl. 200), havendo nítido excesso de prazo para o qual não contribuiu a defesa. Requer, assim, a imediata revogação do decreto de prisão. Indeferi o pedido liminar.
+    Vieram informações e documentos.
+    Opinou o Ministério Público Federal pelo desprovimento do recurso, conforme parecer assim resumido (fl. 259):
+    […]
+    Pelo que consta do portal do Tribunal de Justiça na internet, até o momento, não houve prolação de sentença.
+    É o relatório. (www.stj.jus.br)
+    No STJ, o recurso não foi provido.
+    Nesta Corte, o impetrante alega a ocorrência de excesso de prazo, bem como a inversão na ordem do interrogatório.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que a controvérsia relativa à ordem do interrogatório não foi debatida pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Por isso mesmo, não conheço do pedido.
+    Quanto à tese de excesso de prazo, o STJ registrou:
+    No tocante ao alegado excesso de prazo, assim decidiu o Tribunal estadual (fls. 176/177 – grifo nosso):
+    [...] No caso em tela, embora o paciente esteja preso preventivamente desde 25/04/2018, as informações prestadas pela autoridade coatora, bem como a movimentação dos autos da Ação Penal n. 0000990-12.2018.8.12.0014 , mostram que o feito não está parado. Em suas informações a autoridade apontada como coatora, no tocante ao andamento da ação penal, consignou que (fls. 142-143): "...O feito encontra-se aguardando designação de audiência/vídeoconferência para o início da instrução. (...)." Em consulta ao sistema SAG PG5 Comarca de Maracaju/MS, autos da Ação Penal relativa aos fatos informados no presente writ, verifico que o fato ocorreu em 24/04/2018, tendo sido oferecida denúncia em 16/05/2018. Em 18/05/2018 (f.64) o magistrado singular proferiu despacho determinando a notificação do paciente para apresentar defesa prévia e determinando outras providências, sendo expedida a carta precatória para notificação do paciente, que encontra-se preso na Comarca de Dois Irmãos do Buriti/MS em 22/05/2018 (f.66), e sua defesa prévia juntada aos autos em 23/07/2018 (f.88-104). Em 23/08/2018 foi proferida decisão recebendo a denúncia, bem como, indeferindo o pedido de restituição do veículo apreendido postulado pela defesa do ora paciente, e determinando a designação da audiência de instrução e julgamento (f.144-145). Como se observa, na hipótese dos autos, o processo tramita na Comarca de Maracaju, no qual há necessidade de expedição de carta precatória para citação/intimação do paciente, já que o mesmo encontra-se preso na Comarca de Dois Irmãos do Buriti. Portanto, à luz do panorama fático-processual acima exposto, pode-se concluir, com extrema clareza, que o feito, até a atual fase em que se encontra, teve regular e pronto andamento, não havendo notícias da ocorrência de suposta morosidade ou retardo na implementação dos atos processuais, tampouco desídia ou inércia na prestação jurisdicional, não havendo o que se falar em coação ilegal por excesso de prazo. Nesse contexto, inviável o reconhecimento do alegado excesso de prazo porque o extrato de movimentação processual não indica que o judiciário deu causa ao retardamento da instrução processual, não havendo constrangimento ilegal a ser sanado pelo writ. (www.stj.jus.br)
+    Da leitura do excerto acima, não vislumbro constrangimento ilegal a justificar a concessão da ordem, sobretudo porque a marcha processual não foi interrompida em momento algum e a alegada demora está plenamente justificada, mormente pela necessidade de expedição da carta precatória.
+    Ante o exposto, conheço em parte do habeas corpus e, nessa parte, denego a ordem.
+    Publique-se.
+    Brasília, 5 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
