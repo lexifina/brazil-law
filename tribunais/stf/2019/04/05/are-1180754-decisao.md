@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. BENEFÍCIO DE ASSISTÊNCIA GRATUITA. PAGAMENTO DE HONORÁRIOS PERICIAIS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL.  ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “EMENTA - AGRAVO DE INSTRUMENTO - DECISÃO QUE DETERMINA AO ESTADO O ADIANTAMENTO DE HONORÁRIOS PERICIAIS DEVIDOS POR BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA - COLISÃO ENTRE AS NORMAS CONTIDAS NOS ARTIGOS 5°, LXXIV, E 100, CAPUT E § 3°, DA CONSTITUIÇÃO DA REPÚBLICA - NORMAS QUE VISAM A CONCRETIZAÇÃO DOS PRINCÍPIOS DO ACESSO À JUSTIÇA E PROTEÇÃO AO PATRIMÔNIO PÚBLICO - RESOLUÇÃO DO CONFLITO ATRAVÉS DA TÉCNICA DE INTERPRETAÇÃO DENOMINADA PONDERAÇÃO DE VALORES - PREVALÊNCIA, NO CASO CONCRETO, DO PRINCÍPIO DO ACESSO À JUSTIÇA - RECURSO IMPROVIDO.
+    I) Diante da norma que concretiza o princípio do acesso à justiça, garantindo aos necessitados a gratuidade do processo, deve-se interpretar o art. 100, caput, e § 3°, da Constituição da República, de forma a permitir o adiantamento dos honorários periciais pelo Estado em causas em que o favorecido pela prova seja beneficiário da assistência judiciária gratuita, sem a necessidade de inclusão na ordem de precatórios, tendo em vista se tratar de obrigação de pequeno valor e, outrossim, destinada a dar normal andamento ao processo, o qual, por sua vez, deve cumprir o preceito constitucional de razoável duração, que seria inviabilizado se o pagamento dos honorários periciais pudesse ser postergado para data indefinida.
+    II) Recurso conhecido e improvido.” (Doc. 1, f. 92)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 2, f. 15)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 93, IX e 100, caput e § 3° da Constituição Federal. (Doc. 2, fls. 20-28)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria reflexa e porque as alegações encontrariam óbice na Súmula 286 do STF. (Doc. 2, f. 37)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, verifica-se que a remuneração do perito, em caso de gratuidade de justiça, quando sub judice a controvérsia sobre a responsabilidade do Estado pelo seu pagamento, implica a análise da legislação infraconstitucional aplicável à espécie (Lei 1.060/1950), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. BENEFICIÁRIO DE ASSISTÊNCIA GRATUITA. PAGAMENTOS DE HONORÁRIOS PERICIAIS. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 782.538-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 26/3/2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Gratuidade de justiça. Remuneração do perito. Responsabilidade do Estado. Controvérsia que depende do exame prévio da legislação infraconstitucional - Lei 1.060/1950. Ofensa reflexa à Constituição Federal. Inviabilidade do recurso extraordinário. 3 Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.” (ARE 746.649-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 24/6/2013)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduz à aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 5 de abril de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
