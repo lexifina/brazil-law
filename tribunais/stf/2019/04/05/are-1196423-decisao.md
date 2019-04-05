@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Pernambuco confirmou o entendimento do Juízo quanto à procedência do pedido de complementação da remuneração paga ao recorrido a menor quando do reajuste do salário mínimo nos anos de 2003 e 2004. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 7º, inciso IV, 39, §3º da Constituição Federal. Aponta a impossibilidade de o Poder Judiciário aumentar vencimentos de servidores sob o fundamento de isonomia. Diz contrariados os verbetes vinculantes nº 4 e nº 16 da Súmula do Supremo. Articula com a vedação de utilização do salário mínimo como indexador de base de cálculo de vantagem de servidor público.
+    2. Quanto à evocação do enquadramento do extraordinário nas alíneas “c” e“d” do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do recorrente, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal, tampouco de norma local, considerado o previsto em legislação federal. Incabível o recurso no particular.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença expressamente mantida o seguinte trecho:
+    Cuida-se de ação ordinária de cobrança de diferença de salário mínimo, formulado pelo(a) autor(a), alegando este(a) que na condição de funcionário(a) público(a) municipal, percebe remuneração de 01 (um) salário mínimo.
+    Diz, o(a) autor(a), que no ano de 2003, o salário mínimo passou para R$ 240,00 (duzentos e quarenta reais), entretanto, o requerido só veio a pagar dito valor em fevereiro de 2004, perfazendo, assim, um espaço de 09 (nove) meses. Diz mais que, o requerido repetiu a conduta no ano subseqüente de 2004, deixando os funcionários sem os necessários reajustes salariais.
+    O município quedou-se inerte, nada aduzindo em defesa.
+    Diz a Constituição Federal em seu art. 7º:
+    "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
+    IV - Salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada a sua vinculação para qualquer fim".
+    Ainda, a alegada Sumula Vinculante do Supremo Tribunal Federal, veda a utilização do salário mínimo como indexador de base de cálculo salarial ou de vantagem de servidor público, o que não é o caso do pedido.
+    O pedido constante da peça inicial, não se refere a vinculação do salário mínimo para qualquer fim, mas, unicamente a cobrança da diferença dos reajustes ocorridos nos anos de 2003 e 2004, que não foram concedidos.
+    O requerido nada rebateu do que consta da peça inicial, a prova dos autos depõe contra, uma vez que o município a quem caberia o ônus da prova contrária, não ofereceu defesa, não juntando documentos, onde poderia se vislumbrar que o mesmo cumpriu o que determina a legislação sobre a matéria. Nenhum servidor público poderá receber a título de salário, importância inferior ao fixado por lei, o que é nacionalmente unificado pela União, norma que gera conseqüências em todas as unidades da Federação.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Diante da condenação ao pagamento dos honorários no patamar de 10% sobre o valor da condenação, fixo os honorários recursais no em 5%, consoante o artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 5 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
