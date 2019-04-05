@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXVI, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 5º, XXVI, da Constituição da República. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Repercussão geral. Tópico devidamente fundamentado. Ausência. Pequena propriedade rural. Penhora. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07 devem demonstrar, em tópico devidamente fundamentado, a existência da repercussão geral das questões constitucionais discutidas no apelo extremo (AI nº 664.567/RS-QO). 2. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido, com imposição de multa de 2% sobre o valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Inaplicável o art. 85, § 11, do CPC, pois não houve a fixação prévia de honorários advocatícios na causa.” (ARE 1062092 AgR, Relator(a): Min. Dias Toffoli, Segunda Turma, julgado em 29.9.2017, PROCESSO ELETRÔNICO DJe-239 DIVULG 19.10.2017 PUBLIC 20.10.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Impenhorabilidade. Pequena propriedade rural. Necessidade do reexame do conjunto fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 810642 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 03.6.2014, PROCESSO ELETRÔNICO DJe-118 DIVULG 18.6.2014 PUBLIC 20.6.2014)
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de abril de 2019.
+Ministra Rosa Weber
+Relatora
