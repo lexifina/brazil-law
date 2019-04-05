@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de diferenças salariais. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta violação dos artigos 18, cabeça, e 37, incisos X e XIII, da Constituição Federal. Alega impossibilidade de vinculação da remuneração de servidores públicos.
+    2. Colho da decisão recorrida os seguintes fundamentos:
+    Não há que se falar em inconstitucionalidade do artigo 27 da lei complementar municipal nº 32/2010, o qual é nitidamente constitucional ante a liberdade conferida ao ente municipal pelo artigo 206, inciso V da Constituição Federal para elaboração do seu plano de carreira, e em nada ofende o artigo 37, inciso XIII da CF, porque não há utilização do reajuste do piso como indexador, ou seja, não se trata de incidência do percentual de reajuste do piso de forma automática sobre o vencimento base de cada professor independente do valor que esteja percebendo e do nível em que esteja atualmente, e sim aplicação de um vencimento mínimo autorizado constitucionalmente que deve ser observado por todos os entes na carreira do Magistério Público e, no caso do município de Lagarto, com reflexos sobre toda a carreira por opção do ente municipal que o instituiu como base de cálculo para escalonamento dos demais níveis.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil, considerada a fixação de referida verba, pelo Tribunal local, no patamar limite de 20% do valor da causa.
+    4. Publiquem.
+Brasília, 5 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
