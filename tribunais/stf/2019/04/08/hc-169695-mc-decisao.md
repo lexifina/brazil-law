@@ -1,0 +1,15 @@
+Decisão: Trata-se de habeas corpus interposto contra decisão monocrática do Superior Tribunal de Justiça, que indeferiu pedido liminar no HC 497.692/CE.
+    Narra o impetrante que: a) o STF determinou, nos autos do RHC 160.538, que o processo em que o paciente figura como réu fosse sentenciado no prazo máximo de 60 (sessenta) dias, contudo a decisão não foi cumprida; b) o Juízo de primeiro grau declinou a competência para a Vara de Organização Criminosa na cidade de Fortaleza/CE; c) somente em 11.03.2019 o processo foi concluso ao novo juízo, que também se declarou incompetente; d) os autos serão encaminhados ao Juízo da Comarca de Independência/CE; e) as provas testemunhais e demais diligências confirmam que o paciente sequer participou do fato delituoso; todavia, ainda assim, a sua prisão preventiva persiste; f) os fundamentos que motivaram a prisão preventiva não subsistem; g) a ação penal iniciou em 2011 e até o presente momento o processo sequer se encontra na fase final; h) o paciente está preso desde 27.03.2016 e em nada colaborou para o excesso de prazo na formação da culpa; i) apesar de o TJCE reconhecer o excesso de prazo, denegou a ordem de habeas corpus.
+    À vista dos argumentos, pugna, liminarmente, pela soltura imediata do paciente e, no mérito, pela confirmação da liminar ou, subsidiariamente, pela imposição de medidas cautelares diversas da prisão.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Solicitem-se, com urgência, informações ao Juízo da Vara Única da Comarca de Independência/CE (com envio de cópia da petição inicial deste habeas corpus e da decisão proferida no RHC 160.538), a fim de que se manifeste acerca do contido na inicial do presente writ, especialmente sobre o histórico do andamento processual, e comunique sobre o cumprimento da ordem proferida nos autos do RHC 160.538 ou justifique os motivos pelos quais eventualmente ficou impossibilitado de fazê-lo.
+    Com as informações, abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 08 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
