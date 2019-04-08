@@ -1,0 +1,25 @@
+SUSPENSÃO DE SEGURANÇA. ELEIÇÃO PARA CARGO DE PRESIDENTE DA CÂMARA DE VEREADORES DE MACAPÁ/AP. ANULAÇÃO DO PROCESSO ELEITORAL. PEDIDO DE CONTRACAUTELA FORMULADO POR PESSOA FÍSICA. ILEGITIMIDADE ATIVA. UTILIZAÇÃO DA MEDIDA DE CONTRACAUTELA COMO RECURSO. DESCABIMENTO. PEDIDO DE SUSPENSÃO DE SEGURANÇA A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de suspensão de segurança, com pedido de liminar, ajuizada por Ruzivan de Jesus Pontes da Silva, com o objetivo de sustar os efeitos de decisum concessivo de segurança prolatado pelo Tribunal de Justiça do Estado do Amapá nos autos do Mandado de Segurança 0000124-61.2019.8.03.0000, bem como de ver declarada a nulidade de “qualquer ato praticado pela eleição realizada no dia 04/04/2019 por ter sido prosseguido de forma ilegal pelo 1º secretário que não tinha poderes para conduzir a eleição, pois foi cancelada pelo presidente em exercício, Yuri Pelaes”.
+    Sustentou o requerente, em síntese, a nulidade do decisum, por violação aos princípios da separação dos poderes, do contraditório, da ampla defesa e do devido processo legal, ensejando, desse modo, grave lesão à ordem pública e administrativa.
+    É o relatório. DECIDO.
+    Em que pesem os argumentos postos pelo demandante, verifica-se a sua ilegitimidade para a utilização do instrumento da medida de contracautela de suspensão de segurança.
+    Com efeito, tratando-se de pedido de suspensão de segurança, incide à espécie a regra dos artigos 15 da Lei 12.016/2009 e 297 do RISTF, in verbis:
+    “Art. 15. Quando, a requerimento de pessoa jurídica de direito público interessada ou do Ministério Público e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, o presidente do tribunal ao qual couber o conhecimento do respectivo recurso suspender, em decisão fundamentada, a execução da liminar e da sentença, dessa decisão caberá agravo, sem efeito suspensivo, no prazo de 5 (cinco) dias, que será levado a julgamento na sessão seguinte à sua interposição.
+    § 1o Indeferido o pedido de suspensão ou provido o agravo a que se refere o caput deste artigo, caberá novo pedido de suspensão ao presidente do tribunal competente para conhecer de eventual recurso especial ou extraordinário.
+    § 2o É cabível também o pedido de suspensão a que se refere o § 1o deste artigo, quando negado provimento a agravo de instrumento interposto contra a liminar a que se refere este artigo.
+    § 3o A interposição de agravo de instrumento contra liminar concedida nas ações movidas contra o poder público e seus agentes não prejudica nem condiciona o julgamento do pedido de suspensão a que se refere este artigo.
+    § 4o O presidente do tribunal poderá conferir ao pedido efeito suspensivo liminar se constatar, em juízo prévio, a plausibilidade do direito invocado e a urgência na concessão da medida.
+    § 5o As liminares cujo objeto seja idêntico poderão ser suspensas em uma única decisão, podendo o presidente do tribunal estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original” (grifos meus).
+    “Art. 297. Pode o Presidente, a requerimento do Procurador-Geral, ou da pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, suspender, em despacho fundamentado, a execução de liminar, ou da decisão concessiva de mandado de segurança, proferida em única ou última instância, pelos tribunais locais ou federais.
+    §1º O Presidente pode ouvir o impetrante, em cinco dias, e o Procurador-Geral, quando não for o requerente, em igual prazo.
+    §2º Do despacho que conceder a suspensão caberá agravo regimental.
+    §3º A suspensão de segurança vigorará enquanto pender o recurso, ficando sem efeito, se a decisão concessiva for mantida pelo Supremo Tribunal Federal ou transitar em julgado” (grifos meus).
+    Destarte, pessoa física não ostenta, em regra, legitimidade para o ajuizamento de pedido de suspensão de segurança.
+    Insta ressaltar, ademais, que nada obstante a relevância dos argumentos invocados, não se extrai da exordial a imprescindível transcendência do interesse de ordem pessoal do postulante para a esfera pública, ou seja, a demonstração de grave lesão a um interesse público relevante, a legitimar-lhe excepcionalmente para a formulação de pedido de contracautela. Nesse sentido: SL 1.121 AgR, Rel. Min. Presidente Cármen Lúcia, Tribunal Pleno, DJe de 17/4/2018; SL 1.023, Rel. Min. Presidente Ricardo Lewandowski, DJe de 4/8/2016; SS 5.148, Rel. Min. Presidente Ricardo Lewandowski, DJe de 4/8/2016.
+    Ademais, o pedido, in casu, guarda nítido cunho de recurso, incompatível com a natureza jurídica da medida de contracautela. Nesse sentido: SL 14, Rel. Min. Maurício Corrêa, DJ de 3/10/2003; SL 80, Rel. Min. Nelson Jobim, DJ de 19/10/2005; SL 98, Rel. Min. Ellen Gracie, DJ de 1/2/2006; e STP 80, Rel. Min. Cármen Lúcia, DJe de 6/8/2018.
+    Ex positis, NEGO SEGUIMENTO ao pedido, com fundamento nos artigos 21, § 1º, e 297 do RISTF.
+    Publique-se.
+    Brasília, 8 de abril de 2019.
+Ministro LUIZ FUX
+Presidente em exercício
+Documento assinado digitalmente
