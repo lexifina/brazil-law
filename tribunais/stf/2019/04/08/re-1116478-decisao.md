@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região.
+    Em decisão de minha lavra (evento 11), determinei, com base no art. 328, parágrafo único, do RI/STF, o retorno dos autos à origem, a fim de que fosse observada a sistemática da repercussão geral relativamente a aplicação ao caso do Tema 20 (RE 565.160/RG, Rel. Min. Marco Aurélio).
+    A Vice-Presidente do Tribunal Regional Federal da 4ª Região, reencaminhou os autos para nova reapreciação do recurso excepcional (despacho do evento 16), em eventual juízo de retratação. Fundamentou seu despacho nos seguintes termos: (i) que a matéria relativa à natureza jurídica (indenizatória ou remuneratória) das verbas é de índole infraconstitucional, razão pela qual seria inaplicável ao caso o Tema 20; (ii) que houve repercussão geral reconhecida recentemente quanto ao terço constitucional de férias gozadas (Tema 985 da sistemática da repercussão geral).
+    A União, por sua vez, peticionou (evento 18), manifestando-se no sentido de que “Nos termos do artigo 1.040, II do CPC, cabe ao órgão que proferiu o acórdão recorrido o reexame do processo. Portanto, em que pese a decisão da Vice-Presidente ter determinando à remessa ao relator, o processo deve, necessariamente, passar pelo crivo do órgão colegiado, sob pena de afronta ao disposto no Código de Processo Civil”.
+    Ante tal manifestação, houve remessa dos autos ao Órgão Julgador Colegiado, ocasião em que o acórdão proferido restou mantido consoante decisão no evento 24 dos autos eletrônicos, assim fundamentada:
+    “Vieram os presentes autos para manifestação deste Relator ‘sobre a necessidade de retratação, relativamente à incidência da contribuição previdenciária patronal no terço constitucional de férias gozadas’.
+    O STF, no julgamento do RE 565.160, objeto do Tema 20, decidiu que a contribuição social a cargo do empregador incide sobre os ganhos habituais do empregado, quer anteriores ou posteriores a EC 20/98, não definindo, no entanto, quais verbas pagas pelos empregadores constituem ganho habitual dos empregados (questão jurídica tida pelo Colendo STF como infraconstitucional, conforme referido na fundamentação do acórdão do RE nº 565.160/SC).
+    O acórdão proferido pela Turma, ao decidir sobre a não incidência da contribuição previdenciária sobre o terço constitucional de férias, adotou o entendimento prevalente em recurso repetitivo julgado pelo Colendo STJ (REsp 1.230.957/RS – Tema 479), tribunal competente para a interpretação da legislação federal.
+    Em relação à decisão do STF no ARE 1.048.172 (STF), pendem de julgamento os embargos divergentes interpostos, razão pela qual é de ser mantido o posicionamento adotado no acordão ora recorrido.
+    Nesse contexto, entendo que não se trata de hipótese a ser submetida a juízo de retratação (manutenção ou não do entendimento), visto que o acórdão desta Turma não contrariou o decidido pelo STF no tema 20, com ele sendo harmônico, razão pela qual não se faz necessária a submissão da questão ao órgão colegiado.
+    Retornem os autos, pois, à Vice-Presidência.”
+    Em razão da manutenção do acórdão recorrido, a Vice-Presidência, em despacho (evento 26), admitiu o recurso extraordinário, razão pela qual os autos retornaram a esta Corte.
+    Analiso o recurso extraordinário.
+    Quanto ao aviso prévio indenizado, o Supremo Tribunal Federal (STF) já se manifestou sobre a ausência de repercussão geral, no ARE 745.901-RG, Rel. Min. Teori Zavascki (Tema 759).
+    Qaunto ao pagamento feito ao empregado nos primeiros quinze dias de afastamento, há entendimento do Plenário do STF também pela ausência de repercussão geral, no RE 611505 RG, Rel. Min. Edson Fachin (Tema 482), em que foram opostos embargos de declaração com possíveis efeitos infringentes, pendentes de apreciação pela Corte.
+    Quanto à incidência de contribuição previdenciária sobre o terço constitucional de férias, cumpre registrar que o Plenário do STF, ao apreciar o RE 1.072.485-RG, Rel. Min. Edson Fachin, reconheceu a repercussão geral da matéria em exame (Tema 985 da Repercussão Geral).
+    Diante do exposto:
+    (i) quanto à incidência de contribuição previdenciária patronal sobre os valores pagos a título de aviso prévio indenizado, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso;
+    (ii) quanto à incidência de contribuição previdenciária patronal sobre o pagamento feito ao empregado nos primeiros quinze dias de auxílio-doença, base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, para que seja aplica a sistemática da repercussão geral, após a finalização do julgamento dos referidos embargos de declaração;
+    (iii) quanto à incidência de contribuição previdenciária patronal sobre os valores pagos a título de terço constitucional de férias, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 08 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
