@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “TRIBUTÁRIO. FORNECIMENTO DE HABITAÇÃO NÃO-INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA. BENEFÍCIO INDISPENSÁVEL À REALLIZAÇÃO DO TRABALHO.
+    1. Em face da natureza tribuária das contribuições sociais, o prazo prescricional é aquele do artigo 174 do CTN, e não o do artigo 46 da Lei nº 8.212/91 (súmula vinculante nº 8 do Supremo Tribunal Federal).
+    2. A jurisprudência dos nossos Tribunais Federais vem acompanhando o entendimento cristalizado no âmbito do eg. Tribunal Superior do Trabalho, através do seu enunciado de Súmula 367, no sentido de que a habitação fornecida pelo empregador ao empregado, quando indispensável para a realização do trabalho, não tem natureza salarial.
+    3. Hipótese em que a conclusão da perícia judicial produzida nos autos bem revela a necessidade do fornecimento da habitação aos empregados da CHESF para a implantação e desenvolvimento das usinas em Sobradinho (BA), PauloAfonso (BA), Itaparica (PE), Xingó (AL) e Boa Esperança (PI),mormente quando é de sabença geral a falta de infraestrutura nos acampamentos, principalmente no período de apuração das contribuições previdenciárias em questão.
+    4. Atendendo-se aos ditames do § 4º do art. 20 do CPC e em observância aos critérios previstos no seu § 3º, faz-se justa e razoável a fixação da verba honorária em R$ 20.000, 00 (viinte mil reais).
+    5. Apelação e remessa oficial parcialmente providas”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XVII; 194; 195, I, a; e 201, §§ 4º e 11, todos da CF. Sustenta que as moradias disponibilizadas aos empregados da recorrida compõem a base de cálculo da contribuição previdenciária, porquanto se classificam como parcela remuneratória.
+    A pretensão recursal não merece prosperar. A jurisprudência do Supremo Tribunal Federal vem, reiteradamente, negando a repercussão geral de controvérsias relativas à cobrança de contribuição previdenciária sobre valores pagos pelo empregador, quando pendente discussão acerca da natureza jurídica das verbas. Nesse sentido, confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA DE VERBAS PAGAS AO TRABALHADOR. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. ACÓRDÃO RECORRIDO PUBLICADO EM 02.7.2015.
+    1. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (RE nº 945.513, Relª. Minª. Rosa Weber)
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PATRONAL. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES 1. A jurisprudência desta Suprema Corte entende ser de índole infraconstitucional a discussão da natureza da verba (remuneratória ou indenizatória) para fins de incidência de tributo. 2. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC/2015.” (RE 967.780-AgR, sob a minha relatoria)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
