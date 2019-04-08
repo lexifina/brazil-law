@@ -1,0 +1,26 @@
+DECISÃO
+VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. Eis as balizas reveladas pelo assessor Dr. Vinicius de Andrade Prado:
+    Cemig Distribuição S. A. assevera haver a Primeira Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0000568-11.2013.5.03.0015, olvidado o verbete vinculante nº 10 da Súmula do Supremo, bem assim o decidido na arguição de descumprimento de preceito fundamental nº 324.
+    Segundo narra, a interessada, Emília Costa de Souza, ajuizou ação contra si e A&C Centro de Contatos S. A., esta na condição de empregadora e prestadora de serviços, objetivando, considerado o princípio da isonomia, o recebimento de verbas trabalhistas levando em conta o que pago aos próprios empregados. Salienta a procedência parcial dos pedidos formulados, no que reconhecida a ilicitude da terceirização verificada. Interposto recurso ordinário, o entendimento foi mantido. Realça o subsequente desprovimento de agravo de instrumento. Protocolado extraordinário, encontra-se suspenso.
+    Diz ofendido o acórdão da arguição de descumprimento de preceito fundamental nº 324 no qual fixada tese no sentido da licitude da terceirização de toda e qualquer atividade, meio ou fim. Assevera a insubsistência do verbete nº 331 da Súmula do Tribunal Superior do Trabalho ante o assentado no paradigma.
+    Sustenta contrariado o verbete vinculante nº 10, afirmando afastado, com alegada base na Constituição Federal e por órgão fracionário, o artigo 25, § 1º, da Lei nº 8.987/1995, a permitir a terceirização de atividades inerentes, acessórias ou complementares ao serviço concedido. Eis o teor da norma:
+    Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.
+    [...]
+    Articula com a adequação da terceirização de tarefas inerentes ao serviço concedido, entre as quais se incluem, conforme destaca, eventual atividade integrada à própria dinâmica produtiva. Frisa afastado o preceito, mesmo de forma implícita, considerado o princípio da isonomia, a revelar transgressão à cláusula de reserva de plenário. Assinala a insuficiência do critério atinente à distinção entre atividades meio e fim, estando permitida a terceirização de mão de obra inclusive quanto à atividade alcançada pelo próprio objeto social.
+    Sob o ângulo do risco, alude à iminência da execução provisória.
+    Requer, em sede liminar, a suspensão do ato impugnado e do curso do processo originário. Busca, alfim, a cassação do acórdão atacado.
+    O pronunciamento reclamado resultou da análise, no dia 7 de agosto de 2013, de recurso ordinário pelo Tribunal Regional do Trabalho da 3ª Região.
+    A arguição de descumprimento de preceito fundamental foi apreciada pelo Pleno em 30 de agosto de 2018, tendo sido publicada a ata de julgamento no dia imediato.
+    2. Relativamente ao apontado desrespeito ao assentado na arguição de descumprimento de preceito fundamental nº 324, a jurisprudência do Tribunal sinaliza o descabimento de reclamação voltada à observância de paradigma quando a decisão questionada lhe for anterior. Confiram a seguinte ementa, a retratar a óptica do Pleno:
+    RECLAMAÇÃO. Inadmissibilidade. Alegação de ofensa à súmula vinculante nº 10. Decisão anterior à edição desta. Seguimento negado. Agravo improvido. Não cabe reclamação por ofensa a súmula vinculante editada após a decisão impugnada.
+    (Agravo regimental na reclamação nº 8.846, Pleno, relator o ministro Cezar Peluso, Diário da Justiça de 9 de abril de 2010)
+    Quanto à arguida ofensa ao verbete vinculante nº 10, notem, a partir da leitura dos fundamentos veiculados na decisão impugnada, que o Tribunal Regional do Trabalho, uma vez levado em conta o enquadramento das tarefas desempenhadas pela interessada no âmbito das finalidades sociais da concessionária de serviço público, afastou, mesmo de forma implícita, com base na isonomia, o artigo 25, § 1º, da Lei nº 8.987/1995, mediante o qual permitida a terceirização de “atividades inerentes, acessórias ou complementares ao serviço concedido”.
+    Ao fazê-lo por meio de órgão fracionário, desconsiderou a cláusula de reserva de plenário. É impróprio potencializar a distinção entre atividades meio e fim, podendo estar nestas incluídas aquelas inerentes ao objeto social da tomadora dos serviços, a Cemig Distribuição S.A.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia do acórdão formalizado, pela Primeira Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0000568-11.2013.5.03.0015.
+    4. Citem a interessada e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 8 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
