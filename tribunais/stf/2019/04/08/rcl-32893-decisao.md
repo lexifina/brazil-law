@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada em face de decisão do do Tribunal Regional do Trabalho da 2ª Região, alegando violação à autoridade da decisão do Supremo Tribunal Federal proferida na ADI 3.395-MC, Rel. Min. Cezar Peluso. Naquela oportunidade, o Supremo deferiu a medida cautelar para suspender toda e qualquer interpretação dada ao inciso I do art. 114 da CF, na redação conferida pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e servidores a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    2. Alega a parte reclamante, para tanto, que o Tribunal a quo entendeu ser competente a Justiça do Trabalho para o julgamento da causa, embora a natureza jurídica da relação existente entre as partes enquadre-se dentre as exceções estabelecidas na ADI 3.395-MC. Assim, segundo a parte reclamante, estaria sendo descumprida a decisão proferida naquela ADI, dotada de efeitos vinculantes, razão pela qual seria cabível o ajuizamento da presente reclamação.
+    3. É o relatório. Decido.
+    4. Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF).
+    5. Assiste razão à parte reclamante. Com efeito, em hipóteses como a dos presentes autos, esta Corte já assentou o entendimento de que ofende a decisão proferida na ADI 3.395-MC o processamento e julgamento, pela Justiça do Trabalho, de ações propostas em face da União por aposentados da antiga RFFSA ou de suas subsidiárias, nas quais se pretende complementação de aposentadoria. Isto porque se está diante de vínculo jurídico-administrativo, conforme previsto nas Leis Federais nº 8.186/1991 e 10.478/2002. Nesse sentido, a Rcl 23.961 AgR, Rel. Min. Edson Fachin; a Rcl 13.780 ED, Rel. Min. Luiz Fux; e a Rcl 18.671 AgR, sob a minha relatoria, cuja ementa ora transcrevo:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. COMPETÊNCIA. ADI 3.395-MC. COMPLEMENTAÇÃO DE APOSENTADORIA DE FERROVIÁRIO.
+    1. Ofende a autoridade do acórdão proferido na ADI 3.395-MC decisão que considera competente a Justiça do Trabalho para processar e julgar ação de complementação de aposentadoria prevista nas Leis nº 8.186/1991 e 10.478/2002, proposta em face da União por aposentado da Trensurb, subsidiária da RFFSA.
+    2. Agravo regimental ao qual se nega provimento. (grifo acrescentado)
+    6. Do exposto, com base no art. 161, § único, do RI/STF, julgo procedente o pedido, para cassar a decisão reclamada (autos nº 0002422-4.2012.5.02.0005) e assentar a competência da Justiça Federal. Defiro a gratuidade da justiça.
+    7. Condeno a parte reclamada ao pagamento de honorários de sucumbência, fixados em dez por cento do valor da causa, nos termos do art. 85, § 2º, do CPC, porém, suspensa a execução, conforme art. 98, § 3º, do CPC.
+    Publique-se.
+    Brasília, 08 de abril de 2019
+Ministro LUÍS ROBERTO BARROSO
+Relator
