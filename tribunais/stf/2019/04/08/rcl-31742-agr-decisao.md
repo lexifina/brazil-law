@@ -1,0 +1,23 @@
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. RECONSIDERAÇÃO. AGRAVO REGIMENTAL PREJUDICADO. TRABALHISTA. TERCEIRIZAÇÃO DE SERVIÇOS PARA CONSECUÇÃO DE ATIVIDADE-FIM. ARTIGO 25, PARÁGRAFO 1º, DA LEI 8.987/1995. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. DEFERIMENTO DO PEDIDO DE MEDIDA LIMINAR NOS AUTOS DA RECLAMAÇÃO 33.989, AJUIZADA PELA CEMIG, COM O MESMO OBJETO DA PRESENTE. MEDIDA LIMINAR PREJUDICADA.
+    Decisão: Trata-se de agravo regimental interposto pela Construtora Remo Ltda contra decisão de minha relatoria que restou assim ementada:
+    “RECLAMAÇÃO. DIREITO DO TRABALHO E ADMINISTRATIVO. TERCEIRIZAÇÃO DE SERVIÇOS. LEI Nº 8.987/1995. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. INTERPOSIÇÃO DE AIRR. PENDÊNCIA DE JULGAMENTO. SUPERVENIÊNCIA DE JULGAMENTO DO TEMA 725 DA REPERCUSSÃO GERAL. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.”
+    A agravante sustenta, em síntese, que a presente reclamação não seria mero sucedâneo recursal, ante o esgotamento das medidas processuais na esfera trabalhista e a ocorrência de violação da Súmula Vinculante 10.
+    Requer, por fim, a reconsideração da decisão ora agravada, com a concessão da medida liminar pleiteada e, ao final, a procedência da presente reclamação.
+    À luz da argumentação exposta, reconsidero a decisão ora agravada, tornando-a sem efeito, e, por conseguinte, julgo prejudicado o agravo regimental interposto pela Construtora Remo Ltda.
+    Passo à nova análise da reclamação.
+    Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Construtora Remo Ltda contra acórdão proferido pela 8ª Turma do Tribunal Regional do Trabalho da 3ª Região nos autos do Processo 0001099-12.2013.5.03.0011, sob a alegação de ofensa ao enunciado da Súmula Vinculante 10.
+     Eis a ementa do acórdão ora reclamado, in verbis:
+    “TERCEIRIZAÇÃO DA ATIVIDADE-FIM. PRECARIZAÇÃO DAS CONDIÇÕES DE TRABALHO. ILICITUDE. O reconhecimento do vínculo de emprego diretamente com ente integrante da Administração Pública Indireta é inviável, pois sujeito à regra do concurso público, na forma do art. 37, item II da CF e da Súmula 331 item II do TST. Contudo, aplica-se, por força do princípio constitucional da isonomia, o entendimento de que o trabalhador submetido à terceirização ilícita tem direito aos mesmos direitos dos empregados do tomador dos serviços que desempenhem as mesmas funções. Nesse sentido, a OJ 383 da SDI-1 do TST, que encerra interpretação teleológica da ordem jurídica, amparada em princípios constitucionais plenamente aptos a suprir a lacuna legal acerca da terceirização no serviço público, mormente os da isonomia, do valor social do trabalho e da função social da propriedade e dos contratos.”
+     Narra a reclamante que, não obstante a Lei 8.987/1995 expressamente autorizar a contratação com terceiros, o Tribunal de origem entendeu pela ilicitude da terceirização de trabalhadores contratados para a manutenção de rede elétrica da distribuidora de energia.
+     Sustenta que o acórdão reclamado, prolatado por órgão fracionário, sob a justificativa de que estaria interpretando o texto legal em bases constitucionais, nega vigência ao disposto no § 1º do artigo 25 da Lei 8.987/1995 e esvazia o sentido da autorização legal para contratar terceiros nas “atividades inerentes, acessórias ou complementares”, em patente violação à Súmula Vinculante 10.
+     Requer, liminarmente, a suspensão dos efeitos do acórdão reclamado e do andamento do Processo 0001099-12.2013.5.03.0011. No mérito, postula a procedência da presente reclamação para cassar o acórdão reclamado, determinando o retorno dos autos ao Tribunal de origem para novo julgamento, com observância da cláusula de reserva de plenário.
+    É o relatório. DECIDO.
+    Ab initio, verifico que houve a prejudicialidade do pedido de medida liminar formulado pela Construtora Remo Ltda nestes autos.
+    É que, em 02/04/2019, ao apreciar a Reclamação 33.989, ajuizada pela CEMIG Distribuição S/A, com o mesmo objeto da presente, deferi o pedido de medida liminar para “suspender os efeitos do acórdão proferido pela 8ª Turma do Tribunal Regional do Trabalho da 3ª Região nos autos do Processo 0001099-12.2013.5.03.0011” (DJe de 05/04/2019).
+    Ex positis, RECONSIDERO a decisão ora agravada, tornando-a sem efeito, e JULGO PREJUDICADOS o agravo regimental interposto e o pedido de medida liminar.
+    DETERMINO que a reclamante, Construtora Remo Ltda, diga se ainda tem interesse no prosseguimento desta reclamação, tendo em vista o ajuizamento da Reclamação 33.989 pela CEMIG Distribuição S/A.
+    Publique-se.
+    Brasília, 8 de abril de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
