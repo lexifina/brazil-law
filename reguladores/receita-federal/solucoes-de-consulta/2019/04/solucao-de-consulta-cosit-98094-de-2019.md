@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98094, de 7 de março de 2019
+Assunto: Classificação de Mercadorias
+Mercadoria: Conjunto de artigos variados, composto pelos seguintes aparelhos eletrônicos e instrumentos: 1 placa de circuito FPGA, 1 fonte de alimentação, 1 placa de aprendizagem microcontroladora PIC, 1 sensor de temperatura e umidade, 3 sensores de luminosidade, 1 display LCD, 5 chaves push button, 2 módulos conversores digital-analógico, 2 motores de passo e 1 dispositivo USB blaster, com dimensões 36,5 x 18 x 6 cm e peso líquido de 0,915 kg, não correspondendo a um sortido nos sentidos determinados pela Regra Geral Interpretativa (RGI) 3 b), para fins de classificação em um único código da Nomenclatura Comum do Mercosul (NCM). Cada componente segue o seu próprio regime de classificação.
+Dispositivos Legais: RGI 1 e RGI 3 b) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.094-2019 .pdf]
