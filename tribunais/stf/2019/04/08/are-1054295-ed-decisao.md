@@ -1,0 +1,32 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – VÍCIO – INEXISTÊNCIA – DESPROVIMENTO.
+    1. Em 13 de dezembro de 2018, assim me pronunciei:
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INVIABILIDADE — AGRAVO — DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 1ª Região, reformando o entendimento do Juízo, assentou o direito a indenização por desapropriação indireta em terras indígenas, considerada a validade de título de propriedade registrado no Cartório de Registro de Imóveis do Município de Diamantino na vigência da Constituição Federal de 1946. Aludiu ao que decidido na apelação cível nº 2001.01.00.046471-3/MT. No extraordinário cujo trânsito busca alcançar, a Fundação Nacional do Índio – FUNAI aponta violado o artigo 231, cabeça, parágrafos 1º, 2º, 4º e 6º, da Constituição de 1988. Alega tratar-se de posse imemorial indígena, dizendo sobrepor-se ao título de propriedade, no que este seria nulo. Salienta inexistir direito adquirido. Alude ao precedente deste Tribunal na ação popular nº 3.388, relator ministro Carlos Ayres Britto.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    […]
+    Assim como se deu nos autos da AC nº 2001.01.00.046471 – 3/MT, os autores, neste processo, também adquiriram o imóvel junto ao Estado de Mato Grosso, em 19/01/1960 — e, portanto, sob a égide da Constituição Federal de 1946 —, conforme título definitivo de propriedade de fl. 13, devidamente registrado no Cartório de Registro de Imóveis do Município de Diamantino/MT (hoje Município de Tangará da Serra/MT), “no Livro 3-I, fl. 298, sob nº 3.795” (cf. certidão de fl. 16), não havendo nenhuma notícia de que tal título tenha sido desconstituído em ação própria — com contraditório e ampla defesa, não bastando uma simples frase, incidental (!), no dispositivo da presente sentença (fl. 637) —, tratando-se de ato jurídico perfeito que deve ser prestigiado, nos termos do disposto no art. 5º, XXXVI, da Constituição.
+    [...]
+    Mas, como já destacado, o título aquisitivo e o modo de adquirir dos autores são anteriores ao presente normativo constitucional (direito adquirido), posto que gerados na vigência da Constituição de 1946. E, de toda forma, mesmo em face do preceito acima transcrito, seria o caso de lembrar que o mesmo texto constitucional estabelece “... a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade ...”, a impor um juízo de ponderação.
+    [...]
+    Aliás, o ingresso na posse não deixou de ocorrer por atitude deliberada dos apelantes. Como salienta a perita oficial, os autores ainda tentaram demarcar a área do imóvel expropriado, “todavia tais iniciativas foram rechaçadas pelos integrantes daquela comunidade indígena [índios parecis]” (fl. 456). Esses atos, contudo, porque impregnados de violência, não podem contar com a chancela do Direito e tampouco autorizam a aquisição do bem, nos termos do art. 1.208 do Código Civil.
+    Mesmo que se admita — na esteira das conclusões da perita oficial — que “tais populações [índios parecis] fixaram-se em tal território e não eram dadas à prática de nomadismo” (fl. 456), a existência de título de domínio válido, tradutor da boa-fé dos autores, consubstancia situação jurídico-patrimonial de extrema relevância, não se justificando que o Poder Público, a pretexto de efetivar políticas protetivas de populações indígenas, promova o esbulho do imóvel, sem indenizar os autores pela perda do domínio do seu imóvel, sob pena de se permitir um enriquecimento ilícito da expropriante.
+    Afigura-se-me, portanto, induvidoso o direito à indenização. Se o imóvel está inserido na reserva indígena instituída pelo Decreto nº 63.368/68 (retificado pelo Decreto nº 74.477/74), torna-se intangível, ainda que sem a formalidade da desconstituição do título de aquisição e do modo de adquirir, o que impõe (mais ainda) a entrega da correspondente indenização, segundo for definido em laudo pericial, que não foi elaborado, como deveria, pois o pedido da ação era indenizatório.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, apresentada a prova do registro em cartório, o preceito revelado no artigo 231, § 6º, da Constituição Federal de 1988 não se aplica independentemente de qualquer providência jurisdicional, abrangendo situações consolidadas.
+    3. Conheço do agravo e o desprovejo.
+    4. Declaro o prejuízo do agravo interno de folhas 845 a 853.
+    5. Publiquem.
+    A embargante aponta erro material e obscuridade no pronunciamento embargado. Aduz que a declaração de prejuízo do agravo interno por ela formalizado, com simples reprodução da fundamentação da decisão agravada, não atenderia à sistemática do artigo 1.021, §2º, do Código de Processo Civil, a qual impõe o juízo de retratação ou encaminhamento do processo ao colegiado.
+    A embargada apontou o acerto do ato impugnado.
+    2. Na interposição destes declaratórios, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo legal.
+    Na decisão de folhas 840 a 843 desprovi o agravo da União.
+    Surgiu imprópria a formalização, pela Fundação Nacional do Índio – Funai de agravo interno contra a mencionada decisão, em que esta aponta erroneamente referir-se o pronunciamento agravado ao recurso por ela interposto.
+    Assim, não há quer omissão, quer obscuridade, quer contradição na decisão de folhas 872 a 875, que não reproduz o que consignado na decisão de folhas 840 a 843, mas desprovê o recurso da Fundação Nacional do Índio – Funai ao tempo em que declara o prejuízo do agravo interno por ela anteriormente formalizado.
+    3. Conheço dos embargos de declaração e os desprovejo.
+    4. Publiquem.
+Brasília, 8 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
