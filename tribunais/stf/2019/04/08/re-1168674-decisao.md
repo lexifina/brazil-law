@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta que: (i) o Tribunal de origem declarou a inconstitucionalidade de lei sem observar a cláusula de reserva de Plenário; (ii) deve incidir contribuição patronal sobre os valores pagos ao trabalhador nos primeiros quinze dias de afastamento.
+    A pretensão recursal não merece prosperar.
+    Quanto à alegada violação ao art. 97 da Constituição, ressalta-se que a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário (ARE 723.052, Rel. Min. Marco Aurélio).
+    No caso, não existe ofensa aos arts. 97 e 103-A da CF, ou contrariedade à Súmula Vinculante10, porquanto o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. Assim, resta improcedente a alegação de ofensa aos arts. 97 e 103-A. No mesmo sentido, confira-se o julgado:
+    “Agravo regimental no agravo de instrumento. Constitucional. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Artigo 5º, inciso XXXII. Ofensa reflexa. Precedentes. 1. Pacífica a jurisprudência desta Corte de que não há violação do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do STF quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 2. Inadmissível, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição. 3. Agravo regimental não provido”. (AI nº 848.332-AgR, Rel. Min. Dias Toffoli)
+    Quanto ao pagamento feito ao empregado nos primeiros quinze dias de afastamento, há entendimento do Plenário pela ausência de repercussão geral, no RE 611505 RG, de relatoria do Min. Edson Fachin (Tema 482), em que foram opostos embargos de declaração com possíveis efeitos infringentes, pendentes de apreciação pela Corte.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, para que seja aplica a sistemática da repercussão geral, após a finalização do julgamento dos referidos embargos de declaração.
+    Publique-se.
+          Brasília, 08 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
