@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Devem ser rejeitados os embargos de declaração na hipótese em que não houver, no acórdão embargado, ambiguidade, obscuridade, contradição ou omissão, como tampouco erro material.
+2. Conforme previsão do artigo 1.030, § 2º, do Estatuto Processual Civil, é cabível agravo interno contra a decisão que negar seguimento a recurso extraordinário que discuta questão constitucional na qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou interposto contra acórdão que esteja em conformidade com entendimento do Excelso Pretório exarado no regime de repercussão geral.
+3. O fato de o acórdão ser contrário aos interesses do embargante, elegendo fundamentos diversos daqueles por ele suscitados, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração. A mera insatisfação com o conteúdo da decisão embargada não enseja embargos de declaração.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça: por unanimidade, rejeitar os embargos de declaração nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Francisco Falcão, Nancy Andrighi, Laurita Vaz e Humberto Martins votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer e Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de embargos declaratórios, opostos por VIDOMIR JOVICIC, contra acórdão da Corte Especial que negou provimento ao agravo regimento no recurso extraordinário, tendo sido sintetizado nos seguintes termos:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. TEMA 339/STF. VIOLAÇÃO DOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 660/STF. VIOLAÇÃO DO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 182/STF. PRESSUPOSTOS DE ADMISSIBILIDADE. RECURSO DA COMPETÊNCIA DESTA CORTE. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. AGRAVO IMPROVIDO.
+1. Segundo a jurisprudência consolidada do Pretório Excelso, reafirmada no julgamento, sob o regime de repercussão geral, do AI-RG-QO 791.292/PE, a teor do disposto no artigo 93, IX, da Constituição Federal, as decisões judiciais devem ser motivadas, ainda que de forma sucinta, não se exigindo o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos (Tema 339/STF).
+2. É uníssona a jurisprudência do Supremo Tribunal Federal no sentido de que a questão da suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, se dependente de prévia violação de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, não tendo repercussão geral (ARE 748.371 RG/MT - Tema 660/STF).
+3. Além disso, firmou-se na Corte Suprema, nos autos do AI 742.460 RG/RJ, a tese de que não há repercussão geral na controvérsia da "valoração das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da fixação da pena-base pelo juízo sentenciante" (Tema 182).
+4. Nos termos do entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE 598.365 RG/MG, não há repercussão geral na análise acerca do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros tribunais, questão de natureza infraconstitucional que inviabiliza o cabimento do recurso extraordinário (Tema 181/STF).
+5. Agravo interno improvido.
+Pleiteia o embargante (fl. 3.138) "que Vossas Excelências se manifestem a respeito da possibilidade de conversão do agravo regimental em agravo (uma vez que tal reclamo garante o processamento do reclamo extraordinário interposto, devolvendo ao Augusto Supremo Tribunal Federal a análise de admissibilidade recursal), tendo em conta que embora tal providência tenha sido postulada por esta defensoria técnica, tal pleito defensivo foi desconsiderado quando do improvimento do reclamo."
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Devem ser rejeitados os embargos de declaração na hipótese em que não houver, no acórdão embargado, ambiguidade, obscuridade, contradição ou omissão, como tampouco erro material.
+2. Conforme previsão do artigo 1.030, § 2º, do Estatuto Processual Civil, é cabível agravo interno contra a decisão que negar seguimento a recurso extraordinário que discuta questão constitucional na qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou interposto contra acórdão que esteja em conformidade com entendimento do Excelso Pretório exarado no regime de repercussão geral.
+3. O fato de o acórdão ser contrário aos interesses do embargante, elegendo fundamentos diversos daqueles por ele suscitados, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração. A mera insatisfação com o conteúdo da decisão embargada não enseja embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Os embargos declaratórios não comportam acolhimento.
+Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão, ambiguidade, obscuridade, contradição ou omissão, ou, então, retificar, quando constatado, eventual erro material do julgado.
+Na hipótese, o acórdão embargado analisou a matéria de forma suficiente, clara, coerente e fundamentada, pronunciando-se sobre os pontos que entendeu necessários para a solução da controvérsia, de modo a manter a decisão que negara seguimento ao recurso extraordinário, sem incorrer em qualquer dos vícios mencionados.
+Aponta o embargante a ocorrência de omissão no acórdão embargado, uma vez que deixou de apreciar a alegação constante no agravo regimental acerca da possibilidade de sua conversão em agravo no recurso extraordinário.
+Ocorre, porém, que, conforme previsão do artigo 1.030, § 2º, do Estatuto Processual Civil, é cabível agravo interno/regimental contra a decisão que negar seguimento a recurso extraordinário que discuta questão constitucional na qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou interposto contra acórdão que esteja em conformidade com entendimento do Excelso Pretório exarado no regime de repercussão geral.
+Dessarte, inviável seria a aplicação do princípio da fungibilidade na espécie, conforme requerido pela parte embargante, pois a interposição de agravo em recurso extraordinário, com amparo no artigo 1.042 do Código de Processo Civil, evidencia a ocorrência de erro grosseiro.
+Nesse sentido, cumpre trazer à baila alguns dos inúmeros precedentes da Corte Especial sobre o tema:
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO CABÍVEL: AGRAVO REGIMENTAL. RECURSO INTERPOSTO MANIFESTAMENTE INCABÍVEL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1. Insurge-se a parte agravante contra decisão que negou seguimento ao recurso extraordinário em razão da aplicação da sistemática da repercussão geral.
+2. Caberá agravo regimental contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional sobre a qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento daquela Corte exarado no regime de repercussão geral (§ 2º do art. 1.030 do CPC).
+3. No caso dos autos, a interposição do agravo em recurso extraordinário consubstancia erro grave. Não incidência do princípio da fungibilidade.
+4. "Não terá seguimento pedido ou recurso dirigido ao Supremo Tribunal Federal, quando manifestamente incabível, ou apresentado fora do prazo, ou quando for evidente a incompetência do Tribunal" (Súmula 322/STF).
+5. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes: ARE 813.750 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/10/2016, publicado em 22/11/2016; ARE 823.947 ED, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/12/2015, publicado em 19/2/2016; ARE 819.651 ED, Relator Min. LUIZ FUX, Primeira Turma, julgado em 9/9/2014, publicado em 10/10/2014.
+Agravo em recurso extraordinário não conhecido com determinação de certificação do trânsito em julgado.
+(ARE no RE nos EDcl no AgRg nos EDcl no REsp 1.346.065/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 02/05/2018, DJe 10/05/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INTEMPESTIVIDADE. RECURSO QUE NÃO ATACOU O FUNDAMENTO DA DECISÃO. INCIDÊNCIA DA SÚMULA N.º 182/STJ. SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO MANIFESTAMENTE INCABÍVEL. PRAZO RECURSAL NÃO INTERROMPIDO.
+I - Agravo regimental intempestivo.
+II - Fundamento da decisão agravada que deixou de ser impugnado. Incidência do enunciado da Súmula n.º 182/STJ.
+III - O Supremo Tribunal Federal, no julgamento da Questão de Ordem no AI n. 760.358/SE, relator o Ministro Gilmar Mendes, decidiu que "não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B do CPC, aplica decisão de mérito do STF em questão de repercussão geral" e que "ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria".
+IV - O instrumento recursal adequado para atacar a decisão que indefere liminarmente ou julga prejudicado o recurso extraordinário pela sistemática da repercussão geral é o agravo regimental. Princípio da fungibilidade não incidente.
+V - Recurso incabível não interrompe o prazo recursal. Exaurimento da prestação jurisdicional do Superior Tribunal de Justiça. Trânsito em julgado.
+Agravo regimental não conhecido.
+(AgRg no ARE no RE nos EDcl no AgRg no AREsp 491.735/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 20/05/2015, DJe 12/06/2015)
+Saliente-se, por fim, que o fato de o acórdão ser contrário aos interesses do embargante, elegendo fundamentos diversos daqueles por ele suscitados, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração. A mera insatisfação com o conteúdo da decisão embargada não enseja embargos de declaração. A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. (I) OPOSIÇÃO DE DOIS EMBARGOS IDÊNTICOS. (II) REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE FLS. 1.969/1.970 NÃO CONHECIDOS. EMBARGOS DE DECLARAÇÃO DE FLS. 1.967/1.968 REJEITADOS.
+(..)
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios.
+3. Embargos de declaração de fls. 1.969/1.970 não conhecidos. Embargos de declaração de fls. 1.967/1.968 rejeitados.
+(EDcl no AgRg nos EDcl no RE nos EDcl no AgRg no AREsp 639.142/SP, Rel. Min. LAURITA VAZ, CORTE ESPECIAL, DJe 30/08/2016)
+Ante o exposto, rejeito os embargos declaratórios.
+É como voto.
