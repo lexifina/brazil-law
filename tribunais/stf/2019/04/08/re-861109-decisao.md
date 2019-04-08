@@ -1,0 +1,35 @@
+Vistos etc.
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “EMBARGOS À EXECUÇÃO - AUSÊNCIA DE PROCURAÇÃO - LITISPENDÊNCIA INTERESSE PROCESSUAL LEGITIMIDADE ATIVA AD CAUSAM - LEI DISTRITAL 3.624/2005 - EXCESSO DE EXECUÇÃO JUROS DE MORA. 1 - A ausência da procuração outorgada pelo Sindireta ao seu advogado, por não acarretar prejuízo às partes, não impede o conhecimento dos embargos, vez que se encontra nos autos em apenso. 2 - A diversidade de um só elemento é suficiente para ocasionar a variedade entre as ações e afastar a litispendência. 3 - A impetração de mandado de segurança coletivo não constitui impedimento para que os interessados promovam, individualmente, a execução do julgado, tratando-se de legitimidade ativa concorrente. 4 - A Lei Distrital nº 3.624/2005 possui caráter instrumental-material, não podendo ser aplicada retroativamente, para alcançar direitos adquiridos anteriormente à sua edição. 5 - O servidor deve arcar com a parcela referente ao custeio dos valores pagos a título de benefício alimentação, nos termos da Lei Distrital nº 786/94 e Decreto nº 16.423/95. 6 - No que concerne aos juros moratórios, prevalece o entendimento de que devem ser aplicados à razão de 1% (um por cento) ao mês, nas ações propostas anteriormente à edição da Medida Provisória nº 2.180-35/2001, que inseriu o artigo 1°-F, na Lei nº 9.494/97. Entretanto, há que se observar os cálculos constante da execução, não se podendo agravar a situação do embargante em sede de embargos à execução. 7 - Preliminares rejeitadas. Embargos à execução julgados parcialmente procedentes.” (doc. 10, fl. 67; acórdão publicado em 1º.4.2009)
+    Vindos os autos, determinei a devolução do processo à origem, para os fins do art. 543-B do CPC de 1973, nos seguintes termos:
+    “A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no AI 842.063, verbis :
+    ‘Agravo de instrumento convertido em Extraordinário. Art. 1º-F da Lei 9.494/97. Aplicação. Ações ajuizadas antes de sua vigência. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. É compatível com a Constituição a aplicabilidade imediata do art. 1º-F da Lei 9.494/97, com alteração pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes de sua entrada em vigor.’
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Devolvam-se os autos à Corte de origem.” (doc. 10, fl. 166)
+    O recorrente opôs embargos de declaração, em que apontada omissão referente ao “enfrentamento da violação do art. 100-§4° da Constituição”, ao argumento de que incabível o “enquadramento na hipótese versada no RE 568.645-SP”, e pugnou pelo reconhecimento de novo tema de repercussão geral “assim enunciado: legitimidade do fracionamento da execução de ação coletiva” (doc. 10, fl. 176).
+    Em resposta, a Primeira Turma desta Corte recebeu o recurso somo agravo regimental e negou-lhe provimento (doc. 12), após registrar a subsunção da hipótese aos temas versados no AI 842.063 e no RE 568.645 (Temas 435 e 148, respectivamente).
+    Em novos embargos de declaração, o ente distrital postulou “a integração do julgado para que o recurso possa ser (também) enquadrado no Tema 792 da repercussão geral” (doc. 15, fl. 2).
+    Os declaratórios foram rejeitados, tendo em vista não veiculada a suposta omissão no recurso anteriormente manejado e uma vez voltados os aclaratórios “para a decisão anterior proferida, a fim de corrigir erros formais na entrega da prestação jurisdicional, não alcançado decisões anteriores” (doc. 17, fl. 6).
+    Remetidos os autos à Corte de origem, retornam os autos a este Tribunal em razão de despacho de sua Presidência, com o seguinte teor:
+    “(...) o STF determinou a devolução dos autos à origem, haja vista o decidido no AI 842.063 (Tema 435: Aplicação do artigo 1º-F da Lei 9.494/97 nas ações ajuizadas anteriormente à sua vigência).
+    Todavia, salvo melhor juízo, vislumbra-se temerária a observância do regime disciplinador da repercussão geral nesse momento, considerando que o DF traz, em suas razões recursais, matéria ainda pendente de pronunciamento definitivo pelo STF referente à possibilidade de incidência da Lei distrital 3.624/2005 às execuções em andamento (RE 729.107 – Tema 792).
+    Diante do exposto, tendo em vista o juízo positivo de admissibilidade do presente recurso extraordinário, submeto à apreciação da Suprema Corte a pretensão deduzida pela parte.
+    Remetam-se os autos ao Supremo Tribunal Federal.” (doc. 27, fl. 43).
+    É o relatório.
+    Decido.
+    Dentre as razões deduzidas no apelo extremo, o Distrito Federal sustentou que a Lei distrital nº 3.624/2005 “tem aplicação imediata aos processos em curso”, razão pela qual “as execuções até então limitadas a quarenta salários mínimos passaram a obedecer o limite de dez salários mínimos para o fim de expedição de requisição de pagamento imediato” (doc. 10; fls. 96).
+    Ao exame da questão, consignou o Tribunal de origem:
+     “Sobre a constitucionalidade da Lei Distrital n° 3.624/2005, a meu sentir, a definição de débitos ou obrigações de pequeno valor pelo Distrito Federal, bem como sua redução do teto máximo de 40 (quarenta) para 10 (dez) salários mínimos, não constituem vícios capazes de acarretar sua inconstitucionalidade.
+    (…)
+    Necessário, entretanto, analisar sua aplicabilidade ao presente caso.
+    Constata-se, pela certidão juntada à fI. 76 dos autos da execução, que o Mandado de Segurança nº 7.253/97, o qual ensejou a execução embargada, transitou em julgado antes da edição da Lei Distrital nº 3.624, vigente a partir de 21 de julho de 2005.
+    Como cediço, a lei que determina o direito é aquela vigente à época da aquisição do direito, em respeito ao princípio tempus regit actum. Assim, é direito do Embargado a aplicação do teto de 40 (quarenta) salários mínimos, independentemente, portanto, da superveniência de qualquer ato normativo.
+    Cumpre ressaltar que a Lei Distrital nº 3.624/05 possui caráter instrumental-material, não podendo ser aplicada retroativamente, para alcançar o direito adquirido, ou a coisa julgada, sob pena de violar a segurança jurídica.” (doc. 10, fl. 72)
+    O tema identifica-se, com efeito, com o que examinado por esta Corte, sob a sistemática da repercussão geral, no RE 729.107 (Relator Ministro Marco Aurélio), assim enunciado:
+    “Tema 792 - Possibilidade de aplicação da Lei distrital 3.624/2005, que reduziu para 10 salários mínimos o teto para expedição de requisição de pequeno valor, às execuções em curso.”
+    Por todo o exposto, em acréscimo aos paradigmas já aplicados, considero igualmente adequado à hipótese o tema 792 da repercussão geral.
+    Devolvam-se os autos ao Tribunal a quo para os fins previstos no art. 1.036 do CPC/2015.
+    Publique-se.
+    Brasília, 08 de abril de 2019.
+Ministra Rosa Weber
+Relatora
