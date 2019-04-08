@@ -1,0 +1,12 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em sede de embargos de declaração pela Turma Recursal de Jurisdição Exclusiva de Belo Horizonte teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre observar, desde logo, que o recurso extraordinário em questão não se revela viável, eis que se insurge contra acórdão que examinou a controvérsia jurídica sob uma perspectiva estritamente infraconstitucional.
+    Com efeito, o exame da causa evidencia que o acórdão emanado do órgão judiciário de origem discutiu a matéria pertinente à extinção do processo, sem solução de mérito, fazendo-o em contexto meramente legal, invocando, para fundamentar esse julgamento, regra inscrita em diploma infraconstitucional .
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 08 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
