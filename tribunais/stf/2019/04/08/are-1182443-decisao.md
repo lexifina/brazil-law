@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “AÇÃO CIVIL PÚBLICA. Elaboração de Plano Municipal de Saneamento Básico. Convênio firmado com a Secretaria do Estado não afasta a responsabilização do município, prevista no art. 9º, inciso I, da Lei nº 11.445/07. É o gestor municipal quem convive com as mazelas e, por isso, tem conhecimento das necessidades da população. Não lhe cabe agir provocado pela União ou pelo Estado. Tais órgãos da federação, em tal mister, muitas vezes essencial, atuam de forma supletiva. Sentença reformada. Recurso parcialmente provido.” (eDOC 2, p. 81)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 2º, do texto constitucional.
+    Nas razões recursais, alega-se que não ocorre excepcionalidade apta a legitimar a interferência judicial no âmbito de competência do Executivo, pois quase a totalidade de seus imóveis possuiria saneamento básico, e a elaboração do plano seria onerosa demais para as finanças municipais, na ausência de repasses estaduais. (eDOC 2, p. 110)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a inércia do Recorrente justifica a intervenção do Poder Judiciário. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Todavia, há anos o procedimento encontra-se paralisado, em razão da inércia do ente estatal, de modo que, com a devida vênia do entendimento adotado, impunha ao Município o dever de elaborar por conta própria seu plano de saneamento básico, até porque o convênio visava possibilitar recursos para o cumprimento da obrigação que jamais deixou de ser do réu e para a qual não houve qualquer prorrogação.” (eDOC 2, p. 84)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Políticas públicas. Controle jurisdicional. 3. Omissão do Poder Executivo. Necessidade do revolvimento do conjunto fático-probatório. Impossibilidade. Súmula 279. Precedentes. 4. Pedido de vinculação a tema com repercussão geral reconhecida. Impossibilidade. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 1032099 AgR, de minha relatoria, Segunda Turma, DJe 8.11.2017)
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MEIO AMBIENTE. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. 1. O Supremo Tribunal Federal já assentou ser possível ao Judiciário, em situações excepcionais, determinar ao Poder Executivo a implementação de políticas públicas para garantir direitos constitucionalmente assegurados, sem que isso implique ofensa ao princípio da separação dos Poderes. Precedentes. 2. O acórdão do Tribunal de origem está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante. 3. Agravo regimental a que se nega provimento.” (AI 692541 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 21.9.2015)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 8 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
