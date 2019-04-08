@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão monocrática pela qual neguei seguimento ao recurso extraordinário pelos seguintes fundamentos: (i) ausência de prequestionamento dos artigos constitucionais supostamente violados (Súmula 282/STF), (ii) o Tribunal de origem decidiu a controvérsia com base na legislação infraconstitucional, e no material fático probatório dos autos, cujo reexame é vedado nesse momento processual (Súmula 279/STF).
+    A parte agravante insiste que não foi notificada sobre o leilão do seu imóvel. Alega a inconstitucionalidade do procedimento de execução extrajudicial do seu imóvel financiado pelo Sistema Financeiro de Habitação.
+    O Tribunal Regional Federal da 2ª Região, ao apreciar a controvérsia, proferiu acórdão assim ementado:
+    “EMBARGOS INFRINGENTES. EXECUÇÃO EXTRAJUDICIAL. DL N° 70/66. LEILÃO. NOTIFICAÇÃO PESSOAL. FRUSTRADA. NOTIFICAÇÃO POR EDITAL. POSSIBILIDADE.
+    1. Trata-se de Embargos Infringentes opostos pela Rosângela Braga em face do v. Acórdão proferido pela Egrégia Oitava Turma Especializada desta Corte, que, por maioria, deu provimento à Apelação da Parte Autora, para reformar a r. Sentença de Primeiro Grau, a fim de julgar procedente a pretensão autoral, declarando a nulidade do procedimento de execução extrajudicial, condenando as Rés no pagamento de verba honorária fixada em R$ 800,00 (oitocentos reais) a ser rateado entre as Demandadas.
+    2. A Embargante, terceira de boa -fé que arrematou o imóvel em leilão, ao opor os presentes Embargos Infringentes, pretende que prevaleça o entendimento consubstanciado no Voto Vencido, prolatado pelo Exmo. Desembargador Federal Marcelo Pereira da Silva, que negava provimento à Apelação, com fundamento da possibilidade da publicação de editais para notificar a Parte Autora da realização dos leilões, em virtude das diversas tentativas frustradas de notificação pessoal.
+    3. Compulsando os autos, constata-se que a Embargada foi notificada pessoalmente, nos moldes previstos no art. 31, §1°, do Decreto -Lei n° 70/1966, para purgação da mora, como consta Notificação à fl. 224 e correspondente Certidão à fl. 225.
+    4. Contudo, como a Embargada não purgou a mora no prazo de 20 (vinte) dias, iniciou-se o procedimento para a realização do leilão. Ocorre que, conforme Certidão acostada aos autos, foram feitas três diligências para a entrega da referida notificação que restaram infrutíferas, tendo sido informado pelo porteiro do prédio que a Embargada não tinha horário certo para ser encontrada. Também restaram frustrados os convites deixados no local para comparecimento em cartório.
+    5. A notificação pessoal da realização de leilão para fins de execução extrajudicial tem por objetivo assegurar ao mutuário executado o exercício ao seu direito de defesa. Contudo, tal garantia não pode ser utilizada como argumento apto à nulidade do procedimento de adjudicação do imóvel por terceiro de boa -fé, quando o executado consciente da execução extrajudicial que sobre ele recai se furta à notificação, inclusive não respondendo ao convite para o seu aparecimento em cartório para fins de notificação pessoal.
+    6. Embargos Infringentes conhecidos e providos.”
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão acerca da execução extrajudicial de dívidas hipotecárias contraídas no regime do Sistema Financeiro de Habitação (RE 627.106-RG, Rel. Min. Dias Toffoli – Tema 249).
+    Determino o sobrestamento do recurso até o julgamento do mencionado paradigma por esta Corte.
+    Aguarde-se na Secretaria.
+    Publique-se.
+          Brasília, 08 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
