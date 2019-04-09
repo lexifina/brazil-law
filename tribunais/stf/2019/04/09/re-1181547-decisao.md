@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 2, p. 118):
+    “ADMINISTRATIVO. GSISTE. GRATIFICAÇÃO TEMPORÁRIA, DOS ÓRGÃOS CENTRAIS. LEI N° 11.356/2006. CONCESSÃO EM' QUANTITATIVO LIMITADO POR LEI. POSSIBILIDADE. ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO.
+    1. A teor do disposto no §1°, do art. 15, da Lei n° 11.356/2006, a concessão da GSISTE deverá observar o quantitativo rnáXimo de gratificações estabelecidas no Anexo VII do referido diploma legal, independentemente do ,número de servidores em exercício em cada unidade gestora.
+    2. Obedecidos os requiSitos previstos no caput do art. 15, isto é, o efetivo exercício nas unidades gestoras centrais, a Administração goza de 'ampla discricionarliedade para deferir a referida gratificação, até a quantitativo limite previsto na Lei, não se tratando, pois, de vantagem de caráter geral e extensiva ao conjunto de servidores.
+    3. As gratificações não são liberalidades da Administração, mas vantagens pecuniárias concedidas por recíproco interesse do serviço e do servidor. _A concessão de vantagens pecuniárias só pode ser feita por lei, sendo que todas as leis concessivas de privilégios ou mesmo de vantagens são de interpretação restrita.
+    4. Apelação improvida.”
+    Os embargos de declaração foram rejeitados (eDOC 2, pp. 190-195).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, I; 37, caput; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “o v. acórdão negou provimento a apelação com fundamento na aplicação da norma que institui a GSISTE passando ao largo dos princípios constitucionais que fundamentaram as razões da apelação.” (eDOC 3, p. 16)
+    A Vice-Presidência do TRF/5ª Região, entendendo que a matéria constitucional foi devidamente prequestionada, admitiu o extraordinário (eDOC 3, p. 75).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 2, pp. 114-116):
+    “A pretensão do autor consiste em ser estendido aos ora substituídos o págamen0 da Gratificação Temporária dos órgãos Centrais - GSISTE, instituída pela Lei n° - 11.356, de 19 de outubro de 2006:
+    Acerca da referida gratificação, assim dispõe a Lei n-° 11.356/2006, em sua redação original:
+    (…)
+    Do exame dos dispositivos acima transcritos, verifica-se que a GSISTE é uma gratificação temporária, deferida no quantitativo previsto no Anexo VII da Lei, n° 11,356/2006 aos titulares de cargo efetivo em exercício nas unidades, gestoras centrais da Administração Federal -que permanecerem nas condições elencadas nos incisos I a IX do art. 15 do mesmo diploma legal.
+    Conforme dispõe o §1° do art. 15, a concessão da GSISTE deverá - - observar o quantitativo máximo de gratificações criadas pela Lei n° 11.356/2006, independentemente do número de servidores em exercício em àada unidade gestora.
+    Nesse caso, percebe-se que, obedecidos os requisitos previstos no caput do art. 15, a Administração ,goza de ampla discricionariedade para deferir a referida gratificação, até a 'quantitativo limite previsto na Lei, não se tratando, pois, de vantagem de caráter geral e extensiva ao conjunto de servidores.
+    As gratificações 'não são liberalidades da Administração, mas vantagens pecuniárias concedidas por recíproco interesse do serviço e do servidor. A concessão de vantagens pecuniárias só pode ser feita por lei, sendo que todas as leis concessivas de privilégios ou mesmo de vantagens são de interpretação restrita.
+    No presente caso; o deferimento da pretensão formulada à inicial, com a concessão indiscriminada da referida gratificação, afronta ao princípio da reserva legal de que trata a Carta Magna, pelo qual qualquer aumento concedido a servidor público depende de lei em sentido formal, observada a competência de iniciativa nela fixada.
+    Ademais, não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de -isonomia, sendo necessária legislação específica para a aplicação do referido princípio, conforme entendimento firmado na Súmula n° 339/STF.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Federal nº 11.356/2006). Desse modo, a discussão referente ao caráter da gratificação – se geral ou não – e a consequente extensão ao conjunto de servidores, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA- GED. EXTENSÃO AOS INATIVOS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 7.12.2011. Inexiste violação do artigo 93, IX, da CF/88. O Supremo Tribunal Federal entende que o referido dispositivo constitucional exige que o órgão jurisdicional explicite as razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo conhecido e não provido.” (ARE 691.746-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 27.8.2013).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA - GED. EXTENSÃO A INATIVOS. LEI 9.678/1998. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. II – Agravo regimental improvido.” (RE 582.273-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 11.4.2012).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Deixo de aplicar o art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 9 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
