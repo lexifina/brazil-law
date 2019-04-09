@@ -1,4 +1,5 @@
-Art. 12. Quando solicitado pelo cliente, as instituições autorizadas a funcionar pelo Banco Central do Brasil fornecerão aos bancos de dados indicados as informações relativas às suas operações de crédito.
+Art. 12. As instituições autorizadas a funcionar pelo Banco Central do Brasil fornecerão as informações relativas a suas operações de crédito, de arrendamento mercantil e de autofinanciamento realizadas por meio de grupos de consórcio e a outras operações com características de concessão de crédito somente aos gestores registrados no Banco Central do Brasil.
 § 1º As informações referidas no caput devem compreender somente o histórico das operações de empréstimo e de financiamento realizadas pelo cliente.
 § 2º É proibido às instituições autorizadas a funcionar pelo Banco Central do Brasil estabelecer políticas ou realizar operações que impeçam, limitem ou dificultem a transmissão das informações bancárias de seu cliente a bancos de dados, quando por este autorizadas.
 § 3º O Conselho Monetário Nacional adotará as medidas e normas complementares necessárias para a aplicação do disposto neste artigo.
+§ 6º O órgão administrativo competente poderá requerer aos gestores, na forma e no prazo que estabelecer, as informações necessárias para o desempenho das atribuições de que trata este artigo.
