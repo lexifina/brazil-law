@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “EXECUÇÃO. SENTENÇA DE EXTINÇÃO (CPC, ART. 794, I). EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR – IMPOSSIBILIDADE. NEGATIVA DE SEGUIMENTO. AGRAVO NO AI. Mantém-se a decisão monocrática negando seguimento ao recurso, uma vez que proferida sentença de extinção do processo de execução, com fulcro no artigo 794, I, do CPC, é indevido ao exequente reabrir o processo para expedição de precatório complementar, ainda que sob o fundamento de ter havido erro de cálculo.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV; 93, IX, e 100, § 4º, da CF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou por negar seguimento ao recurso extraordinário.
+     O recurso não deve ser provido. Para dissentir da conclusão adotada pelo Tribunal de origem, que não autorizou a expedição do precatório complementar em face da existência de preclusão, seriam necessários a análise da legislação infraconstitucional pertinente e o reexame do material fático-probatório dos autos (Súmula 279/STF), procedimentos vedados nesse momento processual.
+    Quanto ao art. 93, IX, da Constituição, incide a jurisprudência do Supremo Tribunal Federal no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 09 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
