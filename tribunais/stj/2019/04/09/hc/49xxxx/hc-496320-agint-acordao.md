@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. ART. 297 DO CP. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. EXECUÇÃO DE PENA APÓS O TRÂNSITO JULGADO DA SENTENÇA CONDENATÓRIA. COISA JULGADA. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+1. Na espécie, certificado o trânsito em julgado da sentença, operou-se o instituto da coisa julgada, isto é, a sentença não pode ser alterada através de recurso que configura ato processual, porquanto preclusas as questões já decididas, nos termos do art. 507 do CPC, c/c o art. 3º, do CPP (HC n. 310.387/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/6/2018).
+2. Inexistindo elementos capazes de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra a decisão que indeferiu liminarmente o writ impetrado em favor do ora agravante, pois, certificado o trânsito em julgado da sentença, operou-se o instituto da coisa julgada, isto é, a sentença não pode ser alterada através de recurso que configura ato processual, porquanto preclusas as questões já decididas, nos termos do art. 507 do CPC, c/c o art. 3º, do CPP (fl. 100).
+Consta da inicial que o ora agravante foi condenado em primeiro grau à pena de 2 anos e 6 meses de reclusão, pela prática do delito tipificado no art. 297 do Código Penal, bem como que a pena reclusiva foi substituída por duas penas restritivas de direitos, consistentes na prestação de serviços à comunidade e prestação pecuniária (fls. 24/28).
+Alega-se, em síntese, que, de forma indevida, o Tribunal de origem determinou a execução provisória da sentença em desfavor do ora agravante (fl. 105).
+Requer-se, assim, a reconsideração da decisão ora questionada a fim de (fls. 105/106):
+a) desconsiderar o pedido de desistência feito anteriormente;
+b) reconsiderar a decisão sub examinem, concedendo a liminar pleiteada na peça vestibular, processando o habeas corpus na forma regulamentar;
+c) caso não seja reconsiderada a decisão objeto deste agravo, submeter este recurso aos demais membros dessa Turma, aos quais se roga seja reformada a decisão hostilizada, concedendo a liminar pleiteada na peça vestibular, processando o habeas corpus na forma regulamentar para, ao final, ser a ordem concedida nos termos da peça prima.
+Dispensou-se a oitiva da parte contrária.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não merece reparos a decisão ora agravada.
+Com efeito, a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal (HC n. 126.292/SP, Tribunal Pleno, Ministro Teori Zavascki, DJe 17/5/2016).
+Todavia, no caso das penas restritivas de direitos, este Tribunal manteve o entendimento de que não cabe execução provisória antes do trânsito em julgado da condenação, nos termos do art. 147 da Lei de Execução Penal. Esta Quinta Turma manifestou a mesma orientação no julgamento do AgRg no REsp 1.618.434/MG e do AREsp 971.249/SP. VI - A condenação ainda não transitou em julgado, o que impede o início da execução das penas substitutivas (HC n. 468.066/SC, Ministro Felix Fischer, Quinta Turma, DJe 23/10/2018).
+In casu, todavia, o Tribunal de origem não conheceu da appellatio interposta pela defesa técnica ao fundamento de intempestividade da insurgência (fls. 46/49 - grifo nosso):
+Cuida-se de recurso de apelação interposto por [NOME] contra sentença prolatada pelo Juízo Federal da Vara Única da Subseção Judiciária de Itabuna/BA que, julgando procedente a pretensão punitiva estatal, o condenou à pena de 02 (dois) anos e 06 (seis) meses de reclusão e 53 (cinqüenta e três) dias-multa pela prática delitiva prevista art 297 do Código Penal.
+Em razões de apelação, o acusado pugna por sua absolvição ao argumento que nos autos não há provas suficientes que comprovem a materialidade e autoria do delito. Ademais, afirma que o laudo técnico não o apontou como subscritor das assinaturas periciadas, sendo a condenação fundada apenas sob sua responsabilidade em apresentar a documentação perante a Caixa Econômica Federal. Por fim, alega ausência de intenção de obter vantagem, uma vez que ausente situação de inadimplência, sendo o negócio jurídico firmado de forma regular e inexistindo ato de disposição do bem que se encontra sob a titularidade do mutuário.
+A Procuradoria Regional da República/1a Região opinou pelo não conhecimento do recurso, em razão da intempestividade e, caso conhecido, no mérito, pelo não provimento do Recurso de Apelação (fls. 474/479).
+Analisando preliminar levantada pelo MPF, constato que o réu foi intimado pessoalmente no dia 9/4/2014 para o conhecimento da sentença condenatória. No entanto, a defesa apresentou o termo de apelação apenas em 22/4/2014.
+Ademais, consta à fl. 459, a certidão que atestou o despacho intimando o recorrente para apresentar suas razões de recurso no dia 11/6/2014 e publicada em 12/6/2014. No entanto, o recurso de apelação somente foi ofertado em 25/6/2014.
+Conforme o art. 593, caput, inciso I, e art. 798, ambos do Código de Processo Penal, a apelação poderá ser interposta no prazo de 05 (cinco) dias, contados a partir da intimação do réu.
+Assim, acolho a preliminar levantada pelo MPF e julgo prejudicado o recurso de apelação de [NOME], por ser este intempestivo.
+Ante o exposto, não conheço do recurso de apelação, por intempestividade.
+Consequentemente, registre-se que o pretendido conhecimento e provimento da apelação interposta após o trânsito em julgado da sentença evidencia ofensa à coisa julgada formal, logo há de se reconhecer a preclusão, in casu.
+Nesse contexto, certificado o trânsito em julgado da sentença, operou-se o instituto da coisa julgada, isto é, a sentença não pode ser alterada através de recurso que configura ato processual, porquanto preclusas as questões já decididas, nos termos do art. 507 do CPC, c/c o art. 3º, do CPP (HC n. 310.387/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/6/2018).
+Por conseguinte, a condenação, na espécie, transitou em julgado, o que autoriza o início da execução das penas substitutivas. Logo, não foi verificada nenhuma ilegalidade manifesta apta a justificar a concessão da ordem de ofício.
+Assim, não verifiquei teratologia ou ilegalidade manifesta na decisão hostilizada, razão pela qual não vislumbrei a necessidade de intervenção prematura deste Superior Tribunal.
+Inexistindo elementos capazes de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+Nego provimento, portanto, ao agravo regimental.
