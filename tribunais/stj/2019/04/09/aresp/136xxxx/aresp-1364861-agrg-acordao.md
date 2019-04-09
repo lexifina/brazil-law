@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CÓDIGO DE TRÂNSITO BRASILEIRO. PENA PRIVATIVA DE LIBERDADE. SUBSTITUIÇÃO POR MULTA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO PROVIDO.
+1. Em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa. Inteligência da Súmula 171 do STJ (AgRg no REsp 1750730/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018).
+2. Agravo regimental provido para negar provimento ao agravo em recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, dar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto contra decisão que conheceu do agravo defensivo e deu provimento ao recurso especial, a fim de afastar a pena pecuniária fixada, substituindo a pena corpórea por apenas uma de multa, cujo quantum será determinado pelo Juízo da Execução Penal.
+Afirma o Ministério Público a vedação à substituição da pena privativa de liberdade por multa nos casos em que o preceito secundário do tipo, previsto em legislação especial, determina a pena pecuniária como uma das sanções.
+Cita, em prol da tese, a Súmula 171/STJ.
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Consoante relatado, busca o Ministério Público o restabelecimento do acórdão recorrido, ao entendimento de que, havendo previsão no art. 306 do Código de Trânsito brasileiro, norma especial, de cumulação de pena privativa de liberdade, multa e suspensão ou proibição do direito de dirigir, incabível a substituição da privação de liberdade por multa.
+Afirma que, ao contrário do que consignou a decisão ora objurgada, a pena privativa de liberdade imposta ao Agravado foi substituída por apenas uma modalidade de pena restritiva de direito. Isso porque a imposição da multa não se deu como uma segunda modalidade de pena restritiva - mas sim de forma cumulativa à pena corporal substituída, em estrita obediência ao preceito secundário do art. 306 do CTB (fl. 286).
+Cita, em prol da tese, a Súmula 171 do Superior Tribunal de Justiça
+Dispõe o art. 44, § 2º, do Código Penal que, Na condenação inferior ou igual a um ano, a substituição da pena privativa de liberdade pode ser feita por multa ou por uma pena restritiva de direitos.
+Por sua vez, o art. 43 do Código Penal estabelece as espécies de penas restritivas de direitos: prestação pecuniária, perda de bens e valores, prestação de serviços à comunidade ou a entidades públicas, interdição temporária de direitos e limitação de final de semana.
+O art. 45, § 1º, do Código Penal define que a prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou à entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 salário mínimo nem superior a 360 salários mínimos.
+O preceito secundário do art. 306, § 2º, do Código de Trânsito Brasileiro prevê a aplicação cumulativa de três tipos de sanção, a saber: privação de liberdade, multa e suspensão ou proibição ao direito de dirigir.
+No caso, o Juízo sentenciante condenou o agravado às penas de 2 anos de reclusão, em regime aberto, 10 dias-multa e suspensão para dirigir veículo automotor pelo prazo de 2 meses.
+Considerando favoráveis as circunstâncias judiciais, concedeu o benefício da substituição da reprimenda corporal por uma restritiva de direitos, consistente em:
+Prestação pecuniária representada pela perda da fiança e acréscimos legais, além do pagamento de um (1) salário-mínimo, no prazo de trinta (30) dias, em favor de entidade credenciada junto ao juízo, nos termos da Portaria n. 02/2012, da Vara Criminal de Brusque, mediante comprovação nos autos no prazo de cinco (5) dias, sendo que na fixação do valor foi levado em consideração o grau de reprovação e prevenção de sua conduta, bem como, as condições financeiras indicadas nos autos (sentença, fl. 67).
+Destaco que a prestação pecuniária, substitutiva da pena corporal, possui como finalidade reparar o dano causado pela infração, devendo ser fixada de acordo com as condições econômicas do acusado, gravidade do crime, e medida de sua culpabilidade, motivo pelo qual não precisa guardar correspondência ou ser proporcional à pena privativa de liberdade irrogada ao réu. Neste sentido: STJ, HC n. 144.299-PR, 5ª T., rel. Jorge Mussi, 13.09.2011.
+Do excerto, observa-se que o Juiz sentenciante substituiu a pena corpórea por prestação pecuniária - perda da fiança e pagamento de salário mínimo -, mantendo as demais sanções penais - a multa e a suspensão ao direito de dirigir -, em observância ao disposto no art. 44, § 2º, Código Penal.
+Não houve, portanto, a substituição da pena corpórea por duas penas restritivas de direitos, mas a substituição da reclusão por prestação pecuniária, consistente em perda da fiança e pagamento de 1 salário mínimo, a ser paga à entidade credenciada ao juízo.
+Vale destacar que o Superior Tribunal de Justiça possui entendimento consolidado em súmula, segundo o qual, Cominada cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa (Súmula 171, TERCEIRA SEÇÃO, julgado em 23/10/1996, DJ 31/10/1996). No mesmo sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. IMPOSSIBILIDADE. PRETENSÃO DEDUZIDA EM DESACORDO COM A SÚMULA 171 DESTA CORTE. RECURSO ESPECIAL IMPROVIDO.
+1. Em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa. Inteligência da Súmula 171 do STJ.
+2. Agravo regimental improvido. (AgRg no REsp 1750730/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 44, § 2º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. IMPOSSIBILIDADE. PRETENSÃO DEDUZIDA EM DESACORDO COM A SÚMULA 171 DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal"(AgRg no HC 415.618/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/05/2018, DJe 04/06/2018).
+Súmula 171/STJ.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 1276999/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/08/2018, DJe 13/08/2018).
+Ante o exposto, voto por dar provimento ao agravo regimental para negar provimento ao agravo em recurso especial.
