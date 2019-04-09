@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO — EXTINÇÃO DA EXECUÇÃO DE TÍTULO JUDICIAL — SENTENÇA QUE CONSIDEROU O CRÉDITO SATISFEITO — PERÍODO DE GRAÇA CONSTITUCIONAL - Pretensão de incidência de juros de mora no período de graça constitucional em razão da não quitação no referido prazo.
+    JUROS MORATÓRIOS — Não incidência de juros moratórios entre a conta e a inscrição do precatório — Exegese do artigo 100, § 1' e §5°, da Constituição Federal — Inaplicabilidade do disposto na Súmula Vinculante n° 17 do C. Supremo Tribunal Federal — Pagamento extemporâneo do precatório que autoriza a incidência de juros de mora. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS NAS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. VERBAS NÃO TRIBUTÁRIAS. INCONSTITUCIONALIDADE DA LEI 11.960/2009 RESTRITA À ATUALIZAÇÃO MONETÁRIA, CONFORME TESE FIRMADA PELO STF EM REPERCUSSÃO GERAL DO TEMA 810 (RE 870947). Aclaramento do entendimento do STF na MEDIDA CAUTELAR na Reclamação Rcl 21996 MC/DF, que afirma que a inconstitucional idade parcial da Lei 11.960/2009 é restrita à fase posterior da condenação judicial, no intervalo entre a inscrição do débito judicial e a expedição dos precatórios/RPV, descabendo a extensão da inconstitucional idade declarada de forma e de enfoque restrito.
+    Entendimento do STF que prevalece sobre a anterior orientação do STJ no processo decidido em sede de recursos repetitivos que fazia aquela extensão ora repelida (REsp. 1.270.43 9/PR).
+    Aplicação da Lei 11.960/2009 às condenações judiciais relativas às verbas não tributárias, afirmada a constitucional idade pelo STF (tese do TEMA 810 de Repercussão Geral) da aplicação da Lei 11.960/2009 dos juros de mora segundo o índice de remuneração das cadernetas de poupança e a inconstitucional idade desta como atualização monetária, observando eventual modulação pelo STF. Sentença que extinguiu a execução reformada. Recurso provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da CF e à Súmula Vinculante 17.
+    O recurso deve ser provido.
+    O Supremo Tribunal Federal possui o entendimento no sentido de que, em caso de inadimplemento da obrigação no prazo constitucional assinalado no art. 100, § 1º (atual § 5º), da Constituição Federal, os juros moratórios voltam a incidir somente a partir do primeiro dia do exercício financeiro seguinte ao que deveria ter sido pago o precatório.
+    Nesse sentido: RE 871.962-AgR, Relª. Minª. Rosa Weber; RE 940.236-AgR, de minha relatoria; RE 1.189.155, Relª. Minª. Cármen Lúcia; e RE 1.188.813, Rel. Min. Alexandre de Moraes.
+    Dessa orientação divergiu o Tribunal de origem.
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso, a fim de afastar a incidência de juros moratórios no período previsto no art. 100, § 5º, da Constituição, qual seja, a data de apresentação do precatório e o final do exercício financeiro seguinte à sua apresentação, devendo incidir juros de mora somente a partir do primeiro dia do exercício financeiro seguinte ao fim do prazo constitucional.
+    Publique-se.
+          Brasília, 09 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
