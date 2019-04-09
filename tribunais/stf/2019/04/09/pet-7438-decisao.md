@@ -1,0 +1,15 @@
+Decisão: Trata-se de Petição apresentada pela Confederação Nacional de Turismo, na qual se requer a concessão de medida cautelar, enquanto pendente o julgamento em definitivo da ADI 5.859, cuja finalidade é suspender a eficácia do artigo 1° da Lei 13.467, de 13 de julho de 2017, no que diz respeito às alterações perpetradas aos artigos. 545, 578, 579, 582, 583, 587 e 602 da Consolidação das Leis do Trabalho.
+    Ademais, requer-se concessão liminar para que sejam as entidades sindicais patronais da categoria representada pela CNTUR autorizadas a cobrarem, no mês de janeiro de 2018, de forma compulsória, as contribuições sindicais a que fazem jus.
+    Alega terem sido contrariados os arts. 1º, incs. III e IV, 5º, inc. LXX, “b”, 8º, caput e incisos, 60, § 4º, inc. IV, 146, incs. II e III, “a” e b”, 149, caput,e 150, inc. II, § 6º, da Constituição da República.
+    É o relatório. Decido.
+    Esta petição encontra-se prejudicada pela perda superveniente de seu objeto.
+    Com efeito, verifica-se que, em 29 de junho de 2018, o Supremo Tribunal Federal julgou improcedentes os pedidos formulados na ação direta de inconstitucionalidade 5.859. É assente a jurisprudência da Corte no sentido de que, julgada em definitivo a ação principal referente à cautelar, ocorre a perda do objeto dessa última. Nesse sentido:
+    “QUESTÃO DE ORDEM NO AGRAVO REGIMENTAL NA MEDIDA CAUTELAR NA AÇÃO CAUTELAR. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO DE INSTRUMENTO. DESTRANCAMENTO. EFEITOS QUE PERDURAM APENAS ATÉ O EXAME DO MÉRITO RECURSAL. RECURSO EXTRAORDINÁRIO N. 759.276. NEGATIVA DE SEGUIMENTO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. QUESTÃO DE ORDEM ACOLHIDA PARA EXTINGUIR A AÇÃO CAUTELAR” (AC nº 2.910-MCAgR/ RS, Tribunal Pleno, Relatora a MinistraEllen Gracie, Relatora p/ Acórdão a Ministra Cármen Lúcia, DJe de 19/2/15).
+    “AÇÃO CAUTELAR AJUIZADA COM O OBJETIVO DE CONFERIR EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO. LIMINAR DEFERIDA. POSTERIOR JULGAMENTO DE MÉRITO DO APELO EXTREMO. PERDA DE OBJETO. REVOGAÇÃO DA LIMINAR. Com o julgamento de mérito do Recurso Extraordinário 599.628-DF, a ação cautelar ajuizada com o objetivo de conferir efeito suspensivo ao apelo extremo perdeu o objeto. Ação cautelar que se julga prejudicada, ficando revogada a liminar deferida” (AC nº 1.947- MC-REF/DF, Tribunal Pleno, Relator o Ministro Ayres Britto, DJe de 8/8/11).
+    “Agravo regimental. Medida cautelar. Perda de objeto. 1. Ante o não-provimento do agravo regimental, manejado contra a decisão que negou provimento ao agravo de instrumento, interposto contra o julgado que inadmitiu o recurso extraordinário em razão de sua intempestividade, perdeu objeto a medida cautelar que pleiteava a concessão de efeito suspensivo ao referido recurso extraordinário. 2. Agravo regimental prejudicado” (AC nº 2.008-AgR/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 5/6/08).
+    Ante o exposto, julgo prejudicada a presente petição, nos termos do artigo 21, IX, do RISTF.
+    Publique-se. Intime-se.
+    Brasília, 9 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
