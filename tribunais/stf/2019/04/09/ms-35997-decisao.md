@@ -1,0 +1,10 @@
+DECISÃO:
+    1. Trata-se de mandado de segurança, com pedido liminar, contra ato do Conselheiro Valdetário Andrade Monteiro, Relator do PCA 0066296.09.2016.200.0000 no Conselho Nacional de Justiça, que: (i) incluiu em pauta do Plenário virtual o recurso administrativo; (ii) não analisou a petição do impetrante, por meio da qual informou que havia sido deferido o pedido de julgamento presencial. O autor requer a concessão de medida liminar para a suspensão do julgamento do recurso interposto no PCA e, no mérito, a nulidade do ato coator, determinando-se a inclusão do processo na pauta da sessão presencial.
+    2. O pedido liminar foi deferido em parte (doc. 23). A autoridade coatora prestou informações (doc. 28). A União requereu o seu ingresso no feito (doc. 49).
+    3. A Procuradoria-Geral da República apresentou parecer afirmando que, de acordo com as informações prestadas pela autoridade coatora, o pleito do impetrante teria sido deferido em 19.09.2018. Noticiou, ainda, que, conforme consulta ao sítio eletrônico do CNJ, o PCA 006296-09.2016.2.00.0000 já foi julgado em sessão presencial pelo Plenário do Conselho em 20.11.2018. Opinou, assim, pela extinção do feito sem resolução do mérito, ante a perda do objeto (doc. 51). Diante disso, determinei a intimação das partes e da União para se manifestarem sobre possível perda do objeto (doc. 53), com o que anuiu o ente federado (doc. 57). O impetrante não se manifestou, conforme certificado nos autos (doc. 59).
+    4. O presente mandado de segurança tinha por objeto a inclusão do PCA 006296-09.2016.2.00.0000 na pauta de julgamento presencial. O deferimento do pedido pela própria autoridade impetrada, bem como o julgamento definitivo do processo administrativo em sessão presencial, importou na perda do objeto da impetração.
+    5.  Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o presente mandado de segurança. Sem honorários.
+    Publique-se. Intimem-se.
+    Brasília, 9 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
