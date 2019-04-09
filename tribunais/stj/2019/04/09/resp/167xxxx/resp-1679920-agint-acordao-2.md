@@ -1,0 +1,30 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RAZÕES DISSOCIADAS. FUNDAMENTO SUFICIENTE INATACADO. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Com relação a alegada ofensa ao artigo 927 do CC, as razões do recurso especial apresentam-se dissociadas da fundamentação do acórdão recorrido - o que atrai a incidência da Súmula 284/STF -, e, ainda, não foram impugnados objetivamente os fundamentos do acórdão - circunstância que dá azo à incidência da Súmula 283/STF.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+A UNIÃO interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. SUPOSTA VIOLAÇÃO AO ART. 535 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ E 282/STF. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. FUNDAMENTO CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. FUNDAMENTO ADOTADO PELA ORIGEM NÃO COMBATIDO NA INTEGRALIDADE PELO RECURSO ESPECIAL. SÚMULA 283/STF. REGRAMENTO GENÉRICO. INCIDÊNCIA DA SÚMULA 284/STF. RESOLUÇÃO. ATO NORMATIVO NÃO INCLUÍDO NO CONCEITO DE LEI FEDERAL. QUESTÃO CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
+Alega a agravante que, com relação aos artigos 186 e 927 do CC: a) o acórdão regional, ao fixar uma compensação financeira para a comunidade pesqueira, o fez sob a ótica do dever de indenizar, fundamentando-se na responsabilidade civil, não se cogitando a aplicação da Súmula 284/STF ao recurso interposto; b) tendo suscitado sua ilegitimidade passiva, pela ausência de ação ou omissão que ensejou o pleito indenizatório, tal tese é suficiente como impugnação ao fundamento do acórdão, não sendo o caso de aplicar-se o óbice da Súmula 283/STF. É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RAZÕES DISSOCIADAS. FUNDAMENTO SUFICIENTE INATACADO. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Com relação a alegada ofensa ao artigo 927 do CC, as razões do recurso especial apresentam-se dissociadas da fundamentação do acórdão recorrido - o que atrai a incidência da Súmula 284/STF -, e, ainda, não foram impugnados objetivamente os fundamentos do acórdão - circunstância que dá azo à incidência da Súmula 283/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+A decisão recorrida, com relação a alegada violação ao artigo 927 do CC, não conheceu do recurso especial em decorrência de as razões recursais estarem dissociadas da fundamentação do acórdão do Tribunal de origem e da ausência de impugnação ao fundamento do acórdão.
+O Tribunal de origem apresentou os seguintes fundamentos para decidir a controvérsia nesse ponto: a) não houve dano efetivo sofrido pela parte autora, sendo incabível a fixação de indenização; b) é devida aos pescadores que desenvolvem suas atividades profissionais na localidade apenas uma compensação financeira, a qual decorre de uma aplicação analógica do direito dos pescadores a um seguro desemprego no período defeso (art. 1º da Lei 10.779/2003); e c) o ônus para o pagamento dessa compensação financeira é da União e do DNIT, pois são os entes responsáveis pela obra em questão e sabedores das obrigações decorrentes dela.
+Nas razões do recurso especial, a agravante limitou-se a apresentar argumentos à luz da responsabilidade civil, aduzindo que o dever de indenizar depende, além comprovação do nexo de causalidade, da efetiva demonstração de dano real, o que não se verificou no caso em tela.
+O Juízo a quo foi claro ao consignar que não houve dano efetivo a parte autora da ação, sendo incabível a fixação de indenização. O fundamento utilizado para decidir o ponto da controvérsia foi aplicação analógica da Lei 10.779/2003, a qual determina ser devido aos pescadores uma espécie de seguro-desemprego durante o período de defeso de atividade pesqueira.
+Verifica-se que a compensação financeira devida aos pescadores não foi fixada com base no dever de indenizar decorrente da responsabilidade civil.
+Dessa forma, a parte furtou-se de impugnar os fundamentos utilizados na decisão do Juízo a quo, além de apresentar argumentos dissociados daqueles apresentados no acórdão.
+Em razão das circunstâncias acima mencionadas, os óbices das Súmulas 284 e 283 do STF impedem o conhecimento do recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
