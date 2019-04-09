@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão monocrática que negou seguimento ao recurso extraordinário, sob o fundamento de que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que não admite a incidência de juros moratórios aos pagamentos feitos dentro do prazo constitucional.
+    A parte agravante sustenta que a decisão agravada não analisou o objeto do recurso, uma vez que, na realidade, a discussão posta é sobre a possibilidade de “cobrança de juros e correção monetária compreendidos entre a data da feitura do cálculo do processo de execução até a inscrição do precatório no Tribunal Regional Federal da 4ª Região”.
+    Reconsidero a decisão proferida e passo a analisar o recurso extraordinário.
+    O Tribunal Regional Federal da 4ª Região assim julgou a controvérsia:
+    “PREVIDENCIÁRIO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SALDO COMPLEMENTAR. JUROS DE MORA. CABIMENTO. BLOQUEIO. VALORES CONTROVERTIDOS.
+    1. Os juros de mora decorrentes da condenação judicial e incidentes sobre o valor do principal, são devidos no percentual determinado no título exequendo (e, a contar de 01-07-2009 - Lei n.º 11.960/2009 - no mesmo percentual de juros incidentes sobre a caderneta de poupança) até a data-limite para apresentação dos precatórios no Tribunal (1º de julho), ou, no caso de RPV, até a data de sua autuação na Corte, desde que o débito seja pago no prazo constitucional (31 de dezembro do ano subseqüente ao da inscrição no orçamento, no caso de precatório, ou até sessenta dias após a autuação, no caso de RPV).
+    2. Agravo parcialmente acolhido para que seja expedida a requisição de pagamento com status bloqueado, face à pendência da decisão do STF em sede de repercussão geral, quanto aos juros.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 194 da CF. Sustenta que deve “incidir os juros e correção monetária da data do cálculo de liquidação até 1° de julho”.
+    O recurso não deve ser conhecido. O Tribunal de origem assentou que “é possível a incidência de juros moratórios até a requisição de pagamento ou inscrição do precatório no orçamento porque não há previsão constitucional ou legal que descaracterizasse a mora do devedor nesse período em que ainda é esperado o pagamento e, como não houve inscrição do precatório ou RPV, ainda não iniciou o prazo constitucional durante o qual ao devedor não é imputada a mora”.
+    A parte recorrente quer seja reconhecida pretensão já acolhida pelas instâncias ordinárias, o que descaracteriza o seu interesse em recorrer. Faltam ao recurso extraordinário, portanto, os pressupostos de admissibilidade que inviabiliza o seu conhecimento. Nessa linha, veja-se a ementa do ARE 663.941-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Pretensão do recorrente foi acolhida pelo tribunal de origem. 4. Ausência de necessidade/utilidade do provimento recursal. Configuração da falta de interesse em recorrer. Precedentes do STF. 5. Agravo regimental a que se nega provimento.”
+    Diante do exposto, reconsidero a decisão anteriormente proferida e, com base no art. 21, § 1º, do RI/STF, não conheço do recurso. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 09 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
