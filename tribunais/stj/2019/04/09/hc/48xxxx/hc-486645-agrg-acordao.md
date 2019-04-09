@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSA IDENTIDADE. APLICAÇÃO DA PENA DETENTIVA AO INVÉS DA PENA ISOLADA DE MULTA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A opção pela pena detentiva, ao invés da pena isolada de multa, está calcada em fundamentos concretos do caso, em especial, nas circunstâncias pessoais do agravante, que não teria condições de arcar com a sanção pecuniária, além de não se descurar da necessidade de a pena aplicada alcançar os objetivos punitivo e repressivo perseguidos pela legislação penal.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] em face de decisão de minha relatoria em que deneguei o writ, ao fundamento de que idônea a fundamentação expendida pela Corte a quo para a fixação de pena detentiva, ao invés da pena isolada de multa, no que tange à condenação do agravante pelo delito previsto no art. 307 do Código Penal.
+Neste recurso, alega o agravanrte, em suma, que a parca condição financeira do réu não é argumento idôneo para impor-lhe sanção mais severa, afastando a pena de multa para manter a de detenção, porque seria legitimar a sobrecriminalização da pobreza: o Estado, que tem por objetivo fundamental "erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais" (CRFB/88, art. 4.º, III), faz justamente o contrário, pune mais severamente o indivíduo vulnerável socialmente exatamente em razão de sua vulnerabilidade (fls. 407-408).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos (fls. 398-400):
+Trata-se de habeas corpus impetrado em favor de [NOME] [NOME] [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, assim ementado:
+APELAÇÃO CRIMINAL - ROUBO MAJORADO (CP, ART. 157, § 2º, II) E FALSA IDENTIDADE (CP, ART. 307) - SENTENÇA CONDENATÓRIA.
+FALSA IDENTIDADE - TESE DE ATIPICIDADE DA CONDUTA - INOCORRÊNCIA - ACUSADO QUE ATRIBUI A SI NOME FALSO PERANTE A AUTORIDADE POLICIAL - RELATOS DOS AGENTES ESTATAIS FIRMES E UNÍSSONOS AO LONGO DO FEITO - EXERCÍCIO DA AUTODEFESA QUE CONTEMPLA A NEGATIVA QUANTO À OCORRÊNCIA DE FATOS - LEGÍTIMA PRETENSÃO DO ESTADO EM IDENTIFICAR CORRETAMENTE O INDIVÍDUO CONTRA O QUAL PROPÕE EVENTUAL AÇÃO PENAL - SÚMULA N. 522 DO STJ - ABSOLVIÇÃO INVIÁVEL - POSTULADA ALTERAÇÃO DA PENA CORPÓREA POR MULTA - INVIABILIDADE - ACUSADO COM PARCAS CONDIÇÕES FINANCEIRAS - OBSERVÂNCIA ÀS FINALIDADES RETRIBUTIVA, PREVENTIVA E RESSOCIALIZADORA DA SANÇÃO PENAL.
+ROUBO - PRETENSA APLICAÇÃO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA (CP, ART. 29, § 1º) - DESCABIMENTO - DENUNCIADOS QUE PERMANECERAM EM ESTADO DE VIGÍLIA FORA DO ESTABELECIMENTO COMERCIAL - CONDUTA DECISIVA PARA O ÊXITO DO PLANO CRIMINOSO - COAUTORIA MANIFESTA.
+DOSIMETRIA - ETAPA INTERMEDIÁRIA - PLEITO DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL - INVIABILIDADE - OBSERVÂNCIA À SÚMULA N. 231 DO STJ - ENTENDIMENTO REPUTADO CONSTITUCIONAL PELOS TRIBUNAIS PÁTRIOS - PRECEDENTES - TESE DE MIGRAÇÃO DE CIRCUNSTÂNCIA ATENUANTE PARA A ÚLTIMA FASE - INAPLICABILIDADE - AUSÊNCIA DE PREVISÃO LEGAL - SANÇÕES PENAIS INCÓLUMES - RECURSO DESPROVIDO.
+Consta dos autos que o paciente foi condenado, em sentença confirmada pela Corte a quo, às penas de 6 anos, 2 meses e 20 dias de reclusão e 3 meses de detenção e de 15 dias-multa, por infração ao art. 157, § 2º, II, por duas vezes, em concurso formal, nos termos do art. 70, c/c o art. 307, todos do Código Penal.
+Nas razões do writ, narra a impetrante que a despeito de o preceito secundário do crime de falsidade ideológica cominar a aplicação alternativa de pena de detenção ou de multa, o Tribunal a quo utilizou-se de fundamento ilegal ao ponderar que por não ter o paciente condições financeiras de arcar com a pena pecuniária a sua fixação não seria suficiente para atingir o caráter punitivo da norma.
+Alega ainda que a escolha entre as duas consequências jurídicas não está ao livre alvedrio do julgador (independentemente da explicitação das razões): o direito subjetivo do acusado também implica o direito à situação mais favorável, demandando fundamentação concreta do juiz eventual decisão pela consequência menos benéfica. É dizer, há uma ordem de precedência entre as duas penas previstas no preceito secundário do referido tipo penal (prioritariamente, a pena de multa) (fl. 7).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão, de ofício, da ordem.
+É o relatório.
+DECIDO.
+Quanto ao pleito de aplicação isolada da pena de multa no tocante ao delito do art. 307 do CP, a Corte a quo se manifestou nos seguintes termos (fls. 324/325):
+1.2 Da aplicação isolada de pena de multa
+A pretensão de substituição da pena corpórea por sanção pecuniária é descabida.
+Isso porque, em se tratando de réu com parcas condições financeiras, a aplicação isolada de multa surtiria pouco ou nenhum efeito no caso em apreço, mostrando-se providência mais consentânea a manutenção da sanção corporal, de modo a preservar as finalidades retributiva, preventiva e ressocializadora da pena.
+Existindo a possibilidade da fixação de pena alternativa e não havendo o legislador definido os critérios a serem adotados na escolha, compete ao magistrado realizar a opção no exercício do seu juízo discricionário, que não dispensa a devida fundamentação de modo individualizado nas circunstâncias do fato e do processo, em observância ao princípio do livre convencimento motivado e ao mandamento constitucional inserto no artigo 93, inciso IX da Carta da República.
+Extrai-se do acórdão impugnado que a Corte local motivou a opção pela pena detentiva, ao invés da de multa, em virtude de ser tal medida mais adequadas às circunstâncias pessoais do paciente, que não teria condições de arcar com a sanção pecuniária, e da necessidade de a pena aplicada alcançar os objetivos perseguidos pela legislação penal. Considerando-se, portanto, que as instâncias ordinárias fundamentaram, com base em elementos concretos do caso, a escolha pela pena detentiva, não vislumbro a presença de qualquer ilegalidade. A propósito, confira-se:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO PRIVILEGIADO NA MODALIDADE TENTADA (ART. 155, § 2º, C/C ART. 14, INCISO II, DO CP). PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REDUÇÃO PELA TENTATIVA. CONSIDERADO O ITER CRIMINIS. FUNDAMENTO IDÔNEO. INCIDÊNCIA DO PRIVILÉGIO DO ART. 155, § 2º, DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA DE RECLUSÃO PELA DE MULTA. DESCABIMENTO.
+(..)
+4. Não merece reparo o acórdão recorrido que, aplicando o privilégio estabelecido no § 2º do art. 155 do CP, e visando o caráter retributivo da pena, que não seria alcançado caso fosse aplicada a pena de multa, reduziu a sanção reclusiva imposta, justificando que a pena pecuniária, na hipótese, não poderia ser arcada pelo réu, diante de sua falta de condições financeiras.
+5. Agravo regimental não provido.
+(AgRg no REsp 1781675/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019)
+Ante o exposto, denego o habeas corpus.
+Como se vê, o agravante limita-se a repisar os termos da impetração em sua peça recursal, razão pela qual concluo que inexistem elementos suficientes para infirmarem a decisão impugnada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça.
+Assim, nenhuma censura merece o decisório agravado, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Ante o exposto, voto por negar provimento ao agravo regimental.
