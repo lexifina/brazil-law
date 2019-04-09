@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INTERROGATÓRIO REALIZADO ANTES DA OITIVA DE TESTEMUNHAS INQUIRIDAS POR CARTA PRECATÓRIA. NULIDADE. INEVIDÊNCIA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.
+1. Nos termos da orientação jurisprudencial desta Corte, conquanto seja recomendável que o interrogatório do acusado seja o último ato da instrução criminal, é possível a sua realização ainda que pendente de cumprimento carta precatória expedida para oitiva de testemunha, nos termos do art. 222 do Código de Processo Penal. Precedentes.
+2. Somente se cogita da existência de constrangimento ilegal por excesso de prazo quando a demora for motivada por descaso injustificado do Juízo processante, o que não se verifica na hipótese em que a custódia preventiva foi decretada no ano de 2015, permanecendo os pacientes foragidos até o dia 5/4/2018. Ademais, o encerramento da instrução atrai a incidência da Súmula 52/STJ.
+3. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem de habeas corpus nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Neste habeas corpus, impetrado em benefício de [NOME] e [NOME], aponta-se como autoridade coatora o Tribunal de Justiça de Goiás, que, no julgamento do HC n. 82665-23.2018.8.09.0000 (201890826650), denegou a ordem, mantendo a prisão preventiva dos pacientes, decretada no Processo n. 201502712118, em curso na 2ª Vara Criminal da comarca de Senador Canedo/GO, no qual se apura a suposta prática do crime homicídio qualificado.
+Aqui, alega-se excesso de prazo na conclusão da instrução processual, pois os acusados foram presos preventivamente em 5/4/2018 e ainda não se encerrou a primeira fase do procedimento do Júri.
+Sustenta-se cerceamento de defesa, ao argumento de que os réus foram interrogados sem a oitiva de todas as testemunhas de acusação.
+Requer-se, em liminar, o reconhecimento da nulidade absoluta do teratológico interrogatório judicial prestado por [NOME] e [NOME], determinando que o Juízo Criminal de Senador Canedo, Goiás, suspenda a prática de novos atos nos autos do Processo n. 201502712118, assim como pelo reconhecimento do injusto excesso de prazo cometido no processo que arrasta a instrução criminal desde 2015, autorizando-lhes a acompanhar o feito em liberdade (fls. 18/19).
+Indeferida a liminar às fls. 320/323.
+Informações prestadas (fls. 328/330).
+Parecer do Ministério Público Federal assim ementado (fls. 333/336):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALEGAÇÃO DE NULIDADE. NÃO CONFIGURADA. Parecer pelo não conhecimento da ordem ou, caso conhecida, pela sua denegação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): No que se refere à alegada nulidade por cerceamento de defesa, a Corte de origem considerou que não macula o feito a realização do interrogatório dos pacientes antes da restituição da carta precatória expedida para a inquerição de testemunha (fl. 306).
+Ora, o entendimento lançado no acórdão ora combatido está de acordo com a jurisprudência desta Corte, segundo a qual a expedição da carta precatória não suspende a instrução criminal, razão pela qual o feito prosseguirá, em respeito ao princípio da celeridade processual, procedendo-se à oitiva das demais testemunhas, ao interrogatório do acusado e, inclusive, ao julgamento da causa, ainda que pendente a devolução da carta pelo juízo deprecado (HC n. 388.688/SP, Ministro Jorge Mussi, Quinta Turma, DJe 17/4/2017).
+Com efeito, conquanto seja recomendável que o interrogatório do acusado seja o último ato da instrução criminal, é possível a sua realização ainda que pendente de cumprimento carta precatória expedida para oitiva de testemunha, especialmente quando ela não é cumprida em prazo razoável, prejudicando a celeridade da ação penal de réu preso, nos termos do art. 222 do Código de Processo Penal.
+No mesmo sentido, dentre muitos outros, AgRg no AREsp n. 602.275/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 20/4/2018; e o AgRg no AREsp n. 986.833/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/4/2017.
+Quanto ao alegado excesso de prazo, não se observa a ocorrência de retardamento no curso da instrução por desídia do Poder Judiciário. Pelo que consta do autos, a custódia preventiva foi decretada no ano de 2015, permanecendo os pacientes foragidos até o dia 5/4/2018, ocasião em que foram recolhidos ao sistema prisional.
+Ademais, segundo consta do andamento processual na página eletrônica do Tribunal de origem, a ação penal em questão encontra-se em fase de alegações finais. Assim, superada a tese do excesso de prazo para a formação da culpa em razão da incidência da Súmula 52/STJ (HC n. 476.570/GO, Ministra Laurita Vaz, Sexta Turma, DJe 1º/2/2019).
+Ante o exposto, denego a ordem.
