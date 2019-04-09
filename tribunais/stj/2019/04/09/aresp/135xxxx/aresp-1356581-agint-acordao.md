@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ADESÃO AO PARCELAMENTO FISCAL. INTERPOSIÇÃO DE EMBARGOS À EXECUÇÃO FISCAL EM MOMENTO POSTERIOR. EXTINÇÃO DOS EMBARGOS À EXECUÇÃO FISCAL SEM RESOLUÇÃO DE MÉRITO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte, os efeitos da adesão ao parcelamento fiscal aderido anteriormente aos embargos à execução fiscal é a extinção deste sem resolução do mérito, em face da ausência de pressuposto do desenvolvimento válido e regular do processo, ou seja, por ausência de interesse processual, a teor do disposto no art. 267, IV, do CPC. Nesse sentido: REsp 1.226.726/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/5/2011, DJe 30/5/2011; REsp 1.004.987/RS, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 12/8/2008, DJe 8/9/2008.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto pela União, em face de decisão monocrática por mim proferida, nos seguintes termos, in verbis:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. CONTRADIÇÃO NA FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+Nas razões do agravo interno, a recorrente aduz que no mérito não prospera a aplicação da consolidada jurisprudência desta Corte ao sedimentar que a adesão a parcelamento tem o condão de extinguir os embargos à execução por perda superveniente de interesse. Contrariamente, afirma a recorrente que em razão das peculiaridades dos autos, há um distinguish a ser enfrentado por esta turma, ao se considerar que a) a adesão ao parcelamento pela RFFSA se deu antes da oposição dos embargos à execução pela União; b) como alegado pelo próprio município, o parcelamento acarretou o adimplemento do débito, motivo pelo qual os embargos à execução devem ser processados, com o fim de extinguir a execução ou reduzi-la ao montante eventualmente faltante.
+Neste sentido, ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+O prazo para a apresentação de contrarrazões ao agravo interno transcorreu in albis.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ADESÃO AO PARCELAMENTO FISCAL. INTERPOSIÇÃO DE EMBARGOS À EXECUÇÃO FISCAL EM MOMENTO POSTERIOR. EXTINÇÃO DOS EMBARGOS À EXECUÇÃO FISCAL SEM RESOLUÇÃO DE MÉRITO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte, os efeitos da adesão ao parcelamento fiscal aderido anteriormente aos embargos à execução fiscal é a extinção deste sem resolução do mérito, em face da ausência de pressuposto do desenvolvimento válido e regular do processo, ou seja, por ausência de interesse processual, a teor do disposto no art. 267, IV, do CPC. Nesse sentido: REsp 1.226.726/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/5/2011, DJe 30/5/2011; REsp 1.004.987/RS, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 12/8/2008, DJe 8/9/2008.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em suma, a controvérsia vertida nestes autos perquire saber se há interesse de agir da executada no conhecimento dos embargos à execução fiscal, quando a empresa sucedida, anteriormente, adere ao programa de parcelamento fiscal.
+Deveras, compulsando-se os autos, verifica-se que os embargos à execução foram opostos na data de 06.04.2009 (fls. 3, e-STJ) e à adesão ao parcelamento fiscal ocorreu em 01.08.2006, conforme documento acostado à fl. 38 (e-STJ).
+Assim, considerando que a adesão ao parcelamento fiscal implica no reconhecimento da dívida tributária, não remanesce interesse jurídico o conhecimento dos embargos à execução fiscal proposta em momento posterior àquele ato, nos termos da jurisprudência consolidada desta Corte.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. ACOLHIMENTO. EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO. ADESÃO AO PAES. EXTINÇÃO DO FEITO SEM A RESOLUÇÃO DO MÉRITO. POSSIBILIDADE. INEXISTÊNCIA DE CONDIÇÃO DA AÇÃO. INTERESSE PROCESSUAL.
+1. Analisando detidamente a lide, percebe-se que a controvérsia restringe-se em saber se é possível a extinção do feito sem julgamento de mérito, quando o contribuinte adere a parcelamento tributário, sem que haja o pedido expresso de desistência e/ou renúncia ao direito sobre qual se fluida a ação.
+2. A jurisprudência desta Corte entende que o juiz não está vinculado ao pedido da parte para extinguir a demanda. Assim, se o julgador verificar a inexistência de qualquer das condições da ação, como no presente caso, a falta de interesse processual - que ocorreu quando o contribuinte aderiu a parcelamento tributário - deverá extinguir o feito sem resolução do mérito, nos termos do art. 267, VI, do CPC. Precedentes: REsp 950.871/RS, Rel. MM Herman Benjamin, Segunda Turma, DJe de 31.8.2009; REsp 1086990/SP, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJe de 17.8.2009.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para negar provimento ao recurso especial.
+(EDc1 no REsp 671.776/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/05/2010, DJe 09/06/2010)
+TRIBUTÁRIO. PARCELAMENTO. SOBRESTAMENTO DA EXECUÇÃO FISCAL. EXTINÇÃO DOS EMBARGOS À EXECUÇÃO.
+I - É fato incontroverso nos autos que houve adesão à programa de parcelamento.
+II - Com efeito, tendo a empresa contribuinte aderido a parcelamento após o ajuizamento da execução fiscal, deveria determinar o sobrestamento desta até que se resolvesse o parcelamento, seja pelo adimplemento completo das parcelas e superveniente extinção pela quitação, seja pelo prosseguimento do feito em caso de descumprimento do acordo. Nesse sentido: AgRg no REsp 1.459.931/AL, Rel.
+Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/2/2015, DJe 19/2/2015; REsp 1.331.965/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/8/2012, DJe 3/9/2012.
+III - Por seu turno, os efeitos da adesão ao parcelamento em relação aos embargos à execução fiscal não é a sua suspensão em conjunto com o feito executivo, mas o reconhecimento de ausência de pressuposto do desenvolvimento válido e regular do processo, ou seja, por ausência de interesse processual, a teor do disposto no art. 267, IV, do CPC. Nesse sentido: REsp 1.226.726/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/5/2011, DJe 30/5/2011; REsp 1.149.472/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/8/2010, DJe 1º/9/2010; REsp 1.004.987/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/8/2008, DJe 8/9/2008.
+IV - Ressalte-se de parcelamento, o que conduz apenas a extinção dos embargos à execução sem julgamento de mérito. Nesse sentido: AgRg no AgRg no REsp 1.213.719/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 16/4/2013, DJe 26/4/2013.
+V - Agravo interno improvido.
+(AgInt no REsp 1612006/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/03/2018, DJe 26/03/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
