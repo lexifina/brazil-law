@@ -1,0 +1,59 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto por Luiz Teixeira da Silva Junior e Liliane Bernardo Rios da Silva (eDOC 2, p. 97-127), contra decisão proferida pelo Min. Felix Fischer, do Superior Tribunal de Justiça, que não conheceu do HC 481.332/SP (eDOC 2, p. 86-92).
+    Os recorrentes reiteram, em síntese, a insurgência deduzida nas instâncias inferiores, no sentido de que a revogação da liberdade provisória não se sustenta e ocorreu porque o Ministério Público teria induzido em erro o juízo a quo. Salientam, ainda, que não houve o descumprimento das condições impostas e que não há nenhuma irregularidade em renovar passaportes.
+    Ao final, a parte recorrente pede o seguinte:
+    “I - Seja pela Suprema Corte Federal determinado o processamento do presente recurso, cassando o V. Acórdão (sic) de nº 481.332, V. Voto da Relatoria de Sua Excelência Ministro JORGE MUSSI, da Colenda Quinta Turma do E. STJ, com o fito último de conceder-se o RECURSO ORDINÁRIO CONSTITUCIONAL no sentido de conhecer no mérito ou de ofício a ordem de habeas corpus eis que, presentes de forma clara e insofismável, o manifesto constrangimento ilegal emanado do ATO ABUSIVO ILEGAL da Autoridade coatora primeira, que decretou a prisão preventiva dos Recorrentes sem motivos ou justa causa, quanto da Autoridade coatora segunda e Terceira do E.STJ que manteve o decreto preventivo, restabelecendo, assim, os primados da mais pura e cristalina JUSTIÇA!” (eDOC 2, p. 127; grifos originais)
+    A Vice-Presidente do STJ determinou a remessa destes autos ao STF (eDOC 2, p. 135).
+    Não houve contrarrazões (certidão; eDOC 2, p. 140).
+    O Ministério Público Federal opinou pelo não provimento deste RHC (eDOC 3, p. 1-4).
+    É o relatório.
+    Decido.
+    Preliminarmente, para melhor compreensão da matéria, destaco da decisão ora recorrida, a qual não conheceu do HC 481.332/SP:
+    “Depreende-se dos autos que os Pacientes foram denunciados pela suposta prática do crime do art. 312 do CP, por ao menos 108 vezes, na forma do art. 71, caput,; art. 1º, caput, c.c o § 4º, da Lei 9.613/1998, por ao menos 108 vezes, na forma do art. 71, caput, CP; art. 304, c.c. os arts. 298, caput e 299, todos do CP e art. 2º, caput, c.c. 4º, II, da Lei 12.850/2013, todos na forma do art. 69 do CP (fl. 158).
+    Foi concedida a liberdade provisória aos pacientes mediante o cumprimento de algumas condições, entre elas: ‘proibição de sair do país’ (fl. 11). Com o descumprimento de tal medida, a prisão preventiva dos pacientes foi decretada, no dia 31/10/2018, pelo juízo de primeira instância.
+    Irresignada, a defesa impetrou habeas corpus junto ao eg. Tribunal a quo, com vistas à revogação da prisão preventiva. A ordem, por seu turno, foi denegada (...)” (eDOC 2, p. 86)
+    A presente irresignação não merece prosperar.
+    Nos termos do artigo 312 do CPP, a prisão preventiva pode ser decretada, quando houver prova da existência do crime e indício suficiente de autoria, (i) para a garantia da ordem pública ou da ordem econômica, (ii) por conveniência da instrução criminal ou (iii) para assegurar a aplicação da lei penal.
+    Na linha da jurisprudência deste Tribunal, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional, para análise de excepcional situação jurídica de constrição da liberdade, exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados, como ocorreu na espécie.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública, conveniência da instrução criminal, bem como para assegurar a aplicação da lei penal, porque devidamente fundamentada: HC 139.159/CE, de minha relatoria, Segunda Turma, DJe 16.2.2017; HC 125.290 AgR/MG, rel. min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 119.385/RS, rel. min. Cármen Lúcia, Segunda Turma, DJe 7.2.2014; RHC 142.834/MG, por mim relatado, decisão monocrática, DJe 2.3.2018; HC 150.363 AgR/MT, por mim relatado, Segunda Turma, DJe 18.3.2019, dentre outros.
+    Portanto, as circunstâncias que justificaram a prisão em apreço, sobretudo em face dos fundamentos contidos nas decisões das instâncias inferiores e do decisum ora recorrido, conforme visto, autorizam a conclusão pela necessidade da segregação cautelar para garantir a ordem pública e assegurar a efetiva aplicação da lei penal.
+    Para tanto, destaco da decisão do Relator, no STJ:
+    “A propósito, colaciono trecho da decisão do Juízo de primeiro grau que decretou a prisão preventiva dos pacientes:
+    ‘Os fatos relatados são EXTREMAMENTE GRAVES e comportam a revogação da liberdade provisória deferida aos réus.
+    Na decisão de lis. 6323, está consignada a PROIBIÇÃO ABSOLUTA DE SAIR DO PAÍS, sem qualquer margem de dúvida. Os réus não poderiam, sequer, deixar o Estado.
+    Portanto, qual o motivo para solicitar renovação de PASSAPORTE, SEM INFORMAR PREVIAMENTE O JUÍZO E SEM PEDIR AUTORIZAÇÃO?
+    A petição de fls 6488 em que os réus informam a tentativa de obter passaportes não confere ao ato boa-fé, pois a PETIÇÃO INFORMANDO O PEDIDO DE RENOVAÇÃO SÓ FOI APRESENTADA em juízo em 30 DE. OUTUBRO DE 2018.
+    OCORRE QUE OS RÉUS REOUERERAM A EMISSÃO DE NOVO PASSAPORTE EM 19 DE OUTUBRO, BEM ANTES DE PETICIONAREM EM JUÍZO: COMPARECERAM NO POSTO EM ATENDIMENTO DIA 29 DE OUTUBRO E SOMENTE APRESENTARAM PETIÇÃO INFORMANDO O JUÍZO DIA 30 DE OUTUBRO, OU SEJA, APÓS O JUÍZO TOMAR CIÊNCIA DA INTENÇÃO DOS RÉUS NO DIA 29 DE OUTUBRO. CONFORME DOCUMENTOS DE FLS. 6490.
+    PORTANTO. A PETIÇÃO SOMENTE FOI APRESENTADA APÓS O JUÍZO TER CIÊNCIA DA INTENÇÃO DOS RÉUS EM RENOVAR OS PASSAPORTES, NÃO EXISTINDO QUALQUER JUSTIFICATIVA PARA PEDIR PASSAPORTES SEM INFORMAR O JUÍZO, SENÃO COM A INTENÇÃO DE DEIXAR O PAÍS.
+    Não há justificativa plausível para pedir renovação de passaporte. COM A CIÊNCIA DE QUE NÃO PODEM DEIXAR O PAÍS EM HIPÓTESE ALGUMA.
+    Ademais, somente informaram o juízo após terem ciência de que a policia já tinha prestado tal informação.
+    E não é só isso.
+    Entre as medidas cautelares esta a obrigação de informar o endereço correto nos autos e conforme oficio de fls. 6497. Os réus declararam. NO PEDIDO DE EMISSÃO DE PASSAPORTE, ENDEREÇO DIVERSO DO AFIRMADO EM JUÍZO, tudo revelando o descumprimento das cautelares já deferidas nos autos e revelando que a custódia e necessária para garantia da aplicação da lei penal e deve ser imposta como sanção ao descumprimento das cautelares e tentativa de ludibriar o Judiciário.’ (fls. 61-62).
+    Ao julgar o habeas corpus, o Tribunal de origem denegou a ordem originária nos seguintes termos:
+    ‘Depois de formulados diversos pedidos de liberdade, embasados nos mais diversos argumentos, foi concedido aos pacientes o direito de responder ao processo em liberdade.
+    Dentre as condições constou a proibição absoluta de sair do país e a obrigação de manter o juízo atualizado sobre o endereço onde poderiam ser encontrados.
+    Ocorre que, chegou aos autos a notícia de que, pouco tempo depois, os acusados deram entrada em pedido de renovação de passaporte. Na decisão guerreada o primeiro grau anotou que: ‘Os fatos narrados são EXTREMAMENTE GRAVES (...).
+    OCORRE QUE OS RÉUS REQUERERAM A EMISSÃO DE NOVO PASSAPORTE EM 19 DE OUTUBRO, BEM ANTES DE PETIONARESM EM JUÍZO; COMPARECERAM NO POSTO DE ATENDIMENTO DIA 29 DE OUTUBRO, E SOMENTE APRESENTARAM PETIÇÃO INFORMANDO O JUÍZO DIA 30 DE OUTUBRO, OU SEJA, APÓS O JUÍZO TOMAR CIÊNCIA DA INTENÇÃO DOS RÉUS NO DIA 29 DE OUTUBRO CONFORME DOCUMENTOS DE FLS. 6490’.
+    Ou seja, o juízo foi informado pela polícia federal acerca do pedido e só depois disso houve a comunicação.
+    E segue o magistrado, ‘PORTANTO, A PETIÇÃO SOMENTE FOI APRESNETADA APÓS O JUÍZO TER CIÊNCIA DA INTENÇÃO DOS RÉUS EM RENOVAR OS PASSAPORTES, NÃO EXISTINDO QUALQUER JUSTIFICATIVA PARA PEDIDO PASSAPORTES SEM INFORMAR O JUÍZO, SENÃO COM A INTENÇÃO DE DEIXAR O PAÍS.’ (fls. 21).
+    Observou a decisão, ainda, que no pedido de emissão de passaporte constava endereço diverso do afirmado em juízo.
+    Em suma, o primeiro grau não foi induzido em erro como alegou a defesa. Ele se baseou em elementos concretos para fundamentadamente revogar a benesse.
+    Ao contrário do afirmado na inicial, pueril seria admitir que os acusados pediram um novo passaporte em pleno desenrolar de uma ação penal que trata de fatos graves e sem comunicar o juízo, simplesmente porque o documento estava vencido.
+    A decisão foi bem tomada e fica mantida’ (fls. 29-33).
+    O Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal – CPP.
+    Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+    No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, tendo sido demonstrados, com base em elementos concretos, o incontroverso descumprimento das medidas cautelares alternativas anteriormente impostas.
+    Com efeito, o art. 312, parágrafo único, do CPP é expresso a autorizar a prisão preventiva ‘em caso de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares (art. 282, § 4º)’.
+    Na Hipótese, conforme consignado pelas instâncias ordinárias: ‘Em suma, o primeiro grau não foi induzido em erro como alegou a defesa. Ele se baseou em elementos concretos para fundamentadamente revogar a benesse. Ao contrário do afirmado na inicial, pueril seria admitir que os acusados pediram um novo passaporte em pleno desenrolar de uma ação penal que trata de fatos graves e sem comunicar o juízo, simplesmente porque o documento estava vencido.’ (fls. 32-33).
+    A jurisprudência desta Corte Superior orienta no sentido de que a incidência da presente hipótese demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal e para assegurar a aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.” (eDOC 2, p. 88-91; grifos originais)
+    Vê-se, destarte, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do acusado com a jurisprudência do STF.
+    Finalmente, porque pertinente, acentue-se o contido na manifestação do MPF, assim ementada:
+    “Processo penal. Recurso em Habeas corpus. Crimes de peculato, lavagem de capitais, uso de documento falso, falsificação de documento particular, falsificação ideológica e organização criminosa. Pleito de revogação da prisão preventiva.
+    1. Preventiva devidamente fundamentada para garantir a ordem pública e assegurar a efetiva aplicação da lei penal, tendo em vista o descumprimento das medidas cautelares alternativas impostas aos réus.
+    2. Pelo desprovimento do recurso ordinário.” (eDOC 3, p. 1)
+    Diante do exposto, com fundamento no art. 312 c/c o art. 192, caput, do RI/STF, nego provimento ao presente recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 9 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
