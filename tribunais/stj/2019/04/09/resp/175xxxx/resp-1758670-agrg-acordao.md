@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INADIMPLEMENTO DA PENA DE MULTA. REQUISITO SUBJETIVO NÃO CUMPRIDO. ANÁLISE ACERCA DO PREENCHIMENTO. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O não pagamento da pena de multa, aplicada cumulativamente com a pena privativa de liberdade, denota a ausência do requisito subjetivo para a concessão do livramento condicional.
+2. A revisão do acórdão, a fim de se acolher a tese de hipossuficiência do condenado, demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto contra decisão que negou provimento ao recurso especial.
+Sustenta a defesa, em síntese, que, sob a perspectiva da vedação da analogia em desfavor do reeducando em institutos de Direito Penal (norma material), como é o caso do livramento condicional, é inaceitável a exigência do pagamento da pena de multa para obtenção do livramento condicional.
+Argumenta que ainda assim não se deve revogar o livramento condicional concedido ao agravante, já que é vedada a permanência no cárcere decorrente de discriminação em razão de condição social, conforme reza o Parágrafo único do art. 3º, LPE (fl. 96)
+Por fim, aduz que o agravante não possui condições financeiras de pagar o valor da pena de multa, pois, apesar de o Ministério Público alegar que teria conseguido emprego, não carreou qualquer prova nesse sentido, e mesmo que estivesse empregado, isso não significa que tenha condições de arcar com a pena de multa sem a privação do mínimo existencial (fl. 97).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Sexta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada, a qual merece ser mantida por seus próprios fundamentos, foi assim proferida:
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE EXECUÇÃO PENAL - PROGRESSÃO DO REGIME PRISIONAL - IMPOSSIBILIDADE - AUSÊNCIA DE PAGAMENTO DA PENA DE MULTA - EXIGÊNCIA DO ART. 83 DO CPB - RECURSO A QUE SE DÁ PROVIMENTO PARA REFORMAR A DECISÃO HOSTILIZADA. 1. - O condenado tem o dever jurídico (e não a faculdade) de pagar integralmente o valor da multa. Pensar de modo diferente seria o mesmo que ignorar que esta espécie de pena é prevista, expressamente, de forma autônoma, no art. 5º, inciso XLVI, alínea "c" da CF/88. 2. - Não havendo sido demonstrado a impossibilidade absoluta de pagamento da pena pecuniária, fica impedida a progressão do regime prisional, segundo entendimento hodierno do STF. 3. - Recurso Ministerial provido.
+Nas razões recursais, a defesa sustenta contrariedade ao art. 83, III, do CP. Sustenta que o não pagamento da multa, aplicada cumulativamente à pena privativa de liberdade, não impede, no caso, o livramento condicional, porquanto, sendo decorrente da hipossuficiência do condenado, não implica ausência do requisito subjetivo previsto no mencionado dispositivo. Argumenta que o "Parquet" pretende é que seja aplicada uma regra estabelecida para a progressão de regime, que seria o pagamento da multa penal e aplicá-la ao livramento condicional, sem nenhuma previsão legal expressa, em verdadeira analogia "in malan partem" (fl. 45).
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+O Tribunal a quo deu provimento ao agravo em execução penal interposto pelo Ministério Público contra decisão que concedera livramento condicional ao ora recorrente, sob o argumento de que o não pagamento da pena de multa, aplicada cumulativamente com a pena privativa de liberdade, denota a ausência do requisito subjetivo para a concessão do benefício. Eis os fundamentos do acórdão (fls. 27/28, com destaques):
+Pelo que esta exposto nos autos verifico que o direito controvertido situa-se em estabelecer se o agravado fazia, ou não, jus ao livramento condicional. Vejamos.
+Prevê o artigo 83, do Código de Penal, que:
+"Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984) I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes; (Redação dada pela Lei nº 7.209, de 11,7,1984) II - cumprida mais da metade se o condenado for reincidente em crime doloso; (Redação dada pela Lei n4 7.209, de 11.7.1984) III - comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto; (Redação dada pela Lei nº 7.209, de 11,7.1984)."
+Assim, na hipótese, considerando que o agravado mesmo estando empregado há 04 (quatro) anos, não quitou os valores referentes a pena pecuniária, o impossibilita chancelar seu comportamento como sendo satisfatório.
+A propósito, o Supremo Tribunal Federal, considera a ausência de adimplemento da pena de multa, é fator determinante para concessão da progressão do regime prisional, neste sentido:
+"a progressão de regime depende do pagamento da multa, salvo comprovação de absoluta impossibilidade econômica do apenado" (AG.REG. NA PROGRESSÃO DE REGIME NA EXECUÇÃO PENAL 16 Relator(a);Min. ROBERTO BARROSO, Data do Julgamento: 15/04/2015, Publicação: PROCESSO ELETRÔNICO DJe-093 DIVULG 19-05-2015 PUBLIC 20-05-2015)",
+Em suma, o Plenário do STF decidiu o seguinte:
+  Regra: o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional.
+  Exceção: mesmo sem ter pago, pode ser permitida a progressão de regime se ficar comprovada a absoluta impossibilidade econômica do apenado em quitar a multa, ainda que parceladamente. STF. Plenário. EP 12 ProgReg-AgR/DF, Rel. Min. Roberto Barroso, julgado em 8/4/2015 (Info 780).
+Pois bem, na hipótese como já foi aventado inexiste a hipótese de absoluta impossibilidade de adimplemento, visito que o agravado encontra-se empregado, e portanto possui renda, o que lhe permitiria, caso quisesse, quitar o valor da multa.
+Por fim, e apenas para argumentar observo que o condenado tem o dever jurídico (e não a faculdade) de pagar integralmente o valor da multa. Pensar de modo diferente seria o mesmo que ignorar que esta espécie de pena é prevista, expressamente, de forma autônoma, no art. 5º, inciso XLVI, alínea "c" da CF/88.
+Face ao exposto perfilho-me ao parecer ministerial e encaminho meu voto no sentido de conhecer do recurso, e no mérito dar-lhe provimento para reformar a decisão hostilizada, e assim, determinar a regressão do regime prisional anterior, tornando sem efeito o decisum que deferiu o livramento condicional.
+Conforme se depreende da fundamentação supra, o acórdão entendeu pela ausência de absoluta impossibilidade econômica de adimplir a pena de multa aplicada. O acusado possuiria emprego fixo que lhe permitiria o cumprimento da obrigação.
+No caso, a revisão do acórdão, a fim de ser acolher a tese de hipossuficiência do condenado e reconhecendo, assim, a presença do elemento subjetivo para a concessão do livramento condicional, demandaria imprescindível reexame de matéria fático-probatória, inviável em sede de recurso especial, ante o óbice da Súmula 7 desta Corte Superior. A propósito:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. ANÁLISE ACERCA DO PREENCHIMENTO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ E 279/STJ.
+O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+Agravo regimental desprovido.
+(AgRg no AREsp 522.286/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/09/2015, DJe 29/09/2015)
+Outrossim, observo que a tese de analogia in malan partem não foi debatida no acórdão recorrido, não tendo sido sequer opostos embargos de declaração.
+Esta Corte possui entendimento no sentido de ser indispensável ao conhecimento do recurso especial que tenham sido debatidas, no acórdão combatido, as questões trazidas no pedido recursal. Ademais, mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no v. acórdão impugnado, para que se configure o prequestionamento (Resp 1.020.855/RS, Rel. Min. Felix Fischer, DJ 2/2/09).
+Assim, não tendo sido a tese objeto de debate no acórdão recorrido, ressente-se do indispensável requisito do prequestionamento, atraindo a incidência das Súmulas 211/STJ e 282/STF. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENUNCIADO 182 DA SÚMULA DO STJ. ALEGAÇÃO DE BIS IN IDEM. TESE JURÍDICA NÃO PREQUESTIONADA. INCIDÊNCIA DOS ENUNCIADOS 282 E 356 DA SÚMULA DO STF. JUÍZO BIFÁSICO DE ADMISSIBILIDADE. DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO VINCULA O STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+2. É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional. Inteligência dos enunciados 282 e 356 da Súmula do STF.
+ ..
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+(AgRg no REsp 1624034/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016).
+Ante o exposto, não conheço do recurso especial.
+Com efeito, a decisão agravada encontra-se em consonância com a orientação firmada pelo Pleno do Supremo Tribunal de que o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional (EP 8 ProgReg-AgR, Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO, DJe-213 de 20-09-2017), entendimento aplicável, mutatis mutandis, ao livramento condicional, nos termos do § 2º do art. 112 da LEP.
+Vale ressaltar que o acórdão entendeu pela ausência de absoluta impossibilidade econômica de o apenado adimplir a pena de multa aplicada, considerando que possuiria emprego fixo que lhe permitiria o cumprimento da obrigação.
+Nesse contexto, a pretendida revisão do acórdão, a fim de se acolher a tese de hipossuficiência do condenado e assim reconhecer a presença do elemento subjetivo para a concessão do livramento condicional, demandaria imprescindível reexame de matéria fático-probatória, inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. A propósito:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. ANÁLISE ACERCA DO PREENCHIMENTO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ E 279/STJ.
+O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+Agravo regimental desprovido. (AgRg no AREsp 522.286/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/09/2015, DJe 29/09/2015).
+Ante o exposto, voto por negar provimento ao agravo regimental.
