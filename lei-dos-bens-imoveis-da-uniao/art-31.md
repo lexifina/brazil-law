@@ -2,9 +2,9 @@ Art. 31. Mediante ato do Poder Executivo e a seu critério, poderá ser autoriza
 I - Estados, Distrito Federal, Municípios, fundações públicas e autarquias públicas federais, estaduais e municipais;
 II - empresas públicas federais, estaduais e municipais;
 III - fundos públicos e fundos privados dos quais a União seja cotista, nas transferências destinadas à realização de programas de provisão habitacional ou de regularização fundiária de interesse social;
-IV - sociedades de economia mista voltadas à execução de programas de provisão habitacional ou de regularização fundiária de interesse social;
+IV - sociedades de economia mista direcionadas à execução de programas de provisão habitacional ou de regularização fundiária de interesse social;
 V - beneficiários, pessoas físicas ou jurídicas, de programas de provisão habitacional ou de regularização fundiária de interesse social desenvolvidos por órgãos ou entidades da administração pública, para cuja execução seja efetivada a doação; ou
-VI - instituições filantrópicas, devidamente comprovadas como entidades beneficentes de assistência social, e organizações religiosas.
+VI - instituições filantrópicas devidamente comprovadas como entidades beneficentes de assistência social e organizações religiosas.
 § 1º No ato autorizativo e no respectivo termo constarão a finalidade da doação e o prazo para seu cumprimento.
 § 2º O encargo de que trata o parágrafo anterior será permanente e resolutivo, revertendo automaticamente o imóvel à propriedade da União, independentemente de qualquer indenização por benfeitorias realizadas, se:
 I - não for cumprida, dentro do prazo, a finalidade da doação;
@@ -17,4 +17,4 @@ II - a pessoa jurídica que receber o imóvel em doação só poderá utilizá-l
 § 5º Nas hipóteses de que tratam os incisos III a V do caput deste artigo, o beneficiário final pessoa física deve atender aos seguintes requisitos:
 I - possuir renda familiar mensal não superior a 5 (cinco) salários mínimos;
 II - não ser proprietário de outro imóvel urbano ou rural.
-§ 6º Na hipótese de que trata o inciso VI do caput, a escolha da instituição será precedida de chamamento público, na forma prevista em regulamento.
+§ 6º Na hipótese de que trata o inciso VI do caput deste artigo, a escolha da instituição será precedida de chamamento público, na forma prevista em regulamento.
