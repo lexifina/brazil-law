@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. No extraordinário, a recorrente aponta a violação dos artigos 5º, incisos XXXVI, e 202, § 2º e § 3º, da Constituição Federal. Diz não haver diferenças a serem adimplidas. Entende contrariado ato jurídico perfeito. Requer seja declarada a autonomia da relação jurídica de previdência complementar em face da relação de trabalho.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    RECURSO DE REVISTA DA FUNCEF – MATÉRIAS REMANESCENTES RESPONSABILIDADE SOLIDÁRIA PELA INTEGRALIZAÇÃO DA RESERVA MATEMÁTICA. 1 - A jurisprudência atual na Sexta Turma é de que a entidade de previdência privada não tem responsabilidade solidária pela recomposição da reserva matemática, a qual é de responsabilidade da empresa patrocinadora (no caso, a empregadora da reclamante). 2 - Quanto à formação da fonte de custeio, consta na decisão recorrida que não houve condenação da FUNCEF.3 - Esta Turma, no julgamento do RR-3137-22.2011.5.12.0009, em voto da lavra do Exmo. Sr. Ministro Aloysio Corrêa da Veiga, (publicado em DEJT 12/2/2016), concluiu que a responsabilidade pela recomposição da reserva matemática, deve ser atribuída unicamente à patrocinadora que deu causa a não incidência do custeio no salário de contribuição à época própria e, consequentemente, inviabilizou o investimento, em tempo oportuno, da diferença desses recursos, pela não consideração de parcelas, agora reconhecidas como de natureza salarial. 4 - Recurso de revista de que se conhece e a que se dá provimento.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade dos recursos.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário interposto pela Fundação dos Economiários Federais – FUNCEF.
+    4. Publiquem.
+Brasília, 10 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
