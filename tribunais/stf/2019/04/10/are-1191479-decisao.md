@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 18ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação – Mandado de Segurança – Arrematação - Imóvel adquirido em hasta pública – Direito assegurado ao arrematante de receber o imóvel isento de tributos lançados anteriormente à arrematação – Exceção à regra que se dá somente no caso de expressa menção no edital quanto à responsabilidade do arrematante pelos débitos tributários – Não é suficiente a expressão genérica de que há débitos de IPTU.
+    O termo a quo da responsabilidade é a data da arrematação - Sentença que responsabilizou os arrematantes a partir da data da expedição da carta de arrematação Impossibilidade - Auto de arrematação que gera efeitos possessórios, independentemente de registro no Cartório Imobiliário - Inteligência do art. 694, do CPC – Tributos devidos antes de tal marco são de responsabilidade do antigo proprietário Inteligência do parágrafo único do art. 130, do CTN Sentença reformada em reexame necessário - Recurso parcialmente provido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. Sustenta que a responsabilidade pela quitação do IPTU incidente sobre o imóvel adquirido em hasta pública tem início a partir do registro da Carta de Arrematação.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...]
+    Com efeito, deixou o recorrente de indicar qualquer dispositivo constitucional porventura violado. Em face da deficiente fundamentação, impõe-se, neste aspecto, a aplicação da Súmula 284 do Supremo Tribunal Federal. Nesse sentido: ARE-AgR 664.727/SP, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 25/4/2012; ARE 842710/DF, Rel. Min. GILMAR MENDES, DJE de 27/11/2015.
+    Inadmito, pois, o recurso extraordinário com fundamento no art. 1.030, inciso V, do Código de Processo Civil.”
+    A pretensão recursal não merece prosperar. A parte recorrente não indicou o dispositivo constitucional violado pelo acórdão recorrido, limitando-se a manifestar sua irresignação contra o julgado. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. Confiram-se os julgados:
+          “Agravo regimental no recurso extraordinário. Não indicação dos dispositivos constitucionais violados. Incidência da Súmula nº 284 desta Corte. Precedentes. 1. O recorrente não indicou, nas suas razões recursais, os dispositivos constitucionais que, porventura, teriam sido violados pelo acórdão recorrido. Incidência da Súmula nº 284 do Supremo Tribunal Federal. 2. Agravo regimental não provido.” (RE 590.336, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. 1. RECURSO EXTRAORDINÁRIO NO QUAL NÃO HÁ A INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS TIDOS POR OFENDIDOS: DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. 2. REMESSA NECESSÁRIA: CÓDIGO DE PROCESSO CIVIL. QUESTÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (AI 705.593-AgR, Relª. Minª. Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que é incabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 10 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
