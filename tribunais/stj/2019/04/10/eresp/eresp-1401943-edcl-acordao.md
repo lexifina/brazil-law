@@ -1,0 +1,44 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ARESTOS CONFRONTADOS. AUSÊNCIA DE SIMILITUDE FÁTICA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), situações inexistentes na hipótese.
+2. "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe de 29/8/2016).
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Segunda Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi e Luis Felipe Salomão votaram com o Sr. Ministro Relator. Ausentes, justificadamente, os Srs. Ministros Paulo de Tarso Sanseverino e Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos de declaração opostos por [NOME] contra acórdão que negou provimento ao agravo interno, assim ementado:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ARESTO EMBARGADO. MÉRITO DO RECURSO ESPECIAL NÃO APRECIADO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSENSO CIRCUNSCRITO À APLICAÇÃO DE REGRA TÉCNICA DE CONHECIMENTO. INADMISSIBILIDADE. AGRAVO INTERNO. IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. OMISSÃO. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. Decisão agravada que inadmite os embargos de divergência pois não são cabíveis quando o dissenso se restringe à aplicação de regra técnica de conhecimento do recurso.
+2. Petição do agravo interno que se resume a reiterar as razões já expostas na inicial dos embargos de divergência, sem impugnar o único fundamento de sua inadmissão.
+3. A ausência de impugnação dos fundamentos da decisão agravada atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+4. Obiter dictum, constata-se que a decisão agravada, corretamente, inadmitiu os embargos de divergência, incabíveis quando o dissenso resume-se à pretensão de aplicação de regra técnica de conhecimento.
+5. Agravo interno não conhecido" (nas fls. 803/804).
+A parte embargante sustenta que o acórdão embargado é omisso quanto ao pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC de 2015, pois "só no âmbito desta Colenda Casa de Justiça a parte ré / embargada já interpôs DOIS recursos de agravo, sem contar com o infundado embargos de divergência" (na fl. 815).
+Requer o acolhimento dos embargos de declaração, bem como, "se entender cabível, que sejam arbitrados Honorários Recursais" (na fl. 816).
+A parte embargada apresentou impugnação (nas fls. 820/824).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador, de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022), situações inexistentes na hipótese.
+Com efeito, é certo que, formalmente, o acórdão embargado é omisso quanto ao pedido de que seja imposta ao embargado a multa prevista no § 4º do art. 1.021 do CPC de 2015, assim redigido:
+§ 4o Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+Todavia, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada, que não refugiu da normalidade dos casos julgados sob esta relatoria, com diversos recursos sendo aviados, de parte a parte, o que também justifica a não fixação de honorários advocatícios em sede de embargos de divergência. Confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 29/08/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO QUE FOI DESPROVIDO À UNANIMIDADE. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA.
+1. Os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada (CPC/2015, art. 1.022).
+2. Conforme entendimento da Segunda Seção do Superior Tribunal de Justiça, "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe 29/8/2016).
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no REsp 1.668.422/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 29/03/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constata o vício alegado pela parte embargante, pois não foi apresentada impugnação com pedido de aplicação de multa.
+3. "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 1.338.849/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/03/2019, DJe de 1º/04/2019)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
