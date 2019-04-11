@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. CONDENAÇÃO ANTERIOR. PERÍODO DEPURADOR. TRANSCURSO. MAUS ANTECEDENTES. CONFIGURAÇÃO. POSSIBILIDADE.
+1. As condenações anteriores ao prazo depurador de 5 anos podem constituir motivação idônea para a exasperação da pena-base a título de maus antecedentes, apesar do fato de que não podem ser consideradas como reincidência. Precedentes.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de minha lavra que denegou a ordem pelos fundamentos sintetizados na seguinte ementa (fl. 267):
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERÍODO DEPURADOR. MAUS ANTECEDENTES. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Sustenta o agravante que, no julgamento do HC n. 119.200/PR na data de 11/2/2014, da relatoria do Ministro Dias Toffoli, a Primeira Turma do STF, entendeu que condenações extintas há mais de cinco anos submetem-se à depuração prevista no art. 64, I, do Código Penal, descaracterizando maus antecedentes. Entendeu-se que, se o paciente não pode ser considerado reincidente, tampouco poderão ser caracterizados maus antecedentes (fl. 275).
+Requer, assim, o provimento do agravo regimental para que sejam afastados os maus antecedentes.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O agravo não merece prosperar, uma vez que é pacífico, nesta Corte Superior, o entendimento segundo o qual as condenações anteriores ao prazo depurador de 5 anos podem constituir motivação idônea para a exasperação da pena-base a título de maus antecedentes, apesar do fato de que não podem ser consideradas como reincidência.
+Em reforço à jurisprudência já colacionada no decisum, confiram-se os seguintes precedentes das Turmas que compõem a Terceira Seção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. PERÍODO DEPURADOR. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora o Supremo Tribunal Federal ainda não haja decidido o mérito do RE n. 593.818 RG/SC - que, em repercussão geral já reconhecida (DJe 3/4/2009), decidirá se existe ou não um prazo limite para se sopesar uma condenação anterior como maus antecedentes -, certo é que, por ora, este Superior Tribunal possui o entendimento consolidado de que, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser sopesada a título de maus antecedentes. Precedentes. 2. Diante da existência de precedentes em ambos os sentidos e tendo em vista a ausência de definição da matéria pelo Plenário do Supremo Tribunal Federal, não há como qualificar de abusiva ou de ilegal a decisão que opta por uma das duas correntes.
+3. Sendo o agravante possuidor de maus antecedentes, não há como ser beneficiado com a minorante prevista no § 4º do art. 33 da Lei de Drogas.
+4. Agravo regimental não provido (AgRg no HC n. 413.652/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/11/2017)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. CONDENAÇÃO ALCANÇADA PELO TEMPO DEPURADOR DE 5 ANOS. FUNDAMENTO VÁLIDO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU PORTADOR DE MAUS ANTECEDENTES. INAPLICABILIDADE.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que as condenações atingidas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração dos maus antecedentes, o que impede o reconhecimento da causa de diminuição de pena prevista no art. 33,§ 4º, da Lei n. 11.343/2006.
+2. A condenação criminal do recorrente, cujo cumprimento ou extinção da pena ocorreu há mais de 5 anos, pode ser utilizada para caracterizar maus antecedentes para fins de exasperação da pena-base. Nesse contexto, possuindo o acusado maus antecedentes, justificado está o não reconhecimento da figura do tráfico privilegiado, uma vez que evidencia a sua dedicação às atividades ilícitas (AgRg no AREsp n. 1.404.783/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/2/2019)
+Ante o exposto, nego provimento ao agravo regimental.
