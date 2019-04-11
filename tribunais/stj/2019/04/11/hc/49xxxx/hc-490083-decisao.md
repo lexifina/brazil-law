@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, assim ementado (fl. 23):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. AUTORIA E MATERIALIDADE COMPROVADAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. REPRIMENDA. DECOTE DA PENA DE MULTA. INVIABILIDADE. IMPOSIÇÃO LEGAL VINCULATIVA. NEGAR PROVIMENTO RECURSO. - Comprovadas a materialidade e a autoria delitiva, consubstanciadas na confissão extrajudicial do réu e no depoimento do policial que participou da abordagem, bem como na apreensão de considerável quantidade de drogas fracionadas, torna-se inviável o acolhimento do pleito absolutório, já que presentes provas concretas da destinação mercantil que seria dada aos entorpecentes. - Não há discricionariedade por parte do réu quanto ao cumprimento da pena de multa imposta, já que esta deriva de imposição legal vinculativa, devendo, assim como a reprimenda corporal, ser integralmente cumprida, independente da alegada hipossuficiência financeira do apelante.
+Consta dos autos que o paciente foi condenado, em sentença confirmada pelo 2º grau, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+No presente writ, a defesa sustenta, em suma, ilegalidade na dosimetria da pena, em razão do reconhecimento da reincidência pela condenação anterior por prática do delito previsto no art. 28 da Lei nº 11.343/2006, o que ensejou ainda o afastamento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+Requer, liminarmente, a expedição do alvará de soltura em favor do paciente, e no mérito, o afastamento da reincidência, o reconhecimento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006, em grau máximo, e, consequentemente, a fixação de regime mais brando e a substituição da pena privativa de liberdade por restritivas de direitos
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal ofertou parecer, às fls. 57/61, pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+De início, constato que as matérias suscitadas, relativas à ilegalidade na dosimetria da pena, com o afastamento da condição de reincidente e aplicação da minorante do tráfico privilegiado, não foram analisadas pelo Tribunal de origem, tal como bem observado pelo Parquet.
+Ao que tudo indica, conforme extraído do acórdão recorrido, a Defesa levou à Corte de origem, no recurso de apelação criminal, apenas as teses relacionadas à absolvição do réu por insuficiência de prova e ao decote da pena de multa, senão vejamos (fl. 24):
+A Defesa do apelante, em suas razões, pretende a sua absolvição em razão da ausência de provas acerca da mercancia. Alternativamente, roga pelo decote da pena de multa.
+Dessa forma, torna-se inviável a análise da matéria diretamente por esta Corte superior, porquanto o tema não foi debatido pelo Tribunal estadual, sob pena de incorrer em indevida supressão de instâncias. Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. FEMINICÍDIO. REQUISITOS AUTORIZADORES. MEDIDAS ALTERNATIVAS. TEMAS NÃO APRECIADOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA JULGAMENTO PELO TRIBUNAL DE JÚRI. NÃO CONFIGURAÇÃO. SÚMULA N. 64/STJ. HABEAS CORPUS DENEGADO.
+1. Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Na espécie, não se verifica ilegalidade, pois, após prolatada a sentença de pronúncia, a defesa interpôs recurso em sentido estrito, que, além de suspender o julgamento do Tribunal do Júri nos temos do art. 584, § 2º do CPP, seguiu a sua marcha dentro da normalidade, bem como houve o manejo de recurso especial e agravo pela defesa, e, retomada a ação penal, a sessão do Tribunal do Júri, designada para 15/12/2017 foi cancelada em razão de diligência requerida pela defesa, aguardando os autos, atualmente, a sua realização, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa (Súmula 64).
+4. Habeas corpus denegado.
+(HC 446.382/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/08/2018, DJe 27/08/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
