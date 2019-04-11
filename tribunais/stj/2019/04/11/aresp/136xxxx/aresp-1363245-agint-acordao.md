@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FINANCIAMENTO HABITACIONAL. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. AGRAVO NÃO PROVIDO.
+1. No recurso especial, a parte sustentou cerceamento de defesa, sob a alegação de necessidade de realização de prova pericial, apontando ofensa aos arts. 457-B, § 3º, do CPC/73 e 6º, VIII, do CDC, os quais não foram discutidos no acórdão recorrido, não havendo prequestionamento, nem mesmo implícito, do conteúdo normativo desses dispositivos legais.
+2. O prequestionamento pressupõe que o tribunal local tenha decidido a causa à luz da legislação federal indicada e exercido juízo de valor sobre os dispositivos infraconstitucionais apontados - o que, no caso, não ocorreu.
+3. O Tribunal de origem indeferiu a prova requerida pela parte sob o fundamento de que "não foi apontada nenhuma irregularidade no contrato, para que fosse deferida a realização da perícia, apenas sustentou dificuldades financeiras devido ao seu desemprego". Esse fundamento, contudo, suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, fazendo incidir, na hipótese, o óbice da Súmula 283/STF.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O Exmo. Sr. MINISTRO RAUL ARAÚJO - Relator: Trata-se de agravo interno, interposto por [NOME], contra decisão que não conheceu de seu recurso especial, por deficiência na fundamentação recursal, falta de prequestionamento, necessidade de apreciação de matéria fática e ausência de demonstração de divergência jurisprudencial.
+A parte agravante alega não ser o caso de reexame de prova. Sustenta, em síntese: a) cerceamento de defesa em razão do indeferimento da prova pericial; b) ocorrência de prequestionamento implícito; e c) demonstração de divergência jurisprudencial.
+Sem impugnação da parte agravada (fl. 371).
+É o relatório.
+VOTO
+O Exmo. Sr. MINISTRO RAUL ARAÚJO - Relator: A parte agravante não apresentou argumentação capaz de afastar a motivação da decisão agravada.
+No recurso especial, sustentou cerceamento de defesa, sob a alegação de necessidade de realização de prova pericial, apontando ofensa aos arts. 5º, LIV e LV, da CF (matéria própria de recurso extraordinário) e aos arts. 457-B, § 3º, do CPC/73 e 6º, VIII, do CDC, os quais não foram discutidos no acórdão recorrido, não havendo prequestionamento, nem mesmo implícito, do conteúdo normativo desses dispositivos legais.
+A propósito, "para que se configure prequestionamento implícito, é necessário que o tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto, o que não ocorreu.." (EDcl no AgInt no AREsp 970.077/PI, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 30.10.2017).
+Além disso, a recorrente afirmou que "a perícia contábil se faz necessária para apurar o alegado desequilíbrio da relação contratual decorrente da abusividade no reajuste das prestações do financiamento e o alegado anatocismo" (fl. 278).
+Essa argumentação não é capaz de afastar a motivação do acórdão recorrido, segundo o qual "não merece prosperar o pedido de provas, tendo em vista que não foi apontada nenhuma irregularidade no contrato, para que fosse deferida a realização da perícia, apenas sustentou dificuldades financeiras devido ao seu desemprego" (fl. 240). A deficiência na fundamentação recursal atrai a incidência da Súmula 284/STF.
+Registre-se, ainda, que a livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro. Vale ressaltar que, "como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento" (AgRg no AREsp 121.314/PI, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 21.5.2013)
+Por fim, não foi comprovado o dissídio jurisprudencial. Para a caracterização de tal divergência, devem ser expostas as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os julgados em comparação e a existência de soluções jurídicas díspares. Na hipótese, isso não ocorreu. Além disso, "a divergência entre julgados do mesmo tribunal não enseja recurso especial" (Súmula 13/STJ).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
