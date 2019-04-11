@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pela FAZENDA NACIONAL, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 112):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. SIMPLES NACIONAL. LEI COMPLEMENTAR Nº 123, DE 2006. VEDAÇÃO POR PENDÊNCIA JUNTO AO ENTE MUNICIPAL. AUSÊNCIA DE ALVARÁ DE LOCALIZAÇÃO E FUNCIONAMENTO.
+1. A exigência prevista no art. 17, XVI, da LC 123/06 não afronta os princípios da razoabilidade, proporcionalidade ou igualdade, apenas assegurando o direito de inclusão no Simples Nacional às empresas que preencham os critérios exigidos por lei.
+2. A falta de alvará de funcionamento concedido por município não é óbice ao ingresso da empresa no Simples Nacional, uma vez que a condição estabelecida pelo inciso XVI do art. 17 da LC 123/06 se restringe ao cadastro fiscal.
+Opostos embargos declaratórios, foram rejeitados (fls. 138/142).
+A parte recorrente aponta violação aos arts. 373, 374 e 1022 do CPC/15, 2º, 16, §§5º e 6º, 17, V e XVI, 28, parágrafo único, da LC 123/06. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; (II) a irregularidade cadastral, de acordo com as regras ditadas pelo Comitê Gestor, é causa de vedação da empresa ao ingresso no SIMPLES.
+Sem contrarrazões fl. 161.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa aos arts. 373 e 374 do CPC/15, porquanto remanesce ausente o indispensável prequestionamento.
+Quanto ao mais, nas razões de recurso especial, a despeito de apontar artigos da LC 123/06 como malferidos, a parte recorrente fundamenta suas razões na letra dos arts. 16, §§ 5º e 6º, 21- A e 28 do Comitê Gestor do Simples Nacional.
+Nesse panorama, ressai nítido que o apelo raro, nos moldes em que apresentado, não ultrapassa a barreira de admissibilidade recursal. Isso porque a eventual violação da lei federal, no caso, é reflexa, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação do disposto no Comitê Gestor do Simples Nacional, providência vedada no âmbito do recurso especial, uma vez que tal regramento não se subsume ao conceito de lei federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REGIME ESPECIAL DE CRÉDITO PRESUMIDO DE PIS E COFINS. ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. EFEITOS RETROATIVOS DA ADE DE EXCLUSÃO. ALEGADA VIOLAÇÃO DOS ARTS. 3º E 5º DA LEI 10.147/00. NECESSIDADE DE APRECIAÇÃO DAS INSTRUÇÕES NORMATIVAS 464/04 E 247/02, QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL. DESCABIMENTO.
+1. É deficiente a fundamentação do Recurso Especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplicação, por analogia, da Súmula 284/STF.
+2. A eventual violação da lei federal, no caso, é reflexa, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação das Instruções Normativas 464/04 e 247/02 da RFB, providência vedada em Recurso Especial, visto que tais regramentos não se subsumem ao conceito de lei federal.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1.488.535/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/4/2015, DJe 21/5/2015)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
