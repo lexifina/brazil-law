@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região no Mandado de Segurança n. 0000194-48.2018.4.03.0000.
+Consta dos autos que o Juízo Federal da 5ª Vara Federal de Campo Grande - MS indeferiu o pedido de expedição de certidão de antecedentes criminais do investigado, nos termos em que postulado pelo Parquet Federal, por entender que é ônus do órgão ministerial trazê-la aos autos.
+Irresignado, o Ministério Público Federal impetrou mandado de segurança, cuja ordem foi denegada em acórdão assim ementado (e-STJ fl. 56):
+PENAL. PROCESSUAL PENAL. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. CONSTATAÇÃO DE PLANO. NECESSIDADE. REQUISIÇÃO DE ANTECEDENTES. DIREITO LÍQUIDO E CERTO.
+1. O mandado de segurança pressupõe que o direito invocado seja líquido e certo. A segurança somente será concedida quando comprovado de plano o direito líquido e certo, não se admitindo dilação probatória. Precedente do Superior Tribunal de Justiça (STJ, EDc1 no RMS n. 24137 -RS, Rel. Min. Denise Arruda, j. 06.08.09).
+2. Precedentes jurisprudenciais resguardam o livre exercício pelo Ministério Público de sua prerrogativa de requisitar documentos, o que sinaliza, ao mesmo tempo, para a desnecessidade de intervenção do Poder Judiciário e para a inexistência de lesão a direito líquido e certo na hipótese de não se abalançar o órgão jurisdicional a promover por ele mesmo, a requisição (STJ, ROMS n. 37223, Rel. Min. Ribeiro Dantas, j. 15.03.16; STJ, AROMS n. 372274, Rel. Min. Gurgel de Faria, j. 04.12.14; STJ, AROMS n. 37205, Rel. Min. Sebastião Reis Júnior, j. 04.09.14).
+3. Ordem de mandado de segurança denegada.
+Opostos embargos de declaração, esses foram parcialmente acolhidos, sem efeitos infringentes, nos termos da seguinte ementa (e-STJ, fl. 69):
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. MANDADO DE SEGURANÇA. REQUISIÇÃO DE ANTECEDENTES. DIREITO LÍQUIDO E CERTO. NECESSIDADE. CPP. ART. 748. RESTRIÇÃO. OMISSÃO. PARCIAL PROVIMENTO.
+1. Precedentes jurisprudenciais resguardam o livre exercício pelo Ministério Público de sua prerrogativa de requisitar documentos, o que sinaliza, ao mesmo tempo, para a desnecessidade de intervenção do Poder Judiciário e para a inexistência de lesão a direito líquido e certo na hipótese de não se abalançar o órgão jurisdicional a promover por ele mesmo, a requisição (STJ, ROMS n. 37223, Rel. Min. Ribeiro Dantas, j. 15.03.16; STJ, AROMS n. 372274, Rel. Min. Gurgel de Faria, j. 04.12.14; STJ, AROMS n. 37205, Rel. Min. Sebastião Reis Júnior, j. 04.09.14).
+2. Acerca da necessidade da requisição de documentos em conformidade com o disposto no art. 748 do Código de Processo Penal, o Superior Tribunal de Justiça se manifestou neste sentido: "A restrição contida no art. 748 do CPP foi superada por leis posteriormente editadas que deram ao Parquet acesso irrestrito a qualquer certidão ou registro de antecedentes criminais, impondo-se-lhe apenas a necessária observância do sigilo legal" (STJ, AROMS n. 55946, Rel. Reynaldo Soares da Fonseca, j. 06.03.18).
+3. Embargos de declaração parcialmente providos.
+No presente recurso ordinário, o recorrente sustenta que a solicitação requerida não é de interesse exclusivo do Ministério Público mas também do Juiz da causa e, principalmente, do acusado.
+Afirma que as certidões solicitadas têm por objetivo a análise de possíveis benefícios para o acusado, dentre os quais a transação penal e a suspensão condicional do processo.
+Argumenta que a requisição direta das referidas certidões às autoridades administrativas não possui a mesma amplitude da formulada pela autoridade judiciária, pois os possíveis dados sigilosos nelas contidos só podem ser fornecidos por meio de requerimento judicial.
+Nesse sentido, aduz que as certidões pleiteadas apenas poderão ser fornecidas de maneira completa quando requisitadas pela autoridade judiciária.
+Requer o provimento do recurso a fim de "ser reformado o v. acórdão ora impugnado e, por consequência, seja definitivamente concedida a ordem solicitada" (e-STJ, fl. 86).
+Admitiu-se o recurso na origem (e-STJ fl. 91).
+Não foram apresentadas as contrarrazões (e-STJ fl. 94).
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso ordinário (e-STJ fls. 102-109).
+É o relatório.
+Decido.
+A insurgência não merece acolhida.
+No tocante ao pedido de requisição de certidão de antecedentes criminais formulada perante o Magistrado singular, o Tribunal-Coator, ao julgar o mandamus impetrado na origem, expôs que (e-STJ, fl. 54):
+Requisição de antecedentes. Direito líquido e certo. Precedentes jurisprudenciais resguardam o livre exercício pelo Ministério Público de sua prerrogativa de requisitar documentos, o que sinaliza, ao mesmo tempo, para a desnecessidade de intervenção do Poder Judiciário e para a inexistência de lesão a direito líquido e certo na hipótese de não se abalançar o órgão jurisdicional a promover por ele mesmo, a requisição (STJ, ROMS n. 37223, Rel. Min. Ribeiro Dantas, j. 15.03.16; STJ, AROMS n. 372274, Rel. Min. Gurgel de Faria, j. 04.12.14; STJ, AROMS n. 37205, Rel. Min. Sebastião Reis Júnior, j. 04.09.14).
+Do caso dos autos. O impetrante não comprova seu direito líquido e certo de ter acesso às certidões de antecedentes criminais dos réus mediante ordem judicial. Argumenta tão somente que faz parte do impulso oficial promover a juntada das certidões de antecedentes criminais, dado serem imprescindíveis para a correta aplicação da reprimenda estatal.
+Considerando a prerrogativa ministerial de requisitar documentos e a falta de elementos acerca da necessidade da intervenção da autoridade coatora para a obtenção das certidões criminais, não se sustentam as alegações do impetrante.
+Como se vê, o acórdão impugnado encontra-se em sintonia com a jurisprudência vigente neste Superior Tribunal de Justiça no sentido de que, embora as informações sigilosas constantes na certidão de antecedentes criminais de acusado não possam ser fornecidas indistintamente, a regra é excepcionada quando a requisição advier de autoridades públicas, dentre as quais o Ministério Público.
+Portanto, segundo esse entendimento jurisprudencial, o Ministério Público, como órgão responsável pela persecução penal, pode requisitar diretamente as informações necessárias acerca dos antecedentes criminais de investigados, não cabendo ao Poder Judiciário tal incumbência, exceto quando ficar demonstrada a real impossibilidade da prática do ato ou a injustificada negativa da autoridade judicial.
+A propósito, confiram-se os seguintes precedentes:
+CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CERTIDÃO DE ANTECEDENTES CRIMINAIS. INDEFERIMENTO PELO JUIZ. POSSIBILIDADE DE REQUISIÇÃO PELO MINISTÉRIO PÚBLICO. INCAPACIDADE DE REALIZAR A DILIGÊNCIA NÃO DEMONSTRADA PELO ÓRGÃO ACUSATÓRIO. RECURSO NÃO PROVIDO.
+1. O Ministério Público é titular do poder de requisição de diligências investigatórias necessárias ao cumprimento do seu papel institucional (arts. 129, VIII, da Constituição Federal; 7º, II, da Lei Complementar n. 75/1993; e 47 do Código de Processo Penal).
+2. Não haverá impedimento à solicitação de tais diligências ao Judiciário, uma vez demonstrada sua incapacidade em realizar, por meios próprios, determinada providência. Precedentes.
+3. Na espécie dos autos, a diligência consistia na requisição de certidão de antecedentes criminais. Entretanto, o Parquet não demonstrou a incapacidade de praticar o ato.
+4. Recurso ordinário em mandado de segurança a que se nega provimento.
+(RMS 37.223/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/03/2016, DJe de 28/03/2016; sem grifos no original.)
+AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA A QUE SE NEGOU SEGUIMENTO. REQUISIÇÃO DE DILIGÊNCIAS NEGADA PELO JUIZ. JUNTADA DE CERTIDÕES DE ANTECEDENTES CRIMINAIS. POSSIBILIDADE DE OBTENÇÃO DAS INFORMAÇÕES PELO PRÓPRIO MINISTÉRIO PÚBLICO. DESNECESSIDADE DE INTERVENÇÃO JUDICIAL. PRECEDENTES. INEXISTÊNCIA DE VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO.
+1. É assente na jurisprudência do Superior Tribunal de Justiça que o requerimento de diligências pelo Parquet ao Poder Judiciário só se justifica quando comprovada a real necessidade da intervenção judicial.
+2. Hipótese em que não houve a demonstração da existência de efetivo obstáculo para a obtenção, pelo próprio órgão ministerial, das certidões de antecedentes criminais pretendidas.
+3. Agravo regimento improvido.
+(AgRg no RMS 37.205/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/09/2014, DJe de 23/09/2014; sem grifos no original.)
+In casu, inexiste direito líquido e certo da acusação à requisição judicial das certidões de antecedentes criminais, pois não ficou demonstrado qualquer impedimento ou negativa da autoridade policial em conceder ao Órgão Ministerial os mencionados documentos.
+Ante o exposto, com fundamento no artigo 34, XVIII, alínea b, do RISTJ e no verbete sumular 568/STJ, nega-se provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
