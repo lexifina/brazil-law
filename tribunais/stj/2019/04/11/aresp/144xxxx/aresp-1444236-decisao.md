@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. AFERIÇÃO DO TRÂNSITO EM JULGADO DO FEITO PRINCIPAL. IMPOSSIBILIDADE NA HIPÓTESE. SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO CORRETA DE ACORDO COM O ART. 85, § 3º, DO CPC/2015. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Cuida-se de agravo manejado por [NOME] em face de decisão que negou admissibilidade ao recurso especial em razão da incidência da Súmula nº 7 do STJ.
+O agravante insurge-se contra a decisão agravada alegando que não busca nenhuma reanálise probatória na hipótese, eis que estariam preenchidos e incontroversos os requisitos para a conversão da execução provisória de astreintes em definitiva, na forma dos arts. 534 e 537 do CPC, tidos por violados, eis que já teria ocorrido, antes do indeferimento da execução provisória, mas após o seu ingresso, o trânsito em julgado da sentença que se executa. Alega que o que não poderia ocorrer é o levantamento do depósito antes do trânsito em julgado ou antes da expedição do precatório. Aduz, outrossim, ofensa ao art. 85, § 3º, I e II, do CPC/2015 na medida em que foi fixado valor econômico antes da homologação dos cálculos da execução em julgamento extra petita e infringindo reformatio in pejus.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 211-215 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou adequadamente o fundamento da decisão agravada, razão pela qual conheço o agravo e passo ao exame do recurso especial.
+A irresignação não merece acolhida.
+Com efeito, não se depreende do acórdão recorrido manifestação conclusiva quanto a ocorrência ou não do trânsito em julgado apto a ensejar a conversão da execução provisória em execução definitiva, de modo que não é possível infirmar a acórdão recorrido no ponto, a não ser através de revolvimento de matéria fático-probatória inviável em sede de recurso especial em face do óbice da Súmula nº 7 do STJ.
+Quanto aos honorários advocatícios, correto o acórdão recorrido ao fixar os valores com base no art. 85, § 3º, utilizando o valor da execução provisória como base de cálculo, eis que o cumprimento, ainda que provisório da sentença, é passível de fixação de honorários advocatícios, na forma do caput do referido dispositivo, e a execução foi proposta com valor certo, não demandando liquidação.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
