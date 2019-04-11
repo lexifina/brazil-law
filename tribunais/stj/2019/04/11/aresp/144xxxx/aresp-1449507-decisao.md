@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por ANDREA OLIVEIRA MORI contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Eg. Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ Fl. 613):
+"APELAÇÃO. SFH. "CONTRATO DE GAVETA". ANUÊNCIA DA CEF. REVISÃO DAS CLÁUSULAS CONTRATUAIS. ILEGITIMIDADE.
+1. No presente recurso aplicar-se-á o CPC/73 2. A autora, cessionária do contrato de financiamento imobiliário, é parte ilegítima para discutir as cláusulas e condições pactuadas no contrato de origem, uma vez que a transferência do imóvel se deu por meio do denominado "contrato de gaveta", sem a indispensável anuência da CEF.
+3. A invocação do art. 22 da Lei nº 10.150/00, por sua vez, não altera a conclusão acima, já que a autora não está discutindo neste feito a liquidação e habilitação junto ao FCVS, mas sim a própria revisão das cláusulas do contrato de financiamento.
+4. Precedentes do STJ.
+5. Apelação desprovida."
+Nas razões do recurso especial, a parte agravante aponta violação do art. 20 da Lei 10.150/2000, bem como divergência jurisprudencial, sustentando, em síntese, que "a Lei nº 10.150/00 ao prever a possibilidade dos contratos de gaveta ser regularizados, abriu precedente para a jurisprudência se firmar no sentido de atribuir legitimidade ativa ao "gaveteiro" para discutir em ação própria a revisão dos contratos de mútuo" (e-STJ, fl. 621).
+É o relatório. Passo a decidir.
+A Corte Especial deste Superior Tribunal de Justiça, no julgamento do Tema n.º 520, ao qual está vinculado o Recurso Especial Repetitivo n.º 1.150.429/CE, consolidou o entendimento no sentido de que em se tratando de contrato de mútuo para aquisição de imóvel garantido pelo FCVS, avençado até 25/10/96 e transferido sem a intervenção da instituição financeira, o cessionário possui legitimidade para discutir e demandar em juízo questões pertinentes às obrigações assumidas e direitos adquiridos. Confira-se a íntegra da ementa desse julgado:
+"RECURSO ESPECIAL. REPETITIVO. RITO DO ART. 543-C DO CPC. SISTEMA FINANCEIRO DA HABITAÇÃO. LEGITIMIDADE ATIVA DO CESSIONÁRIO DE CONTRATO DE MÚTUO. LEI Nº 10.150/2000. REQUISITOS.
+1.Para efeitos do art. 543-C do CPC:
+1.1 Tratando-se de contrato de mútuo para aquisição de imóvel garantido pelo FCVS, avençado até 25/10/96 e transferido sem a interveniência da instituição financeira, o cessionário possui legitimidade para discutir e demandar em juízo questões pertinentes às obrigações assumidas e aos direitos adquiridos.
+1.2 Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato.
+1.3 No caso de cessão de direitos sobre imóvel financiado no âmbito do Sistema Financeiro da Habitação realizada após 25/10/1996, a anuência da instituição financeira mutuante é indispensável para que o cessionário adquira legitimidade ativa para requerer revisão das condições ajustadas, tanto para os contratos garantidos pelo FCVS como para aqueles sem referida cobertura.
+2. Aplicação ao caso concreto:
+2.1. Recurso especial parcialmente conhecido e nessa parte provido. Acórdão sujeito ao regime do artigo 543-C do Código de Processo Civil e da Resolução STJ nº 8/2008."
+(REsp 1.150.429/CE, CORTE ESPECIAL, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, julgado em 25/04/2013, DJe de 10/05/2013.)
+Como se vê, no recurso repetitivo acima transcrito, ficou consignado que no caso de cessão de direitos sobre imóvel financiado no âmbito do Sistema Financeiro da Habitação realizada após 25/10/1996, a anuência da instituição financeira mutuante é indispensável para que o cessionário adquira legitimidade ativa para requerer revisão das condições ajustadas, tanto para os contratos garantidos pelo FCVS como para aqueles sem referida cobertura.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, §11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de R$ 500,00 (quinhentos reais) para R$ 550,00 (quinhentos e cinquenta reais), ressalvados os efeitos da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
