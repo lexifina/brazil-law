@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA. REGIME INICIAL. PENA INFERIOR A 4 ANOS. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PRIMARIEDADE. ADEQUAÇÃO DO ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem concedida.
+DECISÃO
+Por meio deste writ, impetrado em nome de [NOME], a impetrante busca o restabelecimento da causa de diminuição da pena (art. 33, § 4º, da Lei n. 11.343/2006), afastado pelo Tribunal de Justiça de São Paulo no julgamento da Apelação n. 0000880-88.2017.8.26.0618, bem como seja fixado, por conseguinte, o regime inicial aberto para o cumprimento de pena, substituindo-se, ainda, se o caso, a pena privativa de liberdade por restritivas de direitos. Em liminar, requer a expedição de ordem liberatória, suspendendo-se a execução da condenação até o julgamento desta impetração.
+Para tanto, alega que o afastamento da causa redutora se deu com base em fundamento inadequado, forte na alegação de que assim recomendavam o comportamento social e a ousadia do réu, bem como a quantidade e natureza da droga apreendida (fl. 8 - 60,33 g de crack).
+Destaca que, por ocasião do julgamento dos apelos ajuizados pela acusação e defesa, a Corte paulista decretou a prisão preventiva do paciente sem a indicação de elementos concretos que justificassem tal medida. Acrescenta que foram opostos embargos de declaração ao acórdão da apelação, ainda pendentes de apreciação.
+Deferi medida liminar para garantir ao paciente o direito de permanecer em liberdade até o julgamento deste feito (fls. 337/339).
+Informações prestadas (fls. 347/348).
+Parecer do Ministério Público Federal opinando pela concessão da ordem de ofício, nos termos desta ementa (fl. 376):
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. PLEITO PARA A INCIDÊNCIA DO REDUTOR DO ART. 33, § 4º, DA LEI Nº 11.343/06. POSSIBILIDADE. CONDENAÇÃO RATIFICADA EM SEGUNDO GRAU COM A EXECUÇÃO IMEDIATA DA PENA. ORIENTAÇÃO DO STF A PARTIR DO JULGAMENTO DO HC Nº 126.292/SP. PRECEDENTES DO STJ EM HARMONIA COM A ESCORREITA DECISÃO DA SUPREMA CORTE. NECESSIDADE, CONTUDO, DE ESGOTAR A INSTÂNCIA ORDINÁRIA. PARECER PELA CONCESSÃO DA ORDEM EX OFFICIO, SUPERANDO QUALQUER PRELIMINAR DE NÃO CONHECIMENTO.
+É o relatório.
+Na hipótese, o paciente foi condenado pelo Juízo da 3ª Vara Criminal da comarca de Taubaté à pena de 2 anos, 2 meses e 20 dias de reclusão, em regime aberto, e 222 dias-multa por prática de delito tipificado no art. 33, caput, da Lei n. 11.343/06.
+Os recursos interpostos pela acusação e defesa foram parcialmente providos para reduzir a pena-base para o mínimo legal e afastar o redutor referente ao tráfico privilegiado, redimensionando a pena para 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, determinando ainda a prisão preventiva do réu. Confira-se a ementa do julgado (fl. 313):
+Art. 33, caput, da Lei n. 11.343/06 - Materialidade delitiva e autoria demonstradas. A forma como ocorreu a apreensão impede a desclassificação para a figura do art. 28 da Lei.
+Prova - Palavras de Servidores Públicos - Validade - Inexistência de motivos para incriminarem o réu injustamente.
+Pena-base fixada no mínimo legal. Na terceira fase, a quantidade e natureza da droga impedem a aplicação do redutor do par. 4º, do art. 33, da Lei de Drogas.
+O regime prisional é o fechado.
+Recurso da defesa parcialmente provido, provido o apelo ministerial.
+No que diz respeito à causa especial de redução da pena prevista na Lei de Drogas, a Corte estadual, ao afastá-la, manifestou-se nestes termos (fl. 318):
+ ..  tendo em vista a quantidade e natureza da droga (341 porções de crack), o comportamento social e a ousadia do réu, ele não faz jus à diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, apesar de primário e ostentar bons antecedentes.
+ ..
+Ocorre que, como bem ponderou o parecerista, a pena-base infligida no mínimo legal e considerada a quantidade relativamente pequena da droga apreendida (60,33g de crack), sem que aponte o Tribunal local qualquer circunstância concreta que tenha levado a reconhecer que o réu se dedicasse a atividades criminosas, implicam mereça guarida o pleito defensivo quanto ao redutor de pena do artigo 33, §4º, da Lei nº 11.343/06 (fl. 378).
+De fato, observa-se da sentença de primeiro grau, ao fixar a fração de redução do tráfico privilegiado em 2/3, que é o réu primário, possui bons antecedentes, não se dedica às atividades criminosas, bem como não integra organização criminosa, fato que reclama a aplicação da causa de diminuição de pena, como direito subjetivo do réu (fl. 177).
+Com efeito, a quantidade de droga apreendida não é suficiente para demonstrar a dedicação do réu à atividade criminosa, motivo pelo qual o afastamento da causa especial de redução da pena (art. 33, § 4º, da Lei n. 11.343/2006) configura constrangimento ilegal, devendo, portanto, no caso, ser aplicado o redutor na fração máxima (2/3), reduzindo-se a pena do paciente para 1 ano e 8 meses de reclusão.
+Outrossim, em se tratando de paciente primário que teve valoradas como favoráveis todas as circunstâncias judiciais, condenado pela prática de crime cometido sem violência ou grave ameaça à pessoa (tráfico), revela-se adequada a imposição do regime inicial aberto, bem como a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Pelo exposto, acolho o parecer ministerial e concedo a ordem para, aplicando o § 4º do art. 33 da Lei n. 11.343/2006, reduzir a pena do paciente para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa, bem como modificar o regime inicial de cumprimento para o aberto, devendo o Juízo competente proceder à substituição da pena privativa de liberdade por restritivas de direitos, consoante o disposto no art. 44 do Código Penal.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
