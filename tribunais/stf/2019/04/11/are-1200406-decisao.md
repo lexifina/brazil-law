@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REQUISITOS DA CDA. PREENCHIMENTO. AUSÊNCIA DE NULIDADE. MULTA E JUROS. TAXA SELIC. PROCESSO ADMINISTRATIVO.
+    1. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória, nos termos do enunciado sumular nº 393 do STJ.
+    2. A Certidão de Dívida Ativa goza da presunção de legitimidade (própria dos atos administrativos) e da presunção de liquidez e certeza (artigo 3º da Lei nº 6.830/80 e artigo 204 do CTN). Logo, cabe ao contribuinte produzir elementos capazes de infirmá-las.
+    3. A forma de cálculo dos juros e dos demais encargos, com a incidência de correção monetária, está indicada no campo fundamento legal, atendendo ao disposto no artigo 2º, § 5º, II e IV, da Lei nº 6.830/80, sendo que, presente no título executivo, é suficiente para viabilizar à executada o conhecimento da dívida.
+    4. A multa fixada em 20% não se configura confiscatória, sendo perfeitamente admissível em face do artigo 61, §1º e §2º, da Lei nº 9.430/96.
+    5. Aplicabilidade da taxa SELIC, a teor do estatuído no artigo 13 da Lei nº 9.065/95.
+    6. Agravo de instrumento improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5°, II, da CF. Sustenta que: (i) as Certidões de Dívida Ativa - CDA que embasam a execução são nulas, uma vez que constituídas sem a devida motivação; (ii) as CDAs não atendem aos requisitos da certeza, liquidez e exigibilidade.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No caso em tela, entendo que o recurso não merece seguimento. É que o inconformismo veiculado no recurso (nulidade das CDAs) é matéria eminentemente infraconstitucional. Portanto, a irresignação da parte constitui ofensa indireta e reflexa à Constituição Federal, inapta a autorizar o recurso extraordinário.
+    […]
+    Ante o exposto, não admito o recurso extraordinário.”
+    A pretensão recursal não merece prosperar. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    A alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “Com efeito, conforme fundamentado na decisão transcrita, não se vislumbra qualquer mácula capaz de invalidar os títulos executivos, sendo importante lembrar que a regularidade formal da certidão de dívida ativa visa a possibilitar ao devedor o exercício do direito da ampla defesa, o que, no caso em comento, é possível.”
+    Para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF. Confiram-se os seguinte julgados:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CDA. EXIGIBILIDADE. NULIDADE. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a exigibilidade de Certidão da Dívida Ativa. Incidência da Súmula 279/STF. 2. Agravo regimental a que se nega provimento.” (AI 801.622-AgR, sob a minha relatoria)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imposto sobre Propriedade Predial e Territorial Urbana (IPTU). Nulidade da CDA. Alíquota. Alegação de violação ao princípio do não confisco. Matéria local. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 4. Prescrição intercorrente. Ausência de prequestionamento. Súmulas 282 e 356 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 1.102.282-AgR, Rel. Min. Gilmar Mendes)
+     Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 11 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
