@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o writ na origem em acórdão assim ementado (fl. 152):
+HABEAS CORPUS - TRÁFICO DE ENTORPECENTES E RECEPTAÇÃO - PRISÃO PREVENTIVA - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR - INOCORRÊNCIA. Decisão suficientemente embasada na presença dos requisitos do artigo 312 Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva. ORDEM DENEGADA.
+O paciente teve sua prisão preventiva decretada em 20/11/2018, sendo denunciado pela prática dos delitos tipificados nos arts. 33, caput, da Lei 11.343/06 e 180 do Código Penal.
+A impetrante argumenta, em suma, negativa de autoria e ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares do art. 319 da mesma lei processual.
+A liminar foi indeferida.
+Manifestou-se o Ministério Público Federal pela denegação da ordem.
+Na origem, consoante as informações prestadas às fls. 183-201, em 26/3/2019, no processo n. 0000631-72.2018.8.26.0596, oriundo da 1ª Vara de Serrana/SP, designou-se audiência de instrução e julgamento para 2/5/2019.
+É o relatório.
+DECIDO.
+Destaco, de início, que no procedimento do habeas corpus não se permite a produção de provas, pois respectiva ação constitucional tem por objeto sanar ilegalidade verificada de plano, não sendo possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado de sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta do decreto preventivo (fl. 93):
+ ..  A conduta do(a) acusado(a) possui adequação típica à figura do 33, caput, da Lei. nº. 11.343/2006. A ordem pública é molestada no momento da prática de tal delito, porém, por questões de principiologia constitucional, plenamente justificada, a prisão cautelar ex lege há de ser expurgada de nosso sistema processual penal.
+Urge, desta feita, fundamentar todas as decisões judiciais, mormente às que constringem a liberdade dos indivíduos. O tráfico ilícito de entorpecentes nos moldes imputados ao indiciado é delito de gravidade social elevada, arrebata vidas do seio familiar, causa danos à saúde pública, afeta a psicologia de toda sociedade. É o consumo de psicotrópicos que corrompe o indivíduo socialmente são, aliciando-o para o cometimento de delitos contra o patrimônio, delitos domésticos, em evolução criminosa até culminar com crimes contra o bem constitucional vida.
+Ademais, constata-se que o denunciado evadiu-se do distrito da culpa, indicando a intenção de se furtar à aplicação da lei penal.
+Por sua vez, trata-se de crime doloso punido com pena privativa de liberdade máxima superior a quatro anos (art. 313,1), em que há fartos e veementes elementos, conforme já salientados, que indicam a necessidade da prisão preventiva, além de se revelarem inadequadas e insuficientes as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Em razão dos motivos expostos e estando presentes os requisitos do art. 312 do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de [NOME] [NOME] [NOME]. Expeça-se Mandado de Prisão. ..
+Como se vê, expôs o decreto prisional fundamentação idônea com esteio na fuga do réu, ora paciente, do distrito da culpa, visando, assim, a garantia da aplicação da lei penal.
+É pacífico o entendimento desta Corte que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014.
+Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
