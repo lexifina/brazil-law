@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONSELHOS PROFISSIONAIS. INFRAÇÃO ADMINISTRATIVA. AGRAVO INTERNO. APLICAÇÃO DO ENUNCIADO N. 568/STJ. INEXISTÊNCIA DE PREJUÍZO PARA AS PARTES. ALEGAÇÃO DE NULIDADE DO ACÓRDÃO OBJETO DO RECURSO ESPECIAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Na origem, trata-se de ação de anulatório de auto de infração aplicada pelo conselho profissional. Na sentença, julgou-se procedente o pedido para anular o auto de infração. No Tribunal a quo, a sentença foi mantida.
+II - Em relação à alegada contrariedade à Lei n. 4.769/65 e ao art. 1º da Lei n. 6.839/80, sem razão o recorrente na pretensão de reforma do aresto vergastado, visto que este se encontra em perfeita consonância com a jurisprudência desta Corte, no sentido de que as empresas cujas atividades não estão sujeitas à fiscalização do Conselho Regional de Administração não devem ser submetidas à fiscalização da referida autarquia, tampouco obrigadas a prestar informações ou sofrer sanção administrativa. Nesse sentido: REsp n. 1.346.104/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 7/4/2015, DJe 14/4/2015.; REsp n. 1.045.731/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 1º/10/2009, DJe 9/10/2009.
+III - Nesse passo, o dissídio jurisprudencial suscitado também não merece acolhida.
+IV - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu agravo interposto pelo Conselho Regional de Administração de São Paulo - CRA/SP contra decisão que inadmitiu seu recurso especial, com fundamento no art. 105, III, a e c, da Constituição da República, com o objetivo de reformar acórdão prolatado pelo Tribunal Regional Federal da 3ª Região, nos termos da seguinte ementa (fls. 214-215):
+ADMINISTRATIVO. CONSELHO REGIONAL DE ADMINISTRAÇÃO - CRA/SP. ATIVIDADE DE COMÉRCIO DE PRODUTOS QUÍMICOS PARA FINS INDUSTRIAIS, COSMÉTICOS. INEXIGIBILIDADE DE REGISTRO.
+1. O critério legal de obrigatoriedade de registro nos Conselhos Profissionais - art. 1º da Lei nº 6.839/80 - vincula-se à atividade básica da empresa ou pela natureza dos serviços prestados.
+2. No caso dos autos, verifica-se da 60ª alteração do contrato social acostado às fls. 27/41 que parte autora tem como objeto social "a) o comércio de produtos químicos para fins industriais, cosméticos, produtos auto-adesivos, artigos de beleza, produtos semelhantes e correlatos; b) a importação e exportação de tais produtos; c) a representação de outra empresas; d) a prestação de serviços de suporte, manutenção e assistência técnica para hardware e software, bem como a prestação de serviços de processamento de dados; e) a manipulação, embalagem, armazenagem, rotulagem, distribuição, comercialização, promoção, propaganda, importação e exportação, compra, venda, comercialização direta ou através de catálogos no atacado, por conta própria ou através de terceiros, de produtos para pele e cabelo, produtos de higiene, perfumes, cosméticos, fitas adesivas e produtos correlatos; f) fabricação por encomenda a terceiros de produtos químicos para fins industriais, cosméticos, produtos auto-adesivos, artigos de beleza, produtos semelhantes e correlatos, bem ainda de produtos para pele e cabelo, produtos de higiene, perfumes, cosméticos, fitas adesivas e produtos correlatos; e, g) participação em outras sociedades" (Cláusula 3ª, não guardando, portanto, qualquer relação com as atribuições próprias da atividade de administração, regulamentadas pela Lei nº 4.769/65.
+3. Apelação desprovida.
+Opostos embargos de declaração, foram eles rejeitados (fls. 244-252).
+Em suas razões recursais especiais, o CRA/SP aponta contrariedade à Lei n. 4.769/1965, bem assim ao art. 1º da Lei n. 6.839/1980, porquanto, em síntese, na condição de autarquia federal, é detentora do poder de polícia administrativa, sendo-lhe permitido exigir (solicitar) das empresas a apresentação dos documentos necessários à fiscalização do exercício da profissão de Administrador e da atividade de Técnico de Administração, ainda que a atividade fim da empregadora desses profissionais não esteja sujeita à fiscalização do Conselho Regional de Administração.
+Aponta, ainda, dissídio jurisprudencial entre o acórdão recorrido e julgados desta Corte e do TRF da 2ª e da 4ª Região relacionados à questão.
+Apresentadas contrarrazões às fls. 277-286, o recurso especial teve seguimento negado pelo Tribunal a quo (fls. 288-290), tendo sido interposto o presente agravo.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. "
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do Enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a esse ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Em relação à alegada contrariedade à Lei n. 4.769/65 e ao art. 1º da Lei n. 6.839/80, sem razão o recorrente na pretensão de reforma do aresto vergastado, visto que este se encontra em perfeita consonância com a jurisprudência desta Corte, no sentido de que as empresas cujas atividades não estão sujeitas à fiscalização do Conselho Regional de Administração não devem ser submetidas à fiscalização da referida autarquia, tampouco obrigadas a prestar informações ou sofrer sanção administrativa.
+A esse respeito, os seguintes julgados:
+RECURSO ESPECIAL. CONSELHO REGIONAL DE ADMINISTRAÇÃO. REQUISIÇÃO DE DOCUMENTOS NÃO ATENDIDA. IMPOSIÇÃO DE PENALIDADE. INVIABILIDADE. PODER DE POLÍCIA RESTRITIVO. DESCABIMENTO PARA SINDICAR ASSUNTOS NÃO PERTINENTES AO EXERCÍCIO PROFISSIONAL DOS ADMINISTRADORES INSCRITOS NO CRA. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Não há nos autos qualquer prova de irregularidade no exercício da profissão de Administrador, por parte dos funcionários da empresa, autuada de forma arbitrária, simplesmente por não responder a contento às solicitações do Conselho Regional de Administração, notadamente porque a empresa não é obrigada legalmente a prestar informações ao referido Conselho, sobre assuntos que não dizem respeito ao exercício profissional dos inscritos em seu quadro.
+2. Recurso Especial a que se nega provimento (REsp n. 1.346.104/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 7/4/2015, DJe 14/4/2015.)
+ADMINISTRATIVO. CONSELHO REGIONAL DE ADMINISTRAÇÃO. INEXISTÊNCIA DE EXERCÍCIO DA ATIVIDADE DE ADMINISTRADOR. EMPRESA NÃO REGISTRADA NO ÓRGÃO. NÃO-OBRIGATORIEDADE DE PRESTAR INFORMAÇÕES.
+1. O critério legal de obrigatoriedade de registro no Conselho profissional é determinado pela atividade básica da empresa ou pela natureza dos serviços prestados.
+2. O Tribunal de origem, ao analisar o objeto social descrito no estatuto da empresa recorrente, reconheceu expressamente que suas atividades - fabricação e comercialização de gases e outros produtos químicos - não estariam sujeitas a registro no CRA.
+3. Em face da ausência de previsão legal, inaplicável multa à recorrente sob o fundamento de que teria se recusado a prestar informações ao CRA.
+4. Recurso Especial provido (REsp n. 1.045.731/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 1º/10/2009, DJe 9/10/2009.)
+Nesse passo, o dissídio jurisprudencial suscitado também não merece acolhida.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
