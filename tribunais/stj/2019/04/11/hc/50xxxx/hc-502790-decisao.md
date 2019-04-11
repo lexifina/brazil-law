@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça de São Paulo que indeferiu o pedido liminar no writ de origem.
+Consta dos autos que o paciente foi denunciado como incurso no art. 155, caput, c.c. o art. 14, II, ambos do Código Penal (fl. 19).
+Sustenta a defesa a aplicação do princípio da insignificância, diante da atipicidade da conduta. Alega que O ora paciente está sendo processado pela suposta prática de tentativa de furto simples de dois desodorantes avaliados em R$ 16,28 (dezesseis reais e vinte e oito centavos) (fl. 6).
+Pugna, ao final, seja excepcionada a aplicação da Súmula 691/STF, a fim de que seja concedida em sede liminar e no mérito, absolvição por atipicidade da conduta, com fundamento no princípio da insignificância.
+É o relatório.
+DECIDO.
+Conforme relatado, busca a defesa, em sede liminar e no mérito, absolvição do paciente [NOME] DA [NOME] NASCIMENTO por atipicidade da conduta, com fundamento no princípio da insignificância.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, têm-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+Consoante relatado, o paciente está sendo processado pela prática do delito tipificado no art. 155, caput, c.c. o art. 14, II, ambos do Código Penal.
+Impetrou a defesa pedido de habeas corpus perante o Tribunal de origem postulando o reconhecimento da aplicação do princípio da insignificância.
+O Tribunal de origem, contudo, indeferiu o pedido de liminar em decisão assim fundamentada (fls. 224/226):
+Vistos.
+Cuida-se de pedido de habeas corpus impetrado por [NOME] a favor de [NOME], denunciado como incurso no art. 155, caput, c.c. o art. 14, II, ambos do Código Penal (fls. 08), contra ato do Juízo da 3ª Vara Criminal da Comarca de Guarulhos, que não acolheu o pedido de absolvição sumária e recebeu definitivamente a denúncia oferecida pelo Ministério Público, contra o paciente.
+Sustenta o impetrante, em síntese, que a conduta imputada ao paciente é manifestamente atípica, por aplicação do princípio da insignificância. Assevera que ele está sendo processado pela suposta prática de tentativa de furto simples de dois desodorantes avaliados em R$ 16,28 (dezesseis reais e vinte e oito centavos). Ressalta que todos os requisitos para o reconhecimento do princípio da insignificância estão presentes nos autos, ou seja, "a mínima ofensividade da conduta do paciente (crime de furto simples tentado), a nenhuma periculosidade social da ação (não houve violência ou grave ameaça à pessoa ou qualquer repercussão social significante), o reduzidíssimo grau de reprovabilidade do comportamento (o furto teria sido, supostamente, de dois desodorantes) e a inexpressividade da lesão jurídica provocada (objetos avaliados em R$ 16,28, cerca de 2% do salário-mínimo vigente e devolvidos à suposta vítima)" (fls. 04/05). Entende ser de rigor a absolvição sumária, nos termos do art. 397, III, do Código de Processo Penal, pois materialmente atípica a conduta imputada ao paciente, à luz do princípio da insignificância. Requer a concessão liminar da ordem para "que seja suspenso o andamento do feito, bem como a audiência designada, até o julgamento definitivo do writ, minorando-se as consequências deletérias do processo penal já acima expostas, e, também, a fim de se evitar atos processuais desnecessários, inclusive concedendo-se ao paciente o direito de aguardar em liberdade o julgamento do remédio heroico" (fls. 05).
+Indefiro a medida liminar requerida, uma vez que estão ausentes motivos peculiares, passíveis de pronto e seguro reconhecimento, de relevância tal que justifique sua concessão.
+Cumpre salientar que se trata de medida excepcional, possível apenas quando o constrangimento ilegal é manifesto e de imediata detecção por meio de cognição sumária, de maneira a autorizar a drástica providência ora postulada.
+A matéria, in casu, deverá ser apreciada detidamente por ocasião do julgamento do writ, após seu regular processamento.
+Solicitem-se, com urgência, informações ao Juízo da 3ª Vara Criminal da Comarca de Guarulhos (Processo de origem nº 0004005-19.2016.8.26.0224).
+Com a resposta, remetam-se os autos à Douta Procuradoria Geral de Justiça e, após, tornem conclusos.
+No caso, a pretensão de declaração da atipicidade da conduta, em razão da aplicação do princípio da insignificância, é questão passível de indeferimento do pedido de liminar, em habeas corpus, por demandar, inclusive, análise do próprio mérito da impetração, sobretudo no caso em tela, em que se verifica tratar-se de paciente reincidente, como consta de sua FAC à fls. 155/173, devendo, dessa forma, a matéria ser apreciada quando do julgamento do mérito do writ, como bem ressaltado pelo Tribunal de origem.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do presente writ implicaria inevitavelmente supressão de instância.
+Diante do exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
