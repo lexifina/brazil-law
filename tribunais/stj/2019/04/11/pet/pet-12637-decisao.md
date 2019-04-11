@@ -1,0 +1,14 @@
+EMENTA
+PETIÇÃO. PRETENSÃO. ATRIBUIÇÃO. EFEITO SUSPENSIVO A RECURSO ESPECIAL PENDENTE DE JUÍZO DE ADMISSIBILIDADE. COMPETÊNCIA DA PRESIDÊNCIA DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PECULIARIDADE QUE JUSTIFIQUE O CONHECIMENTO PER SALTUM. PEDIDO INDEFERIDO.
+DECISÃO
+Trata-se de petição protocolada por [NOME] e outra, na qual pleiteiam a concessão de efeito suspensivo a recurso especial interposto perante o Tribunal de Justiça de São Paulo e ainda não submetido ao juízo prévio de admissibilidade.
+Esclarecem que, no andamento da ação principal, requereram a suspensão do leilão do imóvel residencial que adquiriram em alienação fiduciária, mesmo adimplido substancialmente o valor do principal.
+Afirmam que tiveram cerceado do direito ao contraditório e ampla defesa diante da inobservância dos pedidos para produção de prova que deslindassem as inconsistências e abusividades da cobrança apontadas em inicial, mas tais pedidos foram avaliados de forma genérica pelas instâncias inferiores, resultando daí a probabilidade do direito, consubstanciada na possibilidade de purgação da mora.
+Destacam, ainda, a ausência de prejuízo ao recorrido, pois caracterizado o adimplemento substancial e também porque "as instituições bancárias, em todos contratos de financiamento, são obrigadas pela Resolução n 2.682, de 21/12/1999 do BACEN a realizar o PDD - Provisão para Devedores Duvidosos, que nada mais é do que uma reserva de capital constituída para cobrir eventuais inadimplências e que estão embutidas nos custos de juros de todas operações" (e-STJ, fl. 7).
+Por fim, ressaltam a reversibilidade da medida, pois além da garantia de juros legais decorrentes de ação judicial, em nada modifica a situação do bem, que continuará gravado em sua matrícula.
+Brevemente relatado, decido.
+Inicialmente, destaco que o inciso III do § 5º do artigo 1.029 do Código de Processo Civil de 2015 é expresso ao consignar ser da competência do Presidente do Tribunal de origem, ou de quem lhe faça as vezes, a competência para conceder efeito suspensivo a recurso especial "no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037"
+Não se olvida que antiga jurisprudência desta Corte Superior permite a concessão diretamente por esta Casa de efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem, quando efetivamente demonstrada, além dos requisitos próprios da tutela de urgência, situação de manifesta ilegalidade ou teratologia (cf. AgRg na MC 20.254/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/04/2013, DJe 23/04/2013).
+Todavia, na hipótese dos autos, não há sequer a alegação de situação de flagrante ilegalidade ou teratologia a ensejar o afastamento da regra de competência prevista no dispositivo citado.
+Com esses fundamentos, indefiro o pedido.
+Publique-se.
