@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VALDENIO DE [NOME] em face de decisão monocrática proferida por esta relatoria, às fls. 255-259 (e-STJ), que negou provimento ao recurso em habeas corpus.
+Nas razões destes aclaratórios, o embargante afirma que obteve a revogação da prisão preventiva, nos autos do HC 468.092/PB, razão pela qual seria a hipótese de extinção do presente feito, sem resolução de mérito.
+Explicita que, "ao resolver o mérito do recurso, improvendo-o, mesmo na existência de outro pronunciamento de mérito prévio concedendo o pedido veiculado, arrisca-se instaurar um certo desentendimento, na medida em que a juíza de piso pode decretar a prisão novamente por entender, erroneamente, que o Superior Tribunal de Justiça revogou a ordem de habeas corpus anteriormente concedida" (e-STJ, fl. 263).
+Requer, portanto, o acolhimento dos embargos declaratórios, "apenas com o fito de elucidar que este processo devia ser julgado extinto sem resolução de mérito, tendo em vista o pedido idêntico já julgado e atendido no HC 468.092/PB" (e-STJ, fl. 264).
+É o relatório.
+Decido.
+Inicialmente, frise-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição ou obscuridade, nos termos do art. 619 do Código de Processo Penal.
+Em consulta na base de dados processuais desta Corte, verifica-se que este recurso traz pedido idêntico ao deduzido no HC 468.092/PB e se insurge contra o mesmo acórdão. Naquele feito, a ordem fora concedida de ofício para substituir a prisão preventiva por medidas cautelares diversas, tendo transitado em julgado aos 04/12/2018.
+Noutro giro, a decisão embargada - proferida aos 21/03/2019 - negou provimento ao recurso em habeas corpus, por entender que a prisão preventiva estaria devidamente fundamentada, em decorrência da reiteração delitiva. O acórdão impugnado foi proferido no julgamento do HC 0804177-53.2018.8.15.0000, e a decisão de 1º grau, que decretou a prisão preventiva, foi proferida nos autos do processo n. 0000549-43.2018.815.0371 (2ª Vara da Comarca de Sousa - PB), em 07/05/2018.
+Cumpre consignar que o fato de a decisão embargada ter negado provimento ao recurso não implica em revogação da ordem de habeas corpus anteriormente concedida. Ademais, a revogação da prisão preventiva, nos autos do referido mandamus, denota a ausência de interesse recursal da parte embargante, não se constatando nenhum dos vícios previstos no art. 619 do CPP.
+Registre-se, por fim, que "o recurso integrativo é cabível apenas para que sejam sanadas eventuais contradições internas do julgado, não se prestando para que sejam invocados parâmetros externos para a caracterização do alegado vício." (AgRg no AREsp 539.479/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/03/2018, DJe 21/03/2018).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
