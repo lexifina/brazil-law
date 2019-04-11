@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] [NOME] [NOME] DE MELLO contra acórdão da 7ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000901-39.2017.8.26.0594).
+Extrai-se dos autos que o paciente foi preso preventivamente, denunciado e condenado, em primeiro grau de jurisdição, às penas de 4 (quatro) anos e 2 (dois) meses de reclusão, em regime inicialmente fechado, e ao pagamento de 416 (quatrocentos e dezesseis) dias-multa, no valor unitário mínimo, pela prática do crime tipificado no art. 33, § 4º, da Lei n. 11.343/2006. Na sentença, o Juízo negou-lhe o direito de recorrer em liberdade.
+Em grau de apelação, o Tribunal a quo negou provimento ao recurso da defesa, mantendo a sentença em seus termos, e determinou a expedição de mandado de prisão contra o réu assim que esgotados os recursos nas instâncias ordinárias. O acórdão recebeu a seguinte ementa (e-STJ fl. 9):
+APELAÇÃO CRIMINAL - Tráfico de drogas Materialidade e autoria comprovadas - Destinação ao tráfico demonstrada - Causa de diminuição de pena incorretamente fixada em razão da demonstração de dedicação às atividades criminosas - Inexistência de recurso ministerial que impede afastamento da minorante Art. 617 do CPP - Regime inicial fechado mantido - Recurso não provido.
+No presente writ, a defesa alega que o paciente é apenas usuário de drogas e dependente químico, e que a decretação de sua prisão é medida inadequada, desnecessária e desproporcional, já que é possuidor de condições subjetivas favoráveis, tais como primariedade, bons antecedentes e residência fixa. Sustenta, com isso, a existência de constrangimento ilegal diante da ausência dos requisitos legais do art. 312 do CPP, que seriam aptos a autorizar a prisão do paciente.
+Requer, diante do exposto, em liminar e no mérito, a concessão de liberdade provisória ao paciente, mediante imposição de medidas cautelares diversas da prisão, com a imediata expedição de alvará de soltura em seu favor.
+O pleito urgente foi indeferido (e-STJ fls. 40/48).
+Prestadas as informações (e-STJ fls. 54/55), o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 91/92).
+É o relatório. Decido.
+Consoante informações prestadas pelo Juiz a quo, verifica-se que ocorreu o trânsito em julgado da condenação proferida nos autos da ação penal originária. Confira-se (e-STJ fls. 54/55):
+O paciente [NOME] foi preso em flagrante delito no dia 01/08/2017, sendo convertida a custódia em preventiva.
+Regularmente processado, veio a ser condenado pela prática do crime descrito no artigo 33, § 4o, da Lei 11.343/06, ao cumprimento da pena de 04 (quatro) anos e 02 (dois) meses de reclusão, no regime inicial fechado, e 416 (quatrocentos e dezesseis) dias-multa, no patamar mínimo, sem direito de apelar em liberdade.
+Foi interposto recurso de apelação pela defesa do paciente, com expedição da Guia de Execução Provisória e seu encaminhamento para o DEECRIM - 3a RAJ - Bauru, cadastrada sob nº PEC 0006325-83.2018.26.0026 - Parte 2, em 22/05/2018.
+O recurso foi processado e por Acórdão proferido em 05/09/2018, pela 7a Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, em votação unânime, negaram provimento ao pedido determinando a expedição de mandado de prisão depois de decorrido o prazo para interposição de recursos ordinários em segunda instância.
+O V. Acórdão transitou em julgado para o Ministério Público e para a defesa em 03/10/2018 e, devolvidos os autos a este juízo em 04/10/2018, foi determinada a comunicação à Execução Provisória, em aditamento, para o seu prosseguimento como definitiva.
+Nesse cenário, entendo que fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso.
+Publique. Intime-se.
