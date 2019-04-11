@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIO JHONNE COSTA SILVA contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que indeferiu a liminar no HC n. 0008186-24.2019.827.0000.
+Nesta via, o impetrante alega a ocorrência de constrangimento ilegal capaz de superar o óbice do Enunciado da Súmula 691/STF, diante da ausência de fundamentação da decisão que indeferiu a medida liminar.
+Sustenta inexistir motivação suficiente para justificar o indeferimento da saída do paciente com escolta para comparecer ao velório do seu genitor e prestar solidariedade a seus familiares.
+Requer a concessão sumária e definitiva da ordem constitucional para que o paciente possa prestar solidariedade a sua família, bem como para que possa responder ao processo em liberdade.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fls. 48/50):
+Denota-se dos autos que a pretensão do impetrante consiste na autorização de saída temporária do paciente, mediante escolta, para se fazer presente ao sepultamento do genitor que faleceu aos 3/04/19, na cidade de Altamira-PA.
+Para a concessão da medida liminar nos termos pleiteados, faz-se necessária à presença dos requisitos ensejadores do seu deferimento, quais sejam o fumus boni juris e o periculum in mora, que devem ser demonstrados de forma clara e induvidosa, possibilitando ao julgador a apreciação do pedido.
+Da análise perfunctória destes autos, não vislumbro a presença dos requisitos autorizadores da concessão liminar do writ, haja vista que o direito alegado não se afigura evidenciado.
+O artigo 120 da Lei nº. 7.210/84 estabelece, que os condenados que cumprem pena em regime fechado ou semi-aberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando do falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão (I) ou necessidade de tratamento médico (II).
+Da análise do teor do mencionado dispositivo legal, infere-se que o direito à saída escoltada em virtude de falecimento do genitor não é absoluto, haja vista que o legislador utilizou-se da terminologia "poderão" e não "deverão".
+Nesse contexto, conclui-se que a permissão depende da análise de particularidades e, no caso concreto sub examine, não se vislumbra a possibilidade de liberação do paciente.
+Em um breve raciocínio acerca do caso concreto, tem-se que a saída temporária do paciente, para comparecer a sepultamento na cidade de Marabá - PA, se afigura temerária, haja vista tratar-se de policial militar paraense, preso em flagrante em território tocantinense, fortemente armado sem estar a serviço da Corporação.
+Ademais, os argumentos eleitos pelo Parquet para opinar pelo indeferimento do pedido, no sentido de tratar-se de preso altamente perigoso e integrante de milícia, a ser transportado por diversos quilômetros, sinaliza a necessidade de acautelamento da ordem pública, precipuamente a incolumidade física dos integrantes da escolta policial, bem como, do próprio paciente.
+Insta salientar, quanto ao pedido principal, que não há nos autos qualquer evidência de que o sepultamento ainda não tenha sido levado a efeito e, no que tange ao pedido subsidiário, inexiste respaldo legal para a pretensão de prestar solidariedade à família.
+Ex positis, INDEFIRO a medida liminar pleiteada.
+Prescindíveis os informes do Magistrado a quo, haja vista o trâmite virtual dos autos principais.
+Ouça-se à douta Procuradoria Geral de Justiça.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a segregação cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
