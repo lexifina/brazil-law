@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que não admitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COBRANÇA. Contrato de Abertura de Crédito. Sentença procedente. Código de Defesa do Consumidor. Incidência. Juros remuneratórios. Ausência de limitação. Súmulas 596/STF e 382/STJ. Precedentes do Colendo STJ. Juros capitalizados. Licitude reconhecida. Encargo expressamente contratado, nos moldes do entendimento firmado nos REsp 973.827/RS e 1.058.114, julgados nos termos do art. 543-C do CPC. Recurso impróvido." (fl. 271)
+Opostos embargos de declaração, restaram rejeitados.
+No recurso especial, alega o agravante violação aos arts. 320, 373, I, do NCPC/2015, 422, do Código Civil, bem como dissídio jurisprudencial. Sustenta, em síntese, que: (i) "a ausência de extratos inviabiliza a defesa do recorrente. Restou evidente que a dispensa dos extratos bancários afrontou lei federal" (fl. 306); (ii) o banco agiu em evidente má-fé sem a devida comunicação majorou a cobrança de juros.
+É o relatório. Passo a decidir.
+Inicialmente, em relação à alegação da ausência de documentos indispensáveis para a propositura da ação, no caso presente, colhe-se do acórdão proferido em sede de embargos de declaração, verbis:
+"De fato, o acórdão de fls. 239/242 silenciou quanto à alegação de ausência de prova (extratos bancários) quanto a efetiva disponibilidade do crédito e de sua utilização pelo devedor.
+Ocorre que a ação está devidamente instruída pelo Contrato original da dívida (fls. 09/13) e pelo extrato de evolução do débito (fls.
+21/23), que comprovam que o empréstimo foi contraído, utilizado e não pago.
+Por este motivo, a alegação deve ser afastada, suprindo-se, assim, a omissão." (fl. 287)
+Nesse contexto, a pretensão da parte recorrente, no ponto, exige o revolvimento do conjunto fático-probatório delineado nos autos, inviável na via estreita do recurso especial, nos termos do enunciado nº 7 da Súmula do STJ.
+No que tange à admissibilidade do apelo especial por violação ao art. 422 do Código Civil, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor do dispositivo legal citado, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. De fato, não se extrai do acórdão recorrido pronunciamento a respeito de controvérsia apoiada na normatividade do dispositivo legal supostamente violado. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. l
