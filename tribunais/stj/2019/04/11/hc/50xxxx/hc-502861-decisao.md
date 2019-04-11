@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLAUDINEI DE OLIVEIRA CORREIA JUNIOR, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente foi condenado à pena privativa de liberdade de 4 (quatro) anos de reclusão, em regime fechado, pela prática do delito tipificado no art. 157, caput, do Código Penal.
+Neste habeas corpus, o impetrante alega que: a) é "absolutamente desproporcional fixar-se regime mais gravoso quando se trata de uma sanção mais branda" (e-STJ, fl. 4); b) "os fundamentos apresentados pelo juízo de primeira instância e mantidos pelo E. Tribunal referem-se especificamente à gravidade que já é ínsita ao crime de roubo" (e-STJ, fl. 5).
+Pleiteia seja fixado o regime prisional aberto para cumprimento da pena imposta ao paciente.
+É o relatório.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+In casu, o Juízo sentenciante estabeleceu o regime fechado para início de cumprimento da pena de 4 (quatro) anos de reclusão, em decisão assim motivada:
+"É cabível o regime inicial fechado de cumprimento de pena, pois o roubo é crime grave e intranquiliza toda a sociedade, o que exige medidas drásticas, sendo incompatível com os regimes mais brandos de cumprimento de pena (artigo 33, § 3 º do CP)." (e-STJ, fl. 23)
+O Tribunal de origem, ao manter o regime prisional, consignou:
+"O regime inicial de cumprimento da pena deve ser o fechado, dada a evidente periculosidade do ora Apelante, bem como pela necessidade de garantir-se a ordem pública que, evidentemente fica exposta e casos como o dos autos.
+Vale transcrever trecho da r. sentença que bem fundamentou: "É cabível o regime inicial fechado de cumprimento de pena, pois o roubo é crime grave e intranquiliza toda a sociedade, o que exige medidas drásticas, sendo incompatível com os regimes mais brandos de cumprimento de pena."
+Não há, pois, como acolher as teses defensivas, motivo pelo qual é mantida a sentença recorrida por seus próprios e jurídicos fundamentos, conforme previsão no art. 252, do Regimento Interno deste Egrégio Tribunal de Justiça." (e-STJ, fls. 29-30)
+Sobre o tema, esta Corte tem entendimento firmado, consolidado pelo Enunciado da Súmula 440/STJ, de que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Na mesma linha, o Supremo Tribunal Federal firmou posicionamento no sentido de que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea" (Súmula 719/STF).
+In casu, segundo se infere, as instâncias ordinárias não trouxeram fundamentos válidos para a imposição do regime mais severo, na medida em que destacaram apenas a gravidade abstrata do delito de roubo. Logo, aplicada a pena final em patamar não superior a 4 (quatro) anos, sendo primário o réu e favoráveis as circunstâncias do art. 59 do Código Penal, tanto que a pena-base foi estabelecida no mínimo legal, o regime aberto é o adequado para o cumprimento da pena privativa de liberdade.
+Sobre o tema, o seguinte precedente:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. EMPREGO DE ARMA. REGIME MAIS GRAVOSO. GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTO INIDÔNEO. FIXAÇÃO DO REGIME INICIAL ABERTO. ORDEM CONCEDIDA. REGIMENTAL IMPROVIDO.
+1. A Terceira Seção deste STJ entende ser possível, desde que com base em motivação concreta, estabelecer regime prisional mais gravoso do que aquele que corresponderia, como regra geral, à pena aplicada. Tal fundamentação, porém, deve ser aferida caso a caso (HC n. 362.535/MG, Terceira Seção, Rel. Min. Felix Fischer, Rel. para o acórdão Min. Maria Thereza de Assis Moura, DJe de 8/3/2017).
+2. As instâncias ordinárias apresentaram argumentos baseados na gravidade abstrata do delito e nos genéricos efeitos sociais da criminalidade para a fixação de regime prisional mais severo, o que, a teor da iterativa jurisprudência das Cortes Superiores é expressamente vedado.
+3. A existência de elementos concretos não utilizados na fixação do regime pelas instâncias de origem, impede sua aplicação para justificar a manutenção de regime mais gravoso por este Superior Tribunal de Justiça, ao qual é vedado acrescer fundamentos às decisões das instâncias ordinárias, soberanas na análise do contexto fático.
+4. Agravo regimental improvido." (AgRg no HC 427.220/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018)
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para fixar o regime prisional aberto para cumprimento da pena reclusiva imposta ao paciente.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo de Direito da 2ª Vara Criminal da Comarca de Praia Grande.
+Publique-se. Intimem-se.
