@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. VIOLAÇÃO AOS ARTS. 1.022, I, II, § ÚNICO, I E II, C/C 489, § 1º, IV, DO CPC/2015. NÃO OCORRÊNCIA. SÓCIO MINORITÁRIO PRETENDE O RECONHECIMENTO DE SUA ILEGITIMIDADE PASSIVA, POR ALEGAR NÃO TER EXERCIDO A GERÊNCIA DA ATIVIDADE EMPRESARIAL. NECESSÁRIO REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão prolatado pela 7ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado (fls. 531-539, e-STJ):
+EMBARGOS À EXECUÇÃO - Desconsideração da personalidade jurídica da empresa executada - Sócio minoritário pretende o reconhecimento de sua ilegitimidade passiva, por alegar não ter exercido a gerência da atividade empresarial - Gerência comprovada, porém, pelas cláusulas do Contrato Social - Artigo 123 do CTN - Ainda que tenha sido acordado entre as partes que o sócio minoritário não exerceria as atividades atinentes à gerência da sociedade executada, esse fato não pode ser oposto à Fazenda Pública, que permanece com o direito de exigir o cumprimento da obrigação tributária daqueles que a lei define como sujeitos passivos - Recurso provido.
+Opostos os embargos de declaração, foram rejeitados (fls. 550-554, e-STJ).
+No apelo especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022, I, II, § único, I e II, c/c 489, § 1º, IV, do CPC/2015, argumentando, em síntese, que o acórdão recorrido é obscuro, pois não se manifestou sobre a questão levantada, ou seja, "a tese de que, não obstante o contrato social diga que o embargante é sócio administrador, ele não o é, nunca o foi e a cláusula é mendaz, mera carapaça, o que afasta a literalidade do art. 135, do CTN, que, mui bem citado na douta decisão sob bateia, "os diretores, gerentes ou representantes" que tenham agido "com excesso de poderes e infração da lei"" (fl. 564, e-STJ).
+Aduz, ainda, que a Corte local afronta a decisão proferida no Resp 1.101.728/SP (repetitivo), tema 97, onde se assentou que "A simples falta de pagamento do tributo não configura, por si só, nem em tese, circunstância que acarreta a responsabilidade subsidiária do sócio, prevista no art. 135 do CTN. É indispensável, para tanto, que tenha agido com excesso de poderes ou infração à lei, ao contrato social ou ao estatuto da empresa" (fl. 565, e-STJ).
+Ao final, requer o provimento do recurso, para julgar procedente a demanda, ou anular o acórdão recorrido.
+Contrarrazões oferecidas às fls. 596-598, e-STJ.
+Juízo positivo de admissibilidade às fls. 620-622, e-STJ.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022, I, II, § único, I e II, c/c 489, § 1º, IV, do CPC/2015, porquanto o Tribunal de origem apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses do recorrente.
+O acórdão recorrido, ao julgar os embargos à execução fiscal, manteve a decisão inicial, rejeitando os argumentos do recorrente aos seguintes fundamentos (fl. 533-537, e-STJ):
+ ..
+Conforme se depreende dos autos, a Fazenda do Estado de São Paulo, ora Apelante, ajuizou ação de execução fiscal em face da sociedade empresária La Fiorelli Confecções Ltda. EPP, em decorrência dos débitos de ICMS inscritos em dívida ativa em 15.07.2015, que totalizam R$4.408,39.
+ ..
+Feitas essas considerações, e, dada a análise do caso concreto, tem-se que, em que pese o Juizo formado em primeiro grau de jurisdição, a execução fiscal deve prosseguir também em face do Apelado, que, juntamente a sua ex-esposa, é corresponsável pela satisfação do crédito tributário executado.
+Isso porque, conforme se infere do conjunto probatório constituído, precisamente da Cláusula Sétima dos atos constitutivos da sociedade executada, o Apelado também exercia a gerência da referida, condição esta que o torna responsável pelos débitos tributários contemplados na demanda executiva (grifei).
+Importa consignar que, a despeito de suas alegações no sentido de que jamais exerceu a gerência da sociedade e que sequer tinha direito a retiradas pro-labore, bem como que lá só figurava para permitir as atividades da ex-esposa, essas teses não afastam a responsabilidade que lhe cabe.
+ ..
+Como se denota, alterar o fundamento utilizado pela Corte local, no sentido de que "se infere do conjunto probatório constituído, precisamente da Cláusula Sétima dos atos constitutivos da sociedade executada" somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos.
+Nesse sentido, confira:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO cpc/15. INOCORRÊNCIA. RECONHECIMENTO DE GRUPO ECONÔMICO. RESPONSABILIDADE TRIBUTÁRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. INCIDÊNCIA. JULGAMENTO EXTRA PETITA. NÃO CONFIGURADO. RAZÕES DISSOCIADAS E AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 283 E 284 DO STF. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - Não verificada omissão acerca de questão essencial ao deslinde da demanda e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+III - In casu, rever a conclusão do Tribunal de origem, com o objetivo de acolher a pretensão recursal acerca da ilegitimidade da Recorrente, bem como da ausência de grupo econômico, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+ ..
+(AgInt no REsp 1761218/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/12/2018)
+No mais, o recurso especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+Ante o exposto, nego provimento ao recurso especial, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ.
+Majorar em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
