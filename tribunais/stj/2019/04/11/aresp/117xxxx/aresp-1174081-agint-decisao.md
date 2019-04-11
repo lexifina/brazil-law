@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno manejado por Cargolift Logística S.A., desafiando decisão que negou provimento a agravo em recurso especial, ao fundamento de que incide no caso a Súmula 282/STF.
+O agravante, em suas razões, sustenta que houve o prequestionamento implícito do conteúdo inserto no art. 69 do CTN, apontado como malferido.
+Transcorreu in albis o prazo para impugnação (fl. 407).
+É o relatório.
+Melhor compulsando os autos, e exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, do CPC/2015 e 259, § 6º, do RISTJ, tornando-a sem efeito, passando novamente à analise do recurso.
+Trata-se de agravo manejado por Cargolift Logística S.A., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 339):
+APELAÇÃO - Repetição de indébito  ICMS - Empresa de transporte rodoviário de carga - Inclusão do valor relativo ao pedágio, na base de cálculo do imposto - Sentença de improcedência - Pretensão de reforma - Impossibilidade - Legitimidade da cobrança - Aplicação do art. 13, § 1º, II, "a", da LC nº 87/96 - Valor do pedágio que efetivamente integra o serviço prestado - Convenções particulares que não podem ser opostas ao Fisco, por força do art 123 do CTN - Inaplicável, na hipótese, a Lei nº 10.209/01 - Apelação a que se nega provimento.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 69 do CTN. Sustenta que "o pedágio não pode integrar a base de cálculo do referido ICMS - Transporte, pois não faz parte do preço do serviço prestado, nos termos em que acordado entre as partes (Recorrente e GMB) no contrato de transporte entre elas celebrado (Cláusula 3.1  .. )" (fl. 350).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Tribunal a quo assim deliberou ao solucionar a contenda (fls. 340/341):
+ ..  o ICMS incidente sobre o serviço de transporte deve ser calculado com base no valor total do custo da operação.
+Nesse sentido, a Lei Complementar nº 87/96 estabelece que "integra a base de cálculo do imposto o valor correspondente a seguros, juros e demais importâncias pagas ou debitadas, bem como descontos concedidos sob condição" (art. 13, §1º, II, "a").
+Assim, a princípio, deve ser compreendido que, na atividade de transporte rodoviário de carga, como é o caso da autora, o custo relativo ao pedágio efetivamente integra o valor da operação, de maneira que deve compor a base de cálculo do ICMS.
+ ..
+No caso concreto, não socorre a alegação da autora, de que o pedágio não fazia parte do preço contratado com a empresa "General Motors do Brasil Ltda. - GMB", tomadora do serviço.
+A própria autora confirma que o custo do pedágio foi arcado por ela, na prestação do serviço de transporte, que veio a ser posteriormente ressarcido pela empresa GMB, por força de contrato.
+Nesse ponto, vale frisar que as convenções particulares não podem ser opostas ao Fisco, para fins de responsabilidade tributária, nos termos do art. 123 do CTN.
+Desse modo, se o custo do pedágio realmente fez parte da operação, não poderia a avença firmada entre as partes contratantes ter o condão de alterar a base de cálculo do imposto estadual.
+No caso, a alteração das conclusões adotadas pela Corte de origem no sentido de que "não socorre a alegação da autora, de que o pedágio não fazia parte do preço contratado com a empresa "General Motors do Brasil Ltda. - GMB", tomadora do serviço  ..  A própria autora confirma que o custo do pedágio foi arcado por ela, na prestação do serviço de transporte", tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Outrossim, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que "as convenções particulares não podem ser opostas ao Fisco, para fins de responsabilidade tributária, nos termos do art. 123 do CTN", esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ANTE O EXPOSTO, reconsidero a decisão de fls. 390/392 e nego provimento ao agravo.
+Publique-se.
