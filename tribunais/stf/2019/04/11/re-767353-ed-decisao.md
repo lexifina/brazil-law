@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos contra decisão monocrática pela qual, ao negar seguimento ao recurso extraordinário, mantive acórdão proferido pelo Tribunal Regional Federal da 4ª Região que havia condicionado o reconhecimento do cômputo de serviço exercido na condição de autônomo para efeito de aposentação no serviço público, mediante o recolhimento da indenização das contribuições que não foram pagas a seu tempo.
+     A parte embargante sustenta a existência de erro material no ponto em que a decisão embargada relata o julgamento de “novos” embargos de declaração pelo TRF/4ª Região. Informa que, ao contrário do que consta da referida decisão, o referido Tribunal de origem não apreciou “recurso de apelação”, uma vez que os autos foram submetidos à instância revisora unicamente em razão da remessa ex-officio. Alega que a decisão foi omissa, ao silenciar sobre controvérsia suscitada no recurso extraordinário, quanto à violação, pelo acórdão recorrido, das Súmulas 269 e 271/STF.
+    Tem razão a parte embargante quanto à existência de erro material. Isso porque o TRF da 4ª Região não apreciou recurso de apelação, conforme menção da decisão embargada, mas, unicamente a remessa ex-officio.
+    Verifico que houve omissão quanto às alegadas violações das Súmulas 269 e 271/STF. Acolho, também, os embargos para assentar que não merece acolhida, no ponto, o recurso extraordinário. O Supremo Tribunal Federal, ao julgar o AI 126.187-AgR, Rel. Min. Celso de Mello, firmou o entendimento de que “não enseja acesso a via recursal extraordinária o eventual dissidio interpretativo que oponha a decisão proferida pelo Tribunal a quo ao conteúdo de enunciado sumular do Supremo Tribunal Federal desvestido de fundamento constitucional”.
+    Diante do exposto, acolho os embargos de declaração para, nos termos da fundamentação, corrigir o erro material e sanar a omissão apontados, sem, entretanto, alterar o resultado da decisão embargada.
+    Publique-se.
+          Brasília, 11 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
