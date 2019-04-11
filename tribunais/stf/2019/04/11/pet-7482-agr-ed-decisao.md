@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de embargos de declaração opostos a decisão monocrática por mim proferida, nos quais se sustenta a ocorrência de contradição, pois, segundo o ora embargante, “ao mesmo tempo em que o MM. Relator acertadamente reconhece a incompetência dessa C. Corte Suprema para o processamento do presente feito, não se absteve de julgar o mérito do agravo regimental outrora interposto” (fls. 232).
+    Postula-se, com o acolhimento dos embargos declaratórios, a invalidação do ato decisório ora impugnado, com a consequente “remessa dos autos à Justiça estadual comum” (fls. 233).
+    A douta Procuradoria-Geral da República, ao opinar nesta sede recursal, propõe “o acolhimento dos embargos de declaração, para que,  com o saneamento da contradição e a reafirmação da incompetência desta Suprema Corte, sejam os autos remetidos ao juízo de primeiro grau, para o exame sobre a retratação e sobre o processamento recursal, se for o caso, relativamente à insurgência contra a decisão que reconheceu a decadência do direito de queixa” (fls. 240 – grifei).
+    Sendo esse o contexto, passo a examinar o presente recurso. E, ao fazê-lo, procedo, desde logo, com apoio no art. 1.024, § 2º, do CPC, ao julgamento dos embargos de declaração em causa, acolhendo, como razão de decidir, o douto pronunciamento da eminente Senhora Procuradora-Geral da República (fls. 238/240), em ordem a reafirmar a incompetência absoluta desta Corte para apreciar este litígio penal, nos termos da decisão de fls. 213/227, e a determinar, ainda, a imediata remessa destes autos “ao juízo de primeiro grau, para o exame sobre a retratação e sobre o processamento recursal, se for o caso, relativamente à insurgência contra a decisão que reconheceu a decadência do direito de queixa” (fls. 240).
+    Comunique-se, transmitindo cópia da presente decisão à eminente Senhora Chefe do Ministério Público da União.
+    Publique-se.
+    Brasília, 11 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
