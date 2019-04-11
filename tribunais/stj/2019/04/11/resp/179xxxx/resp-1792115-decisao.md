@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que, ao julgar a apelação e os embargos de declaração apresentados por defensora dativa, deixou de arbitrar em benefício desta os honorários pela atuação no 2º grau de jurisdição, entendendo satisfatório para toda a demanda o valor fixado pelo Juízo de 1º grau.
+Nas razões do recurso especial, o recorrente alega, em apertada síntese, violação ao artigo 22, §1º, da lei 8.906/1994, pois os honorários advocatícios devidos à advogada dativa que formulou as razões da apelação e dos embargos de declaração apresentados pela defesa devem seguir a tabela firmada pela Ordem dos Advogados do Brasil no Estado do Paraná, em conjunto com a Procuradoria-Geral daquele Estado e, também, pela Secretaria Estadual de Fazenda, segundo a qual há acréscimo de valores quando houver postulação em grau recursal.
+Desse modo, requer a reforma do acórdão recorrido, a fim de que sejam arbitrados os honorários advocatícios seguindo o previsto na tabela fixada pela OAB/PR, respeitando o disposto no art. 22, § 1º, da lei 8.906/1994.
+Parecer do Ministério Público às fls. 406/409.
+Contrarrazões às fls. 374/378.
+É o relatório.
+O tema trazido à discussão foi afetado à 3ª Seção desta Corte Superior pela sistemática dos recursos repetitivos (Resp. n. 1.656.322/SC e Resp 1.665.033/SC), e assim sintetizado no Tema n. 984: Obrigatoriedade ou não de serem observados, em feitos criminais, os valores estabelecidos na tabela organizada pelo respectivo Conselho Seccional da Ordem dos Advogados a título de verba advocatícia devida a advogados dativos.
+Na ocasião, determinou-se "a devolução ao Tribunal de origem apenas dos recursos especiais em tramitação nesta Corte que não foram distribuídos ou, ainda que distribuídos, não tiveram nenhuma decisão (monocrática ou colegiada) sobre o mérito da questão, nos termos do art. 256-L do RISTJ" (REsp 1.656.322 e REsp 1.665.033, DJe de 08/11/2017)
+Dessa forma, é conveniente determinar a devolução destes autos à origem, onde deverão permanecer suspensos até o julgamento e a publicação do acórdão proferido nos autos dos referidos recursos representativos da controvérsia.
+Ante o exposto, com fundamento no art. 256-L, I, do RISTJ, determino a devolução do feito ao Tribunal de Justiça do Estado do Paraná para que lá permaneça suspenso até o julgamento do REsp 1.656.322/SC e REsp 1.665.033/SC.
+Publique-se. Intimem-se.
