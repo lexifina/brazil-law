@@ -1,0 +1,15 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRESCRIÇÃO. APROVEITAMENTO QUANTO AOS DEMAIS SÓCIOS. ART. 125 DO CTN. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO ESTADO DO RIO GRANDE DO SUL REJEITADOS.
+1. Trata-se de Embargos de Declaração interpostos pelo ESTADO DO RIO GRANDE DO SUL contra decisão de minha relatoria, ementada nos seguintes termos:
+TRIBUTÁRIO. RECURSO ESPECIAL. PRESCRIÇÃO. APROVEITAMENTO QUANTO AOS DEMAIS SÓCIOS. RECURSO ESPECIAL DO ESTADO A QUE SE NEGA PROVIMENTO.
+2. Aduz a parte embargante, em síntese, que houve obscuridade no decisum, visto que o entendimento jurisprudencial nela aplicado corrobora a tese recursal do Estado em relação ao afastamento da prescrição, no caso, para o redirecionamento da execução contra a sócia-gerente, ora embargada.
+3. Requer sejam acolhidos os presentes Aclaratórios, conferindo-lhes efeitos infringentes.
+4. Não foi apresentada Impugnação (fls. 747).
+5. É o relatório.
+6. O art. 1.022 do Código Fux (CPC/2015) é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+7. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+8. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+9. A decisão embargada consignou expressamente que o acórdão de origem seguiu o entendimento desta Corte Superior de que a prescrição decretada em favor de um dos sócios favorece os demais, a teor do disposto no art. 125 do CTN (AgRg no REsp. 958.846/RS, Min. HUMBERTO MARTINS, DJe 30.9.2009), não tendo havido qualquer vício que justificasse o manejo dos presentes Embargos de Declaração.
+10. Dos próprios argumentos despendidos nos Aclaratórios, verifica-se não se tratar de qualquer omissão, contradição, obscuridade ou erro material a ser sanado, mas de mera pretensão de reforma do julgado com base em seu inconformismo com a solução jurídica ali aplicada, pretensão incabível nesta via recursal.
+11. Diante do exposto, rejeitam-se os Embargos Declaratórios regularmente opostos pelo ESTADO DO RIO GRANDE DO SUL.
+12. Publique-se. Intimações necessárias.
