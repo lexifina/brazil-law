@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IRIS RIBEIRO DE SOUSA e FÁBIO DE ABREU BARBOSA, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais que denegou o writ de origem assim ementado (fl. 63):
+HABEAS CORPUS - TRÁFICO DE DROGAS - ALEGAÇÕES PERTINENTES AO MÉRITO - IMPOSSIBILIDADE DE ANÁLISE - REVOGAÇÃO DA PRISÃO PREVENTIVA - SUBSTITUIÇÃO POR OUTRAS MEDIDAS CAUTELARES - INVIABILIDADE - PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CPP NITIDAMENTE PRESENTES - PRIMARIEDADE E BONS ANTECEDENTES - CONDIÇÕES INSUFICIENTES - OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - ARGUMENTO IMPROCEDENTE. I- Não é possível, na via estrita do habeas corpus, o confronto das provas para se aferir a inocência/ tipicidade da conduta da paciente, posto tratar-se de matéria de mérito que deve ser enfrentada na sentença, após regular instrução do processo. II - Sendo o tráfico de drogas, hodiernamente, o crime de maior preocupação das políticas de segurança pública, existindo nos autos fortes indícios de autoria e estando comprovada a materialidade delitiva, a prisão preventiva, medida de exceção, se faz necessária para garantia da ordem e da saúde pública. III - Demonstrada a necessidade da prisão preventiva, verifica-se que as medidas cautelares não se mostram suficientes para garantir a efetividade do processo. IV- Os atributos pessoais da paciente não podem prevalecer sobre a garantia da ordem pública. V - O princípio constitucional da presunção de inocência não influi na análise da necessidade da manutenção da prisão cautelar, apenas impede a antecipação dos efeitos da sentença.
+Os pacientes foram denunciados pela prática do crime tipificado no artigo 33, caput, da Lei 11.343/06.
+Busca-se a revogação da prisão preventiva ou a substituição por medidas cautelares diversas, argumentando a ausência dos requisitos autorizadores dessa segregação cautelar e presença de condições pessoais favoráveis para responder em liberdade.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público foi pelo não conhecimento do habeas corpus, e, se conhecido, pela denegação da ordem.
+Na origem, processo n. 0032578-93.2018.8.13.0051, foi juntada petição de alegações finais em 26/02/2019 e trâmite de conclusão para julgamento efetuado em 27/02/2019, sendo posteriormente convertida em diligência no dia 28/02/2019, conforme consulta processual no sítio do Tribunal no dia 04/04/2019.
+É o relatório.
+DECIDO.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa. Compulsando o presente feito, constato que a peça inicial veio desacompanhada de documentação indispensável para o deslinde da controvérsia, em especial o decreto de prisão preventiva.
+É pacífico o entendimento desta Corte Superior que o procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
