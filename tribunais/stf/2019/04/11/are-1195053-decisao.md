@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à declaração de nulidade da Portaria nº 1.794/2007 do Ministério da Justiça, que implicou a declaração como de tradicional ocupação indígena a fazenda Passo Liso, em Laranjeiras do Sul, Paraná. No extraordinário cujo trânsito busca alcançar, a Fundação Nacional do Índio alega feridos os artigos 5º, incisos XXV, LIV e LV, e 231 da Constituição Federal. Diz contrariado o princípio do devido processo legal. Discorre sobre a imprescritibilidade do direito dos indígenas à terra tradicionalmente ocupada. Sustenta ter o Colegiado desconsiderado os estudos antropológicos a respeito da área. Afirma a validade da portaria diante da regular demarcação. Ressalta a regularidade do processo demarcatório. Sustenta a existência de levantamento fundiário.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    A configuração de terras 'tradicionalmente ocupadas' pelos índios, nos termos do referido artigo, já foi pacificada pelo Supremo Tribunal Federal, com a edição da Súmula 650, que dispõe:'os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto.'
+    […]
+    No caso em exame, a área em questão é ocupada por não indígenas há mais de 80 (oitenta) anos, conforme cadeia dominial juntada com a inicial (Evento 1 - MATRIMÓVEL3). Assim, a procedência da ação se impõe, ainda que também por fundamentos diversos da sentença.
+    Eis trecho da decisão proferida nos declaratórios:
+    Ademais, não há qualquer comprovação de 'esbulho renitente' por parte dos índios. Manifestações esparsas podem representar um anseio de futura demarcação, não a situação de esbulho possessório atual.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Ora, nem como muito empenho seria dado concluir pela violação aos preceitos constitucionais indicados.
+    3. Conheço do agravo interposto pela FUNAI e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 5.000,00 (cinco mil reais), fixo os honorários recursais no patamar de R$ 2.500,00 (dois mil e quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 11 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
