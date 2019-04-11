@@ -1,0 +1,36 @@
+EMENTA
+ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. CONTRATO TEMPORÁRIO. NULIDADE. VERBAS TRABALHISTAS. FGTS. PRESCRIÇÃO. O PRAZO ESTABELECIDO NO JULGAMENTO DO ARE 709.212/DF PELO STF SE APLICA À FAZENDA PÚBLICA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO AMAZONAS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Amazonas, nesses termos ementado:
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. CONTRATO TEMPORÁRIO. NULIDADE. VERBAS TRABALHISTAS. FGTS. REPERCUSSÃO GERAL NO SUPREMO TRIBUNAL FEDERAL. PRESCRIÇÃO. APELO CONHECIDO E PROVIDO.
+I - O Supremo Tribunal Federal, ao reconhecer o prazo quinquenal da prescrição da pretensão de cobrança de FGTS, decidiu, em modulação dos efeitos, atribuir eficácia ex nunc à decisão. É dizer, para os casos em que a ciência da lesão ocorreu a partir de 13/11/2014, aplica-se a prescrição quinquenal. Nos demais casos, em que os prazos prescricionais já estavam em curso na data referida anteriormente, aplica-se o prazo de prescrição que se consumar primeiro: trinta anos contados do termo inicial ou cinco anos a partir de 13/11/2014.
+II - Induvidoso que a contratação temporária pela Administração Pública, conquanto tenha assento constitucional e legal, não pode ser eternizada a critério do administrador, sob pena de evidente violação do preceito fundamental de acesso aos cargos públicos por meio de concurso (art. 37, II, CF/88), motivo pelo qual a avença que o infringe é reputada nula, consoante prescreve o art. 37, § 2º, CF/88.
+III - O Supremo Tribunal Federal, no RE n.º 596.748 (repercussão geral), reconheceu ao trabalhador o direito, exclusivamente, ao pagamento de saldo de salário pelos dias trabalhados e ao pagamento do Fundo de Garantia por Tempo de Serviço.
+IV - Apelação conhecida e provida. Sentença reformada para julgar procedentes os pedidos da exordial.
+Embargos de declaração rejeitados.
+Sustenta a parte recorrente que a prescrição é quinquenal.
+A todas as luzes, a modulação de efeitos promovida pelo STF no ARE 709.212/DF, visando à segurança jurídica, deu-se mirando as situações para as quais se aplicava a trintenária (declarada inconstitucional). Não faz sentido algum aplicar-se a modulação de efeitos para quem - Fazenda Pública - sempre gozou do prazo qüinqüenal em seu benefício. É dizer: faz sentido alçar modulação de efeitos para gerar insegurança jurídica  Não é essa a lógica do sistema jurídico - constitucional.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Entende esta Corte Superior que a inteligência disposta no ARE 709.212/DF é aplicável em ações contra a Fazenda Pública. Cite-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. SERVIDOR PÚBLICO. FGTS. COBRANÇA DE DEPÓSITOS. PRESCRIÇÃO. PRAZO. JULGAMENTO PROFERIDO PELO STF NO ARE 709.212/DF.
+1. "A divergência entre julgados do mesmo tribunal não enseja recurso especial" (Súmula 13/STJ).
+2. A comprovação da divergência jurisprudencial, na forma dos arts. 1.029, § 1º, do CPC/2015 e 255 do RISTJ, demanda o cotejo analítico dos acórdãos confrontados, com demonstração da similitude fática existente entre eles.
+3. "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" (Súmula 282/STF).
+4. O STF, no julgamento do ARE 709.212/DF, em repercussão geral, estabeleceu que não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS.
+Impôs, contudo, efeitos prospectivos a essa solução, definindo o seguinte: "para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão".
+5. No caso, o prazo prescricional teve seu cômputo iniciado antes da decisão do Supremo Tribunal Federal. Contando-se 5 (cinco) anos da manifestação da Corte Maior, ou 30 (trinta) anos do estabelecimento do vínculo de trabalho, não se verifica o esgotamento do lapso legal.
+6. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp 1784479/AM, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019).
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONTRATAÇÃO TEMPORÁRIA. RENOVAÇÕES SUCESSIVAS. FGTS. COBRANÇA DE DEPÓSITOS. PRESCRIÇÃO. PRAZO QUINQUENAL. TERMO INICIAL. JULGAMENTO PROFERIDO PELO STF NO ARE 709.212/DF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. O Superior Tribunal de Justiça realinhou sua jurisprudência para acompanhar o entendimento do Supremo Tribunal Federal, que, após o reconhecimento da constitucionalidade do art. 19-A da Lei 8.036/90 sob o regime da repercussão geral (RE 596.478/RR, Rel. Para acórdão Min. Dias Toffoli, DJe de 28.02.2013), reconheceu serem "extensíveis aos servidores contratados por prazo determinado (CF, art. 37, inciso IX) os direitos sociais previstos no art. 7º da Carta Política, inclusive o FGTS, desde que ocorram sucessivas renovações do contrato" (RE-AgR 752.206/MG, Rel. Min. Celso de Mello, DJe de 29.10.2013).
+2. Saliente-se que o termo inicial da prescrição deve observar o disposto no julgamento do ARE 709.212, em repercussão geral, qual seja, "para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão".
+3. No caso, conforme o registro do Tribunal local, o contrato temporário de trabalho da recorrida para o cargo de Servente perdurou entre 2.6.1993 e 5.5.2009 (fl. 278, e-STJ). Todos os recolhimentos deveriam ter sido feitos, portanto, antes do julgamento proferido pelo STF.
+4. O contrato mais antigo, note-se, teve início no ano de 1993.
+Desse momento até a decisão proferida pelo STF, em 13.11.2014, não decorreram 30 anos. Assim, a regra prescricional aplicável ao caso, por determinação do STF, é a quinquenal, iniciada a partir do julgamento realizado em regime de repercussão geral, cuja pretensão mais longíqua, bem como as mais recentes, pode ser exercida até 13.11.2019.
+5. Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Agravo Interno não provimento.
+(AgInt no REsp 1702461/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/08/2018, DJe 20/11/2018).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
