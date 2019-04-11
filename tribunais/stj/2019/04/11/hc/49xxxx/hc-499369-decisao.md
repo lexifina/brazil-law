@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. ACUSADA IMPRESCINDÍVEL AOS CUIDADOS DE FILHOS MENORES DE 12 ANOS. PRISÃO DOMICILIAR. VIABILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE DEMONSTRAM A IMPERIOSIDADE DA MEDIDA.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], para o fim de autorizar a liberdade provisória da paciente ou, quando menos, garantir o seu recolhimento à prisão domiciliar, para que possa cuidar de seus filhos menores de 12 anos (fls. 13/14).
+A paciente foi presa em flagrante no dia 14/2/2019, juntamente com outras duas corrés, pela suposta prática da conduta prevista no art. 155, § 4º, IV, do Código Penal, após furtarem produtos de três estabelecimentos comerciais de um Shopping Center. Em 15/2/2019, a prisão em flagrante foi convertida em preventiva, com fundamento nos arts. 282, II, § 6º, 310, II, e 312, todos do Código de Processo Penal (fls. 36/40).
+Compulsando-se os autos e em consulta ao sistema informatizado do Tribunal de Justiça de São Paulo (HC n. 0010615-88.2019.8.26.0000), infere-se que, contra esse decisum, foi impetrado habeas corpus, cujo pedido liminar foi indeferido, em 2/3/2019, pelo Desembargador Fábio Gouvêa, no Plantão Judiciário (fls. 24/25).
+Daí o presente mandamus, no qual se alega constrangimento ilegal, consistente na manutenção da prisão cautelar da paciente, mãe de duas crianças menores de 12 anos, lactante, encontrando-se amparada pela decisão da Suprema Corte no HC n. 143.641/SP.
+Requer-se, em liminar e no mérito, seja a paciente beneficiada com a prisão domiciliar.
+O pedido de liminar foi deferido (fls. 48/52).
+Dispensadas as informações, o Ministério Público Federal, em parecer exarado pela Subprocuradora-Geral da República Ela Wiecko V. de Castilho, manifestou-se pela concessão da ordem de ofício (fls. 57/59).
+É o relatório.
+Às razões por mim apresentadas na decisão de fls. 48/52, pela qual concedi medida liminar em favor da paciente, acrescento estas palavras da Subprocuradora-Geral da República Ela Wiecko V. de Castilho (fls. 58/59):
+A paciente foi presa em flagrante pela prática do crime do art. 155, § 4º, IV, do CP. A prisão em flagrante foi convertida em preventiva. Segundo o magistrado, a paciente foi presa em agosto de 2018 por tráfico de drogas e beneficiada com a liberdade provisória. Foi condenada, em 31/1/19, pelo mesmo crime de tráfico, sendo considerada reincidente específica, além de possuir outros 5 processos pela prática de idêntico delito (f. 36-39).
+6. A decisão do STF, nos autos do HC 143.641/SP, concedeu habeas corpus coletivo para determinar a substituição da prisão preventiva pela domiciliar sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP de todas as mulheres presas, gestantes, puérperas, ou mães de crianças e deficientes sob sua guarda  .. , enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício (Ministro Ricardo Lewandowski, DJe 9/10/18).
+7. Nos termos da citada decisão, não será concedida a prisão domiciliar nos casos de crimes praticados com violência ou grave ameaça, contra os próprios descendentes do acusado ou, ainda, em situações excepcionalíssimas, as quais deverão ser fundamentadas pelo magistrado.
+8 Não obstante a reiteração delitiva da paciente, a segregação cautelar deve ser substituída por prisão domiciliar, pois o caso não se enquadra nas exceções descritas na decisão do STF.
+9. Ademais, a paciente é mãe de duas crianças, uma ainda na fase de amamentação, com apenas 10 meses de idade e, a outra, com dois anos e três meses, conforme certidões de f. 26-27.
+Pelo não conhecimento, mas pela concessão da ordem, de ofício para que seja revogada a prisão preventiva, ou, pelo menos, substituída pela prisão domiciliar.
+Assim, acolhendo a opinião ministerial, confirmo a decisão liminar e concedo a ordem para substituir a prisão cautelar imposta à paciente por prisão domiciliar a ser implementada pelo Magistrado singular, que deverá fixar as condições e alertar a acusada de que, em caso de eventual descumprimento, a segregação provisória será imediatamente restabelecida.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
