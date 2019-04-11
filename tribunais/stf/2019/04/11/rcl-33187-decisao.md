@@ -1,0 +1,19 @@
+Despacho: Trata-se de Reclamação, com pedido liminar, ajuizada por Vetor Locação Eireli ME, em face de ato administrativo - Processo Administrativo nº 42.220/2018 - praticado pelo Município de Rio Branco. Alega-se a violação do enunciado na Súmula Vinculante nº 49 do STF.
+    Sustenta, a parte reclamante, que pleiteou a emissão de certidão de declaração de viabilidade para uso e ocupação do solo, com a finalidade de obter documentação para construção e licenciamento de um Posto de Revenda de Combustível e lubrificantes. Aduz que referida solicitação foi indeferida sob o fundamento de que a Lei Municipal nº 1.542/2005 exige um distanciamento mínimo de 1.200 (mil e duzentos) metros entre dois postos de comercialização de combustíveis, requisito que não seria obedecido pela ora reclamante.
+    Alega, dessa forma, que o ato reclamado ofende o Princípio da Livre Concorrência e se mostra contrário ao entendimento da Corte, conforme entendimento consolidado no Súmula Vinculante nº 49.
+    Por fim, afirma que o indeferimento causará prejuízos ao reclamante, além de deixar de fomentar o mercado econômico da região, deixando de gerar empregos diretos e arrecadação ao Fisco.
+    Com amparo nos argumentos acima sintetizados, bem como ao risco útil do resultado do processo, requer, liminarmente a Tutela de Urgência, a fim de suspender o ato reclamado consistente no indeferimento da certidão requerida e a procedência desta ação afastado “o óbice relativo ao distanciamento mínimo entre estabelecimentos comerciais” (eDOC 1, p. 14).
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    No que se refere à primeira hipótese, mais especificamente quanto ao cabimento da Reclamação para garantir a observância das súmulas vinculantes, deve-se ter atento olhar para regramento delineado pela Lei nº 11.417/2006.
+    Como é sabido, em se tratando de omissão ou ato da Administração Pública, a Reclamação só é admitida após o esgotamento das vias administrativas.
+    Da leitura da petição inicial, verifica-se que o Reclamante não se desincumbiu adequadamente do ônus acima delineado, visto não ter demonstrado que esgotou todas as vias administrativas a fim de obter a certidão pleiteada.
+    Na presente hipótese o Reclamante indica tratar-se do indeferimento do pedido realizado no Processo Administrativo nº 42.220/2018 (eDOC 12), porém, não foi acostada na inicial da Reclamação, tampouco a própria narrativa fática delineada nas razões da ação, permite que se extraia efetivamente que houve pedido de reconsideração ou recurso em face dessa certidão. Nesse sentido:
+    AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO. IMPUGNAÇÃO DE ATO DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE PRESSUPOSTOS. 1. Não cumpre os pressupostos processuais reclamação que impugna ato administrativo futuro ou em relação ao qual não foram esgotadas as vias administrativas de impugnação, em caso de alegação de descumprimento de Súmula Vinculante (art. 7º, § 1º, da Lei 11.417/2006). 2. Agravo interno desprovido. (Rcl 26.016-AgR, Rel. Min. Roberto Barroso, DJe 29.03.2017)
+    Desse modo, torna-se necessário o esgotamento das vias administrativas como pressuposto para o ajuizamento da reclamação fundada em Súmula Vinculante. Exigência contida na Lei nº 11.417/2006.
+    Diante do exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à presente reclamação, ficando prejudicado o pedido liminar de Tutela de Urgência.
+    Publique-se. Intime-se.
+    Brasília, 11 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
