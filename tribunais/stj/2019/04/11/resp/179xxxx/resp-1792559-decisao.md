@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial, apresentado por [NOME], com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de [NOME], o recurso especial não foi instruído com a guia de custas devidas ao Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Não se desconhece o diferimento de custas realizado pelo tribunal de origem; porém, as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei n. 11.636/2007.
+No entanto, entender que a legislação ou ato judicial local pudesse postergar o pagamento de uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma temporária, prática vedada pela Constituição da República (art. 151, III).
+Nesse sentido, o AgInt no REsp 1668251/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 24/08/2018 e o AgInt no AREsp 1216172/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/08/2018.
+Ainda, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que limitou-se a trazer a guia de custas acompanhada de comprovante de agendamento (fl 887), que é insuficiente para demonstrar o recolhimento do preparo. Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Ainda que assim não fosse, a parte indicou erroneamente o "Número do Processo que Consta no Acórdão Recorrido" na guia de recolhimento das custas judiciais de fl. 886, juntada aos autos em virtude do despacho determinando a regularização do preparo, uma vez que o número utilizado não corresponde aos existentes na origem.
+Por fim, ressalto que a petição de fls. 891/894 não pode ser aceita para o fim que se destina, em razão da preclusão consumativa, uma vez que já realizado o ato, por meio da petição de fl. 884/887, que veio sem os documentos corretos.
+Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
