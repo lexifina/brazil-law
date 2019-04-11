@@ -1,0 +1,68 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. ALTERAÇÃO DO QUANTUM DE REDUÇÃO PELA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. PEQUENA QUANTIDADE DE DROGA. PATAMAR MÁXIMO. POSSIBILIDADE. REGIME INICIAL ABERTO. CABIMENTO. RECUSO ESPECIAL CONHECIDO E PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.º 0000787-78.2016.8.26.0160).
+Consta dos autos que o Juízo de primeiro grau condenou o Recorrente às penas de 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, bem como ao pagamento de 250 (duzentos e cinquenta) dias-multa, no mínimo legal, como incurso no art. 33, caput e § 4.º, da Lei n.º 11.343/2006, porquanto trazia consigo 13 (treze) trouxinhas de maconha, pesando aproximadamente 16,9g (dezesseis gramas e nove centigramas); 6 (seis) cápsulas plásticas contendo cocaína, com peso aproximado de 0,5g (meio grama); bem como 19 (dezenove) pedras de crack, com cerca de 5,6g (cinco gramas e seis centigramas) (fls. 166-170).
+Irresignadas, Defesa e Acusação interpuseram as respectivas apelações. A Corte de origem negou provimento ao apelo defensivo e proveu parcialmente o do Parquet, a fim de fixar o regime fechado para o início do cumprimento da reprimenda corporal (fls. 278-288).
+Os embargos de declaração opostos foram rejeitados (fls. 667-673).
+Sustenta a Defesa, nas razões do apelo nobre, além da existência de dissídio pretoriano, afronta ao arts 33, § 4.º, da Lei n.º 11.343/2006, ao art 33, § 2.º, do Código Penal, bem como ao art. 25 do Pacto de São José da Costa Rica.
+Pondera que, dada a ausência de valoração negativa das circunstâncias judiciais e o estabelecimento da pena-base no mínimo legal, a quantidade e variedade das drogas apreendidas não são fundamentos idôneos para, por si sós, amparar a fixação de regime prisional mais gravoso que o aberto.
+Alega que, na espécie, é de rigor a incidência da minorante do tráfico privilegiado no patamar máximo, ou seja, 2/3 (dois terços), tendo em vista que o Recorrente é primário, as circunstâncias judiciais lhe são favoráveis, não ostenta maus antecedentes, não se dedica à atividade ilícita, nem integra organização criminosa.
+Afirma que, aplicado o redutor conforme pleiteado, inarredável a substituição da reprimenda corporal por restritiva de direitos.
+Contrarrazões às fls. 710-721. Admitido o recurso na origem (fls. 724-726), vieram os autos a esta Corte Superior.
+O Ministério Público Federal manifestou-se às fls. 735-740, opinando pelo provimento do recurso especial.
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 283-287; sem grifos no original):
+"Pretende [NOME] seja aumentado o quantum aplicado pelo § 4º, do art. 33, da Lei nº 11.343/06 e, o MINISTÉRIO PÚBLICO o afastamento da mencionada benesse.
+Dispõe o § 4º do art. 33 da Lei nº 11.343/06:
+ ..
+Para redução da pena, essencial que o réu seja "primário", apresente "bons antecedentes", comprove que "não se dedique às atividades criminosas", assim como, "nem integre organização criminosa".
+Evidente que essa causa de redução da pena está reservada àquele que age por um impulso, um desvio, em situação isolada no tráfico de drogas.
+E mais, os parâmetros para a graduação da redução (1/6 a 2/3) devem ser objetivos e extraídos das diversas circunstâncias que envolvam o caso concreto, podendo variar dentro do seu campo de incidência.
+ ..
+Deve ser destacado o quanto deliberado na r. sentença apelada, que peço vênia para adotar como razão de decidir:
+".. tendo em conta inexistir indício de que o acusado se dedique a atividades criminosas ou integre organização criminosa  sequer era conhecido dos policiais e sua detenção se deu por delação anônima , é o caso de reduzir a pena em 1/2 nos termos do § 4" do art. 33 da Lei nº 11.343/06. Não se reduz em patamar superior em razão da diversidade de drogas apreendidas em poder do acusado (13 porções de maconha, 06 capsulas de cocaína e 19 pedras de crack), e que, entre elas, está o "crack, que possui alto grau de dependência e letalidade. .." (fls. 169).
+Assim, as penas devem permanecer como fixadas na r. sentença apelada.
+O regime prisional semiaberto imposto na r. sentença, não há como ser mantido, como pretendido pelo MINISTÉRIO PÚBLICO.
+Considerando as circunstâncias do caso concreto, ante a qualidade, variedade e quantidade das drogas apreendidas, indicando perigosidade incomum do acusado, permite concluir que a fixação do regime inicial fechado se mostra mais apropriado, sendo o suficiente para a reprovação e prevenção do grave crime pelo qual foi condenado.
+ ..
+Os 6,1g de cocaína (em pó e pedra) apreendidos seriam suficientes para confecção de cerca de 305 doses letais, que serviriam para alimentar o vício de diversos usuários.
+Tais circunstâncias não podem ser desprezadas no momento da imposição do regime de cumprimento de pena."
+No tocante à minorante prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, convém ressaltar que o referido dispositivo legal dispõe que, nos crimes de tráfico ilícito de entorpecentes, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+É certo que o quantum de diminuição deve ser aplicado de forma razoável e proporcional, levando-se em consideração as características do caso em análise.
+Na hipótese, tendo em vista a qualidade e a pequena quantidade de droga apreendida - 16,9g de maconha, 0,5g de cocaína e 5,6g de crack -, entendo que deve ser aplicada a diminuição no patamar máximo (2/3), ainda mais quando todas as circunstâncias judiciais analisadas na fixação da pena-base foram consideradas favoráveis.
+Parece-me, diante disso, perfeitamente aplicável a causa de diminuição no grau máximo, na esteira da jurisprudência desta Corte.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE REDUZIDA AO MÍNIMO LEGAL. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. APLICAÇÃO EM 2/3. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. QUANTIDADE DAS DROGAS APREENDIDAS NÃO CONSIDERÁVEL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência desta Corte superior.
+2. O art. 42 da Lei de Drogas autoriza a fixação da pena-base acima do mínimo legal com fundamento no volume de estupefaciente apreendido, contudo, a pequena quantidade de droga não constitui fundamento idôneo a justificar o incremento da sanção inicial. Precedente.
+3. Constituindo a quantidade de droga elemento norteador na fixação da minorante do § 4º do art. 33 da Lei 11.343/2006, o volume pouco expressivo de entorpecente autoriza a aplicação do redutor em seu grau máximo.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 429.786/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/05/2018, DJe de 06/06/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA DA PENA. TERCEIRA FASE. § 4º DO ART. 33 DA LEI N. 11.343/2006. AUSÊNCIA DE FUNDAMENTO IDÔNEO. 47,6 G DE MACONHA E 28,3 G DE COCAÍNA. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO PLEITEADA EM 2/3. AUSÊNCIA DE REEXAME DE PROVAS. REGIME INICIAL. HEDIONDEZ. ART. 2º, § 1º, DA LEI N. 8.072/1990. INCONSTITUCIONALIDADE. PENA INFERIOR A 4 ANOS DE RECLUSÃO. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. PRECEDENTES. SÚMULAS 440/STJ E 718 E 719/STF.
+Agravo regimental improvido." (AgRg no AREsp 1.183.712/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/02/2018, DJe de 08/03/2018; sem grifos no original.)
+" ..
+DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DE REDUÇÃO. REGIME INICIAL FECHADO. MOTIVAÇÃO INIDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. SUBSTITUIÇÃO. REQUISITOS ATENDIDOS. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. O § 4º do artigo 33 da Lei 11.343/2006 dispõe que as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa.
+2. Neste caso, a eg. Corte de origem deixou de aplicar o benefício em seu patamar máximo sem fundamentar adequadamente a fração escolhida, sendo certo que, diante das circunstâncias do caso concreto, especialmente a pequena quantidade de drogas apreendidas em poder do acusado (73,3 g de maconha e 5,1 g de cocaína), autorizam a aplicação da fração redutora no patamar máximo de 2/3 (dois terços).
+ ..
+5. Agravo regimental parcialmente provido." (AgRg no AREsp 1.235.415/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/08/2018, DJe 17/08/2018; sem grifos no original.)
+Fixadas essas premissas, passo a redimensionar as penas a serem aplicadas ao ora Recorrente no tocante ao crime previsto no art. 33, caput, da Lei n.º 11.343/2006:
+ a) 1.ª Fase - mantida a pena-base fixada pelo Juiz de primeiro grau no patamar mínimo legal, qual seja: 5 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa;
+ b) 2.ª Fase - ausentes circunstâncias agravantes. Presente a atenuante da menoridade relativa, mas inaplicável à espécie em virtude do que dispõe a Súmula n.º 231/STJ, ficando a pena provisória mantida no mesmo patamar; e
+ c) 3.ª Fase - diminuo as reprimendas em 2/3 (dois terços), tendo em vista a minorante do art. 33, § 4.º, da Lei n.º 11.343/2006, alcançando a pena definitiva de 1 (ano) ano e 8 (oito) meses de reclusão e pagamento de 166 (cento e sessenta e seis) dias-multa, à razão do valor mínimo legalmente estabelecido.
+No tocante ao regime inicial de cumprimento de pena, pondero, preliminarmente, que, em 27/6/2012, o Tribunal Pleno da Corte Suprema, ao julgar o HC n.º 111.840/ES, Rel. Min. DIAS TOFFOLI, declarou incidentalmente, por maioria, a inconstitucionalidade do § 1.º do art. 2.º da Lei n.º 8.072/1990 (redação dada pela Lei n.º 11.464/07) e afastou a obrigatoriedade apriorística de se fixar o regime inicial fechado para os condenados por tráfico.
+Assim, independentemente do caráter hediondo do crime, deve o julgador, ao fixar o regime inicial de cumprimento da pena privativa de liberdade, observar o disposto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal.
+Na espécie, considerando as circunstâncias apreciadas na formulação da nova dosimetria, que estabeleceu pena inferior a 4 (quatro) anos de reclusão, a ausência de circunstâncias judiciais negativas, bem como a inexistência de grande quantidade de droga apreendida, o regime inicial de cumprimento de pena adequado é o aberto.
+Com igual conclusão, cito o seguinte precedente:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO. CONCURSO DE AGENTES. DOSIMETRIA. AUMENTO DA PENA. INCIDÊNCIA DE DUAS MAJORANTES. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA N. 443/STJ. REGIME INICIALMENTE FECHADO. GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTO INIDÔNEO. FIXAÇÃO DO REGIME INICIAL ABERTO. SÚMULAS N. 440/STJ, N. 718/STF E N. 719/STF. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A jurisprudência desta Corte firmou-se no sentido de que o deferimento do regime aberto se dá desde que preenchidos os requisitos constantes do art. 33, § 2º, alínea c, e § 3º, c.c. o art. 59 do Código Penal, quais sejam, a ausência de reincidência, condenação por um período não superior a 4 (quatro) anos e a inexistência de circunstâncias judiciais desfavoráveis.
+IV - Na presente hipótese, verifica-se que a pena-base foi fixada no mínimo legal, pois consideradas favoráveis todas as circunstâncias judiciais. Além disso, o paciente é primário e a pena final não excede quatro anos de reclusão. Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que não há razão idônea para não conceder o regime aberto para início de cumprimento da reprimenda.
+V - Nos termos do enunciado Sumular n. 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+VI - "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada." (enunciado n. 718 da Súmula do Pretório Excelso, DJU de 9/10/2003).
+VII - "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (enunciado da Súmula n. 440 desta Corte).
+Habeas corpus não conhecido. Todavia, concedo a ordem, de ofício, reduzindo a pena do paciente para 2 (dois) anos e 26 (vinte e seis) dias de reclusão e fixando o regime prisional aberto para início de cumprimento da reprimenda." (HC 388.967/SP, QUINTA TURMA, Rel. Ministro FELIX FISCHER, DJe. 09/05/2017; sem grifos no original.)
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao recurso especial, a fim de redimensionar as penas do Recorrente aos patamares de 1 (ano) ano e 8 (oito) meses de reclusão, em regime inicial aberto, e pagamento de 166 (cento e sessenta e seis) dias-multa, no valor mínimo legalmente estabelecido, devendo o Juiz da Execução verificar a presença dos requisitos para a substituição da pena privativa de liberdade por restritiva de direitos.
+Publique-se. Intimem-se.
