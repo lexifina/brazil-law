@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b" da Constituição Federal e art. 1.027, II, "a" do Código de Processo Civil, apresentado por REDENÇÃO FRIGORÍFICO DO PARÁ LTDA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que no momento do preenchimento da GRU Cobrança deverão ser indicados obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob a rubrica diversa.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte. Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ainda assim, constatou-se que a parte recorrente foi intimada do acórdão recorrido em 25/06/2018, sendo o recurso em mandado de segurança interposto somente em 18/07/2018.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 33 da Lei n.º 8.038/90, art. 1.003, § 5.º do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+Ressalte-se que se o encerramento antecipado do expediente ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão dos referidos dias.
+Nesse sentido, o AgInt no REsp 1664678/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 27/10/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
