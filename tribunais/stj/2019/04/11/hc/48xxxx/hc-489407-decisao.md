@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 10):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. EXTORSÃO. TENTATIVA. ART. 158, § Io, C/C ART. 14, II, TODOS DO CÓDIGO PENAL. MATERIALIDADE E AUTORIA COMPROVADAS. PRELIMINAR. PRESCRIÇÃO. OCORRÊNCIA. PENA EM CONCRETO. EXTINÇÃO DA PUNIBILIDADE EM RELAÇÃO A FERNANDO [NOME] FERNANDES [NOME]. CRIME COMETIDO POR DUAS OU MAIS PESSOAS. CAUSA DE AUMENTO DO § 1o DO ART. 158. DESISTÊNCIA INVOLUNTÁRIA. INOCORRÊNCIA. NÃO CONSUMAÇÃO POR CIRCUNSTÂNCIAS ALHEIAS À VONTADE DOS AGENTES. TENTATIVA PERFEITA. REDUÇÃO DA PENA EM GRAU MÍNIMO. AGRAVANTE DO ART. 62, I, DO CP. RÉU JORGE GEARA. LÍDER DO GRUPO. MANUTENÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. STF. HC 126.292. SÚMULA 122 TRF4.
+1. Na hipótese dos autos, transcorrido o prazo prescricional entre a data do recebimento da denúncia e da sentença, bem como considerando a pena em concreto, extingue-se a punibilidade de [NOME], forte no art. 107, IV, do Código Penal.
+2. O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida. Súmula 96, STF.
+3. Tentativa. Comprovadas a materialidade e a autoria dos delitos, mantém-se a condenação dos réus pela prática do crime tipificado no art. 158, § 1o, CP.
+4. No caso, o delito não se consumou tão somente em face de circunstância alheia à vontade do agente, qual seja a recusa da vítima.
+5. Inviável a substituição da pena privativa de liberdade por restritivas de direito quando não preenchidos os requisitos do art. 44 CP.
+6. Possível a execução provisória da sentença, consoante orientação firmada pelo STF, no HC nº 126.292/SP e Súmula 122-TRF4.
+O paciente está condenado pela prática do crime tipificado no art. 158, § 1º, c/c art. 14, II, do CP, às penas de 4 anos e 4 meses de reclusão, em regime inicial semiaberto, e de 60 dias-multa.
+A Defesa interpôs apelação, improvida pelo Tribunal local.
+Neste writ, busca-se liminar para suspender a execução provisória da pena, determinada nos autos da AC 0010247-92.2004.4.04.7100 e, no mérito, o reconhecimento da prescrição punitiva retroativa.
+Argumenta-se que O fato objeto da ação penal teria ocorrido em 2002, e a denúncia recebida em 22.06.2004, não se aplicando no caso os dispositivos da Lei 12.234-2010, observando-se o princípio da irretroatividade da Lei Penal, para agravar o acusado, somente admitida a retroatividade para beneficiar este (fl. 4), devendo ser aplicado o § 2º do art. 110 do CP, revogado pela Lei 12.234/2010, na análise da prescrição.
+A liminar foi indeferida (fls. 70-71),
+As informações forma prestadas (fls. 171-180).
+O Ministério Público Federal manifestou-se pelo não conhecimento do mandamus e, se conhecido, pela denegação da ordem (fls. 182-186).
+É o relatório.
+DECIDO.
+Pugna-se na impetração pela aplicação do § 2º do art. 110 do CP, revogado pela Lei 12.234/2010, na análise da prescrição, para reconhecimento da prescrição punitiva retroativa, sob a alegação de que o fato criminoso ocorreu antes da alteração legislativa de 2010.
+No tocante à prescrição, constou do acórdão impugnado (fls. 19-20, com destaques):
+O réu restou condenado como incurso nas sanções do art. 158, § 1o c/c art. 14, inciso II, ambos do Código Penal, à pena privativa de liberdade de 04 (quatro) anos e 04 (quatro) meses de reclusão.
+A defesa entende que a publicação da sentença recorrida efetivou-se em 26/07/2016 e, assim, já teria transcorrido prazo superior a 12 (doze) anos, uma vez que a denúncia foi recebida em 22/06/2004.
+Não assiste razão ao apelante.
+Compulsando os autos, verifico que a data apontada pela defesa corresponde ao momento em que a sentença foi disponibilizada em meio eletrônico (Boletim n.º 39/2016 - 26/07/2016, fl. 3461).
+A publicação da sentença, no entanto, consoante redação do art. 117, IV, do CP, se efetivou com o recebimento dos autos pelo escrivão da unidade judiciária em 17/06/2016 (fl. 3446).
+(..)
+Afasto, assim, a preliminar arguida.
+Na hipótese em exame, o réu foi condenado pela prática delitiva do art. 158, § 1º, c/c art. 14, II, do CP à pena reclusiva de 4 anos e 4 meses.
+Considerando que o delito foi praticado antes da revogação do § 2º do art. 110 do Código Penal, ainda assim, não se verifica a ocorrência da prescrição retroativa em favor do paciente [NOME].
+Nos termos dos §§ 1º e 2º do art. 110 do CP, vigentes à época dos fatos (janeiro de 2004, fl. 173), a prescrição, após a sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, deve ser regulada pela pena aplicada e pode ter por termo inicial data anterior à do recebimento da denúncia, hipótese em que, constatado o decurso do prazo, opera-se a prescrição retroativa.
+Consoante disposto no art. 109, III do CP, prescreve em 12 anos a pretensão punitiva se o máximo da pena é igual a 4 anos ou, sendo superior, não excede a 8 anos.
+No caso, consta das informações prestadas que o fato criminoso ocorreu em janeiro de 2004 (fl. 173). A denúncia foi recebida em 22/6/2004 (fl. 19), de modo que não evidenciado o transcurso de prazo superior a 12 anos, razão pela qual inexiste prescrição da pretensão punitiva estatal.
+De igual maneira, como bem observa o Tribunal de origem, a prescrição é interrompida pela publicação da sentença condenatória em cartório, o que no caso em tela ocorreu dia 17/6/2016 (fl. 19), assim, nota-se o decurso de menos de 12 anos entre o recebimento da denúncia (22/6/2004), primeiro marco interruptivo, e a sentença condenatória (17/6/2016), segundo marco interruptivo - inteligência do art. 117, IV do CP. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DELITO DE TRÂNSITO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MARCO INTERRUPTIVO. ART. 117, IV, DO CÓDIGO PENAL. PUBLICAÇÃO DA SENTENÇA EM CARTÓRIO. PRECEDENTES.
+1. A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que, nos termos do artigo 117, inciso IV, do Código Penal, a prescrição se interrompe na data da publicação da sentença em cartório, ou seja, de sua entrega ao escrivão, e não da intimação das partes ou publicação no órgão oficial.
+2. Agravo desprovido (AgRg no REsp 1680080 / GO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/11/2017, DJe 14/11/2017).
+ AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATOS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.
+I - A teor do verbete sumular n. 182/STJ, é manifestamente inadmissível o agravo que não impugna, especificamente, todos os fundamentos da decisão de admissibilidade (precedentes).
+II - Na hipótese dos autos, não se constata o advento da prescrição da pretensão punitiva retroativa, haja vista não ter havido o transcurso do prazo prescricional de 4 (quatro) anos entre o recebimento da denúncia (16/8/2010) e a publicação da sentença (12/8/2014). Destaca-se que o prazo a ser considerado é aquele do recebimento da sentença pelo escrivão em cartório (precedentes). Agravo regimental desprovido (AgRg no AREsp 916943 / RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/09/2016, DJe 05/10/2016).
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. POSSIBILIDADE. PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS. PENAL E PROCESSO PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MARCO INTERRUPTIVO. ART. 117, IV, DO CÓDIGO PENAL. PUBLICAÇÃO DA SENTENÇA EM CARTÓRIO. PRECEDENTES.
+1. A jurisprudência deste Superior Tribunal de Justiça, em atenção aos princípios da fungibilidade recursal e da instrumentalidade das formas, admite a conversão de embargos de declaração em agravo regimental.
+2. A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que, nos termos do artigo 117, inciso IV, do Código Penal, a prescrição se interrompe na data da publicação da sentença em cartório, ou seja, de sua entrega ao escrivão, e não da intimação das partes ou publicação no órgão oficial.
+3. Embargos declaratórios recebidos como agravo regimental, ao qual se nega provimento (EDcl no REsp 1398495 / PB, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/05/2015, DJe 27/05/2015).
+Quanto à execução provisória da pena, a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) no sentido de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Os fundamentos do voto condutor do acórdão no Supremo Tribunal Federal, de relatoria do Ministro Teori Zavascki, encontram-se sintetizados na seguinte ementa:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC 126292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 de 17-05-2016).
+Em recente julgado, ocorrido em 5/10/2016, o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44, por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo.
+Conquanto, recentemente, alguns ministros do Supremo Tribunal Federal tenham se pronunciado pela necessidade de fundamentação nas hipóteses em que o réu respondera ao processo em liberdade, não houve decisão do plenário nesse sentido, prevalecendo o entendimento acima esposado.
+Assim, exaurida a instância ordinária e, na pendência de recursos especial ou extraordinário, somente casuísticos efeitos suspensivos concedidos - por cautelar ou habeas corpus -, impedirão a execução provisória, ainda que concedido o direito de recorrer em liberdade até o trânsito em julgado da condenação.
+Ressalto que esta Corte permanece cumprindo a decisão mencionada do precedente do plenário da Suprema Corte, inobstante as fortes razões em contrário contidas em decisões da segunda turma daquela egrégia Corte - dispensada indicação casuística de necessidade da cautelar, pois assim não exigida pelo precedente aqui seguido.
+Pois bem, consoante informações prestadas pelas instâncias de origem, não obstante a apresentação de Recurso Especial e Recurso Extraordinário (fl. 179), não há notícia de concessão de efeito suspensivo aos referidos recursos.
+Não há, portanto, falar em constrangimento ilegal, passível da concessão de habeas corpus, estando o acórdão atacado em consonância com a jurisprudência desta Corte Superior.
+Ante o exposto, denego o habeas corpus.
+Comunique-se.
+Publique-se.
+Intimem-se.
