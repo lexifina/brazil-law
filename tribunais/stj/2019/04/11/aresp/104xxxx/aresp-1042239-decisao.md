@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. QUITAÇÃO CONSTANTE DE ESCRITURA PÚBLICA. PRESUNÇÃO DE VERACIDADE. CONSTATAÇÃO, PELO TRIBUNAL DE ORIGEM DA AUSÊNCIA DE PAGAMENTO INTEGRAL. ALTERAÇÃO DO JULGADO. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Scavone Imóveis Ltda. - EPP - contra a decisão de fls. 467-475 (e-STJ), proferida em juízo provisório de admissibilidade, na qual foi negado seguimento ao seu recurso especial.
+O recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, foi deduzido contra acórdão assim ementado (e-STJ, fl. 258):
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE RESOLUÇÃO CONTRATUAL E IMISSÃO DE POSSE. AGRAVO RETIDO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA ORAL, CONSISTENTE NO DEPOIMENTO PESSOA DA PROPRIETÁRIA DA IMOBILIÁRIA REQUERIDA E MATRÍCULA DO IMÓVEL SUFICIENTES PARA COMPROVAR A MANEIRA QUE SE REALIZOU O FINANCIAMENTO. RESOLUÇÃO CONTRATUAL. DIFERENCIAÇÃO EM RELAÇÃO AO TERCEIRO COMPRADOR DE BOA-FÉ E IMOBILIÁRIA QUE CONSTOU COMO COMPRADORA QUE AGIU DE MÁ-FÉ APROPRIANDO-SE DE QUANTIA QUE DEVERIA SER REPASSADA AO VENDEDOR. O VALOR CONSTANTE NA ESCRITURA PÚBLICA NÃO ESTÁ CORRETO. DESCONFORMIDADE COM A PROVA TESTEMUNHAL E PRÓPRIOS DOCUMENTOS CONFECCIONADOS PELA IMOBILIÁRIA. PRESUNÇÃO RELATIVA. ENTENDIMENTO DO STJ. RESOLUÇÃO QUE NÃO PODE ATINGIR O TERCEIRO DE BOA-FÉ. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO PARA RESOLUÇÃO DO CONTRATO EM RELAÇÃO À IMOBILIÁRIA COM SUA CONDENAÇÃO A RESTITUIR A QUANTIA INDEVIDAMENTE APROPRIADA EM DETRIMENTO DO DEVEDOR.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, além de divergência jurisprudencial, a recorrente apontou a violação do art. 215 do Código Civil.
+Sustentou, em síntese, que a quitação dada em escritura pública gera presunção relativa de pagamento, o que afastaria a necessidade de provar o pagamento.
+Brevemente relatado. Decido.
+O Tribunal de origem assim se manifestou em relação à matéria controvertida:
+Apesar de constar na escritura pública de compra e venda (fls. 13/17) a "quitação plena, geral e irrevogável" a própria representante da imobiliária afirmou que o pagamento foi realizado posteriormente. Quer dizer, se o pagamento foi posterior à anuência do autor, deveria a requerida ter exigido o recibo para o fim de comprovar a quitação.
+Conforme já analisado, o valor da venda de R$ 125.000,00 (cento e vinte e cinco mil reais) o vendedor [NOME] recebeu somente R$ 60.291, 93 (sessenta mil, duzentos e noventa e um reais e noventa e três centavos), ou seja, falta receber R$ 64.708,07 (sessenta e quatro mil, setecentos e oito reais e sete centavos).(e-STJ, fls. 278-279).
+Nessa linha, tendo o Tribunal analisado o desenrolar da avença entre as partes e concluído que, apesar da presunção que goza a quitação dada em escritura pública, não houve, na hipótese, integralização do valor devido pelo imóvel, uma possível alteração das conclusões do acórdão recorrido importaria em reexame de matéria fática, o que é vedado pelo óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
