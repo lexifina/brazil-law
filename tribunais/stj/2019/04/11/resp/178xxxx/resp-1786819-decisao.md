@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial, apresentado por CLARICE ERMINA FELTES e OUTROS, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de CLARICE ERMINA FELTES e OUTROS, o recurso especial não foi instruído com a guia de custas devidas ao Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Não se desconhece o diferimento de custas realizado pelo tribunal de origem; porém, as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei n. 11.636/2007.
+No entanto, entender que a legislação ou ato judicial local pudesse postergar o pagamento de uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma temporária, prática vedada pela Constituição da República (art. 151, III).
+Nesse sentido, o AgInt no REsp 1668251/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 24/08/2018 e o AgInt no AREsp 1216172/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/08/2018.
+Ainda, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. As partes, embora regularmente intimadas para sanar referido vício, não regularizaram, uma vez que, há divergência entre o número constante no código de barras das guias de preparo (fl. 313) e seu respectivo comprovante de pagamento, juntado à fl. 314.
+Registre-se que este STJ consolidou o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no AREsp 1132940/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/08/2018).
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor das partes recorrentes, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
