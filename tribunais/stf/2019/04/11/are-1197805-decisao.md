@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. CREDITAMENTO. OPERAÇÕES DE COMPRA REALIZADAS COM EMPRESA DECLARADA INIDÔNEA. VERIFICAÇÃO DE COBRANÇA PRÉVIA QUE ATRIBUA CRÉDITO PASSÍVEL DE COMPENSAÇÃO EM OPERAÇÃO SUBSEQUENTE. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO DESPROVIDO.
+     Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO. MANDADO DE SEGURANÇA. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+    CARÊNCIA DA AÇÃO MANDAMENTAL. Possibilidade de apreciação do substrato da demanda. Controvérsia circunscrita na comprovação de boa-fé e a realização das transações. Extensão e profundidade da matéria controvertida qualifica a ação mandamental. Solução centrada na mera análise da documentação. Escolha de via adequada. Sentença anulada.
+    EFEITO TRANSLATIVO DO RECURSO DE APELAÇÃO. Aplicação do art. 515, §3º, do CPC ao caso dos autos é corolário da constatação de nulidade da sentença e da maturidade para julgamento do mérito.
+    TRIBUTÁRIO. CRÉDITO DE ICMS. DECLARAÇÃO DE INIDONEIDADE DE NOTAS FISCAIS. Declaração de inidoneidade ocorreu anos após a realização da transação mercantil. Comprovação da aquisição dos bens. Boa-fé demonstrada. Inexistência de infração tributária. Meios de prova informam que o fornecedor teve declarada a inidoneidade anos após a realização das operações. Inaplicabilidade da regra do artigo 136 do CTN. Precedente do STJ. Aplicação da Súmula 509 do STJ. Concessão da segurança.
+    RECURSO PROVIDO.“ (Doc. 11, p. 23).
+    Nas razões do apelo extremo, a agravante sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 155, § 2º, I, da Constituição Federal. Argumenta que não é possível, com base no princípio da não cumulatividade, o reconhecimento de crédito de ICMS a ser compensado em operação posterior, quando decorrente de operação pretérita realizada por empresa declarada inidônea.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    No caso dos autos, para afastar a admissão de cobrança prévia de ICMS a propiciar crédito passível de compensação em operação subsequente ou de situação que represente esse fato com base no princípio da boa-fé, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (artigo 136 do CTN), o que se revela inviável em sede de recurso extraordinário por configurar ofensa indireta à Constituição Federal, bem como o incursionamento no contexto fático-probatório engendrado nos autos, o que também não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Nesse sentido, transcrevo a ementa do julgamento do AI 751.111-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 11/2/2016:
+    “DIREITO TRIBUTÁRIO. ICMS. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. APROVEITAMENTO DE CRÉDITOS. NOTAS FISCAIS POSTERIORMENTE DECLARADAS INIDÔNEAS. COMPROVAÇÃO DA REALIZAÇÃO DA OPERAÇÃO COMERCIAL. INEXISTÊNCIA DE PAGAMENTO DO TRIBUTO. SÚMULA 279/STF. DESCABIMENTO.
+    1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes.
+    2. Agravo regimental a que se nega provimento.”
+    Sobre o tema, destaco, ainda, as seguintes decisões: ARE 1.031.337-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 21/9/2017; ARE 604.873-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 3/4/2009; ARE 1.072.943, Rel. Min. Celso de Mello, DJe de 22/11/2017; ARE 1.072.721, Rel. Min. Alexandre de Morais, DJe de 14/9/2017; ARE 978.785, Rel. Min. Edson Fachin, DJe de 29/11/2016; ARE 954.282, Rel. Min. Gilmar Mendes, DJe de 28/3/2016; AI 733.762, Rel. Min. Dias Toffoli, DJe de 25/10/2012; ARE 693.054, Rel. Min. Ricardo Lewandowski, DJe de 4/9/2012; entre outros.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 11 de abril de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
