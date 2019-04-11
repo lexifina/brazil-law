@@ -1,0 +1,15 @@
+DECISÃO
+Vistos.
+Fls. 340/342e - Trata-se de Embargos de Declaração opostos contra decisão monocrática de minha lavra, mediante a qual determinei a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, o procedimento previsto no art. 1.040 do Código de Processo Civil (fls. 336/338e).
+Sustenta a Embargante haver omissão, contradição e obscuridade, porquanto o Recurso Especial não trata de devolução de valores recebidos através de medida liminar, submetido ao regime dos recursos repetitivos, mas da concessão de pensão por morte, razão pela qual requer o prosseguimento do feito, com o julgamento do Recurso Especial.
+Feito breve relato, decido.
+Não assiste razão à Embargante.
+Da análise dos autos, verifica-se que o tribunal de origem determinou a suspensão do recurso especial do INSS (fls. 265/279e), nos seguintes termos (fl. 286e):
+Considerando a seleção do(s) seguinte(s) Tema(s):
+Tema STJ n0 692 - Controvérsia: "se deve o litigante beneficiário do Regime Geral da Previdência - RGPS devolver os valores percebidos do INSS em virtude de decisão judicial precária, que venha a ser posteriormente revogada ".
+Impõe-se a suspensão do presente recurso até a publicação do(s) acórdão(s) do(s) recurso(s) representativo(s) da controvérsia, consoante a sistemática prevista no art. 543-C do CPC e artigos 307 a 313 do Regimento Interno do TRF 4a Região. Remetam-se os autos à Secretaria de Recursos.
+Com efeito, o recurso especial do INSS trata de matéria afetada pela Primeira Seção do Superior Tribunal de Justiça, em 14.11.2018, em sede de questão de ordem nos Recursos Especiais n. 1.734.685/SP, n. 1.734.627/SP, n. 1.734.641/SP, n. 1.734.647/SP, n. 1.734.656/SP e n. 1.734.698/SP, da relatoria do Ministro Og Fernandes, onde foi proposta revisão da tese firmada no Tema repetitivo n. 692/STJ quanto à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS em virtude de decisão judicial precária.
+Ademais, o Rel. Min. Og Fernades determinou "a suspensão do processamento de todos os processos ainda sem trânsito em julgado, individuais ou coletivos, que versem acerca da questão submetida à revisão pertinente ao Tema n. 692/STJ e tramitem no território nacional, com a ressalva de incidentes, questões e tutelas, que sejam interpostas a título geral de provimentos de urgência nos processos objeto do sobrestamento". Publicado o acórdão, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do Código de Processo Civil:
+Impende destacar, portanto, não ser possível cindir o julgamento dos Recursos Especiais, de modo a julgar apenas aquele que não se refere à matéria afetada ao rito dos Recursos Repetitivos para, somente após, determinar o retorno do processo ao Tribunal de origem, à luz do que dispõe o art. 1.040 do Código de Processo Civil.
+Posto isso, ACOLHO os embargos de declaração, para fins de esclarecimentos, sem atribuir-lhes efeitos infringentes.
+Publique-se e intime-se.
