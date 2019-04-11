@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO DE DIREITO DO FORO CENTRAL BARRA FUNDA - DIPO 3 - SÃO PAULO - SP, o suscitante, e o JUÍZO FEDERAL DA 7ª VARA CRIMINAL DA SJ/SP, o suscitado.
+Na origem, constata-se a abertura de IPL para apurar possível crime previsto no art. 334-A, §1º, IV, do Código Penal - apreensão de 338 maços de cigarros de origem estrangeira, de comercialização proibida no território nacional.
+O Juízo Federal declinou da competência para analisar o feito e determinou a remessa dos autos à Justiça Estadual (e-STJ fl. 39)
+De seu turno, a Justiça Estadual suscitou o presente conflito ao seguinte entendimento:
+"(..) de acordo com o novo entendimento jurisprudencial, a competência para a persecução penal é fixada independente de comprovação da transnacionalidade da conduta do agente para a configuração do delito de descaminho e contrabando (..) (e-STJ fl. 50).
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 62-64).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar: (..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Há algum tempo, a jurisprudência desta Corte Superior caminhava no sentido de que a definição da competência para processar e julgar o delito de contrabando/descaminho dependeria de existir indícios da transnacionalidade. Em outras palavras, o simples fato do bem apreendido ser de origem estrangeira não justificaria, por si só, a fixação da competência na Justiça Federal, sendo necessário, para tanto, ao menos indícios da transnacionalidade na conduta delituosa.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CONTRABANDO. APREENSÃO DE CIGARROS DE ORIGEM ESTRANGEIRA. AUSÊNCIA DE INDÍCIOS DE INTERNACIONALIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+PRECEDENTES.
+1. O simples fato do bem apreendido ser de origem estrangeira não justifica, por si só, a fixação da competência na Justiça Federal, sendo necessário, para tanto, ao menos indícios da transnacionalidade do delito.
+2. Nos casos em que a única demonstração da internacionalidade da conduta delituosa é a declaração do réu quando da arguição da tese de incompetência do juízo, por serem os produtos apreendidos oriundos do Paraguai -, a orientação do Superior Tribunal de Justiça é no sentido de que à Justiça Federal não cabe a persecução penal em que não comprovada a transnacionalidade do iter criminoso, sendo insuficiente para essa aferição a confissão do acusado. Precedente do STJ (STJ, CC 107.001/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, DJe de 18/11/2009).
+3. Conflito conhecido para declarar competente o Juízo de Direito da Única da Comarca de Angélica - MS, ora suscitado." (CC 149.750/MS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 03/05/2017, grifou-se)
+Contudo, a Terceira Seção, em nova discussão sobre o tema, modificou tal entendimento, passando a adotar posição no sentido de que "o crime de contrabando, tal como o delito de descaminho, é de competência federal, independentemente da existência de indícios de transnacionalidade na conduta" (CC 160.748/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 26/09/2018, DJe 04/10/2018).
+Do voto condutor de S. Excelência, destaco os fundamentos:
+"(..) Primeiro, porque o crime de contrabando, tal como o delito de descaminho, tutela prioritariamente interesse da União, que é a quem compete privativamente (arts. 21, XXII e 22, VII, ambos da CF) definir os produtos de ingresso proibido no país, além de exercer a fiscalização aduaneira e das fronteiras, mediante atuação da Receita Federal e Polícia Federal.
+Segundo, para preservar a segurança jurídica.
+Ora, como circunstanciado acima, a jurisprudência desta Corte, na esteira do entendimento firmado na Súmula 151/STJ, tradicionalmente sinalizava que a competência para o julgamento de tais delitos seria da Justiça Federal, afigurando-se desarrazoada a adoção de entendimento diverso, notadamente sem um motivo jurídico relevante para tanto
+E assim restou firmada a seguinte ementa:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. CONTRABANDO DE CIGARROS. DISSENSO ACERCA DA NECESSIDADE DE INDÍCIOS DE TRANSNACIONALIDADE NA CONDUTA DO AGENTE PARA FINS DE FIXAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. DESNECESSIDADE. SÚMULA 151/STJ. ORIENTAÇÃO QUE DEVE PREVALECER, A PAR DE PRECEDENTES RECENTES EM SENTIDO DIVERSO. CRIME QUE TUTELA INTERESSE DA UNIÃO.
+1. A jurisprudência desta Corte orientava para a competência da Justiça Federal para o julgamento dos crimes de contrabando e descaminho (Súmula 151/STJ), até que julgado (CC n. 149.750/MS, de 26/4/2017), fundado em conflito que debateu crime diverso (violação de direito autoral), modificou a orientação sedimentada, para limitar a competência federal, no caso de contrabando, às hipóteses em que for constatada a existência de indícios de transnacionalidade na conduta do agente.
+2. Consolidada a nova compreensão, sobreveio o julgamento do CC n. 159.680/MG (realizado em 8/8/2018), no qual a Terceira Seção entendeu pela competência federal para o julgamento do crime de descaminho, ainda que inexistentes indícios de transnacionalidade na conduta.
+3. Tal orientação, no sentido da desnecessidade de indícios de transnacionalidade, deve prevalecer não só para o crime de descaminho, como também para o delito de contrabando, pois resguarda a segurança jurídica, na medida em que restabelece a jurisprudência tradicional; além do que o crime de contrabando, tal como o delito de descaminho, tutela prioritariamente interesse da União, que é a quem compete privativamente (arts. 21, XXII e 22, VII, ambos da CF) definir os produtos de ingresso proibido no país, além de exercer a fiscalização aduaneira e de fronteira.
+4. Conflito conhecido para declarar a competência do Juízo Federal da 4ª Vara Criminal da Seção Judiciária do Estado de São Paulo, o suscitante."
+Nesse diapasão, adoto a mais recente orientação jurisprudencial e confirmo a competência da Justiça Federal para apuração, processamento e julgamento dos delitos de contrabando/descaminho.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 7ª Vara Criminal da SJ/SP, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
