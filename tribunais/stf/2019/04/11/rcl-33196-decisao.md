@@ -1,0 +1,30 @@
+Decisão: Trata-se de reclamação formulada contra decisão proferida pela Turma Recursal da Seção Judiciária, no Procedimento do Juizado Especial Cível nº 5003719-34.2016.4.04.7003, que indeferiu o pleito de aposentadoria por idade rural.
+    O reclamante sustenta que a decisão reclamada teria contrariado a autoridade da Súmula Vinculante 14.
+    Argumenta que nos autos da ação, na qual requer a aposentadoria por idade, o juízo reclamado teria julgado o pedido com fundamento em provas ilícitas. Alega a falta de prestação jurisdicional pois a sentença carece de fundamentos, uma vez que não concedeu a parte, ora reclamante, o contraditório e a ampla defesa.
+    Sustenta a não observância dos argumentos levados em recuso inominado à Turma Recursal incidindo em “um grave erro de procedimento que termina num grave erro de julgamento” (eDOC 1, p. 5).
+    Com amparo nos argumentos acima sintetizados requer a procedência desta ação para suspender o processo na origem.
+    Dispenso o pedido de informações, bem como remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RI/STF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    Defiro o benefício da justiça gratuita.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A jurisprudência sedimentada desta Corte compreende que a estrita pertinência entre o ato reclamado e o parâmetro de controle decisório é pressuposto de abertura da via reclamatória, de modo que o remédio não se revela adequado na hipótese em que se persegue pronunciamento que desborde do ato apontado como paradigma:
+    “Esta Corte assentou que constitui pressuposto de cabimento da reclamação a identidade material entre a decisão reclamada e o julgado tido como paradigma.” (Rcl 24126 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/11/2016)
+    “É inviável a reclamação que não demonstra a estrita aderência temática entre o ato reclamado e as decisões proferidas pelo Supremo Tribunal Federal, tidas como desrespeitadas.” (Rcl 18867 AgR, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 16/09/2016)
+    “A jurisprudência do Supremo Tribunal Federal assentou a ser incabível reclamação que trate de situação que não guarda relação de estrita pertinência com o parâmetro de controle ou quando fundada na teoria da transcendência dos motivos determinantes de acórdão com efeito vinculante.” (Rcl 7672 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 02/08/2016)
+    No caso concreto, articula-se violação à Súmula Vinculante 14:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.”
+    Observo que o verbete trata exclusivamente do indispensável acesso, por parte da defesa técnica, aos elementos de prova encartados, como forma de se garantir o exercício à ampla defesa do representado e repelir qualquer procedimento apto a causar perplexidade ou surpresa.
+    No caso em análise, consoante se verifica do acórdão resultante do desprovimento do recurso inominado, diversamente do afirmado pelo reclamante, com base nas provas materiais e nos testemunhos do autos, o juízo reclamado concluiu pela falta de elementos capazes de aferir o labor, na condição de segurada especial, para averbação de tempo e conceder o direito à aposentadoria.
+    Além disso, sucessivos recursos foram interpostos das decisões proferidas e todos foram respondidos com a devida fundamentação. Eis o fundamento da Turma Recursal (eDOC 23, p. 9):
+    “No caso dos autos há prova material da condição de rurícola do marido da autora no intervalo de 1967 até 1981, constituída pelos registros civis de sua família, contudo, não há corroboração testemunhal deste labor rural, haja vista que a testemunha que os conhece há mais tempo, presenciou o seu trabalho rurícola a partir do ano de 1982.
+    (…)
+    Em suma, o contexto dos autos não permite inferir que a parte autoria tenha laborado na condição de segurança especial em nenhum dos intervalos que visa reconhecer, não podendo prosperar o seu pedido de averbação.”
+    Portanto, como se depreende, a situação específica narrada nos autos em nenhum momento foi tratada na Súmula Vinculante nº 14, razão pela qual ela não guarda relação de estrita pertinência com o ato reclamado, necessária ao cabimento da reclamação. Reforço, por oportuno, inadmissível a utilização da reclamação como sucedâneo recursal. Nesse sentido:
+    “Agravo regimental em reclamação. Processual Penal. Violação da Súmula Vinculante nº 14 da Corte. Não ocorrência. Inadequação da ação constitucional para se obter o reexame do conjunto fático-probatório da ação principal e chegar à conclusão pretendida de que os autos de interceptação telefônica estariam incompletos. Precedentes. Renovação do prazo para apresentação de resposta à acusação. Questão que não guarda identidade fática com o que foi decidido na súmula vinculante em questão. Ausência de aderência estrita. Agravo regimental não provido.” (Rcl 27.793-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 13.11.2017)
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. INDEFERIMENTO DE ACESSO IRRESTRITO AOS AUTOS DE PROCEDIMENTO INVESTIGATÓRIO. VIOLAÇÃO DA SÚMULA VINCULANTE 14. NÃO OCORRÊNCIA. AUSÊNCIA DE ESTRITA ADERÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO. (Rcl 29.811-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 22.10.2018)”
+    Ante o exposto, nos termos dos art. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação.
+    Publique-se. Intime-se.
+    Brasília, 11 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
