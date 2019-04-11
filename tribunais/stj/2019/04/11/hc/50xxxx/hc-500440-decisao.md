@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de REGIANE APARECIDA MACHADO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que a paciente foi presa, em 19/12/2018, em cumprimento a mandado de prisão, pela suposta prática do crime de tráfico de drogas e de associação para o tráfico.
+Inconformada, a defesa impetrou habeas corpus com pedido liminar na Corte estadual alegando que a decisão de indeferimento da liberdade provisória não se encontrava suficientemente fundamentada. Ressaltou a defesa, ainda, que a paciente possui filho menor de 7 (sete) anos de idade.
+A ordem foi, contudo, denegada pelo Tribunal a quo (e-STJ fl. 64) nestes termos:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO (ART. 33, , E ART. 35, AMBOS DA LEI Nº 11.343/2006). LAVAGEM DE CAPUT CAPUT, DINHEIRO (ART. 1º, C/C §1º, INCISO II, DA LEI 9.613/98). PRISÃO PREVENTIVA DECRETADA. ALEGADA AUSÊNCIA DOS SEUS REQUISITOS AUTORIZADORES. INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE DELITIVA. SEGREGAÇÃO CAUTELAR NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA INFRAÇÃO. PACIENTE QUE TERIA, EM TESE, EFETIVA PARTICIPAÇÃO NA ASSOCIAÇÃO INVESTIGADA. INSUFICIÊNCIA DA APLICAÇÃO DE OUTRAS MEDIDAS CAUTELARES MENOS GRAVOSAS. RÉ REINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ORDEM CONHECIDA E DENEGADA.
+Na presente impetração, a defesa reafirma as alegações antecedentes, argumentando que "a Paciente vem sofrendo constrangimento ilegal em decorrência da ausência dos requisitos autorizadores da segregação cautelar, bem como por se tratar de trabalhadora, alinhado ao fato ainda de possui 01 (um) filho menor de 07 (sete) anos de idade sob a sua guarda, que depende única e exclusivamente da Reclamante, corroborado ainda que o Pai da menor também encontra-se preso na mesma operação" (e-STJ fl. 4).
+Sustenta que "a demonstração efetiva de que houve violação da autoridade de decisão do Supremo Tribunal Federal, adotada no HC 143.641/SP, é suficiente para autorizar a concessão do provimento judicial liminar consistente na determinação do cumprimento da decisão descumprida pela Terceira Câmara do Tribunal de Justiça do Paraná" (e-STJ fl. 7).
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, a substituição da custódia cautelar em prisão domiciliar.
+É, em síntese, o relatório.
+Depreende-se dos autos que o presente writ impugna decisão proferida pelo Tribunal de origem, no HC n. 0006055.2019.8.16.0000 (e-STJ fl. 64/76).
+Ocorre que a causa de pedir e o pedido deste habeas corpus são idênticos aos do HC n. 500.922/SP, impetrado nesta Corte e também atribuído a esta relatoria, que igualmente impugna a mesma decisão prolatada pelo Tribunal de Justiça de São Paulo no habeas corpus originário de mesmo número.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração do HC n. 500.922/SP, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
