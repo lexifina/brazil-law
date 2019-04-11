@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO CALUNIOSA. TRIBUNAL A QUO QUE ENTENDEU ESTAR CONFIGURADO O ESPECIAL FIM DE AGIR DA RÉ. AFERIÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DO CP. CIRCUNSTÂNCIA JUDICIAL NEGATIVADA. CONSEQUÊNCIAS DO DELITO. ABALO PSICOLÓGICO SOFRIDO PELA CRIANÇA. FUNDAMENTO CONCRETO QUE TRANSCENDE O TIPO PENAL. IDONEIDADE. MANUTENÇÃO DA PENA-BASE.
+Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão que conheceu do seu agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+A ementa do decisum agravado merece transcrição (fl. 940):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DENUNCIAÇÃO CALUNIOSA. TRIBUNAL A QUO QUE ENTENDEU ESTAR CONFIGURADO O ESPECIAL FIM DE AGIR. AFERIÇÃO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. VIOLAÇÃO DO ART. 59 DO CP. CIRCUNSTÂNCIA JUDICIAL NEGATIVADA: CONSEQUÊNCIAS DO DELITO. FUNDAMENTO CONCRETO. IDONEIDADE. MANUTENÇÃO DA PENA-BASE.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas razões do regimental, alega a agravante que a matéria é estritamente jurídica e prescinde de qualquer revolvimento de provas, já que a (in)existência do elemento normativo do tipo penal que foi atribuído à agravante encontra-se devidamente ventilada tanto no bojo do acórdão reprochado quanto na sentença absolutória de primeiro grau (fl. 953).
+Sendo assim, sustenta que não seria o caso de incidência da Súmula 7/STJ, pois não se postulou o reexame de provas, mas apenas a revaloração das provas constantes da decisão monocrática.
+Defende, ainda, que a circunstância de que a agravante teria feito seu filho mentir foi o principal argumento utilizado para condenação. Ou seja, o mesmo fundamento utilizado para condenar foi utilizado para exasperar a pena-base, fato que reclama a reforma da decisão monocrática (fl. 958).
+Pede o provimento do agravo, a fim de que se conheça do recurso especial em todos os seus termos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Ab initio, a agravante alegou que não seria o caso de aplicação da Súmula 7/STJ, já que os elementos necessários para aferir que não agiu com dolo estão presentes na sentença e no acórdão recorridos.
+Contudo, entendo que a insurgência não merece guarida.
+Ora, transcrevo trecho do acórdão recorrido em que fica claro que, ao analisar os fatos e as provas dos autos, o Tribunal de origem não teve dúvidas acerca da existência do dolo especial de agir da ré, uma vez que o filho do casal expressamente relatou ter sido abusado por seu pai apenas em razão do pedido de sua mãe, neste sentido (fls. 732/736 - grifo nosso):
+ ..  A questão é a presença de elemento volitivo específico desse tipo penal, que é a imputação de crime a alguém de quem se tem ciência ser inocente.
+De acordo com a sentença de primeiro grau, a apelada teria dado causa à investigação policial ante a suspeita da ocorrência dos crimes e somente em momento posterior se verificou que esses não teriam se realizado. Contou da sentença que, sic: "É evidente que no caso em tela a ré não tinha efetivo conhecimento de que o Antônio Carlos era inocente, pois as consequências da instauração de um Inquérito Policial a ser investigado um crime de tamanha repugnância, traz reflexos diretamente na criança, a maior vítima nesse contexto, não havendo razões, nesse caso, para falsa imputação que atingiria a família como um todo." (mov 166.1).
+No entanto, não se sustenta o argumento de que a apelada não tinha conhecimento da inocência do ora apelante, porque sabia quais as consequências da acusação, vez que submeteria o filho de ambos a situações constrangedoras, com realização de exames e entrevistas para que se pudesse apurar se o fato ocorreu, e em caso afirmativo, como teria se desenvolvido.
+Isso porque, a afirmação no sentido de que uma mãe ou um pai jamais teriam uma atitude que pudesse trazer consequências negativas ao seu filho, reflete mero juízo de valor do sentenciante que não pode embasar, por si só, eventual sentença absolutória ou condenatória. Há necessidade de se valorar as provas produzidas durante a instrução, de forma detida e adequada.
+Dessa maneira, tem-se que algumas das testemunhas ouvidas em Juízo foram claras ao apontar que o casal passou por um processo de separação litigioso e que não entrava em acordo a respeito da regulamentação das visitas do pai ao filho.
+Várias das testemunhas ouvidas são profissionais da área de apoio à criança e ao adolescente, que, em virtude das demandas existentes na família, já conheciam a situação e acompanhavam a criança. Algumas delas foram chamadas para interceder quando da suspeita de que o menor teria sido vítima de violência por parte do pai.
+Essas profissionais foram claras em afirmar que a criança lhes relatou que os fatos atribuídos ao pai não eram verdadeiros e que apenas teria dito que as situações ocorreram a pedido da mãe e, que a criança se encontrava em sofrimento psicológico por ter que mentir.
+É o que se verifica dos depoimentos da assistente social [NOME] e da psicóloga [NOME], que entrevistaram a criança em um lugar neutro, longe do pai ou da mãe, oportunidade em que essa confessou ter mentido a pedido da sua genitora.
+ ..
+Do quadro traçado acima, o especial fim de agir da apelada, qual seja, de imputar fato dito como delito a quem sabia não o ter cometido, fica demonstrado, já que a criança relatou de forma explícita que apenas mencionou ter sido abusada pelo pai a pedido da mãe e que temia ser repreendida por ela se assim não agisse.
+Ainda, cabe destacar que tal situação foi juntada aos autos do processo de separação de corpos do casal, tendo sido utilizada como argumento pela apelada para embasar pedido de suspensão do exercício do direito de visitas do pai, o qual foi indeferido (mov. 1.7, fls. 81/82).
+De consequência, entendo que não pairam dúvidas de que a apelada agiu com dolo ao denunciar caluniosamente o ora apelante da prática de crime que sabia inocorrente, sendo caso de se julgar procedente a denúncia, para condenar [NOME] como incursa nas sanções do artigo 339, do Código Penal.
+ ..
+De fato, para se chegar a conclusão diversa da que chegou o Tribunal de origem, de que não ficou comprovado o especial fim de agir, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial.
+Ademais, a pretensão recursal não é de revaloração das provas, mas de análise do seu conteúdo, mostrando-se correta a aplicação da Súmula 7/STJ.
+Aduziu, ainda, a agravante que o principal argumento empregado para majorar a pena-base foi a circunstância de que teria feito seu filho mentir, o que não poderia ter ocorrido, pois também foi o principal fundamento para a condenação.
+Trago, mais uma vez, os argumentos operados pela Corte a quo para macular as consequências do delito (fl. 737):
+ ..
+O delito trouxe consequências além daquelas previstas no tipo penal, uma vez que restou comprovado que o filho do apelante e da apelada, de apenas 05 anos de idade, sofreu abalo psicológico advindo da conduta exclusiva da apelada, que o forçou a mentir e o deixou em dilema externado sobre os conceitos de verdade e de mentira, conflito esse narrado de forma detalhada pelo serviço de psicologia e de assistência social do Juízo.
+ ..
+Ora, ao contrário do que defende a agravante, entendo que o abalo psicológico sofrido pelo filho do casal foi o principal fundamento da instância ordinária ao negativar o referido vetor. Tanto é que se afirma expressamente que a consequência que transcende ao tipo penal é o abalo psicológico sofrido pela criança, o que se deu em decorrência do fato de a genitora obrigar o filho a mentir.
+Portanto, mais uma vez, sem razão a agravante.
+Ante o exposto, nego provimento ao agravo regimental.
