@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 495.037, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que a paciente teve sua prisão preventiva decretada e foi denunciada pela suposta prática do crime previsto no art. 121, § 2º, II e IV, c/c o art. 14, II, do Código Penal.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado do Ceará, denegado. Em seguida, sobreveio impetração de HC no Superior Tribunal de Justiça. O Relator do HC 495.037, Min. Reynaldo Soares Da Fonseca, indeferiu a cautelar.
+    4. Neste habeas corpus, a parte impetrante alega, em síntese, que “já se passou quase 01 (um) ano desde a prisão da paciente e ainda não houve o início da instrução processual, acarretando verdadeira aplicação antecipada da pena, que se encontra com sua liberdade cerceada mesmo preenchendo todos os requisitos para responder ao processo em liberdade”.
+    5. Prossegue a impetração para sustentar que a decisão que decretou a “prisão preventiva não aponta os riscos concretos de sua liberdade, limitando-se a indicar argumentos genéricos e desprovidos de idoneidade”; e afirma que “a paciente é primária, portadora de bons antecedentes, tem endereço fixo (nova residência distante do endereço da vítima), além de ter profissão definida”.
+    6. A defesa requer o “RELAXAMENTO DA PRISÃO da paciente”; e, “Não sendo o caso de relaxamento da prisão, que seja REVOGADA A PRISÃO PREVENTIVA”.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas.
+    9. Tenho assentado em sucessivos julgamentos na Primeira Turma do Supremo Tribunal Federal (STF) que, nas hipóteses envolvendo crimes praticados com especial violência ou grave ameaça à pessoa, o ônus argumentativo em relação à periculosidade concreta do agente é menor. Veja-se, nessa linha, o HC 121.208, a que fui designado redator para o acórdão (Sessão de 19.05.2015).
+    10. Quanto ao alegado excesso de prazo na formação da culpa, a orientação jurisprudencial do STF é no sentido de que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    11. No caso de que se trata, as peças que constam dos autos não evidenciam desídia ou injustificada demora por parte do Poder Judiciário que autorize a concessão da ordem de ofício, notadamente se se considerar as informações apontadas pelo Tribunal Estadual, de que foi instaurado incidente de insanidade mental “em 25/07/2018, sendo a defesa intimada a apresentar os quesitos no dia 22/08/2018, no entanto, os mesmos foram apresentados em 10/10/2018, data em que ocorreu também subestabelecimento da defesa. Ademais, a juntada do ofício ao Instituto Psiquiátrico Governador Sênio Gomes ocorreu em 08/11/2018”.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 11 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
