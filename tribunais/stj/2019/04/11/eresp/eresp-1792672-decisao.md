@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A. fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - ADIMPLEMENTO DE OBRIGAÇÃO CONTRATUAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - DECISÃO QUE AFASTOU A ALEGAÇÃO DE ILEGITIMIDADE PASSIVA E FALTA DE INTERESSE DE AGIR. REJEITO A PREJUDICIAL DE MÉRITO DE PRESCRIÇÃO E INVERTEU O ÔNUS DA PROVA - PRETENSÃO DE REFORMA DA DECISÃO - IMPOSSIBILIDADE - BRASIL TELECOM QUE POSSUI LEGITIMIDADE PARA FIGURAR NA DEMANDA - ENTENDIMENTO CONSOLIDADO NESTE TRIBUNAL DE JUSTIÇA E NO SUPERIOR TRIBUNAL DE JUSTIÇA - PRESCRIÇÃO - INOCORRÊNCIA - APLICABILIDADE DO ART. 205 DO CC/02 - PREVISÃO D.4 LEI 6.404/76 QUE NÃO INCIDE NA ESPÉCIE - EXIBIÇÃO INCIDENTAL DE DOCUMENTOS QUE NÃO SE SUJEITA À PREVISÃO DA SÚMULA 389/STJ PRECEDENTES - DESCUMPRIMENTO DO RITO PROCESSUAL ADEQUADO QUE NÃO TEM O CONDÃO DE AUTOMATICAMENTE MACULAR .4 DECISÃO RECORRIDA - INSTRUMENTALIDADE DAS FORMAS - EXEGESE DO ART. 244 DO CPC - AUSÊNCIA DE PREJUÍZO À PARTE REQUERIDA, QUE TEVE ACESSO AO CONTRADITÓRIO EM SEDE RECURSAL - RAZÕES QUE, TODAVIA, NÃO IMPUGNAM OS FUNDAMENTOS DA DECISÃO AGRAVADA - ALEGAÇÕES ABSTRATAS E EM DISSONÂNCIA AO CONTEXTO DOS AUTOS - FATO CONSTITUTIVO DO DIREITO DO AUTOR INDICIADO PELA FOTOCÓPIA JUNTADA AOS AUTOS - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - AGRAVO DE INSTRUMENTO DESPROVIDO" (fl. 187 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 217-224 e-STJ).
+Nas razões do recurso especial, a recorrente sustenta, além da divergência jurisprudencial, violação dos artigos 100, § 1º, da Lei nº 6.404/76; 333 e 535 do Código de Processo Civil de 1973.
+Aduz, preliminarmente, que o acórdão é omisso quanto à ausência de interesse do recorrido pela não apresentação de pedido administrativo de exibição de documentos.
+No mérito, aduz que a falta de comprovação de prévio requerimento administrativo para a exibição dos documentos, com o devido pagamento da taxa respectiva do serviço, obsta o pedido de exibição incidental, nos termos do que preconiza a Súmula nº 389/STJ. Registra, ainda, que os agravados não comprovaram a relação jurídica. Por fim, pleiteia o provimento do recurso.
+Sem contrarrazões (fl. 269 e-STJ) o recurso foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+De fato, apresenta-se equivocado o acórdão recorrido quando afirma que:
+"(..)
+Embora já tenha me manifestado em sentido contrário, revejo meu prévio posicionamento para o fim de considerar que, em demandas que contenham pedido incidental de exibição de documentos, inviável é a aplicação do entendimento preconizado pela Súmula 389/STJ.
+E assim porque, diversamente do que se passa na cautelar de exibição de documentos, de cunho satisfativo e tendente à apresentação de documentos de natureza societária, pura e simplesmente, diversa é a pretensão aduzida nos casos de exibição incidental. Nestas, busca-se o acesso à prova apta a fundamentar pretensão já apresentada em demanda indenizatória, consistindo o pedido exibitório o único meio adequado à comprovação dos fatos narrados na inicial.
+(..)
+Por consequência, nesses casos, há a presença do binômio utilidade/necessidade (o pedido é, ao mesmo tempo, benéfico ao requerente e indispensável à comprovação da tese já arguida na demanda principal), pelo que coerente seu deferimento pelo Juízo Singular.
+Reputa-se que embora exigível o pedido administrativo e o pagamento da taxa para fins de exibição de documento previsto no procedimento cautelar, sob pena de carência de ação, o pedido incidental apresenta peculiaridade diversa, por ser imprescindível à solução de lide já instaurada.
+Diante de tal contexto, perde força a argumentação que funda o presente recurso" (fls. 192-193 e-STJ).
+Com efeito, a jurisprudência desta Corte acabou se firmando no sentido de que "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira" (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/5/2016).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido" (AgInt no REsp 1.331.352/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/12/2016).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE AÇÕES. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. SÚMULA 389 DO STJ. APLICABILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes." (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/05/2016, DJe 27/05/2016).
+2. Agravo interno não provido" (AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1º/12/2016).
+Inconteste, portanto, a incompatibilidade do entendimento firmado na origem com a orientação deste Tribunal Superior.
+Ante o exposto, dou provimento ao recurso especial para extinguir o feito por ausência de interesse de agir da parte recorrida.
+Condeno o recorrido ao pagamento das custas e honorários advocatícios de 10% (dez por cento) do valor atualizado da causa, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
