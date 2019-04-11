@@ -1,0 +1,17 @@
+Ref.: Petição STF 19.663/2019 e Petição STF 19.851/2019
+Decisão:
+    A Associação Nacional dos Procuradores da República – ANPR requer o seu ingresso nesta ADPF na qualidade de amicus curiae. Afirma ter por objetivo institucional zelar pelas prerrogativas de mais de mil Procuradores da República, e que o objeto desta Ação trata de prerrogativas constitucionais de seus membros. Defende ser incabível a ADPF no presente caso.
+    De outro lado, a Petróleo Brasileiro S.A. - Petrobras manifesta-se nos autos em atendimento ao despacho proferido em 29/3/2019, que determinou a apresentação de documentos, quais sejam, cópias das Atas das Assembleias Gerais das Reuniões do Conselho de Administração, das Reuniões de Diretoria, e das Atas e Pareceres do Conselho Fiscal que tenham versado sobre o acordo tratado nesta Ação. Esclarece que o acordo objeto desta ADPF foi apreciado por sua Diretoria Executiva, pelos Comitês de Minoritários e de Auditoria Estatutário, e pelo Conselho de Administração da Companhia. Informa haver atas e documentos gerenciais correlatos. Requer seja conferido tratamento confidencial aos referidos documentos nestes autos, invocando, para tanto, dispositivos da Lei 6.404/1976, da Lei 12.527/2011 e da Lei 13.303/2016.
+    É o que me cabia relatar.
+    Na Jurisdição Constitucional brasileira, o relator poderá admitir a manifestação de órgãos ou entidades, considerando a relevância da matéria, a especificidade do tema objeto da demanda, a repercussão geral da controvérsia e a representatividade dos postulantes.
+    Na presente hipótese, a requerente preencheu os requisitos essenciais e, uma vez admitida como amicus curiae, sua participação deverá ser a mais ampla possível. Juntamente com as audiências públicas, este instituto é instrumento de democratização e maior legitimação da atuação do SUPREMO TRIBUNAL FEDERAL em sede de jurisdição constitucional, tanto concentrada (ADPF 54/DF, Rel. Min. MARCO AURÉLIO; ADI 4357/ED, Rel. Min. LUIZ FUX), quanto difusa (RE 631.053/DF, Rel. Min. CELSO DE MELLO; RE 566.349/MG, Rel. Min. CÁRMEN LÚCIA), na medida em que concretiza maior abertura e pluralidade nas discussões, ensejando a colaboração com pareceres, dados e informações importantes sobre a questão controvertida, bem como acerca dos reflexos de eventual decisão da Suprema Corte.
+    A Lei 6.404/1976, em seus arts. 100, VI, e 105, restringe a publicidade de livros de Atas das Reuniões do Conselho de Administração, e de Atas das Reuniões de Diretoria. Referidos documentos também são objeto de proteção legal conferida pelo art. 86, § 3º, da Lei 13.303/2016.
+    Com base nesses fundamentos:
+    1. Nos termos do art. 7º, § 2º, da Lei 9.868/1999, DEFIRO O PEDIDO DE INGRESSO COMO AMICUS CURIAE formulado pela Associação Nacional dos Procuradores da República – ANPR, na presente Arguição de Descumprimento de Preceito Fundamental.
+    2. DEFIRO o requerimento da Petrobras de confidencialidade dos documentos a serem apresentados em atenção ao despacho de 29/3/2019. A petição que encaminhar os documentos deverá ser apresentada em meio físico no protocolo judicial da Secretaria Judiciária (situado neste Supremo Tribunal Federal, Anexo II, andar térreo). A Secretaria deverá autuar a documentação na classe Petição, com marcação de sigilo, distribuindo-a por dependência a esta Ação.
+    À Secretaria, para as providências cabíveis.
+    Publique-se.
+    Brasília, 11 de abril de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
