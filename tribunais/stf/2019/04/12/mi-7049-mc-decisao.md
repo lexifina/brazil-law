@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Direito constitucional e previdenciário. Mandado de injunção. Aposentadoria especial. Cômputo de tempo de serviço prestado às Forças Armadas.
+1. O STF, na vigência da Lei nº 13.300/2016, vem mantendo o entendimento de que é incabível a concessão de medida liminar em mandado de injunção (MI 6.813-MC, Rel. Min. Luiz Fux, j. em 22.11.2017).
+2. Quanto à lacuna legislativa relacionada à aposentadoria especial pelo exercício de atividade de risco (CF/1988, art. 40, § 4º, II), o Plenário desta Corte assentou que a omissão inconstitucional se caracteriza apenas em relação às atividades inerentemente perigosas (MI 833 e MI 844, sob a minha relatoria, j. em 11.06.2015).
+3. Medida liminar indeferida.
+    1. Trata-se de mandado de injunção, com pedido de medida liminar, impetrado por servidor que alega omissão na edição da lei complementar referida no art. 40, § 4º, II, da Constituição. Pede a concessão da ordem para que “seja reconhecido o tempo de atividade militar do impetrante como atividade de risco, para fins de concessão da aposentadoria especial prevista no artigo 40, § 4º, II, da Constituição da República, aplicando-se as regras da Lei Complementar 51, de 1985”.
+    2. Antes de decidir sobre o pedido liminar, solicitei informações às autoridades impetradas (doc. 15), que foram efetivamente prestadas.
+    3. O Presidente da Câmara dos Deputados informou não terem sido encontrados nos registros da Casa projetos de lei complementar sobre o tema (doc. 22).
+    4. A Presidência do Senado Federal manifestou-se pela aplicação do entendimento firmado pelo Supremo Tribunal Federal no julgamento do MI 721, em que se concluiu pela aplicação do art. 57 da Lei nº 8.213/1991 à aposentadoria especial do servidor público (doc. 24).
+    5. O Advogado-Geral da União, em representação à Presidência da República, defendeu, preliminarmente, a ausência de lacuna legislativa, tendo em vista que existem “leis específicas prevendo condições especiais de aposentadoria/inatividade, respectivamente, aos servidores públicos policiais e aos militares das Forças Armadas” (LC nº 51/1985 e Lei n° 6.880/1980). Sustentou, ainda, que os regimes de aposentadoria dos militares e dos policiais são diversos, “não se mostrando viável a aplicação de regulamento específico, aplicável a servidores públicos policiais, quanto ao tempo de serviço exercido nas Forças Armadas” (doc. 26).
+    6. A Procuradoria-Geral da República opinou pelo não conhecimento do mandado de injunção (doc. 28).
+    7. Em primeiro lugar, anoto que o STF, na vigência da Lei nº 13.300/2016, vem mantendo o entendimento de que é incabível a concessão de medida liminar em mandado de injunção (MI 6.813-MC, Rel. Min. Luiz Fux, j. em 22.11.2017).
+    8. Em segundo lugar, quanto à lacuna legislativa relacionada à aposentadoria especial pelo exercício de atividade de risco (CF/1988, art. 40, § 4º, II), o Plenário desta Corte afirmou nos MIs 833 e 844, em que fui designado redator para acórdão, que a omissão inconstitucional se caracteriza apenas em relação às atividades inerentemente perigosas. No caso, no entanto, observo que não constam da inicial as funções que o impetrante exerceu nas Forças Armadas.
+    9. Diante do exposto, indefiro o pedido liminar. Nos termos dos arts. 320 e 321 do CPC/2015, determino que a parte impetrante emende a inicial, no prazo de 15 (quinze) dias, para que especifique as funções/atividades que exerceu nas Forças Armadas, sob pena, em não cumprindo a presente requisição, de extinção do feito sem julgamento do mérito.
+    Publique-se.
+    Brasília, 12 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
