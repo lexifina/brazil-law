@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+     Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCURADORES DO MUNICÍPIO DE SÃO PAULO. VERBA HONORÁRIA. LEIS MUNICIPAIS 9.402/1981 E 13.400/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/ STF. REEXAME DE DIREITO LOCAL. ÓBICE DA SÚMULA 280/STF. Agravo regimental a que se nega provimento.” (AI 747919 AgR, Relator(a): Min. Joaquim Barbosa, Segunda Turma, julgado em 07.02.2012, ACÓRDÃO ELETRÔNICO DJe-038 DIVULG 23.02.2012 PUBLIC 24.02.2012)
+    “RECURSO EXTRAORDINÁRIO – ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA – DIREITO LOCAL – SÚMULA 280/STF – INVIABILIDADE DO RECURSO EXTRAORDINÁRIO – PRECEDENTES (STF) – OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA – INOCORRÊNCIA – SUCUMBÊNCIA RECURSAL – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – AGRAVO INTERNO IMPROVIDO.” (RE 1038542 AgR, Relator(a): Min. Celso de Mello, Segunda Turma, julgado em 25.8.2017, PROCESSO ELETRÔNICO DJe-206 DIVULG 11.9.2017 PUBLIC 12.9.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM DE ORDEM PESSOAL – VOP. LEI MUNICIPAL N. 13.400/2002. MATÉRIA INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 743657 AgR, Relator(a): Min. Cármen Lúcia, Segunda Turma, julgado em 13.8.2013, PROCESSO ELETRÔNICO DJe-171 DIVULG 30.8.2013 PUBLIC 02.9.2013)
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de abril de 2019.
+Ministra Rosa Weber
+Relatora
