@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Sétima Vara Federal Criminal da Seção Judiciária do Estado de Mato Grosso, ao acolher representação da autoridade policial no inquérito nº 1000863-08.2018.4.01.3600, determinou a prisão preventiva do paciente, ocorrida no dia 6 de dezembro de 2018, e de outras nove pessoas, ante a suposta prática dos delitos versados nos artigos 33 (tráfico de drogas), 35 (associação para o tráfico) e 36 (financiar ou custear o tráfico de entorpecentes), combinado com o 40, incisos I (transnacionalidade) e V (interestadualidade), da Lei nº 11.343/2006. Destacou haver materialidade e indícios de autoria, mencionando a apreensão, no decorrer das investigações, de 4 toneladas de cocaína. Em relação ao paciente, sublinhou atuar como piloto de confiança do grupo criminoso, responsável pela obtenção, mediante emprego de documentação fraudulenta perante a Agência Nacional de Aviação Civil – ANAC, das aeronaves utilizadas para o narcotráfico. Apontou a realização de quatro voos destinados ao transporte de entorpecentes, um deles na rota entre Brasil e Bolívia. Frisou necessária a custódia para garantir a ordem pública.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 496.205/MT, indeferido liminarmente. A Sexta Turma desproveu o agravo.
+    O impetrante sustenta a insubsistência dos fundamentos da decisão por meio da qual determinada a prisão preventiva. Alega violados os artigos 93, inciso IX, da Constituição Federal e 312 do Código de Processo Penal e inobservado o princípio da não culpabilidade. Articula com indevida antecipação da pena. Enfatiza as condições pessoais favoráveis do paciente –, primariedade e bons antecedentes. Afirma que eventual condenação implicará a imposição de regime diverso do fechado.
+    Requer, no campo precário e efêmero, a revogação da custódia e, sucessivamente, a aplicação de cautelar diversa, prevista no artigo 319 do Código de Processo Penal.
+    Consulta ao sítio do Tribunal Regional da 1ª Região, em 5 de abril de 2019, não revelou o andamento processual, porquanto o sistema eletrônico não identificou registro referente ao número informado.
+    A fase é de apreciação da medida acauteladora.
+    2. O Juízo, ao determinar a prisão preventiva, assinalou haver indícios de envolvimento em grupo criminoso voltado ao comércio ilícito de substâncias, realçando a apreensão de 4 toneladas de cocaína no curso das investigações. Ressaltou a função do paciente na organização, dizendo-o piloto responsável pelos voos clandestinos, inclusive em rota internacional, relacionados ao comércio ilegal de drogas, e obtenção das aeronaves utilizadas, mediante apresentação de documentação fraudulenta perante a Agência Nacional de Aviação Civil – ANAC. O quadro indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a medida mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o pronunciamento atacado. A inversão do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução de pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 15 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
