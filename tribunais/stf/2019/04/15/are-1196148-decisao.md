@@ -1,0 +1,15 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO – AÇÃO ORDINÁRIA – NULIDADE DA SENTENÇA – INOCORRÊNCIA – A DECISÃO DO MAGISTRADO NÃO ESTÁ VINCULADA A CONCLUSÃO DAS PROVAS TÉCNICAS PRODUZIDAS NOS AUTOS. TAMBÉM NÃO É OBRIGATÓRIA A APRESENTAÇÃO DE ALEGAÇÕES FINAIS – ADITIVO CONTRATUAL PARA A APLICAÇÃO DO EXPURGO INFLACIONÁRIO – INADMISSIBILIDADE – CONTRATO FIRMADO COM PREÇO À VISTA EXCLUI A EXPECTATIVA DE INFLAÇÃO FUTURA – VEDADO A APLICAÇÃO DO § 5º DO ARTIGO 15 DA LEI FEDERAL Nº 8.880/94, BEM COMO O § 1º DO ART. 23 DA LEI Nº 9.069/95 – OS TERMOS ADITIVOS E MODIFICATIVOS AFRONTARAM O ATO JURÍDICO PERFEITO E ACABADO, NOS TERMOS DO ART. 5º, XXXVI, DA CF E ART. 6º, § 1º, DA LEI DE INTRODUÇÃO DO CÓDIGO CIVIL – RECURSO PROVIDO PARA JULGAR A AÇÃO PROCEDENTE.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 5º, XXXVI, da Constituição da República.
+    Sendo esse o contexto, passo a apreciar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    Cabe salientar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte ora agravante revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 15 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
