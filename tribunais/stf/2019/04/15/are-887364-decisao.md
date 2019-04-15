@@ -1,0 +1,36 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. AUSÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA. EXECUÇÃO. FAZENDA PÚBLICA. PRECATÓRIO COMPLEMENTAR. INCIDÊNCIA DE JUROS DE MORA ENTRE A DATA DA ELABORAÇÃO DA CONTA E A DATA DA EXPEDIÇÃO DO PRECATÓRIO. POSSIBILIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Turma do Tribunal Regional Federal da Quinta Região decidiu:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PAGAMENTO DE SALDO REMANESCENTE DA EXECUÇÃO. JUROS MORATÓRIOS. INCIDÊNCIA ATÉ A DEFINIÇÃO DO QUANTUM DEBEATUR.
+    1. Agravo de Instrumento manejado em face da decisão que acolheu os cálculos da contadoria judicial, para fins de pagamento de saldo remanescente da execução.
+    2. A parte Agravante se insurge contra a incidência de juros moratórios, no período entre a liquidação e a expedição da RPV, nos cálculos dos valores remanescentes da execução, elaborados pela Contadoria Judicial.
+    3. Em momento anterior, foram pagos os valores incontroversos, dando-se seguimento à Execução quanto ao montante em que houve divergência.
+    4. O ST J, bem como esta Corte, entende que o termo final para a incidência dos juros moratórios na execução é o trânsito em julgado da sentença proferida em sede de embargos à execução ou, quando estes não forem opostos, no trânsito em julgado da decisão homologatória dos cálculos, porquanto é neste momento que se determina a data em que houve a liquidação do valor executado, isto é, o quantum debeatur.
+    5. Nesse sentido, cabível, a aplicação de juros de mora até a liquidação do valor executado, que, in casu, se deu com a apresentação dos cálculos pela contadoria quando finda a discussão ensejada nos Embargos à Execução.
+    6. Agravo de Instrumento improvido ” (e-doc. 9, fl. 76).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento.
+    4. A agravante argumenta: “cuida-se de acórdão que reconheceu como devidos juros de mora entre a data da homologação dos cálculos e a expedição do precatório em ofensa ao art. 100, §§ 1º, 4º e 5ª da CF/88. Entendeu o v. acórdão por ser cabível a incidência de juros de mora no período entre a apresentação da conta e a data de inscrição da RPV/Precatório, por entender que não se trata de prazo constitucional, como o previsto para o pagamento de precatório. Entretanto, o fundamento para não incidência de juros de mora no período requerido para expedição de RPV complementar é o mesmo atinente ao instituto do precatório, consubstanciado na jurisprudência firmada por este e. STJ e o e. STF. Assim, seguindo a firme jurisprudência do Egrégio Supremo Tribunal Federal, deve-se entender ser indevida a expedição de requisição de pagamento complementar de juros que abarcam o período supramencionado, sob pena de violação ao art. 100, § 5º, da Constituição Federal. (...) não há que se falar, assim, em aplicação de juros moratórios no lapso compreendido entre a homologação da conta de liquidação e seu registro, pois somente haverá mora que determine sua incidência, na hipótese de haver sido expirado o prazo legal para o seu pagamento, qual seja, os sessenta dias da apresentação da RPV ou até dezembro do ano seguinte ao da apresentação do precatório, o que não ocorreu no presente caso” (e-doc. 9, fls. 214-216).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. IX do art. 93 e os §§ 1º, 4º e 5º do art. 100 da Constituição da República e a Súmula Vinculante n. 17 do Supremo Tribunal Federal.
+    5. Os autos foram devolvidos para aplicação da sistemática da repercussão geral. Em juízo de retratação, foi proferida a seguinte decisão:
+    “PROCESSUAL CIVIL. ADEQUAÇÃO DO ACÓRDÃO RECORRIDO A DECISÃO DO STF. REPERCUSSÃO GERAL. RE 579.431/RS EXECUÇÃO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR. JUROS DE MORA ENTRE A DATA DA ELABORAÇÃO DA CONTA E A DATA DA EXPEDIÇÃO DO PRECATÓRIO. POSSIBILIDADE. ACÓRDÃO, RECORRIDO DE ACORDO COM A DECISÃO DO STF. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+    1. A Vice-Presidência desta Corte determinou o retorno do feito a este órgão colegiado nos termos do art. 1.030, II, do CPC para realização do juízo de retratação, tendo em vista a decisão proferida pelo Supremo Tribunal Federal no RE 579.431/RS, sob a sistemática da repercussão geral, na qual foi assegurada a ‘incidência de juros de mora no período compreendido entre a data da conta de liquidação e a expedição do requisitório’.
+    2. Cinge-se a controvérsia à verificação de ser ou não possível a expedição de precatório complementar para pagamento de juros de mora, entre a data da elaboração da conta e data da expedição do precatório.
+    3. O acórdão está de acordo com o julgado do STF, uma vez que reconheceu o direito à aplicação de juros de mora entre a homologação da conta e a expedição do precatório.
+    4. Juízo de retratação não exercido, Manutenção do acórdão anteriormente prolatado” (e-doc. 9, fl. 262).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    6. Cumpre afastar o óbice da decisão agravada quanto ao prequestionamento por ter sido a matéria objeto de oportuna impugnação.
+    A superação desse fundamento, entretanto, é insuficiente para o provimento da pretensão da agravante.
+    7. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não subsiste pois, embora em sentido contrário à pretensão da agravante, no acórdão recorrido se apresenta fundamentação suficiente, firmada na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    8. No julgamento do Recurso Extraordinário n. 579.431-RG, Tema 96, Relator o Ministro Marco Aurélio, o Plenário deste Supremo Tribunal reconheceu a incidência de juros de mora no período compreendido entre a data da conta de liquidação e a expedição do requisitório. Confira-se a ementa do julgado:
+    “JUROS DA MORA – FAZENDA PÚBLICA – DÍVIDA – REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório” (DJe 30.6.2017).
+    O entendimento contido no acórdão recorrido harmoniza-se com essa orientação jurisprudencial.
+    Nada há a prover quanto às alegações da agravante.
+    9. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de abril de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
