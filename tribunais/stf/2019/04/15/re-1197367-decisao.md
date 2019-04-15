@@ -1,0 +1,43 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Primeira Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado (eDOC 2, p. 14):
+    “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. MAGISTÉRIO ESTADUAL. ABONO FAMILIAR. LEI ESTADUAL Nº 6.526/1973. PREENCHIMENTO DOS REQUISITOS.
+    1. Divergem os litigantes acerca do direito da parte autora, servidora pública estadual integrante do quadro do magistério, vínculo temporário, de obter o pagamento de abono familiar.
+    2. Sentença de procedência confirmada por seus próprios fundamentos, nos moldes do artigo 46, última figura, da Lei nº 9.099/95.
+    RECURSO INOMINADO DESPROVIDO. UNÂNIME.”
+    Os embargos de declaração foram rejeitados. (eDOC 3, pp. 24-26 e eDOC 4, pp. 15-18)
+    No recurso extraordinário, com fundamento no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa aos 2º, caput; 7º, XII; 25; 37, caput; 39, § 3º; 40, caput e § 13; 109, I; e 201, IV, da Constituição Federal, bem como ao art. 13 da Emenda Constitucional 20/1998.
+    Nas razões recursais, sustenta-se, preliminarmente, a necessidade de inclusão do INSS no polo passivo e a incompetência da justiça estadual, e, quanto ao mérito, a natureza previdenciária do abono família; que a Constituição Federal veda a aplicação do regime próprio dos servidores ao servidor contratado de forma temporária (eDOC 5, p. 8-15); que o § 2º do art. 2º da Lei 6.526/1973 não foi recepcionado pela Constituição Federal de 1998 (eDOC 5, pp. 15-18); a ausência de previsão orçamentária; e que não cabe ao Poder Judiciário adentrar na análise e conveniência do ato administrativo (eDOC 5, pp. 18-20).
+    A Primeira Vice-Presidência do TJ/RS admitiu o extraordinário (eDOC 5, pp. 65-73).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, ressalto que a simples alegação de interesse do Instituto Nacional de Seguridade Social não é suficiente ao deslocamento da competência para a Justiça Federal, principalmente, ante a ausência de requerimento da Autarquia ou da União. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CHAMAMENTO AO PROCESSO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DA UNIÃO. RAZÃO INSUFICIENTE PARA JUSTIFICAR O DESLOCAMENTO DA CAUSA PARA A ESFERA DE COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 857780 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 18.5.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DESLOCAMENTO DE COMPETÊNCIA PARA A JUSTIÇA FEDERAL. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. INSUFICIÊNCIA. ACÓRDÃO RECORRIDO FUNDAMENTADO NOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 757952 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.10.2013).
+    Quanto à matéria de fundo, verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, assentou (eDOC 2, pp. 15-19):
+    “Divergem os litigantes acerca do direito da parte autora, servidora pública estadual integrante do quadro do magistério, vínculo temporário, de obter o pagamento de abono familiar e pagamento pretérito.
+    A sentença de procedência restou assim proferida:
+    ‘(…)
+    No mérito, procede o pedido.
+    Dispõe o art. 118 da Lei Complementar Estadual
+    10.098/94:
+    (…)
+    Vê-se que o benefício está previsto na LC 10098/94, Estatuto dos Servidores Públicos, não fazendo qualquer distinção entre efetivos e temporários. Estando a parte autora sujeita ao referido Estatuto, consoante se infere da sua própria ficha funcional, impõe-se o reconhecimento do direito alegado, independentemente de pedido administrativo, bastando a informação à administração acerca do nascimento do dependente, o que já faz incidir a legislação.
+    Nesse sentido:
+    (…)
+    Observo, por fim, que o Estado não comprovou que a autora recebe salário família, a fim de elidir a pretensão posta na inicial, ônus que lhe incumbia, a teor do art. 373, inc. II, do NCPC.
+    Ante o exposto, JULGO PROCEDENTE o pedido contido na inicial a fim de condenar o Estado no pagamento de abono família à parte autora, nos termos do art. 118 da LC 10098/94, (…)’
+    As razões recursais do demandado não merecem guarida. A preliminar de inépcia da inicial deve ser afastada, haja vista que há nos autos histórico funcional contendo a informação de que a parte autora possui filhos dependentes. No que diz respeito ao mérito, igualmente não prosperam as irresignações.
+    Registro, por oportuno, que este Colégio Recursal já se manifestou em casos análogos nesse norte:
+    (…)”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e o exame da legislação local aplicável à espécie (Lei Estadual 6.526/1973 e Lei Complementar Estadual 10.098/1994), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, descabendo interpretar normas locais visando concluir pelo enquadramento no permissivo do inciso III do artigo 102 da Constituição Federal. RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO. Havendo interposição de recurso sob a regência do Código de Processo Civil de 2015, cabível é a fixação dos honorários de sucumbência recursal previstos no artigo 85, § 11, do diploma legal. AGRAVO – MULTA – ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. Se o agravo é manifestamente inadmissível ou improcedente, impõe-se a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil de 2015, arcando a parte com o ônus decorrente da litigância protelatória.” (RE 1147777 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 6.12.2018).
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Abono familiar. Natureza da verba. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Súmula 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental.” (ARE 11161746 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 01.2.2019).
+    Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não viola o princípio da separação dos poderes o exame da legalidade dos atos administrativos pelo Poder Judiciário. Confira-se, a propósito, o seguinte acórdão:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. NÃO OCORRÊNCIA. SÚMULA 279/STF. Hipótese em que, para dissentir da conclusão firmada pelo Tribunal de origem, seria necessário reexaminar os fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. É firme no Supremo Tribunal Federal o entendimento de que não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (AI 410.544-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 17.3.2015).
+    Por fim, quanto à interposição do apelo extraordinário com base no art. 102, III, alínea c, da Constituição Federal, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal. Portanto, resta inviabilizado o recurso extraordinário.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 15 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
