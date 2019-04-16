@@ -1,0 +1,55 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE NO ACÓRDÃO EMBARGADO. REDISCUSSÃO DE MÉRITO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+2. O que se observa é que o embargante pretende a modificação do provimento anterior, com a rediscussão do mérito da questão, o que não se coaduna com a medida integrativa, ainda que para fins de prequestionamento. É cediço que o julgador não está obrigado a refutar todos os argumentos invocados pelas partes, bastando que os fundamentos expendidos sejam suficientes para embasar a decisão.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+ Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de embargos de declaração opostos pela DEFENSORIA PÚBLICA DA UNIÃO, em favor de ANDRÉ NICOLAU DE SOUZA, contra acórdão desta egrégia Quinta Turma, que negou provimento ao agravo regimental, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INTEMPESTIVIDADE DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELO PARQUET ESTADUAL NA PRIMEIRA INSTÂNCIA. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A tese relativa à tempestividade (ou não) dos embargos de declaração opostos pelo Parquet estadual perante o Juízo da Vara de Execuções Criminais não foi arguida na inicial do presente habeas corpus, não havendo nos autos, ademais, manifestação do Tribunal de origem sobre referida questão. Cuida-se, portanto, de evidente inovação recursal no âmbito das razões do agravo regimental, o que é defeso. Precedentes.
+2. Agravo regimental não conhecido (fl. 235).
+
+Nesta oportunidade, aponta a Defensoria omissão no julgado, alegando que "a defesa apenas valeu-se de outros termos para veicular a mesma pretensão: nulidade da decisão que conheceu dos embargos declaratórios com efeitos infringentes, face à preclusão da decisão" (fl. 248), não havendo falar em inovação da tese jurídica.
+Requer, assim, o acolhimento dos embargos de declaração para o fim de sanar os vícios apontados.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade na decisão embargada.
+Todavia, ao revés do alegado pelo embargante, não há que se falar em vícios no julgado.
+Na hipótese em debate, quanto à alegação da tempestividade (ou não) dos embargos de declaração opostos pelo Parquet estadual perante o Juízo da Vara de Execuções Criminais, ressalto que, ainda que tal tese tivesse sido arguida na inicial do presente habeas corpus, não foi objeto de análise pelo Tribunal de origem, consoante consignado no aresto embargado. Sendo assim, impossível a apreciação do tema por esta Corte Superior de Justiça, uma vez vedada a supressão de instância.
+O que se observa é que o embargante pretende a modificação do julgado, com a rediscussão da questão, o que não se coaduna com a medida integrativa, ainda que para fins de prequestionamento.
+São precedentes de ambas as Turmas que julgam a matéria nesta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INTEMPESTIVO. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexistem as omissões apontadas pela defesa, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Não há falar em aplicação retroativa de novo entendimento jurisprudencial na espécie, mas em pacificação do tema pela Corte Especial, com a exegese de dispositivos legais já vigentes quando da interposição do apelo nobre.
+4. Embargos de Declaração rejeitados (EDcl no AgRg no AREsp 1263702/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/11/2018, DJe 5/12/2018).
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS. DENÚNCIA ANÔNIMA. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. OCORRÊNCIA. OMISSÃO. PREMISSA FÁTICA EQUIVOCADA. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do CPP, cabem embargos de declaração para sanar obscuridade ou contradição ou, ainda, para suprir omissão, verificada no julgado, a respeito de tema sobre o qual deveria ter se manifestado.
+2. O acórdão embargado analisou todas as questões impugnadas pelo impetrante no writ, reconhecendo, de maneira fundamentada, a ilicitude das provas obtidas por meio de invasão de domicílio, sem a realização de investigações prévias ou a indicação de fundadas razões para justificar a entrada forçada, entendimento que não destoa da jurisprudência firmada pelo Supremo Tribunal Federal no julgamento do RE n. 603.616/RO (tema 280).
+3. Mesmo para fins de prequestionamento, os embargos de declaração têm suas hipóteses de cabimento restritas ao art. 619 do CPP, ausentes na espécie.
+4 . Embargos de declaração rejeitados (EDcl no HC 424.997/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/11/2018, DJe 10/12/2018)
+DIREITO PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. QUESTÕES ANALISADAS POR ESTA CORTE DE FORMA CLARA E ADEQUADA. FUNDAMENTAÇÃO INIDÔNEA. ELEMENTOS INERENTES AO DELITO IMPUTADO.CONFIGURADOS. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, ainda que manejados para fins de prequestionamento, são cabíveis quando o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material, o que não se verifica na espécie.
+3. Verifica-se que esta Corte Superior, ao analisar a questão, posicionou-se de forma clara, adequada e suficiente ao determinar a revogação da prisão preventiva do recorrente.
+2. Os elementos expostos na fundamentação utilizada pelo juízo de primeiro grau para a manutenção da prisão preventiva - concurso de pessoas, emprego de arma de fogo e violência física contra a vítima - são inerentes ao tipo penal imputado ao paciente, qual seja, o roubo majorado pelo concurso de pessoas e uso de arma de fogo. Além disso, a violência ou grave ameaça são elementos constitutivos do referido delito contra o patrimônio, sem os quais o delito seria desclassificado para o tipo penal de furto, razão pela qual a fundamentação é inidônea.
+3. Embargos rejeitados (EDcl no RHC 101.043/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. VIOLAÇÃO DOS ARTS. 381, III, E 619, AMBOS DO CPP. ACÓRDÃO DA APELAÇÃO. FUNDAMENTOS IDÔNEOS. OMISSÃO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA. ANÁLISE DO ACERVO PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. No que concerne à suposta contrariedade aos arts. 381, III, e 619, ambos do Código de Processo Penal, tem-se que não está o magistrado obrigado a responder à totalidade das dúvidas suscitadas pelo embargante, quando for possível inferir dos fundamentos da decisão embargada as razões da conclusão nela tomada.
+2. A teor da jurisprudência do Superior Tribunal de Justiça, os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão, nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002), de forma que não há falar em negativa de prestação jurisdicional apenas porque o Tribunal local não acatou a pretensão deduzida pela parte (AgRg no REsp n. 1.220.895/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/9/2013).
+3. Ao apontar a negativa de vigência ao art. 619 do Código de Processo Penal, buscou o recorrente o rejulgamento da causa, providência incompatível com a via estreita do recurso integrativo.
+4. Para verificar se houve omissão do Tribunal de origem na apreciação do acervo probatório dos autos, seria necessário, obrigatoriamente, que se fizesse uma análise dessas provas, providência descabida em recurso especial, por força da Súmula 7/STJ.
+5. Agravo regimental improvido (AgRg no REsp 1.558.583/PB, Rel. MINISTRO SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 17/3/2016).
+Outrossim, como cediço, o julgador não está obrigado a refutar todos os argumentos invocados pelas partes, bastando que os fundamentos expendidos sejam suficientes para embasar a decisão.
+Confira-se, por oportuno:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. NOVA DATA-BASE PARA A PROGRESSÃO DE REGIME. INEXISTÊNCIA DE PREVISÃO LEGAL. OMISSÃO. INOCORRÊNCIA. EXAME SUFICIENTE DO TEMA. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - No que tange ao pedido de fixação do dia da prisão (20/2/2012) como data-base para a progressão de regime, inviável a verificação casuística do marco a ser fixado no caso concreto, considerando os diversos fatores que repercutem em sua análise, para a qual melhor se amolda o Juízo das Execuções, competente para o mister.
+III - " ..  Esta Corte Superior de Justiça tem entendimento assente no sentido de que o julgador não é obrigado a refutar expressamente todas as teses aventadas pelas partes, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas. Precedentes" (EDcl no AgRg no AREsp n. 445.549/RJ, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 21/10/2016).
+Embargos rejeitados (EDcl no RHC 85.534/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/4/2018, DJe 30/4/2018).
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
