@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por [NOME] PRES PRUDENTE COOPERATIVA DE TRABALHO MEDICO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 190-200 e-STJ), assim ementado:
+Agravo de Instrumento - Plano de Saúde - Cumprimento individual de sentença proferida em ação civil pública intentada pelo Ministério Público, que declarou a nulidade de cláusula que permitia à ré o aumento abusivo das mensalidades e a condenou à repetição do indébito - Legitimidade ativa do agravado que exsurge cristalina - Prazo prescricional de 03 anos a ser aplicado à espécie - Tese firmada pelo Colendo Superior Tribunal de Justiça em sede de recurso repetitivo - Contagem do prazo que se dá a partir da data em que entrou em vigor o atual Código Civil - Ação civil pública que foi ajuizada no prazo legal - Pretensão executória, ademais, exercitada, também, dentro do triênio - Prescrição afastada - Agravo desprovido, com observação.
+Opostos embargos declaratórios (fls. 515-655 e-STJ), restaram desacolhidos na origem (fls. 657-664 e-STJ).
+Nas razões do especial (fls. 203-222 e-STJ), a insurgente alega a existência de dissídio jurisprudencial, bem como violação aos seguintes dispositivos de lei federal:
+(i) artigos 489 e 1.022 do CPC/15, porquanto não sanados vícios apontados nos aclaratórios;
+(ii) artigos 206, §3º, inc. IV, do Código Civil e 1.040, inc. II, do CPC/15, sustentando que a prescrição, tanto para ajuizamento da ação de conhecimento, quanto para a pretensão executória, é de 3 (três) anos, nos termos de entendimento firmado em sede de recurso repetitivo.
+Apresentadas contrarrazões (fls. 774-792 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018 .
+Alegou a recorrente que o acórdão impugnado restou omisso e contraditório por ter considerado a incidência da tese firmada em recurso repetitivo (Tema 610), mas não ter reconhecido a prescrição trienal
+Todavia, o Tribunal local aplicou, integralmente, a tese firmada sem qualquer contradição ou omissão, conforme se aprofundará a seguir.
+Apontou, ainda, existência de omissão e erro material quanto à data do trânsito em julgado da sentença. Todavia, a Corte de origem, tanto por ocasião do julgamento do apelo, como dos aclaratórios, considerou que a data do trânsito em julgado é aquela certificada nos autos originários (24.09.2012), não havendo que se falar em qualquer vício, mas, tão somente, em inconformidade da parte com a decisão.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em qualquer vício, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado
+Neste sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1.022 do CPC/15.
+2. Em relação à prescrição, discute-se tanto a prescrição para ajuizamento da demanda, como a executória, apontando-se violação aos artigos 206, §3º, inc. IV, do Código Civil e 1.040, inc. II, do CPC/15, bem como aduz a existência de dissídio jurisprudencial.
+Argumenta que o prazo prescricional seria de 3 (três) anos, nos termos da tese firmada por esta Corte Superior no julgamento dos Recursos Especiais n. 1.360.969/RS e 1.361.182/RS (Tema 610):
+Na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002.
+Aduz, ainda, que o trânsito em julgado ocorreu em 08.11.2011, e não em 24.09.2012, como afirmado pela Corte de origem.
+2.1. No que tange à prescrição para ajuizamento da demanda, a Corte de origem aplicou expressamente a tese acima citada, veja-se (fls. 198-199 e-STJ):
+No caso, verifica-se que a exequente pretende receber as quantias pagas a maior desde março/1995.
+Ora, nos termos do art. 2028 do Código Civil (Disposições Transitórias), "Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada".
+Assim, levando-se em conta a tese firmada pela Colenda Corte Superior, o prazo a ser considerado é mesmo o de 03 anos, na medida em que, embora as cobranças indevidas tenham se iniciado em 1995, verifica-se que a partir daí até a data em que entrou em vigor o novo Código Civil não transcorreu mais da metade do prazo de 20 anos que era previsto no Código de 1916 (cf. art. 177).
+ ..
+Portanto, o prazo prescricional a ser considerado, na hipótese, é o de 03 anos previsto no artigo 206, § 3º, IV, do Código Civil, o que também deverá ser observado em primeiro grau, nos demais casos.
+ ..
+A ação civil pública foi aforada em 2004, portanto, dentro do prazo trienal, de modo que não se há falar em prescrição da pretensão condenatória.  grifou-se
+Como visto, a tese firmada por esta Corte (Tema 610) foi aplicada em sua integralidade, e não apenas sua segunda parte, como busca a insurgente. Ou seja, às parcelas pagas na vigência do Código Civil/16, o prazo é de 20 (vinte) anos - observada a regra de transição. Já para as parcelas pagas na vigência do Código Civil/02, de 3 (três) anos.
+Foi, exatamente, o entendimento aplicado pela Corte de origem, motivo pelo qual se afasta a alegada violação aos artigos 206, §3º, inc. IV, do Código Civil e 1.040, inc. II, do CPC/15.
+2.2. Já em relação à prescrição executória, a Corte de origem, considerando tratar-se de cumprimento individual de sentença proferida em ação civil pública, considerou que o prazo para execução é de 5 (cinco) anos, nos termos da tese firmada pela Segunda Seção no julgamento do Recurso Especial n. 1.273.643/PR (Tema 515):
+No âmbito do Direito Privado, é de cinco anos o prazo prescricional para ajuizamento da execução individual em pedido de cumprimento de sentença proferida em Ação Civil Pública
+Cita-se o trecho correspondente (fls. 662-663 e-STJ):
+Com o trânsito em julgado, ocorrido em 24 de setembro de 2012 (repita-se!), iniciou-se a contagem do prazo prescricional da pretensão executória.
+A esse respeito e muito embora este Relator, em seus votos recentes, viesse referendando, com supedâneo no entendimento há muito tempo assentado pelo Excelso Pretório, de que o prazo de prescrição da pretensão executória é o mesmo da pretensão de direito material ("Prescreve a execução no mesmo prazo de prescrição da ação." Súmula 150), é necessário, a partir deste momento, modificar parcialmente o posicionamento, a fim de adequar a orientação desta E . Câmara ao quanto consolidado pelo Colendo Superior Tribunal de Justiça, nos autos do RE sp 1.273.643/ PR, cuja ementa segue:
+ ..
+O cumprimento de sentença foi requerido em 22 de junho de 2015, donde se conclui que a pretensão executória foi exercitada, no prazo quinquenal.  grifou-se
+A insurgente sustenta que o prazo seria trienal, nos termos da tese citada no tópico anterior (Tema 610).
+Todavia, razão não lhe assiste, uma vez que, tal como decidido pela Corte de origem, em se tratando de cumprimento de sentença proferida em ação civil pública, o prazo para pretensão executória é de 5 (cinco) anos, nos termos da tese firmada no Recurso Especial n. 1.273.643/PR (Tema 515)
+Neste sentido - tratando, inclusive, de execuções da mesma origem - o entendimento manifestado monocraticamente nos autos: REsp 1787899/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 04/04/2019; REsp 1792784/SP, Rel. Ministro RAUL ARAÚJO, DJe 01/04/2019.
+De forma semelhante, ainda: REsp 1575911/SP, Rel. Ministro MOURA RIBEIRO, DJe 06/02/2019.
+Portanto, aplicado o entendimento firmado por esta Corte em apelo submetido à sistemática de recursos repetitivos, não há que se falar em violação aos artigos 206, §3º, inc. IV, do Código Civil e 1.040, inc. II, do CPC/15.
+2.3. Em relação à data da ocorrência do trânsito em julgado, para início do cômputo do prazo prescricional, entendeu a Corte de origem que deve ser considerada a última decisão proferida nos autos, ainda que não conhecido o recurso em razão da intempestividade - portanto, afirmou que o trânsito em julgado ocorreu em 24.09.2012.
+A insurgente sustenta que o trânsito em julgado operou-se em 08.11.2011, uma vez que o recurso interposto após esta data foi considerado intempestivo.
+Todavia, considerando o prazo prescricional de 5 (cinco) anos, resta prejudicado tal debate, uma vez que o cumprimento de sentença objeto dos presentes autos foi requerido em 22.06.2015
+Assim, independentemente do termo inicial da prescrição - 08.11.2011 ou 24.09.2012 - o cumprimento de sentença, no presente caso, foi requerido dentro do prazo prescricional de 5 (cinco) anos.
+Evidente, portanto, que a discussão a respeito da data da ocorrência do trânsito em julgado resta, no presente caso, prejudicada, ante a manutenção do prazo prescricional de 5 (cinco) anos para requerimento do cumprimento de sentença
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial.
+Publique-se.
+Intimem-se.
