@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DIVERSO DAQUELE FORMULADO NA PETIÇÃO RECURSAL DO AGRAVO EM EXECUÇÃO. RAZÕES DISSOCIADAS. IMPOSSIBILIDADE DE ANÁLISE ORIGINÁRIA DO PEDIDO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no Agravo em Execução n.º 0038417-55.2011.8.16.0021.
+Colhe-se nos autos que o Paciente foi condenado pela prática dos delitos apurados nos Processos n.os 0005214-44.2007.8.16.0021, 0004640-79.2011.8.16.0021 e 0037843-27.2014.8.16.0021. No decorrer do cumprimento das penas, o Juiz das Execuções Criminais indeferiu o pedido de progressão de regime para o prisional semiaberto, sob o fundamento de que não está cumprido o requisito objetivo.
+Contra essa decisão foi interposto o recurso em que foi proferido, em 24/09/2019, o acórdão ora impugnado, de seguinte ementa (fl. 73):
+"EXECUÇÃO PENAL. RECURSO DE AGRAVO. DECISÃO DE PRIMEIRO GRAU QUE INDEFERIU O PEDIDO DE PROGRESSÃO DO APENADO AO REGIME SEMIABERTO. INSURGÊNCIA DA DEFESA. PLEITO DE REFORMA DO DECISUM, SOB O ARGUMENTO DE QUE O CONDENADO ATENDE AO REQUISITO OBJETIVO PARA A CONCESSÃO DA BENESSE. TESE RECHAÇADA. REEDUCANDO REINCIDENTE QUE CUMPRE PENA POR CRIME EQUIPARADO A HEDIONDO. NECESSIDADE DE RESGATE DE 3/5 (TRÊS QUINTOS) DA REPRIMENDA COMINADA. INTELIGÊNCIA DO ARTIGO 2º, §2º, DA LEI Nº 8.072/1990. RÉU QUE NÃO CUMPRIU O TEMPO EXIGIDO PARA A PROGRESSÃO ALMEJADA. PRONUNCIAMENTO SINGULAR QUE SE MOSTRA ESCORREITO. RECURSO CONHECIDO E DESPROVIDO."
+Daí o presente writ, em que se alega, entre outros argumentos, equívoco na sentença em que, pelo cumprimento integral, foram declaradas extintas as penas relativas ao "processo crime nº 0005214-44.2007.8.16.0021 da 1º Vara Criminal de Cascavel - PR e 0004640-79.2011.8.16.0021, da 2º Vara Criminal de Cascavel - PR" (fl. 11) - reconhecimento que deveria ter recaído sobre a reprimenda mais grave.
+Requer-se, ao final, liminarmente e no mérito, seja "cassada a decisão de extinção das penas mais benéficas concedendo a progressão de regime, computando-se adequadamente a remição" (fl. 10).
+É o relatório do necessário. Decido.
+Constato que nas razões que formulou no Agravo em Execução Penal n.º 0038417-55.2011.8.16.0021 (fls. 21-25), o ora Paciente não alegou que, para o correto cálculo referente ao reconhecimento do requisito objetivo para a progressão de regime, deveria ocorrer primeiramente a extinção da pena mais gravosa. Nem sequer no pedido há esse requerimento (fl. 25).
+Portanto, antes de impetrar originariamente o presente writ nesta Corte, a parte Impetrante, em verdade, deveria ter submetido tal alegação ao escrutínio do Tribunal de origem - independentemente do decurso do prazo para interposição de recurso contra a sentença de fl. 11, pois nada impede a impetração de habeas corpus para analisar tão somente matéria de direito.
+Assim, por estarem dissociadas as razões dos pedidos formulados na origem e nessa Corte, é vedada a apreciação originária do pleito ora formulado por esta Corte, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República).
+A propósito, destaco o seguinte julgado, mutatis mutandis:
+"HABEAS CORPUS  .. . MATÉRIA AINDA NÃO SUBMETIDA AO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PEDIDO QUE NÃO SE CONHECE.  ..
+2- Não se pode conhecer de pedido que não foi submetido ao Tribunal a quo, sob pena de supressão de instância.  .. .
+4- Não se conhece do pedido." (HC 83.402/SP, 5.ª Turma, Rel. Ministra JANE SILVA, Des. convocada do TJ/MG, DJ de 24/09/2007.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Encaminhem-se os autos com urgência ao Tribunal a quo, nos termos do art. 21-E, inciso IV, do RISTJ - aplicável, mutatis mutandis, à hipótese.
+Publique-se. Intimem-se.
