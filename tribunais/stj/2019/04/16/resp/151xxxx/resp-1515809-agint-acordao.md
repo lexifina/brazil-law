@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO LEGAL VIOLADO. INDICAÇÃO. INOCORRÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+3. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo in casu a Súmula 284 do STF.
+4. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por ANTÔNIA DA COSTA DO AMPARO e OUTROS contra decisão de minha lavra, proferida às e-STJ fls. 814/816, em que não conheci do recurso especial ante a incidência da Súmula 211 do STJ e das Súmulas 282 e 284 do STF.
+Aduz a parte agravante que os arts. 467, 468, 471 e 730 do CPC/1973 foram abordados explicitamente na decisão do Tribunal de origem e que o dissídio jurisprudencial não se lastreia em dispositivo legal específico, mas, sim, na interpretação conferida quanto aos efeitos do título executivo objeto desta demanda.
+ Requer, assim, a reconsideração ou reformada da decisão atacada para que seja provido o apelo nobre.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO LEGAL VIOLADO. INDICAÇÃO. INOCORRÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+3. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo in casu a Súmula 284 do STF.
+4. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, registre-se que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na presente hipótese, este recurso ataca decisão proferida no julgamento de recurso especial interposto ainda sob a égide do CPC/1973.
+Feitas essas considerações, observa-se que o presente agravo não merece prosperar.
+Com efeito, no que toca à alegação dos dispositivos tido por violados, como já explicitado, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Por fim, conforme já decidido e ressalvado o meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF. A propósito, os precedentes de ambas as Turmas que integram a Primeira Seção deste Tribunal:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+ ..  2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.  ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal. Agravo regimental improvido (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
