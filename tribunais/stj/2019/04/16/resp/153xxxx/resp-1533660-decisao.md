@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de recurso especial interposto por SALLES EDITORA LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 242, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. RESCISÃO DE CONTRATO. INDENIZAÇÃO POR DANO MORAL.
+Não há falar em cerceamento de defesa, mostrando-se descabida a realização da audiência de instrução, ante a natureza dos temas discutidos na presente ação, sendo suficiente a prova produzida.
+Demonstrado o descumprimento contratual por parte da ré, torna-se viável o pedido de rescisão do contrato. Dano moral evidenciado. Comprovação da conduta ilícita, culpa do agente, existência de dano, além do nexo de causalidade.
+Na apuração do quantum indenizatório decorrente do dano moral sofrido, tanto a jurisprudência como a doutrina são uníssonas ao entender que o valor deverá ser fixado levando-se em consideração as condições pessoais da parte autora e do réu, sopesadas pelo prudente arbítrio do julgador, com a observância da teoria do desestímulo, isto é, o valor não deve enriquecer ilicitamente o ofendido, mas há de ser suficientemente elevado para desencorajar novas agressões à honra alheia. Manutenção do quantum indenizatório.
+AFASTARAM A PRELIMINAR E NEGARAM PROVIMENTO A APELAÇÃO. UNÂNIME.
+Opostos embargos de declaração, estes foram rejeitados (fls. 263/268, e-STJ).
+Nas razões do especial (fls. 273/285, e-STJ), a insurgente apontou, além de dissídio jurisprudencial, a violação dos artigos 535, 130 e 333, inciso I, do CPC/73, 186 e 389 do CC/02. Sustentou, em síntese: a) omissão e contradição da Corte de origem ao não se manifestar sobre todos os pontos suscitados nos embargos de declaração, especialmente sobre "o deferimento de indenização por danos morais, tendo por fundamento o mero descumprimento contratual" (fl. 276/277, e-STJ); b) cerceamento de defesa, porquanto o juízo de 1º grau indeferiu o requerimento de designação de audiência de instrução e julgamento; c) inexistência de dano indenizável e d) ausência de comprovação dos fatos constitutivos de seu direito.
+Em sede de juízo provisório de admissibilidade (fls. 319-328, e-STJ), o Tribunal local negou seguimento ao recurso especial, o que ensejou o manejo de agravo (artigo 544 do CPC/73), ao qual foi dado provimento para melhor análise da matéria (fls. 356-357, e-STJ)
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No que respeita à alegada negativa de prestação jurisdicional, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Saliente-se que os fundamentos utilizados foram suficientes para embasar a decisão.
+Destaque-se, por oportuno, que a matéria apontada como omissa foi objeto de expressa manifestação pela Corte Regional, consoante denotam os seguintes excertos do acórdão recorrido (fl. 248, e-STJ):
+Na hipótese em análise, não pairam dúvidas sobre a presença dos requisitos ensejadores da responsabilidade de indenizar. A situação constrangedora a que se submeteu o autor, ao ter sua obra publicada com inúmeros erros de português, é evidente.
+Como se vê do trecho do acórdão acima transcrito, não há que se falar em negativa de prestação jurisdicional, mas sim em inconformismo da recorrente com o resultado do julgamento.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. RECURSOS ESPECIAIS. RECURSOS MANEJADOS SOB A ÉGIDE DO NCPC. COMPROMISSO DE COMPRA E VENDA. IMÓVEL NA PLANTA. RESTITUIÇÃO DOS VALORES PAGOS PELA INTERMEDIAÇÃO. VIOLAÇÃO DOS ART. 489, § 1º, VI, E § 3º, E 1.022 DO NCPC QUE NÃO SE VERIFICA. OFENSA AO ART. 927, III, DO NCPC. NÃO OCORRÊNCIA. ARTS. 141 E 492 DO NCPC E 884 DO CC/02. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. PREQUESTIONAMENTO FICTO (ART. 1.025 DO NCPC). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO NCPC. PRESCRIÇÃO TRIENAL. TERMO INICIAL. DATA DO EFETIVO PAGAMENTO.
+1. Os recursos especiais foram interpostos contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não procede a arguição de ofensa aos art. 489, § 1º, VI, e § 3º, e 1.022 do NCPC, quando o Tribunal a quo se pronuncia de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+3. O julgador não está obrigado a aplicar a tese fixada no julgamento de recurso especial repetitivo como determinado pelo art. 927, III, do NCPC quando realiza a separação do joio do trigo.
+4. Ausente o debate pela Corte de origem acerca de preceito legal dito violado, incide a Súmula nº 211 do STJ.
+5. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que seja indicada ofensa ao art. 1.022, para que se possibilite ao órgão julgador verificar a existência do vício inquinado no acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau de jurisdição facultada pelo dispositivo de lei.
+6. O termo inicial da prescrição da pretensão de restituição dos valores pagos parceladamente a título de comissão de corretagem é a data do efetivo pagamento (desembolso total).
+7. Recurso especial da PROJETO FOX conhecido em parte e, nessa extensão, não provido. Recurso especial da LPS não provido.
+(REsp 1724544/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/10/2018, DJe 08/10/2018; grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. JUROS REMUNERATÓRIOS. LIMITAÇÃO. INOVAÇÃO NA LIDE. DIREITO DISPONÍVEL. INEXISTÊNCIA DE MATÉRIA DE ORDEM PÚBLICA. LEGITIMIDADE. REEXAME DE PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Não há ofensa ao art. 1.022 do Código de Processo Civil se o Tribunal de origem se pronuncia expressamente sobre a matéria invocada pela parte, dando solução jurídica motivada e suficiente.
+2. A limitação de juros remuneratórios em contratos bancários é tema de direito patrimonial disponível, de modo que deve ser deduzida desde a inicial, sendo incabível invocá-la na apelação, inovando na lide, quando já perfectibilizada a relação processual, saneado o feito e encerrada a dilação probatória.
+3. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1032923/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/05/2017, DJe 22/05/2017; grifou-se)
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+2. No tocante à apontada violação aos arts. 130 e 330, inc. I, do CPC/73, relativa à ocorrência de cerceamento de defesa, ante o indeferimento da produção de prova oral, o Tribunal de origem consignou que (fls. 244/245, e-STJ):
+A produção de prova pericial foi determinada pela Magistrada que presidia o feito diante da extrema necessidade de se aferir a alegação constante da inicial, de que o livro publicado pela requerida continha inúmeros erros de português (fl.77), o que restou esclarecido de maneira bastante clara pela perícia realizada (fl. 93-105). Inclusive, os quesitos atinente à perícia cingem aquelas formulados pelas partes (fls.77-78 e fls. 81-82).
+Dessa forma, não há falar em cerceamento de defesa, sendo a prova realizada suficiente para o desate da controvérsia.
+Com efeito, à luz do artigo 370 do NCPC (antigo 130 do CPC/73), cabe ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias.
+Assim, o poder de instrução, conferido ao magistrado em decorrência dos princípios da livre admissibilidade da prova e do livre convencimento motivado, autoriza-o a indeferir a prova requerida, quando constatada sua manifesta desnecessidade ou inconveniência, o que não configura cerceamento de defesa.
+Nesse contexto, a revisão do entendimento do Tribunal estadual acerca da necessidade de produção de outras provas para o deslinde da controvérsia reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PERÍCIA. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, o qual preceitua que cabe ao magistrado dirigir a instrução probatória por meio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Inviável rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, sem a análise dos fatos e das provas dos autos, o que é inviável em recurso especial diante da incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1105171/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AO 535 DO CPC DE 1973. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA. INCIDÊNCIA, MAIS UMA VEZ, DA SÚMULA 7 DO STJ.
+ ..
+3. "O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC. A avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial (Súmula n. 7/STJ)" (AgRg no REsp 1449368/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2014, Dje 27/08/2014).
+ ..
+5. Agravo interno de fls. 903/912 não conhecido e agravo interno de fls. 893/902 não provido. (AgInt no AREsp 1083997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 15/08/2017)  grifou-se
+3. Em relação à alegada ausência, na hipótese dos autos, de dano moral indenizável ou da demonstração de sua ocorrência, o Tribunal de origem, com base nos elementos fático-probatórios acostados aos autos, asseverou que "não pairam dúvidas sobre a presença dos requisitos ensejadores da responsabilidade de indenizar. A situação constrangedora a que se submeteu o autor, ao ter sua obra publicada com inúmeros erros de português, é evidente. Tanto é assim que, ao contrário do que alega o recorrente, tal fato pode ter sido o motivo da baixa venda nos exemplares" (fl. 248,e-STJ).
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. DESCUMPRIMENTO DE ACORDO. BAIXA DE GRAVAME. REEXAME DE MATÉRIA FÁTICA. PRECEDENTES
+1. A reforma do acórdão proferido na origem para afirmar que o descumprimento do acordo ultrapassou o mero dissabor demandaria o reexame de matéria fático-probatória, inviável no recurso especial (Súmula nº 7/STJ).
+2. Agravo interno não provido.
+(AgInt no REsp 1621429/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/11/2017, DJe 30/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CHEQUE. DESCONTO INDEVIDO. DANOS MORAIS. RESPONSABILIDADE CIVIL. REQUISITOS. COMPROVAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem afastou o pedido de indenização por danos morais em razão da inexistência de comprovação de qualquer ofensa à imagem, ao nome ou à dignidade da parte autora pelo desconto indevido de um cheque na conta-corrente. A alteração de tal entendimento, como pretendida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ. Precedentes.
+2. A incidência da Súmula 7/STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 924.721/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04.10.16, DJe 20.10.16)  grifou-se
+4. Por fim, não é possível o acolhimento do recurso interposto pela alínea "c" do permissivo constitucional.
+Isso porque a caracterização da divergência jurisprudencial demanda a colação de trechos do relatório e do voto dos acórdãos paradigma e paragonado, com a realização do devido cotejo analítico, sendo insuficiente a mera transcrição de ementas, ou mera menção da divergência entre julgados, como ocorreu no caso.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO. NÃO REALIZAÇÃO. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE SIMILITUDE FÁTICA. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO.
+1. A divergência jurisprudencial, nos termos do artigo 266, § 1º, c/c o artigo 255, §§ 1º e 2º, do RISTJ, exige comprovação e demonstração com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+ ..
+(AgInt nos EAREsp 971.729/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 31/10/2017)
+PROCESSUAL CIVIL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA 284/STF.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, não bastando a mera transcrição de ementas.
+2. No caso dos autos, não foram respeitados tais requisitos legais e regimentais, o que impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+ ..
+6. Recurso Especial do qual não se conhece.
+(REsp 1672895/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/08/2017, DJe 12/09/2017)
+5. Do exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
