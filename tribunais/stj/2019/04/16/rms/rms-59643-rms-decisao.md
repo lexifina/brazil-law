@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b" da Constituição Federal e art. 1.027, II, "a" do Código de Processo Civil, apresentado por [NOME] MOTA EVERTON, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso. A parte não indicou o número do processo no Tribunal de origem, que corresponde à informação "Processo na origem" na guia de recolhimento das custas judiciais juntada aos autos (fl. 667).
+Ademais, a parte foi intimada para regularizar o óbice. Porém, embora regularmente intimada para sanar referido vício, limitou-se argumentar que a informação relativa ao "Processo na Origem" na guia de recolhimento das custas judiciais encontra-se "nas páginas: 330 e 331/395 do arquivo "5 - Vl - 2 - ÍNTEGRA DO PROCESSO - 274 - 663 - 10/12/2018", correspondentes às páginas 534 e 535 dos autos originais/TJMA", além das " páginas: 356 a 362/395 do arquivo "5 - Vl - 2 - ÍNTEGRA DO PROCESSO - 274 - 663 - 10/12/2018", correspondentes às páginas 560 a 565 dos autos originais/TJMA." (fl. 671).
+Adicionalmente, trouxe novamente a mesma guia de custas e respectivo comprovante de pagamento sem a informação correspondente ao "Processo na origem".
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição dos embargos de divergência, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no AREsp 970.275/PR, Rel. Ministro Lázaro Guimarães (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe de 26/02/2018; AgInt no REsp 1620424/RS, Rel. Ministro Herman Benjamim, Segunda Turma, DJe de 11/10/2017; e AgInt no AREsp 1056629/AM, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 06/09/2017.
+Assim, incide na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Deixo de conhecer da petição de fls. 682/699, em razão da preclusão consumativa.
+Publique-se. Intimem-se.
