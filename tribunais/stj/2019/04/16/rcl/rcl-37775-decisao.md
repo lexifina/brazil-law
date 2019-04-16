@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de reclamação proposta por ANNA MARIA MULLER DE LIMA, com fulcro no art. 105, I, "f", da Constituição Federal, no art. 988 do CPC/2015 e bi art, 187 do RISTJ, contra acórdão do Tribunal Federal da 3ª Região, que, nos autos da Apelação n. 0007372-23.1991.4.03.6005/MS, manteve a sentença que julgou improcedente a ação de reintegração de posse cumulada com perdas e danos.
+Sustenta, em síntese, que o Tribunal de origem violou o art. 569 do CPC/2019, além de divergir da jurisprudência do Superior Tribunal de justiça, ao reconhecer a propriedade da reclamante como terra de ocupação tradicional indígena (e-STJ fl. 9), quando, na realidade, o que ocorreu foi verdadeiro esbulho possessório por parte dos aborígenes.
+Requer, assim, a suspensão do aresto hostilizado, até o julgamento do Aresp n. 1.366.163/MS, em tramitação nessa Corte de Justiça.
+Passo a decidir.
+Nos termos do art. 105, I, "f", da Constituição Federal, c/c o art. 988 do CPC/2015 e o art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, garantir a autoridade das suas decisões, a observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+O inciso II do § 5º do já referido art. 988 do novel Estatuto Processual Civil ainda possibilita o manejo da presente via para a garantia da observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, uma vez esgotadas as instâncias ordinárias.
+In casu, a presente reclamação não se enquadra nas hipóteses acima destacadas, uma vez que a reclamante busca a reforma de acórdão proferido pelo Tribunal Regional Federal da 3ª Região em sede recurso de apelação, ao argumento de que supostamente contraria a jurisprudência deste Sodalício e legislação processual.
+Nessa quadra, forçoso convir que a presente reclamação é manifestamente incabível, visto que utilizada como sucedâneo recursal.
+A esse respeito:
+PROCESSUAL CIVIL. RECLAMAÇÃO. ALEGAÇÃO DE DIVERGÊNCIA COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 988 DO CPC. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE.
+I - A reclamação não é instrumento útil para adequar as decisões reclamadas aos julgados do STJ, conforme se dessume do art. 988, do CPC/2015, com a redação dada pela Lei n. 13.256/2016.
+II - Observa-se que a hipótese apresentada pelo reclamante, qual seja, inconformidade da decisão reclamada com a jurisprudência do Superior Tribunal de Justiça, não se encontra elencada dentre as situações que viabilize a apresentação da reclamatória, não sendo possível a utilização da via como sucedâneo recursal para discutir o teor da decisão reclamada. Nesse sentido, confiram-se: AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016 e AgInt na Rcl 32.343/MG, Relator Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 08/11/2016.
+III - Agravo interno improvido.
+(AgInt na Rcl 36.014/PE, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 26/09/2018, DJe 03/10/2018).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO QUE NEGOU SEGUIMENTO À RECLAMAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DE AUTORIDADE DAS DECISÕES PROFERIDAS NOS RESPs 1.468/665/PE E 1.520.281/PE NÃO CARACTERIZADA. EXECUÇÕES FISCAIS DISTINTAS. IDENTIDADE ENTRE OS PROCESSOS QUE NÃO FOI VERIFICADA. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. AGRAVO INTERNO DA CONTRIBUINTE NÃO PROVIDO.
+1. A reclamação não é instrumento hábil para adequar o julgado ao entendimento do Superior Tribunal de Justiça, não se prestando como sucedâneo recursal.
+2. O cabimento da Reclamação calcada na garantia da autoridade das decisões do Tribunal (art. 988, II, CPC/2015) surge por ocasião de eventual descumprimento de ordens emanadas desta Corte aplicáveis especificamente para o caso concreto, não sendo esta a hipótese retrata nos autos.
+3. Ainda que o posicionamento deste Relator esteja em desacordo com a determinação da penhora de imóvel onde localizada a sede da empresa, o instrumento processual utilizado é inadequado para os fins almejados pela parte recorrente.
+4. Agravo interno da Contribuinte não provido.
+(AgInt na Rcl 33.768/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 01/08/2017).
+Diante do exposto, com fundamento no art. 34, XVIII, "a" do RISTJ, NÃO CONHEÇO da reclamação, ficando prejudicado o exame do pedido de liminar.
+Publique-se. Intimem-se.
