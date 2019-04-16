@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do NCPC), interposto por [NOME] S/A EMPREENDIMENTOS E PARTICIPAÇÕES e OUTRAS, contra decisão que não admitiu recurso especial (fls. 878/879, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 775/776, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DETERMINAÇÃO DERIVADA DE LIMINAR CONCEDIDA AB INITIO E MANTIDA EM SENTENÇA. APELO RECEBIDO NO EFEITO DEVOLUTIVO. POSSIBILIDADE DE MAJORAÇÃO DAS ASTREINTES. PRAZO FIXADO.
+RECURSO NÃO PROVIDO, NA PARTE CONHECIDA.
+1.Decisão que "diante da parcial procedência da sentença, a qual tornou definitiva liminar que, dentre outras determinações, suspendeu as cobranças de IPTU", determinou às rés/agravantes que providenciassem "a regularização da situação do imóvel perante a Prefeitura de São Paulo, no prazo de cinco dias, pagando o débito e excluindo o nome do autor como responsável tributário, com as respectivas alterações cadastrais", sob pena de majoração da anteriormente estipulada (R$ 2.000,00 por mês de descumprimento).
+2.Não se conhece do recurso quanto às matérias relativas à aplicabilidade das astreintes e ao valor da multa mensal fixada em R$ 2.000,00 em anterior decisão.
+Matérias que foram apreciadas no agravo de instrumento que gerou a prevenção desta Relatoria. Decisão agravada que não majorou tal valor, mas tão somente consignou a possibilidade de majoração diante do descumprimento da obrigação de fazer imposta. A incidência ou não das astreintes à luz das providências tomadas pelas rés e a eventual necessidade de modificação do valor apurado será analisada pelo Magistrado de primeiro grau, no momento oportuno.
+3.Determinação que é decorrente de liminar concedida ab initio, diante do fato de que os autores não entraram na posse do imóvel, contra a qual, ao que consta, não foi interposto nenhum recurso pelas ora agravantes. Liminar mantida na sentença de parcial procedência da ação, sendo que os recursos de apelação interpostos pelas partes foram recebidos apenas no efeito devolutivo no que tange à confirmação da tutela antecipadamente concedida. Possível o cumprimento provisório da sentença neste ponto. Ausente o perigo de irreversibilidade da medida.
+4.Não demonstrado qualquer óbice ao cumprimento da determinação no prazo estabelecido.
+5.Recurso não provido, na parte conhecida.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, as recorrentes apontam ofensa aos artigos 186, 402, 403, 416, 421 e 422 do Código Civil de 2002.
+Sustenta, em síntese, que o "negócio jurídico firmando pelas partes está em perfeita harmonia com o direito positivado, pois não possui vícios de forma e de fundo".
+Afirma que "jamais existiu qualquer desequilíbrio entre os contratantes, sendo certo que o Recorrido sempre esteve ciente da extensão das obrigações assumidas no momento da contratação".
+Aduz, por fim, "não há que se falar em pagamento de lucros cessantes", e "não podem ser responsabilizadas pela cobrança realizada pela Prefeitura Municipal de São Paulo, visto que ficou caracterizada a obrigação da Recorrida quanto aos parcelas relativas ao IPTU".
+Contrarrazões (fls. 857/864, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; e (ii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do NCPC), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 892/898 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Depreende-se dos autos que o conteúdo normativo dos artigos 186, 402, 403, 416, 421 e 422 do CC/02, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do NCPC.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Ademais, mesmo que fosse possível superar o óbice, a Corte local, ao negar provimento ao agravo de instrumento interposto pelas insurgentes, não conheceu da irresignação quanto à aplicabilidade das "astreintes" e ao valor da multa, porque já foram apreciadas em outro recurso; e, com relação à determinação de regularização da situação do imóvel, não houve, no momento adequado, interposição de recurso cabível, bem como que a liminar foi mantida pela sentença.
+É, aliás, o que se extrai do seguinte excerto (fls. 776/778, e-STJ):
+I) Inicialmente, não se conhece do presente recurso quanto às matérias relativas à aplicabilidade das astreintes e ao valor da multa mensal fixada em R$ 2.000,00 na decisão de fls. 266 dos autos de origem (p. 367 deste agravo), isso porque já foram apreciadas no agravo de instrumento que gerou a prevenção desta Relatoria (ai n.º 2166474-39.2014.8.26.0000) e, também, pelo fato de que a r. decisão agravada não majorou tal valor, mas tão somente consignou a possibilidade de majoração diante do descumprimento da obrigação de fazer imposta.
+II) E, quanto a isso, não se pode olvidar que a modificação do valor da multa diária a qualquer tempo é possível, ainda que após sentença já transitada em julgado, a critério do Magistrado de origem. Nesse sentido, Humberto Theodoro Júnior (Curso de Direito Processual Civil, vol. II, 45ª ed., Ed.
+Forense, 2010, p. 34, n. 639-e) faz a seguinte consideração:
+(..)
+Já a incidência ou não das astreintes à luz das providências tomadas pelas rés e a eventual necessidade de modificação do valor apurado será analisada pelo Magistrado de primeiro grau, no momento oportuno.
+III) No mais, quanto à determinação de regularização da situação do imóvel perante a Prefeitura de São Paulo, para: a) pagamento do débito de IPTU e b) exclusão do nome do autor como responsável tributário, com as respectivas alterações cadastrais; vê-se que é decorrente da liminar concedida às fls. 206 dos autos de origem (pp. 307/308 deste recurso) diante do fato de que os autores não entraram na posse do imóvel, contra a qual, ao que consta, não foi interposto nenhum recurso pelas ora agravantes.
+Ademais, tal liminar foi mantida na sentença de parcial procedência da ação (cópia às pp. 554/560), sendo que os recursos de apelação interpostos pelas partes, dentre eles o das agravantes (cópia às pp. 602/613, repetida às pp. 614/625) foram recebidos apenas no efeito devolutivo no que tange à confirmação da tutela antecipadamente concedida (p. 696), assim, possível o cumprimento provisório da sentença neste ponto.
+Por outro lado, não existe perigo de irreversibilidade da medida, pois, nada impede que as agravantes busquem, posteriormente, pelas vias adequadas, a reparação por danos eventualmente sofridos, se modificada a sentença em grau recursal.
+IV) Por fim, na hipótese concreta, os agravantes apenas alegam genericamente, mas não demonstram qualquer óbice ao cumprimento da decisão agravada no prazo estabelecido pelo Magistrado, pelo que, resta este mantido.
+V) Concluindo, não é conhecido o recurso quanto à fixação das astreintes e ao valor estabelecido em anterior decisão e é mantida a decisão agravada.
+Da leitura do excerto do acórdão impugnado e das razões recursais, depreende-se a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada.
+Assim, considerando que as razões recursais apresentadas encontram-se dissociadas do fundamento adotado pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial (Súmula 284 do STF) e a falta de impugnação específica do decisum (Súmula 283 do STF), torna-se inviável o seguimento do recurso especial.
+Além disso, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
