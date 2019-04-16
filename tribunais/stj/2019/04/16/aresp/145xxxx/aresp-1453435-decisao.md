@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. COTAS-PARTE. REVERSÃO. NORMA LOCAL DECLARADA INCONSTITUCIONAL. NECESSIDADE DE INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por SÃO PAULO PREVIDÊNCIA - SPPREV, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 104 e-STJ):
+PREVIDENCIÁRIO - Pensão por Morte. Reversão da quota-parte antes recebida pelo irmão e que foi sustada pela conclusão do ensino superior. Possibilidade. Benefício que possui atributo de Unicidade e natureza "intuito familiae". Inteligência do artigo 7º, § 1º, da Lei Federal nº 8.213/91. Precedentes. Procedência do pedido. Manutenção.
+REEXAME NECESSÁRIO NÃO ACOLHIDO. RECURSO VOLUNTÁRIO NÃO PROVIDO.
+Embargos de declaração opostos e rejeitados (fl. 131 e-STJ).
+No recurso especial, a recorrente sustenta contrariedade ao art. 77, § 1º, da Lei n. 8.213/1991, alegando que não há inconstitucionalidade do art. 148, § 5º, da Lei complementar Estadual n. 180/1978, que expressamente vedou a reversão da quota-parte de pensão entre filhos do segurado, por suposta violação do princípio da unicidade da pensão, e que a previdência social é matéria de competência legislativa concorrente. Suscita divergência jurisprudencial sustentando que o STJ possui entendimento sedimentado de que não se aplica o disposto no art. 77, § 1º, da Lei n. 8.213/1991 quando a lei estadual dispuser de forma diferente, colacionando trecho de acórdão que trata sobre a vedação legal de reversão da pensão de ex-combatentes, prevista em lei federal.
+Contrarrazões a fls. 169-175 e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Verifica-se que, na espécie, a Corte de origem assentou sua compreensão quanto à aplicabilidade do art. 77, § 1º, da Lei n. 8.213/1991 consignando que a norma estadual que restringia as hipóteses legais de reversão de quotas-partes do benefício previdenciário - art. 148, § 5º, da Lei Complementar Estadual n. 180/1978 - já fora declarada inconstitucional em arguição de inconstitucionalidade julgada pelo Órgão Especial daquele Tribunal, em 26/8/2015 (fls. 105-111 e-STJ).
+Com efeito, para o acolhimento da pretensão da recorrente, ainda que sustentada com base em suposta violação de lei federal, imprescindível a interpretação da norma local defendida pela parte, mas que teve sua inconstitucionalidade reconhecida pelo Órgão Especial do Tribunal em arguição de inconstitucionalidade, o que é inviável pela via do recurso especial, nos termos da Súmula 280/STF.
+Na forma da jurisprudência, "prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea a do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
