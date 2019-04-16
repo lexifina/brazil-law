@@ -1,0 +1,29 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Osvaldo Jesus Serrao de Aquino, em favor de Melquesedeque da Silva Ribeiro, contra decisão proferida pelo Ministro Ribeiro Dantas, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC 94.198/PA.
+    Consta dos autos que o paciente foi condenado pela prática dos delitos descritos nos arts. 148, 158, § 1º, c/c o 29, e no art. 317, § 3º e 4º, a e c, da Lei n. 4.898/1965, à pena de 17 anos e 11 meses de reclusão, a ser cumprida inicialmente em regime fechado, sendo-lhe deferido recorrer em liberdade, todavia, com o uso de monitoramento eletrônico.
+    Irresignada, a defesa impetrou habeas corpus no TJ/PA alegando, em suma, a ilegalidade na fixação da aludida medida cautelar.
+    A ordem restou denegada nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS COM PEDIDO DE LIMINAR. ARTS. 148, 158, § 1º C/C ART. 29 E ART. 317, § 3º E 4º, ALÍNEAS 'A' E 'C' DA LEI Nº 4.898/65. 1 - INSURGÊNCIA QUANTO AO USO DE TORNOZELEIRA ELETRÔNICA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. INSUFICIÊNCIA DO ALEGADO CONSTRANGIMENTO À LOCOMOÇÃO. ADEMAIS, NÃO SE PODE DEIXAR AO CRITÉRIO DO PACIENTE A ESCOLHA DA FORMA COMO IRÁ CUMPRIR AS DETERMINAÇÕES JUDICIAIS FIXADAS EM SEDE DE SENTENÇA CONDENATÓRIA, AINDA MAIS QUANDO SE TRATA DE DISPOSITIVO DISCRETO, OCULTÁVEL E ESSENCIAL PARA MANTER O ORA PACIENTE SOB SEGURA VIGILÂNCIA DO ESTADO. QUANTO À ALEGAÇÃO DA EXISTÊNCIA DE RECURSO PENDENTE NA ESFERA ADMINISTRATIVA, TEM-SE QUE AS RESPONSABILIDADES NAS INSTÂNCIAS PENAL E ADMINISTRATIVA SÃO INDEPENDENTES. 2. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. APLICAÇÃO DA SÚMULA 8 TJ/PA. PRECEDENTES. HABEAS CORPUS CONHECIDO. ORDEM DENEGADA" (eDOC 7)
+    Impugnou-se o acórdão por meio de recurso ordinário no Superior Tribunal de Justiça. Na ocasião novamente requereu-se a liberdade provisória sem o monitoramento eletrônico.
+    O recurso foi monocraticamente desprovido ante a ausência de ilegalidade na medida imposta.
+    Nesta Corte o impetrante requer seja retirado o monitoramento, uma vez que o paciente possui residência fixa e bons antecedentes, de modo a não existir qualquer indiciativo de que, solto, poderá frustar a aplicação da lei penal.
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental. No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque, como bem pontuado pelo STJ, não há qualquer ilegalidade que inviabilize o monitoramento eletrônico do réu. Para tanto consignou:
+    “A teor do que dispõe o art. 387, § 1º, do Código de Processo Penal, "o juiz, decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser imposta".
+    No caso dos autos, a medida cautelar de monitoração eletrônica foi decretada nos seguintes termos:
+    "[...] Nos termos do art. 387, § 1º do CPP, imponho ao condenado MELQUESEDEQUE DA SILVA RIBEIRO, como medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta, o monitoramento eletrônico, nos termos do art. 319, IX do CPP, tendo em vista que o acusado, no início da instrução ficou foragido por mais de mês, mudou de residência várias vezes durante os últimos anos e não foi localizado em nenhum dos endereços indicados em sua ficha funcional, demonstrando que não tem muito interesse em cumprir as determinações legais. Mesmo assim, tais fatos não me fazem vislumbrar a necessidade de prisão" (e-STJ, fl. 28).
+    Verifica-se do trecho supracitado que a medida cautelar diversa da prisão adotada pelo juiz, relacionada à monitoração eletrônica, foi devidamente fundamentada. Com efeito, restou demonstrada sua necessidade diante dos fatos ocorridos durante a instrução processual, notadamente relacionados à constatada ausência do paciente e à dificuldade em sua localização. Assim, a aplicação de tal medida visa assegurar a aplicação da lei penal.
+    Ademais, a existência de condições pessoais favoráveis não são aptas a desconstituir eventuais medidas cautelares adotadas, quando estão presentes os requisitos que autorizem a imposição da referida medida, como constatado na hipótese.
+    Ante o exposto, nego provimento ao recurso ordinário em habeas corpus”. (eDOC 8)
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer deste habeas corpus.
+    Ante o exposto, nego seguimento ao presente habeas corpus , por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 16 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
