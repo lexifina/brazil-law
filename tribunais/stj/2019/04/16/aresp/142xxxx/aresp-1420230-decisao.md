@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Embargos à execução em razão de cláusulas abusivas em contratos de crédito bancário.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 na hipótese em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo conhecido. Recurso especial provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por COPACABANA SANEAMENTO E TRATAMENTO DE ÁGUA LTDA e LUCIANE DE MATOS NANTES COSTADELE, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/11/2018.
+Concluso ao gabinete em: 09/01/2019.
+Ação: embargos à execução, opostos pelas agravantes, em face de KIRTON BANK S.A. - BANCO MÚLTIPLO, em razão de cláusulas abusivas em contratos de crédito bancário.
+Sentença: julgou parcialmente procedentes os embargos, apenas para o fim de declarar abusiva eventual capitalização de juros de forma mensal, eis que não pactuada, mantendo-se a taxa de juros remuneratórios e moratórios nos limites contratados, vedada acumulação, bem como para afastar cobrança de comissão de permanência cumulada com os demais encargos. Determinou, em consequência, seja refeito o cálculo na execução, para seu regular prosseguimento. Condenou cada uma das partes ao pagamento das custas, despesas processuais, na proporção de 50%, bem como em honorários arbitrados em R$ 1.000,00 para cada uma.
+Acórdão: negou provimento à apelação das agravantes e deu provimento ao recurso adesivo interposto pelo agravado, para permitir a cobrança da capitalização mensal dos juros. Tendo em vista a sucumbência mínima do agravado, condenou as agravantes ao pagamento integral das custas processuais e honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, 86, 489, §1º, IV, e 1.022, I, e parágrafo único, II, do CPC/15. Além de negativa de prestação jurisdicional, sustenta que: i) se foram executados dois contratos mas apenas um deles remanesceu, e ainda assim tendo sido revisado, houve sucumbência recíproca; ii) o valor atualizado da causa não pode ser adotado como parâmetro para a fixação dos honorários advocatícios.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do Tribunal de origem residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, ficou silente no que concerne aos seguintes argumentos trazidos pelas agravantes: i) se foram executados dois contratos mas apenas um deles remanesceu, e ainda assim tendo sido revisado, houve sucumbência recíproca; e ii) o valor atualizado da causa não pode ser adotado como parâmetro para a fixação dos honorários advocatícios.
+Da análise do processo, constata-se que o TJ/MS, ao julgar os embargos de declaração interpostos pelas agravantes, foi omisso quanto a estes argumentos. Entretanto, verifica-se que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios interpostos.
+É firme a jurisprudência do STJ no sentido de que há ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe de 20/10/2017; e AgInt no AREsp 429.547/RJ, 4ª Turma, DJe de 8/9/2016).
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo, portanto, a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para: a) anular o acórdão que julgou os embargos de declaração interpostos pelas agravantes; b) determinar a remessa dos autos ao TJ/MS, a fim de que se pronuncie, na esteira do devido processo legal, a respeito dos argumentos trazidos pelas agravante de que houve sucumbência recíproca e o valor atualizado da causa não pode ser adotado como parâmetro para a fixação dos honorários advocatícios.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
