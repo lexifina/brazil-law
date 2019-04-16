@@ -1,0 +1,36 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM PRÉVIO WRIT, AINDA NÃO JULGADO PELA CORTE A QUO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Desembargador Relator do HC n.º 2075910-38.2019.8.26.0000, em trâmite perante o Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar pleiteada.
+Consta dos autos que o Paciente foi preso em flagrante, em 20/11/2018, pela suposta prática do delito tipificado no art. 16, parágrafo único, inciso IV, da Lei n.º 10.826/2003, em razão da apreensão de um revólver calibre .38, com numeração raspada, e 5 projéteis de calibre .38. Em 21/11/2018, a prisão em flagrante foi convertida em preventiva (fls. 70-72).
+Inconformada com a segregação cautelar, a Defesa impetrou habeas corpus na origem, tendo sido indeferido o pedido liminar (fls. 271-273).
+Neste writ, a par das condições subjetivas favoráveis do Paciente, alega o Impetrante excesso de prazo na formação da culpa.
+Busca assim, em liminar e no mérito, a revogação da prisão preventiva, com aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na Instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n.º 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (HC 323.373/AgRg-PR, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, DJe de 17/06/2015; HC 274.058/AgRg-RJ, Sexta Turma, Rel. Min. ROGERIO SCHIETTI, DJe de 19/12/2013; HC 274.845/SP, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 29/11/2013; HC 260.126/SE, Quarta Turma, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 29/11/2013, v.g.).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho não pode ser ordinariamente admitido, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, mormente por forçar o pronunciamento adiantado da Instância Superior, suprimindo a competência da Inferior, subvertendo a regular ordem do processo.
+Na hipótese em apreço, não constato excepcionalidade que possa ensejar a superação do entendimento sumular acima referido.
+Segundo se extrai dos autos, o Paciente foi preso em flagrante, em 20/11/2018, pela suposta prática do delito tipificado no 16, parágrafo único, inciso IV, da Lei n.º 10.826/2003, teve sua prisão convertida em preventiva em audiência de custódia realizada em 21/11/2018 e pretende a revogação do encarceramento preventivo, ao argumento de que haveria excesso de prazo na formação da culpa.
+O Desembargador Relator do writ originário indeferiu o pedido liminar, por entender que "a documentação apresentada com a inicial não permite constatar, de plano, a existência de intervalos injustificados entre atos processuais ou eventual desídia da autoridade impetrada capaz de evidenciar o aventado excesso de prazo no encerramento da fase do judicium accusationis" (fl. 271).
+Verifica-se que a prisão em flagrante ocorreu em 20/11/2018 e sua conversão em preventiva em 21/11/2018, ou seja, no dia seguinte. O Acusado foi denunciado em 11/12/2018, de forma que não se verifica, primo ictu oculi, demora injustificada, tampouco desídia estatal na condução do feito.
+Ademais, a orientação consolidada do Superior Tribunal de Justiça é no sentido de que " a  questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC 398.067/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/06/2017, DJe de 23/06/2017).
+Diante do que registrado acima, não há ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal - cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça -, sobretudo porque, em juízo de cognição sumária, não é possível vislumbrar negligência do Estado na condução do processo.
+Não há, assim, teratologia a ser corrigida. A matéria, como se vê, depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente à Corte impetrada a análise, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Instância a quo, mormente porque o writ, ao que parece, está sendo regularmente processado.
+Nesse diapasão, os seguintes precedentes:
+" ..
+1. "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula 691 do STF).
+2. Hipótese em que a Corte de origem indeferiu o pleito liminar por não se verificar os requisitos autorizadores da medida de urgência, pois, em um primeiro exame, há elementos suficientes para a manutenção da sentença condenatória.
+3. Não verificada, por ora, a ocorrência de flagrante ilegalidade, apta a justificar o processamento da presente ordem, não cabe a mitigação da Súmula 691 do STF por esta Corte Superior, de forma a resguardar a competência do Tribunal Estadual para análise da questão e evitar a indevida supressão de instância.
+4. Hipótese em que não se verifica nos autos informação acerca do trânsito em julgado da sentença condenatória para o Ministério Público, a fim de tornar imutável a reprimenda para a acusação.
+5. Agravo regimental não provido." (AgRg no HC 450.794/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/06/2018, DJe de 28/06/2018.)
+" ..
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (Precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como se afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 451.544/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/06/2018, DJe 01/08/2018.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
