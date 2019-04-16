@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 7.º, INCISO IX, DA LEI N.º 8.137/90. NÃO ELABORADO LAUDO PARA COMPROVAR QUE AS MERCADORIAS MANTIDAS EM DEPÓSITO E EXPOSTAS À VENDA ERAM IMPRÓPRIAS AO CONSUMO HUMANO. AUSÊNCIA DE PROVA DA MATERIALIDADE DELITIVA. ABSOLVIÇÃO. NECESSIDADE. AGRAVO CONHECIDO PARA CONHECER E DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional (Apelação n.º 0002536-03.2013.8.26.0495).
+Consta dos autos que o Juiz de primeiro condenou a Agravante à pena de 2 (dois) anos e 8 (oito) meses de detenção, em regime inicial semiaberto, como incursa no art. 7.º, inciso IX, da Lei n.º 8.137/90 (fls. 106-111).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem deu parcial provimento para, afastando a reincidência, redimensionar a reprimenda imposta ao patamar de 2 (dois) anos, 2 (dois) meses e 20 (vinte) dias de detenção (fls. 146-157).
+Os embargos de declaração opostos foram rejeitados (fls. 172-175).
+Alega a Agravante, nas razões do apelo nobre, além da existência de dissídio pretoriano, afronta ao art. 158 do Código de Processo Penal e aos arts. 33, § 3.º, e 59 do Código Penal.
+Sustenta que laborou em equívoco o Tribunal a quo ao entender " ..  ser dispensável perícia diretamente sobre o produto considerado impróprio para o consumo  .. " (fl. 183).
+Pugna pela absolvição, tendo em vista que, na espécie, " ..  a análise pericial não se dirigiu diretamente ao produto apreendido. Isto é, nenhum palmito foi tecnicamente experimento para se concluir que estava estragado e que poderia causar doença"" (fl. 193).
+Pondera que deve ser fixado regime mais brando que o semiaberto para início do cumprimento da pena.
+Contrarrazões às fls. 216-228. Inadmitido o recurso na origem (fls. 240-241), adveio o presente agravo (fls. 246-249).
+O Ministério Público Federal manifestou-se à fls. 285-289, opinando pelo desprovimento do agravo.
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fl. 155; sem grifos no original):
+"É notório que o palmito mal acondicionado e armazenado pode acarretar uma série de patalogias, dentre elas, o botulismo.
+Por primeiro, restou demonstrada a materialidade do delito pelo laudo de fls. 33/35, que atestou que os frascos não tinham qualquer rótulo.
+Já a autoria ficou lastreada na confissão da acusada e nos depoimentos dos policiais.
+De outro lado, o fato de [NOME] não ser comerciante potencializa a prova em seu desfavor, tendo em vista que restou demonstrado que a atividade era realizada de maneira clandestina.
+Deste modo, comprovada a ocorrência do delito e a responsabilização, passo à análise da reprimenda imposta."
+Como se vê, o entendimento adotado pela Corte a quo destoa da jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que, para a comprovação de prática das condutas delitivas previstas no inciso IX da Lei n.º 8.137/90, é imprescindível a elaboração de laudo pericial que comprove ser a mercadoria imprópria (nociva) para o consumo humano.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. CRIME CONTRA AS RELAÇÕES DE CONSUMO. ART. 7º, INCISOS II E IX DA LEI N. 8.137/90. ALIMENTOS SEM INDICAÇÃO DE PROCEDÊNCIA E IMPRÓPRIOS PARA O CONSUMO. MERCADORIA COM PRAZO DE VALIDADE VENCIDA. AUSÊNCIA DE PERÍCIA TÉCNICA. MATERIALIDADE DELITIVA NÃO DEMONSTRADA. FALTA DE JUSTA CAUSA PARA A AÇÃO PENAL. TRANCAMENTO. RECURSO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a conduta tipificada no art. 7º, parágrafo único, inciso IX, da Lei 8.137/90 - expor à venda produtos impróprios para o consumo - deixa vestígios, razão pela qual a perícia é indispensável para a demonstração da materialidade delitiva, nos termos do art. 158 do Código de Processo Penal - CPP. Precedentes.
+2. Da mesma forma, o tipo previsto no inciso II do art. 7º da Lei n. 8.137/90, "vender ou expor à venda mercadoria cuja embalagem, tipo, especificação, peso ou composição esteja em desacordo com as prescrições legais, ou que não corresponda à respectiva classificação oficial" deve ser considerado de natureza material a exigir perícia para a sua tipificação.
+Assim, no caso dos autos a criminalização da exposição à venda de carne bovina, sem a indicação de procedência, depende também da realização de prova pericial para que fique demonstrado que a mesma é imprópria para o consumo humano, sob pena de restar configurada a responsabilidade objetiva.
+3. Recurso em habeas corpus ao qual se dá provimento para determinar o trancamento da ação penal por falta de justa causa." (RHC 97.335/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/03/2019, DJe de 28/03/2019.)
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ART. 7º, INCISO IX, DA LEI 8.137/1990. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. PRODUTOS IMPRÓPRIOS PARA CONSUMO. EXPIRAÇÃO DO PRAZO DE VALIDADE. PROVA PERICIAL. INEXISTÊNCIA. INTELIGÊNCIA DO ART. 158 DO CPP. ORDEM CONCEDIDA.
+ ..
+2. A jurisprudência da Sexta Turma é assente em considerar que a caracterização do crime previsto no art. 7º, IX, da Lei n. 8.137/1990 depende de realização de laudo pericial atestando a impropriedade dos produtos em questão, no intuito de comprovar a inequívoca nocividade para o consumo, mesmo se expirado o prazo de validade do produto.
+3. "Conquanto parte da doutrina e da jurisprudência entendam que o delito previsto no art. 7º, IX, da Lei n. 8.137/1990, crime formal, de perigo abstrato, seja norma penal em branco, cujo elemento normativo do tipo "impróprio para consumo" deve ser complementado pelo disposto no art. 18, § 6º, do Código de Defesa do Consumidor, a jurisprudência do Superior Tribunal de Justiça entende que há necessidade de realização de exame pericial nos produtos pretensamente impróprios, a fim de que seja comprovada a sua real nocividade para consumo humano, sob pena de inaceitável responsabilidade penal objetiva" (RHC 69.692/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/6/2017, DJe 13/6/2017).
+4. Ordem concedida para restabelecer a decisão de primeiro grau que rejeitou a denúncia." (HC 388.374/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe de 01/12/2017.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 7º, INCISO IX, DA LEI Nº 8.137/90. PRODUTO IMPRÓPRIO PARA CONSUMO. PERÍCIA. NECESSIDADE PARA CONSTATAÇÃO DA NOCIVIDADE DO PRODUTO APREENDIDO.
+1. Em relação ao delito previsto no inciso IX do art. 7º da Lei n. 8.137/1990 - vender, ter em depósito para vender ou expor à venda ou, de qualquer forma, entregar matéria-prima ou mercadoria, em condições impróprias ao consumo -, a jurisprudência desta Corte é no sentido de que a venda de produtos impróprios ao uso e consumo constitui delito que deixa vestígios, sendo indispensável, nos termos do artigo 158 do Código de Processo Penal, a realização de exame pericial que ateste que a mercadoria efetivamente é imprópria para o consumo, não bastando, para tanto, mero laudo de constatação (AgRg no RESp 1.556.132/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 31/3/2016).
+2. Na espécie, não houve laudo pericial para detectar que o alimento estava impróprio para o consumo, o que contraria o entendimento desta Corte Superior.
+3. Agravo regimental não provido." (AgRg no REsp 1.582.152/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/04/2017, DJe de 28/04/2017.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e DAR PROVIMENTO ao recurso especial, a fim de, com fundamento no inciso II do art. 386 do Código de Processo Penal, absolver a Agravante quanto ao delito previsto no inciso IX do art. 7.º da Lei n.º 8.137/90.
+Publique-se. Intimem-se.
