@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDINO FACHINI, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 293/294):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ART. 52 E SEGUINTES DA LEI Nº 8.213/91. ATIVIDADE ESPECIAL. RUÍDO. ELETRICIDADE. RECONHECIMENTO. CONJUNTO PROBATÓRIO. TEMPO ESPECIAL. CONVERSÃO EM COMUM. FATOR DE CONVERSÃO. APOSENTADORIA INTEGRAL POR TEMPO DE CONTRIBUIÇÃO CONCEDIDA. TERMO INICIAL. DATA DA CITAÇÃO. CORREÇÃO MONETÁRIA. JUROS DE MORA. OPÇÃO PELO BENEFÍCIO MAIS VANTAJOSO. EXECUÇÃO DO JULGADO SOMENTE SE A OPÇÃO FOR PELO BENEFÍCIO CONCEDIDO EM JUÍZO. APELAÇÃO DO INSS DESPROVIDA. REMESSA NECESSÁRIA PARCIALMENTE PROVIDA.
+ .. .
+23 - Apelação do INSS desprovida e remessa necessária parcialmente provida.
+Os embargos aclaratórios foram rejeitados (e-STJ fls. 317/324).
+Nas suas razões, o recorrente alega dissídio jurisprudencial e violação do art. 124, II, da Lei n. 8.213/1991 e do art. 489, VI, do Código de Processo Civil/1975, sustentando inexistir cumulação de aposentadorias. Segundo defende, sua pretensão é "tão somente a execução das parcelas do benefício já concedido judicialmente e, de forma simultânea, o exercício de seu direito de optar pela prestação previdenciária mais vantajosa que lhe é devida" (e-STJ fl. 332).
+Sem contrarrazões (e-STJ fl. 366).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, observa-se que a compreensão da Corte Regional destoa do entendimento adotado no âmbito do Superior Tribunal de Justiça, segundo o qual é legítimo o direito de executar os valores relativos a benefício concedido judicialmente, observado o período entre o termo inicial fixado em juízo para concessão do benefício e a data de entrada do requerimento administrativo.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. BENEFÍCIO PREVIDENCIÁRIO RECONHECIDO NA VIA JUDICIAL. SUPERVENIÊNCIA DE DECISÃO ADMINISTRATIVA DO INSS CONCEDENDO BENEFÍCIO MAIS VANTAJOSO. CONCOMITANTE EXECUÇÃO DE VALORES RELATIVOS AO BENEFÍCIO CONQUISTADO JUDICIALMENTE. POSSIBILIDADE. PRECEDENTES.
+1. Não se verifica ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A Primeira Seção, ao decidir o REsp 1.334.488/SC, Rel. Ministro Herman Benjamin, DJe 14/5/2013, processado nos termos do art. 543-C do CPC, chancelou o entendimento de que é possível ao segurado renunciar à aposentadoria para fins de obtenção de novo e posterior jubilamento (desaposentação), sem a necessidade de devolução dos valores recebidos em decorrência do benefício pretérito.
+3. Mutatis mutandi, não se pode solapar do beneficiário, que tenha alcançado em juízo determinado benefício previdenciário, o direito de executar os valores daí decorrentes, ainda que, no curso da ação, tenha conquistado benefício mais vantajoso na seara administrativa, ou seja, por direta concessão do INSS.Tal execução terá por termo final a data do início do benefício mais vantajoso. Precedentes.
+4. Recurso especial não provido.
+(REsp 1.433.895/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/02/2016, DJe 22/02/2016).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE VALORES DECORRENTES DE BENEFÍCIO RECONHECIDO EM JUÍZO, NA EXISTÊNCIA DE DEFERIMENTO DE BENEFÍCIO MAIS VANTAJOSO RECONHECIDO PELO INSS. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O tema recursal gira em torno do prosseguimento do processo de execução, para executar valores oriundos do benefício previdenciário reconhecido em juízo, posteriormente renunciado em razão do deferimento concomitante de benefício previdenciário mais vantajoso por parte da Administração.
+2. Reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso da ação judicial em que se reconheceu benefício menos vantajoso, sendo desnecessária a devolução de valores decorrentes do benefício renunciado, afigura-se legítimo o direito de execução dos valores compreendidos entre o termo inicial fixado em juízo para concessão do benefício e a data de entrada do requerimento administrativo.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.481.248/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/11/2014, DJe 18/11/2014).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL NÃO TRANSITADO EM JULGADO. INOVAÇÃO RECURSAL. ANÁLISE NESTA FASE PROCESSUAL. IMPOSSIBILIDADE.
+1. É inviável a discussão, em sede de agravo regimental, de matéria não abordada no recurso especial ou nas contrarrazões, por se tratar de inovação recursal.
+PREVIDENCIÁRIO. EXECUÇÃO DAS PARCELAS REFERENTE AO BENEFÍCIO CONCEDIDO JUDICIALMENTE, ATÉ A DATA DA APOSENTADORIA POR INVALIDEZ DEFERIDO NA ESFERA ADMINISTRATIVA. POSSIBILIDADE. DECISÃO MONOCRÁTICA MANTIDA. RECURSO IMPROVIDO.
+2. Ante a possibilidade de opção ao benefício previdenciário mais vantajoso, assim como a desnecessidade de devolução da quantia já recebida, afigura-se legítima a execução dos valores compreendidos entre a data de entrada do pedido de aposentadoria, cujo direito foi reconhecido judicialmente, e a data de início do segundo benefício, concedido na via administrativa.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.162.799/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/10/2013, DJe 24/10/2013).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer o direito de o segurado executar os valores relativos à aposentadoria concedida judicialmente, desde que observado o lapso entre a data de entrada do seu requerimento e a de início do segundo benefício, acolhido na via administrativa.
+Publique-se. Intimem-se.
