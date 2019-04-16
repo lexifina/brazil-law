@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo, contra decisão que inadmitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl.138):
+APELAÇÃO CÍVEL E RECURSO EX OFFICIO - Mandado de Segurança - 1TBI - Município de São Paulo - Pretendido recolhimento do tributo com base no valor da arrematação do imóvel. Sentença concessiva da segurança Irresignação da Municipalidade. Inadmissibilidade. Arrematação que deve servir de base para o cálculo do 1TBI - Fato gerador, ademais, que somente ocorre no momento do registro da carta de arrematação Impossibilidade de incidência de encargos moratórios antes do registro - Sentença mantida Recursos improvidos.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 35, I, e 38 do CTN, e 7º da Lei Municipal nº 11.154/91 (com a redação que lhe deram as Leis Municipais 14.125/05 e 14.256/06). Sustenta, em síntese, que: (I) "a base de cálculo do ITBI deve corresponder ao valor venal do imóvel adquirido, e não ao valor lançado para fins de IPTU, como determinado pela r. sentença, nesse ponto, mantida pelo v. acórdão recorrido" (fl.147); e (II) "o lançamento do ITBI - tributo cujo fato gerador é instantâneo, como assinalado - haverá de guardar correspondência com o valor venal do imóvel na data em que ocorrida a transmissão imobiliária e não, à toda evidência, na data em que se tem por ocorrido o fato gerador do IPTU, sob pena de burlar-se o disposto pelos arts. 35 e 38 do Código Tributário Nacional, que, instituindo regime jurídico próprio para o imposto sobre transmissão, estabelece como base de cálculo do tributo o valor venal dos bens ou direitos transmitidos, que há de ser, por óbvio, aquele apurado quando da efetiva ocorrência do fato gerador - instantâneo, repise-se -e não em nenhuma outra data." (fls.148/149).
+Parecer do Ministério Público Federal, às fls. 199/203, pelo desprovimento do agravo.
+É O RELATÓRIO.
+A presente irresignação não prospera.
+Inicialmente, quanto à alegação de afronta ao art. 7º da Lei Municipal nº 11.154/91, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Adiante, verifica-se que a matéria pertinente ao art. 35, I, do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Quanto à questão de fundo, o Superior Tribunal de Justiça possui entendimento no sentido de que, na hipótese de alienação judicial do imóvel, seu valor venal corresponde ao valor pelo qual foi arrematado em hasta pública, inclusive para fins de cálculo do ITBI. A propósito, confiram-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ITBI. BASE DE CÁLCULO. VALOR VENAL DO BEM ARREMATADO EM HASTA PÚBLICA. TRANSMISSÃO DA PROPRIEDADE. REGISTRO DO IMÓVEL NO CARTÓRIO COMPETENTE.
+1. Não houve violação ao art. 38 do CTN, visto que a interpretação dada ao dispositivo pelo Tribunal de Justiça do Estado de São Paulo é consoante à do Superior Tribunal de Justiça, porquanto a base de cálculo do ITBI "é o valor venal dos bens ou direitos transmitidos." Nas hipóteses de alienação judicial do imóvel, seu valor venal corresponde ao valor pelo qual foi arrematado em hasta pública, inclusive para fins de cálculo do ITBI.
+2. O fato gerador do imposto de transmissão é a transferência da propriedade imobiliária, que somente se opera mediante registro do negócio jurídico no cartório competente.
+3. Recurso Especial não provido.
+(REsp 1721067/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/03/2018, DJe 16/11/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ITBI. ALIENAÇÃO JUDICIAL DO IMÓVEL. BASE DE CÁLCULO. VALOR DA ARREMATAÇÃO. AGRAVO NÃO PROVIDO.
+1. O recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa às disposições da legislação local (Lei Municipal 11.154/91), haja vista o óbice contido na Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe recurso extraordinário." 2. O acórdão a quo encontra-se em consonância com a jurisprudência desta Corte no sentido de que nas hipóteses de alienação judicial do imóvel, seu valor venal corresponde ao valor pelo qual foi arrematado em hasta pública, inclusive para fins de cálculo do ITBI.
+Precedentes: AgRg no AREsp 630.603/PR, Rel. Ministro Sérgio kukina, Primeira Turma, DJe 13/3/2015; AgRg no AREsp 462.692/MG, Rel.
+Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 777.959/RS, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe 17/12/2015; AgRg no AREsp 348.597/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 16/3/2015.
+3. Agravo regimental não provido.
+(AgRg no AREsp 818.785/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 03/05/2016, DJe 13/05/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. IMÓVEL OBJETO DE ALIENAÇÃO JUDICIAL. BASE DE CÁLCULO DO ITBI. VALOR DA ARREMATAÇÃO.
+I - o valor venal do imóvel para efeito de definição da base de cálculo do Imposto sobre a Transmissão de Bens Imóveis - ITBI, no caso de alienação judicial, é o montante alcançado em hasta pública.
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido.
+(AgRg no AREsp 462.692/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/09/2015, DJe 23/09/2015)
+Por estar em consonância com o entendimento desta Corte sobre o tema, não comporta reparos o acórdão recorrido.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
