@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial cuja controvérsia aborda o termo inicial da correção monetária dos créditos escriturais quando obstado o seu aproveitamento, por resistência ilegítima, do Fisco.
+Passo a decidir.
+No exame dos autos, verifico que a questão jurídica em debate foi afetada à Primeira Seção em 10/12/2018 para ser julgada pela sistemática dos recursos repetitivos, tendo sido escolhidos o REsp n. 1.767.945/RS, o REsp 1.768.060/RS e o REsp 1.768.415/SC como representativos da controvérsia, relator o em. Ministro Sérgio Kukina, o qual delimitou a seguinte tese:
+Definição do termo inicial da incidência de correção monetária no ressarcimento de créditos tributários escriturais: a data do protocolo do requerimento administrativo do contribuinte ou o dia seguinte ao escoamento do prazo de 360 dias previsto no art. 24 da Lei n. 11.457/2007.
+Dessa forma, os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, o julgamento do tema repetitivo, de modo a viabilizar o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo nobre e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS à Corte de origem, com a respectiva baixa, para que, após a publicação do decisum a ser proferido no Tema n. 1.003 do STJ e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
