@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ fl. 107):
+PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÃO EM MANDADO DE SEGURANÇA. REGULARIZAÇÃO MIGRATÓRIA. CÉDULA DE IDENTIDADE DE ESTRANGEIRO. RECOLHIMENTO DE TAXAS.
+1. As taxas de registro e emissão de carteira de identidade de estrangeiro possuem natureza tributária, sujeitando-se a validade da cobrança à observância das normas constitucionais que tratam o Sistema Tributário Nacional.
+2. Não há inconstitucionalidade formal das taxas, uma vez que sua cobrança está amparada pela Lei nº 6.815/80 artigo 33.
+3. Apelação e remessa oficial providas.
+No especial obstaculizado, a agravante alegou afronta aos arts. 30 e 95 da Lei n. 6.815/1980 e ao art. 1º da Lei n. 9.265/1996. Sustentou que a Constituição Federal não prevê nenhuma distinção entre nacionais e estrangeiros residentes no país no que toca ao exercício dos direitos fundamentais. Aduziu que a ausência de previsão legal de isenção não pode ser acatada ante a gratuidade derivar diretamente do texto Constitucional. Por fim, alega que a cédula de Identidade de Estrangeiro é documento indispensável ao exercício da cidadania e à concretização dos ditos direitos fundamentais.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ante incidência da Súmula 356 do STF (e-STJ fls. 150/151).
+Contraminuta às e-STJ fls. 166/172.
+Manifestação do Ministério Público Federal às e-STJ fls. 193/195 pelo conhecimento do agravo e provimento do recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Na sessão do dia 15/03/2018, o Supremo Tribunal Federal reconheceu a existência de repercussão geral, por meio eletrônico, da matéria relativa à possibilidade de desoneração do estrangeiro com residência permanente no Brasil em relação às taxas cobradas para o processo de regularização migratória (Tema n. 988/STF) nos termos da seguinte ementa:
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E CONSTITUCIONAL. TAXAS. REGISTRO DE PERMANÊNCIA DE ESTRANGEIROS NO PAÍS. INTERPRETAÇÃO DO ART. 5º, CAPUT E INCISOS LXXVI E LXXVII, DA CRFB/88, C/C ART. 1º DA LEI FEDERAL 9.265 DE 1996. ACEPÇÃO JURÍDICO-CONSTITUCIONAL DE CIDADANIA. CONTEÚDO E ALCANCE DO TERMO. ESTADO CONSTITUCIONAL DEMOCRÁTICO DE DIREITO E CAPACIDADE CONTRIBUTIVA (ART. 145, §1º, DA CRFB/88). RELEVÂNCIA DA MATÉRIA E TRANSCENDÊNCIA DE INTERESSES. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. (RE n. 1.018.911/RR, Relator Min. LUIZ FUX, DJe 15/03/2018).
+Nesse contexto, os autos deverão retornar ao Tribunal de origem para aguardar o juízo de conformação com o precedente obrigatório da Suprema Corte, nos termos do art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente firmado pelo STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
