@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF, POR ANALOGIA.
+1. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.2. A apuração da necessidade de produção da prova testemunhal ou a ocorrência de cerceamento de defesa decorrente da falta daquela demandam reexame de aspectos fático-probatórios, o que encontra óbice na Súmula 7 do STJ.
+3. A Corte local consignou: "No que se refere à duplicidade de CDA, a Fazenda do Estado informou às fls. 313/314 que já procedeu ao cancelamento da CDA nº 1.006.583.528, tendo a Apelante se manifestado às fls. 319/320, onde requereu a condenação da Fazenda em honorários. No entanto, houve sucumbência mínima experimentada pela Fazenda do Estado consistentes no cancelamento da r. CDA, bem como na determinação do recálculo dos juros moratórios ao débito exequendo. Cabe, portanto, à Apelante o pagamento de honorários advocatícios". O apontado art. 2º, § 8º, da Lei 6.830/1980 não tem comando para infirmar as conclusões do aresto impugnado. Incidência da Súmula 284/STF, por analogia. Ainda que superado tal óbice, incidiria no caso a proibição da mencionada Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Tributário - ICMS - Embargos à execução - Nulidade de CDA -A declaração do contribuinte em que comunica a existência de obrigação tributária é confissão de dívida e se constitui em instrumento hábil para a exigência do crédito incidindo a multa no patamar de 20% - Desnecessidade de perícia judicial - A multa moratória constitui indenização decorrente do pagamento fora do prazo (artigo 138 do CTN) - Lei nº 9.366/96, fixa-a em 20% - Cálculo por dentro -A base de cálculo do ICMS corresponderá ao valor da operação ou prestação somado ao próprio tributo. Orientação sedimentada pela jurisprudência (RE 212.209). Lei nº 13.918/2009 - Órgão Especial reconheceu a compatibilidade da lei paulista com a CF, desde que a taxa de juros adotada seja Igual ou inferior à utilizada pela União para o mesmo fim - Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000 - Adoção da Taxa Selic - Constando da Certidão da Dívida Ativa todos os elementos discriminados no art. 2º, § 5º, da Lei Federal nº 6.830/80, não há que se fa lar em nulidade, bastando o recálculo dos juros. Verba honorária desproporcional - Redução - Cabimento. Recurso da Executada parcialmente provido.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 125, I, e 332 do CPC/1973 e 2º, § 8º, da Lei 6.830/1980.
+Aduz, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Transcorreu, in albis, o prazo para apresentação de contrarrazões (fl. 471).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 1º.3.2019.
+Não se pode conhecer da irresignação contra a violação do art. 125 do Código de Processo Civil de 1973, pois a tese legal apontada não foi analisada pelo acórdão hostilizado. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Acrescento que a recorrente não tratou da matéria nos Embargos de Declaração opostos, a fim de sanar possível omissão no julgado.
+Para que se possa caracterizar o prequestionamento, é necessário que sobre o dispositivo tido como maltratado tenha a decisão impugnada emitido algum juízo de valor acerca do seu sentido e da sua compreensão, o que, no caso dos autos, não ocorreu no tocante aos citados artigos. Nesse sentido: AgRg no Ag 745306/RS, Rel. Ministro Humberto Gomes de Barros, Terceira Turma, julgado em 09.05.2006, DJ 29.05.2006 p. 242.
+Quanto à apontada ofensa ao art. 332 do CPC/1973, consignou a Corte local:
+Tratando-se de tributo declarado pelo contribuinte ou sujeito ao lançamento por homologação, nos termos do art. 150 do CTN, o sujeito passivo tem o dever de verificar a ocorrência do fato gerador, apurar o montante devido e realizar o recolhimento nos parâmetros dispostos pela legislação fiscal.
+Não há, portanto, que se falar em nulidade do título executivo, uma vez que a matéria debatida nos autos independe de produção de provas, pois se trata de débitos declarados e não pagos que deram origem às CDAs nº 1.064.512.132, 1.064.512.143, 1.064.786.008, 1.066.755.273, 1.089.386.867, e 1.089.386.878 (fls. 19/24).
+Como se vê, a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+No que tange ao art. 2º, § 8º, da Lei 6.830/1980, este não tem comando para infirmar as conclusões do acórdão, porquanto o Tribunal local entendeu:
+No que se refere à duplicidade de CDA, a Fazenda do Estado informou às fls. 313/314 que já procedeu ao cancelamento da CDA nº 1.006.583.528, tendo a Apelante se manifestado às fls. 319/320, onde requereu a condenação da Fazenda em honorários.
+No entanto, houve sucumbência mínima experimentada pela Fazenda do Estado consistentes no cancelamento da r. CDA, bem como na determinação do recálculo dos juros moratórios ao débito exequendo.
+Cabe, portanto, à Apelante o pagamento de honorários advocatícios.
+Com efeito, reza o referido dispositivo infraconstitucional:
+Art. 2º - Constitui Dívida Ativa da Fazenda Pública aquela definida como tributária ou não tributária na Lei nº 4.320, de 17 de março de 1964, com as alterações posteriores, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.
+(..)
+§ 8º - Até a decisão de primeira instância, a Certidão de Dívida Ativa poderá ser emendada ou substituída, assegurada ao executado a devolução do prazo para embargos.
+Aplicação, no ponto, por analogia, da Súmula 284/STF. A jurisprudência do STJ é pacífica nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL - DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA - JUSTA INDENIZAÇÃO - SÚMULA 7/STJ - CORREÇÃO MONETÁRIA DA OFERTA INICIAL - DEFICIÊNCIA NA FUNDAMENTAÇÃO - SÚMULA 284/STF - JUROS COMPENSATÓRIOS - IMÓVEL IMPRODUTIVO - INCIDÊNCIA - ART. 15-A DO DECRETO-LEI 3.365/41 - PERCENTUAL - HONORÁRIOS ADVOCATÍCIOS - APLICAÇÃO DA LEI EM VIGOR NA DATA DA SENTENÇA - OBSERVÂNCIA DOS LIMITES PERCENTUAIS ESTABELECIDOS PELO ART. 27, § 1º, DO DL 3.365/41.
+1. Em referência à violação ao princípio da justa indenização, analisar este fato como pretende o recorrente, implicaria em reexame de prova, questão essa que não pode ser revista na via estreita do especial, consoante Súmula 7/STJ.
+2. Não se conhece do recurso especial quando o dispositivo legal indicado como violado é incapaz de infirmar a conclusão do acórdão recorrido, a teor do disposto na Súmula 284/STF.
+(..)
+7. Recurso especial parcialmente conhecido e, nesta parte, parcialmente provido.
+(REsp 951.580/PB, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 21/10/2008, DJe 18/11/2008)
+Ademais, a análise da tese defendida esbarraria no óbice da mencionada Súmula 7/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno a recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+É como voto.
