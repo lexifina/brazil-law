@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto por TANIA [NOME] DOS SANTOS e outros (TANIA e outros) contra decisão que negou admitiu seu recurso especial fundado no art. 105, III, a e c, da Constituição Federal contra acórdão proferido pela Terceira Câmara Cível do TJ/PR, nos autos de ação de indenização por danos morais e materiais causados pro acidente de trânsito manejada contra o ESTADO DO PARANÁ e a VIAÇÃO COLOMBO LTDA (VIAÇÃO), concessionária do serviço de transporte público, em virtude de morte por atropelamento de [NOME], ocorrido aos 12/8/2007, causado pelo motorista da VIAÇÃO.
+Em primeiro grau, o feito foi extinto com base no art. 487, II, do NCPC, sendo a decisão mantida, em apelação (e-STJ, fls. 450/452 e 602/615).
+No recurso especial, TANIA e outros alegaram afronta ao art. 200 do Código Civil, alegando, em síntese, que a prescrição não estaria consumada, porque, nos termos do artigo 200 do Código Civil, "quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva". Nesse sentido colaciona lições doutrinárias e transcreve ementas de julgados de outros tribunais.
+É o relatório.
+DECIDO.
+A discussão do presente recurso gira em torno da responsabilidade civil do ESTADO DO PARANÁ pela reparação moral e material decorrente de morte por atropelamento de familiar da parte autora, causado por motorista da VIAÇÃO, que é concessionária do serviço público de transporte.
+Nesse contexto, observa-se que não é possível apreciar o presente feito pois, seguindo a orientação desta Corte, a competência interna para hipóteses de responsabilidade civil do estado e de seus órgãos administrativos é da Primeira Seção.
+Nesse sentido, vejam-se os precedentes: AgRg no AREsp 631409/RJ, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe, 14/12/2015; AgRg no AResp 554.668/PE, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 17/11/2015; e, AgRg no AResp 192.699/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ acórdão, Ministro BENEDITO GONÇALVES, primeira Turma, DJe 8/9/2015,
+Nessas condições, DETERMINO a redistribuição do presente feito para um dos e. Ministros integrantes da Primeira Seção.
+Publique-se. Intimem-se.
