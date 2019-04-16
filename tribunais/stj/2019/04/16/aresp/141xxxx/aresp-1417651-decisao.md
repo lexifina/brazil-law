@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão do Tribunal de Justiça do Estado de Sergipe, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 461):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - INTERDIÇÃO DO MATADOURO MUNICIPAL - ALEGAÇÃO DE DESCUMPRIMENTO DE NORMAS AMBIENTAIS E SANITÁRIAS - MEDIDAS DE ADEQUAÇÃO ÀS NORMAS LEGAIS EM ANDAMENTO PENDENTES DE INSPEÇÃO PELA ADEMA - DESNECESSIDADE DE MANUTENÇÃO DA INTERDIÇÃO DO ESTABELECIMENTO - IMPACTO NEGATIVO NA ECONOMIA LOCAL - RECURSO CONHECIDO E PROVIDO - UNÂNIME.
+Embargos de declaração rejeitados (e-STJ fls. 539/549).
+No especial obstaculizado, a parte ora agravante aponta violação dos arts. 6º, I e 18, § 6º, do Código de Defesa do Consumidor, dos arts. 1º e 2º da Lei n. 7.889/1989 e dos arts. 6º, 196, 197, 198 e 225 da Constituição Federal de 1988.
+Depois de contra-arrazoado (e-STJ fl. 599), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que: (I) não cabe, em sede de recurso especial, o exame de suposta violação de dispositivo da Constituição Federal de 1988 e (II) incide a Súmula n. 7 do STJ (e-STJ fls. 607/611).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Sem contraminuta (e-STJ fl. 658).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não merece prosperar.
+No tocante aos dispositivos da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Por outro lado, quanto ao tema de fundo, no caso concreto, a instância anterior dirimiu a questão nos termos da seguinte motivação (e-STJ fls. 462/464):
+Cuida-se de pedido de pedido de reforma da decisão proferida em cumprimento de sentença que determinou a interdição do matadouro municipal, sob o argumento de que o Município cumpriu a legislação existente no que concerne às condições de higiene e segurança para o abate dos animais, colocando em risco a saúde da população.
+ ..
+Antes de qualquer manifestação da ADEMA o Ministério Público Estadual atravessou petição requerendo a interdição do matadouro em 27/07/2017, pedido que restou deferido em 28/07/2017, com publicação em 31/07/2017.
+ ..
+Os documentos juntados pelo Agravante dão conta de que as medidas de adequação do abatedouro municipal de Itabaiana estão sendo executadas.
+Há relatório de serviços emitido pelo Engenheiro Civil Cristóvão José Rocha de Souza, em 04/08/2017, informando que o empreendimento se encontra com 87,9% dos serviços executados; que o sistema de tratamento estará finalizado em 08/08/2017, restando pendentes pequenos acabamentos, bem como que o gerador e a câmara fria já foram licitados, já tendo sido emitida nota de fornecimento, e que está em curso processo licitatório para a caldeira, que, todavia, não impede o funcionamento da sala de abate, uma vez que o sangue coletado será retirado diariamente com carro limpa fosse e será feito o escaldo da bucharia e triparia, cujos efluentes serão direcionados ao sistema de tratamento.
+Também foram colacionadas ao feito fotos que demonstram o andamento das obras de grande porte que estão sendo realizadas a fim de adequar o matadouro às normas de higiene e segurança, além de outros documentos que mencionam os investimentos já feitos.
+Assim, entendo que antes de uma decisão de interdição de funcionamento seria necessário que a ADEMA se manifestasse acerca do estágio em que se encontra a execução da obra, conforme inclusive restou fixado na audiência ocorrida em 02/05/2017, sendo mais prejudicial à conjuntura socioeconômica do Município, no momento, a medida de interdição do matadouro, uma vez que boa parte da população de Itabaiana exerce suas atividades laborais direta ou indiretamente ligadas ao comércio dos animais abatidos no matadouro municipal.
+A manutenção da interdição do matadouro gerará um impacto social muito grande, com o desemprego imediato de inúmeras pessoas, consequentemente, impactando o sustento de muitas famílias, além do estímulo ao abate clandestino que é deveras prejudicial à saúde da população.
+ ..
+Assim, diante do todo exposto, entendo que deve provido o recurso a fim de reformar a decisão que determinou a interdição do matadouro de Itabaiana.
+Ressalte-se que o deferimento deste pleito não invalida a determinação do juízo a quo, na audiência de 02/05/2017, de que a ADEMA inspecione da obra do aludido matadouro, emitindo o laudo circunstanciado, determinação essa inclusive reiterada no último dia 16 de novembro, no bojo do feito de origem.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias com relação à suspensão da interdição do matadouro em análise demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
