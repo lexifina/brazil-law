@@ -1,0 +1,54 @@
+EMENTA
+BANCÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DO DEVEDOR. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL. COMISSÃO DE PERMANÊNCIA. EXCLUSÃO. JUROS REMUNERATÓRIOS. PERÍODO DE INADIMPLÊNCIA. POSSIBILIDADE. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+DECISÃO
+GILBERTO FERMINO BRANCO JÚNIOR e [NOME] (GILBERTO e outra) opuseram embargos do devedor em face de execução de título extrajudicial ajuizada por BANCO DO BRASIL S.A. (BANCO), lastreada em cédula de crédito rural, no valor originário de R$ 256.000,00 (duzentos e cinquenta e seis mil reais), alegando prescrição, juros abusivos, capitalização mensal e diária indevidas.
+A sentença julgou parcialmente procedente o pedido, para permitir a cobrança da comissão de permanência no período de inadimplência, afastados os demais encargos da mora (e-STJ, fls. 756/763).
+Interposta apelação por GILBERTO e outra, o Tribunal de origem deu-lhe parcial provimento, em acórdão assim ementado (e-STJ, fls. 1.028/1.030)
+EMENTA: APELAÇÃO CÍVEL. AGRAVO RETIDO. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA. CERCEAMENTO DO DIREITO DE DEFESA. INOCORRÊNCIA. PRESCRIÇÃO NÃO CONFIGURADA. CAPITALIZAÇÃO MENSAL DE JUROS. LEGALIDADE. COMISSÃO DE PERMANÊNCIA. ILEGALIDADE. ENCARGOS MORATÓRIOS. PRORROGAÇÃO DO PRAZO PARA PAGAMENTO DA DÍVIDA. IMPOSSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA. SENTENÇA PARCIALMENTE REFORMADA.
+1. Afasta-se a alegação de cerceamento do direito de defesa, por não ter sido disponibilizada a produção de prova técnica para o fim de demonstrar a abusividade das cláusulas contratuais, a quebra das safras e a capacidade de pagamento dos devedores, pois não se verificam nos autos circunstâncias que exijam a produção das perícias requeridas, sendo suficiente a prova contida nos autos para a solução da lide.
+2. Nos termos da jurisprudência assentada por este egrégio Tribunal de Justiça, aplica-se o Código de Defesa do Consumidor aos contratos firmados entre instituições financeiras e agricultor, pessoa física, ainda que para viabilizar o seu trabalho como produtor rural.
+3. Aplica-se à execução de cédula de crédito rural pignoratícia o prazo prescricional de 3 (três) anos, contado a partir do vencimento da última parcela.
+4. Nos termos da Súmula no 93 do colendo Superior Tribunal de Justiça, nos contratos de crédito rural, admite-se a pactuação de cláusula que preveja a capitalização mensal dos juros.
+5. De acordo com a jurisprudência pacífica do colendo Superior Tribunal de Justiça, não é possível a incidência de comissão de permanência nas cédulas de crédito rural em caso de inadimplência, pois não há previsão legal para tanto.
+6. É inviável o pedido de descaracterização da mora quando a parte não faz jus ao pedido de prorrogação da dívida e quando não há demonstração da cobrança de encargos ilegais durante o período de normalidade contratual.
+7. Não há falar em vulneração ao enunciado sumular no 298, da colenda Corte Superior de Justiça, que estipula que "o alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas direito do devedor, nos termos da lei", uma vez que a dívida em questão já fora prorrogada anteriormente.
+8. Tendo em vista que a instituição financeira foi vencida em parte mínima do pleito (comissão de permanência), correto que seja atribuído integralmente aos apelantes a responsabilidade pelo pagamento dos honorários advocatícios e das despesas processuais, à luz do que dispõe o parágrafo único do artigo 86, do Código de Processo Civil.
+9. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. AGRAVO RETIDO CONHECIDO, MAS DESPROVIDO.
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ, fls. 1.047/1.058).
+Inconformado, BANCO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação do art. 5º, parágrafo único, do DL nº 167/67 e divergência jurisprudencial, aduzindo, em síntese, que os juros remuneratórios são devidos no período da inadimplência, de maneira que a admissão apenas de juros de mora e multa nesse período configura enriquecimento ilícito.
+GILBERTO e outra ofereceram contrarrazões (e-STJ, fls. 1.092/1.107).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de prequestionamento e de cotejo analítico entre os julgados. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.136/1.143).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Dos encargos incidentes no período de inadimplência
+O Tribunal de origem concluiu que a comissão de permanência deveria ser afastada, por não ser cabível em cédula de crédito rural, admitindo apenas a cobrança dos encargos moratórios, nos termos da seguinte fundamentação:
+Verberam os embargantes/apelantes que a magistrada a quo entendeu válida a incidência de comissão de permanência na hipótese dos autos, contrariando a jurisprudência pacífica do colendo Superior Tribunal de Justiça. Sustentam ser nula a sua cobrança e que, ainda que se cogitasse a sua incidência, seu limite jamais poderia ser superior à taxa de juros pactuada no contrato.
+Da simples leitura da cédula rural pignoratícia colacionada no evento no 03, volume no 01, p. 125/129, observa-se que foi estipulada a cobrança de comissão de permanência, juros e multa para a
+hipótese dos devedores incorrerem em mora.
+Assim sendo, neste ponto, penso assistir razão aos recorrentes.
+É que o colendo Superior Tribunal de Justiça firmou o entendimento de que não é aplicável a incidência da comissão de permanência às cédulas de crédito rural, em razão da inexistência de previsão legal para tanto.
+(..)
+Desse modo, afasto a incidência da comissão de permanência no período de inadimplemento contratual, devendo permanecer os demais encargos moratórios fixados no contrato (e-STJ, fls. 11/12)
+Instado a se manifestar expressamente acerca da aplicação de juros remuneratórios, o colegiado esclareceu que:
+Conforme relatado, a instituição financeira embargante aventa que o acórdão embargado é omisso, uma vez que ao afastar a incidência de comissão de permanência na cédula rural pignoratícia objeto da contenda, não se manifestou acerca da aplicação dos juros remuneratórios e correção monetária após o vencimento da dívida.
+Ora, ao extirpar a comissão de permanência no caso concreto, o julgado colegiado determinou expressamente que fossem mantidos os demais encargos moratórios previstos no contrato para o período de inadimplência contratual (evento no 51, p. 106/107 e p. 114).
+Eventual irresignação quanto ao que restou decidido não comporta discussão em sede de embargos declaratórios, devendo a parte se valer do recurso cabível para buscar a alteração do ponto questionado (e-STJ, fls. 1.052/1.053 - sem destaques no original)
+Ocorre que a jurisprudência do STJ consagrou entendimento de que, afastada a comissão de permanência nas cédulas de crédito rural, admite-se, na hipótese de mora, a cobrança dos juros remuneratórios, acrescidos de multa contratual, juros de mora e correção monetária. A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+1. Revelam-se deficientes as razões do recurso especial quando o recorrente não aponta, de forma inequívoca, os motivos pelos quais considera violados os dispositivos de lei federal, bem como a sua particularização, fazendo incidir a Súmula 284/STF.
+2. Não se conhece do recurso especial no tocante à alínea "c" do permissivo constitucional, quando o dissídio jurisprudencial não é demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. A parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+3. "Inadimplida a obrigação, ficam as instituições financeiras autorizadas a cobrar, em substituição à comissão de permanência, os encargos previstos para a fase de normalidade, acrescidos de juros de mora e multa. Nas cédulas de crédito rural, comercial e industrial incide a limitação de 12% aos juros remuneratórios" (Agravo regimental desprovido. (AgRg no AREsp 3.154/MG, Rel. Min. JOÃO OTÁVIO DE NORONHA, 4ª Turma, DJe de 12/08/2011) 4. A consonância entre a decisão recorrida e a jurisprudência do STJ obsta o conhecimento do recurso especial, nos termos da Súmula 83/STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no REsp 1.066.912/PB, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 04/08/2015, DJe 12/08/2015)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO - CÉDULA RURAL - INCIDÊNCIA DE COMISSÃO DE PERMANÊNCIA APÓS A INADIMPLÊNCIA - INADMISSIBILIDADE - DECISÃO AGRAVADA MANTIDA.
+1.- Nos casos de cédulas de crédito rural, industrial e comercial, não se admite a incidência de comissão de permanência, após a inadimplência, sendo permitida, tão-somente, em consonância com o que dispõem os artigos 5º, parágrafo único, e 58 do Decreto-lei n.º 413/69, a elevação dos juros remuneratórios em 1% ao ano, correção monetária e multa contratual.
+2.- O agravo não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no REsp 1.321.317/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. em 26/06/2012, DJe 29/06/2012)
+Dessarte, merece reforma o acórdão recorrido.
+Nesse sentido, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para admitir a incidência de juros remuneratórios, além dos encargos moratórios.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
