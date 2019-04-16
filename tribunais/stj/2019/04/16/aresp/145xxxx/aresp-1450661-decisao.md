@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME], contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"Execução individual. Servidor municipal autárquico inativo. Sorocaba. Evolução funcional. Ação coletiva ajuizada por sindicato da categoria contra a Municipalidade para o fim de garantir o reenquadramento funcional de todo o funcionalismo municipal de Sorocaba, inclusive dos servidores autárquicos e fundacionais, sem integrar na lide a respectiva autarquia. Necessidade de que a pretensão seja exigida da autarquia e/ou da Fundação da Seguridade Social dos Servidores Públicos Municipais de Sorocaba. Impossibilidade de cumprimento pela Municipalidade. Sentença reformada. Execução extinta, nos termos do art. 485, VI, do CPC. Recurso provido" (fl. 242e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"Execução individual. Servidor municipal autárquico inativo. Sorocaba. Evolução funcional. Ação coletiva ajuizada por sindicato da categoria contra a Municipalidade para o fim de garantir o reenquadramento funcional de todo o funcionalismo municipal de Sorocaba, inclusive dos servidores autárquicos e fundacionais, sem integrar na lide a respectiva autarquia. Necessidade de que a pretensão executória seja exigida da autarquia. Impossibilidade de cumprimento pela Administração Direta da
+Municipalidade. Sentença reformada. Recurso provido. Embargos de declaração rejeitados" (fl. 533e).
+Sustenta a parte agravante, nas razões do Recurso Especial interposto com base no art. 105, III, a, da CF/88, violação aos arts. 267, VI, § 3º do CPC/73; 203, 485, VI, 489, IV, 502, 505, 509, 507, 508, 779, 932, 1.015 e 1.022, do CPC/2015, aduzindo o seguinte:
+"a) Inadmissibilidade da apelação - erro grosseiro - violação aos arts. 203 e 1.015 do CPC
+O acórdão recorrido, integrado pelo julgamento dos embargos de declaração, afirmou não haver erro grosseiro pois embora a decisão recorrida não tenha sido extintiva do processo, ela tem natureza jurídica de sentença e a fungibilidade recursal permite conhecer o recurso de apelação.
+Data venia, a tese adotada pelo Tribunal contraria texto expresso do CPC que atribui expressamente natureza de decisão interlocutória a decisões que não põem fim à execução, o que veda a aplicação da fungibilidade pois não há dúvidas de que o recurso correto era agravo de instrumento (a ser interposto à 2ª instância) e foi apresentada grosseiramente uma apelação, em la instância.
+O artigo 1.015 parágrafo único do CPC é cogente ao prever a interposição de agravo de instrumento contra decisão interlocutória proferida no processo de execução:
+(..)
+O artigo 203 do CPC, em seus parágrafos, conceitua como sentença a decisão que põe fim ao procedimento comum e extingue a execução e decisão interlocutória as demais:
+(..)
+Dado o texto expresso da lei que não deixa qualquer dúvida objetiva, como a decisão de piso não extinguiu a execução, a interposição de apelação ao invés de agravo de instrumento é erro grosseiro que não permite a aplicação do princípio da fungibilidade mesmo porque o agravo exige requisitos específicos não observados pela parte adversa.
+(..)
+b) Inadmissibilidade da apelação - ausência de impugnação específica - violação ao art. 932, III do CPC
+O acórdão recorrido afirma não haver que se falar em aplicação do art. 932, III, do CPC porque a apelante insistiu não ter legitimidade para figurar no polo passivo. Pelo próprio texto da decisão, verifica-se que o Tribunal, data venia, não deu a devida aplicação ao artigo 932, III, do CPC, que dispõe:
+"Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;" Simplesmente insistir numa tese de forma aleatória sem impugnar especificamente os fundamentos da sentença é justamente o que o referido dispositivo de lei federal vem combater e foi exatamente o que ocorreu no caso em questão.
+(..)
+c) Omissões não sanadas - violação ao art. 489 § 1º, IV e 1.022 do CPC
+Em sede de embargos de declaração, como o acórdão original não havia deliberado sobre a principal matéria de defesa do(a) servidor(a) que é a preclusão/coisa julgada sobre a legitimidade do Município para figurar no polo passivo da execução por não ter suscitado tal matéria na ação coletiva e nem em momentos posteriores, solicitou-se a análise deste argumento, dentre outros, com amparo no art. 1.022 e 489 § 1º, IV do CPC.
+(..)
+d) Coisa julgada e legitimidade passiva - violação aos arts. 485 VI, 502, 505, 506, 507, 508 e 779 do CPC e divergência jurisprudencial com o STJ
+Após fazer uma síntese sobre a ação coletiva movida por Sindicato contra o Município, o confuso acórdão recorrido afirma que a execução deve ser proposta contra terceiro(s) que o próprio acórdão reconhece não integrar o título executivo.
+É o que se lê claramente no trecho em que o acórdão, embora reconheça que a ação coletiva foi proposta apenas contra o Município abrangendo os servidores autárquicos e fundacionais, contraditoriamente conclui que a execução correspondente não deve ser promovida indistintamente contra o Município, devendo ser dirigida contra o(s) ente(s) da Administração Indireta.
+(..)
+o acórdão altera questão já decidida atinente à pertinência subjetiva do Município quanto ao crédito dos servidores autárquicos, matéria que já estava definida como imutável com o trânsito em julgado da ação coletiva, consoante o disposto nos artigos 502 e 504 do CPC, (..)
+(..)
+SAAE e FUNSERV não fizeram parte da ação coletiva, como o próprio acórdão reconhece, logo a coisa julgada não inclui esses entes nem os prejudica de sorte que considerá-los parte legítima para responder as execuções é violar o disposto no art. 506 do CPC, (..)
+(..)
+O acórdão delibera sobre tema que já estava precluso eis que o Município jamais suscitou sua ilegitimidade na ação coletiva, contrariando o disposto no artigo 507 do CPC, (..)
+(..)
+O acórdão desprezou o disposto no artigo 508 do CPC que considera deduzidas e repelidas todas as alegações - no caso a ilegitimidade - com o trânsito em julgado da ação de conhecimento: (..)
+(..)
+O entendimento de que a execução deve ser proposta contra o SAAE e FUNSERV também contraria a lei federal sob outro ângulo. Tais entes não se enquadram em quaisquer dos casos previstos no artigo 779 do CPC cujo texto é comentado a seguir à luz da presente causa: (..)
+(..)
+Desta feita, contraria os arts. 485 VI e 502, 505, 506, 507 e 508 do CPC (coisa julgada) dizer que entes que não figuraram na decisão judicial da ação coletiva que está sendo executada e que também não se enquadram a qualquer dos incisos do art. 779 do CPC devam responder as execuções individualizadas, excluindo justamente o devedor que foi reconhecido como tal no título executivo e onde não fez qualquer ressalva sobre sua legitimidade.
+(..)
+e) Pedido sucessivo - sucumbência - violação ao art. 267 VI § 3º do CPC/73
+O acórdão guerreado, dando provimento ao apelo do Município, determinou que o(a) exequente arque com as custas, despesas processuais e honorários advocatícios.
+Como se vê, o acórdão não faz ressalvas quanto à isenção que deve ser atribuída aos beneficiários da justiça gratuita e mais, ignora completamente o suscitado em embargos de declaração onde se advertiu que o Município não invocou a pretensa ilegitimidade no momento apropriado (a ação coletiva), quando vigorava o disposto no art. 267 VI § 3º do CPC/73, in verbis:(..)
+(..)
+Logo, mais uma violação à lei federal pelo acórdão recorrido.
+Dizer simplesmente que a condenação do exequente decorre do princípio da causalidade, pois promoveu a execução em face da Prefeitura, supostamente parte ilegítima para cumprir o julgado, contraria a autoridade da lei federal que traz disposição específica para os casos em que a parte retarda a alegação de ilegitimidade" (fls. 546/560e).
+Sem contrarrazões (fl. 655e), o recurso foi inadmitido na origem (fls. 656e), motivando a interposição do presente Agravo (fls. 659/675e).
+A irresignação merece acolhimento.
+Em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No que se refere à ofensa aos arts. 203 e 1.015 do CPC/2015, o recorrente argumenta a ocorrência de erro grosseiro na interposição do recurso de Apelação ao invés de Agravo de Instrumento, contra decisão interlocutória que decidiu os embargos à execução.
+Quanto ao ponto, assim ficou decidido no acórdão recorrido:
+"Ainda que a decisão recorrida não tenha sido extintiva do processo, pois, em principio, a execução prosseguirá, ela tem natureza jurídica de sentença e a fungibilidade recursal permite conhecer o recurso de apelação, assegurando-se o acesso à jurisdição. Depreende-se dos autos que o pedido inicial incluiu responsabilização pela sucumbência e se auto designou "ação de execução por quantia certa"; a impugnação, por sua vez, foi além do art. 535 do CPC. Entende-se, assim, que a natureza é a mesma dos embargos à execução do art.741 do CPC/73.
+A decisão de rejeição da impugnação tem natureza jurídica de sentença, o que direcionou o recurso cabível. Não se trata, então, de erro grosseiro, o que autoriza conhece-lo, aplicando-se o princípio da fungibilidade, para não impedir o acesso à Justiça" (fls. 242/243e).
+Da leitura, verifica-se que o Tribunal de origem adotou entendimento contrário à jurisprudência deste Sodalício no sentido de que, contra decisão que resolve incidente em execução, é cabível o agravo de instrumento. Portanto, a interposição de Apelação deve ser considerada como erro grosseiro, afastando a aplicação do princípio da fungibilidade ao caso.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXTINÇÃO DA EXECUÇÃO. NÃO OCORRÊNCIA. RECURSO ADEQUADO. AGRAVO DE INSTRUMENTO. PRECEDENTES.
+1. A jurisprudência desta Corte é firme no sentido de que "a decisão que resolver a impugnação é recorrível mediante agravo de instrumento, salvo quando importar extinção da execução, caso em que caberá apelação" (AgRg no AREsp 565.768/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1/9/2016).
+2. In casu, em momento algum houve a determinação de extinção da execução, sendo certo, outrossim, que não se extrai do decisum impugnado qualquer comando capaz de importar na sua extinção. Houve, pelo contrário, determinação de sobrestamento do feito até quitação do crédito, sendo cabível o agravo de instrumento interposto.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.617.102/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/04/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE ÁGUA. ART. 535, II DO CPC. AUSÊNCIA DE OMISSÃO. IMPUGNAÇÃO EM CUMPRIMENTO DE SENTENÇA. NÃO EXTINÇÃO DA EXECUÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTELIGÊNCIA DO ART. 475-M, § 3º. DO CPC. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DA CEDAE DESPROVIDO.
+1. De início, cumpre ressaltar que, nos termos do que decidido pelo Plenário do STJ, (a) os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. A despeito das alegações da Agravante, razão não lhe assiste, devendo a decisão agravada ser mantida.
+3. Não há que se falar em omissão no acórdão do Tribunal de origem, porquanto a demanda foi solucionada com a devida fundamentação, de forma clara e precisa, ainda que sob ótica diversa daquela almejada pela concessionária. Julgamento inverso do pretendido, como na espécie, não implica ofensa ao art. 535, II do CPC.
+4. No caso dos autos, o recurso de Apelação sequer foi conhecido pelo Tribunal de origem, o que resulta, assim, na impossibilidade de análise das questões de mérito alegadas no mencionado recurso pela Agravante.
+5. No mais, o Tribunal de origem decidiu a controvérsia em consonância com a jurisprudência pacífica desta Corte, segundo a qual o recurso cabível nas hipóteses em que não houve extinção da Execução, que é o caso dos autos, é o Agravo de Instrumento, e não o recurso de Apelação. Incidência da Súmula 83/STJ.
+6. Agravo Interno da CEDAE desprovido" (STJ, AgInt no AREsp 873.488/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 26/10/2016)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 475-M, § 3º, DO CPC. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. PROSSEGUIMENTO DA EXECUÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Hipótese em que, em sede de cumprimento de sentença, o Juízo de 1ª Grau rejeitou a impugnação oferecida pela CEDAE, ora agravante, determinando, expressamente, o prosseguimento da execução. Interposta Apelação na origem, o recurso não fora conhecido, diante de sua manifesta inadmissibilidade.
+II. O acórdão recorrido está em consonância com a jurisprudência desta Corte sobre o tema, no sentido de que o agravo de instrumento é o recurso cabível contra decisão que resolve impugnação ao cumprimento de sentença, mas não extingue a execução - como na hipótese -, não sendo possível a incidência do princípio da fungibilidade recursal, por se tratar de erro grosseiro. Nesse sentido: STJ, AgRg no REsp 1.485.710/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/12/2014; STJ, AgRg no AREsp 534.529/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 10/10/2014; STJ, AgRg no AREsp 514.118/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/06/2014; STJ, AgRg no AREsp 462.168/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 27/03/2015. Incidência da Súmula 83/STJ.
+III. Agravo Regimental improvido" (STJ, AgRg no AREsp 538.442/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 23/02/2016).
+Prejudicadas as demais questões suscitadas.
+Invertidos os ônus sucumbenciais.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, nos termos da fundamentação acima exposta.
+I.
