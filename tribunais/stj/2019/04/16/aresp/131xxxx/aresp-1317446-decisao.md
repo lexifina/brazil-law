@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial ante a aplicação das Súmulas n. 735 do STF e 7 do STJ (e-STJ fls. 291/295).
+O acórdão do TJRS traz a seguinte ementa (e-STJ fl. 220):
+AGRAVO DE INSTRUMENTO. ADJUDICAÇÃO COMPULSÓRIA. AÇÃO ORDINÁRIA DE DESCONSTITUIÇÃO DE HIPOTECA. TUTELA PROVISÓRIA. TUTELA DE URGÊNCIA. SUSPENSÃO DA EXECUÇÃO. REQUISITOS.
+Na sistemática do CPC/15 as tutelas de urgência cautelares e de antecipação de direito material estão matizadas sob o regramento da tutela provisória; e que agora pode fundamentar-se em urgência ou tão somente na evidência. Os provimentos de urgência, cautelar ou antecipatório, submetem-se aos pressupostos de probabilidade do direito e do perigo de dano ou risco ao resultado útil do processo; e o pleito não está sujeito ao deferimento de plano. - Circunstância dos autos em que não demonstrados os requisitos para concessão da tutela de urgência; e se impõe manter a decisão agravada. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 248/255).
+Nas razões do recurso especial (e-STJ fls. 261/279), interposto com fundamento no art. 105, III, alínea "a" da CF, o recorrente sustentou ofensa aos arts. 300, 313, V, alínea "a", e 921, I, do CPC/2015 e à Súmula n. 308/STJ, argumentando que haveria prejudicialidade externa entre a presente demanda de desconstituição da hipoteca incidente sobre o terreno litigioso, proposta por esse em face dos recorridos, e a ação de de execução hipotecária n. 017/1.15.0002757-4 proposta pela COOPERATIVA DE CREDITO DE LAJEADO - SICREDI VALE DO TAQUARI em desfavor dos 2 (dois) primeiros recorridos.
+Nesse contexto, defendeu que estariam presentes os requisitos necessários para o deferimento antecipação de tutela postulada, a fim de determinar a suspensão da mencionada demanda executiva e, por consequência, evitar a prática de atos expropriatórios do referido imóvel, no curso da demanda.
+Não foram apresentadas contrarrazões (e-STJ fls. 284/285).
+No agravo (e-STJ fls. 300/316), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 319/320).
+É o relatório.
+Decido.
+Segundo a jurisprudência consolidada do STJ, em regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no REsp n. 1.179.223/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+(..)
+4. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 770.439/MT, de minha Relatoria, QUARTA TURMA, julgado em 21/2/2017, DJe 3/3/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. SÚMULA Nº 284/STF. PLANO DE SAÚDE. AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. PRECEDENTES. ANTECIPAÇÃO DE TUTELA. REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+(..)
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 813.590/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/8/2016, DJe 15/8/2016.)
+A tese de violação da Súmula n. 308/STJ não comporta análise no recurso. Nesse sentido: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ)" (AgRg no AREsp n. 783.782/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 17/12/2015).
+O Tribunal a quo em cognição sumária, à luz do art. 300 do CPC/2015, indeferiu a tutela de urgência postulada pelo recorrente, assentando que estavam ausentes os requisitos necessários à concessão da medida, tais quais a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, nos seguintes termos (e-STJ fls. 229/230):
+No caso dos autos, a parte agravante sustenta que considerando que o processo de execução ajuizado pelo credor hipotecário traz iminente risco de lesão e/ou de difícil reparação ao demandante - notadamente se efetivada a constrição e expropriação do imóvel - o agravante postulou o deferimento da tutela provisória de urgência na forma antecipada, a fim de que o juízo determinasse a imediata suspensão da ação de execução de título extrajudicial n. 017/1.15.0002757-4; que as questões suscitadas na ação judicial de origem possuem reflexo direito no bem imóvel dado em garantia no processo executivo, sendo prudente a suspensão do feito executivo; que é nítida a prejudicialidade; que o imóvel hipotecado é utilizado desde a sua aquisição como residência da entidade familiar, sendo que eventual expropriação afetará o núcleo de direito mínimos do agravante e de sua família; que seja determinada a imediata suspensão da ação de execução de titulo extrajudicial.
+No entanto, verifica-se que foi determinada a reunião desta demanda com a ação de execução n. 017/1.15.0002757-4 ante a conexão entre os feitos; não restaram demonstrados os requisitos necessários à concessão da medida de urgência, eis que as ações serão julgadas conjuntamente; e ao fim e ao cabo a decisão agravada aplicou a medida de direito adequada ao caso concreto.
+Com efeito, na sistemática do CPC/15 as tutelas de urgência cautelares e de antecipação de direito material estão matizadas sob o regramento da tutela provisória; e que agora pode fundamentar-se em urgência ou tão somente na evidência. Os provimentos de urgência, cautelar ou antecipatório, submetem-se aos pressupostos de probabilidade do direito e do perigo de dano ou risco ao resultado útil do processo; e o pleito não está sujeito ao deferimento de plano.
+Circunstância dos autos em que não demonstrados os requisitos para concessão da tutela de urgência; e se impõe manter a decisão agravada.
+Constata-se, portanto, que a Corte local não se manifestou sobre o art. 313, V, alínea "a", do CPC/2015, sob o enfoque pretendido pelo recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 do STF e 211 do STJ.
+De igual forma, verifica-se que a Corte de origem não enfrentou o art. 921, I, do CPC/2015. Assim, sem ter sido discutida decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o óbice das Súmulas n. 282 e 356 do STF.
+Ultrapassar os fundamentos do aresto impugnado, a fim de deferir a tutela de urgência postulada pela parte recorrente, nos moldes requeridos na insurgência recursal, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. Nesse contexto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. EMBARGOS À EXECUÇÃO. ART. 739-A, § 1º, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SUSPENSÃO DA AÇÃO EXECUTIVA. REVISÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. TUTELA ANTECIPADA. REQUISITOS. SÚMULA 7/STJ.
+(..)
+3. Verificar se está presente, ou não, os requisitos da verossimilhança, bem como danos irreparáveis ou de difícil reparação, quando o acórdão recorrido os afasta ou confirma sua presença com fundamento na análise soberana dos elementos fático-probatórios dos autos, demanda o reexame das provas, procedimento vedado em sede de recurso especial a teor do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.046.613/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/6/2017, DJe 13/6/2017.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPRA E VENDA IMÓVEL RURAL. TUTELA DE URGÊNCIA. ART. 300 CPC/2015. REQUISITOS. DEMONSTRAÇÃO. LIMINAR CONCEDIDA. INCIDÊNCIA SÚMULA 735/STF. REVISÃO. ENTENDIMENTO. VEDAÇÃO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO IMPROVIDO.
+(..)
+2. Para a revisão dos requisitos necessários ao deferimento da tutela de urgência, é necessário o revolvimento do conjunto fático-probatório dos autos, medida defesa em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.335.857/MT, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
