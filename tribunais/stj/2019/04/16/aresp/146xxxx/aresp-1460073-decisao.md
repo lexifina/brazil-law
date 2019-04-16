@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de dois agravos em recurso especial, o primeiro apresentado por INDIANA VEICULOS LTDA às fls. 584/594 e o segundo apresentado por FORD MOTOR COMPANY BRASIL LTDA às fls. 595/617.
+Por meio da petição de fls. 635/637, FORD MOTOR COMPANY BRASIL LTDA requer a desistência do presente recurso.
+É o relatório. Decido.
+Analiso inicialmente o recurso interposto por INDIANA VEICULOS LTDA .
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 211/STJ, Súmula 7/STJ, divergência não comprovada e ausência de indicação de artigo de lei federal violado - Súmula 284/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente: divergência não comprovada e ausência de indicação de artigo de lei federal violado - Súmula 284/STF.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena. (AgRg no AREsp n. 1.193.328/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 11/5/2018.)
+Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Passo à análise do recurso interposto por FORD MOTOR COMPANY BRASIL LTDA .
+Conforme relatado, a parte agravante peticionou requerendo a desistência do recurso.
+Tendo em vista a existência de procuração concedendo poderes específicos ao subscritor do pedido, nos termos dos instrumentos de fls. 118/119, 120 e 637, o pedido deve ser deferido.
+Ante o exposto, com base no art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial interposto por INDIANA VEICULOS LTDA e homologo a desistência do agravo em recurso especial interposto por FORD MOTOR COMPANY BRASIL LTDA
+Publique-se. Intimem-se.
