@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA ÚNICA DE MORRINHOS/CE, suscitante, e o JUÍZO DA 44ª ZONA ELEITORAL DE SANTANA DO ACARAÚ/CE, suscitado, nos autos em que se discute a competência para executar multa prevista em termo de ajustamento de conduta firmado entre partidos políticos.
+Manifestação ministerial pela competência do Juízo Eleitoral (e-STJ fls. 74/77).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Considerado isso, penso que assiste razão ao Juízo suscitante.
+Com efeito, a Primeira Seção deste Tribunal Superior já se manifestou anteriormente pela competência da Justiça Eleitoral para processar e julgar feitos relacionados ao direito eleitoral, incluindo as hipóteses de execução de TAC firmado entre Ministério Público e Coligação partidária acerca de matéria de natureza eleitoral.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO. SÚMULA 374/STJ, POR ANALOGIA. MULTA PROVENIENTE DO NÃO CUMPRIMENTO DE TERMO DE AJUSTAMENTO DE CONDUTA. COMPETÊNCIA DA JUSTIÇA ELEITORAL.
+1. Na espécie dos autos, estabeleceu-se no Termo de Ajustamento de Conduta que as Coligações, ora Recorridas, não utilizariam de fogos de artifício de qualquer espécie na propaganda política na eleição ocorrida no ano de 2008. E, na hipótese de descumprimento do que foi acordado, seria aplicada multa de R$ 20.000,00 (vinte mil reais), destinada ao Fundo de Reaparelhamento do Poder Judiciário. Sob a alegação de que teria havido o descumprimento do referido acordo, o Ministério Público do Estado de Goiás, através da Promotoria da Justiça Eleitoral, requer a execução da multa.
+2. Nos termos do art. 367, inciso IV, do Código Eleitoral, compete ao Juízo Eleitoral conhecer de execução fiscal que versa sobre dívida reconhecida pela Justiça Especializada. Nesse sentido: CC 77.503/MS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA SEÇÃO, julgado em 28/11/2007, DJ 10/12/2007 p. 276, CC 46901/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA SEÇÃO, julgado em 22/02/2006, DJ 27/03/2006 p. 138; CC 22539/TO, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 25/08/1999, DJ 08/11/1999 p. 69.
+3. Nessa linha, tendo o Termo de Ajustamento de Conduta pactuado entre o Ministério Público Estadual e a Coligação em comento natureza eminentemente eleitoral, a competência para o processamento da referida ação é da Justiça Especializada.
+4. Conflito conhecido para declarar a competência do Tribunal Regional Eleitoral do Estado de Goiás, o suscitante (CC 123.828/GO, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 18/09/2012).
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DA 44ª ZONA ELEITORAL DE SANTANA DO ACARAÚ/CE.
+Publique-se. Intimem-se.
