@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PODER DE POLÍCIA. REGULARIDADE DO ATO ADMINISTRATIVO. SUPOSTA VIOLAÇÃO AOS DISPOSITIVOS INDICADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO BASEADO EM PROVAS DOS AUTOS. SÚMULA 7/STJ. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por SÍLVIO FÉLIX DA SILVA em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 242):
+RECURSO DE APELAÇÃO - AÇÃO DE PROCEDIMENTO ORDINÁRIO - DIREITO ADMINISTRATIVO - PODER EXECUTIVO MUNICIPAL - CONTAS REJEITADAS PELA CÂMARA MUNICIPAL - ATO ADMINISTRATIVO FUNDAMENTADO EM PARECER PRÉVIO DO TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO - PRETENSÃO À ANULAÇÃO DO ATO ADMINISTRATIVO - INEXISTÊNCIA DE QUALQUER VÍCIO, ILEGALIDADE OU IRREGULARIDADE PASSÍVEIS DE RECONHECIMENTO E CORREÇÃO - IMPOSSIBILIDADE. 1. Regularidade do procedimento administrativo adotado pela Câmara Municipal. 2. A parte autora foi notificada para a apresentação de defesa e eventuais recursos cabíveis, com a observância da Lei Complementar Estadual nº 709/93. 3. Higidez do ato administrativo, reconhecida. 4. Ação de procedimento ordinário, julgada improcedente. 5. Sentença, ratificada. 6. Recurso de apelação, apresentado pela parte autora, desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alíneas a e c do permissivo constitucional, o recorrente aponta violação aos arts. 239, 252, 253, 256 e 489, § 1º, IV, do CPC/2015 e 91, 93, 97 e 98, da Lei do Tribunal de Contas do Estado de São Paulo.
+Em síntese, aduz que o Tribunal de origem "não analisou as teses centrais do recurso de apelação, em especial, a irregularidade da notificação do recorrente, que ocorreu através da publicação de jornal, antes de serem exauridos os demais meios, em especial a citação por hora certa, (..)".
+A inadmissão do recurso especial se fez à consideração de que o posicionamento alcançado não traduz desrespeito à legislação enfocada e que, além de incidir na espécie o óbice da Súmula 7/STJ, o recorrente deixou de atender aos requisitos legais para se comprovar o alegado dissídio jurisprudencial.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A insurgência não merece prosperar.
+De início, cumpre asseverar que os comandos normativos e a tese recursal referente ao indicados dispositivos não comportam exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+É bem verdade que, enfrentada a questão/tese pelo Tribunal a quo, haverá prequestionamento. No entanto, se a questão não houver sido examinada por esse, não obstante ter sido instado a se manifestar - ainda que em sede de embargos declaratórios - é dever da parte recorrente interpor recurso especial por violação ao art. 1022 do CPC/2015, demonstrando em qual ponto o exame do referido dispositivo seria capaz de comprometer a verdade posta nos autos. Quedando-se inerte quanto a tal providência, incide, sim, à espécie o enunciado sumular nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AÇÕES COLETIVA E INDIVIDUAL. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 2. EXISTÊNCIA DE LITISPENDÊNCIA. NECESSIDADE DO PEDIDO DE SOBRESTAMENTO DA AÇÃO INDIVIDUAL. EFEITOS DA COISA JULGADA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 3. AGRAVO IMPROVIDO.
+1. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou, tampouco houve alegação, por parte do interessado, de ofensa ao art. 535 do Código de Processo Civil/1973 (1.022 do CPC/2015). Incidência da Súmula 211 do Superior Tribunal de Justiça.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 946.209/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2017, DJe 07/03/2017)
+Registra-se que o Tribunal de origem expressamente consignou que as provas documentais dos autos demonstram a inexistência de qualquer vício, ilegalidade ou irregularidade no referido processo administrativo. A propósito, os seguintes trechos do acórdão recorrido, verbis:
+Pois bem. Os elementos de convicção produzidos nos autos, em especial, a prova documental, demonstram a inexistência de qualquer vício, ilegalidade ou irregularidade, passíveis de reconhecimento e eventual correção.
+Isso porque, não é possível verificar a ocorrência da alegada violação ao princípio da ampla defesa, relativamente à ausência de notificação pessoal da parte autora, para a apresentação de defesa no referido processo administrativo.
+Além disso, a realidade dos autos indica, no caso concreto, a existência de notificação para o oferecimento de defesa. Entretanto, a notificação não foi realizada pessoalmente. Ao contrário, foi providenciada por meio do jornal oficial do Município de Limeira (fls. 116).
+Afinal, a parte autora não foi localizada pelo Secretário Legislativo da Câmara Municipal de Limeira, a despeito da realização de diversas diligências, em dias e locais diversos, inclusive, na respectiva residência, afastando eventual nulidade (fls. 104/105).
+Ademais, é relevante consignar que a parte autora teve oportunidade de oferecer manifestação relativamente à rejeição das contas. Aliás, consta dos autos que apresentou, inclusive, o pedido de reexame do parecer desfavorável, perante o Tribunal de Contas do Estado de São Paulo, acompanhado de documentos. Porém, o referido requerimento foi desprovido (fls. 114), nos termos do artigo 51 e 52 da Lei Complementar Estadual nº 709/93.
+Desta forma, é induvidoso que foi observado o princípio do contraditório e ampla defesa, com ciência inequívoca da parte interessada.
+Nesse contexto, rever o posicionamento adotado pela Corte a quo como pretende o recorrente não é possível em sede de recurso especial por importar necessidade de reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ademais, quanto aos dispositivos da Lei Complementar Estadual nº 709/93 - Lei do Tribunal de Contas do Estado de São Paulo, incide o óbice sumular 280/STF para revisão do julgado, porquanto demandaria necessariamente pelo exame de legislação local, inviável na via do especial.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp 709.574/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015; REsp 1.455.034/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp 970.011/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. APONTADA OFENSA AOS ARTS. 4º E 5º DA LINDB, 126 E 127 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NORMA LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O exame da controvérsia acerca do pagamento do adicional de insalubridade foi realizado com amparo na legislação local (Lei Municipal 1.863/2009 e Decreto Municipal 44/2009), sendo sua análise vedada na via Especial, consoante Súmula 280/STF, aplicável por analogia.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Interno não provido.
+(AgInt no AREsp 932.880/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
