@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEMAR NORTE LESTE S.A. - EM RECUPERAÇÃO JUDICIAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 237):
+AGRAVO INTERNO DECISÃO NÃO TERATOLÓGICA. ATOS PRATICADOS SEM INSTRUMENTO DE MANDATO
+1. Consoante a jurisprudência predominante desta Eg. Corte, somente é possível a
+modificação de decisão teratológica ou fora da razoabilidade jurídica, ou em casos de flagrante ilegalidade ou abuso de poder (Nesse sentido: AG nº 200702010026279, 5a Turma Esp., Rel. Des. Fed. [NOME], DJ de 10.11.2010; AG nº 201002010057070, 7a Turma Esp., Rel. Des. Fed. [NOME], DJ de 19.11.2010; AG nº 201002010104368, 6a Turma Esp., Rel. Des. Fed. [NOME], DJ de 14.12.2010).
+2. A agravante deixou de cumprir com o dever de juntar o instrumento de mandato aos autos no prazo legal, tampouco requereu dilação de prazo para realizar tal providência, de modo que os atos processuais praticados devem ser considerados inexistentes, conforme disposição do art. 37, do parágrafo único do CPC.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta violação dos arts. 13, 236, § 1º, e 535, II, do CPC/1973; e do art. 662 do CC.
+Sustenta, preliminarmente, negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre os dispositivos legais pertinentes à representação processual, que entende aplicáveis à espécie.
+Alega, em síntese, que regularizou sua representação processual e ratificou os atos praticados anteriormente, afirmando que a ausência de procuração constitui vício sanável nas instância ordinárias.
+Contrarrazões apresentadas.
+Passo a decidir.
+Inicialmente, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação ao art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2016; e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/11/2015.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (e-STJ fls. 234/235).
+Quanto à regularidade da representação processual, observo que o julgado recorrido expressamente assentou que a parte, mesmo intimada, não atendeu ao comando judicial, consignando o seguinte (e-STJ fls. 234/235):
+Nesse ponto, destaque-se que qualquer arguição de nulidade não absoluta, deve ser alegada pela parte na primeira oportunidade que viesse a falar nos autos, o que não ocorreu, já que em 07/04/2014 a agravante requereu o acautelamento do termo aditivo à carta de fiança e nada alegou quanto à não ter constado o nome de seus patronos na publicação da decisão.
+Aliás, nem poderia, já que mesmo depois de tomar conhecimento do teor da decisão que determinou a regularização de sua representação e das irregularidades da carta de fiança a recorrente interpôs os embargos de declaração sem regularizar sua representação, o que somente foi feito depois da prolação da decisão dos embargos, mais precisamente em 05/05/2014 (cf. fls. 126/134), quando requereu a juntada do instrumento de mandato aos autos.
+Causa espécie que mesmo diante do alegado, e não comprovado, sufocamento financeiro, a agravante somente tenha notado a ocorrência do bloqueio da quantia de quase um milhão de reais de sua conta, ocorrida em 21/02/2014, somente quando compareceu aos autos, em 07/04/2014, para apresentar o aditamento à carta de fiança.
+De se atentar também que, embora alegue não saber da necessidade de regularização da carta de fiança e de sua representação (ambas as determinações feitas na mesma decisão), a agravante providenciou as alterações determinadas muito antes de sua apresentação no processo, tanto que o aditamento à carta de fiança foi assinado em 13/02/2014 (cf. fls. 102/105), ou seja, quase dois meses depois da publicação da decisão (18/12/2013) que alega não ter tido conhecimento, quase dois meses antes da apresentação do aditamento (07/04/2014).
+Ora, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido, confira-se precedente:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. NULIDADE POR FALTA DE INTIMAÇÃO DA SENTENÇA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA N. 7 DO STJ. VIOLAÇÃO DO ART. 535, INCISO II, CPC/73. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+I - A falta de demonstração clara e objetiva de violação de dispositivos de lei federal caracteriza deficiência de fundamentação do recurso especial, incidindo, por analogia, o enunciado n. 284 da Súmula do STF.
+II - Havendo o Tribunal de origem, com base no acervo fático-probatório dos autos, entendido que a parte recorrente teve ciência da sentença com a intimação pela nota de expediente, a inversão do julgado implicaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ. Precedentes: AgInt no AREsp 762.312/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2017, DJe 24/2/2017; AgInt no REsp 1.514.296/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 22/11/2016, DJe 28/11/2016.
+III - Agravo interno improvido.
+(AgInt no REsp 1341804/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
