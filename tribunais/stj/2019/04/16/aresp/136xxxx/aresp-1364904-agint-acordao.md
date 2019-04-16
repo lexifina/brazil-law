@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem consigna que não é possível dizer que a solução adotada não observou o ônus da prova atribuído à ré. Além disso, destaca que apesar da responsabilidade objetiva da transportadora, ora recorrida, havida no transporte rodoviário de cargas, ficou evidenciada in casu a excludente do nexo de causalidade em relação aos danos decorrentes do perecimento da carga, ou seja, foi comprovada a pactuação de seguro pelo contratante do serviço de transporte (art. 12, VI, da Lei n. 11.442/2007. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, tendo em vista a impossibilidade de reexame do acervo probatório dos autos (Súmula 7/STJ).
+Insurge-se a agravante alegando que o deslinde da controvérsia prescinde do revolvimento das provas dos autos, uma vez que as premissas fáticas já estão assentes no acórdão estadual, mas requer a adequada valoração jurídica das provas dos autos.
+É o sucinto relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem consigna que não é possível dizer que a solução adotada não observou o ônus da prova atribuído à ré. Além disso, destaca que apesar da responsabilidade objetiva da transportadora, ora recorrida, havida no transporte rodoviário de cargas, ficou evidenciada in casu a excludente do nexo de causalidade em relação aos danos decorrentes do perecimento da carga, ou seja, foi comprovada a pactuação de seguro pelo contratante do serviço de transporte (art. 12, VI, da Lei n. 11.442/2007. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O agravo interno não merece ser acolhido.
+Como dito, o Tribunal de origem registra que, mesmo sendo considerada a confissão feita pela recorrida, a formação do juízo levou em consideração diversas outras provas, as quais, sendo devidamente sopesadas, acabaram por levar à conclusão diversa da almejada pela recorrente. Todavia, ainda que em sentido oposto, não é possível dizer que a solução adotada não observou o ônus da prova atribuído à ré.
+2.1 Outrossim, a Corte Estadual destaca que não há como imputar a recorrida a responsabilidade pelos danos decorrentes do perecimento da carga transportada, pois, de acordo com o diretor de logística da SADIA, no contrato firmado entre esta e a recorrente, foi embutido o valor do seguro por todo o trecho, isto é, da porta da fábrica ao porto. Assim, é lógico que o seguro em questão também abrangia o trecho rodoviário do frete, sendo que este trecho também estava garantido pela apólice, cuja contratação era de responsabilidade da recorrente. Sendo assim, em que pese a responsabilidade objetiva do transportador (no caso, a recorrida) havida no transporte rodoviário de cargas, na espécie ficou evidenciado excludente do nexo de causalidade, tal qual previsto no art. 12, VI, da Lei n. 11.442/2007, ou seja, foi comprovada a pactuação de seguro pelo contratante do serviço de transporte.
+A propósito, confira-se o seguinte excerto do acórdão recorrido:
+"(..) Pois bem, alega a apelante que há erro na decisão objetada porque a apelada, mesmo tendo negado a relação contratual durante todo o trâmite do processo, reconheceu-a em sede de razões finais.
+Sem razão. Embora se reconheça que a apelada, de certo modo atuou de forma contraditória, vez que se disse ilegítima para responder aos termos do pedido formulado pela apelante, não negou que tenha feito o transporte da carga perecível, dizendo tê-la feita por contrato da Sadia, que era a dona do produto.
+E a detida análise dos autos permite reconhecer que a intermediação do contrato fora mesmo feita por preposto da Sadia - [NOME], que inclusive assim se pronunciou quando ouvido em Juízo (fls. 423). Aliás, é valioso o depoimento coletado, eis que permite verificar que a apelada prestava serviços de transporte rodoviário diretamente à Sadia, o que ensejou que fosse ela indicada à apelante para que efetuasse o transporte da carga em questão.
+Sucede que a apelante, a pretexto de urgência, acabou por não firmar adredemente qualquer contrato estabelecendo regras claras acerca das responsabilidades incumbidas a cada um dos contratantes, sendo certo que no instrumento apresentado não consta qualquer assinatura por parte da contratada.
+Segundo a apelada, o transporte em questão fora contratado nos mesmos moldes em que eram pactuadas as relações com a Sadia, em que o seguro da carga era suportado pela contratante.
+Resulta daí que não há como se dizer que a apelada tenha mesmo responsabilidade por ressarcir a apelante pelos danos decorrentes do perecimento da carga transportada.
+Relevante registrar, aliás, que a testemunha antes referida - [NOME], que era ao tempo dos fatos diretor de logística da Sadia, afirmou que no contrato firmado com a apelante "foi embutido no preço do contrato o valor do seguro, para que o mesmo ficasse por conta da ALL América, sendo que esse seguro era válido por todo o trecho, da porta da fábrica ao porto".
+Ora, se o seguro garantiria eventuais danos desde a coleta do produto até a entrega no porto, por certo que até mesmo o trecho rodoviário do frete estava garantido pela apólice, cuja contratação era de responsabilidade da apelante.
+Na mesma linha foi a exposição feita pela testemunha [NOME], também preposto da Sadia, que afirmou que no contrato em questão a responsabilidade de segurar a carga era da apelante, já que o valor do prêmio fora embutido no valor do contrato. E convergem nesta linha todos os demais depoimentos coletados, de modo a evidenciar que era mesmo da apelante a obrigação de contratar o seguro que protegeria a carga transportada.
+Como bem salientou o Juízo, pela dinâmica dos fatos trazidos ao processo, aplica-se ao caso, em prol da apelada, a excludente de responsabilidade de que trata o art. 12, inciso VI, da Lei nº 11442/2007.
+Anote-se que não se desconhece o fato de que o transporte rodoviário de cargas encerra uma responsabilidade objetiva do transportador. Porém, esta cede quando se comprova, tal como se deu no caso, excludente do nexo de causalidade.
+(..)
+No caso em análise não restou provado que a apelada tivesse mesmo se obrigado a, no contrato ajustado com a ALL, a contratar seguro. E isso era imprescindível, à conta de que nos contratos análogos, firmados com a Sadia, que era a dona da carga, não havia esta responsabilidade. Portanto, correta a sentença quando decidiu pela improcedência do pedido, nada havendo a ser modificado." (fls. 692/694) - g.n.
+Portanto, a reforma do aresto estadual, nestes aspectos, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
