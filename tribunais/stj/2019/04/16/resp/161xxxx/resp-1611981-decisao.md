@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela PRÊMIO CONSTRUTORA LTDA., com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fls. 196):
+AGRAVO DE INSTRUMENTO - TRIBUTÁRIO E PROCESSUAL CIVIL - PENHORA SOBRE FATURAMENTO DA EMPRESA - OPERACIONALIZAÇÃO - NOMEAÇÃO CONTÁBIL COMO DEPOSITÁRIO -INDEFERIMENTO DE LIMINAR - PODER GERAL DE CAUTELA - AUSÊNCIA DE VEROSSIMILHANÇA DO DIREITO ALEGADO.
+1. Trata-se de agravo de instrumento interposto por PRÊMIO CONSTRUTORA LTDA., em face da decisão que deferiu a substituição de 90% do montante bloqueado, através do convênio BACENJUD, pela penhora sobre o faturamento, mantendo 10% do valor constrito, cuja penhora já fora aperfeiçoada.
+2. A agravante sustenta, em linhas gerais, que, ao nomear como depositário um perito contábil de confiança do juízo, permitirá que este tenha acesso a vida financeira da empresa, o que se caracteriza em ingerência na atividade empresarial confiável apenas aos seus administradores. Sustenta, ainda, que o depositário deverá ser remunerado, o que se traduz em ônus para a agravante totalmente desnecessário, visto que a Caixa Econômica poderia assumir esse encargo, já que o depósito em dinheiro do percentual penhorado deve ser efetivado em conta judicial vinculada à execução fiscal.
+3. A concessão de medida liminar se insere no poder geral de cautela do juiz. Esta Egrégia Turma, reiteradamente, tem entendido que o agravo de instrumento só é cabível quando o juiz dá à lei interpretação teratológica, fora da razoabilidade jurídica, ou quando o ato se apresenta flagrantemente ilegal, ilegítimo e abusivo, o que não é o caso.
+4. A possibilidade de reforma, por meio de agravo de instrumento interposto no âmbito do Tribunal ad quem, da decisão que deferiu a penhora sobre o faturamento da empresa, com a nomeação de um perito contábil como depositário judicial, ignora a liberdade do livre convencimento e a posição privilegiada do Juiz a quo que, pela proximidade das peças comprobatórias do alegado direito, detém maiores subsídios para o conhecimento da causa.
+5. A penhora sobre o faturamento, exige a nomeação de um depositário judicial, que será a pessoa encarregada de prestar contas regularmente ao juízo quanto ao cumprimento da medida, realizando o depósito mensal do percentual fixado a título de penhora.
+6. A nomeação de depositário judicial, ainda que estranho ao quadro societário, não constitui ofensa à lei, pois o artigo 678 do CPC dispõe que, preferencialmente, o depositário será escolhido dentre um dos sócios da empresa, estando, portanto, de acordo com às exigências legais.
+7. Agravo de instrumento a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+A recorrente aponta violação dos arts. 19, § 2º, 535, II, 620 e 667 do CPC/1973.
+Sustenta, preliminarmente, que houve negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre a remuneração mensal do perito pelos serviços a serem realizados de fiscalização econômica e financeira da empresa.
+Alega, em síntese, que (e-STJ fl. 255) "tal como o art. 677 do Código de Processo Civil, esse E. Superior Tribunal de Justiça, admite a nomeação de depositário e não de administrador judicial e/ou perito para exercer a função de responsável pela operacionalização da constrição".
+Contrarrazões apresentadas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Considerado isso, verifico que assiste razão à recorrente.
+O art. 535 do Código de Processo Civil/1973 prevê que os embargos de declaração são cabíveis quando houver, no acórdão ou na sentença, omissão, contrariedade ou obscuridade, in verbis:
+Art. 535. Cabem embargos de declaração quando:
+I - houver, na sentença ou no acórdão, obscuridade ou contradição;
+II - for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, o Tribunal Regional, mesmo provocado, deixou de se manifestar sobre questão suscitada nos embargos declaratórios referente ao ônus de eventual remuneração do perito. Confira-se (e-STJ fls. 221/222):
+O v. acórdão também incorreu em omissão pois deixou de enfrentar questão relativa à remuneração mensal do perito pelos serviços a serem realizados de fiscalização econômica e financeira da Embargante, o que é ônus financeiro que tem de ficar sob encargo da Embargada, pois do contrário constitui ofensa ao princípio da menor onerosidade da execução para o devedor, bem como afronta ao artigo 19, §2º do Código de Processo Civil4.
+Isso porque o gravame é de interesse da Embargada, e não da Embargante, logo a determinação de meio menos gravoso (penhora de faturamento) não pode representar a transferência do ônus da execução para a Embargante.
+Como não poderia deixar de ser, o E. Superior Tribunal de Justiça já se manifestou pacificamente sobre o tema, em que determina que o ônus do pagamento de honorários mensais ao perito tem de ser realizado pela parte beneficiada com a atuação do expert, conforme se observa nas ementas abaixo colacionadas  ..
+Assim, estando configurada a violação do art. 535 do Código de Processo Civil/1973, faz-se necessária a declaração de nulidade do acórdão, que apreciou os embargos declaratórios, para que o vício seja sanado pelo Tribunal de origem.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAR CONTRARRAZÕES AO AGRAVO REGIMENTAL. PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO. EMBARGOS DECLARATÓRIOS. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É imprescindível a intimação do agravo para apresentar contrarrazões, em atenção aos princípios da ampla defesa e do contraditório.
+2. Não tendo o Tribunal a quo se manifestado sobre questão fundamental para o julgamento da controvérsia, justifica-se a anulação do julgado por esta Corte, por afronta do artigo 535 do Código de Processo Civil.
+3. Agravo regimental desprovido. (AgRg no REsp 1.236.975/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 15/02/2012).
+PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME]. (REsp 1.337.055/PE, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/09/2012).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para anular o acórdão recorrido, por violação do art. 535 do CPC/1973, determinando o retorno dos autos ao Tribunal de origem, a fim de que reaprecie os embargos de declaração, sanando o vício de integração ora identificado.
+Publique-se. Intimem-se.
