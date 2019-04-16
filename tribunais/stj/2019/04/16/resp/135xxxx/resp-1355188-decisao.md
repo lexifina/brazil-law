@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 218):
+DECLARATÓRIA DE NULIDADE DE CAMBIAL E MEDIDA CAUTELAR DE SUSTAÇÃO DE PROTESTO. Cheques pré-datados. Factoring. Cessão de crédito. Possibilidade de investigação da causa debendi por inaplicável a regra do artigo 25 da Lei do Cheque aos contratos de factoring, onde não há, propriamente, circulação de título de crédito. Faturizador que, recebendo os títulos, deixa de promover a notificação do faturizado. Descumprimento do disposto no artigo 290 do Código Civil. Pagamento feito diretamente ao faturizado. Validade reconhecida. Declaratória e sustação de protesto procedentes. Sentença reformada. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 240/245).
+No recurso especial (e-STJ fls. 248/269), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega violação dos arts. 15, 17, 25, 32 e 38 da Lei n. 7.357/1985, 333, I, 334, III, 370, V, e 471 do CPC/1973 e 893 do CC/2002.
+Aduz ser terceiro de boa-fé, portanto, "não se pode opor as exceções pessoais do endossante dos títulos"(e-STJ fl. 252).
+Sustenta que o cheque é uma ordem de pagamento à vista, não estando vinculado ao negócio jurídico, diante da aplicação dos princípios da abstração e da autonomia.
+Destaca que (e-STJ fls. 254/258):
+(..) o cheque posto em circulação garante ao possuidor do título de boa-fé que nenhuma exceção pertinente à relação da qual ele não tenha participado terá eficácia jurídica quando da sua cobrança.
+Dessa forma, competiria ao Recorrido quitá-los diante desta Recorrente, terceira portadora de boa-fé e, posteriormente, voltar-se contra o endossante TRIUNFO,em eventual ação de regresso, cobrando-lhe os valores despendidos além do devido.
+(..)
+Inobstante isso, o Recorrido não se desincumbiu do ônus que lhe competia, nos termos do art. 333, I do CPC, pois nem demonstrou qualquer indício de má-fé desta Recorrente, terceira portadora de boa-fé dos títulos, com o que, plenamente aplicável a inoponibilidade das exceções pessoais e, ainda que assim não fosse, inexiste qualquer prova idônea de quitação dos títulos, mesmo que, diante do endossante SILVEIRA, logo, não merecem prosperar seus pleitos.
+Contrarrazões não apresentadas (e-STJ fl. 278).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Assim decidiu a Corte local (e-STJ fls. 220/221):
+De se ressaltar que não aproveitam à empresa de fomento mercantil os princípios de direito cambiaria pois na precisa lição de Marcelo Negri Soares "o factoring é contrato eminentemente causal; no qual não vige o princípio da independência, segundo o qual o título de crédito é independente de qualquer outro documento. No contrato de factoring não se aplica o princípio da abstração (desprendimento da causa que lhe deu origem) e também o princípio da inoponibilidade das exceções pessoais da autonomia em relação às obrigações que surgirem). Isso porque os títulos de crédito cedidos não são considerados bens móveis, mas, sim, acessórios ao contrato de factoring. Os títulos de crédito cedido são acessórios porque o contrato de factoring envolve mais do que a simples cessão dos títulos de crédito, pois estes só terão validade perante terceiros se percorrido todo o itinerário necessário para a configuração do factoring." ("Contrato de Factoring", Editora Saraiva, 2010, p. 135).
+(..)
+Há de se ressaltar, ainda, não ser aplicável à espécie a regra do artigo 25 da Lei do Cheque, pois em se tratando de contrato de factoring não há circulação do título de crédito, pois consoante doutrina já mencionada a autonomia do cheque não é absoluta, permitida em certas circunstâncias, como a prática de ilícito ou omissão essencial da empresa factoring, a investigação da causa debendi. Disso decorre, portanto, que a inexistência do crédito representado pelos cheques endossados à faturizadora também poderá ser oponível a ela. Isso porque o cheque entregue como garantia de futuro inadimplemento deixa de ser ordem de pagamento à vista para se transformar em título de crédito substancialmente igual à nota promissória". (ob. cit., p. 141).
+O fundamento de que ao contrato de factoring não se aplicam os princípios da abstração e da inoponibilidade de exceções pessoais, devendo ser observados os arts. 290 e 292 do CC/2002, não foi impugnado pela recorrente, incidindo a Súmula n. 283 do STF.
+Em relação aos arts. 333, I, 334, III, 370, V, e 471 do CPC/1973, não houve prequestionamento da matéria, incidindo a Súmula n. 282/STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
