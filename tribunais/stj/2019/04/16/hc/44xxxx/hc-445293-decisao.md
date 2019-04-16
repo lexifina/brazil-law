@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial com pedido liminar impetrado em favor de [NOME] SALDANHA contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Noticiam os autos que o paciente foi condenado, pelo cometimento do delito descrito no art. 155, §4º, inciso I, do Código Penal (furto qualificado), à pena de 2 (dois) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, calculados no piso legal, porque, após arrombar uma grade externa, subtraiu para si 1 (um) alicate de pressão, 8 (oito) canos de seis metros e 25mm e 1 (uma) extensão de 5m, objetos avaliados em aproximadamente R$ 450,00 (quatrocentos e cinquenta reais) (e-STJ fls. 132-141).
+Inconformada, a defesa interpôs apelação, tendo o recurso sido parcialmente provido para reconhecer o privilégio previsto no art. 155, §2º, do Código Penal e para reduzir a pena 1 (um) ano de reclusão e pagamento de 5 (cinco) dias-multa, substituída a pena corporal por uma restritiva de direitos, consistente em prestação de serviços à comunidade, mantida a sentença condenatória nos demais aspectos.
+Neste writ, a instituição impetrante alega, em síntese, a ocorrência de constrangimento ilegal, pois, embora o Tribunal estadual tenha reconhecido o furto privilegiado, deixou de aplicar exclusivamente a pena de multa ou a fração máxima de redução da pena (2/3) sem fundamentar sua decisão.
+Requer, ao final, a concessão da ordem, para declarar a ilegalidade do acórdão, a fim de aplicar exclusivamente a pena de multa, em razão do disposto no § 2º do art. 155 do Código Penal e, subsidiariamente, para aplicar a fração redutora do furto privilegiado no patamar máximo de 2/3.
+A liminar foi indeferida (e-STJ fl. 243)
+Informações prestadas (e-STJ fls. 248-258, 259-277 e 283-316)
+O Ministério Público Federal opinou pela concessão da ordem, a fim de "anular em parte o acórdão impugnado e determinar que outro seja proferido, com a devida fundamentação quanto à escolha da pena a ser aplicada (reclusão, detenção ou pena de multa) e ao quantum do redutor da pena, caso seja aplicada a pena privativa de liberdade" (fls. 318-319).
+É o relatório.
+Decido.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Acerca do privilégio previsto no art. 155, § 2º, do Código Penal, a Corte de origem assim se manifestou (e-STJ fls. 233-236):
+"Da aplicação do privilégio previsto no art. 155, §2º, do CP.
+Nesse ponto, assiste razão à defesa.
+Efetivamente, como já dito acima quando da análise da possível aplicação do princípio da insignificância, em que pese o valor da res não possa ser considerado irrisório (cerca de R$ 300,00), nota-se que este é inferior ao salário mínimo vigente à época dos fatos.
+Com efeito a jurisprudência desta Corte vai no sentido de que o elemento normativo "coisa de pequeno valor" contido no referido artigo é aquela que não ultrapassa um salário mínimo.
+Nesse viés, o salário mínimo na época dos fatos era de R$ 788,00 Da aplicação do privilégio previsto no art. 155, §2º, do CP.
+Nesse ponto, assiste razão à defesa.
+Efetivamente, como já dito acima quando da análise da possível aplicação do princípio da insignificância, em que pese o valor da res não possa ser considerado irrisório (cerca de R$ 300,00), nota-se que este é inferior ao salário mínimo vigente à época dos fatos.
+Com efeito a jurisprudência desta Corte vai no sentido de que o elemento normativo "coisa de pequeno valor" contido no referido artigo é aquela que não ultrapassa um salário mínimo.
+Nesse viés, o salário mínimo na época dos fatos era de R$ 788,00 (setecentos e oitenta e oito reais), portanto, o valor dos bens subtraídos é de menos da metade desse montante.
+Tal fato, aliado à primariedade do agente, autoriza a aplicação do benefício.
+(..)
+Mantidos os demais parâmetros, impõe-se a redução em metade na terceira fase da dosimetria, fixando-se a pena definitiva em 1 (um) ano de reclusão e pagamento de 5 (cinco) dias-multa no valor mínimo.
+Igualmente, mantém-se a substituição da pena privativa de liberdade por restritiva de direitos, todavia, diante da alteração do quantum, deve incidir a regra insculpida no art. 44, §2º, do CP: "Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos".
+Neste sentido, fica mantida a prestação de serviços à comunidade definida na sentença." (grifei).
+O juízo de piso, por sua vez, ao promover a substituição da pena de reclusão pelas sanções restritivas de direitos, assim havia fundamentado sua decisão, in verbis (e-STJ fl. 140):
+"Nos termos do art. 44, § 2º, do Código Penal, substituo as penas privativas de liberdade de reclusão por duas restritivas de direitos, consistentes na prestação de serviços à comunidade pelo mesmo período e prestação pecuniária no valor de 01 (um) salário mínimo à entidade com destinação social à entidade beneficente Sociedade Espírita de Assistência e Promoção Social Lar de Zulma."
+A seu turno, o art. 155, § 2º, do Código Penal assim dispõe:
+"Art. 155 - Subtrair, para si ou para outrem, coisa alheia móvel:
+Pena - reclusão, de um a quatro anos, e multa.
+ ..
+§ 2º - Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa."
+O entendimento deste Superior Tribunal de Justiça sobre o tema é no sentido de que, tanto a escolha pela pena de reclusão, em detrimento da detenção ou multa, quanto o patamar de diminuição da pena em razão do privilégio no crime de furto, deve ser devidamente fundamentada, nos termos do art. 93, IX, da Constituição Federal.
+Confira-se:
+PENAL. HABEAS CORPUS. ART. 155, CAPUT, § 2.º , DO CÓDIGO PENAL. FURTO PRIVILEGIADO. SUBSTITUIÇÃO DA PENA DE RECLUSÃO POR DETENÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. OCORRÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO DA PENA CORPORAL POR MULTA. POSSIBILIDADE. ORDEM CONCEDIDA.
+1. A ausência de justificativa pelo Juízo, quanto à escolha de uma das formas de privilégio previstas no artigo 155, § 2.º, do Código Penal, viola o princípio do livre convencimento motivado, malferindo o disposto no art. 93, IX, da Constituição da República.
+2. Esta Corte firmou o entendimento de que aplicada a pena no mínimo legal, sendo o paciente primário e de bons antecedentes, bem como substituída a pena corporal por restritivas de direitos, não há óbice para a substituição da pena privativa de liberdade por multa. Substituída a reprimenda aplicada ao paciente por pena de multa, resta extinta a punibilidade em razão da prescrição punitiva.
+3. Ordem concedida, a fim de substituir a pena aplicada ao paciente por multa, nos termos do art. 155, § 2.º, do Código Penal e, por conseguinte, extinguir a punibilidade, diante da prescrição da pretensão punitiva. (HC 300.363/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/10/2014, DJe 03/11/2014)
+HABEAS CORPUS. RECEPTAÇÃO DOLOSA. PEDIDO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DO EXAME DOS ELEMENTOS DO CASO E DOS ANTECEDENTES CRIMINAIS DO AGENTE. RECONHECIMENTO DA PRIVILEGIADORA PREVISTA NO § 5.º DO ART. 180 DO CÓDIGO PENAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA PARTE PARCIALMENTE CONCEDIDA.
+1. O reconhecimento da atipicidade da conduta em decorrência da aplicação do princípio da insignificância não foi suscitado e, tampouco, analisado no Tribunal Federal de origem, motivo pelo qual fica inviabilizado o conhecimento do tema, sob pena de vedada supressão de instância.
+2. Ademais, a configuração do princípio da insignificância não se vincula exclusivamente ao valor do objeto do delito, sendo necessário o exame de outros elementos do caso e do próprio histórico criminal do agente. Precedentes.
+3. Por outro lado, na hipótese, verifica-se que a adoção do privilégio em seu patamar mínimo, qual seja, a substituição da pena de reclusão pela de detenção, não foi justificada. Nesse contexto, faz-se necessário o retorno dos autos à Corte de origem para a complementação do julgado.
+4. Ordem de habeas corpus parcialmente conhecida e, nessa parte, parcialmente concedida, para determinar o retorno dos autos ao Tribunal de origem, a fim de que se complemente o julgamento, nos termos explicitados no voto. (HC 223.842/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 19/09/2013, DJe 27/09/2013)
+Verifica-se, portanto, a ocorrência de constrangimento ilegal a ser sanado de ofício, pois, tanto a fração redutora pelo privilégio foi aplicada em 1/2 (metade), quanto a pena de reclusão foi substituída por uma restritiva de direitos sem a devida fundamentação, na medida em que o acórdão impugnado não explicita os motivos pelos quais concedeu a benesse nos termos indicados.
+Ante o exposto, por se afigurar manifestamente incabível, não se conhece do writ, concedendo-se, contudo, habeas corpus de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal, para anular parcialmente o acórdão proferido na Apelação Criminal n. 0002434-96.2015.8.24.0064, a fim de que a Corte de origem fundamente a escolha da pena a ser aplicada ao paciente [NOME] [NOME] SALDANHA, ou, em caso de imposição de pena privativa de liberdade, a fração de redução da pena em razão do privilégio.
+Publique-se. Intimem-se.
