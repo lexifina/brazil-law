@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/CE, assim ementado (fl. 220):
+RECURSO DE AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA PREVENTIVO. AUSÊNCIA DE JUSTO RECEIO. IMPOSSIBILIDADE DE CONCESSÃO EM RELAÇÃO A ATO FUTURO E GENÉRICO.
+1. O mandamus, de fato, não ataca atos concretos passados e tampouco atos futuros determináveis, tendo em vista que, segundo se infere do próprio pedido, a impetrante requer a concessão de uma ordem judicial com objetivo de normalizar, através de um comando geral e abstrato, situações futuras e indeterminadas.
+2. O mandado de segurança preventivo não pode ser utilizado com o intuito de obter provimento genérico aplicável a todos os casos futuros de mesma espécie. (REsp 1064434/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 14.6.2011, DJe 21.6.2011).
+3. A denominação "preventivo" não é capaz de esconder que o writ veicula, em última análise, uma pretensão de cunho genérico, destituída de qualquer liquidez e que não se encontra demonstrada por qualquer prova trazida aos autos, de maneira que a eventual concessão da seguranç a requerida importaria na edição de uma verdadeira -e absurda - norma de conduta à Administração Pública, o que não se coaduna em absoluto com a via estreita do mandamus.
+4. Recurso conhecido e improvido.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente alega violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto às questões de fundo, sustenta ofensa aos seguintes artigos: i) 1º da Lei n. 12.016/2009, ao fundamento de que " ..  a recorrente tem o direito de afastar ato ilegal a ser praticado pela autoridade coatora por meio do mandado de segurança." (fl. 294);
+ii) 156, I, do CTN, já que "Somente será devida a alíquota interestadual quando o destinatário for contribuinte do imposto, e somente neste caso caberá ao Estado da localização do destinatário imposto correspondente à diferença entre a alíquota interna e a interestadual." (fl. 296);
+iii) 97 do CTN, dado que a exação não teria qualquer fundamento legal de validade.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 349/351.
+É o relatório. Passo a decidir.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Noutro passo, quanto ao artigo 1º da Lei n. 12.016/2009, o recorrente, ao direcionar a sua tese no sentido de que tem direito a afastar ato ilegal a ser praticado pela autoridade coatora, deixou de impugnar o fundamento do acórdão recorrido segundo o qual "O que pleiteia a apelante, é que seja garantida a livre circulação de suas mercadorias sem prévio recolhimento do tributo, de modo a coibir de maneira genérica, permanente e futura, a edição de qualquer ato de possível ó apreensão.  ..  A despeito da índole preventiva, o Mandado de Segurança não prescinde de atos concretos ou preparatórios da autoridade impetrada, de modo a evidenciar objetivamente o justo receio de que direito líquido e certo poderá ser lesado. A ação mandamental é descabida para a finalidade de obter-se ordem genérica, "ad futurum", fixando regras de conduta para o magistrado. Ao contrário, no preventivo visa o impetrante, desconstituir o ato cuja consumação imediata se pretenda evitar e, não, um reparo de natureza genérica a ser aplicado em casos futuros e abstratos." (fl. 223).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+No mais, verifica-se que não houve juízo de valor por parte da Corte de origem a respeito dos dispositivos suscitados e suas respetivas teses, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
