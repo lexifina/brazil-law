@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por AUTO VIAÇÃO CAMURUJIPE LTDA. contra decisão que não admitiu recurso especial manejado com base na alínea "a" do permissivo constitucional.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 422-423, e-STJ):
+AGRAVO DE INSTRUMENTO PROCESSUAL CIVIL AÇÃO INDENIZATÓRIA - EXECUÇÃO DESCONSIDERAÇÃO DA PESSOA JURÍDICA - POSSIBILIDADE COMPROVADA RESISTÊNCIA AO CUMPRIMENTO DA SENTENÇA - OFERECIMENTO DE BENS À PENHORA DE DIFÍCIL NEGOCIAÇÃO E MANUTENÇÃO DAS CONTAS OPERACIONAIS DA EMPRESA COM BAIXO SALDO, FRUSTRANDO BLOQUEIOS VIA BACENJUD - MANIFESTO ABUSO DE DIREITO - DECISÃO MANTIDA - AGRAVO DESPROVIDO.
+1 - Decisão que, em execução de sentença proferida em ação indenizatória, acolheu pedido de desconsideração da pessoa jurídica acionada, determinando a citação dos integrantes de sua composição societária.
+2 - Ofertas de bens à penhora não cumprem a ordem de preferência nem se mostraram, a início, suficientes para satisfação do débito, alem de se mostrarem de difícil alienação. Mesmo tentativas de bloqueios on line não resultaram satisfativas, apesar de não se poder conceber que não exista significativa movimentação de valores e depósitos bancários em uma empresa concessionária de serviços de transporte público, com grande frota e, por conseguinte, largo recolhimento dos valores das passagens e movimentação financeira diária.
+3 - Forçoso o reconhecimento do uso abusivo do ente coletivo como escudo, a evitar a solvência da obrigação decorrente de sentença sob execução, utilizando-se a executada da autonomia do ente coletivo e da sua administração financeira para praticar abuso de direito e de poder, buscando sempre furtar-se ao cumprimento das determinações judiciais. Precedentes jurisprudenciais
+4 - Nega-se provimento ao agravo.
+Opostos embargos de declaração, esses foram rejeitados (fls. 449-456, e-STJ).
+Nas razões do recurso especial (fls. 462-470, e-STJ), a insurgente apontou violação aos arts. 134, § 4º, 489, § 1º, IV, e 1.022 do NCPC, art. 28, § 5º, do CDC, e art. 50 do Código Civil.
+Sustentou, em síntese: a) a configuração da negativa de prestação jurisdicional; b) na hipótese não estão preenchidos os requisitos necessários à desconsideração da personalidade jurídica, ao revés do que decido pela Corte estadual.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 500-503, e-STJ), dando ensejo à interposição do presente agravo (fls. 506-512, e-STJ).
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. De início, não se vislumbra a negativa de prestação jurisdicional, fundada nos arts. 489, § 1º, IV, e 1.022 do NCPC, na medida em que o aresto estadual enfrentou a controvérsia de maneira exaustiva, abordando com profundidade a questão da desconsideração da personalidade jurídica.
+Com efeito, o Tribunal local registrou que a falta de êxito na constrição de bens e a desobediência à ordem legal daqueles que foram ofertados indicam "abuso de direit e de poder, buscando sempre furtar-se ao cumprimento das determinações judiciais" (fl. 425, e-STJ). Portanto, clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional. Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Por conseguinte, afasta-se a negativa de prestação jurisdicional invocada.
+2. Entretanto, merece prosperar a ventilada contrariedade ao art. 134, § 4º, art. 28, § 5º, do CDC, e art. 50 do Código Civil, porquanto o aresto recorrido está em desconformidade com a jurisprudência consagrada desta Corte Superior.
+De fato, é entendimento consolidado no âmbito deste Superior Tribunal de Justiça que a desconsideração da personalidade jurídica tem a aplicação subordinada à demonstração da prática de abuso pelo ente, revelado pelo desvio de sua finalidade ou confusão patrimonial.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. INSOLVÊNCIA DA SOCIEDADE. DISSOLUÇÃO IRREGULAR. FATOS INSUFICIENTES.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça encontra-se consolidada no sentido de que a desconsideração da personalidade jurídica é medida excepcional e está subordinada à comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial. Precedentes.
+4. Na hipótese, o fato de a sociedade ter sido encerrada irregularmente não pode presumir o abuso da personalidade jurídica.
+Precedentes.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1538615/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018; grifou-se)
+COMERCIAL E PROCESSO CIVIL. SOCIEDADE. MORTE DE UM DOS SÓCIOS. ENCERRAMENTO IRREGULAR DA EMPRESA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, desvio de finalidade ou confusão patrimonial, requisitos não verificáveis, no caso concreto.
+ ..
+3. Agravo regimental não provido.
+(AgRg no REsp 1464494/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/10/2018, DJe 15/10/2018; grifpu-se)
+Além disso, pontue-se que esta Corte Superior entende que a inexistência de bens suficientes à satisfação da dívida não é argumento bastante para a aplicação da disregard doctrine, porquanto, neste caso, não há indício do abuso da personalidade jurídica.
+Traz-se à colação os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE RECONSIDEROU DELIBERAÇÃO ANTERIOR PARA CONHECER DO AGRAVO E, DE PLANO, DAR PROVIMENTO AO APELO EXTREMO.
+INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. Esta Corte Superior firmou seu posicionamento no sentido de que a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, inocorrentes na hipótese. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AgRg no AREsp 377.104/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/11/2018, DJe 04/12/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DE BENS DE PROPRIEDADE DA EMPRESA EXECUTADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INVIABILIDADE. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1239574/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018; grifou-se)
+Na hipótese em exame, constata-se que, embora tenha consignado tratar-se o "exequente equiparável a consumidor" (fl. 424, e-STJ), o acórdão recorrido incursionou no exame dos requisitos da teoria maior da desconsideração da personalidade jurídica, notando que o abuso derivou da falta de bens para a satisfação da dívida.
+Confira-se trecho do aresto estadual:
+Tal inconformismo, entretanto, não merece prosperar, em vista do que dos autos consta e da fundamentação da decisão proferida pelo magistrado de primeira instância, que relata as penhoras efetivadas e apenas cuidou da necessidade de efetiva execução do julgado, em decorrência de obstáculos diversos sempre criados pela administração da empresa, de forma a somente se alcançar menos de 10% do valor da condenação, apesar de diversos mandados BACENJUD e RENAJUD.
+Aqui se tem a especial circunstância de mostrar-se a exequente equiparável a consumidor, porque vítima de evento danoso decorrente das operações atinentes a uma concessionária de transporte público.
+No caso em concreto, colhe-se dos autos que a executada ofereceu à penhora, inicialmente, para garantir um a execução cujo valor estaria próximo a R$ 600.000,00 (seiscentos mil reais), um imóvel avaliado em R$ 1.500,000,00 (um milhão e quinhentos mil reais).
+A seguir substituiu tal bem por dois veículos tipo "micro ônibus" que afirmou alcançarem valor suficiente, mas que pela Tabela Fipe valeriam cerca de R$ 150.000,00 (cento e cinquenta mil reais).
+Rejeitada a nomeação de tais bens à penhora, em respeito à ordem preferencial seguiu-se que, por duas vezes, requereu a exequente a penhora de numerário via BACENJUD, que foi deferida, alcançando-se bloqueios de valores próximos a R$ 8.000,00 (oito mil reais) e R$ 18.000,00 (dezoito mil reais), verdadeiramente ínfimos em relação à dívida.
+Depreende-se, das provas trasladadas, que as ofertas de bens à penhora não cumprem a ordem de preferência nem se mostraram, a início, suficientes para satisfação do débito, alem de se mostrarem de difícil alienação. Vê-se mais que, mesmo as tentativas de bloqueios on line não resultaram satisfativas, apesar de não se poder conceber que não exista significativa movimentação de valores em uma empresa concessionária de serviços de transporte público, com grande frota e, por conseguinte, largo recolhimento dos valores das passagens e movimentação financeira diária.
+Verifica-se, portanto, a conduta perpetrada pela executada, utilizando-se da autonomia do ente coletivo e da sua administração financeira para praticar abuso de direito e de poder, buscando sempre furtar-se ao cumprimento das determinações judiciais. Forçoso o reconhecimento do uso abusivo do ente coletivo como escudo a evitar a solvência da obrigação decorrente de sentença som execução.
+Diante deste contexto, inelutável reconhecer que o acórdão impugnado está desalinhado da jurisprudência desta Corte Superior, impondo-se sua reforma, a teor da Súmula 568 do STJ, já que insuficiente o motivo suscitado para aplicar a teoria da desconsideração da personalidade jurídica.
+3. Do exposto, com fulcro no art. 932 do NCPC e na Súmula 568 do STJ, conhece-se do agravo (art. 1.042 do CPC/15) para dar provimento ao recurso especial, afastando-se a desconsideração da personalidade jurídica, conforme fundamentação ora exarada, resguardada a possibilidade de aplicação em momento futuro, caso preenchidos os requisitos necessários.
+Publique-se.
+Intimem-se.
