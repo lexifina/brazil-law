@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por [NOME], com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado (fl. 246, e-STJ):
+EMENTA: AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO CONSTITUCIONAL. INOCORRÊNCIA. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE PROVENTOS DE APOSENTADORIA. OFICIAL MÉDICO MILITAR COM REMUNERAÇÃO DE CARGO PÚBLICO CIVIL DE MÉDICO. IMPOSSIBILIDADE. ARTS. 42, § 1o, E 142, § 3o, II, DA CARTA MAGNA. I - De acordo com o entendimento do Supremo Tribunal Federal e deste Sodalício, a previsão constitucional de acumulação de cargos, contida no artigo 37, XVI, destina-se aos servidores públicos civis. II - É assegurado o direito à acumulação dos cargos no âmbito civil e militar, em razão da garantia prevista no § 1o do art. 17 do ADCT, apenas aos servidores militares que, à época da promulgação da Constituição de 1988, já acumulavam outro cargo de médico na esfera civil, tendo em vista que, em se tratando de regra de natureza transitória, cuja função é regular situações que se encontravam consolidadas, não pode a mesma ser transformada em norma de natureza permanente e alcançar situações que somente se tornariam estáveis após a promulgação da Carta Magna. III - Não sendo aplicável ao autor a exceção prevista no art. 17, § 1o do ADCT, impossível é a aplicação da autorização prevista no art. 9o da EC nº 41/2003, face o caráter específico e restritivo do artigo 42, § 1o, combinado com o artigo 142, § 3o, II, da Carta Magna, que estabelece que o militar da ativa que tomar posse, em cargo ou emprego civil permanente será transferido para a reserva. IV - Não tendo sido demonstrada a existência de qualquer violação a literal disposição de lei ou à Constituição Federal, o desprovimento da ação rescisória é medida que se impõe. AÇÃO RESCISÓRIA CONHECIDA E DESPROVIDA.
+O recorrente, em suas razões recursais, alega em síntese:
+(..)
+Ocorre, eméritos julgadores, que o v. acórdão combatido além de infringir/negar vigência a dispositivo dc Lei federal, principalmente, diverge da jurisprudência pacífica/dominante deste Colendo Superior Tribunal de Justiça, que sobre a espécie, entende pela possibilidade de acumulação de cargos públicos privativos de médico militar e civil, desde que o servidor público não desempenhe as funções tipicamente exigidas para a atividade castrense.
+Circunstância esta, que identifica-se/se assemelha perfeitamente ao caso posto em causa, pois o Recorrente, apesar dc ter passado a cumular os dois cargos privativos de profissionais da saúde posterior a data da promulgação da Constituição Federal de 1988, especificamente, em 1990; se enquadra na exceção prevista no art. 17, §1º do ADCT, devido ao seu restabelecimento por meio do art. 9o da EC nº 41/2003, e, também, têm seu direito devidamente assegurado através da Emenda Constitucional nº 77/2014, que alterou a redação a redação do inciso II, §3º, do art. 142 da CF/88, permitindo, expressamente, a acumulacão por militares, de dois cargos públicos privativos de profissional da saúde." (fl. 295, e-STJ).
+(..)
+Não foram apresentadas as Contrarrazões, fls. 315, e-STJ.
+O Recurso Especial não foi admitido pelo Tribunal de origem (fl. 324, e-STJ).
+Para melhor exame da controvérsia, determinei a conversão do Agravo em Recurso Especial (fl. 352, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.9.2018.
+A irresignação não merece prosperar.
+Primeiramente, verifica-se que o recorrente desenvolve a sua tese sem, no entanto, indicar, de forma clara e precisa, o dispositivo legal tido por violado, tampouco o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. (..) CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1630011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017, grifei).
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1652761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Ademais, no tocante à alínea "c", a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 1.029, §1º, do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA Nº 284/STF.
+(..) 2. A jurisprudência desta Corte orienta-se no sentido de que, para ser apreciado o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal, cabe ao recorrente indicar o dispositivo de lei federal violado, pois o dissídio jurisprudencial baseia-se na interpretação divergente da norma federal. Aplica-se, por analogia, o disposto na Súmula nº 284 do Excelso Pretório diante da deficiência na fundamentação do recurso, na espécie, caraterizada pela ausência de indicação da norma federal tida por violada.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.099.762/RJ, Rel. Min. VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS),TERCEIRA TURMA, DJe 25/05/2009).
+Ademais, conforme jurisprudência do STJ, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017).
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
