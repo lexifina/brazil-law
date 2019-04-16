@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por OFICINA DE MODA INFANTIL LTDA. e CLAUDIA JAQUELINE MARQUES BELO contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 1.052/1.054).
+O acórdão recorrido está assim ementado (e-STJ fl. 940):
+AGRAVOS REGIMENTAIS NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE LOCAÇÃO DE ESPAÇO DE USO COMERCIAL. DESCUMPRIMENTO DAS OBRIGAÇÕES CONTRATUAIS. INADIMPLEMENTO COMJPROVADO. FIADORES. RESPONSABILIDADE SOLIDÁRIA COM OS DEVEDORES ATÉ A ENTREGA DAS CHAVES OU DEVOLUÇÃO DO IMÓVEL LOCADO. FUNDO DE PROMOÇÃO. LAUDO PERICIAL. ALEGAÇÃO DE OMISSÕES NA DECISÃO EMBARGADA. VÍCIOS ELENCADOS NO ART. 535 DO CPC. IN OCORRÊNCIA. AUSÊNCIA DE FATOS NOVOS A EMBASAR AS PRETENSÕES DE RECONSIDERAÇÃO DA DECISÃO AGRAVADA REGIMENTALMENTE. AGRAVOS REGIMENTAIS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 965/974).
+No especial (e-STJ fls. 978/992), fundamentado no art. 105, III, "a", da CF, as recorrentes alegaram afronta ao art. 535, II, do CPC/1973, por negativa de prestação jurisdicional.
+Indicaram ofensa ao art. 333 do CPC/1973, sustentando a inversão indevida do ônus da prova em virtude de o Tribunal de origem ter exigido a propositura de ação própria pelas recorrentes para a impugnação dos valores lançados pelo recorrido . Acrescentaram que, "o ônus de provar a demonstração da origem, apuração e rateio dos valores cobrados a título de FUNDO DE PROMOÇÃO seria do RECORRIDO/AUTOR e, de conseqüência, admitir a IMPUGNAÇÃO das recorrentes nos autos da presente ação de cobrança, cujo RITO ORDINÁRIO admite a ampla defesa das partes requeridas, sem qualquer restrição" (e-STJ fl. 987).
+Apontaram ainda violação do art. 538 do CPC/1973, argumentando que os aclaratórios opostos não teriam caráter protelatório.
+No agravo (e-STJ fls. 1.063/1.076), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 1.096/1.101).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em contrariedade ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Quanto ao art. 333 do CPC/1973, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 898/899 e 936):
+É importante ressaltar que há previsão no contrato do denominado "fundo de promoção", sendo perfeitamente legal a sua incidência no tipo de pacto firmado entre as partes litigantes, e que os valores cobrados deveriam te resido objeto de questionamento em ação própria para este fim, não restando o magistrado adstrito ao laudo pericial, como restou expressamente consignado na decisão atacada, senão vejamos (fls. 777/778):
+Cumpre ressaltar, ainda, que o inconformismo dos requeridos com os valores cobrados e as cláusulas contratuais não lhes autoriza deixar de cumprir as obrigações pactuadas, quais sejam, o pagamento dos aluguéis é demais encargos, mormente quando poderiam tomar as providências judiciais cabíveis para discutir as supostas abusividades contratuais, mas preferiram quedar-se inertes. (Grifei).
+Dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Além do mais, a discussão em torno da correta distribuição dos ônus da prova é inviável em recurso especial, por demandar o reexame do subjacente conjunto fático-probatório, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 282/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA.
+VERIFICAÇÃO. SÚMULA 7/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se houve ou não a correta distribuição do ônus da prova, implicaria novo exame do acervo fático-probatório constante dos autos e de cláusulas contratuais, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 494.320/RN, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Quanto à multa imposta às recorrentes, constata-se que a interposição dos embargos declaratórios, na Corte de origem, decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido recurso para tentar combater decisão que lhe era desfavorável, apontando, inclusive, suposta omissão constante no texto da ementa.
+Além disso, os embargos de declaração foram opostos com o nítido caráter prequestionador, motivo pelo qual deve ser afastada a sanção prevista no art. 538 do CPC/1973, nos termos da Súmula n. 98/STJ.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO PARCIAL ao recurso especial, a fim de afastar a multa do art. 538 do CPC/1973.
+Publique-se e intimem-se.
