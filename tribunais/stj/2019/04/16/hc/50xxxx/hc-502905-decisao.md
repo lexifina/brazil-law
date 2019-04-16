@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. SENTENÇA. HOMICÍDIO QUALIFICADO. DOSIMETRIA. AFASTAMENTO DAS QUALIFICADORAS. INVIABILIDADE NA VIA ESTREITA DO HABEAS CORPUS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de Rondônia, que negou provimento à apelação interposta pelo paciente (fls. 127/141 - Apelação n. 0001494-28.2016.8.22.0008), mantendo a sentença prolatada pelo Juízo de Direito do Tribunal do Júri da comarca de Espigão do Oeste/RO, que o condenou a 14 anos de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado pelo motivo torpe e pelo recurso que dificultou a defesa da vítima.
+Na presente impetração, alega-se constrangimento ilegal consistente no reconhecimento das circunstâncias qualificadoras na condenação pelo crime de homicídio qualificado.
+Sustentam os impetrantes a não ocorrência da qualificadora de motivo torpe, alegando que  ..  o STJ em diversos julgados afasta o ciúme como motivo torpe visto que, a torpeza teria natureza vulgar, medíocre e vil, desviando-se dos padrões de moralidades aceitos pela sociedade (fl. 14).
+Aduzem, ainda, que deve ser afastava a qualificadora do recurso que dificultou a defesa da vítima, uma vez que,  ..  como se trata de circunstância de caráter objetivo, comunicável ao paciente desde que este tenha prévio conhecimento, conforme entendimento sedimentado pelos Tribunais Superiores e majoritariamente difundido pela doutrina, a decisão ora combatida deve ser reformada, afastando definitivamente a qualificadora supramencionada (fl. 19).
+Postulam, então, a concessão liminar da ordem para que  ..  seja cassada a decisão combatida, bem como a decisão de primeiro grau, afastando as qualificadoras do crime de homicídio, ante os argumentos e jurisprudência acima citadas, e afastando desse modo a hediondez do crime, permitindo assim, que seja o paciente colocado em liberdade (fl. 23).
+É o relatório.
+Busca a impetração o afastamento das qualificadoras de motivo fútil e de recurso que dificultou a defesa da vítima, na condenação à 14 anos de reclusão, pelo crime de homicídio qualificado.
+A pretensão mandamental - afastamento de qualificadoras - não merece acolhida, uma vez que o  ..  pretendido afastamento das qualificadoras da motivação fútil e emprego de recurso que dificultou a defesa da vítima é inviável na via estreita do habeas corpus, por demandar aprofundada análise do acervo fático probatório dos autos da ação penal (HC n. 450.592/SP, Ministro Felix Fischer, Quinta Turma, DJe 21/8/2018).
+Ainda,  ..  nos termos da jurisprudência do STJ, mostra-se incabível o pleito de afastamento de qualificadora e de aplicação de privilégio formulado perante a Corte a quo se a decisão dos jurados não é manifestamente contrária à prova dos autos, sob pena de ofensa à soberania dos vereditos, sendo imprópria a via do writ à revisão do entendimento (HC n. 302.557/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/2/2017).
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento, pois não restou demonstrada ilegalidade no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
