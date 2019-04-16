@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que inadmitiu o recurso especial em virtude da ausência de violação do art. 535 do CPC/1973 e da incidência da Súmula n. 7 do STJ (e-STJ fls. 410/412).
+O acórdão recorrido está assim ementado (e-STJ fl. 335):
+Apelação cível - Obrigação de fazer - Obrigação de fornecer cursos de aprimoramento profissional de modo gratuito - Cerceamento de defesa rejeitado - Apelante que concordou com o julgamento antecipado da lide - Ademais, juiz é o destinatário da prova, segundo art. 130 do CPC - Provas documentais suficientes ao deslinde da causa - Mérito - Ausência de norma que obriga o SENAT a disponibilizar os seus cursos gratuitamente e em todos os municípios do País, incluindo a base territorial do sindicato autor - Recurso desprovido (Voto 5060).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 346/351).
+No recurso especial (e-STJ fls. 374/394), fundamentado no art. 105, III, "a", da CF, o agravante apontou ofensa aos arts. 330, 332, 333 e 535 do CPC/1973 e 3º, 7º, e 8º, da Lei n. 8.706/1993. Sustentou, em síntese, (a) falta de prestação jurisdicional, (b) cerceamento de defesa, (c) que a tabela apresentada demonstra que os cursos oferecidos não seriam gratuitos e (d) obrigatoriedade da prestação de cursos gratuitos.
+No agravo (e-STJ fls. 570/584), afirma a presença de todos os requisitos de admissibilidade do especial.
+Sem contraminuta (e-STJ fl. 591).
+É o relatório.
+Decido.
+O recurso especial e o agravo nos próprios autos foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Quanto à afronta ao art. 535 do CPC/1973, o agravante entendeu que o aresto recorrido teria sido omisso ao deixar de analisar a legislação aplicável à parte recorrida (Lei n. 8.706/1993) e a obrigatoriedade de ofertar cursos gratuitos.
+No entanto, o Tribunal de origem assim se manifestou sobre o tema (e-STJ fl. 338):
+Assim, a previsão da lei 8.706/93 que cria a obrigação ao SENAT para o fornecimento de cursos de formação e aperfeiçoamento profissional na área de transporte não corresponde à obrigação, reitero, do SENAT de disponibilizar os seus cursos gratuitamente e em todos os municípios do País, incluindo a base territorial do autor.Bem colocada a observação de que o pedido se restringe à obrigação de fazer decorrente de lei ou contrato, e não se trata a ação de responsabilidade a fim de verificar a gestão dos recursos públicos recebidos ou o desvio de finalidade (fls. 249, 1º parágrafo).
+E além destes fundamentos, que já seriam suficientes para a improcedência do pedido, observou-se os documentos juntados pelas partes, no sentido de que existe uma tabela onde constam cursos gratuitos ministrados nas unidades do SENAT.
+A apelante alega que tal tabela não se aplica em sua unidade, posto nos cursos afixados pelo SENAT na base territorial da apelante,apenas consta "consultar gratuidade", e que a prova oral demonstraria que na prática tal gratuidade não é concedida.
+Tal argumento, todavia, não afasta ou altera o entendimento acima exposado, pois como constou da sentença," a opção pelo fornecimento de gratuitos é fruto da decisão doutrinária discricionária e autônoma do requerido, que se materializa nos seus regulamentos e atos constitutivos." (fls. 521).
+Portanto, não se constata hipótese alguma de cabimento dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado na instância a quo, circunstância que, de plano, torna imprópria a aplicação do art. 535 do CPC/1973 e o conhecimento do recurso especial nessa parte.
+Ademais, conforme se verifica do trecho transcrito, o acórdão recorrido, com base nos elementos de provas, concluiu pelo fornecimento de cursos gratuitos pela recorrida. Dissentir dessa conclusão é inviável no âmbito do recurso especial, haja vista o teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A respeito do alegado cerceamento de defesa, verifica-se que o recurso esbarra, uma vez mais, no óbice da Súmula n. 7/STJ, mormente quando o Tribunal a quo concluiu pela desnecessidade de produção da prova oral (e-STJ fls. 336/337).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
