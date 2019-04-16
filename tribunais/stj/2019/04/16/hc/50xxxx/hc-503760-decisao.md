@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VILMAR LOPES DE OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PARANÁ que indeferiu o pedido liminar no writ de origem.
+O paciente foi preso em flagrante no dia 31/3/2019 pela prática do crime tipificado no art. 334 do Código Penal, quando transportava diversos aparelhos receptores de satélite para televisão, popularmente conhecidos como "Skygato", de procedência estrangeira, avaliados em R$ 240.000,00, desacompanhados da documentação comprobatória da regular importação.
+Homologado o flagrante, foi arbitrada fiança no valor de R$100.000,00 pelo Delegado da Polícia Federal.
+A Defesa impetrou habeas corpus perante a Corte de origem, tendo o Relator deferido em parte o pedido liminar para reduzir o valor da fiança para R$ 30.000,00.
+O pedido de reconsideração foi indeferido.
+No presente writ, a impetrante aduz que, ainda com a redução do montante, o paciente não consegue arcar com a fiança arbitrada, encontrando-se o acusado preso há mais de 10 dias, em situação de ilegalidade.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+Colaciono, por oportuno, as decisões do Tribunal de origem, assim fundamentadas:
+Decisão de deferimento em parte da liminar (fls. 46/48 - com destaques):
+Como visto, ao paciente já foi concedida a liberdade provisória mediante fiança, pelo que, a controvérsia cinge-se a saber se o valor estabelecido constitui constrangimento ilegal.
+A defesa sustenta que o valor arbitrado a título de fiança é extremamente elevado e impede a obtenção da liberdade. Afirma, ademais, que o paciente é um mero "laranja", e não o dono das mercadorias descaminhadas, não se justificando o arbitramento da contracautela em patamar tão elevado.
+A fim de comprovar a alegação de hipossuficiência, foram anexados aos autos os seguintes documentos (evento 1): a) declaração de pobreza, frmada pelo paciente; b) cópia da CTPS, na qual consta o registro de diversos vínculos empregatícios do paciente, sendo o último encerrado em 18-04-2017; c) certidões de antecedentes criminais da Justiça Federal da 4ª Região, na qual consta um processo do ano de 2004 (2004.70.02.001625-2), com extinção da punibilidade, e um procedimento investigatório do MP do ano de 2012 (5005376-29.2012.4.04.7010), com situação baixado; d) cópias das certidões de nascimento dos filhos do paciente, sendo dois deles menores de idade; e) cópia da certidão de casamento do paciente, na qual consta como cônjuge [NOME] TABORDA, e f) cópias de fotos, as quais suntenta a impetrante serem da casa do paciente.
+Pois bem.
+Esta Corte, no que diz respeito à fixação do valor da contracautela, tem entendido que esta deve ser estabelecida de modo que não constitua óbice indevido à liberdade do réu, nem caracterize quantia ínfima, meramente simbólica, tornando assim inócua sua função de garantia processual.
+Desse modo, o valor estabelecido deve guardar relação com a potencialidade lesiva da empreitada criminosa e com a situação econômica do flagrado. De outro lado, é certo que características especiais da empreitada criminosa (tais como o uso de batedores, rádio-comunicadores, utilização de veículo roubado com adulteração de placas, etc.) e eventuais antecedentes do flagrado, justificam o montante mais elevado que o usual.
+No caso, segundo se extrai do auto de prisão em flagrante, o paciente teria sido contratado para efetuar o transporte de mercadorias descaminhadas (receptores de TV via satélite popularmente conhecidos como "Skygato") do Paraguai até São Paulo - SP, mediante o pagamento de um valor entre R$ 3.000,00 (três mil reais) e R$ 4.000,00 (quatro mil reais). No momento da abordagem policial se fazia acompanhar por [NOME] SANSIGOLO e não ofereceu resistência à prisão.
+Também se verifica que o paciente já foi condenado por crime da mesma espécie perante a Justiça Federal da 4ª Região (nº 2004.70.02.001625- 2, extinto em razão do cumprimento da suspensão condicional do processo), bem como teve outro processo do ano de 2012 (5005376-29.2012.4.04.7010), arquivado em face do princípio da insignificância.
+Em que pesem os documentos anexados autos autos, tenho que não restou demonstrada situação de hipossuficiência econômica a amparar o pedido de isenção do valor da fiança, estando o contexto fático a indicar possível existência de organização criminosa a amparar a conduta delitiva, ensejando maior reprovabilidade desta.
+Possível, no entanto, o deferimento do pedido de redução do seu montante, o qual, sopesadas as condições pessoais do paciente (residência fixa e família constituída) e o valor das mercadorias apreendidas (R$ 240.000,00), bem como o fato de o delito não ter sido praticado mediante violência ou grave ameaça, reduzo para R$ 30.000,00 (trinta mil reais).
+Diante do exposto, defiro em parte o pedido liminar, a fim de reduzir o valor da fiança para R$ 30.000,00 (trinta mil reais).
+Decisão de indeferimento do pedido de reconsideração (fl. 58 - com destaques):
+Trata-se de pedido de reconsideração formulado pela impetrante em face da decisão liminar, que deferiu em parte o pedido de redução do valor da fiança, estabelecendo-a em R$ 30.000,00 (trinta mil reais).
+Afirma, em síntese, que o paciente, não obstante a significativa redução do valor da contracautela, ainda não possui condições econômicas de efetuar o recolhimento de tal montante, razão pela qual postula nova adequação do valor arbitrado, de modo a possibilitar o acompanhamento do processo em liberdade.
+Sustenta que o imóvel no qual reside lhe foi cedido em comodato por sua genitora, de modo que sequer pode utilizá-lo como caução.
+Requer a reapreciação da decisão proferida ab initio, com a consequente redução do valor da fiança.
+É o breve relato. Decido.
+O pleito não merece acolhimento.
+Com efeito, ao reduzir o valor da contracautela fixada em primeiro grau de jurisdição já foram consideradas as condições pessoais e econômicas do paciente em cotejo com o dano patrimonial causado ao erário e à ordem pública, não tendo a impetrante agregado novo fundamento que implique a revisão do entendimento esposado.
+Nesse contexto, indefiro o pedido de reconsideração.
+Como se vê da transcrição acima, foi concedida ao paciente liberdade provisória sob o recolhimento de fiança no valor de R$ 100.000,00, que foi posteriormente reduzida para o montante de R$ 30.000,00, registrando o Tribunal a quo que foram consideradas as condições pessoais e econômicas do paciente em cotejo com o dano patrimonial causado ao erário e à ordem pública.
+Vale destacar, conforme informado na decisão, que o acusado já foi condenado por crime da mesma espécie perante a Justiça Federal da 4ª Região (nº 2004.70.02.001625- 2, extinto em razão do cumprimento da suspensão condicional do processo), bem como teve outro processo do ano de 2012 (5005376-29.2012.4.04.7010), arquivado em face do princípio da insignificância.
+No caso, não se vislumbra neste momento inicial a alegada impossibilidade de dar efetividade à determinação de recolhimento da fiança, uma vez que o paciente foi preso em flagrante em 31/3/2019, período curto para a presunção de impossibilidade de pagamento da fiança. A propósito do tema, confiram-se os seguintes precedentes: HC 349233/SP, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 01/09/2016; HC 385337/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 11/05/2017; HC 370812/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 16/03/2017.
+Deste modo, não verifico ilegalidade flagrante a justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
