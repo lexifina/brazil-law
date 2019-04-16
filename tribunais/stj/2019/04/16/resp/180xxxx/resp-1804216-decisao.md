@@ -1,0 +1,21 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RESTABELECIMENTO DE ALÍQUOTA DE PIS E COFINS SOBRE RECEITA FINANCEIRA MEDIANTE DECRETO DO PODER EXECUTIVO. QUESTÃO CONSTITUCIONAL PREJUDICIAL. REPERCUSSÃO GERAL RECONHECIDA. TEMA 939. RETORNO DOS AUTOS À ORIGEM PARA OS FINS DOS ARTS. 1.040 E SEGUINTES DO CPC/2015 E SOBRESTAMENTO.
+DECISÃO
+Cuida-se de recurso especial manejado por MÓVEIS ROMERA LTDA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que, por unanimidade, negou provimento ao apelo, resumido da seguinte forma:
+TRIBUTÁRIO. PIS E COFINS. MAJORAÇÃO DE ALÍQUOTA. RECEITAS FINANCEIRAS. DECRETO 8.426/2015. PRINCÍPIO DA LEGALIDADE E NÃO CUMULATIVIDADE. FERIMENTO. INEXISTÊNCIA.
+1. As receitas financeiras tornaram a ficar sujeitas às alíquotas de PIS/COFINS, por força do art. 1º do Decreto nº 8.426/15, porém com percentuais diferenciados - e reduzidos - em relação às demais receitas auferidas pela pessoa jurídica.
+2. O princípio da legalidade - e respectiva tipicidade, que exige uma definição taxativa e completa dos elementos essenciais da obrigação tributária - foi atendido na medida em que as contribuições tinham as suas alíquotas e respectivas bases de cálculos definidas em lei ( Leis 10.637/02 e 10.833/03).
+3. Os créditos de PIS/COFINS que podem ser deduzidos dos débitos são presumidos e, como tal, dependem de lei específica, frente ao disposto no art. 150,§ 6º, da CF, inexistente na espécie.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões recursais a recorrente pretende, preliminarmente, o sobrestamento do feito para aguardar o julgamento do RE 1.043.313, com repercussão geral reconhecida, tema 939 sobre a possibilidade de as alíquotas da contribuição ao PIS e da COFINS serem reduzidas e restabelecidas por regulamento infralegal, nos termos do art. 27, § 2º, da Lei n. 10.865/2004. No mérito alega divergência interpretativa e ofensa aos arts. 9º, I, e 97 do CTN, o qual invalidaria o § 2º do art. 27 da Lei nº 10.865/2004 e o art. 1º do Decreto nº 8.426/2015, eis que não seria possível restabelecer alíquota do PIS/PASEP e COFINS por ato do Poder Executivo, mas apenas por lei, sob pena, também, de afronta aos arts. 150, I e 146, III, da Constituição Federal e ao princípio da não cumulatividade no que tange à restrição de dedução de créditos.
+Requer o conhecimento e o provimento do recurso especial.
+Contrarrazões às fls. 437-442 e-STJ.
+Recurso extraordinário interposto e sobrestado na origem.
+Admitido o recurso especial na origem subiram os autos a esta Corte e vieram-me conclusos.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A questão objeto do presente feito e do recurso extraordinário interposto na origem (Tema 939 - possibilidade de as alíquotas da contribuição ao PIS e à COFINS serem reduzidas e restabelecidas por regulamento infralegal, nos termos do art. 27, § 2º, da Lei n. 10.865/2004) teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, no RE n. 1.043.313/RS, Relator o em. Ministro Dias Toffoli.
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte, na forma dos arts. 1.040 e seguintes do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos à origem, com a respectiva baixa na distribuição, para os fins dos arts. 1.040 do CPC/2015, bem como para o sobrestamento do presente recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF.
+Publique-se. Intimem-se.
