@@ -1,0 +1,14 @@
+EMENTA
+HABEAS CORPUS. ART. 273, § 1º-B, I, DO CÓDIGO PENAL. SENTENÇA CONDENATÓRIA. PRISÃO CAUTELAR MANTIDA EM SEGUNDA INSTÂNCIA. EMBARGOS INFRINGENTES E DE NULIDADE JULGADOS PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO DA SITUAÇÃO FÁTICA. PERDA DO OBJETO.
+Habeas corpus prejudicado.
+DECISÃO
+Este habeas corpus impetrado em favor de [NOME] e [NOME], que buscava a revogação da prisão cautelar até o julgamento dos embargos infringentes opostos pela defesa, não obstante o parecer do Ministério Público Federal (fls. 113/121), perdeu o objeto.
+Em consulta à página do Tribunal Regional Federal da 3a Região, na internet, constatei que, em 21/3/2019, a Quarta Seção, por maioria, negou provimento aos Embargos Infringentes opostos ao acórdão da Apelação Criminal n. 0003056-07.2014.4.03.6119. Esta, a ementa do acórdão:
+PENAL E PROCESSO PENAL. EMBARGOS INFRINGENTES E DE NULIDADE. ART. 273, § 1º-B, DO CÓDIGO PENAL. DOSIMETRIA DA PENA. PRECEITO SECUNDÁRIO DO ART. 33 DA LEI Nº 11.343/2006. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. CAUSA DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI Nº 11.343/2006. ACUSADOS QUE SE DEDICAM A ATIVIDADE CRIMINOSA.
+1. As divergências estabelecidas no acórdão embargado referem-se à exasperação da pena-base, considerando-se a valoração negativa das circunstâncias e consequências do delito, em razão da grande quantidade de ampolas de toxina botulínica apreendidas, e à aplicação ou não da causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas.
+2. A grande quantidade de produtos terapêuticos apreendidos (cerca de 500 ampolas de toxina botulínica) autoriza o incremento da pena-base no patamar feito na sentença para o crime do art. 273, § 1º-B, I, III e IV, do Código Penal. Isso porque a conduta dos embargantes merece maior reprovabilidade, considerando-se que o valor, a quantidade e a qualidade dos produtos apreendidos refogem à normalidade para o tipo penal em exame.
+3. A causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/2006 não se aplica ao caso em exame, pois as circunstâncias indicam que os acusados dedicavam-se à atividade criminosa, tendo sido surpreendidos, mais de uma vez no Aeroporto Internacional de Guarulhos, transportando toxina botulínica sem registro na Anvisa. Esse fato, por si só, impede a aplicação da minorante, ainda que a pena definitiva represente a fixação de reprimenda muito alta, semelhante àquelas fixadas para grandes traficantes de drogas, e ainda que os acusados exerçam atividade lícita.
+4. Embargos infringentes não providos.
+Assim, esgotada a instância ordinária, como no caso destes autos, em que houve o julgamento dos embargos infringentes e de nulidade, a eventual interposição de recursos especial ou extraordinário não impede a execução provisória da pena, uma vez que esses recursos não possuem efeito suspensivo.
+Ante o exposto, à vista da nova realidade fática, julgo prejudicado o habeas corpus
+Publique-se.
