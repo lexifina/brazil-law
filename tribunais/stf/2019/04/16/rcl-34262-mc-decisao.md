@@ -1,0 +1,21 @@
+RECLAMAÇÃO. PENAL E PROCESSO PENAL. ALEGADA VULNERAÇÃO AO ENUNCIADO Nº 14 DA SÚMULA VINCULANTE. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de reclamação, com pedido de liminar, proposta contra ato do juízo da Vara Criminal da Comarca de Brasileia, sob o fundamento de afronta à Súmula Vinculante nº 14 do STF.
+    Narra a petição inicial que o “Juízo indeferiu o pedido da defesa de acesso ao inquérito policial, sob o argumento de que há investigações em andamento”, ressaltando que a autoridade reclamada afirmou que “ainda que se trate de inquérito policial, a defesa não merece acesso aos autos, já que as investigações ainda estão em andamento”.
+    Sustenta que “o e. Juiz claramente confunde acesso aos autos do inquérito policial, com medidas de investigação cautelares, que sem o sigilo teriam suas diligências frustradas”.
+    Aduz que “a sentença proferida pelo e. Juiz de Direito cometeu flagrante desrespeito ao entendimento do Supremo Tribunal Federal, consolidado no enunciado de súmula vinculante n. 14”.
+    Requer, em sede liminar, a “suspensão do inquérito policial n. 13/2019/DPF/EPA/AC”. No mérito, requer seja julgada procedente a presente reclamação “para cassar a decisão interlocutória proferida no inquérito policial n. 13/2019/DPF/EPA/AC, que recebeu no sistema do ESAJ o n. 0000281-79.2019.8.01.0003, pois desrespeitou enunciado de súmula vinculante n. 14 do Supremo Tribunal Federal”.
+    É o relatório.
+    DECIDO.
+    Não vislumbro, da análise perfunctória dos autos, os requisitos ensejadores para o deferimento da liminar.
+    Com efeito, a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal. A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a evitar o uso promíscuo do referido instrumento processual. Disso resulta: i) a impossibilidade de se proceder a um elastério hermenêutico da competência desta Corte, por estar definida pela Constituição Federal em rol numerus clausus; ii) a impossibilidade de utilização per saltum da reclamação, suprimindo graus de jurisdição ou outros instrumentos processuais adequados; iii) a observância da estrita aderência da controvérsia contida no ato reclamado ao conteúdo do ato apontado como paradigma; iv) a inexistência de trânsito em julgado do ato jurisdicional reclamado; v) o não revolvimento da moldura fática delineada nos autos em que proferida a decisão objurgada, devendo a reclamação se ater à prova documental (art. 988, § 2º, do CPC), sob pena de se instaurar nova instrução processual, paralela à da demanda de origem. Nesse sentido: Rcl 28.147, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/04/2018.
+    In casu, da leitura do ato reclamado (documento indexado eletronicamente sob o item 7), exsurge que o pedido da defesa não foi atendido em razão da existência de diligências em andamento, em consonância, aparentemente, com a jurisprudência desta Corte. Nesse sentido, in verbis:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA OFENSA À SÚMULA VINCULANTE 14. DILIGÊNCIA AINDA EM ANDAMENTO. CONTRADIÇÃO ENTRE ATO RECLAMADO E AS INFORMAÇÕES PRESTADAS. IRRELEVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Diligências ainda em andamento não estão contempladas pelo teor da súmula vinculante 14. 2. A contradição suscitada pelo agravante entre o ato reclamado e as informações prestadas não é relevante, pois ainda subsiste o argumento de que as diligências encontram-se em andamento. 3. Agravo regimental a que se nega provimento.” (Rcl 22.062-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 20/05/2016.
+    Desta sorte, não se vislumbra, primo oculi, o fumus boni iuris necessário ao deferimento da medida cautelar.
+    Ex positis , INDEFIRO o pedido de liminar.
+    Requisitem-se informações pormenorizadas à autoridade reclamada, nos termos do artigo 989, I, do Código de Processo Civil.
+    Em seguida, dê-se vista dos autos ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 16 de abril de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
