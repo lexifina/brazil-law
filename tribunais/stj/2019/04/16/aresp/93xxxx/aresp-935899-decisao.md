@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo objetivando admissão de recurso especial interposto contra acórdão do TRF da 1ª Região cuja controvérsia diz respeito à ampliação do Seguro de Acidente de Trabalho - SAT através da instituição do Fator Acidentário de Prevenção - FAP.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Após o reconhecimento da repercussão geral, o STF, no RE 684.261/PR, afetou à sistemática dos recursos repetitivos a controvérsia a respeito da "fixação de alíquota da contribuição ao SAT a partir de parâmetros estabelecidos por regulamentação do Conselho Nacional de Previdência Social" (Tema 554).
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem, para que se aguarde o julgamento dos extraordinários com repercussão geral admitida e seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
