@@ -1,0 +1,11 @@
+DECISÃO
+ Trata-se de agravo em recurso especial manejado por SHV Gás Brasil LTDA., desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 1ª Região, que negou seguimento ao recurso especial, sob os seguintes fundamentos: (I) o acórdão recorrido não foi omisso; (II) a tese suscitada no apelo especial acerca da prescrição trienal demandaria novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ; (III) acerca do argumento de que a parte autora não poderia ser penalizada por dispositivo revogado, falta do necessário prequestionamento, incidindo o óbice das Súmulas 211/STJ e 282/STF; (IV) incidência da Súmula 83/STJ, pois o acórdão recorrido está em consonância com o entendimento do STJ (REsp 1102578/MG).
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência das Súmulas 7 e 211/STJ e 282/STF.
+Ressalta-se que, apesar de fazer menção ao verbete sumular nº 7/STJ (discorrendo, genericamente, que para o STJ analisar a violação em apreço não requer reexame do acerco fático, mas apenas a leitura do acórdão que julgou o recurso de apelação e a impugnação aos embargos de declaração da ANP), a parte agravante não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto.
+Do mesmo modo em relação ao óbice da falta de prequestionamento, que a agravante quedou inerte em apontar em qual ponto do acórdão houve exame da tese de que a parte autora não poderia ser penalizada por dispositivo revogado.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, não conheço do agravo.
+Publique-se.
