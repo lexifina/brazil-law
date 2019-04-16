@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 953/957).
+O acórdão recorrido está assim ementado (e-STJ fl. 861):
+PROCESSUAL CIVIL. AÇÃO DE DESPEJO POR 11%1FRAÇÃO CONTRATUAL. SENTENÇA DE PROCEDÊNCIA EM AFRONTA AO PRINCÍPIO DA CORRELAÇÃO OU ADSTRIÇÃO. RECURSO DA AUTORA PRECEDENTE AOS EMBARGOS DE DECLARAÇAO E NÃO RATIFICADO. NÃO CONHECIMENTO. PROVIMENTO AO RECURSO DOS RÉUS - ART. 557, § DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO. PROVIMENTO PARA NÃO SE CONHECER DAS APELAÇÕES, DECLARANDO-SE A INEXISTÊNCIA DE PACTO LOCATIVO, O QUE IMPÕE O DESPEJO DO SUPOSTO LOCATÁRIO, NA FORMA DO PEDIDO INICLAL, TORNANDO-SE DEF7NTTIVA A EXECUÇÃO PROVISÓRIA.
+I - De acordo com o entendimento firmado pelo colendo Superior Tribunal de Justiça, "(.). "É extemporânea a apelação protocolada antes do julgamento dos embargos de declaração interpostos contra a sentença se não houver posterior ratificação no prazo de 15 (quinze) dias", sendo "(.) necessária a ratificação da apelação (.), ainda que estes tenham sido opostos pela parte contrária" e "(.). O fato de os embargos de declaração terem sido rejeitados não afasta a necessidade de ratificação. (.)";
+II-Não conhecimento da apelação ante a intempestividade;
+IIl - Contudo, estamos diante de contrato de locação inexistente, no qual foram as locadoras/agravantes ilaqueadas, porquanto do exame pericial grafotécnico resultou a conclusão de que "a assinatura grafada no documento questionado é FALSA  não tendo sido emitida pelo punho do Apelado, face às acentuadas divergências devidamente expostas acima (.)";
+IV - Não havendo contrato, a hipótese seria de extinção do processo por ilegitimidade passiva. Contudo, não se pode premiar o falsário, o que traduziria sua permanência no imóvel, exigindo-se, por princípios éticos, morais e legais, seu despejo e o retorno do imóvel ao status quo ante;
+V - Provimento ao agravo interno para não se conhecer de ambos os recursos e, reconhecida, de oficio, a ilegitimidade passiva e inexistência do pacto locaticio, acolher-se a pretensão de desalijo, declarando-se definitiva a execução provisória.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 888/893).
+No especial (e-STJ fls. 898/925), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 165, 458 e 535 do CPC/1973 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 128 e 460 do CPC/1973, por julgamento extra petita.
+Indicou contrariedade aos arts. 112 e 421 do CC/2002 e 47 da Lei n. 8.245/1991, sustentando, em síntese, a validade do contrato de locação celebrado entre as partes.
+Alegou ainda negativa do art. 182 do CC/2002, afirmando que eventual manutenção da nulidade do contrato implica na devolução do que teria sido pago pelo recorrente.
+No agravo (e-STJ fls. 959/989), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 992/1.009).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em desrespeito aos arts. 165, 458 e 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação dos referidos dispositivos.
+Por outro lado, a tese de julgamento extra petita não foi suscitada pela parte quando da interposição dos recursos nas instâncias de origem, razão pela qual a Corte local não estava obrigada a se manifestar sobre o tema. Com efeito, o argumento não foi analisado na segunda instância, mesmo após a oposição dos embargos de declaração. Incidente, portanto, a Súmula n. 211/STJ, por falta de prequestionamento.
+Quanto aos arts. 112 e 421 do CC/2002 e 47 da Lei n. 8.245/1991, extraem-se as seguintes razões de decidir do acórdão recorrido (e-STJ fls. 864/865):
+A ação pretendeu a rescisão do pacto sob o argumento de que o Réu estaria infringindo as normas do contrato de locação e não estaria pagando as contas de água do imóvel, postulando a decretação do despejo por infração contratual, além de se determinar fosse refeito o jirau e recolocado o hidrômetro do imóvel.
+Infração contratual não se pode afirmar existir. O que não existe é contrato, porquanto a assinatura nele aposta é falsa, tendo a pessoa que o firmou, ilaqueado a boa-fé das locadoras.
+(..)
+A hipótese seria de extinção do processo, de oficio, por ilegitimidade de parte (afinal, o locatário é falso), porém, assim se comportando, o Judiciário estaria premiando o suposto locatário que agiu com indiscutível má-fé. Na verdade, o contrato, legalmente, não existe.
+(..)
+Extinguiríamos o processo e lá permaneceria aquele que, segundo apurou o laudo, falsificou a assinatura no contrato, contrariando os princípios éticos, morais e jurídicos. Não se pode premiar o falso locatário, com a permanência no imóvel.
+Nesses termos, acolhe-se o agravo interno para, modificada a decisão monocrática relatorial, não se conhecer de ambos os recursos, declarando-se, de oficio, a nulidade do contrato de locação, decretando-se, consequentemente, o despejo, tornando-se definitiva a execução provisória, condenado o Réu ao pagamento das custas e honorários de 10% (dez por cento) sobre o valor da causa.
+Dissentir das conclusões do acórdão impugnado implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+No que se refere ao art. 182 do CC/2002, a matéria foi decidida no seguinte sentido (e-STJ fl. 892):
+Sobre a devolução dos valores pagos a título de locação, além de não ser matéria apreciável via embargos de declaração, houve a ocupação do imóvel por alguém e no que concerne à conversão em diligência, perdeu o Embargante a oportunidade de formular o pedido em primeiro grau, sendo incabível nos angustos limites dos embargos de declaração conversão em diligência, a não ser em hipóteses muito especiais.
+Na realidade o que se pretende dizer nos embargos de declaração é que a Câmara errou. Acontece que, relembra o eminente Ministro CASTRO FILHO, os embargos de declaração são recurso de índole particular, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão, não se prestando, portanto, em regra, a corrigir uma decisão que a parte supõe errada - EDAGA 425195 / RS, Terceira Turma, DJ de 02.08.2004, p. 361.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 514, II, do CPC/1973), a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, não foi rebatida a tese de que o recorrente perdeu a oportunidade de formular o pedido em primeiro grau, sendo incabível, nos limites dos embargos de declaração, a conversão em diligência.
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF. Nesse sentido, o seguinte precedente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO. RAZÕES RECURSAIS DISSOCIADAS DO QUE RESTOU DECIDIDO NA DECISÃO AGRAVADA. SÚMULAS 283 E 284/STF. AGRAVO IMPROVIDO.
+1.- Apresentados dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2.- Estando as razões do Agravo Interno dissociadas do que restou decidido na Decisão agravada, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+3.- Segundo Agravo Regimental não conhecido e improvido o primeiro.
+(AgRg no REsp n. 1441807/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/4/2014, DJe 2/5/2014.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
