@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pelo ESTADO DO RIO DE JANEIRO contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ fl. 292):
+APELAÇÃO CÍVEL E CAUTELAR INOMINADA. JULGAMENTO CONJUNTO. AÇÃO ANULATÓRIA. MULTA AMBIENTAL. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA DO ESTADO DO RIO DE JANEIRO. APLICAÇÃO DO ART. 38, PARÁGRAFO ÚNICO DA LEF. RENÚNCIA DO PROCESSO ADMINISTRATIVO QUE CONSTITUI O TERMO A QUO DA CESSAÇÃO DA CAUSA SUSPENSIVA DA PRESCRIÇÃO. SENTENÇA DE IMPROCEDÊNCIA QUE SE REFORMA PARA JULGAR PROCEDENTE O PLEITO AUTORAL, DESCONSTITUINDO A PENALIDADE APLICADA À PETROBRÁS. RECURSO DA AUTORA A QUE SE DÁ PROVIMENTO. APELO DO ESTADO QUE RESTOU PREJUDICADO.
+Embargos de declaração rejeitados (e-STJ fls. 301/304).
+No especial obstaculizado, a agravante alega afronta aos arts. 165, 458, II e 535, I e II do CPC/1973. Aduz nulidade por negativa de prestação jurisdicional em razão de o acórdão recorrido não se ter pronunciado sobre diversas alegações deduzidas em sua contestação.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ante a inexistência de negativa de prestação jurisdicional e pelo fato de que o acórdão recorrido dirimiu, fundamentadamente, as questões que foram submetidas ao colegiado (e-STJ fls. 351/353).
+Na presente irresignação, o agravante alega que todas as alegações por ela deduzidas foram ignoradas pela Corte Estadual, restando clara a negativa de prestação jurisdicional e a ausência de fundamentação (e-STJ fls. 357/366).
+Contraminuta às e-STJ fls. 370/373.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, impõe-se afastar, desde logo, a indigitada ofensa aos artigos tidos por violados, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa. Sobre a hipótese: AgRg no AREsp 750.650/RJ, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 30/9/2015; AgRg no AREsp 493.652/RJ, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 20/6/2014.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
