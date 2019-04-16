@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+O agravante sustenta ser inaplicável a Súmula n. 284 do STF pois, da petição de embargos declaratórios, é possível verificar a indicação do ponto omisso do acórdão recorrido.
+Insurge-se contra a incidência da Súmula n. 83 do STJ quanto aos juros remuneratórios, sustentando que os precedentes citados não tratariam do mesmo caso dos autos, cuja alegação teria sido fundada na suposta violação do art. 406 do CC/2002 c/c art. 1º do Dec. n. 22.626/1933.
+Por fim, alega a inaplicabilidade da Súmula n. 83 do STJ pois os julgados citados confirmariam a pretensão do agravante, admitindo a capitalização de juros semestral, especialmente porque pactuada em periodicidade mensal.
+Foram apresentadas contrarrazões (e-STJ fls. 2.090/2.096).
+É o relatório.
+Decido.
+Conforme se infere da petição do recurso especial, o agravante não indicou em que consistiria a omissão a caracterizar ofensa ao art. 535 do CPC/1973. Nesse contexto, a remissão à petição dos embargos declaratórios no agravo interno não é suficiente para sanar o vício de deficiência da fundamentação, mantendo-se, portanto, a Súmula n. 284 do STF quanto ao ponto.
+Mantém-se igualmente a Súmula n. 83 do STF quanto aos juros remuneratórios pois o entendimento adotado pela Corte local coincide com a jurisprudência do STJ a respeito da questão. Quanto à alegada afronta ao art. 406 do CC/2002, verifica-se que a sua inaplicabilidade ao caso concreto, por se referir a juros moratórios, matéria diversa da pretensão do banco de afastar a limitação dos juros remuneratórios.
+Quanto à pretensão de capitalização de juros na periodicidade semestral, contudo, o agravo interno merece provimento. Com efeito, infere-se do acórdão recorrido ter havido a pactuação da capitalização de juros na periodicidade mensal (e-STJ fl. 1.690). Assim, cabível a cobrança em periodicidade requerida, maior que a pactuada (semestral), a teor da jurisprudência desta Corte. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO, EMBARGOS À EXECUÇÃO E AÇÃO REVISIONAL (JULGAMENTO SIMULTÂNEO). CÉDULA DE CRÉDITO INDUSTRIAL.
+1. Capitalização mensal de juros. A Segunda Seção reafirmou o entendimento cristalizado na Súmula 93/STJ no sentido de que, nos contratos de crédito industrial, admite-se a pactuação de cláusula que preveja a capitalização mensal dos juros (EREsp 1.134.955/PR, Rel. Ministro Raul Araújo, julgado em 24.10.2012, DJe 29.10.2012).
+Hipótese em que o Tribunal de origem reconheceu a existência de pactuação da capitalização dos juros em prazo inferior ao semestral, o que ensejou a declaração da legalidade da cobrança. Incidência da Súmula 7/STJ.
+2. Inaplicabilidade do Código de Defesa do Consumidor. Sociedade empresária que não ostenta condição de destinatária final (critério finalista), inexistindo, outrossim, elementos nos autos que possibilitem a análise de sua vulnerabilidade in concreto (finalismo aprofundado). Impossibilidade de redução da multa moratória estipulada em 10% (dez por cento) à luz do § 1º do artigo 52 do Código de Defesa do Consumidor. Precedentes.
+3. Pretensão de exclusão de valores supostamente cobrados em duplicidade. Necessária incursão no acervo fático-probatório dos autos para ilidir a exegese expendida nas instâncias ordinárias, que, à luz do laudo pericial contábil, consignaram inexistente a duplicidade alegada. Incidência do óbice da Súmula 7/STJ.
+4. Sucumbência recíproca. O acolhimento da tese de ilegalidade da comissão de permanência não caracterizou o decaimento mínimo da pretensão deduzida pela embargante/executada, mas, sim, explicitou a quase equitativa sucumbência das partes, motivo pelo qual correto o restabelecimento da distribuição proporcional realizada na sentença de primeiro grau.
+5. Agravo interno não provido.
+(AgInt no REsp 1216570/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 19/09/2016)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo interno do BANCO DO BRASIL, para reconsiderar a decisão agravada apenas no que se refere à capitalização de juros, admitindo-se a periodicidade semestral pretendida.
+Publique-se e intimem-se.
