@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 175):
+AGRAVO INTERNO. APELAÇÃO CÍVEL.
+Agravo do art. 557, § 1º do CPC, interposto contra decisão monocrática deste Relator que, confirmou a decisão do Juízo "a quo" e negou seguimento ao recurso, na forma do art. 557 do CPC, por manifestamente improcedente. Recurso improvido.
+Embargos declaratórios rejeitados (e-STJ fls. 185/188).
+No especial, o recorrente apontou violação do art. 535, II, do CPC/1973 e do art. 5º da Lei n. 9.717/1998, sustentando, além da negativa de prestação jurisdicional, a impossibilidade do pagamento do pecúlio post mortem previsto na legislação local, tendo em vista que este benefício não se encontra previsto no rol taxativo instituído por lei federal editada posteriormente ao diploma normativo estadual, o qual se encontraria com sua eficácia suspensa.
+Por fim, alegou que "todos os argumentos expendidos pelo réu, nesta peça de defesa, foram, recentemente, acolhidos pelo Superior Tribunal de Justiça, no julgamento de um Recurso Especial repetitivo (REsp 1.176.507/RJ)" (e-STJ fl. 195).
+Contrarrazões às e-STJ fls. 232/235.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Inicialmente, é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF
+Noutra quadra, ao apreciar o tema em relação à Lei Estadual n. 285/1979, cujas disposições relativas ao pecúlio post mortem, segundo o recorrente, estariam em dissonância com a previsão contida no art. 5º da Lei n. 9.717/1998, já decidiu esta Corte que essa análise seria de competência do Pretório Excelso, pois, nos termos do art. 102, III, "d", da CF/1988, caberia a este julgar as causas decididas, em única ou última instância, quando a decisão recorrida julgar válida lei local, contestada em face de lei federal.
+Nessa esteira:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO ESTADUAL. PECÚLIO POST MORTEM. OFENSA AO ART. 535, II, DO CPC/1973. INOCORRÊNCIA. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL DE ORIGEM COM BASE NAS LEIS ESTADUAIS Nº 285/79 E 5.109/07. SÚMULA Nº 280/STF. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, III, "D", DA CONSTITUIÇÃO FEDERAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE JUNTADA DE CÓPIA DO ACÓRDÃO PARADIGMA E DE INDICAÇÃO DO DISPOSITIVO COM INTERPRETAÇÃO DIVERGENTE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Ademais, a análise da principal tese do agravante - suspensão da Lei Estadual nº 285/79 após a vigência da Lei nº 9.717/98 - não pode ser enfrentada por esta Corte Superior, pois é matéria de competência do Supremo Tribunal Federal, nos termos do art. 102, III, "d", da Constituição Federal. Precedentes.
+ ..
+(AgInt no REsp 1.758.585/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 24/10/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. SOBRINHO. CONTROVÉRSIA RESOLVIDA COM BASE EM LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 280/STF. DISSÍDIO PREJUDICADO.
+1. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de lei local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+2. Ademais, "a desconformidade da legislação local com o disposto na Lei n. 9.717/98 e na Lei n. 8.213/91 converge à existência de conflito entre lei local e lei federal, questão que só pode ser resolvida pelo Supremo Tribunal Federal, pois trata-se, em última análise, de matéria constitucional relacionada ao pacto federativo (art. 102, III, alínea "d", da CF)" (AgRg no REsp 1.366.339/MS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 04/06/2013, DJe 10/06/2013).
+3. Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.263.805/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 26/06/2018).
+No que diz respeito à divergência jurisprudencial alegada, esta se mostra prejudicada, na medida em que a tese sustentada já foi afastada na ocasião do exame do recurso pela alínea "a" do permissivo constitucional.
+Nessa esteira é o entendimento desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANO AMBIENTAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS MOLDES LEGAIS E REGIMENTAIS. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Ademais, na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.146.384/SE, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 12/12/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA QUE VERIFICOU A CONSONÂNCIA DO ACÓRDÃO DO TRIBUNAL A QUO COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O TEMA. ANÁLISE PREJUDICADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO, NA ESPÉCIE. AÇÃO ORIGINÁRIA. MANDADO DE SEGURANÇA.
+ ..
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ ..
+(AgInt no REsp 1.648.828/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 16/11/2017).
+Impende consignar que, diversamente do firmado pela parte recorrente, o REsp 1.176.507/RJ, de relatoria da Min. MARIA THEREZA DE ASSIS MOURA - Sexta Turma -, não foi afetado sob a sistema dos recursos repetitivos, sendo certo que o julgado foi proferido em sede de decisão monocrática, publicada em 19/04/2012.
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
