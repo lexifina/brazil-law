@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da aplicação das Súmulas n. 5, 7 e 83 do STJ e 284 do STF (e-STJ fls. 525/534).
+O acórdão recorrido restou assim ementado (e-STJ fls. 262/264):
+APELAÇões CÍVEis. NEGÓCIOS JURÍDICOS BANCÁRIOS. revisão contratual. CONTRATOs de abertura de crédito em conta corrente - pessoa jurídica.
+aplicabilidade do cdc. Cabível a aplicação do CDC em revisão de contratos bancários para fins de exclusão de eventuais cláusulas abusivas e ilegais, cabendo avaliar caso a caso se efetivamente estão presentes abusividades ou ilegalidade que devam ser expurgadas a luz dessas normas protetivas.
+EXTENSÃO DA REVISÃO. É Cabível a discussão acerca das supostas ilegalidades de cláusulas em relação a toda a cadeia negocial, abarcando-se, inclusive os períodos em que tenha ocorrido novação ou quitação.
+JUROS REMUNERATÓRIOS. Inexistindo imposição legal às instituições financeiras para limitação dos juros remuneratórios em relação a contratos de mútuo em geral, não excepcionados no ponto por legislação específica, os referidos encargos só poderão ser reduzidos para adequação à taxa média de mercado, quando dessa desgarrem os percentuais estipulados, ou limitados a esse patamar quanto não haja a estipulação expressa da taxa de juros no contrato. Precedentes do STJ. Cabível, no caso, a limitação à taxa média de mercado, ante a exorbitância dos juros incidentes na contratação firmada entre as partes.
+CAPITALIZAÇÃO MENSAL DOS JUROS. Tratando-se de contratação posterior à data da publicação da primeira medida provisória que permitiu a pactuação expressa de capitalização mensal (MP 1.963/2000, reeditada na MP de nº 2.170-36/2001 atualmente em vigor), tal encargo deve ser mantido.
+TARIFAS BANCÁRIAS. Somente se admite a incidência da Tarifa de Abertura de Cadastro (TAC) e ou outras denominações para o mesmo fato gerador, em contratos celebrados até 30 de abril de 2008, data em que entrou em vigência a Resolução CMN 3.518/2007.
+IOF. Não há ilegalidade na cobrança do IOF, que, como imposto, é devido (lei nº 8.894 de 21.06.1994 - DOU 22/06/1994), e de acordo com a o julgamento pela Segunda Seção do STJ, no REsp. 1.251.331 de, pode ser pactuado o seu financiamento assessoriamente ao principal, sujeitando-os aos mesmos encargos.
+Mora. A mora só será descaracterizada, em sede de demanda revisional, se demonstrada a cobrança abusiva ou ilegal dos encargos incidentes no período da normalidade. Cabível, no caso, o afastamento da mora, considerando-se o reconhecimento de abusividade na cobrança de juros.
+COMISSÃO DE PERMANÊNCIA. Incidência desse encargo afastada, em razão da descaracterização da mora, ressalvada a possibilidade de incidência após aferição, mediante aplicação da revisão ora imposta, de saldo devedor remanescente, se houver, observando-se no ponto o que determina a Súmula 472 do STJ.
+INSCRIÇÃO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. Mesmo pendente a ação de revisão contratual, é possível o cadastro do nome do devedor nos órgãos restritivos de crédito caso haja inadimplência, e somente não será permitido se, negado o débito, ou parte dele, haja efetiva demonstração de que a contestação da cobrança se funda na aparência do bom direito e em jurisprudência consolidada do STF ou do STJ, e desde que haja depósito de valores incontroversos, ou caução idônea. Caso em que, constata a ilegalidade na cobrança de juros e afastada a mora, cabível a vedação, até que aferido débito, se houver, mediante aplicação da revisão imposta.
+MANUTENÇÃO DE POSSE. Descabida a ordem de manutenção na posse no caso, vez que não há prova inequívoca de que haja vinculação do bem móvel com o negócio bancário cuja revisão é pretendida, não se podendo depreender o risco iminente de desapossamento.
+DESCONTO EM CONTA CORRENTE. POSSIBILIDADE. É possível desconto em folha de pagamento e/ou conta-corrente de parcelas autorizado na contratação, sendo apenas vedado o comprometimento de 30% da renda bruta do devedor, situação esta que não se detecta dos autos e nem sequer é alegada pelos autores.
+REPETIÇÃO DE INDÉBITO. A restituição simples poderá ser autorizada caso verificado o pagamento a maior, sendo a mesma, efeito secundário do comando sentencial que ocorre através da volta ao estado anterior a partir do efeito material principal, consistente no reconhecimento de encargos estipulados de forma indevida.
+COMPENSAÇÃO DE VALORES. Cabível a ressalva de compensação contábil de valores para a eventualidade, na hipótese de serem apurados precisamente os valores pagos pela parte demandante a título de encargos reconhecidos abusivos.
+RECURSOS PARCIALMENTE PROVIDOS.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 294/299).
+No recurso especial (e-STJ fls. 302/324), fundamentado no art. 105, III, alíneas "a" e "c", da CF, o recorrente apresentou dissídio jurisprudencial e apontou violação dos arts. 5º e 192 da CF, 42, parágrafo único, do CDC e 877 do CC/2002, além das Súmulas n. 380 e 382. A insurgência cuidou de: (a) juros remuneratórios, (b) comissão de permanência, (c) compensação/repetição do indébito, (d) taxas e tarifas administrativas, (e) mora, (f) inscrição no cadastro de proteção ao crédito e (g) redistribuição do ônus sucumbencial.
+O agravo (e-STJ fls. 537/550) refuta os fundamentos da decisão agravada e alega o cumprimento de todos os requisitos legais para o recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 563).
+É o relatório.
+Decido.
+Cuida-se, na origem, de ação revisional julgada procedente. Os recursos de apelação interpostos também foram parcialmente providos.
+Em relação à suposta afronta às Súmulas n. 380 e 382 do STJ, segundo a jurisprudência deste Tribunal, é incabível a interposição de recurso especial com fundamento em violação de súmula, por não se enquadrar no conceito de lei federal, a teor do que dispõe o art. 105, III, da CF.
+Ainda inviável a análise de ofensa a dispositivos constitucionais, visto que a competência desta Corte Superior restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal. A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não cabe a esta Corte, em sede de Recurso Especial, examinar violação de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.)
+No que diz respeito aos juros remuneratórios, à comissão de permanência e as taxas e tarifas administrativas, à descaracterização da mora e à inscrição do nome do devedor no cadastro de proteção ao crédito, as alegações do especial não precisam qual dispositivo de lei teria sido malferido pela decisão recorrida.
+Ocorre que o conhecimento do recurso especial fundamentado pela alínea "a" ou com base na alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973), ônus dos quais a parte recorrente não se desincumbiu. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. DISSÍDIO NÃO CONFIGURADO. PRECEDENTES. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A ausência de indicação dos dispositivos em torno dos quais teria havido interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial quando interposto com base na alínea "c" do permissivo constitucional. Incidência da Súmula 284/STF. Precedentes.
+2. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 550.426/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/9/2014, DJe 11/9/2014.)
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. DESPESAS CONDOMINIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO INICIAL. VENCIMENTO DE PARCELA. SÚMULA Nº 83/STJ. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA "C". DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA Nº 284/STF.
+(..)
+3. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+4. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+5. Agravo regimental de fls. 238/247 não conhecido. Agravo regimental de fls. 228/237 não provido.
+(AgRg no AREsp n. 636.255/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/10/2015, DJe 16/10/2015.)
+Apresentada a questão nesses termos, conclui-se que o recurso encontra óbice na Súmula n. 284 do STF.
+Por fim, é possível a compensação de créditos e a devolução de quantia paga indevidamente, em obediência ao princípio que veda o enriquecimento ilícito (REsp n. 680.237/RS, Relator Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 14/12/2005, DJ 15/3/2006, p. 211).
+Além disso, de acordo com a Súmula n. 322/STJ, "para a repetição de indébito, nos contratos de abertura de crédito em conta-corrente, não se exige a prova do erro".
+Mantido o acórdão recorrido, fica prejudicada a análise de nova redistribuição dos ônus sucumbenciais.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
