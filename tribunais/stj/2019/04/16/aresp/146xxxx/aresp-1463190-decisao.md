@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por DIOLIRA GERTRUDES DA SILVA, em face de decisão denegatória de seguimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 166, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C DANOS MORAIS. PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - APLICAÇÃO DO ART. 27 DO CDC - TERMO INICIAL - DATA DO ÚLTIMO DESCONTO - RECONHECIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nos termos do art. 27, do CDC, prescreve em cinco anos a pretensão de obter reparação em vista de cobrança indevida (CDC, art. 27), sendo o termo inicial da contagem do prazo prescricional a data do último desconto.
+Nas razões de recurso especial (fls. 318/341, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação aos artigos 27 do Código de Defesa do Consumidor; 373 do Código de Processo Civil/15. Sustenta, em síntese, deve ser considerado como início do prazo prescricional o dia em que foi emitido o extrato perante o INSS, data em que nasceu a pretensão da recorrente, eis que pode constatar as lesões sofridas e suas consequências.
+Sem contrarrazões (fl. 223, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, ante a incidência das Súmulas 7 e 83 do STJ.
+Daí o agravo (fls. 229/250, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 253, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Aduz a insurgente ter havido violação ao artigo 27 do CDC e divergência jurisprudencial, ao argumento de que deve ser considerado como início do prazo prescricional o dia em que foi emitido o extrato perante o INSS, data em que nasceu a pretensão da agravante, eis que pode constatar as lesões sofridas e suas consequências.
+No ponto, a partir da análise do contexto fático e elementos de prova dos autos, o órgão julgador assim decidiu (fls. 169/172, e-STJ):
+Portanto, o termo inicial da contagem do prazo prescricional é a data do conhecimento do dano e, na hipótese de o dano ser conhecido, mas a autoria não, da data do conhecimento desta.
+No caso dos autos, o autor afirma que tomou conhecimento do empréstimo ao consultar a situação de seu benefício previdenciário, juntando ao processo extrato datado de 31/7/2017 (f. 42).
+Não obstante as disposições legais supra citadas e o entendimento jurisprudencial 2 de que o termo a quo da prescrição é o do conhecimento do dano e de sua autoria, não é crível que a requerente, que teve parcelas descontadas em seu benefício previdenciário desde outubro de 2007, só teve ciência de tais descontos por ocasião do extrato datado de 31/7/2017, mais parecendo um argumento de conveniência e oportunidade.
+Entretanto, tratando-se de prestação de trato sucessivo, o prazo prescricional da pretensão do autor renova-se mês a mês.
+(..)
+Como se vê, o entendimento majoritário nesta 4ª Câmara Cível é o de que, apesar de o art. 27 do CDC prever que o termo inicial do prazo prescricional é a data do conhecimento do dano e de sua autoria, na hipótese dos descontos incidentes sobre benefício previdenciário, o termo inicial do prazo é a data do último desconto, por não ser crível que a autora só teve ciência dos descontos por meio do extrato retirado junto ao INSS.
+(..)
+Dessa forma, considera-se como termo inicial da prescrição da pretensão da autora, a data do último desconto realizado em seu benefício previdenciário.
+Na hipótese dos autos, verifica-se do extrato que o último desconto ocorreu em outubro de 2010 (f. 42).
+Sendo assim, a autora poderia ajuizar a ação até outubro de 2015.
+Considerando que a petição inicial foi protocolada em 4/12/2017, conclui-se que a pretensão da autora está prescrita.
+O Tribunal local, a partir da análise das provas acostadas aos autos, concluiu que o desconto indevido da última parcela ocorreu em outubro/2010, data em que o autor teve ciência inequívoca do ocorrido e, portanto, prescrita a ação proposta em 04/12/17. Alterar tais conclusões, de fato, demandaria necessariamente o reexame de provas dos autos, o que é vedado pela Súmula 7 desta Corte.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. DECADÊNCIA. VÍCIO OCULTO DO PRODUTO. REVISÃO DA DATA EM QUE O CONSUMIDOR TEVE CIÊNCIA DO DEFEITO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.  ..  2. A pretensão posta no recurso especial para rediscutir o dies a quo no prazo decadencial esbarra no óbice da Súmula 7/STJ, porque depende do reexame da data em que o consumidor teve ciência do vício oculto do produto. 3. Agravo interno desprovido. (AgInt no AREsp 1070277/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/08/2017, DJe 21/09/2017)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POR DANOS MORAIS E MATERIAIS. ERRO MÉDICO. PRESCRIÇÃO QUINQUENAL. CIÊNCIA INEQUÍVOCA DO DANO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. TERMO INICIAL DO PRAZO PRESCRICIONAL QUINQUENAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.  ..  2. A alteração do entendimento adotado pela Corte de origem, acerca da data em que ocorreu a ciência inequívoca da ocorrência de erro médico, dando início à contagem do prazo prescricional quinquenal, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior. 3. Razões recursais insuficientes para a revisão do julgado. 4. Agravo interno desprovido. (AgInt no AREsp 1127015/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 27/10/2017)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO DO ARTIGO 206, § 3º DO CÓDIGO CIVIL. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. TERMO INICIAL. CIÊNCIA DO ATO ILÍCITO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07 DO STJ. RECURSO NÃO PROVIDO. 1. O prazo prescricional, em caso de responsabilidade civil decorrente de ato ilícito, começa a correr da ciência do fato ensejador da reparação, qual seja, o evento danoso. Precedentes desta Corte. 2. No caso concreto, o Tribunal de origem, analisando a prova dos autos, estabeleceu a data em que teria ocorrido o ato ilícito e, como consequência, o termo inicial do prazo prescricional. Dessa forma, inviável alterar a conclusão do acórdão recorrido acerca da ocorrência da prescrição. 3. Recurso não provido. (AgInt no REsp 1621056/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016)  grifou-se
+Inafastável, portanto, a incidência do óbice da Súmula 7 do STJ à hipótese.
+2. Por fim, importante consignar que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. OMISSÃO E CONTRADIÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. DANO MORAL. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+3. A modificação do entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, demandaria o revolvimento do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. É impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno ao qual se nega provimento.
+(AgInt no AREsp 1152399/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018; grifou-se)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
