@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. URV. LEI 8.880/1994. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que negou seguimento ao recurso especial, por entender que, quanto a incidência da prescrição, o acórdão recorrido estaria em consonância com entendimento firmado pro este eg.STJ em sede de recurso especial repetitivos e, quanto as demais matéria, não o admitiu, face a inexistência de violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015) e a incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 251):
+AGRAVO INTERNO - Decisão monocrática - Inteligência do art. 557, do CPC - Possibilidade, independentemente de outros pressupostos - Cabível ao relator negar provimento, de forma monocrática, a recurso que se apresentar em confronto com jurisprudência dominante do mesmo Tribunal ou de Tribunal Superior, ante o disposto no art. 557, caput, segunda parte do Código de Processo Civil - Ausência de vício a ser sanado na decisão agravada - Decisão mantida - Recurso improvido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente preliminarmente alega violação do art. 535 do CPC/1973, porquanto a Corte de origem deixou de apreciar "a prova e indicar os fundamentos de sua conviccção e motivar a decisão", pois assevera ter cumprido o comando normativo do art. 24 da Lei 8.880/1994.
+Quanto a questão de fundo alega violação ao art. 1º do Decreto 20.910/1932, posto que incide na espécie a prescrição de fundo de direito.
+Aponta, ainda, a existência de divergência jurisprudencial no que se refere a aplicação da Lei 8.880/1994.
+Com contrarrazões.
+Ao apelo especial foi negado seguimento, quanto a apontada violação do art. 1º do Decreto 20.910/1932, porquanto o acórdão recorrido estaria em consonância com entendimento firmado por este eg.STJ em sede de recurso especial repetitivo, bem como não foi admitido quanto aos demais aspectos.
+Foi interposto agravo interno, com base no art. 1.040, I, do CPC/2015, quanto a negativa de seguimento do apelo especial, ao qual foi negado provimento, sendo determinada a subida deste feito para a análise d impugnação aos demais fundamentos de inadmissibilidade.
+É o relatório. Decido.
+Tendo o agravante impugnado os fundamentos de inadmissão, passo à apreciação do apelo especial.
+Registre-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A irresignação recursal não merece prosperar.
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+Quanto a alegada prescrição de fundo de direito, ao apelo especial foi negado seguimento com base no art. 543-C, § 7º, I, do CPC/1973, decisão mantida em sede de agravo interno manejado na origem, de modo que inviável sua reapreciação neste momento, sob pena de inutilização do ideal dos recursos repetitivos.
+No que se refere ao dissídio jurisprudencial, é firme neta eg.Corte o entendimento, no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal.
+In casu, o recorrente se limita a asseverar a existência de divergência jurisprudencial quanto a interpretação da Lei 8.880/1994, sem, contudo, individualizar sobre qual ou quais dispositivos da norma recai a interpretação divergente (fls. 287-288).
+ Aplica-se, por analogia, Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
