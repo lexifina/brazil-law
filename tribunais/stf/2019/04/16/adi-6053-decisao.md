@@ -1,0 +1,15 @@
+Petição/STF nº 8.080/2019
+DECISÃO
+PROCESSO OBJETIVO – INTERVENÇÃO DE TERCEIRO – INADMISSIBILIDADE.
+    1. O assessor Dr. Eduardo Ubaldo Barbosa assim retratou o caso:
+    A Procuradora-Geral da República ajuizou esta ação direta de inconstitucionalidade, com pedido de liminar, questionando a compatibilidade, com a Constituição Federal, dos artigos 23 da Lei nº 8.906/1994 – Estatuto da Advocacia –, 85, § 19, da Lei nº 13.105/2015 – Código de Processo Civil – e 27 e 29 a 36 da Lei nº 13.327/2016, a versarem a percepção, por advogados públicos, de verbas concernentes aos honorários de sucumbência nos processos em que tomarem parte a União, autarquias e fundações federais.
+    Em 20 de dezembro de 2018, o ministro Dias Toffoli, em regime de plantão judicial, acionou o disposto no artigo 12 da Lei nº 9.868/1999, solicitando informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República.
+    A Associação Nacional dos Advogados Públicos Aposentados e Pensionistas – ANAPA, mediante peça subscrita por profissional da advocacia regularmente credenciado, requer o ingresso na qualidade de terceira interessada. Aponta a relevância da matéria, a afetar, conforme assevera, o modelo de remuneração adotado no âmbito das procuradorias estaduais e municipais. Afirma representar os interesses dos advogados públicos federais aposentados, dizendo-se capaz de contribuir para o deslinde da controvérsia submetida à apreciação do Supremo. Tece considerações quanto ao mérito, sustentando a parcial procedência do pedido formulado na peça primeira.
+    2. A regra é o indeferimento da participação de terceiros no processo alusivo a ação direta de inconstitucionalidade. A exceção corre à conta de parâmetros a demonstrarem a importância do tema e a representatividade do terceiro, quando, por decisão irrecorrível, mostra-se possível a manifestação de órgãos ou entidades – artigo 7º da Lei nº 9.868, de 10 de novembro de 1999.
+    Atentem para a organicidade do Direito. As carreiras da Advocacia Pública estão representadas pelas entidades associativas admitidas no processo, inclusive quanto aos agentes públicos inativos, conforme verificado a partir da análise das disposições estatutárias dos terceiros cujos ingressos foram anteriormente deferidos, como o Sindicato Nacional dos Procuradores da Fazenda Nacional – SINPROFAZ, a Associação Nacional dos Advogados Públicos Federais – ANAFE, a Associação Nacional dos Procuradores Municipais – ANPM e a Associação Nacional dos Procuradores dos Estados e do Distrito Federal – ANAPE.
+    Permitir o ingresso de ente a congregar apenas parte da categoria, relativa aos aposentados e pensionistas, não trará o objetivo da intervenção, que é o esclarecimento da questão. Haveria, em última análise, sobreposição a ocasionar a complexidade da tramitação do processo.
+    3. Deixo de acolher o pedido. Devolvam a petição e os documentos que a acompanham à Associação Nacional dos Advogados Públicos Aposentados e Pensionistas – ANAPA.
+    4. Publiquem.
+Brasília, 16 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
