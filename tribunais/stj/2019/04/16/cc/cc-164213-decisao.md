@@ -1,0 +1,13 @@
+EMENTA
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. INSURGÊNCIA CONTRA DESPACHO QUE INDEFERIU O PEDIDO DE REDISTRIBUIÇÃO DO FEITO. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. CONFLITO NÃO CONHECIDO.
+DECISÃO
+IRENE PEREIRA DE ALMEIRA suscita o presente conflito negativo de competência a fim de que seja "determinada a distribuição de todas as matérias com esta conexa - Execução Individual de Sentença proferida em mandado de segurança coletivo, referente à Vantagem Pecuniária Especial - (VPE) à Relatoria do Ministro Gurgel de Faria" (fl. 3).
+No entender da suscitante, "todos os cumprimentos de sentença decorrentes da decisão transitada em julgado proferida no mandado de segurança nº 20055101016159-0, por força do CPC/2015 devem ser distribuídos ao Min. Gurgel de Farias" (fl. 7).
+Requer ao final seja o AREsp n. 1.407.321/RJ, Rel. Min. Sérgio Kukina, redistribuído ao Min. Gurgel de Farias, dizendo ser ele "prevento para tratar do caso debatido nos presentes autos" (fl. 11).
+É o relatório. Passo a decidir.
+É ressabido que para a configuração de conflito de competência, positivo ou negativo, faz-se "necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o mesmo feito" (CC 82.861/SC, Relator Ministro Massami Uyeda, Segunda Seção, DJe 6/12/2010). No mesmo sentido: CC 134.529/SP, Rel. Ministro Og Fernandes, Primeira Seção, DJe 2/3/2017.
+No caso concreto, a autora se insurge contra decisão do Ministro Sérgio Kukina proferida nos autos do ARESP n. 1.407.321/RJ que indeferiu o pedido de redistribuição, ao fundamento de que "o ilustre Ministro Gurgel de Faria tem afastado sua prevenção para julgamento de processos semelhantes, com base no entendimento de que a execução individual genérica de sentença condenatória proferida em julgamento de ação coletiva não gera a prevenção do Juízo, devendo o respectivo recurso submeter-se à livre distribuição".
+Nesse contexto, constata-se que o inconformismo pautado na alegação de que todos os processos que tratam da Vantagem Pecuniária Especial - (VPE) deveriam ser redistribuídos ao Ministro Gurgel de Faria não encontra no presente conflito o remédio jurisdicional adequado.
+Consoante jurisprudência do STJ, o conflito de competência não pode ser utilizado como sucedâneo recursal. Precedentes: AgInt no CC 159.161/RJ, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 1º/4/2019; AgRg nos EDcl no CC 151.936/SP, Rel. Ministro Og Fernandes, Primeira Seção, DJe 7/11/2017; AgRg no CC 121.226/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 2/4/2013.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se. Intimem-se.
