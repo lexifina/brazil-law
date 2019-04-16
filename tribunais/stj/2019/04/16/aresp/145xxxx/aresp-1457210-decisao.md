@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão que não admitiu recurso especial manejado com base nas alíneas "a" e "c" do permissivo constitucional.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 136, e-STJ):
+EXCEÇÃO DE PREEXECUTIVIDADE DECISÃO QUE REJEITOU O INCIDENTE, CONDENANDO O EXCIPIENTE AO PAGAMENTO DE MULTA DE 1% DO VALOR ATUALIZADO DA CAUSA, ALÉM DE INDENIZAÇÃO DE 5% DO VALOR DA CONDENAÇÃO, POR LITIGÂNCIA DE MÁ-FÉ AGRAVANTE QUE BUSCA AFASTAR O DEVER DE INDENIZAR O EXCEPTO SOB A ALEGAÇÃO DE QUE O ORA RECORRIDO NÃO SEJA MAIS O TITULAR DA PROPRIEDADE RURAL QUE INDEVIDAMENTE DESMATARA QUESTÃO DA TITULAÇÃO QUE NÃO APAGA OS PREJUÍZOS CAUSADOS PELO RECORRENTE LUCROS EXTRAÍDOS DA TERRA QUE PERTENCEM AO AGRAVADO, PORQUANTO POSSUIDOR DE BOA-FÉ - INCIDENTE MANIFESTAMENTE INFUNDADO E COM INTUITO DE OPOR RESISTÊNCIA INJUSTIFICADA AO ANDAMENTO DO CUMPRIMENTO DE SENTENÇA LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA INTELIGÊNCIA DOS INCS. IV E VI, AMBOS DO ART. 80 DO [PLACA] - DESNECESSIDADE DE CITAR EXPRESSAMENTE OS DISPOSITIVOS LEGAIS E CONSTITUCIONAIS PARA FINS DE PREQUESTIONAMENTO DECISÃO MANTIDA - RECURSO DESPROVIDO
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 143-155, e-STJ), o insurgente apontou violação aos arts. 17, 80 e 485, VI, do CPC/15, além do dissídio jurisprudencial.
+Sustentou, em síntese, a ocorrência de fato superveniente, vale dizer, perda da propriedade pelo exequente, tornando-o ilegítimo para postular a verba indenizatória estabelecida em título judicial, o que inclusive inviabiliza a litigância de má-fé estabelecida na Corte local.
+Contrarrazões (fls. 181-186, e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 187-188, e-STJ), dando ensejo à interposição do presente agravo (fls. 190-201, e-STJ).
+Contraminuta sustentando o acerto do decisum hostilizado (fls. 206-211, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. A respeito da tese da ilegitimidade ativa, embasada na alegada violação aos arts. 17 e 485, VI, do CPC/15, constata-se que a Corte local estabeleceu que o exequente fez jus à indenização outrora fixada porquanto possuidor de boa-fé, não existindo, portanto, correlação entre o objeto do cumprimento de sentença com a propriedade do imóvel alienado posteriormente. Referido fundamento não foi impugnado pela parte recorrente nas razões do apelo nobre.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+2. Quanto à vulneração ao art. 80 do CPC/15, o Tribunal local, com amparo no contexto fático-probatório, entendeu caracterizada conduta qualificada como litigância de má-fé, com o firme propósito de protelar o cumprimento de obrigação estabelecida em sentença "há quase 15 anos" (fl. 140, e-STJ).
+Confira-se trecho do acórdão recorrido:
+Nesse sentido, "de se reconhecer, ainda, pela falta de concatenação jurídica entre a decisão judicial do Mato Grosso e o desenrolar destes autos que a exceção não passou de incidente manifestamente infundado (80, VI, do CPC) e com intuito e opor resistência injustificada ao andamento do cumprimento de sentença (inc. IV do mesmo artigo), o que caracteriza verdadeira litigância de má- fé. É o estertor pela aproximação da fase final do processo, com pagamento de dívida reconhecida por sentença há quase 15 anos que moveu a má-fé, que deve ser penalizada na forma do artigo 81 do Código de Processo Civil. Fixo desde já a multa em 1% do valor atualizado da causa (só correção monetária) e indenização em 5% do valor da condenação.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+3. Com efeito, o recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelo art. 1.029, § 1º, CPC/15 e art. 255, § 1º, do RISTJ.
+Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+4. Do exposto, com fulcro no art. 932 do NCPC e na Súmula 568 do STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
