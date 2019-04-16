@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, em 11/01/2019, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SERASAJUD. INCLUSÃO. TÍTULO EXTRAJUDICIAL. IMPOSSIBILIDADE ATUAL
+1. Ainda que se trate de medida prevista na legislação processual e tenha sido objeto de convênio celebrado entre o Conselho Nacional de Justiça e o SERASA, a inclusão do nome da parte executada em cadastros de inadimplentes, por determinação do juízo, há de ser implementada, em princípio, apenas em sede de execução definitiva de título judicial.
+2. Em se tratando de execução de título extrajudicial, não há óbice a que o próprio credor providencie a efetivação da medida, cabendo intervenção judicial caso comprovada dificuldade significativa ou impossibilidade de fazê-lo por seus próprios meios.
+3. Agravo de instrumento improvido" (fl. 38e).
+A recorrente interpôs Recurso Especial, sustentando ofensa ao art. 782, §3º, do CPC/2015, argumentando, em síntese, ser cabível a utilização do SERASAJUD, por determinação do juízo, "como medida coercitiva no âmbito da execução fiscal para fins de recuperação do crédito exequendo" (fl. 52e).
+Requer, ao final, o provimento do recurso.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 56/57e).
+A pretensão merece acolhida.
+No mérito, a Corte de origem asseverou a impossibilidade de se aplicar o art. 782, § 3º, do CPC/2015 ao caso em tela, uma vez que "não existe nenhum obstáculo para que o próprio credor providencie a inclusão do nome do devedor no cadastro de inadimplentes, devendo haver intervenção judicial somente caso comprovada impossibilidade de fazê-lo por seus próprios meios" (fl. 42e).
+No entanto, apreciando casos análogos ao dos autos, esta Segunda Turma manifestou-se no sentido da possibilidade de utilização do SERASAJUD para agilizar a satisfação dos créditos executados em execução fiscal.
+Confira-se, a propósito, o seguinte julgado:
+"PROCESSUAL CIVIL. INCLUSÃO DO NOME DO DEVEDOR EM CADASTRO RESTRITIVO DE CRÉDITO. PLEITO JUDICIAL. POSSIBILIDADE.
+I - O pedido de inclusão do nome do devedor em cadastros de inadimplentes, tais como SERASAJUD ou SERASA, nos termos do art. 782, § 3º, do CPC/2015, não pode ser recusado pelo Poder Judiciário a pretexto de inexistência de convênio para negativação pela via eletrônica, tendo em vista a possibilidade de expedição de ofício para atendimento do pleito.
+II - Tal entendimento vai de encontro com o objetivo de promover a razoável duração do processo e a cooperação processual, além de impor medidas necessárias para a solução satisfativa do feito, conforme interpretação dos arts. 4º, 6º e 139, IV, todos do CPC/2015.
+III - Recurso especial provido" (STJ, REsp 1.736.217/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 01/03/2019).
+Registre-se que, consoante restou decidido no referido aresto, "a jurisprudência do Superior Tribunal de Justiça assentou que o fato de a execução se realizar no interesse do credor não impede que a parte requeira ao Judiciário a efetivação de medidas executivas, independentemente da comprovação do exaurimento das vias extrajudiciais". Ademais, "se o STJ consolidou o entendimento de que não é necessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on line, não haveria óbice para medida que é menos gravosa ao executado, consistente na presente medida de simples inclusão do nome do devedor no cadastro de inadimplentes" (STJ, REsp 1.736.217/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 01/03/2019).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao Recurso Especial, para reconhecer a possibilidade de inscrição do devedor constante na execução fiscal no SERASAJUD impondo-se o retorno dos autos à origem, a fim de que o Tribunal a quo examine a viabilidade do petitório, no caso concreto.
+I.
