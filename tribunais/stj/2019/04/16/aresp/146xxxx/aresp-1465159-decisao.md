@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 123):
+APELAÇÃO CÍVEL - Execução Fiscal - Taxa de Fiscalização de Estabelecimentos dos exercícios de 2010 a 2013 - Município de São Paulo - Ação proposta em 26/2/2016 - Exceção de pré-executividade - Empresa executada extinta por incorporação, em fevereiro de 2008 - Ação ajuizada contra pessoa jurídica inexistente quando do fato gerador do tributo - Ilegitimidade passiva - Impossibilidade de alteração do polo passivo da demanda o curso da demanda - Proposta a execução fiscal, essa deve prosseguir contra a pessoa cujo nome foi indicado na CDA - Eventual modificação do sujeito passivo da relação tributária, em razão do que dispõem os artigos 121 a 123 e 128 do CTN só é permitida na fase administrativa - Aplicação da Súmula 392 do STJ - Precedentes desta Corte - Sentença proferida sob a égide do CPC/2015 - Honorários advocaticios majorados em um ponto percentual, nos termos inciso I e § 11, do art.85 do CPC/2015 - Sentença mantida - Recurso não provido.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 227 da Lei das Sociedades Anônimas, 1.116 do Código Civil e 132 do CTN. Sustenta que "em razão da disposição peculiar do CTN em atribuir a responsabilidade tributária a empresa incorporadora. FAZ-SE NECESSÁRIO AFASTAR A APLICAÇÃO DA SÚMULA, pois a sociedade sucessora é responsável por obrigação anterior e lançamento posterior"." (fls. 137/138).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+A matéria pertinente aos arts. 227 da Lei das Sociedades Anônimas, 1.116 do Código Civil e 132 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
