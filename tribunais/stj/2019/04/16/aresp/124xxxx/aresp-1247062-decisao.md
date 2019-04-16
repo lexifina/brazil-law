@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de julgamento extra petita, (b) aplicação da Súmula n. 7/STJ e (c) falta de comprovação do dissídio jurisprudencial, por inexistência de cotejo analítico (e-STJ fls. 145/148).
+O acórdão do TJRJ traz a seguinte ementa (e-STJ fl. 63):
+AGRAVO DE INSTRUMENTO. AMPLIAÇÃO DE TUTELA PROVISÓRIA DE URGÊNCIA ANTECIPADA PARA DETERMINAR O PAGAMENTO IMEDIATO DA TOTALIDADE DAS CARTAS DE CRÉDITO CONTRATADAS. AUSÊNCIA DE COMPROVAÇÃO MÍNIMA DA PROBABILIDADE DO DIREITO INVOCADO. DISPOSIÇÕES CONTRATUAIS, À PRIMEIRA VISTA, EM CONSONÂNCIA COM A LEI CONSUMERISTA E COM O REGRAMENTO ESPECÍFICO DO BANCO CENTRAL DO BRASIL. EXISTÊNCIA DE CLÁUSULAS EXPRESSAS DISPONDO ACERCA DA POSSIBILIDADE DE RECEBIMENTO DE PARTE DA CARTA DE CRÉDITO. SOBRA DE CRÉDITO QUE DEVERÁ SER PRIMEIRAMENTE IMPUTADA À AMORTIZAÇÃO DO SALDO DEVEDOR, REEMBOLSANDO-SE O CONSUMIDOR APENAS NO REMANESCENTE. [NOME] NA ORIGEM. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO ATENDIMENTO DOS REQUISITOS DO ART. 300 DO CPC/15. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA NÃO CONTEMPLADO NO NOVO CÓDIGO. AGRAVADO QUE DEVE VEICULAR SUA PRETENSÃO DE PACIFICAÇÃO DO ENTENDIMENTO
+DA CORTE PELA VIA PRÓPRIA. REFORMA DA DECISÃO. PROVIMENTO DO RECURSO.
+Os embargos de declaração opostos forma rejeitados (e-STJ fls. 96/100).
+Nas razões do recurso especial (e-STJ fls. 102/114), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente alegou dissídio jurisprudencial e desrespeito aos arts. 492 e 1.016, III, do CPC/2015, porque a Corte local teria incorrido em julgamento extra petita, ao reformar a decisão agravada, tendo em vista que o pedido dos recorridos seria de sua anulação, o que só seria admitido em caso de error in procedendo, situação inexistente nos autos.
+Foram apresentadas contrarrazões, requerendo a condenação do recorrente ao pagamento de multa por litigância de má-fé (e-STJ fls. 123/137).
+No agravo (e-STJ fls. 157/170), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de a condenação do agravante ao pagamento de multa por litigância de má-fé (e-STJ fls. 175/191).
+É o relatório.
+Decido.
+Segundo a jurisprudência desta Corte é firme no sentido de que, "se o Tribunal a quo, atento aos fatos, à causa de pedir e ao pedido, resolve a controvérsia dentro desses parâmetros, não incorre em julgamento extra petita. Assim, evidenciado que o órgão julgador ateve-se aos limites das matérias que foram objeto de impugnação no recurso, não há ofensa ao princípio tantum devolutum, quantum appellatum" (REsp n. 1.513.259/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/2/2016, DJe 22/2/2016).
+No mesmo sentido: AgRg no AREsp n. 2.797/RN, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/5/2017, DJe 10/5/2017, e EDcl no REsp n. 975.151/RS, Relator Ministro HÉLIO QUAGLIA BARBOSA, QUARTA TURMA, julgado em 23/10/2007, DJ 12/11/2007, p. 236.
+Outrossim, a jurisprudência do STJ orienta-se no sentido de que inexiste julgamento extra petita em virtude da interpretação lógico-sistemática do pedido. A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ASSALTO EM AGÊNCIA DA CAIXA ECONÔMICA FEDERAL. VÍTIMA ALVEJADA POR ARMA DE FOGO. SEQUELAS. PENSIONAMENTO MENSAL. JULGAMENTO EXTRA PETITA. CONFIGURAÇÃO. VALOR ADEQUADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A orientação jurisprudencial do Superior Tribunal de Justiça acerca da configuração de julgamento ultra petita estabelece que "A aferição da ocorrência de julgamento ultra petita se dá com base na interpretação lógico-sistemática de todo o conteúdo recursal, e não apenas de tópico específico relativo aos pedidos" (REsp 1.287.458/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 10/05/2016, DJe de 19/05/2016). 3. Na hipótese dos autos, tanto no pedido quanto na causa de pedir houve requerimento expresso de pensão mensal vitalícia no valor correspondente a 1 (um) salário mínimo, de modo que o deferimento de pensão em valor maior configuraria julgamento ultra petita.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.387.544/AL, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/5/2017, DJe 19/5/2017.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. CAPITALIZAÇÃO DE JUROS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS NºS 5 E 7/STJ.
+1. O pedido formulado pela parte deve ser examinado a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta.
+(..)
+3. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no REsp n. 854.158/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/3/2017, DJe 21/3/2017.)
+A parte recorrida defendeu na exordial que estariam ausentes os requisitos necessários ao deferimento da tutela antecipada postulada pelo recorrente. Confira-se (e-STJ fls. 6/7 e 11/17):
+Acolhendo-se tais alegações, o magistrado concedeu a tutela ao Agravado e determinou a intimação da parte ré, ora Agravante, para que providenciasse o depósito da diferença do crédito da parte autora, ou seja, o valor integral atualizado das cartas de crédito, deduzido o valor já depositado, no prazo de 05 (cinco) dias, sob pena de multa diária 1.000,00 (mil reais).
+Data venia, O DEFERIMENTO de tal tutela implicou na VERDADEIRA CONCESSÃO ANTECIPADA DO PROPRIO MÉRITO DA DEMANDA.
+Ora, o autor pretendia ao final do processo a liberação de R$ 427.714,51 e, simplesmente está obtendo o que pretendia no curso deste, antes mesmo de iniciada a fase probatória.
+As alegações autorais para concessão da tutela não justificam a procedência antecipada do pleito autoral, pois:
+1 O banco apresentou argumentos fundamentados que justificam a não concessão da quantia pretendida pela parte autora;
+2- Não há nos autos garantia eficaz ao banco de que receberá a quantia liberada em caso de improcedência do pedido autoral.
+(..)
+Além do mais, examinando os argumentos autorais, a tutela provisória aqui concedida não está amparada pelos pressupostos processuais que a justificam pois, efetivamente, não há perigo de reparação ou dano irreparável ao autor.
+(..)
+Evidentemente que tais alegações precisam ser provadas, seja pela análise dos documentos, seja pela perícia especializada, todavia, a verdade dos fatos, seja a versão do autor, seja a versão do réu, só se revelará ao final do processo!
+Logo, conceder ao autor a liberação do crédito, cujo réu apresenta justificativas plausíveis para sua não concessão, se mostra uma decisão equivada, erro que afronta diretamente o princípios do devido processo legal!
+(..)
+Ou seja, vemos que o Agravado apenas considera a obrigação da Administradora em entregar o crédito, mas não pondera a obrigação assumida por ele na adesão aos planos, no atendimento das condições previstas no Contrato de Adesão, seja pagando em dia ou entregando a documentação solicitada pelo banco.
+E, mesmo com tal comportamento reprovável, obtém tutela que satisfaz, integralmente, sua pretensão, sem que seja oportunizada ao Agravante, a discussão do caso.
+(..)
+No caso dos autos, a pretensão da parte autora não merece acolhida, posto que não está configurado os elementos autorizadores da concessão de tutelas de quaisquer natureza.
+(..)
+Ora, não há indícios do direito do Agravado, quando o Agravante em sede de defesa, apresenta tantos argumentos e documentos que colocam em dúvida a tese autoral.
+Não se pode conceder uma tutela, unicamente, na crença de que as alegações autorais são verídicas, sob o fundamento de que não se pode exigir do mesmo o preenchimento dos requisitos expressos num contrato de adesão.
+Ora, em que pese às clausulas do contrato do consórcio serem de adesão, as mesmas não foram elaboradas segundo a vontade do banco, mas seguem, estritamente, a legislação que versa sobre os contratos de consórcio.
+Também não se pode deduzir que o autor, na condição de consumir, foi enganado e que o a contrato assinado não lhe pode ser imposto, pois, no caso em tela, o contratante é advogado experiente, dono de escritório, com saber jurídico e técnico sobre o tipo de contrato assinalado, tendo o mesmo plena ciência de todas as condições nele transcritas.
+Também não há perigo na demora da concessão do crédito ao autor.
+(..)
+Além de tal decisão manifestar flagrante parcialidade do juízo na presente demanda, o que não se pode admitir no processo judicial, a decisão se revela temerária, pois não avaliou as severas conseqüências que suas implicações trarão, tanto para o autor como para o réu.
+(..)
+Com efeito, com o recebimento desta quantia, o interesse do autor estará plenamente satisfeito, resultado prático que, no devido processo legal, só se pode obter após o transito em julgado da sentença, o que ainda não aconteceu!
+(..)
+Ao final, requereu o acolhimento do recurso "para reformar a decisão ora agravada, afim de que seja anulando a decisão agravada, diante da evidente violação ao devido processo legal" (e-STJ fl. 17).
+O TJRJ concluiu que (e-STJ fls. 66 e 70/71):
+Afasta-se, desde logo, a alegação de que o presente recurso não atende ao princípio da dialeticidade, eis que as razões nele aduzidas são perfeitamente inteligíveis e impugnam especificamente o capítulo da decisão que amplia os efeitos da antecipação de tutela anteriormente concedida, não prejudicando a compreensão da irresignação recursal o erro de redação do pedido de número "3" (fl. 18), equívoco este que, se interpretado da forma como quer o agravado, importaria em apego a excessivo formalismo contrário ao princípio constitucional do acesso à justiça e da ideia de processo como instrumento da tutela de direitos.
+(..)
+Conclui-se, portanto, que, à primeira vista, as regras que regem a relação jurídica em questão nunca deixaram entrever um direito ao reembolso de parcelas da obra adiantadas com recursos próprios antes da contemplação nas cotas de consórcio, as quais o foram por conta e risco do consumidor, razão por que não há indício de criação por parte do agravante de legítima expectativa de recebimento pelo consumidor, em qualquer hipótese e independentemente das circunstâncias, a totalidade do valor das cartas de crédito.
+Por outro lado, a despeito do esforço do agravado, não há qualquer contraprova de índole técnica que possa neste momento processual se contrapor ao laudo de engenharia de fls. 220/237 do Anexo I, inclusive porque ainda não fora realizada perícia do Juízo de origem e tampouco trouxe o agravado qualquer manifestação de seu assistente técnico, não havendo, assim, como se afastar das suas conclusões acerca da correção do valor incontroverso e a sua correlação com as etapas que estão por vir.
+De sorte que, para se demonstrar de forma suficiente a alegada abusividade das cláusulas ou a incorreção do laudo de avaliação, se faz necessária a instauração de regular contraditório e completa dilação probatória, com a colheita de elementos de
+prova que possam apontar para a patente desproporcionalidade entre a prestação atribuída ao consumidor e as obrigações da administradora de consórcios ou mesmo consubstanciar prova mínima autorizativa da inversão do ônus probatório.
+Ora, em sendo necessária atividade instrutória para embasar os argumentos do agravado, não há indícios suficientes nos autos que traduzam a probabilidade do seu direito e afetem, neste momento, a legitimidade da recusa no pagamento integral da carta de crédito, sendo forçoso reconhecer que, ao deferir a ampliação da tutela provisória de urgência antecipada, o magistrado de 1º grau decidiu de forma contrária à lei e à evidente prova dos autos.
+Sendo assim, a decisão agravada deve ser reformada neste capítulo.
+(..)
+Ante o exposto, VOTO no sentido de DAR PROVIMENTO AO RECURSO para reformar o capítulo impugnado da decisão recorrida e revogar a ampliação da tutela provisória de urgência nele determinada.
+Ao rejeitar os aclaratórios, a Corte de origem entendeu ainda que (e-STJ fls. 98/100):
+Na espécie, inexiste a alegada contradição ou ofensa aos dispositivos legais invocados pelo ora embargante, uma vez que o aresto embargado adotou proposições coerentes entre si, além de ser remansoso o entendimento jurisprudencial no sentido de que "o acolhimento de pedido extraído da interpretação lógicosistemática de toda a argumentação desenvolvida na peça inicial, e não apenas do pleito formulado no fecho da petição, não implica julgamento extra petita" (AgRg no Ag 1351484/RJ, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 20/03/2012, DJe 26/03/2012).
+Veja-se que o ora embargante, ao apresentar contrarrazões suscitando preliminar de inadmissibilidade do recurso, reconheceu que o agravante, a despeito de postular, ao término de suas razões recursais, duas vezes, pela anulação da decisão combatida, trouxe como matéria de fundo a ausência dos requisitos da tutela antecipada, a configurar error in judicando, cujo remédio recursal adequado seria o pedido de reforma da decisão.
+Leia-se:
+(..)
+Do cotejo dos referidos argumentos com a conteúdo do agravo de instrumento, o acórdão embargado, com a adequada ponderação, extraiu o pedido de reforma da decisão agravada, entendendo que o acolhimento da preliminar de inadmissibilidade, como pretendia o ora embargante, importaria em apego a excessivo formalismo contrário ao princípio constitucional do acesso à justiça e da ideia de processo como instrumento da tutela de direitos.
+Em tais condições, constata-se que o Tribunal a quo reformou parcialmente a decisão agravada, sem haver ultrapassado a extensão em que a matéria lhe foi devolvida, a partir de uma interpretação lógico-sistemática do pedido, inexistindo, dessa maneira, julgamento extra petita, por causa de tal proceder.
+Nesse contexto, estando o proceder do aresto impugnado em sintonia com a jurisprudência pacífica desta Corte Superior, aplica-se a Súmula n. 83/STJ no ponto, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítco do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015).
+Segundo assente na jurisprudência das Turmas da Segunda Seção desta Corte Superior, "nos termos dos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (AgInt no REsp n. 1.444.474/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017).
+No mesmo sentido: AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.
+De tais ônus o recorrente não se desincumbiu, pois se limitou a transcrever as ementas dos julgados a partir das quais defendeu a divergência de entendimento jurisprudencial sobre o tema debatido.
+Dessa forma, não bastando tal providência para comprovar o dissídio alegado, é inviável conhecer do recurso no ponto.
+Por fim, rejeito o pedido de condenação do agravante à multa por litigância de má-fé (e-STJ fls. 136/137 e 190/191), visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
