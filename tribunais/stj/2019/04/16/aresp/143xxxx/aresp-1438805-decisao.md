@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravos interpostos contra decisões que não admitiram recursos especiais em que a controvérsia, entre outros temas, aborda a possibilidade de imposição de penalidade de trânsito, no exercício do poder de polícia, por sociedade de economia mista.
+Passo a decidir.
+O Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão jurídica referente à "aplicação de multa de trânsito por sociedade de economia mista", no RE 633782/MG, de relatoria do em. Ministro Luiz Fux (Tema 532).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
