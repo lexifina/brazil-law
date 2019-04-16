@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, a parte embargante traz apenas considerações acerca da matéria de fundo discutida no acórdão de origem e no recurso especial, ao argumento de que deveria "ser aplicado os honorários recursais, majorando honorários advocatícios, entre o mínimo de 10% e 20% sobre o valor atualizado da causa, sob pena de macular o que preconiza o artigo 85,§ 2.º e 11.º do Novo CPC/2015" (fl. 214).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que o agravo em recurso especial sequer foi conhecido em razão do óbice constante da Súmula 182/STJ, sendo descabido qualquer menção ou consideração acerca da matéria meritória de fundo porventura discutida no acórdão proferido pelo Tribunal de origem ou recurso especial.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
