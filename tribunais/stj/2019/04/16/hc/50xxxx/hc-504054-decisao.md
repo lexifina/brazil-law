@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal Regional Federal da 3ª Região (Embargos Infringentes n. 00173752720114036105 - fls. 191/192):
+PROCESSO PENAL. EMBARGOS INFRINGENTES. PENAS. DOSIMETRIA. REPARAÇÃO DE DANOS. PARCIAL PROVIMENTO
+1. As divergências restringem-se à dosimetria da pena e ao cabimento da condenação dos réus à reparação de danos.
+2. Considero que a pena-base fixada no voto vencido é razoável, tendo em vista a sofisticação da conduta da corré, que agiu de modo ardiloso para inserir inúmeros dados falsos em sistemas previdenciários, inclusive sobre determinações judiciais inexistentes ("montagem de sentenças"), bem como em face das consequências do crime (elevado valor desviado dos cofres públicos). Em relação à causa de aumento decorrente da continuidade delitiva, fixada em 2/3 (dois terços) pelo Juízo a quo, tendo em vista as 34 (trinta e quatro) condutas delitivas praticadas pela corré, não houve divergência por ocasião do julgamento pelo Tribunal. Portanto, nos termos do voto vencido, a pena definitiva aplicada à corre é de 7 (sete) anos e 6 (seis) meses de reclusão e 37 (trinta e sete) dias-multa no valor unitário de 1/5 (um quinto) do salário mínimo, em regime inicial semiaberto. Incabível a substituição da pena privativa de liberdade por restritivas de direitos.
+3. O aumento da pena pela continuidade delitiva decorre da quantidade de infrações praticadas, razão pela qual deve prevalecer o voto condutor em relação aos demais corréus.
+4. Ressalvado meu entendimento de que se trata de norma processual, define a competência do juiz criminal para determinar um valor mínimo, o Superior Tribunal de Justiça entende que a fixação de valor mínimo para reparação dos danos causados pela infração, prevista no art. 387, IV, do Código de Processo Penal, com a redação da Lei n. 11.719/08, é norma de direito material, não tem efeitos retroativos e exige que seja deduzido pedido a fim de garantir o contraditório e o devido processo legal (STF, ARE n. 694.158, Rel. Min. Luiz Fux, j. 25.03.14; STJ, REsp n. 1.265.707,Rel. Min. Rogério Schietti Cruz, j. 27.05.14; AgRg no REsp n. 1.383.261, Rel. Min. Sebastião Reis Júnior, j. 17.10.13 e AgRg no AREsp n. 389.234, Rel. Min. Maria Thereza de Assis Moura, j. 08.10.13). No caso dos autos, não há pedido expresso de condenação à reparação dos danos causados pela infração, seja na denúncia e seu aditamento, seja em alegações finais. Portanto, deve prevalecer o voto vencido neste ponto, afastando-se a condenação dos réus à reparação de danos, à míngua de pedido expresso do Ministério Público Federal.
+5. Embargos infringentes providos em parte, para fazer prevalecer o voto vencido apenas no tocante à condenação da corré e à exclusão da fixação do valor mínimo para reparação dos danos causados pela infração nos termos do inciso IV do art. 387 do Código de Processo Penal.
+Aponta-se na impetração uma série de ilegalidades na dosimetria da pena, no tocante à fixação da pena-base, violação da individualização e proporcionalidade, desconsideração da participação de menor importância, além de ter sido considerado na continuidade delitiva um delito a mais do que deveria.
+Alega-se que (fls. 9/14):
+  ..  assim como foi valorada de forma neutra pelo v. acórdão a culpabilidade da corré [NOME], do mesmo modo deve ser valorada a culpabilidade do Paciente [NOME].
+A suposta premeditação não enseja a valoração mais negativa da culpabilidade e não há que se falar na concessão de "inúmeros benefícios para si", eis que apenas 3(três) benefícios foram destinados ao ora Paciente [NOME].
+Ocorre que, no caso em tela, o conjunto das circunstâncias não é desfavorável ao Paciente e sua esposa [NOME], e mesmo assim a pena-base foi fixada em 02(dois) anos e 06(seis) meses acima do mínimo legal, totalizando 04 (quatro) anos e 06 (seis) meses de reclusão.
+Vale enfatizar que, analisadas as oito circunstâncias judiciais constantes do artigo 59 do Código Penal, restaram apenas duas circunstâncias desfavoráveis do Paciente (circunstâncias e conseqüências do crime).
+Sustenta-se que, havendo algumas circunstâncias desfavoráveis ao paciente, a pena-base deve se afastar do mínimo legal, mas de maneira razoável, o que não ocorreu na espécie.
+Aduz-se que, caso o recurso especial seja provido, haverá redimensionamento da pena, adequando-se os regimes iniciais, com possível substituição da pena privativa de liberdade por restritivas de direitos, justificando-se assim a concessão de liberdade ao paciente cujo recurso é reconhecidamente plausível.
+Requer-se a concessão da ordem para que seja conferido efeito suspensivo ao recurso especial, já admitido.
+É o relatório.
+A ilegalidade apontada não ficou, de plano, evidenciada, como seria de rigor nos autos de habeas corpus, de cognição sumária, vedada, como cediço, a ampla incursão em fatos e provas.
+A orientação jurisprudencial desta Corte é no sentido de que a fixação da pena-base - com fundamento nas circunstâncias judiciais do art. 59 do Código Penal - não se dá por critério puramente objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgRg no AREsp n. 138.807/SP, de minha relatoria, Sexta Turma, DJe 11/3/2015).
+A propósito, destaco que:
+ ..  A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada.  ..
+(HC n. 176.405/RO, Ministro Jorge Mussi, Quinta Turma, DJe 3/5/2013)
+ ..
+É devido o aumento da pena-base quando apontados elementos concretos que evidenciam a desfavorabilidade das circunstâncias judiciais, lembrando que a dosimetria da pena submete-se a certa discricionariedade judicial, não obedecendo a critérios rígidos ou puramente objetivos.
+ ..
+(HC n. 170.860/SP, Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), Quinta Turma, DJe 8/3/2013)
+Assim, ausente manifesta ilegalidade, o tema deve ser objeto de apreciação nos autos do recurso especial.
+Por fim, esgotada a prestação jurisdicional nas instâncias ordinárias, não há óbice à execução provisória:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA RELATIVA A CONDENAÇÃO CONFIRMADA EM SEGUNDA INSTÂNCIA. AGRAVO REGIMENTAL AJUIZADO NA CORTE DE ORIGEM CONTRA DECISÃO QUE INADMITIU INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE EFEITO SUSPENSIVO AO RECURSO PENDENTE DE APRECIAÇÃO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Segundo a atual jurisprudência dos Tribunais Superiores é possível a execução provisória da pena quando pendente recurso sem efeito suspensivo.
+2. Na hipótese, o fato de o Tribunal a quo ter julgado o recurso de apelação e os embargos de declaração opostos, evidencia que já houve o esgotamento das instâncias ordinárias.
+3. A interposição de agravo contra a decisão que não admitiu o incidente de uniformização de jurisprudência, pendente de análise, por si só, não suspende a execução antecipada da pena. O sobrestamento dos processos em andamento é previsto somente para os casos em que admitido o mencionado incidente.
+4. Agravo regimental improvido.
+(AgRg no HC 396.347/PE, Sexta Turma, de minha relatoria, DJe 1º/8/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
