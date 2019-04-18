@@ -10,3 +10,5 @@ Art. 20. O benefício de prestação continuada é a garantia de um salário-mí
 § 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo.
 § 10. Considera-se impedimento de longo prazo, para os fins do § 2º deste artigo, aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos.
 § 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar e da situação de vulnerabilidade, conforme regulamento.
+§ 12. São requisitos para a concessão, a manutenção e a revisão do benefício as inscrições no Cadastro de Pessoas Físicas - CPF e no Cadastro Único para Programas Sociais do Governo Federal - Cadastro Único, conforme previsto em regulamento.
+§ 13. O requerimento, a concessão e a revisão do benefício ficam condicionados à autorização do requerente para acesso aos seus dados bancários, nos termos do disposto no inciso V do § 3º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001
