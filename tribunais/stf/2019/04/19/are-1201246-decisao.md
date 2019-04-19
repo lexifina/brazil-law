@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado do Ceará consignou, em síntese:
+    TRABALHISTA. SERVIDORES MUNICIPAIS. DIREITO A ADICIONAL DE INSALUBRIDADE. RECONHECIMENTO POR LEI O MUNICÍPIO. EFEITO EX TUNC.
+    I – Deveras, apesar da garantia de percepção do adicional por atividades insalubres ser prevista na Constituição em seu artigo 7º, inciso XXIII, tal benesse não se encontra estendida aos servidores públicos pelo artigo 39, § 3º, do mesmo diploma, dependendo, portanto, conforme estatuiu o juiz a quo, de regulamentação específica pela Lei do ente que emprega o servidor, para que se possa assegurá-la.
+    II - Não obstante, tal direito fora, efetivamente, reconhecido pelos diplomas municipais, tendo o Estatuto dos Servidores Públicos de Monsenhor Tabosa — Lei 08/77, previsto em seu artigo 188, inciso IV, a gratificação ao funcionário pela execução de trabalho que põe em risco sua vida ou saúde.
+    III - Adicionalmente, a Lei Orgânica do Município de Monsenhor Tabosa de 05.04.1990 prevê em seu artigo 79, 8 1º, a extensão, aos servidores públicos municipais, dos direitos reconhecidos no inciso XXIII, do artigo 7º, da Carta Maior, sendo, face a isso, inequívoco o direito à percepção do adicional de insalubridade.
+    IV - Percebe-se pelos documentos apensados, que as requerentes, exercem, separadamente, os cargos de auxiliar de serviços gerais, auxiliar de enfermagem, auxiliar de parteira e atendente de enfermagem. Todas lotadas no hospital municipal.
+    V - À vista disso, as litigantes interpelaram que a benesse pretendida é devida desde momento em que o servidor se expõe a ambiente insalubre, pois, dada a sua natureza declaratória, tem eficácia ex tunc. Termos em que ratificam o pedido de concessão do adicional por todo o período não abrangido pela prescrição. Diante disso, considerando que a admissão das promoventes remota a período anterior à data da prescrição da ação, torna-se possível a pretensão das mesmas de percepção retroativa do benefício, respeitando o estatuído pelo artigo 1º do Decreto nº 20.910/32.
+    VI - Recurso conhecido e provido.
+    No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 7º, inciso XXIII, e 37, cabeça, da Constituição Federal. Alega representar violação ao princípio da legalidade a determinação de pagamento de adicional de insalubridade aos servidores municipais em período pretérito à edição da Lei municipal nº 247/2009, que regulamentou o benefício no âmbito local.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida à legislação de regência. Procedeu à análise da Lei Orgânica do Município de Monsenhor Tabosa e das Leis Municipais nº 08/77 e nº 247/09. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
