@@ -1,0 +1,1 @@
+Art. 7º A duplicata emitida sob a forma escritural e o extrato de que trata o art. 6º desta Lei são títulos executivos extrajudiciais, devendo-se observar, para sua cobrança judicial, o disposto no art. 15 da Lei nº 5.474, de 18 de julho de 1968.
