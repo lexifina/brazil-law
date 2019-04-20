@@ -1,0 +1,1 @@
+Art. 10. São nulas de pleno direito as cláusulas contratuais que vedam, limitam ou oneram, de forma direta ou indireta, a emissão ou a circulação de duplicatas emitidas sob a forma cartular ou escritural.

@@ -1,0 +1,2 @@
+Art. 5º Constituirá prova de pagamento, total ou parcial, da duplicata emitida sob a forma escritural a liquidação do pagamento em favor do legítimo credor, utilizando-se qualquer meio de pagamento existente no âmbito do Sistema de Pagamentos Brasileiro.
+Parágrafo único. A prova de pagamento de que trata o caput deste artigo deverá ser informada no sistema eletrônico de escrituração previsto no art. 3º desta Lei, com referência expressa à duplicata amortizada ou liquidada.
