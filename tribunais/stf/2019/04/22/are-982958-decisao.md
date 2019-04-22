@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário remetido à origem para que se cumprisse o disposto no art. 1.036 do Código de Processo Civil, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 909, cujo paradigma é o RE-RG 959.489, Rel. Min. Teori Zavascki, DJe 18.8.2016. (eDOC 9)
+    Ocorre que, o Tribunal de origem devolveu os autos a esta Corte, ao fundamento de que o recurso não deveria ser admitido pela ausência do requisito do prequestionamento. (eDOC 17, p. 24).
+    Nesses termos, torno sem efeito a decisão constante da eDOC 4 e passo à apreciação do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. AGRAVO. APLICAÇÃO DO ART. 557, § 1°-A, DO CÓDIGO DE PROCESSO CIVIL. IPTU. RFFSA. SUCESSÃO PELA UNIÃO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. AFASTADA. NOTIFICAÇÃO: AUSÊNCIA DE NULIDADE NA CDA. AGRAVO DESPROVIDO. 1. O artigo 557, § P-A, do Código de Processo Civil, com redação dada pela Lei nº 9.756/98, possibilitou ao relator, através de decisão monocrática, dar provimento a recurso quando a decisão recorrida estiver em manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior, como no presente caso. 2. A questão sub judice já foi analisada pelo Supremo Tribunal Federal - STF que, por votação unânime, deu provimento ao Recurso Extraordinário 599176 (publicado em 13 de junho de 2014), com repercussão geral reconhecida, para assentar que não se aplica o princípio da imunidade tributária recíproca a débito de Imposto Predial e Territorial Urbano (IPTU) devido pela extinta Rede Ferroviária Federal S/A (RFFSA). 3. A jurisprudência do Superior Tribunal de Justiça - STJ é pacífica no sentido de que a remessa da guia de cobrança do IPTU é presumida, sendo ônus do sujeito passivo a comprovação de que tal notificação não se efetuou. Precedente do STJ. 4. Não se vislumbra qualquer nulidade na CDA de f. 2-5, da execução fiscal de n.O 2008.61.82.031219-8, em apenso, uma vez que a mesma contém todos os elementos previstos no artigo 2°, § 5°, da Lei nº 6.830/80, para efeito de viabilizar a execução intentada. 5. Agravo desprovido”. (eDOC 2, p. 42).
+    Foram opostos embargos de declaração, que restaram rejeitados (eDOC 2, p. 73).
+    No recurso extraordinário (eDOC 2, p. 78), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 21, 150 e 175, do texto constitucional.
+    Nas razões recursais, alega-se que esta Corte “não decidiu sobre a questão da imunidade já existente antes da sucessão pela União, dos imóveis da RFFSA”. (eDOC 2, p 85).
+    Aduz, ainda, que a única questão debatida nos autos do RE 599.176 foi a ausência de imunidade constitucional recíproca e não a imunidade da RFFSA pela natureza dos serviços prestados.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Verifico que o acórdão recorrido está em consonância com o decidido por esta Suprema Corte no tema 224 da sistemática de repercussão geral, cujo paradigma é o RE 599.176, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 30.10.2014. Transcrevo a ementa do acórdão:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. INAPLICABILIDADE À RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO. ART. 150, VI, A DA CONSTITUIÇÃO. A imunidade tributária recíproca não exonera o sucessor das obrigações tributárias relativas aos fatos jurídicos tributários ocorridos antes da sucessão (aplicação “retroativa” da imunidade tributária). Recurso Extraordinário ao qual se dá provimento”. (RE 599176, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 30.10.2014).
+    Ademais, acerca da alegada imunidade da Rede Ferroviária Federal S/A - RFFSA, o Tribunal de origem não analisou a matéria, de modo que a questão não foi devidamente prequestionada, atraindo o óbice da Súmula 282 desta Corte.
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF)
+    Publique-se.
+    Brasília, 22 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
