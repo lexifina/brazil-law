@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, complementado em juízo de retratação pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. EXPORTAÇÕES INCENTIVADAS. LEI Nº 7.988/89. ALÍQUOTA DE 18%. LUCRO INFLACIONÁRIO. DIFERIMENTO. INCLUSÃO NA BASE DE CÁLCULO DO TRIBUTO NO ANO-BASE DE 1989, FATO GERADOR PENDENTE. INCIDÊNCIA.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Decreto nº 2.413/88 e Código Tributário Nacional), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 3ª Região, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “Por sua vez, o Decreto-Lei nº 2.413, de 10/02/1988, previa anteriormente as alíquotas de 3% (três por cento) para o exercício financeiro de 1.989 e 6% (seis por cento), a partir do exercício financeiro de 1.990.
+    …...................................................................................................
+    O diferimento da inclusão do lucro inflacionário na base de cálculo do IRPJ não se refere à simples postergação do pagamento do tributo. No caso, a incidência do tributo dar-se-á no período de apuração para o qual foi diferida a sua inclusão na base de cálculo do imposto, na espécie ‘sub judice’, no ano-base de 1.989, exercício 1.990.
+    A lei aplicável é aquela vigente quando da realização do lucro inflacionário, momento em que há incidência do imposto. Trata-se de fato gerador pendente (art. 105, CTN), que somente é concluído com a realização do lucro inflacionário, situação que assume relevância jurídica, passando, assim, a constituir a base de cálculo do imposto, de forma a ensejar a tributação.
+    Como magistralmente esclarece Aliomar Baleeiro, Fato gerador pendente é aquele que se iniciou, mas ainda não se completou pela inexistência de todas as circunstâncias materiais necessárias e indispensáveis à produção de seus efeitos ou desde que se não tenha constituído a situação jurídica em que ele assenta (art. 116 do CTN). Em tais termos, a lei nova, desde que vigente, alcança o fato gerador pendente. (Direito Tributário Brasileiro, 11ª edição, atualizada por Mizabel A. Machado Derzi. Rio de Janeiro: Forense, 2005, p. 663) .
+    Vê-se que o fato gerador do tributo somente ocorreu no ano-base de 1.989, quando adveio a Lei nº 7.988/89, publicada no DOU em 29/12/1989, perfeitamente aplicável ao imposto de renda daquele período.”
+    Cumpre ressaltar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 22 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
