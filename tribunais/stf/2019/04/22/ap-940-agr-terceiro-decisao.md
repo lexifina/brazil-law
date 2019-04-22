@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo regimental interposto pela Procuradoria-Geral da República (PGR) contra decisão proferida às fls. 1428/1429, por meio da qual declinou-se da competência para a Comarca de Boa Vista/RR, considerando o entendimento firmado pelo Tribunal Pleno no julgamento da Questão de Ordem na Ação Penal 937 (QO na AP 937).
+    Sustenta a PGR que toda a instrução da ação penal ocorreu no STF, com a apresentação de alegações finais pelas partes, encontrado-se o feito pronto para julgamento.
+    Deduz o Parquet que a jurisprudência estabelecida a partir da QO na AP 937 estabeleceu um critério definitivo para o deslocamento do feito, ou seja, o marco temporal para o declínio, que seria o encerramento da instrução.
+    Por esses motivos, pugna pelo recebimento do recurso e reconsideração da decisão agravada, a fim de que o processo seja mantido nesta Suprema Corte.
+    É o breve relatório.
+    O cabimento de agravo regimental contra decisões proferidas pelo Relator possui amparo no art. 317 do RISTF, in verbis:
+    “Art. 317. Ressalvadas as exceções previstas neste Regimento, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte.
+    § 1º A petição conterá, sob pena de rejeição liminar, as razões do pedido de reforma da decisão agravada.
+    § 2º O agravo regimental será protocolado e, sem qualquer outra formalidade, submetido ao prolator do despacho, que poderá reconsiderar o seu ato ou submeter o agravo ao julgamento do Plenário ou da Turma, a quem caiba a competência, computando-se também o seu voto.”.
+    O recurso foi interposto dentro do prazo de 5 (cinco) dias, sendo, portanto, tempestivo. Além disso, foi apresentado por parte legítima, tendo sido observado todos os pressupostos e requisitos processuais, razão pela qual deve ser conhecido.
+    Em relação à retratação, o §2º do art. 317 do RISTF prevê a possibilidade de sua análise imediata, “sem qualquer outra formalidade”.
+    Embora entenda-se que deva ser privilegiado, como regra, o contraditório a ser exercido pela parte contrária, mediante a apresentação de contrarrazões, observo que a irresignação deduzida no recurso se refere exclusivamente à questão jurídica relativa aos parâmetros de aplicação do precedente firmado na QO na AP 937.
+    Além disso, os fatos discutidos nestes autos ocorreram há bastante tempo, existindo risco concreto de prescrição, conforme deduzido pelo PGR, o que demanda uma atuação célere e enérgica por parte desta Corte. Não é demais assinalar que caso a parte contrária se sinta prejudicada, poderá interpor novo agravo regimental contra a decisão aqui proferida, que poderá ser levado a julgamento perante a Turma junto com as demais questões pendentes nestes autos.
+    Quanto ao mérito do recurso, no julgamento da já mencionada QO na AP 937, o STF fixou que a finalização da instrução processual, com a publicação de despacho para apresentação de alegações finais, constituiria óbice intransponível para eventuais modificações supervenientes da competência por prerrogativa de função, decidindo inclusive pela aplicação imediata dessa nova linha interpretativa aos processos em curso.
+    Nesse sentido, confira-se o seguinte trecho:
+    “[...]   III. Conclusão 6. Resolução da questão de ordem com a fixação das seguintes teses: ‘(i) O foro por prerrogativa de função aplica-se apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas; e (ii) Após o final da instrução processual, com a publicação do despacho de intimação para apresentação de alegações finais, a competência para processar e julgar ações penais não será mais afetada em razão de o agente público vir a ocupar cargo ou deixar o cargo que ocupava, qualquer que seja o motivo”. 7. Aplicação da nova linha interpretativa aos processos em curso. Ressalva de todos os atos praticados e decisões proferidas pelo STF e demais juízos com base na jurisprudência anterior.
+    (AP 937 QO, Relator(a):  Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 03/05/2018, ACÓRDÃO ELETRÔNICO DJe-265 DIVULG 10-12-2018 PUBLIC 11-12-2018)
+    Considerando que no caso em análise já houve o encerramento da instrução e a apresentação de alegações finais por parte da acusação e da defesa, entendo que procede a irresignação do Ministério Público, uma vez que se trata de hipótese de prorrogação da competência do STF para julgamento do feito.
+    Ante o exposto, com base no art. 317, §2º, do RISTF, reconsidero a decisão anteriormente proferida para determinar a manutenção do feito perante esta Corte, para julgamento definitivo do feito.
+    Publique-se. Intimem-se. Após a preclusão dessa decisão, voltem os autos imediatamente conclusos, tendo em vista o risco de prescrição suscitado pela PGR.
+    Brasília, 22 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
