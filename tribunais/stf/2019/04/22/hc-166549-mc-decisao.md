@@ -1,0 +1,16 @@
+Decisão: Trata-se de pedido formulado pela defesa de JOÃO RODRIGUES, para que se determine a imediata diplomação e posse do paciente no mandato de Deputado Federal, considerando a liminar deferida nestes autos.
+    É o relatório.
+    O objeto do presente habeas corpus restringe-se ao ato coator do STJ que indeferiu o pedido de suspensão dos efeitos condenatórios em sede de revisão criminal ajuizada perante o TRF4, o que estaria ameaçando a liberdade e o exercício dos direitos políticos do paciente.
+    Nesse sentido, na petição inicial, os impetrantes pugnaram pela suspensão dos “efeitos do acórdão condenatório até o julgamento final deste writ, uma vez que presentes os pressupostos cautelares do fumus boni juris (art. 648, incs I, VI e VII, do CPP) e do periculum libertatis (Deputado Federal, em pleno exercício do mandato, cumprindo pena em regime semiaberto e perigo concreto de que a inelegibilidade reconhecida pelo e. TRE-SC e mantida no e. TSE, venha se tornar irreversível [...]”.
+    Embora tenham sido feitas referências às decisões proferidas pelo TRE-SC e TSE, a impetração dirigiu-se contra a não suspensão, pelo STJ, dos efeitos penais decorrentes da condenação.
+    Desta feita, considerando que a execução provisória da pena já tinha sido suspensa por decisão proferida pela Presidência do STJ, a liminar deferida nestes autos limitou-se a afastar a inelegibilidade que decorria da condenação criminal por pena prescrita e sem comprovação de dolo específico.
+    Não obstante, o deferimento do registro da candidatura e a diplomação e posse do paciente demanda a análise de diversas outras questões e requisitos eleitorais não diretamente relacionados ao processo penal e à condenação imposta ao paciente, como a exigência de filiação partidária, a apresentação de declaração de bens, a juntada de certidão de quitação eleitoral, o cômputo dos votos recebidos pelo paciente, o cálculo do coeficiente eleitoral e a própria possibilidade de se deferir o pleito após o prazo fixado pela legislação e a expedição de diploma a outro candidato. Esses dados e requisitos não constam dos autos e nem foram objeto de impugnação.
+    Portanto, as consequências da liminar deferida, em relação ao pleito eleitoral de 2018, devem ser analisadas pela Justiça Eleitoral, especialmente pelo TSE, onde tramita o recurso do paciente contra o indeferimento do registro de candidatura.
+    Registre-se que o paciente poderá interpor recurso extraordinário contra eventual decisão denegatória do TSE que eventualmente viole a Constituição (art. 102, III, c/c art. 121, §3º, ambos da CF/88). Poderá ainda adotar outras medidas que entender cabíveis, razão pela qual o conhecimento da questão posta neste momento representaria supressão de instância e indevida ampliação do objeto da ação.
+    Portanto, incabível a pretendida ampliação da legitimidade passiva para inclusão, na condição de autoridades coatoras, dos Tribunais eleitorais, assim como também não se demonstra possível a extensão do objeto desta ação para abranger as decisões proferidas pelo TRE-SC e TSE, de modo a se determinar a imediata diplomação do paciente.
+    Pelo exposto, indefiro os pedidos formulados.
+    Publique-se. Intimem-se.
+    Brasília, 22 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
