@@ -1,0 +1,18 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (Vol. 20, e-STJ, fl. 1.467):
+    PROCESSUAL PENAL. ARTIGO 297, § 1°, DO CÓDIGO PENAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. INOCORRÊNCIA DE NULIDADE DAS PROVAS. FALSIFICAÇÃO DE PARECER JURÍDICO APRESENTADO À JUSTIÇA DO TRABALHO. AUTORIA E MATERIALIDADE COMPROVADAS.
+    1. In casu, a atividade exercida pelo Ministério Público do Trabalho, consubstanciada em encaminhar à Procuradoria da República os documentos informativos de falsificação de parecer jurídico encartado aos autos de reclamação trabalhista, não implica qualquer violação a dispositivos constitucionais e infraconstitucionais atinentes às atribuições do Ministério Público (artigo 129 da CF/88 e Lei Complementar n° 5/93), razão porque não há nulidade a ser declarada.
+    2. O crime de falsificação de documento público (artigo 297 do Código Penal) constitui crime de perigo abstrato e, por essa razão, para configurar o risco de dano à fé pública é suficiente a falsificação ou alteração de documento público, feto que restou sobejamente comprovado nos autos.
+    3. Comprovado, de forma irrefutável, que os réus, na qualidade de representantes judiciais de sociedade de economia mista, adulteraram parecer jurídico apresentado nos autos de reclamação trabalhista, resta caracterizada a conduta delitiva descrita no artigo 297, § 1°, do Código Penal. Condenação que se mantém ante o extenso acervo probatório contido nos autos.
+    4. Apelações parcialmente providas.
+    No apelo extremo, interposto com amparo no art. 102, III, alínea “a” da Constituição Federal, a recorrente sustenta que o acórdão violou dispositivos constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O Plenário do SUPREMO TRIBUNAL FEDERAL, na análise do RE 593.727 (Rel. Min. CEZAR PELUSO, Rel. P/ Acórdão Min. GILMAR MENDES, Tema 184, DJe de 8/9/2015), fixou tese no sentido de que o Ministério Público dispõe de competência para promover, por autoridade própria, e por prazo razoável, investigações de natureza penal, desde que respeitados os direitos e garantias que assistem a qualquer indiciado ou a qualquer pessoa sob investigação do Estado, observadas, sempre, por seus agentes, as hipóteses de reserva constitucional de jurisdição e, também, as prerrogativas profissionais de que se acham investidos, em nosso País, os Advogados (Lei nº 8.906/94, art. 7º, notadamente os incisos I, II, III, XI, XIII, XIV e XIX), sem prejuízo da possibilidade - sempre presente no Estado democrático de Direito - do permanente controle jurisdicional dos atos, necessariamente documentados (Súmula Vinculante nº 14), praticados pelos membros dessa Instituição.
+    O acórdão recorrido decidiu no mesmo sentido da jurisprudência desta CORTE, razão pela qual não merece reparos.
+    Por fim, verifica-se que o aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, deu parcial provimento aos apelos defensivos mantendo, no que importa ao presente apelo, a condenação das recorrentes pelo delito previsto no art. 297 do Código Penal. Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional. Inviável, ademais, o reexame de provas em sede de recurso extraordinário, conforme Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 22 de abril de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
