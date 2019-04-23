@@ -1,0 +1,114 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. LATROCÍNIO. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVA PERICIAL. INDEFERIMENTO MOTIVADO. INOBSERVÂNCIA DO ART. 212 DO CPP. NULIDADE RELATIVA. PAS DE NULLITÉ SANS GRIEF. PREJUÍZO NÃO DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Segundo entendimento pacífico desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo.
+3. Vige na lei processual brasileira o princípio da livre apreciação da prova, o qual faculta ao magistrado o indeferimento, de forma fundamentada, das providências que julgar protelatórias, irrelevantes ou impertinentes, conforme verifica a sua necessidade ou não para a elucidação dos fatos, sem que isso cause cerceamento de defesa.
+4. No caso em exame, as instâncias ordinárias, motivadamente, indeferiram o requerimento da prova pericial (exame balístico), ante a desnecessidade frente ao acervo probatório produzido que restou suficiente para o deslinde da causa.
+5. Embora o acusado no processo penal tenha o direito à produção da prova necessária a dar embasamento à tese defensiva, deve ser justificada pela parte a sua imprescindibilidade, o que não se verifica ter ocorrido na hipótese.
+6. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a inversão na ordem prevista no art. 212 do CPP é passível de nulidade relativa, devendo ficar demonstrada a efetiva comprovação do prejuízo, o que não ocorreu no caso.
+7. O entendimento do Tribunal a quo encontra-se em total convergência com a jurisprudência consolidada desta Corte Superior acerca da possibilidade de o juiz formular perguntas às partes, afastando qualquer alegação de nulidade frente a não demonstração de prejuízo.
+8. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em favor de DOUGLAS CARVALHO DA SILVA e JEAN LUIZ MELLO DA MOTTA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Na origem, constata-se a condenação dos pacientes à pena de 20 anos de reclusão, em regime fechado, pela prática do crime do art. 157, § 3º, c.c. 65, I e III, d, do Código Penal.
+O TJRS negou provimento ao apelo defensivo nos termos da seguinte ementa:
+" APELAÇÕES CRIMINAIS. LATROCÍNIO.
+1. PRELIMINARES.
+NULIDADE DA AUDIÊNCIA DE INSTRUÇÃO POR INOBSERVANCIA DO ART. 212, PARÁGRAFO ÚNICO, DO CPP. AFASTAMENTO. A recente inovação processual trazida pela Lei n. 11690/2008, no âmbito do art. 212 e parágrafo único, do CP, proporcionou que as partes formulem as perguntas diretamente ás testemunhas, podendo o juiz complementar o questionamento sempre que entender necessário, sem torná-lo, outrossim, um mero espectador na coleta da prova. Assim, a circunstância de o juiz ter questionado uma testemunha no curso da instrução não constitui afronta aos ditames do referido artigo legal.
+CERCEAMENTO DE DEFESA. PERÍCIA. INDEFERIMENTO. A realização de perícia deve ser relevante ao esclarecimento da verdade. Existindo provas suficientes nos autos para identificação da autoria e configuração prática delitiva, inclusive outros exames periciais, desnecessária a produção.
+2. AUTORIA. Prnisão em flagrante e confissão dos réus, corroborada pelos demais elementos probatórios dos autos, toma inquestionável a prática delitiva.
+3. CONCURSO. DE PESSOAS. Devidamente demonstrada nos autos a efetiva participação de ambos os réus no assalto.
+4. PARTICIPAÇÃO DOLOSA DISTINTA OU DE MENOR IMPORTÂNCIA. IMPOSSIBILIDADE. Se os réus entraram armados no estabelecimento, anunciaram o assalto e arrecadaram os bens, momento em que um deles efetuou disparo contra a vítima causando sua morte, os dois respondem pela prática de latrocínio. A morte é conseqüência previsível, nesta espécie de ação.
+5. MAJORANTES DE EMPREGO DE ARMA E CONCURSO DE AGENTES. INVIABILIDADE DE RECONHECIMENTO NO ROUBO QUALIFICADO PELO RESULTADO. Utilização de arma de fogo e concurso de agentes devidamente demonstrados pela prova dos autos. Circunstâncias, todavia, desconsideradas na sentença pelo reconhecimento da hipótese de roubo qualificado pelo resultado.
+Reconhecido o cometimento de roubo qualificado pelo resultado (morte) incabível a incidência das m ajorantes previstas no art. 157, §20, do ÇP.
+6. PENA DE MULTA- ISENÇÃO. INVIABILIDADE. A pena de multa, cumulativamente cominada ao delito, nâo pode deixar de ser aplicada pelo juiz da sentença, em face do principio da legalidade, ainda que o réu seja pobre, mesmo porque pobreza não é causa de imunidade penal.
+PRELIMINARES REJEITADAS. RECURSOS DESPROVIDOS".
+Neste writ, destaca a defesa nulidade em razão do indeferimento do pleito de realização de perícia balística no revólver.
+Assevera, ainda, inobservância do art. 212 do Código de Processo Penal.
+Pugna pela concessão da ordem para que seja anulado o processo a partir da audiência de instrução, bem como seja determinada a realização da perícia.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal opinou pelo não conhecimento da ordem.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. LATROCÍNIO. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVA PERICIAL. INDEFERIMENTO MOTIVADO. INOBSERVÂNCIA DO ART. 212 DO CPP. NULIDADE RELATIVA. PAS DE NULLITÉ SANS GRIEF. PREJUÍZO NÃO DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Segundo entendimento pacífico desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo.
+3. Vige na lei processual brasileira o princípio da livre apreciação da prova, o qual faculta ao magistrado o indeferimento, de forma fundamentada, das providências que julgar protelatórias, irrelevantes ou impertinentes, conforme verifica a sua necessidade ou não para a elucidação dos fatos, sem que isso cause cerceamento de defesa.
+4. No caso em exame, as instâncias ordinárias, motivadamente, indeferiram o requerimento da prova pericial (exame balístico), ante a desnecessidade frente ao acervo probatório produzido que restou suficiente para o deslinde da causa.
+5. Embora o acusado no processo penal tenha o direito à produção da prova necessária a dar embasamento à tese defensiva, deve ser justificada pela parte a sua imprescindibilidade, o que não se verifica ter ocorrido na hipótese.
+6. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a inversão na ordem prevista no art. 212 do CPP é passível de nulidade relativa, devendo ficar demonstrada a efetiva comprovação do prejuízo, o que não ocorreu no caso.
+7. O entendimento do Tribunal a quo encontra-se em total convergência com a jurisprudência consolidada desta Corte Superior acerca da possibilidade de o juiz formular perguntas às partes, afastando qualquer alegação de nulidade frente a não demonstração de prejuízo.
+8. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se evidencia manifesto constrangimento ilegal a justificar a concessão da ordem, de ofício.
+Segundo entendimento pacífico desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo.
+Há muito, esta Corte assim se manifesta:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. RECEPTAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. INTERCEPTAÇÕES TELEFÔNICAS. ALEGAÇÃO DE NULIDADE DAS PRORROGAÇÕES. NECESSIDADE COMPROVADA. RECONHECIMENTO PESSOAL. NULIDADE. PREJUÍZO NÃO DEMONSTRADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+I - Não se divisa qualquer ilegalidade nas escutas telefônicas, ou nas provas delas derivadas, quando as instâncias ordinárias, de acordo com a complexidade do caso, evidencia a necessidade de sua autorização ou prorrogação, desde que atendidos os requisitos legais e em estreita observância aos critérios de indispensabilidade e razoabilidade.
+II - A declaração de nulidade de ato processual não pode prescindir da demonstração do prejuízo, em face do princípio pas de nullité sans grief, previsto no art. 563 do Código de Processo Penal.
+III - Não há que se falar em ilegalidade na fixação da pena-base acima do mínimo legal quando as instâncias ordinárias, apresentando fundamentação concreta, concluem que as circunstâncias do crime revelam sua gravidade concreta, exigindo resposta penal mais contundente.
+Agravo regimental desprovido." (AgRg no AREsp 567.997/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/08/2016 - grifou-se.)
+"RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. APELAÇÃO. QUORUM. MAIORIA. JUÍZES CONVOCADOS. PRINCÍPIO DO JUIZ NATURAL. MATÉRIA CONSTITUCIONAL. DISPOSITIVO VIOLADO. SÚMULA N. 284 DO STF. MAGISTRADO IMPEDIDO. PREQUESTIONAMENTO. ACÓRDÃO UNÂNIME. QUESITOS. NULIDADE. PRECLUSÃO. AUSÊNCIA DE PREJUÍZO. SEGUNDA APELAÇÃO. MESMO FUNDAMENTO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INCABÍVEL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Inviável o conhecimento do recurso especial por violação ao princípio do juiz natural, pois a matéria é de cunho eminentemente constitucional (art. 5º, XXXVII e LIII, da CF/88) e não foi indicado o dispositivo violado (Súmula n. 284 do STF).
+2. Não tendo sido impugnado por meio de embargos de declaração o pleito de nulidade decorrente de impedimento de magistrado no julgamento colegiado, ausente o prequestionamento. Ademais, o referido óbice, ainda que capaz de promover a nulidade do voto do magistrado, não é suficiente para, por si só, acarretar a nulidade do julgado quando evidenciado que a participação do julgador não foi decisiva para o resultado, como na hipótese, em que o decisum foi unânime.
+3. A alegação de nulidade por vício na quesitação deverá ocorrer no momento oportuno, isto é, após a leitura dos quesitos e a explicação dos critérios pelo Juiz presidente, sob pena de preclusão, nos termos do art. 571 do CPP. Ademais, em matéria de nulidade, aplica-se o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa.
+4. Esta Casa já pacificou que, embora sejam diversos os argumentos alegados nas apelações criminais, interpostas com fulcro na mesma alínea (art. 593, III, "d", do CPP), ou seja, decisão manifestamente contrária à prova dos autos, o segundo recurso encontra óbice no art. 593, § 3º, do CPP, o qual não pode ser flexibilizado pelo Tribunal de origem. Entendimento que atrai o óbice da Súmula n. 83 deste Superior Tribunal.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido." (REsp 1111241/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 01/08/2016 - grifou-se.)
+Colhe-se do voto condutor do acórdão atacado:
+"2.1.1. Preliminar de nulidade da audiência por inobservância do art. 212, parágrafo único, do CPP2 Deve ser rechaçada a presente preliminar, porquanto o referido dispositivo legal não veda ao magistrado a formulação de perguntas às partes, estabelecendo, outrossim, como novidade, que as peIrguntas serão dirigidas pelas partes diretamente á testemunha. Portanto, a inovação processual em comento não tem o alcance que quer lhe dar a defesa, e que tomaria o magistrado como mero espectador da coleta da prova. Não é esta a intenção da novel legislação acerca do tema.
+Nesse sentido a jurisprudência:
+(..)
+No mais, importa esclarecer que, no caso concreto, a atuação do magistrado não teve por finalidade suprir a ausência do Ministério Público (fi. 219) em uma das várias audiências realizadas, limitando-se a perquirir uma testemunha (fis. 2231225) acerca da conduta social do réu Douglas, porquanto meramente abonatória, nada mais.
+2.1.2. Nulidade por cerceamento de defesa Quanto à alegação de cerceamento de defesa diante do indeferimento de prova anteriormente concedida, da mesma forma, sem razão a defesa.
+Segundo os autos, a defesa postulou a realização de perícia balística no revólver apreendido e projétil retirado do corpo da vítima (fl. 151), a qual restou deferida (fl. 157v).
+No entanto, a decisão foi revista ao final da instrução, neste sentido:
+Considerando-se a confissão dos acusados e prova oral coletada, INDEFIRO o pedido da defesa quanto à realização de exame de balistica, porquanto desnecessário ao deslinde do feito.
+Encerro a instrução e abro prazo para apresentação de memoriais.
+Pois bem, no presente caso, com efeito, conforme se verá adiante na análise do conjunto probatório, desnecessária a realização de tal perícia em vista das efetuadas (auto de exame de corpo de delito de lis.
+200/201 e exame pericial realizado no local da morte de fls. 242/259), confissão dos réus e demais prova oral colhida.
+Dispõe o CPP:
+Ar. 184. Salvo o caso de exame de corpo de delito, o juiz ou a autoridade policial negará a pericia requerida pelas partes, quando não for necessária ao esclarecimento da verdade.
+Outrossim, sequer justifica a defesa a necessidade da realização e eventual prejuízo efetivo sofrido pelo réu.
+Assim sendo, rejeito as preliminares".
+Como se vê, as instâncias ordinárias, motivadamente, indeferiram o requerimento da prova pericial (exame balístico), ante a desnecessidade frente ao acervo probatório produzido que restou suficiente para o deslinde da causa.
+Por certo, vige, na nossa lei processual, o princípio da livre apreciação da prova, o qual faculta ao magistrado o indeferimento, de forma fundamentada, das providências que julgar protelatórias, irrelevantes ou impertinentes, conforme verifica a sua necessidade ou não para a elucidação dos fatos, sem que isso cause cerceamento de defesa. Embora o acusado no processo penal tenha o direito à produção da prova necessária a dar embasamento à tese defensiva, deve ser justificada pela parte a sua imprescindibilidade, o que não se verifica ter ocorrido na hipótese.
+Nesse mesmo sentido, orienta-se a jurisprudência desta Corte Superior de Justiça:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O PATRIMÔNIO. FURTO. INDEFERIMENTO FUNDAMENTADO DE DILIGÊNCIAS. AFERIÇÃO DE NECESSIDADE. SÚMULA 7 DO STJ. ASPECTO ATINENTE À DATA DA ASSINATURA DO CONTRATO NÃO IMPUGNADA. SÚMULA 283 DO STF.
+1. Conforme jurisprudência pacífica desta Corte, "o indeferimento de produção de provas é ato norteado pela discricionariedade regrada do julgador, podendo ele, portanto, soberano que é na análise dos fatos e das provas, indeferir, motivadamente, as diligências que considerar protelatórias e/ou desnecessárias, nos termos preconizados pelo § 1º do art. 400 do Código de Processo Penal." (HC 180.249/SP, rel. Min. MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 04/12/2012).
+2. Hipótese em que o indeferimento das provas requisitadas deu-se de forma justificada, à vista da sua inutilidade, uma vez que a verificação de eventual necessidade, na via do recurso especial, esbarra na dicção da Súmula 7, por demandar exame aprofundado do material fático, sendo certo, ademais, que a agravante deixou de apontar o efetivo prejuízo decorrente da negativa.
+3. Não tendo a ré deduzido no apelo nobre o aspecto alusivo à data da assinatura do contrato e os seus reflexos na seara penal, é de rigor a aplicação da Súmula 283 do STF.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 610.310/RJ, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 30/06/2015, DJe 04/08/2015).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. JUÍZES QUE ATUARAM NO INQUÉRITO POLICIAL ARROLADOS COMO TESTEMUNHA DE DEFESA. EXCLUSÃO DO ROL APRESENTADO NA RESPOSTA À ACUSAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PERÍCIA.
+INDEFERIMENTO MOTIVADO. PROVAS IRRELEVANTES. RECURSO NÃO PROVIDO.
+1. O indeferimento fundamentado da produção de prova irrelevante, impertinente ou protelatória para o julgamento da causa não constitui cerceamento de defesa, mas providência coerente com o devido processo legal e com o princípio da razoável duração do processo, máxime porque o magistrado deve fiscalizar a estratégia processual adotada pelas partes e velar para que a relação processual seja pautada pelo princípio da boa-fé objetiva.
+ ..
+3. O indeferimento de perícia considerada desnecessária é ato norteado pela discricionariedade regrada do juiz, consoante o disposto no art. 184 do CPP. Ademais, o Juízo de primeiro grau destacou que poderá, "se for o caso, determinar, até de ofício, reprodução de provas úteis à instrução".
+4. Consoante a jurisprudência desta Corte Superior, o habeas corpus não comporta reavaliação sobre a pertinência da prova, por demandar exame de fatos, inviável na via estreita.
+5. Recurso ordinário não provido."
+(RHC 42.890/MA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/04/2015, DJe 22/04/2015).
+Outrossim, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a inversão na ordem prevista no art. 212 do CPP é passível de nulidade relativa, devendo ficar demonstrada a efetiva comprovação do prejuízo, o que não ocorreu no caso.
+No caso em apreço, o entendimento do Tribunal a quo encontra-se em total convergência com a jurisprudência consolidada desta Corte Superior acerca da possibilidade de o juiz formular perguntas às partes, afastando qualquer alegação de nulidade frente a não demonstração de prejuízo.
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. MANUTENÇÃO DA DECISÃO ATACADA. FORMULAÇÃO DE PERGUNTAS PELO JUIZ. VIOLAÇÃO AO ART. 212 DO CPP. NÃO OCORRÊNCIA. NULIDADE RELATIVA. NÃO ALEGAÇÃO NO MOMENTO OPORTUNO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+1. Segundo o entendimento majoritário desta Corte, não há qualquer vício a ser sanado nas hipóteses em que o Magistrado, condutor do processo, formula perguntas às testemunhas sobre os fatos constantes da denúncia, mormente nas hipóteses em que a defesa não se insurge no momento oportuno e que não há demonstração de efetivo prejuízo (art. 563 do CPP).
+2. As modificações introduzidas ao art. 212 do Código de Processo Penal, não retiraram do juiz a possibilidade de formular perguntas às testemunhas, a fim de complementar a inquirição.
+3. Eventual inobservância ao disposto no art. 212 do Código de Processo Penal gera nulidade meramente relativa, sendo necessário para seu reconhecimento a alegação no momento oportuno e a comprovação do efetivo prejuízo, o que não ocorreu no presente caso.
+4. Constrangimento ilegal não verificado.
+5. Agravo regimental improvido." (AgInt no HC 246.968/ES, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 19/4/2016).
+"HOMICÍDIO QUALIFICADO E LESÃO CORPORAL. NULIDADE. RITO ADOTADO EM AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. SISTEMA ACUSATÓRIO. EXEGESE DO ARTIGO 212 DO CÓDIGO DE PROCESSO PENAL, COM A REDAÇÃO DADA PELA LEI 11.690/2008. EIVA RELATIVA. DEFESA SILENTE DURANTE A REALIZAÇÃO DO ATO. PRECLUSÃO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO CONCRETO À DEFESA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. A nova redação dada ao artigo 212 do Código de Processo Penal, em vigor a partir de agosto de 2008, determina que as vítimas, testemunhas e o interrogado sejam perquiridos direta e primeiramente pela acusação e na sequência pela defesa, possibilitando ao magistrado complementar a inquirição quando entender necessário quaisquer esclarecimentos.
+2. É cediço que, no terreno das nulidades no âmbito do processo penal, vige o sistema da instrumentalidade das formas, no qual se protege o ato praticado em desacordo com o modelo legal caso tenha atingido a sua finalidade, cuja invalidação é condicionada à demonstração do prejuízo causado à parte, ficando a cargo do magistrado o exercício do juízo de conveniência acerca da retirada da sua eficácia, de acordo com as peculiaridades verificadas no caso concreto.
+3. Na hipótese em apreço, o ato impugnado atingiu a sua finalidade, ou seja, houve a produção das provas requeridas, sendo oportunizada às partes a formulação de questões às testemunhas ouvidas, respeitando-se o contraditório e a ampla defesa constitucionalmente garantidos, motivo pelo qual não houve qualquer dano efetivo aos pacientes.
+4. Eventual inobservância à ordem estabelecida no artigo 212 do Código de Processo Penal caracteriza vício relativo, devendo ser arguido no momento processual oportuno, com a demonstração do prejuízo suportado pela parte, sob pena de preclusão.
+5. Constatando-se que a defesa dos pacientes permaneceu silente durante a audiência de instrução e julgamento, vindo a arguir a irregularidade somente em alegações finais, a pretensão da impetrante encontra-se fulminada pelo instituto da preclusão.
+6. Habeas corpus não conhecido." (HC 339.946/RS, REL. Ministro JORGE MUSSI, QUINTA TURMA, DJe 13/4/2016).
+Desse modo, não se verifica nulidade frente a não demonstração de prejuízo à parte, motivo pelo qual inexiste cerceamento de defesa por violação do devido processo legal, apto a justificar a concessão da ordem por esta Corte.
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
