@@ -1,0 +1,15 @@
+DECISÃO
+MANDADO DE SEGURANÇA – PERDA DE OBJETO.
+    1. O assessor Dr. William Akerman Gomes assim retratou o caso:
+    Luiz Paulo Teixeira Ferreira e José Nobre Guimarães, deputados federais, líder e vice-líder da minoria na Câmara dos Deputados, insurgem-se contra ato atribuído ao Presidente da Casa Legislativa, mediante o qual estabelecida sistemática de exame e votação de parecer da Comissão de Constituição e Justiça e de Cidadania cujo objeto é a autorização para seguimento de denúncia formalizada, pelo Procurador-Geral da República, em desfavor dos então Presidente da República, Michel Elias Temer Lulia, e Ministros de Estado Eliseu Lemos Padilha e Wellington Moreira Franco.
+    Sob o ângulo do risco, destacaram o agendamento, para o dia 25 de outubro de 2017, quarta-feira, da reunião plenária de votação do parecer. Pediram, liminarmente, a suspensão da sessão deliberativa. No mérito, requerem a anulação do ato questionado, para que outro seja formalizado, sem os vícios versados na petição inicial.
+    Em 24 de outubro de 2017, Vossa Excelência não acolheu o pedido de medida acauteladora e solicitou informações ao impetrado.
+    O Presidente da Câmara dos Deputados, nas informações, sublinha a veiculação, em questão de ordem, no âmbito da citada Comissão, do tema do fracionamento da votação da autorização de seguimento de processo criminal em face das pessoas indicadas. Diz dirimida a questão de ordem e noticia a interposição do recurso nº 261/2017. Assevera não ter havido pronunciamento do Presidente da Câmara ao tempo da impetração, a revelar, segundo sustenta, o descabimento do mandado de segurança. Narra o posterior indeferimento do recurso quanto ao pretendido fracionamento da autorização. Aponta a aprovação, em 25 de outubro de 2017, de parecer da Comissão pela inadmissibilidade da instauração do processo criminal. Postula o indeferimento da ordem.
+    O Ministério Público Federal manifesta-se pela extinção do processo sem apreciação do mérito, ou, sucessivamente, pelo indeferimento da ordem. Sublinha ter sido o pronunciamento atacado substituído por outro ato decisório, que, conforme anota, não é objeto da impetração. Aduz inexistir limitação ao exercício do direitos dos acusados. Ressalta haver a Câmara dos Deputados negado a autorização.
+    2. O móvel do mandado de segurança mostrou-se único – sistemática de exame e votação de parecer da Comissão de Constituição e Justiça e de Cidadania cujo objeto é a autorização para instauração de processo ante denúncia formalizada, pelo Procurador-Geral da República, contra os então Presidente da República, Michel Elias Temer Lulia, e Ministros de Estado Eliseu Lemos Padilha e Wellington Moreira Franco.
+    Em virtude do término do mandato do Chefe do Executivo e da exoneração dos Ministros de Estado, tem-se a perda superveniente do interesse processual.
+    3. Declaro o prejuízo, considerada a perda de objeto, do mandado de segurança.
+    4. Publiquem.
+Brasília, 23 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
