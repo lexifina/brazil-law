@@ -1,0 +1,36 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONSUMIDOR. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, ERRO OU OBSCURIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), não sendo esse o caso dos autos.
+2. O juízo de admissibilidade é prévio e prejudicial ao juízo de mérito, de modo que, não ultrapassado o primeiro, não se adentra o segundo.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de embargos de declaração, opostos por SINDICATO DA IND DE MATERIAL PLÁSTICO E RESINAS DO ESTADO DA PB, contra v. acórdão da Quarta Turma do Superior Tribunal de Justiça, desta Relatoria, assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+1. É inviável o agravo interno previsto no art. 1.021 do CPC/2015 que deixa de impugnar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido." (fl. 787)
+Nas razões dos aclaratórios, o sindicato embargante alega, em síntese, que houve omissão quanto à análise dos fundamentos do agravo interno. Aduz que demonstrou que a hipossuficiência estava incontroversa no acórdão objurgado e que não seria necessário adentrar o cotejo fático-probatório para a análise da tese.
+Alega que a decisão monocrática não se baseou apenas na aplicação da Súmula 7/STJ, mas também afirmou que a conduta da ré, concessionária de energia elétrica, por estar em consonância com ato emanado da ANEEL, seria lícita, tendo tal fundamento sido especificamente impugnado nas razões do agravo interno.
+Sustenta que a Turma não se debruçou sobre estes argumentos que, sem dúvida, levam à impugnação específica dos fundamentos da decisão monocrática.
+Ao final, requer a análise dos fatos e argumentos que não foram analisados no acórdão e a reforma do acórdão para reconhecer a incidência da regra do ônus da prova em prol do consumidor e o acolhimento da tese de que houve cobrança abusiva efetuada em prejuízo do consumidor.
+Apresentada impugnação às fls. 801/805.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão, não sendo admitida sua oposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, pois os embargos não são aptos a provocar novo julgamento da lide.
+O agravo interno interposto pelo embargante não foi conhecido em razão da inobservância da reiterada jurisprudência desta Corte Superior, no sentido de que o agravo interno deve atacar especificamente os fundamentos da decisão agravada, não tendo a parte agravante impugnado o único fundamento para negar provimento à decisão agravada, qual seja a incidência da Súmula 7/STJ na análise das questões referentes à verificação da necessidade de inversão do ônus da prova em favor do consumidor e da alegada comprovação da prática de conduta ilícita pela parte recorrida.
+Ademais, ao contrário do que afirma o embargante, não houve reconhecimento da prática de conduta ilícita pela embargada, mas tão somente a manutenção do entendimento esposado no acórdão ante a incidência do óbice da Súmula 7/STJ na questão.
+É importante ressaltar que o juízo de admissibilidade é prévio e prejudicial ao juízo de mérito, de modo que, não se ultrapassando o primeiro, não se adentra o segundo. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA C/C IMISSÃO DE POSSE CONEXA COM AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURA PÚBLICA DE PROMESSA DE CESSÃO DE DIREITOS DE BEM IMÓVEL - DECISÃO MONOCRÁTICA DA LAVRA DESTE SIGNATÁRIO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO, MANTENDO HÍGIDO, CONSEQUENTEMENTE, O NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, EM VIRTUDE DA INCIDÊNCIA DO ARTIGO 544, § 4º, INCISO I, DO CPC/1973 (ATUAL ARTIGO 932, INCISO III, DO CPC/2015), E DA APLICAÇÃO, POR ANALOGIA, DO ENUNCIADO N. 182 DA SÚMULA DO STJ. IRRESIGNAÇÃO DOS RÉUS DA AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA.
+1. A ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade implica o não conhecimento do agravo em recurso especial, a teor do artigo 932, inciso III, do CPC/2015 (revogado artigo 544, § 4º, inciso I, do CPC/1973), e da aplicação, por analogia, do Enunciado n. 182 da Súmula do STJ.
+2. O juízo de admissibilidade é prévio e prejudicial ao juízo de mérito, de modo que, não se ultrapassando o primeiro, não se adentra no segundo. Assim, tendo em vista que o agravo em recurso especial não ultrapassou o juízo de admissibilidade, é inviável qualquer pronunciamento sobre as questões de mérito aventadas no presente agravo interno.
+3. Agravo interno conhecido em parte e, nessa extensão, desprovido."
+(AgInt nos EDcl no AREsp 615.540/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2017, DJe de 28/04/2017, g.n)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO INTERPOSIÇÃO DOS EMBARGOS INFRINGENTES. INCIDÊNCIA DA SÚMULA 207 DO STJ. ALEGAÇÃO DE MATÉRIA DE ORDEM PÚBLICA. IMPRESCINDIBILIDADE DO CONHECIMENTO DO RECURSO.
+1. Contra o acórdão proferido em apelação, no qual a sentença de mérito foi reformada por maioria de votos, caberia à parte recorrente esgotar as vias recursais locais mediante a oposição de embargos infringentes (art. 530, do CPC). Incide, pois, o verbete Sumular nº 207 desta Corte: "É inadmissível o recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no Tribunal de origem".
+2. "Conforme entendimento sedimentado nesta Corte, inviável a análise do mérito do recurso especial quando este sequer ultrapassou a barreira de admissibilidade recursal, ainda que se trate de matéria de ordem pública. Precedentes" (AgRg no AREsp 413.730/GO, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 08/04/2014, DJe 14/04/2014)
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.526.923/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe de 29/06/2015, g.n.)
+Dessa forma, tendo em vista que o agravante não impugnou especificamente o único fundamento da decisão agravada, é de rigor o não conhecimento das matérias, não havendo que se falar em omissão no acórdão recorrido, mormente quando o embargante impugna a necessidade de revolvimento de matéria fático-probatória somente no bojo dos embargos de declaração, importando indevida inovação recursal.
+Ante o exposto, rejeitam-se os embargos de declaração.
+É como voto.
