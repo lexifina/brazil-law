@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “HOMICÍDIO DUPLAMENTE QUALIFICADO - Plenário do Júri. Apelação.
+    Transcrição dos depoimentos colhidos em Plenário por sistema audiovisual - Desnecessidade - Afronta aos princípios da celeridade e fidelidade das informações - Mídia em perfeitas condições - Inexistência de qualquer prejuízo à Defesa.
+    Nulidade - Acusação que, no átrio da sessão de julgamento, desiste das testemunhas arroladas, porém ausentes - Defesa que não as houvera arrolado para o julgamento - Ausência de violação da regra do compartilhamento da prova em Plenário - Prejuízo ausente.
+    Preliminares rejeitadas.
+    Acusado que, condenado em segundo Plenário, pretende novo julgamento, alegando decisão manifestamente contrária à prova dos autos. Primeiro julgamento já anulado pelo mesmo motivo - Descabimento da pretensão recursal - Inteligência do artigo 593, § 3°, parte final, do CPP - Prova, ademais, que conforta, mais firmemente, a tese acusatória, pela qual optaram os Jurados. Pedido rejeitado. Penas - Fixação correta - Segunda qualificadora que atua como circunstância judicial desfavorável - Jurisprudência dominante a respeito - Atenuantes não caracterizadas - Regime fechado compatível com a natureza do crime e o volume de pena imposto - Sanção mantida.
+    Recurso a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, XXXVIII, a, XLVI, LIV, LV, da CF. Aduz que:
+    (i) “o Código de Processo Penal, vislumbrando a iniquidade que decorreria de se conceder à parte a prerrogativa de desistir das testemunhas por ela arroladas com a denominada cláusula de imprescindibilidade, houve por bem conferir tanto à Acusação como à Defesa oportunidade para inquirir as testemunhas arroladas pela parte contrária, conforme se depreende tanto da antiga redação de seus artigos 467 e 468 (vigente na época do arrolamento) como do atual artigo 473. Essa regra demanda, naturalmente, que a desistência da oitiva destas testemunhas conte com a aquiescência da outra parte”;
+    (ii) “embora a mídia contendo a oitiva das testemunhas inquiridas e o interrogatório do réu tenha sido juntada aos autos à fl. 1.346, não há notícias de que tenha sido providenciada a degravação dos áudios e transcrito o registro, a tornar inequívoca a violação ao preceito legal mencionado”;
+    (iii) “necessário reconhecer a necessidade de revisão da decisão dos jurados, porque manifestamente contrária à prova dos autos”;
+    (iv) “o conjunto probatório vertido aos autos, quer seja pela presença dos requisitos da legítima defesa, quer seja pelo reconhecimento do homicídio privilegiado, quer pela sua própria impropriedade, clama pelo afastamento de qualquer possibilidade de imputar ao recorrente a conduta do homicídio duplamente qualificado, pelo motivo fútil e pelo recurso que impossibilitou a defesa da vítima”;
+    (v) “faz-se necessária a reforma do decisum no tocante aos critérios utilizados para a fixação da pena”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, vejam-se o ARE 782.245, de minha relatoria; o AI 709.068-AgR, Rel. Min. Ayres Britto; o RE 559.742, Relª. Minª. Ellen Gracie; o ARE 740.279, Rel. Min. Luiz Fux; o RE 786.153 AgR, Rel. Min. Dias Toffoli; e o AI 837.155 ED, Relª. Minª. Rosa Weber.
+    Por fim, a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel. Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
