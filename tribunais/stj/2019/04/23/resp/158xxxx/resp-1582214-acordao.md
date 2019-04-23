@@ -1,0 +1,83 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO RENOVATÓRIA. CONTRATO DE LOCAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. COMPROVAÇÃO DA IDONEIDADE FINANCEIRA DO FIADOR. EXIGÊNCIA PREVISTA NO ART. 71, V, DA LEI 8.245/91.
+1. Ação ajuizada em 18/12/2012. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+2. O propósito recursal, a par da análise da ocorrência de negativa de prestação jurisdicional, é definir se a presente ação renovatória de contrato de locação deve ser extinta por ausência de comprovação da idoneidade financeira dos fiadores.
+3. Não há que se falar em violação do art. 535 do CPC/73 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. A fim de aperfeiçoar as regras e procedimento sobre locação de imóvel urbano, foi promulgada a Lei 12.112/09, que alterou a redação original de alguns dispositivos da Lei 8.245/91, sendo um dos dispositivos legais alterados, justamente, o art. 71, V, da referida lei.
+5. Realmente, dada a atual redação do dispositivo legal, a questão acerca da comprovação da idoneidade financeira do fiador quando da propositura da ação renovatória ganhou novas luzes, uma vez que a lei passou a ditar, de forma expressa, a necessidade de comprovação da atual idoneidade financeira do fiador, mesmo que não haja a sua alteração ou substituição.
+6. Além de referir-se expressamente à necessidade de comprovação da idoneidade financeira, ainda que não haja a alteração do fiador do contrato primitivo, ao utilizar a expressão "atual", a nova redação faz crer que tal exigência se dá diante da inegável possibilidade de alteração da situação econômica do fiador, uma vez que os contratos de locação, certamente, duram tempo suficiente para que isso ocorra.
+7. Destarte, tendo em vista que o acórdão recorrido considerou por desnecessária a comprovação liminar da idoneidade financeira do fiador - porque não houve a substituição daquele garantidor -, mostra-se imperiosa a sua reforma.
+8. Recurso especial conhecido e parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, conhecer do recurso especial e dar-lhe parcial provimento, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI:
+Cuida-se de recurso especial interposto por UNIPLAZA-EMPREEN.PART.E.ADMIN. CENTROS DE COMPRA LTDA, fundamentando exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 25/05/2015.
+Concluso ao gabinete em: 25/08/2016.
+Ação: renovatória de contrato de locação comercial em shopping center, ajuizada por MARA MARGARETH DE ALMEIDA STELLA, em desfavor da recorrente (e-STJ fls. 1-10).
+Sentença: julgou extinto o processo, sem resolução de mérito, tendo em vista a ausência de comprovação da idoneidade financeira dos fiadores, conforme exigido no art. 71, V, da Lei 8.245/91 (e-STJ fls. 157-160).
+Acórdão: deu provimento à apelação interposta pela recorrida, para afastar a sentença e determinar o prosseguimento do feito na vara de origem, nos termos da seguinte ementa:
+AÇÃO RENOVATÓRIA DE LOCAÇÃO - SENTENÇA DE EXTINÇÃO, com fulcro no artigo 267, inciso IV, do Código de Processo Civil - Determinada a comprovação da idoneidade do locador (e não do fiador) - Fiador indicado já garantia o contrato - Ausente indício de inidoneidade financeira do fiador - Controvérsia acerca do valor do aluguel - RECURSO DA AUTORA PROVIDO, para afastar a sentença, com o prosseguimento do feito (na Vara de origem), para a produção de provas pericial (engenharia) e testemunhal (se o caso) (e-STJ fl. 206).
+Embargos de declaração: opostos pela recorrente, foram rejeitados (e-STJ fls. 217-220).
+Recurso especial: alega violação dos arts. 535, I, do CPC/73; e 71, V, da Lei 8.245/91. Além de negativa de prestação jurisdicional, sustenta que a lei exige a comprovação da idoneidade financeira do fiador, mesmo havendo manutenção do fiador do contrato primitivo. Aduz que a idoneidade financeira do fiador não pode ser presumida e que, em se tratando de ação renovatória, a petição inicial deve ser instruída com mencionado documento comprobatório, sob pena de extinção (e-STJ fls. 223-232).
+Prévio juízo de admissibilidade: o TJ/SP admitiu o recurso especial interposto por UNIPLAZA-EMPREEN.PART.E.ADMIN. CENTROS DE COMPRA LTDA e determinou a remessa dos autos a esta Corte Superior (e-STJ fl. 238).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO RENOVATÓRIA. CONTRATO DE LOCAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. COMPROVAÇÃO DA IDONEIDADE FINANCEIRA DO FIADOR. EXIGÊNCIA PREVISTA NO ART. 71, V, DA LEI 8.245/91.
+1. Ação ajuizada em 18/12/2012. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+2. O propósito recursal, a par da análise da ocorrência de negativa de prestação jurisdicional, é definir se a presente ação renovatória de contrato de locação deve ser extinta por ausência de comprovação da idoneidade financeira dos fiadores.
+3. Não há que se falar em violação do art. 535 do CPC/73 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. A fim de aperfeiçoar as regras e procedimento sobre locação de imóvel urbano, foi promulgada a Lei 12.112/09, que alterou a redação original de alguns dispositivos da Lei 8.245/91, sendo um dos dispositivos legais alterados, justamente, o art. 71, V, da referida lei.
+5. Realmente, dada a atual redação do dispositivo legal, a questão acerca da comprovação da idoneidade financeira do fiador quando da propositura da ação renovatória ganhou novas luzes, uma vez que a lei passou a ditar, de forma expressa, a necessidade de comprovação da atual idoneidade financeira do fiador, mesmo que não haja a sua alteração ou substituição.
+6. Além de referir-se expressamente à necessidade de comprovação da idoneidade financeira, ainda que não haja a alteração do fiador do contrato primitivo, ao utilizar a expressão "atual", a nova redação faz crer que tal exigência se dá diante da inegável possibilidade de alteração da situação econômica do fiador, uma vez que os contratos de locação, certamente, duram tempo suficiente para que isso ocorra.
+7. Destarte, tendo em vista que o acórdão recorrido considerou por desnecessária a comprovação liminar da idoneidade financeira do fiador - porque não houve a substituição daquele garantidor -, mostra-se imperiosa a sua reforma.
+8. Recurso especial conhecido e parcialmente provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (RELATOR):
+O propósito recursal, a par da análise da ocorrência de negativa de prestação jurisdicional, é definir se a presente ação renovatória de contrato de locação deve ser extinta por ausência de comprovação da idoneidade financeira dos fiadores.
+Aplicação do Código de Processo Civil de 1973, pelo Enunciado administrativo n. 2/STJ.
+1. DA VIOLAÇÃO DO ART. 535, I, do CPC/73
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 535, I, do CPC/73 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no REsp 1.469.906/MG, 3ª Turma, DJe de 16/02/2018; AgInt no AREsp 808.418/SP, 4ª Turma, DJe de 13/12/2017.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da desnecessidade de comprovação da idoneidade financeira do fiador quando não há a substituição daquele garantidor, de maneira que os embargos de declaração opostos pela recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 535, I, do CPC/73, incidindo, quanto ao ponto, a Súmula 568/STJ.
+2. DA NECESSIDADE DE COMPROVAÇÃO DA IDONEIDADE FINANCEIRA DO FIADOR (art. 71, V, da Lei 8.245/91)
+Antes de analisar a necessidade de comprovação da idoneidade financeira do fiador na petição inicial da ação renovatória com base na atual redação do art. 71, V, da Lei 8.245/91, convém fazer um breve histórico acerca da questão, uma vez que as alterações trazidas pela Lei 12.112/09 certamente imprimiram novos contornos à controvérsia.
+Com efeito, anteriormente à nova redação introduzida pela Lei 12.112/09, dispunha o art. 71, V, da Lei do Inquilinato que, além dos demais requisitos exigidos no art. 282 do CPC/73, a petição inicial da ação renovatória deveria ser instruída com "indicação de fiador quando houver no contrato a renovar e, quando não for o mesmo, com indicação do nome ou denominação completa, número de sua inscrição no Ministério da Economia, Fazenda e Planejamento, endereço e, tratando-se de pessoa natural, a nacionalidade, o estado civil, a profissão e o número da carteira de identidade, comprovando, em qualquer caso e desde logo, a idoneidade financeira".
+A redação do mencionado dispositivo legal, tal como se manifestava, acabou por resultar em entendimentos jurisprudenciais destoantes entre si, que ora exigiam a comprovação da idoneidade do fiador, mesmo que mantido aquele do contrato original; ora dispensavam totalmente essa prova; ora entendiam que era dispensável a prova da idoneidade, porque era presumida; ou, por fim, consideravam que não seria requisito imprescindível da petição inicial, uma vez que seria possível admitir tal comprovação durante a instrução (BORJES, Isabel Cristina Porto. Alterações na lei do inquilinato: comentários à lei 12.112/09. Porto Alegre: Ed. Livraria do Advogado, 2010, pp. 88-89).
+A despeito dos vários posicionamentos destacados, fato é que a jurisprudência pátria dominante acabava por dispensar a comprovação da idoneidade do fiador quando ele era o mesmo do contrato a ser renovado.
+Apenas a título exemplificativo, vale citar que foi esse entendimento que deu origem ao Enunciado nº 15 do extinto 2º Tribunal de [NOME]: "Na ação renovatória, a indicação do mesmo fiador do contrato renovando dispensa a prova de sua idoneidade, que se presume, salvo se fundamentadamente contestada".
+Vale frisar, ainda, que a jurisprudência dominante à época também se inclinava a admitir que a comprovação da idoneidade do fiador pudesse dar-se em momento posterior, na fase instrutória.
+A propósito, citam-se precedentes desta própria Corte Superior:
+LOCAÇÃO. RENOVATORIA. FIADORES DO CONTRATO ANTERIOR.
+- PROVA DA IDONEIDADE. A TRATO DOS MESMOS FIADORES DO CONTRATO A RENOVAR, O ART. 71, V, DA LEI 8.245/1991, DISPENSA A COMPROVAÇÃO LIMINAR DA IDONEIDADE; PELO QUE, A ELISÃO DESSA PRESUNÇÃO E DIFERIDA PARA A INSTRUÇÃO, ASSIM TORNANDO-SE INVIAVEL DECIDI-LA NO SANEADOR.
+- RECURSO ESPECIAL. JULGA-SE PREJUDICADO O RECURSO DISCURSIVO DA SUCUMBENCIA, SE PROCEDENTE O RECURSO DA PARTE CONTRARIA (REsp 61.848/SP, 5ª Turma DJ 04/11/1996).
+LOCAÇÃO. RENOVATORIA.
+- A DECISÃO QUE, CONSIDERANDO CORRIGIDO O DEFEITO DA INICIAL, DESACOLHE A ALEGAÇÃO DE INÉPCIA DA PEÇA PRIMEIRA, NÃO FERE A LEI FEDERAL.
+- NO CURSO DA INSTRUÇÃO PODE SER FEITA A PROVA DA IDONEIDADE DOS FIADORES.
+- RECURSO ESPECIAL NÃO CONHECIDO.
+UNANIME (REsp 12.472/SP, 4ª Turma, DJ 02/08/1993).
+Por óbvio, críticas se impunham a este posicionamento, sobretudo porque a redação legal (art. 71, V) previa a comprovação, "em qualquer caso" - expressão utilizada pela própria lei -, da idoneidade financeira do fiador. Como anota [NOME]:
+(..) Na realidade, penso que, desde 1991, a intenção do legislador talvez tivesse sido efetivamente exigir a comprovação da idoneidade do fiador indicado, pelo locatário, tanto que foi utilizada a expressão "em qualquer caso".
+Todavia, a jurisprudência dominante dispensava a comprovação da idoneidade do fiador, quando ele era o mesmo do contrato renovado. Com isso invertia o ônus, atribuindo ao locador a prova da inidoneidade econômico-financeira do fiador.
+Nunca achei que esse proceder fosse razoável, porque, em cinco anos de locação ou mais, a redução do patrimônio do fiador é algo factível, sendo muito mais fácil ao locatário, que o indicou e com indicação aceita, fazer prova necessária (Reforma da Lei do Inquilinato. São Paulo: Saraiva, 2011, pp. 126-127).
+A fim de aperfeiçoar as regras e procedimento sobre locação de imóvel urbano, foi então promulgada a Lei 12.112/09, que alterou a redação original de alguns dispositivos da Lei 8.245/91, sendo um dos dispositivos legais alterados, justamente, o art. 71, V, da referida lei.
+Com a alteração trazida pela Lei 12.112/09, o citado preceito legal passou a ter a seguinte redação:
+Art. 71. Além dos demais requisitos exigidos no art. 282 do Código de Processo Civil, a petição inicial da ação renovatória deverá ser instruída com:
+(..)
+V - indicação do fiador quando houver no contrato a renovar e, quando não for o mesmo, com indicação do nome ou denominação completa, número de sua inscrição no Ministério da Economia, Fazenda e Planejamento, endereço e, tratando-se de pessoa natural, a nacionalidade, o estado civil, a profissão e o número da carteira de identidade, comprovando, desde logo, mesmo que não haja alteração do fiador, a atual idoneidade financeira (grifos acrescentados).
+Realmente, dada a atual redação do dispositivo legal, a questão acerca da comprovação da idoneidade financeira do fiador quando da propositura da ação renovatória ganhou novas luzes.
+É que a lei passou a ditar, de forma expressa, a necessidade de comprovação da atual idoneidade financeira do fiador, mesmo que não haja a sua alteração ou substituição.
+Ressoa nítido - e isso depreende-se da própria exegese do preceito - que a intenção do legislador foi, então, a de encerrar as conclusões discrepantes atinentes à matéria.
+Por oportuno, urge salientar ainda que, além de referir-se expressamente à necessidade de comprovação da idoneidade financeira, ainda que não haja a alteração do fiador do contrato primitivo, ao utilizar a expressão "atual", a nova redação faz crer que tal exigência se dá diante da inegável possibilidade de alteração da situação econômica do fiador, uma vez que os contratos de locação, certamente, duram tempo suficiente para que isso ocorra.
+Na lição de Sylvio Capanema de Souza:
+É que, anteriormente, dispensava-se o locatário de fazer desde logo a prova da idoneidade financeira do fiador, se ele era o mesmo do contrato renovando.
+Esta prova, portanto, só se exigia quando fosse oferecido um novo fiador.
+Sempre criticamos esta orientação, entendendo que, no largo prazo de cinco anos, da vigência do contrato a ser renovado, era possível que se tivesse modificado, e muito, a condição financeira do fiador, ainda mais diante das turbulências econômicas que costumam assolar o país e o mundo nos últimos tempos.
+(..)
+Nunca nos pareceu sustentável a tese então acolhida de que, sendo o mesmo fiador, para o novo contrato, o locador já teria aferido sua idoneidade, quando da avença anterior.
+As condições econômicas das pessoas naturais ou jurídicas são dinâmicas, o que justifica a atual redação do inciso V do artigo 71, que merece aplausos (A lei do inquilinato comentada. 9ª ed. rev. atual. e ampl. Rio de Janeiro: Forense, 2017, pp. 374-375) (grifos acrescentados).
+Sob essa ótica, tem-se que a razão da alteração reside no fato de a idoneidade financeira ter de ser atual, não se prestando que o fiador tenha tido essa condição quando firmado o contrato locatício original se hoje não mais a ostenta.
+Destarte, tendo em vista que o acórdão recorrido considerou por desnecessária a comprovação liminar da idoneidade financeira do fiador - porque não houve a substituição daquele garantidor - (e-STJ fl. 207), mostra-se imperiosa a sua reforma.
+Forte nessas razões, CONHEÇO do recurso especial interposto por UNIPLAZA-EMPREEN.PART.E.ADMIN. CENTROS DE COMPRA LTDA e DOU-LHE PARCIAL PROVIMENTO, para restabelecer a sentença, que julgou extinto o processo, sem resolução de mérito, em virtude da ausência de comprovação da idoneidade financeira do(s) fiador(es), exigência contida no art. 71, V, da Lei 8.245/91.
+Mantidas as custas e honorários advocatícios conforme estabelecido pela sentença (e-STJ fl. 160).
