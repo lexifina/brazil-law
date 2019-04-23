@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. PREVIDÊNCIA PRIVADA. CESTA-ALIMENTAÇÃO. VIRADA DE ENTENDIMENTO NESTA SEGUNDA SEÇÃO. RESP Nº 1.023.053/RS. ACÓRDÃO RESCIDENDO PROFERIDO POSTERIORMENTE. INADMISSIBILIDADE DE ENTENDIMENTO CONTRÁRIO. DESNECESSIDADE DE JULGAMENTO EM SEDE DE REPETITIVO. RESPEITO AO RESP Nº 736.650/MT, DA CORTE ESPECIAL. CABIMENTO DA AÇÃO RESCISÓRIA.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Nos termos do decidido no REsp nº 736.650/MT, na Corte Especial, de relatoria do Ministro Antônio Carlos Ferreira, não é admissível a ação rescisória, com fundamento no artigo 485, I, do CPC/73, quando o acórdão rescindendo estiver fundamentado em entendimento jurisprudencial admissível à época de sua prolação.
+3. Não se exige, contudo, que a ausência de controvérsia seja assentada por intermédio do rito dos repetitivos, de modo que, tendo sido firmado o posicionamento pelo órgão máximo competente deste Superior Tribunal de Justiça anteriormente à data de julgamento do acórdão rescindendo, imperioso concluir pela ausência de multiplicidade de entendimentos cabíveis.
+4. No caso em análise, o acórdão rescindendo foi publicado em 7.3.2012, posterior à pacificação da questão por ocasião do julgamento do RESP 1.023.053/RS, em julgamento encerrado em 23.11.2011, alterando posicionamento anterior.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi e Raul Araújo votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual dei parcial provimento ao recurso especial da CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL.
+Nas razões do agravo, a parte recorrente argumentou, em breve síntese, que o trânsito em julgado dos REsps nº 1.023.053/RS e 1.207.071/RS ocorreu em data posterior ao acórdão rescindendo.
+A parte agravada, regularmente intimada, pugnou pelo não provimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. PREVIDÊNCIA PRIVADA. CESTA-ALIMENTAÇÃO. VIRADA DE ENTENDIMENTO NESTA SEGUNDA SEÇÃO. RESP Nº 1.023.053/RS. ACÓRDÃO RESCIDENDO PROFERIDO POSTERIORMENTE. INADMISSIBILIDADE DE ENTENDIMENTO CONTRÁRIO. DESNECESSIDADE DE JULGAMENTO EM SEDE DE REPETITIVO. RESPEITO AO RESP Nº 736.650/MT, DA CORTE ESPECIAL. CABIMENTO DA AÇÃO RESCISÓRIA.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Nos termos do decidido no REsp nº 736.650/MT, na Corte Especial, de relatoria do Ministro Antônio Carlos Ferreira, não é admissível a ação rescisória, com fundamento no artigo 485, I, do CPC/73, quando o acórdão rescindendo estiver fundamentado em entendimento jurisprudencial admissível à época de sua prolação.
+3. Não se exige, contudo, que a ausência de controvérsia seja assentada por intermédio do rito dos repetitivos, de modo que, tendo sido firmado o posicionamento pelo órgão máximo competente deste Superior Tribunal de Justiça anteriormente à data de julgamento do acórdão rescindendo, imperioso concluir pela ausência de multiplicidade de entendimentos cabíveis.
+4. No caso em análise, o acórdão rescindendo foi publicado em 7.3.2012, posterior à pacificação da questão por ocasião do julgamento do RESP 1.023.053/RS, em julgamento encerrado em 23.11.2011, alterando posicionamento anterior.
+5. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelos agravantes não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Da análise das razões despendidas no agravo interno, observo que a parte recorrente não impugnou especificamente o fundamento utilizado de que, a despeito de o julgamento do REsp nº 1.207.071/RS, em sede de repetitivo, ter sido finalizado em 27.6.2012, após a publicação do acórdão rescindendo, após a virada de entendimento realizada por esta Segunda Seção em 23.11.2011 não há mais que se falar em entendimento admissível em sentido contrário.
+Noutros termos, não se exige que a ausência de controvérsia seja assentada por intermédio do rito dos repetitivos, o qual, como sabido, possui diversas finalidades, como a possibilidade de vinculação ao entendimento firmado. Tendo sido firmado o posicionamento pelo órgão máximo competente deste Superior Tribunal de Justiça anteriormente à data de julgamento do acórdão rescindendo, imperioso concluir pela ausência de multiplicidade de entendimentos cabíveis.
+Reitero, portanto, o acórdão rescindendo foi publicado em 7/3/2012, após a pacificação da questão por ocasião do julgamento do RESP 1.023.053/RS, em julgamento encerrado em 23.11.2011, alterando posicionamento anterior, de modo que a presente ação rescisória é cabível.
+Confiram o seguinte julgado:
+"PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA NOS AUTOS. ART. 495 DO CPC. SÚMULA N. 401/STJ. COISA JULGADA "POR CAPÍTULOS". INADMISSIBILIDADE. SFH. UTILIZAÇÃO DO IPC (84,32%) NO MÊS DE ABRIL DE 1990. ADOÇÃO DA TAXA REFERENCIAL (TR) COMO ÍNDICE DE ATUALIZAÇÃO MONETÁRIA (LEI N. 8.177/1991). VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. ART. 485, V, DO CPC. SÚMULA N. 343/STF. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA.
+1. A violação do art. 535 do CPC não se configura na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a questão controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+2. O prazo decadencial de 2 (dois) anos para a propositura da ação rescisória inicia com o trânsito em julgado da última decisão proferida no processo, que se aperfeiçoa com o exaurimento dos recursos cabíveis ou com o transcurso do prazo recursal, a teor do que dispõe a Súmula n. 401/STJ: "O prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial".
+3. É incabível o trânsito em julgado de capítulos da sentença ou do acórdão em momentos distintos, a fim de evitar o tumulto processual decorrente de inúmeras coisas julgadas em um mesmo feito.
+4. A ação rescisória, fundada no art. 485, V, do CPC, pressupõe violação frontal e direta de literal disposição de lei, sendo certo, ainda, que a adoção pela decisão rescindenda de uma dentre as interpretações cabíveis não enseja a rescisão do decisum. Incidência da Súmula n. 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+5. No caso concreto, diversamente da atual jurisprudência, o acórdão rescindendo (transitado em julgado em 19/12/2001), embasado em uma das interpretações possíveis à época do julgamento (15/8/2000), decidiu pela aplicação do BTNf para a correção monetária do saldo devedor dos contratos do SFH no mês de março de 1990, no percentual de 41,28% (quarenta e um inteiros e vinte e oito centésimos percentuais), bem como pela impossibilidade de aplicação da TR nos contratos de financiamento habitacional celebrados antes da Lei n. 8.177, de 1º de março de 1991, sob pena de locupletamento.
+6. A pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF.
+7. Firmado o posicionamento deste Tribunal Superior quanto à interpretação de determinada norma infraconstitucional, torna-se cabível a ação rescisória contra julgado proferido em data posterior à pacificação, desde que contrário ao entendimento que se consolidou no STJ, afastando-se, em tal hipótese, a incidência do referido enunciado sumular.
+8. Recurso especial conhecido e parcialmente provido.
+(REsp 736.650/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 20/8/2014, DJe 1/9/2014)"
+Com efeito, nos termos do disposto no artigo 932, III, do novo Código de Processo Civil, incumbe ao relator, de forma singular, negar seguimento a recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, o que verifico nos presentes autos em relação a todos os argumentos utilizados na fundamentação da decisão ora recorrida.
+Assim sendo, imperioso concluir que o presente agravo interno esbarra no óbice previsto pela Súmula 182, deste Tribunal, que dispõe que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (atual artigo 1.021 do novo Código de Processo Civil).
+Assim se manifesta esta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. Diante do princípio da dialeticidade, expressamente disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, aplica-se à nova sistemática processual, por analogia, o conteúdo do enunciado 182 da Súmula do Superior Tribunal de Justiça ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+2. Agravo interno não conhecido.
+(AgRg no AREsp 809.889/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/9/2016, DJe 5/10/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. CONTRATO DE FINANCIAMENTO COM GARANTIA FIDUCIÁRIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). INTERPOSIÇÃO DE SEGUNDO AGRAVO REGIMENTAL. ERRO GROSSEIRO. INTEMPESTIVIDADE.
+1. O agravo regimental não impugnou especificamente toda a fundamentação da decisão agravada, o que atrai a incidência da Súmula 182 do STJ.
+2. A interposição de recurso manifestamente incabível não interrompe ou suspende o prazo para a interposição de outros recursos, nem impede o trânsito em julgado do acórdão ou decisão inadequadamente impugnados. Intempestividade do recurso especial. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.225/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 1/2/2016)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 182 DO STJ. INCIDÊNCIA.
+1. Quando a parte recorrente não traz, na minuta do agravo regimental, impugnação integral e específica aos fundamentos da decisão recorrida, há de ser aplicada a Súmula nº 182 do Superior Tribunal de Justiça ao caso.
+(..)
+3. Agravo regimental não provido.
+(AgRg na MC 24.495/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 2/2/2016)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
