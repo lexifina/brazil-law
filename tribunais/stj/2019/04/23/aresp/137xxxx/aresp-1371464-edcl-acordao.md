@@ -1,0 +1,42 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO EM VOTAÇÃO UNÂNIME. MULTA DO ART. 1.021, § 4º, DO CPC. DESCABIMENTO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. Na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória".
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de embargos declaratórios opostos contra acórdão desta colenda Quarta Turma que negou provimento ao recurso da parte ora embargada, e que foi assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO. INCIDÊNCIA DO CPC DE 2015. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A Corte Especial, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Código, por maioria, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017).
+2. Agravo interno a que se nega provimento." (e-STJ, fl. 551)
+Em suas razões, a parte embargante alega omissão quanto à aplicação da multa prevista no art. 1.021, § 4º, do CPC no julgamento ora embargado.
+A parte embargada deixou de apresentar impugnação, conforme certidão de fl. 578.
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, não há que se falar em omissão do acórdão embargado no que se refere à aplicação da multa do art. 1.021, § 4º, do CPC ao caso, tendo em vista que, na impugnação do agravo interno, apresentada pela parte ora embargante às fls. 523/531, não houve pedido nesse sentido.
+Ademais, tem-se que, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória".
+Contudo, não foi este o caso dos autos, não se justificando, portanto, a imposição de multa.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC/2015. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO NÃO CONHECIDO.
+1. Cabe à parte insurgente, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. No caso, o agravante não apresentou alegações hábeis a infirmar os fundamentos da decisão regimentalmente agravada, conforme exigido pelo art.
+1.021, § 1º, do CPC/2015, circunstância que impede o conhecimento do agravo.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Agravo interno não conhecido."
+(AgInt no AREsp 1.381.407/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe de 28/03/2019, grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. MULTA. NÃO OCORRÊNCIA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, sobretudo após o esgotamento do período de prorrogação, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador.
+3. A aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Os honorários recursais incidem apenas quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição, sendo indevida a fixação em agravo interno e em embargos de declaração.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.711.806/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/03/2019, DJe de 21/03/2019, grifou-se)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. AGRAVO INTERNO DESPROVIDO EM VOTAÇÃO UNÂNIME. MULTA. OMISSÃO VERIFICADA. DESCABIMENTO. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição ou omissão (CPC/2015, art. 1.022). 2. Na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória".
+3. Embargos de declaração acolhidos para sanar omissão sobre a aplicação do art. 1.021, § 4º, do CPC, sem efeitos modificativos."
+(EDcl no AgInt no AREsp 1.082.391/SP, dessa Relatoria, QUARTA TURMA, julgado em 21/02/2019, DJe de 13/03/2019)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
