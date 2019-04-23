@@ -1,0 +1,24 @@
+EMENTA
+PETIÇÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ERRO MATERIAL. OCORRÊNCIA. NECESSIDADE DE RETIFICAÇÃO DO DISPOSITIVO. PETIÇÃO DEFERIDA.
+1. O dispositivo do voto condutor, ao trancar o processo, indicou equivocadamente o número da ação penal, bem como a vara em que tramita. Constatado o erro material, é o caso de retificar o acórdão.
+2. Pedido deferido para, reconhecendo a existência de erro material, estabelecer nova redação ao dispositivo do acórdão exarado nos autos deste recurso ordinário: "À vista do exposto, dou provimento ao recurso ordinário, para determinar o trancamento do processo n. 0005284-78.2012.8.26.0483, em trâmite na 1ª Vara Criminal da Comarca de Presidente Vanceslau, em relação aos recorrentes [NOME], [NOME], [NOME] e [NOME]".
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, deferir o pedido, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] [NOME] COSTA, [NOME] [NOME] GUIMARÃES, [NOME] [NOME] [NOME] GUIMARÃES e MARIA [NOME] [NOME] GUIMARAES ajuízam petição em que apontam erro material no acórdão de fls. 246-255.
+O erro material decorre, segundo a petição, do fato de a "ação penal motivadora do recurso  ser  a de número 0005284-78.2012.8.26.0483 (da 1ª Vara Criminal de Presidente Vanceslau) e não a de número 0001825-97.2014.8.26.0483 (da 2ª Vara)".
+Aduzem que, "embora a impetração do habeas corpus perante o TJSP (fls. 1/17) tenha apontado que a Autoridade Coatora era o Juízo da 1ª Vara de Presidente Venceslau (fls. 1) e se tenha anexado como documento o ato que se apontou como coator, onde também há a informação de que o Juízo impetrado era o da 1ª Vara daquela comarca (fls. 19), no acórdão proferido pela C. 6ª Turma desse Tribunal constou que o ato ilegal teria se dado em outra ação penal, que tramita perante a 2ª Vara daquela mesma comarca".
+Por fim, "a defesa técnica dos recorrentes assume que isso pode ter decorrido de imprecisão contida em uma manifestação sua", visto que "malgrado longo da inicial do habeas corpus e do Recurso Ordinário Constitucional se tenha deixado claro que o feito motivador do recurso era o de n. 0005284-78.2012.8.26.0483 (1ª Vara de Presidente Venceslau), quando do pedido de liminar incidental, por lapso da defesa, fez-se menção à ação penal da 2ª Vara Criminal (feito n. 0001825-97.2014.8.26.0483), na qual uma das recorrentes foi denunciada".
+Requer que "se retifique o erro material constante do acórdão para que passe a constar que a ação penal trancada é a de nº 0005284-78.2012.8.26.0483, em trâmite perante a 1ª Vara da Comarca de Presidente Venceslau".
+EMENTA
+PETIÇÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ERRO MATERIAL. OCORRÊNCIA. NECESSIDADE DE RETIFICAÇÃO DO DISPOSITIVO. PETIÇÃO DEFERIDA.
+1. O dispositivo do voto condutor, ao trancar o processo, indicou equivocadamente o número da ação penal, bem como a vara em que tramita. Constatado o erro material, é o caso de retificar o acórdão.
+2. Pedido deferido para, reconhecendo a existência de erro material, estabelecer nova redação ao dispositivo do acórdão exarado nos autos deste recurso ordinário: "À vista do exposto, dou provimento ao recurso ordinário, para determinar o trancamento do processo n. 0005284-78.2012.8.26.0483, em trâmite na 1ª Vara Criminal da Comarca de Presidente Vanceslau, em relação aos recorrentes [NOME], [NOME], [NOME] e [NOME]".
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Com razão os peticionantes.
+O acórdão ora analisado deu provimento "ao recurso ordinário, para determinar o trancamento do processo n. 0001825-97.2014.8.26.0483, em trâmite na 2ª Vara Criminal da Comarca de Presidente Vanceslau, em relação aos recorrentes [NOME], [NOME], [NOME] e [NOME]".
+Todavia, verifico que a denúncia analisada, de fls. 104-106, diz respeito ao processo em trâmite na 1ª Vara Criminal da Comarca de Presidente Vanceslau, número de controle 682/2012, o mesmo apontado pela defesa, de n. 0005284-78.2012.8.26.0483, em trâmite perante a 1ª Vara da Comarca de Presidente Venceslau, conforme verificado na página de internet da Corte local. Portanto, é o caso de retificar o dispositivo do acórdão de fls. 246-255.
+À vista do exposto, reconhecendo a existência de erro material, defiro o pedido para estabelecer nova redação ao dispositivo do acórdão exarado nos autos deste recurso ordinário: "À vista do exposto, dou provimento ao recurso ordinário, para determinar o trancamento do processo n. 0005284-78.2012.8.26.0483, em trâmite na 1ª Vara Criminal da Comarca de Presidente Vanceslau, em relação aos recorrentes [NOME], [NOME], [NOME] e [NOME]".
+Comunique-se a decisão, com urgência, à autoridade apontada como coatora e ao Juízo de primeiro grau.
