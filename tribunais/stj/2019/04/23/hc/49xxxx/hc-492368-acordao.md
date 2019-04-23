@@ -1,0 +1,102 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. CONTROVÉRSIA ACERCA DA AUTORIA. INVIABILIDADE DE ANÁLISE. VIA INADEQUADA. INDÍCIOS SUFICIENTES. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. APLICAÇÃO DA LEI PENAL. PACIENTE FORAGIDO POR QUASE 15 (QUINZE) ANOS. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU.
+1. "Não cabe, em sede habeas corpus, proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (STF, Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014).
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, de crime de roubo majorado, pelo concurso de agentes e emprego de faca do tipo peixeira. Tais circunstâncias evidenciam a gravidade concreta da conduta e a periculosidade do paciente. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+4. A prisão preventiva também se encontra justificada para assegurar a aplicação da lei penal e garantir a instrução criminal, uma vez que o paciente evadiu-se do distrito da culpa, permanecendo foragido por aproximadamente 15 (quinze) anos.
+5. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+6. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+Sustentou oralmente o Adv. [NOME], pela parte PACIENTE: [NOME]
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco (HC n. 0005587-28.2018.8.17.0000).
+Depreende-se dos autos que o paciente foi denunciado pela prática, em tese, do delito tipificado no art. 157, § 2º, incisos I e II, do Código Penal, porque, no dia 11 de agosto de 2002, teria, na companhia de outros 4 indivíduos, rendido a vítima com uma faca peixeira, tendo ele subtraído um relógio, um trancelim e a quantia de R$ 40,00 (quarenta reais) - e-STJ fls. 223/226 e 201/203.
+A prisão preventiva do paciente foi decretada, pois estaria foragido do distrito da culpa desde os fatos narrados na denúncia.
+Em razão da não localização do paciente, o feito foi desmembrado. Posteriormente, a ação penal e o prazo prescricional foram suspensos com relação ao paciente, com fundamento no art. 366 do Código de Processo Penal.
+A punibilidade dos corréus foi extinta com fundamento no art. 107, IV, c/c o art. 109, V e VI, ambos do Código Penal e, ainda, no art. 61 do Código de Processo Penal (e-STJ fls. 395/399).
+A defesa do paciente formulou pedido de revogação da custódia cautelar, porém o pleito foi indeferido em 3/12/2018 (e-STJ fls. 405/409).
+O Tribunal de origem denegou a ordem de habeas corpus que visava à revogação da prisão preventiva. Eis a respectiva ementa (e-STJ fls. 66/67):
+CONSTITUCIONAL E PROCESSO PENAL. ARTS. 157 § 2º, I e II, e 288, AMBOS DO CÓDIGO PENAL. APLICAÇÃO DO ART. 366 DO CPP. RÉU FORAGIDO. PROCESSO E CURSO PRESCRICIONAL SUSPENSOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+- Sabe-se que a privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5o, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+- Na espécie, verifica-se que o paciente foi preso em São Paulo, em 12/11/2018 e observa-se, às fls. 224/228, que o pedido de liberdade provisória foi negado pelo juízo a quo, em 03/12/2018, pelo fato de o paciente não ter sido encontrado desde a diligência para sua citação em 26/04/2005, o que, nos termos da jurisprudência desta Corte e dos Tribunais Superiores, é razão para manter a sua segregação cautelar.
+- Ademais, sabe-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Nessa mesma linha, tem-se a Súmula n. 86 desta Corte, segundo a qual "as condições pessoais favoráveis ao acusado, por si sós, não asseguram o direito à liberdade provisória, se presentes os motivos para a prisão preventiva".
+- Por fim. as circunstâncias que envolvem o fato demonstram qu outras medidas previstas no art. 319 do Código de Prcesso Penal não sutiriam efeito almejado para a proteção da ordem pública.
+- Ordem denegada. Decisão unânime.
+No presente habeas corpus, os impetrantes noticiaram que a decisão de prisão preventiva foi proferida em 4/5/2005, por suposto roubo cometido em 6/12/2002. Alegaram que "em momento algum houve fuga do distrito da culpa" (e-STJ fl. 7). Ressaltaram que "o processo em relação aos demais réus teve a punibilidade extinta, pela prescrição" (e-STJ fl. 19).
+Sustentaram, ainda, que "outro ponto de destaque é o fato de que a confiabilidade da versão dos denunciados (em atribuir a autoria a [NOME]) é mínima, uma vez que "Léo" à fls. 56 afirmou que já respondia por outros processos na comarca de Bodocó - PE (Fls. 118 - Inquérito nº 57/2002 - Crime de Roubo qualificado) e "Doda" foi preso novamente no curso do processo por embriaguez e desordem, em 20/04/2005, uma breve análise nos antecedentes dos envolvidos mostra de fato quem está falando a verdade" (e-STJ fl. 8).
+Nesse contexto, defendem a desnecessidade da prisão cautelar. Ao final, requerem a revogação da prisão preventiva.
+Liminar indeferida às e-STJ fls. 414/416.
+Informações prestadas às e-STJ fls. 421/471.
+Ao se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ ou, caso dele se conheça, pela denegação da ordem. Eis a ementa do parecer (e-STJ fl. 473):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DO WRIT. NÃO CONHECIMENTO. ROUBO MAJORADO. QUADRILHA OU BANDO. PRISÃO PREVENTIVA. RÉU QUE PERMANECEU FORAGIDO POR MAIS DE 10 ANOS. GARANTIA DA APLICAÇÃO DA LEI PENAL. EXTINÇÃO DA PUNIBILIDADE DOS CORRÉUS. IRRELEVANTE. Parecer pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto do presente pleito cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao paciente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, estes foram os fundamentos invocados para a decretação da prisão, exarada em 2003, in verbis (e-STJ fls. 123/124):
+1. Consta dos autos do Inquérito Policial que no dia 11 de agosto do ano próximo, na Vila São Francisco, nesta cidade, precisamente ao lado da Igreja, por volta de meia noite, os acusados abordaram a vítima [NOME], tomando de assalto: um relógio, um trancelim e a quantia de quarenta reais.
+2. Segundo, ainda, a Dra. [NOME], em sua peça inaugurai, que dessume-se da acostada peça indiciária que os acusados, reuniram-se com o intuito de praticar crimes e logo que avistaram o casal nas proximidades da Igreja anunciaram o assalto, enquanto um outro apontava uma arma (faca peixeira) outros seguravam a namorada da vítima [NOME].
+3. O acusado [NOME], foragiu do distrito da culpa e segundo testemunhas foi ele que estava de posse da arma. Que crimes desta natureza têm acontecendo com freqüência na Vila São Francisco amedrontando todos os moradores.
+Os acusados foram, assim, incursos naquela peça vestibular nos termos do art. 157, §2º, incs. I e II, do Código Penal Brasileiro, c/c o art. 288 e 29, ambos do mencionado Diploma Legal Repressivo.
+A Representante do Ministério Público, desta Comarca, termina a sua representação pela custódia preventiva dos acusados, com base nos arts. 311 e segs. do CPP, afirmando que assim o faz ratificando os termos da representação por custódia preventiva apressentada pelo Ilmo. Sr. Delegado de Polícia Civil, desta Comarca.
+A materialidade criminal está provada nos autos através do Auto de Apresentação e Apreensão de fls. 16 dos autos e há prova indiciária de co-autoria contra os acusado nos autos, através dos seus interrogatórios e das testemunhas que depuseram na fase Policial.
+O acusado [NOME] cometeu o crime de assalto e fugiu, sem dar roteiro. É fato comum e a experiência confirma que o mencionado denunciado tentou fugir do lugar da culpa. Com a possível fuga dele, será um obstáculo para a instrução criminal e a prisão preventiva do mencionado acusado [NOME] é necessária para a conveniência da instrução criminal.
+O modo violento pelos quais os acusados praticaram o crime de assalto, com emprego de arma branca (faca peixeira) e a forma pelo qual agiram, demonstram que se tiverem soltos, haverão de fazer novos crimes e a prisão preventiva dos acusados é necessária para garantia da ordem pública.
+Isto posto, diante do que dos autos consta, com fulcro nos arts. 311 e seguintes, do CPP, DECRETO A CUSTODIA PREVENTIVA, dos acusados [NOME], [NOME], [NOME] e [NOME], qualificados nos autos, como incursos nas penas dos arts. 157, §2º, inc. I e II, do CPB, c/c os arts. 288 e 29, ambos do mesmo Diploma Legal Repressivo, para aplicação da lei penal em relação ao acusado [NOME] e como Garantia da Ordem Pública, em relação a todos os acusados. Expeça-se em desfavor dos mencionados acusados mandado de prisão preventiva e uma vez capturados sejam recolhidos à Cadeia Pública, desta Cidade, envlando-se cópias deste mandado ao Dr Delegado de Polícia Civil e ao Comandante do Destacamento de Polícia Militar local para capturarem os preventivados (grifei.)
+No que se refere à alegação de ausência de confiabilidade da versão dos corréus, cumpre esclarecer, preliminarmente, que a via estreita do habeas corpus (e do seu recurso ordinário) não comporta o "exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (RHC n. 123.812, relator Ministro Teori Zavascki, SEGUNDA TURMA, DJe 20/10/2014).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TENTADO E FURTO QUALIFICADO. CÓDIGO PENAL. PRISÃO CAUTELAR. AUSÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE. ANÁLISE FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. PROBLEMAS DE SAÚDE. PRISÃO DOMICILIAR. AUSÊNCIA DE COMPROVAÇÃO DA GRAVIDADE E DA AUSÊNCIA DE ESTRUTURA NO ESTABELECIMENTO PRISIONAL. ORDEM DENEGADA.
+1. A aferição da existência de indícios de autoria e materialidade delitiva demanda revolvimento fático-probatório, não condizente com a angusta via do writ, devendo ser a questão dirimida no trâmite da instrução criminal.
+ ..
+4. Ordem denegada.
+(HC 380.198/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/02/2017, DJe 24/02/2017, grifei.)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+ ..
+2. A alegação de ausência de provas da autoria configura tese de inocência, que não encontra espaço para análise na estreita via do habeas corpus, uma vez que demanda o exame do contexto fático-probatório. Precedentes.
+ ..
+5. Habeas corpus não conhecido.
+(HC 315.877/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.)
+Pois bem. Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, de crime de roubo majorado, pelo concurso de agentes e emprego de faca do tipo peixeira. Tais circunstâncias evidenciam a gravidade concreta da conduta e a periculosidade do paciente. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de se acautelar a ordem pública.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ROUBO MAJORADO. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS CONCRETAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na espécie, a segregação cautelar foi mantida em razão da periculosidade do paciente, evidenciada com base em elementos concretos colhidos da sua conduta delituosa - roubo praticado em concurso com outro acusado e com emprego de arma branca (faca tipo peixeira).
+4. O acusado, de forma ousada, praticou o assalto no interior de veículo de transporte coletivo, ameaçando as vítimas e subtraindo seus pertences. Prisão cautelar devidamente justificada, nos termos do art. 312 do Código de Processo Penal, para garantia da ordem pública. Precedentes.
+5. Eventuais condições subjetivas favoráveis ao paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+Precedentes.
+6. Habeas corpus não conhecido.
+(HC 369.414/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/10/2016, DJe 08/11/2016, grifei.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE ROUBO CIRCUNSTANCIADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PLEITO DE EXCESSO DE PRAZO PREJUDICADO. CONSTRIÇÃO CAUTELAR MANTIDA PELOS MESMOS FUNDAMENTOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. MEDIDAS CAUTELARES ALTERNATIVAS. TESE NÃO SUSCITADA PERANTE A CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO ORDINÁRIO PARCIALMENTE PREJUDICADO E, NO MAIS, DESPROVIDO.
+1. Recorrente denunciado pela suposta prática do delito inserto no art. 157,§ 2.º, incisos I e II, do Código Penal, porque preso em flagrante subtraindo a bolsa da vítima, mediante grave ameaça e emprego de faca do tipo "peixeira". O flagrante foi posteriormente convertido em prisão preventiva.
+2. A superveniência de sentença condenatória prejudica a análise do alegado excesso de prazo para a conclusão da instrução criminal, sendo cabível, porém, a apreciação dos requisitos da segregação provisória, pois mantida pelos mesmos fundamentos. Precedentes.
+3. O modus operandi do delito autoriza a manutenção da prisão cautelar, como forma de resguardar a ordem pública, nos termos do art. 312 do Código de Processo Penal. A manutenção da custódia foi devidamente justificada pelas instâncias ordinárias, demonstrada a periculosidade do agente e a gravidade concreta da ação. Precedentes.
+4. A aplicação das medidas cautelares trazidas pela Lei n.º 12.403/2011 não foi suscitada perante o Tribunal a quo, circunstância que impede qualquer manifestação desta Corte, sob pena de supressão de instância.
+5. Recurso ordinário parcialmente prejudicado e, nessa extensão, desprovido.
+(RHC 45.901/BA, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/06/2014, DJe 01/07/2014, grifei.)
+Ademais, consta do mesmo decreto prisional que o ora paciente fugiu do distrito da culpa e esteve foragido por aproximadamente 15 (anos), até o momento em que foi preso em São Paulo, em 12/11/2018 (e-STJ fl. 66), circunstância que justifica a necessidade de segregação cautelar para garantir a aplicação da lei penal e a instrução criminal.
+Nesse mesmo sentido, os seguintes precedentes desta Corte:
+HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art.
+312, ambos do Código de Processo Penal.
+2. São idôneas as razões adotadas para convolar a prisão em flagrante do réu em custódia preventiva, pois foram baseadas na renitência delitiva do paciente, que, além de haver permanecido foragido por 15 anos, ostenta outras três condenações por crimes contra o patrimônio.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Ordem denegada.
+(HC 454.758/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2018, DJe 09/08/2018, grifei.)
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. RISCO CONCRETO DE FUGA. PACIENTE FORAGIDA HÁ APROXIMADAMENTE 15 ANOS. ASSEGURAR A APLICAÇÃO DA LEI PENAL. PRISÃO DOMICILIAR. REQUISITOS NÃO DEMONSTRADOS. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP. Presentes elementos concretos a justificar a imposição da segregação antecipada. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade da paciente, evidenciada pela gravidade concreta da conduta - a vítima foi atingida por diversos golpes de arma branca na região da cabeça e do torax o corpo foi parcialmente incendiado. Destacou-se, ainda, a necessidade de assegurar a aplicação da lei penal diante do risco concreto de fuga, uma vez que a paciente se evadiu do distrito da culpa logo após a prática do crime e permaneceu foragida por quase 15 anos.
+ ..
+Habeas corpus não conhecido.
+(HC 421.497/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/03/2018, DJe 16/03/2018, grifei.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido.
+(RHC 64.879/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2016, DJe 21/03/2016.)
+Ante o exposto, denego a ordem.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
