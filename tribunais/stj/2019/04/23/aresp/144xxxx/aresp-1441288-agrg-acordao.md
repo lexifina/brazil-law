@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 34 DA LEI N. 9.605/98. CRIME FORMAL. RESULTADO DANOSO. PRESCINDIBILIDADE. REJEIÇÃO DA DENÚNCIA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A conduta prevista no art. 34 da Lei n. 9.605/1998 possui natureza formal, de perigo abstrato, que prescinde de qualquer resultado danoso para sua configuração.
+2. Ademais, trata-se da fase de recebimento da denúncia que "exige tão somente a descrição adequada da conduta delitiva e a indicação de elementos mínimos a sustentar a acusação" (AgRg no AgRg no AREsp 534.163/RR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 3/8/2017, DJe 16/8/2017).
+3. Para rever o entendimento do Tribunal de origem e rejeitar a peça acusatória seria necessário o reexame do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão de fls. 211/214, em que neguei provimento ao recurso especial, em razão da incidência da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+O agravante sustenta que: "(..) é totalmente desnecessário o revolvimento do conjunto fático-probatório dos autos, pois o reexame de provas é absolutamente dispensável a fim de que se conheça das questões ventiladas no apelo extremo" (fl. 219).
+Pleiteia, assim, a reconsideração da decisão monocrática ou a submissão do recurso ao Órgão Colegiado para aplicação do princípio da insignificância.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+A conduta prevista no art. 34 da Lei n. 9.605/1998 possui natureza formal, de perigo abstrato, que prescinde de qualquer resultado danoso para sua configuração.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. ART. 34 DA LEI N. 9.605/1998. CRIME FORMAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ATIPICIDADE DE CONDUTA. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A criação das Unidades de Conservação Federal de Uso Sustentável tem por escopo compatibilizar a preservação de seus recursos naturais com o seu uso pela comunidade, ou seja, regrar o exercício de atividades que constituam fontes alternativas de renda, de maneira que sejam trabalhadas dentro de preceitos sustentáveis e que envolvam a gestão participativa dessas populações, mas de forma a preservar o meio-ambiente ali existente. 2. Inviável, pois, a absolvição sumária, para, por aplicação do princípio da insignificância, reconhecer a atipicidade material da conduta prevista no art. 34 da Lei n. 9.605/1988 daquele que, agindo em desacordo com as exigências legais ou regulamentares, é flagrado pescando em local proibido pela legislação vigente. Trata-se de crime formal, de perigo abstrato, a prescindir, portanto, de qualquer resultado danoso para sua configuração, decorrendo a tipificação penal meramente da potencialidade de risco à reprodução das espécies da fauna local. 3. De mais a mais, "para se aferir a plausibilidade jurídica das teses de absolvição e desclassificação, seria necessária uma cognição mais aprofundada do suporte probatório que lastreou a acusação, providência que não se coaduna com a estreita cognição inerente ao habeas corpus." (HC n. 267.502/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T, DJe 12/9/2013) 4. Agravo regimental não provido. (AgRg no RHC 55.689/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/9/2017, DJe 2/10/2017 - Grifo Nosso).
+Ademais, trata-se da fase de recebimento da denúncia que "exige tão somente a descrição adequada da conduta delitiva e a indicação de elementos mínimos a sustentar a acusação" (AgRg no AgRg no AREsp 534.163/RR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 3/8/2017, DJe 16/8/2017).
+Com efeito, o Tribunal de origem recebeu a peça acusatória, pois presente a justa causa para ação penal, mediante fundamentação que ora se destaca (fls. 96/97):
+Compulsando os autos, verificam-se provas suficientes materialidade e a autoria do delito do artigo 34 da Lei nº 9.605/98.
+Dentre os documentos juntados à inicial acusatória, destacam-se: a) auto de infração ambiental (evento 1, INQ1, pág. 6 e ev. 5 - DESPI, p. 6); b) Termo de Apreensão e Depósito (ev. 5 - DESPI, p. 7-8); c) relatório de fiscalização do batalhão de polícia militar ambiental (ev. 5 - DESPI, p. 10-7-8); d) termo de entrega realizado pela polícia militar ambiental (ev. 5 - DESP2, p. 9), os quais apontam que os réus foram flagrados por autoridades públicas enquanto realizavam a pesca, por meio de molinete com carretilha, em local proibido, tendo capturado 6kg de pescados, sem autorização do órgão ambiental competente.
+Assim, comprovada a materialidade e presentes indícios suficientes de autoria, presente a justa causa para o início da ação penal.
+Para rever o entendimento do Tribunal de origem e rejeitar a peça acusatória seria necessário o reexame do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ESTELIONATO MAJORADO. AUFERIMENTO DE AUXÍLIO-DOENÇA E RENDIMENTOS DE ATIVIDADE LABORAL DE FORMA CONCOMITANTE. MATERIALIDADE E INDÍCIOS DE AUTORIA. JUSTA CAUSA. RECEBIMENTO DA DENÚNCIA. AFERIÇÃO DO ELEMENTO SUBJETIVO. PRINCÍPIO DO IN DUBIO PRO SOCIETATE. INSTRUÇÃO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. Ademais, rever os fundamentos utilizados para amparar o recebimento da denúncia ofertada nos autos, na profundidade e extensão pretendida pela defesa, dependeria necessariamente de reexame fático-probatório, o que, em sede de recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ.
+5. Agravo regimental desprovido. (AgRg no AREsp 1097319/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/9/2017, DJe 22/9/2017 - Grifo Nosso).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO QUALIFICADO. RECURSO EM SENTIDO ESTRITO PROVIDO. DENÚNCIA RECEBIDA. ALEGADA INÉPCIA DA INICIAL ACUSATÓRIA. SÚMULA 568/STJ. PLURALIDADE DE ACUSADOS. EXISTÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE DO CRIME. SÚMULA N. 7/STJ.
+(..)
+III - A decisão que determinou o recebimento da denúncia teve por fundamento os elementos de prova existentes nos autos. A análise acerca da falta de justa causa para a ação penal bem como a ausência de indícios de autoria demanda o revolvimento de matéria atinente a fatos e provas, providência vedada na via eleita. Súmula 7/STJ. Agravo regimental desprovido. (AgRg no AREsp 1058483/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 1/6/2017, DJe 9/6/2017 - Grifo Nosso).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. RECEBIMENTO DE DENÚNCIA. EXISTÊNCIA DE PROVA DA MATERIALIDADE E INDÍCIOS DA AUTORIA. MODIFICAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE.SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+(..)
+- A Corte de origem determinou o recebimento da denúncia, reconhecendo a existência de indícios suficientes para o seu processamento, diante das provas juntadas aos autos. Rever esta premissa importa em incursão no conteúdo fático-probatório carreado aos autos, tarefa inviável em recurso especial, ex vi do verbete n. 7 da Súmula deste Tribunal. Agravo regimental desprovido. (AgRg no REsp 1510780/PB, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 28/4/2015, DJe 7/5/2015 - Grifo Nosso).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
