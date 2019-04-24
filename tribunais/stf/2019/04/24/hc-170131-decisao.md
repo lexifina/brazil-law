@@ -1,0 +1,44 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Marcos Aparecido Dona e outro em favor de Fábio Junio Costa, contra decisão monocrática da lavra do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que não conheceu do HC 496.062/SP.
+    Em 04.12.2018, o paciente foi preso cautelarmente e, posteriormente, denunciado pela suposta prática dos crimes de tráfico de drogas, de associação para o tráfico e de organização criminosa (arts. 33 e 35, c/c art. 40, V, da Lei 11.343/2006, e art. 2º da Lei 12.850/2013).
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de São Paulo, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Jorge Mussi, não conheceu do HC 496.062/SP.
+    No presente writ, o Impetrante afirma que o paciente “sofre de carcinoma basocelular, graves problemas cardiorespiratórios e depressão e, no momento de sua prisão, fazia tratamento para cura do câncer”. Ressalta que “há necessidade comprovada de tratamento em local especializado ou em residência, acompanhamento médico constante e uso diário de medicamentos que não possuem na unidade prisional”. Defende, em síntese, a possibilidade de concessão de prisão domiciliar para o paciente. Aponta circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Aduz falta de fundamentação idônea do decreto prisional. Requer, em medida liminar e no mérito, a substituição da prisão preventiva por prisão domiciliar e, sucessivamente, a concessão de liberdade provisória.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    De se destacar inicialmente que o Supremo Tribunal Federal, no julgamento do HC n. 109.956/PR, buscando dar efetividade às normas previstas no art. 102, inciso II, alínea "a", da Constituição Federal, e nos arts. 30 a 32 da Lei n. 8.038/90, passou a não mais admitir o manejo do habeas corpus originário perante aquela Corte em substituição ao recurso ordinário cabível, entendimento adotado por este Superior Tribunal de Justiça, a fim de que fosse restabelecida a organicidade da prestação jurisdicional que envolve a tutela do direito de locomoção.
+    Assim, insurgindo-se a presente impetração contra acórdão do Tribunal de origem que denegou a ordem pleiteada no prévio writ, mostra-se incabível o manejo do habeas corpus originário, já que não configurada qualquer das hipóteses elencadas no art. 105, inciso I, alínea "c", da Constituição Federal, razão pela qual não merece conhecimento.
+    Entretanto, o constrangimento apontado na inicial será analisado, a fim de que se verifique a existência de flagrante ilegalidade que justifique a atuação de ofício por esta Corte Superior de Justiça.
+    Dos elementos colacionados nos autos, infere-se que o paciente teve prisão preventiva decretada em 14/11/2018, e, posteriormente (18/12/2018), foi denunciado pela suposta prática dos delitos tipificados nos arts. 33 e 35, c.c. art 40, inciso V, ambos da Lei n. 11.343/2006, e 2º da Lei n.12.850/2006, porque, juntamente com outros 30 comparsas, integraria organização criminosa, com "a finalidade de cometer infrações penais (tráfico interestadual de drogas), com ramificações em outro estado da federação brasileira, logisticamente estruturada de forma a viabilizar o transporte, armazenamento e a distribuição de grandes carregamentos de droga" (e-STJ fl. 46).
+    (…)
+    Verifica-se que, em 14/11/2018, o Juiz singular, acolhendo representação da Autoridade Policial, com parecer favorável do Parquet estadual, decretou a prisão preventiva em desfavor do paciente, para a garantia da ordem pública e para assegurar a aplicação da lei penal, dada a gravidade da conduta atribuída ao ora paciente.
+    Na oportunidade, pontuou o Togado processante que "os Relatórios de Inteligência Policial juntados aos autos e o organograma trazido a fls. 359, descrevem detidamente os elementos da organização e a atuação de cada um dentro das células criminosas espalhadas nos Estados citados" (e-STJ, fl. 34, grifou-se).
+    Inconformada, a defesa ingressou com remédio constitucional perante o Tribunal estadual, que denegou a ordem, explicitando que "a prisão se objetiva evitar que o grupo se reúna, se reorganize, voltando a articular a continuidade do negócio, desmantelando a associação" (e-STJ, fl. 29).
+    Quanto ao pleito de substituição da cautelar provisória por prisão domiciliar, asseverou a Corte a quo que "não há comprovação inequívoca nestes autos de ser grave a enfermidade que afirma a defesa acometer o paciente, tampouco de que no estabelecimento prisional não está recebendo o necessário e adequado cuidado médico, não se verificando, assim, a apontada ilegalidade" (e-STJ fls. 29-30).
+    Ainda, enfatizou-se no acórdão impugnado que "eventual tratamento farmacológico pode ser ministrado na unidade prisional, bem como que não consta nenhuma anotação acerca da necessidade de internação" (e-STJ, fls. 30-31).
+    Pois bem.
+    Delineado o contexto fático processual, ressalta-se, ab initio, a impossibilidade de apreciação da alegada ausência de fundamentação idônea do decreto preventivo, uma vez que, em consulta ao sistema processual deste Sodalício, verificou-se que, além do inconformismo em apreço, foi impetrado e julgado nesta Corte o HC n. 496.704/SP, também buscando a revogação da prisão preventiva do ora paciente, decretada na Ação Penal n. 0004130-69.2018.8.26.0077.
+    Desta forma constata-se a mera reiteração de pedido, não tendo a defesa trazido qualquer fato capaz de dar ensejo à nova análise por este Tribunal do mencionado pleito, verificando-se, portanto, a inadmissibilidade do presente inconformismo.
+    (...)
+    Melhor sorte não acolhe o impetrante no que tange ao pedido de prisão domiciliar.
+    Com advento da Lei n. 13.257/16, permitiu-se ao juiz a substituição da prisão cautelar pela domiciliar quando o agente for extremamente debilitado por motivo de doença grave. Deve-se ressaltar, contudo, que a previsão insculpida na lei reformadora do art. 318 do Código de Processo Penal não é de caráter puramente objetivo e automático, cabendo ao magistrado avaliar a situação do custodiado e ainda a adequação da medida.
+    No caso, observa-se que a pretensão do paciente foi rechaçada pelas instâncias ordinárias considerando que não foi demonstrado nos autos, de forma contundente, que o tratamento médico supostamente necessário deixou de ser, ou não será, devidamente prestado nas dependências do estabelecimento prisional em que o paciente se encontra custodiado.
+    Nesse sentido:
+    (…).
+    Assim, reformar do entendimento firmado pelas instâncias de origem, demandaria o exame de matéria fático-probatória, providência vedada na estreita via do habeas corpus.
+    Arrematando, frisa-se que condições pessoais favoráveis não têm o condão de, por si sós, desconstituir a prisão preventiva, quando há nos autos elementos hábeis, de ordem objetiva ou subjetiva, que autorizam a manutenção da medida extrema, como ocorre in casu.
+    Finalmente, tendo as instâncias ordinárias concluído pela imprescindibilidade da prisão preventiva, resta clara a insuficiência das medidas cautelares diversas, uma vez que, além de haver motivação apta a justificar o seqüestro corporal a bem da ordem pública, a sua aplicação não se mostraria adequada e suficiente para reprimira atividade ilícita desenvolvida pelo paciente.
+    Dessa forma, evidenciados os pressupostos e motivos autorizadores da custódia cautelar, elencados no art. 312 do Código de Processo Penal, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+    Diante do exposto, por se afigurar manifestamente incabível, não se conhece do habeas corpus substitutivo.”
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata substituição da prisão preventiva do paciente por prisão domiciliar.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colham-se informações, em caráter de urgência, junto ao Juízo da 1ª Vara Criminal da Comarca de Birigui/SP (Processo 0004130-69.2018.8.26.0077) e ao Tribunal de Justiça do Estado de São Paulo, devendo remeter cópia das peças que reputarem relevantes.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 24 de abril de 2019.
+Ministra Rosa Weber
+Relatora
