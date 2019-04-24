@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GABRIEL DE MENEZES, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (HC n. 4004105-45.2019.8.24.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 18/1/2019 (fl. 77) por ter supostamente praticado o delito tipificado no art. 171 do Código Penal (estelionato). Referida custódia foi convertida em preventiva (fls. 21/22).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - ESTELIONATO (CP, ART. 171, CAPUT) - DECISÃO QUE MANTEVE A PRISÃO PREVENTIVA E, ADEMAIS, INDEFERIU A EXPECTATIVA DE SUSPENSÃO CONDICIONAL DO PROCESSO. NEGATIVA DE AUTORIA DELITIVA - RECLAMO NÃO CONHECIDO NO PONTO - QUESTÃO AFETA AO MÉRITO - IMPOSSIBILIDADE DA ABORDAGEM NA VIA ESTREITA DO WRIT.
+O habeas corpus não se presta para a análise de questões que envolvam um exame aprofundado da matéria fático-probatória, de modo que o reconhecimento de eventual ilegalidade somente poderá se dar quando esta for de plano verificada, razão pela qual se torna inviável conhecer do writ no particular.
+PERICULUM LIBERTATIS - REQUISITO PREENCHIDO - FLAGRANTE DA EXECUÇÃO, EM TESE, DO "GOLPE DO BILHETE PREMIADO" - ACUSAÇÃO DE DOIS CRIMES COMETIDOS EM CURTO LAPSO TEMPORAL - HABITUALIDADE CONSTATADA - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA - PACIENTE, ADEMAIS, SEM VINCULAÇÃO COM O DISTRITO DA CULPA E, BEM AINDA, FLAGRADO AUXILIANDO COMPARSAS A EMPREENDEREM FUGA COM A APROXIMAÇÃO DA POLÍCIA - APLICAÇÃO DA LEI PENAL QUE MERECE PROTEÇÃO - CÁRCERE PREVENTIVO MANTIDO.
+I - O engenho, a princípio, de grupo criminoso para atuar na prática de velados golpes patrimoniais na sociedade permite despontar o hábito do réu voltado às empreendidas ilícitas e, por conseguinte, à sua perniciosidade social para que lhe seja oferecida a liberdade, com ou sem restrições, mormente quando se transparece que o paciente é contumaz na atuação criminosa e faz dela meio recorrente, capaz de lhe ilustrar a máxima periculosidade ao seio social.
+II - A evasão do distrito da culpa pelo incriminado (ou o auxílio prestado para que eventuais comparsas o façam), normalmente por meio do expediente da fuga, representa, a uma só vez, o nascedouro de riscos à sociedade, somado ao justo receio de entraves a persecutio criminis, campo fecundo onde a justificativa da garantia da aplicação da lei penal encontra razão e proporção quase que aritmética para a decretação e manutenção da prisão na forma preventiva.
+SUSPENSÃO CONDICIONAL DO PROCESSO - IMPOSSIBILIDADE - SOMATÓRIO DA PENA MÍNIMA DOS CRIMES QUE ULTRAPASSA O LIMITE DE 01 ANO - ÓBICE LEGAL - EXEGESE DO ART. 89 DA LEI N. 9.099/1995 E ENUNCIADO DE SÚMULA N. 243 DO STJ.
+Antes de uma expectativa, de acordo com o enunciado de Súmula n. 243/STJ a suspensão condicional do feito não se coaduna com infrações penais cometidas em concurso material, concurso formal ou continuidade delitiva, quando a pena mínima cominada, seja pelo somatório, seja pela incidência da majorante, ultrapassar o limite de um (01) ano.
+AFIRMAÇÃO DE BONS PREDICADOS DO PACIENTE - CIRCUNSTÂNCIAS QUE, POR SI SÓS, NÃO TÊM O CONDÃO DE GARANTIR SUA SOLTURA.
+Impossível a soltura do paciente com fulcro apenas em bons predicados (idoneidade moral, primariedade, trabalho e residência fixa), uma vez que tais circunstâncias são insuficientes, sozinhas, para impedir a prisão cautelar, devendo tais elementos serem sopesados em conjunto com todo o contexto fático-probatório.
+PLEITO PARA SUBSTITUIÇÃO DA PRISÃO POR OUTRA MEDIDA CAUTELAR - IMPOSSIBILIDADE - SEGREGAÇÃO DEVIDAMENTE FUNDAMENTADA.
+Inviável a aplicação de medidas diversas (art. 319 do Código de Processo Penal) quando presentes todos os elementos necessários à prisão cautelar, especialmente se consideradas as questões particulares ao caso concreto.
+SUPOSTA DESPROPORCIONALIDADE DA PRISÃO - ALEGAÇÃO DE QUE A CUSTÓDIA PREVENTIVA REPRESENTA PUNIÇÃO MAIS SEVERA DO QUE A SUPOSTA CONDENAÇÃO - SITUAÇÃO MERAMENTE HIPOTÉTICA - AFERIÇÃO POSSÍVEL SOMENTE DEPOIS DA INSTRUÇÃO CRIMINAL, SOPESADAS AS CONDIÇÕES DO ART. 59 DO CP - INVIABILIDADE DA DISCUSSÃO NA ESFERA DO HABEAS CORPUS - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Encontrando-se bem evidenciados os requisitos dos arts. 312 e 313 do CPP, não há como desconsiderar a necessidade da custódia cautelar frente a um suposto resultado final do processo menos gravoso ao paciente. ORDEM CONHECIDO EM PARTE E DENEGADA (fls. 36/38).
+No presente writ, nega a autoria delitiva e ressalta as condições pessoais favoráveis do paciente. Aduz ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal e defende a suficiência da aplicação de medidas cautelares alternativas.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura, com a aplicação de medidas cautelares, se for o caso.
+Indeferida a liminar (fls. 70/73) e informações prestadas (fls. 75/80 e 81/125), o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 128/136).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Das informações obtidas na página eletrônica do Tribunal de origem, verifica-se que em 27/3/2019 foi concedida liberdade provisória ao ora paciente, expedindo-se alvará de soltura em seu favor.
+Assim, constata-se a perda superveniente do objeto deste mandamus.
+Ante o exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
