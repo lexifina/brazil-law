@@ -1,0 +1,129 @@
+DECISÃO
+1. Trata-se de agravo interposto por CAMARGO CORRÊA DESENVOLVIMENTO IMOBILIÁRIO S.A., contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 364-366):
+COMPROMISSO DE COMPRA E VENDA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO PARA CONDENAR A RÉ AO PAGAMENTO DE DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. PRAZO DE TOLERÂNCIA. COMISSÃO DE CORRETAGEM E TAXA SATI. DEVOLUÇÃO SIMPLES DOS VALORES PAGOS. JUROS REMUNERATÓRIOS. CORREÇÃO MONETÁRIA. ÍNDICE APLICADO NO PERÍODO DE MORA.
+1. ATRASO INJUSTIFICADO NA ENTREGA DA UNIDADE PROMETIDA À VENDA AOS AUTORES.
+Não há como afastar a responsabilidade pela mora 110 cumprimento da obrigação, visto que empresas do porte da ré, que atuam há anos no mercado imobiliário, devem se ajustar a eventuais embaraços para finalizar a obra que se comprometeu a vender. Os motivos alegados pela ré configuram o que se convenciou chamar fortuito interno, e, assim, não têm pode): liberatório da obrigação. Não obstante a abusividade que se verifica na aplicação desse prazo de tolerância, deve ser mantida a sentença quanto ao período de mora que restou fixado, pois ausente recurso dos autores nesse sentido.
+2. DANOS MATERIAIS. A indenização por danos materiais corresponde à privação injusta do uso do bem e encontra fundamento na percepção dos frutos que lhe foi subtraída pela demora no cumprimento da obrigação.
+3. DANO MORAL. É inegável que o inadimplemento do contrato, associado ao total descaso da ré causaram o prejuízo moral alegado na petição inicial. Como se vê, os autores foram iludidos com a promessa da compra do imóvel oferecida pela ré, agravada pela situação da longa espera pela entrega do bem. Não se olvida que a compra do imóvel gera expectativas e esperanças que acabaram frustradas. Ademais, a inércia da ré em promover a entrega do imóvel excedeu o razoável e certamente dificultou ainda mais a situação dos autores.
+4. COMISSÃO DE CORRETAGEM E SERVIÇO DE ASSESSORIA TÉCNICO IMOBILIÁRIA - SATI.
+Razão parcial assiste aos autores quanto à pretensão de ressarcimento da quantia de R$ 5.550,80, correspondente ao pagamento do SATI. Não há qualquer indicativo de que estes serviços tenham sido prestados em favor da autores e tampouco de que foram tidos como facultativos, à escolha da adquirente. São serviços que se confundem com a própria atividade de corretagem, cuja retribuição foi reconhecida como devida. A contratação forçada, imposta ao comprador do imóvel, representa prática abusiva e está definida no art. 39 do Código de Defesa do Consumidor. O consumidor não tem escolha e acaba por aceitar as condições impostas ilicitamente pelo vendedor e seus prepostos. Daí o direito de restituição que deve ser reconhecido aos autores da quantia que pagaram indevidamente. Entretanto, não é o caso de se determinar a devolução em dobro da quantia paga, nos termos do art. 42, parágrafo único, do Código de Defesa do Consumidor, uma vez que a cobrança baseou-se na contratação, que somente agora foi declarada abusiva.
+5. JUROS REMUNERATÓRIOS. Em contratos de promessa de compra e venda de imóvel em construção, - descabe a cobrança de juros remuneratórios antes da entrega das chaves do imóvel, visto que, nesse período, não há capital da construtora/incorporadora mutuado ao promitente comprador, tampouco utilização do imóvel prometido. Precedentes do STJ.
+6. CORREÇÃO MONETÁRIA. É incontroverso o atraso na conclusão do empreendimento. Contudo, não se mostra razoável suspender totalmente a correção do saldo devedor do contrato, porque a correção monetária não traduz qualquer acréscimo para o credor e nada mais é do que recompor o valor da moeda. Conquanto o Auto de Conclusão de Obra - "habite-se" - já tenha sido expedido para o empreendimento, O saldo devido deve ser corrigido monetariamente pelo INPC até o vencimento (art. 1.710 do Código Civil), afastado o índice setorial - INCC/FGV, indevido após o esgotamento do prazo de entrega do imóvel.
+7. Sentença parcialmente reformada. Negado provimento ao recurso da ré. Parcialmente provido o recurso dos autores.
+Opostos embargos de declaração pela parte recorrida (fls. 379-385), foram rejeitados (fls. 388-397).
+Reapreciados os autos pela Corte de origem, deu-se parcial provimento ao recurso da ré apenas para afastar a restituição da comissão de corretagem paga pelos autores na celebração do contrato e deu-se parcial provimento ao recurso dos autores para condenar a ré à restituição simples do valor cobrado a título de taxa SATI no valor de R$ 800,00 (fls. 541-547).
+Opostos embargos de declaração pela parte recorrente (fls. 550-556), foram rejeitados (fls. 561-565).
+Nas razões do recurso especial (fls. 568-588), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 389, 393, caput e parágrafo único, 394, 395, 402, 403, 421, 927, parágrafo único, 944, caput e parágrafo único, do Código Civil, e arts. 373 e 374, I, do Código de Processo Civil.
+Em apertada síntese, sustenta a ocorrência de caso fortuito em razão das fortes chuvas e da escassez de mão de obra no segmento da construção civil.
+Argumenta ser indevida a condenação ao pagamento de indenização por lucros cessantes, uma vez que os recorridos não demonstraram a finalidade locatícia que seria destinada ao imóvel.
+Alega que o contrato celebrado entre as partes previa a forma de correção monetária e de juros e multa a serem aplicados.
+Por fim, afirma que a jurisprudência deste C. STJ é firme no sentido de que o simples atraso na entrega do imóvel, por si só, não é capaz de gerar dano moral. Subsidiariamente, requer a diminuição do valor arbitrado a título de indenização por danos morais.
+Contrarrazões ao recurso especial às fls. 633-647.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda, a Corte de origem afastou a alegada ocorrência de caso fortuito ou força maior, suscitada pela parte recorrente para justificar o atraso na entrega da obra, nos seguintes termos (fl. 368):
+Em que pese o entendimento da ré, o prazo de tolerância se dá, justamente, em razão da imprevisibilidade de ocorrências que podem comprometer o andamento das obras. Contudo, tudo isso faz parte do risco do empreendimento das rés e já é (ou deveria ser) por ela considerado quando da fixação do prazo de entrega da obra. Daí porque tais intercorrências não aproveitam à ré para autorizá-la a descumprir o prazo anunciado.
+A existência de exigências administrativas para construção e entrega do imóvel, tais como a concessão do "habite-se", bem como a dificuldade ocasionada por chuvas intensas e de encontrar mão-de-obra especializada, são circunstâncias conhecidas pela ré, empresa que, de acordo com seu estatuto social, dedica-se à construção e comercialização de imóveis, e, portanto, deveriam ter sido consideradas no momento da contratação, quando fixada a data prevista para a entrega do imóvel aos autores.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal quanto à existência de caso fortuito e força maior, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme enunciado de Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido, os seguintes precedentes (grifamos):
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. ALEGAÇÃO E EXCESSO DE CHUVAS E DE ESCASSEZ DE MÃO DE OBRA. CASO FORTUITO E FORÇA MAIOR NÃO CONFIGURADOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. Concluir que o excesso de chuvas e a escassez de mão de obra configuram fatos extraordinários e imprevisíveis, traduzindo-se como hipótese de caso fortuito e força maior, demanda o reexame do conjunto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 693.255/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 25/08/2015, DJe 03/09/2015)
+____________
+RECURSOS ESPECIAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEIS NA PLANTA. ENTREGA DA OBRA. ATRASO. AÇÃO DE INDENIZAÇÃO. PROPRIETÁRIO PERMUTANTE. LEGITIMIDADE. CLÁUSULA PENAL. RECIPROCIDADE. LUCROS CESSANTES. CUMULAÇÃO. POSSIBILIDADE. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. PROVA. ÔNUS. RÉU. EXCESSO DE CHUVAS. ESCASSEZ DE MÃO DE OBRA. CASO FORTUITO. FORÇA MAIOR. NÃO CONFIGURAÇÃO. LUCROS CESSANTES. TERMO FINAL. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. INADIMPLEMENTO CONTRATUAL. DANOS MORAIS.
+ ..
+7. Essa Corte já se pronunciou em inúmeras oportunidades no sentido de que a inversão das conclusões da Corte local para afirmar, por exemplo, que o excesso de chuvas e a escassez de mão de obra configuram fatos extraordinários e imprevisíveis, enquadrando-se como hipóteses de caso fortuito ou força maior, demandaria o reexame do conjunto fático-probatório dos autos.
+ ..
+10. Recursos especiais parcialmente conhecidos e não providos.
+(REsp 1536354/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/06/2016, DJe 20/06/2016)
+3. De outra parte, no que tange aos lucros cessantes, constata-se que a conclusão do Tribunal estadual está em sintonia com a jurisprudência dominante desta Corte Superior, segundo a qual é presumida a existência de lucros cessantes a serem indenizados pela construtora quando há descumprimento do prazo de entrega do imóvel.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. IMÓVEL. ENTREGA. ATRASO. CASO FORTUITO. CIRCUNSTÂNCIA NÃO RECONHECIDA NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. VEDAÇÃO. LUCROS CESSANTES. PROMITENTE COMPRADOR. PRESUNÇÃO DE PREJUÍZO. ADMISSIBILIDADE. DANO MORAL. AFASTAMENTO OU REDUÇÃO. SÚMULA Nº 7/STJ.
+1. O provimento do especial, para reconhecer a ocorrência de caso fortuito, requer nova incursão fático-probatória, procedimento inviável em recurso especial por força da Súmula nº 7 do Superior Tribunal de Justiça.
+2. O descumprimento do prazo para do imóvel objeto de compromisso de compra e venda viabiliza a condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador.
+3. O Tribunal de origem, ao consignar a existência de dano moral e fixar o seu valor, incursionou detalhadamente na apreciação do conjunto fático-probatório, estando obstada a inversão do julgado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp nº 887.148/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/8/2016, DJe 16/8/2016).
+____________
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. 1. OMISSÃO NÃO CONFIGURADA. 2. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA N. 83 DO STJ. 3. LUCROS CESSANTES. DANO PRESUMIDO. CABIMENTO. SÚMULA N. 83 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não viola o artigo 535 do Código de Processo Civil de 1973, nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia dos autos.
+2. É possível a inversão da cláusula penal moratória em favor do consumidor, na hipótese de inadimplemento do promitente vendedor, consubstanciado na ausência de entrega do imóvel no prazo pactuado.
+Precedentes.
+3. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+4. Agravo interno improvido
+(AgInt no REsp 1.656.221/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/9/2017, DJe 19/9/2017).
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+4. Do mesmo modo, não prospera o inconformismo quanto ao índice de correção monetária incidente sobre os valores a serem restituídos, uma vez que o entendimento firmado no acórdão está em plena consonância com a jurisprudência assentada nesta Corte, no sentido de que não se aplica o INCC como índice de correção após à entrega da obra (AgRg no REsp 579.160/DF, Quarta Turma, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 25/10/2012).
+Nesse sentido, confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. ATRASO NA ENTREGA DO BEM. INAPLICABILIDADE DA CORREÇÃO MONETÁRIA COM BASE NO INCC APÓS A ENTREGA. PRECEDENTES. 2. LUCROS CESSANTES. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE PELOS TRIBUNAIS. INCIDÊNCIA DA SÚMULA 284/STF. 3. AGRAVO INTERNO DESPROVIDO.
+1. "Não se aplica o INCC como índice de correção após a entrega da obra" (AgRg no REsp n. 579.160/DF, Relatora a Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25/10/2012).
+2. A não individualização e indicação, na petição de recurso especial, do dispositivo legal cuja interpretação tenha sido divergente, atraem a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1113740/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+____________
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - EMBARGOS DE DECLARAÇÃO REJEITADOS - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. Concluindo o órgão julgador, após ampla análise do conjunto fático-probatório dos autos, que o atraso na entrega do imóvel, diante das peculiaridades do caso concreto, ultrapassou o mero dissabor, acarretando danos morais, não se revela possível modificar esse entendimento na via do recurso especial, tendo em vista o óbice da Súmula 7 do STJ. Precedentes.
+3. Os entendimentos do acórdão recorrido quanto à necessidade de indenização por lucros cessantes na hipótese em questão; a possibilidade de cumulação de indenização por lucros cessantes com a multa de cláusula penal; e a inaplicabilidade do INCC para correção do saldo devedor após o transcurso da data limite para entrega da obra, estão em conformidade com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 881.499/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/09/2016, DJe 04/10/2016)
+____________
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. REEXAME. IMPOSSIBILIDADE. REAJUSTE. INCC. JUROS COMPENSATÓRIOS. COBRANÇA A PARTIR DA ASSINATURA DO CONTRATO. POSSIBILIDADE.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 535 do Código de Processo Civil.
+2. "A simples interpretação de clausula contratual não enseja recurso especial" (Súmula 5/STJ).
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+4. Não se aplica o INCC como índice de correção após à entrega da obra.
+5. Em contratos de promessa de compra e venda de imóvel em construção, é legítima a cobrança de juros compensatórios antes da entrega das chaves.
+6. Agravo regimental a que se nega provimento.
+(AgRg no REsp 579.160/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/09/2012, DJe 25/10/2012)
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+5. No que se refere aos danos morais, a Corte de origem destacou (fls. 370-371):
+Como se vê, os autores foram iludidos com a promessa da compra do imóvel oferecida pela ré, agravada pela situação da longa espera pela entrega do bem.
+Não se olvida que a compra do imóvel gera expectativas e esperanças que acabaram frustradas. Ademais, a inércia da ré em promover a entrega" do imóvel excedeu o razoável e certamente dificultou ainda mais a situação dos autores.
+Esta conduta, com segurança, afetou a dignidade dos autores, que não puderam usufruir do bem adquirido e se viram, até então, privados das quantias desembolsadas. Assim, embora a questão trate de inadimplemento contratual - risco inerente a qualquer negócio jurídico -, justifica-se o pedido de reparação por danos morais. Já decidiu nesse sentido o Tribunal em casos semelhantes: "Ap. n. 0044332-77.2008.8.26.0000, rei. Des. JOÃO FRANCISCO MOREIRA VIEJAS, dj. 14.03.12; Ap. n. 0001671-13.2011.8.26.0248, rel. Des. NATAN ZELINSCHI DE ARRUDA, dj. 06/10/2011".
+Portanto, é devida a indenização como forma de ressarcir os danos ocasionados aos autores.
+A jurisprudência do STJ possui entendimento no sentido de que "muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da controvérsia podem configurar a lesão extrapatrimonial" (1.642.314/SE, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 22/3/2017).
+No presente caso, o Tribunal de origem considerou as peculiaridades no caso concreto para concluir que o fato ultrapassou a esfera dos acontecimentos cotidianos, e que restou configurado o dano moral.
+Dessa forma, não é possível alterar o entendimento do acórdão recorrido pois demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+6. Quanto ao valor arbitrado a título de danos morais, somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização fixada a título de dano moral, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ para possibilitar sua revisão.
+Nesse sentido (grifamos):
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DO VALOR DA CAUSA. DANOS MORAIS FIXADOS AO ARBÍTRIO DO JUIZ. SÚMULAS N. 7 E 83 DO STJ.
+1. É possível a fixação dos danos morais de acordo com o prudente arbítrio do juiz da causa. Precedentes.
+2. A revisão do quantum fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 730.160/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 15/3/2016, DJe 28/03/2016)
+____________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM. REEXAME DE PROVAS E REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REQUERIMENTO DE MAJORAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA N. 7 DECISÃO MANTIDA.
+1. É pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Incidência do óbice da Súmula 7/STJ.
+2. Para alcançar conclusão diversa daquela a que chegou o Tribunal de origem, seria imprescindível o reexame de prova e a reinterpretação de cláusula contratual, sendo ambos inviáveis nesta instância especial (Súmulas 5 e 7/STJ).
+3. Em sede de recurso especial, não é possível rever os critérios e o percentual adotado pelo julgador na fixação dos honorários advocatícios, por importar o reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 821.133/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta
+Turma, julgado em 08/3/2016, DJe 14/3/2016)
+A Corte de origem, consideradas as peculiaridades do caso em questão, fixou a indenização em R$ 30.000,00 (trinta mil reais), quantia que não se afigura elevada a ponto de ensejar a intervenção deste Superior Tribunal.
+7. Por fim, no tocante a possibilidade de incidência de juros remuneratórios mesmo antes da entrega do bem, razão assiste à parte recorrente.
+Sobre essa questão, o acórdão vergastado consignou (fl. 373):
+No tocante aos juros remuneratórios, respeitado o entendimento do Douto Magistrado, procede o pedido dos autores de devolução dos juros incidentes sobre o saldo devedor aplicados no período compreendido entre a data prevista para a entrega do bem e a data da entrega das chaves.  ..
+No entanto, tal fundamento encontra-se dissonante com o entendimento desta Corte Superior que tem o entendimento no sentido de que, no contrato de compra e venda de unidade autônoma em incorporação imobiliária, não é abusiva a cláusula que prevê a cobrança de juros remuneratórios antes da entrega das chaves do imóvel ao comprador, também conhecidos pela expressão "juros no pé".
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA. APELO DA CONSTRUTORA. ENTREGA DO IMÓVEL. COBRANÇA DE JUROS COMPENSATÓRIOS ANTES DA ENTREGA DO IMÓVEL (JUROS NO PÉ). POSSIBILIDADE RECHAÇADA NO CASO CONCRETO EM RAZÃO DA FALTA DE PREVISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ.
+(..)
+4. A Segunda Segunda Seção do STJ, por ocasião do julgamento do EREsp nº 670.117/PB, concluiu que "não se considera abusiva cláusula contratual que preveja a cobrança de juros antes da entrega das chaves, que, ademais, confere maior transparência ao contrato e vem ao encontro do direito à informação do consumidor (art. 6º, III, do CDC), abrindo a possibilidade de correção de eventuais abusos" (EREsp nº 670.117/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 26/11/2012). No caso dos autos, porém, o Tribunal de origem afirmou que a cobrança dos chamados juros de pé se mostrava indevida, não em função da nulidade de eventual estipulação contratual nesse sentido, mas pela ausência de previsão no contrato para cobrança desse encargo. A reforma de tal entendimento, portanto, encontra óbice nos enunciados das Súmulas nºs 5 e 7 do STJ.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se a decisão proferida, por não haver motivos para a sua alteração.
+7. Agravo interno não provido.
+(AgInt no REsp 1613390/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/03/2017, DJe 03/04/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. "JUROS NO PÉ". SÚMULA 83/STJ.
+1. A Segunda Seção, no julgamento do EREsp 670.117/PB, decidiu que não é abusiva a cláusula de cobrança de juros compensatórios incidentes em período anterior à entrega das chaves nos contratos de compromisso de compra e venda de imóveis em construção sob o regime de incorporação imobiliária (Rel. para acórdão Ministro Antonio Carlos Ferreira, julgado em 13.6.2012).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 144.732/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/09/2016, DJe 21/09/2016)
+EMBARGOS DE DIVERGÊNCIA. DIREITO CIVIL. INCORPORAÇÃO IMOBILIÁRIA. IMÓVEL EM FASE DE CONSTRUÇÃO. COBRANÇA DE JUROS COMPENSATÓRIOS ANTES DA ENTREGA DAS CHAVES. LEGALIDADE.
+1. Na incorporação imobiliária, o pagamento pela compra de um imóvel em fase de produção, a rigor, deve ser à vista. Nada obstante, pode o incorporador oferecer prazo ao adquirente para pagamento, mediante parcelamento do preço. Afigura-se, nessa hipótese, legítima a cobrança de juros compensatórios.
+2. Por isso, não se considera abusiva cláusula contratual que preveja a cobrança de juros antes da entrega das chaves, que, ademais, confere maior transparência ao contrato e vem ao encontro do direito à informação do consumidor (art. 6º, III, do CDC), abrindo a possibilidade de correção de eventuais abusos.
+3. No caso concreto, a exclusão dos juros compensatórios convencionados entre as partes, correspondentes às parcelas pagas antes da efetiva entrega das chaves, altera o equilíbrio financeiro da operação e a comutatividade da avença.
+4. Precedentes: REsp n. 379.941/SP, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 3/10/2002, DJ 2/12/2002, p. 306, REsp n. 1.133.023/PE, REsp n. 662.822/DF, REsp n. 1.060.425/PE e REsp n. 738.988/DF, todos relatados pelo Ministro ALDIR PASSARINHO JÚNIOR, REsp n. 681.724/DF, relatado pelo Ministro PAULO FURTADO (Desembargador convocado do TJBA), e REsp n. 1.193.788/SP, relatado pelo Ministro MASSAMI UYEDA.
+5. Embargos de divergência providos, para reformar o acórdão embargado e reconhecer a legalidade da cláusula do contrato de promessa de compra e venda de imóvel que previu a cobrança de juros compensatórios de 1% (um por cento) a partir da assinatura do contrato. (EREsp 670.117/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 13/06/2012, DJe 26/11/2012, g.n.)
+Portanto, encontrando-se o acórdão do Tribunal de origem em desconformidade com esse entendimento, merece reforma.
+8. Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, apenas para determinar a manutenção das cláusulas do contrato celebrado pelas partes que estabelecem a cobrança de juros remuneratórios antes da entrega das chaves do imóvel.
+Mantidos os ônus sucumbenciais fixados na origem. Honorários advocatícios fixados em 12% do valor da condenação.
+Publique-se. Intimem-se.
