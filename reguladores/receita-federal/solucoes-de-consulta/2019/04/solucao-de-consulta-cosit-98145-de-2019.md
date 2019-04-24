@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98145, de 15 de abril de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8525.80.29
+Mercadoria: Câmera digital com sensor CMOS (20,2 megapixels), cujas imagens são gravadas em cartão SD de 32 GB ou 64 GB, apresentada num sortido acondicionado para venda a retalho numa única caixa de MDF e alumínio juntamente com veículo aéreo não tripulado de asa fixa (conhecido comercialmente por drone ou VANT), rádio controle, carregador, 2 baterias, antena de telemetria e kit catapulta. O conjunto é utilizado para capturar fotos aéreas para confecção de ortomosaico (mapeamento aéreo). O VANT possui dimensões de 69 cm de comprimento x 100 cm de envergadura e peso de 1.400 g, autonomia de 60 minutos de voo e velocidade de cruzeiro de 55 a 80 km/h. O rádio controle opera na frequência de 2.4 GHz.
+Dispositivos Legais: RGI 1 c/c RGI 3 b) (texto da posição 85.25), RGI 6 (texto da subposição 8525.80) e RGC 1 (textos do item 8525.80.2 e do subitem 8525.80.29) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.145-2019.pdf]
