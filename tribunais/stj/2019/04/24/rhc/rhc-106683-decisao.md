@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.18.078385-4/000).
+Consta dos autos que o paciente foi preso em flagrante e denunciado pela suposta prática do crime de tráfico de drogas, pois trazia consigo e tinha sob sua guarda, para fins de tráfico, 13 microtubos de cocaína, contendo 10g (dez gramas), e 63 invólucros plásticos de crack, com 20,2g (vinte gramas e dois decigramas). Em audiência de custódia, a segregação foi convertida em prisão preventiva.
+Inconformada, a defesa impetrou habeas corpus, tendo o Tribunal de origem denegado a ordem nos termos da seguinte ementa (e-STJ fl. 126):
+HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS - PRISÃO PREVENTIVA - REVOGAÇÃO - PRESENÇA DOS ELEMENTOS ENSEJADORES DA CUSTÓDIA CAUTELAR - DECISÃO DEVIDAMENTE FUNDAMENTADA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. A decretação da custódia cautelar, independentemente de qualquer providência cautelar anterior, apenas deverá ocorrer em situações absolutamente necessárias, a saber, caso se encontre provada a presença dos requisitos do art. 312 do CPP, quais sejam, risco à ordem pública, econômica, conveniência da instrução criminal ou para assegurar o cumprimento da lei penal, aliada às circunstâncias do art. 313 do CPP. Se o MM. Juiz fundamenta a decisão com as suas razões de decidir se sustentando em dados concretos dos autos demonstrando a necessidade da segregação, não há que se falar em constrangimento ilegal.
+Nas razões do presente writ, a Defensoria Pública sustenta, em linhas gerais, estarem ausentes os requisitos autorizadores da prisão preventiva. Aponta a possibilidade de aplicação de medidas cautelares diversas da prisão (e-STJ fl. 144).
+Requer, liminarmente, que o paciente possa aguardar em liberdade o julgamento do presente recurso. No mérito, pleiteia a revogação da prisão preventiva.
+O pedido liminar foi indeferido (e-STJ fls. 154/155).
+Informações prestadas (e-STJ fls. 159/181 e 183/206).
+Parecer ministerial pela prejudicialidade do recurso (e-STJ fls. 211/215).
+É, em síntese, o relatório.
+Conforme informações prestadas pelo Juízo da 2ª Vara de Tóxicos da Comarca de Belo Horizonte/MG, sobreveio sentença condenatória em desfavor do ora recorrente em 14/12/2018, proferida nos autos da Ação Penal n. 0709560-83.2018.8.13.0024, para condená-lo à pena de 5 anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, ocasião em que foi mantida a custódia preventiva.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (Sexta Turma, AgRg no RHC 50.857/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, julgado em 15/3/2016, DJe 29/3/2016).
+De mais a mais, não observo ser a hipótese de flagrante constrangimento ilegal infligido ao recorrente, porquanto a prisão cautelar está devidamente motivada, conforme destacado no acórdão impugnado (e-STJ fls. 129/131):
+É de se concluir, portanto, que a manutenção da prisão está devidamente justificada e fundamentada, pois presentes os requisitos necessários e ausentes qualquer ilegalidade.
+Impende consignar que de uma acurada análise da documentação acostada ao presente writ, infere-se que o Paciente estava em gozo de liberdade provisória, quando da prática, em tese, do delito supracitado.
+Isso porque, no dia 11/05/2018, lhe fora concedida liberdade provisória com expedição de Alvará de Soltura em relação à prisão ocorrida dois dias antes por suposta prática do delito previsto no artigo 33 da Lei nº 11.343/06 (fls. 15/18).
+Logo, existindo prova da materialidade e indícios suficientes da autoria delitiva e, como exposto, sendo necessária a custódia para garantir a ordem pública, não há que se falar em constrangimento ilegal. (Grifei.)
+Tal o contexto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
