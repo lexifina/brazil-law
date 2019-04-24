@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2066025-97.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Consta dos autos que a paciente foi presa em flagrante em 16-02-2019, como incursa no artigo 33, caput, da Lei n. 11.343/2006, tendo a custódia sido convertida em preventiva.
+Sustenta o impetrante, em síntese, que não estariam presentes os requisitos previstos no artigo 312 do Código de Processo Penal para a decretação da segregação cautelar.
+Aduz que não teria sido demonstrado, com base em elementos concretos, como a liberdade da acusada poderia oferecer risco à ordem pública, ao bom andamento da instrução criminal ou à aplicação da lei penal.
+Sustenta, outrossim, que a paciente preenche os requisitos previstos no art. 318, inciso V, do Código de Processo Penal, suficientes para a substituição da prisão preventiva por custódia domiciliar.
+Argumenta a excepcionalidade da medida extrema, enfatizando que a acusada faria jus a substituição da preventiva por medidas cautelares descritas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva da paciente, fixando, caso entenda necessário, medidas cautelares menos gravosas (art. 319 do CPP), expedindo-se alvará de soltura em seu favor.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que a liminar em habeas corpus "é cabível quando o constrangimento ilegal é manifesto e detectado de imediato por meio do exame sumário da inicial e de documentos que, eventualmente, a acompanharem, o que não ocorre no presente caso, exigindo, então, a análise cuidadosa dos fatos e de documentação, tarefa adequada à ampla cognição da Turma Julgadora" (e-STJ fl. 166).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
