@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Chocolates Garoto S.A., com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 1ª Região assim ementado (e-STJ, fl. 601):
+PROCESSUAL CIVIL E TRIBUTÁRIO. TAXA PELA EMISSÃO DE GUIA DE IMPORTAÇÃO. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. NÃO-APRESENTAÇÃO DAS GUIAS DE IMPORTAÇÃO QUE NÃO MAIS SE ENCONTRAVAM EM PODER DA INSTITUIÇÃO BANCÁRIA. RAZOABILIDADE.
+1. É razoável a recusa da instituição bancária em fornecer guias de taxa de importação que não mais se encontravam em seu poder, tendo em vista que tais documentos, após a transmissão dos dados, e entrega de cópia dos DARFs ao contribuinte, são descartados, nos termos do contrato firmado com a Secretaria da Receita Federal.
+2. A responsabilidade pelo armazenamento dos documentos era, portanto, do próprio contribuinte.
+3. Apelação da autora não provida.
+A recorrente alega a existência de contrariedade ao art. 361 do CPC, por entender que a justificativa do banco em não apresentar as guias de importação não se mostra razoável, apesar do pedido de exibição de documentos, e que não houve designação de audiência especial; e aos arts. 333, II, 334, II, III e IV, do CPC, ao argumento de que o ônus da prova foi invertido.
+Apresentadas contrarrazões às e-STJ, fls. 640/647.
+Admitido o recurso especial na origem (e-STJ, f. 647), foram os autos remetidos a esta Corte de Justiça.
+Parecer do Ministério Público Federal opinando pelo não provimento do recurso especial.
+É o relatório.
+O Tribunal de origem afirmou que o Banco do Brasil, ao ser intimado a apresentar os documentos requeridos pela insurgente, apresentou justificativa razoável, na medida em que o contrato firmado com a Receita Federal o desobrigava de guardar tais documentos. Confira-se (e-STJ, fl. 599):
+Ora, ouvida a requerente sobre a resposta do Banco do Brasil, manifestou-se ela, às fls. 433/434, sem demonstrar, conforme determinado no artigo acima transcrito, que não correspondia à verdade a declaração de não mais possuir tais documentos, limitando-se a argumentar que, em casos semelhantes, o mesmo banco fornecera os documentos solicitados, sem, entretanto, provar que, de fato, os documentos apresentados naqueles processos fossem referentes à mesma taxa discutida nestes autos.
+Ademais, tenho por dispensável, no caso, a realização da audiência de que trata o art. 361 do CPC, uma vez que a negativa da posse dos documentos pelo Banco do Brasil foi justificada com a exibição do próprio contrato firmado com a Secretaria da Receita Federal (fls. 425/428), que o autorizava a inutilizar a via do DARF que ficara em seu poder, após o recebimento da validação do arquivo magnético pelo SERPRO (fl. 428).
+Além do mais, considero relevante o fato destacado na sentença apelada de que o recolhimento da referida taxa ao Tesouro Nacional operava-se mediante DARFs, uma das vias dos quais era entregue ao contribuinte.
+A responsabilidade pelo armazenamento dos documentos, portanto, é do próprio contribuinte.
+Por fim, ressalto que não cabe decidir, neste processo, pedido de reforma da sentença proferida na ação de rito ordinário, quanto aos honorários advocatícios nela fixados, dispensando-se, pois, qualquer análise no particular. Do mesmo modo, não há que se declarar se o recolhimento da taxa é ou não compensável, "independentemente de provas e contas", como discorre a apelante, pois a sentença, in casu, limita-se à análise do pedido de exibição de documentos.
+Desse modo, ainda que a apelante sustente ser necessária a exibição dos documentos como meio de prova do processo em curso, entendo ser razoável a recusa do Banco do Brasil em fornecer algumas guias, que, simplesmente, não mais se encontram em seu poder.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se as razões do banco para a não apresentação dos documentos não são razoáveis, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVA. EXIBIÇÃO DE DOCUMENTO. AUSÊNCIA DE RECUSA DA SEGURADORA. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ACÓRDÃO ALINHADO À JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Rever, na via especial, as conclusões do Tribunal local no sentido de que não ficou comprovado nos autos o requerimento administrativo e que, portanto, não ficou configurada a resistência da recorrida, é obstada pela Súmula nº 7 do STJ.
+3. Acórdão local que decidiu alinhado à jurisprudência desta Corte no sentido de que na ação cautelar de exibição de documentos, não cabe condenação em honorários advocatícios quando não houver resistência do réu na apresentação dos documentos requeridos na exordial.
+4. Em razão da improcedência do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido com imposição de multa.
+(AgInt no AREsp 1.253.990/SE, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/6/2018, DJe 2/8/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
