@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ÁREA PÚBLICA. OCUPAÇÃO. DISPOSITIVO LEGAL E TESE VINCULADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por AGÊNCIA DE FISCALIZAÇÃO DO DISTRITO FEDERAL - AGEFIS, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 319 e-STJ):
+APELAÇÃO CÍVEL. INTERDITO PROIBITÓRIO. SUSPENSÃO DO PROCESSO. INDEFERIMENTO. ÁREA PÚBLICA. OCUPAÇÃO DE BOA-FÉ. IMÓVEL EM PROCESSO DE REGULARIZAÇÃO. ATOS DEMOLITÓRIOS. ABUSIVIDADE.
+1. Existindo a possibilidade de regularização da área pública ocupada de boa fé, é prudente aguardar o fim do processo, antes de efetivar a demolição das benfeitorias erigidas no imóvel.
+2. Indeferiu-se o pedido de suspensão do processo, deu-se provimento ao apelo da autora e julgou-se prejudicado o apelo da ré.
+No recurso especial, a recorrente sustenta afronta ao art. 2º, caput, e parágrafo único, IV e VI, da lei n. 9.784/1999, por violação dos princípios da boa-fé objetiva, da razoabilidade e da proporcionalidade, ao argumento de que inaplicável em matéria de meio ambiente a teoria do fato consumado. Aduz ainda a legitimidade do ato administrativo quanto à demolição e embargo da construção irregular, não cabendo à recorrente comprovar a impossibilidade de regularização.
+Contrarrazões a fls. 353-357 e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A Corte de origem, diante da necessidade de contraditório prévio, obstou a pretensão da aplicação de medida drástica e irreversível da demolição, com fundamento na Lei Distrital n. 2.105/1998, art. 178, caput, até decisão final sobre sua regularização assim aduzindo (fl. 324 e-STJ):
+O estabelecimento comercial permanece em fundcionamento no local há aproximadamente 22 (vinte e dois) anos, sendo que, em 20/03/2013, o beneficiário da licença de ocupação, [NOME], retirou-se da sociedade/apelante, VB Comércio de Alimentos Ltda-ME, cuja administração passou à responsabilidade de sua ex-esposa, Vanadir Barbosa da Silva Roberto (ID 3437913 - pág. 3/5).
+A apelante alega que está em curso na Administração Regional de Santa Maria pedido de revisão do uso e destinação do lote em questão (ID 3437914 - pág. 1), para fins de inclusão no programa PRÓ-DF II, conforme declarações da Administração Regional de Santa Maria de ID 3437911, pgs. 9 e 11.
+Em que pesem as alegações da apelada, AGEFIS, no sentido do descumprimento, pela autora, das cláusulas da Autorização de Uso de Área Pública, a demolição requer o contraditório prévio (CF 5º LV), sobretudo quando consta dos autos que tramita, perante a Administração, pedido de inclusão no Programa de Apoio ao Empreendimento Produtivo do Distrito Federal - PRÓ-DF e não há no processo, até o momento, comprovação da impossibilidade de regularização do imóvel.
+Nestas circunstâncias não é possível a demolição, por se tratar de medida drástica e irreversível, que somente pode ser efetivada caso não seja possível a regularização, nos termos o art. 178, caput, da Lei Distrital 2.105/98 (Dispõe sobre o Código de Edificações do Distrito Federal, DF):  ..
+Como visto a demanda foi solucionada pela instância de origem à luz da interpretação de legislação local aplicada ao caso, não emitindo juízo do valor quanto ao art. 2º, caput, e parágrafo único, IV e VI, da Lei n. 9.784/1999 e tese vinculada, a respeito do qual nem mesmo houve a oposição de embargos de declaração, motivo pelo qual, por falta de cumprimento do requisito do prequestionamento, não se conhece do recurso especial. Aplica-se à hipótese as Súmulas 282/STF e 356 do STF.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
