@@ -1,0 +1,11 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ADVOGADO INTIMADO PARA INSTRUIR E NARRAR DEVIDAMENTE O PEDIDO. DETERMINAÇÃO NÃO ATENDIDA NA ÍNTEGRA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME].
+Ao analisar inicialmente o feito, constatei que os autos não foram devidamente instruídos com todos os documentos essenciais, além de faltarem esclarecimentos sobre a tramitação do Processo-Crime. Daí, por constituir ônus da Defesa zelar pela correta formação do writ (e do seu respectivo recurso), conferi ao Impetrante o prazo de 5 (cinco) dias para trazer cópia da publicação que demonstrasse que o despacho de fl. 75 refere-se ao writ impetrado no Tribunal de origem, além de esclarecer os andamentos do feito originário, sob pena de indeferimento liminar da petição inicial.
+Ao compulsar os documentos acostados à petição de fls. 190-191, constatei que, quanto ao procedimento de primeiro grau, o Impetrante limitou-se a trazer cópias de atos praticados em 2018. Ou seja, a despeito do que determinei expressamente, a Defesa deixou de narrar e juntar aos autos documentos que prestassem informações sobre os andamentos ocorridos após a protocolização da petição inicial - o que se mostra essencial notadamente por se alegar, na inicial, excesso de prazo.
+Assim, diante do desinteresse da Defesa, que deixou de atender integralmente a determinação de fl. 187, não há como analisar o mérito do presente recurso.
+Conforme já referido, não foi acostada à inicial documentos imprescindíveis à solução da controvérsia, além de a narração dos andamentos do processo-crime ter sido deficiente. Ocorre que constitui ônus do Impetrante (ou do Recorrente) narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso) - v.g. STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+Dessa forma, a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o writ "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/6/2018).
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intime-se.
