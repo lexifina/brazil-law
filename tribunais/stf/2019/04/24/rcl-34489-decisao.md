@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – OBJETO – PROCESSO EM CURSO NO SUPREMO – IMPROPRIEDADE.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Eduardo Luiz Rocha Cubas, juiz federal lotado na Subseção Judiciária de Formosa/GO, afirma haver o Tribunal Regional Federal da 1ª Região, no processo administrativo nº 0005627-12.2019.4.01.8000, inobservado a liminar implementada no mandado de segurança nº 36.269.
+    Segundo narra, Vossa Excelência deferiu parcialmente a medida acauteladora postulada na citada impetração para determinar o retorno às funções de magistrado, tendo em vista o decidido pelo Conselho Nacional de Justiça em certa reclamação disciplinar contra si formalizada.
+    Esclarece haver a Corregedoria da Justiça Federal da 1ª Região excluído o próprio nome do processo de remoção para provimento de dois cargos de juiz federal no âmbito da Seção Judiciária do Distrito Federal considerados os artigos 29 e 30 da Resolução nº 1/2008, do Conselho da Justiça Federal, no que impedido de participar de concurso de remoção magistrado indiciado em sindicância ou processo disciplinar.
+    Destaca o agendamento da sessão visando a apreciação dos pleitos de remoção para o próximo dia 25 de abril, a revelar urgência. Entende impróprio equiparar a instauração de processo administrativo a eventual e futuro indiciamento. Conforme argumenta, levando em conta a aplicação subsidiária da Lei nº 8.112/1990, há distinção entre investigado, acusado e indiciado, sendo insuficiente a configurar esta última condição a abertura de processo disciplinar pelo Conselho Nacional de Justiça. Sublinha que o fenômeno somente ocorreria ao final da fase instrutória do processo administrativo.
+    Assevera que o Tribunal de origem não poderia modular os efeitos da decisão dita desrespeitada, por meio da qual assegurado o regresso às funções jurisdicionais sem qualquer restrição ou limitação. Realça ser o magistrado mais antigo a concorrer à remoção, não estando em jogo concurso de promoção por merecimento ou antiguidade.
+    Sob o ângulo do risco, frisa a proximidade da sessão para exame e julgamento dos inscritos, designada para o dia 25 de abril de 2019, às 14h.
+    Requer, em sede liminar, seja garantida a participação no processo de remoção aberto por meio do Edital ASMAG/JF nº 6/2019. Caso ultimada a sessão administrativa, pede a declaração de nulidade do ato. Busca, alfim, a confirmação da providência.
+    O mandado de segurança nº 36.269 aguarda aparelhamento para apreciação definitiva.
+    2. O reclamante sustenta, na inicial, contrariada liminar implementada em mandado de segurança ainda em curso no Supremo. Mostra-se impróprio o surgimento de novo processo, a emperrar a máquina judiciária, voltado a aferir o descumprimento de decisão do Tribunal, prolatada em caso que nele está a tramitar. A reclamação serve à preservação da competência do Tribunal e da autoridade dos respectivos atos, em relação aos quais se pressupõe não se encontrarem em andamento as ações que os motivaram. Essa óptica decorre da organicidade e da dinâmica do Direito instrumental, a direcionar ao máximo de eficácia do ordenamento jurídico com o mínimo de atuação judicante e à desburocratização do processo.
+    A par disso, notem que a irresignação veiculada no mandado de segurança está direcionada contra ato do Conselho Nacional de Justiça. Eventual inconformismo decorrente da atuação do Tribunal Regional Federal da 1ª Região deve ser buscada na via apropriada.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 24 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
