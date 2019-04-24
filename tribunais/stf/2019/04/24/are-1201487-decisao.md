@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado, no relevante:
+    “AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO CONCURSO SOLDADO PM DE 2ª CLASSE CANDIDATO ELIMINADO EM FASE DE INVESTIGAÇÃO SOCIAL Pretensão de reintegração Não cabimento Legalidade da investigação social Inteligência da Lei Orgânica da Polícia (Lei Estadual nº 10.123/1968) Candidato que vive com a família, da qual fazem parte pessoas envolvidas com o meio criminoso Conduta incompatível com a função de policial militar Eliminação que constitui critério objetivo expressamente previsto no edital Motivação idônea que sustenta o ato administrativo, não caracterizando ofensa aos ditames legais e constitucionais, especialmente, diante da discricionariedade inerente à fase de investigação social, na qual, presentes a razoabilidade e proporcionalidade, não pode o Judiciário interferir Sentença mantida. Recurso não provido.”(eDOC 8, p. 279)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e c, da Constituição Federal, aponta-se violação aos arts. 1º, III; 3º, IV; 5º, caput, II, XLV e LVII; 25, caput; e 37, caput e I, do texto constitucional.
+    Nas razões recursais, alega-se a inconstitucionalidade da exclusão do candidato do concurso público, determinada pelo fato de familiares próximos a ele terem cometido crimes. (eDOC 1, p. 294)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, cumpre destacar que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Desse modo, incabível a interposição do recurso extraordinário pela alínea c do inciso III do artigo 102 da Constituição Federal.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou a impossibilidade do candidato assumir a vaga. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Sopesados todos os elementos expostos, em que pese o fato de o autor não ter omitido qualquer informação pessoal, a convivência familiar do candidato com indivíduos envolvidos com a prática de crimes graves, mesmo que em épocas mais remotas; como é o caso do padrasto do autor; se mostra suficiente para a exclusão do autor do certame, preservadas, na motivação apresentada pela Administração, a proporcionalidade e a razoabilidade. Não é razoável admitir que um policial militar mantenha convivência em seu dia a dia, em especial, no nível familiar, com indivíduos envolvidos com a prática de crimes graves. ” (eDOC 1, p. 282)
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incide no caso a Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR. ELIMINAÇÃO NO EXAME DE INVESTIGAÇÃO SOCIAL. OMISSÃO DE INFORMAÇÃO EM FORMULÁRIO ESPECÍFICO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS E DAS CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.” (RE 1.146.891 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 27.09.2018)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 17.4.2018. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. INVESTIGAÇÃO SOCIAL. OMISSÃO DE INFORMAÇÕES. INAPTIDÃO DE CANDIDATO. EXCLUSÃO DO CERTAME. REEXAME DE FATOS E PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279 E 454/STF.” (ARE 1.110.905 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 21.08.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem (eDOC 1, p. 284) em 10%, observados os limites previstos nos §§ 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 24 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
