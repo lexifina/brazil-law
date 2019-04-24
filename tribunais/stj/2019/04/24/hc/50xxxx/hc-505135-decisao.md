@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE FALTA DOS REQUISITOS AUTORIZADORES. REVOGAÇÃO DA CONSTRIÇÃO CAUTELAR OU SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. QUESTÕES NÃO APRECIADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MEDIDA LIMINAR NÃO ANALISADA PELA DESEMBARGADORA PLANTONISTA POR ENTENDER NÃO SER CABÍVEL EM PLANTÃO JUDICIÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão da Desembargadora Plantonista do Tribunal de Justiça do Estado do Rio Grande do Sul que não analisou o pedido liminar apresentado no writ originário.
+Consta dos autos que:
+" e m mandado de busca e apreensão do dia 26 de janeiro de 2019 autorizado pelo processo nº 053/2.19.0000059-6, cumprido na residência da paciente, onde reside também sua filha Emily e naquela oportunidade o genro Valdinei, foram encontrados no bolso traseiro da bermuda deste último 5 (cinco) pedras de crack pesando 1,4 gramas, além de 2 (duas) porções de maconha no quarto de Emily e Valdinei pesando 4,8 gramas, além de um cigarro de maconha em uso e dois telefones celulares de Emily e Valdinei" (fl. 5).
+Depreende-se, ainda, que a Paciente foi denunciada pela suposta prática dos crimes dispostos nos arts. 33, caput, e 35, caput, da Lei n.º 11.343/2006, tendo sido presa preventivamente em 08/03/2019 (fl. 5).
+Irresignada com a segregação cautelar, a Defesa impetrou habeas corpus perante o Tribunal de origem. A Desembargadora Plantonista não apreciou o pedido liminar, por entender que o Impetrante não demonstrou a urgência e o cabimento da medida em regime de plantão (fls. 27-28).
+No presente writ, defende o Impetrante, em suma, que a Paciente possui os requisitos legais para responder ao processo criminal em liberdade, ou, ao menos, detém o direito de sua prisão preventiva ser substituída pela prisão domiciliar, pois é mãe de uma criança de 10 (dez) anos que necessita de seus cuidados (fl. 6).
+Requer, liminarmente, a revogação da constrição preventiva decretada em desfavor da Paciente, ou, subsidiariamente, a substituição da segregação provisória pela prisão domiciliar (fl. 20).
+É o relatório.
+Decido.
+No caso, constata-se que as matérias suscitadas não foram examinadas pela Corte a quo no writ de origem, razão pela qual eventual pronunciamento deste Sodalício incorreria em indevida supressão de instância.
+No entanto, verifica-se que a falta de apreciação da liminar na impetração originária reflete uma situação de constrangimento ilegal imposto à Paciente, pois a Desembargadora Plantonista do Tribunal a quo não analisou a medida por entender o seu não cabimento em regime de plantão.
+Confiram-se, por oportuno, os seguintes trechos da decisão impugnada (fl. 27):
+"Com efeito, de plano, verifico que o impetrante não demonstrou, como o exige art. 2º, parágrafo único, do Assento Regimental nº 03/2014 - Órgão Especial do TJRS, o cabimento do ingresso de sua medida em regime de plantão e sua urgência.
+Considerando que a paciente está recolhida, pela suposta prática de tráfico de drogas e associação para o tráfico, desde 08/03/19 (fl. 2 da inicial), ou seja, há mais de 40 dias, impositiva a remessa da presente ação autônoma de impugnação para a distribuição normal, nos termos art. 3º, do mesmo Assento Regimental."
+Ocorre que, nos termos do art. 654, § 2.º, do Código de Processo Penal, compete aos Juízes e Tribunais concederem ordem de habeas corpus, até mesmo de ofício, sempre que constatada situação flagrante de constrangimento ilegal, providência que não foi tomada pela Corte de origem.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial. CONCEDO, porém, habeas corpus, de oficio, para, cassando a decisão impugnada, determinar que o Tribunal de origem examine o mérito da medida liminar formulada na impetração originária (Protocolo n.º 2019/742.130-2), decidindo como entender de direito.
+Publique-se. Intimem-se.
