@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal Militar, do qual se extrai da ementa o seguinte trecho:
+“CONCUSSÃO. RECURSO DA DEFESA. PRELIMINAR DEFENSIVA DE NULIDADE DO PROCESSO EM RAZÃO DO INDEFERIMENTO DA PRODUÇÃO DE PROVA TESTEMUNHAL, NA FORMA REQUERIDA. MATÉRIA PRECLUSA. REJEIÇÃO. PRELIMINAR DEFENSIVA DE NULIDADE DO PROCESSO EM RAZÃO DE DECISÃO MONOCRÁTICA QUE INDEFERIU A JUNTADA DE DOCUMENTOS POR USURPAÇÃO DE COMPETÊNCIA DO CONSELHO ESPECIAL DE JUSTIÇA. COMPETÊNCIA DO JUIZ-AUDITOR. ART. 30, INCISO V, DA LEI DE ORGANIZAÇÃO JUDICIÁRIA DA JUSTIÇA MILITAR E ARTIGOS 427, PARÁGRAFO ÚNICO, E 430, AMBOS DO CPPM. REJEIÇÃO. PRELIMINAR DEFENSIVA DE NULIDADE DO PROCESSO, ANTE O INDEFERIMENTO DE JUNTADA DE DOCUMENTOS. MOMENTO PROCESSUAL INOPORTUNO. REJEIÇÃO. MÉRITO. AUTORIA E MATERIALIDADE COMPROVADAS.
+    [...]”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega “violação pelo Superior Tribunal Militar aos princípios do contraditório, da ampla defesa, devido processo legal e individualização da pena e dupla punição pelo mesmo fato (bis in idem), previstos no art. 5º da Constituição Federal, bem como ao princípio do juiz natural, previsto na competência também da Justiça Militar”. Afirma que:
+    (i) “o argumento utilizado para negar a produção da prova no sentido de que as testemunhas, em tese, pudessem tratar de fatos paralelos e que não possuem relação com os narrados na denúncia não constituem fundamentos idôneos para indeferir a produção da prova requerida”;
+    (ii) “a decisão monocrática do Juiz Auditor invadiu competência do Conselho Especial para decidir acerca do desentranhamento das peças juntadas pelo recorrente, situação que viola o juiz natural, que possui assento na Constituição Federal como princípio basilar na jurisdição”;
+    (iii) “há nulidade por cerceamento de defesa a decisão que não deferiu a juntada dos documentos, ainda que na fase de alegações escritas”;
+    (iv) “a aplicação da pena foi absolutamente desproporcional, por violação ao princípio da individualização da pena e do bis in idem”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    O STF já decidiu tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668-AgR, Relª. Minª. Ellen Gracie; o AI 845.223 AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, Rel. Min. Ilmar Galvão.
+    O STF também já assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se o ARE 639.228-RG, Rel. Min. Cezar Peluso.
+    A controvérsia relativa à individualização da pena também passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel. Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    No caso, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
