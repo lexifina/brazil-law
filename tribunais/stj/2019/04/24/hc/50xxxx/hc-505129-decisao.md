@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] SOUZA NACRUTH - preso cautelarmente no dia 17/4/2019 pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico - contra decisão liminar do Tribunal de Justiça do Estado de Goiás proferida no plantão judicial (5201914.43).
+Nas razões da presente ação, a defesa afirma, inicialmente, que o caso se ajusta às hipóteses do plantão judicial.
+Quanto ao mérito, alega, em síntese, ausência de motivos legais, com base no art. 312 do CPP, para a decretação da prisão preventiva do paciente. Argumenta que a decisão não encontra suporte em provas concretas, apenas em "afirmações sem provas! E achismos como decisão! Julgamentos pessoais sobre o que é ser perigoso!" (e-STJ fls. 7/8).
+Sustenta que o paciente foi apreendido com apenas 2g de maconha, que seria para uso próprio, pois é dependente químico, e que "não comercializa droga nem tem ligação com quaisquer organizações criminosa e, portanto, não pode ficar preventivamente privado de sua liberdade" (e-STJ fl. 14).
+Diante disso, pede, em liminar e no mérito, a concessão da liberdade provisória ao paciente, mediante a aplicação de outras medidas cautelares, tudo com superação do enunciado n. 691 do STF.
+É o relatório, decido.
+Compulsando os autos, verifico, de plano, não ser caso de exame de liminar em regime de plantão judiciário, uma vez não configurada nenhuma das hipóteses constantes no art. 4º da Instrução Normativa n. 6, de 26/10/2012, deste Tribunal Superior.
+No caso, o habeas corpus foi impetrado contra decisão de Desembargador indeferindo a liminar postulada no writ originário, também em sede de plantão judicial, de modo que não é possível a análise do pleito em regime emergencial, apenas no primeiro dia útil seguinte.
+Passo ao exame do pedido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+No caso, colhe-se do decreto de prisão preventiva (e-STJ fls. 59/60):
+In casu, este acusado é uma pessoa muito perigosa e nociva à sociedade, ele é tão nocivo que já é condenado pelo crime tipificado no artigo 157 do CP e no momento da prisão em flagrante ele estava com tornozeleira. cumprindo pena por roubo, ou melhor, a tornozeleira não está adiantando nada pois atualmente os criminosos estão usando tomozeleiras e cometendo crimes.
+Em resumo, esse acusado c muito perigoso para a sociedade pois ele já foi condenado por roubo, usa tornozeleira e a tornozeleira não fez nenhum efeito para ele.
+Vamos pensar pelo o outro lado, que ele não seja o dono da droga, mas possivelmente estaria dando cobertura ao crime c além disso confessou nessa audiência que tinha para uso próprio 2 (duas) gramas de maconha. Vejam bem, quem cumpre pena por roubo não deveria usar maconha e muito menos transportar passageiros usando drogas.
+Assim, este acusado [NOME] é uma pessoa muito perigosa para a sociedade e deve ficar preso e o juízo onde se encontra o processo por crime de roubo deveria regredir o regime do acusado para fechado, pois entendemos que tornozeleira não é o suficiente para ele.
+Conta história inverossímeis na audiência. Se a pessoa trabalha no aplicativo ele deve entregar o passageiro e pronto. Outro fato que não podemos esquecer é que o comando vermelho parecer estar relacionado a este caso. A sociedade não pode ficar refém desse tipo de gente.
+Diante do contexto fático levado ao conhecimento do Tribunal no writ originário, o Desembargador plantonista, em caráter liminar, concluiu (e-STJ fl. 65):
+Restrito ao pedido liminar, não obstante as argumentações das impetrantes, saliento que, para o momento, impõe-se apenas verificar se as exigências legais que justificam a prisão se harmonizam com os requisitos do periculum libertatis e do fumus comissi delicti.
+De um exame prévio da documentação juntada aos autos, não constato, a priori, desrespeito a nenhuma das hipóteses mencionadas.
+Com efeito, não se verifica ilegalidade manifesta na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte.
+Cumpre lembrar que, segundo a jurisprudência do Supremo Tribunal Federal "a periculosidade do agente e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva" (HC 150.906 AgR, Rel. Ministro ROBERTO BARROSO, PRIMEIRA TURMA, DJe de 25/04/2018).
+Assim, entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se. Intime-se.
