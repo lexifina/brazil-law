@@ -1,0 +1,20 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em sede de embargos de declaração pela 2ª Turma Recursal da Fazenda Pública de São Paulo teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu  a questão com fundamento em legislação infraconstitucional (Lei nº 10.029/2000), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Cabe registrar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 11.064/2002), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Cumpre destacar, ainda, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 867.190-AgR/SP, Rel. Min. DIAS TOFFOLI – ARE 898.426-AgR/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.060.162/SP, Rel. Min. ALEXANDRE DE MORAES):
+    “DIREITO ADMINISTRATIVO. LEI Nº 11.064/2002. SERVIÇO AUXILIAR VOLUNTÁRIO. POLICIAL MILITAR TEMPORÁRIO. ACRÉSCIMO DE 1/3, 13º SALÁRIO, ADICIONAL DE INSALUBRIDADE E DE LOCAL DE EXERCÍCIO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 2º, 5º, II, E 37, ‘CAPUT’, II E IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.”
+    (ARE 1.033.346-AgR/SP, Rel. Min. ROSA WEBER)
+    Assinalo, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “d”, da Carta Política, que a decisão ora recorrida tenha julgado válida lei local em face de lei federal.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por ser manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 24 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
