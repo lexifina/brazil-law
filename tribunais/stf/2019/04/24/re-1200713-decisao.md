@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “ICMS. Importação de carro por colecionador. Pessoa física. EC nº 33/2001. Incidência do imposto. Impossibilidade. Lei local que, embora posterior à EC nº 33/01, é anterior à Lei Complementar nº 114/02. Sentença de improcedência afastada. Recurso provido” (pág. 238 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se violação do art. 155, II, § 2°, IX, a, da mesma Carta.
+    O Tribunal de origem, em sede juízo de retratação para eventual adequação ao Tema 171 da Repercussão Geral, manteve o acórdão recorrido ao entendimento de que o acórdão não divergiu do referido paradigma.
+    A pretensão recursal merece acolhida.
+    No julgamento do RE 439.796/PR, Tema 171 da Repercussão Geral, de relatoria do Ministro Joaquim Barbosa, foi fixada a orientação de que o ICMS previsto no art. 155, § 2°, IX, a, da CF/1988, com a redação dada pela EC 33/2001, alcança a pessoa natural ou física que importa bem ou mercadoria do exterior, ainda que o objeto do negócio jurídico não se destine à atividade comercial ou industrial.
+    Outrossim, a Lei 11.001/2001 do Estado de São Paulo foi ratificada como válida pela Segunda Turma desta Corte no julgamento do RE 917.950/SP, a partir da vigência da Lei Complementar 114/2002, a qual regulamentou a Emenda Constitucional 33/2001, uma vez que a referida Lei Estadual teria sido editada durante a vigência da mencionada emenda. Transcrevo a ementa do julgado:
+    “Direito Constitucional e Direito Tributário. 2. ICMS-Importação. Emenda Constitucional n. 33/2002. Lei Complementar n. 114/2002. 3. Leis estaduais anteriores à Lei Complementar e posteriores à Emenda Constitucional. Análise no plano da eficácia. Preservação da validade da legislação estadual. 4. Após a EC 33/2002, houve alteração da competência tributária relativa ao ICMS, a fim de ampliar o sujeito passivo tributário do ICMS-Importação. 5. A ausência de lei complementar federal não enseja a inconstitucionalidade de lei estadual editada por ente federativo após a EC 33/2002. Inibe apenas seus efeitos. 6. Ineficácia da legislação estadual até 17.12.2002 (data da vigência da Lei Complementar 114/2002). 7. Agravo regimental a que se dá provimento” (RE 917.950-AgR/SP, Redator para o acórdão Min. Gilmar Mendes).
+    Nesse mesmo sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DETERMINAÇÃO DE DEVOLUÇÃO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA PROCESSUAL. ADEQUAÇÃO DO PARADIGMA APONTADO. ICMS – IMPORTAÇÃO. HIPÓTESE. POSTERIOR À VIGÊNCIA DA EC 33/2001. LEI PAULISTA 11.001/2001. CONSTITUCIONALIDADE DA NORMA. INCIDÊNCIA DO IMPOSTO. AGRAVO REGIMENTAL PROVIDO PARA SE NEGAR SEGUIMENTO AO RECURSO EXTRAORDINÁRIO
+    I – A partir da EC 33/01 o ICMS passou a incidir sobre toda e qualquer importação de bens, ainda que realizada por quem não seja contribuinte habitual do imposto, vale dizer, mesmo quem não seja comerciante, industrial ou produtor.
+     II – A Segunda Turma deste Supremo Tribunal Federal, a partir do julgamento do RE 917.950/SP, Rel. Min. Teori Zavascki, entendeu ser constitucional a Lei paulista 11.001/2001, por ter sido editada quando já vigente a EC 33/2001, que autoriza a incidência do ICMS na espécie.
+    III – Agravo regimental provido para se negar seguimento ao recurso extraordinário” (RE 1.045.286-AgR/SP, de minha relatoria).
+    Verifico, portanto, que o entendimento adotado no acórdão recorrido diverge da jurisprudência firmada neste Supremo Tribunal Federal.
+    Isso posto, dou provimento ao recurso extraordinário (art. 21, § 1°, do RISTF). Sem honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 24 de abril de 2019.
+Ministro Ricardo Lewandowski
+Relator
