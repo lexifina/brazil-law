@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. Colho do acórdão recorrido os seguintes fundamentos:
+    A autora ajuizou a presente ação ordinária buscando obter diploma de conclusão de curso de ensino superior a que fazia jus, bem como indenização pelos danos materiais e morais experimentados com a negativa de sua entrega. Disse, em resumo, que prestou o curso superior de Formação para Professores na FACULDADE VIZINHANÇA VALE DO IGUAÇU – VIZIVALI, mediante Programa Especial de Capacitação para Docentes aprovado e autorizado pelo Conselho Estadual de Educação do Estado do Paraná - CEE/PR, mas não recebeu o pertinente diploma universitário, sob a alegação administrativa do órgão estadual de que o curso oferecido pela instituição de ensino não era aprovado pelo MEC, que modificou a interpretação da Lei n.º 9.394/96, através do Parecer n.º 139/2007, sofrendo com isso danos de ordem patrimonial e moral.
+    De uma simples análise do pleito, verifica-se de pronto que, no que diz com o cerne do litígio, consistente no fornecimento do diploma registrado, do qual decorre eventual postulação indenizatória, não restou minimamente demonstrada qualquer participação comissiva ou omissiva da União Federal determinante para a concretização dos atos atacados e eventuais danos deles decursivos, que, em princípio, emanam exclusivamente dos órgãos diretivos da educação no Estado do Paraná, na condição de autorizadores do funcionamento de um curso supostamente irregular, e da instituição de ensino que ofertou o aludido curso, a quem cabe, de forma exclusiva e específica, nos moldes do artigo 53, inciso VI, da Lei n.º 9.394/96, proceder à expedição e ao registro dos certificados de conclusão de curso superior.
+    A mera promulgação do Parecer n.º 139/2007 pelo Conselho Nacional de Educação ou a invocação genérica da função reguladora e fiscalizatória do sistema federal de ensino superior exercida pelo Ministério da Educação e Cultura - MEC não fazem da União a responsável pela negativa de entrega dos diplomas registrados, tampouco a tornam juridicamente interessada em demanda proposta por particular na qual se discute eventual descumprimento de seus atos normativos.
+    Logo, não se justifica a sua inclusão no polo passivo da ação em apreço, o que acaba também por afastar a competência deste juízo para apreciá-la.
+    (…) Entretanto, cuidando-se o caso vertente de ação ordinária aforada contra instituição municipal de ensino superior, vinculada ao sistema municipal de educação - como o é a Vizivali - não há falar-se em autoridade federal delegada, inserindo-se o feito no âmbito de competência da Justiça Estadual.
+    Somente pela análise do quadro fático e da legislação de regência seria dado concluir de forma contrária, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 24 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
