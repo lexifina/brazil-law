@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 181-186/e-STJ, por meio da qual o então Relator convocado, Desembargador Federal Carlos Fernando Mathias, negou provimento ao agravo de instrumento, com fundamento na Súmula 284/STF e na ausência de demonstração do dissídio jurisprudencial.
+O recurso especial foi interposto em face de acórdão assim ementado:
+Honorários Advocatícios - Juros - "Termo a quo" - Honorários devidos a partir do trânsito em julgado da sentença que os estabeleceu - Incidência de juros de 1% ao mês - art. 406 do CC - Recurso provido para tal fim.
+Opostos embargos de declaração, foram rejeitados.
+Embora assista razão ao embargante quando afirma que nas razões de recurso especial houve precisa indicação dos dispositivos de lei que reputa violados, confirmo a decisão ora embargada, por fundamentos diversos.
+É que o conteúdo normativo dos artigos 458, 475-L, § 2º, e 739 do Código de Processo Civil de 1973 não foi debatido no acórdão recorrido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, o que atrai a incidência da Súmula 282/STF; além disso, não houve, nas razões de recurso especial, alegação de ofensa ao artigo 535 do Código de Processo Civil de 1973 - aplicável à hipótese conforme Enunciado Administrativo 2/2016 desta Corte.
+Por outro lado, afirmo o acerto da decisão embargada no tocante à alínea c do inciso III do artigo 105 da Constituição Federal. Isso porque a demonstração do dissídio jurisprudencial não obedeceu ao disposto nos artigos 541 do Código de Processo Civil de 1973 e 255 do Regimento Interno do Superior Tribunal de Justiça; para tanto, é necessária a demonstração da similitude de panorama de fato e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando, para tanto, a simples transcrição de ementas, como feito no caso concreto.
+Em face do exposto, acolho os presentes embargos de declaração para suprir o vício apontado, sem, no entanto, atribuir efeitos modificativos ao julgado.
+Intimem-se.
