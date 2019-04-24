@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ANULAÇÃO DO NEGÓCIO JURÍDICO. DECADÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação anulatória na qual pleiteiam os agravantes a anulação de adesão ao plano "Vale Mais", bem como a suplementação da aposentadoria com base no plano anteriormente contratado.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Incidência do prazo decadencial de 4 (quatro) anos para o exercício do direito potestativo de pleitear a anulação de negócio jurídico (no caso, a migração) supostamente celebrado mediante erro ou dolo, contado do dia em que se realizara, nos termos dos artigos 178, § 9º, inciso V, alínea "b", do Código Civil de 1916, e 178, inciso II, do Código Civil de 2002.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], [NOME], ERIBALDO DOS [NOME] CRAVO e [NOME], contra decisão interlocutória que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: anulatória, ajuizada pelos agravantes, em face de FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL - VALIA e VALE S.A, na qual pleiteiam a anulação de adesão ao plano "Vale Mais", bem como a suplementação da aposentadoria com base no plano anteriormente contratado.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA. APOSENTADORIA SUPLEMENTAR. NULIDADE DE CONTRATO DE ADESÃO E PAGAMENTO DO BENEFÍCIO COM BASE NO REGULAMENTO ANTERIOR. RECURSO DA VALE S/A.ILEGITIMIDADE PASSIVA ACOLHIDA. PRECEDENTES JURISPRUDENCIAIS. PATROCINADOR NÃO POSSUI LEGITIMIDADE PARA FIGURAR NO PÓLO PASSIVO DE DEMANDAS QUE ENVOLVAM PARTICIPANTE E ENTIDADE DE PREVIDÊNCIA PRIVADA. APELO AUTORAL. PLEITO RECURSAL PARA AFASTAR A DECADÊNCIA DECLARADA NO JUÍZO A QUO. ALEGAÇÃO DE VÍCIO DE CONSENTIMENTO NA CELEBRAÇÃO DO NEGÓCIO JURÍDICO. DECADÊNCIA CONFIGURADA. ART. 178, § 9º, INCISO V, ALINEA B DO CC/1916. PRAZO DECADENCIAL QUE SE INICIA DA ADESÃO AO NOVO PLANO. IMPROCEDÊNCIA DO PLEITO AUTORAL - SENTENÇA REFORMADA EM PARTE. RECURSOS CONHECIDOS, PARA DAR PROVIMENTO AO APELO DA VALE S/A E DESPROVER O AUTORAL.
+Decorrido o prazo decadencial para pleitear anulação do negócio jurídico, previsto no art. 178 do Código Civil, vez que o negócio jurídico foi celebrado em 01.05.2000 e a demanda foi proposta apenas em 31.10.2014, mais de (14) catorze anos depois.
+In casu, o contrato foi celebrado sob a égide do Código Civil de 1916 e consoante o disposto no artigo 178, § 9º, inciso V, o prazo decadencial para reclamar a anulação do negócio jurídico simulado é de 04 (quatro) anos do dia da realização do ato.
+Portanto, decorrido o quadriênio legal, impõe-se a decretação da decadência do direito material pleiteado pelo Autor. (e-STJ Fls. 2.565/2.566)
+Embargos de declaração: interpostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 141, 492, 489, § 1º, IV, e 1.022 do CPC/15. Além de negativa de prestação jurisdicional, sustentam que o termo inicial do prazo prescricional para anular o negócio jurídico por erro inicia-se com a materialização do dano.
+Relatado o processo, decide-se.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da decadência do direito dos agravantes, de maneira que os embargos de declaração de fato não comportavam acolhimento. Confira-se:
+RECURSO DOS AUTORES - DECADÊNCIA
+A pretensão vertida na inicial diz respeito à anulação de Negócio Jurídico (termo de migração para novo plano de previdência privada) celebrado em (fls. 492, 498, 505, 512), entre os e a - 01.05.2000 Autores VALIA FUNDAÇÃO VALE DO RIO DOCE DE . SEGURIDADE SOCIAL Os Demandantes/Recorrentes alegaram vício de consentimento no Negócio Jurídico pactuado, posto que diferentemente do que afirmavam as Requeridas à época da migração, o novo plano de previdência revelou-se prejudicial ao mesmo, motivo pelo qual requereu a anulação deste.
+Ocorre que o prazo decadencial para se pleitear anulação do negócio jurídico é de quatro (04) anos, com fundamento em vícios de consentimento (erro, dolo ou coação), sociais (fraude contra credores e simulação) ou excepcionais (estado de perigo e lesão).
+Este é o teor do artigo 178, inciso II, do Código Civil:
+"Art. 178. É de quatro anos o prazo de decadência para pleitear-se a anulação do negócio jurídico, contado:
+(..) II - no de erro, dolo, fraude contra credores, estado de perigo ou lesão, do dia em que se realizou o negócio jurídico;
+In casu, o negócio jurídico foi celebrado em e a demanda foi proposta apenas em , mais de (11) onze anos depois. 01.05.2000 28.09.2011 Com efeito, considerando que na data em que foi firmado o negócio jurídico objeto do presente litígio, qual seja, , ainda estava 01.05.2000 vigente o , deve este ser aplicado. Confira-se o art. 178, §9º, inciso V, alínea "b" do mencionado Diploma legal: Código Civil de 1916 "Art. 178. Prescreve:
+§9º Em quatro anos:
+V - A ação de anular ou rescindir contratos, para a qual se não tenha estabelecido menos prazo; contado este:
+ ..  b) no de erro, dolo, simulação ou fraude, do dia em que se realizar o ato ou contrato;  .. " (grifo nosso) Desta feita, vê-se que o Código Civil atual manteve o mesmo prazo previsto na legislação anterior. Logo, não incidirá no presente caso a regra de transição disposta no art. 2.028 do CC/2002.
+Acerca do instituto da decadência, Caio Mário da Silva Pereira leciona que "quando a lei marca um tempo, como condição de exercício, o vencimento desse limite temporal importa na caducidade ou decadência do direito  .. ; a decadência opera de maneira fatal, atingindo " ( Instituições de Direito Civil, vol. I, p. 441, 18ª ed.). irremediavelmente o direito, se não for oportunamente exercido in Logo, por ser decadencial, o prazo estabelecido no dispositivo supracitado flui soberano sem que se lhe anteponha qualquer causa interruptiva.
+Desse modo, decorrido o prazo decadencial para se pleitear anulação do negócio jurídico objeto desta demanda, forçosa a improcedência da pretensão autoral. (e-STJ Fl. 2.571)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 141 e 492 do CPC/15, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da Súmula 568/STJ
+O TJ/SE, ao reconhecer a decadência do direito dos agravantes, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no AREsp 742.220/RS, Quarta Turma, Dje de 02/04/2019; AgRg no AREsp 519.852/RS, Quarta Turma, Dje de 01/06/2017 e AgInt no AREsp 917.437/SP, Terceira Turma, Dje de 30/03/2017.
+Ademais, é assente na jurisprudência desta Corte que o termo inicial do prazo para a propositura da ação anulatória é o dia da celebração do contrato ou da prática do ato, e não a data da ciência do erro, fraude, ou a data em que a parte experimentou o prejuízo. Confira-se: AgInt no AREsp 917.437/SP, Terceira Turma, Dje de 30/03/2017.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais R$ 200,00 (duzentos reais) em favor do procurador da parte agravada. Contudo, isento-a do pagamento por ser beneficiária da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
