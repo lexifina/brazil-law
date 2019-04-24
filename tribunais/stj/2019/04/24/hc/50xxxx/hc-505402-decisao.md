@@ -1,0 +1,9 @@
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (POR TRÊS VEZES). SENTENÇA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO. EXISTÊNCIA. MENÇÃO À PERICULOSIDADE CONCRETA DO PACIENTE. VIOLÊNCIA DESNECESSÁRIA A UMA DAS VÍTIMAS.
+Inicial indeferida liminarmente.
+DECISÃO
+O presente writ, impetrado em benefício de [NOME], não comporta processamento.
+Com efeito, a impetração busca a fixação de regime inicial diverso do fechado, ao argumento de que a pena do Paciente restou estabelecida em 4 anos e 9 meses de reclusão, portanto, dentro dos limites estabelecidos pela lei para o cumprimento no regime inicial semiaberto. Ademais, as circunstâncias judiciais foram todas valoradas de forma positiva, por esta razão não merece prosperar o argumento de que o regime deve ser fechado (fl. 6 - Ação Penal n. 0033964-44.2017.8.19.0014).
+Ocorre que o Tribunal a quo, ao julgar a apelação formulada pelo Ministério Público estadual, fixou o regime inicial fechado, ao fundamento de que não obstante a pena privativa de liberdade fixada, para cada um dos acusados, permita, em tese, a aplicação do regime inicial semiaberto, se os crimes foram cometidos com emprego de arma de fogo, além do concurso de agentes, trazendo maior risco de morte às vítimas, e evidenciando a intensa periculosidade dos agentes, afigura-se o regime prisional inicialmente fechado, o que melhor atende à situação concreta que ora se analisa, na forma do artigo 33, §2º, "a", e §3º, do Código Penal (fl. 24), elementos concretos que ilidem a alegada coação à liberdade de locomoção, até porque consta do acórdão hostilizado que um dos acusados ([NOME]) pediu o celular para Gisele, e como ela disse que não iria entregar, ele lhe deu uma "coronhada", circunstância a evidenciar a periculosidade concreta do paciente.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
