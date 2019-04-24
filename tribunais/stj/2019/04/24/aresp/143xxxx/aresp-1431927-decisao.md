@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial, interposto em face de acórdão assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - Autogestão Determinada remessa dos autos à Justiça do Trabalho pelo juízo a quo Relação decorrente do contrato de trabalho Competência da Justiça do Trabalho para análise da matéria Precedentes do Superior Tribunal de Justiça Decisão mantida - AGRAVO NÃO PROVIDO."
+Nas razões do especial, a parte sustentou negativa de vigência aos artigos 31 da Lei nº 9656/98; 51 IV, do Código de Defesa do Consumidor e a existência de dissídio jurisprudencial quanto à competência para analisar a pretensão de manutenção em plano de saúde de autogestão.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse merece parcial provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Inicialmente, cumpre destacar que a Segunda Seção do STJ afastou a aplicação do Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo (REsp 1285483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/6/2016, DJe 16/8/2016 e Enunciado de Súmula nº 608/STJ).
+Ultrapassada essa questão, verifico que o Tribunal de origem decidiu contrariamente ao entendimento pacificado perante este Superior Tribunal de Justiça, conforme se depreende do seguinte trecho (fls. 229/230 e-STJ):
+"A agravante trabalhou junto ao Banco Itaú S/A de 02 de março de 1982 a 27 de julho de 2012 fls. 24/25, tendo se aposentado, em10 de abril de 2012 fls. 30.
+Pretende ser mantida no plano de saúde operado pela agravada cuja modalidade é de autogestão, nas mesmas condições que existiam na vigência de seu contrato de trabalho.
+O d. juízo a quo, após reconhecer a incompetência absoluta da Justiça Comum para julgamento da causa, determinou a remessa dos autos à Justiça Laboral. Daí o presente agravo.
+O recurso não comporta provimento.
+A relação entre autora e ré decorre de contrato de trabalho.
+Ao enfrentar o tema, decidiu o Superior Tribunal de Justiça:"
+Com efeito, destaco que, "após o surgimento da Lei nº 9.656/1998 (regulamentadora dos planos de saúde), da Lei nº 9.961/2000 (criadora da ANS) e da Lei nº 10.243/2001 (que deu nova redação ao § 2º do art. 458 da CLT), a Saúde Suplementar, incluídas as autogestões, adquiriu autonomia em relação ao Direito do Trabalho, visto possuir campo temático, teorias e princípios e metodologias específicos" (REsp 1695986/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 6/3/2018).
+Assim sendo, a pretensão de manutenção em plano de saúde formulada por ex-empregado, nos termos dos artigos 30 e 31, da Lei nº 9656/98, ainda que de autogestão, configura matéria eminentemente civil e não trabalhista, pois visa a discutir apenas questões atinentes ao contrato de plano de saúde, entre o usuário e a operadora, que possui regulamentação própria e independente das questões trabalhistas.
+Outrossim, o referido direito de manutenção somente é devido após o término do contrato da relação empregatícia e, consequentemente, extinção do contrato de trabalho.
+É pelo mesmo motivo, inclusive, que a empregadora, como estipulante, sequer possui legitimidade para figurar no polo passivo das demandas acima destacadas (AgInt no REsp 1620137/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/2/2017, DJe 20/2/2017; REsp 1575435/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/5/2016, DJe 3/6/2016)
+Nesse sentido é o entendimento desta Corte, recentemente pacificado por ocisão do julgamento do Conflito de Competência nº 157.664/SP, perante esta Segunda Seção:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA ESPECIALIZADA DO TRABALHO. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO.
+1. Conflito negativo de competência suscitado pelo Juízo Trabalhista. Conclusão ao gabinete em 10/04/2018.
+2. O propósito do presente conflito consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+3. Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88.
+4. Plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, §2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+5. A operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa nº 137/06 da ANS.
+6. O fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+7. Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+8. Declarada a competência da Justiça comum Estadual para julgamento da demanda.
+(CC 157.664/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 25/5/2018)
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para declarar como competente a Justiça Comum, devendo os autos retornarem ao Tribunal de Justiça do Estado de São Paulo para regular processamento do feito.
+Intimem-se.
