@@ -1,0 +1,15 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo nos Embargos de Declaração no Agravo em Execução n. 7004577-81.2018.8.26.0482, porquanto "o Chefe do Executivo Federal dispôs, especificamente, o modo de elaboração do cálculo no caso da pena cumprida ser superior à remanescente. Contudo, o Tribunal desconsiderou tal previsão" (fl. 6).
+Com efeito, depreende-se da leitura do art. 2º, § 1º, do Decreto Presidencial n. 7.873/2012, que " o  cálculo será feito sobre o período de pena já cumprido até 25 de dezembro de 2012, se o período de pena já cumprido, descontadas as comutações anteriores, for superior ao remanescente" (grifei).
+Dessa forma, o próprio texto do decreto presidencial disciplina a forma de cálculo do benefício, consoante a reprodução literal da supracitada norma. Aliás, é imperioso assinalar que, " n os termos da jurisprudência deste Tribunal Superior, para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC n. 420.533/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 18/4/2018, destaquei).
+No mesmo sentido:
+ ..
+4. Para a concessão de indulto devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao magistrado criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma, sob pena de ofensa ao princípio da legalidade, pois é da competência privativa do Presidente da República a tarefa de estabelecer os limites para a concessão da benesse.
+5. Habeas corpus não conhecido (HC n. 417.629/DF, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/2/2018, sublinhei).
+Em hipótese semelhante, esta Corte Superior apontou que " a ssim, como, no caso, o período de pena cumprido, descontadas as comutações anteriores, supera a pena remanescente na data do regramento, deve ele ser considerado como base de cálculo da fração de redução pela comutação das penas" (HC n. 423.362/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/4/2018, destaquei).
+No mesmo sentido:
+ ..
+2. A decisão impugnada encontra-se em dissonância com o § 1º do art. 2º do Decreto n. 8.615/15, o qual determina que a comutação seja calculada sobre a pena cumprida até 25/12/15, se este período, descontadas as comutações anteriores, for superior ao remanescente.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que a comutação seja realizada em conformidade com o disposto no art. 2º, § 1º, do Decreto n. 8.615/15 (HC n. 368.750/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 17/10/2016, sublinhei).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo, in limine, a ordem para determinar que o Juízo da 2ª Vara de Execuções Criminais considere como base de cálculo o período de penas já cumprido, descontadas as comutações anteriores, consoante disposto no art. 2º, § 1º, do Decreto Presidencial n. 7.873/2012.
+Publique-se e intime-se.
