@@ -1,0 +1,34 @@
+Trata-se de reclamação com pedido de liminar proposta por Del Pozo Transportes Rodoviários Ltda. contra decisão proferida pelo Tribunal Regional do Trabalho da 1ª Região, na reclamação trabalhista 0011064-49.2015.5.01.0512, que teria desrespeitado medida liminar deferida nos autos da ADC 48/DF, de relatoria do Ministro Roberto Barroso.
+    A reclamante narra que
+    “[...]
+    O processo de origem (0011064-49.2015.5.01.0512) trata de ação trabalhista ajuizada em 17 de novembro de 2015, atualmente em tramitação pela Segunda Vara do Trabalho de Nova Friburgo, onde o autor pretende desconstituir contrato civil de transporte rodoviário de cargas por conta de terceiro (contrato de agregamento), regido pela lei federal nº 11.442/2007, obtendo, por consequência, reconhecimento declaratório de vínculo empregatício no mesmo período e, por decorrência, direitos que seriam garantidos pela Consolidação das Leis do Trabalho” (pág. 2 da petição inicial).
+    Prossegue afirmando que a pretensão de reconhecimento do vínculo foi julgada improcedente. Contra essa decisão foi interposto recurso para o Tribunal Regional do Trabalho, que acolheu preliminar de cerceamento de defesa e devolveu os autos para oitiva de uma testemunha específica do reclamante, cuja contradita havia sido acolhida.
+    Aduz que, após esse fato, o Ministro Roberto Barroso, ao examinar a Ação Declaratória de Constitucionalidade – ADC 48-MC/DF, determinou a suspensão de todos os feitos que envolvam a aplicação dos arts. 1°, caput, 2°, § 1° e § 2°, 4°, § 1° e 2°, e 5°, caput, da Lei 11.442/2007.
+    Alega que informou tal determinação ao juízo ora reclamado, que, porém, indeferiu o pleito para suspender o feito, sob o argumento de que não teria recebido comunicado oficial do Supremo Tribunal Federal a respeito do tema.
+    Entende, assim, que a decisão reclamada teria desrespeitado a autoridade da decisão cautelar proferida nos autos da ADC 48/DF, na qual determinada a imediata suspensão de todos os feitos que envolvam a aplicação dos arts. 1°, caput, 2°, §§1° e 2°, 4º, §§1° e 2° e 5°, caput, da Lei 11.442/2007.
+    Requer, ao final, que seja julgada procedente a reclamação
+    “[...] para declarar nula a audiência, determinando-se inclusive o desentranhamento dos depoimentos que nela foram colhidos, assim como determinar a suspensão do processo de origem até que a ADC 48 seja definitivamente julgada” (pág. 6 do documento eletrônico 1).
+    Em 1º/3/2018, deferi a medida liminar pleiteada (documento eletrônico 9).
+    A autoridade reclamada prestou informações (documento eletrônico 13).
+    O beneficiário do ato reclamado não apresentou contestação (documento eletrônico 28).
+    A Procuradoria-Geral da República manifestou-se no sentido do não conhecimento da reclamação e, no mérito, pela improcedência do pedido (documento eletrônico 47).
+    É o relatório necessário. Decido.
+    Destaco que a reclamação perante este Tribunal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil de 2015.
+    No caso, a reclamante alega que a autoridade reclamada, ao indeferir pedido de suspensão do andamento da reclamação trabalhista originária, teria desrespeitado a autoridade de medida cautelar deferida nos autos da ADC 48/DF, na qual determinada a suspensão de todos os processos que envolvam a aplicação dos artigos 1°, caput, 2°, §§ 1° e 2°, 4°, §§ 1° e 2°, e 5°, caput, da Lei 11.442/2007.
+     Com efeito, a Confederação Nacional do Transporte – CNT ajuizou a ADC 48/DF contra os arts. 1°, caput; 2°, § 1° e § 2°; 4°, § 1° e § 2°; e 5°, caput, da Lei 11.442/2007, que dispõe sobre transporte rodoviário de cargas.
+    A citada lei normatiza, entre outros temas, a relação comercial, de natureza civil, existente entre os agentes do setor, permitindo a contratação de autônomos para a realização do Transporte Rodoviário de Cargas – TRC, sem a configuração de vínculo de emprego.
+    O Ministro Roberto Barroso, ao examinar a mencionada ação em 19/12/2017, determinou a suspensão de todos os feitos que envolvam a aplicação dos arts. 1°, caput; 2°, § 1° e § 2°; 4°, § 1° e 2°; e 5°, caput, da Lei 11.442/2007. Eis a ementa de sua decisão:
+    “Direito do Trabalho. Medida Cautelar em Ação Declaratória da Constitucionalidade. Transporte rodoviário de cargas. Terceirização da atividade-fim. Medida cautelar deferida.
+    1. A Lei nº 11.442/2007 (i) regulamentou a contratação de transportadores autônomos de carga por proprietários de carga e por empresas transportadoras de carga; (ii) autorizou a terceirização da atividade-fim pelas empresas transportadoras; e (iii) afastou a configuração de vínculo de emprego nessa hipótese.
+    2. É legítima a terceirização das atividades-fim de uma empresa. A Constituição Federal não impõe uma única forma de estruturar a produção. Ao contrário, o princípio constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias empresariais dentro do marco vigente (CF/1988, art. 170).
+    3. A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988, art. 7º).
+    4. A persistência de decisões judiciais contraditórias, após tantos anos de vigência da Lei 11.442/2007, reforça a presença de perigo de dano de difícil reparação e gera grave insegurança jurídica, em prejuízo a todas as partes que integram a relação contratual de transporte autônomo de carga.
+    5. Verossimilhança do direito e perigo da demora demonstrados. Medida cautelar deferida”.
+    Com base na decisão cautelar proferida na ADC 48/DF, publicada no diário oficial em 1°/2/2018, a reclamante requereu a suspensão do andamento da reclamação trabalhista originária (pág. 153 do documento eletrônico 4). O pedido de sobrestamento, no entanto, foi indeferido (documento eletrônico 5).
+    Ora, tratando-se a reclamação trabalhista originária de reconhecimento de suposto vínculo de emprego entre empresa de transportes de cargas e motorista, com o consequente afastamento de dispositivos da Lei 11.442/2007, a recusa ao pedido de suspensão, proferida em audiência realizada em 22/2/2018 (documento eletrônico 5), caracteriza evidente desrespeito à medida cautelar proferida nos autos da ADC 48/DF, de relatoria do Min. Roberto Barroso.
+    Isso posto, confirmo a liminar anteriormente deferida e julgo procedente o pedido, para determinar a suspensão do andamento da reclamação trabalhista 0011064-49.2015.5.01.0512, até a conclusão do julgamento da ADC 48/DF.
+    Comunique-se ao juízo reclamado.
+    Publique-se.
+    Brasília, 24 de abril de 2019.
+Ministro Ricardo Lewandowski
+Relator
