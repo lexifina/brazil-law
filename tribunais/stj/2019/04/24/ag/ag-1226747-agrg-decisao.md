@@ -1,0 +1,52 @@
+DECISÃO
+Frigorífico Tavares Ltda. e outros interpõem agravo interno contra a decisão de fls. 240/248, proferida pelo Ministro Honildo Amaral de Mello Castro (Desembargador convocado do TJAP), a qual negou provimento ao agravo de instrumento.
+Afirmam os recorrentes que não incidem, no presente caso, os óbices das Súmulas n. 7 do STJ e 284 do STF, bem como argumentam que o acórdão proferido pelo Tribunal de origem violou o disposto no art. 535 do Código de Processo Civil de 1973.
+Intimada para se manifestar acerca da interposição do recurso, a parte contrária apresentou impugnação postulando pela manutenção da decisão agravada.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Trata-se de agravo de instrumento manifestado por Frigorífico Tavares Ltda. e outros contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 333, I, 334, 473, 512, 520, 522, 535, II, e 1.102 do Código de Processo Civil de 1973. O acórdão recorrido está retratado na seguinte ementa (fl. 46):
+Monitória - Cobrança de obrigação relacionada a contrato bancário - Embargos que não negam a existência da obrigação, limitando-se a discutir os encargos cobrados - Matéria de direito, que dispensa dilação probatória - Legalidade dos embargos, já que não se vislumbra abusividade nas taxas e percentuais contratados - Hipótese de reforma do julgado, com rejeição dos embargos monitórios e, consequentemente, procedência da ação monitória - Apelo provido.
+Agravo retido - Ausência de reiteração por ocasião da interposição de apelação - Falta de pressuposto de admissibilidade - Agravo retido não conhecido.
+Os agravantes opuseram embargos de declaração que foram rejeitados, nos termos da seguinte ementa (fl. 55):
+RECURSO - Embargos de Declaração - Inexistência de omissão ou contradição - Acórdão que expressamente apreciou toda a matéria controvertida, apenas expressando convencimento contrário à pretensão dos recorrentes - Circunstância que não autoriza o manejo do recurso integrativo - Questões levantadas que constituem objeto de recurso a ser interposto nos Tribunais Superiores - Manifesto caráter infringente ao julgado - Rejeição.
+Sustentam os agravantes que o acórdão recorrido contrariou acórdão anterior, transitado em julgado, que determinou a inversão do ônus da prova, imputando à instituição financeira o custeio da prova pericial.
+Afirmam que "o fato da ação em discussão se tratar de uma ação monitória, onde não há presunção de liquidez, certeza e exigibilidade do crédito, pois, presentes apenas indícios de prova; demonstra, inexoravelmente, que, caberia ao autor (recorrido) o ônus da prova, eis que não se trata de ação executiva, mas sim, de conhecimento" (fl. 41).
+Assim posta a questão, passo a decidir.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Inicialmente, em relação à suposta ofensa ao art. 535 do CPC/1973, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+No mérito, observo que o Tribunal de origem julgou procedente os pedidos da ação monitória, assim discorrendo (fls. 47/53):
+(..)
+Posto isso, percebe-se que a sentença proferida constitui decisão "extra-petita" (os réus não postularam declaração de inexigência da obrigação, mas apenas o afastamento de alguns encargos e limitação dos juros ao patamar de 12% ao ano).
+A manutenção da improcedência da ação monitória diante da evidência do mútuo celebrado e confessado, e também da expressa admissão dos réus de que existe obrigação a ser cumprida, da qual só discordam dos valores dos encargos, acarretaria inadmissível enriquecimento ilícito.
+A obrigação existe, não foi negada, e só o que restou questionado foi o valor dos acessórios. A improcedência, pelo mérito, além de constituir decisão "extra-petita", impede que o Banco receba até mesmo o valor principal, que não foi impugnado.
+Restou evidente que os réus não negam a existência da obrigação cobrada por meio da presente ação monitória, limitando-se a discordar genericamente dos encargos e taxas contratadas, a despeito da forma "pré-fíxada".
+A fls. 100, nos embargos, os réus são claros ao admitir que o Banco autor disponibilizou, sob a forma de empréstimo em conta corrente, o valor de R$ 130.000,00, pelo prazo de 180 dias.
+Concordaram com as condições do mútuo, mas, agora, ao apresentarem os embargos, aventam para a possibilidade da cobrança de taxas (prefixadas) abusivas e contagem de juros de forma indevida.
+Admitem expressamente a inadimplência ao dizer:
+"Diante de tal situação, não concordando com os valores cobrados e entendendo serem nulas diversas cláusulas no contrato celebrado, o embargante não efetuou o pagamento do exorbitante montante cobrado pelo embargado, o que ensejou a propositura da ação monitória" (fls. 100).
+Concluem, em seus embargos, não com postulação de declaração de inexistência da obrigação, mas pela "declaração de nulidade das cláusulas abusivas que estabeleceram a cobrança de juros capitalizados, juros cobrados acima do percentual estabelecido pela Constituição Federal, estipulação de taxas de juros unilateralmente fixadas pelo embargado, excesso de garantias, bem como todas as outras que foram estabelecidas a critério do embargado de forma a onerar excessivamente os embargantes" (fls. 121 - item "e").
+Outro fator que impossibilita a manutenção da improcedência da ação monitória é o fato de que o próprio Julgador de Primeira Instância, ao proferir decisão saneadora a fls. 192, fixou, como ponto controvertido, o montante do saldo devedor (e não sua existência ou não).
+Mesmo que o extinto Primeiro Tribunal de Alçada Civil do Estado de São Paulo tenha reformado a determinação de que a prova pericial fosse feita pelo embargante, a quem incumbia, efetivamente, demonstrar o direito arguido, invertendo o ônus de produzir - e custear - prova que ao Banco não interessava, posto que destinada a comprovar alegação dos réus, o certo é que os réus não apresentaram um mínimo de indício da ilegalidade do quanto postulado na petição inicial, limitando-se a produzir alegações genéricas de suposta abusividade.
+E o fato do Banco (autor) não ter efetuado o depósito do valor relativo à perícia requerida pela parte contrária (réus) no prazo concedido não autoriza a presunção de que a ação é improcedente.
+O Banco demonstrou a celebração do contrato, a entrega do dinheiro ao primeiro réu e os termos em que celebrada a avença. Os réus, por seu turno, confessaram a existência da obrigação reivindicanda, só discordando do montante dos encargos contratados.
+A improcedência da ação, tal como decretada, por constituir julgamento com exame de mérito, importa, na prática, em anistiar os réus do pagamento até mesmo do principal tomado junto ao Banco e confessadamente não restituído, o que sequer foi postulado nos embargos, e se mostra inadmissível.
+Afronta diretamente a Carta Maior, já que, sem postulação dos réus, atinge de morte o direito do autor em reaver, no mínimo, o quanto deu em mútuo.
+A inversão do ônus da prova havida não pode penalizar o credor, devendo constituir mero critério de julgamento, conforme reiteradamente reconhecido pela jurisprudência atual.
+(..)
+Na hipótese dos autos, a despeito de determinada essa inversão pela extinta Corte referida, não se pode deixar de considerar o fato de que a falta de demonstração específica do que seria abusivo no contrato celebrado, repita-se, com taxas pré-fixadas, não pode permitir o evidente enriquecimento ilícito dos réus, mutuário e garantidores inadimplentes confessos.
+Em suma, o fato do Banco autor não provar que os valores espontaneamente contratados pelo primeiro réu estão corretos não importa na presunção de que os réus nada devam a ele, como, salvo melhor juízo, parece entender o ilustre Relator.
+Mas, não é só.
+Examinando-se os termos em que apresentados os embargos monitórios, percebe-se que a matéria, em tese, nem dependeria de dilação probatória, posto que exclusivamente de direito.
+Buscam limitação dos juros contratuais cobrados pelo Banco em 12% ao ano, o que afronta diretamente a jurisprudência atual, inclusive geradora de Súmula junto às Cortes superiores.
+(..)
+E não há qualquer indício de que os juros livremente contratados tenham sido contados de forma capitalizada.
+Despicienda a discussão a respeito da inclusão - ou não, da demanda no rol de discussões abrangidas pela legislação consumerista, pois, como já ressaltado antes, a despeito da inversão de prova decretada, a mesma constitui critério de julgamento, não se podendo julgar em favor dos réus sem sequer indícios de que eles sejam detentores do direito pleiteado.
+O Código de Defesa do Consumidor há de ser um instrumento de proteção ao consumidor, e não uma ferramenta colocada à disposição de quem pretenda se eximir do cumprimento de obrigação deliberadamente assumida.
+E nem se argumente a respeito de suposto vício existente na emissão de nota promissória vinculada ao contrato, pois o aludido título não foi objeto de execução, ocasião em que, aí sim, poderia ser questionado.
+A prova que o autor não produziu em beneficio dos réus era, mesmo, despicienda, posto que não houve, em momento algum, alegação de cobrança em desacordo com o quanto contratado.
+Por fim, não se pode ignorar a existência de outras ações monitórias movidas pelo mesmo Banco autor contra o réu principal, aparentemente em situações semelhantes, com acolhimento do pedido condenatório, conforme se vislumbra na citação de fls. 232/233.
+(..)
+Com efeito, observo que a parte agravante não impugnou, de forma específica, os referidos fundamentos do julgado estadual, o que faz incidir o óbice do enunciado n. 283 da Súmula do STF.
+Além disso, anoto que a desconstituição da conclusão do acórdão recorrido, que entendeu ser desnecessária a produção de prova no presente caso, demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo de instrumento.
+Intimem-se.
