@@ -1,0 +1,28 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. TESE DE ILEGALIDADE DA DETERMINAÇÃO DE EXAME PSIQUIÁTRICO COMO CONDICIONANTE À PROGRESSÃO DO REGIME DE CUMPRIMENTO DE PENA. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM, POR SER CABÍVEL O AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE DIREITO. VIABILIDADE DO MANDAMUS ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PEDIDOS NÃO CONHECIDOS. ORDEM DE HABEAS CORPUS CONCEDIDA EX OFFICIO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CHRISTIAN FERNANDO RAMOS DE OLIVEIRA contra decisão monocrática proferida pelo Desembargador Relator no HC n.º 2078274-80.2019.8.26.0000 em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Consta nos autos que a Defesa elaborou pedido de progressão de regime de cumprimento de pena. O Magistrado da 1.ª Vara das Execuções Criminais da Comarca de Araçatuba/SP, por sua vez, determinou a realização "da avaliação preconizada pela Resolução SAP - 88, de 28-4-2010, a fim de que o pedido de progressão possa ser analisado de forma mais criteriosa" (fl. 33).
+Inconformada, a Defesa impetrou habeas corpus, que foi extinto sem resolução do mérito (fls. 13-18).
+Neste writ, os Impetrantes alegam, em suma, a ilegalidade da decisão do Magistrado de piso, pois, "sem a mínima concretude no fundamento, exigiu, para análise da progressão pretendida, além do exame criminológico, a realização de exame psiquiátrico complementar, sem que fosse consignada pelo psicólogo a necessidade de tal diligência" (fl. 5).
+Requer, liminarmente e no mérito, "seja determinada apenas a realização do exame criminológico, e caso a psicóloga entenda necessário, o Paciente seja submetido ao exame psiquiátrico, conforme resolução SAP 88 de 28.04.2010" (fl. 12).
+É o relatório. Decido.
+Saliente-se que a matéria arguida nas razões do writ não foi analisada pelo Tribunal a quo, sendo vedada sua apreciação originária por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO N. 8.615/15. ORDEM ORIGINÁRIA INDEFERIDA LIMINARMENTE. MATÉRIA NÃO APRECIADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. FALTA GRAVE HOMOLOGADA FORA DO PRAZO DO DECRETO. IRRELEVÂNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE AGRAVO DESPROVIDO.
+1. Evidenciado que o writ originário foi indeferido liminarmente sob o fundamento de que o habeas corpus não é a via adequada à análise do pedido de indulto, devendo ser interposto agravo em execução, resta evidenciada indevida supressão de instância, eis que alegações trazidas no presente mandamus devem ser previamente apreciadas por órgão colegiado do Tribunal a quo.
+ ..
+Agravo regimental desprovido." (AgRg no HC 360.024/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/06/2017, DJe de 14/06/2017; sem grifos no original.)
+Acrescento que não há nenhum impedimento ao conhecimento do writ pelo Tribunal a quo, pois trata-se de questão de direito, consubstanciada na análise da legalidade da determinação do Magistrado das Execuções Criminais de avaliação psiquiátrica, no moldes da Resolução SAP - 88, de 28/4/2010, como condicionante para o deferimento do pedido do Paciente de progressão de regime de cumprimento de pena.
+Ressalto que, apesar de ser o agravo o recurso cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e exista possibilidade de lesão à liberdade de locomoção do indivíduo, como na espécie.
+Nesse sentido, mutatis mutandis:
+"AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REVOGAÇÃO DE LIVRAMENTO CONDICIONAL. WRIT ORIGINÁRIO NÃO EXAMINADO PELO TRIBUNAL LOCAL POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. CONSTRANGIMENTO ILEGAL QUE JUSTIFICA A UTILIZAÇÃO DA VIA ELEITA.
+1. A existência de recurso específico não obsta a impetração de habeas corpus, dada a possibilidade de lesão à liberdade de locomoção do indivíduo.
+2. Não pode esta Corte analisar a revogação do livramento condicional, sob pena de inadmissível supressão de instância, uma vez que o mérito da questão não foi objeto de pronunciamento pelo Tribunal local.
+3. Agravo regimental improvido." (AgRg no RHC 69.302/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/06/2016, DJe de 22/06/2016; sem grifos no original.)
+"EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS INCONFORMISMO COM A SUSPENSÃO DO LIVRAMENTO CONDICIONAL E A NÃO CONCESSÃO DE INDULTO. TEMAS NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ANÁLISE NO PRÉVIO WRIT. POSSIBILIDADE. RECURSO PROVIDO.
+ ..
+2. Nada obstante a existência de recurso específico, mostra-se cabível a impetração de habeas corpus sempre que a alegada ilegalidade estiver influenciando na liberdade de locomoção do indivíduo, o que ocorre nos autos (AgRg no HC 298.290/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/10/2014, e HC 294.717/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/10/2014).
+3. Recurso provido para determinar que o Tribunal de origem examine o mérito da impetração." (RHC 74.291/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/09/2016, DJe de 28/09/2016; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus. Todavia, CONCEDO a ordem ex officio para determinar ao Tribunal de Justiça do Estado de São Paulo que, imediatamente, analise como entender de direito o HC n.º 2078274-80.2019.8.26.0000, afastado o entendimento de que a pretensão somente poderia ter sido formulada em recurso de agravo.
+Publique-se. Intimem-se.
