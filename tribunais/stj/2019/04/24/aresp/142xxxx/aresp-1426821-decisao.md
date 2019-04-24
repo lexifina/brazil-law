@@ -1,0 +1,15 @@
+DECISÃO
+Agrava-se de de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+APELAÇÃO - TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM - Preliminar apontando nulidade das interceptações - Inocorrência - Decisões fundamentadas - Autoria e materialidades delitivas nitidamente delineadas nos autos - Vínculo associativo configurado - Dosimetria e regime prisional adequados, sem que tenha havido sequer insurgência defensiva - Rejeitada a preliminar, com desprovimento dos recursos defensivos e determinação de imediata expedição de mandados de prisão. (e-STJ fl. 871)
+A defesa aponta a violação dos arts. 489, § 1º, IV, e 1022, parágrafo único, II, ambos do CPC, 1º da Lei n. 9.296/96 e 13, § 2º e 29, ambos do Código Penal alegando, em síntese, que o acórdão recorrido foi omisso quanto à tese de ausência de autorização judicial para a interceptação telefônica. Afirma, também, que inexistem nos autos provas da participação de Elizângela na empreitada delituosa.
+Contrarrazões às e-STJ fls. 927/938.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 980/982.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Anota-se, inicialmente, que não procede a alegação da defesa de ofensa aos arts. 489, § 1º, IV, do CPC e 1.022, parágrafo único, II, do CPP , porquanto a matéria relativa à existência de autorização judicial para interceptação de diversos telefones foi devidamente enfrentada pelo acórdão recorrido (e-STJ fl. 873).
+Ressalta-se que omissão no julgado e entendimento contrário ao interesse da parte são conceitos que não se confundem (EDcl nos EDcl no AgRg no REsp 1.129.183/DF, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe de 28/8/2012).
+Ademais, o magistrado deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso; porém, não está obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir (ut, AgRg nos EDcl no AREsp 1127961/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 08/03/2018).
+A defesa alega, também, que não há nos autos provas da participação da recorrente na prática delituosa, sendo sua absolvição medida que se impõe.
+Ocorre que o Tribunal de origem, soberano na apreciação do acervo fático-probatório dos autos, concluiu existir elementos suficientes para a condenação da recorrente pelos crimes dos arts. 33 e 35 da Lei de Drogas, o que não pode ser alterado em recurso especial, ante o óbice do Enunciado n. 7/STJ. Nessa linha: AgRg no AREsp n. 1339952/ES, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, Dje 8/4/2019)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
