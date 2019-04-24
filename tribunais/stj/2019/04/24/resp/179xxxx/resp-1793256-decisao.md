@@ -1,0 +1,16 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. CONCESSÃO DE PARCELAMENTO SIMPLIFICADO (COM DISPENSA DE APRESENTAÇÃO DE GARANTIA). ESTABELECIMENTO, POR ATOS INFRALEGAIS, DE LIMITE MÁXIMO. AFETAÇÃO DA MATÉRIA AO RITO DOS RECURSOS REPETITIVOS. TEMA 997/STJ. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 230 e-STJ):
+TRIBUTÁRIO. ADESÃO AO PARCELAMENTO SIMPLIFICADO. L 10.522/2002. PORTARIA CONJUNTA PGFN/RFB 15/2009. PRINCÍPIO DA LEGALIDADE.
+1. Como a L 10.522/2002 dispõe sobre o parcelamento simplicado sem considerar limites de valores, não há como a Portaria Conjunta PGFN/RFB 15/2009 inovar onde a lei ordinária não dispõe, sob pena de violação ao princípio da reserva legal em matéria tributária. Precedentes.
+2. Considerando que a legislação tributária, sobretudo no que diz respeito aos parcelamentos (entendidos como uma verdadeira benesse oferecida pelo legislador), está atrelada ao princípio da legalidade, o procedimento postulado pela impetrante é viável, nos termos do art. 10 da L 10.522/2002.
+A recorrente sustenta violação dos arts. 155-A do CTN; 10, 11, 12, 14 e 14-F da Lei n. 10.522/2002 e das disposições regulamentares da Portaria Conjunta PGFN/RFN n. 15/2009, alterada pela Portaria conjunta PGFN/RFB n. 12/2013, alegando a legalidade da estipulação de limites e condições pela legislação infraconstitucional para inclusão do débito no parcelamento simplificado, sem necessidade de garantia, conforme autorização legislativa.
+Sem contrarrazões (fls. 312 e-STJ).
+Decisão de admissibilidade a fls. 338/339 e-STJ.
+É o relatório. Decido.
+A questão trazida a debate no especial diz respeito à legalidade do estabelecimento, por atos infralegais, de limite máximo para a concessão do parcelamento simplificado, sem a necessidade de apresentação de garantia, instituído pela Lei 10.522/2002.
+Ocorre que essa matéria foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (REsp 1.724.834/SC, REsp 1.679.536/RN e REsp 1.728.239/RS - Tema 997/STJ), mostrando-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confiram-se, a propósito, os seguintes precedentes desta Corte: AgInt no AREsp 411.892/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 20/10/2017 e AgInt no AgRg nos EDcl no REsp 1.345.683/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/10/2017.
+Em razão do exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, publicado o acórdão no recurso representativo da controvérsia, o apelo especial: i) tenha seguimento negado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; ii) seja novamente examinado pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento que for firmado nesta Corte Superior (artigo 1.040, I e II, do CPC/2015).
+Publique-se.
