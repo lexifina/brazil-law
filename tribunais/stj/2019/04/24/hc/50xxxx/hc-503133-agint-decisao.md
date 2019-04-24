@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por [NOME], em face da decisão de fls. 65-67, de minha lavra, que indeferiu a liminar.
+No presente, o requerente traz aos autos que " ..  existir nulidade processual, pois foi violado o princípio da congruência, haja vista ter havido condenação por crime não descrito na peça acusatória. É que a denúncia não descreveu conduta de corrupção passiva, no entanto, o paciente fora condenado por tal crime" (fl. 71).
+Menciona, também, que " ..  o crime pelo qual o paciente fora condenado não estava descrito na peça inicial, isto é, não houve correlação entre acusação e sentença, de maneira que não permitiu o contraditório e a ampla defesa, em patente violação ao devido processo legal" (fl. 72).
+Assevera, ainda, que " ..  a espera do trânsito em julgado da ação penal mencionada para posterior ajuizamento de revisão criminal possibilitará que o paciente retorne ao cárcere para cumprimento de pena eivada de nulidade" (fl. 72).
+Afirma, ademais, que " ..  a execução definitiva da pena está na iminência de se iniciar, com a consequente prisão do paciente. Considerando que o paciente permaneceu preso preventivamente por oito meses e depois fora condenado ao cumprimento de pena privativa de liberdade de cinco anos e seis meses em regime inicial semiaberto, resta lhe ainda o cumprimento de pelo menos dois meses para progredir ao regime aberto" (fls. 72-73).
+Por isso, sustenta, que " ..  É ilógico permitir a execução da pena privativa de liberdade quando se verifica que parte dela é nula e está sendo questionada judicialmente. Por outro lado, o pedido da impetrante é razoável, na medida em que busca evitar perpetuação de ilegalidade e não é irreversível, pois em três ou quatro meses este Writ deve está julgado" (fl. 73).
+À fl. 76, o requerente juntou certidão de mandado de prisão expedido em seu desfavor, no qual alega que teve ciência somente na data de 16 de abril de 2019. Com isso, argumenta que a expedição do referido mandado revela o caráter de urgência da medida liminar ora pleiteada.
+Requer, assim, " ..  a RECONSIDERAÇÃO DA DECISÃO de Vossa Excelência para deferir o pedido liminar de suspensão da execução da pena corporal imposta ao paciente até o julgamento definitivo do presente pedido de Habeas Corpus" (fl. 74).
+É o relatório.
+Decido.
+À míngua de novos argumentos que possam infirmar o que decidido em sede de liminar, não há como acolher o pleito em voga.
+De fato, conforme consignado na decisão liminar, ao que parece, ao menos neste juízo de prelibação, o r. decisum está suficientemente fundamentado, não permitindo a constatação de indícios suficientes para a configuração do fumus boni iuris, não restando configurada, de plano, a flagrante ilegalidade, a ensejar o deferimento da medida de urgência, devendo a quaestio, portanto, ser apreciada pelo Colegiado, após uma verificação mais detalhada dos dados constantes dos autos.
+De fato, os fundamentos invocados na decisão permanecem íntegros, razão pela qual indefiro o pedido de reconsideração.
+P. e I.
