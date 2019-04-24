@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC), interposto por [NOME] e outro em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 226):
+PRESCRIÇÃO Para o reconhecimento da prescrição intercorrente, conforme orientação do Eg. STJ, que se passa a adotar, é necessário: (a) para os prazos iniciados na vigência do CPC/1973: (a.1) inércia da parte no cumprimento de providência que lhe cabe e (a.2) prévia intimação pessoal do autor ou credor, para dar andamento ao feito, não bastando, para tanto, intimação pela imprensa do respectivo patrono e (b) para os prazos com termo inicial a partir da vigência do CPC/2015, a inércia da parte no cumprimento de providência que lhe cabe ou o decurso do prazo de um ano, após a suspensão do processo por ausência de bens penhoráveis, nos termos do art. 921, III, CPC/2015, sendo dispensada a intimação pessoal do credor ou autor, observando-se que, em ambos os casos, a prescrição não corre enquanto a execução estiver suspensa Na espécie, não restou caracterizada a prescrição intercorrente, visto que: (a) entre o período de 27.09.2012 a 18.03.2016 (data da vigência do CPC/2015), não há como se cogitar da inércia do credor, porque não houve qualquer determinação do MM Juízo da causa para andamento processu al não atendida pelo credor, precedida de prévia intimação pessoal deste, em fase sob a égide do CPC/1973, sendo certo que a simples ausência de andamento do feito ante a existência de recursos pendentes de julgamento, cujo desfecho foi aguardado pela Vara de Origem, para fins de prosseguimento, não caracteriza desídia do credor e (b) entre o período de 18.02.2016 e a data do oferecimento da exceção de pré-executividade pelos agravantes (11.07.2017) não houve sequer decurso do prazo de 3 anos, após inércia do banco agravado em tomar providência que lhe cabia, nem mesmo hipótese de decurso do prazo de um ano após a suspensão do processo, nos termos do art. 921, III, CPC/2015 Manutenção da r. decisão agravada.
+Recurso desprovido.
+Opostos embargos de declaração, estes foram rejeitados (fls. 243/253).
+Nas razões do recurso especial (fls. 256/272), a parte insurgente alegou, além de dissídio jurisprudencial, ofensa aos arts. 1.022, II, e 489, § 1º, do NCPC.
+Sustentou, em síntese:
+a) omissão do acórdão recorrido quanto ao seguintes pontos: "(i) se aplicou ao caso tratado nos autos jurisprudência cuja matéria fática nele inserida é diversa daquela que se discute na presente situação; (ii) não reconheceu os efeitos que a falta de suspensão da execução no agravo de instrumento que discutia o valor dos salários periciais teve na execução não paralisada, e (iii) que o caso não era de intimação pessoal do banco recorrido porque a tanto não exigia o sistema processual."; e
+b) transcorridos mais de 3 anos entre a suspensão do processo e a atuação da parte exequente, deve ser declarada a prescrição intercorrente da pretensão executiva, medida para a qual é desnecessária a prévia intimação pessoal do credor.
+Contrarrazões às fls. 326/337.
+Inadmitido o apelo, os autos subiram ao exame do STJ mediante a interposição do agravo (art. 1.042 do NCPC).
+Contraminuta às fls. 351/363.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Conforme entendimento desta Corte Superior, a omissão que enseja a oposição de embargos declaratórios é apenas a relativa às questões relevantes, cujo exame, se realizado, possa alterar o resultado da controvérsia.
+O juiz, afinal, mesmo diante do texto dos arts. 1.022 e 489, § 1º, do NCPC, não está obrigado a se manifestar sobre cada uma das teses, argumentos ou artigos de lei invocados pelas partes, desde que fundamente suficientemente sua convicção.
+Ademais, a simples discordância da parte em relação ao julgamento do feito não implica a existência de vício de fundamentação (omissão, contradição ou obscuridade).
+A esse respeito, colhem-se da jurisprudência do STJ:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. NÃO CONFIGURAÇÃO. QUESTÃO INAPTA A ALTERAR A CONCLUSÃO APRESENTADA NA DECISÃO AGRAVADA. AUSÊNCIA DE OMISSÃO RELEVANTE. PRETENSÃO RECURSAL QUE PARTE DE PREMISSA FÁTICA DISTINTA DA ADOTADA PELO TRIBUNAL DE ORIGEM. IMPRESCINDIBILIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO. (AgInt no AgInt no AREsp 832.531/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/10/2017, DJe 20/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 1363893/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/02/2019, DJe 20/02/2019)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1330111/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2019, DJe 14/02/2019)
+Na espécie, a parte insurgente alega omissão do acórdão recorrido quanto aos seguintes pontos: "(i) se aplicou ao caso tratado nos autos jurisprudência cuja matéria fática nele inserida é diversa daquela que se discute na presente situação; (ii) não reconheceu os efeitos que a falta de suspensão da execução no agravo de instrumento que discutia o valor dos salários periciais teve na execução não paralisada, e (iii) que o caso não era de intimação pessoal do banco recorrido porque a tanto não exigia o sistema processual.".
+A rigor, a pretensão da parte insurgente, com os embargos de declaração opostos na origem, era apenas provocar o rejulgamento do mérito da controvérsia.
+A única questão debatida nos autos é a consumação ou não da prescrição intercorrente e, quanto a esse tema, o Tribunal Estadual produziu extensa fundamentação, conforme revela o seguinte trecho do aresto recorrido (fl. 234)
+4.2. Na espécie, não restou caracterizada a prescrição intercorrente, visto que: (a) entre o período de 27.09.2012 a 18.03.2016 (data da vigência do CPC/2015), não há como se cogitar da inércia do credor, porque não houve qualquer determinação do MM Juízo da causa para andamento processual não atendida pelo credor, precedida de prévia intimação pessoal deste, em fase sob a égide do CPC/1973, sendo certo que a simples ausência de andamento do feito ante a existência de recursos pendentes de julgamento, cujo desfecho foi aguardado pela Vara de Origem, para fins de prosseguimento (fls. 70) não caracteriza desídia do credor e (b) entre o período de 18.02.2016 e a data do oferecimento da exceção de pré-executividade pelos agravantes (11.07.2017 fls. 20), não houve sequer decurso do prazo de 3 anos, após inércia do banco agravado em tomar providência que lhe cabia, nem mesmo hipótese de decurso do prazo de um ano após a suspensão do processo, nos termos do art. 921, III, CPC/2015.
+Diante disso, inexiste omissão do aresto estadual, devendo ser rejeitada a tese de ofensa aos arts. 1.022 e 489, § 1º, do NCPC.
+2. Na interposição do recurso especial, é dever da parte recorrente indicar qual dispositivo de lei federal teria sido violado ou interpretado de modo distinto por diferentes cortes de 2ª instância, sob pena de a deficiência das razões recursais atrair o óbice da Súmula 284/STF.
+A respeito do tema:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - PREVIDÊNCIA PRIVADA - POSSIBILIDADE DE DEVOLUÇÃO DOS VALORES RECEBIDOS EM DECORRÊNCIA DE TUTELA ANTECIPADA POSTERIORMENTE REVOGADA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA ENTIDADE DE PREVIDÊNCIA. IRRESIGNAÇÃO DOS AUTORES 1. Nos termos da jurisprudência do STJ, a intimação da parte pode ser feita no nome de qualquer um dos causídicos constituídos nos autos quando não há pedido de intimação exclusiva em nome de algum deles. Precedentes.
+2. A falta de indicação de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+(..)
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1533743/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/03/2019, DJe 22/03/2019)
+No presente caso, a parte invocou o permissivo contido na alínea "c" do art. 105, III, da Constituição, mas não indicou o dispositivo de lei federal objeto do dissídio.
+Assim, o óbice da Súmula n. 284/STF impede o exame da tese de prescrição intercorrente.
+3. Ante o exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
