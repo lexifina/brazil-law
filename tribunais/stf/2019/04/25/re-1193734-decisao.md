@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PERMISSIVO – ENQUADRAMENTO – AUSÊNCIA – SEGUIMENTO –NEGATIVA.
+    1. O Superior Tribunal de Justiça confirmou o entendimento das instâncias inferiores no tocante à procedência do pedido de nulidade de patente mailbox, com a consequente redução do prazo de proteção. No extraordinário, a recorrente alega violação dos artigos 5º, cabeça e incisos XXIX, XXXVI e XV, 37, 97 e 170, inciso IV, da Constituição Federal. Diz contrariada cláusula de reserva de Plenário, tendo em vista a interpretação dada ao artigo 40 da Lei nº 9279/96.
+    2. O Tribunal Regional Federal da 2ª Região julgou a apelação a partir de fundamentos legais e constitucionais, inclusive com pronunciamento, mediante atuação de órgão fracionado, quanto à Lei nº 9.279/96. Confiram-se a ementa prolatada:
+    RECURSO DE APELAÇÃO. PROPRIEDADE INDUSTRIAL. PATENTE MAILBOX. READEQUAÇÃO DO PRAZO DE VIGÊNCIA. AGRAVO RETIDO. PRELIMINARES DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO, ILEGITIMIDADE ATIVA DO INPI E AUSÊNCIA DE DOCUMENTOS NECESSÁRIOS PARA A INSTRUÇÃO DO FEITO. REJEITADAS. PREVISÃO EXPRESSA DO ART. 229, PARÁGRAFO ÚNICO, DA LPI. FUNÇÃO SOCIAL DA PROPRIEDADE INDUSTRIAL. INAPLICABILIDADE DOS PRINCÍPIOS DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA NA EXTENSÃO PRETENDIDA. O PRAZO DE VIGÊNCIA DEVE SER DE 20 ANOS, CONTADOS DO DEPÓSITO DO PEDIDO. ART. 40, CAPUT, DA LPI. REVISÃO DA CONDENAÇÃO EM HONORÁRIOS. AGRAVO RETIDO A QUE SE NEGA PROVIMENTO E APELAÇÃO A QUE SE DÁ PARCIAL PROVIMENTO.
+    I – Trata-se de recurso de apelação interposto contra sentença que julgou procedente o pedido e declarou a nulidade parcial da patente mailbox, readequando seu prazo de vigência, em interpretação conjunta do parágrafo único do art. 229 com o caput do art. 40, ambos da LPI.
+    II – Reiterado agravo retido que suscitou preliminares de (i) impossibilidade jurídica dos pedidos relacionados à nulidade da patente PI 9507594-1; (ii) ilegitimidade ativa do INPI; e (iii) ausência de documentos necessários para a instrução do feito.
+    III – Rejeitadas preliminares de impossibilidade jurídica do pedido e ilegitimidade ativa do INPI. A readequação do prazo de patente constitui declaração parcial de nulidade da mesma. Nos termos do art. 56 da LPI, o INPI é um dos legitimados para a propositura de ação de nulidade de patente.
+    IV – Rejeitada preliminar de ausência de documentos necessários. A matéria tratada é de direito, bem como os certificados das patentes impugnadas estão disponíveis para consulta no próprio sítio eletrônico do INPI.
+    V – O cerne da controvérsia é saber se o parágrafo único do art. 40 da Lei 9.279/96 (LPI), que trata do prazo mínimo de vigência da patente de invenção e de modelo de utilidade, é aplicável às patentes mailbox, tuteladas no art. 229, parágrafo único, da LPI.
+    VI – A resposta é negativa. Não apenas pela previsão expressa do parágrafo único do art. 229, de que apenas o caput do art. 40 é aplicável, mas também em razão da necessidade de se conferir a tal dispositivo interpretação conforme o art. 5°, XXIX, da CRFB, que condiciona o privilégio de invenção ao atendimento do interesse social e desenvolvimento tecnológico e econômico do País.
+    VII – Principio da confiança e da segurança jurídica inaplicável na extensão pretendida. Mesmo que tivesse sido gerada legítima expectativa, a solução não é transferir para a sociedade o ônus do equívoco do INPI, em prejuízo do princípio da função social da propriedade industrial.
+    VIII – O prazo de vigência deve ser de 20 anos, contados do depósito do pedido de patente, conforme art. 229, parágrafo único, e art. 40, caput, ambos da LPI.
+    IX – Considerando que o próprio INPI deu causa à demanda, não pode a apelante ser condenada ao pagamento de honorários advocatícios.
+    X – Agravo retido a que se nega provimento e apelação a que se dá parcial provimento.
+    A ora recorrente deixou de atentar para a necessidade de adentrar a via da dupla impugnação, protocolando apenas o recurso especial, ocorrendo a preclusão quanto a questão constitucional, considerado não ter havido alteração no decidido pelo Superior Tribunal de Justiça. .
+    2. Nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 25 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
