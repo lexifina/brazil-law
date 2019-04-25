@@ -10,6 +10,7 @@ b) intermediação de negócios;
 c) administração, locação ou cessão de bens imóveis, móveis e direitos de qualquer natureza;
 d) prestação cumulativa e contínua de serviços de assessoria creditícia, mercadológica, gestão de crédito, seleção de riscos, administração de contas a pagar e a receber, compra de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring).
 e) prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura vinculados a contrato de concessão de serviço público.
+IV - 38,4% (trinta e oito inteiros e quatro décimos por cento), para as atividades de operação de empréstimo, de financiamento e de desconto de títulos de crédito realizadas por Empresa Simples de Crédito (ESC).
 § 2º No caso de atividades diversificadas será aplicado o percentual correspondente a cada atividade.
 § 3º As receitas provenientes de atividade incentivada não comporão a base de cálculo do imposto, na proporção do benefício a que a pessoa jurídica, submetida ao regime de tributação com base no lucro real, fizer jus.
 § 4º O percentual de que trata este artigo também será aplicado sobre a receita financeira da pessoa jurídica que explore atividades imobiliárias relativas a loteamento de terrenos, incorporação imobiliária, construção de prédios destinados à venda, bem como a venda de imóveis construídos ou adquiridos para a revenda, quando decorrente da comercialização de imóveis e for apurada por meio de índices ou coeficientes previstos em contrato.

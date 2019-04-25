@@ -1,5 +1,5 @@
-Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou a empresa de pequeno porte:
-I - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, gerenciamento de ativos (asset management), compras de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring);
+Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou empresa de pequeno porte:
+I - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, gerenciamento de ativos (asset management) ou compra de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring) ou que execute operações de empréstimo, de financiamento e de desconto de títulos de crédito, exclusivamente com recursos próprios, tendo como contrapartes microempreendedores individuais, microempresas e empresas de pequeno porte, inclusive sob a forma de empresa simples de crédito;
 II - que tenha sócio domiciliado no exterior;
 III - de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
 IV - (REVOGADO)
