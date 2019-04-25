@@ -1,0 +1,13 @@
+DECISÃO
+A recorrente acoima de ilegal acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0051462-25.2019.8.21.7000, em que foi mantido o reconhecimento da prática de conduta classificada como falta grave.
+A defesa alegou, perante a autoridade inquinada coatora, que "não tinha conhecimento de que estava sendo prejudicada toda vez que não atendia as ligações do DME e que todas as vezes que precisou sair da zona de monitoramento informou a autoridade competente" (fl. 333), razão pela qual requer o restabelecimento do benefício da prisão domiciliar.
+Decido.
+Na hipótese, a Corte de origem destacou que,
+ ..  conforme contato telefônico realizado com o juízo de origem, foram enviados, via correspondência eletrônica, os e-mails contidos nas fls. 2962/2966 dos autos originários, no qual consta as seguintes informações:
+(a) Em 23.06.2017, PAOLA deixou a tornozeleira descarregar entre 14h20 e 15hd;
+(b) Em 16.01.2018, às 07505min, PAOLA se deslocou até a rua Soares de Carvalho, 81, distante 3.28km da sua zona autorizada;
+(c) Em 09.12.2018, às 04h56min, Paola saiu antes do horário autorizado para visita ao presídio, sendo que não atendeu às ligações da DME e não retornou os alertas vibratórios e SMS; e, (d) Em 05.01.2019, a paciente "se deslocou até o Município de Picada Café, onde permaneceu, das 07h50 às 09h15, com parada em ao menos dois endereços: Rua Vicente Prieto, nº 3581, e rua Arroio Terra nº 60. No deslocamento, parou no município de Presidente Lucena, nas proximidades da rua Presidente Lucena, 1476. Não há registro de autorização para sair de sua zona bairro/cidade".
+Logo, considerando as diversas intercorrências envolvendo a prisão domiciliar com monitoramento eletrônico concedida à paciente, que sabia que seu descumprimento comportaria a decretação de sua prisão preventiva, resta claro que PAOLA frustrou a confiança nela depositada, sendo impositivo o restabelecimento da custódia cautelar, nos termos do artigo 282, § 4º, do Código de Processo Penal  ..  (fls. 338-339, grifei).
+Assim, percebe-se que o Tribunal local apontou a existência de elementos a demonstrar o descumprimento das condições previamente impostas à recorrente, de modo que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
