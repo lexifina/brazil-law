@@ -1,0 +1,22 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. PRÉVIO PROCESSO SELETIVO. CONTRATAÇÃO SOB O REGIME DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO - CLT. POSTERIOR PUBLICAÇÃO DA LEI N. 11.350/2006. APLICAÇÃO DO REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 2ª Vara de Jacupiranga/SP e o Juízo da Vara do Trabalho de Registro/SP, nos autos de ação trabalhista proposta por [NOME] contra o Município de Jacupiranga/SP, objetivando a condenação da ré ao pagamento de diferenças salariais pelo suposto "acúmulo/desvio de função, durante todo o período laborado com reflexos nas verbas trabalhistas devidas" (fls. 3-25).
+O Juízo da Vara do Trabalho de Registro/SP acolheu a incompetência da Justiça do Trabalho para o processamento e julgamento da questão ao argumento de que compete "exclusivamente à Justiça comum o exame de questão relativa a vínculo jurídico-administrativo" (fls. 56-59).
+Por sua vez, o Juízo de Direito da 2ª Vara de Jacupiranga/SP suscita o presente conflito ao argumento de que a competência para o julgamento do feito é da Justiça do Trabalho, haja vista que a autora, como celetista, busca sua reintegração e recebimento de verbas trabalhistas (fls. 103-104).
+É o relatório. Passo a decidir.
+Cinge-se a questão dos autos em definir a quem compete processar e julgar - se à Justiça Trabalhista ou à Justiça Comum - pedidos decorrentes de relação de trabalho no cargo de Agente Comunitário de Saúde entre a autora e o Município de Jacupiranga/SP.
+Nas hipóteses de contratação de agente comunitário de saúde, o art. 8º da MP n. 297/2006, convertida na Lei Federal n. 11.350/2006, estabeleceu o regime celetista, salvo se o ente público adotar forma diversa por meio de lei local. Confira-se a literalidade da norma:
+O art. 8o Os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4o do art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT, salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa (grifei).
+No caso concreto, foram juntadas aos autos cópia da CTPS da demandante (doc. de fls. 32-34), não se tendo notícia de que o município tenha disposto de regime jurídico de forma diversa do estabelecido pela CLT. Assim, seja em função da Lei Federal n. 11.350/06, seja em razão do regramento municipal, o regime jurídico aplicável é o celetista, o que, por conseguinte, atrai a competência da Justiça do Trabalho para o processamento e julgamento do feito.
+A propósito:
+CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. PRÉVIO PROCESSO SELETIVO. CONTRATAÇÃO SOB O REGIME DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO - CLT. POSTERIOR PUBLICAÇÃO DA LEI N. 11.350/2006. APLICAÇÃO DO REGIME CELETISTA APENAS EM CASOS EM QUE O ESTADO OU MUNICÍPIO NÃO TENHA REGIME PRÓPRIO, EM SENTIDO DIVERSO. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente comunitário de saúde em face de município, questionando o pagamento de verbas trabalhistas.
+2. O art. 8º da Lei n. 11.350/2006 estabeleceu o regime celetista nas hipóteses de contratação de agente comunitário de saúde, salvo se o ente público adotar forma diversa por meio de lei local.
+3. Será celetista o regime aplicável salvo se , no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+4. Não se tem autos notícia de que o município tenha disposto de regime jurídico de forma diversa do estabelecido pela CLT.
+5. Seja em função da Lei Federal n. 11.350/06, seja em razão do regramento municipal, o regime jurídico aplicável à parte reclamante é o celetista, o que, por conseguinte, implica a competência da Justiça do Trabalho. Precedentes.
+6. Agravo interno não provido.
+(AgInt no CC 149.760/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 30/6/2017)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo da Vara do Trabalho de Registro/SP (art. 955, parágrafo único, do CPC/2015 combinado com o art. 34, XXII, do RISTJ).
+Publique-se. Intimem-se.
