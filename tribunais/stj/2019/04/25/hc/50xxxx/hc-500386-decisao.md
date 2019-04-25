@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de [NOME] [NOME] [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO EM EXECUÇÃO (ARTIGO 197, DA LEP). PROGRESSÃO DE REGIME DEFERIDA. INCONFORMISMO MINISTERIAL.
+Não obstante o apenado tenha, de fato, implementado o requisito objetivo exigido para a concessão da benesse em comento, bem como apresente conduta prisional plenamente satisfatória (fl. 08) e não tenham os pareceres psicológico e social indicado quaisquer elementos que recomendassem o indeferimento da progressão, o histórico carcerário do réu mostrou-se contrário à possibilidade de que o mesmo usufrua do benefício em debate, verificando-se que o mérito subjetivo para tanto não se encontra preenchido.
+Com efeito, conforme se verifica dos autos, o réu registra o cometimento recente de falta grave no curso da execução de sua pena, consistente na posse de aparelho celular no interior do estabelecimento prisional, reconhecida em 10JAN2018 (fl. 05).
+Portanto, tendo em vista que me coaduno com o posicionamento de que a prática de falta grave no curso da execução penal pode ser tida - dependendo das particularidades do caso concreto - como elemento válido a impedir a progressão de regime, tenho que, no caso em tela, constatado que, ao menos por ora, o agravado não revela a responsabilidade e disciplina necessárias para a concessão da progressão ao regime semiaberto, mostra-se prematura a sua concessão.
+Assim, como já mencionado, resta inadimplido o requisito subjetivo exigido para a progressão ao regime semiaberto. AGRAVO PROVIDO."
+Daí o presente writ, no qual a Defensoria Pública estadual, ora impetrante, alega que a decisão que afasta o requisito subjetivo para a progressão de regime não pode se basear na "ausência do mérito do apenado" (fl. 6), mas sim em elementos concretos carreados da execução.
+Aduz que a existência de faltas antigas no curso da execução não pode ensejar o indeferimento da progressão de regime de forma perpétua, pois vedado em nossa Constituição, além de configurar requisito estranho à Lei de Execução Penal.
+Afirma que isso fere a dignidade da pessoa humana e tampouco a manutenção no cárcere para melhor absorção da terapia penal se mostra fundamentação idônea.
+Requer a concessão da ordem, inclusive LIMINARMENTE, a fim de se deferir ao paciente a imediata progressão de regime. No mérito, a confirmação da liminar, com a cassação do v. acórdão.
+O pedido liminar foi indeferido (fls. 91-94).
+Informações às fls. 98-137 e 138-197.
+O d. Ministério Público Federal manifestou-se, às fls. 202-206, pelo não conhecimento da impetração, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- Ia Preliminar: não conhecimento de habeas corpus originário, substitutivo de revisão criminal.
+- 2a Preliminar: conhecimento de ofício; ausência de competência.
+- 3a Preliminar: ausência de competência do STJ; compete ao próprio Tribunal que proferiu a decisão processar e julgar a revisão criminal de seus julgados.
+- Parecer pelo não conhecimento deste habeas corpus."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+ Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A Defesa pretende, em síntese, que seja concedida ao paciente a progressão do regime fechado para o semiaberto, por entender que estão presentes os requisitos legais.
+No presente caso, segundo se verifica do v. acórdão impugnado, o benefício da progressão de regime prisional foi cassado no julgamento de recurso de agravo em execução interposto pelo Ministério Público estadual, sob os seguintes argumentos lançados no voto-condutor (fls. 79-83):
+"Observa-se dos autos que o apenado [NOME] restou condenado à pena total de 24 (vinte e quatro) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, tendo iniciado o cumprimento da reprimenda em 15DEZ2012, com término previsto para 16DEZ2035, pela prática de diversos delitos.
+Durante a execução de sua pena em regime fechado, o réu pugnou pela sua progressão ao regime semiaberto, sendo o pleito deferido pela magistrada da execução, na decisão lançada à fl. 21, sendo esta a razão da presente irresignação ministerial.
+A decisão, a meu ver, merece reparos.
+Não obstante o apenado tenha, de fato, implementado o requisito objetivo exigido para a concessão da benesse em comento, bem como apresente conduta prisional plenamente satisfatória (fl. 08) e não tenham os pareceres psicológico e social indicado quaisquer elementos que recomendassem o indeferimento da progressão, o histórico carcerário do réu mostrou-se contrário à possibilidade de que o mesmo usufrua do benefício em debate, verificando-se que o mérito subjetivo para tanto não se encontra preenchido.
+Com efeito, conforme se verifica dos autos, o réu registra o cometimento recente de falta grave no curso da execução de sua pena, consistente na posse de aparelho celular no interior do estabelecimento prisional, reconhecida em 10JAN2018 (fl. 05).
+Portanto, tendo em vista que me coaduno com o posicionamento de que a prática de falta grave no curso da execução penal pode ser tida - dependendo das particularidades do caso concreto - como elemento válido a impedir a progressão de regime, tenho que, no caso em tela, constatado que, ao menos por ora, o agravado não revela a responsabilidade e disciplina necessárias para a concessão da progressão ao regime semiaberto, mostra-se prematura a sua concessão.
+ ..
+Assim, como já mencionado, resta inadimplido o requisito subjetivo exigido para a progressão ao regime semiaberto.
+Ante o acima exposto, dou provimento ao agravo, para cassar a progressão de regime concedida ao réu. É o voto." (grifei)
+Verifica-se, pois, que o v. acórdão impugnado considerou que não está presente o requisito subjetivo para a progressão de regime, com base em elementos concretos, extraídos da execução penal, tendo em vista o histórico do apenado, que praticou falta grave, consistente na posse de aparelho celular nas dependências do estabelecimento prisional, apurada em PAD devidamente homologado no mês de janeiro de 2018, ou seja, em data ainda recente.
+Desta forma, não se vislumbra qualquer ilegalidade ou arbitrariedade no indeferimento do benefício da progressão de regime ao paciente, por ausência do requisito subjetivo, diante de elementos concretos, observados durante a execução da pena.
+Nesse sentido os seguintes precedentes desta Corte Superior:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. HISTÓRICO PRISIONAL. REGISTRO DE FALTA GRAVE RECENTE. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A jurisprudência desta Corte Superior firmou-se no sentido de que o cometimento de falta grave no curso da execução constitui fundamento idôneo para indeferir o pedido de progressão de regime, ante a ausência de preenchimento do requisito subjetivo.
+III - In casu, o i. Juízo da Vara de Execuções Criminais indeferiu a progressão de regime ante a ausência de preenchimento do requisito subjetivo, estando o v. acórdão fundamentado em elementos concretos, a saber, na prática de falta grave consubstanciada na fuga.
+Agravo regimental não provido" (AgRg no HC 414.733/MS, Quinta Turma, de minha relatoria, DJe 27/11/2017, grifei).
+"AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. AGRAVO NÃO PROVIDO.
+1. A progressão do regime prisional pode ser indeferida quando, a despeito de o reeducando apresentar bom comportamento carcerário certificado pelo diretor do estabelecimento prisional em que esteja cumprindo pena, o magistrado entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado.
+2. No caso dos autos, foram apresentados argumentos capazes de demonstrar a necessidade de maior cautela na concessão do benefício, especialmente relacionados ao histórico carcerário conturbado, com o registro do cometimento de novo delito durante o cumprimento da pena em regime aberto.
+3. Agravo regimental a que se nega provimento" (AgRg no HC 434.217/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 28/06/2018, grifei).
+"HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO FUNDAMENTADO. AUSÊNCIA DO REQUISITO SUBJETIVO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Enunciado n.º 439 da Súmula desta Corte).
+3. No caso, o Tribunal de origem ratificou a decisão proferida pelo Juízo das Execuções Criminais, que indeferiu o pedido de progressão de regime, com fundamento em parecer psicossocial desfavorável ao Apenado, no qual se destacou a sua propensão à reiteração delitiva.
+4. Ademais, a idoneidade da decisão também está assentada no histórico prisional desfavorável do Sentenciado, o qual praticou três faltas disciplinares de natureza grave.
+5. Ordem de habeas corpus denegada." (HC 481.739/RS, Sexta Turma, Rel. Min. Laurita Vaz, DJe 05/04/2019, grifei)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTA DO REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor dos precedentes deste Superior Tribunal, ao indeferir a progressão de regime por inadimplemento do requisito subjetivo, o julgador deve mencionar elementos relacionados ao histórico carcerário do apenado.
+2. A gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício.
+3. A promoção do agravante ao regime semiaberto foi indeferida de forma justificada, com lastro no histórico de infrações disciplinares.
+4. O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional.
+5. É certo que a lei não dispõe sobre o período depurador do ato de indisciplina, por isso, é necessário suprir a lacuna. Por analogia, o julgador poderá valer-se, por exemplo, de normas que regulamentam a perda dos efeitos de uma tendência antissocial (arts. 64, I, e 94, ambos do CP) ou mesmo do entendimento jurisprudencial sobre a prescrição da pretensão disciplinar, sempre atento às características da falta grave e ao montante de pena a cumprir, para evitar o efeito ad eternum da conduta.
+6. Na espécie, sopesadas as datas da reabilitação e do indeferimento da progressão de regime, e verificado que transcorreram pouco mais de três anos desde a última falta grave (subversão da ordem e disciplina interna), considera-se esse período insuficiente para, no caso concreto (pena de quase 30 anos, com término em 2036), reconhecer o direito ao esquecimento.
+7. Agravo regimental não provido." (AgRg no HC 477.887/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 25/03/2019, grifei)
+Não se verifica, portanto, qualquer ilegalidade a coartar.
+Ante o exposto, não conheço do habeas corpus.
+[NOME]
