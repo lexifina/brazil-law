@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. AUSÊNCIA DE INTERESSE DE AGIR. IMPOSSIBILIDADE DE RESTITUIÇÃO DOS VALORES APÓS A OCORRÊNCIA DO SINISTRO. INAPLICABILIDADE DO CDC. TESES NÃO PREQUESTIONADAS. SÚMULAS 282 E 356 DO STF. SÚMULA 211 DO STJ. VÍCIO NO IMÓVEL. RESPONSABILIZAÇÃO. LEGITIMIDADE PASSIVA DA SEGURADORA. SÚMULA 83/STJ. ALTERAÇÃO DOS FUNDAMENTOS DO TRIBUNAL LOCAL. SÚMULA 7/STJ. ILEGITIMIDADE ATIVA DO AUTOR DA AÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Cuida-se de agravo interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão que inadmitiu recurso especial (e-STJ, fls. 699-701) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 615):
+Seguro habitacional - SFH - Morte de um dos mutuários (esposa do autor) - Ação indenizatória e de obrigação de fazer - Reconhecimento da ilegitimidade passiva da Caixa Seguradora - Procedência em parte com relação à CDHU - Denunciação à lide da Seguradora julgada procedente - Inconformismo das partes - Desacolhimento - Partes legítimas - Autor que notificou sinistro e não obteve resposta - Configurado interesse de agir - Falta de prova acerca da solicitação por mais documentos, sendo, ainda, injustificada a complementação - Adequada restituição do valor pago a maior e respectiva compensação - Má-fé das rés e danos morais não configurados - Sentença mantida - Recursos desprovidos.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 652):
+Recurso - Embargos de Declaração - Interposição buscando rediscussão da causa com nítido caráter infringente - Inadmissibilidade - Omissão, contradição e obscuridade não caracterizadas - Desnecessidade deste recurso para fim de prequestionamento - Embargos rejeitados.
+Nas razões do recurso especial, a recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 264, 267, inciso IV, CPC/1973; 757 e 760 do CC/2002 e 6º, inciso VIII, do CDC.
+Sustentou as seguintes teses:
+a) ilegitimidade do recorrido para figurar no polo ativo da demanda;
+b) ausência de interesse de agir, em virtude da existência de procedimento administrativo em andamento no momento da propositura da ação;
+c) ilegitimidade para ser demandada no polo passivo e responsabilizada pelo pagamento do sinistro, ante a culpa exclusiva dos agentes financeiros;
+d) impossibilidade de restituição, após a ocorrência do sinistro, dos valores pagos pelo seguro contratado; e
+e) inaplicabilidade das normas inseridas no Código de Defesa do Consumidor à relação contratual firmada entre as partes.
+ Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 699-701) por entender não ter sido demonstrada a violação à legislação federal, bem como pela incidência das Súmulas 7 e 83/STJ.
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 704-714).
+Brevemente relatado, decido.
+Inicialmente, nos termos do Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Nas razões do presente recurso, a agravante alega ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Afirma que a análise das teses debatidas não exige a revisão de fatos e provas.
+Defende não ter aplicabilidade o enunciado da Súmula 83/STJ.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Preliminarmente, em relação às teses referentes à ausência de interesse de agir, impossibilidade de restituição, após a ocorrência do sinistro, dos valores pagos pelo seguro contratado e inaplicabilidade das normas inseridas no Código de Defesa do Consumidor, verifica-se inexistir pronunciamento sobre os temas no acórdão recorrido, estando ausente o devido prequestionamento.
+Afinal, nos termos da jurisprudência consolidada no Superior Tribunal de Justiça, a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado 211/STJ.
+No tocante à legitimidade ativa do recorrido e à ilegitimidade passiva da recorrente, assim expôs o Tribunal de origem (e-STJ, fls. 618-619):
+ De início, de rigor afastar a alegação de ilegitimidade trazida pelas rés com relação aos dois polos.
+ Ora, a pertinência subjetiva do autor e da denunciada Excelsior salta aos olhos e não precisa de maiores explanações. Afinal, o primeiro é parte no contrato, cuja quitação parcial se pretende e, a segunda, é a seguradora que deve arcar com o pagamento de indenização para tanto.
+ No que tange à CDHU, embora a mesma conclusão lhe seja aplicada, pertinente maior fundamentação.
+ Com efeito, a referida Companhia é parte na relação contratual formada com o mutuário e a seguradora, haja vista que, não bastasse o seguro ser contratado juntamente com o Termo de Adesão para aquisição da unidade habitacional - com valor do prêmio integrado às parcelas mensais do preço -, tem-se que a contratação da seguradora é feita pela CDHU, que, ainda, figura como interveniente em todo processo de sinistro, com o recebimento de documentação, envio etc.
+ Aliás, o acerto da procedência em parte da demanda principal e procedência da lide secundária é embasado em tal procedimento, conforme se verá a seguir.
+ Restou incontroverso que a esposa do autor faleceu em 01.07.09, tendo a parte comunicado o fato à CDHU em 11.07.09 (fls. 37), que, por sua vez, noticiou o sinistro à Excelsior Seguradora, ensejando a abertura de procedimento administrativo (fls. 315), que foi paralisado, inibindo a cobertura securitária ora almejada.
+ As rés justificam o fato pela insuficiência dos documentos apresentados pelo autor.
+ Ocorre que, não bastasse a alegação ter sido feita de modo genérico pela Seguradora, não se tem notícia do envio ao autor de pedido para complementação, que, aponta, ter protocolado o requerimento de quitação, sem obter resposta.
+Do excerto acima transcrito, verifica-se que o Tribunal a quo, mediante conclusão retirada da análise dos fatos e provas inseridas nos autos, entendeu que a seguradora, ora recorrente, deveria figurar no polo passivo da demanda, tendo em vista que o contrato firmado entre as partes foi formalizado juntamente com a aquisição do imóvel.
+Nos termos da jurisprudência vigente no Superior Tribunal de Justiça, a seguradora detém legitimidade passiva para ser demandada em ações nas quais se pleiteia o pagamento de indenizações referente a contrato de seguro habitacional de imóvel adquirido pelo Sistema Financeiro de Habitação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. AUSÊNCIA DO PREQUESTIONAMENTO. SÚMULA 211/STJ. ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não houve debate sobre a questão inserta no art. 6º, VIII, do Código de Defesa do Consumidor, situação esta que inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial, devido a falta de prequestionamento. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que a seguradora tem legitimidade para figurar no polo passivo de ação que cinge contrato de seguro habitacional, regido pelas regras do Sistema Financeiro de Habitação. Precedentes.
+3. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas, e cláusulas contratuais, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1202234/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n.
+5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1305102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 19/02/2016)
+Desse modo, constata-se que o aresto impugnado está em sintonia com a jurisprudência do Superior Tribunal de Justiça, situação que atrai a aplicação da Súmula 83/STJ.
+Ademais, concluindo a Corte originária que a recorrente é parte legítima para figurar no polo passivo da ação, descabe a este Tribunal Superior, por meio do julgamento de recurso especial, alterar os fundamentos adotados, pois o exame exigiria amplo revolvimento de fatos e provas, devidamente vedado pela Súmula 7/STJ.
+Noutro ponto, quanto à ilegitimidade ativa da parte recorrida, melhor sorte não assiste à agravante.
+Conforme acima demonstrado pelo trecho retirado do acórdão recorrido, o Tribunal originário entendeu ser legítima a autoria do recorrido por constatar que, nos termos do contrato, figura como parte integrante da relação obrigacional.
+Diante da conclusão adotada pela Corte estadual, mostra-se inviável, por meio do julgamento do apelo excepcional, a revisão das cláusulas contratuais, a fim de alterar o posicionamento acolhido no julgado recorrido, uma vez que seria necessário o reexame fático-probatório, cuja vedação encontra previsão no óbice imposto pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
