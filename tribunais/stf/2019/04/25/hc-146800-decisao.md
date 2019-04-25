@@ -1,0 +1,27 @@
+DECISÃO:
+Ementa: Habeas corpus. Atividade clandestina de telecomunicação. Princípio da insignificância. Inexistência de contrariedade à jurisprudência do Supremo Tribunal Federal. Habeas corpus a que se nega seguimento.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ribeiro Dantas, assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TELECOMUNICAÇÕES. SERVIÇO DE VALOR ADICIONADO. ACESSO À INTERNET. VIOLAÇÃO DO ART. 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+          1. De acordo com o entendimento firmado nesta Corte, "a transmissão de sinal de internet via radio, sem autorização da ANATEL, caracteriza o fato típico previsto no artigo 183 da Lei n. 9.472/1997, ainda que se trate de serviço de valor adicionado de que cuida o artigo 61, § 1°, da mesma lei" (AgRg no REsp 1.566.462/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+          2. ‘A prática de serviço de radiodifusão clandestina, mesmo que de baixa potência e sem a obrigatoriedade de autorização por parte do órgão regulador, como na hipótese de serviço de valor adicionado (SVA), constitui delito formal de perigo abstrato, o que afasta o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância’ (AgRg no REsp 1.555.092/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2015, DJe de 2/2/2016).
+          3. Agravo regimental a que se nega provimento”.
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no artigo 183 da Lei 9.472/97, tendo em vista que, “foi flagrado explorando comercialmente Serviço de Comunicação Multimídia – SCM (disponibilização remunerada da rede wireless de internet), sem a devida autorização da ANATEL”.
+    3. Concluída a instrução criminal, o paciente foi condenado à pena de 2 (dois) anos de detenção, em regime aberto, substituída por prestação pecuniária.
+    4. Da sentença, a defesa interpôs recurso de apelação. A Quinta Turma do Tribunal Regional Federal da 3ª Região negou provimento ao recurso, por unanimidade.
+    5. Irresignada, a defesa interpôs recurso especial, inadmitido na origem. Contra essa decisão, foi interposto recurso de agravo, não provido pelo Superior Tribunal de Justiça.
+    6. Neste habeas corpus, a defesa sustenta que “a conduta imputada ao paciente não configura desenvolvimento clandestino de atividades de telecomunicações e, por esta razão, é atípica”. Argumenta que “não ficou evidenciado qualquer interferência efetiva em transmissões radiodifusoras”. Daí o pedido de concessão da ordem para que seja aplicado o princípio da insignificância para absolver o paciente.
+    Decido.
+    7. O habeas corpus não deve ser concedido, tendo em vista que as peças que instruem os autos não evidenciam situação de ilegalidade ou abuso de poder.
+    8. O acórdão impugnado está em conformidade com a jurisprudência da Primeira Turma desta Corte. Refiro-me, a título de amostragem, ao HC 152.118-AgR, Rel. Min. Luiz Fux, cuja ementa reproduzo:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS . PENAL E PROCESSUAL PENAL. CRIME DE DESENVOLVIMENTO DE ATIVIDADE CLANDESTINA DE TELECOMUNICAÇÕES. ARTIGO 183 DA LEI Nº 9.472/97. HABEAS CORPUS SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CF, ART. 102, I, D E I . ROL TAXATIVO. ALEGADA ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. AGRAVO REGIM ENTAL DESPROVIDO.
+    1. O desenvolvimento clandestino de atividade de transmissão de sinal de internet, via rádio, comunicação multimídia, sem a autorização do órgão regulador, caracteriza, por si só, o tipo descrito no artigo 183 da Lei n.º 9.472/97, pois se trata de crime formal, inexigindo, destarte, a necessidade de comprovação de efetivo prejuízo.
+    2. In casu , os pacientes foram denunciados pela suposta prática da infração penal prevista no artigo 183 da Lei nº 9.472/97 c/c artigo 29 do Código Penal.
+    3. A competência originária do Supremo Tribunal Federal para conhecer e julgar habeas corpus está definida, exaustivamente, no artigo 102, inciso I, alíneas d e i , da Constituição da República, sendo certo que os pacientes não estão arrolados em qualquer das hipóteses sujeitas à jurisdição desta Corte.
+    4. Para dissentir dos fundamentos do acórdão recorrido, seria necessário o revolvimento de fatos e provas, sendo o habeas corpus ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos.
+    5 . A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 09/05/2017; HC 122.904-AgR, Primeira Turma Rel. Min. Edson Fachin, DJe de 17/05/2016; RHC 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 01/07/2015.
+    6. Agravo regimental desprovido.” (grifos acrescidos)
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 25 de abril de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
