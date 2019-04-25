@@ -1,0 +1,14 @@
+DECISÃO: A parte requerente postulou, mediante petição protocolada eletronicamente nesta Corte sob nº 69.440/2018, fossem “imediatamente analisados os requisitos para que o condenado passe a cumprir a pena em regime menos severo (regime aberto) (...)” (grifei).
+    Observo, desde logo, que, ao apreciar os fundamentos em que se apoiava a presente impetração, não conheci do “habeas corpus” deduzido em favor do paciente, mas concedi a ordem de ofício, apenas para determinar ao Juízo de Direito da Vara Única da comarca de Cafelândia/SP (Processo- -crime nº 0003476-06.2015.8.26.0104) que, mantida a condenação penal questionada na presente sede processual, promovesse a análise dos requisitos necessários ao ingresso do ora paciente em regime penal menos gravoso, observando, para tanto, a orientação firmada pelo Plenário desta Suprema Corte no julgamento do HC 111.840/ES, Rel. Min. DIAS TOFFOLI.
+    A mencionada decisão monocrática veio a ser publicada  em 15/10/2018 e, contra ela, não foi interposto o recurso eventualmente cabível.
+    Isso significa, portanto, que a decisão em causa já transitou em julgado, pois – como se sabe –, ainda que se admita o presente requerimento como pedido de reconsideração, tal pleito não se reveste, mesmo assim, de eficácia interruptiva ou suspensiva dos prazos recursais, consoante adverte a jurisprudência dos Tribunais (RTJ 123/470 – RT 477/122 – RT 481/102 – RT 595/201, v.g.).
+    Não se pode perder de perspectiva, neste ponto, que os prazos recursais são peremptórios e preclusivos (RT 473/200 – RT 504/217 – RT 611/155 – RT 698/209 – RF 251/244, v.g.), razão pela qual, com o mero decurso, “in albis”, do lapso temporal respectivo, extingue-se, “pleno jure”, o direito de o interessado deduzir o recurso pertinente:
+    “– Os prazos recursais são peremptórios e preclusivos (RT 473/200 – RT 504/217 – RT 611/155 – RT 698/209 –  RF 251/244). Com o decurso, ‘in albis’, do prazo legal, extingue-se, de pleno direito, quanto à parte sucumbente, a faculdade processual de interpor, em tempo legalmente oportuno, o recurso pertinente.
+    – A tempestividade – que se qualifica como pressuposto objetivo inerente a qualquer modalidade recursal – constitui matéria de ordem pública, passível, por isso mesmo, de conhecimento ‘ex officio’ pelos juízes e Tribunais. A inobservância desse requisito de ordem temporal, pela parte recorrente, provoca, como necessário efeito de caráter processual, a incognoscibilidade do recurso interposto.”
+    (RTJ 203/416, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e por tratar-se de ato decisório que já se tornou irrecorrível, não conheço do pedido formulado na peça processual protocolada sob nº 69.440/2018.
+    2. À Secretaria Judiciária desta Suprema Corte, para certificar o trânsito em julgado da decisão por mim proferida em 08/10/2018. Exarada tal certidão, arquivem-se estes autos.
+    Publique-se.
+    Brasília, 25 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
