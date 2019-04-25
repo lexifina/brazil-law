@@ -1,0 +1,40 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JULGAMENTO EXTRA PETITA - NÃO OCORRÊNCIA. APLICABILIDADE DO PRAZO PRESCRICIONAL DE TRÊS ANOS - SÚMULA 284/STF. NÃO CABIMENTO DO ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS POR EQUIDADE - IMPROCEDÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] e [NOME] contra os acórdãos de fls. 178-183 e 198-204 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+Cobrança - Autora que suportou débito de IPTU alusivo a período posterior à transmissão da posse aos réus - Incidência do prazo prescricional qüinqüenal, e não do trienal (CC 206, §39, IV) - Além de se tratar de obrigação assumida em instrumento particular, sub-rogou-se a autora no crédito fazendário (CC 346, III e CTN 174) - Não demonstraram os réus ter suportado o IPTU alusivo ao exercício em questão, pois os carnês por eles apresentados referem-se a exercícios diversos - No que tange à alegada divergência do número do contribuinte constante do carnê e do contrato, o deste se referia à área maior, conforme expressa previsão contratual - Quanto ao valor, de acordo com as alegações da autora e com os carnês juntados aos autos, referentes a vários pagamentos mensais de R$ 1.872,75, ao que parece, buscou-se uma espécie de rateio do IPTU relativo à área total entre os diversos compromissários compradores, cobrando-se dos ora réus a quantia relativa a um mês - Necessidade da apuração em liquidação de sentença do valor efetivamente devido pelos réus - Recurso provido em parte.
+Embargos de declaração - Apelação - Inocorrêncla de omissão, obscuridade ou contradição - Rejeição.
+Nas razões do recurso especial (e-STJ, fls. 206-239), apontam os insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 206, § 3º, IV, e 346, III, do Código Civil; 10, 85, § 2º, 141 e 492 do Código de Processo Civil de 2015; e 174 do Código Tributário Nacional. Sustentam, em síntese: i) ocorrência de julgamento extra petita; ii) aplicabilidade do prazo prescricional de 3 (três) anos previsto para o enriquecimento ilícito; e iii) não cabimento do arbitramento dos honorários advocatícios por equidade.
+Contrarrazões às fls. 301-308 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 309-310), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+A jurisprudência desta Corte é no sentido de que não ocorre julgamento extra petita quando, observando o julgador os limites da lide, decide por fundamentos diversos aos apresentados pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ALEGADA AFRONTA AOS ARTS. 2º E 128 DO CPC/73. NÃO OCORRÊNCIA. TRIBUTÁRIO. OBRIGAÇÃO ACESSÓRIA. MULTA DECORRENTE DO DESCUMPRIMENTO. DISCUSSÃO SOBRE A LEGALIDADE DA MULTA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. Decidida a lide nos limites em que foi proposta, não há falar em ofensa aos arts. 2º e 128 do CPC/73, tendo em vista que a fundamentação não é critério apto para a avaliação de julgamento extra petita. "Aplicável ao caso o princípio do jura novit curia, o qual, dados os fatos da causa, cabe ao juiz dizer o direito. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto sob fundamentos diversos aos apresentados pela parte" (AgRg no REsp 972.349/MG, 2ª Turma, Rel. Min. Humberto Martins, DJe de 18.3.2008).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp 1188873/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018).
+No caso corrente, buscou a recorrida o afastamento da prescrição, embora por fundamentos diversos do acórdão, não ocorrendo, portanto, o alegado julgamento extra petita.
+Quanto ao prazo prescricional, verifica-se do acórdão recorrido que os fundamentos da decisão foram o descumprimento contratual e a subrogação da recorrida no direito da Fazenda Pública.
+Dessa forma, a tese recursal (aplicabilidade do prazo prescricional de 3 anos, por se tratar de enriquecimento sem causa) se mostra dissociada dos fundamentos da decisão recorrida, incidindo a Súmula 284/STJ a obstar o conhecimento do recurso.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/96 E 1º DO DECRETO-LEI N. 201/67 C/C 71 DO CP. DEFESA PRELIMINAR. NOTIFICAÇÃO. EXISTÊNCIA. SÚMULA 284/STF. JUSTA CAUSA. NATUREZA SINGULAR DA ATIVIDADE CONTRATADA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO. SÚMULA 7/STJ. RECURSO IMPROVIDO.
+1. Estando as razões recursais dissociadas dos fundamentos do acórdão recorrido, incide o óbice do Enunciado n. 284 da Súmula do STF.
+2. O acórdão recorrido registrou estar configurada a justa causa para a ação penal, ressaltando que não ficou demonstrado, de plano, a natureza singular da atividade contratada, conclusão que não pode ser modificada por esta Corte ante o óbice do enunciado n. 7 da Súmula desta Corte.
+3. É incabível o exame do Recurso Especial pela alínea "c" do permissivo constitucional, quando incidente na hipótese a Súmula n.
+07/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp 979.659/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/11/2016, DJe 28/11/2016).
+No tocante aos honorários advocatícios, o entendimento desta Corte é pelo arbitramento por equidade e, fora dos percentuais mínimo e máximo, quando o proveito econômico for irrisório.
+Nessa toada:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. DANO MORAL NÃO CONFIGURADO. VERBA HONORÁRIA ARBITRADA EM 12% SOBRE O VALOR ATUALIZADO DA CAUSA. REDUÇÃO. IMPOSSIBILIDADE. OBEDIÊNCIA AOS LIMITES PREVISTOS NOS §§ 2º E 3º DO ART. 85 DO CPC/2015. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel não enseja por si só o dever de indenizar danos de ordem moral.
+2. O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem significativa e anormal violação a direito da personalidade dos promitentes-compradores (AgInt no AREsp 947.202/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe de 15/03/2018) 3. Quanto aos honorários advocatícios sucumbenciais, a Segunda Seção do Superior Tribunal de Justiça, na sessão do dia 13/03/2019, no julgamento do REsp 1.746.072/PR, firmou jurisprudência no sentido de que: (a) na hipótese de condenação, a verba sucumbencial deve ser fixada entre 10% e 20% sobre o montante da condenação (art. 85, § 2º); (b) não havendo condenação, a verba sucumbencial será também fixada entre 10% e 20%, das seguintes bases de cálculo: (b.1) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (b.2) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); (c) nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+4. Assim, na espécie, correta a decisão agravada que fixou a verba honorária em 12% sobre o valor atualizado da causa.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1774427/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+Considerando que o proveito econômico da presente ação é de R$ 1.872,75 (mil oitocentos e setenta e dois reais e setenta e cinco centavos), valor original, correto o arbitramento dos honorários por equidade, no valor de R$ 1.500,00 (mil e quinhentos reais).
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da recorrida em R$ 500,00 (quinhentos reais).
+Publique-se.
