@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. AGRAVO DO ART. 1.042 DO CPC/2015. INTERPOSIÇÃO CONTRA DECISÃO DENEGATÓRIA PUBLICADA APÓS A VIGÊNCIA DO CPC/2015 E FUNDAMENTADA NA CONFORMIDADE DA DECISÃO RECORRIDA COM RECURSO REPETITIVO. DESCABIMENTO. 2. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 3. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul (e-STJ, fls. 126-134) que, relativamente ao seu recurso especial:
+a) negou-lhe seguimento com base na conformidade do acórdão recorrido com precedente do STJ submetido ao rito dos recursos repetitivos, quanto à manutenção da decisão que extinguiu a ação de exibição de documentos (Tema 648); e
+b) inadmitiu-o com fundamento no seguinte: i) impropriedade da via eleita para análise de ofensa a instrução normativa e à Constituição Federal; ii) ausência de indicação de dispositivo legal, óbice da Súmula 284 do STF; iii) incidência das Súmulas 7 e 83/STJ; e iv) quanto ao dissídio jurisprudencial, não houve realização do cotejo analítico.
+Contrarrazões não apresentadas, conforme certificado à fl. 124 (e-STJ).
+Nas razões do agravo do art. 1.042 do CPC/2015 (e-STJ, fls. 139-159), a agravante alega ter eleito a via correta no que diz respeito ao ajuizamento da ação cautelar de exibição de documentos, bem como que preencheu todos os requisitos elencados no REsp n. 1.349.453/MS.
+Acrescentou que demonstrou ser isenta de qualquer pagamento do custo administrativo, nos termos da Instrução Normativa INSS/PRES n. 28/2008, e que houve violação ao art. 5º, XXXV, da CF.
+Contraminuta não apresentada (e-STJ, fl. 268).
+Brevemente relatado, decido.
+Inicialmente, é incabível a interposição do agravo previsto pelo art. 1.042, caput, do CPC/2015 contra decisão proferida pelo Tribunal de origem que, após a vigência do CPC/2015 (18/3/2016), nega seguimento ao recurso especial com base na conformidade da decisão recorrida com precedente do STJ estabelecido por ocasião do julgamento de recurso repetitivo (v.g. AREsp 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/8/2016, DJe 26/8/2016).
+Desse modo, considerando que a decisão agravada está fundamentada na conformidade da decisão recorrida com teses firmadas em julgamento de recurso submetido ao rito do art. 543-C do CPC/1973, bem como que foi publicada em 22/10/2018 (e-STJ, fl. 134), não é possível o conhecimento do presente agravo quanto ao único tópico impugnado.
+Não obstante, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgRg no Ag 1056913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008; AgInt no AREsp 884.901/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; e AgRg no AREsp 773.710/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016).
+No caso dos autos, a agravante somente combateu dois dos fundamentos da decisão agravada para a inadmissão do recurso especial.
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento), sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade judicial deferida à ora agravante.
+Publique-se.
