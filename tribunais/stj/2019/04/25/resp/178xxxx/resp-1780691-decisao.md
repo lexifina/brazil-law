@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. LEGISLAÇÃO ANTERIOR À LEI 8.213/1991. EXAME DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 270, e-STJ):
+CONSTITUCIONAL E PREVIDENCIÁRIO. CONCESSÃO DE PENSÃO POR MORTE AO CÔNJUGE VARÃO. ÓBITO POSTERIOR À CONSTITUIÇÃO FEDERAL DE 1988 E ANTERIOR À LEI 8.213/91. POSSIBILIDADE. PRINCÍPIO DA ISONOMIA. CORREÇÃO MONETÁRIA E JUROS DE MORA. FASE DE CUMPRIMENTO DE SENTENÇA. DIFERIMENTO.
+1. O art. 201, inciso V, da Constituição Federal de 1988, que equiparou homens e mulheres para efeito de pensão por morte, tem aplicabilidade imediata e independe de fonte de custeio. Orientação do STF.
+2. É possível a concessão, ao cônjuge varão, de pensão por morte de segurada, inclusive a trabalhadora rural, falecida no período entre a promulgação da Constituição Federal e a vigência da Lei 8.213/91.
+3. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 3º e 6º da LC n. 11/1971, 3º e 6º do decreto n. 83.080/1979, sob o argumento de que, por serem a norma regente à época do óbito da esposa do autor, devem prevalecer, garantindo a percepção do benefício de pensão por morte exclusivamente aos dependentes do chefe ou arrimo da unidade familiar.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 330/331.
+É o relatório. Passo a decidir.
+Registre-se, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Destaca-se trecho do acórdão recorrido:
+Assim, diante da disposição constitucional trazida no art. 5º, inciso I, o qual define que "homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição", bem como em face do § 1º do mesmo artigo, que dispõe que "As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata", é imperioso reconhecer que a disposição constante na CLPS/84, no ponto em que exige a condição de inválido para a concessão de pensão por morte ao cônjuge ou companheiro do sexo masculino da segurada urbana é discriminadora e, portanto, restou suprimida pela nova ordem constitucional.
+Desta forma, entendo que o óbito ocorrido após a promulgação da Constituição Federal e antes da Lei nº 8.213/91 deve ser regido unicamente pelo art.
+201, inciso V, da Carta Magna.
+Registro, ainda, o Supremo Tribunal Federal por diversas vezes entendeu que a extensão da pensão ao cônjuge varão dependia, em razão do disposto no § 5º do art. 195 (prévia fonte de custeio), de regulamentação por lei específica, o que somente ocorreu com o advento da Lei nº 8.213/91. Contudo, a partir de 2010 a Corte Suprema reviu seu posicionamento, passando a entender que o art. 201, V, da Constituição tem aplicabilidade imediata e independe de fonte de custeio a ser estabelecida por lei regulamentadora, vez que a extensão do benefício restou prevista diretamente no texto constitucional.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENSÃO POR MORTE AO CÔNJUGE VARÃO. ÓBITO DA SEGURADA ANTERIOR AO ADVENTO DA LEI 8.213/91. PRINCÍPIO DA ISONOMIA. AUTOAPLICABILIDADE DO ART. 201, INCISO, V, DA CONSTITUIÇÃO FEDERAL. 1. Segundo a jurisprudência do Supremo Tribunal Federal, o óbito da segurada em data anterior ao advento da Lei 8.213/91 não afasta o direito à pensão por morte ao seu cônjuge varão, tendo o art. 201, inciso V, da Constituição Federal, que equiparou homens e mulheres para efeito de pensão por morte, aplicabilidade imediata (RE 415.861 AgR, 1ª Turma, Min. Dias Toffoli, Dje de 01/08/12;
+RE 352.744 AgR, 2ª Turma, Min. Joaquim Barbosa, DJe 18/04/11). 2. Agravo regimental a que se nega provimento.
+(RE 493892 AgR, 2ª Turma, relator Teori Zavascki, julgado em 27/08/2013, acórdão eletrônico DJe-178 divulg 10-09-2013 public 11-09-2013) - grifei
+Portanto, na linha do atual entendimento do STF, amplamente adotado neste TRF4, é possível a concessão, ao cônjuge varão, de pensão por morte de segurada, inclusive a trabalhadora rural, falecida no período entre a promulgação da Constituição Federal (05/10/1988) e a vigência da Lei nº 8.213/91 (05/04/1991).
+Dessa forma, compre referir, que a Súmula 340 do STJ ("A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado") deve ser aplicada à luz do disposto na Constituição Federal, ou seja, no que for compatível com a nova ordem estabelecida pela Constituição, expungindo-se do regramento infraconstitucional o que com ela não for compatível.
+A controvérsia relativa à legislação aplicável à hipótese dos autos foi dirimida com fundamento constitucional, especificamente com base no artigo 201, V, da Constituição Federal, de modo que o recurso especial é inviável quanto ao ponto, sob pena de usurpar-se a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
