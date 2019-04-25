@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 3 (três) anos, 7 (sete) meses e 16 (dezesseis) dias de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 17 (dezessete) dias-multa, pela prática da conduta descrita no art. 155, § 4º, IV, por duas vezes, c/c o art. 71, ambos do Código Penal (e-STJ fls. 14/20), tendo em vista que (e-STJ fl. 14):
+ ..  no dia 02 de janeiro de 2017, por volta das 11:00 horas, na Rua Dr. [NOME], nº 154, Itaim Bibi, nesta capital, previamente ajustado e com unidade de desígnios com [NOME], subtraiu para si uma peça de carne tipo fraldinha, avaliada em R$ 49,77 (quarenta e nove reais e setenta e sete centavos), pertencente ao "Minimercado Pão de Açucar".
+ Interposta apelação, os desembargadores da Sexta Câmara Criminal do Tribunal de Justiça, por unanimidade de votos, negaram provimento ao recurso defensivo (e-STJ fls. 41/48).
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente do não reconhecimento da atenuante da confissão espontânea.
+Alega que, mesmo sendo parcial, a confissão que serviu de suporte para a condenação do acusado deverá ser reconhecida quando do cálculo da pena, em observação ao disposto no art. 65, III, d, do Código Penal e na Súmula n. 545 do Superior Tribunal de Justiça.
+Dessa forma, requer, em liminar e definitivamente, a incidência da atenuante referida e a consequente redução da sanção imposta ao paciente (e-STJ fls. 1/9).
+O pedido liminar foi indeferido (e-STJ fls. 54/55).
+Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela concessão em parte da ordem pretendida, no que se refere à compensação da circunstância agravante da reincidência com a atenuante da confissão espontânea (e-STJ fls. 60/65).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, o reconhecimento da confissão espontânea, com a consequente redução da pena imposta ao réu, sob o argumento de que a atenuante foi utilizada como fundamento para sua condenação.
+Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta à certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na hipótese, o Juízo sentenciante assim se manifestou (e-STJ fls. 15/16 e 18):
+Ouvido em juízo, o réu confessou parcialmente a imputação que lhe é feita, admitindo que subtraiu dois bonés de uma banca de jornal, mas que agiu sozinho. Negou, outrossim, que tenha participado do furto de uma peça de carne, praticado exclusivamente por sua companheira [NOME].
+ ..
+Realmente, confessou ao magistrado a autoria do furto daqueles dois bonés e foi preso imediatamente em seguida, logo depois da res já ter sido recuperada pelo proprietário da banca de jornal onde se deram os fatos, o que torna incontroversa a autoria desse primeiro crime, que realmente não se consumou em razão da perseguição imediata e continua do ofendido, impossibilitando a posse tranquila dos bonés pelos agentes.
+Da mesma forma, está comprovada a autoria do furto daquela peça de carne do estabelecimento "Pão de Açucar", não obstante a negativa do denunciado.
+Isso porque o próprio réu admitiu que o furto dessa peça de carne foi praticado por sua companheira [NOME] há trinta anos, com quem admitiu ter ingressado naquela loja do Pão de Açucar e com que havia acabado de subtrair dois bonés.
+ ..
+Na segunda fase, diante da circunstância agravante da reincidência, aumento aquela pena em mais 1/6 (um sexto), elevando-a a 03 (três) anos, 01 (um) mês e 10 (dez) dias de reclusão, e mais 15 (quinze) dias-multa.
+Ressalto que a circunstância atenuante da confissão espontânea não se fará incidir, pois não foi integral, na medida em que negou a prática do furto no mercado "Pão de Açucar", o que se apurou não ser verdade. (Grifei.)
+Decisão que foi mantida pelo Tribunal de Justiça (e-STJ fls. 47/48):
+Por outro lado, registro que, mais uma vez corretamente, a atenuante da confissão espontânea não foi considerada pelo Juiz sentenciante, uma vez que [NOME] admitiu a sua responsabilidade apenas parcialmente, de maneira que isto não poderia, mesmo, repercutir na fixação da reprimenda que lhe foi aplicada. (Grifei.)
+Observa-se, assim, que o réu, de fato, confessou a prática do crime que lhe foi imputado, ainda que de forma parcial, fornecendo dados que corroboraram a condenação.
+Destarte, não há empecilho à aplicação da atenuante prevista no art. 65, III, d, do Código Penal, compensando-a com a agravante da reincidência.
+Nesse sentido:
+PENAL. HABEAS CORPUS  .. . CONFISSÃO ESPONTÂNEA. INCIDÊNCIA. PENA REVISTA. REGIME PRISIONAL SEMIABERTO. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. Nos moldes da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, como no caso em análise.
+5. Ainda que não se possa proceder à compensação entre os maus antecedentes e a atenuante da confissão espontânea, impõe-se reconhecer a incidência da atenuante do art. 65, III, "d", do Código Penal, pois, conforme se infere do acórdão, o réu confessou a prática delitiva.
+ ..
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de estabelecer a pena em 3 anos e 9 meses de reclusão, a ser cumprida em regime prisional semiaberto, mais 13 dias-multa, ficando mantido, no mais, o acórdão condenatório (HC 487.876/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/03/2019, DJe 01/04/2019).
+PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS. PEDIDO RECEBIDO COMO AGRAVO REGIMENTAL. CONCESSÃO DA ORDEM DE HABEAS CORPUS. POSSIBILIDADE DE COMPENSAÇÃO DA CONFISSÃO PARCIAL COM A AGRAVANTE DA REINCIDÊNCIA. JURISPRUDÊNCIA DO STJ. ILEGALIDADE EVIDENCIADA NO PONTO.
+ ..
+2. Nos termos da tranquila jurisprudência do Superior Tribunal de Justiça, se a confissão do réu, ainda que parcial ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante, compensando-se com a reincidência. Precedentes.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento (RCD no HC 465.207/MS, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/02/2019, DJe 11/03/2019).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E EXTORSÃO. CONFISSÃO ESPONTÂNEA. INCIDÊNCIA DA ATENUANTE. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Este Tribunal Superior tem entendimento firmado no enunciado de n. 545 da súmula de sua jurisprudência que, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal", sendo indiferente que a admissão da autoria criminosa seja parcial, seja qualificada, seja acompanhada de alguma causa excludente de ilicitude ou de culpabilidade.
+2. "O Superior Tribunal de Justiça - STJ, no julgamento do REsp n. 1.341.370/MT, sob o rito dos recursos repetitivos (art. 543-C, do Código de Processo Civil), uniformizou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência" (AgRg no HC n. 392.440/SP, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/10/2018, DJe 8/11/2018).
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 583.205/SP, de minha relatoria, SEXTA TURMA, julgado em 06/12/2018, DJe 14/12/2018).
+Passo, portanto, à readequação da pena, a fim de readequá-la, na segunda fase dosimétrica, mantidos os parâmetros adotados pela Corte de origem.
+Na primeira fase, mantenho a pena-base em 1/3 (um terço) acima do mínimo legal, o que perfaz 2 (dois) anos e 8 (oito) meses de reclusão, mais 13 (treze) dias-multa.
+Na segunda etapa, compenso a agravante da reincidência com a atenuante da confissão, ficando inalterada a reprimenda.
+Na fase derradeira, mantenho o aumento no montante de 1/6 (um sexto), com fundamento no art. 71 do Código Penal, diante da prática de dois furtos em continuidade delitiva, o que torna a sanção definitiva em 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão, além do pagamento de 15 (quize) dias-multa.
+Diante do quantum de pena definitivamente aplicada (3 anos, 1 mês e 10 dias de reclusão), caberia a imposição do regime prisional inicialmente aberto. No entanto, tendo em vista que a pena-base foi fixada acima do mínimo legal em razão da presença de maus antecedentes, além da condição de reincidente do réu, não se verifica ilegalidade na manutenção do regime fechado para início de cumprimento da reprimenda.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. REINCIDÊNCIA E MAUS ANTECEDENTES. REGIME FECHADO CABÍVEL. NÃO APLICAÇÃO DA SÚMULA 269/STJ. REFORMATIO IN PEJUS. FIXAÇÃO DO REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou o entendimento de que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+2. No presente caso, verifica-se que o envolvido, condenado a 2 anos e 8 meses por furto qualificado, além de reincidente, teve sua pena-base fixada acima do mínimo legal em razão dos maus antecedentes, o que afastaria a aplicação do enunciado da n. 269 da Súmula desta Corte e justificaria a fixação do regime prisional fechado. Ocorre que, para se evitar a reformatio in pejus, fica mantido e justificado o regime semiaberto estabelecido pela Corte de origem, ponto pugnado pelo recorrente.
+3. Agravo regimental não provido (AgRg no REsp 1789447/RO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/03/2019, DJe 08/04/2019).
+HABEAS CORPUS. ART. 155, §§ 1.º E 4.º, INCISO II, E ART. 155, §§ 1.º E 4.º, INCISO II, C.C. O ART. 14, INCISO II, TODOS DO CÓDIGO PENAL. FURTO.  ..  REGIME INICIAL DE CUMPRIMENTO DE PENA. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA DO ACUSADO. REGIME FECHADO. CABIMENTO. PRECEDENTES.  ..
+ ..
+6. Embora a pena definitiva tenha sido fixada em menos de 4 (quatro) anos, reconheceu-se, além da reincidência, a existência de circunstâncias judiciais desfavoráveis ao Paciente, o que levou à fixação da pena-base acima do mínimo legal. Desse modo, encontra-se justificado o estabelecimento do regime prisional fechado, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+ ..
+8. Ordem de habeas corpus parcialmente concedida para, reformando o acórdão recorrido, afastar a qualificadora do art. 155, § 4.º, inciso II, do Código Penal, restabelecendo-se a sentença (HC 456.927/SC, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe 28/03/2019).
+Ante o exposto, concedo a ordem de habeas corpus a fim de reconhecer a atenuante da confissão, compensá-la com a agravante da reincidência e, assim, tornar a pena definitiva em 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão, além do pagamento de 15 (quize) dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
