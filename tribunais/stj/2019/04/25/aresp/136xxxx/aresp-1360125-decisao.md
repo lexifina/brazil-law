@@ -1,0 +1,29 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE PARTICULARIZAÇÃO DOS DISPOSITIVOS LEGAIS OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA Nº 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. IMPOSSIBILIDADE, SÚMULAS NºS 5, 7 E 211 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+[NOME] e outros (FRANCISCO E OUTROS) ajuizaram ação de cobrança de indenização securitária contra a CAIXA SEGURADORA S.A. (CAIXA).
+O juízo de primeiro grau reconheceu a ilegitimidade ativa da autora LUIZA [NOME]; julgou improcedentes os pedidos em relação ao autor [NOME] e julgou parcialmente procedentes os pedidos formulados pelos demais autores.
+O Tribunal de origem, por sua vez, deu parcial provimento aos recursos de apelação interpostos pelas partes em acórdão assim ementado:
+AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. APELO 01. AUSÊNCIA DE COMPROVAÇÃO DE QUE UM DOS AUTORES É PROPRIETÁRIO DE IMÓVEL FINANCIADO SEGUNDO AS NORMAS DO SISTEMA FINANCEIRO DE HABITAÇÃO. ILEGITIMIDADE ATIVA AD CAUSAM RECONHECIDA. MANUTENÇÃO. ADEQUAÇÃO DO DECISUM NA PARTE QUE JULGA IMPROCEDENTE O PEDIDO DE UM DOS AUTORES QUE COMPROVA A QUALIDADE DE PROPRIETÁRIO DE IMÓVEL, CONTUDO, SEM FINANCIAMENTO CONTRATADO DENTRO DAS NORMAS DO SFH A JUSTIFICAR A PRETENSÃO DE INDENIZAÇÃO SECURITÁRIA. ILEGITIMIDADE ATIVA RECONHECIDA. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO EM RELAÇÃO A ESTE ÚLTIMO (ART. 485, INCISO VI, DO CPC/15). RECURSO PARCIALMENTE PROVIDO. APELO 02. PRECLUSÃO VERIFICADA QUANTO ÀS PRELIMINARES DE COMPETÊNCIA PARA JULGAMENTO DO FEITO, FALTA DE INTERESSE DE AGIR, ILEGITIMIDADE ATIVA E PASSIVA E PRESCRIÇÃO. MATÉRIAS OBJETO DE ANÁLISE PELO DESPACHO SANEADOR E AGRAVO DE INSTRUMENTO. COBERTURA PARA VÍCIOS CONSTRUTIVOS. CLÁUSULA RESTRITIVA NÃO REDIGIDA EM DESTAQUE. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. RISCO DE DESMORONAMENTO NÃO COMPROVADO. IMPROCEDÊNCIA DO PEDIDO EM RELAÇÃO AOS DEMAIS AUTORES. SENTENÇA REFORMADA. RECURSO PARCIALMENTE CONHECIDO E NA PARTE CONHECIDA, PARCIALMENTE PROVIDO (e-STJ, fls. 1.873/1.874).
+Irresignados, FRANCISCO E OUTROS interpuseram recurso especial, fundado nas alíneas a e c do permissivo constitucional, em que apontaram a violação do art. 51, I, IV, XIII e §1º, II, do CDC, sustentando divergência jurisprudencial a propósito dos seguintes temas: 1) legitimidade ativa da autora LUIZA GAZZOLLA; b) a quitação do imóvel não obstaria o direito de pleitear a indenização; e, 3) o direito à cobertura securitária no caso concreto. Além disso, alegaram a abusividade das cláusulas contratuais estipuladas.
+O apelo especial não foi admitido na origem em virtude da incidência das Súmulas nºs 5, 7 do STJ e 284 do STF, esta em virtude da ausência de particularização dos dispositivos legais objeto de interpretação divergente.
+FRANCISCO E OUTROS, então, interpuseram o presente agravo impugnando a incidência dos aludidos óbices.
+Contraminuta apresentada (e-STJ, fls. 2.107/2.131).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De início, verifica-se que FRANCISCO E OUTROS, apesar de apontarem a ocorrência de divergência jurisprudencial, deixaram de particularizar os dispositivos de lei federal a que os acórdãos - recorrido e paradigmas - teriam dado interpretação discrepante, o que consubstancia deficiência bastante a inviabilizar a abertura da instância especial, atraindo a incidência da Súmula nº 284 do STF.
+A propósito, destaca-se o seguinte precedente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BANCÁRIO. FINANCIAMENTO. JUROS REMUNERATÓRIOS. ADEQUAÇÃO À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. COMISSÃO DE PERMANÊNCIA AFASTADA POR FALTA DE PACTUAÇÃO EXPRESSA NO CONTRATO, CONFORME ATESTADO NA CORTE LOCAL. MORA NÃO CARACTERIZADA. INSCRIÇÃO E MANUTENÇÃO NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF, POR ANALOGIA. HONORÁRIOS ADVOCATÍCIOS. VALOR FIXADO POR EQUIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+ ..
+5. Não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+ ..
+7. Agravo não provido.
+(AgRg no REsp nº 1.543.201/SC, de minha relatoria, Terceira Turma, DJe 9/10/2015 -  sem destaques no original)
+Já no tocante à indigitada violação do art. 51 do CDC, o acórdão recorrido não se manifestou acerca de seu conteúdo normativo, atraindo a incidência da Súmula nº 211 do STJ à espécie, sendo certo, ainda, que a concreta verificação da alegada abusividade das cláusulas contratuais estipuladas esbarraria nos rigores contidos nas Súmulas nºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em R$ 1.000,00 os honorários advocatícios fixados em desfavor de FRANCISCO E OUTROS, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se, ainda, que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts.1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+
+Publique-se. Intimem-se.
