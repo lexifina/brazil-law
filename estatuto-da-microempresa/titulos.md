@@ -68,7 +68,7 @@ DO ESTÍMULO À INOVAÇÃO
 Seção I
 Disposições Gerais
 Seção II
-Do Apoio à Inovação
+Do Apoio à Inovação e do Inova Simples da Empresa Simples de Inovação
 Seção III
 Do Apoio à Certificação
 CAPÍTULO XI
