@@ -1,0 +1,35 @@
+Decisão: A Quinta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento a agravo em execução, por meio de acórdão (eDOC 5, p. 38-45) assim ementado
+    “AGRAVO. INTERDIÇÃO PARCIAL DA PMEO. LIMITAÇÃO EM 1.545 PRESOS NO REGIME FECHADO, EQUIVALENTE A 237% DA CAPACIDADE DE ENGENHARIA. PLEITO DE REDUÇÃO PARA 137,5% DO TOTAL DE VAGAS. IMPOSSIBILIDADE PRÁTICA. DECISÃO MANTIDA.
+    1. A Defensoria Pública insurge-se contra a decisão que além de determinar a interdição parcial da PMEO, limitou em 1.545 presos o número total de recolhidos no regime fechado (237% da capacidade), pleiteando a redução do limite de ocupação para 137,5% do total de vagas existentes.
+    2. Todavia, a decisão foi amplamente fundamentada e considerou todo o contexto da estrutura penitenciária do Estado, concluindo por manter o atual contingente carcerário (1.545 presos ou 237% da capacidade), condicionando a entrada de novos presos à saída de outros, observada a limitação imposta.
+    3. O Poder Judiciário, embora sequer seja sua obrigação, tem agido da forma como lhe é possível para minimizar os danos e riscos da superlotação carcerária, adotando as medidas que estão ao seu alcance.
+    4. O pleito da Defensoria Pública, no sentido de reduzir a população carcerária da PMEO a 137,5% da capacidade de engenharia é louvável, porém inviável de ser acolhido por total impossibilidade de colocá-lo em prática.
+    5. A medida adotada pelo Juízo a quo é a que mais se amolda à realidade atual, não se vislumbrando, por ora, outra solução, motivo pelo qual vai mantida a decisão agravada.
+    AGRAVO IMPROVIDO. ” (eDOC 5, p. 38)
+    Daí os recursos especial e extraordinário (eDOC 5, p. 53-79; 81-95; eDOC 6, p. 1-14).
+    No RE, fundado no art. 102, III, “a”, da Constituição Federal, alegou-se ofensa aos arts. 1º, III; e 5º, III; XLVII, “e”; e XLIX; da Constituição Federal, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    A Segunda Vice-Presidente do TJ/RS não admitiu os recursos especial e extraordinário (eDOC 6, p. 36-45).
+    Houve, então, a interposição do presente ARE (eDOC 6, p. 59-65) e AREsp (eDOC 6, p. 51-57).
+    O relator, no STJ, conheceu do agravo para negar provimento ao recurso especial (ARESp 1.275.273/RS; eDOC 6, p. 101-105), mediante decisão transitada em julgado aos 26.6.2018 (eDOC 6, p. 112).
+    O Ministério Público Federal opinou pelo desprovimento do recurso (eDOC 9, p. 1-4).
+    É o relatório.
+    Decido.
+    A presente irresignação recursal, apesar de relevante, não merece prosperar nesta via do recurso extraordinário, porquanto, consoante asseverado na decisão ora agravada, “os dispositivos constitucionais invocados não foram ventilados no acórdão e nem foram opostos embargos de declaração, o que atrai a aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal” (eDOC 6, p. 44).
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    Por oportuno, assevere-se o contido na ementa do parecer do MPF:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO PENAL. SUPERLOTAÇÃO CARCERÁRIA. ALEGADA VIOLAÇÃO AOS ARTS. 1º, III, 5º, III, XLVII E XLIX, DA CF/88. FALTA DE PREQUESTIONAMENTO. ACÓRDÃO QUE ABORDA A DISCUSSÃO SOB O ASPECTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. PARECER PELO DESPROVIMENTO DO RECURSO.” (eDOC 9, p. 1; grifos originais)
+    Nessa manifestação do MPF, saliente-se o seguinte:
+    “4. A decisão agravada não merece reparos, porquanto negou seguimento ao recurso de forma fundamentada, por inobservância a pressuposto específico de admissibilidade (prequestionamento), em consonância com a jurisprudência desse Supremo Tribunal Federal.
+    5. De fato, a violação aos arts. 1º, III, 5º, III, XLVII e XLIX, da CF/88 não foi suscitada em sede de agravo em execução e a matéria constitucional correlata não foi abordada pelo acórdão recorrido, afastando a incidência da tese de ‘prequestionamento implícito’. Sequer foi provocada a manifestação da Corte Estadual sobre referidos dispositivos constitucionais, por meio de embargos declaratórios, em observância aos enunciados das Súmulas 282 e 356/STF.
+    6. Não fosse esse o óbice à admissibilidade recursal, verifica-se, ainda, que a Corte Estadual apreciou as razões do agravo em execução sob o aspecto fático-probatório (…)
+    7. O voto condutor do referido julgado registrou, expressamente, que ‘a limitação operada deve ser analisada dentro do contexto fático vigente por ocasião da interdição’ (fl. 371) e acolheu a manifestação ministerial no sentido de que, ‘embora a Penitenciária Modulada Estadual de Osório não se revista de todas condições previstas nos arts. 87 e 88 da LEP para o cumprimento do regime fechado, considerando a situação vivenciada pelos presídios de uma forma geral, é possível ali seguir cumprindo a pena’ (fl. 373), deixando evidente que, para se chegar a conclusão em sentido contrário, seria necessária a reapreciação do conjunto fático-probatório, o que faz incidir o óbice da Súmula 279/STF.” (eDOC 9, p. 2-4)
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RI/STF). Tendo em vista a relevância da matéria, remeta-se cópia desta decisão à Presidência do Conselho Nacional de Justiça para conhecimento.
+    Publique-se.
+    Brasília, 25 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
