@@ -1,0 +1,5 @@
+DECISÃO
+Em razão da concordância das partes com os cálculos apresentados pela Contadoria Judicial desta Corte, expeçam-se as requisições de pagamento, acrescidos dos consectários legais, relativamente aos substituídos que se encontrarem em situação regular, com destaque dos honorários, se for o caso.
+Entretanto, especificamente quanto à correção monetária, diante da decisão proferida pelo STF, no do RE n. 870.947/SE, que determinou o sobrestamento na aplicação do índice IPCA-e, há que se observar o referido decisum especificamente quanto a esse aspecto. É importante pontuar que esse sobrestamento, por se relacionar apenas ao índice de correção, não interfere no imediato cumprimento da execução.
+Assim, deverão ficar bloqueados apenas os valores referentes à diferença entre os índices de correção monetária adotados antes do julgamento do RE n. 870.947/SE e aquele firmado em repetitivo por esta Corte, isto é, a diferença entre os índices da TR e do IPCA-e, os quais deverão permanecer em conta vinculada até que se julgue, em definitivo, o tema pelo STF. Após o julgamento, se for o caso, o exequente poderá levantá-los.
+Publique-se e cumpra-se.
