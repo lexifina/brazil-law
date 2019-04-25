@@ -1,0 +1,40 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO E FORMAÇÃO DE QUADRILHA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por MAURICIO SOUSA RAMOS contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo Tribunal de Justiça do Estado da Bahia.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 15 (quinze) anos de reclusão, em regime fechado, pela prática dos crimes descritos nos artigos 121, § 2º, incs. I e IV c/c art. 288, na forma do art. 69, todos do Código Penal Brasileiro (fls. 739-743).
+O Tribunal de origem negou provimento à apelação defensiva, em acórdão ementado verbis (fls. 791-792):
+"PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. DELITO PREVISTO NO ARTIGO 121, § 2º, I e IV C/C O ARTIGO 288, NA FORMA DO ARTIGO 69, TODOS DO CÓDIGO PENAL BRASILEIRO (HOMICÍDIO QUALIFICADO E FORMAÇÃO DE BANDO OU QUADRILHA). APELANTE CONDENADO À REPRIMENDA DE 15 (QUINZE) ANOS DE RECLUSÃO, EM REGIME INICIAL FECHADO. PLEITO PELA APLICAÇÃO DA PENA BASE NO MÍNIMO LEGAL QUANTO AO CRIME DE HOMICÍDIO QUALIFICADO. INACOLHIDA. DOSIMETRIA ADEQUADA., NÃO MERECENDO QUALQUER REPARO.
+RECURSO CONHECIDO E NÃO PROVIDO."
+Os embargos de declaração opostos foram rejeitados (fls. 820-826).
+Sobreveio recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se sustentou violação (fl. 836):
+"Art. 93, inciso IX, da Constituição Federal: pertinente à necessária fundamentação da decisão judicial.
+Art. 59 do Código Penal: no que tange à dosimetria da pena utilizada pelo magistrado de piso, bem como a análise da culpabilidade do Recorrente.
+Art. 68 do Código Penal: referente às fases da dosimetria da pena, em especial a pena base.
+Art. 519 e 520 do Código Penal: no que diz respeito à finalidade dos embargos de declaração, contra obscuridade, omissão e contradição da decisão."
+Pleiteou-se, em síntese, o redimensionamento da pena base ao patamar mínimo legal (fl. 842).
+Apresentadas as contrarrazões (fls. 850-859), o Tribunal de origem inadmitiu o apelo nobre, com fundamento na Súmula 284/STF, por deficiência de fundamentação e na Súmula 7/STJ, porquanto a análise do acórdão recorrido, implicaria em revolvimento de matéria fático-probatória (fls. 861-862).
+No presente agravo, repisam-se os fundamentos apresentados em sede de recurso especial, acentuando, ainda, a desnecessidade de reexame de provas na medida que " ..  o que se trata de per si é mera aferição da ocorrência de fato incontroverso, que se consubstancia na equivocada valoração das provas dos autos."(fl. 871).
+A parte agravante aduz, ainda, a não incidência da Súmula 284 do STF, " .. sendo inadmissível sua aplicabilidade por inexistência de deficiência de fundamentação." Alega que " ..  as razões são colocadas de maneira compreensiva, além de atacar os fundamentos da decisão recorrida e demonstrar a violação de lei federal, bem como, quando fundamenta, nas fls. 768/770 dos autos, o motivo pelo qual a decisão recorrida merece reforma, qual seja, a deficiência da fundamentação quanto às circunstâncias judiciais elencadas no art. 59 do Código Penal e impostas negativamente ao acusado, contrariando, inclusive, o art. 93, inciso IX, da CF/88, posto que ausente de fundamentação idônea a decisão que majorou a pena base imposta ao acusado" (fl. 873).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo, ou, acaso conhecido, pelo não conhecimento do recurso especial. Recomendou, ainda, prioridade de julgamento, considerando que os fatos remontam ao ano de 2006 e o caso trata de condenado preso (fls. 907-913).
+ O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmulas 7/STJ e 284/STF.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Outrossim, o agravante, em uma breve explanação, apenas limitou-se a dizer que a fundamentação apresentada no recurso especial era clara e válida, e por isso afastaria a incidência da Súmula 284/STF.
+Não basta deduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - Não compete a este Superior Tribunal o exame das supostas violações a dispositivos da Constituição da República ou a verificação de sua eventual inconstitucionalidade, ainda que para fins de prequestionamento, por estarem restritas à análise do Pretório Supremo Tribunal Federal, por expressa previsão constitucional.
+II - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula n. 7/STJ.
+III - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido. (AgRg no AREsp 1356519/MG, Quinta Turma, de minha relatoria, DJe 01/04/2019, grifei)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
