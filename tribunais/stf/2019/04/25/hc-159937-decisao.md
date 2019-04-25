@@ -1,0 +1,36 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Adriana Aparecida da Silva, em favor de Ademilson Miranda, contra decisão proferida pela Presidência do STJ, que não conheceu do Agravo em Recurso Especial 1.258.684/PR.
+    Consta dos autos que o paciente foi denunciado, em 14.6.2016, pela suposta prática dos crimes previstos nos artigos 33, caput, da Lei 11.343/06; art. 16, caput, da Lei 10.826/2003; e art. 180, caput, do Código Penal. (eDOC 4, p. 3)
+    Narra a denúncia que, em 6.5.2016, policiais, em cumprimento de mandado de busca e apreensão, apreenderam 12 buchas de cocaína, no interior da residência do paciente, com peso total de 57g, além de uma pistola de calibre 380 da marca Taurus, número de série KHR48868, com dois carregadores; treze munições intactas de calibre 9 mm.; treze munições intactas de calibre .38; 30 munições intactas de calibre .380; e uma carabina de calibre 38, da marca Amadeo Rossi, número de série B038233. (eDOC 4, p. 1-3)
+    Encerrada a instrução, foi proferida sentença, por meio da qual o paciente foi condenado apenas pela prática do delito previsto no art. 16, caput, da Lei 10.826/03, à pena de 3 anos e 6 meses de reclusão, além de 16 dias-multa. (eDOC 4, p. 66)
+    Irresignada, a acusação interpôs apelação, a fim de obter a condenação por todos os crimes elencados na denúncia.
+    O Tribunal, então, deu-lhe provimento. (eDOC 5, p. 84)
+    Inconformada, a defesa interpôs recurso especial, inadmitido na origem.
+    Oposto o agravo em recurso especial, a presidência do STJ dele não conheceu. (eDOC 6)
+    Nesta Corte, a defesa requer, em suma, o restabelecimento da sentença, porquanto, no seu entendimento, não restou comprovada a prática dos demais crimes.
+    A Procuradoria-Geral da República opinou pela denegação da ordem. (eDOC 11)
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental. No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque, o TJ/PR, com base no acervo fático-probatório constante dos autos, consignou que estariam suficientemente comprovadas a autoria e a materialidade delitivas aptos a justificar as condenações.
+    A esse propósito, cito o seguinte trecho do acórdão recorrido:
+    “Pois bem. Extrai-se do interrogatório do acusado e dos depoimentos dos informantes que o réu é mero usuário de drogas. Contudo, tem-se que a negativa de autoria do crime de tráfico de drogas encontra-se dissociada dos demais elementos de prova, devendo ser considerada como mero ato de defesa pessoal, com o intuito único de se desvencilhar de eventual reprimenda penal.
+    De outro vértice, porém, da análise dos depoimentos das testemunhas prestados em juízo, constata-se que restou suficientemente demonstrada a conduta delitiva perpetrada pelo denunciado, não havendo que se falar em falta de provas para a condenação.
+    (…)
+    Finalmente, a testemunha JUSELI ZUCCO, policial civil, em juízo, narrou que “as investigações começaram após uma denúncia anônima dando conta que o apelado estava embalando drogas; as informações davam conta que o recorrido não vendia entorpecente para usuário, mas sim embalava a droga para a distribuição em postos de combustíveis; por duas ou três vezes fizeram campanas nas proximidades da casa do apelado, ocasião em que avistaram pessoas entrando na residência e saíram rapidamente, de moto ou carro; que resolveram pedir um mandado de busca e apreensão; que os vizinhos não quiseram falar nada a respeito da situação, pois aparentavam ter medo do apelado; que disseram que as vezes o acusado pegava sua arma e dava tiros na via pública; obtiveram o deferimento de mandado de busca e apreensão e se deslocaram até a residência do recorrido; em buscas em um dos quartos localizaram uma carabina de calibre 38, a qual havia sido furtada de um policial federal e estava escondida atrás do guarda-roupas; no quarto do réu localizaram uma pistola .380 municiada e, na sala, uma certa quantidade de “cocaína”, na residência se encontravam o apelado, sua esposa e filho, sendo esta uma criança, ainda no local foram encontrados R$ 2.000,00 (dois mil reais em espécie), bem como um veículo VW/golf, uma motocicleta grande e vários aparelhos celulares; (…). que o apelado embalava drogas para revenda em postos de gasolina; chegou a checar as informações e, em conversas com motoristas de caminhão, estes informaram que adquiriram drogas do apelado, mas tais pessoas não quiseram formalizar tais relatos em depoimento escrito.
+    (…)
+    Do crime de receptação
+    A existência do crime, também denominada materialidade delitiva, é a certeza da ocorrência de uma infração penal, a qual, na particularidade do caso, resta evidenciada através do auto de prisão em flagrante delito (fls. 5/7), auto de exibição e apreensão /9fls 16/149), boletim de ocorrência e pelos depoimentos prestados perante a autoridade policial e durante a instrução processual.
+    O tocante a autoria delitiva, esta também é certa e recai sobre a pessoa do apelado.
+    Os policiais civis ouvidos em juízo afirmaram que, realizadas as buscas na residência do réu, a fim de constatar a procedência de uma denúncia de tráfico, localizaram, além de uma pistola calibre 38, uma carabina calibre 38 que, na sequência dos fatos, vieram a saber que se tratava de objeto de furto.
+    Neste sentido, a vítima do referido furto, o policial federal FABRICIO DARIM, ao ser ouvido sob o crivo do contraditório, relatou que teve uma carabina furtada de sua residência. Disse que acompanhou o noticiário e ficou sabendo que os policiais civis tinham recuperado uma carabina, foi até a delegacia e fez o reconhecimento, sendo restituída”. (eDOC 5, p. 55-65)
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer deste habeas corpus.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se. Int..
+    Brasília, 25 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
