@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EX-EMPREGADO CELETISTA. TRANSPOSIÇÃO PARA O RJU. NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Conforme extrai-se do aresto recorrido, o Tribunal entendeu que, "mesmo se fosse possível a transposição de regime, a ele não deveria fazer jus o autor, visto que o contrato de trabalho expirara, por despedida, anteriormente à vigência da Lei 8.112/90" (fl. 830), bem como que "o caso do autor não se subsume ao invocado, uma vez que HAVIA SIDO DEMITIDO, POR JUSTA CAUSA, EM 13/03/1989, e a Lei data de 11/12/1990. Portanto, o autor já não era mais empregado público quando do advento da lei que transformou os empregos públicos em cargos" (fl. 881).
+3. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME], desafiando decisão de fls. 983/987, que conheceu em parte e, na parte conhecida, negou provimento ao recurso especial, com base nos seguintes fundamentos: (I) ausência de negativa de prestação jurisdicional; (II) incidência da Súmula 7/STJ; e (III) o dissídio jurisprudencial restou prejudicado.
+Em suas razões, a parte agravante reitera a negativa de prestação jurisdicional, em especial, quanto à assertiva de que, "se a sentença transitada em julgado na ação trabalhista afirmou que "o contrato teria prosseguido até a troca de regime", há evidente contradição com a premissa que o Autor teria sido "demitido em 13.03.1989 por justa causa"" (fl. 1.000).
+Sustenta que "o fato de, no tema de fundo, a r. decisão agravada haver atraído a incidência da Súmula nº 7/STJ já evidencia que o recurso especial deveria ter sido conhecido e provido pela preliminar de negativa de jurisdição. Isso porque a impossibilidade de reexame de fatos e provas impunha ao Eg. Tribunal de origem o dever de elucidar o cenário fático de maneira clara e exaustiva, sob pena de cercear o acesso à instância extraordinária" (fl. 1.002).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EX-EMPREGADO CELETISTA. TRANSPOSIÇÃO PARA O RJU. NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Conforme extrai-se do aresto recorrido, o Tribunal entendeu que, "mesmo se fosse possível a transposição de regime, a ele não deveria fazer jus o autor, visto que o contrato de trabalho expirara, por despedida, anteriormente à vigência da Lei 8.112/90" (fl. 830), bem como que "o caso do autor não se subsume ao invocado, uma vez que HAVIA SIDO DEMITIDO, POR JUSTA CAUSA, EM 13/03/1989, e a Lei data de 11/12/1990. Portanto, o autor já não era mais empregado público quando do advento da lei que transformou os empregos públicos em cargos" (fl. 881).
+3. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls. 829/830), integrada em sede de embargos declaratórios (fls. 881), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Conforme extrai-se do aresto recorrido, o Tribunal entendeu que, "mesmo se fosse possível a transposição de regime, a ele não deveria fazer jus o autor, visto que o contrato de trabalho expirara, por despedida, anteriormente à vigência da Lei 8.112/90" (fl. 830), bem como que "o caso do autor não se subsume ao invocado, uma vez que HAVIA SIDO DEMITIDO, POR JUSTA CAUSA, EM 13/03/1989, e a Lei data de 11/12/1990. Portanto, o autor já não era mais empregado público quando do advento da lei que transformou os empregos públicos em cargos" (fl. 881).
+Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam, para a parte, significativos, mas que, para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
