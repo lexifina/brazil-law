@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO(S). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, o recurso especial foi inadmitido ao fundamento de que: a) "ressente-se, o presente recurso, do necessário prequestionamento e, sendo assim, dá-se a incidência do óbice previsto pela Súmula 282 do STF"; b) "as questões suscitadas implicam revolvimento do conjunto probatório, vedado em sede de recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial"; e c) "resta prejudicado o exame de sua viabilidade à luz do disposto na alínea "c" do no III do art. 105 da CF. É firme nesse ponto a jurisprudência do Superior Tribunal de Justiça, para a qual "fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional".
+Ocorre que o agravante não impugnou, especificamente, os fundamentos "b" e "c" acima expostos, haja vista não ter trazido na presente insurgência qualquer argumento concernente à desnecessidade do reeexame fático-probatório para o deslinde da controvérsia e a prejudicialidade da divergência jurisprudencial , o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
