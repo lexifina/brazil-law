@@ -1,0 +1,12 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO NO DECISUM QUANTO AOS ÔNUS SUCUMBENCIAIS. EMBARGOS DE INTERLAKES EMPREENDIMENTOS IMOBILIÁRIOS LTDA., INTERLAGOS EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. E CAMARGO CORREA DESENVOLVIMENTO IMOBILIÁRIO S.A. ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+DECISÃO
+Trata-se de embargos de declaração opostos por INTERLAKES EMPREENDIMENTOS IMOBILIÁRIOS LTDA, INTERLAGOS EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. e CAMARGO CORREA DESENVOLVIMENTO IMOBILIÁRIO S.A. à decisão monocrática desta relatoria que deu parcial provimento ao recurso especial de fls. 635-643 (e-STJ), nos termos da seguinte ementa (e-STJ, fl. 635):
+RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. VÍCIO DE JULGAMENTO EXTRA PETITA NÃO CONFIGURADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. DISSÍDIO PREJUDICADO. LUCROS CESSANTES. POSSIBILIDADE. PREJUÍZO PRESUMIDO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE. SÚMULA 83/STJ. DANO MORAL FIXADO APENAS PELO ATRASO NA ENTREGA DE IMÓVEL. MERO DESCUMPRIMENTO CONTRATUAL. AUSÊNCIA DE OUTROS ELEMENTOS A ENSEJAREM A ALUDIDA CONDENAÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Em suas razões, as embargantes sustentam a ocorrência de omissão em relação aos honorários sucumbenciais, considerando o afastamento da condenação por danos morais.
+Sem impugnação, conforme certidão à fl. 671 (e-STJ).
+Brevemente relatado, decido.
+De fato, a decisão embargada não se manifestou acerca da redistribuição dos ônus sucumbenciais, impondo-se, assim, a complementação do decisum.
+Com efeito, não obstante o parcial provimento do apelo especial a fim de afastar a condenação das empresas requeridas (INTERLAKES EMPREENDIMENTOS IMOBILIÁRIOS LTDA., INTERLAGOS EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. e CAMARGO CORREA DESENVOLVIMENTO IMOBILIÁRIO S.A.) ao pagamento de indenização por danos morais, entendo que a verba honorária arbitrada na origem bem como as custas processuais devem ser mantidas, diante da sucumbência mínima dos recorridos.
+Diante do exposto, acolho os embargos de declaração de INTERLAKES EMPREENDIMENTOS IMOBILIÁRIOS LTDA., INTERLAGOS EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. e CAMARGO CORREA DESENVOLVIMENTO IMOBILIÁRIO S.A., nos termos da fundamentação, sem efeitos infringentes.
+Publique-se.
