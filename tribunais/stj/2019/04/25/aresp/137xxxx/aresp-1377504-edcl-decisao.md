@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUARIA - INFRAERO à decisão de fls. 1121/1122, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ao Ser intimada para recolher o preparo, a INFRAERO logo tratou de atender a ordem, recolhendo o valor do preparo em dobro, conforme demonstra a guia de recolhimento.
+Ocorre que no afã de sanar o vício, ao protocolar a petição de juntada acompanhada da guia de recolhimento e do respectivo comprovante de pagamento, desconhecendo a razão, provavelmente por alguma inconsistência momentânea do sistema de peticionamento eletrônico, a 2ª folha juntada pela INFRAERO que recebeu a numeração e-STJ Fl.1115 que corresponde justamente a guia de recolhimento ficou toda em branco.
+A Embargante tem ciência de que a exatidão das informações transmitidas é da exclusiva responsabilidade do peticionário (Art. 12 da Resolução STJ//GP N. 10 de 6 de outubro de 2015), contudo não pode ser prejudicada por uma falha técnica ocorrida no sistema (fls. 1126/1127).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+Cumpre ressaltar que, enviados os autos à Coordenadoria de Atendimento e Protocolo Judicial deste Tribunal para verificar problemas de indisponibilidade no sistema (fl. 1164), retornaram com certidão confirmando a ausência de indisponibilidade e inconsistência no sistema de recebimento de petições eletrônicas (fl. 1171).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer apenas o comprovante de pagamento em dobro, desacompanhado da respectiva guia de recolhimento. Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Ainda, no caso dos autos, existe uma certidão que atesta o contrário do alegado pela parte. Conforme certificado à fl. 1171, não consta documento que comprove a indisponibilidade no sistema de recebimento de petições eletrônicas. Portanto, trata-se de falha imputada à própria parte, e não ao Poder Judiciário.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
