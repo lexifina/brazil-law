@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE VENCIMENTOS. EXCEÇÃO À REGRA. PRECEDENTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por SESC-SERVIÇO SOCIAL DO COMÉRCIO-ADMINISTRAÇÃO REGIONAL DO DF, com base no art. 105, III, c, da Constituição Federal.
+Compulsando os autos, verifica-se que o agravante interpôs agravo de instrumento contra decisão do Juízo de primeiro grau (e-STJ, fls. 5-13), tendo o Tribunal de origem decidido, por unanimidade, negar-lhe provimento, em acórdão assim ementado (e-STJ, fl. 52):
+AGRAVO DE INSTRUMENTO. PENHORA DE 30% (TRINTA POR CENTO) DO VALOR DOS PROVENTOS DE APOSENTADORIA DO DEVEDOR. IMPOSSIBILIDADE. ART. 833, INC. IV E § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+1. O artigo 833, inc. IV, do CPC, estabelece a impenhorabilidade dos vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios, ou mesmo das quantias recebidas por liberalidade de terceiro, destinadas ao sustento do devedor e sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal.
+2. A penhora pode ser procedida somente no caso de existência de valores que ultrapassem o montante de 50 (cinquenta) salários mínimos mensais, nos termos do art. 833, § 2º, do CPC.
+3. Recurso conhecido e desprovido.
+Nas razões do recurso especial, fundado no art. 105, III, c, da Constituição Federal, o recorrente alegou existência de dissídio jurisprudencial, defendendo a possibilidade de penhora de até 30% (trinta por cento) do salário do ora recorrido (e-STJ, fls. 65-75)
+Contrarrazões não apresentadas (e-STJ, fl. 109).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da Súmula n. 284/STF.
+Foi interposto agravo em recurso especial às fls. 115-129 (e-STJ), porém, não foi oferecida a contraminuta, conforme certificado à fl. 146 (e-STJ).
+Brevemente relatado, decido.
+A Corte local, ao julgar o recurso de agravo de instrumento, confirmou a decisão do juiz de primeiro grau, afirmando ser impenhorável o salário, nos termos do art. 833, IV, do CPC/2015.
+Veja-se (e-STJ, fls. 54-58):
+A presente controvérsia restringe-se à pretensão da agravante na reforma da decisão que indeferiu o requerimento de penhora mensal de 30% (trinta por cento) do valor da aposentadoria do agravado, até o limite do débito constituído.
+Em relação à possibilidade de bloqueio judicial de ativos de natureza alimentar, é necessário dar destaque a alguns pontos relevantes.
+É certo que a penhora de numerário constante de conta corrente revela-se o meio mais eficaz na busca pela satisfação do crédito pretendido, em especial quando o credor encontra grande dificuldade em obter a quitação do débito por outras vias.
+Foi com esse intuito que a jurisprudência majoritária dos Tribunais pátrios passou a interpretar o disposto no art. 649, inc. IV, do CPC/1973, de forma a admitir a penhora dos valores localizados em conta bancária de titularidade do devedor, desde que limitado a 30% (trinta por cento) do saldo verificado, percentual esse que foi posteriormente adotado como padrão.
+Assim, nas peculiaridades dos casos concretos, nem sempre as decisões proferidas observavam a origem dos valores depositados nas mencionadas contas, resultando, muitas vezes, na constrição de montantes que têm natureza salarial.
+Diante desse quadro, o Colendo Superior Tribunal de Justiça, por ocasião do exame do Recurso Especial nº 1.184.765/PA 1 , submetido ao rito dos recursos repetitivos, reconheceu que "a penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006)", que estabeleceu como absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal".
+Desse modo, verifica-se que ao limitar o alcance do bloqueio dos valores depositados na conta bancária de titularidade do devedor, a Colenda Corte Superior acabou por sedimentar seu entendimento no sentido de serem absolutamente impenhoráveis as quantias advindas de pagamento de salário, subsídios, vencimentos ou proventos.
+Aliás, convém observar o Código de Processo Civil, vigente a partir de 18 de março de 2015, ao tratar da matéria, acrescentou nova exceção à impenhorabilidade das mencionadas verbas, nos seguintes termos:
+..
+Assim, é permitida a penhora de valores auferidos por intermédio de salários, remunerações e aposentadorias, mas apenas na parte que ultrapassar 50 (cinquenta) salários-mínimos mensais, de modo a evitar que devedores dotados de rendimentos elevados sejam blindados da constrição, em prejuízo às prerrogativas de crédito do credor.
+Portanto, deve ser mantida a decisão que indeferiu a penhora do valor correspondente a 30% (trinta por cento) do montante dos proventos de aposentadoria auferidos pelo agravado.
+..
+Pelas razões expostas, observa-se que a decisão proferida pelo Juízo da 11ª Vara Cível de Brasília-DF se amolda ao comando normativo contido no art. 833, inc. IV, do Código de Processo Civil, inexistindo razões para a pretendida reforma.
+Diante do exposto, nego provimento ao recurso.
+É como voto.
+Ocorre que o acórdão recorrido está em dissonância à jurisprudência deste Superior Tribunal. Isso porque decidiu a Corte especial pela possibilidade de penhora de parte dos vencimentos do devedor, desde que não seja capaz de atingir a dignidade ou a subsistência do devedor e de sua família.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.
+(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018)
+Todavia, faz-se necessária a análise, em cada caso concreto, das circunstâncias pessoais do devedor, para que se possa decidir, de maneira fundamentada, sobre a possibilidade ou não de flexibilização da regra de impenhorabilidade dos vencimentos. Essa avaliação, em princípio, deve ser feita pelo Juízo de primeiro grau, dada sua maior proximidade com os fatos da causa, notadamente, se entender o magistrado pela necessidade da abertura de procedimento instrutório, que o possa auxiliar na tomada de decisão.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos ao Juízo a quo, que deverá proceder a novo exame do pedido, consoante a jurisprudência firmada pela Corte Especial deste Superior Tribunal de Justiça.
+Publique-se.
