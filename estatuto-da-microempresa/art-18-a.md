@@ -15,6 +15,7 @@ VI - sem prejuízo do disposto nos §§ 1º a 3º do art. 13, o MEI terá isenç
 I - cuja atividade seja tributada na forma dos Anexos V ou VI desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo CGSN;
 II - que possua mais de um estabelecimento;
 III - que participe de outra empresa como titular, sócio ou administrador; ou
+V - constituído na forma de startup.
 § 4º-A. Observadas as demais condições deste artigo, poderá optar pela sistemática de recolhimento prevista no caput o empresário individual que exerça atividade de comercialização e processamento de produtos de natureza extrativista.
 § 4º-B. O CGSN determinará as atividades autorizadas a optar pela sistemática de recolhimento de que trata este artigo, de forma a evitar a fragilização das relações de trabalho, bem como sobre a incidência do ICMS e do ISS.
 § 5º A opção de que trata o caput deste artigo dar-se-á na forma a ser estabelecida em ato do Comitê Gestor, observando-se que:
