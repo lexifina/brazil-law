@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. SOCIEDADE EMPRESÁRIA. DISTRIBUIÇÃO DE DIVIDENDOS. VALORES ENTREGUES À EX-COMPANHEIRA. MANDATO TÁCITO. REEXAME. SÚMULA N. 7/ST. NÃO PROVIMENTO.
+1. Não é omisso o acórdão que examina todas as questões que lhe foram propostas, embora em sentido contrário ao pretendido pela parte.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi e Raul Araújo votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por [NOME] em face de decisão que negou provimento a agravo.
+Afirma que é "preciso que se indiquem claramente as justificativas que possam eventualmente sustentar a incidência das súmulas 7 e 283, não sendo suficiente, a toda evidência, a mera transcrição do acórdão recorrido. O mesmo vale para a rejeição pura e simples das questões relativas à omissão e falta de fundamentação do julgado local, não bastando, por óbvio, reproduzir frases que, todos os dias, são inseridas em decisões denegatórias de especiais, sem que seja, efetivamente, analisada a questão apresentada no específico caso concreto" (e-STJ, fls. 1.864/1.865).
+Reitera, assim, omissão do acórdão local sob o argumento de que " não foi permitido ao ora agravante saber por qual razão foram acolhidas as conclusões sugeridas pela ré se dos mesmos fatos poderia haver conclusão diversa, no sentido apontado e comprovado pelo autor. Tal questão, indissociavelmente atrelada ao objeto do apelo, foi reiterada nos embargos declaratórios, que foram indevidamente desacolhidos" (e-STJ, fls. 1.868/1.869).
+Sustenta que, "além de valorar erroneamente a prova dos autos, limitou-se a fazer afirmações a partir de presunções e suposições (para a suposta existência - forçada - de um mandato tácito), sem, contudo, fundamentar porque desacolheu as demais provas ou porque sequer as valorou" (e-STJ, fl. 1.870).
+Defende que o Tribunal local se baseou em "ilações e inferências e os mesmos não são considerados como evidência de que a relação entre o autor e sua então companheira e também destes perante a ré era toda ela formalizada por escrito, de modo que o indigitado mandato tácito surge de forma disfônica, sem nenhuma coerência com todo restante da relação entre as partes" (e-STJ, fl. 1.872).
+Alega, por fim, que não incidem as disposições dos enunciados n. 7 da Súmula desta Corte e 283 do Supremo Tribunal Federal, isso porque apontou, no especial, "a violação aos artigos 371 e 1.047, do CPC e art. 401, do CPC/73 justamente como impugnação à conclusão do aresto hostilizado à alegada caracterização de mandato tácito" (e-STJ, fl. 1.873) e que, quanto "à alegação de incidência da Súmula 7 (STJ), cumpre consignar o entendimento do agravante no sentido de que o recurso especial impõe à Corte que o deva julgar, o exame de toda a causa, com todos os elementos informativos contidos nos autos.
+Não lhes é vedado - antes, obrigatório - que as cortes extraordinárias fiscalizem a lógica do juiz ordinário sobre provas, para investigar se, falseando grosseiramente os fatos, não estejam a cometer graves erros de direito. E isso, como é curial, determina que a Corte especial examine toda a causa, bem como os elementos informativos dela, sendo-lhe vedado seccioná-la, em duas parcelas, discricionariamente, para examinar apenas uma parte da causa que a Corte eventualmente julgue conveniente" (e-STJ, fl. 1.874).
+Pede o provimento do recurso.
+Impugnação da agravada pela inexistência de omissão e incidência dos verbetes n. 7 da Súmula desta Corte e 283 do STF, haja vista que os lucros sempre foram pagos à ex-companheira do agravante e que este não impugnou fundamento bastante do acórdão de origem.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. SOCIEDADE EMPRESÁRIA. DISTRIBUIÇÃO DE DIVIDENDOS. VALORES ENTREGUES À EX-COMPANHEIRA. MANDATO TÁCITO. REEXAME. SÚMULA N. 7/ST. NÃO PROVIMENTO.
+1. Não é omisso o acórdão que examina todas as questões que lhe foram propostas, embora em sentido contrário ao pretendido pela parte.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+O recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. NÃO DISTRIBUIÇÃO DE LUCROS POR SOCIEDADE EMPRESÁRIA. PRESCRIÇÃO. ALEGAÇÃO JÁ AFASTADA EM DESPACHO SANEADOR, EM DECISÃO QUE FOI MANTIDA POR ESTE TRIBUNAL. CONFIGURADA A PRECLUSÃO DA MATÉRIA, MESMO TRATANDO-SE DE QUESTÃO DE ORDEM PÚBLICA. SANÇÃO DO ART. 940 DO CC. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. - Caso em que restou demonstrado nos autos que os valores pleiteados pela parte autora foram alcançados a uma das sócias da sociedade empresária ré em razão de contrato de mandato entretido com o autor. Improcedência da ação mantida. - A aplicação da sanção prevista no art. 940 do Código Civil de 2002 pressupõe que (i) tenha havido pagamento e que haja (ii) má-fé ou dolo do credor, o que não se verifica no caso concreto. - Configura-se a litigância de má-fé quando a parte ou interveniente atua de forma dolosa, culposa ou maldosa no processo, visando a causar dano à parte ex-adversa ou promover tumulto processual, situação não evidenciada no caso concreto. - Majoração dos honorários advocatícios sucumbenciais. Cabimento. APELO DA PARTE RÉ CONHECIDO EM PARTE E NESTA, PARCIALMENTE PROVIDO. APELO DA PARTE AUTORA DESPROVIDO.
+Alegou, na ocasião, violação dos artigos 11, 371, 489, 1.022 e 1.047 do Código de Processo Civil, afirmando que o acórdão estadual era omisso e que julgou contrariamente à prova dos autos, notadamente no que tange à perícia, que concluiu não ter o recorrente recebido os lucros que lhe eram devidos.
+Nenhuma omissão há no acórdão recorrido, tampouco carece de fundamentação idônea, senão apresenta julgamento contrário à pretensão da parte, o que não importa, por si só, em violação à norma de regência dos embargos de declaração ou em ausência de prestação jurisdicional. Não se pode confundir, ademais, ausência de fundamentação com fundamentação sucinta ou contrária aos interesses do recorrente.
+Examine-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1629332/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/3/2017, DJe 5/4/2017)
+Quanto ao mais, o agravante ajuizou ação pretendendo receber lucros da agravada, de quem era sócio, referente aos anos de 2004 a 2007 (e-STJ, fl. 1.743), os quais não teria recebido.
+A perícia confirma, de fato e segundo as instâncias ordinárias, que o agravante não recebeu diretamente tais valores.
+A Corte estadual, entretanto, concluiu que havia um mandato entre o agravante e sua ex-companheira, também sócia da agravada, que recebia os valores em nome do recorrente, inclusive no montante exato postulado na inicial.
+Leia-se o excerto:
+"Aduza-se que tal situação resta demonstrada através do cotejo dos valores apurados pelo laudo pericial (fls. 524 e seguintes). Veja-se que, da apuração da distribuição de lucros para cada sócio, durante o período controvertido pelo autor, constata-se que a sócia [NOME] auferiu valores a maior. Tais quantias, consoante os demonstrativos (fls. 538-539), correspondem, exatamente, ao valor relativo as antecipações de lucros que caberiam ao sócio [NOME] (autor).
+De igual sorte, as declarações da ex-companheira enviadas ao autor, corroboram a tese de que os dividendos da empresa relacionados as filias de Porto Alegre e Belo Horizonte, eram destinados à sócia [NOME] para o pagamento das despesas comuns do casal (fl.146, 154).
+Neste contexto, as provas e circunstâncias demonstradas nos autos, revelam que os pagamentso dos valores, ora em cobrança, eram efetuados mediante acerto prévio (contrato verbal de mandato) entre o autor e a sócia [NOME], acordo este amplamente conhecido pelos trabalhadores da empresa e decorrente do relacionamento familiar entretido entre eles" (e-STJ, fl. 1.748).
+Como se vê, não se trata de ilações, como quer fazer crer o recorrente, haja vista constar expressamente depoimentos que dão base à conclusão.
+Esse fundamento, além de ser de fato, não foi impugnado pelo recorrente, a atrair as disposições dos enunciados n. 7 da Súmula desta Casa e 283 do Supremo Tribunal Federal. Ressalte-se que os dispositivos mencionados no recurso especial nada têm a ver com as disposições jurídicas sobre o mandato e suas formas.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
