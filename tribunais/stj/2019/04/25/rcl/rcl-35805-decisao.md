@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta por TRES EDITORIAL LTDA. - EM RECUPERAÇÃO JUDICIAL, GRUPO DE COMUNICAÇÃO TRÊS S.A. - EM RECUPERAÇÃO JUDICIAL, TRÊS COMÉRCIO DE PUBLICAÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL, EDITORA TRÊS LTDA. - EM RECUPERAÇÃO JUDICIAL e TRÊS PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL com fundamento nos artigos 105, inciso I, "f", da Constituição Federal, 988 e seguintes do Código de Processo Civil de 2015 e 187 do Regimento Interno do Superior Tribunal de Justiça.
+As reclamantes alegam que o JUIZ DA 51ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ, nos autos da Reclamação Trabalhista nº 0110500-89.2004.5.01.0051 (promovida por [NOME]) descumpriu a decisão proferida por ocasião do julgamento do Conflito de Competência nº 144.592/SP, no qual se teria reconhecido a competência do JUÍZO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP para apreciar a execução e a satisfação de créditos trabalhistas sujeitos aos efeitos da recuperação judicial do grupo empresarial.
+Esclarecem que o alegado descumprimento decorreria da decisão proferida em 24/3/2017, que teria determinado o prosseguimento da execução trabalhista.
+Argumentam que o crédito pleiteado pelo ora interessado advém da relação havida entre ele e a empresa TRES EDITORIAL LTDA. no período compreendido entre 1º/9/1993 e 5/4/2004, anterior, portanto, ao pedido de recuperação judicial efetuado em 14/5/2017, tendo-se, por isso, operado a sua novação.
+Entendem estarem impossibilitadas de realizar qualquer pagamento ao interessado fora dos termos do plano de recuperação judicial, até mesmo porque, além de ficar caracterizado o tratamento privilegiado de um credor em detrimento dos demais, crime tipificado no artigo 172 da Lei nº 11.101/2005, certamente tal proceder acarretaria a decretação de sua falência, com base no artigo 73, inciso IV, da mesma lei.
+Defendem que, independente do encerramento do procedimento recuperacional ocorrido em 25/7/2016 e confirmado pelo Tribunal paulista em 12/3/2018, os créditos trabalhistas em comento deveriam se submeter aos efeitos da recuperação judicial, cabendo a retificação do quadro geral de credores para inclusão do crédito do ora interessado, na forma do artigo 10, § 6º, da referida lei.
+Narram que foi determinado pelo Juízo trabalhista a penhora de recebíveis relativos a publicação de anúncios publicitários em suas edições.
+Considerando supostos danos irreparáveis que podem decorrer das decisões constritivas proferidas pelo Juízo ora reclamado, as reclamantes pugnam pela concessão de liminar com o fim de suspender as decisões de cunho executivo promovidas pelo referido Juízo carioca.
+Ao final, requerem a confirmação da tutela liminar para manter íntegro o entendimento firmado no CC nº 144.592/SP.
+Às fls. 86/94 (e-STJ) consta a sentença de encerramento da recuperação judicial e às fls. 95/104 (e-STJ) está o acórdão que julgou o respectivo recurso de apelação.
+O pedido de liminar foi indeferido na decisão de fls. 403/406 (e-STJ).
+Constam informações do Desembargador Alexandre Marcondes e do JUÍZO DA 51ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ e DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP (fls. 428, 429/435 e-STJ).
+Considerando a existência de acordo entabulado entre as partes, entendeu-se prejudicada a reclamação na decisão de fl. 474 (e-STJ), a qual foi tornada sem efeito à fl. 520 (e-STJ) diante da pertinência das alegações postas em agravo interno (fls. 481/499 e-STJ).
+O Ministério Público Federal, em seu parecer (fls. 468/472 e-STJ), opinou pela improcedência da reclamação.
+É o relatório.
+DECIDO.
+A presente reclamação não merece prosperar.
+A decisão apontada como descumprida foi exarada nos autos do Conflito de Competência nº 144.592/SP, no qual coube, como não poderia deixar de ser, apenas a averiguação da alegada invasão da esfera competencial do Juízo da recuperação judicial pelo Juízo trabalhista.
+No contexto em que foi apresentado o referido conflito de competência, onde se tinha uma recuperação judicial em franco processamento, sequer foi analisada eventual inércia do credor em habilitar o seu crédito junto ao Juízo universal. Cumpre registrar, apenas a título de reforço de argumentação, que, independente de eventual desídia do credor, se a dívida já se encontrava em discussão judicial, deveria constar da petição inicial do procedimento recuperacional, a teor do que determina o artigo 51, inciso IX, da Lei nº 11.101/2005.
+Atualmente, temos uma conjuntura fática diversa, caracterizada, principalmente, por uma sentença de encerramento da recuperação judicial. Aliás, observa-se que o acórdão que apreciou as apelações interpostas contra a sentença de encerramento julgou-as improcedentes, concluindo como "incontornável" o encerramento da recuperação judicial, e que os recursos especiais subsequentemente interpostos acabaram inadmitidos (decisões datadas de 11/3/2019), de acordo com consulta efetuada no sítio do Tribunal de Justiça do Estado de São Paulo na internet.
+Não se pode considerar, portanto, que aquela decisão proferida no CC nº 144.592/SP, baseada em circunstâncias totalmente distintas das atuais, tenham sido essencialmente descumpridas.
+Ante o exposto, julgo improcedente a reclamação.
+Comuniquem-se.
+Publique-se.
+Intimem-se.
