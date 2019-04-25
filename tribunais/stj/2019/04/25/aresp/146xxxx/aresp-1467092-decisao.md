@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. JULGAMENTO EXTRA PETITA. ANÁLISE DO CONJUNTO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. GUARDA MUNICIPAL. CONCESSÃO DE APOSENTADORIA ESPECIAL. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. EXAME EM RECURSO ESPECIAL. IMPOSSIBILIDADE. ANÁLISE DE REQUISITOS DA APOSENTADORIA. EXAME DE FATOS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por Instituto de Previdência do Município de Jundiaí em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl 793/794):
+JULGAMENTO EXTRA PETITA. Inocorrência. Sentença que decidiu a lide nos termos do pedido. Preliminar rejeitada.
+ILEGITIMIDADE PASSIVA DA MUNICIPALIDADE.
+Inocorrência. Ainda que a verba seja repassada ao Instituto de Previdência, é a Municipalidade quem realiza os descontos referentes à contribuição previdenciária, sendo também responsável pela análise dos pedidos de aposentadoria. Preliminar rejeitada.
+SERVIDOR PÚBLICO MUNICIPAL. Guarda Municipal de Jundiaí. Aposentadoria especial. Pretensão de obter aposentadoria especial, considerando o tempo de serviço prestado em atividade de risco, nos termos do art. 57 da Lei Federal nº 8.213/91. Observância do art. 40, § 4º, inciso II, da CF. Admissibilidade. Aplicação da regra geral de previdência combinada com a Lei nº 51/85. Direito previsto também na Constituição Estadual cujo exercício é obstado pela ausência de norma regulamentadora. Efeitos "erga omnes" da decisão proferida pelo C. Órgão Especial deste Tribunal, no Mandado de Injunção nº 168.151-0/5, que determinou, nesta questão, a aplicação do regime da Lei federal nº 8.213/91. A referida contagem de tempo especial limita-se ao período em que efetivamente o autor tenha exercido sua função em condições de risco. Sentença mantida, nesta parte.
+GUARDA MUNICIPAL. Precedentes do STF que a princípio não reconhecem a periculosidade incita e risco na atividade. Contudo, precedentes que não consideram a edição da lei federal nº 13.022/14 (estatuto das guardas municipais) e que legalmente atribui às guardas municipais atividades não só de proteção a patrimônio público, mas de segurança pública. Arts. 2º, 5º, II, III, IV, XIII, XIV, XVI e parágrafo único da citada lei. Atividade perigosa e de risco.
+HONORÁRIOS ADVOCATÍCIOS. Sendo ilíquida a condenação, deve ser aplicado o art. 85, § 4º, II, do NCPC, devendo os honorários ser fixados posteriormente, quando da liquidação.
+Reexame necessário parcialmente provido e recursos do IPREJUN e da Municipalidade improvidos.
+Nas razões do especial, o recorrente defende malversação do art. 492 do CPC/2015 em face da nulidade do acórdão a quo consequente de vício extra petita. Afirma violação do art. 57 da Lei n. 8.213/1991, pois não é devida aposentadoria especial aos servidores da guarda civil, uma vez que não apresentaram os agentes nocivos prejudiciais à sua saúde ou integridade física. Assevera malversação do art. 1º da LC n. 51/1985, porque não é possível equiparar as funções de guarda municipal com a de policial para fins de concessão de aposentadoria.
+Apresentadas contrarrazões às e-STJ fls. 1.231/1.239.
+A decisão agravada negou seguimento ao especial sob a compreensão de que não é possível a análise de violação de norma constitucional em recurso especial, de que o provimento das teses recursais depende de exame probatório e de interpretação de direito local.
+Nas razões do agravo, o recorrente afirma que o recurso especial visa ao exame de vulneração de lei federal, de modo que não se pode relaciona-lo a um prévio exame fático ou a uma interpretação de direito local.
+Ofertada contraminuta às e-STJ fls. 1.301/1.309.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+O acórdão a quo declarou expressamente que o provimento da inicial não representa julgamento extra petita porque a concessão do benefício de aposentadoria é consequência lógica do pedido, veja-se a seguir (e-STJ fl. 797/798):
+2. De início, afasta-se a preliminar de sentença extra petita.
+Insurge-se o apelante alegando que a r. sentença, considerou que o autor formulou pedido de indenização, quando na verdade ele apenas requereu a concessão de aposentadoria retroativa.
+Contudo, na petição inicial o pedido foi de condenar os: "Réus a conceder ao autor à Aposentadoria Especial com Integralidade e Paridade de vencimentos desde seu requerimento administrativo realizado em 17/04/2017, até a data da implantação de sua aposentadoria, tudo em conformidade com a Legislação descrita, com pagamento de seus proventos com paridade e integralidade de vencimentos, conforme toda fundamentação encartada e legislação vigente" (fls. 20).
+Por sua vez, a r. sentença reconheceu e declarou o direito do autor "à percepção do benefício de aposentadoria especial prevista no artigo 40, § 4º da Constituição Federal, com direito à paridade e à integralidade de proventos, por preenchidos os respectivos requisitos legais." (fls. 492).
+Assim, o julgamento não se distanciou do pleito formulado, ou seja, do reconhecimento da
+aposentadoria especial, nos termos do art. 40, § 4º da CF e do art. 57 da Lei nº 8.213/91.
+Assim, não há que se falar em nulidade da sentença, pelo julgamento extra petita.
+Logo, a acolhida da pretensão, no tocante à anulação do acórdão por vício extra petita não é possível sem prévia revisão do conjunto fático-probatório dos autos. Ocorre que essa tarefa não é possível em recurso especial nos termos da Súm n. 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. PRESTAÇÃO DE SERVIÇOS PÚBLICOS. VIOLAÇÃO DO ART. 535 DO CPC/1973. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. PERDA DO OBJETO E JULGAMENTO EXTRA PETITA. VÍCIOS AFASTADOS. CONCLUSÃO FIRMADA COM BASE NAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ.  .. .
+ ..
+3. Diante dos fundamentos assentados no acórdão combatido, verifica-se que, para rever o entendimento do Tribunal de origem no sentido da não ocorrência da perda do objeto e do julgamento extra petita, bem como da presença dos elementos configuradores do dano moral coletivo e da proporcionalidade da verba indenizatória fixada na origem, demandaria reexaminar as provas constantes dos autos, medida vedada em recurso especial ante o óbice fundado na Súmula 7 do STJ.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 988.480/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/08/2017, DJe 25/08/2017)
+Sobre a violação do art. 1º da LC n. 51/1985, o fundamento para a concessão do benefício da aposentadoria especial é o entendimento jurisprudencial - de natureza constitucional - pela aplicabilidade da Lei n. 51/1985 e da Lei n. 8.213/1991 com o fim de dar efetivo cumprimento ao disposto no art. 40, § 4º, da CF/1988 quanto ao direito à aposentadoria especial. Confira-se (e-STJ fls. 798/799):
+4. Com efeito, o autor, na qualidade de guarda municipal, exerce atividade de risco, previsto no art. 40, § 4º, II, da Constituição Federal.
+Na hipótese, importante esclarecer, a princípio, o regramento do art. 40, § 4º, da Constituição Federal, o qual relaciona a admissão de critérios diferenciados para a concessão de aposentadoria aos servidores submetidos ao regime de previdência de caráter contributivo e solidário, nos termos definidos em leis complementares.
+Vale dizer que a ausência de Lei Complementar regulamentadora da aposentadoria especial prevista na Constituição Federal não impede o cidadão de pleitear em Juízo o reconhecimento de direito não atendido pelo Poder Público.
+Nesse sentido, importa mencionar decisão do C. Supremo Tribunal Federal:
+Presente a fundamentação eminentemente constitucional no ponto, afasta-se a possibilidade de revisão pelo Superior Tribunal de Justiça. Ganham relevância, exemplificativamente, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. REVALIDAÇÃO DE DIPLOMA EXPEDIDO POR UNIVERSIDADE ESTRANGEIRA. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL DO ACÓRDÃO RECORRIDO.
+1. A Corte Local decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+2. Agravo interno não provido.
+(AgInt no REsp 1295936/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/03/2019, DJe 01/04/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.  .. . ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL.  .. .
+III - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1497668/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 25/03/2019, DJe 29/03/2019)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INCLUSÃO DE ICMS NA BASE DE CÁLCULO DO IRPJ E DA CSLL. MATÉRIA DECIDIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME, NA SEARA DO RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Muito embora a alegação do Recurso Especial seja de contrariedade a dispositivo infraconstitucional, o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais. Nesse contexto, inviável a análise da questão, em sede de Recurso Especial, sob pena de usurpação da competência do STF. Em casos análogos, os seguintes precedentes desta Corte: AgInt no REsp 1.562.910/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 28/06/2016; REsp 1.407.283/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/12/2015; AgRg no REsp 1.130.647/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 27/05/2014; AgRg no AREsp 145.316/BA, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 09/04/2013; AgRg no AREsp 35.288/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2011.
+ ..
+VI. Agravo interno improvido.
+(AgInt nos EDcl no REsp 1725681/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+Quanto à violação do art. 57 da Lei n. 8.213/1991, o Tribunal de origem declarou que todos os requisitos legais para a concessão da aposentadoria estão presentes no caso dos autos. Vê-se (e-STJ fl. 805/806):
+6. Desta forma, o apelado ingressou no serviço público, na guarda municipal de Jundiaí em 13/04/1992 (fls. 42), portanto há mais de 25 anos na função estritamente policial, e que somando ao tempo da iniciativa privada restou apurado tempo total de 37 anos, 09 meses e 05 dias (fls. 43/46), então cabível o reconhecimento de sua aposentadoria especial.
+Note-se que o autor, exercendo o cargo de guarda municipal, era regido pela CLT, recolhendo as contribuições previdenciárias ao INSS até o advento de lei que determinou a migração das contribuições à requerida.
+Todo o período em que o servidor prestou serviços à Prefeitura Municipal de Jundiaí, exercendo o cargo de guarda municipal, deve ser considerado para efeito da contagem especial de tempo de serviço, tendo em vista que todo este período houve atividade de risco.
+Desse modo, o provimento do recurso especial, quanto à impossibilidade de concessão de aposentadoria especial por falta de demonstração dos requisitos desse benefício, depende de exame probatório dos autos. Ocorre que essa tarefa não é possível em recurso especial nos termos da Súm. n. 7/STJ.
+Por fim, dada a necessidade de cumprimento do disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo n. 7/STJ, determino a majoração dos honorários recursais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
