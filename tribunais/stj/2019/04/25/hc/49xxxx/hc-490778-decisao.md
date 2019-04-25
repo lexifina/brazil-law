@@ -1,0 +1,26 @@
+DECISÃO
+[NOME] [NOME] alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação Criminal n. 0047572-46.2017.8.12.0001).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006.
+Busca-se, por meio deste writ, a absolvição do acusado, com fulcro no art. 386, VII, do Código de Processo Penal.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+O Juiz sentenciante, ao concluir pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, assim fundamentou, no que interessa (fl. 164):
+A materialidade da prática delitiva encontra-se consubstanciada através do auto de apreensão (fls. 39), prova pericial (fls. 58/61) e prova testemunhal (fls. 91).
+A autoria, por seu turno, é certa e recai na pessoa do acusado, conquanto a tenha negado no interrogatório, sustentando não ter praticado o fato delitivo que lhe é imputado.
+Todavia,a afirmação do acusado de que somente teve conhecimento da existência da droga no momento da sua prisão, restou isolada e divorciada das demais provas carreadas aos autos ao longo da instrução processual, desmerecendo acolhida o pedido de absolvição, em que pese o esforço empreendido pela Douta Defesa.
+Neste sentido, corroborando as provas periciais e documentais produzidas, que evidenciam que o acusado praticou a conduta delitiva que lhe é imputada, são as declarações:
+(a) da testemunha [NOME] que declara, em resumo, que presenciou os seguintes fatos: que apreenderam drogas na casa do acusado;
+(b) da testemunha [NOME] que declara, em resumo, que presenciou os seguintes fatos: que apreenderam as drogas na casa do acusado;
+(c) da testemunha [NOME] que declara, em resumo, que presenciou os seguintes fatos: que as drogas foram apreendidas dentro da geladeira em um pote de comida; que C. não mora na casa, e, que não sabe o que o C. ia fazer todo dia na sua casa;
+(d) da testemunha [NOME] que declara, em resumo, que presenciou os seguintes fatos: que as drogas foram apreendidas dentro da geladeira; que o acusado e C. "mexiam" na droga.
+Portanto, do conjunto das provas pericial, documental e testemunhal produzidas se conclui que o acusado praticou as condutas delitivas que lhes são imputadas.
+Deste modo, analisando as provas pericial, documental e testemunhal produzidas evidencia-se que a autoria e a materialidade delitiva restaram sobejamente demonstradas, assim como a natureza dos fatos causados pelo autor.
+A Corte estadual, por sua vez, também manteve a conclusão de que ficou devidamente caracterizada a prática do crime de tráfico de drogas. Na ocasião, salientou, dentre outros, que "existem provas que denotam de forma insofismável o envolvimento de [NOME] com atividade criminosa relacionada ao tráfico e que no momento de sua prisão tinha consigo e em depósito substância entorpecente sem autorização ou em desacordo com determinação legal ou regulamentar" (fl. 282).
+E, depois de toda a análise do conjunto fático-probatório amealhado aos autos, concluiu: "Diante do sólido conjunto probatório acostado aos autos, revelador da prática do delito de tráfico de entorpecentes, resulta inviável a absolvição por insuficiência de provas ou mesmo a desclassificação do crime, motivo pelo qual deve ser mantida a condenação com fundamento no art. 33, caput, da Lei n. 11.343/06" (fl. 283).
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão impugnado, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável a sua absolvição, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Dessa forma, para entender-se pela absolvição do paciente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, vedada na via estreita do habeas corpus.
+Essa, aliás, também foi a conclusão do Ministério Público Federal, que, em seu parecer de fls. 327-329, assim se manifestou, no que interessa:
+O tribunal a quo manteve a condenação porque, em razão dos depoimentos das autoridades policiais e familiares do paciente, presentes na residência, no momento da apreensão da droga (quatro porções de maconha, com peso de 392 g) entendeu comprovada a traficância. Diante disso, o pedido de absolvição por insuficiência de provas enseja o revolvimento do conjunto fático-probatório, o que não se compatibiliza com a via estreita do habeas corpus.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
