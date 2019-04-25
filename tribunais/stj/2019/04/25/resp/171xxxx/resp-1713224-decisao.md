@@ -1,0 +1,25 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ISENÇÃO DE IMPOSTO DE RENDA. ENFERMIDADE PREVISTA NO ART. 6º, XIV, DA LEI 7.713/88. NEOPLASIA MALIGNA. CONTEMPORANEIDADE DOS SINTOMAS. DESNECESSIDADE. PRECEDENTES. SÚMULA 627/STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no art. 105, inc. III, a, da CF/88, contra acórdão do Tribunal de origem, assim ementado (fl. 335):
+DIREITO ADMINISTRATIVO, TRIBUTÁRIO E CONSTITUCIONAL MAGISTRADO APOSENTADO. DOENÇA GRAVE. NEOPLASIA MALIGNA. PROVENTOS. ISENÇÃO NO RECOLHIMENTO DE IMPOSTO DE RENDA E" DE CONTRIBUIÇÃO PREVIDENCIÁRIA. BENEFICIO CONCEDIDO PELO PRAZO DE CINCO ANOS. NECESSIDADE, DE AFERIÇÃO DO ATUAL ESTADO DE SAÚDE DO CONTRIBUINTE. MATÉRIA DE FATO E DIREITO. PROBATÓRIA QUE NÃO SE DISPENSA. JURISPRUDÊNCIA DO STJ AFASTADA. INEXISTÊNCIA DE DECISÃO VINCULANTE. ART. 30, § I", DA LEI N 9.250/95.
+OBEDIÊNCIA AO DEVIDO PROCESSO LEGAL SENTENÇA ANULADA. APELO PROVIDO. DECISÃO UNÂNIME.
+Os embargos de declaração foram rejeitados, conforme fls. 398-420.
+No seu apelo especial, a parte alega violação aos arts. 6º, XIV, da Lei 7.713/88 e 30, da Lei n. 9.250/95. Argumenta que para a "manutenção do benefício fiscal, floresce irrelevante que o tumor maligno tenha sido retirado, ou que haja contemporaneidade dos sintomas da doença, razão pela qual se releva inócua e ilegal a exigência de novo exame técnico".
+Contrarrazões às fls. 467-489.
+Juízo positivo de admissibilidade à fl. 535.
+É o relatório. Decido.
+Com efeito, o Tribunal a quo consignou ser incontroverso o fato de o recorrido ter sido acometida de moléstia grave (e-STJ fl. 339).
+Sendo assim, o acórdão recorrido esta em desconformidade com a jurisprudência pacificada do Superior Tribunal de Justiça no sentido de que, para fins de isenção de imposto de renda, em se tratando de neoplasia maligna, não se faz necessário demonstrar a contemporaneidade dos sintomas ou a validade do laudo pericial.
+Nesse sentido:
+TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO. MOLÉSTIA GRAVE. NEOPLASIA MALIGNA. COMPROVAÇÃO. DESNECESSIDADE DE LAUDO OFICIAL. CONTEMPORANEIDADE DOS SINTOMAS. DESNECESSIDADE. RECURSO ESPECIAL PROVIDO.
+I - Acórdão regional recorrido em desconformidade com a jurisprudência pacificada do Superior Tribunal de Justiça no sentido de que, para fins de isenção de imposto de renda, em se tratando de neoplasia maligna, não se faz necessário demonstrar a contemporaneidade dos sintomas ou a validade do laudo pericial. Precedentes: REsp n. 1.655.056/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/4/2017, DJe 25/4/2017; REsp n. 1.593.845/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/5/2016, DJe 1/6/2016; e AgRg no REsp n. 1.403.771/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 20/11/2014, DJe 10/12/2014.
+II - Agravo interno improvido (AgInt no REsp 1.732.933/DF, Rel. Min. Francisco Falcão, Segunda Turma, Dje 15/2/2019, grifo nosso).
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO COM BASE NO ART. 6º, XIV, DA LEI 7.713/1988. DOENÇA DE CHAGAS. USO DE MARCAPASSO. CARACTERIZAÇÃO DE CARDIOPATIA GRAVE. PRESENÇA DOS REQUISITOS AUTORIZADORES.
+1. A isenção do imposto de renda incidente sobre os proventos de aposentadoria percebidos por portadores de moléstias-graves nos termos art. 6º, inciso XIV, da Lei 7.713/88 independe da contemporaneidade dos sintomas. Precedentes: REsp 1125064 / DF, Segunda Turma, rel. Ministra Eliana Calmon, DJe 14/04/2010; REsp 967693 / DF, Segunda Turma, rel. Min. Humberto Martins, DJ 18/09/2007; REsp 734541 / SP, Primeira Turma, rel. Ministro Luiz Fux, DJ 20/02/2006; MS 15261 / DF, Primeira Seção, Rel. Min. Mauro Campbell Marques, julgado em 22.09.2010.
+2. Os laudos médicos oficiais ou particulares não vinculam o Poder Judiciário que se submete unicamente à regra constante do art. 131, do CPC/1973, e art. 371, do CPC/2015. Incidência da Súmula n. 598/STJ: "É desnecessária a apresentação de laudo médico oficial para o reconhecimento judicial da isenção do imposto de renda, desde que o magistrado entenda suficientemente demonstrada a doença grave por outros meios de prova".
+3. Situação em que o laudo médico particular faz prova ser o contribuinte portador da doença de Chagas e que, por tal motivo, faz uso de marcapasso, caracterizando a existência de cardiopatia grave, para os fins da isenção prevista no art. 6º, inciso XIV, da Lei 7.713/88.
+4. Recurso ordinário provido (RMS 57058/GO, Rel. Min. Mauro Campbell Marques, Segunda Turma, Dje 13/9/2018, grifo nosso).
+Além do mais, a Primeira Seção desta Corte recentemente editou a Súmula n. 627, que pacificou, por derradeiro, o entendimento ora exposto, qual seja o de que "o contribuinte faz jus à concessão ou à manutenção da isenção do Imposto de Renda, não se lhe exigindo a demonstração da contemporaneidade dos sintomas da doença nem da recidiva da enfermidade".
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se. Intimem-se.
