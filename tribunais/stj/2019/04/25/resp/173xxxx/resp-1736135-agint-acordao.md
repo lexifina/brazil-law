@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): Trata-se de agravo interno interposto por [NOME] contra decisão que negou provimento ao recurso especial, sob os seguintes fundamentos: (I) não ter ocorrido ofensa ao art. 1.022 do CPC/2015; (II) o acórdão recorrido decidiu em sintonia com a orientação jurisprudencial, segundo a qual, nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública, negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ) e; (III) incidência da Súmula 7/STJ.
+Em suas razões, a parte agravante sustenta, em síntese, que "o Nobre Relator não trouxe súmula ou jurisprudência dominante do Egrégio Supremo Tribunal Federal ou de Tribunal Superior que se encontrasse em dissonância com os termos do Recurso. Como se pode observar, o Nobre Relator se apegou no direito da agravante quanto a conversão da Lei 8.880/94.  ..  No caso, as decisões colacionadas pelo Relator não contrastam diretamente com o objeto do recurso.  ..  Entretanto, contrariamente ao disposto na r. decisão, o entendimento é no sentido de que o que se tem de demonstrar, na fase de conhecimento, é o direito à conversão, sendo que as consequências da falta desta pode e deve ser demonstradas na fase de liquidação de sentença. Com o devido respeito que cabe, a prova do prejuízo não é documento indispensável à propositura da ação. O que é indispensável é a prova de que a agravante tinha direito à conversão, o que foi amplamente demonstrado. Já o prejuízo é consequência do direito à conversão, podendo ser demonstrado na fase de liquidação de sentença.  ..  Contudo, na hipótese dos autos, o magistrado de primeiro grau determinou a realização de perícia contábil, a qual foi realizada (fls. 252/291), sendo certo que o Sr. [NOME], apurou que a ré, ora agravada, deixou de reajustar os vencimentos da agravante no percentual de 11,50%, na nova moeda Real. Dessa forma, ficou devidamente comprovado nos autos, através da prova pericial que no período em questão o salário da agravante sofreu uma defasagem de 11,50%. Portanto, amplamente demonstrada nos autos a prova do prejuízo sofrido pela agravante" (fls. 655/657).
+Não houve impugnação (fl. 663).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo interno não conhecido.
+
+VOTO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): O inconformismo não pode ser acolhido.
+Como visto no breve relato, a decisão ora impugnada negou provimento ao recurso especial, com base nos seguintes fundamentos: (I) não ter ocorrido ofensa ao art. 1.022 do CPC/2015; (II) o acórdão recorrido decidiu em sintonia com a orientação jurisprudencial, segundo a qual, nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública, negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ) e; (III) incidência da Súmula 7/STJ.
+Assim, observa-se que a agravante deixou de atacar todos os fundamentos da decisão recorrida. Essa circunstância atrai a incidência ao presente agravo interno da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luís Felipe Salomão, DJe de 30.11.2018.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
