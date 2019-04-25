@@ -1,0 +1,21 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO. CARTÃO DE CRÉDITO. ABUSIVIDADE DA COBRANÇA DO VALOR INTEGRAL DA DÍVIDA. LIMITAÇÃO DO PARCELAMENTO DO DÉBITO. DESCONTOS EM CONTA CORRENTE. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
+DECISÃO
+ELY SINIS DE ALBUQUERQUE (ELY) ajuizou ação de revisão de contrato de consumo cumulada com alteração de cláusula de cumprimento da obrigação remanescente contra BANCO ITAUCARD S.A. (BANCO), alegando que, por falta de informações e de acesso ao contrato firmado com o requerido, passou longo período pagando o valor mínimo da fatura do cartão de crédito, o que gerou seu superendividamento. Além disso, defendeu a nulidade da cláusula de capitalização dos juros, requereu a declaração de quitação da dívida e a declaração da mora do credor.
+O Juízo de Piso julgou parcialmente procedentes os pedidos iniciais, tão somente para limitar as parcelas mensais do financiamento do débito referente ao cartão de crédito indicado na inicial ao importe máximo de 35% dos rendimentos líquidos mensais da autora (e-STJ, fls. 186/194).
+Inconformado, o BANCO interpôs recurso de apelação, seguido do recurso adesivo de ELY. O Tribunal de origem, por seu turno, deu provimento ao recurso do BANCO e negou provimento à apelação da autora, em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - CARTÃO DE CRÉDITO - SUPERENDIVIDAMENTO - LIMITAÇÃO DO PARCELAMENTO DO DÉBITO AUSÊNCIA DE PREVISÃO LEGAL - JUROS REMUNERATÓRIOS - NECESSIDADE DE VERIFICAÇÃO DO ABUSO EM RELAÇÃO À TAXA MÉDIA DE MERCADO. ÔNUS DA PARTE AUTORA - ABUSIVIDADE NÃO DEMONSTRADA - MANUTENÇÃO - CAPITALIZAÇÃO MENSAL DE JUROS - PACTUAÇÃO EXPRESSA - RECURSO DO BANCO - PROVIDO - RECURSO DA PARTE AUTORA - DESPROVIDO.
+O Superior Tribunal de Justiça, recentemente, firmou entendimento de que. em contrato de financiamento bancário diverso do empréstimo consignado, não é ilegal o desconto de parcelas acima de 30% da remuneração do mutuário, quando isso tenha sido pactuado entre as partes, razão pela qual deve ser afastada a limitação imposta na sentença.
+A revisão de juros do contrato de cartão de crédito, anteriores a março de 2011, diante da inexistência de divulgação de taxa média desse tipo de operação pelo BACEN nesse período, necessário se faz que a parte autora demonstre por outros meio de prova a alegada abusividade das taxas cobradas, nos termos do art. 373,I, do CPC.
+No caso, como a parte autora não se desincumbiu do ônus de demonstrar a abusividade dos juros remuneratórios aplicados às faturas do cartão no período anterior a março de 2011, devem ser eles mantidos como pactuados.
+A incidência da capitalização mensal de juros imprescindem de expressa previsão contratual, o que ficou demonstrado no caso. (e-STJ, fls. 236/237)
+Em seguida, ELY interpôs recurso especial, com base no art. 105, III, a da CF, sustentando, em síntese, violação dos arts. 6º e 51 do CDC, 2º da Lei nº 13.172 e 8º do CPC porque deveria ser reconhecida a abusividade das cláusulas contratuais que (1) permitem a cobrança total da dívida e (2) estipulam os descontos em sua conta corrente superiores a 35% da sua remuneração mensal (e-STJ, fls. 253/269).
+Houve contrarrazões (e-STJ, fls. 275/283).
+O apelo nobre não foi admitido porque as razões recursais demandariam o reexame das provas dos autos, a atrair a incidência das Súmulas nºs 5 e 7 dos STJ (e-STJ, fls. 286/289).
+Irresignada, ELY interpôs agravo em recurso especial, sustentando o afastamento dos mencionados óbices (e-STJ, fls. 293/299).
+Houve contraminuta (e-STJ, fls. 305/312)
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Considerando que o agravo merece conhecimento e tendo em vista as razões contidas no recurso especial subjacente, CONVERTO o agravo em recurso especial, para melhor análise da controvérsia.
+Publique-se. Intime-se.
