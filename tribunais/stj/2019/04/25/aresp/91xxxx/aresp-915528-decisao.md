@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROGRAMA DE ARRENDAMENTO RESIDENCIAL (PAR). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. 2. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME], [NOME] e [NOME] contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que os ora agravantes ajuizaram ação de rescisão contratual c/c danos materiais e morais em desfavor da Caixa Econômica Federal, tendo sido extinta a ação por inépcia da inicial.
+Interposta apelação, o Desembargador relator monocraticamente negou seguimento ao recurso, sendo que a Quinta Turma do Tribunal Regional Federal da 2ª Região negou provimento ao apelo, em acórdão assim ementado (e-STJ, fls. 322/323):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA DO RELATOR. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PROGRAMA DE ARRENDAMENTO RESIDENCIAL. LEI N. 10.188/2001. QUESTÃO RELATIVA À CONSERVAÇÃO DO EMPREENDIMENTO. AUSÊNCIA DE RESPONSABILIDADE DO AGENTE FINANCEIRO. ILEGITIMIDADE DA CEF. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. DECISÃO MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO IMPROVIDO.
+1. As decisões monocráticas, fulcradas no art. 557 do CPC, tem por primado maior a economia e a celeridade processuais, não agredindo princípios constitucionais nem suprimindo o direito de recorrer, porquanto o parágrafo único do mesmo art. 557, agravo do ato que indefere o recurso, cumpre o mandamento constitucional que assegura aos litigantes amplitude de defesa.
+2. Persistem imaculados e impassíveis os argumentos nos quais o entendimento foi firmado, subsistindo em si as mesmas razões expedidas na decisão agravada, as quais me reporto.
+3. A ausência de relação de direito material retira a responsabilidade do agente financeiro no que concerne à conservação do empreendimento, responsabilidade esta que deverá ser suportada pelos vendedores. Ilegitimidade da CEF para responder por supostos vícios no imóvel, o que afasta a competência da Justiça Federal.
+4. Agravo interno improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 356-359).
+Os recorrentes alegaram, no especial, em suma: a) negativa de prestação jurisdicional; b) nulidade da decisão extra petita; c) necessidade de oportunidade de emenda da petição inicial; d) cerceamento de defesa pelo indeferimento da produção de provas; e e) incidência das normas de defesa do consumidor. Para tanto, indicaram a violação aos arts. 128, 130, 284, 332, 460 e 535, II, do Código de Processo Civil de 1973; 2º, 3º, 6º, VII, 14, 18, 47 e 54 do Código de Defesa do Consumidor; 1º, 6º e 10 da Lei n. 10.188/2001; e 476 do Código Civil.
+A decisão do Vice-Presidente do Tribunal Regional Federal da 2ª Região deixou de admitir o recurso especial por não vislumbrar ofensa ao art. 535 do CPC/1973, bem como pela ausência de prequestionamento (e-STJ, fls. 451- 452).
+Interposto agravo em recurso especial às fls. 457-468 (e-STJ), e contraminuta apresentada às fls. 474-477 (e-STJ).
+Brevemente relatado, decido.
+De início, verifico dos autos que o recurso foi interposto quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 535, I e II, do CPC/1973.
+Na hipótese, embora os ora insurgentes tenham alegado, nas suas razões de apelação e de embargos de declaração opostos ao acórdão recorrido, ofensa ao art. 284 do CPC/1973, ao argumento de que houve a extinção do feito sem a oportunidade de emenda à inicial, o TJRJ, ao julgar os referidos aclaratórios, limitou-se a afirmar que "os embargos de declaração visam tão somente impugnar o conteúdo decisório do acórdão" (e-STJ, fl. 357).
+Assim, o Tribunal a quo deixou de sanar a omissão sobre a questão federal suscitada nos autos, a qual é relevante para o deslinde da controvérsia, impondo-se o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação da matéria nele levantada.
+A propósito:
+RECURSO ESPECIAL. QUESTÕES SUSCITADAS EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 535 DO CPC CONFIGURADA. AGRAVO NO RECURSO ESPECIAL PREJUDICADO.
+1.- Negativa de prestação jurisdicional configurada no caso, por infringência ao artigo 535 do Código de Processo Civil, voltando o caso à origem para novo julgamento dos Embargos de Declaração.
+2.- Em processo em que recebido pedido de reconsideração do Acórdão, posterior à interposição de Recurso Especial, como Agravo Regimental, para não conhecê-lo, o Acórdão, embora fundamentado, não enfrentou todas as questões, conquanto reclamado o exame por Embargos de Declaração. Impossível, nesta instância, reexaminar todas essas matérias interligadas, de interesse para o deslinde do caso. De rigor o provimento do Recurso Especial, para anular o julgamento dos Embargos de Declaração, com retorno à origem.
+3.- Recurso Especial provido, anulando-se o Acórdão dos Embargos de Declaração, para que outro seja proferido, com expresso julgamento da questão assinalada.
+4.- Agravo no Recurso Especial prejudicado pela perda do objeto. (REsp n. 1.424.420/CE. Relator Ministro Sidnei Beneti, Terceira Turma, julgado em 11/2/2014, DJe 28/2/2014)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos à Corte estadual para que, em novo julgamento dos embargos de declaração, supra a omissão apontada.
+Publique-se.
