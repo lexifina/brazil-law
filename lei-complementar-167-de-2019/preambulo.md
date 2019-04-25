@@ -1,0 +1,2 @@
+Dispõe sobre a Empresa Simples de Crédito (ESC) e altera a Lei nº 9.613, de 3 de março de 1998 (Lei de Lavagem de Dinheiro), a Lei nº 9.249, de 26 de dezembro de 1995, e a Lei Complementar nº 123, de 14 de dezembro de 2006 (Lei do Simples Nacional), para regulamentar a ESC e instituir o Inova Simples.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
