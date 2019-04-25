@@ -1,0 +1,20 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA ENTRE JUÍZO TRABALHISTA E ESTADUAL. ANULAÇÃO DE CONTRATO TEMPORÁRIO. RELAÇÃO JURÍDICO-ADMINISTRATIVA. PRECEDENTES. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo da Vara do Trabalho de Araxá/MG e o Juízo de Direito da 2ª Vara Cível de Araxá/MG, nos autos de ação trabalhista proposta por [NOME] - espólio contra o Município de Araxá/MG, objetivando o recebimento de verbas trabalhista e danos morais em função de encerramento antecipado de suposto contrato de trabalho.
+O Juízo de Direito da 2ª Vara Cível de Araxá/MG entendeu pela incompetência absoluta da Justiça Comum para processar e julgar o feito.
+Por sua vez, o Juízo da Vara do Trabalho de Araxá/MG suscita o presente conflito negativo de competência ao argumento de que o vínculo entre as partes era de natureza jurídico-administrativa, "cuja competência para processar e julgar a presente lide não é desta Justiça Especializada, mas sim da Justiça Comum" (fls. 126-129).
+É o relatório. Passo a decidir.
+Cinge-se a questão dos autos em definir a quem compete processar e julgar - se à Justiça Trabalhista ou à Justiça Comum - pedidos decorrentes de relação de trabalho no cargo de Técnico Superior de Saúde entre o autor e o Município de Araxá/MG.
+O STF, quando do julgamento da ADI n. 3.395-6/DF, firmou compreensão no sentido de que o disposto no inciso I do art. 114 da Constituição Federal não abrange as causas instauradas entre o servidor e o Poder Público ao qual esteja vinculado por típica relação de ordem estatutária ou de caráter jurídico-administrativo. No mesmo sentido: AgRg na MC na Rcl 4.351/PE, Relator p/ acórdão Min. Dias Toffoli, Tribunal Pleno, DJe: 13/4/2016.
+Por outro lado, o Tribunal Pleno daquela Corte decidiu que, "tendo como causa de pedir relação jurídica regida pela Consolidação das Leis do Trabalho e pleito de reconhecimento do direito a verbas nela previstas, cabe à Justiça do Trabalho julgá-la" (CC 7.950, Relator Min. Marco Aurélio, Tribunal Pleno, DJe: 1º/8/2017).
+Dessa forma, tem-se que, se o vínculo estabelecido entre o Poder Público e o servidor for típica relação de ordem estatutária ou de caráter jurídico-administrativo, a competência para análise da controvérsia será da Justiça Comum (estadual ou federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça Trabalhista o julgamento dos litígios daí advindos. Precedente: (CC 160.769/PE, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 26/2/2019).
+No caso concreto, verifica-se dos documentos acostados autos autos - "Contrato Administrativo de Trabalho - PAM" (doc. de fls. 29-33) que o demandante foi contratado para atender necessidades temporárias de excepcional interesse público, nos termos do art. 37, IX, da CF, competindo à Justiça Comum Estadual julgar e processar o presente feito.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. CONTRATO TEMPORÁRIO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+1. A competência para processar e julgar ações cujo objeto é a relação jurídica estabelecida entre o Poder Público e seus Servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, é da Justiça Comum.
+2. Agravo Regimental do Particular desprovido.
+(AgRg no CC 140.643/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 28/3/2019)
+Em situações que se assemelham ao caso dos autos, com os mesmos Juízos, destaco as seguintes decisões monocráticas: CC n. 153.915/MG, Rel. Min. Benedito Gonçalves, DJe: 13/11/2017; CC n. 158.898/MG, Rel. Min. Og Fernandes, DJe: 11/9/2018; CC n. 157.077/MG, Rel. Ministra Assusete Magalhães, DJe: 29/8/2018; cc N. 149.117/MG, Rel. Min. Benedito Gonçalves, DJe: 9/6/2017.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Cível de Araxá/MG (art. 955, parágrafo único, do CPC/2015 combinado com o art. 34, XXII, do RISTJ).
+Publique-se. Intimem-se.
