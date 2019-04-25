@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao apelo defensivo, assim ementado:
+Apelação da defesa - furto qualificado pelo rompimento de obstáculo - materialidade e autoria bem comprovadas - provas suficientes à condenação - réu ocultou os bens subtraídos na própria residência, e a ação foi presenciada por populares, que acionaram a polícia e informaram o trajeto percorrido pelo acusado - apreensão e recuperação dos objetos subtraídos - o crime se consumou - réu obteve a posse desvigiada da res - condenação mantida - pena-base fixada no mínimo legal a míngua e maus antecedentes, e acrescida de 1/6 em razão da reincidência, bem demonstrada nos autos - regime inicial aberto fixado indevidamente, em razão da presença da reincidência, o que obsta também a substituição da pena privativa de liberdade por pena restritiva de direito - recurso desprovido.
+Apelação do representante do Ministério Público - pretensão à fixação de regime inicial fechado, porém, mais adequado o regime inicial semiaberto, mesmo diante da circunstância agravante genérica, mas a míngua de circunstâncias judiciais desfavoráveis, a teor da Súmula 269 do Superior Tribunal de Justiça - recurso parcialmente provido. Expeça-se mandado de prisão, após decurso do prazo para eventual oposição de Embargos de Declaração.
+Sustenta a defesa violação do art. 44, § 3º, do Código Penal.
+Assevera que favoráveis as circunstâncias judiciais e não verificada a reincidência específica, possível a substituição da pena privativa de liberdade pela restritiva de direitos.
+Requer o provimento do recurso, a fim de que seja realizada a substituição da pena privativa de liberdade pela restritiva de direitos.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+FERNANDO foi condenado pela prática do delito previsto no art. 155, § 4º, I, do CP, às penas de 2 anos e 4 meses de reclusão, em regime aberto, e 11 dias-multa. Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso.
+Nas razões recursais, sustenta, em síntese, que faz jus à substituição da pena privativa de liberdade pela restritiva de direitos.
+O voto condutor do acórdão proferido em embargos de declaração assim decidiu (fl. 329):
+Inicialmente há de se consignar que os Embargos são conhecidos, pois tempestivos, contudo rejeitados, porque inexistente qualquer omissão, contradição ou obscuridade a ser suprida por ora.
+Não ficou demonstrada qualquer ilegalidade no julgamento proferido por unanimidade por esta Colenda Turma Julgadora, parecendo bem justificados os motivos que levaram ao acolhimento da tese arguida pelo representante do Ministério Público, ao fixar o regime inicial semiaberto para o cumprimento da pena privativa de liberdade e negar a substituição da pena corporal por pena restritiva de direitos.
+E os motivos que levaram a este entendimento não serão novamente repisados.
+Vale consignar ainda que a fundamentação do acórdão embargado abordou expressamente porque a fixação de regime prisional mais gravoso era de rigor, especialmente em razão da reincidência do réu, óbice à pretendida substituição da pena.
+O embargante, na verdade, insiste na reapreciação de questões já analisadas, e o fato de ter sido modificada a sentença de primeiro grau não o autoriza a rediscutir a matéria nessa oportunidade.
+ ..
+Muito embora favoráveis as circunstâncias judiciais, a reincidência específica em crime contra o patrimônio (fls. 89/90), obsta a substituição da pena, não se mostrando socialmente recomendável a medida, consoante art. 44, II e § 3º, do CP. Nesse sentido, confira-se o entendimento desta Corte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO QUALIFICADO. INSIGNIFICÂNCIA. REINCIDÊNCIA. VALOR DA COISA SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO. RELEVANTE LESÃO AO BEM JURÍDICO. REGIME DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. REGIME FECHADO CABÍVEL. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO.  ..
+9. Em interpretação contrario sensu da Súmula 269 desta Corte, mostra-se descabida a alegação de desproporcionalidade na imposição do meio prisional mais severo, pois, nada obstante ser a pena total do réu inferior a 4 anos de reclusão, as circunstâncias judiciais negativas e a sua reincidência indicam a necessidade de imposição do regime fechado.
+10. Não cabe substituição da pena privativa de liberdade por restritiva de direitos, porque o paciente é reincidente em crime doloso contra o patrimônio, nos termos do art. 44, II, c/c art. § 3º, ambos do Código Penal.
+11. Habeas corpus não conhecido (HC 436.593/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/04/2018, DJe 25/04/2018).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PORTE ILEGAL DE MUNIÇÃO DE USO RESTRITO. ART. 16 DA LEI N.10.826/2003. PERIGO ABSTRATO. TIPICIDADE DA CONDUTA.
+CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. VIOLAÇÃO AO ARTIGO 44, §3º DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA. VIABILIDADE. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REINCIDÊNCIA GENÉRICA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - O porte de munição, em desacordo com as normas de regência, por se tratar de crime de perigo abstrato e de mera conduta, é suficiente para a configuração do delito tipificado no art. 14, da Lei 10.826/03, pois o que se pretende é o resguardo da segurança pública e da paz social. III - Na hipótese, não há que se falar na atipicidade material da conduta praticada ou na incidência do princípio da insignificância, independentemente da pequena quantidade de munição apreendida com o paciente.
+IV - O art. 44, inciso II, do Código Penal deve ser interpretado de forma conjunta com o parágrafo 3º do mesmo dispositivo, ou seja, a substituição da pena deve ser socialmente recomendável e o réu não pode ser reincidente específico.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício, para substituir a pena privativa de liberdade por restritiva de direitos, a ser estabelecida pelo Juízo a quo (HC 475.118/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/02/2019, DJe 01/03/2019).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
