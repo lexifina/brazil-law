@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 466):
+EMBARGOS À EXECUÇÃO. DIFERENÇA DE 3,17%. BASE DE CÁLCULO. ANUÊNIOS. 28,86%.
+É devida a inclusão, na base de cálculo dos 3,17%, das diferenças apuradas como devidas em razão do aumento de 28,86%.
+A incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo, não devendo ser incluídas na base de cálculo.
+Opostos embargos declaratórios, foram rejeitados (fls. 487/493).
+A parte recorrente aponta violação aos arts. 467, 468, 471, 474, 475 e 535 do CPC/73. Sustenta, além de negativa de prestação jurisdicional, que ocorreu afronta à coisa julgada, porquanto "examinando-se os exatos limites objetivos da ação que formou o título exequendo verifica-se que em nenhum momento processual foi postulada ou deferida condenação da autarquia pagar as diferenças de 3,17% CUMULADA COM REAJUSTE DE 28,86%. Tal pretensão (incidência da defasagem salarial de 3,17% sobre a defasagem de 28,86%) deveria ter sido veiculada na inicial da ação coletiva daquele índice, posto que se trata de situação jurídica posterior as leis 8.622 e 8.623/93" (fl. 502).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC/1973. Com efeito, nas razões da apelação e dos embargos declaratórios, a parte recorrente postulou a manifestação da Corte de origem acerca da ocorrência, na espécie, de afronta à coisa julgada.
+Contudo, o Tribunal a quo quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do recorrente, em franca violação do art. 535 do CPC/1973, porquanto não foi prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação do art. 535 do CPC e determino o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração. Prejudicadas as demais alegações suscitadas no apelo especial.
+Publique-se.
