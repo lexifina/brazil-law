@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão do Tribunal a quo que inadmitiu o processamento de recurso especial.
+O presente recurso foi dirigido ao próprio órgão prolator da decisão impugnada, ao qual compete sua análise (art. 557, § 1º, do CPC de 1973).
+Ante o exposto, tendo em vista a manifesta incompetência do Superior Tribunal de Justiça, determino a baixa destes autos ao Tribunal de origem para que processe o recurso de agravo regimental.
+Publique-se. Intimem-se.
