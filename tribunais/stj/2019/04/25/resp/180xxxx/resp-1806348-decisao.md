@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão do Tribunal de Justiça de Rondônia, mantendo, na íntegra, a sentença que condenou JOUBERTH ROBERT LORERA DOS SANTOS à pena de 4 (quatro) anos e 6 (seis) meses de reclusão, em regime inicial fechado, mais 10 (dez) dias-multa, por infração ao art. 157, caput, do Código Penal, nos termos da seguinte ementa (e-STJ fl. 108):
+EMENTA
+Roubo. Regime. Modificação. Impossibilidade. Réu reincidente. Circunstâncias judiciais desfavoráveis. Recurso não provido.
+As penas privativas de liberdade deverão ser executadas de forma progressiva e o condenado, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto, desde que não seja reincidente (art. 33, §2º, "b", do CP).
+Recurso não provido.
+Nas razões do recurso especial, fulcrado nas alíneas "a" do permissivo constitucional, alega violação do art. 33, §2º, "b", do Código Penal.
+Aduz que "Em que pese o apelante ostentar antecedentes criminais, não se trata de reincidente específico, mas sim reincidente genérico, isto por si só, não é óbice para aplicação do regime SEMIABERTO" (e-STJ fl. 118).
+Pretendendo a superação da Súm. n. 231STJ, sustenta a possibilidade de fixação da pena abaixo do mínimo legal, em razão da presença de circunstância atenuante.
+Pugna, ao final, pelo provimento do recurso alterando para semiaberto o regime prisional, aplicando, ainda, a atenuante da confissão espontânea.
+Contra-arrazoado (e-STJ fls. 126/132) e admitido (e-STJ fl. 136), manifestou-se o Ministério Público Federal, nesta instância, pelo provimento do recurso, em parecer assim ementado (e-STJ fl. 150):
+PENAL PROCESSUAL PENAL ROUBO SIMPLES. PLEITO PELA ALTERAÇÃO DO REGIME INICIAL FECHADO. MAUS ANTECEDENTES. REINCIDÊNCIA. COMPENSAÇÃO ENTRE CONFISSÃO E REINCIDÊNCIA. MATÉRIA NÃO ALEGADA NO TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA.
+PARECER PELO DESPROVIMENTO DO RECURSO ESPECIAL
+É o relatório. Decido.
+Sem razão a defesa.
+Colho do acórdão recorrido (e-STJ fl. 111):
+Do Pedido de Regime Menos Gravoso para o Cumprimento da Pena
+A defesa alega que as Súmulas 718/719 do STF dispõem que, para justificação de regime inicial de pena mais grave, não basta a opinião pessoal do magistrado e sim requer fundamentação idônea, não há porque não conceder regime inicial menos severo, mesmo sendo o apelante reincidente, pois a reincidência, por si só, não é fator preponderante.
+Em que pese os argumentos lançados nas razões de apelação, tem-se que sem razão a defesa, uma vez que apenas réu não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto, o que não é o caso do apelante, pois ele é reincidente especifico, conforme certidão de antecedentes criminais de fls. 46/49.
+Como cediço, as penas privativas de liberdade deverão ser executadas de forma progressiva e o condenado, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto, desde que não seja reincidente (art. 33, §2º, "b", do CP).
+Verifica-se, portanto, que, embora a pena privativa de liberdade imposta ao apelante tenha sido um pouco mais de 4 (quatro) anos de reclusão, o que permitiria a fixação do regime prisional mais brando para o início do cumprimento da pena, as circunstâncias judiciais desfavoráveis, somadas à reincidência, inclusive específica (fls. 45/49), impõe que seja fixado o regime inicial fechado.
+Com efeito, para a fixação de regime de cumprimento de pena mais gravoso é necessária fundamentação específica, com base em elementos concretos extraídos dos autos, nos termos dos enunciados das Súmulas 440/STJ, 718/STF e 719/STF.
+No caso, o recorrente é reincidente específico e portador de maus antecedentes, não havendo que se falar em regime prisional semiaberto, não obstante tenha sido condenado à pena definitiva inferior a 8 (oito) anos.
+Nesse sentido:
+HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. ARMA DE FOGO. EXAME PERICIAL. DISPENSABILIDADE PARA A CARACTERIZAÇÃO DA CAUSA ESPECIAL DE AUMENTO, QUANDO PROVADO O SEU EMPREGO NA PRÁTICA DO CRIME POR OUTROS MEIOS. ORIENTAÇÃO FIRMADA PELA TERCEIRA SEÇÃO DESTA CORTE, NO JULGAMENTO DO ERESP N.º 961.863/RS. RECONHECIMENTO DE DUAS CAUSAS DE AUMENTO DE PENA (CONCURSO DE AGENTES E EMPREGO DE ARMA). ACRÉSCIMO FIXADO EM 1/2. FUNDAMENTAÇÃO IDÔNEA. REGIME PRISIONAL. PENA SUPERIOR A 4 ANOS. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. REGIME INICIAL FECHADO. POSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
+ ..
+4. É adequada a fixação do regime fechado de cumprimento de pena ao réu reincidente e portador de maus antecedentes, condenado a pena superior a quatro anos de reclusão. Inteligência do art. 33, § 2.º, alínea b, do Código Penal.
+5. Ordem de habeas corpus denegada. (HC 459.039/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/12/2018, DJe 19/12/2018)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE DO AGENTE. FUNDAMENTAÇÃO INIDÔNEA. MAUS ANTECEDENTES CONFIGURADOS. CIRCUNSTÂNCIAS DO CRIME. MAIOR GRAVIDADE DA CONDUTA NÃO EVIDENCIADA. REGIME PRISIONAL FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA INFERIOR A 4 ANOS DE RECLUSÃO. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL. REINCIDÊNCIA. SÚMULA 269/STJ. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+7. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Código Penal, é possível a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+8. Em que pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, não há falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor. Inteligência, a contrario sensu, da Súmula 269/STJ.
+9. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do paciente para 1 ano, 7 meses e 7 dias de reclusão, mais 12 dias-multa, mantido o regime prisional fechado para o início do cumprimento da reprimenda. (HC 424.433/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/06/2018, DJe 01/08/2018)
+Finalmente, quanto ao pedido da defesa em ver reconhecida a atenuante da confissão espontânea, destaco que a referida atenuante não só foi reconhecida como compensada integralmente com a agravante da reincidência, conforme se depreende dos seguintes trechos da sentença condenatória (e-STJ fl. 76).
+Presentes a circunstância atenuante da confissão espontânea. Presente a circunstância agravante da reincidência, pois o réu já foi condenado neste juízo pelo crime de roubo majorado, nos autos nº 0019022-22.2014.8.22.0501, sentença transitou em julgado em 13.01.2015. Considerando o concurso de atenuante e agravante compenso-as e mantenho a pena no patamar já fixado.
+Diante do exposto, conheço, em parte, do recurso especial e, nesta extensão, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
