@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE COBRANÇA. NOTA DE CRÉDITO RURAL. PRESCRIÇÃO. TERMO INICIAL. DISPOSITIVO DE LEI INDICADO. PERTINÊNCIA TEMÁTICA. AUSÊNCIA. SÚMULA Nº 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+BANCO DO NORDESTE DO BRASIL S.A. (BANCO) ajuizou ação de cobrança contra AVELINO DA COSTA MEDEIROS (AVELINO), alegando o inadimplemento de saldo devedor de nota de crédito rural.
+A sentença julgou procedente o pedido, condenando AVELINO ao pagamento da quantia de R$ 9.360,89 (nove mil, trezentos e sessenta reais e oitenta e nove centavos) (e-STJ, fls. 121/127).
+Interposta apelação por AVELINO, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado (e-STJ, fl. 220):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DESERÇÃO INOCORRÊNCIA. PEDIDO DE GRATUIDADE JUDICIÁRIA EM SEGUNDA INSTÂNCIA. DOCUMENTOS. COMPROVAÇÃO DA INSUFICIÊNCIA DE RECURSOS. GRATUIDADE DEFERIDA. FINANCIAMENTO RURAL. PRESCRIÇÃO. INOCORRÊNCIA. CORREÇÃO MONETÁRIA A PARTIR DO AJUIZAMENTO. INCIDÊNCIA DE JUROS A PARTIR DA CITAÇÃO. Não é deserto o recurso desacompanhado de preparo se há pedido de concessão da gratuidade judiciária. O inciso LXXIV, do Artigo 5º, da Carta Política, é claro ao determinar que "o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos". Não se deve perder de vista, também, o princípio constitucional do amplo acesso ao Poder Judiciário. Comprovada a insuficiência de recursos, deve ser deferida a gratuidade judiciária. Verificado que não foi transcorrido mais da metade do prazo prescricional previsto no Código Civil de 1.916, referente ao período compreendido entre o termo a quo do prazo de prescrição e a data em que entrou em vigor o novo Código Civil, deverá ser aplicado o prazo previsto na nova codificação. Após o decurso do prazo da ação cambial, tem início o prazo prescricional previsto no art. 206, § 5º, inciso I, do Código Civil, que prevê a prescrição em cinco anos da pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Afastada a prescrição, e constatada a regularidade do título, é devido o valor cobrado, corrigido monetariamente a partir do ajuizamento da ação e acrescido de juros de mora a partir da citação.
+Inconformado, AVELINO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação do art. 206, §5º, I, do CC/02 e divergência jurisprudencial, aduzindo, em síntese, que o termo inicial da prescrição da ação de cobrança é a data do vencimento do título, não o término do prazo prescricional para a ação cambial.
+BANCO ofereceu contrarrazões (e-STJ, fls. 273/279).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a dissonância entre as razões do recurso especial e o acórdão recorrido, bem como a incidência das Súmulas nºs 5 e 7 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Foram apresentadas contrarrazões (e-STJ, fls. 311/319).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Assim, ultrapassados os requisitos de admissibilidade, CONHEÇO do agravo e passo à análise do recurso especial, o qual, por ter sido interposto sob a égide do CPC/73, aplica-se os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Do termo inicial do prazo prescricional
+AVELINO apontou ofensa ao art. 206, §5º, I, do CC/02, ao argumento de que o termo inicial do prazo prescricional para ajuizar a ação ordinária é a data de vencimento da dívida, não o término do prazo para propor a ação cambial.
+Nesse aspecto, é inviável o conhecimento do recurso especial, tendo em vista que a tese defendida não deflui da redação do art. 206, §5º, I, do CC/02, que apenas prevê o prazo prescricional aplicável, não se afigurando presente a necessária pertinência temática entre a fundamentação e o dispositivo legal indicado, incidindo o teor da Súmula nº 284 do STF.
+Ademais, AVELINO sustentou divergência pretoriana no tocante ao termo a quo do prazo prescricional.
+Além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário que o recorrente proceda ao cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+Da análise do recurso interposto, é possível verificar que AVELINO não cumpriu, efetivamente, essa tarefa, pois não realizou o necessário cotejo analítico entre os julgados, inviabilizando o conhecimento do recurso especial nesse ponto.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ADIANTAMENTO POR CONTRATO DE CÂMBIO. NATUREZA EXTRACONCURSAL. EFEITOS. RECUPERAÇÃO JUDICIAL. SUJEIÇÃO. AUSÊNCIA. AÇÃO EXECUTIVA. PROSSEGUIMENTO. SÚMULA Nº 568/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO.
+ ..
+3. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional quando não demonstrada, como no caso em apreço, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.215.891/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 17/9/2018, DJe 21/9/2018 - sem destaque no original)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. MÚTUO BANCÁRIO. VENCIMENTO ANTECIPADO DA DÍVIDA. PRAZO PRESCRICIONAL. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA.
+AUSÊNCIA.
+ ..
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo interno não provido.
+(AgInt no REsp 1.520.970/PE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 28/8/2018, DJe 10/9/2018 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
