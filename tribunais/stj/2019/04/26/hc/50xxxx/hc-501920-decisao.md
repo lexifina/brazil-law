@@ -1,0 +1,30 @@
+EMENTA
+HABEAS CORPUS. PENAL. ROUBO MAJORADO. PENA ABAIXO DE 8 ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. REGIME FECHADO. ILEGALIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA AGRAVAMENTO DO REGIME PRISIONAL. VERBETES SUMULARES N.os 440/STJ, 718 E 719/STF. CABÍVEL O REGIME SEMIABERTO. ORDEM DE HABEAS CORPUS CONCEDIDA. LIMINAR CONFIRMADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VAGNER BRITO DE FREITAS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n.º 0019673-96.2018.8.26.0050.
+Consta dos autos que o Paciente foi condenado, como incurso no art. 157, § 2.º, incisos II e V, do Código Penal, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e ao pagamento de 13 (treze) dias-multa.
+Contra a sentença, a Defesa interpôs apelação, que não foi provida (fls. 26-32).
+Daí o presente mandamus, no qual a Impetrante sustenta que o Paciente faz jus a iniciar o cumprimento da reprimenda privativa de liberdade em regime mais brando, porquanto o fechado foi imposto tão somente em razão da gravidade abstrata do delito pelo qual foi condenado, com base nas circunstâncias próprias do tipo.
+Aduz que deve ser aplicado, na hipótese, o entendimento sedimentado nas Súmulas 440 do STJ e 718 e 719, ambas da Suprema Corte.
+Requer, liminarmente e no mérito, a fixação do regime semiaberto como inicial para o cumprimento da reprimenda privativa de liberdade imposta.
+O pedido liminar foi deferido às fls. 37-39.
+As informações foram prestadas às fls. 45-49.
+O Ministério Público Federal opinou pela concessão da ordem, de ofício, confirmando-se a liminar deferida (fls. 53-54).
+É o relatório. Decido.
+O Magistrado de origem, na sentença condenatória, assim fundamentou a fixação do regime inicial fechado (fl. 22):
+"Nos termos do artigo 33, §3º, do Código Penal, o regime inicial de cumprimento da pena deverá ser o FECHADO.
+Isto porque, o regime prisional inicial fechado é o mais adequado e também merece manutenção, considerada a finalidade primária de prevenção e reprovação da conduta criminosa, além da gravidade de tal conduta típica, fato que causa clamor público e instabilidade na paz social, constituindo uma resposta mais efetiva à criminalidade violenta, mormente considerando a crescente onda de roubo a mão armada e de crimes violentos que assolam o País. O Tribunal tem decidido reiteradamente que o regime fechado é o único aplicável a autor de roubo, ainda que primário o agente e independentemente da quantidade da pena aplicável (Ap. nº1.205.473/2 e 1.183.025/6 e também STF, RJTACrim 39/571 e no mesmo sentido [NOME] 186/286, 188/315; RJTACrim 42/242, 43/222,44/137)."
+O Tribunal a quo manteve o entendimento do Juiz de primeiro grau, sob o seguinte fundamento (fls. 31-32):
+"O regime prisional é mesmo o inicialmente fechado, pois é o que mais se coaduna à espécie, na medida em que "tratando-se de crime de roubo qualificado, é correta a fixação do regime inicial fechado, mesmo se os réus forem primários e não houver prova da existência de maus antecedentes, pois devem-se levar em conta as circunstâncias do delito que, no caso, vem causando grande comoção social" (Julio Fabbrini Mirabete, in "Execução Penal", Ed. Atlas, 11ª edição, 2008, pág. 326).
+Importante consignar, a propósito, que não há qualquer ilegalidade na fixação do regime inicial como fechado, e nem ofensa às Súmulas 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais concretamente aferidas (em concurso de agentes; restrição de liberdade), devidamente extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade."
+A fixação de regime mais gravoso deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal ou de outro elemento que demonstre a extrapolação da normalidade do tipo. Nesse sentido, são os enunciados das Súmulas n.os 440 do STJ, 718 e 719, ambas do STF, que assim dispõem, respectivamente:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Na hipótese vertente, o Tribunal de origem, apesar de reconhecer a primariedade do Paciente, manteve o regime inicial fechado.
+O art. 33, § 2.º, alínea b, do Código Penal dispõe que "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto".
+Ademais:
+"A grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no artigo 33, § 2º, do CP, haja vista tais circunstâncias já terem sido sopesadas pelo legislador quando da definição das penas em abstrato" (AgRg no REsp 1.563.247/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 11/3/2016.)
+No caso, o Paciente é primário, não tendo sido valorada negativamente nenhuma vetorial do art. 59 do Código Penal na fixação da pena-base e imposta a pena final de 5 (cinco) anos e 6 (seis) meses de reclusão, cabível o regime segundo o quantum da pena aplicada, portanto, o semiaberto, uma vez que a fundamentação lançada pelas instâncias ordinárias para fixar o regime inicial mais gravoso não extrapola o tipo penal do crime de roubo majorado.
+Ante o exposto, CONCEDO a ordem de habeas corpus, a fim de confirmar a liminar deferida e fixar, em definitivo, o regime semiaberto para início de cumprimento de pena.
+Publique-se. Intimem-se.
