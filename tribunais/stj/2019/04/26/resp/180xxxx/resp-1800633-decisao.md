@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por LIGHT SERVIÇOS DE ELETRICIDADE S.A., fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação de reintegração de posse. Decisão que rejeitou impugnação e homologou os honorários periciais. Interlocutória que não desafia agravo de instrumento, dado não corresponder a qualquer das hipóteses previstas no rol taxativo do art. 1.015 do CPC/15. Precedentes.
+Recurso de que não se conhece"(e-STJ fl. 25).
+No recurso especial, a recorrente alega violação do artigo 1.015 do Código de Processo Civil de 2015.
+Sustenta, em síntese, que "não há, de fato, outro meio adequado para impugnar eficazmente a decisão que homologa os honorários periciais sem causar prejuízo demasiado à parte que não terá oportunidade de reaver a verba honorária em caso de vencer a demanda".
+Aduz que os honorários periciais foram homologados em valor absurdamente excessivo e que devem ser fixados de acordo com o princípio da razoabilidade e da proporcionalidade.
+Apresentadas as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece provimento.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O Superior Tribunal de Justiça, ao processar e julgar sob o rito dos recursos repetitivos o REsp nº 1.704.520/MT, Relatora Ministra Nancy Andrighi, DJe 19/12/2018, assim decidiu:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. NATUREZA JURÍDICA DO ROL DO ART. 1.015 DO CPC/2015. IMPUGNAÇÃO IMEDIATA DE DECISÕES INTERLOCUTÓRIAS NÃO PREVISTAS NOS INCISOS DO REFERIDO DISPOSITIVO LEGAL. POSSIBILIDADE. TAXATIVIDADE MITIGADA. EXCEPCIONALIDADE DA IMPUGNAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. REQUISITOS.
+1- O propósito do presente recurso especial, processado e julgado sob o rito dos recursos repetitivos, é definir a natureza jurídica do rol do art. 1.015 do CPC/15 e verificar a possibilidade de sua interpretação extensiva, analógica ou exemplificativa, a fim de admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente previstas nos incisos do referido dispositivo legal.
+2- Ao restringir a recorribilidade das decisões interlocutórias proferidas na fase de conhecimento do procedimento comum e dos procedimentos especiais, exceção feita ao inventário, pretendeu o legislador salvaguardar apenas as "situações que, realmente, não podem aguardar rediscussão futura em eventual recurso de apelação".
+3- A enunciação, em rol pretensamente exaustivo, das hipóteses em que o agravo de instrumento seria cabível revela-se, na esteira da majoritária doutrina e jurisprudência, insuficiente e em desconformidade com as normas fundamentais do processo civil, na medida em que sobrevivem questões urgentes fora da lista do art.
+1.015 do CPC e que tornam inviável a interpretação de que o referido rol seria absolutamente taxativo e que deveria ser lido de modo restritivo.
+4- A tese de que o rol do art. 1.015 do CPC seria taxativo, mas admitiria interpretações extensivas ou analógicas, mostra-se igualmente ineficaz para a conferir ao referido dispositivo uma interpretação em sintonia com as normas fundamentais do processo civil, seja porque ainda remanescerão hipóteses em que não será possível extrair o cabimento do agravo das situações enunciadas no rol, seja porque o uso da interpretação extensiva ou da analogia pode desnaturar a essência de institutos jurídicos ontologicamente distintos.
+5- A tese de que o rol do art. 1.015 do CPC seria meramente exemplificativo, por sua vez, resultaria na repristinação do regime recursal das interlocutórias que vigorava no CPC/73 e que fora conscientemente modificado pelo legislador do novo CPC, de modo que estaria o Poder Judiciário, nessa hipótese, substituindo a atividade e a vontade expressamente externada pelo Poder Legislativo.
+6- Assim, nos termos do art. 1.036 e seguintes do CPC/2015, fixa-se a seguinte tese jurídica: O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+7- Embora não haja risco de as partes que confiaram na absoluta taxatividade com interpretação restritiva serem surpreendidas pela tese jurídica firmada neste recurso especial repetitivo, eis que somente se cogitará de preclusão nas hipóteses em que o recurso eventualmente interposto pela parte tenha sido admitido pelo Tribunal, estabelece-se neste ato um regime de transição que modula os efeitos da presente decisão, a fim de que a tese jurídica somente seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão.
+8- Na hipótese, dá-se provimento em parte ao recurso especial para determinar ao TJ/MT que, observados os demais pressupostos de admissibilidade, conheça e dê regular prosseguimento ao agravo de instrumento no que tange à competência.
+9- Recurso especial conhecido e provido" (grifou-se).
+No presente caso, não se observa situação de urgência ou o risco do perecimento do direito.
+Assim, o agravo de instrumento apresentado na origem não merece conhecimento, pois versa sobre decisão que homologou os honorários periciais, não se enquadrando na hipótese de redistribuição do ônus da prova. Não se trata de questão relativa ao mérito do processo, nem há previsão expressa em lei para o cabimento do agravo de instrumento em situações como a presente, havendo que ser levada a exame em preliminar de apelação, nos termos do art. 1.009, 1º do CPC/2015.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
