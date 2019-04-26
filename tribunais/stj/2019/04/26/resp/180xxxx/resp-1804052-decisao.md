@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. VALOR ARBITRADO OBSERVADOS OS CRITÉRIOS DO ARTIGO 20, §4º, DO CPC/1973. PEDIDO DE MAJORAÇÃO. ARTIGO 85 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDOS POR VIOLADO. SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TJPA, assim ementado (fl. 975):
+APELAÇÃO. PEDIDO DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS ARBITRADOS. VALOR ARBITRADO POR EQUIDADE EM OBSERVÂNCIA DOS CRITÉRIOS DO ART. 20, § 4º, CPC RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+1. Os honorários sucumbenciais devem ser arbitrados consoante apreciação equitativa do juiz (art. , , do /73), que os definirá considerando o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço no caso.
+2. Nesse contexto, consoante apreciação equitativa do juiz, a que se refere o parágrafo 4º do art. 20 do CPC, tenho que a quantia de R$ 2.000,00 (dois mil reais) é razoável a título de honorários, levando-se em consideração a ausência de complexidade da matéria.
+3. Demais disso, sabe-se que a eqüitativa apreciação do juiz, representa uma liberalidade do julgador atendidas as normas de a a c, do parágrafo 3º do mesmo artigo, para fixar os honorários, sem que esteja obrigado a obedecer aos limites mínimos de 10% ou no máximo de 20%.
+4. RECURSO CONHECIDO E IMPROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 85 do CPC/2015, na medida em que os honorários advocatícios foram fixados em um valor muito abaixo do disposto no dispositivo legal, em R$ 2.000,00 (dois mil reais), o que equivale a 0,75% do montante não atualizado da demanda.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 1.012.
+Compulsando os autos, verifica-se que a sentença fixou os honorários advocatícios conforme artigo 20, §4º, do CPC/1973. A Corte de origem manteve esse ponto da sentença, ao asseverar que "Isto posto, a fixação dos honorários advocatícios atendeu aos parâmetros previstos no art. 20, §4º do Código de Processo Civil, não havendo razão para majoração da verba" (fls. 979).
+O Estado do Paraná interpôs embargos de declaração suscitando que o acórdão foi omisso no que tange ao ponto fucral das razões de apelação do autor, que seria a impossibilidade de aceitar a condenação de 0,75% como honorários não irrisórios, ou seja, a fixação no caso dos autos se deu em valor inferior aos parâmetros percentuais consignados nos §§ 3º e 4º, do artigo 20, do CPC/1973.
+Os embargos de declaração foram rejeitados, sendo destacado que (fls. 996):
+No caso concreto, enfrentei as razões do apelo, ratificando como correta a apreciação equitativa do juizo de primeiro grau, a que se refere o parágrafo 4º do art. 20 do CPC/73, tendo em vista, dentre outros critérios, a ausência de complexidade da causa; razão pela qual, considerei que a quantia de R$ 2.000,00 (dois mil reais), a qual revela-se suficiente para remunerar o trabalho do causídico, até mesmo porque, quando a Fazenda Pública tem que arcar com os honorários de sucumbência, igualmente a fixação não é feita pelo valor da causa para não onerar os cofres públicos.
+Ressalto, ainda, que, habitualmente, quando a fazenda estadual é condenada em honorários, ainda que em valor ínfimo, ao contrário do que agora busca o embargante, quase sempre interpõe recurso para tentar minorar mais ainda o valor arbitrado, mesmo que irrisória tal quantia.
+Portanto, é cediço no Superior Tribunal de Justiça ser condição imprescindível ao conhecimento do recurso especial que tenham sido ventilados, ainda que implicitamente, no contexto do acórdão combatido, os dispositivos legais indicados como malferidos, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão, de modo que se possa reconhecer qual norma direcionou o decisum objurgado.
+Todavia, no caso em exame, tal circunstância não se concretizou. Com efeito, evidencia-se que o artigo 85 do CPC/2015 não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
