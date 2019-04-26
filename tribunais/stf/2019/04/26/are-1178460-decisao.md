@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido pela Presidência do Supremo Tribunal Federal para que se cumprisse o disposto no art. 1.030 do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 965, cujo paradigma é o RE-RG 1.039.644. (eDOC 6)
+    Encaminhados os autos ao Tribunal de origem, a Presidência da Seção de Direito Público os devolveu por entender que a discussão não se amoldaria aos paradigmas indicados. (eDOC 8, p. 1)
+    A Presidência desta Corte então tornou sem efeito a decisão constante do eDOC 6 e determinou a distribuição do recurso. (eDOC 11)
+    Passo à sua apreciação.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Agravo de Instrumento. Cumprimento Provisório de Sentença. Alegação de preclusão do tema. Não ocorrência. Correção dos cálculos da aposentadoria. Decisão mantida. Recurso improvido”. (eDOC 3, p. 145)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 40, § 1º, III, a e § 5º, do texto constitucional.
+    Nas razões recursais, alega-se que a decisão judicial executada provisoriamente teria determinado o cálculo da aposentadoria pela média das contribuições, não podendo o juízo da execução determinar o cálculo pela paridade. (eDOC 3, p. 155)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou que o título executivo judicial não determinara a forma de cálculo da aposentadoria. Nesse sentido, extrai-se o seguinte trecho da decisão mantida por seus próprios fundamentos pelo acórdão impugnado:
+    “[...] rejeito a arguição de ofensa à coisa julgada. A sentença proferida nos autos principais não determinou acerca da paridade/integralidade dos proventos. A menção ao artigo 40, § 1º, inciso III, alínea "a" e § 5º da CF/88, na decisão de fls. 215, apenas teve por fim esclarecer que se tratava de aposentadoria voluntária de professora, portanto com redução de idade e tempo de contribuição exigidos.
+    Logo, não se determinou a forma de cálculo da renda inicial, posto que para tanto seria imprescindível analisar as regras de transição previstas nas Emendas Constitucionais 20/98 e 41/03, o que não se fez.
+    Permanece válido, consequentemente, o apontamento feito na decisão de fls. 146/147 deste incidente, no sentido de ser ‘pertinente solucionar a questão aqui mesmo, não sendo razoável encaminhar as partes para nova discussão em ação autônoma’, porquanto não ‘deliberar sobre questão omissa que impede correto cumprimento da decisão resulta, de certa forma, em negativa de prestação Jurisdicional’. (eDOC 3, p. 146)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Por outro lado, o Tribunal de origem também consignou, diante do conjunto probatório constante dos autos, que a recorrida estaria enquadrada na regra de transição do art. 6º da EC 41/2003. Nesse sentido, extrai-se o seguinte trecho da decisão mantida por seus próprios fundamentos pelo acórdão impugnado:
+    “Somou, portanto, 27 anos, 04 meses e 15 dias de contribuição no serviço público, tempo superior aos 25 anos de contribuição (redução de 05 anos em razão das normas especiais) e 20 anos de serviço público legalmente exigidos (artigo 109 da Lei Municipal 4804/06 e artigo 6º da Emenda Constitucional 41/03).
+    Ainda segundo certidão de fls.166, fornecida pela própria requerida, a data da posse no cargo efetivo é indicada como sendo em 01/03/2000, de modo que possui mais de 10 anos na carreira, bem como tempo superior a 05 anos no cargo efetivo em que se aposentou.
+    Por fim, nascida em 17/10/1963 (fls.21 dos autos principais), contava com 52 anos quando apresentou o requerimento administrativo junto ao Instituto de Previdência Municipal (fls.160 dos autos principais), idade superior aos 50 anos exigidos (redução de 05 anos em razão das normas especiais).
+    Consequentemente, preencheu os requisitos legais contidos nas regras de transição previstas no artigo 109 da Lei Municipal 4804/06 e no artigo 6º da Emenda Constitucional 41/03, o que lhe garante o direito de se aposentar com proventos integrais, correspondentes à totalidade da sua remuneração no cargo efetivo em que se deu a aposentadoria.” (eDOC 3, p. 147)
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSÃO ESPECIAL. REVERSÃO DO BENEFÍCIO A FILHAS DE EX-COMBATENTE. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. PRECEDENTES. NECESSIDADE DE COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. (...)”. (RE 794.493 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 19.12.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVENTIAS JUDICIAIS. NOTÁRIOS E REGISTRADORES. APOSENTADORIA. IMPOSSIBILIDADE DE VINCULAÇÃO AO REGIME JURÍDICO PRÓPRIO DOS SERVIDORES PÚBLICOS. PRECEDENTES. PREENCHIMENTO DOS REQUISITOS EM DATA ANTERIOR À EMC 20/1998. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO”. (ARE 800.313 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22.8.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e tendo em vista a ausência de fixação de honorários pela origem (eDOC 3, p. 148), deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 26 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
