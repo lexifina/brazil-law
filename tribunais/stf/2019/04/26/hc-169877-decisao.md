@@ -1,0 +1,27 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Joel Eliseu Galli em favor de Vanderlei Airton da Silva, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 466.047/SC.
+    O paciente foi condenado à pena de 09 (nove) anos de reclusão, em regime inicial fechado, pela prática do crime de atentado violento ao pudor, tipificado no art. 214, c/c art. 224, a, do Código Penal vigente à época dos fatos.
+    Após confirmação da sentença condenatória, em sede de apelação criminal, e trânsito em julgado do título condenatório, o respectivo mandado de prisão em desfavor do paciente foi expedido.
+    Ato contínuo, o Tribunal de Justiça de Santa Catarina não acolheu pedido de revisão criminal manejado pela Defesa.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que não conheceu do HC 466.047/SC.
+    No presente writ, o Impetrante alega afronta ao princípio da correlação entre a denúncia e a sentença condenatória. Sustenta nulidade processual ante a instauração de ação penal pública condicionada sem a representação da vítima. Defende a extinção da punibilidade ante a decadência do direito de representação. Aponta o afastamento da causa de aumento de pena do art. 226, II, do Código Penal. Requer, em medida liminar, a suspensão da execução penal até o julgamento final da presente impetração. No mérito, pugna pela extinção da punibilidade do paciente e, sucessivamente, pela nulidade da Ação Penal 048.05.003234-5 e pelo redimensionamento da pena.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. ATENTADO VIOLENTO AO PUDOR COMETIDO COM PRESUNÇÃO DE VIOLÊNCIA (ART. 214, C/C ART. 224, "A", AMBOS DO CÓDIGO PENAL, VIGENTE À ÉPOCA DOS FATOS). VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO ENTRE A DENÚNCIA E SENTENÇA. INEXISTÊNCIA. FATOS DESCRITOS NA INICIAL. RECONHECIMENTO DA CAUSA DE AUMENTO DE PENA PELO MAGISTRADO. INSTITUTO DA EMENDATIO LIBELLI. POSSÍVEL AUSÊNCIA DE REPRESENTAÇÃO DA OFENDIDA OU DE SEUS FAMILIARES. AUSÊNCIA DE RIGOR FORMAL. REGISTRO DE OCORRÊNCIA POLICIAL. VONTADE DE REPRESENTAR. PRECEDENTES. CONSTRANGIMENTO ILEGAL INEXISTENTE. WRIT NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+    2. Segundo a orientação jurisprudencial desta Corte, "não havendo modificação quanto ao fato descrito na exordial acusatória, como a hipótese presente, pode o magistrado dar nova classificação jurídica ao fato definido na denúncia ao prolatar a sentença (emendatio libelli), prescindindo de aditamento da peça exordial ou mesmo de abertura de prazo para a defesa se manifestar, já que o réu se defende dos fatos narrados pela acusação e não dos dispositivos de lei indicados " (AgRg no REsp 1.129.640/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 15/2/2013).
+    3. O princípio da congruência ou correlação no processo penal estabelece a necessidade de correspondência entre a exposição dos fatos narrados pela acusação e a sentença. Por isso, o réu se defende dos fatos, e não da classificação jurídica da conduta a ele imputada (HC 119.264/STF, Primeira Turma, Rel. Ministra ROSA WEBER, DJe de 5/6/2014).
+    4. No caso dos autos, o Magistrado sentenciante reconheceu a causa de aumento da pena prevista no art. 226, II, do Código Penal, embora não fora capitulada da denúncia. Todavia, a sentença expressamente reconheceu a qualidade de cunhado do réu em relação à vítima menor de idade, assim como descrito pelo Parquet, bem como sua autoridade parental, portanto, não houve alteração da base fática relatada pelo Órgão Ministerial.
+    5. De acordo com entendimento já pacificado nesta Corte Superior de Justiça, a representação da vítima ou de seus representantes legais para a investigação ou deflagração de ação penal prescinde de qualquer rigor formal, bastando a demonstração inequívoca de que a vítima tem interesse na persecução penal, o que ocorreu na hipótese dos autos, visto que a ofendida, acompanhada de seus familiares, dirigiu-se até a Promotoria local para narrar o ocorrido, bem como ratificou suas declarações posteriormente perante a autoridade policial e se submeteu a exame pericial junto ao Serviço Médico Legal.
+    6. Habeas corpus não conhecido”.
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata suspensão da execução penal.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Determino seja retificada a autuação, a fim de inserir o nome completo da paciente, observada a ratio das Resoluções 458, de 22.3.2011, 501, de 17.4.2013, e 579, de 25.5.2016, desta Suprema Corte.
+    Publique-se.
+    Brasília, 26 de abril de 2019.
+Ministra Rosa Weber
+Relatora
