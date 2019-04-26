@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SENTENÇA DE PROCEDÊNCIA.
+AGRAVO RETIDO. INTERESSE DE AGIR NO PLEITO DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE DESRESPEITO ÀS REGRAS LEGAIS DA EXIBIÇÃO DE DOCUMENTOS. AVENTADA FALTA DE COMPROVAÇÃO DE FATO CONSTITUTIVO DO DIREITO DO AUTOR. INOCORRÉNCIA. INICIAL QUE SE FEZ ACOMPANHAR DE DOCUMENTO SUFICIENTE À COMPROVAÇÃO DA EXISTÊNCIA DE RELAÇÃO JURÍDICA ENTRE AS PARTES. RECURSO NÃO PROVIDO. APELAÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA. PRESCRIÇÃO.
+MATÉRIA APRECIADA PELO STJ EM DECISÃO PROFERIDA COM BASE NA LEI DOS RECURSOS REPETITIVOS. INTELIGÊNCIA DOS ARTS. 177 DO CÓDIGO CIVIL DE 1916 E 205 E 2.028 DO NOVO CÓDIGO CIVIL. NÃO CONFIGURAÇÃO. PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. DIREITO À COMPLEMENTAÇÃO. COMPOSIÇÃO, AINDA, DOS DANOS SOFRIDOS. CONTRATO FIRMADO PELO PLANO DE ATENDIMENTO INTEGRAL DA DEMANDA (PAID) QUE NÃO RETIRA O DIREITO DO AUTOR Á INDENIZAÇÃO. CRITÉRIO PARA O CÁLCULO DA QUANTIDADE DAS AÇÕES. SÚMULA Nº 371 DO STJ.
+RECURSO ACOLHIDO NESTA PARTE PARA ESTABELECER QUE O VPA DEVE SER APURADO COM BASE NO BALANCETE DO MÊS DO PRIMEIRO OU ÚNICO PAGAMENTO. PRESCRIÇÃO DOS DIVIDENDOS. NÃO VERIFICAÇÃO. PRAZO DO ART.
+206, § 32, III, DO CC/2002 QUE PASSA A FLUIR SOMENTE APÓS O RECONHECIMENTO DO DIREITO ÀS AÇÕES RECLAMADAS. JUROS DE MORA DEVIDOS A PARTIR DA CITAÇÃO. PRETENDIDA LIQUIDAÇÃO POR ARBITRAMENTO OU POR ARTIGOS.
+IMPROCEDÊNCIA. POSSIBILIDADE DE APURAÇÃO DO QUANTUM POR SIMPLES CÁLCULO. GRUPAMENTO DE AÇÕES. MATÉRIA QUE NÃO PODE IMPLICAR EM ÓBICE PARA A INDENIZAÇÃO PRETENDIDA. AGRAVO RETIDO NÃO PROVIDO E APELAÇÃO PARCIALMENTE PROVIDA" (fls. 883/884 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente sustenta, além da divergência jurisprudencial, violação dos artigos 100, § 1º, da Lei nº 6.404/1976; 884 a 886 do Código Civil; 333 do Código de Processo Civil de 1973.
+Afirma que a falta de comprovação de prévio requerimento administrativo para a exibição dos documentos, com o devido pagamento da taxa respectiva do serviço, obsta o pedido de exibição incidental, nos termos do que preconiza a Súmula nº 389/STJ. Registra, ainda, que o agravado não comprovou a relação jurídica. Por fim, afirma que o cálculo dos valores devidos deve considerar a cotação das ações na data do trânsito em julgado, assim como atender ao grupamento acionário.
+Sem contrarrazões, o recurso foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+De fato, apresenta-se equivocado o acórdão recorrido quando afirma que:
+"(..) , não se pode perder de vista que o entendimento sumular invocado refere-se às ações de exibição de documentos e não às ações ordinárias, como a presente. Assim, conquanto exista entendimento em sentido contrário, prevalece o posicionamento no sentido de que nas ações de adimplemento contratual é dispensável o prévio requerimento administrativo de exibição de documentos, por ser um pedido incidental realizado para instruir a ação ordinária" (fls. 887/888 e-STJ).
+Com efeito, a jurisprudência desta Corte acabou se firmando no sentido de que "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira" (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/5/2016).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido" (AgInt no REsp 1.331.352/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/12/2016).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE AÇÕES. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. SÚMULA 389 DO STJ. APLICABILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes." (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/05/2016, DJe 27/05/2016).
+2. Agravo interno não provido" (AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1º/12/2016).
+Inconteste, portanto, a incompatibilidade do entendimento firmado na origem com a orientação do Superior Tribunal de Justiça.
+Ante o exposto, dou provimento ao recurso especial, para extinguir o feito por ausência de interesse de agir da parte recorrida. Condeno o recorrido ao pagamento das custas e honorários advocatícios de 10% (dez por cento) do valor atualizado da causa, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
