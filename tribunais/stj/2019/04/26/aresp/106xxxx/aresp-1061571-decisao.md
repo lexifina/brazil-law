@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por EMPRESVI ZELADORIA PATRIMONIAL LTDA., contra decisão que não admitiu recurso especial (fl. 363 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 315/316, e-STJ):
+Cobrança - Prestação de serviços de portaria - Afirmado pela autora ser o condomínio réu devedor das faturas de serviços relativas aos meses de outubro, novembro e dezembro de 2004 e janeiro de 2005 - Tese exposta na inicial que não se mostrou verossímil - Autora que não comprovou a alegação de que teria negociado esses débitos com o condomínio réu, no valor total de R$ 15.891,20 - Planilha de cálculo anexada à exordial insuficiente para comprovação do direito da autora à pretendida cobrança Art. 333,1, do CPC.
+Cobrança - Prestação de serviços de portaria - Fatura de julho de 2005, que, segundo a autora, não foi integralmente paga pelo réu - Autora que não comprovou o valor pago pelo condomínio réu, conseguintemente, o valor que lhe restaria devido a esse título  Mera planilha de cálculo insuficiente para demonstrar o pretendido crédito pela autora.
+Cobrança - Prestação de serviço de portaria - Alegado pela autora ter prestado serviços de faxineiro ao condomínio réu no período de novembro de 2005 a fevereiro de 2007 - Contrato celebrado entre as partes específico de serviços de portaria - Autora, ademais, que não juntou aos autos qualquer fatura demonstrando a cobrança desses serviços - Autora que tampouco esclareceu como chegou ao valor pretendido  Contraprestação que demandava prévio e formal ajuste entre as partes, o que não foi evidenciado nela autora.
+Cobrança  Prestação de serviço de portaria - Dívida confessada pelo condomínio réu, concernente aos vinte dias do mês de maio de 2007 e ao período de aviso prévio, que deve consistir no valor líquido das notas fiscais de serviços emitidas pela autora - Encargos tributários cuja responsabilidade incumbia à autora - Sentença reformada nesse ponto.
+Sucumbência  Verba honorária - Procedência parcial da ação - Sucumbência recíproca e na proporção de 50% para cada uma das parles - Apelo do réu provido em parte, desprovido o apelo da autora.
+Opostos embargos de declaração, foram acolhidos (fls. 333/338, e-STJ).
+Em suas razões de recurso especial, a recorrente, ora agravante, aponta ofensa aos artigos 333 e 334, do CPC/73 e 320, do CC/02. Sustenta, em síntese, que o crédito em razão da prestação do serviço prestado foi confessado, de maneira que a ausência de apresentação de recibos de pagamento pela parte recorrida deve ensejar a total procedência do pedido de cobrança.
+Contrarrazões às fls. 354/361, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do apelo especial, sob argumento de não ter sido demonstrada a vulneração dos dispositivos citados.
+Daí o presente agravo (fls. 366/370, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a recorrente objetiva refutar o óbice aplicado pela Corte estadual.
+Contraminuta às fls. 373/378, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. No que respeita à afronta do disposto no artigo 320, do CC/02, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência de prequestionamento, porquanto não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+2. Ademais, não há como aferir eventual ofensa aos arts. 333 e 334, do CPC/73 sem o reexame fático-probatório do processo.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Não constatada a alegada violação aos arts. 485, VI e 489, II, do CPC/15, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente, ainda que em sentido contrário à pretensão recursal.
+2. Na hipótese, derruir as conclusões do acórdão recorrido, no sentido de afastar o reconhecimento da responsabilidade civil dos agravantes, bem como do dever de indenizar, demandaria o reexame do acervo fático-probatório dos autos, providência vedada na estreita via do recurso especial, a teor do disposto na Súmula 7 do STJ.
+Precedentes.
+3. A Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1372751/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/03/2019, DJe 21/03/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. DESCABIMENTO. JULGAMENTO EXTRA PETITA NÃO CONFIGURADO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou (fl. 328, e-STJ): "a atividade desenvolvida pela requerente/apelante não se caracteriza como insalubre (f. 78-81 e 149-156), não fazendo jus, portanto, a qualquer adicional de insalubridade. Logo, se ausente o principal - direito a adicional de insalubridade - não há o consectário - pagamento de diferenças dele decorrentes. Não deveria ter a requerente/apelante recebido qualquer adicional de insalubridade vez que desempenha a mesma atividade desde quando assumiu o cargo público, considerada não insalubre".
+2. Não configurou julgamento extra petita a decisão do Tribunal de origem que apreciou o pleito inicial interpretado em consonância com a pretensão deduzida na exordial como um todo. Sendo assim, não ocorre julgamento ultra petita se a Corte a quo decide questão que é reflexo do pedido na Inicial.
+3. Não há como aferir eventual ofensa ao art. 333 e 334, IV, do CPC sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice na Súmula 7 do STJ 4. O Sodalício local foi expresso ao afirmar que a atividade desenvolvida pela ora recorrente não se caracteriza como insalubre, motivo pelo qual não faz jus ao pleiteado adicional. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1694460/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PÚBLICOS DE ENFERMEIRO. VIOLAÇÃO DO ART. 535, INCISO II, DO CPC/73 E ART. 10 DA LEI N. 8.112/90. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ÔNUS DA PROVA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - O recurso especial que indica violação de dispositivo de lei federal, mas traz somente alegações genéricas, é deficiente em sua fundamentação, o que atrai o óbice do enunciado n. 284 da Súmula do Supremo Tribunal Federal, aplicada por analogia.
+II - Não há como aferir a violação dos arts. 333 e 334 do Código de Processo Civil de 1973, sem adentrar no acervo fático-probatório dos autos e sem que se faça a reanálise de provas ao reexame. Incidência do enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+(AgInt no AREsp 1017440/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 21/09/2017, DJe 04/10/2017)
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
