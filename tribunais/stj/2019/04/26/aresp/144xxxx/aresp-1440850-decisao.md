@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.BENEFÍCIO PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. COMPENSAÇÃO COM PERÍODOS LABORADOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS DE LEI FEDERAL TIDOS POR VIOLADOS. SÚMULA 211/STJ. PRECLUSÃO DA POSSIBILIDADE DE ALEGAÇÃO, EM EMBARGOS DE EXECUÇÃO DE MATÉRIA NÃO ABORDADA NO PROCESSO DE CONHECIMENTO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 62, e-STJ):
+EXECUÇÃO. AUXÍLIO -DOENÇA. DESCONTO DO PERÍODO DE PRESTAÇÃO LABORATIVA. AUSÊNCIA DE COMPENSAÇÃO NO TÍTULO EXECUTIVO OU FATO SUPERVENIENTE. OBEDIÊNCIA. COISA JULGADA.
+- O magistrado, na fase de execução, está adstrito à imutabilidade da coisa julgada (art. 5º, XXXVI, da Constituição Federal) e ao conteúdo do título executivo.
+- O título judicial em execução não determinou a compensação de eventuais parcelas atrasadas a serem pagas nos períodos em que a parte autora exerceu atividade laborativa. Obediência à coisa julgada.
+- A autarquia previdenciária dispunha das informações referentes ao alegado vínculo empregatício do exequente já na fase de conhecimento, pois constavam da base de dados do Cadastro Nacional de Informações Sociais - CNIS.
+- Apelação da autarquia previdenciária desprovida.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 42, 46, 59, 60, 61, 62 e 63 da Lei n. 8.213/1991, sustentando que o beneficio por incapacidade é devido ao segurado que se encontre incapaz para o exercício de atividade laborativa, uma vez que verificada sua capacidade, não há direito à benesse.
+Alega ainda que, evidenciado nos autos que, após o termo inicial fixado para o beneficio, a parte recorrida exerceu atividade laborativa, não é devido o benefício por incapacidade no período em que houve labor efetivo do segurado.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Primeiramente, no que pertine a alegada violação dos artigos 42, 46, 59, 60, 61, 62 e 63 da Lei n. 8.213/1991 e assim como a tese de que o exercício da atividade laborativa inviabiliza o recebimento de benefício por incapacidade, observa-se que o conteúdo normativo dos referidos dispositivos, e a tese a eles relacionadas, não foram apreciados, e, apesar da oposição de embargos de declaração, não serviram de sustentáculo à conclusão a que chegou a Corte de origem, no caso em análise. Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Ademais, colhe-se do voto condutor do acórdão recorrido que as razões de impossibilidade de percepção do benefício durante exercício laborativo por parte do exequente poderiam, mas não foram suscitadas durante a fase de cognição, o que torna impossível de ser revista em sede de execução, por força da coisa julgada, verbis (fl. 60, e-STJ):
+Com efeito, a liquidação deverá sempre se ater aos termos e limites estabelecidos na r. sentença e no v. acórdão. Mesmo que as partes tivessem assentido com a liquidação, não estaria o Juiz obrigado a acolhê-la nos termos em que apresentada se em desacordo com a coisa julgada, com o que se impede "que a execução ultrapasse os limites da pretensão a executar" (RTFR 162/37). Veja-se também: RT 160/138; STJ-RF 315/132. Além disso, verifica-se que o embargante dispunha das informações referentes ao alegado vínculo empregatício do exequente já na fase de conhecimento, pois constavam da base de dados do Cadastro Nacional de Informações Sociais - CNIS (fl. 21/22). (grifos acrescidos).
+Assim, tendo em vista que a autarquia previdenciária não requereu, durante a fase de conhecimento, o desconto do período em que a parte autora manteve atividade laborativa, nem comprovou fato superveniente à sentença, é indevida a compensação, ante ofensa à coisa julgada.
+O recorrente, ao direcionar a sua tese no sentido de que "são necessários os descontos dos períodos de trabalho após os termos iniciais dos benefícios fixados judicialmente, que não podem ser cumulados com benefícios de incapacidade" (fls. 83/92, e-STJ), deixou de impugnar a referida fundamentação nas razões do recurso especial, o que torna inadmissível o recurso que não a impugnou. Aplica-se ao caso as Súmulas 283 e 284/STF.
+Majoro em 10% (dez por cento) os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial
+Publique-se. Intimem-se.
