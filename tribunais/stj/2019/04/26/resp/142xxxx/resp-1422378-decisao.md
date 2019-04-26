@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 235):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO MENOR. DEPENDÊNCIA ECONÔMICA PRESUMIDA. TERMO INICIAL. DATA DO ÓBITO. CARÊNCIA DE AÇÃO. NÃO CONFIGURADA.
+1. O termo inicial do benefício deve ser fixado de acordo com as leis vigentes por ocasião do óbito. Considerando que o óbito ocorreu em data anterior à vigência do art. 74 da LBPS, o termo inicial do benefício deve ser fixado na data do óbito.
+2. Não configurada a falta de interesse de agir da parte autora. Isso porque foi efetuado o pedido na via administrativa, como pode ser visto no documento de fl. 35.
+Os embargos de declaração (e-STJ, fls. 238-240) tiveram provimento negado, nos termos da decisão de e-STJ, fls. 241-244.
+O recorrente alega violação do disposto no art. 77 da Lei n. 8.213/1991.
+Sustenta que, sendo dois filhos do falecido, o benefício deve ser concedido aos dois, na proporção de 50% para cada.
+Sem contrarrazões.
+Admitido o recurso especial na origem (e-STJ, fl. 254), subiram os autos a esta Corte de Justiça.
+É o relatório.
+O recurso não merece êxito.
+O Tribunal de origem, ao analisar o direito à pensão por morte dos dependentes do falecido, fundamentou (e-STJ, fls. 231-233):
+A sentença da lavra da Juíza de Direito Joana Tonetti Biazus julgou parcialmente procedente a ação reconhecendo o direito à pensão por morte ao filho menor [NOME] e indeferindo o pleito em relação à autora [NOME] (na condição de companheira), ante a ausência da qualidade de dependente desta com relação ao falecido, nos seguintes termos:
+ ..
+A prova dos autos é suficiente para demonstrar que o falecido, na época do seu óbito, mantinha a qualidade de segurado conforme documentos de fls. 45/46. O autor, por ser filho menor do falecido, é seu dependente econômico presumidamente, devendo ser mantida a sentença de procedência da ação.
+Quanto ao termo inicial do benefício, deve ser fixado de acordo com as leis vigentes por ocasião do óbito. Antes da Lei 9.528/97, de 10/12/1997, o benefício era devido a contar do falecimento, independente da data do requerimento.
+Assim, o autor tem direito ao recebimento do benefício a contar do óbito de seu pai, em 06/08/1997, como requerido em apelo. Considerando-se que o autor, era absolutamente incapaz (contava com 15 anos) por ocasião do ajuizamento da ação, não correndo contra ele o prazo prescricional (art. 198,1 do CCB).
+Nota-se que a decisão recorrida manteve a concessão do benefício fixado na sentença, ajustando-lhe o termo inicial. Ressalta-se que nos autos não se discute que o falecido possuía dois filhos menores, beneficiários legais, nem que a pensão por morte deveria ser dividida na proporção de 50% para cada, conforme estabelecido na legislação.
+No caso, o entendimento do Tribunal de origem deve prevalecer, no tocante à concessão do benefício ao filho menor habilitado, pois a questão sobre o outro filho do falecido não foi combatida em recurso de apelação e a alegação somente foi apresentada em embargos de declaração e em recurso especial, constituindo-se em inaceitável inovação recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AOS ARTS. 489 E 1022, DO NOVO CPC. NÃO OCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. NULIDADE NA CONTRATAÇÃO DE PESSOA JURÍDICA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. INOVAÇÃO RECURSAL EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. SUBSUNÇÃO DA CONDUTA À LEI Nº 8429/92. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. FALTA DE SIMILITUDE FÁTICA.
+1. Não há falar em ofensa aos arts. 489, § 1º e 1022, do novo CPC, pois o acórdão decidiu de forma suficientemente fundamentada a controvérsia colocada em discussão. Ademais, é sabido que a mera insatisfação com o conteúdo da decisão embargada não enseja a oposição de aclaratórios.
+2. Não houve manifestação do Tribunal a quo quanto à contratação da pessoa jurídica Planejar Consultores Associados Ltda., tendo em vista que a matéria não foi objeto do recurso de apelação (conforme expressamente reconhecido pelo Tribunal a quo). Assim, a alegação não pode ser analisada na via recursal eleita, tendo em vista a falta de prequestionamento, bem como a ocorrência de vedada inovação recursal.
+3. Foi com base no conjunto fático e probatório constante dos autos que o acórdão recorrido entendeu pela subsunção da conduta à Lei de Improbidade Administrativa, bem como pela presença de elemento subjetivo, pois "ao dispensar reiteradamente a licitação - ainda que sem dolo, mas agindo com culpa - o apelante impediu que a Administração buscasse a proposta mais vantajosa e afastou eventuais interessados na concorrência". A revisão de tais fundamentos é inviável na via recursal eleita, a teor da Súmula 7/STJ.
+4. A incidência do enunciado sumular acima mencionado impede o conhecimento da divergência jurisprudencial suscitada. Além do mais, o precedente indicado como paradigma não guarda similitude fática com o caso em concreto, tendo em vista que aqui se discute a subsunção da conduta ao art. 10, da Lei de Improbidade Administrativo, enquanto ali a discussão teve como base o que dispõe o art. 11, I, do referido diploma legal.
+5. Agravo interno não provido.
+(AgInt no REsp 1.679.035/MG, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 8/2/2018, DJe 27/2/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. FILHA MAIOR E SOLTEIRA. AUSÊNCIA DE OMISSÃO DO JULGADO ESTADUAL. CERCEAMENTO DE DEFESA. INOVAÇÃO RECURSAL.
+1. Afasta-se a alegada ofensa dos arts. 489, § 1º, e 1.022, II, do novo CPC, porquanto a instância ordinária, solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O tema referente ao cerceamento de defesa, inserto nos arts. 130, 131, 400 do CPC/1973, não foi sequer tangenciado pela instância ordinária e, quanto ao ponto, merece ser afastada a alegação de contrariedade aos arts. 489, § 1º e 1.022, II, do CPC/2015, porquanto trata-se de questão inédita, não suscitada na petição de apelação à Corte de origem, mas somente agitada em sede de agravo interno, restando caracterizada a existência de inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.095.220/RJ, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/9/2017, DJe 16/10/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 535 DO CPC. VIOLAÇÃO NÃO CARACTERIZADA. CONCURSO PÚBLICO. INSCRIÇÃO PARA O CARGO DE PROFESSOR DA UNIVERSIDADE FEDERAL DO MARANHÃO. UFMA. EXIGÊNCIA DE DIPLOMA DE GRADUAÇÃO EM FILOSOFIA. CANDIDATO PÓS-GRADUADO NA ÁREA CONCORRIDA. INSCRIÇÃO NO CERTAME. POSSIBILIDADE. REEXAME DE PROVAS E FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 5 E 7 DO STJ E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INOVAÇÃO RECURSAL.
+1. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Da análise das razões do acórdão recorrido, observa-se que o Tribunal de origem, ao dirimir a controvérsia, entendeu que o recorrido se enquadra na habilitação exigida no edital do concurso para professor da Universidade Federal do Maranhão - UFMA. Logo, modificar esse entendimento demandaria a análise das cláusulas do
+edital do certame e a revisão do conjunto probatório dos autos, o que esbarra nos óbices trazidos pelas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. O recurso deve, além de indicar os dispositivos ditos violados, demonstrar o modo como o foram.
+4. A Corte a quo não analisou a matéria recursal à luz do art. 41 da Lei 8.666/1993, apontado como violado. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+5. Ressalte-se que o pronunciamento sobre o mencionado dispositivo só foi arguido pelo agravante nas razões dos embargos de declaração opostos. A pretensão de discussão de tema não deduzido nas razões recursais, e não enfrentado pelo acórdão recorrido, se revela inovação recursal, o que impede o conhecimento do recurso na via eleita.
+Agravo regimental improvido.
+(AgRg no REsp 1.434.918/MA, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/9/2014, DJe 29/9/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
