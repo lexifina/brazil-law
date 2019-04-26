@@ -1,0 +1,29 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS DETERMINADOS EM EXECUÇÃO FISCAL. CONTROLE QUE DEVERÁ SER FEITO PELO JUÍZO RECUPERACIONAL.
+DECISÃO
+Rudiger Multimarcas Ltda., em recuperação judicial, suscita o presente conflito de competência, apontando como suscitados o Juízo de Direito da 2ª Vara Cível de Chapecó/SC e o Tribunal Regional Federal da 4ª Região.
+Alega a suscitante que se encontra atualmente submetida a processo de recuperação judicial (n. 0308601-29.2017.8.24.0018), em curso perante a 2ª Vara Cível de Chapecó/SC.
+Defende, ademais, que, malgrado o deferimento da recuperação, Fazenda Nacional - propôs execução fiscal por inadimplência no pagamento de encargos tributários, com determinação de bloqueio de valores via BACENJUD.
+Diante disso, afirma que "as execuções fiscais não se suspendem, mas também não podem determinar atos que prejudiquem o objetivo da recuperação judicial, pois, caso contrário, o fisco seria privilegiado em detrimento de todos os outros credores, sem dar à empresa oportunidade de se reerguer" (e-STJ, fl. 5).
+Aduz que, "tendo em vista a competência exclusiva do juízo universal da recuperação judicial para analisar essencialidade de bens, situação desrespeitada, salvo melhor juízo, pelo pela r. 1º Turma do Tribunal Regional Federal, 4ª Região, pugna-se pelo provimento do conflito positivo de competência para revogar a decisão de bloqueio do BacenJud proferida nos auto de agravo de nº 5034673-52.2018.4.04.0000 , bem como seja declarado como competente para dirimir questões de expropriação judicial exclusivamente o juízo da recuperação judicial, qual seja a 2º Vara Cível de Chapecó, nos autos sob nº 0308601-29.2017.8.24.00018" (e-STJ, fl. 10).
+Diante disso, pleiteia em caráter de urgência seja "determinada a liberação do bloqueio realizado nos autos de execução fiscal sob n. 5009709- 88.2016.4.04.7202, em trâmite perante a Vara Federal de Chapecó, SC" e, no mérito seja reconhecida a competência do Juízo universal da recuperação judicial.
+A liminar foi deferida (e-STJ, fls. 90-93), e as informações, prestadas (e-STJ, fls. 95-105).
+Instado, o Ministério Público Federal opinou pela competência do Juízo universal (e-STJ, fls. 157-160).
+Brevemente relatado, decido.
+De acordo com o entendimento jurisprudencial consolidado no âmbito desta Seção, embora o deferimento do processamento da recuperação judicial não tenha, por si só, o condão de suspender as execuções fiscais, na dicção do art. 6º, § 7º, da Lei n. 11.101/2005, a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do juízo universal, em homenagem ao princípio da preservação da empresa.
+Não se deve perder de vista que a discussão estabelecida no presente conflito de competência envolve "uma antinomia que assume grande relevância. Por um lado, há a supremacia da execução fiscal, que visa resguardar o indiscutível interesse público representado pelo crédito tributário (art. 6º, § 7º, da Lei n. 11.101/2005). Um outro ângulo da questão, no entanto, revela a existência de um interesse público igualmente considerável na preservação da empresa em dificuldades financeiras, com a manutenção das unidades produtivas e de postos de trabalho" (CC n. 116.213/DF, Relatora a Ministra Nancy Andrighi, DJe de 5/10/2011).
+ A ponderação desses interesses reclama a interpretação sistemática dos dispositivos da Lei de Falências, reconhecendo-se que "a execução fiscal efetivamente não se suspende, mas a pretensão constritiva voltada contra o patrimônio das pessoas jurídicas em recuperação deve ser submetida à análise do juízo universal, evitando-se a frustração da recuperação da empresa" (CC n. 114.987/SP, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 23/3/2011).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO CONFLITO POSITIVO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO FISCAL - COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ - AGRAVO REGIMENTAL DESPROVIDO.
+1. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+2. Embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto mantida essa condição. Precedentes: CC 119.970/RS, rel. min. Nancy Andrighi (DJe de 20/11/2012); CC 107.448/DF, 2ª Seção, Rel. Min. Luis Felipe Salomão, DJe de 27/10/2009.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no CC n. 87.263/RJ, Relator o Ministro Marco Buzzi, DJe de 19/8/2014);
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL EM TRÂMITE NO JUÍZO TRABALHISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DA EMPRESA RECUPERANDA. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO UNIVERSAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 97 DA CF E DE DESRESPEITO À SÚMULA VINCULANTE N. 10/STF. DECISÃO MANTIDA.
+ ..
+2. Apesar de a execução não se suspender em face do deferimento do pedido de recuperação judicial (art. 6º, § 7º, da Lei n. 11.105/2005, art. 187 do CTN e art. 29 da Lei n. 6.830/1980), submetem-se ao crivo do juízo universal os atos de alienação voltados contra o patrimônio social das sociedades empresárias em recuperação, em homenagem ao princípio da preservação da empresa.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC n. 128.044/SC, Relator o Ministro Antonio Carlos Ferreira, DJe de 3/4/2014)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Cível de Chapecó-SC para decidir sobre os atos de constrição no patrimônio da suscitante.
+Publique-se.
