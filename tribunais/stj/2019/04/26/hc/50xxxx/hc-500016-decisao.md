@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de LUIS GABOGENI ALVES DE SOUZA, apontando como autoridade coatora o eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o d. Juízo das Execuções indeferiu o pleito do paciente de progressão ao regime semiaberto e de livramento condicional com fundamento na ausência do requisito subjetivo - gravidade abstrata dos delitos cometidos e na longa pena a cumprir (fl. 36).
+Irresignada, a Defesa interpôs agravo em execução perante o eg. Tribunal de origem, que negou provimento ao recurso conforme o v. acórdão de fls. 88-92.
+No presente writ, afirma, em síntese, que a fundamentação adotada pelas instâncias ordinárias não pode subsistir, porquanto calcada apenas na gravidade abstrata dos delitos cometidos e na longa pena a cumprir pelo sentenciado.
+Requer, ao final, a concessão da ordem, inclusive liminarmente, para conceder o livramento condicional ou, subsidiariamente, promover o paciente ao regime semiaberto.
+O pedido liminar foi indeferido às fls. 76-77.
+As informações foram prestadas às fls. 83 e 85-92.
+O Ministério Público Federal oficiou pelo não conhecimento do writ, em parecer assim ementado (fls. 94-101):
+"HABEAS CORPUS. EXECUÇÃO PENAL.
+PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. Inviável em sede de habeas corpus o exame do preenchimento do requisito subjetivo para a concessão de livramento condiciona ou, subsidiariamente, para fins de progressão de regime prisional, diante da necessidade de dilação probatória. Precedentes.
+3. Parecer pelo não conhecimento do writ."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+No caso dos autos, o d. Juízo de 1º Grau indeferiu os pedidos de progressão de regime e de livramento condicional com os seguintes fundamentos (fl. 36 - grifei):
+"A pretensão é improcedente.
+Com efeito, embora presente o requisito objetivo, o sentenciado não reúne méritos subjetivos para alcançar a progressão bem como o livramento condicional.
+Em que pese a boa conduta carcerária, o sentenciado possui considerável pena por cumprir, com término previsto para 12.02.2032, conforme boletim informativo.
+Ademais, tratando-se de roubos qualificados (crimes praticados mediante violência ou grave ameaça à pessoa), demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+Sendo que diante da situação específica do sentenciado, apesar do atestado de bom comportamento carcerário, não se pode dizer somente com base nele que está preenchido o requisito subjetivo. Isto porque deverá demonstrar de forma clara que desenvolveu mecanismos próprios para frear os seus instintos primitivos a fim de suportar as regras da vida sem vigilância.
+Diante do exposto, INDEFIRO os pedidos de progressão ao regime semiaberto e livramento condicional. A presente serve como intimação, devendo a direção do presídio restituir uma via assinada pelo sentenciado."
+No julgamento do agravo em execução interposto pela Defesa, o eg. Tribunal de Justiça assim fundamentou a decisão que manteve o posicionamento do d. Juízo da Execução (fls. 90-92 - grifei):
+"Inicialmente, não há que se falar em ausência ou inidoneidade de fundamentação.
+Verifica-se às fls. 21 que, ainda que de modo sucinto, a r. decisão fundamentou o indeferimento das benesses executórias pretendidas pelo sentenciado.
+Saliente-se, ademais, que apenas em casos excepcionais deve haver a declaração da falta ou inidoneidade de fundamentação, ou seja, apenas quando não for possível compreender as razões pelas quais o magistrado julgou.
+No caso sub judice, no entanto, apesar de concisa, passa longe de ser inidônea a fundamentação da r. decisão, bastando, para tal conclusão, simples leitura de seu conteúdo.
+(..)
+De resto, os documentos acostados são insuficientes para demonstrar a introjeção das noções mínimas de sociabilidade pelo sentenciado, reveladoras de seu mérito para a obtenção tanto da progressão ao regime intermediário, como do livramento condicional.
+Com efeito, a concessão desses benefícios não constituem um direito absoluto do sentenciado, condicionando-se à segurança da sociedade, não bastando apenas o preenchimento do requisito objetivo, mas, antes, ao implemento da condição subjetiva, na medida em que o deferimento de qualquer benesse ao preso subordina-se à análise aprofundada de suas condições pessoais, pois o meio social não pode e nem deve servir de "laboratório", onde se vá testar a aparente 1 "recuperação" de perigosos delinqüentes .
+E no caso vertente, os elementos informativos assinalam que o reeducando ainda não internalizou as noções elementares de sociabilidade e disciplina, denotando personalidade deformada e voltada para a criminalidade, fatores que não se coadunam com requisitos necessários à concessão da benesse pretendida, na qual se retorna ao seio social com menor vigilância.
+Depreende-se do incluso Boletim Informativo (fls. 15/17) que o ora agravante cumpre longa pena de 20 (vinte) anos, 08 (oito) meses e 24 (vinte e quatro) dias de reclusão, pela prática de crime grave (roubos majorados), cujo vencimento está previsto somente para o dia 12.02.2032.
+Destarte, insuficientes os elementos probantes a comprovar o efetivo preenchimento do requisito subjetivo, porquanto se depreende seu acentuado desajuste comportamental, temerária a promoção do sentenciado ao regime intermediário e, muito menos, ao livramento condicional, em que a vigilância é deveras abrandada, sendo forçoso concluir que o reeducando necessita de um maior período no cárcere para amadurecimento, a fim de que possa retornar à convivência social.
+Importante consignar, que não se trata de considerar o fato já julgado na aferição da periculosidade do sentenciado.
+Mas sim dizer que o sentenciado que desconta pena por delitos graves, como é o caso do agravante, deve ser mais bem avaliado, de forma a se verificar se está apto a retornar ao convívio social.
+Destarte, de rigor a manutenção da r. decisão agravada.
+3. Ante o exposto, NEGO PROVIMENTO ao recurso.
+In casu, verifica-se que o eg. Tribunal de origem manteve a decisão denegatória de progressão de regime e de livramento condicional exclusivamente na gravidade dos crimes pelos quais o paciente foi condenado e na longa pena a cumprir.
+Contudo, como consabido, a gravidade dos delitos e a longa pena a cumprir não são elementos idôneos que podem ser utilizados para o indeferimento dos referidos benefícios. Para tanto, o julgador deve indicar elementos concretos extraídos da execução da pena, consoante entendimento firmado por esta Corte Superior de Justiça, nos termos dos seguintes julgados que trago à colação:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. FALTA GRAVE. INTERRUPÇÃO DO LAPSO. ILEGALIDADE. SÚMULA 411/STJ. REQUISITO SUBJETIVO. LONGA PENA POR CUMPRIR. GRAVIDADE DOS DELITOS PRATICADOS. FALTA REABILITADA. FUNDAMENTAÇÃO INIDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que, por ausência de expressa previsão legal, a prática de falta grave não enseja a alteração da data base para fins de livramento condicional - Súmula 441/STJ -.
+IV - A gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal. Precedentes.
+V - Esta Corte Superior tem se manifestado no sentido de que faltas graves cometidas em período longíquo e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para a recusa do livramento condicional. Precedentes.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o v. acórdão vergastado, a fim de que prevaleça a decisão do d. Juízo de 1º Grau que concedeu o livramento condicional em favor do paciente." (HC 429.176/RJ, Quinta Turma, de minha relatoria, DJe 14/03/2018).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBOS QUALIFICADOS. PROGRESSÃO DE REGIME. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES CRIMINAIS E PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONCESSÃO DA ORDEM DE OFÍCIO.
+ ..
+2. Na espécie, a progressão do reeducando para o regime semiaberto foi indeferida pelo Juízo das Execuções Criminais e pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o paciente e na longa pena a cumprir.
+3. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para cassar o acórdão proferido no Agravo em Execução Penal n. 0003387-52. 2017.8.26.0996 e determinar, em consequência, que o Juízo das Execuções Criminais reaprecie o pedido de progressão de regime prisional, baseando-se em dados concretos relativos à execução da pena do ora paciente." (HC 419.029/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 08/03/2018)
+"HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. BENEFÍCIO CASSADO PELO TRIBUNAL DE JUSTIÇA. FALTA DE FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS CONCEDIDO.
+1. A teor dos precedentes deste Superior Tribunal, ao indeferir a progressão de regime prisional por inadimplemento do requisito subjetivo, o julgador deve mencionar elementos desabonadores relacionados ao histórico carcerário do apenado.
+2. A gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamentos idôneos para cassar a progressão ao regime aberto concedida pelo Juízo de primeiro grau.
+3. Na hipótese, o Tribunal de Justiça determinou a realização de exame criminológico com base apenas na gravidade abstrata dos delitos imputados ao paciente e na pena restante a cumprir, sem que hajam sido mencionadas particularidades da causa que, excepcionalmente, recomendassem a sua realização.
+4. Habeas corpus concedido para, confirmados os efeitos da liminar, restabelecer a decisão do Juízo das Execuções." (HC 417.391/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 12/12/2017, grifei)
+Assim, resta caracterizado constrangimento ilegal, porquanto ausente fundamentação idônea para que fosse obstada a progressão de regime e a concessão de livramento condicional em favor do paciente.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para cassar as decisões das instâncias ordinárias, determinando ao Juízo das Execuções que proceda a nova análise acerca dos pleitos de progressão de regime e livramento condicional, afastando a fundamentação inidônea acima indicada.
+[NOME]
