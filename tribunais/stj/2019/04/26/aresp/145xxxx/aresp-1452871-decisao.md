@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por [NOME]. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+" Agravo de Instrumento - Inventário - Divisão cômoda dos bens - Impossibilidade - Divergência entre os herdeiros no tocante ao plano de partilha - Recurso desprovido" (fl. 748 e-STJ).
+Nas razões do especial, além de dissídio jurisprudencial, o agravante alegou violação dos arts. 648, II, 649 e 1.022, II, do Código de Processo Civil de 2015.
+Sustentou, em preliminar, negativa de prestação jurisdicional, especialmente acerca da omissão no acórdão recorrido quanto:
+"a) (..) ao pedido principal para avaliação e alienação dos bens integrantes do monte-mor, pedido este realizado com base no art. 649, do CPC;
+b) (..) no que atine ao pedido subsidiário para avaliação e remessa dos autos ao partidor judicial, para tentativa de divisão cômoda dos bens" (fl. 785 e-STJ).
+No mérito, afirmou que
+"28. O Novo Código de Processo Civil prevê expressamente que, na partilha, deverão ser observadas regras que previnam litígios futuros, estipulando inclusive que, se os bens não comportarem divisão cômoda ou se não puderem ser atribuídos no quinhão de uma única pessoa, deverão ser licitados e o produto da venda partido entre os sucessores, isto quanto não houver acordo para que sejam adjudicados a todos, verbis:
+(..)" (fls 774/ e-STJ)
+Asseverou a necessidade de que seja determinada "a avaliação e venda dos bens integrantes do monte-mor ou, subsidiariamente, a avaliação e remessa ao partidor judicial para se tentar a divisão cômoda dos bens, diante da evidente violação dos art. 648, inc. II, e 649, do CPC e da flagrante divergência jurisprudencial apontada, por ser medida de extrema Justiça" (fl. 788 e-STJ).
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Consoante o princípio da devolutividade dos recursos, incumbe ao Tribunal manifestar-se acerca das matérias necessárias ao deslinde da controvérsia e que tenham sido submetidas à sua apreciação, sob pena de configurar-se omissão, hipótese de cabimento dos embargos de declaração, nos termos do art. 535 do CPC/1973 (art. 1.022 do CPC/2015).
+O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação do art. 1.022 do CPC/2015, tanto mais que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de embargos, trate de tema não analisado pela instância ordinária, porquanto ausente o requisito do prequestionamento.
+Neste sentido, a título de exemplo, os seguintes precedentes:
+"PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO.
+1. Os embargos de declaração, de regra, não autorizam a reapreciação do quanto decidido, porém nada impede que, constatada a existência de omissão, o seu suprimento implique modificação no resultado do julgamento. Precedentes.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal Estadual, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do CPC, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Recurso especial provido."
+(REsp 1091966/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 08/02/2011, DJe 14/02/2011)
+"AGRAVO REGIMENTAL. PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PIS E COFINS. BASE DE CÁLCULO. VENDA DE VEÍCULO COM RECEBIMENTO DE OUTRO USADO COMO PARTE DO PAGAMENTO (ART. 5º DA LEI 9.716/98). BI-TRIBUTAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO E CONTRADIÇÃO CONFIGURADAS. VIOLAÇÃO AO ART. 535, I e II, DO CPC.
+1. O art. 535 do CPC resta violado se o Tribunal de origem não se pronuncia de forma clara e suficiente sobre a questão posta nos autos. 2. A despeito da oposição de embargos de declaração, objetivando sanar o vício apontado no que pertine ao pronunciamento do Tribunal a quo acerca da omissão e contradição quanto à ocorrência de bi-tributação do PIS e da COFINS, houve manifesta omissão e violação ao art. 535 do Código de Processo Civil.
+3. O Tribunal a quo ao decidir que "O Tribunal não está vinculado ao exame de todos os dispositivos legais ou constitucionais invocados pela parte, mas apenas dos que sejam pertinentes e relevantes à prestação jurisdicional"" (fls.248), acabou por quedar-se inerte quanto às alegações dos embargos declaratórios.
+4. In casu, o acórdão entendeu que a recorrente pretendia dar retroatividade ao art. 5º da Lei 9.716/98 (favor fiscal concedido às empresas revendedoras de veículos usados), sendo que o meritum causae argüido foi, ao contrário, saber se houve bi-tributação na exigência das contribuições do PIS e da COFINS decorrentes da receita das vendas de veículos usados, quando recebidos como pagamento na venda de veículo novo também no período anterior a vigência da Lei, não com fundamento na nova legislação (não buscou a retroativiade), mas na forma que por ela foi posteriormente implementada (possibilitou o cômputo da diferença entre o valor pelo qual o veículo usado foi alienado, constante da nota fiscal de venda, e o seu custo de aquisição, constante da nota fiscal da entrada), justamente para evitar a dupla incidência.
+5. O retorno dos autos, é mister, porquanto não pode o E. STJ pela vez primeira analisar a suposta violação de dispositivos infraconstitucionais que não foram enfrentados em última instância local. Esta, aliás, a ratio da Súmula 211 do STJ, que dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.".
+6. Agravo regimental desprovido."
+(AgRg no REsp 1077334/SC, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 22/02/2011, DJe 07/04/2011)
+Na hipótese dos autos, está caracterizada a negativa de prestação jurisdicional, o recorrente, na apelação e nos embargos de declaração, buscou o pronunciamento quanto: "a) (..) ao pedido principal para avaliação e alienação dos bens integrantes do monte-mor, pedido este realizado com base no art. 649, do CPC; b) (..) no que atine ao pedido subsidiário para avaliação e remessa dos autos ao partidor judicial, para tentativa de divisão cômoda dos bens" (fl. 785 e-STJ), permanecendo o Tribunal de origem silente quanto à apreciação dessas questões.
+Ante o exposto, dou provimento ao recurso especial determinando a devolução dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 752/755 e-STJ.
+Publique-se.
+Intimem-se.
