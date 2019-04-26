@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO DE PREVIDÊNCIA DO MUNÍCIPIO DE BARRETOS contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 203):
+CONVERSÃO DOS VENCIMENTOS EM URV. POSSIBILIDADE. APLICAÇÃO DOS CRITÉRIOS ESTABELECIDOS NA LEI Nº 8.880/94 AOS SERVIDORES PÚBLICOS DE TODOS OS ENTES FEDERATIVOS. Preliminar de prescrição do fundo de direito. Não ocorrência. Tratando-se de relação jurídica de trato sucessivo, o prazo prescricional renova-se mensalmente, cf. Súmula nº 85 do STJ. Aplicação da regra do art. 3º do Decreto nº 20.910/1932. Mérito. A Lei nº 8.880/94, que estabeleceu critérios de conversão do cruzeiro real para o real, por meio da criação da URV, tem natureza nacional e deve ser aplicada a todos os servidores públicos. Para os servidores que recebiam antes do último dia do mês, a referida conversão deve adotar como parâmetro o valor da URV da data do efetivo pagamento. A recomposição decorrente da conversão não pode ser compensada com reajustes salariais posteriores, dada a natureza distinta.
+Entendimento consolidado no C. STJ. Precedentes deste Tribunal e desta E. Câmara. Juros e Correção Monetária Inaplicabilidade da Lei nº 11.960/09, diante do julgamento, no STF, das Adins nºs 4.357/DF e 4.425/DF. Adequação de ofício.
+Matéria preliminar rejeitada e recursos não providos, corrigidos de ofício os consectários legais.
+No especial obstaculizado, a parte recorrente apontou violação do art. 1º da Lei n. 9.797/1998, sustentando a inépcia da inicial e a ocorrência da prescrição.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de ausência de desrespeito à legislação apontada (e-STJ fl. 227).
+Na presente irresignação, a parte agravante alega, em resumo, a inaplicabilidade de referido óbice ao caso.
+Ausente contraminuta (e-STJ fl. 444).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à apontada ofensa ao art. 1º da Lei n. 9.797/1998, percebe-se que esse dispositivo não diz respeito diretamente à questão jurídica efetivamente decidida pelo acórdão recorrido, tampouco com as teses desenvolvidas no apelo nobre, o que revela a deficiência de fundamentação nesse particular, a ensejar o óbice de conhecimento encartado na Súmula 284 do STF.
+Ademais, no que toca à alegação de contrariedade do artigo referido, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo, para NÃO CONHECER do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
