@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. RECLAMO MINISTERIAL. CUMPRIMENTO SUCESSIVO. PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO COM SUPERVENIENTE CONDENAÇÃO DO REEDUCANDO A SANÇÕES RESTRITIVAS DE DIREITOS. SUSPENSÃO OU EXECUÇÃO SIMULTÂNEA. INCOMPATIBILIDADE. NÃO CABIMENTO. RECONVERSÃO DEVIDA. EXEGESE DOS ARTS. 111, PARÁGRAFO ÚNICO, E 181, § 1.º, ALÍNEA E, DA LEI N.º 7.210/1984, CONJUGADA À REDAÇÃO DO ART. 44, § 5.º, DO CP. PRECEDENTES. RECURSO CONHECIDO E PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça daquela Unidade Federativa que deu provimento ao recurso de Agravo em Execução de n.º 0009696-89.2017.8.26.0996.
+Consta dos autos que o Recorrido, ao cumprir a pena privativa de liberdade, em regime fechado, foi condenado a penas restritivas de direitos, consistentes em prestação pecuniária e serviços à comunidade. O Parquet pleiteou a conversão destas em privativa de liberdade, tendo o Juízo da Vara de Execuções Penais da localidade deferido a pretensão (fl. 114). A Defesa interpôs recurso de agravo em execução, ao qual o Tribunal estadual deu provimento a fim de "suspender a execução das penas alternativas até que seu cumprimento se torne compatível com a pena carcerária" (fl. 434).
+Houve a oposição de dois embargos de declaração pelo Ministério Público. Houve a rejeição dos primeiros e não conhecimento dos segundos, porque se trataria de mera reiteração.
+No recurso especial, o Recorrente sustenta, em síntese, contrariedade aos arts. 76 do Código Penal e 111, parágrafo único, da Lei n.º 7.210.1984, além de dissenso pretoriano, argumentando ser devida "a conversão da pena restritiva de direitos quando incompatível seu cumprimento simultâneo com pena privativa de liberdade em regime fechado ou semiaberto anteriormente fixada, com a consequente unificação das penas" (fl. 493).
+Pede o provimento do recurso especial, com o restabelecimento da decisão de primeiro grau.
+Contrarrazões às fls. 533-536.
+A Corte de origem admitiu o recurso especial (fl. 542).
+O Ministério Público Federal opina pelo provimento do recurso especial (fls. 551-555).
+É o relatório.
+Decido.
+A Corte estadual, ao prover o agravo em execução defensivo, explicitou (fl. 432):
+"Ao que se infere do quanto trazido aos autos, o agravante estava em cumprimento de pena quando sobreveio condenação em outro processo; diante disso, houve a conversão da reprimenda restritiva de direitos em privativa de liberdade.
+A controvérsia versa, tão somente, acerca da referida conversão da pena alternativa em privativa de liberdade, com fixação de regime fechado.
+Embora este Relator já tenha se posicionado diversamente em casos similares, é entendimento desta Colenda Câmara a aplicação da regra contida no artigo 76, do Código Penal, que estabelece que "no concurso de infrações, executar-se-á primeiramente a pena mais grave", suspendendo-se as penas restritivas de direitos impostas até o término da pena privativa."
+Conforme se verifica, o acórdão recorrido está em dissonância com o atual entendimento sufragado pelo Superior Tribunal de Justiça sobre as hipóteses de execução concomitante, ou quando sobrevier condenação ao executado, de penas restritivas de direitos com pena privativa de liberdade, no sentido de que somente é possível a manutenção das primeiras caso haja compatibilidade no seu cumprimento simultâneo com a segunda, consoante inteligência do § 5.º do art. 44 do CP, in verbis (grifos diversos do original):
+"Art. 44 - Omissis:
+ ..
+§ 5º Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior."
+Sucede que, como não se afigura possível - pela dicção do art. 76 do CP, afeto, tão somente, à hipótese de concurso de infrações quando impostas, cumulativamente, penas de detenção e de reclusão - a suspensão ou a execução simultânea das sanções alternativas durante o cumprimento da reprimenda corporal pelo Executado, sua reconversão, com subsequente soma das sanções, é medida que se impõe, conforme interpretação autêntica e sistemática dos arts. 111, parágrafo único, e 181, § 1.º, alínea e, ambos da Lei n.º 7.21/1984.
+A propósito:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. SUPERVENIÊNCIA DE CARTA DE GUIA PARA CUMPRIMENTO DE PENAS RESTRITIVAS DE DIREITOS. INCOMPATIBILIDADE DE EXECUÇÃO SIMULTÂNEA. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITO EM SANÇÃO CORPORAL. UNIFICAÇÃO DAS PENAS. LEGALIDADE. ARTS. 111 E 181 DA LEI DE EXECUÇÃO PENAL. INAPLICABILIDADE DO ART. 76 DO CÓDIGO PENAL. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO ORDINÁRIO DESPROVIDO.
+A jurisprudência deste Tribunal Superior firmou-se no sentido de que, no caso de nova carta de guia para execução de penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou semiaberto, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das reprimendas.
+Nesses casos, as penas restritivas de direito devem ser convertidas em sanção privativa de liberdade, unificando-se as sanções, nos termos dos arts. 111 e 181 da LEP, respectivamente, não sendo aplicável o art. 76 do CP. Precedentes.
+Recurso ordinário em habeas corpus desprovido." (RHC 93.248/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/08/2018, DJe 27/08/2018; grifos diversos do original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAS RESTRITIVAS DE DIREITOS EM CUMPRIMENTO. NOVAS CONDENAÇÕES A PENA PRIVATIVA DE LIBERDADE QUE, SOMADAS, ULTRAPASSAM 8 ANOS DE RECLUSÃO. IMPOSSIBILIDADE DE EXECUÇÃO SIMULTÂNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O relator poderá decidir monocraticamente habeas corpus substitutivo de recurso ordinário se a matéria for objeto de jurisprudência consolidada deste Superior Tribunal ou do Supremo Tribunal Federal (art. 202 e 246 do RISTJ).
+2. Esta Corte firmou o entendimento de que, na hipótese de unificação prevista no art. 111 da LEP, é permitida a reconversão de pena restritiva de direitos se o Juiz verificar a incompatibilidade do seu cumprimento simultâneo com pena privativa de liberdade posterior.
+3. Prevalece o entendimento de que o art. 76 do CP somente é aplicável ao concurso de infrações (art. 69 do CP) quando as penas privativas de liberdade são diferentes (detenção e reclusão).
+4. Agravo regimental não provido." (AgRg no HC 424.866/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018; grifos diversos do original.)
+Ante o exposto, CONHEÇO E DOU PROVIMENTO ao recurso especial para restabelecer a decisão do Juízo da Execução.
+Publique-se. Intimem-se.
