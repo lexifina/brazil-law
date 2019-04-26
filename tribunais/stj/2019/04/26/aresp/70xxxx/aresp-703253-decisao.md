@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por GAÚCHA DOS BILHARES - INDÚSTRIA COMÉRCIO E LOCAÇÃO DE MESAS DE BILHARES LTDA - ME - contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO GARANTIDO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA.
+INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. O crédito fornecido ao consumidor/pessoa física para utilização na aquisição de bens no mercado como destinatário final se caracteriza como produto, importando no reconhecimento da instituição bancária/financeira como fornecedora para fins de aplicação do CDC, nos termos do art. 3o, parágrafo 2o, da Lei nº 8.078/90. Entendimento referendado pela Súmula 297 do STJ. DIREITO DO CONSUMIDOR À REVISÃO CONTRATUAL. O art. 6o, inciso V, da Lei nº 8.078/90 instituiu o princípio da função social dos contratos, relativizando o rigor do "Pacta Sunt Servanda" e permitindo ao consumidor a revisão do contrato, especialmente, quando o fornecedor insere unilateralmente nas cláusulas gerais do contrato de adesão obrigações claramente excessivas, suportadas exclusivamente pelo consumidor, como no caso concreto. TAXA DE JUROS REMUNERATÓRIOS. Juros contratados de acordo com a taxa média de mercado fixada pelo Banco Central. Jurisprudência consolidada do STJ-Resp. 1.061.530.
+CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR À ANUAL. Permitida em contratos celebrados após 31/03/2000, data da publicação da Medida Provisória nº 1.963-17/2000, em vigor como MP 2.170-01, desde que expressamente pactuada. MORA CARACTERIZADA. Não configurada abusividade em encargos exigidos no período da normalidade contratual, caracterizada está a mora.
+COMISSÃO DE PERMANENCIA. Vedada a cobrança em virtude da inexistência de previsão contratual, incidindo a correção monetária pelo IGP-M, pois é o índice que melhor reflete a real perda inflacionária. JUROS MORATÓRIOS. Mantidos em 1% (um por cento) ao mês.
+MULTA MORATÓRIA. Mantida em 2% (dois por cento), porém, sobre o valor da parcela em atraso, nos termos do art. 52, parágrafo 1o, da Lei nº 8.078/90. TARIFAS E/OU TAXAS NA CONCESSÃO DO FINANCIAMENTO. Contrato posterior à 30/04/2008. Tarifa de contratação afastada por não estar elencada no rol taxativo da Resolução CMN nº 3.518/07 e alterações posteriores. Paradigma REsp 1.255.573/RS. IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS - IOF. Inexistência de ilegalidade por se tratar de imposto incidente na contratação. Parcelamento do valor do imposto junto ao crédito principal com os mesmos encargos. Paradigma REsp 1.255.573-RS.
+REPETIÇÃO DO INDÉBITO EM DOBRO. Inovação recursal.
+EMISSÃO DE TÍTULO DE CRÉDITO E SEU PROTESTO. Possibilidade, uma vez que não foram evidenciadas abusividades no contrato submetido à revisão. DOS HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. Descabida a referida cláusula para o caso de cobrança administrativa, sem que haja qualquer procedimento judicial.
+DANO MORAL. Alegação de práticas abusivas haja vista os encargos cobrados pela instituição financeira. Não configuração do dano moral.
+DISPOSIÇÕES DE OFÍCIO. IMPOSSIBILIDADE. Aplicação do art. 515 do CPC. Incidência do princípio "tantum devolutum quantum appellatum". APELAÇÃO PROVIDA EM PARTE" (e-STJ fls. 264-265).
+Os embargos declaratórios opostos foram acolhidos em parte, sem efeitos modificativos (e-STJ fl. 307).
+No especial, a recorrente alega, além de dissídio jurisprudencial, violação dos artigos 3o, § 2º, 6o, 39, IV, 42, 47, 51, IV e § 1º, e 52 do Código de Defesa do Consumidor, 406 e 591 do Código Civil, 63, I, e 161, § 1º, do Código Tributário Nacional, 7, 10, VII, e 11 do Decreto 2.219/97 e 535, II, do Código de Processo Civil de 1973.
+Postula, em síntese, a reforma do acórdão recorrido ao argumento de que houve negativa de prestação jurisdicional pelo tribunal de origem, pois instado a se manifestar sobre questão imprescindível ao correto deslinde da causa, quedou-se silente.
+Sustentou ainda a limitação dos juros remuneratórios à taxa de 12% ao ano, o afastamento da capitalização mensal dos juros, a ilegalidade da cobrança parcelada do IOF e a descaracterização da mora.
+Com as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Acórdão impugnado pelo presente recurso especial publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+O agravo não comporta conhecimento.
+Da leitura das razões recursais, constata-se que não houve impugnação específica a nenhum dos fundamentos da decisão agravada, atraindo, portanto, a aplicação do disposto no art. 544, § 4º, inciso I, do Código de Processo Civil de 1973, que faculta ao relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada".
+No caso, o agravante não refutou a incidência dos óbices das Súmulas nºs 5, 7, 83 e 382/STJ, e 596/STF, apenas reafirmou as razões do recurso especial.
+É pacífico o entendimento desta Corte no sentido de que a agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DE INADMISSÃO DO RECURSO ESPECIAL.
+1. A teor do disposto no art. 544, § 4º, I, do Código de Processo Civil, o agravante deve infirmar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. No caso dos autos, embora a decisão de inadmissão do recurso especial seja genérica e padronizada, o agravante não a infirma, limitando-se a sustentar a tese de que o Tribunal de origem não tem competência para emitir pronunciamento sobre o mérito da pretensão recursal.
+3. Agravo regimental desprovido" (AgRg no AREsp 87.335/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 8/3/2016, DJe 29/3/2016).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
