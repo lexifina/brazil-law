@@ -1,0 +1,32 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração  pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. FEDERAÇÃO. ILEGITIMIDADE ATIVA. ART. 5º, LXX, ‘B’, DA CONSTITUIÇÃO FEDERAL.
+    1. A substituição processual se caracteriza, sempre, pela interposição de mandado de segurança coletivo por organizações sindicais, entidades de classe ou associações, com amparo no art. 5º, LXX, ‘b’.
+    2. A impetrante é entidade sindical de grau superior, tendo como associadas as entidades sindicais de grau inferior, razão pela qual a FENTECT não tem legitimidade para a defesa direta dos interesses dos trabalhadores da ECT, pois sua legitimação está encerrada nos limites estabelecidos pelo Estatuto.
+    3. Precedentes desta Corte.
+    4. Apelação improvida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica suscitada nos autos já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “DIREITO CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA. FEDERAÇÃO. SUBSTITUIÇÃO PROCESSUAL. IMPOSSIBILIDADE. PRECEDENTES. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULAS 279 E 454/STF. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA.
+    1. A jurisprudência desta Corte não admite a atuação de Federação, na condição de substituta processual, na defesa direta de filiados à associações ou organizações sindicais filiadas à própria federação demandante. Precedentes.
+    2. A solução da controvérsia demanda uma nova reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279 e 454/STF), procedimentos inviáveis em recurso extraordinário.
+    3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.“
+    (ARE 872.818-AgR/DF, Rel. Min. ROBERTO BARROSO)
+    “Agravo regimental no recurso extraordinário. Direito constitucional e processual civil. Ofensa ao art. 8º, inciso III, da Constituição Federal. Não ocorrência. Federação. Substituição processual. Impossibilidade. Fatos e provas. Reexame. Inadmissibilidade. Precedentes.
+    1. Conforme a redação do art. 8º, inciso III, da Constituição Federal, somente os sindicatos possuem legitimidade para atuar como substitutos processuais.
+    2. Inadmissível, na instância extraordinária, o exame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido.“
+    (RE 753.226-AgR/RN, Rel. Min. DIAS TOFFOLI)
+    Impõe-se referir, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 783.716/DF, Rel. Min. LUIZ FUX – ARE 1.070.380/CE, Rel. Min. MARCO AURÉLIO – RE 683.525-ED/DF, Rel. Min. EDSON FACHIN – RE 851.424-AgR/DF, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Cabe observar, por necessário, no que se refere à alegada transgressão ao postulado constitucional que impõe ao Poder Judiciário o dever de motivar suas decisões (CF, art. 93, IX), que o Supremo Tribunal Federal – embora sempre enfatizando a imprescindibilidade da observância dessa imposição da Carta Política (RTJ 170/627-628, v.g.) – não confere a tal prescrição constitucional o alcance que lhe pretende dar a parte ora recorrente, pois, na realidade, segundo entendimento firmado por esta própria Corte, “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não que a fundamentação seja correta na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RTJ 150/269, Rel. Min. SEPÚLVEDA PERTENCE – grifei).
+    Vale ter presente, a propósito do sentido que esta Corte tem dado à cláusula inscrita no inciso IX do art. 93 da Constituição, que  os precedentes deste Tribunal desautorizam a abordagem hermenêutica feita pela parte ora recorrente, como infere-se de diversos julgados (AI 529.105-AgR/CE, Rel. Min. JOAQUIM BARBOSA – AI 637.301-AgR/GO, Rel. Min. CÁRMEN LÚCIA – AI 731.527-AgR/RJ, Rel. Min. GILMAR MENDES – AI 838.209-AgR/MA, Rel. Min. GILMAR MENDES – AI 840.788-AgR/SC, Rel. Min. LUIZ FUX – AI 842.316-AgR/RJ, Rel. Min. LUIZ FUX – RE 327.143-AgR/PE, Rel. Min. CARLOS VELLOSO, v.g.), notadamente daquele, emanado do Plenário do Supremo Tribunal Federal, em que se acolheu questão de ordem para reafirmar essa mesma jurisprudência no sentido que venho de expor:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    (AI 791.292-QO-RG/PE, Rel. Min. GILMAR MENDES – grifei)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de abril de 2019.
+Ministro CELSO DE MELLO
+Relator
