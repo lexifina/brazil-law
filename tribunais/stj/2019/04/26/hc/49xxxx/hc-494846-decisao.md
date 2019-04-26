@@ -1,0 +1,6 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que manteve a sua prisão preventiva nos autos do HC n. 2269364-17.2018.8.26.0000.
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia dos documentos referidos no decreto prisional com o objetivo de estabelecer a existência de indícios de autoria - boletim de ocorrência e "relatório referente às mensagens trocadas via aplicativo do aparelho celular de [NOME]" -, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, não conheço do habeas corpus, nos termos do art. 34, XX, do RISTJ.
+Publique-se. Intimem-se.
