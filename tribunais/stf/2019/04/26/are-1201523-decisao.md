@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 93, IX, 150, I, e 195, I, “a”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado demandaria a análise da legislação infraconstitucional aplicável e da moldura fática delineada no acórdão recorrido, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nºs 279 e 280/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. ACOLHIMENTO PARCIAL PARA SUPRIR OMISSÃO NA FUNDAMENTAÇÃO. 1. A controvérsia relativa à natureza jurídica das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame da legislação infraconstitucional pertinente, o que impede a abertura da via extraordinária. Precedentes. 2. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos, apenas para suprir omissão relativa à fundamentação.” (ARE 896.274-AgR-ED, Rel. Min. Roberto Barroso, 1ª Turma, DJe 13.02.2017)
+    “EMENTA: AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. DÉCIMO TERCEIRO SALÁRIO. POSSIBILIDADE. SÚMULA Nº 688 DO STF. INCIDÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 827.607-ED-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 02.3.2016)
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. DÉCIMO-TERCEIRO. POSSIBILIDADE. SÚMULA 688. INCIDÊNCIA. 1. É entendimento sumulado nesta Corte a possibilidade de incidência da contribuição previdenciária sobre o décimo-terceiro. Aplicação da Súmula 688 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Incabível a aplicação do disposto no art. 85, § 11, do CPC (Súmula 512 do STF).” (ARE 1081699-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 27.3.2018)
+    “EMENTA: Agravo regimental em agravo de instrumento. 2. Contribuição previdenciária. Décimo terceiro salário. Constitucionalidade. Bitributação. Inexistência. 3. Forma de cálculo. Exame da legislação infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Agravo regimental a que se nega provimento.” (AI 647.725-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 14.3.2008)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de abril de 2019.
+Ministra Rosa Weber
+Relatora
