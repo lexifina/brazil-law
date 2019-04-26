@@ -1,0 +1,60 @@
+DECISÃO
+
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS FERREIRA MARTINS contra decisão que indeferiu o pleito liminar no writ originário.
+Consta nos autos que o paciente foi preso em flagrante delito em 06/02/2019 pela suposta prática de um roubo qualificado.
+O impetrante alega que os policiais que efetuaram a prisão do paciente o alvejaram pelas costa e os projéteis de arma de fogo ainda estão alojados no corpo do paciente, razão pela qual foi determinada a expedição de alvará de soltura pelo Juízo da 35ª Vara Criminal da Capital para tratamento domiciliar.
+Ocorre que esta decisão que revogou a prisão preventiva do paciente não foi cumprida diante da existência de outro feito criminal na 41ª Vara Criminal em que o paciente também figura como réu.
+Neste writ, o impetrante alega que o estado de saúde do paciente é gravíssimo diante do risco de paraplegia permanente ou de óbito decorrente dos disparos de arma de fogo.
+Requer, assim, "seja concedida a liminar no presente writ, para que seja deferida a permissão de saída para tratamento, na forma do art. 120, II da LEF, a ser realizada em hospital apto ao tratamento para a reversão, cura ou tratamento da paraplegia, sem prejuízo de V. Exa., caso assim entenda, lhe deferir a prisão domiciliar com saída para hospital/clínica, para que possa em casa, junto à sua família, realizar aludido tratamento, na forma do art. 318, II do CPP. Após, requer respeitosamente a confirmação da liminar" (e-STJ, fl. 6).
+Despacho determinando a prestação de informação aos órgãos de origem para apreciação do pedido liminar (e-STJ, fls. 68-69).
+Informações apresentadas pelo Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 77-86) e pelos Juízos da 35ª Vara Criminal (e-STJ, fls. 89-92) e 41ª Vara Criminal da Comarca da Capital (e-STJ, fls. 93-98).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Na espécie, diante da vinda das informações solicitadas, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Conforme relatado, o impetrante alega que os policiais que efetuaram a prisão do paciente o alvejaram pelas costa e os projéteis de arma de fogo ainda estão alojados no corpo do paciente, razão pela qual foi determinada a expedição de alvará de soltura pelo Juízo da 35ª Vara Criminal da Capital para tratamento domiciliar.
+Ocorre que esta decisão que revogou a prisão preventiva do paciente não foi cumprida diante da existência de outro feito criminal na 41ª Vara Criminal em que o paciente também figura como réu.
+O Tribunal de Justiça carioca prestou os seguintes esclarecimentos acerca do não cumprimento do alvará de soltura expedido em razão da revogação da prisão preventiva do paciente pelo Juízo da 35ª Vara Criminal do Rio de Janeiro:
+"(..)
+Tal decisão restou prejudicada em virtude da existência de segregação cautelar em seu desfavor, decretada pelo Juízo da 41a Vara Criminal da Comarca da Capital, na ação penal nº 0052422- 80.2019.8.19.000, ainda em fase investigatória e na ação nº 0045460-41.2019.8.19.0001, com recebimento da denúncia, onde se entendeu presentes os requisitos previstos no artigo 312, do Código de Processo Penal, para a constrição cautelar, conforme se observa abaixo:
+(..)
+Vale ressaltar que o paciente tem, ainda, em curso no Juízo da Vara de Execuções Penais deste Estado, a Carta de Execução de Sentença registrada sob o número nº 0042456-98.2016.8.19.0001, com término de cumprimento da pena privativa de liberdade previsto para 27/03/2021,sendo seu regime atual o semiaberto.
+Novo pedido, ainda não examinado, foi requerido pela defesa, em 25/03/2019, ao Juízo da 41a Vara Criminal, objetivando a revogação da custódia cautelar em virtude da necessidade de tratamento médico.
+Em paralelo, a defesa impetrou Habcas Corpus n" 0018071-84.2019.8.19.0000 neste Tribunal, com pedido de liminar, manejado em beneficio do paciente, objetivando a concessão de permissão de saída para tratamento, bem como o deterimento da prisão domiciliar, ou, alternativamente, a revogação do ergástulo preventivo, que por decisão do
+relator, em 05/04/2019, teve seu pedido liminar indeferido, conforme se vê
+abaixo Irresignada, a defesa insistiu no pedido nessa Corte Superior,porém, conforme informações constantes dos sistemas de informática deste Tribunal, foi possível observar que, até a presente data, nào foi examinado o pleito no Habeas Corpus impetrado perante esta Corte, referente ao objeto do writ em questão." (e-STJ, fls. 83-86).
+Das informações apresentadas pela 41ª Vara Criminal do Rio de Janeiro (e-STJ, fls. 93-98), extrai-se o seguinte:
+"(..)
+Em atendimento à determinação constante no ofício em epígrafe, venho prestar à V. Exa. as informações que me foram requisitadas com relação ao habeas corpus com expresso pedido liminar impetrado em favor de LUCAS FERREIRA MARTINS.
+Sustenta o impetrante, em apertada síntese, segundo depreende-se do presente wrít, que o ora paciente necessita de cirurgia e cuidados médicos que não podem ser procedidos em hospital integrante da SEAP.
+Dos autos, verifica-se que a Denúncia, oferecida aos 07.03.2019. veio instruída com o Inquérito Policial nº 006-00664/2019. o qual contém como principais as seguintes peças: R O. às fls. 03/05. 06/07 e 08/09; Termos de Declaração às fls. 10/11; Auto de Reconhecimento de Objeto à fl. 12; Representação por prisão preventiva às fls. 30/31.
+O Ministério Público requer a custódia cautelar à fl. 33.
+Recebimento da Peça Vestibular aos 12.03.2019 (fls. 34/35). oportunidade em que foi decretada a segregação preventiva.
+A Defesa pede a revogação da medida cautelar às fls. 47/48, juntando documentos às fls. 49/86. Instado a se manifestar, o Ministério Público, à fl. 88. solicitou diligências, a fim de formar seu convencimento quanto ao tema. o que restou deferido à fl. 89.
+A decisão ora vergastada foi mantida aos 10.04.2019 e será revista com a vinda dos documentos referidos supra (resposta do estabelecimento prisional acerca da gravidade do estado de saúde do réu; de eventual necessidade de realização de procedimentos cirúrgicos; possível evolução de seu quadro após submeter-se ao tratamento devido; se o referido estabelecimento possui equipamentos e instalações aptas a prover o tratamento médico necessário).
+É o breve relato.
+Permita-me, então. Excelência, tecer alguns comentários.
+O acusado, após supostamente perpetrar o crime de roubo, por duas vezes, com o emprego de arma de fogo. aos 05.02.2019 (delito relativo a este processo), foi preso em flagrante por injusto penal da mesma natureza ao dia seguinte (06 02 2019). o que deu origem ao processo 0027230-48 2019.8.19.0001. que tramita na 35a Vara Criminal.
+À oportunidade da segunda infração penal, conforme a Decisão de conversão da prisão flagrancial em preventiva naqueles autos, o acusado teria apontado a arma de fogo empregada no delito contra um policial militar, que tentava obstá-lo. motivo pelo qual este último desferiu disparo de arma de fogo contra o primeiro, logrando alveja-lo.
+Assim, considerando a periculosidade revelada pelo acusado, tem-se que. se solto, poderá causar prejuízo à ordem social, o que impõe, s.m.j.. a manutenção do decreto do ergástulo cautelar.
+Quanto à questão da saúde do réu. bem analisados os documentos trazidos pela Defesa, não se vislumbra, em princípio, necessidade atestada por médico de cirurgia e acompanhamento, que não possam ser realizados no hospital da SEAP
+O que se verifica dos citados documentos é que ora o réu "deambula" ora fica "acamado" Porém, nada foi dito por médico no sentido do que sustenta a Defesa No entanto, a Decisão guerreada será revista (salvo decisum em contrário dessa E Turma), após o cumprimento das diligências requeridas pelo Ministério Publico, conforme o estado de saúde e as conseqüentes necessidades do acusado.
+Ressalto que. diante da urgência das diligências em comento, foi determinado seu cumprimento, via email. com confirmação telefônica, no prazo de 48 (quarenta e oito) horas.
+Era o que me cabia informar, colocando-me. desde já. à disposição de V. Exa.para prestar outros esclarecimentos que sejam necessários." (e-STJ, fls. 96-97).
+Consoante se extrai dos esclarecimentos prestados, o alvará de soltura expedido em favor do paciente nos autos da Ação Penal nº 0027230-48 2019.8.19.0001 pelo Juizo da 35ª Vara Criminal do Rio de Janeiro não foi cumprido em razão da existência de outros mandados de prisão expedidos em desfavor do paciente, decretados pelo Juízo da 41a Vara Criminal da Comarca da Capital, na ação penal nº 0052422- 80.2019.8.19.000, ainda em fase investigatória e na ação nº 0045460-41.2019.8.19.0001, com recebimento da denúncia.
+Consta, ainda, em desfavor do paciente uma Carta de Execução de Sentença no Juízo da Vara de Execuções Penais do Rio de Janeiro, registrada sob o número nº 0042456-98.2016.8.19.0001, com término de cumprimento da pena privativa de liberdade previsto para 27/03/2021, sendo seu regime atual o semiaberto.
+Verifica-se, pois, que não há flagrante ilegalidade no descumprimento da decisão que revogou a custodia provisória do paciente diante da existência de outros dois mandados de prisão e uma Carta de Execução de Sentença expedidos em seu desfavor.
+Nesse sentido é o entendimento desta Corte Superior:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO DE HABEAS CORPUS. SEGREGAÇÃO CAUTELAR. MANDADO DE PRISÃO. Existindo outros mandados de prisão, o réu não pode ser liberado em função de alvará de soltura referente a um dos feitos a que responde. Recurso desprovido." (RHC 8061/PR, QUINTA TURMA, Ministro FELIX FISCHER, DJ 03/05/1999)
+No tocante ao pedido de colocação do paciente em prisão domiciliar em razão do seu grave estado de saúde decorrente dos projéteis de arma de fogo ainda alojados em sua coluna após confronto com a polícia, o Tribunal de Justiça do Estado do Rio de Janeiro ainda não analisou a matéria referente à prisão domiciliar, de forma que sua análise nesta Corte Superior implicaria indevida supressão de instância.
+Ademais, verifica das informações prestadas pelo Juízo da 41ª Vara Criminal do Rio de Janeiro, que a questão envolvendo a saúde do ora paciente está sendo devidamente analisada na instância a quo, verbis:
+"A Defesa pede a revogação da medida cautelar às fls. 47/48, juntando documentos às fls. 49/86. Instado a se manifestar, o Ministério Público, à fl. 88, solicitou diligências, a fim de formar seu convencimento quanto ao tema, o que restou deferido à fl. 89.
+A decisão ora vergastada foi mantida aos 10.04.2019 e será revista com a vinda dos documentos referidos supra (resposta do estabelecimento prisional acerca da gravidade do estado de saúde do réu; de eventual necessidade de realização de procedimentos cirúrgicos; possível evolução de seu quadro após submeter-se ao tratamento devido; se o referido estabelecimento possui equipamentos e instalações aptas a prover o tratamento médico necessário).
+(..).
+Quanto à questão da saúde do réu. bem analisados os documentos trazidos pela Defesa, não se vislumbra, em princípio, necessidade atestada por médico de cirurgia e acompanhamento, que não possam ser realizados no hospital da SEAP.
+O que se verifica dos citados documentos é que ora o réu "deambula" ora fica "acamado". Porém, nada foi dito por médico no sentido do que sustenta a Defesa.
+No entanto, a Decisão guerreada será revista (salvo decisum em contrário dessa E Turma), após o cumprimento das diligências requeridas pelo Ministério Publico, conforme o estado de saúde e as conseqüentes necessidades do acusado.
+Ressalto que, diante da urgência das diligências em comento, foi determinado seu cumprimento, via email, com confirmação telefônica, no prazo de 48 (quarenta e oito horas)" (e-STJ, fl. 96).
+Ante o exposto, não conheço do habeas corpus.
+Comunique-se ao Ministério Público Federal.
+Publique-se. Intimem-se.
