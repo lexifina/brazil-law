@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 50046/1-47.2016.4.04.7121/RS).
+Infere-se dos autos que o paciente foi condenado pela prática do delito previsto no art. 171, § 3º, do Código Penal (estelionato), à pena de 1 ano e 6 meses de reclusão, em regime aberto, substituída por duas penas restritivas de direito.
+Opostos embargos de declaração, restaram rejeitados.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, sustentando inépcia da denúncia, nulidade em razão da cisão processual e insuficiência de provas para fundamentar o juízo condenatório. O Tribunal de Justiça desproveu o recurso, nos termos da seguinte ementa:
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. INÉPCIA DA DENÚNCIA. CONDUTAS E ELEMENTARES DO TIPO DEVIDAMENTE DESCRITAS NA DENÚNCIA. VIOLAÇÃO À RESERVA DE JURISDIÇÃO. INEXISTÊNCIA. ESTELIONATO CONTRA O FUNDO DE AMPARO AO TRABALHADOR. ARTIGO 171,  3º, DO CÓDIGO PENAL. ANOTAÇÃO DE FALSO VÍNCULO EMPREGATICIO PARA PERCEPÇÃO DE SEGURO- DESEMPREGO. MATERIALIDADE, AUTORIA E ELEMENTOS SUBJETIVOS DO TIPO COMPROVADOS. MANUTENÇÃO DA CONDENAÇÃO MANTIDA. EXECUÇÃO IMEDIATA. DESPROVIMENTO.
+1. A denúncia não é inepta, pois de sua leitura é possível extrair com clareza e precisão o fato criminoso imputado aos acusados com todos os seus elementos típicos, havendo descrição da conduta, da existência de fraude, do prejuízo ao ente público, do beneficio aos réus e da finalidade específica do crime.
+2. Inexiste violação ao artigo 80 do Código de Processo Penal quando o Ministério Público Federal oferta denúncia apenas em relação a parte dos investigados no inquérito policial originário.
+3. Para a configuração do delito de estelionato é necessário o emprego, pelo agente, do meio fraudulento e a obtenção de vantagem ilícita, para si ou para outrem. em prejuízo alheio.
+4. O conjunto probatório demonstra a obtenção de vantagem ilícita pelos denunciados, em prejuízo ao Fundo de Amparo ao Trabalhador, consistente no recebimento de seguro-desemprego requerido com base em vínculo empregatício fictício.
+5. Devidamente provados a materialidade, a autoria e os elementos subjetivos do tipo, e sendo o fato típico, antijurídico e culpável, considerando a inexistência de causas excludentes de ilicitude ou exculpantes, impõe-se a manutenção da sentença que condenou os réus pela prática do delito previsto no artigo 171, § 3º, do Código Penal.
+6. O enunciado sumular 122 deste Regional, aderindo à orientação do Supremo Tribunal Federal (HC 126.292, Plenário, Relator Ministro Teori Zavascki, DJe 17-5- 2016), entendimento confirmado no julgamento das medidas cautelares nas ADC 43 e 44 (05-10- 2016), bem como reafirmado em sede de repercussão geral (ARE 964246 RG, Relator Ministro Teori Zavascki, DJe 25-11-2016), autoriza que a decisão de segundo grau irradie, integralmente, seus efeitos, é dizer, em toda a extensão do que tiver sido provido pelo julgamento, uma vez (a) decorrido o prazo para interposição de Embargos Infringentes e de Nulidade ou para oposição de Embargos de Declaração, nos casos em que esses forem cabíveis, ou (b) se tiverem sido apresentados tais recursos, (b.l) não forem admitidos pelo Relator, (b.2) assim que forem julgados.
+7. Apelação criminal desprovida.
+Agora a defesa apresenta o presente habeas corpus, sustentando constrangimento ilegal ao paciente na medida em que foi determinada a execução provisória da pena restritiva de direitos a ele imposta. Afirma que a decisão colegiada não transitou em julgado pois foram interpostos recurso especial e recurso extraordinário às Cortes Superiores.
+Pugna, em liminar e no mérito, que se revogue a decisão que determinou a execução provisória da pena restritiva de direitos imposta ao paciente e suspenda a execução provisória da pena, em especial a audiência admonitória já aprazada, até a decisão de mérito do presente writ.
+Liminar deferida às fls. 64/67 para revogar a decisão de expedição de guia de execução provisória até o julgamento do presente writ.
+Informações prestadas às fls. 78/81.
+O Ministério Público Federal opinou pela extinção do writ sem resolução do mérito ou pela denegação da ordem (fls. 83/87).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte firmou o entendimento de que as penas restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação, em observância ao disposto no art. 147 da Lei n. 7.210/84. Confira-se, a propósito, a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados (EREsp 1619087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017).
+Ante exposto, concedo a ordem, de ofício, para suspender a execução provisória da pena restritiva de direito imposta ao paciente até o trânsito em julgado de eventual condenação, confirmando a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
