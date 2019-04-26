@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de violação ao art. 1.022 do CPC/2015, bem como em razão da incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 26):
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. GRATIFICAÇÃO DE DESEMPENHO - GDAP. TERMO INICIAL DOS JUROS DE MORA. TÍTULO EXECUTIVO. MANDADO DE SEGURANÇA.
+1. O título executivo determinou que a GDAP fosse incluída imediatamente aos vencimentos dos substituídos, já a partir da folha de pagamento subsequente à data do proferimento da sentença mandamental, ou seja, na folha de julho de 2003. Contudo, a determinação de implantação das diferenças vencimentais não foi cumprida imediatamente, o que acabou por gerar a existência de prestações vencidas. Assim, a não atualização monetária das parcelas em atraso implicaria em enriquecimento sem causa por parte da administração pública, que deixou de cumprir imediatamente a determinação judicial.
+2. Nos termos da jurisprudência consolidada do STJ, em se tratando de valores reconhecidos em mandado de segurança, os juros de mora devem ser calculados a partir da noti cação da autoridade coatora na ação mandamental. No caso dos autos, contudo, tenho que deve ser considerado como termo inicial a data do descumprimento da ordem judicial contida no título executivo, qual seja, a de implantação da GDAP a partir da folha de pagamento de julho de 2003.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega, preliminarmente, violação do art. 1022 do CPC/2015, ao argumento de que a Corte de origem deixou de se manifestar acerca da alteração, na fase executiva, dos limites objetivos do título executivo.
+Quanto a questão de fundo, aponta violação dos arts. 502, 503 e 502 do CPC/2015, ao argumento de que "a decisão, ao alterar na fase executiva os limites objetivos do título executivo, está a violar os princípios da intangibilidade e imutabilidade da coisa julgada, posto que acrescenta condenação não constante da decisão transitada em julgado".
+Nesse sentido, destacou que o "entendimento da sentença teve por fundamento a natureza da ação ajuizada (mandado de segurança coletivo), já que o mandado de segurança tem o objetivo apenas de corrigir ilegalidades, não se prestando a gerar efeitos financeiros pretéritos, conforme já assentada jurisprudência sobre a matéria" (fl. 54).
+Por fim, ressalta que o agravado também seria responsável pelo atraso no cumprimento da obrigação de fazer, de modo que não poderia recair unicamente sobre a agravante a responsabilidade pelo atraso, e que esse "entendimento se aproxima do conceito do dever do credor de mitigar o próprio prejuízo (duty to mitigate de loss), conforme já assentada jurisprudência sobre a matéria" (fl. 54).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+É o relatório. Decido.
+Tendo o agravante impugnado o fundamento da decisão agravada, passo a apreciação do apelo especial.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito do título executivo ter afastado expressamente a incidência de juros de mora e correção monetária, conforme se observa dos aclaratórios opostos (fls. 36-40).
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A manifestação sem esclarecimento suficiente, a respeito de questão necessária à resolução integral da demanda, autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios
+Publique-se. Intimem-se.
