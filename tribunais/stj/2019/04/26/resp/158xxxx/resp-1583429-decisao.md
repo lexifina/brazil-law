@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS E ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 189):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO. CÔMPUTO PARA ABONO DE PERMANÊNCIA. DESAVERBAÇÃO. IMPOSSIBILIDADE.
+1) O ato administrativo que reconheceu o direito subjetivo do servidor à utilização das licenças-prêmio para retroação do abono de permanência é válido e eficaz, tendo surtido efeitos concretos.
+2) Ainda que não haja expressa manifestação de vontade, tenho que o autor, ao receber os valores retroativos a título de abono permanência oriundos da conversão da licença prêmio acabou por aceitá-la implicitamente. Passados tantos anos do recebimento da pecúnia retroativa, reconhecer o direito do autor de alterar tal situação já consolidada, seria afrontar a segurança jurídica e o ato jurídico perfeito.
+3) Sendo assim, não é possível a pretendida desaverbação dos períodos de Licença-Prêmio adquiridos pela parte autora e que foram utilizados, na concessão do Abono de Permanência em Serviço e no pagamento retroativo da referida rubrica, prestigiando-se, assim, o ato jurídico perfeito que gerou os efeitos jurídicos e patrimoniais em favor do autor.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535 do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto às questões de fundo, sustenta ofensa aos artigos 138 e 139 do Código Civil, ao argumento de que "não há que se falar em ato jurídico perfeito, visto que para tanto seria necessária manifestação de vontade expressa do autor, e não há nenhum documento assinado autorizando a utilização das licenças-prêmio para a retroação do abono de permanência, mas apenas para a obtenção desta vantagem" (fl. 219).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 244.
+É o relatório. Passo a decidir.
+Registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+De início, não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No mais, colhe-se do aresto impugnado a seguinte fundamentação (fls. 185-188, grifos no original):
+ ..
+Quanto à possibilidade da conversão do período não usufruído em pecúnia, a matéria não comporta maiores digressões, tendo em vista que o STF e o STJ pacificaram o entendimento desse direito do servidor no momento de sua aposentação. A exemplificar:
+1. A jurisprudência consolidada desta Corte já assentou que os servidores públicos têm direito à conversão em pecúnia da licença-prêmio não gozada, desde que cumpridos os requisitos necessários à sua concessão, mesmo que tal direito seja suprimido por lei revogadora superveniente. 2. O recurso extraordinário possui como pressuposto necessário à sua admissão o pronunciamento explícito sobre as questões objeto do recurso, sob pena de supressão de instância inferior. 3. Agravo regimental improvido. (STF, AI 460152 AgR, Relatora Min. ELLEN GRACIE, Segunda Turma, DJ 10/02/06, p. 10)
+ ..
+Assim, mesmo não sendo caso de falecimento, o servidor que se aposentou sem ter usufruído de licença-prêmio, nem dela se valido para fins de aposentadoria, tem direito à sua conversão em pecúnia, sob pena de enriquecimento ilícito da Administração. Essa conversão não fere o art. 37, XII, da CF/88, visto que não se trata de aumento na remuneração, mas sim de direito adquirido pelo servidor, não podendo, portanto, ser revogado pela legislação superveniente.
+A sentença reconheceu parcialmente o direito à desabervação do período de licença prêmio computado para a aposentadoria de forma excedente. Todavia, no tocante aos valores pagos retroativamente a título de abono permanência, oriundos da conversão de parcela dos dias de licença prêmio, o juízo a quo entendeu que o autor gozou do benefício, não podendo voltar atrás em sede judicial.
+No caso dos autos, tenho que a manutenção da sentença é medida que se impõe. Conforme bem destacou a sentença recorrida, in verbis:
+O autor narrou que, de fato, postulou a concessão do abono de permanência, em 24 de janeiro de 2008. Todavia, defendeu que apenas autorizou a utilização do tempo de licença- prêmio necessário à concessão do abono na data do requerimento, que seria um total de 65 dias (130 em dobro), conforme a simulação do ev. 12, PLAN2. Ainda assim, sobraria um total de 145 dias de licença-prêmio não utilizados, a serem convertidos em pecúnia.
+No entanto, o que ocorreu foi a utilização de mais do que 65 dias de licença-prêmio ainda não utilizada pelo autor, o que ocasionou na retroação dos efeitos do abono, o que, segundo o demandante, não teria sido autorizado.
+Todavia, fato é que o autor utilizou dos períodos de licença-prêmio para retroação do abono de permanência e vem percebendo a rubrica desde então, conforme ficha financeira (ev. 1, FINANC7). Sendo assim, o benefício gerou efeitos jurídicos e patrimoniais em favor do autor. Se a intenção da parte autora era tão somente autorizar a utilização da parte da licença-prêmio necessária à concessão do abono em janeiro de 2008, deveria ter se irresignado contra a decisão que deferiu a retroação do abono na época da concessão, e não agora, mais de cinco anos após a concessão do benefício.
+ ..
+No entanto, conforme informação juntada pela União (ev. 32, OFIC1), mesmo com a retroação do abono de permanência, restam 30 dias de licença-prêmio não gozados nem convertidos.
+A jurisprudência reconhece o direito à conversão em pecúnia dos períodos de licenças- prêmio não gozadas nem computadas em dobro para aposentadoria. A título exemplificativo, oportuno mencionar os seguintes julgados do TRF/4ª:
+ ..
+Por isso, procede o pedido de conversão dos 30 (trinta) dias de licença-prêmio não gozadas nem convertidas, que devem ser convertidas em pecúnia.
+Logo, ainda que não haja expressa manifestação de vontade, tenho que o autor, ao receber os valores retroativos a título de abono permanência oriundos da conversão da licença prêmio, acabou por aceitá-la implicitamente. Passados tantos anos do recebimento da pecúnia retroativa, reconhecer o direito do autor de alterar tal situação já consolidada, seria afrontar a segurança jurídica e o ato jurídico perfeito.
+Ante o exposto, voto por negar provimento à apelação da parte autora.
+Ao que se vê, os artigos 138 e 139 do Código Civil, indicados como malferidos pelo recorrente, não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Da mesma forma, percebe-se que o recurso contém alegações genéricas, imprecisas no que diz respeito a suposta violação dos referidos dispositivos, de modo que apresenta argumentação dissociada da fundamentação adotada pela Corte a quo, situação que impede a exata compreensão da controvérsia deduzida e impede o conhecimento do apelo.
+A propósito (grifos nossos):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXTENSÃO AOS SERVIDORES INATIVOS. PROPORCIONALIDADE. DESCABIMENTO. LIMITAÇÃO. REVISÃO. IMPOSSIBILIDADE. VALOR DA GDARA. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF.
+ ..
+III - A indicação de violação do art. 186 da Lei n. 8.112/90, quando realizada de forma genérica, sem questionar os aspectos mais salientes da fundamentação do acórdão recorrido e sem desenvolver argumentos para demonstrar especificamente a suposta mácula, caracteriza deficiência desta parcela recursal. Incidência do enunciado n. 284 da Súmula do STF.
+IV - Agravo interno improvido. (AgInt no REsp 1656293/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.  ..
+VI - Agravo Interno improvido. (AgInt nos EDcl no REsp 1587879/AL, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 9/10/2017)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
