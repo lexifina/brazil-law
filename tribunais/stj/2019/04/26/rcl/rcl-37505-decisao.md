@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de reclamação ajuizada por [NOME] contra decisão proferida por Desembargador do Tribunal de Justiça do Estado de Goiás que, no julgamento de recurso de apelação manejado nos autos de cumprimento de sentença, deixou de arbitrar honorários sucumbenciais em favor da parte ora reclamante, contrariando a orientação contida na Súmula 345/STJ.
+De acordo com a insurgente (e-STJ, fls. 3-5):
+A Reclamante ajuizou ação de Execução Individual de Sentença, em face do Município de Goiânia, uma vez que a Ação Civil Pública, sob o nº 236135- 91.2013.8.09.0051, proposta pelo Ministério Público Estadual de Goiás condenou o Município de Goiânia, determinando a nomeação dos aprovados no Concurso Público, abstendo-se de celebrar contratos temporários enquanto houver aprovados aguardando nos Cargos de Agente Comunitário de Saúde (ACS) e de Agente de Combate e Endemias (ACE).
+A Douta Magistrada de instância singular declarou extinto a demanda de cumprimento de sentença, tendo em vista que o município havia cumprido com a obrigação de nomear a candidata. Todavia, deixou de arbitrar os honorários sucumbenciais do presente causídico, estando em desconformidade com o que preceitua a súmula 345 deste Egrégio Superior Tribunal de Justiça.
+Irresignada, a parte Autora interpôs recurso de Apelação, uma vez que não foram arbitrados honorários sucumbenciais devidos a este, tendo o respeitável Desembargador Ney Teles de Paula em seu acordão que "o executado cumpriu voluntariamente a obrigação lhe imposta, empossando a servidora (Mov. 12, Arq. 2), não havendo que se falar, portanto, na fixação de honorários advocatícios".
+Contudo, o Executado, ora reclamado, não cumpriu voluntariamente a obrigação imposta pela sentença proferida nos autos da Ação Civil Pública proposta pelo Ministério Público, tendo em vista que a sentença foi proferida no dia 17 de dezembro de 2013 e não foi tomada nenhuma atitude do Município de Goiânia em nomear a candidata, vejamos:
+ ..
+Diante da inação do Ente Municipal, a Autora propôs uma Ação de Execução Individual no dia 13 de março de 2017 e a posse da Exequente foi realizada apenas no dia 20 de junho de 2017, ou seja, quase 3 (três) meses após a propositura da ação.
+Requer a procedência da reclamação para que sejam arbitrados honorários sucumbenciais, nos termos da Súmula 345/STJ.
+Decido.
+O Código de Processo Civil de 2015 assim disciplinou o instituto da reclamação:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+§ 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+§ 5º É inadmissível a reclamação:
+I - proposta após o trânsito em julgado da decisão reclamada;
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+§ 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+No caso, não se verifica a presença de nenhuma das situações previstas no ordenamento jurídico pátrio para o manejo da reclamação.
+O simples enunciado de Súmula editada pelo STJ não é suficiente para o cabimento da reclamação.
+Ademais, ainda que a parte reclamante aponte a existência de violação de precedente vinculante desta Corte Superior, a exemplo de julgamento submetido ao rito dos recursos repetitivos, o cabimento da reclamação exige o prévio esgotamento de instância, consoante dispõe o art. 988, § 5º, do CPC transcrito acima, não sendo admissível a utilização da reclamatória como mero sucedâneo recursal.
+Sobre a aplicação do citado dispositivo, o Supremo Tribunal Federal assim se manifestou:
+PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o iter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+2. Agravo regimental não provido.
+(Rcl 24.686 ED-AgR, Rel. Min. Teori Zavascki, Segunda Turma, julgado em 25/10/2016, DJe 10/4/2017 - grifei.)
+Por sua vez, o Superior Tribunal de Justiça, quanto ao momento do exaurimento da jurisdição ordinária, firmou o entendimento de que, para fins do art. 988, § 5º, do Código de Processo Civil/2015, " o  esgotamento das instâncias ordinárias somente se caracteriza após o término da análise de admissibilidade do recurso especial pelo Tribunal local, na forma preconizada no art. 1.030 do CPC, não sendo admitida a interposição da reclamação de forma prematura" (AgRg na Rcl 33.054/RS, Rel. Min. Jorge Mussi, Terceira Seção, DJe 22/6/2017).
+Em idêntica direção, ainda o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. RECURSO REPETITIVO. EXIGÊNCIA DE PRÉVIO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS (ART. 988, § 5º, II, CPC/2015): INTERPRETAÇÃO. NECESSIDADE DE MANIFESTAÇÃO DO TRIBUNAL DE SEGUNDO GRAU EM JUÍZO DE RETRATAÇÃO. NECESSIDADE DE REALIZAÇÃO DO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. O manejo de Reclamações contra julgado que tenha decidido contrariamente ao entendimento assentado pelo Superior Tribunal de Justiça em sede de recurso repetitivo (art. 543-C do CPC/1973 ou 1.036 do CPC/2015) pressupõe o prévio esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015).
+2. Amparada em precedentes do Supremo Tribunal Federal (dentre eles: Rcl 24.259/DF, Rel. Ministra Rosa Weber, DJe de 22/6/2016; Rcl 24.323/DF, Rel. Ministro Gilmar Mendes, DJe de 16/6/2016; Rcl 24.215 MC/DF, Rel. Ministro Celso de Mello, DJe de 9/6/2016; Rcl 23.476/DF, Rel. Ministro Teori Zavascki, DJe de 25/5/2016), a jurisprudência desta Corte vem entendendo que "a mera interposição dos recursos extraordinário e especial, por si só, não é o suficiente para a satisfação do requisito do esgotamento das instâncias ordinárias previsto no inciso II do § 5º do art. 988 do CPC/2015" (Ag. Reg. na Reclamação 23.476/MS, Relator o Ministro Teori Albino Zavascki, DJe de 18/08/2016).
+3. Para que ocorra o esgotamento das instâncias ordinárias na forma exigida pelo inciso II do § 5º do art. 988 do CPC/2015, é necessário que o Tribunal de segundo grau tenha se manifestado sobre o tema em sede de juízo de retratação e que o recurso especial interposto naquele feito pelo Reclamante já tenha tido a sua admissibilidade examinada no segundo grau de jurisdição. Antes disso, o manejo da Reclamação é prematuro.
+4. Refoge à lógica que rege o princípio da utilidade admitir-se o manejo prematuro de ação e/ou recurso que se volte contra julgado cuja reforma ainda pode ser obtida por outros meios que não a provocação de uma instância superior.
+5. Ainda que o § 6º do art. 988 do CPC/2015 afirme, expressamente, que "A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação", a manifestação prévia em sede de juízo de admissibilidade do recurso especial/extraordinário posteriormente ao juízo de retratação, nos termos do art. 1.030, V, "c", do CPC/2015, ainda é atribuição do Tribunal de segundo grau e, por isso, deve ser compreendida na interpretação do comando legal que demanda o esgotamento prévio das instâncias ordinárias para o manejo da Reclamação.
+6. Precedentes desta Corte: Rcl 32.171/PR, Rel. Ministro Sérgio Kukina, DJe de 10/08/2016; Rcl 32.559/RS, Rel. Ministra Maria Thereza de Assis Moura, DJe de 25/11/2016; Reclamação 33.043/RS, Rel. Min. Jorge Mussi, de 13/02/2017; AgInt na Rcl 32.502/SP, Rel. Ministro Luis Felipe Salomão, julgado em 23/11/2016, DJe 01/12/2016.
+7. Dita interpretação não põe em risco o primado da rápida tramitação das causas e da economia processual, mas apenas aplica a lei que, mesmo impondo requisitos (incisos I e II do § 5º do art. 988), já constitui avanço em relação à legislação anterior.
+8. Situação em que a Reclamação foi ajuizada após a manifestação do Tribunal de Justiça em sede de juízo de retratação, mas antes que fosse realizado o juízo de admissibilidade do recurso especial interposto pelo Reclamante.
+9. Agravo regimental do Ministério Público Federal a que se nega provimento.
+(AgRg na Rcl 32.945/RS, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 22/2/2017, DJe 2/3/2017 - grifos acrescidos).
+No caso, a reclamante não logrou demonstrar que o ato judicial reclamado descumpriu precedente submetido ao rito dos recursos repetitivos, tampouco houve a comprovação do prévio exaurimento de instância.
+Ante o exposto, indefiro a petição inicial da reclamação e extingo o feito, sem resolução do mérito, na forma do art. 485, I e IV, do CPC/2015.
+Publique-se. Intimem-se.
