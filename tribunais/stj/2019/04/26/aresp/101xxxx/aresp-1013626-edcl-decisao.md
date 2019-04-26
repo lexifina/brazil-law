@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES
+DECISÃO
+Da leitura da petição de agravo de instrumento, pode-se aferir que NELIA MARIA DA SILVA (NELIA MARIA) opôs exceção de pré-executividade nos autos do cumprimento de sentença requerido pela CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (PREVI), sob o argumento de ausência de título executivo.
+O Juízo de piso não acolheu a exceção de pré-executividade.
+Contra essa decisão, NELIA MARIA interpôs agravo de instrumento que foi parcialmente provido pelo Tribunal de origem, conforme a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - EXCEÇÃO DE PRÉ-EXECUTIVIDADE JULGADA IMPROCEDENTE - IRRESIGNAÇÃO - AGRAVANTE QUE PROPÔS REVISONAL EM DESFAVOR DA PREVI - JULGAMENTO PARCIALMENTE PROCEDENTE DA REVISONAL FAVORÁVEL A RECORRENTE - POSSIBILIDADE DE CUMPRIMENTO DE SENTENÇA PROFERIDA EM REVISIONAL DE NATUREZA DÚPLICE - DECLARATÓRIA E CONDENATÓRIA - NÃO EXIGIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL - PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ARTIGO 601 DO CPC - NÃO CARACTERIZAÇÃO DE ATO ATENTATÓRIO A DIGNIDADE DA JUSTIÇA - DECISÃO REFORMADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fl. 255).
+Os embargos de declaração opostos pela PREVI foram desacolhidos e os de NELIA MARIA foram parcialmente providos nos termos da seguinte ementa:
+EMBARGOS DA CAIXA DE PREVIDÊNCIA. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ACLARATÓRIOS OPOSTOS SOB ALEGAÇÃO DE CONTRADIÇÃO E OBSCURIDADE. DECISÃO ULTRA PETITA. TESE NÃO ACOLHIDA. TÍTULO EXECUTIVO SEM LIQUIDEZ. PREQUESTIONAMENTO. MATÉRIA QUE FOI ANALISADA DETIDAMENTE QUANDO DO JULGAMENTO DO AGRAVO DE INSTRUMENTO N.º 201500728087. RECURSO CONHECIDO E IMPROVIDO. EMBARGOS DE NELIA MARIA DA SILVA. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ACLARATÓRIOS OPOSTOS POR NELIA MARIA DA SILVA SOB ALEGAÇÃO DE OMISSÃO.DECISUM QUE NÃO SE PRONUNCIOU ACERCA DOS HONORÁRIOS ADVOCATÍCIOS NA ORDEM DE 20%, NOS TERMOS DO ART. 20 §3º DO CPC/73. OMISSÃO SANADA, CONTUDO PARA FIXAR OS HONORÁRIOS COM FUNDAMENTO NO ART. 24, §4º, DO CÓDIGO DE PROCESSO CIVIL/73. RECURSO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fls. 375/384).
+Inconformada, a PREVI interpôs recurso especial com base no art. 105, III, a e c, da CF, sustentando a ocorrência de violação dos arts. 535, II, do CPC/73 e 515, I, do NCPC. Alegou, em síntese, (1) omissão no julgado; e, (2) que as sentenças judiciais são exequíveis, já que conferem as partes litigantes credor e devedor obrigações, as quais devem ser cumpridas por ambas. Apontou, por fim, (3) dissídio jurisprudencial com relação a liquidez do título.
+Houve contrarrazões (e-STJ, fls. 430/453).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre por não verificar a alegada violação do art. 535 do CPC/73 e pela incidência da Súmula nº 7 do STJ.
+Dessa decisão, foi interposto o presente agravo em recurso, no qual foi refutado os fundamentos da decisão de inadmissão.
+Houve contraminuta (e-STJ, fls. 495/519).
+O agravo foi conhecido mas não provido o recurso especial em decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73 QUE NÃO SE VERIFICA. SENTENÇA PROFERIDA EM AÇÃO REVISIONAL. TÍTULO EXECUTIVO JUDICIAL. ILIQUIDEZ DO TÍTULO. RAZÕES DISSOCIADAS DO FUNDAMENTO DA DECISÃO RECORRIDA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO,NÃO PROVIDO (e-STJ, fl. 530).
+Nas razões destes aclaratórios, NELIA MARIA afirmou a existência de omissão no que se refere à majoração dos honorários recursais, nos termos do art. 85, § 11, do NCPC.
+Houve impugnação (e-STJ, fls. 541/548).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+NELIA MARIA afirmou a existência de omissão no que se refere à majoração dos honorários recursais, nos termos do art. 85, § 11, do NCPC.
+O apelo nobre e o agravo em recurso especial foram interpostos já na vigência do NCPC e em razão do não provimento do apelo nobre é forçoso reconhecer a necessidade de majoração dos honorários advocatícios a serem pagos pela PREVI de R$ 5.000,00 (cinco mil reais) para R$ 5.500,00 (cinco mil e quinhentos reais), nos termos do art. 85 e seus parágrafos, do NCPC, observada, a assistência judiciária gratuita caso existente.
+Nessas condições, ACOLHO os embargos de declaração, com efeitos infringentes, para determinar a majoração dos honorários advocatícios nos termos da fundamentação supra.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se
