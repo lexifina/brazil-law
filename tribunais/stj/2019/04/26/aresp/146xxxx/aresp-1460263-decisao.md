@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o seu recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 7 anos, 8 meses e 12 dias de reclusão, em regime inicial fechado, e pagamento de 136 dias-multa, pela prática do crime capitulado no art. 157, § 2º, incisos I e II, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação perante a Corte de origem, a qual negou provimento ao reclamo, mantendo integralmente o édito condenatório.
+Apresentado recurso especial com fulcro nas alíneas a e c do permissivo constitucional, esse não foi admitido na origem, ensejando a presente insurgência, na qual o agravante alega que os óbices indicados na decisão de admissibilidade não incidiriam in casu.
+Requer o acolhimento do agravo, a fim de que seja admitido e provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo não provimento da insurgência.
+É o relatório.
+De plano, verifica-se que o presente recurso não se deve conhecer, tendo em vista que o agravante, em suas razões, não atacou, especificamente, os fundamentos da decisão agravada.
+Quanto às razões que levaram à inadmissibilidade do recurso especial, assim se manifestou a Corte de origem:
+"Com efeito, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029, do Código de Processo Civil, o que afasta a possibilidade de seu conhecimento.
+O E. Superior Tribunal de Justiça, considerando a importância desse requisito formal, assinalou que "(..) Nas razões do apelo nobre, faz-se necessária a expressa e correta indicação dos dispositivos legais eventualmente ofendidos pela decisão recorrida, como também a indicação precisa dos parágrafos e/ou alíneas, a fim de que se possa identificar clara e fundamentadamente as razões da irresignação, e de que modo consistiram as tais ofensas, sob pena de ser incabível a admissibilidade do recurso, em decorrência da deficiência na sua fundamentação. Incidência do enunciado n. 284 da Súmula do STF".
+Nem mesmo com base no dissídio jurisprudencial o reclamo pode ser conhecido, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+O Diploma Processual Civil, no artigo 1.029, § 1º , bem como o RISTJ, em seu artigo 255, § 1º, dispõem que: "Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência , com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.".
+Pertinente a decisão proferida pelo C. STJ, no sentido de que "o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque a parte recorrente não citou o repositório oficial, autorizado ou credenciado em que fora publicado o acórdão paradigma. Ademais, não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa". Por fim, incide ao caso o óbice da Súmula nº 7, do Superior Tribunal de Justiça, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial.". A propósito, decidiu o Colendo Superior Tribunal de Justiça, no AgRg no AREsp 1156800/SP, Rel. Ministra Maria Thereza de Assis Moura, julgado em 28/11/2017, DJe 04/12/2017 que "(..) Nos termos do artigo. 105, inciso III, da Constituição Federal, o Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, seja pelo permissivo da alínea a, seja pelo permissivo da alínea c, o revolvimento de todos os fatos da causa e do processo, à moda de recurso ordinário ou de apelação. Óbice do enunciado 7 da Súmula do STJ". (e-STJ fls. 1.099-1.100).
+Depreende-se, assim, que o decisum que não admitiu o recurso especial assentou-se na incidência das Súmulas ns. 284/STF e 7/STJ, e, também, na ausência de cotejo analítico entre o acórdão recorrido e o paradigma. Todavia, o agravante limitou-se a reproduzir as razões recursais já constantes do recurso especial, sem cuidar de desconstituir os fundamentos da decisão agravada.
+Destaque-se que, em sede recursal, é necessário que a parte refute de forma direta todos os impedimentos apontados para a não admissão de seu recurso especial, explicitando os motivos pelos quais esses não incidiriam no caso em testilha, o que não se verifica na espécie.
+É entendimento do Superior Tribunal de Justiça que "a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa, não bastando aduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecido, por exemplo, a desarmonia do julgado com a jurisprudência da Corte Superior ou ainda a desnecessidade de uma incursão na seara probatória" (AgRg no AREsp nº 425.292/PR, Rel. Min. Jorge Mussi, Quinta Turma, DJe 25/09/2014).
+Nesse sentido, vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. ART. 288 DO CP. OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+ ..
+4. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada atrai a incidência do enunciado sumular 182 desta Corte Superior.
+5. Agravo regimental parcialmente provido para declarar extinta a punibilidade da recorrente JANE SANTIAGO SANTOS, em relação ao crime do art. 288 do CP.
+(AgRg no AREsp 1121856/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/08/2018, DJe 10/08/2018)
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. TRIBUNAL DE ORIGEM. DECISÃO. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. INTEMPESTIVIDADE DO AGRAVO INTERPOSTO NA ORIGEM. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO.
+1. Não havendo impugnação específica acerca de todos os fundamentos da decisão que não admitiu o recurso especial, deve ser aplicada, por analogia, a Súmula n. 182 deste Tribunal Superior.
+ ..
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1251987/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/08/2018, DJe 14/08/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE NEGATIVO. NECESSIDADE DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO TRIBUNAL DE ORIGEM. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 808133/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018)
+Desse modo, deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do STJ.
+Além disso, constata-se a impossibilidade de conhecimento do reclamo fulcrado na alínea c do permissivo constitucional, haja vista não ter sido demonstrado o dissídio jurisprudencial, nos termos em que exigido pela legislação processual de regência, especialmente no art. 1.029, § 1º, do CPC, c.c o art. 255, § 1º, do RISTJ.
+Ante o exposto, não se conhece do agravo em recurso especial, nos termos do artigo 34, inciso VII, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
+Cientifique-se o Ministério Público Federal.
