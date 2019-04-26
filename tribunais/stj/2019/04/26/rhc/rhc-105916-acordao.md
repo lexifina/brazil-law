@@ -1,0 +1,38 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DECRETO. FUNDAMENTAÇÃO IDÔNEA. AÇÃO PENAL EM ANDAMENTO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. As prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição do direito constitucional à liberdade de locomoção.
+2. A decisão que decretou a prisão preventiva está idoneamente fundamentada na contumácia delitiva do recorrente, que já responde pela prática de crime de roubo majorado.
+3. Eventuais condições pessoais favoráveis do réu não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+4. Concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+5. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais (HC n. 1.0000.18.105829-8/000 - fls. 75/83).
+Colhe-se dos autos que o ora recorrente, preso em flagrante pela suposta prática do crime de tráfico de drogas, teve sua prisão convertida em preventiva pelo Juízo de Direito da Central de Flagrantes da comarca de Belo Horizonte/MG (Autos n. 0024.18.008579-7 - fls. 22/23).
+Irresignada, a defesa impetrou habeas corpus, cuja ordem foi denegada pelo Tribunal de origem, em acórdão assim ementado (fl. 75):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - NECESSIDADE - PERICULOSIDADE CONCRETA - QUANTIDADE E DIVERSIDADE DE DROGAS - ENVOLVIMENTO COM A CRIMINALIDADE. Presentes os motivos da preventiva, consubstanciados na garantia da ordem pública, impõe-se a manutenção da restrição da liberdade do paciente, mormente levando-se em conta a sua periculosidade concreta, diante da quantidade e diversidade de drogas apreendidas e da notícia de envolvimento dele com a criminalidade.
+Daí o presente recurso, no qual a defesa pretende, em suma, a revogação da prisão preventiva, em virtude de suposta falta de fundamentação idônea para sua decretação. Sustenta que não estariam presentes os requisitos previstos no art. 312 do Código de Processo Penal. Aduz que o réu é primário e postula, subsidiariamente, a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 110/111), o Ministério Público Federal opinou pelo não provimento do recurso, em parecer assim ementado (fl. 117):
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº 11.343/06).
+PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PROCESSO EM ANDAMENTO. ROUBO MAJORADO. EXPRESSIVA QUANTIDADE DE DROGAS VARIADAS. GARANTIA DA ORDEM PÚBLICA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO SUFICIENTE. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO.
+PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo singular decretou a custódia preventiva, tendo em vista que o ora recorrente já foi anteriormente preso em flagrante, no dia 23/6/2017, suspeito da prática de roubo majorado, vindo a ser agraciado com a soltura em 30/6/2017, bem como devido ao fato de se tratar do tráfico de 3 invólucros de plástico contendo pedras de crack, além de outros 10 papelotes de plástico contendo cocaína  .. , 14 invólucros de plástico contendo pedras de crack, 2 pinos de plástico contendo cocaína e 26 invólucros de plástico contendo maconha (fl. 22).
+Tal fundamentação foi mantida pelo Tribunal de Justiça, que afastou qualquer ilegalidade quanto à segregação.
+Como se vê, a decisão que decretou a prisão preventiva está motivada, principalmente, na contumácia delitiva do recorrente, que já responde pela prática de crime de roubo majorado, ou seja, fundamentação idônea e harmônica com o entendimento desta Casa sobre o tema.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+No mesmo sentido:
+HABEAS CORPUS. IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO QUALIFICADO TENTADO E FALSA IDENTIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RÉU QUE POSSUI OUTROS REGISTROS CRIMINAIS ANTERIORES POR CRIME DA MESMA ESPÉCIE. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+3. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto o paciente possui outros registros criminais pela prática de crimes contra o patrimônio. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+4. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva (RHC n. 68.550/RN, da minha relatoria, DJe 31/3/2016).
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+6. Habeas corpus não conhecido.
+(HC n. 446.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2018 - grifo nosso).
+É, ainda, de rigor que se registre que, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis do réu não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Ademais, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
