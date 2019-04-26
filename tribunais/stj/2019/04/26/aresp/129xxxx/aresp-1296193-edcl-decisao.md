@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por EVELYN BARRA contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a embargante sustenta a existência de omissão e contradição quanto "à situação da alegada efetivação da venda da moto de propriedade da recorrente, bem como no tocante ao suposto pagamento do preço" (fl. 418).
+Requer o provimento dos embargos de declaração e a reforma da decisão agravada.
+Devidamente intimado, o embargado não se manifestou.
+É o relatório.
+Inicialmente, tem-se que os segundos embargos de declaração, EDCL 00125278/2019 (fls. 421-425), não ultrapassa o juízo de admissibilidade. Isso, porque a duplicidade de recursos interpostos pela mesma parte, a fim de impugnar a mesma decisão, importa o não conhecimento do recurso que foi interposto por último, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica as alegadas omissão e contradição no julgado, pois, no tocante à efetivação da venda do veículo e o pagamento do preço, a decisão embargada consignou:
+"A Corte de origem, após detalhada análise do contexto fático-probatório, decidiu a matéria em debate pelos seguintes fundamentos (fls. 274/277):
+ "Como se observa, o caso em julgamento apresenta situação emblemática com relação à ocorrência da compra e venda do veículo especialmente com relação ao recorrido.
+ Ainda que a recorrente não admita ter celerado o contrato de compra e venda, as declarações firmadas por [NOME] e [NOME] expressam afirmativa contrária ao que foi por ela assegurado (fls. 32/37). Isso compromete muito a veracidade das suas alegações, que não encontram outra justificativa probatória eficiente para afastar a inexistência do negócio.
+ Nesse diapasão constou:
+ (..)
+ Como se nota, impossível aceitar que não tenha havido efetivamente uma negociação de compra e venda. A assinatura da recorrente aposta no documento de transferência de propriedade de veículo é outro forte elemento probatório para afastar a alegação de que não foi realizada nenhuma transação de compra e venda (fl. 31).
+ De igual forma, corroborando a convicção sobre a existência do negócio sub judice, é possível compreender, por meio das mensagens trocadas entre a recorrente e o [NOME], ex-namorado e ex-funcionário da sua empresa, que havia realmente a necessidade de se vender a moto (fl. 82). Por consequência, independentemente das razões que levaram a entrega do documento de transferência, a recorrente questionou o próprio [NOME] por que teria passado às mãos referido apontamento sem mencionar os dados do comprador (fls. 82/83). A despeito, a recorrente submeteu nova pergunta ao [NOME], a saber: "Como vou preencher e reconhecer firma  Em resposta, ele afirmou: "amanha (sic) ele vem aqui" (fl. 83).
+ Dessa forma, ao contrário do que defende, irrefutável como não ter celebrado contrato de compra e venda com o recorrido.
+ Com relação ao pagamento do preço, aparece uma situação de transferência bancária no valor de R$20.000,00 feita por Maria Zanin para a conta em nome da empresa da autora SVIRTUAL SERVIÇOS A EIRELI ME. (fl. 79).
+ Segundo a recorrente, essa importância não se refere à compra da moto, mas é proveniente de empréstimo pessoal feito em benefício de Danielle Zanin, filha de Maria Zanin e irmão do recorrido.
+ É verdade que a recorrente juntou ao processo planilha demonstrativa de pagamento/débito, fatura de conta de telefone, diversos comprovantes de contas, além de outros documentos para comprovar o empréstimo que realizou para Danielle, mas se trata de elementos produzidos unilateralmente que não têm o condão de afastar pontualmente o pagamento do preço.
+ É natural que, inteirado o pagamento do preço, ao comprador se transfira o domínio pleno, o que se exterioriza com a quitação, em geral aposta no documento de transferência.
+ Vale lembrar que a recorrente não tinha os dados do comprador para anotar no documento de transferência e, desprovida dessas informações, o preenchimento regular ficaria comprometido, mas a consolidação do domínio se operou independentemente dessa declaração, conforme regra prevista no art. 524 do CC.
+ (..)
+ Relativamente ao pagamento em duplicidade, em virtude dos fundamentos mencionados, tal questão deixa de ter relevância à elucidação do caso, mas a título de argumentação, o recorrido, em sua defesa, asseverou que o pagamento duplicado foi corrigido (fl. 66).
+ Como se depreende, impossível aplicar o princípio da exceção do contrato não cumprido. O conjunto probatório reunido nesse processo mostra que a recorrente estava inadimplente quanto à sua obrigação. Na hipótese, recusou-se a entregar a documentação do veículo e o fez por ordem judicial.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de que há enriquecimento ilícito da parte recorrida, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ." (fls. 410-412)
+Nessas condições, ausente os alegados vícios na decisão embargada, verifica-se o nítido o propósito da parte embargante em rediscutir tema que foi devidamente apreciado, o que é defeso por meio da via processual escolhida.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
