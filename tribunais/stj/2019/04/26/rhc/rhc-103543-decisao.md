@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário com pedido liminar interposto por EDER CASTALDI contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. [CPF]).
+Foi o recorrente denunciado pela suposta prática dos crimes de homicídio qualificado e de tentativa de homicídio, tendo sido submetido a julgamento perante o Tribunal do Júri e condenado à pena de 30 (trinta) anos e 8 (oito) meses de reclusão, mais 4 (quatro) meses de detenção, no regime inicial fechado.
+Buscando o relaxamento da custódia, impetrou a defesa habeas corpus no Tribunal de Justiça do Estado do Rio Grande do Sul. Entretanto, em sessão de julgamento realizada em 22 de agosto de 2018, os desembargadores integrantes da Primeira Câmara de Direito Criminal, por unanimidade de votos, denegaram a ordem (e-STJ fls. 3183/3186).
+No Superior Tribunal de Justiça, reitera a defesa a alegação de excesso de prazo na prisão cautelar do recorrente. Pondera que, muito embora condenado pelo Tribunal do Júri, o recorrente ainda tem a sua disposição o recurso de apelação, "de sorte que ainda distante de transitar em julgado a sentença condenatória, não se podendo falar em juízo de certeza sobre a causa" (e-STJ fl. 3.201). Destaca que o acusado se encontra custodiado há mais de seis anos e "não possui qualquer confirmação, ainda que pelo esgotamento das instâncias ordinárias, do seu édito condenatório" (e-STJ fl. 3.202). Diante disso, pede, liminar e definitivamente, o relaxamento da custódia cautelar.
+O pedido liminar foi indeferido (e-STJ fls. 3.228/3.229).
+Informações prestadas (e-STJ fls. 3.235/3.237 e 3.238/3.292).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 3.294/3.298).
+É, em síntese, o relatório.
+Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência do esgotamento da jurisdição ordinária, tendo em vista que, atualmente, o feito se encontra na fase de processamento do recurso especial interposto contra o acórdão de apelação, de modo que não se está mais diante de custódia preventiva, mas sim de execução provisória da pena
+Portanto, prejudicado está o pleito de liberdade, tendo em vista que, como é cediço, a nova orientação consolidada pelo Supremo Tribunal Federal (STF) é a de possibilitar a execução provisória de acórdão condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, relator Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+Sobre o tema, no julgamento do HC n. 126.292/SP, o STF deixou assentado que a execução de sentença penal condenatória confirmada por Tribunal de segundo grau "não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal".
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
