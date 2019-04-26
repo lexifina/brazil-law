@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+Verifica-se que a questão jurídica objeto do presente recurso - direta ou indiretamente - constitui tema dos Recursos Especiais n. 1.554.596/SC e 1.596.203/PR (Tema 999 - Possibilidade de aplicação da regra definitiva prevista no art. 29, I e II, da Lei 8.213/1991, na apuração do salário de benefício, quando mais favorável do que a regra de transição contida no art. 3º da Lei 9.876/1999, aos Segurados que ingressaram no sistema antes de 26/11/1999 - data de edição da Lei 9.876/1999), de relatoria do Min. Napoleão Nunes Maia Filho, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015.
+Assim, o julgamento imediato do recurso especial seria prematuro.
+De outra parte, a admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, na hipótese de o julgamento recorrido estar em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado neste Superior Tribunal, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
