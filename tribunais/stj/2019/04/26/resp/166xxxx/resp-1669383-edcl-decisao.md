@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 828/831) opostos à decisão desta relatoria que julgou prejudicado o recurso especial interposto pelo embargante (e-STJ fls. 804/805).
+A parte embargante aponta que a decisão seria omissa, por ter julgado prejudicado o seu especial, ante o acolhimento da preliminar de ofensa ao art. 1.022, II, do CPC/2015, suscitada no recurso da embargada e, por consequência, deixado de examinar o seu pedido de revisão do termo inicial da correção monetária incidente sobre os valores pagos na aquisição do veículo da empresa.
+Acrescenta que "são absolutamente independentes as matérias discutidas nos recursos especiais apresentados por cada uma das partes. Por essa razão, a decisão que resolva qualquer um dos dois recursos não implica prejuízo às questões debatidas no outro" (e-STJ fl. 829).
+Nesse contexto, requer "que este Egrégio Tribunal Superior reforme acórdão recorrido, pronunciando-se sobre a questão omissa, de modo que a correção monetária incidente sobre a restituição devida pelo embargado seja contada desde a data do desembolso realizado pelo embargante" (e-STJ fl. 831).
+Não foi apresentada impugnação (e-STJ fl. 835).
+É o relatório.
+Decido.
+A decisão embargada acolheu a preliminar de negativa de prestação jurisdicional por omissão suscitada pela empresa embargada, nos seguintes termos (e-STJ fls. 807/808):
+A recorrente requereu nos aclaratórios que o Tribunal a quo examinasse os pedidos de condenação do recorrido à restituição do veículo adquirido da empresa, bem como do preenchimento do documento de transferência veicular e da entrega dos documentos e acessórios do bem - ante a condenação dessa na restituição das quantias pagas pelo consumidor na aquisição do automóvel, nos termos a seguir (e-STJ fls. 532/533):
+2 - Pois bem, a teor do v. acórdão proferido, ora embargado, verifica-se que a Embargante foi agora condenada a restituição do valor do bem objeto da lide. Entretanto, em momento algum no v. acórdão constou que o veículo deverá então ser devolvido para a embargante, para que o Embargado não se locuplete indevidamente, recebendo o montante pago pelo bem e ainda permanecendo como proprietário do bem. Deve, pois, constar no v. acórdão que o veículo deve ser devolvido pelo embargado a embargante, e que o embargado deve se obrigar a assinar o documento de transferência, devolvendo o veículo com todos os acessórios adquiridos e documentação pertinente à embargante.
+Dessa forma, a Corte de origem, embora instada a se manifestar no ponto, essencial para a solução da controvérsia e suficiente para alterar o resultado do julgamento, não se pronunciou (e-STJ fls. 548/551).
+Nessas circunstâncias, impõe-se o provimento do recurso especial para a anulação do acórdão recorrido, com retorno dos autos à origem para que o Tribunal a quo se pronuncie sobre o tema omitido.
+Diante da anulação do acórdão recorrido, fica prejudicada a análise dos demais temas invocados na insurgência recursal.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de reconhecer a omissão do acórdão recorrido, determinando o retorno dos autos à origem, para que o Tribunal a quo, suprindo o vício verificado, aprecie os embargos de declaração como entender de direito.
+Dessa maneira, o recurso especial do embargante foi julgado prejudicado (e-STJ fl. 805).
+Assim decidindo, esta Relatoria seguiu a jurisprudência consolidada desta Corte Superior, segundo a qual "o acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração" (AgInt no AgInt no AgInt no AREsp n. 1.082.536/MA, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/3/2019, DJe 2/4/2019).
+Ante o exposto, à míngua de quaisquer dos vícios apontados, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
