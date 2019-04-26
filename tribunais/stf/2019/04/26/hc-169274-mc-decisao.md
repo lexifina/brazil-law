@@ -1,0 +1,29 @@
+DESPACHO
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Jean Rodrigo Nunes Leal, advogado, em benefício de Nelson Fortunato da Silva, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que, em 5.2.2019, denegou a ordem no Habeas Corpus n. 475.603, Relator o Ministro Rogerio Schietti Cruz:
+    “HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+    1. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no término da instrução criminal deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+    2. Muita embora não haja sido prolatada a decisão de pronúncia até o presente momento, não está caracterizado o irrazoável excesso de prazo para o término da instrução criminal, porquanto o recorrente foi preso preventivamente em 4/10/2017, e a instrução criminal foi finalizada pelo Juízo de São Miguel do Araguaia – GO em 11/7/2018, que, em seguida, remeteu o feito a outra comarca, com base na Lei Estadual n. 19.938/2017, a qual vinculou o Distrito Judiciário de Bonópolis (local em que foram praticados os crimes) à Comarca de Porangatu – GO.
+    3. Eventual delonga processual para a prolação do decisum afigura-se justificada diante da existência de conflito de competência suscitado pela Comarca de Porangatu – GO, após o encerramento da instrução criminal, o qual ainda está pendente de julgamento pelo Tribunal de origem.
+    4. Verificadas a compatibilidade da duração do processo com as particularidades do caso concreto, sem desídia atribuível ao Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+    5. Ordem denegada. Recomendação para que o Tribunal de origem priorize o julgamento do conflito de competência suscitado pelo Juízo da Comarca de Porangatu – GO”.
+    2. O impetrante reitera a alegação de excesso de prazo da prisão do paciente e ressalta que, “[n]o caso em apreço, foram apresentadas alegações finais pelo Ministério Público em 18/06/2018 e pela Defesa em 11/07/2018 (anexo – HC_STJ_Parte_07 – pag. 31/34 e 38/41), até o presente momento (21/03/2019), JÁ PASSADOS MAIS DE 01(UM) ANO E 05 (CINCO) MESES DA PRISÃO, E MAIS DE 07 (SETE) MESES DO TÉRMINO DA INSTRUÇÃO PROCESSUAL, não foi proferida decisão de Pronúncia, estando os autos parados em cartório aguardando o julgamento do conflito de competência, SEM PREVISÃO DE QUANDO SERÁ PROFERIDA DECISÃO DE PRONÚNCIA”.
+    Afirma que a “demora na prestação jurisdicional é atribuída exclusivamente ao Poder Judiciário, eis que o conflito negativo de competência foi suscitado pelo Juiz presidente do feito e não pelo Paciente, como confirmado nas informações prestadas”.
+    Requer medida liminar “para determinar a soltura imediata do Paciente, até decisão final do Writ”.
+    Pede a concessão da ordem, confirmando-se a medida liminar.
+    3. Em 22.3.2019, indeferi a medida liminar requerida e determinei que se oficiasse ao Tribunal de Justiça de Goiás para, com urgência, prestar informações pormenorizadas quanto ao alegado na presente impetração, em especial quanto ao andamento do conflito de competência suscitado pelo juízo da comarca de Porangatu/GO e à recomendação da Sexta Turma no julgamento do Habeas Corpus n. 475.603 para priorizar o julgamento desse conflito de competência.
+    Prestadas as informações, seria dada vista à Procuradoria-Geral da República.
+    4. A Desembargadora Carmecy Rosa Maria Alves de Oliveira, do Tribunal de Justiça de Goiás, prestou as seguintes informações:
+    “Em atenção ao Ofício n. 730/2019, referente à Medida Cautelar no Habeas Corpus n. 169.274/GO, passo a prestar as seguintes informações:
+    O HCTJ/GO 273571-04.2017 e HCTJ/GO 69774-67.2018, cujo paciente é NELSON FORTUNATO DA SILVA foram julgados em 19 de dezembro de 2017 e em 03 de julho de 2018, respectivamente, pelos integrantes da 2ª Câmara Criminal, os quais à unanimidade de votos, acolheram o parecer ministerial de cúpula, conheceram do pedido e denegaram a ordem, nos termos do voto da relatora.
+    Em relação ao Protocolo de Origem n. 239928-14.2017, informo que encontra-se na 1ª Vara Criminal da Comarca de Porangatu/GO e que maiores e mais detalhadas informações serão dadas pela Comarca de Origem”.
+    5. A Procuradoria-Geral da República manifestou-se nestes termos:
+    “Não há informações do Tribunal de origem acerca do andamento do conflito de competência.
+    (…) 7. Antes da manifestação definitiva, entendo por indispensável as informações solicitadas na decisão cautelar no que se refere ao ‘andamento do conflito de competência suscitado pelo juízo da comarca de Porangatu/GO’.
+    8. Isso posto, o Ministério Público Federal aguarda o cumprimento do que foi determinado na decisão cautelar desse habeas corpus. Caso entenda por desnecessária a diligência, pela abertura de nova vista para manifestação”.
+    6. Pelo exposto, diante da insuficiência das informações prestadas e nos termos do exposto pela Procuradoria-Geral da República, oficie-se à Desembargadora Carmecy Rosa Maria Alves de Oliveira, do Tribunal de Justiça de Goiás, para, com urgência, prestar informações pormenorizadas quanto ao alegado na presente impetração, em especial com relação ao andamento do conflito de competência suscitado pelo juízo da comarca de Porangatu/GO e à recomendação da Sexta Turma no julgamento do Habeas Corpus n. 475.603 para seja priorizado o julgamento desse conflito de competência.
+    Remetam-se, com o ofício, cópias da inicial, da decisão pela qual indeferi a medida liminar no presente habeas corpus e do presente despacho.
+    7. Prestadas as informações, vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 26 de abril de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
