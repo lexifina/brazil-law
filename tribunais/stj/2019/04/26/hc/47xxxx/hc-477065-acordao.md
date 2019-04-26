@@ -1,0 +1,34 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO DO DECRETO PRISIONAL. GARANTIA DA ORDEM PÚBLICA. EVITAR REITERAÇÃO DELITIVA. ANTECEDENTES CRIMINAIS. INDICAÇÃO DE QUE O ACUSADO CONTROLAVA UM DOS PONTOS DE DROGAS NO BAIRRO. PERICULOSIDADE SOCIAL. MEDIDAS CAUTELARES. INADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. In casu, ficaram devidamente demonstrados os indícios de autoria e a materialidade delitiva, bem como delineada a gravidade concreta do delito, sendo o paciente apontado como o que controla um dos pontos de venda de drogas no bairro, além da possibilidade de reiteração criminosa, já que ostenta antecedentes criminais.
+2. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 21947807620188260000.
+Verifica-se dos autos que o paciente está preso preventivamente pela suposta prática de tráfico de drogas.
+Alega-se, no presente writ, em suma, que não foram apontados fundamentos idôneos para justificar a manutenção da prisão cautelar.
+Em 29/10/2018, foi indeferida a liminar (fls. 179/180).
+Informações prestadas às fls. 183/223.
+O Ministério Público Federal emitiu parecer pelo não conhecimento do writ (fls. 226/232).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Tem-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas, convertido o flagrante em prisão preventiva.
+Alegando ausência de fundamentação idônea a manter a segregação cautelar do paciente, a defesa impetrou o presente habeas corpus.
+Eis o decreto preventivo (fl. 36):
+ ..  O caso é de conversão da prisão em flagrante em prisão preventiva. O laudo de constatação indica que a(s) substância(s) apreendida(s), descrita(s) no auto de exibição e apreensão, é(são) entorpecente(s) (Portaria nº 344/1998, SVS/MS), do que decorre a materialidade do delito de tráfico de drogas (art. 33, Lei nº 11.343/06), para o qual se prevê pena privativa de liberdade máxima superior a 4 (quatro) anos. Os indícios de autoria decorrem das circunstâncias descritas no auto de prisão em flagrante, conforma depoimentos dos condutores, já que foi encontrada a droga e com pessoa que os policiais viram receber algo do acusado [NOME] e o dinheiro com o [NOME], cuja entrega havia sido afirmada pelo comprador minutos antes. Tudo isto, aponta para o envolvimento dos custodiados na atividade de comercialização dessas substâncias entorpecentes, ou seja, delito equiparado a crime hediondo (art. 5º, XLIII da CF, art. 2º, caput da Lei n. 8.072/1990 e art. 44 da LD), insuscetível de fiança, anistia, graça e indulto.
+Ademais, verifica-se que ambos os autuados ostentam folha de antecedentes criminais. Em cognição sumária, verifico que o crime imputado aos autuados é concretamente grave, causando imensuráveis transtornos à saúde pública e à sociedade como um todo. Neste contexto, a prisão cautelar se revela necessária à garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração criminosa (art. 282, § 6º do CPP). As medidas cautelares diversas da prisão (art. 319, CPP) revelam-se insuficientes. Os elementos de convicção contidos nos autos não revelam a incidência das excludentes de ilicitude previstas no art. 23, incisos I, II e III, do Código Penal (art. 310, parágrafo único, e 314, do Código de Processo Penal). Posto isto, com fundamento nos arts. 310, II, 312, 313, I, e 315, do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de [NOME] e [NOME] [NOME] [NOME] em PRISÃO PREVENTIVA
+Note-se que ficaram devidamente demonstrados os indícios de autoria e a materialidade delitiva, bem como delineada a gravidade concreta do delito, sendo o paciente apontado como o que controla um dos pontos de venda de drogas no bairro (fl. 39), além da possibilidade de reiteração criminosa, já que ostenta antecedentes criminais (fl. 36).
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PRELIMINAR DE NULIDADE. NÃO OCORRÊNCIA. PRISÃO DECRETADA NOS TERMOS DO ART. 310, II, DO CPP. SUPERVENIÊNCIA DE HOMOLOGAÇÃO DA PRISÃO EM FLAGRANTE COM CONVERSÃO EM PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. CUSTÓDIA FUNDAMENTADA. CONSTRANGIMENTO ILEGAL AUSENTE. PARECER ACOLHIDO.
+1. Havendo sido devidamente fundamentada a decisão que decretou a prisão preventiva, com base em elementos concretos dos autos - notadamente na possibilidade de reiteração delitiva -, deve ser mantida a custódia preventiva para a garantia da ordem pública.
+Precedentes.
+2. A conversão da prisão em flagrante em custódia preventiva pelo Juízo monocrático, independentemente de representação da autoridade policial ou do Ministério Público, encontra respaldo no art. 310, II, do Código de Processo Penal.
+3. No caso, foi destacado pelas instâncias ordinárias que o recorrente é reincidente e cometeu novo delito quando se encontrava em cumprimento de pena em prisão domiciliar, o que, por si só, justifica a prisão preventiva para garantia da ordem pública.
+4. Recurso habeas corpus improvido. (RHC n. 102.716/MG, Sexta Turma, de minha relatoria, DJe 19/3/2019).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO DO DECRETO PRISIONAL. GARANTIA DA ORDEM PÚBLICA. EVITAR REITERAÇÃO DELITIVA. QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA. REINCIDENTE ESPECÍFICO. OUTRAS AÇÕES PENAIS EM ANDAMENTO. PERICULOSIDADE SOCIAL. MEDIDAS CAUTELARES. INADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. A prisão preventiva do paciente está fundamentada na gravidade concreta do delito e na necessidade de garantia da ordem pública (evitar reiteração delitiva), destacando-se (i) a quantidade de substância entorpecente apreendida (3 tabletes de maconha e 58 pedras de crack); e (ii) dados da sua vida pregressa, notadamente por ser reincidente específico e responder a outros processos criminais. Adequação aos requisitos do art. 312 do Código de Processo Penal.
+2. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+3. Recurso conhecido e não provido.
+(RHC n. 105.950/MG, Quinta Turma, Ministro Reynaldo Soares da Fonseca, DJe 15/3/2019)
+Ante o exposto, denego a ordem.
