@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 9º, 489 E 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. DISSÍDIO JURISPRUDENCIAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 211/212):
+TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - INFRAERO - TAXA DE COLETA DOMICILIAR DE LIXO - TCDL - CONSTITUCIONALIDADE - IMUNIDADE RECÍPROCA - INAPLICABILIDADE - RECURSO DESPROVIDO.
+1 -A hipótese é de embargos à execução opostos pela INFRAERO, objetivando desconstituir a CDA que lastreia a execução fiscal de cobrança da Taxa de Coleta Domiciliar de Lixo - TCDL, sob a alegação de imunidade recíproca.
+2 - A imunidade tributária recíproca está prevista no art, 150, VI, "a", da Constituição Federal e significa dizer que a União, os Estados, o Distrito Federal e os Municípios não podem cobrar impostos sobre o patrimônio, a renda ou os serviços, uns dos outros, funcionando como instrumento de preservação e equilíbrio do pacto federativo, impedindo que os impostos sejam utilizados como instrumento de pressão indireta de um ente sobre outro.
+3 - O Colendo Supremo Tribunal Federal, quando do julgamento do ARE nº 638.315/BA RG, em repercussão geral, consolidou o entendimento no sentido de que a INFRAERO faz jus à imunidade recíproca prevista no art. 150, VI, "a", da Constituição Federal, na qualidade de empresa pública prestadora de serviço público.
+4 - A imunidade tributária recíproca não alcança as taxas, mas, tão somente, os tributos, conforme expressamente previsto no texto constitucional. Esse é o entendimento pacífico da Corte Suprema (RE nº 613.287 AgR - Primeira Turma - Rel. Ministro LUIZ FUX - DJe 19-08-2011).
+5 - O Plenário da Suprema Corte, quando do julgamento do RE nº 576.321 QO-RJ, com reconhecimento de repercussão geral, ratificou o entendimento acerca da matéria com o enunciado da Súmula Vinculante nº 19, dispondo que "a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal". Precedente: RE nº 576321 QO-RG - Pleno - Rel. Ministro RICARDO LEWANDOWSKI - julgado em 04-12-2008 - DJe 13-02-2009; AI nº 636.528 AgR/RJ - Primeira Turma - Rel. Ministro RICARDO LEWANDOWSKI - DJe 26-06-2009.
+6 - Diante do disposto no art. 145, II, da Constituição Federal, para a incidência da taxa, basta que o serviço seja disponibilizado, independentemente de sua efetiva utilização.
+7 - Precedentes desta Corte: AC nº 0083980-45.2015.4.02.5101 - Terceira Turma Especializada - Rel. Des. Fed. CLAUDIA NEIVA - e-DJF2R 08-01-2016; AC n º 0084015-05.2015.4.02.5101 - Quarta Turma Especializada - Rel. Des. Fed. [NOME] - e-DJF2R 04-12-2015.
+8 - Assinale-se que a Taxa de Coleta Domiciliar de Lixo - TCLD foi instituída pela Lei Municipal nº 2.687/98 e cobrada em substituição à Taxa de Coleta de Lixo e Limpeza Pública - TCLLP. Com efeito, a exação possui base de cálculo diversa de imposto, não afrontando, portanto, a disposição constitucional contida no art. 145, § 2º da Carta da República.
+9 - Impende ressaltar que, nos termos do art. 2º da Lei Municipal nº 2.687/98, que instituiu a TCDL, o contribuinte da taxa é o proprietário ou o titular do domínio útil ou o possuidor, a qualquer título, de unidade imobiliária edificada que seja alcançada pelo serviço.
+10 - Recurso desprovido.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega ofensa aos artigos 9º, 489 e 1.022 do CPC/2015, afirmando que o acórdão recorrido foi omisso "a respeito de a lei municipal não disponibilizar o serviço em decorrência da grande quantidade - lixo extraordinário, nem sobre o fato que a contratação de empresa coletora é uma obrigação legal, e não faculdade" (fl. 244).
+Pugna, ainda, pelo reconhecimento do dissídio jurisprudencial no que se refere à não incidência de TCDL sobre o lixo extraordinário do aeroporto.
+Contrarrazões às fls. 308/316.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Afasta-se a alegada violação aos artigos 9º, 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Outrossim, a recorrente aponta divergência jurisprudencial na interpretação de dispositivos das Leis Municipais 2.687/98 e 3.273/2001. Ocorre que o recurso especial não pode ser conhecido, pois não pode ser admitido para rever interpretação de lei local, nos termos da Súmula 280/STF.
+Destaca-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. ANÁLISE DE DISPOSITIVOS DE LEGISLAÇÃO LOCAL. NÃO CABIMENTO. SÚMULA 280/STF.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local que regulamenta o PPI - Programa de Parcelamento Incentivado (Lei Municipal nº 14.129/06), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+3. Agravo interno não provido (AgInt no AREsp 1.206.646/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 21/11/2018).
+Ante ao exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
