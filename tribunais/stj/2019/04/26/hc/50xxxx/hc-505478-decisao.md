@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E DETRAÇÃO PENAL. ILEGALIDADE MANIFESTA NÃO DEMONSTRADA. APLICAÇÃO DA SÚMULA 691/STF.
+Habeas corpus indeferido liminarmente.
+DECISÃO
+A hipótese é de habeas corpus impetrado em favor de [NOME] - condenado como incurso no art. 334-A, § 1º, IV, do Código Penal, à pena de 4 anos e 1 mês de reclusão, em regime inicial semiaberto (Autos n. 0001355-05.2018.403.6108 - fls. 10/29) - contra decisão de Desembargador do Tribunal Regional Federal da 3ª Região que deferiu parcialmente a liminar em writ lá deduzido para determinar à autoridade impetrada que analise o eventual cabimento de detração penal, nos autos da ação penal nº 0001355-05.2018.4.03.6108, nos termos do art. 387, § 2º, do Código de Processo Penal (HC n. 5004970-69.2019.4.03.0000 - fls. 32/33).
+Em síntese, a impetrante sustenta que a não aplicação da detração penal, desrespeitando o art. 387, § 2º, do Código de Processo Penal, implica evidente constrangimento ilegal ao paciente, já que compete ao magistrado, ao proferir sentença condenatória, considerar o tempo de prisão provisória para a fixação do regime inicial de cumprimento de pena, caso esse altere em razão do desconto.
+Requer, assim, a CONCESSÃO da medida liminar para alterar o regime de cumprimento de pena do Paciente, colocando-o em regime adequado, qual seja, regime aberto com consequente expedição de alvará de soltura. No mérito, a confirmação da liminar, pelos fatos e fundamentos supracitados (fl. 9).
+É o relatório.
+Na via da excepcionalidade, admite-se habeas corpus contra decisão que indeferiu pedido de liminar em writ impetrado perante o Tribunal a quo, ainda não julgado.
+O Superior Tribunal de Justiça, todavia, tem flexibilizado tal entendimento, admitindo impetrações dessa natureza em situações absolutamente excepcionais, desde que esteja claramente evidenciada a ilegalidade do ato coator, proveniente de decisão inquestionavelmente teratológica, despida de qualquer razoabilidade.
+Confira-se, a propósito, a Súmula 691 do Supremo Tribunal Federal, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar.
+Pelo exame dos autos, em princípio, não resta evidenciada a referida estreita exceptio, a fim de autorizar a outorga pretendida.
+Isso porque, o Desembargador Relator ainda não chegou a examinar a questão do regime prisional propriamente dito, visto tratar-se de fator condicionante à detração penal. Sendo assim, tomando por conta que já houve o deferimento parcial da liminar para que o magistrado singular apreciasse o instituto da detração penal, entendo mais adequado e prudente reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examinará os contornos e circunstâncias delineadores da matéria, a partir do quanto determinado na tutela de urgência, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte Estadual, mormente se o writ está sendo regularmente processado.
+Pelo exposto, com fundamento no art. 210 do RISTJ, indefiro in limine o pedido.
+Publique-se.
