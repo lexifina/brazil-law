@@ -1,0 +1,25 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado pelos Deputados Federais Henrique Fontana Júnior, Jandira Feghali, Marcelo Ribeiro Freixo e Luiz Paulo Teixeira Ferreira, contra ato do Presidente da Câmara dos Deputados, consistente na instalação da Comissão Especial destinada a analisar o mérito da PEC 06/2019 (Reforma da Previdência).
+    Os impetrantes alegam que a PEC 06/2019, ao determinar a adoção de um sistema de capitalização para o regime de Previdência Social a ser regulado por meio de lei complementar, padeceria de inconstitucionalidade material, pois afrontaria a garantia fundamental da solidariedade atribuída pelo constituinte originário.
+    A esse propósito, afirmam que a proposta de emenda em questão aboliria o direito fundamental à previdência social, ao passo que promoveria a “desconstitucionalização das garantias fundamentais destinadas à concretização do direito fundamental à previdência dos trabalhadores públicos e privados. Substituindo os enunciados normativos do artigo 40 – regime próprio – e do artigo 201 – Regime Geral – a PEC visa a afastar as garantias postas nos dois regimes e projeta, para lei complementar, as normas que irão regulamentar o direito”.
+    Assim, requerem a concessão de medida liminar para determinar à autoridade coatora que suste a edição de qualquer ato tendente a dar continuidade à tramitação da PEC 06/2019.
+    No mérito, pedem a declaração da inconstitucionalidade da tramitação da PEC 06/2019, “por restar caracterizada a efetiva tentativa de abolir clausula pétrea”, de modo que seja interrompida sua tramitação e determinado seu arquivamento.
+    Decido.
+    Registro, a princípio, que a concessão de medida liminar em mandado de segurança dá-se em caráter excepcional, em razão da configuração do fumus boni iuris e do periculum in mora.
+    Com efeito, é necessária a conjugação dos dois requisitos: fundamento relevante (fumus boni juris) e que o ato apontado como ilícito possa resultar na ineficácia da medida, caso seja apenas concedido o pedido ao final da tramitação do writ (periculum in mora).
+    No caso dos autos, não verifico, a princípio, a presença dos referidos requisitos a dar ensejo à concessão da liminar.
+    Explico.
+    Segundo a jurisprudência do Supremo Tribunal Federal, o excepcional mandado de segurança preventivo, impetrado por parlamentar, apenas é cabível em duas hipóteses:
+quando houver vício no processo legislativo constitucional (hipótese em que o vício de inconstitucionalidade formal evidencia-se antes mesmo da aprovação do projeto de lei ou da proposta de emenda); e
+quando a proposição legislativa contiver disposição tendente a abolir cláusula pétrea da CF/88 (hipótese em que o texto do § 4º do art. 60 da Constituição Federal autoriza excepcional espécie de controle preventivo de constitucionalidade, ante a presença do vício de inconstitucionalidade material).
+    Se é certo que a jurisprudência do Supremo Tribunal Federal reconhece a possibilidade de avançar na análise da constitucionalidade da administração ou organização interna das Casas Legislativas, também é verdade que isso somente tem sido admitido em situações excepcionais, em que há flagrante desrespeito ao devido processo legislativo ou aos direitos e garantias fundamentais.
+    Ao mesmo tempo, em razão de não ter o mandado de segurança um espectro de apreciação e de eficácia decisória tão abrangente, quando comparado ao que comumente a jurisdição constitucional faz uso por meio do controle concentrado de constitucionalidade, é necessário maior rigor de apreciação e cuidado redobrado para o seu cabimento e, inclusive, para o deferimento de medidas liminares em casos como o presente, em que se vislumbra elevado potencial de tensão para a harmonia e independência dos Poderes. A feição do presente caso, inclusive, parece exigir maior reflexão acerca dos limites do uso do mandado de segurança pelo parlamentar, para evitar o uso abusivo que pode ser exercido por outras vias processuais.
+    Na hipótese, sem prejuízo de melhor análise por ocasião do julgamento de mérito, não me parece que a PEC em discussão tenha o condão de abolir direitos e garantias individuais.
+    Além disso, a proposição em questão ainda possui longo caminho a percorrer nas casas legislativas, sendo passível de inúmeras emendas, debates e discussões, de modo que o deferimento prematuro da medida poderia configurar ingerência indevida do Poder Judiciário no âmbito do Poder Legislativo, hipótese nociva à separação de poderes. Por esse mesmo motivo, também não vislumbro a presença do periculum in mora.
+    Ante o exposto, indefiro o pedido liminar.
+    Notifique-se a autoridade coatora para apresentar informações no prazo legal e dê-se ciência à Advocacia-Geral da União.
+    Prestadas as informações ou decorrido o prazo legal, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 26 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
