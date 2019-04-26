@@ -1,0 +1,17 @@
+DECISÃO:
+    Tendo em vista que o recurso especial interposto concomitantemente ao recurso extraordinário já transitou em julgado, passo a análise do recurso.
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM PECUNIÁRIA. CONVERSÃO DO REGIME CELETISTA PARA ESTATUTÁRIO. SENTENÇA TRABALHISTA. COISA JULGADA. LIMITAÇÃO TEMPORAL. IRREDUTIBILIDADE DE VENCIMENTOS. AUSÊNCIA DE COMPROVAÇÃO.
+    A partir da transposição dos autores do regime celetista de trabalho para o estatutário, não há mais que se falar em respeito à sentença trabalhista, com trânsito em julgado, pois os efeitos da referida sentença têm por limite temporal a Lei nº 8.112/90. Impossibilidade de reconhecimento do direito à percepção da diferença remuneratória, com fundamento na irredutibilidade de vencimentos, diante da ausência de comprovação.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV, LV; 7º, VI; 37, XV.; e 93, IX, da CF.
+     A decisão agravada negou seguimento ao recurso por entender que há ofensa indireta à Constituição.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal (STF) no sentido de que os efeitos das sentenças oriundas da Justiça do Trabalho se limitam à data da instituição do Regime Jurídico Único, sendo incompatível com a Constituição o recebimento, por parte do servidor público, de vantagem estabelecida no regime celetista. Nesse sentido, vejam-se os seguintes julgados das duas Turmas desta Corte:
+    “DIREITO ADMINISTRATIVO. TRANSPOSIÇÃO DE REGIME JURÍDICO. INVIABILIDADE DE MANUTENÇÃO DE VANTAGEM SALARIAL. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA. Transposição de regime jurídico a caracterizar a extinção do contrato de trabalho e a criação de nova relação jurídica. Inviabilidade de manutenção de vantagem salarial anterior. Precedentes. Agravo regimental a que se nega provimento.” (AI 761.382-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 1. TRANSPOSIÇÃO DE REGIME JURÍDICO. EFEITOS DA SENTENÇA CONDENATÓRIA PROFERIDA PELA JUSTIÇA DO TRABALHO: LIMITAÇÃO DA CONDENAÇÃO À DATA DA INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO. 2. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 576.397-AgR, Rel.ª Min.ª Cármen Lúcia, Segunda Turma)
+    Ademais, o Plenário do STF já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes - Tema 660).
+    Quanto à alegada violação ao art. 93, IX, da Constituição, o STF já reconheceu a repercussão geral da matéria e assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG/PE, julgado sob a relatoria do ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+     Publique-se.
+          Brasília, 26 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
