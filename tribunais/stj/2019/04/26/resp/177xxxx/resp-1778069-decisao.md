@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MUNICÍPIO DE ITAGUATINS, em 18/01/2018, contra acórdão do Tribunal de Justiça do Estado de Tocantins, assim ementado:
+"APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. EXECUÇÃO DE TÍTULO JUDICIAL. EMBARGOS À EXECUÇÃO. SENTENÇA COLETIVA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO. CONFIGURAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO. POSSIBILIDADE. COMPROVAÇÃO DO PAGAMENTO DOS SALÁRIOS. ÔNUS DO MUNICÍPIO. SENTENÇA DE PRIMEIRO GRAU MANTIDA. APELAÇÃO DO MUNICÍPIO DESPROVIDA. RECURSO DE APELO DE [NOME] RIBEIRO LEITE. PARCIALMENTE PROVIDO. SENTENÇA REEXAMINADA E REFORMADA EM PARTE.
+- É de cinco anos o prazo prescricional para ajuizamento de execução individual de sentença proferida em ação civil pública, nos termos do artigo 1o do Decreto no 20.910, de 1932, contado a partir do trânsito em julgado da sen- tença. Precedentes do Superior Tribunal de Justiça, consoante entendimento em julgamento de recurso repetitivo (RESP. 1.237.643/PR).
+- O ônus da prova do pagamento recai sobre o Município/embargante, a quem incumbe, com exclusividade, produzir a prova dos fatos extintivos ao direito invocado pelo exequente. Não se desincumbindo de tal ônus, mostra- se legítima a improcedência dos embargos.
+- Não se mostra razoável, além de não remunerar condignamente os trabalhos do advogado, os honorários advocatícios fixados em 10% sobre o valor da execução, especialmente se for considerado o pequeno valor atribuído à execução, merecendo ser fixado em patamar de 15%, inobstante a baixa complexidade e dispêndio de tempo e de trabalho do causídico em grau de pouca exigência.
+- Honorários advocatícios recursais, nos termos do art. 85, §11, do CPC/2015.
+- Negado provimento ao recurso de apelo interposto pelo Município de Itaguatins-TO, com provimento parcial da apelação de [NOME] e reforma em parte da sentença ora submetida ao reexame necessário" (fls. 170/172e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 3º do Decreto 4.597/42 e 489, I a V, do CPC/2015, sustentando o seguinte:
+"O Acórdão atacado violou lei federal, qual seja o artigo 3º do Decreto nº 4.597, vez que manteve a Sentença que julgou improcedentes os Embargos à Execução sem observar o que dispõe o Texto retro citado.
+Nos embargos, d"onde se interpôs apelação, o recorrente alegou, preliminarmente, a existência de prescrição, comprovando que o exequente/recorrido confessou que tomou ciência da sentença em 09/09/2010, tendo as partes renunciado ao prazo recursal. Portanto, o trânsito em julgado ocorrera nesta mesma data.
+E ao contrário do que entendeu no Nobre Relator, com a devida vênia, o último ato processual foi justamente a sentença, e não o acordo firmado entre as partes, pois este poderia ocorrer até mesmo extrajudicialmente.
+A execução embargada fora ajuizada em 26/08/2015, logo, há 05 (cinco) anos após a sentença e o respectivo trânsito em julgado.
+Nos termos do inciso V e VI do artigo 202 do Código civil, e o disposto no artigo 3º do Decreto nº 4.597/1942, que assim diz:
+(..)
+No caso em tela, deve sim ser aplicado o que dispõe o Decreto nº 4.597/1942 (art. 3º), o qual determina que, em caso de processos judiciais, a prescrição corre pela metade em razão da sentença nela proferida (último ato processual).
+Ademais, o texto de lei é expresso em estabelecer que a consumação da prescrição no curso da lide se dará inclusive da sentença proferida no decorrer do prazo de dois anos e meio.
+Logo, tendo decorrido entre a data do trânsito em julgado da sentença (09/09/2010) e o ato executório (26/08/2015), verifica-se a ocorrência da prescrição, devendo o feito ser extinto, com resolução do mérito, nos termos previstos no inciso II do artigo 487 do CPC.
+Assim é o entendimento jurisprudencial desta Corte Superior:
+(..)
+Diz o artigo 924 do CPC que a execução será extinta quando a obrigação for satisfeita (II) ou ocorrer a prescrição intercorrente (V). Não há dúvidas de que houve neste caso a prescrição intercorrente entre a data da sentença e do ato de execução.
+A ação executiva é de 5 (cinco) anos contra a Fazenda Pública apenas quando não proveniente de sentença.
+Se proveniente de sentença, há de se observar, como é o caso em apreço, que ocorreu a hipótese prevista no artigo 3º do Decreto nº 4.597/1942.
+Veja-se que, nestes autos, deveria a sentença/acórdão ter aplicado o que dispõe o Decreto nº 4.597/1942 (art. 3º), o qual determina que, em caso de processos judiciais, a prescrição corre pela metade em razão da sentença nela proferida (último ato processual).
+A sentença, e por consequência o Acórdão recorrido, inclusive, nesse ponto, são nulos, porque descumpriu o disposto 489, III, CPC, por ausência de fundamento, conforme dispõem os incisos I, II, IV e V do mesmo dispositivo.
+Se entre a data da sentença e o ajuizamento da ação de execução decorreram, como é o caso dos autos, prazo superior ao previsto no artigo 3º do Decreto nº 4.597/1942, houve prescrição intercorrente e deve ser reconhecida, pondo resolução ao mérito, extinguindo-se o feito de origem" (fls. 191/197e).
+Por fim, requer "a reforma do v. Acórdão recorrido na parte que mantém a parte da Sentença que não reconhece a prescrição prevista no Decreto nº 4.597/1942, devendo, por isso, ser o presente recurso provido, para que o feito originário seja extinto" (fl. 197e).
+Contrarrazões a fls. 215/227e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 230/235e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de Embargos à Execução ajuizados pela parte ora recorrente, objetivando o reconhecimento da prescrição da pretensão executiva.
+Julgada improcedente a demanda, recorreram o Embargante e a Embargada, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, quanto à alegada ofensa ao art. 489, I a V, do CPC/2015, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+No mais, no que tange ao mérito, a Corte Estadual, com base no exame dos elementos fáticos dos autos, asseverou que:
+"No presente caso, o trânsito em julgado da sentença homologatória se deu na data de 09/09/2010, sendo o prazo final para a propositura da ação executória a data de 09/09/2015. Como a ação executória foi ajuizada em 28/8/2015, não há que se falar em prescrição do direito, de acordo com o entendimento esposado pelo Superior Tribunal de Justiça.
+Ademais, importa ressaltar que conforme a teoria actio nata (ação ajuizável) o termo a quo do prazo prescricional dependerá da aferição do momento em que o titular do direito teve ciência da lesão ao seu direito subjetivo.
+Nesse sentido é a jurisprudência do Superior Tribunal de Justiça:
+(..)
+Dessa forma, poder-se-ia ainda tomar como termo a quo do prazo prescricional da execução individual, a data de 06/08/2013 (DJ no 3164 de 06/08/2013), data em que o exequente - titular do direito - teve ciência da lesão ao seu direito subjetivo, tendo em vista o inadimplemento do município do débito oriundo do acordo.
+Assim sendo, por qualquer ângulo que se analise a questão, tem-se que a pretensão deduzida na ação executória não está fulminada pela prescrição, tendo em vista que o transcurso de lapso temporal não ultrapassou cinco anos, seja contado do trânsito em julgado da sentença homologatória (09/09/2010), seja da data em que o titular do direito teve ciência da lesão ao seu direito subjetivo (06/08/2013). Uma vez que a Ação de Execução nº 0000629-98.2015.827.2724, ora em comento, foi protocolada na data de 26/08/2015" (fls. 165/166e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
