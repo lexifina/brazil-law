@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por HOSPITAL NOSSA SENHORA DA CONCEICAO S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÕES. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. ATENDIMENTO HOSPITALAR. CONTÁGIO POR HEPATITE C DURANTE INTERNAÇÃO. RESPONSABILIDADE CIVIL OBJETIVA. CONTEXTO PROBATÓRIO COLIGIDO E PERÍCIA JUDICIAL QUE COMPROVAM O NEXO CAUSAL. DEVER DE INDENIZAR CARACTERIZADO. DANOS MORAIS E MATERIAIS MAJORADOS.
+Os estabelecimentos hospitalares são fornecedores de serviços e respondem objetivamente pelos danos causados aos seus pacientes. Exegese do artigo 14 do CDC.
+Tratando-se de relação de consumo, era da ré o dever de comprovar que a autora deu entrada no Hospital já com Hepatite C, ônus do qual do qual não se desincumbiu. Pelo contrário, o que há nos autos é um exame feito durante sua internação que constatou a doença, o qual foi realizado depois de ter sido a autora submetida procedimentos junto ao Hospital pertencente ao Grupo Hospitalar demandado.
+Ainda que os exames pré-natais, realizados antes da internação da autora junto ao Hospital demandado, tenham atestado apenas a ausência de Hepatite B, entendo que a autora trouxe toda a documentação que tinha ao seu alcance para comprovar sua tese. Em contrapartida, o réu sequer trouxe exames ou provas que pudessem demonstrar que a doença tenha sido contraída pela autora por outros motivos. Ademais, a tese defendida pela autora vem corroborada pela perícia judicial.
+Danos morais configurados. Majoração do quantum indenizatório, diante da gravidade dos fatos, em que a autora foi contaminada pelo vírus de uma doença incurável. Respeito às características compensatória, pedagógica e punitiva da indenização.
+Danos materiais também majorados, para condenar o réu ao ressarcimento de valores pagos em razão de tratamento psicológico realizado pela autora, conforme declaração firmada pela psicóloga responsável. Mantida a indenização relativa aos recibos de exames médicos comprovadamente realizados pela autora.
+Pensão vitalícia indevida, diante da ausência de notícia relativa à incapacidade laborai da autora.
+PREQUESTIONAMENTO.
+O julgador não está obrigado, para fins de prequestionamento, a se manifestar sobre todos os dispositivos legais aventados pelas partes, bastando que a fundamentação seja suficiente para a solução do caso concreto.
+RECURSO DA AUTORA PARCIALMENTE PROVIDO E RECURSO DO RÉU DESPROVIDO" (e-STJ fls. 1.010 e 1.011).
+No recurso especial, o recorrente alega violação dos artigos 927 e 944 do Código Civil. Sustenta, em síntese, o descabimento da aplicação da responsabilidade objetiva e que não ficou demonstrado o nexo de causalidade.
+Aduz, ainda, a exorbitância do valor fixado a título de danos morais.
+Por fim, pugna pelo reconhecimento da sua ilegitimidade para responder pelos honorários periciais ou que seja reconhecida a prescrição.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A jurisprudência desta Corte reconhece a responsabilidade civil objetiva dos hospitais e clínicas, de forma que a exceção do parágrafo 4.º do artigo 14 do CDC é restrita aos profissionais liberais.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ.
+1. A responsabilidade dos hospitais e clínicas (fornecedores de serviços) é objetiva, dispensando a comprovação de culpa, notadamente nos casos em que os danos sofridos resultam de infecção hospitalar. Precedentes.
+2. O entendimento firmado pelo Tribunal a quo, que concluiu pela existência de nexo de causalidade entre a prestação do serviço de saúde e a morte do filho da parte autora não pode ser revisto em sede de recurso especial como pretende o recorrente, pois para derruir as conclusões a que chegou a Corte local, demandaria o reexame do contexto fático-probatório dos autos, providência vedada, em razão do óbice contido na Súmula 7 deste Tribunal.
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, somente quando ínfimo ou exagerado, circunstância esta que não se verifica na hipótese dos autos, pois o valor estabelecido não excede o arbitrado pelos mais recentes precedentes desta Corte. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido"
+(AgInt no REsp 1.653.046/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/5/2018, DJe 28/5/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. ERRO MÉDICO. NEGLIGÊNCIA COMPROVADA DA EQUIPE MÉDICA. CULPA HOSPITAL E DO PLANO DE SAÚDE. RESPONSABILIDADE SOLIDÁRIA. REDUÇÃO. VALOR RAZOÁVEL. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões devendo ser afastada a ofensa ao art. 535 do CPC/1973.
+2. A conclusão a que chegou o Tribunal a quo, acerca da responsabilidade solidária da recorrente no evento danoso, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever tais fundamentos importaria necessariamente no reexame de provas. Incidência da Súmula 7/STJ.
+3. A jurisprudência desta Corte Superior é no sentido de que a responsabilidade dos hospitais e clínicas, é objetiva em relação aos danos causados por seus prepostos, dispensada a demonstração de culpa relativa aos atos lesivos. 4. A revisão do valor arbitrado a título de danos morais, em sede de recurso especial, somente é possível nas hipóteses em que a verba se mostrar ínfima ou exagerada, contrariando os princípios da razoabilidade e da proporcionalidade, o que, na espécie, não ocorreu.
+5. Agravo interno não provido"
+(AgInt no AREsp 1.155.735/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/3/2018, DJe 3/4/2018).
+Quanto ao pedido de redução do valor da indenização, o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização devida pelo recorrente no valor de R$ 50.000,00 (cinquenta mil reais) em danos morais.
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revelam-se perfeitamente adequadas diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+No tocante à alegação de ilegitimidade para o pagamento dos honorários periciais ou o reconhecimento da prescrição, verifica-se que o recorrente não indicou especificamente quais os artigos de lei federal teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos, inafastável, portanto, a incidência da Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento - fl. 422 e-STJ) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
