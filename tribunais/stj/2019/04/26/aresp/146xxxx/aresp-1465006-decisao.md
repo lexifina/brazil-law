@@ -1,0 +1,63 @@
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO. REVISÃO CRIMINAL. JUSTIFICAÇÃO CRIMINAL. PRODUÇÃO DE PROVA PARA A PROPOSITURA DE REVISÃO CRIMINAL. SÚMULA 568/STJ. ALEGAÇÃO DE INOCÊNCIA E AUSÊNCIA DE PROVAS CONCRETAS PARA A CONDENAÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO, DESPROVER.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 125):
+"REVISÃO CRIMINAL - CONCUSSÃO - PEDIDO ABSOLUTÓRIO CALCADO EM PROVA NOVA INEXISTÊNCIA DE NOVA PROVA E SUFICIÊNCIA DA JÁ ANALISADA DEFERIMENTO IMPOSSIBILIDADE: Sem que novas provas invalidem a condenação exarada, e mantido o conjunto probatório que aponta, com segurança, a autoria e materialidade do crime, é impossível o deferimento da revisão criminal, que não se presta à valoração da prova que já foi analisada e que resultou em justa e suficiente resposta jurisdicional."
+Nas razões do recurso especial, a Defesa sustenta violação aos artigos 621, incisos I e III e 626, ambos do Código de Processo Penal, aduz pela nulidade do v. acórdão recorrido para que haja julgamento da ação rescisória criminal, em razão da existência de novas provas que demonstram a inocência do insurgente.
+Apresentadas as contrarrazões (fls. 152-162), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ e na ausência de argumentação necessária para infirmar especificamente os fundamentos do v. acórdão combatido (Súmula 182/STJ) (fls. 165-166).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 200-202).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Consta dos autos que o insurgente foi condenado, como incurso nas sanções do artigo 316, caput, na forma dos artigos 29 e 69, todos do Código Penal (por duas vezes), às penas de 04 (quatro) anos de reclusão, em regime aberto, e de 20 (vinte) dias-multa.
+O eg. Tribunal de origem indeferiu a revisão criminal proposta pelo ora recorrente.
+Nas razões recursais, busca o ora recorrente a absolvição por meio do julgamento de revisão criminal.
+Para melhor delimitar a presente quaestio trago à baila os fundamentos lançados no v. acórdão vergastado, verbis (fls. 128-135, grifei):
+"O peticionário, que já teve a resposta jurisdicional revista por este Tribunal e o Colendo STF, busca agora, como uma segunda apelação, nova análise do conjunto probatório que, como cediço, é inviável em sede revisional.
+Sem trazer nenhum novo elemento de convicção, não há como desconstituir as decisões anteriores, devendo consignar-se que a alegada "nova prova" não foi produzida em justificação criminal, não se garantindo, assim, o princípio do contraditório.
+ ..
+Sendo o pedido revisional também fundado no inciso III do artigo 621, do Código de Processo Penal, deve estar calcado em provas obtidas em justificação judicial, sob o pálio do contraditório, observadas as cautelas legais.
+ ..
+E não se pode levar a sério que declaração de fls. 31/vM apresentada por escritura pública neste momento processual e que é diametralmente oposta à declaração de fls. 119 (dos autos principais), é prova suficiente para inocentar o peticionário.
+ ..
+Importante também é consignar que o fato de uma das vítimas ter envolvimento com o tráfico de drogas, ou que seus parentes e agregados estejam também dedicados à vida criminosa, não é o bastante para descaracterizar o crime cometido pelo peticionário.
+A prova existente nos autos, de qualquer modo, aponta com segurança a responsabilidade penal do peticionário que não merece modificação alguma.
+Os depoimentos das testemunhas de acusação (fls. 305/333, 335/358, 391/401 e 405/409) dão o respaldo necessário para a condenação do peticionário, e já foram exaustivamente descritas e analisadas nos autos, não conseguindo os testemunhos defensivos (fls. 384/390, 402/404 e 410/412), desconstruir a imputação da prática de concussão lançada em desfavor de [NOME].
+Falaciosas foram as declarações dos réus em seus depoimentos na fase policial e também em Juizo, negando sempre a prática delitiva (fls. 63,187/188 e 290/291).
+ ..
+Sem mudança, portanto, no quadro probatório, detidamente analisado em primeiro e segundo graus, não havia mesmo qualquer dúvida sobre a responsabilidade criminal do peticionário, sendo inviável a requerida absolvição.
+As penas, dosadas com critério e correção, não merecem modificação alguma.
+Portanto, nada há para ser alterado."
+Inicialmente, como se vê do excerto em referência, o eg. Tribunal a quo asseverou que o pedido revisional deve estar calcado em provas obtidas em justificação judicial, sob o pálio do contraditório, o que não ocorreu.
+Esta Corte Superior de Justiça tem entendido que a justificação criminal se destina à obtenção de prova nova com a finalidade de subsidiar eventual ajuizamento de revisão criminal, não bastando, para tal mister, apresentação de escritura pública, como no presente caso.
+Ilustrativamente:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CONCUSSÃO. JUSTIFICAÇÃO CRIMINAL. OITIVA DE TESTEMUNHAS. INVIABILIDADE. DEPOIMENTOS PRESTADOS NO CURSO DA AÇÃO PRINCIPAL. INEXISTÊNCIA DE PROVA NOVA. RECURSO IMPROVIDO.
+1. O pleito do recorrente não se insere dentre as hipóteses taxativas do art. 621 do Código de Processo Penal. De fato, concluiu-se que a pretensão aqui formulada, na verdade, pretende a reanálise do mérito da ação principal, já transitada em julgado, providência que não se coaduna com o instituto da revisão criminal.
+2. As testemunhas listadas no rol do pedido de justificação criminal já haviam sido ouvidas no curso da instrução criminal, de modo que o pedido de reinquirição não se amolda ao conceito de prova nova, exigido para o conhecimento da revisão criminal, conforme o art. 621, inciso III, do Código de Processo Penal.
+3. A justificação criminal se destina à obtenção de provas novas com o objetivo de subsidiar revisão criminal, não sendo o meio jurídico adequado para nova oitiva de testemunhas cujos depoimentos já tiverem sido colhidos no curso da ação penal que se busca anular.Precedentes.
+4. Recurso ordinário em habeas corpus improvido." (RHC 101.478/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 09/04/2019).
+"PROCESSO PENAL E PENAL. RECURSO ESPECIAL. REVISÃO CRIMINAL. PROCEDÊNCIA NA ORIGEM. ABSOLVIÇÃO COM AMPARO EM PROVAS TESTEMUNHAIS NOVAS. CONTRADITÓRIO PRÉVIO. NECESSIDADE. PRODUÇÃO ANTECIPADA DE PROVA. ARTS. 381 E 382 DO NCPC. RECURSO PROVIDO.
+1. De acordo com a jurisprudência há muito consolidada deste Superior Tribunal de Justiça, o pedido de revisão criminal, calcado na existência de prova oral nova, pressupõe a necessidade de sujeição dos novéis elementos probatórios ao eficiente e democrático filtro do contraditório.
+2. Referido entendimento foi mantido não obstante a supressão, pelo Novo Código de Processo Civil, do procedimento cautelar de justificação, sendo necessária a produção antecipada de provas (arts. 381 e 382 do referido Estatuto Processual) para ajuizamento de ação revisional fundada na existência de novas provas decorrentes de fonte pessoal.
+3. Recurso especial provido." (REsp 1720683/MS, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 13/08/2018, destaquei).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ARTS. 214 E 224, A, DO CÓDIGO PENAL. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL. JUSTIFICAÇÃO JUDICIAL DA VÍTIMA. INSUFICIÊNCIA. CONDENAÇÃO AMPARADA EM DEMAIS PROVAS. REEXAME DE MATÉRIA FÁTICA. IMPROPRIEDADE NA VIA ELEITA. RETRATAÇÃO DE TESTEMUNHAS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. DECLARAÇÃO COM FIRMA RECONHECIDA. INSUFICIÊNCIA. NECESSIDADE DE JUSTIFICAÇÃO JUDICIAL DAS TESTEMUNHAS.
+ ..
+3. A eventual retratação das testemunhas de acusação deve ser feita, necessariamente, por meio do prévio procedimento de justificação judicial, perante o Juízo de primeiro grau, e somente depois deve ser ajuizado o pedido revisional, não bastando, para tal mister, uma simples declaração com firma reconhecida.
+4. Agravo regimental improvido." (AgRg no HC 302.652/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 01/06/2018).
+Dessa feita, estando o v. acórdão prolatado pelo eg. Tribunal local em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ademais, a eg. Corte a quo, amparada pelo acervo fático-probatório presente nos autos, concluiu pela impossibilidade de revisão do julgado, tendo em vista que o recorrente, por ocasião da apresentação da revisão criminal, não se desincumbiu do ônus de trazer novo elemento de convicção.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, que dispõe, verbis: "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo diverso ao que estabelecido pelo Tribunal a quo, como pretende o insurgente, demandaria, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+Como mencionado pelo d. representante do Parquet Federal, em seu parecer: "(..) no caso em questão, o agravante busca atacar fatos já analisados e avaliados pelo Tribunal a quo, o que demandaria o reexame do conjunto probatório, e não apenas a revaloração das provas produzidas. A avaliação de provas e fatos realizada pelo Tribunal a quo não pode ser reavaliada pelo Tribunal Superior, pois o recurso especial permite apenas o reexame de questões de direito, atraindo a aplicação do enunciado da Súmula n. 07/STJ." (fl. 202).
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. ART. 621, I, DO CPP. ABSOLVIÇÃO. FRAGILIDADE PROBATÓRIA. REVISÃO. NÃO CABIMENTO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que: É cabível o ajuizamento de revisão criminal para anular condenação penal transitada em julgado quando a sentença for contrária ao texto expresso da lei penal ou à evidência dos autos, fundada em depoimentos, exames ou documentos falsos, ou se descobrirem provas novas da inocência ou de circunstância de autorize a diminuição da pena (REsp 1371229/SE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/10/2015, DJe 06/11/2015).
+2. Tendo o Tribunal de origem, ao julgar procedente a revisão criminal, concluído que o quadro probatório é insuficiente para concluir pela autoria delitiva, rever tal conclusão demandaria, necessariamente, o aprofundado reexame do arcabouço fático-probatório constante dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido." (AgRg no REsp 1395209/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 27/03/2018).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. REVISÃO CRIMINAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Inafastável a incidência do verbete n. 7 da Súmula do STJ, pois para se concluir de forma diversa do entendimento do Tribunal de origem, no sentido de que não há provas da participação do agravante nos crimes a que foi condenado, inevitável o reexame das provas dos autos, procedimento sabidamente inviável na instância especial.
+2. O acórdão recorrido está em consonância com a jurisprudência deste Tribunal, firme no sentido de ser incabível revisão criminal "para reanálise de matéria submetida a julgamento em duplo grau de jurisdição, como sucedâneo recursal" (ut, AgInt no AREsp 997.912/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 15/12/2016).
+3. Agravo regimental desprovido." (AgRg no AREsp 1137830/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 03/09/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alíneas a e b, do Regimento Interno do STJ, conheço do agravo para conhecer parcialmente do recurso especial e, na extensão, negar-lhe provimento.
+P. e I.
