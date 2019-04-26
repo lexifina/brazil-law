@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CARLOS WILIAN TRINDADE PACHECO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0065385-21.2019.8.21.7000).
+Depreende-se dos autos que o paciente foi preso preventivamente, no dia 12/3/2019, a partir de representação da autoridade policial formulada em 26/2/2019, ao lado de outros corréus, pela suposta prática do delito de organização criminosa (e-STJ fls. 366/381 e 450/451).
+Impetrado prévio writ na origem, o pleito emergencial foi indeferido pelo Desembargador relator em 19/3/2019 (e-STJ fls. 440/443).
+No Superior Tribunal de Justiça, a defesa aponta constrangimento ilegal decorrente da custódia, bem como excesso de prazo para a conclusão do inquérito policial, pois "a autoridade policial, até o presente momento (12 de abril de 2019), injustificadamente, não remeteu ao Poder Judiciário a conclusão do presente Inquérito Policial, o qual se aguarda desde o dia da prisão do paciente, ou seja, há 32 (trinta e dois) dias" (e-STJ fl. 11).
+Sustenta ser o caso de superação da Súmula n. 691 do Supremo Tribunal Federal diante da teratologia da decisão que indeferiu a liminar.
+Assim, pugna, "em razão (i) do excesso de prazo na conclusão do Inquérito Policial e, em conseqüência, no oferecimento da denúncia cumulado com (ii) as condições pessoais favoráveis do paciente, bem como que (iii) o crime pelo qual está sendo investigado não possui violência ou grave ameaça contra a pessoa e (iv) que, em caso de condenação, certamente iniciará o cumprimento da pena em regime prisional mais brando do que se encontra hoje, além de que (v) está se tratando da medida mais gravoso do processo penal brasileiro, que somente pode ser decretada em caso de extrema necessidade devido o seu caráter excepcionalíssimo", pelo "relaxamento ex offício da prisão preventiva ou, então, a concessão de liberdade provisória mediante o cumprimento das medidas cautelares diversas da prisão, prevista no art. 319 do Código de Processo Penal" (e-STJ fl. 13).
+Em petição juntada às e-STJ fls. 503/506, a defesa alega a superveniência de fato novo, qual seja, a extrapolação do prazo para oferecimento da denúncia previsto no art. 46 do Código de Processo Penal.
+Os autos foram a mim distribuídos por prevenção do HC n. 499.800/RS.
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Nesse contexto, esta Corte Superior tem jurisprudência firmada de que não cabe habeas corpus impetrado contra decisão que indefere o pedido de medida liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016, grifei)
+Conforme já destacado por mim no julgamento do HC n. 499.800/RS, a questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus lá impetrado no momento adequado.
+Sem isso, fica o Superior Tribunal de Justiça impedido de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Notadamente porque a autoridade apontada como coatora manifestou-se no sentido de que, "na espécie, a análise da investigação policial, observados os documentos juntados, demonstra que há indícios de autoria e da existência do crime imputado, com relação ao paciente, pois há notícia no sentido de que ele exercia tarefa na organização, em tese, a de vender substância tóxica de uso proibido" (e-STJ fls. 442/443).
+Ademais, de acordo com a orientação desta Corte Superior, os prazos processuais não são peremptórios. Da mesma sorte, o constrangimento ilegal por excesso de prazo não resulta de um critério aritmético. Há de ser realizada pelo julgador uma aferição do caso concreto, de acordo com as suas peculiaridades, em atenção aos princípios da razoabilidade e da proporcionalidade.
+E, nessa linha, penso que o lapso temporal pelo qual perdura a investigação policial e a segregação provisória do paciente não se apresenta como manifestamente desproporcional.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
