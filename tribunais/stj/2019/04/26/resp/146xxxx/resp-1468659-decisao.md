@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CAUTELAR DE CAUÇÃO DE DÉBITO FISCAL. QUESTÕES ALEGADAS E NÃO ABORDADAS PELA CORTE DE ORIGEM. VIOLAÇÃO DO ARTIGO 535 DO CPC CONFIGURADA. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Comunidade Evangélica Luterana, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 351):
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONCESSÃO DE AJG. NECESSIDADE DE COMPROVAÇÃO DE HIPOSSUFICIÊNCIA. INCABIMENTO. CAUÇÃO. EFEITO DE PENHORA. CERTIFICADO DE REGULARIDADE FISCAL. DÉBITOS EM ABERTO NÃO CAUCIONADOS E AJUIZAMENTO DE PROCESSO EXECUTIVO. INCABIMENTO. HONORÁRIOS ADVOCATÍCIOS.
+1. A jurisprudência do STJ, consolidada na Súmula nº 481, refere que só faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais. Ou seja, mesmo as entidades sem fins lucrativos devem comprovar a condição de hipossuficiência para a obtenção de Assistência Judiciária gratuita.
+2. Porém, a análise dos autos demonstra que a autora não trouxe nenhum documento capaz de comprovar a sua condição de hipossuficiência.
+3. Dois fatos devem ser levados em consideração, existem débitos outros que não fazem parte desse caucionamento e que os débitos que deram origem a essa cautelar estão já em cobrança, em razão de ajuizamento do processo executivo pertinente. Assim sendo, é incabível a concessão do certificado de regularidade almejado, devendo ser apresentada a caução/penhora no próprio processo executivo.
+4. No tocante aos honorários advocatícios, segundo entendimento desta Corte, os honorários advocatícios devem seguir o princípio da causalidade, ou seja, aquele que deu causa à propositura da demanda ou à instauração do incidente processual deve responder pelas despesas daí decorrentes.
+5. No caso em comento, ainda que o esvaziamento da demanda tenha decorrido de fato superveniente, alheio à vontade da parte autora (ajuizamento do executivo fiscal), o fato é que era impossível a concessão do certificado de regularidade fiscal, antes mesmo do ajuizamento da demanda, posto que existiam débito em aberto não elencados nesse caucionamento.
+6. Dessa forma, cabível a condenação da autora no pagamentos dos ônus sucumbenciais.
+Os embargos de declaração foram rejeitados, conforme ementa de fl. 409.
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 535, I e II, do CPC, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia (fls. 358-359):
+ ..
+Assim constou no voto: ".. a análise atenta dos autos demonstra que a autora não trouxe nenhum documento capaz de comprovar a sua condição de hipossuficiência".
+Todavia, através do evento 2, doe. "OUT2", do processo já no TRF, a recorrente juntou decisão dessa egrégia 1a Turma que, analisando concretamente sua situação financeira, concedeu-lhe a AJG.
+Portanto, a decisão ora embargada que discorreu que "autora não trouxe nenhum documento", distancia-se das provas dos autos, motivo pelo qual a instituição espera o conhecimento e o provimento dos presentes embargos de declaração no ponto, com o fim de conceder-lhe a AJG conforme documento/decisão que assim já lhe reconheceu nos autos do Agravo de Instrumento n. 0009003-10.2012.404.0000/RS.
+Colhe-se do documento/decisão do TRF da 4a Região, que atesta sua condição, a seguinte passagem:
+(..)
+No caso, o Balanço Patrimonial da entidade nos anos de 2010 e 2011 (fls. 17-19), demonstra déficits consecutivos de R$ 707.050,85 e R$ 401.049,49 em cada um dos exercícios, o que autoriza a concessão do benefício da assistência judiciária gratuita. É certo, de outro lado, que, demonstrada, a qualquer momento, a modificação da situação econômica da parte autora, poderá ser o benefício cassado, nos termos em que dispõe o artigo 7" da Lei nº 1.060/50.
+Isso posto, dou provimento ao agravo de instrumento, com base no art. 557, § 1 o-A, do CPC.
+Portanto, merece provimento os presentes embargos no ponto, visando verificar que há prova da condição da autora, motivo pela qual, de rigor reconhecer-se seu direito à AJG.
+ ..
+Quanto ao juízo de reforma, além do dissídio jurisprudencial, aduz ofensa aos artigos 463, II, 20, § 3º, do CPC. Sustenta, em síntese, que: a) todos os débitos discutidos na Ação Cautelar foram devidamente caucionados; e b) não deve ser condenada em honorários advocatícios porquanto não deu causa ao ajuizamento da ação e, em sede liminar, obteve satisfação do seu pleito, sob pena de afrontar o princípio da causalidade;
+Contrarrazões às fls. 453-455.
+Juízo positivo de admissibilidade à fl. 458.
+É o relatório. Passo a decidir.
+Como visto, pretende a recorrente seja anulado o acórdão prolatado em sede de embargos de declaração, por infringência ao disposto no artigo 535, do CPC, ante a negativa de prestação jurisdicional, ao argumento de que o julgado não teria emitido juízo acerca das provas carreadas aos autos que comprovam que faz jus à Assistência Judiciária Gratuita.
+Extrai-se dos autos que, não obstante tenha a recorrente alegado a questão nas razões dos embargos declaratórios, o Tribunal de origem não se manifestou quanto à matéria articulada, embora necessária à solução da controvérsia.
+É pacífico o entendimento deste Tribunal Superior no sentido de que o órgão julgador não é obrigado a se manifestar sobre todos os argumentos expostos pelas partes, contanto que adote fundamentação suficiente para o efetivo julgamento da lide. Contudo, na presente hipótese, não há dúvida de que a Corte a quo deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela ora recorrente e indispensável à apreciação do apelo extremo.
+Assim, caberia ao Tribunal de origem decidir acerca da matéria embargada, o que não ocorreu na hipótese, já que o enfrentamento das questões ventiladas nos embargos de declaração é absolutamente insuperável e não pode ser engendrado pela vez primeira no Tribunal Superior.
+Sob essa ótica, inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a apontada omissão.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. REPASSE DE VERBAS FEDERAIS AO ESTADO DO PIAUÍ. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRESTAÇÃO DE CONTAS PERANTE ÓRGÃO FEDERAL. MANIFESTO INTERESSE DA UNIÃO EM INTEGRAR A LIDE. MINISTÉRIO PÚBLICO FEDERAL COMO AUTOR DA AÇÃO. ÓRGÃO DA UNIÃO. VERBAS INCORPORADAS AO PATRIMÔNIO DO ESTADO DO PIAUÍ. CIRCUNSTÂNCIA RELEVANTE QUE ALTERA A COMPETÊNCIA PARA PROCESSAR E JULGAR O FEITO. SÚMULA 209/STJ. OMISSÃO PELO TRIBUNAL A QUO. VIOLAÇÃO AO ART. 535 DO CPC. RECURSO ESPECIAL PROVIDO.
+1. Mesmo após ter sido suscitado a se manifestar, pela via dos Embargos de Declaração, o Tribunal local manteve-se inerte em emitir qualquer juízo a respeito da alegação de que a verba recebida da esfera federal foi incorporada ao Estado do Piauí.
+2. Violação ao art. 535, II do CPC que deve ser reconhecida a fim de que os autos retornem à origem, onde tal circunstância deverá ser devidamente enfrentada.
+3. Recurso Especial provido apenas para determinar o retorno dos autos à origem, a fim de que haja pronunciamento sobre a omissão reconhecida (REsp 1.306.306/PI, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS. COFINS. LEI 9.718/98. ALTERAÇÃO DA BASE DE CÁLCULO. SOCIEDADE COOPERATIVA. ROYALTIES. VIOLAÇÃO DO ART. 535, DO CPC. VÍCIOS DE INTEGRAÇÃO CONFIGURADOS.
+1. Constatado que a Corte de origem deixou de se manifestar a respeito de questão indispensável à solução da controvérsia, deve ser reconhecida a nulidade do acórdão e determinado o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a respeito da questão não apreciada.
+2. Agravo regimental não provido (AgRg no REsp 1.259.885/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 22/04/2014).
+Reconhecida a nulidade do acórdão recorrido pelo vício de integração acima identificado, fica prejudicada a análise das demais questões ventiladas no recurso especial.
+Ante o exposto, dou provimento ao recurso especial para, anulando o acórdão que julgou os Embargos de Declaração, determinar o retorno dos autos ao Tribunal de origem, a fim de que profira nova decisão, manifestando-se acerca da matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
