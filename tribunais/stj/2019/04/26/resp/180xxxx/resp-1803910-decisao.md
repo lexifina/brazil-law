@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o recorrido foi condenado pela prática do delito tipificado no art. 155, caput, do Código Penal (furto), à pena de 02 (dois) anos e 01 (um) mês de reclusão, em regime inicial semiaberto, e ao pagamento de 25 (vinte e cinco) dias-multa.
+Irresignada a defesa e interposto recurso, restou este provido para aplicar o princípio da insignificância.
+O acórdão restou assim ementado:
+Furto simples em supermercado. Sentença condenatória. Objetos de valor irrisório. Atipicidade material que se reconhece. Absolvição que se impõe.
+Evidenciado que o réu tentou subtrair do Supermercado Máximo bens no valor de R$ 58,50 (cinqüenta e oito reais e cinqüenta centavos), todos, aliás, recuperados, tem-se que sua conduta, embora formalmente típica, não o é materialmente, à míngua de efetiva lesividade ao patrimônio do estabelecimento comercial.
+Comparado o valor dos objetos, R$ 58,50 (cinqüenta e oito reais e cinqüenta centavos), ao patrimônio da pessoa jurídica, de pronto se infere sua total insignificância e, embora a conduta esteja em desarmonia com princípios morais, não é passível de pena, à míngua de tipicidade material.
+Recurso provido para absolver o réu, nos termos do art. 386, III, do Código de Processo Penal. Unanimidade.
+Na petição de recurso especial, o parquet aponta violação ao disposto no art. 155, caput, do Código Penal e art. 386, III, do Código de Processo Penal. Sustenta, em síntese, o afastamento da aplicação do princípio da insignificância, porquanto o recorrido ostenta duas condenações criminais por crimes de roubo tentado e furto qualificado tentado.
+Contrarrazões às fls. 291/296.
+Admitido o recurso (fls. 298/299), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo desprovimento do recurso (fls. 312/319).
+É o relatório. Decido.
+A irresignação merece prosperar.
+O Tribunal de origem concluiu pela aplicação do princípio da insignificância, mediante seguinte fundamentação (fl. 263):
+Contudo, para que uma conduta possa configurar infração penal, não basta que se amolde ao tipo legal, ou seja, que apenas seja formalmente típica, vez que também se impõe seja materialmente típica, isto é, que acarrete dano, ou, pelo menos, que contenha significativo potencial danoso.
+Com efeito, o valor dos objetos subtraídos, R$ 58,50 (cinqüenta e oito reais e cinqüenta centavos), é insignificante diante do patrimônio do supermercado, impondo-se destacar que todos foram recuperados. O patrimônio, bem jurídico tutelado, não sofreu lesão e a conduta do réu expressa pequena reprovabilidade e irrelevante periculosidade social. Trata-se de evidente caso de indiferente penal, porque, embora formalmente típico, não o é materialmente, à míngua de efetiva lesividade.
+Todavia, o valor da res furtiva (R$ 58,50) é superior a 10 % (dez por cento) do salário mínimo vigente à época dos fatos (R$ 545,00), evidenciando a efetiva lesão ao bem jurídico tutelado pela norma penal incriminadora. Ademais, consta dos autos que o recorrido ostenta maus antecedentes, pois condenado pela prática do crime de roubo e furto qualificado, o que obsta a aplicação do princípio da insignificância, conforme jurisprudência desta Corte.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR DO BEM SUBTRAÍDO SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE NA ÉPOCA DO FATO. PRÁTICA ANTERIOR DE DELITOS DE MESMA NATUREZA. INAPLICABILIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES. ATIPICIDADE. NÃO OCORRÊNCIA. WRIT NÃO CONHECIDO.
+(..)
+III - É inviável a aplicação do princípio da insignificância, pois o valor da res furtiva subtraído da vítima - R$ 80,00 (oitenta -, ultrapassa o percentual de 10% (dez por cento) do salário mínimo vigente na época do crime (R$ 622,00, conforme Decreto n. 7.655/2011), não podendo ser considerado desprezível a autorizar a incidência do princípio da insignificância.
+IV - A jurisprudência pacífica desta Corte é no sentido de que sendo o paciente reincidente ou possuidor de maus antecedentes indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância.
+Habeas corpus não conhecido. (HC 481.692/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/04/2019, DJe 12/04/2019 - Grifo Nosso).
+CONSTITUCIONAL E PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. REINCIDÊNCIA. VALOR DA RES FURTIVAE SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO. RELEVANTE LESÃO AO BEM JURÍDICO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+(..)
+2. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas do caso. Precedentes.
+3. Verifica-se contumácia delitiva do réu, em especial crimes patrimoniais, conforme noticia o acórdão impugnado, o que demonstra desprezo sistemático pelo cumprimento do ordenamento jurídico. Nesse passo, de rigor a inviabilidade do reconhecimento da atipicidade material, por não restarem demonstradas as exigidas mínima ofensividade da conduta e ausência de periculosidade social da ação.
+4. O princípio da insignificância baseia-se na necessidade de lesão jurídica expressiva para a incidência do Direito Penal, afastando a tipicidade do delito em certas hipóteses em que, apesar de típica a conduta, ausente dano juridicamente relevante. Sobre o tema, de maneira meramente indicativa e não vinculante, a jurisprudência desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial.
+5. Observa-se, contudo, considerável valor da res furtivae, avaliada em R$ 100,00 (cem reais), porquanto equivalente a 11,36% do salário-mínimo à época do fato, em 2016, que correspondia a R$ 880, 00 (oitocentos e oitenta reais). Tendo em vista superação do critério informado jurisprudencialmente, ausente, pois, o requisito da inexpressividade da lesão ao bem jurídico.
+(..)
+9. Recurso desprovido. (RHC 74.237/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/09/2016, DJe 28/09/2016 - Grifo Nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. MAUS ANTECEDENTES E REINCIDÊNCIA. INAPLICABILIDADE. AGRAVO DESPROVIDO. 1. É inaplicável o princípio da insignificância no caso concreto, uma vez que estão presentes a reincidência e os maus antecedentes do réu. 2. Agravo regimental desprovido. (AgRg no AREsp 1359866/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/03/2019, DJe 26/03/2019 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para afastar a aplicação do princípio da insignificância e determinar que o Tribunal a quo analise as demais teses defensivas constantes na apelação.
+Publique-se. Intimem-se.
