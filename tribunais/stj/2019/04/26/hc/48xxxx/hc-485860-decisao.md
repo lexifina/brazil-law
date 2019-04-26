@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus, substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DANIEL VITOR DA [NOME], contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 4030693-42.2018.8.24.0900).
+ Extrai-se dos autos que o paciente foi preso em flagrante em 03/08/2018, pela suposta prática dos ilícitos tipificados nos arts. 171, 288, 304 e 298, todos do Código Penal (estelionato, associação criminosa, uso de documento falso e falsificação de documento particular). Referida custódia foi convertida em preventiva (fls. 84/86).
+ Irresignada, a defesa impetrou o habeas corpus originário, cuja ordem foi denegada em relação ao ora paciente, conforme acórdão assim ementado:
+HABEAS CORPUS. PRISÃO PREVENTIVA. 1. TRANCAMENTO. ATIPICIDADE. ESTELIONATO. COMPRA COM CARTÃO DE CRÉDITO CLONADO. 2. TEMPO DE SEGREGAÇÃO. PENA FUTURA EM EVENTUAL PROCEDÊNCIA DA ACUSAÇÃO. ESTELIONATO (CP, ART. 171). AGENTE PRIMÁRIO. PROPORCIONALIDADE. HOMOGENEIDADE. 3. EXCESSO DE PRAZO. ESTELIONATO REINCIDÊNCIA.
+1. Não é manifestamente atípica, a ponto de autorizar o trancamento da ação penal ajuizada para apurar a prática do delito de estelionato, a conduta consistente em efetuar compra em loja utilizando cartão de crédito clonado.
+2. Se o paciente estiver preso preventivamente há 4 meses; se inexistir previsão de quando a sentença deve ser proferida; se a imputação inicial, que trata de um delito de estelionato, indica que a pena a ser aplicada, no caso de procedência da acusação, não deve se afastar consideravelmente do mínimo legal (1 ano de privação de liberdade) e que será fixado o regime aberto para seu resgate; e se o acusado for primário; é de se ter como violada a homogeneidade da prisão cautelar, porque mais gravosa do que a punição a ser imposta ao final do processo. E isso justifica a revogação da segregação preventiva.
+3. Não há violação à homogeneidade da prisão cautelar, tampouco configuração de excesso de prazo, na determinação de segregação preventiva de agente reincidente acusado da prática estelionato, pois eventual procedência da imputação inicial pode culminar com pena tão rigorosa quanto à custódia ante tempus.
+ORDEM PARCIALMENTE CONCEDIDA COM RELAÇÃO A TRÊS PACIENTES, DENEGADA NO QUE CONCERNE A UM (fl. 542).
+No presente writ, o impetrante alega que a manutenção da prisão cautelar do paciente se deu, "unica e exclusivamente em razão do requerente, em tese, possuir antecedentes criminais, mediante solicitação da ilustre autoridade coatora ao juízo de São Paulo" (fl. 5), destacando, contudo, que a certidão de antecedentes colacionada aos autos pertence a um homônimo (PEC n. 1.069.163) que conta com duas condenações que estão sendo executadas pela 1ª VEC da comarca de Presidente Prudente (7001544-96.2013.8.26.0405 e 7014191-18.2015.8.26.0482), ressaltando, portanto, a primariedade do acusado.
+Requer, desse modo, liminarmente e no mérito, a concessão da ordem para que, reconhecido o equívoco, seja determinada a juntada das certidões de antecedentes atualizadas, com respectivos documentos de identificação, e revogada a prisão preventiva de DANIEL VITOR DA [NOME] (nascido em 06.08.1989, filho de [NOME], [RG]SSP/SP e CPF [CPF]), expedindo-se alvará de soltura em seu favor.
+Pede, alternativamente, a concessão da ordem de ofício para corrigir o erro pela prisão do paciente no Presídio de Itajaí em razão da condenação de outra pessoa, especificamente pelos autos nº 45173-43.2013.8.26.0050 da 8ª Vara Criminal da Comarca de São Paulo - SP, com a determinação de que o diretor da unidade prisional em questão libere o acusado "sob pena de responder por crime de abuso de autoridade" (fl. 11).
+Ou, ainda, seja concedida a extensão da decisão que concedeu a soltura aos corréus, nos moldes do art. 580, do CPP.
+O pleito liminar foi indeferido às fls. 555/557. Recebidas as informações solicitadas (fls. 562/568 e 569/667), o Ministério Público Federal opinou pela prejudicialidade da impetração (fls. 672/675).
+É o relatório.
+Decido.
+O presente feito encontra-se prejudicado.
+Isso porque, conforme informações prestadas pelo Tribunal de origem (fls. 575), em 18/01/2019 foi revogada a prisão preventiva do paciente nos autos da Ação Penal 0002456-03.2018.8.24.0048, a que se refere o presente recurso.
+Assim, não há como negar a perda superveniente do objeto deste feito.
+Pelo exposto, julgo prejudicado o presente habeas corpus, ante a perda do objeto, com fundamento no art. 34, XI, do RISTJ.
+Publique-se.
+Intimem-se.
