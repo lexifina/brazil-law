@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME], apontando-se como autoridade o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS que denegou o writ de origem por acórdão assim ementado (fl. 106):
+"HABEAS CORPUS" - TRÁFICO DE DROGAS - TRANCAMENTO DA AÇÃO PENAL - IMPOSSIBILIDADE - NECESSIDADE DE DILAÇÃO PROBATÓRIA - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - REVOGAÇÃO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS PREVISTOS NOS ARTIGOS 312 E 313 DO CPP - GARANTIA DA ORDEM PÚBLICA - POSSÍVEL REITERAÇÃO CRIMINOSA - PACIENTE REINCIDENTE - DECISÃO FUNDAMENTADA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIENTES PARA A CONCESSÃO DA LIBERDADE - ORDEM DENEGADA. - De acordo com o entendimento do Supremo Tribunal Federal, o trancamento da ação penal é medida de exceção, devendo ser adotada somente quando for demonstrada, de plano, a ausência de justa causa, em razão da atipicidade da conduta, de causa extintiva da punibilidade ou da inexistência de indícios de autoria. - Presentes os requisitos previstos nos artigos 312 e 313 do Código de Processo Penal, a manutenção da segregação cautelar do paciente é medida que se impõe. - A possibilidade de reiteração criminosa constitui motivo idôneo para a manutenção da prisão preventiva do paciente, pois visa a garantir a ordem pública. - Se a decisão "a quo" estiver calcada em elementos concretos do caso, incabivel é a alegação de ausência de fundamentação. - A presença de condições pessoais favoráveis ao paciente não autoriza, por si só, a concessão da liberdade provisória.
+Consta dos autos, que o paciente foi preso em flagrante em 28/8/2018 pela prática do delito do art. 33, caput, da Lei 11.343/2006, sendo a custódia convertida em preventiva, no dia 31/8/2018.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local, que denegou a ordem.
+Daí o presente recurso, em que o recorrente sustenta, em síntese, que não estão presentes os requisitos autorizadores da prisão preventiva.
+Requer, liminarmente e no mérito, a concessão da ordem para se defira ao recorrente o direito de aguardar ao julgamento da ação penal em liberdade, expedindo-se alvará de soltura em seu favor.
+A liminar foi indeferida (fls. 159-161).
+As informações foram prestadas (fls. 166-265 e 266-269).
+O Ministério Público Federal ofertou parecer, manifestando-se pela extinção do processo sem resolução do mérito, pela perda do objeto (fls. 271-273).
+Conforme as informações prestadas à fl. 168, o impetrado comunica que o Juízo de piso proferiu sentença, desclassificando a conduta do recorrente para a tipificada no art. 28, da Lei de Tóxicos, fixando-lhe a pena de prestação de serviços à comunidade por 3 meses, e deferindo-lhe o direito de recorrer em liberdade, com a expedição de alvará de soltura em seu favor, encontrando-se superada a discussão posta neste writ.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus, ante a perda superveniente do objeto.
+Publique-se.
+Intimem-se.
