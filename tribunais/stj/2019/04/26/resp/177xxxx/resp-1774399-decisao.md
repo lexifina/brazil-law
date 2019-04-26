@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO, fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. SENTENÇA QUE JULGA PARCIALMENTE PROCEDENTE A PRETENSÃO INICIAL, E AFASTA APENAS A POSSIBILIDADE DE COBRANÇA DE COMISSÃO DE PERMANÊNCIA, PORQUE CUMULADA COM MULTA CONTRATUAL. RECURSO DE ALESSANDRO WENGLARECK SANTOS. AGRAVO RETIDO. INCONFORMISMO COM O JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA DA ARGUMENTAÇÃO. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. DISCUSSÃO QUE SE RESUME À INTERPRETAÇÃO DE CONTRATO JUNTADO AOS AUTOS. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. AGRAVO NÃO PROVIDO.TAXA DE JUROS REMUNERATÓRIOS. AUSÊNCIA DE ABUSIVIDADE QUE JUSTIFIQUE QUALQUER ALTERAÇÃO NO QUE RESTOU PACTUADO ENTRE AS PARTES. CAPITALIZAÇÃO MENSAL DE JUROS. CONTRATO QUE PREVÊ EXPRESSAMENTE O PAGAMENTO DE PARCELAS FIXAS. TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE DE COBRANÇA DA TAXA ANUAL EFETIVAMENTE CONTRATADA. PRECEDENTES. REPETIÇÃO EM DOBRO. IMPOSSIBILIDADE. HIPÓTESE QUE SE RESERVA A CASOS DE DELIBERADA MÁ- FÉ DA INSTITUIÇÃO FINANCEIRA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO LASTREADA NA RELAÇÃO DISCUTIDA. VALOR PROPORCIONAL À ATIVIDADE DESENVOLVIDA. MANUTENÇÃO. RECURSO CONHECIDO E NÃO PROVIDO. RECURSO "DE BV FINANCEIRA S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO. COMISSÃO DE PERMANÊNCIA. PREVISÃO DE INCIDÊNCIA CUMULADA COM MULTA CONTRATUAL.
+IMPOSSIBILIDADE. CLÁUSULA QUE VAI DE ENCONTRO AO ENTENDIMENTO JURISPRUDENCIAL SOBRE O TEMA.
+DECISÃO ACERTADA DE VEDAÇÃO DA PRETENDIDA COBRANÇA, EM" CASO DE INADIMPLÊNCIA. COMPENSAÇÃO DE VALORES. POSSIBILIDADE. INTELIGÊNCIA DO ARTIGO 368 DO CÓDIGO CIVIL. PRECEDENTES. RELAÇÃO DE SUCUMBÊNCIA. NÃO CONHECIMENTO. PRETENSÃO JÁ ATENDIDA NA SENTENÇA. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE" PROVIDO" (fls. 231/233 e-STJ).
+A recorrente alega divergência jurisprudencial com relação ao artigo 4º, IX, da Lei nº 4.595/1964.
+Aduz que
+"(..)
+Não há mais discussão quanto à possibilidade da cobrança da comissão de permanência, limitada à soma dos juros remuneratórios à taxa média de mercado, juros moratórios até o limite de 12% ao ano e multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+Não houve contrarrazões (certidão de fl. 309 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A cláusula contratual que prevê a cobrança da comissão de permanência - calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, de acordo com a espécie da operação, tendo como limite máximo o percentual contratado - não é potestativa (Súmula nº 294/STJ).
+Referida cláusula é admitida apenas no período de inadimplência, desde que pactuada e não cumulada com os encargos da normalidade (juros remuneratórios e correção monetária) e/ou com os encargos moratórios (juros moratórios e multa contratual), de acordo com as Súmulas nºs 30 e 296/STJ.
+Nesse sentido, o REsp nº 1.058.114/RS, submetido ao regime dos recursos repetitivos, que apresenta a seguinte ementa:
+"DIREITO COMERCIAL E BANCÁRIO. CONTRATOS BANCÁRIOS SUJEITOS AO CÓDIGO DE DEFESA DO CONSUMIDOR. PRINCÍPIO DA BOA-FÉ OBJETIVA. COMISSÃO DE PERMANÊNCIA. VALIDADE DA CLÁUSULA. VERBAS INTEGRANTES. DECOTE DOS EXCESSOS. PRINCÍPIO DA CONSERVAÇÃO DOS NEGÓCIOS JURÍDICOS. ARTIGOS 139 E 140 DO CÓDIGO CIVIL ALEMÃO. ARTIGO 170 DO CÓDIGO CIVIL BRASILEIRO.
+1. O princípio da boa-fé objetiva se aplica a todos os partícipes da relação obrigacional, inclusive daquela originada de relação de consumo. No que diz respeito ao devedor, a expectativa é a de que cumpra, no vencimento, a sua prestação.
+2. Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida.
+3. A importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+4. Constatada abusividade dos encargos pactuados na cláusula de comissão de permanência, deverá o juiz decotá-los, preservando, tanto quanto possível, a vontade das partes manifestada na celebração do contrato, em homenagem ao princípio da conservação dos negócios jurídicos consagrado nos arts. 139 e 140 do Código Civil alemão e reproduzido no art. 170 do Código Civil brasileiro.
+5. A decretação de nulidade de cláusula contratual é medida excepcional, somente adotada se impossível o seu aproveitamento.
+6. Recurso especial conhecido e parcialmente provido".
+(REsp 1.058.114/RS, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 12/8/2009, DJe 16/11/2010 - grifou-se).
+Na espécie, colhe-se do acórdão recorrido que há previsão contratual de sua ocorrência cumulativa com outros encargos moratórios, o que inviabiliza sua cobrança.
+Incidência, portanto, da Súmula nº 568/STJ.
+A respeito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO. COMISSÃO DE PERMANÊNCIA. ACÓRDÃO ALINHADO À JURISPRUDÊNCIA DESTA CORTE FIRMADA EM REPETITIVOS. CAPITALIZAÇÃO MENSAL DOS JUROS. POSSIBILIDADE. PREVISÃO NO CONTRATO. POSICIONAMENTO CONSOLIDADO NO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal estadual, ao permitir a incidência da comissão de permanência desde que não cumulada com qualquer encargo de mora, decidiu em alinhamento à jurisprudência desta Corte firmada em repetitivos.
+3. Admite-se a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17/2000, desde que expressamente pactuada.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Em razão da improcedência do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido" (AgInt no AREsp 789.981/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/8/2018, DJe 23/8/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. REVISIONAL DE CONTRATO. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE DE APLICAÇÃO, DESDE QUE PREVISTA NA AVENÇA E LIMITADA À TAXA DE JUROS. ENTENDIMENTO EXARADO NO ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. A "Segunda Seção desta Corte pacificou a orientação no sentido de ser admitida, no período de inadimplemento contratual, a comissão de permanência, à taxa média do mercado apurada pelo Banco Central do Brasil e limitada à taxa do contrato, desde que não esteja cumulada com juros moratórios nem com multa contratual" (AgInt no AREsp 1076622/RS, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF 5º Região, Quarta Turma, julgado em 28/11/2017, DJe 04/12/2017). 2. O acórdão estadual está em sintonia com a jurisprudência deste Tribunal Superior, atraindo a aplicação da Súmula 83/STJ por ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido"
+(AgInt no REsp 1.705.620/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/3/2018, DJe 5/4/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DE MERCADO. CAPITALIZAÇÃO MENSAL DE JUROS. COMISSÃO DE PERMANÊNCIA. REPETIÇÃO DE INDÉBITO.
+1. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado ou a ausência de contratação expressa.
+2. Admite-se a capitalização mensal dos juros nos contratos bancários celebrados a partir da publicação da MP 1.963-17 (31.3.00), desde que seja pactuada.
+3. É admitida a incidência da comissão de permanência desde que pactuada e não cumulada com juros remuneratórios, juros moratórios, correção monetária e/ou multa contratual.
+4. Aquele que recebeu o que não devia deve restitui-lo, sob pena de enriquecimento indevido, pouco relevando a prova do erro no pagamento.
+5. Agravo interno no recurso especial não provido"
+(AgInt no REsp 1.417.066/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/3/2018, DJe 2/4/2018).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
