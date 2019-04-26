@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARLENE FERREIRA DOS SANTOS contra decisão do relator, que indeferiu a medida liminar na origem.
+O impetrante alega, em síntese, que a paciente está sofrendo constrangimento ilegal, porquanto teria direito à progressão de regime, desde 26/12/2018, e até o momento não teria sido apreciado o pedido pelo Juiz da Execução.
+Requer a concessão da ordem, inclusive liminarmente, "determinando a imediata promoção da paciente ao regime aberto de cumprimento de pena" (e-STJ, fl. 6).
+Liminar indeferida à fl. 22 (e-STJ).
+Informações prestadas às fls. 28-32 e 34-35 (e-STJ).
+O Ministério Público Federal opinou pelo não conhecimento do writ, ou, caso conhecido, pela sua denegação (e-STJ, fls. 37-39).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. INDEFERIMENTO DE PEDIDO LIMINAR NA ORIGEM. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. EXECUÇÃO PROVISÓRIA. PENA PRIVATIVA DE LIBERDADE. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Não se admite, em princípio, a impetração de habeas corpus contra decisão que indefere pedido liminar em writ impetrado na origem, sob pena de se configurar indevida supressão de instância (Súmula n. 691 do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+III - In casu, o impetrante se insurge contra a determinação de execução provisória da pena privativa de liberdade, após esgotadas as instâncias ordinárias. Não se verifica, portanto, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido"
+(AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU PEDIDO LIMINAR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ÓBICE DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática que se ampara no art. 932, III, do Código de Processo Civil de 2015 (aplicável ao caso, por força do disposto no art. 3º do Código de Processo Penal) e no art. 210 do Regimento Interno deste Superior Tribunal.
+2. Nos termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+3. A leitura da decisão monocrática impugnada na inicial (sentença condenatória) não evidencia, de pronto, a presença de alguma excepcionalidade, de flagrante ilegalidade ou de abuso de poder que justifique o afastamento da orientação contida na referida súmula.
+Isso porque o Juiz sentenciante afirmou ser o acusado possuidor de maus antecedentes e reincidente específico, razões pelas quais afastou a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, fixou o regime inicial fechado e negou o direito de recorrer em liberdade (para o fim de garantir-se a ordem pública).
+4. Agravo regimental não provido"
+(AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+No caso dos autos, alega a defesa excesso de prazo no julgamento do pedido de progressão ao regime aberto. Segundo informações à fl. 34 (e-STJ), "o pedido para progressão ao regime aberto foi protocolizado em 29 de janeiro de 2019, analisado em 19 de março de 2019, e foi determinada a realização de exame criminológico", não se constatando, portanto, desídia na apreciação do pleito.
+A propósito:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. EXCESSO DE PRAZO NA APRECIAÇÃO DE PEDIDO DE PROGRESSÃO DE REGIME. INOCORRÊNCIA. DETERMINADA REALIZAÇÃO DE EXAME PERICIAL. AUSÊNCIA DE DESÍDIA DO MAGISTRADO. MORA QUE AINDA NÃO EXTRAPOLOU OS LIMITES DA RAZOABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. RECOMENDAÇÃO DE CELERIDADE NO EXAME DO PEDIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e deste Superior Tribunal de Justiça. Contudo, ante as alegações expostas na inicial, afigura-se razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. Constitui entendimento consolidado do Superior Tribunal de Justiça que somente configura constrangimento ilegal por excesso de prazo a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação. Ademais, a lei não estabelece prazo peremptório para o exame do pleito de progressão de regime. In casu, extrai-se dos autos que o pedido foi formulado em 6/11/2015 - há cerca de um ano, portanto. Ao que se extrai das informações prestadas pelo Juízo das Execuções Criminais, a demora na apreciação do pleito decorre da necessidade de prévia realização de perícia reputada "indispensável,  ..  com o objetivo de aferir eventual risco da liberdade do requerente" (fl. 58). Ademais, as informações prestadas dão conta de que os autos foram incluídos em força tarefa, determinando-se a realização do aludido exame pericial em prazo de sessenta dias.
+Assim, em que pese o prazo de apreciação do benefício tenha extrapolado o desejável, bem como já superado o limite temporal determinado pelo Magistrado para realização da perícia parece iminente a prestação jurisdicional requerida. Desse modo, afigura-se prudente que esta Corte Superior emita, por ora, tão só recomendação de celeridade ao Juízo das Execuções Criminais, a fim de que examine o pedido de progressão de regime com a maior brevidade possível.
+Habeas corpus não conhecido. Expedição de recomendação ao Juízo da Quinta Vara das Execuções Criminais da Comarca de São Paulo-SP para conferir a maior celeridade possível ao exame do pedido de progressão de regime do paciente."
+(HC 354.557/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016, grifou-se).
+Assim, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
