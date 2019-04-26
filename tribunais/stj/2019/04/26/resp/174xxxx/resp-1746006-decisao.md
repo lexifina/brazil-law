@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, que manteve decisão monocrática do relator, no sentido de que, quando o excesso de execução for fundamento dos embargos, o embargante deverá declarar na petição inicial o valor que entende correto, apresentando memória de cálculo.
+Os embargos de declaração opostos foram rejeitados.
+No especial (fls. 197/205 e-STJ), além da divergência jurisprudencial, os recorrentes alegam violação do art. 739-A, § 5º, do Código de Processo Civil/1973. Sustenta, em síntese, que não se aplica o referido dispositivo na hipótese em que a definição do valor correto a ser executado depender de realização de perícia contábil.
+Sobre o tema, apontou como paradigma o Agint no Aresp nº 921.640/BA, Terceira Turma, Relator Ministro Villas Bôas Cueva e o AgRg no AREsp nº 261.207/PE, Terceira Turma, Relator Ministro Sidney Benetti.
+Na origem, o recurso recebeu crivo positivo de admissibilidade, ascendendo, assim, a esta Corte Superior (fls. 221/222 e-STJ).
+É o relatório.
+DECIDO.
+Inicialmente, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+A irresignação não merece prosperar.
+Com efeito, a respeito da controvérsia apresentada nos autos, o Tribunal de origem assim concluiu:
+"(..) Discute-se, nos presentes autos, se antes de extinguir o jeito, deveria o Magistrado de Primeiro Grau ter concedido a oportunidade para a apresentação dos cálculos que o embargastes entendem devidos, nos termos do art. 284 do CPC.
+Com efeito, dispõe o § 5º do art. 739-A do CPC, acrescentado pela Lei nº 11.382, de 06.12.2006, in verbis:
+"§ 5º Quando o excesso de execução for fundamento dos embargos, o embargante deverá declarar na petição inicial o valor que entende correto, apresentando memória do cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento."
+Da leitura do referido dispositivo legal depreende-se que a norma nele contida é imperativa, portanto, caso assim o embargante não proceda, estará sujeito à rejeição liminar dos embargos. Desse modo, não se trata de determinação de emenda da inicial, nos termos do art. 284 do CPC" (fl. 174 e-STJ).
+Sobre o tema, a Corte Especial, no julgamento do EREsp nº 1.267.631/RJ, consolidou o entendimento de que a petição de impugnação à execução não pode se submeter à regra de emenda da inicial, prevista no art. 284 do CPC.
+Por oportuno, convém destacar trecho do mencionado acórdão, da relatoria do Ministro João Otávio de Noronha, que bem elucida a questão ora em evidência:
+"Dessarte, a explícita e peremptória prescrição (art. 739-A, § 5º, do CPC) de não se conhecer do fundamento ou de rejeitar liminarmente os embargos à execução firmados em genéricas impugnações de excesso de execução - sem apontar motivadamente, mediante memória de cálculo, o valor que se estima correto - não pode submeter-se à determinação de emenda da inicial, sob pena de mitigar e, até mesmo, de elidir o propósito maior de celeridade e efetividade do processo executivo.
+Sem perder de vista que, mesmo sob a égide da legislação anterior, já reconhecia este Tribunal que a impugnação genérica do valor exequendo ensejava a rejeição liminar dos embargos à execução, o recuo da jurisprudência em relação à plena aplicabilidade do dispositivo em análise, inclusive por constituir interferência refreadora da garantida da razoável duração do processo de execução, poderá, além de subverter os pressupostos que motivaram a reforma do diploma processual, denotar desprezo aos próprios anseios do jurisdicionado.
+Com a devida vênia aos eminentes pares que dissentem de tais conclusões, convém ainda frisar que, nos casos de oposição do executado ao fundamento de excesso de execução (arts. 475-L, § 2º, e 739-A, § 5º, do CPC), é importante que, como requisito de admissibilidade dos embargos ou impugnação, a parte devedora indique, por meio de correspondente planilha de cálculos, o quantum reconhecidamente devido ao exequente, por constituir exigência processual apta a evidenciar a questão controversa e, por conseguinte, tornar possível a rápida tutela do direito perseguido."
+O mencionado aresto recebeu a seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PROCESSO EXECUTIVO. EMBARGOS. EXCESSO DE EXECUÇÃO. VALOR CORRETO. MEMÓRIA DE CÁLCULO. ART. 739-A, § 5º, DO CPC. REJEIÇÃO DOS EMBARGOS OU NÃO CONHECIMENTO DO FUNDAMENTO. EMENDA DA INICIAL. INVIABILIDADE. EMBARGOS DE DIVERGÊNCIA CONHECIDOS E DESPROVIDOS.
+1. Fundados os embargos em excesso de execução, a parte embargante deve indicar, na petição inicial, o valor que entende correto, apresentando memória de cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento (art. 739-A, § 5º, do CPC).
+2. Com a edição da Lei n. 11.382, de 6/12/2006, norma congruente com a Lei n. 11.232/2005 - por exemplo, art. 475-L, § 2º, do CPC -, introduziu-se nova sistemática do processo satisfativo, estando entre as importantes mudanças a reformulação dos embargos à execução para inibir, no seu nascedouro, defesas manifestamente infundadas e procrastinatórias.
+3. A explícita e peremptória prescrição (art. 739-A, § 5º, do CPC) de não se conhecer do fundamento ou de rejeitar liminarmente os embargos à execução firmados em genéricas impugnações de excesso de execução - sem apontar motivadamente, mediante memória de cálculo, o valor que se estima correto - não pode submeter-se à determinação de emenda da inicial, sob pena de mitigar e, até mesmo, de elidir o propósito maior de celeridade e efetividade do processo executivo.
+4. Embargos de divergência conhecidos e desprovidos"
+(EREsp 1.267.631/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 19/06/2013, DJe 1º/07/2013 - grifou-se).
+Assim, tem incidência o enunciado da Súmula nº 83/STJ.
+Ademais, no tocante ao art. 739-A do CPC/1973, verifica-se que a tese - necessidade de perícia técnica - não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do Código de Processo Civil de 2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROTESTO DE TÍTULO. NULIDADE. PEDIDO DE DILIGÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NECESSÁRIO REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+2. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de recurso especial, a teor da Súmula 7 deste Tribunal.
+3. Rever os fundamentos que levaram à conclusão acerca do protesto indevido e do dever de indenizar, no caso, demandaria o exame do conjunto probatório, o que é vedado na instância especial, segundo dispõe a Súmula 7/STJ.
+4. Incabível a alegação de divergência jurisprudencial sem a citação de acórdão paradigma. Incidência da Súmula 284 do STF.
+5. Agravo regimental a que se nega provimento." (AgRg no AREsp 431.782/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/5/2014, DJe 12/5/2014).
+Nesse contexto, constata-se que não há falar em dissídio interpretativo, ante a ausência de similitude fática entre os julgados confrontados.
+Ante o exposto nego provimento ao recurso.
+Deixa-se de majorar os honorários advocatícios, tendo em vista que não foram fixados na origem.
+Publique-se.
+Intimem-se.
