@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A. fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO LIMINAR DE EXIBIÇÃO DE DOCUMENTOS. 01 S/A. TELEFONIA. FALTA DE INTERESSE DE AGIR. AFASTADA. QUALQUER TENTATIVA DA PARTE DE BUSCAR OBTER OS DOCUMENTOS PELA VIA EXTRAJUDICIAL COMPROVA O INTERESSE DE AGIR. SÚMULA 389 DO STJ INAPLICÁVEL. LIVRE ACESSO AO JUDICIÁRIO. GARANTIA CONSTITUCIONAL PREVISTA NO ARTIGO 5º, XXXV DA CF. INÉPCIA DA INICIAL. INOCORRÊNCIA. ILEGITIMIDADE PASSIVA DA BRASIL TELECOM S/A. NÃO CONFIGURADA. MEDIDA CAUTELAR QUE OBJETIVA A OBTENÇÃO DE DOCUMENTOS PARA FUTURA UTILIZAÇÃO. ANÁLISE DA PRESCRIÇÃO. INCABÍVEL EM SEDE CAUTELAR. DISCUSSÃO QUE SOMENTE OCORRERÁ QUANDO, E SE OCORRER O AJUIZAMENTO DA AÇÃO PRINCIPAL. INVERSÃO DO ÔNUS DA PROVA. NÃO APLICÁVEL AO CASO. APLICAÇÃO DA LEGISLAÇÃO CONSUMERISTA. ENTENDIMENTO DO STJ. DESNECESSIDADE DE COMPROVAÇÃO DO FUMOS BONI IURIS E DO PERICULUM IN MORA NAS MEDIDAS CAUTELARES DE APRESENTAÇÃO DE DOCUMENTOS. EXERCÍCIO ABUSIVO DE DIREITO. NÃO CONFIGURADO. DIREITO AO CONSUMIDOR DE OBTER DOCUMENTOS COMUNS AVENÇADOS ENTRE AS PARTES. COBRANÇA DE DIFERENCIAL ACIONÁRIO. SUBSCRIÇÃO POSTERIOR À INTEGRALIZAÇÃO. DIREITO DO ACIONISTA. CONTRATO CELEBRADO SOB REGIME PEX OU PAID. IRRELEVÂNCIA. RECURSO CONHECIDO E DESPROVIDO" (fls. 577/578 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 612/617 e-STJ).
+Nas razões do recurso especial (fls. 638/657 e-STJ), a recorrente sustenta, além da divergência jurisprudencial, violação dos artigos 100, § 1º, da Lei nº 6.404/76; 333, I, e 535, II, do Código de Processo Civil de 1973.
+Aduz, preliminarmente, que o acórdão é omisso quanto à ausência de interesse do recorrido pela não apresentação de pedido administrativo de exibição de documentos.
+No mérito, aduz que a falta de comprovação de prévio requerimento administrativo para a exibição dos documentos, com o devido pagamento da taxa respectiva do serviço, obsta o pedido de exibição incidental, nos termos do que preconiza a Súmula nº 389/STJ.
+Com contrarrazões (fls. 667/685 e-STJ) o recurso foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+De fato, apresenta-se equivocado o acórdão recorrido quando afirma que:
+"(..) importante mencionar que qualquer tentativa da parte autora de buscar obter a documentação extrajudicialmente, como carta enviada com aviso de recebimento ou qualquer outro tipo de protocolo, já demonstra interesse de agir.
+Ademais, ainda que não haja a negativa por parte da apelante para a apresentação dos documentos solicitados, há interesse de agir da parte apelada em razão da garantia assegurada de livre acesso ao Judiciário, prevista na Constituição Federal.
+(..)
+Neste aspecto, resta afastada a alegada falta de interesse de agir, assim como a aplicação da Súmula 389 do Superior Tribunal de Justiça, em virtude da posição jurisprudencial e por força da garantia assegurada na Constituição Federal de 1988" (fls. 582/584 e-STJ).
+Com efeito, a jurisprudência desta Corte acabou se firmando no sentido de que "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira" (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/5/2016).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido" (AgInt no REsp 1.331.352/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/12/2016).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE AÇÕES. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. SÚMULA 389 DO STJ. APLICABILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes." (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/05/2016, DJe 27/05/2016).
+2. Agravo interno não provido" (AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1º/12/2016).
+Inconteste, portanto, a incompatibilidade do entendimento firmado na origem com a orientação deste Tribunal Superior.
+Ante o exposto dou provimento ao recurso especial, para extinguir o feito por ausência de interesse de agir da parte recorrida. Condeno o recorrido ao pagamento das custas e honorários advocatícios de 10% (dez por cento) do valor atualizado da causa, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
