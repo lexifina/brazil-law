@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de FRANKLIN PEREIRA BENITES, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Depreende-se dos autos que o d. Juízo das Execuções negou ao paciente o benefício do livramento condicional, sob os seguintes argumentos (fl. 29): "Em detida análise dos autos, verifica-se que o interno possui péssimo histórico prisional com registro de falta disciplinar de natureza grave, uma fuga, permanecendo evadido por mais de um ano, até sua recaptura.  .. " (grifei).
+Irresignada, a Defesa interpôs agravo em execução, ao qual o eg. Tribunal de origem negou provimento, nos termos do v. acórdão de fls. 70-77 assim ementado:
+"EMENTA- AGRAVO EM EXECUÇÃO - RECURSO DEFENSIVO - PRETENDIDA CONCESSÃO DO BENEFÍCIO DO LIVRAMENTO CONDIC ONAL - IMPOSSIBILIDADE - FALTAS GRAVES COMETIDAS NO CUMPRIMENTO DA PENA - FUGA COM RECAPITURA APÓS DECORRIDO LONGO PERÍODO - NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO - RECURS D DESPROVIDO.
+1 - A concessão do benefício do livramento condicional está adstrita ao preenchimento dos requisitos legais estampados no art. 83, inciso III, do Código Penal, que são de ordem objetiva e subjetiva. Conforme entendimento jurisprudencial dominante, o cometimento de falta grave, embora não interrompa o período aquisitivo necessário para concessão do livramento condicional, ilide o preenchimento do requisito subjetivo necessário à concessão desse benefício;
+2 - As faltas disciplinares ainda que ocorridas há muito tempo, não podem ser desconsideradas na análise do livramento condicional, tendo em vista que o comportamento do apenado deve ser verificado com base em todo o período de execução da pena e não apenas com relação ao tempo decorrido desde o cometimento da última falta grave;
+3 - Não cabe inclusive dizer que a não concessão do livramento condicional importará na configuração indevida do bis in idem, eis que o embargante já foi penalizado com a regressão de regime. Tal sustentação é carente de qualquer fundamento legal, de até porque se tratam de benefícios penais plenamente distintos, com requisitos e particularidades autônomas, que não se confundem;
+4 - Recurso a que, com o parecer, nego provimento."
+Opostos embargos infringentes pela Defesa, foi desprovido o recurso, consoante v. acórdão de fls. 126-133, com a seguinte ementa:
+"EMENTA - EMBARGOS INFRINGENTES EM AGRAVO DE EXECUÇÃO PENAL - PRETENDIDA A CONCESSÃO DO BENEFÍCIO DO LIVRAMENTO CONDICIONAL IMPOSSIBILIDADE - FALTA GRAVE - NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO - RECURSO DESPROVIDO.
+1. A concessão do benefício do livramento condicional está adstrita ao preenchimento dos requisitos legais estampados no art. 83 do Código Penal, que são de ordem objetiva e subjetiva. Conforme entendimento jurisprudencial dominante, o cometimento de falta grave, embora não interrompa do período aquisitivo necessário para concessão do livramento condicional, ilide o preenchimento do requisito subjetivo necessário à concessão desse benefício, o que já basta para o indeferimento da concessão do benefício.
+2. A análise do comportamento do condenado deve ser feita durante todo o período de execução de pena."
+No presente habeas corpus, a Defensoria Pública estadual, ora impetrante, alega que a prática de falta disciplinar pelo reeducando não interrompe o prazo do livramento condicional e tampouco pode ser novamente levada em conta para indeferir o benefício, uma vez que o seu reconhecimento já refletiu na execução, notadamente na regressão de regime, a fim de se evitar bis in idem, que entende configurado no caso do paciente. Por fim, aduz que a falta grave não pode impedir a concessão de benefícios de maneira perpétua.
+Requer a concessão da ordem, inclusive LIMINARMENTE, a fim de que seja deferido o livramento condicional em favor do paciente.
+Informações prestadas, às fls. 152-155 e 160-164.
+O d. Ministério Público Federal manifestou-se, às fls. 166-168, pela prejudicialidade do writ, em parecer de seguinte ementa:
+"HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE NECESSIDADE OU UTILIDADE DESTE HABEAS CORPUS. PREJUDICADO.
+- Parecer no sentido de julgar prejudicado o habeas corpus por ausência de necessidade e utilidade."
+É o relatório.
+Decido.
+Firmou-se nesta Corte, nos termos do entendimento manifestado pela Primeira Turma do col. Pretório Excelso, orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+O presente habeas corpus encontra-se prejudicado.
+Conforme informações prestadas pelo d. Juízo da Execução, às fls. 160-164, verifica-se que foi declarada extinta a punibilidade do sentenciado, em decorrência de deferimento de indulto, em 09/11/2018, o que demonstra que houve a perda superveniente do objeto do presente mandamus.
+Ante o exposto, julgo prejudicado o presente habeas corpus, em razão da perda superveniente do objeto.
+[NOME]
