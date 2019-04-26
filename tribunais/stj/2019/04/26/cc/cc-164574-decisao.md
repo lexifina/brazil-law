@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito do foro central criminal Barra Funda - DIPO3 -, São Paulo/SP, em face de decisão do Juízo de Direito da 1ª Vara cível, criminal e de execuções criminais de Boa Esperança/MG que se reputou incompetente para conduzir Inquérito Policial instaurado para apurar a prática de estelionato.
+Segundo se apurou, no dia 26/2/2014, por volta das 09h15min, na rua Tiradentes, n. 20, centro, no município de Coqueiral/MG, a vítima ([NOME]) efetuou uma compra de 15 (quinze) unidades de computadores, tipo "tabletes", no valor de R$ 9.961,75 pela internet, na empresa Mundo das Utilidades (Razão Social: [NOME]), e não recebeu a mercadoria.
+A vítima pagou boleto (e-STJ fl. 11) que tinha como destinatário dos valores a empresa Mundo das Utilidades, com conta no Banco Santander. O CNPJ da empresa (e-STJ fl. 12) indica endereço de sede no Município de São Paulo/SP.
+Para o Juízo suscitado (da comarca de Boa Esperança/MG), a vantagem indevida foi obtida na cidade de São Paulo/SP, local para o qual se destinava o valor do boleto pago pela mercadoria não recebida. Assim sendo, a competência para o julgamento do crime seria de São Paulo.
+Já o Juízo suscitante (da comarca de São Paulo/SP), o crime se perfaz no local onde ocorreu o efetivo dano, no caso, na agência onde a vítima possui conta bancária, conforme recente julgamento de conflito de competência n. 155.772/PR (2017/0314504-0) relatado pelo Ministro Ribeiro Dantas.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou (e-STJ fls. 107/110) pela competência do Juízo suscitado (de Boa Esperança/MG), em parecer assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO PRATICADO PELA INTERNET MEDIANTE PAGAMENTO DE BOLETO BANCÁRIO DE AGÊNCIA SITUADA EM COMARCA DIVERSA. CONSUMAÇÃO. JUÍZO EM QUE OCORRE O EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. PRECEDENTES.
+1. Cinge-se a controvérsia em estabelecer qual Juízo competente para processar e julgar o delito de estelionato, fundado em compra realizada pela internet, na cidade de Boa Esperança/MG, mediante pagamento de boleto bancário de agência situada em São Paulo/SP, sem que a vítima tenha recebido os produtos anunciados.
+2. Especificamente quanto ao delito de estelionato praticado nestes termos, o estudo da jurisprudência desta Corte Superior mostra que o entendimento prevalente é o de que a consumação se dá no local do efetivo prejuízo da vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária.
+3. O Ministério Público Federal manifesta-se pela fixação da competência do Juízo de Direito da 1ª Vara Cível, Criminal e de Execuções Penais de Boa Esperança/MG, o suscitado.
+É o relatório. Passo a decidir.
+O conflito merece ser conhecido, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição desta Corte, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+Questiona-se, nos autos, se a competência para julgamento de inquérito policial - no qual se investiga estelionato praticado por meio de pagamento voluntário de boleto efetuado pela vítima, cujo valor veio a ser depositado na conta de estelionatário - é do juízo da comarca em que se situa a agência bancária na qual a vítima tem conta corrente, ou do juízo da comarca em que se situa a agência bancária onde o investigado tem conta.
+Com efeito, nos termos do art. 70 do CPP, a competência será de regra determinada pelo lugar em que se consumou a infração e o estelionato, crime tipificado no art. 171 do CP, consuma-se no momento e lugar em que ocorre o efetivo dano à vítima, e não naquele em que é obtida a vantagem ilícita.
+Nesse sentido, entre outros, os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. JUÍZO EM QUE OCORRE O EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. PRECEDENTES.
+1. Nos termos do que dispõe o art. 70 do CPP, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+2. O delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária. Precedentes.
+3. Tendo a vítima efetuado as transferências em agência localizada na cidade de Pacaembu/SP, onde possuía conta bancária, é este o local do efetivo dano e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara de Pacaembu/SP, ora suscitado.
+(CC 147.811/CE, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 14/09/2016, DJe 19/09/2016) - negritei.
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. ESTELIONATO. LOCAL EM QUE SITUADA AGÊNCIA DA VÍTIMA. CONFIGURAÇÃO DO PREJUÍZO E FIXAÇÃO DE COMPETÊNCIA. PRECEDENTES.
+A agência da vítima é fator determinante para fixação de competência em se tratando de crime de estelionato, sendo este o lugar da consumação do delito, em virtude do momento do prejuízo.
+Agravo regimental desprovido.
+(AgRg no CC 145.119/PR, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 10/8/2016, DJe 17/8/2016) - negritei.
+PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. JUÍZO EM QUE OCORRE O EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. COMPETÊNCIA DE TERCEIRO JUÍZO ESTRANHO AO CONFLITO.
+1. Nos termos do que dispõe o art. 70 do CPP, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+2. O delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária. Precedentes.
+3. Tendo a vítima, na espécie, efetuado o depósito em agência localizada na cidade de Salvador/BA, onde possuía conta bancária, é este o local do efetivo dano.
+4. A jurisprudência da Corte tem admitido a declaração de competência de terceiro juízo, estranho ao conflito (STJ, CC 89387/MT, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, DJe de 18/4/2008).
+5. Conflito conhecido, para declarar competente o Juízo de Direito Criminal da Comarca de Salvador/BA, juízo estranho ao conflito.
+(CC 142.934/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 30/11/2015) - negritei.
+No caso, ao que se tem, a vítima efetuou, por meio de boleto bancário, o pagamento do produto posto à disposição para compra em site de loja na internet e jamais o recebeu.
+Os valores utilizados para o pagamento do boleto foram descontados da conta corrente da vítima vinculada a agência bancária localizada na cidade de Coqueiral/MG (cf. comprovante de transação às e-STJ fls. 8 e 15), local em que foram descontados os valores da conta e onde a vítima suportou o prejuízo.
+Nesse contexto, o Juízo competente para o processamento do inquérito policial é o Juízo de Direito da 1ª Vara cível, criminal e de execuções criminais de Boa Esperança/MG, local onde se deu o efetivo dano à vítima e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+Ante o exposto, com amparo no art. 34, XXII, do Regimento Interno do STJ (na redação da Emenda Regimental n. 24/2016), conheço do conflito negativo de competência, para declarar a competência do Juízo de Direito da 1ª Vara cível, criminal e de execuções criminais de Boa Esperança/MG, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se. Intimem-se.
