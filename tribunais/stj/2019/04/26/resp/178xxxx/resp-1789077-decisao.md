@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado:
+"JÚRI. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2.º II, CP). CONDENAÇÃO À PENA DE VINTE E UM (21) ANOS DE RECLUSÃO, REGIME INICIAL FECHADO. MANIFESTAÇÃO DA PGJ PELO NÃO CONHECIMENTO DO APELO EM RAZÃO DA AUSÊNCIA DE DELIMITAÇÃO DO INCONFORMISMO EM UMA DAS ALÍNEAS DO ARTIGO 593, INCISO III, DO CPP E INTEMPESTIVIDADE DAS RAZÕES RECURSAIS - MERA IRREGULARIDADE. CONHECIMENTO. RECURSO DA DEFESA. IRRESIGNAÇÃO APENAS EM RELAÇÃO À DOSIMETRIA DA PENA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA NA VALORAÇÃO DESFAVORÁVEL DAS CIRCUNSTÂNCIAS JUDICIAS DA CULPABILIDADE, CONDUTA SOCIAL, PERSONALIDADE DO AGENTE E CIRCUNSTÂNCIAS DO CRIME. PEDIDO DE FIXAÇÃO DA, PENA NO MÍNIMO LEGAL. PARCIALMENTE ACOLHIDO. NECESSÁRIO AFASTAMENTO DA CONSIDERAÇÃO NEGATIVA DA CONDUTA SOCIAL, PERSONALIDADE DO AGENTE E CIRCUNSTÂNCIAS DO DELITO. CULPABILIDADE DESFAVORÁVEL MANTIDA. RECURSO PARCIALMENTE PROVIDO, PARA REDUZIR A PENA IMPOSTA PARA QUATORZE (14) ANOS E TRÊS (03) MESES RECLUSÃO, MANTIDO O REGIME FECHADO." (e-STJ, fl. 2.934).
+Os embargos de declaração foram rejeitados (e-STJ, fl. 2.961).
+O recorrente afirma que o acórdão recorrido violou o art. 59 do Código Penal.
+Requer a reforma do decisum, para o fim de restabelecer o aumento da pena-base, operado em primeiro grau, no patamar de 2 (dois) anos e 3 (três) meses de reclusão, relativo à circunstância do crime, fixando-se, pois, a pena definitiva do acusado em 16 (dezesseis) anos e 06 (seis) meses de reclusão, em regime inicial fechado.
+Contrarrazões apresentadas às fls. 2.989-2.993 (e-STJ).
+O Ministério Público Federal manifestou-se às fls. 3.012-3.014 (e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não merece acolhimento.
+O Tribunal de origem reformou a sentença para reduzir a pena-base fixada pelo magistrado de primeiro grau, decotando a valoração negativa das circunstâncias do crime, com base nos seguintes fundamentos:
+"A Defesa insurge-se, exclusivamente, quanto à pena-base.
+Verifica-se da leitura da r. sentença condenatória que o ilustre Magistrado de Primeiro Grau fixou a pena-base de JOSILMO em vinte e um (21) anos de reclusão. Considerou como lhe sendo desfavoráveis quatro (4) circunstâncias judiciais - culpabilidade, conduta social, personalidade e circunstâncias do delito, atribuindo a cada uma delas aumento de dois (02) anos e três (03) meses.
+(..)
+Igualmente, assiste razão à defesa no que se refere ao pedido de afastamento da valoração negativa das circunstâncias do delito.
+Assim restou fundamentada a sentença condenatória, neste tópico:
+"Sobre as circunstâncias, os disparos de arma de fogo ocorreram em via pública, na Rua Ernani Simas Alves, próximo ao n.º 18, no bairro CIC, em Curitiba, havendo uma habitação no trecho onde ocorreu o fato (conforme demonstra o laudo de exame de local de morte no mov. 1.127), o que indica que poderia haver, em potencial, demais pessoas no local. Mesmo assim, sem se preocupar se sua conduta poderia, em potencial, atingir terceiros, estranhos aos fatos, o réu prosseguiu no intento homicida. Não pode, portanto, ter avaliação idêntica a crimes semelhantes havidos em locais ermos, em que não se exige a mesma ousadia".
+Ora, considero que o fato de o crime ter sido cometido em via pública, em trecho que possui uma habitação, por si só, não se revela fundamento idôneo para a exasperação da pena.
+No caso, o crime foi cometido por volta das 00h20, fato este que revela a provável ausência de mais pessoas próximas ao local do crime, de que a fundamentação utilizada pelo juiz sentenciante se revela inapta para o aumento da pena-base." (e-STJ, fls. 2.937-2.939)
+No caso em exame, não obstante os disparos de arma de fogo tenham sido efetuados em via pública, a Corte de origem entendeu que tal fundamento não justifica o incremento da pena-base, haja vista que o local possui uma única habitação e o crime foi cometido por volta das 00h20min, ou seja, não houve incremento do risco.
+Cumpre mencionar, por oportuno, que o julgado utilizado pela sentença para fundamentar a exasperação da sanção básica trata de situação diversa, haja vista que a conduta do acusado colocou efetivamente em risco a vida de outra pessoa. A propósito, confira-se:
+"Mostra-se plenamente possível a valoração negativa das circunstâncias do crime, quando a fundamentação está calcada em elementos concretos, oriundos do caso em apreço, assim como na espécie, onde se observa o especial modo de cometimento do crime pelo acusado, que efetuou os disparos em via pública, arriscando também a vida de outra pessoa que encontrava-se presente no momento dos disparos realizados contra a vítima, elementos estes que refletem um alto grau de reprovabilidade na conduta do agente, e, portanto, autorizam o incremento da reprimenda corporal do acusado em sua primeira fase" (AgInt no AREsp 864.445/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/04/2016, DJe 03/05/2016).
+Como se vê, no aresto mencionado ficou devidamente demonstrado que houve incremento do risco, diferentemente do que ocorreu no caso dos autos.
+Desse modo, não se verifica a apontada ilegalidade a ser sanada por esta instância especial.
+Ante o exposto, com fundamento no art. 34, VIII, "b", do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
