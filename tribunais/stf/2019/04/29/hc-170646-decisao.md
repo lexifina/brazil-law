@@ -1,0 +1,21 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Antonio de Souza Brito Filho em favor de Gedeon Ferreira da Silva, contra decisão monocrática da lavra do Ministro Rogerio Schietti Cruz, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 505.211/BA.
+    O paciente foi pronunciado pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, IV, do CP). Naquela oportunidade, o magistrado de primeiro grau negou o direito de o paciente recorrer em liberdade.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado da Bahia, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Rogerio Schietti Cruz, indeferiu liminarmente o HC 505.211/BA.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Alega excesso de prazo prisional, preso o paciente desde 16.5.2016. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade, residência fixa e ocupação lícita. Requer, em medida liminar e no mérito, a revogação da prisão preventiva, com a expedição do competente alvará de soltura em favor do paciente, e, sucessivamente, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “GEDEON FERREIRA DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, que manteve a sua prisão preventiva nos autos do HC n. 8005593-92.2019.8.05.0000.
+    Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia do acórdão impugnado, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+    Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+    À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ”.
+    Registro a existência de óbice ao conhecimento do presente habeas corpus, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é mera decisão monocrática e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Por outro lado, na esteira do ato dito coator, a instrução deficiente dos autos impediu o cotejo entre as alegações do Impetrante e os fundamentos do ato hostilizado. Com efeito, a jurisprudência deste Supremo Tribunal Federal orienta no sentido do não conhecimento de habeas corpus quando não devidamente instruído o feito (HC 151.059-ED/GO, de minha relatoria, 1ª Turma, DJe 17.5.2018; HC 138.443-ED/PB, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 11.4.2017; e HC 130.240-AgR/RJ, Rel. Min. Roberto Barroso, 1ª Turma, DJe 16.12.2015).
+    Anoto, por fim, que à míngua de pronunciamento judicial conclusivo pela Corte anterior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2019.
+Ministra Rosa Weber
+Relatora
