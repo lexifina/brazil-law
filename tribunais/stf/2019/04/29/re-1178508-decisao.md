@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcreve-se a seguir (eDOC 2, p. 24):
+    “MANDADO DE SEGURANÇA ICMS SOBRE IMPORTAÇÃO DE MEDICAMENTO CONTRIBUINTE NÃO HABITUAL.
+    Pedido inicial no sentido de declaração de inexigibilidade de ICMS sobre importação de veículo para uso próprio -
+    Entendimento pacificado pelo E. Supremo Tribunal Federal no sentido de que a cobrança do ICMS-Importação condiciona-se à existência de legislação local posterior à Emenda Constitucional nº 33/01 e à Lei Complementar Federal nº 114/02 Cobrança lastreada na Lei Complementar Estadual nº 11.001/2001, anterior à LC 114/02 - ICMS inexigível.
+    Sentença concessiva da segurança mantida. Reexame necessário e recurso da Fazenda do Estado não providos.”
+    Os embargos de declaração foram rejeitados. (eDOC 2, pp. 50-55 e pp. 63/64)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 155, II, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “É válida lei estadual que dispõe acerca da incidência do ICMS sobre operações de importação editada após a vigência da EC 33/2001, mas antes da LC 114/2002, visto que é plena a competência legislativa estadual enquanto inexistir lei federal sobre norma geral, conforme art. 24, § 3º Constituição Federal (1).” (eDOC 2, p. 41)
+    Alega-se, ainda, que o caso não se amolda ao Tema 171 da sistemática da repercussão geral do STF “[...] para o caso das importações em que o sujeito ativo da tributação é o Estado de São Paulo [...]”. (eDOC 2, p. 42)
+    Os autos foram encaminhados à Turma Julgadora do acórdão recorrido para possível adequação ao Tema 171 do STF, conforme o disposto no art. 1.030, II, do CPC. (eDOC 2, p. 84)
+    Com base na ausência de retratação, a Presidência da Seção de Direito Público do TJSP admitiu o recurso extraordinário por reputar preenchidos todos os requisitos processuais (eDOC 2, pp. 88-92 e 107/108).
+    É o relatório.
+    A irresignação merece prosperar.
+    No intuito de melhor elucidar a questão, reproduzo trecho da fundamentação do acórdão recorrido (eDOC, pp. 25-28):
+    “Note-se que, no Estado de São Paulo, a legislação local que instituiu a cobrança de ICMS sobre a entrada de mercadoria importada do exterior, por contribuinte não habitual do imposto, qual seja, a Lei Estadual nº 11.001/01, conquanto publicada depois da entrada em vigor da Emenda Constitucional nº 33/01, foi editada antes da Lei Complementar nº 114/02, que dispõe sobre as normas gerais para a referida tributação.
+    Entretanto, o Supremo Tribunal Federal, em julgamento de recurso representativo de controvérsia, assim se manifestou:
+    (…)
+    Assim, nos termos do julgamento proferido pelo E. Supremo Tribunal Federal supracitado, a cobrança do ICMS-Importação só será válida se a legislação local for posterior à Emenda Constitucional nº 33/01, mas também, superveniente à lei complementar de normas gerais.
+    Dessa forma, sendo a Lei Estadual nº 11.001/01 anterior à entrada em vigor da Lei Complementar nº 114/02, conclui-se que não há amparo legal para a tributação do ICMS na espécie.”
+    Sendo essas as razões de decidir do Tribunal de origem, constato que o fundamento de que há ausência de amparo legal, na espécie, para a tributação de ICMS destoa da diretriz jurisprudencial desta Corte, segundo a qual a lei paulista foi editada após a vigência da EC 33/2001, portanto, até o advento da Lei Complementar Federal 114/2002, a legislação local encontrava-se ineficaz, e não nula de pleno direito.
+    Cito os seguintes julgados:
+    “Agravo regimental no recurso extraordinário. Precedente não publicado. Aplicação. ICMS. Importação. Contribuinte não habitual. Emenda Constitucional nº 33/01. LC 114/02. Lei Estadual nº 11.001/01. Ineficácia. 1. A existência de precedente de colegiado da Corte autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação do paradigma. 2. É legítima a Lei Estadual nº 11.001/01, que normatizou a cobrança de ICMS de contribuinte não habitual sobre operação de importação de bem. 3. A Lei Paulista nº 11.001/01 foi editada após a vigência da EC nº 33/01 e em conformidade com a referida emenda constitucional. Desse modo, não se trata de nulidade da lei estadual, mas de ineficácia dessa norma até a superveniência de lei complementar federal (LC 114/02). 4. Agravo regimental não provido. 5. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.”
+(RE 1097569 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 28.05.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DETERMINAÇÃO DE DEVOLUÇÃO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA PROCESSUAL. ADEQUAÇÃO DO PARADIGMA APONTADO. ICMS – IMPORTAÇÃO. HIPÓTESE. POSTERIOR À VIGÊNCIA DA EC 33/2001. LEI PAULISTA 11.001/2001. CONSTITUCIONALIDADE DA NORMA. INCIDÊNCIA DO IMPOSTO. AGRAVO REGIMENTAL PROVIDO PARA SE NEGAR SEGUIMENTO AO RECURSO EXTRAORDINÁRIO I – A partir da EC 33/01 o ICMS passou a incidir sobre toda e qualquer importação de bens, ainda que realizada por quem não seja contribuinte habitual do imposto, vale dizer, mesmo quem não seja comerciante, industrial ou produtor. II – A Segunda Turma deste Supremo Tribunal Federal, a partir do julgamento do RE 917.950/SP, Rel. Min. Teori Zavascki, entendeu ser constitucional a Lei paulista 11.001/2001, por ter sido editada quando já vigente a EC 33/2001, que autoriza a incidência do ICMS na espécie. III – Agravo regimental provido para se negar seguimento ao recurso extraordinário.”
+(RE 1045286 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 14.05.2018)
+    Ante o exposto, dou provimento ao recurso extraordinário, para reformar o acórdão recorrido e julgar improcedente a ação, nos termos do art. 21, § 2º, do RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
