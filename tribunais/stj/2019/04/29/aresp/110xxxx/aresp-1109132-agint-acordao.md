@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA EM R$ 20.000,00. PEDIDO DE REDUÇÃO DO VALOR. IMPOSSIBILIDADE DE REVISÃO. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Quanto à redução da condenação por danos morais, é pacífico, nesta Corte Superior, o entendimento de que, em sede de Recurso Especial, a revisão do quantum indenizatório apenas é possível quando o valor arbitrado nas instâncias originárias for irrisório ou exorbitante. No caso dos autos, o valor arbitrado em R$ 20.000,00 não se mostra exorbitante a ponto de excepcionar a aplicação da Súmula 7 do STJ (AgRg no AREsp. 510.005/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.9.2014; AgRg no AREsp. 432.872/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.4.2014).
+3. Referente ao dissídio jurisprudencial referente ao quantum indenizatório, o mesmo óbice imposto à admissão do Recurso Especial pela alínea a do permissivo constitucional - incidência da Súmula 7 do STJ - obsta a análise recursal pela alínea c.
+4. Agravo Interno da Sociedade Empresária a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Impedido o Sr. Ministro Benedito Gonçalves. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela OI S.A, contra decisão monocrática que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. TELEFONIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA EM R$ 20.000,00. PEDIDO DE REDUÇÃO DO VALOR. IMPOSSIBILIDADE DE REVISÃO. AGRAVO EM RECURSO ESPECIAL DA OI S.A A QUE SE NEGA PROVIMENTO.
+2. Nas razões de seu Agravo Interno, a parte agravante, em suma, alega não ser o caso de incidência da Súmula 7 do STJ, bem como que a multa arbitrada é desproporcional.
+3. Pugna, desse modo, pela reconsideração da decisão agravada ou para que o feito seja levado ao órgão colegiado a fim de dar provimento ao seu Agravo Interno.
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA EM R$ 20.000,00. PEDIDO DE REDUÇÃO DO VALOR. IMPOSSIBILIDADE DE REVISÃO. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Quanto à redução da condenação por danos morais, é pacífico, nesta Corte Superior, o entendimento de que, em sede de Recurso Especial, a revisão do quantum indenizatório apenas é possível quando o valor arbitrado nas instâncias originárias for irrisório ou exorbitante. No caso dos autos, o valor arbitrado em R$ 20.000,00 não se mostra exorbitante a ponto de excepcionar a aplicação da Súmula 7 do STJ (AgRg no AREsp. 510.005/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.9.2014; AgRg no AREsp. 432.872/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.4.2014).
+3. Referente ao dissídio jurisprudencial referente ao quantum indenizatório, o mesmo óbice imposto à admissão do Recurso Especial pela alínea a do permissivo constitucional - incidência da Súmula 7 do STJ - obsta a análise recursal pela alínea c.
+4. Agravo Interno da Sociedade Empresária a que se nega provimento.
+VOTO
+1. A despeito das razões lançadas pela parte agravante, não merece êxito a insurgência.
+2. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+3. No mais, quanto à redução da condenação por danos morais, é pacífico, nesta Corte Superior, o entendimento de que, em sede de Recurso Especial, a revisão do quantum indenizatório apenas é possível quando o valor arbitrado nas instâncias originárias for irrisório ou exorbitante. No caso dos autos, o valor arbitrado em R$ 20.000,00 não se mostra exorbitante a ponto de excepcionar a aplicação da Súmula 7 do STJ (AgRg no AREsp. 510.005/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.9.2014; AgRg no AREsp. 432.872/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.4.2014).
+4. Além disso, no que toca ao dissídio jurisprudencial referente ao quantum indenizatório, o mesmo óbice imposto à admissão do Recurso Especial pela alínea a do permissivo constitucional - incidência da Súmula 7 do STJ - obsta a análise recursal pela alínea c (AgInt nos EDcl no AREsp. 840.132/RS, Rel. Min. MARCO BUZZI, DJe 28.10.2016).
+5. Diante o exposto, nega-se provimento ao Agravo Interno da Sociedade Empresária.
+6. É o voto.
