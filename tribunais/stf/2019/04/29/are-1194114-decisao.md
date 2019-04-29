@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão em que se julgou incidir contribuição previdenciária sobre os valores descontados a título de gratificação natalina por empregado de sociedade de economia mista.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação dos arts. 40, § 2° e § 12; 150, IV; 195, § 5°; e 201, § 11, da mesma Carta. Sustenta-se que o terço de férias e a gratificação natalina não se incorporam ao benefício previdenciário, razão pela qual não se submetem à incidência da contribuição previdenciária.
+    A pretensão recursal não merece acolhida.
+    De início, sobre o pedido relativo à contribuição sobre o terço de férias, anoto que, no ponto, não há interesse recursal, uma vez que o acórdão recorrido deu provimento a essa pretensão do ora recorrente.
+    Quanto à demanda sobre a gratificação natalina, consigno que a jurisprudência deste Tribunal é no sentido de que o tema recursal não caracteriza discussão sobre ofensa direta à Constituição. Com efeito, os Ministros desta Corte, no RE 892.238-RG/RS (Tema 908), da relatoria do Ministro Luiz Fux, manifestaram-se pela inexistência de repercussão geral da controvérsia referente à definição da natureza jurídica de verbas pagas ao empregado, para fins de incidência da contribuição previdenciária, nos termos do art. 28 da Lei 8.212/1991, por entenderem que a discussão possui natureza infraconstitucional. Por oportuno, eis a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADO. ADICIONAL DE FÉRIAS. AVISO PRÉVIO INDENIZADO. DÉCIMO TERCEIRO PROPORCIONAL. AUXÍLIO DOENÇA. HORAS EXTRAS. NATUREZA JURÍDICA DAS VERBAS. SALÁRIO DE CONTRIBUIÇÃO. ENQUADRAMENTO. INTERPRETAÇÃO DA LEI 8.212/1991, DA LEI 8.213/1991 E DO DECRETO 3.038/1999. MATÉRIA INFRACONSTITUCIONAL. TEMA 908. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Por fim, assinalo que a controvérsia destes autos – incidência de contribuição previdenciária sobre a gratificação natalina a cargo do empregado – não se confunde com aquela examinada por esta Corte no RE 593.068-RG (Tema 163), de relatoria do Ministro Roberto Barroso, que trata de contribuição previdenciária do servidor público.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2019.
+Ministro Ricardo Lewandowski
+Relator
