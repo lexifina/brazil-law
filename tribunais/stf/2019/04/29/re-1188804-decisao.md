@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “CUMPRIMENTO DE SENTENÇA - Precatório - Saldo devedor - Decisão que determinou a aplicação da Súmula Vinculante nº 17 - Inadmissibilidade - Pagamento do precatório fora do prazo Trânsito em julgado anterior à edição dessa Súmula - Afronta a coisa julgada - Precedentes - Agravo de instrumento provido” (pág. 90 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação do art. 100, § 5°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão impugnado não divergiu da jurisprudência desta Corte firmada no sentido de que, na hipótese de inobservância do prazo constitucional estabelecido para pagamento do precatório, incidem juros moratórios a partir do primeiro dia do exercício financeiro seguinte ao que o precatório deveria ser pago. Nesse sentido destaco precedentes de ambas as Turmas:
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PAGAMENTO DE PRECATÓRIO FORA DO PRAZO CONSTITUCIONAL. INCIDÊNCIA DE JUROS MORATÓRIOS SOMENTE A PARTIR DO PRIMEIRO DIA DO EXERCÍCIO FINANCEIRO SEGUINTE AO QUE O PRECATÓRIO DEVERIA SER PAGO.
+    1. A jurisprudência desse Supremo Tribunal Federal é no sentido de que não incidem juros moratórios sobre os precatórios pagos durante o prazo previsto no art. 100, §5º, da Constituição.
+    2. Em caso de inadimplemento do prazo constitucional, os juros moratórios passam a incidir a partir do primeiro dia do exercício financeiro seguinte ao que deveria ter sido pago o precatório. Precedentes.
+    3. Agravo interno provido para dar provimento ao recurso extraordinário.(RE 871.962-AgR/PR, Rel. p/ Ac. Min. Roberto Barroso, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo e constitucional. Precatório. Juros de mora. Incidência apenas no caso de inadimplemento. Súmula Vinculante nº 17. Precedentes.
+    1. O Supremo Tribunal Federal assentou que, para o pagamento de precatório, não incidem juros de mora durante o prazo previsto no art. 100, § 1º, da Constituição Federal.
+    2. Os juros de mora são encargos decorrentes da demora no adimplemento da obrigação, somente se justificando sua incidência sobre o período que extrapola o tempo ordinário de pagamento do precatório.
+    3. Agravo regimental ao qual se nega provimento.
+    4. Inaplicável o art. 85, 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa”(ARE 1.098.732-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2019.
+Ministro Ricardo Lewandowski
+Relator
