@@ -1,0 +1,27 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Vinicius Silva Pinheiro e outro(s) em favor de Alexsandro da Conceição Silva, contra acórdão do Superior Tribunal de Justiça, que denegou a ordem no HC 471.337/BA.
+    O paciente foi condenado à pena de 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). Naquela oportunidade, o magistrado de primeiro grau negou o direito de o paciente recorrer em liberdade.
+    Em sede de apelação, o Tribunal de Justiça da Bahia deu provimento ao recurso defensivo, para redimensionar a pena para 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto. Opostos embargos de declaração, não foram acolhidos.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que denegou a ordem no HC 471.337/BA.
+    No presente writ, os Impetrantes alegam nulidade processual por inobservância do rito processual adequado. Sustentam inidônea a fundamentação da manutenção da constrição cautelar, porquanto ausentes seus requisitos autorizadores. Defendem a inaplicabilidade da causa de aumento de pena ante a inexistência de requerimento ministerial. Aduzem a viabilidade de fixação da pena-base no mínimo legal, detração da pena e aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006, com repercussão no regime inicial. Argumentam a existência de circunstâncias favoráveis, como primariedade, bons antecedentes, residência fixa e ocupação lícita, além de inexistência de provas de dedicação ou integração do paciente à organização criminosa. Requerem, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente a aplicação de medidas cautelares diversas da prisão e o redimensionamento da pena.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. REITERAÇÃO DE PEDIDO. IMPUGNAÇÃO DE ACÓRDÃO DIVERSO. INVIABILIDADE. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO NA SENTENÇA. INOCORRÊNCIA. CONDIÇÕES SUBJETIVAS FAVORÁVEIS. IRRELEVÂNCIA. DOSIMETRIA. QUANTIDADE E NATUREZA DOS ENTORPECENTES. BIS IN IDEM. DETRAÇÃO. DESINFLUÊNCIA NO REGIME PRISIONAL. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+    1. O acórdão impugnado não conheceu dos pedidos relativos à inobservância ao rito especial da Lei n.º 13.343/2006 e aos pressupostos e fundamentos do decreto de prisão preventiva, por reconhecer reiteração de pedido em relação ao habeas corpus n.º 8008853-17.2018.8.05.0000, que nem sequer foi juntado aos autos. A apreciação de tais matérias requer a impugnação do acórdão anteriormente proferido. Pedidos não conhecidos.
+    2. As questões relativas ao indeferimento de prova oral; ao reconhecimento da causa de diminuição prevista no art. 33, § 4.º, da Lei n.º 11.343/2006; à atenuante de confissão espontânea e à detração do tempo de prisão preventiva não foram analisadas na origem, razão pela qual é obstada a cognoscibilidade do writ nesse ponto, sob pena de incorrer em indevida supressão de instância.
+    3. Contrariamente ao aduzido pelos Impetrantes, a sentença apresenta motivação idônea para manutenção da custódia cautelar. Subsistindo os elementos que justificaram a decretação da prisão preventiva, não há de se aventar ocorrência de constrangimento ilegal em sua manutenção após prolação de sentença condenatória.
+    4. É assente, na jurisprudência desta Corte Superior, o entendimento de que a quantidade, a natureza e a variedade das substâncias entorpecentes são critérios idôneos à fundamentação de cárcere preventivo, porquanto evidenciado efetivo risco à ordem pública. Trata-se de Réu flagrado com mais de 3 (três) quilos de entorpecentes, entre cocaína e crack. Nesses termos, não procede a alegação de vício de fundamentação na sentença.
+    5. A existência de condições subjetivas favoráveis não representa óbice à decretação da prisão preventiva. Precedentes.
+    6. A sistemática trifásica adotada pelo Código confere discricionariedade ao magistrado para, atentando aos procedimentos fixados em Lei, determinar a pena mais adequada às particularidades do caso concreto. Não é necessária manifestação expressa e minudente da Acusação, aos moldes do que se demanda para a tipificação do crime, acerca dos artigos e dispositivos legais concernentes à dosimetria.
+    7. Em face do não conhecimento de múltiplos pedidos, torna-se prejudicado o pedido relativo ao abrandamento do regime prisional, porquanto cumulado em sucessão.
+    8. Ordem parcialmente conhecida e, nessa extensão, denegada”.
+     Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata soltura do paciente.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 29 de abril de 2019.
+Ministra Rosa Weber
+Relatora
