@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por MARIA [NOME] MARTINS GONÇALVES contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 409/410).
+O acórdão recorrido está assim ementado (e-STJ fl. 362):
+APELAÇÃO CÍVEL Ação declaratória de nulidade - Autoras que alegam nulidade absoluta em relação à ré [NOME] dos vínculos contratuais com a sociedade [NOME] e [NOME] Comércio de Produtos Alimentícios Ltda. - EPP em razão da fraude ocorrida na aquisição das quotas sociais da empresa e na assinatura da alteração contratual - Réus que alegam inépcia da petição inicial, ilegitimidade ativa das partes e carência da ação - Preliminares afastadas e mérito reconhecido - Sentença reformada - Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 378/382).
+Nas razões do recurso especial (e-STJ fls. 385/397), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 295, III, do CPC/1973 e 381 do CC/2002 por considerar inepta a petição inicial, pois dos dois fatos alegados não se poderia extrair uma conclusão lógica, além de haver pedidos juridicamente impossíveis e incompatíveis entre si.
+Afirmou violação dos arts. 3º e 267, VI, do CPC/1973 pela existência de carência de ação, pois houve a perfeita tradição das cotas compradas.
+Defendeu sua ilegitimidade, nos termos dos arts. 267, V, e 329 do CPC/1973, porque não participou da falsificação das assinaturas.
+Destacou a validade do contrato firmado entre as partes, de acordo com os arts. 104 e 481 do CC/2002, inexistindo possibilidade de anulação do negócio jurídico.
+No agravo (e-STJ fls. 413/417), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 420/423).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Quanto à alegação de inépcia da inicial, "o Tribunal de origem concluiu que a petição inicial foi ajuizada com todos os documentos essenciais, permitindo-se a identificação da causa de pedir, do pedido e da fundamentação jurídica, de modo a garantir o exercício da ampla defesa e do contraditório", sendo certo que "a decisão está em consonância com o entendimento desta Corte Superior de que "não é inepta a inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao réu exercitar o direito de defesa e do contraditório" (AgRg no Ag 1.361.333/PI, Rel. Min. HAMILTON CARVALHIDO, Primeira Turma, DJe de 18.2.2011)" (AgInt no AREsp 1.015.714/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/2/2019, DJe 13/2/2019).
+Acerca da alegada carência de ação, porque perfeita a tradição de cotas, e da validade do negócio jurídico, os julgadores destacaram que (e-STJ fls. 367/369):
+13. Finalmente, também não cabe falar em carência da ação, pois a via eleita pelos apelantes é adequada. Sem a observância de requisitos para a validade do contrato social a sociedade não se forma validamente, podendo ser decretada a anulação ou declarada a nulidade do seu contrato social sendo que a invalidação não se confunde com a dissolução da sociedade, embora ambas importem em desaparecimento, em definitivo, dos efeitos do ato que constitui ou pretendeu constituir a sociedade.
+(..)
+17. Nesse caso, considera-se que a situação retratada assemelha-se à simulação de negócio jurídico, prevista no artigo 167, § Io, inciso I, do Código Civil. Desse modo, de acordo com a lei, o negócio jurídico deve ser declarado nulo em relação à parte que sofreu a simulação, ou seja, em relação à apelada [NOME], subsistindo em relação à apelante [NOME], sendo, portanto, válida a cessão e transferência de quotas entre ela e a apelada [NOME], permanecendo a apelada como única sócia, já que o apelado [NOME] não manifesta vontade de retornar à sua antiga posição de sócio e deve ser ressalvado seu direito, como terceiro de boa-fé (artigo 167, § 2o do referido Diploma Legal).
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+A questão da legitimidade da parte ora recorrente não foi prequestionada. A ausência de debate prévio da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, diante da incidência da Súmula n. 211 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
