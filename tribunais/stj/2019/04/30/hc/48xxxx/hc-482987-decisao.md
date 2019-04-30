@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n.º 0004591-97.2018.8.26.0026).
+Consta dos autos que o Juízo da VEC deferiu a remição de 6 (seis) dias pelo estudo e indeferiu o pedido remição de pena formulado em favor do paciente com base na aprovação no ENEM - Exame Nacional do Ensino Médio, por entender indispensável a comprovação de estudo durante o cumprimento da pena (fls. 17/18).
+Irresignada, a defesa interpôs agravo em execução na Corte de origem, que negou provimento ao recurso (fls. 22/25).
+No presente mandamus, alega a impetrante a existência de constrangimento ilegal, pois, "de acordo com o princípio da proporcionalidade e razoabilidade, assim como pelo esforço do paciente que estudou sozinho, independentemente do ensino proporcionado pela unidade prisional, o deferimento do pedido é medida que se impõe" (fls. 5/6).
+Afirma que o paciente possui bom comportamento carcerário, não tendo cometido falta grave que o desabone, não havendo óbice para o deferimento da benesse.
+Desse modo, requer a concessão da ordem, a fim de sanar a ilegalidade apontada, concedendo ao paciente a remição de 100 (cem) dias de sua pena pela aprovação no ENEM-2017.
+Liminar indeferida às fls. 29/30.
+Informações às fls. 36/39 e 42/49.
+Parecer ministerial às fls. 51/55.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação de via eleita para a insurgência do impetrante contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso II, letra "a", da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal.
+No caso dos autos, o ora paciente alega estar sofrendo coação ilegal pelo fato de lhe ter sido indeferido o requerimento de remição da pena, mesmo tendo sido aprovado no Exame Nacional do Ensino Médio (fls. 17/18).
+Todavia, analisando os argumentados apresentados, constata-se não merecer acolhida a insurgência.
+Analisando os dispositivos das normas que disciplinam as atividades de estudo, constata-se que a remição da pena pelo estudo constitui o objeto principal, cuja diferenciação consiste na forma em que a atividade é desenvolvida pelo condenado.
+A lei de Execução Penal, em seu art. 126, disciplina a hipótese de exercício de atividades de estudo no qual o apenado frequenta pessoalmente curso regular de ensino fundamental, médio, profissionalizante ou superior, estabelecendo as regras a serem observadas para a incidência da remição de pena na proporção de 1 (um) dia, a cada 12 (doze) horas de frequência escolar.
+A Recomendação do CNJ, por sua vez, disciplina a hipótese do condenado não vinculado a estabelecimento de ensino, no qual, por conta própria, executa atividade intelectual e, posteriormente, realizando exame nacional de certificação, logra êxito na conclusão de ensino fundamental ou médio, estabelecendo a norma, portanto, os cálculos a serem realizados para fins de concessão da detração de pena.
+Eis a manifestação da Corte de origem pelo acórdão transcrito abaixo (fls. 22/25):
+O recurso interposto não comporta provimento, pelos motivos a seguir expostos.
+É bem verdade que o instituto da remição tem por finalidade auxiliar o condenado a se reinserir na vida em sociedade, estimulando-o a ter um bom comportamento carcerário, como forma de propiciar a redução de sua pena mediante trabalho ou estudo.
+De acordo com o art. 126, caput, da Lei nº 7.210/84 (LEP), com a redação dada pela Lei nº 12.433/11, "O condenado que cumpre pena em regime fechado ou semiaberto poderá remir, por trabalho ou estudo, parte do tempo de execução da pena".
+No presente caso concreto, verifica-se que ora agravante limitou-se a carrear aos autos print retirado da internet com as notas de cinco matérias e da redação aplicada no ENEM (fl. 10). Dessa forma, verifica-se que não há nos autos qualquer documento que efetivamente comprove que o agravante concluiu o ensino médio, mas sim mera cópia de documento demonstrando que ele participou do Exame Nacional do Ensino Médio.
+ ..
+Assim, a despeito das alegações da defesa de que o agravante estudou sozinho e, em razão de seu esforço, obteve aprovação no exame acima mencionado, verifica-se que não há nos autos provas capazes de comprovar o efetivo estudo durante o cumprimento da pena.
+Isto posto, pelo meu voto, nega-se provimento ao recurso interposto por [NOME], mantida, na íntegra, a r. decisão recorrida.
+No caso em exame, o paciente não estava vinculado a estabelecimento de ensino e "verifica-se que não há nos autos qualquer documento que efetivamente comprove que o agravante concluiu o ensino médio, mas sim mera cópia de documento demonstrando que ele participou do Exame Nacional do Ensino Médio" (fl. 24).
+Consigna, ainda, que "assim, a despeito das alegações da defesa de que o agravante estudou sozinho e, em razão de seu esforço, obteve aprovação no exame acima mencionado, verifica-se que não há nos autos provas capazes de comprovar o efetivo estudo durante o cumprimento da pena" (fl. 25).
+Desse modo, constata-se não haver qualquer possibilidade de incidência da quantidade de horas almejadas pelo paciente, vez que a situação por ele vivenciada diferencia-se da prevista na Recomendação n.º 44, do CNJ, estando, portanto, o acórdão objurgado em sintonia com o ordenamento jurídico e a jurisprudência vigente neste Sodalício, os quais consideram inadequada a concessão do benefício quando o condenado não cumpriu com os requisitos estabelecidos em lei.
+A propósito, confira-se:
+"Execução Penal. Habeas Corpus originário. Remição ficta ou virtual da pena. Impossibilidade. Ausência de ilegalidade ou abuso de poder. 1. A remição da pena pelo trabalho configura importante instrumento de ressociaiização do sentenciado. 2. A orientação jurisprudêncial do Supremo Tribunal Federal é no sentido de que a remição da pena exige a efetiva realização de atividade laborai ou estudo por parte do reeducando. Precedentes. 3. Não caracteriza ilegalidade flagrante ou abuso de poder a decisão judicial que indefere a pretensão de se contar como remição por trabalho período em relação ao qual não houve trabalho. 4. Habeas Corpus denegado (grifos nossos)
+(HC 124520, Rel. Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. ROBERTO BARROSO, Primeira Turma, DJe-27-06-2018).
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. PRETENDIDO CÔMPUTO FICTÍCIO DOS DIAS DE TRABALHO OU ESTUDO ("REMIÇÃO FICTA"). IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. 1. Nos termos do art. 33 c/c art. 126 da Lei de Execução Penal, a remissão da pena exige a efetiva realização de atividade laborai ou de estudo por parte do reeducando, "o qual deve comprovar, de modo inequívoco, seu real envolvimento no processo ressocializador, razão por que não existe a denominada remição ficta ou virtual" (RHC 124.775-AgR, DJe 19.12.2014). 2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."
+(STF, HC 132779 ED, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe-15-12-2017 - grifos
+nossos).
+Inexistente, portanto, qualquer ilegalidade a ser sanada por meio deste writ.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do habeas corpus.
+Publique-se.
