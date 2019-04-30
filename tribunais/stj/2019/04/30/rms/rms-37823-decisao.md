@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por VINICIUS PEDRO SCHADEN e OUTROS, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ fl. 471):
+Administrativo. Analistas técnicos de gestão educacional. Servidores lotados no Instituto Estadual de Educação - IEE. Órgão descentralizado da Secretaria Estadual de Educação. Gratificação de produtividade instituída pela Lei Estadual n. 13.761/2006. Vantagem restrita aos servidores do Quadro Único de pessoal civil, lotados no órgão central da Secretaria Estadual de Educação. Inexistência de direito líquido e certo. Segurança denegada.
+Os recorrentes alegam, em síntese, que são servidores ativos integrantes do Quadro Civil da Secretaria de Educação do Estado de Santa Catarina e que estão atualmente lotados no Instituto Estadual de Educação. Afirmam que o referido Instituto, ao contrário dos demais estabelecimentos de ensino do Estado, tem característica singular: faz parte da própria estrutura organizacional da central da Secretaria da Educação.
+Nesse contexto, sustentam que preenchem todos os requisitos necessários ao recebimento da Gratificação de Produtividade prevista na Lei n. 13.761/2006 do Estado de Santa Catarina.
+Aduzem que "a simples denominação de órgão como "descentralizado" não importa em afastar a interpretação de que é órgão integrante da própria estrutura central da SED, já que todos os demais estabelecimentos escolares não são enquadrados como "órgãos" da respectiva Secretaria de Educação" (e-STJ fl. 483).
+Contrarrazões às e-STJ fls. 503/513.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 530/533).
+Passo a decidir.
+Na origem, os impetrantes insurgiram-se contra ato dos Secretários de Estado da Educação e da Administração de Santa Catarina, visando ao pagamento da Gratificação de Produtividade prevista na Lei Estadual n. 13.761/2006, que assim dispôs (e-STJ fl. 451):
+Art. 1º. Fica instituída a Gratificação de Produtividade para os servidores do Quadro Único de Pessoal Civil lotados no órgão central da Secretaria de Estado da Educação, Ciência e Tecnologia no percentual de 15% (quinze por cento) do valor da Gratificação de Produtividade estabeleça no art. 120 da Lei n. 9.502, de 08 de março de 1994, alterada pelo art."7º da Lei n. 9.751, de 06 de dezembro de 1994.
+Vê-se que, para o recebimento da gratificação em comento, a lei estabeleceu dois requisitos: (a) pertencer o servidor ao Quadro Único de Pessoal Civil; (b) ser lotado no órgão central da Secretaria de Estado da Educação, Ciência e Tecnologia.
+Na hipótese, como bem consignado pela autoridade indicada como coatora nas informações (e-STJ fls. 362/371), os impetrantes, embora sejam integrantes do Quadra Único de Saúde, não estão lotados no órgão central da SED, sendo certo que o Instituto Estadual de Educação é "órgão descentralizado de atividade finalística da Secretaria de Estado da Educação", nos termos do Decreto Estadual n. 5.039/1978 e da Lei Estadual n. 4.282/1969.
+Assim, não estando lotados no órgão central da SED, não há direito a ser resguardado na presente via, já que não foram preenchidos os requisitos previstos na lei de regência. Nesse sentido, em hipóteses similares a esta:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO DE PRODUTIVIDADE. NÃO ATENDIMENTO À EXIGÊNCIA DA LEI N. 13.761/2006.
+1. A percepção da Gratificação de Produtividade prevista na Lei Estadual 13.761/2006 exige que o servidor preencha dois requisitos cumulativos, quais sejam: 1) pertença ao Quadro Único de Pessoal Civil; e 2) seja lotado no órgão central da Secretaria de Estado de Educação, Ciência e Tecnologia.
+2. In casu, os recorrentes não atendem à exigência de lotação no "órgão central", tal como estabelecido pela legislação local, de modo que não há falar em direito líquido e certo.
+3. Agravo regimental não provido (AgRg no RMS 36.409/SC, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2015).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO. LEI 13.761/2006. DESATENDIMENTO DOS REQUISITOS. DIREITO LÍQUIDO E CERTO INEXISTENTE.
+1. Trata-se, originariamente, de Mandado de Segurança contra ato omissivo do recorrido no pagamento de gratificação de produtividade instituída pela Lei 13.761/2006 aos servidores lotados no órgão central da Secretaria de Educação.
+2. "O requisito para fruição da gratificação de produtividade instituída pela Lei Estadual 13.761/2006 é tão somente para aquele cuja lotação seja no órgão central, nos termos do seu art. 1º; assim, ela pode ser atribuída ao servidor civil ocupante de qualquer cargo, ou oriundo de qualquer quadro original, desde que atualmente lotado na Administração Central, na forma do art. 3º, do mesmo diploma". (RMS 36.637/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 23.3.2012).
+3. O recorrente não satisfaz os critérios fixados pela legislação local. A invocação de isonomia, no caso concreto, esbarra no óbice da Súmula 339/STF.
+4. Não havendo direito líquido e certo a amparar a pretensão recursal, deve ser mantido o aresto proferido na origem.
+5. Recurso Ordinário não provido (RMS 47.194/SC, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 30/06/2015).
+Ainda, no mesmo sentido: RMS 39.861/SC e RMS 35.684/SC, da relatoria do em. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 07/03/2016 e DJe 10/12/2015, respectivamente.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
