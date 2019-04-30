@@ -1,0 +1,17 @@
+RECLAMAÇÃO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ATINENTE À DEFINIÇÃO DA NATUREZA JURÍDICA DE PARCELA PAGA AO EMPREGADO. BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA. REPERCUSSÃO GERAL RECUSADA POR ESTA SUPREMA CORTE. RE 892238 EM REPERCUSSÃO GERAL (TEMA 908). NEGADO SEGUIMENTO.
+    Vistos, etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, ajuizada por EAH - Empresa Amazonense de Hotelaria Ltda. em face de decisão proferida pelo Superior Tribunal de Justiça no exame do AResp nº 660927/AM, em que negado provimento ao agravo interno em recurso extraordinário ao fundamento de que a decisão recorrida se harmoniza com a orientação desta Suprema Corte firmada ao julgamento do RE 565.160/SC sob a sistemática da repercussão geral (Tema 20).
+    2. Argumenta com a aplicação indevida da tese jurídica manifestada no Tema 20 de repercussão geral por “não possuir fundamento em idêntica questão de direito que possa vincular de forma obrigatória o julgamento da controvérsia jurídica debatida através do Mandado de Segurança ajuizado pela Requerente”. Relata referir-se a controvérsia ao recolhimento da contribuição previdenciária patronal sobre as férias usufruídas, enquanto o julgamento do RE 565160/SC “não buscava definir quais verbas estariam habilitadas, ou não, para compor a base de cálculo da contribuição previdenciária patronal”.
+    3. Requer a concessão de medida liminar para suspender os efeitos do acórdão proferido pelo Superior Tribunal de Justiça no AREsp nº 660927/AM. No mérito, requer a cassação do acórdão reclamado por alegada aplicação indevida do RE 565160/SC ao MS 0008441-27.2008.4.01.3200.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista no artigo 102, I, e no artigo 130-A, § 3º, da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de autoridade de decisão proferida por esta Corte com efeito vinculante.
+    2. A questão jurídica controversa na presente reclamação constitucional consiste na violação da autoridade da decisão proferida por este Supremo Tribunal Federal ao julgamento do RE 565160/SC sob a sistemática da repercussão geral em que firmada a seguinte tese: “A contribuição social a cargo do empregador incide sobre ganhos habituais do empregado, quer anteriores ou posteriores à Emenda Constitucional nº 20/1998.”.
+    3. O Superior Tribunal de Justiça negou provimento ao agravo interno, mantida a decisão em que negado seguimento ao recurso extraordinário interposto contra decisão do TRF da 1ª Região em que determinada a incidência da contribuição previdenciária sobre as férias com fulcro no art. 195, I, “a”, da Constituição Federal.
+    4. Nas razões do recurso extraordinário, defende a empresa não incidir a contribuição previdenciária sobre as férias usufruídas, porquanto não correspondem a valor percebido em decorrência da prestação dos serviços.
+    5. Em verdade, a controvérsia objeto do recurso extraordinário reside na definição da natureza jurídica de parcela paga ao empregado para o enquadramento na base de cálculo da contribuição previdenciária, cuja repercussão geral foi afastada por esta Suprema Corte ao julgamento do RE 892238 sob a sistemática da repercussão geral (Tema 908).
+    6. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame do pedido de liminar.
+    Publique-se.
+    Brasília, 30 de abril de 2019.
+Ministra Rosa Weber
+Relatora
