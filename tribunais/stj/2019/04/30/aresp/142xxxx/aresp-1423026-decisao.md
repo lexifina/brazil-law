@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO DE VEÍCULO. DESPESAS. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIENTE E CLARA FUNDAMENTAÇÃO. CONTROVÉRSIA FUNDAMENTADA COM BASE EM DIREITO LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. AGRAVO CONHECIDO, EM PARTE, PARA, NESSA EXTENSÃO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Cifra S.A. Crédito, Financiamento e Investimento, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 433):
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. AS DESPESAS DE ESTADIA DO VEÍCULO APREENDIDO SÃO DE RESPONSABILIDADE DO CREDOR FIDUCIÁRIO, QUE PODE POSTULAR PELA RESTITUIÇÃO EM FACE DA PARTE CONTRÁRIA. PRECEDENTES JURISPRUDENCIAIS. INAPLICABILIDADE DA LEI ESTADUAL N. 8.121/85. DISTINÇÃO ENTRE CUSTAS ESTATAIS E DESPESAS DEVIDAS AO LEILOEIRO.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Na origem, versam os autos sobre agravo de instrumento interposto por Cifra S.A. Crédito, Financiamento e Investimento, objetivando a condenação do agravado ao pagamento das despesas referentes ao depósito do bem ou que o valor seja reduzido com base na lei de Regimento de Custas do Estado do Rio Grande do Sul.
+O Tribunal de origem negou provimento ao recurso, mantendo a decisão que determinou a observância da tabela de serviços homologada pelo SINDILEI/RS.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls.464-468).
+Nas razões do recurso especial, a recorrente alegou, além de dissídio jurisprudencial, violação ao art. 1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese, que, apesar da oposição dos embargos de declaração, o Tribunal de origem não enfrentou a questão referente aos pedidos expressos de mudança do depositário em duas petições.
+Salientou não ser possível ter que arcar com um custo de depósito feito em nome de pessoa diversa da que havia indicado nas duas petições não apreciadas pelo Juízo de origem.
+Explicitou que o leiloeiro nomeado pelo Juízo, requereu o pagamento de custas no excessivo valor de R$ 31.654,00 (trinta e um mil, seiscentos e cinquenta e quatro reais), aduzindo cálculos baseados na tabela do Sindicato da categoria - Sindilei. Salientou, entretanto, que não há relação contratual ou jurídica que obrigue o referido pagamento com base na indicada tabela, a qual apresentou valores abusivos.
+Apontou divergência jurisprudencial quanto à possibilidade de aplicação do regimento de custas estaduais para aferição do valor devido ao depositário particular.
+Postulou, ao final, seja aplicado o regimento de custas do Estado do Rio Grande do Sul como parâmetro de cálculo das custas devidas ao depositário.
+A decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul deixou de admitir o recurso especial por ausência de violação ao art. 1.022 do CPC/2015 e por incidência da Súmula 280/STJ (e-STJ, fls. 521-525).
+Foi interposto agravo em recurso especial às fls. 561-577 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, constata-se que a alegação de ofensa ao art. 1.022 do Código de Processo Civil de 2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+Conforme assente na jurisprudência, o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no caso.
+Nesse contexto, esta Corte já se manifestou no sentido de que "não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1213226/SC, Relator o Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016).
+No caso, o Tribunal de origem adotou os seguintes fundamentos para a afastar a pretensão da agravante quanto à possibilidade de se fixar o valor das despesas com depositário particular com base no Regimento de Custas do Estado do Rio Grande do Sul (e-STJ, fls. 438-439):
+No presente caso, o agravante teve deferida a liminar de busca e apreensão do bem, cujo mandado foi cumprido em 17.05.2011 e, o veículo apreendido foi recolhido ao depósito do Leiloeiro Oficial em cumprimento ao determinado na referida decisão, onde constou na sua parte final:
+(..) Efetivada a medida, cite-se na forma do artigo 3º, parágrafos 2º e 3º, do Decreto-Lei nº911/69, com redação dada pela Lei nº10.931/04, ficando o leiloeiro [NOME] como depositário, face a não indicação de pessoa para o encargo.
+Ressalto que não houve qualquer insurgência pelo autor quanto à nomeação do Leiloeiro. Assim, tratando-se de obrigação do próprio credor fiduciário arcar com as despesas decorrentes do depósito do veículo alienado em pátio privado, entendo que a decisão agravada deve ser mantida.
+Por fim, quanto ao pedido de redução do valor cobrado, igualmente não merece acolhimento a alegação do autor.
+A Lei Estadual de Regimento de Custas (n. 8.121/85) é inaplicável no presente caso, onde a despesa processual é devida a pessoa estranha ao corpo funcional do Poder Judiciário. O REsp. n. 1.144.687/RS, julgado sob o regime do art. 543-C do CPC/73, estabeleceu a distinção entre as custas efetivamente processuais, e as demais despesas:
+ ..
+Nessa ordem de coisas, ausente fundamentação jurídica capaz de ensejar a reforma da decisão agravada, imperioso é reconhecer a sua manutenção, para que seja observada a tabela de serviços homologada pelo SINDILEI/RS juntada aos autos originários, razão pela qual vai desprovido o recurso (sem grifo no original).
+Como se denota das razões supramencionadas, a resolução da controvérsia pela Turma julgadora foi balizada pelo exame e interpretação de legislação local, circunstância que impede o exame da matéria em recurso especial de acordo com a orientação jurisprudencial cristalizada na Súmula 280 do Supremo Tribunal Federal, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REVISIONAL. LEI ESTADUAL Nº 8.121/85 DO RIO GRANDE DO SUL. CUSTAS JUDICIAIS. VALOR. SÚMULA 280 DO PRETÓRIO EXCELSO. AGRAVO NÃO PROVIDO.
+1. Verifica-se que a Corte de origem resolveu a controvérsia relativa às custas judiciais com base na aplicação de lei local, circunstância que impede o exame da matéria em sede de recurso especial de acordo com a orientação jurisprudencial cristalizada na Súmula 280 do Supremo Tribunal Federal, segundo a qual "por ofensa a direito local não cabe recurso extraordinário". Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1021101/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/03/2017, DJe 03/04/2017)
+Ante o exposto, conheço, em parte, do agravo e, nessa extensão, não conheço do recurso especial.
+Publique-se.
