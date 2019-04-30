@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário manejado em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo (eDOC 11, p. 24):
+    “AÇÃO DE ANULAÇÃO DE REGISTRO IMOBILIÁRIO. Aquisição de gleba de terra após sentença de adjudicação compulsória oriunda de compromisso de venda e compra. Expedida carta de sentença, surpreendeu-se a autora, com a alienação do bem a terceiros, no curso da demanda. Alienação de imóvel que não mais pertencia à corré Maria Ribeiro Lanzi. Requereu a declaração de nulidade e cancelamento da transferência, a fim de viabilizar o registro de sua carta de sentença. Sentença de parcial procedência. Condenação do espólio da corré à reparação de perdas e danos. Proteção de terceiros de boa-fé. Apelação da autora alegando má-fé dos adquirentes e não ocorrência da prescrição. Cabimento. Ato viciado pela existência de comando judicial anterior, legitimando a transferência do domínio a autora. Ausência de zelo e cautela dos adquirentes, que não cuidaram de verificar a existência de demanda contra a vendedora, capaz de invalidar o negócio jurídico. Caracterizada a ausência de boa-fé. Prescrição inocorrente. Contagem feita entre as alienações e a propositura da demanda. Recurso provido, com observação.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa ao artigos 5º, XXII e XXIII, da Constituição da República, por afronta à garantia da propriedade.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Ao julgar o RE-RG 950.787, em 28.4.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa aos princípios constitucionais, dentre eles o da garantia à propriedade e sua função social, bem como da dignidade da pessoa humana, ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário, como no caso dos autos.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
