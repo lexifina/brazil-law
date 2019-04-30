@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ORGANIZAÇÃO MÉDICA CRUZEIRO DO SUL S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação de reparação por danos morais e estéticos - Erro médico - Cirurgia de histerectomia realizada na autora, ocasião em que foi realizado cateter e deixado um fio guia dentro de veia - Danos devidamente comprovados por perícia - Nexo causal demonstrado - Danos morais configurados - Minoração do quantum indenizatório - Sistema do Código do Consumidor que cria entre segurado e segurador uma solidariedade legal em favor do consumidor, o que permitirá que o decisum, no caso, possa ser executado diretamente contra a seguradora, até o limite da apólice - Recursos parcialmente providos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 131 e 333, inciso I, do CPC de 1973; 884 do CC e 14, § 4º, do CDC, que veda o enriquecimento sem causa, haja vista que era o caso de total improcedência do pedido.
+E continua:
+O enriquecimento sem causa resta caracterizado, na medida em que a Recorrente logrou demonstrar que não há que se falar em indenização no caso em apreço, pois os profissionais da Recorrente agiram com total destreza nos atendimentos da Recorrida, não havendo que se falar em negligência, imperícia ou imprudência capaz de gerar a condenação ora combatida.
+Aduz ser necessária a prova de que a conduta do profissional médico teria sido equivocada, o que não ocorreu na espécie. Assim, não há falar em erro médico, nem em dever de indenizar.
+Ressalta que a recorrida não se desincumbiu de seu ônus probatório.
+É o relatório. DECIDO.
+2. As matérias referentes aos artigos 131 e 333, inciso I, do CPC de 1973; 884 do CC, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. No mais, ao reconhecer o dever de indenizar, o Tribunal de origem assim consignou:
+Inicialmente, deve ser ressaltado que é incontroversa a atitude culposa dos prepostos do hospital, consistente no "esquecimento" do fio guia dentro da veia da autora, que por mais de um ano sofreu com dores, até que o objeto (fls. 192) fosse retirado. O fato de a segunda cirurgia ter transcorrido bem em nada altera a responsabilidade dos réus, que se configura tão-somente pelo esquecimento do fio no corpo da autora, o que acarretou todos os danos elencados, incluindo uma cicatriz de 9 cm de comprimento na coxa.
+Presentes, assim, todos os elementos necessários ao reconhecimento do dever de indenizar, da parte dos réus, inclusive o nexo causal.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, para acolher as alegações da parte agravante e afastar o dever de indenizar, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
