@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    A Câmara Municipal da Estância Balneária de Mongaguá/SP assevera haver a Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, no agravo de instrumento nº 2172264-62.2018.8.26.0000, desrespeitado “várias decisões” do Supremo.
+    Segundo narra, foi provido, em 17 de dezembro de 2018, o citado agravo de instrumento, para suspender a eficácia dos Decretos Legislativos nº 1, 2, 3 e 4, que implicaram a cassação do mandato do vice-prefeito de Mongaguá, Márcio Melo Gomes.
+    Sustenta ocorrida interferência indevida de um Poder em outro, a comprometer a harmonia e a independência, tendo em conta o assentado nas ações diretas de inconstitucionalidade nº 4.102, 1.949, 179, 523, 3.458, 1.933, 2.214, 2.393, 546, 3.394, 2.911, 738, 307 e 1.315. Menciona também contrariados os pronunciamentos alusivos ao agravo regimental no recurso extraordinário nº 436.996, ao recurso extraordinário nº 317.574, à reclamação nº 31.998 e aos mandados de segurança nº 34.099 e 34.411.
+    Requer, em sede liminar, a imediata cassação do ato impugnado. Busca, alfim, a confirmação da providência.
+    Por meio das petições/STF nº 13.249 e 13.252, ambas de 2019, a reclamante postulou a redistribuição do processo à ministra Cármen Lúcia, relatora da reclamação nº 31.998.
+    Na petição/STF nº 13.662/2019, a reclamante afirma ocorrida nulidade no mandado de segurança em curso na origem, bem assim no agravo de instrumento formalizado, uma vez não incluída no polo passivo a Mesa Diretora da Câmara Municipal. Cita jurisprudência.
+    O Presidente, em 22 de março de 2019, não acolheu o pedido de redistribuição do processo à ministra Cármen Lúcia.
+    Mediante a petição/STF nº 18.204/2019, de 4 de abril último, Rodrigo Cardoso Biagioni pediu o ingresso, salientando que, na condição de vereador, foi Presidente da Câmara Municipal da Estância Balneária de Mongaguá/SP durante o período de 2017 a 2018, quando ocorridos os fatos narrados no processo originário. Discorre sobre os lapsos nos quais substituiu o então titular do Executivo local. Enfatiza ter vencido as eleições suplementares, realizadas em 28 de outubro de 2018, para o cargo de Prefeito, encontrando-se suspensas enquanto pendentes as demandas judiciais a envolverem a problemática da cassação do mandato do ocupante anterior.
+    Márcio Melo Gomes, na petição/STF nº 19.108/2019, alude às medidas processuais intentadas pela Câmara Municipal, a revelarem, conforme argumenta, abuso de direito de defesa. Na de nº 19.110/2019, esclarece o deferimento, pelo ministro Gilmar Mendes, da ordem no habeas corpus nº 158.840, de modo a suspender a decisão da Primeira Vara Federal da Seção Judiciária do Estado de São Paulo que resultou no próprio afastamento do cargo de vice-prefeito.
+    2. É pertinente o pleito de intervenção formalizado por Rodrigo Cardoso Biagioni considerada a qualidade de membro do Legislativo local e o fato de ter obtido êxito nas eleições suplementares realizadas.
+    Este processo somente serve à sobrecarga da máquina judiciária, hoje suportada pelo Tribunal, que se encontra, no tocante à celeridade processual, inviabilizado. Quanto ao apontado desrespeito ao assentado na reclamação nº 31.998 e no mandado de segurança nº 34.441, verifica-se a litispendência, uma vez reproduzida a mesma pretensão veiculada por meio das reclamações nº 32.942 e 32.952.
+    Relativamente aos demais precedentes surgidos de casos de natureza subjetiva, a reclamante não participou das respectivas relações processuais, mostrando-se impróprio o manuseio desta medida, de caráter excepcional, visando a uniformização de jurisprudência. No que diz respeito aos acórdãos dos citados processos objetivos, não possuem nenhuma ligação com a situação concreta revelada no ato impugnado. O Supremo não agasalha a tese da eficácia transcendental dos motivos determinantes. No mais, o reconhecimento de eventual nulidade deve ser buscada na via apropriada, descabendo a utilização da reclamação como sucedâneo recursal.
+    3. Admito Rodrigo Cardoso Biagioni como terceiro interessado no processo.
+    4. Nego seguimento à reclamação.
+    5. Publiquem.
+Brasília, 30 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
