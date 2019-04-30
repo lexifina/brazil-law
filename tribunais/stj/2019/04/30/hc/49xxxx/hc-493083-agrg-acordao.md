@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. NULIDADE. SENTENÇA PENAL CONDENATÓRIA PROFERIDA ORALMENTE E REGISTRADA POR MEIO AUDIOVISUAL. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTE DA TERCEIRA SEÇÃO. FALTA DE DEMONSTRAÇÃO DE PREJUÍZO. FUNDAMENTOS NÃO INFIRMADOS PELO AGRAVANTE.
+1. Não foram trazidos argumentos aptos a afastar as razões da decisão agravada, as quais estão em harmonia com a jurisprudência da Terceira Seção desta Corte Superior acerca do tema.
+2. No caso, além de o agravante ter mencionado precedentes anteriores ao HC n. 462.253/SC, da relatoria do Ministro Nefi Cordeiro, julgado pela Terceira Seção em 28/11/2018 (DJe 4/2/2019), deixou de rebater, sobretudo, o fundamento concernente à falta de demonstração do prejuízo da alegada nulidade, mesmo após ter ficado registrado no decisum que o réu apresentou suas razões recursais, sem quaisquer dificuldades, ficando garantidos todos os seus direitos constitucionais na origem.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra a decisão de fls. 265/267, cuja ementa é a seguinte:
+HABEAS CORPUS. NULIDADE. SENTENÇA PENAL CONDENATÓRIA PROFERIDA ORALMENTE E REGISTRADA POR MEIO AUDIOVISUAL. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTE DA TERCEIRA SEÇÃO. FALTA DE DEMONSTRAÇÃO DE PREJUÍZO.
+Writ indeferido liminarmente.
+Eis as razões do agravo (fls. 273/275):
+ ..
+O Ministro relator indeferiu liminarmente o Habeas Corpus impetrado pela defesa argumentando a ocorrência de supressão de instância e argumentando que a sentença proferida não demandou nenhum prejuízo ao agravante.
+O Ministro relator afirma que há pretensão da defesa em suprimir instância uma vez que a tese suscitada não foi levada ao conhecimento do Tribunal a quo no recurso de apelação e, argumenta ainda, que inexiste o constrangimento ilegal, em relação ao que não lhe assiste razão, conforme será exposto a seguir.
+As nulidades absolutas podem ser reconhecidas e arguidas a qualquer tempo, além de também poderem ser conhecidas de ofício a qualquer tempo pelo Tribunal ou Juiz. O caso em apreço sugere expressa nulidade e, portanto, não há que se falar em supressão de instância ao tratar de assunto de tamanha relevância.
+O Ministro relator trouxe decisão do Ministro Nefi Cordeiro julgado em 28 de novembro de 2018 o qual também denega um Habeas Corpus em mesmas circunstâncias, porém, esquece-se do informativo 638 deste tribunal disponibilizado em 19 de dezembro de 2018, o qual a Ministra Laurita Vaz da 6ª Turma decidiu que:
+É nula a sentença proferida de forma oral e degravada parcialmente sem o registro das razões de decidir. Nas alterações promovidas pela Lei nº 11.719/2008 no art. 405 do CPP, não se estabeleceu a possibilidade de se dispensar a transcrição de sentença penal registrada por meio audiovisual. Ao contrário, manteve-se o art. 388 do CPP, que prevê a possibilidade da sentença "ser datilografada", admitindo-se, na atualidade, a utilização de outros meios tecnológicos similares, como por exemplo o computador, para o seu registro escrito. Daí a inaplicabilidade do disposto no art. 405, §§ 1º e 2º, do CPP - que permite a dispensa de transcrição de depoimentos - à sentença penal.
+Na hipótese, foi proferida sentença oral, com a degravação tão somente da dosimetria das penas e do dispositivo. Essa situação, em um juízo preliminar, contraria o disposto no art. 388 do Código de Processo Penal, pois a busca da celeridade na prestação jurisdicional não dispensa a forma escrita da sentença, que deve vir acompanhada das razões de decidir. Anote-se, por fim, o prejuízo à defesa, com grave dano ao exercício do contraditório e ampla defesa, que acarreta nulidade absoluta do ato, por vício formal."
+STJ. 6ª Turma. Hc 470.034-SC, julgado em 09/10/2018 (INFO 638).
+Nas alterações promovidas pela Lei n. 11.719/2008, não se estabeleceu a possibilidade de se dispensar a transcrição de sentença penal registrada por meio audiovisual (ex vi, do título XII do CPP). Ao contrário, manteve-se o art. 388 do CPP, que prevê a possibilidade da sentença "ser datilografada", admitindo-se, na atualidade, a utilização de outros meios tecnológicos similares, como por exemplo o computador, para o seu registro escrito. Daí a inaplicabilidade do disposto no art. 405, §§ 1º e 2º, do CPP - que permite a dispensa de transcrição de depoimentos - à sentença penal. STJ. 5ª Turma. HC 336.112/SC, Rel. Min. Ribeiro Dantas, julgado em 24/10/2017.
+É certo que a dispensa de transcrição não se aplica para sentenças proferidas e também gravada ao final da audiência, portanto, é imprescindível que se providencie a transcrição integral da sentença porque o artigo 405, §2º não se aplica a este ato judicial.
+(CUNHA. [NOME]. 638. É nula a sentença proferida de forma oral e degravada parcialmente. Disponível em: <https://meusitejuridico.editorajuspodivm.com.br/2018/12/26/638-e-nula- sentenca-proferida-de-forma-oral-e-degravada-parcialmente/> Acesso em: 27 fev. 2019.)  ..
+Requer-se a reforma da decisão que indeferiu liminarmente o pedido de habeas corpus.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): No caso, o agravo regimental não rebateu, de forma eficiente e específica, todos fundamentos por mim adotados na decisão ora impugnada, o que faz incidir o enunciado da Súmula 182/STJ.
+De qualquer maneira, não custa deixar bem claro que a decisão agravada foi até alicerçada em julgado da Terceira Seção, proferido depois dos dois precedentes citados pelo agravante. Além disso, ao lado da supressão de instância indicada, está o fato de que, em nenhum momento, houve demonstração de prejuízo sofrido na origem.
+Confirmo o decisum por suas próprias razões.
+Neste habeas corpus impetrado em nome de [NOME], a Defensoria Pública ataca o acórdão proferido pelo Tribunal de Justiça de Santa Catarina na Apelação Criminal n. 0008019-23.2018.8.24.0033 (fls. 190/204), complementado pelo dos embargos de declaração (fls. 228/234).
+Noticia que o paciente foi condenado ao cumprimento da pena privativa de liberdade de 2 anos e 6 meses de reclusão, em regime inicial fechado, além do pagamento de 20 dias-multa, no valor unitário mínimo legal, pelo cometimento do crime tipificado no art. 155, § 4º, I, do Código Penal.
+Interposta apelação, o Tribunal de Justiça deu parcial provimento ao recurso, tornando a reprimenda definitiva em 2 anos e 4 meses de reclusão e 11 dias-multa.
+Opostos embargos de declaração com alegação de omissão indireta pela não declaração da ilegalidade da sentença proferida de forma oral, sem a transcrição da respectiva fundamentação, foram rejeitados.
+Para a impetrante, o caso retrata ilegalidade manifesta, porque toda sentença penal deve ser escrita.
+Requer a concessão de medida liminar para reconhecer a ilegalidade dos acórdãos e suspender todos os efeitos da condenação até o julgamento final do writ. No mérito, pretende a anulação do processo desde a sentença condenatória.
+É o relatório.
+Inexiste o dito constrangimento ilegal.
+De um lado, é nítida a pretensão de suprimir instância, pois a tese ora suscitada não foi levada ao conhecimento do Tribunal a quo no recurso de apelação. Daí a razão de aquele colegiado não ter cuidado do tema nos embargos de declaração.
+De outro, o firme entendimento do Superior Tribunal de Justiça diz que a previsão legal do único registro audiovisual da prova, no art. 405, § 2º do Código de Processo Penal, deve também ser compreendida como autorização para esse registro de toda a audiência - debates orais e sentença. Eis a ementa completa desse precedente da Terceira Seção, julgado em 28/11/2018:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA PENAL CONDENATÓRIA POR MEIO AUDIOVISUAL. TRANSCRIÇÃO PARCIAL DO SEU CONTEÚDO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. NÃO OCORRÊNCIA. ALTERAÇÕES PROMOVIDAS PELA LEI N. 11.719/2008. FORMA ESCRITA. ART. 388 DO CPP. POSSIBILIDADE. VÍCIO FORMAL DO ATO PROCESSUAL. INEXISTÊNCIA. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA.
+1. A previsão legal do único registro audiovisual da prova, no art. 405, § 2º do Código de Processo Penal, deve também ser compreendida como autorização para esse registro de toda a audiência - debates orais e sentença.
+2. É medida de segurança (no mais completo registro de voz e imagem da prova oral) e de celeridade no assentamento dos atos da audiência.
+3. Exigir que se faça a degravação ou separada sentença escrita é negar valor ao registro da voz e imagem do próprio juiz, é sobrelevar sua assinatura em folha impressa sobre o que ele diz e registra. Não há sentido lógico ou de segurança, e é desserviço à celeridade.
+4. A ausência de degravação completa da sentença não prejudica ao contraditório ou à segurança do registro nos autos, do mesmo modo que igualmente ocorre com a prova oral.
+5. A tese de inidoneidade dos fundamentos que embasaram o aumento da pena em 3/8, na terceira fase da dosimetria, não foi submetida ao crivo do Tribunal de Justiça, inviabilizando o exame desta Corte Superior por incabível análise originária do tema, sob pena de indevida supressão de instância.
+6. Habeas corpus denegado.
+(HC n. 462.253/SC, Ministro Nefi Cordeiro, DJe 4/2/2019)
+De mais a mais, conforme o acórdão, a sentença proferida não demandou nenhum prejuízo ao embargante, que, inclusive, apresentou suas razões recursais, sem quaisquer dificuldades, restando garantidos todos os seus direitos constitucionais (fl. 232).
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+À míngua de impugnação específica dos fundamentos da decisão agravada, não conheço do agravo regimental.
