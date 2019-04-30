@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. PENHORA. BEM DE FAMÍLIA. EXCEÇÃO. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial (e-STJ, fls. 139-140) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 101):
+Agravo de Instrumento Penhora de bem de família Dívida decorrente de denúncia de promessa de compra e venda do próprio bem de família Insistir na impenhorabilidade fomentaria insegurança jurídica Lei autoriza penhora de dívida relativa ao próprio imóvel (Lei nº 8.009/1990, art. 3º incs. II, IV e V) Lei ainda renega paternalismo, permitindo oferta de moradia para fiança (Lei nº 8.009/1990, art. 3º incs. VII) Precedentes do STJ Recurso provido.
+Nas razões do recurso especial, o recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 1º e 3º da Lei 8.009/1990.
+Sustentou a impenhorabilidade do bem de família para saldar dívida oriunda de inadimplemento de contrato de promessa de compra e venda.
+Afirmou que a hipótese dos autos não está incluída no rol de exceções prevista no art. 3º da norma acima referida.
+ Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 139-140), entendendo não estar demonstrada nos autos a violação aos dispositivos legais apontados.
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 143-155).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, o agravante alega ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Defende que os argumentos apresentados nas razões do apelo excepcional são suficientes para demonstração da afronta à legislação federal mencionada.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A tese defendida pelo recorrente no apelo excepcional refere-se à impossibilidade de penhora do bem de família para adimplir dívida oriunda de contrato de promessa de compra e venda.
+O Tribunal de origem, ao se manifestar sobre o tema, expôs os seguintes argumentos (e-STJ, fls. 103-104):
+ Com razão o Agravante.
+ A Agravada, exercendo seu direito à propriedade, dispôs da própria moradia, contra o que a Lei não oferece nenhum obstáculo.
+ Se a Agravada se arrependeu, deve ressarcir o valor recebido do Agravante ou garantir a indenização com seu único bem, ainda que lhe sirva de residência, visto que já havia se disposto a se desfazer dele originalmente.
+ Permitir que a Agravada se esquive de sua responsabilidade de ressarcir o valor recebido com apoio na impenhorabilidade do bem de família fomentaria enorme insegurança jurídica sobre negócios do gênero. Afinal, quem iria comprar o único imóvel de quem quer que fosse, sabendo que, mais adiante, o vendedor poderia alegar que o bem vendido e não entregue constitui bem de família
+ Essas razões são muito próximas daquelas que justificam as exceções à impenhorabilidade do art. 3º da Lei nº 8.009/1990.
+ Extrai-se dos incisos II, IV e V do art. 3º da Lei que o direito à moradia não prevalece sobre dívidas relacionadas à própria casa.
+ Semelhante ao argumento desenvolvido acima a respeito da insegurança jurídica, pode-se entender que a justificativa para essa limitação (dívidas relativas à própria casa ensejam sua penhora) esteja na preocupação com eventuais abusos por parte dos proprietários, que assim deixariam de pagar financiamentos ou qualquer despesas incidente sobre o imóvel, sabedores de que este nunca lhes seria expropriado.
+ O inc. VII do mesmo dispositivo prevê ainda que quem disponha do bem de família para servir de garantia em contrato de locação também não conta com a proteção da impenhorabilidade. O fundamento da regra é, dentre outros, o direito de propriedade e a limitação ao paternalismo: cabe ao próprio titular do imóvel decidir sobre a disponibilidade de sua moradia. Esse fundamento também se encontra na permissão da penhora do bem de família por dívida decorrente de sua venda frustrada.
+Do trecho acima mencionado, verifica-se que o Tribunal a quo, ao interpretar as normas regentes do instituto do bem de família, concluiu que a hipótese dos autos  penhora do imóvel para adimplemento de obrigação oriunda de contrato de promessa de compra e venda  estava inclusa no rol de exceções prevista no art. 3º da Lei 8.009/1990, pois o agravada, ao exercer livremente seu direito de propriedade e expor em negociação o bem supostamente protegido pela lei, adotou conduta incompatível com a manutenção da impenhorabilidade.
+Diante dessa conclusão, constata-se que os fundamentos adotados pelo Tribunal de origem encontram-se em sintonia com a jurisprudência vigente no Superior Tribunal de Justiça, a qual entende ser possível a penhora do único imóvel pertencente à entidade familiar quando necessário para adimplemento de dívida contraída em virtude do descumprimento de contrato de promessa de compra e venda.
+A propósito:
+AGRAVO REGIMENTAL. PROCESSO CIVIL E CIVIL. EXECUÇÃO DE SENTENÇA. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. BEM DE FAMÍLIA. PENHORABILIDADE. DÍVIDA ORIUNDA DE NEGÓCIO ENVOLVENDO O PRÓPRIO IMÓVEL. APLICAÇÃO, POR ANALOGIA, DA EXCEÇÃO PREVISTA NO ART. 3º, II, DA LEI N. 8.009/90.
+1. A exceção prevista no art. 3º, II, da Lei n. 8.009/90 - possibilidade de se penhorar bem de família - deve ser estendida também aos casos em que o proprietário firma contrato de promessa de compra e venda do imóvel e, após receber parte do preço ajustado, se recusa a adimplir com as obrigações avençadas ou a restituir o numerário recebido, e não possui outro bem passível de assegurar o juízo da execução.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 806.099/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 08/03/2016, DJe 14/03/2016)
+PROCESSO CIVIL E CIVIL. BEM DE FAMÍLIA. CARACTERIZAÇÃO. VALOR DO IMÓVEL. IRRELEVÂNCIA. PENHORABILIDADE. DÍVIDA ORIUNDA DE NEGÓCIO ENVOLVENDO O PRÓPRIO IMÓVEL. CABIMENTO. EXEGESE SISTEMÁTICA DA LEI Nº 8.009/90. DISPOSITIVOS LEGAIS ANALISADOS: ARTS. 1º E 3º, II, DA LEI Nº 8.009/90.
+1. Agravo de instrumento interposto em 12.03.2012. Recurso especial concluso ao gabinete da Relatora em 12.03.2014.
+2. Recurso especial em que se discute se: (i) é possível afastar a impenhorabilidade sobre bem de família de elevado valor, de cuja alienação judicial resulte saldo suficiente para aquisição de novo imóvel pela executada; e se (ii) na execução de dívida oriunda de sinal não devolvido em compromisso de compra e venda desfeito, o próprio imóvel objeto do negócio pode ser beneficiado pela impenhorabilidade da Lei nº 8.009/90.
+3. Os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família pela Lei nº 8.009/90. Precedentes.
+4. Da exegese sistemática da Lei nº 8.009/90 desponta nítida preocupação do legislador de impedir a deturpação do benefício legal, vindo a ser utilizado como artifício para viabilizar a aquisição, melhoramento, uso, gozo e/ou disposição do bem de família sem nenhuma contrapartida, propiciando o enriquecimento ilícito do proprietário do imóvel em detrimento de terceiros de boa-fé.
+5. A regra do art. 3º, II, da Lei nº 8.009/90, se estende também aos casos em que o proprietário firma contrato de promessa de compra e venda do imóvel e, após receber parte do preço ajustado, se recusa a adimplir com as obrigações avençadas ou a restituir o numerário recebido, e não possui outro bem passível de assegurar o juízo da execução.
+6. Recurso especial provido.
+(REsp 1440786/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/05/2014, DJe 27/06/2014)
+Logo, no caso em exame, tendo o recorrente negociado o imóvel em contrato de promessa de compra e venda, recebendo, inclusive, parte do preço acordado, abriu mão da proteção jurídica conferida pela Lei 8.009/1990 e, desse modo, não pode utilizar a garantia da impenhorabilidade para esquivar-se do cumprimento do acordo firmado com o recorrido.
+Portanto, estando o acórdão impugnado em consonância com a jurisprudência desta Corte Superior, incide o enunciado da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para desprover o recurso especial.
+Publique-se.
