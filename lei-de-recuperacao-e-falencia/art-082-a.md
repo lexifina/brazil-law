@@ -1,0 +1,1 @@
+Art. 82-A. A extensão dos efeitos da falência somente será admitida quando estiverem presentes os requisitos da desconsideração da personalidade jurídica de que trata o art. 50 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil.
