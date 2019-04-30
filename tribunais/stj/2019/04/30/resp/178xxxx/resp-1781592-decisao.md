@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. SENTENÇA COLETIVA. LIQUIDAÇÃO POR ARTIGOS. APLICAÇÃO DE MULTA DO ART. 475-J DO CPC/1973. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AFRONTA À LEGISLAÇÃO FEDERAL. AUSÊNCIA DE FUNDAMENTAÇÃO SUFICIENTE PARA COMPROVAÇÃO. SÚMULA 284/STF. TESE NÃO PREQUESTIONADA. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A., com fulcro no art. 105, inciso III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 349):
+CONTRATO BANCÁRIO  CADERNETA DE POUPANÇA - A prévia liquidação do julgado é de todo desnecessária  Aplicação do artigo 475-B do Código de Processo Civil  A alegação acerca do termo inicial dos juros moratórios restou prejudicada, em razão do julgamento do Agravo de Instrumento nº 0111141-10.2012.8.26.0000, que determinou sua incidência a partir da citação da agravante na Ação Civil Pública  Exclusão dos juros remuneratórios do quantum debeatur  Cabimento  O título executivo judicial não previu a inclusão dos juros remuneratórios no cálculo da dívida  Tal modalidade de encargo só é devida se convencionada pelas partes ou prevista na lei - Recurso conhecido em parte e, na parte conhecida, parcialmente provido
+Inconformado, o recorrente interpôs agravo regimental, do qual não se conheceu, nos termos da seguinte ementa (e-STJ, fl. 364):
+Interposição contra o V. Acórdão que conheceu em parte do agravo de instrumento, e, na parte conhecida, deu-lhe parcial provimento  Inadmissibilidade  O mencionado recurso só é cabível contra decisão monocrática  Inteligência do § 1º, do artigo 557 do Código de Processo Civil e do artigo 253 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo  Recurso não conhecido
+Nas razões do recurso especial, o recorrente sustenta divergência jurisprudencial e violação aos arts. 267, inciso IV, e 475-J do Código de Processo Civil de 1973.
+Alega que o processo deve ser extinto sem julgamento de mérito, pois o título executivo que embasa a ação de cobrança é inexigível por ausência de necessária liquidação.
+Argumenta que a decisão proferida nos autos da ação civil pública não ostenta as características de certeza e liquidez exigidas para a execução imediata.
+Afirma ser impossível a aplicação da multa de 10% (dez por cento), prevista no art. 475-J do CPC/1973, pois o título executivo em discussão possui natureza provisória.
+Desse modo, requer o provimento do recurso especial, a fim de serem sanadas as violações apontadas.
+A parte recorrida apresentou contrarrazões às fls. 383-385 (e-STJ).
+Decisão de admissibilidade às fls. 411-414 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, nos termos do Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Preliminarmente, em relação à análise do recurso especial com base na alínea c do permissivo constitucional, constata-se que o recorrente não comprovou a divergência jurisprudencial alegada.
+É necessário enfatizar que a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no apelo especial interposto pelo recorrente.
+Corroborando com estes argumentos, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. VIOLAÇÃO AO ART. 131 DO CPC/73. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. ILEGITIMIDADE PASSIVA. SÚMULAS 284 DO STF, 5 E 7 DO STJ. FALTA DE COTEJO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura violação ao art. 131 do CPC/73 quando, mediante convicção formada do exame feito aos elementos fático-probatórios dos
+autos, o acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide.
+2. Quanto ao dissídio jurisprudencial, a ausência de indicação de dispositivo de lei federal a que se tenha dado interpretação divergente pelo acórdão recorrido caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+3. A ausência de cotejo analítico impede o conhecimento do alegado dissídio jurisprudencial.
+4. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1347048/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. COINCIDÊNCIA ENTRE AS PATENTES. INEXISTÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. JULGADOS DO MESMO TRIBUNAL. SÚMULA Nº 13/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As conclusões da Corte de origem que resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda não podem ser infirmadas, haja vista a incidência da Súmula nº 7/STJ.
+3. Não basta a afirmação do recorrente quanto à existência da divergência sem a comprovação adequada do dissídio jurisprudencial, visto que insuficiente para tanto a mera transcrição de ementas dos paradigmas, deixando de proceder ao necessário cotejo analítico entre os acórdãos impugnado e paradigma e de demonstrar a similitude fática entre as decisões confrontadas.
+4. Na hipótese, o recurso especial não foi conhecido em virtude do óbice da Súmula nº 13/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1269533/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2018, DJe 17/10/2018)
+No caso em exame, constata-se que o recorrente limitou-se a citar os acórdãos paradigmas sem, ao menos, realizar o devido cotejo analítico para fins de comprovação da divergência jurisprudencial alegada.
+Logo, não há como ser julgado o recurso especial com base na alínea c do permissivo constitucional.
+Com relação à análise do apelo excepcional pelo art. 105, inciso III, alínea a, da CF, verifica-se que, no tocante à tese da suposta violação aos arts. 267, inciso IV, e 475-J do CPC/1973, os argumentos apresentados pelo recorrente divergem do conteúdo normativo inserido nos dispositivos mencionados, não ficando claro, portanto, de que forma ocorreu a violação apontada.
+É necessário frisar que o recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração, de forma clara e precisa, dos artigos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+In casu, analisando as razões do recurso especial, verifica-se que as razões apresentadas não foram suficientes para demonstrar o descumprimento da legislação federal apontada, qual seja, afronta ao art. 267, inciso IV, e 475-J do CPC/1973, situação que impossibilita a compreensão da controvérsia, sendo aplicável, por analogia, o enunciado descrito na Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
