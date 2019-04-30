@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA MARCOS DE RAMOS MUZA contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - Títulos de crédito - Embargos à execução - Duplicatas sem aceite - Cobrança judicial dos títulos que deve obedecer aos requisitos do artigo 15, inciso II da Lei nº 5.474/1968 - Requisitos observados - Entrega das mercadorias comprovada pelo nome e documento de identidade das recebedoras - Sentença mantida - Recurso não provido.
+Nas razões do especial, aponta a agravante violação do artigo 15 da Lei 5.474/68. Alega ser indevida a cobrança das duplicatas mercantis em seu desfavor, diante da falta de higidez dos títulos de crédito à luz da legislação pertinente, além de não existir prova inerente à transação originária dos títulos, em especial, a demonstração de entrega das mercadorias ou a colocação de aceite das duplicatas.
+Requer, a invalidação da cobrança viabilizada nos títulos de crédito.
+Assim delimitada a controvérsia, passo a decidir.
+Importa transcrevermos a orientação adotada pelo Tribunal estadual acerca da existência de negócio jurídico originário das duplicatas, bem como sobre os pressupostos necessários à sua cobrança (fl. 322, e-STJ):
+Assim, sendo os documentos juntados aos autos a fls. 62. 64. 66. 76. 104 e 108, da ação de execução, hábeis a comprovar a entrega e recebimento das mercadorias, conclui-se que foi observado o quanto disposto no artigo 15, inciso II, alínea "b" da Lei nº 5.474/1968, devendo ser mantida a r. sentença de improcedência dos embargos à execução.
+Da leitura do excerto supracitado, percebe-se que as conclusões alcançadas pela Corte local, para reconhecer a existência do negócio que originou a emissão das duplicatas, bem como a higidez e validade de sua cobrança, foram baseadas em cuidadosa análise do material fático-probatório dos autos, cuja revisão é vedada em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 458 e 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. O Tribunal de origem consigna que a execução do título extrajudicial, amparada em duplicata sem aceite, está devidamente fundamentada tendo em vista a comprovação da prestação de serviço, mediante a nota fiscal colacionada aos autos, a qual foi assinada pelo devedor. Além disso, destaca que houve a interrupção da prescrição pelo devido protesto da duplicata. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+(AgInt no AREsp 999.478/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 10/4/2017)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
