@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e OUTROS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 451):
+Agravo de instrumento Inventário Indeferimento de justiça gratuita Os bens que compõem o espólio, o anterior indeferimento do pedido e o pagamento da taxa judiciária e de despesas processuais demonstram que não é o caso de deferimento do benefício Confirma-se decisão - Nega-se provimento ao recurso.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 4º da Lei n.º 1.060/50, bem como divergência jurisprudencial, sustentando, em síntese, que para o deferimento do pedido de assistência judicial gratuita basta a simples afirmação da necessidade da justiça gratuita.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o acórdão recorrido foi publicado na vigência do novo CPC, motivo pelo qual o presente recurso será examinado à luz do Enunciado Administrativo nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere à concessão do benefício da assistência judiciária gratuita, a jurisprudência desta Corte Superior é no sentido de que a afirmação de pobreza, para fins de obtenção da mencionada gratuidade, mesmo em relação às pessoas físicas, goza de presunção relativa de veracidade, de modo que pode o magistrado, de ofício, indeferir ou revogar o benefício, havendo fundadas razões acerca da condição econômico-financeira da parte de fazer frente às despesas processuais, pois "é dever do magistrado, na direção do processo, prevenir o abuso de direito e garantir às partes igualdade de tratamento" (AgInt no REsp 1.630.945/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 2/2/2017).
+No caso sob exame, observa-se que a Corte de origem indeferiu o pleito da parte recorrente à concessão do benefício da assistência judiciária gratuita, pelos seguintes fundamentos (fls. 452/453):
+"A r. Decisão agravada indeferiu o pedido pelos mesmos motivos expostos às fls. 140, quais sejam, a contratação de advogado particular, a quantidade, o valor e os frutos dos bens a serem partilhados e porque os herdeiros podem ratear as custas processuais (fls. 425).
+Às fls. 14 das razões deste recurso, os agravantes reconhecem que a declaração de pobreza tem presunção relativa.
+Eles não explicam por que recolheram a taxa relativa à pesquisa via Bacenjud.
+Sobre a alegação de que não têm a propriedade dos bens deixados pelo autor da herança, relembre-se o disposto no art. 1784 do CC ("aberta a sucessão, a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários").
+Ainda que não tenha havido partilha, nada impede pedido de autorização para a venda de algum bem do espólio para pagamento dos tributos e despesas processuais.
+Não se vislumbra litígio neste processo e, dessa forma, descabida a alegação de que o advogado trabalha pro bono."
+Como se observa, o Tribunal a quo decidiu a matéria com fundamento nas provas juntadas aos autos pela parte ora recorrente. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Em reforço:
+AGRAVO INTERNO. JUSTIÇA GRATUITA. PESSOA FÍSICA E PESSOA JURÍDICA. FALTA DE COMPROVAÇÃO DA NECESSIDADE DO BENEFÍCIO. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. De acordo com entendimento do STJ, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário.
+2. Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal Convocado do TRF 1ª Região), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008).
+3. No tocante à pessoa jurídica, cabe ainda consignar que, de acordo com o entendimento cristalizado na Súmula 481/STF: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+4. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1333158/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2019, DJe 26/02/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A matéria debatida pela parte recorrente encontra-se pacificada nesta Corte Superior nos termos do que decidido pelo Tribunal local, no sentido de que a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido. Precedentes.
+3. Outrossim, a pretensão de que seja avaliada pelo Superior Tribunal de Justiça a condição econômica da parte agravante exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1372130/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018)
+Por fim, tem-se que o entendimento atual desta Corte é no sentido de que a incidência da Súmula 7 do STJ é óbice também para análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito, vide o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. DANOS MATERIAIS. RESPONSABILIDADE. ALTERAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(..)
+3. É impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1237811/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/08/2018, DJe 14/08/2018 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
