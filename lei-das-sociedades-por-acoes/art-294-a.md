@@ -1,0 +1,1 @@
+Art. 294-A. A Comissão de Valores Mobiliários, por meio de regulamento, poderá dispensar exigências previstas nesta Lei, para companhias que definir como de pequeno e médio porte, de forma a facilitar o acesso ao mercado de capitais.
