@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CUMPRIMENTO DE SENTENÇA. 1. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. 2. VALIDADE DA RADIOGRAFIA DO CONTRATO. REVOLVIMENTO DE MATÉRIA DE PROVA IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Oi S.A. - em recuperação judicial desafiando decisão do Tribunal de Justiça de Santa Catarina que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado em seu turno, contra acórdão assim ementado (e-STJ, fl. 595):
+AGRAVO DE INSTRUMENTO. CPC/2015. TELEFONIA. CUMPRIMENTO DE SENTENÇA. RECURSO DA EXECUTADA. VALOR INTEGRALIZADO. TEMA NÃO OBJETO DA DECISÃO AGRAVADA. RAZÃO DISSOCIADA. RECURSO NÃO CONHECIDO NO PONTO. EXIBIÇÃO DE DOCUMENTO E DESNECESSIDADE DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TEMAS ABORDADOS NO TÍTULO EXECUTIVO JUDICIAL. COISA JULGADA. NOVO DEBATE. INVIABILIDADE. CONVERSÃO EM PERDAS E DANOS. RESPEITO AO PARÂMETRO PREVISTO NA DECISÃO IMUTÁVEL. Consoante entendimento firmado pela Segunda Seção do STJ, a conversão da obrigação de subscrever novas ações em perdas e danos (indenização) deve ser realizada nos termos da decisão imutável ou, em não havendo a definição deste parâmetro, com base na cotação em bolsa de valores vigente na data do trânsito em julgado da demanda (STJ, AgRg. no Ag. n. 1.294.184/RS, Terceira Turma, DJe de 20-5-2013).
+REQUERIMENTO ADMINISTRATIVO DE EXIBIÇÃO DE DOCUMENTO. DESNECESSIDADE. POSSIBILIDADE DE EXIBIÇÃO INCIDENTAL EM CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DA NORMA CONTIDA NO ART. 524, § 4º, DO CPC/2015. POSSIBILIDADE. VERBA HONORÁRIA RECURSAL. NÃO CABIMENTO.
+Nas razões do recurso especial, a recorrente alegou dissídio jurisprudencial e ofensa aos arts. 373, I, 398, 399, III, 400, 425, V, e 524 do NCPC. Sustentou a validade das radiografias e a desnecessidade de apresentação dos instrumentos contratuais na fase de cumprimento de sentença.
+Não foram apresentadas contrarrazões (e-STJ, fl. 633).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência das Súmulas n. 7 do STJ e 282 e 356 do STF.
+Irresignada, a recorrente interpõe agravo refutando os óbices apontados pela Corte estadual.
+Sem contraminuta (e-STJ, fl. 658).
+Brevemente relatado, decido.
+De início, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal estadual quanto à desnecessidade de apresentação do contrato, deixou assente que (e-STJ, fl. 598):
+As teses (a) de impossibilidade de exibição de documento pertencente a terceiro e (b) de desnecessidade de exibição do contrato de participação financeira foram afastadas pelo título executivo judicial (p. 499 e 518, respectivamente).
+Dessa forma, não há falar em novo debate sobre o tema, sob pena de violação à coisa julgada (STJ, Aglnt nos EREsp n. 1.297.200/RS, Corte Especial, rel. Min. Humberto Martins, DJe de 22-8-2018).
+(..)
+Ficou consignada no titulo executivo judicial a responsabilidade da concessionária de telefonia pela exibição do contrato. Por isso, o magistrado determinou a exibição e destacou a possibilidade de aplicação do art. 524, § 5º, I do CPC/2015.
+Como se vê, porque a autoridade judiciária apenas seguiu a norma legal, não há falar em reforma da decisão no ponto.
+Sobre o tema: TJSC, Agravo de Instrumento n. 4001558-66.2018.8.24.0000, de São José, Terceira Câmara de Direito Comercial, rel. Des. Túlio Pinheiro, j. em 23-8-2018.
+Por sua vez, a recorrente não impugna as razões adotadas pelo acórdão recorrido acerca da violação à coisa julgada. Portanto, é inevitável o reconhecimento do óbice da Súmula 283/STF, segundo o qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Apesar de a recorrente ter indicado, nas razões recursais, os dispositivos que entende violados, não demonstrou, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação, o que impossibilita a exata compreensão da controvérsia, atraindo a aplicação, à hipótese, do enunciado 284 da Súmula do Supremo Tribunal Federal, por aplicação analógica.
+Ademais, a alegação acerca da validade da radiografia do contrato para a elaboração dos cálculos da fase de cumprimento de sentença demandaria a análise dos elementos fático-probatórios trazidos ao processo, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
