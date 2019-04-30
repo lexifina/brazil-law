@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, que desafia acórdão assim ementado (e-STJ fl. 133):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA DA PROCURADORIA DA FAZENDA NACIONAL. ADESÃO AO SIMPLES NACIONAL. PENDÊNCIA CADASTRAL. AUSÊNCIA DE PREVISÃO NO ART. 17, INCISO XVI, DA LC 123/06. INCLUSÃO.
+1. Reconhecida a legitimidade passiva da Procuradoria da Fazenda Nacional em Santa Maria para figurar no pólo passivo deste mandamus.
+2. A falta de alvará de localização é pendência meramente cadastral, não significando ausência de inscrição ou irregularidade em cadastro fiscal que impeça a opção ao SIMPLES, tal como previsto no inciso XVI do art. 17 da LC 123/06.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 188/193).
+Em suas razões, a recorrente sustenta que houve violação do art. 1.022 do CPC/2015 e do art. 17, XVI, da LC 123/06. Para tanto, aduz que o acórdão recorrido incorreu em omissões e, quanto ao mérito, que a existência de pendência cadastral relativa ao alvará de localização da recorrida impede a sua inclusão ou permanência no Simples Nacional (e-STJ fls. 201/208).
+Contrarrazões (e-STJ fls. 218/224).
+Admissibilidade (e-STJ fls. 227/228).
+Parecer do Ministério Público Federal (e-STJ fls. 245/251).
+Passo a decidir.
+Deve-se consignar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Quanto ao mais, assim decidiu a Corte de origem (e-STJ 161):
+2.2 Pendência administrativa
+A parte impetrante foi impedida de participar do SIMPLES NACIONAL em razão de ausência de alvará d;e localização.
+O alvará não foi concedido porque o estabelecimento comercial onde está localizada a impetrante ("Shopping Monet" - razão social: Real Empreendimentos), proprietário do imóvel (evento 1, OUT9), ainda não apresentou o Plano de Prevenção de Combate a Incêndio.
+Ora, a impetrante não pode ser penalizada - com a vedação ao ingresso no regime tributário simplificado - por uma infração que não deu causa e não pode solucionar, não sendo razoável impedir a sua opção ao SIMPLES.
+Além disso, a jurisprudência tem entendido que a falta de alvará de localização é pendência meramente cadastral, não significando ausência de inscrição ou irregularidade em cadastro fiscal que impeça a opção ao SIMPLES, tal como previsto no inciso XVI do art. 17 da LC 123/06.
+Assim, considerando que o indeferimento do pedido de inclusão no Simples Nacional não decorreu da inadimplência de tributos, mas sim de mera pendência de ordem administrativa, faz jus a impetrante à inclusão no regime simplificado de tributação.
+3. Dispositivo
+Do exposto, voto por negar provimento ao apelo e ao reexame necessário.
+Do que se observa do trecho transcrito, um dos fundamentos utilizados para se negar provimento à apelação foi o fato de que "a impetrante não pode ser penalizada por uma infração que não deu causa e não pode solucionar, não sendo razoável impedir a sua opção ao Simples". Ocorre que esse fundamento não foi impugnado nas razões do recurso especial. Essa circunstância atrai, no ponto, a incidência da Súmula 283 do STF, segundo o qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, mesmo que superado esse óbice, a conclusão adotada pela Corte Regional está em consonância com a jurisprudência do STJ no sentido de que "a ausência de alvará de funcionamento não configura "irregularidade em cadastro fiscal" para efeito de impedir a inclusão de empresa no Simples Nacional, consoante dispõe o art. 17, XVI, da Lei Complementar n. 123/2006" (AgInt no REsp 1.651.624/RS, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 03/04/2018, DJe 19/04/2018).
+Nesse sentido, ainda, o seguinte julgado:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. SIMPLES NACIONAL. INDEFERIMENTO DO SIMPLES NACIONAL POR AUSÊNCIA DE ALVARÁ DE LOCALIZAÇÃO E FUNCIONAMENTO. IMPOSSIBILIDADE. HIPÓTESE QUE NÃO CONFIGURA IRREGULARIDADE EM CADASTRO FISCAL. INTELIGÊNCIA DO ART. 17, XVI, DA LC N. 123/2006. PRECEDENTES.
+1. Cinge-se a controvérsia em saber se a ausência de alvará de localização e funcionamento configura a irregularidade cadastral prevista no art. 17, XVI, da Lei Complementar n. 123/2006 para fins de vedação de ingresso no Simples Nacional.
+2. A inexistência de alvará de funcionamento não é irregularidade enquadrável no conceito de "irregularidade em cadastro fiscal" para efeito da aplicação do art. 17, XVI, da Lei Complementar 123/2006, pois o "cadastro fiscal" a que se refere é aquele que diz respeito ao recolhimento do ICMS, no âmbito estadual, e do ISSQN, no âmbito municipal. No âmbito federal, a expressão "cadastro fiscal federal" prevista no referido dispositivo se refere à relação de pessoas em situação de suspensão/cancelamento/inaptidão nos cadastros indicados do Ministério da Fazenda (CPF e CGC/CNPJ), informações constantes do cadastro informativo de créditos não quitados do setor público federal (Cadin), instituído pela Lei n. 10.522/02, que contém o rol de pessoas físicas e jurídicas responsáveis por obrigações pecuniárias vencidas e não pagas, correspondendo também ao disposto no inciso V do art. 17 da LC n. 123/2006. Precedentes: AgInt no REsp 1.651.624/RS, Rel. Min. Francisco Falcão, Segunda Turma, Dje 19/4/2018; REsp 1.632.794/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21/2/2018; AgInt no REsp 1.581.963/RS, Rel. Min.
+Herman Benjamin, Segunda Turma, DJe 19/12/2016.
+3. Agravo interno não provido.
+(AgInt no REsp 1.714.344/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/03/2019, DJe 02/04/2019).
+Dessa forma, aplica-se à espécie a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, CONHEÇO, EM PARTE, do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO, nos termos do art. 255, § 4º, I e II, do RISTJ.
+Publique-se. Intimem-se.
