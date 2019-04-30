@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, que, ao apreciar apelação, manteve a condenação de VALDINEI DA SILVA à pena de 4 (quatro) anos de reclusão, mais 20 (vinte) dias-multa, por infração ao art. 155, §§1º e 4º, incs. I e IV, do Código Penal, alterando para inicial semiaberto o regime prisional, nos termos da seguinte ementa (e-STJ fls. 1218/1219):
+APELAÇÕES CRIMINAIS - DEFESA E ASSISTENTE DE ACUSAÇÃO - FURTO QUALIFICADO - CAIXAS ELETRÔNICOS - CONCURSO DE AGENTES E ARROMBAMENTO - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÃO MANTIDA - DOSIMETRIA - PENA-BASE - CONFISSÃO ESPONTÂNEA - REPOUSO NOTURNO - REGIME - INDENIZAÇÃO POR DANOS MATERIAIS.
+I. É inadmissível a absolvição por falta de provas quando o contexto probatório é uníssono na indicação da autoria e materialidade.
+II. Presente mais de uma qualificadora, as que sobejam podem ser utilizadas na primeira fase da dosimetria.
+III. A confissão espontânea deve ser considerada quando colabora para a elucidação dos fatos. No caso, um dos réus admitiu o furto na companhia de outro indivíduo e confirmou o rompimento de obstáculo.
+IV. Não há incompatibilidade entre o delito qualificado e a causa de aumento do repouso noturno. Precedentes do TJDFT e STJ.
+V. O regime deve ser agravado para o semiaberto, com esteio no §3º do artigo 33 do CP.
+VI.A Lei 11.719/08 alterou o artigo 387 do CPP e incluiu, no inciso IV, o dever de o Magistrado, na sentença condenatória, fixar valor mínimo para a indenização dos danos causados pela infração. Mister que a reparação ex delito obedeça às demais disposições legais e constitucionais. No caso, houve pedido formal do Ministério Público, na denúncia e nas alegações finais, bem como do Assistente de Acusação, nas alegações finais. Aos autos, foram juntados extratos de conferência dos caixas eletrônicos rompidos e a questão foi debatida na instrução. Os réus devem reparar os danos causados à instituição financeira.
+VII. Apelos de ROGELSON e VALDINEI desprovidos. Recursos do assistente de acusação parcialmente provido.
+Embargos de declaração assim decididos (e-STJ fl. 1265):
+EMBARGOS DE DECLARAÇÃO - DETRAÇÃO - OMISSÃO.
+I. O acórdão padece de omissão, pois não se referiu à detração.
+II. O pedido de abatimento do tempo de prisão provisória da sanção final é matéria afeta ao Juízo da Execução Penal.
+III. Embargos providos parcialmente sem alteração do julgado.
+Nas razões do recurso especial, fulcrado na alínea "a" do permissivo constitucional, alega violação do art. 59 do Código Penal.
+Insurge-se contra a majoração da pena-base em 1 (um) ano, devido à valoração negativa da culpabilidade (em virtude unicamente da presença de duas qualificadoras) e das circunstâncias do delito
+Contra-arrazoado (e-STJ fls. 1306/1319 e 1322/1325), o recurso foi inadmitido (e-STJ fls. 1349/1351), motivando o presente agravo.
+Contraminuta às e-STJ fl. 1358 e manifestação ministerial, nesta instância, pelo desprovimento, em parecer assim ementado (e-STJ fl. 1375):
+ARESP DE VALDINEI DA SILVA. CRIMINAL. CRIME DE FURTO QUALIFICADO. PENA-BASE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+- Parecer pelo desprovimento do agravo em recurso especial.
+RECURSO ESPECIAL DE ROGELSON LUCIANO HARTMANN. CRIME DE FURTO QUALIFICADO. ARTIGO 387, § 2º, CPP. DETRAÇÃO PENAL. COMPETÊNCIA DO JUÍZO DA VARA DE EXECUÇÕES PENAIS.
+- Parecer pelo desprovimento do recurso especial.
+É o relatório. Decido.
+O recurso é tempestivo e foi impugnado o fundamento do despacho de inadmissibilidade.
+Passo a análise do mérito do recurso especial.
+O julgador deve aplicar de forma justa e fundamentada a reprimenda. O quantum deverá ser necessário e suficiente à reprovação, atendendo-se, ainda, ao princípio da proporcionalidade.
+A fixação da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelada às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+No caso, o recorrente, condenado à pena de 4 (quatro) anos de reclusão, teve reconhecidas como desfavoráveis as vetorias relativas à culpabilidade e às circunstâncias do delito, com a fixação da pena-base acima do patamar mínimo, o que motivou o estabelecimento do regime prisional mais gravoso, no caso o semiaberto. Veja os trechos do acórdão recorrido (e-STJ fls. 1226/1229):
+A pena-base foi fixada em 3 (três) anos de reclusão, pelo desabono da culpabilidade (utilizada a qualificadora referente ao rompimento de obstáculo) e as circunstâncias do delito (em razão do montante do dinheiro furtado - R$194.000,00 (cento e noventa e quatro mil reais). A fundamentação é irretocável. A jurisprudência do TJDFT admite, no caso de múltiplas qualificadoras, que uma delas seja utilizada na primeira fase da dosimetria. Nesse sentido: "Havendo mais de uma qualificadora, uma delas servirá para deslocar o crime para o tipo qualificado e as outras poderão ser aferidas pelo Juiz como circunstâncias judiciais, afastando a pena-base do patamar mínimo previsto em lei." (Acórdão n. 1046769, 20140310073826APR, Relator: ROMÃO C. OLIVEIRA, Revisor: ANA MARIA AMARANTE, 1ª TURMA CRIMINAL, Data de Julgamento: 14/09/2017, Publicado no DJE: 19/09/2017. Pág.: 82/89).
+O alto valor subtraído permite desabonar as circunstâncias do delito. Como ponderou o assistente da acusação, deve ser considerado o prejuízo suportado pela instituição financeira tanto pelas cédulas monetárias quanto pela substituição dos caixas eletrônicos destruídos. Não se pode comparar o furto em tela com os de pequena monta.
+ ..
+O quantum de aumento por cada moduladora é inferior a 1/6 (um sexto) da pena mínima. A míngua de recurso da acusação neste ponto, conservo o incremento de 1 (um) ano de reclusão.
+Na segunda fase, ausentes agravantes e atenuantes.
+Por fim, incidiu a causa de aumento do repouso noturno. O fato de o crime ter sido cometido em horário com vigilância diminuta autoriza a majoração de 1/3 (um terço). Irrelevante tratar-se de delito qualificado.
+ ..
+A sanção corporal ficou definitiva em 4 (quatro) anos de reclusão.
+Mantenho a pena pecuniária em 20 (vinte) dias-multa, no menor valor unitário, pois proporcional ao castigo físico, ou seja, o dobro do mínimo.
+O regime deve ser agravado para o semiaberto, com esteio no §3º do artigo 33 do CP. Não obstante a primariedade do réu, as circunstâncias judiciais são desfavoráveis. A culpabilidade exacerbada, pelo rompimento de quatro caixas eletrônicos, o prejuízo causado à instituição e o modo de agir do acusado, com audácia e desenvoltura, demonstram que regime mais brando não é adequado para a prevenção e repressão do crime em tela.
+De acordo com o art. 59 do Código Penal, a pena-base será fixada pelo juiz "atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime, bem como ao comportamento da vítima".
+Na hipótese, houve a valoração negativa das seguintes circunstâncias judiciais: culpabilidade (rompimento de 4 caixas eletrônicos) e circunstâncias do delito (elevado prejuízo).
+A jurisprudência do Superior Tribunal de Justiça admite a elevação da pena-base quando o prejuízo se revelar exacerbado, transcendendo as consequências normais descritas para o tipo penal violado, como no caso dos autos.
+Ressalte-se, ainda, que "Reconhecida a incidência de duas ou mais qualificadoras, apenas uma delas será utilizada para tipificar a conduta como furto qualificado, promovendo a alteração do quantum de pena abstratamente previsto, sendo que as demais deverão ser valoradas na segunda fase da dosimetria, caso correspondam a uma das agravantes, ou como circunstância judicial na primeira fase da etapa do critério trifásico, se não for prevista como agravante" (HC 427.179/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018).
+Devidamente motivado o aumento da pena-base, não há que se falar em violação do art. 59 do Código Penal.
+A propósito do tema, os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DUAS QUALIFICADORAS. UMA VALORADA PARA QUALIFICAR O DELITO E OUTRA COMO CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. CONSEQUÊNCIAS DO DELITO. ELEVADO PREJUÍZO PATRIMONIAL. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DA PENA SUPERIOR A 4 ANOS. PREJUDICADOS OS PLEITOS DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS E ABRANDAMENTO DO REGIME. AGRAVO DESPROVIDO.
+1. É firme o entendimento desta Corte Superior de Justiça no sentido de que é possível a utilização de uma qualificadora para exasperar a pena-base no crime de furto quando presentes duas ou mais qualificadoras.
+2. Nos termos da jurisprudência deste Tribunal Superior, o valor do prejuízo, nos crimes patrimoniais, somente pode ser considerado para elevar a pena-base quando o prejuízo se revelar exacerbado, transcendendo as consequências normais descritas para o tipo penal violado, como no caso dos autos.
+3. Mantida a reprimenda cominada em 6 anos e 8 meses de reclusão, no regime semiaberto, ficam prejudicados os pleitos em relação à modificação de regime inicial do cumprimento da pena para o aberto e a substituição da pena corpórea por restritiva de direitos. 4.
+Agravo regimental desprovido. (AgRg no HC 416.091/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019)
+HABEAS CORPUS. FURTO QUALIFICADO. PLURALIDADE DE QUALIFICADORAS. QUALIFICAÇÃO DO DELITO. AUMENTO DA PENA-BASE. POSSIBILIDADE. REGIME INICIAL DE CUMPRIMENTO DE PENA. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA DO ACUSADO. REGIME FECHADO. CABIMENTO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A jurisprudência desta Corte é firme no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas por ser utilizada para qualificar o delito e a outra para exasperar a pena-base.
+2. Embora a pena definitiva tenha sido fixada em menos de 4 (quatro) anos, reconheceu-se, além da reincidência, a existência de circunstâncias judiciais desfavoráveis ao Paciente, o que levou à fixação da pena-base acima do mínimo legal. Desse modo, encontra-se justificado o estabelecimento do regime prisional fechado, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+3. Ordem de habeas corpus denegada. (HC 483.025/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/03/2019, DJe 09/04/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. REGIME PRISIONAL. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. RECRUDESCIMENTO. MOTIVAÇÃO VÁLIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. É certo que o mero prejuízo não tem o condão de justificar, por si só, o aumento da pena-base do crime de furto, por constituir, em regra, fator comum à espécie, enquanto delito patrimonial. Todavia, quando a lesão se mostra expressiva, desbordando do prejuízo inerente ao delito praticado, configura motivação plenamente válida, apta a justificar o aumento da pena-base.
+2. A fraude aplicada (clonagem de cartão de crédito), além de colocar em xeque a eficiência e a segurança do sistema bancário nacional, causou transtornos que transcenderam as próprias instituições bancárias (vítimas), envolvendo os titulares de cartões de crédito diretamente atingidos pelo golpe, de modo que justificada por meio de elementos concretos e idôneos o maior desvalor das circunstâncias do crime.
+3. Embora o réu tenha sido condenado à pena inferior a 4 anos de reclusão, verifica-se a existência de circunstâncias judiciais desfavoráveis, com a pena-base fixada acima do mínimo legal, o que autoriza a aplicação do regime inicial semiaberto, mais gravoso, nos termos do art. 33, § 3º e 59 do Código Penal.
+4. Agravo regimental improvido. (AgRg no HC 472.044/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/11/2018, DJe 06/12/2018)
+Ante o exposto, com fulcro no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
