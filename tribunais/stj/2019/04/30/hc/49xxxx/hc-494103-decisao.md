@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALEFE PEREIRA DOS SANTOS, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que deu provimento ao Agravo em Execução nº 0009743-29.2018.8.26.0026 interposto pelo Ministério Público Estadual.
+Consta dos autos que o Juízo da Execução Criminal deferiu o pedido de progressão ao regime semiaberto formulado em favor do paciente (fl. 32/33).
+Inconformado, o Parquet interpôs agravo em execução perante o Tribunal de origem, que deu provimento ao recurso para cassar a decisão singular, determinando-se o retorno do sentenciado ao regime fechado para a realização de exame criminológico e posterior aferição do requisito subjetivo do apenado.
+No presente mandamus, sustenta a impetrante a ocorrência de constrangimento ilegal ao argumento de que o paciente faz jus a progressão ao regime intermediário, pois preenche os requisitos legais exigidos no art. 112 da LEP.
+Assevera a ausência de fundamentação idônea apta a justificar a realização de exame criminológico, uma vez que a motivação foi com base na gravidade abstrata do delito e na longevidade da pena a cumprir.
+Requer a concessão da ordem constitucional para que seja restabelecida a decisão do Juízo singular que deferiu ao paciente a progressão ao regime intermediário. Alternativamente, pede que o apenado possa aguardar a realização do exame criminológico no regime semiaberto.
+A liminar foi indeferida às fls. 80/81.
+Informações prestadas às fls. 89/96 e 98/100.
+O Ministério Público Federal manifestou-se às fls. 102/104.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+No que diz respeito à matéria, consoante o disposto no art. 112 da Lei de Execução Penal, para que o reeducando faça jus à promoção carcerária é necessário o preenchimento dos requisitos objetivo e subjetivo.
+Quanto ao requisito subjetivo, de acordo com o aludido dispositivo legal, este é aferido por meio de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+Destaque-se que, não obstante a Lei n.º 10.792/2003, introduzindo nova redação ao art. 112 da LEP, tenha dispensado a realização de exame criminológico para aferir o preenchimento do requisito subjetivo necessário à progressão de regime, é facultado ao magistrado determinar sua realização, com a devida fundamentação.
+Entendimento que se encontra sumulado por esta Corte Superior de Justiça, em seu Enunciado n.º 439, que assim dispõe:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+Na hipótese dos autos, em face do livre convencimento motivado e, diante da prescindibilidade do citado exame, o Juízo de origem entendeu ser desnecessária sua realização para o alcance do benefício pretendido.
+O Tribunal a quo, por sua vez, invocando a gravidade abstrata do delito pelo qual a parte restou condenada e longa pena ainda por cumprir, cassou a decisão que lhe havia deferido a progressão carcerária, determinando, ainda, a realização de exame criminológico para comprovação do preenchimento do requisito subjetivo para a obtenção da referida benesse.
+No entanto, é assente nesta Corte Superior que tais fundamentos não se mostram idôneos a justificar o indeferimento da progressão carcerária, na medida em que o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena, pois fatores relacionados ao delito pelo qual restou condenado já foram sopesados pelo Magistrado sentenciante no processo de conhecimento.
+Nesse vértice, vejam-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO AO REGIME SEMIABERTO INDEFERIDA PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONCESSÃO DA ORDEM DE OFÍCIO.
+ ..
+2. Na espécie, a progressão ao regime semiaberto foi indeferida pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o ora paciente, e na longa pena por cumprir.
+3. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para cassar o acórdão proferido pelo Tribunal a quo, e, em consequência, confirmar a liminar anteriormente deferida, que determinou ao Juízo das Execuções Criminais a reapreciação do pedido de progressão de regime prisional, baseando-se em dados concretos relativos à execução da pena do ora paciente.
+(HC 482.851/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÕES POR ROUBO CIRCUNSTANCIADO E EXTORSÃO MEDIANTE SEQUESTRO. PROGRESSÃO DE REGIME. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. CONFIRMAÇÃO PELO TRIBUNAL A QUO. GRAVIDADE ABSTRATA DOS DELITOS E LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA.
+1. A execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. Para aferição do requisito subjetivo, não mais se exige, de plano, a realização de exame criminológico. Contudo, a perícia pode perfeitamente ser solicitada quando as peculiaridades da causa assim o recomendarem, devendo ser considerada para fins de concessão ou negativa do benefício.
+3. A mera referência à gravidade abstrata dos delitos e à longa pena a cumprir, conforme orientação desta Corte, não constituem motivação idônea para justificar a negativa da progressão prisional.
+Precedente.
+4. Ordem concedida em parte para, cassando o acórdão impugnado e a decisão de primeiro grau, determinar ao Juízo das Execuções que reavalie o pedido de progressão de regime formulado pelo Paciente, à luz do art. 112 da Lei de Execução Penal.
+(HC 463.223/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/10/2018, DJe 13/11/2018)
+Sendo assim, não tendo o Tribunal estadual logrado fundamentar, com elementos concretos, a não implementação do requisito subjetivo para a promoção carcerária, bem como deixou de demonstrar a necessidade de realização de exame criminológico para o deferimento da benesse, verifica-se a existência de constrangimento ilegal que autoriza a atuação de ofício deste Sodalício.
+Ante o exposto, por se afigurar manifestamente inadmissível, com fundamento no art. 34, inciso XX, do Regimento Interno deste Superior Tribunal, não se conhece do writ, concedendo-se, contudo, habeas corpus de ofício, para reformar o aresto objurgado, restabelecendo-se a decisão do Juízo da Execução Criminal que deferiu a ALEFE PEREIRA DOS SANTOS a progressão ao regime semiaberto.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de Justiça do Estado de São Paulo e ao respectivo Juízo da Execução Criminal.
+Publique-se e intimem-se.
