@@ -1,0 +1,37 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESFAZIMENTO DE CONTRATO DE COMPRA E VENDA C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DA OBRA. ALEGADA ILEGITIMIDADE PASSIVA. VERIFICAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+LUIS CÉSAR SILVA MARTINS (LUIS) ajuizou ação de desfazimento contrato c/c indenização por danos morais e materiais contra CYRELA COSTA RICA EMPREENDIMENTOS IMOBILIÁRIOS LTDA (CYRELA EMPREENDIMENTOS), alegando, em síntese, que celebrou contrato de promessa de compra e venda de imóvel residencial na planta com a empresa ré.
+Todavia, houve atraso na entrega do imóvel e o autor requereu o desfazimento do contrato, a devolução dos valores pagos, bem como indenização por danos materiais e morais.
+A demanda foi julgada improcedente. Condenou o autor ao pagamento das custas e em honorários advocatícios, arbitrados em 15% do valor da causa (e-STJ, fls. 252/259).
+LUIS interpôs apelação e o Tribunal de origem negou-lhes provimento em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO. ATRASO NA ENTREGA DA OBRA. LEGITIMIDADE PASSIVA DA CONSTRUTORA. PRECEDENTES.
+I - Conforme precedentes desta Corte é parte legítima para figurar no polo passivo da demanda a construtora que se obrigou a realizar a obra, integrando o mesmo grupo de empresas responsável pelo empreendimento, de modo a caracterizar responsabilidade solidária à luz do Código de Defesa do Consumidor.
+II - Verificando-se que o feito não se encontra em condições de imediato julgamento com relação ao mérito, onde será apurada a culpa pela rescisão antecipada do contrato, devem os autos serem remetidos ao juízo de origem para o seu prosseguimento (e-STJ, fl.360).
+Inconformada, CYRELLA EMPREENDIMENTOS interpôs recurso especial, com base no art. 105, III, a, da Constituição Federal, sustentando violação dos arts.7º e 25, §1º, do CDC e ao 485, VI, do NCPC, alegando, em síntese, que não é legítima para figurar no polo passivo da demanda, pois é absolutamente estranha ao contrato de promessa de compra e venda e sequer participou da construção do empreendimento imobiliário. Afirmou que o contrato foi realizado com a OAXACA INCORPORADORA (e-STJ, fls. 383/388).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls.410/411 e 416/420).
+A contraminuta ao agravo não foi apresentada (e-STJ, fl. 424).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada ilegitimidade passiva da CYRELLA EMPREENDIMENTOS
+Na espécie, o Tribunal de origem, soberano na análise das provas, afirmou em relação à controvérsia trazida a esta Corte, o seguinte:
+Verifica-se que o Magistrado de primeiro grau julgou improcedentes os pedidos da inicial da ação de rescisão de contrato c/c indenização por danos morais e materiais por entender que o contrato foi celebrado com a empresa OAXACA, não existindo nos autos nada que vinculasse a empresa CYRELA Costa Rica Empreendimentos Imobiliários.
+Ocorre que esta Corte de Justiça já analisou outras demandas semelhantes onde foi destacado que a Cyrela Brazil Realty é parte de um mesmo grupo incorporador responsável pelo empreendimento Jardins, e sua responsabilidade é portanto, solidária.
+Os precedentes deste Tribunal consideram que comprovado que a referida pessoa jurídica intermedia, divulga e negocia unidades do empreendimento e ainda acompanha toda a execução do contrato como se vê pelo documento juntado aos autos no ID 1133800, que trata da posição financeira em que se encontra o referido imóvel, não há como se afastar sua legitimidade para figurar no polo passivo da lide, até mesmo em razão da sua responsabilidade solidária frente ao consumidor.
+Desse modo, verifica-se que a conclusão adotada na sentença está em dissonância com os precedentes desta Corte relativos à legitimidade da construtora para figurar no polo passivo das lides que visam a rescisão do contrato por atraso na entrega do imóvel, devendo o feito retornar ao juízo de origem para que seja possibilitada a reabertura da instrução e apurada a culpa pela rescisão do contrato, se do autor ou da demandada, especialmente pelo fato de que não restou comprovada a data em que notificado o autor para a purgação da mora, considerando-se que a demandada alega que a inadimplência se deu em março/2014 e os editais de divulgação dos leilões extrajudiciais teriam sido publicados em 18/22 e 26 de março de 2014, estando evidenciada a necessidade de apuração de outros fatos para o deslinde da controvérsia (e-STJ, fl. 364/366).
+Assim, ultrapassar a conclusão a que chegou o Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula nº 7 desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO C/C PRESTAÇÃO DE CONTAS E INDENIZAÇÃO POR DANOS MORAIS. INVERSÃO DE ENTENDIMENTO DO ACÓRDÃO IMPUGNADO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não se mostra possível, na via do recurso especial, alterar o entendimento do Tribunal de origem que, analisando o conjunto fático-probatório dos autos, concluiu pela existência de negócio jurídico simulado, tendo em vista o óbice da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 676.323/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 26/5/2015, DJe 11/06/2015)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. SIMULAÇÃO. COMPRA E VENDA. NULIDADE DO NEGÓCIO JURÍDICO. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA.
+1.- No tocante à ocorrência de fraude, anote-se que o Tribunal de origem julgou a lide com base no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de Recurso Especial, ante o óbice do enunciado 7 da Súmula deste Tribunal.
+2.- O agravo não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+3.- Agravo Regimental interposto por [NOME] improvido.
+(AgRg no AREsp 438.524/DF, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 25/2/2014, DJe 27/3/2014)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de  CYRELLA EMPREENDIMENTOS, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
