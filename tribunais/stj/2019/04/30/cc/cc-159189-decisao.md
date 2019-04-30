@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 27ª VARA E JUIZADO ESPECIAL CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, suscitante, e JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE BRASÍLIA/DF, suscitado, no âmbito de ação ajuizada por [NOME] e outra em face dos interessados supradescritos tendo por objeto rescisão contratual e indenização por danos morais decorrentes da ausência de entrega de materiais de construção adquiridos com cartões de crédito vinculados à Caixa Econômica Federal.
+Do que se apresenta nos autos, a demanda tramitou inicialmente perante à 3ª Vara Federal da Seção Judiciária do Distrito Federal, que, ao excluir a Caixa Econômica Federal da lide, determinou a remessa dos autos à Justiça estadual (fls. 442/444).
+Distribuído o processo ao Juízo de Direito da 2ª Vara Cível de Brasília/DF, diante do pedido de ingresso da Caixa Econômica Federal no feito, o referido Juízo declinou da competência em favor de uma das varas federais da Seção Judiciária do Distrito Federal, nos seguintes termos (fl. 441):
+ ..
+Com efeito, a leitura dos autos evidencia que integrava o pólo passivo, em litisconsórcio, a Caixa Econômica Federal - CEF, que é empresa pública, com foro privilegiado na Justiça Federal (art. 109, I, da CF/88).
+No bojo da referida Decisão declinatória, o i. Magistrado federal excluiu a CEF do pólo passivo.
+A CEF, entretanto, espontaneamente veio a esses autos, solicitando que fosse reconhecida a incompetência absoluta deste Juízo e a remessa dos autos ao Juízo Federal, pois possui interesse na demanda.
+Não cabe a este Juízo dizer sobre a (in)existência de interesse da CEF, devendo, dessa forma, os autos serem remetidos ao Juízo Federal da Seção Judiciária do Distrito Federal.
+Ante o exposto, como não cabe a este Juízo dizer sobre a (in)existência de interesse da CEF nestes autos e reconhecendo a incompetência absoluta deste Juízo Cível, DECLINO DA COMPETÊNCIA em favor de uma das doutas VARAS FEDERAIS DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL. Encaminhem-se, como determinado, com as comunicações de estilo. I.
+No ponto, destaque-se que os autos foram então distribuídos ao Juízo da 14ª Vara Federal da Seção Judiciária do Distrito Federal, que, a seu turno, determinou a remessa dos autos a um dos Juizados Especiais Federais da respectiva seção judiciária em razão do valor da causa, na forma do que prevê o artigo 3º, caput, da Lei 10.259/2001, consignando tratar-se de regra de competência absoluta (fls. 177/178).
+Assim que, o Juízo Federal da 27ª Vara e Juizado Especial Cível da Seção Judiciária do Distrito Federal, para onde os autos foram distribuídos, suscitou o conflito, reafirmando a ilegitimidade passiva da CEF, sob a seguinte fundamentação, no que interessa (fls. 445/447):
+ ..
+Conforme já expressado na decisão proferida em 20/11/2015 pelo juízo da 3ª Vara Federal (fl. 66 e 67), inexiste legitimidade passiva da CEF para figurar na relação jurídico-processual. Tendo havido a preclusão temporal daquela decisão, não caberia mais à CEF o pedido de ingresso no feito, como ocorreu através da petição juntada em 14/12/2016, ou seja, após mais de um ano após ser proferida a decisão declinatória de competência.
+De fato, a CEF promoveu verdadeiro tumulto processual, uma vez que, após requerer seu reingresso no feito com remessa do processo à Justiça Federal, após citada, alegou sua ilegitimidade passiva.
+Trata-se, conforme já decidido no processo, de controvérsia que não se situa no âmbito de competência desta Justiça, a teor do disposto no art. 109, I, da Constituição Federal, uma vez que falece legitimidade passiva à CEF. Repise- se, conforme já ressaltado pelo juízo da 3ª Vara Federal desta Seção Judiciária, o negócio jurídico restou avençado entre os autores e determinada empresa privada.
+Logo, não há que se falar em legitimidade passiva da CEF.
+Diante do exposto, suscito conflito negativo de competência para o Colendo Superior Tribunal de Justiça, nos termos do que dispõe a alínea "d", inciso I, do art. 105, da CF/88, c/c com inciso II e parágrafo único do art. 66 do CPC.
+ ..
+O Juízo suscitado prestou informações às fls. 434/453.
+O Ministério Público Federal manifestou-se pela declaração de competência do Juízo estadual - o suscitado (fls. 455/459):
+- Conflito negativo de competência entre Juízos Federal e Estadual. "Ação declaratória de cancelamento de ônus/obrigação de fazer c/c danos morais c/c repetição de indébito com pedido de liminar".
+- Ilegitimidade da Caixa Econômica Federal reconhecida pelo Juízo Federal. Aplicação do entendimento consolidado pela Súmula nº 150/STJ.
+- Parecer pelo conhecimento do conflito negativo, para que seja declarada a competência do MM. Juízo de Direito da 2ª Vara Cível de Brasília/DF.
+É o relatório.
+2. A jurisprudência iterativa do STJ é no sentido de que tendo o Juízo Federal expressamente consignado a ausência de ente federal no polo passivo da demanda e, por conseguinte, a sua falta de interesse jurídico no feito, não cabe ao Juízo estadual reexaminar a questão, nos termos das seguintes Súmulas desta Corte:
+Súmula nº 150/STJ - "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas."
+Súmula nº 254/STJ - "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual."
+Súmula nº 224/STJ - "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito."
+Neste sentido, o entendimento consolidado da Segunda Seção do STJ sobre o tema:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE INTERESSE JURÍDICO DA UNIÃO, DE ENTIDADE AUTÁRQUICA OU DE EMPRESA PÚBLICA FEDERAL (ART. 109, I, DA CONSTITUIÇÃO FEDERAL). SÚMULAS N. 150, 224 E 254/STJ. ANÁLISE DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública. Súmulas n. 150, 224 e 254 do STJ.
+2. "O conflito de competência não é via adequada para se aferir a inteireza e legitimidade de deliberações dos juízos suscitados nem para se pronunciar o acerto ou desacerto de decisões proferidas em demandas que deram origem a sua instauração". (AgRg no CC 131.891/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/09/2014, DJe 12/09/2014)
+3. Agravo regimental desprovido.
+(AgRg no CC 143.121/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA
+SEÇÃO, julgado em 11/11/2015, DJe 17/11/2015).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE ENTES FEDERAIS NA RELAÇÃO PROCESSUAL. RECONHECIMENTO DO DESINTERESSE DA CEF NA LIDE PELO JUÍZO FEDERAL. COMPETÊNCIA DO JUÍZO COMUM DO ESTADO. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+1. O conflito de competência foi decidido, em favor do juízo estadual, dentro do cenário processual de não integrar a relação processual de fundo nenhum dos entes do art. 109, I, da Constituição, a partir do fato de o Juízo Federal haver reconhecido o desinteresse da CEF na relação processual (Súmulas 150 e 254/STF).
+2. O exame do eventual (des) acerto da decisão do juízo federal, no que tange ao desinteresse da CEF na lide, extravasa a esfera de atribuição desta Corte no âmbito do conflito de competência, já que não lhe cabe a jurisdição revisional ordinária (duplo grau) daquele juízo.
+3. Agravo regimental desprovido.
+(AgRg no CC 134.248/MG, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 23/9/2015, DJe 30/9/2015)
+Dessa forma, afastado o interesse jurídico da Caixa Econômica Federal pela Justiça Federal, situação confirmada, na hipótese, por duas oportunidades, deve o feito prosseguir perante o Juízo estadual, com destaque para a preclusão acerca da ilegitimidade passiva da CEF, quando consignou o Juízo federal ("Conforme já expressado na decisão proferida em 20/11/2015 pelo juízo da 3ª Vara Federal (fl. 66 e 67), inexiste legitimidade passiva da CEF para figurar na relação jurídico-processual. Tendo havido a preclusão temporal daquela decisão, não caberia mais à CEF o pedido de ingresso no feito, como ocorreu através da petição juntada em 14/12/2016, ou seja, após mais de um ano após ser proferida a decisão declinatória de competência").
+Ressalte-se, por oportuno, que o objeto do incidente do conflito de competência cinge-se à resolução da definição de competência para o exercício da atividade jurisdicional, considerada a demanda tal como posta, sendo inviável qualquer manifestação sobre o acerto ou desacerto do provimento jurisdicional proferido pelo Juízo Federal que analisa pedido de intervenção da CEF, cujo reexame competiria ao Tribunal Regional Federal, no momento oportuno.
+Neste sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. INCIDENTE DE SUSCITAÇÃO DE DÚVIDA. REGISTRO DE ESCRITURA DE COMPRA E VENDA. INEXISTÊNCIA DE INTERESSE JURÍDICO DA UNIÃO, DE ENTIDADE AUTÁRQUICA OU DE EMPRESA PÚBLICA FEDERAL (ART. 109, I, DA CONSTITUIÇÃO FEDERAL). SÚMULAS N. 150, 224 E 254/STJ. ANÁLISE DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública. Súmulas n. 150, 224 e 254 do STJ.
+2. O conflito positivo de competência não se presta para aferir a inteireza e legitimidade de deliberações dos juízos suscitados, nem para pronunciar sobre o acerto ou desacerto de decisões proferidas no âmbito das demandas que deram origem a sua instauração.
+3. Agravo regimental desprovido. (AgRg no CC 130.677/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 12/02/2014, DJe 17/02/2014)
+CONFLITO DE COMPETÊNCIA - AÇÃO DE REPARAÇÃO DE DANOS MORAIS PROPOSTA CONTRA PROCURADOR DA REPÚBLICA - ASSISTÊNCIA - UNIÃO FEDERAL.
+I - Requerido pela União o ingresso na lide na qualidade de assistente simples de um dos réus, Procurador da República, o incidente deve ser processado e julgado pelo Juiz Federal (Súmula 150/STJ). Se este decidiu pela inexistência do alegado interesse e impropriedade da assistência formulada, não deve suscitar conflito, mas remeter os autos à justiça estadual (Súmula 224/STJ).
+II - Consoante precedentes da Segunda Seção desta Corte, não cabe ao Superior Tribunal de Justiça decidir sobre o acerto ou desacerto do provimento jurisdicional emanado de juiz federal sobre pedido de assistência formulado pela União, cujo reexame compete ao Tribunal Regional Federal.
+Conflito de competência não conhecido. (CC 29699/AL, Rel. Ministro CASTRO FILHO, SEGUNDA SEÇÃO, julgado em 09/04/2003, DJ 05/05/2003, p. 213)
+3. Ante o exposto, declaro a competência do JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE BRASÍLIA, o suscitado.
+Publique-se. Oficiem-se.
