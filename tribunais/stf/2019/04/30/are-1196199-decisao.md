@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “CONTA CORRENTE abertura por falsário - responsabilidade objetiva do banco quanto à pessoa que teve o nome indevidamente utilizado ausência de responsabilidade quanto ao terceiro (endossatário) do título ausência de descrição do negócio que ensejou o recebimento do título sentença de improcedência negado provimento ao recurso interposto pelo autor”. (eDOC 9, p. 12)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, aponta-se violação ao art. 5º, caput e inciso I, do texto constitucional.
+    Nas razões recursais, sustenta-se afronta ao princípio da isonomia, em razão da divergência na jurisprudência no tribunal de origem, em relação ao mesmo tema tratado nos autos, concernente à responsabilidade da instituição financeira nos casos de falsificação de documentos.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    No caso, verifica-se que o recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, limitando-se a suscitar a suposta afronta ao princípio da isonomia, em razão da divergência jurisprudencial na origem.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, o Enunciado 284 da Súmula do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL. PRESTAÇÃO DE CONTAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. 1. É ônus da parte recorrente impugnar de forma específica os fundamentos do acórdão recorrido. A fundamentação do recurso extraordinário se mostra deficiente. Súmula 284 do STF. 2. Agravo regimental a que se nega provimento”. (ARE 1.168.155 AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe 21.3.2019) (Grifo nosso)
+    “RECURSO EXTRAORDINÁRIO – FORMALIDADE – AUSÊNCIA DE INDICAÇÃO DO PRECEITO DA CONSTITUIÇÃO FEDERAL TIDO POR OFENDIDO – VERBETE Nº 284 DA SÚMULA DO SUPREMO. É inadmissível o recurso extraordinário quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia. AGRAVO – MULTA – ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. Se o agravo é manifestamente inadmissível ou improcedente, impõe-se a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil de 2015, arcando a parte com o ônus decorrente da litigância protelatória”. (ARE 1.153.697 AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe 20.2.2019)
+    Ainda que superado esse óbice, verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto na Súmula 279 do STF.
+    Ademais, a matéria debatida na origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 9, p. 12-13), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 30 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
