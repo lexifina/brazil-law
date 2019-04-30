@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido de liminar, apresentado por A D M Negócios Imobiliários LTDA, em face do Juízo Federal da 3ª Vara Cível da Seção Judiciária do Maranhão e do Juízo do Direito da Vara Única de Pindaré-Mirim/MA.
+Afirma, a suscitante, ter ajuizado ação de imissão de posse em março de 2018, distribuída ao Juízo Federal da 3ª Vara Cível da Seção Judiciária do Maranhão, em face do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, do Governo do Estado do Maranhão, do Município de Pindaré-Mirim/MA e outros posseiros, objetivando a imissão definitiva da posse do autor em imóvel localizado em Pindaré-Mirim/MA.
+Aduz que, por outro lado, o Município de Pindaré-Mirim/MA ajuizou, em junho de 2018, ação de interdito proibitório em face da suscitante, sendo o processo distribuído ao Juízo de Direito da Vara Única de Pindaré-Mirim/MA, ficando, assim, caracterizado conflito de competência a ser dirimido por esta Corte.
+O pedido de liminar foi indeferido, durante o recesso forense, pela Presidência desta Corte (fls. 21/22), e os Juízos suscitados apresentaram informações às fls. 27/33 e 35/37. Parecer do Ministério Público Federal às fls. 38/40 opinando pelo não conhecimento do conflito.
+Assim postos os fatos, verifico que o Juízo da 3ª Vara Federal Cível do Maranhão reconheceu a ilegitimidade do IPHAN para figurar no polo passivo da demanda, declinando da competência para processar e julgar o feito à Justiça Estadual, não estando, assim, caracterizado o alegado conflito de competência.
+Em face do exposto, não conheço do conflito.
+Intimem-se.
