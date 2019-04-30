@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal de Taubaté, assim ementado:
+    “Recurso Inominado – Ação Anulatória de Débito Fiscal – Incidência de ITCMD – Alegação de contrato de empréstimo e erro material na declaração do imposto de renda – Acervo probatório insuficiente para comprovar que houve o retorno do dinheiro ao patrimônio do cônjuge – Aplicação de multa no percentual de 100% do valor do tributo – Não violação do art. 150, IV da Constituição Federal – Entendimento do Supremo Tribunal Federal – Recurso conhecido e improvido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, IV, e 155, I, da CF. Sustenta que: (i) a multa aplicada, no importe de 100% (cem por cento) do valor do tributo, tem caráter manifestamente confiscatório; (ii) não incide o ITCMD sobre operações de empréstimo; (iii) a questão controvertida guarda semelhança com a matéria a ser discutida no Tema 816 da sistemática da repercussão geral.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    O acórdão recorrido decidiu a controvérsia com suporte na legislação ordinária e a admissibilidade da presente irresignação tornaria possível a alegação de ofensa indireta, oblíqua ou reflexa à Constituição, o que é inadmissível.
+    Posto isso, nego admissibilidade ao Recurso Extraordinário interposto”.
+    A pretensão recursal não merece prosperar.
+    De início, ressalto que a discussão posta nestes autos não guarda semelhança com aquela a ser discutida no RE 882.461-RG (Tema 816). No caso ora em exame, a parte recorrente pretende ver afastada multa fiscal punitiva aplicada no importe de 100% do valor do tributo. No mencionado recurso paradigma, esta Corte irá decidir se as multas fiscais moratórias fixadas no patamar superior a 20% podem ser consideradas confiscatórias.
+    Quanto à ocorrência do fato gerador do ITCMD, vale destacar que a controvérsia destes autos cinge-se a definir, para fins de incidência do ITCMD, a natureza jurídica dos valores recebidos.
+    Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional local (Lei Estadual nº 10.705/2000) e do acervo probatório dos autos, providência vedada em recurso extraordinário. A hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido, confiram-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ITCD. NÃO OCORRÊNCIA DO FATO GERADOR. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO IMPROVIDO.
+    I – Para dissentir da conclusão adotada pelo Tribunal a quo acerca da não ocorrência do fato gerador do ITCD, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 desta Corte, bem como seria imprescindível a interpretação da legislação infraconstitucional pertinente, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta, o que inviabiliza o recurso extraordinário.
+    II – Agravo regimental improvido.” (RE 726.677-AgR, Rel. Min. Ricardo Lewandowski)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imposto sobre Transmissão Causa Mortis. Incidência sobre resíduos salariais. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Enunciados 280 e 279 da Súmula do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” ( ARE 851.285-AgR, Rel. Min. Gilmar Mendes)
+    Quanto ao suposto caráter confiscatório da multa aplicada, cumpre registrar que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 736.090-RG (Tema 863 da RG), reconheceu a repercussão geral da matéria em exame. Confira-se a ementa:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MULTA FISCAL QUALIFICADA. SONEGAÇÃO, FRAUDE E CONLUIO. 150% SOBRE A TOTALIDADE OU DIFERENÇA DO IMPOSTO OU CONTRIBUIÇÃO NÃO PAGA, NÃO RECOLHIDA, NÃO DECLARADA OU DECLARADA DE FORMA INEXATA (ATUAL § 1º C/C O INCISO I DO CAPUT DO ARTIGO 44 DA LEI FEDERAL Nº 9.430/1996). VEDAÇÃO AO EFEITO CONFISCATÓRIO. MATÉRIA CONSTITUCIONAL. QUESTÃO RELEVANTE DOS PONTOS DE VISTA ECONÔMICO E JURÍDICO. TRANSCENDÊNCIA DE INTERESSES. REPERCUSSÃO GERAL RECONHECIDA”. (RE 736.090-RG, Rel. Min. Luiz Fux, Tema 863 da RG)
+    No julgamento do referido paradigma, serão estabelecidos parâmetros para aplicação da multa fiscal qualificada.
+    Diante do exposto:
+    (i) em relação ao alegado caráter confiscatório da multa aplicada, com base no art. 1.036, do CPC/2015, e no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral;
+    (ii) em relação aos demais pontos, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 30 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
