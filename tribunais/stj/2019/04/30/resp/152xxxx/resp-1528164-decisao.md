@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por SOCIEDADE COMERCIAL DE COMBUSTÍVEL EBENEZER LTDA. - ME e outra contra acórdão proferido pelo TJMG assim ementado (e-STJ fl. 293):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - REDAÇÃO DADA PELA LEI nº 11.382106 - REQUISITOS DO ART. 739-A, §1º, DO CPC - SUSPENSÃO DA EXECUÇÃO - EXCEPCIONALIDADE - BEM DE FAMÍLIA - RECURSO A QUE SE DÁ PROVIMENTO.
+- Somente em casos excepcionais e desde que preenchidos os requisitos necessários (art.739-A, §1º), é que se poderá atribuir o efeito suspensivo aos embargos do executado. Ausentes tais requisitos, impõe-se a o prosseguimento da execução.
+- Não comprovado o risco de dano grave, de incerta ou difícil reparação, não se justifica a concessão do efeito suspensivo, devendo o feito executivo ter o seu regular e necessário prosseguimento.
+- A impenhorabilidade do bem de família prevista na Lei nº8009/90, pressupõe a prova pelo interessado de que o bem se enquadra na exceção legal.
+Os embargos de declaração foram acolhidos (e-STJ fls. 324/327).
+Nas razões do recurso especial (e-STJ fls. 331/367), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 131, 165, 458 e 535 do CPC/1973 pela omissão quanto ao risco de grave dano devido à nulidade da citação por edital.
+Indicou inobservância dos arts. 231 e 739-A, § 1º, do CPC/1973 e 3º da Lei n. 8.009/1990, por considerar necessária a concessão de efeito suspensivo nos embargos à execução, cujo prosseguimento pode causar dano irreparável, além de o imóvel penhorado ter características de bem familiar.
+Juízo de admissibilidade positivo (e-STJ fls. 389/390).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso, apesar de discutido o tema da nulidade da citação, matéria de ordem pública, não houve seu exame pelo Tribunal de origem.
+Assim, o voto condutor do acórdão de julgamento dos declaratórios não se manifestou de forma satisfatória, caracterizando a efetiva ofensa ao art. 535 do CPC/1973, máxime porque a análise das questões articuladas nos embargos é imprescindível para a solução da lide. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ARTIGO 535 DO CPC. OMISSÃO CARACTERIZADA. ANULAÇÃO DO JULGADO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. É imprescindível para o deslinde da questão a manifestação pelo Tribunal de origem acerca do pedido da agravada de repetição de indébito em dobro dos valores cobrados pelo recorrido, ante a ausência de engano justificável.
+2. Esclareça-se que, apesar de instado a se manifestar sobre tal ponto, o Tribunal a quo somente declarou a necessidade de repetir o indébito na forma simples sem fundamentação alguma. É necessário a análise da presença do suposto engano justificável pela Instância de origem, pois apenas dessa forma poderá haver alguma avaliação do tema por Esta Corte. Resta configurada a omissão do julgado, apto a justificar a sua anulação por este Tribunal Superior.
+3. Sendo assim, mantenha-se a decisão agravada, determinando o retorno dos autos ao Tribunal de origem a fim de que profira novo julgamento, desta vez, se pronunciando a respeito da questão levantada.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 47.520/RJ, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/10/2011, DJe 18/10/2011.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROVIMENTO PARCIAL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO EXISTENTE. DEMAIS ASPECTOS MANTIDOS.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguida como existente no decisum.
+2. Não apreciadas as nulidades alegadas, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado. Assim, não ocorre contrariedade ao art. 535, incs. I e II, do CPC, quando o Tribunal de origem decide todas as questões postas ao seu exame, com a fundamentação que entende adequada. Não há que se confundir entre pronunciamento contrário aos interesses da parte e ausência de fundamentação ou negativa de prestação jurisdicional.
+3. À falta de prequestionamento, inviável o exame da alegada afronta aos arts. 458, III, e 463 do CPC, o que faz atrair o enunciado da Súmula 282/STF.
+4. Tendo o Tribunal a quo lastreado a sua conclusão a partir da análise minuciosa das circunstâncias fáticas dos autos, não há como adentrar em tais matérias, sem rever o conjunto fático-probatório dos autos, o que é defeso, a teor da Súmula 7/STJ.
+5. O dissídio não logrou aperfeiçoar-se seja porque não observados os requisitos de sua configuração (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC), seja porque, no caso, há particularidade não divisada nos arestos trazidos a confronto, o que afasta a similitude fática entre os julgados.
+6. Agravo regimental parcialmente provido, para conhecer, em parte, do recurso especial e, nessa extensão, dar-lhe provimento, decretando-se a nulidade do acórdão dos embargos de declaração, e, via de consequência, determinar o retorno dos autos à Corte de origem, a fim de que se manifeste, de forma expressa, a respeito do quanto alegado pelo recorrente em sede declaratória, relativamente à questão alusiva aos arts. 512 e 515 do CPC (existência de reformatio in pejus no julgado).
+(AgRg no REsp 926.426/RJ, Relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 7/4/2011, DJe 4/5/2011.)
+No caso concreto, o reconhecimento da existência de omissão e contradição impõe o retorno dos autos ao Tribunal a quo para que seja proferido novo julgamento da questão suscitada nos declaratórios.
+Diante do exposto, DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que se manifeste sobre a matéria articulada nos embargos de declaração, resultando prejudicada a análise dos demais dispositivos legais.
+Publique-se e intimem-se.
