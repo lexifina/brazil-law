@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESILIÇÃO DE PROMESSA DE COMPRA E VENDA POR AÇÃO DOS PROMITENTES COMPRADORES. RETENÇÃO DE 20% DO MONTANTE PAGO. ENTENDIMENTO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por MIRANTE DO BOSQUE EMPREENDIMENTO IMOBILIÁRIO SPE LTDA., com fundamento na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 156):
+ APELAÇÃO - Ação de Rescisão Contratual com Devolução de Quantias Pagas - Instrumento Particular de Compromisso de Venda e Compra de Imóvel - Ação ajuizada pelos compromissários compradores, requerendo a devolução integral das parcelas pagas - Reconvenção, pleiteando a aplicação da cláusula resolutiva do contrato - Sentença que julgou a ação parcialmente procedente e improcedente a reconvenção - Inconformismo da ré, requerendo a aplicação da cláusula resolutiva do contrato com a retenção de 5% do valor do negócio - Descabimento - Manifesta abusividade da cláusula resolutiva - A retenção de 20% (vinte por cento) do valor pago é suficiente para atender a compensação das despesas efetuadas pela ré - Recurso desprovido.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 170-173).
+No recurso especial, a recorrente apontou violação dos arts. 418, 419 e 420 do Código Civil.
+Esclareceu que se insurgiu contra o acórdão que fixou a retenção de apenas 20% (vinte por cento) do valor efetivamente pago pelos recorridos, montante referente apenas a pagamento parcial do preço relativo à unidade residencial, cuja compra e venda fora objeto de compromisso, do qual houve a desistência dos promitentes compradores.
+Frisou que a quantia deferida à insurgente em razão da resilição unilateral não cobre os custos administrativos e publicidade nem os gastos com corretagem. Informa que somente o despendido com comissão de corretagem foi de 3% (três por cento) do valor do negócio, razão por que merece reforma o decisum para elevar o percentual de retenção do valor pago (e-STJ, fls. 176-183).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 192-200).
+Contraminuta apresentada (e-STJ, fls. 203-211).
+Brevemente relatado, decido.
+O teor dos arts. 418, 419 e 420 do Código Civil não foi objeto de prequestionamento na segunda instância, embora julgados os embargos de declaração opostos ao acórdão. Além disso, a recorrente não alegou ofensa ao art. 1.022 do novo Código de Processo Civil em seu recurso especial, circunstância que atrai a aplicação da Súmula 211/STJ.
+No mais, a retenção do percentual de 20% (vinte por cento) do valor pago pelos promitentes compradores em razão da resilição contratual não destoa da jurisprudência desta Corte Superior.
+A propósito:
+DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. INADIMPLÊNCIA DO COMPROMISSÁRIO COMPRADOR. RESSARCIMENTO DO PROMITENTE VENDEDOR PELA UTILIZAÇÃO DO IMÓVEL DURANTE O PERÍODO EM QUE O CONTRATO FOI CUMPRIDO. CABIMENTO.
+1. A rescisão de um contrato exige que se promova o retorno das partes ao status quo ante, sendo certo que, no âmbito dos contratos de promessa de compra e venda de imóvel, em caso de rescisão motivada por inadimplência do compromissário comprador, a jurisprudência do STJ se consolidou no sentido de admitir a retenção de 20% das prestações pagas, mais as despesas referentes ao recolhimento de impostos, taxas de condomínio, seguro e outros débitos exigidos até o habite-se, mais as perdas e danos pela utilização do imóvel, considerando o valor correspondente à locação durante o período entre a mora e a reintegração.
+2. A retenção de percentual sobre o valor das prestações pagas visa, entre outras coisas, a ressarcir o promitente vendedor pela utilização do imóvel durante o período em que o contrato foi cumprido.
+3. Recurso especial dos primeiros recorrentes não provido. Recurso especial do segundo recorrente provido.
+(REsp 963.073/DF, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/03/2011, DJe 16/04/2012)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL POR CULPA DO ADQUIRENTE DO IMÓVEL. RETENÇÃO DE 10% DOS VALORES DESPENDIDOS. CABIMENTO. RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido está em conformidade com a jurisprudência desta Corte de Justiça, segundo a qual, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, é possível a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga. 2. No tocante aos honorários advocatícios, tem-se que a parte autora foi vencedora em todos os pedidos, razão pelo qual a sentença fixou a condenação exclusiva da parte recorrente em 10% do valor de obrigação de pagar, em observância dos limites de 10% a 20% do valor devido, nos termos do art. 85 do NCPC (art. 20 do CPC/1973). Na espécie, não restou demonstrada a alegada irrisoriedade no percentual fixado na origem.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1285480/DF, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 29/08/2018)
+Logo, é inviável o conhecimento do recurso especial por incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% (um por cento) do valor da condenação.
+Publique-se.
