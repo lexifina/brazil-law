@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de RODRIGO JONAS TAVARES contra acórdão do Tribunal de Justiça do Estado de São Paulo (0045936-51.2010.8.26.0405).
+O paciente foi condenado, em primeiro grau, como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas), a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado.
+Interposta apelação, por ambas as partes, o Tribunal proveu parcialmente apenas a da defesa, reduzindo a pena ao patamar de 5 anos e 10 meses de reclusão, nestes termos:
+ ..
+A MMª. Juíza a quo, na primeira fase da dosimetria, atenta ao disposto no artigo 59 do CP, fixou a pena-base, para o réu Renaldo, no mínimo legal (05 anos de reclusão e pagamento de 500 dias-multa, no valor unitário mínimo legal), porque nenhuma circunstância judicial é desfavorável, e, para o corréu Rodrigo, 1/6 acima do mínimo legal, em 05 anos e 10 meses de reclusão, mais pagamento de 583 dias-multa, no valor unitário mínimo legal, em razão dos maus antecedentes (fls. 18 do apenso).
+Consigne-se, por oportuno, que, ainda que tenha transcorrido mais de 05 anos entre a data do cumprimento ou extinção da pena e a infração posterior, tal fato, nos termos do artigo 64, inciso I, do Código Penal, só afasta a reincidência.
+ ..
+Na segunda fase da dosimetria, ausentes circunstâncias agravantes ou atenuantes, a pena do réu Renaldo restou inalterada.
+Já para o réu Rodrigo, reconhecida a circunstância agravante da reincidência (fls. 19 do apenso), a sentenciante aumentou a pena em 1/6, resultando em 06 anos, 09 meses e 20 dias de reclusão e pagamento de 680 dias-multa. Ressalte-se que, conforme certidão de fls. 19 do apenso e informação da execução criminal (fls. 12 do apenso), entre a data do cumprimento da pena e a infração posterior, ora apreciada, não decorreram mais de cinco anos, caracterizando a reincidência, nos termos do artigo 64, inciso I, do Código Penal.
+Todavia, nesse ponto, fiquei vencido pela douta maioria, que entendeu por bem afastar o aumento da pena-base em razão dos maus antecedentes do réu Rodrigo, com fundamento em condenação anterior atingida pelo quinquênio depurador da reincidência, fixando a pena-base no piso mínimo e, na etapa seguinte, manter o aumento de 1/6 pela reincidência, resultando em 05 anos e 10 meses de reclusão e 583 dias-multa, no piso mínimo.
+Na derradeira etapa, considerando que o acusado Renaldo é primário e não tem maus antecedentes, bem como por inexistirem evidências de que esteja envolvido com organização criminosa ou se dedique à atividade criminosa, a sentenciante reduziu a pena no patamar máximo de 2/3, nos termos do artigo 33, § 4º, da Lei nº 11.343/06, resultando em 01 ano e 08 meses de reclusão e pagamento de 166 dias-multa, no valor unitário mínimo.
+Quanto ao corréu Rodrigo, agiu com acerto a MMª. Juíza a quo ao deixar de aplicar o referido benefício, por ser ele reincidente, o que torna irrelevante qualquer discussão quanto aos demais requisitos para sua concessão.
+Com relação ao réu Rodrigo, incabível a substituição da pena privativa de liberdade por restritiva de direitos, não apenas em razão da quantidade de pena aplicada e da natureza do crime, que gera graves prejuízos à sociedade, merecendo, por isso mesmo, tratamento mais severo a partir da Carta Constitucional, a exemplo dos crimes hediondos (art. 5º, XLIII), aos quais o legislador entendeu por bem equiparar o tráfico de drogas (art. 2º, Lei 8.072/90), mas, notadamente, face à reincidência. Pelas mesmas razões, não há que se cogitar da fixação de outro regime, que não o fechado, estabelecido na sentença (fls. 116/119).
+No presente writ, o impetrante requer, em liminar e no mérito, a fixação do regime inicial semiaberto, tendo em vista as circunstâncias judiciais favoráveis e o quantum de pena, em observância ao art. 33 do Código Penal.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela denegação da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. REGIME INICIAL FECHADO. PRETENSÃO DE FIXAÇÃO DE REGIME INICIAL SEMIABERTO. INVIABILIDADE. PENA SUPERIOR A 4 ANOS. RÉU REINCIDENTE. Parecer pela denegação da ordem (fl. 129).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque a jurisprudência desta Corte é pacífica no sentido de que a reincidência do réu e o quantum da pena, superior a 4 anos, justificam a fixação do regime inicial fechado, nos termos do art. 33 c/c o art. 59, ambos do Código Penal.
+A propósito:
+HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PENAS-BASE DOS PACIENTES. EXPRESSIVA DIVERSIDADE E NATUREZA ESPECIALMENTE DELETÉRIA DE PARTE DA DROGA APREENDIDA, EM QUANTIDADE INEXPRESSIVA. CRITÉRIO INIDÔNEO PARA A EXASPERAÇÃO. REDIMENSIONAMENTO DAS PENAS. REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA. AFASTAMENTO DO DESVALOR ATRIBUÍDO À VALORAÇÃO NEGATIVA DA NATUREZA E QUANTIDADE DE ENTORPECENTE. CRITÉRIO SUFICIENTE PARA OBSTAR A FIXAÇÃO DE REGIME PRISIONAL MAIS BRANDO. SUBSTITUIÇÃO DAS PENAS. INVIABILIDADE. PENAS SUPERIORES A 4 ANOS DE RECLUSÃO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. Em virtude do quantum da condenação e da reincidência do paciente [NOME], impõe-se a manutenção do regime inicial fechado e a negativa de substituição da pena.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente [NOME] para 5 anos e 10 meses de reclusão e 583 dias-multa, mantido o regime inicial fechado, enquanto que a pena do paciente [NOME] fica estabelecida em 1 ano e 8 meses de reclusão e 166 dias-multa, fixado o regime inicial aberto, com substituição da pena privativa de liberdade por restritivas de direitos, a critério dos Juízo das Execuções Criminais (HC 482.656/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/03/2019).
+HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. AFERIÇÃO SOBRE A CONFIGURAÇÃO DO CRIME DE TRÁFICO. ANÁLISE DESCABIDA NA VIA ELEITA. PENA SUPERIOR A 4 ANOS. PACIENTE REINCIDENTE. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CONHECIMENTO EM PARTE E, NESSA EXTENSÃO, DENEGADO.
+ ..
+2. Na espécie, tendo a reprimenda final alcançado 5 anos e 10 meses de reclusão, e tratando-se de réu reincidente, inviável a fixação do regime semiaberto, nos termos do art. 33, § 2.º, alínea b, do Código Penal.
+3. Habeas corpus conhecido em parte e, nessa extensão, denegado (HC 458.877/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/10/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
