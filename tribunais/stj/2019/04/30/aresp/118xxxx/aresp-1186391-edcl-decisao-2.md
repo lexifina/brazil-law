@@ -1,0 +1,31 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por MARIA [NOME] MORAES ROCHA contra a decisão de fls. 755-760, que conheceu do agravo para dar provimento ao recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese, que "há omissão na apreciação do pedido de condenação em honorários advocatícios, apresentado desde a inicial até o AREsp".
+Na hipótese, alega que havia pedido de condenação no percentual de 20% sobre o valor da condenação, nos termos do art. 85, § 2º, do CPC/2015, o que não foi analisado pelo relator.
+É o relatório.
+Decido.
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+Na presente hipótese, alega a parte embargante que teria havido omissão quanto à fixação dos honorários advocatícios no patamar de 20% sobre o valor da condenação, conforme preconiza o art. 85, § 2º, do CPC/2015.
+No caso dos autos, a sentença fixou os honorários no valor de R$ 2.500,00 (dois mil e quinhentos reais), na forma do art. 20, §§ 3º e 4º, do CPC/1973, o que foi mantido pelo acórdão proferido pelo Sodalício a quo.
+Analisando o recurso especial, entendi que seria o caso de lhe dar provimento, com a consequente inversão dos ônus sucumbenciais. Ou seja, ficam mantidos os valores e percentuais fixados na origem, mas com a devida inversão, tendo em vista o provimento do apelo.
+Veja-se que não há qualquer omissão a ser sanada, uma vez que houve manifestação acerca dos ônus sucumbenciais, não havendo qualquer vício ser sanado, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma coerente e lógica.
+3. Por oportuno, destaco que é descabida a pretensão no sentido da utilização das regras do CPC/2015 em relação à verba honorária, uma vez que, conforme a linha de entendimento do STJ, o marco temporal do regramento atinente à fixação dos honorários advocatícios é a data da prolação da sentença.
+Desse modo, na hipótese do autos, considerando que a sentença foi publicada na vigência do CPC/1973 (fl. 318), aplica-se o regime previsto no art. 20 do CPC/1973 para a fixação dos honorários advocatícios.
+A propósito (grifamos):
+PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. VIGÊNCIA DO CPC DE 1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. MAJORAÇÃO. TRABALHO ADICIONAL REALIZADO EM GRAU RECURSAL. ART. 85, § 11, DO CPC/2015. INAPLICABILIDADE NO CASO CONCRETO.
+1. Com efeito, nos termos do art. 85, § 11, do CPC/2015, é impositiva a majoração, de ofício, dos honorários fixados na origem no caso de não conhecimento ou desprovimento do recurso interposto contra decisão publicada na vigência do CPC/2015.
+2. Contudo, o STJ entende que as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova quando a sentença, que os determina, como ato processual, se baseou na antiga legislação, pois o decisum deve ser considerado o marco temporal para a aplicação das regras fixadas pelo CPC/2015, incidência do Princípio Tempus Regit Actum.
+3. No caso sub examine, a verba advocatícia foi fixada pela sentença sob a vigência do antigo Código de Processo Civil. Inaplicável, portanto, a majoração de honorários advocatícios nos termos do art.
+85, § 11, do NCPC.
+4. Recurso Especial não provido.
+(REsp 1776955/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2018, DJe 04/02/2019)
+AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO. RECONHECIMENTO DA ILIQUIDEZ DO TÍTULO. EXTINÇÃO DO CUMPRIMENTO. DETERMINAÇÃO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. LEI NOVA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, sob a regência do CPC/73, decidiu pelo cabimento de condenação em honorários advocatícios em caso de provimento à impugnação ao cumprimento de sentença, no rito do julgamento dos recursos repetitivos, o REsp 1134186, em 01/08/2011, nos seguintes termos: "RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA.
+IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. 1. Para efeitos do art. 543-C do CPC: 1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença. 1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC. 2. Recurso especial provido." (REsp 1134186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 01/08/2011, DJe 21/10/2011).
+2. A sentença que conferiu provimento do pedido formulado em impugnação ao cumprimento de sentença foi exarada em 04/08/2016, ou seja, após a entrada em vigor do novo Código de Processo Civil, em 18/03/2016. Aludido marco temporal, atrai a incidência das normas processuais do CPC/15, nos termos do enunciado de súmula administrativa n.º 03, do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+3. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1299452/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018)
+4. Ciente de tais termos, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se verifica in casu.
+5. Ante o exposto, rejeito os embargos de declaração opostos por [NOME].
+Publique-se. Intimem-se.
