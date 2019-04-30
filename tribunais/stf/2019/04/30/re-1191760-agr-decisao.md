@@ -1,0 +1,20 @@
+DECISÃO:
+    Agravo interno cujo objeto é decisão monocrática que negou seguimento ao recurso extraordinário. A parte agravante alega que “a jurisprudência dessa Suprema Corte registra precedentes reconhecendo a natureza constitucional da questão, exatamente sob a ótica invocada pelo recorrente, qual seja, da proibição da proteção deficiente aos direitos fundamentais constitucionalmente assegurados”.
+    Reconsidero a decisão monocrática publicada em 14.03.2019.
+    Passo à análise do recurso.
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO FISCAL. CONTINUIDADE DELITIVA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO ESTADO. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL. PRECEDENTES.
+    O Superior Tribunal de Justiça entende que "[n]os termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição" (AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Corte Especial, Rel. Min. Humberto Martins, DJe de 24/11/2016).
+    Agravo regimental desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que “o acórdão recorrido, ao desconsiderar o “acórdão confirmatório” da condenação como marco interruptivo, contrariou as normas constitucionais contidas no art. 5º, caput, LIV, LVII e LXXVIII, no art. 6º, caput, e no art. 144, caput, da CF. Ao emitir juízo de valor acerca da inteligência do art. 117, IV, do CP, o STJ, não procedeu à denominada interpretação conforme a Constituição e acabou por desrespeitar o princípio da presunção de inocência (CF, art. 5º, LVII), a garantia da razoável duração do processo (CF, art. 5º, LXXVIII), o direito à segurança (CF, art. 5º, caput, art. 6º, caput, e art. 144, caput) e o devido processo legal substantivo, na dimensão da proibição da proteção deficiente (CF, art. 5º, LIV)”.
+    O recurso merece ser provido, tendo em vista que o acórdão recorrido está em desarmonia com a jurisprudência do Supremo Tribunal Federal no sentido de que o acórdão que confirma a sentença condenatória é marco interruptivo do prazo prescricional. Nessa linha, vejam-se o HC 136.392, Rel. Min. Marco Aurélio; o HC 138.086, redator para o acórdão Min. Alexandre de Moraes; o ARE 1.130.096-AgR, o qual fui designado redator para o acórdão; e o RE 1.182.718-AgR, Rel. Min. Alexandre de Moraes, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. POSSIBILIDADE. AUSÊNCIA DE INÉRCIA DO ESTADO. RESPEITO AO DEVIDO PROCESSO LEGAL.
+    1. A prescrição é, como se sabe, o perecimento da pretensão punitiva ou da pretensão executória pela inércia do próprio Estado. No art. 117 do Código Penal que deve ser interpretado de forma sistemática todas as causas interruptivas da prescrição demonstram, em cada inciso, que o Estado não está inerte.
+    2. Não obstante a posição de parte da doutrina, o Código Penal não faz distinção entre acórdão condenatório inicial e acórdão condenatório confirmatório da decisão. Não há, sistematicamente, justificativa para tratamentos díspares.
+    3. A ideia de prescrição está vinculada à inércia estatal e o que existe na confirmação da condenação é a atuação do Tribunal. Consequentemente, se o Estado não está inerte, há necessidade de se interromper a prescrição para o cumprimento do devido processo legal.
+    4. Agravo regimental a que se nega provimento.”
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. no art. 21, § 2º, do RI/STF, dou provimento ao recurso. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 30 de abril de 2019.
+Ministro Luís Roberto Barroso
+Relator
