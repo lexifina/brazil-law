@@ -1,0 +1,46 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. FUMUS COMISSI DELICTI. PERICULUM LIBERTATIS. PERICULOSIDADE DO RECORRENTE. GRAVIDADE CONCRETA. RISCO À INSTRUÇÃO CRIMINAL. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. As instâncias ordinárias indicaram elementos que demonstram o fumus comissi delicti e a periculosidade do acusado, evidenciada pela gravidade concreta do delito - homicídio praticado por motivo torpe, em concurso com outro agente -, com o destaque de que "apenas não alcançaram o óbito da vítima [NOME] por pensarem que já estava morta". Ademais, ficou registrado que testemunhas haveriam sido "induzidas a apresentar álibis inexistentes", o que revela eventual intenção de turbar a instrução criminal.
+3. Recurso não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CARLOS ANDRE BEZERRA, recorrente neste recurso em habeas corpus, alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC n. 1000003805-83.2018.8.17.0000.
+Requer, liminarmente, a expedição de alvará de soltura, por considerar inidôneos os fundamentos adotados para a decretação da sua prisão preventiva, pela suposta prática dos crimes de homicídio qualificado e tentativa de homicídio qualificado.
+Indeferida a liminar (fls. 336-337) e prestadas as informações (fls. 342-359), veio o parecer do Ministério Público Federal (fls. 363-365), que opinou pelo não provimento do recurso.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. FUMUS COMISSI DELICTI. PERICULUM LIBERTATIS. PERICULOSIDADE DO RECORRENTE. GRAVIDADE CONCRETA. RISCO À INSTRUÇÃO CRIMINAL. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. As instâncias ordinárias indicaram elementos que demonstram o fumus comissi delicti e a periculosidade do acusado, evidenciada pela gravidade concreta do delito - homicídio praticado por motivo torpe, em concurso com outro agente -, com o destaque de que "apenas não alcançaram o óbito da vítima [NOME] por pensarem que já estava morta". Ademais, ficou registrado que testemunhas haveriam sido "induzidas a apresentar álibis inexistentes", o que revela eventual intenção de turbar a instrução criminal.
+3. Recurso não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Extrai-se dos autos que o paciente foi denunciado, junto com outro corréu, em 2/5/2018, pela suposta prática dos delitos descritos nos arts. 121, § 2º, I, III e IV, e 121, § 2º, I, III e IV, c/c o art. 14, II, na forma do art. 69, todos do Código Penal.
+A denúncia foi recebida em 23/5/2018 e a prisão preventiva, decretada no mesmo dia, sob a seguinte motivação:
+A magnitude da lesão causada com o cometimento do crime de homicídio e tentativa de homicídio, com repercussões na ordem pública, desde que somada a outros fatores, são causas que ensejam o decreto de prisão preventiva, nos termos de preceito que se amolda ao previsto no Código de Processo Penal.
+Apesar de não se limitar somente a essa finalidade, forçoso repisar o entendimento de que a garantia da ordem pública também se consubstancia como risco considerável de reiteração delituosa por parte do acusado.
+In casu, pontifique-se que constam elementos de informação evidenciando que ambos os acusados ainda possuem a suposta intenção hostil que motivou a empreitada criminosa, considerando que apenas não alcançaram o óbito da vítima [NOME] por pensarem que já estava morta, convencendo esta magistrada acerca da existência de risco considerável de reiterações delituosas por parte dos acusados, caso permaneçam em liberdade, seja porque demonstrara tratarem de pessoas propensas à prática delituosa, seja porque, se soltos, teriam os mesmos estímulos relacionados com as infrações cometidas.
+ ..
+O modus operandi demonstra a periculosidade dos acusados, pondo - consequentemente em risco o afloramento da verdade real dos,fatos perante a Justiça.
+Ademais, considerando o contexto fático infracional apurado durante o inquérito, qual seja, um homicídio e uma tentativa de homicídios, ambos qualificados, e, outrossim, que há elementos de informação apontando que testemunhas foram induzidas a apresentar álibis inexistentes, a teor do relatório do caderno investigativo, do mesmo modo constato que a imposição dá constrição cautelar dos acusados se faz necessária para impedir que perturbem ou impeçam a livre produção probatória, comprometendo a busca da verdade (fls. 125, destaquei).
+O Tribunal de origem, ao denegar a ordem no writ originário, consignou:
+Consoante bem asseverou a magistrada de primeiro grau à fl. 261 /261v, no tocante à necessidade-de garantir a ordem" pública, "constam elementos de informação evidenciando que ambos os acusados ainda possuem a suposta intenção hostil que motivou a empreitada criminosa, considerando que apenas não alcançaram o óbito da vítima [NOME] por pensarem que já estava morta", bem como "há elementos" de- informação apontando que testemunhas foram induzidas a apresentar álibis inexistentes", sendo necessária a constrição cautelar para garantir a regular instrução criminal (fl. 298).
+De acordo com as informações prestadas pela autoridade apontada como coatora, no dia 27/11/2018, foi realizada audiência de instrução e pugnou a defesa do insurgente pela revogação da prisão preventiva. Após consulta à página eletrônica do TJPE, verificou-se que o pleito de liberdade foi indeferido em 25/3/2019.
+II. Prisão preventiva
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+As instâncias ordinárias indicaram elementos que demonstram o fumus comissi delicti e a periculosidade do acusado, evidenciada pela gravidade concreta do delito - homicídio praticado por motivo torpe, em concurso com outro agente -, com o destaque de "que apenas não alcançaram o óbito da vítima [NOME] por pensarem que já estava morta". Ademais, ficou registrado que testemunhas haveriam sido "induzidas a apresentar álibis inexistentes", o que revela eventual intenção de turbar a instrução criminal.
+Tais circunstâncias fundamentam a necessidade de manutenção da prisão preventiva do réu até que sobrevenha o encerramento da ação penal, a fim de garantir a ordem pública, a instrução processual e a aplicação da lei penal.
+Ilustrativamente:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS IDÔNEOS. AMEAÇAS ÀS TESTEMUNHAS. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. PRESENÇA DOS PRESSUPOSTOS DO ART. 312 DO CPP. EXCESSO DE PRAZO. INOCORRÊNCIA. SÚMULA 52 DO STJ. PARECER ACOLHIDO.
+1. Segundo o entendimento desta Corte, as ameaças às testemunhas, feitas pelo ora recorrente, representam fundamentação idônea para a prisão cautelar, com base na conveniência da instrução criminal.
+2. Encerrada a instrução processual, não há falar em excesso de prazo da formação da culpa. Incidência da Súmula 52/STJ.
+3. Recurso em habeas corpus improvido.
+(RHC n. 85.300/MG, Rel. Ministro Sebastião Reis Junior, 6ª T., DJe 3/4/2018, destaquei).
+Dessa forma, entendo suficientes as razões invocadas na instância de origem e chanceladas pelo Tribunal a quo para embasar a ordem de prisão do ora paciente, a qual deve ser mantida, porquanto foram contextualizadas em dados concretos dos autos, em atendimento aos vetores contidos no art. 312 do Código de Processo Penal.
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso.
