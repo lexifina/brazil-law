@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto pela RFL SISTEMAS S.A. contra a decisão de e-STJ fls. 348/354, na qual dei parcial provimento ao recurso da FAZENDA NACIONAL para denegar a ordem de mandado de segurança impetrado pela empresa ora recorrente.
+Na decisão agravada, destaquei a divergência entre o entendimento adotado no acórdão recorrido e a atual jurisprudência do STJ, que reconhece a possibilidade de exclusão do Programa de Recuperação Fiscal, com fulcro no art. 5º, II, da Lei n. 9.964/00 (inadimplência), se ficar demonstrada a ineficácia do parcelamento como forma de quitação de débito, considerando-se o valor do débito e das prestações efetivamente pagas (e-STJ fl. 353).
+Irresignada, a empresa contribuinte interpôs o presente recurso de agravo interno, no qual alega, em síntese, que:
+(a) não há no acórdão recorrido elementos que demonstrem que os valores pagos pela empresa seriam irrisórios ou ineficazes para fins de amortização do valor parcelado, pelo contrário, o acórdão teria reconhecido a "legalidade dos valores que estão sendo pagos pela agravante" (e-STJ fl. 363);
+(b) a alteração das conclusões da Corte de origem (que teria atestado a legalidade das prestações pagas) para que se conclua que os valores pagos pela empresa contribuinte seriam irrisórios e ineficazes para a quitação do parcelamento do REFIS, demandaria demandaria o revolvimento de matéria fático-probatória, vedada pela Súmula 7 do STJ, em sede de recurso especial (e-STJ fl. 364).
+A Fazenda não apresentou impugnação (e-STJ fl. 372).
+Passo a decidir.
+Ao analisar as razões expostas na agravo interno (e-STJ fls. 360/367), entendo que a decisão de e-STJ fls. 348/354 deve ser reconsiderada.
+Explico.
+Na hipótese dos autos, o Tribunal de origem manteve a permanência da empresa contribuinte no Programa de Recuperação Fiscal (REFIS), ao entendimento de que a Lei n. 9.964/2000 não contempla possibilidade de exclusão do programa quando o pagamento das parcelas corresponder a valor ínfimo, insuficientes à amortização do débito consolidado.
+Esse posicionamento, no entanto, não encontra respaldo na jurisprudência deste Tribunal Superior, que entende possível a exclusão do REFIS, quando restar caracterizada a situação de inadimplência por equiparação, nas hipóteses em que o valor da parcela adimplida é tão baixo (irrisório) que não possibilita a diminuição do valor do débito, em consideração ao montante global da dívida.
+Ilustrativamente:
+TRIBUTÁRIO. PROCESSUAL CIVIL. REFIS. RECOLHIMENTO DE PARCELA IRRISÓRIA. POSSIBILIDADE DE EXCLUSÃO DO PROGRAMA DE PARCELAMENTO. INEFICÁCIA DA QUITAÇÃO DO DÉBITO. ART. 5º, II, DA LEI 9.964/2000. PRECEDENTES.
+1. Discute-se a possibilidade de exclusão do programa de parcelamento de débitos tributários - REFIS em decorrência de pagamento de parcela em valor irrisório.
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é possível a exclusão do Programa de Recuperação Fiscal - REFIS, com fulcro no art. 5º, II, da Lei 9.964/2000 (inadimplência), se ficar demonstrada a ineficácia do parcelamento como forma de quitação do débito, considerando-se o valor do débito e o valor das prestações efetivamente pagas. Situação em que a impossibilidade de adimplência tem que ser equiparada à inadimplência para efeitos de exclusão do dito programa de parcelamento.
+3. Hipótese em que se demonstrou a ineficácia do parcelamento como forma de quitação do débito, considerando-se o valor do débito e o valor das prestações efetivamente pagas. Logo, in casu, é possível a exclusão do REFIS.
+Agravo interno improvido.
+(AgInt no REsp 1.581.726/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/06/2016, DJe 28/06/2016).
+Ocorre que, na hipótese dos autos, conforme alertou a empresa contribuinte em seu agravo interno, "não há no acórdão recorrido elementos que demonstrem que os valores pagos pela empresa seriam irrisórios ou ineficazes para fins de amortização do valor parcelado, pelo contrário, o acórdão teria reconhecido a "legalidade dos valores que estão sendo pagos pela agravante" (e-STJ fl. 363)".
+Pois bem.
+O exame dos autos põe em evidência que o entendimento adotado pela Corte de origem diverge do posicionamento atual do STJ sobre a questão.
+No entanto, a decisão agravada não pode ser mantida, pois não há no acórdão recorrido elementos que permitam concluir que os valores que estão sendo pagos pela empresa contribuinte sejam ínfimos, a ponto de configurar a hipótese de ineficácia do parcelamento que autorizaria a exclusão da empresa do referido programa.
+Por essas razões, o acórdão proferido pelo Tribunal de origem (e-STJ fls. 233/234) deve ser cassado para que a Corte de origem, atenta ao novo posicionamento jurisprudencial do STJ, renove o julgamento do recurso de apelação lá deduzido.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 348/354, tornando-a sem efeito, e, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial da Fazenda para cassar o acórdão proferido pelo Tribunal de origem (e-STJ fls. 233/243), determinando o retorno dos presentes autos ao eg. Tribunal Regional Federal da 4 ª Região para que renove o julgamento do recurso de apelação lá interposto, atento à diretriz jurisprudencial que o STJ firmou no exame da matéria.
+Publique-se. Intimem-se.
