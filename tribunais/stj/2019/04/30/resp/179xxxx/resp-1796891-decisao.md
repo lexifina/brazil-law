@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios mantendo a condenação de [NOME] à pena de 3 (três) anos e 4 (quatro) meses de reclusão, mais 12 (doze) dias-multa, por infração ao art. 155, §§1º e 4º, incs. I e IV, do Código Penal, alterando para semiaberto o regime prisional, nos termos da seguinte ementa (e-STJ fls. 1218/1219):
+APELAÇÕES CRIMINAIS - DEFESA E ASSISTENTE DE ACUSAÇÃO - FURTO QUALIFICADO - CAIXAS ELETRÔNICOS - CONCURSO DE AGENTES E ARROMBAMENTO - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÃO MANTIDA - DOSIMETRIA - PENA-BASE - CONFISSÃO ESPONTÂNEA - REPOUSO NOTURNO - REGIME - INDENIZAÇÃO POR DANOS MATERIAIS.
+I. É inadmissível a absolvição por falta de provas quando o contexto probatório é uníssono na indicação da autoria e materialidade.
+II. Presente mais de uma qualificadora, as que sobejam podem ser utilizadas na primeira fase da dosimetria.
+III. A confissão espontânea deve ser considerada quando colabora para a elucidação dos fatos. No caso, um dos réus admitiu o furto na companhia de outro indivíduo e confirmou o rompimento de obstáculo.
+IV. Não há incompatibilidade entre o delito qualificado e a causa de aumento do repouso noturno. Precedentes do TJDFT e STJ.
+V. O regime deve ser agravado para o semiaberto, com esteio no §3º do artigo 33 do CP.
+VI.A Lei 11.719/08 alterou o artigo 387 do CPP e incluiu, no inciso IV, o dever de o Magistrado, na sentença condenatória, fixar valor mínimo para a indenização dos danos causados pela infração. Mister que a reparação ex delito obedeça às demais disposições legais e constitucionais. No caso, houve pedido formal do Ministério Público, na denúncia e nas alegações finais, bem como do Assistente de Acusação, nas alegações finais. Aos autos, foram juntados extratos de conferência dos caixas eletrônicos rompidos e a questão foi debatida na instrução. Os réus devem reparar os danos causados à instituição financeira.
+VII. Apelos de [NOME] e VALDINEI desprovidos. Recursos do assistente de acusação parcialmente provido.
+Embargos de declaração assim decididos (e-STJ fl. 1265):
+EMBARGOS DE DECLARAÇÃO - DETRAÇÃO - OMISSÃO.
+I. O acórdão padece de omissão, pois não se referiu à detração.
+II. O pedido de abatimento do tempo de prisão provisória da sanção final é matéria afeta ao Juízo da Execução Penal.
+III. Embargos providos parcialmente sem alteração do julgado.
+Nas razões do recurso especial, fulcrado na alínea "a" do permissivo constitucional, alega a violação do art. 387, §2º, do Código de Processo Penal.
+Aduz que o recorrente permaneceu encarcerado de 28/10/2015 até 12/12/2016 - 01 (um) ano, 01 (um) mês e 15 (quinze) dias - fazendo jus ao regime prisional aberto para o início do cumprimento da pena que lhe foi imposta.
+Contra-arrazoado (e-STJ fls. 1326/1330 e 1331/1334), o recurso foi admitido (e-STJ fls. 1346/1348), manifestando-se o Ministério Público Federal, nesta instância, pelo seu desprovimento, em parecer assim ementado (e-STJ fl. 1375):
+ARESP DE VALDINEI DA SILVA. CRIMINAL. CRIME DE FURTO QUALIFICADO. PENA-BASE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+- Parecer pelo desprovimento do agravo em recurso especial.
+RECURSO ESPECIAL DE [NOME] [NOME] [NOME]. CRIME DE FURTO QUALIFICADO. ARTIGO 387, § 2º, CPP. DETRAÇÃO PENAL. COMPETÊNCIA DO JUÍZO DA VARA DE EXECUÇÕES PENAIS.
+- Parecer pelo desprovimento do recurso especial.
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+Não vislumbro violação do art. 387, § 2º, do CPP.
+Com efeito, a orientação desta Corte Superior de Justiça é no sentido de que o disposto no § 2º do art. 387 do Código de Processo Penal, com redação dada pela Lei n. 12.736/2012, refere-se ao regime inicial de cumprimento de pena, e não à execução penal, devendo o instituto da detração ser apreciado em sede de processo de cognição.
+No caso, contudo, o parâmetro básico de avaliação para fixação do regime inicial (quantum de pena e circunstâncias judiciais) não se altera com aplicação do art. 387, § 2º, do CPP.
+O recorrente, condenado à pena de 3 (três) anos e 4 (quatro) meses de reclusão, teve reconhecidas como desfavoráveis as vetorias relativas à culpabilidade e às circunstâncias do delito, com a fixação da pena-base acima do patamar mínimo, o que motivou o estabelecimento do regime prisional mais gravoso, no caso o semiaberto. Veja os trechos do acórdão recorrido (e-STJ fls. 1226/1229):
+A pena-base foi fixada em 3 (três) anos de reclusão, pelo desabono da culpabilidade (utilizada a qualificadora referente ao rompimento de obstáculo) e as circunstâncias do delito (em razão do montante do dinheiro furtado - R$194.000,00 (cento e noventa e quatro mil reais). A fundamentação é irretocável. A jurisprudência do TJDFT admite, no caso de múltiplas qualificadoras, que uma delas seja utilizada na primeira fase da dosimetria. Nesse sentido: "Havendo mais de uma qualificadora, uma delas servirá para deslocar o crime para o tipo qualificado e as outras poderão ser aferidas pelo Juiz como circunstâncias judiciais, afastando a pena-base do patamar mínimo previsto em lei." (Acórdão n. 1046769, 20140310073826APR, Relator: ROMÃO C. OLIVEIRA, Revisor: ANA MARIA AMARANTE, 1ª TURMA CRIMINAL, Data de Julgamento: 14/09/2017, Publicado no DJE: 19/09/2017. Pág.: 82/89).
+O alto valor subtraído permite desabonar as circunstâncias do delito. Como ponderou o assistente da acusação, deve ser considerado o prejuízo suportado pela instituição financeira tanto pelas cédulas monetárias quanto pela substituição dos caixas eletrônicos destruídos. Não se pode comparar o furto em tela com os de pequena monta.
+ ..
+O regime deve ser agravado para o semiaberto, com esteio no §3º do artigo 33 do CP. Não obstante a primariedade do réu, as circunstâncias judiciais são desfavoráveis. A culpabilidade exacerbada, pelo rompimento de quatro caixas eletrônicos, o prejuízo causado à instituição e o modo de agir do acusado, com audácia e desenvoltura, demonstram que regime mais brando não é adequado para a prevenção e repressão do crime em tela.
+Assim, independente do quantum de pena restante, o cenário revela a adequação do regime intermediário.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. DETRAÇÃO PENAL. TEMPO DE PRISÃO CAUTELAR. SEM ALTERAÇÃO NO REGIME. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INALTERADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A detração do tempo de prisão cautelar não repercutirá no regime prisional, pois conforme se observa, ainda que descontado o referido período de prisão cautelar da pena privativa de liberdade imposta, não haveria alteração do regime inicial fixado (semiaberto), considerando que a reprimenda final não alcançaria patamar inferior a 4 anos.
+2. Agravo regimental desprovido. (AgRg no AREsp 1421642/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/03/2019, DJe 05/04/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. REGIME DE CUMPRIMENTO DE PENA. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. RECURSO EXCLUSIVO DA DEFESA. ALEGAÇÃO DE REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AUSÊNCIA DE AGRAVAMENTO DA PENA. AGRAVO DESPROVIDO.
+1. Embora o tempo de prisão cautelar possa ser computado para a definição do regime inicial de cumprimento da reprimenda, em razão da aplicação da detração penal, a desfavorabilidade das circunstâncias judiciais justificam a escolha de regime mais gravoso.
+2. No caso, a condenação estabelecida é inferior a 4 anos de reclusão mas, ainda que computado o tempo de prisão provisória da recorrente, subsistiria a necessidade de fixação de regime mais gravoso, em virtude da valoração negativa dos antecedentes e da natureza e quantidade das substâncias apreendidas (3 kg de pasta base de cocaína), motivos estes que também autorizaram o aumento na pena-base em 6 (seis) meses.
+3. A jurisprudência desta Corte firmou compreensão de que, ainda que em sede de recurso exclusivo da defesa, é possível a revisão dos fundamentos apresentados na dosimetria da pena, desde que não modificada a quantidade de sanção imposta, sem que tal procedimento caracterize indevida reformatio in pejus.
+4. Agravo regimental desprovido. (AgRg no AREsp 1148526/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/05/2018, DJe 25/05/2018)
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. DETRAÇÃO. DENEGAÇÃO DA ORDEM.
+1. Não obstante a reprimenda final seja inferior a 4 anos de reclusão, é inviável a imposição do regime aberto, haja vista que a pena-base foi fixada acima do mínimo legal, diante da existência de circunstância judicial desfavorável. De rigor, pois, a manutenção do regime inicial semiaberto.
+2. No que tange à aplicabilidade do artigo 387, § 2º, do Código de Processo Penal, mesmo se considerado eventual tempo de prisão cautelar, a fixação do regime semiaberto seria apropriada, in casu, já que a pena definitiva permaneceria em patamar inferior a 4 anos e com a valoração desfavorável de circunstância judicial prevista no artigo 59 do Código Penal, o que de todo modo, acarretaria a imposição do regime intermediário.
+3. Habeas corpus denegado. (HC 411.421/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018)
+Ante o exposto, com fulcro no art. 932, VIII, do CPC, c/c art. 255, §4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
