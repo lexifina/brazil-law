@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Agravo de instrumento. Inventário. Sucessão por colaterais. Direito de representação apenas em favor de filhos de irmãos pré-mortos, que concorram com outros irmãos do de cujus. Situação distinta daqueles irmãos que, vivos quando da abertura da sucessão, faleceram no curso do feito e que, com isso, transmitiram seus bens aos próprios herdeiros. Penhora no rosto dos autos, em virtude de crédito contra um dos herdeiros, que não autoriza qualquer imediata transferência de valores ainda não partilhados, depois de pagas as dívidas do Espólio. Honorários do síndico dativo, de 3% do valor dos bens a partilhar, que no caso não são excessivos, dado o tempo e natureza do trabalho realizado. Demais questões suscitadas não decididas no ato impugnado. Decisão, nos seus limites, mantida. Agravo desprovido, na parte conhecida.” (eDOC 6, p. 119)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II, LV e XXXV; e 97, do texto constitucional.
+    Nas razões recursais, alega-se que a habilitação equivocada dos herdeiros teria violado a legalidade e o direito à herança. (eDOC 7, p. 81-95).
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do código de processo civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Civil) e o conjunto probatório constante dos autos, consignou que o rol de herdeiros habilitados obedeceu a legalidade. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com relação ao rol dos herdeiros, no caso colaterais (o falecido somente tinha irmãos, ao todo sete, sendo quatro pré-mortos), não há reparo a se fazer. E aqui anotando-se dois pressupostos curiais ao exame da questão: um, o de que a transmissão sucessória se dá no momento da morte (saisine); outro, o de que o direito de representação, na linha colateral, transversal ou oblíqua apenas se estabelece em favor dos filhos dos irmãos pré-mortos, quando concorram com irmãos vivos (art. 1.622 do CC/16 e art. 1.853 do CC/02). “ (eDOC 6, p. 123-124).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. SUCESSÕES. HABILITAÇÃO DE HERDEIRO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”
+(AI 802.731 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.2.2013).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil 3. Venda de imóvel. Herança. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. 5. Ausência de argumentos suficientes a infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento. Verba honorária majorada em 10%”. (ARE 1177611 AgR, de minha relatoria, Segunda Turma, DJe 08.04.2019)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DE HERANÇA. MEAÇÃO. COMPANHEIRA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. RECURSO ESPECIAL IMPROVIDO. FUNDAMENTOS INFRACONSTITUCIONAIS DEFINITIVOS. AGRAVO IMPROVIDO. I O acórdão recorrido decidiu a questão com base em normas infraconstitucionais, no caso, o Código Civil.(...)” (AI 699.561 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 8.4.2011).
+    Por fim, quanto à afronta ao art. 97 da Constituição Federal, observo que o tribunal de origem não declarou a inconstitucionalidade de dispositivos da Lei 8.213/91 e da Lei 11.718/2008, nem afastou a sua aplicação por julgá-los inconstitucionais, mas, apenas, no exercício da atividade jurisdicional, interpretou as citadas normas legais. Nesses termos, tendo em vista que o acórdão limitou-se a especificar o alcance de norma infraconstitucional, não se verifica, na espécie, a suposta violação à reserva de plenário.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
