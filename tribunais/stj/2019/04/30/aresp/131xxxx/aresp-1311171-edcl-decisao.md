@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos em face da decisão que julgou agravo contra o juízo de admissibilidade que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Embargos à execução. Consideração de que a decisão que indefere o pedido de atribuição de efeito suspensivo aos embargos do devedor não está inserida no rol taxativo a que alude o artigo 1.015, do Código de Processo Civil. Inadmissibilidade da interposição de agravo de instrumento na espécie. Recurso não conhecido. Dispositivo: não conheceram do recurso.
+A parte embargante sustenta que não é o caso de suspensão do recurso especial em face da afetação ao Tema 988, que trata da interpretação extensiva ao rol previsto no art. 1.015 do Código de Processo Civil de 2015, pois o caso versa sobre a possibilidade de interposição de agravo contra decisão que indefere efeito suspensivo em embargos à execução, matéria expressamente tratada na norma citada, em seus incisos I e X.
+Impugnação às fls. 494/501 e-STJ.
+Com razão as embargantes. Esta Corte já se pronunciou acerca do tema, entendendo que o art. 1.015 contempla a questão tratada no agravo de instrumento:
+CIVIL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VÍCIO DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INOCORRÊNCIA. DECISÃO INTERLOCUTÓRIA QUE INDEFERE O PEDIDO DE EFEITO SUSPENSIVO AOS EMBARGOS. RECORRIBILIDADE IMEDIATA POR AGRAVO DE INSTRUMENTO. POSSIBILIDADE. CABIMENTO DO RECURSO EM FACE DE DECISÕES QUE VERSEM SOBRE TUTELA PROVISÓRIA, CONCEITO EM QUE SE ENQUADRA A DECISÃO QUE INDEFERE O PEDIDO DE EFEITO SUSPENSIVO. ART. 1.015, I, COMBINADO COM ART. 919, §1º, AMBOS DO CPC/2015. INTERPRETAÇÃO EXTENSIVA OU POR ANALOGIA DO ART. 1.015, X, DO CPC/2015, QUE ERRONEAMENTE NÃO CONTEMPLOU ESSA HIPÓTESE. IMPOSSIBILIDADE. PRESENÇA
+DOS REQUISITOS PARA CONCESSÃO DA TUTELA PROVISÓRIA. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO, QUE SE LIMITOU À INADMISSIBILIDADE DO AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1- Ação proposta em 12/12/2016. Recurso especial interposto em
+23/01/2018 e atribuído à Relatora em 07/06/2018.
+2- O propósito recursal consiste em definir, para além da negativa de prestação jurisdicional: (i) se é recorrível, de imediato e por meio de agravo de instrumento, a decisão interlocutória que indefere a concessão de efeito suspensivo aos embargos à execução de título extrajudicial; (ii) se, na hipótese, estão presentes os pressupostos para a concessão do efeito suspensivo.
+3- A mera alegação de que teria havido violação ao art. 1.022 do CPC, sem contudo, o detalhadamente acerca dos alegados vícios existentes no acórdão, impede o exame do recurso especial sob esse fundamento, especialmente quando se verifica que a única questão efetivamente debatida no acórdão recorrido está suficientemente motivada.
+4- A decisão que versa sobre a concessão de efeito suspensivo aos embargos à execução de título extrajudicial é uma decisão interlocutória que versa sobre tutela provisória, como reconhece o art. 919, §1º, do CPC/2015, motivo pelo qual a interposição imediata do agravo de instrumento em face da decisão que indefere a concessão do efeito suspensivo é admissível com base no art. 1.015, I, do CPC/2015, tornando inadequado o uso de interpretação extensiva ou analogia sobre a hipótese de cabimento prevista no art. 1.015, X, do CPC/2015.
+5- Tendo o acórdão recorrido se limitado à inadmissibilidade do agravo de instrumento, não se admite o exame acerca da presença, ou não, dos pressupostos que autorizam a concessão do pretendido efeito suspensivo aos embargos à execução, em virtude da ausência de prequestionamento da matéria. Incidência da Súmula 211/STJ.
+6- Recurso especial parcialmente conhecido e, nessa extensão,
+provido.
+(REsp 1745358/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 01/03/2019)
+Assim, os autos devem retornar ao juízo de origem, para que este se manifeste acerca do mérito do agravo de instrumento.
+Em face do exposto, acolho os embargos declaratórios, e dou provimento ao recurso especial, nos termos acima.
+Intimem-se.
