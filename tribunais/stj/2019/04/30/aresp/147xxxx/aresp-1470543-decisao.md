@@ -1,0 +1,37 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por GILBERTO DA CRUZ contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Mato Grosso, assim ementado (fls. 216-224):
+"RECURSO DE APELAÇÃO CRIMINAL - CRIMES DE FURTO E DE RECEPTAÇÃO - CONDENAÇÃO - 1) ABSOLVIÇÃO - FURTO - IMPOSSIBILIDADE - NEGATIVA DE AUTORIA ISOLADA - CONFISSÃO EXTRAJUDICIAL CORROBORADA EM JUÍZO PELOS DEPOIMENTOS CONVINCENTES DOS POLICIAIS - CONDENAÇÃO MANTIDA - 2) ABSOLVIÇÃO - RECEPTAÇÃO - POSSIBILIDADE APENAS EM RELAÇÃO A UM DOS APELANTES - PROVAS ROBUSTAS DE QUE O AGENTE NÃO PARTICIPOU DO DELITO - ABSOLVIÇÃO NOS MOLDES DO ART. 386, INCISO IV, DO CPP - 3) CONDENAÇAO MANTIDA EM RELAÇÃO A ACUSADA QÜE ESTAVA NA POSSE DOS OBJETOS FURTADOS - INVERSÃO DO ÔNUS DA PROVA - VERSÕES INVEROSSÍMEIS É DISCREPANTES -CONDUTA DELITIVA EVIDENCIADA - 4) DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA - INVIABILIDADE - CIRCUNSTÂNCIAS QUE DEMONSTRAM A CIÊNCIA DA ILICITUDE DOS BENS. APELO PROVIDO EM, RELAÇÃO AO ACUSADO WENDER DE SOUZA E, DESPROVIDO EM RELAÇÃO ÀOS DEMAIS APELANTES. DECISÃO EM PARTE COM O PARECER DA D. PGJ
+1 - Não , merece prosperar o pedido de absolvição por insuficiência de prova, quando os elementos de convicção jungidos aos autos, notadamente, os testemunhos, em juízo, dos policiais aliados à confissão extrajudicial do apelante, respaldarem a tese acusatória, afastando assim qualquer dúvida sobre a autoria delitiva;
+2 - Tendo, o apelante, demonstrado que na data dos fatos estava detido em penitenciaria deste Estado e, não havendo nos autos qualquer prova a indicar sua participação no crime de receptação, a absolvição é medida que se impõe, diante da inexistência de prova de ter, ele, concorrido para a infração penal, (art. 3 86, inciso IV, do CPP)
+3 - A posse da res furtiva, aliada às circunstâncias fáticas do caso concreto, faz presumir o dolo e inverte o ônus da prova, cabendo a ré demonstrar o desconhecimento da ilicitude do bem;
+4 - A aquisição de cadeiras e mesa sem qualquer documentação de propriedade e com valor abaixo do preço de mercado, evidencia a ciência do agente acerca da origem ilícita dos objetos e caracteriza a prática do crime de receptação, em sua modalidade dolosa."
+Consoante se extrai dos autos, o agravante foi condenado como incurso nas sanções do artigo 155, § 4º, inciso II, do Código Penal (crime de furto), às penas de 1 (um) ano de reclusão, em regime inicial semiaberto, e mais ao pagamento de 10 (dez) dias-multa (fl. 127).
+Irresignada, a Defesa interpôs apelação, a qual, por unanimidade, o eg. Tribunal a quo negou provimento ao apelo (fls. 216-224).
+No recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República, o insurgente sustentou violação ao artigo 386, inciso VII, do Código de Processo Penal e ao artigo 155, caput, do Código Penal, face a ausência de provas suficientes à condenação da parte recorrente. (fls. 230-243).
+Apresentadas as contrarrazões (fls. 248-256), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise da questão implicaria revolvimento fático-probatório.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 299-303).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Neste agravo, a parte insurgente deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade da Súmula 7 do STJ.
+In casu, a Defesa limitou-se a asseverar o que segue:
+"O especial em tela não se prende ao simples reexame de matéria fático- probatória, de sorte que pudesse atrair o postulado inserto na Súmula n. 07 do STJ, porquanto a discussão pautada tem como cerne a inobservância de regramentos explícitos em lei federal, acima indicados, que suscitam o debate de matéria estritamente de direito" (fl. 275).
+Entretanto, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre obsta o conhecimento do agravo, nos termos do art. 932, inciso III do CPC, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. Ainda que assim não fosse, no caso, verifica-se que o acórdão impugnado encontra-se em consonância com o entendimento desta Corte Superior de Justiça firmado no sentido de que o reconhecimento da reincidência do réu é elemento suficiente para impedir a aplicação do redutor, por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas.
+3. Agravo regimental não provido" (AgRg no AREsp n. 1.323.247/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/09/2018, grifei).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido" (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, de minha relatoria, DJe de 16/02/2018, destaquei).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conhecendo do agravo em recurso especial.
+P. e I.
