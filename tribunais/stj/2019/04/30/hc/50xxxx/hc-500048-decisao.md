@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. NULIDADE. CRIMES DE TRÂNSITO. CONDUÇÃO DE VEÍCULO AUTOMOTOR COM CAPACIDADE PSICOMOTORA ALTERADA EM RAZÃO DA INFLUÊNCIA DE ÁLCOOL E DIREÇÃO SEM HABILITAÇÃO. INTERROGATÓRIO. INVERSÃO DA ORDEM DO ATO PROCESSUAL. INEXISTÊNCIA DE PREJUÍZO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem no writ ali impetrado, ao fundamento de que inexistente prejuízo ao paciente, não há que se falar em nulidade do ato (fl. 42 - Habeas Corpus n. 2161899-46.2018.8.26.0000), mantendo o interrogatório conduzido pelo Juízo de Direito da 4ª Vara Criminal da comarca de Osasco/SP (fl. 15 - Autos n. 0010461-97.2011.8.26.0405), na ação penal que apura os crimes de condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool e direção sem habilitação.
+Na presente impetração, alega-se constrangimento ilegal consistente em nulidade do interrogatório do paciente ocorrido na audiência de suspensão condicional do processo, antes da apresentação da defesa prévia.
+Sustenta a impetrante, em síntese, que o interrogatório, ocasião em que o paciente confessou a prática delituosa, foi usado como meio de prova, alegando que tal ato processual  ..  se firmou como meio de defesa com a alteração da lei, tendo em vista a possibilidade de continuar em silêncio, direito esse garantido pelo artigo art. 5º, inciso LXIII, da Constituição Federal (fl. 5).
+Postula, então, a concessão liminar da ordem para que seja declarada a nulidade do interrogatório do paciente.
+Antes de analisar o pedido liminar, foram solicitadas informações (fl. 51), que foram prestadas pelo Juízo de Direito da 4ª Vara Criminal da comarca de Osasco/SP (fl. 74) e pelo Tribunal de Justiça de São Paulo (fls. 55/56).
+É o relatório.
+Busca a impetração a declaração de nulidade do interrogatório do paciente na Ação Penal n. 0010461-97.2011.8.26.0405 da 4ª Vara Criminal da comarca de Osasco/SP, ao argumento de que há inversão dos atos processuais na persecução penal.
+Ao que se tem, da análise dos autos, a Corte local não considerou a existência da nulidade arguida, considerando que sua ocorrência dependeria da  ..  comprovação de efetivo prejuízo ao acusado, o que não ocorreu in casu (fl. 40).
+A pretensão mandamental encontra óbice no entendimento desta Corte, pois,  ..  conquanto o princípio do devido processo legal compreenda a garantia ao procedimento tipificado em lei, não se admitindo a inversão da ordem processual ou a adoção de um rito por outro, não se pode olvidar que as regras procedimentais não possuem vida própria, servindo ao regular desenvolvimento do processo, possibilitando a aplicação do direito ao caso concreto. A adoção de procedimento incorreto só pode conduzir à nulidade do processo se houver prejuízo às partes, o que, de fato, não se verifica ter ocorrido na hipótese, já que a impetrante se limitou a pleitear a anulação da ação penal sem declinar, contudo, a extensão de eventuais danos suportados pela defesa (HC n. 184.530/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 15/2/2013).
+No mesmo sentido: HC n. 290.185/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/2/2015.
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento, pois não ficou demonstrada ilegalidade no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
