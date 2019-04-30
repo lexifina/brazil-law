@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por T. M. DISTRIBUIDORA DE PETRÓLEO LTDA. contra decisão que inadmitiu o recurso especial por inexistência de omissão, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissídio (e-STJ fls. 254/256).
+O acórdão recorrido está assim ementado (e-STJ fl. 151):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - PRETENSÃO À EXCLUSÃO DO POLO PASSIVO - TRESPASSE - INOCORRÊNCIA - Ausência de comprovação de ocorrência da sucessão empresarial - Comprovação de transferência dos bens corpóreos da pessoa jurídica, sem que haja prova de transferência dos bens incorpóreos - Recurso provido.
+Os embargos de declaração foram acolhidos, sem efeito modificativo (e-STJ fls. 176/181).
+Nas razões do recurso especial (e-STJ fls. 185/217), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou afronta ao art. 535 do CPC/1973, pela omissão quanto à necessidade de se discutirem as provas em embargos à execução. Mencionou julgados.
+Apontou infringência aos arts. 652 e 736 do CPC/1973 por não ser cabível agravo de instrumento de decisão que determina a citação, sendo certo que a matéria da legitimidade deveria, primeiramente, ser levada a conhecimento do julgador de primeiro grau. Indicou precedentes.
+Suscitou ofensa aos arts. 125, I, 131 e 333, I e II, do CPC/1973, entendendo não ser possível a utilização do critério da presunção para decidir sobre a ocorrência de sucessão empresarial, matéria complexa. Defendeu a necessidade de igualdade de tratamento entre as partes. Trouxe jurisprudência.
+No agravo (e-STJ fls. 258/271), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 273/282).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 535, I e II, do CPC/1973.
+Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 535, II, do CPC/1973.
+Os arts. 652 e 736 do CPC/1973 não tratam do cabimento do agravo de instrumento, nem mesmo da necessidade de discussão de matéria em primeiro grau. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Em tal circunstância, aplica-se a Súmula n. 284 do STF.
+Sobre a sucessão empresarial, os julgadores destacaram (e-STJ fls. 155/159):
+(..) estabelecimento comercial é uma universalidade de bens destinados a um fim, constituído por bens corpóreos e incorpóreos.
+Conforme se verifica da cópia do "Contrato de Locação Comercial" firmado o pela recorrente (fls. 102/107 deste recurso), da ação de despejo c conseqüente r. sentença em face da recorrida Auto Posto Jaguar Ltda (fls. 80/85 e 87/90 deste recurso), extrai-se que houve a transferência somente dos bens corpóreos e não dos incorpóreos.
+Para que ocorra a alegada sucessão do estabelecimento empresarial, ou seja, o trespasse, conforme doutrina acima colacionada, há a necessidade, alem da aquisição de bens materiais, corpóreos, da transferência dos bens imateriais, incorpóreos.
+Ou seja, não basta a utilização dos móveis, imóveis, utensílios, computadores e qualquer outra ferramenta da qual se utilize o empresário para o desenvolvimento de sua atividade (bens corpóreos), necessitando também da utilização dos bens incorpóreos (o ponto comercial, o fundo de comércio, titulo de estabelecimento, marcas, direitos decorrente de contratos) para que esteja caracterizada a sucessão de empresas.
+(..)
+Pelos documentos acostados ao presente recurso de agravo de instrumento, não há qualquer comprovação de que houve a sucessão empresarial entre as empresas Auto Posto Cred Campo Limpo Ltda e Auto Posto Jaguar Ltda e de que a recorrente estaria utilizando os bens incorpóreos, ou seja, se estaria exercendo atividade empresarial no lugar da outra.
+Portanto, tendo em vista a ausência de comprovação da ocorrência de sucessão empresarial, com a devida vênia, o recurso merece provimento.
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+A jurisprudência desta Corte está sedimentada no sentido de que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados.
+Sob esse aspecto, confira-se o seguinte julgado da Corte Especial em hipótese análoga:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/3/2014.)
+No caso, a parte recorrente não particularizou o dispositivo de lei ao qual foi atribuída interpretação divergente, além de não ter realizado o cotejo analítico entre os arestos confrontados, nos termos dos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973. Em tal circunstância, aplica-se a Súmula n. 284 do STF, tendo em vista a deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
