@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WELLINGTON BISPO DOS SANTOS apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n.º 0001401-55.2017.8.26.0158).
+Consta dos autos que o Juízo da VEC indeferiu o pedido de unificação de penas em favor do paciente, não reconhecendo a continuidade delitiva entre os crimes praticados (fls.69/71).
+O Tribunal de origem negou provimento ao recurso (fls. 118/124).
+Sustenta a impetrante que "a existência de continuidade delitiva entre os delitos é patente tendo em vista que além de os crimes, da mesma espécie, terem se dado nas mesmas circunstâncias de tempo (foram praticados em período de tempo curto) e lugar (mesma cidade de Guarujá), foram executados de maneira idêntica" (fl. 6).
+Alega que é possível o reconhecimento da continuidade delitiva, se os fatos ocorrerem dentro de 30 (trinta) dias (fl. 6).
+Defende que o "modus operandi também é o mesmo, fato é que o crime foi praticado nas mesmas circunstâncias, de modo que não há qualquer razão para afastar-se da ficção jurídica. Presentes, pois, todos os requisitos para que se reconheça a existência de continuidade entre os crimes, nos termos do disposto no artigo 71 do Código Penal" (fl. 7).
+Requer a concessão da ordem constitucional para reconhecer a continuidade entre os crimes tratados nas execuções em curso para determinar a unificação das penas (fls. 13).
+A liminar foi indeferida às fls. 131/132.
+Informações prestadas às fls. 151/171.
+O Ministério Público Federal manifestou-se às fls. 173/175.
+É o relatório.
+Cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal.
+No que diz respeito ao pleito de unificação de penas pelo reconhecimento do crime único previsto no art. 71 do CP, verifica-se que o Tribunal de origem manteve o indeferimento do pedido, com base nos seguintes fundamentos (fls. 118/124):
+ ..
+Não é porque o Código Penal adotou a teoria objetiva que ignorou aspecto importante do crime continuado. Praticados dois ou mais crimes da mesma espécie, nas mesmas condições de tempo, lugar e maneira de execução, devem os subsequentes ser tidos como continuação do primeiro, o que não ocorre aqui.
+Com efeito, não houve mero desdobramento da primeira conduta, mas sim intenção de praticar uma série de crimes autônomos, circunstância que difere o criminoso ocasional do delinquente habitual, caso do sentenciado.
+Na hipótese em exame estamos diante de típica reiteração criminosa e não de continuidade delitiva e, nestas circunstâncias, não há que se falar em unificação.
+A bem da verdade, o condenado não é um criminoso esporádico, mas sim habitual, que não deve ser favorecido com a benesse da exasperação da pena do crime continuado.
+ ..
+Portanto, tratando-se o condenado de criminoso habitual, que fez do roubo seu meio de vida, não deve ser beneficiado com a unificação pretendida.
+Em resumo, é inadmissível reconhecer continuidade ao criminoso habitual.
+Diante do exposto, nega-se provimento ao recurso.
+Da leitura dos excertos transcritos, observa-se que a possibilidade de unificação das penas foi refutada pelas instâncias ordinárias sob o fundamento de que, na espécie, trata-se de reiteração criminosa, tendo sido destacado que o paciente representa um criminoso habitual, que adota a prática de crimes de roubos como meio de vida, conclusão a que se chegou após análise aos elementos probatórios elencados nos autos originais.
+Quanto ao tema, esta Corte Superior firmou entendimento no sentido de que é incabível, pela via do habeas corpus, realizar-se análise acerca do preenchimento dos requisitos necessários para a configuração da continuidade delitiva, pois impossível, por meio do mandamus, o revolvimento do contexto fático-probatório.
+A propósito, confiram-se os seguintes precedentes oriundos das Turmas que compõem a Terceira Seção:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. CONTINUIDADE DELITIVA. REEXAME DE PROVAS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. Na hipótese vertente, o Juiz da Vara das Execuções Criminais indeferiu ao paciente o pedido de unificação de penas, formulado sob a alegação de continuidade delitiva. Tal entendimento foi mantido pelo Tribunal de Justiça do Estado de São Paulo, consignando que: (..) Para caracterização da figura do crime continuado, mister se faz que estejam presentes todos os requisitos exigidos no no art. 71 do Código Penal, quais sejam: que o agente pratique mais de uma ação ou omissão; que as referidas ações ou omissões sejam previstas como crime; que os crimes sejam da mesma espécie; que as feições adverbiais do crime (tempo, lugar e modo de execução) indiquem que as ações subsequentes efetivamente constituem o prosseguimento da primeira. (..) No caso em voga, a circunstância de o agravante ter cometido dois crimes da mesma espécie (roubos majorados) e nas mesmas condições de tempo (24/04/2015 e 25/014/2015), não pode, por si só, dar ensejo a aplicação da continuidade delitiva, já que há divergências entre as ações, cabendo ressaltar que os delitos foram cometidos em circunstâncias distintas, sendo que, no primeiro delito, o roubo foi praticado mediante a ação de um só agente e, no segundo, em concurso de pessoas, não existindo, portanto, qualquer vínculo entre eles. (..) 3. A diversidade de agentes na execução criminosa, revelada pela atuação individual no primeiro fato e coletiva no segundo, afasta o requisito objetivo da identidade do modus operandi, indispensável ao reconhecimento do crime continuado.
+Precedentes desta Corte 4. Com efeito, a continuidade delitiva somente se configura quando as circunstâncias de modo, tempo e lugar da prática dos ilícitos apresentam relação de semelhança e unidade de desígnios, acarretando o reconhecimento do desdobramento da prática criminosa.
+5. Na espécie, a rediscussão da matéria mostra-se incompatível com a via mandamental eleita, porquanto, para se invalidar a conclusão da instância originária, torna-se imprescindível a reavaliação do contexto fático probatório. Precedentes desta Corte.
+6. Inexistência, portanto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+7. Habeas corpus não conhecido.
+(HC 468.388/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/12/2018, DJe 18/12/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBOS MAJORADOS TENTADO E CONSUMADO. DOSIMETRIA. APLICAÇÃO DA CONTINUIDADE DELITIVA. ART. 71 DO CP. MODUS OPERANDI DIVERSOS. REQUISITOS LEGAIS NÃO PREENCHIDOS. ALTERAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Esta Corte, ao interpretrar o art. 71 do CP, adota a teoria mista, ou objetivo-subjetiva, segundo a qual caracteriza-se a ficção jurídica do crime continuado quando preenchidos tanto os requisitos de ordem objetiva - mesmas condições de tempo, lugar e modo de execução do delito -, quanto o de ordem subjetiva - a denominada unidade de desígnios ou vínculo subjetivo entre os eventos criminosos, a exigir a demonstração do entrelaçamento entre as condutas delituosas, ou seja, evidências no sentido de que a ação posterior é um desdobramento da anterior.
+2. Não há continuação delitiva entre roubos sucessivos e autônomos, com ausência de identidade no modus operandi dos crimes, uma vez que verificada a diversidade da maneira de execução dos diversos delitos, agindo o recorrido ora sozinho, ora em companhia de comparsas, não se configura a continuidade delitiva, mas sim a habitualidade criminosa (REsp 421.246/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 15/12/2009, DJe 22/02/2010).
+3. O reexame da matéria, com o propósito de reconhecimento da continuidade delitiva, demanda o revolvimento do conjunto fático-probatório, providência inadmissível na estreita via do writ.
+4. Agravo regimental improvido.
+(AgRg no HC 426.556/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018)
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não se conhece do habeas corpus.
+Publique-se e intimem-se.
