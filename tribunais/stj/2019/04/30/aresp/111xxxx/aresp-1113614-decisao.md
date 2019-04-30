@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. RESCISÃO. TUTELA ANTECIPADA. DANO DE DIFÍCIL REPARAÇÃO. INEXISTÊNCIA. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. VIOLAÇÃO AO PRINCÍPIO DO PACTA SUNT SERVANDA. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. SÚMULA 211 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Cuida-se de agravo interposto por TIC FRAMES EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e CONSTRUTORA CALPER LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 128-130) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 52):
+AGRAVO DE INSTRUMENTO. RELAÇÃO DE CONSUMO. CONTRATO DE INCORPORAÇÃO IMOBILIÁRIA. COMPRADOR QUE PRETENDE DESISTIR DO NEGÓCIO ANTE SUA IMPOSSIBILIDADE DE CONTINUAR PAGANDO AS PRESTAÇÕES. ANTECIPAÇÃO DE TUTELA CONCEDIDA. REQUISITOS AUTORIZADORES QUE NÃO SE VERIFICAM PRESENTES. DIREITO ASSEGURADO AO DEVEDOR. POSIÇÃO CONSOLIDADA NO SUPERIOR TRIBUNAL DE JUSTIÇA. CONSEQUÊNCIAS QUE SERÃO APRECIADAS NO CURSO DO PROCESSO DE CONHECIMENTO QUE NÃO IMPEDEM A RESILIÇÃO ANTECIPADA PRETENDIDA. FINALIDADE DE OBSTAR PREJUÍZO PARA AMBAS AS PARTES.
+RECURSO QUE SE NEGA PROVIMENTO.
+ Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 84):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. ACÓRDÃO QUE NÃO CONTÉM QUALQUER VÍCIO ENSEJADOR DA PROPOSITURA DO PRESENTE RECURSO. EMBARGANTE QUE PRETENDE REDISCUTIR O QUE JÁ FOI DEVIDAMENTE TRATADO NO ACÓRDÃO. IMPOSSIBILIDADE DE REEXAME DA MATÉRIA E FUNDAMENTAÇÃO DA DECISÃO. EMBARGOS DE DECLARAÇÃO A QUE SE NEGA PROVIMENTO.
+Nas razões do recurso especial, as recorrentes alegaram, com base na alínea a do permissivo constitucional, violação aos arts. 300, § 3º, e 1.022 do CPC/2015 e 422 do CC/2002.
+Sustentaram a existência de omissão no acórdão recorrido, alegando que o Tribunal a quo deixou de se manifestar acerca da possibilidade de dano irreparável com a concessão da tutela antecipada, bem como a necessidade de observância do princípio contratual do pacta sunt servanda, que impõe às partes o cumprimento estrito das cláusulas contratuais.
+Afirmaram que a concessão antecipada da tutela, ao impedir a inscrição do nome do recorrido no cadastro de proteção ao crédito e suspender o pagamento das parcelas devidas, causou dano de difícil reparação.
+Argumentaram, ainda, que o acórdão recorrido, ao manter a decisão antecipatória de tutela, possibilitou que o recorrido descumprisse as obrigações impostas pelo contrato, violando, desse modo, o princípio do pacta sunt servanda.
+Apreciada a admissibilidade do apelo excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 128-130), entendendo inexistir violação ao art. 1.022 do CPC/2015, bem como argumentação suficiente para demonstrar a afronta à legislação federal apontada, aplicando o óbice imposto pela Súmula 284/STF.
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 143-155).
+Brevemente relatado, decido.
+Inicialmente, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, as agravantes alegam o cumprimento de todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Defendem a existência das omissões apontadas, cujo saneamento mostra-se necessário para o oferecimento da correta prestação jurisdicional.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+O primeiro argumento apresentado pelas recorrentes nas razões do apelo excepcional refere-se à existência de omissão no julgado combatido.
+Afirmaram que o Tribunal de origem deixou de se pronunciar sobre a possibilidade de dano irreparável com a concessão da tutela antecipada, bem como a necessidade de observância do princípio contratual do pacta sunt servanda na execução do contrato.
+Todavia, na decisão de admissibilidade, ficou constatada a ausência de violação ao art. 1.022 do CPC/2015.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, desse modo, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato do julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE MANUTENÇÃO DA POSSE. FASE DE CUMPRIMENTO DE SENTENÇA.
+I - QUESTÃO CONTROVERTIDA: Cumprimento de sentença proferida em ação de manutenção, discutindo-se a extensão da área abrangida pelo título judicial.
+II - RECURSO ESPECIAL INTERPOSTO POR CONDOMINIO ITAPARICA MAR 3ª ETAPA. ALEGAÇÃO DE IMPEDIMENTO DO VICE-PRESIDENTE PARA A REALIZAÇÃO DO JUÍZO DE ADMISSIBILIDADE. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO. AGRAVO DE INSTRUMENTO COM DEFICIENTE INSTRUÇÃO. PRETENSÃO DE REEXAME DO JULGADO. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA E JULGAMENTO "EXTRA PETITA". REVISÃO. IMPOSSIBILIDADE.
+INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+2.1. A matéria relativa ao impedimento do Vice-Presidente resta prejudicada em razão do provimento do agravo para a sua conversão em recurso especial.
+2.2. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2.3. Consoante a jurisprudência do Superior Tribunal de Justiça, as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2.4. No agravo previsto no art. 522 do CPC/1973, na hipótese de o julgador entender ausentes as peças necessárias à compreensão da controvérsia, devia indicar as peças faltantes e determinar a intimação do agravante a fim de facultar o complemento do instrumento.
+2.5. O recurso especial não é via própria para aferir a validade de documento juntado pela parte para comprovar o atendimento de requisito para conhecimento do agravo de instrumento. Aplicação do Enunciado n.º 7/STJ.
+2.6. Análise de ofensa a coisa julgada e julgamento extra petita feita de acordo com os elementos fático-probatórios dos autos de forma amplamente detalhada e fundamentada, encontra óbice no Enunciado n.º 7/STJ.
+2.7. Não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+2.8. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+III - RECURSO ESPECIAL DE UNIVERSO DE ENSINO NOVO MILÊNIO LTDA. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EXTENSÃO DA POSSE. DECISÃO TRANSITADA EM JULGADO. REVISÃO. IMPOSSIBILIDADE. BENFEITORIAS. EMBARGOS DE TERCEIRO. VIA ADEQUADA.
+3.1. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+3.2. O Tribunal de Justiça refutou as alegações com arrimo no fato de que houve trânsito em julgado do acórdão proferido pela Primeira Câmara que assegurou à municipalidade a posse sobre a área total de 15.549 m  (quinze mil, quatrocentos e cinqüenta e nove metros quadrados). 3.3. Impossibilidade de se alterar o entendimento adotado pelo Tribunal de Justiça de origem.
+3.4. Os embargos de terceiro constituem o meio defensivo que o terceiro possui contra atos judiciais que gerem medida constritiva de seus bens.
+3.5. RECURSO ESPECIAL DESPROVIDO.
+IV - RECURSOS ESPECIAIS DESPROVIDOS.
+(REsp 1730535/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018)
+Examinando os autos, observa-se que o acórdão recorrido é claro ao justificar a inexistência de dano irreparável com a antecipação da tutela concedida ao recorrido nos autos da ação de rescisão de contrato de promessa de compra e venda, bem como a impossibilidade de analisar, de forma mais detida, a cláusula contratual que previa a irretratabilidade do acordo celebrado entre as partes.
+Confira-se trecho do aresto impugnado (e-STJ, fl. 85):
+ Com efeito, o acórdão tratou integralmente e de forma clara as matérias aduzidas no recurso interposto, não se justificando a pretensão de modificação do julgado, por não se conformar com a conclusão a que chegou o julgador.
+ Ressalte-se que a questão da irretratabilidade teve menção de posicionamento do STJ, sendo que no seu mérito, bem como as demais questões apontadas, serão objeto de decisão do juízo de 1º grau, após a cognição plena e exauriente da lide, sendo a princípio, lide que se insere na seara consumerista, como já dito.
+ No mais, não há possibilidade de dano irreparável, já que também fora mencionado que a decisão antecipatória propicia que o imóvel seja liberado para que a agravante possa negociar o imóvel, minimizando ou evitando saldo devedor do agravado.
+Dessa forma, mostra-se correta a decisão do Tribunal de origem ao reconhecer a ausência de violação ao art. 1.022 do CPC/2015, pois ausentes os vícios apontados pelas recorrentes.
+Noutro ponto, com relação à apreciação da ocorrência de dano irreparável com a antecipação da tutela, conforme trecho do acórdão supramencionado, verifica-se que o Tribunal a quo, mediante análise da situação fática específica, concluiu inexistir prejuízos concretos para as recorrentes.
+Diante de tal fato, mostra-se inviável, por meio do julgamento do recurso especial, a alteração dos fundamentos adotados pela Corte local, pois exigiria do Superior Tribunal de justiça o revolvimento de fatos e provas, devidamente vedado pela aplicação da Súmula 7/STJ.
+No tocante à violação ao princípio do pacta sunt servanda, decorrente da inobservância pelo agravado da cláusula de irretratabilidade, entendeu o Tribunal originário que a análise da questão seria realizada em momento oportuno, quando do conhecimento do processo principal, concluindo que, em concessão antecipatória de tutela, não se mostraria adequada a apreciação mais profunda da análise meritória.
+Nesse sentido, constata-se que o tema não foi debatido pelo aresto recorrido, situação a qual impede sua apreciação em julgamento do recurso especial, ante a inexistência do devido prequestionamento.
+Afinal, nos termos da jurisprudência consolidada no Superior Tribunal de Justiça, a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidir o teor das Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+Por todo o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
