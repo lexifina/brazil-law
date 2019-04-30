@@ -1,0 +1,2 @@
+Art. 19-B. Os demais órgãos da administração pública que administrem créditos tributários e não tributários passíveis de inscrição e de cobrança pela Procuradoria-Geral da Fazenda Nacional encontram-se dispensados de constituir e de promover a cobrança com fundamento nas hipóteses de dispensa de que trata o art. 19.
+Parágrafo único. A aplicação do disposto no caput observará, no que couber, as disposições do art. 19-A.
