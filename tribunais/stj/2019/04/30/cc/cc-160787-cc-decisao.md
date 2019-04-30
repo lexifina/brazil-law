@@ -1,0 +1,9 @@
+DECISÃO
+Na Petição de fls. 3-8 (expediente avulso), as requerentes pleiteiam o "desarquivamento do feito e, consequente, expedição de novo telegrama judicial ao MM. Juízo suscitado da 34ª Vara do Trabalho de Belo Horizonte/MG, objetivando a imediata suspensão do trâmite da ação de execução (RTOrd nº 0001703-26.2011.5.03.0113) em face da ora suscitante", tendo em vista que "o MM. Juízo Mineiro determinara o prosseguimento da marcha processual, em total desrespeito ao que fora determinado, tanto na decisão liminar, como na r. decisão de mérito do presente conflito".
+Buscam, ainda, a determinação da remessa dos valores bloqueados na Justiça Laboral ao Juízo da 1ª Vara de Falências e Recuperações Judiciais de São Paulo/SP.
+Brevemente relatado, decido.
+Conforme se verifica da decisão de fls. 150-154 (e-STJ), este Relator conheceu do conflito para "declarar a competência do Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo - SP para decidir sobre os atos de constrição no patrimônio da suscitante", decisum que, inclusive, já transitou em julgado.
+Dessa forma, não se mostra possível o desarquivamento do feito, como pretendem as requerentes, para que seja encaminhado novo ofício ao Juízo Laboral a fim de determinar a "suspensão do trâmite da ação de execução trabalhista", até porque esse comando foi dado na decisão que deferiu a liminar, e não no julgamento de mérito do conflito, o qual se limitou a declarar a competência do Juízo Recuperacional para decidir sobre os atos de constrição no patrimônio da suscitante, sem se determinar a suspensão da execução trabalhista.
+Tampouco se revela cabível determinar a remessa dos valores por meio deste expediente avulso. Esse pedido deverá ser formulado nas instâncias de origem, podendo, se for o caso, ser impugnado pelos meios recursais próprios.
+Por essas razões, indefiro o pedido.
+Publique-se.
