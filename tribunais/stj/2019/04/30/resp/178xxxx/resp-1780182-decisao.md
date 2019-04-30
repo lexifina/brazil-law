@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela MASTERBRANDS DO BRASIL IMPORTAÇÃO E EXPORTAÇÃO LTDA. - EPP, e que desafia acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fls. 162):
+TRIBUTÁRIO. COFINS-IMPORTAÇÃO. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. IN 1.300/12. ADICIONAL DE ALÍQUOTA. LEI 12.546/11. LEI 12.715/12. LEI 12.844/13. LEI 13.137/15. ART. 8º, § 21 DA LEI 10.865/04. GATT. LEI COMPLEMENTAR. ISONOMIA.
+1. O reconhecimento do direito creditório relativo a tributo incidente sobre operação de comércio exterior é da autoridade fiscal sob cuja jurisdição for efetuado o despacho aduaneiro da mercadoria (art. 70, caput e § 1º, da IN 1.300/12)
+2. O acréscimo de um ponto percentual na alíquota da COFINS-Importação é um mero adicional à alíquota já existente, não havendo interferência alguma na materialidade da incidência, que continua sendo a importação de produtos ou serviços.
+3. Sendo o produto importado de qualquer país signatário do GATT, a incidência do adicional à alíquota da COFINS-Importação será idêntica.
+4. O adicional à alíquota da COFINS-Importação ocorreu justamente para dar cumprimento ao princípio da isonomia entre a tributação dos produtos nacionais e dos importados.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1.272/1.275).
+Contra o acórdão, foram interpostos recursos especial e extraordinário, que foram admitidos.
+A recorrente sustenta, em resumo, a ilegalidade e inconstitucionalidade da majoração da alíquota da COFINS Importação em 1% ("adicional"), instituída pela Lei n. 12.715/12 (resultado da conversão da Medida Provisória n. 563/12), a qual alterou a redação do art. 8º, § 21, da Lei 10.865/04" (e-STJ fl. 197).
+Passo a decidir.
+Deve-se consignar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Dito isso, observa-se que o Tribunal a quo decidiu a questão mediante fundamentação eminentemente constitucional (ofensa ao princípio da isonomia em razão da majoração da alíquota da COFINS-Importação), cujo exame compete, tão somente, ao Supremo Tribunal Federal por meio de recurso extraordinário.
+Assim, dada a incompetência desta Corte para a revisão da matéria, o apelo extremo manejado revela-se manifestamente inadmissível.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. COFINS. IMPORTAÇÃO. MAJORAÇÃO DA ALÍQUOTA. LEI 10.865/2004. INTERPRETAÇÃO CONFORME O ART. 195, § 12 DA CF/1988. MATÉRIA DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. AGRAVO INTERNO DA CONTRIBUINTE DESPROVIDO.
+1. A controvérsia reside na análise da majoração da alíquota da COFINS-Importação, pelos arts. 8o., § 21, e 15, § 3o. da Lei 10.865/2004, interpretando-os em conformidade com o art. 195, § 12 da CF/1988, ou seja, matéria de índole eminentemente constitucional. Logo, inviável o debate em sede de Recurso Especial. Precedentes: AgInt no REsp. 1.622.902/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 13.3.2017; AgRg no REsp. 1.476.197/SC, Rel. Min. HUMBERTO MARTINS, DJe 16.10.2015.
+2. Agravo Interno da Contribuinte desprovido.
+(AgInt no REsp 1.556.537/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 20/11/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. CONFLITO ENTRE LEIS ORDINÁRIAS EM FACE DE LEI COMPLEMENTAR. LEGALIDADE DA MAJORAÇÃO DA ALÍQUOTA DA COFINS-IMPORTAÇÃO. LEI 10.865/2004. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. ART. 195, § 12, DA CF/1988. INAPLICABILIDADE DO ART. 1.032 DO CPC/2015.
+1. Afastada a alegada ofensa ao art. 1.022 do CPC/2015, eis que o acórdão recorrido se manifestou de forma clara e fundamentada sobre a matéria posta em debate na medida necessária para o deslinde da controvérsia. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+2. O recurso especial é via imprópria para discussão de conflito entre leis ordinárias (Leis nºs 1.0.865/2004, 10.833/2003, 10.637/2002) em face de lei complementar (CTN), haja vista a índole constitucional de tal discussão.
+3. A tentativa de afastar a aplicação dos arts. 15, § 3º, e 8º, § 21, da Lei nº 10.865/2004, relativamente à majoração de alíquota da COFINS-Importação, na forma como pretendida pela recorrente, demanda sua declaração de inconstitucionalidade, nos termos da Súmula Vinculante nº 10 do STF, o que corrobora com a índole constitucional da discussão.
+4. O caso em análise não comporta a aplicação do art. 1.032 do CPC/2015, no sentido de abrir prazo para manifestação da recorrente sobre a questão constitucional e para a demonstração da repercussão geral para fins de remessa dos autos ao Supremo Tribunal Federal, uma vez que tal providência seria desnecessária e inútil na hipótese dos autos, tendo em vista que já existe recurso extraordinário interposto e admitido na origem, de modo que, em momento oportuno, os autos subirão ao Supremo Tribunal Federal para análise da questão constitucional.
+5. Agravo interno não provido.
+(AgInt no REsp 1.622.902/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/03/2017, DJe 13/03/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
