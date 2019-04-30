@@ -1,0 +1,78 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTRO, contra decisão denegatória do seguimento de recurso especial, por sua vez manejado com amparo na alínea "a" e "c" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+FALÊNCIA. Nulidade da decisão. Inocorrência. Possibilidade de apreciação das matérias de ordem pública nesta instância.Vício de citação. Inocorrência. Um dos agravantes foi pessoalmente citado e outro compareceu espontaneamente (art. 214, § 1º, do CPC). Recurso interposto por ambos à época da decisão que manteve a constrição de suas contas bancárias.
+Preclusas as questões relacionadas à desconsideração da personalidade jurídica e ao termo legal da falência, não arguidas naquele reclamo. No mais, legitimidade passiva confirmada. Agravantes que figuraram como sócios no período do termo legal. Prescrição. Inocorrência. Somente pode ser computada a prescrição da extinção das obrigações do falido após o encerramento da falência, o que ainda não ocorreu (art.
+134 da Lei nº 7.661/45). Impenhorabilidade do bem de família.
+Confirmada a existência de uma única casa sobre os dois terrenos, que serve de moradia aos recorrentes, a qual não é passível de divisão. Atos de constrição que devem ser afastadoo.
+RECURSO PARCIALMENTE PROVIDO.
+Contra a decisão foram manejados embargos de declaração (fls. 801-818), os quais foram rejeitados (fls. 840-843).
+Nas razões do recurso especial, além de dissídio jurisprudencial, a parte suscita violações ao art. 50 do CC e art. 135 do CTN, afirmando que não foram preenchidos os requisitos a ensejar desconsideração da personalidade jurídica e inclusão dos agravantes na execução de dívida.
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 922-923), decisão contra a qual foi interposto o presente agravo (fls. 926-945).
+É o relatório. Decido.
+2. Inicialmente, conheço do agravo tendo em vista o preenchimento dos requisitos de admissibilidade, a saber, a tempestividade, adequada representação processual e impugnação específica de todos os fundamentos da decisão agravada.
+Com efeito, observa-se que a matéria relativa ao artigo tido por violado, em especial, o art. 135 do CTN, não foi objeto de análise pelo acórdão recorrido.
+A inexistência de carga decisória a respeito da matéria impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento (Súmula 211/STJ).
+Por outro lado, o Superior Tribunal de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial alegando-se afronta ao art. 1.022 do CPC, o que, no caso, não ocorreu.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+(..)
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+(..)
+06. Recurso especial não provido.
+(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).  g.n
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL DE IMPROBIDADE ADMINISTRATIVA. RECEBIMENTO DA PETIÇÃO INICIAL. VIOLAÇÃO DO ART. 535, II, DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. PRESENÇA DE INDÍCIOS DE ATO DE IMPROBIDADE ADMINISTRATIVA EXPRESSAMENTE RECONHECIDOS PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso, nos termos da Súmula 211/STJ.
+3. A questão jurídica sobre a qual o Tribunal de origem não estava obrigado a se manifestar, por não haver sido provocado a tanto em momento oportuno, não pode ensejar ofensa ao artigo 535 do Código de Processo Civil. Além disso, se, a despeito dos embargos de declaração opostos, o Tribunal não se pronuncia sobre determinada questão, porque encontrou fundamentos diversos para o deslinde da controvérsia, inclusive de âmbito constitucional, falta o requisito do prequestionamento, incidindo, assim, a Súmula 211/STJ. Em casos tais, inexiste contradição em afastar a violação do artigo 535 do Código de Processo Civil e, ao mesmo tempo, não conhecer do mérito do recurso por ausência de prequestionamento.
+(..)
+7. Agravo regimental não provido.
+(AgRg no REsp 1533238/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/12/2015, DJe 14/12/2015)  g.n
+Nessa esteira, para que se configure o prequestionamento a respeito de matéria ventilada em recurso especial, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por violados, a fim de que se possa, na instância especial, abrir discussão sobre a questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Desse modo, incide o Enunciado Sumular nº 211/STJ que orienta ser inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+3. No que concerne à suscitada violação ao art. 50 do CC, apontam os agravantes que não foram preenchidos os requisitos a ensejar desconsideração da personalidade jurídica e que a matéria não estaria preclusa.
+A Corte de origem, não obstante, consignou que as partes, ora recorrentes, não se insurgiram especificamente contra a desconsideração da personalidade jurídica que culminou na na constrição de valores de propriedade dos agravantes, contrapondo-se apenas quanto a penhora de ativos financeiros, inclusive com a interposição de agravo de instrumento de modo que a reapreciação da matéria seria inviável pela configuração da preclusão, verbis:
+Consta que foi decretada a falência da sociedade empresaria "Peve Sol Materiais para Construção" em 22/04/2004, tendo sido fixado o termo legal da falência no dia 16/04/2001 (60º dia anterior ao primeiro protesto) e que foi determinada a desconsideração da personalidade jurídica da falida em 06/06/2011.
+Os agravantes inegavelmente tiveram ciência de tais decisões à época, pois o agravante [NOME] foi pessoalmente citado (fl. 1136 dos autos principais) e, apesar disso não ter ocorrido com o agravante [NOME], seu com parecimento espontâneo supriu a falta de citação, conforme estabelecia o art. 215, § 1º , do CPC/1973, então vigente.
+Nota-se que juntaram procuração nos autos e se insurgiram contra a ordem de bloqueio dos valores depositados em suas contas bancárias, que havia sido determinada pelo Juízo falimentar (fls. 1048/1055, 1101 e 1112 do autos de origem ).
+Ora, em sendo os dois advogados, não é crível que não tenham procurado se inteirar do motivo da constrição naquele momento, tanto é que chegaram a interpor agravo de instrumento contra a decisão que indeferiu o pedido de liberação.
+Portanto, as questões relativas à desconsideração da personalidade jurídica, bem com o o termo legal da falência encontram-se preclusas, pois não arguidas no primeiro momento em que ingressaram no feito.
+Desse modo, alterar a conclusão a que chegou o Tribunal estadual, soberano na análise do acervo fático-probatório, demandaria inviável revolvimento de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO. DESAPROPRIAÇÃO. DECISÃO QUE DETERMINA O PROSSEGUIMENTO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO. PRECLUSÃO. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DOS ENUNCIADOS N. 283 E 284 DA SÚMULA DO STF. PRETENSÃO DE REEXAME DE PROVAS. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - A Corte a quo aplicou a pena de preclusão a respeito da alegação da parte agravante acerca de determinação relativa à sentença com trânsito em julgado. O fundamento do acórdão, suficiente para manutenção da decisão, entretanto, não foi objeto do recurso especial, o que atrai a incidência, por analogia, dos óbices dos enunciados n. 283 e 284 da Súmula do STF.
+II - Hipótese em que o Tribunal de origem concluiu que houve preclusão em relação à matéria alegada pela parte agravante em agravo de instrumento. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor do enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+(AgInt no AREsp 1000619/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/06/2017, DJe 13/06/2017)  g.n.
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. LAUDO PERICIAL. PRECLUSÃO. TRÂNSITO EM JULGADO. REEXAME DE PROVAS. SÚMULA 7 DO STJ. CONVENCIMENTO MOTIVADO DO MAGISTRADO. PRODUTIVIDADE DO IMÓVEL. EMBARGOS DE DECLARAÇÃO, ART. 535, II, DO CPC. OMISSÃO.
+ ..
+6. O Tribunal regional entendeu que o prazo para impugnar o laudo de avaliação do imóvel, a afirmação de ocupação da propriedade por trabalhadores rurais do MST e a ausência de intimação para apresentar recurso na esfera administrativa precluíram. Dessarte, reconhecer a ofensa à preclusão e ao trânsito em julgado exige o necessário reexame do conjunto fático-probatório, vedado na via estreita do Recurso Especial, por força da Súmula 7/STJ.
+7. Com relação à violação da Súmula 354/STJ, o STJ possui entendimento de que Súmula não se enquadra no conceito de lei federal, o que inviabiliza sua discussão na via excepcional.
+Aplicação da Súmula 518/STJ.
+8. Recursos Especiais parcialmente conhecidos e, nessa medida, não providos.
+(REsp 1654788/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 20/06/2017)  g.n.
+PROCESSO CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. OFENSA AO ART. 557 DO CPC. DECISÃO MONOCRÁTICA. CONFIRMAÇÃO PELO ÓRGÃO COLEGIADO. PRECLUSÃO. REEXAME DE PROVA. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. FALTA. SÚMULA N. 282/STF. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Afasta-se a alegação de ofensa ao art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. A superveniente confirmação de decisão monocrática pelo órgão colegiado supera eventual violação do art. 557 do Código de Processo Civil.
+3. Nos casos em que o Tribunal de origem, com base nas provas dos autos, conclui pela ocorrência da preclusão, não cabe ao STJ revisar tal entendimento em razão do óbice da Súmula n. 7 do STJ.
+4. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu juízo de valor sobre a tese defendida no especial (Súmula n. 282/STF).
+5. No caso, inexiste similitude fática, uma vez que os acórdãos comparados se fundamentaram em premissas fáticas distintas. Inviável, portanto, a configuração da divergência.
+6. Agravo regimental desprovido.
+(AgRg no AREsp 421.050/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 23/10/2015)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. RPV. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. PRECLUSÃO. VERIFICAÇÃO QUE DEMANDA ANÁLISE PRÉVIA DE PORTARIA, BEM COMO REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. TESE DE ENRIQUECIMENTO ILÍCITO NÃO PREQUESTIONADA. INCIDÊNCIA DA SÚMULA 211/STJ. INOVAÇÃO RECURSAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INOCORRÊNCIA. DISSÍDIO PREJUDICADO.
+ ..
+3. No mais, a verificação da ocorrência da preclusão implica em exame de violação reflexa ou indireta a texto de lei federal, extrapolando a estreita via do recurso especial, bem como demanda, necessariamente, novo exame do acervo fático-probatório constante dos autos, o que atrai o óbice previsto na Súmula 7/STJ.
+4. Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+5. Agravo Interno a que se nega provimento.
+(AgInt no AREsp 1124681/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2017, DJe 07/12/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. AVALIAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1.973 (atual 1022 do NPC). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. As conclusões do Tribunal de origem, que levaram ao indeferimento do pedido de realização de nova perícia, e reconhecimento da preclusão consumativa, no tocante à avaliação das cotas da sociedade, não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandaria, necessariamente, revolvimento do conjunto fático - probatório dos autos, o que é vedado em razão do enunciado da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1033010/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/08/2017, DJe 29/08/2017)  g.n.
+4. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º do CPC/2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+5. Ante o exposto, nego provimento ao agravo, nos termos da fundamentação disposta acima.
+Publique-se. Intimem-se.
