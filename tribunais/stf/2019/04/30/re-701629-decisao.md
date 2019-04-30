@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO – ABONO DE PERMANÊNCIA – ART. 40, § 19, DA CR/88 – NECESSIDADE DA MANIFESTAÇÃO DE VONTADE DO SERVIDOR – CONCESSÃO A PARTIR DO REQUERIMENTO ADMINISTRATIVO – SENTENÇA REFORMADA – RECURSO PROVIDO – Para a concessão do abono de permanência é necessário que o servidor tenha completado as exigências para aposentadoria voluntária, bem como opte em permanecer em atividade, de modo que é preciso a prévia manifestação expressa de vontade do servidor, através do protocolo do requerimento administrativo, nos termos da Resolução n. 60/2004.” (eDOC 3, p. 92)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, II e 37, caput, 40, § 19, do texto constitucional. (eDOC 4, p. 15)
+    Nas razões recursais, o recorrente afirma fazer jus ao recebimento do abono permanência a partir da data em que preencheu os requisitos necessários à aposentadoria voluntária e permaneceu em atividade, sendo desnecessária a manifestação expressa de vontade do servidor em continuar a exercer suas atividades. Ressalta o nascimento do direito em momento anterior à edição da Emenda Constitucional 41/03. (eDOC 4, p. 20)
+    Aponta a inconstitucionalidade da resolução SEPLAG 60/04 diante da autoaplicabilidade do parágrafo 19 do artigo 40 da Constituição Federal.
+    Consigna a repercussão geral da matéria, bem como o seu prequestionamento.
+    Pugna pelo provimento do extraordinário para, reformando o acórdão formalizado pela Corte de origem, julgar procedente o pedido de recebimento do abono de permanência a partir o preenchimento dos requisitos constitucionais, independente de requerimento formal.
+    O Ministério Público Federal, em parecer emitido pelo Subprocurador-Geral da República Wagner de Castro Mathias Netto, opina pelo provimento do recurso, nos termos da seguinte ementa:
+    Recurso Extraordinário. Abono de permanência (art. 40, § 19, da CFRB/88). Desnecessidade de manifestação formal da permanência. Pelo provimento da iniciativa”. (eDOC 4, p. 42)
+    Decido.
+    Com razão o recorrente.
+    É firme a jurisprudência desta Corte no sentido de que preenchidos os requisitos para o recebimento do abono de permanência, esse direito não pode estar condicionado a outra exigência:
+    “Recurso extraordinário. Agravo regimental. 2. Aposentadoria. Direito adquirido quando preenchidos todos os requisitos. Súmula 359/STF. 3. Requerimento administrativo. Desnecessidade. Precedentes. 4. Agravo regimental a que se dá parcial provimento, tão-somente, para afastar a retroação da data de início da aposentadoria” (RE 310.159-AgR, de minha relatoria, Segunda Turma, DJ 6.8.2004).
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. EXIGÊNCIA DE REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. 1. A jurisprudência do Supremo Tribunal Federal concluiu que, uma vez preenchidos os requisitos para o recebimento do abono de permanência, esse direito não pode estar condicionado a outra exigência 2. Agravo interno a que se nega provimento”.
+(RE 648727 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 22.6.2017)
+     Confiram-se também as seguintes decisões monocráticas: ARE 899.579, Rel. Min. Roberto Barroso, DJe 31.8.2015, ARE 884.747, Rel. Min. Dias Toffoli, DJe 3.8.2015, ARE 653.065, Rel. Min. Ricardo Lewandowski, DJe 15.8.2012, RE 684.253, Rel. Min. Cármen Lúcia, DJe 5.6.2012, ARE 1.185.309, Rel. Min. Luiz Fux, Dje 20.2.2019, ARE 1.181.770, Rel. Min. Alexandre de Moraes, DJe 5.2.2019, ARE 1.164.300, Rel. Min. Celso de Mello, DJe 31.10.2018, ARE 1.090.459, Rel. Min. Marco Aurélio, DJe 27.12.2017, RE 1.116.814, Rel. Min. Edson Fachin, DJe 21.2.2019, ARE 1.116.037, Rel. Min. Rosa Weber, DJe 25.4.2018.
+     Ante o exposto, dou provimento ao recurso extraordinário para, nos termos da jurisprudência desta Corte, reformar o acórdão recorrido e assentar a desnecessidade de requerimento formal para o recebimento do abono de permanência, ao servidor que continua a exercer suas atividades após o preenchimento dos requisitos para a aposentadoria voluntária.
+    Publique-se.
+    Brasília, 30 de abril de 2019.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
