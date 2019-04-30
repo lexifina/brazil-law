@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RUBENS ALEXSON SIMOES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS. ARTIGO 561 CPC. COMPROVAÇÃO. DECISÃO MANTIDA.
+- Para o reconhecimento da procedência do pedido de reintegração de posse, faz-se necessário que o autor comprove a posse sobre a área, o esbulho ou a turbação praticada e a data de sua ocorrência. - Presentes os requisitos legais, a manutenção da sentença que julgou procedente o pedido inicial é medida que se impõe.
+Opostos embargos de declaração, foram acolhidos parcialmente, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. ACLARAMENTO DA DECISÃO.
+Os embargos declaratórios servem para sanar pontos obscuros, contraditórios e omissos de uma decisão. Todavia, havendo omissão, torna-se necessária sua extirpação, com acolhimento dos embargos declaratórios.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 373 e 561, do CPC de 2015, defendendo que a parte agravada "não se desincumbiu do ônus de provar os fatos constitutivos de seu direito, motivo pelo qual os requisitos autorizadores da reintegração de posse não restaram comprovados no caso em tela, conforme exaustivamente já demonstrado na lide".
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia e manter a decisão que julgou procedente o pedido de reintegração de posse, o Tribunal de origem assim consignou:
+Portanto, os requisitas mínimos para o acolhimento da presente ação de reintegração de posse são: o exercício da posse, o esbulho e a perda da posse do bem, conforme se pronuncia a jurisprudência:
+ .. .
+Tecidas as considerações precedentes e reportando-se á análise do conjunto probatório coligido aos autos, extrai-se estarem presentes os requisitos legais necessários ao acolhimento da proteção da posse buscada na inicial, o que conduz à necessidade de manutenção da sentença proferida.
+No presente caso, restou comprovado através dos depoimentos das testemunhas, termos encartados âs fls. 231 e 232, que havia cerca uma divisória entre os imóveis antes do esbulho, a qual consoante fotografias acostadas autos, foram retiradas do local.
+Lado outro, ficou demonstrado que o muro que o réu afirma ser o divisor dos imóveis, trata-se de muro de arrimo, utilizado para contenção de terra. Vale ressaltar que o laudo pericial de fls. 1741201 foi conclusivo em afirmar que o referido muro de arrimo encontra-se localizado dentro do imóvel dos autores, antes da cerca divisória.
+Ademais, o laudo pericial informa que o réu ultrapassou o limite do seu imóvel, invadindo a propriedade dos autores em 32,5 rn 2 (trinta e dois e meio metros quadrados).
+Desse modo, entendo que restou comprovada a posse dos autores quanto à área objeto da lide, assim como o esbulho sofrido.
+Relativamente á data da ocorrência do esbulho, verifico que o juiz a quo considerou como tal aquela informada no Boletim de Ocorrência, tendo em vista que a parte ré não impugnou tal fato, o que, a meu sentir, foi decidido acertadamente pelo nobre magistrado.
+Por fim, com relação à perda da posse, analisando o laudo pericial e os depoimentos das testemunhas, verifico que o muro çonstruído pelo réu além do seu imóvel, ou seja, dentro do imóvel dos autores, impediu que estes exercessem a posse daquela área suprimida, restando configurada a perda da posse.
+Assim sendo, tenho que a sentença guerreada deve ser mantida, posto que os requisitos autorizadores do pleito de reintegração de posse restaram inequivocamente provados nos autos, conforme acima exposto.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de verificar as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. OMISSÃO E CONTRADIÇÃO NÃO VERIFICADAS. NÃO COMPROVAÇÃO DE POSSE EFETIVA EM IMÓVEL E NÃO OCORRÊNCIA DE ESBULHO CONSTATADAS PELO TRIBUNAL A QUO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ALEGAÇÃO DE ART. DO CPC/73. INCIDÊNCIA DA SÚMULA 284/STF. JULGAMENTO DA APELAÇÃO COM BASE NA LEGISLAÇÃO REVOGADA. COMPREENSÍVEL A QUESTÃO JURÍDICA POSTA. DECISÃO RECONSIDERADA. REQUISITOS ENSEJADORES DA REINTEGRAÇÃO DE POSSE. MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO PARCIALMENTE PROVIDO PARA AFASTAR A APLICAÇÃO DA SÚMULA 284/STF. NOVO EXAME DO FEITO. NÃO CONHECER DO RECURSO ESPECIAL EM FACE DA SÚMULA 7/STJ, MANTIDOS OS DEMAIS FUNDAMENTOS DA DECISÃO SINGULAR. AGRAVO PARCIALMENTE PROVIDO.
+1. Não é necessário que o Tribunal a quo rebata cada argumento lançado no nobre apelo, mas, sim, que decida a controvérsia com devida fundamentação em sua integralidade. Além disso, a decisão contrária ao interesse da parte não significa negativa de tutela jurisdicional. Precedente.
+2. A investigação do exercício da posse efetiva de imóvel e da caracterização de prática de esbulho depende de revisitação ao acervo fático-probatório dos autos, pretensão inviável em sede de recurso especial, conforme preconiza a Súmula 7/STJ.
+3. Decisão agravada reconsiderada parcialmente, quanto à aplicação da Súmula 284/STF. Reexame do recurso especial no ponto.
+4. Em novo exame do apelo nobre, na parte da decisão reconsiderada, tem-se que a modificação do entendimento do Tribunal de origem, a fim de perquirir o cumprimento dos requisitos ensejadores da reintegração de posse, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+5. Agravo interno parcialmente provido, para afastar a aplicação da Súmula 284/STF e, em novo exame do recurso especial nessa parte, dele não conhecer, em face da Súmula 7/STJ, mantidos os demais fundamentos da decisão singular.
+(AgInt no AREsp 1250521/MA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
