@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que ambos os réus foram denunciados como incursos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (tráfico de drogas e associação para o tráfico) e o primeiro réu também pelo crime do art. 16, caput, da Lei n. 10.826/2003, tendo sido absolvidos da segunda imputação e do crime do Estatuto do desarmamento, e condenados, respectivamente, às penas de 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa, e de 5 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, e pagamento de 562 dias-multa, conforme a sentença de fls. 241-252.
+Irresignados, acusação e defesa apelaram da sentença. O Tribunal de origem deu provimento ao apelo defensivo, por maioria, e julgou prejudicado o recurso ministerial, conforme o acórdão assim ementado:
+DELITOS DE TRÁFICO DE ENTORPECENTES E POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. AUSÊNCIA DE LAUDOS PERICIAIS VÁLIDOS. IMPRESCINDIBILIDADE. LAUDOS QUE NÃO FORAM ASSINADOS PELO PERITO. APÓCRIFO. MATERIALIDADE NÃO COMPROVADA. INFRAÇÕES DESCARACTERIZADAS. ABSOLVIÇÃO DECRETADA.
+- Para o reconhecimento da existência dos crimes de tráfico ilícito de drogas e posse ilegal de munição de uso restrito é indispensável o exame pericial definitivo para a comprovação da materialidade, não podendo ser suprido por qualquer outro meio de prova.
+- O laudo pericial sem a devida assinatura do perito responsável torna-se imprestável à comprovação da materialidade do delito.
+V.V.
+EMENTA: PENAL ESPECIAL - PROCESSUAL PENAL - TRÁFICO ILÍCITO DE DROGAS E POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. RECURSO DEFENSIVO:
+PRELIMINAR - PROVA ILÍCITA - INVASÃO DE DOMICILIO - INOCORRÊNCIA.
+- A garantia constitucional da inviolabilidade do domicilio comporta exceções, como em caso de flagrante delito ou mediante consentimento dado pelo morador (art. 5º, XI, da CF/88). Tratando-se o tráfico de drogas de delito permanente, cuja situação de flagrância se protrai no tempo, incabível a alegação de violação ao principio constitucional da inviolabilidade do domicilio.
+DESCLASSIFICAÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS.
+- A definição típica do artigo 33 da Lei nº. 11.343/06 é de conteúdo variado, prevendo diversas condutas como forma de um mesmo crime.
+- A apreensão de drogas que os agentes traziam consigo e tinham em depósito, diante das circunstâncias fáticas e da prova testemunhal produzida, constitui elemento suficiente para manutenção da condenação pelo delito previsto no artigo 33 da Lei nº. 11.343/06, afastando-se os pleitos absolutório e desclassificatório.
+PENA -BASE - REDUÇÃO - INVIABILIDADE - MAUS ANTECEDENTES - CARACTERIZAÇÃO - REINCIDÊNCIA - DECOTE- ADMISSIBILIDADE.
+- "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena -base" (Súmula 444 do STJ).
+- Havendo condenação penal por fato anterior, transitada em julgado em data posterior ao crime em análise, poderá ser utilizada para fins de valoração dos maus antecedentes, mas nunca da reincidência.
+CAUSA ESPECIAL DE REDUÇÃO DE PENA PREVISTA NO ARTIGO 33, §4º, DA LEI Nº 11.343/06 - RECONHECIMENTO - POSSIBILIDADE.
+- Comprovadas nos autos as condições pessoais favoráveis do agente primário, que não se dedica às atividades criminosas, nem participa de organização criminosa, há que se reconhecer a causa especial de redução de pena, prevista no §4º do art. 33 da Lei 11.343/06.
+- RECURSO MINISTERIAL:
+ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES - ARTIGO 35 DA LEI 11.343/2006 - AUSÊNCIA DE PROVAS DO VÍNCULO ASSOCIATIVO ENTRE OS AGENTES - DELITO NÃO CONFIGURADO.
+- Imperiosa a absolvição do delito insculpido no artigo 35 da Lei nº. 11.343/06 se ausentes provas da associação dos agentes para o tráfico ilícito de entorpecentes.
+POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO - AUSÊNCIA DE ARMA DE FOGO - IRRELEVÁNCIA - CRIME DE PERIGO ABSTRATO - CONDENAÇÃO - IMPERATIVIDADE.
+- Se o laudo é conclusivo no sentido da eficiência das munições apreendidas, irrelevante a inexistência de arma de fogo apreendida, uma vez que o crime de posse irregular de arma de fogo, acessórios e munições é de perigo abstrato, bastando o oferecimento de potencial poder de lesão (fl. 266).
+Os embargos de declaração opostos foram rejeitados (fls. 407-416).
+Diante disso, o Parquet estadual interpõe recurso especial, por contrariedade aos arts. 155, caput, 158 e 386, VII, do Código de Processo Penal - CPP e 33 da Lei n. 11.343/2006, sustentando que a jurisprudência do STJ entende que ausência de assinatura do laudo definitivo não passa de mera irregularidade, não sendo capaz de afastar a prova da materialidade do delito, bem como entende ser prescindível o laudo toxicológico definitivo para comprovar a materialidade do crime de tráfico de drogas, quando existem nos autos outras provas que demonstrem a materialidade, como o laudo toxicológico preliminar.
+Contrarrazões às fls. 453-458. Admitido o recurso, os autos vieram à esta Corte (fls. 460-464). O Ministério Público Federal opinou pelo provimento do recurso (fls. 477-482).
+É o relatório. Decido.
+A irresignação prospera.
+Com efeito, no que tange ao exame toxicológico, "a jurisprudência desta Corte é reiterada de que a simples falta de assinatura do perito criminal no laudo definitivo constitui mera irregularidade e não tem o condão de anular o exame toxicológico, sobretudo, na espécie, em que o perito oficial está devidamente identificado com seu nome e número de registro no documento e houve o resultado positivo para as substâncias ilícitas analisadas." (AgRg no REsp 1.731.444/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 20/6/2018). No mesmo sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. LAUDO PRELIMINAR DE DROGA APÓCRIFO. MERA IRREGULARIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RÉU REINCIDENTE ESPECÍFICO E QUE RESPONDE A OUTROS PROCEDIMENTOS CRIMINAIS. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. RECURSO IMPROVIDO.
+1. "A jurisprudência desta Corte é reiterada de que a simples falta de assinatura do perito criminal no laudo definitivo constitui mera irregularidade e não tem o condão de anular o exame toxicológico, sobretudo, na espécie, em que o perito oficial está devidamente identificado com seu nome e número de registro no documento e houve o resultado positivo para as substâncias ilícitas analisadas" (AgRg no REsp n. 1.629.838/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 08/08/2017, DJe 18/08/2017).
+2. Se tal lapso não é capaz de gerar a nulidade de um laudo definitivo, tampouco o será para invalidar o laudo preliminar, como no caso dos autos.
+3. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+ .. .
+7. Recurso improvido (RHC 97.687/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/05/2018).
+Portanto, merece reforma o acórdão recorrido.
+Ante o exposto, nos termos da Súmula n. 568/STJ, dou provimento ao recurso especial para afastar a absolvição dos recorridos e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento das apelações da defesa e do Ministério Público Estadual.
+Publique-se. Intimem-se.
