@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJRO assim ementado (e-STJ fl. 1.547):
+Agravo de Instrumento. Dano ambiental. Inversão do ônus da prova. Possibilidade. Recurso não provido.
+Tratando-se de ação indenizatória por dano ambiental, aplica-se a teoria do risco integral, na qual a responsabilidade pelos danos causados é objetiva, e, como conseqüência, é cabível a inversão do ônus da prova no que se refere ao dano ambiental.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.577/1.580).
+A recorrente, em suas razões (e-STJ fls. 1.589/1.609), aduz divergência jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 1.022 do CPC/2015, alegando omissão quanto à "(i) incapacidade de a ESBR produzir a totalidade das provas necessárias ao deslinde do feito (sobretudo com relação aos hipotéticos danos materiais da parte contrária); e (ii) subsidiariamente, a necessidade de se proceder ao rateio dos honorários periciais tendo em vista que ambas as partes requereram a produção do da prova pericial" (e-STJ fl. 1.608).
+(b) art. 373, I, § 2º, do CPC/2015, "tendo em vista a impossibilidade de a Recorrente comprovar a inexistência dos danos supostamente sofridos pelos Recorridos conforme disposto na inicial, o que configura a ocorrência da chamada prova diabólica" (e-STJ fl. 1.608),
+(c) art. 95 do CPC/2015, "dado que ambas as partes requereram a produção da prova pericial, sendo certo que, não sendo o caso de inversão do ônus da prova, não cabe à Recorrente a obrigação do custeio integral do encargo" (e-STJ fl. 1.608).
+O recorrido, em contrarrazões (e-STJ fls. 1.642/1.668), pugna pelo desprovimento do recurso.
+O especial foi admitido pelo Tribunal de origem (e-STJ fl. 1.670).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+Sobre a inversão do ônus da prova e os honorários periciais, a Corte local assim se manifestou (e-STJ fls. 1.546/1.547):
+A agravante pretende que seja afastada a inversão do ônus probatório ao argumento de impossibilidade de produzir a totalidade das provas necessárias, bem como, para
+determinar o rateio dos honorários periciais.
+A Corte já se deparou várias vezes com a matéria, quanto a responsabilização da agravante sobre danos decorrentes possivelmente de seu empreendimento.
+Assim, a discussão está baseada na existência de dano ambiental, quando se aplica a teoria do risco integral, cabendo à agravante comprovar que a sua atividade não é responsável pelo dano ambiental, razão pela qual deverá arcar com os honorários do perito, ou assumir as conseqüências pela não produção da prova.
+(..)
+Dessa forma, cabe à agravante comprovar que a sua atividade não é responsável pelo dano ambiental apontado.
+O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ, no sentido de que "o princípio da precaução, aplicável à hipótese, pressupõe a inversão do ônus probatório, transferindo para a concessionária o encargo de provar que sua conduta não ensejou riscos para o meio ambiente e, por consequência, para os pescadores da região" (AgRg no AREsp n. 183.202/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONSTRUÇÃO DE HIDRELÉTRICA. RIO MADEIRA. PESCADORES. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO DE CONEXÃO E ILEGITIMIDADE ATIVA QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA EM AÇÃO POR INDENIZAÇÃO POR DANO AMBIENTAL. LITIGÂNCIA DE MÁ-FÉ NÃO COMPROVADA. AGRAVO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535, II, do CPC.
+2. A alegada conexão entre a presente demanda e ação civil pública, bem como a ilegitimidade dos autores, foram refutados pelo eg. Tribunal estadual sob o fundamento de que cada um dos feitos deverá ser analisado em uma situação fática particular e de que a condição de cada um dos autores depende da instrução processual, que deve ser feita nos autos originários após o devido contraditório. No caso, a alteração de tais conclusões depende da análise do conjunto fático-probatório, atraindo a incidência da Súmula 7/STJ.
+3. A inversão do ônus da prova no que se refere ao dano ambiental está de acordo com a jurisprudência desta Corte, que já se manifestou no sentido de que, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova" (AgRg no AREsp 533.786/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2015, DJe de 29/9/2015).
+4. Para que haja condenação por litigância de má-fé, é necessária a comprovação do dolo da parte. No caso, a Corte estadual expressamente consignou que tal requisito não foi comprovado, de modo que, para alterar essa conclusão, seria necessário o reexame do conjunto fático-probatório. Incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 846.996/RO, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/10/2016, DJe 19/10/2016.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Ressalte-se que revisar as conclusões acerca do preenchimento dos requisitos necessários à inversão do ônus da prova, demandaria o revolvimento de fatos e provas, prática vedada pela Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+(..)
+4. Quanto à inversão do ônus da prova, o entendimento desta Corte Superior é no sentido de que aferir se estão presentes ou não os requisitos da verossimilhança da alegação e a hipossuficiência, necessários para a inversão dos ônus da prova, esbarra no óbice da Súmula 7/STJ, visto que tais pressupostos estão essencialmente ligados ao conjunto fático-probatório dos autos.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.201.314/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/8/2018, DJe 17/8/2018.)
+Conquanto não se desconheça a orientação jurisprudencial do STJ no sentido de que a "inversão do ônus probatório não acarreta a obrigação de suportar as despesas com a perícia, implicando, tão somente, que a parte requerida arque com as consequências jurídicas decorrentes da não produção da prova" (STJ, AgRg no AgRg no AREsp 575.905/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 29/4/2015), no caso concreto, a alteração das conclusões do julgado somente poderia ocorrer mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Ainda que assim não fosse, cumpre destacar o seguinte precedente do STJ, que considerou possível a atribuição do encargo do pagamento dos honorários periciais ao réu, na hipótese de inversão do ônus probatório:
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AÇÃO CIVIL PÚBLICA. ADIANTAMENTO DE HONORÁRIOS PERICIAIS. NÃO CABIMENTO. ART. 18 DA LEI 7.347/85. ENCARGO TRANSFERIDO À FAZENDA PÚBLICA. APLICAÇÃO DA SÚMULA 232/STJ, POR ANALOGIA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. O Superior Tribunal de Justiça, no REsp 1.253.844/SC, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 17.10.2013, submetido à sistemática do art. 543-C do Código de Processo Civil, consignou que "não é possível se exigir do Ministério Público o adiantamento de honorários periciais em ações civis públicas. Ocorre que a referida isenção conferida ao Ministério Público em relação ao adiantamento dos honorários periciais não pode obrigar que o perito exerça seu ofício gratuitamente, tampouco transferir ao réu o encargo de financiar ações contra ele movidas. Dessa forma, considera-se aplicável, por analogia, a Súmula n. 232 desta Corte Superior ("A Fazenda Pública, quando parte no processo, fica sujeita à exigência do depósito prévio dos honorários do perito"), a determinar que a Fazenda Pública ao qual se acha vinculado o Parquet arque com tais despesas".
+3. A orientação adotada no referido julgado não impede, em absoluto, a inversão do onus probandi, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, hipótese em que caberá ao réu se encarregar do pagamento de eventual prova pericial.
+4. Recurso Especial não provido.
+(STJ, REsp 1.582.602/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 2/9/2016.)
+Por fim, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
