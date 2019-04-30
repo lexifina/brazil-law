@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME] e PEDRO HENRIQUE DA ROCHA MACEDO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0005673-80.2014.8.26.0099).
+Consta dos autos que o Juízo de primeiro grau condenou os pacientes, respectivamente, a 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e 2 anos de reclusão, inicialmente no regime aberto, substituída por medidas restritivas de direitos, como incursos no artigo 184, §2º, do Código Penal (violação de direito autoral).
+Interposta apelação, pela defesa, o Tribunal a quo deu parcial provimento ao recurso, apenas para reduzir o montante da prestação pecuniária relativa à medida restritiva de direitos.
+No presente mandamus, o impetrante sustenta que julgamento colegiado impôs constrangimento ilegal aos réus, por não reconhecer o caráter ilícito da busca e apreensão policial realizada no estabelecimento comercial onde estariam os presentes, já que o ingresso teria sido autorizado por pessoa incapaz civilmente para o ato, tornando as demais provas ilícitas por derivação (fls. 4/5).
+Aduz, ainda, que a imposição do regime prisional mais gravoso tomou por fundamento os maus antecedentes e a reincidência do paciente [NOME] na seara criminal, não obstante o total de pena designado (fl. 13).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque o voto condutor no acórdão recorrido foi enfático ao consignar que as provas dos autos demonstram que a entrada no estabelecimento comercial foi franqueada não só pelo menor Eduardo, mas também por Pedro, que também vendia os produtos "piratas" no local (fl. 23).
+Diante desses fundamentos, o acolhimento da tese da defesa demanda o revolvimento de matéria fática, o que é vedado em habeas corpus.
+Noutro enfoque, embora a reprimenda de Ivo não tenha ultrapassado 4 anos, o reconhecimento de circunstância judicial desfavorável e da reincidência justificam a fixação do regime inicial fechado.
+No mesmo sentido:
+HABEAS CORPUS. FURTO SIMPLES. (I) BENS AVALIADOS EM R$ 290,80 (DUZENTOS E NOVENTA REAIS E OITENTA CENTAVOS). RÉ REINCIDENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. NÃO OCORRÊNCIA. (II) PENA-BASE TRÊS VEZES ACIMA DO MÍNIMO LEGAL. DESPROPORCIONALIDADE. (III) REINCIDÊNCIA ESPECÍFICA. COMPENSAÇÃO INTEGRAL COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. (IV) REGIME INICIAL. SÚMULA N. 269/STJ. INAPLICABILIDADE. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+ ..
+8. Permanece o regime fechado para o início do cumprimento da sanção aplicada, pois, embora a pena imposta à paciente seja inferior a 4 (quatro) anos de reclusão, a reincidência da ré, somada à análise desfavorável da circunstância judicial relativa aos antecedentes, impede a aplicação do disposto no enunciado n. 269 da Súmula desta Casa. Precedentes.
+9. Ordem parcialmente concedida para reduzir o aumento aplicado na primeira fase da dosimetria, redimensionando a reprimenda definitiva da paciente para 2 (dois) anos de reclusão e 16 (dezesseis) dias-multa, mantido, no mais, o acórdão estadual (HC 401.329/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 31/08/2017).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO MEDIANTE FRAUDE. DESCLASSIFICAÇÃO PARA ESTELIONATO. AUSÊNCIA DE VONTADE DO DESPOJAMENTO DO BEM. REGIME FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEL E REINCIDÊNCIA. INAPLICABILIDADE DA SÚMULA 269/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+Apresenta-se inaplicável à espécie o disposto na Súmula 269/STJ, e isto porque, embora condenado a pena inferior a quatro anos, o agravante é reincidente e teve a pena-base fixada acima do mínimo legal, em face da valoração negativa das circunstâncias judiciais.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 986.850/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 30/08/2017).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. PORTE DE ARMA DE FOGO DE USO RESTRITO E ARTEFATO EXPLOSIVO. CONCURSO MATERIAL. INOCORRÊNCIA. CRIME ÚNICO RECONHECIDO. [NOME]. REGIME FECHADO CABÍVEL. PACIENTE REINCIDENTE E PENA-BASE ACIMA DO MÍNIMO LEGAL. NÃO APLICAÇÃO DA SÚMULA N. 269/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Esta Corte firmou o entendimento no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada na reincidência ou nas circunstâncias judiciais previstas no art. 59 do Código Penal. Inteligência da Súmula n. 440/STJ.
+- Por outro lado, segundo o enunciado n. 269 da Súmula desta Corte, é admissível a fixação do regime prisional semiaberto ao réu reincidente condenado a pena igual ou inferior a quatro anos, quando favoráveis as circunstâncias judiciais. - Hipótese em que, apesar de a pena final do paciente ter sido estabelecida em patamar inferior a quatro anos de reclusão e a reincidência não ser empecilho, por si só, à fixação do regime intermediário, o fato de o acusado possuir circunstância judicial desfavorável, que justificou a exasperação da pena-base acima do mínimo legal, permite estabelecer o regime inicial fechado.
+- Habeas corpus não conhecido. Ordem concedida de ofício, para, afastando o concurso material de delitos, redimensionar as penas do paciente para 3 anos e 6 meses de reclusão, em regime inicial fechado, e 11 dias-multa (HC 362.157/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/05/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
