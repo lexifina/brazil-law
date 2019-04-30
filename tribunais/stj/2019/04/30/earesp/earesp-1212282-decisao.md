@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos contra aresto prolatado pela TERCEIRA TURMA deste Tribunal Superior, assim ementado (e-STJ fl. 715):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO. AUSÊNCIA. PRESCRIÇÃO. INTERRUPÇÃO. NÃO RECONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o despacho que ordena a citação não constitui causa interruptiva do prazo prescricional se o autor não promover o aperfeiçoamento do ato citatório no prazo processual previsto para tanto, ressalvado o reconhecimento de culpa exclusiva do serviço judiciário pela demora eventualmente verificada, o que não é o caso dos autos.
+3. Agravo interno não provido.
+A parte embargante defende que o acórdão recorrido contrariou julgado da Quarta Turma do STJ, que apresenta a seguinte ementa (e-STJ fl. 738):
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL.
+1. Prazo prescricional para exercício da pretensão voltada à cobrança da indenização do seguro obrigatório (DPVAT). Lapso de 20 (vinte) anos sob a égide do Código Civil de 1916 (artigo 177), alterado para 3 (três) anos a partir da entrada em vigor do Código Civil de 2002 (artigo 206, inciso IX, § 3º), devendo ser observada a regra de transição do artigo 2.028 do último Codex.
+2. Causa interruptiva do prazo prescricional. A citação válida (artigo 172, inciso I, do Código Civil de 1916) ou o despacho ordinatório da citação (artigo 202, inciso I, do Código Civil de 2002), em processo extinto sem resolução do mérito (salvante as hipóteses de extinção do feito por inação do autor), têm o condão de interromper o prazo prescricional para o exercício da pretensão a ser deduzida em juízo. Precedentes. Incidência da Súmula 83/STJ.
+3. Agravo regimental desprovido, com imposição de multa.
+(AgRg no AREsp 286.200/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/5/2013, DJe 6/6/2013.)
+A parte recorrente alega que o acórdão embargado divergiu do paradigma ao afastar a tese de que o despacho ordinatório da citação interrompe em processos anteriores interrompe a prescrição relativa a pedido constante de nova demanda (e-STJ fl. 735).
+Pede a reforma do acórdão embargado, para que seja reformado o acórdão da Terceira Turma (e-STJ fl. 735).
+É o relatório.
+Decido.
+O conhecimento dos embargos de divergência exige similitude fático-processual entre os arestos embargado e paradigmas. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL ENTRE OS ACÓRDÃOS EM COTEJO. 1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+2. No caso, é evidente a inexistência de similitude fático-processual uma vez que, no caso concreto, a pretensão é a de responsabilizar a instituição bancária em razão de o correntista ter causado prejuízo a terceiros em razão da emissão de cheques sem provisão de fundos; no julgado divergente, a hipótese é de responsabilização da instituição financeira por fraude praticada por terceiro à correntista.
+3. Agravo interno não provido.
+(AgInt nos EREsp 1454899/SC, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 19/12/2017.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. FALTA DE MANIFESTAÇÃO NO ACÓRDÃO EMBARGADO SOBRE O TEMA OBJETO DO RECURSO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973 ao Agravo Regimental e aos Embargos de Divergência.
+II - No caso, além de o acórdão embargado não ter se manifestado sobre o tema objeto dos embargos de divergência, não há similitude fático-processual entre os arestos confrontados, na medida em que, na situação dos autos, a medida de indisponibilidade de bens foi determinada por esta Corte e, no acórdão paradigma, foi decidida pelo tribunal de origem, se limitando o Superior Tribunal de Justiça a estabelecer sobre quais bens poderia ou não recair a constrição.
+III - O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual o dissídio capaz de ensejar a interposição de embargos de divergência é aquele que se verifica em hipóteses semelhantes, devendo ser demonstrado que em situações idênticas foram dadas soluções meritórias dissonantes.
+IV - Os Agravantes não apresentam, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg nos EREsp 990.078/MT, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 27/9/2017, DJe 3/10/2017.)
+No caso, a Terceira Turma considerou que o despacho que ordenou a citação em processo anterior não interrompeu a prescrição porque, nos termos do art. 219, §§ 2º e 3º, do CPC/1973, vigente à época dos fatos, a parte autora não promoveu a citação no prazo legal, tendo desistido de realizar os atos necessários à perfectibilização da relação processual (e-STJ fl. 1.408).
+O paradigma da Quarta Turma, no entanto, analisou conjuntura diversa, em que se reconheceu a interrupção da prescrição ante a existência de efetiva citação, na lide anterior, da parte indicada no polo passivo da ação, a qual foi extinta, sem resolução do mérito, por se reconhecer, no processamento da causa, que a ré não tinha legitimidade passiva (e-STJ fls. 743/744).
+Diante do exposto, com fundamento no § 3º do art. 266 do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios fixados na origem, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
