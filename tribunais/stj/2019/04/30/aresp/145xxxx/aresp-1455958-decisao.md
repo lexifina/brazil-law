@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 383, e-STJ):
+Plano de saúde. Inépcia afastada. Negativa na cobertura de tratamento sob a alegação de ausência de cumprimento de prazo de carência contratual. Necessidade de realização de procedimento de emergência em razão de neoplasia maligna de cólon. Carência afastada. Inteligência do art. 12, V, c, da Lei 9656/98. De rigor a cobertura do procedimento cirúrgico e todo o tratamento quimioterápico de que necessita o autor. Dano moral configurado. Indenização no valor de R$ 10.000,00 que se mostra adequada ao caso concreto, tendo em vista o risco de a demora no início do tratamento piorar o quadro clínico do autor. Condenação ao pagamento de multa pela demora no cumprimento da liminar que também se mostra correta e em valor razoável. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 396/398, e-STJ).
+Nas razões do recurso especial, a agravante alega violação ao art. 1.022 do Código de Processo Civil de 2015.
+Sustenta, em síntese, que o acórdão recorrido padece de erro material, no que tange ao valor a ser ressarcido ao autor. Afirma que essa alegação não foi devidamente enfrentada pelo Tribunal quando da interposição dos embargos de declaração.
+Não foram apresentadas contrarrazões (fl. 419, e-STJ).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 420/421, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A agravante afirma que o Tribunal de origem deixou de analisar a alegação de que o acórdão teria incorrido em erro material, ao determinar a restituição, ao autor, do montante de R$ 96.334,05 (noventa e seis mil, trezentos e trinta e quatro reais e cinco centavos), e não de R$ 30.953,00 (trinta mil, novecentos e cinquenta e três reais).
+Argumenta que o autor somente comprovou o desembolso desse segundo valor, de modo que o restante deveria ser restituído ao hospital.
+Sem razão, contudo.
+Com efeito, no julgamento dos embargos de declaração, esse tema foi enfrentado pela Corte de origem. Decidiu-se, na oportunidade, que, se a dívida total foi assumida de forma particular pelo autor, a restituição deve ser direcionada a ele, e não ao hospital.
+Transcrevo, a seguir, excertos da referida decisão (fls. 397/398, e-STJ):
+Rejeitam os embargos.
+Não há contradição, omissão ou obscuridade alguma no v. acórdão que, com a fundamentação que entendeu adequada e pertinente, dirimiu a controvérsia ao entendimento assim ementado: "Plano de saúde. Inépcia afastada. Negativa na cobertura de tratamento sob a alegação de ausência de cumprimento de prazo de carência contratual. Necessidade de realização de procedimento de emergência em razão de neoplasia maligna de cólon. Carência afastada. Inteligência do art. 12, V, c, da Lei 9656/98. De rigor a cobertura do procedimento cirúrgico e todo o tratamento quimioterápico de que necessita o autor. Dano moral configurado. Indenização no valor de R$ 10.000,00 que se mostra adequada ao caso concreto, tendo em vista o risco de a demora no início do tratamento piorar o quadro clínico do autor. Condenação ao pagamento de multa pela demora no cumprimento da liminar que também se mostra correta e em valor razoável. Recurso improvido".
+(VT42024, fls. 382/388).
+O v. acórdão foi expresso ao manter a sentença com relação à condenação das rés a arcarem com as despesas dos procedimentos médico-cirúrgicos realizados (fl. 386) e a r. sentença foi bastante clara ao condenar as rés a "indenizarem o autor, no montante de R$ 95.381,05  ..  devido aos seus gastos com os procedimentos médicos-cirúrgicos" (fl. 315).
+Nesse contexto, considerando que os gastos de R$ 95.381,05 foram assumidos de maneira particular pelo autor, de acordo com as notas fiscais, não há erro material ou omissão quanto ao fato de o pagamento ser feito ao autor, e não ao hospital.
+Tendo as questões relevantes à análise do direito suscitado no recurso sido expressa e integralmente abordadas, observando-se a jurisprudência deste E. Tribunal de Justiça, bem como do C. Superior Tribunal de Justiça, nada há o que aclarar, esclarecer ou modificar.
+Na realidade, a leitura dos embargos revela contrariedade ao que se decidiu e a nítida pretensão de que se redecida a matéria discutida, providência que, contudo, não pode ser obtida por meio dos embargos de declaração. Se o Tribunal não apreciou acertadamente as provas e o mérito da questão controvertida, como entende a embargante, a correção só pode ser feita pelo recurso às instâncias superiores.
+Dessa forma, ausente a omissão, não há que se falar em violação ao art. 1.022 do Código de Processo Civil, nos termos do julgado cuja ementa cito a seguir:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. OMISSÃO. ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. MANUTENÇÃO INDEVIDA DE INSCRIÇÃO DESABONADORA DO NOME DO AGRAVANTE. VERBA INDENIZATÓRIA ARBITRADA COM RAZOABILIDADE E PROPORCIONALIDADE. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao art. 1.022 do Código de Processo Civil.
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339405/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+Em face do exposto, nego provimento ao agravo.
+A majoração da verba honorária em razão do disposto no art. 85, § 11, do Código de Processo Civil/2015 mostra-se incabível, uma vez que já houve a sua fixação no limite máximo pelas instâncias de origem.
+Intimem-se.
