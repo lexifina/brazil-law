@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por ZATIX TECNOLOGIA S/A contra v. acórdão do eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 457):
+"APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS - PRESTAÇÃO DE SERVIÇOS - RASTREAMENTO VEICULAR - COBRANÇA DE MENSALIDADES NO PERÍODO DE 90 DIAS APÓS O PEDIDO DE CANCELAMENTO DO CONTRATO, SEM A PROVA DE QUE HOUVE A PRESTAÇÃO DO SERVIÇO - IMPOSSIBILIDADE - REPETIÇÃO DO INDÉBITO - DEVIDA - DANOS MORAIS - PESSOA JURÍDICA - CARACTERIZADOS - INSCRIÇÃO INDEVIDA EM ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO - QUANTUM INDENIZATÓRIO - MANTIDO - RECURSO CONHECIDO E DESPROVIDO.
+I. Não tendo a ré comprovado que houve a efetiva prestação do serviço de rastreamento de veículos no período de 90 dias após o pedido de cancelamento do contrato, não há fundamento para admitir a sua cobrança. Cabia à ré a demonstração da efetiva prestação dos serviços em favor da autora, entretanto, não se desincumbiu do ônus respectivo. Daí naturalmente decorre a constatação de que a cobrança é indevida.
+II. Configurada a cobrança indevida e a relação de consumo entre as partes, mostra-se impositiva a manutenção da sentença que reconheceu o dever da parte ré de restituir em dobro os valores indevidamente cobrados e efetivamente pagos pela parte autora.
+III. A pessoa jurídica pode sofrer dano moral, porém apenas quando o abalo atinge sua honra objetiva. A inscrição indevida em cadastro de inadimplentes acarreta prejuízo moral.
+IV. Valor indenizatório arbitrado em harmonia com os critérios de balizamento usuais."
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 1.022, II 1.025, do Código de Processo Civil de 2015, 188, 884, 944, do Código Civil, argumentando, em síntese, isso: (I) negativa de prestação jurisdicional; (II) "O montante arbitrado a título de por danos morais, qual seja, R$10.000,00, é desproporcional aos acontecimentos narrados nos autos e proporciona à recorrida o enriquecimento ilícito à custa da recorrente" (fl. 492); (II) "Insta salientar que o dano moral não pode ser confundido com meros aborrecimentos ou sensibilizações, recorrentes hodiernamente. Para que se configure o dano moral indenizável, faz-se necessária a comprovação da ocorrência de uma situação fática que necessariamente enseje dor, vexame ou humilhação, e que abale o psicológico da vítima" (fl. 493).
+É o relatório. Decido.
+Cumpre observar que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplicando-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Iniciando a análise das razões do apelo especial, tem-se que, ao apontar violação aos arts. 1.022 e 1.025 do CPC/2015, a parte recorrente sustenta que o acórdão recorrido restou omisso, pois não analisou a lide em sua integralidade, bem como não enfrentou à contrariedade do disposto nos arts. 188, 884 e 944 todos do Código Civil.
+Com efeito, rejeita-se a alegada violação dos referidos dispositivos, uma vez que o eg. TJ-MS analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Nesses termos, verifica-se que é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Não constatada a alegada violação aos artigos 489, § 1º, inc. IV, e 1.022, inc. II, do CPC/15, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente, ainda que em sentido contrário a pretensão recursal.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp 1326226/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/11/2018, DJe 04/12/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, inciso IV e 1.022, do CPC/2015 NÃO CONFIGURADA. VERIFICAÇÃO DA OBSERVÂNCIA DO PRINCÍPIO DA ADSTRIÇÃO E ANÁLISE DE POSSÍVEL NULIDADE CONTRATUAL. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Não há violação dos arts. 489, § 1º, inciso IV e 1.022, do CPC/2015, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada. No caso, o julgamento do feito apenas se revelou contrário aos interesses da parte recorrente, circunstância que não configura omissão, nem contradição ou obscuridade, tampouco erro material.
+(..)
+6. Agravo Interno não provido."
+(AgInt no AREsp 1151471/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/11/2018, DJe 16/11/2018 - grifou-se)
+Prosseguindo nas razões do apelo nobre, a parte recorrente defende que a condenação ao pagamento de indenização por danos morais se mostra excessiva, porquanto o valor arbitrado, R$10.000,00 (dez mil reais), enriquece ilicitamente a parte recorrida.
+Por sua vez, o TJ-MS, soberano na análise do acervo fático-probatório, consignou que a inscrição indevida em cadastro de inadimplentes acarreta prejuízo moral digno de ser indenizado, asseverando que o valor de R$10.000,00 (dez mil reais) se mostra razoável diante das peculiaridades do caso em tela. Confira-se excerto do v. acórdão estadual (fl. 464):
+"No entanto, em sendo a pessoa jurídica um ente abstrato, não pode ela padecer de sofrimento físico ou espiritual. Pode, porém, sofrer danos à sua imagem, à sua reputação perante terceiros, por atos que afetem seu bom nome junto à sociedade.
+No caso vertente, observa-se que a apelada reclama reparação por dano moral em virtude de mácula causada à sua imagem, em virtude de inserção indevida de seu nome em cadastro de inadimplentes, por dívida inexistente, de modo que a apelante efetuou tais apontamentos irregularmente, sendo, portanto, devida a indenização pelo dano moral.
+Consoante entendimento perfilhado pelo Superior Tribunal de Justiça, "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp 1.059.663/MS - 3ª Turma - rel. Ministra Nancy Andrighi - J. 02.12.2008).
+É consabida a dificuldade de que se reveste a quantificação da indenização por danos morais, que deve levar em conta a gravidade do dano, a sua extensão, a posição social e econômica das partes, as finalidades reparatória e punitiva da indenização, devendo ser ela suficiente para coibir novos abusos do ofensor, sem que, todavia, permita o enriquecimento sem causa do ofendido.
+Sopesados todos os aspectos mencionados, tem-se que a importância de R$ 10.000,00 (dez mil reais), fixada na sentença, é adequada para compor o prejuízo moral experimentado, não se mostrando excessiva, motivo pelo qual não comporta a redução pleiteada pela ré."
+Sobre o tema, tem-se que a iterativa jurisprudência desta eg. Corte Superior é no sentido de que a revisão do montante da indenização por danos morais esbarra no óbice da Súmula n. 7/STJ, a qual somente é relativizada se o quantum revelar-se exorbitante ou irrisório. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp 1325793/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO POR CAMINHÃO A SERVIÇO DE EMPRESA PRESTADORA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO DEMONSTRADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AMPUTAÇÃO DO MEMBRO INFERIOR ESQUERDO. DANOS ESTÉTICOS. MAJORAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+(..)
+5. É pacífico o entendimento desta Corte de que o valor fixado a título de indenização por danos estéticos e danos morais estabelecido pelas instâncias ordinárias pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+(..)
+7. Agravo interno não provido."
+(AgInt no REsp 1406744/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018 - grifou-se)
+No caso dos autos, o valor arbitrado em R$10.000,00 a título de danos morais não se mostra exorbitante, devendo ser confirmada a incidência do óbice da Súmula n. 7/STJ.
+Por fim, tem-se que o entendimento atual desta Corte é no sentido de que a incidência da Súmula 7 do STJ é óbice também para análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito, vide o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. DANOS MATERIAIS. RESPONSABILIDADE. ALTERAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(..)
+3. É impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1237811/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/08/2018, DJe 14/08/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 15% para 16% sobre o valor atualizado da da condenação.
+Publique-se.
