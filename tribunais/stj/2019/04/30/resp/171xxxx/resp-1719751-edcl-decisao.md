@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos declaratórios (e-STJ fls. 467/471) opostos por UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA LTDA a decisões desta relatoria que deu provimento ao recurso de FRANCISCO DE ASSIS MACIAL - ESPÓLIO e inadmitiu o recurso especial da parte ora embargante.
+Em suas razões, a embargante alega obscuridade quanto à fixação dos honorários advocatícios, pois "houve o arbitramento dos honorários em favor do embargado, em duas decisões, de forma distinta, razão pela qual se faz necessário o esclarecimento acerca do valor real de sucumbência" (e-STJ fl. 469)
+Ao final, requer o acolhimento dos embargos (e-STJ fl. 519).
+A parte embargada, intimada, não apresentou impugnação (e-STJ fl. 476).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+O recorrido, em vida, ajuizou ação pleiteando cobertura do plano de saúde para tratamento garantido pelo convênio, além de indenização por danos morais. Em primeira instância, o feito foi julgado totalmente procedente (e-STJ fls. 136/141).
+A parte ré interpôs apelação, à qual foi dado parcial provimento, a fim de se excluir a condenação por danos morais, mantendo apenas a obrigação de custear a assistência médica (e-STJ fls. 237/251).
+Ambas as partes recorreram a esta instância excepcional. O segurado postulando a indenização por danos extrapatrimoniais (e-STJ fls. 254/265) e a empresa de saúde visando excluir sua obrigação de custeio (e-STJ fls. 266/272).
+Considerando a jurisprudência predominante desta Corte Superior, o recurso do consumidor teve êxito (e-STJ fls. 454/455), condenando-se a operadora do plano a pagar indenização por danos imateriais. O recurso da empresa não foi conhecido, ante o óbice da Súmula n. 5/STJ (e-STJ fls. 456/459).
+Na divisão da sucumbência, foi condenada a empresa de saúde, ante o provimento do recurso do segurado, a arcar integralmente com as custas e honorários, fixados em 20% sobre o valor total da condenação (e-STJ fl. 459).
+Em decorrência da inadmissibilidade do recurso especial da operadora do plano, houve também a majoração dos honorários recursais fixados na origem em favor da parte consumidora (e-STJ fl. 459).
+Ocorre que, na origem, o TJCE havia fixado sucumbência recíproca entre as partes, reformando parcialmente a sentença que julgou integralmente procedente a lide, no sentido de manter a condenação ao custeio do atendimento médico e excluir a indenização por danos morais (e-STJ fls. 237/251).
+Nesse sentido, constata-se obscuridade na fixação da sucumbência nesta instância, devendo ser acolhidos os aclaratórios para sanar esse vício.
+Assim, ante o provimento do recurso especial do consumidor, altera-se o acórdão do Tribunal da origem, de maneira que a sucumbência, totalmente favorável à parte autora, será calculada pela aplicação do percentual de 20% (vinte por cento) sobre o montante TOTAL da condenação - conforme explicitado na decisão de provimento do seu recurso - englobando o valor dos danos morais e a obrigação de cobertura imposta à operadora do plano, ante seu inequívoco proveito econômico a ser apurado em liquidação.
+Diante da inadmissibilidade do recurso especial da empresa de saúde, os honorários fixados integralmente em favor do consumidor deveriam ser majorados a título de verba recursal, segundo disposto no art. 85, § 11, do CPC/2015:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(..)
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+Entretanto, no presente caso, como o percentual arbitrado à parte vencedora atinge o teto estipulado no art. 85, § 2º, do CPC/2015 (20% - vinte por cento), em função do provimento do seu pleito nesta instância, o aumento dos honorários recursais fica sem efeito, conforme estabelecido na decisão que inadmitiu o recurso da empresa de saúde (e-STJ fl. 455):
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Em face do exposto, ACOLHO os embargos de declaração, para esclarecer a distribuição dos ônus de sucumbência, nos termos acima expostos, a fim de excluir a majoração dos honorários recursais da decisão que inadmitiu o recurso da empresa embargante e determinar, em favor da parte vencedora da ação, honorários advocatícios no valor de 20% (vinte por cento) sobre o valor total da condenação, incluindo os danos morais e a obrigação de fazer, cujo proveito econômico será apurado em liquidação.
+Publique-se e intimem-se.
