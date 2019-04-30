@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (eDOC 2, p. 43):
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE INDEFERIU A PETIÇÃO INICIAL DE MANDADO DE INJUNÇÃO POR MANIFESTA IMPROCEDÊNCIA DO PEDIDO. ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS JULGADO PELO ÓRGÃO ESPECIAL DESTA CORTE. REGRAMENTO PRÓPRIO DOS MILITARES. APLICAÇÃO DA TESE FIXADA PELO COLEGIADO NO JULGAMENTO DO REFERIDO INCIDENTE: “Os militares do Estado do Rio Grande do Sul, porque submetidos pela Constituição Federal ao regramento próprio dos militares das Forças Armadas, não têm direito à remuneração do trabalho noturno superior à do diurno, não se lhes aplicando o regime jurídico dos servidores ocupantes de cargo público subsidiariamente para essa finalidade.” Definida a matéria no julgamento do incidente de resolução de demandas repetitivas, ao relator dos feitos que estavam suspensos, justamente no aguardo de tal definição, é cometida a aplicação do que deliberado no dito incidente. Natureza do incidente e inteligência do disposto no artigo 932, IV, “c”, do Código de Processo Civil. Agravo interno que não vai além de reproduzir alegações já afastadas à saciedade na decisão recorrida. Aplicação da multa do §4º do artigo 1.021 do CPC.
+    AGRAVO INTERNO DESPROVIDO. UNÂNIME. “
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LXXI; e 7º, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “É justamente na hipótese de ausência de norma reguladora do Adicional Noturno aos Policiais Militares, nada mais correto que a aplicação do remédio Constitucional, à norma prevista no art. 113 da Lei Estadual n.º 10.098/94, determinando o pagamento de 20% do valor-hora ao trabalho noturno efetivamente exercido”. (eDOC 3, p. 15)
+    A 2ª Vice-Presidência do TJ/RS inadmitiu o recurso extraordinário mediante aplicação da Súmula 283 do STF (eDOC 3, pp. 68-71).
+    É o relatório. Decido.
+    Verifica-se que o Supremo Tribunal Federal, no RE 970.823-RG (Tema 1038), da relatoria do Ministro Marco Aurélio, em decisão do dia 05.04.2019, reconheceu a repercussão geral da matéria controvertida nestes autos, qual seja, a possibilidade de “reconhecimento de adicional noturno constante da legislação civil a servidores militares estaduais, sem previsão expressa do direito na Constituição Federal.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
