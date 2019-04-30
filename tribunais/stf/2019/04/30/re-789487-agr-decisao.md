@@ -1,0 +1,10 @@
+Decisão:
+    Trata-se de agravo interno cujo objeto é decisão monocrática de minha relatoria que negou seguimento ao recurso extraordinário interposto pela União.
+    A parte recorrente sustenta que a jurisprudência dessa Corte ainda não está consolidada quanto à presente controvérsia.
+    Assiste razão à parte agravante. Com efeito, em recente decisão, o Supremo Tribunal Federal reconheceu a repercussão geral da questão relativa a competência legislativa da União para dispor sobre normas gerais em matéria previdenciária no que diz respeito ao descumprimento da Lei 9.717/1998 e do Decreto 3.778/2001 pelos demais entes federados. RE 1.007.271, Rel. Min. Edson Fachin (Tema 968). Confira-se:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO FINANCEIRO. DIREITO PREVIDENCIÁRIO. COMPETÊNCIA LEGISLATIVA. UNIÃO. NORMAS GERAIS. DESCUMPRIMENTO DE NORMA PELOS DEMAIS ENTES FEDERADOS. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA – CRP. LEI 9.717/1998. DECRETO 3.788/2001. PORTARIA MPS 204/2008 E ALTERAÇÕES. 1. A controvérsia em tela consiste na constitucionalidade dos arts. 7º e 9º da Lei 9.717/1998 e do Decreto 3.788/2001, que institui o Certificado de Regularidade Previdenciária, no aspecto em que estabelecem medidas restritivas ao ente federado que não cumpra as regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos. 2. A questão referente ao alcance da competência legislativa da União para dispor sobre normas gerais em matéria previdenciária, ainda que de natureza sancionatória, no que diz respeito ao descumprimento das normas da Lei 9.717/1998 pelos demais entes federados, possui repercussão geral. 3. Preliminar de repercussão geral reconhecida.” (RE 1007271 RG, Rel. Min. Edson Fachin)
+    Diante do exposto, reconsidero a decisão monocrática anteriormente proferida, e, com fundamento no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições da repercussão geral. Julgo prejudicado o agravo interno.
+    Publique-se.
+     Brasília, 30 de abril de 2019
+Ministro Luís Roberto Barroso
+Relator
