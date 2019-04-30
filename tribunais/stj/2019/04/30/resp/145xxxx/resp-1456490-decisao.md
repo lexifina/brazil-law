@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pela UNIÃO e o INSS, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 236):
+ADMINISTRATIVO. PENSIONISTA DE EX-FERROVIÁRIO. PRELIMINARES. REJEITADAS. COMPLEMENTAÇÃO DE BENEFÍCIO. LEI 8.186/91. RECURSO REPETITIVO. POSSIBILIDADE. STJ.
+Rejeitadas as preliminares de ilegitimidade passiva, decadência e prescrição.
+As normas de concessão de benefícios da Lei Previdenciária, tanto na aposentadoria, como na pensão dos ferroviários abrangidos pela Lei nº 8.186/91, se refere à aplicação do Regime Geral da Previdência Social (Lei nº 8.213/91) apenas quanto às regras gerais para a concessão dos benefícios, não afastando o regime específico dessa Lei no que tange à complementação do seu valor.
+A orientação do E. STJ é no sentido de que a complementação da pensão aos beneficiários de ex-ferroviários, prevista no art. 5º da Lei 8.168/91, assegura- lhes a percepção de proventos equivalentes à remuneração do pessoal em atividade na RFFSA e suas subsidiárias No que tange aos acréscimos moratórios (juros e correção monetária) incidentes sobre os valores devidos à parte autora, devem ser observados os parâmetros estabelecidos por esta Corte.
+Mantidos os honorários advocatícios fixados na sentença, porquanto na esteira dos precedentes da Turma.
+Desprovidas as apelações e a remessa oficial.
+Acolhidos em parte ambos os aclaratórios para fins de prequestionamento (e-STJ fl. 277).
+Nas suas razões, o INSS aponta violação dos seguintes dispositivos legais: art. 535, II, do CPC/1973; art. 103, caput, da Lei n. 8.213/91; art. 6º da LICC; art. 54 da Lei n. 9.784/99. Defende, além de nulidade por negativa de prestação jurisdicional, que a pretensão revisional foi alcançada pelo prazo decadencial de dez anos.
+Já a UNIÃO aduziu afronta ao art. 535, II, do CPC/1973, ao art. 103, caput, da Lei n. 8.213/1991, ao art. 6º da LICC e ao art. 20, §§ 3º e 4º, e 260 do CPC/1973. Defende, além de nulidade por negativa de prestação jurisdicional, que a pretensão revisional foi alcançada pelo prazo decadencial de dez anos. Ao final, pugna pela incidência da verba honorária sobre as parcelas vencidas, até o ajuizamento da ação, mais 12 parcelas vincendas.
+Contrarrazões às e-STJ fls. 351/360.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida essa premissa, tenho que o inconformismo da UNIÃO, no que tange à afronta ao art. 535 do CPC/1973 pelo não enfrentamento do ponto relativo à limitação da verba honorária, merecer prosperar.
+É que a Corte Regional, no aresto recorrido, mesmo depois de oportunamente provocada mediante aclaratórios, não teceu nenhuma manifestação sobre "a necessidade de limitação da base de cálculo da verba honorária aos parâmetros indicados no art. 260 do CPC" (e-STJ fl. 269), ponto devolvido à apreciação no apelo da UNIÃO (e-STJ fl. 229) e indicado como omisso nos embargos (e-STJ fls. 253/254).
+É cediço que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder a todos os argumentos suscitados pela parte.
+Todavia, na espécie, as alegações apresentadas nos aludidos embargos de declaração, como visto, mostram-se relevantes para a solução da controvérsia, razão por que elas devem ser expressamente enfrentadas, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A ocorrência de vício de integração acerca de questão relevante justifica a nulidade do julgado recorrido, por violação do art. 535 do CPC/1973. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC PELO TRIBUNAL A QUO. OCORRÊNCIA. OMISSÃO EVIDENCIADA. ACÓRDÃO ANULADO.
+1. Constatado que o acórdão recorrido carece de integração, porquanto omisso acerca de questões relevantes para o deslinde da demanda, oportunamente suscitadas em sede de aclaratórios, deve ser reconhecida a nulidade do julgado por violação do art. 535 do CPC.
+2. Agravo regimental não provido (AgRg no AREsp 109.883/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/11/2012, DJe 26/11/2012).
+Reconhecido o vício de nulidade do acórdão recorrido, ficam prejudicadas as demais questões suscitadas no recurso especial da UNIÃO, bem como o apelo especial do INSS.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial da UNIÃO para anular o acórdão prolatado em sede de embargos declaratórios, determinando o retorno dos autos ao Tribunal de origem, a fim de que reaprecie os aclaratórios, sanando o vício de integração ora identificado, JULGANDO PREJUDICADO o apelo especial do INSS.
+Publique-se. Intimem-se.
