@@ -1,0 +1,25 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PROCON.MULTA ADMINISTRATIVA. AÇÃO ANULATÓRIA. COBRANÇA DE TARIFA DE CADASTRO. POSSIBILIDADE DE COBRANÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 723):
+APELAÇÃO AÇÃO ANULATÓRIA MULTA ADMINISTRATIVA COBRANÇA DE TARIFA DE CADASTRO PELO BANCO Pretensão do autor de que seja reconhecida a legalidade da cobrança de tarifa de cadastro em contratos de financiamento de veículos, com fundamento na Circular nº 3371 do Banco Central, desde que expressamente convencionada e que respeito o valor máximo de R$3.000,00 possibilidade situação concreta que respeitou o quanto determinado no REsp nº 1.251.331/RS, em sede de recurso repetitivo, bem como nas normas estabelecidas pelo Banco Central (Resolução nº 3.518/2007 e Circular nº 3371/2007) hipótese que trata da tarifa de cadastro e não da tarifa de abertura de crédito (TAC) possibilidade de cobrança da tarifa de cadastro somente quando houver demonstração por parte do fornecedor de que ela decorreu de uma contraprestação a serviço prestado no início do relacionamento com o consumidor, sem cumulatividade e ressalvado o exame de abusividade em cada caso concreto prova de que os consumidores tiveram ciência da tarifa antes da celebração do contrato sentença reformada para fins de julgar procedente a ação anulatória inversão dos ônus de sucumbência. Recurso do banco provido.
+No recurso especial o recorrente alega violação do artigo 51, IV, do CDC, ao argumento de que a cobrança da tarifa de cadastro somente será permitida quando houver demonstração por parte do fornecedor de que ela decorreu de uma contraprestação a serviço prestado no início do relacionamento com o consumidor. No caso concreto, a instituição financeira não demonstrou lastro para a sua cobrança.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No que diz respeito ao art. 51, IV, do CDC e a possibilidade de cobrança de tarifa de cadastro, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 732):
+"Pelos documentos apresentados pelo banco- autor nota-se que a regulamentação pertinente foi observada pela instituição financeira, pois foi exigido o pagamento da tarifa de cadastro uma única vez, sem abusividade, no momento da formalização do negócio jurídico com o consumidor, sendo de rigor o reconhecimento da admissibilidade da cobrança em pauta".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. LEGALIDADE. TARIFA DE SERVIÇO DE TERCEIROS. ABUSIVIDADE NÃO DEMONSTRADA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp n. 973827/RS, Relatora para o acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012). Precedente representativo da controvérsia (art. 543-C do CPC).
+2. No caso concreto, correta a decisão do Tribunal de origem que, em razão de o contrato ter sido celebrado após 31.3.2000 e diante da existência de expressa pactuação contratual, permitiu a capitalização mensal.
+3. O acórdão recorrido, com base nos elementos de prova e no contrato firmado entre as partes, concluiu pela ausência de abusividade da cobrança da tarifa de serviço de terceiros. Dissentir de tal entendimento é inviável no âmbito do recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+4. Agravo regimental a que nega provimento. (AgRg no AREsp 535.616/MS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 2/12/2014).
+DIREITO BANCÁRIO. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. FINANCIAMENTO. TARIFAS ADMINISTRATIVAS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo não provido. (AgRg no AREsp 504.981/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 15/8/2014).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
