@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo de Direito da 12ª Vara Cível de Brasília, Distrito Federal, em face do Juízo Federal da 26ª Vara do Juizado Especial da Seção Judiciária do Distrito Federal, relativamente à ação ordinária com tutela provisória proposta por [NOME] em desfavor do Ministério da Justiça e Segurança Pública (Junta Comercial do Distrito Federal).
+Na inicial, o autor alega que sofreu restrição para auferir financiamento em virtude da utilização fraudulenta de seu nome para os atos constitutivos da empresa Lava Jato F2 Ltda. - EPP, constando como administrador [NOME].
+Sustenta que o registro se deu mediante assinatura falsificada pelos fraudadores, devendo ser suspensa a eficácia do ato administrativo e posteriormente declarada a nulidade, com condenação em danos morais.
+O Juízo Federal declinou da competência para a Justiça distrital ao fundamento de que as juntas comerciais possuem subordinação ao governo dos entes federativos, havendo apenas vinculação técnica com o Departamento Nacional de Registro do Comércio - DNRC e, no caso dos autos, não ocorreu questionamento quanto à lisura do ato registrário, apenas dos seus efeitos secundários (fls. 89/91).
+O Juízo distrital suscitou o presente conflito por entender que a Junta Comercial do Distrito Federal possui situação peculiar, com subordinação direta ao DNRC, constituindo autarquia federal (fls. 92/95).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência da Justiça comum distrital para o processamento e julgamento da causa (fls. 103/107).
+Assim resumida a controvérsia, verifica-se que a jurisprudência assentada em casos específicos na Segunda Seção deste Tribunal excepciona exclusivamente as hipóteses de ações mandamentais, de sorte que quaisquer outros feitos, como é o caso dos autos, em que a apontada fraude não se verificou no procedimento de inscrição, mas nos documentos apresentados para essa finalidade, portanto quando não questionada a função estatal de controle da atividade comercial, devem ser processados e julgados perante a Justiça estadual ou distrital. Nesse sentido:
+CONFLITO DE COMPETÊNCIA. JUNTA COMERCIAL. ANULAÇÃO DE ALTERAÇÃO CONTRATUAL. ATO FRAUDULENTO. TERCEIROS. INDEVIDO REGISTRO DE EMPRESA.
+1. Compete à Justiça Comum processar e julgar ação ordinária pleiteando anulação de registro de alteração contratual efetivado perante a Junta Comercial, ao fundamento de que, por suposto uso indevido do nome do autor e de seu CPF, foi constituída, de forma irregular, sociedade empresária, na qual o mesmo figura como sócio. Nesse contexto, não se questiona a lisura da atividade federal exercida pela Junta Comercial, mas atos antecedentes que lhe renderam ensejo.
+2. Conflito conhecido para declarar competente o Tribunal de Justiça do Estado de Rondônia, o suscitado.
+(CC 90.338/RO, Rel. Ministro FERNANDO GONÇALVES, unânime, DJe de 21.11.2008)
+Conflito de competência. Sociedades por cotas. Registro de alteração social. Falsidade ideológica praticada pelos réus.
+1. Compete à Justiça Comum processar e julgar ações ordinária e cautelar propostas para desconstituir registros de alteração de sociedades comerciais perante a Junta Comercial, tendo como motivação o fato de que os documentos registrados estariam contaminados por falsidade ideológica praticada pelos sócios réus. Neste caso, não se está discutindo a lisura da atividade federal praticada pela Junta Comercial.
+2. Conflito conhecido para declarar competente a Justiça comum.
+(CC 51.812/ES, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, unânime, DJU de 5.12.2005)
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 12ª Vara Cível de Brasília, DF.
+Comunique-se. Intimem-se.
