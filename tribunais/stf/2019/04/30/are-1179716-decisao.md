@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou procedente o pedido de extensão, aos pensionistas dos servidores falecidos, da Gratificação de Gestão Educacional (GGE), instituída pela Lei Complementar estadual nº 1.256/15. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 37, cabeça e inciso X, 40, § 8º, 61, § 1º, inciso I, alínea a, e 97 da Constituição Federal e 7º da Emenda Constitucional nº 41/03. Afirma tratar-se de gratificação devida apenas aos servidores em efetivo exercício. Diz ter ocorrido o afastamento, por órgão fracionário do Tribunal, da aplicação da norma de regência, contrariando a cláusula de reserva de Plenário.
+    2. De início, quanto à evocação do artigo 97 da lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça às vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    3. A Lei Complementar Estadual n.º 1.256/2015 que instituiu a Gratificação de Gestão Educacional - GGE estabeleceu em seus arts. 8.º e 9.º que a referida gratificação será atribuída aos integrantes das classes de suporte pedagógico do Quadro do Magistério (Diretor de Escola, Supervisor de Ensino e Dirigente Regional de Ensino), em efetivo exercício na Secretaria da Educação, nos seguintes termos:
+    (…)
+    Da simples leitura da lei instituidora do benefício, verifica-se que a gratificação foi concedida a todos os integrantes das classes de suporte pedagógico do Quadro do Magistério na Secretaria da Educação, bastando estar em efetivo exercício, não se exigindo o preenchimento de qualquer requisito especial.
+    Portanto, a vantagem foi deferida de forma geral a todos os servidores, tratando-se de aumento disfarçado, com nítida natureza de vencimentos. Via de consequência deve ser estendida aos inativos e pensionistas.
+    (…)
+    6. Ademais, deve ser observado o decidido no IRDR nº 0034345-02.2017.8.26.0000, que decidiu, fixando a seguinte tese jurídica:
+    "a Gratificação de Gestão Educacional (GGE), instituída pela Lei Complementar Estadual nº 1.256/2015, por sua natureza remuneratória, geral e impessoal, para todos integrantes das classes de suporte pedagógico do Quadro do Magistério da Secretaria Estadual da Educação, deve ser estendida aos servidores inativos, que tiverem direito à paridade".
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei Complementar estadual nº 1.256/15. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação na origem dos honorários advocatícios em 10% do valor da causa, fixo os honorários recursais no patamar 5%, nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 30 de abril de 2019.
+Ministro MARCO AURÉLIO
+Relator
