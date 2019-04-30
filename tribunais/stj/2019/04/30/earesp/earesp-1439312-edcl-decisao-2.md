@@ -1,0 +1,19 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE LÚCIA HELENA [NOME] DE OLIVEIRA E OUTROS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] e outros à decisão monocrática proferida por este signatário, a qual não conheceu do agravo em recurso especial, nos termos da seguinte ementa (e-STJ, fls. 1.272-1.275):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO DE LÚCIA HELENA [NOME] DE OLIVEIRA E OUTROS NÃO CONHECIDO.
+Em suas razões (e-STJ, fls. 1.294-1.309), os embargantes alegam a existência de omissão e contradição, pois na peça apresentada foram impugnados todos os fundamentos da decisão de inadmissibilidade. Ressaltam, ainda, a impossibilidade de majoração dos honorários nas demandas julgadas pelo Código de Processo Civil de 1973.
+Impugnação apresentada às fls. 1.345-1.352 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, deve-se ressaltar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição ou obscuridade, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que, de fato, não se observa na espécie.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - EXECUÇÃO TRABALHISTA - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO UNIVERSAL - PRECEDENTES DO STJ. 1. Os embargos de declaração, a teor das disposições do art. 1.022, do CPC/15 (art. 535, CPC/73), são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada. 2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.  ..  4. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no CC n. 122.675/RJ, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 14/6/2017, DJe 22/6/2017)
+Assinala-se, ainda, que a contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, situação de nenhuma forma entrevista no julgado embargado.
+No caso vertente, constata-se que os argumentos adotados pela decisão embargada, acerca dos arts. 85, § 11, e 932, III, do Código de Processo Civil de 2015, não se contrapuseram a nenhum outro fundamento ou argumento do decisum, afastando-se, portanto, o vício da contradição.
+Quanto à suposta omissão, nota-se que, de fato, os insurgentes, nas razões do agravo em recurso especial, não impugnaram especificamente o fundamento da decisão agravada concernente à incidência da Súmula n. 7/STJ, o que enseja o não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015.
+Outrossim, considerando-se o direito intertemporal, deve haver incidência imediata ao processo em curso da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado Administrativo 7 do Plenário do STJ:
+Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC.
+Desse modo, o que se constata, na verdade, é apenas a pretensão de rejulgamento da causa em razão do inconformismo da parte com o resultado, tornando inviável o acolhimento dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração de [NOME] e outros.
+Publique-se.
