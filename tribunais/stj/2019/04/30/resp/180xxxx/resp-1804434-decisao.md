@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO GABRIEL DO OESTE, com respaldo na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fls. 252/253):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - AÇÃO ORDINÁRIA DE INCENTIVO FINANCEIRO - PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - AFASTADA - NO MÉRITO - AGENTE COMUNITÁRIO DE SAÚDE - INCENTIVO ADICIONAL FEDERAL - VERBA DEVIDA - MULTA COMINATÓRIA - CABIMENTO - VALOR E FIXAÇÃO DA PERIODICIDADE - DECISÃO MODIFICADA - JUROS E CORREÇÃO - FIXAÇÃO ESCORREITA - PREQUESTIONAMENTO - DESNECESSIDADE - APELO VOLUNTÁRIO E OBRIGATÓRIO CONHECIDOS E PARCIALMENTE PROVIDO O APELO VOLUNTÁRIO E NÃO PROVIDO O RECURSO OBRIGATÓRIO.
+Não há que se falar em nulidade da sentença por ausência de fundamentação, tendo em vista que a matéria não conhecida não seria capaz de infirmar a conclusão adotada em primeiro grau.
+Os agentes comunitários de saúde fazem jus ao recebimento dos valores relativos ao incentivo financeiro federal, previsto nas Portarias n.º 674/03 e 2.488/11 do Ministério da Saúde.
+É lícito ao magistrado fixar multa contra a Fazenda Pública com o objetivo de assegurar o adimplemento da obrigação de fazer, devendo esta ser mantida.
+Contudo, como não houve delimitação da periodicidade de sua incidência e o valor fixado é elevedo, o que pode tornar a quantia excessiva em relação à condenação imposta, a decisão deve ser parcialmente modificada, a fim de que não haja enriquecimento ilícito da parte contrária.
+Conforme decisão do STJ, proferida em recurso repetitivo (REsp 1495146/MG), nas condenações impostas à Fazenda Pública que digam respeito a interesses de servidores e empregados públicos devem ser observados os seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+Nos termos do art. 85, §4º, II, do CPC, não se tratando de sentença líquida, os honorários de sucumbência devem ser arbitrados após a liquidação do julgado.
+O órgão julgador não está obrigado a responder a todos os questionamentos nem a se pronunciar sobre todos os preceitos legais listados pelas partes se já encontrou fundamentação suficiente para embasar a conclusão do julgado.
+No especial, a parte recorrente apontou violação do art. 9º-F da Lei n. 11.350/2006, sustentando que não há previsão legal para que os valores oriundos da parcela denominada "Incentivo Financeiro Adicional", prevista nas Portarias n. 674/GM/2003, 648/GM/2006 e 650/GM/2006, editadas pelo Ministério da Saúde, sejam, necessariamente, repassados aos Agentes Comunitários de Saúde e Agentes de Combate a Endemias na forma de pagamento de verba salarial, cabendo, unicamente, aos gestores municipais decidirem, no âmbito do bloco da atenção básica, como será despendido o recurso.
+Ausentes contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, percebe-se que o cerne da questão meritória consistiria em saber se os valores repassados pela União ao município a título de "Incentivo Financeiro Adicional" deveriam, obrigatoriamente, ser repassados aos Agentes Comunitários de Saúde e Agentes de Combate a Endemias na forma de pagamento de verba salarial, ou estariam sujeitos à discricionariedade do administrador, para que fossem gastos no âmbito da atenção básica à saúde.
+Contudo, nas razões recursais, o recorrente apontou como ofendido o art. 9º-F da Lei n. 11.350/2006, que trata da natureza da verba repassada para fins de apuração dos limites com pessoal de que trata a Lei de Responsabilidade Fiscal - LC 101/2000.
+Assim, percebe-se que o dispositivo indicado no apelo nobre não serve ao embasamento da pretensão formulada, razão pela qual não pode ser conhecido do recurso por encontrar óbice na Súmula 284 do STF.
+Nesse sentido é a jurisprudência desta Corte:
+PROCESSUAL CIVIL. VERBA DE SUCUMBÊNCIA. PREQUESTIONAMENTO E IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULAS 282 E 283 DO STF. DISPOSITIVO LEGAL TIDO POR VIOLADO. CORRELAÇÃO COM A MATÉRIA RECURSAL. INEXISTÊNCIA. SÚMULA 284 DO STF.
+ ..
+3. Por força da Súmula 284 do STF, não se conhece de recurso no caso de as razões recursais não especificarem o dispositivo legal que estaria sendo violado pelo acórdão recorrido e quando o artigo de lei não guarda pertinência com a matéria recursal.
+ ..
+(AgInt no REsp 1.308.654/PR, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 12/04/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. SUPOSTA VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. ALEGAÇÃO DE NÃO CABIMENTO DE MANDADO DE SEGURANÇA PARA ATO FUTURO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OCORRÊNCIA DE FORÇA MAIOR. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. PARCELAMENTO DE SALÁRIO DOS SERVIDORES. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO FUNDAMENTOU-SE NA CONSTITUIÇÃO ESTADUAL. SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Por conseguinte, cumpre destacar que não merece conhecimento a tese de insurgência do recorrente na qual defende a ocorrência de motivo de força maior que justifique o parcelamento dos vencimentos dos servidores públicos. Isso porque, a fim de defender a tese, o recorrente apontou como violados dispositivos legais genéricos que versam sobre invalidade do negócio jurídico e das obrigações - os arts. 166, 248, 393 e 396, todos do CC/2002. Observa-se, portanto, que os artigos invocados não possuem relação com a mencionada tese de insurgência. Aplica-se, portanto, o óbice da Súmula 284/STF.
+ ..
+(AgInt no AREsp 1.133.435/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 14/11/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
