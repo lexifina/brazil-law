@@ -1,0 +1,32 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO COMBINADA COM INDENIZAÇÃO POR DANOS MORAIS. TARIFA DE TRATAMENTO DE ESGOTO SANITÁRIO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL E INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+BELARMINA MESSIAS CARDOSO (BELARMINA) promoveu ação declaratória de inexistência de relação jurídica combinada com repetição de indébito e tutela antecipada contra COMPANHIA DE SANEAMENTO DO TOCANTINS - SANEATINS (SANEATINS), que foi julgada parcialmente procedente.
+Inconformada, SANEATINS apelou da sentença. O aresto se encontra assim sintetizado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. TARIFA DE TRATAMENTO DE ESGOTO SANITÁRIO. PREÇO PÚBLICO. SERVIÇO EFETIVAMENTE NÃO PRESTADO. COBRANÇA INDEVIDA. REPETIÇÃO DO INDÉBITO. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO ADEQUADO. SENTENÇA MANTIDA. 1- A contraprestação cobrada por concessionária de serviço público pelo tratamento de esgoto sanitário ostenta natureza jurídica de tarifa ou preço público, sendo, pois, "necessária a efetiva prestação do serviço de forma a justificar a cobrança" (AgRg no AREsp 248.308/RJ, Rel.
+Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 07/02/2013, DJe 15/02/2013). 2- Não sendo efetivamente disponibilizado e prestado o serviço de tratamento de esgoto sanitário, a cobrança de valores a esse título é inegavelmente indevida, sendo de rigor a restituição do indébito. 3- A falha na prestação de serviço consistente na cobrança mês a mês de valores indevidos, associada ao fato de que a consumidora, a fim de evitar a inscrição de seu nome nos órgãos de proteção ao crédito e a suspensão do fornecimento de serviço essencial (água), teve que aderir a programa de parcelamento do débito, acarretam abalo moral passível de compensação pecuniária. 4 - Sopesadas as circunstâncias do caso concreto, sobretudo a capacidade das partes e o tempo de cobrança indevida, o quantum indenizatório arbitrado em R$ 15.000,00 (quinze mil reais) não se revela desproporcional, pelo que não comporta qualquer reparo. 5- Recurso conhecido e não provido (e-STJ, fl. 413).
+Os embargos de declaração opostos por SANEATINS foram rejeitados (e-STJ, fls. 451/456).
+Nas razões do especial, interposto com base no art. 105, III, c, da Constituição Federal, SANEATINS apontou dissídio jurisprudencial sustentando que não foram observadas todas as determinações, constantes das normas de regência, para a cobrança da taxa de esgoto face à recorrida, não podendo a concessionária ser responsabilizada pela falta de ligação do imóvel à rede externa de esgoto, sendo evidente a desídia da usuária, que não providenciou a obra. Alega que estando disponibilizado o serviço, nasce o direito de cobrança pela prestadora, inexistindo qualquer ato ilícito de seu protagonismo. Aduz também que o quantum indenizatório fixado é exorbitante, devendo ser reduzido.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de Justiça do Estado do TOCANTINS inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta não foi apresentada (e-STJ, fl. 516).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Observa-se, que não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, o que evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula nº 284 do STF.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. RESPONSABILIDADE. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PENSÃO. HONORÁRIOS ADVOCATÍCIOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. ATUALIZAÇÃO MONETÁRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+(..)
+4. O conhecimento do recurso especial, fundamentado na alínea "a" ou na alínea "c" do permissivo constitucional, exige a indicação dos dispositivos legais supostamente violados ou que foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n.
+284/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1034448/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 16/06/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. HOSPITAL E COMPANHIA DE SEGURO SAÚDE. VÍNCULO. RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+INCIDÊNCIA. DANO MORAL. VALOR RAZOÁVEL. SOFRIMENTO FETAL. RECÉM-NASCIDO. SEQUELAS GRAVES E PERMANENTES. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. DISPOSITIVO LEGAL OBJETO DA INTERPRETAÇÃO DIVERGENTE. NÃO INDICAÇÃO. SÚMULA Nº 284/STF. APLICAÇÃO ANALÓGICA.
+(..)
+3. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido
+(AgInt no AREsp 970.226/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 1/6/2017)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
