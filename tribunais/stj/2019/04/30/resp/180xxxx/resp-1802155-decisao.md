@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS fundamentado na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal local que deu provimento à apelação da defesa para anular a decisão do Tribunal do Júri determinando que o recorrido seja submetido a novo julgamento (e-STJ fl. 1.245).
+ Os elementos existentes nos autos indicam que o réu foi denunciado como incurso nas sanções do art. 121, § 2o, inciso IV, c/c o art. 14, inciso, II, ambos do Código Penal (por duas vezes), por ter surpreendido duas vítimas com vários disparos com arma e fogo em suas direções, só não resultando na morte da primeira porque houve falha no mecanismo do armamento no momento dos disparos e da segunda ofendida, porquanto essa ficou correndo em volta de um veículo enquanto o agente efetuava os disparos, só cessando após acabar a munição, quando então o réu empreendeu fuga utilizando-se de uma motocicleta (e-STJ fls. 1-4).
+Julgada procedente a denúncia, o réu foi condenado pelo tribunal do júri à pena de 5 anos de reclusão, em regime inicial semiaberto (e-STJ fl. 1.151).
+Inconformada, a acusação opôs embargos de declaração, alegando omissão da Corte estadual, porquanto a apelação criminal contra a sentença prolatada em crimes de competência do Tribunal do Júri goza de devolutividade restrita, somente podendo ser analisada a matéria constante do termo de interposição.
+Os embargos de declaração foram rejeitados (e-STJ fl. 1.277).
+A sentença foi anulada pela Corte de origem, em apelação da defesa, com a determinação de que o recorrido seja submetido a novo julgamento (e-STJ fl. 1.245).
+Nas razões do recurso especial (e-STJ fls. 1281-1295), o Parquet alega violação do art. 395, inciso III, do Código de Processo Penal, sustentando que a apelação criminal contra sentença prolatada em crimes de competência do Tribunal do Júri goza de devolutividade restrita, somente podendo ser analisada matéria constante do termo de interposição, nos termos da Súmula n. 713 do STF.
+Defende que do recurso de apelação da defesa não se deveria conhecer.
+Requer, ao final, o provimento do especial para reforma do acórdão recorrido, no sentido de não conhecimento da apelação da defesa, restabelecendo-se a decisão do tribunal do júri.
+A insurgência não foi contrarrazoada (e-STJ fls. 1.298), após o juízo prévio de admissibilidade (e-STJ fls. 1.307-1.310), os autos ascenderam ao Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do inconformismo (e-STJ fls.1.321-1.323).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do tema trazido à discussão no recurso especial, assim ficou assentado pela Corte a quo, ipsis litteris:
+Pugna o Parquet pelo não conhecimento do apelo aviado em razão da omissão do fundamento legal em que se lastreia o apelo, contrariando o enunciado da Súmula 713, do STF.
+De fato incorreu em erro o advogado do réu ao não apontar em suas razões o dispositivo legal, dentre os previstos no art. 593 do CPP, em que funda o seu inconformismo.
+Todavia, mesmo sendo constatada tal deficiência por parte do procurador do réu, este não pode ser prejudicado, sob pena de se ferir o princípio constitucional da amplitude de defesa.
+Ademais, a interpretação à Súmula exarada pelo STF não pode ser dada, a meu ver, através do formalismo exarcerbado, privilegiando a instrumentalidade das formas, em detrimento às garantias constitucionais do acusado.
+Não há dúvidas de que a apelação interposta contra decisões do Tribunal do Júri possui efeito devolutivo restrito aos fundamentos de sua interposição, não devolvendo à instância recursal o conhecimento pleno da matéria, no intuito de se assegurar a soberania dos veredictos populares.
+Porém, a devolutividade da matéria não se restringe à designação do inciso do art. 593 do CPP, mas também aos argumentos defensivos lançados nas razões recursais.
+Dessa forma, tendo o apelante justificado em suas razões os motivos do seu inconformismo, deve-se conhecer do recurso de apelação, pois a ausência de indicação dos dispositivos legais é mera irregularidade, devendo prevalecer o princípio da ampla defesa (e-STJ fl. 1.236).
+Denota-se do trecho transcrito que o Tribunal estadual decidiu conhecer da apelação da defesa, porquanto entendeu que a falta de indicação do dispositivo do art. 593 do Código de Processo Penal que fundamentava seu inconformismo, não podia impedir o exame do recurso do réu, uma vez que foram deduzidas as razões pelas quais se buscava a reforma do julgado.
+Verifica-se que a Corte de origem decidiu em conformidade com a jurisprudência desta Corte Superior, no sentido de que a mera irregularidade decorrente da falta de indicação ou da indicação errônea do dispositivo legal é superada pela exposição pela parte dos motivos do seu inconformismo com a decisão atacada.
+ Nesse sentindo:
+HABEAS CORPUS. HOMICÍDIO SIMPLES. IMPUGNAÇÃO. JULGAMENTO PROFERIDO PELO TRIBUNAL DO JÚRI. DEVOLUTIVIDADE RESTRITA. SÚMULA N. 713 DO STF. INDICAÇÃO DA ALÍNEA EQUIVOCADA NO TERMO. DELIMITAÇÃO NAS RAZÕES RECURSAIS. MERA IRREGULARIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. A teor da Súmula n. 713 do Supremo Tribunal Federal, o efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos nela empregados, motivo pelo qual a Corte estadual, ao apreciar a apelação criminal oriunda do Tribunal do Júri, está vinculada aos limites de sua interposição fixados, ab initio, pelo termo ou pela petição de recurso.
+2. A ausência de indicação ou mesmo a sinalização errônea de uma das alíneas do referido artigo, no termo ou na petição de recurso, acarreta mera irregularidade se, nas razões recursais, a parte apresenta fundamentos para o apelo e os delimita em seu pedido, como ocorreu na hipótese dos autos.
+3. Habeas corpus não conhecido.
+(HC 266.092/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/05/2016, DJe 31/05/2016)
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. TRIBUNAL DO JÚRI. RECURSO DE APELAÇÃO. AUSÊNCIA DE INDICAÇÃO DAS ALÍNEAS. MERA IRREGULARIDADE. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. (..)
+2. A ausência de indicação do fundamento legal da apelação interposta contra decisão proferida pelo Tribunal do Júri é considerado mera irregularidade. De fato, prevalece no Superior Tribunal de Justiça que não há óbice ao conhecimento do recurso, desde que nas razões se encontrem os fundamentos que ensejaram o apelo e as pretensões da parte estejam perfeitamente delineadas, conforme se verifica no caso dos autos, em que o recurso pleiteava apenas a reforma da dosimetria.
+3. Habeas corpus não conhecido. Ordem concedida de ofício, para anular o acórdão que não conheceu do recurso de apelação e determinar seu conhecimento e julgamento pelo Tribunal de origem, como entender de direito.
+(HC 337619 / SC, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, Julgado em 17/05/2016, DJe 24/05/2016)
+Ante o exposto, com fundamento no art. 255, § 4º, inciso II, do Regimento Interno do Superior Tribunal de Justiça, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se.
