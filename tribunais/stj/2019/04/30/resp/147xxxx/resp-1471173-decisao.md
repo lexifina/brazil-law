@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pela Terceira Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 300):
+AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - TRANSFERÊNCIA DA PROPRIEDADE DE IMÓVEL - AUSÊNCIA DE DEMONSTRAÇÃO DA CADEIA DOMINIAL DO IMÓVEL - ILEGITIMIDADE ATIVA AD CAUSAM - RECURSO CONHECIDO E NÃO PROVIDO.
+I. Parte legítima para exercer o direito de ação é aquele que se afirma titular de determinado direito que precisa da tutela jurisdicional como aquele a quem caiba a observância do dever correlato àquele hipotético direito, ou seja, são os titulares dos interesses em conflito.
+II. Inexistindo qualquer evidência da relação jurídica havida entre as partes e não havendo provas da cadeia dominial do imóvel, não há legitimidade ativa e/ou passiva ad causam, devendo o feito ser extinto sem exame de mérito.
+III. Nos termos do artigo 227, do CC, a prova exclusivamente testemunhal somente deve ser admitida se houver indícios de que o valor do negócio jurídico não ultrapassa o décuplo do maior salário mínimo vigente no País.
+IV. Recurso conhecido e não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 317/320).
+O recorrente sustenta ofensa aos artigos 227, parágrafo único, e 1.418 do Código Civil; 466-A, 466-B e 466-C do Código de Processo Civil de 1973, alegando que há nos autos início de prova documental capaz de autorizar a produção de prova testemunhal apta a provar a existência de cessão dos direitos sobre o imóvel e, portanto, o direito à sua adjudicação.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Assim delimitada a controvérsia, passo a decidir.
+Depreende-se dos autos que o recorrente ajuizou ação de obrigação de fazer contra a Agência Municipal de Habitação e o adquirente originário do imóvel, tendo como base um contrato firmado com terceiro e, ao final, requereu a transferência do bem para o seu nome.
+A sentença, verificando que na realidade se cuida de pedido de adjudicação compulsória e que não foi demonstrada a cessão de direitos do mutuário ao terceiro que prometeu a venda do imóvel ao autor, extinguiu o processo sem julgamento de mérito, por ilegitimidade ativa ad causam, nos termos do inciso VI do art. 267 do Código de Processo Civil de 1973.
+O acórdão recorrido manteve a sentença pelos seguintes fundamentos (fls. 303/304):
+Pois bem, a inexistência de qualquer evidência de que o Sr. [NOME] tenha vendido ou cedido direitos sobre o imóvel ao Sr. [NOME], atrai a conclusão de que o ora agravante - que teria adquirido o bem do Sr. [NOME] - não possui legitimidade para pleitear a adjudicação.
+Note-se que a documentação trazida aos autos está incompleta, não sendo suficiente para comprovar a cadeia dominial do imóvel.
+Nem se diga que seria o caso de comprovar a legitimidade por meio de provas testemunhais. É que a prova exclusivamente testemunhal somente seria admitida quando o negócio jurídico não ultrapasse o déculplo do maior salário mínimo vigente no País, nos termos do artigo 227, do CC. Porém, no caso dos autos, sequer há notícia do valor da negociação entabulada entre as partes.
+O Tribunal de origem, provocado nos embargos de declaração para se pronunciar sobre os documentos juntados aos autos, em especial o termo de acordo celebrado entre a Agência Municipal de Habitação e o terceiro que prometeu ao autor a venda do imóvel, consignou o seguinte (fl. 320):
+Este Tribunal, quando do julgamento do agravo regimental em apelação cível, deliberou no sentido de negar-lhe provimento, considerando que não restou evidenciada a legitimidade do recorrente para pleitear a adjudicação compulsória do imóvel objeto dos autos, mormente por não haver qualquer indício de que é ele o legítimo possuidor do bem.
+Fica claro, desse modo, que a pretensão do recurso em ver reconhecida a existência de início de prova escrita capaz de oportunizar a produção de prova testemunhal, nos termos do parágrafo único do art. 227 do CPC/73, contrariamente à conclusão do acórdão recorrido, demandaria reexame de provas, o que é vedado a teor do enunciado n. 7 da Súmula do STJ.
+De outro lado, mantida a inexistência de prova da alegada cadeia dominial apta ao pedido de transferência do imóvel, não há falar-se em ofensa aos demais textos da legislação federal apontados.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
