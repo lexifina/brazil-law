@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. PRONÚNCIA. HOMICÍDIO TENTADO. ART. 121, §4º, C/C ART. 14, INC. II, DO CP. RECURSO DEFENSIVO. PRETENDIDA DESCLASSIFICAÇÃO DO DELITO PARA LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ART. 303 DA LEI N. 9.503/1997. INVIABILIDADE. EXISTÊNCIA DE ELEMENTOS QUE APONTAM PARA O DELITO COMO DESCRITO NA DENÚNCIA. CAPITULAÇÃO CORRETA COMO CRIME CONTRA A VIDA. COEXISTÊNCIA DOS INSTITUTOS DA TENTATIVA E DO DOLO EVENTUAL. DE OFÍCIO, RECONHECIDA A INCOMPATIBILIDADE ENTRE O DOLO EVENTUAL E A QUALIFICADORA DO ART. 121, §4º, DO CP. RECURSO CONHECIDO E DESPROVIDO. (e-STJ fl. 341)
+Aponta a defesa a violação dos arts. 74, § 1º e 419 do Código de Processo Penal e 303 da Lei n. 9.503/1997, alegando, em síntese, que a embriaguez, isoladamente, não serve para afirmar a existência do dolo eventual, de forma que o delito deve ser desclassificado para outro de competência diversa do Tribunal do Júri. Pede concessão de efeito suspensivo ao recurso especial.
+Contrarrazões às e-STJ fls. 415/425.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls 501/505.
+É o relatório. Decido.
+A irresignação não prospera.
+Registre-se, inicialmente, que a jurisprudência desta Corte é firme no sentido de que "não cabe apreciação, pelo STJ, do pedido de efeito suspensivo a Recurso Especial feito nas próprias razões do recurso. A Ação Cautelar é o meio adequado para requerer efeito suspensivo da decisão impugnada" (STJ, AgRg no REsp n. 1.538.963/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 4/2/2016).
+Quanto ao mais, observa-se que a questão referente à existência/configuração do dolo eventual não foi debatida pela instância de origem, ressentindo o recurso especial do necessário prequestionamento.
+Acresça-se, ainda, que sequer foram opostos embargos de declaração para suprir eventual omissão. Incidência dos Enunciados n. 282 e 356 do Supremo Tribunal Federal. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. MATERIALIDADE E AUTORIA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DELITO DO ART. 16, DA LEI N. 10.826/2003. PERIGO ABSTRATO. PRECEDENTE. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. REGIME FECHADO. REU REINCIDENTE. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Se a instância ordinária, soberana na análise do contexto probatório existente nos autos, entende presentes a materialidade e a autoria atribuídas ao agravante, desconstituir esse entendimento exigiria o reexame do conjunto fático-probatório produzido, inviável na via eleita ante o óbice da Súmula n. 7/STJ.
+2. A jurisprudência desta Corte é remansosa no sentido de que o delito previsto no art. 16 da Lei n. 10.826/2003 tem como bem jurídico tutelado a incolumidade pública, sendo de mera conduta e de perigo abstrato, bastando o porte de arma ou munição, sem autorização devida, para tipificar a conduta. Precedente.
+3. Se a matéria não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, torna-se patente a falta de prequestionamento, atraindo o óbice das Súmulas n. 282 e n. 356/STF.
+4. Nos termos do artigo 33 do Código Penal - CP, é apropriado o regime inicial fechado ao condenado reincidente, nos casos em que a pena aplicada resultar em quantum definitivo superior a 4 anos.
+Precedente.
+5. Agravo regimental desprovido. (AgRg no AREsp 1068848/RS, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 26/10/2018)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
