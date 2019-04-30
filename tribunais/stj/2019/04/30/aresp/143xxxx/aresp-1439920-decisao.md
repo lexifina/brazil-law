@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 282 do STF e 7 e 83 do STJ (e-STJ fls. 243/245).
+O acórdão recorrido está assim ementado (e-STJ fl. 197):
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE CONTRATO (CÉDULA DE CRÉDITO BANCÁRIO) - PEDIDO JULGADO PROCEDENTE - RECURSO DA RÉ. ALEGADA IMPOSSIBILIDADE DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS - PROCEDÊNCIA - RESP 1061530 (RECURSO REPETITIVO) - DEMONSTRADA A INEXISTÊNCIA DE ABUSIVIDADE ENTRE OS JUROS COBRADOS E A TAXA AUTORIZADA PELO BANCO CENTRAL À RÉ/APELANTE - MANTIDA A TAXA CONTRATADA. PEDIDO DE EXCLUSÃO DA CONDENAÇÃO À REPETIÇÃO DO INDÉBITO - PROCEDÊNCIA - AUSÊNCIA DE VALORES A RESTITUIR. SENTENÇA REFORMADA - PEDIDO INICIAL JULGADO IMPROCEDENTE - IMPOSIÇÃO DO ÔNUS SUCUMBENCIAL À AUTORA. RECURSO PROVIDO - FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PARA AMBAS AS FASES DO PROCESSO, COM BASE NO VALOR DA CAUSA - OBSERVÂNCIA AO ARTIGO 85, §2º, DO CÓDIGO DE PROCESSO CIVIL.
+Nas razões do recurso especial (e-STJ fls. 206/225), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 39, V, 42, parágrafo único, e 51, § 1º, III, do CDC.
+Sustentou, em síntese, que a recorrida teria cobrado juros remuneratórios abusivos e que, portanto, teria direito à repetição do indébito em dobro do excesso apurado.
+No agravo (e-STJ fls. 248/271), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 369).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Quanto à limitação dos juros remuneratórios em contratos bancários, no julgamento do Recurso Especial n. 1.061.530/RS (Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/3/2009), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), esta Corte Superior consolidou as seguintes orientações:
+(..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. (..)
+Portanto, não há óbice à revisão contratual, com fundamento no CDC (Súmula n. 297/STJ), nos casos em que, após dilação probatória, ficar cabalmente demonstrada a abusividade da cláusula de juros, sendo insuficiente o fato de o índice estipulado ultrapassar 12% (doze por cento) ao ano (Súmula n. 382/STJ) ou de haver estabilidade inflacionária no período.
+A taxa média de mercado apurada pelo Banco Central para operações similares na mesma época pode ser utilizada como referência no exame do desequilíbrio contratual, mas não constitui valor absoluto a ser adotado em todos os casos.
+Com efeito, a variação dos juros praticados pelas instituições financeiras decorre de diversos aspectos e especificidades das múltiplas relações contratuais existentes (tipo de operação, prazo, reputação do tomador, garantias, políticas de captação e empréstimo, aplicações da própria entidade financeira etc.).
+Em seu voto, a eminente Ministra Relatora destacou que a jurisprudência do Superior Tribunal de Justiça tem considerado abusivas, diante do caso concreto, taxas superiores a uma vez e meia, ao dobro ou ao triplo da média. Destaca a Ministra Relatora (fl. 24 do inteiro teor do acórdão citado acima):
+(..) A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos. (..).
+Na espécie, o aresto impugnado asseverou que (e-STJ fls. 199/202):
+O contrato prevê remuneratórios no percentual de 3,640% ao mês e 53,578% ao ano.
+O e. Superior Tribunal de Justiça firmou posicionamento, em julgamento de recurso repetitivo (CPC/73, art. 543-C), pela necessidade de comparação da taxa aplicada à taxa média de mercado para aferir se há abusividade na taxa de juros. Observe-se:
+(..)
+A fundamentação do acórdão do citado recurso fixou os .parâmetros a serem seguidos para o reconhecimento de abusividade dos juros remuneratórios, conforme a taxa média de mercado divulgada pelo Banco Central do Brasil, nos seguintes termos:
+(..)
+A MM. Juíza sentenciante, sem informar a fonte, indicou que a taxa média de mercado seria de 2,46%, nos seguintes termos (mov. 25.1):
+(..)
+Por consequência, a sentença entendeu abusiva a taxa cobrada e mandou aplicar a média de mercado.
+Todavia, independentemente da taxa média de mercado, pesquisa feita na página do Banco Central do Brasil na internet revela que a taxa efetiva de juros praticada no contrato (3,64% a.m.) é inferior à que estava autorizada à Omni S/A CFI naquele período (4,96% a.m.).
+E, conforme as orientações decorrentes do julgamento do recurso repetitivo antes citado, a jurisprudência do e. Superior Tribunal de Justiça tem considerado abusivas, conforme o caso concreto, as taxas de juros superiores a uma vez e meia, ao dobro ou ao triplo da média de mercado.
+Por isso, ainda que considerada a média informada pela r. sentença, deve-se ver que a taxa de juros contratada (3,64% a.m) é inferior a qualquer dos parâmetros citados pela jurisprudência, pois não chega a uma vez e meia a média considerada pela MM. Juíza e é inferior àquela autorizada pelo Banco Central à ré no período da contratação.
+Desse modo, a taxa aplicada no contrato não pode ser considerada abusiva.
+Assim, deve ser mantida a taxa de juros remuneratórios cobrada pela instituição financeira, de forma que a r. sentença merece reforma quanto a esse aspecto.
+Sendo assim, a alteração do desfecho conferido ao processo quanto à abusividade da taxa de juros contratada demandaria a interpretação das cláusulas contratuais e a análise do conteúdo fático-probatório dos autos, circunstância que atrai os óbices das Súmulas n. 5 e 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA ACOLHENDO O AGRAVO PARA, DE PLANO, CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO PARA AFASTAR A CUMULATIVIDADE DA COBRANÇA DA COMISSÃO DE PERMANÊNCIA COM OS DEMAIS ENCARGOS MORATÓRIOS. INSURGÊNCIA DO CONSUMIDOR.
+1. Adequada a aplicação da súmula 284/STF no ponto relativo à alegada omissão do acórdão recorrido, visto que as razões recursais acerca da negativa de prestação jurisdicional mostravam-se genéricas. Precedentes.
+2. O Tribunal de origem, com base em elementos fático-probatórios constantes dos autos, bem como com fulcro no contrato firmado entre as partes, concluiu pela ausência de abusividade da cobrança dos juros remuneratórios. Inviabilidade de modificação do entendimento da Corte local haja vista o teor das Súmulas n. 5 e 7 deste STJ. Precedentes.
+3. A Segunda Seção deste Superior Tribunal de Justiça, no julgamento do REsp 973.827/RS, consolidou, nos moldes do art. 543-C do CPC, entendimento segundo o qual é permitida a cobrança de capitalização mensal de juros pactuadas de forma clara e expressa em contratos celebrados após 31.3.2000, sendo que a previsão de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada. Súmula 541/STJ.
+4. Adequada a cassação da liminar atinente à consignação dos valores e à vedação de inscrição do nome nos órgãos de proteção ao crédito, face à inocorrência de abusividade nos encargos da normalidade contratual. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 572.596/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/10/2015, DJe 14/10/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CAPITALIZAÇÃO DE JUROS. REVISÃO CONTRATUAL. MATÉRIA QUE DEMANDA REEXAME FATOS, PROVAS, E CLÁUSULAS CONTRATUAIS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ EM SEDE DE RECURSO REPETITIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem reconheceu a possibilidade de revisão contratual concluindo pela legalidade da cobrança de capitalização mensal de juros, bem como ausência de abusividade da taxa de juros pactuada. Assim, tendo em vista que o acórdão recorrido reconheceu a possibilidade de revisão contratual, é evidente a ausência de interesse recursal da recorrente nesse ponto.
+2. A jurisprudência firmada pela Segunda Seção deste Tribunal Superior, em sede de recurso especial representativo de controvérsia - Resp 973.827/RS, é no sentido de ser possível a cobrança da capitalização mensal dos juros, desde que atendidos os seguintes requisitos: a) existência de previsão contratual expressa da capitalização com periodicidade inferior a um ano; e b) tenha sido o contrato firmado após 31/03/2000, data da primeira edição da MP, então sob o nº 1963-17, não sendo admissível antes dessa data. Além disso, o entendimento deste Sodalício é no sentido de que havendo previsão contratual da taxa de juros anual superior ao duodécuplo da mensal, é suficiente para permitir a cobrança da taxa efetiva anual contratada. No presente caso, o Tribunal de origem consignou que consta cláusula expressa informando o consumidor sobre a incidência desse encargo no contrato entabulado entre as partes. Alterar esse entendimento do acórdão recorrido não é possível em sede de recurso especial, em razão dos óbice s das Súmulas 5 e 7 do STJ.
+3. O STJ possui firme o entendimento no sentido de que os juros cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação de tais juros deve ser cabalmente demonstrada em cada caso, sendo insuficiente o só fato de a estipulação ultrapassar 12% ao ano. O Tribunal de origem concluiu pela ausência de abusividade da taxa de juros remuneratórios pactuada no contrato. Incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1157501/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/03/2018, DJe 20/03/2018.)
+No que concerne à repetição do indébito em dobro, o Tribunal de origem concluiu que, "como a necessidade de limitação da taxa de juros era a única justificativa para a repetição de indébito, não há valores a restituir à autora e, portanto, a sentença também deve ser reformada na parte em que condenou a ré a restituir à autora, em dobro, os valores correspondentes à diferença entre os juros contratados e a taxa média de mercado" (e-STJ fl. 202).
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual não há falar em direito à repetição de indébito em dobro quando a Corte local reconhece a inexistência de pagamento a maior. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. REPETIÇÃO EM DOBRO DO INDÉBITO. IMPOSSIBILIDADE. AUSÊNCIA DE PAGAMENTO A MAIOR. AGRAVO IMPROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que a repetição em dobro do indébito, sanção prevista no art. 42, parágrafo único, do CDC, pressupõe tanto a existência de pagamento indevido quanto a má-fé do credor.
+2. Tendo sido reconhecida pelo Tribunal de origem a inexistência de pagamento a maior pelo consumidor, não há falar em direito à repetição de indébito em dobro.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 196.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/06/2015, DJe 03/08/2015.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE CARTÃO DE CRÉDITO. CLÁUSULA-MANDATO. VALIDADE. REPETIÇÃO DE INDÉBITO. INEXISTÊNCIA DE CRÉDITO EM FAVOR DO AUTOR. SUCUMBÊNCIA INTEGRAL POR PARTE DO RECORRIDO.
+1. É válida a cláusula-mandato, quando inserida em contrato firmado com administradora de cartão de crédito. Precedentes.
+2. Não há crédito em favor do autor, apto a autorizar a repetição do indébito, pois esta Corte manteve, na íntegra, o contrato firmado entre as partes.
+3. Sucumbência integral por parte do ora agravado, diante do reconhecimento da validade das cláusulas da mencionada avença.
+4. AGRAVO REGIMENTAL PROVIDO.
+(AgRg no REsp 779.332/RS, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/10/2010, DJe 28/10/2010.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
