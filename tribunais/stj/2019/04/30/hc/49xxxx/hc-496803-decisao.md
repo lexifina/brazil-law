@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000080-11.2018.8.26.0623).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e multa, com substituição da pena privativa de liberdade por restritivas de direitos, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, incidente a minorante constante do § 4º do mesmo artigo (e-STJ fls. 6/11).
+Irresignado, o Ministério Público interpôs recurso de apelação, o qual foi provido para reconhecer a incidência da majorante prevista no art. 40, inciso III, da Lei n. 11.343/2006, razão pela qual a pena do paciente foi redimensionada para 1 ano, 11 meses e 10 dias de reclusão e multa, além de alterar o regime prisional para inicial fechado e cassar a substituição da pena (e-STJ fls. 18/25).
+No presente mandamus (e-STJ fls. 3/5), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois fixou o regime inicial fechado sem fundamentação idônea. Afirma que o paciente é primário, possui bons antecedentes e foi condenado a pena não superior a 4 anos de reclusão, razão pela qual faz jus ao regime aberto.
+Ao final, liminarmente e no mérito, pede a alteração do regime prisional para aberto.
+O pedido liminar foi deferido (e-STJ fls. 30/32) para assegurar ao paciente o direito de aguardar, no regime aberto, o julgamento do presente habeas corpus.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 65/68, opinou pela concessão da ordem de oficio, nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. IMPOSIÇÃO DE REGIME INICIAL MAIS GRAVOSO. FUNDAMENTAÇÃO INIDÔNEA. RÉU CONDENADO A 1 ANOS E 8 MESES DE RECLUSÃO. HEDIONDEZ DO CRIME. IMPOSSIBILIDADE. ARTIGO 33, §§ 2º E 3º, CP. REGIME ABERTO. CABIMENTO.
+1. A apresentação de habeas corpus como substitutivo de recurso próprio, embora descabida, é indiretamente autorizada pelas Cortes Superiores, quando se impõe a verificação, na quase totalidade dos casos, sobre a possibilidade de concessão da ordem de ofício.
+2. O Tribunal local, ao fixar o regime inicial fechado, não se ateve às particularidades do caso concreto, consignando, apenas, a hediondez do crime de tráfico de drogas e a nocividade dos entorpecentes, o que, contudo, não constituem motivação idônea para justificar a imposição de regime prisional mais severo.
+3. Parecer pela concessão, de ofício, da ordem d e habeas corpus, nos termos da fundamentação.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Na espécie, verifico presente constrangimento ilegal apto a justificar a concessão da ordem de oficio.
+No caso, embora o Tribunal a quo tenha mantido o enquadramento da conduta do paciente como tráfico privilegiado e fixado a sua pena em 1 ano, 11 meses e 10 dias de reclusão, alterou o regime prisional para inicial fechado com base na seguinte motivação (e-STJ fls. 22/23):
+O regime deve ser modificado para o fechado, porquanto inadequado o aberto.
+A natureza do entorpecente apreendido (crack) revela a especial reprovabilidade delitiva, já que tal substância tem alto poder viciante e destrutivo à saúde humana, em relação a outros entorpecentes sobre cuja comercialização recai a mesma conduta delitiva.
+Além disso, a conduta criminosa foi praticada nas proximidades de entidade social e beneficente (Tempo da Irmandade e Pregação do Evangelho).
+Por tais circunstâncias, a atuação do acusado requer intensa resposta penal, e justifica a adoção do regime mais gravoso.
+Se não bastasse, o regime prisional inicial fechado é o estabelecido pela Lei nº 8.072/90, com a redação dada pela Lei nº 11.464/07.
+Dessa forma, extrai-se que o recrudescimento do regime prisional baseou-se no suposto caráter hediondo do delito, além da natureza nociva da droga apreendida.
+Entretanto, como é cediço, em se tratando de tráfico de entorpecentes, desde o julgamento, pelo Supremo Tribunal Federal, do HC n. 111.840/ES, inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, determinando, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, c/c o art. 59, do Código Penal.
+Além disso, a Terceira Seção desta Corte, em 23/11/2016, ao julgar a Petição n. 11.796/DF, cancelou o enunciado n. 512 da Súmula deste Superior Tribunal de Justiça, firmando tese no sentido de que o tráfico ilícito de drogas, na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006), não é crime equiparado a hediondo.
+Por fim, embora a natureza da droga apreendida seja especialmente deletéria - crack -, a quantidade não é expressiva - 6,4g -, razão pela qual, a princípio, o recrudescimento do regime prisional não possui lastro em motivação idônea.
+Dessa forma, tratando-se de réu primário, condenado a pena que não excede 4 anos de reclusão e com circunstâncias judiciais preponderantemente favoráveis, com destaque para a pouca quantidade de entorpecente apreendido - 6,4g de crack -, o paciente faz jus ao regime aberto, a teor do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para confirmar a liminar anteriormente deferida e fixar o regime aberto.
+Publique-se. Intimem-se.
