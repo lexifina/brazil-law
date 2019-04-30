@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça da mesma Unidade Federativa, no julgamento do Agravo em Execução n. 1.0301.12.009642-7/002, com a seguinte ementa (e-STJ fl. 407):
+AGRAVO EM EXECUÇÃO PENAL - RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DA EXECUÇÃO - IMPOSSIBILIDADE MOMENTO PROCESSUAL INADEQUADO - RECURSO NÃO PROVIDO.
+- Não compete ao Juízo da Execução reconhecer reincidência não admitida em sentença penal condenatória.
+- Recurso não provido.
+ Os elementos existentes nos autos indicam que, quando foi, novamente condenado pelo crimes dos arts. 33 e 35 da Lei n. 11.343/2006, o recorrido possuía quatro anteriores condenações.
+Na fase de execução da pena, o Juízo indeferiu pedido do Ministério Público para reconhecer a reincidência, mesmo não tendo essa circunstância sido declarada na sentença ou no acórdão (e-STJ fl. 356).
+O TJMG negou provimento ao agravo em execução, tendo mantido íntegra a decisão.
+Nas razões do recurso especial (e-STJ fls. 431-445), alega o recorrente violação aos arts. 61, I, 63 e 64, todos do Código Penal e ao art. 66 da Lei de Execução Penal, ao argumento de que a reincidência pode ser reconhecida em sede de execução penal, mesmo que a sentença não o tenha feito, não havendo que se falar em ofensa à coisa julgada.
+Requer, ao final, o provimento do especial para que seja reconhecida a reincidência em relação ao recorrido.
+Contrarrazoada a insurgência (e-STJ fls. 449-452), após o juízo prévio de admissibilidade (e-STJ fls. 454-456), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do inconformismo (e-STJ fls. 466-469).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do tema trazido à discussão no apelo nobre, assim restou assentado pela Corte a quo, in litteris (e-STJ fls. 408-410):
+ ..
+Em que pesem os argumentos expendidos pelo Órgão Ministerial, vê-se não lhe assistir qualquer razão, ao postular pelo reconhecimento da reincidência do sentenciado, ao fundamento de ser esta uma simples circunstância fática.
+Inicialmente, nota-se que o juízo criminal prolator da condenação debatida não constatou expressamente a referida agravante em desfavor do agravado.
+Não obstante serem coerentes os fundamentos ventilados, inviável em sede de execução a alteração das disposições da sentença, sob pena de ofensa à coisa julgada, salvo em casos excepcionais, não estando a ora vertente elencada nas disposições do art. 66, da Lei de Execução Penal.
+Ora, após a prolação da sentença penal condenatória, o Ministério Público ficou inerte deixando que o veredicto passasse em julgado sem apresentar qualquer tipo de irresignação. Lado outro, não é concebível que após o trânsito em julgado, o reeducando tenha sua situação agravada desta forma, sob o risco de violação aos princípios que norteiam o direito penal, processual penal e até mesmo o constitucional.
+ ..
+Ressalte-se que o debate no presente recurso refere-se à questão atinente à possibilidade de o Juízo das Execuções Penais reconhecer a reincidência para fins de concessão dos benefícios previstos na Lei n. 7.210/1984 (LEP), mesmo que não tenha sido declarada no processo de conhecimento.
+No caso, ainda, que a reincidência não tenha sido declarada na sentença que condenou o recorrente, cabe ao Juízo da Execução Penal, no cumprimento da sua função fiscalizadora, zelar pelo correto cumprimento da pena, de modo que, para tanto, deve averiguar a incidência, ou não, do referido instituto.
+Em outros termos: o fato de a agravante da reincidência não ter sido reconhecida e aplicada na sentença condenatória nada modifica a condição de reincidente do recorrido para fins de usufruto dos benefícios típicos da Execução Penal, dentre eles a progressão em regime.
+Analisando os argumentos apresentados pelo recorrente, a insurgência merece prosperar, pois segundo a jurisprudência vigente neste Superior Tribunal de Justiça, a reincidência constitui circunstância pessoal que acompanha o condenado durante toda a execução da pena, não havendo se falar em reformatio in pejus quando, embora a sentença condenatória não a tenha mencionado, o Juízo Executório a reconhece para fins de cálculo dos benefícios, dentre os quais a progressão de regime.
+Nesse sentido (destaques acrescidos):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REINCIDÊNCIA CONSIDERADA NA PRIMEIRA FASE DA DOSIMETRIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. AFRONTA À COISA JULGADA. INOCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A reincidência constitui circunstância pessoal que acompanha o condenado durante toda a execução da reprimenda.
+2. Caso em que restou consignado pelo Tribunal de origem que a reincidência foi devidamente reconhecida em sentença condenatória, muito embora a tenha o Magistrado utilizado na primeira fase da dosimetria da pena, como maus antecedentes.
+3. A jurisprudência desta Corte caminha no sentido de que a não incidência da reincidência na fase de conhecimento não impede o reconhecimento dos seus efeitos na fase executória, não havendo falar em ofensa aos limites da coisa julgada ou ao princípio da non reformatio in pejus.
+4. Agravo regimental desprovido.
+(AgRg no HC 380357/ES, da minha relatoria, QUINTA TURMA, julgado em 27/02/2018, DJe 07/03/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 59 E 68, AMBOS DO CP. SENTENÇA CONDENATÓRIA. UTILIZAÇÃO DE CONDENAÇÃO ANTERIOR NA PRIMEIRA FASE DA DOSIMETRIA COMO MAUS ANTECEDENTES. RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DA EXECUÇÃO PARA FINS DE PROGRESSÃO DE REGIME. REFORMATIO IN PEJUS OU AFRONTA À COISA JULGADA. INOCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A execução penal possui como pressuposto a existência de um título condenatório ou uma sentença absolutória imprópria, tendo como objetivo "fazer cumprir o comando emergente da sentença" (MARCÃO, Renato. Curso de execução penal. 13ª ed. rev. ampl. São Paulo: Saraiva, 2015, p. 31) ou decisão criminal, conforme dispõe o art. 1º da Lei de Execução Penal.
+2. Tratando-se de sentença penal condenatória, o juízo da execução deve se ater ao teor do referido decisum, no tocante ao quantum de pena, ao regime inicial, bem como ao fato de ter sido a pena privativa de liberdade substituída ou não por restritivas de direitos. Todavia, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional etc).
+3. "A individualização da pena no processo de conhecimento visa aferir e quantificar a culpa exteriorizada no fato passado. A individualização no processo de execução visa propiciar oportunidade para o livre desenvolvimento presente e efetivar a mínima dessocialização possível. Daí caber à autoridade judicial adequar a pena às condições pessoais do sentenciado" (BARROS, Carmen Silvia de Moraes. A Individualização da Pena na Execução Penal. São Paulo: Editora Revista dos Tribunais, 2001, p. 23 ).
+4. Não prospera, nessa perspectiva, o argumento de que a consideração da reincidência, apenas na fase de execução penal, revelaria o inaceitável reformatio in pejus, tendo em vista que não há falar em agravamento da reprimenda, mas apenas em individualização da pena, que na esfera de competência do juízo da execução se relaciona com institutos próprios (progressão de regime, livramento condicional etc).
+5. In casu, asseverado pelo magistrado, na sentença condenatória, que o ora recorrente possuía condenação anterior transitada em julgado (período depurador não foi alcançado), a qual foi utilizadas para exasperar a pena na primeira fase da dosimetria, não há violação à coisa julgada ou reformatio in pejus quanto à consideração do Juiz da execução, no sentido de ser o recorrente reincidente para fins de progressão de regime. (grifo nosso)
+6. Agravo regimental não provido.
+(AgRg no REsp 1642746/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)
+Nesse contexto, o acórdão recorrido, ao declarar a impossibilidade de o Juízo Executório reconhecer a existência de reincidência para fins de cálculo dos benefícios executórios, encontra-se em dissonância com o entendimento vigente nesta Corte de Justiça, merecendo amparo a insurgência da defesa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do Superior Tribunal de Justiça, dá-se provimento ao recurso especial para reconhecer a possibilidade de o Juízo da Execução reconhecer a reincidência de [NOME], ainda que não tenha sido reconhecida na sentença ou no acórdão.
+
+Publique-se. Intimem-se.
