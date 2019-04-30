@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial ante a incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 367/371).
+O acórdão do TJMS traz a seguinte ementa (e-STJ fl. 259):
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE USUCAPIÃO - POSSE CONTÍNUA E PACÍFICA - ANIMUS DOMINI - COMPROVAÇÃO POR PARTE DO USUCAPIENTE - RECURSO CONHECIDO E PROVIDO. Deve ser reformada a sentença recorrida, quando a parte autora comprova o preenchimento dos requisitos necessários para que lhe seja declarado o domínio do bem imóvel.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 300/303).
+Nas razões do recurso especial (e-STJ fls. 310/327), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, os recorrentes alegaram desrespeito aos arts. 373, II, 489, §º, IV e VI, 1.013 e 1.022 do CPC/2015, aduzindo que a Corte de origem teria incorrido em negativa de prestação jurisdicional, pois "o acórdão simplesmente negou-se a apreciar os argumentos trazidos pelos recorrentes em sede de contrarrazões de apelação, com o que violou o princípio recursal do duplo grau de jurisdição, até porque, a sentença de primeiro grau, julgou o pedido inicial improcedente" (e-STJ fl. 321).
+Apontaram dissidio jurisprudencial e ofensa ao art. 1.208 do CC/2002 , pois a existência de comodato verbal entre as partes excluiria o animus domini do recorrido, impossibilitando, dessa maneira, a declaração da prescrição aquisitiva postulada por esse.
+Acrescentaram que haveria má-valoração das provas dos autos, no ponto.
+Foram apresentadas contrarrazões (e-STJ fls. 349/365).
+No agravo (e-STJ fls. 373/383), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 386/402).
+É o relatório.
+Decido.
+As omissões que fundamentaram a alegação de negativa de prestação jurisdicional sustentada pelos recorrentes são genéricas, porque não descriminam a forma em que o acórdão recorrido teria incorrido nos apontados vícios.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A propósito: "A mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+A Corte de origem sedimentou que, no caso concreto, a parte recorrida comprovou os requisitos necessários à usucapião do imóvel, tais quais a posse com animus domini e o preenchimento do lapso temporal previsto em lei. Confira-se o seguinte excerto (e-STJ fls. 262/263):
+Pelo que se pode observar das provas constante dos autos, em especial a prova testemunhal, a ora apelante exerce a posse, com animus domini, do imóvel, qualificado na exordial, a mais de 40 (quarenta) anos, tendo construído no imóvel mais uma casa de tábua na frente, duas construções ao lado e, ainda, realizando o cultivo de plantações.
+As testemunhas Dejaniro [NOME] e Domingo Gioli Neto são categóricos no sentido de que tinham como dono do imóvel o Sr. [NOME], nunca tendo mudado do local.
+Já a testemunha [NOME], além de vizinho do apelante, também foi quem construiu a casa de tábua da frente, a mais de 30 (trinta) anos.
+Vê-se que o animus domini encontra-se devidamente comprovado, porquanto o apelante se encontra na posse do imóvel por muitos anos sem ser incomodado por terceiros, tendo realizado benfeitorias em evidente boa-fé.
+As provas constantes dos autos demonstram que o autor preencheu os requisitos necessários para a usucapião. Além disso, como bem destacado pela i. Promotora de Justiça:
+(..).
+Ademais, não se pode olvidar das declarações do apelante, quanto à forma de aquisição do imóvel, uma vez que alega não ter transferido o bem imóvel para seu nome no CRI, devido não possuir documentação no momento, conforme aprova sua identidade anexada à f. 08, o apelante é analfabeto e teve sua documentação expedida em meados de 1989.
+Podendo claramente o apelante ter colocado seu imóvel em nome do cunhado de confiança (VALDECI), que por sua vez durante mais de 25 (vinte e cinco) anos nunca reivindicou a posse deste bem, ora ninguém é tão benevolente assim para permitir que alguém resida e até mesmo edifique construções por tantos anos em um imóvel que lhe pertença."
+Ante o exposto, conheço do recurso e dou-lhe provimento para julgar procedente o pedido formulado na ação de usucapião proposta por [NOME], a fim declarar o domínio do autor em relação ao imóvel descrito na petição inicial.
+Ultrapassar as conclusões do aresto impugnado, para reverter a usucapião reconhecida em favor do recorrido sobre o imóvel em disputa, segundo defendido no especial, exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Ademais, conforme jurisprudência consolidada desta Casa, "a errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 970.049/RO, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/5/2017, DJe 9/5/2017).
+No mesmo sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DO DIREITO DE DEFESA. PROVA PERICIAL INDEFERIDA. DIREITO CAMBIÁRIO. NOTA PROMISSÓRIA. ALEGAÇÃO DE NÃO PAGAMENTO EXTRACARTULAR. INCIDÊNCIA DA SÚMULA 7 DO STJ. OPOSIÇÃO DE EXCEÇÕES PESSOAIS. POSSIBILIDADE. TÍTULO. NÃO CIRCULAÇÃO.
+(..)
+3. A valoração da prova em recurso especial pressupõe que tenha havido contrariedade a princípio ou norma legal pertinente ao campo probatório. Na hipótese de a questão situar-se no propósito de análise das circunstâncias fáticas que nortearam o acórdão recorrido ou na rediscussão dos depoimentos testemunhais, a questão ultrapassa a valoração da prova para assentar-se em novo exame da prova para reavaliá-la.
+4. Recurso especial conhecido em parte e desprovido.
+(REsp n. 1.367.403/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/6/2016, DJe 16/6/2016.)
+Os recorrentes defendem a existência de má valoração das provas dos autos pela Corte local, ante a reforma da sentença para conceder a usucapião postulada pelo recorrido.
+Outrossim, depreende-se da análise do aresto impugnado (e-STJ fls. 259/263 e 300/303) inexistir contrariedade a princípio ou norma legal referente ao direito probatório.
+Dessa forma, na linha dos precedentes acima expostos, a pretensão da parte recorrente de rediscutir as premissas que ensejaram a procedência do pedido de declaração da usucapião postulada pela parte recorrida, nos moldes sustentados no especial, não encontra amparo na jurisprudência desta Corte Superior.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015).
+Segundo assente na jurisprudência das Turmas da Segunda Seção desta Corte Superior, "nos termos dos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (AgInt no REsp n. 1.444.474/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017).
+Na mesma linha: AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.
+De tais ônus os recorrentes não se desincumbiram, pois se limitaram a transcrever a ementa do julgado a partir da qual defendeu a divergência de entendimento jurisprudencial sobre o tema debatido.
+Dessa forma, não bastando tal providência para comprovar o dissídio alegado, é inviável conhecer do recurso no ponto.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
