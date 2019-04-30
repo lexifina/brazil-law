@@ -1,0 +1,6 @@
+Art. 19-A. Os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil não constituirão os créditos tributários relativos aos temas de que trata o art. 19, observado:
+I - o disposto no parecer a que se refere no inciso II do caput do art. 19, que será aprovado na forma do disposto no art. 42 da Lei Complementar nº 73, de 10 de fevereiro de 1993;
+II - o parecer a que se refere o inciso IV do art. 19, que será aprovado na forma do disposto no art. 40 da Lei Complementar nº 73, de 1993, ou, quando não aprovado por despacho do Presidente da República, houver concordância com a sua aplicação pelo Ministro de Estado da Economia;
+III - nas hipóteses de que tratam os incisos VI do caput do art. 19 e o § 4º do art. 19, a Procuradoria-Geral da Fazenda Nacional se manifestará sobre os temas abrangidos pela dispensa.
+§ 1º Nas hipóteses de que trata este artigo, os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia adotarão, em suas decisões, o entendimento a que estiverem vinculados, inclusive para fins de revisão de ofício do lançamento e de repetição de indébito administrativa.
+§ 2º O disposto neste artigo aplica-se, no que couber, aos responsáveis pela retenção de tributos e, ao emitirem laudos periciais para atestar a existência de condições que gerem isenção de tributos, aos serviços médicos oficiais.
