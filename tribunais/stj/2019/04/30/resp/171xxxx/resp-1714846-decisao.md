@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A. contra acórdão proferido pelo TJMT assim ementado (e-STJ fl. 592):
+COBRANÇA  PROGRAMA DE ELETRIFICAÇÃO RURAL "LUZ NO CAMPO"  PRESTAÇÕES MENSAIS  OBRIGAÇÃO DE TRATO SUCESSIVO - PRESCRIÇÃO TRIENAL PARCIAL  TRATAMENTO DIFERENCIADO ENTRE CONSUMIDORES DE PROGRAMA SEMELHANTE "LUZ PARA TODOS"  AFRONTA À ISONOMIA  RESTITUIÇÃO SIMPLES  SUCUMBÊNCIA  INVERSÃO  PROVIMENTO PARCIAL.
+lnexistindo ajuste para devolução dos valores, em se tratando de prestações de trato sucessivo, incide o prazo prescricional fixado no art. 206, §3º, inc. IV, do C. Civil, na forma do entendimento pacificado pelo STJ, de modo que a prescrição atinge as prestações pagas antes do triênio pretérito a propositura da ação, in casu, parte das prestações pactuadas estão prescritas.
+Afronta ao princípio da isonomia o tratamento desigual entre pessoas que se encontram em situação semelhante, notadamente aquelas que aderiram ao programa governamental "Luz no Campo", com participação financeira, e outras que aderiram ao programa posterior "Luz para Todos", com benefício de isenção de custos.
+O consumidor deve ser ressarcido das parcelas não atingidas pelo manto da prescrição.
+Os embargos de declaração foram rejeitados (e-STJ fls. 620/625).
+Nas razões do recurso especial (e-STJ fls. 628/636), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alega ofensa aos arts. 489 e 1.022 do CPC/2015, porque não examinadas as questões postas em debate.
+Defende a legalidade da participação do consumidor no custeio da energia elétrica, sendo certo que no momento de edição do Decreto n.º 4.873/2003 o Recorrido já possuía acesso ao serviço de energia elétrica, de modo que sua inclusão no programa "Luz para Todos" implica em violação do artigo 1º do Decreto n. 4.873/2003. Indicou dissídio.
+Juízo de admissibilidade positivo (e-STJ fls. 519/523).
+É o relatório.
+Decido.
+Não é possível o conhecimento da presente insurgência na parte em que aponta violação do artigo 535 do CPC, pois a petição recursal não indica os motivos pelos quais considera ofendido o dispositivo legal, limitando-se a sustentar genericamente a existência de contradição no acórdão proferido. Conforme entendimento pacífico do STJ, aplica-se ao caso a Súmula n. 284 do STF (Cito: REsp n. 1.676.559/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/9/2017, DJe 10/10/2017 e AgInt no REsp n. 1.638.575/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/6/2017, DJe 4/8/2017).
+A respeito da participação do consumidor no programa "luz para todos", os julgadores consideraram (e-STJ fl. 604):
+Dispõe o art. 5º, caput, da Constituição Federal que todos são iguais perante a lei. Entende-se, portanto, que o alcance do princípio não se restringe a nivelar cidadãos diante da norma legal posta, mas que a própria lei não pode ser editada em desconformidade com a isonomia.
+Assim, não se afigura justo e razoável tratar pessoas em situações semelhantes, de forma desigual, porquanto uns são obrigados pela concessionária de serviços elétricos ao pagamento da tarifa de contribuição financeira, instituída pelo Programa "Luz no Campo", enquanto que outros, nas mesmas condições, são beneficiados com a isenção da referida taxa, em razão do Programa "Luz para Todos".
+Como se observa, ao decidir a questão amparou-se em fundamento constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Entretanto, não há notícia de interposição do recurso competente pela parte interessada em relação ao fundamento constitucional. A ausência de interposição do respectivo recurso extraordinário atrai a aplicação da Súmula n. 126/STJ.
+O conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional - nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ - exige a demonstração do dissenso jurisprudencial, com a transcrição dos julgados que configurem o dissídio, não sendo suficiente a simples reprodução de ementas, sem o necessário cotejo analítico, a fim de evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+Nesse sentido, confiram-se recentes julgados desta Corte:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. INTERPRETAÇÃO DO DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. O conhecimento de recurso especial fundado na alínea "c" do art.
+105, III, da CF/1988 requisita, além da indicação dos dispositivos legais violados, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), tal como ocorrido, impede o conhecimento do recurso especial (cf. REsp 1412951/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 25/11/2013; AgRg no AREsp 417.461/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/12/2013.)
+(..)
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 653.064/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2015, DJe 14/4/2015.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. 1. REQUISITOS PARA A CONCESSÃO DA TUTELA. REVISÃO DO VALOR FIXADO EM CASO DE DESCUMPRIMENTO DA ORDEM JUDICIAL. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. 3. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Ademais, ausente a similitude fática entre os casos confrontados.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 628.932/GO, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2015, DJe 24/3/2015.)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
