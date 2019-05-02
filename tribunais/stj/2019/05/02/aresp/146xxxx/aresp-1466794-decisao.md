@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por EDIFÍCIO MARIA ADELAIDE contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Reintegração de posse. Área comum de condomínio. Publicação da decisão dos embargos de declaração no período de recesso forense. Regimento interno desta Corte de Justiça que, em seu artigo 116, parágrafo 3º, determina a suspensão das intimações nesse período. Contagem do prazo a partir do primeiro dia útil seguinte. Preliminar de intempestividade rejeitada. Pretensão possessória que não se sujeita à prescrição extintiva. Prescrição afastada. Condomínio autor que nunca exerceu posse de fato sobre a área disputada. Posse do autor que é requisito imprescindível à proteção possessória. Improcedência da ação.
+Recurso parcialmente provido" (e-STJ fl. 275).
+Nas razões do recurso especial, o recorrente aponta violação dos artigos 560 e 561 do Código de Processo Civil de 2015 e 1.204, 1.210 e 1.223 do Código Civil.
+Alega que o possuidor indireto igualmente é detentor do direito de reclamar em juízo proteção possessória. Argumenta que "o RECORRENTE cedeu ao RECORRIDO, a título de mera tolerância e de forma temporária, o poder de fato sobre o local de uso comum a todos os condôminos, sendo, à época, possuidor indireto do bem, situação alterada quando do esbulho praticado pelo RECORRIDO" (e-STJ fl. 308).
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem julgou improcedente a ação, com base nos seguintes fundamentos:
+"Com efeito, em se tratando de ação possessória, incumbe ao autor provar a sua posse, a turbação ou esbulho praticado pelo réu, a data da turbação ou do esbulho e a continuação da posse, embora turbada, na ação de manutenção ou a perda da posse, na ação de reintegração (CPC, art. 561, I a IV).
+No caso dos autos, contudo, não há comprovação de posse anterior pelo condomínio sobre a área disputada. Muito pelo contrário, a própria situação física da área vide fotografia de fls. 95 dos autos revela que o condomínio nunca exerceu posse de fato sobre o imóvel. A prestigiar tal conclusão, extrai-se da ata da assembleia geral de condôminos que "o espaço encontra-se inscrutado, impossibilitando o acesso dos demais condôminos a ele" (fls. 14), do que se conclui, sem qualquer esforço de raciocínio, que o apelado sempre ocupou a área exclusivamente.
+De se ressaltar, ademais, que a narrativa da petição inicial sequer descreve o efetivo exercício pelo autor de atos de posse sobre o imóvel, fundada a pretensão, na realidade, no direito de propriedade, o que não se admite, pois, à vista do que reza o artigo 1.196 do Código Civil, o ordenamento jurídico vigente determina que para se ter posse é preciso exercer poder de fato sobre a coisa, que não se confunde com direito de posse advindo do domínio" (e-STJ fls. 277-278).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.500,00 (mil e quinhentos reais), os quais devem ser majorados para R$ 1.875,00 (mil, oitocentos e setenta e cinco reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
