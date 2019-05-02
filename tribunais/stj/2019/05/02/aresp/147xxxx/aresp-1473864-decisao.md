@@ -1,0 +1,33 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ITBI. BASE DE CÁLCULO. ACÓRDÃO FUNDAMENTADO EM NORMA LOCAL. ÓBICE DA SÚMULA N. 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Município de São Paulo, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA Impetrantes que visam à concessão de ordem determinando o recolhimento do ITBI sobre o valor venal estipulado para cálculo do IPTU/2016, afastando-se o valor de referência adotado pela autoridade coatora Cabimento - Majoração indevida da base de cálculo do tributo proporcionada pela Lei Municipal nº 11.154/91 Ilegalidade da apuração do valor venal com base no valor de referência - Inconstitucionalidade dos artigos 7º-A e 7º-B da Lei Municipal n.º 11.154/1991, que permitem a estimativa prévia e unilateral do valor e invertem a ordem do artigo 148 do CTN, reconhecida pelo Órgão Especial deste Egrégio Tribunal Base de cálculo do ITBI que deve corresponder ao valor venal do imóvel ou ao valor da transação, prevalecendo o que for maior Concessão da ordem que se impõe - Sentença reformada - Recurso provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a recorrente alega violação dos seguintes dispositivos: a) art. 97, II e §1º, do CTN, sustentando que a base de cálculo do ITBI está prevista na Lei Municipal n. 11.154/91, de forma que não há que se falar em ofensa ao princípio da legalidade; b) arts. 38 e 148 do CTN, aduzindo legalidade do procedimento adotado pelo fisco paulista com relação ao arbitramento e à base de cálculo do tributo.
+Houve contrarrazões (e-STJ fls. 210/215).
+Sobreveio juízo negativo de admissibilidade por ausência de desrespeito à legislação enfocada, bem como pela incidência da Súmula n. 280/STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 229/234).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Trata-se, na origem, de mandado de segurança impetrado pelos ora recorridos pleiteando que o cálculo do ITBI seja feito sobre o valor venal utilizado para calcular o IPTU. A segurança foi concedida.
+A insurgência não merece prosperar.
+Isto porque a Corte a quo, ao entender pela impossibilidade da utilização do procedimento para o arbitramento da base de cálculo do ITBI, o fez com base na declaração de inconstitucionalidade do Decreto Municipal n. 46.228/05 e dos dispositivos autorizadores contidos na Lei Municipal n. 11.154/91.
+Cito excerto do decisium (e-STJ fls. 190/191):
+Assim, aplicando-se o referido decreto, o valor venal considerado para o ITBI será muito superior ao do IPTU, majorando, portanto, sua base de cálculo, em flagrante desconformidade com o princípio da legalidade tributária, previsto nos artigos 150, I, da CF e 97 do CTN.
+Ademais, vale destacar que o Colendo Órgão Especial deste Egrégio Tribunal de Justiça, por maioria dos votos, julgou procedente a Arguição de Inconstitucionalidade nº 0098335-50.2006.8.26.0000, declarando a inconstitucionalidade do Decreto Municipal nº 46.228/05, corroborando o entendimento acima esposado, in verbis:
+ ..
+Acresça-se a esta fundamentação outro recente julgamento do Colendo Órgão Especial deste E. Tribunal de Justiça, proferido nos autos da Arguição de Inconstitucionalidade nº 0056693-19.2014.8.26.0000, suscitada por este Relator, o qual, por maioria de votos, julgou a ação parcialmente procedente, para o fim de pronunciar a inconstitucionalidade dos artigos 12, 7º-A e 7º-B da Lei nº 11.154, de 30 de dezembro de 1991, estes últimos acrescentados pela Lei nº 14.125, de 29 de dezembro de 2005, ambas do Município de São Paulo.
+Conforme se extrai do supracitado julgado, a superveniência das Leis Municipais nºs 14.125/2005 e 14.256/2006 alterou a redação do artigo 7º, caput, da Lei nº 11.154/1991, para considerar como valor venal o valor de mercado do imóvel, objeto do negócio, ou seja, aquele preço pelo qual seria negociado o bem à vista, em condições normais de transação, não havendo aí afronta aos princípios da legalidade e da segurança jurídica, pois, a priori, a regra de apuração do imposto é a de que ela seja feita com base nas declarações do próprio contribuinte.
+Dessa feita, rever a conclusão a que chegou o Tribunal a quo exigiria exame da legislação local a qual autoriza o procedimento adotado pelo Fisco paulista, o que é vedado em sede de recurso especial em virtude do óbice da Súmula n. 280/STF.
+No mesmo sentido, cito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ITCMD. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO FUNDAMENTADO EM NORMA LOCAL. SÚMULA 280/STF.
+1. A indicada afronta ao art. 35, I, do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando o artigo tido por violado não foi apreciado pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Em que pese a Corte estadual ter citado os arts. 38 e 97 do CTN em sua fundamentação, ela não os violou. Ademais, o acórdão recorrido baseou-se precipuamente na Lei 10.705/2000 para explicitar o valor da base de cálculo do ITCMD.
+3. Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+4. Recurso Especial não conhecido.
+(REsp 1744718/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/08/2018, DJe 13/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
