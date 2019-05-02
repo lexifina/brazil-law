@@ -1,0 +1,62 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 1.114):
+AGRAVO REGIMENTAL. Decisão que indeferiu a incidência de juros moratórias sobre o pagamento de vencimentos determinado por decisão judicial. Alegação de cumprimento tardio do julgado. Inexistência. A configuração de mora é premissa para o direito à percepção de juros. Não há que se cogitar de cumprimento tardio porquanto, a administração atendeu fielmente ao, Acórdão transitado em julgado do STF, ocasião em que nasceu o direito do agravante ser promovido ao cargo de Desembargador, antes mesmo da remessa física dos autos a este Tribunal.
+RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.127-1.133).
+Sustenta o recorrente violação do disposto nos arts. 395 e 398 do Código Civil. O primeiro dispositivo prevê a responsabilidade do devedor pelos prejuízos a que sua mora der causa, mais juros. Já o segundo, dispõe que o devedor estará em mora desde o ato que praticou.
+Alega, assim, que os dispositivos teriam sido violados ao ter o Tribunal de origem negado o pagamento de juros moratórios ao fundamento de inexistir determinação expressa na decisão proferida pelo Supremo Tribunal Federal no mandado de segurança anteriormente impetrado pelo insurgente.
+O recurso foi inadmitido pelo Juízo a quo (e-STJ, fls. 1.185-1.188).
+Foi interposto agravo para destrancamento do apelo (e-STJ, fls. 1.194-1.196).
+Parecer do Ministério Público Federal opinando pelo provimento do agravo em recurso especial (e-STJ, fls. 1.219-1.224).
+O agravo foi provido. Decisão às fls. 1.226-1.227, na qual se determinou a conversão do feito em recurso especial.
+É o relatório.
+Da análise dos autos, observa-se que o Tribunal de origem negou o pagamento dos juros moratórios sob os fundamentos: 1) inexistência de previsão expressa no título judicial; e 2) ausência de mora da administração, pois esta cumpriu fielmente a decisão do Pretório Excelso tão logo cientificada da decisão.
+Senão vejamos a decisão monocrática proferida na instância de origem (e-STJ, fl. 1.099):
+A decisão do Supremo Tribunal Federal determina o pagamento em favor do requerente dos respectivos vencimentos e demais vantagens, não sendo expressa quanto a serem devidos juros de mora de forma retroativa.
+À administração publica não pode ser imputada mora retroativa na hipótese, na medida em que, apenas com a decisão do excelso pretório, exarada em 19.09.06., nasceu o direito do autor, passando este a ser exigível.
+Portanto, apenas quando da intimação do Tribunal de Justiça desta decisão é que se poderia contar a fluência de juros moratórios, isto acaso houvesse descumprimento.
+No mesmo sentido, o acórdão proferido no julgamento do agravo interno (e-STJ, fls. 1.115-1.116):
+A decisão proferida pelo Supremo Tribunal Federal nos autos do Recurso Extraordinário nº 451252 reconheceu ao "impetrante o direito de promoção ao cargo de Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro, assegurando-lhe, desde a data da preterição (25 de maio de 1998), os respectivos vencimentos e demais vantagens.
+ ..
+Conclui-se, portanto, que a Administração deste Tribunal deu efetivo cumprimento ao julgado. E isto porque, além de ajustar o provento, liquidou a verba pretérita, nos exatos limites do decisum.
+Assim, assentado que a configuração de mora é premissa para o direito à percepção de juros, não há que se falar em cumprimento tardio eis que o Tribunal atendeu fielmente ao acórdão transitado em julgado do pretório excelso tão logo cientificado, o que se deu em 19/10/2006 (fls. 773/774), ocasião em que nasceu o direito do agravante ser promovido ao cargo de Desembargador.
+Não há necessidade de revolvimento de matéria fático-probatória para a análise dos dispositivos tidos por violados. A questão fática delimitada nas decisões proferidas no Tribunal a quo são suficientes para a integral compreensão do caso, demandando-se apenas a qualificação jurídica dos fatos incontroversos.
+Em relação à ausência de previsão expressa de incidência de juros moratórios no título judicial, tal circunstância é irrelevante para caracterização do direito do recorrente. Isso porque a incidência de juros moratórios é pedido implícito, além de consectário da própria condenação, independentemente de comando expresso na decisão judicial.
+Esse é o entendimento do Supremo Tribunal Federal insculpido no enunciado de Súmula 254:
+Incluem-se os juros moratórios na liquidação, embora omisso o pedido inicial ou a condenação.
+Em idêntica direção é a jurisprudência desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 467 E 473 DO CPC/1973. PRECLUSÃO. REQUISITO DO PREQUESTIONAMENTO ATENDIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. A jurisprudência desta Corte Superior prevalece no sentido de que a inclusão dos juros de mora e da correção monetária no valor da liquidação independe de pedido expresso e de determinação contida na sentença, porquanto incluídos implicitamente no título executivo judicial tais encargos, não havendo que se falar em ofensa à coisa julgada.
+2. Embargos de declaração acolhidos sem efeitos infringentes.
+(EDcl no AgRg no AREsp 850.537/MG, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 8/9/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONTRATO DE EMPREITADA.
+PAVIMENTAÇÃO ASFÁLTICA. JUROS DE MORA E CORREÇÃO MONETÁRIA. PEDIDO IMPLÍCITO. JULGAMENTO EXTRA-PETITA NÃO CONFIGURADO. PRESCRIÇÃO. TERMO INICIAL. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Segundo a jurisprudência do STJ, não configura julgamento ultra petita a fixação de juros de mora e correção monetária, por serem pedidos implícitos, mesmo que não previstos na condenação. Ademais, a Corte de origem analisou a questão com base no contexto fático-probatório dos autos e no exame das cláusulas do contrato administrativo firmado entre a partes. Incidência das Súmulas 5 e 7/STJ.
+2. No que tange à prescrição, o Tribunal local, com amparo nas provas acostadas aos autos, concluiu que houve causa suspensiva do prazo prescricional. Dessa forma, rever o entendimento do Tribunal de origem requer revolvimento de matéria fático-probatória, o que é inviável em Recurso Especial. Aplicação da Súmula 7/STJ. Assim, fica prejudicada a tese referente ao dies a quo do prazo prescricional, uma vez que, ainda que fosse considerada a data de aprovação das medições - como pleiteia a ora agravante -, não haveria falar em prescrição, ante a existência de causa suspensiva.
+3. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 184.453/MS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2013, DJe 13/9/2013)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. PEDIDO IMPLÍCITO.
+1. A jurisprudência desta Corte, baseada no disposto na Súmula 254/STF "incluem-se os juros moratórios na liquidação, embora omisso o pedido inicial ou a condenação", firmou-se no sentido de que a incidência de juros de mora sobre o valor objeto da execução independe de pedido expresso e de determinação contida na sentença exequenda, sendo considerados nela implicitamente incluídos.
+2. Agravo regimental não provido.
+(AgRg no AREsp 122.118/MG, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/5/2012, DJe 29/5/2012)
+Superado o primeiro ponto, passo à análise da ocorrência de mora na situação em comento.
+Pode-se verificar, da análise dos excertos supratranscritos, que o Tribunal de origem entendeu não ter ocorrido mora, porquanto a decisão da Suprema Corte fora cumprida tão logo cientificado o órgão administrativo competente, por meio do pagamento dos valores retroativos acrescidos de correção monetária.
+Ocorre que, em relação à responsabilidade civil extracontratual, este Tribunal Superior possui entendimento sumulado de que os juros de mora fluem desde o evento danoso, conforme o disposto na Súmula 54/STJ ("Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual").
+No aspecto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. TABELIONATO. DESIGNAÇÃO DE SUBSTITUTO. PRETERIÇÃO. INDENIZAÇÃO POR DANOS MORAIS. ILEGITIMIDADE PASSIVA. ACÓRDÃO FUNDAMENTADO COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. PRESCRIÇÃO. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ.
+1. Trata-se na origem de Ação Indenizatória proposta por [NOME] contra o Estado do Rio Grande do Sul, [NOME] e [NOME], em que se pleiteou indenização pelos danos materiais e morais decorrentes de sua preterição ao cargo de Tabelião substituto, quando gozava da condição de substituto mais antigo, o que lhe garantia a imediata nomeação.
+2. Inicialmente, no que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+3. O Tribunal de origem reconheceu a legitimidade passiva dos agravantes [NOME] e [NOME] [NOME] por entender evidenciada a conduta dolosa das partes na prestação de informação não fidedigna ao Juiz Diretor do Foro, com o intuito de preterir a designação de [NOME] como substituto. Dessa forma, é inviável, portanto, analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+4. O acórdão recorrido aplicou a prescrição quinquenal prevista no art. 1º-C da Lei 9.494/1997, tendo em vista o disposto no art. 236 da Constituição Federal. Quanto ao ponto, incide o disposto na Súmula 126/STJ, uma vez que foram debatidas matérias de natureza constitucional e infraconstitucional. No entanto, o recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal.
+5. Por outro lado, assiste razão ao recorrente [NOME] no que se refere ao termo inicial dos juros de mora. Isso porque nos termos da Súmula 54/STJ, os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.
+6. Agravo de [NOME] e [NOME] não provido. Recurso Especial de [NOME] parcialmente provido.
+(REsp 1.659.855/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/5/2017, DJe 16/6/2017)
+Na situação em análise, é notório que o evento danoso ensejador da ordem concedida pelo STF foi o recebimento a menor, mês a mês, da remuneração e dos proventos pelo recorrente desde a data em que foi preterido (25/5/1998).
+Assim, assiste razão à parte quanto ao seu direito a receber os juros de mora.
+No entanto, a administração não pode ser compelida a restituir a condenação em folha de pagamento, pois esta hipótese se restringe ao descumprimento da segurança após o trânsito em julgado (STJ. 1ª Turma. AgRg no Ag 1.412.030-RJ, Rel. Min. Arnaldo Esteves Lima, julgado em 27/8/2013).
+Portanto, deve ser respeitada a prerrogativa da Fazenda Pública de adimplir a condenação judicial por meio de precatório, obedecido o rito previsto nos arts. 100 da Constituição Federal, 534 e 535 do CPC/2015.
+Ante o exposto, com fulcro no art. 932, IV e V, do CPC/2015, c/c o art. 255, § 4º, II e III, do RISTJ, dou parcial provimento ao recurso especial, para reconhecer o direito do recorrente ao recebimento dos juros de mora, contados a partir do recebimento a menor de cada parcela de sua remuneração.
+Os índices a serem aplicados devem obedecer aos parâmetros estabelecidos no Recurso Especial n. 1.495.146/MG, submetido ao rito dos recursos repetitivos.
+O cumprimento de sentença deve ocorrer nos autos do Mandado de Segurança n. 526/1998, ficando ressalvado, desde logo, que o prazo prescricional que teve início com o trânsito em julgado (Súmula 150/STF) foi interrompido com o ajuizamento da presente ação (art. 219, caput e § 1º, do CPC/1973) e voltará a correr pela metade (art. 9º do DL n. 20.910/32), não ficando aquém dos 5 (cinco) anos (Súmula 383 do STF).
+Publique-se. Intimem-se.
