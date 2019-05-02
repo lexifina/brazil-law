@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MEDIDA CAUTELAR DE DEPÓSITO. SUSPENSÃO DA EXIGIBILIDADE. SÚMULA 2 DESTA CORTE. HONORÁRIOS ADVOCATÍCIOS.
+1. Descabido o reexame necessário nas ações em que a condenação, ou direito controvertido, não exceder 60 salários mínimos (art. 475, § 2º, do CPC, acrescentado pela Lei n.º 10.352/01).
+2. E direito do contribuinte, em ação cautelar, fazer o depósito integral de quantia em dinheiro para suspender a exigibilidade de crédito tributário. (Súmula n. 2, TRF 3ª Região).
+3. Em sede cautelar, em que se busca medida de natureza provisória, com o fito de assegurar a eficácia do provimento definitivo, não há litígio e, portanto, não há que se falar em sucumbência, sendo incabível a condenação em honorários advocatícios. Precedentes do STJ e desta Turma (STJ, 1ª Turma, Resp 277978/RJ: TRF3, 6a Turma, Embargos de Declaração em AC nº 95.03.079197-9, AC 94.03.031734-5/SP).
+4. Remessa oficial não conhecida. Apelação parcialmente provida.
+Opostos embargos de declaração, foram rejeitados sem acréscimo de fundamentação.
+A parte recorrente alega violação do art. 475 do CPC/1973 (e-STJ fl. 407):
+Conquanto a norma que alterou a redação do art. 475 do CPC fosse posterior ao julgamento proferido em primeiro grau, que determinou a remessa ao Tribunal, o entendimento da Douta Relatora é no sentido de que, sendo norma processual tem imediata aplicabilidade, podendo incidir no momento do julgamento da remessa e não antes, no momento e que a sentença foi proferida.
+Com esse entendimento, o julgado recorrido violou literal disposição de lei federal, qual seja o art. 475, parágrafo 2º, do mesmo diploma, sendo inclusive, contrário ao entendimento desse Superior Tribunal de Justiça.
+No caso, entendeu o relator que, ao chegar a suas mãos o feito, deveria já proceder à aplicação da alteração havida na lei processual, sem atinar, no entanto, que, no momento em que a parte havia que optar entre oferecer ou não o recurso de apelação, estava protegida pela norma processual então vigente, que lhe assegurava o direito ao reexame necessário. Não poderia ela ter previsto uma alteração futura da legislação. Dessa forma, o que houve, no decisum ora atacado, foi uma aplicação retroativa da norma processual, ferindo um direito adquirido da parte, e não a aplicação a partir da alteração da norma.
+Alega, ainda, violação dos arts. 20 e 267 do CPC/1973, por entender que a parte autora não tinha interesse de agir no ajuizamento de ação cautelar com o fim de proceder ao depósito judicial para suspensão da exigibilidade do crédito tributário, uma vez que essa providência pode ser feita diretamente nos autos da ação principal, e, assim, com a extinção sem julgamento de mérito da ação, deveria ter sido arbitrada verba de sucumbência, ainda que a oferecida contestação.
+Sem contrarrazões (e-STJ fl. 421).
+Recurso admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 383):
+Primeiramente, não conheço da remessa oficial vez que descabido o reexame necessário nas ações em que a condenação, ou direito controvertido, não exceder 60 salários mínimos (art. 475, § 2º, do CPC, acrescentado pela Lei n. 10.352/01).
+Em um segundo momento, rejeito a alegação de falta de interesse de agir formulada pela União Federal.
+De acordo com entendimento sumulado por este Corte: É direito do contribuinte, em ação cautelar, fazer o depósito integral de quantia em dinheiro para suspender a exigibilidade de crédito tributário. (Súmula nº 2)
+Com relação à condenação dos honorários advocatícios em ação cautelar, entendo que é incabível quando o pedido refere-se ao depósito dos valores a serem questionados na principal, com a conseqüente suspensão da exigibilidade do crédito tributário.
+Com efeito, em sede cautelar, em que se busca medida de natureza provisória com o fito de assegurar a eficácia do provimento definitivo, não há litígio e, portanto, não há que se falar em sucumbência, sendo incabível a condenação em honorários advocatícios.
+Pois bem.
+A tese fazendária relacionada à alegação de violação do art. 475 do CPC/1973 não foi prequestionada, tendo em vista que o órgão julgador nada consignou quanto ao momento de vigência da regra processual aplicada, razão pela qual o conhecimento do recurso, nessa parte, encontra óbice na Súmula 282 do STF.
+É admitida a ação cautelar para o fim de oportunizar o depósito para suspensão da exigibilidade do crédito tributário (v.g.: REsp 1.156.669/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/09/2010; REsp 81.746/SC, Rel. Ministro Milton Luiz Pereira, Primeira Turma, DJ 25/11/1996, p. 46149), e a condenação em verba honorária de sucumbência está vinculada à apresentação de resistência pela parte requerida (v.g.: AgRg no AREsp 497.619/CE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/02/2015; AgRg no REsp 1.185.106/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 24/03/2011; AgRg no REsp 1.189.805/ES, Rel. Ministro Ministro Benedito Gonçalves, Primeira Turma, DJe 07/10/2010).
+No caso, observa-se que o acórdão recorrido está em conformidade com a lei processual e com o entendimento deste Tribunal, quanto ao interesse de agir, e, com relação à verba honorária de sucumbência, eventual acolhimento da pretensão fazendária implicaria reformatio in pejus.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
