@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DEVOLUÇÃO DOS AUTOS À ORIGEM. AUSÊNCIA DE INTERESSE EM ADERIR A ACORDO. SUSPENSÃO DO PROCESSO. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. ENUNCIADO N. 284 DA SÚMULA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, EM JUÍZO DE RETRATAÇÃO.
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por [NOME] contra sentença que, nos autos do cumprimento de sentença coletiva promovida em desfavor de Banco do Brasil S.A., determinou a suspensão da execução em virtude da determinação proferida por esta Corte Superior no REsp n. 1.438.263/SP.
+A Décima Oitava Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve a decisão monocrática proferida pelo Desembargador Relator, a qual deu provimento ao inconformismo a fim de cassar a decisão de suspensão do processo, conforme se verifica da seguinte ementa (e-STJ, fls. 190-195):
+AGRAVO INTERNO - Descabimento da suspensão da execução individual - Suscitada competência do órgão fracionário para o julgamento do agravo de instrumento - Descahimento - Hipótese em que o Relator pode julgar monocraticamente o recurso - Inteligência do inciso V, do artigo 932 do Código de Processo Civil - Recurso improvido
+A instituição financeira interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 460, 468, 475-E e 535, II, do CPC/1973; 189 e 2.035 do CC; e 2º-A da Lei n. 9.494/1997. Sustentou, em síntese, a necessidade de suspensão do processo em decorrência da afetação de processo repetitivo por esta Corte Superior.
+Negado seguimento ao recurso pela Presidência da Seção de Direito Privado do TJSP, a casa bancária apresentou agravo.
+A Presidência do STJ determinou a devolução dos autos à origem em cumprimento à Questão de Ordem deliberada pela Segunda Seção desta Corte (e-STJ, fls. 320-321).
+O poupador interpôs agravo interno alegando a prescindibilidade de devolução dos autos à origem haja vista a manifesta ausência de interesse em aderir a algum acordo de pagamento (e-STJ, fls. 325-347).
+Mantida a decisão monocrática pela Vice-Presidência do STJ (e-STJ, fls. 355-357), o credor apresentou novo agravo interno repisando os argumentos anteriormente aduzidos (e-STJ, fls. 360-370).
+Brevemente relatado, decido.
+Consoante se depreende dos argumentos trazidos pelo agravante, a devolução dos autos à origem não surtiria o efeito pretendido, porquanto o próprio poupador já consignou a ausência de interesse em aderir a qualquer acordo eventualmente proposto pela instituição financeira, tornando imperioso o prosseguimento da apreciação do agravo em recurso especial interposto pelo banco.
+Assim, reconsideradas as decisões proferidas pela Presidência e Vice-Presidência do STJ (e-STJ, fls. 320-321 e 355-357), passa-se à análise do apelo especial, haja vista que os pressupostos recursais do agravo em recurso especial foram preenchidos.
+Contudo, melhor sorte não socorre à instituição financeira, não devendo ser conhecido seu recurso especial, porquanto se constata que as razões do inconformismo não permitem identificar de que forma se deu a violação à lei federal, pois o banco não demonstrou, efetivamente, o modo como se deu a ofensa aos dispositivos legais apontados no apelo especial, bem como não infirmou as conclusões do aresto combatido.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+Sendo assim, impõe-se a incidência do entendimento jurisprudencial expresso no enunciado n. 284 da Súmula do STF, aplicado reiteradamente também no juízo de admissibilidade do recurso especial por esta Casa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OFENSA A DISPOSITIVOS LEGAIS. NÃO INDICAÇÃO. APLICAÇÃO DAS SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso não evidenciam de que forma os dispositivos legais invocados foram violados. Aplicação das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reapreciação da conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido. (AgRg no AREsp 424.722/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 07/04/2015, DJe 13/04/2015)
+Ante o exposto, após reconsiderar as decisões de fls. 320-321 e 355-357 (e-STJ), conheço do agravo para não conhecer do recurso especial.
+Publique-se.
