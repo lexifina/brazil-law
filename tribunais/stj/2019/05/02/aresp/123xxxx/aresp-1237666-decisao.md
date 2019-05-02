@@ -1,0 +1,52 @@
+DECISÃO
+CELSO MARTINS DE MIRANDA agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 361675-39.2013.8.09.0120.
+O agravante foi condenado, em primeira instância, pela prática do delito do art. 14 da Lei n. 10.826/2003, a 2 anos de reclusão mais 10 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritivas de direitos. O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do recurso especial, a defesa alega violação dos arts. 23, I, 24, 43, V c/c o art. 47, IV, todos do Código Penal; 148 da Lei 7.210/1984; 12 da Lei n. 10.826/2003 e 619 do Código de Processo Penal. Aponta omissão no julgado recorrido e, no mérito, pleiteia a absolvição (estado de necessidade) e, eventualmente, a desclassificação da conduta, a substituição da prestação de serviços à comunidade por outra modalidade de interdição temporária de direitos e a redução do valor da pena pecuniária.
+O especial não foi admitido na origem, o que motivou a interposição do agravo em recurso especial.
+O Ministério Público Federal, às fls. 392-398, em parecer do Subprocurador-Geral da República [NOME], opinou pelo conhecimento do agravo para não conhecer do recurso especial e, caso conhecido, pelo não provimento.
+Decido.
+I. Omissão
+A defesa aponta omissão no acórdão recorrido. Aduz: "nos mencionamos cada dispositivo da legislação federal em nosso recurso, porém o Egrégio Tribunal de Justiça deixou de manifestar sobre eles" (fl. 334).
+A anulação do acórdão recorrido por omissão, mesmo quando se pretende obter o prequestionamento de determinada matéria, depende da demonstração analítica e detalhada dessa omissão, além da sua relevância para o deslinde final da causa, o que não ocorreu na espécie, porquanto o referido vício, na verdade, representou mero inconformismo com o resultado de mérito do julgado.
+Em tais casos, aplica-se, por analogia, a Súmula n. 284 do Supremo Tribunal Federal. Olvidou-se, no entanto, de demonstrar de forma analítica a alegada omissão.
+II. Estado de necessidade e erro de proibição
+O agravante pleiteia a sua absolvição por entender caracterizada hipótese de excludente de ilicitude em razão do estado de necessidade. Justifica: "já foi vítima de furtos e roubos em sua propriedade" e "mantinha a arma no imóvel rural querendo proteger sua família e patrimônio que conquistou com muito labor e suor e principalmente sua vida e de seus familiares que residem em sua propriedade" (fl. 335).
+Sobre a questão, o Tribunal de origem explicitou (fls. 251-252, destaquei)
+ ..
+A autoria, por seu turno, foi demonstrada pela prova oral amealhada ao feito, especialmente, pela confissão do próprio acusado em juízo, o qual asseverou: "(..) os fatos narrados na denúncia aconteceram; que a arma que os policiais encontraram em seu carro estava embaixo do banco de de seu carro; (..); que a arma apreendida tinha munições; que utilizava a arma porque atualmente sua esposa e seus filhos moram em Goiânia e, há nove anos mora sozinho na sua propriedade rural, sendo que há uns dez anos atrás, em um sábado a tarde, sua fazenda foi assaltada por 04 ladrões, oportunidade em que o depoente e seus familiares foram amarrados no banheiro; que desde então utiliza a arma para ir durante a noite ligar o "pivô""  ..
+Sustenta o apelante a absolvição a assertiva que agira em estado de necessidade, porquanto possuía a arma de fogo em virtude de que já fora vítima de furtos e roubos em sua propriedade. Todavia, tal argumento não afasta a reprovabilidade de sua conduta, uma vez que seu temor não o autoriza a agir irregularmente para se prevenir de perigo eventual.
+ ..
+Com efeito, a conduta de transportar arma de fogo, sem autorização e em desacordo com normas legais e regulamentares, com o propósito de garantir a segurança pessoal, não configura o contexto de excepcionalidade exigido para o reconhecimento da exculpante do estado de necessidade, máxime quando não demonstrado o perigo atual, requisito necessário para a configuração da excludente de ilicitude do estado de necessidade, previsto no artigo 24 do Estatuto Penal, e o crime em questão ser de mera conduta e perigo abstrato.
+O alegado erro de proibição também não deve prosperar, já que o legislador estabeleceu que o desconhecimento da lei é inescusável, exigindo apenas uma consciência potencial da ilicitude do fato, não sendo crível que uma pessoa plenamente integrada à sociedade, desconhece a proibição de se possuir ou transportar arma de fogo sem a devida autorização legal.
+Destarte, afasta-se a pretensão absolutória fulcrada na excludente de estado de necessidade e erro de proibição.
+Conforme se observa, o Tribunal de origem afastou a hipótese extraordinária do estado de necessidade por entender que não houve a demonstração de perigo atual e iminente.
+Com efeito, não caracteriza violência atual, imediato e inevitável a referência a fato, ainda que grave, ocorrido à muito tempo - dez anos conforme consta do acórdão -, a fim de justificar a conduta ilícita praticada.
+Assim, afastar a conclusão das instâncias de origem implicaria no reexame do conjunto fático-probatório dos autos, o que é inadmissível no recurso especial, a teor da Súmula n. 7 deste Superior Tribunal de Justiça.
+Também, não é passível de análise a tese do erro de proibição, por demandar incursão fático-probatória, para constatar que o acusado não detinha conhecimento da ilicitude concretizada.
+III. Desclassificação
+A defesa pleiteia a desclassificação do crime do art. 14 (porte) para aquele do art. 12 (posse) da Lei n. 10.826/2003. Alega: "apesar do recorrente ser detido em local diferente da sua residência, usava a referida arma para defesa pessoal própria e de sua família" e que "por descuido, naquele dia esqueceu de tirar a arma do veículo" (fl. 320).
+O julgado recorrido consignou (fl. 254):
+ ..
+Melhor sorte não socorre ao apelante quanto à pretendida desclassificação para o crime tipificado no artigo 12, da Lei 10.826/03, porquanto restou devidamente comprovado que ele transportava a arma de fogo, no interior de seu veículo. Portanto, a conduta praticada pelo apelante amolda-se ao tipo penal pelo qual foi condenado, mais precisamente no núcleo do tipo "transportar".
+Com razão a Corte de origem. Uma vez comprovado, nos autos, que o acusado transportava ilegalmente arma de fogo de uso permitido no interior de veículo automotor, fora dos limites de sua propriedade (fazenda), está caracterizada a conduta do art. 14 da Lei n. 10.826/2003.
+Ilustrativamente:
+ ..
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que veículos automotores não podem ser considerados como extensão do local de trabalho com vistas a ensejar a desclassificação do crime de porte ilegal de arma de fogo para a conduta tipificada no art. 12 da Lei n. 10.826/2003. Incidência da Súmula 83/STJ.
+2. Agravo regimental improvido (AgRg no AREsp n. 306.401/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/10/2013).
+IV. Penas restritivas de direito - adequação e valor da pecuniária
+A parte requer que a sanção de prestação de serviços à comunidade seja substituída por proibição de frequentar determinados lugares, além da redução do valor da pena pecuniária.
+O Tribunal de origem assim se posicionou (fls. 256-257, grifei):
+ ..
+Alega o apelante que em razão de sua atividade laboral (trabalho em zona rural) é inviável o cumprimento da pena de prestação de serviço à comunidade, rogando, contudo, pela alteração da medida pela interdição temporária de direito.
+No entanto, merece confirmação a pena substitutiva aplicada na sentença vergastada. Certo que compete ao juiz sentenciante, no âmbito de seu poder discricionário, optar, dentre as modalidades de penas restritivas de direitos previstas no Código Penal, por aquela que se apresenta mais adequada ao caso concreto, visando sempre atingir os objetivos da sanção penal. Logo, não comporta ao condenado a escolha da pena que mais lhe convir.
+Além do mais, quando da audiência admonitória para o fim da definição do local de cumprimento da pena, poderá o apelante solicitar ao juiz alteração da forma de execução da sanção, bem como os benefícios do art. 46, § 4º, do Código Penal (cumprimento da pena em menor tempo).
+Giro outro, em relação ao pedido de redução do valor fixado a título de prestação pecuniária, sob o argumento de que o valor correspondente a 02 (dois) salários-mínimos é excessivo, novamente sem razão.
+Isto porque, para a redução do valor relativo a prestação pecuniária deve-se estar patente a desproporcionalidade entre o quantum da pena segregativa substitutiva e o valor arbitrado em pecúnia, bem como provado que o réu não tem condições de adimplir com o valor fixado, circunstâncias não visíveis na hipótese vertente.
+Desta feita, constatado que o valor arbitrado para o pagamento da prestação pecuniária encontra-se dentro dos parâmetros legais, e considerando que fora autorizado pela magistrada sentenciante o parcelamento do montante fixado em até seis vezes (fls. 142), mantêm-se o quantum fixado na decisão recorrida.
+O julgado estabeleceu que a reprimenda substitutiva de prestação de serviços à comunidade possui previsão legal e cabe ao Juiz sentenciante decidir a opção mais adequada aos fins da sanção penal, e não a que melhor convir ao apenado.
+A pena substitutiva não perde seu caráter sancionatório e deve ser adequada e suficiente a atingir a finalidade reparadora da reprimenda. Assim, a sua escolha não se submete à conveniência do sentenciado, embora deva ser observada a capacidade/razoabilidade de ser cumprida. Pressupõe, pois, algum esforço do réu.
+Na hipótese, não há como aferir a inadequação ou a desproporcionalidade, porquanto pendente a futura definição dos parâmetros concretos da medida.
+Quanto ao valor da condenação pecuniária - dois salários mínimos divididos em até seis vezes -, além de não se mostrar, à primeira vista, desproporcional em relação ao quantum de pena privativa de liberdade imposta, o exame de sua redução demandaria incursão fático-probatória dos autos, a fim de constatar a capacidade econômica do acusado, o que é inviável no âmbito do recurso especial. Nesses termos, em ambos os casos incide o óbice da Súmula n. 7 do STJ.
+V. Dispositivo
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
