@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Rio Grande do Sul, com amparo na alínea "a" do inciso III do art. 105 do permissivo constitucional, contra acórdão do Tribunal de Justiça respectivo, publicado na vigência do CPC/1973 assim ementado:
+AGRAVO. DECISÃO MONOCRÁTICA. REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. SERVIDOR PUBLICO. GRATIFICAÇÃO DE UNIDOCÊNCIA NO PERCENTUAL DE 50%. APLICAÇÃO DA LEI FEDERAL Nº 9.4941/97 COM REDAÇÃO DADA PELA LEI FEDERAL Nº 11.960/09. REFORMATIO IN PEJUS NÃO CARACTERIZADA.
+I - A matéria foi suficientemente enfrentada por ocasião do julgamento do recurso de apelação, o qual explicitou a forma de atualização de acordo com a nova redação do art. 1º-F, da Lei nº 9.494/97, conferida pela Lei nº 11.960/09, eis que a ação já estava em curso no momento da sua entrada em vigor.
+II - Ausente demonstração do efetivo prejuízo sofrido no tocante à atualização do montante condenatório.
+III - Diante da inexistência de elementos capazes de alterar o julgamento é de ser mantida a decisão monocrática.
+Agravo desprovido.
+O recorrente aponta violação dos arts. 128, 460, 475, 512 e 515 do CPC/1973. Aduz que o aresto determinou a aplicação do art. 1º-F da Lei n. 9.494/1997, com redação da Lei n. 11.960/2009, " ..  para todo o período da condenação, isto é, desde o momento em que devida cada parcela impaga, incidindo, daí os juros legais" (e-STJ, fl. 163). Defende que, com isso, houve agravamento da sentença em seu prejuízo, já que esta definia a citação como o termo inicial dos juros.
+Refere contrariedade aos arts. 219 do Código de Processo Civil/1973; 405 do Código Civil; e 1º-F da Lei n. 9.494/1997. Argumenta que, para os débitos da Fazenda Pública, aplicam-se juros de mora a partir da citação do réu. Ademais, a Lei n. 11.960/2009 não dispôs a respeito do seu termo inicial.
+Contrarrazões às e-STJ, fls. 174/176.
+É o relatório.
+Uma das questões jurídicas discutidas nos presentes autos, qual seja, aplicabilidade do art. 1º-F da Lei n. 9.494/1997, com a redação da Lei n. 11.960/2009, às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora, teve a repercussão geral reconhecida pelo Supremo Tribunal Federal nos autos do RE 870.947/SE, Tema 810, cujo julgamento ainda não está concluído naquela Corte.
+Em 26/9/2018, o Min. Luiz Fux, Relator do recurso extraordinário em referência, deferiu medida excepcional para determinar aos demais tribunais que suspendessem o julgamento dos processos análogos até a análise pela Suprema Corte dos embargos de declaração que foram opostos nos autos do RE 870.947/SE. Transcrevo o seguinte excerto da mencionada decisão:
+Desse modo, a imediata aplicação do decisum embargado pelas instâncias a quo, antes da apreciação por esta Suprema Corte do pleito de modulação dos efeitos da orientação estabelecida, pode realmente dar ensejo à realização de pagamento de consideráveis valores, em tese, a maior pela Fazenda Pública, ocasionando grave prejuízo às já combalidas finanças públicas.
+Ex positis, DEFIRO excepcionalmente efeito suspensivo aos embargos de declaração opostos pelos entes federativos estaduais, com fundamento no artigo 1.026, § 1º, do CPC/2015, c/c o artigo 21, V, do RISTF.
+Nesse contexto, os recursos que tratam da mesma controvérsia no STJ devem retornar ao Tribunal de origem para o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+A propósito:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que se faça a adequação ao acórdão proferido no recurso com repercussão geral e, em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Superior Tribunal de Justiça ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
