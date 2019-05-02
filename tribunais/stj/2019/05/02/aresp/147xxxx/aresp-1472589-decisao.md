@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Curitiba, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Paraná, que não admitiu recurso especial com base nos seguintes fundamentos: (I) a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ; (II) a matéria pertinente ao art. 25 da Lei n. 6.830/80 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+É O BREVE RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, que "A matéria foi apreciada pelo Juízo a quo, tendo sido devidamente prequestionada." (fl. 147), a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice da Súmula 282/STF não seria aplicável ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
