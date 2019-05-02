@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. ABERTURA DE CRÉDITO. AÇÃO MONITÓRIA. VIOLAÇÃO AOS ARTS. 4º, III, 6º, II, III E IV, 46, 47 E 54, §§ 3º E 4º DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. FIANÇA. PRORROGAÇÃO AUTOMÁTICA DA GARANTIA. CLÁUSULAS EXPRESSAS. VALIDADE. SÚMULA 83/STJ. PRECEDENTES. PRETENSÃO DE DESCONSTITUIÇÃO DA FIANÇA. ACÓRDÃO QUE NÃO RECONHECEU A SUA OCORRÊNCIA. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Banco do Brasil S.A. ajuizou ação monitória em desfavor de Comércio de Cereais Planalto Ltda. e dos fiadores [NOME], [NOME], [NOME] e [NOME], alegando ser credor da quantia de R$ 262.351,06 (duzentos e sessenta e dois mil, trezentos e cinquenta e um reais e seis centavos) oriunda de inadimplemento em contrato de abertura de crédito firmado entre as partes.
+Os réus opuseram embargos à monitória sustentando ilegitimidade passiva dos garantes solidários e abusividade de cláusulas contratuais. O Magistrado de primeiro grau julgou parcialmente procedentes os embargos monitórios para reconhecer a ilegitimidade passiva dos fiadores e declarou a invalidade de cláusulas contratuais consideradas abusivas.
+Interposta apelação pelo banco, a Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento à insurgência com vistas a reconhecer a legitimidade passiva dos fiadores em acórdão assim ementando (e-STJ, fl. 189):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO MONITORIA. CONTRATO DE ABERTURA DE CRÉDITO - BB GIROFLEX. FIANÇA. RENOVAÇÃO AUTOMÁTICA. VALIDADE DA CLÁUSULA EXPRESSAMENTE PACTUADA. EXIGIBILIDADE DA OBRIGAÇÃO.
+Mostra-se válida a cláusula que determina a prorrogação automática da fiança com a renovação do pacto principal. Compete ao fiador, caso pretenda desonerar-se da obrigação, agir na forma do art. 835 do Código Civil, oportunamente. Precedentes do STJ e desta Corte. Manutenção dos fiadores no polo passivo da não.
+CAPITALIZAÇAO DE JUROS. LEGALIDADE.
+1. O STJ recentemente aprovou as Súmulas 539 e 541, pelos enunciados das quais "é permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP 1.963- 17/00, reeditada como MP 2.170-36/01), desde que expressamente pactuada" e "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada." 2. No caso dos autos, observa-se que, no contrato, a taxa anual supera o duodécuplo da taxa mensal, o que demonstra a possibilidade de incidência de capitalização mensal de juros. Admitida, pois, a capitalização mensal.
+HONORÁRIOS ADVOCATÍCIOS.
+Sentença explicitada. Honorários mantidos.
+RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Irresignado, o fiador [NOME] interpôs recurso especial, com amparo nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 4º, III, 6º, II, III e IV, 46, 47 e 54, §§ 3º e 4º, do CDC; e 819 do Código Civil.
+Sustentou, em síntese, que o instituto da fiança não permite interpretação extensiva. Aduziu que a cláusula que prevê a prorrogação automática do contrato de mútuo não tem eficácia em relação ao fiador.
+Alegou que, no caso dos autos, não obstante a previsão de cláusula de renovação, esta não ocorreu efetivamente.
+Contrarrazões às fls. 233-244 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição do presente agravo.
+Contraminuta às fls. 278-291 (e-STJ).
+Brevemente relatado, decido.
+De início, observa-se que o conteúdo normativo dos arts. 4º, III, 6º, II, III e IV, 46, 47 e 54, §§ 3º e 4º, do CDC, apontados como violados, não foi objeto de debate no acórdão guerreado, carecendo, com isso, do indispensável prequestionamento, o que atrai a aplicação das Súmulas 282 e 356 do STF.
+No tocante à limitação temporal da fiança às obrigações assumidas, o Tribunal de Justiça, ao analisar a referida questão, concluiu pela possibilidade da prorrogação automática da fiança com base nos seguintes fundamentos (e-STJ, fls. 192-194 - sem grifo no original):
+A insurgência do apelante diz respeito à renovação automática da fiança, em decorrência da qual o juízo monocrático entendeu por excluir os fiadores da lide.
+Com razão o apelante.
+Ocorre que, no caso dos autos, a possibilidade de renovação automática da fiança está expressa no contrato firmado pelos fiadores, claramente descrita na cláusula vigésima sétima do contrato.
+Dispõe a referida cláusula (fls.29/30):
+VIGÉSIMA SÉTIMA - FIANÇA - Assina (m), também este Instrumento LUIZ CARLOS [NOME], Brasileiro (a), separado (a), empresário, carteira de identidade, que, na qualidade de fiador (es) e principal (is) pagador (es), sedo esta fiança absoluta, irrevogável, irretratável e incondicional, não comportando qualquer tipo de exoneração, renunciando o (s) fiador (es), expressamente , aos benefícios dos artigos 827, 830, 834, 835, 837 e 838, todos do Código Civil Brasileiro, solidariamente se responsabilizam pelo cumprimento de todas as obrigações assumidas pelo (s) FINANCIADO (A) (5) neste Instrumento, quer no primeiro período de vigência, quer nas prorrogações que se realizarem, conforme previsto na Cláusula "RENOVAÇÃO DO CONTRATO".
+Portanto, estando expressamente prevista no contrato que, com a sua prorrogação, automaticamente se renovaria a fiança prestada, não há qualquer nulidade no ato praticado pela instituição bancária, ainda que aplicáveis as disposições do Código de Defesa do Consumidor.
+Ademais, os autores, no momento e forma oportunos, não requereram a exoneração da obrigação livremente assumida, observado o disposto no art. 835 do CCB.
+(..)
+Portanto, válida a cláusula que prevê a renovação automática da fiança diante da prorrogação do contrato não há falar em ilegitimidade passiva dos fiadores, os quais devem ser mantidos no polo passivo da lide.
+Dessa forma, o acórdão recorrido encontra-se em consonância com o entendimento da Segunda Seção desta Corte Superior, firmado para pacificação da matéria no âmbito da Terceira e Quarta Turmas, segundo o qual é válida a cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, acaso intente sua exoneração, efetuar, no período de prorrogação contratual, a notificação de que reza o art. 835 do Código Civil/2002.
+A propósito:
+RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. FIANÇA. PRORROGAÇÃO AUTOMÁTICA. CLÁUSULA EXPRESSA. LEGALIDADE. PRETENSÃO DE EXONERAÇÃO DA FIANÇA. INVIABILIDADE.
+1. Ação ajuizada em 24/09/2012. Recurso especial 22/07/2014 e atribuído a este gabinete em 25/08/2016.
+2. A jurisprudência deste STJ afirma a validade da cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, acaso intente sua exoneração, efetuar, no período de prorrogação contratual, a notificação de que reza o art. 835 do Código Civil.
+3. Não há falar em nulidade da disposição contratual que prevê prorrogação da fiança, pois não admitir interpretação extensiva significa tão somente que o fiador responde, precisamente, por aquilo que declarou no instrumento da fiança.
+4. Recurso especial a que se nega provimento.
+(REsp 1502417/MG, Relatora a Ministra Nancy Andrighi, DJe 26/05/2017)
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. FIANÇA. CLÁUSULA PREVENDO SUA PRORROGAÇÃO. POSSIBILIDADE. PRECEDENTES. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou entendimento de que é válida a cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, acaso intente a sua exoneração, efetuar, no período de prorrogação contratual, a notificação prevista no art. 835 do CC.
+2. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no REsp 1568310/RO, Relator o Ministro Moura Ribeiro, DJe 05/05/2016)
+FIANÇA EM CONTRATO BANCÁRIO. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. CONTRATO BANCÁRIO. CARACTERIZA-SE POR SER, EM REGRA, CATIVO E DE LONGA DURAÇÃO, [NOME]. FIANÇA PREVENDO, CLARA E EXPRESSAMENTE, SUA PRORROGAÇÃO, CASO OCORRA A DA AVENÇA PRINCIPAL. NULIDADE DA CLÁUSULA. INEXISTÊNCIA. FIADORES QUE, DURANTE O PRAZO DE PRORROGAÇÃO CONTRATUAL, NÃO PROMOVERAM NOTIFICAÇÃO RESILITÓRIA, NOS MOLDES DO DISPOSTO NO ART. 835 DO CC. PRETENSÃO DE EXONERAÇÃO DA FIANÇA. INVIABILIDADE.
+1. A avença principal - garantida pela fiança - constitui contrato bancário que tem por característica ser, em regra, de longa duração, mantendo a paridade entre as partes contratantes, vigendo e renovando-se periodicamente por longo período - constituindo o tempo elemento nuclear dessa modalidade de negócio.
+2. Não há falar em nulidade da disposição contratual que prevê prorrogação da fiança, pois não admitir interpretação extensiva significa tão somente que o fiador responde, precisamente, por aquilo que declarou no instrumento da fiança - no caso, como incontroverso, se obrigou a manter-se como garante em caso de prorrogação da avença principal.
+3. A simples e clara previsão de que em caso de prorrogação do contrato principal há a prorrogação automática da fiança não implica violação ao art. 51 do Código de Defesa do Consumidor, cabendo, apenas, ser reconhecido o direito do fiador de, no período de prorrogação contratual, promover a notificação resilitória, nos moldes do disposto no art. 835 do Código Civil.
+4. Recurso especial provido.
+(REsp 1.374.836/MG, Relator o Ministro Luis Felipe Salomão, DJe 28/02/2014)
+Portanto, reconhecida a responsabilidade do fiador, descabida a alegada ilegitimidade da parte. Assim, inafastável, no caso em tela, a incidência da Súmula 83/STJ, aplicável a ambas alíneas do permissivo constitucional.
+Além disso, confrontar esses fundamentos com a alegação recursal no sentido de que os garantidores não anuíram à renovação do mútuo, demandaria o revolvimento do acervo fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, providências que não são admitidas nesta instância extraordinária ante o disposto nas Súmulas 5 e 7 do STJ.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na forma prevista no art. 85, § 11, do CPC/2015, os honorários devidos pelo agravante ao advogado do agravado ficam aumentados em R$ 1.000,00 (mil reais).
+Publique-se.
