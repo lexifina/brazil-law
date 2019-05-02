@@ -1,0 +1,21 @@
+DECISÃO
+SIDINEI ALVES DOS SANTOS alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que negou provimento à Apelação Criminal n. 0001687-51.2017.8.26.0540 e determinou a expedição de mandado de prisão.
+Busca a impetrante, em suma, a modificação do regime prisional, sob a assertiva de que as instâncias ordinárias não observaram a Súmula n. 269 do STJ.
+Decido.
+O Juiz monocrático condenou o paciente à pena de 5 meses e 10 dias de reclusão, em regime inicial fechado, mais multa, pela prática do delito de furto tentado. Ao realizar a dosimetria, manteve a pena-base no mínimo legal e fixou o regime fechado, "em virtude da reincidência dele na prática de crime contra o patrimônio" (fl. 29).
+A Corte de origem manteve o regime mais gravoso, por entender que "a condição de reincidente específico do sentenciado (condenação anterior pelo delito de furto qualificado, cf. certidão de fl. 131) impõe o reconhecimento de que ele não possui mérito pessoal para obter qualquer beneplácito da Justiça Criminal, mormente a concessão de regime mais brando" (fl. 39).
+Quanto à almejada modificação do regime inicial para semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+A partir dessas premissas e da fundamentação oferecida pelas instâncias ordinárias, verifico o sustentado constrangimento ilegal de que estaria sendo vítima o paciente, pois entendo que deve ser aplicada, ao caso, a exegese da Súmula n. 269 do STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Confiram-se os seguintes julgados:
+ ..
+1. Consoante o entendimento consolidado do Superior Tribunal de Justiça, o enunciado da Súmula n. 269 é aplicável ao réu condenado a pena igual ou inferior a quatro de reclusão, caso as circunstâncias judiciais tenham sido favoravelmente avaliadas, ainda que o sentenciado seja multirreincidente específico.
+2. Agravo regimental não provido.
+(AgRg no HC n. 324.602/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/2/2017, grifei)
+Assim, mesmo diante da reincidência do acusado, considerando a ausência de circunstância judicial desfavorável e a quantidade de sanção aplicada, o paciente faz jus à fixação do regime semiaberto para início do cumprimento da pena.
+Diante da compreensão firmada pelo Supremo Tribunal Federal e por esta Corte, não há razões para insistir em teses contrárias, em homenagem ao princípio da segurança jurídica.
+Ressalto que a observância aos precedentes garante ao jurisdicionado a certeza do posicionamento do Judiciário em relação a determinada matéria posta em juízo e evita, com isso, a prolação de decisões contraditórias (muitas vezes oriundas de um mesmo juízo ou tribunal). A interpretação uniforme das leis faz com que exista uma ordem jurídica mais coerente, mais estável, com maior previsibilidade quanto à interpretação adotada pelo Poder Judiciário.
+Registro, aliás, que o Código de Processo Civil de 2015 privilegia a adoção de um sistema de vinculação aos precedentes, de modo que os tribunais deverão uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente, nos termos do seu art. 926, caput. Com esses objetivos, mesmo os precedentes fixados por meio do controle difuso de constitucionalidade devem, em princípio, ser observados.
+À vista do exposto, concedo in limine a ordem, a fim de fixar o regime semiaberto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias.
+Publique-se e intimem-se.
