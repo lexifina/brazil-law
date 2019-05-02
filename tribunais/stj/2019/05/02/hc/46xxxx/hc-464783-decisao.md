@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. PENAL. DOIS HOMICÍDIOS QUALIFICADOS, EM CONCURSO MATERIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. ORDEM DE HABEAS CORPUS DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de NELTON NASCIMENTO E SILVA contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento da Revisão Criminal n.º 2012.00.2.025731-2.
+Consta nos autos que o Paciente foi condenado definitivamente à pena de 27 (vinte e sete) anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2.º, inciso I, c.c. o art. 69, ambos do Código Penal (por duas vezes).
+Sob a alegação de que teria ocorrido a prescrição da pretensão punitiva, a Defesa formulou pedido de revisão criminal perante o Tribunal de origem, que julgou improcedente o pedido (fls. 441-453).
+Nas razões deste writ, a Impetrante argumenta que: " d a data do fato já se passaram mais de 27 anos, logo entendemos que o direito de punir o agente do crime já prescreveu" (fl. 341). Sustenta que o Paciente, "na época dos fatos tinha 22 anos de idade, hoje já é um senhor tem 50 anos de idade, sendo já casado, com vários filhos e netos e sem mesmo jamais ter se envolvido com qualquer atividade ilícita. Caso permaneça tal sentença, este se livrará da persecução penal somente aos 77 anos de idade, o que é incabível" (fl. 345).
+Requer "seja reconhecida a prescrição do direito de punir do Estado, ante o lapso temporal de 27 anos, com a consequente extinção da punibilidade do sentenciado" (fl. 353).
+A liminar foi indeferida às fls. 407-408.
+As informações foram prestadas às fls. 412-464.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 468-469).
+É o relatório. Decido.
+O acórdão atacado está assim fundamentado (fl. 446; sem grifos no original):
+"Com efeito, o requerente foi denunciado por fato ocorrido em 13/04/1991, tendo a denúncia sido recebida em 11/05/1993 (fl. 22). A decisão do Conselho de Sentença condenou o Requerente à pena de 27 (vinte e sete) anos de reclusão (fls. 37/39), tendo referida decisão transitado em julgado para ambas as partes em 27/07/2009 (fl. 44).
+Sobre a alegada prescrição, sabe-se que, nos termos do § 1º do art. 110 do Código Penal, com as alterações introduzidas pela Lei nº 12.234/2010, "A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa". Observa-se que, no caso, o crime foi praticado em data anterior às alterações promovidas pela Lei nº 12.234/2010, o que significa dizer que seria possível a ocorrência da Prescrição da Pretensão Punitiva em data anterior ao recebimento da denúncia. No entanto, da data do fato (13/04/1991) à data do recebimento da denúncia (11/05/1993) não houve o transcurso do prazo prescricional, bem como ainda não transcorreu o referido prazo entre os marcos interruptivos previstos no art. 117 do Código Penal, e nem mesmo a contar da data do trânsito em julgado da condenação (27/07/2009) até os dias atuais.
+Portanto, não está configurado a extinção da punibilidade em decorrência da Prescrição Punitiva Estatal."
+Da leitura da sentença condenatória, verifica-se que o Paciente foi condenado pela prática de dois homicídios, sendo-lhe impostas as penas de 13 (treze) e 14 (quatorze) anos de reclusão, em concurso material (fls. 423-424).
+Assim, para os dois delitos, o prazo prescricional é de 20 (vinte) anos, nos termos dos arts. 109, inciso I, 110 e 119, todos do Código Penal.
+Como se vê, o Tribunal local ressaltou que não transcorreu o referido lapso temporal entre os marcos interruptivos previstos no art. 117 do Código Penal, sendo certo que a Impetrante não demonstra a ilegalidade do referido acórdão, utilizando, apenas, o argumento genérico de que  d a data do fato já se passaram mais de 27 anos, logo entendemos que o direito de punir o agente do crime já prescreveu" (fl. 341).
+A propósito, " n ão se constata o transcurso do prazo previsto em lei entre os marcos interruptivos da prescrição da pretensão punitiva, circunstância que impede a pretendida declaração de extinção da punibilidade do recorrente" (RHC 52.795/PB, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/11/2014, DJe 26/11/2014).
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
