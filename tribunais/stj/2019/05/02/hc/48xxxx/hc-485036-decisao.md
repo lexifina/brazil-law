@@ -1,0 +1,40 @@
+EMENTA
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. FURTO. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS POR MULTA. CABIMENTO. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITOS. PREJUDICADO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de KENIA TAKENAKA DE MENEZES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido na Apelação Criminal n.º 1.0024.14.236841-4/001.
+Consta dos autos que a Paciente foi condenada às penas de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, e 20 (vinte) dias-multa, como incursa no art. 155, § 4.º, inciso I, por duas vezes, na forma do art. 71, ambos do Código Penal. O Juiz de primeira instância substituiu a pena privativa de liberdade por duas penas restritivas de direitos (fl. 443).
+Irresignada, a Defesa interpôs recurso de apelação. O Tribunal de origem deu parcial provimento ao apelo para:
+"reconhecer o privilégio do artigo 155, § 2º, do Código Penal, concretizando a reprimenda de Kênia Takenaka de Menezes 10 (dez) meses e 15 (quinze) dias de reclusão, em regime aberto, e 6 (seis) dias-multa, no valor mínimo legal, substituindo a pena privativa de liberdade por uma restritiva de direitos, consistente na prestação de serviços à comunidade" (fl. 69).
+O acórdão foi assim ementado (fl. 39):
+"APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - APREENSÃO DA RES FURTIVA EM PODER DA AGENTE - SUFICIÊNCIA PROBATÓRIA - PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICABILIDADE - CRIME IMPOSSÍVEL - NÃO CONFIGURAÇÃO - ROMPIMENTO DE OBSTÁCULO - DECOTE - LAUDO PERICIAL - PRESCINDIBILIDADE - RECONHECIMENTO DO PRIVILÉGIO PREVISTO NO ART. 155, § 2º, DO CÓDIGO PENAL - CABIMENTO.
+1. A apreensão da res furtiva em poder da acusada aliada às demais provas dos autos é suficiente para fundamentar a condenação da agente pelo delito de furto qualificado.
+2. A aplicação do princípio da insignificância deve ser reservada para casos excepcionais, porque, além da ínfima lesão ao bem jurídico tutelado, deve ser analisado o grau de reprovação da conduta e as condições pessoais do autor do crime.
+3. A existência de circuito interno de monitoramento eletrônico em estabelecimento comercial não torna atípica a prática do furto, uma vez que, a vigilância exercida não é infalível e não impede a consumação do crime.
+4. Havendo outras provas que demonstrem a existência do rompimento de obstáculo, não se faz necessária a realização de perícia técnica para a configuração da qualificadora.
+5. É possível a concessão do privilégio previsto no § 2º do artigo 155, do Código Penal, se a agente é primária e o valor da res furtiva não superava ao salário mínimo vigente na época dos fatos. V.V. - O privilégio previsto no § 2º do art. 155 do Código Penal é incompatível com o furto qualificado.
+- A expedição de mandado de prisão e de guia de execução, após a prolação de Acórdão Condenatório por este Egrégio Tribunal de Justiça, com a finalidade de iniciar a execução da pena imposta, não fere o princípio constitucional da presunção de inocência, uma vez que, neste momento processual, encerrada está a possibilidade de reexame da matéria fático-probatória, encontrando-se formada a culpa do agente."
+Neste writ, o Impetrante alega, em suma, a ausência de fundamentação idônea na substituição da pena privativa de liberdade por uma pena restritiva de direitos consistente em prestação de serviços comunitários.
+Assevera que "todas as circunstâncias judiciais foram consideradas favoráveis; a paciente não possui antecedente criminal, é primária, servidora pública, não houve qualquer prejuízo para as vítimas, uma vez as supostas res furtivas foram recuperadas, inexistindo assim motivo para não se aplicar exclusivamente a pena de multa" (fl. 11).
+Sustenta, ainda, a impossibilidade de execução provisória das penas restritivas de direitos.
+Requer, liminarmente, a suspensão da "ordem do Eg. TJMG de Minas Gerais até a decisão de mérito do presente remédio Constitucional" e, no mérito, que seja garantido o "direito de iniciar o cumprimento de pena tão somente após o trânsito em julgado" e a substituição da pena privativa de liberdade exclusivamente por multa.
+O pedido liminar foi deferido (fls. 480-482).
+O Ministério Público Federal manifestou-se às fls. 487-495, opinando pelo "não conhecimento ou, subsidiariamente, pela denegação do writ".
+É o relatório.
+Decido.
+Em caso condenação criminal em que se impõe pena igual ou inferior a um ano - e preenchidos os demais requisitos descritos no art. 44 do Código Penal -, a substituição da pena privativa de liberdade pode ser feita por multa ou por uma pena restritiva de direitos, conforme previsão do § 2º, primeira parte, do mencionado dispositivo legal, in verbis:
+"Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: (Redação dada pela Lei nº 9.714, de 1998)
+ ..
+§ 2o Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos."
+Na hipótese, o Tribunal a quo substituiu a pena privativa de liberdade da Paciente nos seguintes termos (fl. 68):
+"De igual modo, dever ser mantida a substituição da pena privativa de liberdade, todavia, ela deve ser alterada para se amoldar à pena ora imposta.
+Assim, substituo a pena da apelante por apenas uma pena restritiva de direito, consistente na prestação de serviços à comunidade, na forma fixada pelo Juiz Sentenciante."
+Como se vê, constata-se o alegado constrangimento ilegal na substituição da pena privativa de liberdade por uma pena restritiva de direitos (consistente em prestação de serviços à comunidade) em detrimento da multa, haja vista que o acórdão combatido não apresentou qualquer fundamentação para a escolha, em desrespeito ao art. 93, inciso IX, da Constituição da República.
+Nessa perspectiva, confira-se o seguinte julgado desta Corte Superior de Justiça, mutatis mutandis:
+"AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE NÃO RELEVANTE. VALORAÇÃO AFASTADA. ANTECEDENTE MUITO ANTIGO. DIREITO AO ESQUECIMENTO. DUAS RESTRITIVAS DE DIREITOS. AUSÊNCIA DE FUNDAMENTAÇÃO. APLICADA A OPÇÃO MAIS BENÉFICA. REGIMENTAL IMPROVIDO.
+1. A não relevante quantidade de droga - 4,58g de maconha, 5,6g de crack, e 8,3g de cocaína -, desassociada de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.), não justifica a exasperação da pena-base, por inexistente anormal gravidade.
+2. Constatado o decurso de grande período de tempo, como no caso dos autos - mais de 14 anos do cumprimento da condenação anterior -, tem a Sexta Turma mitigado os efeitos das sentenças condenatórias anteriores, para o fim de reconhecimento de maus antecedentes, ensejando o direito ao esquecimento. Precedentes.
+3. Reconhecida a ausência de fundamentação para aplicação de duas restritivas de direitos, hipótese mais gravosa prevista no § 2º do art. 44 do CP, foi concedida a opção mais benéfica - uma restritiva de direitos mais multa, a ser definida pelo Juízo de origem.
+4. Agravo regimental improvido." (AgRg no HC 468.970/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/03/2019, DJe 05/04/2019, sem grifos no original.)
+Outrossim, em razão do deferimento do pedido de substituição da pena corporal exclusivamente por multa, encontra-se prejudicado o pleito referente à execução provisória da pena restritiva de direitos.
+Ante o exposto, CONCEDO A ORDEM de habeas corpus para substituir a pena privativa de liberdade exclusivamente pela multa prevista no art. 44, § 2º, primeira parte, do Código Penal, a ser especificada pelo Juízo de origem.
+Publique-se. Intimem-se.
