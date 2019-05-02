@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 2.988):
+AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL.
+RESERVATÓRIO DA USINA MOURÃO I. LESÃO AO MEIO AMBIENTE CARACTERIZADA PELA NÃO PRESERVAÇÃO DA FAIXA DE MATA CILIAR.
+Opostos embargos declaratórios, foram acolhidos somente os aclaratórios de [NOME] e outros, para integração do julgado, sem atribuição de efeitos modificativos (fls. 3.038/3.056).
+A parte recorrente aponta violação aos arts. 3º e 267, VI, do CPC/73, sustentando a ilegitimidade passiva da União para a presente demanda.
+O Ministério Público Federal, no parecer às fls. 3.244/3.258, opinou pelo não provimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feito esse registro, observa-se que a discussão trazida no presente apelo nobre se dá em ação civil pública ajuizada pelo Ministério Público do Estado do Paraná contra a União Federal, o Estado do Paraná e do Município de Campo Mourão/PR, e os respectivos órgãos ambientais, da Companhia Paranaense de Energis - COPREL, de duas associações recreativas e vários proprietários de lotes integrantes do complexo de lazer Recreio Lago Azul, com o fito de obter a reparação dos danos ambientais causados pelas construções efetuadas nas nas margens dos rios Sem Passo, Mourão e no Reservatório da Usina Mourão, mediante retirada/demolição das construções e condenação do poder público para promover a recuperação da área, bem como a reposição florestal.
+No presente recurso, a União defende que o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, autarquia federal dotada de personalidade jurídica de direito público, com autonomia administrativa e financeira, é responsável por exercer o poder de polícia ambiental. Por isso, entende estar caracterizada sua ilegitimidade passiva para a presente demanda.
+De outro lado, o Tribunal a quo assim se pronunciou sobre o tema (fl. 2.969):
+2.1.4. Da legitimidade passiva dos réus Município de Campo Mourão, Estado do Paraná e União Federal.
+A legitimidade passiva desses réus é conferida pela própria Constituição Federal. Segundo o artigo 23, VIda Carta Magna:
+"Art. 23. E competência comum da União, dos Estados, do Distrito Federal e dos Municípios:
+(..)
+VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;" Dessa forma, esses entes federativos deverão, quando sua conduta for omissiva, responder pelos danos ambientais que poderiam ser evitados caso houvesse a devida fiscalização. O fato de existir uma autarquia especializada - IAP no âmbito estadual e IBAMA no âmbito federal- não os exime da responsabilidade atribuida pela Constituição.
+Embora realmente seja dever do IBA.IvA e do IA  exercer o poder de policia administrativa, fiscalizando e fazendo cumprir a legislação ambiental, essa delegação de poderes ás respectivas autarquias não tem o condão de afastar a legitimidade passiva nesta demanda do Estado do Paraná e da União Federal.e Quanto ao Município de Campo Mourão, sua legitimidade passiva também se configura devido á não fiscalização da área dos loteamentos.
+Nesse diapasão, mesmo que se tenha dado a constituição dos loteamentos de forma regular, isso não afasta a responsabilidade do Município de zelar pela proteção do meio ambiente, ainda que se tenha que efetuar a dita fiscalização em terrenos particulares.
+ Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+ ANTE O EXPOSTO, não conheço do recurso especial da União.
+Publique-se.
