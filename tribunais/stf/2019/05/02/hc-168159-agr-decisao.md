@@ -1,0 +1,13 @@
+DECISÃO: A defesa da parte ora recorrente manifesta seu interesse em sustentar oralmente as razões do presente recurso de agravo (Petição nº 23.345/2019).
+    O Supremo Tribunal Federal consolidou o entendimento de que se revela inacolhível, em sede de recurso de agravo (agravo interno ou “agravo regimental”), o pedido de sustentação oral, em razão de expressa proibição inscrita no § 2º do art. 131 do Regimento Interno desta Suprema Corte, constante de preceito cuja validade constitucional já foi confirmada, inúmeras vezes, sob a égide da Constituição de 1988, por este Tribunal (RTJ 158/272-273 – HC 91.765-MC-AgR/RJ, Rel. Min. CELSO DE MELLO – RHC 135.152/SP, Rel. Min. CELSO DE MELLO, v.g.):
+    “IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL EM SEDE DE ‘AGRAVO REGIMENTAL’
+    – Não cabe sustentação oral em sede de ‘agravo regimental’, considerada a existência de expressa vedação regimental que a impede (RISTF, art. 131, § 2º), fundada em norma cuja constitucionalidade foi expressamente reconhecida pelo Supremo Tribunal Federal (RTJ 137/1053 – RTJ 152/782 – RTJ 158/272-273 – RTJ 159/991-992 – RTJ 184/740-741, v.g.).”
+    (RTJ 190/894, Rel. Min. CELSO DE MELLO, Pleno)
+    Não desconheço, por relevante, que a colenda Segunda Turma desta Corte, tal como debatido no HC 152.676-AgR/PR, Red. p/ o acórdão Min. GILMAR MENDES, entendeu admissível, embora em caráter excepcional, a possibilidade de a parte interessada exercer o seu direito à sustentação oral em sede de agravo interno deduzido em “habeas corpus”, desde que, evidenciada a magnitude do tema versado na causa, seja solicitado destaque do processo por algum dos Juízes que integram o órgão colegiado competente para o julgamento.
+    Tendo para mim que o precedente em questão mostra-se de todo inaplicável à espécie, pois, além de inexistente, até o presente momento, pedido de destaque emanado de qualquer dos Ministros da colenda Segunda Turma deste Tribunal, o litígio veiculado nesta impetração não se reveste do necessário relevo jurídico, sendo certo que a decisão agravada apoia-se em jurisprudência pacífica do Supremo Tribunal Federal firmada no sentido da inviabilidade do “habeas corpus” quando se tratar, como no caso, de mera reiteração de postulação anterior, sem qualquer inovação de fato ou de direito.
+    Esses são os motivos que me levam a não acolher o pleito de sustentação oral deduzido pelos ilustres Advogados da ora agravante.
+    Sendo assim, e em face das razões expostas, indefiro o pleito formulado na petição protocolada, nesta Corte, sob o nº 23.345/2019.
+    Publique-se.
+    Brasília, 02 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
