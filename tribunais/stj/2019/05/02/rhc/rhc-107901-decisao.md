@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Ordinário em habeas corpus com pedido de liminar interposto por GILVAN RIBEIRO DA SILVA JUNIOR contra acórdão proferido pelo Tribunal de Justiça de São Paulo, nos autos de n. 2212661.66.2018.26.0000, sem ementa (e-STJ fls. 1.908/11).
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática dos delitos previstos no art. 2º, caput e § 2º, da Lei n. 12.850/2013 e no art. 157, §2º, incisos I, II e V, por três vezes, do Código Penal. Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada.
+No presente recurso, a defesa alegou, em síntese, excesso de prazo para a formação da culpa do recorrente, tendo em vista que sua prisão perdurava por mais de 250 dias, sem o encerramento da instrução processual.
+Nesse sentido, argumentou que "a duração prolongada, abusiva e irrazoável da prisão cautelar de alguém ofende, de modo frontal, o postulado da dignidade da pessoa humana, que representa - considerada a centralidade desse princípio essencial (CF, art. 1º, III) - significativo vetor interpretativo, verdadeiro valor -fonte que conforma e inspira todo o ordenamento constitucional vigente em nosso País e que traduz, de modo expressivo, um dos fundamentos em que se assenta, entre nós, a ordem republicana e democrática consagrada pelo sistema de direito constitucional positivo" (e-STJ fl. 1.929).
+Diante disso, pugnou, liminarmente e no mérito, pela concessão da ordem e pela expedição do respectivo alvará de soltura.
+Contrarrazões às e-STJ fls. 1.935/43.
+A medida liminar foi indeferida (e-STJ fls. 1.954/56).
+A defesa noticiou, atualizando, a contagem de 11 meses desde a prisão preventiva, sem o encerramento da instrução processual (e-STJ fl. 2.061).
+O MPF opinou pelo não provimento do recurso (e-STJ fls. 2.063/66).
+É o relatório. Passo a decidir.
+Quanto ao tema, a Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório, que precisam ser asseguradas a ambas as partes, no curso do processo.
+Assim, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional, provocado por desídia do juízo.
+Nesse sentido:
+ .. . O excesso de prazo desproporcional, desmotivado e irrazoável para a conclusão do feito, mormente em se tratando de réu preso, não pode, em qualquer hipótese, ser tolerado. (HC n. 134.312/CE, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 22/6/2010, DJe 2/8/2010).
+No caso destes autos, as instâncias ordinárias enxergaram indícios de que o recorrente seria coautor de um roubo de enormes proporções - centenas de milhares de litros de etanol -, com mais de uma dezena de réus, defendidos por advogados diferentes (e-STJ fls. 1.910/11):
+Consoante apurado, o roubo teria sido praticado por cerca de vinte agentes, mediante grave ameaça com emprego de arma de fogo e utilizando-se de caminhões próprios para o transporte de combustível. O paciente foi identificado como um dos executores do roubo, mais precisamente como o indivíduo responsável por subjugar a portaria e os funcionários das usinas vítimas do delito.
+(..)
+De início, considerando as particularidades e complexidade do processo de origem, não se constata demora excessiva na condução do feito em razão de desídia da autoridade impetrada.
+Destaco tratar-se de ação penal complexa que busca apurar conduta de roubo majorado praticada por 13 (treze) réus, além do paciente, com defensores distintos, de modo que a complexidade do feito também deve ser ponderada para fins de análise do lapso temporal da instrução penal.
+Com efeito, as investigações se originaram de interceptações telefônicas que levantaram indícios da existência da organização criminosa com a prisão temporária dos investigados, dentre eles, o paciente. Em 04 de abril p.p., foi decretada a prisão preventiva, determinando-se buscas domiciliares e a lacração do posto de gasolina de propriedade de um dos corréus.
+Em 13 de abril foi aditada a denúncia, incluindo-se dois novos denunciados.
+Foram apresentadas resposta à acusação pelos réus que estão presos. Quanto aos demais, foragidos ([NOME], [NOME], [NOME], Silvano e Jeferson), com vistas à celeridade processual, bem como para não prejudicar os acusados que estão presos, o d. Magistrado de origem determinou o desmembramento do feito com relação a estes.
+Por fim, em consulta ao processo de origem, a audiência de instrução já está designada para o próximo dia 08 de janeiro de 2019, às 14h00min.
+Em sendo assim, o tempo razoável de duração da persecução penal é dado de acordo com as características próprias de cada feito, sempre em observância ao principio da razoabilidade. No caso dos autos, o paciente é acusado de integrar associação criminosa estruturada voltada a roubo de combustíveis na região de Mococa e Paulínia, com dezenas de testemunhas a serem inquiridas.
+Em sendo assim, ainda que a duração da prisão processual seja considerável, reputo-a proporcional ao prognóstico da sanção, guardando direta relação com a gravidade em concreto dos crimes pelos quais o paciente responde.
+(..)
+A percepção de que os fatos imputados ao ora recorrente escapam em muito do ordinário, conjugada com a verificação da intensa movimentação processual, tornam inviável reconhecer o alegado excesso.
+Observa-se que a ação se desenvolve de forma regular, sem desídia ou inércia do Magistrado singular, de modo que eventual retardo na tramitação do feito pode ser justificado pela gravidade dos fatos e pela complexidade do feito, com mais de uma dezena de réus e advogados diversos. Não se vislumbra, portanto, constrangimento ilegal a ser reparado de ofício por este Superior Tribunal de Justiça.
+Outra não é a orientação da jurisprudência desta Corte Superior:
+ ..
+EXCESSO DE PRAZO DA PRISÃO PREVENTIVA. PARTICULARIDADES DA CAUSA. PLURALIDADE DE AGENTES E DE CRIMES. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS PARA A INQUIRIÇÃO DE TESTEMUNHAS E INTERROGATÓRIO DOS RÉUS. INSTRUÇÃO CRIMINAL QUE SEGUE SEU CURSO NORMAL. AUSÊNCIA DE DESÍDIA DA AUTORIDADE JUDICIÁRIA. OBSERVÂNCIA AO PRINCÍPIO DA RAZOABILIDADE. ILEGALIDADE NÃO CONFIGURADA.
+1. Os prazos para a conclusão da instrução criminal não são peremptórios, podendo ser flexibilizados diante das peculiaridades do caso concreto, em atenção aos limites da razoabilidade.
+2. Tratando-se de ação penal em que se apura a prática dos crimes de tráfico de drogas, associação para o tráfico, uso de documento falso, falsa identidade, posse ilegal de arma de fogo de uso permitido e posse ilegal de arma de fogo de uso restrito, envolvendo 3 (três) réus, e no qual foi necessária a expedição de cartas precatórias para a oitiva de testemunhas e para o interrogatório dos acusados, revela-se plenamente justificado o prolongamento da instrução processual.
+3. O andamento do processo encontra-se dentro dos limites da razoabilidade, não havendo notícias de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, tampouco desídia ou inércia por parte do Juízo processante.
+4. Recurso improvido. (RHC n. 55.780/PA, Rel. Min. JORGE MUSSI, DJe 20/5/2015).
+No mesmo diapasão: RHC n. 89.942/RS, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 24/4/2018, DJe 11/5/2018; HC n. 411.512/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/2/2018, DJe 16/2/2018; e RHC n. 81.584/PB, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 21/9/2017, DJe 2/10/2017).
+Ante o exposto, nego provimento ao recurso em habeas corpus, a teor do Regimento Interno do Superior Tribunal de Justiça, art. 34.
+Publique-se. Intimem-se.
