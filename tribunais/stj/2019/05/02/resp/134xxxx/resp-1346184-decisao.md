@@ -1,0 +1,67 @@
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES MENSAIS. REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA DE PREJUÍZO. PLANO DE PENSÃO E PECÚLIO POR MORTE. CONTRATO ALEATÓRIO. GARANTIA DO RISCO. NATUREZA DE SEGURO. EX-ASSOCIADO. AÇÃO DE RESCISÃO CONTRATUAL COM RESTITUIÇÃO DE CONTRIBUIÇÕES. INDEVIDA.
+1. O comparecimento espontâneo do requerido supre a aventual ausência de citação, mesmo que representado por advogado que não possua poderes especiais, e desde que tal ato não resulte em prejuízo à parte, nos termos do art. 214, § 1º, do CPC/1973. Precedentes.
+2. De acordo com a jurisprudência da Segunda Seção do STJ, não são passíveis de restituição os valores das contribuições por ex-associado a título de pecúlio por invalidez, morte ou renda por velhice, por se tratar de contrato aleatório, em que a entidade correu o risco, possuindo a avença natureza similar à de seguro e não de previdência privada. Precedentes.
+3. Recurso especial provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por CAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S/A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado (fls. 224-225):
+APELAÇÃO CÍVEL. CITAÇÃO. VALIDADE. COMPARECIMENTO ESPONTÂNEO DO REQUERIDO. AUSÊNCIA DE PREJUÍZO. AÇÃO DE RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS C/C DANOS MORAIS. CAPEMI. NÃO APLICAÇÃO DAS NORMAS DE SEGURO. POSSIBILIDADE DE DEVOLUÇÃO DE VALORES.
+1. Estabelece o art. 214, § 1º, do CPC, que o comparecimento espontâneo do requerido supre a ausência de citação. E, verifica-se, da leitura dos documentos de fls. 53/54, destes, que o requerido compareceu espontaneamente e habilitou-se no processo por meio de advogado legalmente constituído.
+2. O CPC contempla em seu art. 221 modalidades específicas de perfectibilização do ato judicial, e qualquer outra poderá ser aproveitada quando inexistente qualquer prejuízo ao demandado (art. 244 do CPC). Contexto em que a percepção de ciência acerca da lide deve ser visto pelo comparecimento espontâneo da parte ao cartório (art. 214, § 1º, do CPC). E não há qualquer comprovação de prejuízo existente na forma entendida como válida de citação.
+3. Tratando-se de planos de pecúlio e pensão de montepio, com cobertura de morte natural, morte por acidente ou pensão por invalidez e aposentadoria, benefícios disponíveis à escolha da contratante, improcede incluir o contrato no regulamento próprio de seguro, eis que o pacto não envolveu qualquer espécie de risco, mas escolha quanto ao benefício a ser recebido. As normas que subsidiam o negócio jurídico admitem a restituição de valores pagos (art. 21, 6.435/77, art. 3º, § 1º, Decreto 81.402/78, art. 14, LC 109/01 e Súmula 289, STJ).
+4. Incontroverso que, em virtude disso, o apelado tem direito à restituição das contribuições mensais por ele pagos à apelante no período indicado na inicial, a título de danos materiais, como decidido pela sentença combatida.
+5. Sentença mantida, em todos os seus termos.
+No recurso especial a recorrente aponta dissídio jurisprudencial e contrariedade ao art. 1.432 do CC de 1916 (correspondente ao art. 764 do CC de 2002). Aduz interpretação divergente do art. 214, § 1º, do CPC. Sustenta violação aos arts. 38 e 215 do CPC/1973, pois assevera que o advogado signatário da petição que teria praticado os atos processuais (fls. 53-54) não detinha poderes especiais para receber citação.
+E, no mérito, insurge-se contra a manutenção, pelo Tribunal de origem, do entendimento expendido pela sentença, mantendo a restituição dos valores pagos em plano de pecúlio. Pugna que esse tipo de contrato é regulado por legislação própria dos contratos de seguro, não sendo possível a restituição das contribuições pagas, pois se durante o tempo em que vigorava o contrato, o segurado tivesse morrido ou ficasse inválido, seria pago pensão e pecúlio, como contraprestação devida pela seguradora.
+Requer o provimento do presente recurso.
+É o relatório.
+DECIDO.
+2. Inicialmente, cumpre cuidar, ante a ordem de prejudicialidade, da preliminar de nulidade da citação.
+Alega a recorrente ofensa ao art. 1.432 do CC de 1916 (correspondente ao art. 764 do CC de 2002), bem como aos arts. 38 e 215 do CPC/1973, pois assevera que o advogado signatário da petição que teria praticado os atos processuais (fls. 53-54) não detinha poderes especiais para receber citação.
+Sobre o acima o Tribunal assim se manifestou (fls. 226-227):
+Estabelece o art. 214, § 1º, do CPC, que o comparecimento espontâneo do requerido supre a ausência de citação. E, verifica-se, da leitura dos documentos de fls. 53/54, destes, que o requerido compareceu espontaneamente e habilitou-se no processo por meio de advogado legalmente constituído.
+
+Contexto em que a percepção de ciência acerca da lide deve ser visto pelo comparecimento espontâneo da parte ao cartório (art. 214, § 1º, do CPC). E se, quando oportunizado o prazo, que se iniciou com o comparecimento espontâneo, nele não fez uso a requerida para apresentar sua defesa, não há prejuízo ou ausência de citação válida.
+Esse mesmo entendimento, encontra-se em consonância com a remansosa jurisprudência desta Corte, a qual já assentou que o comparecimento espontâneo do requerido supre a aventual ausência de citação, mesmo que o advogado não possuísse poderes especiais e desde que tal ato não resultasse em nenhum prejuízo à parte, como consignado pelo Tribunal de origem, nos termos do art. 214, § 1º, do CPC. É o que se extrai dos seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CITAÇÃO. AUSÊNCIA. NULIDADE. COMPARECIMENTO ESPONTÂNEO. APRESENTAÇÃO DE DEFESA. CONTRADITÓRIO OBSERVADO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Nos termos do art. 214, § 1º, do CPC/1973, o comparecimento espontâneo do réu supre a falta de citação, ainda que o advogado não possua poderes especiais, desde que de tal ato não resulte nenhum prejuízo à parte. Acórdão recorrido em harmonia com a jurisprudência desta Corte Superior. Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 946.803/PA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/03/2018, DJe 02/04/2018)
+==
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A conclusão a que chegou o Tribunal de origem, acerca da presença dos requisitos necessários para ensejar a desconsideração da personalidade jurídica da recorrida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso por ambas alíneas.
+2. Conforme a remansosa jurisprudência do STJ, o comparecimento espontâneo do requerido supre a eventual ausência de citação, conforme o disposto no art. 214, § 1º, do CPC.
+3. Ademais, a Corte local apurou que não houve prejuízo advindo da ausência de citação, pois, conforme afirmou o Tribunal de origem, antes mesmo que isso acontecesse, apresentou impugnação à fase de cumprimento de sentença" e "têm ciência de tudo quanto ocorreu na execução, inclusive do prazo para pagamento do débito". Dessarte, na esteira da iterativa jurisprudência desta Corte, não se anula ato processual, caso o vício formal não impeça seja atingida a sua finalidade.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 485.332/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/05/2014, DJe 13/05/2014)
+==
+3. Ultrapassada a preliminar de prejudicialidade, passa-se ao exame da questão de mérito de fundo, quanto restituição das parcelas diretamente vertidas pelo anterior associado, em razão do seu pleito de desligamento, por se sentir lesado e prejudicado em seu direito.
+Com razão a recorrente.
+Apesar dos ajustes celebrados pelas partes tratar-se de "planos de pecúlio e pensão de montepio, com cobertura de morte natural, morte por acidente ou pensão por invalidez e aposentadoria", o Tribunal de origem concluiu que a pretensão tinha respaldo nos contratos de previdência privada complementar, e por isso entendeu ser devida a restituição das parcelas diretamente vertidas pelo anterior associado, por ter constatado, no caso concreto, o descumprimento contratual por parte da recorrente, salientando ser cabível a incidência do art. 21, Lei 6.435/77; art. 3º, § 1º, Decreto 81.402/78; e art. 14, LC 109/01.
+É o que se extrai do seguinte trecho do acórdão recorrido (227-229):
+Na hipótese em julgamento, verifica-se que os fatos narrados na inicial têm respaldo nos contratos de previdência privada assinados pelo apelado com a apelante.
+Tratando-se de planos de pecúlio e pensão de montepio, com cobertura de morte natural, morte por acidente ou pensão por invalidez e aposentadoria, benefícios disponíveis à escolha da contratante, improcede incluir o contrato no regulamento próprio de seguros, eis que o pacto não envolveu qualquer espécie de risco, mas escolha quanto ao benefício a ser recebido. As normas que subsidiam o negócio jurídico admitem a restituição de valores pagos (art. 21, Lei 6.435/77, art. 3º, § 1º, Decreto 81.402/78, art. 14, LC 109/01 e Súmula 289, STJ).
+
+No que diz respeito às mensalidades pagas em razão do contrato de previdência privada, verifica-se que o pagamento destas resta consubstanciado pelas cópias dos holerites do recorrido e declarações de fls. 17/43, os quais acusam o desconto em folha das contribuições mensais pelo lapso temporal registrado.
+Entretanto, isso destoa da jurisprudência da Segunda Seção deste Tribunal, que pacificou o entendimento de que nos planos de pecúlio e pensão de montepio, com cobertura de morte natural, morte por acidente ou pensão por invalidez e aposentadoria, por possuir a avença natureza similar à de seguro e não de previdência privada, não são passíveis de restituição os valores pagos por ex-associado a título de pecúlio por invalidez, morte ou renda por velhice, por se tratar de contrato aleatório, em que a entidade correu o risco, possuindo a avença natureza de seguro e não de previdência privada.
+Nesse sentido:
+"EMBARGOS DE DIVERGÊNCIA - PREVIDÊNCIA PRIVADA - RESTITUIÇÃO - PARCELAS ANTERIORES À MARÇO/80 - SEGURO - DIVERGÊNCIA SUPERADA.
+(..)
+III - Os valores pagos a título de pecúlio por invalidez ou morte não são passíveis de restituição, uma vez que a entidade suportou o risco. E, embora não tenha ocorrido o sinistro, nem por isso deixaram os associados de usufruir da prestação do serviço na vigência do contrato, que é, por natureza, oneroso.
+(..)
+Embargos de divergência não conhecidos" (EREsp nº 327.419/DF, Rel. Ministro CASTRO FILHO, Segunda Seção, DJ 1/7/2004).
+==
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE PECÚLIO. EX-ASSOCIADO. RESGATE DE VALORES. INADMISSIBILIDADE. CONTRATO ALEATÓRIO. GARANTIA DO RISCO. NATUREZA DE SEGURO. PREVIDÊNCIA PRIVADA NÃO CARACTERIZADA.
+1. A Segunda Seção deste Tribunal Superior pacificou o entendimento de não serem passíveis de restituição os valores pagos por ex-associado a título de pecúlio por invalidez, morte ou renda por velhice por se tratar de contrato aleatório, em que a entidade correu o risco, possuindo a avença natureza de seguro e não de previdência privada.
+2. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 426.437/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/11/2014, DJe 10/11/2014)
+==
+"EMBARGOS DE DECLARAÇÃO. EFEITO MODIFICATIVO. AGRAVO REGIMENTAL. PECÚLIO E RENDA MENSAL. MORTE, INVALIDEZ E VELHICE. RESTITUIÇÃO. RESTITUIÇÃO DE CONTRIBUIÇÕES. SÚMULAS 5, 7, 83 e 211 DO STJ .
+(..)
+2. Segundo a apreciação da prova e interpretação do contrato estabelecida pelas instâncias ordinárias, o contrato aleatório celebrado entre as partes tem natureza de seguro e não de previdência privada, não prevendo a restituição das contribuições vertidas para a constituição de pecúlio por invalidez ou morte e renda por velhice, eventos que estiveram garantidos no curso do contrato. Precedentes da 2ª Seção.
+3. Panorama de fato e interpretação de cláusulas contratuais insusceptíveis de revisão no âmbito do recurso especial (Súmulas 5 e 7 do STJ).
+4. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento" (EDcl no REsp nº 1.172.607/PR, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 29/5/2013).
+==
+Como se vê, o decisum proferido pelo Tribunal a quo está em dissonância com a jurisprudência deste Superior Tribunal de Justiça, que é assente no sentido de que "Consoante a jurisprudência da Segunda Seção, não são passíveis de restituição os valores pagos por ex-associado a título de pecúlio por invalidez, morte ou renda por velhice, por se tratar de contrato aleatório, em que a entidade correu o risco, possuindo a avença natureza similar à de seguro e não de previdência privada." (AgInt no AREsp 871.405/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/11/2016, DJe 24/11/2016).
+4. Diante do exposto, dou parcial provimento ao recurso especial para julgar improcedente o pedido formulado na inicial, fixando custas e honorários advocatícios sucumbenciais, arbitrados em 15% (quinze por cento) sobre o valor da causa, integralmente arcados pelos autores -, observada a eventual gratuidade de justiça.
+Publique-se. Intimem-se.
