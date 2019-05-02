@@ -1,0 +1,6 @@
+DECISÃO
+ 1. Cuida-se de agravo interposto por MAURICIO TADEI BARTHEL MANFREDI em face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão assim ementado:
+APELAÇÃO. EMBARGOS DO DEVEDOR. ALEGAÇÃO DE EXCESSO NA EXECUÇÃO. AGRAVO RETIDO. Pretensão de inversão parcial do ônus da prova. Desnecessidade. Mérito. Alegação de excesso fundada em transferência do valor de R$ 1.432.131.06, sem a devida autorização. Comprovação por parte do banco embargado de que a autorização foi dada de forma verbal. Conjunto probatório que evidencia a regularidade da operação, a afastar a alegação de excesso veiculada pela embargante. RECURSO A QUE SE NEGA PROVIMENTO.
+Nas razões do recurso especial, a parte recorrente sustenta violação dos arts. 373, § 1º, 479, 489, § 1º, incisos II, III, IV e VI, e 1.022, incisos I e II, e parágrafo único, inciso II, todos do CPC, bem como dissídio jurisprudencial.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
