@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Fls. 128/160e - Trata-se de Agravo Interno (art. 1.021, do CPC) interposto contra decisão monocrática da Excelentíssima Ministra Presidente desta Corte, mediante a qual, com fundamento no art. 21-E, V, do Regimento Interno desta Corte, o Recurso Especial não foi conhecido, porquanto intempestivo (fls. 122/123e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração.
+Passo à análise do recurso.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por maioria, pela 3ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Agravo de Instrumento, assim ementado (fls. 58/62e):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. ÓBITO DA PARTE NO CURSO DO PROCESSO DO PROCESSO DE CONHECIMENTO. PRAZO PRESCRICIONAL A PARTIR DO TRÂNSITO EM JULGADO DA SENTENÇA. HABILITAÇÃO DE HERDEIRO. PRESCRIÇÃO. OCORRÊNCIA.
+1. Agravo de instrumento interposto pelo INSS em face de decisão que afastou a alegação de ocorrência de prescrição do pedido de habilitação da herdeira ora agravada.
+2. As ações executivas ajuizadas em face da Fazenda Pública prescrevem em cinco anos contados do trânsito em julgado da sentença condenatória, momento em que se origina a pretensão executória, conforme o art. 1º do Decreto nº. 20.910/1932 e a súmula nº 150 do STF.
+3. as situações em que o falecimento da parte ocorre no curso do processo de conhecimento, sem que tenha ocorrido a suspensão do feito para habilitação de herdeiro, o prazo prescricional para a referida habilitação começa a fluir a partir do trânsito em julgado da sentença condenatória. Precedentes: (PROCESSO: 00238215119934058100, [OAB]/CE, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO, Quarta Turma, JULGAMENTO: 05/07/2016, PUBLICAÇÃO: DJE 07/07/2016 - Página 133); (PROCESSO: 08019374020174050000, AG/SE, DESEMBARGADOR FEDERAL FERNANDO BRAGA, 3ª Turma, JULGAMENTO: 30/06/2017, PUBLICAÇÃO: ) 4. Impõe-se esclarecer que, ao contrário do alegado pelo INSS, o prazo prescricional não deve ser contado entre o respectivo óbito do substituído falecido (05/08/2000) e os pedidos de habilitação dos herdeiros (maio/2008), e sim a partir do trânsito em julgado da ação de conhecimento.
+5. Em que pese o agravante não ter juntado a certidão de trânsito em julgado, verifica-se que o processo transitou em julgado em 20.11.2002, conforme consulta processual no sistema Esparta desta Corte Regional.
+6. No caso em epígrafe ocorreu a prescrição da referida pretensão executória, haja vista que entre a data do trânsito em julgado (20.11.2002) e o pedido de habilitação (maio/2008) transcorreram mais de cinco anos.
+7. Agravo de instrumento provido.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 1º do Decreto n. 20.910/1932, alegando-se, em síntese, a sua inaplicabilidade ao caso em tela, "porquanto trata-se de prescrição das verbas devidas pela Fazenda Pública e não prazo para habilitação" (fl. 76e).
+Com contrarrazões (fls. 90/99e), o recurso foi admitido (fl. 101e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual, por ausência de previsão legal, inaplicável o instituto da prescrição intercorrente a fim de limitar a habilitação dos sucessores em sede de execução, conforme julgados assim ementados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MORTE DO AUTOR. HABILITAÇÃO DOS SUCESSORES. SUSPENSÃO DO PRAZO PROCESSUAL. ARTS. 265, I E 791, II, DO CPC. PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DA UNIÃO DESPROVIDO.
+1. A prescrição da pretensão executória ocorre no mesmo prazo da prescrição da ação, ou seja, em 5 anos, nos termos do art. 1º do Decreto 20.910/32 e Súmula 150, do STF, contudo, deve-se registrar que a morte da parte suspende o curso do prazo prescricional, o qual somente recomeça a correr a partir da habilitação dos herdeiros.
+2. Na hipótese dos autos, o autor faleceu em 1999, conforme noticia a certidão de óbito acostada e a habilitação requerida em 2006, não há que se falar em prescrição da pretensão executória já que durante este período o curso do prazo prescricional encontrou-se suspenso.
+3. A jurisprudência desta Corte é uníssona ao afirmar que o óbito de uma das partes do processo implica em sua suspensão, deste modo, ausente previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição.
+4. Agravo Regimental da UNIÃO desprovido.
+(AgRg no AREsp 452.257/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 12/05/2015, DJe 21/05/2015, destaque meu).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA. EXECUÇÃO DE SENTENÇA. ÓBITO DO EXEQUENTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA.
+I - Prequestionados, implicitamente, os dispositivos tidos por violados acerca da tese relativa à prescrição, inexiste ofensa ao art. 535, II, do Código de Processo Civil.
+II - Não há violação ao art. 535, II, do Código de Processo Civil quando a matéria indicada como omissa no Recurso Especial não foi objeto do recurso ou das contrarrazões, o que demonstra a indevida inovação em sede de embargos de declaração.
+III - O óbito de uma das partes do processo implica sua suspensão, de modo que, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Precedentes.
+IV - É vedada a aplicação analógica de regra de prescrição, porquanto implica restrição de direitos
+V - Recurso Especial improvido.
+(REsp 1.481.077/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/05/2016, DJe 13/05/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÓBITO DA PARTE AUTORA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. FALTA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente.
+Estando o acórdão recorrido em sintonia com a jurisprudência do STJ, incide o óbice da Súmula 83/STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp 1485127/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/02/2015, DJe 12/02/2015).
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 122/123e, restando, por conseguinte, PREJUDICADOS os agravos internos de fls. 128/160e e 161/193e, e, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para afastar a prescrição, nos termos expostos.
+Publique-se e intimem-se.
