@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR EM PRÉVIO WRIT. INEVIDENTE CONSTRANGIMENTO ILEGAL. APLICAÇÃO DA SÚMULA 691/STF.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Em razão do indeferimento do pedido liminar formulado no HC n. 1010227-03.2019.4.01.0000, que tramita no Tribunal Regional Federal da 1ª Região, impetrou-se este writ, no qual se busca a imediata revogação da prisão preventiva de [NOME] no Processo n. 0000328-56.2019.4.01.3602, da 1ª Vara Federal da Subseção Judiciária de Rondonópolis/MT, ao argumento, em suma, de falta de fundamentação idônea a amparar a custódia.
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração de mandamus contra decisão indeferitória de providência liminar prolatada em feito da mesma natureza (Súmula 691/STF).
+No caso em apreço, não me deparo com excepcionalidade capaz de justificar a superação do referido óbice, considerando, sobretudo, os termos em que indeferido o pedido urgente no prévio writ.
+Eis o que disse o Desembargador Federal Hilton Queiroz, do Tribunal Regional Federal da 1ª Região (fls. 115/116 - grifo nosso):
+Da apreciação da audiência de custódia, que se vê às fls. 39/41, depreende-se que, ao contrário do que alega o impetrante, a segregação cautelar do paciente foi estabelecida em fundamentos consentâneos e em obediência ao inc. IX do art. 93 da CF; não havendo vício que a macule.
+A motivação é preservar a ordem pública e garantir a instrução penal, com a aplicação de suas sanções, ante a contumácia delitiva do investigado, que, até agora, já responde em Foz do Iguaçu pelos crimes de associação criminosa e contrabando, com histórico de transposição de fronteira.
+Ora, neste crime, os indícios de autoria e materialidade que circundam o paciente são concretos e evidentes. O fumus commissi delicti emerge de seus condenáveis atos. O contexto, em princípio, invoca uma ação firme da Justiça, em que a excepcionalidade da prisão provisória se legitima diante da regra maior, que é a preservação da combalida ordem pública, bem assim pela conveniência da instrução penal. E, nesse sentido, a eficácia da medida constritiva se impõe à fragilidade de quaisquer outras do art. 319 do CPP; pois, em que pese ainda não ter sido concluída a persecução penal em Foz do Iguaçu, o réu já está envolvido em outros crimes.
+Sendo assim, por não vislumbrar em sede de cognição sumária o alegado constrangimento ilegal, nego a liminar.
+À primeira vista, autoriza a custódia preventiva a conclusão de que o paciente responde pela prática de outros crimes, os quais, inclusive, envolvem a transposição de fronteira, havendo aqui a orientação de que inquéritos policiais e processos em andamento, embora não tenham o condão de exasperar a pena-base no momento da dosimetria da pena (Verbete Sumular n. 444/STJ), são elementos aptos a demonstrar, cautelarmente, eventual receio concreto de reiteração delitiva, fundamento suficiente para a decretação/manutenção da prisão antecipada (RHC n. 106.426/RS, Ministra Laurita Vaz, Sexta Turma, DJe 15/4/2019).
+Seja como for, não há decisão de mérito. Convém aguardar o trâmite regular do habeas corpus na origem, a fim de permitir que o órgão competente analise em maior profundidade os temas levantados naquela impetração.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
