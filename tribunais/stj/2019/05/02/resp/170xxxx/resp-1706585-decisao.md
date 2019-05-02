@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial manejado pela UNIÃO com fundamento na alínea "a"do permissivo constitucional contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 236):
+EMENTA: PROCESSUAL CIVIL. AMBIENTAL. AÇÃO CIVIL PÚBLICA; ILEGITIMIDADE PASSIVA. EXTINÇÃO DO FEITO. CONDENAÇÃO, DO AUTOR EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. SENTENÇA MANTIDA.
+í. Trata-se de apelação interposta nos autos de Ação Civil Pública movida pelo Ministério Público Federal contra [NOME], devidamente qualificado, objetivando a condenação do réu a reparar danos ambientais decorrente de edificação em área de preservação permanente, à margem do Rio Jaguaribe, no Município de Fortim/CE, nos termos do Auto de Infração nº 479830 (fl. 20).
+II. O julgador monocrático decidiu pela extinção do feito, após acolher a preliminar de ilegitimidade passiva ad causam, e condenou o autor em honorários advocatícios, no valor de R$500,00.
+III. Verificado o óbito do promovido (fls. 157); a Sra. [NOME] trouxe aos autos "cópia do termo de compromisso de inventariante.
+IV. A União apelou, pugnando pêlo não pagamento dos honorários, uma vez que tal condenação estaria contrariando o art. 18, da Lei 7.345/85, cuja redação a isentaria de arcar com esse ônus de sucumbência.
+V. Deve arcar com o ônus sucumbencial quem deu causa à ação, às despesas, obrigando a parte adversa a contratar advogado, mostrando-se cabível a sua condenação no pagamento de honorários advocatícios, em razão do Princípio da Causalidade.
+VI. "(..) a condenação em honorários advocatícios, pelo princípio da causalidade, deve ser suportada por quem deu .causa à instauração do processo, ou seja, o FNDE, pelo que deve ser mantida a sentença".
+(Precedente: TRF5. "AC 08001520820134058205/PB. Rel. Desembargador Federal/corivocado [NOME]. D. Julg. e 16.02.2017)
+VII. Apelação improvida.
+No especial o recorrente alega violação dos arts. 18 e 19 da Lei n. 7.374/1985. Sustenta, em síntese, ser incabível a sua condenação em honorários advocatícios em sede de Ação Civil Pública, salvo na hipótese de comprovada e inequívoca má-fé, o que não ocorreu no presente caso.
+Contrarrazões às e-STJ fls. 257/259.
+ Parecer do MPF pelo provimento do recurso (e-STJ fls. 268/272).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, tenho que assiste razão ao recorrente.
+ O acórdão recorrido foi proferido em dissonância com a orientação jurisprudencial desta Corte, firme de que, nos termos do art. 18 da Lei 7.347/85, não há condenação em honorários advocatícios na ação civil pública, salvo em caso de comprovada má-fé. Referido entendimento, inclusive, é aplicado tanto para o autor, quanto para o requerido, em obediência ao princípio da simetria. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. VERBA HONORÁRIA. SUCUMBÊNCIA. UNIÃO E SUAS AUTARQUIAS. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual não são devidos honorários advocatícios quando o Ministério Público é vencedor em ação civil pública. Tal orientação se estende quanto à possibilidade de imposição de condenação da verba sucumbencial a favor da União e suas autarquias.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no REsp 1.648.761/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 13/08/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO MINISTÉRIO PÚBLICO. IMPOSSIBILIDADE. ENTENDIMENTO QUE TAMBÉM SE APLICA A UNIÃO. ISENÇÃO DO ÔNUS DE SUCUMBÊNCIA PREVISTA NA LEI DE AÇÃO CIVIL PÚBLICA. PRECEDENTES. 1. A jurisprudência da Primeira Seção deste Superior Tribunal é firme no sentido de que, em favor da simetria, a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em ação civil pública. Assim, a impossibilidade de condenação do Ministério Público ou da União em honorários advocatícios - salvo comprovada má-fé - impede serem beneficiados quando vencedores na ação civil pública. Precedentes: AgInt no REsp 1.531.504/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21/9/2016; REsp 1.329.607/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 2/9/2014; AgRg no AREsp 21.466/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/8/2013; REsp 1.346.571/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 17/9/2013.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 996.192/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 30/08/2017).
+
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a condenação do pagamento dos honorários advocatícios.
+Publique-se. Intimem-se.
