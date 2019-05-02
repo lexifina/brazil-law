@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e OUTRA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"CIVIL. REINTEGRAÇÃO DE POSSE E RESCISÃO DE CONTRATO. PROMESSA DE COMPRA E VENDA. SALDO DEVEDOR NÃO QUITADO. INGRESSO ILEGÍTIMO NA POSSE DO IMÓVEL. SENTENÇA A QUO QUE DETERMINOU A REINTEGRAÇÃO NA POSSE, COM A RESCISÃO DO CONTRATO E DEVOLUÇÃO DE 75% DO SINAL PAGO. APELAÇÃO NA QUAL SE ALEGA A CULPA EXCLUSIVA DA AUTORA PELO INADIMPLEMENTO E PUGNA PELA DEVOLUÇÃO INTEGRAL DAS ARRAS. RECURSO ADESIVO DA AUTORA PLEITEANDO A RETENÇÃO INTEGRAL DO SINAL PAGO. PRINCÍPIO DA FORÇA OBRIGATÓRIA DOS CONTRATOS E DA BOA- FÉ CONTRATUAL. APLICAÇÃO DOS ARTS. 418 E 419 DO CÓDIGO CIVIL. COMPROVADA A CULPA EXCLUSIVA DOS RÉUS, DEVIDA É A RETENÇÃO INTEGRAL DAS ARRAS EM FAVOR DA PROMITENTE VENDEDORA.
+RECURSO DOS RÉUS A QUE SE NEGA PROVIMENTO. RECURSO DA AUTORA A QUE SE DÁ PROVIMENTO" (fl. 211 e-STJ).
+Os embargos declaratórios opostos foram desprovidos (fls. 243/246 e-STJ).
+Nas razões recursais (fls. 255/262 e-STJ), os recorrentes alegam violação dos arts. 417 e 418 do Código Civil. Aduzem, em síntese, que "o Colegiado deixou de observar os requisitos insertos art. 418 do CC/02 (art. 1.097 do CC/16), em evidente menosprezo a análise das documentos que mostram o atraso e erro na planta e registro do imóvel" (fl. 262 e-STJ).
+Sem contrarrazões (fl. 266 e-STJ).
+O recurso foi admitido às fls. 268/271 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, a deficiência na fundamentação recursal restou evidenciada, na medida em que os recorrentes, apesar de indicarem os arts. 417 e 418 do CC como malferidos, não especificam de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos. Incide, pois, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. COMPANHIA TELEFÔNICA. SUBSCRIÇÃO DE AÇÕES. DOBRA ACIONÁRIA. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE DE EXAME. OFENSA À COISA JULGADA. DISPOSITIVOS LEGAIS VIOLADOS. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA 284/STF. (..)
+(..)
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, de modo que deve a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. A deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por analogia, do disposto no verbete sumular n. 284 do STF. Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento" (AgRg no AREsp 708.667/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/6/2016, DJe 22/6/2016).
+Além disso, os recorrentes insurgem-se contra o entendimento de que tiveram culpa exclusiva no desfazimento do negócio e a consequente perda dos valores pagos a título de arras.
+Sobre o tema, o tribunal de origem, à luz da prova dos autos, entendeu pela retenção do valor integral do sinal pago, conforme se extrai da leitura do voto condutor:
+"(..)
+Depreende-se dos autos que o contrato celebrado pelas partes prevê que o saldo devedor relativo à compra do imóvel deveria ter sido quitado em 14/03/2013, e diante das afirmações da autora quanto ao descumprimento do disposto, os réus não lograram comprovar o seu adimplemento
+Pelo contrário, declaram que o não-pagamento da quantia se deu por culpa da autora, que não teria providenciado a correta documentação do bem junto aos órgãos competentes, o que acaba por reafirmar a alegação autoral quanto ao inadimplemento do contrato.
+Em que pese terem os réus alegado que o atraso no cumprimento da obrigação se deu pelo erro na documentação fornecida pela autora, tal não foi o que restou comprovado dos autos, posto que os documentos de fls. 88 demonstram que a negativa no fornecimento do crédito pela instituição financeira se deu única e exclusivamente em função da ausência de comprovação de renda dos réus.
+De mais a mais, passados mais de quatro anos da data fixada para o cumprimento da obrigação sem que se verifique o pagamento da quantia devida, não se pode cogitar que os réus não o tenham cumprido pelo mero atraso na liberação dos documentos, sendo indiscutível que a permanência dos apelantes no imóvel se afigura ilegítima e contrária ao princípio da boa-fé objetiva.
+Dito isto, forçoso reconhecer que o inadimplemento contratual se deu em razão da culpa exclusiva dos réus, que agiram com flagrante desídia em relação às obrigações pactuadas, mormente no que se refere ao pagamento do saldo devedor pela compra do imóvel objeto do contrato. Neste ponto, não há o que se falar em culpa da autora, mesmo diante do atraso na regularização documental, visto que tal não foi determinante para o não cumprimento do contrato.
+Consequentemente, no que se refere à devolução do valor pago a título de sinal, merece reparo a sentença a quo, posto que, se os réus exclusivamente deram causa à resolução do contrato, não se deve cogitar em retenção sobre 25% da quantia efetuada, mas sim sobre a sua integralidade.
+O instituto das arras ou sinal, previsto nos arts. 418 a 420 do Código Civil, comporta duas espécies de garantia da obrigação pactuada: as arras confirmatórias e as penitenciais. As primeiras são devidas em razão do não- cumprimento do contrato firmado, sendo vedado o direito de arrependimento, e as segundas possuem caráter meramente indenizatório, a serem devidas por quem exerceu o seu direito de arrependimento e optou pela não realização do contrato.
+Neste diapasão, verifica-se que os valores discutidos no presente recurso dizem respeito à primeira modalidade de garantia, vez que os réus culposamente deram causa à inexecução do contrato. Daí que cabe invocar a aplicação dos arts. 418 e 419 do Código Civil, para ver reconhecido o direito da autora em reter a integralidade do sinal efetuado, diante do inadimplemento dos réus" (fls. 214/216 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria a interpretação de cláusula contratual e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor dos enunciados das Súmulas nºs 5 e 7 deste Superior Tribunal.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
