@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME], contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o Recurso Especial, manejado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado:
+"Ação Rescisória. V. Aresto que, negando provimento a Agravo Interno, manteve Decisão Monocrática que dera provimento a recurso interposto pela Municipalidade, para julgar improcedente ação movida por servidor municipal de Limeira, objetivando o recálculo de seus vencimentos, nos termos da Lei n. 8.880/94. Ajuizamento da ação com fundamento no artigo 966, inciso V, do NCPC. Decisão que entendeu não haver o autor feito prova de prejuízo amoldável à regra do art. 22 da Lei 8.880/94. Texto legal, ademais, de interpretação controvertida. Súmula nº 343 do STF. Ação rescisória julgada improcedente" (fl. 276e).
+Sustenta a parte agravante, nas razões do Recurso Especial, o seguinte:
+"III - DA UNIFORMIDADE NO JULGAMENTO - TESE DE RECURSO REPETITIVO - OFENSA AO ARTIGO 927 DO CPC.
+O Tribunal negou provimento a ação rescisória, pois entende que a matéria ora discutida é divergente entre os Tribunais, haja vista a existência de diversos entendimentos quanto a aplicação da Lei.
+A aplicação da Lei Federal 8.880/94 é de observância obrigatória para os Estados, Municípios, sendo que o entendimento quanto a sua obrigatoriedade na aplicação é unificado quando do julgamento do recurso Especial Repetitivo nº. 1.101.726 do STJ, que versa sobre a URV. Senão vejamos:
+(..)
+Portanto, a tese lançada no julgamento da ação rescisória, no sentido de que existe ainda divergência nos Tribunais acerca do enfrentamento da questão relativa a URV, deve ser reformada por este Egrégio Superior Tribunal de Justiça, posto que já encontra-se pacificado o direito a exata conversão dos vencimentos em URV.
+Ademais, restando pacificada a questão, não há que se falar em divergência, e, portanto, sendo devida a URV, deve ser o acórdão reformado, pois afronta a legislação civil.
+Nesta senda, o atual CPC dispõe no artigo 927 a obrigatoriedade dos Juizes e Tribunais observarem o quanto restou decidido em sede de recurso especial repetitivo.
+(..)
+Portanto, a decisão do Tribunal esta a violar além da legislação da URV, o disposto no artigo 927 do CPC, pois não observou o disposto nele quanto a obrigatoriedade de proferir o julgamento da ação com base no entendimento do recurso repetitivo.
+IV- DA OFENSA AO ARTIGO 22 DA LEI 8.880/94
+O direito a conversão em URV é incontestável, conforme já determinado no artigo 22 da Lei 8.880/94, devendo o Tribunal aplicar corretamente a legislação, conforme entendimento apresentado no repetitivo.
+(..)
+Ademais, restou comprovado na petição inicial apresentada pelo Recorrente o prejuízo sofrido decorrente da incorreta conversão dos vencimentos, demonstrando que ao contrário do que restou decidido no acórdão comprovou-se o prejuízo sofrido, devendo a lei ser corretamente aplicada, sendo certo que os cálculos somente são apresentados em fase de liquidação.
+Diante do exposto, não se adequando o v. acórdão ao recurso especial repetitivo, ofendeu o artigo de lei, especialmente 927 do CPC, além do artigo 22 da lei 8880/94.
+(..)" (fls. 285/287e).
+Requer, ao final, o provimento do recurso especial.
+Com contrarrazões (fls. 291/296e).
+Negado seguimento ao Recurso Especial (fls. 297/298e), foi interposto o presente Agravo (fls. 301/305e).
+Sem contraminuta (fl. 307e).
+A irresignação não merece acolhimento.
+Em relação à tese de violação ao art. 927 do CPC/2015, observa-se que não foi debatida pelo Tribunal a quo. Portanto, inviável a apreciação, nesta Corte, ante a falta de prequestionamento, pelo Tribunal de origem, o que atrai incidência da Súmula 282 do STF "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Cumpre ressaltar que, nos termos do art. 1.025 do CPC/2015, "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Infere-se, assim, da lei de regência, que, para a adoção do denominado prequestionamento ficto - segundo o qual a oposição dos Embargos de Declaração seria suficiente ao suprimento do requisito do prequestionamento - faz-se necessário, além da invocação da questão, por ocasião dos Embargos de Declaração, opostos contra o acórdão do Tribunal de origem, que a Corte superior considere a existência de erro, omissão, contradição ou obscuridade no referido decisum, em razão da alegação de contrariedade ao art. 1.022 do CPC/2015, nas razões do Recurso Especial.
+Sobre o tema, confira-se o seguinte precedente do STJ:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+Nesse contexto, em relação ao art. 927 do CPC/2015, destaca-se que, além de o referido dispositivo legal não ter sido apreciado pelo acórdão recorrido, não foram opostos Embargos de Declaração, em 2º Grau, além de, no presente Recurso Especial, não se alegar violação ao art. 1.022 do CPC/2015, razão pela qual não restaram observados os requisitos previstos no art. 1.025 do CPC/2015, para fins de consideração do prequestionamento ficto.
+Outrossim, considerando a fundamentação do acórdão objeto do Recurso Especial, sua revisão exigiria o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Anote-se, por fim, que segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso, no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
