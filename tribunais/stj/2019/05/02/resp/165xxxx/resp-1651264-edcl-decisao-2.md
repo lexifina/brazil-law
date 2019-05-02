@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AGRÁRIA INDÚSTRIA E COMÉRCIO LTDA - EM RECUPERAÇÃO JUDICIAL, em face da decisão monocrática proferida às fls. 555/558 (e-STJ), de lavra deste signatário, que, amparada no parecer ministerial e na jurisprudência do STJ, deu parcial provimento ao reclamo de fls. 320/342 (e-STJ).
+A embargante defende, em suma, "a incompetência absoluta do Juízo da ação de busca e apreensão (este juízo) (SIC) para decidir sobre o tema da verificação e habilitação dos créditos da empresa devedora em recuperação judicial" (fl. 576, e-STJ). Requer, assim, a concessão de efeitos infringentes para que seja cassada a decisão ora embargada.
+Os aclaratórios não merecem acolhida.
+1. Não há omissão a ser sanada.
+Primeiro, cumpre observar que a matéria relativa à incompetência do juízo da ação de busca e apreensão não foi abordada pelo acórdão estadual, carecendo, nos termos da Súmula 282 do STF, do devido prequestionamento.
+Diga-se, ainda, para se evitar a oposição de novos e protelatórios embargos de declaração, que, nos termos da farta jurisprudência deste Tribunal Superior, o recurso especial é apelo extremo, cuja fundamentação é vinculada, sendo defeso, por ausência de prequestionamento, o exame de qualquer matéria, inclusive de ordem pública (AgInt nos EREsp 1472611/CE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 11/12/2018, DJe 14/12/2018).
+Segundo, ainda que ultrapassada a questão acima, apenas à guisa de obter dictum, assevere-se que "a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os créditos garantidos por cessão fiduciária não se submetem ao plano de recuperação, tampouco a medidas restritivas impostas pelo juízo da recuperação (art. 49, § 3º, da Lei 11.101/2005)" (AgInt no CC 145.379/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017).
+Por fim, diga-se que a matéria, quanto à essencialidade do bem, deve ser suscitada apenas pela interessada/embargada no grau de jurisdição adequado, qual seja: perante o juízo recuperacional por petição própria naqueles autos, não cabendo ao Superior Tribunal de Justiça o seu exame, sob pena claríssima de se suprimir instâncias de conhecimento.
+2. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
