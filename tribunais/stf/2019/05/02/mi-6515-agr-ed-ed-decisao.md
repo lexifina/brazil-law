@@ -1,0 +1,9 @@
+DESPACHO :
+    1. Petição nº 24.229/2019: trata-se de embargos de declaração opostos contra o despacho publicado em 14.04.2019. A parte embargante alega não ter sido intimada do acórdão publicado em dezembro/2018 (referente ao julgamento do agravo interno). Sustenta, ademais, que não há “previsão legal à necessidade de renovação dos argumentos expostos em potencial recurso interposto antes de iniciado o prazo” (doc. 61).
+    2. Sem razão a parte. Nos embargos de declaração opostos em 03.07.2018 (doc. 50), o embargante alegou tão-somente que não havia tido acesso ao inteiro teor do acórdão referente ao julgamento do agravo interno. Em despacho, ressaltei que deveria ser aguardada a publicação do acórdão em questão (doc. 52).
+    3. A íntegra do acórdão/AgR foi publicada no Diário de Justiça Eletrônico em 06.12.2018 (doc. 53). O ora peticionante, ao contrário do alegado, foi dele devidamente intimado, pois, a teor do art. 272 do CPC/2015, consideram-se feitas as intimações pela só publicação dos atos no órgão oficial. Diante disso, considerei ter se esvaziado o objeto daqueles embargos de declaração e, como a parte não complementou as razões nem apresentou novo recurso (com outras alegações), determinei à Secretaria que certificasse o trânsito em julgado (doc. 59).
+    4. Certificado regularmente o trânsito em julgado em 15.02.2019, nada há a decidir, tendo em vista que já foi entregue a devida prestação jurisdicional por este Tribunal. Advirto que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos ao Poder Judiciário, tomando tempo e recursos escassos desta Corte. Desse modo, a reiteração implicará a imposição de multa por litigância de má-fé, nos termos no art. 80 e seguintes do CPC/2015. À Secretaria para que devolva o processo ao arquivo.
+    Publique-se.
+    Brasília, 2 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
