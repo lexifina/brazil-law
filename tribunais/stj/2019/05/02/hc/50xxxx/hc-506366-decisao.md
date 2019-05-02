@@ -1,0 +1,13 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. AFASTAMENTO DOS MAUS ANTECEDENTES. INSTRUÇÃO DEFICIENTE. FALTA DA RESPECTIVA CERTIDÃO. INCIDÊNCIA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. INVIABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME DE FATOS E DE PROVAS. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Neste habeas corpus, impetrado em favor de [NOME] - condenado, por incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, inicialmente, em regime fechado, mais 583 dias-multa -, ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação n. 0005625-51.2014.8.26.0575, buscando-se o afastamento da circunstância judicial desfavorável (maus antecedentes) e a redução da reprimenda pelo reconhecimento do tráfico privilegiado, com a consequente alteração do regime e substituição da privativa de liberdade.
+Para tanto, alega-se, em síntese, que, decorridos mais de 5 anos desde a extinção da pena da condenação anterior (CP, art. 64, I), não é possível considerá-la como mau antecedente; e que deve ser aplicada a redutora em sua fração máxima de dois terços, em razão de o réu ser absolutamente primário, ter bons antecedentes e não haver elementos que indiquem fazer parte de organização criminosa, ou mesmo a tal atividade se dedicar (fl. 9).
+É o relatório.
+Não tem cabimento esta impetração.
+Primeiro, a instrução do feito está deficiente. Embora questione o reconhecimento da circunstância negativa relativa aos maus antecedentes, deixou a impetrante de juntar aos autos a respectiva certidão do paciente.
+Segundo, diz nossa jurisprudência que, decorrido o prazo de 5 anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não prevaleça mais para fins de reincidência, pode ser sopesada a título de maus antecedentes. Por exemplo, confiram-se estes recentes julgados: AgRg no HC n. 468.970/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/4/2019; e HC n. 494.525/SP, Ministro Felix Fischer, Quinta Turma, DJe 15/4/2019.
+Terceiro, a questão concernente à incidência da causa especial de redução de pena esbarra no reexame fático-probatório, providência que não se coaduna com a via eleita. Segundo o acórdão ora impugnado, ao analisar o caso concreto, com ocultação da droga em um terreno baldio e instalação de câmara de vigilância na frente deste terreno, percebe-se que o esquema fora montado havia algum tempo, de maneira que não se cuidava de traficante esporádico ou iniciante (fl. 33).
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
