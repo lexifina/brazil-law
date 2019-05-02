@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — AGRAVO – DESPROVIDO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de revisão de benefício previdenciário, considerada a ausência de anterior limitação ao teto da Previdência Social. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 5º, incisos XXXV e LV, e 93, inciso IX, da Constituição Federal, 14 da Emenda Constitucional nº 20/98 e 5º da Emenda Constitucional nº 41/2003. Afirma pertinente o decidido no recurso extraordinário nº 564.354/SE. Discorre sobre o tema de fundo, pleiteando o deferimento da parcela, adentrando nos contornos do quadro fático.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Da análise dos autos, verifica-se que a tese defendida pela parte autora, de fato, foi em relação à limitação do salário-de-benefício ao menor valor teto da Previdência, e não sobre o maior valor do teto, motivo pelo qual passo a sanar o equívoco apontado.
+    Observa-se nos documentos acostados, especificamente o INFBEN (ID 1623048), que o salário de benefício da parte autora, fixada em Cr$ 1.637.284,80, não sofreu limitação ao menor teto, vez que, a época da concessão de seu benefício de aposentadoria (DIB 01/12/1984), o menor teto da Previdência equivalia a R$ 1.415.490,00.
+    Desta forma, não tendo o benefício da requerente sofrido limitação ao menor teto, não há que se falar em sua revisão com aplicação dos novos tetos previstos pelas EC n.º 20/98 e n.º 41/2003.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 2 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
