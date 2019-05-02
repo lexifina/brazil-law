@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ROBERTO QUEIROZ DA SILVA contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional em desafio a acórdão que manteve julgado unipessoal, que negou provimento à apelação do segurado, confirmando a suspensão da aposentadoria por tempo de serviço. O referido acórdão recebeu a seguinte ementa (e-STJ fl. 200):
+AGRAVO LEGAL. APOSENTADORIA POR TEMPO DE SERVIÇO - ILEGALIDADE OU ABUSO DE PODER INEXISTENTES.
+I. Em sede de agravo legal, a controvérsia limita-se ao exame da ocorrência, ou não, de flagrante ilegalidade ou abuso de poder, a gerar dano irreparável ou de difícil reparação para a parte, vícios inexistentes na decisão.
+II. Razões recursais que não contrapõem tal fundamento a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando a rediscussão da matéria nele decidida.
+III. Agravo legal improvido.
+No especial obstaculizado, o recorrente alegou dissídio jurisprudencial e violação do art. 7º da Lei n. 6.309/1975 e do art. 207 do Decreto n. 89.312/1984, sustentando que o Instituto não poderia rever nem suspender o benefício, haja vista o transcurso de mais de cinco anos desde a concessão.
+Apontou, ainda, ofensa ao art. 69, §§ 1º e 2º, da Lei n. 8.212/1991, defendendo ter havido cerceamento de defesa, diante da ausência de comunicação para apresentação antes da suspensão do benefício. Menciona julgados no sentido de que eventual interrupção do benefício deveria ser precedida de prova de má-fé, fraude ou ilegalidade por parte do segurado, o que inexistiu na espécie.
+Transcorrido in albis o prazo para contrarrazões (e-STJ fl. 249), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que inexistiu demonstração do alegado dissídio jurisdicional.
+Na presente irresignação, o agravante sustenta que, a par da divergência pretoriana, devidamente demonstrada pelo cotejo dos julgados paradigma e recorrido, insurgiu-se, ainda, com base em violação de norma federal.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que foram preenchidos os requisitos de admissibilidade do agravo, motivo pelo qual passo a analisar o recurso especial (e-STJ fls. 221/245).
+No que toca à alegação de contrariedade ao art. 7º da Lei n. 6.309/1975 e ao art. 207 do Decreto n. 89.312/1984, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF.
+Em situações tais como esta, "caberia à parte, nas razões do seu especial, alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito" (AgRg no AREsp 650.702/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe 09/08/2016).
+Quanto ao mais, "é firme o entendimento desta Corte de que a suspensão ou cancelamento de benefício previdenciário concedido mediante fraude pressupõe, necessariamente, prévio e regular procedimento administrativo, no qual seja assegurado ao beneficiário o direito à defesa, ao contraditório e ao devido processo legal" (AgRg no REsp 1373645/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 12/05/2015, DJe 21/05/2015).
+No entanto, no caso concreto, não há como modificar a conclusão adotada pela Corte de origem sem esbarrar no óbice da Súmula 7 do STJ, haja vista estar amparada na análise do conjunto fático-probatório, in verbis (e-STJ fls. 198/199):
+É de se reconhecer que o Instituto, antes de proceder ao cancelamento da prestação em questão, obedeceu ao rito descrito no citado art.
+69 da Lei nº 8.212/91, disponibilizando ao apelado prazo para oferecer defesa.
+Revisando a documentação apresentada pelo autor por ocasião do pedido administrativo da aposentadoria "por tempo de serviço feito em 14.10.1983, o INSS entendeu necessário o comparecimento do segurado para a reapresentação dos documentos, tendo em vista a suspeita de fraude na concessão do beneficio, pois não comprovadas as atividades exercidas na Sociedade Anônima Construtora [NOME], de 06.06.1952 a 30.09.1958, e na Mabelim-Máquinas para Bebidas e Alimentos Ltda, de 18.02.1983 a 30.06.1983.
+O autor compareceu ao Posto de Benefícios de Santo André/SP, ocasião em que declarou que o seu primeiro emprego com anotação em CTPS foi no Frigorífico Anglo, no ano de 1958, e afirmou, ainda, desconhecer a empresa Mabelim e nunca ter tido com ela vínculo de trabalho (fls. 80/81).
+Assim, ausente qualquer vício formal ou material ou qualquer ilegalidade no processo administrativo, bem como confirmadas as irregularidades na concessão do beneficio, de rigor a suspensão da aposentadoria por tempo de serviço.
+Pelo exposto, NEGO PROVIMENTO à apelação.
+A propósito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. SUSPENSÃO DE BENEFÍCIO. PROCEDIMENTO ADMINISTRATIVO. CONFORMIDADE COM O ART. 69 DA LEI 8.212/91. IMPOSSIBILIDADE DE REAPRECIAÇÃO. ENUNCIADO SUMULAR Nº 7/STJ. DIVERGÊNCIA SUPERADA.
+1. Das razões expendidas no acórdão impugnado, que se assentou em análise fático-probatória, verifica-se que a procedência do pedido referente à consideração de ocorrência de prévio procedimento administrativo, como condição de suspensão do benefício previdenciário, estaria vinculada ao exame das provas constantes dos autos. Incidente, pois, o óbice do verbete sumular nº 7/STJ.
+2. Agravo conhecido, porém improvido.
+(AgRg no REsp 617.932/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 04/08/2005, DJ 05/09/2005, p. 461).
+Por fim, não haverá majoração de honorários recursais, por tratar-se de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se e intimem-se.
