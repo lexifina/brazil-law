@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA SEGURADORA S/A em face de acórdão assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO - SFH. LEGITIMIDADE. PRESCRIÇÃO. QUITAÇÃO. APOSENTADORIA POR INVALIDEZ.
+1. Nas ações judiciais que se discute o pagamento de indenização referente a seguro de imóvel firmado no âmbito do Sistema Financeiro da Habitação - SFH, estão legitimados para figurar no polo passivo da ação tanto o agente financeiro do contrato como a seguradora.
+2. A Medida Provisória n. 478, de 29 de dezembro de 2009 teve seu prazo de vigência encerrado, sem conversão em lei, na data de 1º de junho de 2010, nos termos do Ato Declaratório n. 18 do Presidente da Mesa do Congresso Nacional, razão pela qual em nada se altera a legitimidade das partes no presente caso. - 3. Improcede o agravo retido, pois, como bem afirmou o Juiz de Primeiro" Grau, o sinistro ocorreu em 2002, enquanto a substituição da seguradora somente ocorreu no ano de 2006:
+4. Não se aplica ao caso a prescrição anual do artigo 206, § 1º, inciso II, alínea "b", do CC/2002. Os contratos firmados no âmbito do Sistema" Financeiro da Habitação - SFH, perante um dos seus agentes financeiros, torna obrigatória a contratação de seguro. Há, assim, nesta espécie de contrato, duas relações jurídicas obrigacionais; a) uma relativa" ao contrato de mútuo habitacional, firmado entre o agente financeiro e. o mutuário e b) a outra pertinente ao contrato de seguro, constando em seus pólos um agente financeiro e uma companhia de seguradora.
+5. O objetivo do respectivo contrato de seguro, na espécie, é a garantia do crédito por parte do agente financeiro em relação ao contrato de mútuo firmado, ou seja, é o agente financeiro o beneficiário do seguro e não o mutuário. Como se discute, no caso, a relação do contrato firmado entre o mutuário e a CEF, o prazo prescricional aplicável o prazo geral de 10 (dez) anos previsto no artigo205 do CC/2002.
+A parte recorrente sustenta que a pretensão do autor foi fulminada pela prescrição ânua.
+Acerca das datas em que houve o conhecimento inequívoco do sinistro e a comunicação à seguradora - premissas fáticas incontestadas - assim dispôs a sentença, reiterada pelo acórdão recorrido (fls. 306/307 e-STJ):
+
+Da análise dos elementos trazidos aos autos, verifico que o autor foi comunicado acerca da concessão do beneficio previdenciário de aposentadoria por invalidez através de carta de concessão expedida em 25/08/2002, e postada em 04/09/2002 (fls. 32-32/v). Esse mesmo documento orientou o segurado a comparecer diretamente a uma agência bancária na data de 12/09/2002, portanto, data em que se supõe que o autor já tivesse recebido dita correspondência e, logo, estivesse ciente de sua situação de invalidez permanente (fato gerador).
+Já à folha 35 dos autos há documento comprobatório de que o demandante requereu a indenização securitária perante a Caixa Econômica Federal em 14 de outubro de 2003.
+Com efeito, o lapso decorrido entre a ciência inequívoca e o requerimento à seguradora superou o lapso de um ano. Assim, conforme a jurisprudência do STJ, correta a negativa de cobertura operada pela seguradora. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO. SFH. INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. SUSPENSÃO DO PRAZO. NEGATIVA DA COBERTURA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É ânuo o prazo prescricional da pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional obrigatório, cujo termo inicial é a data da ciência inequívoca, mas ficará suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1551482/SP, 3ª Turma, Ministro MARCO AURÉLIO BELLIZZE, DJe 27/10/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. SFH. SEGURO HABITACIONAL. PRETENSÃO DE COBERTURA SECURITÁRIA DECORRENTE DE INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA. INCIDÊNCIA. ART. 178, § 6º, DO CÓDIGO CIVIL DE 2002. 1. "Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do Código Civil de 1916 às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação" (REsp 871.983/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 25/4/2012, DJe 21/5/2012).
+2. No caso, como a aposentadoria por invalidez foi concedida em 2007 e a ação foi ajuizada somente em 2011, a pretensão securitária está fulminada pela prescrição.
+3. Agravo regimental provido. Extinção do processo com resolução de mérito.
+(AgRg no AREsp 634538/SP, 4ª Turma, Ministro LUIS FELIPE SALOMÃO, DJe 02/02/2017).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO
+RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. MUTUÁRIO. INVALIDEZ PERMANENTE. SEGURO. PRESCRIÇÃO ANUAL. TERMO INICIAL. CIÊNCIA INEQUÍVOCA.
+1. Na hipótese de contrato de mútuo habitacional firmado no âmbito do Sistema Financeiro Habitacional (SFH), é ânuo o prazo prescricional da pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional obrigatório. Precedentes.
+2. O termo inicial do prazo prescricional ânuo, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral (Súmula nº 278/STJ), permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização (Súmula nº 229/STJ).
+Precedentes.
+3. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1507380/RS, 3ª Turma, Ministro RICARDO VILLAS BÔAS CUEVA, DJe 18/09/2015).
+Em face do exposto, dou provimento ao recurso especial, para julgar improcedente o pedido, em face da prescrição. Arcará a parte autora com as despesas processuais e com honorários advocatícios dos réus, arbitrados em R$ 2.000,00 (dois mil reais), ônus suspensos no caso de beneficiário da Justiça gratuita.
+Intimem-se.
