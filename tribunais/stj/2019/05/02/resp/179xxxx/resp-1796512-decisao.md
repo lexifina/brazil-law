@@ -1,0 +1,107 @@
+EMENTA
+RECURSO ESPECIAL. SEGURO HABITACIONAL. PRESCRIÇÃO ÂNUA. EXTINÇÃO DO FINANCIAMENTO. TERMO INICIAL.
+1. É ânuo o prazo prescricional das ações do segurado/mutuário contra a seguradora, nas quais se busca a cobertura de sinistro relacionado a contrato de mútuo firmado no âmbito do SFH. Precedentes.
+2. "À luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, conclui-se que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto)" (REsp 1717112/RN, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 25/09/2018, DJe 11/10/2018).
+3. Esta Corte Superior possui entendimento de que os danos decorrentes de vício de construção se protraem no tempo, de forma que a pretensão do beneficiário do seguro considera-se irrompida no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar.
+4. Recurso especial provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA HABITACIONAL. VÍCIOS CONSTRUTIVOS. CONTRATOS DE FINANCIAMENTO HABITACIONAL QUITADOS. PRESCRIÇÃO ÂNUA. TERMO INICIAL. DATA DA QUITAÇÃO. AÇÃO AJUIZADA APÓS TRANSCURSO DO PRAZO. PRESCRIÇÃO. CONFIGURADA. PACTO ADJACENTE QUE SE ENCERRA COM O PRINCIPAL. EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO. SENTENÇA REFORMADA DE OFÍCIO. APELO PREJUDICADO.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 170, I, 177 e 178 do Código Civil de 1916 (artigos 199 e 206 do CC de 2002).
+Sustenta não estar prescrito seu direito de cobertura securitária de vícios construtivos, visto que a seguradora ré não comprovou nos autos a data de cientificação do termo de negativa de cobertura; que os danos físicos são contínuos e permanentes de forma a não permitir fixar uma data de início do prazo prescricional.
+Defende, assim, que o termo inicial para contagem do prazo prescricional não coincide com a data da ocorrência do dano nem mesmo com a data de encerramento do contrato de financiamento, mas sim com a da ciência inequívoca da recusa da seguradora em indenizar.
+Alega, por fim, que o prazo prescricional para pleitear a cobertura de seguro habitacional por vícios de construção é de 20 (vinte) anos.
+Contrarrazões ao recurso especial às fls. 2297-2305.
+Crivo positivo de admissibilidade na origem (fls. 2317-2318).
+É o relatório.
+DECIDO.
+3. A Segunda Seção desta Corte decidiu que é de um ano o prazo prescricional das ações do segurado/mutuário contra a seguradora, nas quais se busca a cobertura de sinistro relacionado a contrato de mútuo firmado no âmbito do SFH. Confira:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - SEGURO HABITACIONAL - PRAZO PRESCRICIONAL ÂNUO - PRECEDENTES DO STJ. INCONFORMISMO DA SEGURADA.
+1. Acórdãos oriundos da mesma turma que apreciou o julgado embargado não são aptos a demonstrarem o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+2. Aplica-se às ações ajuizadas por segurado/beneficiário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação - SFH, o prazo prescricional anual, nos termos do art. 178, § 6º, II, do Código Civil de 1916.
+3. Embargos de divergência parcialmente conhecidos e, nessa parte, desprovidos.
+(EREsp 1272518/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015)
+3. Nota-se, ainda, que esta Corte Superior possui entendimento de que os danos decorrentes de vício de construção se protraem no tempo, de forma que a pretensão do beneficiário do seguro considera-se irrompida no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar.
+Nesse sentido:
+_____________
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. PRESCRIÇÃO. PRAZO E TERMO INICIAL. AGRAVO NÃO PROVIDO.
+1. Aplica-se o prazo prescricional anual às ações ajuizadas por segurado/mutuário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação.
+2. Os danos decorrentes de vício da construção se protraem no tempo e, por isso, não permitem a fixação de um marco temporal certo, a partir do qual se possa contar, com segurança, o termo inicial do prazo prescricional para a ação indenizatória correspondente a ser intentada contra a seguradora. Dessa forma, considera-se irrompida a pretensão do beneficiário do seguro apenas no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1496990/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/10/2018, DJe 30/10/2018)(g.n.)
+_____________
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO SECURITÁRIA. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO ÂNUA. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. NÃO OCORRÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os danos decorrentes de vício na construção se prolongam no tempo e não possibilitam a fixação de um marco temporal certo, a partir do qual se possa contar o termo inicial do prazo prescricional para a ação indenizatória a ser intentada contra a empresa de seguro.
+3. O termo inicial do prazo prescricional para o recebimento de indenização securitária devida em virtude de vícios na estrutura de imóvel adquirido por intermédio de contrato vinculado ao Sistema Financeiro de Habitação é o momento em que o segurado comunica o fato à seguradora e esta se recusa a indenizar.
+4. Agravo interno não provido.
+(AgInt no REsp 1724148/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/10/2018, DJe 04/10/2018)(g.n.)
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. DANOS CONTÍNUOS E PERMANENTES. PRESCRIÇÃO AFASTADA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Na linha dos julgados desta Corte, os danos decorrentes de vício de construção se protraem no tempo e, por isso, não permitem a fixação de um marco temporal certo, a partir do qual se possa contar, com segurança, o termo inicial do prazo prescricional para a ação indenizatória correspondente a ser intentada contra a seguradora. Dessa forma, considera-se irrompida a pretensão do beneficiário do seguro apenas no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar.
+2. Hipótese em que não se operou a prescrição, porque a ação de indenização fora ajuizada poucos meses após a comunicação coletiva do sinistro, ainda que desconhecida a data da resposta da seguradora que recusou a indenização pleiteada.
+3. Agravo interno desprovido.
+(AgInt no AREsp 88.679/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 05/06/2018, DJe 13/06/2018)(g.n.)
+_____________
+4. Importante observar, ainda, que esta Corte se manifestou no sentido de que "À luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, conclui-se que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto)" (REsp 1717112/RN, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/09/2018, DJe 11/10/2018).
+A propósito, seguem trechos do voto vista do Min. Paulo de Tarso Sanseverino que seguiu o voto vencedor da relatora no referido julgado:
+" ..
+À luz desses julgados, o entendimento pacífico desta Corte, portanto, era no sentido de que a cobertura securitária deve abranger os sinistros ocorridos durante a sua vigência, no caso de danos progressivos.
+Recentemente, porém, esta TURMA encampou tese contrária, a partir de julgado de minha relatoria, específico para a hipótese de vícios construtivos.
+Confira-se:
+RECURSO ESPECIAL. SEGURO HABITACIONAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COMPETÊNCIA. ATRAÇÃO DO ENUNCIADO 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. VÍCIOS CONSTRUTIVOS. DEMANDA AJUIZADA VÁRIOS ANOS APÓS A EXTINÇÃO DO FINANCIAMENTO. CARÊNCIA DE AÇÃO POR AUSÊNCIA DE INTERESSE DE AGIR.
+1. Controvérsia em torno do interesse de agir do adquirente de imóvel, mediante financiamento habitacional, de postular indenização securitária por vícios construtivos após a liquidação do contrato.
+2. A vigência do seguro habitacional está marcadamente vinculada ao financiamento por ter a precípua função de resguardar os recursos públicos direcionados à aquisição do imóvel, realimentando suas fontes e possibilitando que novos financiamento sejam contratados, em um evidente círculo virtuoso.
+3. Liquidada a dívida cessa o pagamento dos prêmios, encerrando a possibilidade de se exigir o cumprimento da obrigação da seguradora, por ausência do interesse de agir.
+4. RECURSO ESPECIAL DESPROVIDO. (REsp 1.540.258/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. SFH. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/73. OMISSÃO INEXISTENTE. COBERTURA SECURITÁRIA. DEMANDA AJUIZADA VÁRIOS ANOS APÓS A EXTINÇÃO DO CONTRATO DE FINANCIAMENTO. CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO RESTRITIVA. VALIDADE. JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não há ofensa ao art. 535 do CPC/73 quando o Tribunal de origem enfrenta todas as questões postas, não havendo no acórdão recorrido omissão, contradição ou obscuridade.
+3. Liquidado o contrato de financiamento habitacional, não há mais o pagamento de prêmio de seguro, e, por consequência, não há que se falar em cobertura securitária. Colhe-se, assim, a ausência do interesse de agir.
+4. Não há nenhum reparo a ser feito ao acórdão recorrido, tendo em conta que o objeto de cobertura da apólice está expressamente predeterminado, o que é legalmente permitido, nos termos do art. 757 do CC/02.
+5. Nos contratos de seguro por adesão, os riscos predeterminados indicados no art. 757, parte final, devem ser interpretados de acordo com os arts. 421, 422, 424, 759 e 799, todos do CC/02 e 1º, III, da Constituição Federal (Enunciado nº 370 da IV Jornada de Direito Civil do CJF).
+6. Recurso especial desprovido. (REsp 1.558.679/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+Apesar desses recentes julgados, o caso dos autos instiga uma reflexão mais aprofundada acerca da controvérsia sub examine, especialmente por se tratar de seguro habitacional de remarcada função social, impondo-se adotar um vetor interpretativo favorável ao consumidor/mutuário, visando à preservação do direito constitucional à moradia.
+Sob esse prisma, reconsidero o posicionamento por mim adotado nos dois julgados acima transcritos para retomar o entendimento que já havia sido firmado nesta Corte Superior no sentido da necessidade de cobertura dos vícios construtivos progressivos reclamados após o período de vigência da apólice.
+Deveras, em função do princípio da actio nata, a deflagração do prazo prescricional pressupõe que o titular da pretensão tenha ciência da lesão a direito seu, para que possa exercer o direito de ação.
+Nesse sentido:
+ ..
+Nos caso dos vícios construtivos, a ciência da extensão dos danos e de suas consequências (se o vício é superficial ou estrutural, se vai evoluir para o comprometimento da habitabilidade do imóvel ou não) demanda conhecimentos técnicos da área de engenharia civil.
+A ciência inequívoca da extensão dos danos, portanto, depende de avaliação por profissional especializado, o que nem sempre é alcançável pelas às famílias de baixa renda.
+ ..
+A ressalva dos casos notórios na hipótese de vícios construtivos fica por conta dos casos de desmoronamento ou interdição do imóvel na vigência da apólice, situações em que o próprio fato já seria suficiente para que o mutuário tivesse ciência inequívoca da extensão do vício, deflagrando-se a partir daí o prazo prescricional.
+De outra parte, constata-se que o Conselho Curador do FCVS (Fundo de Compensação de Variações Salariais) assegurou ressarcimento às seguradoras das indenizações pagas em virtude de "ações que envolvam contratos de financiamento habitacional, ou outras operações, inicialmente averbados na apólice do extinto SH/SFH (ramo 66) e cuja fundamentação da ação seja vício de construção" (item 1, alínea c, da Res. CCFCVS nº 391/2015, DOU 01/04/2015), sendo justamente essa a hipótese dos autos.
+Por fim, observe-se que a mudança de entendimento desta TURMA não afronta a estabilidade da jurisprudência, preconizada pelo art. 926 do CPC/2015. Primeiro, porque está-se retornando, num curto espaço de tempo, ao entendimento que já havia se pacificado nesta Corte. Segundo, porque o dever de manter a estabilidade da jurisprudência foi consignado no art. 926 ao lado do dever de coerência, sendo que, no caso do presente voto, propõe-se justamente estabelecer coerência com o entendimento firmado por esta Corte para outra modalidade de dano progressivo.
+Destarte, o recurso especial merece ser provido, nos termos do voto da relatora.
+ .. " (g.n.)
+Também segue transcrito trecho do voto vencedor da relatora do referido julgado:
+" ..
+De fato, por qualquer ângulo que se analise a questão, conclui-se, à luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a conclusão do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua extinção (vício oculto).
+Nesse contexto, assim como a entrega da obra não extingue a obrigação do construtor pela solidez e segurança da edificação, a conclusão do contrato de seguro, ao contrário do que decidiu o TJ/RN, não afasta a responsabilidade da seguradora quanto ao risco coberto que nasceu durante a sua vigência.
+Se assim não o fosse, aliás, teria menor proteção o segurado que antecipasse a quitação do financiamento, comparado àquele que o quitasse no tempo inicialmente acordado.
+É dizer, a tese de que a extinção simultânea dos contratos de mútuo e de seguro, por si só, afasta a responsabilidade da seguradora por danos físicos no imóvel, ocorridos enquanto vigente a avença, a par de ofender a justa expectativa dos segurados e o interesse público, implica tratamento desigual e desarrazoado aos contratantes.
+Ademais, especificamente com relação ao conhecimento do fato gerador da indenização, consignou o TJ/RN que, "no caso em tela, é inviável averiguar-se de forma precisa a data em que os mutuários tiveram conhecimento dos problemas estruturais, tendo em vista que o processo de deterioração dos imóveis iniciou-se de forma imperceptível, tendo evolução lenta e progressiva" (fl. 1.458, e-STJ). E, diante de tais circunstâncias, decidiu, acertadamente, rejeitar a alegada prescrição.
+Nesse mesmo sentido, a jurisprudência do STJ orienta que "os danos decorrentes de vício da construção se protraem no tempo e, por isso, não permitem a fixação de um marco temporal certo a partir do qual se possa contar, com segurança, o termo inicial do prazo prescricional para a ação indenizatória correspondente a ser intentada contra a seguradora. Dessa forma, considera-se irrompida a pretensão do beneficiário do seguro apenas no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar" (AgRg no AREsp 454.736/SP, 3ª Turma, julgado em 19/08/2014, DJe de 29/08/2014; AgInt no REsp 1.497.791/SP, 4ª Turma, julgado em 17/11/2016, DJe de 07/12/2016; AgInt no AREsp 1.125.578/PR, 3ª Turma, julgado em 13/03/2018, DJe de 21/03/2018).
+Cabe ressaltar, noutra senda, que não se está a impor uma obrigação eterna à seguradora. Em primeiro lugar, porque a conclusão do contrato de seguro libera a seguradora dos vícios que adiante venham a ocorrer; em segundo lugar, porque, quanto aos vícios concomitantes à vigência do contrato, uma vez comprovada a data em que os segurados deles tomaram conhecimento, passa a correr o prazo prescricional ânuo para o exercício da pretensão indenizatória correspondente.
+Por todo o exposto, no particular, constatado pelo TJ/RN que "os sinistros nos imóveis se deram no período de vigência dos financiamentos" e que "é inviável averiguar-se de forma precisa a data em que os mutuários tiveram conhecimento dos problemas estruturais, tendo em vista que o processo de deterioração dos imóveis iniciou-se de forma imperceptível, tendo evolução lenta e progressiva", hão de ser os recorrentes devidamente indenizados pelos prejuízos sofridos, nos moldes estabelecidos na apólice.
+ .. " (g.n.)
+No mesmo sentido, julgado recente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. RESPONSABILIDADE DA SEGURADORA. VÍCIOS DE CONSTRUÇÃO ([NOME]). AMEAÇA DE DESMORONAMENTO. CONHECIMENTO APÓS A EXTINÇÃO DO CONTRATO. BOA-FÉ OBJETIVA PÓS-CONTRATUAL. PRECEDENTES DO STJ. INTEGRATIVO ACOLHIDO. EFEITOS INFRINGENTES.
+1. Aplicabilidade do NCPC ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta egrégia Corte Superior já proclamou que os embargos de declaração constituem a via adequada para sanar omissões, contradições, obscuridades ou erros materiais do decisório embargado, admitida a atribuição de efeitos infringentes apenas quando esses vícios sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado (EDcl no AgRg no EREsp nº 747.702/PR, Rel. Ministro MASSAMI UYEDA, Corte Especial , DJe de 20/9/2012). É o caso.
+3. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no REsp 1558679/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe 06/12/2018)
+_____________
+No presente caso, a Corte local concluiu pela ocorrência de prescrição ânua em relação aos autores com a seguinte fundamentação (fls. 2991-2993):
+Trata-se de pretensão de indenização securitária referente a vícios e danos de construção, no âmbito de programa habitacional, julgada extinta, sem resolução do mérito, nos termos do art. 485, VI, CPC, ante o reconhecimento da ilegitimidade passiva.
+Contudo, o feito deve ser julgado extinto com resolução do mérito, conforme art. 487, II, CPC, vez que é flagrante a ocorrência da prescrição.
+A jurisprudência desta Corte, alinhada ao entendimento do STJ, passou a entender que, nos termos do art. 206, § 1º, II, "b", CC, a pretensão do segurado contra o segurador, em caso de sinistro relacionado ao SFH, prescreve em 01 ano a partir da quitação do contrato de financiamento habitacional, vez que o contrato de seguro é adjacente a este. Confira-se:
+(..)
+Desse modo, ante o transcurso do prazo ânuo desde a liquidação dos contratos, até o ajuizamento da ação, não há como afastar a prescrição, devendo o feito ser extinto com resolução do mérito.
+A alegação dos apelantes de que sequer teria iniciado a contagem do prazo prescricional, tendo em vista a ausência de envio de resposta negativa por parte da seguradora, não deve prosperar, vez que o termo inicial da contagem se dá logo após a quitação do mutuo. Veja-se:
+(..)
+Registre-se que o aviso de sinistro foi realizado pelos autores somente em 08/10/2012 (mov.1.11), ou seja, quando já findado o prazo prescricional, de modo que a Súmula 229, do STJ não é aplicável.
+Tendo em vista o reconhecimento de ofício da prescrição, resta prejudicado o apelo interposto pelos autores, devendo o feito ser extinto com julgamento do mérito, art. 487, II do CPC, mantida a sucumbência fixada em primeira instância. (fls. 2991-2993 e-STJ)
+Nesse contexto, verifica-se que o entendimento da Corte local quanto ao termo inicial da prescrição dos seis autores está em dissonância com a atual jurisprudência do STJ, merecendo reparo o acórdão recorrido.
+4. Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos à Corte local para que a prescrição seja analisada em conformidade com a atual jurisprudência do STJ.
+Publique-se. Intimem-se.
