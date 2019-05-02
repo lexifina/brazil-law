@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Estado do Maranhão contra decisão do Tribunal de Justiça respectivo que não admitiu o recurso especial sob os seguintes fundamentos (e-STJ, fls. 285-289):
+Compulsados os presentes autos, observo preenchidos os requisitos objetivos de admissibilidade recursal. Quanto à alegação de violação aos supracitados artigos, o Recurso não tem como prosperar, pois não há como ser atendida a pretensão do Recorrente sem que haja rediscussão de fatos e reexame de provas, incidindo, nesse particular, o óbice do enunciado da Súmula 7 do STJ.
+O agravante alega que o aresto combatido afastou a prescrição do fundo de direito, tendo em vista o entendimento de que, no caso em comento, aplica-se a prescrição de trato sucessivo.
+Argumenta, em síntese, que a questão sob análise não é termo de ato inválido de preterição, sendo necessário apenas dirimir a questão de direito.
+Por fim, indica que "não há questão fática ou probatória, mas questão estritamente jurídica, devidamente prequestionada em diversas oportunidades nos autos e no acórdão recorrido" (e-STJ, fl. 298).
+Contraminuta apresentadas às e-STJ, fls. 301-307.
+É o relatório.
+Registro, inicialmente, que o acórdão proferido na origem foi publicado na vigência do CPC/2015, motivo pelo qual os requisitos de admissibilidade do apelo nobre devem seguir a sistemática processual correspondente, nos termos do Enunciado Administrativo n. 3/STJ, com o seguinte teor:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Das demais razões do agravo interposto, verifico que o insurgente não impugnou especificamente todos os fundamentos da decisão questionada. O especial não foi conhecido com fulcro na Súmula 7/STJ.
+A impugnação específica não se limita à mera afirmação de que o tema em exame não enseja revisão de provas, devendo ser indicados de forma objetiva a tese a ser analisada e o dispositivo legal a ela vinculado, o que não ocorreu na hipótese.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante infirmar especificamente os fundamentos adotados na origem para negar seguimento ao reclamo, sendo insuficiente apresentar alegações genéricas de inaplicabilidade do óbice invocado.
+Incide, na espécie, a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Desse modo, forçosa é a aplicação do disposto no art. 932, III, do CPC (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão combatida, nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifo acrescido)
+Ademais, consoante o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou nenhuma das razões da decisão agravada, pois não refutou, de forma fundamentada, a aplicação das Súmulas n. 284 do STF e 83 do STJ, ao caso. Incidência da Súmula n. 182 do STJ.
+3. Na hipótese em que se pretende impugnar a incidência da Súmula n. 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 885.406/MS, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/3/2018, DJe 3/4/2018)
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85. § 11, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. No caso, o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/2015. Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deve ser mantida a majoração dos honorários advocatícios, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição do Recurso Especial, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.144.218/PI, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 1º/3/2018, DJe 8/3/2018)
+Em idêntica direção, ainda, os seguintes precedentes:
+AgInt no AREsp 880.709/PR, Segunda Turma, Rel. Ministro Mauro Campbell Marques, DJe 17/6/2016; AgRg no AREsp 575.696/MG, Terceira Turma, Rel. Ministro Paulo de Tarso Sanseverino, DJe 13/5/2016; AgRg no AREsp 825.588/RJ, Quarta Turma, Rel. Ministro Luis Felipe Salomão, DJe 12/4/2016; AgRg no REsp 1.575.325/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 1º/6/2016; e AgRg nos EDcl no AREsp 743.800/SC, Sexta Turma, Rel. Ministra Maria Thereza de Assis Moura, DJe 13/6/2016.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
