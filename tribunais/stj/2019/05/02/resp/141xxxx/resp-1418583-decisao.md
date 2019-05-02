@@ -1,0 +1,53 @@
+EMENTA
+RECURSO ESPECIAL. USUCAPIÃO. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. MATÉRIA CONSTITUCIONAL ADUZIDA. INVIABILIDADE NA VIA ESPECIAL. TERRENO DE MARINHA. ALEGADO AFORAMENTO. SÚMULA 7 DO STJ. FALTA DE DEMONSTRAÇÃO ANALÍTICA DO DISSÍDIO JURISPRUDENCIAL.
+1. Embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Inviável a apreciação de matéria constitucional na via especial para que se evite supressão de competência do egrégio STF.
+3. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+5. Recurso especial conhecido em parte e não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+CONSTITUCIONAL E CIVIL. USUCAPIÃO DE DOMÍNIO ÚTIL DE TERRENO DA UNIÃO (TERRENO DE MARINHA). REGIME DE OCUPAÇÃO. NECESSIDADE DE PRÉVIO AFORAMENTO. PROVA QUE NÃO PODE SER PRESUMIDA. INCIDÊNCIA DA SÚMULA 17 DESTE E. TRIBUNAL. IMPROCEDÊNCIA DA APELAÇÃO.
+1. A jurisprudência majoritária de nossos Pretórios e a remansosa desta e. Corte tem admitido usucapião de domínio útil de imóvel da União, impondo como condição prévia que o mesmo esteja sob regime de enfiteuse. Inteligência do Enunciado nº. 17, da Súmula deste Tribunal.
+2. Estando o imóvel sob o regime de ocupação, não é possível a aquisição de domínio útil por usucapião, em virtude do caráter precário que rege o instituto, além do que o anterior aforamento é pressuposto indispensável para tal modalidade aquisitiva.
+3. Outrossim, a comprovação do aforamento deve ser efetiva, ou seja, realizada concretamente pela parte a quem aproveita, não se podendo, na hipótese, admiti-la na forma presumida ([OAB]/CE, DESEMBARGADOR FEDERAL FRANCISCO BARROS DIAS)
+4. Apelação do particular conhecida, mas improvida.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 535, I e II, e 941 do CPC/1973, 1.240 do Código Civil, 93, IX, e 183 da CF.
+Alega dissídio jurisprudencial, arguindo "admissível o usucapião quando o imóvel já era foreiro e a constituição da enfiteuse em favor da usucapiente se faz contra particular e não contra a União ou contra pessoa jurídica de direito público".
+Sustenta negativa de prestação jurisdicional por omissão e contradição, uma vez que não teria sido observada a documentação acostada, os fatos narrados e as razões pelas quais a Corte local manteve a decisão de primeiro grau. Afirma omissão quanto aos requisitos necessários da usucapião especial urbana. Assevera a falta de fundamentação, visto que apenas houve a cópia da decisão de primeiro grau.
+Defende que a demanda não visa usucapir terreno de marinha, mas de um particular. Aponta documentação que demonstraria que o objeto da usucapião é de uma unidade residencial, devidamente desmembrada pelo Ministério da Fazenda/Serviço do Patrimônio da União, e que estariam observados os requisitos da usucapião, provada a posse longeva, pacífica e ininterrupta por mais de vinte e cinco anos no imóvel.
+Contrarrazões ao recurso especial às fls. 681-690 e 691-711.
+Crivo positivo de admissibilidade na origem (fl. 713).
+Parecer do Ministério Público Federal às fls. 721-725.
+É o relatório. Decido.
+2. De início, observa-se que não há ofensa ao art. 535, I e II, do CPC/1973, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma fundamentada. Além disso, basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+Nota-se que não é omisso o acórdão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+Observa-se, ainda, que a contradição que permite o manejo dos aclaratórios é aquela verificada no corpo da própria decisão, e não a existente entre a pretensão da parte e o resultado colhido no julgamento.
+Salienta-se que a Corte local adotou não apenas a fundamentação da sentença, como também teceu fundamentação própria para negar provimento à apelação, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, tratando de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide sobre a usucapião, apenas não foi ao encontro da pretensão da parte recorrente.
+Com efeito, a Corte local apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional, de forma que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+3. Em relação à ofensa aos arts. 93, IX, e 183 da CF, ressalta-se que, embora seja dever de todo magistrado velar a Constituição Federal, para que se evite supressão de competência do egrégio STF, não se admite apreciação, em sede de recurso especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+Nesse sentido: EDcl no AgRg no REsp 886.061/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/08/2009, DJe 27/08/2009; AgRg no REsp 1474891/MS, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/12/2014, DJe 12/02/2015.
+4. No que tange à violação aos arts. 941 do CPC/1973 e 1.240 do Código Civil e ao dissídio jurisprudencial, o inconformismo também não prospera.
+Na espécie, a Corte local concluiu pela manutenção da improcedência da demanda, uma vez que o imóvel objeto da usucapião está situado em terreno de marinha e não foi comprovado o prévio aforamento. Segue trecho da fundamentação do acórdão recorrido:
+"Não prospera o apelo. Nos termos da jurisprudência, quer a mais antiga, quer a atual desta e. Corte, para que se possa falar de usucapião do domínio útil de imóvel da União, impõe-se, em primeiro lugar, que se tenha concluído o procedimento de aforamento na forma regular, de forma que a simples ocupação não enseja o fluxo do lustro aquisitivo.
+O culto magistrado descreveu com precisão o ponto nevrálgico do objeto da lide, pelo que transcrevo suas palavras:
+Conforme se constata dos documentos juntados aos autos às fls. 109/114 e informações trazidas pela União e prestadas pela secretaria do Patrimônio da União, fls. 186 e 414/415, o imóvel que intenta a parte Autora usucapir está situado em terreno de marinha, pertencente, por força do art. 20, VII da CF/1988, à União.
+O§ 3.º do art. 183, da CF/1988 é claro ao dispor que a propriedade dos bens públicos é insuscetível de ser adquirida por meio de usucapião. Assim, não há como declarar a prescrição aquisitiva do mencionado imóvel em favor da parte Autora.
+Outrossim, ressalte-se que, mesmo que pudesse este Juízo analisar a aquisição pela parte Autora do domínio útil do referido imóvel, ainda assim, a jurisprudência deste Egrégio Tribunal da Quinta Região é uníssona em só o permitir quando já houver o desmembramento da posse, constituindo-se a enfiteuse.
+ ..
+Da documentação colacionada aos autos, mormente aquela às fls. 186 e 414/415, verifica-se que não houve, em relação ao imóvel objeto deste feito, o desmembramento da posse, uma vez que o imóvel está sob regime de ocupação.
+Tal como defendido no parecer Ministerial, a pose exercida sobre imóvel submetido a regime de ocupação é sempre precária, não conferindo direito real sobre coisa alheia, conclusão a que se chega da leitura do art. 7.º da Lei n.º 9.636/1998 c/c o art. 1.208, CCB. (fls. 545v - 546)
+ ..
+Não tendo havido prova do anterior aforamento, tal como destacado na culta sentença, bem como não tendo, em sede de apelação, a parte demonstrado o eventual equivoco da decisão terminativa no ponto, impõe-se a conclusão pelo improvimento do recurso.
+Destaca-se, ainda, que, sempre nos termos da remansosa jurisprudência da Casa, essa prova há de ser específica, não se podendo presumi-la. Nesse sentido:
+ .. "
+Lado outro, a parte recorrente alega que a demanda não visa usucapir terreno de marinha, mas de um particular, restando demonstrado nos autos que o objeto da usucapião seria uma unidade residencial, devidamente desmembrada, já objeto de aforamento.
+Desse modo, resta claro que a convicção formada pela Corte local decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+A propósito:
+"O Tribunal regional concluiu que o imóvel não possui contrato de aforamento, apesar de ter natureza de terreno acrescido de marinha. A revisão do entendimento adotado pelo órgão colegiado julgador somente poderia ser feita mediante reexame probatório, inadmissível nesta via recursal (Súmula 7/STJ)." (REsp 1594657/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/09/2016, DJe 02/02/2017)
+5. Ademais, especificamente quanto ao dissídio jurisprudencial, observa-se ainda que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+Com efeito, no presente caso, a parte recorrente apenas transcreve as ementas dos acórdãos paradigmas, não realizando o necessário cotejo analítico do dissídio jurisprudencial.
+6. Ante o exposto, conheço em parte do recuso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
