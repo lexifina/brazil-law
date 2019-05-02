@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 881-884) opostos por [NOME] à decisão (e-STJ fls. 876-878) que negou provimento ao recurso especial em razão da ausência de deficiência na prestação jurisdicional pelo tribunal de origem e do óbice das Súmulas nºs 211/STJ e 282/STF.
+O embargante afirma que a decisão embargada teria sido contraditória sob o seguinte argumento:
+"(..) Ora, com a devida vênia, se o recurso não foi acolhido também no tocante à ofensa alegada (art. 1022 do CPC) diante da omissão do E. Tribunal a quo, por não ter se manifestado de forma expressa, exatamente sobre estes temas acima citados por vossa excelência, há por certo uma contradição nesta decisão que carece de ser sanada.
+(..)
+Parece haver uma ditadura jurídica no Brasil, onde somente um seleto grupo de pessoas tem acesso a este E. S. Tribunal que se auto intitula o Tribunal Cidadão, vez que, raramente o jurisdicionado aufere uma decisão de mérito, somente consegue decisões genéricas e processuais que não adentram ao mérito, gerando injustiças e ratificando abusos e desrespeitos às normas legais vigentes, como ocorre no caso em debate.
+Assim, se o E. Tribunal a quo, enfrentou todas as matérias vertidas em sede de embargos de declaração, com toda a matéria ventilada sendo então prequestionada, como não ocorreu manifestação em relação aos artigos 10, 141 e 492 do Código de Processo Civil de 2015
+Entendemos estar presente contradição insanável, pois, se não há ofensa ao art. 1022 do CPC, houve então manifestação expressa por parte do E. Tribunal a quo, sobre todas as questões vertidas nas peças de embargos de declaração que tiveram o objetivo de prequestionar as referidas questões, tudo com arrimo no art. 1025 do CPC, na súmula 356 do C. STF" (e-STJ fls. 882-883).
+Sustenta que os artigos 10, 141 e 492 do Código de Processo Civil de 2015 foram devidamente prequestionados, devendo o recurso ser conhecido e provido.
+Contraminuta (e-STJ fls. 886-888).
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, o recurso especial não foi provido com fundamentação completa, clara e coerente, consoante se colhe da fundamentação da decisão embargada.
+Importante considerar que os embargos de declaração opostos na origem pelo recorrente foram assim redigidos (e-STJ fls. 790-792):
+"(..) Assim consta da peça apelatória:
+"DA NUUDADE
+Fato importante é que a defesa da apelada, em nenhum momento alega agravamento do risco e ou culpa exclusiva do recorrente!!
+O juízo extrapolou seu dever, realizando defesa em favor da ora apelada, pois usou outra argumentação, outra tese, sendo que, a apelada jamais realizou sua defesa com tais teses, ora, salvo melhor entendimento, a contestação deve vir acompanhada de todas as provas e de todas as impugnações, não sendo realizada, fecha-se tal porta, como ocorre no caso em debate."
+Nesta trilha ainda assim constou no bojo da peça de de apelação:
+"De rigor a decretação de nulidade da sentença ora recorrida, determinando novo julgamento, vez que, o pedido realizado em sede de contestação limitou a lide, não podendo o Magistrado julgar fora dos limites da lide, onde a apelada requereu que a ação fosse julgada improcedente em razão dos fatos e direitos ali declinados.
+Observem a defesa, salvo erro grosseiro de nossa lavre, não há alegação alguma de agravamento de risco e culpa exclusiva do apelante, como alegado pelo juízo singular de forma muito peculiar.
+Destarte, o recorrente se limitou a fazer prova diante da contestação apresentada, não pode o Julgador realizar defesa para a parte como ocorreu no caso em debate, se a defesa caminhasse em outra direção e o recorrente entendesse cabível a produção de mais provas, assim teria atuado.
+Há de se observar os memoriais apresentado à fl. 596, onde mais uma vez este recorrente se manifesta somente sobre a contestação apresentada do qual, não há nada sobre aumento de risco e culpa exclusiva deste recorrente!
+Neste diapasão, a decisão atacada em nossa modesta opinião, está eivada de vicio capaz de gerar sua nulidade.
+Como bem se sabe, a sentença, com exceção daquelas matérias apreciáveis de oficio, devem decidir a lide nos limites em que proposta e, como no caso em concreto, em que não há a discussão de cláusulas contratuais ou de valores, não pode o Magistrado simplesmente sobre elas decidir, como ocorre no caso.
+Temos assim, que a r. sentença e seu aresta (sem fundamentação alguma), consoante o art 489, III do NCPC, são nulo de pleno direito, devendo este E. Tribunal devolver a lide ao juízo singular para que julgue novamente dentro dos limites da lide."
+Assim, diante das disposições processuais aplicáveis ao caso em tela, de rigor o acolhimento destes embargos declaratórios com escopo de sanar a omissão apontada, complementando o v. acórdão e se manifestando de forma objetiva e expressa sobre extrapolar os limites da lide, onde a embargada não alegou em momento algum a tese vertida pelo juízo singular o qual corrobora por esta C. Turma Julgadora de forma a aniquilar as regras processuais vigentes e o que se requer no momento".
+No entanto, a corte local rejeitou os aclaratórios nos seguintes termos (e-STJ fls. 816-820):
+"(..) É patente a impertinência dos presentes embargos de declaração, posto que inexistente o vício apontado. Como dito anteriormente, houve o enfrentamento de todos os pontos necessários ao julgamento do recurso ofertado, isto é, os embargos de declaração opostos anteriormente foram rejeitados exatamente por não ter havido o reconhecimento acerca da omissão apontada, inexistindo motivos para que o embargante oferte novo recurso se utilizando dos mesmos argumentos e, mais grave, eivado de caráter infringente.
+Extrai-se do julgado, como abaixo se constata, a exata apreciação dos temas postos na ação:
+"De acordo com o disposto no art. 1.022 do Código de Processo Civil, cabem embargos de declaração quando no acórdão houver obscuridade, ou contradição, ou for omitido ponto sobre o qual devia pronunciar-se o tribunal, ou ainda para corrigir erro material.
+No presente caso, de rigor a rejeição dos embargos de declaração, pois não há quaisquer dos vícios acima apontados na r. decisão colegiada, tampouco erro material no julgado.
+Consta da decisão embargada o seguinte trecho:
+"Propôs o autor a presente ação de cobrança c/c indenizatória por danos morais alegando que em 05.04.2011 o veículo de sua propriedade (marca GM, modelo S10 Colina D 4x4, ano 2010) foi objeto de roubo perpetrado em face de seu funcionário, a quem pediu para que levasse o veículo, que estava à venda, a um suposto comprador quando, no momento da entrega, foi rendido por um indivíduo que adentrou no automóvel e, conduzindo-o, deixou a vítima nas imediações do bairro da Lapa, nesta Capital-SP, tal como consta no boletim de ocorrência de fls. 56/58" (..).
+Portanto, não havendo cobertura para o sinistro quando o próprio segurado agrava intencionalmente o risco, não há como ser deferida a indenização securitária pleiteada.
+Nesse aspecto é de se frisar: seguro é um contrato de risco, cujo objeto se prende a fato futuro e incerto, tendo como base a boa-fé.
+Logo, na vigência do contrato de seguro, cumpre ao segurado se abster de tudo quanto possa aumentar os riscos, ou seja, contrário aos termos do estipulado sob pena de perder o direito ao seguro, nos termos do Código Civil (art. 768 do CC).
+Diante do que restou demonstrado no presente feito, não havia mesmo como se responsabilizar a seguradora pelo pagamento da indenização por danos materiais buscada (fls. 717/721)".
+"Como se vê, o V. Acórdão traz, quantum satis, os motivos ensejadores da conclusão ali contida, sendo certo que a solução integral da controvérsia com fundamento suficiente não caracteriza ofensa aos dispositivos legais elencados pelo embargante, além do que, não é necessário o expresso pronunciamento sobre todos os pontos alegados nas razões invocadas pelas partes.
+Mero inconformismo quanto ao resultado do julgamento não autoriza o manejo de embargos déclaratórios. Ao julgador cumpre apreciar o tema de acordo com o que reputar atinente à lide, devendo ser consignado, por fim, que se entenderem e preencherem os requisitos legais, caberá ao embargante buscar amparo de sua pretensão nas instâncias superiores".
+Diante deste quadro, é forçoso reconhecer o intuito meramente procrastinatório dos embargos de declaração opostos, razão pela qual, com suporte no art. 1.026, §2º, do CPC, condeno o embargante ao pagamento de multa correspondente a 2% sobre o valor atualizado da causa, observando a possibilidade de majoração da. multa em caso de reiteração dos embargos procrastinatórios, nos termos do §3º do mesmo dispositivo".
+Ao contrário do verbo do embargante, não há uma linha sequer nos embargos declaratórios opostos na origem apontando violação dos artigos 10, 141 e 492 do Código de Processo Civil de 2015, ou mesmo discorrendo sobre a tese contida em cada dispositivo.
+Sua irresignação dirigiu-se tão somente à suposta violação do art. 489, III, do Código de Processo Civil de 2015, não sendo possível ao Superior Tribunal de Justiça compreender que seriam outros dispositivos que o embargante pretendia prequestionar, não havendo que se falar em ditadura jurídica.
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+Publique-se.
