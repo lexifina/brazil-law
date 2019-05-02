@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Marcos Mileo Brasil contra decisão proferida pelo Presidente do Tribunal de Justiça do Estado do Pará  por meio da qual, sob a ótica da sistemática da repercussão geral, aplicou-se à controvérsia na origem o Tema n. 485 (Não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade).
+    Sustenta-se que a decisão reclamada teria afrontado a autoridade da decisão exarada pela Presidência deste Supremo Tribunal mediante a qual, em sede de agravo em recurso extraordinário, determinou-se a aplicação do Tema n. 318 de repercussão geral ao presente caso.
+    Requer-se, de início, a concessão da medida in limine para que seja determinada “a suspensão do trâmite do processo de origem até o transito em julgado da presente Reclamação”. Ao final, postula-se
+    “seja provida a presente reclamação para cassar a decisão do Egrégio Tribunal de Justiça do Estado do Pará (fls. 544-547), nos autos do processo nº 0000275-24.2009.814.0000, e que cumpra os efeitos da decisão da Ministra Carmem Lúcia (ARE 991729 AGR/PA) para aplicação da sistemática prevista no artigo 1.036, § 1º, 1.039, § único e 1.040 do CPC, referente ao TEMA 318 do STF no presente caso, para que assim possa continuar exercendo com brilhantismo o seu cargo de Delegado de Policia Civil do Estado do Pará, atualmente cedido para a INTERPOL” (fls. 18/19, eDoc. 1).
+    É o relatório. Decido.
+    Conforme relatado, pretende-se a cassação da decisão reclamada para que seja aplicado ao caso concreto o Tema n. 318 em detrimento do Tema n. 485 aplicado à espécie, sob alegação de desrespeito à determinação advinda da então Presidente desta Corte, Min. Cármen Lúcia, de devolução dos autos à origem para aplicação do pretendido Tema n. 318 em subserviência à sistemática da repercussão geral.
+    A hipótese é de inadmissibilidade da presente reclamação.
+    A uma, porque a determinação que se aponta como desrespeitada - despacho proveniente da Presidência de devolução dos autos em atenção à sistemática da repercussão geral - não possui caráter decisório que legitime o acesso a este Supremo Tribunal pela via augusta da reclamação constitucional.
+    Quanto à natureza do aludido ato, cito o seguinte julgado do Plenário:
+    “RECURSO. Agravo Regimental. Despacho que determina devolução dos autos ao tribunal a quo para aplicação da sistemática da repercussão geral. Ato de mero expediente. Incidência do art. 504 do CPC. Agravo não conhecido. É inadmissível agravo regimental contra ato de mero expediente que determina a devolução do feito ao tribunal de origem para aplicação da sistemática da repercussão geral” (AI n. 775139 AgR, Relator o Min. Cezar Peluso (Presidente), Tribunal Pleno, DJe de 19/12/11 – grifei).
+    Sob essa ótica, por conseguinte, não cabe trazer a esta Corte, pelo instrumento da reclamação constitucional (sob argumento de se garantir autoridade de decisão deste Tribunal – art. 988, II, CPC/15), ato que tenha como paradigma de afronta despacho (sem análise de mérito, portanto) de devolução dos autos ao tribunal a quo para aplicação da sistemática da repercussão geral.
+    Nessa conformidade, é de se citar os seguintes precedentes de natureza monocrática: Rcl n. 34094/SP, de relatoria da Min. Cármen Lúcia, DJe de 22/4/19 e Rcl n. 32435-MC/SP, de relatoria do Min. Celso de Mello, DJe de 26/11/18.
+    A duas, porque no julgamento do AI n. 800095 (Tema n. 318 – que se objetiva aplicação) esta Corte entendeu que
+    “A questão do preenchimento dos pressupostos de admissibilidade do mandado de segurança tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009” (grifei).
+    E se extrai do art. 988, § 5º, II, do CPC/15 que a reclamatória só pode ser proposta para garantir a observância de acórdão de recurso extraordinário no qual tenha tido repercussão geral reconhecida. Sem análise de mérito do paradigma alvitrado – dada a ausência de repercussão geral - não há falar em precedente vinculante que inaugure a jurisdição deste Supremo Tribunal pela via da reclamação.
+    Nesse sentido é a jurisprudência atual desta Corte. Senão, vejamos:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. SUBMISSÃO DE CIVIS À JURISDIÇÃO MILITAR. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. INEXISTÊNCIA DE PRECEDENTE VINCULANTE. AGRAVO A QUE SE NEGA PROVIMENTO” (Rcl n. 30370 AgR, Relator o Min. Alexandre de Moraes, DJe de 5/4/19 – grifei).
+    A três, porque, segundo consulta ao andamento processual no sítio do TJPA, o requerente sequer impugnou na origem a decisão reclamada, não se prestando a reclamação constitucional, conforme farta jurisprudência desta Corte, ao papel de simples substituto de recursos de natureza ordinária ou extraordinária.
+    Inviável, destarte, a presente reclamação.
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudicada, por conseguinte, a apreciação do pedido de liminar.
+    Publique-se. Intime-se.
+    Brasília, 2 de maio de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
