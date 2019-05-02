@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo (art. 1,042 do CPC/15) interposto por [NOME] em face da decisão acostada a fls. 493-494 e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelos ora agravantes.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 451-460 e-STJ, proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Cobrança do crédito principal e dos honorários de sucumbência. Morte da autora- exequente. Suspensão do processo principal. Prosseguimento do feito em relação à verba de sucumbência. Possibilidade. Honorários advocatícios de sucumbência pertencentes ao causídico. Possibilidade de execução nos próprios autos ou em outra ação, seguindo rito distinto do crédito principal. Desnecessária a habilitação dos herdeiros da exequente e, consequentemente, a suspensão da execução da verba honorária. Ausência de comprovação de prejuízo. Nulidade não configurada. Recurso improvido.
+Nas razões de recurso especial, alegaram os insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 313 do CPC/1973 e art. 682, inc. II, do Código Civil, sustentando, preliminarmente, a nulidade dos atos praticados após o falecimento da exequente (ii) art. 905 do Código Civil, defendendo que o crédito referente aos honorários não tem preferência, na execução, sobre o crédito principal (iii) art. 20, §4º, do CPC/73, argumentando serem exorbitantes os honorários fixados. Requereu a concessão de efeito suspensivo ao reclamo.
+Sem contrarrazões (fl. 492 e-STJ).
+Em juízo prévio de admissibilidade, a corte de origem negou seguimento ao apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 497-518 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta a fls. 720-744 e-STJ.
+É o relatório. Decide-se.
+O recurso não comporta provimento.
+1. As questões relativas às violações aos artigos 313 do CPC/73, 682, inc. II, do Código Civil devem ser analisadas conjuntamente com as alegadas ofensas aos art. 905 do Código Civil e art. 20, §4º, do CPC/73. Compete à parte recorrente, nas razões do recurso especial, impugnar especificamente os fundamentos do acórdão recorrido, sob pena de a deficiência das razões recursais atrair os óbices dos enunciados nº 283 e nº 284 da Súmula do STF. Nesse sentido, cita-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. . AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o exame da pretensão recursal, no sentido de se verificar que a planilha apresentada pelo exequente não indica detalhadamente os índices, critérios e valores adotados na evolução da dívida, seria necessária nova análise dos elementos fáticos dos autos, inviável em recurso especial.
+3. O recurso especial que não traz insurgência específica capaz de combater fundamento do acórdão recorrido, suficiente para mantê-lo, não deve ser admitido. Incidência das Súmulas n. 283 e 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 926.467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016)
+Essencialmente, o Tribunal a quo rejeitou a insurgência do ora recorrente "diante da preclusão das questões arguidas e da ausência de nulidade processual, de rigor a manutenção da decisão guerreada tal como lançada" (fl. 460 e-STJ).
+A Corte estadual constatou que, ao longo da execução, não houve insurgência por parte do ora recorrente. Também verificou que o prosseguimento do feito apenas com relação aos honorários dos advogados, por se tratar de pretensão autônoma, não seria atingida por eventual vício na habilitação dos herdeiros.
+Desse modo, não adentrou as questões relativas a preferência do crédito ou exorbitância do valor cobrado.
+Caberia ao insurgente, antes de discutir essas matérias demonstrar o desacerto do acórdão recorrido, expondo as razões pelas quais a controvérsia não fora atingida pela preclusão, indicando, como violados os dispositivos legais correspondentes.
+Ausente essa fundamentação nas razões recursais, incidem os óbices contidos nos enunciados da Súmula do STF nº 283: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos êles" e nº 284: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. Do exposto, nega-se provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
