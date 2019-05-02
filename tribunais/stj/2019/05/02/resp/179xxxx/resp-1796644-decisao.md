@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, fundamentado na alínea "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local.
+De acordo com o contido nos autos, o recorrido foi condenado às penas de 6 anos e 5 meses de reclusão, em regime semiaberto, e de 1.107 dias-multa, por associação para o tráfico de drogas e por tráfico de drogas majorado pela proximidade de estabelecimento de ensino, caracterizado pela apreensão de 22,320g (vinte e dois gramas e trezentos e vinte miligramas) de cocaína (e-STJ fl. 21), acondicionados em setenta e duas cápsulas, e 9 (nove) comprimidos de ecstasy.
+Interpostos recursos de apelação pelas partes, o Tribunal de origem deu parcial provimento a ambos os recursos para absolver o recorrido do crime do art. 35 da Lei n. 11.343/2006; para afastar a majorante do art. 40, inciso III, da mesma Lei; e para excluir o privilégio do art. 33, § 4º, da Lei de Drogas, redimensionando as penas para 5 anos de reclusão, em regime fechado, e 500 dias-multa (e-STJ fl. 268).
+Nas razões do recurso especial, o Ministério Público estadual pleiteia o reconhecimento da majorante do art. 40, III, da Lei de Drogas ao argumento de ser desnecessária, para a sua caracterização, a comprovação de que a conduta ilícita visava os frequentadores dos locais referidos pela citada norma.
+Contrarrazões apresentadas às e-STJ fls. 317/318.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fl. 334):
+RECURSO ESPECIAL. PENAL. CRIME DE TRÁFICO DE DROGAS: CAUSA DE AUMENTO DE PENA: PRÁTICA NAS IMEDIAÇÕES DOS ESTABELECIMENTOS PREVISTOS NO ART. 40, INCISO III DA LEI 11.343/06.
+1. O STJ firmou entendimento no sentido de que a causa de aumento de pena do inciso III do art. 40 da Lei 11.343/06 se dá em função do local do cometimento do crime (imediações dos estabelecimentos ali mencionados); não é necessário comprovar que o agente visava aos frequentadores destes locais. Cabe citar, a título exemplificativo: (1) AgRg no Resp 1.346.137/SC, 6ª Turma, rel. Min. Maria Thereza de Assis Moura, j. 10-06- 2014; (2) HC 197.653/SP, 6ª Turma, rel. Min. Sebastião Reis Júnior, j. 02-10-2012; (3) HC 214.527/SP, 5ª Turma, rel. Min. Jorge Mussi, j. 04-09-2012; (4) AgRg Resp 1.349.357/RS, 5ª Turma, rel. Min. Moura Ribeiro, j. 24-04- 2014.
+2. Parecer pelo provimento do recurso especial do MP/SP.
+
+É o relatório.
+Decido.
+O recurso merece prosperar.
+A Corte local decotou a majorante do art. 40, III, da Lei de Drogas, com lastro nestas razões (e-STJ fl. 267):
+Todavia, a majorante deve ser afastada, in casu . A proximidade de posto de saúde, escola e creche, sem dúvida torna a conduta potencialmente mais danosa, em razão perigo de que as pessoas frequentadoras dos espaços relacionados na lei comprem e consumam o entorpecente; e isto tanto pela suscetibilidade do público quanto pela facilidade de distribuição da droga. No entanto, o aumento só deve incidir nos casos em que o traficante possui objetivo específico de atingir o público frequentador daquele espaço. Não há nada nos autos que demonstre tal intenção, de maneira que deve ser afastada a majorante. (grifei)
+A propósito, eis a redação do referido dispositivo:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:
+ ..
+III - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos;
+Ao aplicar esse artigo, o Superior Tribunal de Justiça firmou a orientação de que a causa de aumento nele prevista se justifica quando comprovada a prática do delito nas dependências ou imediações dos locais elencados na lei, sendo irrelevante que a substância entorpecente atinja diretamente os frequentadores daqueles locais. Corroborando esse entendimento, cita-se o seguinte precedente:
+RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE DROGAS. CAUSA DE AUMENTO DA PENA. ART. 40, INCISO III, DA LEI Nº 11.343/2006. INFRAÇÃO COMETIDA NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO EM UMA MADRUGADA DE DOMINGO. AUSÊNCIA DE EXPOSIÇÃO DE UMA AGLOMERAÇÃO DE PESSOAS À ATIVIDADE CRIMINOSA. INTERPRETAÇÃO TELEOLÓGICA. AFASTAMENTO DA MAJORANTE.
+1. A causa de aumento de pena prevista no art. 40, inciso III, da Lei n.º 11.343/2006 tem natureza objetiva, não sendo necessária a efetiva comprovação de mercancia na respectiva entidade de ensino, ou mesmo de que o comércio visava a atingir os estudantes, sendo suficiente que a prática ilícita tenha ocorrido em locais próximos, ou seja, nas imediações do estabelecimento.
+2. A razão de ser da norma é punir de forma mais severa quem, por traficar nas dependências ou na proximidade de estabelecimento de ensino, tem maior proveito na difusão e no comércio de drogas em região de grande circulação de pessoas, expondo os frequentadores do local a um risco inerente à atividade criminosa da narcotraficância.
+3. Na espécie, diante da prática do delito em dia e horário (domingo de madrugada) em que o estabelecimento de ensino não estava em funcionamento, de modo a facilitar a prática criminosa e a disseminação de drogas em área de maior aglomeração de pessoas, não há falar em incidência da majorante, pois ausente a ratio legis da norma em tela.
+4. Recurso especial improvido. (REsp 1719792/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/03/2018, DJe 26/03/2018.)
+Portanto, sendo irrelevante se a traficância de drogas almejava se beneficiar da aglomeração decorrente do estabelecimento de ensino próximo, a incidência da referida majorante se faz imperativa.
+Passo ao imediato redimensionamento das penas impostas.
+Na primeira etapa da individualização, a pena-base fica mantida em 5 anos de reclusão e 500 dias-multa (e-STJ fl. 267).
+Na segunda fase, não obstante a confissão espontânea, deve ser mantida inalterada, em observância ao disposto no enunciado da Súmula n. 231/STJ (e-STJ fl. 267).
+Na derradeira etapa, restabeleço o aumento de 1/6 (e-STJ fl. 138) da pena pela majorante da proximidade de estabelecimento de ensino, chegando ao montante final de 5 anos e 10 meses de reclusão, em regime fechado (e-STJ fl. 268) e 550 dias-multa.
+Ante o exposto, dou provimento ao recurso especial nos termos acima delineados.
+Publique-se. Intimem-se.
