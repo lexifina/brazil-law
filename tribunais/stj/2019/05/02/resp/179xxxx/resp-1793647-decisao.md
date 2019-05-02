@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA MADALENA RAMOS, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o Juízo de primeiro grau absolveu sumariamente a ora recorrente da imputação pela prática do crime previsto no art. 155, § 4º, II, do Código Penal (e-STJ fls. 49/57).
+Segundo a denúncia, a ré teria subtraído, "do interior da Drogaria Onofre", dois medicamentos, quais sejam, "uma caixa de remédio denominado "Rapazina, 30 mg", avaliado em R$: 72,16 (setenta e dois reais e dezesseis centavos) e uma caixa de remédio denominado "Amato 100mg", avaliado em R$: 104,47 (cento e quatro reais e quarenta e sete centavos)" - e-STJ fl. 49.
+Irresignado, o Ministério Público do Estado de São Paulo interpôs recurso de apelação, ao qual o Tribunal de origem deu provimento para cassar a decisão absolutória e determinar o retorno dos autos ao Juízo de primeiro grau para processamento (e-STJ fls. 113/121).
+Daí o recurso especial, no qual a defesa, requerendo a aplicação do princípio da insignificância, alega que o Tribunal de origem, no acórdão proferido, teria violado o disposto no art. 397, III, do Código de Processo Penal.
+Contrarrazões às e-STJ fls. 145/151.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso especial (e-STJ fls. 163/165).
+É, em síntese, o relatório.
+Decido.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No presente caso, tenho que a subtração de dois medicamentos de um estabelecimento farmacêutico, demonstra inexpressiva lesão ao bem jurídico tutelado.
+Há ainda que se considerar que o delito teria sido praticado sem violência ou grave ameaça, sendo a recorrente primária, o que também corrobora o entendimento de que a lesão jurídica provocada pode ser considerada como de mínima ofensividade, bem como a reprovabilidade da conduta não seria de gravidade acentuada.
+Confira-se:
+HABEAS CORPUS SUBSTITUTIVO. FALTA DE CABIMENTO. TENTATIVA DE FURTO SIMPLES. BENS DE PEQUENO VALOR RESTITUÍDOS À VÍTIMA. REGISTRO DE ANTECEDENTE CRIMINAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. O habeas corpus tem suas hipóteses de cabimento restritas, não devendo vir como sucedâneo do meio próprio cabível.
+2. Mesmo diante de writ manifestamente incabível, ao se deparar com evidente coação ilegal, cabe ao Superior Tribunal de Justiça expedir ordem de ofício.
+3. A intervenção do Direito Penal há de ficar reservada para os casos realmente necessários. Para o reconhecimento da insignificância da ação, não se pode levar em conta apenas a expressão econômica da lesão. Todas as peculiaridades do caso concreto devem ser consideradas, por exemplo, o grau de reprovabilidade do comportamento do agente, o valor do objeto, a restituição do bem, a repercussão econômica para a vítima, a premeditação, a ausência de violência, o tempo do agente na prisão pela conduta etc.
+4. Nem a reincidência nem a reiteração criminosa, tampouco a habitualidade delitiva, são suficientes, por si sós e isoladamente, para afastar a aplicação do denominado princípio da insignificância.
+5. Na espécie, as oito barras de chocolate foram integralmente restituídas ao supermercado vítima da tentativa de furto, e, não obstante a certidão de antecedentes criminais indicar uma condenação transitada em julgado em crime de mesma natureza, a conduta do paciente não traduz lesividade efetiva e concreta ao bem jurídico tutelado.
+6. Habeas corpus não conhecido. Ordem expedida de ofício, extinguindo-se a ação penal.
+(HC 299.185/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/09/2014, DJe 25/09/2014).
+PENAL. RECURSO ESPECIAL. TENTATIVA DE FURTO QUALIFICADO. CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. 4 OVOS DE PÁSCOA. BENS RESTITUÍDOS. INEXISTÊNCIA DE PREJUÍZO À VÍTIMA. RECURSO IMPROVIDO. 1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+2. A tentativa de subtração de 4 ovos de páscoa, restituídos ao estabelecimento comercial, aliada ao fato de ser a ré primária e ostentar bons antecedentes, permite a incidência princípio da insignificância, pois nenhum interesse social existe na onerosa intervenção estatal. 3. O delito de furto qualificado pelo concurso de agentes não afasta, por si só, a incidência do princípio da insignificância, quando verificada a mínima ofensividade da conduta por eles perpetrada.
+4. Recurso especial improvido.
+(REsp 1659536/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/08/2018, DJe 17/08/2018)
+Ante o exposto, dada a irrelevância da ofensa ao bem jurídico tutelado pela norma penal incriminadora, dou provimento ao recurso especial para, reconhecendo a incidência do princípio da insignificância, restabelecer a decisão de primeira instância.
+Publique-se. Intimem-se.
