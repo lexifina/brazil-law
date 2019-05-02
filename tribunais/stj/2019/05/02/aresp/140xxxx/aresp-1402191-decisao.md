@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de Aracaju contra decisão (e-STJ, fls. 547/552) que inadmitiu o recurso especial sob a afirmação, em síntese, de que o acórdão recorrido encontra-se em consonância com o entendimento firmado no julgamento do Recurso Especial Repetitivo n. 1.495.146/MG (Tema 905).
+O agravo não comporta conhecimento.
+Da análise do teor da decisão combatida, percebe-se que o fundamento invocado para inadmitir o recurso especial manejado pelo ora agravante foi a adequação do acórdão impugnado à tese firmada no REsp 1.495.146/MG (Tema 905).
+O art. 1.042 do Código de Processo Civil de 2015 estabelece não ser cabível a interposição de agravo contra a decisão que não admite o recurso especial, quando a matéria, nele discutida, tiver sido decidida pelo tribunal de origem em conformidade com precedente firmado por esta Corte sob o rito do art. 1.036 do CPC/2015 (art. 543-C do CPC/1973). Desse modo, não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, porque incumbe à Corte a quo, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DO ART. 1.030, § 2º, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. CONTRIBUIÇÕES AO FUNRURAL. ACÓRDÃO A QUO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS.
+1. De acordo com o art. 1.030, § 2º, do CPC/2015, cabe agravo interno contra a decisão da origem que nega seguimento a recurso especial.
+2. Assim sendo, mantém-se a decisão combatida, que não conheceu em parte do recurso, pois o agravo em recurso especial é instrumento inadequado para afastar a aplicação de tese de recurso repetitivo, razão pela qual deve ser mantido o não conhecimento parcial do recurso especial.
+3. A controvérsia dos autos foi dirimida com base em fundamentos eminentemente constitucionais, os quais refogem a análise deste Tribunal Superior, em virtude do previsto no inciso III do art. 105 da Constituição Federal. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.300.845/MS, de minha relatoria, SEGUNDA TURMA, julgado em 4/12/2018, DJe 10/12/2018 - grifos acrescidos)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO FIXADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA EM REGIME DE JULGAMENTO DE RECURSO REPETITIVO. ERRO GROSSEIRO. CABIMENTO DE AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. PREVISÃO CLARA E EXPRESSA DO NOVO CÓDIGO DE PROCESSO CIVIL.
+1. Nos termos do §2º do art. 1.030 do CPC, contra a decisão monocrática do presidente ou vice-presidente do tribunal recorrido que nega seguimento a recurso especial manejado face a acórdão sintonizado com entendimento fixado por esta Corte Superior em regime de julgamento de recursos repetitivos, cabe a interposição de agravo interno.
+2. No caso, a interposição de agravo em recurso especial, no lugar do agravo interno, configura hipótese de erro crasso, grosseiro e indesculpável, que inviabiliza a aplicação do princípio da fungibilidade recursal.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1.330.687/MS, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018 - grifos acrescidos)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA O CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016 - grifos acrescidos)
+Assim, o presente agravo não merece ser conhecido pela notória inadmissibilidade, conforme acima exposto. Ademais, não se cabe falar em fungibilidade no caso, ante a ausência de dúvida objetiva diante da previsão expressa no código processual.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.030, I, "b", DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM.
+1. De acordo com o art. 1.030, I, "b", §2º, do CPC/2015, cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com tese firmada em sede de recurso repetitivo. A interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.153.611/DF, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/11/2017, DJe 1º/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/15. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Agravo em recurso especial que está sujeito às normas do CPC/15.
+2. Conforme determinação expressa contida no art. 1.030, I, "b", e §2º c/c 1.042, "caput", do CPC/15, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. A interposição de agravo em recurso especial constitui erro grosseiro, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.126.721/RS, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/10/2017, DJe 7/11/2017)
+Deve-se ressaltar ainda que, como a decisão de inadmissibilidade do recurso especial foi publicada na vigência do novo Código de Processo Civil, aplica-se ao caso o Enunciado administrativo n. 3:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Destarte, é inviável o conhecimento do recurso nesse ponto, diante da evidente inadequação.
+Ante o exposto, com fulcro no art. 932, inc. III, do CPC/2015, c/c o art. 253, parágrafo único, inc. I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
