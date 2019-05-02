@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por CONCEIÇÃO VIEIRA E ARAÚJO, em face de decisão de minha lavra, proferida nos seguintes termos:
+"Trata-se de Agravo em Recurso Especial, interposto pelo ESTADO DE MINAS GERAIS, em 14/08/2018, contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"REMESSA NECESSÁRIA - APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - DIREITO PREVIDENCIÁRIO - PRELIMINAR - ILEGITIMIDADE PASSIVA DO IPSEMG - OFICIAIS DE SERVENTIA EXTRAJUDICIAL - CONTRIBUIÇÕES PREVIDENCIÁRIAS - VINCULAÇÃO AO REGIME PRÓPRIO - SERVENTUÁRIO - REQUISITOS PARA APOSENTADORIA - VIGÊNCIA DA EC 20/98.
+1 - O IPSEMG é parte ilegítima, porque o vínculo e pagamento pretendidos pelo servidor, não repercutem em sua esfera jurídica, tratando-se de gestão do Estado de Minas Gerais.
+2 - O Órgão Especial deste e. Tribunal, no julgamento da Arguição de Inconstitucionalidade nº 1.0024.09.579411-1/002, declarou a inconstitucionalidade do art. 3º, V, da Lei Complementar nº 64/2002, com a redação dada pela Lei Complementar nº 70/2003: não há vinculação dos oficiais das serventias extrajudiciais, ao regime próprio de previdência do Estado de Minas Gerais.
+3 - Apenas o serventuário de Cartório, que atender aos requisitos para aposentadoria, antes da vigência da EC nº 20/98, é que tem direito adquirido à manutenção do vinculo com o regime próprio de previdência social" (fl. 191e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 206/209e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO.PREQUESTIONAMENTO PARA EFEITO DE INTERPOSIÇÃO DE RECURSO ESPECIAL OU EXTRAORDINÁRIO. REJEIÇAO DOS EMBARGOS.
+Conforme art. 1.025 do Novo Código de Processo Civil consideram-se incluidos no acórdão os elementos que o embargante suscitou para fins de pré-questionamento ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade" (fl. 231e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 1.022, I e II, e 489, § 1º, IV, do CPC/2015, sustentando que, "a despeito de interpostos embargos de declaração, o acórdão permaneceu omisso, na forma dos artigos 1022, II, parágrafo único, I e II, e 489, §1º, IV, do Código de Processo Civil, porque a Turma Julgadora não enfrentou os argumentos deduzidos no processo capazes de firmar a improcedência do pedido do Recorrido" (fl. 285e).
+Por fim, requer o provimento do apelo, "anulando-se o acórdão que julgou os embargos de declaração, com a devolução dos autos à instância de Origem para novo julgamento que analise de forma fundamentada os argumentos deduzidos no processo capazes de firmar a improcedência do pedido do Recorrido" (fl. 286e).
+Contrarrazões a fls. 300/310e.
+Inadmitido o Recurso Especial (fl. 327/331e), foi interposto o presente Agravo (fls. 361/366e).
+Contraminuta a fls. 386/396e.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrida, com o objetivo de obter o reconhecimento do vínculo com o regime previdenciário especial do Estado de Minas Gerais e do direito à aposentadoria integral.
+Julgada improcedente a demanda, recorreram ambas as partes, restando mantida a sentença, pelo Tribunal local, exceto por acolher a preliminar de ilegitimidade passiva do Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG.
+Daí a interposição do presente Recurso Especial.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa ao art. 1.022, I e II, do CPC/2015, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORA. PROTEÇÃO DO ART. 833 DO CPC/2015.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. Há entendimento firmado do Superior Tribunal de Justiça de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe 19/12/2014).
+3. Recurso especial do qual se conhece parcialmente e, nessa extensão, nega-se-lhe provimento" (STJ, REsp 1.710.162/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e, considerando a sucumbência recíproca estabelecida pelas instâncias ordinárias, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, devido ao advogado da parte recorrida, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015, sendo vedada a compensação, nos termos do § 14 do aludido dispositivo legal.
+I. " (fls. 426/428e).
+A embargante aduz o seguinte:
+"Ao reverso do entendimento esposado pela r. decisão embargada, a ora Recorrente jamais indicou em suas peças recursais eventual ofensa ao art. 1.022, I e II, do CPC/2015, como sustenta o decisium recorrido.
+Conforme se observa dos autos, no recurso outrora interposto pela ora Embargante havia sido indicado, como violado, o art. 48, caput e § 2º da Lei 8.935/94, inclusive apresentando dissídio jurisprudencial acerca do tema, ora debatido. Contudo, jamais indicou violação ao art. 1.022, incisos I e II do CPC/2015, como sustenta a decisão supratranscrita.
+O que se observa dos autos é uma decisão, ora embargada, totalmente dissonante com o que foi pleiteado através de Recurso Especial.
+No que diz respeito ao art. 48 da Lei 8.935/94, a Embargante sustenta que é nítida a violação praticada ao mesmo, uma vez que a Recorrente não formalizou expressamente a opção pela mudança funcional para o regime trabalhista, razão pela qual continua regida pelos dispositivos legais aplicáveis aos funcionários públicos, logo, com direito à aposentadoria Estadual, como prevê esse diploma legal.
+Portanto, resta claro e evidente a existência de erro material na decisão, ora embargada, uma vez que V. Exa. indicou suposta ausência de ofensa ao art. 1.022, incisos I e II do CPC/2015, todavia, a Recorrente apenas indicou como violado o art. 48, caput e § 2º da Lei 8.935/94, inclusive apresentando dissídio jurisprudencial acerca do tema, devendo ser afastado o erro material ora indicado, por ser medida de Justiça!" (fls. 435/436e).
+Requer, por fim, o acolhimento dos Embargos de Declaração "aclarando a decisão recorrida, para afastar o erro material ora indicado, reformando a decisão que não conheceu do recurso especial" (fl. 437e).
+A irresignação não merece conhecimento.
+De acordo com os autos, verifica-se que os Aclaratórios versam sobre a decisão de fls. 426/428e, que não conheceu do Recurso Especial interposto pelo ente público, ora embargado, e não sobre a decisão de que não conheceu do Agravo em Recurso Especial manejado pela parte embargante, a fls. 420/425e.
+Nesse contexto, evidente a ausência de interesse recursal por parte da embargante.
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INTERESSE RECURSAL.
+1. O interesse recursal caracteriza-se como pressuposto instrínseco de admissilidade. Logo, sua ausência implica o não conhecimento da presente irresignação.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial manejado pela agravada.
+3. Agravo interno não conhecido" (STJ, AgInt no AREsp 991.370/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 25/08/2017).
+"RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERESSE RECURSAL. AUSÊNCIA.
+1. A parte agravante demonstra irresignação com o decisum agravado na parte em que, conjugando os termos do art. 543, § 2º, do CPC/73 com o disposto no art. 543-B do CPC/73, determinou o sobrestamento do recurso especial da Fazenda Nacional, no Tribunal de origem, até o julgamento da questão prejudicial, com repercussão geral reconhecida, e em cumprimento do disposto no § 3º do art. 543-B do CPC/73.
+2. Ressai nítida a falta de interesse recursal do ora agravante, consubstanciado no binômio necessidade-utilidade, visto que o objeto de sua irresignação refere-se ao ponto da decisão agravada que tratou do recurso especial da parte ex adversa. Assim, seja porque a parte legitimada para se insurgir contra esse ponto era a Fazenda Nacional, seja porque essa porção do decidido não causou gravame algum ao ora agravante, não haveria como conhecer do recurso vertente.
+3. Agravo interno não conhecido" (STJ, AgInt no REsp 1.622.022/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 03/03/2017).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO INTERPOSTO PELA PARTE QUE NÃO TEVE SEU AGRAVO AINDA JULGADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É manifesta a ausência de interesse recursal se o recurso é interposto em face de decisão que julgou o agravo em recurso especial da outra parte.
+2. Agravo regimental não conhecido" (AgRg no AREsp 564.556/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 01/02/2016).
+Ante o exposto, não conheço dos Embargos de Declaração.
+I.
