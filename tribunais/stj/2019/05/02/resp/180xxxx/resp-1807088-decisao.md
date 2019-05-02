@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que possuiu a seguinte ementa (e-STJ fl. 213):
+PROCESSUAL CIVIL E TRIBUTÁRIO. JUÍZO DE RETRATAÇÃO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001. CONSTITUCIONALIDADE. PRECEDENTE DO STF.
+1. O egrégio Supremo Tribunal Federal, no julgamento do RE 596177, sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), declarou inconstitucional a alteração da Lei n.º 8.212/1991 pela Lei n.º 8.540/1992, por ofensa formal (necessidade de Lei Complementar para tratar da matéria).
+2. Sobre o tema o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718874/RS, em 30/03/2017, declarou que: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção.".
+3. Assim, o egrégio STF reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional n. 20/98, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+4. Apelação e remessa oficial às quais se dá provimento.
+Os embargos de declaração opostos foram rejeitados. Transcrevo a ementa do julgado (e-STJ fl. 225).
+PROCESSUAL CIVIL; TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL. PROLAÇÃO DA SENTENÇA. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. REGIME DO RECURSO REPETITIVO.
+1. Inexistindo no v. acórdão embargado qualquer ponto omisso sobre que se deva pronunciar esta Colenda Turma, mas tão-somente o intuito de infringência do julgado, rejeitam-se os embargos de declaração.
+2. O acórdão embargado abordou expressamente a insurgência da embargante.
+3. Embargos de declaração não se prestam a analisar o acerto ou desacerto, do julgado a ser questionado em via recursal própria.
+4. O Superior Tribunal de Justiça firmou o entendimento sob o regime do recurso repetitivo no sentido de que o marco temporal para a fixação dos honorários advocatícios é a proteção da Sentença. Nesse sentido: REsp 1465535/SP. RECURSO ESPECIAL 2011/0293641-3. Relator(a) Ministro LUIS FELIPE SALOMÃO. órgão Julgador: QUARTA TURMA  ..
+5. Sentença proferida na vigência do Código de Processo Civil/73, não há que se falar em fixação de honorários advocatícios com base no novo Código de Processo Civil/2015.
+6. Ernbargos declaratórios da União aos quais se nega provimento:
+Nas razões de recurso (e-STJ fls. 228/233), a Fazenda aponta, inicialmente, violação do art. 1.022 do CPC/2015, ao argumento de que o acórdão dos aclaratórios teria sido omisso em analisar a ofensa ao art. 85 do CPC/2015.
+No que diz respeito à questão central do recurso, aponta contrariedade do art. 85, § 3º e § 4º, III, do CPC/2015, alegando que os honorários advocatícios devem ser fixados com base no CPC/2015, pois "deve prevalecer a regra processual vigente quando do julgamento do recurso de apelação, que inverteu a sucumbência, estabelecendo nova situação jurídica" (e-STJ fl. 232).
+As contrarrazões não foram oferecidas (e-STJ fl. 235).
+O recurso foi admitido à e-STJ fls. 236/237.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Feita essa observação, destaco que o Tribunal de origem, em juízo de retratação, deu provimento ao recurso de apelação e à remessa oficial, para "reconhecer a exigibilidade da contribuição social incidente sobre a receita bruta da comercialização da produção rural - FUNRURAL, após a edição da Lei n. 10.256/2001" (e-STJ fl. 210). Na ocasião, foram fixados os honorários advocatícios em R$ 1.000,00 (mil reais - e-STJ fl. 210).
+Ao argumento de omissão acerca da aplicação do art. 85, § 3º e §4º, III, do CPC/2015, a Fazenda opôs embargos de declaração. O Tribunal de origem, ao examinar os embargos, assim se pronunciou (e-STJ fls. 222/223):
+Relevante notar que o Superior Tribunal de Justiça firmou o entendimento sob o, regime do recurso repetitivo no sentido de que o marco temporal para a fixação dos honorários advocatícios é a prolação da sentença. Nesse sentido:
+ ..
+Nestes termos, não há que se falar em fixação de honorários advocatícios com base no novo Código de Processo Civil, considerando-se, ainda, que a sentença foi prolatada na vigência do CPC/73.
+Ante o exposto, ausentes as omissões apontadas, nego provimento aos embargos declaratórios da União.
+É como voto.
+Pois bem.
+O recurso não merece acolhimento.
+Inicialmente, vale destacar que não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Na hipótese dos autos, a Corte de origem destacou que o marco temporal para a fixação dos honorários advocatícios é a prolação da sentença, razão pela qual não houve necessidade de se analisar a incidência, ao caso, do art. 85 do CPC/2015.
+Desse modo, não se vislumbra nenhuma deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou contradição na prestação jurisdicional.
+Quanto aos parâmetros intertemporais que norteiam o regime jurídico a ser observado quando da fixação dos honorários de sucumbência, o STJ harmonizou a orientação de que a lei aplicável para o arbitramento da verba honorária é aquela vigente na data da sentença/decisão em que fixados esses honorários.
+De fato, a sentença/decisão é o marco temporal para a delimitação do regime jurídico aplicável à fixação dos honorários advocatícios, revelando-se correto o seu arbitramento, com fundamento no Código de Processo Civil de 1973, anteriormente à 18/03/2016 (data da entrada em vigor da novel legislação), como ocorreu no caso concreto (sentença proferida em 1º/8/2013, e-STJ fls. 59/64).
+Dessa forma, incide, no ponto, a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o apelo nobre é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Impende acrescentar que a posterior condenação em honorários advocatícios, em virtude de não ter havido a fixação da verba honorária no momento oportuno, não tem o condão de atrair a aplicação do CPC/2015.
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. PROLAÇÃO DE SENTENÇA QUANDO EM VIGOR O CÓDIGO DE PROCESSO CIVIL DE 1973. INAPLICABILIDADE DA NOVEL LEGISLAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A sentença é o marco temporal para a delimitação do regime jurídico aplicável à fixação dos honorários advocatícios, revelando-se escorreito o seu arbitramento, com fundamento no Código de Processo Civil de 1973, anteriormente à 18.03.2016 (data da entrada em vigor da novel legislação), como ocorreu no caso concreto.
+III - A posterior condenação em honorários advocatícios, em virtude de não ter havido a fixação da verba honorária no momento oportuno, não tem o condão de atrair a aplicação do CPC/15.
+IV - Não apresentados argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1.713.784/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 20/09/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO ORDINÁRIA COLETIVA. ASSOCIAÇÃO REPRESENTATIVA. ILEGITIMIDADE ATIVA. AUSÊNCIA DE AUTORIZAÇÃO ASSEMBLEAR. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO CONFIGURADA. PREMISSAS FÁTICAS FIRMADAS NO ACÓRDÃO RECORRIDO. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. O Tribunal a quo concluiu pela ocorrência da prescrição da ação, nos termos do art. 1º do Decreto nº 20.910/32, uma vez que não há como o Município ora recorrente ser beneficiado pela interrupção da prescrição pelo ajuizamento da ação coletiva, tendo em vista que no caso em tela "não há comprovação de autorização do município-autor em favor da Federação dos Municípios do Rio Grande do Norte (FEMURN)", conforme o entendimento proferido no RE nº 573.232/SC, não alcançando previsão genérica do estatuto da associação a revelar a defesa dos interesses dos associados.
+2. Eventual reforma do acórdão recorrido implicaria, necessariamente, em reexame do contexto probatório dos autos, providência vedada em sede de especial, dado o óbice da Súmula 7/STJ.
+3. Esta Corte firmou a compreensão de que "a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença. Em razão de sua natureza material, afasta-se a aplicação imediata da nova norma." (REsp 1.686.733/PE, Segunda Turma, Rel. Ministro Og Fernandes, julgado em 03/04/2018, DJe 09/04/2018).
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.678.580/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/09/2018, DJe 13/09/2018).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Nos termos do art. 85, § 11, c/c o art.  98, §§ 2º e 3º, do CPC/2015, arbitro os honorários recursais em R$ 1.000,00 (um mil reais).
+Publique-se. Intimem-se.
