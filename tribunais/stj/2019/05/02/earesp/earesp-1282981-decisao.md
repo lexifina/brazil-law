@@ -1,0 +1,49 @@
+EMENTA
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO FISCAL. SUBSTITUIÇÃO DA GARANTIA DO JUÍZO. PRINCÍPIO DA MENOR ONEROSIDADE. ACÓRDÃO EMBARGADO DE ACORDO COM A JURISPRUDÊNCIA DOMINANTE SOBRE O TEMA. RECURSO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+Cuida-se de embargos de divergência interpostos por [NOME] S/A contra acórdão proferido pela Segunda Turma desta Corte assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. GARANTIA. RECUSA DA FAZENDA PÚBLICA. LEGITIMIDADE. FIANÇA BANCÁRIA NÃO EQUIVALENTE A DINHEIRO. ADMISSÃO DA FIANÇA BANCÁRIA EM CARÁTER EXCEPCIONAL. PRINCÍPIO DA MENOR ONEROSIDADE.
+1. A jurisprudência desta Corte Superior possui entendimento firme pela legitimidade da recusa da Fazenda Pública por bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC/1973 (art. 835 do CPC/2015) e 11 da Lei de Execução Fiscal - LEF, bem como pelo fato de que a fiança bancária não possui o mesmo status que o dinheiro.
+2. Em caráter excepcional, é admissível a substituição da garantia em dinheiro pela fiança bancária quando comprovada, de forma irrefutável, perante o juízo, a necessidade de aplicação do princípio da menor onerosidade, inserto no art. 620 do CPC/1973 (art. 805 do CPC/2015).
+3. Agravo interno a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Aponta a embargante dissídio jurisprudencial com julgado proferido pela Terceira Turma deste Superior Tribunal de Justiça, nos autos do REsp 1.691.748/PR, no tocante à equivalência da fiança bancária ao depósito no processo de execução.
+Destaca a recorrente que "apesar de o processo paradigma versar sobre Execução Civil e não Fiscal, a matéria acerca da ordem de preferência no oferecimento de bens à garantia do juízo é correlata, inclusive aplicando-se subsidiariamente o CPC aos processos tutelados pela Lei nº 6.380/80" (fl. 419).
+Requer, pois, o provimento do recurso "para reformar o v. acórdão proferido pela Segunda Turma, reconhecendo-se válido o oferecimento da carta de fiança pelo Executado, ora Embargante, conforme o acórdão paradigma" (fl. 421).
+É o relatório.
+Em que pese tenha registrado o aresto paradigma que a matéria objeto da controvérsia merece nova reflexão, tendo em vista que o atual Código de Processo Civil equiparou, para fins de substituição da penhora, a dinheiro a fiança bancária e o seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial da execução, acrescido de 30% (trinta por cento), fato é que o acórdão embargado concluiu em conformidade com a jurisprudência dominante sobre o tema.
+Com efeito, é firme o entendimento desta Corte no sentido de que a Fazenda Pública pode recusar o bem oferecido à penhora se não observada a ordem prevista na legislação processual, notadamente porque não há equivalência absoluta entre as formas de garantia do juízo, sendo certo, outrossim, que deve ser levado em consideração o princípio da menor onerosidade.
+Confiram-se os precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FIANÇA BANCÁRIA. SUBSTITUIÇÃO POR PENHORA DE DINHEIRO DEPOSITADO EM OUTRA DEMANDA. POSSIBILIDADE. REFORMA DO ACÓRDÃO HOSTILIZADO, COM DEVOLUÇÃO PARA PROSSEGUIMENTO DO JULGAMENTO QUANTO AOS DEMAIS FUNDAMENTOS DO AGRAVO DE INSTRUMENTO.
+1. Trata-se de Recurso Especial interposto em acórdão proferido em Agravo de Instrumento interposto pela empresa (ora recorrida) contra decisão que deferiu a substituição, a pedido da Fazenda Nacional, da penhora de fiança bancária por dinheiro.
+2. O órgão fracionário da Corte local consignou que o fundamento para reformar a decisão do juízo de primeiro grau consiste na equivalência da fiança bancária e do dinheiro.
+3. Nos Embargos de Divergência 1.077.039/RJ, a Seção de Direito Público do STJ uniformizou a interpretação da legislação federal, concluindo nos seguintes termos: a) o art. 9º, § 3º, da Lei 6.830/1980 apenas posiciona a fiança bancária e o dinheiro como modalidades de garantia do juízo; b) o fato de ambas as situações serem previstas como forma de garantia não conduz ao raciocínio de que há equivalência absoluta entre elas; c) não é por outro motivo que o dinheiro é previsto como o bem preferencial a ser objeto de constrição, tendo em vista que, além de possuir liquidez superior a qualquer outro, é o meio ordinário de quitação do crédito tributário (considerando que a atividade jurisdicional deve assegurar ao jurisdicionado lesado a satisfação do seu direito, preferencialmente, pelo meio com que ordinária e espontaneamente a obrigação seria adimplida); e d) portanto, em regra deve ser rejeitada a substituição da penhora de dinheiro por fiança bancária, exceto quando o juízo verificar, em concreto, efetiva infringência ao princípio da menor onerosidade.
+4. Diante da preferência do dinheiro sobre todo e qualquer bem, deve, portanto, ser superado o fundamento adotado no acórdão hostilizado para se deferir o requerimento da Fazenda Nacional, no sentido de substituir a fiança bancária pela constrição sobre dinheiro depositado em outra demanda.
+5. Registre-se, no entanto, que a superação do fundamento adotado no acórdão hostilizado não implica solução final da lide, tendo em vista a necessidade de devolução dos autos para que o Tribunal de origem se pronuncie ao segundo fundamento veiculado no Agravo de Instrumento da empresa, isto é, o de que o princípio da menor onerosidade justifica a manutenção da garantia representada pela fiança bancária.
+7. Recurso Especial provido, com determinação de devolução dos autos para análise dos demais fundamentos veiculados no Agravo de Instrumento.
+(REsp 1656752/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 02/05/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. SUBSTITUIÇÃO DA PENHORA DE DINHEIRO POR FIANÇA BANCÁRIA. IMPOSSIBILIDADE. MENOR ONEROSIDADE PARA O DEVEDOR NÃO CONFIGURADA.
+1. A Primeira Seção deste Superior Tribunal, no julgamento dos Embargos de Divergência no Recurso Especial nº 1.077.039/RJ, Rel. Ministro Herman Benjamin, DJe 12/4/11), firmou posição de que a penhora de dinheiro e a fiança bancária não possuem o mesmo status, de maneira que a substituição da penhora não deve ocorrer de forma automática.
+2. A garantia ofertada com prazo de validade não é capaz de assegurar o objetivo precípuo da execução que é atender à satisfação do credor.
+3. Excepcionalmente, é admitida a substituição pretendida nas hipóteses em que for cabalmente comprovada a necessidade de aplicação do princípio da menor onerosidade ao executado, previsto no art. 620 do CPC, hipótese não configurada no caso concreto.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 326481/SP, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/06/2013)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. SUBSTITUIÇÃO DE DINHEIRO POR FIANÇA BANCÁRIA. VEDAÇÃO. PRECEDENTES. EXCEPCIONALIDADE NÃO EFETIVAMENTE DEMONSTRADA.
+1. A Primeira Seção do STJ, no julgamento do EREsp 1077039/RJ, sedimentou entendimento de que o dinheiro e a fiança bancária não apresentam o mesmo status, de modo que uma vez efetuada a penhora sobre numerário, ainda que decorrente de procedimento efetivado direto em instituições bancárias, não é possível sua substituição por fiança bancária.
+2. A fiança bancária prevalecerá sobre o dinheiro apenas em caráter excepcional, ou seja, quando estiver comprovada, de forma irrefutável, perante a autoridade judicial, a necessidade de aplicação do princípio da menor onerosidade (art. 620 do CPC), o que não ocorreu na espécie.
+Agravo regimental improvido.
+(AgRg no REsp 1543108/SP, Relator Ministro Humberto Martins, Segunda Turma, DJe 23/9/2015)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORA. SUBSTITUIÇÃO. SEGURO GARANTIA. EXCEPCIONALIDADE NÃO VERIFICADA. SÚMULA 7/STJ. VALOR DAS ASTREINTES. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte tem se orientado no sentido de admitir a substituição da penhora de dinheiro por seguro garantia apenas em hipóteses excepcionais, em que seja necessário evitar dano grave ao devedor, sem causar prejuízo ao exequente, hipótese não demonstrada no caso dos autos.
+2. Inadmissível, em agravo interno, formular pedido que não consta do recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp. 1350922/PB, Relator Ministro Antonio Carlos Ferreira, DJe 13/12/2017)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PROVIDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. EXECUÇÃO FISCAL. PRETENSÃO DE SUBSTITUIÇÃO DE CARTA DE FIANÇA BANCÁRIA POR SEGURO GARANTIA COM PRAZO DETERMINADO. INVIABILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual é legítima a recusa ou a substituição, pela Fazenda Pública, de bem nomeado à penhora em desacordo com a gradação legal prevista nos arts. 11 da Lei n. 6.830/80, e 655 do CPC, devendo a parte executada apresentar elementos concretos que justifiquem a incidência do princípio da menor onerosidade para afastar a ordem legal, não demonstrados na espécie.
+III - In casu, pleiteia-se obrigar o Estado recorrido a aceitar a substituição de carta de fiança bancária dada em garantia por seguro garantia com prazo de validade determinado, o que se mostra inviável, nos termos da jurisprudência desta Corte.
+IV - Agravo interno improvido.
+(AgInt no REsp 1605001/SC, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 25/10/2016)
+Ante o exposto, com fundamento no art. 266-C, parte final, do RISTJ, nego provimento aos embargos de divergência.
+Publique-se.
+Intimem-se.
