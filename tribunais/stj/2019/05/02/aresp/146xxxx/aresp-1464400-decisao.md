@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 101):
+Apelação - Ação Anulatória dc Debito Fiscal - Taxa de Fiscalização dc Estabelecimento (TFE) - Exercícios de 2009 a 2013 Inatividade da empresa comprovada - Documentos hábeis a demonstrar a cessação da atividade - Fato Gerador não configurado - Cobrança indevida - Sentença mantida Recurso não provido.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 145, II, da Constituição Federal; e 77 e 78 do CTN. Sustenta que: (I) "A Taxa de Fiscalização de Estabelecimentos (TFE) foi instituída por meio da Lei Municipal nº 13.477/02, em perfeita consonância com o disposto no artigo 145, II, da Constituição Federal e artigos 77 e 78, do Código Tributário Nacional." (fl. 109); e (II) "esse cenário jurídico-normativo, é inegável que competia à empresa, como verdadeira obrigação acessória, comunicar ao Fisco Municipal o alegado encerramento de suas atividades, de modo a ver-se livre de quaisquer imposições tributárias, em especial a TFE, taxa destinada a custear o aparato municipal de fiscalização de estabelecimentos." (fl. 110).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 145, II, da Constituição Federal.
+Ademais, a matéria pertinente aos arts. 77 e 78 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei Municipal nº 13.477/02 ), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
