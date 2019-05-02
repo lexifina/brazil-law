@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015 e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ (e-STJ fl. 320).
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando no mencionado óbice.
+De fato, o acórdão recorrido concluiu que "a doença sofrida pelo postulante não enseja incapacidade para os atos da vida diária" (e-STJ fl. 243), deixando de deferir o benefício assistencial pleiteado. Assim, a alteração dessa conclusão demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA CONDIÇÃO DE NECESSIDADE (MISERABILIDADE). REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Corte de origem, de acordo com o acervo probatório dos autos, concluiu pela ausência de comprovação da hipossuficiência, para fins de concessão do benefício assistencial. No caso, a modificação do julgado esbarra no óbice da Súmula 7/STJ. A propósito: AgRg no AREsp 544.211/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 21/10/2014; AgRg no AREsp 197.737/PR, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 4/2/2013; AgRg no AREsp 578.236/SP, Rel.
+Ministro Humberto Martins, Segunda Turma, DJe 24/10/2014.
+2. Agravo interno não provido.
+(AgInt no AREsp 804.955/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/12/2016, DJe 02/02/2017).
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENC1AL. ART. 20, §3º, DA LEI 8.742/93. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. INADMISSIBILIDADE DO RECURSO.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que concluiu pela improcedência de pedido de benefício assistencial de prestação continuada, com espeque na prova dos autos que asseverou a não comprovação do requisito da miserabilidade do recorrente.
+2. O órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, para chegar a conclusão diversa, torna-se imprescindível reexaminar o conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial. Imiscuir-se na presente aferição encontra óbice no édito 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Ademais, inviável admitir o Recurso Especial pelo dissídio jurisprudencial, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exige reexame do material fático-probatório dos autos.
+Incidência da Súmula 7/STJ.
+4. Recurso Especial de que não se conhece.
+(REsp 1.689.989/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/10/2017, DJe 16/10/2017).
+Registro, ainda, que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+A teor do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita, exceto em ações acidentárias, nos termos do art. 129, parágrafo único, da Lei n. 8.213/1991.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Majoro os honorários recursais em em R$ 1.000,00 (um mil reais), respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015. Suspensa a exigibilidade por tratar-se de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
