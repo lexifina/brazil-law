@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE NOVA PORTEIRINHA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ fls. 456/457):
+AGRAVO INTERNO EM AGRAVO DE INTRUMENTO- INTERPOSIÇÃO VIA EMAIL - INSTRUÇÃO DEFICIENTE - AUSÊNCIA DAS PEÇAS OBRIGATÓRIAS QUANDO DA INTERPOSIÇÃO DO RECURSO - AFRONTA AO ART. 525 DO CPC/1973 - NEGATIVA DE SEGUIMENTO. Desprovido o agravo de instrumento dos documentos obrigatórios que deveriam instruí-lo, manifesta a inadmissibilidade do recurso, nos precisos termos dos arts. 525, I, e 557, caput, do CPC/73, então vigentes.
+O recorrente aponta divergência jurisprudencial e violação do disposto nos arts. 1.º, 2.º e 4.º da Lei n. 9.800/1999 e no art. 525, I, do CPC/1973. Sustenta, em síntese, que a juntada das peças obrigatórias do agravo de instrumento interposto via fac-símile ou correio eletrônico pode ser realizada quando da apresentação do recurso original.
+Contrarrazões às e-STJ fls. 137/147.
+Juízo positivo de admissibilidade às e-STJ fls. 149/150.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, a jurisprudência desta Corte possui o entendimento de que não é admitida a interposição de recurso por e-mail e que esse não tem o condão de dilatar o prazo para entrega da petição original, pois não configura meio eletrônico equiparado ao fax, para fins da aplicação do disposto no art. 1º da Lei 9.800/99.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO ENVIADA POR CORREIO ELETRÔNICO. INTEMPESTIVIDADE. JULGAMENTO ANTECIPADO DA LIDE. REVISÃO. SÚMULA 7/STJ. 1. A jurisprudência desta Corte firmou-se no sentido de que não é admitida a interposição de recurso por e-mail e que esse não tem o condão de dilatar o prazo para entrega da petição original, pois não configura meio eletrônico equiparado ao fax, para fins da aplicação do disposto no art. 1º da Lei 9.800/99. Precedentes do STJ e STF. 2. É inviável a discussão sobre cerceamento de defesa quando o aresto recorrido fundamenta seu convencimento em elementos constantes dos autos do processo, conforme o enunciado da Súmula 7/STJ. 3. Agravos regimentais não providos." (AgRg nos EDcl no AREsp 111.803/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 9/4/2013, DJe 15/4/2013.).
+Confiram-se, ainda, decisões que versam sobre matéria análoga ao caso dos autos: AREsp 679.749/CE, Rel. Min. Mauro Campbell Marques, DJE 22/04/2015; AREsp 677.938/CE, Rel. Min. Assusete Magalhães, DJE 14/04/2015; REsp 1.501.938/CE, Rel. Min. Regina Helena Costa, DJE 20/03/2015.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
