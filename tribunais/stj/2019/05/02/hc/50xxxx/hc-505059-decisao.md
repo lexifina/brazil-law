@@ -1,0 +1,22 @@
+DECISÃO
+LAILSON [NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça local no Agravo de Execução Penal n. 9000098-55.2018.8.26.0047.
+A impetrante se insurge contra a cassação da decisão que havia promovido o paciente ao regime semiaberto. Explica que a justificativa apresentada pelo Tribunal é inidônea e busca o restabelecimento do benefício.
+Decido.
+O apenado cumpre pena de 18 anos de reclusão, por homicídio qualificado. O término da execução está previsto para 1º/11/2028. Ele é primário e o Tribunal não ressaltou nenhuma prática de falta disciplinar desde o início do resgate da pena, em 8/5/2011. Em 2/11/2012 alcançará o lapso objetivo para o livramento condicional (fl. 24).
+A progressão do apenado ao regime semiaberto, deferida pelo Juiz da VEC em 25/4/2018, foi cassada pelo órgão de segundo grau, no dia 11/4/2019, uma vez que "o crime pelo qual o sentenciado resgata reprimenda possui natureza hedionda, o que demonstra a necessidade de constatação de que ele possui condições pessoais para o benefício"; "além da gravidade do delito cometido, reata ainda longa pena a cumprir (TCP em 01.01.2028), sendo conveniente a realização de exame criminológico" (fls. 40-41).
+O aresto está em desacordo com a jurisprudência, firme em assinalar que "fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime" (EDcl no HC n. 269.044/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 6/4/2015).
+Para obtenção dos favores do sistema progressivo, exige-se do reeducando é que demonstre seu mérito no curso da execução, pois fatores relacionados ao delito pelo qual restou condenado já foram sopesados na sentença condenatória. O aresto estadual está em desacordo com a Súmula n. 439 do STJ, o que autoriza a pronta solução deste habeas corpus.
+A gravidade abstrata do crimes objeto da execução penal e a longa pena a cumprir, isoladamente, não constituem fundamentos idôneos para cassar a progressão ao regime semiaberto concedida pelo Juízo da VEC e determinar a submissão do paciente a exame criminológico.
+Era necessário, para cassação da benesse, a menção a algum comportamento desabonador mais ou menos recente do apenado durante o resgate das penas, a evidenciar a dúvida quanto ao requisito subjetivo, o que não ocorreu in casu.
+Ilustrativamente:
+2. Nos termos da jurisprudência desta Corte, desde a Lei n. 10.792/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade, ou não, de sua realização, podendo dispensá-lo ou, ao contrário, determinar sua realização, mediante decisão concretamente fundamentada na conduta do apenado no decorrer da execução. Precedentes.
+3. Fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal (HC 323553/SP, SEXTA TURMA, Relator Ministro NEFI CORDEIRO, Julgado em 18/08/2015, DJe 03/09/2015).
+4. In casu, o Juízo das Execuções, determinou a realização de exame criminológico sem a devida fundamentação, pois baseada na gravidade do delito praticado (homicídio qualificado) e na longa pena a cumprir pelo paciente (14 anos, 1 mês e 26 dias de reclusão).
+ ..
+(HC n. 469.233/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/12/2018).
+3. O Tribunal a quo cassou a progressão ao regime semiaberto e determinou a realização de exame criminológico com base em considerações genéricas relacionadas com a gravidade do delito de homicídio qualificado, sem que fosse apontado nenhum dado concreto que desmerecesse a conduta do Paciente. Fundamentação que evidencia o alegado constrangimento ilegal e o descumprimento da Súmula n.º 439/STJ, cuja exigência é a de que a determinação de exame criminológico seja precedida de motivação concreta.
+ ..
+(HC n. 277.502/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 3/4/2014).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus, in limine, para cassar o acórdão estadual e restabelecer a decisão do Juiz da Vara de Execuções Penais.
+Publique-se e intimem-se.
+Comunique-se ao Juiz da Execução depois do trânsito em julgado do decisum.
