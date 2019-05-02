@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu a liminar no HC n. 2092425-51.2019.8.26.0000.
+Nesta via, sustenta o impetrante, em síntese, que o paciente preenche os requisitos legais para a aplicação da minorante do tráfico privilegiado na fração máxima de 2/3 e para a conversão da pena privativa em restritiva de direitos.
+Alega a inexistência de motivação para o indeferimento ao paciente do direito de recorrer em liberdade, aduzindo, ainda, a ilegalidade da determinação da execução da sanção antes do trânsito em julgado da condenação.
+Requer a concessão sumária e definitiva da ordem constitucional para que seja aplicada a minorante do tráfico, alterado o regime prisional, substituída a pena privativa de liberdade por restritiva de direitos e deferido o direito de recorrer em liberdade.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fls. 104/105):
+Numa análise perfunctória, verifica-se que na r. sentença à fl. 143 o magistrado "a quo", ainda que de maneira sucinta, justificou as razões pelas quais mantinha a prisão preventiva.
+E o pedido de mitigação do regime prisional, requer análise mais apurada do "writ", o que importaria em indevida antecipação da tutela jurisdicional, suscetível de realizar-se somente por ocasião do julgamento do mérito do pedido.
+Diante desse quadro, melhor aguardar as informações que serão prestadas pela autoridade apontada como coatora quando se terá mais elementos para avaliar se o paciente está sendo submetido a algum constrangimento ilegal.
+A medida liminar em habeas corpus é cabível quando o constrangimento ilegal é manifesto e detectado de imediato através do exame sumário da inicial, o que não ocorre no presente caso.
+Dessa forma, INDEFIRO a liminar.
+Por fim, requisitem-se informações da autoridade judiciária apontada coatora, com remessa posterior dos autos à douta Procuradoria Geral de Justiça.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
