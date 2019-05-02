@@ -1,0 +1,34 @@
+DECISÃO
+[NOME] agrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdãos do Tribunal de Justiça do Estado de São Paulo proferidos na Revisão Criminal n. 0044173-22.2017.8.26.0000 e nos seus respectivos Embargos de Declaração.
+O agravante foi condenado pela prática do crime do art. 302, caput, do Código de Trânsito Brasileiro, a 2 anos de detenção, em regime aberto, substituídos por prestação de serviços à comunidade e 10 dias-multa, além da suspensão para dirigir veículo automotor por 6 meses.
+Após o trânsito em julgado, o apenado interpôs revisão criminal, a fim de ser absolvido, porquanto sustenta que a condenação foi contrária ao texto expresso da lei penal e à evidência dos autos, bem como fundou-se em depoimentos comprovadamente falsos. A Corte estadual, embora não haja conhecido do pedido absolutório - pela ausência das condições previstas no art. 621 do Código de Processo Penal -, reduziu o prazo da suspensão para dirigir a 2 meses (fls. 402-409). Opostos embargos declaratórios, o Tribunal a quo acolheu-os parcialmente, apenas com o objetivo de sanar erro material (fls. 421-426).
+Nas razões do especial, a defesa apontou violação dos arts. 621, I e II, e 386, III, ambos do CPP, e 90 do CTB (fls. 430-449), respectivamente, pelos seguintes motivos: "não conhecer da revisional é negar vigência à norma que a disciplina"; "Caso fosse feita a necessária revisitação aos autos originários, o Colendo Grupo de Câmaras concluiria pela completa ausência de provas que deveria culminar na absolvição do revisionando"; "chega-se à cristalina conclusão da ausência de sinalização no local do infortunado acidente, assim, incidiria a excludente de culpabilidade preconizada no art. 90 do CTB" (todos à fl. 436).
+Ademais, suscitou divergência jurisprudencial entre o decisum ora impugnado e acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, que acolheu revisão criminal.
+Requereu o julgamento procedente do REsp a fim de absolver o recorrente.
+O apelo raro foi inadmitido na origem por incidência da Súmula n. 7 do Superior Tribunal de Justiça e por ausência do cotejo analítico entre os arestos (fls. 480-481), o que ensejou a interposição deste agravo, no qual sustenta-se, em síntese, que "a Súmula 7 desta Colenda Corte Superior não é aplicável ao caso dos autos conforme irretocáveis arestos de ambas Turmas de nosso Pretório Excelso" (fl. 489) e que "foi detalhadamente explanada a identidade dos casos" (fl. 487).
+O Ministério Público Federal opinou pelo não conhecimento e pelo desprovimento do agravo (fls. 519-523).
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razões pelas quais comporta conhecimento. Todavia, reconheço o acerto da decisão agravada, porquanto a solução da controvérsia requer, de fato, o reexame do conjunto fático-probatório carreado aos autos e o cotejo analítico entre o decisum impugnado e o paradigma não foi realizado.
+Em relação à interposição do especial com base na alínea "c", verifico que a defesa deixou de realizar o devido cotejo analítico a fim de demonstrar a existência do alegado dissenso jurisprudencial, uma vez que não apontou a similaridade fática entre o caso em análise e o acórdão paradigma.
+Embora haja afirmado que ambos tratam de pedidos de revisão criminal com pleito absolutório, não detalhou a similitude com o delito pelo qual o agravante foi condenado, bem como entre as causas de pedir.
+Dessa forma, é inviável o conhecimento do recurso interposto, unicamente, pela alínea "c" do art. 105, III, da Constituição Federal.
+Ilustrativamente:
+ ..
+1. Não houve a demonstração da divergência jurisprudencial, tanto pela falta de indicação do dispositivo legal acerca do qual houve o dissenso, como em razão da ausência de cotejo analítico evidenciando a similitude fática e a diferente interpretação da lei federal.
+ ..
+4. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
+(REsp n. 1.247.629/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 25/11/2014, destaquei)
+Quanto à interposição do recurso especial com fundamento no art. 105, III, "a", da Constituição Federal, a defesa aduz a negativa de vigência dos arts. 621, I e II, e 386, III, ambos do CPP, e 90 do CTB e requer a absolvição do ora agravante.
+Inicialmente, saliento que a revisão criminal nem sequer foi conhecida pelo Tribunal de origem, razão pela qual não houve o prequestionamento necessário da matéria, conforme se observa no acórdão contestado (fls. 406 e 408, grifei):
+No tocante ao pedido absolvição, a hipótese é de não conhecimento da presente revisão criminal, porquanto carente daquelas condições imprescindíveis previstas no artigo 621, do Código de Processo Penal.
+Com efeito, o pleito revisional ora deduzido renova as razões que orientaram a apelação julgada pela 2a Câmara de Direito Criminal, sem apontar novas provas o que, segundo remansosa jurisprudência, impede o deferimento da revisão.
+O peticionário já teve a resposta jurisdicional revista por esta Corte e agora vale-se do presente instrumento processual, buscando reapreciação do acervo probatório que, como cediço, é inviável em sede revisional.
+Sem trazer qualquer prova nova, impossível a desconstituição das pretéritas decisões.
+ ..
+De outra parte, o pleito relativo à aplicação do disposto no art. 90, do Código de Trânsito Brasileiro é ligado à prova que, como visto, foi exaustivamente analisada no v.acórdão, que confirmou a responsabilidade do peticionário pelo homicídio culposo
+Assim, o conhecimento do REsp encontra óbice nos termos do enunciado da Súmula n. 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, entender pela absolvição do apenado demandaria a imersão vertical no mérito da ação penal, postura vedada a esta Corte Superior, pelo óbice da sua Súmula n. 7.
+Todavia, verifico que a Corte local não conheceu da ação revisional, por não estar preenchido o requisito previsto no art. 621, III, do CPP - ausência de novas provas. A defesa, contudo, interpôs a revisão criminal com base nos incisos I e II do artigo mencionado, o que configura falta de correlação entre o pedido e a ratio decidendi.
+Portanto, necessária a concessão de habeas corpus, de ofício, para que o Tribunal de origem aprecie novamente o pleito revisional, em conformidade com os fundamentos defensivos - art. 621, I e II, do Código de Processo Penal.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial. Concedo, entretanto, habeas corpus de ofício a fim de determinar que o Tribunal a quo reaprecie a possibilidade de revisão criminal, consoante a motivação trazida pela defesa.
+Publique-se e intimem-se.
