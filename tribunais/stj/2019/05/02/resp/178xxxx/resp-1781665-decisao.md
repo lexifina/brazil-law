@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CCR ENGENHARIA LTDA, mediante o qual se impugna acórdão, promanado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação. Mandado de Segurança. ISS. Segurança concedida para o fim de anular o lançamento e determinar a exclusão dos valores incidentes sobre os materiais empregados na execução do serviço. Recurso do município. Pretensão à reforma. Acolhimento. Afastamento da tese de inadequação da via eleita.
+Caso concreto em que o serviço foi prestado já na vigência da LC 116/2003, que tratou da questão de maneira diversa do artigo 9º do Decreto-Lei 406/1968 (objeto de análise no RE 603.497) e em sua lista própria passou a tratar de forma específica (item 7.02 e 7.05) o serviço prestado pela impetrante, só excluindo da base de cálculo do ISS o valor correspondente ao fornecimento de mercadorias produzidas pelo prestador, fora do local da realização dos serviços. Observância do artigo 2º, § 1º, da Lei de Introdução às Normas do Direito Brasileiro, com o afastamento do artigo 9º do Decreto-Lei 406/1968 do caso em análise. Incidência da regra geral pela qual os serviços especificados na lista anexa à Lei Complementar n.
+116/2003 e à lei do Município competente ficam sujeitos apenas ao ISS, ainda que sua prestação envolva o fornecimento de mercadorias, sendo a base de cálculo o valor total do serviço, sem o abatimento postulado.
+Honorários advocatícios incabíveis. Artigo 25 da lei 12.016/09.
+Recursos oficial e voluntário providos, para o fim de denegar a ordem pleiteada pela impetrante" (fl. 237e).
+No Recurso Especial, manejado com base nas alíneas a e c do permissivo constitucional, alega-se a existência de dissenso pretoriano e violação ao art. 9º, § 2º, do Decreto-lei 406/68.
+Sustenta-se, em síntese, o seguinte:
+"Como se observa nestas razões, clama a Recorrente para modificar o V.Acórdão guerreado, do E.TJSP, 18ª Câmara de Direito Público, pois o DL 406/68 é idêntico a LC 116/2003, ou seja, deve ser permitida a dedução do material de construção na base de cálculo do ISS.
+Patente a presença de dissídio jurisprudencial, pois no V. Acórdão apontado como dissidente trata de caso idêntico, uma vez que a base fática possui a mesma questão apresentada e provada nestes autos, que deva ser harmonizada pelo Egrégio Tribunal ad quem.
+A base de cálculo do ISSQN dos serviços 7.02 e 7.05 é somente o valor da mão de obra, art. 7º da Lei Complementar 116/03, as mercadorias adquiridas de terceiros - de lojas de materiais de construção, atacados, etc. - não são alcançados pela tributação do ISSQN, eis que já tributados pelo ICMS.
+Os itens 7.02 e 7.05 estão assim descritos na lista:
+(..)
+Este é o espírito da LC 116/03, tributar apenas o serviço, enquanto que as mercadorias ficam reservadas à tributação do ICMS. Assim, descabe tributar pelo ISSQN as mercadorias adquiridas de terceiros - lojas, atacadistas, fornecedores de material de construção.
+Determinar a inclusão das mercadorias na base de cálculo do ISSQN significa tributar duas vezes pelo mesmo fato gerador por impostos diversos, quais sejam: o ICMS na compra das mercadorias, eis que a circulação já vem tributada através do cálculo por dentro, sendo que em alguns estados está tributado pela substituição tributária e se incluir os materiais na base do ISSQN, acarretará a tributação também por este último" (fls. 288/289e).
+Requer-se, por fim, "seja dado seguimento ao presente Recurso Especial por presente os requisitos ensejadores do juízo de admissibilidade, aplicação da jurisprudência do STJ, notadamente, e, roga a modificação do V. Acórdão guerreado em seu inteiro teor, dando provimento ao recurso especial, diante da divergência jurisprudencial aduzida nas razões retro mencionadas, eis que os v. acórdãos trazidos como dissídio jurisprudencial demonstram a identificação com estes autos, com a uniformidade da jurisprudência nacional. Clama e roga a Recorrente o provimento para modificar o V.Acórdão guerreado, do E.TJSP, 18ª Câmara de Direito Público, para que seja permitida a dedução do material de construção na base de cálculo do ISS, restabelecendo-se a sentença de primeira instância, qual seja, a prolatada pela 22. Vara Cível da Comarca do Guarujá/São Paulo, que, desde já, fica requerido" (fls. 290/291e).
+Contrarrazões às fls. 391/396e.
+Recurso Especial admitido (fls. 399/401e).
+O presente recurso não merece prosperar.
+Ao negar a pretensão da ora recorrente, assim se manifestou, no que ora interessa, o Tribunal de origem:
+"A apelada não fez qualquer prova de que as mercadorias cujo valor pretende deduzir da base de cálculo do ISS foram produzidas por ela própria, fora do local da prestação dos serviços e submetidas ao recolhimento do ICMS. Assim, o valor total dos serviços prestados submete-se à regra geral do ISS sobre operações mistas, ou seja, quando em uma única prestação se tem fornecimento de mercadorias e a prestação de serviços, em regra é devido o ISS com base de cálculo sobre o valor total do serviço, salvo exceções inseridas na própria lista anexa à LC 116/2003.
+A definição do tributo devido em cada hipótese é extraída dos artigos 155, § 2º, IX, "b", da Constituição Federal; artigo 1º, § 2º da LC 116/2003 e; artigo 2º, IV, da LC 87/1996, dos seguintes teores:
+(..)
+E, em observância ao preceituado na Constituição Federal, a disposição foi repetida, a "contrario sensu", na Lei Complementar n. 116/03, que regula de forma geral o ISS: (..)" (fls. 242/243e).
+Conforme se observa, o acórdão recorrido apoia-se, também, em fundamentação constitucional. Como não houve a interposição do necessário Recurso Extraordinário, tem-se que é caso de aplicação da Súmula 126/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Sem honorários. Mandado de Segurança.
+I.
