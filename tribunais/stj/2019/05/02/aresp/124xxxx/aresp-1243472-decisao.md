@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por GRAINGER MARITIME CORPORATION em face de decisão que inadmitiu recurso especial, ao fundamento de que "..observado o limite legal, a orientação judicial para o arbitramento da verba honorária advocatícia baseia-se em fatos e provas, sendo insuscetíveis de revisão pela via restrita do recurso especial." e, portanto, incidente a Súmula 07 do STJ (e-STJ, fl. 1.555/1556).
+Inconformado com a inadmissão, sobreveio o presente agravo.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, o recurso especial foi inadmitido porque ".. o arbitramento da verba honorária advocatícia baseia-se em fatos e provas, sendo insuscetíveis de revisão pela via restrita do recurso especial." e, portanto, aplicável o óbice da Súmula 07 do STJ (e-STJ, fls. 1555/1556).
+Entretanto, nas razões do agravo em recurso especial a parte limitou-se a afimar que: a) "..merece ser reformada a r. decisão que inadmitiu subisse o Recurso Especial para o STJ, vez que os seus fundamentos não tem o condão de impedir a análise da matéria recursal por tal instancia." (e-STJ, fl. 1565) (sic); b) "Não obstante à esta Ré também vencedora, pasmai, foram dados apenas R$ 3.000,00, desajuste que não está, definitivamente, no espírito da lei antiga (§ 4º do art. 20 do CPC) e muito menos na atual, na qual se apoiou o Nobre Examinador do Recurso, para negar-lhe admissibilidade." (e-STJ, fl. 1566); c) "Não existia, por outro lado, na disposição do § 41 do art. 20 do CPC, disposição que estigmatizasse ou determinasse a inferioridade ou o dêsvalor dos advogados de réus, em relação aos de Autores." (e-STJ, fl. 1569) (sic); e d) "A questão, é de rigor frisar, não é só econômica, é, também, de caráter alimentar, moral, de auto-estima" (e-STJ, fl. 1569). Em resumo, restringiu-se o agravante a afirmar que não pode haver discriminação entre a verba honorária dos advogados dos autores e dos réus, e que os honorários têm caráter alimentar.
+Assim sendo, o agravante não demonstrou a inadequação do fundamento utilizado pelo Tribunal de origem para inadmitir o recurso especial, deixando de impugnar de forma específica a aplicação do óbice do enunciado sumular nº 07/STJ, ou seja, que o arbitramento da verba honorária advocatícia baseia-se em fatos e provas, não sendo possível, em sede de especial, sua revisão. O agravante deveria mencionar que o referido enunciado deve ser afastado, além de demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias.
+Desta maneira, a falta de ataque aos fundamentos da decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inc. III, do CPC/2015 (art. 544 do CPC/1973).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. INOBSERVÂNCIA DO ART. 932, III, DO CPC/2015. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Ao analisar as razões do Agravo em Recurso Especial, verifica-se que a parte agravante deixou de proceder à efetiva impugnação dos fundamentos da decisão de admissibilidade, pois deixou de atacar a questão da incidência das Súmulas 5 e 7 do STJ.
+2. Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+3. O art. 932, III, do Código de Processo Civil de 2015 prevê, como atribuição do relator, "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+4. Agravo Interno não provido.
+(AgInt no AREsp 1.339.089/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2018, DJe de 09/11/2018) (grifei)
+Portanto, em que pese os argumentos da agravante, o não conhecimento do agravo é medida que se impõe.
+Ante o exposto, com base no art. 932, inc. III, do CPC/2015, não conheço do agravo em recurso especial interposto por GRAINGER MARITIME CORPORATION.
