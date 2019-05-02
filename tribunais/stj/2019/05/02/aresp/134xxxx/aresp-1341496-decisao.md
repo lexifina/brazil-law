@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Rio Grande do Norte contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 275):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. PRELIMINAR: NULIDADE DO PROCESSO POR CERCEAMENTO DE DEFESA SUSCITADA PELA PROCURADORIA DE JUSTIÇA. PROVAS DOS AUTOS NÃO CONCLUSIVAS. MATÉRIA CONTROVERTIDA. PEDIDO DE PRODUÇÃO DE PROVA TESTEMUNHAL REQUERIDA PELA PARTE AUTORA SEQUER ANALISADO PELO JULGADOR. DILIGÊNCIA DETERMINADA PELO JUIZ NÃO REALIZADA. CERCEAMENTO DE DIREITO DE DEFESA CARACTERIZADO. ACOLHIMENTO DA PRELIMINAR SUSCITADA. SENTENÇA ANULADA. PRECEDENTES DESTA CORTE. PROVIMENTO DO APELO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 370, 371 e 373, I, do CPC/2015. Sustenta, em síntese, que "o acórdão contraria as regras processuais que dão ao juiz, destinatário das provas produzidas no processo, o poder de eleger quais provas devem ser produzidas" (fl. 293), pois, o juízo primevo ficou convencido de que o processo estava maduro para julgamento, sendo legítimo julgar o feito sem produzir prova testemunhal.
+Defende que "A retomada da instrução probatória a esta altura do feito, a rigor, inclusive em se tratando de prova testemunhal, em nada influenciaria, até por sua fragilidade como prova, na decisão do magistrado, que já estava convencido pela improcedência da ação; afinal, faltavam (faltam) provas materiais essenciais à resolução da controvérsia, como bem restou consignado em sua decisão" (fl. 294).
+Foram apresentadas contrarrazões ao recurso especial às fls. 304/312.
+O Ministério Público Federal opinou pelo não provimento do agravo em recurso especial (fls. 354/357).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso, observa-se que o Tribunal de origem não solucionou a controvérsia à luz dos dispositivos tidos por violados, tampouco foram opostos embargos de declaração para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
