@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão, assim ementada (fl. 181):
+PROCESSUAL CIVIL. RECLAMAÇÃO. PRETENSÃO PELA APLICAÇÃO DO ENTENDIMENTO ASSENTADO NO JULGAMENTO DO RESP N. 1.091.539/AP, SUBMETIDO AO RITO DOS RECURSOS REPETIVOS. CONTROVÉSIA NÃO TRATADA PELO ACÓRDÃO RECLAMADO. OBSERVÂNCIA DE QUE A RECLAMANTE INTERPÔS RECURSO ESPECIAL CONTRA O ACÓRDÃO, O QUAL ASCENDEU A ESTA CORTE SUPERIOR E FOI APRECIADA A SUA NÃO ADMISSÃO NOS AUTOS DO AGINT NO ARESP N. 1.241.689/SP. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PEDIDO INDEFERIDO LIMINARMENTE.
+A embargante alega ser a decisão é omissa e contraditória ao não admitir o trânsito da reclamação, pois " ..  a Turma Julgadora do Regional recusou-se a apreciar, nos EDCL opostos, o confronto da tese adotada no acórdão reclamado com o assentado no REsp n. 1.091.539/AP, cuja nulidade, por infração do art. 535, do CPC/73, foi arguida fundamentadamente no REsp ajuizado, e, em consequência, o conhecimento deste remédio constitucional pelo mérito".
+Sem impugnação.
+Ciência do Ministério Público Federal à fl. 206.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, a embargante afirma, em síntese, que há omissão e/ou contradição na decisão em não se reconhecer que o acórdão proferido pela Corte de origem (TJ/SP) deixou de tratar da aplicação do REsp n. 1.091.539/AP, julgado por esta Corte Superior sob o rito dos recursos repetitivos.
+Com efeito, a decisão embargada indeferiu o processamento da reclamação em razão de a reclamante utilizá-la como substitutivo de recurso. E assim o fez, nos seguintes termos (fls. 182-184):
+Historiam os autos tratar-se de reclamação que tem por objetivo cassar acórdão proferido pela 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo e, ao mesmo tempo, suspender o andamento do AgInt no AResp n. 1.241.689/SP em trâmite nesta Corte Superior.
+Com efeito, segundo consta dos autos, a reclamante ajuizou uma primeira ação de indenização contra a Fazenda Pública do Estado de São Paulo, em razão de ter sido exonerada de cargo em comissão no período de gravidez. O pleito foi extinto, sem julgamento do mérito, ante o reconhecimento da ilegitimidade passiva da ré.
+Nova ação foi então proposta pela ora reclamante, agora contra o Centro Estadual de Educação Paula Souza, e julgada improcedente pelo Tribunal de origem em sede de apelação e reexame necessário, pois reconhecida a prescrição. Do referido julgamento, a reclamante interpôs recurso especial que, inadmitido, ascendeu a esta Corte Superior por meio do AResp n. 1.241.689/SP. O agravo em recurso especial não foi conhecido por decisão da Presidência do Superior Tribunal de Justiça, tendo sido mantido o seu não conhecimento em sede de agravo interno pela Primeira Turma, na sessão de 27/11/2018, cujo acórdão contém a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+2. Agravo interno não provido.
+Registra-se que a reclamante já havia protocolado outra Reclamação (Rcl n. 33.169/SP), não conhecida por este relator (DJe de 12/12/2017), e na qual também foi apresentada a mesma controvérsia de fundo - pedido de afastamento da prescrição.
+Feitos esses esclarecimentos, tem-se que o pedido não deve ter seguimento nesta Corte Superior, isso porque a situação narrada pela reclamante não se amolda a qualquer das hipóteses de cabimento da reclamação previstas no artigo 988 do CPC.
+O acórdão reclamado (fls. 30-36) não tratou da controvérsia sobre a aplicabilidade do que foi decidido no julgamento do REsp n. 1.091.539/AP, Rel. Ministra Maria Thereza de Assis Moura, Terceira Seção. Não há, portanto, descumprimento de tese firmada em sede de recurso representativo da controvérsia.
+Por outro lado, diversamente do que propõe a reclamante, esta Corte Superior não manteve o acórdão ora reclamado com o julgamento do AgInt no AResp n. 1.241.689/SP, pois seu agravo em recurso especial, ao final, nem sequer foi conhecido por vício intrínseco contido no recurso (falta de impugnação específica à decisão do TJ/SP que inadmitiu inicialmente o recurso especial).
+O que se tem, portanto, é nova reclamação ajuizada com nítido caráter de sucedâneo recursal, o que, como assente nesta Corte Superior, é inadmissível.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. ART. 988, § 5º, II, DO CPC. RECURSO ESPECIAL PENDENTE DE PROCESSAMENTO NO TRIBUNAL DE ORIGEM. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+1. Conforme previsão expressa do art. 988, § 5º, inciso II, do CPC, é inadmissível a reclamação proposta para garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo quando não esgotadas as instâncias ordinárias.
+2. In casu, a reclamação foi ajuizada em face de acórdão prolatado no julgamento do recurso de apelação, ao mesmo tempo em que foi interposto recurso especial, do qual pende o exame de admissibilidade pela Corte de origem, conforme se extrai da petição inicial. Encontrando-se ainda pendente de processamento o recurso especial pela Corte a quo, inviável a admissão da presente reclamação que reclama o descumprimento de decisão do STJ prolatada em recurso especial julgado sob o rito dos recursos repetitivos.
+3. A reclamação constitui-se como medida excepcional, não podendo ser utilizada como sucedâneo recursal, nos termos da jurisprudência do Supremo Tribunal Federal e deste Superior Tribunal de Justiça.
+4. Agravo interno não provido (AgInt nos EDcl na Rcl 35.329/RS, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 03/10/2018).
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. VIOLAÇÃO À JURISPRUDÊNCIA DO STJ. DESCABIMENTO.
+1. A mera contrariedade à jurisprudência desta Corte Superior não autoriza o manejo da reclamação, porquanto tal via se caracteriza como uma demanda de fundamentação vinculada, ou seja, cabível tão somente nas situações estritamente previstas no art. 988 do CPC.
+Intuito de utilização da reclamação como sucedâneo recursal, o que não é admissível. Precedentes.
+2. Agravo interno não provido (AgInt na Rcl 36.132/SC, Rel. Min. Luis Felipe Salomão, Segunda Seção, DJe 20/11/2018).
+Assim, não se evidencia omissão ou contradição, mas nova pretensão pelo processamento da reclamação indeferida liminarmente, o que desborda das hipóteses contidas no artigo 1.022 do CPC.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
