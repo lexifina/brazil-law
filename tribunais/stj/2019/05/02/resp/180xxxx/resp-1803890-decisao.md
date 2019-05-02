@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que deu provimento ao agravo em execução do órgão ministerial para afastar a extinção da punibilidade do recorrente pela ocorrência da prescrição da pretensão executória (e-STJ, fl. 56).
+Os elementos existentes nos autos indicam que o recorrente estava cumprindo pena privativa de liberdade decorrente da Ação Penal 5008807-61.2013.4.04.7002, quando o Juízo da execução declarou extinta a punibilidade do condenado pela ocorrência da prescrição da pretensão executória, por entender que o marco inicial para a contagem do prazo prescricional seria a data do trânsito em julgado para a acusação.
+A decisão foi reformada pela Corte de origem, em agravo em execução do Parquet, para afastar a extinção da punibilidade do recorrente pela ocorrência da prescrição da pretensão executória, como o entendimento de que o prazo prescricional inicia com o trânsito em julgado para ambas as partes (e-STJ, fl. 56).
+Nas razões do recurso especial (e-STJ, fls. 69/82), a defesa alega ofensa ao art. 112, inciso I, primeira parte, do Código Penal, sustentando que, ao contrário do firmado no aresto objurgado, a prescrição da pretensão executória terá como termo inicial o dia em que a sentença transitou em julgado para a acusação.
+Requer, ao final, o provimento da irresignação para reforma do acórdão recorrido.
+Contrarrazoada a insurgência (e-STJ, fls. 87/89), após o juízo prévio de admissibilidade (e-STJ, fl. 102), os autos ascenderam a este Superior Tribunal.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do inconformismo (e-STJ, fls. 116/120).
+É o relatório.
+Decido.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do tema trazido à discussão no recurso especial, assim ficou assentado pela Corte a quo, ipsis litteris:
+Nessa linha, quando impedido de promover a execução não pode o órgão acusatório ser onerado com o transcurso do prazo de prescrição da pretensão executória, também neste caso concreto, em que a condenação para ambas as partes somente transitou em julgado em 05/10/2015 (evento 41 CERTRAN33 dos autos da apelação criminal 50088076120134047002), não pode o Ministério Público Federal, incumbido de promover a execução da pena, ver obstada a promoção da execução antes do transcurso do prazo prescricional cujo termo inicial é o trânsito em julgado para ambas as partes. (e-STJ, fl. 55)
+Depreende-se do excerto transcrito que o Tribunal de origem decidiu em confronto com a jurisprudência deste Superior Tribunal de Justiça no sentido de que o termo inicial do prazo de prescrição da pretensão executória estatal é a data do trânsito em julgado da condenação para a acusação nos exatos termos do art. 112, inciso I, do Código Penal.
+A propósito:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, INCISO I, DA LEI N. 8.137/1990. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. DESNECESSIDADE DE CONCOMITANTE TRÂNSITO PARA A DEFESA. PRECEDENTES.
+I - Esta Corte Superior de Justiça sedimentou entendimento no sentido de que "conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado." (AgRg nos EAREsp 908.359/MG, Terceira Seção, Rel. Ministro Nefi Cordeiro, DJe de 02/10/2018).
+II - Nos termos do art. 110, caput, do Código Penal, a prescrição depois do trânsito em julgado da sentença condenatória é regulada pela pena aplicada. Considerando a sanção cominada de 2 (dois) anos de reclusão, substituída por duas penas restritivas de direito; e ao pagamento de 10 (dez) dias-multa, a prescrição ocorre em 4 (quatro) anos, nos termos do art. 109, inciso V, do Código Penal.
+III - Na hipótese dos autos, a sentença condenatória transitou em julgado para o Ministério Público estadual em 23/10/2013, assim, o início da execução da pena deveria ter ocorrido até 22/10/2017. Agravo regimental desprovido.
+(AgRg no REsp 1792842 / PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, Julgado em 26/03/2019, DJe 01/04/2019)
+DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ARTS. 109 E 180 DO CP. DELITO DE RECEPTAÇÃO. CONCURSO MATERIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA E EXECUTÓRIA ESTATAL. EXTINÇÃO DA PUNIBILIDADE. NO CASO DE CONCURSO DE CRIMES, A EXTINÇÃO DA PUNIBILIDADE INCIDIRÁ SOBRE A PENA DE CADA UM, ISOLADAMENTE. OCORRÊNCIA.
+1. À luz do Código de Processo Penal, em seu art. 61, o Magistrado está autorizado a reconhecer de ofício a extinção da punibilidade, in verbis: em qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, deverá declará-lo de ofício.
+2. Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (EDcl no AgRg no AREsp n. 586.084/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/9/2018).
+3. O curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório, o que for prolatado em primeiro lugar. O acórdão que apenas confirma a sentença de primeiro grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição.
+4. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+5. Agravo regimental improvido.
+(AgRg no REsp 1706916 / MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, Julgado em 11/12/2018, DJe 04/02/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para restabelecer a decisão do Juízo de execução.
+
+Publique-se. Intimem-se.
