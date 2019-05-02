@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que possuiu a seguinte ementa (e-STJ fl. 226):
+EXECUÇÃO FISCAL. FALTA DE INTERESSE RECURSAL. FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS.
+1. Não se conhece de parte da apelação em relação à qual inexiste interesse recursal do apelante.
+2. Vencida a Fazenda Pública, os honorários advocatícios devem ser fixados nos termos do §3º, do art. 85, do CPC (Lei 13.105, de 2015), observando-se as diretrizes estabelecidas nos incisos I a IV do § 2º e nos §§ 5º e 6º do referido dispositivo.
+3. Interposto recurso, impõe-se a fixação de honorários sucumbenciais recursais, por força do art. 85, § 11, do CPC.
+Os embargos de declaração opostos foram rejeitados. Transcrevo a ementa do julgado (e-STJ fl. 248).
+EMBARGOS DE DECLARAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. VÍCIOS DO ART. 1.022 DO CPC DE 2015. INEXISTÊNCIA.
+Devem ser rejeitados os embargos de declaração que buscam afastar a majoração dos honorários advocatícios, determinada no acórdão com base no § 11 do art. 85 do Código de Processo Civil vigente, por não se tratar de vício do julgado, mas de aplicação de entendimento diverso do que tem a embargante.
+Nas razões de recurso (e-STJ fls. 254/262), a Fazenda aponta violação do art. 1.022, II, parágrafo único, inciso II, do CPC/2015. Segundo entende, o acórdão dos aclaratórios:
+i) não teria analisado o fato de não terem sido apresentadas contrarrazões ao recurso de apelação, razão pela qual não se justificaria a elevação da verba honorária (e-STJ fl. 256).
+ii) não teria motivado a escolha do percentual dos honorários que foram fixados (e-STJ fl. 256).
+Superada a questão, a Fazenda aponta negativa de vigência do art. 85, § 11 do CPC/2015, ao argumento de que não se vislumbra no caso em tela o ""trabalho adicional" a justificar a majoração dos honorários em favor do advogado da parte contrária, pois "sequer foram apresentadas contrarrazões de apelação  ..  memoriais nem sustentação oral"(e-STJ fls. 260/261).
+Acrescenta que o STF, ao julgar o Ag.Reg. nos Emb. Div. no Ag.Reg. no Recurso Extraordinário com Agravo 901.828, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 21/02/2017, considerou que "não incide o art. 85, § 11, do CPC/2015 se a parte não apresenta contrarrazões recursais" (e-STJ fl. 262).
+As contrarrazões foram oferecidas (e-STJ fls. 265/269).
+O recurso foi admitido à e-STJ fl. 273.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Feita essa consideração, cabe ressaltar, inicialmente, que o recurso especial tem origem em execução fiscal, extinta em primeiro grau de jurisdição, com fundamento no art. 783 do CPC/2015 (e-STJ fls. 194/196), diante da "suspensão da exigibilidade do crédito prevista no artigo 151, inciso V, do CTN" (e-STJ fl.195).
+O Tribunal de origem negou provimento ao recurso de apelação. Destaco os fundamentos que deram suporte ao julgado (e-STJ fls. 223/225):
+Cinge-se a matéria devolvida ao conhecimento deste Tribunal acerca da possibilidade de redução dos honorários advocatícios em que condenada a União.
+Pois bem.
+O Código de Processo Civil atualmente em vigor traz disposição específica para o arbitramento de honorários nos casos em que a Fazenda Pública for vencida. Confira-se:
+ ..
+Os únicos casos em que o magistrado não fica adstrito àqueles percentuais estão previstos no § 8º do mesmo dispositivo, segundo o qual "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+Partindo dessas premissas e levando em conta que, através da apresentação de exceção de pré-executividade, comprovou a apelada que o crédito tributário estava com a sua exigibilidade suspensa no momento em que ajuizada a execução fiscal, entendo que o critério adotado pelo juízo de origem ao fixar os honorários advocatícios foi ao encontro do que dispõe o Código de Processo Civil (Lei nº 13.105, de 2015), aplicando-se, inclusive, os menores percentuais previstos no art. 85, § 3º, da aludida lei. Dessa forma, entendo que não há razão à apelante quanto à possibilidade de redução da verba honorária.
+Por fim, majoro para 11%, sobre o valor de R$ 176.000 (fixado nos termos do art. 85, § 3º, I, do CPC), e para 9%, sobre o valor de R$ 52.172,12 (fixado nos termos do art. 85, § 3º, II, do CPC), os honorários fixados pelo juízo de 1º Grau, o que faço com força no art. 85, §11, do Código de Processo Civil.
+Dispositivo
+Ante o exposto, voto por conhecer em parte da apelação e, nessa extensão, negar-lhe provimento.
+Ao examinar os embargos de declaração, a Corte de origem acrescentou (e-STJ fls. 244/246):
+No caso, os honorários advocatícios fixados pelo magistrado de origem foram acrescidos do percentual mínimo de 1%, por força do § 11 do art. 85 do CPC/2015. Confira- se:
+ ..
+A União, por sua vez, defende a impossibilidade de majoração dos honorários advocatícios pelos termos do §11 do art. 85 do CPC/2015, uma vez que não houve a apresentação de contrarrazões pela ora embargada, o que não representa trabalho adicional pelo seu procurador.
+Ocorre que a majoração dos honorários determinada no julgado está baseada no entendimento de que tal dispositivo não visa apenas a remunerar o trabalho supletivo dos advogados, mas também desestimular recursos procrastinatórios. Nesse sentido, já se manifestou o Supremo Tribunal Federal:
+ ..
+Daí se segue que, mesmo não sendo apresentadas contrarrazões, é devida a aplicação do § 11 do artigo 85 do Código de Processo Civil, valendo observar que a expressão "levando em conta o trabalho adicional" diz respeito à possibilidade de que esse trabalho influa no quanto serão majorados os honorários, não sendo indispensável, porém, para que seja determinada a majoração.
+Portanto, não é o caso de acolhimento dos embargos, que não se prestam para a modificação do julgado.
+Pois bem.
+A pretensão recursal não merece acolhimento.
+Com efeito, não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Na hipótese dos autos, conforme acima transcrito, acerca das questões que a Fazenda entende não terem sido apreciadas, a Corte de origem assim decidiu (e-STJ fl. 246):
+No caso, os honorários advocatícios fixados pelo magistrado de origem foram acrescidos do percentual mínimo de 1%, por força do § 11 do art. 85 do CPC/2015.
+ ..
+Ocorre que a majoração dos honorários determinada no julgado está baseada no entendimento de que tal dispositivo não visa apenas a remunerar o trabalho supletivo dos advogados, mas também desestimular recursos procrastinatórios. Nesse sentido, já se manifestou o Supremo Tribunal Federal:
+ ..
+Daí se segue que, mesmo não sendo apresentadas contrarrazões, é devida a aplicação do § 11 do artigo 85 do Código de Processo Civil, valendo observar que a expressão "levando em conta o trabalho adicional" diz respeito à possibilidade de que esse trabalho influa no quanto serão majorados os honorários, não sendo indispensável, porém, para que seja determinada a majoração.
+Desse modo, não se vislumbra nenhuma deficiência na fundamentação contida nos acórdãos recorridos, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou contradição na prestação jurisdicional.
+No que diz respeito à questão central do recurso (possibilidade de majoração dos honorários recursais quando não há apresentação de contrarrazões ao recurso), a pretensão da Fazenda não encontra amparo na atual orientação deste STJ.
+Destaco:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. DECISÃO DE ADMISSIBILIDADE NO TRIBUNAL DE ORIGEM. PUBLICAÇÃO APÓS A VIGÊNCIA DO CPC/2015. COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO RECURSO. NECESSIDADE DE DOCUMENTO IDÔNEO. JUNTADA POSTERIOR. IMPOSSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. TRABALHO ADICIONAL. INEXIGIBILIDADE. PRECEDENTES.
+1. Em se tratando de recurso especial já interposto na vigência do CPC/2015, a interpretação sistemática dos arts. 1.029, § 3º, e 1.003, § 6º, do CPC/2015 impossibilita a mitigação ao conhecimento de recurso intempestivo. Assim, quando a parte recorrente não comprovar, no momento da interposição do apelo nobre, o feriado alegado, opera-se a preclusão consumativa, não havendo como afastar a intempestividade de tal recurso. Nesse sentido: AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017.
+2. Para a majoração dos honorários advocatícios de que trata o art. 85, § 11, do CPC/15, "não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba" (AgInt nos EDcl no REsp 1.357.561/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 19/04/2017). Precedentes do STF e do STJ: RE 915.341 AgR-ED-EDv-AgR, Rel. Ministro Dias Toffoli, Tribunal Pleno, Processo Eletrônico, DJe 02/08/2018; e AgInt no AREsp 1.174.841/PB, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 25/05/2018.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.316.458/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/11/2018, DJe 06/12/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICITUDE DE CLÁUSULA CONTRATUAL. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS. ART. 85, § 11, DO CPC/2015. TRABALHO ADICIONAL. COMPROVAÇÃO DESNECESSÁRIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 2. No caso concreto, o Tribunal de origem concluiu pela ilegalidade da cláusula contratual, por não ter sido clara quanto ao período de carência. Alterar esse entendimento demandaria reexame do acervo probatório dos autos, providência vedada em recurso especial.
+3. Para fins de aplicação do § 11 do art. 85 do CPC/2015, não se exige comprovação de trabalho adicional do advogado no grau recursal, tratando-se apenas de critério de quantificação da verba.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.174.841/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/05/2018, DJe 25/05/2018).
+Incide, portanto, a Súmula 83 do STJ (não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 30/8/2016).
+Acerca da questão, acrescento que o entendimento mais atual do Supremo Tribunal Federal também desautoriza a pretensão fazendária, valendo destacar, a título ilustrativo, os seguintes julgados:
+EMENTA Agravo regimental nos embargos de divergência nos embargos de declaração no agravo regimental no recurso extraordinário. Processual civil. Não atendimento dos requisitos de admissibilidade dos embargos de divergência. Jurisprudência firmada na Corte no sentido do acórdão embargado. Não cabimento dos embargos de divergência. Precedentes. 1. À luz do art. 332 do RISTF, não são cabíveis os embargos divergentes quando o posicionamento do Plenário ou de ambas as Turmas se encontrar firmado na mesma direção da decisão embargada. 2. O Supremo Tribunal Federal, no julgamento da AO nº 2.063/CE-AgR, firmou o entendimento de ser cabível a majoração dos honorários advocatícios mesmo quando não houver a apresentação de contrarrazões pelo advogado. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.
+(RE 915.341 AgR-ED-EDv-AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 22/06/2018, PROCESSO ELETRÔNICO DJe-154 DIVULG 01-08-2018 PUBLIC 02-08-2018).
+Agravo regimental em recurso extraordinário. 2. Direito do Consumidor. 3. Plano de Saúde. Contrato coletivo. Rescisão unilateral. 4. Alegada violação ao princípio da legalidade. Súmula 636. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 6. Necessidade de reexame do acervo probatório e de cláusulas contratuais. Súmulas 279 e 454 do STF. Precedentes. 7. Arguição pela não aplicação dos honorários recursais ante a ausência de contrarrazões. Descabimento. Majoração como forma de desestímulo aos recursos protelatórios. Precedentes. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Negativa de provimento ao agravo regimental.
+(RE 1138109 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 10/09/2018, PROCESSO ELETRÔNICO DJe-202 DIVULG 24-09-2018 PUBLIC 25-09-2018).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
