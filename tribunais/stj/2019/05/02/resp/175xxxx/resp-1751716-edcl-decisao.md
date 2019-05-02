@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] contra decisão que determinou a devolução dos autos ao Tribunal de origem, com a respectiva baixa dos autos, para que se faça a adequação ao acórdão proferido no recurso com repercussão geral e, em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Aduz o embargante, em síntese, que a decisão impugnada foi omissa quanto ao tema debatido no recurso especial. Afirma que a tese tratada no apelo nobre é voltada estritamente à discussão acerca da existência de trânsito em julgado material da decisão recorrida, não sendo a questão jurídica afetada por repercussão geral objeto de questionamento nos presentes autos.
+Defende, assim, que fica "cristalino que o presente recurso especial trata tão somente da imutabilidade da coisa julgada material, a qual não foi apreciada na decisão ora embargada, e não, sobre a aplicabilidade do art. 1º-F da Lei n. 9.494/1997, com a redação da Lei n. 11.960/2009, a qual é objeto de repercussão geral de n. 810, no STF" (e-STJ, fl. 334).
+Impugnação aos embargos de declaração apresentada às e-STJ, fls. 339-353.
+É o relatório.
+A irresignação não merece acolhida.
+Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado e corrigir erros materiais.
+O CPC/2015 equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+No caso, não estão presentes quaisquer vícios autorizadores do manejo dos embargos declaratórios, estando evidenciado o exclusivo propósito do embargante em rediscutir o mérito das questões já devidamente examinadas.
+Com efeito, a decisão embargada concluiu pela devolução dos autos ao Tribunal de origem para os fins dos arts. 1.039 e 1.040 do CPC/2015, pois, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e este Tribunal Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, na Corte a quo, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação.
+O fato de o objeto do apelo nobre ser mais amplo do que a matéria discutida no recurso extraordinário, com repercussão geral reconhecida, não impede o seu retorno à origem, visto que, em atenção ao princípio da economicidade, todas as questões suscitadas no apelo especial devem ser analisadas em momento posterior à resolução do recurso extraordinário aludido, porquanto de nada adiantaria analisar toda a fundamentação trazida a lume e esbarrar, ao final, na questão sobrestada.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. RESPONSABILIDADE DA ADMINISTRAÇÃO. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Segundo o artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+II - Não merece ser acolhido o pleito da parte embargante de que a decisão foi omissa ao não majorar os honorários advocatícios, uma vez que o recurso especial foi interposto sob a vigência do Código de Processo Civil de 1973 (25/6/2013, fl. 349), e consoante o Enunciado Administrativo n. 7 do STJ, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+III - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.095.163/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 14/2/2018)
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade na decisão impugnada, e, sim, rediscutir o que aqui ficou claro e coerentemente decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
