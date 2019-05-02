@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 642, e-STJ):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE JURISDIÇÃO. INOCORRÊNCIA NO CASO CONCRETO. EXTINÇÃO DA FASE DE CUMPRIMENTO DE SENTENÇA PELO PAGAMENTO. INOCORRÊNCIA NO CASO CONCRETO. SALARIAL. BASE DE CÁLCULO DA REVISÃO. DE ACORDO COM A PREVISÃO DO § 3º DO ART. 2º DO ESTATUTO DA CAIXA DE AUXÍLIO DOS FUNCIONÁRIOS DO BANCO NACIONAL DO COMÉRCIO S/A, VERIFICA-SE QUE NÃO HÁ POSSIBILIDADE DE INCLUSÃO NA BASE DE CÁLCULO DA REVISÃO DA COMPLEMENTAÇÃO DE APOSENTADORIA OS VALORES. PERCENTUAL DE REALINHAMENTO A SER APLICADO NO ANO 1995. 18,03%. OS JUROS DE MORA DEVEM SER APLICADOS NO PERCENTUAL DE 6% AO ANO ATÉ 10/01/2013, POSTERIORMENTE A ISSO APLICADO-SE 12% AO ANO.
+Agravo de instrumento parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 675/680, e-STJ).
+Em suas razões de recurso especial (fls. 686/695, e-STJ), o recorrente aponta violação aos arts. 489, § 1º, inc. IV, 1.022, inc. II, do Código de Processo Civil de 2015, sob o argumento, em síntese, da existência de omissão no acórdão recorrido acerca da matéria alegada nos embargos de declaração, relativa à "extinção da execução, desprezando as provas juntadas às fls. 132/168 e 183/257, visto que o embargante comprovou nos autos do processo 001/1.05.0121441-4 (que tramitou junto à 7ª Vara Cível e foi proposto pelo mesmo autor e mesmos procuradores da presente ação) comprovou o prévio adimplemento dos reajustes liquidados na presente ação".
+Contrarrazões às fls. 715/732, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC/15, eis que suficiente a fundamentação do acórdão recorrido; e b) o acolhimento da pretensão recursal demandaria o reexame do suporte fático dos autos, atraindo a incidência da Súmula 07 do STJ.
+Daí o agravo (fls. 744/758, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 772/789, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Efetivamente, não se verifica ofensa aos arts. 489, § 1º, e 1.022, inc. II, do CPC/15, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018 .
+Alegou a parte recorrente que o acórdão impugnado restou omisso acerca da "extinção da execução, desprezando as provas juntadas às fls. 132/168 e 183/257, visto que o embargante comprovou nos autos do processo 001/1.05.0121441-4 (que tramitou junto à 7ª Vara Cível e foi proposto pelo mesmo autor e mesmos procuradores da presente ação) comprovou o prévio adimplemento dos reajustes liquidados na presente ação".
+No entanto, o Tribunal de origem se manifestou expressamente sobre a referida questão, consignando que (fls. 645, e-STJ):
+De igual sorte, não há se falar em extinção da demanda em razão de alegado pagamento das verbas referentes ao realinhamento de 1995 no bojo da ação ordinária nº 001/ 1.05.0121441-4 que tramitou junto à 7ª Vara Cível na medida em que tal demanda apresenta objeto distinto.
+Nesse contexto, correta a decisão agravada no sentido de que, de acordo com os documentos juntados aos autos, especialmente o documento de fl. 192, comprovam que o impugnante não implementou a vantagem que lhe foi alcançada na sentença, ao seu benefício, razão pela qual descabe a extinção do feito por adimplemento.
+Como visto, a tese da insurgente foi apreciada pelo Tribunal a quo, ainda que em sentido contrário a sua pretensão recursal.
+Não há que se falar, portanto, em qualquer vício, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado. Afasta-se, portanto, a alegada violação aos artigos 489, § 1º, e 1.022, inc. II, do CPC/15.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
