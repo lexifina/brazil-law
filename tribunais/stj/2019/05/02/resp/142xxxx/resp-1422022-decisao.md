@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 247):
+TRIBUTÁRIO. IRPF. CRÉDITO RECONHECIDO JUDICIALMENTE. INCIDÊNCIA SOBRE O SOMATÓRIO DE VERBAS TRABALHISTAS PAGAS EM ATRASO. PRESCRIÇÃO. INCIDÊNCIA SOBRE JUROS DE MORA. DESCABIMENTO. RESTITUIÇÃO. HONORÁRIOS. CORREÇÃO MONETÁRIA. DESCABIMENTO.
+1. O art. 3º da Lei Complementar nº 118/2005 passou a ser aplicável a partir de 09/06/2005.
+2. Reconhecida a extinção do direito de postular em juízo a devolução dos valores indevidamente recolhidos anteriormente aos cinco anos que antecederam a propositura da ação.
+3. Não incide imposto de renda sobre os juros de mora integrantes de verba trabalhista paga acumuladamente por força de decisão judicial.
+4. A parte autora tem direito à restituição dos valores indevidamente pagos.
+5. Sendo o valor dos honorários advocatícios vinculado ao valor da condenação, que será atualizado pela Selic, desnecessário haver nova forma de atualização.
+Os embargos de declaração opostos pelo recorrente foram parcialmente acolhidos para corrigir a contradição, "fazendo constar no acórdão que o apelo na União foi parcialmente provido, bem como para considerar prequestionados os artigos 6º, "caput", e §§ lº e 2º, da Lei de Introdução do Código Civil, e 5º, XXXVI, da Constituição Federal" (e-STJ fls. 305/306).
+No recurso especial, o recorrente alega que o acórdão recorrido é contrário do posicionamento adotado pelo STJ, pois entendeu que, após a vigência da Lei Complementar 118/2005, o prazo prescricional seria de cinco anos contados do recolhimento indevido. Por essa razão, aponta, além de divergência jurisprudencial, violação dos arts. 2º e 5º, XXXVI, da Constituição Federal, do art. 6º, §§ 1º e do art. 2º da LICC e do art. 3º da LC n. 118/2005 (e-STJ fl. 329).
+Em suas razões, narra que (e-STJ fls. 324/337).
+o recorrente ajuizou a presente ação postulando a repetição do indébito, relativo ao imposto de renda retido na fonte nos autos de reclamatória trabalhista.
+O v. acórdão recorrido julgou improcedentes os pedidos de repetição do indébito tributário postulados na petição inicial, relativamente aos valores pagos ao autor em 29.10.2003, sob o fundamento de que havia se operado a prescrição do direito à repetição do indébito postulada na inicial. Para tanto, determinou a aplicação do artigo 4o da Lei Complementar 118/05.
+ ..
+Data venia, não se cogita, na presente hipótese, de decadência do direito vindicado. De fato, é cristalina a inconstitucionalidade do art. 4o da Lei Complementar 118/2005, na parte em que determina a observação, relativamente ao seu art. do disposto no art. 106, I, do CTN. A propósito, o recorrente pede vênia para reproduzir o entendimento unânime da Corte Especial do Colendo Superior Tribunal de Justiça, que, em julgamento de 06.06.2007, acolheu argüição de inconstitucionalidade do art. 4o, segunda parte, da Lei Complementar nº 118/2005, nos termos do voto do Excelentíssimo Sr. Ministro Teori Albino Zavascki:
+ ..
+O pagamento ocorreu antes da vigência da Lei Complementar 118/2005. Assim, ante a flagrante inconstitucionalidade do seu art. 4º (na parte em que determina a aplicação retroativa do art. 3º), seguindo-se as diretrizes estabelecidas pela Corte Especial do STJ no precedente acima transcrito, no sentido de que relativamente aos pagamentos anteriores à vigência da LC 118/2005 a prescrição obedece ao regime previsto no sistema anterior, limitada, porém, ao prazo máximo de cinco anos a contar da vigência da lei nova, e tendo em vista as datas do pagamento (29.10.2003) e do ajuizamento da presente ação (09.12.2008), impõe-se a reforma do v. aresto recorrido, a fim de que seja determinado o retorno dos autos à origem para julgamento do mérito abordado na apelação do autor, que restou prejudicada em face da pronúncia da prescrição total.
+Para justificar o recurso pela divergência, aponta como paradigma o AI nos EREsp 644.736/PE, Rel. Ministro TEORI ALBINO ZAVASCKI, Corte Especial, julgado em 06/06/2007, DJ 27/08/2007, p. 170, além de julgado oriundo do Tribunal Regional Federal da 1 ª Região .
+As contrarrazões foram apresentadas às e-STJ fls. 395/397.
+Decisão que admitiu o recurso especial consta às e-STJ fls. 466/468.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feito esse esclarecimento, destaco que o presente recurso tem origem em ação de repetição de indébito (e-STJ fls. 2/14), cujo pedido foi julgado parcialmente procedente em primeiro grau de jurisdição (e-STJ fls. 172/189).
+O Tribunal de origem deu provimento ao recurso de apelação da União e parcial provimento à remessa oficial. No ponto pertinente ao exame deste recurso, o julgado possui a seguinte fundamentação (e-STJ fls. 242/243):
+Prescrição
+A Corte Especial deste Tribunal, no julgamento do Incidente de Arguição de Inconstitucionalidade na AC 2004.72.05.003494-7/SC, com a relatoria do Des. Fed. Antônio Albino Ramos de Oliveira, declarou a inconstitucionalidade da expressão "observado, quanto ao art. 3º, o disposto no art. 106, I, da Lei n.º 5.172, de 25 de outubro de 1966 - Código Tributário Nacional", constante do art. 4º, segunda parte, da Lei Complementar nº 118/2005, por violação ao inc. XXXVI do art. 5º da CF/88.
+Naquela assentada, restou definido que o art. 3º da Lei Complementar nº 118/2005 passou a ser aplicável a partir de 9 de junho de 2005.
+Para as ações ajuizadas após essa data, ficou consignado:
+a) ser aplicável a jurisprudência do STF no sentido de que o prazo da lei nova se aplica às prescrições em curso na data em que ela entrou em vigor, com a ressalva de conter a lei nova prazo de vacância, durante o qual possa o titular interromper a prescrição em curso;
+b) a lei nova que reduz prazo prescricional e estabelece prazo de "vacatio legis" mais longo é plenamente compatível com o art. 6º da Lei de Introdução do Código Civil e aos dispositivos constitucionais que asseguram o respeito ao ato jurídico perfeito, ao direito adquirido e à coisa julgada;
+c) de acordo com a jurisprudência do STF, se a intenção da nova lei, ao estabelecer prazo de vacância mais longo, não fosse atingir as prescrições em curso, esse prazo "seria uma inutilidade";
+Desse modo, o art. 3º da Lei Complementar 118/2005 aplica-se a todos os requerimentos administrativos formulados ou ações ajuizadas a partir do dia 9 de junho de 2005, pouco importando que os fatos geradores dos tributos indevidamente recolhidos sejam anteriores a essa data.
+No caso, quando do pagamento das parcelas, em 05 de novembro de 2003 (fl. 98), foi retido o imposto de renda incidente sobre o valor total diminuído os juros moratórios. O imposto de renda sobre os juros moratórios foi pago no ano de 2004, por conta da declaração de ajuste. A ação foi ajuizada em 09 de dezembro; de 2008, devendo ser reconhecida a extinção do direito do autor de postular em juízo a devolução dos valores indevidamente recolhidos através do regime de caixa.
+No tocante ao pedido de restituição do imposto de renda incidente sobre os juros de mora, não há prescrição
+Pois bem.
+Inicialmente, cumpre destacar que não cabe ao Superior Tribunal de Justiça analisar suposta violação de artigos e princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, ainda que para fins de prequestionamento, o que inviabiliza o exame do recurso no ponto em que se alega desrespeito ao art. 2º e ao art. 5º, XXXVI, da Constituição Federal.
+Sobre a questão, ilustrativamente:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF  ..
+ ..
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.564.937/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. OFENSA A PRINCÍPIOS CONSTITUCIONAIS. COMPETÊNCIA DO STF  ..
+1. Impossibilidade de análise de ofensa a dispositivos e princípios constitucionais em sede de recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.284.482/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/09/2018, DJe 10/09/2018).
+Quanto à questão da prescrição, "o Superior Tribunal de Justiça fixou o entendimento de que, para as ações ajuizadas a partir de 09.06.2005, aplica-se o art. 3o. da LC 118/2005, contando-se o prazo prescricional dos tributos sujeitos a lançamento por homologação em cinco anos a partir do pagamento antecipado de que trata o art. 150, § 1º do CTN. Por outro lado, ajuizada a demanda antes da vigência da referida lei, aplica-se a conhecida tese dos cinco mais cinco anos (REsp. 1.269.570/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 04.06.2012)" (EDcl no AgRg no REsp 974.367/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 10/06/2014, DJe 16/10/2014).
+Sobre o tema:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. IMPOSTO DE RENDA. JUROS DE MORA. PRAZO PRESCRICIONAL. LEI COMPLEMENTAR 118/2005. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. RE 566.621. ENTENDIMENTO CORROBORADO POR ESTA CORTE NO RECURSO ESPECIAL REPETITIVO 1.269.570-MG. DEMANDA AJUIZADA APÓS A VIGÊNCIA DA LEI COMPLEMENTAR.
+1. O STJ alinhou sua jurisprudência à orientação definitiva do STF, no sentido de que "para as ações ajuizadas a partir de 9.6.2005, aplica-se o art. 3º, da Lei Complementar n. 118/2005, contando-se o prazo prescricional dos tributos sujeitos a lançamento por homologação em cinco anos a partir do pagamento antecipado de que trata o art. 150, §1º, do CTN" (REsp 1.269.570/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 4.6.2012, submetido ao art. 543-C do CPC).
+2. Tratando-se de demanda proposta após o início de vigência da LC 118/2005, deve ser aplicado o prazo prescricional quinquenal contado a partir do pagamento indevido na forma do seu art. 3º.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.286.556/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/08/2014, DJe 01/09/2014).
+Na hipótese dos presentes autos, a demanda foi ajuizada em 09/12/2008, razão pela qual, atento ao posicionamento jurisprudencial acima transcrito, o prazo prescricional de cinco anos deve ser contado a partir do pagamento antecipado, que ocorreu, no caso, em 5 de novembro de 2003 (05/11/2003).
+Do acórdão recorrido, destaco (e-STJ fls. 243):
+No caso, quando do pagamento das parcelas, em 05 de novembro de 2003 (fl. 98), foi retido o imposto de renda incidente sobre o valor total diminuído os juros moratórios. O imposto de renda sobre os juros moratórios foi pago no ano de 2004, por conta da declaração de ajuste. A ação foi ajuizada em 09 de dezembro de 2008, devendo ser reconhecida a extinção do direito do autor de postular em juízo a devolução dos valores indevidamente recolhidos através do regime de caixa.
+Assim, o acórdão não merece reforma.
+Incide, portanto, a Súmula 83 do STJ (não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 30/8/2016).
+Por fim, cabe acrescentar que "o não conhecimento do especial pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
