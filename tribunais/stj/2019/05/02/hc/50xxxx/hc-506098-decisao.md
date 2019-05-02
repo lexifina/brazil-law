@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDRO AMARAL, apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento do HC n. 0102883-54.2019.8.21.7000.
+Noticiam os autos que o paciente foi preso em flagrante como incurso no artigo 33 da Lei 11.343/2006, tendo a custódia sido convertida em preventiva.
+Inconformada, a defesa impetrou prévio writ na origem, cujo pedido liminar foi indeferido pelo Relator.
+Sustenta o impetrante que se estaria diante de flagrante ilegalidade, passível de afastar o óbice contido no enunciado 691 da Súmula do Supremo Tribunal Federal.
+Alega que a autoridade impetrada não teria fundamentado a negativa da medida de urgência pleiteada no mandamus originário, em ofensa ao artigo 93, inciso IX, da Constituição Federal.
+Aduz que o magistrado singular também não teria motivado a necessidade da segregação antecipada do acusado.
+Afirma que não estariam presentes os requisitos necessários para a constrição provisória do paciente.
+Considera que a medida extrema poderia ser substituída por cautelares diversas.
+Requer, liminarmente, o relaxamento da prisão preventiva do paciente, e, no mérito, pugna pela concessão da ordem para que lhe seja concedido o benefício da liberdade provisória, ou subsidiariamente, para que seja determinada a sua prisão domiciliar.
+É o relatório.
+Este Superior Tribunal de Justiça "firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF" (AgRg no HC 481.356/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+E, da análise da documentação acostada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, a autoridade impetrada consignou não vislumbrar, "prima facie, ilegalidade na prisão do paciente, ensejadora da concessão liminar da ordem pleiteada", extraindo-se da decisão que homologou o flagrante e converteu a custódia em cautelar que, "considerando a gravidade dos delitos, especialmente aquele ligado ao tráfico, e as circunstâncias em que efetuadas as prisões, as quais indicam que os flagrados exerciam, muito provavelmente, a traficância na própria residência de um deles, sinalizado a possibilidade concreta, assim, de, uma vez soltos, voltarem a delinquir", é "descabida, por ora, a concessão da liberdade provisória e/ou aplicação de qualquer outra medida diversa da do encarceramento" (e-STJ fl. 71).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ademais, esta Corte Superior de Justiça já decidiu que "a prisão cautelar está assentada na necessidade de se garantir a ordem pública, tendo as instâncias ordinárias destacado, além da apreensão de 25 porções de maconha, uma balança de precisão, um rádio comunicador, saquinhos plásticos comumente utilizados para embalar drogas, armas e munições, as circunstâncias da prisão em flagrante (o recorrente é conhecido no meio policial pela prática do tráfico de drogas e aliciamento de menores para a prática ilícita)", "tudo a revelar a periculosidade in concreto do agente" (RHC 103.186/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/12/2018, DJe 01/02/2019), o que reforça a impossibilidade de conhecimento deste mandamus.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
