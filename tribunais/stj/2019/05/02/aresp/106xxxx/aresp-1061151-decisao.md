@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. HONORÁRIOS. DEDUÇÃO. VALOR LÍQUIDO. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por PORTA NOVA E ADVOGADOS ASSOCIADOS em face de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. INTEGRALIDADE DE PENSÃO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RESERVA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. INCIDÊNCIA SOBRE O VALOR LIQUIDO. RESERVA DE HONORÁRIOS ADVOCATICIOS SUCUMBENCIAIS. IMPOSSIBILIDADE.
+-A reserva de honorários advocatícios contratados incide sobre o valor liquido do quantum apurado para RPV, deduzidos os descontos legais, uma vez que o contrato prevê, como a base de cálculo, o valor a ser alcançado à parte ao final do processo.
+-Os honorários advocatícios sucumbenciais pertencem ao advogado e podem ser executados autonomamente, conforme preceituam os artigos 23 e 24, §1º, do EOAB, descabendo reserva de honorários.
+-Recurso não provido.
+No especial, fundamentado no artigo 105, III, "a" e "c", da Constituição Federal, alegou-se, além de negativa de prestação jurisdicional, que
+a quantia a ser recebida pelo constituinte é o valor bruto, somente após o pagamento são realizadas as referidas deduções legais e contratuais, quando então, estas lhe serão descontadas no montante do condenatório, ou seja, do total devido pela parte contrária (bruto).
+Não foram apresentadas contrarrazões.
+Após juízo negativo de admissibilidade, sobreveio o presente agravo.
+Não foi ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Em verdade, constata-se que o Tribunal a quo enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia ao assim consignar:
+A pretensão da parte agravante é de que a reserva da verba honorária contratual incida sobre o valor bruto da ordem de pagamento.
+No caso, a avença contratual refere serem devidos "20% sobre o montante do condenatório" (fl. 33). Tal valor deve ser líquido, após deduzidos os descontos legais porventura incidentes, porquanto este é o quantum econômico efetivamente auferido pela parte exeqüente.
+A parte pagará honorários sobre o montante que auferir.  ..
+Meu entendimento é o de que a reserva de honorários advocatícios deve ocorrer em relação aos honorários contratuais, porque se trata de avença entre as partes, que não integra o litígio e por isso não consta de titulo judicial a destinação do respectivo valor.
+A reserva visa evitar que a parte levante todo o montante da condenação sem cumprir com o pagamento dos honorários contratados, forçando, muitas vezes, o procurador a litigar contra seu cliente.
+No entanto, quanto aos honorários sucumbenciais, não há este risco. É verba que, por título judicial, pertence ao procurador.
+Ressalto que o advogado pode executar, de forma autônoma, seus honorários, o que lhe faculta o artigo 23 da Lei nº 8.906/94: Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo querer que o precatório, quando necessário, seja expedido em seu favor.
+E, mesmo que tenha havido opção por inclusão no precatório do constituinte, a verba honorária fica destacada no cálculo para pagamento direto ao titular deste crédito. Entendendo necessário, poderá o procurador peticionar, no próprio precatório, resguardando seu interesse a respeito.
+Não há razão, portanto, que justifique o pedido de reserva da verba honorária sucumbencial.
+A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+Os embargos de declaração opostos na origem não podem ser destinados ao "acréscimo de razões que para a parte pareçam significativas, mas que, para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar" (EDcl nos EDcl no AgRg no AgRg no REsp 792.547/DF, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 19.8.2013), pois é certo que "não cabe ao Tribunal, que não é órgão de consulta, responder a questionários postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do "decisum" (..)" (EDcl no REsp 739/RJ, Rel. Min. ATHOS CARNEIRO, QUARTA TURMA, DJ de 11.3.1991, p. 2395).
+De outra parte, nos termos da jurisprudência desta Corte Superior, "a dedução dos honorários deverá ocorrer de acordo com a quantia efetivamente recebida pelo cliente, ou seja, sobre seu valor líquido". Cito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. RESERVA DE HONORÁRIOS CONTRATUAIS. INCIDÊNCIA SOBRE O VALOR LÍQUIDO DO CRÉDITO. POSSIBILIDADE. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. No tocante à base de cálculo, na omissão do contrato, a dedução dos honorários deverá ocorrer de acordo com a quantia efetivamente recebida pelo cliente, ou seja, sobre seu valor líquido. Deveras, o destaque da remuneração do advogado dar-se-á após a exata definição do crédito a ser recebido pelo credor, posteriormente ao desconto dos consectários legais (REsp. 1.376.513/RS, Rel. Min. LUIS FELIPE SALOMÃO, DJe 22.11.2017).
+2. Ademais, a alteração das conclusões da Corte de origem, a fim de reconhecer a clareza na finalidade do contrato de honorários, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 714.585/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/04/2019, DJe 10/04/2019)
+RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESERVA DO PERCENTUAL. OMISSÃO DO CONTRATO. BASE DE INCIDÊNCIA. VALOR LÍQUIDO RECEBIDO PELO CLIENTE.
+1. É pacífica a jurisprudência do STJ no sentido de que "a alegação de inobservância de regras de distribuição processual entre os órgãos fracionários de um Tribunal constitui nulidade relativa que deve ser arguida pela parte interessada na primeira oportunidade, sob pena de preclusão" (REsp 1.370.263/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 20/02/2014, DJe 25/09/2014).
+2. Dispõe a Lei n. 8.906/94 que "se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução de quantia a ser recebida pelo constituinte, salvo se este provar que já as pagou" (§ 4º do art. 22).
+3. Realizada as exigências da habilitação, há direito potestativo do advogado em receber os seus honorários, nos termos em que contratados, decotando-se diretamente do crédito a ser auferido pelo vencedor.
+4. No tocante à base de cálculo, na omissão do contrato, a dedução dos honorários deverá ocorrer de acordo com a quantia efetivamente recebida pelo cliente, ou seja, sobre seu valor líquido. Deveras, o destaque da remuneração do advogado dar-se-á após a exata definição do crédito a ser recebido pelo credor, posteriormente ao desconto dos consectários legais.
+5. Recurso especial não provido.
+(REsp 1376513/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/10/2017, DJe 22/11/2017)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
