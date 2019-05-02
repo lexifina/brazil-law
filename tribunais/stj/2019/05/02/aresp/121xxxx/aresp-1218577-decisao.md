@@ -1,0 +1,12 @@
+DECISÃO
+ROBERTO NERES DA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios (Agravo n. 2017.00.2.012111-7), ante o óbice da Súmula n. 7 do STJ.
+O agravante assinala que para enfrentar a tese de violação dos arts. 107, IV, 109, VI, 110, 113, 114, II e 119, todos do CP, é desnecessário reexaminar fatos e provas. Requer o processamento e o provimento do recurso especial, a fim de que seja reconhecida "a possibilidade de utilizar-se o período efetivamente cumprido de pena prescrita" em outras condenações em curso, para efeito de concessão de benefícios penais (fl. 61).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 94-99).
+Decido.
+O agravo é tempestivo e impugnou o óbice da Súmula n. 7 do STJ. Entretanto, não é possível admitir o recurso especial, ante a incidência da Súmula n. 284 do STJ.
+O Juiz da VEC declarou a prescrição da pretensão executória em relação à primeira execução do agravante, mas manteve o desconto da pena efetivamente cumprida na conta de liquidação, "até porque permanecem em execução condenações por fato criminoso praticado em data anterior ao período de recolhimento havido na execução extinta". O Magistrado explicou que o período não deveria ser "computado para aferição da prescrição da pretensão executória quanto às demais execuções pendentes" (fl. 17).
+O Tribunal de Justiça reformou o decisum, por entender que: "Não se pode aproveitar o tempo de recolhimento relativo ao delito com extinção da punibilidade pela prescrição executória na contagem de outros crimes cometidos pelo acusado, com execuções diversas" (fl. 41).
+Vê-se que o tema examinado na origem diz respeito à possibilidade, ou não, de descontar em condenações distintas o período efetivamente cumprido da pena alcançada pela prescrição executória. Já no recurso especial, a parte apontou a violação de artigos relacionados à extinção da punibilidade (107, IV, 109, IV, 110, 113, 114, II e 119, todos do CP), que não tratam da detração penal.
+Os dispositivos de lei apontados como violados não amparam a pretensão recursal, deficiência que impede a compreensão da irresignação e atrai o óbice da Súmula n. 284 do STF.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
