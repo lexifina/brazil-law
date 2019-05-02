@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial amparado nas alíneas "a" e "c" do permissivo constitucional, ofertado em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+"PROCESSO PENAL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO NÃO CONHECIDO. AUSÊNCIA DE PREVISÃO LEGAL. DECISÃO FUNDAMENTADA QUE NÃO SE REVESTE DE ILEGALIDADE OU TERATOLOGIA. AMPLA DEFESA E CONTRADITÓRIO. AFRONTA NÃO CONFIGURADA. AGRAVO INTERNO NÃO PROVIDO.
+I - Na hipótese dos autos, trata-se de decisão que indefere requerimento de diligência por parte da defesa, contra a qual não há previsão legal expressa para interposição de recurso.
+II - A decisão encontra-se fundamentada e não se reveste de teratologia ou ilegalidade.
+III - O indeferimento do requerimento formulado não resulta em afronta à ampla defesa e ao contraditório, capaz de ensejar aplicação do princípio da fungibilidade.
+IV - Motivos do não conhecimento que se mantém.
+V - Agravo interno não provido." (e-STJ, fl. 147)
+Nas razões do recurso especial, a defesa aponta, além de divergência jurisprudencial, violação ao artigo 3º do Código de Processo Penal, ao argumento de que é pacífico na jurisprudência a aplicação subsidiária do Código de Processo Civil ao processo penal. Afirma que, ao contrário do que entendeu a Corte local, inexistindo previsão no CPP de recurso cabível para impugnar decisão contrária aos interesses do réu, que indeferiu diligência requerida, deveria ser admitido o recurso de agravo de instrumento interposto. Aduz que tal possibilidade de aplicação subsidiária do CPC decorre das garantias do contraditório e da ampla defesa.
+Requer o provimento do recurso, a fim de que seja reformado o acórdão guerreado, com vistas a que se reconheça a possibilidade de aplicação subsidiária do CPC, dando-se provimento ao agravo de instrumento interposto pelo réu e deferindo-se o pedido de realização de diligência efetuado pelo recorrente.
+Apresentadas contrarrazões (e-STJ, fls. 174-185).
+O recurso não foi admitido por incidência da Súmula 7/STJ e por não haver sido demonstrado o dissídio jurisprudencial nos termos legais e regimentais (e-STJ, fls. 196-199). Daí este agravo (e-STJ, fls. 202-218)
+O Ministério Público Federal opinou pelo não conhecimento do agravo ou, se conhecido, pelo seu não provimento (e-STJ, fls. 257-262).
+É o relatório.
+Decido.
+Em relação à alegada violação ao artigo 3º do Código de Processo Penal, o Tribunal de origem, ao examinar o tema, assim se manifestou:
+"Como sobressai dos autos, a decisão contra a qual o recorrente interpôs agravo de instrumento, de lavra do MM. Juiz Federal Substituto da 3a Vara Federal Criminal/SJRJ, Dr. VÍTOR BARBOSA VALPUESTA, indeferiu o requerimento de expedição de ofício ao MPF de Nova Friburgo para apresentação dos ofícios remetidos e endereçados ao acusado/recorrente à época dos fatos, por entender impertinente e protelatório à instrução do processo originário, bem como por ser ônus da defesa a sua apresentação.
+Conforme destacado pelo em. Desembargador Federal ABEL GOMES às fl. 123/125, trata-se de decisão contra a qual não há previsão legal expressa para interposição de recurso.
+No entanto, o fato de inexistir recurso próprio para impugnar a decisão não significa dizer que o processo transcorrerá eventualmente eivado de alguma nulidade.
+Havendo error in procedendo ou sendo verificada ilegalidade ou teratologia em decisão proferida pelo magistrado, abre-se campo para instrumentos processuais como a correição parcial ou mandado de segurança, como também destacado na decisão de fls. 123/125, cujas razões de decidir adoto, ipsis litteris:
+ ..
+Note-se, como ponderado, que não se está diante apenas de um caso de ausência de previsão legal para interposição de agravo de instrumento contra decisão proferida pelo juízo a quo. A referida decisão não se reveste de teratologia ou ilegalidade. Não se verifica com ela a ocorrência de "lesão grave e de difícil reparação" (sic), como quer fazer crer o recorrente.
+Da mesma forma, o indeferimento do requerimento formulado encontra-se fundamentado e não resulta em afronta à ampla defesa e ao contraditório, capaz de ensejar aplicação do princípio da fungibilidade.
+Em resumo: mantida a conclusão de que se impõe o não conhecimento do agravo de instrumento." (e-STJ, fls. 145-146)
+Conforme se observa, a tese suscitada no recurso especial (possibilidade de aplicação subsidiária do CPC nos casos em que não há previsão de recurso cabível no CPP) não é capaz, por si só, de infirmar os fundamentos do acórdão recorrido, o qual se encontra alicerçado, sobretudo, na conclusão de que, no caso, a decisão impugnada via agravo de instrumento não estaria eivada de ilegalidade e não seria teratológica. Assim, por não vislumbrar a ocorrência de lesão de grave ou difícil reparação, a Corte de origem entendeu que, na ausência de previsão legal de recurso, não seria cabível a interposição de mandado de segurança ou correição parcial, tampouco a aplicação do princípio da fungibilidade para que fosse admitido o agravo de instrumento.
+Todavia, contra essa linha cognitiva autônoma não houve insurgência no recurso especial, tendo o recorrente alegado apenas dissídio jurisprudencial e ofensa ao artigo 3º do Código de Processo Penal, argumentando que seria cabível, no caso a interposição de agravo de instrumento, pela possibilidade de aplicação subsidiária do CPC. Desse modo, constata-se que o argumento não rebatido, por si só, é suficiente o bastante para manter o acórdão nos termos do que proferido.
+Incide, nesse contexto, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. TROCA DE PLACA. CONDUTA TÍPICA PREVISTA NO ART. 311 DO CÓDIGO PENAL. FÉ PÚBLICA. DESNECESSIDADE DE COMPROVAÇÃO DE DOLO. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. OMISSÃO. INEXISTÊNCIA. DECRETO N. 86.714/81. TRÂNSITO VIÁRIO INTERNACIONAL. SÚMULA 283/STF. OFENSA A DISPOSITIVOS DA CF/1988. INCOMPETÊNCIA DO STJ. DISSENSO JURISPRUDENCIAL NÃO COMPROVADO. ARTS. 1.029, § 1º, DO CPC e 255, § 1º, DO RISTJ. ACÓRDÃO COMBATIDO DE ACORDO COM PACÍFICA JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O Decreto n. 86.714/81, trata somente do trânsito viário internacional e não possuem relação com o Código de Trânsito Brasileiro, tese esta suficiente para a manutenção do julgado, tendo o recorrente se limitado a sustentar que o tipo penal não consta na referida norma. O recurso, portanto, encontra óbice na Súmula 283/STF, que assim estabelece: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 4. Quanto à eventual violação do art. 5º, caput, e incisos II e XXXIX, da Constituição Federal (princípio da legalidade e da reserva legal), tem-se que tal pleito não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais.
+ ..
+7. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 790.675/MS, minha Relatoria, QUINTA TURMA, julgado em 18/10/2018, DJe 24/10/2018);
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO POR PORTE ILEGAL DE ARMA DE FOGO. ASSERTIVA DE OMISSÃO DA SENTENÇA EM RELAÇÃO À PRELIMINAR. NULIDADE DO FEITO. FUNDAMENTO INATACADO. SÚMULA 283/STF. ANÁLISE DE MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Restou assentado no acórdão recorrido fundamento inatacado quando este asseverou que a preliminar estava "atrelada ao mérito da causa", a atrair, desse modo, a incidência do óbice da Súmula 283 do Supremo Tribunal Federal - STF.
+ ..  Agravo regimental desprovido." (AgRg nos EDcl no AREsp 905.964/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/08/2017, DJe 18/08/2017);
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. MULTA DIÁRIA. REDUÇÃO. REVISÃO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF).
+(..)
+3. Agravo interno não provido".
+(AgInt no AREsp 975.583/PE, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 15/03/2017).
+Desta feita, tendo em vista a incidência do citado óbice, inviável o conhecimento do recurso especial.
+Ante o exposto, com base no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Publique-se. Intimem-se.
