@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. INVIABILIDADE. OBSERVÂNCIA DA PROPORCIONALIDADE. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+HNK BR Indústria de Bebidas Ltda. opôs embargos à execução promovida por Topserv Manutenção Predial e Logística Ltda. alegando a inexigibilidade do título executivo e a ocorrência de excesso de execução.
+O Magistrado de primeiro grau julgou improcedentes os embargos, condenando a embargante ao pagamento de honorários sucumbenciais de 20% sobre o valor da causa.
+Interposta apelação pela executada, a Décima Quinta Câmara de Direito Privado do Tribunal de Justiça de São Paulo, por maioria, deu parcial provimento ao apelo para reduzir os honorários sucumbenciais para 15% sobre o valor atualizado da causa.
+O acórdão está assim ementado (e-STJ, fls. 429-437):
+PROCESSO CIVIL JULGAMENTO ANTECIPADO DO PEDIDO NULIDADE INOCORRÊNCIA Incumbe ao julgador o exame das provas necessárias e pertinentes ao julgamento na forma do art. 370 do atual CPC Desnecessidade de produção de outras provas, pelas circunstâncias que se extraem dos autos Preliminar rejeitada.
+EXECUÇÃO DUPLICATA CONTRATO DE PRESTAÇÃO DE SERVIÇOS DISCUSSÕES SOBRE COMPENSAÇÃO E EXCESSO DE EXECUÇÃO Da análise do contrato firmado entre as partes infere-se que a parte executada não tem direito de retenção, mas de reembolso na forma ali prevista, que pode levar à compensação nos termos da lei civil Documentos juntados, inclusive na fase recursal, que se afiguram, porém, insuficientes a tal fim, ressalvada a possibilidade de, por meio de certidões de objeto e pé ou elementos probatórios pertinentes, ser realizada essa comprovação em prazo a ser fixado pelo r. Juízo quando do regular prosseguimento da execução Excesso de execução não demonstrado à vista do que se extrai do exame do contrato Honorários advocatícios do patrono da embargada fixados, à vista da natureza da causa, valor a ela atribuído (no aditamento) e trabalho realizado, inclusive na fase recursal (CPC, art. 85, § 11), em 15% do valor corrigido da causa Recurso parcialmente provido, com determinação.
+Opostos embargos de declaração, foram rejeitados.
+A executada interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 85, 489, IV e § 1º, e 1.022 do CPC/2015.
+Sustentou, em síntese, ter havido negativa de prestação jurisdicional e a necessidade de redução do valor dos honorários sucumbenciais.
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de estar devidamente fundamentado o acórdão recorrido e de incidir a Súmula 7/STJ.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Brevemente relatado, decido.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido expressamente enfrentou as questões suscitadas pelas partes, notadamente acerca do valor dos honorários sucumbenciais, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Quanto ao mérito, as instâncias ordinárias fixaram a verba em 15% sobre o valor atualizado da causa, observando-se os limites do art. 85, § 2º, do CPC/2015, o qual é claro ao determinar que os honorários advocatícios serão fixados em percentual sobre o valor da causa devidamente corrigido.
+Dessa forma, refutar as conclusões alcançadas pelo Tribunal de origem exige o reexame de provas, o que, como já mencionado, é defeso a esta Corte em virtude do disposto no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. CONTRATO DE CESSÃO DE DIREITOS PARA PUBLICIDADE. RESCISÃO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DA LEI 12.259/2011. SÚMULA 284/STF. EXERCÍCIO REGULAR DE DIREITO. EXPRESSA CONCORDÂNCIA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. NÃO CABIMENTO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+ ..  3. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+4. Tendo sido os honorários advocatícios fixados com base na apreciação equitativa da prestação do serviço pelo advogado, sua revisão impõe incontornável reexame dos aspectos fáticos da lide. Incidência do enunciado 7 da Súmula do STJ.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 651.606/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/05/2015, DJe 29/05/2015)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 1% sobre o valor atualizado da causa.
+Publique-se.
