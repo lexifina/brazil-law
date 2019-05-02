@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por WTECH INDÚSTRIA QUÍMICA LTDA com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - DESPESAS DE SOBRE-ESTADIA DE CONTÊINERES (DEMURRAGE) - SENTENÇA DE PROCEDÊNCIA - INCONFORMISMO DA DEMANDADA.
+SUSTENTADA A AUSÊNCIA DE PREVISÃO CONTRATUAL DA DEMURRAGE - ADUZIDA, TAMBÉM, A CULPA EXCLUSIVA DA AUTORA PELA DEMORA NA DEVOLUÇÃO DOS CONTÊINERES, HAJA VISTA NÃO TER COMPROVADO QUE COMUNICOU A CHEGADA DO NAVIO AO PORTO - DEFENDIDA, AINDA, A ONEROSIDADE EXCESSIVA DA CONDENAÇÃO, ALÉM DA IMPOSSIBILIDADE DE REALIZAÇÃO DO DESEMBARAÇO NO PERÍODO LIVRE (FREE TIME) - NÃO CONHECIMENTO DOS TEMAS - QUESTÕES QUE NÃO FORAM ARGUIDAS NA CONTESTAÇÃO, TAMPOUCO DEBATIDAS EM PRIMEIRO GRAU - INOVAÇÃO RECURSAL - INCIDÊNCIA DO ARTIGO 517 DO CÓDIGO DE PROCESSO CIVIL.
+PROPALADA A REPERCUSSÃO DA GREVE DOS AUDITORES DA RECEITA FEDERAL NO PORTO DE ITAJAÍ, O QUE TERIA AFETADO A DEVOLUÇÃO DOS CONTÊINERES OBJURGADOS - TESE RECHAÇADA - GREVE FINALIZADA ANTES MESMO DO INÍCIO DO TRANSPORTE MARÍTIMO DOS CONTÊINERES CUJA SOBRE-ESTADIA É RECLAMADA - DEMANDADA QUE NÃO SE DESINCUMBIU DO ÔNUS QUE LHE É IMPOSTO PELO INCISO II DO ARTIGO 333, DO CPC - DESPESAS DEVIDAS CONFORME O CONHECIMENTO DE TRANSPORTE MARÍTIMO (BILL OF LADING) - EXEGESE DOS ARTIGOS 6.º E 7.º DO DECRETO N. 19.473, DE 10.12.1930 - ADEMAIS, TERMO DE RESPONSABILIDADE SOBRE A DEVOLUÇÃO DE CONTÊINERES FIRMADO PELA DEMANDADA QUE REFORÇA SUA OBRIGAÇÃO - RECLAMO DESPROVIDO.
+HONORÁRIOS ADVOCATÍCIOS - PLEITO DE MINORAÇÃO REJEITADO - ARBITRAMENTO REALIZADO EM OBSERVÂNCIA AO ARTIGO 20, § 3º, ALÍNEAS "A", "B" E "C", DO CÓDIGO DE PROCESSO CIVIL - CAUSA EMINENTEMENTE CONDENATÓRIA - FIXAÇÃO EM 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO QUE NÃO SE AFIGURA EXCESSIVA IN CASU - REMUNERAÇÃO JUSTA AO TRABALHO DO PROCURADOR - DECISUM MANTIDO.
+RECURSO CONHECIDO EM PARTE E, NESTA, DESPROVIDO." (e-STJ, fls. 350/351)
+Opostos embargos de declaração, foram rejeitados com aplicação de multa.
+Nas razões do recurso especial, a recorrente alega ofensa aos arts. 22 da Lei nº 9.611/98, 8º do Decreto-Lei nº 116/67, 535 e 538, parágrafo único, do CPC/73, sob o fundamento de que o acórdão recorrido foi omisso quanto à alegação de prescrição da pretensão autoral. Insurge-se, também, contra a aplicação da multa no julgamento dos declaratórios.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Com efeito, quando da oposição dos embargos declaratórios na origem, a ora recorrente suscitou o exame, pela c. Corte local, de questão referente à ocorrência da prescrição da pretensão autoral, matéria de ordem pública.
+Por sua vez, a Corte de origem concluiu pela impossibilidade de exame da matéria, porque não ventilada anteriormente. Confira-se:
+"Não obstante possa ser considerada questão de ordem pública, a matéria não foi ventilada em momento algum durante todo o curso processual, o que impede seja conhecida somente agora, por ocasião dos presentes aclaratórios." (e-STJ, fl. 386)
+Como é cediço, "na linha dos precedentes desta Corte, as matérias de ordem pública (e.g. prescrição, decadência, condições da ação, pressupostos processuais, consectários legais, incompetência absoluta, impenhorabilidade, etc) não se sujeitam à preclusão, podendo ser apreciadas a qualquer momento nas instâncias ordinárias" (REsp 1372133/ SC, Relator em. Min. SIDNEI BENETI, DJe 18/06/2014, g.n.).
+Nesse contexto, a insurgência merece prosperar, uma vez que a prescrição é matéria de ordem pública e pode ser apreciada, nas instâncias ordinárias, a qualquer tempo e grau de jurisdição. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. As questões de ordem pública são passíveis de conhecimento de ofício nas instâncias ordinárias, contudo, estas devem observar o requisito do prequestionamento na via do recurso especial.
+Precedentes.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+3. Agravo interno no agravo em recurso especial não provido."
+(AgInt no AREsp 1272387/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+"AGRAVO INTERNO. RECURSO ESPECIAL. PREPARO. LEI ESTADUAL 11.608/2003. SÚMULA N. 280/STF. REPRESENTAÇÃO PROCESSUAL. SÚMULA N. 283/STF. PRESCRIÇÃO. RECONHECIMENTO DE OFÍCIO. POSSIBILIDADE. AÇÃO MONITÓRIA. PRAZO QUINQUENAL.
+1. "Por ofensa a direito local não cabe recurso extraordinário" (Súmula n. 280/STF).
+2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula n. 283/STF).
+3. A prescrição, matéria de ordem pública, pode ser reconhecida de ofício ou a requerimento das partes, a qualquer tempo e grau de jurisdição.
+Precedentes.
+4. Na linha da jurisprudência desta Corte, a ação monitória está subordinada ao prazo prescricional de 5 (cinco) anos.
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp 1250171/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/04/2017, DJe 05/05/2017)
+Todavia, os embargos de declaração foram rejeitados, sem manifestação a respeito da relevante questão suscitada, razão pela qual afigura-se forçoso a esta Corte reconhecer a omissão, na linha dos diversos precedentes, de que são exemplos os seguintes julgados:
+ "PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE PRESCRIÇÃO APRESENTADA EM EMBARGOS DE DECLARAÇÃO NA ORIGEM. VIOLAÇÃO AO ART. 535, II DO CPC CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL A QUO SOBRE A PRESCRIÇÃO, QUESTÃO DE ORDEM PÚBLICA QUE PODE SER SUSCITADA EM QUALQUER GRAU ORDINÁRIO DE JURISDIÇÃO, NÃO ESTANDO SUJEITA À PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+ 1. É assente na jurisprudência pacificada desta eg. Corte que a prescrição, por se tratar de questão de ordem pública, pode ser suscitada em qualquer grau de jurisdição, não estando sujeita à preclusão (EDcl no AREsp. 99.533/PR, Rel. Min. RAUL ARAÚJO, DJe 29.06.2012)
+ 2. O Tribunal local, ao afastar a alegação de omissão suscitada pela parte agravada em Embargos Declaratórios, não abordou a questão da prescrição, ofendendo, com isso, o art. 535, II do Código de Processo Civil.
+ 3. Agravo Regimental do ESTADO DO RIO GRANDE DO SUL desprovido." (AgRg no AREsp 62.232/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 22/05/2014)
+ "PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CARACTERIZADA. RETORNO DOS AUTOS PARA JULGAMENTO COMPLETO DOS EMBARGOS DE DECLARAÇÃO.
+ 1. A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC, o que de fato ocorreu na hipótese em apreço.
+ 2. A matéria apontada como omissa, qual seja, o termo inicial da prescrição, não foi objeto de análise no acórdão ora hostilizado; embora opostos embargos de declaração para suprir a omissão e ventilar a questão federal, foram rejeitados.
+ 3. Cumpre ressaltar que a jurisprudência firmou-se no sentido de que as matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, ainda que alegadas em sede de embargos de declaração, não estando sujeitas a preclusão.
+Agravo regimental improvido." (AgRg no REsp 1313795/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 29/05/2012)
+Diante da omissão do acórdão recorrido, impõe-se o provimento do recurso especial para que o Tribunal estadual se pronuncie sobre a prescrição, sanando, assim, o vício apontado.
+Relativamente à alegada violação ao parágrafo único do art. 538 do Código de Processo Civil de 1973, o recurso também merece provimento.
+Observa-se que os embargos de declaração, na espécie, foram opostos com o intuito de questionar matéria considerada não apreciada e para fins de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula nº 98 deste Superior Tribunal de Justiça, deve ser afastada a multa aplicada pelo Tribunal local. Veja-se, a exemplo, o seguinte julgado:
+"AGRAVO REGIMENTAL - AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES _ BRASIL TELECOM S/A - CONTRATO DE PARTICIPAÇÃO FINANCEIRA _ ART. 538, PARÁGRAFO ÚNICO, DO CPC - MULTA - AFASTAMENTO - NECESSIDADE - INCIDÊNCIA DA SÚMULA N. 98/STJ - VALOR PATRIMONIAL DA AÇÃO - DATA DA INTEGRALIZAÇÃO DO CAPITAL _ BALANCETE MENSAL CORRESPONDENTE - VERBA HONORÁRIA - AUSÊNCIA DE CONDENAÇÃO EM DINHEIRO - - FIXAÇÃO COM BASE NOS ARTS. 20, § 4º, DO CPC - AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A multa imposta com fundamento no artigo 538, parágrafo único, do CPC, é de ser afastada, quando, embora tenham sido rejeitados os embargos de declaração, estes tenham sido opostos com a finalidade de prequestionamento da questão federal, conforme disposto na Súmula n. 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+(..)
+4. Agravo regimental parcialmente provido."
+(AgRg nos EDcl no Ag 928.938/RS, 3ª Turma, Rel. o Min. MASSAMI UYEDA, DJe de 5.11.2009)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para afastar a multa aplicada no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem para que se pronuncie sobre o ponto omisso, nos termos da fundamentação acima.
+Publique-se.
