@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BEM DE FAMÍLIA. REQUISITO LEGAL NÃO PREENCHIDO. IMPENHORABILIDADE AFASTADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por [NOME] contra decisão que indeferiu o pedido de reconhecimento da impenhorabilidade de imóvel, por não vislumbrar a demonstração da tese defendida pelo ora recorrente.
+A Trigésima Sétima Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao inconformismo, em acórdão assim ementado (e-STJ, fl. 73):
+Agravo de instrumento. Cumprimento de sentença. Decisão agravada que indeferiu o pedido de reconhecimento da impenhorabilidade do bem imóvel em questão, sob fundamento de que não existe comprovação hábil a afastar a penhora. Insurgência afastada. Agravante que possui direitos sobre outro bem e os documentos juntados não são suficientes para comprovar ser aquele penhorado o único utilizado para moradia permanente do Executado. Executado que não se desincumbiu de seu ônus probatório. Impenhorabilidade não reconhecida. Decisão mantida. Recurso não provido.
+Contra tal decisão, o autor interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, indicando contrariedade ao art. 1º da Lei 8.009/1990, e ao art. 805, do CPC/2015.
+Defendeu o insurgente, em síntese, a impenhorabilidade do imóvel onde possui domicílio e moradia, por se tratar de bem de família. Alegou que, em pesquisa de bens realizada em cartório por ordem do juiz singular, foi evidenciado que também era proprietário da fração de 1/6 (um sexto) de outro imóvel, que não utilizava para aquelas finalidades.
+Contrarrazões às fls. 101-108 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de que não foi demonstrada a vulneração aos dispositivos indicados, assim como pelo óbice da Súmula 7/STJ.
+Daí o presente agravo.
+Contraminuta às fls. 132-138 (e-STJ).
+Brevemente relatado, decido.
+Acerca da questão submetida ao crivo desta Corte, assim consignou o Tribunal de origem (e-STJ, fls. 74-76):
+Pelo que se extrai deste instrumento, o Executado, ora Agravante, pleiteia o reconhecimento, nos termos da Lei nº 8.009/90, da impenhorabilidade do imóvel de matrícula nº 170.161, sob alegação de se tratar de bem utilizado para sua moradia. No entanto, os elementos constantes dos autos, como asseverado pela r. decisão agravada, não são suficientes para se afirmar com a segurança que o caso requer, ser imóvel em questão o único utilizado como moradia do Executado e de sua família.
+Insta observar ainda, pelo que se extrai do andamento processual eletrônico, que em outra oportunidade já teria sido referido pelo Juízo a quo que a simples juntada de faturas de prestadora de serviços com a indicação do endereço não era suficiente para a comprovação da alegação de bem de família, ao que foi deferido prazo para o Executado comprovar, por meio de certidões de registro de imóveis, que não possuía outro imóvel, porém, ao contrário do alegado, das certidões apresentadas se verificou possuir o ora Agravante direitos sobre outro imóvel (págs. 36/38 destes).
+No entanto, apesar de se verificar que o Agravante possui outro imóvel, o que a princípio não foi informado, o Executado sequer cuidou de demonstrar nos autos o que agora alega, ou seja, que não utiliza o outro imóvel como moradia, pois apenas afirma que se trata de moradia de outro familiar.
+Insta observar que, apesar de nada constar neste instrumento, novamente se extrai do andamento processual que, em decisão anterior, o Juízo de origem asseverou, em outras quatro ocasiões, não ter sido encontrado ninguém no endereço informado pelo Agravante como de sua moradia (imóvel sito na rua São Benedito, 873, apto 271), de modo que lhe competia apresentar os documentos necessários para corroborar sua nova versão dos fatos.
+Como já referido em decisão anterior, a mera apresentação de contas de consumo, IPTU e condomínio, por si só, são insuficientes para comprovar que o bem é o único utilizado pelo Executado e sua família para moradia permanente, mesmo porque, apesar de constatado que possui outro imóvel, não demonstrou que também não tem estabelecida sua residência nesse outro imóvel.
+Os documentos apresentados pelo Executado (págs. 50/62 destes) apenas sugerem que o Executado resida nesse imóvel, mas não são suficientes para comprovar o requisito legal, qual seja, que é o único bem utilizado por ele e sua família para moradia permanente, conforme dispõe o artigo 5º, caput, da Lei nº 8.009/90.
+Nestes termos, pelo que consta deste instrumento, não restou configurada a presença dos requisitos para o reconhecimento da impenhorabilidade do imóvel por se tratar de bem de família. Cabe frisar que o ônus probatório da impenhorabilidade competia ao Executado, do que não se desincumbiu.
+Ante o exposto, nego provimento ao recurso.
+Ao julgar os embargos declaratórios opostos, acrescentou o Colegiado local que "à luz do disposto no artigo 1022 do Código de Processo Civil, o acórdão de págs. 73/76 não exibe os vícios enunciados pelo Embargante, uma vez que expressamente enunciado não ter o aqui Embargante feito prova de que o imóvel penhorado seria o efetivamente utilizado para moradia de sua família. Ao contrário do que argumenta, foi outorgada oportunidade para a realização de prova a respeito de que o outro imóvel seria ocupado por outra pessoa, mas o ora Embargante não se mostrou diligente. O direito de defesa foi, portanto, assegurado" (e-STJ, fl. 86).
+Com efeito, consoante o STJ, "não pode ser objeto de penhora o único bem imóvel do devedor que não é destinado à sua residência ou mesmo à locação em face de circunstância alheia à sua vontade, tais como a impossibilidade de moradia em razão de falta de serviço estatal" (REsp 825.660/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, julgado em 01/12/2009, DJe 14/12/2009).
+Nessa linha:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. BEM IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DIREITOS DO DEVEDOR FIDUCIANTE. PENHORA. IMPOSSIBILIDADE. BEM DE FAMÍLIA LEGAL. LEI Nº 8.009/1990.
+(..)
+4. A regra da impenhorabilidade do bem de família legal também abrange o imóvel em fase de aquisição, como aqueles decorrentes da celebração do compromisso de compra e venda ou do financiamento de imóvel para fins de moradia, sob pena de impedir que o devedor (executado) adquira o bem necessário à habitação da entidade familiar.
+5. Na hipótese, tratando-se de contrato de alienação fiduciária em garantia, no qual, havendo a quitação integral da dívida, o devedor fiduciante consolidará a propriedade para si, deve prevalecer a regra de impenhorabilidade.
+6. Recurso especial provido.
+(REsp 1677079/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018)
+Contudo, na hipótese dos autos, observa-se que o aresto combatido asseverou que não ficou demonstrado que o executado possuía apenas um imóvel para fins de moradia, afastando a impenhorabilidade alegada pelo ora recorrente.
+Portanto, a revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. BEM DE FAMÍLIA DADO EM GARANTIA HIPOTECÁRIA DE DÍVIDA CONTRAÍDA POR EMPRESA FAMILIAR. NEGÓCIO JURÍDICO QUE REVERTEU EM BENEFÍCIO DA ENTIDADE FAMILIAR. IMPOSSIBILIDADE DE SE INVOCAR O FAVOR LEGAL DE IMPENHORABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Na hipótese da lide, o Tribunal local, com apoio nas circunstâncias fáticas delineadas na lide, concluiu não ser possível a oponibilidade da impenhorabilidade ao credor hipotecário, por inexistir dúvidas no sentido de que o negócio jurídico tenha aproveitado a entidade familiar. A revisão dessa conclusão à luz da fundamentação deduzida no apelo nobre é obstada pela Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 665.764/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/10/2016, DJe 13/10/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
