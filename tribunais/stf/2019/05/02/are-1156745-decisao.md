@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão de inadmissibilidade do recurso extraordinário interposto em face de acórdão da Segunda Turma Especializada do Tribunal Regional Federal da 2ª Região, cuja ementa transcrevo (eDOC2, p. 26):
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO DO TETO DOS BENEFÍCIOS PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. APLICABILIDADE. BENEFÍCIO LIMITADO AO TETO VIGENTE À ÉPOCA DA CONCESSÃO. JUROS DE MORA E CORREÇÃO MONETÁRIA. PRESCRIÇÃO. ACP. HONORÁRIOS ADVOCATÍCIOS. NOVO CÓDIGO DE PROCESSO CIVIL. RECURSO DO INSS IMPROVIDO. REMESSA PARCIALMENTE PROVIDA. APELAÇÃO DA PARTE PARCIALMENTE PROVIDA.”
+    No recurso extraordinário interposto com fundamento no artigo 102, III, “a”, do permissivo constitucional, apontou-se ofensa aos artigos 14 da Emenda Constitucional 20/1998 e 5º da Emenda Constitucional 41/2003 e ao artigo 5º, caput, da Constituição Federal.
+    Nas razões recursais, sustenta que houve má aplicação do direito intertemporal, porquanto o Tribunal de origem não poderia ter afastado a decadência em relação ao pedido de revisão do benefício outrora concedido.
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    Observa-se que o Tribunal de origem divergiu da jurisprudência desta Corte que, ao julgar o RE 626.489-RG, Tema 313 da repercussão geral, concluiu que a decadência atinge o ato administrativo de concessão do benefício cuja revisão é buscada. Logo, afastar a decadência é autorizar a eternização dos litígios, desprestigiando a segurança jurídica. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS CONCEDIDOS ANTES DA ENTRADA EM VIGOR DA MEDIDA PROVISÓRIA 1.523-9/1997. DECADÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM O DECIDIDO PELO PLENÁRIO DESTA CORTE NO RE 626.489 RG. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 887.722-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 12.08.2015).
+    “Agravo regimental no recurso extraordinário com agravo. Direito previdenciário. Revisão de benefício. Decadência. Medida provisória nº 1.523/1997. Aplicação aos benefícios concedidos anteriormente a sua vigência. Repercussão geral reconhecida. Precedentes. 1. O Plenário da Corte, no exame do RE nº 626.489/SE-RG, Relator o Ministro Roberto Barroso, concluiu que ‘o prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista[;] tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição’. 2. Agravo regimental não provido”. (ARE 843.597-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 08.04.2015).
+    Ainda monocraticamente, RE 988.436, Rel. Min. Gilmar Mendes, DJe 28.09.2016; RE 984.875, Rel. Min. Roberto Barroso, DJe 05.09.2016.
+    Ante o exposto, dou provimento ao recurso extraordinário, nos termos do artigo 21, § 2º, RISTF, para reconhecer a incidência da decadência e julgar extinto o processo, com resolução de mérito, nos termos do art. 487, II, CPC.
+    Publique-se.
+    Brasília, 2 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
