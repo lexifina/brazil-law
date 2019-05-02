@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com arrimo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fls. 541/542):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. MULTAS APLICADAS PELO PROCON ESTADUAL. PRESCRIÇÃO INTERCORRENTE. INAPLICABILIDADE DA LEI FEDERAL N. 9.873/99. INCIDÊNCIA DO PRAZO PRESCRICIONAL PREVISTO NO DECRETO N. 20.910/1932. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. NECESSIDADE DE DECLARAR EXTINTAS AS SANÇÕES IMPOSTAS. PROCESSOS ADMINISTRATIVOS N. 80.735/06 E N. 84066/2007. RAZOÁVEL DURAÇÃO DO PROCESSO. DIREITO, FUNDAMENTAL INÉRCIA DO ENTE ESTATAL QUE VIOLA A SEGURANÇA JURÍDICA DO ADMINISTRADO.
+1. "O Superior Tribunal de Justiça entende que em casos de ação anulatória de ato administrativo ajuizada em desfavor da Coordenadoria Estadual de Proteção de Defesa do Consumidor, em decorrência do exercício do poder de polícia do Procon, é inaplicável a Lei 9.873/1999, sujeitando-se a ação ao prazo prescricional qüinqüenal previsto no art. 1º do Decreto 20.910/1932." (STJ - AgRg no Resp 1566304 / PR. Rel. Min. HERMAN BENJAMIN. SEGUNDA TURMA. J. 10/03/2016. DJe 31/05/2016).
+2. A paralisação do processo administrativo por longo período de tempo (anos), sem quaisquer diligências por parte da Administração Pública, viola o direito do administrado ao processo célere, seja ele judicial ou administrativo.
+3. O administrado não pode ser prejudicado pela demora administrativa, sob pena de admitir-se a perpetuação da tramitação dos processos administrativos perante o PROCON, em evidente afronta à segurança jurídica.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pela recorrida foram parcialmente acolhidos para readequar os ônus sucumbenciais.
+O recorrente aponta violação dos arts. 1º e 4º do Decreto n. 20.910/1932 e dos arts. 4º c/c 485, VI, do Código de Processo Civil/2015, alegando, em síntese, que não há previsão legal acerca de prescrição intercorrente em processos administrativos advindos de sanções administrativas estaduais.
+Contrarrazões apresentadas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que acórdão recorrido merece reforma.
+De acordo com a jurisprudência desta Corte, "o art. 1º do Decreto 20.910/1932 regula somente a prescrição quinquenal, não havendo previsão acerca de prescrição intercorrente, prevista apenas na Lei 9.873/1999, que, conforme entendimento do Superior Tribunal de Justiça, não se aplica às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal" (REsp 1.662.786/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2017, DJe 16/06/2017).
+A propósito, destaco precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MULTA. ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. LEI N. 9.783/99. INAPLICABILIDADE AOS ENTES ESTADUAIS E MUNICIPAIS. PRESCRIÇÃO AFASTADA.
+I - Primeira Seção deste Superior Tribunal de Justiça, no julgamento do recurso especial repetitivo n. 1.115.078/RS (Rel. Min. Castro Meira, DJe de 24/3/2010), processado nos moldes do art. 543-C do CPC/73, consignou no bojo do voto a inaplicabilidade da Lei n. 9.873/1999 às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal, nos termos de seu art. lº.
+II - Entendimento firmado consolidado no julgamento do recurso especial repetitivo 1.115.078/RS que não se restringe aos procedimentos de apuração de infrações ambientais.
+III - Agravo interno improvido.
+(AgInt no REsp 1.608.710/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/08/2017, DJe 28/08/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ADMINISTRATIVO. PROCESSOS ADMINISTRATIVOS. MULTAS. PROCON. LEI 9.873/99. PRESCRIÇÃO INTERCORRENTE. AFASTAMENTO. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - O acórdão recorrido está em confronto com orientação desta Corte, segundo o qual é inaplicável a Lei n. 9.873/1999 às ações administrativas punitivas desenvolvidas por estados e municípios, em razão da limitação do âmbito espacial da lei ao plano federal, nos termos de seu art. 1º.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg no REsp 1.513.771/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016).
+Confiram-se, ainda: AgInt no REsp 1.665.491/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2017, DJe 28/11/2017; AgInt no REsp 1.609.487/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/02/2017, DJe 23/02/2017; AgRg no AREsp 750.574/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/11/2015, DJe 13/11/2015; AgRg no AREsp 509.704/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/06/2014, DJe 1º/07/2014.
+Dessa forma, ante a ausência de previsão legal acerca da hipótese, conforme consignado pelo próprio Tribunal a quo, não poderia ter declarada a prescrição intercorrente, prevista apenas na Lei n. 9.873/1999.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a prescrição intercorrente decretada. Em consequência, determino o retorno dos autos para que o Tribunal de origem prossiga no julgamento, como entender de direito.
+Publique-se. Intimem-se.
