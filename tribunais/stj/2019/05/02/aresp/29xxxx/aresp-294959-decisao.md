@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo, interposto por LÉLIA SENA FREIRE, em 19/12/2012, por meio do qual se impugna decisão que inadmitiu seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EXECUÇÃO DE SENTENÇA - AÇÃO COLETIVA - AÇÃO INDIVIDUAL - SENTENÇAS - CONFLITO - COISA JULGADA - OFENSA - ART. 485, IV, DO CPC.
+Há de prevalecer a sentença proferida nos autos da ação coletiva com idêntico objeto controvertido daquela proferida nos autos de individual, posto que primeiramente transitada em julgado" (fl. 403e).
+Embargos de Declaração rejeitados (fls. 415/418e).
+Alega-se, nas razões do Recurso Especial, manejado com base na alínea a do permissivo constitucional, violação aos arts. 535, II, do CPC/73 e 103, III, da Lei 8.078/90.
+Sustenta, a parte recorrente, no que ora importa, o seguinte:
+"13. Embasada no art. 103, III, do CDC, a recorrente aviou recurso de apelação (fl. 295), na qual alegou que a decisão de improcedência em ação coletiva que objetiva a tutela de interesses ou direitos individuais homogêneos, como a que foi proposta pela AFAEMG e julgada improcedente em parte, não faz coisa julgada em relação à ação individual, como a presente ação, que foi julgada procedente, nos termos do art. 103, do CDC.
+(..)
+15. Isso porque a sentença da ação coletiva determinou apenas a restituição de 4,8 p.p. da contribuição de 8% prevista na Lei 9.380/86. Em relação aos demais 3,2 p.p. a decisão da ação coletiva foi de improcedência. Já na ação individual, o pedido foi totalmente procedente e determinou a devolução integral dos 8% (Lei 9.380/86).
+16. O TJMG, ao julgar o apelo, considerou, equivocadamente, que as duas ações propostas são ações individuais. Consta do acórdão da apelação que: "Ora, no conflito de sentenças, ambas produzindo coisa julgada, prevalece a primeira..". Não enfrentou o fato de a primeira ação ser uma ação coletiva.
+17. Assim, como o acórdão da apelação negou provimento ao recurso, ignorando-se esse argumento central da recorrente, foram opostos embargos de declaração, na qual a recorrente afirmou que (fl. 366):
+(..)
+18. Os embargos de declaração foram rejeitados pelo TJMG sob o fundamento de que "tendo a embargante ajuizado a ação ordinária com idêntico objetivo da ação coletiva outrora aviada, não poderia ser julgada procedente".
+19. Conforme se vê do acórdão dos embargos de declaração (fls. 371/373), o TJMG não enfrentou o ponto sobre o qual deveria ter pronunciado, violando o artigo 535, II, do CPC" (fls. 425/427e).
+Requer-se, ao final, "a) pela alínea "a" do permissivo constitucional, que seja reconhecida a violação ao art. 535, II, do CPC, ante a omissão no acórdão da apelação e que não foi sanada no julgamento dos embargos de declaração opostos pela recorrente e seja anulado o acórdão dos embargos de declaração e determinando o retorno dos autos ao TJMG para novo julgamento. Se se entender que não há violação ao art. 535 do CPC e que a questão esteja devidamente prequestionada: b) também pela alínea "a" do permissivo constitucional, que seja reconhecido que o Tribunal local violou diretamente o art. 103, III, da Lei 8.078/90, com consequente provimento deste recurso especial para o fim de reformar o acórdão recorrido e determinar prosseguimento da execução quanto ao valor ainda devido, tal como requerido às fls. 281/283" (fls. 435/436e).
+Contrarrazões às fls. 440/441e.
+Recurso Especial inadmitido (fls. 443/444e), com base na inocorrência de omissão e na Súmula 211/STJ, o que ensejou a interposição de Agravo (fls. 447/455e).
+Contraminuta às fls. 458/461e.
+O presente recurso merece prosperar.
+Está devidamente caracterizada a omissão, no acórdão recorrido.
+Dessarte, embora o Tribunal de origem tenha sido expressamente instado, inclusive mediante Embargos de Declaração, a apreciar a alegação de que a coisa julgada, formada na ação coletiva, não seria integralmente coincidente com a coisa julgada formada na ação individual, quedou-se, aquele Sodalício, silente.
+Com efeito, limitou-se, a Corte a quo, a afirmar, genericamente, essa identidade, sem, contudo, analisar, com a necessária minudência, a afirmação da ora recorrente no sentido de que "a sentença da ação coletiva determinou apenas a restituição de 4,8 p.p. da contribuição de 8% prevista na Lei 9.380/86. Em relação aos demais 3,2 p.p. a decisão da ação coletiva foi de improcedência. Já na ação individual, o pedido foi totalmente procedente e determinou a devolução integral dos 8% (Lei 9.380/86)".
+Como a formação da coisa julgada, na ação coletiva, dá-se secundum eventum litis, tem-se que a análise do argumento era de rigor, sob pena de negativa de prestação jurisdicional e violação ao art. 535, II, do CPC/73.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Embargos de Declaração, aviados pela ora recorrente, com o expresso enfrentamento da alegação de que, tendo em vista que a coisa julgada, formada na anterior ação coletiva, não seria integralmente coincidente com a coisa julgada formada na posterior ação individual, não haveria impossibilidade processual para o ajuizamento dessa última.
+I.
