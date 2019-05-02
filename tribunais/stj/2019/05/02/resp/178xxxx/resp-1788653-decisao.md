@@ -1,0 +1,67 @@
+DECISÃO
+[NOME] interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. [CPF].
+Nas razões recursais, a defesa sustenta a violação dos arts. 155 do Código Penal e 386, III, do Código de Processo Penal, ao argumento de que a conduta praticada é atípica, pela incidência do princípio da insignificância.
+Aponta, ainda, a negativa de vigência dos arts. 159 e 172 do Código de Processo Penal, diante da nulidade do laudo pericial realizado para a comprovação da qualificadora do rompimento de obstáculo.
+Requer, dessa forma, o provimento do recurso para que seja absolvido ou, subsidiariamente, afastar a referida qualificadora.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal opinou pelo parcial conhecimento e, nessa extensão, pelo seu não provimento.
+Decido.
+I. Atipicidade da conduta
+Consta dos autos que o agravante foi denunciado pela prática de tentativa de furto qualificado, pois "invadiu a sede da referida escola estadual, arrombando e danificando janelas metálicas, bem como destruindo câmeras de vigilância, para subtrair bens existentes dentro do educandário" (fl. 2), o que apenas não se consumou por circunstâncias alheias à sua vontade.
+O Juiz de primeiro grau afastou a atipicidade da conduta, "porque a res furtivae foi avaliada em R$ 900,00 (novecentos reais), conforme auto de exame de furto da fl. 42, valor superior ao salário mínimo vigente à data do fato (em 2015 o salário mínimo era de R$ 788,00)". Ressaltou, ainda, "que se tratavam de bens de uma escola pública, o que, por si só, já torna relevante socialmente a conduta" (fl. 124).
+A Corte de origem manteve os termos da sentença e salientou que "as circunstâncias em que praticado o delito - ingresso em uma escola, com rompimento de obstáculo - conferem desvalor à conduta do acusado" (fl. 181).
+Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (conforme decidido nos autos do HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004).
+Aliás, tenho externado, em diversos votos e decisões monocráticas, minha posição favorável à possibilidade de, a despeito da subsunção formal de determinada conduta humana a um tipo penal, concluir-se pela atipicidade material da conduta, por diversos motivos, entre os quais, a ausência de ofensividade penal do comportamento verificado. Isso porque, além da adequação típica formal, deve haver uma atuação seletiva, subsidiária e fragmentária do Direito Penal, conferindo-se, desse modo, maior relevância à proteção de valores tidos como indispensáveis à ordem social, a exemplo da vida, da liberdade, da propriedade, do patrimônio etc., quando efetivamente ofendidos.
+No caso vertente, há componentes significativos que revelam a acentuada reprovabilidade do comportamento do réu, a indicar a necessidade da atividade punitiva estatal.
+Com efeito, constato que a conduta perpetrada pelo acusado não se revela de escassa ofensividade penal e social. Isso porque, diante do valor econômico dos bens subtraídos - avaliados em R$ 900,00, valor superior ao salário mínimo vigente à data do fato (R$ 788,00) -, a lesão jurídica provocada pela conduta não pode ser considerada inexpressiva.
+Ademais, não há como reconhecer a irrelevância penal da conduta ante a inexpressividade da lesão jurídica, haja vista que a tentativa de furto foi praticada em detrimento do patrimônio público de uma escola estadual, o que afasta a aplicação do princípio da insignificância ao caso.
+Nesse sentido, mutatis mutandis:
+ ..
+1. O princípio da insignificância reafirma a necessidade de lesão jurídica expressiva para a incidência do direito penal, afastando a tipicidade do delito em certas hipóteses em que, apesar de típica a conduta, não houve dano juridicamente relevante.
+2. No caso, o agente subtraiu 50kg de carne de Escola Pública Municipal, conduta que, em razão do volume da res furtiva e da gravidade para a vítima, afasta a inexpressividade da lesão e, portanto, não autoriza a aplicação do princípio da insignificância.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.614.250/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 28/9/2016)
+Dessa forma, as instâncias ordinárias, ao afastarem a incidência do princípio da insignificância, decidiram consoante a jurisprudência do Superior Tribunal de Justiça.
+II. Contrariedade aos arts. 159 e 172 do Código de Processo Penal
+A sentença condenatória assim justificou a incidência da qualificadora do rompimento de obstáculo (fl. 123):
+Diga-se que não se vislumbra qualquer invalidade do auto de exame de furto da fl 42 uma vez que os peritos foram nomeados pela Delegada de Policia titular, cuja idoneidade é presumida e possuíam ensino superior válido para a atividade em questão.
+Outrossim, o laudo foi realizado com total idoneidade e não há necessidade de conhecimento técnico especifico para a elaboração do auto de exame sob análise, servindo este apenas para informar o valor da coisa subtraída, elemento informativo da materialidade.
+ O Tribunal estadual, ao negar provimento ao recurso, consignou que (fls. 182, grifei):
+Quanto à qualificadora do rompimento de obstáculo, ressalto ter revisto meu posicionamento sobre a matéria, de modo que, em casos onde a perícia for singela, passível de verificação visual, mostra-se possível a flexibilização das exigências contidas no art. 159 do CPP.
+O laudo foi elaborado por duas pessoas portadoras de diploma de curso superior e não se verifica a atuação dos peritos no inquérito policial. Ademais, a prova oral confirmou o arrombamento da janela, dando confiabilidade ao laudo da fl. 42. Além disso, o art. 158 do CPP autoriza a realização de perícia indireta e, no caso, a prova testemunhai confirmou o arrombamento, dando confiabilidade ao laudo.
+Pela análise do auto de constatação mencionado na sentença e no acórdão (fl. 44), verifica-se que o rompimento de obstáculo foi atestado de forma indireta, mediante as informações prestadas pelo policial que atendeu à ocorrência e pela Diretora da escola.
+A respeito do tema, registro que, no julgamento do REsp n. 1.320.298/MG, ocorrido no dia 15/12/2015, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte. Porém, levado referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria sob a seguinte ementa:
+ ..
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Recurso provido para afastar a qualificadora da escalada da condenação do recorrente pelo delito de furto.
+(REsp n. 1.320.298/MG, de minha relatoria, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016, destaquei.)
+Com relação à qualificadora do rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova, quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+ A partir de então, com a ressalva de meu entendimento pessoal, aderi ao entendimento da Sexta Turma, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação do rompimento de obstáculo.
+Ilustrativamente:
+ ..
+2. Para a incidência da qualificadora de rompimento de obstáculos, que deixa vestígios, é imprescindível a comprovação por laudo pericial, a teor dos arts. 158 e 171 do Código de Processo Penal.
+3. A substituição do laudo pericial por outros meios de prova somente se mostra apropriada se o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que não foi demonstrado na hipótese vertente, tendo em vista que a não realização do exame se deu em virtude de falha atribuível unicamente ao aparato estatal.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de afastar a qualificadora e reduzir a reprimenda do paciente para 1 (um) ano de reclusão, mais 10 dias-multa, mantida a substituição da pena privativa de liberdade por restritiva de direito, consistente na prestação de serviços à comunidade, nos termos do acórdão.
+(HC n. 350.223/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/4/2016, destaquei.)
+ ..
+- A jurisprudência desta Corte de Justiça é pacífica quanto à necessidade de realização de exame pericial para o reconhecimento da qualificadora do rompimento de obstáculo, prevista no art. 155, § 4º, I, do Código Penal, sendo possível a sua substituição por outros meios probatórios somente quando a infração não deixar vestígio ou se o corpo de delito houver desaparecido, a teor do disposto nos arts. 158 e 167 do Código de Processo Penal (AgRg no AgRg no REsp 1.419.093/DF, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 10/3/2015, DJe 26/3/2015).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.337.425/DF, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 17/9/2015, destaquei.)
+ ..
+1. Mostra-se necessária a realização do exame técnico-científico para qualificação do crime ou mesmo para sua tipificação, pois o exame de corpo de delito direto é imprescindível nas infrações que deixam vestígios, podendo apenas ser suprido pela prova testemunhal quando não puderem ser mais colhidos. Logo, se era possível a realização da perícia, e esta não ocorreu de acordo com as normas pertinentes (art. 159 do CPP), a prova testemunhal e o exame indireto não suprem a sua ausência.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 558.432/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 20/10/2014, destaquei.)
+No mesmo sentido, o seguinte julgado da Quinta Turma do Superior Tribunal de Justiça:
+ ..
+III - Segundo pacífica jurisprudência desta Corte Superior, o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando os vestígios tenham desaparecido. Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência (precedentes).
+IV - No presente caso, o laudo invocado pelo eg. Tribunal de origem para manter a qualificadora do rompimento de obstáculo foi realizado de forma indireta, não tendo sido apresentada qualquer justificativa para a ausência de elaboração do exame direto, sendo indevida a sua utilização para qualificar o crime.
+Habeas Corpus não conhecido. Contudo, ordem concedido de ofício para afastar a qualificadora do rompimento de obstáculo e reduzir a pena imposta.
+(HC n. 374.090/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 23/3/2017, grifei.)
+Como na hipótese dos autos é incontroverso que não foi realizado exame pericial direto para atestar o rompimento do obstáculo e as instâncias ordinárias não demonstraram nenhuma excepcionalidade que justificasse a realização da constatação indireta, deve ser afastada a incidência da referida qualificadora.
+III. Nova dosimetria da pena
+Reconhecida a ilegalidade, passo à readequação da pena do réu, observados os parâmetros fixados na sentença condenatória.
+Na primeira fase da dosimetria, a pena-base foi mantida no mínimo legal. Afastada a forma qualificada, fixo a pena em 1 ano de reclusão mais 10 dias-multa. Na segunda etapa, a reprimenda permaneceu inalterada, ante a ausência de agravantes e de atenuantes. Na terceira fase, a sanção foi reduzida pela metade, pela tentativa, o que a torna definitivamente estabelecida em 6 meses de reclusão e 5 dias-multa.
+IV. Dispositivo
+À vista do exposto, conheço do recurso especial e, nessa extensão, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou-lhe parcial provimento, apenas a fim de afastar a incidência da qualificadora do rompimento de obstáculo e, por conseguinte, readequar a pena imposta ao réu, tornando-a definitiva em 6 meses de reclusão, mais 5 dias-multa.
+Publique-se e intimem-se.
