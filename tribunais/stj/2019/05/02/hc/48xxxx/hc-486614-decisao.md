@@ -1,0 +1,50 @@
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E DIREITO PROCESSUAL PENAL. ARTS. 180 E 311 DO CP. RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ABSOLVIÇÃO. DILAÇÃO PROBATÓRIA INCOMPATÍVEL COM A VIA ELEITA. FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra ato praticado pelo Tribunal de Justiça de São Paulo.
+O paciente foi condenado às penas de 12 anos de reclusão em regime inicial fechado e de 958 dias-multa, por sentença de 16/10/2018. Negou-se o apelo em liberdade e determinou-se a expedição de mandado de prisão, cujo cumprimento se deu em 5/11/2018 (fl. 12).
+O Tribunal de origem denegou a ordem ao habeas corpus em acórdão com a seguinte ementa (fl. 12):
+Habeas corpus. ORGANIZAÇÃO CRIMINOSA e ASSOCIAÇÃO PARA O TRÁFICO. Mandado de prisão expedido após sentença de 1º Grau. Presença dos requisitos autorizadores da prisão preventiva. Periculosidade do paciente, que estava preso por outros processos. Inexistência de constrangimento ilegal.
+Ordem denegada
+Inconformada, a defesa alega que o paciente respondeu a todo o processo em liberdade, não podendo o Juízo de primeiro grau determinar a prisão preventiva por força da sentença condenatória.
+Requer seja concedido o pedido de liminar, a fim de que seja expedido o alvará de soltura, ante a inexistência dos requisitos do art. 312 do Código de Processo Penal e pelo fato de o paciente ter respondido ao processo em liberdade sem acarretar nenhum prejuízo ao andamento processual (fls. 3/10).
+Liminar indeferida (fls. 84/86).
+O Ministério Público Federal opinou pelo não conhecimento do writ, e se conhecido, quanto ao mérito, pela denegação da ordem (fls. 129/135).
+Em reiteração o Parquet federal ofertou nova petição ratificando os termos do parecer (fls. 148 e 149).
+É o relatório.
+Almeja a impetrante a concessão de ordem definitiva para absolver o paciente, no que tange ao art. 311 do Código Penal, bem como para a substituição da pena privativa de liberdade por pena restritiva de direitos (fl. 11).
+Com efeito, no caso, observa-se que, em relação ao pedido de absolvição, inadequada a estreita via do habeas corpus, porquanto não se presta ao revolvimento da matéria fático-probatória, como ocorre quando a decisão é atacada sob alegações de insuficiência e/ou má apreciação das provas, devendo a coação ser manifestamente ilegal, o que não ocorre na hipótese dos autos (EDcl no HC n. 437.212/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/3/2019).
+Sobre a autoria e a materialidade dos delitos imputados ao paciente, oportuna a transcrição, no que interessa, do voto condutor do acórdão impugnado (fls. 171/178):
+ ..  Observe-se que o réu, na Delegacia, negou a acusação, alegando ter adquirido a motocicleta por R$ 500,00 de indivíduo cujo nome desconhece, o qual alegou haver comprado o veículo num "leilão". Negou haver "pinado" qualquer numeração da motocicleta, afirmando ter "apenas repintado de preto", porquanto a pintura estava "muito malfeita". Em juízo, manteve a negativa. Aduziu desconhecer a origem espúria do veículo, afirmando que o vendedor o orientou a usá-la somente em zona rural ante a ausência de documentação (fls. 11 e mídia digital).
+Todavia, a negativa, a par de inverossímil, acabou isolada.
+Com efeito, declarou a vítima [NOME] ter estacionado sua motocicleta por volta das 19h00 na rua lateral da faculdade FREA, onde estuda, constatando a subtração do veículo após as 22h00, comunicado o furto à Polícia. Informou que, dez dias depois, a motocicleta foi localizada pela Polícia Militar, logrando reconhecê-la mesmo diante da alteração de algumas características (como a cor, originalmente verde), algo possível através de outros detalhes previamente relatados no boletim de ocorrência. O veículo foi submetido a exame pericial, de modo a constatar a adulteração de motor e chassi, confirmando-se se tratar de sua motocicleta. Soube, posteriormente, que EBERALDO havia subtraído seu veículo, anotando não o conhecer (fls. 40/41 e mídia).
+Convém ressaltar que, no campo probatório, a palavra da vítima é sumamente valiosa, pois visa unicamente a descrever a conduta de seu algoz; vale dizer, ela não tem proveito em mentir, porquanto, se o fizer, pode, inclusive, incidir no crime de denunciação caluniosa, por dar causa à investigação da Polícia ou ao processo judicial.
+A corroborar a acusação, declinou o policial militar [NOME] a existência de notícias sobre indivíduo que estaria conduzindo motocicleta produto de furto no bairro "Barra Grande". Em diligências pelo local, deparou-se com o réu, que estava defronte ao número 465 da Rua Sebastião Camilo Lelis, tendo ele demonstrado nervosismo diante da Polícia, daí porque decidiu abordá-lo. Em revista pessoal, nada de ilício foi encontrado. Contudo, indagado acerca da motocicleta preta localizada ao lado da casa em que se encontrava, EBERALDO assumiu a propriedade do veículo, aduzindo tê-lo adquirido em data anterior por R$ 500,00 de indivíduo desconhecido. Verificada a motocicleta, constatou-se que o chassi e a numeração do motor estavam "pinados", alegando o apelante haver comprado o veículo naquelas condições. Por fim, destacou exibir a motocicleta a cor preta, sendo, originalmente, verde, estando a tinta ainda fresca, passada a pincel.
+Diante da situação, o apelante confirmou haver pintado a motocicleta, que acabou apreendida. Ao final, salientou que os últimos cinco números do chassi coincidiam com a de uma motocicleta cor verde, produto de furto (fls. 53 e mídia).
+Frise-se que os esclarecimentos analisados se mostram harmônicos, coerentes, lógicos e livres de dúvidas, nada havendo capaz de demonstrar animosidade ou intenção deliberada de prejudicar o recorrente, além do que a lei não faz ressalva alguma relativa ao valor de versão trazida por policial.
+ ..
+Sob outro enfoque, a origem espúria da motocicleta vem demonstrada pelo boletim de ocorrência nº. 2007/2015 (fls. 12/13), a par das declarações do ofendido [NOME] confirmando o delito precedente (mídia).
+Diante do quadro probatório, indubitável o vínculo entre EBERALDO e o veículo, cumprindo destacar que o bem foi encontrado em seu poder, desprovido de documentação e com a numeração do chassi adulterada, assim como a cor, a par do comportamento suspeito externado por ele ao avistar os policiais, lembrando não ter o agente sequer identificado a pessoa de quem ardilosamente disse haver comprado a coisa, tudo a desvendar a mendacidade da pueril versão apresentada e a correlata autoria da receptação.
+Outro fato importante deve ser anotado: o apelante não apresentou documento algum (como, v.g., recibo atestando a "aquisição" da coisa), peculiaridade apta a corroborar a receptação dolosa.
+ ..
+Na hipótese, a presunção de autoria decorrente da apreensão do produto do crime em poder do agente somente pode ser elidida mediante explicação idônea para o fato, algo inexistente na hipótese, de modo a tornar inadmissível a desclassificação pretendida pela Defensoria Pública via apelo.
+ ..
+Melhor sorte não assiste ao denunciado com relação ao crime capitulado no artigo 311, caput, do Código Penal.
+A propósito, as circunstâncias da abordagem policial evidenciam ser o acusado o responsável pela adulteração da numeração do chassi, motor e cor da motocicleta (algo admitido por ele perante os policiais) localizada em poder dele, irregularidades descritas no laudo pericial juntado a fls. 28/34, o qual alegou ser o veículo proveniente de leilão, adquirido de pessoa minimamente identificada.
+Na hipótese, embora EBERALDO tenha negado a adulteração de qualquer numeração da motocicleta, admitiu, repita-se, haver "repintado" o veículo de preto, ao argumento de estar a pintura "malfeita".
+Ademais, argumente-se que, caso não fosse o responsável direto pela adulteração, saberia o acusado apontar o sujeito ativo do delito, o qual, como decorre claro, contou com sua participação ou contribuição de qualquer forma, mesmo porque, como afirmou em ambas as fases da persecução, o veículo lhe "pertencia", sendo fruto de aquisição espúria antes concretizada.
+ ..
+Erigida essa premissa, oportuna a manifestação da Subprocuradoria-Geral da República no sentido da denegação do writ (fls. 224/226):
+ ..  De outra parte, ao contrário do verberado pela impetrante, verifica-se que o próprio modus operandi da conduta delituosa gera esse efeito de presunção, não cabendo ao órgão acusador o ônus de prová-lo. Prova, aliás impossível de ser produzia diante de mera negativa de autoria por parte do réu.
+Depreende-se dos autos que o acórdão objurgado apresenta fundamentação idônea, verbis:
+ ..
+Nesse diapasão, ressalta-se que "o delito de receptação, sendo flagrado o agente com a res furtiva em seu poder, firma-se a presunção relativa da responsabilidade do réu, momento em que se transfere à defesa, nos termos do art. 156 do Código de Processo Penal, a tarefa de comprovar a licitude da conduta mediante emprego de quaisquer dos artifícios inerentes ao exercício do contraditório e da ampla defesa, não havendo que se falar em indevida inversão do ônus da prova. (Precedentes): (AgRg no HC n. 458.917/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/12/2018, DJe 17/12/2018)
+Por fim, não sendo acolhido o pleito principal, a substituição da pena
+privativa de liberdade por restritiva de direitos torna-se despicienda. Assim, verifica-se que o acórdão ferretado está de acordo com a jurisprudência dessa Corte Superior, não restando configurada a ilegalidade apontada.
+ ..
+Não há violação dos preceitos processuais quando o Magistrado adota os termos da manifestação ministerial como razões de decidir (RHC n. 31.266/RJ, Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), Quinta Turma, DJe 18/4/2012).
+Ilustrativamente: HC n. 400.807/SP, da minha relatoria, Sexta Turma, DJe 2/10/2017.
+Feitas essas considerações, não verifico ilegalidade flagrante apta à concessão da ordem nos termos da jurisprudência deste Superior Tribunal.
+Ante o exposto, denego a ordem.
+Publique-se.
