@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. REDUÇÃO DO VALOR DAS ASTREINTES. QUANTUM FIXADO DENTRO DA PROPORCIONALIDADE DE ACORDO COM AS PECULIARIDADES DO CASO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Na origem, o Banco Santander Brasil S.A. interpôs agravo de instrumento contra decisão do Juízo de primeiro grau que, nos autos da ação de execução provisória ajuizada por [NOME], rejeitou a impugnação e determinou o bloqueio via BacenJud de R$ 180.000,00 (cento e oitenta mil reais), a título de astreintes, em razão do descumprimento de ordem judicial.
+A Primeira Câmara Cível do Tribunal de Justiça do Espírito Santo deu parcial provimento ao agravo de instrumento para limitar o valor da multa ao equivalente ao do imóvel em acórdão assim ementado (e-STJ, fl. 306):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. ASTREINTES. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. VALOR EXCESSIVO. MINORAÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. A decisão que fixa o valor das astreintes possui natureza meramente interlocutória, podendo ser revista a qualquer tempo, inclusive em fase de cumprimento de sentença, porquanto não forma coisa julgada material, tampouco figura como objeto da lide.
+II. Considerando a natureza nitidamente acessória das astreintes, ao fixá-la, o magistrado deverá observar os postulados da razoabilidade e da proporcionalidade, de modo a compelir o cumprimento da obrigação pelo devedor, preservando a essência do instituto e a própria lógica da efetividade processual, bem como inibir a caracterização de enriquecimento sem causa em favor do credor.
+III. Na hipótese, diante do reiterado e inescusável descumprimento da ordem judicial e da capacidade econômica das partes, deverá ser reformada a decisão recorrida para limitar o valor da multa ao equivalente ao do imóvel, atendendo aos princípios da proporcionalidade e da razoabilidade e sem implicar em enriquecimento sem causa do agravado. Precedentes.
+IV. Recurso conhecido e parcialmente provido.
+Nas razões do recurso especial, o Banco Santander Brasil S.A. alegou ofensa aos arts. 537, § 1º, I e II, do Código de Processo Civil de 2015 e 884 do Código Civil, ao argumento de que a multa fixada é muito onerosa, devendo ser limitada a R$ 10.000,00 (dez mil reais).
+Contrarrazões apresentadas às fls. 366-368 (e-STJ).
+A Vice-Presidência da Corte estadual inadmitiu o apelo especial sob o fundamento de incidência da Súmula n. 7 do STJ.
+Irresignado, o recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta apresentada às fls. 382-384 (e-STJ).
+Brevemente relatado, decido.
+Na hipótese, o Tribunal de origem reduziu o valor das astreintes para limitá-lo ao equivalente ao do imóvel, ante as peculiaridades do caso, que envolve o reiterado descumprimento da ordem judicial, conforme se verifica do seguinte trecho (e-STJ, fls. 313-315, grifo no original):
+ Na hipótese, verifiquei que as astreintes foram fixadas em decisão proferida na data de 1º.04.2016 (fls. 91/92), por meio da qual o agravante foi compelido a emitir a carta de quitação do contrato imobiliário n. 90.400.089149 e a realizar a baixa da garantia hipotecária inscrita na matrícula n. 18.081, do CRGI da 1ª Zona de Vila Velha, no prazo de 05 (cinco) dias, sob pena de multa diária de R$ 1.000,00 (mil reais).
+ Desta decisão, foram as partes intimadas tanto através de seus advogados, a teor da certidão de fl. 95, quanto pessoalmente, consoante mandado de fl. 93 e AR de fl. 94, tendo-se, portanto, adimplida a exigência contida na Súmula n. 410, do E.STJ, segundo a qual "A prévia intimação pessoal do devedor
+Dessa forma, não verificada a desproporcionalidade alegada, a redução das astreintes, após o arbitramento efetuado pela Corte local com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EXECUÇÃO. VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SUMULA Nº 282 DO STF. PLEITO DE REDUÇÃO DA MULTA POR EVENTUAL DESCUMPRIMENTO DE DECISÃO JUDICIAL. VALOR FIXADO QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Os arts. 273, § 3º, 461, §§ 3º, 4º e 6º, do CPC e art. 84, § 4º, da Lei nº 8.078/90, tidos por violados, não foram objeto de debate no acórdão recorrido, e nem foram opostos embargos de declaração a fim de suscitar a discussão dos temas neles contidos pela Corte de origem, carecendo, assim, do necessário prequestionamento da questão federal invocada. Incidência da Súmula nº 282 do STF.
+2. A Terceira Turma desta Corte, no julgamento do REsp nº 1.475.157/SC, de relatoria do Ministro MARCO AURÉLIO BELLIZZE, firmou entendimento de que a apuração da razoabilidade e da proporcionalidade do valor da multa diária por descumprimento de decisão judicial deve ser verificada no momento de sua fixação em relação ao da obrigação principal, uma vez que a redução do montante total a título de astreinte, quando superior ao valor da obrigação principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir as decisões judiciais, bem como estimula a interposição de recursos com esse fim a esta Corte, em total desprestígio da atividade jurisdicional das instância ordinárias.
+3. No caso dos autos, a Corte estadual reconheceu que o elevado montante da multa, no importe de R$ 133.955,44, deveu-se unicamente à reconhecida recalcitrância da executada em descumprir decisão judicial, por cerca de 415 dias, sendo o valor diário da multa de R$ 300,00 (trezentos reais), que não se mostra exorbitante.
+4. Ademais, reforma das conclusões adotadas no Tribunal a quo demanda novo enfrentamento do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 desta Corte.
+5. Recurso especial não provido.
+(REsp n. 1.527.203/RJ, Relator o Ministro Moura Ribeiro, Terceira Turma, julgado em 20/10/2015, DJe 26/10/2015)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
