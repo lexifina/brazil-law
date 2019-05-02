@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo ESTADO DE MINAS GERAIS, com base no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: APELAÇÃO - HONORÁRIOS ADVOCATÍCIOS - JUROS E CORREÇÃO MONETÁRIA.
+1 - No que concerne aos encargos acessórios, segundo a jurisprudência do STJ no REsp 1.492.221, os juros de mora devem ser calculados com base na remuneração oficiai da caderneta de poupança e a correção monetária, no índice IPCA-E.
+2 - Os honorários advocatícios arbitrados em valor fixo são corrigidos monetariamente desde o seu arbitramento.
+3 - Fixados os honorários em quantia certa, os juros moratórios incidem a partir da data do trânsito em julgado da decisão" (fl. 1.722e).
+O recorrente interpôs Recurso Especial, sustentando ofensa aos arts. 1.009 e 1.015 do CPC/2015, argumentando, em síntese, que: (a) "no presente caso, a decisão interlocutória reconheceu o excesso de execução combatido pelo Estado, o que resultaria no prosseguimento do cumprimento de sentença após decotado o excesso" (fl. 1.740e); (b) "mesmo diante da consideração da necessidade da aplicação do princípio da adequação, o acórdão recorrido pronunciou o juízo positivo de admissibilidade ao recurso de apelação, forte no argumento de que a decisão interlocutória recorrida induziu a erro o então recorrente. Porém, não existe permissivo legal nem jurisprudencial para o acolhimento de recurso por erro grosseiro" (fl. 1.741e).
+Requer, ao final, o provimento do recurso
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.762/1.766e).
+A pretensão não merece acolhida.
+Na origem, "trata-se de apelação cível interposta contra a r. sentença de fls. 1.607/1607v, proferida na impugnação de sentença apresentada pelo Estado de Minas Gerais em face da execução de sentença movida por Vinhas e Redenschi Advogados, que julgou procedente a impugnação e homologou os cálculos elaborados pela contadora judicial as fls 1578/1579v" (fl. 1.719e).
+O acórdão recorrido deu provimento ao recurso, "para considerar R$ 20.000,00 como base de cálculo dos honorários advocatícios devendo o valor ser corrigido monetariamente pelo IPCA-E, desde a data do arbitramento (sessão do dia 04/07/2013. vide fl 1327) e com incidência de juros de mora pela remuneração oficial da caderneta de poupança, desde o trânsito em julgado" (fl. 1.728e).
+Eis o decidido no referido julgado, no que interessa:
+"Noto que o ato processual de fls. 1.607/1.607v trata-se de uma decisão interlocutória, vez que não extingue o processo. Deste modo, o recurso cabível seria o agravo de instrumento.
+Porém, o juízo a quo, de forma errônea, denominou o ato como sentença. Neste cenário, entendo que por equívoco do juízo de primeiro grau, a parte recorrente foi levada à dúvida a respeito de qual recurso deveria apresentar, se apelação ou agravo de instrumento, motivo pelo qual considero correto conhecer o recurso" (fl. 1.723e).
+Com se vê, o Tribunal a quo considerou quem embora o ato processual atacado pela Apelação tenha sido uma decisão interlocutória, o fato do juízo de primeiro grau ter denominado o ato como sentença induziu o recorrente à erro na interposição do recurso cabível.
+Nesse contexto, cumpre transcrever referido ato processual:
+"SENTENÇA
+VISTOS, ETC.
+Cuida-se de ação de IMPUGNAÇÃO DA EXECUÇÃO, pela qual o ESTADO DE MINAS GERAIS opõe-se à execução da sentença exarada nos autos em apenso, mediante a qual foi condenado a restituir a impugnada; VINHA E REDENSCHI ADVOGADOS, valores relativos a execução de sentença movida pela credora.
+É sobre o excesso de execução referente aos honorários de sucumbência que versa a presente impugnação, em que o EMG se empenha por demonstrar que a importância reclamada pelo impugnado na execução de sentença ultrapassa a quantia a que faz jus.
+Afirma em síntese que a sociedade advogada está reclamando valor superior ao devido, caraterizando excesso no valor da execução no valor de R$ 23.443,86, em relação aos cálculos do credor, e R$19.477,44, relativamente aos cálculos da contadoria do TJMG.
+Alega o impugnante o excesso de execução no valor de R$ 23.443,86 (vinte e três mil, quatrocentos e quarenta e três reais e oitenta e seis centavos).
+Com base nesse fundamento, requer o expurgo da parcela dita excessiva do montante da quantia exequenda.
+Os autos foram remetidos à Contadoria que elaborou laudo às fls.1578, informando que ocorreu um equívoco ao realizar os cálculos das fls.1563. Alegando que o novo cálculo que segue em anexo conforme determinação do acórdão de fls.1327, que modificou a sentença das fls. 1164/1168, reduzindo os honorários para R$ 2.000,00.
+Relatados os fatos. DECIDO.
+Remetidos os autos à Contadoria Judicial, após sanado o erro, esta apresentou os cálculos de 1579/1578, realizando a atualização de acordo com o acórdão de fls.1316/1327, utilizando a Lei 11.960/098, ou seja, a correção até a vigência da Lei utilizando o INPC, a partir disso utilizaram a TR como índice até a incidência de juros quando utilizaram o cálculo da poupança.
+Inexistindo nos autos elementos aptos a desconstituir os cálculos elaborados pelo Órgão Judicial, os quais possuem presunção relativa de validade, presunção esta que não foi elidida por prova em contrário, devem prevalecer os cálculos elaborados pelo impugnado.
+Por todo o exposto, JULGO procedente a impugnação e homologo os cálculos elaborados pela Contadoria às fls.1578/1579/1579v.
+Considerando a sucumbência mínima da parte impugnante, em atenção à previsão do art. 86, parágrafo único, do CPC/15, condeno o vencido ao pagamento de honorários, estes no importe de 10% do valor da causa, nos termos do artigo 85, parágrafo 3º, inciso I do CPC/2015.
+Publique-se, Registre-se, Intimem-se.
+Decorrido in albis o prazo para interposição de recurso contra a presente decisão, certifique-se o resultado dos embargos nos autos em apenso e arquivem-se com baixa os presentes autos" (fls. 1.686/1.687e).
+É verdade que a jurisprudência deste Superior Tribunal de Justiça, em princípio, não admite a aplicação do princípio da fungibilidade recursal  de modo a se receber como Agravo de Instrumento a Apelação equivocadamente interposta  , nas hipóteses em que o pronunciamento judicial na Impugnação ao Cumprimento de Sentença não extinguir a execução.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. IMPUGNAÇÃO. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. CABIMENTO. OMISSÃO INEXISTENTE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+3. Nos termos do parágrafo único do art. 1.015 do CPC/2015, caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário. Precedentes.
+4. Agravo interno não provido" (STJ, AgInt no AREsp 1.333.983/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 01/02/2019).
+"PROCESSUAL CIVIL. RECURSOS. CPC/2015. DECISÃO QUE ENCERRA FASE PROCESSUAL. SENTENÇA, CONTESTADA POR APELAÇÃO. DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE EXECUTIVA, SEM EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO.
+1. Caso em que a Corte de origem entendeu que é cabível Apelação da decisão que julga procedente impugnação em cumprimento de sentença.
+2. O STJ, julgando o tema recentemente, decidiu que "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1/8/2018.
+3. Recurso Especial não provido" (STJ, REsp 1.767.663/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/12/2018).
+Ocorre que o STJ também possui entendimento no sentido de ser cabível a aplicação do princípio da fungibilidade nas hipóteses em que o próprio órgão jurisdicional induz a parte a interpor o recurso inadequado, como, por exemplo, nominar equivocadamente o ato jurisdicional proferido.
+Nesse sentido:
+"PROCESSO CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DE EXECUTADO DO POLO PASSIVO. RECURSO CABÍVEL. INDUÇÃO A ERRO PELO JUIZ. PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. A decisão que exclui da execução um dos litisconsortes, prosseguindo-se o feito com relação aos demais co-executados, desafia agravo de instrumento, e não recurso de apelação, cabível, contudo, a aplicação do princípio da fungibilidade recursal na hipótese em que o jurisdicionado for induzido a erro pelo magistrado.
+2. Agravo regimental provido" (STJ, AgRg no AREsp 228.816/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 10/05/2016).
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA ENTRE AS TURMAS DA 2ª SEÇÃO EM CASOS IDÊNTICOS, INCLUSIVE ENVOLVENDO AS MESMAS PARTES E ÓRGÃOS JUDICIAIS DE 1ª E 2ª INSTÂNCIAS. EXCEPCIONALIDADE DO CASO CONCRETO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DE EXECUTADO DO POLO PASSIVO. INTERPOSIÇÃO DE APELAÇÃO AO INVÉS DE AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DE MÁ-FÉ. INDUÇÃO A ERRO PELO JUÍZO. RELATIVIZAÇÃO DA DÚVIDA OBJETIVA NA RESTRITA HIPÓTESE DOS AUTOS. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE. PRECEDENTES. EMBARGOS DE DIVERGÊNCIA A QUE SE DÁ PROVIMENTO" (STJ, EAREsp 230.380/RN, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe de 11/10/2017).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 83/STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
