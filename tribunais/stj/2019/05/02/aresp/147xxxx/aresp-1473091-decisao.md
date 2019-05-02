@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AO ART. 141 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF (POR ANALOGIA). AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná cuja ementa é a seguinte:
+TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO A PEDIDO DA PRÓPRIA FAZENDA PÚBLICA. INFORMAÇÃO DE QUE HOUVE QUITAÇÃO DA DÍVIDA PRINCIPAL E DOS HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA COM BASE NO ART. 924, INCISO II DO CPC. ALEGAÇÃO DE EQUÍVOCO NA FORMULAÇÃO DO PEDIDO, VEZ QUE PENDENTE O PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. ANULAÇÃO DA SENTENÇA. IMPOSSIBILIDADE. INEXISTÊNCIA DE ERRO MATERIAL, MAS SIM DE MANIFESTO EQUÍVOCO PRATICADO PELA PARTE INTERESSADA. INAPLICABILIDADE DO ARTIGO 494, I, DO CPC/2015 AO PRESENTE CASO. PRECEDENTES DO STJ E DO TJPR. RECURSO DE APELAÇÃO CONHECIDO E, NO MÉRITO, NÃO PROVIDO.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 141 do CTN; bem como divergência jurisprudencial. Sustenta, em síntese, que (fl. 263):
+Considerando que a verba ainda pendente no executivo fiscal extinto é direito indisponível, direito indisponível especialmente trata-se de matéria de ordem pública, eis que é parte a Fazenda Pública municipal (cobrança de tributo), e, em face do exposto, ato eivado de erro material, pressuposto fático equivocado (errônea indicação do pagamento da dívida pela Fazenda Municipal) sanável a qualquer tempo, data máxima vênia!
+Sem contrarrazões.
+O recurso foi admitido pela decisão de fls. 282/283.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese a argumentação do recorrente, verifica-se que o acórdão recorrido ressente-se do devido prequestionamento em relação ao art. 141 do CTN e eventual omissão nem sequer foi suscitada por meio de embargos de declaração, razão pela qual é inviável o conhecimento da questão, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 535 do CPC/1973 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Observa-se que em nenhum momento foi sequer ventilada a vedação da compensação das contribuições devidas a terceiros. Nesse aspecto, a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+4. Recurso especial não conhecido.
+(REsp 1673756/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018) (grifou-se)
+Cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
