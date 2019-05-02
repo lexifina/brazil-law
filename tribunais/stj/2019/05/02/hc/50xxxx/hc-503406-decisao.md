@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. PROCESSO EM CURSO. ELEMENTOS QUE INDICAM HABITUALIDADE DELITIVA. IMPOSSIBILIDADE. REGIME FECHADO. REINCIDÊNCIA. NECESSIDADE DE TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. CONSTRANGIMENTO ILEGAL CONFIGURADO. PARECER ACOLHIDO.
+Ordem parcialmente concedida, nos termos do dispositivo.
+DECISÃO
+Por meio deste writ, a Defensoria Pública vem ao Superior Tribunal de Justiça requerer a concessão de medida liminar a fim de suspender os efeitos do acórdão exarado pela Décima Quinta Câmara Criminal do Tribunal de Justiça de São Paulo, restabelecendo-se a sentença proferida pelo Juízo da 1ª Vara Criminal da comarca de São Carlos na Ação Penal n. 0011641-43.2017.8.26.0566, que inicialmente condenou [NOME] à pena de 3 anos e 4 meses de reclusão, em regime semiaberto, e pagamento de 333 dias-multa.
+A Corte estadual, ao julgar as apelações interpostas, deu provimento apenas ao recurso da acusação, aumentando a reprimenda do paciente para 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa.
+Aqui, alega a impetrante que a negativa de aplicação da causa redutora se deu com base em reincidência inexistente, porquanto o processo a que faz referência o acórdão transitou em julgado posteriormente aos fatos tratados na condenação ora questionada.
+Sustenta que o paciente poderia iniciar o cumprimento da pena em regime menos gravoso, haja vista que a pena foi fixada no mínimo na primeira fase da dosimetria, o paciente é formalmente primário e a pena não supera 8 anos (fl. 9).
+No mérito, busca seja aplicada a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 e fixado o regime inicial aberto.
+Deferi a medida liminar, em menor extensão que a pretendida, para determinar a colocação do paciente em regime semiaberto até o julgamento do mérito do writ (fls. 48/50).
+Informações prestadas (fls. 55/56 e 65/66).
+Parecer do Ministério Público Federal opinando pela concessão parcial da ordem, confirmando-se a liminar deferida (fls. 59/60).
+É o relatório.
+Inicialmente, quanto à causa especial de redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, conforme adiantei na decisão liminar, não há ilegalidade a ser sanada, uma vez que o acórdão fundamentou a vedação ao benefício, considerando a existência de outra ação penal pelo mesmo crime.
+Assim, ainda que inexistente a reincidência, a jurisprudência desta Corte estabelece que processos em andamento só não podem ser utilizados na primeira fase de dosimetria da pena para majorá-la, sendo possível utilizar esses fatos criminais para vedar a aplicação da causa redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, quando se referirem à prática de tráfico de drogas, demonstrando a habitualidade na prática do delito, como na hipótese dos autos. (AgRg no AREsp n. 1.269.154/SP, da minha relatoria, Sexta Turma, DJe 10/10/2018).
+No mesmo sentido, citado no parecer, o AgRg no REsp n. 1.632.740/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/5/2017.
+Relativamente ao regime inicial fixado, assiste razão à defesa, diante da ausência de fundamentação idônea para imposição do modo mais gravoso de cumprimento da pena.
+A Corte estadual fundamentou a imposição do meio fechado para cumprimento da reprimenda nestes termos (fl. 40):
+ ..  O regime prisional fixado para o início do cumprimento da reprimenda deve mesmo ser o fechado, seja pela gravidade e hediondez do crime (artigo 2º, § 1º, da Lei nº 8.072/90), seja pela reincidência do Réu (fls.94), nos termos do artigo 33, § 3º, do Código Penal  ..
+O único argumento capaz de justificar o recrudescimento de regime inicial seria a reincidência. Contudo, o processo que levou o Tribunal de origem a essa conclusão ainda não tinha transitado em julgado por ocasião da prática do crime referente à presente condenação, pois à época estava pendente a análise de recurso da acusação (o trânsito em julgado somente ocorreu em 22/11/2018).
+Dessa forma, conforme indicou o Subprocurador-Geral da República Paulo [NOME], condenação anterior, quando não transitada em julgado para ambas as partes, não pode ser considerada para fins de reincidência, em observância ao art. 63 do Código Penal (HC n. 200.603/SP, da minha relatoria, Sexta Turma, DJe 29/6/2012).
+Conclui-se, portanto, que não ocorrido o trânsito em julgado da condenação para acusação e defesa, não há falar em reincidência, tampouco em argumentação hábil para agravamento do regime inicial.
+Com efeito, no caso, mais adequada a adoção do regime inicial semiaberto, pois, somado ao fato de se tratar de paciente tecnicamente primário, que teve valoradas como favoráveis todas as circunstâncias judiciais, a condenação refere-se a crime cometido sem violência ou grave ameaça à pessoa (tráfico), cuja pena privativa de liberdade foi fixada em 5 anos de reclusão.
+Ante o exposto, acolho o parecer e, confirmando a liminar, concedo parcialmente a ordem para estabelecer o regime inicial semiaberto para o cumprimento da pena imposta a [NOME] na Ação Penal n. 0011641-43.2017.8.26.0566, da 1ª Vara Criminal da comarca de São Carlos/SP.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
