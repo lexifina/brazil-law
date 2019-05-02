@@ -1,0 +1,110 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADAS OMISSÕES. INEXISTÊNCIA. PROPÓSITO MANIFESTAMENTE INFRINGENTE. INADEQUAÇÃO DA VIA RECURSAL ELEITA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022 do Novo CPC, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+2. No presente caso, verifica-se a ausência dos vícios previstos no art. 1.022 do CPC de 2015, revelando, em verdade, mero inconformismo da parte embargante. Verifica-se, assim, o nítido propósito de rediscutir a decisão e para tanto não se presta a via eleita.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração opostos por [NOME] e OUTROS em face do acórdão que julgou agravo interno, nos termos da seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. AÇÃO DE COBRANÇA. TAXAS DE MANUTENÇÃO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. RECURSO NÃO PROVIDO.
+1. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência, mais uma vez, da Súmula 284/STF.
+2. Agravo interno a que se nega provimento.
+Nas razões recursais (fls. 796/805), a parte embargante alega, em síntese, que haveria omissão no acórdão embargado "no tocante ao porquê da não aplicação da ordem contida no tema 882 oriundo de incidente de resolução de demandas repetitivas (IRDR) do próprio Superior Tribunal de Justiça".
+E continua:
+Além do mais, o tema da cobrança de valores por associação de moradores, de não associados, está sob a égide de repercussão geral no Supremo tribunal Federal sob o tema 492 e sobre tal intento também houve omissão da E. Quarta Turma.
+Requer o acolhimentos dos embargos declaratórios, a fim de sanar as alegadas omissões.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADAS OMISSÕES. INEXISTÊNCIA. PROPÓSITO MANIFESTAMENTE INFRINGENTE. INADEQUAÇÃO DA VIA RECURSAL ELEITA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022 do Novo CPC, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+2. No presente caso, verifica-se a ausência dos vícios previstos no art. 1.022 do CPC de 2015, revelando, em verdade, mero inconformismo da parte embargante. Verifica-se, assim, o nítido propósito de rediscutir a decisão e para tanto não se presta a via eleita.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+3. Sobre as hipóteses de cabimento acima mencionadas, Daniel Amorim Assumpção, na obra intitulada Novo Código Civil Comentado, ao discorrer sobre os vícios que legitimam o ingresso dos embargos de declaração, assim informa:
+Os incisos do art. 1.022 do Novo CPC consagram quatro espécies de vícios passíveis de correção por meio dos embargos de declaração: obscuridade e contradição (art. 1.022, I, do Novo CPC), omissão (art. 1.022, II, do Novo CPC) e erro material (art. 1.022, III, do Novo CPC).
+(In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.711)
+Logo a seguir, o citado processualista passa a discorrer sobre cada um desses vícios e afirma, primeiramente, quanto à omissão:
+A omissão refere-se à ausência de apreciação de ponto ou questão relevante sobre a qual o órgão jurisdicional deveria ter se manifestado, inclusive as matérias que deva conhecer de ofício (art. 1.022, lI, do Novo CPC). Ao órgão jurisdicional é exigida a apreciação tanto dos pedidos como dos fundamentos de ambas as partes a respeito desses pedidos. Sempre que se mostre necessário, devem ser enfrentados os pedidos e os fundamentos jurídicos do pedido e da defesa, sendo que essa necessidade será verificada no caso concreto, em especial na hipótese de cumulação de pedidos, de causas de pedir e de fundamentos de defesa.
+Na cumulação de pedidos o acolhimento ou a rejeição de um deles pode tornar os demais prejudicados, não havendo nenhum sentido exigir do juiz o enfrentamento e solução de tais pedidos em sua decisão: (a) na cumulação sucessiva prejudicial, rejeitado o pedido anterior, o pedido posterior perde o objeto; (b) na cumulação subsidiária o acolhimento do pedido anterior torna o pedido posterior prejudicado; (c) na cumulação alternativa o acolhimento de qualquer um dos pedidos torna os demais prejudicados.
+Nessas circunstâncias, é incorreto apontar omissão na decisão do juiz que deixa de enfrentar pedidos prejudicados.
+Fenômeno semelhante ocorre no tocante à cumulação de causas de pedir e de matérias de defesa. Nesse caso é possível estabelecer uma regra: quando a omissão disser respeito à matéria alegada pela parte vencedora na demanda, não haverá necessidade de seu enfrentamento, faltando interesse de agir na interposição de embargos de declaração.
+O parágrafo único do dispositivo ora analisado especifica que se considera omissa a decisão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos (recursos especial ou extraordinário repetitivos e incidente de resolução de demandas repetitivas) ou em incidente de assunção de competência aplicável ao caso sob julgamento ou que incorra em qualquer das condutas descritas no art. 489, § 1.º, do Novo CPC, dispositivo responsável por inovadoras exigências quanto à fundamentação da decisão.
+O dispositivo na realidade não inova ou tão pouco complementa o inciso II do art. 1.022 do Novo CPC, já que as especificações presentes no dispositivo ora comentado são claras hipóteses de omissão de questões sobre as quais o juiz deve se pronunciar.
+Quanto à obscuridade:
+A obscuridade, que pode ser verificada tanto na fundamentação quanto no dispositivo, decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas. O objetivo do órgão jurisdicional ao prolatar a decisão é ser entendido, de preferência por todos, inclusive as partes, ainda que tal missão mostre-se extremamente inglória diante do nível cultural de nosso país. De qualquer forma, uma escrita simples, com palavras usadas com frequência no dia a dia, limitação de expressões em língua estrangeira ao mínimo indispensável, bem como a utilização de termos técnicos com ponderação, que apesar de imprescindíveis a qualquer ciência, não precisam ser empregados na decisão sem qualquer proveito prático, auxiliam na tarefa de proferir decisões claras e compreensíveis.
+Quanto à contradição:
+O terceiro vício que legitima a interposição dos embargos de declaração é a contradição, verificada sempre que existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra. Essas contradições podem ocorrer na fundamentação, na solução das questões de fato e/ou de direito, bem como no dispositivo, não sendo excluída a contradição entre a fundamentação e o dispositivo, considerando-se que o dispositivo deve ser a conclusão lógica do raciocínio desenvolvido durante a fundamentação. O mesmo poderá ocorrer entre a ementa e o corpo do acórdão e o resultado do julgamento proclamado pelo presidente da sessão e constante da tira ou minuta, e o acórdão lavrado.
+Quanto ao erro material:
+Atendendo a reivindicação doutrinária o Novo Código de Processo Civil, em seu art. 1.022, IlI, inclui entre os vícios formais passíveis de saneamento por meio dos embargos de declaração o erro material. Mesmo diante da ausência de previsão expressa no CPC/1973 o Superior Tribunal de Justiça já vinha admitindo a alegação de erro material em sede de embargos de declaração (STJ, 3ª Turma, EDcl no AgRg no REsp 1.494.263/SP, rel. Min. Moura Ribeiro, j. 09/06/2015, DJe 18/06/2015; STJ, 1ª Turma, EDcl no REsp 1.121.947/SC, rel. Min. Benedito Gonçalves, j. 16/05/2013, DJe 22/05/2013). Erro material é aquele facilmente perceptível e que não corresponda de forma evidente a vontade do órgão prolator da decisão.
+Mesmo estando previsto como vício passível de saneamento por meio dos embargos de declaração a alegação de erro material não depende dos embargos de declaração (Informativo 544/STF, Plenário, RE 492.837 QO/MG, reI. Cármen Lúcia, j. 29.04.2009), inclusive não havendo preclusão para sua alegação, que pode ser feita até mesmo depois do trânsito em julgado da decisão (Informativo 547/STJ, 2.ª Turma, RMS 43.956/MG, reI. Min. Og Fernandes, j. 09.09.2014, DJe 23 .09 .2014; Enunciado nº 360 do Fórum Permanente de Processualistas Civis (FPPC) : ""A não oposição de embargos de declaração em caso de erro material na decisão não impede sua correção a qualquer tempo").
+A inclusão do erro material como matéria expressamente alegável em sede de embargos de declaração é importante porque não deixa dúvida de que, alegado o erro material sob a forma de embargos de declaração, assim será tratada procedimentalmente a alegação, em especial quanto à interrupção do prazo recursal.
+(In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.714-1.716)
+4. Na espécie, verifica-se que o acórdão embargado não contém as alegadas omissões. A propósito, confira-se o aresto embargado na íntegra:
+2. A irresignação não merece prosperar.
+2.1. De início, consigne-se que é possível a aplicação, por analogia, de enunciados sumulares do Supremo Tribunal Federal no âmbito do Superior Tribunal de Justiça.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 458, II, DO CPC.
+PREQUESTIONAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ARTS. 128 E 168 DA LEI 8.112/90. POLICIAL MILITAR DO ESTADO DE SÃO PAULO. IMPERTINÊNCIA TEMÁTICA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. MATÉRIA FÁTICA. EXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. SANÇÃO DISCIPLINAR BASEADA EM LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso concreto em que a decisão atacada negou seguimento ao Recurso Especial, quanto à tese de afronta aos arts. 458, II, do CPC e 128 e 168 da Lei 8.112/90, pelos seguintes fundamentos: (a) ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF, aplicadas por analogia; (b) deficiência de fundamentação, na forma da Súmula 284/STF, aplicada por analogia, uma vez que os dispositivos da Lei 8.112/90 não se aplicam a servidores públicos estaduais.
+ .. .
+IV. É impertinente a alegação de afronta aos arts. 128 e 168 da Lei 8.112/90, diploma legal que se aplica exclusivamente aos servidores públicos federais, situação em que não se enquadra o agravante, que busca, em Juízo, a anulação do ato administrativo que importou em sua expulsão das fileiras da Policia Militar do Estado de São Paulo. Incidência, por analogia, da Súmula 284/STF.
+ .. .
+VII. Agravo Regimental improvido.
+(AgRg no AREsp 632.029/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/02/2016, DJe 09/03/2016)
+2.2. Por outro, o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a questão, oportuno ressaltar que a Corte Especial deste Tribunal Superior, no julgamento do Agravo Regimental no Recurso Especial n. 1.346.588/DF, reafirmou a necessidade do recorrente identificar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio, e de ferir a ampla defesa e contraditório, ante a dificuldade do recorrido em identificar de forma clara e precisa a tese jurídica a ser impugnada.
+O referido julgado está assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(Rel. Ministro Arnaldo Esteves Lima, julgado em 18/12/2013, DJe de 17/3/2014)
+Colhe-se a seguinte fundamentação do citado aresto:
+ ..
+Nesse diapasão, não há como se falar em dissídio notório se nas razões do recurso especial sequer foi indicado o dispositivo de lei federal em relação ao qual teria ocorrido a divergência jurisprudencial, na forma expressamente prevista no art. 105, III, da Constituição Federal, in verbis:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+..
+III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+..
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal. (Grifo nosso)
+A notoriedade do dissídio jurisprudencial deve se dar em relação a algo que, nos termos do referido dispositivo constitucional, é a lei federal.
+De fato, tanto as alíneas "a" e "c" do permissivo constitucional vinculam o cabimento do recurso especial à contrariedade ou divergência de interpretação de "lei federal", inexistindo qualquer espaço para se dar à referida expressão, na alínea "c", interpretação mais extensiva do que a ela emprestada na alínea "a". Assim, ausente a identificação do respectivo dispositivo legal, torna-se incabível o conhecimento do recurso.
+ ..
+Acresça-se, outrossim, que a adoção de um critério de interpretação diverso para alíneas "a" e "c" também importaria na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius.
+Com efeito, ampliar a utilização do recurso especial interposto pela alínea "c" do permissivo constitucional, nesses termos, imporia aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificar na petição recursal o dispositivo de lei federal acerca da qual há dissídio jurisprudencial para, então, julgá-lo.
+Ocorre que tal entendimento iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual as teses insculpida no recurso especial.
+ ..
+No presente caso, deixou a parte recorrente de indicar o dispositivo de lei federal violado ao indicar a divergência jurisprudencial, não cumprindo com os requisitos de conhecimento do recurso especial, sendo aplicável, por analogia, o óbice da Súmula 284/STF.
+2.3. Por fim, saliento não ser o caso de incidência do artigo 932, parágrafo único, do CPC de 2015, eis que o referido dispositivo presta-se à correção de vícios sanáveis, e não para a apresentação de um novo recurso especial.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
+5. Assim, todos os pontos necessários ao desate da controvérsia foram abordados, de forma clara, coerente, lógica e fundamentada, não havendo falar em omissões. Importante frisar que, em virtude do óbice sumular, qual seja, aplicação da Súmula n. 284/STF, esta Corte seque teve a oportunidade de apreciar o mérito do recurso.
+Nesse contexto, observa-se que o acórdão ora impugnado via embargos de declaração apenas se revelou contrário aos interesses da parte embargante, circunstância que não configura nenhum dos vícios elencados no art. 1.022 do CPC/2015.
+6. Na verdade, a parte embargante pretende a rediscussão da matéria já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração. Nesse sentido:
+AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO NOVO CPC. IMPOSSIBILIDADE DE EFEITOS INFRINGENTES.
+1. Os embargos declaratórios somente são cabíveis para modificar o julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente no acórdão.
+2. O embargante, na verdade, não aponta nenhuma omissão, contradição, obscuridade ou erro material nas razões dos embargos de declaração. Busca tão somente a modificação do decidido no acórdão recorrido, o que é inviável, uma vez que o agravo não ultrapassou abarreira da admissibilidade.
+3. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 744.445/MG, Segunda Turma, Rel. Min. Humberto Martins, DJe 15.4.2016)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO REGIMENTAL NÃO CONHECIDO. RENOVAÇÃO DA ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE, NA VIA ESPECIAL, PELO STJ. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos Declaratórios, opostos em 07/03/2016, a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 29/02/2016.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, rejeitando os primeiros Embargos Declaratórios, mantendo o acórdão que não conhecera do Agravo Regimental, em razão da incidência da Súmula 182/STJ.
+III. Se o acórdão do Agravo Regimental entendeu que não deveria o apelo ser conhecido, em face da Súmula 182/STJ, não se lhe pode atribuir qualquer vício, previsto no art. 535 do CPC/73, quanto à matéria de fundo, que, obviamente, não poderia ter sido apreciada.
+IV. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material - seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente -, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+V. A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à impossibilidade de manifestação desta Corte, em sede de Recurso Especial, ainda que para fins de prequestionamento, a respeito de alegada violação a dispositivos da Constituição Federal.
+Precedentes.
+VI. Embargos de Declaração rejeitados. (EDcl nos EDcl no AgRg no AREsp 792.262/SP, Segunda Turma, Rel. Min. Assusete Magalhães, DJe 13.4.2016)
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivado o acórdão embargado, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do CPC de 2015.
+7. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
