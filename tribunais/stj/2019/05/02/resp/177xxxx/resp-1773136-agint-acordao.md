@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES RECURSAIS DESASSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 283 E 284/STF.
+1. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais desassociadas dos fundamentos da decisão recorrida. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 154):
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE CONCEDIDO JUDICIALMENTE. PAGAMENTO DE PARCELAS PRETÉRITAS DO BENEFÍCIO COINCIDENTES COM PERÍODO EM QUE HOUVE EXERCÍCIO DE ATIVIDADE REMUNERADA. POSSIBILIDADE. PRECEDENTES. HONORÁRIOS FIXADOS NO TÍTULO JUDICIAL. COMPENSAÇÃO COM A VERBA SUCUMBENCIAL ESTABELECIDA NOS EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+O agravante requer, preliminarmente, o sobrestamento do feito até o julgamento final do Recurso Especial nº 1.751.185/SP, haja vista a afetação do tema pelo STJ para julgamento sob o rito dos recursos repetitivos.
+Caso entendimento acima seja ultrapassado, requer a "reforma da r. decisão ora agravada para dar provimento ao recurso especial, eis que se encontra vedado o recebimento do benefício por incapacidade (auxílio-doença/aposentadoria por invalidez) no período em que a parte autora exerceu atividade laboral, em respeito aos arts. 46, 47 e 60, § 6º , da Lei 8.213/91" (fls. 172).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES RECURSAIS DESASSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 283 E 284/STF.
+1. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais desassociadas dos fundamentos da decisão recorrida. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+2. Agravo interno não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): A presente irresignação não merece prosperar.
+Preliminarmente, afasta-se a alegada necessidade de sobrestamento do presente recurso, isso porque o Recurso Especial n. 1.751.185/SP, sob a Relatoria do Em. Min. Herman Benjamin, não foi considerado apto à afetação como representativo de controvérsia. Confira-se: " ..  esclareço que analisei os demais Recursos Especiais indicados para representar a controvérsia (REsps 1.751.185/SP, 1.751.222/SP e 1.751.225/SP) em conjunto com o presente caso, e também não os considerei aptos a afetação." (Min. Herman Benjamin, 12/03/2019, no REsp n. 1.754.606/SC).
+Prosseguindo, a decisão agravada quanto ao não provimento do recurso especial, em suma, assim consignou em sua fundamentação:
+ ..  não se pode eliminar a possibilidade de que, ante o indeferimento administrativo do benefício, o segurado por muitas vezes se veja na necessidade de retornar ao trabalho para prover seu sustento e de sua família, mesmo que não esteja, sob o ponto de vista clínico, apto a tanto.
+No caso, o Tribunal a quo, ao examinar os requisitos para a retroação do benefício, atento a todas as provas dos autos, concluiu que a parte estava incapacitada nos períodos em que efetivamente laborou, fazendo jus às prestações equivalentes. Desse modo, deve receber a integralidade das parcelas devidas a título de atrasados, não sendo devida a compensação com salários eventualmente recebidos no período. Isso porque, se o segurado retornou à atividade na hipótese, tal conduta decorre da atuação da própria autarquia previdenciária, que, não reconhecendo administrativamente o direito do recorrente, o forçou a buscar outros meios de garantir sua manutenção.
+ ..
+Por fim, não é possível a compensação dos honorários advocatícios fixados na ação de conhecimento com aqueles estabelecidos nos embargos à execução, uma vez que não existe sucumbência recíproca, já que os honorários devidos na ação de conhecimento pertencem ao advogado, e aqueles devidos ao Estado pelo êxito na execução são devidos pela parte sucumbente, e não pelo causídico, não havendo claramente identidade entre credor e devedor.
+ ..
+Contudo, tais fundamentações não foram impugnadas nas razões recursais, limitando-se o recorrente a repetir a mesma argumentação do recurso especial.
+Com efeito, quanto à possibilidade de recebimento das parcelas atrasadas de benefício por incapacidade concedido judicialmente (auxílio-doença ou aposentadoria por invalidez) relativas a período em que apurado o exercício de atividade remunerada, nos casos em que o segurado, movido por extrema necessidade, retorna ao trabalho após o indeferimento do benefício na via administrativa, o recorrente revive a alegação de que não pode haver cumulação de benefício e na vedação do enriquecimento sem causa, todavia, não informa impugnação alguma quanto a eventual desacerto na referida orientação, que diga-se, fundamentada na pacífica jurisprudência desta Corte Superior. E quanto à compensação dos honorários advocatícios fixados na ação de conhecimento com aqueles estabelecidos nos embargos à execução, deixa de atacar o fundamento da decisão agravada, nada referindo quanto ao ponto.
+Desse modo, verifica-se que as razões recursais apresentadas encontram-se desassociadas daquilo que restou decidido na decisão agravada, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, ambas do STF, que assim dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."; e "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido, confira-se: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
