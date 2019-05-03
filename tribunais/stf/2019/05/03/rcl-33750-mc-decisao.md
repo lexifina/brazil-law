@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Caraguatatuba/SP afirma haver o Tribunal Superior do Trabalho, no processo nº 10726-40.2016.5.15.0063, contrariado o verbete vinculante nº 10, bem assim o decidido na ação declaratória de constitucionalidade nº 16/DF e, sob o ângulo da repercussão geral, no recurso extraordinário nº 760.931.
+    Segundo narra, o ora interessado, Daniel da Silva Araújo, ajuizou demanda contra si e Instituto Corpore para o Desenvolvimento da Qualidade de Vida, este na posição de empregador e prestador de serviços, visando o recebimento de verbas trabalhistas. Informa a própria condenação, no que responsabilizado subsidiariamente pelo pagamento dos créditos, tendo em vista a condição de tomador dos serviços. Inadmitido recurso de revista, a óptica foi mantida em sede de agravo de instrumento, surgindo daí o desrespeito.
+    Sustenta olvidado o que assentado no processo objetivo, porquanto, embora nele declarada a validade do previsto no § 1º do artigo 71 da Lei nº 8.666/1993, proclamou-se, na decisão reclamada, a responsabilidade direta e automática da Administração Pública. Reputa contrariado o acórdão formalizado no recurso extraordinário nº 760.931, no qual reafirmado, sob o ângulo da repercussão geral, o entendimento adotado no processo objetivo. Diz olvidado o verbete vinculante nº 10 uma vez negada vigência ao citado preceito normativo. Evoca jurisprudência.
+    Requer, no campo precário e efêmero, a suspensão do acórdão atacado e, alfim, a cassação.
+    2. No tocante à alegada violação do decidido no recurso extraordinário nº 760.931, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela que o cabimento da reclamação, objetivando ver assentada erronia quanto à observância da sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando examinado agravo interposto contra eventual inadmissão de extraordinário. O requisito não foi atendido, uma vez direcionada a irresignação contra acórdão resultante do julgamento de agravo interno em agravo de instrumento em recurso de revista.
+    Mostra-se ausente a identidade material entre o pronunciamento impugnado e o acórdão alusivo à ação declaratória de constitucionalidade nº 16. Depreende-se da leitura da decisão atacada que o desprovimento do agravo interno, protocolado ante o insucesso, por meio de ato individual, do agravo de instrumento em recurso de revista, decorreu de vício formal. Nada se decidiu, na ocasião, sobre o tema debatido na inicial desta medida, referente à imposição de responsabilidade subsidiária à Administração. Confiram a ementa do acórdão reclamado:
+    AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. MUNICÍPIO DE CARAGUATATUBA. RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. NÃO FORAM PREENCHIDOS OS REQUISITOS PREVISTOS NO ART. 896, § 1º-A, DA CLT.
+    1 - Os argumentos da parte não conseguem desconstituir os fundamentos da decisão monocrática.
+    2 - No caso concreto, cabível a aplicação da multa, visto que litiga a parte contra a letra expressa da lei, segundo a qual é dever do recorrente indicar o devido trecho do acórdão recorrido para o fim de demonstrar o prequestionamento da matéria (art. 896, § 1º-A, I, da CLT). Vale registrar que a interposição de agravo manifestamente infundado, o qual não traz nenhum argumento suficiente para infirmar a fundamentação assentada na decisão monocrática, ao contrário, reforça a inviabilidade de conhecimento do recurso de revista.
+    3 - Agravo a que se nega provimento com aplicação de multa.
+    (Processo nº 10726-40.2016.5.15.0063, Sexta Turma do Tribunal Superior do Trabalho, relatora ministra Kátia Magalhães Arruda, acórdão publicado em 15 de março de 2019)
+    Não tendo sido adotada óptica, na origem, sobre a problemática da responsabilidade subsidiária do Município, não se verifica o apontado afastamento, sem a observância da cláusula de reserva de plenário, do artigo 71, § 1º, da Lei nº 8.666/1993.
+    Atentem para a excepcionalidade da reclamação. Descabe utilizá-la como sucedâneo recursal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 3 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
