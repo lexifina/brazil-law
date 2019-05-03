@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELAINE GONÇALVES DE ASSIS fundamentado nas alíneas "a" e "c" do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ, fl. 169):
+"Apelação cível. Ação de indenização. Inscrição indevida. Dano moral. reparatório. Majoração. Descabimento. Correção monetária. Termo inicial. Arbitramento. Juros moratórios. Incidência. Data do evento danoso. Honorários. Majoração. Descabimento.
+Não obstante ser devida indenização à pessoa que teve seu nome indevidamente inscrito no rol de inadimplentes por débito oriundo de relação jurídica inexistente, a simples negativação, sem a demonstração de outros elementos, não justifica a majoração da condenação, mormente se fixada dentro dos parâmetros usualmente adotados pela Corte.
+Nas condenações por dano moral, a atualização monetária é devida somente a partir da data do arbitramento, conforme a súmula 362 do STJ.
+Em se tratando de relação extracontratual, devem os juros moratórios fluir a partir da data do evento danoso, conforme Súmula 54 do STJ."
+Em suas razões, a recorrente aponta violação dos arts. 398 do Código Civil; e 489, § 1º, e 1.022, II, do CPC/2015, além de dissídio jurisprudencial.
+Afirma, em suma, que o termo inicial dos juros de mora deve ser a data do evento danoso por se tratar de responsabilidade extracontratual.
+É o relatório. Passo a decidir.
+Consoante a jurisprudência pacífica desta Corte, "no caso de indenização por dano moral, decorrente de ato ilícito, os juros moratórios fluem a partir do evento danoso (Súmula n.º 54 do STJ)" (AgRg no REsp 1.410.320/RS, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 15/12/2014)
+No caso, o Tribunal de origem reformou parcialmente a sentença de primeiro grau e alterou o termo inicial da contagem dos juros de mora - incidentes sobre a condenação por danos morais decorrentes de inscrição indevida do nome da ora recorrente no rol de inadimplentes - da data do arbitramento para o momento da ciência, pela autora, do registro desabonador. Eis os fundamentos do acórdão atacado, no que interessa (e-STJ, fls. 167/168):
+"Restou incontroverso nos autos que a autora-apelante teve seu nome inserido no SPC, conforme certidão no Id 795248, e que jamais manteve qualquer relação jurídica com a ré-apelada, a qual não negou os fatos e inclusive ofereceu o depósito da quantia fixada na sentença  .. .
+Com relação à pretensão de que a contagem dos juros de mora ocorra a partir da data em que foi inscrito indevidamente nos órgãos de proteção ao crédito, verifica-se que razão assiste ao recorrente, pois, tratando-se de relação extracontratual, aplica-se ao caso o disposto na súmula n. 54 do STJ.
+Entretanto, no presente caso, a data que deve ser considerada como sendo do evento danoso não pode ser a mesma do registro desabonador, qual seja, 16/02/2012, uma vez que a autora-apelante só tomou ciência da negativação cerca de quatro anos depois (08/03/2016), como afirmado na inicial e corroborado pelo documento de Id 795248, quando então passou a experimentar o dano moral.
+Desse modo, para fins de contagem os juros moratórios devem incidir a partir de 08/03/2016."
+Como se observa, a Corte local não aplicou corretamente a Súmula 54/STJ, na medida em que, apesar de consignar tratar-se de responsabilidade extracontratual, deixou de reconhecer que os juros moratórios devem fluir a partir do evento danoso, isto é, da inscrição indevida, e, portanto, merece reforma.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de determinar que os juros de mora incidam a partir da inscrição indevida.
+Publique-se.
