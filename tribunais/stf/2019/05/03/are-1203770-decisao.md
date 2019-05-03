@@ -1,0 +1,8 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO, E DE DEFICIÊNCIA NA FUNDAMENTAÇÃO. AI 791.292-QO E ARE 748.371. TEMAS 339 E 660 DA REPERCUSSÃO GERAL. ADMINISTRATIVO. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. MODULAÇÃO TEMPORAL DOS EFEITOS DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO RE 870.947. TEMA 810 DA REPERCUSSÃO GERAL. PENDÊNCIA DO JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO STF).
+    Decisão: As matérias versadas no recurso extraordinário foram submetidas por esta Corte ao regime da repercussão geral (Tema 339, AI 791.292-QO e Tema 660, ARE 748.371, rel. min. Gilmar Mendes; e Tema 810, RE 870.947-ED, rel. min. Luiz Fux).
+    Ex positis, com fundamento no artigo 328, parágrafo único, do Regimento Interno do STF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem.
+    Publique-se.
+    Brasília, 3 de maio de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
