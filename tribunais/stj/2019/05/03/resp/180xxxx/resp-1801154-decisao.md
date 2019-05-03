@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERMIL - COOPERATIVA MISTA SÃO LUIZ LTDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBURÁRIO. PIS E COFINS. CRÉDITO PRESUMIDO. ART. 8º DA LEI Nº 10.925/04. CEREALISTA. DIREITO. NÃO OCORRÊNCIA.
+1. De acordo com o disposto no § 4º do art. 8º da Lei nº 10.925/04, é vedado ao "cerealista que exerça cumulativamente as atividades de limpar, padronizar, armazenar e comercializar os produtos in natura de origem vegetal classificados nos códigos 09.01, 10.01 a 10.08, exceto os dos códigos 1006.20 e 1006.30, e 18.01, todos da Nomenclatura Comum do Mercosul (NCM)", o aproveitamento do crédito presumido de PIS e de COFINS de que trata o caput do referido dispositivo legal.
+2. No caso, a impetrante é empresa cerealista, que, no âmbito do sistema desonerativo da Lei nº 10.925/04, é beneficiada com a venda dos seus grãos com a suspensão da incidência das contribuições PIS e COFINS (art. 9º, inc. I), e está impedida de deduzir crédito presumido na forma do caput do art. 8º, por expressa disposição do § 4º, inc. I, do mesmo artigo.
+3. Sentença mantida.
+Na origem, trata-se de mandado de segurança que pleiteia a declaração de que a impetrante faz jus ao crédito presumido de PIS/COFINS, previsto no art. 8º da Lei 10.925/2004, afirmando ter como principal atividade o beneficiamento de grãos in natura. Postula, ainda, o ressarcimento de eventuais indébitos. O valor da causa, em junho de 2016, era de R$ 1.000.000,00 (um milhão de reais).
+O juízo de primeira instância denegou a segurança, consignando que
+não havendo comprovação de que os produtos exportados foram destinados única e exclusivamente para fins alimentícios e/ou animal, não resta preenchido, de plano, o suporte fático previsto no artigo 8º da Lei nº 10.925/04, impondo-se a denegação da segurança.
+O tribunal a quo manteve a sentença, ressaltando:
+Portanto, forçoso concluir que a impetrante é empresa cerealista, que, no âmbito do sistema desonerativo da Lei nº 10.925/04, é beneficiada com a venda dos seus grãos com a suspensão da incidência das contribuições PIS e COFINS (art. 9º, inc. I), e está impedida, dessarte, de deduzir crédito presumido na forma do caput do art. 8º, por expressa disposição do § 4º, inc. I, do mesmo artigo.
+Os embargos de declaração interpostos foram improvidos.
+No presente recurso especial, o recorrente aponta violação ao art. 8º, caput, §1º, I e §4º, I e ao art. 9º, ambos da Lei 10.925/04; aos arts. 46, parágrafo único e 110, ambos do CTN, ao art. 56-A da Lei 12.350/10, aos arts. 30 e 31, ambos da Lei 12.865/2013 e ao art. 8º, §1º, I da Lei 10.925/2005.
+Sustenta, em síntese, que realiza a exportação de grãos que passam por processo de beneficiamento, não devendo ser enquadrada como cerealista, motivo pelo qual tem o direito à apuração de crédito presumido de PIS/COFINS. Pleiteia, ao final, o ressarcimento do referido crédito presumido, devidamente atualizado pela SELIC.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Rever o entendimento firmado pelo Tribunal de origem, quanto ao enquadramento da recorrente como cerealista, o que descaracteriza seu direito à apuração do crédito presumido, demandaria reexame de aspectos fático-probatórios da causa, o que não é admissível no âmbito do recurso especial, consoante diretriz firmada na Súmula 7 do Superior Tribunal de Justiça.
+Nessa linha de entendimento, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRÉDITO PRESUMIDO. LEI N. 10.925/2004. ATIVIDADE DESENVOLVIDA PELA EMPRESA. AGROINDUSTRIAL OU CEREALISTA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, no qual assentou que a Agravante não faz jus ao creditamento tributário porquanto ela está enquadrada como cerealista, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1706857/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/10/2018, DJe 12/11/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE PIS E COFINS. ARTS. 8º DA LEI N. 10.925/2004 E 56-A DA LEI N. 12.350/2010. ENQUADRAMENTO DA EMPRESA COMO CEREALISTA OU AGROINDUSTRIAL. SÚMULA 7/STJ.
+1. Cinge-se a questão ao enquadramento da empresa recorrida como cerealista ou agroindustrial, para fins de aproveitamento do crédito presumido de PIS/COFINS apurado na forma do art. 8º da Lei n. 10.925/2004, c/c o art. 56-A da Lei n. 12.350/2010.
+2. "Não é possível a esta Corte rever o acórdão recorrido no que tange ao enquadramento fático da situação ensejadora do crédito presumido de PIS/COFINS na hipótese, de modo a caracterizar a empresa como cerealista e não como agroindustrial, uma vez que o Tribunal Regional é soberano em relação à análise da situação fático-probatória dos autos. Rever tais aspectos em sede de recurso especial encontra óbice no teor da Súmula nº 7 do STJ, in verbis: "A pretensão de simples reexame de provas não enseja recurso especial"" (AgInt no REsp 1.637.153/RS, Rel. Ministro Mauro Campbell Marques, DJe 30/10/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1692280/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
