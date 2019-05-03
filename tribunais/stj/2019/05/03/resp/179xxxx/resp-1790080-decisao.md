@@ -1,0 +1,9 @@
+DECISÃO
+O caput do art. 9º do RI/STJ prevê que a competência das Seções e Turmas será fixada em razão da natureza da relação jurídica litigiosa, descrevendo, ainda, em seus parágrafos, as matérias atribuídas a cada uma das Seções desta Corte.
+Em seu § 2º, inciso II, o dispositivo em destaque estabelece que compete à Segunda Seção processar e julgar os feitos relativos às obrigações em geral de direito privado, mesmo quando o Estado participar do contrato (grifamos).
+A Corte Especial, no julgamento do CC n. 150.050/DF, definiu que compete à Segunda Seção a análise de ações propostas por particulares em face de empresas concessionárias de serviços públicos, quando não houver pedido ou causa de pedir referente ao contrato de concessão de serviço público ou à norma legal ou regulamentar da concessão.
+Dessa forma, nas ações em comento, nas quais a causa de pedir esteja relacionada tão somente com o direito privado, a competência será sempre da Segunda Seção, ainda que o Estado participe da relação processual.
+A controvérsia travada nos presentes autos, relacionada à ação indenizatória por danos morais e materiais, ajuizada por particular contra concessionária de energia elétrica, em decorrência de prejuízos advindos pela suspensão de fornecimento de energia em granja de engorda de aves (frangos), pelo que provocou a mortandade de inúmeros animais, insere-se exatamente na situação descrita no CC n. 150.050/DF.
+Dessa forma, ainda que já tenha havido decisão do Ministro Marco Buzzi acerca da redistribuição do feito, mencionando o CC n. 138.405/DF, (fls. 672-675), deixo de suscitar Conflito de Competência considerando o recente entendimento preconizado nos autos do já citado CC n. 150.050/DF.
+Ante o exposto, retornem os autos ao Gabinete do Ministro Marco Buzzi, para que se manifeste a respeito.
+Publique-se.
