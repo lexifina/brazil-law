@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal objetivando reformar o acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. HONORÁRIOS. ART. 20, §4º, CPC/1973.
+1 - Tratando-se de hipótese prevista no §4º do art. 20 do Código Buzaid (tempus regit actum), a verba sucumbencial não está adstrita ao piso estabelecido no §3º, podendo ser arbitrada em valor fixo.
+2 - Agravo interno não provido.
+Na origem, cuida-se de embargos de terceiros opostos por [NOME], ora recorrente, em desfavor da execução fiscal ajuizada pela Caixa Econômica Federal (CEF), ora recorrida, contra a empresa Super Lanches Panificadora Ltda. e outros, os quais foram julgados procedentes, para: desconstituir a penhora incidente sobre o imóvel constrito nos autos do pleito executório; cessar o bloqueio do referido bem; e condenar a parte embargada, ora recorrida, ao pagamento de honorários advocatícios arbitrados, por apreciação equitativa, no valor fixo de R$ 500,00 (quinhentos reais).
+Atribuiu-se à causa o valor de R$ 120.000,00 (cento e vinte mil reais), em janeiro de 2014.
+Naquele acórdão, em via de agravo interno, o Tribunal de origem confirmou a decisão monocrática responsável por negar provimento à apelação interposta pela parte embargante, ora recorrente, mantendo em R$ 500,00 (quinhentos reais) o valor da verba honorária sucumbencial.
+Os embargos de declaração interpostos não foram providos.
+No recurso especial, inicialmente, a recorrente aponta a violação do art. 489, § 1º, I e IV, bem como do art. 1.022, II, ambos do CPC/2015.
+Aduz, em síntese, que, não obstante a interposição de embargos declaratórios, o acórdão recorrido permaneceu omisso e contraditório, porquanto o Tribunal de origem deixou de emitir adequado pronunciamento acerca de questões relevantes ao deslinde da controvérsia, afetas à condenação da parte sucumbente ao pagamento de honorários advocatícios ao causídico da parte adversa.
+Indica a violação do art. 20, §§ 3º e 4º, do CPC/1973.
+Alega, em suma, que, embora a Caixa Econômica Federal (CEF), ora recorrida, compreenda empresa pública dotada de personalidade jurídica de direito privado, portanto destituída das prerrogativas atribuídas à Fazenda Pública pelo art. 20, § 4º, do CPC/1973, no caso em tela, os honorários advocatícios sucumbenciais foram fixados por meio de apreciação equitativa em valor irrisório, incompatível com os esforços empreendidos pelo causídico da parte vencedora e substancialmente inferior ao percentual mínimo estabelecido no art. 20, § 3º, do CPC/1973, motivos pelos quais não refletiram os princípios da proporcionalidade e da razoabilidade.
+Assinala, ainda, a existência de dissídio jurisprudencial quanto à interpretação da legislação federal reputada malferida.
+A parte recorrida não apresentou contrarrazões ao recurso especial.
+O recurso especial não foi admitido no Tribunal de origem, com base: na ausência de demonstração do alegado dissídio jurisprudencial (Súmula n. 284/STF); bem como na impossibilidade de reexame de fatos e provas na via recursal eleita (Súmula n. 7/STJ).
+No presente agravo, a recorrente argumenta com o intuito de rebater os fundamentos apresentados pelo julgador originário.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão de inadmissão, passo ao exame do recurso especial interposto.
+No tocante à alegada violação do art. 1.022, II, do CPC/2015, ao menos em parte, assiste razão à recorrente.
+A análise do acórdão recorrido, quando em conjunto com a sua decisão integrativa, revela que, de fato, a parte recorrente apresentou questão jurídica relevante ao deslinde da controvérsia, referente aos reflexos do princípio da causalidade na imputação do ônus sucumbencial, a qual não foi objeto de esclarecido pronunciamento da Corte Julgadora originária.
+Isso porque, no acórdão recorrido, o Tribunal de origem consignou que a imputação do ônus sucumbencial é orientada pelo princípio da causalidade, segundo o qual a condenação ao pagamento de honorários advocatícios sucumbenciais, nos embargos de terceiros, deve ser imposta à parte que deu causa à constrição patrimonial indevida. Contudo, na referida decisão, embora a Corte Julgadora originária tenha afastado a responsabilidade da embargada, ora recorrida, pela constrição patrimonial que ensejou a oposição dos embargos de terceiros, a condenação da referida parte ao pagamento da verba honorária sucumbencial foi mantida.
+Infere-se o exposto do fragmento do voto condutor transcrito a seguir:
+Os honorários advocatícios seguem o princípio da causalidade, suportando o ônus da sucumbência a parte que deu causa à lide. (..)
+Adicionalmente, considerando que não existia, à época da constrição, qualquer averbação na matrícula do bem imóvel quanto à sua transferência de domínio, pelo princípio da sucumbência, não é possível imputar à exequente culpa pela constrição, nos termos, da Súmula nº 303 do Superior Tribunal de Justiça. (..)
+Por conseguinte, tendo em conta o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para seu serviço, a verba honorária arbitrada em R$ 500,00, em 18.08.2014, mostra-se consentânea com a legislação de regência.
+Ademais, em que pese a oportuna provocação, realizada por meio da oposição de embargos declaratórios, o acórdão recorrido permaneceu omisso quanto à contradição interna acima retratada, porquanto o Tribunal de origem seguiu não se manifestado de modo clarividente sobre a aludida questão relevante.
+Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, constatada relevante omissão no acórdão recorrido, irregularidade oportunamente suscitada, mas que não foi sanada quando do julgamento dos embargos de declaração contra ele opostos, fica caracterizada a violação do art. 1.022 do CPC/2015.
+Por sua vez, reconhecida a ofensa acima mencionada (ao art. 1.022 do CPC/2015), impõe-se a anulação da decisão proferida pelo Tribunal de origem em via de embargos declaratórios, com a devolução do feito ao Órgão Prolator, para que a análise do dito recurso integrativo seja renovada.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PROVA PERICIAL. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+2. Retorno dos autos à origem, a fim de que seja realizado novo julgamento com expresso enfrentamento da questão considerada omitida.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.618.708/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2018, DJe de 3/9/2018.)
+PROCESSUAL CIVIL . AUSÊNCIA DE ANÁLISE PELO TRIBUNAL DE ORIGEM. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. OFENSA AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+1. Hipótese em que o Tribunal a quo não se pronunciou acerca dos seguintes pontos: a) não há análise da prova da inexistência de sucessão ou formação de grupo econômico; b) a comprovação de retirada do ex- sócio em momento anterior à alegada dissolução irregular da pessoa jurídica e, consequentemente, sua ilegitimidade passiva e c) apreciação quanto à limitação da responsabilidade dos sócios.
+2. Caracteriza-se ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem deixa de se pronunciar acerca de matéria veiculada pela parte e sobre a qual era imprescindível manifestação expressa.
+3. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+4. Recurso Especial provido.
+(REsp n. 1.773.273/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2018, DJe de 11/3/2019.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e c, do RISTJ, conheço do agravo a fim de conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento para anular o acórdão que decidiu os embargos de declaração, bem como para determinar o retorno dos autos ao Tribunal de origem, a fim de que este se manifeste, especificamente, sobre a questão articulada nos embargos declaratórios interpostos, relativa aos reflexos do princípio da causalidade na imputação do ônus sucumbencial. Em razão deste acolhimento preambular, reputo prejudicados os demais fundamentos recursais.
+Publique-se. Intimem-se.
