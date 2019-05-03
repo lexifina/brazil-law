@@ -1,0 +1,12 @@
+DECISÃO
+Tratam-se de embargos declaratórios opostos por HESA 89 - INVESTIMENTOS IMOBILIÁRIOS LTDA contra decisão (e-STJ, fls. 338/340), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a embargante afirma que não foram fixados honorários sucumbenciais aos patronos da parte agravada, havendo trabalho adicional destes advogados.
+Foi apresentada impugnação às fls. 351/353.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+A Segunda Seção, no julgamento do AgInt no EREsp 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos art. 85, §11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (Rel. Ministro Antonio Carlos Ferreira, DJe, 19.10.2017).
+In casu, a sentença determinou que cada parte deveria arcar com a verba honorária gasta com seus patronos, confira-se:
+"Pelo exposto, acolho em parte o pedido formulado na ação para condenar a requerida à devolução de 80% dos valores pagos em face do ajuste (R$ 74.794,70), de forma imediata, nos moldes alinhavados. Os valores serão corrigidos desde cada desembolso e acrescidos de juros de mora de 1% ao mês, a partir da citação. Cada parte arcará com suas custas e despesas processuais, além da verba honorária gasta com seus patronos."
+ (e-STJ, fls. 203/204)
+Por tudo, não se verifica o requisito da condenação em honorários advocatícios desde a origem do feito, conforme a sentença de fls. 201/204 e o acórdão de fls. 267/270. Deste modo, por ser incabível a majoração da verba honorária sucumbencial, não se cogita de omissão no aresto ora embargado.
+Diante do exposto, rejeitam-se os embargos declaratórios.
