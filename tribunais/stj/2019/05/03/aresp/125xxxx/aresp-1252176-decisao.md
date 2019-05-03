@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+EMENTA: EXECUÇÃO FISCAL. PAGAMENTO INDEVIDO DE BENEFÍCIO PREVIDENCIÁRIO POR ERRO ADMINISTRATIVO. IMPOSSIBILIDADE DE INSCRIÇÃO EM DÍVIDA ATIVA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA PROLATADA EM SINTONIA COM A JURISPRUDÊNCIA DO STJ SOBRE. A MATÉRIA. (ART. 543-C DO CPC): IMPROVIMENTO DA APELAÇÃO.
+1. Apelação interposta contra sentença prolatada nos autos de execução fiscal que extinguiu a ação sem resolução do mérito.
+2. Não há previsão legal específica para inscrição em dívida ativa de valor indevidamente recebido a título de benefício previdenciário do INSS. Trata-se de enriquecimento ilícito, sendo imprescindível para o ressarcimento o ajuizamento de uma ação de conhecimento, para a constituição de título executivo que reconheça a existência de obrigação de pagar.
+3. A sentença recorrida está em consonância com a orientação do STJ, consolidada em julgamento sob o regime dos repetitivos (REsp. 1.350.804/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 28.06.2013), segundo a qual é incabível a via da Execução Fiscal para cobrança de valores pagos em decorrência de benefício previdenciário recebido indevidamente
+4. Apelação Improvida.
+Na origem, trata-se de Execução Fiscal por meio da qual o INSS pleiteia a cobrança de valores indevidamente recebidos a título de benefício previdenciário por parte da Executada. O valor da causa, em outubro de 2006, era de R$ 16.662,02 (dezesseis mil, seiscentos e sessenta e dois reais e dois centavos).
+Em sede de sentença, o juízo de primeira instância extinguiu a execução fiscal por inadequação da via eleita, aduzindo que não há previsão para a inscrição em dívida ativa de valores recebidos indevidamente por beneficiário da Previdência Social.
+O tribunal a quo confirmou a sentença, conforme ementa acima colacionada.
+Os embargos de declaração interpostos foram improvidos.
+No presente recurso especial, o recorrente aponta violação aos arts. 489, §1º, II e IV e 1.022, II, ambos do CPC/2015. Afirma, em resumo, que o tribunal a quo foi omisso ao não se manifestar sobre as alegações feitas em sede de embargos de declaração, de acordo com as quais não há nos autos qualquer indício de o débito exequendo ser oriundo de pagamento de benefício previdenciário concedido mediante fraude. Argumenta que o extrato da CDA exequenda indica ser o débito tributário, oriundo de confissão de dívida fiscal, motivo pelo qual cabível sua cobrança via execução fiscal, já que presente a certeza e a liquidez da CDA e inaplicável o entendimento firmado pelo STJ no REsp repetitivo 1.350.804/PR.
+Aduz, ainda, malferimento aos art. 267, IV e 543-C, ambos do CPC/1973, ao art. 3º da Lei 6.830/1980 e ao art. 204 do CTN. Sustenta, em síntese, que o débito exequendo é oriundo de confissão de dívida fiscal, motivo pelo qual CDA possui liquidez e certeza. Afirma, ademais, que o entendimento firmado pelo STJ no Resp 1.350.804/PR, não se aplica ao presente caso, vez que tal julgado trata da impossibilidade de inscrição em dívida ativa de benefício previdenciário pago indevidamente, o que não é o caso dos autos.
+O recurso especial foi inadmitido com base no óbice da Súmula 83 do STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Em relação à indicada violação dos arts. 489, §1º, II e IV e 1.022, II, do CPC/2015, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, a ausência de manifestação sobre o fato de a dívida ser oriunda de confissão de débito fiscal e não de recebimento indevido de benefício previdenciário.
+Isso porque, o julgador abordou a questão às fls. 181/183, consignando que:
+Não procede a alegação de que não há nos autos documento referente a possível ilicitude do recebimento indevido de benefício previdenciário.
+O próprio INSS mediante a petição de fls. 53/57 e o documento de fl. 58, se referiu ao enriquecimento ilícito com o recebimento do "benefício previdenciário de pensão por morte - NB 0403217857, com data de início de recebimento deste em 26/01/1980, documento este referente à competência de julho de 2011 (fl. 58). Esse comprovante foi impresso em 19/07/2011 (às 18:11:50), expedido pelo MPAS/INSS - Sistema Único de Benefícios DATAPREV - INFBEN - Informações do Benefício - no qual se registra a pensão por morte previdenciária recebida pela executada.
+A referida petição do INSS cita o Decreto 3.049/99, art. 154, inciso II, que dispõe:
+(..)
+Os parágrafos desse artigo se referem a restituição de importância recebida indevidamente por beneficiário da Previdência Social, quando comprovado o dolo, a fraude ou a má-fé, e na hipótese de débito oriundo de erro da Previdência Social.
+(..)
+Portanto, tanto a petição de fls. 53/57 quanto o documento da DATAPREV se referem ao benefício "previdenciário de pensão por morte, supostamente recebido mediante fraude,.que deve ser objeto de ação própria para sua comprovação, Não há que se falar em dívida de natureza tributária, oriunda de, confissão de dívida fiscal, como assim quis afirmar a Fazenda Nacional.
+Não procede a alegação da Embargante de que é inaplicável a decisão proferida no RESP 1350804/PR ao caso dos autos. No acórdão impugnado foi transcrita a ementa desse julgado, no qual se analisaram fatos idênticos aos dos autos.
+Com esses esclarecimentos não tem porque falar em omissão quanto à presunção de liquidez e certeza da certidão de dívida ativa, haja vista inexistir pressuposto válido para.sua constituição
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação dos arts. 489, §1º, II e IV e 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, §1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp 1.625.513/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/2/2017, DJe 8/2/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 958.813/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 2/2/2017, DJe 13/2/2017).
+
+Quanto ao mérito, o Tribunal de origem, com base no conjunto probatório dos autos, consignou que a CDA não possui os requisitos necessários para a sua validade, consignando que:
+A jurisprudência entende não ser possível a inscrição em dívida ativa de valor indevidamente recebido, a título de benefício previdenciário do INSS, pois não há regramento específico para tal, de forma que o caminho é a ação de cobrança por enriquecimento ilícito para apuração da responsabilidade civil.
+Portanto, os benefícios previdenciários indevidamente recebidos, qualificados como enriquecimento ilícito, não se enquadram no conceito de crédito tributário ou não tributário previsto no art. 39, §2º, da Lei n. 4.320/64 e tampouco permitem sua inscrição em dívida ativa.
+Desse modo, apresenta-se inviável a aferição da regularidade de tais requisitos, tendo em vista a vedação do reexame do conjunto probatório. Incide, na hipótese, a vedação contida no Enunciado Sumular n. 7/STJ.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE COISA JULGADA. INCIDÊNCIA DOS ENUNCIADOS N. 7 E 283 DA SÚMULA DO STJ. ALEGAÇÃO DE INEXIGIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - A aferição da certeza e liquidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, conduz necessariamente ao reexame do conjunto fático-probatório dos autos, medida inexequível na via da instância especial, por incidência do enunciado n. 7 da Súmula do STJ.
+II - A Corte de origem afastou a alegação de necessidade de extinção da execução por compensação com os seguintes fundamentos: "somente as decisões que a executada trouxe como respaldo, em razão da compensação autorizada e não comprovada, não têm o condão de destituir o título executivo. Significa dizer que a matéria necessita de prova quanto à ausência de liquidez e certeza do título, remetendo as partes para a discussão em sede de embargos de devedor". Os fundamentos não foram impugnados pela parte agravante em seu recurso especial, fazendo incidir o enunciado n. 283 da Súmula do STJ, segundo o qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+III - Quanto à compensação do indébito tributário, o Tribunal de origem certificou que a documentação juntada pela parte não seria hábil a demostrar a certeza e liquidez dos créditos. E, rever esse entendimento, a fim de acolher a pretensão recursal, em exceção de pré-executividade, requer necessariamente uma nova incursão na seara fático-probatória dos autos, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+IV - A incidência do enunciado n. 7 para inadmissão do recurso especial pela alínea a do permissivo constitucional impossibilita a análise da alegação de divergência jurisprudencial.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 1.021.659/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2017, DJe 24/5/2017.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO INTERNO. REQUISITOS DA CDA. SÚMULA 7 DO STJ.
+1. Embargos de declaração recebidos como agravo interno, dado o caráter manifestamente infringente da oposição, observado o disposto no art. 1.024, § 3º, do CPC/2015.
+2. "Para verificar se a Certidão da Dívida Ativa - CDA, preenche ou não os requisitos essenciais à sua validade, torna-se necessária a incursão no conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ" (AgInt no AREsp 917.381/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/9/2016).
+3. Embargos de declaração conhecidos como agravo interno, ao qual se nega provimento.
+(EDcl no AREsp n. 1.039.876/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 9/5/2017, DJe 15/5/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
