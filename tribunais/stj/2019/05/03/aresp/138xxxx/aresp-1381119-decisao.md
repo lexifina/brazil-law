@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 284/STF e 7/STJ.
+Nas razões do especial, aponta a defesa violação do art. 71 do Código Penal.
+Sustenta falta de fundamentação idônea à incidência da causa de aumento referente à continuidade delitiva, por se tratar de crime único.
+Aduz, ainda, que a r. decisão judicial utiliza-se de fórmula vazia para fundamentar o aumento da pena em metade, não seguindo o critério quantitativo exposto no artigo 71 do Código Penal que traz a opção de incremento de pena de um sexto a dois terços (fl. 764).
+Requer, assim, o provimento do recurso especial para redimensionar a pena, afastando-se o aumento referente à continuidade delitiva. Subsidiariamente, pugna pela redução da fração de aumento ao seu patamar mínimo.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrente WAGNER foi condenado à pena de 3 anos de reclusão, no regime inicial aberto, mais 15 dias-multa, como incurso no art. 1º, II c/c arts. 11 e 12, I, todos da Lei 8.137/90 c/c art. 61, II, g, na forma do art. 71, ambos do CP.
+ Interpostos recursos de apelação pela defesa e pelo Ministério Público, o Tribunal de origem negou provimento ao pleito defensivo e deu provimento ao ministerial para reconhecer a continuidade delitiva em seu patamar máximo, ficando a pena do recorrente em 5 anos de reclusão, em regime semiaberto, mais 25 dias-multa.
+A respeito da continuidade delitiva, o Tribunal de origem assim referiu (fl. 729):
+Por fim, ao contrário do que afirma o douto magistrado sentenciante, o reconhecimento da continuidade delitiva é imperativo, isto porque o recorrente, com o mesmo modus operandi, mediante mais de uma ação, praticou e consumou quarenta e quatro vezes o delito de fraude fiscal.
+Assim, considerando que foram diversas as fraudes praticadas, a pena deve ser majorada em 2/3, perfazendo 05 (cinco) anos de reclusão, bem como ao pagamento do montante equivalente a 25 (vinte e cinco) diárias, no valor mínimo legal.
+Por conta da alteração da pena, o regime fixado deve ser o semiaberto, conforme preceitua o artigo 33, §2º, alínea b, do Código Penal.
+Ao interpretar a legislação em comento, adotou esta Corte a teoria mista, ou objetivo-subjetiva, segundo a qual se caracteriza a ficção jurídica do crime continuado quando preenchidos tanto os requisitos de ordem objetiva - mesmas condições de tempo, lugar e modo de execução do delito -, quanto o de ordem subjetiva - a denominada unidade de desígnios ou vínculo subjetivo entre os eventos criminosos, a exigir a demonstração do entrelaçamento entre as condutas delituosas, ou seja, evidências no sentido de que a ação posterior é um desdobramento da anterior. A propósito, o seguinte precedente:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. FURTOS QUALIFICADOS. PRETENSÃO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. ART. 71 DO CÓDIGO PENAL. NECESSIDADE DA COMPROVAÇÃO DOS REQUISITOS DE ORDEM OBJETIVA E SUBJETIVA. IMPOSSIBILIDADE DO REEXAME APROFUNDADO DE PROVAS. SÚMULA N. 7/STJ.
+1. "Este Superior Tribunal firmou o entendimento de que, para o reconhecimento e a aplicação do instituto do crime continuado, é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos. Vale dizer, adotou-se a Teoria Mista ou Objetivo-subjetiva." (HC 222.225/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+2. Maiores incursões acerca do tema, com a finalidade de se constatar a eventual presença concomitante dos requisitos de ordem objetiva e subjetiva, demandaria aprofundado reexame do acervo fático-probatório, providência vedada em âmbito de recurso especial, a teor da Súmula n. 7/STJ.
+3. Agravo regimental desprovido (AgRg no REsp 1637184/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/12/2017, DJe 19/12/2017).
+Na presente hipótese, o Tribunal Estadual concluiu pelo reconhecimento da continuidade delitiva, tendo em vista que o recorrente, com o mesmo modus operandi, mediante mais de uma ação, praticou e consumou quarenta e quatro vezes o delito de fraude fiscal.
+Com efeito, o entendimento consoante aos precedentes julgados por esta Corte. Veja-se:
+RECURSO ESPECIAL. SONEGAÇÃO FISCAL. ICMS. MÚLTIPLAS OMISSÕES DE INFORMAÇÃO AO FISCO. VIOLAÇÃO DO ART. 71 DO CP. RECONHECIMENTO.
+RECURSO PROVIDO.
+1. O agente que, para sonegar ICMS, omite, durante meses consecutivos, informações que deveriam ser produzidas a agentes da pessoa jurídica de direito público interno, pratica crimes de sonegação fiscal tantas vezes quantas forem as condutas omissivas.
+2. O vínculo subjetivo havido entre os eventos delituosos não implica reconhecimento de crime único, mas de crime continuado, ficção legal que redunda em melhoria na situação do recorrido, o qual, sem incidir na habitualidade criminosa, praticou sequenciais violações à ordem tributária, nas condições do art. 71 do CP.
+3. Recurso especial provido para restabelecer a continuidade delitiva, nos termos da sentença condenatória.
+(REsp 1533316/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/05/2016, DJe 24/05/2016)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SÚMULA 7/STJ. INAPLICABILIDADE. REVALORAÇÃO JURÍDICA DOS FATOS INCONTROVERSOS POSTOS NO ACÓRDÃO RECORRIDO. POSSIBILIDADE. EVASÃO DE DIVISAS. SONEGAÇÃO TRIBUTÁRIA. DOSIMETRIA. POSSIBILIDADE DE EXASPERAÇÃO DA PENA-BASE, NA PRIMEIRA FASE, E APLICAÇÃO DA CONTINUIDADE DELITIVA, NA TERCEIRA. AUSÊNCIA DE BIS IN IDEM. APLICABILIDADE DA AGRAVANTE DO ART. 62, I, DO CP. RECONHECIMENTO DA PRESCRIÇÃO COM RELAÇÃO AO CRIME DE ASSOCIAÇÃO CRIMINOSA. IRRELEVÂNCIA. POSSIBILIDADE DE APLICAÇÃO QUANTO AOS CRIMES REMANESCENTES. EVASÃO DE DIVISAS. NECESSIDADE DE SALDO REMANESCENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF.
+ ..
+II - In casu, a sentença condenatória considerou desfavorável a circunstância judicial referente à culpabilidade não somente em virtude do longo lapso temporal (1997 a 2000), mas também em decorrência dos altos valores mantidos e movimentados no exterior pelos agravados, superiores a U$ 23.000.000,00 (vinte e três milhões de dólares), bem como, no que se refere ao crime de sonegação fiscal, a continuidade delitiva, fixada a fração de 1/4, uma vez cometidas diversas infrações nas mesmas condições de tempo, lugar, maneira de execução, o que está de acordo com o entendimento deste Superior Tribunal de Justiça, não havendo que se falar em bis in idem. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp 1292676/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/08/2018, DJe 22/08/2018)
+Estando o acórdão recorrido em consonância com o entendimento já firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso.
+Ressalte-se, ainda, que rever o posicionamento da Corte de origem, como pretendido pelo agravante, demandaria, necessariamente, o reexame do conjunto fático-probatório, o que é vedado em recurso especial, a teor da Súmula 7/STJ.
+Ademais, insurgiu-se o recorrente contra a fração de aumento aplicada em decorrência da continuidade delitiva, alegando desproporcionalidade.
+Acerca da referida fração, orienta-se a jurisprudência deste Superior Tribunal de Justiça no sentido de que aplicável a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4, para 4 infrações; 1/3, para 5 infrações; 1/2, para 6 infrações e 2/3, para 7 ou mais infrações. Neste sentido: AgRg no REsp 1.169.484/RS, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 16/11/2012, AgRg no AgRg no AREsp 644.915/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016, HC 418.256/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/12/2017, DJe 15/12/2017 e RHC 91.990/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/02/2018, DJe 16/02/2018.
+Na hipótese, entendeu o Tribunal que a pena deveria ser elevada em 2/3, porquanto, o recorrente, com o mesmo modus operandi, mediante mais de uma ação, praticou e consumou quarenta e quatro vezes o delito de fraude fiscal (fl. 729).
+Dessa forma, incabível a redução ao patamar mínimo para majoração decorrente da continuidade delitiva, já que constatada na origem a prática superior a 7 infrações. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIME CONTRA A ORDEM TRIBUTÁRIO (ART. 1º, INCISOS I E II, C/C ART. 12, INCISO I, DA LEI N. 8.138/90). EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. EVOLUÇÃO NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. DOSIMETRIA. CONTINUIDADE DELITIVA. NÚMERO DE INFRAÇÕES PRATICADAS. FRAÇÃO DE AUMENTO PROPORCIONAL. EXCLUSÃO DA CAUSA DE AUMENTO DO INCISO I DO ART. 12 DA LEI 8.137/90. DESCABIMENTO. NECESSIDADE DE COTEJO ANALÍTICO DE FATOS E PROVAS. INCOMPATIBILIDADE COM A VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - Esta Corte de Justiça sedimentou sua jurisprudência no sentido de que na fixação do quantum de aumento de pena pela continuidade delitiva, o critério fundamental é o número de infrações praticadas. Nessa senda, tendo as instâncias ordinárias registrado que o paciente praticou dezenas de operações de sonegação fiscal, julgo correta a fixação da fração no patamar máximo - 2/3.
+ ..
+Habeas corpus não conhecido.
+(HC 487.565/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/03/2019, DJe 19/03/2019)
+Correta, nesse ponto, a incidência do entendimento consolidado na Súmula 83 desta Corte, também empregado em recursos interpostos com fulcro na alínea a do permissivo constitucional, segundo o qual não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
