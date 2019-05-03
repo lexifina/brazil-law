@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Habeas Corpus n. [CPF] / n. CNJ 0379566-85.2018.8.21.7000).
+Os autos dão conta de que, na data de 9/8/2018, o Juízo da 1ª Vara Criminal da Comarca de Cruz Alta/RS, acolhendo a representação da autoridade policial, decretou a prisão temporária do paciente e de outros 2 corréus, todos investigados de terem praticado o crime previsto no art. 121, § 2º, IV, do Código Penal (e-STJ fls. 56/58). E em 3/12/2018 foi decretada a prisão preventiva do paciente (e-STJ fls. 53/54).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 20):
+HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. CARÊNCIA DOCUMENTAL.
+Paciente com prisão preventiva decretada em 3 de dezembro de 2018, por ter, em tese, na companhia dos corréus, matado duas vítimas, mediante disparos de arma de fogo.
+Ausência de cópia integral dos autos originários que impede a exata compreensão do caso concreto e, consequentemente, a análise das alegações dos impetrantes, sobretudo aquelas consistentes em inexistência de perigo de liberdade, inexistência de indícios suficientes de autoria, não indiciamento do paciente pela autoridade policial e violação ao princípio da isonomia.
+ORDEM DENEGADA.
+No presente writ, a defesa alega que não estão presentes os requisitos autorizadores da prisão preventiva e que não há fundamentos idôneos para justificar a sua decretação, bem como aponta a possibilidade de que sejam estabelecidas medidas cautelares diversas da prisão.
+Afirma que "a decisão que converteu a prisão temporária em preventiva, baseou-se, tão somente na pretensa acusação atribuída ao paciente, pela suposta pratica do delito de homicídio qualificado, e por tratar de crime doloso, o que se quer tem provas de que o mesmo teria participado de qualquer fato este delito. Além disso, a Nobre Magistrada está fazendo suposições infundadas e sem o devido respaldo, no momento em que alega que "o paciente [NOME] possui maus antecedentes (Produção e Tráfico ilícito de Drogas), bem como quando afirma que reincidiu, em curto período, na conduta delitiva de um crime doloso, qual seja o homicídio qualificado, conforme consulta ao Sistema Themis", fundamentação está que não merece prosperar, uma vez que o mesmo apenas possui apenas denúncias recebidas nos outros processos (2x associações e 1x tráfico), sendo que não existe nenhuma sentença nestes processos (Princípio da Presunção de Inocência). Além disso, verifica-se que o mesmo é primário, conforme certidão de antecedentes criminais, acostada às fls. 410 a 411, motivo pelo qual é primário, estando a fundamentação da Nobre Magistrada precária, no momento em que alega que o mesmo "reincidiu em curto período na conduta delitiva de um crime doloso"" (e-STJ fl. 11).
+Alega que, a despeito de não ser o momento adequado, "o paciente [NOME] em nenhum momento cometeu o fato descrito na denúncia pela Nobre representante do Parquet, inclusive, possuímos diversas testemunhas, de que no momento dos fatos o Paciente estava em outro lugar, que não o local do crime descrito na denúncia" (e-STJ fl. 12).
+Sustenta que "o correu [NOME], o qual está na mesma situação processual do paciente [NOME], teve a sua prisão temporária revogada juntamente com a prisão de [NOME], não tendo sido decretada a sua prisão preventiva, sendo apenas decretada a prisão do paciente, afrontando o Princípio da Isonomia" (e-STJ fl. 12).
+Por isso, requer, inclusive liminarmente, a revogação da prisão preventiva (e-STJ fls. 3/19).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem denegou a ordem originária, consignando, para tanto, que (e-STJ fls. 22/23):
+Denego a ordem nos termos em que, quando do recebimento desta ação constitucional, indeferi liminarmente:
+II. Não é caso de deferimento do pedido de concessão liminar da ordem.
+Segundo consta na denúncia, no dia 11 de junho de 2018, por volta das 16h30min, o paciente, na companhia dos corréus, teria matado as vítimas Jean e Júlio, mediante disparos de arma de fogo.
+A prisão preventiva do paciente foi decretada em decisão acostada às páginas 22 e seguintes dos autos eletrônicos.
+Com efeito, em que pesem as alegações do impetrante, não verifico ilegalidade aparente que justifique o deferimento do pedido de concessão liminar da ordem, devendo ser aguardada a vinda de informações para julgamento pelo Colegiado.
+III. Diante do exposto, indefiro o pedido de concessão liminar da ordem.
+Efetivamente, não há respaldo para modificar o desfecho adiantado acima.
+Isso porque a impetração veio desacompanhada de cópia integral dos autos originários, não tendo sido acostadas inúmeras cópias - o feito, do que se depreende da documentação acostada aos autos eletrônicos pelo impetrante, conta com mais de 500 páginas, tendo sido acostadas aos autos eletrônicos tão somente cerca de 150 páginas.
+Assim, inviável a exata compreensão do caso concreto e, consequentemente, a análise das alegações dos impetrantes, sobretudo aquelas consistentes em inexistência de perigo de liberdade, inexistência de indícios suficientes de autoria, não indiciamento do paciente pela autoridade policial e violação ao princípio da isonomia.
+Nesse contexto, inviável a concessão da ordem.
+Nessa toada, considerando-se que o Tribunal de origem denegou o habeas corpus lá impetrado sem que o mérito da irresignação fosse por ele apreciado, fica obstada a análise da impetração por esta Corte Superior, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
