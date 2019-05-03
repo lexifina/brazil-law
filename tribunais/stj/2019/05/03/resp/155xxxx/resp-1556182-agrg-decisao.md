@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão proferida por esta relatoria (e-STJ, fls. 472/477), que deu provimento ao recurso especial, para determinar que o Tribunal a quo proceda à fixação da verba honorária em atenção aos valores mínimos fixados na tabela da respectiva Seccional da Ordem dos Advogados do Brasil.
+Alega o recorrente que a matéria tratada nos autos encontra-se afetada à Terceira Seção do STJ como representativo da controvérsia (Tema 984) e aguarda julgamento (Resp 1.6665.033 e Resp 1.656.322, Rel. Min. ROGÉRIO SCHIETTI, Terceira Seção, afetado em 25/10/2017).
+Requer a reconsideração da decisão agravada, determinando o sobrestamento do recurso especial até o pronunciamento definitivo da Corte Superior sobre a matéria, nos termos do art. 1.030, III, do Código de Processo Civil.
+É o relatório.
+A irresignação comporta acolhimento.
+O tema trazido à discussão foi afetado à Terceira Seção desta Corte Superior pela sistemática dos recursos repetitivos (Resp. n. 1.656.322/SC e Resp 1.665.033/SC), e assim sintetizado no Tema n. 984: Obrigatoriedade ou não de serem observados, em feitos criminais, os valores estabelecidos na tabela organizada pelo respectivo Conselho Seccional da Ordem dos Advogados a título de verba advocatícia devida a advogados dativos.
+Na ocasião, determinou-se o sobrestamento apenas dos recursos especiais interpostos, bem como aqueles recursos que já foram decididos, mas que ainda pendem de agravo regimental ou embargos de declaração, exclusivamente no que tange à discussão sobre honorários advocatícios, nada obstando o prosseguimento dos feitos relativamente à questão penal subjacente, evitando-se, com isso, prejuízos ao andamento das ações penais, a despeito da previsão contida no art. 1.037, II, do CPC (REsp 1.656.322 e REsp 1.665.033, DJe de 08/11/2017)
+Dessa forma, é conveniente determinar o sobrestamento destes autos até o julgamento e a publicação do acórdão proferido nos autos dos referidos recursos representativos da controvérsia.
+Ante o exposto, dou provimento ao agravo para anular a decisão agravada, no que toca aos honorários advocatícios, e determino o encaminhamento do feito à Coordenadoria da Quinta Turma para que seja sobrestado até o julgamento do REsp 1.656.322/SC e REsp 1.665.033/SC.
+Oficie-se ao Tribunal de Justiça do Estado de Santa Catarina e ao Juízo da 1ª Vara Criminal da Comarca de Criciúma, informando sobre o sobrestamento destes autos apenas em relação ao tema sobrestado pela sistemática dos recursos repetitivos.
+Após o julgamento dos recursos representativos da controvérsia, retornem os autos conclusos.
+Publique-se. Intimem-se.
