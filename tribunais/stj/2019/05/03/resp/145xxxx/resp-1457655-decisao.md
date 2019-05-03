@@ -1,0 +1,7 @@
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO PROFERIDA, QUE DENEGOU ANTECIPAÇÃO DA TUTELA RECURSAL EM AGRAVO DE INSTRUMENTO DIRECIONADO A R. DECISÃO MONOCRÁTICA - ALEGAÇÃO DE INCORREÇÃO, UMA VEZ PRESENTES ELEMENTOS AUTORIZADORES DA CONCESSÃO PRANTEADA - ACERTO DA DECISÃO COMO PROFERIDA - INEXISTÊNCIA DE DANO DE DIFÍCIL REPARAÇÃO - AGRAVO REGIMENTAL NÃO CONHECIDO AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FOI RECEBIDO RECURSO DE APELAÇÃO EM EFEITO MERAMENTE DEVOLUTIVO - R.SENTENÇA PELA QUAL FOI DEFERIDA A REINTEGRAÇÃO LIMINAR DO AUTOR NA POSSE DO IMÓVEL, COM FUNDAMENTO NO ARTIGO 30 DA LEI 9.514/97 - PEDIDO DE RECEBIMENTO DA APELAÇÃO TAMBÉM SUSPENSIVO - MANUTENÇÃO D DECISÃO RECORRIDA - PRAZO DE SESSENTA DIAS PARA DESOCUPAÇÃO DO IMÓVEL - MANUTENÇÃO DO EFEITO DEVOLUTIVO - APLICAÇÃO DO DISPOSTO NO ART. 520, VII, DO CPC RECURSO NÃO PROVIDO. (fl. 613)
+Em decisão à fl. 1.059, intimei a parte recorrente para que informasse se remanescia o interesse no julgamento do presente recurso.
+Na petição de fl. 1.064, a recorrente informa que não há mais interesse no referido julgamento.
+2. Diante do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
