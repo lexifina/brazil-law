@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - Servidoras Públicas Municipais de Salto de Pirapora - Monitoras de Creche - Pretensão para declarar que na qualidade de "educadoras de creche" são professoras, a fim de possibilitar o acúmulo de função, nos termos do artigo 37, inciso XVI, alínea "a" da Constituição Federal - Sentença de improcedência pronunciada em primeiro grau, revogando a tutela antecipada concedida - CERCEAMENTO DE DEFESA Afastado - Provas que efetivamente pretendem produzir, justificando sua pertinência em relação aos fatos tratados no processo, sob pena de preclusão - Pedido genérico - EDUCADOR DE CRECHE COM STATUS DE PROFESSOR E, ASSIM, POSSA ACUMULAR CARGOS E USUFRUIR DA DIVISÃO DA JORNADA PREVISTA NO ARTIGO 2°, DA LEI 11.738/08 - Impossibilidade - As atividades desenvolvidas pelas autoras são, em regra, administrativas, sendo tarefas de cuidados com os alunos e não de docência - Precedentes desta E. Corte - Sentença mantida - Recurso de apelação das Autoras improvido.” (eDOC 10, p. 4)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, XVI, a, do texto constitucional.
+    Nas razões recursais, alega-se que, ao ministrar aulas a crianças na Educação Básica infantil, as recorrentes teriam o direito à acumulação remunerada de cargos, nos termos do artigo 37, XVI, a, da CF. (eDOC 10, p. 37)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Complementar Municipal 9/2010), consignou que as atividades das recorrentes não se caracterizam como de magistério. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No entanto, as atribuições do cargo da carreira de Educador Infantil estão relacionadas à execução de "tarefas de cuidados dos alunos e as atividades pedagógicas compatíveis com o campo de atuação", descritas no anexo III, da Lei Complementar Municipal n° 09/2010 (fls. 137), cuidando-se, então, de carreira específica, com requisitos, atividades e cargos próprios.
+    […]
+    Já a carreira do magistério tem outra regulamentação, com diferentes cargos, requisitos e atividades (Lei de Diretrizes e Bases Lei 9.394/96 e Lei 11.738/08). ” ( eDOC 10, p. 10-11)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Acumulação de cargos públicos. Art. 37, XVI, b, da CF de 1988. 2. Definição das funções de magistério. ADI 3.722. 3. Necessidade de interpretação da legislação infraconstitucional pertinente, para a definição da natureza das atividades desenvolvidas pela agravada. Impossibilidade em sede recursal extraordinária. 4. Agravo regimental a que se nega provimento.” (ARE 813.081-AgR, de minha relatoria, Segunda Turma, DJe 5.11.2015).
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Natureza dos cargos acumulados. Legislação local. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local e o exame de ofensa reflexa à Constituição. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido.” (ARE 846.524-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 18.3.2015).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 9, p. 5), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 3 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
