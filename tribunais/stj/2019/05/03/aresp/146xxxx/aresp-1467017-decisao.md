@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 83/STJ.
+Nas razões do especial, aponta a defesa violação do art. 56, parágrafo único, da Lei 6.001/73.
+Sustenta, em síntese, que aplicável o regime especial de cumprimento de pena mesmo nos casos de indígena aculturado.
+Requer, assim, o provimento do recurso especial, a fim de que o recorrente cumpra pena em regime de semiliberdade.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+DECIDO.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrente foi condenado pela prática do delito previsto no art. 121, § 2º, III, do CP, à pena de 16 anos e 6 meses de reclusão, em regime fechado. Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso.
+O voto condutor do acórdão assim decidiu acerca do tema ora impugnado (fls. 497):
+De acordo com o art. 57, da Lei nº 6.0001/73 (Estatuto do índio), verbis: "Será tolerada a aplicação, pelos grupos tribais, de acordo com as instituições próprias, de sanções penais e disciplinares contra os seus membros, desde que não revistam de caráter cruel ou infamante, proibida em qualquer caso a pena de morte.".
+Da mesma forma, a Carta Constitucional, em seu art. 231, da CF/88, verbera que "São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens."
+No presente caso, dos autos, não há qualquer violação as normas acima observadas, como defende a defesa.
+Primeiro porque a Lei nº 6.001/73, em seu art. 7º, destaca que: "Os índios e as comunidades indígenas ainda não integrados à comunhão nacional ficam sujeito ao regime tutelar estabelecido nesta Lei", de modo que, o réu não se enquadra ao caso.
+Isto porque, consoante observado pelo Ministério Público (fl. 390) o ora apelante/réu, há época do crime, já estava integrado ao convívio social fora da aldeia indígena, uma vez que escreve e fala a língua portuguesa, possui como grau de instrução a 5a Série do ensino fundamental, é portador dos documentos: CPF e RG.,e trabalhava em uma fazenda, onde exercia o cargo de serviços gerais, consoante se comprova em seu Termo de Qualificação e Laudo Antropológico (fls. 35/40 e 292).
+Tais circunstâncias dão evidências inequívocas de que o recorrente encontra-se totalmente integrado, aculturado, não se tratando de índio isolado, embora ainda residisse na aldeia indígena.
+ ..
+MÉRITO - QUE O RÉU NÃO CUMPRA A PENA EM QUALQUER PENITENCIÁRIA OU CADEIA PÚBLICA
+Busca a defesa que seja observado o artigo 56 parágrafo único da Lei 6.001/73, de proteção aos povos indígenas no cumprimento da pena em estabelecimento da FUNAI, impedindo que o réu cumpra a pena em qualquer penitenciária ou cadeia pública.
+O pedido de regime de semiliberdade em estabelecimento da FUNAI não se aplica ao presente caso.
+O artigo 56, parágrafo único do Estatuto do índio, prescreve:
+Art. 56. No caso.de condenação de índio por infração penal, a pena deverá ser atenuada e na sua aplicação o Juiz atenderá também ao grau de integração do silvícola.
+Parágrafo único. As penas de reclusão e de detenção serão cumpridas, se possível, em regime especial de semiliberdade, no local de funcionamento do órgão federal de assistência aos índios mais próximos da habitação do condenado.
+Consoante acima já demonstrado, o réu pessoa aculturada, fala língua portuguesa, possui documentos de identificação civil e exerce trabalho fora da aldeia indígena, de modo que a Lei especial, em regra, aplica-se ao índio não integrado, o que não é o caso do apelante, conforme dispõe o artigo 7o:
+"Os índios e as comunidades indígenas ainda não integrados à comunhão nacional ficam sujeito ao regime tutelar estabelecido nesta Lei."
+Nesse sentido, trago a jurisprudência:
+(STJ) "(..) 2. Esta Corte firmou o entendimento de que o indígena integrado à sociedade, nos termos do art. 4. III, do Estatuto do índio, não se enquadra ao disposto no art. 56, parágrafo único, do aludido Estatuto (cumprimento de pena em regime especial semiaberto), sendo, de rigor, a sua sujeição às leis penais impostas aos cidadãos comuns. Na espécie, o Tribunal a quo afirmou que o paciente possui título de eleitor e domínio da língua portuguesa, evidenciando que está integrado à sociedade, fato que respalda a aplicação do art. 33, § 2..º, a, do Código Penal, uma vez que a pena foi fixada em 12 (doze) anos de reclusão (..) " (HC 243.794/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, 6a T., julgado em 11/03/2014, DJe 24/03/2014).
+(STJ) "(..) 1: Este Tribunal Superior possui entendimento firmado de que o art. 56, parágrafo único, da Lei nº 6.001/76 (Estatuto do índio), a embasar a pretensão de atenuação da reprimenda, somente se destina à proteção do silvícola não integrado a comunhão nacional; ou seja, esse dispositivo legal não pode ser aplicado em favor do indígena já adaptado à sociedade brasileira (..) " (AgRg no REsp 1361948/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, 5a T., julgado em 10/09/2013, DJe 16/09/2013).
+Ademais, consigno que, a designação da Penitenciária Estadual para futuro cumprimento de pena, previsto no parágrafo único do art. 56 da Lei Especial, é apenas uma recomendação e não obrigação imposta, tanto que há a expressão "se possível quanto à imposição de regime especial de semiliberdade e o local de seu cumprimento.
+Ora, deve-se observar que o réu foi condenado por homicídio qualificado por meio cruel a uma pena de 16 (dezesseis) anos e 06 (seis) meses de reclusão, e sua condição social, por se encontrar efetivamente integrado na sociedade, conduz a aplicação nos termos da Lei, ou seja, aplica-se o artigo 33 do CP, de modo que a pretensão de que ele seja recolhido no local onde há órgão de proteção e fiscalização aos índios mais próxima da reserva indígena em que se encontram os familiares daquele, é matéria a ser analisada pelo Juízo das Execuções Penais.
+A vista do todo exposto, em consonância com o parecer da Procuradoria-Geral de Justiça, NEGO PROVIMENTO ao recurso defensivo, mantendo inalterada a sentença originária.
+O Tribunal de origem, a partir dos elementos de prova produzidos nos autos, concluiu que o recorrente já estava integrado ao convívio social fora da aldeia indígena, uma vez que escreve e fala a língua portuguesa, possui como grau de instrução a 5a Série do ensino fundamental, é portador dos documentos: CPF e RG.,e trabalhava em uma fazenda, onde exercia o cargo de serviços gerais, afirmando que, em decorrência de tal circunstância, o pedido de regime de semiliberdade em estabelecimento da FUNAI não se aplica ao presente caso.
+O acórdão recorrido encontra-se em consonância com o entendimento desta Corte no sentido de que A aplicação do parágrafo único do art. 56 da Lei n. 6.001/1973 (Estatuto do Índio) é limitada aos indígenas em fase de aculturação (HC 263.987/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/11/2014, DJe 16/12/2014).
+Ademais, a reversão das premissas fáticas do acórdão ensejaria indevido revolvimento fático-probatório, que encontra óbice na Súmula 7/STJ. Nesse sentido, confira-se:
+RECURSO ESPECIAL. PENAL. LATROCÍNIO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. INDÍGENAS INTEGRADOS. DESNECESSIDADE DE TUTELA DIFERENCIADA. AUSÊNCIA DE VIOLAÇÃO AO ESTATUTO DO ÍNDIO. REEXAME DE PROVAS. SÚMULA N.º 07 DO STJ.
+1. A simples transcrição de ementas não é suficiente para caracterizar a divergência jurisprudencial.
+2. Os indígenas integrados à sociedade, nos termos do art. 4º, inciso III, da Lei n.º 6.001/73, não se sujeitam ao regime tutelar especial estabelecido pelo Estatuto do Índio.
+3. Ademais, afastar o entendimento adotado pelas instâncias ordinárias, de que os índios estavam devidamente aculturados e integrados à sociedade, ensejaria uma aprofundada inserção na seara fático-probatória dos autos, com o reexame das provas colacionadas nos autos da ação criminal, o que é vedado, nesta via especial, a teor do que estabelece a Súmula n.º 07 do STJ.
+4. Recurso não conhecido (REsp 737.285/PB, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 08/11/2005, DJ 28/11/2005, p. 331).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
