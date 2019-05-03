@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AGRAVO DE EXECUÇÃO. DIREITO DE PREFERÊNCIA. ADJUDICAÇÃO.
+Contrato de prestação de serviços, através do qual a sócia manifestou intenção de transferir suas ações aos advogados que a representavam, que não pode ser oponível perante a sociedade. Primeiro, porque, na esfera de cognição limitada deste agravo, não é documento hábil a comprovar a propriedade das ações. Segundo, porque tal instrumento, desacompanhado de outras provas, não está em consonância com as regras estatutárias previstas para alienação/transferência de ações. Signatários do contrato que sequer têm interesse para intervir no presente recurso, cuja discussão envolve apenas o direito de preferência e de adjudicação e não eventual levantamento de valores depositados.
+À sociedade de capital fechado, majoritariamente formada por acionistas com vínculo familiar, deve ser reconhecido o direito de remir a execução, na qualidade de terceira interessada. Assim como também deve ser admitido o direito de preferência previsto no art. 685-A, § 4º, do CPC e o de adjudicação das ações, independente de penhora e avaliação.
+AGRAVO PROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 462, 591, 685-A, § 4º, do Código de Processo Civil.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+O recurso não poderia ser acolhido sem reexame de prova. Os agravantes afirmam a transferência das ações antes da penhora. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 231):
+Ocorre que, diversamente do sustentado na petição da fl. 133 e seguintes, no âmbito de cognição limitada deste agravo, tal contrato não seria documento capaz de representar a propriedade das ações, porquanto desacompanhado do necessário registro da transferência nos livros societários.
+Ademais, a declaração de vontade da acionista [NOME], constante da cláusula 4 do contrato das fls. 138/141, não teria eficácia perante a sociedade de capital fechado. Isso porque o estatuto social da empresa estabeleceria regras para a alienação/transferência de ações, sendo que, no parágrafo 3º do art. 35, prevê expressamente que a venda, cessão, transferência ou alienação com violação ou infração ao direito de preferência previsto nos artigos acima será considerada nula e não produzirá qualquer efeito perante a Sociedade, os Acionistas ou terceiros não sendo passível de registro nos livros societários da Sociedade.
+No caso, todas as evidências apontariam para o desconhecimento ou discordância da empresa a respeito do ato praticado pela sócia [NOME] e os signatários da petição da fl. 133 e seguintes.
+Ademais, as disposições do estatuto social devem ser preservadas e merecem prevalecer diante da declaração de vontade constante do contrato exibido em juízo, tratando-se de sociedade anônima de capital fechado, a qual tem características de sociedade de pessoas, dentre elas a preponderância da affectio societatis para o exercício do objeto social.
+Afastar essas conclusões é inviável em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
