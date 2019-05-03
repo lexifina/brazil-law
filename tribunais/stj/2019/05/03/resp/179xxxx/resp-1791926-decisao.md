@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de recurso especial interposto por KAIAPÓ EMPREENDIMENTOS IMOBILIÁRIOS LTDA E KAMAYURÁ EMPREENDIMENTOS IMOBILIÁRIOS LTDA, com fundamento no art. 105, III, letras "a" e "c" da Constituição Federal, contra acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+""APELAÇÃO. COMPRA E VENDA DE BEM IMÓVEL NA PLANTA. Ação de indenização por danos materiais. Sentença de procedência parcial. Inconformismo de ambas as partes. ATRASO NA ENTREGA DO IMÓVEL. Não configurada hipótese de caso fortuito externo ocorrido dentro do prazo inicial previsto para a entrega da unidade. Justificativa que encerra "res inter alios acta" em relação aos compromissários adquirentes. Aplicação da Súmula nº 161 deste Tribunal. Termo final da mora que não se verifica da simples expedição do habite-se, mas somente com a efetiva disponibilização do imóvel aos adquirentes. Aplicação da Súmula nº 160 deste Tribunal. Mora dos adquirentes para repasse da parcela proveniente de financiamento que, igualmente, não se verifica, observada a vedação da reformatio in pejus. APLICAÇÃO DE CLÁUSULA PENAL CONTRATUAL. Descabimento Multa estabelecida para o caso de mora dos compradores, porém, que não pode ser estendida para o caso de mora das vendedoras. Aplicação da Súmula nº 159 deste Tribunal. LUCROS CESSANTES.
+Descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, ainda que não demonstrada a finalidade negocial da transação. Aplicação da Súmula nº 162 deste Tribunal. Precedentes do STJ. Valor da indenização por lucros cessantes fixada em 0,6% sobre o valor atualizado do contrato por mês de atraso. Sentença parcialmente reformada. Sucumbência maior das rés, que deverão arcar com as custas, despesas processuais e honorários advocatícios da parte contrária, mantidos em 10% sobre o valor da condenação.
+RECURSO DAS RÉS PARCIALMENTE PROVIDO, NEGADO PROVIMENTO AO RECURSO DOS AUTORES".(v.23400)" (e-STJ, fl. 259)
+Nas razões recursais, a parte recorrente aponta, além de dissídio jurisprudencial, violação aos artigos 186, 476, 394 393, 397 927 e 944, do CC; 86 e 326, do CPC/15, sustentando, em síntese, que: a) a indenização pelo atraso da mora após a expedição do habite-se violou os arts. 476, 394 e 397, do CC, pois ignorou que os recorridos estavam em mora; b) ausência de comprovação de lucros cessantes; c) o valor de 6% do valor do contrato a título de lucros cessantes presumidos é exorbirtante e; d) "deixou de observar que apenas o pedido subsidiário formulado pelos recorridos foi acolhido, impondo, assim, a distribuição dos ônus sucumbenciais a ambas as partes, e não apenas as recorrentes." (e-STJ, fl. 283)
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça se orienta no sentido de considerar que a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta o pagamento de indenização por lucros cessantes, sendo presumido o prejuízo do promitente comprador.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 301.607/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/09/2016, DJe 15/09/2016)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO INCAPAZ DE ALTERAR O JULGADO. LUCROS CESSANTES. ATRASO NA ENTREGA DE IMÓVEL. PRESUNÇÃO DE PREJUÍZO. PRECEDENTES.
+1. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+2. Agravo regimental não provido.
+(AgRg no Ag 1319473/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/06/2013, DJe 02/12/2013)
+AGRAVO REGIMENTAL - COMPRA E VENDA. IMÓVEL. ATRASO NA ENTREGA - LUCROS CESSANTES - PRESUNÇÃO - CABIMENTO - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A jurisprudência desta Casa é pacífica no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes. Nesse caso, há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável. Precedentes.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no REsp 1202506/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 07/02/2012, DJe 24/02/2012)
+Portanto, tem-se que, no ponto, a decisão recorrida está em consonância com a jurisprudência deste Tribunal Superior, pelo que a ofensa apontada, como visto, não se sustenta, incidindo à pretensão recursal, pois, o óbice da Súmula 83/STJ.
+Ademais, quanto aos lucros cessantes, verifica-se que o valor da condenação atendeu as peculiaridades do caso concreto. Nesse contexto, a alteração das premissas fáticas adotadas pelo acórdão recorrido, demandaria análise da relação contratual estabelecida, e incursão no conjunto fático e probatório dos autos, providência vedada, na via estreita do recurso especial, pelas Súmulas 5 e 7 do STJ.
+Quanto à alegada ofensa ao art. 393 do CC/2002, no que se refere ao atraso na entrega do imóvel, o Tribunal de origem afastou a ocorrência de caso fortuito ou força maior, atribuindo à recorrente a responsabilidade pela atraso, além do prazo de carência, na entrega do imóvel, amparando-se nos seguintes fundamentos:
+"Verifica-se da cláusula nº 9.1.1 (fls. 40) do compromisso de compra e venda celebrado entre as partes que a entrega das obras, com relação ao edifício em que está localizado o imóvel adquirido pelos autores (bloco 2) estava prevista para o prazo de 36 meses, a partir de agosto de 2006. Assim, a entrega do imóvel deveria ocorrer em até agosto de 2009.
+A cláusula nº 9.1.2 (fls. 40) desta avença, por sua vez, previa o prazo de tolerância de 180 dias para a entrega do imóvel. Portanto, o prazo final para imissão dos autores na posse do bem teria se esgotado em fevereiro de 2010, ficando configurada, portanto, a mora das rés a partir de 1º março do mesmo ano.
+Com relação a este ponto, as rés afirmaram, em contestação, que a mora se deu por motivos alheios à sua vontade, consistentes na falta de materiais e mão de obra especializada no mercado de construção civil. Alegaram, ainda, que de acordo com a cláusula nº 9.11 (fls. 42) do instrumento, este prazo poderia ser prorrogado pelo tempo que durasse o motivo de força maior.
+Contudo, tais argumentos não merecem guarida. É entendimento pacífico deste Tribunal que o prazo compromissado pelo vendedor deve levar em conta as condições de mercado, tais como a falta de materiais ou mão de obra especializada.
+As vendedoras são empresas experientes do ramo de construção civil, sendo impossível crer que não teriam como prever tais fatores mercadológicos quando prometeram a entrega do imóvel no prazo pactuado no contrato.
+Neste sentido é o entendimento pacífico deste Tribunal, consolidado na Súmula nº 161, nos seguintes termos:
+"Súmula 161 Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento, ou, ainda, entraves administrativos. Essas justificativas encerram "res inter alios acta" em relação ao compromissário adquirente" (DJE de 1º/02/2016, p. 6).
+Portanto, os motivos de força maior alegados, igualmente, não justificam a interrupção do prazo contratualmente previsto para entrega da obra.." (e-STJ, fls.262/263 )
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulado, para verificação da ocorrência de caso fortuito ou força maior capaz de excluir a responsabilidade da agravante pelo descumprimento do contrato, demandaria o revolvimento de conjunto fático-probatório dos autos, procedimento vedado nesta Corte, em face do óbice da Súmula 7 do STJ. Veja-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMPREENDIMENTO IMOBILIÁRIO. ATRASO NA ENTREGA DO IMÓVEL. 1. COMISSÃO DE CORRETAGEM. ORIENTAÇÃO ADOTADA NA ORIGEM EM HARMONIA COM A JURISPRUDÊNCIA DESTA CASA. SÚMULA N. 83/STJ. 2. FORTUITO EXTERNO. FUNDAMENTOS AFASTADOS PELA CORTE ESTADUAL. REVISÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. 3. DANO MORAL. VALOR RAZOÁVEL. MODIFICAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ. 4. AGRAVO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, o comprador somente possui obrigação de pagar a comissão de corretagem se é ele quem efetivamente contrata os serviços do corretor.
+Precedentes. Incidência do enunciado n. 83 da Súmula do STJ.
+2. Ao apreciar as assertivas referentes à ocorrência de fortuito externo, tendo em vista o aquecimento do mercado e a escassez de mão de obra, o Colegiado local assinalou a fragilidade das justificativas expostas, tendo em vista que as aludidas circunstâncias são previsíveis e ínsitas ao risco da atividade desenvolvida. Nesse contexto, a inversão dessas conclusões demandaria a análise das provas do processo. Incidência do enunciado n. 7/STJ.
+3. Relativamente ao montante fixado a título de danos morais, a análise dos precedentes desta Corte revela que o valor arbitrado na origem - R$ 10.000,00 (dez mil reais) - não se distancia dos padrões de razoabilidade, sendo caso de aplicação do enunciado n. 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 828.193/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/05/2016, DJe 16/05/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. ALEGAÇÃO DE EXCESSO DE CHUVAS E DE ESCASSEZ DE MÃO DE OBRA. CASO FORTUITO E FORÇA MAIOR NÃO CONFIGURADOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. Concluir que o excesso de chuvas e a escassez de mão de obra configuram fatos extraordinários e imprevisíveis, traduzindo-se como hipótese de caso fortuito e força maior, demanda o reexame do conjunto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 693.255/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 25/08/2015, DJe 03/09/2015)
+AGRAVO INTERNO. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. CASO FORTUITO. INEXISTÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+I - A discussão com relação à ocorrência de caso fortuito, que acarretou a demora na entrega do imóvel, exige reexame de fatos e provas, circunstância obstada pela Súmula 7 desta Corte.
+Agravo improvido." (AgRg no Ag 849.084/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 21/02/2008, DJe 10/03/2008)
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO. RESCISÃO. PROMESSA DE COMPRA E VENDA. ENTREGA FUTURA. DESCUMPRIMENTO DO CONTRATO. OBRA. PARALISAÇÃO. PRAZO ESTIPULADO. NÃO ENTREGA. INDENIZAÇÃO. LUCROS CESSANTES. CABÍVEL. MOTIVO DE FORÇA MAIOR. INEXISTENTE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. INOCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO. AGRAVO REGIMENTAL IMPROVIDO.
+(AgRg no AgRg no Ag 1137044/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 27/10/2009, DJe 07/12/2009)
+Quanto ao atraso na entrega do imóvel, o Tribunal de origem asseverou o seguinte:
+"Com relação ao termo final da mora, as rés pugnaram que este fosse considerado na data de expedição do "habite-se", ou seja, 25 de novembro de 2011 (fls. 100).
+Afirmaram, ainda, que houve atraso dos adquirentes para a obtenção do financiamento bancário e quitação da última parcela do preço do bem.
+Neste ponto, o recurso das rés também não comporta provimento. Este Tribunal firmou entendimento, consolidado pela Súmula nº 160, nos seguintes termos:
+"Súmula 160 A expedição do habite-se, quando não coincidir com a imediata disponibilização física do imóvel ao promitente comprador, não afasta a mora contratual atribuída à vendedora" (DJE, ed. 2074, 1º/02/2016, p. 05).
+Portanto, a simples expedição do "habite- se" não afasta a mora das vendedoras, a qual termina somente com a efetiva disponibilização do imóvel aos adquirentes.
+Por outro lado, as rés alegaram também que houve mora dos adquirentes, no pagamento da parcela referente ao financiamento bancário. O documento de fls. 98/99 dá conta de que o saldo restante do preço do imóvel somente foi quitada, por meio do repasse, em 13/07/2012.
+O Magistrado a quo fixou o termo final da mora em 25 de março de 2012, quatro meses após a expedição do "habite-se", sob o argumento de que tal prazo seria suficiente para que os adquirentes obtivessem a liberação do financiamento bancário, de modo que a mora de sua responsabilidade a partir de então. Os autores não expressaram inconformismo quanto a este ponto da decisão.
+Contudo, não há qualquer elemento nos autos que demonstre que esta demora adicional tenha ocorrido por inércia ou negligência dos adquirentes. É notório que a expedição do "habite-se" não é o único requisito para a liberação do crédito, uma vez que também é necessária a regularização da matrícula do bem, de responsabilidade da vendedora.
+No caso em tela, contudo, não foram trazidos aos autos documentos que demonstrassem a regularidade dos requisitos necessários para a obtenção do financiamento, os quais poderiam ser facilmente obtidos pelas rés.
+Contudo, tendo em vista a vedação da reformatio in pejus, a decisão não comporta reparo, tendo em vista a ausência de inconformismo dos adquirentes com relação a este ponto." (e-STJ, fls. 263/264)
+Como visto, o Tribunal de origem, ao analisar a situação fática e as provas dos autos, notadamente o compromisso de compra e venda firmado entre as partes, reconheceu a mora contratual.
+Desse modo, rever tais premissas e acolher as alegações da recorrente, no sentido de determinar a data do "Habite-se" como sendo o termo final de sua obrigação, implicaria a interpretação das cláusulas do contrato e o reexame do conjunto fático-probatório dos autos, o que é obstado em recurso especial, conforme dispõem os enunciados sumulares n. 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. MULTA CONTRATUAL. PREVISÃO. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A orientação jurisprudencial do Superior Tribunal de Justiça, no caso de lucros cessantes, é firme no sentido de que, comprovado o atraso na entrega das chaves do imóvel, é devida indenização, independentemente de comprovação do prejuízo do comprador.
+3. Rever o entendimento do tribunal de origem, que reconheceu a previsão de multa contratual no acordo firmado pelas partes, esbarraria nos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1710441/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/05/2018, DJe 28/05/2018)
+Por seu turno, a parte ora agravante pretende rediscutir a distribuição dos ônus sucumbenciais, com o objetivo de perquirir eventual sucumbência mínima ou recíproca. Contudo, tal pretensão encontra óbice no Enunciado Sumular n. 7 do STJ, como se depreende da leitura dos seguintes precedentes:
+"AGRAVO INTERNO EM AGRAVO (ART. 1.042 DO NCPC) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTENDO A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+(..)
+3. Pretensão de redimensionamento dos honorários advocatícios sucumbenciais arbitrados na origem. A revisão da distribuição dos ônus sucumbenciais, com o intuito de perquirir eventual sucumbência recíproca dos litigantes, envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp 1.039.441/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/04/2017, DJe de 19/04/2017 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CAUTELAR DE EXIBIÇÃO. PROCEDÊNCIA PARCIAL. SUCUMBÊNCIA RECÍPROCA RECONHECIDA NA ORIGEM. MATÉRIA FÁTICA. SÚMULA Nº 7 DO STJ. COMPENSAÇÃO. SÚMULA 306 DO STJ.
+(..)
+2. A apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como a existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula nº 7/STJ.
+3. "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte" (Súmula nº 306/STJ).
+4. Agravo interno não provido."
+(AgInt no REsp 1.399.745/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe de 23/02/2017)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou os elementos fáticos dos autos para concluir pela ocorrência de sucumbência recíproca. Dessa forma, inviável alterar tal conclusão em recurso especial, ante o óbice da mencionada súmula.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 989.008/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/02/2017, DJe de 21/02/2017)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMPREENDIMENTO IMOBILIÁRIO. RESPONSABILIDADE PELA AUSÊNCIA DE ENTREGA. SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+2. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 960.436/BA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe de 02/02/2017)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor da condenação.
+Publique-se.
