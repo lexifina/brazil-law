@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL FUNDAMENTADA NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. PRETENSÃO RECURSAL DE REDIMENSIONAMENTO DE VERBA HONORÁRIA QUE ESBARRA NA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
+DECISÃO
+TRANSMAGNA TRANSPORTES EIRELI (TRANSMAGNA) juizou embargos à execução de título extrajudicial contra CONSULT GERENCIAMENTO DE RISCOS LTDA. e outra (CONSULT e outra), sob o fundamento de extinção do débito.
+A sentença de improcedência do pedido foi confirmada em grau de apelação confirme acórdão assim ementado:
+RECURSO DE APELAÇÃO INTERPOSTO CONTRA R. SENTENÇA PELA QUAL FORAM REJEITADOS EMBARGOS À EXECUÇÃO - ALEGAÇÃO DE INCORREÇÃO, ANTE A INEXISTÊNCIA DE TÍTULO EXECUTIVO, E PORQUE AS OBRIGAÇÕES ASSUMIDAS FORAM INTEGRALMENTE CUMPRIDAS, INCABÍVEL, PORTANTO, A EXECUÇÃO DA MULTA CONTRATUAL - PEDIDO DE REFORMA - INSTRUMENTO PARTICULAR DE TRANSAÇÃO E OUTRAS AVENÇAS - CONTRATO COM CARACTERÍSTICAS DE TÍTULO EXECUTIVO - ART. 585, INC. II, DO C.P.C. - DÍVIDA LÍQUIDA, CERTA, E EXIGÍVEL - ART. 586, DO C.P.C. - EXECUÇÃO DE CLÁUSULA PENAL - POSSIBILIDADE - ESTIPULAÇÃO DE FIDELIZAÇÃO CONTRATUAL PELO PRAZO DE 36 MESES - CONTRATO RESCINDIDO APÓS 24 MESES - NECESSÁRIA REDUÇÃO DA CLÁUSULA PENAL - VALOR EXCESSIVO - IMPORTÂNCIA QUE DEVE GUARDAR PROPORÇÃO COM O PERÍODO FALTANTE PARA O CUMPRIMENTO DO CONTRATO - APLICAÇÃO DO ART. 413, DO CÓDIGO CIVIL - RECURSO NÃO PROVIDO, COM REDUÇÃO DA CLÁUSULA PENAL "DE OFÍCIO" (e-STJ, fl. 247).
+Os embargos de declaraçaõ foram rejeitados (e-STJ, fls. 268/275).
+TRANSMAGNA interpôs recurso especial com base no art. 105, III, a e c, da CF, sob a alegação de violação dos arts. 85, 86, 489, § 1º e 1022 do NCPC e dissídio jurisprudencial pelos fundamentos assim sintetizados (1) negativa de prestação jurisdicional fundamentada; (2) deve ser redimensionada a verba sucumbencial , pois o acórdão recorrido reconheceu que a recorrente decaiu 1/3 do pedido.
+Foram ofertadas contrarrazões (e-STJ, fls. 308/311).
+O Tribunal de origem inadmitiu o apelo nobre por (1) não se verificarem os vícios de omissão e falta de fundamentação no acórdão recorrido; (2) nã ter sido demonstrada a infringência dos preceitos arrolados; (3) incidir a Súmula nº 7 do STJ.
+TRANSMAGNA ingressou com agravo em recurso especial sustentando (1) foi demonstrada a violação dos preceitos ditos infringidos; (2) não se aplicar a Súmula nº 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 333/336).
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegação de negativa de prestação jurisdicional fundamentada
+TRANSMAGNA reclama que o Tribunal estadual não apreciou nem apresentou os fundamentos relativos aos fatos e provas apresentados nos autos, especialmente levando em consideração que, com ao acolher parcialmente a pretensão resistida para redução da cláusula penal, deveria ser redimensionada a verba honorária.
+Não lhe asiste razão, contudo.
+De fato, ao apreciar os embargos de declaração, a Corte local assim consignou:
+Ademais, forçoso ter em mente que não se registrou, como pretende fazer crer a embargante, a parcial procedência do recurso por ela manejado, isto porque as teses por ela deduzidas não foram acolhidas, posto que a redução da cláusula penal se deu de "oficio", de sorte que a redução do valor excutido na demanda executiva decorreu do poder/dever do Juiz, sendo fato poderia ter se registrado nos autos daquela lide, inclusive sem que se fizesse presente necessidade de ajuizarnento de ação autônoma para tanto (e-STJ, fl. 273).
+Como se vê, o aresto combatido examinou e decidiu motivadamente a questão arguida pela recorrente, ainda que de forma contrária aos seus interesses.
+Ficou expressamente firmado no julgado que não ocorreu o provimento parcial da apelação, tendo a cláusula pena sido reduzida de ofício.
+(2) Da alegação de ofensa aos arts. 85 e 86 do NCPC
+No ponto, observa-se que os referidos preceitos não foram objeto de apreciação pelo Tribunal de origem, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre.
+Acrescente-se, que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+Sendo assim, é de rigor a aplicação, por analogia, da Súmula nº 282 do STF.
+Ainda que fosse possível afastar o sobredito óbice sumular, deve se registrar que a pretensão recursal estaria barrada pela Súmula nº 7 do STJ, pois para a aferição do quanto decaiu a recorrente no seu pedido, seria necessária a revisão de matéria fática, defeso a esta Corte na via eleita.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. TRIBUNAL A QUO ENTENDEU QUE O AUTOR DECAIU DA PARTE MÍNIMA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO. 1. Não há violação aos arts. 489 e 1.022 do CPC/2015 quando o v. acórdão estadual apresenta os fundamentos, ainda que sucintos, acerca dos danos morais, cujo valor levou em consideração as peculiaridades do caso concreto, em especial as lesões sofridas pelo recorrido. 2. "A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ." (EDcl no AgRg no AREsp 151.072/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/08/2018, DJe de 11/09/2018). 3. Agravo interno desprovido. (AgInt no AREsp 1270661/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/3/2019, DJe 29/3/2019)
+Ausente o prequestionamento dos preceitos legais, não há que se cogitar em dissídio jurisprudencial, ficando prejudicado o exame da insurgência pela alínea c.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e nessa extensão NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § º do NCPC).
+Publique-se. Intimem-se.
