@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 544 do CPC/1973) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 535 do CPC/1973, (b) ausência de ofensa aos artigos de lei apontados e (c) aplicação da Súmula n. 7 do STJ.
+O TJSP deu provimento ao recurso em acórdão assim ementado (e-STJ fl. 334):
+INVENTÁRIO. PEDIDO INCIDENTAL DE RESERVA DE BENS. INADMISSIBILIDADE. AUSÊNCIA DE PROVA SUFICIENTE DA EXISTÊNCIA DA DÍVIDA. AÇÃO ANULATÓRIA JULGADA EXTINTA, SEM RESOLUÇÃO DE MÉRITO, ANTE O RECONHECIMENTO DE COISA JULGADA. SENTENÇA, NO PONTO, MANTIDA EM SEGUNDO GRAU. AUSÊNCIA DE DOCUMENTO QUE COMPROVE SUFICIENTEMENTE A DÍVIDA. FALTA DE ATENDIMENTO AO REQUISITO EXIGIDO PELO ARTIGO 1018, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. DECISÃO REFORMADA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram parcialmente acolhidos (e-STJ fls. 352/358).
+Nas razões do recurso especial (e-STJ fls. 361/371), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação do art. 535 do CPC/1973, "na medida em que (..) não houve manifestação expressa sobre a ofensa ao art. 1793, §§ 2º e 3º, do CC, que trata da ineficácia das cessões de direitos hereditários feitas pelos herdeiros sobre bem da herança considerando singularmente sem autorização judicial ainda pendente a indivisibilidade do patrimônio, mormente em relação aos credores do espólio" (e-STJ fl. 364).
+Sustentou ofensa ao art. 525, I, do CPC/1973, afirmando que "é óbvio o interesse dos demais herdeiros na matéria, pois a reserva de bens (..) e o pagamento de dívidas do Espólio é matéria que diz respeito a todos os herdeiros e não apenas a esse ou aquele herdeiro isoladamente" (e-STJ fl. 364) e, alegou assim, que o outro credor e os demais herdeiros deveriam ter sido intimados a se manifestar no presente processo.
+Assinalou também a ofensa ao art. 1.018, § único do CPC/1973, apontando que "a reserva de bens do espólio nos inventários tem lugar apenas e tão somente quando o pagamento não tem a concordância de todos os herdeiros e a sua discussão é remetida para as vias ordinárias" (e-STJ fl. 364).
+Acresceu ainda contradição e omissão no acórdão quanto ao "art. 463, do CPC, na medida em que corrige o erro material (afasta a coisa julgada na demanda proposta pelo recorrente e determina o prosseguimento da ação), mas não corrige a consequência de forma lógica, ou seja, havendo a plausibilidade do crédito, é medida que se impõe a reserva de bens até o julgamento final da demanda proposta pelo credor, ora recorrente" (e-STJ fl. 365).
+Foram oferecidas contrarrazões (e-STJ fls. 377/381).
+No agravo (e-STJ fls. 418/429), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 432/441).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Verifica-se que o Tribunal de origem concluiu por afastar a preliminar de não conhecimento do recurso, "uma vez que restou cumprido o ditame do artigo 525, do Código de Processo Civil, que prevê a obrigatoriedade de apresentação de cópia da procuração do agravante e agravado", assinalando ainda que (e-STJ fl. 335):
+Na situação em apreço, o presente agravo restringe-se ao capítulo da decisão que deferiu a reserva de bens, o que, por óbvio, torna parte legítima e passiva do recurso apenas o agravado Wagner [NOME].
+Da instrução processual, contata-se o cumprimento do citado dispositivo legal
+Sendo assim, rever tais conclusões demandaria nova incursão no contexto fático dos autos, a teor da Súmula n. 7/STJ.
+No que tange também ao "pedido incidental de reserva de bens em inventário formulado por terceiro na suposta condição de credor do espólio", o Tribunal de origem entendeu que (e-STJ fls. 335/336):
+o pedido subsidiário de reserva de bens em incidente de habilitação de crédito, conforme disciplina do parágrafo único do artigo 1018 do Código de Processo Civil, será deferido sempre e "quando a dívida constar de documento que comprove suficientemente a obrigação e a impugnação não se fundar em quitação", o que, no caso, se revelou ausente.
+Assim, ainda que a liquidez da dívida não seja requisito para o deferimento do pedido de reserva de bens (cf.: STJ, REsp 98.486/ES, Quarta Turma, Min. Aldir Passarinho Júnior, j. 16.08.05), a prova de sua existência é pressuposto lógico para a concessão da tutela que, de resto, se orienta pelo exame próprio atinente aos provimentos cautelares.
+In casu, o agravado propôs ação anulatória (processo nº 0003583-82.2007.8.26.0572), julgada extinta, sem resolução de mérito, ante o reconhecimento dos efeitos da coisa julgada. A extinção do feito, sob o mesmo argumento, foi confirmada pela Segunda Instância (Apelação nº 9165540-35.2009.8.26.0000).
+Via de consequência, inexiste arrimo para o crédito pleiteado pelo agravado, o que afasta o atendimento do requisito previsto no sobredito comando legal.
+Destarte, na medida em que não atendido o pressuposto da apresentação de prova suficiente da existência da obrigação, é o caso de reforma da decisão, indeferindo o pedido de reserva de bens.
+Com efeito, anoto que rever a conclusão do Tribunal, na forma pretendida pelo recorrente, demandaria novamente o reexame do acervo fático dos autos, procedimento que, em sede especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+A Corte local não se manifestou quanto ao art. 463, do CPC/1973. Dessa forma, sem ter sido objeto de debate na decisão recorrida, mesmo após a oposição de aclaratórios, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
