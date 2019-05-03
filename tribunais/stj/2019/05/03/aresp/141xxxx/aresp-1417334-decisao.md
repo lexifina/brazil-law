@@ -1,0 +1,29 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Piauí, assim ementado:
+"AGRAVO DE INSTRUMENTO. SUCESSÃO PROCESSUAL. MORTE DO RÉU. CASAMENTO FIRMADO EM REGIME DE SEPARAÇÃO LEGAL DE BENS. NÃO INCIDÊNCIA DA SUCESSÃO NECESSÁRIA DO ART. 1845 DO CC POR PARTE DA MULHER. AUSÊNCIA DE ELEMENTOS QUE DEMONSTREM O INTERESSE DA AGRAVANTE EM SUCEDER O DE CUJUS.
+1. No caso em apreço, o regime fixado entre os nubentes foi o de separação Legal de Bens (fls.88), fato que exclui o cônjuge sobrevivente do rol de herdeiros necessários, por forma do disposto no art. 1829, I do CC/02 e ainda conforme entendimento doutrinário do próprio STJ. Assim, na espécie, não há falar em sucessão necessária do ex-marido por parte da agravante, haja vista que esta não integra a relação de sucessores do de cujus. conforme art. 110 do CPC /15: "Ocorrendo a morte de qualquer das partes, dar-se-á a sucessão pelo seu espólio ou pelos seus sucessores, observado o disposto no art.313, §§ 1o e 2o."
+2. De toda a dimensão da matéria, resta evidente que a cônjuge sobrevivente, ora agravante, não ostenta condição jurídico-legal de sucessora do de cujus [NOME]. Logo, correta a decisão agravada que indeferiu a sua habilitação nos autos do inventário referido neste recurso" (e-STJ, fl. 455)
+Nas razões do recurso especial, a agravante alega violação aos arts. 1.814, 1.845 e 1.829 do Código Civil de 2002 sustentando, em síntese, que pode substituir seu esposo falecido na ação de manutenção de posse independente de ter sido casada no regime de separação de bens.
+Foram apresentadas contrarrazões às fls. 143/150.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No tocante a suposta violação aos arts. 1.814, 1.845 e 1.829 do CC/02, o Tribunal de origem concluiu que a agravante não detém condição de herdeira necessária em razão de o regime fixado em seu casamento ser o da separação legal de bens, in verbis:
+"Na origem, discute-se a posse de um bem imóvel situado na Rua Primeiro Maio, nº 1827, Bairro Primavera, na cidade de Teresina-PI (fls. 07). É certo que agravante, sendo cônjuge sobrevivente, é considerada herdeira necessária para fins da sucessão, nos termos do art. 1845 do Código Civil.
+Todavia, no caso em apreço, o regime fixado entre os cônjuges foi o de Separação Legal de Bens (fls.88), fato que exclui o cônjuge sobrevivente do rol de herdeiros necessários, por forma do disposto no art. 1829, I do CC/02 e ainda conforme entendimento doutrinário e do próprio STJ. Assim, na espécie, não há falar-se em herança por parte da agravante em relação ao seu ex-marido." (e-STJ, fl. 132)
+Ademais, compulsando os autos, depreende-se que o regime de separação de bens é o obrigatório, regido pelo art. 1.641 do CC/02, pois o casamento foi celebrado em 17/09/2010 quando o cônjuge falecido já possuía mais de 70 (setenta) anos (e-STJ, fl. 87)
+Desta forma, a decisão ora recorrida está em consonância com o entendimento jurisprudencial desta Corte Superior, no sentido de que a parte agravante não é herdeira necessária pois casou-se sob o regime de separação de bens obrigatória.
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Segundo a reiterada jurisprudência deste Superior Tribunal de Justiça, não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+2. Nos temos da jurisprudência desta Corte, entende que não há como aferir eventual ofensa ao art. 373 do CPC/2015 e correlatos sem incursão no conjunto probatório dos autos. 2.1. Ilidir as convicções relacionadas à validade do testamento demandariam reexame das provas contidas nos autos. Incidência da Súmula 7/STJ.
+3. Este Superior Tribunal de Justiça entende que, a partir da entrada em vigor do Código Civil de 2002, o cônjuge é herdeiro necessário, qualquer que seja o regime de bens, exceção feita ao regime da separação legal ou obrigatória, conforme expressamente definido nos artigos 1.641 e 1.829 do diploma civil. Precedentes da Segunda Seção. 3.1. No caso em tela, a Corte de origem verificou que as partes se casaram sob o regime da separação obrigatória, de modo que a cônjuge sobrevivente não é herdeira necessária. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1111415/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/09/2018, DJe 19/09/2018)
+"CIVIL. DIREITO [NOME]. CÔNJUGE. HERDEIRO NECESSÁRIO. ART.1.845 DO CC. REGIME DE SEPARAÇÃO CONVENCIONAL DE BENS. CONCORRÊNCIA COM DESCENDENTE. POSSIBILIDADE. ART. 1.829, I, DO CC.
+1. O cônjuge, qualquer que seja o regime de bens adotado pelo casal, é herdeiro necessário (art. 1.845 do Código Civil).
+2. No regime de separação convencional de bens, o cônjuge sobrevivente concorre com os descendentes do falecido. A lei afasta a concorrência apenas quanto ao regime da separação legal de bens prevista no art. 1.641 do Código Civil. Interpretação do art. 1.829, I, do Código Civil.
+3. Recurso especial desprovido.
+(REsp 1382170/SP, Rel. Ministro MOURA RIBEIRO, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 22/04/2015, DJe 26/05/2015)
+Incidência, portanto, da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
