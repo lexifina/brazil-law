@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por BM & FBOVESPA SUPERVISÃO DE MERCADOS - BSM, desafiando decisão que inadmitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação de réu revel em busca da declaração de nulidade da sentença de procedência da ação, por vício de citação.
+Prova vinda com o recurso a demonstrar que o réu, efetivamente, não mais reside na cidade de São Paulo, para onde dirigida a carta de citação postal. Entendimento acerca da validade da entrega da carta citatória ao zelador ou a funcionário do prédio que, naturalmente, somente se aplica se o réu nele reside. Processo anulado ab initio. Apelação provida." (e-STJ, fl. 436)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta ofensa aos arts. 322, 458, II, 508 e 535, II, do CPC/73, bem como divergência jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que o recurso de apelação do recorrido não poderia ter sido sequer conhecido, em razão de sua manifesta intempestividade. Acrescenta que o prazo para o revel recorrer da sentença se inicia com a sua publicação em cartório.
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No que se refere à negativa de prestação jurisdicional, não se vislumbra a alegada violação aos arts. 458, II, e 535, II, do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, manifestou-se satisfatoriamente acerca da alegada intempestividade da apelação:
+"A nulidade de citação (querela nullitatis) pode ser suscitada a qualquer momento, sob qualquer forma, até mesmo em execução de sentença. Assim como pode ser declarada ex officio pelo juiz (STJ-REsp 22.487, SÁLVIO DE FIGUEIREDO, anotado por THEOTONIO NEGRÃO e continuadores, CPC, 46ª ed., pág. 321).
+Não será, por óbvio, portanto, por não ter vindo no prazo a apelação (interposta, aliás, por quem não foi citado..), que não se a conhecerá e, em seu julgamento, deixará de ser proclamada a nulidade" (e-STJ, fl. 449).
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Acrescente-se que, conforme a jurisprudência do Superior Tribunal de Justiça, o magistrado não está obrigado a se pronunciar sobre todos os pontos abordados pelas partes, mormente quando já tiver decidido a controvérsia sob outros fundamentos (EDcl no REsp 202.056/SP, 3ª Turma, Rel. Min. CASTRO FILHO, DJ de 21.10.2001).
+No mérito, não se conhece da alegada violação aos arts. 322 e 508 do CPC/73.
+Os dispositivos citados não tem aptidão para infirmar a fundamentação apresentada nas razões de decidir do acórdão recorrido, o qual está amparado na nulidade da citação.
+Com efeito, a c. Corte local reconheceu que a citação postal foi dirigida a endereço antigo, reputando-a inválida. Anulada a citação, consequentemente, não subsistem os efeitos da revelia.
+Por sua vez, na petição de recurso especial, a ora agravante limitou-se a alegar a intempestividade da apelação, com base nos efeitos da revelia declarada sem efeito, deixando de tecer qualquer consideração a respeito da suposta validade da citação.
+É de se concluir, portanto, que os dispositivos legais indicados como violados não possuem pertinência com o decidido no v. aresto hostilizado, não tendo, assim, força normativa suficiente para reformar o acórdão impugnado. Com efeito, "a indicação de artigo de lei federal tido por violado que não guarda pertinência temática com a matéria discutida nos autos obsta o conhecimento do recurso especial, a teor da Súmula 284/STF" (REsp 846.049/SP, Rel. Min. ELIANA CALMON, Segunda Turma, DJ de 08.09.2008).
+A propósito:
+"ADMINISTRATIVO. DESAPROPRIAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 535. INOCORRÊNCIA. COMANDO INCAPAZ DE INFIRMAR A CONCLUSÃO DO ACÓRDÃO. TAXA DE 6% AO ANO. EFICÁCIA DA MP 1.577/97. PRINCÍPIO DO TEMPUS REGIT ACTUM. PRECEDENTES.
+(..)
+3. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contém comando capaz de infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, a orientação posta na Súmula 284/STF.
+(..)
+6. Recurso especial parcialmente conhecido e, nesta parte, provido."
+(REsp 884.146/MT, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 16.8.2007)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
