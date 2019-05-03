@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de MARCOS VINICIUS BARBOSA XAVIER, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do artigo 155, caput, c.c. art. 14, inciso II, art. 129 e art. 329, todos do Código Penal, às penas de 07 (sete) meses de detenção, em regime aberto, e 01 (um) dia-multa.
+Irresignada, a defesa interpôs recurso de apelação à Corte de origem, que deu parcial provimento ao apelo, para absolver o paciente da imputação pelo crime de resistência, nos termos do acórdão juntado às fls. 85-99.
+No presente mandamus, o impetrante sustenta, em síntese, a atipicidade material da conduta praticada, ante a possibilidade da incidência do princípio da insignificância.
+Requer, ao final, a concessão da ordem, para absolver o paciente da conduta descrita na denúncia (fls. 3-15).
+As informações foram prestadas às fls. 108-142.
+O Ministério Público Federal, às fls. 144-150, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. IMPOSSIBILIDADE. FURTO NA FORMA TENTADA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA, INCLUSIVE NO GOZO DE SUSPENSÃO CONDICIONAL DO PROCESSO. PRECEDENTES AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. Parecer pelo não conhecimento da impetração."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Sustenta o impetrante a atipicidade material da conduta praticada, ante a possibilidade da incidência do princípio da insignificância, em razão do alegado ínfimo valor da res furtiva.
+Não obstante as alegações da defesa, é bem de ver que o prejuízo não pode ser o que, ao final, resultou concretamente realizado, vale dizer, o princípio da insignificância tornaria determinada modalidade delituosa de adequação típica de subordinação mediata em conduta atípica por suposta ausência de ofensa ("ao final") a bem jurídico.
+Quanto à atipicidade da conduta, in casu, o princípio da insignificância foi afastado, ao fundamento de que o paciente "subtraiu bem de quantia relevantemente considerável, por se tratar de valor equivalente àquele que mantém a sobrevivência de quase dez por cento da população brasileira."
+Na hipótese, imputa-se ao paciente a tentativa de furto de 04 (quatro) unidades de queijo, avaliados em R$ 64,89 (sessenta e quatro reais e oitenta e nove centavos).
+Nesse diapasão, tenho que é incabível a subsunção do princípio da insignificância ao caso concreto, uma vez que o valor dos bens subtraídos, não pode ser considerado irrisório, já que equivale a quase dez por cento do salário mínimo vigente à época dos fatos (R$ 724,00).
+Assim, não sendo possível o reconhecimento da irrelevância da conduta, não se aplica ao caso o princípio da insignificância, conforme precedentes desta eg. Corte Superior que ora transcrevo:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR DO BEM SUBTRAÍDO SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE NA ÉPOCA DO FATO. PRÁTICA ANTERIOR DE DELITOS DE MESMA NATUREZA. INAPLICABILIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES.
+ATIPICIDADE. NÃO OCORRÊNCIA. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A aplicação do princípio da insignificância deveria ficar restrita ao exame do fato típico a fim de se constatar a existência de tipicidade material na conduta levada a efeito. Todavia, na linha da jurisprudência do eg. Supremo Tribunal Federal (HC n. 101.998/MG, Rel. Min. Dias Toffoli, DJe de 31/3/2011 e HC n. 103.359/RS/MG, Relª. Minª. Cármen Lúcia, DJe de 22/3/2011) e desta Corte (HC n. 143.304/DF, Relª. Minª. Laurita Vaz, DJe de 4/5/2011 e HC n. 182.754/MG, Rel. Min. Jorge Mussi, DJe de 27/5/2011), tal circunstância, por si só, não se revela suficiente para o reconhecimento do crime de bagatela. Nessa linha, com relação a qual guardo reservas, deve-se observar, também, as peculiaridades do caso concreto e as características do autor.
+III - É inviável a aplicação do princípio da insignificância, pois o valor da res furtiva subtraído da vítima - R$ 80,00 (oitenta -, ultrapassa o percentual de 10% (dez por cento) do salário mínimo vigente na época do crime (R$ 622,00, conforme Decreto n. 7.655/2011), não podendo ser considerado desprezível a autorizar a incidência do princípio da insignificância.
+IV - A jurisprudência pacífica desta Corte é no sentido de que sendo o paciente reincidente ou possuidor de maus antecedentes indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância. Habeas corpus não conhecido." (HC 481.692/SP, Quinta Turma, minha relatoria, DJe 12/04/2019).
+"PROCESSUAL PENAL. PENAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. FURTO. VALOR DA COISA. REPROVABILIDADE SUFICIENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE PATENTE. WRIT NÃO CONHECIDO.
+ ..
+3. Não é insignificante a conduta de furtar uma torradeira de um estabelecimento comercial, ainda mais levando-se em conta o valor da coisa, avaliada em R$ 85,00 (oitenta e cinco reais), montante que representava, à época dos fatos, 12,53% do salário mínimo então vigente.
+4. Em tais circunstâncias, não há como reconhecer o caráter bagatelar do comportamento imputado, havendo afetação do bem jurídico.
+5. Writ não conhecido." (HC n. 344.405/SC, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 9/3/2016).
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
