@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Joana Cavalcante Mendes de Souza. Aparelhado o recurso na afronta ao art. 5º, caput, XXII, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo a não ocorrência de afronta ao art. 5º, caput, XXII, da Constituição da República. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. TAXA REFERENCIAL – TR. ÍNDICE DE CORREÇÃO MONETÁRIA DOS DEPÓSITOS EFETUADOS NA CONTA VINCULADA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – FGTS. AUSÊNCIA DE REPERCUSSÃO GERAL. MATÉRIA INFRACONSTITUCIONAL (ARE N. 848.240, TEMA 787). VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 1149779 AgR, Relator(a): Min. Cármen Lúcia, Segunda Turma, julgado em 01.3.2019, PROCESSO ELETRÔNICO DJe-063 DIVULG 28.3.2019 PUBLIC 29.3.2019)
+    “E M E N T A: RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO – CONTROVÉRSIA SUSCITADA NO ARE 848.240-RG/RN – MATÉRIA A CUJO RESPEITO NÃO SE RECONHECEU A EXISTÊNCIA DE REPERCUSSÃO GERAL – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – A EVENTUAL CONCESSÃO DA GRATUIDADE NÃO EXONERA O BENEFICIÁRIO DOS ENCARGOS FINANCEIROS DECORRENTES DE SUA SUCUMBÊNCIA (CPC, ART. 98, § 2º) – INCIDÊNCIA, NO ENTANTO, QUANTO À EXIGIBILIDADE DE TAIS VERBAS, DA CONDIÇÃO SUSPENSIVA A QUE SE REFERE O § 3º DO ART. 98 DO CPC – ABUSO DO DIREITO DE RECORRER – IMPOSIÇÃO DE MULTA (1% SOBRE O VALOR CORRIGIDO DA CAUSA), SE UNÂNIME A VOTAÇÃO (CPC, ART. 1.021, § 4º) – AGRAVO INTERNO IMPROVIDO.” (ARE 1152383 AgR, Relator(a): Min. Celso de Mello, Segunda Turma, julgado em 07.12.2018, PROCESSO ELETRÔNICO DJe-272 DIVULG 18.12.2018 PUBLIC 19.12.2018)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de maio de 2019.
+Ministra Rosa Weber
+Relatora
