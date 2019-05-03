@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta o Ministério Público violação do art. 90 da Lei 8.666/93, do art. 386, V, do CPP, e art. 29 do CP.
+Sustenta que é possível imputar aos acusados a prática delitiva, na medida em que a autoria sobressai manifesta, quando analisada a partir da teoria do domínio do fato, sob o enfoque do domínio da organização e da contribui relevante dentro de um plano global (fl.976).
+Requer, assim, o provimento do recurso especial, a fim de que sejam condenados os recorridos pela prática do crime previsto no art. 90 da Lei 8.666/93.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+DECIDO.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que os então recorridos foram absolvidos pelo Tribunal a quo da imputação do art. 90 da Lei 8.666/93, em razão da anemia probatória a respeito de quem efetivamente participou da conduta (fl.942).
+Opostos embargos declaratórios, estes não foram acolhidos pelo Tribunal de origem.
+Assim constou do acórdão recorrido (fl.940-942):
+Todavia, em que pese haver comprovada lesão ao ser conduzido certame com participação de duas empresas participantes do mesmo grupo familiar, há carência de provas a respeito da autoria, que se mostra incerta. Isso porque, apesar de se provar que todos os filhos de [NOME] - e ele, inclusive - tivessem procurações com poder de gerência, não se pode aferir quem praticou o ato em nome das empresas. Não se trata propriamente de falta de comprovação do dolo, senão de quem efetivamente participou da ação.
+ ..
+Assim, deve ser mantida a conclusão advinda da sentença atacada, que assim consignou:
+Isso porque não se sabe qual foi a real participação dos envolvidos no procedimento de licitação nº 34/2005 do Município de Jaboticaba-RS. Pode ser que todos tenham, em comunhão de esforços e conjugação de vontades, praticado o crime de fraudar licitação, como narrou a denúncia. Mas pode ser também que apenas alguns deles tenham realizado essa conduta, ou mesmo que nenhum tenha a praticado, conclusão que a prova produzida em Juízo não permitiu extrair.
+Se tivesse ficado comprovado quais dos réus, de fato, habilitaram as empresas no procedimento de licitação nº 34/2005 do Município de Jaboticaba-RS, seria possível afirmar a ocorrência do delito. No entanto, uma vez que isso não veio aos autos, não é possível responsabilizar criminalmente os sentenciados, sob pena de se criar uma responsabilidade penal objetiva.
+Em outras palavras, simplesmente por serem proprietários, de fato, de empresas, as quais constam em nome de terceiras pessoas, não é crime, conduta praticada pelos réus [NOME], [NOME], [NOME], [NOME] e [NOME] e que ficou comprovada, embora seja ilícito civil.  ..  Em relação à pessoa de [NOME], deve ser destacado que menos prova ainda foi produzida pelo órgão acusador, razão por que quanto a ele também se impõe a prolação de decisão absolutória.
+Diante disso, em vista da anemia probatória a respeito de quem efetivamente participou da conduta, deve ser mantida a absolvição, com base no art. 386, V, do CPP.
+Nas razões do especial, aduz o Ministério Público que o Tribunal de origem vinculou-se à teoria do domínio final do fato, compreendendo como autor apenas aquele que tem domínio sobre a ação fraudulenta em si (fl.975). Alega que o julgado merece reforma, pois é possível imputar aos acusados a prática delitiva, mediante a aplicação da teoria do domínio do fato, que distingue satisfatoriamente os conceitos de autor e executor (fl.975). Sustenta, ainda, que se torna prescindível a verificação exigida pelo órgão colegiado, a respeito da restrição da imputação à pessoa que praticou o ato em nome da empresa (fl.976).
+Sem razão, contudo.
+É firme o entendimento no âmbito das Turmas Criminais desta Corte Superior de Justiça de que o simples fato de ser sócio, gerente ou administrador não autoriza a instauração de processo criminal por crimes praticados no âmbito da sociedade, se não for comprovado, ainda que com elementos a serem aprofundados no decorrer da ação penal, a relação de causa e efeito entre as imputações e a sua função na empresa, sob pena de se reconhecer a responsabilidade penal objetiva (HC 171.976/PA, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 02/12/2010, DJe 13/12/2010; RHC 24.239/ES, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 10/06/2010, DJe 01/07/2010).
+Ademais, conforme assentado pelo voto do relator em decisão de embargos de declaração, a "Teoria do domínio do fato" não torna prescindível a prova da autoria, ou seja, desse "domínio" (fls. 958/959), sendo necessária a demonstração do modo como o réu concorreu para um dos atos do plano global.
+Desse modo, tendo o Tribunal de origem, após detida análise do conjunto fático-probatório, concluído pela anemia probatória a respeito de quem efetivamente participou da conduta (fl.942), a alteração do julgado necessitaria do revolvimento de provas dos autos, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula 7 do Superior Tribunal de Justiça. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 386, II, V E VII, DO CPP. ABSOLVIÇÃO. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o ,enunciado 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 560.254/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/09/2014, DJe 24/09/2014).
+Ante o exposto, nego provimento ao agravo.
+Intimem-se.
+Publique-se.
