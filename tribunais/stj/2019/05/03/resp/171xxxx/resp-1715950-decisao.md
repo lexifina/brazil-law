@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda do Estado de São Paulo, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 338):
+APELAÇÃO CÍVEL Embargos à execução julgados procedentes Reconhecido excesso de execução - Pagamento de valores devidos a título de complementação de aposentadoria Fazenda do Estado requer pronunciamento sobre alegação de nulidade da execução pela falta de informes oficiais do órgão pagador para a conferência dos cálculos Desnecessidade A Fazenda é detentora do prontuário completo de seus ex servidores - Sentença mantida Recurso desprovido.
+Defende a recorrente, em síntese, a nulidade da execução que deu origem aos presentes embargos à execução, uma vez que não foram apresentadas informações oficiais que digam o quanto foi pago no período exequendo, as quais são essenciais para a conferência dos cálculos pela executada.
+Afirma que o ônus da apresentação dos documentos é da parte exequente, além de não ser razoável imputar à Procuradoria Geral do Estado a obtenção das informações necessárias dos órgãos pagadores.
+Dessa forma, ao ter o acórdão recorrido dispensado os referidos documentos, teria ocorrido ofensa aos arts. 475-B e 614, II, do Código de Processo Civil de 1973.
+Contrarrazões às e-STJ, fls. 83-86.
+É o relatório.
+O recurso não merece conhecimento.
+De início, verifica-se que o Tribunal de origem não emitiu qualquer juízo de valor acerca dos dispositivos processuais tidos por violados, ainda que de forma implícita, ficando ausente o necessário prequestionamento, o que atrai a incidência das Súmulas 282/STF e 211/STJ.
+Ainda que assim não fosse, não há, nos dispositivos que embasaram o recurso, qualquer comando normativo no sentido de imputar ao exequente o ônus da apresentação de fichas financeiras para instruir a execução. Com isso, ante a ausência de correlação entre os dispositivos legais tidos por violados e a tese defendida pela recorrente, incide no caso o óbice previsto na Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A única exigência contida nos arts. 475-B e 614, II, do CPC/1973 é a apresentação de demonstrativo discriminado e atualizado dos cálculos, o qual não é objeto de discussão no recurso.
+Ressalte-se, ainda, que no caso em comento, ficou reconhecido no acórdão questionado que "a Fazenda do Estado é detentora de prontuário completos de seus ex-servidores" (e-STJ, fl. 72). Portanto, para rever tal entendimento, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+No aspecto:
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE CÁLCULOS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. FASE DE LIQUIDAÇÃO DE SENTENÇA. DADOS NECESSÁRIOS AOS CÁLCULOS. ÔNUS DAS PARTES. COMANDO NORMATIVO EM DISPOSITIVO LEGAL INAPTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Na hipótese dos autos, o acórdão recorrido asseverou: "Inicialmente, a preliminar arguida deve ser rejeitada. Os cálculos apresentados pelos exequentes às fls. 21/23 da execução discriminam o número e o valor das parcelas vencidas a serem pagas por meio de precatório ou ofício requisitório de pequeno valor e é referido expressamente que a planilha foi elaborada de acordo com os informes constantes da mídia acostada aos autos principais (fls. 09)" (fl.127, e-STJ).
+2. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, a fim de se chegar à conclusão de que o pedido do credor está desacompanhado dos cálculos, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. O dispositivo de lei federal apontado como violado (art. 475-B, caput, do CPC/1973) não possui comando normativo capaz de sustentar a tese elencada no apelo recursal: ônus do exequente pela juntada de determinado documento necessário à elaboração dos cálculos de liquidação. Logo, a argumentação presente no apelo excepcional é deficiente. Aplica-se o óbice da Súmula 284/STF.
+4. Recurso Especial não conhecido.
+(REsp 1.668.096/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2017, DJe 16/10/2017)
+PROCESSO CIVIL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CÁLCULOS APRESENTADOS DO VALOR COBRADO SEM INFORMAÇÃO DE DADOS OFICIAIS. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No acórdão recorrido ficou consignado: "De fato, não há que se falar em nulidade da execução, vez que inexiste obrigação de fazer consistente na apresentação de planilhas. No caso, o valor da condenação depende de meros cálculos aritméticos, que foram apresentados pelo credor quando do pedido de cumprimento da sentença, nos moldes do artigo 475-B do Código de Processo Penal.
+Cabia à devedora a impugnação de tais cálculos por meio de embargos à execução. Como é cediço, é a embargante a fonte pagadora dos proventos cujos atrasados ora se pleiteia, de modo que o exequente não possui a obrigação de apresentar os aludidos informes, ônus que cabia à Fazenda Pública".
+2. As conclusões da Corte a quo acerca da apresentação dos informes oficiais decorreram da análise do conjunto fático-probatório carreado aos autos. Assim, o eventual conhecimento do presente Especial, quanto aos pontos elencados no apelo, demandaria o reexame fático-probatório da questão versada nos autos, o que encontra óbice na Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1.694.438/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/10/2017, DJe 11/10/2017)
+Ante o exposto, com fulcro no art. 932,III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
