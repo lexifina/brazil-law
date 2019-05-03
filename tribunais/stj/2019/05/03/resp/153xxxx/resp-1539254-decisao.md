@@ -1,0 +1,49 @@
+EMENTA
+RECURSO ESPECIAL. QUEBRA DE SIGILO BANCÁRIO. EXPEDIÇÃO DE OFÍCIOS. BENS PENHORÁVEIS. ESGOTAMENTO DAS DILIGÊNCIAS DO PARTICULAR. NECESSIDADE. SÚMULA 83/STJ.
+1. É necessário o esgotamento das diligências do particular na busca do devedor ou de bens penhoráveis para se deferir o pedido de emissão de ofícios às autoridades a respeito de informações sigilosas.
+2. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. DECISÃO DO RELATOR QUE NEGOU PROVIMENTO AO RECURSO NA FORMA DO ART. 557, DO CPC, MANTENDO A DECISÃO AGRAVADA QUE INDEFERIU A EXPEDIÇÃO DE OFÍCIOS PARA OBTENÇÃO DE DADOS A RESPEITO DA LOCALIZAÇÃO DE BENS DO DEVEDOR. ENTENDIMENTO PACÍFICO NO E. STJ DE QUE SOMENTE SE ADMITE A EXPEDIÇÃO DE OFÍCIO ÀS INSTITUIÇÕES DETENTORAS DE INFORMAÇÕES SIGILOSAS PARA A OBTENÇÃO DE DADOS A RESPEITO DA LOCALIZAÇÃO DE BENS DO DEVEDOR QUANDO ESGOTADAS AS VIAS ORDINÁRIAS PARA ENCONTRÁ-LOS. DECISÃO MANTIDA. AGRAVO INTERNO IMPROVIDO.
+(fl. 44)
+A recorrente, nas razões do recurso especial, sustenta que, havendo grandes indícios de ocultação de patrimônio, de desvio de numerário das contas correntes, de abuso de personalidade em prejuízo aos credores, não se vislumbra razão para serem adotadas outras diligência no sentido de localizar os bens da recorrida sujeitos à penhora.
+Nesse contexto, argumenta que "ao criar obstáculo à utilização do mecanismo judicial de quebra do sigilo bancário da GAMA FILHO, o qual possibilitará a penhora de dinheiro aplicado em conta corrente ou movimentado em fraude contra credor, tem-se violadas as regras dos artigos 655, I e 655-A, caput, ambos do Código de Processo Civil, as quais privilegiam tal patrimônio e autorizam sejam disponibilizadas tais informações" (fls. 53-54).
+Em suma, aduz que "o Tribunal de Origem aplicou a orientação deste Eg. Superior Tribunal de Justiça em hipótese cuja singularidade repele sua incidência, impondo o esgotamento de medidas desnecessárias como condição à quebra do sigilo bancário de pessoa investigada pela prática de ilícito" (fl. 55).
+Certidão de transcurso in albis do prazo para o oferecimento de contrarrazões (fl. 64).
+O recurso recebeu crivo negativo de admissibilidade na origem (fl. 66-68).
+Em decisão de fl. 94, deu provimento ao agravo para determinar sua conversão em recurso especial.
+É o relatório.
+DECIDO.
+2. Aduz a parte recorrente que , havendo grandes indícios de ocultação de patrimônio, de desvio de numerário das contas correntes, de abuso de personalidade em prejuízo aos credores, não se vislumbra razão para serem adotadas outras diligências no sentido de localizar os bens da recorrida sujeitos à penhora.
+Nesse contexto, argumenta que "ao criar obstáculo à utilização do mecanismo judicial de quebra do sigilo bancário da GAMA FILHO, o qual possibilitará a penhora de dinheiro aplicado em conta corrente ou movimentado em fraude contra credor, tem-se violadas as regras dos artigos 655, I e 655-A, caput, ambos do Código de Processo Civil, as quais privilegiam tal patrimônio e autorizam sejam disponibilizadas tais informações" (fls. 53-54).
+Em suma, aduz que "o Tribunal de Origem aplicou a orientação deste Eg. Superior Tribunal de Justiça em hipótese cuja singularidade repele sua incidência, impondo o esgotamento de medidas desnecessárias como condição à quebra do sigilo bancário de pessoa investigada pela prática de ilícito" (fl. 55).
+A Corte de origem, não obstante, consignou que, uma vez não esgotadas todas as diligências a cargo do credor para a localização dos bens penhoráveis e tendo em vista o infrutífero deferimento da penhora on-line, não seria possível a expedição de ofício às instituições financeiras onde a sociedade empresária devedora possui conta-corrente para que apresentassem a movimentação dos últimos 90 (noventa) dias, verbis:
+Assim decidem visto que o ato do Relator, objeto do Agravo em tela, não padece de qualquer irregularidade, sendo de rigor que esta E. Câmara, na forma regimental, tome-o como motivação suficiente do presente julgado, confirmando os respectivos termos:
+"(..) Infere-se, claramente, da decisão agravada, que não foram esgotadas todas as diligências a cargo do credor, ora agravante, para a localização de bens penhoráveis, de modo que a decisão vergastada encontra-se em sintonia com a Súmula nº 47 desta Corte, que assim enuncia: (..)
+(..) Após o deferimento da penhora on line que foi infrutífera (fls.217 do anexo) o juízo determinou a indicação de novos bens à penhora. Porém, a ora agravante não diligenciou conforme determinado, e pleiteou a expedição de ofícios às entidades financeiras (fls. 221/222 do anexo), cuja decisão de indeferimento deu origem ao presente recurso.
+Portanto, não há provas nos autos de que o agravante tenha esgotado os meios possíveis para a localização de bens dos devedores através de pesquisa nos distribuidores, nos cartórios de registros de imóveis, ou através de outros meios possíveis."
+(fls. 45-46)  g.n.
+Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimento de que é necessário o esgotamento das diligências do particular na busca do devedor ou de bens penhoráveis para se deferir o pedido de emissão de ofícios às autoridades a respeito de informações sigilosas.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RESTRIÇÃO AO ACÓRDÃO RECORRIDO. OMISSÃO. INEXISTÊNCIA. OFÍCIOS A AUTORIDADES. ESGOTAMENTO DE DILIGÊNCIA NA BUSCA DE BENS. NECESSIDADE.
+1. Hipótese em que o magistrado de piso indeferiu o pedido de emissão dos ofícios, por entender que a recorrente poderia solicitar informações por meios próprios. Isso não é correto no que se refere às instituições financeiras e ao Fisco, que somente prestarão tais informações por ordem judicial, por conta de sigilo e de expressa determinação legal - art. 3º da LC 105/2001 e art. 198, § 1º, I, do CTN.
+2. Ocorre que o TRF, ao analisar o Agravo de Instrumento, julgou questão diversa, aplicando precedentes do STJ que exigem o esgotamento das diligências do particular na busca do devedor ou de bens penhoráveis, para somente então deferir o pedido de emissão de ofícios às autoridades a respeito de informações sigilosas.
+3. Os aclaratórios opostos na origem apenas pedem manifestação acerca do fato de que a credora "já havia diligenciado repetidamente no sentido de buscar bens da parte devedora", em relação a qual não há omissão, nem, portanto, ofensa ao art. 535 do CPC.
+4. No mérito, o fundamento do acórdão recorrido harmoniza-se com a jurisprudência do STJ atinente ao que efetivamente foi julgado.
+Ademais, inviável discutir, em Recurso Especial, se houve efetivamente esgotamento das diligências para localização de bens, como afirma a recorrente, o que encontra óbice na Súmula 7/STJ.
+5. Recurso Especial não provido.
+(REsp 1264307/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/09/2012, DJe 11/09/2012)" g.n.
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO FISCAL. BLOQUEIO DE ATIVOS FINANCEIROS. COMPROVAÇÃO DE ESGOTAMENTO DOS MEIOS PARA A LOCALIZAÇÃO DE BENS PENHORÁVEIS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO PROFERIDA ANTES DA LEI 11.382/2006.
+1. Esta Corte tem assente o entendimento de admitir o bloqueio de ativos financeiros em conta corrente do devedor, com a conseqüente quebra do sigilo bancário, desde que esgotados todos os meios para localizar bens passíveis de penhora.
+2. Conforme expresso no voto condutor do aresto combatido, o exeqüente não esgotou todas as diligências na busca de bens passíveis de penhora. Nesta seara especial, a verificação do exaurimento das possibilidades extrajudiciais de localização de bens penhoráveis do agravado é obstada pelo teor da Súmula 7/STJ.
+3. Ressalte-se que a decisão que indeferiu a medida executiva pleiteada foi proferida em momento anterior à vigência da Lei 11.382/2006, que, alterando dispositivos do CPC, colocou na mesma ordem de preferência de penhora "dinheiro, em espécie ou em depósito ou aplicação em instituição financeira" (art. 655, I) e permitiu a realização da constrição, preferencialmente, por meio eletrônico (art. 655-A). Assim, o recurso deve ser analisado com base no sistema vigente à época, o que torna inviável a aplicação da legislação superveniente.
+4. Agravo regimental não-provido.
+(AgRg no REsp 806.064/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/09/2008, DJe 06/10/2008)  g.n.
+AGRAVO REGIMENTAL - EXECUÇÃO - PEDIDO DE QUEBRA DE SIGILO BANCÁRIO E FISCAL SEM PRÉVIO ESGOTAMENTO DOS MEIOS DE LOCALIZAÇÃO DE BENS PENHORÁVEIS DO DEVEDOR - IMPOSSIBILIDADE - EXAURIMENTO DAS TENTATIVAS - ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO - REEXAME DE PROVAS - IMPOSSIBILIDADE - APLICAÇÃO DA SÚMULA Nº 7/STJ - AGRAVO IMPROVIDO.
+1. O deferimento da quebra do sigilo fiscal e bancário do executado só é possível em casos excepcionais, após comprovado que a exeqüente exauriu as possibilidades de localização de bens penhoráveis.
+2. É inviável, na via do recurso especial, infirmar a conclusão do Tribunal de origem amparada no conjunto fático-probatório dos autos, consoante o preceito da súmula n. 07/STJ.
+3. Agravo regimental improvido.
+(AgRg no Ag 982.780/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 15/05/2008, DJe 06/06/2008)  g.n.
+Infere-se, portanto, que o acórdão recorrido está em consonância com o entendimento jurisprudencial da lavra desta Corte Superior. Logo, a manutenção do referido acórdão, no ponto, é medida que se impõe, mormente ante a incidência do verbete sumular de nº 83/STJ.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
