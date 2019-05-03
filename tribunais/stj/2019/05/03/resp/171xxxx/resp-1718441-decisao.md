@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão da 33ª Câmara de Direito Privado do TJSP.
+Na origem, o ora recorrente ajuizou ação visando declarar a nulidade do reajuste do seguro de vida firmado com a empresa recorrida.
+Em primeira instância, os pedidos foram julgados procedentes (e-STJ fls. 435/438).
+A seguradora interpôs apelação, tendo o Tribunal de origem dado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 507):
+Ação declaratória cumulada com obrigação de fazer e indenização por danos morais - contrato de seguro de vida individual - cerceamento de defesa rejeitado - análise do contrato estabelecido entre as partes - provas apresentadas suficientes para a solução da lide - oferta de nova proposta de seguro com reajuste do prêmio de acordo com a faixa etária - possibilidade - previsão de reajuste por faixa etária estabelecida no contrato - reforma para improcedência da ação - cassada a liminar concedida - sucumbência a cargo do autor - honorários advocatícios fixados em R$ 1.500,00, observada a gratuidade - apelação provida.
+Sobreveio o recurso (e-STJ fls. 516/529), fundado no art. 105, III, "c", da CF, no qual o segurado sustenta divergência jurisprudencial em torno do art. 15, parágrafo único, da Lei n. 9.656/1998, argumentando, em síntese, que seria vedada, por aplicação analógica da Lei dos Planos de Saúde, a majoração das mensalidades de seguro de vida do consumidor maior de 60 (sessenta) anos.
+É o relatório.
+Decido.
+A Corte local concluiu que não houve ilegalidade do aumento, sendo inaplicável o artigo da Lei dos Planos de Saúde, pois estava previsto no contrato o reajuste desde a contratação da apólice, tendo o segurado conhecimento de sua estipulação.
+Entendeu ainda que não houve sequer alteração unilateral do pacto, pois o consumidor concordou com o índice de majoração anual, previsto desde a vigência inicial da apólice. Afirmou ainda que inexistiram provas da abusividade em concreto do reajuste (e-STJ fl. 512).
+O Tribunal de origem se baseou nos fatos e provas dos autos a fim de reconhecer a licitude da majoração das mensalidades. Para rever esse entendimento, seria necessário reexaminar o conjunto fático-probatório do feito, bem como reinterpretar os termos contratuais, o que é incabível no recurso especial, ante as Súmulas n. 5 e 7 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. SEGURO DE VIDA. REAJUSTE EM RAZÃO DA FAIXA ETÁRIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO PREJUDICADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. 2. A revisão das conclusões estaduais demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.291.997/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/2/2019, DJe 13/3/2019.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. SEGURO DE VIDA. RESCISÃO UNILATERAL. POSSIBILIDADE. ABUSIVIDADE. AUSENTE. AFERIÇÃO DE ABUSIVIDADE DE NOVAS CLÁUSULAS.
+IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DECISÃO MONOCRÁTICA INALTERADA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência da Segunda Seção, firmada quando do julgamento do Recurso Especial 880.605/RN (Rel. p/ Acórdão Ministro Massami Uyeda, julgado em 13.06.2012, DJe 17.09.2012), não se revela abusiva a cláusula que prevê a não renovação de contrato de seguro de vida quando firmado na modalidade em grupo.
+2. Aferir se há abusividade nas novas cláusulas do Seguro Ouro Vida Grupo Especial, em especial, no que tange ao reajuste por faixa etária, e à exclusão da cobertura de invalidez permanente total por doença, para determinar se houve violação aos arts. 757 do CC/2002; 1.442 do CC/1916 e 51, incs. IV, X e XV, § 1º, do CDC, esbarra nos óbices das Súmulas 5 e 7 do STJ.
+3. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no REsp 1.350.637/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.)
+Diante do exposto, NÃO CONHEÇO do recurso.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
