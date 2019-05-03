@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Cascavel contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. RECURSO. OCORRÊNCIA DE INOVAÇÃO RECURSAL PARCIAL. NÃO CONHECIMENTO DESSA PARTE. SENTENÇA QUE AFASTA O REDIRECIONAMENTO DA EXECUÇÃO AO SÓCIO NÃO-GERENTE. ACERTO. DECISÃO MANTIDA. DISTRIBUIÇÃO DA SUCUMBÊNCIA REALIZADA NA SENTENÇA DE FORMA CORRETA.
+Recurso conhecido em parte e, nessa parte, desprovido. Sentença mantida em sede de Reexame Necessário.
+Na origem, foram opostos embargos à execução pela pessoa jurídica contribuinte e pelo sócio pessoa física, tendo sido indicado valor da causa de R$ 13.056,36 (treze mil, cinquenta e seis reais e trinta e seis centavos) em março de 2011 (fl. 10), que foram julgados procedentes para excluir referido sócio do polo passivo, em razão de jamais ter exercido a função de administrador, condenando, assim, o Município de Cascavel e os embargantes ao pagamento de, respectivamente, 15% e 85% em custas processuais, bem como R$ 800,00 (oitocentos reais) e R$ 2.000,00 (dois mil reais), a título de honorários sucumbenciais, sentença esta que foi mantida, nos termos da ementa acima transcrita, pelo Tribunal de origem, em relação à distribuição dos ônus sucumbenciais, considerando referida exclusão do sócio do polo passivo.
+No recurso especial, o recorrente aponta violação do art. 20, § 4º, do CPC/1973, aduzindo, em resumo, que o Tribunal de origem deveria ter reduzido a condenação da municipalidade nos honorários sucumbenciais de R$ 800,00 (oitocentos reais) para R$ 300,00 (trezentos reais) ou valor inferior, considerando que houve o decaimento de parte mínima, bem como a simplicidade da ação e que também foi ajuizada na comarca em que os procuradores do autor atuam.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base no Enunciado Sumular n. 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Verifica-se que a irresignação do recorrente - acerca na necessidade da redução do valor dos honorários diante da configuração de sucumbência mínima, bem como da simplicidade da ação, que teria sido ajuizada na comarca em que os procuradores do autor atuam - implicaria o revolvimento de matéria fática e vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que não houve decaimento mínimo do pedido, considerando a exclusão do sócio do polo passivo da execução.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. REDIRECIONAMENTO. ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+(..)
+5. O Tribunal de origem, mediante soberana análise do suporte fático-probatório dos autos, assentou que não ficaram demonstradas as hipóteses autorizadoras do redirecionamento da Ação de Execução Fiscal. Logo, a modificação do acórdão recorrido requer, efetivamente, na via especial, novo exame das provas contidas nos autos, o que é vedado, consoante enunciado sumular 7/STJ.
+6. O STJ pacificou a orientação de que o quantum dos honorários advocatícios, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+7. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp n. 1.655.038/MS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/4/2017, DJe 27/4/2017.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONFIGURADA. HONORÁRIOS. CONDENAÇÃO DA FAZENDA PÚBLICA. REDUÇÃO. PARÂMETROS. EXORBITÂNCIA. NÃO OCORRÊNCIA. SÚMULA 7/STJ.
+1. O acórdão embargado deixou de enfrentar o capítulo recursal relativo aos honorários fixados contra a Fazenda Pública, merecendo ser integrado.
+2. A Corte origem fixou a verba no equivalente a 10% do valor da causa, resultando em honorários de R$ 30.000,00 (trinta mil reais).
+3. A revisão dos valores de honorários só é viável em recurso especial diante de evidente exorbitância ou insignificância. No presente caso, a revisão demandaria exame direto de provas e fatos, o que não é possível em recurso especial.
+4. Embargos de declaração acolhidos, com efeitos modificativos, para conhecer em parte o recurso especial e, nessa extensão, negar-lhe provimento.
+(EDcl no REsp n. 1.626.963/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 4/9/2018, DJe 11/9/2018.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, I II, DO CPC/1973. INOCORRÊNCIA. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. RECURSO ESPECIAL. ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 20, §3º e §4º, DO CPC/1973. HONORÁRIOS ADVOCATÍCIOS. VENCIDA A FAZENDA PÚBLICA. ARBITRAMENTO. VALOR FIXO. POSSIBILIDADE. INEXISTÊNCIA DE QUANTIA IRRISÓRIA OU EXORBITANTE. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+6. O Tribunal de origem condenou a Eletrobras e a Fazenda Nacional ao pagamento da verba honorária e sobre este aspecto não houve impugnação por parte das recorridas.
+7. O acórdão recorrido está em consonância com a compreensão firmada do Recurso Especial Repetitivo 1.155.125/MG, ao estabelecer que quando "vencida a Fazenda Pública, a fixação dos honorários advocatícios é estabelecida de acordo com o § 4º, do artigo 20, do CPC, de forma eqüitativa pelo juiz, sem a imposição de observância dos limites previstos no § 3º do mesmo dispositivo legal".
+8. A pretensão da recorrente de majorar os honorários advocatícios de sucumbência fixados pela Corte de origem, com base nos critérios estabelecidos pelo art. 20, § 4º do CPC/1973 encontra óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+9. A jurisprudência do STJ é firme no sentido que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+10. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.742.283/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/6/2018, DJe 22/11/2018.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
