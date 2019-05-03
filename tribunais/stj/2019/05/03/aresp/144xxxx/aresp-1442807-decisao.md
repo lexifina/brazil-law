@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por Aymoré Crédito, Financiamento, e Investimento S.A, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO DE APELAÇÃO EM EXECUÇÃO FISCAL. PROCESSO CIVIL. REVELIA. DESNECESSIDADE DE INTIMAÇÃO DOS ATOS PROCESSUAIS. Particular que, após citada, quedou-se inerte. Caracterização da revelia. Posterior pedido de desistência da ação formulado pela Fazenda Pública. Homologação pelo MM. Juiz a quo. Inexistência de nulidade por ausência de intimação da particular. Inteligência do artigo 346 do Novo Código de Processo Civil. Parte que sequer havia constituído advogado nos autos. Ocorrência de venire contra factum proprium. Sentença de extinção mantida. Recurso desprovido.
+Na origem, cuida-se de apelação interposta pela parte executada, ora recorrente, contra a sentença que homologou o pedido de desistência formulado pela parte exequente, ora recorrida, julgando extinta a execução fiscal ajuizada, sem a apreciação do mérito, nos termos do art. 485, VIII, do CPC/2015.
+Os valores inscritos nas Certidões da Dívida Ativa (CDAs) executadas perfaziam o montante total de R$ 5.514,22 (cinco mil, quatrocentos e quatorze reais e vinte e dois centavos), atualizado até o mês de setembro de 2015.
+Naquele acórdão, o Tribunal de origem negou provimento à apelação interposta, mantendo incólume a sentença proferida.
+No recurso especial, inicialmente, a parte recorrente aponta a negativa de vigência aos arts. 9º e 10, ambos do CPC/2015, bem como ao art. 788, parágrafo único, do CC/2002.
+Aduz, em síntese, que o pedido de desistência formulado pela parte exequente, ora recorrida, foi homologado, com a consequente extinção da execução fiscal ajuizada, sem as prévias oitiva e anuência da parte adversa devidas, a qual foi devidamente citada nos autos. Desse modo, a sentença mantida compreendeu inadmissível decisão amparada em fundamento acerca do qual uma das partes não teve a oportunidade de emitir manifestação.
+Indica, ainda, a negativa de vigência aos arts. 38, 128, e 204, todos do CTN.
+Aduz, em síntese, que a parte exequente, ora recorrida, formulou o pedido de desistência da ação de execução fiscal ajuizada, sem fazer qualquer menção à extinção do crédito tributário executado.
+Alega, em suma, que sob o pretexto de desonerar o Poder Judiciário, a parte exequente, ora recorrida, pretende utilizar o protesto extrajudicial para compelir o devedor a adimplir os débitos inscritos na Dívida Ativa, subtraindo-lhe as prerrogativas defensivas inerentes ao devido processo legal e evitando a eventual condenação ao suporte do ônus sucumbencial.
+Sustenta, em resumo, que as Certidões da Dívida Ativa (CDAs) compreendem títulos executivos extrajudiciais dotados das presunções relativas de legalidade e legitimidade, os quais têm por finalidade precípua o lastreio das execuções fiscais, cuja propositura independe do prévio protesto.
+Não foram apresentadas contrarrazões pela parte recorrida (fl. 164).
+O recurso especial não foi admitido no Tribunal de origem, com base: na carência de argumentação suficiente para infirmar a fundamentação decisória; na inadmissibilidade da apreciação de matéria constitucional na via recursal eleita, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal; e na impossibilidade de reexame de fatos e provas em sede de recurso especial (Súmula n. 7/STJ).
+No presente agravo, a parte recorrente argumenta com o intuito de rebater os fundamentos apresentados pelo Julgador originário.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão de inadmissão, passo ao exame do recurso especial interposto.
+No tocante à suposta negativa de vigência ao art. 9º do CPC/2015, registro que o recurso especial não comporta conhecimento.
+Isso porque, a partir da análise do acórdão recorrido, verifica-se que o Tribunal de origem, entre outros argumentos, amparou a sua decisão no fato de que a ausência de oportuna manifestação da parte executada, ora recorrente, não obstante a sua citação válida nos autos, ensejou a imposição dos efeitos da revelia à mesma, entre os quais se destaca a prescindibilidade da comunicação dos atos processuais, sem que isso implique qualquer nulidade, sendo vedada à referida parte, que permaneceu inerte no momento em que lhe competia a manifestação, a adoção de conduta processual contraditória.
+Infere-se o exposto do fragmento do voto condutor transcrito a seguir:
+"Nesse sentido, não se verifica qualquer nulidade no processo, já que em razão da inércia a particular se sujeitou ao efeito da revelia previsto no artigo 346 do Novo Código de Processo Civil, qual seja, a ausência de intimação dos atos processuais. (..)
+Anote-se, ademais, que a particular sequer havia constituído advogado nos autos.
+Logo, não havendo necessidade de intimação da particular, inexiste qualquer irregularidade na homologação da desistência sem sua prévia oitiva, ou, ainda, na ausência de intimação da r. sentença recorrida.
+De fato, trata-se de hipótese de venire contra factum proprium, não podendo a apelante adotar comportamento contraditório, em detrimento da atuação jurisdicional."
+Ademais, a análise das razões recursais revela que o fundamento decisório acima pronunciado, relativo aos efeitos da revelia, além de suficiente à manutenção do acórdão recorrido, não foi especificamente rebatido no recurso especial; o que atrai, por analogia, a incidência dos óbices ao conhecimento recursal constantes dos enunciados das Súmulas n. 283 e n. 284, ambas do STF (in verbis):
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284.
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No que diz respeito à suposta negativa de vigência ao art. 10 do CPC/2015, ao art. 788, parágrafo único, do CC/2002, bem como aos arts. 38, 128 e 204, todos do CTN, registro que o recurso especial também não comporta conhecimento.
+A partir da análise do acórdão recorrido, é possível verificar que o Tribunal de origem não abordou as matérias insculpidas nos dispositivos legais federais supracitados, os quais foram reputados ofendidos, em nenhum momento, sequer implicitamente; tampouco foram interpostos embargos de declaração oportunos, a fim de suprir as omissões eventualmente observadas no acórdão julgado.
+A admissibilidade do recurso especial pressupõe prequestionamento, ou seja, que as teses recursais tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em sede de embargos declaração. Sendo assim, diante da constatação de que a decisão incorreu em omissão, cumpria à parte ora recorrente interpor embargos declaratórios, com o intuito de sanar a dita irregularidade e, consequentemente, provocar o prequestionamento; o que não ocorreu no caso em tela.
+Configurada a carência do indispensável requisito do prequestionamento, impõe-se o não conhecimento do recurso especial interposto. Incidem sobre hipótese, por analogia, os óbices constantes dos enunciados das Súmulas n. 282 e n. 356, ambas do STF (in verbis):
+Súmula n. 282.
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula n. 356.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
