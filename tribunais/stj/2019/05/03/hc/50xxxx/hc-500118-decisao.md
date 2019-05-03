@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] em face do acórdão do Tribunal de Justiça da Bahia, assim ementado (fls. 62/63):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS ENSEJADORES DA PRISÃO PREVENTIVA - RÉ QUE FICOU FORAGIDA APÓS QUASE 2 (DOIS) ANOS - MEDIDA CAUTELAR PAUTADA NA GARANTIA DA APLICAÇÃO DA LEI PENAL, BEM COMO NA CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL - CONSTRANGIMENTO ILEGAL DESCARACTERIZADO - ORDEM DENEGADA.
+I - Paciente acusada da prática de homicídio qualificado, porque teria, juntamente com seu marido, ceifado a vida de [NOME], com diversos disparos de arma de fogo, abandonando o corpo em um matagal, alega a inexistência de requisitos que amparem o decreto de prisão preventiva.
+II - Em matéria de prisão preventiva vige o princípio da confiança do juiz do processo que, por se encontrar mais próximo dos acontecimentos e em maior contato com o processo, tem plenas condições de aferir a necessidade da prisão.
+III - A simples fuga do acusado do distrito da culpa já justifica a medida cautelar, demonstrando a intenção do paciente em se esquivar da justiça.
+ORDEM DENEGADA
+A paciente teve sua prisão preventiva decretada pela prática do crime de homicídio qualificado, previsto no art. 121, § 2º, IV, do Código Penal Brasileiro.
+O impetrante busca a revogação da prisão preventiva, com a alegação de ausência dos requisitos ensejadores dessa medida cautelar, assim como negativa de autoria e que a paciente ostenta condições pessoais favoráveis. Subsidiariamente, requer a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 74/76 com destaques):
+O pedido merece ser acolhido. Senão, vejamos.
+Com o advento da Lei nº. 12.403/11, embora se mantenha a distinção conceitual entre prisões, medidas cautelares e liberdade provisória, é bem de ver que todas elas exercem o mesmo papel e a mesma função processual de acautelamento dos interesses da jurisdição criminal.
+Nesse sentido, com base nas referidas alterações legais, a prisão preventiva tanto poderá ser decretada independentemente da anterior imposição de alguma medida cautelar (art. 282, § 6º, art. 311, art. 312 e art. 313, CPP), quanto em substituição àquelas (cautelares) previamente impostas e eventualmente descumpridas (art. 282, § 4º e art. 312, parágrafo único, CPP); poderá, do mesmo modo, ser decretada como conversão da prisão em flagrante, quando presentes os seus requisitos (art. 310, II, CPP), e forem insuficientes as demais cautelares.
+Assim, devemos analisar os requisitos autorizadores previstos nos artigos 311 e 312, ambos do CPP (Art. 311. Em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz, de ofício, se no curso da ação penal, ou a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial. Art. 312. A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria).
+No caso em apreço, inicialmente deve-se analisar a existência do fumus comissi delicti, ou seja, se há indícios da autoria delitiva e a prova da materialidade.
+Quanto a esta, é certa e determinada através dos depoimentos acostados ao requerimento, atestando que que o fato efetivamente existiu.
+Quanto àquela, no caso, os indícios da autoria, da mesma forma, os depoimentos convergem no sentido de indicar os representados como sendo os possíveis autores.
+D"outra banda, quanto ao periculum libertatis, há a necessidade de se assegurar a aplicação da lei penal. Vejamos.
+ ..
+Com efeito, após a empreitada criminosa atribuída aos acionados, os mesmos não mais foram localizados nem mesmo para prestarem esclarecimentos perante a autoridade policial, estando ambos em local incerto e não sabido.
+Além disso, o tão decantado binômio primariedade e bons antecedentes, não têm o condão de impedir a prisão. Com efeito, nesse diapasão colaciono o seguinte aresto do egrégio STJ:
+"A primariedade, os bons antecedentes e a residência e o domicílio no distrito da culpa são circunstâncias que não obstam a custódia preventiva, quando presentes os motivos que legitimam a constrição do acusado."(JSTJ 2/267)
+Ressalte-se, por fim, que para adoção da custódia preventiva não se pode exigir a mesma certeza necessária a um juízo condenatório. É como vem entendendo a nossa jurisprudência majoritária.
+"Não se pode exigir para a prisão preventiva a mesma certeza que se exige para a condenação. Vigora o princípio da confiança nos juízes próximos das pessoas em causa, dos fatos e das provas, assim como meios de convicção mais seguros que os juízes distantes. O in dubio pro reo vale ao ter o juiz que absolver ou condenar. Não, porém, ao decidir se decreta ou não a custódia provisória".
+Portanto, os requisitos para a prisão preventiva estão devidamente preenchidos, uma vez que resta provada a materialidade e há indícios suficientes da autoria. Da mesma forma, em razão de os suspeitos estarem em local incerto e não sabido, não tendo sido localizados após o crime, resta comprovado o pressuposto autorizador da segregação provisória, qual seja, assegurar a aplicação da lei penal.
+Como já adiantado no exame da liminar, o decreto prisional, transcrito na decisão acima, tem fundamentação que deve ser considerada idônea, com esteio na sua fuga do distrito da culpa.
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013. Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
