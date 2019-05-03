@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão da Presidência desta Corte que não conheceu do agravo em recurso especial.
+Sustenta o recorrente que a matéria em debate não demanda reexame de provas.
+Requer a reconsideração da decisão recorrida ou a submissão do feito à Sexta Turma.
+O Ministério Público Federal opina pelo improvimento do agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão ora agravada foi publicada em 7/11/2018 (fl. 202). Entretanto, o presente recurso somente foi protocolado em 27/11/2018 (fl. 208), após o quinquídio legal previsto nos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ.
+Destaca-se que a Terceira Seção desta Corte firmou entendimento no sentido de que, em feitos que tratam de matéria penal ou processual penal, nos tribunais superiores, têm aplicação a Lei nº 8.038/90 e o art. 798 do Código de Processo Penal, que estabelecem o prazo de cinco dias corridos para a interposição do agravo interno (AgRg no REsp 1551678/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 30/06/2016, DJe 01/08/2016).
+Ante o exposto, voto por não conhecer do agravo regimental.
