@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por OFIR DE CASTRO - MASSA INSOLVENTE E OUTROS contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+Processual Civil - Agravo de Instrumento - Ação de arbitramento e cobrança de honorários advocatícios Preliminar de Ilegitimidade Passiva- Matéria não argüida no Juízo de Origem- Indeferimento da Justiça Gratuita - Prazo para recolhimento de custas prévias- Inércia- Petição inicial indeferida- Sentença- Apelação- Retratação- Efeito regressivo - Exceção à regra do art. 463 do Código de Processo Civil- Decisão Agravada- Manutenção. (e-STJ, 193)
+Opostos embargos de declaração, restaram rejeitados (e-STJ, fls. 216/220).
+Nas razões do recurso especial, a ora agravante alega violação aos artigos 296, 467, 473 e 535 do Código de Processo Civil/73. Sustenta, em síntese, além de negativa de prestação jurisdicional, que "se a apelação é intempestiva, operam-se, de imediato, os efeitos da coisa julgada" (e-STJ, fl. 232).
+Não foram apresentadas contrarrazões.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não se verifica a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Por sua vez, os temas referentes aos artigos 467 e 473, do CPC/73, sob a alegação de que a apelação foi interposta intempestivamente, portanto operaram os efeitos da coisa julgada, que não foram prequestionados, atraindo a incidência das Súmulas n. 282 e 356, ambas do col. STF.
+Registre-se, ainda, que inexiste contradição em se afirmar que esses artigos não estão prequestionados e, ao mesmo tempo, rejeitar a violação ao art. 535 do CPC/73. Isso porque, o ora recorrente não invocou a análise da lide sob o prisma dessas normas nas razões de agravo de instrumento (fl. 01/16 ). Com efeito, tais artigos somente foram suscitados em sede de embargos de declaração (fls. 206/211), o que representava nítida inovação recursal, a qual não é admitida.
+Impende salientar, ainda, que a iterativa jurisprudência desta eg. Corte não admite o pós-questionamento, que é justamente quando a parte, sob a pretensão de prequestionar determinara matéria, apresenta novas teses nos embargos de declaração, como ocorreu no caso em espécie. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. MATÉRIA CONSTITUCIONAL. PÓS-QUESTIONAMENTO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(..)
+3. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente com a oposição de embargos de declaração, não configura prequestionamento, e sim pós-questionamento. Incidência da Súmula 211/STJ.
+4. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/03/2017, DJe 16/03/2017)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONFIGURAÇÃO DA MORA NO CONTRATO DE CÉDULA DE CRÉDITO RURAL. MATÉRIA ALEGADA APENAS EM EMBARGOS DE DECLARAÇÃO. INDEVIDO PÓS-QUESTIONAMENTO. CONTRATO DE CRÉDITO FIXO. MORA DESCARACTERIZADA.
+1. A oposição de embargos de declaração, com a finalidade de prequestionar tema não arguido anteriormente, configura indevido pós-questionamento, incidindo, na hipótese, o óbice da Súmula n. 282 do STF.
+(..)
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 774.766/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/09/2016, DJe 08/09/2016)
+No pertinente ao art. 296 do Código de processo Civil/73, o apelo também não merece prosperar, pois a parte agravante não apresentou argumentação jurídica clara e precisa apta a demonstrar como o eg. Tribunal a quo teria ofendido tal norma. Nesse cenário, no pertinente a tal artigo, o recurso especial apresenta deficiente fundamentação recursal.
+Ressalta-se que a jurisprudência desta Corte é pacífica no sentido de que a violação genérica de lei federal não enseja a abertura da via especial, aplicando-se, por analogia, o disposto na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. CÉDULA DE CRÉDITO INDUSTRIAL. CITAÇÃO. INTIMAÇÃO. VÍCIOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282/STF E 211/STJ. DISPOSITIVOS LEGAIS. SIMPLES MENÇÃO. SÚMULA N. 284/STF. NÃO PROVIMENTO. (..)
+2. Na instância extraordinária não se aplica o princípio segundo o qual o juiz sabe o direito, de modo que não é suficiente a simples menção a dispositivo legal sem a demonstração de sua efetiva violação, cuja falta atrai as disposições do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 225.513/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/10/2016, DJe 04/11/2016 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/1973) - AÇÃO DE INDENIZAÇÃO DECORRENTE DE NEGATIVAÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA. 1. A alegação genérica de ofensa a dispositivo da lei federal, sem a demonstração, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, atrai, por analogia, a Súmula 284 do STF. (..)
+4. Agravo regimental desprovido."
+(AgRg no AREsp 518.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2016, DJe 28/10/2016 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
