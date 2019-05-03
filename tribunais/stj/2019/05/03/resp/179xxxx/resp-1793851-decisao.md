@@ -1,0 +1,49 @@
+DECISÃO
+CRISTIANO EUSTAQUIO DOS SANTOS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0024.16.100419-7/001.
+Depreende-se dos autos que a denúncia foi julgada improcedente, a fim de absolver o réu da acusação de haver praticado roubo majorado.
+O Tribunal de origem deu provimento à apelação ministerial, e condenou o acusado a 6 anos, 6 meses e 11 dias de reclusão, em regime semiaberto, mais 24 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, do CP. Os embargos de declaração defensivos foram rejeitados.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 59 do CP, ao argumento de que exasperou a pena-base, mediante fundamentação inidônea.
+Sustenta que as condenações ainda não definitivas e as transitadas em julgado há mais de cinco anos não podem ser utilizadas para sopesar desfavoravelmente os antecedentes.
+Afirma que a não devolução dos bens subtraídos é circunstância elementar do roubo e que não serve para considerar negativas as circunstâncias do delito.
+Requer seja a reprimenda-base reduzida ao mínimo legal e determinado o regime inicial semiaberto.
+Apresentadas as contrarrazões e admitido o recurso especial na origem, o Ministério Público Federal opinou pelo seu provimento parcial.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Atento às circunstâncias do artigo 59, do Código Penal, considerando-se que a culpabilidade é ínsita ao tipo penal; que o acusado é portador de maus antecedentes (CAC"s às fls. 57/58, 59 e 60/61); a conduta social e a personalidade, sem elementos para aferições, devendo ser consideradas boas. Os motivos e as circunstâncias são os inerentes ao tipo penal. As consequências são graves, pois o dinheiro, a carteira com os documentos e o telefone celular da vítima não foram recuperados. O comportamento da vítima não influenciou na prática do delito.
+Dessa forma, fixam-se as penas-base em 04 (quatro) anos e 09 (nove) meses de reclusão, e pagamento de 18 (dezoito) dias-multa.
+ ..
+Nos termos do artigo 33, § 2º, a, e § 3º, do Código Penal, e ainda, considerando-se que o acusado já foi condenado a cumprimento de pena privativa de liberdade no regime semiaberto, fixa-se o regime carcerário fechado, por ser recomendável no presente caso.
+(fl. 274, grifei)
+O Tribunal de origem julgou os embargos de declaração nestes termos:
+Ao contrário do que se afirma, a decisão colegiada indicou a certidão/certidões de antecedentes criminais do apelado que contêm os processos com decisões transitadas em julgado capazes de configurar maus antecedentes (fl. 204v).
+Com efeito, consta da CAC de fls. 57/58, uma condenação em fase de execução quanto ao processo nº 3717280-26.2013.8.13.0024, referente a crime de roubo majorado, cuja sentença condenou o embargante a cumprimento de pena privativa de liberdade de oito anos de reclusão (data da sentença: 30/05/2014).
+Embora na certidão de antecedentes criminais não haja registro do trânsito em julgado da decisão condenatória, tal certidão serve para comprovação dos maus antecedentes do embargante.
+Além disso, as condenações que constam da CAC de fls. 60/61, embora não possam gerar a reincidência, devido ao disposto no artigo 64,1, do Código Penal, servem para comprovar os maus antecedentes do embargante.
+ ..
+Não há falar-se, ainda, em omissão e/ou obscuridade, na dosimetria penal, em relação às consequências do delito (primeira fase) e fração de aumento pelas causas especiais previstas no artigo 157, § 2º, do Código Penal (terceira fase da dosimetria), pois a fixação das penas está devidamente fundamentada no acórdão.
+(fl. 294, destaquei)
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, no âmbito da discricionariedade juridicamente vinculada, deve se atentar para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Na espécie, a folha de antecedentes do agente indica execução referente ao Processo n. 3717280-26.2013.8.13.0024 (fl. 75), que foi mencionada pelo acórdão recorrido.
+Embora conste a execução e o trânsito em julgado para o Ministério Público, o respectivo registro demonstra a existência de recurso perante o Tribunal local, o que permite concluir não se tratar de condenação definitiva.
+Portanto, não existem elementos que autorizem considerar desfavoráveis os antecedentes do acusado.
+Quanto às consequências do crime, a subtração é elemento integrante do delito patrimonial e não justifica, por si só, maior quantidade de pena, mesmo quando os bens não são recuperados.
+Se o prejuízo destoa do comum e motiva o aumento da reprimenda, as instâncias ordinárias devem descrever, com base em elementos concretos dos autos, a monta e o significativo impacto da ação delitiva em proporção com as condições econômicas da vítima, o que não ocorreu na hipótese dos autos.
+Com efeito, não desborda do que comumente se observa nesse tipo de atividade criminosa a subtração de telefone celular e de carteira com documentos e dinheiro.
+Em linha com esse entendimento, o STJ firmou jurisprudência: "A simples afirmação de que o crime causou prejuízo patrimonial ao ofendido, sem indicar a expressão financeira do desfalque, não configura motivo suficiente para amparar a exasperação da pena-base.  ..  no trabalho dosimétrico, é imprescindível  ..  avaliar se o menor ou maior grau do prejuízo justifica o recrudescimento da resposta penal (AgRg no AREsp n. 1081370/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/8/2017).
+Feito esse registro, passo a refazer a dosimetria.
+O Tribunal de origem fixou a sanção-base em 4 anos e 9 meses de reclusão mais 18 dias-multa ao considerar desfavoráveis os antecedentes e as consequências do delito.
+Afastadas essas circunstâncias judiciais, determino a reprimenda-base no mínimo legal: 4 anos de reclusão e 10 dias-multa, que coincide com a pena intermediária, ante a ausência de agravantes e atenuantes.
+Na terceira fase, a instância de origem aplicou a fração de aumento de 3/8 em decorrência do uso de faca e do concurso de pessoas.
+Nesse ponto, destaco que a Lei n. 13.654/2018 revogou o inciso I do § 2º do art. 157 do CP, que previa a majorante do emprego de arma para o crime de roubo. Na vigência da redação anterior, entendia-se que a utilização de arma branca pelo agente também seria apta a caracterizar a referida causa de aumento de pena.
+A partir da novatio legis in mellius, a majorante foi mantida, mas com redação que restringe a sua aplicação às condutas em que se empregou arma de fogo, o que autoriza a retroação do comando normativo para abranger os processos que já estavam em curso e, assim, implica o afastamento do respectivo acréscimo de pena nas hipóteses em que o agente fez uso de faca ou outras armas brancas, como na espécie.
+No mais, para justificar a aplicação de razão superior a 1/3, é necessária a indicação de outras circunstâncias concretas que digam respeito às próprias majorantes e que evidenciem a maior desaprovação da conduta (número de agentes superior ao necessário para configurar o concurso, restrição da liberdade da vítima por longo período, emprego de arma de grosso calibre, ocorrência de disparo etc.), o que não ocorreu neste processo.
+Na hipótese, o concurso de duas pessoas não justifica a exasperação da reprimenda em 3/8, tampouco as demais circunstâncias nas quais o crime foi praticado.
+Haja vista essas considerações, afasto, de ofício, a majorante do emprego de arma e, ao manter a do concurso de agentes, reduzo a fração de incremento para 1/3, com o que torno definitiva a sanção no patamar de 5 anos e 4 meses de reclusão e 13 dias-multa.
+Ante a quantidade de pena (entre 4 e 8 anos) e a ausência de registro de reincidência e de circunstâncias judiciais negativas, deve ser imposto o regime inicial semiaberto, a teor do art. 33, §§ 2º, "b", e 3º do Código Penal.
+Nesse sentido, a jurisprudência do STJ já firmou que, "Tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional,  ..  deve a reprimenda ser cumprida, desde logo, em regime semiaberto" (HC n. 402.317/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/9/2017).
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, dou provimento ao recurso especial, a fim de reduzir a condenação para 5 anos e 4 meses de reclusão, em regime semiaberto, e 13 dias-multa.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
