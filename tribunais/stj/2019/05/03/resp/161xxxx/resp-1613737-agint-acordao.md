@@ -1,0 +1,30 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REPERCUSSÃO GERAL RECONHECIDA PELO STF. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES.
+1. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, não acarreta prejuízo às partes e, por isso, trata-se de provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A hipótese é de agravo interno manejado por [NOME] e outros contra decisão que determinou o retorno dos autos à origem e respectivo sobrestamento do feito em razão do reconhecimento de repercussão geral de temática abordada no recurso especial da ora agravada (Tema 1.011/STF).
+Nas razões do agravo interno, a parte sustenta que: (I) não é possível suspender os processos com repercussão geral de forma imediata; (II) não foi determinado o sobrestamento dos processos pelo relator do RE 827.996/PR; e (III) não tendo havido a publicação da decisão, não pode ser considerada válida a repercussão geral, até porque não tendo sido julgado o seu mérito, não gerará seus efeitos.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Impugnação da parte agravada às fls. 2.159/2.171
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REPERCUSSÃO GERAL RECONHECIDA PELO STF. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES.
+1. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, não acarreta prejuízo às partes e, por isso, trata-se de provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos da parte, o presente recurso não merece ser conhecido.
+A jurisprudência desta Corte Superior firmou entendimento no sentido de que o recurso sobrestado na forma dos arts. 543-B, § 3º, e 543-C, § 7º, do CPC/73 não é capaz de gerar nenhum prejuízo às partes, razão pela qual é irrecorrível. Nesse sentido: AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro Og Fernandes, Primeira Seção, DJe 20/9/2017; AgInt no REsp 1.666.877/SE, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 4/9/2017 e AgInt no AREsp 920.593/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 2/8/2017.
+A fim de afastar qualquer dúvida quanto à possibilidade de devolução dos autos ao Tribunal a quo, impende esclarecer que, na sistemática introduzida pelo art. 543-B do CPC/1973, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei n. 11.672/2008. Essa conclusão pode ser extraída da fundamentação constante da Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, DJe de 12/5/2011, submetida à apreciação da Corte Especial:
+A edição da Lei n. 11.672, de 8/5/2008, decorreu, sabidamente, da explosão de processos repetidos junto ao Superior Tribunal de Justiça, ensejando centenas e, conforme a matéria, milhares de julgados idênticos, mesmo após a questão jurídica já estar pacificada.
+O mecanismo criado no referido diploma, assim, foi a solução encontrada para afastar julgamentos meramente "burocráticos" nesta Corte, já que previsível o resultado desses diante da orientação firmada em leading case pelo órgão judicante competente.
+Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida.
+Assim, é conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento completo da jurisdição do Tribunal de origem, com o rejulgamento da apelação para fins de realização do juízo de retratação ou de conformação, a ser efetivado pela instância ordinária, nos moldes dos arts. 1.040 e 1.041 do CPC/2015. Por essa razão, não há falar, neste momento processual, na obrigatória precedência da confecção de juízo de admissibilidade do recurso especial sobre o juízo de adequação, tarefa a ser desempenhada pelo Tribunal de origem, frente ao que restar decidido sobre o tema em sede de repercussão geral, e nem na possibilidade de a presidência do Tribunal de origem, tacitamente, afastar a aplicação do precedente futuro.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
