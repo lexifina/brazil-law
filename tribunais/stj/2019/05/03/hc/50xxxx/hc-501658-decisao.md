@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado, como incurso na sanção do art. 180 do Código Penal, à pena de 1 ano de reclusão, em regime aberto, e ao pagamento de 10 dias-multa, tendo em vista que recebeu e conduziu, em proveito próprio, um veículo Fiat/Uno pertencente a vítima E., que sabia ser produto de crime (e-STJ fls. 24/26).
+Interposta apelação pelo Ministério Público estadual, os desembargadores da 15ª Câmara de Direito Criminal do Tribunal de Justiça deram parcial provimento ao recurso a fim de fixar o regime fechado para o início do cumprimento da pena (e-STJ fls. 27/31):
+Recebeu o acórdão esta ementa (e-STJ fl. 28):
+RECEPTAÇÃO DOLOSA Configuração. Autoria e materialidade comprovadas. Prova segura do conhecimento da origem ilícita do bem. Confissão do réu corroborada com as declarações da vítima, tudo em harmonia com os demais elementos probatórios Condenação mantida.
+PENAS e REGIME PRISIONAL Bases nos mínimos Confissão e reincidência. Compensação. Precedentes Regime inicial fechado Apelo provido em parte para alterar o regime prisional Expedição de mandado de prisão.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 37/41).
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente da imposição do regime prisional inicialmente mais severo.
+Sustenta que "a fixação de regime fechado frente a circunstâncias integralmente favoráveis contraria de forma patente o princípio da isonomia, da razoabilidade e a individualização da pena, não obstante seja o paciente reincidente" (e-STJ fl. 12).
+Assevera que o fato de o acusado ser reincidente não enseja o estabelecimento do regime mais gravoso.
+Sustenta violação aos enunciados 269 e 440 da Súmula do Superior Tribunal de Justiça, 718 e 719 da Súmula do Supremo Tribunal Federal.
+Salienta, ainda, que se está diante de crime sem violência ou grave ameaça à pessoa.
+Por fim, pontua que "o paciente encontra-se em liberdade desde 11/07/2016 longe do cometimento de qualquer crime e exercendo trabalho regular e lícito, conforme constou na sentença" (e-STJ fl. 14).
+Dessa forma, requer, em liminar e no mérito, a fixação de regime mais brando para o início do cumprimento da pena (e-STJ fls. 1/15).
+O pedido liminar foi deferido para que o paciente pudesse aguardar no regime intermediário o julgamento deste writ (e-STJ fls. 45/47).
+Prestadas as informações (e-STJ fls. 54/70), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela concessão da ordem (e-STJ fls. 73/76).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, o abrandamento do regime prisional sob o argumento de que, apesar de o paciente ser reincidente, sua pena definitiva foi inferior a quatro anos de reclusão, sendo possível a imposição do regime semiaberto, já que não possui circunstâncias judiciais desfavoráveis.
+Em relação à fixação do regime inicial de cumprimento da reprimenda, verifica-se que, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis, nos termos do disposto no art. 59 do referido diploma legal.
+Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+Quanto ao tema, o Tribunal de Justiça estabeleceu o regime fechado, nos termos abaixo transcritos (e-STJ fls. 30/31):
+O regime prisional deve ser alterado para o inicial fechado, mormente porque a reincidência ademais específica desautoriza e incompatibiliza o estabelecimento de regime mais brando (cf. artigo 59, III; c.c. artigo 33, § 3º, ambos do Código Penal).
+Cumpridos, nessa quadra, os comandos de fundamentação das Súmulas 440 do STJ e 718 e 719 do STF, independentemente da quantificação da pena-base.
+Desse modo, foi destacada a condição de reincidente do réu para amparar a manutenção do regime inicialmente fechado para o cumprimento da sanção.
+Nota-se, porém, que, diante do quantum de pena definitivamente aplicada (1 ano de reclusão), apesar da reincidência, a pena-base foi estabelecida no patamar mínimo legal por serem favoráveis ao acusado as circunstâncias judiciais previstas no art. 59 do Código Penal.
+Assim, no caso, é viável o abrandamento do regime prisional para o intermediário, em conformidade com o disposto na Súmula n. 269 desta Corte, que dispõe que "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FURTO QUALIFICADO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA INFERIOR A 4 ANOS. REGIME FECHADO. FIXAR REGIME INTERMEDIÁRIO. PENA-BASE NO MÍNIMO LEGAL. ARTIGO 33, § 3º, DO CÓDIGO PENAL - CP. ENTENDIMENTO DA SUMULA 269 DO STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFICIO.
+ ..
+No caso dos autos, embora as circunstâncias judiciais tenham sido consideradas favoráveis, com a pena-base no mínimo legal, foi estabelecido o regime inicial fechado a partir de motivação concreta extraída dos autos, em razão da multirreincidência do paciente e pelo fato de que encontrava-se em livramento condicional quando praticou o furto qualificado. Todavia, apesar da fundamentação concreta apresentada pela Corte estadual, a qual justifica a fixação de regime mais gravoso, em razão do quantum de pena fixado, qual seja 2 anos e 4 meses de reclusão, o regime prisional a ser fixado deve ser o semiaberto, de acordo com o disposto no art. 33, § 3º do CP. Ademais, sendo as circunstâncias judiciais consideradas favoráveis e reincidente o réu, é admissível a fixação do regime intermediário, em observância ao disposto no Enunciado n. 269 da Súmula desta Corte, que assim dispõe: É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto para início de cumprimento de pena do paciente (HC 453.092/SP, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/09/2018, DJe 09/10/2018).
+AGRAVO REGIMENTAL. REGIME INICIAL DE CUMPRIMENTO DA PENA. SÚMULA N. 269 DO STJ. RÉU MULTIRREINCIDENTE. REPRIMENDA NO PATAMAR MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. IMPOSIÇÃO DO REGIME INTERMEDIÁRIO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante o entendimento consolidado do Superior Tribunal de Justiça, o enunciado da Súmula n. 269 é aplicável ao réu condenado a pena igual ou inferior a quatro de reclusão, caso as circunstâncias judiciais tenham sido favoravelmente avaliadas, ainda que o sentenciado seja multirreincidente específico.
+2. Agravo regimental não provido (AgRg no HC 324.602/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017).
+Ante o exposto, concedo a ordem de habeas corpus a fim de aplicar o regime inicialmente semiaberto para o cumprimento da pena imposta ao paciente.
+Publique-se. Intimem-se
