@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGUATIVA GOLF RESORT S/A, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO. SUSPENSÃO DE LIMINAR IMPEDITIVA DA COBRANÇA DE ICMS SOBRE PREÇO DE ENERGIA ELÉTRICA INTEGRADO PELO MONTANTE COBRADO A TÍTULO DE TUST E TUSD (TARIFAS DE USO DOS SISTEMAS DE TRASMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA). INEXISTÊNCIA DE NULIDADE DA DECISÃO RECORRIDA POR FALTA DE FUNDAMENTAÇÃO, SE A PRÓPRIA RECORRENTE ENUMERA E QUESTIONA TODOS OS ARGUMENTOS QUE EMBASARAM A DECISÃO. SUPRESSÃO DE ARRECADAÇÃO QUE CONTRARIA O INTERESSE PÚBLICO POR IMPACTAR FORTEMENTE AS CONTAS DO ESTADO. RISCO DE GRAVE LESÃO À ECONOMIA PÚBLICA. NECESSIDADE DE PACIFICAÇÃO DA CONTROVÉRSIA ACERCA DA POSSIBILIDADE DE COBRANÇA ESCORADA NO § 9º DO ART. 34 DO ADCT. APARENTE INSUFICIÊNCIA DO ENTENDIMENTO SEDIMENTADO PELA SÚMULA Nº 166 DO STJ, POR NÃO ESTAR A COBRANÇA FUNDAMENTANDA NA REALIZAÇÃO DE FATO IMPONÍVEL PELA CIRCULAÇÃO DA ENERGIA ENTRE ESTABELECIMENTOS DE UM MESMO CONTRIBUINTE, SENÃO NA CONSIDERAÇÃO DE TODOS OS CUSTOS COMO COMPONENTES DO VALOR FINAL DA OPERAÇÃO. AGRAVO CONHECIDO E DESPROVIDO.
+No presente recurso especial, o recorrente aponta violação do art. 300, do CPC/2015, c/c o art.42, da Lei Federal 8.437/92 e o art. 22 e 16, da LC nº 87/96. Em síntese, argumenta que não restou demonstrada ameaça de lesão às finanças públicas, apta a ensejar a suspensão da liminar.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Parecer do MPF pelo não conhecimento do recurso.
+É o relatório. Decido.
+Verifica-se que a irresignação do recorrente acerca da reforma da decisão liminar proferida, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu pela presença dos requisitos necessários à concessão da tutela de urgência.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
