@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIVERSIDADE FEDERAL DE SANTA MARIA - UFSM, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+ADMINISTRATIVO. VERBA DE CARÁTER ALIMENTAR RECEBIDA POR DECISÃO JUDICIAL TRANSITADA EM JULGADO. DECISÃO DESCONSTITUÍDA. DEVOLUÇÃO. DESNECESSIDADE.
+Os valores remuneratórios pagos pela Administração Pública em decorrência de decisão judicial transitada em julgado, posteriormente desconstituída por ação rescisória, não estão sujeitos à restituição, tendo em vista a boa-fé do servidor público, cujo direito estava amparado pela coisa julgada material, bem como diante do caráter alimentar dessa verba.
+Os embargos de declaração interpostos foram parcialmente providos para o fim exclusivo de prequestionamento.
+Na origem, trata-se de ação de conhecimento, sob o procedimento comum, proposta pela Universidade Federal de Santa Maria - UFSM em face de [NOME] e outros, na qual pleiteia o ressarcimento ao erário de valores indevidamente recebidos pela parte ré. Deu-se, à causa, o valor de R$ 58.443,87 (cinquenta e oito mil, quatrocentos e quarenta e três reais e oitenta e sete centavos).
+O juízo inicial julgou improcedente a demanda. Em grau recursal, o TRF da 4ª Região manteve a sentença e majorou os honorários advocatícios, nos termos da ementa supra transcrita.
+No recurso especial, o recorrente aponta violação dos arts. 876 do CC; 46 da Lei nº 8.112/90; e 502, 505, 974 e 1.022, II, do CPC/15.
+Sustenta, em síntese, que, em razão da desconstituição da coisa julgada, os valores indevidamente recebidos por conta de decisão judicial, ainda que de boa-fé, devem ser ressarcidos ao erário.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na Súmula nº 83/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+Parecer do MPF pelo não conhecimento do recurso, ante a incidência da Súmula nº 83/STJ.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Conforme decidido no EREsp 1.086.154/RS, da relatoria da Ministra Nancy Andrighi, julgado na Corte Especial, não há que se falar em devolução de valores pagos em decorrência de sentença definitiva, haja vista a existência de boa fé do recebedor e da estabilização da expectativa.
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SENTENÇA QUE DETERMINA O RESTABELECIMENTO DE PENSÃO POR MORTE. CONFIRMAÇÃO PELO TRIBUNAL DE ORIGEM. DECISÃO REFORMADA NO JULGAMENTO DO RECURSO ESPECIAL. DEVOLUÇÃO DOS VALORES RECEBIDOS DE BOA-FÉ. IMPOSSIBILIDADE. PRECEDENTES DO STJ.
+1. A dupla conformidade entre a sentença e o acórdão gera a estabilização da decisão de primeira instância, de sorte que, de um lado, limita a possibilidade de recurso do vencido, tornando estável a relação jurídica submetida a julgamento; e, de outro, cria no vencedor a legítima expectativa de que é titular do direito reconhecido na sentença e confirmado pelo Tribunal de segunda instância.
+2. Essa expectativa legítima de titularidade do direito, advinda de ordem judicial com força definitiva, é suficiente para caracterizar a boa-fé exigida de quem recebe a verba de natureza alimentar posteriormente cassada, porque, no mínimo, confia - e, de fato, deve confiar - no acerto do duplo julgamento.
+3. Por meio da edição da súm. 34/AGU, a própria União reconhece a irrepetibilidade da verba recebida de boa-fé, por servidor público, em virtude de interpretação errônea ou inadequada da Lei pela Administração. Desse modo, e com maior razão, assim também deve ser entendido na hipótese em que o restabelecimento do benefício previdenciário dá-se por ordem judicial posteriormente reformada.
+4. Na hipótese, impor ao embargado a obrigação de devolver a verba que por anos recebeu de boa-fé, em virtude de ordem judicial com força definitiva, não se mostra razoável, na medida em que, justamente pela natureza alimentar do benefício então restabelecido, pressupõe-se que os valores correspondentes foram por ele utilizados para a manutenção da própria subsistência e de sua família.
+Assim, a ordem de restituição de tudo o que foi recebido, seguida à perda do respectivo benefício, fere a dignidade da pessoa humana e abala a confiança que se espera haver dos jurisdicionados nas decisões judiciais.
+5. Embargos de divergência no recurso especial conhecidos e desprovidos.
+(EREsp 1086154/RS, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2013, DJe 19/03/2014)
+No mesmo sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DE VALORES RECEBIDOS EM DECORRÊNCIA DE SENTENÇA DESCONSTITUÍDA POR AÇÃO RESCISÓRIA. IMPOSSIBILIDADE. RECEBIMENTO DE BOA FÉ.
+1. A decisão agravada foi publicada na vigência do CPC/1973. Deve, assim, incidir o teor do Enunciado Administrativo n. 2/STJ. (Enunciado Administrativo n. 2).
+2. Conforme decidido no EREsp 1.086.154/RS, da relatoria da Ministra Nancy Andrighi, julgado na Corte Especial, não há que se falar em devolução de valores pagos em decorrência de sentença definitiva, haja vista a existência de boa fé do recebedor e da estabilização da expectativa.
+3. Agravo regimental não provido.
+(AgRg no AREsp 254.336/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/04/2018, DJe 19/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. RESTITUIÇÃO DE VALOR PAGO A SERVIDOR. TÍTULO JUDICIAL RESCINDIDO. CONTEXTO FÁTICO INCONTROVERSO. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. INAPLICABILIDADE DA TEORIA DA CAUSA MADURA NO CASO DOS AUTOS. RECURSO ORDINÁRIO INTERPOSTO DURANTE A VIGÊNCIA DO CPC/1973. DEVOLUÇÃO DOS AUTOS PARA ANÁLISE DO MÉRITO DO MANDADO DE SEGURANÇA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça decidiu, por meio do julgamento do REsp n. 1.244.182/SP, submetido ao rito dos recursos especiais repetitivos, que as verbas alimentares percebidas por servidores de boa-fé não podem ser repetidas quando havidas por errônea interpretação de lei pela Administração Pública, em razão da falsa expectativa criada no servidor de que os valores recebidos são legais e definitivos. Ademais, importante destacar que o STJ já se posicionou no sentido de que: "em virtude da natureza alimentar, não é devida a restituição dos valores que, por força de decisão transitada em julgado, foram recebidos de boa-fé, ainda que posteriormente tal decisão tenha sido desconstituída em ação rescisória" (STJ, AgRg no AREsp 494.537/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 08/04/2015).
+2. O STJ já se manifestou pela remessa dos autos ao Tribunal de origem para nova análise do recurso ordinário em mandado de segurança quando a extinção do processo ocorreu mesmo quando desnecessária a realização dilação probatória. A propósito: AgRg no RMS 24.752/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/03/2015, DJe 26/03/2015.
+3. Tal como destacado no parecer do Ministério Público Federal, não há nos autos informação prestada pela Administração capaz de abalar a presunção advinda do contexto objetivo dos fatos incontroversos nos autos. Dessa forma, a extinção do mandado de segurança pelo acórdão a quo se revela indevida.
+4. Agravo interno não provido.
+(AgInt no RMS 48.753/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
