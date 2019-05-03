@@ -1,0 +1,33 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial interposto por ALCINDINO PALMAR TAVARES fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"PROCESSUAL CIVIL. INTIMAÇÃO. OCORRÊNCIA. EMENDA À INICIAL. NÃO CUMPRIMENTO. ART. 321, PARÁGRAFO ÚNICO, DO CPC. INDEFERIMENTO DA INICIAL. CABIMENTO.
+1. Verificada a necessidade de emenda à petição inicial, determinará o juiz que a parte autora supra o defeito, sob pena de indeferimento. Inteligência do art. 321 do CPC.Código de Processo Civil.
+2. Considera-se intimação pessoal, para todos os efeitos, a comunicação eletrônica feita através de acesso ao sistema E-Proc, sendo a única condição de validade o cadastramento prévio, por parte dos procuradores, no serviço específico do referido portal, conforme determinação do caput do artigo 5º da Lei nº 11.419/2006.
+3. Instado a emendar a inicial, o não atendimento ao comando judicial autoriza o indeferimento da inicial, com conseqüente extinção do feito sem julgamento do mérito (artigos 321, único, CPC)." (fl. 518, e-STJ)
+Nas razões do recurso especial, o agravante alega violação dos arts. 319 e 320 do CPC/15, sustentando, em síntese, a necessidade de intimação pessoal dos recorrentes para fins de emenda da petição inicial.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No tocante à intimação pessoal, verifica-se que o Tribunal a quo, ao julgar a matéria, manifestou-se no seguinte sentido:
+Acerca da necessidade de intimação pessoal, convém referir que se considera intimação pessoal, para todos os efeitos, a comunicação eletrônica feita através de acesso ao sistema E-Proc, sendo a única condição de validade o cadastramento prévio, por parte dos procuradores, no serviço específico do referido portal, conforme determinação do caput do artigo 5º da Lei nº 11.419/2006:
+Art. 5º As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico. (..)
+Nesse sentido:
+PROCESSO CIVIL. PROCESSO ELETRÔNICO. E-PROC. INTIMAÇÃO. CADASTRAMENTO DO USUÁRIO. COMPROMISSO. ACESSO NÃO REALIZADO. INTIMAÇÃO EFETUADA. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS.
+1. (..)
+2. (..)
+3. "Além do Diário da Justiça on line, a Lei 11.419 prevê outra modalidade de realização de comunicações eletrônicas às partes, advogados e outras pessoas que atuam no processo. A previsão está no seu artigo 5º., segundo o qual "as intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º. desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico". Trata-se de um segundo método empregado para a realização de comunicação eletrônica de atos processuais, que pressupõe adesão das partes e seus advogados, mediante realização de cadastro em área específica do portal do tribunal. As intimações realizadas por essa fórmula dispensam qualquer outra forma de comunicação, seja a realizada por publicação em órgão oficial impresso ou em Diário da Justiça eletrônico, ou mesmo qualquer forma de intimação pessoal convencional (como as realizadas por carta postal, na presença do intimando em cartório ou por meio oficial de justiça), já que têm a mesma força e valor de uma intimação pessoal (§ 6º. do art. 5º.)." (REINALDO FILHO, Demócrito. Comunicação eletrônica de atos processuais na Lei nº 11.419/06. Revista Jurídica Consulex, Brasília, DF, v. 11, n. 252, p. 57-63, jul. 2007).
+4. (..) (TRF4, AGRAVO EM APELAÇÃO/REEXAME NECESSÁRIO Nº 5015024-97.2011.404.7000, 3a. Turma, Des. Federal [NOME] LENZ, POR UNANIMIDADE, JUNTADO AOS AUTOS EM 29/03/2012)
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Não obstante, quanto à insurgência acerca da necessidade de intimação pessoal dos recorrentes, para fins de emenda da petição inicial, o Tribunal de origem assim se manifestou:
+Do indeferimento da inicial
+1. Instada por este Juízo a providenciar a distribuição da demanda de forma autônoma para cada um dos mutuários envolvidos, bem como promover a digitalização de todos os atos do processo físicos, retificar o valor da causa em relação a lide remanescente e requerer a citação da CEF, nos termos da decisão constante no evento 13, a parte autora permaneceu inerte até o término do prazo concedido (v. g. certidão de evento 23).
+Desta forma, resta configurado o não preenchimento dos requisitos exigidos no art. 319 e art. 320, ambos do CPC. Ademais, conforme já mencionado, foi oportunizada à parte autora a regularização de tal vício, o que não foi atendido.
+Assim dispõe o artigo 321 do Código de Processo Civil:
+Art. 321. O juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado.
+Parágrafo único. Se o autor não cumprir a diligência, o juiz indeferirá a petição inicial.
+Ante o exposto, indefiro a petição inicial e julgo extinta a ação sem resolução do mérito, quanto aos autores ANA JUSSARA PIRES DA ROCHA, EMIDIO KLEIN, [NOME], JOSE EDEGAR DE ROSSO NUNES, JUSTINO DA SILVA, MARA LECIDIA TAVARES PEREIRA, MARCIA CRISTINA DA SILVA, VANDERLEI MORAES DE AVILA e ZELIA DUARTE DORNSBAK, com fundamento no artigo 485, inciso I c/c artigo 330, inciso IV, ambos do Código de Processo Civil.
+Deixo de condenar os referidos autores ao pagamento de honorários em favor dos réus ante a ausência de citação.
+Ante o exposto, voto por negar provimento ao recurso.
+Do excerto transcrito, constata-se que o egrégio Tribunal a quo, após o exame acurado dos autos, asseverou que "foi oportunizada à parte autora a regularização de tal vício, o que não foi atendido".
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
