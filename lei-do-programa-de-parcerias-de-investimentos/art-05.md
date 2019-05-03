@@ -1,1 +1,1 @@
-Art. 5º Os empreendimentos do PPI serão tratados como prioridade nacional por todos os agentes públicos de execução ou de controle, da União, dos Estados, do Distrito Federal e dos Municípios.
+Art. 5º Os projetos qualificados no PPI serão tratados como empreendimentos de interesse estratégico e terão prioridade nacional junto a todos os agentes públicos nas esferas administrativa e controladora da União, dos Estados, do Distrito Federal e dos Municípios.

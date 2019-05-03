@@ -1,0 +1,2 @@
+Art. 7º-A Caberá ao Ministro de Estado Chefe da Secretaria de Governo da Presidência da República, em conjunto com o Ministro titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, ad referendum do CPPI. (Inclusão
+Parágrafo único. A decisão ad referendum a que se refere o caput será submetida ao CPPI na primeira reunião após a deliberação. (Inclusão
