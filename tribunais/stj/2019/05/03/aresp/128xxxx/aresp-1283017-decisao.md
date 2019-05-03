@@ -1,0 +1,39 @@
+DECISÃO
+Extremoz Transmissora do Nordeste - ETN S.A. apresenta agravo contra decisão que negou seguimento ao seu recurso especial, interposto com fundamento no art. 105, III, a e c, da CF/88, com o objetivo de reformar o acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 588-589):
+ AGRAVO DE INSTRUMENTO. SERVIDÃO ADMINISTRATIVA. IMISSÃO DE POSSE. 1) CARÁTER DE URGÊNCIA RESSALTADO QUANDO RECONHECIDA A UTILIDADE PÚBLICA DA ÁREA. AJUIZAMENTO DA DEMANDA APÓS O LAPSO DE 120 DIAS. DESCUMPRIMENTO DO ART. 15, § 2º, DO DECRETO-LEI N. 3.365/41. 2) DEPÓSITO PRÉVIO FORMALIZADO COM BASE EM LAUDO UNILATERAL. IMPOSSIBILIDADE. INDENIZAÇÃO QUE PRESSUPÕE PERÍCIA JUDICIAL. DIVERSOS PRECEDENTES JURISPRUDENCIAIS. 3) RECURSO PROVIDO.
+1. Ressaltado o caráter de urgência quando do reconhecimento de utilidade pública da área, o pedido de imissão provisória de posse deve ser formalizado no prazo de 120 dias, nos termos do art. 15, § 2º, do Decreto-lei nº 3365/41, lapso esse que fora descumprido na espécie.
+2. Tratando especificamente de servidão administrativa, a jurisprudência tem privilegiado a imprescindibilidade da avaliação judicial antes da imissão de posse, a fim de preservar o direito à indenização prévia, estabelecido constitucionalmente.
+3. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 622-635).
+Em suas razões especiais, a recorrente aponta violação do art. 15 e § 2º, do Decreto-Lei n. 3.365/41, pelo Tribunal a quo, sustentando, em síntese, ser suficiente para a imissão na posse, em se tratando de servidão, que a parte interessada tenha efetuado o depósito da quantia arbitrada para compensar o proprietário da respectiva área.
+Também pugna por afastar a decadência sob o fundamento de que a urgência pode ser contada do ajuizamento da ação e não somente do decreto que declarou a utilidade pública da servidão.
+Invoca divergência jurisprudencial com julgados desta Corte quanto ao tema controvertido, afirmando que o precedente repetitivo invocado no decisum - REsp n. 1.185.583/SP -, não se amolda à hipótese dos autos.
+Ofertadas as contrarrazões (fls. 702-713), o Tribunal de origem negou seguimento ao recurso especial (fls. 731-732), tendo sido interposto o presente agravo.
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 831-841).
+É o relatório. Decido.
+Considerando que a agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão objeto do presente recurso foi prolatado em via de agravo de instrumento que acolheu o pedido de Paraíba Construções e Empreendimentos Imobiliários Ltda., modificando inteiramente a decisão do juízo da 7ª Vara Cível da Comarca de Campina Grande/PB que havia deferido pedido de liminar, autorizando a Extremoz Transmissora do Nordeste - ETN S.A. à imediata imissão na posse dos bens constantes na inicial,
+O Tribunal recorrido reformou a decisão a quo, considerando que (fls. 592-593):
+ ..
+Segundo o Colendo STJ, "a lei fixa o prazo de 120 dias, a partir da alegação de urgência, para que o ente expropriante requeira ao juiz a imissão na posse. Em geral, a urgência é declarada no próprio decreto expropriatório, ou após tal ato, inclusive durante o curso da ação de desapropriação" (REsp n. 1.234.606, Rel. Min. Herman Benjamin).
+In casu, na referida Resolução Autorizativa nº 4.357/2013, a ANEEL reconheceu a urgência na servidão.
+ ..
+Ora, embora o caráter de urgência tenha sido reconhecido em 2013, a "ação de constituição de servidão administrativa" só foi proposta em 2015, o que impede, ipso facto, o pedido de imissão provisória fundado no art. 15 do Decreto-lei 3.365/41, o que demonstra a fragilidade dos itens 1º e 3º das contrarrazões.
+ ..
+Dessa forma, para rever a posição adotada pela instância ordinária, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos referidos elementos fático-probatórios, indo de encontro às convicções do julgador a quo. Incidem, na hipótese, os Óbices Sumulares n. 7/STJ e n. 735/STF, conforme firme posicionamento jurisprudencial desta Corte de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MEDIDA LIMINAR. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela ausência dos requisitos autorizadores da suspensão da liminar que deferiu a imissão da agravada na posse do imóvel. Alterar esse entendimento demandaria reexame do conjunto fático-probatório, vedado em recurso especial.
+3. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.192.819/AM, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/4/2018, DJe 16/4/2018.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. IMISSÃO NA POSSE DE PARTE DO TERRENO. EXISTÊNCIA DE OUTRAS TRÊS DEMANDAS SOBRE A MESMA ÁREA. RECEIO DE DECISÕES CONFLITANTES. NECESSIDADE DE REUNIÃO DOS PROCESSOS. INTERESSE NA DESAPROPRIAÇÃO DE TODA A ÁREA DO QUILOMBO DO "MATÃO". DECISÕES JUDICIAIS PRECÁRIAS. OBEDIÊNCIA À SÚMULA 735/STF.
+1. Já se faz antiga no STJ a interpretação do art. 15 do Decreto 3.365/1941, com o entendimento de que, alegada pelo órgão público urgência na desapropriação e depositado o valor cadastral do imóvel, a imissão provisória na posse pode ser realizada.
+2. Depreende-se da apreciação dos trechos supratranscritos que o caso em apreço possui particularidades que o distinguem das demandas outrora decididas pelo Superior Tribunal de Justiça, o que não passou despercebido pelo ilustre relator do acórdão recorrido, que salientou que existem "três ações que tratam de desapropriação de área destinada à mesma comunidade remanescente de quilombo" e, dessa maneira, "tais demandas devem ser reunidas e tramitar conjuntamente para evitar decisões divergentes, bem como porque não há interesse na desapropriação de apenas parte dessas terras, mas somente da área total."
+3. Deveras, a fundamentação lançada no decisum é muito forte para ser desconsiderada, apesar de ter sido feita initio litis e em exame perfunctório sobre a matéria controvertida.
+4. É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final.
+5. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735 do STF). Portanto, o juízo de valor precário, emitido na concessão ou no indeferimento de medida liminar, não tem o condão de ensejar a violação da lei federal, o que implica o não cabimento do Recurso Especial, nos termos da Súmula 735/STF.
+6. Recurso Especial não conhecido.
+(REsp n. 1.656.855/PE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2017, DJe 17/10/2017.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
