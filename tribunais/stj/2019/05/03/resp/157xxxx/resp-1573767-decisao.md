@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL - CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. FALTA DE PREQUESTIONAMENTO. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+3. Recurso especial do Banco do Brasil S.A. não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por BANCO DO BRASIL SA, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAUL, assim ementado:
+AÇÃO REVISIONAL - CONTRATO DE FINANCIAMENTO IMOBILIÁRIO CERCEAMENTO DE DIREITO PROBATÓRIO - INOCORRÊNCIA - PRÁTICAS NÃO NEGADAS PELO RÉU
+TABELA PRICE - AFASTAMENTO REPELIDO POR MAIORIA, VENCIDO ESTE RELATOR - JUROS REMUNERATÓRIOS CARACTERIZAÇÃO DE COMISSÃO DE PERMANÊNCIA - CUMULAÇÃO COM VERBAS DE CARÁTER REMUNERATÓRIO, PUNITIVO E MORATÓRIO INADMISSIBILIDADE - AFASTAMENTO
+AÇÃO PROCEDENTE EM PARTE - IGUAL REPARTIÇÃO SUCUMBENCIAL - APELO PROVIDO PARCIALMENTE
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos arts. 6º da LINDB; 1079 e 1080 do CC/2002 (fls. 338-344).
+Sustenta, em síntese, que o acórdão desrespeitou a livre vontade das partes, que, ao contratar, a parte era capaz e teve a oportunidade de conhecer os termos do instrumento, não podendo se falar em vício na declaração de sua vontade, sendo inviável a alteração das cláusulas contratuais.
+Defende a legalidade na aplicação da Tabela Price e que os juros remuneratórios praticados no contrato obedeceram aos ditames legais.
+Contrarrazões ao recurso especial às fls. 411-413.
+É o relatório.
+DECIDO.
+2. O recurso não tem condições de prosperar, uma vez que os dispositivos de lei alegadamente violados não foram analisados pelo tribunal de origem.
+Com efeito, quanto aos artigos 6º da LINDB; 1079 e 1080 do CC/2002 apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+3. Por sua vez, no que respeita à afirmação de legalidade da Tabela Price e regularidade do juros remuneratórios, saliente-se que não há na peça recursal alegação de afronta a qualquer dispositivo de lei federal, demonstrando a deficiência das razões recursais, quanto à alegação apresentada.
+Como se sabe, é imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional seja desenvolvida argumentação lógico-jurídica competente à demonstração de que maneira o acórdão impugnado teria ofendido a legislação federal, particularizando-a.
+O não atendimento deste providência, que tem por escopo a demonstração do acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto.
+O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+3. Ante o exposto, nego provimento ao recurso especial do BANCO DO BRASIL SA.
+Publique-se. Intimem-se.
