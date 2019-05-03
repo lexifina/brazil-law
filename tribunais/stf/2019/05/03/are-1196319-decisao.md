@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CIVIL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE ANULAÇÃO DE DÉBITO. PEDIDOS CUMULADOS DE DEVOLUÇÃO DE VALORES E DE INDENIZAÇÃO POR DANOS MORAIS. DÉBITO EM CONTA CORRENTE. AUSÊNCIA DE AUTORIZAÇÃO. INSCRIÇÃO INDEVIDA. À decisão publicada a partir do dia 18/03/2016, aplicam-se as normas do Código de Processo Civil de 2015 (CPC/2015). Reconhecida a conduta ilícita das instituições financeiras demandadas, que, no caso, têm responsabilidade objetiva, restando caracterizado o dano moral puro, também denominado in re ipsa, o qual independe de comprovação. O débito irregular de quantia, na conta corrente do autor, sem o prévio consentimento do titular, ensejando a inscrição do nome do consumidor em órgãos de proteção ao crédito, por si só, já basta à caracterização do dano. O desconto não autorizado de significativa quantia - sem autorização - é conduta grave, que merece severa repreensão. A fixação do quantum deve corresponder à realidade dos fatos concretos, eis que, consabido, tem por escopo compensar os prejuízos da vítima, bem como evitar a prática reiterada dos atos lesivos. Indenização por danos morais mantida em R$ 8.000,00 (oito mil reais). Ante o resultado do julgamento, devem ser majorados os ônus sucumbenciais fixados em primeira instância, nos termos do art. 85, §11, do CPC/2015. Apelação cível desprovida. Unânime.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, inexiste questão constitucional a ser apreciada. Quanto ao tema de fundo, somente a partir do exame da prova e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 3 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
