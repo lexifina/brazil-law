@@ -1,0 +1,48 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - MATÉRIA SUBMETIDA AO RITO DA REPERCUSSÃO GERAL NO STF - DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM - OBEDIÊNCIA À SISTEMÁTICA PREVISTA NO CÓDIGO DE PROCESSO CIVIL - IRRECORRIBILIDADE - PRECEDENTES DO STJ.
+INSURGÊNCIA DOS MUTUÁRIOS.
+1. Nos estreitos lindes do artigo 1.022, do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator. Impedido o Sr. Ministro Antonio Carlos Ferreira (Presidente). Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de embargos de declaração opostos por [NOME] e OUTRA, em face de acórdão deste órgão fracionário (fl. 2315, e-STJ), o qual não conheceu do agravo interno por eles interposto.
+O respectivo acórdão restou sintetizado nos seguintes termos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA QUE DETERMINOU O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM - MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA NO STF.
+INSURGÊNCIA DOS AUTORES.
+1. O reconhecimento de repercussão geral acerca da tese apresentada no mencionado recurso orienta o sobrestamento do feito e atrai a incidência do preceituado nos artigos 1.036 e 1.037, II, do CPC/15, face ao possível juízo de retratação pela instância de origem. Precedentes.
+2. Agravo interno desprovido.
+Os embargantes almejam o provimento do recurso por eles interposto, a fim de que seja restabelecida a tramitação do presente feito, nos termos das Questões de Ordem decididas nos autos dos Recursos Especiais 1.202.071/SP e 1.292.976/SP.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - MATÉRIA SUBMETIDA AO RITO DA REPERCUSSÃO GERAL NO STF - DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM - OBEDIÊNCIA À SISTEMÁTICA PREVISTA NO CÓDIGO DE PROCESSO CIVIL - IRRECORRIBILIDADE - PRECEDENTES DO STJ.
+INSURGÊNCIA DOS MUTUÁRIOS.
+1. Nos estreitos lindes do artigo 1.022, do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+1. Com efeito, verifica-se que os embargantes almejam, com os presentes embargos de declaração, a concessão de efeitos infringentes ao julgado, a fim de que o feito retome seu trâmite, não obstante o cerne da questão controvertida ser objeto de análise do Supremo Tribunal Federal, nos autos do Recurso Extraordinário 827.996/PR.
+2. Não merece guarida a insurgência.
+Os embargos de declaração, nos termos do artigo 1.022 do CPC/15, têm cabimento somente nas hipóteses de omissão, contradição, obscuridade ou erro material identificados na decisão questionada.
+Esse não é o caso das alegações trazidas pelos embargantes, que revelam, na verdade, inconformismo com o resultado do julgamento, e não qualquer dos vícios autorizadores da oposição dos aclaratórios. Não há, portanto, infringência ao art. 1.022 do CPC/15, em razão da suficiente fundamentação exarada no aresto embargado, que enfrentou expressamente a matéria ora debatida, nos seguintes termos: (fls. 2322/2324, e-STJ):
+1. Como restou anteriormente asseverado na decisão de fls. 2260/2263 (e-STJ), o Supremo Tribunal Federal reconheceu a repercussão geral da questão em debate, qual seja: a existência de interesse jurídico da Caixa Econômica Federal para ingressar como parte nas ações envolvendo seguro de mútuo habitacional no âmbito do Sistema Financeiro de Habitação (RE 827.996/PR, Plenário Virtual, 5/10/2018 - Tema 1.011/STF).
+Nesse sentido, o Superior Tribunal de Justiça tem adotado o entendimento de que o sobrestamento também deve ser ordenado nas hipóteses em que a controvérsia em discussão teve a repercussão geral reconhecida pelo Supremo Tribunal Federal. Confira-se, a propósito, o julgamento do AgInt no AgInt no REsp 1.603.061/SC, no qual esta Corte Superior firmou a orientação de que, "podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte" (AgInt no AgInt no REsp 1603061/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 28/06/2017).
+A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. POTENCIAL COMPROMETIMENTO DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS - FCVS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA NO STF. RE 827.996/PR. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O presente recurso versa sobre a existência de interesse jurídico da Caixa Econômica Federal - CEF para ingressar na lide que busca cobertura securitária baseada em contrato de financiamento amparado pelo Sistema Financeiro da Habitação e em que haja potencial comprometimento do Fundo de Compensação de Variacões Salariais - FCVS, questão que teve reconhecida a sua repercussão geral pelo Plenário Virtual do Supremo Tribunal Federal, nos autos do Recurso Extraordinário 827.996/PR.
+2. Como a questão controvertida nestes autos diz respeito a tema cuja repercussão geral foi reconhecida pelo STF, o julgamento imediato do Recurso Especial seria prematuro e temerário, uma vez que eventuais decisões dissonantes entre a Corte Constitucional e este Tribunal Superior gerariam insegurança jurídica e não observariam a economia processual.
+3. De acordo com os arts. 1.039, 1.040 e 1.041, do CPC/2015, que dispõem sobre a atuação do Tribunal de origem após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos, há a previsão da negativa de seguimento dos recursos, da retratação do órgão colegiado para alinhamento das teses ou, ainda, a manutenção do acórdão divergente, com a remessa dos recursos aos Tribunais correspondentes.
+4. Nesse panorama, cabe ao Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.
+Precedentes.
+5. Deve ser determinada, portanto, a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão do respectivo recurso extraordinário representativo da controvérsia: a) na hipótese da decisão recorrida coincidir com a orientação do Supremo Tribunal Federal, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação do Supremo Tribunal Federal, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça. Nesse mesmo sentido: AREsp 1211536/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 17/09/2018.
+6. Agravo interno provido para determinar a devolução dos autos ao Tribunal de origem.
+(AgInt no REsp 1640153/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. REPERCUSSÃO GERAL DO TEMA RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (RE 827.996/PR). DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM.
+(AgInt no AREsp 826.653/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+Concluindo, cumpre ainda destacar que a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que o recurso sobrestado na forma dos arts. 543-B, § 3º, e 543-C, § 7º, do CPC/73 (atual art. 1040 e seguintes do CPC/15) não é capaz de gerar nenhum prejuízo às partes, razão pela qual é irrecorrível. Nesse diapasão: AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro Og Fernandes, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1.666.877/SE, Rel. Ministro Marco Aurélio Bellizze, TERCEIRA TURMA, DJe 04/09/2017; e AgInt no AREsp 920.593/RJ, Rel. Ministra Regina Helena Costa, PRIMEIRA TURMA, DJe 02/08/2017, dentre outros.
+Desse modo, a pretensão deduzida nos presentes embargos de declaração tem caráter infringente e não merece ser acolhida.
+3. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
