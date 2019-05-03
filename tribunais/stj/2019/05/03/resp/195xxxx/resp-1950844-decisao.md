@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (fls. 143):
+EMENTA: PROCESSUAL CIVIL. BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. IMPUGNAÇÃO DO DEFERIMENTO COM BASE APENAS NA NATUREZA DO CARGO PÚBLICO OCUPADO PELA REQUERENTE. DESCABIMENTO.
+1.0 artigo 4º, da Lei nº 1.060/50, com a redação dada pela Lei nº 7.510/86, autoriza a concessão dos benefícios da assistência judiciária, mediante simples afirmação da parte de" que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou de sua família.
+2. A natureza do cargo público ocupado por quem requer o benefício não justifica, de per si, o seu indeferimento. Precedente do C. STJ (REsp 1233077/MA, 2a T Relator Ministro Mauro Campbell Marques, julg. 03/05/2011, DJe 09/05/2011).
+3. O afastamento do benefício legal somente pode ocorrer quando os elementos fáticos do processo, independentemente da natureza do cargo do postulante, afaste a presunção relativa de pobreza, o que não se verifica na espécie.
+4. O art. 5o, inciso LXXIV, da CF/88 assegura assistência judiciária integral e gratuita aos que comprovarem insuficiência de recurso. Precedentes, do Tribunal. Exclusão da sucumbência mantida.
+5. Apelação improvida.
+Na origem, trata-se de embargos à execução ofertados pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA-INCRA, apontando excesso de execução.
+Os mencionados embargos foram julgados procedentes, deixando, todavia, de condenar a embargada ao pagamento de honorários advocatícios de sucumbência em virtude da concessão do benefício da assistência judiciária gratuita.
+Naquela decisão, tendo como pano de fundo as circunstâncias fáticas que norteiam o caso em comento, foi decidido pelo improvimento recursal, eis que não há razões para o afastamento do benefício.
+Os embargos de declaração interpostos foram improvidos (fls. 150-155).
+No recurso especial, a Fundação Nacional de Saúde-FUNASA aponta violação do art. 98, §5º, do CPC.
+Sustenta, em síntese, que o Tribunal a quo, ao conceder o benefício da assistência judiciária gratuita em prol do agravado, servidor público, que possui renda mensal superior à R$ 11.000,00, teria contrariado o art. 98, §5º, do CPC.
+Não foram apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 170).
+O recurso especial foi inadmitido com base na ilegitimidade passiva recursal, já que os embargos à execução foram ajuizados pelo INCRA e não pela FUNASA.
+No presente agravo, o INCRA reconheceu o equívoco recursal, no entanto, considera que o Tribunal de origem, em atenção ao princípio da primazia da decisão de mérito, deveria ter dado prazo razoável para sanar o vício de legitimidade ao invés de inadmitir o pleito recursal.
+O Ministério Público opinou pelo desprovimento recursal, nos termos do parecer de fls. 188-191.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Ainda sob a égide do CPC de 1973, esta Corte já decidia que, em atenção ao princípio da instrumentalidade das formas, deve ser oportunizada à parte a correção do vício sanável antes de se extinguir o processo.
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE INDENIZAÇÃO. APELAÇÃO EM FOTOCÓPIA. FALTA DE ASSINATURA ORIGINAL NAS RAZÕES RECURSAIS DO APELO MANEJADO NA INSTÂNCIA ORDINÁRIA. VÍCIO SANÁVEL. PRECEDENTES DO STJ. RECURSO ESPECIAL PROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Na espécie, a única solução plausível para o caso delineado, já que o recurso especial foi manejado sob a égide do CPC/73, e que está em perfeita sintonia com os princípios da economia processual, instrumentalidade do processo e da primazia do julgamento do mérito, é a de que tratando-se de vício sanável, a teor do disposto no art. 13 do Código de Processo Civil, deve ser franqueado à parte prazo razoável para suprir o defeito relativo à falta de assinatura de recurso interposto nas instâncias ordinárias (AgRg no REsp nº 1.373.634/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 8/9/2014).
+3. Sendo incontroverso o quadro fático, aplica-se o direito à espécie, nos termos da Súmula nº 456 do STF, por analogia.
+4. Recurso especial provido.
+(REsp 1746047/PA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/08/2018, DJe 31/08/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE IRREGULARIDADES. PETIÇÃO DO RECURSO ESPECIAL, NA INSTÂNCIA ORDINÁRIA, SEM ASSINATURA. VÍCIO SANÁVEL. INTIMAÇÃO DA PARTE PARA REGULARIZAÇÃO. PRECEDENTES.
+1. Inocorrência de irregularidades no acórdão quando a matéria que serviu de base à oposição do recurso foi devidamente apreciada, com fundamentos claros e nítidos, enfrentando as questões suscitadas ao longo da instrução, tudo em perfeita consonância com os ditames da legislação e jurisprudência consolidada. Ao julgador cumpre apreciar o tema de acordo com o que reputar atinente à lide. As funções dos embargos de declaração, por sua vez, são, somente, afastar do acórdão qualquer omissão necessária para a solução da lide, não permitir a obscuridade por acaso identificada e extinguir qualquer contradição entre premissa argumentada e conclusão.
+2. A jurisprudência do Superior Tribunal de Justiça é remansosa no sentido de que o recurso interposto, na Instância ordinária, sem assinatura do advogado, não é inexistente, constituindo-se vício sanável, posto que, em face do princípio da instrumentalidade processual, deve-se intimar a parte para sanar tal irregularidade. Precedentes das 1ª, 3ª, 4ª e 5ª Turmas desta Corte.
+3. O recurso especial foi inadmitido em face de o procurador do recorrente não ter assinado a petição recursal. Nas razões do agravo de instrumento, o agravante teceu argumentos acerca da necessidade de intimação para regularização da representação processual, apesar de afirmar que, quando da formação do agravo de instrumento, juntou o instrumento de substabelecimento procuratório. A decisão embargada examinou exatamente as razões do agravo concomitantemente com o despacho que inadmitiu o Especial. Se houve a regularização indicada, a mesma há de ser feita no Tribunal a quo, e não nesta Casa, visto que é aquela Corte Regional competente para realizar o primeiro juízo de admissibilidade do apelo especial, o que não foi feito.
+4. Enfrentamento de todos os pontos necessários ao julgamento da causa.
+5. Embargos rejeitados.
+(EDcl no Ag 613.684/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 03/02/2005, DJ 21/03/2005, p. 242)
+Mutatis mutandis, aplicável, ao caso, o comando normativo contido no art. 932, parágrafo único, do CPC, in verbis:
+Art. 932. Incumbe ao relator:
+(..)
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, determinando-se o retorno dos autos ao Tribunal de origem para que, em atenção ao art. 932, parágrafo único, do CPC, oportunize ao agravante a possibilidade sanar o vício de ilegitimidade recursal.
+Publique-se. Intimem-se.
