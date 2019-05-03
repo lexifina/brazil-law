@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 138):
+AGRAVO DE INSTRUMENTO. AÇÃO DE DESAPROPRIAÇÃO. DISCUSSÃO SOBRE O DOMÍNIO. VERBA HONORÁRIA. Tendo em vista que a verba honorária é direito autônomo pertencente ao advogado, não há como se obstar o pagamento da referida verba em ação de desapropriação, ante posterior discussão dominial em outra ação.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 158/162).
+A parte recorrente aponta divergência jurisprudencial e violação aos arts. 92 do Código Civil; 20, 475, I, e 535, II, do CPC/73; e 21 a 23 do Estatuto da OAB, bem como ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Sustenta, em resumo: (I) a impossibilidade de se prosseguir na execução de honorários advocatícios arbitrados em ação de desapropriação enquanto pendente resolução acerca da titularidade do domínio do imóvel, uma vez que o acessório deve seguir o principal, e (II) subsidiariamente, aduz que a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se que a insurgência merece acolhida.
+Quanto à matéria de fundo trazida à discussão, cabe destacar o seguinte trecho do acórdão recorrido (fls. 136/137):
+O INCRA foi condenado, em sentença, ao pagamento de indenização a título de terra nua e benfeitorias em favor da Indústria Pantaleão Hoffmann S/A e cm favor de [NOME] e sua esposa.
+Após a sentença, o Incra requereu a suspensão do levantamento da indenização, tendo em vista a disputa pelo domínio da área desapropriada nos autos de Usucapião 597/86.
+A sentença nos autos da Desapropriação foi reformada em sede de apelação, com trânsito em julgado cm 11/11/97. As partes executaram a decisão, tendo o INCRA ajuizado dois embargos à execução, ambos com decisão passada em julgado.
+ ..
+Em que pese o fato de que a questão acerca do domínio sobre a área expropriada ainda esteja pendente de julgamento definitivo na Ação de Usucapião, na Ação de Desapropriação houve a devida prestação do serviço pelo advogado da parte contrária, culminando na execução de valor a título de indenização de terra nua e benfeitorias. Assim, pelo trabalho prestado na ação expropriatória, em que se chegou a um valor a ser indenizado, mesmo que haja dúvida acerca de quem deve receber esse valor, deve ser preservado o direito do advogado de executar os honorários advocatícios de sucumbência.
+Denota-se, pois, que ao decidir pelo prosseguimento da ação executiva de honorários sucumbenciais, a despeito de estar pendente discussão acerca do domínio do imóvel que é objeto da ação desapropriatória na qual foi fixada a verba honorária, dissentiu de entendimento firmado no âmbito deste Sodalício, consubstanciado na ementa do seguinte julgado:
+PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. DESAPROPRIAÇÃO. SUSPENSÃO DO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. SÚMULA 168/STJ.
+1. O acórdão embargado está no mesmo sentido da jurisprudência pacífica desta Corte, qual seja, "é possível determinar a suspensão do pagamento de honorários advocatícios sucumbenciais fixados em ação de desapropriação nos casos em que se discute o domínio do imóvel litigioso em sede de ação civil pública, tendo em vista a impossibilidade de desvinculação do resultado das demandas para fins de determinação dos ônus sucumbenciais".
+2. Precedentes: AgInt nos EREsp 461.765/PR, Rel. Min. Gurgel de Faria, Primeira Seção, julgado em 13/9/2017, DJe 14/11/2017; EREsp 650.246/PR, Rel. Min. Cesar Asfor Rocha, Primeira Seção, julgado em 9/11/2011, DJe 2/12/2011; AgRg no REsp 1.525.419/RS, Rel. Min. Humberto Martins, Segunda Turma, julgado em 24/11/2015, DJe 1º/12/2015; REsp 1.259.968/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 17/11/2011, DJe 28/11/2011.
+ ..
+Agravo interno improvido.
+(AgInt nos EREsp 1.534.716/PR, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/8/2018, DJe 22/8/2018)
+No mesmo sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. SUSPENSÃO DO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. DOMÍNIO DO IMÓVEL LITIGIOSO (FAIXA DE FRONTEIRA) DISCUTIDO EM AÇÃO CIVIL PÚBLICA.
+1. De acordo com a jurisprudência desta Corte, nos casos em que se discute o domínio do imóvel litigioso em sede de Ação Civil Pública, é possível determinar a suspensão do pagamento de honorários advocatícios sucumbenciais fixados em Ação de Desapropriação, tendo em vista a impossibilidade de desvinculação do resultado das demandas para fins de determinação dos ônus sucumbenciais.
+Precedentes.
+2. Recurso especial provido.
+(REsp 1.061.184/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 05/08/2015)
+Dessarte, tendo o acórdão recorrido dissentido da jurisprudência deste Superior Tribunal de Justiça, afigura-se necessária a sua reforma, ficando prejudicada a análise do pedido subsidiário firmado na petição recursal.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar a suspensão da execução dos honorários advocatícios enquanto perdurar a suspensão da ação principal.
+Publique-se.
