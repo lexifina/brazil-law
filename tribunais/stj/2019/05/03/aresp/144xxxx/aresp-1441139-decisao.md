@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de indenização por danos materiais cumulada com pedido de compensação por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa parte, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por GHISOLFI LOGISTICA E TRANSPORTE LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e/ou "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/10/2018.
+Concluso ao gabinete em: 29/04/2019.
+Ação: de indenização por danos materiais cumulada com pedido de compensação por danos morais ajuizada por LAUDECI PEREIRA BELCHIOR em face da agravante, devido ao acidente de trânsito, no qual faleceu o condutor do veículo da empresa e o autor sofreu lesões corporais.
+Nesse contexto, a parte agravada relata que o abalroamento foi avassalador, sendo que o motorista do automóvel da empresa faleceu no local. Alega que foi socorrido na rodovia, onde ficou mais de duas horas preso entre as ferragens, foi conduzido ao hospital com traumatismos múltiplos, lesões corporais múltiplas e fraturas múltiplas, principalmente na face, com perda óssea e de vários dentes, ficando internado de 26/09/2011 até 05/11/2011.
+Sentença: julgou parcialmente procedentes os pedidos, resolvendo o mérito nos termos do art. 487, inciso I, do Código de Processo Civil, para condenar a ora agravante a: 1) promover os tratamentos buco-maxilar, com custo estimado de R$ 84.000,00, e fisioterápico do autor, além de reembolsar os gastos comprovadamente feitos com compra de medicamentos; 2) pagar ao demandante R$ 18.740,00, a título de compensação por danos morais.
+Face à sucumbência mínima do requerente, a demandada pagará as custas judiciais e despesas processuais, bem assim honorários advocatícios arbitrados, com base no art. 85, § 2º do CPC, em 10% do valor da condenação.
+Acórdão: deu parcial provimento ao recurso interposto pelo agravado para majorar o valor da compensação por danos morais para trinta e cinco mil reais, e também o percentual referente aos honorários advocatícios para 15%, e negou provimento ao recurso interposto pela agravante, conforme a seguinte ementa:
+Apelação - Acidente de Trânsito.
+Não se há de falar em nulidade da sentença se esta foi devidamente fundamentada e está dotada dos demais requisitos legais para sua validade  Havendo a obrigação de reparação do dano, o qual foi comprovado, mas tendo o valor devido sido meramente estimado, a apuração correta será realizada na fase processual adequada - O dano moral é evidente, em razão de um acidente gravíssimo,com diversas conseqüências físicas e estéticas - A quantificação do dano moral deve pautar-se pela razoabilidade - Os honorários advocatícios devem ser fixados conforme ao trabalho desenvolvido pelo advogado da parte vencedora e o tempo dispensado à causa.
+Apelação do autor provida em parte.Apelação da ré desprovida.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 86, 489, 491 e 492 do CPC/15, 186 e 927 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: a) há nos autos prova pericial que informa o valor do tratamento, assim, não haveria necessidade de apuração do montante devido por liquidação; b) o valor do tratamento é de R$ 2.000,00 (dois mil reais), conforme demonstrado nos autos; c) a decisão, na presente hipótese, deveria decidir desde logo a extensão da obrigação com base no valor líquido apresentado pela perícia realizada; d) "o N.CPC melhorou a antiga forma processual de cumprimento da sentença, pois agora esta obrigação pode (e de fato deve) ser resolvida nos mesmos autos, e atribuí ao Magistrado o poder de solução definitiva da lide (efetividade da jurisdição) dentro do mesmo processo, em fase de cumprimento ao resultado prático equivalente, pois se trata de direitos patrimoniais"; e) o valor arbitrado a título de dano moral não respeitou os princípios da razoabilidade e proporcionalidade; e f) tendo em vista que o valor dado a causa foi de R$ 2.084.000,00 (dois milhões e oitenta e quatro mil reais) e o decidido pelo Tribunal de origem, a sucumbência deveria ser redistribuída.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 86, 491 e 492 do CPC/15, 186 e 927 do CC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à análise dos documentos acostados aos autos, especialmente, o laudo pericial, quanto às condutas das partes, no que concerne ao dano comprovado, a respeito dos tratamentos médicos e odontológicos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
