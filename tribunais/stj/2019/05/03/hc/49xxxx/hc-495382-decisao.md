@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIO CESAR FERREIRA MARINHO apontando como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso (HC n. 1013973-95.2018.8.11.0000).
+Consta dos autos que o paciente foi denunciado por infração dos arts. 299 e 304, ambos do Código Penal, pois "fez uso de um RG e de um CPF falsificados, bem como inseriu ou fez inserir, em documento público, qual seja, sua Carteira Nacional de Habilitação (CNH), declaração falsa ou diversa da que devia ser escrita, consistente em seus reais dados pessoais, com o fim de criar obrigação ou alterar a verdade sobre fato juridicamente relevante" (e-STJ fl. 45)
+Impetrado habeas corpus na origem, no qual alegava-se nulidade do processo ante a ausência de fundamentação da decisão que recebeu a denúncia, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 85):
+HABEAS CORPUS - FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO - ALEGADA A AUSÊNCIA DE ANÁLISE DE TESES FORMULADAS PELA DEFESA NA RESPOSTA À ACUSAÇÃO - IMPROCEDÊNCIA - DECISÃO QUE SE ATEVE À ANÁLISE DE CIRCUNSTÂNCIAS PRÓPRIAS DO MOMENTO PROCESSUAL - TESES DE DEFESA IMPLICITAMENTE REFUTADAS COM A DECISÃO DE RECEBIMENTO DA DENÚNCIA - NULIDADE PERSEGUIDA MAIS DE UM ANO APÓS A DECISÃO IMPUGNADA E COM A FASE PROCESSUAL SUBSEQUENTE JÁ ENCERRADA - ORDEM DENEGADA.
+Consoante a jurisprudência do egrégio Superior Tribunal de Justiça, não é necessário que o julgador rebata exaustivamente todas as alegações da defesa, para concluir pela procedibilidade da ação penal, bastando a verificação de indícios mínimos de autoria e
+prova da materialidade delitiva.
+Se a defesa aguardou mais de um ano para vindicar o reconhecimento de uma nulidade, com a fase processual subsequente já encerrada, preclusa está a matéria.
+No presente writ, a defesa sustenta ausência de fundamentação da decisão de recebimento da denúncia, argumentando que há omissão quanto a teses apresentadas na defesa preliminar.
+Requer, liminarmente, possa o paciente aguardar em liberdade o julgamento do presente writ e, no mérito, pede "a ANULAÇÃO de referida ação penal desde a apresentação da resposta à acusação pelo paciente, determinando-se que o MM. Juiz de Direito analise-as e, se o caso, absolva-o sumaria e relativamente aos tipos dos artigos 307 e 157, ambos do CP, na forma do disposto no art. 397, e dê prosseguimento ao feito, com decisão fundamentada, nos termos do art. 397, ambos do Código de Processo Penal" (e-STJ fls. 12/13).
+A liminar foi indeferida às e-STJ fls. 88/90.
+O pedido de reconsideração foi indeferido às e-STJ fls. 109/110.
+Informações prestadas (e-STJ fls. 112/117 e 120/124).
+O Ministério Público Federal, às e-STJ fls. 126/129, manifestou-se pela prejudicialidade do habeas corpus.
+É o relatório.
+De fato, o writ está prejudicado.
+Com efeito, consoante bem asseverado no parecer ministerial, "Depreende-se das informações prestadas pelo Juízo de Direito da Segunda Vara Criminal da Comarca de Canarana/MT, acostadas às fls. 122/124, haver sido proferida sentença nos autos da Ação Penal nº 658-62.2017.811.0029, absolvendo o réu JÚLIO CÉSAR FERREIRA MARINHO da prática dos delitos de uso de documento falso e falsidade ideológica levados a cabo em 2006, pelo advento da prescrição da pretensão punitiva estatal, condenando-o, por outro lado, à pena privativa de liberdade de 04 (quatro) anos e 01 (um) mês de reclusão, em regime fechado, pelo cometimento, naquele mesmo ano, do crime capitulado no art. 304 do Código Repressivo" (e-STJ fl. 128).
+Nesse sentido, assevere-se que "A jurisprudência desta Corte Superior é firme quanto ao entendimento de que os pleitos de trancamento da persecução penal ou de nulidade da decisão que recebe ou ratifica o recebimento da exordial acusatória ficam prejudicados quando já há, como no caso concreto, sentença prolatada na origem", como na espécie (AgRg no RHC 45.301/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
