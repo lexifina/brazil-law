@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de São Paulo, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO  EXECUÇÃO FISCAL  MULTA Exercício de 1.999 Crédito não tributário  Decreto 20.910/32  Proferido o despacho que ordenou a citação, transcorreram mais de dois anos e meio até a prolação da decisão recorrida, sem andamento no feito - Prescrição intercorrente consumada  Recurso desprovido.
+Na origem, foi ajuizada execução fiscal visando à satisfação do crédito de R$ 2.208,91, em maio de 2000 (fl. 2), a título de multa administrativa decorrente de infração às normas municipais de posturas gerais, tendo sido o feito executivo extinto em razão da ocorrência da prescrição intercorrente, sob o fundamento de que até a citação do devedor restou transcorrido o prazo prescricional, tendo sido afastada a imputação da demora ao serviço do Poder Judiciário, a teor do Enunciado Sumular n. 106/STJ.
+Interposta apelação pelo Município, ora recorrente, o Tribunal de origem negou-lhe provimento, tendo em consideração a consumação da prescrição intercorrente (art. 9º, do Decreto-Lei n. 20.910/1932), ante o transcurso do lapso de dois anos e meio, ou seja, a metade do prazo integral de cinco anos ininterruptos, desde o despacho citatório em junho/2000 até a prolação da sentença em 22 de março de 2011 (fls. 77/78).
+No recurso especial, o recorrente aponta a violação dos arts. 177, 178, 179 e 205, do CC/1916; 4º do Decreto-Lei n. 4657/1942; 126, 127, 219, 240, § 3º, do CPC/2015; bem assim 8º, § 2º, da Lei nº 6.830/1980, aduzindo, em resumo, que o Tribunal de origem deveria ter afastado a prescrição, no caso, considerando que o despacho citatório interrompe a prescrição e que a demora para efetivar a citação ocorreu em virtude unicamente dos mecanismos do Judiciário, a teor do Enunciado Sumular n. 106/STJ.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base no Enunciado Sumular n. 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta seguimento.
+A irresignação do recorrente, acerca da alegada responsabilidade exclusiva do Poder Judiciário na ocorrência do transcurso do prazo prescricional, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que o transcurso do prazo prescricional quinquenal não teve responsabilidade do serviço do Poder Judiciário, tendo sido afastada a aplicação do Enunciado Sumular n. 106/STJ .
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+No mesmo sentido, destaca-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. DEMORA NA CITAÇÃO. PRESCRIÇÃO. AUSÊNCIA DE OMISSÃO. ART. 535 DO CPC. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. O Tribunal local, soberano na análise dos fatos e das provas, consignou: "Finalmente, não sendo a demora na citação nem a paralisação do processo decorrente de causa atribuída, exclusivamente, ao mecanismo do Judiciário, certamente, a prescrição consumou-se, não havendo como se falar, na espécie, em aplicação da Súmula nº 106 do Superior Tribunal de Justiça".
+3. No caso dos autos, o Tribunal a quo atestou que se passaram cinco anos desde a constituição definitiva do crédito tributário, sem que houvesse a citação, e que essa demora não pode ser imputada ao mecanismo judiciário. Nessa perspectiva, não há como afastar a prescrição sem esbarrar no óbice da Súmula 7 do STJ.
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp n. 1.509.335/AP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2015, DJe 31/3/2015.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
