@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 518/523) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial interposto pelos embargantes (e-STJ fls. 509/514).
+A parte embargante aponta que a decisão embargada foi omissa e contrária ao art. 489, § 1º, III, do CPC/2015, porque se limitou a reiterar a fundamentação da decisão de admissibilidade que inadmitiu o seu recurso especial.
+Acrescenta que "em seu agravo, os recorrentes demonstraram que a decisão que afirmou a ausência de cotejo analítico estava em descompasso com a realidade dos autos, posto que os ora embargantes cumpriram tal requisito recursal" (e-STJ fl. 519).
+Nesse contexto, defende que seja "considerado o tópico recursal quanto ao cotejo analítico como não atacado na decisão aqui embargada" (e-STJ fls. 522/523).
+Não foi apresentada impugnação (e-STJ fl. 527).
+É o relatório.
+Decido.
+No agravo nos próprios autos (e-STJ, fls. 492/499), os ora embargantes defendem que há a comparação analítica entre os acórdãos confrontados, e, para supostamente comprovar essa alegação, transcreveram excerto do capítulo "III.4" das razões do recurso especial (e-STJ, fl. 498/499). Os trechos transcritos encontram-se às fls. 472/474 dos autos (e-STJ).
+Contudo, o fato é que os recorrentes limitaram-se à transcrição de dois itens da ementa do mesmo aresto (paradigma), o que não é suficiente para demonstrar que os julgados têm conclusões jurídicas diversas, embora tenham tratado de questões relativas à mesma base fática.
+Ora, como esclarece a decisão embargada, " o  conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015)" (e-STJ, fl. 513). Para tanto, ainda segundo a decisão embargada, exige-se "(..) a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (AgInt no REsp n. 1.444.474/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017)" (e-STJ, fl. 514).
+A mera transcrição de itens da ementa do mesmo julgado, evidentemente, não demonstra o conflito pretoriano. Portanto, não há omissão da decisão embargada, que expressa fundamentação suficiente e clara no sentido da inaptidão das razões recursais nesse particular.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
