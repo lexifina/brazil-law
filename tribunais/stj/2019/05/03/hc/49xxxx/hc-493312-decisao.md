@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIANA TEIXEIRA COUTINHO, - presa em flagrante delito, posteriormente convertida em prisão preventiva, pela suposta prática do crime de tráfico de drogas, previsto no caput do artigo 33 da Lei n. 11.343/2006 - contra decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.19.013765-3/000) que indeferiu o pedido de liminar (e-STJ fls. 48/50).
+Na presente impetração, a defesa alega, em síntese, que não haveria motivos para a segregação cautelar da paciente, visto que a decisão que decretou a prisão preventiva da paciente carece de fundamentação inidônea, não considerando o fato de a mesma possuir dois filhos menores de 12 anos, sendo que um deles apresenta complicações oriundas de uma meningite, necessitando de cuidados especiais.
+Levanta também o fato de que o STF já determinou que houvesse a substituição da prisão preventiva de mulheres presas em todo território nacional, que sejam gestantes ou mães de crianças de até 12 anos, sem prejuízo da aplicação das medidas alternativas previstas no artigo 319 do CPP.
+Em seguida, destaca que há a Lei federal n. 13.257, de março de 2016, que alterou artigos do CPP, possibilitando que mulheres com filhos de até 12 anos de idade e que ainda não foram condenadas pela Justiça, possam requerer a substituição da prisão preventiva por prisão domiciliar.
+Sublinha o fato de que a ré é primária, ostenta bons antecedentes e tem residência fixa, portanto sua liberdade não colocaria em risco a ordem pública ou a aplicação da lei penal. Portanto, sustenta que a paciente certamente fará jus ao privilégio do § 4º do art. 33 da já mencionada Lei de Drogas.
+Diante disso, alegando que a manutenção da prisão preventiva é desproporcional, a defesa requer o deferimento liminar da ordem para que a paciente seja colocada em liberdade, superando a súmula 691 do STF, ou então para que haja a alteração, de prisão preventiva para prisão domiciliar, até o julgamento do presente writ.
+Deferida a liminar (e-STJ fls. 54/62) e prestadas as informações (e-STJ fls. 67/70 e 73/193), o Ministério Público Federal manifestou-se pela prejudicialidade do mandamus (e-STJ fls. 195/197).
+É o relatório. Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, a 6ª Câmara Criminal daquela Corte, em 19/3/2019, ao julgar o mérito do writ originário, concedeu a ordem, para revogar a prisão preventiva da paciente.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Publique-se. Intimem-se.
