@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, interposto em favor de WAGNER VIEIRA DO NASCIMENTO, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o paciente foi preso preventivamente e condenado, em primeiro grau, à pena de 10 anos de reclusão, pela prática do crime de tráfico de drogas (fls. 3-26).
+O eg. Tribunal de origem, de ofício, reformou a sentença para redimensionar a pena imposta ao paciente para 6 (seis) anos de reclusão, em regime inicial fechado, conforme v. acórdão de fls. 27-58.
+A defesa, então, opôs embargos declaratórios, o qual foi parcialmente provido, contudo, o feito aguarda julgamento de embargos infringentes opostos por corréu, o que constitui óbice para que a defesa maneje outras medidas processuais, configurando excesso de prazo, segundo se alega.
+Daí o presente habeas corpus, no qual o impetrante insurge-se contra o excesso de prazo para julgamento do recurso de embargos infringentes, o que, segundo alega, é impeditivo para a interposição de recurso especial.
+Requer a concessão da ordem para relaxar a prisão preventiva do paciente.
+O pedido liminar foi indeferido (fls. 97-98).
+Informações prestadas às fls. 102-106 e 107-111.
+O Ministério Público Federal manifestou-se às fls. 114-115, pela denegação da ordem, nos termos do parecer com a seguinte ementa:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA O JULGAMENTO DOS EMBARGOS INFRINGENTES. INOCORRÊNCIA. PELA DENEGAÇÃO."
+É o relatório.
+Decido.
+No tocante ao alegado excesso de prazo no julgamento do seu recurso de embargos infringentes e consequente prolongamento da prisão preventiva, é firme o entendimento desta Corte, no sentido de que eventual demora para a apreciação de recursos não configura excesso de prazo, posto que os prazos processuais não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para defini-lo, não se ponderando mera soma aritmética de tempo para os atos processuais.
+A propósito, esta eg. Corte, de longa data, já firmou jurisprudência no sentido de considerar o juízo de razoabilidade para constatar possível constrangimento ilegal no prazo de constrição ao exercício do direito de liberdade.
+Ilustrativamente:
+"HABEAS CORPUS. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. TRAMITE REGULAR. AUSÊNCIA DE ILEGALIDADE.
+1. Não constatada demora injustificada no julgamento da apelação, que segue tramite regular, dentro de prazos que não desbordam da razoabilidade, não há que se falar em constrangimento ilegal por excesso de prazo.
+2. Ordem denegada" (HC 301.646/MT, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 21/10/2014).
+Na hipótese, verifica-se que o feito envolve crime de elevada gravidade praticado por 4 réus, que foram condenados em primeiro grau, envolvendo, assim, julgamento de vários recursos de apelação, além de embargos de declaração, e, por fim, embargos infringentes, o que denota o curso ordinário e normal para o feito.
+Ademais, em consulta ao sítio eletrônico do eg. Tribunal a quo, verifico pela movimentação processual que o processo encontra-se concluso ao relator do recurso desde o dia 05/04/2019, para estudo do processo. Ou seja, há menos de 30 (trinta) dias.
+Assim, faz-se necessário asseverar que o feito estaria seguindo seu trâmite regular, não se tendo qualquer notícia de fato que evidencie atraso injustificado ou desídia atribuível ao Poder Judiciário.
+No mesmo sentido, a jurisprudência desta Corte Superior sobre o tema:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RAZOABILIDADE. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme de que, na ausência de prazo legal para o julgamento do recurso de apelação criminal, a caracterização do excesso, apto a autorizar o relaxamento da prisão cautelar, deve ser analisado à luz do princípio da razoabilidade e da proporcionalidade, observando-se sobretudo a complexidade da causa, a atuação das partes, bem como a pena imposta.
+2. No caso, não se identifica o alegado constrangimento ilegal sustentado pela defesa, decorrente da mora na apreciação do apelo defensivo, pois o processo foi distribuído no Tribunal Regional Federal da 1ª Região em 15/12/2016 e, atualmente, está concluso para julgamento, com parecer ministerial. Ademais, ao ora agravante, preso cautelarmente no Brasil desde 2/6/2016, foi imposta a pena de 13 anos e 6 meses de reclusão, pelos delitos de tráfico de drogas e associação para o tráfico.
+3. Agravo regimental não provido" (AgRg no HC 413.751/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 23/10/2018).
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS. DIREITO DE RECORRER EM LIBERDADE. TRÁFICO DE DROGAS. NULIDADE. INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. FUNDAMENTAÇÃO CONCRETA. VIVÊNCIA DELITIVA. ILEGALIDADE. AUSÊNCIA. EXCESSO DE PRAZO. JULGAMENTO DE RECURSO DE APELAÇÃO. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURAÇÃO. HABEAS CORPUS DENEGADO.
+1. Esta Corte Superior entende que o ingresso em domicílio sem mandado exige fundadas razões de crime em desenvolvimento, mas na hipótese dos autos a esposa do paciente franqueou a entrada dos agentes públicos em sua residência.
+2. Apresentada fundamentação concreta, evidenciada no fato de que os sentenciados se dedicam a atividades criminosas e fazem do crime seu meio de vida, pois praticavam o comércio ilícito de drogas - por meses - em frente ao fórum do município, reiterando, assim, a conduta delitiva, não há ilegalidade no decreto prisional.
+3. Sabe-se que o prazo para a conclusão de julgamento de apelação não tem as características de fatalidade e de improrrogabilidade, sendo imprescindível exame com razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+4. Na espécie, o andamento do recurso encontra-se compatível, embora tenha sido necessária a remessa dos autos ao Juízo de origem, para o oferecimento de contrarrazões por parte do Ministério Público, não se tributando, pois, aos órgãos estatais indevida letargia.
+5. Ainda que o paciente esteja preso desde 16/11/2016, verifica-se que, no momento, a custódia cautelar não se revela desproporcional, tendo em vista que este possui aplicada pena de 15 anos, 10 meses e 24 dias de reclusão.
+6. Habeas corpus denegado, com a recomendação de celeridade no julgamento da apelação criminal n. 0002556-04.2016.8.26.0102/SP" (HC 453.095/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 16/10/2018).
+"HABEAS CORPUS. COMANDO DE ORGANIZAÇÃO CRIMINOSA ARMADA. NEGATIVA DO APELO EM LIBERDADE. RÉU QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO E FOI CONDENADO À PENA DE 9 ANOS E 26 DIAS DE RECLUSÃO, EM REGIME FECHADO. RÉU QUE POSSUI OUTROS REGISTROS CRIMINAIS. RISCO DE REITERAÇÃO. NECESSIDADE DE DESARTICULAR A ORGANIZAÇÃO CRIMINOSA. PERICULOSIDADE SOCIAL. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO PARA O JULGAMENTO DE APELAÇÃO. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+ ..
+6. O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória.
+7. No presente caso, o apelo defensivo interposto em 13/7/2018 ainda não foi enviado ao Tribunal pois aguarda a defesa do corréu César apresentar suas razões de apelação, a qual já foi intimada quatro vezes, mas quedou-se inerte. Nesse contexto, considerando os trâmites necessários, não se visualiza desídia que possa ser atribuída ao Judiciário, que justifique o relaxamento da prisão por excesso de prazo.
+8. Outrossim, considerando a pena total a que foi condenado o paciente - 9 anos e 26 dias de reclusão -, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o recorrente se encontra impedido de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+9. Habeas corpus não conhecido" (HC 466.786/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 26/10/2018, grifei).
+Assim, por ora, não há que se falar em excesso de prazo para julgamento do recurso.
+Ante o exposto, denego a ordem.
+P. e I.
