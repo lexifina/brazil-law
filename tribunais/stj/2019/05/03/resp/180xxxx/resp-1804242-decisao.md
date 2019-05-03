@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME] e outros, com fulcro na alínea "a" do permissivo constitucional, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DECISÃO DECLINATÓR1A DA COMPETÊNCIA. ART. 1.015 DO CPC. ROL TAXATIVO. INADMISSIBILIDADE.
+I- Inadmissível o agravo de instrumento, interposto de decisão que versa sobre competência, hipótese não prevista no rol taxativo do art. 1.015 do CPC.
+II- Agravo interno desprovido.
+Em suas razões recursais, os insurgentes alegam violação ao art. 1015, III, do NCPC, sustentando, em síntese, o cabimento de agravo de instrumento contra decisão declinatória de competência.
+Foram apresentadas contrarrazões às fls. 565-575.
+É o relatório.
+Passo a decidir.
+A irresignação prospera.
+Cumpre observar que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplicando-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Como relatado, os recorrentes afirmam que seria cabível o agravo de instrumento, pois a situação trazida nos autos, em interpretação extensiva do referido artigo, se enquadra na referida norma.
+Com efeito, o tema ora enfrentado já foi objeto de diversos debates neste Tribunal, tendo a eg. Corte Especial, no julgamento de recurso especial n. 1.704.520/MT, Rel. Ministra Nancy Andrighi, julgado em 05/12/2018, DJe 19/12/2018, adotado a teoria da "taxatividade mitigada".
+Esse julgamento foi registrado como "Tema Representativo n. 988", que possui a seguinte redação: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+No caso dos autos, com a devida venia, não laborou com o costumeiro acerto o eg. Tribunal a quo, quanto à interpretação do art. 1.015, III, do CPC/2015. Com efeito, a jurisprudência do eg. Superior Tribunal de Justiça é no sentido do cabimento do agravo de instrumento para impugnar decisão interlocutória que decide sobre competência. Nessa linha de intelecção, destaca-se:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. APLICAÇÃO IMEDIATA DAS NORMAS PROCESSUAIS. TEMPUS REGIT ACTUM. RECURSO CABÍVEL. ENUNCIADO ADMINISTRATIVO N. 1 DO STJ. EXCEÇÃO DE INCOMPETÊNCIA COM FUNDAMENTO NO CPC/1973. DECISÃO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO NÃO CONHECIDO PELA CORTE DE ORIGEM. DIREITO PROCESSUAL ADQUIRIDO. RECURSO CABÍVEL. NORMA PROCESSUAL DE REGÊNCIA. MARCO DE DEFINIÇÃO. PUBLICAÇÃO DA DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA DO INCISO III DO ART. 1.015 DO CPC/2015.
+1. É pacífico nesta Corte Superior o entendimento de que as normas de caráter processual têm aplicação imediata aos processos em curso, não podendo ser aplicadas retroativamente (tempus regit actum), tendo o princípio sido positivado no art. 14 do novo CPC, devendo-se respeitar, não obstante, o direito adquirido, o ato jurídico perfeito e a coisa julgada.
+2. No que toca ao recurso cabível e à forma de sua interposição, o STJ consolidou o entendimento de que, em regra, a lei regente é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Enunciado Administrativo n. 1 do STJ.
+3. No presente caso, os recorrentes opuseram exceção de incompetência com fundamento no Código revogado, tendo o incidente sido resolvido, de forma contrária à pretensão dos autores, já sob a égide do novo Código de Processo Civil, em seguida interposto agravo de instrumento não conhecido pelo Tribunal a quo.
+4. A publicação da decisão interlocutória que dirimir a exceptio será o marco de definição da norma processual de regência do recurso a ser interposto, evitando-se, assim, qualquer tipo de tumulto processual.
+5. Apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda.
+6. Recurso Especial provido."
+(REsp 1679909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe 01/02/2018 - grifou-se)
+Nesse cenário, conclui-se pelo provimento do recurso especial, para determinar o retorno dos autos ao eg. Tribunal de origem, para que continue no exame do agravo de instrumento interposto pela agravante.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para determinar o retorno dos autos ao eg. Tribunal de origem para, afastado o óbice do conhecimento referente ao art. 1.015 do CPC/2015, prossiga no julgamento do agravo de instrumento como entender de direito.
+Publique-se.
