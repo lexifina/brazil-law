@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por ESPÓLIO DE MANOEL ABEL PEREIRA DE ALMEIDA contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO INOMINADO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A APELAÇÃO, COM BASE NO ART. 557, CAPUT, DO CPC. SUMÁRIO. COBRANÇA DE COTAS CONDOMINIAIS. LOJA SITUADA EM ÁREA EXTERNA COM ACESSO pela VIA PÚBLICA. REVELIA. PRELIMINAR DE INÉPCIA DA INICIAL AFASTADA. PRESENÇA DE TODOS OS DOCUMENTOS NECESSÁRIOS À PROPOSITURA DA DEMANDA. UNIDADE REFERIDA NA CONVENÇÃO, A INFIRMAR A ALEGAÇÃO DE DESVINCULAÇÃO DO CONDOMÍNIO AUTOR. PREVISÃO EXPRESSA DE PARTICIPAÇÃO NO RATEIO DAS DESPESAS DE ADMINISTRAÇÃO E DE CONSERVAÇÃO. DESNECESSIDADE DE DEMONSTRAÇÃO DETALHADA DA ORIGEM DO| DÉBITO. QUESTÃO DE FATO, NÃO DISCUTIDA EM MOMENTO OPORTUNO, ABARCADA PELA PRESUNÇÃO DE VERACIDADE DO ART. 319, DO CPC. RECURSO CONHECIDO E DESPROVIDO. (e-STJ, fl. 192)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 212/216).
+Nas razões do recurso especial, a agravante alega violação aos artigos 283, 284, 319, 397 e 398 do Código de Processo Civil/73. Sustenta, em síntese, a) indeferimento da petição inicial, ante a falta de documentos essenciais à propositura da ação; b) "se o recorrido não ofereceu os elementos indispensáveis à propositura da ação a ensejar o indeferimento da inicial, não se podia também reputar verdadeiros os fatos afirmados pelo autor" (e-STJ, fl. 227) e c) "que somente em sede de Contra-Razões de Apelação recorrido anexou a escritura de convenção de condomínio aos arrepios dos artigos 397 e 398 do CPC" (e-STJ, 239).
+Contrarrazões apresentadas às fls. 251/255, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+De início, faz-se oportuno destacar que as matérias relacionadas aos artigos 397 e 398 do Código de Processo Civil/73 não foram enfrentadas pelo o eg. Tribunal de origem no julgamento da apelação. Opostos embargos de declaração, foram estes rejeitados sem que as teses neles invocadas tivessem sido devidamente enfrentadas, de modo a configurar a ausência de prequestionamento e, por consequência, dos dispositivos acima mencionados, apontados pela parte ora agravante como violados.
+A despeito de tais ocorrências, a parte agravante não alegou, nas razões do apelo nobre, ofensa ao art. 535 do CPC/73, razão pela a pretensão recursal não ultrapassa o óbice do enunciado sumular n. 211 do Superior Tribunal de Justiça, que dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO UNIPESSOAL ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+(..)
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2.1. Na hipótese, não foi apontada violação do artigo 535 do CPC/73, vigente à época, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+3. Agravo interno desprovido."
+(AgInt no AgRg no AREsp 221.387/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/10/2017, DJe 25/10/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+(..)
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017 - grifou-se)
+No que tange à alegação de indeferimento da inicial, ante a falta de documentos essenciais à propositura da ação, o Tribunal local manifestou-se nos seguintes termos:
+"Inicialmente, afasta-se a alegação de inépcia da inicial, eis que presentes todos os documentos necessários à propositura da demanda, quais sejam, a planilha de débito (fls. 12/14 e 85/87), a ata da assembléia que elegeu a síndica (fls.07/09), e os boletos de cobrança das cotas condominiais inadimplidas (19/56), estando preenchidos, portanto, os requisitos dos artigos 282 e 283, do CPC.
+Ademais, só se indefere a petição inicial por inépcia, nos casos elencados pelo parágrafo único, do art. 295, do CPC, o que não se verifica nos presentes autos." (e-STJ, fl. 194)
+Nesse aspecto, a análise da pretensão recursal, especialmente no que se refere ao indeferimento da petição inicial, demandaria a incursão em aspectos fático-probatórios dos autos, atividade inviável em recurso especial, tendo em vista o óbice da Súmula n. 7 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CERCEAMENTO DE DEFESA. PROVA. INDEFERIMENTO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, decidiu pela desnecessidade das provas requeridas. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+3. Não pode ser considerada inepta petição inicial suficientemente instruída, que narra de forma lógica a causa de pedir e os pedidos, e não contém nenhum dos vícios previstos no parágrafo único do art. 295 do CPC/1973, aplicável ao caso.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1230271/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/06/2018, DJe 19/06/2018)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. OFENSA AOS ARTS. 231, II, 282, II, 284, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. INDEFERIMENTO DA PETIÇÃO INICIAL. DETERMINAÇÃO DE EMENDA. DESCUMPRIMENTO. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Não se pode conhecer da irresignação contra a ofensa aos arts. 231, II, 282, II, 284, do CPC/1973, pois a tese legal apontada não foi analisada pelo acórdão hostilizado.
+(..)
+8. Por fim , a análise das razões de recurso, com vistas ao deslinde da controvérsia acerca do indeferimento da petição inicial, requer do Superior Tribunal de Justiça incursão nos elementos fático-probatórios da lide, hipótese vedada, neste âmbito, ante o teor da Súmula 7 do STJ.
+9. No tocante à divergência jurisprudencial, o dissenso deve ser comprovado, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+10. No caso dos autos, verifico que não foram respeitados tais requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), o que impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+11. Recurso Especial não conhecido.
+(REsp 1685868/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+A revelia tem como decorrência a presunção de veracidade dos fatos alegados pelo autor (art. 319 do CPC/73). A presunção é relativa, podendo ceder diante da análise que o magistrado faz de outros elementos e provas dos autos, de modo que a decretação da revelia não tem como consectário lógico e necessário a procedência do pedido.
+A propósito, confiram-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS ALEGADOS NA INICIAL. RESPONSABILIDADE CIVIL. NÃO RECONHECIMENTO. CONCLUSÃO ESCORADA EM FATOS E PROVAS DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Os efeitos da revelia são relativos e não conduzem necessariamente ao julgamento de procedência dos pedidos. Precedentes.
+(..)
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp nº 458.100/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/02/2015, grifou-se)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO CIVIL. REVELIA. EFEITOS. RECONVENÇÃO. DIREITO AUTORAL. DANO. COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Esta Corte possui entendimento de que, na revelia, a presunção de veracidade é relativa, de forma que a sua ocorrência conduz à procedência do pedido se, com as provas dos autos, o magistrado se convencer da existência dos fatos alegados e não contestados. Entendimento que se aplica à reconvenção. Precedentes.
+2. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que entendeu pela inexistência de dano, mister se faz a revisão do conjunto fático-probatório dos autos, o que, nos termos da Súmula nº 7/STJ, é inviável nesta instância especial.
+3. Agravo regimental não provido."
+(AgRg no REsp nº 439.931/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 26/11/2012, grifou-se)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. REVELIA. PROCEDÊNCIA DOS PEDIDOS. ALEGAÇÕES DO AUTOR. CONVENCIMENTO DO MAGISTRADO. DEPENDÊNCIA. EMISSÃO DE CHEQUE. CONTA ENCERRADA. DANO MORAL. NÃO OCORRÊNCIA. REEXAME. SÚMULA N. 7-STJ. NÃO PROVIMENTO.
+1. A revelia não importa em procedência automática dos pedidos, porquanto a presunção de veracidade dos fatos alegados pelo autor é relativa, cabendo ao magistrado a análise conjunta das alegações e das provas produzidas. Precedentes.
+2. No caso dos autos, o autor pretendeu indenização por danos morais em razão de devolução de cheque por ausência de provisão de fundos, estando a conta corrente, todavia, encerrada, concluindo o Tribunal estadual que a cártula foi emitida com a ciência de que não seria paga pela instituição financeira sacada, conduta "caracterizadora, inclusive, do crime previsto no art. 171, § 2º, inciso VI, do Digesto Penal". O reexame da questão, pois, esbarra no óbice de que trata o verbete n. 7, da Súmula.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp nº 590.532/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 22/09/2011, grifou-se)
+"PROCESSUAL CIVIL. INDENIZAÇÃO POR UTILIZAÇÃO INDEVIDA DE IMAGEM EM REVISTA MASCULINA. DANOS MORAIS. REVELIA RECONHECIDA. POSSIBILIDADE DE REVISÃO DO QUANTUM INDENIZATÓRIO FIXADO PELAS INSTÂNCIAS ORDINÁRIAS.
+(..)
+2. Em caso de revelia, há presunção de veracidade dos fatos afirmados na inicial, nos termos do art. 319 do CPC. Contudo, o caráter dessa presunção é relativo, devendo o julgador atentar para a prova de existência dos fatos da causa, razão pela qual, a despeito da ocorrência de revelia, pode, até mesmo, negar provimento ao pedido.
+3. Na hipótese, foi reconhecida a revelia do recorrido e seus efeitos, o que não impede que o Tribunal de origem, conforme o princípio da razoabilidade, reduza o quantum indenizatório, com base nas provas e alegações apresentadas pela própria recorrente.
+(..)
+5. Recurso especial conhecido em parte e, nessa parte, não provido."
+(REsp nº 1.128.646/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 14/09/2011, grifou-se)
+Nessa linha, a presunção relativa de veracidade dos fatos alegados na petição inicial, só deve conduzir à procedência do pedido se, com base nos elementos de convicção carreados aos autos, o magistrado se convencer da existência dos fatos alegados e não contestados.
+Na espécie, o Tribunal local manifestou-se nos seguintes termos:
+"Defende o apelante a tese de que o imóvel de propriedade do espólio réu não faria parte do condomínio, por tratar-se de unidade externa, com acesso direto à via pública, de modo a desautorizar a cobrança pretendida. No entanto, o simples exame do documento de fls. 123/141, infirma por completo tal assertiva, na medida em que a convenção do edifício dispõe expressamente constituir seu pavimento térreo de 8 (oito) lojas, dentre as quais consta a de número 374-B, objeto da lide, inexistindo qualquer instrumento ou decisão que permita interpretação em sentido contrário.
+Acrescente-se, ainda, a existência de previsão de contribuição das lojas com 10% das despesas de administração, consertos e reformas do térreo, a lançar por terra a alegação de falta de demonstração da pertinência dos valores cobrados, cuja impugnação se deu de forma eventual.
+No sentido da possibilidade do rateio das despesas quando estipulado na convenção do condomínio, a ementa a seguir transcrita: (..)
+Por fim, embora relativos os efeitos da revelia, não há nos presentes autos qualquer elemento que afaste a presunção de veracidade do art. 319, do CPC, valendo ressaltar que, por ser o apelante revel, as questões de fato, aí inclusas as referentes à regularidade do débito, deveriam ter sido debatidas em momento oportuno, restando, portanto, abarcadas pela confissão ficta.
+Assim, inexistindo qualquer elemento que configure a abusividade da cobrança promovida através de rateio em prol daquela comunidade, nada justifica o desacolhimento da pretensão." (e-STJ, fls. 194/195)
+Nesse toar, infirmar, nas hipótese dos autos, as conclusões do julgado, como ora postulado, para reconhecer que o agravado não demonstrou os fatos alegados na exordial, não se aplicando, assim, os efeitos da revelia, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação no enunciado da Súmula nº 7 deste Superior Tribunal de Justiça. A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Consoante jurisprudência desta Corte, ao examinar a presunção de veracidade decorrente da revelia, o juiz deve se atentar para os elementos probatórios presentes nos autos, formando livremente sua convicção, para, só então, decidir pela procedência ou improcedência do pedido, como ocorreu na hipótese sub judice. Precedentes.
+2. O Tribunal local concluiu, após a análise do acervo probatório dos autos, que a conduta da demandada restou eivada de ilicitude e o dano restou plenamente comprovado mediante os documentos acostados aos autos, acarretando no dever de indenizar. Alterar o entendimento do acórdão recorrido, nesse aspecto, demandaria reexame do conjunto fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+3. A incidência do referido enunciado sumular impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 849.312/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/02/2018, DJe 05/03/2018 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AUSÊNCIA DOS REQUISITOS. INDENIZAÇÃO POR DANOS MORAIS. REVELIA NÃO IMPORTA PRESUNÇÃO ABSOLUTA DOS FATOS. ANÁLISE DAS PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. ART. 1.013 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência firmada neste Sodalício é no sentido de que a caracterização da revelia não importa em presunção absoluta de veracidade dos fatos, a qual pode ser afastada pelo Juiz à luz das provas existentes, cumprindo-lhe indicar as razões da formação do seu convencimento.
+3. Reapreciar decisão de mitigação dos efeitos da revelia demandaria necessariamente a incursão no acervo fático-probatório dos autos, o que é vedado no âmbito do recurso especial, por incidência da Súmula 7/STJ.
+2. O Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu não estar provado o fato constitutivo do direito da autora, ora agravante, devido a ausência dos requisitos ensejadores da responsabilidade civil. Impossibilidade de reexame de fatos e provas, incidindo o óbice da Súmula 7/STJ.
+4. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ. 5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1110702/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
