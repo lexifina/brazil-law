@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE CAMPINAS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo de instrumento. Execução fiscal. Município de Campinas. IPTU e Taxa de Lixo exercícios 2010 a 2013, além dos exercícios 2005 a 2009 lançados em 2010 (Anexo I). Exceção de pré-executividade. Imunidade recíproca. Isenção. Impenhorabilidade de bens. Ilegitimidade passiva.
+Sociedade de economia mista. Construção de habitações populares em concorrência com empresas privadas que atuam no mesmo ramo. Não cabimento da imunidade recíproca. CF, art. 150, VI, "a" e § 2º e art. 173, § 2º. Ausência de previsão na legislação municipal de isenção em favor da CDHU em relação aos exercícios em cobrança, vigorando o benefício fiscal após a edição da Lei Complementar Municipal 181/2017 que alterou o art. 4º, III, b e X, da Lei Municipal 11.111/01. Impenhorabilidade afastada, tratando-se de pessoa jurídica de direito privado sem privilégios.
+Orientação do C. STJ no sentido de que tanto o promitente vendedor ou vendedor (que figura na matrícula do imóvel como proprietário) como o compromissário comprador ou comprador (possuidor) podem figurar no polo passivo da execução fiscal. Recursos repetitivos, REsp 1.073.846-SP, REsp 1.110.551/SP e REsp 1.111.202/SP. Súmula 399 STJ. Peculiaridades que justificam a inaplicabilidade dessa orientação ao caso concreto. Compromisso de compra e venda, anterior à ocorrência do fato gerador dos tributos em cobrança, irretratável, irrevogável, com transferência da posse ao adquirente, comunicada essa transferência à Prefeitura. Flexibilização da tese repetitiva pelo C. STJ no REsp 1204294/RJ. Precedentes desta Corte Paulista. Negócio jurídico entabulado anteriormente à orientação jurisprudencial firmada nos citados recursos repetitivos, por ela não alcançado. Irretroatividade do direito que também decorre da proteção à segurança jurídica e boa-fé.
+Ilegitimidade passiva da agravante em relação aos débitos de IPTU e Taxa de Lixo dos exercícios de 2007 a 2013, posteriores à venda, prosseguindo-se a execução contra a agravante, pelos exercícios de 2005 e 2006. Decisão que rejeitou a exceção de pré-executividade. Recurso parcialmente provido.
+O presente feito decorre de execução fiscal movida pelo ora recorrente, para pagamento de IPTU no valor de R$ 4.931,48, em 5/9/2014.
+No presente recurso especial, o recorrente aponta violação dos arts. 1.245, §12, do CC, arts. 1º, §29, 22, §29, 29-A, §59, 39-A e 5º, da lei nº 10.188/2001 e o art. 794, inc. I, do CPC/73.
+Sustenta, em síntese, que somente o registro de imóveis transfere a titularidade do bem e a consequente responsabilidade tributária do pagamento de IPTU.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da existência de peculiaridade, qual seja a ciência do Município da ocorrência da transferência de propriedade, conforme se verifica da ementa do julgado recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
