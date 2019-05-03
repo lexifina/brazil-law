@@ -1,0 +1,48 @@
+EMENTA
+RECURSO ESPECIAL. CIVIL. CONTRATO DE MANDATO. MORTE DO MANDANTE. ART. 682 DO CÓDIGO CIVIL. EXTINÇÃO DO MANDATO.
+1. Nos termos do art. 682, II, do Código Civil, com a morte do mandante, extingue-se o mandato, não havendo que se falar em existência de negócio pendente, máxime porque tal contrato reveste a natureza jurídica personalíssima.
+2. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVOS REGIMENTAL E INSTRUMENTAL - O PRIMEIRO INTERPOSTO CONTRA DESPACHO DO RELATOR QUE NEGA EFEITO SUSPENSIVO A AGRAVO DE INSTRUMENTO IRRECORRIBILIDADE - NÃO CONHECIMENTO.
+AGRAVO DE INSTRUMENTO - PROCURAÇÃO - PEDIDO DE EXPEDIÇÃO DE ALVARÁ PARA OUTORGA DE ESCRITURA PÚBLICA DE IMÓVEL - FALECIMENTO DO MANDANTE - EXTINÇÃO DA OBRIGAÇÃO - INAPLICABILIDADE DOS ARTS. 690/691, AMBOS DO CC/2002 - COM A MORTE DE UMA DAS PARTES CESSA O MANDATO OUTORGADO - INTELIGÊNCIA DO INCISO II, DO ART. 682 DO CC AGRAVO NÃO PROVIDO. (fl. 124)
+Os recorrentes, nas razões do especial, apontam, ofensa aos arts. 689, 690 e 691 do CC, ao argumento de que se houver negócio pendente, o mandato outorgado não se extingue com o falecimento do mandante.
+É o relatório. Decido.
+2. Inicialmente, deve-se mencionar que o caso concreto referencia hipótese em que a mandante deu poderes aos mandatários para que outorgassem escritura pública de ação em pagamento de imóvel.
+Não obstante, nesse ínterim, a mandante faleceu, tendo a Corte de origem entendido que não se admite mandato para ter execução depois da morte do mandante.
+Afigura-se correto o entendimento esposado pela Corte de origem. De fato, os recorrentes apontam como violados os arts. 689, 690 e 691 do CC, que dizem respeito ao mandatário, e não ao mandante.
+Com efeito, ao mandante se aplica o art. 682 do Código Civil, cuja dicção é hialina:
+Art. 682. Cessa o mandato:
+I - omissis
+II - pela morte ou interdição de uma das partes.
+Em verdade, com a morte do mandante extingue-se o mandato, não havendo que se falar em existência de negócio pendente, máxime porque tal contrato reveste a natureza jurídica personalíssima.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ÓBITO DA EXEQUENTE. EXTINÇÃO DO MANDATO. SUCESSORES. AUSÊNCIA DE HABILITAÇÃO. RECURSO DE APELAÇÃO INTERPOSTO POR ADVOGADO QUE NÃO POSSUI PROCURAÇÃO NOS AUTOS, AUSÊNCIA DE LEGITIMIDADE E CAPACIDADE POSTULATÓRIA.
+1. Não se pode conhecer da alegada vulneração do art. 1.022 do CPC/2015, pois, nas razões do especial, a parte recorrente deduz argumentação genérica de que as questões postas nos Aclaratórios interpostos na origem não foram respondidas, sem expor, de forma clara e específica, quais pontos seriam esses e qual a relevância para solução da controvérsia. Incidência da Súmula 284/STF.
+2. Hipótese em que o Tribunal a quo não conheceu do recurso de Apelação, tendo em vista que o signatário da petição não possui procuração nos autos outorgada por eventuais herdeiros.
+3. O Código de Processo Civil/1973 estabelece, em seus artigos 43, 265, I, e 1.055 (arts. 110, 313, I, e 687 do CPC/2015), que, em caso de morte de qualquer das partes, deve o feito ser suspenso até a efetiva substituição pelo respectivo espólio ou sucessores, através de procedimento de habilitação.
+4. Por sua vez, o artigo 682, II, do Código Civil dispõe que, com a morte do mandante extingue-se o mandato, carecendo, assim, o requerente de legitimidade e de capacidade postulatória.
+5. Com efeito, é inexistente o recurso de Apelação interposto por advogado sem procuração nos autos. Inteligência do parágrafo único, do artigo 37 do CPC/1973 (art. 104 do CPC/2015).
+6. Como é cediço, a existência da pessoa natural, nos termos do artigo 6º do Código Civil, termina com a morte, fazendo cessar a aptidão para ser parte de relação processual. Assim, com o falecimento de [NOME], seu advogado não poderia ter desafiado o recurso de Apelação, porque não mais detinha poderes, já que o mandato é contrato personalíssimo e tem como uma de suas causas extintivas, nos termos do inciso II, do artigo 682 do CC, o óbito do mandatário.
+7. O entendimento adotado pelo acórdão recorrido está em conformidade com a orientação jurisprudencial do STJ, segundo a qual o falecimento da parte extingue, de imediato, o mandato outorgado ao advogado. Revela-se, assim, a nulidade da interposição do recurso de Apelação, porquanto promovida em nome de pessoa inexistente e por procurador sem mandato.
+8. Recurso Especial não conhecido.
+(REsp 1760155/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/02/2019, DJe 11/03/2019)  g.n.
+PROCESSUAL CIVIL. EMBARGOS INFRINGENTES EM AÇÃO RESCISÓRIA. AUTOR FALECIDO ANTERIORMENTE AO AJUIZAMENTO DA DEMANDA ORDINÁRIA. EXTINÇÃO DO MANDATO. INCAPACIDADE PARA SER PARTE. ILEGITIMIDADE PARA O PROCESSO. COISA JULGADA. INEXISTÊNCIA. TÍTULO EXECUTIVO INEXIGÍVEL.EMBARGOS NÃO PROVIDOS.
+1. A morte do mandante extingue automaticamente os efeitos do mandato, nos termos do art. 1316, II do CC de 1916 ou do art. 682, II do CC de 2002.
+2. O art. 1321 do Código Civil de 1916 destina-se, ordinariamente, aos mandatos extrajudiciais em que os interesses das partes e de terceiros são convergentes e não ao mandato judicial, como no presente feito, em que o terceiro - demandado na ação de conhecimento - deseja, em realidade, resistir à pretensão do falecido mandante.
+3. Por sua vez, o Código Civil de 2002 em seu art. 692, expressamente, dispôs que o mandato judicial é regulado pela legislação processual e a solução encontrada no âmbito processual não difere da que prevista no art. 682, II do CC de 2002 (art. 1316, II do CC de 1916), isto é, os efeitos do mandato extinguem-se com a morte, razão pela qual se o outorgante do mandato falecer antes do ajuizamento da ação, este contrato estará extinto, devendo ser outorgados novos poderes pelo inventariante ao advogado, agora em nome do espólio (art. 12, V do CPC), sob pena de extinção do processo sem resolução do mérito, nos termos do art. 267, VI do CPC.
+4. Nos casos de morte da parte no curso do processo, também a jurisprudência desta Corte é no sentido de que a suspensão é automática, a decisão tem efeito ex tunc e eventuais atos praticados após o falecimento são nulas em razão da mesma causa: a morte do mandante extingue automaticamente os efeitos do mandato. Nesse sentido: REsp n. 270.191/SP, Terceira Turma, Rel. Ministro Ari Pargendler, Rel. p/ Acórdão Ministro Carlos Alberto Menezes Direito, DJ de 8/4/2002 e EREsp n. 270.191/SP, Corte Especial, Rel. Ministro Francisco Peçanha Martins, DJ de 20/9/2004. Da mesma forma, recente decisão do Ministro Celso de Mello no AgReg. no Recurso Extraordinário com Agravo no. 707037/MT , publicado no DJE no. 214, 29/10/12.
+5. A morte do autor anteriormente à propositura da demanda de conhecimento é, portanto, fato jurídico relevante para se declarar a inexistência do processo judicial em relação a ele, eis que a relação processual não se angularizou, nunca existiu, não se formou validamente, à míngua da capacidade daquele autor para ser parte e, por conseguinte, extinguiu-se, ao mesmo tempo, o mandato outorgado ao advogado, carecendo a relação processual de pressuposto de desenvolvimento válido e regular, qual seja, aquele relativo à capacidade postulatória. Nesse sentido: AR n. 3.285/SC, Terceira Seção, Rel. Ministro Nilson Naves, Rel. p/ Acórdão Ministro Felix Fischer, DJe de 8/10/2010.
+Embargos infringentes não providos.
+(EAR 3.358/SC, Rel. Ministro GURGEL DE FARIA, Rel. p/ Acórdão Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 10/12/2014, DJe 04/02/2015)  g.n.
+RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - MORTE DO MANDATÁRIO - TRANSMISSÃO DA OBRIGAÇÃO AO ESPÓLIO - INVIABILIDADE - AÇÃO DE CUNHO PERSONALÍSSIMO - EXTINÇÃO DA AÇÃO SEM O JULGAMENTO DO MÉRITO - MANUTENÇÃO - NECESSIDADE - ARTS. 1323 E 1324 DO CC/1916 - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DO ENUNCIADO N. 211 DA SÚMULA/STJ - RECURSO ESPECIAL IMPROVIDO.
+I - O mandato é contrato personalíssimo por excelência, tendo como uma das causas extintivas, nos termos do art. 682, II, do Código Civil de 2002, a morte do mandatário;
+II - Sendo o dever de prestar contas uma das obrigações do mandatário perante o mandante e tendo em vista a natureza personalíssima do contrato de mandato, por consectário lógico, a obrigação de prestar contas também tem natureza personalíssima;
+III - Desse modo, somente é legitimada passiva na ação de prestação de contas a pessoa a quem incumbia tal encargo, por lei ou contrato, sendo tal obrigação intransmissível ao espólio do mandatário, que constitui, na verdade, uma ficção jurídica;
+IV - Considerando-se, ainda, o fato de já ter sido homologada a partilha no inventário em favor dos herdeiros, impõe-se a manutenção da sentença que julgou extinto o feito sem resolução do mérito, por ilegitimidade passiva, ressalvada à recorrente a pretensão de direito material perante as vias ordinárias;
+V - As matérias relativas aos arts. 1323 e 1324 do Código Civil de 1916 não foram objeto de prequestionamento, incidindo, na espécie, o teor do Enunciado n. 211 da Súmula/STJ;
+V - Recurso especial improvido.
+(REsp 1055819/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 16/03/2010, DJe 07/04/2010)
+Desse modo, não merece reforma o acórdão recorrido, na medida em que adotou posicionamento correto, no sentido de que, com a morte do mandante, extingue-se o contrato de mandato.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente recurso especial.
+Publique-se. Intimem-se.
