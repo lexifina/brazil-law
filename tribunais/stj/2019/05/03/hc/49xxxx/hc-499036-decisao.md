@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por [NOME], apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado por infração aos arts. 33, caput, da Lei 11.343/06, e 14, da Lei 10.826/03, às sanções de 8 anos e 3 meses de reclusão, em regime inicial fechado, e 635 dias-multa, e absolvido da imputação de infringência ao art. 35, da Lei de Drogas, com fundamento no art. 386, VII, do Código de Processo Penal, vedado o direito de recorrer em liberdade.
+O impetrante argumenta que sofre constrangimento ilegal, decorrente do excesso de prazo para o julgamento do recurso de apelação (feito n. 0019768-13.2017.8.26.0196), visto que foi preso preventivamente em 24/10/2017 e protocolou as razões ao recurso de apelação em 3/5/2018 e até o momento o recurso não foi julgado. Requer a concessão da ordem, para que seja revogada a prisão preventiva.
+Indeferida a liminar e, prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Na origem, a apelação criminal n. 0019768-13.2017.8.26.0196 foi incluída na pauta de julgamento do dia 23/5/2019, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 22/4/2019.
+É o relatório.
+DECIDO.
+O impetrante argumenta que sofre constrangimento ilegal, decorrente do excesso de prazo para o julgamento do recurso de apelação (feito n. 0019768-13.2017.8.26.0196), visto que foi preso preventivamente em 24/10/2017 e protocolou as razões ao recurso de apelação em 3/5/2018 e até o momento o recurso não foi julgado. Requer a concessão da ordem, para que seja revogada a prisão preventiva.
+Conforme relatado, o paciente foi condenado por infração aos arts. 33, caput, da Lei 11.343/06, e 14, da Lei 10.826/03, às sanções de 8 anos e 3 meses de reclusão, em regime inicial fechado, e 635 dias-multa, e absolvido da imputação de infringência ao art. 35, da Lei de Drogas, com fundamento no art. 386, VII, do Código de Processo Penal, vedado o direito de recorrer em liberdade.
+Sabe-se que o prazo para a conclusão de julgamento de apelação não tem as características de fatalidade e de improrrogabilidade, sendo imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Na hipótese, conforme as informações prestadas às fls. 26/27, constatou-se que o paciente foi preso preventivamente em 30/10/2017, a sentença foi prolatada em 3/5/2018 e o recurso de apelação deu entrada no Tribunal de origem em 27/8/2018, tendo sido remetido ao Revisor em 11/4/2019. Atualmente, o feito foi incluído na pauta julgamento do dia 23/5/2019
+Na espécie, ainda que o paciente esteja preso desde 30/10/2017 e o apelo tenha sido autuado no Tribunal de 2º Grau em 27/8/2018, verifica-se que a custódia cautelar não se revela desproporcional, tendo em vista que o paciente possui aplicada pena de 8 anos e 3 meses de reclusão, o feito já se encontra com incluído em pauta de julgamento. Desse modo, constata-se que a marcha processual apresenta-se razoável, embora o apelo criminal esteja pendente de julgamento.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Não constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
