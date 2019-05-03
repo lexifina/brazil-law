@@ -1,0 +1,23 @@
+DECISÃO
+St. Nicholas Anglo Brasileira de Educação Ltda. - EPP apresenta agravo contra decisão que negou seguimento ao seu recurso especial, interposto com fundamento no art. 105, III, a, da CF/88, com o objetivo de reformar o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 1511):
+Ação Anulatória. Ato administrativo. Autuação de estabelecimento de ensino por não apresentar licença de funcionamento. Pretendida desconstituição do auto infracional porque alegadamente se teria instalado no local quando não exigível tal licença. Modalidade de uso não permitida no local pela legislação de zoneamento. Sentença de improcedência mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fl. 1527).
+Em suas razões especiais, a recorrente sustenta violação dos arts. 293 a 295 da Lei Municipal de São Paulo n. 13.430/2002, uma vez que mesmo com as alterações ocorridas na área onde se encontra estabelecida por mais de 25 anos, e ainda com a alteração da legislação municipal após a aprovação do Plano Diretor Estratégico de 2002, preenche todos os requisitos legais para a manutenção de suas atividades educacionais no mesmo local.
+Sem o oferecimento de contrarrazões (fl. 1558), o Tribunal de origem negou seguimento ao recurso especial (fl. 1559), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, as Leis Municipais n. 8.211/75 e 13.885/04, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp n. 709.574/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 14/9/2015; REsp n. 1.455.034/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 970.011/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/5/2017, DJe 24/5/2017.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp n. 4.111/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 12/11/2014.)
+Ademais, a própria recorrente aponta violação de legislação local, não justificando a interposição de recurso especial nesse caso.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
