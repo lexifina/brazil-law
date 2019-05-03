@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÓBITO DA PARTE AUTORA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. FALTA DE PREVISÃO LEGAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 489, § 1º, IV, do CPC/2015 e incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 1179):
+AGRAVO DE INSTRUMENTO Ação de Reintegração de Posse julgada procedente, com o reconhecimento do direito de retenção, em favor do réu, até o recebimento das benfeitorias, a ser arbitrada em liquidação Execução de sentença Apuração de valor da indenização por benfeitorias em favor do requerido - Autora reintegrada na posse do imóvel em razão da constatação de abandono pelos requeridos Recorrentes que tiveram suas habilitações indeferidas por não terem comprovado serem herdeiros do requerido originário da ação Decisão recorrida que entendeu que caso os alegados herdeiros entendem ter crédito a receber que se habilitem e peçam o cumprimento de sentença, ou promovam ação autônoma - Direito ao recebimento de benfeitorias que foi assegurado ao requerido [NOME] e não comporta mais discussão Necessidade de regularização das habilitações dos recorrentes para que possam fazer "jus" ao crédito que alegam ter direito - Aos agravantes fica oportunizado a comprovação inequívoca de que são herdeiros para se habilitarem nos autos, e caso não comprovem, aí sim poderão eventualmente promover ação própria Decisão mantida - Recurso improvido, com observação.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 489, § 1º, IV, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa ao artigo 193 do CC/2002 sob o seguinte argumento: "os herdeiros, mesmo regularmente intimados para integrarem a demanda, consoante determinado no referido Agravo de instrumento nº 301.983-5/8-00 e 607.135-5/0-00, permaneceram inertes, transcorrendo o lapso prescricional" (fl. 1214).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa ao artigo 489, § 1º, IV, do CPC/2015, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+A morte de uma das partes é causa de imediata suspensão do processo (art. 265, I, do CPC/1973 - art. 313, I, do CPC/2015), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores.
+Nesse sentido:
+PROCESSUAL CIVIL - EMBARGOS DE DIVERGÊNCIA - REEXAME DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL - IMPOSSIBILIDADE - FALECIMENTO DA PARTE - SUSPENSÃO IMEDIATA DO PROCESSO - CPC, ART. 265 - ATOS PRATICADOS ANTES DA DECISÃO JUDICIAL - NULIDADE - PRECEDENTES.
+- Consoante jurisprudência pacífica deste Tribunal, os embargos de divergência não se prestam ao reexame dos requisitos de admissibilidade do recurso especial com finalidade de corrigir eventual equívoco em que possa ter incorrido o julgado embargado.
+- O falecimento de qualquer das partes suspende o processo no exato momento em que se deu, invalidando os atos processuais até então praticados.
+- O despacho judicial que determina a suspensão do feito é preponderantemente declaratório, produzindo, por consequência, efeitos "ex tunc".
+- Embargos de divergência improvidos. (EREsp 270.191/SP, Rel. Ministro Francisco Peçanha Martins, Corte Especial, DJe de 20/9/2004).
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. AJUIZAMENTO EM NOME DA PARTE QUE FALECERA DURANTE O PROCESSO DE CONHECIMENTO. FATO DESCONHECIDO PELO ADVOGADO. BOA-FÉ. CONVALIDAÇÃO DOS ATOS PROCESSUAIS. ANULAÇÃO DO FEITO EXECUTIVO. DESNECESSIDADE. AUSÊNCIA DE PREJUÍZO. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+ ..
+7. A morte de uma das partes é causa de imediata suspensão do processo (art. 265, I, do CPC/1973), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores, de modo que, aplicando esse entendimento no caso concreto, constata-se que o processo deveria ter ficado suspenso desde o momento do passamento da autora, ocorrido ainda na fase de conhecimento, não podendo ser contado, a partir desse evento, nenhum lapso prescricional em prejuízo aos herdeiros, seja para a habilitação deles, seja para a propositura da ação de execução.
+8. Recurso especial provido. (REsp 1707423/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 22/2/2018).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. ÓBITO DO AUTOR NA FASE DE CONHECIMENTO. HABILITAÇÃO DOS HERDEIROS APÓS O TRÂNSITO EM JULGADO. SUSPENSÃO IMEDIATA DO PROCESSO. EFICÁCIA EX TUNC. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA.
+ ..
+III - Consoante a doutrina e a jurisprudência, ocorrendo a morte de uma das partes, a suspensão do processo é imediata, reputando-se inválidos os atos praticados após o evento, com exceção daqueles de natureza urgente, que não possam esperar a conclusão da habilitação, embora seja possível a ratificação pelos sucessores.
+IV - A suspensão do processo opera-se retroativamente, com efeitos ex tunc, porquanto é meramente declaratório o reconhecimento do evento morte, a partir de quando a parte ficou privada da faculdade de exercer plenamente sua defesa, não podendo ser prejudicada pela não comunicação imediata do fato ao juiz.
+V - Não ocorrência da prescrição da pretensão executória por ausência de previsão legal, sendo inaplicável o instituto da prescrição intercorrente a fim de limitar a habilitação dos sucessores.
+VI - Recurso especial provido. (REsp 1657663/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 17/8/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÓBITO DA PARTE AUTORA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. FALTA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL NÃO
+PROVIDO.
+1. Nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Estando o acórdão recorrido em sintonia com a jurisprudência do STJ, incide o óbice da Súmula 83/STJ.
+2. Agravo regimental não provido. (AgRg no REsp 1485127/AL, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/2/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
