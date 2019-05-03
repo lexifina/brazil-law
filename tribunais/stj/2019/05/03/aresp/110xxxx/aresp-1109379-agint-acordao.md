@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE. SÚMULA 07/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. DECISÃO AGRAVADA MANTIDA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+AGRAVO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por [NOME]. COM. IMP. E EXP. DE FIOS LTDA - EPP em face de decisão monocrática, cuja ementa restou consignada nos seguintes termos:
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE. SÚMULA 07/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL." (e-STJ fl. 404).
+Em suas razões, a agravante alega, de saída, que "não está vendo suas argumentações analisadas em sua integralidade, deixando assim a desejar a prestação jurisdicional, que em Segunda Instância inclusive valorou erroneamente a prova e omitiu-se em analisar fatos concretos existentes nos autos, merecendo haver reparação nesta última trincheira." (e-STJ fl. 442).
+Esclarece que "o cerne da ação de cobrança é o enriquecimento sem causa e não instrumento particular, sendo assim inaplicável o artigo 206, § 5º, inciso I do CC, sendo que matéria de prescrição pode ser conhecida em qualquer grau de jurisdição por ser matéria de ordem pública" (e-STJ fl. 443).
+Diz, ainda, que:
+"Na r. decisão restou asseverado que a questão em torno da teoria do dever de mitigar o prejuízo não foi discutida no aresto reclamado, houve via de consequência, expresso reconhecimento sobre a ausência de fundamentação na decisão da 2ª Instância que foi devidamente instada para se pronunciar. Importante destacar também que a realização de maneira sucinta, genérica e despida de fundamentação sobre essa questão, além de negar prestação jurisdicional a Recorrente, "viola" e "nega" vigência ao artigo 11 da Lei Federal n.º 13.105/15 (NCPC) por ausência de fundamentação da decisão, merecendo declaração de nulidade. Ainda, em relação à Lei Federal n.º 13.105/15, observamos no processo que o artigo 489, inciso II e § 1º, incisos III e IV também tiveram vigência negada, pois não houve análise da questão de fato e de direito, foi utilizada argumento que se prestariam a justificar qualquer outra decisão, bem como não enfrentou todos os argumentos deduzidos sobre a questão, o que ocasiona ausência de fundamentação e neg ativa de prestação jurisdicional." (e-STJ fl. 443).
+Afirma, também, que "a revisão fática, nesta seara especial, mostra-se plenamente admissível, já que visa tão somente corrigir a deturpada valoração jurídica dos fatos e provas cometida pelo tribunal local, não havendo, assim, de se falar em reexame de provas, e muito menos, no óbice da famigerada sumula 07 do STJ" (e-STJ fl. 444).
+Impugnação ao agravo interno às e-STJ fls. 448/457.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE. SÚMULA 07/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. DECISÃO AGRAVADA MANTIDA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+AGRAVO DESPROVIDO.
+
+VOTO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Constato, do confronto entre as razões do agravo interno e a fundamentação do julgado recorrido, que a parte agravante não traz fundamentos capazes de infirmar as conclusões tiradas no decisum objurgado.
+Dessa forma, deve ser mantido o entendimento firmado pela decisão agravada.
+Com efeito, em sede de recurso especial, a empresa ora agravante alegou violação aos artigos 11 e 489, II e § 1.º, IV, do Código de Processo Civil/2015, ao sustento de inépcia da inicial por ausência do contrato.
+Indicou, ainda, ofensa ao artigo 206, § 3.º, IV e V, do Código Civil/2002, ao fundamento essencial de que:
+" ..  houve uma valoração errônea de prova, o que acaba violando dispositivos de Lei Federal, já que inexiste nos autos qualquer contrato público ou particular entre as partes, tanto que, nas fls. 99, o nobre Magistrado determinou apresentação de contrato e a Recorrida tentou sair pela tangente, mas acabou confessando que não existe contrato, motivo que a regra do artigo 206, § 5o, inciso I do CC não se aplica ao caso vertente (INEXISTE INSTRUMENTO PARTICULAR)." (e-STJ fl. 272).
+Assim, defendeu que a ação de cobrança funda-se em enriquecimento sem causa, pois não há instrumento particular a ampará-la.
+Por fim, apontou dissídio jurisprudencial acerca da Teoria do Dever de Mitigar o Prejuízo, fundada no artigo 422 do Código Civil/2002, bem como acerca da ausência de prova do contrato escrito.
+No que toca à discussão quanto à inépcia da inicial, a Corte local decidiu:
+"Sem razão a recorrente, pois, ao contrário do alegado, veio aos autos o documento de fls. 106/131, que trata-se do Regulamento de Utilização do Cartão BNDES que, ladeado pelos documentos de fls. 17/16 e 18/22, que se tratam de planilha de débito e faturas de cartão de crédito, são aptos a autorizar a deflagração da ação, já que trazem as indicações de todas as compras realizadas pela apelante, sendo prova suficiente a embasar o direito alegado na inicial." (e-STJ fl. 244).
+Analisou-se, ainda, a tese de prescrição da pretensão da instituição financeira recorrida:
+"Conforme se verifica dos autos, trata-se de ação de cobrança embasada por contrato de cartão de crédito, amparado por faturas de compras realizadas pela requerida, bem como planilha de débito, vindo aos autos, às fis..106/131, o Regulamento de Utilização do Cartão BNDES, razão pela qual se aplicam as disposições do art. 206, § 5.º, inciso I do CC, que prevê o prazo prescricional de cinco anos." (e-STJ fl. 245).
+A irresignação recursal, tanto no que toca à inépcia da inicial como quanto à prescrição, gira em torno da existência ou não do instrumento contratual objeto da lide.
+De fato, a recorrente diz que a petição é inepta por ausência do contrato e, de outro lado, diz que houve prescrição visto que a ação deve ser fundada no enriquecimento ilícito porquanto ausente o instrumento contratual.
+Não obstante o esforço argumentativo da parte, tenho que elidir a conclusão do Tribunal de Justiça - no sentido de que a ação de cobrança está fundada no contrato de cartão de crédito, amparado por faturas de compras realizadas pela requerida, planilha de débito e o Regulamento de Utilização do Cartão BNDES, sendo assim há prova suficiente a embasar o direito alegado na inicial, bem como se aplicam as disposições do art. 206, § 5.º, I, do CC que prevêem o prazo prescricional de cinco anos - demandaria o revolvimento do quadrante fático-probatório da causa, providência vedada nesta sede especial, a teor do enunciado n.º 07/STJ.
+Por derradeiro, o recurso especial não pode ser conhecido quanto à interposição pela alínea "c" do permissivo constitucional, pois o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 1.029, § 1.º, do CPC/2015, e 255, §§ 1º e 2º, do RISTJ. No caso concreto, o recorrente aponta julgados que não guardam similitude fática com o caso dos autos.
+De um lado, vejo que a questão em torno da Teoria do Dever de Mitigar o Prejuízo não foi discutida no aresto reclamado. Assim, não há como pressupor que os acórdãos recorrido e paradigma partiram de pressupostos fáticos e subjetivos similares.
+Noutro giro, acerca do julgado paradigma que assentou a ausência de prova do contrato escrito, tenho que, para se chegar a conclusão idêntica, caberia o revolvimento das questões fático-probatórias do aresto recorrido a fim de se afastar a conclusão segundo a qual a ação de cobrança que deu origem ao presente recurso está fundada no contrato de cartão de crédito, amparado por faturas de compras realizadas pela requerida, planilha de débito e o Regulamento de Utilização do Cartão BNDES.
+Assim, não há divergência jurisprudencial, uma vez que, cada um dos casos confrontados, possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica conclusões distintas.
+Por fim, ponho-me a analisar as alegações, em sede de agravo interno, de violação ao artigo 11 do CPC/2015 por ausência de fundamentação da decisão em relação à questão da teoria do dever de mitigar o prejuízo; e artigo 489, inciso II e § 1º, incisos III e IV, do CPC/2015 por falta de análise da questão de fato e de direito, tendo sido utilizado argumento que se prestaria a justificar qualquer outra decisão, bem como não enfrentou todos os argumentos deduzidos sobre a questão, o que ocasiona ausência de fundamentação e neg ativa de prestação jurisdicional.
+No ponto, vejo que a parte inova em sua tese recursal no tocante à alegada violação aos artigos 11 e 489 do CPC/2015.
+Com efeito, as teses de ausência de fundamentação em relação à questão da teoria do dever de mitigar o prejuízo, bem como de que foi utilizado argumento que se prestaria a justificar qualquer outra decisão e, ainda, não se enfrentaram todos os argumentos deduzidos sobre a questão, o que ocasiona ausência de fundamentação e negativa de prestação jurisdicional, não foram objeto do recurso especial que devolveu a análise da controvérsia a este Superior Tribunal de Justiça.
+Assim, referida patente a inovação recursal.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
