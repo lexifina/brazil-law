@@ -1,0 +1,8 @@
+DECISÃO
+1. Trata-se de conflito negativo de competência estabelecido entre a Justiça Federal e a Justiça Estadual nos autos de ação de indenização de seguro adjeto a mútuo habitacional.
+É o relatório.
+2. Em 5/10/2018, o Plenário do Supremo Tribunal Federal, nos autos do RE 827.996/PR e por maioria de votos, reconheceu a existência de repercussão geral da matéria relativa à possível existência de interesse jurídico da Caixa Econômica Federal nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro da Habitação, o que, por via de consequência, alcança também a matéria concernente à competência para o processamento e o julgamento das ações dessa natureza.
+Nessa linha, mostra-se inócua a análise deste incidente por esta Corte Superior, haja vista que a definição do interesse jurídico da CEF nessas lides e, por conseguinte, da competência para o julgamento e processamento dos respectivos processos poderá implicar a nulidade de atos processuais praticados pela Justiça Estadual ou pela Justiça Federal, além da possibilidade de entrar em dissonância com a orientação da Suprema Corte no mencionado recurso extraordinário.
+Dessarte, por medida de economia processual e para evitar decisões divergentes entre o STF e o STJ, os conflitos de competência que versam sobre essa controvérsia devem aguardar o desfecho do referido recurso extraordinário.
+3. Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa na distribuição, para que lá permaneçam suspensos até a publicação do acórdão a ser proferido no RE 827.996/PR, observando-se o disposto nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
