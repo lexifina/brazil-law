@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão proferida pela Primeira Vice-Presidência do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial apresentado, com fundamento na incidência do óbice da Súmula 83/STJ, ante a conformidade do acórdão recorrido com o entendimento do STJ sobre a prescrição da pretensão de cobrança de juros remuneratórios não contemplados na ação civil pública proposta pela APADECO, cf. AgRg no Ag 1.098.926/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 9/5/2013; e EDcl no REsp 1.135.181/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe 19/8/2011 (e-STJ, fls. 537-538).
+Em suas razões de agravo, a parte agravante alega: a) a indicação e a demonstração da violação dos dispositivos legais suscitados como violados; b) a violação dos princípios constitucionais da igualdade, do devido processo legal, do duplo grau de jurisdição, da segurança jurídica, do contraditório, da ampla defesa e do acesso à justiça; c) a inaplicabilidade da Súmula 5/STJ; e d) a aplicabilidade da fungibilidade recursal ao caso (e-STJ, fls. 541-546).
+Contraminuta apresentada às fls. 560-590 (e-STJ).
+É o relatório. Decido.
+O agravo previsto no art. 1.042 do Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pelo Tribunal de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada, impugnando de forma específica a integralidade de seus fundamentos.
+Desse ônus, contudo, não se desincumbiu a agravante, tendo apresentado alegações abstratas e dissociadas da decisão agravada.
+Incide, na hipótese, a previsão contida no art. 932, III, do CPC/2015, segundo a qual incumbe ao relator não conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida e, ainda, por analogia, o princípio cristalizado na Súmula 182/STJ, que reputa inviável o agravo do art. 1.042 do Código de Processo Civil (art. 545 do CPC/1973) que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, as seguintes decisões, sem grifos no original:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. AGRAVO INTERNO NÃO PROVIDO.
+I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da ausência de similitude fática entre o acórdão embargado e o julgado paradigma e incidência da súmula 168 do STJ.
+II - Descumpre o art. 1.021, § 1º, do CPC e a Súmula nº 182 do STJ, o agravo interno que não impugna integralmente os fundamentos da decisão agravada.
+III - A teor do enunciado contido na Súmula n. 182 do STJ, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes.
+IV - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+Agravo Interno não provido.
+(AgInt nos EAREsp 1.040.547/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 19/12/2017, DJe 06/02/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO.
+AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação dos agravantes ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+3. Conforme entendimento desta Corte: "A interposição de recursos cabíveis não  implica  em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+4. Agravo interno improvido.
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 30/08/2017)
+Diante do exposto, não conheço do agravo em recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos ao procurador da parte recorrida de 13% para 14% sobre o valor da condenação.
+Publique-se.
