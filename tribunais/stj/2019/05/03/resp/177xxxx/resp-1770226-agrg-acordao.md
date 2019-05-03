@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA RESTRITIVA DE DIREITOS. CONDENAÇÃO SUPERVENIENTE. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO OU SEMIABERTO. CUMPRIMENTO SIMULTÂNEO. INCOMPATIBILIDADE. CONVERSÃO EM PRIVATIVA DE LIBERDADE. UNIFICAÇÃO. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que, sobrevindo condenação que impossibilite o cumprimento simultâneo das penas, o que ocorre nos casos de condenações em regime fechado ou semiaberto, deve-se proceder à conversão da sanção restritiva de direitos em privativa de liberdade, unificando-se as penas.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto contra decisão que deu provimento ao recurso especial.
+Aduz a defesa, em síntese, que não existe norma que disponha sobre a conversão de pena restritiva de direito aplicada depois de pena privativa de liberdade. Por isso, não existindo conversão, a soma de penas é impossível (fl. 859).
+Pugna pela reconsideração da decisão agravada ou pela apreciação do recurso pela Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi assim proferida:
+Trata-se de recurso especial interposto em face de acórdão proferido em Agravo em Execução Penal, que manteve a decisão proferida pelo Juízo das Execuções Penais a qual, diante de nova condenação do recorrido, deixou de converter a pena restritiva de direitos em privativa de liberdade, suspendendo-a até que o reeducando em regime prisional compatível com o cumprimento simultâneo.
+Sustenta o recorrente violação dos arts. 111, caput e parágrafo único e 181, § 1º, e, ambos da Lei de Execuções Penais, e dos arts. 44, § 5º, e 76, ambos do Código Penal, ao argumento de que, sobrevindo condenação à pena restritiva de direitos - ainda que decorrente de guia de recolhimento provisória - ao reeducando que se encontra cumprindo pena privativa de liberdade, deverá, o juízo da execução verificar se há possibilidade ou não de cumprimento simultâneo das penas alternativas com a pena corporal. Inexistindo essa possibilidade, deverá, o magistrado, converter as penas substitutivas em pena privativa de liberdade e proceder à unificação das penas.
+Requer o provimento do recurso para o fim de se proceder à reconversão das penas restritivas de direitos impostas ao recorrido em pena privativa de liberdade, com a soma das penas e determinação do regime prisional adequado.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+O recorrido cumpria pena de 10 anos, 8 meses e 19 dias de reclusão, em regime fechado, sobrevindo, posteriormente, nova condenação à pena de 2 anos de reclusão, substituída a pena privativa por restritivas de direitos, consistentes em prestação pecuniária e prestação de serviços à comunidade, tendo o Juízo das Execuções Penais suspendido a execução da pena restritiva por incompatibilidade de cumprimento simultâneo.
+Acerca da questão, o Tribunal de origem manifestou-se nos seguintes termos (fls. 757/758):
+A pretensão não merece acolhida.
+Acerca da matéria, dispõe o art. 44, §5º, do Código Penal que, sobrevindo nova Condenação à Pena Privativa de Liberdade e, caso não seja possível o cumprimento simultâneo com a Pena Restritiva de Direitos, anteriormente fixada, deve-se converter a Pena substitutiva em Pena Privativa de Liberdade. In verbis:
+"Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+(..)
+§5º - Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior."
+Ademais, a conversão da Pena Restritiva de Direitos, nos casos de Prestação de Serviços à Comunidade (consoante a hipótese em apreço), em Pena Privativa de Liberdade, é possível nos casos em que o Reeducando se encontre em local incerto ou não sabido; deixar de comparecer ao local ou se recusar a prestar o serviço, de maneira injustificada; praticar falta grave; ou sofrer condenação posterior, à Pena Privativa de Liberdade.
+É o que se extrai da redação do art. 181, §1º, da Lei de Execução Penal, a seguir:
+ ..
+Tem-se, contudo, que o caso em apreço se trata de hipótese diversa, porquanto o Reeducando se encontrava em cumprimento de Pena Privativa de Liberdade, em regime Fechado (Atestado de Penas - fls.
+621/622-TJ), quando sobreveio Guia de Recolhimento (fls. 540/541-TJ), noticiando Condenação posterior à Pena Restritiva de Direitos.
+Destaca-se, a propósito, que, em matéria penal, vige o Princípio da Legalidade, que, dentre outras formas, exterioriza-se pela taxatividade, regulamentando situações que implicam na afetação de direitos fundamentais do indivíduo.
+E uma das dimensões do Princípio da Legalidade é a de assegurar a todo cidadão que os direitos fundamentais conferidos pela Constituição Federal não sejam afetados por ingerências estatais não autorizadas por Lei, o que é consolidado na expressão "nulla coatio sine lege".
+Por ser um Direito fundamental, elencado no caput do art. 5º da Constituição Federal, qualquer regra que imponha a limitarão da Liberdade deve ser interpretada restritivamente.
+Nesse sentido, considerando-se que os dispositivos legais supratranscritos (art. 44, §5º, do CP e art. 181, §1º, da LEP) determinam que apenas a superveniéncia de Condenação à Pena Privativa Liberdade enseja a conversão da Pena Restritiva de Direitos, anteriormente fixada, não há razão para se modificar a Decisão hostilizada (Precedentes: Agravo em Execução Penal 1.0261.16.007449- 6/001, Relator: Des. Nelson Missias de Morais, r CACRI, julgado em: 26/10/2017).
+Impende destacar que inexiste óbice legal para a posterior execução da Pena Restritiva de Direitos, quando se tornar compatível ao regime prisional, tendo em vista a determinação legal do art. 76 do Código Penal, no sentido de que, havendo concurso de Crimes, deve-se cumprir primeiro a Pena mais grave.
+Registre-se, por fim, que o aporte de Guia de Execução, noticiando Condenação à Pena Restritiva de Direitos, não enseja a Unificação da reprimenda, porquanto a previsão contida no art. 111 da Lei de Execução Penal, encontra-se inscrita no Capitulo I do Título V, intitulado "Das Penas Privativas de Liberdade". Veja-se:
+ ..
+Conclui-se, portanto, inexistir autorização legal para a conversão e posterior Unificação das reprimendas, na hipótese de superveniência de Condenação à Pena Restritiva de Direitos, sobretudo por tratar-se de reprimendas com naturezas distintas (Precedentes: Agravo em Execução Penal 1.0145.14.024282-0/001, Relator: Des. Paulo Cézar Dias, 3a CACRI, julgado em: 13/03/2018).
+Por tais fundamentos NEGO PROVIMENTO ao Agravo em Execução Penal, mantendo inalterada a Decisão hostilizada, que deixou de converter a Pena Restritiva de Direitos em Pena Privativa de Liberdade.
+Com efeito, a Lei de Execuções Penais, em seu art. 181, § 1º, e o Código Penal autorizam expressamente, nas hipóteses em que ocorrer condenação superveniente do condenado, com a imposição de pena privativa de liberdade, a conversão da pena de prestação de serviços em privativa de liberdade, facultando-se ao juiz afastar a sua aplicação apenas quando houver compatibilidade entre as reprimendas.
+O Superior Tribunal de Justiça possui orientação jurisprudencial no sentido de que, sobrevindo pena restritiva de direitos a condenado que se encontra cumprindo pena privativa de liberdade, não se verifica a ocorrência das hipóteses legais de conversão previstas no art. 44, §§ 4º e 5º, do Código Penal. Contudo, o cumprimento simultâneo de pena privativa com pena restritiva deve mostrar-se compatível, o que não se verifica quando o apenado encontra-se cumprindo pena em regime semiaberto ou fechado. Dessarte, faz-se mister a unificação das penas, nos termos do art. 111 da LEP, não havendo se falar, portanto, em aplicação do art. 76 do CP (HC n. 248.567/RS, Relator Ministro Marco Aurélio Bellizze, DJe 30.10.12 - grifou-se).
+A esse respeito, os seguintes precedentes jurisprudenciais:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. CONVERSÃO DE PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. CONDENAÇÃO SUPERVENIENTE. PENA DE RECLUSÃO. CUMPRIMENTO SIMULTÂNEO. INCOMPATIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O paciente cumpria pena restritiva de direitos, consistente em prestação de serviços à comunidade quando sobreveio nova condenação à pena de 1 ano de reclusão, no regime inicial semiaberto.
+3. A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP).
+Habeas corpus não conhecido.
+(HC 360.379/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/09/2016, DJe 22/09/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. PACIENTE NO CUMPRIMENTO DE PENA EM REGIME FECHADO. NOVA CONDENAÇÃO A PENA RESTRITIVA DE DIREITOS. POSSIBILIDADE DE CONVERSÃO DA RESTRITIVA EM PENA PRIVATIVA DE LIBERDADE. INCOMPATIBILIDADE DO CUMPRIMENTO DA PENA ALTERNATIVA COM O REGIME ANTERIORMENTE IMPOSTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- Este Superior Tribunal de Justiça, na esteira do entendimento firmado pelo Supremo Tribunal Federal, tem amoldado o cabimento do remédio heróico, adotando orientação no sentido de não mais admitir habeas corpus substitutivo de recurso ordinário/especial. Contudo, a luz dos princípios constitucionais, sobretudo o do devido processo legal e da ampla defesa, tem-se analisado as questões suscitadas na exordial a fim de se verificar a existência de constrangimento ilegal para, se for o caso, deferir-se a ordem de ofício.
+- A jurisprudência desta Corte Superior tem se posicionado no sentido de que o Juiz da execução pode converter a pena restritiva de direitos em privativa de liberdade quando, sobrevindo nova condenação, o regime prisional anteriormente fixado for incompatível com o cumprimento de pena restritiva de direitos. Precedentes.
+- Assim, verifica-se no caso dos autos que, estando a paciente cumprindo pena privativa de liberdade em regime fechado, é totalmente incompatível a manutenção da pena restritiva de direitos consistente na prestação de serviços à comunidade que sobreveio com a nova condenação.
+Habeas corpus não conhecido.
+(HC 277.990/RS, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 17/12/2013, DJe 13/02/2014 - grifou-se).
+Havendo, pois, incompatibilidade no cumprimento simultâneo das penas impostas, por estar o recorrido cumprindo pena em regime fechado, devida a conversão da pena restritiva de direitos em privativa de liberdade.
+Ante o exposto, dou provimento ao recurso especial para determinar a conversão das penas restritivas de direitos impostas ao recorrido em privativa de liberdade.
+A decisão agravada encontra esteio na jurisprudência desta Corte, que se firmou no sentido de que, sobrevindo condenação que impossibilite o cumprimento simultâneo das penas, o que ocorre nos casos de condenações em regime fechado ou semiaberto, deve-se proceder à conversão da sanção restritiva de direitos em privativa de liberdade, unificando-se as penas. Nesse sentido:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE CONDENAÇÃO À REPRIMENDA RESTRITIVA DE DIREITOS. CONVERSÃO DA PENA ALTERNATIVA EM PRIVATIVA DE LIBERDADE. POSSIBILIDADE. INCOMPATIBILIDADE DAS REPRIMENDAS.
+1. Havendo nova condenação no curso da execução e não sendo compatível o cumprimento concomitante da reprimenda restritiva de direitos com a privativa de liberdade anteriormente imposta, faz-se necessária a unificação das penas.
+2. Recurso provido (REsp 1728864 / MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/05/2018, DJe 25/05/2018).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REEDUCANDO EM CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE. CONDENAÇÃO SUPERVENIENTE. PENA RESTRITIVA DE DIREITOS. CUMPRIMENTO SIMULTÂNEO. IMPOSSIBILIDADE. CONVERSÃO DA PENA SUBSTITUTIVA EM REPRIMENDA RECLUSIVA.
+1. "A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP)" (HC 360.379/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/9/2016, DJe 22/9/2016).
+2. No caso dos autos, o agravante cumpria pena privativa de liberdade em regime fechado quando sobreveio nova condenação que foi substituída por pena restritiva de direitos.
+3. Desse modo, forçosa a conversão da pena substitutiva em privativa de liberdade e a posterior unificação das reprimendas.
+4. Agravo regimental desprovido (AgRg no REsp 1634175 / MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017).
+Ante o exposto, voto por negar provimento ao agravo regimental.
