@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], [NOME], RENE MAURICIO MUNIZ e JONAS SIMIONI MATOS contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 0800107-97.2017.9.13.0000, assim ementado:
+HABEAS CORPUS - AUDIÊNCIA ADMONITÓRIA DESIGNADA - INÍCIO DE EXECUÇÃO PENAL - ALEGAÇÃO DE RECONHECIMENTO DE EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL PELO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA INOCORRÊNCIA ORDEM DENEGADA (fl. 264).
+Os recorrentes impetraram a ordem perante o Tribunal originário alegando constrangimento ilegal decorrente de ato praticado pelo Juiz de Direito Cooperador na Terceira Auditoria da Justiça Militar Estadual, que designou o prosseguimento do processo referenciado para dar início à execução penal definitiva, apesar de ter sido declarada prescrita a pretensão punitiva do Estado por esta Corte. Foram condenados pela prática dos crimes previstos nos artigos 242, § 2º, 290 e 305, todos do Código Penal Militar (roubo qualificado, tráfico ou posse ou uso de entorpecente e concussão).
+Os recorrentes pleiteiam, em liminar, a suspensão da execução da pena até que seja proferida decisão sobre o presente recurso e no mérito, a anulação dos atos exarados pela autoridade coatora e, via de consequência, a perda do objeto da execução penal pela prescrição de todos os delitos que nos foram imputados.
+Sustentam, em síntese, que a autoridade coatora ao determinar audiência para início da execução definitiva de pena em desfavor dos pacientes está criando resistência à decisão do STJ nos autos do ARESp 464049/MG capitaneada pelo Ministro Relator JOEL ILAN PACIORNIK, a qual de forma expressa ao recepcionar as informações prestadas pela 3ª AJME e, em exercício de juízo cognitivo, julgou o recurso que se encontrava em tramitação na referida instância superior prejudicado pela perda de objeto, vale dizer, por via transversa, reconhecendo a prescrição para todos os delitos.
+Liminar indeferida às fls. 338/339.
+O Ministério Público Federal manifestou-se pela denegação da ordem, conforme parecer de fls. 344/350.
+É o relatório.
+Decido.
+Conforme relatado, as instâncias ordinárias declaram a extinção da punibilidade dos pacientes em relação aos crimes militares de tráfico de drogas e concussão, subsistindo a condenação pelo crime de roubo.
+No âmbito do AResp 464049/MG proferi a seguinte decisão, que transitou em julgado em 8/8/2017:
+Considerando-se as informações prestadas por intermédio do Ofício relacionado ao processo n. 0000369-52.2009.9.13.0003 - 3ª AJME (fls. 2379/2384), no sentido de que foi reconhecida a prescrição da pretensão punitiva estatal em relação a [NOME] ALVES [NOME] JUNIOR, [NOME], RENE MAURICIO MUNIZ e JONAS SIMIONI MATOS, em sentença de 17/05/2017, julgo prejudicado o presente recurso especial, por superveniente falta de objeto, nos termos do art. 34, inc. XI, do Regimento Interno do Superior Tribunal de Justiça.
+Da transcrição acima é nítido que a prescrição da pretensão punitiva em relação aos ora recorrente não foi reconhecida por esta Corte Superior.
+Caso os Recorrentes entendessem que ainda lhes restava interesse no julgamento do Agravo em Recurso Especial em razão do não reconhecimento da prescrição na instância ordinária de um dos crimes pelos quais foram condenados, deveriam ter se atentado ao prazo recursal, impedindo o trânsito em julgado do processo.
+Assim, julgado prejudicado o Agravo em Recurso Especial, mesmo que agora os Recorrentes não se satisfaçam com o decisium, não há falar em reconhecimento da prescrição por esta Corte.
+Logo, transitada em julgada a condenação, não há falar em constrangimento ilegal decorrente do início da execução penal em relação ao crime cuja prescrição não foi reconhecida.
+Quanto ao pleito de reconhecimento da prescrição da pretensão executória, como bem destacado pelo Ministério Público Federal, não há nos presentes autos elementos que permitam sua análise por esta Corte Superior.
+Ausente, portanto, qualquer constrangimento que justifique o provimento do recurso
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso em habeas corpus.
+Publique-se.
