@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por [NOME] contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 517):
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. VENDA, PELA FALECIDA GENITORA DA INVENTARIANTE, DE BEM IMÓVEL AO RÉU. DEVER DE PRESTAR CONTAS.
+A ação de prestação de contas divide-se em duas fases: na primeira, apenas se decide se o autor tem o direito de exigir as contas e o réu o dever de prestá-las, para então, na segunda fase, se adentrar na discussão acerca dos eventuais créditos ou débitos.
+Incontroversa a realização do negócio jurídico de venda de imóvel, de propriedade da falecida genitora da inventariante, ao réu, e não comprovada a quitação do contrato, presente o dever de prestar as contas postuladas.
+DERAM PROVIMENTO À APELAÇÃO. UNÂNIME."
+Nas razões do recurso especial, [NOME] alega violação ao art. 550 do Código de Processo Civil de 2015, bem como ao art. 206, §§ 3º, V, e 5º, I, do Código Civil, ao argumento, entre outros, que "(..) o v. acórdão recorrido merece ser reformado, por também contrariar, como demonstrado, o art. 550, do Código de Processo Civil, tendo em vista que é fato incontestável e provado nos autos, que o negócio havido com a mãe da Autora foi devidamente quitado e por ela testemunhado, fato que dispensa, no caso, a prestação de contas exigida (..)". (fl. 533)
+Contrarrazões às fls. 539-548.
+É o relatório. Decido.
+O recurso em apreço não merece prosperar.
+Cumpre observar que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplicando-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Na espécie, tem-se que os temas referentes à suposta violação aos arts. 206, §§ 3º, V, e 5º, I, do Código Civil não foram apreciados pelo eg. Tribunal a quo, acarretando a ausência de prequestionamento desses dispositivos legais. Ademais, não foram opostos embargos de declaração em face do o v. acórdão que julgou a apelação, para fins de prequestionar essas normas.
+Nesse diapasão, nessa parte o apelo nobre não merece conhecimento, em face da incidência, por analogia, do óbice da Súmula 282 e 356 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA 5/STJ. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1278068/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/03/2019, DJe 19/03/2019 - grifou-se)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AÇÃO RESCISÓRIA. DECISÃO COM TRÂNSITO EM JULGADO. FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1094546/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2018, DJe 17/12/2018 - grifou-se)
+Prosseguindo nas razões do apelo especial, tem-se que, ao apontar violação ao art. 550 do CPC/2015, o recorrente sustenta que é fato incontestável e provado nos autos que o negócio havido com a mãe da recorrida foi devidamente quitado, mesmo sem o reconhecimento de firma, e por ela testemunhado, fato que dispensa, no caso, a prestação de contas exigida.
+Por sua vez, o TJ-RS, soberano na análise do acervo fático-probatório, consignou que não restou comprovada a quitação dos valores decorrentes do negócio jurídico e, em que pese a sustentação de quitação do débito, os documentos juntados aos autos caminham em sentido oposto, sendo suficientes para autorizar a prestação de contas. Confira-se excerto do v. acórdão estadual (fls. 520-521):
+ "Na hipótese em exame, conforme se depreende da análise dos autos, não restou comprovada a quitação dos valores decorrentes da realização do negócio jurídico entre a falecida e o demandado, o qual consiste na venda de imóvel localizado na Rua Paula Ramos, n4 1194, nesta cidade, matriculado sob o nº 21.342, sendo, portanto, cabível o pedido de prestação de contas.
+ Em que pese a falecida tivesse subscrito declaração de quitação de débito no ano de 2000 (vide fl. 59), observa-se que em tal documento não há reconhecimento de firma.
+ Por outro lado, o documento da fl. 126, cuida-se de declaração da falecida, onde consta que no ano de 2002, ainda estava recebendo valores pela venda do imóvel ao demandado.
+ Tal declaração, além de ter sido realizada em Cartório, com o reconhecimento de firma, é corroborada pelo depoimento da testemunha Marcelo 5. J., ex-funcionário do demandado, que, em Juízo, afirmou ter efetuado depósitos mensais para a falecida em todo o período que trabalhou na empresa Kanando Postos de Combustíveis, ou seja, do ano de 1992 a 2004 (fls. 187/190).
+ Embora tenha o demandado sustentado a quitação do débito decorrente da compra e venda do imóvel já referido, os documentos juntados ao processo caminham em sentido oposto.
+ O documento da fl. 126, por si só, já se mostra suficiente para autorizar a prestação de contas postulada.
+ Assim, uma vez comprovada a causa de pedir (venda do imóvel da mãe ao demandado) e ausente demonstração da tese defensiva (quitação integral do preço), ônus que competia ao réu, nos termos do artigo 373, inciso II, do CPC/2015, presente o dever de prestar contas relativamente à aquisição do bem, da de cujus, objeto do contrato de compra e venda celebrado em 1997, cabendo ao demandado juntar os documentos que demonstrem os pagamentos feitos." (grifou-se)
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu que restou presente o dever de prestar contas relativas à aquisição do bem. Dessa forma, a pretensão de alterar tal entendimento, sob alegada ofensa ao dispositivo mencionado, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula n. 7/STJ. Nessa linha de intelecção, confira-se o seguinte precedente:
+"PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. AFRONTA AO ARTIGO 535, II, DO CPC/73. AÇÃO DE PRESTAÇÃO DE CONTAS. DEVER RECONHECIDO. CURADOR DO GENITOR. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ.
+(..)
+3. A reforma do julgado, no tocante à existência do dever de prestar contas pelo recorrente, demandaria o reexame do contexto fático-probatório, providência vedada no âmbito do recurso especial, a teor do enunciado da Súmula nº 7, do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 477.376/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/08/2017, DJe 04/09/2017 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$1.600,00 (mil e seiscentos reais) para R$1.760,00 (mil setecentos e sessenta reais).
+Publique-se.
