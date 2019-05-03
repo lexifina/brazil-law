@@ -1,0 +1,6 @@
+DECISÃO
+TELMA REGINA ALVES alega sofrer constrangimento ilegal ao seu direito de locomoção, em decorrência da decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo que, ao indeferir a medida liminar postulada no HC n. 2247115/72.2018.8.26.0000, manteve a prorrogação de sua prisão temporária.
+Em superação à Súmula n. 691 do STF, deferi a liminar apenas para assegurar à paciente que aguardasse em liberdade o julgamento final deste habeas corpus, se por outro motivo não estivesse presa (fls. 78-85).
+Em consulta ao sítio eletrônico do Tribunal de origem, verifico que, em 14/2/2019, o writ originário foi julgado prejudicado, em razão da liminar aqui deferida e, também, porque sobreveio o escoamento do prazo da prorrogação da prisão temporária decretada pelo Juízo de primeiro grau. Nesse contexto, e, ainda, considerando o ofício de fls. 91/116, no qual foi noticiada a superveniência, em 23/11/2018, do início da ação penal com o oferecimento e o recebimento da denúncia, entendo prejudicado o pleito aqui formulado, em razão da perda do objeto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus e torno sem efeito a liminar anteriormente deferida.
+Publique-se. Intime-se.
