@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Vitória contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal objetivando reformar o acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO EM APELAÇÃO. EXPROPRIAÇÃO. DÉBITO TRIBUTÁRIO RELATIVO A FATOS GERADORES ANTERIORES AO ATO EXPROPRIATÓRIO. ALEGAÇÃO DE RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO. DESCABIMENTO. VALORES QUE DEVEM SER COBRADOS DO EXPROPRIADO.
+I- A desapropriação por constituir uma aquisição originária da propriedade afasta qualquer gravame incidente sobre o imóvel, recebendo a União uma propriedade isenta de qualquer vínculo jurídico anterior que o precede, o que não afasta a possibilidade de o Município buscar do expropriado a satisfação da dívida tributária, sub-rogada no preço pago na expropriação ao particular.
+II- Acrescente-se, enfim, que, como à legislação tributária é vedado alterar a definição, o conteúdo e o alcance dos institutos, conceitos e formas de direito privado (art. 110 do CTN), conclui-se serem inexigíveis perante a União os créditos tributários de IPTU incidentes sobre o imóvel expropriado, derivados de fatos geradores ocorridos anteriormente ao ato expropriatório da União, devendo eventuais direitos creditórios em favor da recorrente ser imputados ao expropriado.
+III- Levando-se em consideração que a desapropriação é ato de aquisição originária de propriedade, não há a transferência de responsabilidade tributária prevista no artigo 130 do CTN ao ente expropriante.
+IV- Agravo interno do MUNICÍPIO DE VITÓRIA a que se nega provimento.
+Na origem, foi ajuizada execução fiscal pelo Município de Vitória em desfavor de Projeção Incorporação e Construção Ltda., buscando a satisfação do crédito que somava R$ 1.195,54 (mil, cento e noventa e cinco reais e cinquenta e quatro centavos), em setembro de 2016 (fl. 17), a título de IPTU, tendo sido opostos embargos à execução pela União, que foram acolhidos para declarar a inexigibilidade do crédito tributário, considerando que a imunidade tributária alcança os impostos incidentes sobre imóvel desapropriado, ainda que os fatos geradores sejam anteriores à ocorrência da desapropriação.
+O Tribunal de origem manteve a sentença, considerando que a desapropriação é ato de aquisição originária de propriedade, não havendo a transferência de responsabilidade tributária prevista no art. 130 do CTN ao ente expropriante, nos termos da ementa acima transcrita.
+No recurso especial, o recorrente aponta a violação dos arts. 130 do CTN, bem assim o 34 do Decreto-Lei n. 3.365/1941, aduzindo, em suma, que, considerando a ocorrência da transmissão do imóvel e consequente sub-rogação das obrigações tributárias pelo respectivo adquirente (União), a este incumbia abater do montante pago a título de indenização expropriatória o valor correspondente ao tributo devido.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base no Enunciado Sumular n. 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+O recurso especial não comporta provimento.
+O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, que é no sentido de que, em se tratando de débitos exequendos referentes a fatos geradores anteriores à desapropriação efetivada pela União, não há a transferência de responsabilidade tributária prevista no art. 130 do CTN ao ente expropriante.
+Isso porque a desapropriação é forma de aquisição originária da propriedade e ato de império, independentemente da vontade do expropriado e inábil a transmitir vínculo obrigacional bilateral, inclusive as obrigações tributárias sobre o bem, devendo eventuais créditos serem exigidos do expropriado.
+Confira-se:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DESAPROPRIAÇÃO. AQUISIÇÃO ORIGINÁRIA DE PROPRIEDADE. EXIGIBILIDADE DE TRIBUTOS ANTERIORES À AO ATO DESAPROPRIATÓRIO. AUSÊNCIA DE RESPONSABILIDADE DO ENTE EXPROPRIANTE. RECURSO ESPECIAL NÃO PROVIDO.
+1. No caso em tela o recorrente exige do ente expropriante, em execução fiscal, os tributos (IPTU e Taxa de Limpeza Pública de Coleta de Resíduos Sólidos) incidentes sobre o imóvel desapropriado, derivados de fatos geradores ocorridos anteriormente ao ato expropriatório.
+2. Considerando o período de ocorrência do fato gerador de tais tributos, e, levando-se em consideração que a desapropriação é ato de aquisição originária de propriedade, não há a transferência de responsabilidade tributária prevista no artigo 130 do CTN ao ente expropriante.
+3. Recurso especial não provido.
+(REsp n. 1.668.058/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/6/2017, DJe 14/6/2017.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
