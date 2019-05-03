@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo, interposto pela BRADESCO SAUDE S/A, desafiando decisão que inadmitiu recurso especial, este com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 304):
+PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - Demanda que busca a manutenção de contrato de saúde em favor da autora, após o desligamento da empresa estipulante - Admissibilidade - Contrato coletivo, decorrente de relação de trabalho - Autora que figurou como beneficiária do plano durante toda a relação empregatícia com a estipulante, por mais de dez anos (sendo, antes aposentada) - Direito de ser mantida como beneficiária, nas mesmas condições do contrato (desde que assuma o pagamento integral das prestações - parte que pagava, bem como aquela então a cargo da empregadora) - Artigo 31 da Lei 9.656/98 (que incide na hipótese, já que possui aplicação imediata, além do desligamento da autora da empresa ter ocorrido após a vigência da citada lei) - Reajuste em decorrência do aumento da faixa etária - Insurgência que extrapola o cerne da demanda e deve ser deduzida em ação autônoma - Sentença mantida - Recursos desprovidos.
+A recorrente, em suas razões recursais, alega violação aos artigos 458, § 2º, IV, da CLT; 30, § 6º e 31 da Lei 9.656/98, bem como divergência jurisprudencial.
+Sustenta, em síntese, que nunca houve contribuição do ex-empregado aposentado ao pagamento do prêmio, e, portanto, ausente esse requisito legal, é incabível a continuidade do seguro coletivo em favor da recorrida, pois não preenchido o requisito da contribuição previsto pelo art. 31 da Lei 9.656/98.
+Recurso especial da parte contrária às fls. 418-428.
+É o relatório. Decido.
+A irresignação prospera.
+Cinge-se a contenda a julgar se o ex-empregado aposentado ou demitido sem justa causa possui o direito à continuidade no plano de saúde coletivo empresarial quando, na atividade, a contribuição foi arcada exclusivamente pela empresa empregadora.
+Quanto ao tema, concluiu a Corte de origem:
+ ..  à luz dos documentos que instruem os autos, o entendimento a ser aplicado direciona-se no sentido de que, embora a parte autora não tenha contribuído com pagamentos mensais para manutenção do plano de saúde em questão, apenas fazendo pagamentos em regime justamente de coparticipação quando se valia de alguns serviços colocados a sua disposição, não há como se afastar o argumento de que o benefício disponibilizado, na forma de assistência médica, incorporou-se a sua remuneração, de forma indireta.
+ ..
+Correta, pois, a manutenção da autora, nas mesmas condições da época de vigência do respectivo contrato de trabalho que fica, aqui, condicionada ao pagamento integral da mensalidade. (fls. 306-308)
+Contudo, a Segunda Seção deste Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, firmou entendimento no sentido de que "Nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto" (REsp n. 1.680.318/SP, Relator o Ministro Ricardo Villas Bôas Cueva, SEGUNDA SEÇÃO, julgado em 22/08/2018).
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. PLANO DE SAÚDE. MANUTENÇÃO. APOSENTADO. CUSTEIO POR COPARTICIPAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. DECISÃO MANTIDA.
+1. A jurisprudência de ambas as turmas que compõem a SEGUNDA SEÇÃO firmou-se no mesmo sentido do acórdão embargado, segundo o qual não faz jus à manutenção no plano de saúde da época da ativa o ex-empregado que concorria para o custeio apenas por coparticipação.
+Aplicação da Súmula n. 168 do STJ.
+2. Agravo interno a que se nega provimento."
+(AgInt nos EREsp 1637573/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 01/08/2018)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ARTS. 30 E 31 DA LEI 9.656/1998. COPARTICIPAÇÃO. SALÁRIO INDIRETO. NÃO CONFIGURAÇÃO. MANUTENÇÃO. EX-EMPREGADO APOSENTADO. IMPOSSIBILIDADE. PRECEDENTES. IMPUGNAÇÃO. COLAÇÃO DE JULGADOS CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos da jurisprudência já consolidada desta Corte, o direito à manutenção nos planos de saúde coletivos empresariais dos ex-empregados demitidos sem justa causa ou aposentados restringe-se aos casos em que os beneficiários contribuíam para o pagamento do prêmio ou da contribuição mensal, não se aplicando nas hipóteses de custeio integral das mensalidades pela empresa, cabendo aos empregados a participação em eventuais serviços médicos por eles utilizados. Precedentes.
+2. O plano de saúde custeado pelo empregador não ostenta natureza salarial, ainda que indireta.
+3. Cabe à parte colacionar acórdão contemporâneo ou superveniente em sentido contrário àquele adotado na decisão agravada para fins de impugnação de seus fundamentos, nos termos dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil.
+4. Incidência do enunciado n. 182 da Súmula desta Corte face à ausência de impugnação específica dos fundamentos da decisão agravada.
+5. Agravo interno não conhecido."
+(AgInt no REsp 1620304/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/06/2018, DJe 01/08/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial a fim de julgar improcedentes os pedidos formulados na inicial.
+Ficam invertidos os ônus de sucumbência, ressalvada a hipótese de concessão da assistência judiciária gratuita.
+Publique-se.
