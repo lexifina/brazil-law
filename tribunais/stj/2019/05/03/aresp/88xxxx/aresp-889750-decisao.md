@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 754/760).
+O acórdão recorrido está assim ementado (e-STJ fls. 594/595):
+Apelação Cível - Ação Ordinária - Suplementação de aposentadoria de previdência privada - Pretensão autoral julgada improcedente - Aplicação do Código de Defesa do Consumidor - Súmula 321 do STJ - Cerceamento de defesa diante da prematuridade do julgamento - Desnecessidade de produção de provas - Matéria exclusivamente de direito - Ausência de apreciação do Termo de Ajustamento - Nulidades não constatadas - Mérito - Utilização do fator de redutor no cálculo do benefício - Alteração do regulamento do plano de previdência - Pleito pela aplicação do estatuto em vigor à época da inscrição do autor - Impossibilidade - Termo de adesão às novas regras assinado pelas partes - Renúncia às normas previstas nos regulamentos anteriores - Inteligência da Súmula 10 deste Tribunal - Precedentes desta Corte - Apelo conhecido e improvido - Decisão Unânime.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 567/573).
+No especial (e-STJ fls. 620/643), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 5º, LV, e 93, IX, da CF e à Sumula 288 do TST por negativa de prestação jurisdicional.
+Apontou afronta ao art. 330 e 331 do CPC/1973, sustentando cerceamento de defesa pelo julgamento antecipado da lide.
+Indicou contrariedade aos arts. 5º e 7º da CF, 6º do CDC e às Súmulas n. 51 e 288 da CLT, afirmando desrespeito ao direito adquirido, destacou que "em que pese a existência do Termo de Repactuação e do mesmo obrigar as partes, não há no referido documento qualquer menção a alteração do cálculo inicial da aposentadoria, de maneira a autorizar a incidência do FATOR REDUTOR" (e-STJ fl. 636).
+Mencionou negativa do art. 884 do CC/2002, aduzindo fazer jus ao pagamento das diferenças de suplementação e aposentadoria/pensão suplementar.
+Argumentou a necessidade de observância da inversão do ônus da prova e que eventual recolhimento previdenciário e de IRPF decorrente da condenação incumbiria a recorrente
+Insurgiu-se ainda contra o valor fixado a título de honorários advocatícios, requerendo sua redução, nos termos do art. 20, § 4º, do CPC/1973.
+No agravo (e-STJ fls. 764/790), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelos recorridos (e-STJ fls. 832/840).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Quanto aos arts. 5º, LV, 7º e 93, IX, da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+Por outro lado, é pacífico o entendimento deste Tribunal de que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518/STJ).
+Com relação ao cerceamento de defesa, o Tribunal de origem consignou que (e-STJ fl. 597):
+O simples fato do magistrado de piso ter prolatado sentença sem fazer o anúncio prévio, por si só, não macula o julgado principalmente considerando que a matéria em análise é estritamente de direito.
+(..)
+Além de ineficaz a prova pretendida, verifica-se que muito embora a recorrente invoque aludida nulidade por cerceamento de defesa, aduzindo a necessidade de produção de prova pericial, olvidou-se em apontar as razões que sustentariam aludida perícia, principalmente o seu reflexo na apreciação da pretensão autoral.
+Isto porque, ao pleitear o afastamento do fator de redutor no cálculo de sua aposentadoria, o processante afastou tal possibilidade com base no termo de adesão firmado entre as partes, inexistindo qualquer discussão sobre o tema, sendo suficientes os fundamentos empregados no julgado, sem existir referidos vícios na serem sanados.
+O acórdão recorrido, com base no conjunto fático-probatório, concluiu pela inexistência de cerceamento de defesa e pela presença das condições para o julgamento antecipado da lide. Não há como modificar tal entendimento no âmbito do recurso especial, incidindo, nesse caso, a Súmula n. 7 do STJ.
+A insurgência relativa ao pagamento das diferenças de suplementação e aposentadoria/pensão suplementar não pode ser sustentada apenas com base nos arts. 6º do CDC e 884 do CC/2002, os quais não regulam a matéria da forma como tratada nos autos. Note-se que o Tribunal dirimiu a controvérsia com base na validade do termo de adesão e seus reflexos. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Ainda que assim não fosse, dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+No que se refere à inversão do ônus da prova, a recorrente não apontou qual dispositivo de lei federal teria sido supostamente violado, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284 do STF.
+A tese de violação do art. 20, § 4º, do CPC/1973, segundo a qual os honorários advocatícios fixados seriam exorbitantes, não foi analisada pela Corte local. Incidente, portanto, a Súmula n. 211 do STJ por falta de prequestionamento.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
