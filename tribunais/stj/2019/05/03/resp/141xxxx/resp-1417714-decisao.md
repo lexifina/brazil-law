@@ -1,0 +1,32 @@
+DECISÃO
+ Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal Regional Federal da 5ª Região, assim ementado:
+"CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. PRESTAÇÃO DO FINANCIAMENTO. SUPOSTO DESCONHECIMENTO DO NÚMERO DA CONTA CORRENTE PARA DÉBITO. ALEGAÇÃO NÃO COMPROVADA. AUSÊNCIA DE SALDO. COBRANÇA DAS PRESTAÇÕES PELA CEF COM JUROS E CORREÇÃO. LEGALIDADE.
+1. Contrato de mútuo habitacional celebrado entre o Apelante e a CEF em que foi pactuado que as parcelas do financiamento seriam deduzidas de débito em conta corrente.
+2. Requerimento do Apelante no sentido de que a Caixa cumpra o contrato procedi
+3. Ausência de saldo na conta corrente capaz de pagar a prestação do financiamento.
+4. Apelante que não comprovou não conhecer o número correto da conta corrente em que o valor da prestação seria debitado.
+5. Legalidade no procedimento da CEF de cobrar juros e correção monetária de prestação paga com atraso. Apelação não provida." (e-STJ,fl. 168)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 180/186)
+Em suas razões recursais, a recorrente aponta violação dos arts. 515, §§1º e 2º e 535, I do CPC/73, divergência jurisprudencial, sustentando, em síntese, que a questão do envio das correspondências para o endereço errado, inclusive, informando da abertura de nova conta corrente e da negativação do nome do Recorrente perante o SPC e SERASA não foi apreciada pela Corte de origem e é ponto inquestionável à caracterização do direito do Recorrente.
+Apresentadas contrarrazões às fls.216/223 (e-STJ)
+É o relatório. Passo a decidir.
+Da análise dos autos, verifica-se que o colendo Tribunal de origem, não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia, a respeito de o envio das correspondências informando a conta em que seria debitada a prestação do financiamento contratado pelo recorrente ter sido enviada para o endereço da incorporadora e não do consumidor.
+Frise-se que o envio de tais correspondências foi efetivamente adotado como razão de decidir pla Corte de origem para afastar a responsabilidade da recorrida pela inscrição do recorrente em cadastro de inadimplentes, o que demonstra a relevância da análise do ponto apontado como omisso senão vejamos:
+"Compulsando os autos, verifico que não merece reparos a v. sentença, pelos mesmos argumentos expendidos pelo douto Magistrado "a quo", os quais adoto, como razões de decidir, in verbis:
+(..)
+Apesar do autor afirmar que desconhecia a sistemática a ser empregada na espécie, quanto à existência da outra conta e à necessidade de manter, na mesma, saldo suficiente para saldar a divida, percebo que, nos próprios recibos/demonstrativos a ele enviados, acostados, por cópia, às fls. 63/65, houve, na parte inferior do documento, explícita alusão aos respectivos números da agência, da operação e da conta-corrente, sendo ônus do devedor conferir se havia disponibilidade de recursos naquela conta-corrente, expressamente, repita-se, indicada hos boletos recebidos pelo mutuário. Registre-se que não há qualquer informação no sentido de que tais documentos tenham sido entregues com atraso no domicilio cadastrado.
+Nestas circunstâncias, não cometeu qualquer ilegalidade a CAIXA ECONÓMICA FEDERAL - CEF, ao exigir juros e multa de mora do mutuário que não depositou, em tempo hábil, o montante necessário a viabilizar o débito, para fins de pagamento das prestações, nos meses de setembro a novembro dê 2011; razão pela qual não pode ser a mesma compelida a abater os encargos em tela, nem a arcar com indenização por danos morais. " (e-STJ fl. 165/166)
+Com efeito, a eg. Corte de origem quedou-se inerte no exame de questão relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da impossibilidade de incursão no acervo fático-probatório dos autos e de interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 535 do Código de Processo Civil de 1973, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente. Confiram-se, por oportuno, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. USO NÃO AUTORIZADO DA MARCA "RÁDIO TUPI". RECURSO ESPECIAL FUNDADO EM OFENSA AO ART. 535 DO CPC/1973. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO EM EMBARGOS DE DECLARAÇÃO. AGRAVO IMPROVIDO.
+1. Havendo omissão relevante no acórdão proferido pela Corte de origem quanto às alegações de prescrição da pretensão autoral e de caducidade do registro da marca, é devido o acolhimento da dita ofensa ao art. 535 do CPC de 1973, anulando-se o acórdão proferido em sede de embargos de declaração, a fim de que, em novo julgamento, seja sanado o vício verificado.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 842.021/SP, de minha Relatoria, QUARTA TURMA, julgado em 26/02/2019, DJe 15/03/2019)
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pelo ora embargante, configurada está a ofensa ao artigo 535 do Código de Processo Civil de 1973, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos.
+Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgRg no AREsp 630.520/BA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/08/2018, DJe 11/09/2018)
+Dessa forma, está caracterizada a alegada ofensa ao art. 535 do CPC/73, em razão da omissão da colenda Corte de origem em examinar a questão suscitada.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios e determinando-se, por conseguinte, que outro seja proferido e, assim, sanada a omissão aqui verifica.
+Publique-se.
