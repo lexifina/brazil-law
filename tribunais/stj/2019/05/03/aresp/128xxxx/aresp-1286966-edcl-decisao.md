@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GILMAR MANCUSO GIL contra a r. decisão monocrática de fls. 589/595, da lavra do ilustre Ministro Lázaro Guimarães, que conheceu do agravo para dar provimento ao recurso especial interposto por BANCO DO BRASIL S/A, determinando a integral suspensão do cumprimento provisório de sentença em curso, até o julgamento dos embargos de divergência ou a eventual cassação do efeito suspensivo que lhe foi atribuído (EREsp 1.319.232/DF).
+No presente recurso, a parte embargante alega haver omissão no julgado em relação ao princípio da celeridade processual.
+Aduz não ser caso "de levantamento de valores, mas apenas a regular tramitação do cumprimento provisório de sentença, com sua análise e o julgamento da respectiva impugnação, para, encontrado o valor correto de cada operação e quando do trânsito em julgado da ação coletiva, o produtor rural ou seus familiares possam receber, com o mínimo de dignidade e maior brevidade, as importâncias lhes usurpadas há quase trinta anos atrás." (fl. 603).
+Defende que cessou a suspensão concedida mediante a tutela provisória de urgência nos embargos de divergência, posto que, julgado o RE nº 870.947 pelo STF, os embargos de passam a ter seu curso normal, ou seja, sem efeito suspensivo. Requer seja dado provimento à pretensão recursal para prosseguimento da execução.
+A parte contrária apresentou contrarrazões (fls. 616/621).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível a sua interposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide, como pretende a parte embargante.
+Não assiste razão a parte embargante, pois a conclusão ora estabelecida não se mostra alterada diante do recente julgamento no RE 870.947, tendo em vista que, por ora, a situação nos embargos de divergência, que dita ordem de sobrestamento das execuções, permanece inalterada.
+Assim, não existem os apontados vícios na decisão ora embargada, mas o claro intento de rediscutir a questão de concessão de efeito suspensivo aos Embargos de Divergência em REsp 1.319.232/DF no bojo da Ação Civil Pública 94.0008514.
+Destarte, o propósito dos embargantes de rediscutir temas que foram devidamente apreciados não é cabível na via estreita dos embargos de declaração. Isso, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes.
+A propósito, traz-se a lume alguns arestos proferidos nesse sentido, os quais, embora prolatados sob a égide do vetusto CPC/1973, exprimem a firme jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, in verbis:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO NÃO CONHECIDO. SÚMULA 182/STJ. PRETENSÃO DE EXAME DE MATÉRIA DO FUNDO. CARÁTER INFRINGENTE MANIFESTAMENTE INFUNDADO. INTUITO PROTELATÓRIO. MULTA.
+1. Hipótese em que o acórdão embargado concluiu pela não violação do art. 511 do CPC e pela ausência de previsão legal para que o valor das custas de preparo conste da publicação da sentença.
+2. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento, ausentes in casu.
+3. O inconformismo dos embargantes busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+4. A insurgência revela propósito manifestamente protelatório e utilização indevida dos aclaratórios, justificando a incidência da sanção prevista no art. 538, parágrafo único, do CPC.
+5. Embargos de Declaração rejeitados, com fixação de multa de 1% sobre o valor da causa." (EDcl nos EDcl no AgRg no AREsp 381.986/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/8/2014, DJe de 9/10/2014, n.g)
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. CARÁTER INFRINGENTE DA PRETENSÃO. ANÁLISE DE QUESTÕES DE ORDEM CONSTITUCIONAL. INVIABILIDADE.
+1. Inexiste irregularidade a ser elucidada na via dos embargos de declaração se o acórdão embargado manifesta-se de modo claro e objetivo quanto à matéria submetida à apreciação da Corte.
+2. O reexame de matéria já apreciada com a simples intenção de propiciar efeitos infringentes ao decisum impugnado é incompatível com a função integrativa dos embargos declaratórios.
+3. Em sede de recurso especial, é inviável ao Superior Tribunal de Justiça analisar ou decidir questões de ordem constitucional.
+4. Embargos de declaração rejeitados." (EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, Relator o Ministro JOÃO OTÁVIO DE NORONHA, DJe de 28.10.2008, n.g)
+O simples descontentamento com o "decisum", a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não a sua modificação, que só muito excepcionalmente é admitida.
+Ausente o vício imputado na decisão recorrida, rejeito os embargos de declaração.
+Intimem-se.
