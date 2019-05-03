@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - SENTENÇA DE IMPROCEDÊNCIA - INCONFORMISMO DA PARTE AUTORA - ALEGAÇÃO DE AUSÊNCIA DE TÍTULO EXECUTIVO VÁLIDO - INOCORRÊNCIA - PRESCRIÇÃO TRIENAL - INAPLICABILIDADE - PRESCRIÇÃO INTERCORRENTE - INEXISTÊNCIA - RECURSO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 70 da Lei Uniforme de Genebra e 206, § 3º, VIII, do Código Civil, além de dissídio jurisprudencial, sob o argumento de que não há título executivo, porquanto a nota promissória vinculada a contrato de abertura de crédito carece de liquidez, e a prescrição da pretensão executiva é trienal.
+Assim delimitada a controvérsia, passo a decidir.
+Em que pesem as alegações dos agravantes, o Tribunal local consignou que "contrato firmado entre as partes (movimento 1.11) se trata de Contrato de Empréstimo Pessoal tendo como garantia a nota promissória" (e-STJ, fl. 250) e que, "ao contrário do que alegam os apelantes, o objeto dos autos de execução nº 0002169- 04.2009.8.16.0137 é o Contrato de empréstimo pessoal nº 321/1.498.055" (e-STJ, fl. 255) e não a mencionada nota promissória, que apenas lhe serviu de garantia.
+Reexaminar a questão, à vista da conclusão que o processo executivo está lastreado em contrato de empréstimo pessoal, não em contrato de abertura de crédito ou em nota promissória, encontra inequívoco óbice nos enunciados n. 5 e 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
