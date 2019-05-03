@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e GIVALDO ALMEIDA SILVA - presos cautelarmente no dia 23/9/2016 e denunciados por tráfico de drogas, associação para o tráfico e organização criminosa - contra acórdão do Tribunal de Justiça do Estado de São Paulo (2237734-40.2018.8.26.0000).
+Na ação originária, a defesa alegou excesso de prazo para a formação da culpa. O Tribunal estadual, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 16):
+HABEAS CORPUS com pedido liminar. Suposta prática tráfico ilícito de entorpecentes e associação para o tráfico, além de suspeita de integrar organização criminosa. Pacientes presos preventivamente há mais de 02 (dois) anos, sem que se tenha encerrado a instrução criminal. Alegado excesso de prazo para formação da culpa. Pacientes pleiteiam relaxamento da prisão preventiva por entender estar sofrendo constrangimento ilegal. Impossibilidade. Processo complexo, com inúmeros corréus e percalços. Juízo a quo vem procedendo diligentemente em todas as etapas do processo. Autos aguardando a realização de interrogatório de um dos corréus, por precatória. Ademais, cuida-se de crimes gravíssimos relacionados à atuação de uma das maiores facções criminosas do país. Manutenção da prisão preventiva necessária para garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal. Feito em regular tramitação. Constrangimento ilegal não configurado. Ordem denegada.
+Nas razões do presente writ, a defesa reitera a alegação de excessiva demora na formação da culpa, asseverando que o tempo de prisão supera dois anos, sem que tenha sido concluída a instrução criminal.
+Diante disso, pede, em liminar e no mérito, o relaxamento da prisão preventiva dos pacientes.
+Indeferida a liminar (e-STJ fls. 106/108) e prestadas as informações (e-STJ fls. 113/823), o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 825/830).
+É o relatório, decido.
+Consoante obtidas no endereço eletrônico do Tribunal de origem, verifica-se que o Juízo processante, em 1º/4/2019, revogou a prisão preventiva dos pacientes, momento em que determinou a expedição do alvará de soltura.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Publique-se. Intime-se.
