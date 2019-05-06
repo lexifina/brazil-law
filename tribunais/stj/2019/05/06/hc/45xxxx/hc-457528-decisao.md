@@ -1,0 +1,8 @@
+EMENTA
+HABEAS CORPUS. REVOGAÇÃO DA PRISÃO CAUTELAR. EXCESSO DE PRAZO. SUPERVENIENTE ALVARÁ DE SOLTURA EXPEDIDO NA ORIGEM. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Em 30/4/2019, o Juízo de Direito da 1ª Vara da comarca de Escada/PE proferiu a seguinte decisão no Processo n. 0001688-63.2015.8.17.0570:
+ ..  revogo o decreto preventivo em desfavor do Réu Marcos Paulo Gomes das Neves, devendo os respectivos mandados de prisão preventiva serem devidamente recolhidos. Expeça-se alvará de soltura, pondo o réu em liberdade, salvo se por outro motivo não estiver preso. Aplico ao Réu, conforme determina o art. 319 do Código de Processo Penal, com a nova redação dada pela Lei n.º 12.403/11, as medidas cautelares seguintes: 1. Comparecer a todos os atos do processo, sempre que intimado; 2. Juntar aos autos comprovante de residência atualizado; 3. Não mudar de residência ou ausentar-se da Comarca por mais de 08 (oito) dias sem prévia comunicação ao Juízo; 4. Deverá tomar ocupação para o trabalho. Se já tiver, justificá-la com a devida documentação (caso haja), ou declaração; 5. Recolher-se ao seu respectivo domicílio nos dias e horas em que estiver de folga, caso trabalhe, ou recolher-se antes das 22 horas, se não confrontar com alguma atividade laboral lícita, que caso pratique; 6. Comparecer mensalmente nesta secretaria para justificar suas atividades; 7. Não freqüentar bares, cabarés, cafuas ou casas da mesma natureza. O descumprimento de quaisquer das condições acima acarretará na revogação do presente benefício.  ..
+Tal a circunstância, julgo prejudicado o presente habeas corpus (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
