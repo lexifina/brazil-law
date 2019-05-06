@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Rio Grande do Norte com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 60):
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE NÃO CONHECEU DA REMESSA NECESSÁRIA, SOB O FUNDAMENTO DE QUE O VALOR DO PROVEITO ECONÔMICO OBTIDO NA CAUSA É INFERIOR A 500 (QUINHENTOS) SALÁRIOS MÍNIMOS. PRETENSÃO DO AGRAVANTE DE APLICAR O ENUNCIADO Nº 490 DA SÚMULA DO STJ POR SE TRATAR DE SENTENÇA ILÍQUIDA. FÁCIL CONSTATAÇÃO DE QUE O VALOR DA CONDENAÇÃO NÃO ULTRAPASSA O MONTANTE PREVISTO NO ART. 496, § 3º, II DO CPC (500 SALÁRIOS MÍNIMOS). RELATIVIZAÇÃO DA SÚMULA. PRECEDENTES DO STJ E DESTA CORTE. DESPROVIMENTO DO AGRAVO.
+A parte recorrente aponta violação ao art. 496, § 3º do CPC/2015. Sustenta ser obrigatório o reexame da sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público. Invoca a aplicação da Súmula nº 490/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+O Tribunal de origem não conheceu da remessa necessária, afastando a aplicação da Súmula nº 490/STJ, sob a seguinte fundamentação (fl. 61):
+O Enunciado nº 490 da Súmula do STJ, editada sob a vigência do CPC/73, estabelece que: "a dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas".
+Apesar disso, esta Câmara tem entendido, inclusive seguindo a lógica de precedentes do próprio STJ, que a Súmula deve ser relativizada quando, no caso concreto, o valor da condenação puder ser aferido por cálculos simples, sendo possível constatar que não atingirá o montante previsto na legislação processual (no CPC/73, 60 salários mínimos; no novo CPC, 500 salários mínimos para os Estados e Capitais, nos termos do art. 496, § 3º, II).
+Nesse contexto, a desconstituição da premissa lançada pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+ANTE O EXPOSTO, não conheço do recurso especial. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
