@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+"1)- Agravo Inominado. Ação rescisória de sentença. Acórdão ratificador. Inadmissibilidade. Decadência. Indeferimento da inicial. - II)- Tendo a sentença sido ratificada pela Superior Instância, eventual rescisória deveria ser do acórdão. - III)- Mesmo assim, temos que ocorreu a decadência, já que decorridos mais de dois anos do trânsito em julgado do referido aresto. Inteligência do art. 495, do CPC. - IV)- Extinção do processo que se mantém. Recurso desprovido."
+Opostos dois embargos de declaração, ambos foram rejeitados.
+Nas razões do especial, a parte recorrente alegou violação ao artigo 495 do Código de Processo Civil de 1973, bem como a existência de dissídio jurisprudencial em relação à Súmula nº 401/STJ, visto que a ação foi interposta de forma tempestiva. Aduziu contrariedade ao artigo 284 do CPC/73, pois extinta a ação sem oportunizar a emenda por parte do autor. 1.829, I, do Código Civil, bem como a existência de dissídio jurisprudencial, visto que o cônjuge sobrevivo, casado sob o regime legal de separação de bens, não pode ser considerado herdeiro necessário.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Da análise dos autos, verifico que as alegações de violação à lei federal e de dissídio jurisprudencial não merecem guarida, em virtude do óbice contido na Súmula nº 7, desta Corte.
+O Tribunal de origem, ao analisar o conjunto fático-probatório produzido, assim decidiu (fl. 142 e-STJ):
+"Por outro lado, o direito de propor ação rescisória se extingue em dois anos do trânsito em julgado da sentença ou acórdão rescindendo, ou seja, quando não mais couber qualquer recurso contra a decisão definitiva da lide.
+Isto é o que se extrai da norma do art. 495, do CPC, que se trata de prazo de- cadenciai, não se suspendendo nem se interrompendo e que começa a correr no primeiro dia depois de transitada em julgado a decisão rescindenda. E, no caso dos autos, vê-se que o prazo decadencial já decorreu, vez que referido acórdão transitou em julgado, no mínimo, 15 dias depois da sua publicação no DO, isto que se deu em 17/09/2010, sendo que esta ação foi distribuída somente em 26/06/2013. Anote-se a jurisprudência:"
+Dessa forma, verifico que o Tribunal de origem consignou expressamente que o trânsito em julgado do acórdão rescindendo se deu em 17/9/2010, quando esgotado o prazo para interposição de recurso, a teor do disposto na Súmula nº 401/STJ, e não em 19/3/2013 como pretende o ora recorrente, de modo que ultrapassado o prazo decadencial de 2 (dois) anos.
+Nesse contexto, não sendo um vício sanável, não há que se falar em oportunização para emenda pelo autor.
+Dessa forma, a alteração dessas premissas estabelecidas no acórdão recorrido implicaria necessariamente o reexame fático-probatório, o que é vedado na estreita via do recurso especial, em virtude do óbice contido pela Súmula nº 7, desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EXECUÇÃO DE HONORÁRIOS FIXADOS SOBRE O VALOR DA CONDENAÇÃO. PRESCRIÇÃO. TERMO INICIAL. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Hipótese em que o Tribunal de origem estabeleceu o termo inicial da prescrição quando do transito em julgado da sentença de liquidação, pois somente a partir dela que o título judicial a embasar a execução se apresentaria líquido.
+2. Assim, o exame da alegação de que o termo inicial deve se dar com o transito em julgado da ação de conhecimento por não ter existido processo de liquidação de sentença, mas apenas meros cálculos aritméticos, demandaria incursão no contexto fático probatório, o que é inadmissível na via estreita do recurso especial, ante o óbice da súmula 7/STJ.
+3. É inviável o conhecimento do dissídio jurisprudencial quando a questão foi decidida com base nas peculiaridades fáticas do caso, a justificar a incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento
+(AgInt no AREsp 792.187/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2017, DJe 6/12/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ART. 535 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA nº 282/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PRAZO DECADENCIAL. TERMO INICIAL. ÚLTIMA DECISÃO PROFERIDA NOS AUTOS. TRÂNSITO EM JULGADO. ART. 495 DO CPC/1973. SÚMULA Nº 401/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil de 1973 nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+4. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. O prazo decadencial de 2 (dois) anos para a propositura da ação rescisória inicia-se com o trânsito em julgado da última decisão proferida no processo, que se aperfeiçoa com o exaurimento dos recursos cabíveis ou com o transcurso do prazo recursal, a teor do que dispõe a Súmula nº 401/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 222.251/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/10/2017, DJe 30/10/2017)
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Intimem-se.
