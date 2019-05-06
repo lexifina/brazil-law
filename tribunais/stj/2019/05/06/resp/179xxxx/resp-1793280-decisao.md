@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. QUESTÕES ALEGADAS E NÃO ABORDADAS PELA CORTE DE ORIGEM. VIOLAÇÃO DO ARTIGO 1.022, II, DO CPC/2015. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fulcro nas alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 283):
+PROCESSO CIVIL. AUSÊNCIA DE CONTESTAÇÃO. DISPENSA DE HONORÁRIOS.
+Tratando-se de hipótese elencada nos artigos 18 e 19 da Lei nº 10.522/02, aplica-se a dispensa de honorários advocatícios, prevista no § 1º do artigo 19 do referido diploma legal.
+Os embargos de declaração foram rejeitados, conforme fls. 302-305.
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 1.022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, qual seja: em qual hipótese se amolda o caso concreto aos casos dos artigos 18 e 19 da Lei nº 10.522/2002.
+Contrarrazões às fls. 338-340.
+Juízo positivo de admissibilidade à fl. 343.
+É o relatório. Passo a decidir.
+Como visto, pretende a recorrente seja anulado o acórdão prolatado em sede de embargos de declaração, por infringência ao disposto no artigo 1.022, II, do CPC/2015, ante a negativa de prestação jurisdicional, ao argumento de que o julgado não teria emitido juízo acerca de qual hipótese se amolda o caso concreto aos casos dos artigos 18 e 19 da Lei nº 10.522/2002.
+Extrai-se dos autos que, não obstante tenha a recorrente alegado a questão nas razões dos embargos declaratórios, o Tribunal de origem não se manifestou quanto à matéria articulada, embora necessária à solução da controvérsia.
+É pacífico o entendimento deste Tribunal Superior no sentido de que o órgão julgador não é obrigado a se manifestar sobre todos os argumentos expostos pelas partes, contanto que adote fundamentação suficiente para o efetivo julgamento da lide. Contudo, na presente hipótese, não há dúvida de que a Corte a quo deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela ora recorrente e indispensável à apreciação do apelo extremo.
+Assim, caberia ao Tribunal de origem decidir acerca da matéria embargada, o que não ocorreu na hipótese, já que o enfrentamento das questões ventiladas nos embargos de declaração é absolutamente insuperável e não pode ser engendrado pela vez primeira no Tribunal Superior.
+Sob essa ótica, inegável a violação do 1.022, II, do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a apontada omissão.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. REPASSE DE VERBAS FEDERAIS AO ESTADO DO PIAUÍ. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRESTAÇÃO DE CONTAS PERANTE ÓRGÃO FEDERAL. MANIFESTO INTERESSE DA UNIÃO EM INTEGRAR A LIDE. MINISTÉRIO PÚBLICO FEDERAL COMO AUTOR DA AÇÃO. ÓRGÃO DA UNIÃO. VERBAS INCORPORADAS AO PATRIMÔNIO DO ESTADO DO PIAUÍ. CIRCUNSTÂNCIA RELEVANTE QUE ALTERA A COMPETÊNCIA PARA PROCESSAR E JULGAR O FEITO. SÚMULA 209/STJ. OMISSÃO PELO TRIBUNAL A QUO. VIOLAÇÃO AO ART. 535 DO CPC. RECURSO ESPECIAL PROVIDO.
+1. Mesmo após ter sido suscitado a se manifestar, pela via dos Embargos de Declaração, o Tribunal local manteve-se inerte em emitir qualquer juízo a respeito da alegação de que a verba recebida da esfera federal foi incorporada ao Estado do Piauí.
+2. Violação ao art. 535, II do CPC que deve ser reconhecida a fim de que os autos retornem à origem, onde tal circunstância deverá ser devidamente enfrentada.
+3. Recurso Especial provido apenas para determinar o retorno dos autos à origem, a fim de que haja pronunciamento sobre a omissão reconhecida (REsp 1.306.306/PI, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS. COFINS. LEI 9.718/98. ALTERAÇÃO DA BASE DE CÁLCULO. SOCIEDADE COOPERATIVA. ROYALTIES. VIOLAÇÃO DO ART. 535, DO CPC. VÍCIOS DE INTEGRAÇÃO CONFIGURADOS.
+1. Constatado que a Corte de origem deixou de se manifestar a respeito de questão indispensável à solução da controvérsia, deve ser reconhecida a nulidade do acórdão e determinado o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a respeito da questão não apreciada.
+2. Agravo regimental não provido (AgRg no REsp 1.259.885/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 22/04/2014).
+Reconhecida a nulidade do acórdão recorrido pelo vício de integração acima identificado, fica prejudicada a análise das demais questões ventiladas no recurso especial.
+Ante o exposto, dou provimento ao recurso especial para, anulando o acórdão que julgou os Embargos de Declaração, determinar o retorno dos autos ao Tribunal de origem, a fim de que profira nova decisão, manifestando-se acerca da matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
