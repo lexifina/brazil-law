@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. AGRAVO DESPROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias previsto nos arts. 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+2. Nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+3. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] do Brasil EIRELI - Em recuperação Judicial e [NOME] contra decisão proferida pela Presidência do Superior Tribunal de Justiça que considerou o recurso especial intempestivo.
+Em suas razões (e-STJ, fls. 501-510), os agravantes declaram que houve feriado local no dia 29/03/2018, razão pela qual o prazo para a interposição do recurso estaria correto.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. AGRAVO DESPROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias previsto nos arts. 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+2. Nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+3. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+4. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A irresignação não merece prosperar.
+Na hipótese em apreço, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, porquanto, à época da publicação da decisão que culminou na interposição do recurso especial (23/08/2018 - e-STJ, fl. 479), já estava em vigência o novo regramento processual.
+Importante ressaltar que a Corte Especial do STJ, ainda sob a égide do Código Processual de 1973, consolidou o entendimento jurisprudencial no sentido de admitir a comprovação posterior da tempestividade do recurso, em agravo interno, na hipótese de ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem.
+A propósito, confira-se o precedente que pacificou a questão:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial.
+(AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/09/2012, DJe 15/10/2012 - sem grifo no original).
+Todavia, esse entendimento não mais persiste, haja vista a disposição expressa do Código de Processo Civil de 2015.
+Com efeito, o § 6º do art. 1.003 do CPC/2015 dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", circunstância que conduziu à revisão da atual jurisprudência desta Corte para reconhecer a impossibilidade de comprovação posterior da tempestividade do recurso.
+A partir da redação do referido dispositivo legal, conclui-se que eventual documento idôneo apto a comprovar a ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser colacionado aos autos no momento de sua interposição.
+O novo diploma processual prevê expressamente que a comprovação da ocorrência de feriado local deverá ser efetivada no ato de interposição do recurso, o que revela a indubitável intenção de o legislador não possibilitar que seja sanado ou desconsiderado o vício de intempestividade do recurso, tal qual previsto nos arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015.
+A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+Nesse sentido, transcreve-se trecho do voto proferido pela Ministra Assusete Magalhães, no julgamento do AgInt no AREsp n. 932.258/DF, DJe 29/11/2016, que assim dispôs acerca da questão ora analisada (sem grifo no original):
+(..) Além disso, pacificou-se a jurisprudência da Corte Especial do STJ também no sentido de que "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe de 15/10/2012).
+Nesse ponto - e a título ilustrativo -, registra-se que esse posicionamento tende a sofrer revisão, nesta Corte, porquanto o novo Código de Processo Civil não possibilita tal mitigação ao conhecimento do recurso intempestivo. De fato, ainda que a decisão agravada tivesse sido publicada - o que não é o caso, assevere-se - já na vigência do novo CPC, descaberia a aplicação da regra do art. 932, parágrafo único, do CPC/2015, que permitiria a correção do vício, com a comprovação da tempestividade do recurso, posteriormente.
+Isso porque o CPC/2015 acabou por excluí-la (intempestividade) do rol dos vícios sanáveis, conforme se extrai do art. 1.003, § 6º ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), e do art. 1.029, § 3º ("o Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave").
+Confira-se, ainda, o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias previsto nos artigos 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+2. Nos termos do parágrafo 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+3. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único e 1.029, § 3º, do citado diploma legal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.626.179/MT, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/3/2017, DJe 23/3/2017).
+Assim, mantém-se incólume o desfecho conferido pela decisão agravada, exarada pela Presidência deste Tribunal Superior.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
