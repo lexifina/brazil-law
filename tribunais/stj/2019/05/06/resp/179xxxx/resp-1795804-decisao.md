@@ -1,0 +1,64 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. ILÍCITO FISCAL. PENA DE PERDIMENTO DO VEÍCULO TRANSPORTADOR. ARRENDAMENTO MERCANTIL. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fls. 522/523):
+ADMINISTRATIVO. PENA DE PERDIMENTO. ARRENDAMENTO MERCANTIL. IMPOSSIBILIDADE. NECESSIDADE DE COMPROVAÇÃO DE CULPA DE TERCEIRO PROPRIETÁRIO DO VEÍCULO. SÚMULA N.138/TFR.
+1. No caso de importação irregular de mercadorias, a pena de perdimento deve ser aplicada ao veículo transportador sempre que houver prova de que o proprietário do veículo apreendido concorreu de alguma forma para o ilícito fiscal (Inteligência da Súmula nº 138 do TFR) e relação de proporcionalidade entre o valor do veículo e o das mercadorias apreendidas.
+2. Os veículos: Fiat/Uno Mille, placa [PLACA], chassi nº 9BD15802524373370, GM/S-10, placa [PLACA], chassi nº 9BG138BT0XC930504 e VW/Parati, placa [PLACA], chassi ri 9BWZZZ374XT041749, foram apreendidos quando transportavam mercadoria de origem estrangeira desacompanhada de documentação que comprovasse a sua regular internação, segundo os Autos de Infração e Termo de Apreensão juntados às fls. 66/152.
+3. Os referidos veículos são objeto de regular contrato de arrendamento mercantil, pelo qual os autores Banco Itaucard S/A e Banco ItauLeasing S/A são os proprietários e os arrendatários [NOME] (VW/Parati- fl. 57), [NOME] (Fiat/Uno - tl. 60) e [NOME] (GM/S-10 - fl. 62) eram os possuidores na época da apreensão.
+4. De acordo com as regras preconizadas pela Lei n." 6.099/74 que trata do arrendamento mercantil, a propriedade do bem é do credor na condição resolúvel, ou seja, com a possibilidade de o arrendatário/devedor, no final da avença, optar por tornar-se o proprietário do bem. Assim, na falta de pagamento, a condição resolúvel não se dará e o arrendatário não adquirirá a propriedade do veículo.
+5. Da leitura do artigo 104, inciso V, do Decreto-lei 37/66, regulamentado pelo artigo 617, V, do Decreto n.º 4.543/2002 (Regulamento Aduaneiro aplicável aos fatos), aplica-se a pena de perdimento quando, cumulativamente, o veículo estiver conduzindo mercadoria sujeita a perdimento e as mercadorias pertençam ao responsável pela infração.
+6. Não foi possível imputar responsabilidade aos autores quando da apreensão dos veículos, na medida em que, não sendo, os proprietários dos veículos, agentes da infração e tampouco demonstrado que de qualquer forma tenham concorrido para sua prática ou dela tenham se beneficiado, inaplicável a pena de perdimento cujo pressuposto é a responsabilidade pela infração.
+7. Apelação provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 617, V, do Decreto-Lei n. 4.543/02, 94, 104 e 105 do Decreto-Lei n. 37/66, 124, II, 123 e 136 do CTN, sob o argumento de que, a despeito de não haver vínculo da instituição financeira (credora) com a conduta ilícita do arrendatário, o veículo objeto do arrendamento mercantil é passível de pena de perdimento ante a configuração de ilícito fiscal (transporte de mercadoria de procedência estrangeira sem documentação legal).
+Com contrarrazões às fls. 575/588.
+Juízo positivo de admissibilidade às fls. 590/593.
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+A Corte de origem, com fundamento nos artigos 96 e 104, V, do Decreto-Lei n. 37/66, entendeu que a aplicação da pena de perdimento de bem é aplicada de forma restrita aos casos em que o arrendatário seja o agente da infração ou tenha de alguma forma concorrido para a prática do ato ilícito, conforme destaca-se do acórdão recorrido:
+O Decreto -Lei nº 37/66, que regulamenta a administração das atividades aduaneiras e a fiscalização, prevê em seu artigo 96, de forma geral, acerca da pena de perdimento, verbis:
+Art. 96 - As infrações estão sujeitas às seguintes penas, aplicáveis separada ou cumulativamente:
+I - perda do veículo transportador;
+II - perda da mercadoria;
+- multa;
+IV - proibição de transacionar com repartição pública ou autárquica federal, empresa pública e sociedade de economia mista.
+Já o artigo 104, do mesmo Diploma Legal, prevê as situações concretas ensejadoras da aplicação do perdimento do veículo, sendo que o caso em análise subsume-se ao inciso V, em destaque:
+Art.104 - Aplica-se a pena de perda do veículo nos seguintes casos:
+I - quando o veículo transportador estiver em situação ilegal, quanto às normas que o habilitem a exercer a navegação ou o transporte internacional correspondente à sua espécie;
+II - quando o veículo transportador efetuar operação de descarga de mercadoria estrangeira ou a carga de mercadoria nacional ou nacionalizada "Ora do porto, aeroporto ou outro local para isso habilitado;
+- quando a embarcação atracar a navio ou quando qualquer veículo, na zona primária, se colocar nas proximidades de outro, vindo um deles do exterior ou a eles destinado. de modo a tornar possível o transbordo de pessoa ou carga, vem observância das normas legais e regulamentares;
+IV - quando a embarcação navegar dentro do porto, sem trazer escrito, em tipo destacado e em local visível do casco, seu nome de registro;
+- quando o veículo conduzir mercadoria sujeita à pena de perda, se pertencente ao responsável por infração punível com aquela sanção;
+VI - quando o veículo terrestre utilizado no trânsito de mercadoria estrangeira desviar-se de sua rota legal, sem motivo justificado:
+Da leitura do artigo acima transcrito, regulamentado pelo artigo 617, V, do Decreto n." 4.543/2002 (Regulamento Aduaneiro aplicável aos fatos), aplica-se a pena de perdimento quando, cumulativamente, o veículo for conduzindo mercadoria sujeita a perdimento e as mercadorias pertençam ao responsável pela infração.
+Ainda, da análise conjunta dos incisos 1 a V do artigo 23 do Decreto -Lei nº 1.455/76, e dos incisos 1 a VI do artigo 104 do Decreto -Lei nº 37/66 a que fazem menção ao artigo 24 do Decreto -Lei nº 1.455/76, infere -seque o dano ao erário se materializa na prática do ato ilícito em operação em comércio exterior que resulte na supressão ou postergação do pagamento de tributos.
+Compulsando os autos, observa-se que não foi possível imputar responsabilidade aos autores quando da apreensão do veículo, uma vez que, não foram os agentes da infração e tampouco restou demonstrado que de qualquer forma concorreram para sua prática ou dela tenham se beneficiado, ou, ainda, tenham causado dano ao erário.
+Desse modo, conclui-se ser inaplicável a pena de perdimento cujo pressuposto é a responsabilidade pela infração  ..  (grifo nosso).
+Ocorre que essa Corte Superior firma sua jurisprudência no sentido de ser possível o perdimento de bem a veículo utilizado em infração fiscal, objeto de arrendamento mercantil, independentemente da boa-fé do arrendador (instituição financeira) ou da ciência ou participação do arrendatário (contratante do arrendamento), em atenção ao que preceitua o art. 123 do CTN. Confira-se os julgados:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. BEM OBJETO DE ALIENAÇÃO FIDUCIÁRIA. ADMISSIBILIDADE DA PENA DE PERDIMENTO. ALEGATIVA DE AUSÊNCIA DE PARTICIPAÇÃO DO ARRENDATÁRIO NO ILÍCITO. QUESTÃO NÃO DEBATIDA NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE PREQUESTIONAMENTO. FALTA DE SIMILITUDE FÁTICO-JURÍDICA. INADMISSIBILIDADE.
+ ..
+3. Ademais, destaque-se que a análise dos atuais precedentes da Segunda Turma denotam que é admitida a aplicação da pena de perdimento de veículo objeto de alienação fiduciária ou de arrendamento mercantil, independentemente da participação do credor fiduciário ou arrendante no evento que deu causa à pena. É o que se verifica dos seguintes julgados: AgRg no REsp 1.383.048/PR, Rel.
+Ministra Diva Malerbi - Desembargadora Convocada TRF 3ª Região, Segunda Turma, DJe 31/3/2016; REsp 1.572.680/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29/2/2016; AgRg no AgRg no AREsp 178.271/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/10/2015.
+4. Embargos de divergência não conhecidos. (EREsp 1.240.899/SC, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 14/06/2017, DJe 30/06/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ÓBICES PROCESSUAIS. ALEGAÇÃO GENÉRICA. RECURSO ESPECIAL PROVIDO. PENA DE PERDIMENTO. VEÍCULO SUBMETIDO A CONTRATO DE ARRENDAMENTO MERCANTIL. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Verifica-se a ausência de demonstração precisa da aplicação das referidas sumulas, limitando-se a parte agravante em apontá-la de forma vaga, o que impede a apreciação das alegações, porquanto a arguição é genérica.
+III - O acórdão recorrido está em confronto com orientação desta Corte, segundo a qual é válida a aplicação da pena de perdimento a veículo submetido a contrato de arrendamento mercantil.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no REsp 1655663/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 27/06/2017, DJe 03/08/2017)
+PROCESSUAL CIVIL. TRIBUTÁRIO. APLICAÇÃO DE SANÇÃO DE PERDIMENTO DE VEÍCULO. NÃO ANULAÇÃO DOS CONTRATOS DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA OU ARRENDAMENTO MERCANTIL EFETUADOS ENTRE O CREDOR E O DEVEDOR.
+I - Cumpre destacar que, mediante a simples leitura do v. acórdão recorrido, percebe-se que o Tribunal de origem debateu expressamente sobre a matéria ora em apreço, motivo pelo qual o presente caso não comporta a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+II - A matéria encimada à apreciação desta Corte Superior é eminentemente jurídica, qual seja, a aplicação da pena de perdimento ao veículo automotor sujeito a contrato de arrendamento mercantil.
+Assim, também fica evidente a inaplicabilidade da Súmula n. 7 do Superior Tribunal de Justiça ao caso concreto.
+III - A jurisprudência do Superior Tribunal de Justiça é dominante no sentido de permitir a aplicação da sanção de perdimento de veículo automotor, objeto de alienação fiduciária ou arrendamento mercantil (leasing), independentemente da valoração sobre a boa-fé do credor fiduciário ou arrendante, senão vejamos: REsp n.
+1.648.142/MS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/6/2017, DJe 13/6/2017; REsp n. 1.572.680/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/2/2016, DJe 29/2/2016; AgRg no AgRg no AREsp n. 178.271/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 1º/10/2015, DJe 9/10/2015; AgRg no REsp n. 1.528.519/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/6/2015, DJe 10/6/2015.
+IV - A aplicação da aludida sanção administrativa não possui o condão de anular os respectivos contratos de alienação fiduciária em garantia ou arrendamento mercantil efetuados entre credor e devedor, os quais possuem o direito de discutir, posteriormente, os efeitos dessa perda na esfera civil.
+V - Agravo interno improvido. (AgInt no REsp 1749552/MS, Rel. Ministro Frnacisco Falcão, Segunda Turma, julgado em 04/12/2018, DJe 11/12/2018)
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRABANDO/DESCAMINHO. VEÍCULO TRANSPORTADOR. PENA DE PERDIMENTO. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA.INOPONIBILIDADE AO FISCO. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ.
+1. O Superior Tribunal de Justiça entende ser possível a aplicação da sanção de perdimento de veículo automotor objeto de alienação fiduciária ou arrendamento mercantil (leasing), independentemente de valoração sobre a boa-fé do credor fiduciário ou arrendante, tendo em vista que os aludidos instrumentos particulares não são oponíveis ao Fisco (art. 123 do CTN).
+2. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação.
+3. Recurso Especial não provido. (REsp 1694124/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2017, DJe 19/12/2017).
+Acrescente-se, por oportuno, que o entendimento encimado prestigia a preservação do interesse público sobre o privado, entretanto, não prejudica direitos e obrigações estabelecidas contratualmente (eventuais garantias ou devedores solidários) com o fim de reparar danos tanto à instituição financeira, quanto aos arrendatários.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em segunda instância e restabelecer a autoridade da decisão proferida em primeiro grau.
+Publique-se. Intimem-se.
