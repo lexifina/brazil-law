@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). EMBARGOS À ADJUDICAÇÃO. ALEGADA IMPENHORABILIDADE DE IMÓVEL CONSTRITO JUDICIALMENTE. COISA JULGADA RECONHECIDA. SUPOSTA NULIDADE DA ADJUDICAÇÃO POR AUSÊNCIA DE INTIMAÇÃO DOS CONDÔMINOS. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DO ACÓRDÃO VERGASTADO. SÚMULA 283/STF. ARESTO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do art. 105, III, da Constituição Federal, ao fundamento de ausência de demonstração da ofensa aos dispositivos arrolados (e-STJ fls. 239-240).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 266-281).
+No recurso especial, a parte recorrente alega ofensa aos arts. 1º e 5º da Lei N. 8.009/1990, ao art. 462 do Código de Processo Civil de 1973, e ao art. 1.322 do Código Civil, sustentando, em síntese, a desconstituição definitiva da penhora do imóvel, haja vista ser este um nítido bem de família; que os demais condôminos devem ser cientificados antes do deferimento da adjudicação de parte ideal do imóvel indivisível; bem como a nulidade da adjudicação.
+Não foram apresentadas contrarrazões (e-STJ fl. 236).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa aos arts. 1º e 5º da Lei N. 8.009/1990, ao art. 462 do Código de Processo Civil de 1973, e ao art. 1.322 do Código Civil, sustentando, em síntese, a desconstituição definitiva da penhora do imóvel, haja vista ser este um nítido bem de família; que os demais condôminos devem ser cientificados antes do deferimento da adjudicação de parte ideal do imóvel indivisível; bem como a nulidade da adjudicação.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 163-165):
+Trata-se de embargos à adjudicação opostos pelo autor [NOME] em relação ao ato formalizado nos autos da ação de execução que lhe move [NOME] sob fundamento de: a) nulidade por impenhorabilidade do imóvel constrito judicialmente e b) falta de intimação dos condôminos. (..)
+Da alegada ausência de coisa julgada da matéria relativa à impenhorabilidade do imóvel adjudicado: Não se conhece do presente recurso interposto pelo embargante, neste tópico, uma vez que a d. juíza de primeiro grau, no mesmo r. despacho que recebeu o recurso do terceiro interveniente, bem dirimiu tal questão, a seguir transcrita:
+"(..) Oportuno anotar que já houve decreto, transitado em julgado, de não conhecimento do recurso de agravo de instrumento interposto nos autos executivos principais por [NOME], [NOME], [NOME] e [NOME]".
+Não se conhece do recurso do embargante, neste tópico.
+Da falta de intimação dos condôminos: Recorrem o embargante e o terceiro prejudicado alegando a nulidade da adjudicação por falta de intimação dos condôminos do imóvel constrito.
+Assim, e em que pesem as argumentações expendidas pelos recorrentes, a r. sentença merece ser mantida pelos seus próprios e jurídicos fundamentos, os quais passam a integrar o presente julgado, como razão de decidir pelo improvimento do recurso, nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça, que se transcreve abaixo: (..)
+Nesse passo, a intimação de quem não é parte no processo de execução, a exceção das pessoas indicadas expressamente no artigo 698 do CPC, não é requisito de validade de ato expropriatório, em especial do ato de adjudicação em que não se faz necessária a publicidade do ato através de editais (CPC, arts. 685-A e 685-B). Essa a orientação jurisprudencial da Corte Bandeirante: (..)
+Ademais, no caso vertente, há que se ressaltar que somente a fração ideal de propriedade do executado foi objeto de constrição judicial, o que afasta a legitimidade e interesse de agir dos condôminos até mesmo para manejar embargos de terceiro.
+Oportuno anotar o interesse de reconhecimento de direito de preferência é exclusivo dos condôminos, pois "ninguém poderá pleitear, em nome próprio, direito alheio, salvo quando autorizado por lei (CPC, art. 6º).
+Por tais fundamentos, reconhecida a coisa julgada da questão de impenhorabilidade do bem imóvel, julgo extinto, sem resolução de mérito (CPC, art. 267, V, última figura) e, no mais, julgo improcedentes os embargos opostos, dando por extinto o processo (CPC, art. 269, I, in fine) e determino o oportuno prosseguimento da execução apensada.
+Com efeito, quanto à alegada inviabilidade da penhora do imóvel, em razão de este configurar nítido bem de família, verifica-se que a irresignação da parte agravante não merece guarida, uma vez que a conclusão do v. acórdão, qual seja, de que "já houve decreto, transitado em julgado, de não conhecimento do recurso de agravo de instrumento interposto nos autos executivos principais por [NOME], [NOME], [NOME] e [NOME]", não foi impugnada, de forma específica, pelo ora recorrente no bojo das razões do especial, incidindo, pois, o óbice constante da Súmula 283/STF ao caso em tela.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FASE DE LIQUIDAÇÃO. PROVA ATUARIAL. REEXAME DA MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTO SUFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, e não havendo a necessidade de perícia ou de se alegar ou produzir fato novo, não há falar em liquidação por arbitramento ou por artigos.
+3. Rever as conclusões do tribunal quanto à necessidade de realização de perícia atuarial demandaria análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. A interposição do recurso especial, deixando a parte recorrente de infirmar especificamente os fundamentos suficientes do acórdão, atrai a incidência da Súmula nº 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido.
+(AgInt no AREsp 913.610/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/11/2017, DJe 04/12/2017) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. OBRIGAÇÃO DE FAZER. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. DOCUMENTOS JUNTADOS EM AUDIÊNCIA DE INSTRUÇÃO. CONHECIMENTO TARDIO. POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem concluiu que a petição inicial foi ajuizada com todos os documentos essenciais, permitindo-se a identificação da causa de pedir, do pedido e da fundamentação jurídica, de modo a garantir o exercício da ampla defesa e do contraditório.
+2. Nesse sentido, a decisão está em consonância com o entendimento desta Corte Superior de que "não é inepta a inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao réu exercitar o direito de defesa e do contraditório" (AgRg no Ag 1.361.333/PI, Rel.
+Min. HAMILTON CARVALHIDO, Primeira Turma, DJe de 18.2.2011).
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do aresto recorrido atrai, por analogia, o óbice da Súmula 283 do STF.
+4. A regra prevista no art. 396 do Código de Processo Civil de 1973, segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos que forem necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, que somente tenham sido conhecidos pela parte em momento posterior (CPC/73, art. 397), como ocorreu na presente hipótese.
+5. Agravo interno não provido.
+(AgInt no AREsp 1015714/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/02/2019, DJe 13/02/2019) - g.n.
+De outra parte, no que se refere à suposta nulidade da adjudicação por ausência de intimação dos condôminos do imóvel constrito, cumpre destacar que o v. acórdão, ao concluir que "a intimação de quem não é parte no processo de execução, a exceção das pessoas indicadas expressamente no artigo 698 do CPC, não é requisito de validade de ato expropriatório, em especial do ato de adjudicação em que não se faz necessária a publicidade do ato através de editais (CPC, arts. 685-A e 685-B)", encontra-se em harmonia com o entendimento desta Corte Superior, veja-se mutatis mutandis:
+PROCESSO CIVIL E DIREITO CIVIL. BEM DE FAMÍLIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. BEM INDIVISÍVEL. PENHORA SOBRE FRAÇÃO IDEAL. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. FALTA DE INTIMAÇÃO PESSOAL DO PATRONO. NULIDADE. INOCORRÊNCIA. ART. 237, CPC. TERCEIROS LEGITIMADOS À ADJUDICAÇÃO DO BEM PENHORADO. INTIMAÇÃO PRÉVIA. DESNECESSIDADE. ART. 685-A, § 2º, CPC.
+1. Inexistindo, no acórdão recorrido, os vícios apontados pelo recorrente, não há violação ao art. 535 do CPC.
+2. A ausência de decisão acerca de dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o exame da insurgência. Súmula 211/STJ.
+3. O acórdão recorrido que adota, no ponto atacado, a orientação firmada pela jurisprudência do STJ não merece reforma. Súmula 83/STJ.
+4. O patrono da parte não possui direito subjetivo a intimação pessoal (v.g., por carta com aviso de recebimento), quando há a publicação dos atos processuais por órgão oficial (art. 237, caput, CPC).
+5. O direito à adjudicação conferido à terceiros interessados, por força do art. 685-A, § 2º, do CPC, não alberga a exigência de prévia intimação destes para o seu exercício.
+6. Recurso especial conhecido em parte e, nesta parte, negado provimento.
+(REsp 1376173/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/11/2013, DJe 13/11/2013) - g.n.
+Ademais, percebe-se que, elidir as conclusões do aresto impugnado de que "somente a fração ideal de propriedade do executado foi objeto de constrição judicial, o que afasta a legitimidade e interesse de agir dos condôminos até mesmo para manejar embargos de terceiro", demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Destarte, melhor sorte não socorre à parte recorrente.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
