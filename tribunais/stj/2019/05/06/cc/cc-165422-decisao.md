@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Juízo de Direito da Vara do Juizado Especial Cível e Criminal da Comarca de Cabreúva/SP (suscitante) e o Juízo da Vara do Trabalho de Itú/SP (suscitado), nos autos da reclamação trabalhista proposta por [NOME] em desfavor do Município de Cabreúva/SP.
+A ação foi proposta perante o Juízo do Trabalho, que declinou da competência, conforme a decisão às fls. 203/204, esta fundada na exegese da Lei Complementar Municipal n. 260, de 8 de outubro de 2003, e em precedente do TRT da 15.ª Região.
+Porém, tendo recebido os autos, o Juízo de Direito do Juizado Especial Cível e Criminal da Comarca da Cabreúva/SP, também se deu por incompetente e suscitou o presente conflito, por considerar que, ao contrário do que interpretou o juízo especializado, a aludida lei complementar municipal não adota a CLT como norma subsidiária, mas como "a norma principal a reger as relações havidas entre este município e seus servidores, eis que a dicção legal não deixa dúvidas quando dispõe que o estatuto municipal encontra-se vinculado à Consolidação das Leis do Trabalho" (fl. 220).
+Essa a origem do presente conflito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Porque presente a condição prevista no art. 66, II, do CPC, bem como satisfeita a exigência inserta no art. 954 do diploma processual com as peças apresentadas, conheço do presente conflito de competência.
+Quanto à questão de fundo, esta Corte tem entendido que a competência para processar e julgar as causas instauradas entre os agentes administrativos e os entes públicos a que servem é determinada pela natureza jurídica do vínculo entre as partes, de modo que a relação celetista fixa a competência da Justiça do Trabalho, assim como as relações de cunho estatutário ou jurídico-administrativa determinam a competência da Justiça Comum, Estadual ou Federal, conforme o caso.
+Nos autos que deram origem ao presente conflito, a autora, [NOME], alega prestar serviços à edilidade como professora do ensino fundamental, em atualmente em exercício na Escola Municipal de Ensino Básico Vereador Oscar Barbosa Neto, que ingressou nos quadros da Administração, mediante prévia aprovação em concurso público, em 20 de junho de 2005, sob regime celetista (fls 6/7). Requer, essencialmente, "a condenação ao pagamento de horas extras, considerando-se a falta de intervalo para refeição e descanso e sua repercussão nos seguintes direitos: 13º salário, férias masi 1/3, DSR, FGTS" (fl. 9).
+Não se achou, dentre as peças apresentadas, contestação oferecida pelo Município de Cabreúva, nem outros documentos que pudessem lançar mais luzes sobre o conflito.
+Porém, é da Lei Complementar n. 260, de 08 de outubro de 2003, cujo inteiro teor, fls. 60/113, foi apresentado pela autora, que se extrai a norma essencial para o deslinde da controvérsia.
+Da aludida norma de regência, destaca-se o disposto nos arts. 219 e 220, verbis:
+Art. 219 - Os atuais servidores públicos municipais terão seus empregos transladados para o atual Regime Jurídico dos Servidores Municipais de Cabreúva, de que trata esta lei complementar e seus anexos, na seguinte conformidade:
+I- Quando o ingresso do servidor no serviço público tenha ocorrido mediante aprovação em concurso público.
+II- Admitidos na forma da lei, por tempo indeterminado, no período anterior ao dia 05 de outubro de 1.983, que tenham sido estabilizados nos termos do disposto no Artigo 19 do ADCT da Constituição Federal, e assim declarados.
+Parágrafo Único - Os empregos dos atuais servidores a que se referem os Incisos deste artigo, que ingressaram no serviço público sob o Regime Celetista, ficam mantidos.
+Art. 220 - Os servidores não estáveis e não concursados, somente ingressarão no regime jurídico municipal de Cabreúva, mediante aprovação em concurso público de provas ou de provas e títulos.
+(fl. 111).
+Ora, tem-se, daí, que os servidores municipais empregados que ingressaram no serviço municipal em data posterior à vigência da norma, mediante prévia aprovação em concurso público (inteligência do art. 219, I) como foi o caso da Sr. [NOME], autora da ação, já ingressaram sob a égide do "atual Regime Jurídico dos Servidores Municipais de Cabreúva, de que trata esta lei complementar e seus anexos" (art. 219, caput).
+Nesse contexto, firma-se a competência da Justiça Estadual, em razão da incidência do que prescreve a Súmula 137/STJ:
+"Súmula 137: Compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vínculo estatutário".
+No mesmo sentido são diversos precedentes desta Corte, dentre os quais se assinalam:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO (SUSCITANTE) X JUSTIÇA COMUM ESTADUAL (SUSCITADA). SERVIDORES ESTADUAIS. FUNDAÇÃO PÚBLICA. TRANSPOSIÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO. RECOMPOSIÇÃO SALARIAL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Os autores tiveram seus empregos transformados em cargos públicos. Alegam que na fixação dos vencimentos sob o novo regime estatutário, não foram observados os valores que lhes seriam devidos.
+2. Em causa, portanto, a remuneração atualmente percebida pelos demandantes - agora na condição de servidores públicos estaduais e sujeitos a regime estatutário - ainda que a aferição desse quantum demande, em tese, o reexame de vantagens cujas bases legais devam ser investigadas nas disposições do regime anterior.
+3. Ademais, a causa de pedir - suposta redução de salários quando da migração de regimes - só tem lugar em momento posterior à mutação das normas reguladoras da relação de trabalho, sem a qual as teses apresentadas na exordial - decesso remuneratório e violação da garantia constitucional de irredutibilidade de vencimentos - não encontrariam nenhuma sustentação fática.
+4. Por essas razões, cabe aplicar na espécie, por analogia, a diretriz estampada na Súmula 137/STJ: Compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos a vínculo estatutário.
+5. Conflito conhecido para declarar a competência da Justiça Comum Estadual.
+(CC 137.348/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 24/02/2015)
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR MUNICIPAL. VÍNCULO JURÍDICO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Discute-se qual a natureza do vínculo existente entre o ente municipal e a reclamante, quanto ao cargo de agente comunitário de saúde, visando-se decidir qual o Juízo competente para o processamento e julgamento da demanda.
+2. Fez-se juntar o "Termo de Posse", provando que, à época, a reclamante estava sob o regime jurídico único, nos termos da Lei Orgânica Municipal n. 04/1990, incidindo, na espécie, o verbete sumular n. 137: "Compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vínculo estatutário".
+3. Agravo regimental não provido.
+(AgRg no CC 134.288/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/12/2014, DJe 16/12/2014)
+Por tudo isso, a diretriz geral que daí se pode extrair para orientar os juízos conflitantes é:
+1 - Para os agentes administrativos do Município de Cabreúva/SP, admitidos após a vigência da Lei Complementar Municipal n. 260, de 08 de outubro de 2003, aplica-se o regime jurídico nela previsto, de natureza estatutária, o que fixa a competência da Justiça Comum Estadual para dirimir os conflitos oriundos da relação entre as partes, em razão do que dispõe o art. 219 da aludida norma e a Súmula 137/STJ;
+2 - Os empregados públicos admitidos anteriormente à data de vigência da aludida lei, e que se enquadrem nos incisos I e II do seu art. 219, continuam sob vínculo celetista, conforme expressa previsão contida no art. 219, parágrafo único, da lei de regência.
+Eis porque, na hipótese que deu origem ao presente conflito, firma-se a competência da Justiça Estadual.
+ANTE O EXPOSTO, e com fundamento no art. 955, parágrafo único, do CPC e nas Súmulas 137 e 568 do STJ, decido de plano o presente conflito para declarar competente o Juízo de Direito da Vara do Juizado Especial Cível e Criminal da Comarca de Cabreúva/SP, o suscitante, para que, afastada a preliminar de incompetência, prossiga no julgamento da demanda, decidindo-a como entender de direito.
+Dê-se ciência aos juízos suscitante e suscitado.
+Publique-se.
