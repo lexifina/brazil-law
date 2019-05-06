@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 170):
+Seguro. Sinistro. Equipamento agrícola. Ocorrência de furto. Ação de cobrança cumulada com indenização por danos morais, ajuizada pela segurada. Sentença de improcedência. Apelo da autora. Valor do limite máximo de garantia que não corresponde ao valor segurado, mas apenas estabelece o limite do valor da cobertura.
+Inteligência do art. 781 do CC/02. Valor da indenização que deve corresponder ao valor do bem no momento do sinistro, de acordo com os termos da apólice, e desde que não ultrapasse o limite máximo de garantia. Dano moral não caracterizado. Inexistência de ato lícito por parte da seguradora. Sentença mantida. Apelo desprovido.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+A decisão agravada deixou de admitir o recurso especial por ausência de demonstração da violação dos arts. 186, 757, 776 e 926 do Código Civil de 2002, pela aplicação das Súmulas 5 e 7 do STJ e por falta de comprovação da similitude de situações com soluções jurídicas diversas entre os acórdãos recorrido e paradigmas no tocante ao dissídio jurisprudencial.
+Em suas razões, a agravante limitou-se a alegar a usurpação da competência do Superior Tribunal de Justiça pela Corte local, a negativa de vigência dos dispositivos legais alinhados no recurso especial e ter demonstrado a divergência jurisprudencial nos moldes legais, deixando de impugnar os fundamentos da decisão de admissibilidade proferida pelo Tribunal de origem relativos à incidência das Súmulas 5 e 7 do STJ, diante da interpretação de cláusulas contratuais, das provas e das circunstâncias fáticas dos autos.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no artigo 544, § 4º, I, do Código de Processo Civil de 1973 (artigo 932, III, do Código de Processo Civil de 2015).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. Inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada, nos termos do que dispõe a Súmula 182 do STJ.
+2. O sistema processual brasileiro consagra e positiva o princípio da dialeticidade ao exigir que o recurso faça impugnação específica aos fundamentos do provimento jurisdicional atacado (arts. 544, § 4º, I, do Código de Processo Civil de 1973; 932, III e 1.021, § 1º, do atual Código de Processo Civil; e 259, § 2º, do Regimento Interno do Superior Tribunal de Justiça).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.003.118/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/10/2017, DJe 24/10/2017.)
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
