@@ -1,0 +1,45 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL E RECURSO QUE DIFICULTOU OU TORNOU IMPOSSÍVEL A DEFESA DA VÍTIMA. NULIDADE DE JULGAMENTO. SUPOSTA PARTICIPAÇÃO DE AMIGA DA FAMÍLIA DA VÍTIMA COMO MEMBRO DO CONSELHO DE SENTENÇA. ARGUMENTO IMPUGNADO NO ACÓRDÃO A QUO. REVISÃO NA VIA ESPECIAL. IMPOSSIBILIDADE EM RAZÃO DA FUNDAMENTAÇÃO ADEQUADA DO ACÓRDÃO A QUO. ALEGADA NULIDADE ABSOLUTA DO PROCESSO. PAS DE NULLITÉ SANS GRIEF. PRINCÍPIO DO PREJUÍZO. NÃO OCORRÊNCIA.
+Recurso especial improvido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Tocantins que condenou o ora recorrente à pena de 14 anos de reclusão, em regime fechado, porque incurso no crime do art. 121, § 2º, II e IV, do Código Penal (Ação Penal n. 0000433-60.2018.827.2703/TO).
+Esta, a ementa do acórdão a quo (fls. 417/418):
+APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL E RECURSO QUE DIFICULTOU OU TORNOU IMPOSSÍVEL A DEFESA DA VÍTIMA. ALEGAÇÕES PRELIMINARES. NULIDADE NO JULGAMENTO. PARTICIPAÇÃO DE AMIGA DA FAMÍLIA DA VÍTIMA COMO MEMBRO DO CONSELHO DE SENTENÇA.
+De acordo com entendimento firmado pelo Superior Tribunal de Justiça, eventuais nulidades ocorridas no plenário de julgamento do Tribunal do Júri devem ser arguidas durante a sessão, sob pena de serem fulminadas pela preclusão, nos termos da previsão contida no art. 571, VIII, do Código de Processo Penal. Na hipótese, a discussão sobre o impedimento ou a suspeição de jurado deveria ter ocorrido no momento do sorteio do conselho de sentença.
+AUSÊNCIA DE IMPARCIALIDADE DO JUIZ PRESIDENTE DO TRIBUNAL DO JÚRI.
+Do compulsar dos autos originários, mais precisamente evento 164, item INTERR4 (áudio), é possível se verificar que não houve quebra de imparcialidade, pois o Juiz Presidente do Tribunal do Júri não emitiu opinião pessoal ou demonstrou simpatia pela posição de uma das partes de forma a influenciar, induzir ou instigar indevidamente o ânimo dos Jurados para a condenação do Apelante. A alegação de parcialidade funda-se em mera opinião pessoal do defensor, baseado no modo pelo qual o magistrado conduziu o interrogatório.
+DEFESA TÉCNICA DEFICIENTE.
+O Apelante teve à sua disposição defesa técnica durante todos os atos processuais e, cm nenhum momento, houve demonstração de prejuízo concreto, mediante registros específicos de danos processuais ou probantes à defesa do mesmo, danos esses porventura defluentes de alguma omissão ou carência determinada ou determinável. E, não se apontando prejuízo concreto algum, não germinam, via de regra, quaisquer nulificações. Afinal, em sede de direito processual penal, como se sabe, vige a máxima pas de nullité sans grief - não há nulidade sem prejuízo.
+PRELIMINARES REJEITADAS. DECISÃO PROFERIDA PELO CONSELHO DE SENTENÇA MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. NÃO OCORRÊNCIA.
+Havendo sustentáculo a mais de uma versão nos autos, a escolha dos jurados por uma delas não gera qualquer vício processual ou decisão manifestamente contrária à prova dos autos. Embora tenha o Apelante apresentado versão distinta da peça acusatória em plenário, infere-se que o Conselho de Sentença terminou rejeitando essa tese e acolhendo a outra (da acusação) existente nos autos, sendo esta a que apresenta maior prestígio probatório, donde não haver se falar tenha a decisão contrariando a prova dos autos RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso especial, o recorrente sustenta que o acórdão estadual violou os arts. 448, § 2º, e 254, ambos do Código de Processo Penal, pois ficou devidamente demonstrado que a jurada [NOME], amiga da família da vítima, figura como membro do conselho de sentença, logicamente impedida de ter participado do julgamento realizado pelo Tribunal do Júri que condenou o recorrente (fls. 431/442).
+Requer, na insurgência especial, por fim (fl. 442):
+ ..  Pelo exposto, requer o Recorrente ao Eminente Ministro e à Colenda Turma a que couber o recebimento e o conhecimento do presente Recurso, que o admita, dele conheça e lhe dê provimento para reformar o R. Acórdão recorrido no sentido de anular o julgamento pelo Tribunal do Júri, determinando a realização de outro julgamento.
+ ..
+Contrarrazões ofertadas (fls. 445/450).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 473/475).
+É o relatório.
+Presentes os requisitos de admissibilidade, o recurso merece ser conhecido.
+Todavia, ao examinar o meritum causae, concluo que o recurso não merece provimento.
+Com efeito, registre-se que o Tribunal de origem, soberano na análise do material fático-probatório disposto nos autos, afastou a suposta nulidade do julgamento firmado pelo Conselho de Sentença, nos seguintes termos (fls. 419/421):
+ ..  A Defesa do Apelante sustenta a nulidade do julgamento realizado pelo Tribunal do Júri, em razão da participação amiga da família da vítima como membro do conselho de sentença.
+Nos termos do artigo 106 do Código de Processo Penal, a exceção de suspeição ou impedimento de jurado deve ser apresentada oralmente em plenário.
+ ..
+Vale mencionar o disposto no artigo 571, inciso VII, do Código de Processo Penal, que determina que as nulidades decorrentes do julgamento em plenário devem ser argüidas logo depois que ocorrerem. Nesse sentido, colaciono entendimento já firmado pelo Superior Tribunal de Justiça:
+ ..
+Tenho, portanto, que a alegação de nulidade em face da suspeição de jurado membro do Conselho de Sentença encontra-se preclusa, por não ter sido argüido em momento oportuno. Além disso, não restou demonstrado no presente caso a existência de prejuízo.
+Assim, rejeito a preliminar argüida.
+ ..
+Da atenta leitura dos autos, denota-se que não merece reforma o acórdão a quo, sobretudo porque inexistente, in casu, protesto acerca da suspeição ou impedimento do jurado no momento oportuno, qual seja, durante a sessão de julgamento, o que provoca a preclusão (fls. 347/351 e 412/426).
+Melhor esclarecendo, este Superior Tribunal entende que eventuais nulidades ocorridas no plenário de julgamento do Tribunal do Júri devem ser arguidas durante a sessão, sob pena de serem fulminadas pela preclusão, nos termos da previsão contida no art. 571, VIII, do Código de Processo Penal.
+Nesse contexto, os incidentes ocorridos em plenário do Tribunal do Júri ou verificados no interior da sala secreta devem constituir objeto de reclamação da parte interessada logo depois de praticado o ato em que ela se envolva, o que não ocorreu na hipótese dos autos. Não restou devidamente comprovado que um dos sete jurados dormiu durante os debates na sessão, fato que não foi registrado em ata (HC n. 481.676/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/4/2019)
+Igualmente: AgRg no AREsp n. 1.009.877/ES, Ministro Jorge Mussi, Quinta Turma, DJe 24/5/2017.
+Além disso, cumpre salientar que o sistema das nulidades é norteado pelo princípio do prejuízo, ou seja, as formas processuais descumpridas devem ser invalidadas apenas quando verificado o prejuízo.
+O Código de Processo Penal, em seu art. 563, dispõe que nenhum ato será declarado nulo se da nulidade não resultar prejuízo para a acusação ou para a defesa. A literalidade do dispositivo deixa clara a exigência do prejuízo às partes para o reconhecimento da nulidade processual.
+Inclusive, o Supremo Tribunal firmou entendimento no sentido de que, para o reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo. Consoante frisou o Ministro Cezar Peluso, ao denegar a ordem no HC n. 82.899/SP, não há, no processo penal, nulidade ainda que absoluta, quando do vício alegado não haja decorrido prejuízo algum ao réu.
+No caso em concreto, a sucessão de atos da relação processual enfraquece a declaração da nulidade prolatada pelo acórdão estadual. Em termos diversos, etimologicamente, processo significa marcha avante, do latim procedere. Logo, a interrupção de seu seguimento, por meio da imposição de nulidades infundadas, fere peremptoriamente o instituto jurídico. Em razão disso, segundo a legislação processual penal em vigor, é imprescindível - quando se trata de nulidade de ato processual - a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+Nesse sentido: AgRg nos EDcl no AREsp n. 297.467/SC, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 18/2/2016.
+A análise destes autos não evidencia a ocorrência de qualquer prejuízo para a parte recorrente, que, tal como já enfatizado, exerceu, em plenitude, as prerrogativas inerentes ao direito de defesa.
+Sendo repetidamente decidida a matéria debatida, conforme os precedentes citados, o presente recurso comporta pronta solução, nos moldes do art. 34 do RISTJ e o dispositivo na Súmula n. 568/STJ, com o fim de se agilizar a prestação jurisdicional.
+Ante o exposto, com fulcro no art. 34 do RISTJ e no disposto na Súmula 568/STJ, nego provimento do recurso especial.
+Publique-se.
