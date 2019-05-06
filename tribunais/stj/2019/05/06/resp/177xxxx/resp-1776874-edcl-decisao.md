@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BS MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS, em face da decisão monocrática proferida às fls. 753/754 (e-STJ), que acolheu a alegativa de negativa de prestação jurisdicional pela instância de origem.
+Em suas razões (fls. 757/764, e-STJ), a embargante aduz, em suma, a existência de omissão, porquanto "há de se reiterar a existência de eventos que apontam para a inequívoca perda de objeto deste recurso especial " (fl. 760, e-STJ). Sustenta, para tanto, que "em que pese a demanda ter como objeto a suspensão de leilão extrajudicial de imóvel objeto de garantia fiduciária, o aludido imóvel já foi levado a leilão extrajudicial, cujo resultado foi negativo, se extinguindo, na forma do artigo 27, § 5º, da Lei 9.514/97, a dívida, incorporando-se o bem ao patrimônio do Embargante, o qual, conforme fazem prova os documentos acostados às fls. 581/592, se encontra devidamente reintegrado na posse do bem" (fl. 761, e-STJ).
+Requer, assim, a concessão de efeitos infringentes para que seja declarada a perda superveniente do presente recurso.
+Impugnação apresentada às fls. 768/772 (e-STJ), defendendo que "o que fora discutido na ação anulatória que é a validade do contrato de alienação fiduciária e não o procedimento de leilão não pode interferir no julgamento da ação cautelar como ocorreu, devendo o Tribunal de Justiça se manifestar para suprir os pontos omissos" (fl. 772, e-STJ).
+É o relatório.
+Decido.
+Os aclaratórios não merecem acolhida.
+1. Consoante se depreende da leitura dos autos, mormente da petição inicial acostada às fls. 1/10 (e-STJ), questiona-se na medida cautelar a irregularidade do procedimento de leilão do bem, tendo sido alegado que não houve a intimação pessoal dos devedores quanto à data do ato expropriatório e, ainda, insurgiram-se como o preço vil atribuído ao imóvel levado à leilão.
+Logo, ao contrário, do que se alega, a causa de pedir da cautelar se afigura, aparentemente, daquela exposta na ação anulatória que apenas declarou a validade do contrato.
+Nesse diapasão, tal como restou afirmado na decisão de fls. 753/754 (e-STJ), para o exame da alegação apresentada no presente recurso especial é essencial que a instância ordinária aprecie detidamente a tese suscitada nos embargos de declaração de fls. 510/513 (e-STJ), para que, então, nesta instância superior, possa se examinar se há ou não interesse de agir na presente demanda, cumprindo, portanto, à Corte Estadual sanar estes pontos omissos no julgado ora recorrido, para que a matéria seja plenamente devolvida à análise do Superior Tribunal de Justiça.
+2. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
