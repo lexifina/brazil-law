@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão em que dei provimento ao recurso especial interposto pela embargada, para considerar prescrita a pretensão do autor.
+Em seu recurso, o embargante sustenta a existência de omissão, asseverando que apesar de receber indenização securitária do seguro obrigatório (DPVAT), na esfera administrativa (31.10.12), permaneceu em tratamento, inclusive submetendo-se a intervenções cirúrgicas, e que somente, em fevereiro de 2016, teve ciência de que ficaria com limitação física permanente oriunda do acidente automobilístico, fato não analisado na decisão do recurso especial.
+A parte embargada, devidamente intimada, manifestou-se pela manutenção da decisão impugnada (fls. 294-299, e-STJ).
+Não se verifica a omissão apontada, devendo-se manter o acórdão recorrido pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pelo embargante, circunstância que não eiva o acórdão de nulidade.
+Como já salientado, anulou-se o acórdão estadual em razão de ele ir de encontro à jurisprudência consolidada neste Tribunal Superior, cuja dicção é no sentido de que o termo inicial da prescrição é a data do pagamento administrativo realizado a menor.
+ Verifico, assim, que o embargante pretende, sob o pretexto de existência de vício na decisão, o rejulgamento da causa.
+Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS PROTELATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Decidida a questão em sede de decisão monocrática e agravo interno, o segundo recurso manejado com o propósito de rediscutir a matéria ostenta nítido caráter protelatório, circunstância apta a ensejar a multa de 1% sobre o valor corrigido da causa (1.026, § 2º, do Código de Processo Civil).
+4. Embargos declaratórios rejeitados com aplicação de multa.
+(EDcl nos EDcl nos EDcl no AgInt no AREsp 1197459/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 17/09/2018)
+Por fim, em que pese o não acolhimento dos embargos, a sua oposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei.
+Em face do exposto, rejeito os embargos, nos termos do acima exposto.
+Intimem-se.
