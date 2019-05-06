@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. CRIME DE RESPONSABILIDADE. ALEGAÇÃO DE NULIDADE. NÃO OCORRÊNCIA. FALTA DE DEMONSTRAÇÃO DO PREJUÍZO À DEFESA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] de Oliveira - condenada definitivamente como incursa no art. 1º, I e II, do Decreto-Lei n. 201/1967 e no art. 299, parágrafo único, do Código Penal, ao cumprimento de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 78 dias-multa -, ante o acórdão do Tribunal Regional Federal da 1ª Região que denegou a ordem no HC n. 0057349-97.2017.4.01.0000.
+Com o argumento de nulidade da nomeação de defensor dativo sem que fosse previamente assegurada à ora paciente a oportunidade de constituir novo advogado (Processo n. 0010677-59.2003.4.01.3900, da 4ª Vara Federal da Seção Judiciária do Pará), pretende-se, em liminar, a suspensão dos efeitos da condenação, com o recolhimento do mandado de prisão já expedido, e, ao final, a anulação do processo desde a fase de alegações finais.
+Indeferi o pedido liminar.
+Após prestadas as informações, os autos seguiram ao Ministério Público Federal, que opinou pelo não conhecimento do writ, conforme o parecer de fls. 1.230/1.235.
+É o relatório.
+Não há manifesta ilegalidade a ser reparada por esta via.
+Isso porque, consoante a firme jurisprudência desta Corte, ausente a demonstração de factual prejuízo ao exercício do direito de defesa, inviável o reconhecimento de nulidade, intento que reclama a efetiva comprovação do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas, positivado pelo artigo 563 do Código de Processo Penal (AgRg no REsp n. 1.776.053/BA, Ministro Felix Fischer, Quinta Turma, DJe 7/12/2018).
+Ora, na espécie, limitaram-se os impetrantes às alegações genéricas de que a acusação articulada contra a paciente envolvia os seus atos de gestão enquanto prefeita do Município de Garrafão do Norte, e essa particularidade exigia do profissional responsável pela sua defesa todo um conhecimento sobre Direito Administrativo, pois, sem ser detentor desses atributos, o advogado que viesse a ser nomeado para patrocinar os interesses da paciente não poderia assegurar a mesma o exercício efetivo de seu sacrossanto direito de defesa; e de que só o fato de retirar da paciente a faculdade de nomear um advogado de sua confiança para patrocinar os seus direitos em um processo criminal no qual está em jogo a sua liberdade  ..  já representa prejuízo manifesto (fl. 10).
+Deixaram os impetrantes de indicar eventuais teses que poderiam ter sido alegadas e não o foram ou de apontar eventuais falhas na peça processual apresentada pela defensora dativa. Em outras palavras, não ficou demonstrado o efetivo prejuízo sofrido pela paciente.
+Vale notar que as alegações finais foram regularmente apresentadas e que, uma vez proferida a sentença, a paciente nem sequer foi localizada para a respectiva intimação. Além disso, foram interpostos recurso de apelação e, na sequência, recurso especial.
+Há que se prestigiar, assim, as conclusões do Tribunal de origem de que a paciente teve ampla defesa durante toda a instrução (fl. 1.121) e de que o direito de defesa da acusada foi plenamente exercido seja por advogados públicos ou dativos (fl. 1.123).
+Pelo exposto, com base na jurisprudência, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
