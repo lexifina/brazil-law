@@ -1,0 +1,12 @@
+DECISÃO
+MARIANA DE FATIMA SALIN DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0000194-18.2016.8.26.0623).
+Consta dos autos que a paciente foi condenada às penas de: a) 3 anos e 6 meses de reclusão, mais multa, pela prática do crime previsto no art. 35, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006; b) 6 anos, 9 meses e 20 dias de reclusão, mais multa, pelo cometimento do delito descrito no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006. Em razão do concurso material, a reprimenda da ré ficou estabelecida em 10 anos, 3 meses e 20 dias de reclusão, a ser cumprida no regime inicial fechado, mais multa.
+Busca-se, por meio deste writ, seja: a) aplicada a minorante prevista no § 4º do art. 33 da Lei de Drogas; b) fixado o regime aberto; c) determinada a substituição da pena privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+No que tange ao pretendido reconhecimento da referida minorante, cumpre salientar que a Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+Consequentemente, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a imposição do regime inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, porque, além de a pena-base haver sido estabelecida acima do mínimo legal, a paciente foi definitivamente condenada a reprimenda superior a 8 anos de reclusão.
+Da mesma forma, fica mantida a negativa de substituição da pena privativa de liberdade por restritiva de direitos, em razão da ausência de cumprimento do requisito objetivo previsto no art. 44, I, do Código Penal (sanção superior a 4 anos de reclusão).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
