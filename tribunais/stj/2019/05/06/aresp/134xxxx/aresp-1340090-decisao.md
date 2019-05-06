@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por SAENCO - SANEAMENTO E CONSTRUÇÕES LTDA. e [NOME] DE OLVIERA NETO em desafio à decisão que inadmitiu recurso especial, este manejado com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 1.340):
+"AGRAVO INTERNO. DECISÃO QUE NÃO CONHECE DO AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS. TERMO INICIAL. QUESTÃO ANTERIORMENTE DECIDIDA. PRECLUSÃO.
+Não procede a irresignação recursal aviada por meio de agravo interno em que se pretende rediscutir matérias decididas anteriormente em relação às quais se operou a preclusão.
+Quando da elaboração do cálculo do valor exequendo os executados não se insurgiram contra o termo inicial de incidência dos juros, restando preclusa a discussão."
+Em suas razões, os recorrentes apontam violação do art. 485, § 3º, do CPC/2015.
+Sustentam que a discussão acerca dos juros é de ordem pública "e, portanto, cognoscível em qualquer fase processual", de modo que "não há qualquer óbice para que a matéria suscitada seja apreciada na oportunidade da manifestação sobre os cálculos da contadoria, o que, per si, afasta toda e qualquer preclusão acerca do tema" (e-STJ, fl. 1.358).
+Acentuam que o acórdão atacado "assinala de forma clara que a decisão recorrida não consignou expressamente a rejeição do argumento dos executados quanto ao termo inicial dos juros moratórios, não havendo, portanto, que se falar em rediscussão de matéria já decidida" (e-STJ, fl. 1.360).
+Acrescentam que "há recurso de agravo de instrumento pendente de julgamento pelas instâncias superiores onde se discute a aplicação da taxa SELIC" (e-STJ, fl. 1.359), que, "caso provido, reduzirá substancialmente o suposto valor exequendo, de sorte que se mostra temerária e demasiadamente onerosa a determinação de quaisquer medida constritiva" (e-STJ, fl. 1.361).
+É o relatório. Decido.
+Consta do acórdão atacado, no que interessa (e-STJ, fl. 1.343; sem grifo no original):
+"Diferentemente do aduzido pelos recorrentes, o fato é que a discussão acerca dos consectários do valor exequendo já foi apreciada preteritamente. Como ressaltado na decisão ora agravada, houve o pronunciamento sobre os cálculos apresentados pela exequente, sendo que, na oportunidade, os executados insurgiram-se apenas em relação à taxa de juros aplicada, não apresentaram irresignação em face do termo inicial dos juros moratórios.
+De se notar que a possibilidade apreciação das matérias de ofício, a qualquer tempo, refere-se às situações em que ainda não tiver sido analisada. Contudo, uma vez apreciada e decidida, não será mais passível de alteração, sob pena de violação à segurança jurídica.
+É nítida, portanto, a improcedência do recurso, por meio do qual se pretende discutir matérias que foram objeto de apreciação por decisões anteriores e estão acobertados pela preclusão."
+Assim, o entendimento do acórdão atacado está em consonância com a jurisprudência desta Corte, segundo a qual "mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional" (REsp 1.800.726/MG, Relatora a Ministra Nancy Andrighi, DJe de 4/4/2019).
+No mais, incide a Súmula 284/STF, na medida em que não apontado o dispositivo de lei eventualmente violado, caracterizando deficiência na fundamentação do recurso por inobservância da técnica própria.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
