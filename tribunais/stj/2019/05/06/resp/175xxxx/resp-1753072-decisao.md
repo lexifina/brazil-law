@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 230-231):
+"DIREITO CIVIL. APELAÇÃO CÍVEL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA EXCLUSIVA DA VENDEDORA. RESOLUÇÃO DO CONTRATO. ATRASO NA EXPEDIÇÃO DO "HABITE-SE". AUSÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. INAPLICABILIADE. RESTITUIÇÃO DOS VALORES PAGOS DEVIDA. LUCROS CESSANTES. CONTRATO RESOLVIDO. IMPOSSIBILIDADE.
+1. Inexiste caso fortuito ou força maior em razão de entraves burocráticos na obtenção da "Carta de Habite-se". Os eventos dessa natureza estão inseridos na seara de riscos assumidos pelas sociedades empresárias do ramo da construção civil, que são responsáveis pela regularização das unidades negociadas. Precedentes do TJDFT.
+2. É inaplicável a Teoria do Adimplemento Substancial da obrigação nos casos em que o atraso na entrega do imóvel extrapolou todos os prazos estipulados contratualmente para tanto.
+3. O atraso na entrega do imóvel autoriza a resolução do contrato por culpa exclusiva da construtora, sendo devida a restituição integral das parcelas efetivamente pagas pelo promitente comprador, sem qualquer retenção
+4. Resolvido o contrato, com o retorno das partes ao status quo ante, o imóvel em questão jamais ostentou aptidão para gerar os frutos civis ora perseguidos em benefício do promitente comprador, pois o adquirente não chegou a ser possuidor ou proprietário do bem. Assim, a mera alegação de que o imóvel seria objeto de futuro contrato de locação não justifica a indenização por lucros cessantes, pois não gera a presunção do alegado dano, elemento substancial da responsabilidade civil.
+5. Apelação conhecida e parcialmente provida.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 275-282.
+Nas razões do recurso especial, CARLOS [NOME] alega, além de divergência jurisprudencial, violação ao art. 402 do Código Civil, ao argumento, entre outros, que "(..) a promessa de compra e venda a que o autor, nos termos mesmo do contrato, tinha justa expectativa que lhe dão, na forma da lei e da jurisprudência -e até por elementar senso jurídico -, o direito à indenização por lucros cessantes (..)". (fl. 299)
+Contrarrazões às fls. 229-240.
+É o relatório. Decido.
+O recurso em apreço merece prosperar.
+Com efeito, ao apontar violação ao art. 402, o recorrente sustenta que faz jus ao percebimento dos lucros cessantes em razão do atraso na entrega do imóvel, como compensação daquilo que teria deixado de ganhar, diante da restrição de uso e gozo do bem. O TJ-DFT, por sua vez, soberano na análise do acervo fático-probatório, consignou que a possibilidade de dano na modalidade lucros cessantes somente existiria caso a parte autora, ora recorrente, manifestasse interesse na manutenção do contrato e consequente propriedade do imóvel. Confira-se excerto do v. acórdão recorrido (fls. 249-250):
+ "Quanto a esse ponto, assiste razão à apelante.
+ É inequívoco que a mora injustificada da ré, ora apelante, no cumprimento das obrigações contratualmente assumidas, conduz ao dever de indenizar o promitente comprador pelos danos patrimoniais sofridos, nos termos do disposto no art. 402 do Código Civil (danos emergentes e lucros cessantes).
+ A possibilidade de dano na modalidade de lucros cessantes, no entanto, só existiria caso a autora manifestasse interesse na manutenção do contrato e consequente propriedade do imóvel.
+ A respeito dos lucros cessantes, é importante destacar a percuciente lição de Agostinho Alvim:
+(..)
+ Na origem, o demandante pediu a condenação da ré ao pagamento de lucros cessantes em razão do atraso na entrega do imóvel, como compensação por aquilo que teria deixado de ganhar, diante da -restrição de uso e gozo do bem.
+ Assim, indicou como parâmetro o preço médio do aluguel de unidades semelhantes, no valor de R$ 1.421,09 (um mil quatrocentos e vinte e um reais e nove centavos), correspondente a 0,5% do valor do imóvel.
+ Verifica-se que o Juízo de origem concluiu que os lucros cessantes são devidos, pois durante o período da mora da ré, o autor ficou impossibilitado de auferir os frutos civis decorrentes da locação do imóvel. Na ocasião, asseverou que "o proprietário deixou de lucrar o valor de um aluguel mensal, desde o prazo faatal para a entrega do bem" (fl. 117).
+ Assim, percebe-se que o alegado fruto civil a que se refere o promitente comprador corresponde ao pretenso valor dos alugueres pagos pelo imóvel, ou seja, a contraprestação que seria gerada pela coisa principal (imóvel).
+ Ocorre que, no caso, houve a resolução do contrato, sendo que o autor não chegou a receber o bem objeto do respectivo negócio jurídico.
+ Diante dessa situação, percebe-se que o imóvel em questão jamais ostentou sequer aptidão para gerar os frutos civis ora perseguidos em benefício do autor, pois, reitere-se, não chegou a ser possuidor ou proprietário.
+ Assim, a mera alegação de que o imóvel seria objeto de futuro contrato de locação não gera a presunção do alegado dano, elemento substancial da responsabilidade civil." (grifou-se)
+Sobre o tema, tem-se que a iterativa jurisprudência desta eg. Corte Superior é no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Inviável a interpretação de cláusulas contratuais e o reexame de matéria de fato em sede de recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+2. O valor arbitrado a título de reparação civil observou os critérios de proporcionalidade e de razoabilidade, além de estar compatível com as circunstâncias narradas no acórdão, não se revelando exorbitante. Assim, a sua eventual redução demandaria a reanálise de provas, o que é vedado em recurso especial ante o óbice da Súmula 7/STJ.
+3. Na hipótese, o Tribunal local seguiu orientação desta Corte, no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+3.1. A conclusão do órgão julgador quando ao termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7 do STJ.
+4. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento, a teor do disposto na Súmula 543 do STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1114698/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. ENTREGA DE IMÓVEL. ATRASO. CULPA EXCLUSIVA. PROMISSÁRIO COMPRADOR. RECURSO ESPECIAL. REEXAME DE PROVAS E DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. VEDAÇÃO. PROMITENTE COMPRADOR. LUCROS CESSANTES. PRESUNÇÃO DE PREJUÍZO. ADMISSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever o entendimento do tribunal de origem, no sentido de reconhecer que o atraso na entrega se deu por responsabilidade do próprio promitente comprador, requer reexame do conteúdo fático-probatório dos autos e interpretação de cláusulas contratuais, procedimentos inviáveis em recurso especial, haja vista os óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+3. O descumprimento do prazo para entrega do imóvel objeto de compromisso de compra e venda viabiliza a condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador.
+4. Agravo interno não provido."
+(AgInt no AREsp 1168356/AM, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 17/04/2018 - grifou-se)
+Dessa forma, observa-se que, ao não condenar o promitente-vendedor ao pagamento dos lucros cessantes pelo período de atraso na entrega do imóvel, o Tribunal de origem distanciou-se do entendimento firmado nesta Corte Superior, de modo que se faz necessária a reforma do acórdão recorrido nesse ponto.
+Conclui-se, nesses termos, que o apelo nobre merece prosperar, para restabelecer a sentença de fls. 160-165.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial.
+Publique-se.
