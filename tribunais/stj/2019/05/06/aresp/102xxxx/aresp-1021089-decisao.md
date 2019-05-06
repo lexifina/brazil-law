@@ -1,0 +1,92 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO CONFIGURAÇÃO. AUSÊNCIA DE OMISSÃO. PRELIMINAR DE JULGAMENTO EXTRA PETITA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULAS 283 E 284 DO STF. ALEGAÇÃO DE INCORREÇÃO DO LAUDO PERICIAL E INOCORRÊNCIA DE ANATOCISMO. AUSÊNCIA DE INDICAÇÃO INEQUÍVOCA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS OU SOBRE OS QUAIS RECAIRIA A DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284 DO STF.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. em face de decisão que negou seguimento ao recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. JULGAMENTO PROFERIDO NA FORMA MONOCRÁTICA. VALIDADE. ALEGAÇÃO DE REVISÃO "EX OFFICIO" DAS CLÁUSULAS CONTRATUAIS. INOCORRÊNCIA. ATUALIZAÇÃO MONETÁRIA PELA TAXA REFERENCIAL - TR. LEGALIDADE. TABELA PRICE. AMORTIZAÇÃO NEGATIVA. VEDAÇÃO. NENHUM ELEMENTO NOVO. DESPROVIMENTO.
+1. O julgamento, na forma monocrática, de recurso cujas razões se contrapõem à jurisprudência dominante desta Corte e do Superior Tribunal de Justiça é válido, vez que privilegia os Princípios da celeridade e economia processual, não implicando, no entanto, em mitigação do duplo grau de jurisdição e nem ofensa à ampla defesa.
+2. Não há falar-se em qualquer nulidade da sentença, por suposta revisão "de ofício" resultante da aplicação da Taxa Referencial (TR) como índice de atualização do saldo devedor incidente no pacto discutido, bem assim de ocorrência de julgamento extra petita, porquanto a peça vestibular traz, expressamente, o pedido de aplicação do índice de correção monetária que for mais benéfico à consumidora.
+3. Na linha de precedente da Corte Superior, inexiste ilegalidade na utilização da Taxa Referencial (TR) como indexador monetário, desde que prevista nas cláusulas do contrato, ou quando o pacto celebrado prevê a correção do saldo devedor pelo índice de atualização dos saldos das contas de caderneta de poupança, como ocorre, no caso em tela.
+4. A utilização do sistema de amortização conhecido como "Tabela Price" não é ilegal, por si só. Contudo, verificado, pelo perito, que a sua incidência gerou a amortização negativa do saldo devedor, resultante de lançamento de juros excedentes, esta deve ser excluída. Precedentes desta Corte Estadual.
+5. Não trazendo o Apelante/ora Agravante nenhum elemento novo capaz de sustentar a pleiteada reconsideração da decisão que negou seguimento ao seu Apelo, deve ser desprovido o agravo regimental.
+AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO." (e-STJ fl. 543)
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 551-569).
+Nas razões do recurso especial, o recorrente alega a violação dos arts. 128 e 535, inciso II, do Código de Processo Civil de 1973, sob os argumentos, em síntese, de que houve negativa de prestação jurisdicional e de que se configurou julgamento extra petita em relação à determinação de aplicação da Taxa Referencial (TR) no reajuste da prestação, uma vez que "a parte autora não formulou pedido nesse sentido, tendo-se limitado a afirmar que o Plano de Equivalência Salarial não estaria sendo cumprido" (e-STJ fl. 574).
+Assevera, ainda, que não podem ser aceitos os cálculos elaborados pelo perito judicial, pois "não é a fórmula empregada na Tabela Price que causa a amortização negativa, mas sim o descompasso entre os critérios de reajuste da prestação mensal (PES) e de correção monetária do saldo devedor (TR)", e o perito "deixou de considerar a incidência do Coeficiente de Equiparação Salarial (CES) na primeira prestação e a existência de incorporação, ao saldo devedor, de prestações vencidas e não pagas pela mutuária" (e-STJ fl. 576).
+Contrarrazões às fls. 604-623 (e-STJ).
+Sobreveio juízo de admissibilidade do Tribunal de origem (e-STJ fls. 626-629), que inadmitiu o recurso especial por considerar que não foi demonstrada a alegada divergência jurisprudencial e que incidem, no caso, os óbices da Súmula 284 do Supremo Tribunal Federal e da Súmula 7 deste Superior Tribunal de Justiça.
+É o breve relatório.
+Passo a decidir.
+O recurso não merece provimento quanto à alegada ofensa ao art. 535 do Código de Processo Civil de 1973.
+Ocorre que o acórdão recorrido contém a seguinte fundamentação:
+"Não há falar-se em qualquer nulidade da sentença, por suposta revisão "de ofício" do índice de atualização do saldo devedor incidente no pacto discutido, bem assim de ocorrência de julgamento extra petita (artigos 2º, 128 e 460, todos do Código de Processo Civil).
+Tal vício se caracteriza por extrapolar os limites da demanda, pois, por ele, o julgador sequer analisa o pedido, ou fundamento invocado pela parte. Em verdade, aprecia-se outro pedido, ou fundamento, ambos não invocados.
+Na hipótese dos autos, a rigor, não se verifica o propalado vício, uma vez que o Magistrado analisou a questão fática apresentada, segundo o exposto na petição inicial.
+Ora, a alegação de que a sentença está assentada em causa de pedir não deduzida é manifestamente infundada, porquanto a peça vestibular traz, expressamente, o pedido de "(..) substituição do índice de correção monetária do saldo devedor pelo índice que lhe for mais benéfico." (fl. 53).
+Desse modo, a congruência entre a causa de pedir declinada na exordial e a fundamentação exposta na sentença é de tal forma límpida, retilínea e evidente que dispensa digressões teóricas e doutrinárias sobre os princípios do dispositivo e da correlação processual.
+ ..
+Desse modo, descabe a alegação de suposta revisão "de ofício" do índice de atualização incidente no pacto discutido, pelo que a rejeito.
+ ..
+Consta do "Quadro Resumo", do contrato em tela, a incidência da Tabela Price como sistema de amortização (fl. 64).
+Ressalte-se que, embora o referido sistema de amortização possa resultar na incidência de juros compostos, o que é vedado, quando tratar-se de contrato de mútuo para aquisição de imóvel, por ausência de previsão legal, sua aplicação, em si, não reflete ilegalidade, consoante orientação do STJ.
+ ..
+"In casu", entretanto, o Julgador entendeu pela necessidade de afastar a utilização da Tabela Price, vez que, nos termos da conclusão do perito, exposta em seu laudo técnico (fls. 320/350), em razão das particularidades do contrato, a incidência de tal sistema de cálculo, no referido pacto, resultou em vedada cumulação de juros (capitalização mensal), bem como no fenômeno da "amortização negativa", tornado o financiamento impossível de ser quitado.
+Concluiu o auxiliar do juízo que a amortização negativa vinha ocorrendo de maneira assustadora, porquanto o valor da prestação não era suficiente para pagar a parcela mensal de juros, sempre muito maior (fls. 348/349).
+Sob tal perspectiva, a diferença devida é incorporada ao saldo devedor, fazendo incidir os juros do mês posterior sobre os juros não pagos, caracterizando o anatocismo.
+Inegável, assim, que a utilização da Tabela Price, no caso em deslinde, vem gerando anatocismo (contagem de juros sobre juros), diante da amortização negativa verificada no decorrer do cumprimento do contrato pela mutuária, o que não é permitido." (e-STJ fls. 538-540)
+Da análise dos trechos acima transcritos, verifica-se que o Tribunal de origem julgou fundamentadamente a matéria devolvida à sua apreciação, evidenciando os elementos que ampararam o entendimento de que não se caracterizou o alegado julgamento extra petita quanto à determinação de aplicação da TR no reajuste da prestação, bem como a conclusão de que, segundo o laudo pericial, em razão das particularidades do contrato, a utilização da Tabela Price como sistema de amortização resultou na prática de anatocismo no caso sob apreciação.
+Portanto, a insurgência ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta.
+Ressalte-se, ainda, o entendimento pretoriano consolidado quanto à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. SUFICIÊNCIA DAS PROVAS PRODUZIDAS. MELHOR POSSE E AUSÊNCIA DE ABANDONO DO BEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AÇÃO POSSESSÓRIA. DISCUSSÃO SOBRE DOMÍNIO. EXCEÇÃO. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 458, II, e 535, I e II, do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos. O fato de o acórdão recorrido não ter adotado as teses defendidas pelo recorrente não configura omissão, contradição ou negativa de prestação jurisdicional.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso, a revisão das conclusões do Tribunal de origem - no sentido de que os agravantes não comprovaram ser detentores da melhor posse, e de que os agravados não abandonaram o poder de fato sobre o bem por longos anos - implicaria uma nova análise do conteúdo fático dos autos.
+4. Agravo interno desprovido.
+(AgInt no AREsp 548.713/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/09/2016, DJe 06/09/2016, g.n.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 458, II, E 535, II, DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. AUTONOMIA. AFRONTA AO ART. 20, §§ 3o. E 4o., DO CPC. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+1. Tendo o Tribunal de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, não há falar em afronta aos arts. 458, II, e 535, II, do CPC, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+2. (..)
+5. Agravo regimental não provido.
+(AgRg no REsp 1271673/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 04/05/2015, g.n.)
+Ademais, tendo em vista a incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal, não pode ser conhecida a irresignação quanto ao suposto julgamento extra petita.
+Com efeito, a Corte estadual afastou a ocorrência desse vício ao fundamento de que "a alegação de que a sentença está assentada em causa de pedir não deduzida é manifestamente infundada, porquanto a peça vestibular traz, expressamente, o pedido de "(..) substituição do índice de correção monetária do saldo devedor pelo índice que lhe for mais benéfico." (fl. 53)" (e-STJ fl. 538).
+No entanto, o ora agravante, nas razões do recurso especial, limitou-se a tecer alegações genéricas acerca da ausência de pedido de determinação de aplicação da TR no reajuste da prestação, sem se manifestar especificamente quanto à existência do requerimento da autora mencionado pelo Tribunal de origem, no sentido de que fosse substituído o índice de correção monetária do saldo devedor por aquele que lhe fosse mais benéfico.
+Assim, tendo em vista a deficiência na fundamentação veiculada nas razões recursais, revelam-se aplicáveis ao caso, por analogia, as Súmulas 283 e 284/STF.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+2. A reforma do julgado quanto a conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento da prova testemunhal demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 921.974/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/08/2016, DJe 23/08/2016, g.n.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. NÃO IMPUGNAÇÃO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME DE PROVAS. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E O ENTENDIMENTO DESTA CORTE. SÚMULAS NºS 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+ ..
+2. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Súmula nº 284 do Supremo Tribunal Federal.
+4. A reapreciação da conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+5. Estando o acórdão recorrido em consonância com o entendimento do Superior Tribunal de Justiça, incide o disposto na Súmula nº 83 desta Corte.
+6. Agravo regimental não provido.
+(AgRg no AREsp 717.435/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2015, DJe 11/12/2015, g.n.)
+Por fim, acerca das alegações referentes à incorreção do laudo pericial, à inocorrência de anatocismo, à natureza da Tabela Price e à origem da amortização negativa, o recurso especial não pode ser conhecido em virtude da incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+Isso porque, quanto a esses tópicos, o recorrente deixou de realizar a indicação clara e inequívoca dos dispositivos de lei federal tidos por violados pelo acórdão recorrido, o que caracteriza deficiência na fundamentação recursal.
+Convém ressaltar que o referido óbice aplica-se tanto para a interposição do recurso com fundamento na alínea "a" do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente não apontou, de forma clara e específica, o dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal.
+Nesse sentido:
+EMPRESARIAL, CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RITO ORDINÁRIO COM PEDIDO DE ANULAÇÃO DE ALTERAÇÃO CONTRATUAL C/C TUTELA ANTECIPATÓRIA DE REINTEGRAÇÃO EM QUADRO SOCIETÁRIO. ALEGAÇÃO DE OFENSA AO ART. 535, II, DO CPC. OMISSÃO INEXISTENTE. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. MÉRITO. VALIDADE E EFICÁCIA DE DOAÇÃO DE COTAS JÁ INTEGRALIZADAS. REFORMA DO JULGADO. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA Nº 283 DO STF. AUSÊNCIA DE LEGITIMIDADE. NÃO CONHECIMENTO. NECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. REVERSÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ALEGAÇÃO DE SENTENÇA EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+ ..
+6. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula nº 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+7. O conhecimento do recurso especial interposto com fundamento na alínea c do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente, que ficou desnudo.
+8. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1388679/AM, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 05/04/2016, DJe 11/04/2016, g.n.)
+AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRIMEIRO RECURSO: OBRIGAÇÃO DE FAZER. TRANSFERÊNCIA DE REGISTRO DE VEÍCULO. SÚMULA 284/STF. DANO MORAL. PEDIDO DE MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. AGRAVO INTERNO NÃO PROVIDO. SEGUNDO RECURSO: PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado ou a que se tenha atribuído interpretação divergente impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+ ..
+4. Agravo interno de fls. 294/299 a que se nega provimento e agravo interno de fls. 288/293 não conhecido.
+(AgRg no AREsp 869.536/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 13/04/2016, g.n.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL. RECURSO ESPECIAL. ALÍNEA A. AUSÊNCIA DE INDICAÇÃO EXPRESSA DO DISPOSITIVO DE LEI TIDO POR VIOLADO. INADMISSÃO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. MATÉRIA PACIFICADA NA CORTE. INCIDÊNCIA DA SÚMULA N.º 168 DO STJ. EMBARGOS DE DIVERGÊNCIA AOS QUAIS SE NEGA SEGUIMENTO.
+1. É imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c.
+ ..
+3. Agravo regimental desprovido.
+(AgRg nos EREsp 382.756/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 18/11/2009, DJe 17/12/2009, g.n.)
+Ante o exposto, com base no art. 932, incisos III e IV, do Código de Processo Civil de 2015 c/c a Súmula 568/STJ, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
