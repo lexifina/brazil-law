@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ADENECI PAULINO RIBEIRO e outra, contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO PARCIAL DE TUTELA. Rescisão contratual. Sentença de improcedência. Preliminar de nulidade da sentença posto que não houve a análise total da prestação jurisdicional. Mérito que se bate pela responsabilidade da ré em fornecer os dados necessários à Caixa Econômica Federal, impossibilitando o levantamento contemplado no consórcio. Direito dos autores-apelantes à rescisão e devolução das parcelas pagas. Aplicação do Código de Defesa do Consumidor. Recurso parcialmente provido.
+Opostos embargos de declaração, foram acolhidos pelo Tribunal de origem, adotando-se a seguinte ementa:
+Embargos declaratórios - Omissão e contradição - Alegação de ausência de apreciação do pedido de fixação de danos materiais e morais, e de prejudicialidade do objeto da demanda no tocante à rescisão contratual decretada no acórdão embargado - Vícios caracterizados - Regularização do imóvel no decorrer do processo - Rescisão contratual que era apenas pedido subsidiário - Acórdão alterado nesse ponto, mantida, assim, a sentença - Danos materiais e morais que não são devidos - Embargos acolhidos.
+Nas razões do especial, apontam os agravantes violação dos artigos 1.022 do novo Código de Processo Civil; 186, 247, 389, 402 e 927 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão relativa à reparação econômica por danos materiais e morais, dado descumprimento contratual pela agravada.
+Afirmam a ocorrência de equívoco no acórdão de origem quanto à data do cumprimento da obrigação pela agravada, bem como pela ausência de análise dos danos causados por culpa exclusiva da ré.
+Defendem que fazem jus ao recebimento de reparação econômica por danos materiais, diante da conversão da obrigação de fazer em perdas e danos, além dos prejuízos por eles suportados provocados pela agravada, como demonstrado nos autos.
+Pretendem, ainda, o ressarcimento por dano extrapatrimonial, dado o abalo psicológico sofrido ante o cumprimento fora do prazo pela construtora.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+Extrai-se dos autos que os agravantes ajuizaram ação ordinária, cujo pedido foi de compelir a construtora/ré à regularização do imóvel ou a rescisão do contrato de promessa de compra e venda, cumulada com danos morais. O Juízo processante negou provimento aos pedidos, sob o entendimento de que houve a regularização do registro do imóvel objeto do contrato e que a ré não poderia se responsabilizar por obrigação assumida com terceiros. A Câmara revisora, por seu turno, reformou a sentença para reconhecer o direito dos agravantes à rescisão contratual. Os agravantes opuseram embargos de declaração que foram acolhidos, sob o entendimento de que por se tratar de pedido secundário e diante da quitação integral do contrato, não havia espaço para a decretação da rescisão do contrato, por outro lado, concluiu que os danos materiais e morais pretendidos não eram devidos.
+No que se refere à preliminar apontada, esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, onde os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Dessa forma, não há que se falar, no caso, em negativa de prestação jurisdicional. O Colegiado de origem apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes, identificando os elementos de comportamento das partes e a relação com os supostos danos. No entanto, se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+No tocante à responsabilidade da ré, a Corte estadual, ao analisar as circunstâncias fáticas contidas nos autos, contrato entabulado e o conjunto probatório produzido, assim decidiu (fls. 750-751, e-STJ):
+De fato, a certidão imobiliária de fls. 460 comprova a regularização, em 05/02/2009, circunstância mencionada pela sentenciante (fls. 512), daí não ter sido contemplada parte dos pedidos inicias de obrigação de fazer.
+(..)
+Acolho, pois, os embargos para alterar o acórdão quanto à determinação da rescisão do contrato, mantendo-se, assim, o entendimento da sentença proferida pelo juízo de origem.
+Passo a analisar o pedido indenizatório.
+Sobre tal tópico, sabe-se que, como regra, raramente se dispõe sobre danos morais em negócio imobiliários, como ensina Youssef S. Cahali em "Danos Morais".
+Além do mais, quando da propositura da ação, já havia sido expedido o "habite-se" (fls. 418/419) e havia débito confessado pelos promissários compradores.
+Assim, caracterizada a inadimplência dos promissários compradores, fica prejudicado o pleito de danos materiais e morais.
+Inexiste, portanto, dano a ser acolhido.
+A revisão do entendimento acerca da responsabilidade contratual das partes e de demais questões factuais ainda com base na interpretação dos termos pactuados, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do arcabouço contratual, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n.
+7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 12/4/2019)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
