@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] [NOME] DA [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 365):
+Ação indenizatória - Prestação de serviços de lavagem de tapete - Alteração da cor do objeto - Falha na prestação de serviço - Laudo pericial - Vício demonstrado - Restituição do valor pago pelo serviço - Cabimento - Dano material - Valor da indenização fixada pela média dos orçamentos apresentados pelo perito e referente a produtos similares - Ação parcialmente procedente - Apelos desprovidos.
+Opostos embargos de declaração, foram rejeitados às fls. 389/394.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, §1º, 505, 507 e 1.022 do CPC/15; 6º, VIII e 14,§3º, I do CDC. Para tanto, sustenta, além da negativa de prestação jurisdicional, em síntese, que, em razão da responsabilidade objetiva do fornecedor, o ônus da prova deve ser invertido em favor do consumidor.
+É o relatório. Decido.
+De início, não há que se falar em violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que a questão suscitada - inversão do ônus da prova em decorrência de relação de consumo - submetida ao Tribunal de origem foi suficiente apreciada, conforme se denota do trecho dos aclaratórios a seguir (fl. 391):
+O aresto reconheceu a responsabilidade civil da ré em reparar o dano causado e decorrente da má prestação do serviço, inclusive enfatizando que o dever de informação não foi devidamente cumprido.
+Ainda que seja reconhecida a relação consumerista, deve haver demonstração da extensão do dano patrimonial experimentado, para que possa ser quantificada o montante devido a ser ressarcido.
+No acórdão, também, foi assentado que não restou demonstrado que a nota fiscal apresentada referia-se ao tapete em questão, razão pela qual foi adotada a média dos preços apresentados pela perícia.
+Com efeito, a partir de uma análise detida dos autos, observa-se, que não há que se falar em obscuridade, contradição ou omissão a respeito do alegado dever de inversão do ônus da prova, tendo em vista que o acórdão recorrido foi minucioso na análise do conjunto fático-probatório dos autos, fundamentando seu decisum.
+Dessa forma, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem adotou fundamentação suficiente no que tange ao conteúdo dos dispositivos invocados no apelo nobre.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Ademais, no tocante ao pleito de inversão do ônus da prova em benefício do consumidor para aferição do valor a ser ressarcido, nota-se que a Corte origem consignou que "as partes deveriam apontar, de maneira concreta e específica, alguma falha no exame já realizado, não cabendo a mera insurgência pela conclusão ser desfavorável a uma ou a outra" - (fl. 373).
+Ocorre o posicionamento disposto no acórdão está em consonância com a jurisprudência desta Corte de Justiça acerca de a inversão do ônus da prova na relação de consumo não ser automática, pois sujeita a critério do juiz quando há configuração da verossimilhança das alegações, o que não ocorreu no caso dos autos, uma vez que os orçamentos apresentados pelas partes se apresentaram muito díspares e foram complementados com prova pericial. Sobre o tema, seguem as seguintes ementas:
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO CONTRATUAL. BANCÁRIO. OFENSA AO ART. 535 DO CPC/73. VÍCIO NÃO ESPECIFICADO. SÚMULA Nº 284/STF. LIMITAÇÃO DOS JUROS. SEM INDICAÇÃO DO DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. PETIÇÃO INICIAL. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 211/STJ E Nº 282/STF. CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. VEROSSIMILHANÇA DAS ALEGAÇÕES. SÚMULA Nº 83/STJ. DECISÃO MANTIDA.
+(..)
+4. Embora possível, em alguns casos, a inversão do ônus da prova, deve ser demonstrada a verossimilhança das alegações. Súmula nº 83/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1332422/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/05/2018, DJe 29/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. PROVAS DESNECESSÁRIAS. REVISÃO. SÚMULA 7/STJ. 3. PRETENSÃO À INVERSÃO DO ÔNUS PROBATÓRIO. APRECIAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES DO REQUERENTE OU DE SUA HIPOSSUFICIÊNCIA. INVIABILIDADE. SÚMULA 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. AGRAVO IMPROVIDO.
+(..)
+3. É pacífico o entendimento desta Corte de que a aplicação do art.
+6º, inciso VIII, do CDC depende da análise, pelas instâncias ordinárias, da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+(..)
+(AgInt no AREsp 1005323/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir, no caso concreto, a verossimilhança das provas apresentadas demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11%.
+Publique-se.
