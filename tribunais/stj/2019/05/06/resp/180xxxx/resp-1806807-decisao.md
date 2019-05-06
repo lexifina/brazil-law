@@ -1,0 +1,26 @@
+DECISÃO
+EDGREY LOPES TAVARES interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0103959-12.2015.8.26.0050.
+Depreende-se dos autos que o réu foi condenado a 6 anos e 8 meses de reclusão, em regime fechado, mais 16 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do especial, alega a defesa que há dissídio jurisprudencial quanto à fração de aumento decorrente da agravante da reincidência, cujo patamar não deve ultrapassar aquele usualmente aplicado no aresto do STJ adotado como paradigma (HC n. 153.479/SP).
+Sustenta que o acórdão recorrido violou os arts. 33, §§ 2º, "c", 3º e 59 do CP, ao argumento de que foi imposto regime mais severo que o devido, mediante fundamentação inidônea.
+Requer seja diminuída a fração de incremento relativa à reincidência e determinado o regime semiaberto para o cumprimento inicial da sanção.
+Apresentadas as contrarrazões e admitido o recurso especial na origem, o Ministério Público Federal opinou pelo seu provimento.
+Decido.
+No que tange à fração de aumento relativa à reincidência, ao proferir o voto vencido no AgRg nos EDcl no REsp n. 1.120.334/MG, externei convicção de que as normas que tratam do cabimento do recurso especial pela divergência (arts. 105, III, "c", da Constituição Federal, 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ) não impedem que arestos proferidos em habeas corpus sirvam de paradigma para demonstração de dissídio jurisprudencial.
+Nada obstante meu entendimento pessoal, que ora ressalvo, esclareço que a jurisprudência desta Corte Superior é pacífica quanto à impossibilidade de acórdão proferido em habeas corpus, mandado de segurança e recurso ordinário servir de paradigma para configurar o dissídio pretoriano, ainda que se trate de dissídio notório, tendo em vista a disparidade de objeto, natureza e extensão material entre essas espécies e o recurso especial (AgRg nos EREsp n. 998.249/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 21/9/2012).
+ Assim sendo, considero que o recurso especial não pode ser conhecido sob a alínea "c" do permissivo constitucional, pois o aresto deste Tribunal Superior (HC n. 153.479/SP) colacionado como paradigma foi proferido em habeas corpus.
+Quanto ao regime, o acórdão recorrido asseriu o seguinte:
+No que tange ao regime penitenciário, diante das circunstâncias evidenciadas neste processo, respeitosamente, a imposição de programa mais severo para o recorrente mostra-se adequada para a prevenção e a repressão do delito perpetrado.
+Guardadas as devidas proporções, outorgar regime mais benéfico só pela quantidade da reprimenda brindaria aquele que contribuiu decisivamente contra a ordem pública com benefício que não se acha devidamente posto na lei do ponto de vista teleológico.
+Destarte, não se há de tabelar regime de cumprimento pela dimensão da reprimenda.
+ ..
+Nem se há olvidar que fatos dizem mais do que ideias: roubo é ação que expõe graves perspectivas emocionais do seu cometedor, pessoa agressiva, destemida e que faz pouco caso do trabalho realizado pelo próximo, cujo próprio esforço acumulou bens, agora transferidos para mãos ilegítimas pelo emprego da grave ameaça, senão da própria violência. Pior: conturba a paz social, promove intranquilidade e, não bastasse os danos materiais, ainda obriga que as pessoas ordeiras gastem mais com o reforço de sua segurança, o que exige o mais firme posicionamento estatal em sua repressão, especialmente pela adoção dos programas mais severos de ressocialização.
+Inclusive, esta Egrégia Nona Câmara tem seguidamente proclamado que o regime inicial fechado é o único adequado diante do roubo, mostrando-se a solução correta à reprovação e prevenção do crime (TJSP, Apel. n. 0200018-91.2010.8.26.0000, rel. Des. Farto Salles, julgado de 26/07/12; TJSP, Apel. n. 0100599-11.2011.8.26.0050, rei. Des. Souza Nery, julgado de 16/05/13).
+(fls. 152-154, grifei)
+Em que pese a fundamentação genérica utilizada pela instância antecedente, a quantidade de reprimenda (entre 4 e 8 anos) e a reincidência revelam ser correta a fixação do regime inicial fechado, a teor do art. 33, § 2º, "b", do Código Penal.
+Nesse sentido, esta Corte Superior assentou: "fixada a pena em patamar superior a 4 anos e inferior a 8 anos, a estipulação do regime inicial fechado é apropriada em se tratando de réu reincidente" (EDcl no REsp n. 1.713.882/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2018).
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, conheço em parte do recurso especial e, nessa parte, nego-lhe provimento.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da sanção caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
