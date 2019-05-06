@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo interposto pelo BANCO ITAU CONSIGNADO S/A contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, com base nos seguintes fundamentos: i) ausência de violação dos arts. 489 e 1022 do CPC; ii) aplicação da Súmula 83/STJ, quanto à limitação dos juros remuneratórios à taxa média praticada à época da contratação; iii) e incidência das Súmulas 5 e 7 do STJ.
+Da leitura do agravo em recurso especial, constata-se que o agravante rebate os fundamentos da decisão estadual relativos à ausência de violação do art. 1022 do CPC e à aplicação das Súmulas 5 e 7 desta Corte, deixando de impugnar de maneira consistente o empeço relativo à Súmula 83/STJ.
+Isso porque, conforme se observa da leitura de suas razões recursais, o recorrente limita-se a aduzir que teria colacionado em seu recurso especial julgado para demonstrar a divergência do acórdão recorrido com a tese firmada no recurso especial repetitivo n. 1.061.530/RS. Acontece, que a Súmula 83/STJ foi aplicada por ocasião do juízo de admissibilidade do recurso especial, deixando o agravante de colacionar em suas razões recursais julgados recentes desta Corte, no sentido de impugnar o referido óbice sumular.
+Desse modo, não havendo a impugnação consistente de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 para R$ 2.500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
