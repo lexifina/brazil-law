@@ -1,0 +1,35 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 505.004, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 04.05.2018, pela suposta prática dos crimes previstos nos arts. 288, caput, 311, caput, 297, caput, e 171, caput, c/c o art. 14, II, todos do Código Penal. O Juízo da 2º Vara Criminal da Comarca de Paranaguá/PR concedeu o benefício da liberdade provisória ao acusado.
+    3. Dessa decisão, o Ministério Público interpôs recurso em sentido estrito. O Tribunal de Justiça do Estado do Paraná deu provimento ao recurso a fim de decretar a prisão preventiva do ora paciente.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 505.004, Ministro Ribeiro Dantas, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia preventiva e requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a necessidade de interromper a atuação de organização criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    9. No caso, tal como assentou o Tribunal Estadual, “Da análise dos elementos contidos nos autos, constata-se de plano que as medidas cautelares descritas no art. 319 do CPP são insuficientes a coibir os recorridos a reiterar nas condutas criminosas. (…) Todos esses elementos evidenciam a necessidade de se garantir a ordem pública, justamente por se tratar de atividade organizada em que cada qual possui uma função, com o fim precípuo de desviar carga até o receptador final (fumus comissi delicti)”. Transcrevo, nesse sentido, as seguintes passagens do acórdão do TJ/PR:
+    “(...)
+    Da análise dos elementos contidos nos autos, constata-se de plano que as medidas cautelares descritas no art. 319 do CPP são insuficientes a coibir os recorridos a reiterar nas condutas criminosas.
+    É de se esperar do Poder Judiciário uma postura rígida no sentido de viabilizar o exercício da jurisdição penal no sentido de obstar tais práticas criminosas.
+    Ora, conceder a liberdade provisória em situação em que diversos crimes são perpetrados constantemente na Comarca de Paranaguá/PR, todos eles com o intuito de desviar cargas e obter vantagens indevidas, acarreta inúmeros prejuízos não somente às empresas transportadoras, mas também ao próprio Município que permanece com o estigma de ‘local de desencaminhamento de cargas’.
+    Todos esses elementos evidenciam a necessidade de se garantir a ordem pública, justamente por se tratar de atividade organizada em que cada qual possui uma função, com o fim precípuo de desviar carga até o receptador final (fumus comissi delicti), portanto, presentes os indícios de autoria e a necessidade de se acautelar a ordem pública (periculum libertatis) descritas no art. 312 do CPP.
+    Por outro lado, é de se considerar o concurso material dos crimes imputados aos recorridos, cuja pena máxima supera o patamar de quatro anos, portanto, preenchida a exigência do art. 313, inciso I, do CPP.
+    Frise-se que a prisão preventiva é autônoma e pode ser decretada em fase de investigação ou no decorrer do processo, e, no caso vertente, busca salvaguardar a ordem pública, justamente porque os criminosos se utilizaram de diversos subterfúgios tais como: falsificação de documentos, adulteração de sinal identificador de caminhão, uso de documento falso, além de outros meios fraudulentos ao fim de lesar as empresas que fazem transportes de cargas junto ao Porto de Paranaguá/PR.
+    Além disso, é notória a atuação desse tipo de empreitada criminosa, inclusive, com aumento exacerbado de situações semelhantes na Comarca de Paranaguá/PR, conforme salientou a IL. PROMOTORA DE JUSTIÇA DRA. CAROLINE DEMANTOVA FERREIRA:
+          ‘(...) Pertine destacar que o desvio de cargas é uma prática recorrente nesta Comarca, e através dos inúmeros processos em que esta Agente Ministerial atua, é possível verificar um aumento exponencial dessa ação que tanto assola e onera a sociedade parnanguara, o que invoca a necessidade de uma análise mais rígida como forma de reprimir os estímulos para a delinquência.
+    Diante das circunstâncias que envolvem o caso, vislumbra-se que a periculosidade dos recorridos se pauta na estruturação que se revela para a prática do ilícito.
+    Além disso, manifesto o risco de reiteração, pois se apurou que na época que se deram os fatos narrados na exordial acusatória, os recorridos tinham planejado ao menos mais 03 (três) desvios de cargas, os quais iriam causar prejuízos exorbitantes a várias empresas que atuam nesta cidade e Comarca de Paranaguá/PR’ – (grifou-se).
+    Realmente, trata-se de associação criminosa especializada em desvio de cargas em que os envolvidos estão sendo investigados por vários crimes de mesma natureza.
+    Tal fato foi bem reportado pelo MM. JUIZ PEDRO DE ALCÂNTARA SOARES BICUDO ao receber o auto de prisão em flagrante em que decretou a prisão preventiva de Alcimar Jerônimo e de Luciano de Lima Jerônimo (nº 0009308- 16.2018.8.16.0129 - mov. 12.1).
+    (…)
+    Efetivamente, nesse contexto fático, as medidas cautelares diversas da prisão se mostram insuficientes a coibir novas práticas delitivas por parte dos recorridos, especialmente pela contumácia em reiterar em práticas de mesma natureza, cujo modus operandi é grave e nenhum deles se abstém mesmo com diversas investigações em andamento.
+    (…)
+    Logo, presentes os requisitos necessários à garantia da ordem pública e assegurar a aplicação da lei penal nos termos do art. 312 do CPP, consubstanciados em indícios suficientes de autoria (fumus comissi delicti), além do risco à ordem pública (periculum libertatis), com a reiteração de condutas (já haviam planejado mais três desvios de cargas na época dos fatos narrados na inicial acusatória).
+    (…).” (Sem grifos no original)
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 06 de maio de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
