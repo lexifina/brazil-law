@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, ART. 557, § 1º. DECISÃO AGRAVADA. PEDIDO DE RECONSIDERAÇÃO. PRAZO RECURSAL. INTERRUPÇÃO. SUSPENSÃO. INADMISSIBILIDADE. 1. A utilização do agravo previsto no art. 557, § 1º, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso de recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Por isso que é inviável, quando o agravante deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes do STJ. 2. O prazo recursal conta-se da intimação da decisão objeto de irresignação. O mero pedido de reconsideração não interrompe nem suspende a fluência desse prazo, dado que o gravame não decorre da decisão que aprecia o pedido dê reconsideração, mas sim daquela que em primeiro lugar resolveu a questão controvertida. Precedente do STJ. 3. A decisão que indeferiu a substituição do polo ativo dos Autos n. 94.0018323-2, para o levantamento de créditos que teriam sido cedidos, foi proferida pelo MM. Juiz a quo em 08.10.09 e disponibilizada no diário eletrônico de 27.10.09. As autoras, ora agravantes, limitaram-se a requerer a reconsideração da decisão, requerimento não conhecido pelo MM: Juiz a quo. 4. A Emenda Constitucional n. 62/09 não configura fato novo, nos termos do art. 462 do Código de Processo Civil. 5. Agravo legal não provido” (fls. 151-152, e-doc. 5).
+    2. Os recorrentes asseveram contrariados o artigo 5º da Emenda Constitucional n. 62 e os §§ 13 e 14 do art. 100 da Constituição da República.
+    Pedem seja “reformado o r. acórdão recorrido, para o fim específico de reconhecer a cessão de crédito realizada e, consequentemente, determinar a inclusão da Recorrente, no polo ativo da ação, nos termos previstos arts. 5º da Emenda Constitucional no 62 e 100 da CF” (fl. 26, e-doc. 6).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste aos recorrentes.
+    4. O Tribunal de origem limitou-se ao exame dos requisitos para o cabimento de recurso de sua competência.
+    No julgamento do Recurso Extraordinário n. 598.365, Relator o Ministro Ayres Britto, Tema 181, este Supremo Tribunal assentou inexistir repercussão geral na questão discutida neste processo:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (DJe 23.6.2010).
+    Declarada a ausência de repercussão geral, os recursos extraordinários nos quais suscitada a mesma questão constitucional devem ter o conhecimento negado pelos respectivos relatores, conforme o art. 1.035 do Código de Processo Civil e o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações dos recorrentes.
+    5. Pelo exposto, não conheço do recurso extraordinário (art. 1.035 do Código de Processo Civil e § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
