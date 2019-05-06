@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. PLANO DE RECUPERAÇÃO JUDICIAL HOMOLOGADO. CONTROLE JUDICIAL DA LEGALIDADE DAS DISPOSIÇÕES. POSSIBILIDADE. NULIDADE DE CLÁUSULAS. EXEGESE DE CLÁUSULAS DO PLANO DE RECUPERAÇÃO JUDICIAL. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ARGE LTDA - EM RECUPERAÇÃO JUDICIAL - EM RECUPERAÇÃO JUDICIAL, em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do art. 105, III, da Constituição Federal, ao fundamento de ausência de demonstração da ofensa aos dispositivos arrolados, bem como de incidência das Súmulas 05 e 07/STJ (e-STJ fls. 786-787).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 792-802).
+No recurso especial, a parte recorrente alega ofensa aos arts. 45, 47, 49, §1º, 50, 59, 61, 62, 73, 74 e 83, todos da Lei N. 11.101/2005, sustentando, em síntese, a licitude do objeto do plano de recuperação judicial; bem como que não há falar em nulidade das Cláusulas 6.1 e 6.6, uma vez que aquela foi aceita livremente pelos credores, além de esta ser de uso comum e aceita em qualquer tipo de negócio jurídico.
+Apresentadas contrarrazões (e-STJ fls.765-782).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa aos arts. 45, 47, 49, §1º, 50, 59, 61, 62, 73, 74 e 83, todos da Lei N. 11.101/2005, sustentando, em síntese, a licitude do objeto do plano de recuperação judicial; bem como que não há falar em nulidade das Cláusulas 6.1 e 6.6, uma vez que aquela foi aceita livremente pelos credores, além de esta ser de uso comum e aceita em qualquer tipo de negócio jurídico.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 713-720):
+O legislador, ao atribuir à assembléia-geral de credores a competência para aprovar, rejeitar ou modificar o plano apresentado pela sociedade devedora (art. 35, I, alínea "a", da Lei nº 11.101/2005), deixou nítido o caráter negocial da recuperação judicial, decorrente em última análise dos efeitos por ele conferidos à vontade manifestada pelo órgão colegiado.
+E, justamente em razão dessa natureza negocial, as deliberações tomadas em assembléia, conquanto sejam em princípio soberanas, acabam por se sujeitar às regras normativas e princípios constitucionais a elas pertinentes, autorizando com isso o controle por parte do Poder Judiciário quanto à legalidade - e não à viabilidade econômico-financeira, cumpre esclarecer desde logo - do plano de recuperação aprovado pelos credores.
+A possibilidade de verificação judicial da validade das cláusulas constantes do plano de recuperação é, de resto, tema pacífico junto às Câmaras Reservadas de Direito Empresarial, como segue: (..)
+Assentada, desse modo, a viabilidade da fiscalização dos termos do plano de recuperação pelo Poder Judiciário, passa-se então à análise das irregularidades aventadas pelo credor agravante. (..)
+Assiste razão todavia ao agravante no que diz respeito à possibilidade, constante do plano de recuperação judicial (cf. item 6.6, na fl. 585), de purgação da mora por parte da recuperanda durante os 30 (trinta) dias subsequentes ao vencimento das obrigações por ela assumidas.
+Ora, abstraída a possibilidade em tese de eventuais alterações, por força de livre deliberação da assembléia-geral de credores, dos termos do plano de recuperação judicialmente homologado, a verdade é que o descumprimento das obrigações assumidas pela recuperanda não lhe concede, por evidente, automática oportunidade para purgação da mora, implicando, isso sim, na decretação da falência da devedora ou então no ajuizamento, por parte dos credores prejudicados, de execuções individuais fundadas na decisão concessiva da recuperação, nos termos dos arts. 61, 62 e 73 da Lei nº 11.101/2005.
+Dessa forma, a cláusula concernente à possibilidade de purgação da mora, conquanto a rigor não seja aplicável por investir contra texto expresso de lei, deve ser extirpada a fim de se evitar eventual discussão futura em torno de sua ineficácia.
+No mais, a matéria em torno da extensão da novação decorrente da aprovação do plano aos coobrigados não constitui, à luz do art. 49, § 1º, da Lei nº 11.101/2005, tema a ser apreciado na recuperação judicial, mas sim no âmbito de eventuais execuções individuais contra eles ajuizadas, tratando-se portanto de disposição ineficaz (item 6.1 do plano, parágrafo final, na fl. 583), por desbordar das questões passíveis de deliberação pela assembléia-geral de credores. (..)
+As inconsistências aqui apontadas, de todo modo, não viciam o cerne do plano de recuperação judicial, comportando mera extirpação, pelo que se declara a nulidade das cláusulas a elas correspondentes quais sejam, os itens 6.1 e 6.6 - , mantendo-se as demais disposições do plano de recuperação judicial tal como aprovadas pela assembléia-geral de credores.
+Com efeito, vislumbra-se que a irresignação da parte agravante não merece guarida, uma vez que, elidir as conclusões do aresto impugnado, mormente quanto à constatação, ou não, de eventual regularidade nas cláusulas do plano de recuperação judicial, demandaria a reinterpretação de cláusulas contratuais, e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. É assente neste Superior Tribunal de Justiça a orientação jurisprudencial no sentido de que "a assembleia de credores é soberana em suas decisões quanto aos planos de recuperação judicial.
+Contudo, as deliberações desse plano estão sujeitas aos requisitos de validade dos atos jurídicos em geral, requisitos esses que estão sujeitos a controle judicial" (REsp 1.314.209/SP, Relatora Ministra Nancy Andrighi, DJe de 1º/06/2012).
+2. Para superar a conclusão a que chegou a Corte Estadual, no sentido de que o plano aprovado pela Assembléia Geral de Credores estaria eirado de ilegalidades, as quais vulnerariam as diretrizes traçadas na Lei n.º 11.101/2005, seria necessário o revolvimento dos elementos fático-probatórios constantes dos autos, hipótese vedada na presente esfera recursal, ante o teor da Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1646104/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 26/04/2018) - g.n.
+RECURSO ESPECIAL. AÇÃO DE RECUPERAÇÃO JUDICIAL. CONTROLE DO MAGISTRADO SOBRE O PLANO DE SOERGUIMENTO. APROVAÇÃO DA ASSEMBLEIA GERAL DE CREDORES. VIABILIDADE ECONÔMICA. SOBERANIA DA AGC. LEGALIDADE. VERIFICAÇÃO PELO JUDICIÁRIO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Processamento da recuperação judicial deferido em 24/05/2013. Recurso especial interposto em 04/11/2014 e atribuído ao Gabinete em 25/08/2016.
+2. A jurisprudência das duas Turmas de Direito Privado do STJ sedimentou que o juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial, sem adentrar no aspecto da sua viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia geral de credores.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Recurso especial não provido. (REsp 1660195/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017) - g.n.
+Destarte, melhor sorte não socorre à parte recorrente.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
