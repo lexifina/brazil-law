@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA. BANCO DO BRASIL S.A. PORTARIA Nº 966/1947. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a jurisprudência desta Corte Superior no sentido de que compete à Justiça do Trabalho processar e julgar demandas ajuizadas contra o Banco do Brasil, por ex-empregado, com o intuito de cobrar complementação de aposentadoria decorrente da Portaria nº 966/1947. Incidência da Súmula nº 568/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por [NOME] DA COSTA e OUTROS contra a decisão desta relatoria que reconheceu a incompetência absoluta da Justiça Comum e determinou a remessa dos autos à Justiça do Trabalho para análise e apreciação da demanda.
+Inconformados, os agravantes interpõem o presente recurso (fls. 673/682 e-STJ), sustentando que
+"(..) não há que se falar em Competência da Justiça do Trabalho, tendo em vista que não se trata de dissídio trabalhista, porque não é objeto desta ação a relação empregatícia entre as partes, mas sim, o cumprimento de uma obrigação previdenciária constituída após a extinção do vínculo empregatício, ficando assim determinado que a competência é da Justiça Comum, tendo em vista que não se trata de vínculo trabalhista e sim de Direito Previdenciário".
+Ao final, requerem a reconsideração da decisão agravada ou que o feito seja submetido ao órgão julgador colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA. BANCO DO BRASIL S.A. PORTARIA Nº 966/1947. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a jurisprudência desta Corte Superior no sentido de que compete à Justiça do Trabalho processar e julgar demandas ajuizadas contra o Banco do Brasil, por ex-empregado, com o intuito de cobrar complementação de aposentadoria decorrente da Portaria nº 966/1947. Incidência da Súmula nº 568/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Conforme asseverado na decisão agravada, é pacífica a jurisprudência desta Corte Superior no sentido de que compete à Justiça do Trabalho processar e julgar demandas ajuizadas contra o Banco do Brasil, por ex-empregado, com o intuito de cobrar complementação de aposentadoria decorrente da Portaria nº 966/1947.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA. DEMANDA PROPOSTA CONTRA BANCO DO BRASIL. PORTARIA Nº 966/1947. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES. DECLÍNIO DA COMPETÊNCIA, DE OFÍCIO. APELO NOBRE PREJUDICADO. NEGADO PROVIMENTO.
+(..)
+2. Esta Corte de Justiça tem entendimento pacificado de que "a Justiça do Trabalho é competente para processar e julgar ação proposta contra o Banco do Brasil S.A. por ex-funcionário com a finalidade de cobrar a complementação de aposentadoria prevista na Portaria n. 966/47, relativamente a direito inerente ao primitivo contrato de trabalho" (AgRg no CC 130.534/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Segunda Seção, DJe de 25/10/2013).
+3. Consoante se observa nos autos, o cerne da questão é a percepção de complementação de aposentadoria a ser paga diretamente pelo ex-empregador, não havendo nenhum pleito formulado contra entidade de previdência privada. Por conseguinte, a hipótese "é diversa da contemplada no precedente do eg. Supremo Tribunal Federal no julgamento do RE 586.453/SE, que concluiu pela competência da Justiça Comum para processar e julgar demandas de natureza previdenciária promovidas contra entidades de previdência complementar" (CC 141.146/RJ, Rel. Ministro RAUL ARAÚJO, Segunda Seção, DJe de 26/8/2016).
+4. Agravo interno ao qual se nega provimento" (AgInt no REsp 1.735.462/SP Rel. Desembargador Convocado LÁZARO GUIMARÃES, Quarta Turma, julgado em 2/8/2018, DJe 9/8/2018).
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) DECISÃO MONOCRÁTICA QUE DETERMINA REMESSA DOS AUTOS PRINCIPAIS À JUSTIÇA DO TRABALHO. INSURGÊNCIA DOS AUTORES.
+1. "Compete à Justiça do Trabalho processar e julgar ação proposta diretamente contra o ex-empregador, sem haver pretensão formulada contra entidade de previdência privada, na hipótese em que se postula o recebimento de complementação de aposentadoria, a ser paga pelo ex-empregador e fulcrada apenas em normas internas que integram o contrato de trabalho (Portaria nº 966/1947 do Banco do Brasil S/A)." (EREsp 1351280/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 01/02/2018)
+2. Hipótese que não se confunde com a orientação firmada pelo STJ e pelo STF acerca da competência da Justiça Comum para processar e julgar litígios instaurados entre entidade de previdência privada e participante de seu plano de benefícios, decorrente de obrigação oriunda de contrato de natureza civil e que apenas de maneira indireta envolve aspectos da relação jurídica trabalhista (REsp 1.207.071/RJ, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 27.06.2012, DJe 08.08.2012; RE 586.453/RS, Rel. Ministra Ellen Gracie, Rel. p/ Acórdão Ministro Dias Toffoli, Tribunal Pleno, julgado em 20.02.2013, DJe 06.06.2013; e RE 583.050/RS, Rel. Ministro Cezar Peluso, Rel. p/ Acórdão Ministro Dias Toffoli, Tribunal Pleno, julgado em 20.02.2013, DJe 11.06.2013).
+3. Agravo interno desprovido" (AgInt no AREsp 98.921/DF, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 1º/3/2018, DJe 7/3/2018).
+"PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA. DEMANDA PROPOSTA CONTRA BANCO DO BRASIL. PORTARIA Nº 966/1947. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES. DECLÍNIO DA COMPETÊNCIA, DE OFÍCIO. APELO NOBRE PREJUDICADO. AGRAVO NÃO PROVIDO.
+1. De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta Corte de Justiça tem entendimento pacificado de que a Justiça do Trabalho é competente para processar e julgar ação proposta contra o Banco do Brasil S.A. por ex-funcionário com a finalidade de cobrar a complementação de aposentadoria prevista na Portaria n. 966/47, relativamente a direito inerente ao primitivo contrato de trabalho (AgRg no CC nº 130.534/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Segunda Seção, DJe 25/10/2013).
+3. Conforme consta dos autos, o cerne da questão é a percepção de complementação de aposentadoria a ser paga diretamente pela ex-empregadora, não havendo nenhum pleito formulado contra entidade de previdência privada. Por conseguinte, a hipótese é diversa da contemplada no precedente do eg. Supremo Tribunal Federal no julgamento do RE 586.453/SE, que concluiu pela competência da Justiça Comum para processar e julgar demandas de natureza previdenciária promovidas contra entidades de previdência complementar (CC 141.146/RJ, Rel. Ministro RAUL ARAÚJO, Segunda Seção, DJe 26/8/2016).
+(..)
+5. Agravo interno não provido" (AgInt no REsp 1.580.882/DF, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 27/6/2017, DJe 7/8/2017).
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA DECORRENTE DE CONTRATO DE TRABALHO. PORTARIA 966/1947. COMPETÊNCIA DA JUSTIÇA ESPECIALIZADA.
+1. Pela Segunda Seção desta Corte foi firmado entendimento no sentido de que, nas demandas movidas por ex-funcionários contra o Banco do Brasil com o objetivo de buscar complementação de aposentadoria havida como decorrente de contrato de trabalho por força da Portaria 966/1947, como in casu, a competência é da Justiça especializada. Precedentes.
+2. AGRAVO REGIMENTAL DESPROVIDO" (AgRg no Ag 904.377/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 2/9/2010, DJe 15/9/2010).
+Assim, a consonância entre o acórdão recorrido e a jurisprudência dominante desta Corte atrai a incidência da Súmula nº 568/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
