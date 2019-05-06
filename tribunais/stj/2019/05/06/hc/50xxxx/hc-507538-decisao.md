@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRETENSÃO DE RESTABELECIMENTO DA DECISÃO QUE ABSOLVEU SUMARIAMENTE O PACIENTE, COM FUNDAMENTO NO PRINCÍPIO DA INSIGNIFICÂNCIA. PACIENTE MULTIRREINCIDENTE. QUATRO CRIMES DE FURTO QUALIFICADO EM CONTINUIDADE DELITIVA. ATRIBUIÇÃO DE FALSA IDENTIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - absolvido sumariamente do crime de furto qualificado -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, que deu provimento à apelação do Ministério Público estadual para cassar a decisão que absolveu sumariamente o paciente, determinando o regular prosseguimento da ação penal (Apelação Criminal n. 0018153-04.2011.8.24.0018).
+Alega a impetrante, em síntese, que no caso em testilha, causa perplexidade a decisão do TJSC que entendeu pelo processamento do feito, considerando crime uma conduta sem qualquer relevância jurídico-penal: furto de uma tesoura cirúrgica e algumas moedas da vítima [NOME], uma chave de rodas, um calção e um par de tênis da vítima [NOME], um par de luvas e um capacete da vítima [NOME] e [NOME], alcançando o valor total de R$ 116,00. Sem contar que todas as vítimas recuperaram os bens subtraídos (fl. 7).
+Postula, então, a concessão liminar da ordem para que seja restabelecida a decisão que absolveu sumariamente o paciente, aplicando o princípio da insignificância.
+É o relatório.
+Busca a impetração o restabelecimento da decisão que absolveu sumariamente o paciente, ao argumento da ausência de tipicidade material da conduta, uma vez que estariam presentes os pressupostos do princípio da insignificância.
+O Tribunal a quo, ao cassar a decisão de primeiro grau, consignou que (fls. 243/244):
+ ..
+In casu, consta na denúncia que, no dia 16 de maio de 2011, o apelado, com evidente animus furandi, dirigiu-se até um estacionamento no centro de Chapecó e, em tal local, primeiramente, quebrou um vidro do veiculo da vítima [NOME] e subtraiu uma tesoura cirúrgica e algumas moedas (R$ 4,00). Na seqüência, cortou a borracha de vedação, removeu o vidro traseiro do carro do vitima [NOME] e subtraiu uma chave de rodas, um calção e um par de tênis. Logo após, quebrou as fechaduras dos bagageiros das motocicletas das vitimas [NOME] e [NOME] e subtraiu respectivamente, um par de luvas e um capacete. Não bastasse isso,ao ser apresentado perante a autoridade policial, o apelado atribuiu-se falsamente a identidade do irmão [NOME].
+O comportamento versado nos autos se amolda tanto à tipicidade formal e subjetiva, quanto a tipicidade material, que consiste na relevância penal da ação, visto que os fatos em questão não representam episódio isolado na vida do apelado.
+Como se vê, trata-se de quatro furtos que, além de qualificados pelo arrombamento (laudos periciais de fls. 63/68, 72/76 e 80/84), foram praticados em continuidade delitiva, seguidos, ainda, da falsa identidade, notadamente com o objetivo de se esquivar, o apelado, da aplicação da lei penal.
+Não obstante as vítimas tenham recuperado os bens subtraídos, o valor total da res furtiva alcança o percentual de 21% (R$ 116,00) do salário mínimo vigente à época dos fatos (RS 540,00), conforme termos de avaliação indireta de fls. 32/35. Constata-se, ainda, que o apelado ostenta 5 (cinco) condenações por crimes de furto (simples e qualificados) com trânsito em julgado em datas anteriores ao fato sub examine, logo, é multirreincidente especifico neste feito (certidões de fl. 163,164, 166, 167 e 168).
+ ..
+Da análise dos trechos transcritos, verifica-se que as condutas imputadas ao paciente não se mostram despidas de tipicidade material, uma vez que não se evidencia a existência dos pressupostos do princípio da insignificância.
+No mesmo sentido:
+HABEAS CORPUS. FURTO QUALIFICADO CONTINUADO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE DE APLICAÇÃO. RECONHECIMENTO DA MODALIDADE PRIVILEGIADA. INVIABILIDADE.
+1. Para a incidência do princípio da insignificância, são necessários a mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada. Precedentes do STF.
+2. Na hipótese, a conduta perpetrada não pode ser considerada irrelevante para o Direito Penal. A ação revela lesividade suficiente para justificar a persecução penal, havendo que se reconhecer a ofensividade do comportamento.
+3. Pelas mesmas razões, não há como se reconhecer a figura privilegiada do delito, porquanto o furto praticado indica reprovabilidade do comportamento da ré. Ao lado de outras pessoas, contando, inclusive, com a participação de um menor de idade, a paciente praticou não menos que quatro crimes da mesma espécie contra vítimas diferentes. 4. Ordem denegada.
+(HC 144.193/MG, Ministro Og Fernandes, Sexta Turma, DJe 18/6/2012 - grifo nosso)
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
