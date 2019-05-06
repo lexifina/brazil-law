@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito negativo de competência em que o r. Juízo da 1ª Vara Federal de Magé/RJ suscita não lhe competir o processamento e o julgamento da ação de obrigação de fazer c/c danos morais nº 0002434-96.2018.8.19.0072, originariamente proposta perante o r. Juízo de Direito da Vara Cível de Magé/RJ.
+Em resumo, a ora interessada [NOME] ajuizou, em face da Caixa de Previdência dos Funcionários do Banco do Brasil - PREVI, ação de obrigação de fazer c/c danos morais, em que requer o pagamento de complementação de aposentadoria em razão do falecimento de seu companheiro, o que lhe fora negado pela instituição de previdência privada, motivando, na sua compreensão, dano moral indenizável.
+O r. juízo suscitado, em decisão de 12/06/2018, entendeu que "(..) da análise dos (sic) verifico não ser este Juízo competente para julgar tal demanda, desta forma, declino de minha competência para Vara Federal de Magé. Feitas as anotações e comunicações de estilo, rementam-se os autos."
+Recebidos os autos, o r. Juízo 1ª Vara Federal de Magé/SJ, por entender que a pretensão exposta na ação originária não traduz competência do juízo falimentar porquanto "(..) entendo que o presente feito não se enquadra em nenhuma das hipóteses que justificam a competência da Justiça Federal, haja vista que a CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI é uma pessoa jurídica de direito privado ligada ao Banco do Brasil, sociedade de economia mista que não dispõe da prerrogativa de ter suas causas julgadas na Justiça Federal."
+O MPF ofertou parecer (fls. 29/31) no qual opina pela declaração de competência do r. juízo suscitado.
+É o relatório.
+Decide-se.
+1. Registre-se, preliminarmente, que o presente incidente se apresenta pronto para julgamento, haja vista que são dispensáveis maiores esclarecimentos pelos juízos conflitantes.
+2. A controvérsia acerca da procedência ou não de ação de obrigação de fazer c/c danos morais proposta em face da PREVI - fundo de pensão dos funcionários do Banco do Brasil - é estranha à competência do r. Juízo Suscitante, consoante regra do art. 109, da Constituição Federal e, portanto, deve ser solucionada no âmbito da Justiça Comum Estadual. Nesse sentido, confira-se: (ut. REsp 1.281.690/RS, Rel. Min. Antonio Carlos Ferreira, Dje de 02/10/2012.
+3. Do exposto, com fundamento no art. 955, do NCPC c/c Súmula 568/STJ conheço do conflito para declarar a competência do r. Juízo de Direito da Vara Cível de Magé/RJ.
+Publique-se. Intimem-se. Oficiem-se aos juízos suscitados.
