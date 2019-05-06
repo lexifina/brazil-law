@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido por Colégio Recursal do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 13, Vol. 5):
+    “Tributário. Taxa de conservação de vias e logradouros públicos. Taxa de serviço de bombeiro. Inconstitucionalidade. Princípio da especificidade. Serviços genéricos custeados por imposto. Sentença de procedência. Recurso improvido.”
+    No apelo extremo, com fundamento no art. 102, III, “a”, da Constituição Federal, a parte recorrente alega ter o acórdão recorrido violado o disposto nos artigos 145, II, e 150, II, da Carta Magna, por considerar indevida a taxa de limpeza pública cobrada tendo por base a testada dos imóveis situados nos locais em que ocorrem o fornecimento do serviço pela municipalidade.
+    É o relatório. Decido.
+    Não assiste razão à recorrente.
+    No caso, o Tribunal de origem, com base na legislação local de regência e no entendimento do STF consolidado na Súmula Vinculante 19, manteve a sentença que reconheceu a legalidade da taxa de limpeza pública do Município de Jahu e julgou parcialmente procedente o pedido quanto à inconstitucionalidade da taxa de conservação de vias públicas e da taxa de serviços de bombeiros, condenando o recorrido à repetição do indébito, respeitada a prescrição quinquenal, bem como a se abster de promover a cobrança dos referidos tributos.
+    Quanto à legalidade da taxa de limpeza pública, o SUPREMO TRIBUNAL FEDERAL, no julgamento do RE 576.321-RG, (Rel. Min. RICARDO LEWANDOWSKI, Tema 146), sob a sistemática da repercussão geral, firmou seu entendimento no sentido de que “I - A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, da Constituição Federal; II - A taxa cobrada em razão dos serviços de conservação e limpeza de logradouros e bens públicos ofende o art. 145, II, da Constituição Federal; III - É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.” Confira-se a ementa do julgado:
+    “CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO. II - JULGAMENTO DE MÉRITO CONFORME PRECEDENTES. III - RECURSO PROVIDO.”
+    Ainda a respeito da matéria, vejam-se as Súmulas Vinculantes 19/STF e 29/STF, que assim dispõem, respectivamente:
+    “A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.”
+    “É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.”
+    Verifica-se, portanto, que o acórdão recorrido encontra-se em conformidade com o entendimento desta CORTE a respeito da legalidade da taxa de limpeza pública, razão pela qual merece ser mantido.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 6 de maio de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
