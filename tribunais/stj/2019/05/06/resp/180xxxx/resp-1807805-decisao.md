@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 79):
+PREVIDENCIÁRIO. APOSENTADORIA. RENÚNCIA. DECADÊNCIA. INOCORRÊNCIA. DESAPOSENTAÇÃO. UTILIZAÇÃO DO TEMPO DE CONTRIBUIÇÃO EM OUTRO BENEFÍCIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA ATUALIZADA DO STF. RE N. 661.256/DF. REPERCUSSÃO GERAL. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+1. A suspensão do processo até o julgamento da matéria sob repercussão geral perante o Supremo Tribunal Federal é providência já superada, tendo em conta a decisão prolatada no RE n. 661.256/DF.
+2. Sendo notória a posição do INSS e patente a resistência à pretensão deduzida em juízo, é inequívoco o interesse de agir. Entendimento do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 631.240-MG.
+3. Conforme decidido pelo STJ, cuidando os autos de pedido de renúncia e cancelamento de benefício concedido pela Previdência Social, com o objetivo de concessão de nova vantagem previdencíária e não de pedido de revisão do valor do benefício já deferido, não há decadência do direito.
+4. A renúncia à aposentadoria visando ao aproveitamento de tempo de serviço posterior à concessão do benefício é vedada no ordenamento jurídico, sobretudo ante o disposto no art. 18, § 2º, da Lei 8.213/91, conforme decisão do STF, no Recurso Extraordinário n. 661.256/DF, da relatoria do Ministro Luís Roberto Barroso, em sede de repercussão geral.
+5. A jurisprudência desta Turma, alinhada com a orientação da Corte Suprema, tem entendimento de que eventuais valores pagos em virtude de decisão antecipatória da tutela são irrepetíveis, considerando-se a hipossuficiência do segurado, o fato de ter recebido de boa-fé o seu benefício por decisão judicial fundamentada, bem assim a natureza alimentar da referida prestação.
+6. Honorários advocatícios ficam arbitrados em R$ 500,00 (quinhentos reais), conforme o disposto no art. 85, § 8º do NCPC, ficando suspensa sua execução, em face do deferimento da gratuidade judiciária (art. 98, §§ 2º e 3o, do NCPC).
+7. Apelação do autor desprovida.
+Opostos embargos declaratórios, foram rejeitados (fl. 91).
+Aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 85, §§ 2º e 4º, III e 1.022, I e II do CPC/20015, 20, caput, do CPC/73, sustentando, tese de negativa de prestação jurisdicional, bem como "o acórdão julgou improcedente o pedido inicial, mas fixou o valor dos honorários de sucumbência completamente desproporcional ao valor da causa, assim como não observou a legislação processual para o tema" (fl. 97).
+Aduz que "o novo Código de Processo Civil não foi diferente e dispõe em seu art.85, caput, que "a sentença condenará o vencido a pagar honorários ao advogado do vencedor". Já o § 2º do mesmo artigo complementa que "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa" (grifei)" (fl. 130).
+Alega que "o § 4º, inciso III, do mesmo artigo, esclarece que "não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa" (grifei) (fl. 97).
+Requer "o provimento do presente recurso para afastar a violação aos preceitos acima e condenar a parte vencida a pagar honorários de sucumbência entre 10% a 20% do valor da causa" (fl. 97).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15, pois o recorrente, nas razões dos embargos de declaração e do recurso especial, alega que, ao fixar os honorários advocatícios, o Tribunal de origem não se atentou para as balizas preconizadas no Novo Código de Processo Civil.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC/15, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o retorno dos autos à origem, a fim de que proceda a novo julgamento dos embargos de declaração lá opostos.
+Publique-se.
