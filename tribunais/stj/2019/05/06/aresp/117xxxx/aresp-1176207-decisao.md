@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ALEGAÇÕES DE CERCEAMENTO DE DEFESA E AUSÊNCIA DE LEGITIMIDADE PASSIVA E SOLIDARIEDADE. REEXAME DE FATOS E PROVAS E DOS TERMOS DO CONTRATO CELEBRADO ENTRE AS PARTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SUMULAS 5/STJ E 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL COM MAJORAÇÃO DE HONORÁRIOS.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por PBL ASSESSORIA DE COMERCIO EXTERIOR LTDA em face de decisão que inadmitiu recurso especial fundamentado na alínea "a", do inciso III, do artigo 105, da Constituição Federal e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO DE COBRANÇA. Transporte marítimo. Cobrança de sobreestadia (demurrage) pelo atraso na devolução de contêineres. PRESCRIÇÃO. Não ocorrência. STJ consolidou entendimento de que o prazo prescricional para a cobrança de sobreestadia de contêiner é de 5 anos, quando previsto em contrato (art. 206, § 5º, inciso I do Código Civil), e de 10 anos se inexistente previsão (art. 205 do mesmo Código). LEGITIMIDADE PASSIVA.
+Manutenção do Reconhecimento. Condenação solidária das corrés. Empresa de assessoria aduaneira responde solidariamente com empresa importadora em razão do "TERMO DE COMPROMISSO DE DEVOLUÇÃO DE CONTAINER" assinado. Responsabilidade das apelantes decorrente de disposição contratual. Prevalência do pactuado entre as partes. Incidência da taxa de sobreestadia pelo atraso na devolução. Propósito indenizatório. Sentença mantida.
+Recursos desprovidos. (fl. 278)
+Nas razões do recurso especial, a parte recorrente, alegando a violação dos arts. 267, VI, e 330, I, do Código de Processo Civil de 1973 bem como 663, 675, 112, 265, 421, 422 e 423 do Código Civil sustentou, em síntese, que "a colheita do depoimento pessoal e a oitiva de testemunhas permitiriam comprovar ter a recorrente firmado o dúbio documento de fls. 23125, exclusivamente na qualidade de mandatário do corréu Neolider Comércio, Importação e Exportação de Aços Ltda, único beneficiário da locação dos contêineres; não existindo, assim, solidariedade quanto ao pagamento da sobreestadia."  sic  (e-STJ fl. 296).
+Foram especificamente impugnados os fundamentos da decisão que inadmitiu o recurso especial haja vista a incidência dos óbices das Súmulas 5/STJ e 7/STJ.
+É o breve relatório.
+Passo a decidir.
+Com efeito, a irresignação recursal não pode prosperar.
+No tocante às alegações de ausência de legitimidade passiva e solidariedade bem como de ocorrência de cerceamento de defesa, assim decidiu o Tribunal de origem:
+No tocante à legitimidade da apelante PBL Assessoria, esta também é parte legítima para a ação, eis que juntamente com a importadora/consignatária da carga assumiu perante a autora a responsabilidade de devolver os contêineres vazios, conforme "TERMO DE COMPROMISSO DE DEVOLUÇÃO DE CONTAINERS" (fls. 23/25).
+Não há indício de coação na formação de tal documento, inclusive qualquer insurgência em relação à procuração outorgada ao despachante aduaneiro para atuar como preposto da importadora (fls. 26/27), de modo que responde a apelante pela obrigação assumida. (e-STJ fl. 281)
+Desse modo, alterar a conclusão do aresto recorrido no que atine à suficiência das provas dos autos para comprovar o alegado bem como modificar o entendimento no que tange à interpretação dos termos do compromisso de devolução dos contêineres demandaria o necessário reexame fático-probatório dos elementos constantes dos autos e de cláusulas contratuais, o que é vedado em sede de recurso especial ante os óbices das Súmulas 5/STJ e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. INDEFERIMENTO. EMBARGOS DE TERCEIRO. POSSE. PROVA.
+AUSÊNCIA. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação aos artigos 489 e 1.022 do Código de Processo Civil/2015.
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova testemunhal considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1157049/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TRANSPORTE MARÍTIMO. ILEGITIMIDADE PASSIVA REJEITADA. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. SOBREESTADIA DE CONTÊINER NÃO TEM NATUREZA DE CLÁUSULA PENAL, E SIM DE INDENIZAÇÃO. SÚMULA 83 DO STJ. COBRANÇA. RECONHECIDA A RESPONSABILIDADE DA RECORRENTE. ALTERAÇÃO DO ENTENDIMENTO. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. O eg. Tribunal de origem asseverou que a parte recorrente seria parte legítima para responder pela demanda, porque "a empresa apelante, por sponte própria, assumiu a posição de devedora solidário da obrigação, pelo que há mesmo de responder pela obrigação contraída". Tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência, por analogia, da Súmula 283 do STF.
+2. Incidência da Súmula 83 do STJ, pois o acórdão recorrido decidiu em sintonia com a jurisprudência do STJ no sentido de que "as demurrages têm natureza jurídica de indenização, e não de cláusula penal, o que afasta a incidência do art. 412 do Código Civil" (REsp 1.286.209/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 14/3/2016).
+3. O eg. Tribunal a quo asseverou que a parte recorrente teria responsabilidade para "devolver o conteiner e a de pagar sobreestadia por força das disposições do contrato que obriga a consignatária das mercadorias a devolvê-lo dentro do prazo concedido (..) e que está ausente prova de vício na manifestação de vontade quando da assinatura do contrato". Tal solução não se desfaz sem o reexame de provas e de cláusulas contratuais, providência vedada no âmbito do recurso especial, pelas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1199157/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 22/08/2018)
+Assim, não procedem as alegações recursais.
+Ante o exposto, conheço do agravo para NÃO CONHECER do recurso especial.
+Considerando a prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1.000,00 R$ (mil reais), nos termos do art. 85, § 11, do Código de Processo Civil.
+Intimem-se.
