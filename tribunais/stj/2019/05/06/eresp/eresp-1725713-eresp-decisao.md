@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Nova Era Comercial de Tintas Ltda., apresentando como acórdão recorrido o abaixo ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. RESPONSABILIDADE TRIBUTÁRIA. INDÍCIOS DE SUCESSÃO EMPRESARIAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. ILEGITIMIDADE PASSIVA ARGUIDA EM AGRAVO DE INSTRUMENTO. INADEQUAÇÃO. NECESSIDADE DE ANÁLISE MEDIANTE INSTRUMENTO PROCESSUAL PRÓPRIO.
+1. O tribunal de origem assentou a existência de "indícios sérios" caracterizadores da sucessão empresarial, os quais devem ser enfrentados na via processual adequada.
+2. Rever tal entendimento, com o objetivo de acolher a pretensão veiculada no recurso especial, no sentido de se afastar a sucessão empresarial, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, em virtude do óbice da Súmula n. 7/STJ.
+3. As controvérsias em execução fiscal envolvendo responsabilidade tributária, cujas soluções demandem a ampliação das vias probatórias, devem ser veiculadas e dirimidas na sede própria dos embargos à execução ou, quando desnecessária a dilação probatória, mediante exceção de pré-executividade.
+4. Recurso especial não conhecido.
+No voto condutor ficou explicitado, verbis:
+Da leitura e análise dos fundamentos acima transcritos, o contexto firmado pelo Juízo de 1º Grau e pelo TRF1 não pode ser reaberto em recurso especial, ainda mais quando o voto condutor do acórdão recorrido deixou claro que a questão deverá ser discutida na sede própria: exceção de pré-executividade ou embargos do devedor, a depender de dilação probatória.
+No presente recurso, o embargante afirma, em síntese, que o acórdão recorrido, ao interpretar o art. 522 do CPC/1973, está em dissonância com a jurisprudência apresentada no julgamento do REsp n. 1.186.430/SP, Rel. Min. Eliana Calmon, DJe 30/8/2010 e do REsp n. 803.755/MG, Rel. Min. Denise arruda, DJe 17/9/2009.
+Adiante o recorrente alega que também houve interpretação divergente no tocante à interpretação da violação do art. 133 do CTN e a necessidade de prova da aquisição para configurar a sucessão. Apresentou como paradigmas o REsp n. 1.140.655/PR, Rel. Min. Eliana Calmon, DJe 19/2/2010 e REsp n. 1.293.144/RS, Rel. Min. Castro Meira, DJe 26/4/2013.
+Requer o provimento dos embargos.
+É o relatório. Decido.
+No acórdão recorrido, acerca da necessidade de análise da existência de sucessão empresarial para os fins de redirecionamento da execução fiscal, foi explicitado que, na situação dos autos, conforme definido pelo julgador da instância ordinária, a questão deveria ser discutida em sede própria a depender de dilação probatória. Assim a referida análise importaria em reexame do conjunto probatório, atraindo o óbice da Súmula n. 7/STJ.
+Por sua vez, no acórdão proferido no REsp n. 118.430/SP, consignou-se, tão somente que a decisão que aprecia o pedido de redirecionamento na execução fiscal. desafia agravo de instrumento, ou seja, situação evidentemente diversa da constante do acórdão recorrido.
+Noutro giro, analisando o REsp n. 803.755/MG, verifica-se, na mesma direção que a anterior decisão, que o tema desenvolvido é a impugnação adequada do pedido que defere ou indefere o pedido de redirecionamento, nada tratando acerca da viabilidade de exame da existência de sucessão empresarial, diante da vedação do reexame do conjunto probatório.
+Gize-se, por oportuno, que o acórdão recorrido não repeliu a utilização do agravo de instrumento para impugnar o pedido de redirecionamento da execução, mas tão somente afirmou inviável a análise no âmbito do recurso especial sub examine, por força da aplicação da Súmula n. 7/STJ.
+No tópico relativo à interpretação do art. 133 do CTN, observa-se que, da mesma forma, os paradigmas apresentados apresentam situações distintas daquela disciplinada no acórdão recorrido.
+Em ambos os paradigmas, a questão de mérito foi examinada, consignado que a aplicação do art. 133 do CTN na aquisição do fundo de comércio, ou seja, na aquisição da propriedade.
+Diversamente, no acórdão recorrido, foi declarado que havia indícios de sucessão empresarial e que não seria possível maior exame no âmbito do recurso especial, ou seja, no acórdão embargado não se adentrou ao mérito da contenda.
+Como visto, tais situações não foram apreciadas no acórdão recorrido, inexistindo, como é evidente, similitude fática entre os julgados em confronto. Nesse contexto, não tendo o recorrente atendido aos requisitos constantes do art. 266 do RISTJ, de rigor sua inviabilidade.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço dos embargos de divergência.
+Publique-se. Intimem-se.
