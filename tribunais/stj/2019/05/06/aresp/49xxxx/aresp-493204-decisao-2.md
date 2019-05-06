@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, em face de acórdão assim ementado:
+"CIVIL E PROCESSO CIVIL - PREVIDÊNCIA PRIVADA - PREVI - EMBARGOS À EXECUÇÃO - EXPURGOS INFLACIONÁRIOS - JUROS REMUNERATÓRIOS - INCIDÊNCIA - DATA DO DESLIGAMENTO - EXCESSO DE EXECUÇÃO - PARTE DECOTADA - SENTENÇA MANTIDA.
+1. Nas ações em que a entidade de previdência privada é condenada à reposição de expurgos inflacionários quando do desligamento do associado e resgate da reserva de poupança, os juros remuneratórios são devidos até o rompimento/cancelamento do participante do plano, conforme previsto no Estatuto e no Regulamento da entidade de previdência privada.
+2. Na hipótese, o quantum debeatur deve ser calculado nos estritos termos do v. acórdão exequendo, o qual determina que sobre a diferença apurada em virtude da reposição dos índices inflacionários incidirão juros remuneratórios contratuais até a data do desligamento dos participantes, configurando excesso de execução a inclusão de juros estatutários após o desligamento.
+3. APELAÇÕES CONHECIDAS E NÃO PROVIDAS. SENTENÇA MANTIDA."
+Opostos os embargos de declaração, esses foram rejeitados.
+Nas razões do especial, a parte alegou violação ao artigo 535 do Código de Processo Civil de 1973. Aduziu contrariedade aos artigos 1.063 do Código Civil de 1916; 187 e 422 do Código Civil de 2002, bem como a existência de dissídio jurisprudencial, visto que os juros remuneratórios devem incidir até o efetivo pagamento. Apontou ofensas aos artigos 1.063 do Código Civil de 1916; 395, 397 e 629 do Código Civil de 2002, em virtude de os juros de mora incidirem desde a devolução menor. Por fim, sustentou a existência de dissídio em relação à Súmula nº 289/STJ, tendo em vista a inaplicabilidade do índice da tabela prática do TJDFT para a correção monetária da diferença das parcelas.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+No tocante às alegações de ofensa ao artigo 535 do CPC/73, verifico que essas não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pelo recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+Da leitura dos autos, verifico que as apontadas contrariedades aos artigos 1.063 do Código Civil de 1916; 187 e 422 do Código Civil de 2002 e de existência de dissídio jurisprudencial encontram óbice nas Súmulas n. 5 e 7 do STJ, que impedem a apreciação das cláusulas contratuais e a revisão do conjunto fático-probatório dos autos em sede de recurso especial, respectivamente.
+É o que se depreende do seguinte trecho (fls. 858/862 e-STJ):
+"Recurso de apelação interposto pelos embargados:
+Quanto à pretensão dos embargados para que os juros remuneratórios contratuais (ou estatutários) e "os indexadores previstos para contabilização de valores empregada pela devedora" (sic - fl. 758) incidam até a data do efetivo pagamento, entendo que não merece acolhida.
+Dispõem o artigo 9º do Estatuto, e os artigos 2º, inciso II, e 3º, inciso I, do Regulamento de Contribuições e Benefícios do Plano de Aposentadoria e Pensões da Previ (fls. 20 e 205) e a Carta Circular 95/11 de 12 de setembro de 1995, que informa as alterações no Regulamento de Contribuições e Benefícios (fl. 08), in verbis:
+"Estatuto
+Art. 9º - a demissão do empregado, voluntária ou não, implicará a perda da qualidade e das prerrogativas do associado da Caixa, facultando-se, com relação ao plano de aposentadoria e pensões, e na forma estabelecida em Regulamento, uma das seguintes opções:
+a) - recebimento de parte das contribuições vertidas até a data de seu desligamento do quadro social; esse valor será corrigido monetariamente e acrescido de juros;
+(..)
+Regulamento
+Art. 2º - (..)
+II - sobre as contribuições devidas serão capitalizados juros mensais de 0,5% (meio por cento).
+Art. 3º - As opções a que se refere o artigo 9º do Estatuto, sobre as quais o interessado deverá manifestar-se expressamente, obedecerão às seguintes condições:
+I - ao optante pela alternativa prevista na alínea "a" do referido artigo 9º será assegurado o recebimento de valor correspondente a 50% (cinqüenta por cento) das contribuições pessoais vertidas até a data de seu desligamento do quadro social; esse valor será corrigido segundo os índices, apurados pelo período de filiação à Entidade, de variação do valor nominal das Obrigações Reajustáveis do Tesouro Nacional e acrescido de juros de 6% (seis por cento) ao ano.
+Carta Circular 95/11:
+a) No artigo 3º Item I - ao optante pela alternativa prevista na alínea "a" do referido artigo 9º, cujo desligamento tenha ocorrido a partir de 01/01/95, será assegurado o valor correspondente a 98% (noventa e oito por cento) das contribuições vertidas até a data de seu desligamento do quadro social: esse valor será corrigido (..), e acrescido de juros de 6% (seis por cento) ao ano."
+Pela leitura atenta dos dispositivos acima, observa-se que os juros remuneratórios previstos no Estatuto e no Regulamento da Previ devem ser aplicados até a data do desligamento dos participantes do plano de benefícios, não merecendo amparo a pretensão dos embargados de que os juros estatutários e os "indexadores previstos para contabilização de valores empregada pela devedora" são devidos até a data do efetivo pagamento.
+Os juros constantes do Estatuto e do Regulamento de Contribuição e Benefícios do Plano de Aposentadoria e Pensões da PREVI são de natureza remuneratória e decorrem das normas estatutárias e regulamentares firmadas pelas partes (artigos 9º e 3º, respectivamente), enquanto os juros legais moratórios são de natureza compensatória, visam a evitar a deterioração do crédito pelo decurso do prazo, e decorrem do processo judicial.
+Destarte, certo é que a pretensão dos embargados de que os juros remuneratórios estatutários ou contratuais incidam desde o seu ingresso no plano de benefícios até a data do efetivo pagamento, não pode ser acolhida.
+Verifica-se, ademais, que o perito nomeado pelo d. Juízo a quo para análise dos cálculos que instruem os embargos à execução adotou a seguinte metodologia (fls. 485/573):
+"(..) Considerando as decisões dos autos e as normas da Embargante, para a devolução da reserva de poupança, anteriormente descritas, é adotada a seguinte metodologia:
+(..)
+5.1.3 Os juros remuneratórios aplicados são de 6% ao ano, correspondentes a 0,4867551% ao mês, conforme estatuto e regulamento, calculados até a data do afastamento.
+(..)
+5.2.2 Os demais índices de correção monetária aplicados são aqueles utilizados pela PREVI na evolução mensal da quota original, quando do afastamento dos Embargados;
+5.2.3 Após a data do afastamento de cada ex-participante, é aplicada correção monetária calculada pelo TJDF;
+5.2.4 São aplicados juros moratórios de 0,5% ao mês até dezembro de 2002 e de 1% (um por cento) ao mês a partir de janeiro de 2003, a contar da data da citação, 24/11/1998 (fl. 213v - processo no. 1998.01.1.064450-2);" (grifei - fl. 489)
+E, ainda, com relação aos cálculos o "expert" do juízo asseverou, in verbis:
+"(..) 6.4 As diferenças apuradas atualizadas monetariamente pelos índices do TJDFT e acrescidas de juros de mora, a partir da citação, montam em abril de 2005:
+(..)
+6.5 Comparando-se o valor apurado neste trabalho de R$ 907.078,83, já atualizado até abril de 2005, com aquele apresentado pelos Embargados, de R$ 1.122.015,12, destaca-se que a principal diferença é a aplicação de juros estatutários ou remuneratórios após a data de afastamento do quadro de associados da PREVI, pelos Embargados." (grifei - fl. 493)
+Destarte, tenho que o Regulamento e o Estatuto dispõem que os juros remuneratórios/contratuais são devidos até o desligamento dos associados, e não após a retirada dos participantes, não merecendo reparos a r. sentença monocrática. Ademais, o v. acórdão exequendo não determinou que fossem aplicados juros estatutários até a data do efetivo pagamento, não podendo ser incluídos nos cálculos da execução.
+Com relação aos "indexadores previstos para contabilização de valores empregada pela devedora", verifica-se que, de acordo com os cálculos da perícia judicial, estes foram considerados desde a citação até o efetivo depósito judicial realizado pela PREVI, porquanto o perito aplicou correção monetária de acordo com os índices adotados por este egrégio TJDFT, mais juros de mora legais no importe de 0,5% (meio por cento) e 1% (um por cento) ao mês, atentando-se para a época de vigência, se antes ou depois do Código Civil de 2002, não merecendo guarida, portanto, a pretensão recursal dos embargados.
+Consoante muito bem consignou a ilustre Magistrada sentenciante, à fl. 708:
+"No mérito, o acórdão que reformou a sentença de indeferimento do pedido inicial, fls. 185/205 (dos autos principais, processo nº 75131-2/05), definiu os parâmetros da condenação da seguinte maneira, verbis:
+"Em face do exposto, dou provimento parcial ao recurso de apelação para reformar a r. decisão atacada, condenando a Apelada, PREVI, a corrigir monetariamente os valores das cotas pessoais pagas aos autores, descontados os percentuais de correção já aplicados pela Apelada."
+Quanto ao último laudo apresentado pelo perito [NOME] de fls. 478/566, entendo que está impecável, haja vista que aplicou os juros estatutários somente até o desligamento dos autores da entidade de previdência fechada, sendo que após este momento aplicou correção monetária nos índices deste Tribunal, mais juros de mora legais, no importe de 0,5% e 1%, conforme a época de vigência de cada um destes, se antes ou depois do CC/02."."
+Com efeito, verifico que o Tribunal de origem consignou expressamente que os juros remuneratórios não são devidos após o desligamento da ora recorrente, conforme previsão contida no Estatuto, no Regulamento do plano de benefícios e no título executivo judicial, de modo que a alteração das premissas firmadas pela Corte Estadual esbarraria nas vedações de reexame do conjunto fático-probatório e de análise de cláusulas contratuais por esta via estreita do recurso especial, em virtude das Súmulas acima mencionadas.
+Ademais, verifico que o recurso especial vai de encontro à jurisprudência deste Superior Tribunal de Justiça, razão pela qual esbarra no óbice sumular nº 83, do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+Isso porque, "a exemplo do que ocorre nas demandas envolvendo as cadernetas de poupança, os juros remuneratórios somente incidem até o saque/resgate do capital investido" (REsp 1166564/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/8/2017, DJe 31/8/2017), não havendo que se falar em sua incidência até a data do pagamento.
+Confiram os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. DESLIGAMENTO DO ASSOCIADO. TERMO FINAL DOS JUROS REMUNERATÓRIOS. PERÍODO DA CONTRATUALIDADE. PRECEDENTES. SÚMULA Nº 568/STJ.
+1. O termo final dos juros remuneratórios deve corresponder à data do desligamento do participante do plano de previdência privada, ou seja, o encargo deve incidir durante o período da contratualidade e não até a data do efetivo pagamento do valor correspondente às contribuições pessoais vertidas pelo associado.
+2. Agravo interno não provido.
+(AgInt no AREsp 500.877/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/9/2017, DJe 2/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL (CPC/1973). JUROS REMUNERATÓRIOS. TERMO FINAL. DESLIGAMENTO DO PARTICIPANTE. PRECEDENTES. DISSÍDIO NÃO CONFIGURADO. MANUTENÇÃO DO DECISUM AGRAVADO. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 479.968/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8/11/2016, DJe 14/11/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RESGATE. JUROS REMUNERATÓRIOS. TERMO FINAL. SÚMULA N. 83/STJ.
+1. Os juros remuneratórios incidem apenas no período da contratualidade no caso de resgate de reserva de poupança em plano de previdência privada.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 187.753/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 3/12/2015, DJe 10/12/2015)
+Quanto ao termo inicial dos juros de mora, destaco que, "nos termos da Súmula 204/STJ, "Os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida". De fato, tratando-se de responsabilidade contratual, os juros moratórios devem incidir a partir da citação, nos termos dos precedentes do STJ" (AgInt no REsp 986.707/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/5/2017, DJe 1/6/2017)
+Nesse contexto, imperioso concluir que o recurso igualmente esbarra no óbice contido na Súmula nº 83/STJ.
+Por fim, assinalo que é pacificado nesta Corte que o dissenso jurisprudencial deve ser demonstrado de forma clara, realizando o cotejo analítico e mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a mera transcrição de ementas, nos moldes exigidos pelos art. 255, do Regimento Interno do STJ, c/c 541, parágrafo único do Código de Processo Civil de 1973 (atual 1029, § 1º), o que não verifico no caso ora em análise.
+O ora recorrente se limitou a afirmar que a utilização da tabela prática do TJDFT para correção monetária dos valores constantes no título exequendo não se mostra devida, sem apontar sequer um julgado apto a lastrear a apontada divergência jurisprudencial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART.544 DO CPC) - AÇÃO DE REPARAÇÃO DE DANOS - JULGAMENTO ANTECIPADO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECLAMO.
+1. Consoante consolidado pela jurisprudência dessa Casa, não se conhece da ofensa ao art. 535 do CPC, quando o recorrente deixa de indicar, de maneira detalhada e específica, a forma com que a suposta violação da lei federal teria se verificado, incide, no caso, a Súmula 284 do STF, ante a deficiente fundamentação desenvolvida no recurso. Precedentes.
+2. A alegada afronta aos artigos 334, inciso II, 348, 350 e 131, todos do Código de Processo Civil; 29, inciso XII do CTB; e 10, §§ 3º e 4º do Decreto 1.832/96, não pode ser acolhida, haja vista a ausência de prequestionamento da questão a eles pertinentes, incidindo, por analogia, os óbices consolidados nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. O entendimento sedimentado nesta Corte Superior é no sentido de que sendo o magistrado destinatário das provas, cabe a ele decidir sobre a pertinência de sua produção.
+4. Com efeito, o recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio. E ainda, incide o óbice da Súmula 13/STJ 5. Agravo regimental desprovido.
+(AgRg no AREsp 410.060/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 1/12/2015, DJe 7/12/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. SÚMULA 13/STJ. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. AGRAVO NÃO PROVIDO. AGRAVO IMPROVIDO.
+1. O dissídio jurisprudencial não foi comprovado, pois não serve para a sua demonstração a colação de julgados proferidos pelo próprio Tribunal recorrido, conforme estabelece a Súmula 13 desta Corte.
+2. Para a demonstração da divergência, nos moldes preconizados pelos arts. 255, § 2º, e 266, § 1º, do RISTJ, c/c o art. 546, parágrafo único, do CPC, é necessária a realização do cotejo analítico entre os arestos confrontados, de modo a evidenciar o alegado dissenso das teses jurídicas adotadas, alegadamente, em situações de evidente similitude fática.
+3. In casu, é possível verificar que o acórdão serviente da demonstração do dissídio não parte das mesmas premissas fáticas e jurídicas do acórdão paragonado. Dessa forma, não ficando evidenciada a existência de similitude fático-jurídica entre as hipóteses confrontadas, fica inviabilizada a análise da alegada existência de dissídio pretoriano.
+4. Agravo regimental improvido.
+(AgRg no AREsp 569.064/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/10/2015, DJe 26/10/2015)
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Intimem-se.
