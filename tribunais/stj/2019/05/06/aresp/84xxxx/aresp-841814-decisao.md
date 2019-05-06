@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Da análise das razões do especial (e-STJ, fls. 360/387), observa-se que, dentre outros argumentos, a parte insurgente alega que "o tempo ocorrido em razão da ausência da devida intimação das partes, não pode ser computado para fins de prescrição, visto que tal decurso de tempo não ocorrera por desídia do recorrente" (e-STJ, fl. 374).
+A tese defendida pela parte insurgente é objeto de embargos de divergência suscitados nos autos do REsp 1.604.412/SC, submetido a incidente de assunção de competência (art. 947 do CPC/2015), tendo como paradigma o acórdão proferido pela Segunda Turma no REsp 1.100.150/RS.
+Nesse recurso, será uniformizada a jurisprudência desta Corte acerca da imprescindibilidade ou não, para o início da prescrição intercorrente, da intimação pessoal da parte a fim de dar prosseguimento ao feito e a sua posterior inércia em cumprir a ordem contida no ato intimatório.
+Confira-se:
+Com efeito, em análise mais detida dos autos, verifica-se que a controvérsia estaria adstrita a decretação de prescrição intercorrente em execução, na vigência do CPC/73, restando decidido no acórdão embargado que a intimação do credor-exequente deveria ser prévia e teria por finalidade garantir o contraditório, oportunidade em que poderia ser oposto algum fato impeditivo à incidência da prescrição.
+Já no julgamento proferido pela Colenda Segunda Turma, no Recurso Especial nº 1100150/RS, restou consignado que, nos termos da jurisprudência desta Corte, para o início da prescrição intercorrente, seria imprescindível a intimação pessoal da parte para dar prosseguimento ao feito e a sua posterior inércia em cumprir a ordem contida no ato intimatório.
+Desse modo, ao menos a princípio, está presente divergência atual entre os julgados capaz de amparar os presentes embargos.
+Quanto a divergência apontada com o paradigma Primeira Seção desta Corte, no julgamento do Recurso Especial nº 1.336.026/PE, no tocante a modulação de efeitos, reitero que não é caso de admissão, em virtude da ausência de similitude fática, pois a modulação de efeitos foi realizada no acórdão paradigma a fim de evitar insegurança jurídica, já que a questão decidida seria aplicada a milhares de processos sobrestados no âmbito do Poder Judiciário, diferentemente do que ocorre em casos de Incidente de Assunção de Competência.
+Assim, sem prejuízo de uma futura análise mais aprofundada do tema, reconsidero a decisão de fls. 494-498, para admitir o processamento dos embargos de divergência em relação ao paradigma da Segunda Turma, no Recurso Especial nº 1.100.150/RS.
+Intime-se embargado para que ofereça resposta aos embargos de divergência.
+P. e I.
+Nesse contexto, ante a força vinculante da decisão a ser proferida no mencionado recurso (arts. 927, III, 947, § 3º, do CPC/2015), e a fim de evitar decisões conflitantes em relação a outros órgãos fracionários deste Tribunal (art. 926 do CPC/2015), entendo ser prudente o sobrestamento do presente recurso até o pronunciamento definitivo da Corte Especial acerca da matéria em epígrafe.
+Ante o exposto, com fulcro nos arts. 932, I, do CPC/2015 e 253, I, do RISTJ, determino o sobrestamento do presente recurso especial até o julgamento definitivo dos EREsp 1.604.412/SC.
+Publique-se. Intimem-se.
