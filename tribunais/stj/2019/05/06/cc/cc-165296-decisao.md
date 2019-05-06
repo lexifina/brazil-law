@@ -1,0 +1,8 @@
+DECISÃO
+Vieram os presentes autos ao Superior Tribunal de Justiça para resolução de conflito de competência estabelecido entre as Justiças estadual e federal, tendo por objeto uma ação de responsabilidade securitária por danos estruturais verificados em imóvel adquirido pelo Sistema Financeiro da Habitação - SFH com cobertura do Fundo de Compensação de Variações Salariais - FCVS, da qual se extrai, como principal ponto controvertido, a existência de interesse da Caixa Econômica Federal na lide.
+Brevemente relatado, decido.
+Estando pendente o julgamento do conflito, sobreveio a notícia de que o Plenário do Supremo Tribunal Federal, ao apreciar o RE n. 827.996/PR, decidiu, em 5/10/2018 e por maioria de votos, reconhecer a repercussão geral da matéria relativa a saber se a Caixa Econômica Federal detém interesse jurídico para ingressar, como parte ou terceira interessada, nas ações envolvendo seguros de mútuo habitacional no âmbito do SFH e, consequentemente, se competiria à Justiça Federal o processamento e julgamento de ações dessa natureza.
+Dado esse fato superveniente, a conclusão que se impõe é a de que este incidente perdeu a sua razão de ser, tendo em vista que a definição do Juízo competente para julgar a demanda advirá do entendimento que vier a ser firmado pela Suprema Corte no julgamento do RE n. 827.996/PR.
+Ante o exposto, julgo prejudicado o presente conflito; sem embargo, determino que a ação que lhe deu origem permaneça sobrestada até final julgamento do RE n. 827.996/PR, aos cuidados do Juízo suscitante, que fica designado para resolver as questões urgentes.
+Dê-se ciência desta decisão aos Juízos suscitante e suscitado.
+Publique-se.
