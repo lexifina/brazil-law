@@ -1,0 +1,17 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio de Janeiro que negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 2 (dois) meses de detenção, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do delito do art. 7º, IX, da Lei n. 8.137/1990.
+A defesa aponta a violação do art. 7º, IX, da Lei 8.137/1990 alegando, em síntese, que não há como subsistir a condenação do recorrente pelo crime contra as relações de consumo, tendo em conta que o laudo pericial não permite concluir que os produtos apreendidos eram impróprios para consumo. Pede a aplicação do sursis da pena.
+Contrarrazões às e-STJ fls. 289/300.
+Manifestação do Ministério Público Federal pelo improvimento do recurso à e-STJ fls. 341/346.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Rio de Janeiro negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 2 (dois) meses de detenção, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do delito do art. 7º, IX, da Lei n. 8.137/1990.
+A defesa alega inicialmente que não há como subsistir a condenação do recorrente pelo crime do art. 7º, IX, da Lei 8.137/1990, tendo em conta que o laudo pericial não permite concluir que os produtos apreendidos eram impróprios para consumo. Sobre o tema o Tribunal de origem assim se pronunciou:
+Observa-se que o exame técnico apontou que os materiais examinados estavam "impregnados com fezes de pombo tornando-os impróprios para o consumo. "
+ ..
+Assim, não restam dúvidas de que no dia Io de maio de 2016, na Feira de Acari, o apelante, de forma livre e consciente, tinha em depósito, para venda, diversos produtos alimentícios em condições impróprias para consumo, eis que a referida área estava impregnada de fezes de pombo. (e-STJ fl. 242)
+A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a conduta tipificada no art. 7º, parágrafo único, inciso IX, da Lei 8.137/1990 - expor à venda produtos impróprios para o consumo - deixa vestígios, razão pela qual a perícia é indispensável para a demonstração da materialidade delitiva, nos termos do art. 158 do Código de Processo Penal.
+No caso em tela, o Tribunal de origem, soberano na apreciação do conjunto fático-probatório dos autos, concluiu, com base no laudo pericial, que os produtos eram impróprios para o consumo. A alteração desse entendimento constitui providência inadmissível em recuso especial ante o óbice do Enunciado n. 7 do STJ.
+Quanto ao sursis da pena, o acórdão recorrido está em harmonia com a jurisprudência desta Corte firma no sentido de que "admitida a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, é incabível o benefício da suspensão condicional da pena, nos termos do art. 77, inciso III, do Código Penal" (ut, AgInt no AREsp n. 1.290.257/RN, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 1/4/2019)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
