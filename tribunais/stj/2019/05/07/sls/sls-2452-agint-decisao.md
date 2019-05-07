@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] interpôs agravo interno contra a decisão de fls. 591-596, que não conheceu do pedido de suspensão por ele formulado.
+No pedido suspensivo, o agravante pleiteou a imediata suspensão da liminar concedida nos autos da Ação Anulatória n. 8000697-45.2017.8.05.0139, que anulara a sessão da Câmara de Vereadores do Município de Jaguarari realizada em 30/11/2017.
+Neste agravo interno, sustenta o agravante que "a decisão objeto do pedido de suspensão de liminar formulado nestes fólios pelo Agravante teve o condão de anular a sessão cameral levada a efeito no dia 30.11.2017, ao passo que a decisão do Dr. [NOME]terminou o retorno do Agravante ao cargo de Prefeito de Jaguarari-BA, sem qualquer reflexo, por mínimo que seja, na decisão liminar anteriormente erigida" (fls. 601-602).
+Alega que, por serem decisões distintas, não se trata de hipótese de "suspensão da suspensão" (fl. 602).
+É o relatório. Decido.
+Preliminarmente, com razão o agravante quando aduz que não se trata de hipótese de "suspensão da suspensão", tendo em vista que a decisão impugnada na presente suspensão de liminar e de sentença é distinta daquela considerada no decisum agravado.
+Constata-se, após reexame dos autos, que o objeto deste pleito suspensivo se refere à decisão liminar proferida nos autos da Ação Anulatória n. 8000697-45.2017.8.05.0139, que anulou a sessão da Câmara de Vereadores do Município de Jaguarari realizada em 30/11/2017, e não à decisão que determinou o afastamento do prefeito eleito, [NOME].
+Por isso, reconsidero a decisão agravada de fls. 591-596 tão somente para reconhecer que a decisão objeto do presente pedido de suspensão é a decisão liminar proferida nos autos da referida ação anulatória.
+No entanto, ainda assim, a hipótese é de não conhecimento.
+Nos termos do art. 25 da Lei n. 8.038/1990, "compete ao Presidente do Superior Tribunal de Justiça, a requerimento do Procurador-Geral da República ou da pessoa jurídica de direito público interessada e para evitar grave lesão à ordem, à saúde, à segurança ou à economia públicas, suspender, em despacho fundamentado, a execução de liminar ou de decisão concessiva de mandado de segurança, proferida, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal" (grifei).
+Assim, como a decisão impugnada no pleito suspensivo - liminar concedida na Ação Anulatória n. 8000697-45.2017.8.05.0139, que anulara a sessão da Câmara de Vereadores do Município de Jaguarari realizada em 30/11/2017 - foi proferida por Juízo de primeiro grau, é inviável o exame pelo STJ, sob pena de usurpação de competência da Presidência do Tribunal de origem.
+Ante o exposto, reconsidero em parte a decisão agravada de fls. 591-596, mantendo incólume o não conhecimento do pedido suspensivo pelos fundamentos expostos acima.
+Publique-se. Intimem-se.
