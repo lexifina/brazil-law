@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] DA CONCEICAO, em face de acórdão do Tribunal de Justiça da Bahia que denegou o writ de origem assim fundamentado (fls. 113/120):
+Inicialmente há de se destacar que a Impetrante não logrou demonstrar que a atuação policial tenha transcorrido com violência física, mediante o emprego de tortura, muito menos a ocorrência de afronta à garantia da inviolabilidade do domicílio, razão pela qual tais alegações não devem ser conhecidas, haja vista a ausência de prova pré-constituída.
+É cediço que o processo de habeas corpus depende da presença de prova pré-constituída do quanto alegado, tendo em vista tratar-se de procedimento célere e de cognição sumária, onde inexiste qualquer dilação probatória. O ônus de instruir o pedido com todos os elementos comprobatórios do quanto deduzido é exclusivo da parte impetrante, sob pena de não conhecimento da ordem.
+Desse modo, não se conhece do writ, neste particular.
+Por outro lado, sabe-se que a prisão preventiva tem, inegavelmente, caráter cautelar, de natureza processual e, por isso, para sua decretação ou manutenção, é fundamental a demonstração do fumus comissi delicti - que se refere à prova da existência do crime e aos indícios suficientes da autoria - e do periculum libertatis - que constitui a necessidade da restrição da liberdade do indivíduo, com fundamento em uma das premissas traçadas pelo art. 312 do Código de Processo Penal.
+Na espécie, quanto à alegada ausência dos requisitos legais da custódia, analisando a documentação acostada à peça inaugural, nota-se que a Impetrante juntou cópia da Decisão proferida no dia 12/10/2018, na qual o M.M. Juiz a quo decretou a custódia cautelar, nos seguintes termos:
+ ..
+Da leitura do atos decisórios, constata-se que o MM. Juiz a quo tratou de explicitar os motivos fáticos e jurídicos pelo quais considera necessária a imposição da medida extrema para garantia da ordem pública.
+A despeito das impugnações vertidas pela Impetrante, colhe-se dos aludidos atos judicantes o apontamento específico e concreto dos elementos conformadores do fumus comissi delicti e do periculum libertatis.
+Com efeito, há indicação expressa da existência de prova da materialidade delitiva, consubstanciada na apreensão de expressiva quantidade de substância ilícita (501,63g de cocaína).
+Além disso, não se pode perder de vista que a qualidade da droga é fator de suma importância para o exame da gravidade in concreto da conduta, não sendo despiciendo salientar que a substância apreendida possui elevado grau de particionamento e alta nocividade, o que demonstra sua potencialidade lesiva.
+Frise-se, ainda, que o Supremo Tribunal Federal considera que a natureza e quantidade da droga apreendida são aptas a evidenciar a gravidade em concreto da conduta, capaz de gerar a necessidade de se assegurar a ordem pública. Neste sentido, confira-se os seguintes precedentes:
+ ..
+Observadas as circunstâncias que permeiam o caso concreto e evidenciada a gravidade da conduta, conclui-se que a Decisão que indeferiu o pedido de revogação da prisão preventiva legitima a prisão cautelar do Paciente - integrando, inclusive, o ato decisório proferido pelo Juiz Plantonista -, uma vez que está fundamentada e indica a presença dos requisitos autorizadores da medida cautelar extrema, previstos no art. 312 do Código de Processo Penal.
+Nesses termos, em que pese o nobre labor defensivo, conclui-se que o entendimento exarado encontra efetivo respaldo empírico, o qual, nesta etapa inicial da persecutio criminis, evidencia a existência de prova da materialidade e indícios de autoria em relação ao Paciente [NOME] [NOME] da Conceição, para correlativa conformação do fumus comissi delicti, revelando-se igualmente presentes indicativos concretos e contrastáveis do periculum libertatis.
+Não é despiciendo consignar que, segundo informação prestada pelo magistrado a quo, o Paciente responde a outra ação penal pelo crime de tráfico de drogas, tombada sob o n. 0013500-26.2008.805.0039.
+Cumpre registrar, por fim, que os crimes atribuídos ao Paciente possuem pena privativa de liberdade máxima superior a 04 (quatro) anos, motivo pelo qual também está preenchido o requisito preconizado no art. 313 do Código de Processo Penal.
+Valioso ressaltar, ainda, que a alegação de que o Paciente possui qualidades pessoais favoráveis não impede a decretação da restrição cautelar da sua liberdade. Aliás, possuir bons antecedentes e outras qualidades pessoais constitui uma obrigação do cidadão, e não uma vantagem que o torna imune às medidas cautelares legalmente previstas. Neste sentido:
+ ..
+Assim, data venia do nobre labor defensivo, tem-se por inviável, no presente momento, a desconstituição do convencimento firmado pelo MM. Juízo a quo acerca da imperiosidade da medida.
+ ..
+Ante o exposto, voto pelo conhecimento parcial do writ e, na parte conhecida, pela parcial concessão da ordem, para, sem invalidar a prisão processual do Paciente, determinar a realização da audiência de custódia, com a maior brevidade possível.
+O paciente foi condenado pela prática do crime tipificado no artigo 33 da Lei 11.343/06.
+A impetrante requer a revogação da prisão preventiva, ao argumento de ausência dos requisitos autorizadores dessa segregação cautelar, bem como de necessidade de se estender os efeitos da decisão que deferiu pedido de liberdade em face de corréu.
+Sustenta ainda diversos fundamentos, quais sejam, a existência de filha menor, suposta prática de tortura pela autoridade policial, nulidades processuais, entre outros.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público foi pelo não conhecimento do writ.
+Na origem, processo n. 0506756-06.2018.8.05.0039, foi prolatada sentença condenatória em 24/3/2019, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 30/4/2019.
+É o relatório.
+DECIDO.
+Quanto aos argumentos de existência de filha menor, suposta prática de tortura pela autoridade policial, nulidades processuais, entre outros, não foram trazidos documentos indispensáveis para a sua análise por esta Corte, de modo que no procedimento do writ a prova deve ser pré-constituída e incontroversa. Resta, portanto, impossibilitado o conhecimento de tais alegações.
+No mais, ainda que fosse o caso de se proceder ao exame desses fundamentos, este demandaria o revolvimento a elementos fático-probatórios, o que é vedado em sede de habeas corpus.
+Posto isso, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos exigidos pelo art. 312 do CPP.
+A decisão de prisão foi disposta nos seguintes termos (fl. 66/68):
+ .. . De inicio, acolho entendimento majoritário do Superior Tribunal de justiça, no sentido de que conversão da prisão em flagrante em preventiva pode ser feita de oficio pelo magistrado tanto na fase inquisitorial quanto na fase processual, não sendo, portanto, nessa hipótese, imprescindível a formulação do pedido pelo órgão ministerial, quando presentes dados concretos que atendam aos pressupostos autorizadores da prisão preventiva, nos termos do art 310, II, do Código de Processo Penal (HC 325469 / RN; RHC 39172 / RS).
+Sendo assim, como é cediço, a prisão cautelar é medida extrema no âmbito criminal e, para tanto, exige a presença dos requisitos do fumus comissi delicti e do periculum libertatis, além da constatação dos critérios objetivos do art. 313, do Código de Processo Penal.
+A esse respeito, o fumus comissi delicti encontra-se lastreado no artigo 312 do CPP, quando provados a existência do crime e os indícios suficientes de autoria  situação adimplida nos presentes autos pelo auto de exibição e apreensão e pelo depoimento das testemunhas (no que toca a indícios suficientes de autoria).
+O periculum libertatis, por sua vez, diz respeito às circunstâncias que emergem dos autos e evidenciam a necessidade da custódia cautelar, ou seja, consiste nas circunstâncias autorizadoras da prisão preventiva. No caso em estudo, presente o fundamento da garantia da ordem pública.
+De fato, a grande quantidade de cocaína apreendida permite esboçar um cenário de traficância como meio de vida, o que amplia a gravidade da conduta em concreto e denota maior periculosidade.
+ ..
+Logo, a proteção da ordem pública, evitando-se a reiteração delitiva e se acautelando o meio social, neste momento, não se mostra suficientemente contemplada por medidas cautelares diversas da prisão.
+Presente, outrossim, o requisito contido no artigo 313, inciso I, do CPP, porque se trata de crime doloso punido com pena privativa de liberdade máxima superior a quatro anos.
+Ante o exposto, CONVERTO O FLAGRANTE EM PRISÃO PREVENTIVA DE [NOME] [NOME] DA CONCEIÇÃO e DIEGO REIS DE [NOME] DE OLIVEIRA com supedâneo nos artigos 312 e 313 do Código de Processo Penal.
+Consta da sentença condenatória a negativa do direito do paciente de recorrer em liberdade sob o seguinte fundamento (fl. 142):
+ .. . Por ocasião do artigo 387, parágrafo 1º, NEGO ao réu [NOME] DA CONCEIÇÃO o direito de recorrer em liberdade, no intuito de assegurar a aplicação da lei penal e garantir a ordem pública, pelos mesmos fundamentos que ensejaram a manutenção de sua custódia provisória até o presente momento, como o risco de reiteração delitiva, eis que já responde a outra ação penal, autos 0013500-26.2008.05.0039.
+Como se vê, consta da decisão de prisão e da sentença condenatória fundamentação concreta, evidenciada na expressiva quantidade de droga, qual seja, 501,63g de cocaína (fl. 135), o que constitui base empírica idônea para determinar a custódia.
+Destacou-se ainda que o paciente já responde a outra ação penal, autos 0013500-26.2008.05.0039, pela prática do crime de tráfico de drogas, que se encontra, inclusive, com audiência de instrução e julgamento designada para 5/11/2019, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 30/4/2019.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Quanto ao pedido de extensão da decisão que concedeu a liberdade provisória ao corréu, deve-se proceder à sua análise de forma detalhada (fls. 45/46):
+Vistos, etc.
+Cuida-se de pedido de liberdade provisória formulado por DIEGO REIS DE [NOME] DE OLIVEIRA, já qualificado, através de advogado.
+O órgão ministerial estadual pugnou pela revogação da prisão preventiva por ausência de materialidade delitiva.
+É o relatório. Decido.
+A restrição à liberdade não imposta por sentença condenatória irrecorrível deve ser infligida somente em casos imprescindíveis, quando houver prova da existência do crime e indícios suficientes da autoria.
+No caso dos autos, verifico que, neste momento processual, não se fazem presentes os requisitos ensejadores da manutenção da prisão do(s) investigado(s) que, em princípio, preenche(m) as condições pessoais a indicar a prescindibilidade da segregação cautelar.
+O Ministério Público, titular da ação penal, menciona em seu judicioso parecer haver dúvidas quanto a autoria delitiva no que tange, especificamente, ao ora requerente.
+Com efeito, o requerente DIEGO foi preso por ter sido encontrado o também flagranteado [NOME], em sua residência embalando drogas.
+Ambos confirmaram que a substância entorpecente, em grande quantidade, pertencia a [NOME], que usava a casa de DIEGO por ser credor deste em razão da venda pretérita de entorpecentes a ele, DIEGO, o qual é usuário.
+Também os agentes policiais responsáveis pela prisão relataram esta configuração fática, o que diferencia absolutamente as condutas do dois flagranteados, não havendo que se falar em extensão de eventual benefício de liberdade provisória concedida a um deles.
+Desta forma, as medidas cautelares diversas da prisão demostram ser razoáveis para manter o(s) investigado(s) ligados ao processo e resguardar a ordem pública.
+Ante o exposto e por tudo mais que dos autos consta, CONCEDO OS BENEFÍCIOS DA LIBERDADE PROVISÓRIA a DIEGO REIS DE [NOME], qualificado(a)(s) nos autos, aplicando-lhe(s), por outro lado, de imediato, com fulcro nos arts. 282, I e § 3º, e 319, I e IV, todos do Código de Processo Penal, as medidas cautelares de proibição de ausentar-se da comarca sem autorização judicial, devendo comunicar em juízo qualquer alteração de endereço e de comparecimento bimestral em juízo, devendo o(a)(s) mesmo(a)(s) ser(em) intimado(a)(s), no mesmo momento em que prestar o compromisso.
+Expeça-se o competente alvará de soltura, se por outro motivo não estiver preso.
+Logo, em virtude de fundada dúvida acerca dos indícios de autoria do corréu, lhe foi concedido o benefício da liberdade provisória, o que não se pode afirmar com relação ao ora recorrente, razão que afasta a incidência do art. 580 do CPP, por ausência de similitude fática.
+Quanto a este ponto, necessário destacar que, em sede de habeas corpus, não há espaço para discussão de materialidade e autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
