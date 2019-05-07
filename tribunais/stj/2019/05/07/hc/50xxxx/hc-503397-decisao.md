@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] e GILBERTO DE ALMEIDA contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 10):
+HABEAS CORPUS. CRIMES CONTRA O PATRIMÔNIO. ROUBOS TRIPLAMENTE MAJORADOS. ORGANIZAÇÃO CRIMINOSA ARMADA. DISPARO DE ARMA DE FOGO. LEGALIDADE E NECESSIDADE DA PRISÃO PREVENTIVA AFIRMADAS EM WRIT ANTERIOR. ALEGAÇÃO DE EXCESSO DE PRAZO. inocorrência. processo que já teve toda a prova oral colhida, estando aguardando eventual requerimento de diligência. instrução processual que deve ser encerrada na sequência. exorbitante complexidade do feito que justifica o tempo de tramitação. doze pessoas denunciadas por crimes gravíssimos. necessidade de expedição de cartas citatórias e de cisão processual. dificuldade na nomeação de defensores dativos. AUSÊNCIA de desídia ou desinteresse da autoridade impetrada na condução do feito. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. SEGREGAÇÃO MANTIDA. ORDEM DENEGADA. UNÂNIME.
+Consta dos autos que os pacientes tiveram as prisões preventivas decretadas em 2/5/2017, sendo denunciados em conjunto com mais 10 pessoas, pela prática do crime de roubo em estabelecimento bancário, tipificado nos arts. 157, § 2º, I, II e V, do Código Penal, de organização criminosa, previsto nos arts. 1º, § 1º e 2º, §§ 2º e 3º, da Lei n. 12.850/13, e de disparo de arma de fogo, regulado no art. 15 da Lei 10.826/03.
+Neste writ, o impetrante alega excesso de prazo na instrução processual a gerar constrangimento ilegal com a manutenção da prisão preventiva dos pacientes por prazo desarrazoado.
+Por isso, liminarmente e no mérito, pleiteia a revogação da prisão preventiva a fim de que os pacientes respondam ao processo em liberdade.
+Indeferida a liminar (fls. 2355-2356) e prestadas as informações (fls.2360-2444), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem (fls. 2447-2451).
+Na origem, no processo n. 0000514-41.2017.8.21.0116, oriundo da Vara Judicial de Planalto/RS, encontra-se na fase instrutória e, em 29/3/2019, o referido Juízo proferiu despacho determinando diligências junto a operadoras de serviço de telefonia, para produção de provas. Em 2/4/2019, houve juntada de documentos e expedição de nota de expediente, conforme informações processuais eletrônicas extraídas do site do Tribunal a quo em 30/4/2019.
+É o relatório.
+DECIDO.
+Conforme análise dos autos e do andamento processual constante do portal eletrônico do Tribunal de origem, constata-se que os pacientes foram presos preventivamente em 2/5/2017, por força de decisão proferida pelo juízo de primeiro grau.
+A denúncia foi recebida em 26/6/2017. Foram expedidos os mandados de citação e apresentadas as defesas prévias. Em seguida, foi realizada a instrução criminal, ainda em curso, com audiências realizadas em 2/8/2018 e 19/12/2018, além de diligências para a produção de provas.
+Atualmente, o processo n. 0000514-41.2017.8.21.0116, oriundo da Vara Judicial de Planalto/RS, encontra-se na fase instrutória e, em 29/3/2019, o referido Juízo proferiu despacho determinando providências junto a operadoras de serviço de telefonia, para dilação probatória.
+Em 2/4/2019, houve juntada de documentos e expedição de nota de expediente, conforme informações processuais eletrônicas extraídas do site do Tribunal a quo em 30/4/2019.
+Nesse contexto, verifica-se a marcha regular de feito de elevada complexidade, com pluralidade de réus - 12 denunciados -, o qual demanda diversas diligências, incluindo a expedição de cartas citatórias e de cisão processual, além da nomeação de defensores dativos. Não se constata, portanto, desídia por parte do Estado.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Dessa forma, no que se refere aos prazos processuais, não se observa qualquer constrangimento ilegal.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
