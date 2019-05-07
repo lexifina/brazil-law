@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO contra decisão unipessoal que conheceu parcialmente o recurso especial e, nessa parte, negou-lhe provimento sob o entendimento de que (i) a decisão proferida pelo STF que reconheceu a repercussão geral nos RE 591.797/SP e 626.307/SP não alcança o presente recurso, (ii) estariam ausentes os vícios do art. 535 do CPC/73, (iii) ausente o prequestionamento dos dispositivos indicados como violados, (iv) incide a Súmula 7/STJ e (v) o dissídio jurisprudencial não teria sido devidamente comprovado.
+Ação: cobrança de expurgos inflacionários na qual o recorrido pleiteia o recebimento da diferença decorrente da aplicação de índices em caderneta de poupança.
+Embargos de declaração: requer a suspensão da ação, em razão da decisão proferida nos autos do RE 632.212, pelo Ministro Gilmar Mendes, do Supremo Tribunal Federal determinando a suspensão dos processos relativos aos expurgos inflacionários.
+RELATADO O PROCESSO, DECIDE-SE.
+O Ministro Gilmar Mendes, do Supremo Tribunal Federal, em decisão proferida em 09/04/2019, no RE 632.212/SP, reconsiderou a decisão monocrática em relação à determinação de suspensão dos processos em fase de execução, liquidação e/ou cumprimento de sentença, no que diz respeito aos expurgos inflacionários referentes ao Plano Econômico Collor II.
+Forte em tais razões, JULGO PREJUDICADOS os embargos de declaração, nos termos do art. 34, XI, do RISTJ.
