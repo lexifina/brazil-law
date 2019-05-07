@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 2.274/2.275, in verbis:
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul que, negou provimento ao recurso de apelação interposto pela acusação, mantendo a sentença absolutória proferida em favor dos recorridos. Eis a ementa do referido julgado (fl.1681):
+"APELAÇÃO-CRIME. CORRUPÇÃO ATIVA E PASSIVA. Comprovação documental da realização de depósito em conta bancária de Oficial de Justiça. Indemonstradas aquiescência ou concordância do servidor em receber quantia para cumprimento de mandado. Ausência de dolo. Falta de prova robusta e consistente do agir delituoso dos réus. Absolvição mantida. Apelo improvido. Unânime"
+Em virtude dessa decisão, o MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL interpôs o presente Recurso Especial (fls. 1694/1696) alegando que o Tribunal a quo, ao manter a absolvição dos recorridos, negou vigência aos artigos 317 e 333 do Código Penal, eis que tais delitos são formais, bastando a mera prática dos verbos-núcleos dos tipos, sendo desnecessário o acordo prévio ou posterior entre os acusados.
+Aduz que "(..) o acórdão ao exigir essa demonstração de dolo e a vença entre as partes contraria a caracterização legal do próprio tipo penal da corrupção dos arts. 317 e 333 do CP."
+O Tribunal a quo negou seguimento ao recurso. Porém, foi determinada a sua subida pelo Exmo. Min. Hamilton Carvalhido (Agravo de Instrumento n.º 1.011.517/RS).
+Ao final, o Parquet opinou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Os réus foram denunciados como incursos nos seguintes dispositivos legais: a) art. 317, caput, do Código Penal e art. 1º, inciso V, da Lei n. 9.613/1998, c/c os arts. 29, caput, e 69, caput, ambos do Código Penal (Itajubá Teixeira Ferreira e [NOME]); b) art. 1º, inciso V, da Lei n. 9.613/1998, c/c o art. 29, caput, do Código Penal ([NOME]); c) art. 333, caput, c/c o art. 29, caput, ambos do Código Penal ([NOME] e [NOME]); d) art. 333, caput, c/c os art. 29, caput, o art. 62, inciso I, todos do Código Penal ([NOME] e [NOME]). Foram, então, absolvidos pela sentença de primeiro grau, entendimento mantido pelo Tribunal de origem.
+Mesmo que se dê provimento ao recurso do Parquet, a prescrição da pretensão punitiva deve ser declarada.
+Considerando que as penas máximas impostas isoladamente pelos crimes imputados aos réus não ultrapassa 12 anos, a pretensão punitiva prescreve em 16 anos, conforme prevê o art. 109, inciso II, do Código Penal, e tal prazo foi ultrapassado entre o dia de recebimento da denúncia, em 18/7/2002 (e-STJ fls. 372/373), e a presente data.
+Ante o exposto, declaro extinta a punibilidade dos réus pela prescrição da pretensão punitiva e julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
