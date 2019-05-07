@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. EXATA COMPREENSÃO DA CONTROVÉRSIA. NÃO OCORRÊNCIA.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI contra decisão que negou seguimento ao recurso especial, fundado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, manejado em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"aPELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. PREVI. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO DE IMÓVEL.
+I. PROVA PERICIAL. A matéria discutida nos autos é eminentemente de direito, mostrando-se desnecessária a realização de prova pericial neste momento. Agravo retido desacolhido.
+II. REVISÃO DO CONTRATO. POSSIBILIDADE. Possível a revisão judicial das cláusulas contratuais que estabeleçam prestações desproporcionais em razão de fatos supervenientes que as tornem excessivamente onerosas, de acordo com o preconizado no artigo 6º, inciso V, do Código de Defesa do Consumidor.
+III. PLANO DE EQUIVALÊNCIA SALARIAL. REAJUSTAMENTO DO ENCARGO MENSAL - PES.
+Pactuação expressa no contrato, razão pela qual o indexador deve ser respeitado.
+IV. TAXA REFERENCIAL (TR). Contratada a correção do saldo devedor pelos mesmos índices de atualização das cadernetas de poupança, tais devem ser observados no curso do pacto, cada um a seu tempo legal. Assim, legítima é a adoção da TR, a contar da vigência da Lei nº 8.177/91. Precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+V. TABELA PRICE. Conforme entendimento atual do Colendo 9º Grupo Civil desta Corte, possível a aplicação da Tabela Price no cálculo das parcelas do contrato de financiamento habitacional, porquanto ausente ilegalidade ou abusividade no emprego deste sistema de amortização.
+VI. CAPITALIZAÇÃO. Em regra, é vedada a capitalização de juros inferior a um ano, ainda que expressamente convencionada, conforme art. 4 do Decreto 22626/1933, sendo permitida apenas a capitalização anual. Como exceção, a legislação sobre cédulas de crédito rural, comercial e industrial, admite o pacto de capitalização de juros mensal, consoante Súmula 93, do STJ. Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade mensal, a partir de 31.03.2000, conforme artigo 5 da MP n.º 2.170-36/2001, desde que expressamente contratada, ou que a taxa anual de juros remuneratórios informada no contrato seja superior ao duodécuplo da mensal, consoante entendimento do STJ. Assim, considerando a data da contratação (1990), deve ser afastada a capitalização mensal.
+VII. MOMENTO DA AMORTIZAÇÃO. O critério de correção do saldo devedor, aplicando-se a correção monetária e juros, para, após, abater a prestação paga não revela qualquer ilegalidade, tampouco viola a comutatividade das obrigações contratuais.
+VIII. CET. Verificação de abusividade na aplicação do Coeficiente de Equalização de Taxas - CET, por sobrepor taxas com a mesma finalidade.
+IX. FUNDO DE QUITAÇÃO POR MORTE. Possível a cobrança. Abusividade não demonstrada.
+X. REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO. Admitida a compensação de valores e a repetição de indébito, na forma simples.
+XI. CADASTROS NEGATIVOS. Viável o cadastramento do nome do devedor em órgão de inadimplentes durante o curso da revisional.
+XII. Redimensionamento da sucumbência ante o novo alcance da decisão.
+APELO PARCIALMENTE PROVIDO. UNÂNIME." (e-STJ fl. 884/885, grifo no original).
+Opostos embargos de declaração por [NOME] ROSA, esses foram acolhidos parcialmente, com efeito infringente, "para determinar que a ré se abstenha de inscrever o nome da autora em rol de inadimplentes, até efetiva apuração do quantum realmente devido" (e-STJ fl. 925).
+Os embargos de declaração opostos por PREVI foram rejeitados (e-STJ fl. 928).
+Em sede de recurso especial, diz haver violação a dispositivos da Lei Complementar n.º 108/2001, Lei Complementar n.º 109/2001, Lei n.º 8.984/1995, bem como ao artigo 114 do Código Civil/2002, além dos artigos 20 e 535, I e II, do Código de Processo Civil/1973.
+Alega que, a teor dos artigos 18, § 3.º, 19 e 31, § 1.º, da Lei Complementar n.º 109, "a PREVI é uma Entidade de Previdência Complementar, instituída em associação civil sem fins lucrativos,  ..  então não há distribuição do patrimônio dessas entidades, a titulo de lucro ou a título de participação de resultado, sendo ele integralmente voltado para o fim fundacional" (e-STJ fl. 1.128).
+Afirma que o contrato deve ser cumprido pela parte recorrida na forma contratada, devendo a parte recorrida restituir à recorrente o capital disponibilizado, pois anuiu com as cláusulas contratadas, não cabendo a revisão contratual por meio de "alegações meramente subjetivas" (e-STJ fl. 1.129).
+Por fim, aponta dissídio jurisprudencial.
+Contrarrazões de [NOME] OLIVEIRA DA ROSA às e-STJ fls. 1.146/1.158.
+Em suas razões de agravo, a instituição agravante infirmou especificamente os fundamentos da decisão que inadmitiu o seu recurso especial (e-STJ fls. 1.206/1.215).
+Recebidos os autos neste Superior Tribunal de Justiça, determinei a sua devolução à origem para que o recurso permanecesse suspenso até o pronunciamento definitivo desta Corte no REsp n.º 951.894/DF, vinculado ao Tema n.º 909/STJ, nos termos do artigo 543-C, caput e §.º, do Código de Processo Civil/1973 (e-STJ fls. 1.233/1.234).
+Entretanto, houve cancelamento do referido Tema, sendo assim, a Corte local determinou a remessa do feito a este Superior Tribunal Superior, mantendo, na íntegra, a decisão de admissibilidade anteriormente proferida (e-STJ fls. 1.294/1.295).
+Os autos retornaram-me conclusos para julgamento (cf. e-STJ fl. 1.300).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso especial será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, o presente recurso não merece guarida haja vista a deficiência de sua fundamentação a atrair o óbice da Súmula 284/STF.
+A PREVI alegou que, a teor dos artigos 18, § 3.º, 19 e 31, § 1.º, da Lei Complementar n.º 109, "é uma Entidade de Previdência Complementar, instituída em associação civil sem fins lucrativos,  ..  então não há distribuição do patrimônio dessas entidades, a titulo de lucro ou a título de participação de resultado, sendo ele integralmente voltado para o fim fundacional" (e-STJ fl. 1.128).
+Assim, acerca dos artigos 18, § 3.º, 19 e 31, § 1.º, da LC n.º 109, não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, pois a entidade recorrente limita-se a ventilar dispositivos da referida Lei Complementar, deixando de informar de que modo a questão posta seria relevante para o deslinde da controvérsia, incidindo, na espécie, o óbice da Súmula 284 do STF.
+Noutro vértice, no tocante à Lei Complementar n.º 108/2001 e à Lei n.º 8.984/1995, bem como ao artigo 114 do Código Civil/2002, além dos artigos 20 e 535, I e II, do Código de Processo Civil/1973, o recurso especial igualmente não reúne condições de admissibilidade, pois o ente recorrente deixou de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, ademais nem mesmo indicou os dispositivos da Lei Complementar n.º 108/2001 e da Lei n.º 8.984/1995 tidos por violados, incidindo, assim, o óbice da Súmula 284/STF.
+A instituição afirmou, ainda, que o contrato deve ser cumprido pela parte recorrida na forma contratada, devendo a parte recorrida restituir à recorrente o capital disponibilizado, pois anuiu com as cláusulas contratadas, não cabendo a revisão contratual por meio de "alegações meramente subjetivas" (e-STJ fl. 1.129).
+No ponto, não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado a recorrente de apontar os dispositivos de lei federal tidos por violado, incidindo, da mesma maneira, o óbice da Súmula 284 do STF.
+Por fim, ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea "a" do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente também não apontou dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+Ademais, o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/1973, e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+Isso posto, o recuso especial não encontra amparo.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do Regimento Interno deste STJ, conheço do agravo para não conhecer o recurso especial.
+Intimem-se.
