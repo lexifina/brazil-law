@@ -1,0 +1,42 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. MANUTENÇÃO NO PLANO DE SAÚDE DE EX-EMPREGADO. VIOLAÇÃO DO ART. 1.022, I, DO NCPC. NÃO CONFIGURADA. MANUTENÇÃO DE EMPREGADO. MESMAS CONDIÇÕES DE COBERTURA ASSISTENCIAL. ART. 31 DA LEI 9656/98. PRECEDENTES. SÚMULA 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+
+DECISÃO
+ELIAS DE [NOME] e MARIA [NOME] (ELIAS e MARIA) promoveu ação de obrigação de fazer com pedido de concessão de antecipação de tutela contra NOTRE DAME INTERMEDICA SAÚDE S.A (NOTRE DAME) julgada procedente.
+NOTRE DAME apelou. O Tribunal a quo negou provimento ao recurso, nos seguintes termos:
+Plano de saúde - Obrigação de fazer - aplicação do Código de defesa do consumidor - sentença de procedência para incluir o autor e seus dependentes como beneficiários do contrato de plano de saúde celebrado pela ex-empregadora com a ré, por prazo indeterminado, arcando com o pagamento integral do prêmio - insurgência da ré, sob as alegações de que não há sequer a devida demonstração do ocorrido; não há esclarecimentos sobre os fatos alegados; ausência de documento que comprove sua recusa e que o pedido de inclusão no plano de saúde deve ser feito pela sua ex-empregadora - requerente que preenche os requisitos legais previstos no artigo 31, da Lei nº 9656/98 e já havia sido mantido no plano de saúde - sentença mantida - recurso desprovido (e-STJ, fl. 201).
+Os embargos de declaração opostos pela NOTRE DAME foram rejeitados (e-STJ, fls. 229/231).
+Irresignada, NOTRE DAME interpôs recurso especial fundado no art. 105, III, a, da CF, alegou violação ao art. 1.022, I, do NCPC, sustentou (1) que o tribunal foi omisso pois não se manifestou sobre o fato de que cabe apenas a empregadora pleitear a solicitação de inclusão no plano de saúde o ex-empregado. Assim, não caberia a NOTRE DAME essa inclusão e os seus atos com relação a essa medida foram totalmente válidos e lícitos; e (2) ofensa aos arts. 186, 187, e 927 do CC/02, porque não praticou nenhum ato ilícito e nem haveria nexo de causalidade com qualquer prejuízo sofrido ao não inserir os recorridos em seu quadro de segurado.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de Justiça do Estado do São Paulo inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta não foi apresentada (e-STJ, fl. 296).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada omissão (violação do art. 1.022, I, do NCPC)
+NOTRE DAME sustentou que o tribunal foi omisso pois não se manifestou sobre o fato de que cabe apenas a empregadora pleitear a solicitação de inclusão no plano de saúde o ex-empregado. Assim, não caberia a NOTRE DAME essa inclusão e os seus atos com relação a essa medida foram totalmente válidos e lícitos. Alegou, que foram violados os arts. 186, 187, e 927 do CC/02.
+O argumento de que o acórdão recorrido teria incorrido em omissão, não procede.
+No julgamento da apelação o Tribunal de origem consignou expressamente que:
+Quanto à alegação de que cabe à ex-empregadora solicitar a inclusão dos autores no plano de saúde, pois o contrato foi firmado com ela, tem-se que não pode ser acolhida, pois não se trata de incorporar ou incluir os autores ao novo contrato e sim, mantê-los como beneficiários por preenchidos os requisitos legais para tanto e por já serem beneficiários do extinto plano (e-STJ, fls. 204/205).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, quais sejam, omissão, contradição ou obscuridade, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pela Corte local.
+Nesse sentido, veja-se o precedente abaixo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 25/8/2017).
+ Afasta-se, portanto, a alegada violação dos arts. 1.022, I, do NCPC, pois houve manifestação sobre o tema e a decisão está devidamente fundamentada pelo Tribunal local, só que de forma contrária a pretensão da NOTRE DAME.
+(2) Da alegada violação aos arts. 186, 187, e 927 do CC/02.
+NOTRE DAME sustentou que não praticou nenhum ato ilícito e nem haveria nexo de causalidade com qualquer prejuízo sofrido ao não inserir os recorridos em seu quadro de segurado.
+O Superior Tribunal de Justiça firmou o entendimento de que é assegurado ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral (arts. 30 e 31 da Lei nº 9.656/1998) (REsp 1.594.346/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016).
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ORIGEM EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME DE MATÉRIA CONTRATUAL E FÁTICA. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A decisão de origem encontra-se em consonância com a jurisprudência desta Corte, no sentido de que "É garantido ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral (arts. 30 e 31 da Lei n. 9.656/1998). Os valores de contribuição, todavia, poderão variar conforme as alterações promovidas no plano paradigma, sempre em paridade com os que a ex-empregadora tiver que custear. Precedente". (REsp 1479420/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1.9.2015, DJe 11.9.2015, e também, REsp 531.370/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7.8.2012, DJe 6.9.2012). Incide, portanto, o óbice da Súmula 83/STJ.
+2. Inviável o recurso especial cuja análise das razões impõe reexame da matéria contratual e fática da lide, nos termos da vedação imposta pelos enunciados n. 5 e 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 826.000/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/6/2016, DJe 16/6/2016).
+Estando o acórdão recorrido de acordo com a jurisprudência dominante do STJ, aplicável, no caso concreto, a Súmula 568 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo, para NEGAR PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
