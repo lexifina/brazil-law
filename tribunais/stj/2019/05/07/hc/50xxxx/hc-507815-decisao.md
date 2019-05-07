@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando como autoridade coatora Desembargador do Tribunal Regional Federal da 2ª Região, no julgamento da Apelação n. 0011846-34.2012.4.02.5001.
+Noticiam os autos que o recorrente foi condenado à pena de 4 (quatro) anos e 5 (cinco) meses de reclusão, a ser cumprida no regime inicial semiaberto, mais pagamento de 338 (trezentos e trinta e oito) dias-multa, como incurso no artigo 1º, incisos I e II, da Lei 8.137/1990, na forma do artigo 71 do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação, que se encontra pendente de julgamento pela Corte de origem.
+A defesa requereu ao Desembargador Relator a suspensão do processo, pleito ainda não analisado.
+Sustentam os impetrantes que a ação penal em tela deveria ser suspensa, nos termos do artigo 93 do Código de Processo Penal, uma vez que a materialidade do delito imputado ao réu teria sido comprovada por meio da aplicação da presunção estabelecida no artigo 42 da Lei 9.430/1996, dispositivo legal cuja constitucionalidade encontra-se em discussão em recurso extraordinário com repercussão geral reconhecida pelo Supremo Tribunal Federal.
+Aduzem que embora a existência de questão prejudicial tenha sido suscitada pela defesa, que requereu a suspensão do processo, tal pedido não teria sido examinado pelo Relator, que vem praticando atos de normal impulsão processual, demonstrando a sua rejeição tácita.
+Requerem, liminarmente, a imediata suspensão do curso da ação, e, no mérito, pugnam pela concessão da ordem para que se suspenda a realização de quaisquer atos processuais até a apreciação definitiva do RE 885.649/RJ pelo Supremo Tribunal Federal.
+É o relatório.
+Compulsando os autos, verifica-se que o pedido de suspensão do processo foi formulado em fevereiro de 2019, estando o feito atualmente com vista ao Ministério Público Federal para manifestação, inclusive no que se refere a este requerimento, não havendo que se falar, assim, em recusa ou omissão da autoridade impetrada, e, consequentemente, em ilegalidade passível de ser sanada na via eleita.
+Quanto ao ponto, é imperioso frisar que os atos de impulsionamento questionados pela defesa referem-se, justamente, à remessa da ação ao Ministério Público Federal, o que reforça a ausência de ato coator passível de ser analisado por este Superior Tribunal de Justiça.
+Ademais, sabe-se que, nas hipóteses previstas no artigo 93 do Código de Processo Penal, cumpre à autoridade judicial responsável pelo processo analisar a necessidade ou não de suspensão da ação penal, tratando-se, assim, de faculdade a ele conferida.
+Sobre o assunto, Guilherme de Souza Nucci explica que, "embora deva sempre o juiz criminal ter sensibilidade para suspender o curso do processo, evitando, com isso, a prolação de decisões contraditórias, não é obrigado a fazê-lo", pois, "eventualmente, acreditando dispor de provas suficientes para julgar o caso, pode determinar o prosseguimento da ação penal, alcançando uma decisão de mérito".
+A jurisprudência deste Superior Tribunal de Justiça não destoa de tal entendimento, a exemplo do seguinte julgado:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. CRIME TRIBUTÁRIO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO. AJUIZAMENTO DE AÇÃO ANULATÓRIA. INDEPENDÊNCIA DAS ESFERAS. 2. PEDIDO DE SUSPENSÃO DA AÇÃO PENAL. ART. 93 DO CPP. FACULDADE DO MAGISTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, "havendo lançamento definitivo, a propositura de ação cível discutindo a exigibilidade do crédito tributário não obsta o prosseguimento da ação penal que apura a ocorrência de crime contra a ordem tributária, tendo em vista a independência das esferas cível e penal". (AgRg no REsp 1390734/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 13/3/2018, DJe 21/3/2018).
+2. Não se pode descurar, outrossim, que a suspensão da ação penal, conforme autoriza o art. 93 do Código de Processo Penal, é faculdade do magistrado, diante das particularidades do caso concreto.
+Ademais, esta Corte tem considerado particularidade apta a ensejar a suspensão do processo a efetiva desconstituição do crédito tributário por sentença judicial, mesmo com recurso pendente de julgamento, o que não é o caso dos autos.
+3. Agravo regimental a que se nega provimento.
+(AgInt no HC 480.789/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/03/2019, DJe 08/04/2019)
+Na espécie, como visto, ainda não houve manifestação do Tribunal de origem sobre a necessidade ou não de suspensão do processo, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
