@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO COM BASE NA SÚMULA 83/STJ E AUSÊNCIA DE INTERESSE RECURSAL. ALEGAÇÕES GENÉRICAS DE INCONFORMISMO. AGRAVO QUE NÃO TRAZ PRECEDENTE ATUAL EM SENTIDO DIVERSO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL, com fulcro na alínea a do art. 105, III da Constituição Federal, contra acórdão de lavra do TRF da 1a. Região, assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. MANDADO DE SEGURANÇA COLETIVO. LEGITIMIDADE. PRESCRIÇÃO.
+1. Cuida-se de execução de título judicial que, em sede de mandado de segurança coletivo, concedeu parcialmente a segurança, determinando às autoridades coatoras que apenas façam incidir o imposto de renda sobre as quantias a serem resgatadas pelos associados da impetrante junto à FUNCEF, cuja formação tenha se dado com as contribuições efetuadas antes de 1989 e posteriores a 01 de janeiro de 1996.
+2. O Superior Tribunal de Justiça ao julgar como representativo da controvérsia o REsp 1.243.887/PR, sob a relatoria do Min. Luis Felipe Salomão, firmou entendimento de que a eficácia da sentença proferida em processo coletivo não se limita geograficamente ao âmbito da competência jurisdicional do seu prolator e, ainda, que a sentença proferida no Mandado de Segurança coletivo não está restrita aos limites da área de atribuição da autoridade coatora.
+3. O Superior Tribunal de Justiça decidiu que o comando do art. 2º - A da Lei n. 9.494, de 10 de setembro de 1997, incluído pela MP 2.180-35/2001, somente se aplica aos mandados de segurança impetrados após a vigência da MPV, o que não é o caso dos autos porque o mandamus em execução foi proposto em 1996.
+4. Havendo sentença com trânsito em julgado, que defere restituição de indébito tributário, a partir da intimação das partes para requerer o que de direito, o destinatário do crédito tem 5 anos para executar a sentença, sob pena de prescrição da pretensão executória.
+5. No caso a execução foi protocolada antes de decorridos cinco anos da intimação dos embargados para requerer o que de direito, após o trânsito em julgado do título em execução.
+6. Apelação provida para, anulando a sentença, determinar o retorno dos autos à Vara de Origem para receber os embargos do devedor e processar a execução, oportunizando às partes o contraditório quanto aos cálculos apresentados (fls. 305).
+2. Aponta ofensa ao art. 535 do Código Buzaid. Afirma, outrossim, violação dos arts. 1o. do Decreto 20.910/1932 e 467, 468, 471, 472, 473, 474 e 475-G do Código Buzaid por suposto desrespeito à coisa julgado quanto ao marco da prescrição.
+3. Sustenta ainda contrariedade aos arts. 2o.-A, parág. único da Lei 9.494/1997 e 264, 467, 468, 471, 472, 473, 474 e 475-G do Código Buzaid em razão da não filiação ao tempo do processo de conhecimento da parte ora recorrida.
+4. É o relatório.
+5. O Tribunal de origem negou seguimento ao Recurso Especial aviado, sob os seguintes fundamentos: (i) ausência de ofensa ao art. 535 do Código Buzaid; (ii) ausência de sucumbência/interesse recursal; e (iii) incidência da Súmula 83/STJ.
+6. No entanto, a parte agravante não impugnou de forma específica os últimos dois fundamentos.
+7. Como é sabido, o Agravo tem por escopo desconstituir a decisão denegatória de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos, autônomos ou não, nela lançados, com o fito de demonstrar o seu desacerto, sob pena de incorrer na Súmula 182/STJ.
+8. Não cumpre o dever de dialeticidade a parte recorrente que aduz alegações genéricas de inconformismo sem demonstrar de forma clara e objetiva a incorreção da decisão impugnada.
+9. Quanto à suposta falta de interesse recursal, a parte agravante nada dispôs em sua insurgência.
+10. Por sua vez, inadmitido em razão da dissonância da pretensão com jurisprudência desta Corte, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles (AgInt no AREsp. 937.859/MS, Rel. Min. OG FERNANDES, DJe 21.11.2018). No mesmo sentido: AgRg no AREsp. 610.496/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 9.3.2016.
+11. A parte agravante não trouxe à baila precedentes atuais aptos a infirmar a decisão impugnada, de modo que, sem tal providência, vulnerado o princípio da dialeticidade. Incidência da Súmula 182/STJ.
+12. Ante o exposto, não se conhece do Agravo em Recurso Especial da FAZENDA NACIONAL.
+13. Publique-se.
+14. Intimações necessárias.
