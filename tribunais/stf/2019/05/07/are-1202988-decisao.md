@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à procedência parcial do pedido de concessão de seguro-defeso. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 2º, e 5º, cabeça e inciso II, da Constituição Federal. Discorre sobre a ilegalidade do deferimento do benefício. Diz contrariados os princípios da separação dos Poderes e da isonomia.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    PREVIDENCIÁRIO. SEGURO DEFESO. SUSPENSÃO E RESTABELECIMENTO. OFENSA À SEGURANÇA JURÍDICA. PERÍODO DE PARALISAÇÃO DA PESCA INFERIOR A 30 (TRINTA) DIAS. CONCESSÃO DO BENEFÍCIO COMO FORMA DE ASSEGURAR A DIGNIDADE DA PESSOA HUMANDA E A ISONOMIA EM SEU ASPECTO MATERIAL. REMESSA NECESSÁRIA TIDA POR INTERPOSTA E APELAÇÃO IMPROVIDAS. MANUTENÇÃO DA SENTENÇA.
+    1. Remessa necessária e apelação interposta pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS em face da sentença que julgou parcialmente procedente o pedido formulado pelo autor, reconhecendo devido seguro desemprego aos pescadores artesanais, no valor de um salário-mínimo, pelo período compreendido entre 10/12/2015 e 07/01/2016, equivalente a 28 (vinte e oito) dias de defeso, porém ampliando o referido prazo para 30 (trinta) dias.
+    2. Razões de apelação fundadas no entendimento de que o benefício somente é devido para períodos superiores a 30 dias de proibição da pesca, sendo indevida a flexibilização, pelo Poder Judiciário, de requisito previsto na legislação de regência, sob pena de violação aos princípios da separação dos poderes, da legalidade e da isonomia.
+    3. Período de defeso suspenso e restabelecido diversas vezes.
+    4. Sentença de 1º Grau que, de forma prudente, destacou a evidente insegurança jurídica suportada pelos pescadores artesanais da Paraíba ao longo do período de defeso referente a 2015/2016, pautando-se na razoabilidade para solucionar a controvérsia.
+    4. Concessão do seguro desemprego aos pescadores artesanais, no valor de um salário-mínimo, pelo período equivalente a 28 (vinte e oito) dias de defeso compreendido entre 10/12/2015 e 07/01/2016, como forma de privilegiar a dignidade da pessoa humana, um dos fundamentos da República Federativa do Brasil (art. 1º, III da CF/88).
+    5. O art. 1º, § 2º da Resolução nº 759/2016 do CODEFAT deve ceder espaço à segurança jurídica e à dignidade da pessoa humana, valores constitucionais que devem nortear a solução do presente caso.
+    6. A concessão do seguro defeso na situação delineada nos autos prestigia o princípio da isonomia em seu aspecto material. Conforme demonstrado, a oscilação da proibição de pesca no período 2015/2016 foi fator de desigualdade que incidiu sobre os pescadores artesanais do Estado da Paraíba, o que justifica o presente tratamento jurídico autorizador do seguro defeso mesmo que a proibição tenha alcançado apenas 28 (vinte e oito) dias.
+    7. Remessa necessária, tida por interposta, e apelação improvidas.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 821.296/PE, da relatoria do ministro Roberto Barroso, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à verificação dos requisitos legais para a concessão de benefício previdenciário.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 6% do valor da causa, nos termos do artigo 85, § 11 do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 7 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
