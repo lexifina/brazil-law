@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER BRASIL S/A contra acórdão exarado pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP).
+Cuida-se, na origem, de agravo de instrumento manejado por BANCO SANTANDER BRASIL S/A contra decisão exarada nos autos da ação consignatória manejada por CERRO CORÁ EMPREENDIMENTOS IMOBILIÁRIOS S/C LTDA.
+O eg. TJ-SP negou provimento ao referido agravo, nos termos do v. acórdão, assim ementado (fl. 1.079):
+"Agravo de instrumento. Depósito judicial.
+Diferenças pleiteadas. Expurgos inflacionários decorrentes dos planos econômicos do Governo Federal - Plano Collor I e II. Incidência dos índices do IPC, do IBGE, conforme orientação jurisprudencial. Juros moratórios aplicados conforme Súmula 54 do STJ. A prescrição dos juros remuneratórios é vintenária, já que se discute o próprio crédito e não seus acessórios. Agravo desprovido."
+Inconformado, BANCO SANTANDER BRASIL S/A manejou o presente recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação dos arts. 2º, 128, 219, 460, 515 e 535 do CPC/73; do art. 6º da LICC; dos arts. 178 e 1.538, ambos do CC/1916; e dos arts. 3º, 7º e 12 da Lei n.º 8.177/91.
+Contrarrazões às fls. 1.166/1.188.
+É o relatório. Decido.
+No apelo nobre que pretende trânsito, sustenta o recorrente a violação do art. 535 do CPC/73, ao argumento de que o eg. Tribunal estadual não teria se manifestado sobre os seguintes pontos: (i) legalidade do procedimento seguido pela instituição financeira ao cumprir os atos normativos emanados pela Corregedoria de Justiça e a legislação vigente à época; (ii) impossibilidade de acumular juros remuneratórios e juros moratórios; (iii) descabimento de capitalização de juros; e (iv) incidência do Plano Econômico quando fixou a remuneração dos depósitos judiciais.
+A irresignação, nesse ponto, merece parcial acolhimento.
+Com efeito, da leitura minudente dos autos, verifica-se que o recorrente, tanto no agravo de instrumento (fls. 2/25) quanto nos embargos de declaração (fls. 1.085/1.091), suscitou a matéria atinente à impossibilidade de cumular juros remuneratórios e moratórios, bem como invocou o descabimento de capitalização de juros nos depósitos judiciais. Para fins demonstrativos, colacionam-se os seguintes trechos da petição de agravo de instrumento:
+ "V. 9 -Capitalização dos juros
+ Além do quanto já mencionado, também se verifica completamente indevida a capitalização mensal de juros remuneratórios, uma vez que a capitalização viola o ARTIGO 40 DA LEI DE USURA (Decreto 22.626/33).
+ A capitalização dos juros é vedada no sistema financeiro nacional pela Lei de Usura, sendo autorizada somente dos nos casos em que haja expressa autorização legal, hipótese diversa da dos autos, o que deverá ser reconhecido por esse E. Tribunal, afastando-se a capitalização dos juros em caso de manutenção da condenação, o que não se acredita, isso na remotíssima hipótese de não se acolher a prescrição destes.
+ Diante do acima exposto, caso venha a ser reconhecido o direito da Agravada, o que não se espera, o Banco requer que esse E. Tribunal se digne a determinar o afastamento da capitalização de tais juros.
+ V.9. DA IMPOSSIBILIDADE DE APLICAÇÃO DE JUROS MORATÓRIOS E REMUNERATÓRIOS
+ Imperioso ainda destacar que é defeso no ordenamento jurídico, sob pena de majorar indevidamente a correta correção dos valores, a cumulação dos juros moratórios e os remuneratórios, razão pela qual deve ser reformada a decisão recorrida nesse tópico, pela ofensa que tal cumulação acarreta aos arts. 591 do CC e 4º da Lei de Usura". (fls. 23/24)
+O eg. TJ-SP, contudo, não analisou os olvidou-se de tratar sobre os referidos temas, conforme transcrição a seguir (fls. 1.081):
+ "A correção monetária dos depósitos judiciais difere da aplicável aos saldos remanescentes nas cadernetas de poupança, após o bloqueio previsto na Medida Provisória 168/1990, devendo haver a incidência, no caso, dos índices do IPC, do IBGE, conforme orientação jurisprudencial:
+(..)
+ Assim, aplica-se o IPC como índice de atualização dos depósitos judiciais por ser o indicador que melhor refletiu a inflação no período em debate.
+ Os juros moratórios incidem a partir do evento danoso, in casu, a data da injusta recusa em restituir integralmente o valor depositado, conforme inteligência da súmula 54 do STJ.
+Por último, não há que se falar em prescrição dos juros remuneratórios, pois esta é vintenária, já que se discute o próprio crédito e não seus acessórios".
+Instado a se manifestar através dos embargos de declaração de fls. 1.085/1.091 sobre a capitalização de juros e impossibilidade de cumular juros remuneratórios com moratórios, o eg. Tribunal estadual quedou-se inerte novamente, nos termos do v. acórdão (fls. 1.093-1.099) que rejeitou os aclaratórios.
+No entanto, estes temas são de extrema importância para o desate da lide, para a completa prestação jurisdicional. Desse modo, verifica-se que, não obstante devidamente provocado, o colendo Tribunal de origem deixou de esclarecer sobre questões essenciais ao deslinde da controvérsia, e, especialmente, questões de natureza fática relevantes e que, na via estreita do recurso especial, não podem ser analisadas, ente o óbice da Súmula n. 7 do STJ.
+Dessa forma, está caracterizada a alegada ofensa do art. 535 do Código de Processo Civil de 1973, em razão da omissão da colenda Corte de origem em esclarecer as questões fáticas suscitadas.
+Por seu turno, reconhecida a ofensa ao art. 535 do CPC/73, ficam prejudicadas as demais questões suscitadas no apelo nobre.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI-STJ, dando parcial provimento ao recurso especial para, reconhecendo a ofensa ao art. 535 do CPC/73, anular o v. acórdão proferido em sede de embargos declaratórios e determinar o retorno dos autos à eg. Instância de origem para novo julgamento dos aclaratórios, sanando as omissões ora reconhecidas, como entender de direito.
+Publique-se.
