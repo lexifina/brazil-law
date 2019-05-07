@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra decisão do relator do Tribunal de Justiça do Rio de Janeiro (HC n. 0003376-28.2019.8.19.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 21/1/2019 por ter supostamente praticado o delito tipificado no 155, do Código Penal (furto). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, tendo o desembargador relator negado seguimento ao writ, nos termos da decisão de fls. 42/43.
+No presente mandamus, inicialmente, refuta a alegação de supressão de instância, indicando que desde o início foi comprovada existência de pedido prévio de liberdade junto ao juízo de primeiro grau.
+Aponta a defesa a ilegalidade da prisão em razão da atipicidade material da conduta, em razão da insignificância do bem furtado - 8 metros de cabos telefônicos, que foram restituídos. Afirma que a reincidência do paciente não pode servir de óbice ao reconhecimento da insignificância da conduta.
+Requer, assim, em liminar, o relaxamento da prisão e, no mérito, o trancamento da ação penal.
+Liminar deferida às fls. 46/48.
+Informações prestadas às fls. 57/74.
+O Ministério Público Federal manifestou-se pela denegação da ordem, conforme parecer de fls. 76/80.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+No caso dos autos, o Tribunal de origem afirmou sua incompetência para a análise do pedido de liberdade provisória lá formulado por entender que não havia pedido no mesmo sentido decidido pelo Juízo de primeiro grau.
+Contudo, a conversão do flagrante em prisão preventiva no âmbito da audiência de custódia faz com que a autoridade coatora seja o próprio juiz de primeiro grau, atraindo a competência para julgamento do habeas corpus para o Tribunal de segunda instância.
+Às fls. 46/48 deferi a liminar no seguinte sentido:
+No caso, ao menos em juízo perfunctório, é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Vê-se que o decisum combatido não conheceu da impetração por supressão de instância, contudo, o ato coator que a defesa visa coibir por meio do writ, consubstancia-se na conversão do flagrante em preventiva em decisão proferida pelo Juiz de primeiro grau. Não se mostra necessário haver pedido de liberdade provisória perante o novo Juízo da causa para ensejar a análise de eventual constrangimento ilegal pelo Colegiado a quo.
+Assim, ao meu ver, é imperiosa a análise da impetração originária pelo Tribunal de origem. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. DECISÃO QUE NÃO CONHECEU DA ALEGAÇÃO POR INEXISTÊNCIA DE PEDIDO DE LIBERDADE PROVISÓRIA AO JUÍZO SINGULAR. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA DETERMINAR A ANÁLISE DO MÉRITO PELO TRIBUNAL A QUO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- Não há como conhecer da alegação de ausência de fundamentação idônea do decreto prisional, pois o mérito do pedido aqui deduzido não foi apreciado na decisão atacada, circunstância que impede a manifestação desta Corte Superior sobre o tema, sob pena de supressão de instância.
+- O ato coator que ensejou a impetração originária está consubstanciado na decisão que decretou a prisão preventiva do paciente, não havendo, portanto, que se falar em supressão de instância no Tribunal a quo.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Tribunal de Justiça do Estado de Minas Gerais analise o mérito da impetração (HC 289.814/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 17/12/2014)
+Por tais razões, defiro o pedido de liminar apenas para determinar que o Tribunal de Justiça do Estado do Rio de Janeiro aprecie o mérito do mandamus lá impetrado acerca dos fundamentos do decreto prisional.
+Após a análise do mérito do habeas corpus originário pelo Tribunal de origem, a eventual concessão da ordem acarretará na prejudicialidade do pedido, enquanto as razões adotas para eventual denegação da ordem deverão ser especificamente impugnadas por meio próprio. Assim, de qualquer modo, restará extinto o presente feito.
+Ante o exposto, com fundamento no art. 34,inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração. Contudo, concedo a ordem de habeas corpus de ofício para, confirmando a liminar deferida às fls. 46/48, determinar tão somente que o Tribunal de Justiça do Estado do Rio de Janeiro aprecie o mérito do mandamus lá impetrado acerca dos fundamentos do decreto prisional.
+Publique-se.
