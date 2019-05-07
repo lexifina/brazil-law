@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO INDIVIDUAL. SENTENÇA COLETIVA. DIFERENÇAS DE CORREÇÃO MONETÁRIA. CÉDULA DE CRÉDITO RURAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+DAVID LEONARDI E CIA LTDA. e outros (DAVID e outros) promoveram execução individual em desfavor de BANCO DO BRASIL S.A. (BANCO), com fundamento em sentença proferida em ação coletiva, pleiteando diferenças de correção monetária sobre saldo devedor de cédulas de crédito rural, em decorrência do Plano Collor.
+O Juízo de piso determinou que DAVID e outros comprovassem o pagamento das cédulas de crédito (e-STJ, fl. 460).
+Interposto agravo de instrumento por DAVID e outros, o Tribunal de origem deu-lhe provimento, em acórdão assim ementado (e-STJ, fl. 1.178):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. CÉDULAS DE CRÉDITO RURAL. DIFERENÇAS DE CORREÇÃO MONETÁRIA RELATIVAS A MARÇO DE 1990. EXIGÊNCIA DA PROVA DA QUITAÇÃO DO CONTRATO COMO CONDIÇÃO PARA A EXECUÇÃO INDIVIDUAL DA SENTENÇA. INCABIMENTO.
+1. O requerimento de execução individual da sentença de ação civil pública que reconheceu o direito à restituição da diferença de correção monetária, paga a maior, relativas a março de 1990, incidentes sobre os financiamentos agrícolas, independe da prova da quitação do financiamento e da demonstração da evolução do contrato. Para tanto, basta ao mutuário exequente comprovar a existência do contrato de financiamento na época pertinente, relegando-se para momento posterior o exame daquelas questões, inclusive com eventual cooperação da instituição financeira.
+2. Agravo de instrumento provido para, confirmando a decisão inicial, determinar o prosseguimento da execução sem exigir a prova da quitação do contrato.
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ, fls. 1.206/1.212).
+Inconformado, BANCO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 11, 373, I, 489, §1º, IV, 1.022, 1.025 do NCPC, 6º, VIII, do CDC e 6º, §1º, da LINDB e divergência jurisprudencial, aduzindo, em síntese, que (1) o acórdão recorrido foi omisso e obscuro acerca das questões suscitadas; (2) caberia ao exequente a comprovação de que teria quitado o saldo devedor da cédula de crédito rural; e (3) a inversão do ônus da prova prevista no CDC não pode ser aplicada ao presente processo, tendo em vista que o diploma consumerista apenas entrou em vigor após o Plano Collor.
+DAVID e outros ofereceram contrarrazões (e-STJ, fls. 1.260/1.269).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a incidência das Súmulas nºs 7 e 83 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.313/1.330).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+Nos termos do art. 1.022 do NCPC, os embargos de declaração se destinam a suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material existente no julgado, podendo ser-lhes atribuídos, excepcionalmente, efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, não existe nenhum dos vícios do referido dispositivo legal, tendo BANCO apenas manifestado o inconformismo quanto ao entendimento delineado no acórdão embargado, revestindo-se a pretensão de caráter manifestamente infringente, o que não se coaduna com a medida integrativa dos embargos de declaração.
+Dessa forma, não houve a omissão ou obscuridade aduzidas pelo BANCO, pois as questões submetidas ao Tribunal de Justiça local foram fundamentada e claramente examinadas, não merecendo censura o acórdão que rejeitou os embargos em razão da inexistência dos vícios dos arts. 489, §1º, IV e 1.022 do NCPC.
+(2) e (3) Do ônus da prova
+BANCO alegou que competia ao exequente apresentar os documentos que comprovassem ter pago a diferença pleiteada e que não se aplicam as disposições do CDC quanto à inversão do ônus da prova, tendo em vista que a vigência do diploma consumerista foi posterior ao Plano Collor.
+A esse respeito, o Tribunal de origem, mantendo decisão que deferiu efeito suspensivo ao agravo de instrumento, assim concluiu:
+Além disso, adentrando na questão do ônus da prova, o entendimento que tem se firmado é o de que é possível a inversão do ônus da prova, não sendo, entretanto, automática e irrestrita tal inversão.
+Ocorre que, desde que apresentada a cédula rural ou outro documento que comprove o financiamento agrícola na época pertinente (período anterior a março de 1990), deve ser dado prosseguimento ao feito executivo, independentemente de apresentação pelo exequente de prova de quitação da dívida.
+Nesse caso, será possível a inversão do ônus da prova, cabendo ao executado alegar e provar que não houve o pagamento das cédulas de crédito, na medida em que aplicáveis, às instituições financeiras, as disposições do Código de Defesa do Consumidor, bem como em consonância, inclusive, com o princípio da cooperação, previsto no artigo 6º do NCPC (e-STJ, fls. 1.175/1.176 - sem destaque no original).
+Verifica-se que o fundamento acima destacado não foi impugnado de forma específica nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
