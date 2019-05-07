@@ -1,0 +1,84 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. POLÍCIA MILITAR. CONCURSO PÚBLICO. FASE DE SINDICÂNCIA DA VIDA PREGRESSA E DE INVESTIGAÇÃO SOCIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA À LEI N. 7.289/84. LEI FEDERAL COM STATUS DE LEI LOCAL. ÓBICE DA SÚMULA N. 280/STF.
+I - Na origem, trata-se de ação, por meio da qual se requer a anulação da não recomendação do candidato na fase de sindicância da vida pregressa e investigação social no concurso para Soldado do Quadro de Praças Policiais Militares Combatentes da Polícia Militar do Distrito Federal. Na sentença, julgou-se procedente o pedido. No Tribunal de Justiça do Distrito Federal e dos Territórios, a sentença foi reformada para julgar improcedente o pedido. Opostos embargos de declaração, foram acolhidos para considerar insubsistente o fundamento para exclusão do candidato por inidoneidade moral, porquanto no processo criminal fora declarada a extinção da punibilidade. Nesta Corte, negou-se provimento ao recurso especial do Distrito Federal.
+II - Sobre a alegada violação do art 535 do CPC/1973 (art. 1.022 do CPC/2015), não assiste razão ao recorrente.
+III - Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+IV - Nesse panorama, a oposição de embargos de declaração com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. Nesse sentido: AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016 e AgInt no REsp n. 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017.
+V - Ademais, verifica-se que a jurisprudência desta Corte Superior considera que a Lei n. 7.289/1984, embora seja uma lei federal, possui status de lei local, pois dispõe sobre o Estatuto da Polícia Militar do Distrito Federal, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: AgInt no REsp n. 1.642.552 / DF, 2016/0317829-4, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 26/9/2017, DJe 13/10/2017; AgInt no REsp n. 1.324.535 / DF, 2012/0105475-2, Rel. Min. Og Fernandes, Segunda Turma, julgado em 25/4/2017, DJe 3/5/2017 e AgInt nos EDcl no REsp n. 1.597.134 / DF, 2016/0097669-6, Min. Rel. Sérgio Kukina, Primeira Turma, julgado em 21/2/2017, DJe 7/3/2017.
+VI - No mesmo sentido, opinou o d. Ministério Público Federal.
+VII - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de ação ordinária ajuizada por [NOME] em desfavor do Distrito Federal, por meio da qual requer seja anulada a sua não recomendação na fase de sindicância da vida pregressa e investigação social no concurso para Soldado do Quadro de Praças Policiais Militares Combatentes da Polícia Militar do Distrito Federal.
+Consta nos autos que o interessado respondeu criminalmente por dois delitos: lesão corporal (art. 129 do Código Penal) e tráfico ilício de entorpecentes (art. 12 da Lei n. 6.368/1976, vigente à época). Não houve condenação quanto ao primeiro crime, visto que a punibilidade foi extinta em virtude da transação penal. No que se refere ao segundo delito, a pena foi extinta em segundo grau por força da prescrição com base na pena em concreto.
+Assim, tendo como pano de fundo o registo da prática de condutas incompatíveis com o padrão moral e funcional exigindo a um membro da Polícia Militar, foi decidido pela impossibilidade de ingresso do candidato aos quadros da PMDF, dando provimento ao recurso do Distrito Federal (fls. 316-317):
+DIREITO ADMINISTRATIVO. POLÍCIA MILITAR. CONCURSO PÚBLICO. FASE DE SINDICÂNCIA DA VIDA PREGRESSA E DE INVESTIGAÇÃO SOCIAL. FATO RELEVANTE OMITIDO. CONDUTA INCOMPATÍVEL COM A ÉTICA DA INSTITUIÇÃO MILITAR. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. RELATIVIDADE.
+I. O artigo 11 da Lei 7.289/84 estabelece a idoneidade moral do candidato como requisito para ingresso na corporação militar.
+II. A Administração Pública, desde que não desborde do princípio da legalidade, pode estabelecer os critérios para avaliação de vida pregressa e investigação social.
+III. A presunção de inocência, insculpida no artigo 5o, inciso LVII, da Constituição Federal, foi projetada essencialmente para a área criminal e, além disso, não possui caráter absoluto.
+IV. O princípio da presunção de inocência não conspurca a validade constitucional de lei que adota como referencial subjetivo, para efeito de ingresso ou promoção no âmbito das carreiras militares, contenda ou registro penal que pode descortinar a inaptidão ou a inidoneidade do candidato.
+V. A eliminação de candidato que revelou perfil incompatível com as exigências legais e éticas do cargo ou da patente militar não ofende os primados da legalidade, da proporcionalidade e da presunção de inocência.
+VI. Recurso conhecido e provido.
+Opostos embargos de declaração pelo interessado, esses foram acolhidos, considerando que o acórdão recorrido deixou de examinar a questão relevante ao deslinde da controvérsia.
+O Distrito Federal, da mesma forma, interpôs embargos de declaração, que foram improvidos por unanimidade. Assim (fl. 428):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. INCONFORMISMO. VIA RECURSAL INADEQUADA.
+I. Os embargos de declaração têm caráter integrativo e seu cabimento pressupõe a existência de algum dos vícios contemplados no artigo 1.022 do Código de Processo Civil, não se coadunando com projeto recursal de cunho modificativo.
+II. Recurso desprovido.
+Interposto recurso especial pelo Distrito Federal fundado no art. 105, III, a, da Constituição Federal, por violação do art. 1.022, II, do CPC e art. 11 da Lei n. 7.289/1984.
+Sustentou, em síntese, que a Turma julgadora, mesmo instada a se manifestar por intermédio dos embargos de declaração, não sanou os vícios apontados, caracterizado, assim, grave ofensa ao art. 1.022, II, do CPC.
+Ademais, considerou ter ocorrido grave violação do art. 11 da Lei n. 7.289/1984, vez que aprovou candidato não recomendado na fase de sindicância da vida pregressa e investigação social.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 520-532).
+O recurso especial foi inadmitido com base ausência de omissão, no tocante à violação do art. 1.022, II, do CPC; e a incidência da Súmula n. 280/STF no tocante à violação do art. 11 da Lei n. 7.289/1984.
+O Ministério Público opinou pelo desprovimento do recurso, nos termos do parecer de fls. 630-635.
+Sobreveio agravo.
+No STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento".
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Sobre a alegada violação do art 535 do CPC/1973 (art. 1.022 do CPC/2015), não assiste razão ao recorrente.
+Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017.)
+Ademais, verifica-se que a jurisprudência desta Corte Superior considera que a Lei n. 7.289/1984, embora seja uma lei federal, possui status de lei local, pois dispõe sobre o Estatuto da Polícia Militar do Distrito Federal, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. EXAME PSICOTÉCNICO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. OFENSA À LEI N.º 7.289/84. LEI FEDERAL COM STATUS DE LEI LOCAL. ÓBICE DA SÚMULA 280/STF. REEXAME DE MATÉRIA FÁTICA E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. O acórdão recorrido não apreciou a matéria pertinente ao art. 373, I, do CPC/15, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Inafastável o óbice da Súmula 280/STF, pois o entendimento desta Corte Superior é no sentido de que a Lei n.º 7.289/84, que dispõe sobre o Estatuto da Polícia Militar do Distrito Federal, embora seja uma lei federal, possui status de lei local. Precedentes.
+3. Inarredável a incidência das Súmulas 5 e 7/STJ ao caso, porquanto a inversão da conclusão adotada pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e análise de cláusulas do edital do concurso, providências vedadas em recurso especial.
+4. Agravo Interno a que se nega provimento.
+( AgInt no REsp n. 1.642.552 / DF, 2016/0317829-4, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 26/9/2017, DJe 13/10/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. POLÍCIA MILITAR DO DISTRITO FEDERAL. LEI N. 7.289/84. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. No tocante à apontada ofensa ao art. 11, caput, da Lei n. 7.479/86, que disciplina o Estatuto dos Bombeiros-Militares do Distrito Federal, anote-se que o Superior Tribunal de Justiça firmou a orientação de que as leis de aplicação restrita ao Distrito Federal, a exemplo da norma em questão, embora publicadas pelo Congresso Nacional, são de natureza local.
+2. Aplicável à hipótese, portanto, por analogia, a Súmula 280 do Supremo Tribunal Federal, in verbis: "Por ofensa a direito local, não cabe o recurso extraordinário".
+3. Agravo interno a que se nega provimento.
+( AgInt no REsp n. 1.324.535 / DF, 2012/0105475-2, Rel. Min. Og Fernandes, Segunda Turma, julgado em 25/4/2017, DJe 3/5/2017.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. CURSO DE FORMAÇÃO DE PRAÇAS DA POLÍCIA MILITAR DO DISTRITO FEDERAL. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA. OFENSA À LEI Nº 7.289/84. LEI FEDERAL COM STATUS DE LEI LOCAL. ÓBICE DA SÚMULA 280/STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Não há que se falar em nulidade da decisão proferida, por ofensa ao art. 489, § 1º, V, do Novo Código Civil, quando o julgador decidiu de forma fundamentada, identificando de forma clara e objetiva as teses adotadas, e ainda amparado em precedentes que se ajustam ao caso concreto.
+2. Inafastável o óbice da Súmula 280/STF, pois o entendimento desta Corte Superior é no sentido de que a Lei n.º 7.289/84, que dispõe sobre o Estatuto da Polícia Militar do Distrito Federal, embora seja uma lei federal, possui status de lei local. Precedentes.
+3. A alteração das conclusões adotadas pela Corte de origem quanto às demais questões trazidas pela parte recorrente, em especial quanto ao cerceamento de defesa, à subjetividade da avaliação psicológica e quanto à forma e critérios em que os exames foram realizados durante o certame, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial a teor da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+( AgInt nos EDcl no REsp n. 1.597.134 / DF, 2016/0097669-6, Min. Rel. Sérgio Kukina, Primeira Turma, julgado em 21/2/2017, DJe 7/3/2017.)
+No mesmo sentido, opinou o d. Ministério Público Federal, no parecer às fls. 630-635, assim ementado, verbis (fl. 630):
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR DO DISTRITO FEDERAL. FASE DE SINDICÂNCIA DE VIDA PREGRESSA. EXISTÊNCIA DE CONDENAÇÃO CRIMINAL POR TRÁFICO DE DROGAS COM PUNIBILIDADE EXTINTA POR PRESCRIÇÃO. ART. 11 DA LEI N. 7.289/84. REQUISITOS PARA INGRESSO NO CURSO DE FORMAÇÃO. IDONEIDADE MORAL. REVISÃO. LEI FEDERAL COM STATUS DE LEI LOCAL. SÚMULA 280/STF. ART. 1.022, U, DO CPC. OFENSA NÃO CONFIGURADA PELO CONHECIMENTO DO AGRAVO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
