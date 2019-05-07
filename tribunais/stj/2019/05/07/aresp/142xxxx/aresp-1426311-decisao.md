@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. LESÃO GRAVE SOFRIDA POR IDOSA EM RAZÃO DA MÁ QUALIDADE DE VIA PÚBLICA. DANO MORAL FIXADO EM R$ 20.000,00. REVISÃO. IMPOSSIBILIDADE. VALOR ADEQUADO. EXORBITÂNCIA NÃO CONFIGURADA. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DO RIO DE JANEIRO/RJ DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por MUNICÍPIO DO RIO DE JANEIRO/RJ, com fulcro na alínea a do art. 105, III da Constituição Federal, contra acórdão de lavra do TJRJ, assim ementado:
+AGRAVO RETIDO E APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. MUNICÍPIO DO RIO DE JANEIRO. LESÕES FÍSICAS SOFRIDAS PELA AUTORA, ORA APELADA, EM RAZÃO DE QUEDA AO ATRAVESSAR VIA PÚBLICA, APÓS TROPEÇAR EM RESSALTO DO ASFALTO. GRAVIDADE DO QUADRO CLÍNICO POR SE TRATAR DE PESSOA IDOSA. RESPONSABILIDADE OBJETIVA DO ENTE PÚBLICO. DANO MORAL CONFIGURADO. AUSÊNCIA DE COMPROVAÇÃO DO DANO MATERIAL. PRETENSÃO DEDUZIDA CORRETAMENTE JULGADA PROCEDENTE EM PARTE. VERBA REPARATÓRIA CONSENTÂNEA COM OS DANOS SOFRIDOS PELA DEMANDANTE, SENDO FIXADA SEGUNDO OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. INSUBSISTÊNCIA DO AGRAVO RETIDO INTERPOSTO PELA DEMANDANTE, AO FUNDAMENTO DE CERCEAMENTO DE DEFESA, UMA VEZ INDEFERIDA A REALIZAÇÃO DE PERÍCIA. PROVA TÉCNICA CUJO DESTINATÁRIO É O JUIZ, A QUEM INCUMBE AVALIAR A NECESSIDADE DE SUA PRODUÇÃO. RAZÕES RECURSAIS SEM APTIDÃO À REFORMA DO JULGADO. DESPROVIMENTO DO AGRAVO RETIDO E DA APELAÇÃO (fls. 147).
+2. Sustenta, em suma, a exorbitância dos danos morais arbitrados em R$ 20.000,00, razão pela qual entende por violados os arts. 927, 944 e 884 do CC/2002.
+3. É o relatório.
+4. A revisão do valor fixado a título de danos morais somente é possível quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e proporcionalidade (AgRg no AREsp. 319.024/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 21.8.2018).
+5. Na espécie, o Tribunal de origem, em atenção às peculiaridades do caso concreto, fixou a indenização por danos morais em R$ 20.000,00 por entendê-la razoável, in verbis:
+Cuida-se de Ação Indenizatória por Danos Moral e Material, alegando a autora que em 31.01.2011, quando atravessava a Rua Barata Ribeiro, em Copacabana, tropeçou em ressalto da pista, vindo a sofrer grave queda.
+Verifica-se que a demandante, pessoa idosa, à época com 82 (oitenta e dois) anos, necessitou de atendimento médico hospitalar, culminando com tratamento cirúrgico.
+A prova documental coligida informa que a demandante, em razão do tropeço e da queda, sofreu lesão no membro inferior direito, consubstanciada em fratura da rótula, como também no membro superior esquerdo, face à fratura do úmero.
+Os documentos de fls. 17/25vB e 28/30 comprovam as aludidas lesões físicas e os atendimentos médicos correspondentes.
+À vista da precedente narrativa, verifica-se que, na verdade, o réu-apelante faltou com o seu dever de cuidado na pavimentação da via pública.
+O fato protagonizado pela autora não é incomum. Com efeito, a demandante, ao instruir sua réplica, adunou aos autos as reportagens de fls. 58/62 que evidenciam a negligência do Poder Público na manutenção das vias públicas.
+A matéria constante de fl. 58, veiculada em 15.04.2011, constante na página de "O Globo" na Internet se intitula "Buraco em faixa de pedestres causa acidentes na Barata Ribeiro, em Copacabana, na Zona Sul do Rio".
+A aludida matéria chama a atenção para o perigo, sobretudo em relação às pessoas idosas.
+Às fls. 59/61, consta matéria, também de "O Globo", que consigna em seu título que Após recapeamento, ruas da cidade têm problemas de nivelamento
+(..)
+À toda evidência, ao recapear a via pública e deixar ressaltos, sobretudo em ponto de travessia de pedestres, propiciou o Município a lamentável ocorrência, que poderia ter conseqüências ainda mais graves. Note-se que sequer havia placas de advertência para os transeuntes, exortando-os à maior atenção em seus deslocamentos.
+À míngua de providências simples, como a de promover recapeamento de qualidade e colocar placas indicativas de eventuais desníveis na rua, restou configurada a omissão do Poder Público Municipal.
+Saliente-se que a autora logrou comprovar os fatos constitutivos de seu alegado direito, na forma do artigo 333, I do Código de Processo Civil vigente à época dos fatos, enquanto o réu não produziu prova suficiente para afastar as afirmações autorais quanto à ocorrência do dano.
+Assim, cumpre ao Município-apelante ressarcir a demandante os prejuízos sofridos, na forma fixada pela douta sentença, salientando-se que a importância de R$ 20.000,00 (vinte mil reais), arbitrada à guisa de dano moral, mostra-se compatível com os princípios da razoabilidade e da proporcionalidade, não comportando a redução postulada (fls. 150/151).
+6. De fato, ante a narrativa posta no acórdão recorrido, não há como se concluir pela exorbitância da indenização fixada sem que haja incursão fático-probatória vedada pela Súmula 7/STJ.
+7. Em verdade, todo delineamento da causa advindo da origem permite dessumir que a quantia arbitrada é adequada ao caso.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DO RIO DE JANEIRO/RJ.
+9. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total.
+10. Publique-se. Intimações necessárias.
