@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE COLETIVO. AFRONTA À RESOLUÇÃO. IMPOSSIBILIDADE. NÃO INCLUSÃO NO CONCEITO DE LEI FEDERAL. EQUILÍBRIO ECONÔMICO DO CONTRATO. DISPOSITIVOS DA LEGISLAÇÃO FEDERAL TIDOS POR CONTRARIADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. REAJUSTE. FAIXA ETÁRIA. CONTRATO FIRMADO EM 2009. REAJUSTE EM DESACORDO COM O LIMITE ETÁRIO PARA A ÚLTIMA VARIAÇÃO DE PREÇO. DESRESPEITO ÀS NORMAS EXPEDIDAS PELOS ÓRGÃOS GOVERNAMENTAIS. PRECEDENTE. ALEGAÇÕES QUE DEMANDAM O REEXAME DE FATOS E PROVAS. SÚMULAS 5 E 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CÍRCULO OPERÁRIO CAXIENSE contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. FAIXA ETÁRIA. AUMENTO DA MENSALIDADE AOS 70 ANOS. CONTRATO ADITADO EM 2010. ABUSIVIDADE CONFIGURADA. INGRESSO DA AUTORA EM 2009. CONTRATO QUE DEVERIA ESTAR ADPTADO AO ESTATUTO DO IDOSO E RESOLUÇÃO NORMATIVA 63/2003 DA ANS.
+Apelo provido. (e-STJ fl. 230)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 250/256)
+Em suas razões recursais, a recorrente aponta violação aos artigos 478, 479 e 480 do Código Civil; 15 da Lei 9.656/98, e à Resolução nº 06/98 do Conselho de Saúde Complementar - CONSU, além de divergência jurisprudencial. Sustenta, em síntese, a possibilidade de reajuste, por mudança de faixa etária aos 70 anos, para os contratos firmados após a edição da Lei 9.656/98 e anteriores ao estatuto do idoso, conforme a Resolução CONSU 06/98. Afirma, ainda, que nenhuma abusividade foi praticada pela Recorrente ao aplicar o reajuste nas mensalidades da Recorrida na data em que ela trocou de faixa etária (para 70 anos de idade), uma vez que, além de estar inserida no plano de saúde há menos de 10 (dez) anos, o contrato prevê, em cláusulas expressas, os reajustes por faixa etária, bem como o percentual de sua incidência. (e-STJ fl. 268)
+Contrarrazões ao recurso especial apresentadas, às fls. 285/308 e-STJ, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 309/315 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+A pretensão recursal não merece prosperar.
+Em relação à alegada violação à Resolução nº 06/98 do CONSU, impende salientar que a suposta violação a texto normativo de Resoluções ou Circulares não viabiliza a abertura desta instância excepcional, posto não se enquadrarem no conceito de lei federal para fins de autorização da interposição do recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO EM PLANO DE SAÚDE. EX-FUNCIONÁRIO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INEXISTÊNCIA. 2. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS TIDOS COMO VIOLADOS. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 3. AFRONTA A RESOLUÇÕES. ANÁLISE. IMPOSSIBILIDADE. NÃO INCLUSÃO NO CONCEITO DE LEI FEDERAL. 4. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA E DE VALORES DE CONTRIBUIÇÃO. INTERPRETAÇÃO DO ART. 31 DA LEI 9.656/98. VERBETE SUMULAR N. 83/STJ. 5. AGRAVO IMPROVIDO.
+ ..  3. Não é possível a interposição do recurso especial sob a alegação de violação à resolução, portaria, circulares e demais atos normativos de hierarquia inferior a Decreto, por não revestirem o conceito de lei federal.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 949.122/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 07/11/2016).
+No que se refere à alegada violação aos artigos 478, 479 e 480 do Código Civil, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal de origem.
+Nestes termos, ainda que a recorrente tenha suscitado as matérias em aclaratórios, seria imprescindível a alegação de violação do artigo 1.022 do Código de Processo Civil quando da interposição do recurso especial, o que não foi verificado no presente caso. Resta, nesta hipótese, configurada a ausência de prequestionamento, devendo incidir o enunciado da Súmula 211 desta Corte Superior.
+Nesse sentido:
+RESPONSABILIDADE CIVIL. INFECÇÃO HOSPITALAR. PERDA PARCIAL DA VISÃO. JULGAMENTO EXTRA E ULTRA PETITA. [NOME]. PREMISSA FÁTICA. QUESTÃO REFLEXA. DANOS MORAIS. REDUÇÃO. EXORBITÂNCIA NÃO CARACTERIZADA. MATÉRIA FÁTICO-PROBATÓRIA.
+1.  ..
+4. Aplica-se o óbice previsto na Súmula n. 211/STJ quando a questão suscitada no recurso especial, não obstante a oposição de embargos declaratórios, não foi apreciada pela Corte a quo. Em situações da espécie, o acesso à via excepcional depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do CPC.
+5. Recurso especial parcialmente conhecido e desprovido.
+(REsp 1526253/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 03/03/2016, DJe 09/03/2016)
+No que concerne à tese de legalidade do reajuste, observa-se que o Tribunal de origem, com base nos elementos probatórios carreados aos autos, entendeu que o reajuste aplicado às mensalidades do plano de saúde do recorrido desrespeitou o limite etário para a última variação de preço, manifestando-se nos seguintes termos:
+No caso dos autos, a parte autora é beneficiária do plano de saúde denominado MEDIANEIRA II, firmado entre a ré e o Centro Empresarial Flores da Cunha em 07/2010, que contou com aditivo contratual em julho de 2010.
+A parte autora, contudo, só aderiu ao plano em 01/12/2009, sofrendo o reajuste por faixa etária em março de 2012, quando completou 70 anos.
+Ora, a parte autora só ingressou em 2009 no plano, já na vigência do estatuto do idoso e da RN nº 63 da ANS. Ademais, houve aditivo contratual em 2010, de modo que o plano já deveria estar adaptado a referida legislação.
+Nesse contexto, tenho o reajuste está em desacordo com a mencionada Resolução Normativa nº 63 da ANS, que estabelece a última faixa etária de reajuste aos 59 anos, limitando o respectivo aumento a valor não superior a seis vezes o valor da primeira. Daí porque é manifestamente ilegal o reajuste na mensalidade do autor quando completou 70 anos de idade. Irretocável a sentença, portanto.(e-STJ fl. 235/236)(grifou-se)
+Dessa forma, verifica-se que o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que, "Para os contratos (novos) firmados a partir de 1º/1/2004, incidem as regras da RN nº 63/2003 da ANS, que prescreve a observância (i) de 10 (dez) faixas etárias, a última aos 59 anos; (ii) do valor fixado para a última faixa etária não poder ser superior a 6 (seis) vezes o previsto para a primeira; e (iii) da variação acumulada entre a sétima e décima faixas não poder ser superior à variação cumulada entre a primeira e sétima faixas. (REsp 1568244/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016) (grifou-se)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide, no ponto, o óbice da Súmula 83 desta Corte, impedindo o conhecimento do Recurso Especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+Ademais, a reforma da conclusão do acórdão recorrido exige o reexame do conjunto probatório dos autos e a interpretação das cláusulas do contrato entabulado entre as partes, tarefa inadmissível em sede de recurso especial, em face dos impedimentos das Súmulas 5 e 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem em favor da parte recorrida.
+Intimem-se.
