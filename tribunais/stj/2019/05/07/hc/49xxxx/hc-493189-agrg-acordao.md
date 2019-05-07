@@ -1,0 +1,20 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 6.920 G DE MACONHA, ACONDICIONADOS EM 39 INVÓLUCROS PLÁSTICOS. BALANÇA. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO PISO MÍNIMO, EM RAZÃO DA QUANTIDADE DE DROGAS. AUSÊNCIA DE ILEGALIDADE. TERCEIRA FASE. NÃO INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DA PENA. COMPROVAÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS.
+1. O entendimento sobre a dedicação a atividades criminosas se deu também pelos apetrechos encontrados (apreensão de balança de precisão e duas cadernetas de anotações da contabilidade do tráfico) e por estarem as drogas embaladas.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra a decisão, de minha relatoria, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 122):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 6.920 G DE MACONHA, ACONDICIONADOS EM 39 INVÓLUCROS PLÁSTICOS. BALANÇA. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO PISO MÍNIMO, EM RAZÃO DA QUANTIDADE DE DROGAS. AUSÊNCIA DE ILEGALIDADE. TERCEIRA FASE. NÃO INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DA PENA. COMPROVAÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS.
+Ordem denegada.
+Alega o agravante que inexistem nos autos provas concretas quanto à dedicação a atividades criminosas. Sustenta ter direito à causa de diminuição da pena, prevista no art. 33, § 4º, da Lei Antidrogas, por ser primário, sem antecedentes criminais e não reincidente. Aduz, ainda, que a quantidade de substâncias entorpecentes, em torno de 7 kg de maconha, não se mostra excessiva, sendo uma quantidade normal para o delito de tráfico de drogas.
+Requer, diante disso, a reconsideração da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não obstante as razões apresentadas pelo agravante, a decisão deve ser mantida por seus próprios fundamentos. No caso, a pena-base não foi fixada no piso mínimo, mas em 7 anos e 6 meses de reclusão, por terem sido apreendidos 6.920 g de maconha, acondicionados em 39 invólucros plásticos. Não há ilegalidade na elevação da pena, pois, de fato, trata-se de grande quantidade de drogas, podendo ser considerada, a critério do magistrado, nos termos do art. 42 da Lei n. 11.343/2006. Já em relação à causa de diminuição da pena, não há bis in idem, uma vez que a instância ordinária firmou o entendimento de que o agravante se dedica a atividades criminosas. Confira-se:
+Cuida-se, pois, de faculdade que o julgador usará ou não, tendo em vista as circunstâncias do caso concreto, e não direito subjetivo do acusado. E, na hipótese vertente, fica claro que [NOME] possui sério envolvimento com a máquina criminosa que movimenta o comércio ilícito de entorpecentes. Em tais condições, malgrado primário, o recorrente não faz jus ao privilégio.
+E esse entendimento se deu também pelos apetrechos encontrados (apreensão de balança de precisão e duas cadernetas de anotações da contabilidade do tráfico) e por estarem as drogas embaladas. Com efeito, o privilégio previsto no art. 33, § 4º, da Lei Antidrogas, foi criado pelo legislador para o traficante eventual e não quando constatado se tratar de traficante contumaz, como ocorreu na hipótese dos autos.
+Quanto ao regime de cumprimento da pena, embora a pena concreta imposta, 6 anos e 3 meses de reclusão, admita de fato o regime semiaberto (art. 33, § 2º, b, do CP), o agravamento do regime encontra amparo no art. 33, § 3º, do Código Penal, bem como no art. 42 da Lei de Drogas, haja vista a dedicação do agravante à traficância de entorpecentes.
+Ante o exposto, nego provimento ao agravo regimental.
