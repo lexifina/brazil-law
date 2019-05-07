@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL E DE PROVAS: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA. DEMOLIÇÃO DE OBRA. ÁREA PÚBLICA. OCUPAÇÃO ILÍCITA. PODER DE POLÍCIA. SENTENÇA MANTIDA.
+    1. Nos termos da Lei Distrital nº 4.150/2008, compete à AGEFIS exercer o controle de ocupações irregulares em áreas públicas, compreendendo também a execução das políticas de fiscalização de atividades urbanas do Distrito Federal, em consonância com as políticas governamentais, dentre outras atribuições.
+    2. Os atos administrativos presumem-se legítimos e são dotados de imperatividade, autoexecutoriedade e exigibilidade, que possibilitam ao Poder Público atuar com eficiência ao limitar direitos individuais em favor da proteção dos interesses da coletividade.
+    3. Não se concede proteção jurídica para ocupação irregular de imóvel público com base em alegado direito à moradia, porquanto este não autoriza ocupação desordenada de área pública, com violação, inclusive, da destinação originária do imóvel, inserido em área de preservação ambiental.
+    4. Apelo conhecido e não provido” (fl. 99, vol. 6).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 6º da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de se tratar de matéria infraconstitucional (fl. 3, vol. 8).
+    O agravante sustenta que, “antes de o direito a moradia e as situações que o circundam serem tratadas pela legislação infraconstitucional, ele é um direito fundamental, cujo exercício não pode ser obstado pelo fato de ter sido regulamentado pelos diferentes entes estatais” (fl. 10, vol. 8).
+    Requer “seja conhecido e dado total provimento ao presente Agravo, para que o Recurso Extraordinário tenha seu mérito julgado e provido, visto que este atendeu a todos os requisitos de admissibilidade” (fl. 10, vol. 8).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. A apreciação do pleito recursal demandaria o necessário reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo (Lei distrital n. 4.150/2008). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Confiram-se os julgados a seguir:
+    “O Tribunal local consignou a legalidade do exercício do poder de polícia por parte do Poder Público. Apontou, mediante interpretação conferida pelos dispositivos legais de regência, encontrar-se o imóvel objeto da presente ação em desconformidade com o Código de Edificações do Distrito Federal, justificando, portanto, os atos praticados pela Administração direcionados à promoção da intimação demolitória. No caso, somente seria dado concluir de forma diversa a partir da análise da legislação infraconstitucional, inviável nesta estreita via recursal. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça. A discussão sobre o alcance de norma local inviabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: ‘Por ofensa a direito local não cabe recurso extraordinário’ –, o acesso ao Supremo” (ARE n. 1.006.811-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 3.10.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR. PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 868.838-AgR, de minha relatoria, Segunda Turma, DJe 28.4.2015).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, e ainda com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 7 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
