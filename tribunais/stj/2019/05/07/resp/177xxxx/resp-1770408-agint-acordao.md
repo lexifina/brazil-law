@@ -1,0 +1,50 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENSINO SUPERIOR. MATRÍCULA. APRESENTAÇÃO TARDIA DE DOCUMENTO. ART. 41 DA LEI N. 8.666/93. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. INCIDÊNCIA. ACÓRDÃO AMPARADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. REVISÃO. IMPOSSIBILIDADE. MATÉRIA DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Quanto à alegação de violação de art. 3º da Lei nº 8.666/93, importa consignar que o aludido diploma legal não guarda pertinência temática com os fundamentos adotados pelo acórdão recorrido, pois "estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios". Assim, incide ao ponto a Súmula 284/STF.
+2. O Tribunal de origem, ao concluir pela possibilidade de matrícula de discente em curso superior, amparou-se em fundamentos eminentemente constitucionais, matéria insuscetível de análise na estreita via do recurso especial.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria (Presidente), Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela Universidade Tecnológica Federal do Paraná (UTFPR), desafiando decisão que não conheceu do recurso especial, sob os fundamentos de que: (I) incide a Súmula 284/STF tendo em vista que o art. 41 da Lei n. 8.666/93 não guarda pertinência temática com os fundamentos do acórdão recorrido; e (II) o Tribunal de origem dirimiu a controvérsia com base em fundamentos eminentemente constitucionais.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) não deve ser aplicado o óbice da Súmula 284/STF, porquanto o art. 41 da Lei n. 8.666/93 diz respeito à observância das normas editalícias, o que constitui o cerne da matéria discutida nos presentes autos; e (II) a questão dos critérios de acesso e matrícula em instituições de ensino superior é regulada pela Lei n. 9.394/96 e não em dispositivos da constituição.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou impugnação (fls. 335/339), na qual requer o desprovimento do agravo interno.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENSINO SUPERIOR. MATRÍCULA. APRESENTAÇÃO TARDIA DE DOCUMENTO. ART. 41 DA LEI N. 8.666/93. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. INCIDÊNCIA. ACÓRDÃO AMPARADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. REVISÃO. IMPOSSIBILIDADE. MATÉRIA DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Quanto à alegação de violação de art. 3º da Lei nº 8.666/93, importa consignar que o aludido diploma legal não guarda pertinência temática com os fundamentos adotados pelo acórdão recorrido, pois "estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios". Assim, incide ao ponto a Súmula 284/STF.
+2. O Tribunal de origem, ao concluir pela possibilidade de matrícula de discente em curso superior, amparou-se em fundamentos eminentemente constitucionais, matéria insuscetível de análise na estreita via do recurso especial.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não merece prosperar.
+No caso dos autos, a Corte regional concluiu, com base nos princípios da razoabilidade e da proporcionalidade, pela possibilidade de a parte ora agravada proceder à matrícula em curso superior, não obstante a extemporaneidade da apresentação de cópia autenticada do histórico escolar.
+Nas razões do recurso especial, a Universidade apontou ofensa aos arts. 41 da Lei n. 8.666/93 e 44 da Lei n. 9.394/96.
+Quanto ao art. 41 da Lei de Licitações, não há como afastar a incidência do óbice previsto na Súmula 284/STF, porquanto o referido diploma normativo "estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios", enquanto que, nestes autos, debate-se a tema relacionado a matrícula no ensino superior.
+Na mesma linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 41 DA LEI 8.666/1993. LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. TRANSFERÊNCIA DE ESTUDANTE. ENSINO SUPERIOR. DEPENDENTE DE MILITAR REMOVIDO EX OFFICIO. POSSIBILIDADE DE TRANSFERÊNCIA ENTRE INSTITUIÇÕES DE ENSINO CONGÊNERES. CRITÉRIO OBEDECIDO. FUNDAMENTO CONSTITUCIONAL NÃO ATACADO. SÚMULA 126/STJ.
+1. Nas razões do Recurso Especial, a recorrente alega ofensa ao art.
+41 da Lei 8.666/1993. No entanto esse diploma normativo estabelece normas gerais sobre Licitações e Contratos Administrativos. Desse modo, a ausência de pertinência temática entre o acórdão recorrido e o dispositivo legal tido como violado faz incidir o óbice contido na Súmula 284/STF.
+2. Consoante a firme jurisprudência do STF e do STJ, o servidor público civil ou militar estudante, transferido ex officio, e seu dependente estudante têm direito à matrícula em instituição de ensino superior da nova localidade, desde que congêneres as instituições de ensino, excepcionando-se a regra, em caso de inexistência de estabelecimento de ensino da mesma natureza, no local da nova residência ou em suas imediações.
+3. A compreensão firmada pelo Tribunal de origem não discrepa da jurisprudência do STJ, razão pela qual não merece reforma.
+4. Outrossim, verifica-se que o Tribunal a quo utilizou fundamento constitucional não atacado pela via de Recurso Extraordinário, o que faz incidir o enunciado da Súmula 126/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1727637/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/05/2018, DJe 19/11/2018)
+De outro turno, a decisão ora agravada concluiu que o acórdão do Tribunal de origem adotou fundamentos eminentemente constitucionais, matéria que não se insere no âmbito de competência do Superior Tribunal de Justiça.
+Confira-se, a propósito, trecho do voto condutor do acórdão recorrido (fl. 312):
+O impetrante foi aprovado para o curso de engenharia civil (evento 1, COMP10, p. 10).
+Consta que a negativa de matrícula ocorreu porque ele não teria apresentado "fotocópia autenticada do histórico escolar do ensino médio ou equivalente (Técnico de Nível Médio, 2º Grau, Magistério ou Educação de Jovens e Adultos), expedidos por Instituição de Ensino reconhecida por órgão oficial competente" (evento 1, COMP11).
+Ocorre que o impetrante trouxe o referido documento (evento 1, COMP8 e COMP9). É verossímil a alegação de que ele teve dificuldades na obtenção do referido documento porque ele reside na cidade de Curitiba (evento 1, END4) e cursou o ensino médio no estado da Bahia. Assim, dado o exíguo tempo para que o impetrante apresentasse a documentação, viola a proporcionalidade a negativa da autoridade impetrada.
+Também no julgamento dos embargos de declaração opostos pela parte ora agravante, ficou assentado (fl. 210):
+O acórdão impugnado resolveu o litígio interpretando a legislação infraconstitucional aplicável ao caso e com suporte, em razão dos fatos ocorridos, no princípio da proporcionalidade e razoabilidade. Perfeitamente verossímil a alegação de que o impetrante teve dificuldades na obtenção da fotocópia autenticada do histórico escolar do ensino médio ou equivalente, porque ele residia na cidade de Curitiba e cursou o ensino médio no estado da Bahia. A fundamentação do acórdão é suficiente a sua conclusão pela concessão da segurança, não havendo qualquer razão para complementá-lo, como pretende a embargante.
+Assim, tendo em vista que a aplicação dos princípios da proporcionalidade e razoabilidade tem viés constitucional, não cabe, na via do recurso especial, imiscuir em matéria afeta ao Supremo Tribunal Federal.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E CONSTITUCIONAL. MATRÍCULA. HONORÁRIOS DA DEFENSORIA PÚBLICA. OMISSÃO. INEXISTÊNCIA. QUESTÃO ANALISADA SOB O ENFOQUE ESTRITAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara sobre a regularidade da documentação apresentada antes do início do semestre letivo.
+2. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar a regularidade e a data da apresentação dos documentos, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Outrossim, da leitura do acórdão recorrido, depreende-se que a vexata quaestio foi decidida sob o enfoque estritamente constitucional, levando-se em consideração o resultado do julgamento do Agravo Regimental na Ação Rescisória 1937/DF pelo Tribunal Pleno do STF, bem como os princípios constitucionais da proporcionalidade e razoabilidade, razão pela qual descabe ao STJ se manifestar sobre a matéria sob pena de invasão da competência do Pretório Excelso.
+4. Recurso Especial não conhecido.
+(REsp 1756772/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/10/2018, DJe 17/12/2018)
+E ainda que se entenda que a questão não ostente o caráter eminentemente constitucional, não caberia ao Superior Tribunal de Justiça revisar a conclusão do acórdão recorrido, o qual está ancorado em premissas fáticas, o que atrairia a incidência da Súmula 7/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
