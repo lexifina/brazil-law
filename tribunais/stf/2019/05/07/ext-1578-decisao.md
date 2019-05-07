@@ -1,0 +1,20 @@
+DECISÃO
+    1. A defesa do extraditando ALI SIPAHI requer a substituição da prisão preventiva por outra medida cautelar e retenção de seu passaporte.
+    Sustenta que é cidadão brasileiro naturalizado, desde 13/10/2016, não possui antecedentes criminais e tem família no Brasil sendo casado e tendo um filho e mulher sob sua dependência econômica, além de exercer atividades empresariais na cidade de São Paulo.
+    2. O pedido de prisão preventiva para fins de extradição, formulado pelo Governo da Turquia, por meio da Nota Verbal nº 694/2019, encaminhado pelo Ministério da Justiça, chegou a esta Corte em 11/03/2019 e, diante do parecer favorável da douta Procuradoria Geral da República (fls. 50-54), foi decretada a prisão preventiva (fls. 55-59) com fundamento no art.84, da Lei 13.445/2017 tendo em vista a necessidade de se evitar a fuga do extraditando. O mandado de prisão foi cumprido em 09/04/2019.
+    Foi designada data para o interrogatório do extraditando, nos termos do art. 91, da Lei 13.445/2017, que foi efetivado no último dia 03/05/2019, na Seção Judiciária da Justiça Federal do Estado de São Paulo, conforme mídia e documentos juntada aos autos.
+    3. A Procuradoria Geral da República, quanto ao pleito de substituição da prisão por outra medida, manifestou-se contrariamente conforme parecer juntado às fls. 363-368.
+    4. Da análise dos documentos trazidos aos autos e do interrogatório de ALI SIPAHI, constata-se que nasceu na cidade de Kastamonu, na Turquia, tem 31 anos de idade (nascido em 01/07/1988), e mudou-se para o Brasil em 2007 tendo obtido a nacionalidade brasileira em 2016.
+    Tem curso de graduação em Letras (Português) na Universidade Paulista – Unip e exerceu atividades na Câmara de Comércio e Indústria Turco-Brasileira. Atualmente é empresário no ramo de alimentação, sendo sócio das empresas LAHMAJUN ALIMENTOS LTDA – ME e MIS FOOD LTDA.
+    É casado desde com MERVE BETUL SIPAHI, também brasileira naturalizada (fl. 305), com quem tem um filho, AHMED SAMI SIPAHI, nascido em 29/05/2015, em Belo Horizonte, Minas Gerais.
+    5. Não obstante os argumentos e a farta documentação abonatória trazida pela defesa, não é o momento processual oportuno para examinar os requisitos do art. 82 da Lei 13.445/2017, mas tão somente as medidas necessárias para assegurar a executoriedade de eventual extradição a ser decretada por esta Corte por ocasião do julgamento definitivo pelo Colegiado.
+    6. Considerando, portanto os elementos pessoais que ligam o extraditando ao Brasil, a residência em território brasileiro de 2007, a nacionalidade brasileira desde 2016, suas atividades empresariais e a inexistência de antecedentes criminais e ainda a necessidade de manter sua família, mulher e filho que vivem sob sua dependência, com base no art. 86, do diploma normativo que rege a matéria (Lei n. 13.445/2017) depreendo a possibilidade jurídica de substituir a prisão antes decretada pelas seguintes medidas cautelares:
+    i) instalação de equipamento pessoal de monitoração eletrônica; ii) proibição de ausentar-se da Comarca onde reside até o julgamento o pedido de extradição; iii) recolhimento domiciliar no período noturno e nos dias de folgas; iv) entrega do seu passaporte.
+    7. Expeça-se alvará de soltura, condicionado seu cumprimento à instalação do equipamento de monitoração eletrônica, entrega de passaporte e compromisso de cumprir as demais medidas cautelares ora impostas .
+    8. Determino, outrossim, à Polícia Federal, a ser cientificada por ofício com cópia desta decisão, tomar todas as providências necessárias à segurança do extraditando no âmbito de suas atribuições.
+    9. Ciência ao Estado requerente para os fins da faculdade prevista no parágrafo único do artigo 212, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se e intimem-se.
+                      Brasília, 07 de maio de 2019.
+                      Ministro Edson Fachin
+                            Relator
+           documento assinado digitalmente
