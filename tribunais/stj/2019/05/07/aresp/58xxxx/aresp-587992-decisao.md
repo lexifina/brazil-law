@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO EM EXECUÇÃO. ISENÇÃO DE PAGAMENTO DE MULTA E PRESTAÇÃO PECUNIÁRIA. EFICÁCIA DA COISA JULGADA. EXECUÇÃO EXTRAJUDICIAL INCABÍVEL, EM SE TRATANDO DE PRESTAÇÃO PECUNIÁRIA. ANALOGIA COM MULTA. IMPOSSIBILIDADE. ARTS. 51 E 44, § 4º, DO CP.
+a) Transitada em julgado a decisão condenatória, incabível postular a isenção do pagamento da multa e prestação pecuniária. Eficácia da coisa julgada.
+b) O procedimento de execução extrajudicial, através da Fazenda Pública, é restrito à pena de multa, não sendo possível estender para a prestação pecuniária. Esta, uma vez inadimplida, implica em conversão em pena privativa de liberdade. Inteligência dos arts. 51 e 44, § 4º, do CP. Agravo em execução, improvido." (e-STJ, fl. 175.)
+O recurso especial foi interposto com suporte na alínea "a" do permissivo constitucional.
+Nas razões do recurso, o recorrente alega violação dos arts. 44, § 4º, 51, 109, IV, 114, II e 117, IV e V, do Código Penal; arts. 2º, § 3º, 8º, § 2º e 40 da Lei n. 6.830/1980; e art. 164, §§ 1º e 2º, da Lei de Execução Penal n. 7.210/1984.
+Sustenta, respectivamente, a ocorrência de prescrição da pretensão executória da pena pecuniária; que o acórdão teria vedado o procedimento extrapenal fiscal para a cobrança da pena pecuniária não adimplida pelo apenado; vedação da conversão da multa e valores pecuniários em prisão no caso de inadimplemento; e a isenção das penas pecuniárias e/ou readequação mediante avaliação da miserabilidade jurídica do apenado (e-STJ, fls. 189-193).
+Apresentadas as contrarrazões (e-STJ, fls. 199-205), o recurso foi inadmitido com fundamento nas Súmulas n. 211 do STJ, 283 do STF e "não logrando a insurgente infirmar a motivação do acórdão recorrido, inviável o pretendido reconhecimento de afronta à lei federal" (e-STJ, fls. 207-213).
+Daí este agravo, no qual o insurgente busca demonstrar não incindir os óbices apontados (e-STJ, fls. 217-224).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 248-256).
+É o relatório.
+Decido.
+O recurso não há de ser conhecido.
+No caso, a decisão que inadmitiu o recurso especial aplicou a Súmula n. 283/STF, com base no seguinte fundamento: "De outra parte, impende ressaltar que o Orgão Julgador, no tocante ao pedido de isenção das penas pecuniárias, expressamente consignou que, tendo as condenações transitado em julgado, não se poderia reduzir ou suprimir os valores fixados, pois sob o manto da coisa julgada" (fl.147v), fundamento este não atacado no presente recurso (e-STJ, fl. 210).
+Com efeito, limitando-se em afirmar que não pretendia a mudança da coisa julgada, "mas sim", afastar o cumprimento da sentença condenatória no que se refere ao pagamento da pena pecuniária, ante o seu inadimplemento (e-STJ, fl. 221), o agravante deixou de refutar especificamente a aplicação da Súmula n. 283/STF, situação que atrai o impeditivo da Súmula n. 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Registre-se que a mera afirmação genérica de que o recorrente não pretendia a "mudança da coisa julgada", sem apresentação de razões técnico-jurídicas que justificasse a não incidência da Súmula n. 283/STF, não é argumentação suficiente para afastar a incidência da referida súmula adotada pelo Tribunal a quo, como fundamento para inadmitir o apelo nobre.
+Por fim, esta Corte firmou o entendimento de que "A falta de combate ao fundamento suficiente para a manutenção do acórdão recorrido acarreta o não conhecimento do apelo, em obediência ao princípio da dialeticidade. Incidência, por analogia, da Súmula 283/STF" (RMS 40.909/RO, rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, j. 5/9/2013, DJe 12/9/2013).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
