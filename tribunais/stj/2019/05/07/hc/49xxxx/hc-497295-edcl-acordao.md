@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. BIS IN IDEM NÃO EVIDENCIADO. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+II - "Nos termos do art. 42 da Lei nº 11.343/2006, o juiz, na fixação da pena, deve considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, não implicando em bis in idem a consideração da quantidade de droga para agravar a pena-base e para afastar o redutor de que cuida o art. 33, § 4º, da Lei nº 11.343/2006, mas apenas a utilização de um mesmo parâmetro de referência para momentos e finalidades distintas" (AgRg no REsp n. 1.255.180/MG, Quinta Turma, Rel. Ministro Marco Aurélio Bellizze, DJe de 15/02/2013).
+Embargos acolhidos, sem efeitos modificativos.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, acolher os embargos, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de embargos de declaração opostos em favor de DARA CRISTINA MAZEI contra acórdão de minha relatoria, que não conheceu do habeas corpus impetrado em oposição ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, mas concedeu a ordem de ofício, a fim de fixar o regime prisional semiaberto, para o início do cumprimento da pena.
+Nas razões dos aclaratórios, o embargante sustenta a ocorrência de omissão no julgado, "quanto a alegação do impetrante em Habeas Corpus de ocorrência de bis in idem, ao considerar a mesma circunstância em desfavor da Embargante em duas fases distintas da dosimetria  .. ."
+Requer, ao final, seja sanada referida omissão, para aplicar a causa de redução de pena, referente ao tráfico privilegiado (fls. 260-267).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. BIS IN IDEM NÃO EVIDENCIADO. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+II - "Nos termos do art. 42 da Lei nº 11.343/2006, o juiz, na fixação da pena, deve considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, não implicando em bis in idem a consideração da quantidade de droga para agravar a pena-base e para afastar o redutor de que cuida o art. 33, § 4º, da Lei nº 11.343/2006, mas apenas a utilização de um mesmo parâmetro de referência para momentos e finalidades distintas" (AgRg no REsp n. 1.255.180/MG, Quinta Turma, Rel. Ministro Marco Aurélio Bellizze, DJe de 15/02/2013).
+Embargos acolhidos, sem efeitos modificativos.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Ainda, o art. 263 do RISTJ e o artigo 619 do CPP dispõem, respectivamente, que: "Cabem embargos de declaração contra qualquer decisão judicial, a serem opostos no prazo legal." "Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação."
+O embargante sustenta a ocorrência de omissão no julgado, "quanto a alegação do impetrante em Habeas Corpus de ocorrência de bis in idem, ao considerar a mesma circunstância em desfavor da Embargante em duas fases distintas da dosimetria  .. ."
+Sobre o tema, contudo, insta consignar que "Nos termos do art. 42 da Lei nº 11.343/2006, o juiz, na fixação da pena, deve considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, não implicando em bis in idem a consideração da quantidade de droga para agravar a pena-base e para afastar o redutor de que cuida o art. 33, § 4º, da Lei nº 11.343/2006, mas apenas a utilização de um mesmo parâmetro de referência para momentos e finalidades distintas" (AgRg no REsp n. 1.255.180/MG, Quinta Turma, Rel. Ministro Marco Aurélio Bellizze, DJe de 15/02/2013).
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos.
+É como voto.
