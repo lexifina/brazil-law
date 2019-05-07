@@ -1,0 +1,27 @@
+DECISÃO
+CONSTITUCIONAL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ADI ESTADUAL. ALEGAÇÃO DE OFENSA AO ART. 27 DA LEI 9.868/1999. CABIMENTO OU NÃO DA MODULAÇÃO DOS EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL DO MP/SC DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fulcro na alínea a do art. 105, III da Constituição Federal, em face de acórdão de lavra do TJ/SC, assim ementado:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PARÁGRAFO ÚNICO DO ARTIGO 99 DA LEI ESTADUAL N. 10.297/1996, QUE AUTORIZA A HOMOLOGAÇÃO TÁCITA PARA A PRODUÇÃO DE EFEITOS DECORRENTES DE CONVÊNIOS CELEBRADOS PELO ESTADO DE SANTA CATARINA NO ÂMBITO DO CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA (CONFAZ). OFENSA AOS ARTIGOS 128, §4º, E 131, XIII, "G", E PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO DO ESTADO DE SANTA CATARINA, OS QUAIS GUARDAM CONSONÂNCIA COM OS ARTIGOS 150, §6º, E 155, §2º, XII, "G", DA CONSTITUIÇÃO DA REPÚBLICA. PROCEDÊNCIA QUE SE IMPÕE. DECLARAÇÃO, TODAVIA, QUE DEVE GERAR EFEITOS A PARTIR DA PUBLICAÇÃO DO PRESENTE ACÓRDÃO, EM ATENÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E DA BOA-FÉ (fls. 151).
+2. Aponta a parte agravante ofensa ao art. 27 da Lei 9.868/1999. Sustenta, em suma, que a hipótese vertente não preenche os requisitos para afastamento do princípio da nulidade, devendo a declaração de inconstitucionalidade ser objeto de efeito ex tunc.
+3. É o relatório.
+4. Manifestamente incabível o Recurso Especial aviado.
+5. Eventual ofensa ao art. 27 da Lei 9.868/1999, em razão do suposto cabimento ou não da modulação dos efeitos da declaração de inconstitucionalidade, se dá no plano constitucional, razão pela qual é inviável sua discussão em Recurso Especial sob pena de usurpação da competência da Suprema Corte.
+6. Essa é a jurisprudência pacífica desta Corte Superior. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO TEMPORÁRIO. GRATIFICAÇÃO DE FUNÇÃO ASSISTENCIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. MATÉRIA APRECIADA EM SEDE DE ADI PELA CORTE REGIONAL. MODULAÇÃO DOS EFEITOS. ARTIGOS 27 E 28 DA LEI N. 9.868/1999. DISCUSSÃO DE ÍNDOLE CONSTITUCIONAL.
+1. ão há falar em violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+2. É firme o entendimento no âmbito deste e.STJ, segundo o qual a discussão acerca de eventual violação aos arts. 27 e 28 da Lei 9.868/1998 se dá no plano constitucional, sendo inviável a apreciação da controvérsia em sede de recurso especial. Nesse sentido: AgInt no REsp 1.533.967/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7/8/2018; AgInt no AgInt no REsp 1.617.948/MA, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/8/2018; AgRg no AREsp 480.327/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/9/2015.
+3. Agravo interno não provido (AgInt no REsp. 1.631.938/GO, Rel. Min. BENEDITO GONÇALVES, DJe 19.12.2018).
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO ESTADUAL. SÚMULA 280 DO STF. CONTROVÉRSIA DE NATUREZA CONSTITUCIONAL. REVISÃO PELA VIA DO APELO NOBRE. IMPOSSIBILIDADE. ART. 557 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Análise das teses recursais dependente do exame de legislação local. Incidência da Súmula 280 do STJ.
+3. Consoante o entendimento desta Corte, a eventual ofensa ao art. 28 da Lei n. 9.868/1999, caso existente, ocorre no plano constitucional, motivo pelo qual é inviável a rediscussão do tema pela via especial.
+4. O Superior Tribunal de Justiça firmou o posicionamento de que não há violação do art. 557 do CPC/1973 quando o julgamento pelo órgão colegiado, via agravo regimental, convalida a decisão impugnada.
+5. Agravo interno desprovido (AgInt no REsp. 1.533.967/CE, Rel. Min. GURGEL DE FARIA, DJe 7.8.2018).
+
+TRIBUTÁRIO. ICMS. ALEGAÇÃO DE NULIDADE PROCESSUAL. NECESSIDADE DE COMPROVAÇÃO DE PREJUÍZO ÀS PARTES. ENTENDIMENTO DESTA CORTE. DECISÃO DE ORIGEM QUE ENTENDEU A NÃO OCORRÊNCIA DE PREJUÍZO NO CASO DOS AUTOS. NÃO VIOLAÇÃO DO ART. 236, §1º, DO CPC/73. EFEITOS DA DECISÃO PROFERIDA NOS AUTOS DA ADI N. 4171/DF. HIPÓTESE DE OFENSA AOS ARTS. 26 E 27 DA LEI N. 9.868/99. INVIÁVEL RECURSO ESPECIAL. MÁTERIA DE NATUREZA CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF.
+(..)
+V - De acordo com a jurisprudência do STJ, entende-se que eventual ofensa aos arts. 27 e 28 da Lei n. 9.868/1999, constitui matéria de natureza constitucional, motivo pelo qual é inviável sua rediscussão em recurso especial sob pena de usurpação da competência do STF. Nesse sentido: AgInt no AREsp 915.886/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 09/02/2018; AgRg no REsp 1468948/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/10/2014, DJe 14/10/2014.
+VI - Agravo interno improvido (AgInt no AgInt no REsp. 1.617.948/MA, Rel. Min. FRANCISCO FALCÃO, DJe 29.8.2018).
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do MP/SC.
+8. Publique-se. Intimações necessárias.
