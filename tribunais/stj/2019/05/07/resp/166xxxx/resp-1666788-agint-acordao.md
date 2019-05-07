@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RESPONSABILIDADE PELO RESSARCIMENTO DOS HONORÁRIOS PERICIAIS DECORRENTES DE PERÍCIA MÉDICA REALIZADA EM DEMANDA CUJO LITIGANTE É BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. ÔNUS DE ARCAR COM HONORÁRIOS PERICIAIS DEVE SER IMPUTADO AO ESTADO.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de auxílio-acidente. Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No Tribunal de Justiça do Estado de Santa Catarina, a sentença foi mantida.
+II - Discute-se nos autos a responsabilidade pelo ressarcimento dos honorários periciais decorrentes de perícia médica realizada em demanda cujo litigante é beneficiário da assistência judiciária gratuita.
+III - A jurisprudência do STJ é no sentido de que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária gratuita ou de isenção legal, como no caso dos autos, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes. Nesse sentido: AgInt no REsp n. 1.592.790/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 16/5/2017, DJe 23/6/2017; AgRg no REsp n. 1.333.807/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 2/4/2013, DJe 5/4/2013; AgRg no Ag n. 1.223.520/MG, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 14/9/2010, DJe 11/10/2010.
+IV - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de ação ajuizada por [NOME] em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de auxílio-acidente.
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No Tribunal de Justiça do Estado de Santa Catarina, a sentença foi mantida em acórdão assim ementado:
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. INSURGÊNCIA DA AUTARQUIA FEDERAL QUANTO À OBRIGAÇÃO DE SUPORTAR O PAGAMENTO DOS HONORÁRIOS PERICIAIS ANTE A IMPROCEDÊNCIA DOS PEDIDOS FORMULADOS NA DEMANDA ACIDENTÁRIA. SEGURADO IMUNE AO PAGAMENTO DE CUSTAS E VERBAS SUCUMBENCIAIS. INTELIGÊNCIA DO ART. 129 DA LEI N. 8.213/91. ENTENDIMENTO ASSENTE DESTA CORTE DE JUSTIÇA. RECURSO DESPROVIDO.
+A Orientação n. 15 da Corregedoria-Geral da Justiça - "Nos casos em que houver nomeação de perito judicial e a parte sucumbente for beneficiária da assistência judiciária, por ocasião da sentença o Juiz deverá determinar a expedição de ofício ao Procurador-Geral do Estado solicitando o pagamento dos valores dos honorários periciais1 - não se aplica às causas relacionadas a "acidentes do trabalho" de que trata a Lei n. 8.213/1991. Se o autor (segurado) é "isento do pagamento de quaisquer custas e de verbas relativas à sucumbência" (art. 129), o pagamento dos honorários do perito não pode ser atribuído ao Estado de Santa Catarina (TJSC, Grupo de Câmaras de Direito Público, Apelação Cível n. 2012.063910-7, Rel. Des. Newton Trisotto, j. 27-02-2013).
+O INSS interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, por ofensa aos arts. 8º, § 2º, da Lei n. 8.620/93 e 20 do CPC/73.
+Alega em síntese que, julgada improcedente a ação acidentária, tem direito ao ressarcimento do valor dos honorários periciais adiantados. Aduz que, como a parte sucumbente é beneficiária da assistência judiciária, é responsabilidade do Estado o ressarcimento dos valores dos honorários adiantados pelo INSS.
+Não foram apresentadas contrarrazões ao recurso especial.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para condenar o Estado de Santa Catarina a ressarcir as despesas realizadas pelo INSS a título de antecipação de honorários periciais em ação acidentária julgada improcedente."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do Enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a esse ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Discute-se nos autos a responsabilidade pelo ressarcimento dos honorários periciais decorrentes de perícia médica realizada em demanda cujo litigante é beneficiário da assistência judiciária gratuita.
+A jurisprudência do STJ é no sentido de que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária gratuita ou de isenção legal, como no caso dos autos, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO ACIDENTÁRIA. HONORÁRIOS PERICIAIS. RESSARCIMENTO AO INSS. SUCUMBÊNCIA DE BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA/ISENÇÃO LEGAL. DEVER DO ESTADO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece ser ônus do Estado arcar com os honorários periciais quando houver sucumbência de beneficiário da assistência judiciária gratuita ou de isenção legal.
+2. Não há falar em ofensa aos princípios do contraditório e da ampla defesa, pois o Estado de Santa Catarina teve a oportunidade de discutir a questão perante o Juízo a quo e, em sendo dela intimado, interpôs agravo de instrumento.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.592.790/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/5/2017, DJe 23/6/2017.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. 1. PRAZO PRESCRICIONAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. 2. PAGAMENTO DE HONORÁRIOS PERICIAIS. BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA SUCUMBENTE. DEVER DO ESTADO. 3. SOBRESTAMENTO DO PROCESSO ATÉ O JULGAMENTO DO AG 1.364.269/PR PELA PRIMEIRA SEÇÃO. 4. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravo regimental não atacou o fundamento da decisão agravada referente à ausência de prequestionamento do tema "prescrição", o que atrai a incidência do óbice da Súmula 182/STJ.
+2. Conforme a recente e reiterada jurisprudência de ambas as Turmas que compõem a Primeira Seção do STJ, é dever do Estado arcar com o ônus do pagamento dos honorários periciais nos casos em que o beneficiário da assistência judiciária gratuita restar sucumbente. Precedentes: REsp 1358549/MG, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe 11/3/2013; EDcl no AgRg no REsp 1.327.281/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/11/2012; AgRg no REsp 1.327.290/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/10/2012; AgRg no AREsp 106.600/MG, Rel. Ministro Castro Meira, Segunda Turma, DJe 4/10/2012; AgRg no REsp 1.311.818/MG, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 5/9/2012; AgRg no REsp 1.327.281/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3/9/2012; REsp 1.328.323/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/8/2012; AgRg no REsp 1.281.405/MG, Rel. Ministro Cesar Asfor Rocha, Segunda Turma, DJe 7/3/2012.
+3. Não cabe falar em suspensão do processo até o julgamento do AgRg no AG 1.364.269/PR pela Primeira Seção, porque, em 6/9/12, a Primeira Turma acolheu Questão de Ordem para desafetar o julgamento do feito à Primeira Seção e julgou o agravo regimental consagrando tese oposta à ora defendida.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1333807/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 2/4/2013, DJe 5/4/2013.)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PARTE QUE LITIGA SOB O PÁLIO DA ASSISTÊNCIA JUDICIÁRIA. HONORÁRIOS PERICIAIS. PAGAMENTO PELO ENTE ESTATAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. As despesas pessoais e materiais necessárias para a realização da perícia estão protegidas pela isenção legal de que goza o beneficiário da gratuidade de justiça. Assim, como não se pode exigir do perito a realização do serviço gratuitamente, essa obrigação deve ser do sucumbente ou, no caso de ser o beneficiário, pelo Estado, a quem é conferida a obrigação de prestação de assistência judiciária aos necessitados. Precedentes.
+2. Agravo Regimental desprovido.
+(AgRg no Ag n. 1.223.520/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 14/9/2010, DJe 11/10/2010.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
