@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEÇAS OBRIGATÓRIAS. AUSÊNCIA. NÃO IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. INCIDÊNCIA DA SÚMULA 283/STF. REPRESENTAÇÃO PROCESSUAL DA MASSA FALIDA. AUSÊNCIA DO ATO DE NOMEAÇÃO DO ADMINISTRADOR JUDICIAL. FORMAÇÃO DEFICIENTE DO INSTRUMENTO. AGRAVO EM RECURSO ESPECIAL DA FAZENDA NACIONAL DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL, com fulcro na alínea a do art. 105, III da Constituição Federal, contra acórdão de lavra do TJSP, assim ementado:
+Agravo interno. Decisão monocrática do Relator que negou seguimento a agravo dc instrumento em processo falimentar, por ausência de peças obrigatórias, referentes à representação processual da parte agravada (Massa Falida) pelo Administrador Judicial e à intimação pessoal da agravante. Alegação do habilitante de crédito de ter reproduzido a totalidade das peças de sua habilitação. Irrelevância. Incidente processual no qual não necessariamente presentes todas as peças imprescindíveis ao agravo, a serem então buscadas nos próprios autos da falência. Decisão monocrática do art. 557, caput, do CPC, mantida. Agravo interno a que se nega provimento (fls. 133).
+2. Nas razões de seu Apelo Nobre inadmitido, aponta ofensa aos arts. 154 e 525, I do Código Buzaid, e sustenta, em suma, que a formação do instrumento foi regular, pois provada a representação processual da massa falida. Afirma ainda que entendimento diverso violaria o princípio da instrumentalidade das formas.
+3. Parecer do MPF às fls. 293/298.
+4. É o relatório.
+5. O Tribunal de origem negou seguimento ao Agravo de Instrumento da parte recorrente por ausência das seguintes peças obrigatórias: (i) representação processual da massa falida pelo Administrador Judicial; e (ii) certidão de intimação do ato recorrido.
+6. No entanto, verifica-se que a parte recorrente não impugnou o fundamento referente à ausência de certidão de intimação do ato recorrido. Assim, não havendo o debate a respeito de questão suficiente à manutenção do resultado do julgamento, incide, por analogia, o disposto na Súmula 283/STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+7. Ainda que assim não fosse, a jurisprudência deste Sodalício firmou entendimento no sentido de que o traslado da procuração ou do ato de nomeação do síndico da massa falida constitui peça essencial à formação do instrumento de agravo (AgRg no Ag 966.295/SP, Rel. Min. LUIZ FUX, DJe 20.10.2008). No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. ART. 544, § 1º, DO CPC. NÃO CONHECIMENTO.
+- Tratando-se a parte adversa de massa falida, deve o agravante apresentar, a fim de comprovar a regularidade da representação processual da agravada, cópia do ato de nomeação do síndico, circunstância não verificada na hipótese.
+- Agravo não provido (EDcl no Ag 1.368.105/PR, Rel. Min. NANCY ANDRIGHI, DJe 4.6.2013).
+
+PROCESSUAL CIVIL - AUSÊNCIA DE PEÇA OBRIGATÓRIA - CÓPIA DA PROCURAÇÃO OUTORGADA AO ADVOGADO DA AGRAVADA OU O ATO DE NOMEAÇÃO DO SÍNDICO DA MASSA FALIDA.
+1. A ausência de peça tida por obrigatória, indicada no artigo 544, § 1º, do Código de Processo Civil, leva ao não-conhecimento do agravo.
+2. In casu, não consta a procuração outorgada ao advogado da agravada, subscritor das contra-razões do recurso especial, e da contra-minuta do agravo. No presente caso, por ser a parte contrária massa falida, deveria a recorrente apresentar o ato de nomeação do síndico, bem como o termo de compromisso, que substituiria a procuração da agravada. Cumpre asseverar que a parte não cumpriu nenhuma das exigências.
+ Embargos de declaração acolhidos, sem efeitos modificativos, para negar provimento ao agravo regimental (EDcl no AgRg no Ag 678.821/SP, Rel. Min. HUMBERTO MARTINS, DJe 12.12.2008).
+8. Assim, ao que se dessume, o acórdão recorrido se alinhou com o entendimento consolidado deste STJ a respeito do tema, razão pela qual incide a Súmula 83/STJ, por analogia.
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da FAZENDA NACIONAL.
+10. Publique-se. Intimações necessárias.
