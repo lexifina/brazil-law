@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pela Quarta Turma Recursal do Juizado Especial Federal do Estado de Minas Gerais, assim ementado (Doc. 16):
+    “COMPETÊNCIA. SUBSEÇÃO E CAPITAL. CF, ART. 109, §2º. LEI 10.259/01. NEGATIVA DE ACESSO À JUSTIÇA E DE EXERCÍCIO DE FACULDADE CONSTITUCIONALMENTE ASSEGURADA. VIOLAÇÃO LITERAL DA JURISPRUDÊNCIA DO STF, SÚMULA 689. RECURSO DO AUTOR DESPROVIDO, COM A RESSALVA DO ENTENDIMENTO DO RELATOR. MATÉRIA CONSTITUCIONAL INTEGRALMENTE PREQUESTIONADA.”
+    No apelo extremo, com fundamento no art. 102, III, “a”, da Constituição Federal, alega-se violação ao art. 109, §§ 2º e 3º, da Carta Magna, bem como ao verbete da Súmula 689/STF. Aduz que, nos termos da Súmula em comento, “o segurado pode ajuizar ação contra a instituição previdenciária perante o Juízo Federal do seu domicílio ou nas Varas Federais da capital do Estado-Membro” (fl. 6, Doc. 23).
+    Em contrarrazões, o recorrido requer a manutenção do julgado (Doc. 25).
+    É o relatório. Decido.
+    Cuida-se de matéria eminentemente constitucional, devidamente prequestionada na instância de origem. Presentes todos os pressupostos recursais, passo à análise do mérito do apelo extremo.
+    Assiste razão ao recorrente.
+    No caso, o Tribunal de origem, com base na Lei 10.259/2001 e no Enunciado 24 do FONAJEF, manteve a sentença que extinguiu o processo sem julgamento do mérito por considerar a competência absoluta da Vara do Juizado Especial Federal do domicílio do autor para processar e julgar a ação, desconsiderando, todavia, a faculdade que o segurado tem de interpor ação no foro da capital do respectivo Estado.
+    Sobre a matéria, a jurisprudência do SUPREMO TRIBUNAL FEDERAL firmou-se no sentido de que o segurado pode optar pela propositura da Ação contra o Instituto Nacional do Seguro Social - INSS tanto no seu próprio domicílio quanto nas varas federais da capital do respectivo Estado. Esse é o entendimento consolidado na Súmula 689/STF (O segurado pode ajuizar ação contra a instituição previdenciária perante o juízo federal do seu domicílio ou nas varas federais da Capital do Estado-Membro)
+    No mesmo sentido, os seguintes precedentes:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. JUSTIÇA FEDERAL: COMPETÊNCIA. AÇÃO PREVIDENCIÁRIA. SEGURADO RESIDENTE NO INTERIOR ONDE HÁ VARA DA JUSTIÇA FEDERAL. I. - Pode o segurado, domiciliado no interior do Estado, onde há Vara da Justiça Federal, ajuizar ação previdenciária perante a Justiça Federal da Capital. II. - Precedentes do STF: RREE 284.516-RS, Moreira Alves, 1ª T.; 240.636-RS, Jobim, 2ª T.; 224.799-RS, 2ª T., Jobim; RE 287.351 (AgRg)-RS, M. Corrêa, Plenário; RE 293.246 (AgRg)-RS, Galvão, Plenário. III. - Agravo provido.” (RE 293.983-AgR, Rel. Min. CARLOS VELLOSO, Segunda Turma, DJ de 8/2/2002)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. BENEFICIÁRIO DA PREVIDÊNCIA SOCIAL. PROPOSITURA DE AÇÃO. FORO. Beneficiário da previdência social. Foro. Competência. Propositura de ação contra o Instituto Nacional do Seguro Social tanto no domicílio do segurado como no da Capital do Estado-membro. Faculdade que lhe foi conferida pelo artigo 109, § 3º, da Constituição Federal. Agravo regimental não provido.” (RE 298.276-AgR, Rel. Min. MAURÍCIO CORRÊA, Segunda Turma, DJ de 5/10/2001)
+    “Competência: ação proposta por beneficiário da previdência social contra o Instituto Nacional do Seguro Social: incidência da Súmula 689 ("O segurado pode ajuizar ação contra a instituição previdenciária perante o juízo federal do seu domicílio ou nas varas federais da capital do Estado-membro")” (RE 341.756-AgR, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJ de 1º/7/2005)
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, CONHEÇO DO AGRAVO E DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, na forma da fundamentação.
+    Publique-se.
+    Brasília, 7 de maio de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
