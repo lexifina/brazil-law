@@ -1,0 +1,71 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. AUSÊNCIA DE INTERESSE DE RECORRER. MULTA CUMULATIVA. PRESCRIÇÃO COM A PENA PRIVATIVA DE LIBERDADE. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRECEDENTES DO STJ. EMBARGOS REJEITADOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Reconhecida a prescrição da pretensão executória, fica prejudicada a impugnação acerca da multa cumulativa, porquanto prescreve juntamente com a pena privativa de liberdade, nos termos do art. 114, II, do CP.
+2. Não se caracteriza a alegada ofensa ao princípio da colegialidade o reconhecimento, pelo relator em decisão monocrática, de causa extintiva da punibilidade, sobretudo diante da possibilidade de impugnação via agravo regimental (AgRg no HC 459.152/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/10/2018, DJe 30/10/2018).
+3. Nos termos do art. 112, I, do Código Penal, o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+4. Transcorrido lapso temporal superior a 8 anos, desde o trânsito em julgado da sentença condenatória para o Ministério Público, sem que tenha sido iniciada a execução da pena, operou-se a prescrição da pretensão executória.
+5. Embargos de declaração de [NOME] rejeitados e agravo regimental do Ministério Público Federal improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração de [NOME] e negar provimento ao agravo regimental do Ministério Público Federal, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de embargos de declaração e de agravo regimental interpostos contra a decisão que indeferiu o pedido de prescrição da pretensão punitiva e concedeu habeas corpus, de ofício, para reconhecer a modalidade executória.
+Nos aclaratórios, alega [NOME] GONÇALVES omissão na decisão ante a não decretação da prescrição da pena de multa.
+No agravo regimental, O MINISTÉRIO PÚBLICO FEDERAL sustenta ofensa ao princípio da colegialidade e à não ocorrência da prescrição executória, sob a alegação de que o trânsito em julgado se dá para ambas as partes e não para a acusação.
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+Impugnações apresentadas.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão ou na decisão, ambiguidade, obscuridade, contradição ou omissão.
+A decisão recorrida foi proferida nos seguintes termos (fls. 1186-1188):
+Trata-se de petição formulada com o objetivo de reconhecer a prescrição da pretensão punitiva.
+Requer a extinção da punibilidade em razão da impossibilidade de aplicação da lei penal mais gravosa.
+É o relatório.
+Decido.
+O requerente foi condenado à pena definitiva de 2 anos, 7 meses e 6 dias de reclusão (fl. 880), como incurso no art. 168-A do CP.
+Nos termos do art. 109, IV, do CP, prescreve em 8 anos, quando a pena é superior a 2 e não excede 4 anos.
+No entanto, não conhecido do agravo em recurso especial, como ocorreu nos autos, a data do trânsito em julgado para a defesa retroagirá ao último dia de interposição do recurso especial na origem, conforme entendimento consolidado no EAREsp 386.266/SP, in verbis:
+PENAL E PROCESSUAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SUPERAÇÃO DA SÚMULA 315 DO STJ, EM CARÁTER EXCEPCIONAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. DECISÃO CONFIRMADA NO ÂMBITO DO STJ. FORMAÇÃO DA COISA JULGADA. MOMENTO. PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO.
+1. Nos termos da Questão de Ordem acolhida nestes autos, a Súmula 315 do Superior Tribunal de Justiça foi superada, em caráter excepcional, para se admitir o processamento dos embargos de divergência em agravo.
+2. Divergência estabelecida quanto à formação da coisa julgada quando o recurso especial é inadmitido na origem com posterior decisão do Superior Tribunal de Justiça confirmando essa inadmissibilidade.
+3. Consoante posicionamento do Supremo Tribunal Federal, especificamente no âmbito do processo penal, não é a interposição de recurso dentro do prazo legal que impede o trânsito em julgado da decisão judicial, mas sim a interposição de recurso cabível, pois o recurso só terá o poder de impedir a formação da coisa julgada se o mérito da decisão recorrida puder ser modificado.
+4. A decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica eminentemente declaratória, tendo em vista que apenas pronuncia algo que já ocorreu anteriormente  e não naquele momento  motivo pelo qual opera efeitos ex tunc. Assim, o trânsito em julgado retroagirá à data de escoamento do prazo para a interposição de recurso admissível.
+5. Recursos flagrantemente incabíveis não podem ser computados no prazo da prescrição da pretensão punitiva, sob pena de se premiar o réu com a impunidade, pois a procrastinação indefinida de recursos contribui para a prescrição.
+6. Conclusão que mais se coaduna com o princípio da duração razoável do processo, previsto no art. 5º, LXXVIII, da Carta Magna, erigido a direito fundamental, que tem por finalidade a efetiva prestação jurisdicional.
+7. O julgamento do agravo deve preceder à eventual declaração de prescrição da pretensão punitiva. Somente nas hipóteses em que o agravo não é conhecido por esta Corte (art. 544, § 4º, I, do CPC), o agravo é conhecido e desprovido (art. 544, §4º, II, "a") e o agravo é conhecido e o especial tem seu seguimento negado por ser manifestamente inadmissível (art. 544, § 4º, II, "b" - 1ª parte), pode-se afirmar que a coisa julgada retroagirá à data do escoamento do prazo para a interposição do recurso admissível. Nas demais hipóteses previstas no § 4º, II, do artigo em comento, o especial é considerado admissível, ainda que sem sucesso, não havendo que se falar em coisa julgada operada ainda no Tribunal de origem.
+8. Embargos de divergência acolhidos para reformar a decisão proferida no agravo, firmando o entendimento de que, inadmitido o recurso especial pelo Tribunal de origem, em decisão mantida pelo STJ, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível.
+9. Retorno dos autos à Sexta Turma para que decida o agravo interposto contra a decisão que inadmitiu o recurso especial, matéria prejudicial à verificação da ocorrência da prescrição da pretensão punitiva.
+(EAREsp 386.266/SP, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015.)
+Sendo assim, a data a ser considerada como último marco interruptivo, exclusivamente para fins de prescrição da pretensão punitiva, é de 15 dias após a publicação do acórdão que julgou a apelação, que foi publicado em 16/12/2013 (fl. 882) .
+Desse modo, não se constata o decurso do prazo prescricional de 8 anos entre a publicação da sentença condenatória em 9/12/2009 (fl. 563) e o transcurso do lapso temporal para interposição de recurso especial em janeiro de 2014, não se caracterizando, por consequência, a ocorrência da prescrição da pretensão punitiva.
+Por outro lado, nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+Considerando que o agravante foi condenado à pena de 2 anos, 7 meses e 6 dias de reclusão, evidencia-se que, nos termos do art. 109, IV, c/c art. 110, § 1º, ambos do CP, prescreve em 8 anos a pretensão executória, se o máximo da pena é superior a 2 e não excede a 4 anos.
+Assim, transcorrido lapso temporal superior a 8 anos, desde o trânsito em julgado da sentença condenatória para o Ministério Público, datado de 14/1/2010 (fl. 611), sem que tenha sido iniciada a execução da pena, fica configurada a prescrição da pretensão executória.
+Ante o exposto, indefiro o pedido de reconhecimento da prescrição da pretensão punitiva, contudo, concedo habeas corpus, de ofício, para reconhecer a prescrição da pretensão executória.
+Publique-se.
+Intimem-se.
+No tocante ao recurso de [NOME], reconhecida a prescrição executória, fica prejudicada a impugnação acerca da multa cumulativa, porquanto prescreve juntamente com a pena privativa de liberdade, nos termos do art. 114, II, do CP.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DECISÃO MONOCRÁTICA. SÚMULA N. 568/STJ. PRESCRIÇÃO. PENA DE MULTA. DÍVIDA DE VALOR. PRAZO DO ART. 114, II, DO CÓDIGO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema. Súmula n. 568 desta Corte.
+2. A pena de multa, embora constitua dívida de valor após o trânsito em julgado da condenação, nos termos do art. 51 do Código Penal, possui prazo prescricional próprio regido pelo art. 114, II, do referido diploma normativo, o qual determina que a prescrição da sanção pecuniária ocorre no mesmo prazo estabelecido para a prescrição da pena privativa de liberdade cumulativamente aplicada.
+3. Agravo regimental não provido. (AgRg no AREsp 1249344/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2018, DJe 09/08/2018).
+Quanto à irresignação do MINISTÉRIO PÚBLICO FEDERAL, ausente a apontada ofensa ao princípio da colegialidade, porquanto o julgamento monocrático encontra previsão no regimento interno e no CPC/2015, permitindo ao relator decretar a extinção da punibilidade. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DECISÃO MONOCRÁTICA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AFASTAMENTO. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRAZO PRESCRICIONAL COM FULCRO NA PENA APLICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade o reconhecimento, pelo relator em decisão monocrática, de causa extintiva da punibilidade, sobretudo diante da possibilidade de impugnação via agravo regimental. Precedentes.
+2. A decisão impugnada foi clara ao demonstrar que houve o trânsito em julgado do acórdão condenatório para o Ministério Público, de modo que, conforme o disposto no art. 110, § 1º, parte inicial, do Código Penal, o cálculo da prescrição é baseado na pena definitivamente aplicada.
+3. Decorridos mais de 8 anos entre o recebimento da denúncia (4/8/2009) e a publicação do acórdão condenatório (9/11/2017), deve ser mantido o reconhecimento da causa extintiva da punibilidade.
+4. Agravo regimental não provido. (AgRg no HC 459.152/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/10/2018, DJe 30/10/2018).
+Ademais, é firme a jurisprudência desta Corte no sentido de que, com a interposição de agravo regimental, torna-se superada a alegada nulidade, tendo em vista que se devolve a matéria recursal ao órgão julgador competente. A esse respeito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ART. 387, IV, DO CPP. REPARAÇÃO CIVIL. DANOS MORAIS. POSSIBILIDADE. TESE FIRMADA NO RESP N. 1.643.051/MS, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. PEDIDO EXPRESSO DA ACUSAÇÃO NA DENÚNCIA. EXISTÊNCIA. INSTRUÇÃO PROBATÓRIA ESPECÍFICA. DESNECESSIDADE. PRECEDENTES.
+1. Não ocorre violação ao princípio da colegialidade, a teor do art. 34, XVIII, c, do RISTJ, e da Súmula 568/STJ, quando a decisão monocrática for proferida com base na jurisprudência dominante deste Superior Tribunal.
+ .. .
+3. Agravo regimental improvido. (AgRg no REsp 1691763/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ALEGAÇÃO DE QUE O PRINCÍPIO DA CONSUNÇÃO NÃO FOI OBJETO DA TESE DEFENSIVA PERANTE AS INSTÂNCIAS ORDINÁRIAS. INOVAÇÃO RECURSAL. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO CONTRA A MESMA VÍTIMA. INTERVALO DE TEMPO. CONDUTAS QUE SE INSEREM NA MESMA LINHA DE DESDOBRAMENTO CAUSAL. AUSÊNCIA DE DESÍGNIO AUTÔNOMO. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. PRECEDENTE. SÚMULA 568/STJ. RECURSO IMPROVIDO.
+1. A prolação de decisão monocrática pelo Ministro Relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao Colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+ .. .
+5. Agravo regimental improvido. (AgRg no AREsp 1311360/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+Consonante a jurisprudência consolidada desta Corte Superior, de acordo com a literalidade do artigo 112, inciso I, do Código Penal, o termo inicial da contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação (AgRg no RCD na PET no HC 449.842/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/10/2018, DJe 10/10/2018).
+Sendo assim, prevalecendo a interpretação mais favorável ao réu e decorrido o prazo de 8 anos desde o trânsito em julgado para o Parquet, sem a demonstração do início do cumprimento da pena, fica configurada a perda da pretensão executória das penas privativa de liberdade e de multa.
+Ante o exposto, voto por rejeitar os embargos de declaração de [NOME] e por negar provimento ao agravo regimental do MINISTÉRIO PÚBLICO FEDERAL.
