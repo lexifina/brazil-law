@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Alagoas, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE REVISÃO DE CÁLCULOS DE URV. SERVIDORES DO PODER EXECUTIVO. SENTENÇA QUE JULGOU IMPROCEDENTE A PRETENSÃO AUTORAL COM BASE NA PRESCRIÇÃO. TESE DA AUSÊNCIA DE RECOMPOSIÇÃO OU ABSORÇÃO DAS PERDAS DA URV EM FACE DA REESTRUTURAÇÃO DA CARREIRA. ALEGAÇÃO DE DIVERGÊNCIA ENTRE A DECISÃO PROFERIDA PELO JUÍZO DE ORIGEM E O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL NO RE 561.836-RN. PRESCRIÇÃO DO FUNDO DE DIREITO. EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO.” (eDOC 15, p. 22)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II; 7º, VI; 37, caput e XV; 39, § 3º; e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que, por se tratar de obrigação de trato sucessivo, não se operaria a prescrição do fundo de direito. (eDOC 16, p. 8)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Municipal 547/2005) e o conjunto probatório constante dos autos, consignou prescrito o pleito dos recorrentes, porquanto o marco inicial da contagem do prazo prescricional seria a partir da aprovação do novo Plano de Cargos e Carreiras da Rede Pública Municipal e teria atingido todo o seu direito no prazo de cinco anos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso vertente, com a edição da Lei Municipal n° 547/2005, que entrou em vigor em 06/10/2005 e instituiu o novo plano de cargos e carreiras da rede pública municipal, estabelecendo novos padrões remuneratórios, tem-se que o direito da URV deixou de existir em face da incorporação dos 11,98% (ou do índice correspondente), razão por que o termo a quo para buscar as diferenças devidas até a referida modificação, passou a ser a data de vigência da lei que reestruturou a remuneração da sua carreira, operando-se, a partir do transcurso do prazo, a prescrição do próprio fundo de direito.” (eDOC 15, p. 27)
+    Esta Corte já assentou ser infraconstitucional a questão relativa à verificação da ocorrência de prescrição. Assim, a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Nesse sentido, destaco os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PRESCRIÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR – URV. LEI N. 8.088/1994. RE 561.836-RG. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 891.568 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 30.9.2015)
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAIS CIVIS DO ESTADO DO ESPÍRITO SANTO. CONVERSÃO. URV. LEI ESTADUAL QUE REESTRUTUROU A CARREIRA. SÚMULAS 279 E 284/STF. DESCABIMENTO.” (RE 547.322 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.10.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 7, p. 11), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita. .
+    Publique-se.
+    Brasília, 7 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
