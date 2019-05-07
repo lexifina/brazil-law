@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (fl. 23):
+1. Apelação Criminal - Tentativa de roubo qualificado (concurso de agentes) em via pública.
+2. Recurso defensivo buscando a absolvição - Não acolhimento - Prova suficiente para demonstrar a materialidade (não impugnada) e a autoria do delito - Decisão de primeiro grau ratificada por seus próprios fundamentos, nos termos do artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo.
+3. Regime fechado adequado à espécie.
+4. Recurso desprovido.
+Consta dos autos que o paciente foi condenado às penas de 2 anos e 26 dias de reclusão, em regime inicial fechado, e de 4 dias-multa, como incurso no art. 157, § 2º, II, c/c art. 14, II, ambos do Código Penal.
+Irresignada, a defesa interpôs apelação, que foi improvida pelo Tribunal de Justiça.
+Daí o presente writ, em que a impetrante sustenta, em síntese, que o paciente faz jus ao regime semiaberto, à luz da Súmula 269/STJ, pois, embora reincidente, foi condenado a pena inferior a 4 anos. Acrescenta que, como já cumpriu mais de 1/6 da pena em prisão provisória, o regime que deve ser fixado é o aberto.
+Requer a fixação do regime inicial semiaberto e, sustentando que o paciente já cumpriu mais de 1/6 da pena em razão de prisão provisória, postula a concessão do regime aberto.
+Sem pedido liminar.
+O Ministério Público Federal opinou pelo não conhecimento do mandamus ou, caso conhecido, pela denegação da ordem (fls. 37-40).
+É o relatório.
+DECIDO.
+Alega a impetrante que o quantum de pena aplicada ao paciente, embora reincidente, autoriza a imposição de regime inicial de cumprimento da pena menos gravoso, à luz da Súmula 269/STJ. Aduz que o paciente já cumpriu mais de 1/6 da pena em prisão provisória, postulando, assim, a concessão do regime aberto.
+Sobre o regime inicial de cumprimento da reprimenda, consta do acórdão em sede de apelação (fls. 30-31):
+E, na espécie, o regime fechado é o que melhor responde às circunstâncias do crime, personalidade e periculosidade revelada pelo acusado (com efeito, o réu Guilherme, criminoso reincidente específico, demonstrou destemor às leis e acentuada ousadia ao associar-se ao comparsa para juntos praticarem roubo de significativo valor, à luz do dia, contra vítima que fazia entrega em via pública). Mais, não deu mostra de arrependimento, pois sequer reconheceu o erro, e ainda cometeu o crime descrito nestes autos pouco tempo após ter sido beneficiado com a concessão do regime aberto em razão de anterior condenação por roubo - fls. 148 o que demonstra não estar preparado para regime prisional de semiliberdade).
+Em síntese, o regime fechado não foi estabelecido à vista da gravidade abstrata do roubo, mas à vista das características específicas do roubo perpetrado pelo réu e de sua personalidade.
+E as súmulas nº 718 (A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para imposição de regime mais severo do que o permitido segundo a pena aplicada) e nº 719 (a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea) do Supremo Tribunal Federal apenas confirmam a vigência do parágrafo segundo do artigo 33 do Código Penal, na medida em que impõem motivação para a fixação de regime prisional mais severo do que o quantum da pena aplicada permitida.
+Observa-se que a Corte local manteve o regime prisional fechado fixado na sentença, em razão das circunstâncias desfavoráveis do crime, in verbis: o réu Guilherme, criminoso reincidente específico, demonstrou destemor às leis e acentuada ousadia ao associar-se ao comparsa para juntos praticarem roubo de significativo valor, à luz do dia, contra vítima que fazia entrega em via pública). Mais, não deu mostra de arrependimento, pois sequer reconheceu o erro, e ainda cometeu o crime descrito nestes autos pouco tempo após ter sido beneficiado com a concessão do regime aberto em razão de anterior condenação por roubo - fls. 148 o que demonstra não estar preparado para regime prisional de semiliberdade (fl. 30).
+Esta Corte Superior entende ser admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 anos, se favoráveis as circunstâncias judiciais, conforme enunciado sumular n. 269/STJ.
+No caso, todavia, deve ser mantido o regime inicial fechado, já que, embora fixada pena inferior a quatro anos, existem circunstâncias desfavoráveis - reincidência específica, periculosidade e personalidade voltada para o crime, não preenchidos, portanto, os requisitos acima expostos. Sobre o tema, confiram-se os seguintes precedentes de ambas as turmas criminais desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. PLEITO DE ABRANDAMENTO DO REGIME CARCERÁRIO. ALEGAÇÃO DE QUE O RÉU NÃO É REINCIDENTE. SUPOSTO ERRO NA APRECIAÇÃO DAS DATAS DE TRÂNSITO EM JULGADO.
+I - As condenações por fatos anteriores ao apurado na ação penal em destaque, ainda que com trânsito em julgado posterior, não servem, à toda evidência, para caracterizar a agravante da reincidência, podendo, contudo, fundamentar a exasperação da pena-base como maus antecedentes.
+II - A valoração negativa da circunstância judicial dos maus antecedentes somada à reincidência, afasta a incidência do enunciado nº 269 da Súmula do Superior Tribunal de Justiça, que declara que "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" Agravo regimental desprovido. (AgRg nos EDcl no AREsp 1295089/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/08/2018, DJe 17/08/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. MULTIRREINCIDÊNCIA ESPECÍFICA. REGIME INICIAL ABERTO. REINCIDÊNCIA E MAUS ANTECEDENTES. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias destacaram, além da reincidência específica em crimes patrimoniais, os maus antecedentes ostentados pelo réu, o que, nos termos da jurisprudência desta Corte Superior, é suficiente para obstar a incidência do princípio da insignificância.
+2. A despeito do quantum de pena definitivamente imposta ao réu, a reincidência e os maus antecedentes justificam a fixação do modo fechado para o início do seu cumprimento. Súmula n. 269 do STJ.
+3. Agravo regimental não provido.
+(AgRg no HC 439.368/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018)
+Portanto, nessa parte, não há ilegalidade a ser sanada, pois o acórdão está em total conformidade com a jurisprudência deste Superior Tribunal de Justiça.
+Ademais, verifica-se que o pedido de concessão do regime inicial aberto, considerada eventual detração do período em que o paciente esteve em prisão provisória, nos termos do art. 387, § 2º, do CPP, não foi apreciada pelo Tribunal a quo.
+Na hipótese em exame, não se pode subtrair das instâncias ordinárias a verificação quanto à existência de ilegalidade flagrante, caso em que deverão conceder habeas corpus de ofício.
+Dessa forma, torna-se inviável a análise da matéria diretamente por esta Corte Superior, porquanto o tema ainda não foi debatido na origem, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC 241.834/BA, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 08/04/2014, DJe 24/04/2014; HC 271.024/SP, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 24/04/2014, DJe 05/05/2014. Assim, no ponto, não se conhece do writ.
+Ante o exposto, denego o habeas corpus.
+Comunique-se.
+Publique-se.
+Intimem-se.
