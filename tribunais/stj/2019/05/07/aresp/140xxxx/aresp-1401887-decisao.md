@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo, desafiando decisão que inadmitiu recurso especial, este com fundamento nas alíneas "a" e "c" do permissivo constitucional, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL COMPROMISSO DE COMPRA E VENDA Ação de rescisão contratual Desistência dos compra dores Contrato abusivo, que previa retenção excessiva Retenção de 10% das quantias pagas que bem remunera as despesas com administração e propaganda da vendedora, já que sequer houve transferência da posse do imóvel Pretensão de retenção de arras Impossibilidade Ausência de previsão legal - Juros de mora Incidência a partir da publicação deste acórdão, quando será possível a execução provisória da sentença Recurso provido em parte." (e-STJ, fl.240)
+A parte agravante, em suas razões recursais alega, além de dissídio jurisprudencial, violação aos arts. 104, 110, 418, 421 e 422, do CC, sustentando, em síntese, que: a) a insuficiência do percentual de 10% de retenção estabelecido para reparar os prejuízos sofridos pela recorrente no caso de rescisão contratual por inadimplemento do comprador; b) "deveriam ser deduzidos, além dos gastos que a construtora teve com a venda da unidade, o valor pago a título de sinal, uma vez que referida penalidade está prevista no artigo 418 do Código Civil" (e-STJ, fl. 259);
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, considerando que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplica-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Por seu turno, ao apontar violação aos arts. 104, 110, 421 e 422, do CC, sustenta a sociedade empresária recorrente que o contrato entre as partes deve ser respeitado, devendo a retenção fixada na Cláusula 33 do contrato ser devidamente cumprida. O TJ-SP, que manteve a sentença, nesse ponto, por sua vez, soberano na análise do acervo fático-probatório, consignou que, considerando as particularidades do contrato firmado, o percentual de 25% de retenção é abusivo, devendo ser, de modo justo, ajustado para 10% das prestações quitadas. Confira-se excerto do v. acórdão recorrido:
+"6. Como cediço, o compromissário comprador pode, a qualquer tempo, pleitear a rescisão contratual, sujeitando-se, se arrependido, à retenção de valores destinados à "compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem" (Súmula 1 deste E. TJSP).
+7. Justamente por este motivo, não se pode admitir o estabelecimento de um percentual fixo e predeterminado de retenção, conforme pretende a apelante, pois este não levará em consideração a variante do valor efetivamente pago pelo consumidor. Por certo, 50% de, por exemplo, R$ 100,00, nunca serão suficientes para compensar aqueles gastos; no entanto, 50% de R$ 200.000,00 em muito os superam, configurando-se a sua retenção, nesta última hipótese, como iníqua e abusiva, colocando o consumidor em exagerada desvantagem.
+8. E à mingua de demonstração em contrário, tem-se que o percentual determinado em sentença bem remunera a vendedora por aquelas despesas, tendo em vista que o imóvel poderá ser comercializado com terceiro.". (e-STJ, fls. 242/243)
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem, ao analisar as peculiaridades do caso concreto, concluiu pela abusividade da cláusula contratual prevendo a retenção até 35% dos valores pagos, de modo que, obedecendo a boa-fé contratual, a retenção deveria ser fixada em 10% sobre os valores pagos.
+A iterativa jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das pretensões pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados. Nessa linha de intelecção, seguem os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+ ..
+2. A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados.
+Desse modo, a discussão acerca do percentual de retenção, no caso, pressupõe o reexame dos fatos da causa, bem como das cláusulas do respectivo contrato, o que encontra obstáculo nos enunciados 5 e 7 da Súmula do STJ.
+ ..
+4. Agravo interno desprovido."
+(AgInt no AREsp 1200273/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/06/2018, DJe 26/06/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. PARCELAS PAGAS. RETENÇÃO PARCIAL. CABIMENTO. PERCENTUAL RETIDO. ALTERAÇÃO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados" (AgInt no AREsp n. 725.986/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/6/2017, DJe 29/6/2017).
+ ..
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp 1692346/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 26/04/2018 - grifou-se)
+Dessa forma, o patamar fixado em 10% para retenção do valor pago, observando as peculiaridades do caso concreto, está em consonância com o entendimento desta Corte, o que acarreta o óbice da Súmula de n. 83 do STJ.
+Por fim, o Tribunal a quo, com base nos fatos e provas dos autos, entendeu que para que fosse possível a aplicação do art. 418, do CC seria necessária a expressa previsão de arras enquanto cláusula de arrependimento, consignando:
+"5. Inicialmente, rejeita-se a inovadora alegação de que determinados valores pagos pelos apelados o foram a título de arras/sinal, posto que, para que fosse possível a aplicação do artigo 418 do Código Civil seria necessária a previsão expressa de arras enquanto cláusula de arrependido " (e-STJ, fl. 241)
+Ocorre que a parte recorrente não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUALCIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DADIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o
+não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso
+especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3. A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/10/2014, DJe 29/10/2014)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
