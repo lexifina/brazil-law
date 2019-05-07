@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE DESEMBARGADOR RELATOR QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. SUPERVENIÊNCIA DO JULGAMENTO DE MÉRITO NA CORTE DE ORIGEM. PEDIDO DE HABEAS CORPUS JULGADO PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SÉRGIO PEREIRA DA SILVA contra decisão de desembargador do Tribunal de Justiça do Estado de São Paulo que indeferiu a liminar no HC n.º 0002999-62.2019.8.26.0000.
+Consta dos autos que o Paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, e pagamento 583 (quinhentos e oitenta e três) dias-multa. Foi-lhe negado o direito de recorrer em liberdade nestes termos (fl. 23):
+"Denego aos acusados o direito de apelarem em liberdade. Eles permaneceram presos durante a instrução em razão de prisão em flagrante convertida em preventiva, pois concorrentes os motivos ensejadores da prisão preventiva. De fato, o delito de tráfico possui grande perniciosidade social, o qual está sempre associado a uma organização criminosa, em maior ou menor grau de proximidade, e com desdobramentos em outros crimes. Assim, a custódia cautelar dos réus é necessária para a garantia da ordem pública. Aliás, se antes do julgamento de mérito que considerou os acusados culpados estavam cautelarmente recolhidos, com mais lógica assim devem permanecer após a condenação - TJSP. MS 113.332-3, Rel. Reynaldo Ayrosa. Ademais, há risco concreto de reiteração delitiva, considerando a reincidência de ambos os réus."
+Irresignada com a negativa do apelo em liberdade, a Defesa impetrou o habeas corpus originário. O relator indeferiu a liminar (fl. 16).
+No presente writ, requer a Defensoria Pública, liminarmente e no mérito, que o Paciente possa recorrer em liberdade.
+O pedido liminar foi indeferido pela Presidência desta Corte, durante o recesso forense, nos termos da decisão de fls. 31-32.
+As judiciosas informações foram prestadas às fls. 37-54, com a juntada de peças processuais pertinentes à instrução do feito.
+O Ministério Público Federal manifestou-se às fls. 56-59, opinando pelo não conhecimento do writ.
+É o relatório. Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de Justiça do Estado de São Paulo, a decisão do Desembargador Relator, ora impugnada, foi substituída pelo acórdão proferido pelo Colegiado no dia 03/04/2019, que denegou a ordem.
+Assim sendo, fica superada a análise das teses constantes da presente impetração, que se insurgia contra o indeferimento do pedido liminar na origem, conforme jurisprudência desta Corte:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECUSO ESPECIAL. NÃO CABIMENTO. SUPERAÇÃO DO ÓBICE IMPOSTO PELO ENUNCIADO DA SÚMULA N. 691 DO STF. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. MÉRITO DO WRIT ORIGINÁRIO JULGADO NA ORIGEM. PREJUDICIALIDADE. PERDA DE OBJETO. HABEAS CORPUS PREJUDICADO.
+ ..
+IV - Segundo informações obtidas no sítio eletrônico do eg. do Tribunal de origem, verifica-se que sobreveio julgamento definitivo do habeas corpus originário em 08/03/2018. Desse modo, forçoso reconhecer a prejudicialidade do presente mandamus, tendo em vista a perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática que indeferiu a medida liminar, restaram superados com o julgamento definitivo do writ na origem.
+Habeas Corpus prejudicado." (HC 433.833/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/04/2018, DJe 30/04/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR POR DESEMBARGADOR. EXTINÇÃO SUPERVENIENTE DO HABEAS CORPUS SEM EXAME DE MÉRITO. DECISÃO TERMINATIVA QUE DESAFIA INSTRUMENTO PRÓPRIO. AGRAVO REGIMENTAL E HABEAS CORPUS PREJUDICADOS.
+1. Se a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n.691 do STF. O novo ato coator desafia impugnação própria.
+2. Além de não subsistir a decisão de indeferimento da liminar, atualmente não persiste a prisão preventiva do paciente por força de direito de extensão reconhecido por Ministro do Supremo Tribunal Federal. Assim, não há falar em periculum in mora apto a autorizar a intervenção de urgência deste Superior Tribunal, fora de sua competência constitucional, para análise per saltum de legalidade de ato de Juiz de primeiro grau.
+3. Agravo regimental e habeas corpus prejudicados." (AgRg no HC 447.377/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 28/08/2018; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
