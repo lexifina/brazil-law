@@ -1,0 +1,29 @@
+Decisão: Trata-se de habeas corpus impetrado em face de acórdão proferido no AgRg no HC 485.184/SP, no âmbito do Superior Tribunal de Justiça, assim ementado (eDOC 4):
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO QUANTO À DATA DO JULGAMENTO DA APELAÇÃO. PROFISSIONAL QUE FOI CIENTIFICADO DO ACÓRDÃO. NÃO IMPUGNAÇÃO DA INOBSERVÂNCIA DA ALUDIDA FORMALIDADE. MÁCULA SUSCITADA POR OUTRO PROFISSIONAL MAIS DE 18 (DEZOITO) ANOS APÓS A PROLAÇÃO DO ARESTO QUE SE PRETENDE ANULAR. PRECLUSÃO. COAÇÃO ILEGAL INEXISTENTE. DESPROVIMENTO DA INSURGÊNCIA.
+    1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+    2. A despeito de acarretar nulidade, por cerceamento de defesa, a ausência de intimação pessoal do defensor dativo para a sessão de julgamento do recurso de apelação, há hipóteses peculiares em que a preclusão se torna óbice ao reconhecimento da eiva articulada. Precedentes.
+    3. Na espécie, não obstante não haja nos autos quaisquer peças processuais que evidenciem que o defensor dativo não foi pessoalmente intimado para a sessão de julgamento, ainda que tal formalidade efetivamente não tenha sido implementada, o certo é que o referido causídico foi devidamente cientificado do acórdão proferido na apelação, não arguindo, em momento algum, a mácula em questão, que só veio a ser suscitada no ano de 2018, quando da impetração deste mandamus, isto é, mais de 18 (dezoito) anos após a prolação do aresto que se pretende anular, o que importa no reconhecimento da preclusão. Doutrina. Precedentes.
+    4. Agravo regimental desprovido.”
+    Narra o impetrante, em síntese, que: a) o paciente, após ter sido absolvido em primeiro grau de jurisdição, foi condenado em sede de apelação, pela prática do delito previsto no art. 157, § 3º, última parte, do Código Penal, à pena de 20 (vinte) anos de reclusão; b) o defensor dativo atuante à época não foi intimado para a sessão de julgamento da apelação, o que gerou nulidade por força dos princípios do contraditório, da ampla defesa e do devido processo legal.
+    À vista do exposto, pugna pela cassação do acórdão condenatório em face da ocorrência de nulidade insanável.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    O sistema de recursos e meios de impugnação previsto na Constituição Federal, lida enquanto regra de distribuição de competências, tem uma razão de ser. Até então, acompanhando entendimento fixado na Primeira Turma, sustentei que não há como se admitir habeas corpus impetrado em substituição a instrumento recursal constitucionalmente previsto, como é o recurso ordinário. Nesse sentido:
+    “A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal.” (HC 128.617 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 04.08.2015, grifei).
+    Contudo, a Segunda Turma desta Corte uniformizou posicionamento para admitir writ substitutivo de recurso ordinário constitucional. Nessa esteira:
+    “A Segunda Turma do Supremo Tribunal Federal admite a impetração de habeas corpus em substituição ao recurso ordinário constitucional (art. 102, II, a, da Constituição Federal).” (HC 122.268, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 24.03.2015, grifei).
+    Outrossim, o Tribunal Pleno, por maioria, assentou a admissibilidade de impetração originária substitutiva de recurso ordinário constitucional no âmbito desta Suprema Corte (HC 152.752, de minha relatoria, julgado em 04.04.2018).
+    Sendo assim, ressalvado posicionamento pessoal sobre a matéria, em observância ao princípio da colegialidade, admito o habeas corpus.
+    2. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    O impetrante alega a existência de nulidade insanável no feito originário, em razão da ausência de intimação do defensor dativo para a sessão de julgamento da apelação, em que teria sido revertida a absolvição do paciente. Contudo, não acostou aos autos documento indispensável para aferição da ilegalidade.
+    Com efeito, olvidou-se de instruir o feito com cópia integral do ato coator vergastado (acórdão exarado pelo STJ), ato jurisdicional indispensáveis à compreensão da matéria.
+    Assim, a instrução deficitária inviabiliza a análise do constrangimento ilegal invocado pelo impetrante e a concessão da ordem pleiteada.
+    Acrescente-se que, consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434/SP, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 02.10.09). Na mesma linha: HC 130.240 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 24.11.2015 e HC 131.202 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 03.03.2016.
+    Na mesma linha, é consolidado nesta Corte o entendimento acerca da impossibilidade de emenda à impetração, haja vista que o habeas corpus, “instrumento destinado à proteção de direito líquido e certo, demonstrável de plano, que não admite dilação probatória” (HC 103.606, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 21.09.2010).
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem.
+    3. Diante do exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 7 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
