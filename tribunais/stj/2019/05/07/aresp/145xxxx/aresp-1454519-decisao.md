@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] em desafio a decisão que inadmitiu recurso especial, este manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 340):
+"APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA POR DANOS MORAIS - RESPONSABILIDADE CIVIL DE ADVOGADO POR SUPOSTA INSERÇÃO DE EXPRESSÕES OFENSIVAS EM PEÇAS PROCESSUAIS - SENTENÇA DE IMPROCEDÊNCIA - INCONFORMISMO - IMUNIDADE PROFISSIONAL - EXCESSO NÃO CONFIGURADO - PROFISSIONAL ADVOGADO QUE GOZA DE INVIOLABILIDADE, NOS TERMOS DO ARTIGO 133, DA CONSTITUIÇÃO FEDERAL - O ADVOGADO É INDISPENSÁVEL À ADMINISTRAÇÃO DA JUSTIÇA, SENDO INVIOLÁVEL POR SEUS ATOS E MANIFESTAÇÕES NO EXERCÍCIO DA PROFISSÃO, NOS LIMITES DA LEI - AUSÊNCIA DE VIOLAÇÃO AO ESTATUTO DA ADVOCACIA - DANO MORAL NÃO CONFIGURADO - MANUTENÇÃO DA SENTENÇA.
+NEGA-SE PROVIMENTO AO RECURSO."
+Em suas razões, a recorrente aponta violação dos arts. 187 e 927 do Código Civil e 7º, § 2º, da Lei 8.906/1994, além de dissídio jurisprudencial.
+Sustenta, em síntese, a caracterização de danos morais indenizáveis, tendo em vista o uso de expressões ofensivas em petições subscritas pelo ora recorrido.
+Alega que "a imunidade judiciária não é absoluta, cabendo ao advogado pautar sua atuação em diretrizes eminentemente técnicas e objetivas, sem desbordar o senso de urbanidade e cortesia, sob pena de eventual responsabilização civil decorrente do abuso" (e-STJ, fls. 410/411).
+É o relatório. Decido.
+Consoante a jurisprudência desta Corte, "a imunidade profissional, garantida ao advogado pelo Estatuto da Advocacia, não é de caráter absoluto, não tolerando excessos cometidos pelo profissional em afronta à honra de quaisquer das partes envolvidas no processo, seja o juiz, a parte, o membro do Ministério Público, o serventuário ou o advogado da parte contrária" (REsp 1.022.103/RN, Relatora a Ministra Nancy Andrighi, DJe de 16/5/2008)
+No caso, o Tribunal de origem manteve a sentença que julgou improcedente a ação de indenização ajuizada pelo recorrente e afastou a caracterização do dano moral, por entender que as expressões reputadas como ofensivas decorreram do estrito exercício da atividade advocatícia do recorrido, nos seguintes termos (e-STJ, fls. 344/345):
+"Assim, a inviolabilidade do advogado, prevista no art. 133 da Constituição Federal, não é absoluta, visto que pressupõe o exercício regular e legítimo de sua atividade profissional, que se revela incompatível com práticas abusivas ou atentatórias à dignidade da profissão ou às normas ético-jurídicas que lhe regem o exercício.
+Contudo, na espécie que se apresenta, constata-se que as expressões reputadas pelo recorrente como ofensivas decorreram do estrito exercício da atividade advocatícia pelo apelado, uma vez que as passagens transcritas na inicial e reproduzidas nas razões de apelação guardam nexo de causalidade e de pertinência com o objeto da discussão travada nos processos judiciais em que proferidas as supostas ofensas.
+ ..
+Assim, ainda que algumas expressões utilizadas pelo recorrido possam ser entendidas como desnecessárias, penso que elas ficaram adstritas aos limites da lei, dos fatos, e da discussão da causa, não transbordando a imunidade material, como prerrogativa profissional do advogado."
+Como se observa, a Corte local concluiu que, apesar de algumas das expressões utilizadas pelo recorrido possam ser entendidas como desnecessárias, não extrapolaram os limites do exercício da advocacia e, portanto, não ensejaram qualquer caracterização de ofensa à direito da personalidade, de modo que é inviável a alteração dessa conclusão, diante do óbice da Súmula 7/STJ.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - IMUNIDADE RELATIVA DO ADVOGADO - REEXAME DE PROVAS - ÓBICE DA SÚMULA n. 7 DO STJ.
+1. A conclusão a que chegou o Tribunal local - acerca da ocorrência do dano moral - decorreu da análise das provas, cuja revisão é vedada, em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+2. A imunidade do advogado, prevista no art. 7º, § 2º, da Lei n. 8.906/94, é relativa não abrangendo excessos desnecessários ao debate da causa. Precedentes do STJ.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 201.067/SP, Relator o Ministro Marco Buzzi, DJe de 4/10/2013)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.050,00 (mil e cinquenta reais) para R$ 1.155,00 (mil, cento e cinquenta e cinco reais).
+Publique-se.
