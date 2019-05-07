@@ -1,0 +1,32 @@
+Trata-se de reclamação com pedido de liminar proposta pelo Município de Campo Maior/PI com fundamento no art. 988, II, do Código de Processo Civil, em razão de suposto desrespeito à autoridade da decisão proferida no julgamento da Ação Direta de Inconstitucionalidade 3.395/DF.
+    A reclamante alega, em síntese, que
+    “[a] parte reclamada apresentou Contestação, aduzindo, em resumo, preliminarmente, a incompetência da Justiça do Trabalho, visto que trata-se de servidor em regime estatutário e, no mérito discorreu sobre a vinculação da Administração Pública ao princípio da Legalidade.
+    O processo ainda não fora sentenciado, entretanto o Nobres Magistrados do TRT 22, insistem em reafirmar a sua competência para julgar causas envolvendo servidores públicos em regime estatutário, e dão seguimento ao feito o que prejudica a Municipalidade que tem o princípio processual do juiz natural violado.
+    […]
+    Desta feita, há uma vasta jurisprudência na corte brasileira que determina que, as causas entre o poder público e seus servidores são lides de matéria de Direito Administrativo e não Trabalhista, sendo o juízo trabalhista incompetente para dirimir tal conflito, como ocorre no caso em comento!!
+    Ademais, cumpre-se mencionar que constantemente os Magistrados Trabalhista do TRT-22, descumprem decisão proferida pelo Supremo Tribunal Federal e, declaram-se competente para julgar pedidos como o do caso em comento o que vem prejudicando o ente Municipal que não tem respeitado o princípio constitucional do juiz natural” (págs. 2 e 11 do documento eletrônico 1).
+    Requer, ao final
+    “a) LIMINARMENTE, a teor da argumentação supra e dos documentos apresentados, comprovada a ofensa à autoridade da decisão deste STF, que seja suspenso o curso da Reclamação Trabalhista nº 0001696-95.2018.5.22.0004, que tramita na Vara Federal do Trabalho de Teresina/PI, E QUE AINDA NÃO TRANSITOU EM JULGADO, até o julgamento definitivo da presente Reclamação;
+    [...]
+    e) Ao final, que seja julgada PROCEDENTE a presente Reclamação, confirmando-se a liminar, de modo a decretar a extinção do referido processo - Reclamação Trabalhista nº 001696-95.2018.5.22.004, conforme disposto no artigo 161, III do Regimento Interno do STF, em obediência a autoridade da decisão proferida por esta Corte, ao deferir liminar na ADI 3395” (págs. 12-13 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida.
+    Inicialmente, deixo de requisitar informações e enviar o feito à Procuradora-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único; e 161, parágrafo único, ambos do RISTF).
+    Destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil de 2015.
+    Ademais, conforme entendimento desta Corte, a admissibilidade da reclamação pressupõe a existência de um ato concreto que se enquadre em uma das hipóteses de cabimento acima mencionadas, não se admitindo o uso da reclamação constitucional com caráter preventivo. Nesse sentido:
+    “EMENTA Agravo regimental na reclamação. Afronta ao enunciado da Súmula Vinculante nº 56 e ao que decidido pela Corte na ADPF nº 347-MC/DF. Caráter preventivo. Impossibilidade. Precedentes. Agravo regimental ao qual se nega provimento. Remessa de cópia dos autos ao Conselho Nacional de Justiça para providências que julgar pertinentes.
+    1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    2. A ausência de indicação de qualquer ato concreto passível de confronto com decisão revestida de eficácia erga omnes ou enunciado vinculante que possibilite a formação de um juízo de aderência estrita entre a decisão reclamada e o paradigma impossibilita a análise do caso pela Suprema Corte em sede reclamatória.
+    3. Agravo regimental ao qual se nega provimento, com determinação de remessa de cópia dos autos ao Conselho Nacional de Justiça para que adote as providências que julgar pertinentes sobre a situação reportada nos autos”
+(Rcl 26.111-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma - Grifei)
+    “EMENTA Agravo regimental na reclamação. Tema nº 576 de repercussão geral. Sobrestamento de efeitos de recurso especial. Impossibilidade. Ausência de ataque específico aos fundamentos da decisão agravada. Agravo regimental não provido.
+    1. O reconhecimento da repercussão geral não confere efeito suspensivo ativo ao RE nº 976.566/PA para suspender eventual decisão de mérito acerca da responsabilidade de prefeito por atos de improbidade já proferida em processos com matéria constitucional idêntica, bem como não atrai para o STF o poder cautelar de resguardar o resultado desses processos.
+    2. Não se admite o uso da reclamação constitucional com caráter preventivo. Precedentes.
+    3. Agravo regimental do qual se conhece mas ao qual se nega provimento, mantendo-se o juízo de negativa de seguimento à presente reclamação constitucional por outros fundamentos” (Rcl 25.069-AgR/MG, Rel Min. Dias Toffoli, Segunda Turma - Grifei).
+    “EMENTA: RECLAMAÇÃO. Caráter preventivo. Pedido tendente a evitar futura decisão judicial. Inadmissibilidade. Inexistência de ato capaz de ofender a competência ou a autoridade de decisão do Supremo Tribunal Federal. Seguimento negado. Agravo improvido. Inteligência do art. 102, inc. I, alínea "l", da CF. A ação constitucional da reclamação não admite pedido de caráter preventivo” (Rcl 4.058-AgR/BA, Rel. Min. Cezar Peluso, Tribunal Pleno).
+    No caso, não obstante ter o reclamante apresentado contestação aduzindo, preliminarmente, a incompetência da Justiça do Trabalho, verifica-se que ainda não foi proferido nos autos da reclamação trabalhistas originária qualquer ato concreto passível de confronto com a decisão tomada no julgamento da ADI 3.395/DF, sendo inadmissível, portanto, a presente reclamação.
+    Isso posto, nego seguimento ao pedido.
+    Publique-se.
+    Brasília, 7 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
