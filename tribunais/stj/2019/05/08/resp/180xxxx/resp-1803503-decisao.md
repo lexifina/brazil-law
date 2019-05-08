@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ITCMD. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJMG assim ementado (fl. 154):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO FISCAL - DIREITO TRIBUTÁRIO - ITCMD - AUSÊNCIA DE APRESENTAÇÃO DA DECLARAÇÃO DE BENS - IMPOSSIBILIDADE DE REALIZAÇÃO DO LANÇAMENTO - PRAZO DECADENCIAL.
+1. Não pode ser beneficiado o contribuinte que deixa de apresentar a declaração de bens e direitos para o cálculo do ITCMD e pleiteia ter sido o crédito tributário fulminado pela decadência.
+2. Sem que os contribuintes prestem as informações necessárias para o lançamento do imposto devido, não há que se considerar ter tido início o transcurso do prazo decadencial.
+Os recorrentes alegam violação do art. 173, inc. I, do CTN e dissídio jurisprudencial, sob os seguintes argumentos: a) a pretensão recursal é a obediência ao entendimento segundo o qual a comunicação do fato gerador (doação) ao Fisco não tem o condão de afastar a decadência, pois a circunstância de o fato gerador ser ou não do conhecimento da Administração Tributária não foi erigida como marco inicial do prazo decadencial, sendo este justamente o entendimento do STJ; b) o TJMG resolveu criar uma nova hipótese de marco decadencial, qual seja, a circunstância de o fato gerador ser ou não do conhecimento da Administração Tributária; c) tal estranho marco não consta da lei complementar (CTN) e não pode, pois, ser tomada como termo para contagem de prazo de extinção do crédito tributário, sob pena de violação frontal ao art. 173, inc. I, do CTN.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 268-269.
+É o relatório. Passo a decidir.
+No que diz respeito à ofensa ao art. 173, inc. I, do CTN e dissídio jurisprudencial, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento no Decreto Estadual 43.981/2005 e na Lei Estadual 14.941/2003, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Outrossim, ainda no que diz respeito à alegação de ofensa ao dispositivo indicado e divergência interpretativa, o acórdão recorrido consignou o seguinte (fls. 156-160):
+"Ao tratar das modalidades de lançamento, dispõe o Código Tributário Nacional:
+Art. 147. O lançamento é efetuado com base na declaração do sujeito passivo ou de terceiro, quando um ou outro, na forma da legislação tributária, presta à autoridade administrativa informações sobre matéria de fato, indispensáveis à sua efetivação. (Sublinhas deste voto.)
+Não é por outra razão que o col. Superior Tribunal de Justiça já decidiu que, pendente a homologação do cálculo do inventário, "não há como efetuar a constituição definitiva do tributo, porque incertos os valores inventariados sobre o qual incidirá o percentual da exação." (STJ. AgRg no REsp nº 1257451/SP, Rel. Min. HUMBERTO MARTINS, Segunda Turma, julgado em 06/09/2011, DJe 13/09/2011; "sic".) Em idêntico sentido: AgRg no AREsp nº 396.457/RS, Rel. Min. OG FERNANDES, Segunda Turma, julgado em 03/12/2013, DJe 09/12/2013; AgRg no REsp nº 1274227/MS, Rel. Min. HERMAN BENJAMIN, Segunda Turma, julgado em 07/02/2012, DJe 13/04/2012.
+Mais do que isso: é preciso que seja dada à Fazenda Pública ciência dos cálculos apresentados no bojo da ação de inventário para que, a partir daí, se possa falar em início do transcurso do prazo decadencial. Peço licença para transcrever o previsto na Lei Estadual nº 14.941/2003:
+(..)
+Apesar de o caso em tela versar sobre a exigência do ITCD sobre doação, aplica-se "mutatis mutandis" o entendimento sobre o termo inicial para a cobrança do tributo em razão do falecimento. Transcrevo, no que importa, trechos do judicioso voto do em. Min. MAURO CAMPBELL MARQUES no recurso de sua relatoria adiante indicado:
+(..)
+O apelante só veio a ter ciência da ocorrência do fato gerador em 16/11/2016 (f. 6 do doc. de ordem 19), quando a Superintendência da Receita Federal do Brasil, em razão de convênio de mútua colaboração com a Secretaria da Receita Federal do Brasil, informou que o apelado [NOME] GONÇALVES doou à MARIA CÉLIA FERREIRA GONÇAVES R$ 410.000,00 (quatrocentos e dez mil reais) em espécie no ano de 2008. Essa informação é corroborada pelos próprios apelados que afirmam ser "desimportante se (..) não comunicou, nos idos de 2008, a declaração da doação ao fisco. De qualquer forma, a este último caberia efetuar o lançamento de ofício, independentemente de ter ou não obtido informações de outro ente ou órgão." (f. 3 do doc. de ordem 28)
+O inc. I do art. 173 do CTN dispõe que "o direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado" (sublinhas deste voto). A pergunta que se coloca é a seguinte: como "o lançamento poderia ter sido efetuado" se as autoridades fazendárias sequer tinham ciência da ocorrência do fato gerador  Com quais elementos será ultimado o "lançamento de ofício, independentemente de ter ou não obtido informações de outro ente ou órgão"  (f. 3 do doc. de ordem 28)
+O art. 31 do Decreto Estadual nº 43.981/2005, inserido no capítulo "Dos deveres do contribuinte e do responsável", que assim dispõe:
+(..)
+Calha ainda a transcrição de dois dispositivos da Lei Estadual nº 14.941/2003, regulamentada pelo Decreto supramencionado:
+Art. 13 - (..)
+Art. 17 - (..)
+Apesar disso, tentam os apelados trasladar a culpa por sua própria omissão ao recorrente, impondo-lhe uma obrigação impossível de ser cumprida: a de lançar de ofício um tributo sem terem sido cientificados da doação de numerário entre parentes. Calha ainda a transcrição de excerto do parecer do Ministério Público Federal, citado no voto do em. Min. MAURO CAMPBELL MARQUES no AgRg no RMS nº 40.958/MS, que bem analisa conduta idêntica à praticada pelos recorridos:
+(..)"
+Ocorre que os recorrentes não impugnaram a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015 e eventual Gratuidade da Justiça (art. 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
