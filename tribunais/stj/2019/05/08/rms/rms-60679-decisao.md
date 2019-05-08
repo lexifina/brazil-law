@@ -1,0 +1,73 @@
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. UTILIZAÇÃO DE MANDADO DE SEGURANÇA COMO SUCEDÂNEO RECURSAL. EXPRESSA VEDAÇÃO LEGAL. RECURSO ORDINÁRIO NÃO PROVIDO.
+DECISÃO
+1. Cuida-se de recurso ordinário interposto por [NOME] e [NOME] objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 455-465):
+Mandado de Segurança - Decisões proferidas em processos de execução - Parcialmente indeferidos pedidor de renúncia de poderes outorgados para atividade advocatícia - Admissibilidade do "mandamus", em observância aos princípios maiores da economia, celeridade e efetividade processual, enfatizados na nova sistemática em vigor e que, portanto, devem prevalecer sobre o obste constante do artigo 5º, II, da Lei nº 12.016/2009 - Do ponto de vista técnico, porém, inexiste direito líquido e certo a amparar a pretensão, vez que as decisões impugnadas não se mostram teratológicas - A despeito de certa flexibilização, é certo que a medida deve ser necessariamente eficaz e o telegrama dirigido ao logradouro não permite aferir com segurança a ciência do mandante quanto à renúncia manifestada por causídico - Ciência do ato que há de ser inequívoca - Precedentes - Segurança denegada.
+Nas razões recursais, aduzem os recorrentes que foram constituídos advogados em diversos processos em que figura como parte a Massa Falida de Maitan Comércio e Representações de Cereais Ltda e seus antigos sócios, todos em tramitação na 2ª Vara Cível da Comarca de Santa Cruz do Rio Pardo.
+Ponderam ter notificado por duas vezes as partes, dando-lhes ciência da renúncia aos poderes que lhe haviam sido outorgados, por meio de telegrama remetido em 5/6/2017 e, posteriormente, e-mail encaminhado no dia 6/6/2017.
+Obtemperam ser regular a notificação, todavia houve indeferimento pelo Juízo de primeira instância, obstando o livre exercício das faculdades dos arts. 112 do CPC e 5º da Lei n. 8.906/1994.
+Sustentam que o acórdão recorrido manteve hígida ilegalidade, "na medida em que os mantiveram vinculados à representação processual de [NOME], mesmo diante da comprovação documental inequívoca de que o mesmo foi regularmente notificado das renúncias operacionalizadas".
+Asseguram que as notificações realizadas a [NOME] maitam atingiram a finalidade específica de cientificá-lo de forma indubitável acerca das renúncias operacionalizadas.
+Argumentam que o mandante constitui novos causídicos, e que há de ser considerado que ambas as notificações, isoladamente consideradas, seriam suficientes, por si só, para cientificar de forma inequívoca a renúncia dos mandatos, conforme a jurisprudência da própria Corte local.
+Requerem a concessão de tutela provisória.
+É o relatório.
+2. Na inicial do mandado de segurança, os impetrantes, ora recorrentes, aduziram:
+12. Em primeiro lugar, em que pese o Impetrado se tratar de um Autoridade Judicial e os atos impugnados terem sido praticados no curso de um processo, as condutas combatidas, apenas formalmente, devem ser consideradas como judiciais  .. .
+ ..
+15. Logo, decisões só são recorríveis quando prolatadas pelo Estado-Juiz no exercício da sua função jurisdicional, posto que apenas os atos com carga materialmente decisória, ao resolverem qualquer questão jurídica entre as partes do processo, são passíveis de revisão por via recursal, porque implicam àquele que teve a sua pretensão suplantada, que se sujeite ao comando que lhe é imposto com todos os ônus que lhe são inerentes.
+
+Para logo, é patente a indevida utilização do mandado de segurança como sucedâneo recursal.
+Ora, como é incontroverso que a decisão foi prolatada no âmbito de processos - claramente não tendo a natureza de mero despacho -, caberia aos impetrantes interpor o competente recurso de agravo de instrumento.
+Nesse passo, é bem de ver que, consoante tese sufragada pela Corte Especial, em sede de recurso repetitivo, REsp 1.696.396/MT, Relatora Ministra Nancy Andrighi, o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Note-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. NATUREZA JURÍDICA DO ROL DO ART. 1.015 DO CPC/2015. IMPUGNAÇÃO IMEDIATA DE DECISÕES INTERLOCUTÓRIAS NÃO PREVISTAS NOS INCISOS DO REFERIDO DISPOSITIVO LEGAL. POSSIBILIDADE. TAXATIVIDADE MITIGADA. EXCEPCIONALIDADE DA IMPUGNAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. REQUISITOS.
+1- O propósito do presente recurso especial, processado e julgado sob o rito dos recursos repetitivos, é definir a natureza jurídica do rol do art. 1.015 do CPC/15 e verificar a possibilidade de sua interpretação extensiva, analógica ou exemplificativa, a fim de admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente previstas nos incisos do referido dispositivo legal.
+2- Ao restringir a recorribilidade das decisões interlocutórias proferidas na fase de conhecimento do procedimento comum e dos procedimentos especiais, exceção feita ao inventário, pretendeu o legislador salvaguardar apenas as "situações que, realmente, não podem aguardar rediscussão futura em eventual recurso de apelação".
+3- A enunciação, em rol pretensamente exaustivo, das hipóteses em que o agravo de instrumento seria cabível revela-se, na esteira da majoritária doutrina e jurisprudência, insuficiente e em desconformidade com as normas fundamentais do processo civil, na medida em que sobrevivem questões urgentes fora da lista do art. 1.015 do CPC e que tornam inviável a interpretação de que o referido rol seria absolutamente taxativo e que deveria ser lido de modo restritivo.
+4- A tese de que o rol do art. 1.015 do CPC seria taxativo, mas admitiria interpretações extensivas ou analógicas, mostra-se igualmente ineficaz para a conferir ao referido dispositivo uma interpretação em sintonia com as normas fundamentais do processo civil, seja porque ainda remanescerão hipóteses em que não será possível extrair o cabimento do agravo das situações enunciadas no rol, seja porque o uso da interpretação extensiva ou da analogia pode desnaturar a essência de institutos jurídicos ontologicamente distintos.
+5- A tese de que o rol do art. 1.015 do CPC seria meramente exemplificativo, por sua vez, resultaria na repristinação do regime recursal das interlocutórias que vigorava no CPC/73 e que fora conscientemente modificado pelo legislador do novo CPC, de modo que estaria o Poder Judiciário, nessa hipótese, substituindo a atividade e a vontade expressamente externada pelo Poder Legislativo.
+6- Assim, nos termos do art. 1.036 e seguintes do CPC/2015, fixa-se a seguinte tese jurídica: O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+7- Embora não haja risco de as partes que confiaram na absoluta taxatividade serem surpreendidas pela tese jurídica firmada neste recurso especial repetitivo, pois somente haverá preclusão quando o recurso eventualmente interposto pela parte venha a ser admitido pelo Tribunal, modulam-se os efeitos da presente decisão, a fim de que a tese jurídica apenas seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão.
+8- Na hipótese, dá-se provimento em parte ao recurso especial para determinar ao TJ/MT que, observados os demais pressupostos de admissibilidade, conheça e dê regular prosseguimento ao agravo de instrumento no que se refere à competência, reconhecendo-se, todavia, o acerto do acórdão recorrido em não examinar à questão do valor atribuído à causa que não se reveste, no particular, de urgência que justifique o seu reexame imediato.
+9- Recurso especial conhecido e parcialmente provido.
+(REsp 1696396/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018)
+Ademais, contraditoriamente, no presente recurso (fl. 291), os recorrentes transcrevem ementas de acórdãos, prolatados no âmbito da Corte local, julgando recursos dirimindo a mesma controvérsia, incluindo dois julgados, em sede de agravo de instrumento.
+Com efeito, de acordo com a firme jurisprudência desta Corte, só é cabível a utilização do mandado de segurança contra ato judicial, quando não existir recurso específico contra essa decisão. Isso porque o mandado de segurança não pode ser utilizado como sucedâneo do recurso legalmente cabível.
+Cumpre anotar que o acórdão recorrido dispôs:
+Consigno, de plano, que fora admitido o conhecimento do "mandamus", a despeito da eventual possibilidade de manejo de recurso o próprio em cada um dos processos mencionados na inicial, em observância aos princípios maiores da economia, celeridade e efetividade processual, enfatizados na nova sistemática em vigor e que, portanto, devem prevalecer sobre o obste constante do artigo 5º, II, da lei n. 12.016/2009.
+Em face do grande número de feitos, os recursos poderiam se mostrar inviáveis á parte, considerada a necessidade de isntrução e recolhimento de custas, obstando a prestação jurisdicional a que ela faz jus.
+Ora, o dispositivo de Lei especial, art. 5º, II, da Lei n. 12.016/2009, é claro ao dispor que não se concederá mandado de segurança de decisão judicial que caiba recurso com efeito suspensivo.
+No caso, como se trata de recurso ordinário - em que não há, pois, falar em preclusão da matéria -, não se justifica, data maxima venia, o flagrantemente ilegal argumento invocado pela Corte local, sobretudo à luz do novo CPC.
+Ora, é para situações como a presente que o novo CPC estabelece "no art. 98, parágrafos 5º e 6º, que a gratuidade poderá ser concedida em relação a algum ou a todos os atos processuais, ou consistir na redução percentual ou parcelamento de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento" (EDcl no AgInt no REsp 1630945/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/03/2017, DJe 17/03/2017).
+Na presente hipótese, mostra-se incabível o mandado de segurança, posto que impetrado em fase processual onde existe decisão sujeita a recurso específico, incidindo na espécie a Súmula 267 do STF ("não cabe mandado de segurança contra ato judicial passível de recurso ou correição").
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. SÚMULA 267/STF. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA DO ATO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não se admite a impetração de mandado de segurança contra decisão judicial da qual caiba recurso, a teor do contido no art. 5º, inciso II, da Lei nº 12.016/2009, bem como do enunciado nº 267 do Supremo Tribunal Federal, salvo se houver manifesta ilegalidade ou teratologia.
+2. No caso, a decisão está devidamente fundamentada e amparada em precedentes desta Corte, não se mostrando teratológica tampouco ilegal a justificar o manejo do mandamus, sendo certo, ainda, que há agravo interno pendente de julgamento tanto no recurso ordinário quanto na medida cautelar.
+3. Decisum mantido por seus próprios fundamentos.
+4. Agravo regimental a que se nega provimento. (AgRg no MS 21.047/DF, Corte Especial, Rel. Min. Maria Thereza de Assis Moura, DJe 05.08.2014)
+--
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO DO WRIT CONTRA DECISÃO SUJEITA A RECURSO ESPECÍFICO. SÚMULA 267/STF. AGRAVO NÃO PROVIDO.
+1. É incabível o mandado de segurança quando impetrado contra decisão judicial sujeita a recurso específico, no caso, o agravo de instrumento. Aplica-se, na hipótese vertente, a Súmula 267 do STF, que determina: não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+2. Agravo regimental não provido. (AgRg no RMS 50.012/SP, Quarta Turma, Rel. Min. Luis Felipe Salomão, DJe 21.03.2016)
+--
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL PASSÍVEL DE RECURSO PRÓPRIO. NÃO CABIMENTO. SÚMULA 267 DO STF.
+1. Incabível o mandado de segurança contra ato judicial passível de impugnação por meio próprio, tendo em vista não ser sucedâneo recursal.
+2. O mandado de segurança substitutivo contra ato judicial vem sendo admitido com o fim de emprestar efeito suspensivo quando o recurso cabível não o comporta, mas tão somente nos casos em que a decisão atacada seja manifestamente ilegal ou eivada de teratologia.
+3. Agravo regimental a que se nega provimento. (AgRg no RMS 28.920/RS, Quarta Turma, Rel. Min. Maria Isabel Gallotti, DJe 19.02.2016)
+--
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS. INCOMPETÊNCIA DO STJ PARA PROCESSAR E JULGAR O MANDAMUS. ART. 105, I, "b", DA CF. INCIDÊNCIA DA SÚMULA 41/STJ. INADEQUADA IMPETRAÇÃO EM CONTRARIEDADE À DECISÃO JUDICIAL PASSÍVEL DE IMPUGNAÇÃO PREVISTA EM LEI. APLICAÇÃO DA SÚMULA 267/STF.
+1. "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos" (Súmula 41/STJ).
+2. O Mandado de Segurança não consubstancia sucedâneo recursal, afigurando-se, pois, inadequada sua impetração em contrariedade à decisão judicial passível de impugnação prevista em lei, conforme preceitua o enunciado n. 267 da Súmula do STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+3. Agravo regimental não provido.
+(AgRg no MS 22.146/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/10/2015, DJe 05/11/2015)
+Dessarte, "a inadequação do instrumento processual eleito", "denota a falta de interesse de agir, razão pela qual se impõe a extinção do feito sem resolução de mérito" (REsp 940.314/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 24/3/2009, REPDJe 25/5/2009).
+ Ademais, ainda que assim não fosse, o acórdão recorrido corretamente dispôs:
+Extrai-se dos autos pretensão para discutir-se a pertinência de atos judiciais, consistentes nos indeferimentos de pedidos de renúncia de advogados em autos de processo de execução.
+ ..
+Como cediço, a ciência do ato há de ser inequívoca, consoante cosntrução jurisprudencial.
+ ..
+Com efeito, as impetrantes não lograram comprovar tal ciência nos autos. Em tal contexto, não há como reconhecer evento teratológico nos r. decisórios impugnados.
+3. Com o julgamento do presente recurso, fica prejudicada a apreciação do pedido de tutela provisória.
+4. Diante do exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
