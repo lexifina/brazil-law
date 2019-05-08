@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de HABEAS CORPUS com pedido de liminar no qual se pretende, em síntese, a concessão da ordem, de forma imediata, para a revogação de decisão cautelar em desfavor de SHEILA CYNTHIA FAGUNDES.
+De acordo com as informações colhidas na origem, verifica-se que, em 25/4/2019, sobreveio a prolação de sentença condenando a ora paciente, nos autos da Ação Penal n. 0900367-60.2018.8.24.0022, como incursa no art. 33 e no art. 35, caput, c/c o art. 40, incisos III, IV e VI, todos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal, às penas de 10 (dez) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 1.599 ( mil, quinhentos e noventa e nove) dias-multa, vedando-lhe o apelo em liberdade.
+Na hipótese, está prejudicado o presente recurso voltado a abordar a legalidade da prisão provisória aplicada à paciente, visto que o Juízo sentenciante agregou nova fundamentação ao decreto originário da preventiva para justificar o indeferimento do seu direito de apelar em liberdade, tratando-se a sentença de decisão diversa da questionada na presente impetração, sendo, portanto, título inédito, cuja legalidade ainda não foi examinada pelo Tribunal originário.
+Nesse panorama, com fundamento no art. 34, inciso XI, do Regimento Interno deste Tribunal, julga-se prejudicado o mandamus, diante da superveniente perda de seu objeto.
+Publique-se e intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
