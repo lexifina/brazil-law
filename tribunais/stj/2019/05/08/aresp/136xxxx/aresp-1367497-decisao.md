@@ -1,0 +1,21 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. LIQUIDAÇÃO DO JULGADO. CUMPRIMENTO DO TÍTULO EXECUTIVO JUDICIAL. ANÁLISE DOS ARTS. 435 E 460 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 391-392):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO. LIQUIDAÇÃO DO JULGADO. CUMPRIMENTO DO TÍTULO EXECUTIVO JUDICIAL. OBRIGATORIEDADE. EXISTÊNCIA DE VALORES DEVIDOS AO AUTOR. ADOTAR CÁLCULOS DO CONTADOR JUDICIAL. PRESUNÇÃO IURIS TANTUM DE VERACIDADE. PARCIAL PROVIMENTO AO AGRAVO.
+I - É importante ressaltar que o juiz não está vinculado a examinar todos os argumentos expendidos pelas partes, nem a se pronunciar sobre todos os artigos de lei, restando bastante que, no caso concreto, decline fundamentos suficientes e condizentes a lastrear sua decisão.
+II - Cinge-se a controvérsia em se determinar se os cálculos inicialmente elaborados foram suficientes a liquidação do julgado, reconhecido na Ação ordinária nº 94.0065146-5.
+III - Cumprindo determinação, às fls. 363/367, a Seção de Cálculo Judiciário deste Tribunal, apresentou a planilha informando ser devido ao autor o valor de R$9.784,10(Nove mil e setecentos e oitenta e quatro reais e dez centavos) e a título de honorários a quantia de R$3.787,04 (Tres mil e setecentos e oitenta e sete reais e quatro centavos). Valores atualizados até janeiro/2014.
+IV - No caso em apreço, a Seção de Cálculos Judiciários efetuou os cálculos de acordo com os parâmetros que entendeu estarem em consonância com o título executivo. Ressalte-se que a Contadoria Judicial é atribuída fé pública, prevalecendo a presunção iuris tantum de veracidade, por seguir fielmente os critérios estabelecidos na decisão transitada em julgado. Tal presunção só poderá ser afastada se a parte interessada comprovar cabalmente a existência de erro nos referidos cálculos.
+V - Agravo de instrumento parcialmente provido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 435 e 460 do CPC/1973, sob os seguintes argumentos: (a) "o acórdão, apesar de ausente recurso contra o cálculo proferido em primeiro grau e que reconheceu em 2003 um crédito de R$ 14.020,60, acabou homologando o cálculo elaborado em 2014 e segundo grau, fixando um crédito em favor da Recorrente de R$ 9.784,10, reduzindo, sem que houvesse recurso para tanto, o crédito da Recorrente" (fl; 493); (b) "não foi oportunizado as partes o direito de se pronunciar sobre os cálculos que, por determinação de oficio, da Ilustre Relatora, foram elaborados no Tribunal" (fl. 500).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Evidencia-se que os artigos 435 e 460 do CPC/1973 (e as teses a eles vinculadas) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 535 do CPC/1973, por ocasião da interposição do recurso especial com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
