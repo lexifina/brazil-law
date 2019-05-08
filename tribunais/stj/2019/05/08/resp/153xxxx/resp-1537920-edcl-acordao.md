@@ -1,0 +1,41 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. Os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores.
+3. Manifesto o caráter protelatório dos segundos embargos de declaração, é de rigor a aplicação de multa sobre o valor atualizado da causa, prevista no § 2º do art. 1.026 do CPC/2015.
+4. Embargos de declaração rejeitados, com imposição de multa de 1% sobre o valor da causa.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator. Ausentes, justificadamente, os Srs. Ministros Maria Isabel Gallotti e Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de segundos embargos de declaração opostos por [NOME] contra acórdão proferido por esta Quarta Turma, em sede de agravo interno interposto, assim ementado:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE ARRENDAMENTO MERCANTIL. RESCISÃO CONTRATUAL. VEÍCULO AUTOMOTOR. VÍCIOS NO PRODUTO. INEXISTÊNCIA DE CARÁTER ACESSÓRIO ENTRE OS CONTRATOS DE COMPRA E VENDA E DE FINANCIAMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Consoante entendimento desta Corte Superior, não existe caráter acessório entre o contrato de compra e venda de bem de consumo e o de financiamento bancário com arrendamento mercantil destinado a viabilizar a aquisição do bem, não havendo falar, portanto, em responsabilidade da instituição financeira por eventuais defeitos no veículo alienado. Precedentes.
+2. Agravo interno a que se nega provimento." (fl. 1349)
+Os declaratórios foram rejeitados, por unanimidade de votos, pela Turma Julgadora, nos termos do acórdão assim ementado:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ARRENDAMENTO MERCANTIL. INEXISTÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados." (fl. 1369)
+Em suas razões, a embargante alegada a existência de omissão no julgado, pois "a controvérsia da Embargada limitava-se unicamente e principalmente na questão relativamente necessidade da manutenção da PÉGASUS VEÍCULO LTDA no polo passivo do feito ante o acolhimento do pedido de rescisão contratual, não havendo qualquer insurgência em relação ao julgado que determinou a rescisão do contrato".
+Requer, ao final, o acolhimento dos presentes embargos de declaração para sanar a omissão e, "por consequência, atribuir a estes o efeito infringente à possibilidade de alteração do julgado" (fls. 1372-1378).
+Devidamente intimada, a parte embargada não se manifestou.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+Como se sabe, os segundos embargos de declaração devem limitar-se a apontar os vícios (intrínsecos) porventura constatados no acórdão que julgou os anteriores, sendo inadmissíveis quando se contrapõem aos argumentos já delineados e esclarecidos no julgado anterior, como se verifica na espécie. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 E INCISOS DO CPC.
+1. "Os segundos Embargos de Declaração devem apontar vício no julgamento dos primeiros Embargos de Declaração, e não em decisão anterior, cujo prazo para recurso já se esvaiu, pois operada a preclusão consumativa." (EDcl nos EDcl no AgRg nos EREsp 1341709/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 18/03/2015, DJe 30/03/2015.) 2. No caso concreto, sob o pretexto de ver sanada suposta contradição, busca a parte embargante, na verdade, rediscutir questão preclusa e decidida em conformidade com jurisprudência pacífica desta Corte.
+3. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor da causa, nos termos do art. 538, parágrafo único, do CPC." (EDcl nos EDcl no AgRg no AREsp 663.178/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/08/2015, DJe de 25/08/2015, g.n.)
+É nítido o intuito da parte embargante de obter a reforma do acórdão embargado, entendendo ter sido equivocado o julgamento. Tal intento, contudo, não é cabível na via estreita dos embargos de declaração, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes.
+A fundamentação adotada é suficiente para respaldar a conclusão alcançada, porquanto ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do CPC/2015.
+Infere-se, assim, que a parte embargante opõe recurso manifestamente inadmissível, mormente porque não configurada nenhuma das hipóteses de cabimento de segundos embargos de declaração, circunstância que evidencia o inequívoco intento protelatório do recurso integrativo, com ensejo à aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO ANULATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU ANTERIORES ACLARATÓRIOS, MANTENDO-SE, POR CONSEQUENCIA, A NEGATIVA DE CONHECIMENTO AO AGRAVO (ART. 544 DO CPC/73). IRRESIGNAÇÃO DOS RÉUS.
+1. Nos estreitos limites delineados pelo artigo 1.022 do Novo Código de Processo Civil, os embargos de declaração têm cabimento apenas quando a decisão judicial apresenta omissão sobre ponto que deveria abordar, obscuridade prejudicial à compreensão da motivação, contradição interna entre premissas e conclusões ou erro material.
+1.1. Na hipótese dos autos, tratando-se de segundos aclaratórios, revela-se patente a inexistência de quaisquer dos vícios que permitiriam a oposição de tal recurso, revelando a pretensão ora deduzida manifesto caráter infringente.
+2. Evidenciado o caráter manifestamente protelatório dos embargos de declaração (segundos opostos), aplica-se a multa prevista no artigo 1.026, § 2º, do Novo CPC.
+3. Embargos de declaração rejeitados, com aplicação da multa." (EDcl nos EDcl no AgRg no AREsp 415.634/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2016, DJe de 28/10/2016, g.n.)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA PROCESSUAL. OMISSÃO VERIFICADA. SEGUNDOS DECLARATÓRIOS PROTELATÓRIOS. ART. 1.026, § 2º, do CPC/2015. 1. Evidenciado o caráter manifestamente protelatório, ante a oposição de segundos aclaratórios com propósito idêntico ao dos primeiros, impõe-se a aplicação da multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015.
+2. Embargos de declaração acolhidos para condenar os embargados, nos termos do art. 1.026 § 2º do CPC/2015, a pagar aos embargantes multa de 1% (um por cento) sobre o valor atualizado da causa." (EDcl nos EDcl nos EDcl no AgInt no AREsp 942.858/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 21/09/2017, g.n.)
+Ante o exposto, rejeitam-se os embargos de declaração, com aplicação de multa de 1% sobre o valor da causa, nos termos do § 2º do art. 1.026 do CPC/2015.
+É como voto.
