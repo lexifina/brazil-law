@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANGELA CAMPOS PETEAN, com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, não ementado, que a condenou nas penas do art. 121, § 3º do CP, a um ano e seis meses de detenção, substituída por restritiva de direitos, consistente em prestação pecuniária em favor dos genitores da vítima, fixada em dez salários mínimos, além de prestação de serviços à comunidade, nos termos do art. 46 do CP, a ser realizada à razão de uma hora de tarefa por dia de condenação, pelo prazo de um ano (e-STJ, fl. 527-534).
+A defesa aponta, inicialmente, negativa de vigência ao art. 89, da Lei nº 9.099/95, pois, uma vez afastada a qualificadora do §4º do art. 121 do CP, a pena abstratamente cominada ficou no patamar de 1 (um) ano de detenção, o que permite a suspensão condicional do processo, de modo que deve ser anulado o acórdão recorrido e determinada a baixa dos autos à instância de origem para que seja feita a proposta de suspensão do processo.
+Caso não seja esse o entendimento, requer seja reconhecida a violação ao art. 59 do Código Penal e redimensionada a pena-base para o patamar mínimo legal abstratamente cominado.
+Por fim, pleiteia a redução da prestação pecuniária, com base no art. 43, I, do Código Penal c/c o art. 45, § 1º, do mesmo Estatuto, por ausência de fundamentação. Sustenta que não se justifica, "à luz da proporcionalidade que a prestação pecuniária seja estimada em 20 (vinte) vezes seu mínimo abstratamente cominado" (e-STJ, fls. 548-549).
+Foram apresentadas as contrarrazões (e-STJ, fls. 551-556).
+Admitido o recurso (e-STJ, fl. 559), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se às fls. 3.012-3.014 (e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal merece acolhimento.
+Consoante colhe-se dos autos, em 09 de agosto de 2012, no Hospital São Francisco, a acusada, faltando com o dever de cuidado objetivo que lhe era exigido, deixou de observar regra técnica da profissão ao realizar atendimento médico na vítima [NOME], negligência que resultou na morte desta em 14 de agosto de 2012, decorrente de choque séptico por abdômen agudo perfurativo.
+Inicialmente, no que tange à suspensão condicional da pena, o art. 89 da Lei 9.099/95, tido por violado, assim dispõe:
+"Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal)."
+No caso em apreço, verifica-se que o Tribunal de origem reformou a pena, fixada pelo magistrado de primeiro grau de jurisdição, nos seguintes termos:
+"Resta analisar a pena.
+A pena-base foi acrescida de metade. É imperioso considerar as gravíssimas consequências do ato. Uma vida foi sacrificada e pessoas sofreram em decorrência da perda. Assim, entendo que o aumento de metade na base é justo.
+Todavia, a qualificadora é afastada, com o devido respeito a entendimento diverso. Recorde-se que há divergência na doutrina e na jurisprudência. Para alguns, deve ser afastada "quando esta constituir precisamente o núcleo da culpa que houve o agente".
+[NOME] alude: "não é a imperícia do agente, que se torna agravante na primeira hipótese, mas a inconsideração com que age, desprezando as regras do seu oficio e, por esse desinteresse, provocando o fato punível".
+Homicídio Culposo - Inobservância de regra técnica - "No homicídio culposo, a majoração da pena, em virtude de inobservância de regra técnica é incabível quando esta constituir precisamente o núcleo da culpa com que se houve o agente". (TACRIM-SP-AC-Rel. Renato Talli - JUTACRIM 79/253).
+Na hipótese, não se deve reconhecer que a arguida tenha agido nestas circunstâncias. Difícil estabelecer que ela tenha sido totalmente desinteressada ou tenha desprezado regras do seu ofício.
+Por isso, ao meu juízo, a pena deve ficar em um ano e seis meses de detenção.
+A substituição da pena por restritiva de direitos sofre alteração para a prestação pecuniária em favor dos genitores, fixando-se em dez salários mínimos. É mantida a de prestação de serviços à comunidade, conforme determina a sentença.
+O regime, evidentemente, é o aberto.
+Isto posto, pelo meu voto, dá-se provimento parcial ao apelo nos termos descritos no v. acórdão." (e-STJ, fls. 533-534, grifou-se).
+O acórdão recorrido limitou-se ao afastamento da qualificadora prevista no art. 121, § 4º, do CP, tendo reduzido a pena de 2 (dois) anos para 1 (um) anos e 6 (seis) meses de detenção. Como se vê, o aumento da basilar em metade foi mantido pelo Tribunal de origem, haja vista as gravíssimas consequências do crime, que no caso consistiu na morte da vítima e no sofrimento dos familiares.
+Desse modo, uma vez que a sanção restou estabelecida em 1 (um) anos e 6 (seis) meses de detenção, não há falar na incidência do art. 89 da Lei 9.099/95.
+No que tange à questão amparada no art. 59 do CP, também não assiste razão à recorrente.
+Cumpre destacar, por oportuno, que "a confecção da dosimetria da pena não é uma operação matemática, e nada impede que o magistrado fixe a pena-base muito além do mínimo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto (STF, RHC 101576, Relator(a): Min. ROSA WEBER, Primeira Turma, PUBLIC 14-08-2012).
+Conforme visto alhures, o aumento da pena-base restou devidamente fundamentado na análise desfavorável das consequências do crime que, no caso, consistiu na morte da vítima, jovem de 16 (dezesseis) anos de idade, bem como no sofrimento dos familiares, o que, à toda evidência, denota a utilização de fundamentação idônea.
+Por fim, no que se refere ao pedido de redução da prestação pecuniária, ao argumento de que o valor estabelecido pela Corte Estadual, no montante de 20 (vinte) vezes seu mínimo abstratamente cominado (art. 45, § 1º, do CP), apresenta-se elevado, melhor sorte não assiste à recorrente. Isso porque, o referido montante já foi reduzido à metade pelo acórdão recorrido, ou seja, para o patamar de 10 (dez) salários-mínimos, o que, na espécie, não apresenta desarrazoado ou desproporcional, de modo a justificar a excepcional intervenção desta instância especial.
+Ante o exposto, com fundamento no art. 34, VIII, "b", do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
