@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO CIVIL PÚBLICA. Mantida a ilegitimidade passiva quanto aos réus Laurindo e Teresa. Construções nas margens de reservatório artificial. Inviável determinar a demolição de construção que, pela lei atual, pode ser mantida. Aplicabilidade do artigo 62 da Lei nº 12.651/2012, afastada a inconstitucionalidade. Inteligência dos artigos 462 do CPC/73, com correspondente no artigo 493 do atual CPC. Ausente ofensa ao ato jurídico perfeito, direito adquirido ou coisa julgada. Mantida a improcedência da ação, por fundamento diverso. REJEITA-SE A PRELIMINAR E NEGA-SE PROVIMENTO AO RECURSO" (fl. 551e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 6º, caput e § 1º, 2º, caput e incisos I, III, IV, da LINDB, 3º, IV, da Lei 6.938/81, sustentando que "a hipótese é de responsabilidade ambiental própria da coisa e com poluidor direto (anterior proprietário) e direto (atuais proprietários), solidariamente responsáveis", "além da degradação se operar na vigência da Lei nº 4.771/65, antigo Código Florestal, sendo inaplicável a nova norma mais favorável ao poluidor e degradadora da condição ambiental" (fls. 565/566e).
+Por fim, requer "seja conhecido e provido o presente recurso especial, reformando-se o venerando acórdão impugnado, para inclusão dos novos proprietários no polo passivo e no que concerne à aplicabilidade, ao caso em tela, do artigo 62, Novo Código Florestal, mantida a área de preservação permanente dos reservatórios artificiais" (fl. 572e)
+Contrarrazões a fls. 575/582e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 584/585e).
+O Ministério Público Federal, em parecer de lavra da Subprocuradora-Geral da República, MARIA CAETANA CINTRA SANTOS, opinou pelo provimento do Recurso (fls. 603/610e).
+A irresignação não merece conhecimento.
+Quanto à alegada ofensa aos artigos 6º, caput e § 1º, 2º, caput e incisos I, III, IV, da LINDB, 3º, IV, da Lei 6.938/81, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como violados não foram apreciadas no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ademais, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Não se ignora que, em direito ambiental, há a regra geral da solidariedade. Contudo, nesse caso especifico, o artigo 7o, § Io da " Lei nº 12.651/2012 prevê que, ocorrida a supressão da vegetação, a recomposição da vegetação deverá ser promovida pelo proprietário, possuidor ou ocupante, ou seja, a responsabilidade caberá a quem permanecer na área.
+(..)
+No mérito, com base no laudo do DEPRN a fls. 74/78 do apenso, houve a construção de uma residência em APP, considerando-se o artigo 2o, "b" da Lei 4.771/65 e artigo 3o, inciso I da Resolução CONAMA 302/02. No mesmo laudo afirmou-se a possibilidade de medida compensatória.
+No mesmo sentido foi laudo do DEPRN a fls. 138/141 do apenso.
+(..)
+Anoto que, havendo processo em andamento, ainda sem definição do direito material aplicável, perfeitamente possivel adotar a lei vigente na época da sentença. Isso porque o momento processual permite a aplicação da lei vigente" (fls. 552/554e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
