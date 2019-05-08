@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIS ROBERTO ERTEL DA SILVA no qual se aponta como autoridade coatora desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul que indeferiu o pedido liminar no Habeas Corpus n. 0107690-20.2019.8.21.7000.
+Segundo consta dos autos, "a autoridade policial, em cumprimento a mandado de busca e apreensão, realizou a contenção da residência onde ocorreu o flagrante, posicionando uma viatura nos fundos da residência, enquanto outra guarnição entrou pela frente. Com a chegada dos policiais ao local, os flagrados tentaram se desfazer dos objetos atirando-os pelas janelas da residência, tudo visualizado pelos policiais que estavam acompanhando o ato. Dentro deste recipiente, os policiais localizaram 96 pedras de substância semelhante a crack, pesando aproximadamente 14,9 gramas e R$538,00 (quinhentos e trinta e oito reais) em espécie. Foi dada voz de prisão pelo crime de tráfico de entorpecentes com posterior encaminhamento à Delegacia de Polícia" (e-STJ fl. 124).
+Finda a instrução, o paciente foi absolvido da imputação capitulada no art. 35 da Lei n. 11.343/2006, mas condenado à pena de 6 anos de reclusão, no regime inicial semiaberto, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 50/61). Foi-lhe negado o direito de apelar em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem buscando a concessão do direito de o paciente aguardar em liberdade o julgamento dos recursos, contudo o pedido liminar foi indeferido (e-STJ fl. 49).
+No presente writ, a defesa postula a superação da Súmula n. 691 do STF, a fim de que se acolha a presente impetração; reitera os argumentos lançados na impetração anterior; e aduz que "o decreto de manutenção da prisão fez imputação genérica, sem individualização da conduta, e sem indicar os elementos concretos a justificar a custódia cautelar" (e-STJ fl. 9).
+Ressalta, ainda, ser incompatível o regime inicial semiaberto com a manutenção da prisão preventiva decretada quando da prisão em flagrante do paciente.
+Requer, assim, liminarmente, a cassação da decisão combatida, bem como da decisão de primeiro grau que negou ao paciente o direito de apelar em liberdade, expedindo-se o competente alvará de soltura.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar de forma mais detida a argumentação constante da impetração.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+A propósito, constou da sentença ora combatida a referência à manutenção dos motivos que ensejaram a conversão da prisão em flagrante em preventiva, quais sejam, a gravidade em concreto da conduta e a periculosidade do paciente, evidenciados pela apreensão de 96 pedras de crack, pesando aproximadamente 14,9g (catorze gramas e nove decigramas) e de R$ 538,00 (quinhentos e trinta e oito reais) em espécie, circunstâncias que, neste caso, legitimam a manutenção da segregação cautelar para recorrer.
+No que se refere à alegação da defesa de que é incompatível o regime inicial semiaberto com a manutenção da prisão preventiva, não há dispositivo legal vedando tal imposição, de modo que não se vislumbra nenhum constrangimento ilegal de pronto.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
