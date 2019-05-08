@@ -1,0 +1,38 @@
+EMENTA
+RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. 1. FIXAÇÃO DO PERCENTUAL A RESPEITO DA RETENÇÃO EM RAZÃO DA DESISTÊNCIA DOS PROMITENTES COMPRADORES. 20%. INCIDÊNCIA DA SÚMULA 83/STJ. 2. JUROS DE MORA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO DA DECISÃO. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial apresentado por EVEN-SP 26/10 EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com base no art. 105, III, a e c, da Constituição Federal.
+Compulsando os autos, verifica-se que os recorridos ajuizaram ação de rescisão contratual (e-STJ, fls. 1-26), tendo o Juízo de primeiro grau julgado parcialmente procedentes os pedidos (e-STJ, fls. 272-274).
+Interpostas apelações pelas partes litigantes, o Tribunal de origem decidiu, por unanimidade, negar provimento ao recurso da ora recorrente e dar parcial provimento ao dos recorridos, em acórdão assim ementado (e-STJ, fl. 394):
+APELAÇÃO. Compra e venda de imóvel. Ação de rescisão de contrato. Sentença de parcial procedência. Inconformismos de ambas as partes. Cabível a rescisão do contrato, conforme dispõe as súmulas 1 e 2 deste TJSP. Retenção de 20% do valor pago pelos autores. Quantia que se mostra, no presente caso, suficiente para compensar os custos operacionais oriundos do desfazimento do negócio jurídico. Juros moratórios devidos a partir da citação em se tratando de relação contratual. Sentença parcialmente reformada. Recurso dos autores a que se dá parcial provimento e da ré a que se nega provimento.
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, a recorrente alega violação aos arts. 53 do CDC; 240 e 523 do CPC/2015; 394, 396 e 397 do CC, além de afirmar a existência de dissídio jurisprudencial no que diz respeito ao termo inicial dos juros de mora.
+Contrarrazões apresentadas (e-STJ, fls. 423-427).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+Inicialmente, quanto à retenção do percentual de 20% (vinte por cento) do valor pago pelos promitentes compradores em razão da resilição contratual, verifica-se que o entendimento adotado pelo TJSP não destoa da jurisprudência desta Corte Superior.
+A propósito:
+DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. INADIMPLÊNCIA DO COMPROMISSÁRIO COMPRADOR. RESSARCIMENTO DO PROMITENTE VENDEDOR PELA UTILIZAÇÃO DO IMÓVEL DURANTE O PERÍODO EM QUE O CONTRATO FOI CUMPRIDO. CABIMENTO.
+1. A rescisão de um contrato exige que se promova o retorno das partes ao status quo ante, sendo certo que, no âmbito dos contratos de promessa de compra e venda de imóvel, em caso de rescisão motivada por inadimplência do compromissário comprador, a jurisprudência do STJ se consolidou no sentido de admitir a retenção de 20% das prestações pagas, mais as despesas referentes ao recolhimento de impostos, taxas de condomínio, seguro e outros débitos exigidos até o habite-se, mais as perdas e danos pela utilização do imóvel, considerando o valor correspondente à locação durante o período entre a mora e a reintegração.
+2. A retenção de percentual sobre o valor das prestações pagas visa, entre outras coisas, a ressarcir o promitente vendedor pela utilização do imóvel durante o período em que o contrato foi cumprido.
+3. Recurso especial dos primeiros recorrentes não provido. Recurso especial do segundo recorrente provido.
+(REsp 963.073/DF, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/03/2011, DJe 16/04/2012)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL POR CULPA DO ADQUIRENTE DO IMÓVEL. RETENÇÃO DE 10% DOS VALORES DESPENDIDOS. CABIMENTO. RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido está em conformidade com a jurisprudência desta Corte de Justiça, segundo a qual, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, é possível a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga. 2. No tocante aos honorários advocatícios, tem-se que a parte autora foi vencedora em todos os pedidos, razão pelo qual a sentença fixou a condenação exclusiva da parte recorrente em 10% do valor de obrigação de pagar, em observância dos limites de 10% a 20% do valor devido, nos termos do art. 85 do NCPC (art. 20 do CPC/1973). Na espécie, não restou demonstrada a alegada irrisoriedade no percentual fixado na origem.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1285480/DF, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 29/08/2018)
+Assim, incide a Súmula 83/STJ, na espécie.
+Ademais, nas hipóteses em que a rescisão do contrato se dá em decorrência do inadimplemento dos promitentes compradores, esta Corte Superior firmou o entendimento de que o termo inicial dos juros moratórios é a data do trânsito em julgado da decisão que determina a rescisão contratual, haja vista que não há mora em momento anterior.
+Confiram-se:
+AGRAVOS INTERNOS. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AQUISIÇÃO DE UNIDADE HABITACIONAL. REGIME DA INCORPORAÇÃO IMOBILIÁRIA. RESOLUÇÃO JUDICIAL DO CONTRATO POR INICIATIVA DA CONSTRUTORA. INADIMPLEMENTO DO CONSUMIDOR. DIREITO À RESTITUIÇÃO IMEDIATA DAS PARCELAS. PAGAS. SÚMULA 543/STJ. JUROS DE MORA TERMO "A QUO". DATA DO TRÂNSITO EM JULGADO. JULGADOS DESTA CORTE. PRAZO DE 15 DIAS DO ART. 475-J DO CPC/1973. AUSÊNCIA DE SUSPENSÃO DE EFICÁCIA DA SENTENÇA.
+1. Controvérsia acerca do termo "a quo" dos juros de mora no âmbito do cumprimento de sentença que julgou procedente pedido de resolução do contrato em função do inadimplemento do promitente comprador.
+ ..
+4. Incidência de juros de mora a partir do trânsito em julgado, na linha da jurisprudência desta Corte Superior.
+5. Eficácia restitutória da resolução do contrato, aplicável em benefício das duas partes do contrato, como consequência imediata da desconstituição do vínculo contratual.
+6. Ausência de suspensão da eficácia da sentença durante o decurso do prazo de 15 dias previsto no art. 475-J do CPC/1973. 7. AGRAVOS INTERNOS DESPROVIDOS. (AgInt no REsp 1.596.064/RJ, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 16/3/2017)
+DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+ ..  4. Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido. (REsp 1.211.323/MS, Relator o Ministro Luiz Felipe Salomão, DJe de 20/10/2015)
+Desse modo, tendo em vista que o acórdão recorrido adotou a data da citação como o termo inicial dos juros de mora, torna-se imperiosa a sua reforma, para que seja considerada a data do trânsito em julgado da decisão.
+Ante o exposto, conheço do recurso especial e dou-lhe parcial provimento, a fim de fixar a data do trânsito em julgado da decisão como o termo inicial dos juros de mora.
+Mantenho os ônus sucumbenciais fixados pelo Tribunal de origem, considerando-se a mínima alteração do julgado.
+Publique-se.
