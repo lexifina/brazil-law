@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. CONEXÃO. APLICAÇÃO DO DISPOSTO NA SÚMULA 235/STJ. COMPETÊNCIA DO JUÍZO SUSCITADO.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Caraguatatuba - SJ/SP e o Juízo Federal da 6ª Vara Cível de Brasília - SJ/DF, relacionado à ação ordinária n. 1018170-27.2017.4.01.3400 ajuizada por [NOME] em desfavor da União.
+O Juízo suscitado, reconhecendo a conexão entre a ação ordinária n. 1018170-27.2017.4.01.3400 e a ação ordinária n. 0000662-42.2015.4.03.6135, em trâmite na Vara Federal Cível de Caraguatatuba/SP, declinou da competência e determinou a remessa dos autos àquele Juízo, consoante decisão acostada às fls. 2.060-2.061.
+Ao suscitar o presente conflito de competência, o Juízo Federal da 1ª Vara de Caraguatatuba - SJ/SP, registrou que não há falar em conexão entre os referidos feitos pois, além de não possuírem a mesma causa de pedir, a Ação Ordinária n. 0000662-42.2015.4.03.6135 já foi julgada.
+É o relatório. Passo a decidir.
+A questão não comporta maiores discussões.
+Com efeito, a conexão visualizada pelo Juízo suscitado não se faz presente no caso concreto, notadamente porque a Ação Ordinária n. 0000662-42.2015.4.03.6135 foi sentenciada (cópia às fls. 8-13), o que atrai a aplicação da Súmula n. 235/STJ: "A conexão não determina a reunião dos processos, se um deles já foi julgado".
+Anote-se que em consulta ao sítio do Tribunal Regional Federal da 3ª Região, obtém-se a informação de que referida sentença foi objeto de recurso de apelação interposto em 26/2/2019, sendo, desse modo, manifesta a inviabilidade da reunião dos processos, visto que um dos feitos encontra-se em fase recursal.
+Assim sendo, com razão o Juízo suscitante acerca da sua incompetência para o feito em curso na Seção Judiciária do Distrito Federal.
+A propósito:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA E RECONVENÇÃO PARA RECOMPOSIÇÃO DO PATRIMÔNIO DE EMPRESA PÚBLICA FEDERAL. CONEXÃO COM AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. INEXISTÊNCIA DE CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE SOLICITAÇÃO DOS AUTOS AO JUÍZO SUSCITADO A FIM DE QUE OS PROCESSOS FOSSEM REUNIDOS E JULGADOS PELO JUÍZO SUSCITANTE. ARTS. 105 E 115, III, DO CPC. AÇÃO TRABALHISTA E RECONVENÇÃO QUE ORA SÃO OBJETO DE RECURSO ORDINÁRIO. IMPOSSIBILIDADE DE SE EXAMINAR EVENTUAL CONEXÃO COM AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA DA SÚMULA 235/STJ.
+1. Conflito positivo de competência suscitado pelo TRT da 10ª Região, em sede de recurso ordinário, diante de possível conexão entre as causas de pedir expostas na reconvenção ajuizada pelo reclamado (SERPRO) e na ação civil pública por ato de improbidade administrativa, esta ajuizada pelo Ministério Público Federal na 22ª Vara da Seção Judiciária do Distrito Federal.
+2. O caso, em tese, teria respaldo no que prescreve o inciso III do artigo 115 do CPC, entretanto não há manifestação do Juízo suscitado determinando a reunião das ações propostas.
+3. Ausente a controvérsia a respeito da reunião ou separação dos processos, não há falar em conflito de competência positivo ou negativo.
+4. Além disso, o feito que tramita na Justiça do Trabalho já foi sentenciado (fls. 134-143) e se encontra em sede de recurso ordinário, o que atrai a incidência da Súmula 235/STJ, que assim dispõe: "A conexão não determina a reunião dos processos, se um deles já foi julgado". Nesse sentido, confiram-se: CC 47611/SP, Rel. Min. Teori Albino Zavascki, Primeira Seção, DJ 02/05/2005; CC 108717/SP, Rel. Min. Nancy Andrighi, Segunda Seção, DJe 20/09/2010; e AgRg no CC 111.426/BA, Rel. Min. Og Fernandes, Terceira Seção, DJe 21/03/2012.
+5. Conflito de competência não conhecido (CC 121.177/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 7/5/2013).
+Em igual sentido: CC 157.611/RJ, Rel. Ministro Napoleão Nunes Maia Filho, DJe 2/5/2018; CC 132.391/PB, Rel. Ministro Mauro Campbell Marques, DJe 11/3/2014.
+Isso posto, conheço do conflito para declarar a competência do Juízo Federal da 6ª Vara Cível de Brasília - SJ/DF, forte no art. 955, parágrafo único, do CPC/2015 combinado com o art. 34, XXII, do RISTJ.
+Publique-se. Intimem-se.
