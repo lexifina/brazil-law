@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. RECEBIMENTO DA REPARAÇÃO ECONÔMICA EM PARCELA ÚNICA. TERMO DE ADESÃO PARA RECEBIMENTO PARCELADO. COAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO. ORDEM DENEGADA.
+DECISÃO
+Trata-se mandado de segurança, com pedido liminar, impetrado por [NOME] contra ato omissivo do Ministro de Estado do Planejamento, Desenvolvimento e Gestão e do Ministro de Estado da Justiça consubstanciado no não pagamento da indenização decorrente de ato de anistia política.
+O impetrante narra ter sido declarado anistiado político por meio da Portaria n. 1.213, de 3 de novembro de 2016, todavia o referido ato previu o ressarcimento econômico de forma parcelada, o que, viola, em tese, seu direito líquido e certo de receber, por meio de parcela única, o valor reconhecido como devido. Confira-se (fl. 6):
+O impetrante ataca nesta ação Mandamental a decisão constante da Portaria 1.213 em que o ressarcimento econômico foi parcelado, uma vez que deve ser feito de forma integral, em parcela única.
+ ..
+Deve ser ressaltado que a Autoridade Impetrada cumpriu parcialmente a portaria declaratória de anistia política do Impetrante, ou seja, fazendo apenas a "reparação econômica em prestação mensal, permanente e continuada" - sem aduzir o pagamento em parcela única, mesmo havendo previsão orçamentária.
+Prossegue o impetrante ao afirmar que foi coagido a assinar o termo de adesão, referente ao parcelamento do ressarcimento econômico (fl. 9):
+O impetrante foi coagido a aderir ao termo de adesão constante do parcelamento de ressarcimento econômico, concedido em razão da anistia política.
+No documento consta que o impetrante receberá o valor de sua indenização da seguinte forma, anexo:
+a) Uma parcela equivalente a 5 (cinco) prestações mensais, no ano de assinatura do Termo de Adesão;
+b) A partir do mês de janeiro do ano seguinte ao da assinatura do Termo de Adesão: - 48 (quarenta e oito) parcelas, mensais e sucessivas, no valor de R$4.000,00 (quatro mil reais);
+c) A partir do término do pagamento das parcelas estabelecidas na alínea b: - parcelas mensais e sucessivas no valor de R$5.000,00 (cinco mil reais);
+d) Serão quitados, até o mês de competência de fevereiro de cada ano, os saldos a pagar remanescentes em dezembro do ano anterior de até:
+I - R$50.000,00 (cinquenta mil reais) durante os 5 (cinco) primeiros anos após a assinatura do Termo de Adesão, ressalvado o disposto na alínea a do inciso I do caput do art 4º desta Lei nº 11.354/2006;
+II - R$100.000,00 (cem mil reais) no sexto ano após a assinatura do Termo de Adesão;
+III - R$200.000,00 (duzentos mil reais) no sétimo e oitavo ano após a assinatura do Termo de Adesão; e IV - qualquer valor de saldo a pagar remanescente, no nono ano após a assinatura do Termo de Adesão;
+e) Para fins do disposto nesta cláusula, o valor da prestação mensal é o recebimento pelo anistiado a título de reparação econômica no mês de competência do pagamento da parcela, excluído o correspondente ao décimo terceiro salário f) Nos casos de beneficiários de pensão o valor corresponderá a cota parte a que cada um tem direito, calculado sobre o valor devido ao anistiado.
+Pede liminar, a fim de que seja quitada a reparação econômica por meio de parcela única. E assim o faz porque o direito " ..  se encontra incontestavelmente demonstrado por meio da anexa cópia integral do recurso de número 2003.01.21142 que declarou o impetrante anistiado político desde 03 de novembro de 2016 (com efeitos retroativos de 04/08/2016 a 27.02.1998), nos exatos termos decorrentes da Portaria n. 1.213, de 03.11.2016, publicada em 07.11.2016, expedida pelo Ministro de Estado da Justiça. (fl. 14)". Informa que o perigo na demora, por sua vez, decorre da sua idade avançada e por ser provedor da família.
+A liminar pleiteada foi indeferida.
+O Ministério do Planejamento, Orçamento e Gestão prestou informações às fls. 1141 e ss. Alega que não há prova pré-constituída da alegação de coação. Aduz que o Termo de Adesão foi baseado nos arts. 1º e 2º da Lei 11.354/2006, remetido ao impetrante por meio de mensagem eletrônica e por ele assinado e protocolizado. Relata que o Ministério vem dando cumprimento àquilo a que se comprometeu por meio do Termo de Adesão.
+A União manifestou interesse no feito à fl. 1163.
+Informações do Ministério da Justiça e Segurança Pública às fls. 1181 e ss.
+Parecer do Ministério Público Federal às fls. 3428 e ss. Aponta que nos autos consta cópia do e-mail enviado pelo Ministério O Planejamento ao impetrante, cuja leitura, no entender do Parquet, "leva a entender que o processo de anistia só terá prosseguimento se forem apresentados os documentos listados no comunicado, dentre os quais o termo de adesão assinado e com firma reconhecida - fls. 1156" (fl. 3434). Por essa razão, no entender ministerial, o Termo de Adesão haveria de ser invalidado, concedendo-se a ordem.
+É o relatório.
+Trata-se de apreciar mandado de segurança que impugna a validade do Termo de Adesão firmado pelo impetrante e colacionado à fl. 1158/e-STJ.
+A despeito da tese do impetrante, de que tenha sido "coagido" a assinar tal documento como condição para "dar prosseguimento ao processo de anistia" (como constou do texto do e-mail cuja cópia consta à fl. 1156, remetido ao impetrante em 31 de janeiro de 2017), é de se notar que a condição de anistiado político já havia sido reconhecida ao impetrante pela Portaria 1213, de 3 de novembro de 2016, publicada no DOU de 7 de novembro de 2016 (sendo feita expressa menção a tal Portaria do texto do Termo de Adesão assinado pelo impetrante (fl. 1158).
+Diante deste quadro, conclui-se que não há base fática idônea que autorize reconhecer que o impetrante tenha firmado o termo de adesão por "temor de dano iminente e considerável à sua pessoa, à sua família ou aos seus bens" (conforme exige o art. 151 do Código Civil para que se reconheça vício na declaração de vontade).
+É nesta linha a orientação deste Superior Tribunal de Justiça:
+ADMINISTRATIVO. ANISTIA. MANDADO DE SEGURANÇA PREVENTIVO. TERMO DE ADESÃO ASSINADO. COAÇÃO NÃO DEMONSTRADA. LEGALIDADE DA CLÁUSULA PELA QUAL A PARTE ABRE MÃO DE DISCUSSÃO JUDICIAL. PRECEDENTES. ORDEM DENEGADA.
+1. Mandado de Segurança Preventivo fundado na alegação de que o impetrante foi coagido a firmar Termo de Adesão determinado pela Lei 11.354/2006, contendo pré-condição para pagamento de quantias a que faria jus em razão de anistia, a saber, a não-propositura de demanda destinada a impugnar o valor e a forma de pagamento estabelecidos.
+2. O impetrante afirma que o MPOG somente pode parcelar e postergar pagamentos em caso de ausência de recursos e que foi contemplado com rubrica em orçamento para arcar com tais indenizações.
+3. A assinatura do Termo de Adesão para pagamento constitui mera faculdade do anistiado, uma vez que ninguém pode ser compelido a aderir a acordo para recebimento de valor a que faz jus. Precedentes do STJ.
+4. O STJ reconhece a legitimidade do compromisso estabelecido nos termos da Lei 11.354/2006, segundo a qual, ao assinar termo de adesão, a parte abre mão de discussão judicial sobre o tema. A questão já foi apreciada em Mandado de Segurança repressivo, embora tanto lá quanto aqui se parta da mesma premissa: a eficácia da aceitação das condições legais e a assinatura do termo de adesão.
+5. A caracterização da coação depende da demonstração e da prova dos seguintes requisitos: ser a causa determinante do ato (relação de causalidade); incutir no paciente um temor justificado e relativo a um dano iminente, o qual deve ser considerável e referir-se ao sujeito, sua família ou seus bens (CC, arts. 151-155). Considere-se ainda que, consoante o art. 333, I, do CPC, o ônus da prova da coação era do impetrante, reforçado pela necessidade de demonstração documental e de plano, exigida pelo rito do Mandado de Segurança (art. 1º da Lei 12.016/2009).
+6. A única "prova" da coação apresentada é o próprio termo de adesão, firmado por um Deputado Estadual, advogado e certamente conhecedor dos vícios de consentimento e da gravidade da coação. Não há nenhuma declaração de terceiros/testemunhas; descrições de situações fáticas a expor o temor e o dano iminente considerável;
+tampouco histórico dos contatos entre as partes, nada.
+7. A coação à assinatura do termo de adesão é impresumível e não foi demonstrada na estreita via do Mandado de Segurança.
+8. Segurança denegada.
+(MS 15.746/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23/02/2011, DJe 15/09/2011)
+Por tais razões, não havendo direito líquido e certo do impetrante ao reconhecimento do alegado defeito no Termo de Adesão, denego a segurança (artigo 214, parágrafo único, RI/STJ).
+Custas pelo impetrante. Sem condenação ao pagamento de honorários advocatícios (art. 25 da Lei 12.016/2009).
+Publique-se. Intimem-se.
