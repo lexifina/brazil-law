@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial pela ausência de violação ao artigo 1.022 do CPC/2015.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 112):
+APELAÇÃO - EXECUÇÃO FISCAL - ICMS - PRESCRIÇÃO - Manutenção da sentença extintiva da prescrição, porém pelo fundamento da prescrição quinquenal - ICMS - Prazo prescricional quinquenal para cobrança dos tributos, cujo termo inicial é a data do vencimento da obrigação Tributária - Precedentes do C. STJ - Decurso de mais de cinco anos entre a constituição definitiva e a citação da empresa executada - Inteligência do art. 174 do CTN - Negado provimento à apelação da FESP.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega ofensa ao artigo 1.022, I e II, do CPC/2015, afirmando, em síntese, que o Tribunal de origem não se manifestou sobre a não ocorrência da prescrição quinquenal.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Com relação à questão da prescrição quinquenal, extrai-se do acórdão recorrido as seguintes considerações (fls. 113/114):
+3. Como é cediço, o ICMS é um imposto lançado por homologação, ou seja, compete ao contribuinte registrar suas operações, apurar e recolher o imposto devido, submetendo ao posterior controle do Fisco. Contudo, o STJ já decidiu que "quando houver a declaração sem o respectivo pagamento, a entrega de Declaração de Débitos e Créditos Tributários Federais - DCTF, de Guia de Informação e Apuração do ICMS - GIA, ou de outra declaração dessa natureza prevista em lei (dever instrumental adstrito aos tributos sujeitos a lançamento por homologação), é modo de constituição do crédito tributário, dispensando a Fazenda Pública de qualquer outra providência conducente à formalização do valor declarado. Nesses casos, não há prazo decadencial, mas prescricional quinquenal para cobrança dos tributos, cujo termo inicial é a data do vencimento da obrigação tributária ou a data da entrega da declaração, quando posterior".
+No caso em comento, o crédito mais recente venceu em maio de 2001. A partir de então, o fisco teria cinco anos para cobrá-lo, conforme previsto pelo artigo 174 do CTN.
+É importante frisar que, à época dos fatos, era a citação que interrompia a prescrição - e não o despacho que a ordenava, o que somente foi modificado após a edição da Lei Complementar n.º 118, de 09/02/2005, que, alterou a redação do artigo 174 do Código Tributário Nacional. Ainda que, com fundamento no disposto no artigo 8º, § 2º da LEF, sustente-se o contrário, não se pode olvidar que, a Lei de Execuções Fiscais, a despeito de se tratar de legislação especial, deve ser interpretada em consonância com as disposições do Código Tributário Nacional em vigor à época, face à prevalência deste, sobre aquela, por se tratar de lei complementar.
+Dessa forma, a prescrição somente seria interrompida com a citação válida da empresa executada. Conforme já mencionado, tal fato ocorreu apenas em janeiro de 2008, logo quando já transcorrido o prazo prescricional.
+Vale salientar a inaplicabilidade da Súmula 106 do STJ à espécie, tendo em vista que a ausência de citação naquele prazo não se deu por motivos inerentes ao mecanismo da Justiça. Nesse sentido, se observa que a execução foi ajuizada quando já transcorridos 05 (cinco) anos da constituição definitiva do crédito mais recente.
+Como se verifica, o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Ante ao exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
