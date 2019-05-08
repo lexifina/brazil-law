@@ -1,0 +1,17 @@
+DECISÃO
+COMPETÊNCIA – SUPREMO – CESSAÇÃO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    Este inquérito foi instaurado para apurar o suposto cometimento, por Nelson Meurer, então deputado federal, Nelson Meurer Júnior, Cláudia Frigeri, Marijani Blasius Ribeiro e Juan Artigas Souza Luz, de crime contra a Administração Pública, consubstanciado na apresentação de emendas parlamentares pelo Deputado em contrapartida à contratação de serviços de consultoria prestados por Nelson Meurer Júnior e Cláudia Frigeri a Municípios do Estado do Paraná.
+    Ante possível envolvimento de Deputado Federal no contexto delituoso, o Juízo da Vara Federal da Subseção Judiciária de Francisco Beltrão/PR declinou da competência, determinando a remessa dos autos ao Supremo. Interposto recurso em sentido estrito pelo Ministério Público Federal atuante na primeira instância, o Tribunal Regional Federal da 4ª Região desproveu-o e encaminhou o inquérito ao Supremo.
+    O Ministério Público do Estado do Paraná, mediante o Ofício nº 265/2011, requereu o compartilhamento de eventuais provas para instruir o inquérito civil público nº MPPR-0076.11.000161-7, no qual se apura a alegada prática de improbidade administrativa na contratação de serviços de advocacia por meio de carta-convite.
+    Vossa Excelência, em 24 de junho de 2012, determinou o desmembramento dos autos no tocante aos investigados sem prerrogativa de foro, mantendo-se a competência do Supremo somente quanto ao deputado federal Nelson Meurer. No mesmo pronunciamento, deixou de acolher o pedido de compartilhamento de provas.
+    O Pleno, em 13 de dezembro seguinte, examinou o agravo interposto pela Procuradoria-Geral da República, constando, na ata de julgamento, o desprovimento do recurso, por maioria.
+    A Procuradoria-Geral da República formalizou embargos declaratórios, nos quais arguiu a existência de contradição entre o extrato da ata e o resultado proclamado do julgamento. Assinalou que, pelo teor do voto de cinco Ministros – presentes à sessão nove –, a decisão majoritária do Colegiado foi no sentido do provimento do recurso para afastar o desmembramento dos autos determinado por Vossa Excelência. Sustentou a ocorrência de omissão, considerada a ausência de transcrição integral, no acórdão, do conteúdo dos votos dos ministros Ricardo Lewandowski e Luiz Fux.
+    O Pleno, em 12 de dezembro de 2018, por unanimidade, nos termos do voto de Vossa Excelência, proveu parcialmente os embargos, para consignar que, relativamente ao desmembramento, foi deferido o que pleiteado pela Procuradoria-Geral da República, mantendo-se o inquérito, na totalidade, sob a supervisão do Supremo.
+    A Procuradoria-Geral da República, com a petição/STF nº 23.457/2019, aponta haver materialidade e indícios de autoria. Diz da necessidade de novas diligências para o prosseguimento da apuração dos fatos. Afirma que Nelson Meurer, desde 31 de janeiro de 2019, não exerce mandato de Deputado Federal. Requer o envio dos autos ao Juízo da Vara Federal da Subseção Judiciária de Francisco Beltrão/PR.
+    2. A competência do Supremo é de Direito estrito e está balizada de forma rígida na Constituição Federal. O término do mandato do parlamentar direciona a concluir-se não mais persistir a prerrogativa de foro.
+    3. Remetam o inquérito ao Juízo da Vara Federal da Subseção Judiciária de Francisco Beltrão/PR.
+    4. Publiquem.
+Brasília, 8 de maio de 2019.
+Ministro MARCO AURÉLIO.
+Relator
