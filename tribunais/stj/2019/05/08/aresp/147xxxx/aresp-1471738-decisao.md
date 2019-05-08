@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por ASSOCIAÇÃO DOS FUNCIONÁRIOS PÚBLICOS DO ESTADO DO RIO GRANDE DO SUL contra a decisão que não admitiu seu recurso especial, visando reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 239):
+AGRAVO DE INSTRUMENTO. SEGUROS. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA ANTECIPADA. PLANO DE SAÚDE. TRATAMENTO INDICADO PELO ASSISTENTE TÉCNICO. COBERTURA PARCIALMENTE DEVIDA.
+1. Os contratos de planos de saúde estão submetidos ao Código de Defesa do Consumidor, nos termos do artigo 35 da Lei 9.656/98, pois envolvem típica relação de consumo. Assim, incide, na espécie, o artigo 47 do CDC, que determina a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor.
+2. Dermolipectomia (correção do abdômen de avental) e correção de diástase dos retos-abdominais O plano de saúde não pode se recusar a custear tratamento prescrito pelo médico, pois cabe a este definir qual é o melhor tratamento para o segurado. Além disso, o que importa é a existência de cobertura do contrato para a doença apresentada pela parte autora, não importando a forma como o tratamento será ministrado. Presença dos requisitos autorizadores da antecipação de tutela. Art. 300 do CPC.
+3. Correção de hipertrofia mamária. Em sede de cognição sumária, com base no art. 300 do CPC, não se afiguram presentes os requisitos indispensáveis à concessão da tutela provisória de urgência. Ausente o perigo de dano ou o risco ao resultado útil do processo, pois inexiste qualquer laudo médico referindo a necessidade imediata da realização do procedimento cirúrgico pela autora.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, uma vez que é incabível, em regra, recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem para deferir ou indeferir medidas liminares ou antecipações de tutela.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito""(AgInt no AREsp 1351487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/12/2018, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp 1321705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/2/2019, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
