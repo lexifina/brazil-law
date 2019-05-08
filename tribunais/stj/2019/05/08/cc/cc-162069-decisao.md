@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o r. JUÍZO DE DIREITO DA 3.ª VARA DE FAMÍLIA E SUCESSÕES DE SANTOS-SP, suscitante, e o r. JUÍZO DE DIREITO DA 5.ª VARA DE FAMÍLIA E SUCESSÕES DE CURITIBA-PR, suscitado.
+Ação: de sobrepartilha movida por [NOME], representada por [NOME], em razão do falecimento de seu marido [NOME] (fls. 7-11).
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que "(..) considerando que o presente feito se trata de demanda de Sobrepartilha, bem como que o de cujos possuía residência fixa na cidade de Santos/SP, conforme se depreende da certidão de óbito de seq. 22.4, aplica-se ao presente caso o dispossto no art. 48, caput, do CPC/15." (fl. 320)
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, ao fundamento de que "(..) a regra prevista no artigo 48, do novo Código de Processo Civil que regula a distribuição das ações de inventário, partilha, arrecadação, cumprimento das disposições de última vontade e todas aquelas em que o espólio for réu, é qualificada como de competência territorial e, portanto, relativa. Nesse sentido, é vedado ao Juízo declinar da competência de ofício, determinando a redistribuição dos autos, sem a competente provocação da parte que supostamente foi prejudicada com a distribuição da forma originalmente realizada." (fls. 02)
+O MPF opinou pelo reconhecimento da competência do r. juízo suscitado. (fls. 346-348)
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. É firme a jurisprudência deste Tribunal, inclusive já sumulada (Súmula 33/STJ), no sentido da impossibilidade de declaração ex officio da competência relativa. Nesse sentido, confira-se: CC 37.149/RN, Rel. Ministro Hélio Quaglia Barbosa, julgado em 27/04/2005, DJ 09/05/2005; CC151.824/SC, Rel. Min. Marco Aurélio Bellizze, DJe de 25/05/2017; CC138.434/SP, Rel. Min. Paulo de Tarso Sanseverino, Dje de 07/08/2015.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo de Direito da 5.ª Vara de Família e Sucessões de Curitiba-PR, o suscitado.
+Publique-se. Intimem-se. Oficie-se.
