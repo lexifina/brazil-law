@@ -1,0 +1,6 @@
+DECISÃO
+Em razão da consulta formulada pela Coordenadoria de Execução Judicial, à fl. 475, decido o seguinte:
+1. Defiro o pedido de habilitação da pensionista [NOME]. Em razão da renúncia e cessão de direitos realizados em favor da referida pensionista e, diante da análise judicial do pedido feita nesta oportunidade, desnecessária a formalização dos documentos mediante instrumento público. Por esse motivo, determino que a expedição de alvará de levantamento se dê em nome de [NOME], desde que em termos os demais documentos apresentados.
+2. Embora o termo de compromisso apresentado às fls. 457 e 469 não assinale a possibilidade de levantamento do crédito referente à RPV n. 5510, nada obsta que o inventariante, como representante legal do espólio, faça esse levantamento. Entretanto, o referido crédito deverá ser adicionado aos bens e direitos apurados pelo espólio, com a devida notificação do juízo onde tramita o feito sucessório, sob responsabilidade do inventariante até a efetivação da partilha. Assim, permito que o levantamento seja feito por [NOME].
+3. Intime-se o exequente para que regularize a inconsistência documental indicada em relação aos RPV"s n. 5500 e 5515.
+Publique-se e cumpra-se.
