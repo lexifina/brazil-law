@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea c, da Constituição Federal, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+FURTO SIMPLES - APELAÇÃO - CONJUNTO PROBATÓRIO SUFICIENTE PARA O RECONHECIMENTO DO CRIME - ABSOLVIÇÃO - DESCABIMENTO - INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA DIANTE DA CONCRETA OFENSA AO BEM JURÍDICO TUTELADO - REPRIMENDA - SUBSTITUIÇÃO DA PENA DE RECLUSÃO POR DETENÇÃO PORQUANTO RECONHECIDO MONOCRATICAMENTE O FURTO PRIVILEGIADO - SENTENÇA REFORMADA NESSA EXTENSÃO - RECURSO PARCIALMENTE PROVIDO. (fl. 132)
+Quanto à controvérsia, pela alínea c, indica como acórdão paradigma o AgRg no REsp n. 1.376.290/RJ (fls. 159), no que concerne à aplicação do princípio da insignificância em razão do ínfimo valor da res furtiva.
+É o relatório. Decido.
+O acórdão recorrido examinou a controvérsia da seguinte maneira:
+"Inaplicável o princípio da insignificância, especialmente por considerar reprovável a conduta do suplicante, porquanto imbuída de perceptível gravidade, ao menos socialmente, especialmente por ter envolvido adolescente, tornando a submissão à sanção criminal indispensável, tanto à aplicação da justiça, quanto à
+segurança dos valores da sociedade.
+Outrossim, além da inexistência de previsão legal para o reconhecimento da aludida tese defensiva, diante da concreta ofensa ao bem jurídico tutelado, não pode ser acolhida a alegação apenas e tão somente com base no valor correspondente dos bens furtados (que sequer é quantia irrelevante) ou em razão de eventual recuperação" (fl. 134).
+Por outro lado, o acórdão paradigma retrata a análise a seguir:
+Ademais, em face da irrelevante da lesão produzida ao bem jurídico tutelado, da ausência de periculosidade social da ação e do reduzido grau de reprovabilidade da conduta - tentativa de furto de 28 pacotes de chocolates M&M"s, 6 drops Halls, 4 caramelos Fruit-tella, 07 barras de chocolate Twix e uma barra de chocolate Suflair avaliados no total em R$ 184,00, 33% do valor do salário mínimo vigente à época do fato - deve ser mantido o entendimento do Tribunal de origem de aplicar o princípio da insignificância. (fl. 160)
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que não realizou devidamente o indispensável cotejo analítico, pois o acórdão paradigma e o acórdão recorrido não guardam similitude fática.
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
