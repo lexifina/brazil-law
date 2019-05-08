@@ -1,0 +1,21 @@
+DECISÃO
+MANDADO DE SEGURANÇA – ATO JUDICIAL – TERATOLOGIA – INEXISTÊNCIA – DILAÇÃO PROBATÓRIA – INADEQUAÇÃO –SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. William Akerman Gomes prestou as seguintes informações:
+    João Alves da Silva, desembargador do Tribunal de Justiça do Estado da Paraíba, insurge-se contra alegada omissão do relator da reclamação nº 25.763, ministro Alexandre de Moraes, o qual não teria levado a julgamento do Colegiado agravos interpostos em face do pronunciamento liminar e da decisão individual de mérito.
+    Segundo narra, foi impugnada a própria eleição para a Presidência, mediante reclamação formalizada por Desembargadores daquele Tribunal, sob o argumento de inconstitucionalidade das normas locais alusivas à matéria. Discorre sobre a tramitação processual, destacando o deferimento da medida acauteladora para suspender os efeitos da eleição considerados cargos de direção, no que determinada a realização de novo escrutínio, ante o disposto no artigo 102 da Lei Orgânica da Magistratura Nacional.
+    Aduz terem sido protocolados recursos, pendentes de exame. Sublinha que, apreciado monocraticamente o mérito da reclamação, formalizou agravo interno em 29 de agosto de 2017, não submetido à Segunda Turma deste Tribunal.
+    Sustenta desarrazoada a demora de mais de seiscentos dias no julgamento. Afirma violado direito líquido e certo à prestação jurisdicional célere e eficaz, aludindo aos artigos 4º do Código de Processo Civil e 5º, incisos XXXV, LIV e LXXVIII, da Constituição Federal.
+    Requer, no campo precário e efêmero, seja determinado que a autoridade coatora inclua em pauta os agravos internos. No mérito, postula a confirmação da medida acauteladora, com o deferimento da ordem.
+    2. Observem a dinâmica e a instrumentalidade do Direito. O mandado de segurança em face de pronunciamento judicial é excepcional, pressupondo decisão teratológica, a ocasionar grave dano de difícil ou incerta reparação à parte.
+    O prazo para julgamento é direcionado ao juiz como parâmetro para a prática do ato no desempenho da função processual. Constitui o que doutrina e jurisprudência denominam prazo impróprio, cujo descumprimento não acarreta consequências processuais típicas, persistindo a possibilidade de atuação.
+    A jurisprudência do Supremo firmou-se no sentido de não se admitir impetração contra decisão de Ministro Relator, de Turma ou do Plenário do próprio Tribunal, independentemente de haver sido proferida em sede de habeas corpus ou recursos em geral, consoante revelado no verbete nº 606 da Súmula.
+    Embora se trate de mandado de segurança, e não de habeas corpus, deve-se ter presente serem ambos da competência originária do Supremo quando formalizados em face de Ministro que o integre – artigo 102, inciso I, alíneas “d” e “i”, da Constituição Federal. Se mesmo aquela ação nobre não se mostra adequada no caso, não há teratologia no apontado ato omissivo a justificar o manejo do mandado de segurança contra pronunciamento de membro do Tribunal.
+    Quanto ao direito passível de ser resguardado por meio da ação civil de rito sumário especial, sempre atuais as lições de Hely Lopes Meirelles:
+    Direito líquido e certo é o que se apresenta manifesta na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração. Por outras palavras, o direito invocado, para ser amparável por mandado de segurança, há de vir expresso em norma legal e trazer em si todos os requisitos e condições de sua aplicação ao impetrante: se sua existência for duvidosa, se sua extensão ainda não estiver delimitada; se seu exercício depender de situações e fato ainda indeterminados, não rende ensejo à segurança, embora possa ser defendido por outros meio judiciais.
+    (MEIRELLES, Hely Lopes; WALD, Arnold; MENDES, Gilmar Ferreira. Mandado de segurança e ações constitucionais. 22 ed. São Paulo: Malheiros, 2009. p. 34)
+    Incontáveis fatores podem comprometer a rapidez na prestação jurisdicional. Avaliar se a demora é ou não justificada exige dilação probatória, inviável nesta estreita via.
+    3. Nego seguimento ao mandado de segurança.
+    4. Publiquem.
+Brasília, 8 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
