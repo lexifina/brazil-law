@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi preso em flagrante delito pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - IMPETRAÇÃO VISANDO TRANCAMENTO DA AÇÃO PENAL, SOB ALEGAÇÃO DE INÉPCIA DA DENUNCIA SOB ARGUMENTO QUE ESTÁ AQUELA PAUTADA EM PROVA ILÍCITA, POSTO QUE NÃO HAVIA MANDADO DE BUSCA E APREENSÃO PARA QUE OS AGENTES PROCEDECEM ÀS BUSCAS, PORTANTO PATENTE A VIOLAÇÃO DE DOMICÍLIO. - REVOGAÇÃO DA PRISÃO PREVENTIVA DO PACIENTE ARGUMENTOS SOBRE A ILEGALIDADE DO FLAGRANTE E SOBRE A FALTA DE MOTIVAÇÃO IDÓNEA DO DECRETO PRISIONAL, APONTANDO-SE A NÃO CARACTERIZAÇÃO DO DELITO E A AUSÊNCIA DOS REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL DIANTE DE ALEGADAS CONDIÇÕES PESSOAIS FAVORÁVEIS. VEDAÇÃO DO REEXAME DOS FATOS NA VIA DO WRIT, EXPOSTA MOTIVAÇÃO SUFICIENTE PELO JULGADOR NO DECRETO PRISIONAL PARA MOTIVAR O DECRETO PRISIONAL. TRÁFICO DE DROGAS - PRESENÇA DE INDÍCIOS DE MATERIALIDADE E AUTORIA, JUSTIFICANDO-SE A CUSTÓDIA PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA - FLAGRANTE REVESTIDO DE LEGALIDADE DIANTE DAS CARACTERÍSTICAS DO FATO - PERICULOSIDADE DA CONDUTA DEFINIDA, NO CASO PELAS CIRCUNSTÂNCIAS DO FATO, AGENTE LOCALIZADO EM LOCAL JÁ CONHECIDO COMO PRONTO DE TRÁFICO E DOS ENTORPECENTES APREENDIDOS - NECESSIDADE DE ACAUTELAR O MEIO SOCIAL E A APLICAÇÃO DA PENA, NÃO SE MOSTRANDO ADEQUADA A IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS - PRECEDENTES - NECESSIDADE DA PRISÃO QUE NÃO RESTA NFIRMADA DIANTE APENAS DE CONDIÇÕES SUBJETIVAS FAVORÁVEIS CONSTRANGIMENTO ILEGAL INOCORRIDO - ORDEM DENEGADA(fls. 58/59).
+No presente recurso, sustenta a ilicitude da prisão em flagrante uma vez que os policiais militares ingressaram na residência sem autorização dos moradores e sem ordem judicial.
+Afirma que não estão presentes os requisitos necessários para a custódia cautelar.
+Requer, assim a concessão da ordem para o trancamento da ação penal ou a revogação da prisão preventiva.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, conforme parecer de fls. 102/107.
+É o relatório.
+Decido.
+O pedido está prejudicado, pois conforme demonstram as informações obtidas na página eletrônica do Tribunal de origem, nos autos da ação penal n. 0002609-23.2018.8.26.019, sobreveio sentença condenatória pela prática do crime de posse de droga para consumo pessoal em desfavor do paciente em 30/11/2018, transitada em julgado para ambas as partes, o que afasta qualquer lesão ou ameaça de lesão à liberdade de locomoção do paciente, ocasionando a perda superveniente do objeto da impetração.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
