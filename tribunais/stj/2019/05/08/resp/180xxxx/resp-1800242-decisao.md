@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO (FAZENDA NACIONAL), contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 1ª Região no julgamento de apelações e remessa oficial, em juízo de retratação, em acórdão assim ementado (fls. 464/468e):
+PROCESSUAL CIVIL E TRIBUTÁRIO. JUÍZO DE ADEQUAÇÃO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001. CONSTITUCIONALIDADE. PRECEDENTE DO EGRÉGIO SUPREMO TRIBUNAL FEDERAL.
+1. O egrégio Supremo Tribunal Federal, no julgamento do RE 596177, sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), declarou inconstitucional a alteração da Lei nº 8.212/1991 pela Lei nº 8.540/1992, por ofensa formal (necessidade de lei complementar para tratar da matéria).
+2. Em decisão proferida pelo eminente relator Min. Ricardo Lewandowski, em embargos de declaração opostos pela União, nos autos do RE 596177, acima mencionado, restou explicitado que: "a discussão do tema com enfoque na Lei 10.256/2001 teve sua repercussão geral reconhecida nos autos do RE 718.874/RS, de minha relatoria. Assim, o julgamento desse feito será a oportunidade adequada para o enfrentamento da matéria".
+3. Sobre o tema nº 669, o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543- B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718874/RS, em 30/03/2017, fixou a seguinte tese: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção".
+4. Assim, a Suprema Corte reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional nº 20/1998, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+5. Ademais, prescreve o art. 1.035, § 11, do NCPC que: "A súmula da decisão sobre a repercussão geral constará de ata, que será publicada no diário oficial e valerá como acórdão", restando afastados os argumentos de que os efeitos da Repercussão Geral só poderão ocorrer após o trânsito em julgado do aresto, devendo ser observados também o disposto nos incisos II e III do art. 1.040 do NCPC.
+6. Em juízo de adequação, apelação da Fazenda Nacional e remessa oficial, tida por interposta, providas. Apelação do autor prejudicada.
+Opostos embargos de declaração, por [NOME] (fls. 4718472e) e pela UNIÃO (fls. 475/478e), ambos foram rejeitados (fls. 480/483e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que (fls. 486/492e):
+Art. 1.022 do Código de Processo Civil - a Turma julgadora, não obstante provocação por meio do competentes embargos de declaração, teria deixado de se manifestar a respeito da incidência do art. 85, § 3º, I, e § 4º, III, do CPC/2015 e a consequente fixação de honorários advocatícios entre 10 e 20% (dez e vinte por cento) sobre o valor atualizado da causa; e
+Art. 85, § 3º, I e § 4º, III, do Código de Processo Civil - A Turma julgadora teria fixado a verba honorária abaixo do mínimo legalmente estabelecido, porquanto não houve condenação principal e não se pode mensurar o proveito econômico, razão pela qual a condenação em honorários dar-se-á sobre o valor atualizado da causa, entre 10 e 20% (dez e vinte por cento) do seu montante atualizado.
+Sem contrarrazões (fl. 493e), o recurso foi admitido (fls. 494/495e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Assiste razão à Recorrente quanto à violação ao art. 1.022 do Código de Processo Civil.
+Verifico que o tribunal de origem, mesmo após a oposição de embargos de declaração, quedou-se silente sobre a incidência do art. 85, § 3º, I, e § 4º, III, do Código de Processo Civil de 2015 e a consequente fixação de honorários advocatícios entre 10 e 20% (dez e vinte por cento) sobre o valor atualizado da causa.
+Observo tratar-se de questão relevante, oportunamente suscitada e que, se acolhida, poderiam levar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação da tese, à luz do dispositivo infraconstitucional indicado a tempo e modo, impede o acesso à instância extraordinária.
+Caracterizadas, portanto, as omissões, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1.343.519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+Nesse sentido: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01.06.2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18.05.2015; REsp 1.502.033/MG, DJe de 05.06.2015; dentre outros.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, b e c, e 255, I e II, do RISTJ, DOU PARCIAL PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que seja suprida a omissão indicada.
+Prejudicada a análise da questão subjacente apresentada no especial.
+Publique-se e intimem-se.
