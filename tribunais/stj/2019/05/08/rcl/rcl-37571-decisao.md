@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO. PROCESSUAL CIVIL. NEGATIVA DE ADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIA POR FALTA DE REPERCUSSÃO GERAL. DESCABIMENTO DA VIA ELEITA. RECLAMAÇÃO DO PARTICULAR NÃO CONHECIDA.
+1. Trata-se de Reclamação ajuizada por [NOME] contra decisão que inadmitiu Recurso Extraordinário por ausência de repercussão geral, com base no tema 869.
+2. Em que pese o inconformismo apresentado nas razões manifestadas na peça de Reclamação, esta Corte Superior de Justiça, alinhada ao posicionamento do Supremo Tribunal Federal, considera descabida a interposição de Agravo de Instrumento, de Agravo nos próprios autos (Lei 12.322/2010), ou mesmo de Reclamação, em face de decisões que aplicam a nova sistemática da repercussão geral. Em tais casos, na verdade, o recurso correspondente haveria de ser, se fosse o caso, o Agravo Regimental, a ser decidido pelo próprio Tribunal responsável pelo juízo de admissibilidade do recurso extraordinário. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO NO RECURSO EXTRAORDINÁRIO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. DESCABIMENTO DE AGRAVO DE INSTRUMENTO, AGRAVO NOS PRÓPRIOS AUTOS OU RECLAMAÇÃO. FUNGIBILIDADE INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+I - Consoante entendimento do Supremo Tribunal Federal, descabida a interposição de agravo de instrumento, agravo nos próprios autos (Lei n.º 12.322/2010), ou mesmo de reclamação, em face de decisões que aplicam a nova sistemática da repercussão geral. Em tais casos, na verdade, o recurso correspondente haveria de ser, se fosse o caso, o agravo regimental, a ser decidido pelo próprio Tribunal responsável pelo juízo de admissibilidade do recurso extraordinário.
+II - A conversão do agravo dirigido ao Supremo Tribunal Federal em agravo regimental, aplicando-se o Princípio da Fungibilidade Recursal, apenas foi admitida para os agravos ou reclamações propostos em data anterior a 19/11/2009, quando a Corte Suprema consolidou a sua jurisprudência acerca do recurso cabível, restando dirimida eventual dúvida a respeito do veículo processual adequado. Precedentes.
+III - Agravo regimental desprovido (AgRg no ARE no RE nos EDcl no REsp. 1.273.643/PR, Rel. Min. GILSON DIPP, DJe 30.5.2014).
+
+AGRAVO REGIMENTAL EM RECLAMAÇÃO PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. DECISÃO IRRECORRÍVEL. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida.
+2. Esta Corte assentou o entendimento no sentido de que não cabe reclamação ou qualquer recurso ao Supremo da decisão do Juízo de origem que, com base em precedente produzido sob a sistemática da repercussão geral, nega a admissão de recurso extraordinário.
+3. Agravo regimental desprovido (STF - Rcl 22.924 AgR, Rel. Min. EDSON FACHIN, DJe 28.4.2016).
+3. Ante o exposto, não conheço da Reclamação do Particular. Prejudicado o exame do pedido liminar.
+4. Publique-se. Intimações necessárias.
