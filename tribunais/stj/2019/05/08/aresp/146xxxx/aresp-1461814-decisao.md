@@ -1,0 +1,6 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DEMANDA RECURSAL SOBRE JUROS COMPENSATÓRIOS EM CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. SUBMISSÃO AO REGIME DE RECURSOS REPRESENTATIVOS DE CONTROVÉRSIA REPETITIVA. PET. 12.344/DF. DEVOLUÇÃO AO TRIBUNAL DE ORIGEM. EARESP 380.796/RS.
+DECISÃO
+Um dos temas versados na petição do recurso especial interposto pela Potiguar Sul Transmissão de Energia S/A trata do regime dos juros compensatórios na indenização devida por si, nos termos do art. 15-A do Decreto-Lei 3.365/1941.
+Assim, considerando que essa parte da controvérsia está abrangida pelo decidido, em questão de ordem, na Pet. 12.344/DF, que pretende adequar a jurisprudência deste Tribunal Superior, firmada inclusive pelo regime de recursos repetitivos sob a égide do CPC/1973, ao conteúdo do julgamento prolatado na ADI 2.332/DF, e tendo em vista ainda que a Corte Especial recentemente deliberou, com fundamento no art. 1.037 do CPC/2015 e no art. 256-L do RISTJ, a devolução dos autos à origem, consoante o disposto nos EAREsp 380.796/RS, determino a baixa dos autos ao Tribunal da origem, para que sobreste o processamento do recurso especial, com as cautelas de praxe.
+Publique-se. Intimem-se.
