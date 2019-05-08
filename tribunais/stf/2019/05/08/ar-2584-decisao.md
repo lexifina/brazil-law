@@ -1,0 +1,52 @@
+Trata-se de ação rescisória, com pedido de tutela provisória, proposta por Abrão José Melhem e outros contra a União, com o objetivo de rescindir o acórdão proferido na Ação Rescisória 2.386/PR, de relatoria do Ministro Teori Zavascki.
+    Originalmente, o Ministério Público Federal - MPF ajuizou ação civil pública contra os ora autores com o objetivo de que:
+    “a) o Tribunal Regional do Trabalho da 9ª Região se abstenha de conceder aos juízes classistas férias anuais excedentes a 30 (trinta) dias;
+    b) os litisconsortes passivos sejam condenados a devolver aos cofres públicos os valores que teriam recebido, a título de segundo período de férias anuais, a partir de outubro de 1988, com os acréscimos legais; e
+    c) a declaração de inconstitucionalidade ou de ilegalidade da Resolução Administrativa n° 168/98 do TRT-9ª Região” (pág. 5 do documento eletrônico 1).
+    A ação foi julgada improcedente.
+    Inconformado, o MPF apresentou apelação ao Tribunal Regional Federal da 4ª Região, que deu provimento ao recurso.
+    Seguiram-se embargos declaratórios e, posteriormente, recursos especial e extraordinário, todos sem sucesso.
+    Ajuizou-se, então, a AR 2.386/PR nesta Corte, da qual foi relator o saudoso Ministro Teori Zavascki, buscando rescindir a decisão proferida no RE, tendo o relator negado seguimento ao feito.
+    Inconformados, interpuseram agravo regimental, ao qual foi negado provimento. Eis a ementa do acórdão de julgamento:
+    “AGRAVO REGIMENTAL. AÇÃO RESCISÓRIA. ART. 485, V, DO CÓDIGO DE PROCESSO CIVIL. RESOLUÇÃO DE TRIBUNAL REGIONAL DO TRABALHO QUE PREVIA 60 (SESSENTA) DIAS DE FÉRIAS ANUAIS A JUÍZES CLASSISTAS DE 2º GRAU. ILEGALIDADE RECONHECIDA EM AÇÃO CIVIL PÚBLICA JULGADA PROCEDENTE POR ACÓRDÃO DE TRIBUNAL REGIONAL FEDERAL, MANTIDO PELO JULGADO RESCINDENDO, EM HARMONIA COM ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE DE QUE OS JUÍZES CLASSISTAS FAZEM JUS APENAS AOS BENEFÍCIOS E VANTAGENS QUE LHE TENHAM SIDO EXPRESSAMENTE OUTORGADAS EM LEGISLAÇÃO ESPECÍFICA. IRREPETIBILIDADE DE VERBAS ALIMENTARES PAGAS DE BOA FÉ. MATÉRIA QUE NÃO PODERIA TER SIDO APRECIADA NO ACÓRDÃO RESCINDENDO, UMA VEZ QUE NÃO FOI OBJETO DO RECURSO EXTRAORDINÁRIO, APESAR DO INTERESSE DE RECORRER NO PONTO. NÃO CABIMENTO DA AÇÃO RESCISÓRIA, NESSAS CIRCUNSTÂNCIAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    Contra essa decisão foram opostos embargos de declaração, porém, rejeitados.
+    Ainda irresignados, os autores ajuizaram a presente ação rescisória, alegando em síntese, violação de artigos da Constituição (art. 1º, III; 5º, caput e LIV; 93, IV; 115) e art. 489, I, II e III do Código de Processo Civil. Sustentam o cabimento desta ação rescisória contra decisão proferida em ação rescisória anterior.
+    Aduziram que:
+    “[...] assim como todas as outras decisões judiciais, aquelas proferidas em sede de ação rescisória também estão eivadas de máculas que ensejam sua rescisão, como in casu.
+    O que não se permite, vale destacar, é a mera reiteração dos motivos da ação rescisória anterior, ou seja, a rescisória de rescisória não pode se apresentar como simples reiteração da matéria decidida na ação anterior (THEODORO JÚNIOR, 1998, p. 655) (pág. 20 do documento eletrônico 1).
+    Em relação à decisão rescindenda, afirmam que incorreu em erro de fato, ao admitir que o acórdão do TRF da 4ª Região que deu provimento à apelação do MPF, para julgar procedente a ação civil pública, estava fundamentado.
+    Afirmaram, além disso, que:
+    “[...] outro fator importante para que se rescinda a r. decisão é com relação ao recebimento de boa-fé, pois o v. acórdão proferido na ação rescisória, assim decidiu (item 5):
+    ‘... e, por outro lado, a tese da irrepetibilidade de verbas alimentares recebidas de boa-fé não constava do recurso ordinário (doc. 18), razão pela qual o STF não tinha porque sobre ela se manifestar.’
+    […]
+    O fundamento da r. decisão rescindenda de que a tese da irrepetibilidade de verbas alimentares recebidas de boa-fé não constava do recurso ordinário, razão pela qual o STF não tinha porque sobre ela se manifestar, também é passível de rescisão, por violar manifestamente a ordem jurídica, em razão da errônea análise da r. decisão que condenou a devolução de tais valores.
+    A tese do recebimento de boa-fé foi devidamente alegada em defesa (fl. 216), e sequer foi analisada, como preconiza o art. 489, § 3º, do CPC:
+    ‘Mais não fosse, a percepção e o gozo das férias foram usufruídos dentro de irrestrita boa fé, como não poderia deixar de ser. Com efeito, é o Tribunal Pleno que concede férias a todos os Juízes do Tribunal, mediante um regular processo administrativo. Assim, nenhuma devolução é devida, pois enriquecimento sem causa não houve. Portanto, perfeitamente aplicáveis ao caso concreto as Súmulas 105 e 106 do Tribunal de Contas da União, ao contrário do sustentado pelo MPF.’
+    Embora alegada em defesa, o recebimento de boa-fé não foi objeto de análise na sentença de primeira instância, pois a pretensão do Ministério Público Federal foi integralmente rejeitada (sentença de fls. 673- 685).
+    Quando da análise da apelação interposta pelo Parquet, o Tribunal Federal se limitou, como exaustivamente mencionado, a copiar o parecer emitido pela parte autora na ação (MPF). Nada analisou sequer os pedidos preliminares arguidos em contrarrazões de apelação.
+    Quando da interposição do Recurso Extraordinário os Requerentes arguiram a nulidade por negativa de prestação jurisdicional, requerendo a baixa dos autos para que fosse proferido novo julgamento, com a devolução de toda a matéria, inclusive a tempestividade do recurso de apelação interposto pelo MPF.” (págs. 23-29 do documento eletrônico 1).
+    Prosseguiram argumentando que não teria sido analisada na AR 2.386/PR a tese da intempestividade da apelação interposta pelo MPF.
+    Destacaram, ademais, diversos julgados deste Tribunal em que teria se assentado a irrepetibilidade do recebimento de boa-fé referente às férias de sessenta dias dos Juízes Classistas, bem como seu caráter alimentar.
+    Requereram, ao final, tutela de urgência para suspender o processo de execução.
+    No mérito, pugnaram pela
+    “[...] procedência da ação, reconhecendo-se, nos termos do art. 966, V e VIII, do CPC, a violação literal ao art. artigo 1º do Decreto 20.910/32, perpetrada pela decisão ora rescindenda, bem como aos artigo 1º e 5º, inciso LV, da CF/88 e também a regra constante do artigo 5°, § 1°, da Lei n° 7.347/85, nos termos da fundamentação, para declarar que o recebimento das férias ocorreram de boa-fé e, por isso, não são passíveis de devolução ao erário” (pág. 35 do documento eletrônico 1).
+    Em ato contínuo, determinei a emenda à inicial (documento eletrônico 16) e recebi o aditamento com a correção do valor da causa (documento eletrônico 25), a inclusão da União e exclusão do Ministério Público Federal do polo passivo.
+    Ao final, o Parquet opinou pelo indeferimento do pedido de liminar e, no mérito, pelo não conhecimento da ação rescisória (documento eletrônico 35).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, a ação rescisória não merece seguimento.
+    Isso porque a presente ação é uma reiteração do pedido rescisório da AR 2.386/PR, de relatoria do saudoso Ministro Teori Zavascki, repetindo diversos argumentos desse pleito antecedente, visto que não demonstrados nenhum dos fundamentos do art. 966 do CPC.
+    Além disso, o Supremo Tribunal Federal fixou a tese paradigmática na AR 1.130/GO, de relatoria do Ministro Soares Muñoz, de que “Não é permitida a reiteração de ação rescisória sobre as mesmas questões decididas na anterior.”, entendimento que vem sendo reiterado por esta Corte (AR 1.279-ED, Min. Celso de Mello).
+    Destaco que essa interpretação deve-se ao fato de que a ação rescisória não pode ser manejada como sucedâneo de recurso, por tratar-se de institutos inconfundíveis, eis que a ação rescisória consiste em meio autônomo de impugnação da decisão judicial no bojo da qual se forma nova relação jurídico-processual, com base em hipóteses taxativamente definidas em lei (AR 1.958-AgR/MG, Relator Ministro Dias Toffoli).
+    Esse entendimento continua pertinente sob a égide do Código de Processo Civil de 2015, que mantém o caráter excepcional da ação rescisória e dispõe taxativamente sobre as hipóteses de cabimento desta.
+    É importante, no mais, destacar a possibilidade de o relator decidir monocraticamente a ação rescisória quando a matéria estiver sedimentada em jurisprudência pacífica da Suprema Corte. Sobre o tema, transcrevo as lúcidas observações do Min. Edson Fachin, nos autos da AR 1481:
+    “Ademais, cumpre consignar a viabilidade de decisão monocrática, em sede de ação rescisória, tendo em vista a formação de entendimento sedimentado no Plenário desta Corte acerca da matéria.
+    Desse modo, revela-se compatível às atribuições do Ministro Relator essa competência, porquanto esta ação veicula pretensão concordante à jurisprudência do Supremo Tribunal Federal.
+    Se por um lado, entende-se que o juízo monocrático de improcedência de rescisória é hipótese prevista no art. 21, §1º, do Regimento Interno do STF, noutra banda colhe-se do arcabouço jurisprudencial desta Suprema Corte decisões monocráticas no sentido da procedência da mesma classe processual.
+    Vejam-se, a propósito, os seguintes julgados monocráticos: AR 2.387, de relatoria do Ministro Dias Toffoli, DJe 02.09.2015; AR 2.075, de relatoria do Ministro Luiz Fux, DJe 13.02.2015; AR 1.450, de relatoria do Ministro Celso de Mello, DJe 30.09.2014; e AR 2.374, de relatoria do Ministro Teori Zavascki, DJe 06.10.2015.
+    Ademais, o princípio da colegialidade remanesce presente, visto a possibilidade de agravo interno.”
+    Assim, por não estarem configuradas as hipóteses legais de rescindibilidade, nego seguimento à presente ação rescisória, com fulcro no art. 932, VIII, do CPC/2015 combinado com art. 21, § 1º, do RISTF, prejudicado o pedido de tutela provisória.
+    Julgada monocraticamente esta ação rescisória, apenas no caso de não interposição de recurso à presente decisão, fica autorizado, desde já, após seu trânsito em julgado, o levantamento integral pela parte autora, mediante alvará de levantamento, do depósito prévio realizado (AR 1.532, Rel. Ministro Celso de Mello).
+    Publique-se.
+    Brasília, 8 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
