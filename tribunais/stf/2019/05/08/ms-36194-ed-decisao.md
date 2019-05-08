@@ -1,0 +1,33 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO – INEXISTÊNCIA – DESPROVIMENTO.
+    1. O assessor Dr. William Akerman Gomes assim retratou o caso:
+    Em 26 de março de 2019, Vossa Excelência proferiu a seguinte decisão:
+MANDADO DE SEGURANÇA – CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO – ATO DE CONTEÚDO NEGATIVO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. William Akerman Gomes prestou as seguintes informações:
+    Luciano Ramos Canavarro Costa impetrou mandado de segurança, em face de ato do Corregedor Nacional do Ministério Público, visando invalidar a reclamação disciplinar nº 1.00033/2018-50, instaurada contra si, ou, sucessivamente, a decisão de arquivamento do citado procedimento, afirmando haver ofensa ao devido processo legal.
+    Relata a formalização da reclamação pelo Corregedor-Geral do Ministério Público do Estado do Maranhão, perante o Conselho Nacional, objetivando acompanhar impugnação a vitaliciamento em tramitação no Conselho Superior do Ministério Público do Maranhão.
+    Argui violados os princípios constitucionais da publicidade, da impessoalidade e do contraditório. Aponta omissão do Conselho Nacional diante do arquivamento da reclamação sem que tenha sido oferecida oportunidade de manifestação ao reclamado. Assevera que o Órgão deixou de fiscalizar o devido processo legal nos procedimentos administrativos em andamento no Conselho Superior do Ministério Público estadual. Dizendo da ocorrência de irregularidades, salienta a utilização da reclamação como instrumento de pressão junto aos Procuradores de Justiça para que houvesse o não vitaliciamento.
+    Assinala inexistir conteúdo negativo no ato coator, justificada, conforme articula, a competência originária do Supremo.
+    Indica haver ofensa à dignidade da pessoa humana e aos preceitos fundamentais da Lei Maior. Requer, no campo precário e efêmero, seja determinada a suspensão dos efeitos da decisão administrativa de arquivamento, proferida na reclamação disciplinar nº 1.00033/2018-50, e assegurada a intimação prévia do impetrante para manifestação. Postula, alfim, o reconhecimento da nulidade da reclamação disciplinar instaurada ou, sucessivamente, a invalidação do arquivamento.
+    2. Percebam os parâmetros objetivos revelados. O Plenário do Conselho Nacional do Ministério Público determinou o arquivamento da reclamação disciplinar nº 1.00033/2018-50, em virtude da perda de objeto, ante a exoneração do impetrante, por meio do Ato nº 321/2018-GPGJ do Ministério Público do Estado do Maranhão.
+    Confiram trecho da manifestação do membro auxiliar da Corregedoria Nacional do Ministério Público, adotada, como razões de decidir, pelo Corregedor Nacional:
+    […]
+    Inicialmente, vale destacar que a presente Reclamação Disciplinar perdeu o objeto com o advento da exoneração do Promotor de Justiça Luciano Ramos Canavarro Costa, conforme Ato n. 0321/2018-GPGJ do Ministério Público do Estado do Maranhão.
+    Pelo que consta dos fólios, o objeto da Reclamação Disciplinar era exatamente o acompanhamento de pedido de impugnação de vitaliciamento de promotor de justiça do MPMA.
+    Ademais, a partir da leitura cuidadosa do Ato n. 0321/2018-GPGJ, nota-se a motivação administrativa do ato, consistente em “(...) de acordo com a decisão constante do Processo Administrativo n. 16.124/2017 (Impugnação ao Vitaliciamento), transitada em julgado, no qual o E. Conselho Superior do Ministério Público entendeu pela sua não confirmação na carreira, tendo em vista que, no curso do estágio probatório, demonstrou inaptidão para o exercício das funções do cargo de Promotor de Justiça.
+    […]
+    A competência do Supremo é definida a partir de critérios de Direito estrito, cabendo processar e julgar os mandados de segurança impetrados contra atos das autoridades e órgãos citados no artigo 102, inciso I, alíneas “d” e “r”, da Constituição Federal. Considerada essa premissa, o pronunciamento mediante o qual determinado o arquivamento do procedimento administrativo, de cunho negativo, não se mostra passível de impugnação, uma vez que o exame da ação mandamental, nessa situação, implica a revisão de ato formalizado pela instância submetida ao controle do Conselho.
+    O tema foi pacificado pelo Pleno, em 9 de junho de 2011, quando da análise do agravo interno no mandado de segurança nº 27.712, relator o ministro Celso de Mello. Na ocasião, fez ver Sua Excelência:
+    O pronunciamento do Conselho Nacional de Justiça que consubstancie recusa de intervir em determinado procedimento ou, então, que envolva mero reconhecimento de sua incompetência ou, ainda, que nada determine, que nada imponha, que nada avoque, que nada aplique, que nada ordene, que nada invalide, que nada desconstitua não faz instaurar, para efeito de controle jurisdicional, a competência originária do Supremo Tribunal Federal.
+    3. Nego seguimento ao pedido.
+    4. Publiquem.
+    Por meio da petição/STF nº 18.372/2019, o impetrante aponta omissão, obscuridade e contradição no pronunciamento. Aduz exigir a Constituição Federal decisão do Colegiado para o arquivamento, e não do Corregedor Nacional do Ministério Público. Assinala haver vícios de forma, competência e motivação. Sustenta ter o ato de arquivamento conteúdo positivo. Evoca os artigos 5º, incisos XXXV, XXXVII e LII, da Constituição Federal e 8º da Convenção Interamericana de Direitos Humanos. Postula sejam sanados os defeitos e, conferindo-se efeitos modificativos aos declaratórios, determinado o prosseguimento do mandado de segurança, com o implemento da ordem. Indica o nome do escritório Lara, Pontes & Nery Advogados para constar das futuras publicações.
+    A União, em contrarrazões, diz do acerto do ato embargado. Destaca a competência do Corregedor Nacional para o arquivamento do processo, aludindo ao artigo 77, inciso I, do Regime Interno do Conselho. Reforça a alegação no sentido do conteúdo negativo da decisão. Afirma indevida a pretensão modificativa veiculada nos declaratórios.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogado regularmente credenciado, foi protocolada no prazo legal.
+    Embora tenha sido indicado preceito alusivo ao cabimento de embargos de declaração, desenvolve-se narrativa destoante do propósito de sanar obscuridade, contradição ou omissão. O embargante limita-se a reiterar as razões do mandado de segurança.
+    3. Ausente qualquer dos vícios relativos aos declaratórios, desprovejo-os.
+    4. Observem o que requerido quanto às intimações, ante a regularidade da representação processual.
+    5. Publiquem.
+Brasília, 8 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
