@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONFIGURAÇÃO DO DANO MORAL. NECESSIDADE DO REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por SÃO PAULO PREVIDÊNCIA, com fundamento nas alíneas a do art. 105, III da Carta Magna, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Cível Dano moral Expedição de certidão de tempo de contribuição Demora excessiva da Administração Dever de reparação configurado Decisão reformada - Recurso provido.
+2. Os Embargos de Declaração opostos foram parcialmente acolhidos, sem efeitos modificativos.
+3. Nas razões do Recurso Especial, o agravante aponta contrariedade ao art. 333 do CPC/1973, aduz que a omissão estatal não configura dano moral, mas tão somente mero dissabor.
+4. Sobreveio juízo negativo de admissibilidade, o que ensejou a interposição do presente Agravo.
+5. É o relato do essencial.
+6. Na espécie, não há que se falar no afastamento da presunção de dano moral, porque o Tribunal de origem, soberano na análise de matéria fático-probatória, destacou que a Administração causou prejuízo ao Administrado, transcrevo:
+Colhe-se dos autos que a Autora requereu certidão de tempo de contribuição, aos 10 de outubro de 2013 (fls. 40), cujo atendimento administrativo ocorreu somente depois do ajuizamento da presente ação, dando-se a emissão e homologação de dito documento, em 18 de agosto de 2015 (fls. 82/84).
+Nesse sentido, passaram-se quase dois anos entre a solicitação de aludida certidão e a sua respectiva emissão, o que extrapola qualquer razoabilidade exigida da Administração Pública na emissão de seus documentos, ofendendo, dessa forma, o direito constitucionalmente assegurado pelo art. 5o, XXXIV, "b", da Constituição Federal.
+Desse modo, caracterizada a reprovabilidade da conduta administrativa, é inegável que o dano moral em questão independe de comprovação e decorre do próprio fato (dano moral in re ipsa), ou seja, a simples violação da conduta implica em concretização do prejuízo apto a responsabilizar o Poder Público, tornando-se desnecessária a prova do prejuízo concreto.
+7. Desse modo, verifica-se que a análise do feito demanda o necessário reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ. Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA VISANDO A CESSAÇÃO DA EXPLORAÇÃO DE BINGO OU DE ATIVIDADE CORRELATA, BEM COMO A CONDENAÇÃO PELOS DANOS MORAIS. ACÓRDÃO RECORRIDO QUE ENTENDEU NÃO CONFIGURADOS OS DANOS MORAIS COLETIVOS. JULGADO CUJA REVISÃO DEMANDA O REEXAME FÁTICO-PROBATÓRIO, VEDADO, A PRINCÍPIO, NESTA SEARA RECURSAL. PRECEDENTES: AGINT NO ARESP 601.414/SP, REL. MIN. ASSUSETE MAGALHÃES, DJE 13.12.2016; AGRG NO ARESP 277.516/SP, REL. MIN. NAPOLEÃO NUNES MAIA FILHO, DJE DE 3.5.2013. AGRAVO INTERNO DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. Rever o entendimento adotado pelo Tribunal a quo, segundo o qual a configuração do dano moral coletivo depende da ofensa a interesses legítimos, valores e patrimônio ideal de uma coletividade que devam ser protegidos, enseja, inevitavelmente, o reexame fático-probatório dos autos, o que não se compatibiliza com a via do Apelo Nobre.
+2. Agravo Interno do MINISTÉRIO PÚBLICO FEDERAL a que se nega provimento (AgInt no REsp. 1.689.699/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15.4.2019).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. TARIFA DE ENERGIA. DÉBITO INEXISTENTE. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7 DO STJ. APLICAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Somente em casos excepcionais, quando a quantia arbitrada se mostrar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o quantum indenizatório fixado pela instância de origem a título de danos morais, ante a impossibilidade de análise de fatos e provas (Súmula 7 do STJ), de acordo com jurisprudência do Superior Tribunal de Justiça.
+3. In casu, dissentir da justificativa apresentada no aresto recorrido para a fixação do montante indenizatório por danos morais constitui providência vedada no âmbito do especial, dada a necessidade de reexame dos elementos probatórios coligidos no feito, o que esbarra no aludido óbice sumular.
+4. Agravo interno desprovido (AgInt no AREsp. 1.217.938/CE, Rel. Min. GURGEL DE FARIA, DJe 20.11.2018).
+10. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial de SÃO PAULO PREVIDÊNCIA.
+11. Publique-se.
+12. Intimações necessárias.
