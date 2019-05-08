@@ -1,0 +1,26 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. DECISÃO RECONSIDERADA. RECOLHIMENTO DO ISS SOBRE ALÍQUOTA FIXA. POSSIBILIDADE. SOCIEDADE UNIPROFISSIONAL DE ADVOGADOS. AGRAVO INTERNO DA CONTRIBUINTE PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO SEU RECURSO ESPECIAL.
+1. Trata-se de Embargos Declaratórios opostos por CAMPOS DE ARAÚJO - ADVOGADOS - EPP contra decisão de minha relatoria, assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ISS. ARTIGO 9o., §§ 1o. E 3o., DECRETO-LEI 406/1968. IMPOSSIBILIDADE DE RECOLHIMENTO DO ISS SOBRE ALÍQUOTA FIXA. CONCLUSÃO DO ACÓRDÃO DE ORIGEM PELA AUSÊNCIA DE PROVAS DE TRABALHO UNIPROFISSIONAL E FUNDADOS INDÍCIOS DE CARÁTER EMPRESARIAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO EM RECURSO ESPECIAL DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+2. A parte embargante sustenta, em síntese, que como toda e qualquer sociedade de advogados regularmente inscrita nos quadros da OAB, É UNIPROFISSIONAL e NÃO PODE SER CONSTITUÍDA SOB AS FORMAS PREVISTAS NA LEGISLAÇÃO EMPRESARIAL, ou seja, NÃO POSSUI E NEM EM TESE PODERIA POSSUIR CARÁTER MERCANTIL (fls. 851). Logo, faz jus ao tratamento diferenciado de tributação.
+3. Apresentada Impugnação às fls. 865/867.
+4 É o relatório.
+5. Considerando a pretensão infringente do julgado e em atenção ao princípio da fungibilidade recursal, recebo os presentes Embargos de Declaração como Agravo Interno.
+6. Analisando detidamente a controvérsia, verifica-se ser o caso de exercer o juízo de retratação, motivo pelo qual reconsidera-se a decisão agravada, tornando-a sem efeito.
+7. A insurgência merece prosperar.
+8. De fato, a jurisprudência desta Corte entende que as sociedades de advogados, que não possuem natureza mercantil e são uniprofissionais, fazem jus ao tratamento tributário diferenciado previsto no art. 9o., §§ 1o. e 3o. do Decreto-Lei 406/1968, não recolhendo o ISS com base no seu faturamento bruto, mas sim no valor fixo anual calculado de acordo com o número de profissionais que as integram. Nesse sentido:
+TRIBUTÁRIO. SOCIEDADE UNIPROFISSIONAL DE ADVOGADOS. ISS. RECOLHIMENTO COM BASE EM VALOR FIXO ANUAL. TRATAMENTO TRIBUTÁRIO DIFERENCIADO PREVISTO NO ART. 9º, §§ 1º E 3º, DO DECRETO-LEI 406/68.
+1. A jurisprudência do STJ firmou o entendimento de que as sociedades de advogados, que não possuem natureza mercantil e são uniprofissionais, gozam do tratamento tributário diferenciado previsto no art. 9º, §§ 1º e 3º, do Decreto-Lei 406/1968, não recolhendo o ISS com base no seu faturamento bruto, mas sim no valor fixo anual calculado de acordo com o número de profissionais que as integram.
+2. Recurso Especial não provido (REsp. 1.740.420/PR, Rel. Min. HERMAN BENJAMIN, DJe 26.11.2018).
+
+PROCESSUAL CIVIL. TRIBUTÁRIO. SOCIEDADE UNIPROFISSIONAL DE ADVOGADOS. ISS. RECOLHIMENTO COM BASE EM VALOR FIXO ANUAL. TRATAMENTO TRIBUTÁRIO DIFERENCIADO PREVISTO NO ART. 9º, §§ 1º E 3º, DO DECRETO-LEI N. 406/68.
+1. A sociedade uniprofissional de advogados de natureza civil - qualquer que seja o conteúdo de seu contrato social - goza do tratamento tributário diferenciado previsto no art. 9º, §§ 1º e 3º, do Decreto-Lei n. 406/68, não recolhendo o ISS com base no seu faturamento bruto, mas sim no valor fixo anual calculado de acordo com o número de profissionais que a integra. Precedentes.
+2. Como o aresto recorrido está em sintonia com o decidido nesta Corte, deve-se aplicar à espécie a Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". O referido verbete sumular aplica-se aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Agravo regimental não provido (AgRg no REsp. 933.443/RJ, Rel. Min. CASTRO MEIRA, DJe 4.10.2012).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO  AÇÃO DE REPETIÇÃO DE INDÉBITO  ISS  SOCIEDADE UNIPROFISSIONAL (ADVOGADOS)  ART. 9º, §§ 1º E 3º, DO DECRETO-LEI 406/68  PROVA DA NÃO-REPERCUSSÃO  ART. 166 DO CTN: INAPLICABILIDADE  VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC: INEXISTÊNCIA.
+1. Inexiste ofensa aos arts. 458 e 535 do CPC quando o Tribunal deixa de se manifestar sobre questão que restou prejudicada em razão da tese adotada no julgamento.
+2. A jurisprudência desta Corte firmou posição no sentido de que a sociedade uniprofissional de advogados de natureza civil, qualquer que seja o conteúdo de seu contrato social, goza do tratamento tributário diferenciado previsto no art. 9º, §§ 1º e 3º, do Decreto-lei n. 406/68 não recolhendo o ISS com base no seu faturamento bruto, mas sim no valor fixo anual calculado de acordo com o número de profissionais que a integra, de maneira que não ocorre o repasse do encargo a terceiros a exigir o cumprimento do disposto no artigo 166 do Código Tributário Nacional nas ações de repetição de indébito da exação em comento (EREsp 724.684/RJ, dentre outros).
+3. Recurso especial não provido (REsp. 897.813/RJ, Rel. Min. ELIANA CALMON, DJe 24.11.2008).
+9. Ante o exposto, dá-se provimento ao Agravo Interno da Contribuinte para, reconsiderando a decisão de fls. 845/847, conhecer do Agravo e dar provimento ao seu Recurso Especial.
+10. Publique-se. Intimações necessárias.
