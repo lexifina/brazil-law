@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (fls. 44-91).
+Consta dos autos que o paciente foi condenado à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, por infração ao disposto no art. 33, caput, c/c 40, V, ambos da Lei 11343/2006.
+O Tribunal de Justiça, ao julgar os apelos interpostos, deu provimento ao recurso do Ministério Público para fixar a pena do paciente em 9 anos, 8 meses e 20 dias de reclusão, e 971 dias-multa, em regime inicial fechado, determinando, ao final, a expedição do respectivo mandado de prisão.
+Assinala o impetrante que a determinação se deu após a publicação do acórdão, sem o esgotamento do prazo para oposição de embargos de declaração, o que viola o princípio da presunção de inocência.
+Pede, liminarmente e no mérito, a concessão da ordem a fim de que seja evitada a concretização da ameaça do direito de locomoção, com a expedição de salvo conduto em favor do paciente.
+A liminar foi deferida (fls. 96-98).
+As informações foram prestadas (fls. 101-106 e 108-225).
+O Ministério Público Federal ofertou parecer, manifestando-se pela concessão da ordem (fls. 227-229).
+É o relatório.
+DECIDO.
+A defesa alega a impossibilidade de iniciar-se a execução provisória da pena do paciente em face da ausência de esgotamento da via recursal ordinária, requerendo a expedição de salvo conduto em seu favor.
+Acerca da execução provisória da pena, destaque-se, inicialmente, que a Sexta Turma desta Corte já firmou entendimento, ao apreciar o HC 352.845/SP, Rel. Ministra Maria Thereza de Assis Moura, julgado em 26/04/2016, DJe 03/05/2016, adotando orientação fixada pelo Pleno do Supremo Tribunal Federal (HC 126.292/SP, Rel. Min. Teori Zavascki, de 17/2/2016, DJe 17/5/2016), segundo o qual a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o constitucional princípio da presunção de inocência.
+Desse modo, prolatado o julgamento condenatório por Tribunal de Apelação, e ausentes recursos especial ou extraordinário com casuísticos efeitos suspensivos concedidos - por cautelar ou habeas corpus -, é possível a execução provisória da pena.
+Na espécie, informa a defesa não ter se exaurido, até o momento, a instância ordinária, porquanto determinada a expedição imediata do mandado de prisão, sem esgotamento do prazo para apresentação dos respectivos embargos de declaração em face do acórdão que julgou o recurso de apelação.
+Nesse contexto, resta evidenciado o fumus boni iuris e o periculum in mora, uma vez que a expedição de mandado de prisão somente poderia ter sido realizada após o o exaurimento da referida instância. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. MÉRITO. ANÁLISE DE OFÍCIO. DENÚNCIA: TRÁFICO DE DROGAS. CONDUTA DESCLASSIFICADA, PELO JUÍZO PROCESSANTE, PARA A DESCRIÇÃO TÍPICA DO ART. 28 DA LEI N. 11.343/2006. RECURSO DA ACUSAÇÃO. CONDENAÇÃO, POR TRÁFICO DE DROGAS, EM SEGUNDA INSTÂNCIA. PRISÃO DECRETADA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. AUSÊNCIA DE ESGOTAMENTO RECURSAL NAS INSTÂNCIAS ORDINÁRIAS. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. O Plenário do Supremo Tribunal Federal, por maioria de votos, entendeu que a possibilidade de início da execução da pena condenatória após a confirmação da sentença em segundo grau não ofende o princípio constitucional da presunção da inocência (HC n. 126292, julgado no dia 17 de fevereiro de 2016).
+4. No caso, o acórdão impetrado não apontou dados concretos, à luz do art. 312 do Código de Processo Penal, a respaldar a segregação cautelar; somente faz referência à gravidade abstrata do delito e a artigos de lei, não ressaltando qualquer aspecto relevante que demonstre o efetivo risco à ordem pública, caso a paciente seja mantida em liberdade. Referências aos termos da lei processual e uma análise teórica, com termos genéricos, sem apontar dados objetivos da suposta conduta perpetrada pela paciente não são hábeis para justificar a prisão cautelar.
+5. Ademais, e por outro lado, não é possível dar início à execução provisória da pena porque a segunda instância não encerrou o julgamento da ação penal originária. Pende de julgamento embargos de declaração (com efeitos infringentes) opostos pela defesa. O Ministério Público noticiou, ainda, a oposição de embargos infringentes. Por fim, o regime inicial fechado foi fixado pelo Tribunal em virtude da gravidade abstrata e da hediondez do crime. Constrangimento ilegal configurado.
+6. Habeas Corpus não conhecido. Ordem concedida de ofício para determinar que a paciente aguarde em liberdade, pelo menos, o exaurimento da jurisdição do Tribunal de origem, salvo se por outro motivo estiver presa. (HC 343.302/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/04/2016).
+Imperioso salientar que o Tribunal de origem, em sede de informações (fl. 110), aduziu que a defesa opôs embargos de declaração em face do acórdão de negou provimento ao seu apelo, estando aqueles ainda pendentes de julgamento.
+Diante disso, outra não é a conclusão a que se chega, senão a de que ainda não houve o esgotamento da via recursal ordinária no caso em exame.
+Ante o exposto, concedo o habeas corpus para garantir ao paciente o direito de permanecer em liberdade até o julgamento de eventuais recursos interpostos perante o Tribunal de segundo grau, se por outro motivo não estiver preso, confirmando a liminar anteriormente deferida.
+Comunique-se.
+Publique-se.
+Intimem-se.
