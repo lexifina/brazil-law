@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] GOMES GADETTO LAGES em face do acórdão do Tribunal de Justiça de Minas Gerais assim ementado (fl. 84):
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - SEGREGAÇÃO CAUTELAR NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA - DESPROPORCIONALIDADE DA MEDIDA - REGIME MAIS BRANDO EM CASO DE EVENTUAL CONDENAÇÃO - INVIABILIDADE DE ANÁLISE.
+1. A Prisão Cautelar deve ser mantida e as circunstâncias fáticas demonstram a insuficiência e inadequação das medidas cautelares diversas da prisão, e se a decisão que aplicou a segregação se encontra satisfatoriamente fundamentada.
+2. A desproporcionalidade da medida, em razão de provável imposição de regime menos gravoso, em eventual condenação, não há como ser analisada no writ, porquanto a dosagem sancionatória é baseada em circunstâncias judiciais, a serem analisadas após a instrução criminal.
+O recorrente foi denunciado pela prática do crime de tráfico de drogas, tipificado no art. 33, caput, da Lei 11.343/2006.
+ No recurso, argumenta a defesa que estão ausentes os requisitos ensejadores da prisão preventiva, motivo pelo qual requer a revogação da prisão preventiva do recorrente ou a aplicação das medidas cautelares diversas da prisão, pois ostenta condições pessoais favoráveis.
+A liminar foi deferida.
+As informações foram prestadas.
+O Ministério Público manifestou-se pelo improvimento do recurso.
+Na origem, o Processo 0264895-13.2019.8.13.0024 encontra-se na fase de instrução com audiência de instrução e julgamento designada para o dia 12/11/2019, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 2/5/2019.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva assim dispôs (fls. 40-41):
+ .. . Trata-se de comunicação de Prisão em flagrante datada de 23/12/2018, em que PAULO [NOME] GOMES GADETTO LAGES, foi autuado como incurso nas sanções do art. 33 da Lei 11.343/06. Constato que o APF está formalmente em ordem, obedecendo as disposições do art. 304 e 306 do Código de Processo Penal, não sendo hipótese de relaxamento. Tampouco vislumbro possível a concessão de liberdade provisória. No caso em tela, apesar da primariedade do autuado, tem-se que o crime é grave. Entendo que o delito de tráfico de drogas, doloso e punido com pena de reclusão, é considerado hediondo justamente por se tratar de uma das maiores pragas a que nossa sociedade vem sendo submetida. Os indivíduos ligados à traficância oferecem grande perigo à saúde pública, na medida em que difundem o vício, sendo responsáveis pelo aumento do consumo de drogas e por isto deve a Justiça atuar com mais firmeza. Também é preciso observar que a manutenção da prisão do agente flagrado é necessária não somente para aplicação da lei penal e para garantia da instrução processual, mas também para evitar a prática de novas infrações penais. Destarte, inadequada e insuficiente a aplicação de medidas cautelares diversas da prisão preventiva, que se faz necessária para a garantia da ordem pública. Assim, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I, todos do CPP, CONVERTO A PRISÃO EM FLAGRANTE de PAULO [NOME] GOMES GADETTO LAGES EM PRISÃO PREVENTIVA.  ..
+Como já adiantado na liminar, o decreto de prisão destacou a necessidade da custódia apontando que há gravidade nos fatos praticados, sem demonstrar concretamente sua caracterização, e justificou a medida extrema ressaltando que, No caso em tela, apesar da primariedade do autuado, tem-se que o crime é grave. Entendo que o delito de tráfico de drogas, doloso e punido com pena de reclusão, é considerado hediondo justamente por se tratar de uma das maiores pragas a que nossa sociedade vem sendo submetida.
+Não se tendo no tema, com a ausência de motivo que indique a necessidade da custódia cautelar, divergência nesta Sexta Turma do Tribunal, desde logo deve ser reconhecida a ilegalidade.
+Ante o exposto, dou provimento ao recurso em habeas corpus para a soltura do recorrente PAULO [NOME] GOMES GADETTO LAGES, o que também não impede a fixação de medida cautelar diversa da prisão, pelo Juízo de primeiro grau, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
