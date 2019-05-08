@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo apresentado por FUNDAÇÃO DA SEGURIDADE SOCIAL DOS SERV. PUB. MUN. SOROCABA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SERVIDOR PÚBLICO MUNICIPAL APOSENTADO.
+Diferenças salariais reclamadas da FUNSERV.
+Restabelecido o pagamento do adicional em ação ajuizada anteriormente contra a SAAE Sorocaba.
+Pretensão de receber diferenças salariais decorrentes do adicional de insalubridade devidas no pagamento dos proventos de aposentadoria, no período de outubro de 2009 a abril de 2012.
+Prescrição do fundo de direito inexistente. Relação de trato sucessivo. Prescrição parcelar.
+Alegação de não oposição da coisa julgada a terceiros afastada. Pretensão reconhecida com base no art. 22, I, alínea "c", da Lei Municipal nº 4.168/93, que determinou a inclusão do adicional de insalubridade na base de cálculo da contribuição previdenciária.
+Procedência mantida. Recurso não provido.
+Quanto à primeira controvérsia, alega violação ao art. 1º do Decreto Federal n. 20.910/32, no que concerne à prescrição da pretensão relativa ao direito de revisão e/ou inclusão de verbas no ato de aposentadoria após o transcurso de cinco anos entre o ato de concessão e o ajuizamento da ação, trazendo os seguintes argumentos:
+Não se trata o caso em testilha de mera revisão de valores pagos na aposentadoria, mas de inclusão de verbas que não foram computadas anteriormente em razão de o autor não ter contribuído com tal verba quando da aposentação.
+Tem-se por demonstrado, assim, ofensa ao artigo 1º, do Decreto Federal nº 20.910/1932, sendo necessária a modificação do v. acórdão (fls. 167).
+Quanto à segunda controvérsia, alega violação art. 506 do CPC, no que concerne à impossibilidade de oposição da coisa julgada a terceiros, tendo em vista que a condenação foi proferida em processo do qual não teve ciência a recorrente, trazendo os seguintes argumentos:
+Salienta-se ainda que é incontroverso o fato de que o apelado ajuizou ação somente contra o SAAE Sorocaba com o escopo de receber o adicional de insalubridade, ação esta que foi julgada procedente condenando àquela Autarquia a pagar valores em atraso. Assim, no momento em que o apelado aposentou-se, a ação ajuizada apenas em face do SAAE Sorocaba não tinha sido julgada e esta requerida não havia sido incluída no polo passivo daquela ação ou demandada em uma nova. Dessa forma, nos termos do artigo 506 do CPC, "a sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros", não sendo possível, portanto, a condenação da recorrente em razão de decisão judicial proferida em processo do qual não teve ciência. (fls. 168).
+Válido destacar, ainda, que no momento em que a apelante foi intimada a pagar o adicional de insalubridade ao apelado, assim o fez - fato também incontroverso. Assim, é certo que é inexigível a cobrança de atrasados de valores decorrentes de ação em que não foi parte, sendo forçosa a modificação do v. acórdão (fls. 168).
+É o relatório. Decido.
+No que concerne à primeira controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão controvertida não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Quanto à segunda controvérsia, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a matéria não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
