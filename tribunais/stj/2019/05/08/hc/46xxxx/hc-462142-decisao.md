@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0026247-86.2018.8.19.0000).
+Infere-se dos autos que o paciente foi denunciado pela prática de crimes de furto qualificado e organização criminosa, tendo sido preso preventivamente.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+Habeas corpus. Prisão preventiva. Furto qualificado e organização criminosa. Impetração pedindo seja revogada a prisão preventiva, por ausência dos motivos autorizadores, bem como por excesso de prazo para entrega da prestação jurisdicional. Registra-se que em favor deste paciente já foi impetrado Habeas Corpus neste Tribunal, de minha relatoria, nº 0008493- 34.2018.8.19.0000, no qual foram arguidas as mesmas teses, inclusive, em relação ao excesso de prazo. Aliás, naquele writ, foi ressaltado que não havia excesso de prazo pois a referida ação penal possui diversos réus o que dificulta o regular andamento do processo. De todo modo, em relação à diversidade de réus, a autoridade coatora determinou o desmembramento do feito em 09/03/2018, o que já foi realizado, conforme informações prestadas neste writ, recebendo o processo o número nº. 0019584-71.2016.8.19.0007. De acordo também com as informações, após o retorno dos autos da central de digitalização, a serventia envidou todos os esforços para indexar no menor tempo possível as peças dos autos principais e desmembrados, sendo certo que integram no mesmo polo passivo em conjunto com este paciente outros dois acusados, luri [NOME] e [NOME]. Logo, não há mais que se falar em constrangimento ilegal por excesso de prazo. Por derradeiro, no tocante aos demais argumentos expendidos, o impetrante pretende discutir neste writ mérito do processo penal e seu conteúdo probatório, o que, em regra, não pode ser alcançado pela via estreita e especialíssima do instrumento utilizado. Denegação da ordem. (fls.32/33)
+No presente mandamus, alega a inexistência dos requisitos necessários à decretação da prisão preventiva, ressaltando que se trata de paciente com pressupostos pessoais favoráveis, sendo primário, de bons antecedentes, com ocupação lícita e residência fixa.
+Afirma que não há prova de autoria delitiva e, ainda, que há flagrante excesso de prazo para a formação da culpa, pois estaria preso por mais de 12 meses sem que a instrução tenha sido encerrada
+Requer, assim, em liminar e no mérito, a revogação da prisão, ainda que com a determinação de medidas cautelares previstas no art. 319 do Código de Processo Penal, com a consequente expedição de alvará de soltura.
+É o relatório.
+Decido.
+A presente impetração traz pedidos idênticos aos formulados no HC 448.353/RJ e, embora não tenham sido juntados aos autos o decreto e o acórdão decorrente do HC n. 00195-84.71.2016.8.19.0007, na origem, as questões serão analisadas por ocasião do julgamento daquele writ, conexo a este feito, pelo que não se conhece da irresignação, no ponto, haja vista a reiteração de pedidos.
+Assim, diante de inadmissível reiteração de pedidos que já estão prejudicados, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ.
+MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
