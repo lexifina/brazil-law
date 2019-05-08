@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. ALEGAÇÃO DE NULIDADE. FALTA DE INTIMAÇÃO POR EDITAL. NOMEAÇÃO PESSOAL DE DEFENSOR. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra ato coator proferido pela Quarta Câmara Criminal do Tribunal de Justiça de Santa Catarina que, nos autos da apelação criminal n. 0007763-67.2015.8.24.0039, deu provimento ao recurso ministerial para afastar a causa de diminuição do § 4º do art. 33 da Lei de Drogas, redimensionando sua pena para 5 anos de reclusão, em regime fechado, pela prática de conduta descrita no art. 33 da Lei n. 11.343/2006, além de condenar a paciente também à pena de 1 ano de detenção e 10 dias-multa pela prática de conduta descrita no art. 12 da Lei n. 10.826/2003.
+O impetrante alega, em síntese, que o abandono processual operado pelo advogado à época constituído pela paciente na origem, quando da intimação para apresentar contrarrazões ao recurso da acusação, causou enorme prejuízo a sua defesa processual. A remessa do feito à Defensoria Pública, sem esgotar todos os meios processuais válidos para intimação da paciente, também gerou lesão no seu direito de se defender de forma satisfatória. Não encontrada para a intimação pessoal, deveria ser procedida sua intimação por meio de edital e, somente então, a nomeação de defensor público poderia ter sido feita.
+Sustenta, outrossim, que a escolha de defensor é um direito inafastável do acusado, porquanto deve haver uma relação de confiança entre ele e o seu patrono. In casu, ao não haver manifestação do defensor constituído sobre o recurso ministerial, a juíza processante nomeou Defensor Público para, a partir dali, patrocinar a defesa da paciente. Todavia, sem o conhecimento da paciente, não teve como buscar os meios processuais dignos para contra-arrazoar e combater o recurso da acusação.
+Afirma que, com a revelia, a magistrada sentenciante determinou a intimação pessoal da paciente para constituir novo defensor, não tendo sido localizada. O oficial de justiça compareceu em uma única oportunidade, certificando estar a paciente em local incerto e não sabido. Nesse sentido, deveria ter sido determinada a intimação por meio de edital, o que não ocorreu.
+Nessa ordem de ideias, defende ser assegurado ao acusado o direito de nomear um defensor de sua confiança, nos termos do art. 263 do Código de Processo Penal.
+Pede a desconstituição do trânsito em julgado da condenação imposta, declarando a nulidade dos atos processuais, desde a nomeação da Defensoria Pública para atuação no feito.
+Requer a concessão de liminar para que seja declarada a nulidade de todos os atos processuais a partir da nomeação do Defensor Público, com a consequente revogação da ordem de prisão expedida pela autoridade coatora. No mérito, pede a confirmação da ordem (fls. 3/12).
+É o relatório.
+Conforme certidão acostada à fl. 97, o presente feito transitou em julgado em 6/2/2019.
+A via do habeas corpus se mostra inadmissível porque utilizada como sucedâneo de revisão criminal, sendo certo que ao Superior Tribunal de Justiça compete o julgamento de revisão criminal de seus próprios julgados, o que não é o caso dos autos.
+Nesse sentido: AgRg no HC n. 481.415/SP, de minha relatoria, Sexta Turma, DJe 4/2/2019; HC n. 467.004/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2018.
+Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
