@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, desafiando decisão que não admitiu recurso especial, este interposto, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 331):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CABIMENTO. OBSCURIDADE. COISA JULGADA.
+1. A acolhida dos embargos declaratórios só tem cabimento nas hipóteses de omissão, contradição, obscuridade ou correção de erro material.
+2. Superada a omissão para esclarecer que a coisa julgada é caracterizada pela repetição de ação já proposta e devidamente julgada pelo Judiciário, não se fazendo presente entre a ação de concessão e a ação de revisão do mesmo benefício previdenciário.
+Nas razões do apelo especial, o recorrente aponta violação aos arts. 502, 503 e 508 do NCPC, na medida em que o Tribunal de origem "não observou os limites da coisa julgada e seu efeito preclusivo" (fl. 343).
+Aduz que "a decisão judicial eventualmente proferida a respeito de determinada matéria tem força executiva própria e se constitui em questão imutável, a respeito da qual não pode ocorrer modificação, salvo pela via rescisória, sob pena de afronta ao instituto da coisa julgada" (fl. 345).
+Afirma que, "no caso concreto, o autor obteve comando provimento jurisdicional (processo nº 2005.70.07.001065-1/PR) o qual determinou a concessão de aposentadoria por tempo de contribuição" (fl. 345).
+Alega que, "em ação anterior, a parte autora já buscou e obteve a concessão do benefício nos termos em que requerido, ou seja, a contar da data do requerimento administrativo. Como se vê, a matéria discutida nos presentes autos já foi devidamente apreciada nos autos do processo acima mencionado, não podendo, em razão disso, a parte autora buscar sua reapreciação" (fl. 345).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 351/359.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Na espécie, o Tribunal de origem, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 328/329):
+Ocorre que a coisa julgada é caracterizada pela repetição de ação já proposta e devidamente julgada pelo Judiciário. Há identidade de ações, por sua vez, quando estiverem presentes as mesmas partes, a mesma causa de pedir e o mesmo pedido (art. 301, §3º, CPC/73; art. 337, §4º, CPC/15). Frise-se que, além dos elementos identificadores da demanda, é indispensável que tenha ocorrido exame de mérito sobre a questão.
+No caso dos autos, não se trata da mesma controvérsia jurídica levantada na demanda anterior. De fato, nem o pedido e nem a causa de pedir se amoldam à situação anterior, em que se pretendia a concesão do benefício de aposentadoria por força do preenchimento dos requisitos legais. Em sentido análogo:
+(..).
+Frise-se, na ação anterior, buscou-se a concessão benefício, oportunidade em que o objeto do debate foi centrado na questão referente aos pressupostos da concessão. Na presente demanda, busca-se a revisão do benefício com a modificação do cálculo do salário de benefício - questão que não foi objeto de cognição exauriente na ação anterior. Trata-se de questão jurídica diferente.
+Ressalte-se, também, que a eficácia preclusiva da coisa julgada obsta o debate, em nova demanda, de alegações e defesas que poderiam levar ao acolhimento ou rejeição do pedido da demanda antes ajuizada (art. 508, CPC/15; anterior art. 474, CPC/73). Trata-se de instituto, pois, que impede a discussão do mesmo pedido ou causa de pedir, mas com fundamento diverso. Nesse mesmo sentido: "apenas as questões relativas à mesma causa de pedir ficam preclusas em função da incidência da previsão do art. 474, CPC. Todas as demais são livremente dedutíveis em demandas posteriores" (MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Código de Processo Civil: comentado artigo por artigo. 3. ed. São Paulo: Revista dos Tribunais, 2011, p. 453). Assim, se a causa de pedir ou se o pedido forem diferentes na nova demanda, não estará presente a eficácia preclusiva da coisa julgada. Desse modo, a eficácia preclusiva da coisa julgada não atinge a pretensão relacionada com algum direito do segurado que não tenha sido tratado na demanda anterior.
+Assim, afastada a omissão referente à questão da coisa julgada, verifico que resta inalterado o resultado do julgamento originário.
+Como se vê, a alteração das conclusões adotadas pela Corte de origem acerca da inexistência de coisa julgada sobre o tema discutido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+A propósito do tema, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. DNIT. ENQUADRAMENTO. LEI 11.171/2005. PRAZO PRESCRICIONAL. TESE DE RECONHECIMENTO DE LITISPENDÊNCIA E COISA JULGADA REFUTADA PELA CORTE DE ORIGEM, A PARTIR DAS PREMISSAS FÁTICAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A inversão conclusão firmada pela Corte de origem, refutando a configuração de litispendência e coisa julgada - demanda a análise minuciosa dos elementos configuradores da litispendência entre ações (identidade de partes, de causa de pedir e do pedido), o que implica, necessariamente, no reexame do conjunto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2. Quanto à tese de prescrição de fundo de direito, como bem pontua o acórdão recorrido, a parte autora não se volta contra a extinção do DNER, ocorrida em 2001. A ação busca a correção do enquadramento legal decorrente da Lei 11.171/2005, assim, tendo a ação sido proposta em 11.12.2009, não há que se falar em prescrição de fundo de direito.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp 1.505.896/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 25/2/2019)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL. CÔMPUTO DE TEMPO ESPECIAL. COISA JULGADA. SÚMULA 7/STJ. FATOR PREVIDENCIÁRIO. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, no contexto firmado pelo Tribunal a quo, a pretensão de afastar a existência de coisa julgada, encontra óbice na Súmula 7/STJ.
+2. A questão controvertida, relativa à incidência ou não do fator previdenciário, foi dirimida sob fundamento exclusivamente constitucional, o que inviabiliza a revisão do acórdão proferido pelo Tribunal a quo na via eleita, uma vez que o recurso especial não se presta à análise de matéria constitucional, cuja competência é do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no REsp 1.762.555/RS, Rel. Min. MAURO CAMPBEL MARQUES, Segunda Turma, DJe 1/3/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ACORDO ADMINISTRATIVO. COISA JULGADA. AFASTAMENTO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. (..).
+2. Tendo o acórdão recorrido assentado expressamente inexistir in casu violação à coisa julgada, infirmar tal conclusão pressupõe o reexame fático-probatório do feito, o que é obstado em sede de recurso especial, por força da Súmula 7/STJ. Precedentes.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp 1.578.573/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/5/2018)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
