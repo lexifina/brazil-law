@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo apresentado por TRANSPORTADORA TMC LTDA - EM RECUPERACAO JUDICIAL, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea a, da CF/88 visa reformar acórdão proferido por TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo de Instrumento. Execução Fiscal. ICMS e multa oriundos de auto infracional. Decisão que, ao tempo em que determinou a suspensão da execução fiscal até julgamento do Tema 987 do Superior Tribunal de Justiça (Recurso Representativo de Controvérsia - Resp 1.721.484), indeferiu o pedido de liberação dos valores já penhorados. Agravante que sustenta ilegalidade da manutenção do ato de constrição, tendo em vista a determinação do Col. STJ de suspensão nacional dos processos que versam sobre a "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal". Suspensão determinada pelo Tribunal Superior que tão só impede o prosseguimento da Execução Fiscal. Mantida a decisão agravada. Recurso improvido.
+Pela alínea a do permissivo constitucional, alega violação dos arts. 6º, § 4º, 47 e 49 da Lei n. 11.101/2005, no que concerne possibilidade de constrição de ativos da empresa recuperanda pelo juízo da execução fiscal.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula 211/STJ, visto que é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
