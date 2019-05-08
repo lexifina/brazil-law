@@ -1,0 +1,34 @@
+DECISÃO: Registro, preliminarmente, por relevante, que se mostra regimentalmente viável, no Supremo Tribunal Federal, o julgamento imediato, monocrático ou colegiado, da ação de “habeas corpus”, independentemente de parecer do Ministério Público, sempre que a controvérsia versar matéria objeto de jurisprudência prevalecente no âmbito desta Suprema Corte, valendo assinalar, quanto ao aspecto ora ressaltado, que este Tribunal, em decisões colegiadas (HC 103.955/SP, Rel. Min. CELSO DE MELLO – HC 107.200/RS, Rel. Min. CELSO DE MELLO, v.g.), reafirmou a possibilidade processual do julgamento do próprio mérito da ação de “habeas corpus” sem prévia manifestação da douta Procuradoria-Geral da República, desde que observados os requisitos estabelecidos no art. 192 do RISTF, na redação dada pela Emenda Regimental nº 30/2009:
+    “POSSIBILIDADE DE JULGAMENTO IMEDIATO DA AÇÃO DE ‘HABEAS CORPUS’
+    – Mostra-se regimentalmente viável, no Supremo Tribunal Federal, o julgamento imediato, monocrático ou colegiado, da ação de ‘habeas corpus’, independentemente de parecer do Ministério Público, sempre que a controvérsia versar matéria objeto  de jurisprudência prevalecente no âmbito desta Suprema Corte. Emenda Regimental nº 30/2009. Aplicabilidade, ao caso, dessa orientação.”
+    (HC 109.544-MC/BA, Rel. Min. CELSO DE MELLO)
+    Tendo em vista essa delegação regimental de competência ao Relator da causa, impõe-se reconhecer que a presente controvérsia ajusta-se à jurisprudência firmada pelo Supremo Tribunal Federal na matéria em análise, o que possibilita seja proferida decisão monocrática sobre o litígio em questão.
+    Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. FURTO. NULIDADE. CERCEAMENTO DE DEFESA. DOSIMETRIA. SUBSTITUIÇÃO. FUNDAMENTOS NÃO ATACADOS. SÚMULA N. 182 DO STJ. EXECUÇÃO IMEDIATA DA PENA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. É ônus do agravante impugnar as causas específicas da decisão atacada, sob pena de incidência da Súmula n. 182 do STJ.
+    2. O Supremo Tribunal Federal, no julgamento do HC n. 126.292/SP, das ADCs n. 43 e 44 e, posteriormente, do ARE n. 964.246, sob a sistemática da repercussão geral, firmou o entendimento de que é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+    3. Agravo regimental não conhecido.”
+    (AREsp 1.068.504-AgInt/SP, Rel. Min. ROGERIO SCHIETTI CRUZ – grifei)
+    A parte impetrante busca, nesta sede processual, seja concedida a ordem de “habeas corpus”, para reformar “(...) o acórdão do Respeitável Superior Tribunal de Justiça referente AgInt no Agravo Em Recurso Especial nº 1.068.504/SP (2017/0056809-8)”, bem assim para reconhecer “(...) a ilegalidade do ato coator que aplicou de forma indevida súmula 182 do STJ”.
+    Sendo esse o contexto, passo a apreciar a admissibilidade, na espécie, desta ação de “habeas corpus”. E, ao fazê-lo, verifico, desde logo, que o E. Superior Tribunal de Justiça, ao não conhecer do agravo interno interposto no âmbito do AREsp 1.068.504/SP, apoiou-se, fundamentalmente, em pressuposto de admissibilidade do mencionado recurso.
+    O Supremo Tribunal Federal tem advertido, em sucessivos pronunciamentos, não se revelar admissível a ação de “habeas corpus”, quando se pretende discutir os pressupostos de admissibilidade de recurso interposto perante o E. Superior Tribunal de Justiça, cabendo destacar, entre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame (HC 93.824/RS, Rel. Min. EROS GRAU – HC 94.336/RS, Rel. Min. EROS GRAU – HC 95.684/RS, Rel. Min. CELSO DE MELLO – HC 106.468/RJ, Rel. Min. CELSO DE MELLO – HC 120.223- -AgR/PE, Rel. Min. CELSO DE MELLO – HC 120.933-AgR/SP, Rel. Min. GILMAR MENDES – HC 123.312-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI – HC 125.439-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 125.938-AgR/SP, Rel. Min. ROSA WEBER – HC 131.786-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 132.864-AgR/PR, Rel. Min. DIAS TOFFOLI, v.g.):
+    “2. ‘Não compete ao Supremo Tribunal Federal reapreciar os requisitos de admissibilidade do recurso especial e proceder ao julgamento do mérito’ (HC 93.966/RS, Rel. Min. Eros Grau,  DJe 167, 04.09.2008).
+    .......................................................................................................
+    6. ‘Habeas corpus’ não conhecido.”
+    (HC 98.733/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    “2. Na concreta situação dos autos, a pretensão da acionante esbarra na firme jurisprudência de que os temas atinentes aos pressupostos de admissibilidade de recursos da competência de outros Tribunais não ensejam a abertura da via recursal extraordinária, dado que as ofensas à Carta Magna, se existentes, ocorreriam de modo indireto ou reflexo. Foi nessa linha interpretativa que o Plenário do Supremo Tribunal Federal julgou a repercussão geral no RE 598.365, sob a minha relatoria.
+    3. Ordem denegada.”
+    (HC 108.861/ES, Rel. Min. AYRES BRITTO – grifei)
+    “1. O ‘habeas corpus’ não constitui meio hábil para rever as decisões do Superior Tribunal de Justiça quanto à admissibilidade ou não do recurso especial ou dos recursos internos a ele inerentes, questão que não está relacionada, senão reflexamente, com a liberdade de locomoção, e que deve ser resolvida no âmbito daquela Corte. Precedentes.”
+    (HC 125.024-AgR/DF, Rel. Min. ROSA WEBER – grifei)
+    “Agravo regimental em ‘habeas corpus’. Processual Penal. Intempestividade de agravo em recurso especial dirigido ao Superior Tribunal de Justiça por defensor dativo. Apontada deficiência da defesa técnica. Pretendida revisitação dos pressupostos de admissibilidade de recurso de competência daquela Corte de Justiça. Inviabilidade da utilização do ‘habeas corpus’ para esse fim. Precedentes. Agravo regimental ao qual se nega provimento.
+    1. É firme o entendimento do Supremo Tribunal Federal no sentido de que o ‘habeas corpus’ não se presta para rediscutir as decisões do Superior Tribunal de Justiça quanto à admissibilidade ou não do recurso especial e de seus incidentes (HC nº 122.100/RS-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 21/6/16).
+    …...................................................................................................
+    3. Agravo regimental ao qual se nega provimento.”
+    (HC 137.758-AgR/SP, Rel. Min. DIAS TOFFOLI – grifei)
+    Sendo assim, e pelas razões expostas, não conheço da presente ação de “habeas corpus”, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 08 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
