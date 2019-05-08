@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, alínea a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INEXISTÊNCIA DE INÍCIO DE PROVA MATERIAL. SÚMULA 149 DO STJ. NÃO COMPROVAÇÃO DO TEMPO DE ATIVIDADE RURAL NO PERÍODO IMEDIATAMENTE ANTERIOR À AQUISIÇÃO DA IDADE. (RESP 1.354.908). REQUISITOS NÃO SATISFEITOS. BENEFICIO INDEVIDO. SENTENÇA MANTIDA.
+I - A aposentadoria por idade, rural e urbana, é garantida pela Constituição Federal em seu artigo 201, §7º, inciso II, para os segurados do regime geral de previdência social (RGPS), nos termos da lei e desde que obedecidas as seguintes condições: "II - sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em cinco anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural , o garimpeiro e o pescador artesanal;
+II- A questão relativa à comprovação de atividade rural se encontra pacificada no Superior Tribunal de Justiça, que exige início de prova material e afasta por completo a prova exclusivamente testemunhal (Súmula 149 do STJ).
+III- Ressalta-se que o início de prova material, exigido pelo § 3º do artigo 55 da Lei 8.213/91, não significa que o segurado deverá demonstrar mês a mês, ano a ano, por meio de documentos, o exercício de atividade na condição de rurícola, pois isto importaria em se exigir que todo o período de trabalho fosse comprovado documentalmente, sendo de nenhuma utilidade a prova testemunhal para demonstração do labor rural.
+IV - Admite-se, contudo, a extensão da qualificação de lavrador de um cônjuge ao outro e, ainda, que os documentos não se refiram precisamente ao período a ser comprovado. Nesse sentido, o REsp n. 501.281, 5" Turma, j. em 28/10/2003, v.u., DJ de 24/11/2003, p. 354, Rel. Ministra Laurita Vaz.
+V - Segundo o RESP 1.354.908, realizado segundo a sistemática de recurso representativo da controvérsia (CPC, art. 543-C), necessária a comprovação do tempo de atividade rural no período imediatamente anterior à aquisição da idade.
+VI- Em relação às contribuições previdenciárias, é assente o entendimento de serem desnecessárias, sendo suficiente a comprovação do efetivo exercício de atividade no meio rural (STJ, REsp 207.425, 5º Turma, j. em 21/9/1999, v.u., Dl de 25/10/1999, p. 123, Rel. Ministro Jorge Scartezzini; e STJ, RESP n. 502.817, 5" Turma, j. em 14/10/2003, v.u., Dl de 17/11/2003, p. 361, Rel. Ministra Laurita Vaz).
+VII - No caso dos autos, o requisito etário restou preenchido em 25.09.2015.
+VIII - Inexistência de início de prova material.
+IX - Embora tenha implementado o requisito etário (60 anos em 2015), não cumpriu os requisitos dos artigos 142 e 143 da Lei 8.213/91, quanto ao tempo de trabalho no campo e carência.
+X - Pedido de aposentadoria por idade rural improcedente.
+XI - Apelação da parte autora improvida.
+XII - Sentença mantida.
+No presente recurso especial, o recorrente aponta violação aos arts. 11, § 1º, 48, § 1º, 39, I, 55, § 2º, 142 e 143 todos da Lei n. 8.213/91, 201, § 7º, II da CF/88 e Súmula n.73 do TRF 4ª região.
+Sustenta, que o Tribunal a quo, violou os mencionados dispositivos ao negar provimento à aposentadoria rural por idade pretendida, porquanto o autor laborava em regime de economia familar, preenchendo todos os requisitos previstos em lei.
+Argumenta que apresentou como início de prova material diversos documentos considerados aptos a figurar como início de prova material, conforme jurisprudência desta Corte, bem como prova testemunhal robusta a lhe estender o valor probante, o que, segundo a jurisprudência desta e. Corte, é suficiente ao deferimento do benefício.
+Pugna pela reforma do acórdão e o deferimento do benefício previdenciário.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido com base na Súmula n. 7 do STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Tenho que não assiste razão ao recorrente.
+De início, cabe esclarecer que não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.604.506/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+Já quanto à questão de fundo, melhor sorte não acode ao agravante.
+Com efeito, a Corte a quo considerou o conjunto probatório dos autos frágil. E na análise lá efetuada, apesar do autor ter preenchido o requisito etário, a prova material apresentada foi deconsiderada apta para indicar o labor rural pelo período correspondente a carência.
+Confira-se, in verbis(fl. 562-563):
+A parte autora completou a idade mínima em 25.09.2015 (fls. 19), devendo comprovar o exercício de atividade rural por 180 meses.
+Nos termos da Súmula de nº 149 do Superior Tribunal de Justiça, é necessário que a prova testemunhal venha acompanhada de, pelo menos, um início razoável de prova documental, in verbis:
+"A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito de obtenção do beneficio previdenciário".
+Para comprovar a sua condição de trabalhador rural,o requerente apresentou, tão somente, cópia dos autos do processo nº 0001349-60.2006 (373/2006), Ação de Imissão de Posse com Pedido de Tutela Antecipada, referente a uma área de terras, encravada na Fazenda Cambuhy, Secção Boa Vista, na cidade de Matão, local onde o genitor do autor, senhor [NOME], explorou e residiu desde o ano de 1969 até a data da, ocorrência do seu óbito, no ano de 2006 (fls. 39-420).
+Contudo, referido documento não pode ser considerado como início de prova material do labor rural da parte autora. A posse de um imóvel rural não torna os titulares rurícolas, para efeito de se beneficiarem da legislação previdenciária, que outorga direito especial àqueles que efetivamente se dedicaram por longos anos à dura labuta no campo.
+O autor trouxe aos autos cópias da sua certidão de casamento, realizado em 26.05.1976, e de nascimento de seu filho, de 26.05.1980, nas quais consta a sua qualificação como motorista, além de cópia da sua CTPS, com anotações de vínculos de emprego de natureza urbana, nos períodos de 04.02.1982 a 23.03.1982 e de 02.07.1982 a 03.01.1994, na função de motorista.
+Ressalte-se que, no processo acima mencionado, ajuizado em 2006 em face do requerente, consta da procuração outorgada a seu advogado e da declaração de residência e pobreza (fls. 82/83) que o postulante era motorista.
+O autor não apresentou nenhum documento apto a comprovar o exercício de trabalho rural até a data do complemento do requisito etário.
+No caso em exame, resulta claramente que sequer existe início de prova material para indicar que a autora laborou no meio rural pelo período correspondente à carência e imediatamente anterior ao requerimento do beneficio. Nesse particular, é dado reiterar que a prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeitos da obtenção de beneficio previdenciário (Súmula 149 do C. STJ).
+Portanto, desnecessária a incursão sobre a credibilidade ou não da prova testemunhal, uma vez que esta, isoladamente, não se presta à declaração de existência de tempo de serviço rural.
+A imediatividade anterior é requisito indispensável à obtenção do beneficio conforme julgado do E. STJ em sede de Recurso Especial Repetitivo (Resp 1.354.908, Dje 10/02/2016).
+Em face da ausência dos requisitos legais para a concessão do beneficio, a sentença deve ser mantida.
+Diante da insuficiência do conjunto probatório presente nos autos, para efeito de comprovação do exercício de atividade rural no período exigido pela Lei nº 8.213/91, a parte autora não faz jus à concessão do beneficio pleiteado.
+Vê-se, pois, que os documentos colacionados como início de prova material, segundo o entendimento do Tribunal a quo, se mostraram inaptos ao seu desiderato. Seja porque há outros documentos que indicam atividade urbana, seja por não demonstrarem claramente a atividade rural.
+Assim, tendo a Corte de origem entendido que não restou comprovada a qualidade de segurado especial pela fragilidade completa do quadro probatório, tenho que a revisão da questão em sede de recurso especial esbarra na Súmula 7/STJ, que veda a análise do recurso especial que demande, para seu provimento, do revolvimento do conjunto fático probatório.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
