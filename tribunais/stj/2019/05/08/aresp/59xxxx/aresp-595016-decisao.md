@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por Associação Brasileira de Assessoria e Planejamento Tributário Fiscal e Proteção aos Direitos do Consumidor e do Contribuinte - ABAPLAT , desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial por deserção (fl. 419).
+Alega que, por ser autora da ação civil pública, não teria que recolher o preparo, pois não houve configuração de má-fé, conforme previsão do art. 18 da Lei 7.347/85.
+Contraminuta não apresentada.
+É O BREVE RELATO.
+Com efeito, conforme a jurisprudência desta Corte superior, o benefício do art. 18 da lei 7.347/85 é aplicável à parte autora da ação civil pública, não sendo necessário o recolhimento do preparo ( AgRg nos EREsp 1060529/MG, Rel. Ministro Felix Fischer, Corte Especial, DJe 28/10/2010; AgRg no AREsp 24.119/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 16/05/2014).
+Assim, resta afastada a deserção declarada na decisão que inadmitiu o recurso especial.
+Passo, então, ao exame do apelo raro.
+Trata-se de recurso especial fundado no CPC/73 manejado por Associação Brasileira de Assessoria e Planejamento Tributário Fiscal e Proteção aos Direitos do Consumidor e do Contribuinte - ABAPLAT, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 335):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. PRETENSÃO QUE ENVOLVE COBRANÇA DE TRIBUTO - ICMS. IMPOSSIBILIDADE DA VIA PROCESSUAL ELEITA EM RAZÃO DO QUE DISPÕE O ARTIGO 1o, PARÁGRAFO ÚNICO DA LEI Nº 7347/85. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO FEITO. Petição inicial corretamente indeferida. Sentença de extinção do processo sem julgamento do mérito, na forma do artigo 267, VI, do Código de Processo Civil, que não merece reforma. Deste modo, VOTO pelo CONHECIMENTO e DESPROVIMENTO do recurso.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º, IV, 5º, V, da Lei 7.347/85; 1º c/c 8º da Lei Complementar 24/75. Sustenta, em resumo, que o Estado do Rio de Janeiro, ao diferir o pagamento de ICMS devido pela Petrobrás, como forma de benefício fiscal, teria causado danos ao erário, razão pela qual deveria a ação civil pública ser julgada procedente para que o ente federado se abstivesse de manter os benefícios fiscais e que a Petrobrás fosse condenada a pagar o tributo referido e a recompor o que deixou de ser pago.
+Contrarrazões não apresentadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+As matérias pertinentes aos arts. 1º, IV, 5º, V, da Lei 7.347/85; 1º c/c 8º da Lei Complementar 24/75 não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, dou provimento ao agravo para afastar a deserção e não conheço do recurso especial.
+Publique-se.
