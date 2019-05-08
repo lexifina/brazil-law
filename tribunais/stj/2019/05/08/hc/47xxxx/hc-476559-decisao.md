@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio com pedido de liminar impetrado em favor de [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Os pacientes figuram como investigados em procedimento administrativo instaurado pelo Ministério Público do Estado do Paraná com o objetivo de apurar o suposto pagamento de valores indevidos ao Prefeito de Rolândia, [NOME], em contrapartida ao sucesso da empresa "SMP Indústria e Comércio de Móveis LTDA.", de propriedade dos pacientes, no certame licitatório instaurado por meio do edital de concorrência n. 003/2016 e que visava selecionar empresa para ocupar o barracão do extinto Instituto Brasileiro do Café (IBC).
+Neste writ, os impetrantes aduzem a ilegalidade da decretação de medidas cautelares diversas da prisão em desfavor dos investigados. Sustentam que a autoridade coatora extrapolou os seus poderes ao determinar, ainda na fase de investigação, medidas constritivas não requeridas pelo órgão ministerial, quais sejam, o monitoramento eletrônico e a proibição de ausentarem-se da comarca.
+Requerem a concessão de medida liminar para suspender as medidas cautelares alternativas de proibição de se ausentar da comarca e monitoração eletrônica, até o julgamento do presente writ.
+No mérito, requer a concessão da ordem para revogar as medidas cautelares diversas da prisão.
+Liminar indeferida (e-STJ, fl. 534).
+Informações prestadas pelo Tribunal recorrido (e-STJ Fls. 595-1039).
+Parecer do Ministério Público pela denegação da ordem (e-STJ, fls. 1041-1050).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Na hipótese os impetrantes se insurgem contra decisão monocrática proferida por Juiz convocado pelo TJPR para atuar em substituição a membro daquela Corte de justiça, sendo certo que, nos termos do art. 332, § 1º, do Regimento Interno do Tribunal de Justiça do Estado do Paraná, "contra a decisão monocrática do relator, caberá agravo interno, em processo de competência originária, incidentes, remessa necessária ou recurso, no prazo de quinze dias".
+Cumpre registrar ainda que a natureza do habeas corpus impõe o dever de instruir devidamente os autos, isto é, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Na espécie, o processo não foi instruído com cópia da petição protocolada pelo Ministério Público (PR) e que resultou na decretação das medidas cautelares impugnadas pela autoridade coatora, de modo que resta inviabilizada a análise de eventual constrangimento ilegal decorrente de suposta atuação de ofício do Estado Juiz na fase pré-processual da persecução penal deflagrada contra os pacientes.
+Nesse sentido, veja-se este precedente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO ORIGINÁRIA INDEFERIDA LIMINARMENTE. AUSÊNCIA DE INTERPOSIÇÃO DO AGRAVO REGIMENTAL. EXAURIMENTO DA INSTÂNCIA INFERIOR. INOCORRÊNCIA. MÉRITO DA IMPETRAÇÃO NÃO DISCUTIDO NA IMPETRAÇÃO ORIGINÁRIA. SUPRESSÃO DE INSTÂNCIA. DOCUMENTOS ESSENCIAIS AO EXAME DA CAUSA NÃO JUNTADOS AO MANDAMUS. DEFICIÊNCIA NA INSTRUÇÃO. AGRAVO DESPROVIDO.
+1. Inexiste manifestação sobre o mérito da impetração originária pelo órgão colegiado da Corte Estadual, tendo em vista que não foi interposto o recurso cabível contra a decisão do Desembargador que indeferiu liminarmente o writ lá deduzido. Assim, inexistindo manifestação da Corte Estadual na decisão atacada, fica o Superior Tribunal de Justiça - STJ impedido de manifestar-se sobre ela, vedada a supressão de instância.
+2. O mandamus foi deficientemente instruído, pois não havia sido juntada aos autos a cópia do acórdão ao qual o Desembargador faz referência na decisão que não conheceu da segunda impetração, documento essencial à exata compreensão da controvérsia. 3. Em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração. Precedentes.
+4. Agravo Regimental desprovido" (AgRg no HC 475958 / SP, rel. minsitro Joel Ilan Paciornik, Quinta Turma, j. 5/2/2019).
+Ante o exposto, não conheço deste habeas corpus.
+Publique-se. Intimem-se.
