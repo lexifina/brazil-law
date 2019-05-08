@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. COMPETÊNCIA PARA JULGAMENTO. CORTE A QUO. AGRAVO INTERNO DO ART. 1.030, § 2º C/C O ART. 1.021 DO CPC/2015. RETORNO DOS AUTOS À ORIGEM PARA JULGAMENTO DO PRESENTE AGRAVO INTERNO.
+DECISÃO
+Cuida-se de agravo interno manejado por GEVISA S A em face de decisão que negou admissibilidade ao recurso especial em razão da inexistência de ofensa aos arts. 535 do CPC/1973 e, no mérito, por entender que a pretensão recursal destoa do entendimento firmado por esta Corte nos autos do REsp nº 1.144.469, tema 313, no que sentido de que o art. 3º, § 2º, III, da Lei nº 9.718/1998 não teve eficácia jurídica, já que dependia de regulamentação administrativa e foi revogado pela MP 2.158-35/2001.
+A agravante insurge-se contra a decisão agravada reiterando a alegada ofensa ao art. 535 do CPC, eis que o acórdão recorrido, a despeito da oposição de embargos de declaração, teria deixado de se manifestar sobre os arts. 97 e 99 do CTN e, no mérito, alegando que o recurso especial repetitivo do STJ foi alterado por entendimento em repercussão geral no STF no sentido da exclusão do ICMS da base de cálculo do PIS e da COFINS (RE 574.706). Aduz, outrossim, que o art. 3º, § 2º, III, da Lei nº 9.718/1998 não poderia ser restringido ou modificado por decreto regulamentador, sob pena de ofensa ao princípio da estrita legalidade em matéria tributária.
+Requer o conhecimento e provimento do agravo.
+Contrarrazões às fls. 427-436 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Da análise dos autos, verifica-se que a presente petição trata de agravo interno interposto com base no art. 1.030, § 2º c/c o art. 1.021 do CPC/2015, cuja competência para julgamento é da Corte de origem, haja vista o não cabimento de agravo ao recurso especial quando o juízo negativo de admissibilidade recursal nega seguimento ao recurso com base em entendimento firmado em recurso especial repetitivo.
+Ante o exposto, DETERMINO o retorno dos autos à origem, com a devida baixa nesta Corte, para julgamento do presente agravo interno na forma dos arts. 1.030, § 2º c/c o art. 1.021 do CPC/2015.
+Publique-se. Intimem-se.
