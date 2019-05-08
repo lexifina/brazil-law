@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. LEI MUNICIPAL QUE CRIA FERIADO LOCAL. CONSEQUÊNCIAS NAS RELAÇÕES EMPREGATÍCIAS E SALARIAIS. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO DO TRABALHO. AÇÃO DECLARATÓRIA DE INEFICÁCIA DE LEI. PEDIDO INCOMPATÍVEL COM A SISTEMÁTICA DO CONTROLE DIFUSO DE CONSTITUCIONALIDADEDE. INEXISTÊNCIA DE INTERESSE-ADEQUAÇÃO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “Ação Ordinária ação ajuizada pela Associação Comercial e Industrial e outros Feriado Municipal Dia da Consciência Negra Lei Municipal nº 6.730/2006 Competência Municipal arts. 30 e 23 da Constituição Federal proteção de valores históricos e culturais Sentença de extinção por carência de ação Pedido que não é de declaração de inconstitucionalidade de lei municipal Carência afastada e mérito julgado, nos termos do art. 515, § 3º, do Código de Processo Civil. Recurso provido para afastar a extinção e, no mérito, ação julgada improcedente”. (Doc. 2, fl. 109)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 2, fl. 126)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 22, inciso I e 30 da Constituição Federal. (Doc. 3, fl. 113).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice na Súmula 284 do STF. (Doc. 4, fl. 60).
+    A Procuradora Geral da República manifestou-se pela procedência do recurso. (Doc. 8)
+    Não foram opostos embargos de declaração.
+    Com fundamento no art. 10, CPC e a fim de evitar a denominada decisão-surpresa (terza via), intimou-se as partes para se manifestar a respeito da existência do interesse de agir da recorrente à vista da via processual eleita.
+    É o relatório. DECIDO.
+    Verifica-se que na origem foi proposta ação visando à suspensão dos efeitos concretos da Lei Municipal nº 6.730/06 que instituiu o feriado do Dia da Consciência Negra. Trata-se, pois, de uma ação ordinária, e não de uma ação típica do controle abstrato de constitucionalidade,que objetiva declarar, com efeitos para todos os filiados à recorrente, a invalidade da lei municipal.
+    No controle difuso de constitucionalidade a pronúncia do Poder Judiciário sobre a inconstitucionalidade da lei não é feita principaliter tantum, senão sobre a questão prejudicial cujo deslinde é indispensável ao julgamento do mérito. Destarte, o Supremo Tribunal Federal tem advertido que a única possibilidade de contestar, principaliter, atos legislativos reside na instauração do concernente processo objetivo de fiscalização abstrata de constitucionalidade. Nesse sentido:
+    Ação declaratória. Declaração incidenter tantum de inconstitucionalidade. Questão prejudicial. O controle da constitucionalidade por via incidental se impõe toda vez que a decisão da causa o reclame, não podendo o juiz julgá-la com base em lei que tenha por inconstitucional, senão declará-la em prejudicial, para ir ao objeto do pedido. Recurso extraordinário conhecido e provido. (RTJ 97/1191, Rel. Min. RAFAEL MAYER grifei)
+    Note-se que a suspensão dos efeitos concretos da Lei Municipal impugnada não constitui o fundamento jurídico para a anulação de um ato administrativo específico, senão o próprio pedido da ação proposta. Deveras, basta ler o pedido formulado no bojo da petição inicial (Doc. 1, fl. 43) para que se confirme que a inconstitucionalidade da norma objurgada não se manifesta como causa petendi, senão como o único objeto litigioso do feito.
+    Em suma: o ato normativo apontado na presente ação somente comporta impugnação em processo de fiscalização abstrata de constitucionalidade, não se mostrando objeto idôneo de questionamento principaliter nas vias ordinárias. Patente, pois, a ausência de interesse-adequação do autor, razão pela se impõe o reconhecimento da carência de ação nos termos do art. 485, § 3º, CPC.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 8 de maio de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
