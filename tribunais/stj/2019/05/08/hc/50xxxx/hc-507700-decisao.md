@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] contra decisão proferida por Desembargador do Tribunal de Justiça do Estado de Goiás (HC n. 5151824.31.2019.8.09.0000).
+Segundo consta dos autos, o paciente foi preso em flagrante no dia 15/11/2018 (prisão convertida em preventiva) e foi denunciado pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, porque, no momento da abordagem policial, encontrava-se traficando drogas (e-STJ fls. 32/40).
+Inconformada, a defesa impetrou habeas corpus com pedido liminar na Corte estadual alegando, em síntese, que há excesso de prazo para formação da culpa, pois o paciente foi preso no dia 15/11/2018 e a audiência de instrução e julgamento foi marcada para o dia 22/7/2019. Sublinhou, ainda, que os requisitos autorizadores da medida constritiva não estão presentes no caso em tela e que o decreto de prisão preventiva do acusado não foi devidamente fundamentado.
+O Relator da ação na origem, contudo, não conheceu do habeas corpus (e-STJ fls. 28/31).
+Na presente oportunidade, a defesa reitera que os requisitos autorizadores da medida constritiva não estão presentes no caso em tela e que as decisões acerca da manutenção da segregação cautelar do paciente não foram devidamente fundamentadas. Lembra novamente que há excesso de prazo para o fim da instrução, pois o acusado foi preso no dia 15/11/2018 e a audiência de instrução e julgamento foi marcada para o dia 22/7/2019. Aduz, ainda, que o paciente é detentor de circunstâncias favoráveis, podendo responder ao julgamento do processo em liberdade.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva, mediante aplicação de medidas cautelares diversas, expedindo-se o competente alvará de soltura.
+É o relatório. Decido.
+Não há como conhecer do habeas corpus. Isso porque a defesa não manejou previamente o recurso adequado, agravo regimental, para exaurir a competência das instâncias ordinárias e atrair a competência desta Corte (art. 105, II, da CF).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. WRIT IMPETRADO ANTE DECISÃO DO RELATOR QUE NÃO CONHECEU DO RECURSO INTERPOSTO NA ORIGEM. FALTA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. INCOMPETÊNCIA DO STJ. AGRAVO DESPROVIDO.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do habeas corpus pelo relator quando a decisão monocrática for proferida com base na jurisprudência dominante deste Superior Tribunal. Precedentes.
+2. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador relator que não conheceu do recurso interposto perante o Tribunal a quo (precedentes).
+3. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes).
+4. Agravo regimental a que se nega provimento. (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/03/2018, DJe 05/04/2018)
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. CONCUSSÃO. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. PERDA DO CARGO PÚBLICO. NECESSIDADE DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO OU AMEAÇA DE VIOLÊNCIA AO DIREITO AMBULATÓRIO. VIA INADEQUADA. NÃO CONHECIMENTO.
+1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de Justiça do Estado de São Paulo, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF.
+(..)
+2. Agravo regimental desprovido. (AgRg no HC 425.465/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se. Intimem-se.
