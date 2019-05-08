@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 368):
+PREVIDENCIÁRIO. AGRAVO INTERNO. TETOS LIMITADORES. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/88. MENOR E MAIOR VALOR-TETO - MVT E MVT. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003 (RE Nº 564.354). DECISÃO MONOCRÁTICA. NEGATIVA DE SEGUIMENTO. POSSIBILIDADE.
+1. A ausência de limitação temporal ao direito de revisão do benefício previdenciário em face dos tetos, viável e pertinente aquela, não obstante tenha sido esse concedido antes ou após a CF/88. Precedentes do STF e deste Regional.
+2. Viável a solução da lide mediante negativa de seguimento à irresignação quando o objeto dessa estiver em confronto com súmula ou jurisprudência dominante do Tribunal, bem como dos tribunais superiores. Inteligência do preceituado no artigo 932, incisos IV e VIII, do CPC, combinado com o artigo 37, § 2º, inciso II, do RITRF4R.
+3. Agravo interno do INSS desprovido.
+Nas razões do apelo especial, o recorrente aponta violação aos arts. 75 e 103 da Lei 8.213/91, sustentando a ocorrência da decadência ao direito de revisão do benefício concedido há mais de 10 (dez) anos.
+Aduz que "No caso dos autos, considerando que entre a DIB do beneficio originário (aposentadoria por tempo de contribuição) e a DIB do beneficio derivado (pensão por morte) decorreram mais de 10 anos, constata-se que o próprio instituidor da pensão já tinha decaído do seu direito de postular a revisão da sua aposentadoria, razão pela qual a ré, legitima dependente e sucessora do instituidor, ao receber os direitos previdenciários decorrentes da morte do instituidor (pensão por morte), obrigatoriamente recebe-os com todas as características e limitações a eles inerentes, inclusive no tocante a decadência do direito à revisão do beneficio originário" (fls. 381/382).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Cinge-se a controvérsia ao termo inicial da decadência para fins de revisão da pensão por morte, na hipótese em que a pretensão perpassa pela alteração da RMI do benefício originário (aposentadoria do segurado instituidor da pensão por morte).
+Na espécie, o Tribunal de origem afastou a reclamada decadência, adotando as seguintes razões de decidir (fl. 357):
+DA DECADÊNCIA:
+Tratando-se de benefício concedido em 08/03/2012 e tendo sido a presente ação ajuizada em 26/10/2015, não há que se falar em decadência do direito de revisão.
+Considerando que a parte autora estava impedida de postular a revisão do benefício anteriormente ao óbito do instituidor, ante a sua ilegitimidade, o curso do prazo decadencial teve início somente após a concessão da pensão por morte, em razão do princípio da actio nata.
+Por fim, cumpre registrar que não cabe a discussão acerca da revisão e pagamentos de parcelas vencidas quanto à aposentadoria do instituidor, porquanto tal pretensão já foi atingida pela decadência. Portanto, a controvérsia nos presentes autos deve-se restringir à revisão da pensão por morte, ainda que dependente do primeiro benefício.
+Entretanto, o Tribunal de origem, destoou da compreensão consolidada na Primeira Seção desta Corte, na assentada de 27/02/2019, julgando o EREsp 1.605.554/PR, relatora para acórdão a Ministra Assusete Magalhães, firmou o entendimento no sentido de que, o termo inicial do prazo decadencial para revisão do benefício originário da pensão por morte é a data de concessão daquele, não a da pensão.
+No caso, verifica-se que o direito de revisão do benefício originário foi atingido pela decadência, tendo em vista que da data de sua concessão, em 11//09/1992 (fl. 139), à data da propositura da ação, em 26/10/2015 (fl.237), transcorreram mais de 10 (dez) anos.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, nos termos da fundamentação, para reconhecer a decadência do direito de revisão do benefício originário. Invertidos os ônus sucumbenciais, devendo-se observar o disposto no § 3º do art. 98 do CPC/2015, em razão da gratuidade de justiça.
+Publique-se.
