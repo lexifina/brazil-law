@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face do acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 43):
+HABEAS CORPUS. SUPOSTA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA. SEGREGAÇÃO DECRETADA COM FUNDAMENTO NA GARANTIA DA ORDEM PÚBLICA, EM RAZÃO DA GRAVIDADE ABSTRATA DO DELITO. AUSÊNCIA DE ELEMENTOS CONCRETOS QUE JUSTIFIQUEM A MEDIDA EXTREMA EM DESFAVOR DA PACIENTE. REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL NÃO PREENCHIDOS. PEQUENA QUANTIDADE DE DROGA APREENDIDA. PROCESSOS POR ATOS INFRACIONAIS NOS QUAIS FOI HOMOLOGADA A REMISSÃO. PRIMARIEDADE, AUSÊNCIA DE ANTECEDENTES CRIMINAIS E RESIDÊNCIA FIXA NO DISTRITO DA CULPA QUE MILITAM EM FAVOR DO PACIENTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. APLICAÇÃO DAS MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CÓDIGO DE PROCESSO PENAL QUE SE MOSTRAM ADEQUADAS AO CASO. ORDEM CONHECIDA E PARCIALMENTE CONCEDIDA.
+O paciente foi preso em flagrante pela prática do crime de tráfico de drogas, tipificados nos arts. 33 da Lei n. 11.343/2006.
+O impetrante busca a revogação das medidas cautelares fixadas pelo Tribunal de origem, com a alegação de ausência de fundamentação idônea, de desproporcionalidade e de inadequação da medida constritiva.
+Conforme informações processuais eletrônicas disponíveis no sítio do Tribunal de origem em 2/5/2019 e juntada aos autos fls. 104/112, verifica-se que o paciente, no curso das medidas cautelares aplicadas pelo Tribunal a quo, praticou nova conduta criminosa nos autos do processo n. 0000943-11.2019.8.24.0033, inclusive estando preso preventivamente neste, conforme informações à fls. 112/114.
+Diante disso, resta prejudicado a análise da desproporcionalidade e inadequação das medidas cautelares aplicadas pelo tribunal a quo, nos autos do habeas corpus n. 4028307-23.2018.8.24.0000.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
