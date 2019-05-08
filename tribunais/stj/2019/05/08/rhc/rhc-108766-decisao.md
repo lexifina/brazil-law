@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ERICH HENRIQUE SIMOES DE LIMA em face do acórdão do Tribunal de São Paulo que denegou o writ de origem, assim ementado (fl. 17):
+Habeas Corpus Tráfico de drogas Pretensão de revogação da prisão preventiva Impossibilidade.
+Presença dos requisitos da custódia cautelar R. Decisão que decretou a prisão preventiva que se encontra devidamente fundamentada Predicados pessoais que não socorrem o Paciente, incurso, em tese, na prática de crime hediondo, para o qual é legalmente vedada a liberdade provisória, conforme o art. 44, da Lei de Drogas declaração de inconstitucionalidade do referido dispositivo pelo C. STF que se deu incidenter tantum decisão que não vincula esta E. Corte.
+Ausência de afronta ao princípio da presunção de inocência Estado que detém os meios cabíveis para a manutenção da ordem pública, ainda que em detrimento da liberdade do cidadão, nos casos em que tal medida se mostrar necessária. Inviabilidade da aplicação de medidas cautelares alternativas, por insuficiência, inadequação e desproporcionalidade aos fatos tratados nos autos principais.
+Pretensão de relaxamento da prisão preventiva, por excesso de prazo Inocorrência Prazo para o término da instrução criminal que não se baseia em meros cálculos aritméticos, sendo permitida sua dilação desde que haja a devida justificativa Caso concreto no qual aguarda-se apresentação de Alegações Finais da Defesa.
+Inocorrência de constrangimento ilegal que justifique o relaxamento ou a revogação da prisão por excesso de prazo Ordem denegada.
+O recorrente foi denunciado pela prática do crime de tráfico de drogas, tipificado no art. 33, caput, da Lei 11.343/2006 (fl. 105/106).
+Argumenta-se a negativa de materialidade, uma vez que houve a apreensão de ácido bórico, o que não é considerado droga entorpecente pela ANVISA.
+Acrescenta desproporcionalidade da prisão preventiva por se encontrar preso há mais de 1 ano, o que redundaria em progressão de regime.
+Requer o provimento para soltura imediata do paciente mediante a aplicação de medidas cautelares diversas.
+A liminar foi deferida.
+As informações foram prestadas.
+O parecer ministerial foi pelo conhecimento e desprovimento do recurso ordinário interposto.
+Na origem, o processo n. 0001212-63.2018.8.26.0022 encontra-se concluso para sentença desde 15/03/2019, conforme consulta processual ao sítio Tribunal a quo em 02/05/2019.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade, a autoria delitiva ou a possibilidade de desclassificação do delito. As alegações quanto a esses pontos, portanto, não devem ser conhecidas.
+Além disso, a matéria relativa à desproporcionalidade da custódia não foi objeto de análise do Tribunal de origem, conforme cópia de acórdão de fls. 16/28. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Ademais, a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+Posto isso, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+No decreto prisional constou a seguinte fundamentação (fls. 108/109):
+ ..  Pois bem, em que pesem as modificações trazidas pela Lei nº 12.403 de 04 de maio de 2011, compreendo que estão presentes os requisitos da prisão preventiva.
+Verifico que Erich foi surpreendido por policiais militares, em local conhecido como ponto de venda de drogas, com cocaína e LSD, todas embaladas separadamente - o que se presume que se destinavam à venda para terceiras pessoas (fl. 13). Além disso, o acusado possuía outros recipientes tipicamente usados para acondicionar droga, ainda intactos.
+Desta forma, de acordo com os autos de apreensão e exibição, confirmados pelos depoimentos dos policiais, há indícios de autoria e prova da materialidade criminosa (art. 312 do CPP). Outrossim, há fortes indícios de que o indiciado, de acordo com o modus operandi, possui no crime o único meio de vida, isso porque, além das drogas que trazia consigo, tinha recipientes ainda intactos para o acondicionamento de mais drogas e, na sua casa, havia uma balança de precisão tipicamente usada no fracionamento dc entorpecentes.
+Ou seja, aparentemente, o acusado estava se dedicando ao comércio espúrio. Assim, patente a necessidade da prisão cautelar como forma dc garantia da ordem pública.
+Ressalte-se que a ausência de ocupação lícita também acarreta no risco à aplicação da lei penal, isso porque, como não possui qualquer vínculo com o distrito da culpa, poderá fugir a qualquer tempo.  ..  Diante deste cenário, não há, por ora, elementos a assegurar que, posto em liberdade, não prejudicará o regular andamento do feito, frustrando a aplicação da lei penal, bem como não voltará a reincidir na prática dos crimes em questão. Portanto, converto a prisão em flagrante de ERICH HENRIQUE SIMÕES DE LIMA em prisão preventiva (art. 310. inc. II, do CPP).
+Com essas considerações, estando presentes os requisitos constantes no artigo 312 e ausentes os do artigo 318 do Código de Processo Penal e, com base no artigo 310. II, c.c. o artigo 282, §6º, e 313.1. todos do mesmo Diploma Legal, decreto a Prisão preventiva de ERICH HENRIQUE SIMÕES DE LIMA. qualificado nos autos, e determino a imediata expedição do competente mandado de prisão.
+Por sua vez, constou da decisão que denegou o pedido de liberdade provisória (fl. 222 - destaques):
+ ..  Veja-se que com o denunciado foram encontrados 03 micropontos de LSD e 222,8 gramas de cocaína, para os quais o laudo toxicológico foi positivo.
+Por certo que se destinavam a venda, o que tal conduta merece resposta imediata das autoridades policiais e judiciais, assim como foi feito.
+De outra sorte, os mesmos requisitos que a defesa aponta não foram levados em consideração pelo denunciado ao manter conduta reprovável no meio social.
+Assim, como não houve alterações no conjunto probatório até o momento, a prisão preventiva ainda deve ser mantida, visando a manutenção da ordem pública, da instrução criminal e aplicação da Lei penal .. .
+Como se vê, apesar da indicação da quantidade de droga apreendida, se destacou no decreto de prisão a necessidade da custódia apontando que há gravidade nos fatos praticados em razão do próprio tipo penal, sem demonstrar concretamente sua caracterização, e justificou a medida extrema fincada na premissa de que a liberação do paciente incorreria em risco a ordem em razão da presunção de que o delito praticado era exercido como único meio de vida. Assim, não se apontou qualquer elemento do caso concreto para justificar a prisão, fazendo afirmação genérica e abstrata sobre a gravidade do crime, além de presunções e conjecturas, evidenciando a ausência de fundamentos para a manutenção da prisão.
+Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, desde já reconheço a ilegalidade arguida.
+Ante o exposto, dou provimento ao recurso em habeas corpus para a soltura do paciente ERICH HENRIQUE SIMOES DE LIMA, o que não impede a fixação de medida cautelar diversa da prisão, pelo juízo de primeiro grau, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
