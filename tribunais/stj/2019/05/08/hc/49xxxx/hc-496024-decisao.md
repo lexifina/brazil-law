@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (fl. 16):
+APELAÇÃO CRIMINAL ROUBO QUALIFICADO - ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSSIBILIDADE - DEPOIMENTOS DAS VÍTIMAS SEGUROS E AMPARADOS NOS DEMAIS ELEMENTOS DE PROVA - CONDENAÇÃO MANTIDA
+- No crime de roubo, os depoimentos das vítimas, seguros e corroborados pelos demais elementos de prova, possuem grande relevância e são suficientes para embasar decreto condenatório, máxime quando não se vislumbra nenhuma razão para elas incriminarem falsamente os réus. Recursos parcialmente providos, somente para reduzir as penas.
+Consta dos autos que o paciente foi condenado às penas de 12 anos, 4 meses e 22 dias de reclusão, em regime fechado, e de 50 dias-multa, como incurso no art. 157, § 2º, I, II e V, c/c art. 70, ambos do Código Penal.
+A defesa interpôs apelação, que foi parcialmente provida pelo Tribunal local, a fim de redimensionar a pena para 7 anos, 8 meses e 12 dias de reclusão, mais 32 dias-multa.
+Daí o presente writ, em que o impetrante sustenta, em síntese, que há desproporcionalidade na pena e ausência de fundamentação idônea para a aplicação das causas de aumento da reprimenda na terceira fase da dosimetria.
+Requer, assim, a redução da fração relativa às causas de aumento de pena.
+Indeferida a liminar (fl. 37) e prestadas as informações (fls. 47-143), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (fls. 145-151).
+É o relatório.
+DECIDO.
+Pleiteia o impetrante a redução da fração relativa às causas de aumento de pena do delito de roubo, por emprego de arma de fogo e concurso de agentes, na terceira fase da dosimetria.
+Sobre a matéria, assim se manifestou o Tribunal de origem (fl. 28):
+ .. .Já na terceira fase, em razão da existência, agora, de duas qualificadoras (concurso de agentes e emprego de arma), aumento a pena em 3/8, resultando, agora, em 08 anos, 07 meses e 03 dias de reclusão e 20 dias-multa, no valor unitário mínimo legal, para o réu Rolídio; em 07 anos, 08 meses e 12 dias de reclusão e 19 dias- multa, no valor unitário mínimo legal, para o réu Thiago; e em 06 anos. 07 meses e 06 dias de reclusão e 16 dias-multa, no valor unitário mínimo legal, para o réu Willian, não somente em razão da presença de duas qualificadoras, mas, sobretudo, por ter sido utilizada arma de fogo, que tem maior potencial ofensivo que a arma branca, que já seria suficiente para caracterizar a qualificadora e, ainda, pelo fato do crime ter sido cometido por três agentes.
+Na sequência, correto o reconhecimento do concurso formal de delitos, com o aumento de 1/6 na reprimenda, totalizando, agora, 10 anos e 08 dias de reclusão e 40 dias-multa, no valor unitário mínimo legal, para o réu Rolídio; em 08 anos, 11 meses e 24 dias de reclusão e 38 dias-multa, no valor unitário mínimo legal, para o acusado Thiago; e em 07 anos, 08 meses e 12 dias de reclusão e 32 dias-multa, no valor unitário mínimo legal, para o acusado Willian, nos termos dos artigos 70 e 72 do Código Penal.  ..
+Nos termos do entendimento cristalizado na Súmula 443/STJ: o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Com efeito, não se verifica o constrangimento ilegal, porquanto o estabelecimento de fração acima da mínima legal - 3/8 -, na terceira fase da dosimetria, para o crime de roubo, deu-se pela incidência de duas majorantes - emprego de arma e concurso de agentes -, com base em fundamentação concreta, destacando-se a existência de concurso de três agentes (fl. 28), o que está em conformidade com a Súmula 443/STJ. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. PLURALIDADE DE HIPÓTESES MAJORANTES DO ROUBO. CRITÉRIO MERAMENTE MATEMÁTICO. ILEGALIDADE. NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA DO QUANTUM DE AUMENTO DOSADO. OCORRÊNCIA. SÚMULA 443/STJ. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do writ, pois exigiriam revolvimento probatório.
+3. Nos termos do Enunciado de Súmula 443 desta Corte, quando da dosimetria da fração da causa de aumento do crime de roubo, na terceira etapa, impõe-se ao julgador fundamentar concretamente o quantum de exasperação, sendo insuficiente a mera menção à quantidade de majorantes
+4. As instâncias ordinárias não apenas repetiram a descrição das duas majorantes, mas evidenciaram a maior gravidade dos quatro crimes de roubo, perpetrados por três agentes em concurso e com uso de armas de fogo. Destarte, malgrado coincidência com o critério matemático, observa-se fundamentação idônea para a exasperação de 3/8, motivo pelo qual deve ser mantida a dosimetria realizada.
+5. Habeas corpus não conhecido.
+(HC 402.836/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/11/2017, DJe 28/11/2017)
+Dessa forma, estando devidamente justificada a fixação do quantum de 3/8 na terceira fase da dosimetria, ausente qualquer ilegalidade a ser sanada por esta Corte Superior.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
