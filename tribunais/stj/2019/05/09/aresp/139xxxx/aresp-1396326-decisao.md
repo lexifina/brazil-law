@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. GUARDA MUNICIPAL. ADICIONAL DE PERICULOSIDADE. LEI 5.042/1997 DO MUNICÍPIO DE ARAÇATUBA/SP. ANÁLISE DE DIREITO LOCAL. NÃO CABIMENTO. SÚMULA 280/STF. AGRAVO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por [NOME] e OUTROS, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER E PAGAR - Guardas Municipais - Pretensão ao recebimento do adicional de periculosidade - Sentença de improcedência pronuncia em primeiro grau - DIREITO AO RECEBIMENTO DO ADICIONAL DE PERICULOSIDADE DESDE A EDIÇÃO DA LEI FEDERAL 12.740/2012 - Descabimento - Inexistência de previsão legal - Impossibilidade de aplicação da CLT aos servidores públicos com vínculo, sendo certo ainda que referidos funcionários já recebem referido adicional, nos termos do artigo 11 da Lei Municipal 5.042/1997 - Sentença mantida inclusive quanto ao ônus de sucumbência, sem a incidência do art. 85, § 11 do novo Código de Processo Civil, vez que já fixados em seu percentual máximo Recurso dos autores improvido (fls. 408).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente alegou ofensa ao art. 1o. da Lei 12.740/2012, ao argumento de que o adicional de periculosidade é devido, tendo em vista que a Lei Municipal 5.042/1997 prevê a possibilidade dos servidores optarem pelo recebimento do Adicional de Periculosidade e assegura o acréscimo de 30% (trinta por cento) aos servidores em condições de periculosidade.
+4. É o relatório do essencial.
+5. Dessume-se da leitura do acórdão recorrido e das razões do Recurso Especial que a controvérsia dos autos demanda a análise do disposto na Lei 5.042/1997 do Município de Araçatuba/SP.
+6. Entretanto, como cediço, não é possível, em sede de Recurso Especial, o exame de eventual ofensa a dispositivos legais emanados de legislação local, como no caso, a teor da Súmula 280/STF.
+7. Ante o exposto, nega-se provimento ao Agravo dos Servidores.
+8. Publique-se. Intimações necessárias.
