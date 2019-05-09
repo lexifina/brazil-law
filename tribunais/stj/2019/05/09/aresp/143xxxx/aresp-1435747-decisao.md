@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NULIDADE CDA. SÚMULA 282/STF. INOVAÇÃO RECURSAL. SÚMULA 283/STF. AGRAVO EM RECURSO ESPECIAL DO BANCO BRADESCO S.A. NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo BANCO BRADESCO S.A., com fundamento na alínea a do art. 105, III da Carta Magna, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Protesto de Certidão de Dívida Ativa - Possibilidade - Artigo 1o, Lei nº 9.492/97, parágrafo único - Constitucionalidade reafirmada pelo E. Órgão Especial deste Tribunal - Precedente do STJ - Recurso DESPROVIDO
+2. Os Embargos de Declaração foram rejeitados.
+3. Nas razões do Recurso Especial, o agravante aponta contrariedade aos arts. 1o. da Lei 7.102/1983 e 16 da Lei 9.017/1995. Aduz que o banco-recorrente sequer teve chance de saber a origem dos supostos débitos tampouco para se defender em vias administrativas visto que as Certidões de Dívida Ativa foram levadas a protesto sem qualquer notificação ou ciência do recorrente (fls. 336).
+4. Sobreveio juízo negativo de admissibilidade, o que ensejou a interposição do presente Agravo.
+5. É o relato do essencial.
+6. Inicialmente, no que tange à ausência do procedimento administrativo, o debate proposto no Recurso Especial não se realizou no Tribunal de origem. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração.
+7. Assim, perquirir nesta via estreita ofensa à referida norma, sem que se tenha explicitado a tese jurídica que ora se controverte, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, os enunciados sumulares 211/ STJ e 356/STF. É assente, nesta Corte, o entendimento de que é condição sine qua non,para que se conheça do Especial, que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 156 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. VIOLAÇÃO AO ART. 5º, LVII, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. OFENSA AO ART. 155 DO CPP. CONDENAÇÃO BASEADA EM PROVAS COLHIDAS SOMENTE NA FASE INQUISITORIAL. INOCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AFRONTA AO ART. 386, VII, DO CPP E AO ART. 289, § 1º, DO CP. DOLO DA CONDUTA. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1- É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 211/STJ, 282 e 356/STF.
+(..)
+5- Agravo Regimental a que se nega provimento.(AgRg no AREsp. 357.469/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 17.9.2013).
+8. No mais, o Tribunal de origem consignou que houve inovação recursal, transcrevo:
+Quanto aos demais pleitos do apelante, quais sejam ilegalidade da cobrança efetuada pela Municipalidade, nulidade das CDAs, abusividade e ilegalidade das multas cobradas além e seu caráter confiscatório, tais matérias não serão conhecidas por esta julgadora, posto que inovadoras e não aventadas em sede de inicial. O pedido formulado na ação cautelar de sustação de protesto versava somente sobre a nulidade e impossibilidade do protesto extrajudicial, tendo requerido, para tanto, a suspensão em cartório competente.
+Agora, por ocasião da apelação, o recorrente inova em sua alegações, trazendo ilações inéditas a este processo, o que não se pode aceitai Inclusive, o apelante reconheceu a legalidade do protesto extrajudicial das CDAs.
+Portanto, tais matérias devem ser discutidas em ação própria meios de defesa que possui o contribuinte (fls. 319/320)
+9. Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, é permitido aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283/STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo. Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido (AgRg no AREsp. 41.941/PR, Rel. Min. MARCO BUZZI, DJe 29.5.2013).
+
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ 2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1.089.538/RJ, Rel. Min. MARIA ISABEL GALLOTTI, DJe 9.9.2011).
+10. Diante do exposto, não conheço do Agravo em Recurso Especial do BANCO BRADESCO S.A.
+11. Publique-se.
+12. Intimações necessárias.
