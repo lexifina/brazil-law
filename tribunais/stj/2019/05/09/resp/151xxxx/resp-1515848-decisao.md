@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Vitória de Santo Antão, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça de Pernambuco assim ementado (e-STJ, fl. 182):
+CONSTITUCIONAL. REPASSE DE DOTAÇÕES ORÇAMENTÁRIAS PELO PODER EXECUTIVO AO LEGISLATIVO. REDUÇÃO. IMPOSSIBILIDADE. ATO INCONSTITUCIONAL E ILEGAL. COMPENSAÇÃO. VEDAÇÃO. RECURSO DE AGRAVO AO QUAL SE NEGA PROVIMENTO POR MAIORIA DE VOTOS. MANTIDA A DECISÃO IMPUGNADA.
+1. Nos termos do art. 168 da Constituição Federal, o recorrente é obrigado a repassar, em forma de duodécimo até o dia 20 de cada mês, ao recorrido os recursos orçamentários que lhe são destinados a fim de lhe assegurar a autonomia constitucional.
+2. A inobservância desse dever constitucional, ou mesmo qualquer ato tendente a mitigá-lo, ocasiona nítida afronta a direito líquido e certo, passível de ser corrigida por meio de mandado de segurança.
+3. A jurisprudência desta 7ª Câmara Cível consolidou o entendimento de não se admitir repasses do duodécimo em valores inferiores à previsão orçamentária, ainda que sob a pretensa compensação de débitos do Poder Legislativo.
+4. Recurso de Agravo não provido. Decisão por maioria de votos.
+Os embargos de declaração opostos contra a aludidas decisão foram rejeitados (e-STJ, fls. 210-215).
+Sustenta o insurgente, em preambular, a existência de prequestionamento do art. 368 do Código Civil ou, alternativamente, a nulidade do acórdão para análise da omissão.
+Defende, no mérito, que o repasse a menor do duodécimo ao Poder Legislativo municipal decorreu da assunção de dívida originada daquele Poder ao Instituto Nacional do Seguro Social - INSS.
+Assim, estaria o desconto autorizado devido ao princípio jurídico da compensação, preconizado no art. 368 do Código Civil.
+Contrarrazões às e-STJ, fls. 235-237.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do recurso (e-STJ, fls. 279-283).
+É o relatório.
+A irresignação não merece ser conhecida.
+Com efeito, o Tribunal a quo resolveu a controvérsia dos autos com amparo nos seguintes fundamentos (e-STJ, fls. 173-174):
+A questão controvertida circunscreve-se ao dever do Município de repassar mensalmente o duodécimo, observados os valores constantes na Lei Orçamentária Anual.
+A teor dos art. 168 da Constituição Federal, o recorrente é obrigado a repassar, em forma de duodécimo até o dia 20 de cada mês, ao recorrido os recursos orçamentários que lhe são destinados a fim de lhe assegurar a autonomia constitucional, impedindo eventual abuso de poder pelo Executivo.
+A inobservância desse dever constitucional, ou mesmo qualquer ato tendente a mitigá-lo, ocasiona nítida afronta a direito líquido e certo do recorrido, passível de ser corrigida por meio de mandado de segurança, de sorte que agiu acertadamente o magistrado de primeiro grau ao conceder a ordem pleiteada.
+ ..
+Ademais, frise-se que a efetiva independência do Legislativo não estará assegurada se depender ele da boa vontade do Executivo para haver o valor correspondente à sua dotação orçamentária.
+Quanto à pretendida compensação em virtude do Município de Vitória de Santo Antão ter assumido dívida fiscal da Câmara Municipal perante o INSS, impõe-se assentar que a jurisprudência desta 7a Câmara Cível consolidou o entendimento de não se admitir repasses do duodécimo em valores inferiores à previsão orçamentária, ainda que sob a pretensa compensação de débitos do Poder Legislativo.
+Neste sentido:
+" ..  Na hipótese dos autos pretende o autor o repasse do duodécimo e valor inferior ao estabelecido na lei orçamentária anual e a aplicação do instituto da compensação. Nesse ponto, o Município, trazendo aos autos o detalhamento dos débitos, confessa dívida e sua renegociação junto ao INSS, com base nisso pretende a compensação com o duodécimo, com descontos diretamente no repasse. Diante de tais considerações, podemos observar que a dívida é do Município e não da Câmara de Vereadores, pois cabe àquele a responsabilidade por débitos decorrentes do não recolhimento de verbas previdenciárias de seus servidores. Ademais, ao ser fixado em lei orçamentária anual o repasse de duodécimos, ficam assegurados ao Legislativo Municipal referidos valores, não se podendo admitir o repasse em valores diferentes da previsão orçamentária, sob pena de violação ao artigo 168 da Constituição Federal.(TJPE - DGO no 136227-6 Des. João Bosco Gouveia de Melo, DJ: 07.05.2010)
+Respaldado nestes fundamentos, entendo que deve ser mantido o decisório impugnado nos termos que proferido.
+Como se verifica, a controvérsia foi dirimida com base em pressupostos constitucional e infraconstitucional, sendo certo que o recorrente não interpôs, simultaneamente ao apelo especial, o recurso extraordinário, motivo pelo qual incide, no caso, a Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+A título ilustrativo, confira-se:
+PROCESSUAL CIVIL. SERVIÇOS DE RADIODIFUSÃO SONORA COM FINS EXCLUSIVAMENTE EDUCATIVOS. DISPENSA DE LICITAÇÃO. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cuida-se de Recurso Especial interposto pelo Parquet Federal, contra acórdão que concluiu pela improcedência do pedido deduzido em Ação Civil Pública que buscava: a) a declaração de nulidade do artigo 1º, inciso VII, do Decreto Presidencial sem número, de 6 de setembro de 2001, publicado no Diário Oficial da União do dia 10 subsequente, bem como do Decreto Legislativo 730, de 24 de junho de 2005, que, ratificando aquele diploma normativo, outorgou a concessão do Canal "47  E" à Fundação União de Comunicação para execução de serviço de radiodifusão de sons e imagens, com fins exclusivamente educativos, em São João da Boa Vista; b) a declaração de nulidade dos demais atos administrativos editados em razão dos decretos referidos no item "b", inclusive do contrato de concessão do Canal "47  E" para execução de serviço de radiodifusão de sons e imagens; e c) a condenação da UNIÃO a se abster de outorgar a concessão do serviço em questão sem a realização de procedimento licitatório, sob pena de multa diária de R$ 50.000,00 cinquenta mil reais).
+2. O Juiz de 1º Grau julgou procedentes os pedidos.
+3. O Tribunal a quo deu provimento às Apelações da ora agravadas e julgou improcedentes os pedidos.
+4. Verifica-se que o Tribunal de origem decidiu a causa com base em argumentos constitucionais e infraconstitucionais. No entanto, o agravante interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, perante o excelso Supremo Tribunal Federal. Súmula 126/STJ.
+5. Portanto, é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário. Nesse sentido: AgInt no AREsp 934.593/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 8/11/2016.
+6. Agravo Regimental não provido.
+(AgRg no REsp 1.465.933/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 2/2/2017 - grifos acrescidos)
+A título de esclarecimento, é notório que o fundamento constitucional do acórdão recorrido não foi abordado de forma indireta, considerando que o órgão julgador negou provimento ao agravo regimental em apelação ao fundamento de que o repasse a menor do duodécimo ofendeu diretamente o art. 168 da Constituição Federal e o princípio da separação dos poderes.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
