@@ -1,0 +1,11 @@
+DECISÃO
+A União opõe embargos de declaração a fim de esclarecer qual seria o alcance do termos "proveito econômico" no caso dos autos. Em sua ótica "os honorários de sucumbência a serem incididos sobre o proveito econômico se referem ao valor indicativo de excesso de execução e não sobre todo o valor executado, como pretende a embargada" (fl. 182).
+Nos casos em que há impugnação da União, o proveito econômico é tudo aquilo que o ente público pretende seja excluído do valor executado, isto é, tudo aquilo que pretende não seja adimplido. Embora o objeto da execução seja o benefício financeiro que será auferido pelo exequente em decorrência da decisão judicial com trânsito em julgado, a referência do termo "proveito econômico" deverá ser sempre o valor que a União alega não ser devido por qualquer que seja o motivo.
+Assim, se o valor impugnado pela Fazenda Pública se referir a todo o quantum executado, então, o proveito econômico se identificará com o benefício total a ser auferido pelo exequente. Nas hipóteses em que somente parte do valor executado é questionado, somente essa parte servirá de base para a aferição dos honorários. Pensar diferente seria atribuir ao proveito econômico sempre o valor da execução, o que poderia causar enormes distorções.
+Nesse sentido, já decidiu esta Corte:
+ ..
+2. Na hipótese em que o excesso de execução apontado pela União nos embargos abrange a integralidade do valor perseguido pelos exequentes, o proveito econômico discutido é o próprio valor a ser apurado na execução, de modo que não há incorreção na fixação dos honorários levando em conta o excesso indicado, o qual, na realidade, engloba a totalidade dos valores pleiteados na execução.
+3. Agravo interno não provido (AgInt no EmbExeMS n. 9057/DF, Rel. Ministro Rogerio Schietti, DJe 17/12/2018).
+Realço que esse entendimento está em consonância com a orientação desta Corte, segundo a qual "o proveito econômico consiste na diferença entre o quantum liquidado e o valor indicado como devido pela Fazenda Nacional" (AgInt no AREsp n. 1.261593/DF, Rel. Ministra Assusete Magalhães, DJe 21/8/2018).
+Ante o exposto, acolho os embargos de declaração para esclarecer que o proveito econômico é o valor do excesso alegado pela União, devidamente atualizado.
+Publique-se e intimem-se.
