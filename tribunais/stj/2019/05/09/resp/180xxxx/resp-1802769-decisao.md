@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de dois recursos especiais, apresentados por CLEIDEOMAR PIPINO DA CUNHA LIMA e MANOEL BATISTA DE LIMA, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos recursos de CLEIDEOMAR PIPINO DA CUNHA LIMA e de MANOEL BATISTA DE LIMA, as partes Recorrentes foram intimadas do acórdão recorrido em 09/07/2018, sendo os recursos especiais interpostos somente em 22/08/2018.
+Os recursos são, pois, manifestamente intempestivos, porquanto interpostos fora do prazo de 30 (trinta) dias úteis, nos termos art. 229, do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor das partes recorrentes, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
