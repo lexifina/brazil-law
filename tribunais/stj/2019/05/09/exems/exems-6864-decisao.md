@@ -1,0 +1,6 @@
+DECISÃO
+1. Em razão do julgamento dos embargos à execução e da produção de planilha que observou os critérios estabelecidos, expeçam-se as requisições de pagamento, acrescidos dos consectários legais, relativamente aos substituídos que se encontrarem em situação regular, com destaque dos honorários advocatícios, conforme pedido de dls. 385-394.
+Entretanto, especificamente quanto à correção monetária, diante da decisão proferida pelo STF, no RE n. 870.947/SE, que conferiu efeito suspensivo aos embargos de declaração opostos pelos Estados, a fim de sobrestar a aplicação do entendimento firmado no referido aresto, há que se observar o referido decisum especificamente quanto a esse aspecto. É importante pontuar que o sobrestamento, por se relacionar apenas ao índice de correção, não interfere no imediato cumprimento da execução.
+Assim, deverão ficar bloqueados apenas os valores referentes à diferença entre os índices de correção monetária adotados antes do julgamento do RE n. 870.947/SE (TR) e aquele firmado em repetitivo por esta Corte (IPCA-e), os quais deverão permanecer em conta vinculada até que se julgue, em definitivo, o tema pelo STF. Após o julgamento, se for o caso, o exequente poderá levantá-los.
+2. Intime-se o exequente para que esclareça a divergência indicada às fls. 398-399, em relação a [NOME].
+Publique-se e cumpra-se.
