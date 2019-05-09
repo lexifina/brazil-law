@@ -1,0 +1,13 @@
+DECISÃO
+A UNIÃO, às fls. 991-998, alega que as partes não foram intimadas para se manifestarem sobre os cálculos apresentados pela Contadoria Judicial e que não concorda com os valores que foram expedidas as requisições, em virtude das seguintes inconsistências (fl. 993):
+a) Não foram aplicados juros moratórios sobre os valores pagos administrativamente, superestimando o saldo final, tendo em vista que não foram utilizados os mesmos critérios para as parcelas credoras e devedoras.
+b) Na primeira conta, foi utilizada a variação do IPCA-E para atualização monetária, no período de jul/09 a set/17, quando deveria ser utilizada a variação da TR, conforme realizado na segunda conta.
+Conclui, assim, que "as contas apresentadas  ..  não devem prosperar, uma vez que, em decorrência das inconsistências expostas e demonstradas na planilha de cálculo anexa ao parecer técnico, acarretou um excesso na conta, sendo apurado no Parecer Técnico do DCP/PGU o montante de R$ 638.182,77, também atualizado até março/2019" (fl. 993).
+Decido.
+As aventadas inconsistências indicadas pela União são impertinentes e deveriam haver sido suscitadas oportuno tempore. Não há como pretender, nesta oportunidade, reabrir novas discussões que não se relacionam com eventual erro material na produção da planilha (v.g. simples erro aritmético ou desvio das diretrizes esboçadas nos embargos).
+Observe-se que as referidas alegações, longe de configurarem equívoco suscetível de correção nesta oportunidade, exigem a incursão e reabertura de todo o procedimento executivo ab initio (v.g. inclusão de juros sobre valores pagos administrativamente), o que é inadmissível.
+Além disso, é o argumento de que não fora intimada sobre os cálculos apresentados, é contraditado pela própria apresentação de embargos de declaração pela União, nos quais restringiu-se aos índices de correção que foram adotados na planilha apresentada.
+Após a decisão de acolheu em parte os argumentos expostos pelo referido ente público, foi determinada a produção de novos cálculos, dentro das diretrizes estabelecidas no referido decisum. Nesta oportunidade, portanto, é inaceitável a alegação de que não houve a intimação da União sobre os cálculos.
+Indefiro, portanto, o pedido formulado às fls. 991-998.
+Advirto ao ente público ainda, que a continuidade na impugnação de temas que não condizem com este momento procedimental, notadamente porque se trata de execução iniciada há muitos anos, poderá indicar o prolongamento deliberado do trâmite processual, que não se confunde com o legítimo direito de recorrer, a justificar, por isso mesmo, a aplicação de multa. Determino, pois, o prosseguimento do feito
+Publique-se e intimem-se.
