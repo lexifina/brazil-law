@@ -1,0 +1,29 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DA DEFESA DE NULIDADE NO JULGAMENTO DO JÚRI, ANTE A JUNTADA EXTEMPORÂNEA DE LAUDO, E DE QUE NÃO PÔDE APRESENTAR CONTRAPROVA. AUSÊNCIA DE ILEGALIDADE. DEFESA QUE TEVE ACESSO E FEZ CARGA DOS AUTOS DIVERSAS VEZES, APÓS A JUNTADA DO DOCUMENTO. DOSIMETRIA. ELEVAÇÃO PROPORCIONAL E JUSTIFICADA DE ACORDO COM OS FATOS NARRADOS. INTENSO DOLO. QUALIFICADORA DIRECIONADA COMO AGRAVANTE. POSSIBILIDADE.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Paraná.
+Nos autos da Ação Penal n. 000326-59.2010.8.16.0172, a paciente foi condenada nas sanções previstas no art. 121, § 2º, I e IV, c/c os arts. 29 e 61, II, d, todos do Código Penal, à pena de 21 anos de reclusão.
+Em sede de apelação, a defesa da paciente apontou nulidade no julgamento, em razão da suspeição da [NOME], que seria amiga íntima de familiares da vítima, bem como ante a juntada do exame de balística somente após a pronúncia e sem a intimação das partes, inviabilizando o contraditório. No mérito, afirmou que a decisão dos jurados foi contrária à prova dos autos. Por fim, alegou excesso na dosimetria.
+A Primeira Câmara Criminal do Tribunal de Justiça do Paraná negou provimento ao recurso (fls. 806/839).
+Após o trânsito em julgado da referida decisão, a defesa ajuizou a Revisão Criminal n. 5000625-35.2017.8.16.0000, que não foi conhecida, por inobservância dos requisitos do art. 621 e seguintes do Código de Processo Penal.
+No presente writ, o impetrante requer a nulidade da sessão de julgamento do Júri, pela juntada extemporânea do laudo pericial, relativo a exame de arma de fogo apreendida. Sustenta que a defesa não foi intimada e não pôde formular requerimento de contraprova ou quesitos para a oitiva dos peritos, uma vez que o laudo foi juntado depois de findar a fase instrutória e antes da realização do julgamento pelo Tribunal do Júri.
+Aponta, também, ilegalidade na dosimetria, ante a valoração de circunstâncias posteriores ao crime e sem o devido amparo em provas dos autos (fl. 13).
+Parecer ministerial opinando pela denegação da ordem (fls. 1.826/1.833).
+É o relatório.
+A defesa aponta nulidade por não ter tido a oportunidade de apresentar contraprova relativa ao laudo, o qual teria sido juntado extemporaneamente. No entanto, razão não lhe assiste.
+O acórdão hostilizado deixou expresso que, desde a juntada do referido laudo até o julgamento, os advogados dos réus tiveram pleno acesso aos autos, tendo inclusive, realizado carga do processo e peticionado em várias ocasiões. Logo não pode ser acolhida a alegação de violação do contraditório, uma vez que a defesa teve oportunidade de se manifestar sobre o exame de balística (fl. 831).
+Diante desses fatos, não há falar em prejuízo algum para a defesa, haja vista o fato de ter tido a carga dos autos por diversas vezes e nada ter mencionado. Além disso, em se tratando de tema de nulidades, no processo penal, deve ser comprovado e demonstrado o efetivo prejuízo ao paciente, o que não ocorreu na hipótese.
+Quanto à dosimetria, a defesa aponta constrangimento ilegal, ante a valoração de circunstâncias posteriores ao crime e sem o devido amparo em provas dos autos (fl. 13). Esta, a fundamentação da sentença (fl. 599):
+ ..
+Foi a mentora intelectual do assassinato que vitimou o pai de suas filhas, situação que será sopesada na fase seguinte, sob pena de bis in idem; agiu com dolo intenso, premeditou toda a ação, tentou induzir o Juízo em erro, forjou álibi, revirou a cena do crime. Demonstrou absoluto desprezo pela vida humana, não apresentando qualquer sentimento de culpa ou remorso, inclusive em relação às conseqüências extrapenais do fato para o seio familiar. Mostrou-se dissimulada tentando esconder com um terço a culpa que carrega. Quis arvorar-se na vida filantrópica e religiosa para escapar da condenação. É tecnicamente primária e não registra antecedentes. As demais circunstâncias judiciais não extrapolam o ordinário.
+Posto isso fixo a pena-base em 15 (quinze) anos de reclusão.
+Não há atenuantes.
+Incide, porém, a agravante do crime praticado contra o cônjuge (art. 61, II, "e" do CP).
+Havendo duas qualificadoras, uma delas será valorada para o aumento correspondente à segunda (meio que impossibilitou a defesa da vítima), será sopesada, porque prevista (art. 61, II, "c").
+Em razão das duas agravantes (crime praticado contra cônjuge e qualificadora valorada como agravante) majoro a reprimenda em seis anos, o correspondente a 1/6 (um sexto) para cada uma delas, e a torno DEFINITIVA em 21 (vinte e um) anos de reclusão.
+ ..
+Não há excesso na pena-base fixada em 15 anos de reclusão. Para o delito de homicídio qualificado, o Julgador deve partir do piso mínimo de 12 anos. No caso, constou da sentença que a paciente agiu com intenso dolo, premeditou toda a ação, induziu o Juízo em erro, forjou álibi e revirou a cena do crime. Além disso, constou que ela não apresentou nenhum sentimento de culpa ou remorso, inclusive em relação às consequências extrapenais do fato para a família, e, ainda, mostrou-se dissimulada, buscando a vida filantrópica e religiosa para escapar da condenação. Entendo, portanto, que houve concreta motivação por parte do Magistrado para elevar a pena-base em 3 anos de reclusão.
+Na segunda fase, foi incluída a agravante de ter sido cometido o delito contra cônjuge, o que elevou a pena na fração de 1/6, e ainda uma das qualificadoras (art. 121, § 2º, I e IV) foi direcionada para a segunda fase, exasperando a pena no patamar de 1/6. Também não há o que ser alterado na segunda fase da dosimetria, pois a fração de elevação em 1/6 está proporcional e de acordo com o que vem sendo aplicado pela jurisprudência.
+Ante o exposto, denego a ordem.
+Publique-se.
