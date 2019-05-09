@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 183, § 3º, e 191 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Lei Estadual nº 16/1891), bem como o revolvimento do conjunto fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a” , da Lei Maior, nos termos da jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação das Súmulas nºs 279 e 280/STF: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Usucapião. Bem público. O Tribunal de origem consignou que os requisitos para aquisição do domínio foram reunidos antes da edição do Código Civil de 1916 e da posterior vedação constitucional. Conclusão insuscetível de reexame por força da Súmula 279. Necessidade de interpretação da legislação infraconstitucional. Impossibilidade na via extraordinária. Precedente. 5. Questão fora do âmbito de incidência dos preceitos dos artigos 183, § 3°, e 191, parágrafo único, da Constituição Federal. Deficiência do fundamento recursal. Incidência da Súmula 284. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (AI 606103 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 27.8.2013, ACÓRDÃO ELETRÔNICO DJe-178 DIVULG 10.9.2013 PUBLIC 11.9.2013)
+    “EMENTA Agravo regimental no recurso extraordinário. Terras públicas. Usucapião. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência da Súmulas nº 279 desta Corte. 2. Agravo regimental não provido.” (RE 633811 AgR, Relator(a): Min. Dias Toffoli, Primeira Turma, julgado em 16.10.2012, ACÓRDÃO ELETRÔNICO DJe-222 DIVULG 09.11.2012 PUBLIC 12.11.2012)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de maio de 2019.
+Ministra Rosa Weber
+Relatora
