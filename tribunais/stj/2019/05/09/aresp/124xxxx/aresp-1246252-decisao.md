@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por FAZENDA NACIONAL em face de acórdão de lavra do TRF da 3a. Região, assim ementado:
+TRIBUTÁRIO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO AFASTADA. ALEGAÇÃO DE DECADÊNCIA/PRESCRIÇÃO REJEITADA. IRPJ. DECRETO-LEI 2.065/83. IRRETROATIVIDADE DE LEI. CORREÇÃO MONETÁRIA. RESOLUÇÃO N.º 561/07.
+1. Rejeição da preliminar de carência da ação, por impossibilidade jurídica do pedido. Rejeição da preliminar de mérito atinente à prescrição.
+2. Os fatos geradores das obrigações tributárias relativas ao ano-base de 1983, que resultaram nos recolhimentos ora considerados indevidos, ocorreram antes da vigência do Decreto-lei n.º 2.065/83.
+3. No tocante à correção monetária dos valores pleiteados a título de repetição de indébito, a ser operada a partir dos recolhimentos indevidos, conforme enunciado na Súmula n.º 162 do C. Superior Tribunal de Justiça, devem ser utilizados os critérios e índices amplamente aceitos pela jurisprudência e consolidados na Resolução n.º 561/07-CJF.
+4. Por força do disposto no art. 39, § 4o, da Lei 9.250/95, a partir de 01º de janeiro de 1996, aplica-se a SELIC de forma exclusiva sobre o valor do crédito tributário expresso em reais, ou seja, sem a utilização concomitante de outro índice, seja a título de juros ou correção monetária.
+5. Honorários advocatícios arbitrados em conformidade com o disposto no art. 20 § 4o do CPC (fls. 222).
+2. Aponta ofensa ao art. 16 do Decreto-lei 2.065/1983 e ao art. 144 do Código Tributário Nacional, pois, como o fato gerador do IRPJ é complexivo, o aumento de alíquota seria aplicável no caso dos autos.
+3. É o relatório.
+4. O Tribunal de origem inadmitiu o Recurso Especial com base no fundamento de que o acórdão recorrido estaria em consonância com a jurisprudência deste Sodalício.
+5. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+6. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não comporta seguimento.
+7. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+8. Aplicável, em casos tais, a Súmula 182/STJ, segundo a qual é inviável o Agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+9. Na espécie, não se controverteu o fato de o acórdão recorrido estar em consonância com a jurisprudência desta Corte. A parte agravante não trouxe à baila precedentes atuais aptos a infirmar a decisão impugnada, de modo que, sem tal providência, fica vulnerado o princípio da dialeticidade. Limitou-se, ao revés, a tecer considerações sobre as circunstâncias dos julgados mencionados na decisão agravada, sem, contudo, apontar paradigmas que respaldassem sua tese recursal inadmitida.
+10. Inadmitido em razão da dissonância da pretensão com a jurisprudência desta Corte, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles (AgInt no AREsp. 937.859/MS, Rel. Min. OG FERNANDES, DJe 21.11.2018). No mesmo sentido: AgInt no AREsp. 1.354.487/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 22.3.2019; AgRg no AREsp. 610.496/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 9.3.2016.
+11. Ante o exposto, não se conhece do Agravo em Recurso Especial da FAZENDA NACIONAL.
+12. Publique-se. Intimações necessárias.
