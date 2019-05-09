@@ -1,0 +1,6 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos já sob a vigência do Código de Processo Civil de 2015 (arts. 1.036, caput e § 1º, e 257-C do RISTJ) (ProAfR nos REsps ns. 1.767.631/SC, 1.772.634/RS e 1.772.470/RS, 1ª S., de minha relatoria, afetação eletrônica encerrada em 12.03.2019 - TEMA 1008), com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do mencionado diploma, abordando a seguinte questão: "Possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido".
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos acima identificados, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
+Cumpra-se.
