@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Alagoas que inadmitiu o seu recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 12 anos e 3 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 3º, c/c o art. 14, inciso II, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação perante a Corte a quo, a qual deu provimento ao reclamo para reclassificar o crime para o previsto no art. 157, § 2º, inciso II, do CP, na forma tentada, redimensionando a pena para o patamar de 4 anos de reclusão, em regime semiaberto, e pagamento de 10 dias-multa.
+Apresentado recurso especial com fulcro na alínea a do permissivo constitucional, esse não foi admitido na origem, ensejando a presente insurgência, na qual o agravante alega que os óbices indicados na decisão de admissibilidade não incidiriam in casu.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo parcial provimento da insatisfação.
+É o relatório.
+Em suas razões recursais, a defesa se insurge contra o quantum de diminuição de pena atribuído à tentativa, defendendo a necessidade de aumentá-la para o patamar máximo, de 2/3.
+Em análise das razões apresentadas no agravo e no respectivo recurso especial, verifica-se que apesar dos argumentos delineados pelo Tribunal de origem quando do juízo de admissibilidade ali realizado, a insurgência defensiva merece conhecimento.
+Quanto à fração utilizada para a aplicação da tentativa, a Corte de origem assim se manifestou:
+"Por fim, sobre as majorantes de pena, presente no caso em testilha aquela do uso de arma dc fogo (art. 157,§2º, I do CP) e a causa de diminuição da tentativa, uma vez que a subtração dos bens não se efetivou por razões alheias à vontade do agente, ou seja, a recusa da vítima de entregar os bens e a luta corporal, impediu a conclusão do iter criminis perseguido.
+ ..
+Feitas tais considerações, encerrando meu raciocínio passo a rebalizar a pena base, e, na espécie, considerando que não há circunstâncias desfavoráveis, aplico o patamar mínimo dE 04 anos, para, na segunda fase, aplicar o enunciado de Súmula nº 231, deixando de aplicar as minorantes do caso concreto, e, na terceira fase, em decorrência da majorante específica, presente no inciso I do parágrafo segundo do art. 157 do Código Punitivo, aumentar em 1/3, para em decorrência da tentativa, diminuir em 16 meses fixando a pena em 04 (quatro) anos de reclusão, em regime semiaberto, nos moldes do art 33, §2º "b" do Código Criminal." (e-STJ fls. 312/323)
+In casu, verifica-se que o quantum estabelecido para a redução da pena foi fundamentado em consonância com o iter criminis percorrido pelo agente, considerando que a subtração dos bens não se efetivou em razão da recusa da vítima em entregar os objetos e a luta corporal, que impediu a conclusão do intento criminoso.
+Com efeito, verifica-se que foi aplicado patamar inferior ao mínimo estabelecido no art. 14, inciso II, do Código Penal, o que não pode ser admitido, devendo a dosimetria da pena ser corrigida, de forma que seja aplicado, diante da fundamentação idônea apresentada pelo Tribunal, o patamar mínimo de 1/3.
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. HOMICÍDIOS, TENTADO E CONSUMADO. CONCURSO FORMAL IMPRÓPRIO. MOTIVAÇÃO. DESÍGNIOS AUTÔNOMOS. REEXAME DAS PROVAS. IMPOSSIBILIDADE. QUANTUM DE DIMINUIÇÃO. ITER CRIMINIS. MOTIVAÇÃO ADEQUADA. INOBSERVÂNCIA DO ART. 14, II, DO CÓDIGO PENAL. ILEGALIDADE PATENTE. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso especial.
+2. Hipótese em que o Tribunal de origem entendeu adequada a aplicação do concurso formal impróprio, haja vista os desígnios autônomos. Esclareceu que o paciente teria assumido o risco de matar ou ferir a segunda vítima, o que configura o dolo eventual.
+Inviável, pois, nesta via estreita, a análise aprofundada das provas para se chegar a conclusão diversa acerca do elemento subjetivo.
+3. Não há constrangimento ilegal na fixação do quantum mínimo de redução da pena pela tentativa com fundamento no iter criminis percorrido. Todavia, in casu, a redução ocorreu no patamar de 1/6, abaixo dos parâmetros previstos no art. 14, II, do Código Penal (1/3 a 2/3). De rigor, pois, que a sanção se dê em 1/3.
+4. Writ não conhecido. Ordem concedida de ofício para diminuir a reprimenda imposta ao paciente para 10 anos de reclusão, preservados os demais termos da sentença e do acórdão.
+(HC 200.919/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 08/10/2013, DJe 21/10/2013)
+Dessa forma, procedendo-se à nova dosimetria, tem-se que a sanção inicial do agravante foi fixada em 4 anos de reclusão, a qual permanece inalterada na segunda fase em razão da Súmula n. 231/STJ.
+Na terceira fase, a pena deve ser majorada em 1/3 pela causa de aumento prevista no inciso I do § 2º do art. 157 do CP, alcançando 5 anos e 4 meses de reclusão e multa.
+Por fim, incide a diminuição pela tentativa no patamar de 1/3, tornando-se definitiva a reprimenda em 3 anos, 6 meses e 20 dias de reclusão e pagamento de 9 dias-multa.
+Estabelecida a pena em patamar inferior a 4 anos de reclusão e favoráveis as circunstâncias judiciais do art. 59 do CP, proporcional o estabelecimento do regime inicial aberto para o cumprimento da pena.
+Por tais razões, conheço do agravo e dou parcial provimento ao recurso especial, nos termos do art. 34, inciso VII, c/c o art. 253, parágrafo único, inciso II, alínea c, ambos do Regimento Interno do Superior Tribunal de Justiça, a fim de redimensionar a pena estabelecida ao agravante para 3 anos, 6 meses e 20 dias de reclusão e pagamento de 9 dias-multa, a ser cumprida em regime inicial aberto, mantidos os demais termos do édito condenatório.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
