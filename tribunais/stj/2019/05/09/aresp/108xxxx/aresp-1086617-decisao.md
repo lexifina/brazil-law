@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA INCIDÊNCIA DA SÚMULA 83/STJ. SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão de lavra do TRF da 2a. Região, assim ementado:
+DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA. TUTELA ANTECIPADA. AGRAVO DE INSTRUMENTO. MULTA. INFRAÇÃO ADUANEIRA. AGENTE MARÍTIMO. MANDATÁRIO. RESPONSABILIDADE TRIBUTÁRIA. INEXISTÊNCIA
+1. A decisão agravada negou a suspensão da exigibilidade de multa aplicada pela Receita Federal, forte em que as sociedades empresariais prestadoras de serviços de agente marítimo equiparam-se a agente de cargas, obrigados a prestar informações sobre as operações que executam e cargas respectivas; a reunião de vários fatos em um só auto de infração não enseja, por si só, ilegalidade; as multas derivam de fatos distintos, inexistindo, pois, bis in idem; é inaplicável a Súmula nº
+192/TFR, que se refere à responsabilidade por infração à legislação tributária, praticada pessoalmente pela empresa.
+2. O conceito de agente marítimo, de natureza estritamente mandatária, não se confunde com o de armador/transportador que representa e por quem se responsabiliza tão-somente na esfera comercial, não se estendendo, portanto, às infrações à legislação tributária ou administrativa. Aplicação da Súmula 192/TFR ("o agente marítimo, quando no exercício exclusivo das atribuições próprias, não  considerado responsável tributário, nem se equipara ao transportador para efeitos do Decreto-Lei n." 37 de 1966") e precedentes do STJ e deste TRF2.
+3. Comprovado que a Unimar atua na qualidade de agente marítimo, não arrolado no art. 107, IV, "e" do Decreto-Lei 37/1966, está presente o fumus boni iuris, que justifica a suspensão da exigibilidade da multa, por aparente ilegalidade da sanção aplicada em ofensa ao princípio da reserva legal, sendo o perigo da demora na prestação jurisdicional inconteste.
+4. Mesmo após o Decreto-Lei nº 2.472/1988 o agente marítimo não responde por infração aduaneira, pois não foi equiparado ao transportador para efeitos do Decreto-Lei n.º 37/1966.
+5. Agravo de instrumento desprovido (fls. 231).
+2. Aponta ofensa ao art. 535 do Código Buzaid e aos arts. 37, §1o. e 107, IV, e do DL 37/1966, combinado com os arts. 121 e 124 do CTN.
+3. É o relatório.
+4. O Tribunal de origem inadmitiu o Recurso Especial com base nos seguintes fundamentos: (i) ausência de ofensa ao art. 535 do Código Buzaid; e (ii) incidência da Súmula 83/STJ.
+6. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+7. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não comporta seguimento.
+8. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+9. Aplicável, em casos tais, a Súmula 182/STJ, segundo a qual é inviável o Agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+10. Na espécie, não se controverteu o fato de o acórdão recorrido estar em consonância com a jurisprudência desta Corte. A parte agravante não trouxe à baila precedentes atuais aptos a infirmar a decisão impugnada, de modo que, sem tal providência, fica vulnerado o princípio da dialeticidade. Limitou-se, ao revés, a parte a apresentar as mesmas razões e julgados referidos por ocasião da inadmissão do Apelo Nobre.
+11. Inadmitido em razão da dissonância da pretensão com a jurisprudência desta Corte, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles (AgInt no AREsp. 937.859/MS, Rel. Min. OG FERNANDES, DJe 21.11.2018). No mesmo sentido: AgRg no AREsp. 610.496/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 9.3.2016.
+12. Ante o exposto, não se conhece do Agravo em Recurso Especial da FAZENDA NACIONAL.
+13. Publique-se.
+14. Intimações necessárias.
