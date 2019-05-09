@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. REENQUADRAMENTO. FALTA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL QUE TERIA O TRIBUNAL LOCAL VIOLADO E DADO INTERPRETAÇÃO DISCORDANTE DE OUTROS TRIBUNAIS. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DO MUNICÍPIO DE TAQUARITUBA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICÍPIO DE TAQUARITUBA/SP com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Servidor público municipal. Taquarituba. Adequação dos salários efetivamente recebidos àquele previsto na lei, relativamente ao cargo de professor III, com habilitação em nível de ensino superior. Reconhecimento administrativo do pedido pela publicação do Decreto Municipal 271/2013, que reenquadrou a servidora. Autotutela administrativa que reconheceu a invalidade do ato inicial de enquadramento e que opera efeitos ex tunc. Sentença de procedência mantida. Recurso de apelação não provido (fls. 194).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente alegou que não há falar em direito de receber diferenças salariais, uma vez, ao se inscrever no concurso a recorrida aceitou tacitamente todas as normas do edital, inclusive a que versava sobre o valor do salário a ser percebido mensalmente, e que a administração verificando seu enquadramento em Tabela diferente a qual pertencia anteriormente, editou o Decreto 271/2013, que permitiu seu reenquadramento (fls. 222).
+4. É o relatório.
+5. Constata-se a deficiência na fundamentação do Apelo Nobre, porquanto, nas razões recursais, a parte recorrente não indicou, com precisão, qual dispositivo da legislação federal teria a decisão recorrida violado e dado interpretação divergente da que lhe atribuíra outro Tribunal, circunstância que obsta o conhecimento do Apelo com base nas alíneas a e c do permissivo constitucional, a teor do disposto na Súmula 284 do STF.
+6. Ante o exposto, nega-se provimento ao Agravo do MUNICÍPIO DE TAQUARITUBA/SP.
+7. Publique-se.
+8. Intimações necessárias.
