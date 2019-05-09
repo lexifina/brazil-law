@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME], com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 191/192):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. NOVA PERÍCIA DESNECESSÁRIA. PRELIMINAR AFASTADA. AUSÊNCIA DE INCAPACIDADE TOTAL. ATIVIDADE LABORAL COMPATÍVEL. REQUISITOS NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO. APELAÇÃO DA AUTORA NÃO PROVIDA.
+- Rejeitada a matéria preliminar de cerceamento de defesa, porquanto a realização de perícia médica é desnecessária no presente caso. mesmo porque não apontada qualquer falha no laudo. A mera irresignação da parte autora com a conclusão do perito, sem apontar nenhuma divergência técnica justificável, não constitui motivo aceitável para determinar a realização de nova perícia, apresentação de quesitos complementares ou a realização de diligências.
+- São exigidos à concessão dos benefícios: a qualidade de segurado, a carência de doze contribuições mensais - quando exigida, a incapacidade para o trabalho de forma permanente e insuscetível de recuperação ou de reabilitação para outra atividade que garanta a subsistência (aposentadoria por invalidez) e a incapacidade temporária (auxílio-doença), bem como a demonstração de que o segurado não era portador da alegada enfermidade ao filiar-se ao Regime Geral da Previdência Social.
+- No caso, a perícia judicial concluiu pela incapacidade parcial e temporária, e somente para atividades que exijam esforço físico, ressalvada a possibilidade de continuar exercendo suas atividades habituais.
+- Não obstante as limitações apontadas na perícia, não está patenteada a contingência necessária à concessão do benefício pleiteado, pois ausente a incapacidade total para quaisquer atividades laborais, ao menos por ora, podendo a autora exercer, inclusive, sua atividade habitual.
+- Requisitos para a concessão do benefício de aposentadoria por invalidez ou auxílio-doença não preenchidos.
+- Fica mantida a condenação da parte autora a pagar custas processuais e honorários de advogado, arbitrados em 12% (doze por cento) sobre o valor atualizado da causa, já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ Io e 11, do Novo CPC. Porém, fica suspensa a exigibilidade, na forma do artigo 98, § 3o, do referido código, por ser beneficiária da justiça gratuita.
+- Apelação da autora não provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 208/213).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1.022 e 489, § 1º, do CPC/2015; e 59, da Lei 8.213/91.
+Sustenta, inicialmente, (I) a existência de omissão no julgado; (II) que "a recorrente se encontra incapacitada para o exercício da atividade laborativa habitual, eis que, notoriamente, tal labor exige impreterivelmente a prática de esforço físico, para o qual ela se encontra inapta (conforme previsto expressamente no próprio r. decisum recorrido)" (fl. 229).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 1.022 e 489, § 1º, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, note-se, por oportuno, que é importante ressaltar que o juiz não está adstrito às conclusões da perícia técnica, podendo se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto.
+Contudo, no caso concreto, o Tribunal a quo, ao examinar a questão posta, assim se manifestou sobre a concessão do benefício pleiteado (fl. 188):
+No caso dos autos, a perícia medica judicial realizada em 8/6/2016, atestou que a autora, nascida em 1971, trabalhadora rural, não está inválida, conquanto portadora de lombalgia. Segundo o experto, tais condições a incapacitam parcial e temporariamente para o exercício de atividades que exijam esforço físico (f. 115/123).
+O perito esclareceu que a patologia da qual a autora é portadora não impede o desempenho de suas atividades habituais (item 10 - f. 120).
+Colhe-se do CNIS que, após a cessação do auxílio-doença recebido administrativamente, a autora voltou a desempenhar suas atividades habituais. Fato este que vem a corroborar que a autora, ainda que com certas restrições, está apta ao seu trabalho habitual, tal como consignado pelo perito.
+Portanto, não obstante as limitações apontadas na perícia, não está patenteada a contingência necessária à concessão do benefício pleiteado, pois ausente a incapacidade total para quaisquer atividades laborais, ao menos por ora, podendo a autora exercer, inclusive, sua atividade habitual.
+Malgrado preocupado com os fins sociais do direito, não pode o juiz julgar com base em critérios subjetivos, quando patenteado no laudo a ausência de incapacidade para o trabalho.
+O fato de o segurado sentir-se incapaz não eqüivale a estar incapaz, segundo análise objetiva do perito.
+O fato de o segurado ter doenças não significa, por óbvio, que está incapaz.
+Lembro, por oportuno, que prevalece, no direito processual civil brasileiro, o livre convencimento motivado.
+O magistrado não está adstrito ao laudo. Nestes autos, contudo, o conjunto probatório não autoriza convicção em sentido diverso, devendo ser mantida a r. sentença.
+Como se percebe o acórdão, ao consignar a inexistência de incapacidade laboral, fundou-se no laudo pericial e nas demais provas dos autos. Dessa forma, uma vez mais, não se pode rever o posicionamento da Corte local, diante da incidência da Súmula 7/STJ.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial para, nesta parte, negar-lhe provimento.
+Publique-se.
