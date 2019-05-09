@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. JUROS DE MORA. TERMO INICIAL A PARTIR DO EVENTO DANOSO. ENTENDIMENTO PACIFICADO. SUM 54/STJ. REVISÃO. IMPOSSIBILIDADE. ALEGAÇÃO DE NEGLIGÊNCIA OU CULPA CONCORRENTE DA VÍTIMA QUE OCASIONARIAM A ATENUAÇÃO DA CULPA DOS RECORRENTES. ASPECTOS CONSIDERADOS IRRELEVANTES PELO TRIBUNAL LOCAL NA DEFINIÇÃO DA RESPONSABILIDADE. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 07/STJ. ALEGAÇÃO DE ENRIQUECIMENTO SEM CAUSA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA PARTE, DESPROVIDO.
+HONORÁRIOS ADVOCATÍCIOS MAJORADOS.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ELEKTRO REDES S.A e DANIEL CRAVO DE OLIVEIRA em face de decisão que inadmitiu recurso especial, este interposto contra acórdão assim ementado:
+Civil e processual. Ação de indenização por danos materiais e morais decorrentes de acidente de trânsito julgada parcialmente procedente. Pretensão à reforma integral ou parcial manifestada pelos réus.
+Conjunto probatório que demonstra a culpa de um dos réus pelo evento danoso, uma vez que realizou imprudente manobra de mudança de faixa. Incidência dos arts. 34 e 35 do Código de Trânsito Brasileiro. Culpa do motorista que se reflete na esfera jurídica do proprietário do automóvel (também empregador daquele).
+A morte de ente querido em acidente de trânsito gera danos morais in re ipsa. Quantum indenizatório - arbitrado em R$ 30.000,00 (trinta mil reais) para cada um dos autores - que deve ser mantido, porque até mesmo inferior aos parâmetros adotados pelo C. Superior Tribunal de Justiça. Termos iniciais da correção monetária e juros de mora estabelecidos em conformidade, respectivamente, com as Súmulas 362 e 54 do C. Superior Tribunal de Justiça.
+Pensão mensal devida à companheira da vítima que foi fixada em 2/3 (dois terços) do salário mínimo, com início na data do acidente e término na data em que esta completaria 75 (setenta) anos, considerando sua expectativa de vida. Recebimento de benefício previdenciário que não tem reflexo algum sobre a indenização decorrente de ato ilícito, à vista da natureza distinta das verbas. Termo inicial da correção monetária e dos juros de mora a partir do vencimento de cada prestação, por força do artigo 397, capuz, do Código Civil.
+Constituição de capital que decorre do artigo 533 do novo Código de Processo Civil, mas que pode ser substituído pela inclusão da beneficiária da pensão na folha de pagamento da corré Elektro, como permite o § 2º desse dispositivo legal.
+Verba honorária de sucumbência que deve ser mantida, uma vez que fixada no percentual mínimo previsto no § 2º, do artigo 85, do novo Código de. Processo Civil (sem prejuízo da majoração determinada pelo § 11, pelo trabalho adicional realizado em grau recursal).
+RECURSO DESPROVIDO.
+
+Opostos embargos de declaração em face do acórdão retro, aqueles foram rejeitados por ausência de omissão (e-STJ, fls. 405/410).
+Nas razões do recurso especial, os recorrentes alegam violação aos arts. 407, 186, 884, 944 e 945 do Código Civil, e ao art. 65 do Código de Trânsito Brasileiro, além de divergência jurisprudencial (e-STJ, fl. 416).
+Sustentam que o acórdão recorrido violou o artigo 407 do Código Civil, tendo em vista a incorreta fixação do termo inicial dos juros moratórios incidentes sobre o dano moral. Asseveram, em complemento, que a análise desse tema encontra-se suspensa em razão da afetação do Tema Repetitivo 925, colocado em discussão nesta Corte Superior nos autos do REsp 1.479.864/SP, de minha relatoria (e-STJ, fls. 417/421).
+Argumentam que o acórdão atacado contrariou os artigos 186 e 945 do Código Civil, e o artigo 65 do Código de Trânsito Brasileiro, porque não reconheceu a negligência e a culpa concorrente da vítima no evento, tendo em vista que ela não utilizava o cinto de segurança no momento do acidente (e-STJ, fls. 421/422).
+Não foram apresentadas contrarrazões (e-STJ, fl. 466).
+O recurso especial foi inadmitido ao fundamento de que não foram demonstradas as alegadas violações aos dispositivos de lei, pelo óbice da Súmula 07/STJ e pela ausência de demonstração da divergência jurisprudencial (e-STJ, fls. 467/469).
+Em sede de agravo, os agravantes infirmam os fundamentos da inadmissibilidade do recurso especial.
+É o relatório.
+A irresignação não merece prosperar.
+Sustentam os recorrentes que o acórdão recorrido violou o artigo 407, haja vista a incorreta fixação do termo inicial dos juros moratórios incidentes sobre o dano moral. Asseveram, em complemento, que a análise desse tema encontra-se suspensa em razão da afetação do Tema Repetitivo 925, colocado em discussão nesta Corte Superior nos autos do REsp 1.479.864/SP, de minha relatoria (e-STJ, fls. 417/421). Defendem que o termo inicial para a incidência dos juros moratórios nas condenações por danos morais deve ser considerado a partir da fixação judicial e não desde o evento danoso (e-STJ, fl. 417).
+O acórdão recorrido, por sua vez, assim discorreu:
+"(..)
+Sem razão os apelantes quando reclamam dos termos iniciais dos juros e da correção monetária.
+No que se refere à indenização por danos morais, o termo inicial da correção monetária segue a Súmula n. 362 do C. Superior Tribunal de Justiça ("a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento"), enquanto o dos juros de mora está conforme à Súmula n. 54 do mesmo tribunal de sobreposição ("os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual"). (e-STJ, fl. 391) (grifei)
+Com efeito, como já registrado pelo Tribunal local na oportunidade em que realizou o primeiro juízo de admissibilidade do recurso especial (e-STJ, fl. 467), o Recurso Epecial nº 1.479.864/SP, de minha relatoria, então submetido a julgamento pelo rito dos recursos especiais repetitivos e registrado sob o Tema Repetitivo 925, teve sua afetação cancelada pela e. Corte Especial em 04/10/2017. Em razão da desafetação desse recurso e do cancelamento do Tema nº 925/STJ, os autos foram julgados perante a e. Terceira Turma, que reafirmou o entendimento já consolidado na Súmula 54/STJ quanto à incidência dos juros moratórios a partir do evento danoso nos casos de responsabilidade extracontratual.
+Portanto, em razão do cancelamento do Tema Repetitivo 925/STJ, não há se falar em suspensão do julgamento do tema ora abordado.
+Desse modo, por ter o Tribunal local decidido em consonância com o entendimento pacificado nesta Corte Superior, não cabe reparo o acórdão recorrido quanto ao termo inicial dos juros de mora, incidindo nesse nesse ponto a Súmula 83/STJ.
+Sustentam ainda os recorrentes que o aresto impugnado contrariou os artigos 186, 944 e 945 do Código Civil, e o artigo 65 do Código de Trânsito Brasileiro (e-STJ, fls. 421/422). Argumentam que, conforme provado nos autos, a vítima não utilizava cinto de segurança no momento do acidente. Para eles, a utilização desse mecanismo poderia ter evitado a morte da vítima, que, ao não utilizá-lo, agiu com negligência ou, ao menos, com culpa concorrente, situação que atenua a culpa dos recorrentes.
+Ao analisar esses argumentos, o Tribunal local assim decidiu:
+"(..)
+Sob outro aspecto, não foi comprovado que a vítima trafegava em excesso de velocidade e a circunstância de não estar usando cinto de segurança não tem relevância na definição da responsabilidade pelo acidente (não havendo prova, ademais, de que foi determinante para a gravidade das lesões sofridas e, logo, para o óbito). (e-STJ, fl. 386) (grifei)
+Com efeito, para acolher os argumentos dos recorrentes quanto à contrariedade aos mencionados artigos e, consequentemente, quanto à atenuação da sua culpa, seria necessário que esta Corte Superior analisasse o conteúdo fático-probatório dos autos para averiguar se efetivamente houve negligência ou culpa concorrente da vítima. Ocorre que tal providência é vedada em sede de especial, a teor da Súmula 07/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL EXTRACONTRATUAL. ACIDENTE DE TRÂNSITO. 1. RESPONSABILIDADE OBJETIVA. CULPA CONCORRENTE OU EXCLUSIVA DA VÍTIMA. AFASTAMENTO PELO ACÓRDÃO RECORRIDO. 2. LUCROS CESSANTES E DANOS EMERGENTES COMPROVADOS. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. 3. COMPENSAÇÃO DA INDENIZAÇÃO COM O SEGURO DPVAT. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO OBJETO DA DIVERGÊNCIA. 4. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE IMPUGNAÇÃO. 5. OMISSÃO INEXISTENTE. 6. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, concluiu pela culpa do preposto da ré pela ocorrência do acidente, pois conduzia ônibus em alta velocidade, avançando o sinal vermelho. Ausência de culpa concorrente ou exclusiva da vítima. Incidência da Súmula 7 do STJ.
+2. (..)
+3. (..)
+4. (..)
+5. (..)
+6. Agravo interno desprovido.
+(AgInt no REsp 897.028/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe de 25/11/2016) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. Para o acolhimento do recurso, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido de que não há prova da culpa exclusiva ou concorrente da vítima pelo acidente, bem como acerca da adequação do valor fixado a título de danos morais e estéticos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 do STJ, sendo manifesto o descabimento do recurso especial.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.282.009/ES, Rel. Min. MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2018, DJe de 26/10/2018) (grifei)
+Portanto, não merece reparos o acórdão recorrido nesse aspecto.
+Em relação à alegada violação ao artigo 884 do Código Civil (e-STJ, fl. 416), verifica-se que os recorrentes não demonstraram claramente de que forma a legislação federal foi contrariada pelo acórdão recorrido ou teve negada sua aplicação. Os recorrentes apenas se limitaram a indicar que referido artigo foi violado, sem tecer qualquer argumento quanto à isso.
+Assim, diante da ausência de indicação clara e demonstração efetiva de violação pelo Tribunal de origem, que permita a exata compreensão sobre em que consiste a controvérsia, observa-se que a fundamentação do recurso é deficiente. Aplica-se, portanto, na espécie, a Súmula 284 do Supremo Tribunal Federal.
+Consequentemente, também não merece correção o aresto impugnado em relação a esse ponto.
+Por fim, no tocante à alegação de divergência jurisprudencial a teor do art. 105, inciso III, alínea "c", da Constituição Federal, os recorrentes não se desincumbiram de realizar o devido cotejo analítico entre o acórdão recorrido e os julgados mencionados no petitório. Os recorrentes deveriam ter demonstrado "analiticamente" que os casos são idênticos e merecem tratamento diverso à luz da mesma regra federal. Para a demonstração da divergência, faz-se necessária a transcrição dos trechos que configuram o dissenso, mencionando as circunstâncias que identificam os casos confrontados, não se mostrando suficiente a mera transcrição de ementas.
+Com isso, os recorrentes não cumpriram com a exigência contida no art. 1.029, § 1º, do CPC, situação que desautoriza o conhecimento do recurso.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios, então fixados em 12% (e-STJ, fl. 393) pelo Tribunal local, para 14% sobre o valor da condenação.
