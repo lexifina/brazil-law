@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. SUSPENSÃO DO FEITO. RETRATAÇÃO. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DE CÁLCULOS PERICIAIS, EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO QUE DECIDIU TODA A CONTROVERSIA POSTA DE FORMA INTEGRAL E FUNDAMENTADA.
+EMBARGOS DE DECLARAÇÃO DE ANTONIO [NOME] ROCHA DA FONSECA E OUTROS ACOLHIDO PARA TORNAR SEM EFEITO A DECISÃO EMBARGADA E, DESDE LOGO, CONHECER DO AGRAVO INTERPOSTO POR PORTUS INSTITUTO DE SEGURIDADE SOCIAL PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração interposto por [NOME] contra a decisão de fls. 175/177 (e-STJ), que, em síntese, determinou a devolução dos autos à origem para que ficassem suspensos pelo prazo de 24 meses, a contar de 05/02/2018, para eventual adesão das partes ao acordo homologado pelo STF, em observância à decisão da Suprema Corte nesse sentido (RE 632.212).
+Os embargantes alegam que "a presente lide trata de resgate de uma "reserva de poupança", de um fundo de previdência social e não de diferença de correção monetária de caderneta de poupança, conforme afirmado por Vossa Excelência" (e-STJ fl. 182).
+É o relatório.
+Passo a decidir.
+Tendo em vista a reconsideração da decisão do Ministro Gilmar Mendes, que determinara "a suspensão de todos os processos individuais ou coletivos, seja na fase de conhecimento ou execução, que versem sobre a questão, pelo prazo de 24 meses a contar de 5.2.2018, data em que homologado o acordo e iniciado o prazo para a adesão dos interessados" (DJe de 12/04/2019), bem como as alegações da parte, reconsidero o decisum de fls. 175/177 (e-STJ), dou prosseguimento à análise do recurso especial.
+O Tribunal de Justiça do Estado de São Paulo proferiu acórdão ementado nos seguintes termos:
+"AGRAVO DE INSTRUMENTO. Homologação de cálculos periciais, em sede de liquidação de sentença. Decisão que declarou devido o valor de R$ 21.043,24, em 21/05/13. Alegação de que a perita aplicou, indevidamente, juros sobre juros. Tese não aventada em 1º grau de jurisdição. Matéria preclusa. Manifesta concordância do agravante, perante o juízo a quo, com o cálculo do experto, desde que aplicado o índice de correção da Corregedoria deste TJ-RJ e não o INPC.
+Insurgência quanto ao montante atualizado em março de 2016. Cálculo que sequer foi objeto da decisão agravada, proferida em setembro de 2015. Recurso desprovido" (e-STJ fl. 23).
+Nas razões do apelo nobre, interposto com esteio na alínea "a" do permissivo constitucional, PORTUS INSTITUTO DE SEGURIDADE SOCIAL - SOB INTERVENÇÃO alegou que houve ofensa aos arts 4º da Lei 1.060/50, e, 99, e, 1.022, inciso I, do Código de Processo Civil/2015.
+Defende, em síntese, a necessidade de concessão da justiça gratuita, e, negativa de prestação jurisdicional, eis que, "Os cálculos homologados após a apresentação dos Embargos de Declaração, não foram objeto de concordância por parte do ora Recorrente, argumentos esses que foram desconsiderados pelo Juízo" (e-STJ Fl. 44).
+A irresignação não merece prosperar.
+Quanto à violação ao artigo 535 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente toda a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, senão vejamos:
+"O agravante se insurge contra a decisão constante da pasta 10, do anexo 1, a qual declarou devido o valor de R$ 21.043,24, em 21/05/13, determinando o envio dos autos ao Contador para atualização do montante.
+Esta decisão, expressamente, homologa cálculos constantes de fls. 551, dos autos originários (0131760-02.2002.8.19.0001), os quais foram juntados na pasta 94, fls. 96, do anexo 1.
+Conforme se verifica destes cálculos, o perito apresentou dois valores possíveis. A única diferença entre estes é o índice de correção aplicável. Em uma das tabelas, o experto considera o INPC e encontra a quantia de R$ 21.043,24, ao passo que, na outra, aplica o índice da Corregedoria deste TJ-RJ, indicando o montante de R$ 20.123,73.
+Na petição da pasta 13, fls. 14, do anexo 1, o ora agravante manifesta concordância com o cálculo que aplicou o índice de correção da Corregedoria, conforme se extrai do seguinte excerto:
+"Após a realização dos cálculos, o ora embargante apresentou petição de fls. 555, manifestando sua concordância com o método 2 de cálculo apresentado pela perita, por entender que tal método se encontra em consonância com os termos da sentença".
+Naquela oportunidade, o agravante não apontou a incidência de juros sobre juros. Ao contrário, afirmou que o cálculo estava correto, desde que o índice de correção aplicado não fosse o INPC.
+Assim, a questão está preclusa, não sendo lícito ao recorrente a discussão de tese, em sede recursal, que sequer foi deduzida em 1º grau.
+De outro turno, depreende-se das razões de recurso que o agravante impugna também outros cálculos, realizados para atualização do montante devido até março de 2016, os quais sequer foram mencionados pela decisão agravada, proferida anteriormente, em 10/09/15.
+Se o agravante pretendia impugnar os cálculos realizados em março de 2016, deveria ter recorrido da decisão que os homologou, e não contra aquela constante da pasta 10, do anexo 1" (e-STJ Fls. 24/25, gn).
+Por fim, defiro o pedido de assistência judiciária gratuita, ressaltando, todavia, que a concessão não possui efeitos ex tunc.
+Ante o exposto, acolho os embargos de declaração interposto por [NOME] para sem efeito a decisão de fls. 175/177 (e-STJ) e, desde logo, conheço do agravo interposto por PORTUS INSTITUTO DE SEGURIDADE SOCIAL para negar provimento ao recurso especial.
+Intimme-se.
