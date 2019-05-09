@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME] DUARTE GOULART DOS SANTOS, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+MANDADO DE SEGURANÇA. SERVIDOR PUBLICO. ESTADO. CONTRATO TEMPORÁRIO. NULIDADE DA CONTRATAÇÃO RECONHECIDA POR DECISÃO DESTA CORTE. RESCISÃO PELA ADMINISTRAÇÃO. AUSÊNCIA DE ILEGALIDADE OU ABUSIVIDADE DO ATO.
+1. O direito líquido e certo é aquele que se mostra inequívoco, sem necessidade de dilação probatória, exigindo-se para sua configuração a comprovação dos pressupostos fáticos adequados à regra jurídica.
+2. Tratando-se de contrato emergencial celebrado entre a parte agravante e o Estado do Rio Grande do Sul, regulado por regras próprias do regime administrativo, com base no artigo 37, IX, CF, existe apenas vínculo de caráter precário, inexistindo garantia de manutenção da situação jurídica de contratada.
+3. A Administração Pública possui a prerrogativa de rescindir a qualquer tempo contratos emergenciais ou de caráter temporário, mesmo que com sucessivas renovações, sem a necessidade de instaurar processo administrativo.
+4. Decisão judicial desta Corte (Apelação Cível Nº [CPF], da 4ª Câmara Cível) que reconheceu, de modo expresso, a nulidade do contrato emergencial celebrado, com a conseqüente extinção do vínculo.
+5. Ausência de ato ilegal ou abusivo da Administração Pública ao rescindir o contrato.
+SEGURANÇA DENEGADA.
+A Recorrente alega, em síntese, possuir direito líquido e certo à manutenção de seu contrato de trabalho, o qual fora rescindido em retaliação ao ajuizamento de demanda, o que lhe prejudicou, assim como os discentes.
+Afirma que o ato impugnado tem arrimo em errônea interpretação de decisão judicial não transitada em julgado, a qual, em momento algum, determinou a exoneração imediata ou rescisão do contrato de trabalho.
+Aduz, ademais, que, mesmo não amparada pela estabilidade funcional como os servidores públicos investidos em cargo de provimento efetivo, "não há como ser afastada a garantia do devido processo legal, em observância ao contraditório e à ampla defesa" (fl. 260e).
+Com contrarrazões (fls. 280/284e), subiram os autos a esta Corte.
+O Ministério Público Federal se manifestou às fls. 289/293e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Observo que o tribunal de origem denegou a segurança, sob os fundamentos de (i) ausência de juntada do termo de contrato administrativo, o qual possibilitaria a verificação de eventual cláusula de garantia em favor do agente público contratado; (ii) na Apelação Cível nº [CPF], as próprias partes sustentaram a tese de nulidade do contrato emergencial; e (iii) não existência de elementos nos autos a demonstrar que a rescisão foi motivada por retaliação à pessoa da Impetrante, em razão do ajuizamento de ação em face do Estado.
+Transcrevo, por oportuno, os seguintes excertos do acórdão recorrido (fls. 186/207e):
+É claro que, em alguns casos concretos, considerando-se especialmente o conjunto de cláusulas contratuais firmadas no contrato temporário, é crível considerar judicialmente alguma espécie de garantia para o agente público contratado. No entanto, no presente mandado de segurança não houve a juntada do termo do contrato administrativo, impossibilitando o exame do conteúdo de eventuais cláusulas de garantia, como já havia referido no julgamento do Agravo Interno nº [CPF], que atacou a decisão de indeferimento da liminar.
+Outra alegação da parte impetrante reside na circunstância de não haver motivo justificado para a exoneração, pois na decisão judicial não houve determinação judicial em tal sentido. Consoante aludido, mediante o exame da decisão judicial proferida na Apelação Cível nº [CPF], da 4ª Câmara Cível, não há como concluir pela existência de ilegalidade ou abusividade na decisão administrativa de exoneração da impetrante.
+(..)
+Mas, por outro lado, transcreve-se parte do relatório da sentença de primeiro grau, no qual consta de modo claro que as próprias partes sustentaram a tese de nulidade do contrato emergencial:
+Vistos.
+[NOME] [NOME] DUARTE GOULART DOS SANTOS, CESAR [NOME] TRAJANO, DANIEL ROSSI e [NOME], ingressaram com AÇÃO ORDINÁRIA contra o ESTADO DO RIO GRANDE DO SUL, alegando em resumo que foram contratados em caráter emergencial pelo réu para exercer a função de professor . Exercem a atividade há mais de cinco anos, com sucessivas renovações, e por isso entendem que o contrato que ensejou a sua contratação é nulo na medida em que o tempo em que exerceram a função retirou o caráter emergencial. Em consequência, deve ser reconhecida a existência da relação trabalhista celetista, com a condenação do réu no pagamento de todas as verbas legais decorrentes, tais como aviso prévio indenizado, FGTS com 40%, multa e todas as outras previstas na CLT.
+Causa espécie agora, portanto, sustentar que o ato administrativo de exoneração é abusivo ou ilegal por equivocada compreensão da decisão judicial. Para o Poder Judiciário atender o pedido formulado, necessariamente, deveria passar pelo reconhecimento da nulidade e consequente extinção do vínculo.
+No ato de dispensa do contrato temporário (fl. 38), consta a seguinte motivação:
+"Motivo CONFORME DETERMINAÇÃO JUDICIAL REFERENTE AO PROCESSO Nº 1/1.16.00572287.
+Nesse sentido, basta a leitura do acórdão da Apelação Cível nº [CPF] para constatar-se que foi reconhecida não só a nulidade dos contratos firmados, como a própria extinção, pois é em razão disso que se assegurou o aludido depósito e pagamento do FGTS à servidora/impetrante.
+(..)
+Outrossim, inexiste qualquer elemento nos autos a demonstrar que a rescisão foi por medida de retaliação à impetrante, devido à ação ajuizada contra o Estado. Registro que sequer o mandado de segurança, por sua via célere, que não admite dilação probatória, constitui-se na ação adequada para esse tipo de alegação.
+Nas razões do Recurso Ordinário, entretanto, tais fundamentos não foram especificamente refutados, repercutindo, por conseguinte, na inadmissibilidade do recurso, porquanto esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7º da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo Regimental não provido.
+(AgRg no RMS 45.594/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2015, DJe 20/03/2015).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido.
+(RMS 37.941/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 18/12/2012, DJe 04/02/2013).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. APOSTILAMENTO. INTERPRETAÇÃO SISTÊMICA DA LEGISLAÇÃO DE REGÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. INCIDÊNCIA.
+1. A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 26/06/2012, DJe 01/08/2012).
+Com efeito, à luz do princípio da dialeticidade, constitui ônus da Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
