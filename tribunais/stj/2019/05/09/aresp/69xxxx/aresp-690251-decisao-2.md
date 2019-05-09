@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Associação Condomínio Iguatemi contra decisão que inadmitiu o recurso especial ao argumento de incidência das Súmulas 7/STJ e 280/STF (e-STJ, fl. 2.221).
+A insurgente sustenta buscar discutir a violação da coisa julgada material pelo acórdão que decidiu sobre a inconstitucionalidade da lei municipal, embora já transitada decisão do Órgão Especial da Corte, em ação objetiva, em sentido contrário.
+Afirma também não pretender qualquer análise fática ou de lei local (e-STJ, fls. 2.288-2.302).
+Parecer do Ministério Público Federal em que opina pelo não provimento do agravo em recurso especial (e-STJ, fls. 2.340-2.347).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015, combinado com as Metas 2/CNJ/2019 - "Identificar e julgar, até 31/12/2019, pelo menos, 99% dos processos distribuídos até 31/12/2014 e 95% dos distribuídos em 2015" - e 6/CNJ/2019 - "Identificar e julgar até 31/12/2019 80% dos recursos oriundos de ações coletivas distribuídos a partir de 1º/1/2015").
+É o relatório.
+Conforme as próprias razões da parte agravante, o acórdão recorrido reconheceu ilegalidades na Lei municipal n. 8.736/1996. Aduz que tal ilicitude seria inexistente, pois não se tratou em dita norma de quaisquer desafetações ou alteração de destinação de áreas públicas do loteamento (e-STJ, fl. 2.299).
+Confira-se (e-STJ, fl. 2.300):
+Neste passo, é bem de se ver que a lei campineira nº 8.736/96 dispõe sobre fechamento de loteamentos no âmbito do Município de CAMPINAS-SP, mediante permissão de uso a título precário de áreas públicas e vias de circulação, concedida a associações de proprietários/moradores, que assumem alguns serviços públicos urbanos. Tal lei foi cuidadosamente elaborada, de modo a não infringir disposições da Lei Federal nº 6.766/79 (uso e parcelamento do solo) e da Constituição Estadual Paulista, principalmente para não permitir alteração na destinação original das áreas públicas após a aprovação do loteamento (não se há falar em "desafetação"!) , e especialmente para não ferir normas e princípios constitucionais federais (direito de locomoção: ir/vir/permanecer - Art. 5º, XV - C.F.).
+Assim, a análise da pretensão recursal, de fato, pressupõe o exame do teor da norma local e das circunstâncias fáticas relativas às áreas em discussão.
+Quanto à violação da coisa julgada, a parte interessada indica que o acórdão recorrido teria tratado de ilegalidade da lei local, não sendo viável considerar que referido aspecto tenha sido tratado em ação direta de inconstitucionalidade. De toda sorte, a argumentação é genérica, sem identificar os fundamentos precisos dos acórdãos e da petição recursal que permitiriam o vislumbre, por esta Corte, da incorreção da decisão de inadmissibilidade do especial.
+Nesse contexto, portanto, forçosa a aplicação da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Vale ressaltar que a parte agravante deve desconstituir os fundamentos utilizados na decisão impugnada, sob pena de vê-los mantidos. Desse modo, torna-se imprescindível o confronto específico entre todos os pressupostos, a fim de que seja demonstrado o desacerto da decisão.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
