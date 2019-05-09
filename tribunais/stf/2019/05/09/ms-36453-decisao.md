@@ -1,0 +1,10 @@
+Trata-se de mandado de segurança impetrado em favor de Jackson Macedo Felicio contra acórdão do Tribunal Superior Eleitoral proferido nos autos do MS 601643-08-AgR/DF, de relatoria do Ministro Jorge Mussi, assim ementado:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ELEIÇÕES 2018. PEDIDO. ISENÇÃO DE VOTAR. ESCUSA DE CONSCIÊNCIA. DECISUM. TRÂNSITO EM JULGADO. SÚMULA 23/TSE. OBITER DICTUM. SÚMULA 22/TSE. AUSÊNCIA. TERATOLOGIA AFERÍVEL DE PLANO. DESPROVIMENTO. 1. A teor da Súmula 23/TSE, “não cabe mandado de segurança contra decisão judicial transitada em julgado”. 2. No caso em tela, reitere-se, o agravante busca impugnar aresto proferido pelo TRE/PE no MS 0602771-89.2018.6.17.0000, com trânsito em julgado em 4/10/2018. 3. As certidões trazidas apenas com o agravo, por meios das quais se informa a indisponibilidade temporária do sistema PJE naqueles autos, não alteram o panorama quanto ao conhecimento do writ, pois, de todo modo, a Súmula 22/TSE dispõe que “não cabe mandado de segurança contra decisão judicial recorrível, salvo situações de teratologia ou manifestamente ilegais”. 3. Para fim de cabimento do mandado de segurança, a teratologia deve ser manifesta e aferível de plano, o que não ocorre na espécie, em que se discute matéria controvertida, qual seja, a suposta possibilidade de eleitor se abster de votar por escusa de consciência, alegada com base no art. 5º, VI e VIII, da CF/88. 4. Agravo regimental desprovido.”
+    É o relatório. Decido.
+    Bem examinados os autos, entendo que o writ não merece prosperar.
+    Isso porque não se encontra elencado no rol de competências do Supremo Tribunal Federal o processamento e julgamento de mandado de segurança contra ato de Tribunal Superior, cabendo apenas a análise do mandamus quando a autoridade coatora for o Presidente da República, as Mesas da Câmara dos Deputados e do Senado Federal, o Tribunal de Contas da União, o Procurador-Geral da República ou do próprio Supremo Tribunal Federal.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 9 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
