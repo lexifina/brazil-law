@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (fls. 126-127):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. APELAÇÃO QUE NÃO ATACA DOS FUNDAMENTOS DA SENTENÇA. RAZÕES DISSOCIADAS. RECURSO NÃO CONHECIDO. ATIVIDADE RURAL E URBANA. INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL. BENEFÍCIO DEVIDO.
+1. Não se conhece de apelação cujas razões estão dissociadas dos fundamentos da sentença.
+2. A sentença apelada condenou o INSS a implantar o benefício de aposentadoria por tempo de serviço, ao passo que a autarquia previdenciária elenca genericamente os requisitos necessários à concessão de aposentadoria de segurado especial, de aposentadoria por invalidez, auxílio - doença, pensão e benefício assistencial.
+3. Não há qualquer insurgência por parte do apelante contra os fundamentos contidos na sentença recorrida, à exceção da alegada isenção quanto ao pagamento das custas processuais.
+4. A concessão de aposentadoria por tempo de contribuição pressupõe a comprovação de 35 anos de contribuição, se homem, ex vi do § 7º do art. 201 da CF/88, sem qualquer outra exigência.
+5. Não há qualquer óbice à possibilidade de consideração, para fins de concessão de aposentadoria por tempo de contribuição, de período em que o trabalhador tenha laborado na zona rural, desde que referido período seja anterior à vigência da Lei 8.213/91.
+6. A comprovação do tempo de serviço como segurado especial para fins previdenciários, como é cediço, pressupõe início razoável de prova material contemporânea ao período alegado, complementada por prova testemunhal idônea (art. 55, § 3º, da Lei 8.213/91; Súmula 149 do STJ).
+7. Início de prova material, corroborado pela prova testemunhal, suficiente para comprovar o direito do autor ao reconhecimento de efetivo labor rural no período reclamado.
+8. Somando o tempo de atividade urbana, já reconhecido na sentença, com o período de labor rural, ora admitido, o autor possui o tempo superior ao exigido para a concessão da aposentadoria por tempo de contribuição integral, impondo-se, assim, a concessão do benefício pleiteado.
+9. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (CF/1988, art. 109, § 3º), o INSS está isento das custas somente quando lei estadual específica prevê a isenção, o que ocorre nos Estados de Minas Gerais, Goiás, Rondônia e Mato Grosso, caso dos autos.
+10. Apelação da parte autora provida e apelação do INSS parcialmente conhecida e, nesta parte, provida.
+
+O embargos de declaração interpostos foram providos, conforme a seguinte ementa, in verbis:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. INVIABILIDADE DOS EMBARGOS PARA FINS DE PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1. Como regra geral, é imprescindível para a oposição de embargos de declaração que a parte demonstre a existência, na decisão embargada, de um ou mais dos pressupostos de seu cabimento, a saber, omissão, obscuridade ou contradição, nos termos do art. 535, incisos I e II, do CPC então vigente (art. 1.022, incisos I e II, do CPC atual).
+2. O acórdão embargado foi proferido na regência do CPC de 1973, e a controvérsia foi dirimida pelo Tribunal segundo a sua compreensão da matéria, declinando-se no acórdão embargado os fundamentos relevantes e suficientes para solução da lide ao seu tempo (tempus regit actum). Não se volta ao passado para invalidar decisões e aplicar regra processual superveniente.
+3. Mesmo na hipótese de embargos declaratórios para fins de prequestionamento da questão legal ou constitucional, é pacífico o entendimento de que é incabível a interposição de tais embargos de declaração se não estiverem presentes os pressupostos específicos dessa modalidade de integração do julgado, conforme precedentes deste Tribunal declinados no voto.
+4. Da leitura do acórdão verifica-se que houve análise de toda a matéria julgada, restando tão somente que se faça constar expressamente o desprovimento do reexame necessário.
+5. Assim, acolho os embargos de declaração, para que se faça constar no Voto e na Ementa o termo "nego provimento à remessa oficial".
+No presente recurso especial, o recorrente aponta violação ao art. 1.022 do CPC/2015.
+Sustenta, em síntese, que a decisão do Tribunal a quo, mesmo ante a interposição de embargos de declaração, teria se mantido omissa na apreciação de questão jurídica em sede de reexame necessário - a qual fora posteriormente levantada nos embargos - qual seja, de que "a atividade do autor possui tempo mínimo de trabalho para aposentadoria especial de 25 anos", o que demandaria, assim, "a aplicação do fator 1.4, jamais o de 2,33".
+Sem a apresentação de contrarrazões, o recurso especial foi admitido pela origem.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, de que a atividade do autor apresenta o tempo mínimo de trabalho para aposentadoria especial de 25 anos, o que demandaria a aplicação do fator de conversão 1.4 e não o de 2,33. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão, se mantendo omisso quanto a sua análise.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
