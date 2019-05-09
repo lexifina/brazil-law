@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONCURSO PÚBLICO. CARREIRA DA POLÍCIA MILITAR. EXIGÊNCIA DE ALTURA MÍNIMA MAIOR QUE A EXIGIDA EM LEI FEDERAL. AUSÊNCIA DE RAZOABILIDADE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL DO ESTADO DO AMAZONAS A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo ESTADO DO AMAZONAS, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CONSTITUCIONAL. CONCURSO PARA INGRESSO NA CARREIRA DA POLÍCIA MILITAR. FORMAÇÃO DE PRAÇA ESPECIALISTA. ALTURA. LIMITE MÍNIMO. INCONSTITUCIONALIDADE DECLARADA PELO TRIBUNAL DE JUSTIÇA DO AMAZONAS.
+I- Conforme entendimento jurisprudencial emanado do Colendo STJ, admite-se que decisões judiciais adotem manifestações exaradas no processo em outras peças, desde que haja um mínimo de fundamento, com a transcrição de trechos das peças às quais há indicação (per relationem). Precedentes (REsp. 1399997/AM.
+II- A jurisprudência atualmente firmada no âmbito do Estado do Amazonas vem, reiteradamente, concluindo pela ausência de razoabilidade do limite mínimo de altura estabelecidos naquela Lei.
+III- Recurso conhecido e desprovido (fls. 222).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial, a parte recorrente alegou ofensa aos arts. 1.022, II, 489 e 927, II e V do Código Fux, e 28, parág. único da Lei 9.868/1999, argumentando, em síntese: a) omissão no acórdão recorrido, não obstante a oposição dos Aclaratórios, porquanto deixou de observar o julgamento dos Embargos de Declaração em ADI, ocorrido em 1o.4.2014, no qual foi reconhecida a constitucionalidade da lei estadual que exige o limite de altura mínima que se discute no presente processo; e b) a Corte Estadual, embora reconheça a validade da lei que prevê a exigência de altura mínima, deixou de aplicá-la em nítida ofensa à determinação constitucional da Reserva de Plenário.
+4. É o relatório.
+5. Na hipótese dos autos, o Tribunal de origem consignou:
+Reforçando a ausência de razoabilidade da exigência editalícia, cito a Lei 12.705/2012, que dispõe sobre os requisitos para o ingresso nos cursos de formação de militares de carreira do Exército. Tal diploma, vale dizer, de nível federal com abrangência nacional, estabelece limites inferiores de estatura para o ingresso nos quadros do Exército, a saber, 1,60m se homem, e 1,55m se mulher.
+Portanto, estando o Estado do Amazonas sabidamente abaixo da média de estatura a nível nacional, não se mostra razoável impor uma altura mínima maior do que aquela exigida por uma Lei Federal (fls. 226).
+6. Inicialmente, em relação à suposta contrariedade ao art. 1.022, II do Código Fux, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Quanto ao mérito, a atenta leitura das razões do Apelo Nobre revela que o fundamento - suficiente à manutenção do acórdão objurgado, segundo o qual estando o Estado do Amazonas sabidamente abaixo da média de estatura a nível nacional, não se mostra razoável impor uma altura mínima maior do que aquela exigida por uma Lei Federal - não foi alvo de impugnação nas razões de Recurso Especial, motivo pelo qual incide, no ponto, o disposto na Súmula 283/STF.
+8. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pelo ESTADO DO AMAZONAS.
+9. Publique-se.
+10. Intimações necessárias.
