@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ACIDENTE DE CONSUMO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ALEGADA RESPONSABILIDADE CIVIL DOS AGRAVADOS PELOS DANOS. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DISSIDIO JURISPRUDENCIAL NÃO COMPROVADO.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 347):
+BEM MÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE CIVIL SUBJETIVA. AUSÊNCIA DE NEXO CAUSAL ENTRE O BOTIJÃO DE GÁS FORNECIDO PELA RÉ E A EXPLOSÃO OCORRIDA. Nos termos do art. 186 do CC, a responsabilidade subjetiva, pelo nosso ordenamento jurídico, exige a tríplice concorrência de: prejuízo à vítima, ato culposo do agente e nexo de causalidade entre o dano e a conduta do agente.
+Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados. (e-STJ fls. 360/365)
+Nas razões do recurso especial, os recorrentes apontam violação aos artigos 2º e 12 do Código de Defesa do Consumidor e aos artigos 1.022, II, 489, § 1º, IV do Código de Processo Civil. Alegam a aplicação do Código de Defesa do Consumidor ao presente caso e a conseqüente responsabilidade civil objetiva dos agravados "decorrente do risco integral de sua atividade econômica, ou seja, sem que haja a necessidade de comprovação de culpa." (e-STJ fls. 370/371) Afirmam omissão do Tribunal de origem "quanto aos motivos de manutenção do reconhecimento de ilegitimidade de parte e, segundo, porque na fundamentação da avaliação das provas simplesmente ignorou o laudo elaborado pelo corpo de bombeiros, os quais poderiam, de fato, infirmar a conclusão adotada pelo julgador." Aduzindo que "não houve a correta apreciação da prova, pois o Julgador, mesmo instado a sanar suas omissões, negou-se a analisa-las." (e-STJ fl. 376)
+Contrarrazões ao Recurso Especial apresentadas pelo recorrido ACE SEGUROS SOLUÇÕES CORPORATIVAS S.A. às fls.383/395 (e-STJ).
+Contrarrazões ao Recurso Especial apresentadas pelo recorrido COPAGAZ DISTRIBUIDORA DE GÁS S.A. às fls.397/413 (e-STJ).
+É o breve relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+A pretensão recursal não pode prosperar.
+Com efeito, conforme restou consignado na decisão ora agravada, o Tribunal de origem enfrentou adequadamente a controvérsia, manifestando-se, de maneira fundamentada, quanto a suscitada ilegitimidade de parte e a apreciação das provas, mormente ao laudo do corpo de bombeiros apresentada pelos recorrentes. Ademais, o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Confiram-se, a propósito, os seguintes trechos do acórdão recorrido:
+Instadas as partes a se manifestar sobre as provas que pretendiam produzir (fls.291), os autores permaneceram inertes, dando ensejo ao julgamento antecipado. Dessa forma, não podem se insurgir contra o laudo de criminalística, produzido por peritos especializados da área da polícia técnico-científica da Secretaria de Segurança Pública do Estado e corretamente utilizado pela d. Magistrada para proferir a sentença, tendo em vista ocorrência de preclusão da matéria.
+O laudo de fls. 52/56, apresentado pelos próprios autores, também realizado pela polícia científica no local dos fatos, evidencia que o evento ocorreu provavelmente devido a um vazamento de gás do sistema de interligação fogão-botijão, que em contato com uma centelha elétrica, deu início às chamas. Tal conclusão se coaduna perfeitamente com a ocorrência dos fatos, de que quando o autor acendeu a luz da área de serviço, devido à fagulha elétrica em contato com o gás, ocorreu a explosão.
+Já no laudo pericial (fls. 183/189), realizado para constatar a situação do botijão de gás, a expert esclareceu que tal recipiente apresenta indícios de ter sido exposto à ação de chama externa (fogo), apresentando o plugue de segurança (plugue fusível) aberto e a válvula de consumo de gás operando normalmente. Tal fato foi possível para a constatação de que o botijão sofreu aquecimento demasiado, fundindo o plugue e permitindo a saída do gás para evitar a explosão do recipiente. Tal fato que por si só demonstra que o referido plugue fusível funcionou normalmente, permitindo o alívio de pressão para evitar a explosão, já que é um elemento de segurança exatamente para tal fim.
+Ao responder os quesitos a perita informou que a válvula de consumo de gás que fica ao lado do plugue fusível estava aberta em decorrência do recipiente ter sido submetido a condições de temperatura tais que havia risco de explosão do mesmo (quesito 3 fl. 187). Há ainda informação de que a grande válvula estava totalmente desobstruída (quesito 9 - fl. 188).
+Assim, contrariamente ao afirmado pelos autores, não houve qualquer irregularidade no funcionamento do plug fusível do botijão de gás fornecido pela Copagaz, que funcionou regularmente, de tal forma que o vazamento realmente ocorreu externamente, razão pela qual o autor afirmou ter ouvido barulho antes da explosão, sem qualquer relação com mau funcionamento da válvula de segurança do equipamento fornecido pela ré. (e-STJ fls. 349/351)
+(..)
+Não há de se falar em omissão quanto à preliminar de ilegitimidade ativa do co-autor Luis. O v. acórdão mencionou que referida preliminar seria analisada com o mérito e foi o que se deu. Ora, se após a análise das provas colacionadas aos autos a demanda foi julgada improcedente, não faria diferença o co-autor ser parte legítima ou ilegítima.
+Não houve igualmente omissão quanto ao laudo do corpo de bombeiros, apenas não se sustentou em razão das conclusões apresentadas pelos demais laudos periciais, em especial o da polícia científica e no próprio botijão. (e-STJ fl.364)
+Nesse contexto, estando o acórdão recorrido amparado em fundamentos suficientes para concluir pelo desprovimento da apelação interposta pelas partes, não há que se falar em negativa de prestação jurisdicional, mas apenas em mero inconformismo dos agravantes com o resultado do julgamento.
+Ato contínuo, no que concerne a alegada responsabilidade dos agravados pelo evento danoso, verifica-se que a análise da matéria é obstada pelo teor da Súmula 7 deste Superior Tribunal de Justiça.
+O acórdão recorrido assevera que "A responsabilidade subjetiva, pelo nosso ordenamento jurídico, exige a tríplice concorrência de: prejuízo à vítima, ato culposo do agente e nexo de causalidade entre o dano e a conduta do agente (artigo 186 do novo Código Civil). Assim, para que se configure o dever de indenizar é indispensável que o prejuízo guarde etiologia causal com a culpa do agente. Dessa forma, inexistindo prova de nexo causal entre o produto adquirido da ré e a explosão, de rigor a manutenção de improcedência da demanda." (e-STJ fl. 351)
+Dessa forma, mormente ao fato do Tribunal a quo ter analisado as provas acostadas nos autos e concluiu pela não existência de nexo causal no presente caso, seria necessário o reexame do conjunto fático-probatório para se promover a pretendida alteração do entendimento da Corte Estadual.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. TRIBUNAL A QUO ENTENDEU PELA AUSÊNCIA DE CONDUTA ILÍCITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação ao art. 535 do CPC/73, pois o v.
+acórdão a quo não possui vício de omissão, obscuridade ou
+contradição, mas mero julgamento em desconformidade com os
+interesses do agravante.
+2. O eg. Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu pela ausência de nexo causal entre o alegado dano e a conduta atribuída à ora agravada. Pretensão de revisar tal entendimento demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme
+Súmula 7/STJ.
+3. A mera transcrição de ementas não é suficiente para dar abertura
+ao apelo especial pela alínea c do permissivo constitucional.
+4. Não é possível conhecer da alegada divergência interpretativa,
+pois a incidência da Súmula 7 do STJ na questão controversa é, por
+consequência, óbice também para a análise do apontado dissídio.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1120663/SE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018 g.n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ENCAMINHAMENTO POSTAL. DANO MORAL. REQUISITOS CONFIGURADORES. PRETENSÃO DE AFASTAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. O egrégio Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu pela presença dos requisitos ensejadores da responsabilidade civil. A alteração de tal entendimento, como pretendida na hipótese em debate, demandaria a análise do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.  ..  4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1162586/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/08/2016, DJe 01/09/2016 g.n.)
+Quanto ao dissídio jurisprudencial, ressalto que não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, bem como proceder ao devido cotejo analítico.
+Destarte, inviável a pretensão dos recorrentes.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Por fim, considerando que o presente recurso foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao que dispõe o artigo 85, § 11, do Novo Código.
+No caso dos autos, a verba honorária foi fixada pelo Tribunal de origem no valor de R$ 1.300,00. Dessa forma, a majoração dos honorários sucumbenciais para R$ 1.600,00 é medida adequada ao caso.
+Intimem-se.
