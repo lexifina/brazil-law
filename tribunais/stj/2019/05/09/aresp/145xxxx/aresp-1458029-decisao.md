@@ -1,0 +1,37 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. HOMICÍDIO. DOSIMETRIA. ATENUANTE DA MENORIDADE RELATIVA. REDUÇÃO DA PENA EM FRAÇÃO DIVERSA DE 1/6 (UM SEXTO). AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA MODULAR O QUANTUM DE DIMINUIÇÃO. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de agravo manejado por [NOME], em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 121, § 2º, inciso II, IV e VI, do Código Penal, e no art. 14, da Lei n. 10.826/03; com implicações do art. 1º, inciso I, da Lei n. 8.072/90, à pena de 23 (vinte e três) anos de reclusão, em regime fechado, além de 45 (quarenta e cinco) dias-multa, bem como ao pagamento de R$50.000,00 (cinquenta mil reais) a título de reparação aos familiares da vítima (fls. 404-415).
+O eg. Tribunal a quo deu parcial provimento ao apelo da defesa para excluir a condenação de indenização a título de reparação de danos à vítima e reduzir a pena-base para 18 (dezoito) anos e 06 (seis) meses de reclusão e pagamento de 35 (trinta e cinco) dias-multa (fls. 490-506).
+ O v. acórdão foi ementado nos seguintes termos (fl. 490):
+"APELAÇÃO CRIMINAL  HOMICÍDIO TRIPLAMENTE QUALIFICADO E PORTE DE ARMA DE FOGO DE USO PERMITIDO  REPARAÇÃO DE DANOS CAUSADOS À VÍTIMA  ARBITRAMENTO SEM INSTRUÇÃO ESPECÍFICA - INOBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA - EXCLUSÃO DA INDENIZAÇÃO - DOSIMETRIA - EXASPERAÇÃO DA PENA-BASE QUANTOS AS CIRCUNSTÂNCIAS JUDICIAIS - CULPABILIDADE - PERSONALIDADE DO AGENTE  CONDUTA SOCIAL  CONSEQUÊNCIAS DO CRIME - FUNDAMENTAÇÃO INIDÔNEA  AFASTAMENTO  RECURSO PARCIALMENTE PROVIDO."
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a defesa alegou ofensa ao art. 59, caput, art. 65, inciso I, c/c art. 68, todos do CP, ao argumento de inexistência de fundamentação idônea no acórdão para a fixação da fração aplicada, concernente à menoridade relativa, que deveria ter sido de 1/6 no tocante ao crime de Homicídio.
+Apresentadas as contrarrazões (fls. 527-535), sobreveio juízo negativo de admissibilidade fundado na falta de interesse recursal da parte.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 543-549).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo conhecimento do agravo e provimento do recurso especial (fls. 573-578).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se ao quantum da fração que deve ser aplicada no que concerne à menoridade relativa no crime de Homicídio. O eg. Tribunal a quo assim se manifestou sobre o ponto (fl. 499):
+"Assim, permanecem como desabonadoras os maus antecedentes e os motivos e as consequências do crime, o que permite o incremento da pena básica. Considerando o aumento ideal de 01 (um) ano e 06 (seis) meses para cada circunstância judicial negativamente valorada, tornando a pena provisória em 16 (dezesseis) anos e 06 (seis) meses de reclusão.
+Na segunda fase, mantenho a incidência da atenuante da menoridade, contudo reduzo em 06 (seis) meses, perfazendo a pena em formação em 16 (dezesseis) anos."
+Na segunda fase da dosimetria, consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração diversa a 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea.
+Nesse sentido:
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. FRAÇÃO DE REDUÇÃO PELAS ATENUANTES. FALTA DE PREQUESTIONAMENTO. INOCORRÊNCIA. MATÉRIA ANALISADA NOS EMBARGOS DECLARATÓRIOS PELO TRIBUNAL DE JUSTIÇA. ATENUANTES RECONHECIDAS NA ORIGEM. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. FRAÇÃO DE REDUÇÃO FIXADA APROXIMADAMENTE EM 1/10. DESPROPORCIONALIDADE. MODIFICADA PARA 1/6. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há falar em ausência de prequestionamento quando a matéria foi devidamente analisada pelo Tribunal de Justiça durante o julgamento dos embargos declaratórios, que, inclusive, afastou a redução da pena em 1/6 pelas atenuantes reconhecidas na origem.
+2. Mostra-se claramente desproporcional a redução, na segunda fase da dosimetria, pelas atenuantes da confissão espontânea e menoridade relativa em aproximadamente 1/10, devendo, pois, ser aumentada a fração redutora para 1/6, quantum considerado razoável pela jurisprudência desta Corte. Precedentes.
+3. Agravo regimental improvido" (AgRg no REsp n. 1.687.259/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/03/2018).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO ATIVA E EMBRIAGUEZ AO VOLANTE. ABSOLVIÇÃO. EXAME APROFUNDADO DE PROVA. SUM. 7/STJ. CONFISSÃO. QUANTUM DE REDUÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que o acusado praticou os delitos pelos quais foi denunciado, chegar a entendimento diverso implica o revolvimento do contexto fático-probatório, inviável em sede de recurso especial, a teor da Súmula n. 7/STJ.
+2. Ademais, "A Lei n.º n.º 12.760/12 modificou o artigo 306 do Código de Trânsito Brasileiro, a fim de dispor ser despicienda a avaliação realizada para atestar a gradação alcóolica, acrescentando ser viável a verificação da embriaguez mediante vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova, de modo a corroborar a alteração da capacidade psicomotora" (RHC 49.296/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 04/12/2014, DJe 17/12/2014).
+3. A lei não prevê as frações a serem aplicadas no caso de incidência de atenuantes e agravantes. Contudo, este Superior Tribunal de Justiça tem se inclinado no sentido de que a redução da pena em fração inferior a 1/6 deve ser concretamente fundamentada.
+Na hipótese, a pena foi reduzida em 1/4 (6 meses), acima, portanto, do que vem entendendo a jurisprudência desta Eg. Corte, não havendo que se falar em ilegalidade na dosimetria.
+4. Agravo regimental a que se nega provimento" (AgRg no REsp n. 1.695.882/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/11/2017).
+Na espécie, na segunda fase da dosimetria, verifica-se que não houve fundamentação idônea a lastrear o valor fracionário utilizado em patamar diverso à 1/6 (um sexto), o que revela que o v. acórdão prolatado pelo eg. Tribunal a quo está em desconformidade com o entendimento desta Corte de Justiça quanto ao tema.
+Sendo assim, imperioso revisar a dosimetria da pena do crime de homicídio qualificado.
+Mantenho a pena-base do crime referido fixada no v. acórdão em 16 (dezesseis) anos e 6 (seis) meses de reclusão.
+Na segunda fase, reconhecida a atenuante da menoridade relativa, reduzo a pena em (1/6), resultando a pena intermediária em 13 (treze) anos e 9 (nove) meses de reclusão.
+Por fim, na terceira fase, não havendo causas de aumento ou diminuição de pena, torno definitiva a pena em 13 (treze) anos e 9 (nove) meses de reclusão para o crime de homicídio qualificado.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do Regimento Interno do STJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação retro.
+P. e I.
