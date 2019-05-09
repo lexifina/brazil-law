@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANIZIO APARECIDO PEREIRA, com fundamento no art. 105, inciso III, alínea c, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 118):
+PREVIDENCIÁRIO. AGRAVO INTERNO. APOSENTADORIA POR IDADE RURAL. INÍCIO DE PROVA MATERIAL NÃO CONTEMPORÂNEO À ÉPOCA DOS FATOS. DOCUMENTOS SEM FORÇA PROBATÓRIA. DESPROVIMENTO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO.
+- Razões ventiladas no presente recurso que não tem o condão de infirmar a decisão impugnada, fundada em precedentes do STJ, que proclamaram a imprescindibilidade de concomitância temporal - ainda que íntima - entre a data do documento indiciário do afazer rurícola e o interstício de atividade rural necessário à concessão da benesse (recurso Repetitivo 201200891007, Primeira Seção Relator Min. Herman Benjamin, DJE de 19/12/2012).
+- Pretenso direito ao benefício que não se sustentava, à falta de contemporaneidade entre os princípios de prova documental e o lapso no âmbito do qual haveria de ser comprovado o labor rural.
+- Entendimento revisto para considerar que a falta de eficaz princípio de prova material do labor campesino traduz-se em ausência de pressuposto de constituição e desenvolvimento válido do processo, abrindo ensejo à extinção do processo sem resolução de mérito, nos termos do precedente oriundo do colendo Superior Tribunal de Justiça, tirado na sistemática dos recursos representativos de controvérsia REsp nº 1.352.72l/SP.
+- Agravo interno improvido.
+- Extinção do processo, sem resolução de mérito, de oficio.
+Nas razões do apelo especial, aponta o recorrente divergência jurisprudencial com julgados desta Corte, afirmando "Mesmo que se ignorasse o entendimento desse E. STI e da [NOME], quanto a aceitação da Certidão Eleitoral como início de prova material, juntou aos lautos Certidão emitida pelo Instituto de Identificação Ricardo Gumbleton Dalint - IIRGD o qualificando como LAVRADOR, documento que também pode ser considerado como início de prova material, dada a possibilidade da eficácia retroativa e prospectivamente do documento" (fl. 129).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Isso porque, na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
