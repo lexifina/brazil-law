@@ -1,0 +1,23 @@
+DECISÃO
+LIVRAMENTO CONDICIONAL – SUSPENSÃO – ILEGALIDADE – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza assim retratou o caso:
+    O Juízo da Segunda Vara de Execução de Penas e Medidas Alternativas e Cartas Precatórias Criminais da Comarca de Curitiba/PR, no processo nº 0000109-88.2008.8.16.0009, determinou a suspensão cautelar do livramento condicional deferido ao paciente. Mencionou a inobservância das condições impostas, considerada a ausência de apresentação em Juízo. Na sequência, ante a informação, prestada pelo Juízo da Comarca de Mallet/PR, a respeito de haver praticado novo delito e estar recolhido preventivamente, determinou a expedição de mandado de prisão e ofício visando colher justificativa, por escrito, sobre a falta grave.
+    Impetrou-se, no Tribunal de Justiça, o habeas corpus nº 0038630-80.2018.8.16.0000. O Relator não implementou medida acauteladora.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 471.096, indeferido liminarmente pelo Relator.
+    O impetrante diz que a prisão preventiva, determinada no processo-crime em tramitação no Juízo de Mallet/PR, foi afastada em virtude da medida de urgência implementada por Vossa Excelência no habeas de nº 160.449. Assevera ofensa ao artigo 143 da Lei de Execuções Penais, sublinhando que o Juízo, ao revogar o livramento condicional, deixou de proceder à prévia audição do paciente. Sustenta caracterizada violação do contraditório e da ampla defesa. Destaca inviável, tendo em conta o princípio da não culpabilidade, a revogação do livramento condicional, considerada a inexistência de trânsito em julgado de eventual condenação atinente à infração supostamente cometida.
+    Requer, no campo precário e efêmero, o restabelecimento do livramento condicional, viabilizando-se a oportunidade para que o paciente possa apresentar justificativa. Sucessivamente, busca o retorno ao quadro anterior à liberdade condicional, consistente no cumprimento da sanção em regime semiaberto. No mérito, postula a confirmação das providências.
+    Consulta ao sítio do Tribunal de Justiça revelou haver o Juízo, no habeas corpus nº 0038630-80.2018.8.16.0000, prestado informações. Frisou não ter sido revogado o livramento condicional, mas suspenso, em razão do descumprimento das condições estabelecidas e da superveniência da prática de crime. Ressaltou determinação expressa a fim de ser colhida explicação por escrito, visando subsidiar posterior decisão sobre possível revogação.
+    Vossa Excelência, no habeas corpus nº 160.449, em 30 de agosto de 2018, considerado o excesso de prazo, afastou a prisão preventiva implementada pelo Juízo Único da Comarca de Mallet/PR, no processo nº 0000738-13.2018.8.16.0106, ante o suposto cometimento dos delitos previstos nos artigos 16 (porte de arma de fogo de uso restrito) da Lei nº 10.826/2003, 157, § 2º, incisos I e II (roubo com causas de aumento relacionadas ao emprego de arma de fogo, redação anterior à Lei nº 13.654/2018, e ao concurso de pessoas), e 288 (associação criminosa) do Código Penal.
+    A fase é de apreciação da liminar.
+    2. De acordo com o artigo 145 da Lei de Execuções Penais, a superveniência da prática de nova infração penal autoriza a suspensão da liberdade condicional e a expedição de mandado de prisão.
+    Art. 145. Praticada pelo liberado outra infração penal, o Juiz poderá ordenar a sua prisão, ouvidos o Conselho Penitenciário e o Ministério Público, suspendendo o curso do livramento condicional, cuja revogação, entretanto, ficará dependendo da decisão final.
+    Não há ilegalidade na determinação do Juízo, no que se reportou ao descumprimento das condições impostas e à notícia acerca do cometimento de crime diverso.
+    A audição prévia, versada nos artigos 118, § 2º, e 143 da Lei de Execuções Penais, somente constitui providência indispensável quando for o caso de revogação definitiva do livramento condicional, razão pela qual, tratando-se de suspensão cautelar do benefício – segundo se depreende das informações prestadas pelo Juízo –, eventual ausência de realização do ato não revela desrespeito ao contraditório ou à ampla defesa. Foi determinada a expedição de ofício visando a intimação do paciente a apresentar justificativa.
+    No mais, a medida acauteladora deferida no habeas corpus nº 160.449 não repercute na insubsistência da prisão implementada pelo Juízo das Execuções Penais, uma vez que aquela foi formalizada considerado o excesso de prazo da custódia. Inexiste identidade entre os fundamentos.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 9 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
