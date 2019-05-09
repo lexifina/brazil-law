@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LILIA MARIA VILLALVA DE MORAES SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Colhe-se dos autos que a paciente, presa preventivamente desde 26/11/2018, pela prática, em tese, dos delitos de associação criminosa e corrupção passiva majorada, requereu a substituição de sua custódia cautelar pela prisão domiciliar, pedido que foi indeferido.
+Neste habeas corpus, os impetrantes sustentam que a paciente encontra-se encarcerada com presas comuns, diante da inexistência de cela especial para portadores de diploma de curso superior.
+Pleiteiam o relaxamento da prisão preventiva imposta à paciente ou a sua substituição por medidas cautelares diversas ou, ainda, pela prisão domiciliar.
+O pedido liminar foi deferido.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+Dispõe o art. 295, VII, do Código de Processo Penal, que "os diplomados por qualquer das faculdades superiores da República"  ..  "serão recolhidos a quartéis ou a prisão especial, à disposição da autoridade competente, quando sujeitos a prisão antes de condenação definitiva".
+A prisão especial, segundo disposto nos parágrafos do mencionado dispositivo, consiste "no recolhimento em local distinto da prisão comum" e, "não havendo estabelecimento específico para o preso especial, este será recolhido em cela distinta do mesmo estabelecimento", que "poderá consistir em alojamento coletivo".
+Esta Corte possui posicionamento de que "não havendo vagas ou inexistindo na localidade unidades prisionais que se prestam exclusivamente para a guarda de presos especiais, a manutenção do acautelamento em acomodações que atendam esses requisitos cumpre as exigências legais" (HC n. 231.768/SP, Quinta Turma, Rel. Ministra Laurita Vaz, DJe de 16/11/2012).
+In casu, consta do acórdão impugnado:
+"Isto porque, apesar da constatação de que a requerente Lilian (reconhecidamente portadora de diploma de curso superior) não se encontra individualmente recolhida em razão da falta de local que atenda a esses parâmetros, a Administração Penitenciária informa que a custódia se dá em alojamento separado das presas comuns, ou seja, em local congênere à cela específica. Eis os termos do ofício (p. 12):
+"(..) Em atenção a vossa solicitação quanto à custodiada LILIA MARIA VILALVA DE MORAES SILVA, reclusa no Estabelecimento Penal Feminino "[NOME]", encaminhamos a CI n.º 284/EPFIIZ/AGEPEN, elaborada pela Diretora da citdade unidade prisional, explanando que é utilizada a cela II para custodiar internas com nível superior, gestantes e com filhos menores, não atendendo exclusivamente o disposto no artigo 295, inciso VII, do Código de Processo Penal Brasileiro. (..)." - destaquei
+Nesse prospecto, conclui-se que a prisão atende rigorosamente aos requisitos especiais exigidos, pois a requerente encontra-se recolhida em instalações condignas que lhe garantem o direito de permanecer na companhia de outras pessoas que ostentam condições semelhantes." (e-STJ, fl. 47)
+Conforme consignado, a cela coletiva na qual se encontra a paciente é ocupada não apenas pelas presas provisórias constantes dos incisos do art. 295 do CPP, mas também, por presas comuns, gestantes e com filhos menores.
+Assim, ao que tudo indica, a paciente encontra-se encarcerada em situação diversa da prevista em Lei, "não atendendo exclusivamente ao disposto no artigo 295, inciso VII, do Código de Processo Penal Brasileiro" (e-STJ, fl. 52).
+Ante o exposto, concedo o habeas corpus para, confirmando a liminar anteriormente deferida, determinar que a paciente aguarde o julgamento de sua ação penal em cela especial, ainda que coletiva, reservada exclusivamente àquelas presas provisórias que se enquadrem nos incisos I a XI do art. 295 do CPP, observadas as condições previstas nos §§ 1º a 3º do mesmo dispositivo, ou, em não sendo possível, dadas as condições do estabelecimento prisional, que sua prisão preventiva seja substituída pela custódia domiciliar.
+Comunique-se ao Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Publique-se. Intimem-se.
