@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL APOSENTADO. TETO REMUNERATÓRIO. APELAÇÃO DO MUNICÍPIO PROVIDA COM FUNDAMENTO NO ART. 543-B DO CPC/1973. NÃO CABIMENTO DE RECURSO. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL. QO NO AG 1.154.599/SP, REL. MIN. CESAR ASFOR ROCHA, DJE 12.5.2011. AGRAVO DO SERVIDOR NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por [NOME] com fundamento no art. 105, III, c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Cobrança. Servidor Público Municipal. Vencimentos e/ou proventos. Teto máximo. Desconsideração das vantagens de caráter pessoal (adicionais por tempo de serviço, sexta-parte, etc.) Artigos 37, inciso XI e 39, § 1o. da CF. 0 valor da pensão não pode ser reduzida por regra editada pelo poder constituinte derivado.
+RECURSOS NÃO PROVIDOS (fls. 153).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Em juízo de retratação, para adequação do entendimento em cumprimento ao art. 543-B, § 3o. do CPC/1973, o TJSP deu provimento ao reexame necessário e à Apelação do Município de Santos, para julgar improcedente a ação, com a seguinte ementa:
+RECURSO EXTRAORDINÁRIO. Juízo de retratação. Art. 543-B, § 3o. do CPC/1973 (arts. 1.039 e 1.040 do NCPC). Servidor Municipal aposentado. Pretensão de reconhecimento de inconstitucionalidade do redutor salarial previsto na EC 41/2003 sobre os vencimentos. Impossibilidade. Eficácia imediata do teto remuneratório estabelecido pela EC 41/2003. Submissão ao teto de todas as verbas de natureza remuneratória percebidas pelos servidores públicos, ainda que adquiridas de acordo com regime legal anterior. Julgamento do RE 609381, representativo da controvérsia. Devolução dos autos à Turma Julgadora para eventual adequação. Acórdão alterado. Retratação nos termos do art. 543-B do CPC/1973 (arts. 1.039 e 1.040 do NCPC). Reexame necessário e recurso do Município providos (fls. 287).
+4. Nas razões do Recurso Especial inadmitido, a parte recorrente alega divergência jurisprudencial entre o acórdão e o entendimento do STJ firmado nos autos do MS 4.001-DF, que determinou a exclusão do cálculo do teto remuneratório dos servidores de todas as verbas de caráter pessoal que compõem os proventos.
+5. É o relatório do essencial.
+6. Esta Corte pacificou o entendimento, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual. Eis a ementa desse julgado:
+QUESTÃO DE ORDEM. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC.AGRAVO NÃO CONHECIDO.
+1. Não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, parág. 7o., inciso I, do CPC.
+2. Agravo não conhecido (QO no Ag 1.154.599/SP, CE, Rel. Min. CESAR ASFOR ROCHA, DJe 12.5.2011).
+7. O mesmo entendimento foi confirmado pelo Supremo Tribunal no julgamento da Questão de Ordem no Agravo de Instrumento 760.358-7, que reconheceu inadequada a utilização da reclamação para correção de equívocos na aplicação da jurisprudência do STF aos processos sobrestados na origem pela repercussão geral, asseverando que o único instrumento possível a tal impugnação seria o agravo interno.
+8. Ante o exposto, não se conhece do Agravo do Servidor, devem os autos serem remetidos ao Tribunal de origem para que o recurso seja apreciado como Agravo Interno.
+9. Publique-se.
+10. Intimações necessárias.
