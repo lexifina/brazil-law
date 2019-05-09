@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. 43 TUBOS DE COCAÍNA. REGIME PRISIONAL. PENA INFERIOR A 4 ANOS. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PRIMARIEDADE. ADEQUAÇÃO DO REGIME ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação n. 1503419-05.2017.8.26.0536/SP).
+Extrai-se dos autos que o Juízo de Direito da 1ª Vara Criminal da comarca de São Vicente/SP condenou o paciente, pelo delito previsto no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006, à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, a qual foi substituída por duas restritivas de direitos.
+Defesa e acusação apelaram. A Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso da defesa e deu provimento ao recurso do Parquet para afastar a substituição das penas e alterar o regime inicial para o fechado.
+Sobreveio, então, o presente habeas corpus, em que se argumenta que o Tribunal paulista fixou o regime prisional fechado com base na gravidade em abstrato do delito e nas elementares do crime de tráfico.
+Pretende-se, em caráter liminar e definitivo, a alteração do regime inicial de cumprimento da pena para o aberto.
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem, de plano.
+Eis o que expôs o Tribunal de origem ao fixar o regime inicial fechado e ao negar a substituição da pena por restritivas de direitos (fls. 38/39):
+ ..
+No caso em comento, considero, data venia, incabível a substituição da pena privativa de liberdade por restritivas de direitos. Isto porque, não obstante a edição da Resolução nº 5, de 15/2/2012, e a declaração de inconstitucionalidade do art. 44 da Lei n. 11.343/2006 pelo C. STF, nos autos do HC n. 97.256/RS, na parte em que "vedada a conversão em penas restritivas de direitos", pelas circunstâncias do caso concreto, não se mostra socialmente recomendável a referida substituição, com a observação de que o apelante, com sua conduta reprovável, procurava difundir e disseminar o uso de drogas, que, na maioria das vezes, atinge pessoas jovens, arruinando suas vidas futuras e famílias.
+Assim, tal medida não se mostra suficiente para a devida repressão ao crime em tela, nos termos do artigo 44, inciso III do Código Penal.
+De igual modo, quanto ao regime inicial de cumprimento da pena, a r. sentença merece reforma.
+A D. Magistrada da primeira instância fixou o regime inicial aberto, o que data venia, merece ser agravado para a modalidade inicial fechada.
+Isto porque, pela pena imposta, e de acordo a letra fria da lei (art. 33, § 2º, c, e § 3º, do Código Penal), poderia o cumprimento dar- se em regime mais brando. No entanto, o art. 42 da Lei n. 11.343/2006 não se mostra inteiramente favorável, de modo que, sendo crime grave, merece tratamento mais rígido, fator inclusive pugnado pela própria Carta Magna, e que promove a própria individualização da pena, também direito fundamental, não há outro regime a ser imposto, senão o fechado.
+De outro lado, a gravidade do delito é concreta (não sendo o caso de incidência da Súmula 440 do STJ), em razão da natureza da droga apreendida (cocaína) que traz efeitos nefastos aos usuários, dilacerando inúmeras famílias, de modo que, mais uma vez pautado na individualização da pena, e com supedâneo na isonomia em sua acepção material, e afim de que a Constituição, neste particular, não seja letra morta (força normativa), não há outro regime a ser imposto, senão o fechado, particularidade na qual a sentença também deve ser alterada.
+ ..
+Vê-se, assim, que foi adotado regime mais gravoso do que o cabível em razão da sanção imposta (1 ano, 11 meses e 10 dias de reclusão) e negado o benefício da substituição com base, essencialmente, na gravidade abstrata do delito praticado.
+Outrossim, tendo em vista as circunstâncias em que fora praticado o delito, o agravamento do regime e a negativa de substituição da pena com base apenas na natureza da droga apreendida mostram-se desproporcionais.
+Ora, tratando-se de paciente primário, que teve todas as circunstâncias judiciais valoradas como favoráveis (tanto que a pena-base foi fixada no mínimo legal), condenado, pela prática de crime cometido sem violência ou grave ameaça à pessoa (tráfico), à pena de 1 ano, 11 meses e 10 dias de reclusão, com obtenção, inclusive, do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, em 2/3, revela-se adequada a imposição do regime inicial aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos.
+A propósito, o HC n. 474.531/SP, Ministra Laurita Vaz, Sexta Turma, DJe 22/11/2019; e o HC n. 375.963/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2018.
+Ante o exposto, concedo liminarmente a ordem a fim de fixar o regime aberto para o cumprimento da reprimenda imposta ao paciente no Processo n. 1503419-05.2017.8.26.0536, em curso na 1ª Vara Criminal da comarca de São Vicente/SP, devendo o Juízo competente proceder à substituição da pena privativa de liberdade por restritivas de direitos, consoante o disposto no art. 44 do Código Penal.
+Intime-se o Ministério Público estadual.
+Publique-se.
