@@ -1,0 +1,35 @@
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA C/C PEDIDO DE REPETIÇÃO DO INDÉBITO. CÉDULAS DE CRÉDITO RURAIS. EXPURGOS INFLACIONÁRIOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERRUPÇÃO DO PRAZO ATÉ O TRÂNSITO EM JULGADO.
+1. Cuida-se, na origem, de ação declaratória c/c pedido de repetição do indébito, na qual se requer que seja declarada a ilegalidade do índice de correção monetária utilizado pela instituição financeira na atualização do saldo devedor de cédulas de crédito rurais, relativamente ao mês de março/1990, com a devolução dos valores pagos a maior.
+2. Ausentes os vícios do art. 535 do CPC/73, é imperativa a rejeição dos embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 165 e 458 do CPC.
+4. O ajuizamento da ação cautelar de exibição de documentos interrompe o prazo prescricional para o manejo da demanda principal. Precedentes.
+5. Em se tratando de causa interruptiva judicial, a contagem do prazo prescricional reinicia após o último ato do processo, ou seja, o trânsito em julgado. Precedentes.
+6. Recurso especial conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por RUBENS MARMET, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 13/05/2014.
+Atribuído a esta Relatora em: 25/08/2016.
+Ação: declaratória c/c pedido de repetição do indébito, ajuizada pelo recorrente em face do BANCO DO BRASIL SA, na qual requer que seja declarada a ilegalidade do índice de correção monetária utilizado pelo recorrido na atualização do saldo devedor de cédulas de crédito rurais, relativamente ao mês de março/1990, com a devolução dos valores pagos a maior.
+Sentença: julgou parcialmente procedente o pedido, para declarar que deve ser aplicado o BTN no mês de março/1990, em substituição ao IPC, condenando o recorrido ao pagamento de eventuais diferenças, com acréscimo de juros e correção monetária.
+Acórdão: deu provimento à apelação interposta pelo Banco recorrido para acolher a prejudicial de prescrição, julgando prejudicado o apelo do ora recorrente, nos termos da seguinte ementa (e-STJ fls. 319/320):
+"APELAÇÕES CÍVEIS - REPETIÇÃO DE INDÉBITO - CÉDULAS RURAIS PIGNORATÍCIAS E HIPOTECÁRIAS - ÍNDICE DE CORREÇÃO MONETÁRIA - PLANO COLLOR NOS MESES DE MARÇO/ABRIL DE 1990 (COLLOR I) - PARCIAL PROCEDÊNCIA - PRELIMINAR: ILEGITIMIDADE PASSIVA - REJEIÇÃO - PREJUDICIAL MERITÓRIA DE PRESCRIÇÃO - PRAZO VINTENÁRIO - TERMO INICIAL - PRINCÍPIO DA ACTIO NATA (ART. 189 DO CC/02) - LAPSO JÁ TRANSCORRIDO QUANDO DO AJUIZAMENTO DA DEMANDA - PRESCRIÇÃO RECONHECIDA - INVERSÃO DOS ÔNUS SUCUMBENCIAIS - ART.20, § 4º, CPC - RAZOABILIDADE - APELO DO RÉU PROVIDO - PREJUDICADO O RECURSO DO AUTOR.
+Aquele que se apropriou de valor supostamente pago a maior é parte legítima para figurar no polo passivo da demanda repetitória promovida por aquele que pagou em excesso.
+Por versar sobre direito pessoal tido por violado há mais de dez anos quando da entrada em vigor do CC/2002, a ação para a devolução do indébito decorrente da aplicação de índice de correção monetária errôneo prescreve, à exegese do art.177 do CC/16 e art.2028 do CC/02, no prazo de vinte anos, contados do exato momento em que o quantum debeatur é atualizado mediante a aplicação de percentual maior que o devido.
+Em atenção ao principio da actio nata prevista pelo art.189 do CC/02, se a apropriação indevida de valores a maior pelo credor através do cômputo do índice indevido (IPC) sobre o valor do débito contratual em função do advento Plano Collor se deu há mais de vinte anos do ajuizamento da ação, imperioso o reconhecimento da prescrição do pleito repetitório.
+Não tendo havido condenação à vista do reconhecimento da prescrição da pretensão inicial, os honorários do patrono hão de ser arbitrados por equidade, na forma do §4º, do art.20, do CPC, observados os preceitos de razoabilidade".
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 165, 458 e 535 do CPC/73, 177 do CC/16, 202, I, e 2.028 do CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que houve a interrupção do prazo prescricional com a prévia propositura de ação cautelar de exibição de documentos, como medida preparatória, em 15/03/2010.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/73.
+- Da violação dos arts. 165, 458 e 535 do CPC/73
+É firme a jurisprudência do STJ no sentido de que não ocorre negativa de prestação jurisdicional quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da prescrição da pretensão deduzida pelo ora recorrente, de maneira que não há que se falar em violação dos arts. 165, 458 e 535 do CPC/73.
+- Da interrupção do prazo prescricional
+O Tribunal de origem, ao entender que o ajuizamento da ação cautelar de exibição de documentos não teve o condão de suspender ou interromper o prazo prescricional vintenário da pretensão repetitória (e-STJ fl. 327), divergiu da jurisprudência desta Corte, firmada no sentido de que:
+(i) o ajuizamento da ação cautelar de exibição de documentos interrompe o prazo prescricional para o manejo da demanda principal (AgRg no REsp 1.311.843/SP, 3ª Turma, DJe de 19/02/2015; AgRg no AREsp 156.373/SP, 3ª Turma, DJe de 22/08/2013 e AgRg no AREsp 595.051/RJ, 4ª Turma, DJe de 19/12/2014);
+(ii) em se tratando de causa interruptiva judicial, a contagem do prazo prescricional reinicia após o último ato do processo, ou seja, o trânsito em julgado (REsp 1.726.222/SP, 3ª Turma, DJe de 24/04/2018 e, AgInt no AREsp 1.204.157/MS, 4ª Turma, DJe de 02/05/2018).
+Logo, o recurso especial comporta provimento.
+Forte nessas razões, CONHEÇO do recurso especial e, com fundamento no art. 932, III, e V, "a", do CPC/15, bem como na Súmula 568/STJ, DOU-LHE PARCIAL PROVIMENTO, para determinar ao Tribunal de origem que promova novo julgamento dos recursos de apelação interpostos pelas partes, observada a orientação de que houve a interrupção do prazo prescricional da pretensão repetitória pelo ajuizamento da ação cautelar de exibição de documentos.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
