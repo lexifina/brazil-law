@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. CONTRATO DE REPRESENTAÇÃO COMERCIAL. PENA POR LITIGÂNCIA DE MÁ-FÉ. ALEGAÇÃO DE VIOLAÇÃO A PRECEITOS LEGAIS QUE NÃO FORAM DEBATIDOS PELO ACÓRDÃO RECORRIDO. SÚMULAS NºS 211 DO STJ E 282 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+TRANSPORTES RODOVIÁRIOS FRATELLI LTDA.-ME (TRANSPORTES) ajuizou ação de indenização contra LATICÍNIOS LATCO LTDA. (LATICÍNIOS), em razão de contrato de representação comercial.
+A sentença de parcial procedência foi parcialmente reformada pelo Tribunal estadual conforme acórdão d seguinte ementa:
+DIREITO EMPRESARIAL. DIREITO PROCESSUAL CIVIL.CONTRATO DE REPRESENTAÇÃO COMERCIAL. AÇÃO DE INDENIZAÇÃO POR RESCISÃO CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO CÍVEL (1). COMISSÕES NÃO PAGAS - PRESCRIÇÃO - TERMO INICIAL - DATA DO INADIMPLEMENTO E NÃO DA RESCISÃO CONTRATUAL - EXEGESE DO ART. 44, PARÁGRAFO ÚNICO, DA LEI 4.886/65 - PRECEDENTES DO STJ E DESTA CORTE - CRÉDITO PARCIALMENTE PRESCRITO. PARCELAS NÃO PRESCRITAS - COMPRADORA E REPRESENTANTE COMERCIAL QUE SE CONFUNDEM NA MESMA PESSOA JURÍDICA - COMISSÕES INDEVIDAS - NATUREZA DO CONTRATO MERCANTIL DESCARACTERIZADA - AUSÊNCIA DE INTERMEDIAÇÃO NEGOCIAL POR TERCEIRO - CONDENAÇÃO QUE CONFIGURARIA ENRIQUECIMENTO SEM CAUSA. SENTENÇA REFORMADA NESSES PONTOS. APELAÇÃO CÍVEL (2). PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO - REJEIÇÃO - RESPEITO AO PRINCÍPIO DA DIALETICIDADE - RAZÕES RECURSAIS QUE ATACAM OS FUNDAMENTOS DA SENTENÇA. MÉRITO RECURSAL. RESCISÃO CONTRATUAL - JUSTA CAUSA - CIRCUNSTÂNCIA QUE AFASTA O DIREITO DA REPRESENTANTE COMERCIAL A INDENIZAÇÕES (ARTS. 27, "J" E 34, DA LEI 4.886/65) - COMPROVADO ENCAMINHAMENTO DE PEDIDOS PELA REPRESENTANTE- AUTORA LASTREADOS EM VENDAS NÃO REALIZADAS - AUTUAÇÃO DA REPRESENTADA-RÉ PELO FISCO ESTADUAL, DIANTE DA EMISSÃO DE NOTAS FISCAIS DE VENDAS SIMULADAS - MERCADORIAS RETIDAS NOS ARMAZÉNS DA REPRESENTANTE-AUTORA, SEM ESCLARECIMENTO SOBRE SUA DESTINAÇÃO FINAL - DESRESPEITO ÀS OBRIGAÇÕES LEGAIS INERENTES AO CONTRATO DE REPRESENTAÇÃO COMERCIAL - JUSTA CAUSA EVIDENCIADA. COMISSÕES RETIDAS - AUSÊNCIA DE PROVA DOS RESPECTIVOS CRÉDITOS. IMPROCEDÊNCIA DOS PEDIDOS PRESERVADA. LITIGÂNCIA DE MÁ-FÉ - DEDUÇÃO DE PRETENSÃO DESTITUÍDA DE FUNDAMENTO E ALTERAÇÃO DA VERDADE DOS FATOS PELA AUTORA. ART. 80, INCISOS I E II, DO CPC/15 - IMPOSIÇÃO DE MULTA E RESPONSABILIZAÇÃO POR PERDAS E DANOS. SENTENÇA PARCIALMENTE REFORMADA. PEDIDOS INICIAIS JULGADOS TOTALMENTE IMPROCEDENTES. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS, COM FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELAÇÃO CÍVEL (1) CONHECIDA E PROVIDA.
+APELAÇÃO CÍVEL (2) CONHECIDA E NÃO PROVIDA, COM IMPOSIÇÃO DE SANÇÕES À LITIGANTE DE MÁ-FÉ (e-STJ, fls. 1582/1584).
+Os embargos de declaração foram parcialmente acolhidos sem efeitos infringentes, para sanar omissão (e-STJ, fls. 1694/1700).
+TRANSPORTES interpôs recurso especial com base no art. 105, III, a, da CF, onde alegou violação dos arts. 9º e 10 do NCPC, sob o fundamento de impossibilidade de imposição da pena por litigância de má-fé, sem a prévia oitiva da recorrente, em violação ao princípio do contraditório.
+Foram ofertadas contrarrazões (e-STJ, fls. 1756/1769).
+O Tribunal de origem inadmitiu o apelo nobre com suporte na Súmula nº 211 do STJ.
+TRANSPORTES ingressou com agravo em recurso especial sustentando não se aplicar a Súmula nº 211 do STJ, pois a matéria foi devidamente prequestionada, tendo surgido sua violação na prolação do acórdão recorrido.
+Não foi apresentada contraminuta.
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação dos arts. 9º e 10 do NCPC
+No ponto, observa-se que os referidos preceitos não foram objeto de apreciação pelo Tribunal de origem, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre.
+Acrescente-se, que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+Tem aplicação no caso, a Súmula nº 211 do STJ e por analogia a Súmula nº 282 do STF.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § º do NCPC).
+Publique-se. Intimem-se.
