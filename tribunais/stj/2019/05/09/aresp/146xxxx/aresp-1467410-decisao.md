@@ -1,0 +1,32 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRESCRIÇÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+GETNET TECNOLOGIA EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES H. U. A. H. S.A. (GETNET) ajuizou ação monitória contra [NOME] E DE CARLI FARMÁCIAS LTDA. ([NOME]), na qual foi determinada a citação dos sócios, entre os quais, [NOME] (ANTONIO).
+ANTONIO ofereceu impugnação ao cumprimento de sentença, alegando nulidade da penhora, prescrição e impenhorabilidade de bem de família.
+O Juízo de piso rejeitou a impugnação (e-STJ, fls. 138/144).
+Interposto agravo de instrumento por ANTONIO, o Tribunal de origem deu-lhe parcial provimento, em acórdão assim ementado (e-STJ, fl. 575):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. FASE DE CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DE BEM FAMÍLIA. AUSÊNCIA DE OPORTUNIZAÇÃO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. MANUTENÇÃO DOS PONTOS TOCANTES À PRESCRIÇÃO E NULIDADE DA CITAÇÃO.
+I. Caso em que não obstante a rejeição da arguição de impenhorabilidade do bem de família tenha sido fundamentada na ausência de provas acerca do preenchimento dos requisitos da Lei nº 8.009/1990, deixou o juízo de origem de oportunizar às partes a produção de provas.
+II. Assim, violados os princípios do contraditório e da ampla defesa - que devem ser observados durante todo o trâmite processual, inclusive em sede de incidentes -, impõe-se a desconstituição da parte da decisão hostilizada tocante à alegação da impenhorabilidade do bem de família, a fim de que se oportunize ao recorrente a produção de provas acerca da natureza do imóvel constrito.
+III. Por fim, devem ser afastadas as demais teses de nulidade da penhora por ausência de citação, diante do comparecimento espontâneo do executado ao feito (art. 239, §1º, do NCPC), bem como de prescrição (intercorrente), em face da ausência de preenchimento dos requisitos da Súmula nº 150 do STF. Assim, em relação a tais matérias, o juízo de origem não necessitará manifestar-se na nova sentença, devendo ponderá-los apenas para fins de fixação da sucumbência. Deram parcial provimento ao agravo de instrumento. Unânime.
+Os embargos de declaração opostos por ANTONIO foram rejeitados (e-STJ, fls. 605/609).
+Inconformado, ANTONIO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 489, §1º, IV, 1.022 do NCPC, 202, 204 e 206, §5º, do CC/02 e divergência jurisprudencial, aduzindo, em síntese, que (1) o acórdão recorrido foi omisso; (2) houve prescrição quanto à pretensão de exigir a dívida de ANTONIO, haja vista que a citação ocorreu após o transcurso de mais de cinco anos após o vencimento da dívida, a citação da devedora original e a desconsideração da personalidade jurídica do sócio; e (3) o prazo prescricional interrompe-se apenas uma vez e a interrupção operada contra a empresa não prejudicaria o sócio.
+GETNET não ofereceu contrarrazões.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de ofensa ao art. 1.022 do NCPC, bem como a incidência das Súmulas nºs 7 do STJ e 283 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+Nos termos do art. 1.022 do NCPC, os embargos de declaração se destinam a suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material existente no julgado, podendo ser-lhes atribuídos, excepcionalmente, efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, não existe nenhum dos vícios do referido dispositivo legal, tendo ANTONIO apenas manifestado o inconformismo quanto ao entendimento delineado no acórdão embargado, revestindo-se a pretensão de caráter manifestamente infringente, o que não se coaduna com a medida integrativa dos embargos de declaração.
+Dessa forma, não houve a omissão ou fundamentação deficiente aduzida por ANTONIO, pois as questões submetidas ao Tribunal de Justiça local foram fundamentadamente examinadas, não merecendo censura o acórdão que rejeitou os embargos em razão da inexistência dos vícios dos arts. 489, §1º, IV e 1.022 do NCPC.
+(2) e (3) Da prescrição
+ANTONIO defendeu a ocorrência de prescrição, tendo em vista que sua citação ocorreu após decurso de mais de cinco anos do vencimento da dívida, da citação da devedora original e da data da desconsideração da personalidade jurídica da sociedade empresária.
+A respeito da prescrição, o Tribunal de origem assim concluiu:
+No caso, a alegada omissão constitui flagrante tentativa de reexame da matéria, que restou integralmente apreciada no decisum atacado. Neste sentido, pontuou-se expressamente que a citação ocorrida em 2008 foi da empresa devedora, e não do sócio. Outrossim, elucidou-se que o lapso transcorrido entre a inclusão do sócio no polo passivo e sua efetiva citação decorreu de sua tentativa de ocultação, e não de inércia da credora (e-STJ, fl. 608/609).
+Verifica-se que o fundamento acima destacado não foi impugnado de forma específica nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
