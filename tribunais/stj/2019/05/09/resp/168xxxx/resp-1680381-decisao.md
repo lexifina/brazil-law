@@ -1,0 +1,59 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Consórcio Santa Cruz Transportes, com amparo no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 216):
+Apelação Cível. Ação Indenizatória. Autora cadeirante que ficou impossibilitada de sair da estação administrada pela ré. Acesso ao cadeirante que se encontrava fechado. Preliminar de ilegitimidade passiva que se rejeita. Consórcio réu que foi formado para administrar e explorar o serviço público de passageiros de ônibus, tornando-se, portanto, parte legítima para figurar no polo passivo. Ausência de cerceamento de defesa. A demanda está fundada no desrespeito a pessoa com necessidades especiais, que tem cerceado seu direito de ir e vir, diante da impossibilidade de acesso nos transportes coletivos. Danos morais configurados e devidamente arbitrados em R$ 5.000,00. Sentença que se mantém. Negado provimento ao recurso.
+Opostos embargos de declaração, estes foram desprovidos (e-STJ, fls. 235-244).
+Em suas razões, a recorrente aponta a existência de violação dos arts. 6º, VIII, do Código de Defesa do Consumidor; 489 e 1.022 do Código de Processo Civil/2015; 265 e 944 do Código Civil; 278 da Lei n. 6.404/1976; e 19, § 2º, da Lei n. 8.987/1995.
+Afirma, de início, que a fundamentação da sentença, adotada no acórdão combatido, encontra-se contraditória com os fatos narrados, haja vista que a procedência parcial dos pedidos formulados na pretensão indenizatória estaria embasada na premissa de que o Consórcio Santa Cruz e o Consórcio BRT fossem o mesmo, o que não é verdade por serem pessoas jurídicas diversas.
+Sustenta, ainda, que não houve manifestação da Corte local acerca dos dispostos contidos nos arts. 19, § 2º, da Lei n. 8.987/1995; 278 da Lei n. 6.404/1976; e 265 do Código Civil.
+Destaca, outrossim, a ocorrência de nulidade do processo por cerceamento de defesa, haja vista o deferimento da inversão do ônus da prova na fase de sentença, o que teria teria causado prejuízos à recorrente e, consequentemente, afrontado o art. 6º, VIII, do CDC.
+Defende, por fim, a sua ilegitimidade para figurar no polo passivo da demanda indenizatória, sob a justificativa de ausência de solidariedade entre os consórcios ou entre as empresas consorciadas, bem como a impossibilidade de condenação em danos morais e a inviabilidade de se manter o valor indenizatório, pois incompatível com o princípio da razoabilidade.
+Contrarrazões às e-STJ, fls. 289-292.
+Parecer do Ministério Público Federal (e-STJ, fls. 358-366) pelo desprovimento do recurso especial.
+É o relatório.
+A irresignação não merece acolhida.
+No caso, não merece prosperar a tese de violação do art. 1.022, I e II, do CPC/2015, porquanto o aresto impugnado fundamentou, claramente, o posicionamento por ele assumido a respeito da prescrição, de modo a prestar a jurisdição que lhe foi postulada.
+Confiram-se os trechos do julgado (e-STJ, fls. 217-219):
+Trata-se de Ação de Obrigação de Fazer c/c Indenização proposta por CÉLIA CRISTINA DOS SANTOS BRETAS em face de BANCO BV FINANCEIRA S.A. e ESP 1 VEÍCULO LTDA.
+Em homenagem à celeridade processual, prestigia-se a sentença do Juízo de 1º grau (pasta 000160):
+ ..
+Afastada a preliminar pela decisão saneadora.
+No entanto, importante ressaltar que apesar de a ré alegar que os veículos e funcionários envolvidos no fato ocorrido não pertencem ao Consórcio réu, o fato é que o Consórcio em epígrafe, ente sem personalidade jurídica, foi formado para administrar e explorar, sob regime de concessão, o serviço público de passageiros por ônibus.
+Logo é parte legítima para configurar no polo passivo, sendo solidariamente responsável pelos danos causados aos usuários das empresas que lhes são associadas.
+ ..
+Presentes os pressupostos processuais e as condições de regular desenvolvimento acionário, passo ao exame do mérito.
+A relação entre as partes é relação de consumo, regulando-se pelo disposto na Lei 8078/90.
+Assim, na forma do artigo 6º, inciso VIII, da Lei 8078/90, tendo em vista a verossimilhança das alegações da autora, defiro a inversão do ônus da prova em seu favor.
+Dispõe o artigo 14 do Código de Defesa do Consumidor que o fornecedor de serviços responde por danos decorrentes de falhas eventualmente ocorridas na prestação dos serviços.
+É cediço que a responsabilidade das empresas de transporte por defeitos na prestação do serviço - nos termos do art. 14 do Código de Defesa do Consumidor - independe da existência da culpa, tratando-se de responsabilidade objetiva.
+Sendo a responsabilidade civil, no caso, objetiva, cabe à parte autora comprovar a existência de conduta (omissiva ou comissiva) do preposto da ré, nexo de causalidade e dano e, à parte ré, para eximir a sua responsabilidade demonstrar culpa exclusiva da vítima, caso fortuito ou força maior.
+A testemunha de fls. 157 ratificou as alegações da parte autora, ao relatar que a autora encontrou dificuldades para sair da estação, uma vez que o segurança que tinha a chave de saída da porta de acesso a deficientes físicos estava ausente (almoçando); que a autora se recusou ser carregada; que foi embora com a polícia quando esta chegou ao local.
+Diante deste fato, é inegável existência de dano moral a ser compensado, pois como é cediço, o dano moral é aquele que acarreta uma violação aos direitos personalíssimos, tal como a imagem, honra, saúde e integridade psicológica, causando dor, vexame, mágoa profunda, desconforto, constrangimento e humilhação à vítima. Tal dano existe in re ipsa, ou seja, é proveniente da própria ofensa, e uma vez provada tal ofensa, automaticamente estará demonstrado o dano moral. Há, portanto, uma presunção natural decorrente das regras de experiência comum.
+Sendo assim, não há que se falar em omissão do acórdão. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela requerente, já que elegeu fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Do mesmo modo, assevero que inexiste violação do art. 489, § 1º, do CPC/2015, pois esta Corte Superior possui precedente no sentido de que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Min. Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Colaciono julgados deste E. Tribunal acerca do assunto:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. MATÉRIA CONSTITUCIONAL. PÓS-QUESTIONAMENTO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. "Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na Constituição" (EDcl no AgRg no AREsp 305.582/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/6/2013, DJe 13/6/2013).
+3. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente com a oposição de embargos de declaração, não configura prequestionamento, e sim pós-questionamento. Incidência da Súmula 211/STJ.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp 888.667/RJ, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/3/2017, DJe 16/3/2017)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.630.265/RS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 6/12/2016)
+De outra parte, assevero que não se mostra cabível, nesta fase recursal, perquirir acerca das teses de cerceamento de defesa decorrente da inversão do ônus da prova na sentença e de ilegitimidade passiva da recorrente, pois as referidas questões foram dirimidas pelas instâncias ordinárias a partir do exame aprofundado das provas dos autos, circunstância enseja a incidência da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+No mesmo sentido, para afastar as premissas fixadas pela instância de origem no tocante à configuração dos danos morais e ao quantum indenizatório demandariam a esta Corte Superior o revolvimento da matéria fática, providência vedada pela Súmula 7 do STJ.
+A título ilustrativo, cito os seguintes precedentes deste Eg. Tribunal:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando configurada situação de anormalidade nos valores, sendo estes irrisórios ou exorbitantes.
+2. Na hipótese em questão, foi com base nas provas e nos fatos constantes dos autos que o Tribunal de origem entendeu que é justo o valor de R$ 25.000,00 (vinte e cinco mil reais), arbitrado a título de indenização por danos morais, em decorrência de prisão ilegal. Desta forma, a acolhida da pretensão recursal demanda prévio reexame do conjunto fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 677.188/CE, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/5/2015, DJe 27/5/2015)
+PROCESSUAL CIVIL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ALTERAÇÃO NO VALOR DE CONDENAÇÃO POR DANOS MORAIS QUE NÃO SE MOSTRA IRRISÓRIO OU EXORBITANTE. IMPOSSIBILIDADE. VEDAÇÃO DA SÚMULA 7/STJ.
+Apenas condenações em valores ínfimos ou exorbitantes autorizam a revisão do STJ desses valores, o que não é o caso dos autos, em que foi arbitrado o valor de R$ 60.000,00 por reparação aos danos morais sofridos em decorrência de prisão ilegal. A revisão de tal valor é vedada pelo enunciado da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.512.923/CE, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/5/2015, DJe 19/5/2015)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
