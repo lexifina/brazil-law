@@ -1,0 +1,13 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ARTIGO 109, § 2o. DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE. COMPETÊNCIA DO JUÍZO FEDERAL DA 3a. VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL.
+1. Trata-se de Conflito Negativo de Competência envolvendo o JUÍZO FEDERAL DA 2a. VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO, suscitante, e o JUÍZO FEDERAL DA 3a. VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, suscitado, nos autos do Mandado de Segurança contra ato do Comandante de Pessoal dos Fuzileiros Navais - COMANDO DA MARINHA.
+2. A ação foi originariamente distribuída ao JUÍZO FEDERAL DA 3a. VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, que declarou-se incompetente para o julgamento da demanda e remeteu os autos à Justiça Federal da Seção Judiciária do Rio de Janeiro/RJ, tendo em vista que o domicílio funcional da autoridade coatora é no Rio de Janeiro.
+3. Por sua vez, o Juízo Federal da Seção Judiciária do Rio de Janeiro/RJ declarou-se igualmente incompetente, suscitou o presente Conflito de Competência e determinou a remessa dos autos a este egrégio Tribunal Superior.
+4. É o relatório.
+5. Conforme estabelece o § 2o. do art. 109 da Constituição Federal, as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+6. Assim, levando-se em conta o domicílio da parte autora, a expressa determinação constitucional, e em homenagem à garantia do amplo acesso à jurisdição, deve ser reconhecida a competência do JUÍZO FEDERAL DA 3a. VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL. Neste sentido:
+CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. JURISDIÇÃO E COMPETÊNCIA. MANDADO DE SEGURANÇA. UNIÃO. FORO DE DOMICILIO DO AUTOR. APLICAÇÃO DO ART. 109, § 2o. DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência do Supremo Tribunal Federal está pacificada no sentido de que as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Agravo regimental improvido (STF, AgRg no RE 509.442/PE, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2010).
+7. Em face do exposto, conheço do presente Conflito de Competência para declarar a competência do JUÍZO FEDERAL DA 3a. VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL.
+8. Publique-se. Intimações necessárias.
