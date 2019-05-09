@@ -1,0 +1,17 @@
+DECISÃO
+Inconformado com a decisão às fls. 321/336, pela qual foi concedida a segurança, dela agrava agora o espólio de [NOME].
+Argumenta o agravante que a questão dos juros nos processos de anistia foi sanada pelo Supremo Tribunal Federal, que decidiu, em sede de repercussão geral, pelo seu cabimento.
+Daí o pedido que faz para que "reconsidere a decisão recorrida, para o fito de permitir a incidência de juros moratórios e correção monetária sobre valores apontados na Portaria de Anistia do ora agravante" (fl. 373).
+Recurso sem contrarrazões.
+Representação regular (fl. 28).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Em que pese a irresignação do recorrente, o apelo não merece conhecimento.
+Em respeitável lição doutrinária, [NOME] discorre sobre o interesse em recorrer, um dos requisitos intrínsecos de admissibilidade recursal, e ensina:
+"A noção de interesse, no processo, repousa sempre, ao nosso ver, no binônio utilidade  necessidade: utilidade da providência judicial pleiteada, necessidade da via que se escolhe para obter essa providência. O interesse em recorrer, assim, resulta da conjugação de dois fatores: de um lado, é preciso que o recorrente possa esperar, da interposição do recurso, a consecução de um resultado a que corresponda situação mais vantajosa, do ponto de vista prático, do que a emergente da decisão recorrida; de outro lado, que lhe seja necessário usar o recurso para alcançar tal vantagem." (Comentários ao Código de Processo Civil. Rio de Janeiro: Forense, 2011, p. 298).
+Também a consolidada jurisprudência do STJ assinala que, "o interesse em recorrer consubstancia-se no trinômio adequação-necessidade-utilidade, ou seja, adequação da via processual escolhida quanto à tutela jurisdicional que se pretende, a necessidade do bem da vida buscado e a utilidade da providência judicial pleiteada" (AgInt no AREsp 1116112/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 27/02/2018).
+No caso ora examinado, falta ao recorrente o interesse em recorrer, pois o pedido que formula - incidência de juros moratórios e correção monetária - já lhe foi deferido pela decisão agravada, como se extrai de sua parte dispositiva:
+ANTE O EXPOSTO, conformando-se a pretensão mandamental à jurisprudência consolidada no âmbito desta Corte Superior, concedo a ordem, com âncoras no art. 37, XIX, do RISTJ, para determinar o pagamento ao impetrante do valor de R$ 197.461,03 (Cento e noventa e sete mil, quatrocentos e sessenta e um reais e três centavos), relativo aos efeitos financeiros retroativos, referente ao período compreendido entre 29 de novembro de 1997 e 12 de fevereiro de 2004, data do julgamento pela Comissão de Anistia, conforme explicitamente previsto na Portaria n. 1.173, de 5 de maio de 2004, publicada no DOU de 6 de maio de 2004, acrescidos de juros e correção monetária, estes devidos "a partir do 61º (sexagésimo primeiro) dia após a publicação da portaria concessiva de anistia, nos termos do art. 12, § 4º, da Lei nº 10.559/02." consoante deliberou o Plenário do STF no RMS 35608 AgR, Rel. Ministro DIAS TOFFOLI, DJe 05/09/2018. (fl. 336)
+Eis porque não se vislumbra nem utilidade, nem necessidade do presente recurso.
+ANTE O EXPOSTO, e com fundamento no que dispõem os artigos 932, III, do CPC e 34, XVIII, "a", do RISTJ, não conheço do presente agravo interno.
+Publicada a presente decisão, voltem conclusos os autos para exame do agravo interposto pela União.
+Publique-se.
