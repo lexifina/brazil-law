@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF à decisão de fls. 364/365, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Como delimitado pela r. decisão embargada, o acórdão recorrido foi publicado no dia 12.03.2018 (segunda-feira) e o recurso especial teria somente sido interposto em 16.04.2018 (segunda-feira).
+Porém, verifica-se que o prazo recursal se iniciou no dia 13.03.2018 (terça-feira) e se encerrou no dia 05.04.2018 (quinta-feira), considerando o prazo de 15 dias úteis.
+A Embargante em 02.04.2018, antes do encerramento do prazo recursal, realizou o protocolo eletrônico do recurso especial, do preparo e da portaria do feriado
+ ..
+Contudo, no Tribunal de Justiça do Mato Grosso existe a "taxa de materialização do recurso", que é necessária para a impressão das peças enviadas através do peticionamento eletrônico quando o processo for físico.
+Neste caso, somente depois do pagamento da guia de materialização, que é gerada quando do protocolo eletrônico é que o Tribunal finaliza o ato de protocolo com a impressão das peças enviadas e a disponibilização eletrônica da peça, conforme art. 13 do Provimento n. 23/2015 - CM 2 (Doc. 01).
+No presente caso, quando do protocolo eletrônico do recurso especial, em 02.04.2018, foi gerada um guia de materialização para pagamento, sendo que a Embargante, por um equívoco, não efetuou o pagamento no prazo de 48 horas, tendo o Tribunal de origem cancelado a guia sem intimar a Embargante para sanar referido vício, conforme art. 932.
+Contudo, mesmo sem intimação, a Embargante, ao perceber o equívoco, efetuou o pagamento da guia de materialização em 16.04.2018 (e-STJ fl.289), o que permitiu que o Tribunal de origem procedesse com a "materialização do recurso especial.
+Diante de tal conduta, a Desembargadora Vice-Presidente do TJMT, ao proceder com o juízo primeiro de admissibilidade, reconheceu a tempestividade do recurso especial (fls. 370/371).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, há apenas a certidão de fl. 403, atestando que o protocolo do recurso ocorreu em 16/04/2018. Ou seja, não há documento do Tribunal de origem certificando o alegado pela parte.
+De acordo com a jurisprudência do STJ, "diante da ilegitimidade do carimbo de protocolo, é dever da parte providenciar certidão da Secretaria do Tribunal respectivo, a fim de possibilitar a aferição da tempestividade do recurso, ônus este do qual não se desincumbiu o agravante" (AgInt no AREsp n. 1.095.835/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 7/3/2018).
+Não fosse isso, há certidão nos autos expedida pelo Tribunal de origem que atesta que o protocolo ocorreu em 16/04/2018 (fl. 403). Portanto, não há como acolher a pretensão da parte embargante.
+Ademais, de acordo com a jurisprudência do STJ, "o juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no REsp n. 1.684.240/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/2/2018).
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema nos autos do processo que atesta a tempestividade do recurso não impede o reexame desse requisito pelo STJ. Nesse sentido: AgRg no REsp n. 770.786/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 8/3/2010; e AgRg no AREsp n. 703.592/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2015.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
