@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. SUPOSTA VIOLAÇÃO DO ART. 166 DO CTN QUE NÃO PODE SER DISCUTIDA NESTA SEARA RECURSAL, ANTE A AUSÊNCIA DE DEBATE DE SEU TEOR PERANTE A CORTE LOCAL. SÚMULAS 282 E 356 DO STF. AGRAVO DA FESP A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, o qual se insurgiu contra acórdão proferido pelo egrégio Tribunal de origem, alegando ofensa ao art. 166 do CTN.
+2. A irresignação, contudo, não merece ser admitida, porquanto o dispositivo legal cuja suposta violação pretende a parte recorrente ver discutida nesta seara recursal não foi objeto de debate perante a Corte local, tampouco foram opostos Embargos de Declaração com o fito de compelir o Tribunal de origem a sanar eventual omissão no julgado. Incidência das Súmulas 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126 DO STJ. AÇÃO CIVIL PÚBLICA. FORO COMPETENTE. LOCAL DO DANO. REVISÃO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. O conteúdo dos preceitos legais tidos por violados não foi examinado no julgado impugnado, nem foram opostos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice das Súmulas 282 e 356 do STF.
+3. Dirimida a controvérsia com arrimo em preceitos da Constituição Federal e de Lei Estadual, sem que a parte tenha agitado recurso extraordinário, é inadmissível o apelo extremo, a teor do disposto nas Súmulas 126 do STJ e 280 do STF.
+4. Em face das premissas fáticas assentadas no acórdão objurgado acerca da extensão do dano ambiental, a modificação do entendimento firmado quanto à competência do foro demandaria induvidosamente o reexame de elementos fáticos dos autos, desiderato incompatível com a via especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido (AgInt no AREsp 1.071.129/MG, Rel. Min. GURGEL DE FARIA, DJe 9.4.2019).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 133 DA LEI N. 8.112/90. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DOS ENUNCIADOS N. 282 E 356 DA SÚMULA DO STF.
+I - Foi determinada a complementação das razões recursais, mas a parte não se manifestou. Conheço dos embargos de declaração como agravo interno.
+II - Sobre a alegada violação dos arts. 133 da Lei nº 8.112/90, verifica-se que no acórdão recorrido não foram analisados o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos enunciados sumulares n. 282 e 356 do STF.
+III - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+IV - Embargos conhecidos como agravo interno. Agravo interno improvido (EDcl no REsp 1.630.992/RS, Rel. Min. FRANCISCO FALCÃO, DJe 8.10.2018).
+3. Diante dessas considerações, nega-se provimento ao Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+4. Publique-se. Intimações necessárias.
