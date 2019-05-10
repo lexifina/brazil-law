@@ -1,0 +1,11 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 2/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+EXECUÇÃO DE SENTENÇA - ACRÉSCIMOS LEGAIS - Repetição de indébito - Fase de cumprimento de sentença - Condenação da Fazenda Municipal à devolução de valores - Embargos à execução opostos a fim de se aplicar o regramento da Lei nº 11.960/2009 sobre juros e correção monetária incidentes na condenação - Sentença que acolhe os embargos, reconhecendo excesso de execução - Hipótese, todavia, em que a condenação foi proferida antes do advento desse diploma - Inadmissibilidade de sua aplicação - Precedente do STJ submetido ao regime do art. 543-C - Sentença que se reforma para se decretar a improcedência dos embargos - Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente alega violação aos arts. 1º-F da Lei nº 9.494/97 (com a redação dada pelo art. 5º da Lei nº 11.960/2009) e 167, parágrafo único, do CTN, insurgindo-se contra a fixação da correção monetária do indébito tributário pela Tabela Prática do TJSP, a partir de cada recolhimento, por reputar o Tribunal de origem inaplicáveis os índices previstos na Lei nº 11.960/2009. Aponta, ainda, contrariada a regra "que prevê a incidência dos juros moratórios após o trânsito em julgado" (fl. 167).
+Em suas contrarrazões, as recorridas pugnam pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 198/199, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Preenchidos os requisitos de admissibilidade recursal, dou provimento ao agravo, para que seja reautuado como recurso especial.
+Publique-se. Intimem-se.
