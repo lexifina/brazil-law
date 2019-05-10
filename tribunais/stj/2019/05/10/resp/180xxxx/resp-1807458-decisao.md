@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Paraná com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 297):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - INADIMPLÊNCIA INJUSTIFICADA - ELEMENTOS JUNTADOS PELA AUTORA SUFICIENTES PARA COMPROVAR OS ATRASOS NAS PRESTAÇÕES - RECORRENTE QUE NÃO JUNTOU QUALQUER COMPROVAÇÃO DE QUE TERIA QUITADO A DÍVIDA NA DATA ACERTADA, O QUE PODERIA DESCONSTITUIR O VALOR COBRADO COMO ATRASO - MORA DESDE O VENCIMENTO DA OBRIGAÇÃO - MULTA EXTRACONTRATUAL CABÍVEL - HONORÁRIOS ADVOCATÍCIOS DENTRO DOS LIMITES LEGAIS - ADEQUAÇÃO DA CONDENAÇÃO AOS PARÂMETROS DA NOVA LEGISLAÇÃO - SENTENÇA MANTIDA EM REEXAME NECESSÁRIO. APELAÇÃO DESPROVIDA.
+Opostos embargos declaratórios, foram parcialmente acolhidos, sem efeitos infringentes (fls. 433/739).
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) arts. 394, 395 e 297, todos do Código Civil, os quais tratam genericamente da mora e, portanto, não permitem concluir que no âmbito da relação contratual em exame era lícito imputar multa não prevista no contrato; e
+(II) art. 52, § 1º, do Código de Defesa do Consumidor, pois o dispositivo possui caráter protetivo do consumidor, limitando eventual multa de mora pactuada em 2 % do valor da prestação, de modo que sua aplicação ao caso dos autos foi equivocada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece conhecimento. Isso porque, na hipótese vertente, sustenta o recorrente que a cobrança da multa de mora somente se faz possível quanto esta estiver devidamente pactuada em contrato. Assim, no caso dos autos, considerando a ausência de disposição expressa quanto à penalidade, pugna pelo afastamento da multa imposta pela instância origem.
+Ocorre, no entanto, que os dispositivo legais suscitados nas razões do apelo nobre não contêm comando capaz de sustentar referida tese recursal, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). No mesmo sentido:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. NÍVEL DE RUÍDO. ADEQUADA A FUNDAMENTAÇÃO AO NOVO ENTENDIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 284 DO STF, APLICADO POR ANALOGIA.
+ I - O presente feito decorre de ação que objetiva concessão de aposentadoria especial. Na sentença, julgou-se procedente o pedido.
+No TRF da 4ª Região, a sentença foi mantida.
+II - É possível constatar que os artigos tidos por violados não contêm comando capaz de sustentar a tese aduzida no recurso especial, qual seja, de que o acórdão proferido em juízo de retratação apenas pode manter a decisão ou se retratar, de modo que incide no presente recurso a Súmula n. 284/STF.
+III - Com efeito, o art. 494 do CPC/15 não tem pertinência com o acórdão proferido em juízo de retratação. Ou seja, pela simples leitura do dispositivo, não é possível aferir qual seria o limite de julgamento para um acórdão em juízo de retratação.
+IV - Do mesmo modo, o art. 1.036 do CPC/15 nada fala sobre o acórdão proferido em juízo de retratação para adequação de tese repetitiva, dispositivo que, na verdade, trata do início do procedimento sobre o julgamento de recursos repetitivos.
+V - O artigo que, de fato, fala sobre o julgamento em juízo de retratação é o art. 1.041, § 1º, em que é possível constatar que, realizado o juízo de retratação, com alteração do acórdão divergente, o Tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em razão da alteração.
+VI - Esse foi o exato entendimento adotado no acórdão recorrido, conforme se observa do seguinte excerto do acórdão proferido em embargos de declaração (fls. 425): "Registra-se ainda que não se trata de alteração ou agregação de fundamentos, mas somente de reparação de omissão no julgado anterior, em que não se analisou a questão do agente físico frio, juntamente com o ruído".
+VII - Agravo interno improvido.
+(AgInt no REsp 1630862/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 28/03/2019, DJe 02/04/2019)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. MULTA DO TCU. TOMADA DE CONTAS ESPECIAL. PRESCRIÇÃO. INTERRUPÇÃO. COMANDO NORMATIVO. SÚMULA 284/STF. HONORÁRIOS NÃO FIXADOS NA ORIGEM. DESCABIMENTO DE MAJORAÇÃO DE HONORÁRIOS RECURSAIS. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O comando normativo do dispositivo indicado como violado resta inapto de sustentar a tese apresentada no recurso especial, de modo que inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do STF. 3. Não tendo sido fixados honorários sucumbenciais nas instâncias ordinárias, inviável a majoração em honorários recursais nos termos do art. 85, § 11, do CPC/2015.
+4. Agravo interno parcialmente provido.
+(AgInt no REsp 1657511/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/12/2018, DJe 14/12/2018)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
