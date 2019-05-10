@@ -1,0 +1,32 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126 DO STJ. AGRAVO DA UNIÃO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela UNIÃO, com base na alínea a do art. 105, III da Constituição Federal, contra Acórdão do TRF da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO. ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. IPTU. SUCESSÃO PELA UNIÃO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. AFASTADA. AGRAVO DESPROVIDO.
+1. A Rede Ferroviária Federal S/A - RFFSA (constituída sob a forma de sociedade de economia mista, para exploração de serviços públicos de transporte ferroviário, de competência da união) foi extinta em 22 de janeiro de 2007, por força da Medida Provisória nº 353/2007, convertida na Lei nº 11.483/07, e sucedida pela União.
+2. O Supremo Tribunal Federal - STF já analisou a questão relacionada a imunidade recíproca e, por votação unânime, deu provimento ao Recurso Extraordinário 599176 (publicado em 13 de junho de 2014), com repercussão geral reconhecida, para assentar que não se aplica o princípio da imunidade tributária recíproca a débito de Imposto Predial e Territorial Urbano (IPTU) devido pela extinta Rede Ferroviária Federai S/A (RFFSA).
+3. Desta forma, aos impostos constituídos a partir de 22.01.2007, deve-se aplicar a imunidade recíproca prevista no art. 150, VI, "a", da Constituição Federal, porém, no caso dos autos, o IPTU cobrado refere-se a lançamento efetuado em 01/01/1999 (f. 3), pelo que se impõe a quitação do referido débito à União, sucessora da RFFSA.
+4. Agravo desprovido.
+2. Os Embargos de Declaração foram rejeitados.
+3. No Apelo Nobre, a agravante aponta violação dos arts. 130 e 131 do CTN, ao argumento de que a pretensão do exequente esbarra na previsão constitucional da imunidade tributária recíproca, elencada na alínea a do inciso VI do artigo 150 da Constituição da República.
+4. É o relatório.
+5. Da leitura atenta do acórdão recorrido depreende-se que o deslinde da vexata quaestio se deu preponderantemente sob a ótica constitucional, especialmente pelo estudo da imunidade tributária recíproca entre os entes da Federação calcada na Carta Magna, relevantemente no seu artigo 150, VI, b e c.
+6 Portanto, vê-se que, não obstante tenham sido invocadas normas federais, é notório ser indissociável o exame de suas possíveis ofensas com a ponderação dos dispositivos constitucionais, sobretudo em questão que toca inexoravelmente no pacto federativo e que demanda interpretação conforme a Constituição Federal.
+7. Diante disso, sua apreciação é exclusivamente de competência do Supremo Tribunal Federal, segundo dispõe o art. 102, III da Carta Maior. Assim, não é possível avaliar a tese recursal. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 19 E 20 DA LC 87/96. ACÓRDÃO RECORRIDO FUNDADO NO PRINCÍPIO DA NÃO-CUMULATIVIDADE (ART. 155, § 2º, I, DA CF/88). ENFOQUE CONSTITUCIONAL DA MATÉRIA. (..) RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo regimental não provido (AgRg no REsp. 1.494.255/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 18.2.2015).
+8. Ademais, a parte recorrente não cuidou de aviar o indispensável Recurso Extraordinário para questionar a matéria constitucional, o que faz incidir a Súmula 126 do STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. LICENCIAMENTO AMBIENTAL. ATIVIDADE FISCALIZATÓRIA. DISPENSA DA PROVA PERICIAL. COMPETÊNCIA DO IBAMA. TEMA ENFRENTADO NA CORTE DE ORIGEM COM ENFOQUE EXCLUSIVAMENTE CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. FUNDAMENTO INATACADO. ÓBICE DA SÚMULA 182/STJ. AGRAVO INTERNO DE DONATO EMPREENDIMENTOS IMOBILIÁRIOS E TURÍSTICOS LTDA. DESPROVIDO.
+1. Conforme afirmado na decisão agravada, o Tribunal de origem examinou a questão com base em fundamentos de natureza infraconstitucional e de índole constitucional. Contudo, a matéria não foi impugnada por meio de Recurso Extraordinário, circunstância que atraiu o óbice da Súmula 126 desta Corte, segundo a qual, é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+2. A parte agravante deve infirmar os fundamentos da decisão impugnada, autônomos ou não, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+3. Agravo Interno de DONATO EMPREENDIMENTOS IMOBILIÁRIOS E TURÍSTICOS LTDA. desprovido (AgInt no REsp. 1.484.047/CE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 11.4.2019).
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126 DO STJ. AÇÃO CIVIL PÚBLICA. FORO COMPETENTE. LOCAL DO DANO. REVISÃO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. O conteúdo dos preceitos legais tidos por violados não foi examinado no julgado impugnado, nem foram opostos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice das Súmulas 282 e 356 do STF.
+3. Dirimida a controvérsia com arrimo em preceitos da Constituição Federal e de Lei Estadual, sem que a parte tenha agitado recurso extraordinário, é inadmissível o apelo extremo, a teor do disposto nas Súmulas 126 do STJ e 280 do STF.
+4. Em face das premissas fáticas assentadas no acórdão objurgado acerca da extensão do dano ambiental, a modificação do entendimento firmado quanto à competência do foro demandaria induvidosamente o reexame de elementos fáticos dos autos, desiderato incompatível com a via especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido (AgInt no AREsp. 1.071.129/MG, Rel. Min. GURGEL DE FARIA, DJe 9.4.2019).
+9. Ante o exposto, não se conhece do Agravo em Recurso Especial da UNIÃO.
+10. Publique-se. Intimações necessárias.
