@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ART. 185-A DO CTN. DECRETAÇÃO DE INDISPONIBILIDADE DE BENS DO EXECUTADO. REALIZAÇÃO DAS DEVIDAS COMUNICAÇÕES. RESPONSABILIDADE DO JUÍZO. AGRAVO DA FAZENDA NACIONAL CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do art. 105, III da Carta Magna, no qual se insurge contra Acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PEDIDO DE COMUNICAÇÃO DE INDISPONIBILIDADE DE BENS. ART. 185-A DO CTN. INDEFERIMENTO. ART. 615-A DO CPC/73. COMUNICAÇÃO PELA EXEQUENTE. PRECEDENTES. DECISÃO MANTIDA.
+1- Trata-se de Agravo de Instrumento interposto contra decisão que decretou a indisponibilidade de bens e direitos da parte executada, mas indeferiu a expedição de ofícios genéricos para fins de comunicação da medida, determinando a expedição somente aos cartórios imobiliários de domicílio do Executado.
+2- A comunicação da decisão que determinou a indisponibilidade não precisa ser realizada pelo próprio juízo, devendo o art. 185-A do CTN ser interpretado em consonância com o disposto no art. 615-A do CPC/73, vigente à época em que proferida a decisão agravada, a fim de que sejam observados os princípios da celeridade e da economia processual.
+3- Inexiste proibição legal de que o magistrado, a fim dar efeitos práticos à sua decisão, autorize servir a mesma como certidão a ser impressa e utilizada pela exequente, até porque o interesse é da parte credora, e, à luz do referido princípio da celeridade, cabe ao juiz, na direção do processo, avaliar se a expedição dos ofícios sobrecarregará o trabalho cartorário.
+4- Precedentes da Terceira Turma Especializada: TRF2, AG 20140000107654-3, Rel. Des. Fed. CLÁUDIA MARIA PEREIRA BASTOS NEIVA, Terceira Turma Esp., E-DJF2R de 03/11/2015 e TRF2, AG 2016.00.00.001489-7, Rel. Juiz Fed. Conv. JOSÉ EDUAROD NOBRE MATTA, Terceira Turma Esp., EDJF2R 16/02/2017.
+5- Agravo de instrumento não provido.
+2. Nas razões do Recurso Especial, a agravante aponta contrariedade ao art. 185-A do CTN, ao argumento de que seria competência do juízo determinar a emissão dos ofícios e a pesquisa dos bens a serem conscritos, sustenta que o art. 185-A do CPC é claro no sentido de imputar ao juízo a atribuição de determinar a indisponibilidade de bens e direitos do devedor e de comunicar a sua decisão, e incumbindo aos órgãos e entidades que receberem os ofícios enviar ao juízo a relação discriminada dos bens e direitos tornados indisponíveis.
+3. É o relato do essencial.
+4. O STJ possui entendimento de que o art. 185-A do Código Tributário Nacional é expresso quanto ao fato de que cabe ao magistrado determinar a indisponibilidade dos bens do executado e oficiar aos órgãos e às entidades que promovem registros de transferências de bens, a fim de que gravem eventual bem do executado com tal cláusula. A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ART. 185-A DO CTN. DECRETAÇÃO DE INDISPONIBILIDADE DE BENS DO EXECUTADO. REALIZAÇÃO DAS DEVIDAS COMUNICAÇÕES. RESPONSABILIDADE DO JUÍZO.
+1. Na origem, cuida-se de Agravo de Instrumento interposto pela Fazenda Nacional contra decisão de magistrado de primeiro grau que, apesar de haver deferido o pedido de indisponibilidade de bens do executado, transferiu para a parte credora a responsabilidade de providenciar as respectivas comunicações aos órgãos e entidades competentes.
+2. A decretação da indisponibilidade de bens decorre do insucesso na localização de bens pela credora - regularmente citada - de modo que cabe ao órgão judicial a expedição de ofícios aos órgãos e entidades mencionadas no art. 185-A do CTN, com vistas a gravar bens porventura não identificados nas diligências da credora ou bens futuros.
+3. Recurso especial provido.
+(REsp 1.658.492/SP, Rel. Min. HERMAN BENJAMIN, DJe 11/5/2017)
+
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ART. 185-A DO CTN. DECRETAÇÃO DE INDISPONIBILIDADE DE BENS DO EXECUTADO. REALIZAÇÃO DAS DEVIDAS COMUNICAÇÕES. RESPONSABILIDADE DO JUÍZO.
+1. Na origem, cuida-se de agravo de instrumento interposto pela Fazenda Nacional contra decisão de magistrado de primeiro grau que, apesar de haver deferido o pedido de indisponibilidade de bens do executado, transferiu para a parte credora a responsabilidade de providenciar as respectivas comunicações aos órgãos e entidades competentes.
+2. A decretação da indisponibilidade de bens decorre do insucesso na localização de bens pela credora - regularmente citada - de modo que cabe ao órgão judicial a expedição de ofícios aos órgãos e entidades mencionadas no art. 185-A do CTN, com vistas a gravar bens porventura não identificados nas diligências da credora ou bens futuros.
+Recurso especial provido.
+(REsp 1.436.591/AL, Rel. Min. HUMBERTO MARTINS, DJe 2/4/2014)
+5. Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial da FAZENDA NACIONAL, a fim de afirmar que compete ao juízo que determinou a indisponibilidade de bens a comunicação aos órgãos e às entidades responsáveis por providências no bloqueio dos bens.
+6. Publique-se. Intimações necessárias.
