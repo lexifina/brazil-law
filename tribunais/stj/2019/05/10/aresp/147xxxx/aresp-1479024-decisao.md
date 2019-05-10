@@ -1,0 +1,39 @@
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ILEGALIDADE FLAGRANTE. ART. 387, § 2º, DO CPP. CÔMPUTO DO TEMPO DE PRISÃO CAUTELAR. COMPETÊNCIA DO JUÍZO SENTENCIANTE. AVALIAÇÃO OBJETIVA. PRECEDENTE. ADOÇÃO DO PARECER MINISTERIAL.
+Agravo em recurso especial não conhecido. Habeas corpus concedido de ofício, nos termos da fundamentação.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça de São Paulo que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado, em que impugnava acórdão prolatado na Apelação n. 0067756-56.2012.8.26.0050.
+Narram os autos que o agravante, denunciado juntamente com outro corréu pela suposta prática do crime de roubo majorado pelo concurso de agentes, foi, após regular instrução, condenado à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 16 dias-multa, como incurso no art. 157, § 2º, II, do Código Penal (fls. 268/272).
+Apenas a defesa apelou. O Tribunal de Justiça deu parcial provimento ao apelo, para redimensionar as penas aplicadas. O acórdão foi assim ementado (fl. 416):
+EMENTA: APELAÇÃO CRIMINAL - ROUBO QUALIFICADO - CONCURSO DE AGENTES - ABSOLVIÇÃO - Autoria e materialidade comprovadas. Tratando-se de delito praticado na clandestinidade, como o roubo, é de dar-se especial relevância á palavra da vítima, como elemento de prova, desde que não destoem do conjunto probatório e que não se encontrem, nos autos, indícios ou provas de que ela pretenda incriminar pessoas inocentes. Impossível a absolvição do agente quando as provas não deixam dúvidas quanto a autoria.
+DESCLASSIFICAÇÃO PARA FURTO - Demonstrado o emprego de grave ameaça por meio de palavras e da conduta intimidadora dos réus, é inviável a desclassificação do roubo para o crime de furto.
+PRETENDIDA A APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICABILIDADE
+Grave ameaça configurada - simulação de porte de arma. Não se operando a desclassificação para o crime de furto, não há que se falar em aplicação do princípio da insignificância em delito patrimonial que envolva grave ameaça.
+DESCLASSIFICAÇÃO PARA A CONTRAVENÇÃO DE VIAS DE FATO INADMISSIBILIDADE - Caracterizada uma das elementares do crime de roubo - a violência - impossível a desclassificação para vias de fato. - O roubo é crime complexo, onde há afronta não apenas no patrimônio do ofendido, mas também á sua integridade física.
+AFASTAMENTO CONCURSO DE AGENTE - Inviabilidade - A configuração majorante descrita no art. 157, § 2º, II do Código Penal, bem reconhecida.
+REDUÇÃO DA PENA-BASE POSSIBILIDADE - Circunstâncias indevidamente valoradas.
+ALTERAÇÃO DO REGIME - Inviabilidade no presente caso.
+SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIÁVEL. PENA SUPERIOR AO LIMITE ESTABELECIDO EM LEI - Indevida a substituição da pena privativa de liberdade por restritiva de direitos, a teor do art. 44, inciso I, do Código Penal, posto que vedada a substituição quando se tratar de condenação superior a 4 anos de reclusão, ou de crime praticado com violência ou grave ameaça a pessoa, como no caso dos autos.
+DETRAÇÃO - O pedido para que seja efetuada a detração penal deverá ser analisado pelo Juízo de Execuções Penais
+Recursos parcialmente providos.
+Nas razões do especial, a Defensoria Pública apontou violação do art. 387, § 2º, do Código de Processo Penal, sustentando, em suma, a necessidade da análise, no caso, do instituto da detração, tendo em vista que as informações constantes dos autos demonstram que [NOME] permaneceu preso cautelarmente de 14 de julho de 2012 a 01 de abril de 2016, ou seja, quase quatro anos, o que justifica a fixação de regime inicial aberto (fls. 464/466).
+Apresentadas contrarrazões (fls. 496/520), o Tribunal de origem não admitiu o recurso, ao entendimento de que não foram atacados todos os argumentos do aresto, fazendo referência à Súmula 182/STJ (fls. 522/523).
+Contra essa decisão a Defensoria interpõe agravo (fls. 528/531). Instado a se manifestar, o Parquet federal opinou pelo não conhecimento do agravo, nos termos da seguinte ementa (fl. 423):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182/STJ. ROUBO CIRCUNSTANCIADO. REGIME INICIAL. DETRAÇÃO. § 2º DO ART. 387, CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NÃO PROVIMENTO. CONSTRANGIMENTO ILEGAL VERIFICADO. CONCESSÃO DE ORDEM DE OFÍCIO. JUÍZO DA EXECUÇÃO. APRECIAÇÃO DO PEDIDO.
+- Não satisfazendo os requisitos legais o recurso não deve ser conhecido.
+- Verificando o constrangimento ilegal, deve a ordem ser concedida de ofício, para que o juízo da execução penal avalie se o recorrente tem direito a regime menos severo, tendo em vista a detração penal prevista no § 2º, do art. 387 do Código Penal.
+É o relatório.
+O agravo é inadmissível.
+A teor do disposto no art. 932, III, do Código de Processo Civil, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles (AgRg no AREsp n. 534.288/RR, Ministro Jorge Mussi, Quinta Turma, DJe 10/10/2018).
+No caso dos autos, o fundamento do decisum combatido não foi devidamente impugnado, a saber, a ausência de impugnação ao argumento do acórdão recorrido, tendo a Corte de origem até mesmo citado enunciado sumular desta Corte Superior nesse sentido.
+Tal o contexto, constata-se que a defesa do recorrente não observou o disposto nos arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do RISTJ, atraindo, com isso, a incidência da Súmula 182/STJ, por analogia.
+Sobre o tema, destaco: AgRg no AREsp n. 743.772/ES, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2018; AgRg nos EDcl no AREsp n. 1.251.987/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/8/2018 e AgRg no AREsp n. 1.229.973/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 1º/8/2018.
+Contudo, embora o recurso não comporte conhecimento, consoante o bem-lançado parecer ministerial, verifico a existência de ilegalidade manifesta, capaz de ensejar a concessão de habeas corpus de ofício.
+O Superior Tribunal de Justiça já assentou ser competência do juízo sentenciante, bem como do Tribunal em sede de recurso com efeito devolutivo, como in casu, realizar o cômputo do tempo de prisão cautelar para efeitos de escolha do modo inicial de execução da sanção, conforme disposto no art. 387, § 2º, do Código de Processo Penal.
+Nesse sentido: AgRg no Ag no REsp n. 1.708.020/SP, Ministro Jorge Mussi, Quinta Turma, DJe 12/3/2019 e EDcl no RHC n. 77.405/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/4/2017.
+Trata-se, pois, de operação matemática decorrente de análise objetiva, conforme dicção do próprio dispositivo, no qual o juízo sentenciante, após fixar o regime inicial nos moldes do art. 33 do Código Penal, computa o tempo de prisão cautelar e opera a adequação do regime.
+Em suporte: HC n. 404.409/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/10/2017.
+Na hipótese dos autos, entendeu o Tribunal local que a questão deve ser realizada no Juízo da execução (fl. 447), o que contraria a jurisprudência consagrada por esta Corte.
+Necessário, pois, o retorno dos presentes autos à origem para contagem do tempo de prisão cautelar, nos termos do art. 387, § 2º, do Código de Processo Penal.
+Em face do exposto, não conheço do agravo (arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ). Concedo, entretanto, habeas corpus de ofício, em favor do agravante, para determinar o retorno dos autos à origem para cômputo do tempo de prisão cautelar, nos termos da presente fundamentação.
+Publique-se.
