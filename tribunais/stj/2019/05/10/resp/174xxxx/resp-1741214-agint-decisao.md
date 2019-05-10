@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto em face da decisão assim ementada (fl. 511):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. RENOVAÇÕES SUCESSIVAS DE CONTRATO TEMPORÁRIO. PAGAMENTO DO FGTS. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, a agravante sustenta, em suma, os seguintes argumentos: (a) "não houve ofensa diretamente a constituição, pois os julgadores estaduais, com grande esforço para contrariar a jurisprudência uniforme desta Corte, pura e simplesmente insistem que o FGTS, mesmo nos casos de declaração de nulidade do contrato, só é devido nos contratos originalmente celestista, o que já foi afastado pelo Supremo Tribunal Federal no paradigma REx 765.320 que foi colacionada na íntegra para V. Exa. Se o Supremo Tribunal Federal no supracitado paradigma já declarou ser constitucional o art. 19 A da Lei do FGTS não há matéria constitucional" (fl. 604); e (b) a jurisprudência do STJ, após o julgamento da ADI 4.876/DF pelo STF, tem caminhado no sentido de que "a circunstância de o trabalhador ter sido submetido ao regime estatutário após sua contratação pelo Estado de Minas Gerais é irrelevante, pois, por ter sido admitido sem concurso público, a contratação é nula, o que lhe confere, tão somente, direito ao recebimento dos salários referentes ao período trabalhado e ao levantamento dos depósitos efetuados no FGTS, nos termos do artigo 19-A da Lei 8.036/1990" (fl. 606).
+Com impugnação.
+É o relatório. Decido.
+Diante dos argumentos trazidos pela parte agravante, exerço o juízo de retratação, nos termos do caput do artigo 259 do RI/STJ, para tornar sem efeito a decisão de fls. 577-580.
+Após, volte-me os autos conclusos para nova análise da demanda.
+Publique-se. Intimem-se.
