@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 33, CAPUT, DA LEI N. 11.343/2006. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PLEITO DE RECURSO EM LIBERDADE. IMPETRAÇÃO QUE SE VOLTA CONTRA WRIT ORIGINÁRIO (HC N. 2201619-54.2017.8.26.0000). SUPERVENIENTE JULGAMENTO DO RECURSO DE APELAÇÃO, COM PARCIAL PROVIMENTO AO RECURSO DEFENSIVO E PROVIMENTO AO MINISTERIAL. REDIMENSIONAMENTO DA PENA. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA IMPETRAÇÃO. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora a Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (HC n. 2201619-54.2017.8.26.0000 - fls. 247/251).
+Consta dos autos que o Juízo de Direito da 3ª Vara Criminal da comarca de Franca/SP, na Ação Penal n. 0019377-92.2016.8.26.0196, condenou o paciente à pena 6 anos de reclusão, em regime inicial fechado, e ao pagamento de 600 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Na ocasião, foi negado ao acusado o direito de recorrer em liberdade (fls. 225/233).
+Irresignada, a defesa impetrou habeas corpus na origem, o qual foi denegado, nos termos desta ementa (fl. 249):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.
+Pretendida concessão do direito de recorrer em liberdade. Inadmissibilidade. Decisão que fundamenta as posições nela adotadas, não incorrendo em teratologia, nem importando em evidente constrangimento ilegal. Ordem denegada.
+Daí o presente writ em que o impetrante sustenta, em síntese, que o M.M. Juízo de 1º Grau negou o recurso em liberdade sem que houvesse fundamento idôneo para a manutenção do cárcere, pois fez menção apenas que o crime é grave e para garantia da ordem pública (fl. 5).
+Requer, liminarmente, a concessão de ordem liberatória a fim de que o paciente possa aguardar em liberdade o julgamento do presente writ.
+Liminar indeferida (fls. 255/257), informações prestadas (fls. 261/263 e 265/277), o Ministério Público Federal opinou pelo não conhecimento da ordem de habeas corpus (fls. 280/285).
+É o relatório.
+O presente habeas corpus ataca a negativa do direito de recorrer em liberdade imposta pelo Juízo de primeiro grau, por ocasião da sentença condenatória, nos autos da Ação Penal n. 0019377-92.2016. 8. 26.0196 (3ª Vara Criminal da comarca de Franca/SP - fls. 225/233).
+Pois bem. Com a realização do julgamento do recurso de apelação em 8/4/2019 (n. 0019377-92.2016.8.26.0196 - fls. 287/289), dando parcial provimento ao apelo defensivo e dando provimento ao ministerial para, mantida a condenação nos termos da r. sentença recorrida, readequar a reprimenda imposta ao ora paciente fixando-a em 5 anos e 10 meses de reclusão, em regime inicial fechado, mais 11 dias-multa, verifica-se o exaurimento do objeto do writ em liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos da sentença, mas do aresto que a substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 29/1/2019, tem-se por esvaído o objeto do recurso.
+Com efeito, nos termos do entendimento adotado por este Sodalício: com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+E ainda: AgRg no HC n. 291.055/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014; e AgRg no RHC n. 36.064/DF, Ministro Moura Ribeiro, Quinta Turma, DJe 23/9/2013.
+Tal a circunstância, julgo prejudicado o habeas corpus (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
