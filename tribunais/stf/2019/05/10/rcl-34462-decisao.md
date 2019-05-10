@@ -1,0 +1,12 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada contra acórdão do Tribunal de Justiça do Estado da Bahia, alegando violação à autoridade da decisão do Supremo Tribunal Federal proferida no tema 784 da repercussão geral.
+    2. Na sistemática da Lei nº 8.038/1990 e do CPC/1973, a jurisprudência do Supremo Tribunal Federal foi construída no sentido do descabimento da reclamação constitucional sob alegação de ausência de aplicação ou aplicação equivocada de precedente firmado em sede de repercussão geral. A incidência da tese firmada sob aquela sistemática somente poderia ser pleiteada pela interposição de recurso extraordinário no caso concreto, que observaria o trâmite dos arts. 543-A e 543-B do CPC/1973. Da decisão do Tribunal local que julgava o recurso extraordinário, seria cabível apenas a interposição de agravo interno no âmbito do próprio órgão de origem, salvo teratologia. Esta conclusão foi alcançada pelo Plenário no julgamento do AI 760.358-QO, Rel. Min. Gilmar Mendes.
+    3. No entanto, o Código de Processo Civil de 2015, na linha das suas demais inovações relativas à evolução legislativa do sistema de precedentes, previu a possibilidade de ajuizamento da reclamação para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, ou de acórdão proferido em julgamento de recursos extraordinários repetitivos. Todavia, para tanto, deveriam ser “esgotadas as instâncias ordinárias” (art. 988, § 5º, II, do CPC/2015).
+    4. O STF firmou entendimento no sentido de que a correta interpretação do dispositivo exige o percurso de todo o iter processual, ultimado na interposição de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015. Ou seja, é imprescindível que a parte tenha interposto todos os recursos cabíveis, até a última via processual que lhe é aberta. Nesse sentido, veja-se a Rcl 24.686-ED-AgR, Rel. Min. Teori Zavascki:
+    5. No caso, não houve demonstração do necessário esgotamento de instância, uma vez que a parte impugna o acórdão em apelação e reexame necessário, não tendo instruído o feito com decisões àquele posteriores. A consulta processual eletrônica esclarece, ademais, a inexistência de julgamento, na origem, de agravo interno em recurso extraordinário.
+    6. Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, nego seguimento à reclamação.
+    7. Defiro o pedido de gratuidade de justiça.
+    Publique-se.
+    Brasília, 10 de maio de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
