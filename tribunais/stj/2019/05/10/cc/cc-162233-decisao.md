@@ -1,0 +1,20 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS DESCONTADOS PELO SINDICATO SEM A DEVIDA AUTORIZAÇÃO DA AUTORA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+DECISÃO
+Trata-se de conflito negativo de competência sendo suscitante o Juízo de Direito da 2ª Vara Cível de Boa Vista-RR e suscitado o Juízo da 3ª Vara do Trabalho de Boa Vista-RR, nos autos da ação de cobrança de honorários advocatícios que teriam sido descontados ilegalmente pelo Sindicato dos Trabalhadores em Educação de Roraima em favor do profissional por ele contratado.
+A inicial relata que o réu patrocinou reclamação trabalhista coletiva em substituição de 1.495 (mil, quatrocentos e noventa e cinco) professores para enquadramento em Plano de Classificação e Retribuição de Cargos e Salários da União, com o consequente pagamento das diferenças remuneratórias, que foram recebidas pelo primeiro réu e em parte indevidamente repassadas ao segundo, pleiteando a devolução dos valores descontados a título de honorários advocatícios sobre o montante que lhe era devido.
+O Tribunal Regional do Trabalho da 3ª Região reconheceu, de ofício, a incompetência da Justiça laborista, invocando o comando da Súmula 363/STJ, assim redigida: "Compete à Justiça estadual processar e julgar a ação de cobrança ajuizada por profissional liberal contra cliente".
+Por sua vez, ao receber os autos, o Juízo de Direito da 2ª Vara Cível de Boa Vista-RR suscitou o presente conflito de competência, ao entendimento de que "a ação não tem por objetivo a mera cobrança de valores de profissional liberal, mas sim o reconhecimento da ilegalidade de ato praticado por sindicato e as suas respectivas consequências" (e-STJ, fl. 50).
+Instado, o Ministério Público manifestou-se pelo prosseguimento do feito, prescindindo-se de opinião meritória do Parquet Federal (e-STJ, fls. 404-405).
+Brevemente relatado, decido.
+Com efeito, define-se a competência em razão da natureza jurídica da questão controvertida, delimitada pelo pedido e pela causa de pedir.
+No caso, pretende a autora ser ressarcida patrimonialmente pelo recebimento a menor dos valores reconhecidos em seu favor em reclamação trabalhista coletiva promovida pelo sindicato da categoria, que recebeu tais créditos, mas deduziu 10% a título de honorários advocatícios para o profissional corréu.
+Em vista disso, considerando que não se trata de ação em que a autora postula o recebimento de honorários advocatícios, mas pela qual questiona a conduta do ente sindical para dispor sobre o patrimônio dos trabalhadores sindicalizados, deve a causa ser apreciada pela Justiça do Trabalho, conforme entendimento deste Tribunal sobre a matéria:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO PROPOSTA POR TRABALHADOR CONTRA SINDICATO. DANOS MORAIS E MATERIAIS. VÍCIO NA REPRESENTAÇÃO EM ANTERIOR AÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA LABORAL (CF, ART. 114, VI E IX).
+1. Na hipótese, o trabalhador ajuizou ação de indenização por danos materiais e morais em face do respectivo sindicato, imputando ao réu conduta deficiente e danosa ao representá-lo em anterior reclamação trabalhista, na qual supostos acordos lesivos teriam sido firmados e homologados.
+2. Somente a Justiça Especializada terá plenas condições de avaliar a procedência das alegações formuladas pelo autor contra o sindicato réu, porquanto a ação por ele movida faz referências a temas notadamente de direito trabalhista e processual trabalhista.
+3. Conflito conhecido para declarar competente a Justiça do Trabalho.
+(CC n. 124.930/MG, Relator o Ministro Raul Araújo, Segunda Seção, DJe de 2/5/2013).
+Nesse mesmo sentido, as seguintes decisões monocráticas proferidas em casos análogos: CC n. 162.927/RR, Relatora a Ministra Maria Isabel Gallotti, DJe de 7/3/2019 e CC n. 162.873/RR, Relator o Ministro Antônio Carlos Ferreira, DJe de 1º/2/2019.
+Diante do exposto, conheço do conflito para declarar competente o Juízo da 3ª Vara do Trabalho de Boa Vista-RR
+Comunique-se. Publique-se.
