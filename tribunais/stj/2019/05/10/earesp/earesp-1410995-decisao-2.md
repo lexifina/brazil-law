@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DE [NOME] CÉSAR [NOME] E [NOME].
+DECISÃO
+Na origem, [NOME], [NOME] e Advogados S.S. ajuizou ação de arbitramento de honorários contra o Sind. Empresas Transp. Coletivo Urb. Passageiros Goiânia, objetivando o recebimento de honorários advocatícios decorrentes de serviços prestados e pactuados entre as partes. Contudo, o Juízo de primeiro grau após indeferir a petição inicial, nos termos dos arts. 267, I, e 284, parágrafo único, do CPC/1973, julgou extinta a ação sem resolução de mérito, fixando os honorários advocatícios e custas processuais em 10% sobre o valor da causa.
+Interposto recurso de apelação por [NOME], [NOME] e Advogados S.S., a Primeira Turma Julgadora da Segunda Câmara Cível do Tribunal de Justiça de Goiás decidiu, por unanimidade, dar parcial provimento ao apelo apenas para reduzir os honorários advocatícios para R$ 2.000,00 (dois mil reais), nos termos do art. 85, § 2º, I a IV, do CPC/2015, assim ementado (e-STJ, fl. 2.298):
+APELAÇÃO CÍVEL. INDEFERIMENTO INICIAL. INÉRCIA DA PARTE. HONORÁRIOS ADVOGADO. REDUÇÃO. 1. A inércia da parte autora em providenciar a emenda da petição inicial no prazo assinalado pelo juízo, justifica o indeferimento da exordial e a finalização da demanda, porquanto, nos termos do art. 485, inc.I do CPC. 2. Considerando elevado o valor da condenação, nos termos do art. 85, § 2º, do CPC, necessária a redução dos honorários advocatícios, atendendo o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração por ambas as partes, foram rejeitados (e-STJ, fls. 2.363-2.364 e 2.373-2.379).
+Nas razões do recurso especial, [NOME] e [NOME] alegou violação ao art. 1.022, II, do CPC/2015, ao argumento de omissão acerca do seu pedido de intervenção no processo na qualidade de assistente.
+As contrarrazões não foram apresentadas.
+O Tribunal local não admitiu o processamento do recurso especial pela incidência da Súmula 284 do STF.
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão do recorrente.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Imperativo destacar que, no julgamento dos embargos de declaração, expressamente enfrentou todas as questões suscitadas por [NOME], [NOME] e Advogados S.S., notadamente esclarecendo que "as demais impugnações da sociedade, não foram objeto de recurso, portanto não serão agora analisadas" - fl. 2.376 (e-STJ).
+Desse modo, ainda que a solução tenha sido contrária à pretensão do agravante, não se pode negar ter havido, por parte do Tribunal, efetivo enfrentamento e resposta aos pontos controvertidos.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial de [NOME].
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado do Sind. Empresas Transp. Coletivo Urb. Passageiros Goiânia em 2% sobre o valor atualizado da causa.
+Publique-se.
