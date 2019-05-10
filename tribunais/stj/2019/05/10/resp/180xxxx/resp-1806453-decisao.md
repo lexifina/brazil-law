@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PERT. EXCLUSÃO. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. PRECEDENTES. SÚMULA 568/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região, nesses termos ementado:
+TRIBUTÁRIO. APELAÇÃO/REMESSA NECESSÁRIA. ADESÃO AO PARCELAMENTO. PERT.
+Considerando que a legislação tributária, sobretudo no que diz respeito aos parcelamentos (entendidos como uma verdadeira benesse oferecida pelo legislador), está atrelada ao princípio da legalidade, o procedimento postulado pela impetrantes é viável.
+Sustenta a parte recorrente que o acórdão regional contrariou o art. 111 do CTN, alegando em síntese que a interpretação à qualquer forma de desoneração fiscal deve ser literal. Assim, as regras estipuladas na lei do parcelamento, ao determinarem que o contribuinte deve efetuar o pagamento de pedágio para ter direito ao benefício, o não recolhimento não cabe falar em validação de parcelamento.
+Apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A conclusão do Tribunal de origem foi no sentido de que devem ser observados os princípios da proporcionalidade e da razoabilidade quando demonstrada a boa-fé do contribuinte, privilegiando o objetivo final da lei do parcelamento, sem prejuízo ao erário, conforme se extrai do seguinte fragmento do acórdão recorrido (e-STJ fl. 132):
+A impetrante busca, em suma, sua imediata inclusão no Programa Especial de Regularização Tributária (PERT), nos termos aderidos na data de 10/11/2017 (Demais Débitos nº 08918499891135506210).
+Os documentos acostados aos autos comprovam que a contribuinte realizou o pagamento da parcela devida com o acréscimo de todos os encargos legais, tendo formulado a adesão ao programa no prazo previsto em lei (evento 1, OUT4 a COMP9).
+Em que pese a existência de curto lapso entre a data da efetivação do pagamento da primeira parcela e aquela prevista na lei que regula o programa de parcelamento, havendo, como no caso concreto, clara intenção da contribuinte de efetuar o parcelamento de sua dívida, impõe-se relativizar a observância estrita do princípio da legalidade pela Administração Pública em respeito à proporcionalidade.
+Eventual atraso no pagamento resta superado pelo adimplemento dos valores, mediante o acréscimo de juros e correção monetária, ausente prejuízo ao Fisco.
+Com efeito, o entendimento adotado pelo Tribunal quo está em consonância com a jurisprudência desta Corte. Confiram-se os seguintes julgados no mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PARCELAMENTO, DESCUMPRIMENTO DO PRAZO PARA PRESTAÇÃO DAS INFORMAÇÕES NECESSÁRIAS À CONSOLIDAÇÃO DO DÉBITO. APLICAÇÃO DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE.
+BOA-FÉ DO CONTRIBUINTE. ANÁLISE DAS PORTARIAS 6/2009 E 2/2011 DA PGFN. DIPLOMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL.
+1. Hipótese em que a Corte de origem considerou que fere os princípios da razoabilidade e da proporcionalidade a exclusão, pelo Fisco, do contribuinte impetrante do parcelamento regulado pela Lei 11.941/2009 em virtude de descumprimento de prazos estabelecidos por ato infralegal (Portaria PGFN/RFB 6/2009), para efeito de conclusão da consolidação dos débitos objeto do parcelamento.
+2. A jurisprudência do STJ reconhece a viabilidade de incidir os princípios da razoabilidade e da proporcionalidade no âmbito dos parcelamentos tributários, quando tal procedência visa evitar práticas contrárias à própria teleologia da norma instituidora do benefício fiscal, mormente se verificada a boa-fé do contribuinte e a ausência de prejuízo do erário.
+3. Além disso, o Tribunal a quo decidiu a controvérsia à luz das Portarias 06/09 e 2/11 da PGFN/RFB; afirmou, ainda, que a empresa recorrida vem honrando com os pagamentos das parcelas, sendo demasiadamente severa sua exclusão do parcelamento por não ter cumprido o prazo para prestação das informações necessárias à consolidação do débito.
+4. O STJ possui inúmeros precedentes no sentido de que Portarias e Instruções Normativas não se enquadram no conceito de lei federal.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1524302/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2015, DJe 02/09/2016)
+PROCESSUAL CIVIL. TRIBUTÁRIO. OMISSÃO INEXISTENTE. REFIS. EXCLUSÃO DO PROGRAMA. OBSERVÂNCIA DA FINALIDADE DA NORMA. PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDADE. CABIMENTO. PRECEDENTES. AUSÊNCIA DE PREJUÍZO. BOA-FÉ DO CONTRIBUINTE. ERRO FORMAL. SÚMULA 7/STJ.
+1. Mostra-se despropositada a argumentação de inobservância da cláusula de reserva de plenário (art. 97 da CRFB) e do enunciado 10 da Súmula vinculante do STF, pois, ao contrário do afirmado pela agravante, na decisão recorrida, não houve declaração de inconstitucionalidade dos dispositivos legais suscitados, tampouco o seu afastamento, mas apenas a sua exegese.
+2. O STJ reconhece a viabilidade de incidir os princípios da razoabilidade e proporcionalidade no âmbito dos parcelamentos tributários, quando tal procedência visa evitar práticas contrárias à própria teleologia da norma instituidora do benefício fiscal, mormente se verificada a boa-fé do contribuinte e a ausência de prejuízo do Erário.
+3. Se a conclusão da Corte de origem, firmada em decorrência da análise dos autos, é no sentido de que a exclusão do contribuinte do REFIS mostra-se desarrazoável e desproporcional, porquanto contrária à finalidade do programa de parcelamento, pois nenhum prejuízo causou ao erário - bem ao contrário, lhe é favorável, destaca o acórdão -, estando comprovadas a boa-fé da empresa e a mera ocorrência de erro formal, a modificação do julgado esbarra no óbice da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 482.112/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/04/2014, DJe 29/04/2014)
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
