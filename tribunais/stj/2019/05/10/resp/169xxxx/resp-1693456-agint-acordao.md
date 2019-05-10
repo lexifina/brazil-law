@@ -1,0 +1,106 @@
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO POR MORTE. CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS ENVOLVEM RELAÇÕES DE TRATO SUCESSIVO E ATENDEM NECESSIDADES DE CARÁTER ALIMENTAR, RAZÃO PELA QUAL A PRETENSÃO À OBTENÇÃO DE UM BENEFÍCIO É IMPRESCRITÍVEL. NÃO OCORRÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO. AGRAVO INTERNO DO ESTADO DE MINAS GERAIS A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, no julgamento do RE 626.489/SE, Rel. Min. ROBERTO BARROSO, DJe 23.9.2014, com repercussão geral reconhecida, firmou entendimento de que o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua consequência negativa à inércia do beneficiário, reconhecendo que inexiste prazo decadencial para a concessão inicial de benefício previdenciário.
+2. De fato, o benefício previdenciário constitui direito fundamental da pessoa humana, dada a sua natureza alimentar, vinculada à preservação da vida. Por essa razão, não é admissível considerar extinto o direito à concessão do benefício pelo seu não exercício em tempo que se julga oportuno. A compreensão axiológica dos Direitos Fundamentais não cabe na estreiteza das regras do processo clássico, demandando largueza intelectual que lhes possa reconhecer a máxima efetividade possível. Portanto, no caso dos autos, afasta-se a prescrição de fundo de direito e aplica-se a quinquenal, exclusivamente em relação às prestações vencidas antes do ajuizamento da ação.
+3. Não se pode admitir que o decurso do tempo legitime a violação de um direito fundamental. O reconhecimento da prescrição de fundo de direito à concessão de um benefício de caráter previdenciário excluirá seu beneficiário da proteção social, retirando-lhe o direito fundamental à previdência social, ferindo o princípio da dignidade da pessoa humana e da garantia constitucional do mínimo existencial.
+4. Agravo Interno do ESTADO DE MINAS GERAIS a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo ESTADO DE MINAS GERAIS contra decisão proferida às fls. 118/124, assim ementada:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. PENSÃO POR MORTE. CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS ENVOLVEM RELAÇÕES DE TRATO SUCESSIVO E ATENDEM NECESSIDADES DE CARÁTER ALIMENTAR, RAZÃO PELA QUAL A PRETENSÃO À OBTENÇÃO DE UM BENEFÍCIO É IMPRESCRITÍVEL. RECURSO ESPECIAL DO ESTADO DE MINAS GERAIS A QUE SE NEGA SEGUIMENTO.
+2. Argumenta-se que o entendimento adotado não se alinha a jurisprudência dominante quanto ao tema de que a prescrição atinge o próprio fundo de direito quando transcorridos mais de cinco anos entre a morte do instituidor (servidor público estadual) e o ajuizamento da ação em que se postula o reconhecimento do benefício da pensão por morte, e que o requerimento administrativo formulado quando já operada a prescrição do próprio fundo de direito não tem o condão de reabrir o prazo prescricional (AgInt no AREsp. 234.200/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Rel. para o acórdão Min. BENEDITO GONÇALVES, DJe 20.11.2018).
+3. Não houve impugnação.
+4. É o relatório.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO POR MORTE. CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS ENVOLVEM RELAÇÕES DE TRATO SUCESSIVO E ATENDEM NECESSIDADES DE CARÁTER ALIMENTAR, RAZÃO PELA QUAL A PRETENSÃO À OBTENÇÃO DE UM BENEFÍCIO É IMPRESCRITÍVEL. NÃO OCORRÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO. AGRAVO INTERNO DO ESTADO DE MINAS GERAIS A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, no julgamento do RE 626.489/SE, Rel. Min. ROBERTO BARROSO, DJe 23.9.2014, com repercussão geral reconhecida, firmou entendimento de que o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua consequência negativa à inércia do beneficiário, reconhecendo que inexiste prazo decadencial para a concessão inicial de benefício previdenciário.
+2. De fato, o benefício previdenciário constitui direito fundamental da pessoa humana, dada a sua natureza alimentar, vinculada à preservação da vida. Por essa razão, não é admissível considerar extinto o direito à concessão do benefício pelo seu não exercício em tempo que se julga oportuno. A compreensão axiológica dos Direitos Fundamentais não cabe na estreiteza das regras do processo clássico, demandando largueza intelectual que lhes possa reconhecer a máxima efetividade possível. Portanto, no caso dos autos, afasta-se a prescrição de fundo de direito e aplica-se a quinquenal, exclusivamente em relação às prestações vencidas antes do ajuizamento da ação.
+3. Não se pode admitir que o decurso do tempo legitime a violação de um direito fundamental. O reconhecimento da prescrição de fundo de direito à concessão de um benefício de caráter previdenciário excluirá seu beneficiário da proteção social, retirando-lhe o direito fundamental à previdência social, ferindo o princípio da dignidade da pessoa humana e da garantia constitucional do mínimo existencial.
+4. Agravo Interno do ESTADO DE MINAS GERAIS a que se nega provimento.
+AgInt no RECURSO ESPECIAL Nº 1.693.456 - MG (2017/0222540-3)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+AGRAVANTE
+:
+ESTADO DE MINAS GERAIS
+AGRAVANTE
+:
+INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO MG
+PROCURADORES
+:
+[NOME] E [NOME] - [OAB]
+
+ESTER VIRGÍNIA SANTOS - [OAB]
+AGRAVADO
+:
+[NOME]
+ADVOGADO
+:
+[NOME] - [OAB]
+VOTO
+1. Reanalisando a questão ora trazida para exame desta Corte Superior, tem-se que a parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. O processo previdenciário tutela um direito de relevância social fundamental. Na ação previdenciária há uma presumível contingência social, em razão do caráter alimentar da prestação, que se relaciona com a sobrevivência digna do autor da ação. Soma-se, a tais peculiaridades, a costumeira hipossuficiência econômica e informacional dos titulares de direitos previdenciários.
+3. Tais contornos especiais demandam do julgador um olhar diferenciado para as pretensões que envolvem a concessão de uma prestação previdenciária, permitindo a adoção de técnicas diferenciadas de análise, mais condizentes com a realização das exigências de um direito fundamental, a fim de garantir um processo justo, que dê efetividade à proteção social que estas demandas encerram.
+4. Os benefícios previdenciários envolvem relações de trato sucessivo e atendem necessidades de caráter alimentar, razão pela qual não se admite a tese de prescrição do fundo de direito, como sustentado pelo Estado. As prestações previdenciárias tem características de direitos indisponíveis, daí porque o benefício previdenciário em si não prescreve, somente as prestações não reclamadas no lapso de cinco anos é que prescreverão, uma a uma, em razão da inércia do beneficiário.
+5. Nesse mesmo sentido, aliás, é a lição do ilustre [NOME]:
+A situação jurídica fundamental em direito previdenciário é, evidentemente, o direito ao benefício previdenciário integralmente considerado. De sua parte, o direito a perceber as diferenças devidas que decorem de uma situação jurídica fundamental (direito ao benefício) "renasce cada vez" em que o direito é devido, conforme a periodicidade de seu pagamento, e, "por isso se restringe às prestações vencidas há mais de cinco anos".
+Nas obrigações previdenciárias, por se traduzirem em obrigações de trato sucessivo, o direito aos valores devidos se renova de tempo em tempo, pois o prazo prescricional renasce a cada vez que se torna exigível a prestação seguinte (Direito Processual Previdenciário. Curitiba: Juruá, 2012, p. 310).
+6. Da mesma forma, lecionam os Professores JOÃO BATISTA LAZZARI e [NOME]:
+A regra geral de prescritibilidade dos direitos patrimoniais existe em face da necessidade de se preservar a estabilidade das situações jurídicas. Entretanto, as prestações previdenciárias têm finalidades que lhes emprestam características de direitos indisponíveis, atendendo a uma necessidade de índole eminentemente alimentar. Daí que o direito ao benefício previdenciário em si não prescreve, mas tão-somente as prestações não reclamadas dentro de certo tempo, que vão prescrevendo, uma a uma, em virtude da inércia do beneficiário (LAZZARI, João Batista e CASTRO, Carlos Alberto Pereira de. MANUAL DE DIREITO PREVIDENCIÁRIO, São Paulo: LTr, 2015, p. 542).
+7. Confirmando tais premissas, esta Corte fixou a orientação de que, cumpridas as formalidades legais, o direito ao benefício previdenciário incorpora-se ao patrimônio jurídico do beneficiário, não podendo ser objeto, destarte, de modificação ou extinção.
+8. A propósito, os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCESSÃO DE PENSÃO POR MORTE. INOCORRÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO. SÚMULA 85/STJ. AGRAVO REGIMENTAL DO ESTADO DO MARANHÃO DESPROVIDO.
+1. Os benefícios previdenciários envolvem relações de trato sucessivo e atendem necessidades de caráter alimentar, razão pela qual a pretensão à obtenção de um benefício é imprescritível.
+2. As prestações previdenciárias tem características de direitos indisponíveis, daí porque o benefício previdenciário em si não prescreve, somente as prestações não reclamadas no lapso de cinco anos é que prescreverão, uma a uma, em razão da inércia do beneficiário, nos exatos termos do art. 3o. do Decreto 20.910/32.
+3. É firme a orientação desta Corte Superior de que não ocorre a prescrição do fundo de direito no caso de inexistir manifestação expressa da Administração negando o direito reclamado, estando prescritas apenas as prestações vencidas no quinquênio que precedeu à propositura da ação, nos termos da Súmula 85/STJ.
+4. Agravo Regimental do ESTADO DO MARANHÃO desprovido (AgRg no REsp. 1.429.237/MA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 5.10.2015).
+
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. PREVIDENCIÁRIO. REQUERIMENTO ADMINISTRATIVO DE BENEFÍCIO. INDEFERIMENTO. MARCO INICIAL PARA CONTAGEM DO PRAZO PRESCRICIONAL QUINQUENAL. EFEITOS DA PRESCRIÇÃO. REVERSÃO DO INDEFERIMENTO. IMPRESCRITIBILIDADE DO FUNDO DE DIREITO. PRECEDENTES.
+1. Não há falar em violação dos arts. 103 e 103-A da Lei 8.213/91, porquanto, no caso concreto, não se discute a revisão do ato de concessão de benefício, mas sim o direito de revisão do ato de indeferimento do pedido administrativo de restabelecer o auxílio-doença.
+2. No caso dos autos, com o indeferimento definitivo do requerimento pelo INSS nasceu a pretensão resistida à reversão do entendimento administrativo, fazendo surgir os efeitos da prescrição e a aplicação do disposto no art. 1º do Decreto 20.910/32. Assim, tendo o Tribunal a quo consignado que a ação foi ajuizada mais de 9 (nove) anos após o conhecimento do marco indeferitório, é de se reconhecer a prescrição.
+3. Saliente-se que não há prescrição do fundo de direito da parte à concessão do benefício, pois este é imprescritível, permanecendo incólume o seu direito à obtenção do auxílio-doença ou qualquer outro benefício, se comprovar que atende os requisitos legais.
+Agravo regimental improvido (AgRg no REsp. 1.534.861/PB, Rel. Min. HUMBERTO MARTINS, DJe 25.8.2015).
+
+PREVIDENCIÁRIO. BENEFÍCIO NEGADO PELO INSS. PRESCRIÇÃO DO FUNDO DE DIREITO. INEXISTÊNCIA. PRECEDENTES.
+1. O direito à concessão de benefício do Regime Geral da Previdência Social ou benefício assistencial da LOAS pode ser exercido a qualquer tempo, não havendo que se falar em prescrição do fundo de direito quando negado na via administrativa. Precedentes: AgRg no REsp 1471798/PB, Rel. Ministro Humberto Martins, Segunda Turma, DJe 06/10/2014; AgRg no AREsp 364.526/CE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 28/08/2014; AgRg no AREsp 493.997/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 09/06/2014; AgRg no AREsp 506.885/SE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 02/06/2014; AgRg no REsp 1376033/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 09/04/2014.
+2. Agravo regimental improvido (AgRg no AREsp. 336.322/PE, Rel. Min. BENEDITO GONÇALVES, DJe 8.4.2015).
+
+PREVIDENCIÁRIO. CONCESSÃO DE PENSÃO POR MORTE. BENEFÍCIO DE RENDA MENSAL VITALÍCIA CONCEDIDO ERRONEAMENTE PELA ADMINISTRAÇÃO ANTES DA MEDIDA PROVISÓRIA. TRIBUNAL CONSIDEROU CORRETA A CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. DECADÊNCIA NÃO CONFIGURADA.
+1. Caracterizado o benefício previdenciário como de caráter eminentemente alimentar, constituindo obrigação periódica e de trato sucessivo, não admite a pretendida prescrição do fundo do direito, mas tão somente das parcelas vencidas há mais de cinco anos, consoante já fixado pela Súmula 85/STJ.
+2. O caput do art. 103 da Lei 8.213/1991 está voltado tão somente para o ato revisional de concessão do benefício. Não há que falar em prescrição do fundo de direito quando se trata de concessão de benefício previdenciário, inserido no rol dos direitos fundamentais.
+3. O Tribunal de origem, mediante análise das provas dos autos, acolheu a argumentação da autora de que seu falecido cônjuge fazia jus à aposentadoria por invalidez, e não à Renda Mensal Vitalícia.
+Agravo regimental improvido (AgRg no REsp. 1.502.460/PR, Rel. Min. HUMBERTO MARTINS, DJe 11.3.2015).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DECADÊNCIA. NÃO OCORRÊNCIA. ART. 103 CAPUT DA LEI 8.213/1991 APLICÁVEL AO ATO DE REVISÃO DO BENEFÍCIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No presente caso, o benefício previdenciário ainda não foi concedido. O caput do art. 103 da Lei 8.213/1991 está voltado tão somente para o ato revisional de concessão do benefício. Prescrição do fundo de direito não há, quando se trata de concessão de benefício previdenciário, inserido no rol dos direitos fundamentais.
+2. Agravo regimental não provido (AgRg no AREsp. 493.997/PR, Rel. Min. MAURO CAMPBELL MARQUES, DJe 9.6.2014).
+9. Tal orientação foi também afirmada pelo Supremo Tribunal Federal, no julgamento do RE 626.489/SE, julgado sob o rito de repercussão geral, no qual o Exmo. Min. Rel. LUÍS ROBERTO BARROSO afirma que o direito à concessão de benefício previdenciário constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Vale aqui a transcrição do voto:
+No tocante ao direito à obtenção de benefício previdenciário, a disciplina legislativa não introduziu prazo algum. Vale dizer: o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua qualquer consequência negativa à inércia do beneficiário. Esse ponto é reconhecido de forma expressa no art. 102, § 1o., 6 da Lei 8.213/1993, bem como em diversas passagens em que a referida lei apenas dispõe que o atraso na apresentação do requerimento fará com que o benefício seja devido a contar do pedido, sem efeito retroativo. Nesse sentido, permanecem perfeitamente aplicáveis as Súmulas 443/STF e 85/STJ, na medida em que registram a imprescritibilidade do fundo de direito do benefício não requerido.
+10. Não se pode admitir que o decurso do tempo legitime a violação de um direito fundamental. O reconhecimento da prescrição de fundo de direito à concessão de um benefício de caráter previdenciário excluirá seu beneficiário da proteção social, retirando-lhe o direito fundamental à previdência social, ferindo o princípio da dignidade da pessoa humana e da garantia constitucional do mínimo existencial.
+11. Nesse sentido, cabe trazer a valiosa lição dos Professores JOSÉ ANTÔNIO [NOME], DIEGO HENRIQUE SCHUSTER e [NOME]:
+Em tema de proteção social, o regime de preclusão temporal pode conduzi a pessoa a uma condição de destituição perpétua de recursos necessários para sua subsistência, entregando-a à própria sorte, mesmo quando seja inegável que faz jus a determinada forma de proteção social. O decurso do tempo não legitima a violação de nenhum dos direitos humanos e fundamentais, os quais devem ser respeitados em sua integralidade.
+A norma jurídica infraconstitucional que, em caso de violação estatal do direito à previdência social, estipula limite de prazo para o requerimento de tutela jurisdicional tendente a determinar a cessação da violação desses direitos humanos, a um só tempo, malfere o direito ao mínimo existencial de que se reveste o direito fundamental à previdência social e implica denegação de justiça.
+Pela primeira via, o decurso do tempo separará a pessoa da proteção social a que a faz jus, de modo que o instituto da prescrição do fundo de direito, nesta seara, pode iludir o direito fundamental à previdência social (CF/1988, art. 6o., caput) e, por consequência, o princípio fundamental da dignidade humana (CF/1988, art. 1o., III). Pela segunda via, a prescrição do fundo de direito revela-se violadora do direito constitucional de acesso à justiça (CF/1988, art. 5o., XXXV) e do direito a um remédio jurídico eficaz que proteja contra atos que violem seus direitos fundamentais reconhecidos pela Constituição ([NOME], José Antônio; SCHUSTER, Diego Henrique/ VAZ, Paulo Afonso Brum Vaz. A Garantia da Coisa Julgada no Processo Previdenciário. Curitiba: Alteridade, 2018, p. 138-139).
+12. Assim, o pedido de concessão do benefício de pensão por morte deve ser tratado como uma relação de trato sucessivo, que atende necessidades de caráter alimentar, razão pela qual a pretensão à obtenção de um benefício é imprescritível. Assim, não havendo óbice legal a que se postule o benefício pretendido em outra oportunidade, o benefíciário pode postular sua concessão quando dele necessitar. Sendo inadmissível a imposição de um prazo para a proteção judicial que lhe é devida pelo Estado.
+13. A propósito, citem-se os recentes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. OFENSA AO ART. 535 DO CPC NÃO CARACTERIZADA. REAJUSTE DE VENCIMENTOS. 24%. LEI ESTADUAL 1.206/87. PRESCRIÇÃO. SÚMULA 85/STJ. LIMITES DA COISA JULGADA E NECESSIDADE DE PRODUÇÃO DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+(..).
+2. Inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ).
+(..).
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 395.373/RJ, Rel. Min. SÉRGIO KUKINA, DJe 16.5.2014).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. 24%. LEI ESTADUAL 1.206/87. PRESCRIÇÃO. SÚMULA 85/STJ. RESERVA DO FINANCEIRO. LC 101/2000. NÃO VIOLAÇÃO. OFENSA À COISA JULGADA. VERIFICAÇÃO DOS ELEMENTOS CONFIGURADORES ENTRE AÇÕES. SÚMULA 7/STJ.
+1. Inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula nº 85 do STJ). Precedente.
+(..).
+4. Agravo regimental não provido (AgRg no AREsp. 463.663/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 26.3.2014).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PODER JUDICIÁRIO DO RIO DE JANEIRO. REAJUSTE DE VENCIMENTOS. RESIDUAL DE 24%. LEI ESTADUAL 1.206/1987. PRESCRIÇÃO. SÚMULA 280/STF. SÚMULA 85/STJ. COISA JULGADA. LIMITES. SÚMULA 283/STF. SÚMULA 7/STJ.
+1. Além da análise do prazo prescricional depender da interpretação dada à Lei Estadual 1.206/1987, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ).
+(..).
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 478.657/RJ, Rel. Min. SÉRGIO KUKINA, DJe 25.3.2014).
+14. Ante o exposto, nega-se provimento ao Agravo Interno do ESTADO DE MINAS GERAIS. É como voto.
