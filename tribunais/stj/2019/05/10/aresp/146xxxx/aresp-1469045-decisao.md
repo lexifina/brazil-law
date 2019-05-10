@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF. INTERPRETAÇÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado da Bahia, que negou admissibilidade ao especial sob a compreensão de que
+inexiste violação ao art. 535 do Código de Processo Civil de 1973, uma vez que o acórdão recorrido analisou todas as questões aludidas pelas partes, deixando claro os seus fundamentos de forma que inexiste omissão, contradição, obscuridade, ausência de fundamentação ou lacuna legislativa.
+No que concerne a alegada infringência aos arts. 50, 52, 53, 57 e 58 da Lei Estadual no 7.990/01, aplica-se analogicamente a Súmula 280/ STF: por ofensa a direito local não cabe recurso extraordinário.
+ ..  verifica-se que, quanto à suposta violação ao artigo 333 do CPC, é forçoso reconhecer que a pretensão recursal torna imperativo o revolvimento do acervo fático-probatório coligido ao in folio. Sendo assim, impende destacar a incidência do enunciado nº 7, da súmula de jurisprudência dominante do Superior Tribunal de Justiça, cujo teor prescreve que "A pretensão de simples reexame de prova não enseja recurso especial.
+Contra tal compreensão sobreveio o presente agravo.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Em verdade, constata-se que o Tribunal a quo enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia.
+Os embargos de declaração opostos na origem não podem ser destinados ao "acréscimo de razões que para a parte pareçam significativas, mas que, para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar" (EDcl nos EDcl no AgRg no AgRg no REsp 792.547/DF, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 19.8.2013), pois é certo que "não cabe ao Tribunal, que não é órgão de consulta, responder a questionários postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do "decisum" (..)" (EDcl no REsp 739/RJ, Rel. Min. ATHOS CARNEIRO, QUARTA TURMA, DJ de 11.3.1991, p. 2395).
+Incidente o disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário" quanto a alegação de malferimento dos artigos 50, 52, 53, 57 e 58 da Lei nº 7.990/2001.
+O julgador pode apreciar o pedido com base nos elementos probatórios que entender suficientes para a formação de seu convencimento. Não há indícios de nulidade processual quando o magistrado, destinatário das provas, avaliar quanto a necessidade e a suficiência delas. A revisão de tal juízo, forçoso concluir, demanda incursão no acervo fático-probatório dos autos, o que, conforme assentada jurisprudência, encontra óbice na Súmula nº 7/STJ. A respeito, cite-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO POR DANOS MORAIS. INSUFICIÊNCIA DE PROVAS DOCUMENTAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO IMPROVIDO.
+1. A jurisprudência do STJ se firmou no sentido de que a avaliação acerca da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e a necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+2. (..).
+3. Agravo regimental improvido.
+(AgRg no AREsp 577.110/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 04/11/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE RESSARCIMENTO AO ERÁRIO POR DANOS MATERIAIS. ATO ILÍCITO. REPASSE DE VERBAS. RETENÇÃO APÓS TRÂNSITO EM JULGADO DE DECISÃO QUE DENEGA A SEGURANÇA. RESSARCIMENTO. VIOLAÇÃO DO ART. 331, I, DO CPC. SÚMULA 7/STJ.
+1. O Tribunal a quo expressamente se manifestou sobre seu convencimento a respeito da suficiência de provas, a demonstrar ato ilícito da empresa recorrente. Desse modo, para aferir se as provas são suficientes ou se o recorrido desincumbiu-se de seu ônus probatório, para análise de eventual violação do art. 333, I, do CPC, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, ante o óbice da Súmula 7 do STJ.
+2. No sistema de persuasão racional adotado pelos arts. 130 e 131 do CPC, cabe ao magistrado determinar a conveniência e a necessidade da produção probatória, mormente quando, por outros meios, já esteja persuadido acerca da verdade dos fatos.
+Agravo regimental improvido.
+(AgRg no AREsp 568.056/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/10/2014).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
