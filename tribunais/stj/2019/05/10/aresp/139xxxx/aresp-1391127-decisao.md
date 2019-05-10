@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o ora agravante foi denunciado, como incurso no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), tendo o magistrado desclassificado a conduta para o art. 28 da Lei n. 11.343/2006 e absolvido o réu por entender que a conduta não constitui infração penal (fls. 145/172).
+Irresignada, a acusação apelou, tendo o Tribunal de origem dado provimento ao recurso, conforme o acórdão de fls. 256/266, assim ementado:
+APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS. SENTENÇA ABSOLUTÓRIA. PROVA DA MATERIALIDADE E DA AUTORIA. PRETENSÃO CONDENATÓRIA ACOLHIDA. Confirmado por elementos de convicção recolhidos na instrução processual que a substância entorpecente apreendida era de propriedade do processado e se destinava ao comércio ilícito, pela considerável quantidade, confissão na fase extrajudicial e delação de usuários no flagrante delito, encontrado instrumento relacionado ao tráfico de drogas, deve ocorrer o apenamento por violação do art. 33, caput, da Lei nº 11.343/06. APELO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 285/292).
+Na sequência, a defesa interpôs o recurso especial, no qual alega violação do art. 157,caput, § 1º, do Código de Processo Penal, sustentando que o Tribunal condenou o agravante com base em prova considerada ilícita.
+Aduz que "toda a persecução penal no caso em comento se desenvolveu a partir da inicial prova ilícita, a qual, em decorrência do comando normativo esculpido no art. 157, caput, e § 1o, do Código de Processo Penal, ante o inafastável nexo de causalidade, acabou por contaminar todas as demais provas produzidas com a ilicitude originária, certo que, no caso dos autos, não se há falar em independent source ou inevitable discovery, a autorizar a utilização da prova derivada" (fl. 309). Requer o reconhecimento da ilicitude das provas e a nulidade do processo.
+A r. decisão agravada não admitiu o recurso especial pela incidência da Súmula n. 7 desta Corte (fls. 340/341). Contraminuta às fls. 366/367. O Ministério Público Federal opina pelo desprovimento do recurso (fls. 380/385).
+É o relatório. Decido.
+O recurso não merece provimento.
+O Tribunal de origem entendeu configurado o crime de tráfico de drogas asseverando (fl. 262)
+Confirmado por elementos de convicção recolhidos na instrução processual que a substância entorpecente apreendida era de propriedade do processado e se destinava ao comércio ilícito, pela considerável quantidade, confissão na fase extrajudicial e delação de usuários no flagrante delito, encontrado instrumento relacionado ao tráfico de drogas, deve ocorrer o apenamento por violação do art. 33, caput, da Lei nº 11.343/06.
+Assim, verifica-se que a questão da ilicitude da prova não foi objeto de debate pelo Tribunal a quo, que condenou o agravante com base na confissão na fase extrajudicial e delação de usuários no flagrante delito. Desse modo, carece o presente apelo extremo do requisito indispensável do prequestionamento, incidindo, na hipótese, a Súmula n. 211 desta Corte.
+De outra parte, para se concluir que a condenação se deu amparada em provas ilícitas, imprescindível o revolvimento do suporte fático-probatório dos autos, o que é vedado em recurso especial, a teor do verbete n. 7 da Súmula do STJ.
+Diante do exposto, conheço do agravo e nego provimento ao recurso.
+Publique-se. Intimem-se.
