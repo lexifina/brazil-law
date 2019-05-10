@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais manteve o posicionamento do Juízo o qual entendeu procedente o pedido de indenização decorrente de danos morais. No extraordinário cujo trânsito busca alcançar, o recorrente alega violação do artigo 5º, inciso XXXIV, da Constituição Federal. Sustenta a impossibilidade de imposição de sanção decorrente do exercício do direito de petição e a inocorrência de dano ou ofensa à parte recorrida.
+    2. No julgamento da ação originária nº 1.390, o Supremo assentou:
+    Embora seja livre a manifestação do pensamento, tal direito não é absoluto. Ao contrário, encontra limites em outros direitos também essenciais para a concretização da dignidade da pessoa humana: a honra, a intimidade, a privacidade e o direito à imagem. As pessoas públicas estão sujeitas a críticas no desempenho de suas funções. Todavia, essas não podem ser infundadas e devem observar determinados limites. Se as acusações destinadas são graves e não são apresentadas provas de sua veracidade, configurado está o dano moral.
+    (Pleno, relator o ministro Dias Toffoli, acórdão publicado no Diário da Justiça eletrônico de 30 de agosto de 2011).
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a ementa do acórdão recorrido:
+    APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PROCEDIMENTOS JUDICIAIS ABUSIVOS DIRIGIDOS CONTRA JUIZ DE DIREITO. FLAGRANTE INTUITO DE RETALIAÇÃO. CONTEÚDO EM TOM DESRESPEITOSO. ACUSAÇÃO INSUBSISTENTE DA PRÁTICA DE CRIMES. VIOLAÇÃO À IMAGEM, HONRA E BOM NOME. COMPENSAÇÃO. ARBITRAMENTO. CRITÉRIO.
+    - O direito de ação ou de petição não é absoluto de modo a permitir que seu titular haja de forma ilimitada, lançando acusações desmedidas e inconsequentes contra quem quer que seja, em tom desrespeitoso, o que se agrava quando tal medida é dirigida a autoridades judiciais no exercício de seu mister. Hipótese de dano moral puro (in re ipsa).
+    - É imprescindível que se realize o arbitramento do dano moral com moderação, em atenção à realidade da vida e às peculiaridades de cada caso, proporcionalmente ao grau de culpa e ao porte econômico das partes. Ademais, não se pode olvidar, consoante parcela da jurisprudência pátria, acolhedora da tese punitiva acerca da responsabilidade civil, da necessidade de desestimular o ofensor a repetir o ato.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso. Nesse sentido: agravo regimental no agravo de instrumento nº 811.217, Segunda Turma, relatora a ministra Cármen Lúcia, acórdão publicado no Diário da Justiça eletrônico de 5 de dezembro de 2012; agravo regimental no recurso extraordinário com agravo nº 730.067, Primeira Turma, relator o ministro Luiz Fux, acórdão publicado no Diário da Justiça eletrônico de 1º de agosto de 2013.
+    A par disso, o Tribunal decidiu, quando do julgamento do recurso extraordinário com agravo nº 945.271, relator o ministro Edson Fachin, não possuir repercussão geral a matéria relativa à indenização por dano moral decorrente de responsabilidade civil extracontratual Tema 880.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
