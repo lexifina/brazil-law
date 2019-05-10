@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer, fundada na ilegalidade dos valores da mensalidade dos planos de saúde, cobrados após a aposentadoria.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. Nas hipóteses de cancelamento de contrato de plano de saúde coletivo firmado entre a seguradora e a ex-empregadora do beneficiário, não há fundamento legal para obrigar o plano de saúde a manter o ex-empregado no contrato coletivo extinto, com as mesmas condições e valores anteriormente vigentes. Todavia, o beneficiário possui direito a ser incluído no novo plano de saúde coletivo estipulado pela ex-empregadora, com as mesmas condições de cobertura assistencial disponibilizada aos empregados ativos, ou fazer a migração para plano de saúde na modalidade individual ou familiar, sem cumprimento de novos prazos de carência, desde que se submeta às novas regras e encargos inerentes a essa modalidade contratual. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+5. Recurso especial parcialmente conhecido e, nesta parte, provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] - COOPERATIVA DE TRABALHO MÉDICO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 17/08/2017.
+Concluso ao gabinete em: 19/07/2018.
+Ação: de obrigação de fazer, ajuizada por [NOME], em face da recorrente e de KOSTAL ELETROMECANICA LTDA., fundada na ilegalidade dos valores da mensalidade dos planos de saúde cobrados após a aposentadoria.
+Sentença: julgou improcedente a pretensão do recorrido.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrido, nos termos da seguinte ementa:
+PLANO DE SAÚDE - Recurso adesivo recebido como apelação, diante do princípio da fungibilidade e da inexistência de recurso da parte contrária - Ilegitimidade passiva da ex-empregadora - Ação de obrigação de fazer com pedido de tutela antecipada - Plano de saúde - Ex-empregado - Aplicação do artigo 31 da Lei nº 9.656/98 - Manutenção em plano de saúde de mesmas condições contratuais vigentes durante a relação de emprego, inclusive financeira, arcando, porém, com a integralidade da mensalidade - Sentença reformada - Recurso parcialmente provido.
+Recurso especial: alega violação do art. 31 da Lei 9.656/98, bem como dissídio jurisprudencial.
+Afirma que a partir de 01/04/2017 teria deixado de existir, pois a sua carteira de beneficiários e ativos foram transferidos para o Grupo Notre Dame Intermédica (GNDI), motivo pelo qual não poderia manter o recorrido no plano assistencial.
+Sustenta ainda que a ex-empregadora do recorrido (KOSTAL) rescindiu o contrato prestação de serviços médico-hospitalares e teria firmado nova avença com outra operadora, razão pela qual o benefício do recorrido teria sido cancelado e deveria ele acompanhar o novo plano oferecido aos empregados ativos.
+Defende a manutenção da ex-empregadora do recorrido (KOSTAL) no polo passivo da demanda e assevera que a sua condenação ao pagamento de custas, despesas processuais e honorários advocatícios no importe de 15% sobre o valor da causa seria incabível.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial que, quanto à manutenção da ex-empregadora do recorrido no polo passivo da demanda e ao não cabimento da sua condenação ao pagamento de custas, despesas processuais e honorários advocatícios, o recorrente não alega violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto à transferência de sua carteira de beneficiários e ativos para o Grupo Notre Dame Intermédica (GNDI). Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que nas hipóteses de cancelamento de contrato de plano de saúde coletivo firmado entre a seguradora e a ex-empregadora do beneficiário, não há fundamento legal para obrigar o plano de saúde a manter o ex-empregado no contrato coletivo extinto, com as mesmas condições e valores anteriormente vigentes. Todavia, o beneficiário possui direito a ser incluído no novo plano de saúde coletivo estipulado pela ex-empregadora, com as mesmas condições de cobertura assistencial disponibilizada aos empregados ativos, ou fazer a migração para plano de saúde na modalidade individual ou familiar, sem cumprimento de novos prazos de carência, desde que se submeta às novas regras e encargos inerentes a essa modalidade contratual. Nesse sentido: AgInt no REsp 1686240/SP, 4ª Turma, DJe de 27/08/2018; AgInt no AREsp 891.990/RS, 4ª Turma DJe 09/02/2018; REsp 1471569/RJ, 3ª Turma, DJe 07/03/2016; e REsp 1280908/SP, 3ª Turma, DJe de 06/04/2015.
+Na hipótese, o Tribunal de origem decidiu que a rescisão do contrato de prestação de serviços médicos celebrado entre a recorrente e a ex-empregadora do recorrido (KOSTAL) em 15/02/2016, não atingiria o plano de saúde do recorrido (e-STJ, fl. 255), em dissonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
