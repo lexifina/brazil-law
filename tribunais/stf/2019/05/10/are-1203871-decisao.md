@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 10ª Câmara Extraordinária de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 91):
+    “EFEITO SUSPENSIVO DE APELAÇÃO
+    Pedido de processamento da apelação da FESP com efeito suspensivo. Descabimento. Requisitos ausentes (art. 1.012, §4º, do CPC). Não configurada situação excepcional, nos termos do arts. 14, § 3º c/c 7º, § 2º da Lei nº 12.016/09. Por fim, o julgamento do recurso torna inócuo o pedido.
+    Pedido indeferido.
+    COMPUTO DO TEMPO DE DIRETOR PARA FINS DE APOSENTADORIA ESPECIAL
+    Professor/Diretor Escolar. Aposentadoria especial. Possibilidade. Requisitos preenchidos (art. 40, § 5º, da CF e Lei Federal nº 9.394/96, em seu art. 67, § 2º, acrescentado pela Lei Federal nº 11.301/06). Legalmente admitido o computo do período na função de Diretor Escolar na Rede Pública de Ensino. Precedentes.
+    Recursos não providos, com observação.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 1-6).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 40, § 1º, III, a, e § 5º; da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a impetrante não pertence ao quadro do magistério, não é professor de carreira, e, portanto, não pode ser beneficiada pelo disposto no artigo 40, § 1º, III, “a” e § 5º da Constituição Federal” (eDOC 3, p. 12).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando que não restou evidenciado o suposto maltrato às normas constitucionais enunciadas, bem como a incidência à espécie dos óbices das Súmulas 636 e 279 do STF (eDOC 3, p. 42/43).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, consigno que o entendimento adotado no acórdão recorrido revelam-se em consonância com a jurisprudência pacífica desta Corte, segundo a qual “a função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção da unidade escolar”. Nesse sentido:
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, § 5º, E 201, § 8º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME. I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar. II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 5º, e 201, § 8º, da Constituição Federal. III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra.” (ADI 3772, Rel. Min. Carlos Britto, Tribunal Pleno, DJe 29.10.2009).
+    Confira-se, ainda, o RE-RG 1.039.644, de relatoria do Ministro Alexandre de Moraes, DJe 13.11.2017, oportunidade em que o Plenário, sob a sistemática da repercussão geral (Tema 965), fixou a seguinte tese:
+    “Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio.”
+    Por fim, verifica-se que o Tribunal de origem, ao apreciar a apelação, asseverou “apresenta-se o impetrante como servidor pertencente ao quadro do magistério da Secretaria de Estado da Educação de São Paulo desde 16.11.84, contando, em 06.04.16, com 31 anos, 4 meses e 27 dias de efetivo exercício (fls. 18/19)” (eDOC 2, p. 93). Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo, especial quanto a pertencer, ou não, a parte ora recorrida ao quadro do magistério, demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a e b, do CPC.
+    Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 10 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
