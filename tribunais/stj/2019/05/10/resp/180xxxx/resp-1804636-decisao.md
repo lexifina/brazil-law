@@ -1,0 +1,62 @@
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. AFRONTA AO ART. 33, CAPUT, DA LEI N. 11.343/2006 E AOS ARTS. 155, CAPUT, 158 E 167, TODOS DO CPP. LAUDO TOXICOLÓGICO DEFINITIVO SEM ASSINATURA. MERA IRREGULARIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do mesmo Estado, assim ementado (fl. 349):
+"PENAL ESPECIAL - TRÁFICO ILÍCITO DE DROGAS E PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. TRÁFICO DE DROGAS. AUSÊNCIA DE LAUDO TOXICOLÓGICO DEFINITIVO VÁLIDO. LAUDO APÓCRIFO. IMPRESCINDIBILIDADE. MATERIALIDADE DO CRIME DE TRÁFICO NÃO COMPROVADA. INFRAÇÃO DESCARACTERIZADA. ABSOLVIÇÃO DECRETADA COM RELAÇÃO AO CRIME DE TRÁFICO DE DROGAS. PRELIMINAR SUSCITADA DE OFÍCIO. - Para o reconhecimento da existência de crime de tráfico de drogas, em qualquer de suas modalidades, é indispensável o exame pericial definitivo para a comprovação da materialidade, não podendo ser suprido por qualquer outro meio de prova.
+ABSOLVIÇÃO DO CRIME DE PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO - AUSÊNCIA DE ARMA DE FOGO - IRRELEVÂNCIA - CRIME DE PERIGO ABSTRATO.
+- Se o laudo concluiu pela eficiência das munições apreendidas, irrelevante que as mesmas estivessem desacompanhadas de arma de fogo, uma vez que o crime de porte ilegal de arma de fogo, acessórios e munições é de perigo abstrato, bastando o oferecimento de potencial poder de lesão.
+REDUÇÃO DA PENA -BASE - DESCABIMENTO - REPRIMENDA FIXADA NO MÍNIMO LEGAL.
+- Se a pena -base já foi fixada no mínimo admitido em lei, não há qualquer alteração a se fazer, porquanto inexiste prejuízo ao condenado.
+CRIME DE PORTE ILEGAL DE MUNIÇÕES. MITIGAÇÃO DE REGIME. VIABILIDADE.
+- Em razão do quantum de pena aplicado, mostra-se possível a mitigação do regime prisional.
+SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE. RECURSO DEFENSIVO PARCIALMENTE PROVIDO.
+- Preenchidos os requisitos do art. 44, do Código Penal, cabível a substituição da pena corporal por restritivas de direitos. V.V. A definição típica do artigo 33 da Lei nº. 11.343106 é de conteúdo variado, prevendo diversas condutas como forma de um mesmo crime.
+- A apreensão de drogas que o agente mantinha sob a sua guarda, diante das circunstâncias fáticas e da prova testemunhal produzida, constituem elementos suficientes para manutenção da condenação pelo delito do artigo 33 da Lei nº. 11.343/06, afastando os pleitos absolutório e desclassificatório.
+- Restando demonstrado nos autos a dedicação do agente às atividades criminosas, afasta-se a possibilidade de aplicação da causa especial de redução de pena insculpida no §4º do artigo 33 da Lei nº. 11.343106.
+- Acusado condenado a pena superior a quatro anos não faz jus à benesse da substituição da pena corporal por restritiva de direitos, por expressa vedação legal (art. 44, I e II, do CP).
+- Mantém-se o regime fechado, considerando o quantum da pena, a teor do art. 33, §2, alínea "b" e "c" do CP.
+- Não se concede o direito de recorrer em liberdade quando demonstrado que a prisão provisória se mostra necessária a bem da ordem pública. (Des. Júlio Gutteirrez)."
+Opostos embargos de declaração, estes foram rejeitados (fls. 444-455).
+Nas razões do recurso especial, o Parquet sustenta violação aos art. 33, caput, c/c art. 40, inciso VI, art. 50, caput, e §§ 1º e 2º, art. 55, § 5º, e art. 56, todos da Lei n. 11.343/2006; bem como aos arts. 155, caput, 158 e 167, todos do Código de Processo Penal, ao argumento de que a ausência de assinatura no laudo toxicológico (definitivo) é mera irregularidade, incapaz de, por si só, invalidar esse meio de prova e, portanto, de afastar a prova da materialidade do delito de tráfico de drogas.
+Apresentadas as contrarrazões (fls. 510-518), o recurso foi admitido na origem e os autos ascenderam a esta Corte de Justiça.
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 537-539).
+É o relatório.
+Decido.
+Consta dos autos que o recorrido, em primeiro grau, restou condenado como incurso nas sanções do art. 33, caput, c/c art. 40, inciso VI, ambos da Lei n. 11.343/2006 e do art. 14 da Lei n. 10.826/03, sendo fixada à pena em 07 (sete) anos e 10 (dez) meses de reclusão, em regime fechado, e 593 (quinhentos e noventa e três) dias-multa.
+O eg. Tribunal de origem, por maioria, deu provimento ao apelo da defesa para absolver o réu do delito do art. 33, caput, c/c art. 40, inciso VI, da Lei n. 11.343/06, ao entendimento de que o laudo toxicológico definitivo apócrifo não é idôneo para a comprovação da materialidade delitiva.
+Cinge-se a controvérsia à possibilidade de que a condenação pela prática do delito de tráfico de drogas seja assentada em laudo toxicológico não assinado por perito.
+No ponto, colaciona-se trecho do acórdão recorrido em que se aborda a questão (fls. 366-368):
+"Peço venia ao em. Des. Relator para, de oficio, suscitar Preliminar de nulidade do laudo toxicológico definitivo (fls. 30/31) e absolver o réu [NOME] do delito de tráfico de drogas.
+Após detida análise do feito, percebe-se que não foi juntado aos autos laudo toxicolóqico definitivo com validade jurídica, cuja ausência torna sem sustentação a r. sentença condenatória, quando alude à materialidade, devendo, nesse caso, ser o réu absolvido.
+A lei determina que o laudo toxicológico definitivo é peça imprescindível para que seja apurada a materialidade do delito, não podendo a sentença apoiar-se apenas no laudo de constatação para condenar os acusados.
+Observa-se que tanto o art. 22, § 1º, quanto o art. 25 da antiga Lei de Tóxicos (nº 6.368/76) faziam segura a necessidade de se produzir laudo de exame toxicológico do material incriminador. O primeiro dispositivo condicionava o oferecimento da denúncia, e até a prisão em flagrante, a verificação preliminar da natureza da droga.
+Determinava a outra norma que o laudo definitivo deveria ser anexado ao processo até a audiência da instrução e julgamento, tendo sido aceito que o laudo fosse juntado até as alegações finais.
+O exame, portanto, é assumido pela lei como elemento indispensável para apurar a identidade do material, com vistas a determinar a adequação do comportamento do acusado ao tipo legal correspondente.
+Há que salientar, que também na nova Lei de Tóxicos (Lei 11.343/06), o laudo toxicológico definitivo continua sendo imprescindível para subsidiar um decreto condenatório, de modo que o laudo de constatação é suficiente apenas para efeito da lavratura do APFD (art. 50, §1º da Lei 11.343/06).
+Cumpre destacar que a exigência é também aplicável aos delitos de uso de entorpecentes (art. 28 da Lei 11.343/06), apesar de estes serem considerados de pequeno potencial lesivo, e da competência dos Juizados Especiais Criminais. Portanto, mesmo após encaminhado o "termo circunstanciado", a autoridade poderá realizar novas diligências sendo obrigatória a realização do laudo toxicológico definitivo sem o qual o juiz não poderá realizar a audiência para transação, nos termos previsto na Lei 9.099/95.
+ ..
+Data venia, o laudo definitivo juntado às fls. 99/100, não tem validade jurídica uma vez que sequer há assinatura do perito responsável pelo exame.
+ ..
+E mais, a fim de respeitar os princípios constitucionais da ampla defesa e do contraditório o Laudo Toxicológico Definitivo válido deveria estar juntado aos autos até o fim da instrução processual.
+Destarte, entende-se que o laudo toxicológico, apto a comprovar a materialidade, não pode ser suprido por nenhum outro meio de prova, inclusive pela confissão do acusado, sendo, portanto, imprescindível.
+Neste sentido, se manifestou Damásio E. de Jesus em sua obra:
+"Lei Antitóxicos Anotada", Ed. Saraiva, 1999, p. 143:
+.. a ausência de laudo toxicológico definitivo não pode ser suprida pela confissão do acusado, nem pelo laudo preliminar de constatação, nem pela prova testemunhal".
+Faltando na espécie o competente laudo destinado à aferição do teor tóiico da substância devidamente assinado supostamente apreendida em poder da acusada, conclui-se pela ausência de prova material do delito, razão pela qual deve ser decretada a absolvição do recorrente.
+Assim, diante do exposto, suscito preliminar de ofício para absolver a recorrente do crime previsto no art. 33 da Lei n. 11.343/06, nos termos do art. 386, VII do CPP, ante a ausência de materialidade delitiva."
+Ressalto, inicialmente, que a jurisprudência desta Corte é reiterada no sentido de que a simples falta de assinatura do perito criminal no laudo definitivo constitui mera irregularidade e não tem o condão de anular o exame toxicológico, sobretudo, na espécie, em que o perito oficial está devidamente identificado no documento e houve o resultado positivo para as substâncias ilícitas analisadas.
+Nesse sentido, os seguintes precedentes deste Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. LAUDO DEFINITIVO APÓCRIFO. DOCUMENTO IDENTIFICADO PELO PERITO CRIMINAL. MERA IRREGULARIDADE. MENORIDADE PARA FINS PENAIS. QUALIFICAÇÃO PERANTE AUTORIDADE POLICIAL. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é reiterada de que a simples falta de assinatura do perito criminal no laudo definitivo constitui mera irregularidade e não tem o condão de anular o exame toxicológico, sobretudo, na espécie, em que o perito oficial está devidamente identificado com seu nome e número de registro no documento e houve o resultado positivo para as substâncias ilícitas analisadas.
+ ..
+3. Agravo não provido." (AgRg no REsp n. 1.629.838/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/08/2017, grifei)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO, PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E RECEPTAÇÃO. LAUDO PRELIMINAR DE DROGA APÓCRIFO. MERA IRREGULARIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. QUANTIDADE DA DROGA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO IMPROVIDO.
+1. "A jurisprudência desta Corte é reiterada de que a simples falta de assinatura do perito criminal no laudo definitivo constitui mera irregularidade e não tem o condão de anular o exame toxicológico, sobretudo, na espécie, em que o perito oficial está devidamente identificado com seu nome e número de registro no documento e houve o resultado positivo para as substâncias ilícitas analisadas." (AgRg no REsp n. 1.629.838/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 08/08/2017, DJe 18/08/2017)
+2. Se tal lapso não é capaz de gerar a nulidade de um laudo definitivo, tão pouco o será para invalidar o laudo preliminar, como no caso dos autos.
+3. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+ ..
+7. Recurso improvido." (RHC n. 84.140/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/09/2017, grifei)
+In casu, a eg. Corte Estadual, mesmo diante da existência de laudo toxicológico definitivo, absolveu o ora recorrido, ao argumento de que o documento não estava assinado, portanto, a decisão colegiada contida no acórdão recorrido contrariou a posição dominante nesta Corte Superior de Justiça, devendo, portanto, incidir o enunciado da Súmula n. 568/STJ, que assim dispõe:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para restabelecer a sentença condenatória na parte em que condenou o recorrido ao delito de Tráfico de Drogas.
+P. e I.
