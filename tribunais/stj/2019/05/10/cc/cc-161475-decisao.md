@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o r. JUÍZO DA 1.ª VARA DO TRABALHO DE PARAUAPEBAS-PA, suscitante, e o r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL E EMPRESARIAL DE PARAUAPEBAS-PA, suscitado.
+Ação: declaratória de nulidade de cláusula por abusividade e rescisão unilateral c.c. ressarcimento por danos materiais movida por A. D. S. DE OLIVEIRA COMÉRCIO E SERVIÇOS - ME em face de EMBRATEL TVSAT TELECOMUNICAÇÕES LTDA (CLARO TV), em relação ao Contrato de Credenciamento de Parceiros Via Embratel e Outras Avenças firmado entre as partes.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, ao argumento de que "compete à Justiça do Trabalho dirimir as controvérsias envolvendo trabalhadores sem vínculo empregatício, tais como: de representação comercial, corretagem, cooperativa de trabalho." (fl. 99).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, sob o fundamento de que "(..) De fato, a Emenda Constitucional 45/2004 ampliou a competência da justiça do trabalho, passando a julgar relações de emprego e também de trabalho. As ações que envolvam representação comercial, (..) entram parcialmente neste escopo, sendo o entendimento predominante nos tribunais que, caso a representação comercial seja realizada diretamente por pessoa física, a competência será acolhida pela JT. Por outro lado, caso o representante comercial tenha estrutura eminentemente jurídica, isto é, esteja revestida de elemento de empresa, não há matéria trabalhista a ensejar a permanência nesta competência, por se tratar de relação comercial típica." (fls. 113-114).
+O MPF opinou pelo reconhecimento da competência do r. juízo suscitado. (fls. 124-128).
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. É firme a jurisprudência deste Tribunal no sentido da competência da Justiça Comum para processar e julgar as ações que envolvam contratos de representação comercial, mesmo após o advento da Emenda Constitucional n.º 045/2004. Nesse sentido, confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM. CONTRATO DE REPRESENTAÇÃO COMERCIAL. AÇÃO DE COBRANÇA DE COMISSÕES. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum processar e julgar ação de cobrança de comissão proposta por representante comercial, porquanto a controvérsia posta na demanda deriva de relação jurídica de cunho eminentemente civil, nem sequer tangenciando eventual relação de emprego.
+2. Não se pretendendo, na hipótese, o reconhecimento de vínculo empregatício ou o recebimento de verbas trabalhistas, falece competência à Justiça Laboral para o exame da lide, mesmo após a edição da EC nº 45/2004.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual.
+(CC 130.392/MG, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/03/2014, DJe 05/05/2014)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA DO TRABALHO. CONTRATO DE REPRESENTAÇÃO COMERCIAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Malgrado o artigo 114, inciso I da Constituição Federal, disponha que compete à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho, na Segunda Seção desta Corte Superior é firme a orientação de que a competência ratione materiae deve ser definida em face da natureza jurídica da quaestio, deduzida dos respectivos pedido e causa de pedir.
+2. O art. 1º da Lei nº 4.886/65 é claro quanto ao fato de o exercício da representação comercial autônoma não caracterizar relação de emprego.
+3. Não se verificando, in casu, pretensão de ser reconhecido ao autor vínculo empregatício, uma vez que objetiva ele o recebimento de importância correspondente pelos serviços prestados, a competência para conhecer de causas envolvendo contratos de representação comercial é da justiça comum, e não da justiça laboral, mesmo após o início da vigência da EC nº 45/2004 .
+4. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara de Canoinhas/SC, o suscitado.
+(CC 96.851/SC, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), SEGUNDA SEÇÃO, julgado em 11/02/2009, DJe 20/03/2009)
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL E EMPRESARIAL DA COMARCA DE PARAUAPEBAS-PA, suscitado.
+Publique-se. Intimem-se. Oficie-se.
