@@ -1,0 +1,34 @@
+Decisão
+    Trata-se de Reclamação, com pedido de liminar, proposta contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que teria violado o decidido por esta CORTE no julgamento do RE 574.706 (Rel. Min. CÁRMEN LÚCIA).
+    Na inicial, a parte autora argumenta, em síntese, que: (a) na origem, ajuizou demanda judicial com o fito de obter a restituição de valores pagos indevidamente ao Fisco em razão do cálculo do PIS e da COFINS com base no ICMS arrecadado e imediatamente repassado à União Federal (…) visando ver reconhecida e declarada ser indevida, porque ilegal e inconstitucional, a exigência da inclusão do ICMS na base de cálculo da COFINS e do PIS, tendo como base a decisão proferida no RE 574.706 (fl. 2/3), tal demanda foi indeferida pela 1ª e 2ª instância; e (b) o TRF-4 ofendeu o decidido no RE 574.706, pois, jamais poderia ter mantido a Exclusão do ICMS da base de cálculo do PIS e COFINS somente sobre “ICMS a pagar”, mas a exclusão também deve se dar sobre o ICMS sem quaisquer distinções, inclusive relativa à substituição tributária, sobre as notas fiscais destacadas, sobre o faturamento e/ou receita bruta, das bases de cálculo do PIS e da COFINS, pois as provas colacionadas nos autos deixam clara que no caso concreto temos uma tributação indevida e ilegal (fls. 18/19). Requer a concessão de medida liminar, a ser confirmada ao final, para cassar a decisão atacada, de modo que a Reclamante possa usufruir do entendimento fiscal firmado em sede repercussão geral por este E. Supremo Tribunal Federal (fls. 21/22).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l, e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Na caso, a presente reclamação é manifestamente incabível.
+    O ato impugnado refere-se a acórdão do TRF-4 que confirmou a sentença do juízo de 1º grau, utilizando-se dos seguintes fundamentos (doc. 7, fl. 6):
+    No caso dos autos, considerando não haver apelação do impetrante, devem ser observados os seguintes termos da sentença:
+    Anoto, ainda, que o valor do “ICMS a pagar” em cada período de apuração corresponde à diferença entre o valor do ICMS devido sobre as operações de saída de mercadorias ou prestação de serviços e o valor do ICMS cobrado nas operações anteriores.
+    Também anoto que o valor do “ICMS destacado” na nota fiscal de saída das mercadorias ou prestação de serviços não é ônus financeiro suportado integralmente pelo contribuinte, de modo que não seria razoável pretender-se suprimir da base de cálculo do PIS e da COFINS, objeto de discussão nesta ação, o valor integral.
+    Ademais, a compensação decorrente da técnica da não-cumulatividade consagrou a ideia de que a quantia a ser recolhida pelo contribuinte a título de ICMS corresponde ao resultado de uma subtração do montante do imposto devido e o montante do imposto anteriormente cobrado ou cobrável. Sendo o caso, o contribuinte recolhe, assim, apenas a diferença (“ICMS a pagar”) resultante da operação matemática.
+    Deve ser afastada, portanto, a possibilidade de o valor do “ICMS destacado” na nota fiscal de saída de mercadorias e prestação de serviços vir a ser excluído da base de cálculo do PIS e da COFINS. Apenas o valor do “ICMS a pagar” deve ser excluído da base de cálculo do PIS e da COFINS, sob pena de restar configurado verdadeiro locupletamento sem causa do contribuinte.
+    [...]
+    Ante o exposto, concedo parcialmente a segurança para declarar a inconstitucionalidade do procedimento de inclusão do valor relativo ao “ICMS a pagar” na base de cálculo das contribuições do PIS e da COFINS [...]
+    Dessa forma, resta evidente que não houve o pleno exaurimento das instâncias recursais na origem, o que inviabiliza o ajuizamento desta ação, uma vez que, nos termos do art. 988, § 5º, inciso II, do CPC, o esgotamento dos meios recursais a quo é pressuposto para o cabimento da Reclamação, quando tem por fundamento a exigência de respeito a precedente julgado por esta SUPREMA CORTE, em regime de Repercussão Geral (Rcl 23.476-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 18/8/2016; Rcl 25.446, Rel. Min. MARCO AURÉLIO, DJe de 1º/3/2017; Rcl 25.523, Rel. Min. DIAS TOFFOLI, DJe de 14/2/2017; Rcl 23.337/, Rel. Min. ROSA WEBER, DJe de 25/11/2016).
+    Esta CORTE já se pronunciou, por diversas vezes, no sentido de que a reclamação constitucional não deve ser utilizada como sucedâneo recursal ou atalho processual para postular diretamente no STF a observação de precedente vinculante estabelecido sob a sistemática da Repercussão Geral, por não ser substitutivo de recurso ou de ação rescisória (Rcl 31.486 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 19/11/2018, DJe de 26/11/2018; (Rcl 16.038 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 30/10/2014).
+    Diante do exposto, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    À Secretaria para, oportunamente, certificar o trânsito em julgado.
+    Publique-se.
+    Brasília, 10 de maio de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
