@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL, com fundamento no art. 105, III, a, da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 159):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO TEMPORÁRIO. UERGS. PLEITO DE VERBAS RESCISÓRIAS. COMPETÊNCIA DA JUSTIÇA COMUM. LEI QUE AUTORIZAVA A CONTRATAÇÃO TEMPORÁRIA DECLARADA NULA. DEVIDOS OS VALORES DE FÉRIAS COM ADICIONAL DE UM TERÇO, DÉCIMO TERCEIRO SALÁRIO E REFLEXOS NO FGTS. APLICAÇÃO DA JURISPRUDÊNCIA DAS CORTES SUPERIORES E DA SÚMULA 363 DO TST. APELO DESPROVIDO.
+Opostos, sucessivamente, dois embargos de declaração, foram ambos rejeitados (fls. 174/177 e 186/190).
+Sustenta a parte recorrente violação ao art. 1.013 do CPC/2015 c/c a Súmula 45/STJ, ao argumento de que no julgamento da apelação o Tribunal de origem teria concedido "o que não fora pedido, implicando em reformatio in pejus" (fl. 198). Isso porque (fl. 199):
+A sentença proferida neste feito determinou a não incidência de reflexos do FGTS. A UERGS, inconformada, apelou do decisum pleiteando sua reforma quanto a outros aspectos, mas não acerca desse reflexo.
+O Tribunal de Justiça, ao seu turno, determinou a incidência dos reflexos do FGTS. Ocorre que, ao proferir julgado neste sentido, os insignes Desembargadores findaram por agravar a decisão prolatada pelo juízo de 1.º grau em claro prejuízo ao demandado.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às fls. 210/212.
+Recurso admitido na origem (fls. 215/219).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, nos termos da Súmula 518/STJ, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Por sua vez, verifica-se que o Tribunal de origem não emitiu nenhum juízo de valor acerca da tese segundo a qual teria ocorrido, no julgamento da apelação, uma indevida reformatio in pejus, questão esta somente deduzida nas razões do recurso especial. Assim, incide na espécie a Súmula 282/STF, por analogia.
+Acrescente-se, outrossim, que o art. 1.013 do CPC/2015 não possui comando normativo capaz de sustentar a tese deduzida pela parte recorrente, haja vista que busca estabelecer as limitações ao duplo grau de jurisdição. Nesse sentido, confira-se a lição de Fredie Didier Jr. e Leonardo Carneiro da Cunha (In "Curso de Direito Processual Civil: Meios de impugnação às Decisões Judiciais e Processos nos Tribunais"; Vol. 3, 16ed., Salvador: JusPodivm, 2019, pp. 124-125):
+O princípio duplo grau de jurisdição comporta exceções. Como já se disse, é possível haver limitações estabelecidas pelo legislador ordinário. É possível, por exemplo, proibir apelação em causas de certa alçada como o faz o art. 34 da Lei n; 6.830/1980.
+As regras que outorgam competência originária para os tribunais julgarem certas causas, sem recurso de devolução plena, não importam violação ao duplo grau, sendo admitidas.
+Também constituem restrições admitidas as técnicas que atribuem ao tribunal o julgamento direto do mérito, sem que o órgão inferior haja feito (art. 1.013, § 3º, CPC), ou que permitem ao recorrente deduzir questões novas no recurso (art. 1.014, CPC).
+A admissibilidade de tais restrições acarretou uma mutação no conteúdo do duplo grau de jurisdição no sistema processual civil brasileiro.
+Há regras que merecem destaque: (a) apreciada uma das questões de mérito (decadência, por exemplo), o tribunal, rejeitando-a, julga as demais que não foram examinadas na sentença (art. 1.013, § 1º, CPC); b) interposta apelação contra sentença que não examina o mérito (art. 485, CPC), o tribunal pode julgar diretamente o mérito (art. 1.013, § 3º, I, CPC); c) o tribunal percebe afronta à regra da congruência (arts. 141 e 492, CPC), e, anulada a decisão, prossegue e julga o mérito sem esse vício (art. 1.013, § 3º, II, CPC); d) o juiz omite a apreciação de um dos pedidos formulados pelo autor e o tribunal corrige o vício, julgando-o (art. 1.013, § 3º, III, CPC); e) o juiz, num caso de cumulação eventual de pedidos, acolhe o primeiro e deixa de examinar o segundo, mas o tribunal rejeita o primeiro e acolhe o segundo, ou vice-versa (art. 1.013, § 3º, III, CPC); f) o tribunal anula a sentença por vício de fundamentação (art. 489,§ 1º, CPC) e julga a causa com a motivação adequada (art. 1.013, § 3º, IV).
+De fato, como explicitam os referidos autores, a proibição da reformatio in pejus não se trata de matéria infralegal, mas de um princípio que informa os recursos. Senão vejamos (Op. cit., p. 176):
+9. PRINCÍPIO DA PROIBIÇÃO DA REFORMATIO IN PEJUS. VEDAÇÃO AO "BENEFÍCIO COMUM" DO RECURSO
+O julgamento do recurso não pode agravar a situação do recorrente; ou a melhora, ou a mantém. Essa é a proibição da reformatio in pejus.
+ ..
+[NOME] sistematiza os argumentos favoráveis à existência deste princípio no sistema recursal brasileiro: a) se o interesse recursal é pressuposto de admissibilidade recursal, seria verdadeira contradição imaginar que para o recorrente possa advir qualquer utilidade de pronunciamento que lhe é desfavorável; b) se nem mesmo por provocação do apelante poderia o tribunal reformar a decisão para pior, menos ainda se concebe que pudesse fazê-lo sem tal provocação.
+Destarte, torna-se inviável o exame da tese de violação ao art. 1.013 do CPC/2015, diante da incidência da Súmula 284/STF, por analogia.
+ANTE O EXPOSTO, não conheço do recurso especial
+Publique-se.
