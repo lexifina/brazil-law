@@ -1,0 +1,37 @@
+EMENTA
+ADMINISTRATIVO E AMBIENTAL. ENUNCIADO ADMINISTRATIVO 2/STJ. CRIME AMBIENTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. APREENSÃO DE VEÍCULO. NOMEAÇÃO DO PROPRIETÁRIO COMO FIEL DEPOSITÁRIO ATÉ A CONCLUSÃO DO PROCESSO ADMINISTRATIVO. EXCEPCIONALIDADE DA MEDIDA DE LIBERAÇÃO DO VEÍCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto pelo IBAMA contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+ADMINISTRATIVO E AMBIENTAL. TRANSPORTE IRREGULAR DE MADEIRA. APREENSÃO DE VEÍCULO. SANÇÃO ADMINISTRATIVA. ONEROSIDADE EXCESSIVA. LIBERAÇÃO. PROPRIETÁRIO. FIEL DEPOSITÁRIO.
+1. O cerne da questão gira em torno da liberação do veículo em função da prática de ato delituoso contra o meio ambiente.
+2. A Administração deve aplicar as sanções previstas na legislação, sem, contudo, deixar de atentar para os princípios da razoabilidade e proporcionalidade, visando proteger, no caso o meio ambiente, sem onerar excessivamente o núcleo familiar sob a justificativa de que se está apenas cumprindo a ordem legal. " 3. Não restou comprovado nos autos que o veículo apreendido se destina exclusivamente a prática de atos ilícitos, razão pela qualíYeve ser liberado.
+4. As sanções previstas na legislação estão sendo aplicadas pela administração, porém, devem ser observados os princípios da razoabilidade e proporcionalidade, visando proteger, no caso o meio ambiente, sem onerar de forma excessiva o núcleo familiar sob a justificativa de que se está apenas cumprindo a ordem legal.
+5. Com relação à liberação do veículo aprrendido, as normas legais prevêem essa possibilidade até que se julgue o processo administrativo, desde que lhe seja confiado o encargo de fiel depositário.
+6. Apelação e remessa oficial improvida.
+Os embargos de declaração foram rejeitados. No recurso especial, o recorrente aponta violação aos seguintes dispositivos legais: (a) art. 535 do CPC/73, alegando que o acórdão recorrido deixou de expor e decidir, em sua fundamentação, qual a importância, para o deslinde do feito, dos artigos 3º, IV, 47, §1º, 105, 106, II, e 134, V, do Decreto 6.514/2008, 25, caput, bem como artigos 25, 46, parágrafo único e 72, lV da Lei 9.605/1998, no que incorreu em omissão; e (b) arts. 25 da Lei 9.605/1998 e 3º, 105, 106 e 134 do Decreto 6.514/2008, aduzindo que o instrumento utilizado para a prática de crime ambiental deve permanecer apreendido, devendo haver liberação a fiel depositário, a título precário, apenas em circunstâncias excepcionais.
+Não foram apresentadas contrarrazões.
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A insurgência não prospera.
+Preliminarmente, afasto a alegada violação aos artigos 535 do CPC, pois o Tribunal de origem enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia.
+Como se sabe, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a lide.
+No caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao concluir que "(..) ponderando-se a proteção ambiental e a subsistência da pessoa humana, entendo estar de acordo como princípio da proporcionalidade e razoabilidade a opção pela liberação do instrumento de trabalho do autor, mediante a aceitação do encargo de fiel depositário."
+Enfim, não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Melhor sorte não socorre o recorrente quanto à alegada violação aos artigos 25 da Lei 9.605/1998 e 3º, 105, 106 e 134 do Decreto 6.514/2008.
+O acórdão recorrido liberou o veículo utilizado na prática de crime ambiental para uso de seu proprietário (fiel depositário) até o julgamento do processo administrativo, nos termos seguintes:
+(..) Embora, exista previsão de que a apreensão do veículo utilizado no cometimento da infração seja transformada em pena de perdimento, mostra-se necessário a análise do caso concreto, a fim de se verificar se tal medida está em consonância com os princípios da proporcionalidade e da razoabilidade.
+Na hipótese sub examine, a medida imposta ao impetrante se mostra por demais gravosa, pois, impede a utilização do bem apreendido para exercer a sua profissão e garantir-lhe subsistência e de sua família, haja vista que não restou comprovado nos autos ser o veículo utilizado para fins exclusivos de atividades ilícitas.
+Nesse juízo perfunctório, ponderando-se a proteção ambiental e a subsistência da pessoa humana, entendo estar de acordo como princípio da proporcionalidade e razoabilidade a opção pela liberação do instrumento de trabalho do autor, mediante a aceitação do encargo de fiel depositário.
+Por outro lado, resguardado estaria o direito do apelado, pois, o recorrente estaria impedido de proceder à alienação do veículo, objeto da demanda, haja vista estar sendo apurada a prática de infração administrativa.
+(..)
+No caso em tela, as sanções previstas na legislação estão sendo aplicadas pela administração, porém, devem ser observados os princípios da razoabilidade e proporcionalidade, visando proteger, no caso meio ambiente, sem onerar de forma excessiva o núcleo familiar sob a justificativa de que se está apenas cumprindo a ordem legal.
+Com relação à liberação do veiculo apreendido, as normas legais prevêem essa possibilidade até que se julgue o processo administrativo, desde que lhe seja confiado o encargo de fiel depositário.
+Nessas circunstâncias, rever as conclusões do acórdão recorrido acerca da excepcionalidade da medida de liberação do veículo, como pretende o recorrente, supõe nova incursão no contexto fático-probatório dos autos, o que não é cabível em recurso especial, nos termos da Súmula 7/STJ. Nesse sentido, em caso análogo:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. (..) APREENSÃO DE VEÍCULO PERTENCENTE A TERCEIRO. REVISÃO DO JULGADO. SÚMULA
+7/STJ.
+(..) 2. O Tribunal a quo, soberano na análise do conjunto fático-probatório dos autos, assegura que o veículo não era utilizado exclusivamente para a prática de ilícitos ambientais e entendeu por nomear os proprietários como fiéis depositários do automóvel, com base nos arts. 105 e 106 do Decreto n. 6.514/08, até o julgamento do processo administrativo. Rever tal conclusão implicaria reexaminar as provas constantes dos autos, o que é defeso em sede de recurso especial (Súmula 7/STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1478347/CE, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 17/05/2016, DJe 24/05/2016)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
