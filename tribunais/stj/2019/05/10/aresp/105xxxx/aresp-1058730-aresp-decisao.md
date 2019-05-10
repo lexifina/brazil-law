@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL VERIFICADO. DECISÃO DE FLS. 374/377 TORNADA SEM EFEITO. ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284/STF. APELO NOBRE COM RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA FAZENDA NACIONAL.
+1. Trata-se de petição apresentada pela FAZENDA NACIONAL, em que a parte alega que a matéria objeto do presente Recurso Especial não guarda relação com a discutida no RE 574.706/PR, tendo em vista que se questiona sobre a inclusão do ICMS e das próprias contribuições na base de cálculo do PIS-Importação e da COFINS-Importação.
+2. É o relatório.
+3. Com razão a parte requerente.
+4. Realmente, analisando os autos, verifica-se que a lide versa sobre a inclusão do ICMS e das próprias contribuições na base de cálculo do PIS-Importação e da COFINS-Importação. Logo, não há que se falar em aplicação do decidido no RE 574.706/PR, motivo pelo qual torno sem efeito a decisão de fls. 374/377 diante do erro material evidenciado.
+5. Analisa-se o presente Agravo em Recurso Especial.
+6. Trata-se de Agravo contra decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do permissivo constitucional, em face de acórdão proferido pelo egrégio TRF da 1a. Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES AO PIS E À COFINS. IMPORTAÇÃO. LEI 10.865/2004. BASE DE CALCULO. VALOR ADUANEIRO. EXCLUSÃO DO ICMS. DIREITO À COMPENSAÇÃO.
+1. Legítima a exigência do PIS e da COFINS sobre importação de produtos e serviços, conforme previsão do art. 149, § 2o., III, "a", da CF/88 (EC 42/2003), devendo, contudo, ser considerado como, base de cálculo somente o valor aduaneiro, excluídos os acréscimos introduzidos pelo inciso I do art. 79 da Lei 10.865/2004, referentes ao ICMS e às próprias contribuições. Precedente: STF, RE 559.607, apreciado sob o regime da repercussão geral - § 3o. do art. 543-B do CPC.
+2. Compensação dos créditos com contribuições de mesma espécie.
+3. A partir de 01/01/96 utiliza-se a taxa Selic, ressaltando-se, porém, que a aplicação desta não é cumulada com juros moratórios e/ou correção monetária.
+4. Afastada a aplicação do art. 170-A do CTN. Jurisprudência do STF sobre a matéria (repercussão geral).
+5. Apelação parcialmente provida (fls. 231).
+7. Nas razões de seu Apelo Nobre, a parte recorrente aponta violação do art. 535 do CPC/1973; da LC 7/1970; da LC 70/1991; do art. 3o., caput da Lei 9.718/1998; do art. 1o. e parágrafos da Lei 10.637/2002; e do art. 1o. e parágrafos da Lei 10.833/2003. Sustenta, além de negativa de prestação jurisdicional, a legalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS.
+8. A insurgência não merece prosperar.
+9. Inicialmente, constata-se que a parte recorrente não demonstrou em que consiste a ofensa ao art. 535 do CPC/1973, pois se limitou a alegar de forma genérica a existência de supostas omissões no aresto recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, inviabilizando a compreensão da controvérsia. Inafastável, portanto, a aplicação do óbice previsto na Súmula 284/STF.
+10. De outro lado, a questão ora trazida a debate no Recurso Especial, referente à possibilidade de inclusão do ICMS na base de cálculo do PIS e da COFINS, não foi discutida pelo Tribunal de origem.
+11. De fato, como a própria Fazenda informou nos autos, a lide versa sobre a inclusão do ICMS e das próprias contribuições na base de cálculo do PIS-Importação e da COFINS-Importação, motivo pelo qual se afastou a aplicação do entendimento firmado no RE 574.706/PR. A propósito, confira-se trecho do voto condutor do aresto:
+Discute-se nos autos a respeito da legalidade da cobrança das contribuições ao PIS e à COFINS sobre importações de mercadorias e serviços, pois o art. 7o., I, da Lei n. 10.865/2004, ao definir o conceito de valor aduaneiro, o fez abrangendo, também, na importação de bens, o ICMS devido na importação e o montante das próprias contribuições (fls. 225).
+12. Vê-se, portanto, que as razões expostas no Apelo Nobre estão dissociadas dos fundamentos do acórdão, o que revela a deficiência do recurso interposto pela Fazenda. Incide, pois, por analogia, o disposto na Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+13. Ante o exposto, conhece-se do Agravo para não conhecer do Recurso Especial da FAZENDA NACIONAL.
+14. Publique-se. Intimações necessárias.
