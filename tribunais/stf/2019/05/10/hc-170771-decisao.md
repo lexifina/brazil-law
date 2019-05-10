@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Jorge Mussi, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. DIVERSIDADE E NATUREZA DAS SUBSTÂNCIAS TÓXICAS APREENDIDAS. GRAVIDADE CONCRETA DO DELITO. HISTÓRICO CRIMINAL DO AGENTE. RISCO EFETIVO DE REITERAÇÃO. PERICULOSIDADE SOCIAL. GARANTIA DA ORDEM E SAÚDE PÚBLICA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. NÃO COMPROVAÇÃO E IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. RECLAMO IMPROVIDO.
+    1. Não há constrangimento quando a manutenção da custódia preventiva está fundada na necessidade de se acautelar a ordem pública, diante das circunstâncias em que ocorrido o delito, indicativas de dedicação ao comércio ilícito de drogas.
+    2. O fato de o recorrente ostentar vários registros penais anteriores em seu desfavor - 4 roubos (3 consumados e 1 tentado) e 1 homicídio - é circunstância que revela sua periculosidade social e a inclinação à prática de crimes, demonstrando a real possibilidade de que, solto, volte a delinquir, justificando a necessidade de sua manutenção no cárcere antecipadamente.
+    3. Condições pessoais favoráveis, sequer comprovadas na espécie, não têm o condão de revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade.
+    4. Indevida a aplicação de medidas cautelares diversas da prisão quando a constrição se encontra justificada e mostra-se necessária, diante do risco de reiteração criminosa, bem demonstrado nos autos, indicando que providências mais brandas não seriam suficientes para garantir a ordem pública.
+    5. Recurso ordinário improvido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante em 08.01.2018, surpreendido com 2 trouxinhas de crack, uma trouxinha prensada de maconha e 1 papelote de cocaína. O Juízo da Vara Única da Comarca de Várzea Grande/CE, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado do Ceará. Denegada a ordem, sobreveio a interposição de recurso ordinário em habeas corpus no Superior Tribunal de Justiça, desprovido.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência de fundamentação idônea para a decretação da custódia preventiva, destacando que “o Paciente cumpre todos os requisitos para responder ao processo em liberdade, pois é primário, tem residência fixa, profissão definida, tendo, inclusive, cooperado com o deslinde das investigações”; e que “não há nenhuma condenação criminal em desfavor do encarcerado transitada em julgado”.
+    Decido.
+    5. O habeas corpus não deve ser concedido.
+    6. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a fundada probabilidade de reiteração criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    7. No caso de que se trata, a autoridade impetrada não divergiu desse entendimento ao assentar que “a segregação cautelar se faz necessária, na espécie, para o fim de se evitar a reiteração delitiva, uma vez que, de acordo com o destacado pelas instâncias de origem, o recorrente ‘responde a outros delitos, no caso, 03 roubos consumados, 01 roubo tentado e 01 homicídio consumado, e que o mesmo afirmou ser integrante de facção criminosa’ (...), condição que revela motivo suficiente para justificar a preservação da preventiva na espécie, pois denota a habitualidade do agente na prática de ilícitos, inviabilizando a pretendida liberdade, já que patente a real possibilidade de que, solto, volte a cometer infrações penais”.
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de maio de 2019.
+Ministro Luís Roberto Barroso
+          Relator
