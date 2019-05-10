@@ -1,0 +1,37 @@
+DECISÃO
+[NOME] apresenta agravo contra a decisão que negou seguimento ao seu recurso especial, interposto com fundamento no artigo 105, inciso III, alínea a, da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 4º Região, nos termos da seguinte ementa (fls. 212):
+ADMINISTRATIVO. FGTS. JUROS PROGRESSIVOS. APLICAÇÃO CORRETA DA TAXA DEVIDA. NÃO COMPROVAÇÃO DA PERMANÊNCIA NA MESMA EMPRESA PELO PRAZO LEGAL. REVELIA. INOCORRÊNCIA.
+1. A Lei 5.958, de 10/12/73 assegurou a opção retroativa aos empregados que poderiam ter optado pelo regime quando do advento da Lei 5.107/66 e não o fizeram. Daí a garantia da opção com efeitos retroativos a 1º/01/67 ou à data da admissão, se posterior àquela, desde que com a anuência do empregador. Tendo a opção ocorrido na vigência da Lei 5.107/66 ou na forma da Lei 5.958/73, o trabalhador tem direito aos juros progressivos.
+2. Não tendo a parte demonstrado a permanência na mesma empresa pelo período legal, através de documento que prove as datas de início e término do contrato de trabalho entabulado junto ao Banco do Estado do Paraná, não faz jus ao pagamento dos juros progressivos postulados.
+3. Inexiste revelia, já que a CEF expressamente impugnou o pedido de cômputo de juros progressivos em sua contestação, conforme leitura do tópico desenvolvido na fl. 41.
+Os embargos de declaração opostos foram providos apenas para sanar omissão apontada, sem atribuição de efeitos modificativos (fls. 515-516).
+Em suas razões especiais o recorrente afirma que o Tribunal a quo, ao manter a sentença de improcedência da ação, contrariou os arts. 302, 319 e 334, III e IV, do CPC/73, uma vez que toda a matéria fática e também as provas produzidas pelo autor, já haviam restado incontroversas no feito, posto que não foram especificamente impugnadas em primeiro grau pela Caixa Econômica Federal.
+Apresentada as contrarrazões (fls. 532-538), o Tribunal de origem negou seguimento ao recurso especial (fls. 539-540), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, verifica-se que o Tribunal a quo, ao manter a sentença de improcedência do pedido, ao fundamento de inexistência de revelia por parte da Caixa Econômica Federal, dirimiu a controvérsia com base nas provas contidas nos autos, senão vejamos (fl. 210):
+Por derradeiro, afasto a alegação de revelia, já que a CEF expressamente impugnou o pedido de cômputo de juros progressivos em sua contestação, conforme leitura do tópico desenvolvido na fl. 41.
+Desse modo, para se concluir de modo diverso do acórdão recorrido para desconsiderar a impugnação do pedido de cômputo de juros progressivos e julgar procedente o pedido exposto na inicial, considerando a Caixa Econômica Federal como revel na ação ordinária, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+À contrário sensu, temos os seguintes julgados desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. EXCEÇÃO DE INCOMPETÊNCIA. SUSPENSÃO DO PROCESSO. REINÍCIO COM INTIMAÇÃO DO RÉU ACERCA DO DO RECEBIMENTO DOS AUTOS PELO JUÍZO DECLARADO COMPETENTE. PRAZO DE CONTESTAÇÃO ULTRAPASSADO. REVELIA CONFIGURADA. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. No caso dos autos, o Tribunal de origem reconheceu a revelia da ré, destacando que, rejeitada a exceção de incompetência, o prazo para contestação tem início para a intimação do réu acerca do recebimento do processo pelo juízo declinado.
+4. A reforma do acórdão recorrido a fim de afastar a revelia da ré/agravante, demandaria a alteração das premissas fático-probatórias estabelecidas pelo Tribunal de origem, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1257085/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚMULA DO STJ E DO ART. 255, § 4 º, INCISO III, DO RISTJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 263, § 1º, DO CPC/1973. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 320, II, DO CPC/73. DECISUM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+II - Em relação à indicada ofensa do art. 236, § 1º, do CPC/1973, verifica-se que o Tribunal a quo assentou-se no acervo probatório dos autos para entender pela regularidade dos atos de intimação e ausência de cerceamento de defesa.
+III - Para rever tal posição e interpretar o dispositivo legal indicado como violado seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial por óbice da Súmula n. 7/STJ
+IV - No que se refere à alegação de violação do art. 320, II, do CPC/1973, constata-se que o Tribunal de origem, diferente do que arguiu o recorrente, afastou a aplicação do efeito material da revelia.
+V - Infere-se que o decisum vergastado encontra-se em consonância com a jurisprudência do STJ.
+VI - Agravo interno improvido.
+(AgInt no REsp 1698727/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/08/2018, DJe 29/08/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO DE CRÉDITO C/C INDENIZAÇÃO POR DANO MATERIAL. REVELIA. PRESUNÇÃO RELATIVA. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA. CERCEAMENTO DE DEFESA RECONHECIDO PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial. Reconsideração.
+2. Nos termos da jurisprudência desta Corte, "a caracterização da revelia não importa em presunção absoluta de veracidade dos fatos, a qual pode ser afastada pelo Juiz à luz das provas existentes, cumprindo-lhe indicar as razões da formação do seu convencimento." (AgInt no AgInt no AREsp 1.110.702/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe de 09/03/2018).
+3. O acórdão recorrido reconheceu o cerceamento de defesa pelo julgamento antecipado da lide, observando que a prova documental é insuficiente para elucidação da questão e não traz convicção sobre os fatos da lide, sendo necessária a instrução probatória. Reapreciar a ocorrência de cerceamento de defesa e a mitigação dos efeitos da revelia demandaria, necessariamente, a incursão no substrato fático-probatório dos autos, o que é vedado no âmbito do recurso especial, por incidência da Súmula 7/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1238913/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
