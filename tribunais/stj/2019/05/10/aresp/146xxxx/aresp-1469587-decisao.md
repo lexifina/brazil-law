@@ -1,0 +1,52 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NOTIFICAÇÃO VIA POSTAL. ENDEREÇO DECLARADO PELA CONTRIBUINTE. VALIDADE DA NOTIFICAÇÃO. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por Granucobre I Indústria de Metais Eireli e outro em face de decisão do Tribunal Regional Federal da 2ª Região, que negou admissibilidade a recurso contra acórdão assim ementado:
+TRIBUTÁRIO E PROCESSO ADMINISTRATIVO FISCAL. INTIMAÇÃO POR AR. POSSIBILIDADE. RECEBIMENTO POR TERCEIROS. INTEMPESTIVIDADE DA IMPUGNAÇÃO ADMINISTRATIVA. PRECEDENTES.
+1. Com relação à intimação por via postal, o Decreto no. 70.235/1972 prevê essa modalidade em seu art. 23, estabelecendo que ela será feita no endereço postal fornecido pelo contribuinte à Administração Tributária.
+2. A jurisprudência do STJ, em tudo aplicável ao processo administrativo fiscal, é firme ao considerar válida a citação por via postal, ainda que o Aviso de Recebimento seja assinado por terceiro. Precedentes do STJ.
+3. A alteração do endereço fiscal é dever do contribuinte, que, ao deixar de atualizar os seus dados cadastrais junto à Receita Federal do Brasil, assume os eventuais riscos decorrentes da sua negligência. Não haverá, portanto, qualquer nulidade no envio pela Receita Federal de determinada intimação para o domicílio fiscal do contribuinte que consta da sua base cadastral, ainda que o endereço esteja desatualizado. Precedentes do STJ.
+4. Caso em que a divergência de endereços apontada neste processo decorre exclusivamente da negligência dos próprios contribuintes. Por outro lado, não restou comprovado nos autos o não funcionamento regular da Receita Federal no dia do termo final do prazo para a impugnação administrativa do débito (30.12.2014), concluindo-se que esta foi, de fato, apresentada intempestivamente.
+5. Apelação e remessa necessária providas. Segurança denegada.
+Os embargos de declaração opostos foram providos, nos seguintes termos:
+TRIBUTÁRIO E PROCESSO ADMINISTRATIVO FISCAL. EMBARGOS DE DECLARAÇÃO. INTIMAÇÃO POR AR. ENDEREÇO RECEBIMENTO POR TERCEIROS. INTEMPESTIVIDADE DA IMPUGNAÇÃO ADMINISTRATIVA. CONTRADIÇÃO. RECURSO DESPROVIDO.
+1. No acórdão embargado, foi firmada a premissa de que a validade da intimação não foi afetada pela mudança de endereço dos Embargantes, não comunicada à Receita Federal, e pelo fato de recebimento ter sido assinado por terceiro.
+2. A Turma foi realmente omissa quanto à alegação de que as correspondências teriam sido entregues a terceiros em endereços diversos dos que constavam do sistema da Receita.
+3. No entanto, a simples existência de vínculo empregatício da pessoa que recebeu a intimação destinada à empresa embargante com outra firma sediada em outro prédio, na mesma rua, não é suficiente para afastar a presunção de entrega da correspondência no endereço correto, pois nada impediria que tal pessoa também prestasse serviços à Embargante.
+4. A declaração do vigilante da rua em que morava o segundo Embargante de que entregou a intimação em outra casa, dias depois de recebê-la não é relevante. Neste caso, o vigilante, que confirmou conhecer o Embargante ao receber a correspondência a este endereçada, equipara-se ao porteiro de um prédio. E a teoria da aparência, aplicada no acórdão embargado, baseia-se na ideia de que aquele que recebeu a intimação é capaz de fazer com que esta seja entregue ao intimado. A eventual desídia posterior de quem recebeu a intimação não afeta a validade do ato.
+5. Embargos de declaração a que se dá provimento, sem atribuição de efeitos infringentes.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, a parte agravante apontou contrariedade ao art. 23 do Decreto 70.235/72, alegando em síntese que "os "ARs" foram enviados para os endereços constantes nos cadastros da Secretaria da Receita Federal, todavia, as mesmas foram entregues em endereços completamente diferentes daqueles que deveriam ter sido efetivamente entregues" (fl. 3961-e). Assim, as intimações entregues no endereço errado são nulas.
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que a análise da tese suscitada demanda reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+A parte agravante rechaça o fundamento mencionado.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo sido impugnado o fundamento adotado na decisão agravada e mostrando-se preenchidos os pressupostos de admissibilidade do presente recurso, passo à análise do recurso especial.
+O acórdão recorrido expressamente afirma o seguinte (fl. 3911-e):
+Na hipótese dos autos, as intimações postais foram recebidas no dia 28.11.2014 por terceiros: [NOME] e [NOME] (fls.
+516, 596, 2458 e 2501).
+A intimação postal, todavia, foi corretamente enviada aos Apelados nos endereços que constavam da base de dados da Receita Federal do Brasil, quais sejam: a de GRANUCOBRE I INDÚSTRIA DE METAIS EIRELI foi enviada à Av. Montemagno, 1128, Vila Formosa, São Paulo, SP, CEP 0337100 e a do sócio -gerente [NOME] foi endereçado à Rua Principado de Mônaco, 227, Pacaembu, São Paulo, SP, CEF [CEP].
+Assim, uma eventual divergência de endereços apontada neste processo pelos Apelados decorre exclusivamente da negligência dos próprios contribuintes na manutenção do seu endereço fiscal atualizado junto ao Fisco, o que, como visto, não invalida a intimação realizada pela via postal.
+E ainda, a decisão proferida em sede de embargos aclaratórios consignou as premissas de que (fls. 3941/3942-e):
+Quanto à primeira Embargante, a alegação é a de que, ao se deparar com o prédio da Av. Montemagno nº 1.128 vazio (ante a mudança da empresa para São Paulo), o porteiro teria entregue a intimação no nº 1.117 da mesma rua, em que trabalhava a Sra. [NOME], que assinou o AR.
+Porém, o simples fato de ter sido demonstrado que a Sra. [NOME] trabalhava, com vinculo empregatício, para outra empresa, situada na Av. Montemagno nº 1.128 não é suficiente para afastar a presunção de entrega da correspondência no endereço correto. Afinal, nada impediria que a Sra. [NOME] trabalhasse também para a Embargante como autônoma ou mesmo informalmente. Tanto que recebeu correspondência incontroversamente endereçada à Embargante, e não à empresa em que trabalhava.
+Quanto ao segundo Embargante, a afirmação é a de que a intimação foi recebida por vigilante da Rua Principado de Mônaco, Bairro Pacaembu, São Paulo/SP, o Sr. [NOME], que confirmou, em declaração feita junto a cartório, ou seja, em escritura pública, que a entregou apenas três dias depois, a outra pessoa, já que a casa em que o Sr. LUIZ [NOME] [NOME] estava vazia.
+Firmada a premissa - clara no acórdão embargado - de que a validade da intimação não foi afetada pela mudança de endereço do Embargante, não comunicada à Receita Federal, e pelo fato do aviso de recebimento ter sido assinado por terceiro, a declaração do Sr. [NOME] que entregou a correspondência em outra casa, três dias depois de recebe-la, não é relevante.
+Ocorre que, a parte ora agravante alega a nulidade da intimação, pois em seu entender o processo administrativo está eivado de vício, uma vez que a notificação do feito administrativo ocorreu em endereço diverso daquela informado no ajuste anual do imposto de renda.
+Com razão, o acórdão recorrido, pois segundo a jurisprudência desta Corte, a intimação regular do sujeito passivo, consoante a referida legislação, pode se dar tanto pessoalmente quanto pela via postal, sendo que, para os fins de aperfeiçoamento desta última, basta a prova de que a correspondência foi entregue no endereço do domicílio fiscal eleito pelo próprio contribuinte, por isso que, na hipótese de mudança de endereço, cabe a este proceder à devida atualização, junto à autoridade fiscal, dentro do prazo de 30 dias - o que não ocorreu na hipótese.
+A propósito:
+IMPOSTO DE RENDA. LANÇAMENTO DE OFÍCIO. NOTIFICAÇÃO VIA POSTAL. ENDEREÇO DECLARADO PELA CONTRIBUINTE. AR ASSINADO POR TERCEIRO. VALIDADE DA NOTIFICAÇÃO.
+I - A notificação regular do sujeito passivo, consoante o art. 23, II, do Decreto 70.235/72, pode se dar tanto pessoalmente quanto pela via postal, sendo que, para os fins de aperfeiçoamento desta última, basta a prova de que a correspondência foi entregue no endereço do domicílio fiscal eleito pelo próprio contribuinte, não sendo imprescindível que o Aviso de Recebimento seja assinado por ele.
+Precedentes: REsp nº 923.400/CE, Rel. Min. LUIZ FUX, PRIMEIRA TURMA, DJe de 15/12/2008; RHC nº 20.823/RS, Rel. Min. CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe de 03/11/2009.
+II - A comprovação do fato de que o recebedor da notificação não reside na casa da ora agravante depende de dilação probatória, sendo, portanto, incabível sua apreciação em sede de exceção de pré-executividade.
+III - Agravo regimental improvido.
+(AgRg no AREsp 57.707/RS, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 17/04/2012, DJe 07/05/2012)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. LANÇAMENTO. ENTREGA DA GUIA DE RECOLHIMENTO AO CONTRIBUINTE. NOTIFICAÇÃO PRESUMIDA. ÔNUS DA PROVA.
+APLICAÇÃO DE ENTENDIMENTO ADOTADO EM RECURSO REPETITIVO.
+1. A notificação do lançamento do IPTU ocorre com o envio da correspondente guia de recolhimento do tributo para o endereço do imóvel do contribuinte, com as informações que lhe permitam, caso não concorde com a cobrança, impugná-la administrativa ou judicialmente. Para afastar tal presunção, cabe ao contribuinte comprovar o não recebimento da guia.
+2. Orientação firmada no julgamento do REsp 1.111.124/PR , sob o rito dos recursos repetitivos.
+3. Agravo Regimental provido.
+(AgRg no AgRg no Ag 1392278/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/10/2012, DJe 31/10/2012)
+Ao fim, nos termos da Súmula 568/STJ, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quanto houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
