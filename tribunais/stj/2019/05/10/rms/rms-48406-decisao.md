@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por ASSOCIAÇÃO DOS SUBTEN E SARGENTOS DO ESTADO DE GOIÁS e OUTRA com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás, que denegou a segurança postulada pela parte ora recorrente, nos termos da seguinte ementa:
+"MANDADO DE SEGURANÇA. USO DE ARMA DE FOGO DE PROPRIEDADE DO ESTADO. CONSTITUIÇÃO FEDERAL. LEI ESTADUAL. ESTATUTO DO DESARMAMENTO. PORTARIA. 1- Com base na legislação federal e estadual, o Secretário da Segurança Pública do Estado de Goiás está apto a expedir atos normativos internos visando disciplinar regras inerentes à utilização de armas de fogo de propriedade da instituição coorporativa. II - A determinação expedida pela Portaria nº 1.115/2014 de proibir o uso de arma de fogo de propriedade do Estado de Goiás, no interior de casas noturnas, show, boates, salvo em situações utilizadas por policiais em serviço, não constitui arbitrariedade e nem ilegalidade o que afasta a existência de direito líquido e certo. DENEGADA A SEGURANÇA" (fls. 171/172e).
+Nas razões do Recurso Ordinário, a parte ora recorrente sustenta, em síntese, o equívoco do acórdão regional e, consequentemente, a ilegalidade do ato apontado como coator, sustentando a incompetência do Secretário de Segurança Pública para regular o uso de armas de fogo por policiais e bombeiros militares fora do serviço, em casas noturnas e shows, o que foi feito mediante a Portaria 1.115/2014/SSP-GO, a qual pretende seja tornada sem efeito.
+Por fim, requer o provimento do recurso, "para anular a Portaria nº 1.115/2014/SSP-GO, por ser o Recorrido incompetente para regulamentar tal ato" (fl. 193e).
+Contrarrazões a fls. 203/211e.
+Em seu parecer (fls. 232/239e), o Ministério Público Federal manifestou-se pelo não provimento do Recurso Ordinário.
+A irresignação não merece prosperar.
+Conforme se depreende da petição inicial do mandamus, o recorrente impetrou o presente remédio constitucional contra ato comissivo do Exmo. Senhor Secretário Estadual de Segurança Pública, objetivando seja tornado sem efeito "o teor da Portaria nº 1.115/2014/SSP, que visa proibir o uso de armas de fogo de propriedade/posse do Estado de Goiás por policiais militares e bombeiros militares no interior de casas noturnas, de shows e boates, por ser a Autoridade Coatora incompetente para regular tal ato, conforme dispõe o § 1º do art. 33 do Decreto Federal nº 5.123/2004" (fl. 19e).
+No caso, o Tribunal de Origem denegou a segurança, nos seguintes termos:
+"Como se vê, a referida Portaria proíbe o porte de armas, por parte dos impetrantes, servidores da Segurança Pública que não estiverem em serviços, no interior das casas noturnas, shows e boates no Estado de Goiás.
+(..)
+Ressai-se que a Lei Estadual nº 17.257/2001 dispõe sobre a organização administrativa do Poder Executivo, dando competência aos Secretários de Estado, nos seguintes termos:
+"Art. 8º Compete aos Secretários de Estado. aos titulares de órgãos equivalentes e aos presidentes das entidades autárquicas e fundacionais auxiliar o Governador do Estado no exercício da direção superior da administração pública estadual, especialmente:
+III - expedir instruções e outros atos normativos necessários à boa execução de leis e regulamentos."
+A partir deste dispositivo legal, chega-se a conclusão que a Secretaria da Segurança Pública possui atribuições para regular a preservação da ordem pública nos termos emanados pela Constituição Federal, em seu art. 144, alhures citado.
+Todavia, para se deerminar atribuições ao regular funcionameto no porte de arma, é de se buscar, também, apoio na Lei Federal nº 10.862/2003 - Estatuto do Desarmamento que dispõe sobre o registro, posse comercialização de armas (..)
+Vê-se, claramente, que o dispositivo legal acima mencionado reclama sua regulamentação, desta feita, efetivada através do Decreto nº 5.123/2004 que assim dispõe:
+"Os órgãos, instituições e corporações mencionados nos incisos I, II, III, V, VI, VII eX do caput do art. 6o da Lei nº 10.826, de 2003, estabelecerão, em normativos internos, os procedimentos relativos às condições para a utilização das armas de fogo de sua propriedade, ainda que fora do serviço.
+§2º. As instituições, órgãos e corporações nos procedimentos descritos no caput, disciplinarão as normas geris de uso de arma de fogo de sua propriedade, fora do serviço, quando se tratar de locais onde haja aglomeração de pessoas, em virtude de evento de qualquer natureza, tais como no interior de igrejas, escolas, estádios, desportivos, clubes, públicos e privados."
+Com base nestas normas constitucionais e legislativas, foi
+emanada a Portaria nº 115/2014, ora fustigada, com a seguinte disposição:
+"Art. 1º. Proibir o uso de armas de fogo de propriedade e posse do Estado de Goiás no interior de casas noturnas, de show e boates, salvo aquelas utilizadas por policiais em serviço"
+Como se pode ver, a restrição imposta pela Portaria limita-se ao policial que não esteja em serviço. Ressalta-se que o Secretário de Segurança Pública do Estado de Goiás, ao editar Portaria disciplinando sobre o uso de arma de fogo da própria instituição, atua ao amparo da lei.
+(..)
+Como visto, a Portaria mencionada visa resguardar a ordem pública no interesse geral dos particulares.
+Com muita propriedade, a Procuradoria Geral de Justiça em seu judicioso parecer, assim se manifesta (fl. 143):
+"Público e notório que em shows, boates, casas noturnas e ambientes similares a venda de bebida alcoólica é demais comum e associada a brigas, de modo que, não raro, policiais fora de serviço são envolvidos em tais situações e acabam por cometer delitos, redundando em responsabilização objetiva do Estado, ao passo que, muitas vezes, as armas utilizadas são de posse/propriedade do ente público".
+Infere-se que a portaria, ora em questão, foi emanada com base legal, não existindo, por conseguinte, ilegalidade ou arbitrariedade que pudesse dar ensejo a presente ação mandamental, não havendo, pois, falar em direito líquido e certo" (fls. 163/169e).
+Dos autos, verifico que a impetrante não indicou qual o ato de efeitos concretos das autoridades impetradas teria violado direito líquido e certo seu. Apenas alega a ilegalidade da Portaria 1.115/2014/SSP-GO, norma genérica e abstrata, que regula o uso de armas de fogo por policiais militares, fora de serviço, em casas noturnas.
+Assim, é o caso de incidência do óbice previsto na Súmula 266/STF, que contém a seguinte redação: "Não cabe mandado de segurança contra lei em tese". Nesse sentido:
+"ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. PORTE DE ARMA DE POLICIAIS CIVIS. ENTRADA EM LUGARES DE AGLORAMERAÇÃO PÚBLICA. PROIBIÇÃO POR PORTARIA JUDICIAL. INTELIGÊNCIA DA LEI 10.826/2003 E DO DECRETO 5.123/2004. AUSÊNCIA DE REGULAMENTAÇÃO. DENEGAÇÃO DA SEGURANÇA.
+1. Não configura direito líquido e certo dos policiais civis o porte de arma em locais de aglomeração pública, fora do horário de serviço, se ausente a regulamentação exigida pelo Decreto 5.123/2004.
+2. Inexistindo na impetração qualquer referência à situação que objetivamente viole direito líquido e certo, não há como conceder mandado de segurança. Aplicação da Súmula 266 do STF (não cabe Mandado de Segurança contra lei em tese).
+3. Recurso Ordinário em Mandado de Segurança não provido" (STJ, RMS 51.462/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2016, DJe 09/09/2016).
+Em hipótese similar à dos autos, veja-se a deliberação monocrática no RMS 48.297, Relator Ministro MAURO CAMPBELL MARQUES, DJe de 14/09/2015.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente Recurso Ordinário.
+I.
