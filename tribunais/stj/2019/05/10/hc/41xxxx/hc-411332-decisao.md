@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de MARCOS DAS GRACAS RAPOSO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no Agravo em Execução Penal n. 1.0079.09.922001-8/002.
+Infere-se dos autos que o Juízo das execuções indeferiu os pedidos de substituição das penas privativas de liberdade referentes às guias n. 0079.09.922585-9, 0079.09.922627-0 0079.09.922629-6 por medida de segurança e de extinção da punibilidade em relação à guia n. 0079.09.021054-7.
+Irresignada, a defesa interpôs agravo em execução, tendo o Tribunal de origem negado provimento ao recurso nos termos da seguinte ementa (fl. 201):
+AGRAVO EM EXECUÇÃO - PENA PRIVATIVA DE LIBERDADE - SUBSTITUIÇÃO POR MEDIDA DE SEGURANÇA - SEMIMPUTABILIDADE AO TEMPO da AÇÃO - CAUSA DE DIMINUIÇÃO DA PENA - EXECUÇÃO - SUPERVENIÊNCIA DE DOENÇA MENTAL-INOCORRÊNCIA-EXTINÇÃO DA PUNIBILIDADE - IMPOSSIBILIDADE. 01. Durante a execução da pena, a substituição da pena privativa de liberdade por medida de segurança se dá em virtude da superveniência de doença psíquica, não sendo a condição do semi-imputabiliade, na época dos fatos, motivo para a substituição pretendida. 02. Uma vez unificadas as penas, impossível a extinção da punibilidade parcial relativa à determinada guia especifica.
+Opostos embargos de declaração da respectiva decisão, foram estes rejeitados (fls. 215/217).
+No presente mandamus, a parte impetrante afirma que o laudo pericial foi conclusivo no sentido de que o paciente deve ser submetido à medida de tratamento ambulatorial. Diz que o referido laudo pericial, realizado no âmbito da execução penal, não alcança apenas a guia na qual foi imposta a medida de segurança de internação, mas bem como as guias descritas no atestado de penas de folha 138, onde houve o reconhecimento da semi-imputabilidade do paciente (fl. 3).
+Complementa que, "se atualmente o paciente reúne condições para ser submetido à medida de segurança ambulatorial, nos termos da conclusão do laudo pericial, também relativamente às condenações onde fora reconhecida a semi-imputabilidade não há qualquer limitação legal para que ocorra a substituição da pena, sobretudo à luz do disposto no artigo 98, do Código Penal" (fl. 4).
+Requer, em liminar e no mérito, a substituição das penas privativas de liberdade referentes às guias de execuções apresentadas nos autos nas quais foram reconhecidas a semi-imputabilidade em exame pericial psiquiátrico, pela medida de segurança ambulatorial.
+O pedido de liminar foi indeferido às fls. 223/224.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração (fls. 229/231).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado acima, busca a defesa a substituição das penas privativas de liberdade referentes às guias de execuções apresentadas nos autos nas quais foram reconhecidas a semi-imputabilidade em exame pericial psiquiátrico, pela medida de segurança ambulatorial.
+O judicioso parecer do representante do Parquet Federal, em manifestação perante esta Corte Superior de Justiça, bem abordou o tema em análise, cujos fundamentos adoto como razões de decidir e, ora transcrevo:
+O Colegiado a quo entendeu com propriedade por manter a decisão que indeferiu o pedido de substituição das penas privativas de liberdade do paciente, uma vez que o exame pericial psiquiátrico acostado pela defesa, que constatou a cessação de periculosidade do reeducando, refere-se apenas à guia de nº 0079.09.973918-1, na qual foi aplicada a medida de segurança de internação, consignando que todas as três guias citadas tratam de condenações nas quais, embora reconhecida a semi-imputabilidade do agravante, não foram fixadas medidas de segurança, mas aplicadas penas privativas de liberdade, devidamente reduzidas.
+Por outro lado, o Juízo sentenciante, ao reconhecer a semi-imputabilidade do réu, optou pela redução da pena privativa de liberdade, não podendo o Juízo das Execuções alterar a condenação sem razão idônea e superveniente.
+Asseverou-se, ainda, no acórdão que se pretende desconstituir:
+( ) Não se trata, in casu, de superveniência de doença mental no curso da execução da pena, eis porque não se aplica na espécie o disposto no art. 183 da LEP. Ao contrário, atestada a redução/cessação da periculosidade, deve o condenado cumprir as penas privativas de liberdade impostas, mantendo-se o acompanhamento de especialistas, conforme expresso na decisão de fls. 128/129.
+(..) (fls. 203/204)
+Não há, pois, ilegalidade flagrante que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
