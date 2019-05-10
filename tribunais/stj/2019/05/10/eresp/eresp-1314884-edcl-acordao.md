@@ -1,0 +1,52 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATO DE AGENCIAMENTO DE VIAGEM. CLÁUSULA PENAL COMPENSATÓRIA. PERDA GRADATIVA DE VALORES PAGOS EM CASO DE CANCELAMENTO TARDIO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. DIREITO NÃO HOMOGÊNEO. IMPROPRIEDADE DA VIA ELEITA. ABUSIVIDADE QUE DEVE SER VERIFICADA CASUISTICAMENTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+
+A Quarta Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos contra acórdão proferido por esta Quarta Turma, o qual negou provimento ao recurso especial interposto.
+Em seu recurso, a parte embargante alegou a existência de omissão quanto à análise da homogeneidade dos direitos individuais discutidos no presente processo, bem como quanto à abusividade da transferência do risco da atividade do fornecedor aos consumidores.
+Regularmente intimada, a ASSOCIAÇÃO BRASILEIRA DE CRUZEIROS MARÍTIMOS - CLIA BRASIL pugnou pela rejeição do recurso.
+A ASSOCIAÇÃO NACIONAL DE DEFESA DA CIDADANIA E DO CONSUMIDOR - ANADEC, por sua vez, pugnou pelo acolhimento dos embargos
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATO DE AGENCIAMENTO DE VIAGEM. CLÁUSULA PENAL COMPENSATÓRIA. PERDA GRADATIVA DE VALORES PAGOS EM CASO DE CANCELAMENTO TARDIO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. DIREITO NÃO HOMOGÊNEO. IMPROPRIEDADE DA VIA ELEITA. ABUSIVIDADE QUE DEVE SER VERIFICADA CASUISTICAMENTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Da análise dos autos, saliento que não se verifica a omissão apontada, devendo-se manter o acórdão recorrido pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+A despeito das alegações contidas nos embargos, destaco que os assuntos foram objeto de decisão expressa por esta Quarta Turma, conforme se depreende da leitura dos seguintes trechos (fls. 682/687 e-STJ):
+"Penso, portanto, que se a análise da redução da cláusula penal em contratos de compra e venda de bens imóveis - bens duráveis e sempre passíveis de revenda pelo fornecedor - é feita caso a caso, pelo magistrado, com base nas peculiaridades de fato que lhe são submetidas, com mais razão ainda a redução de cláusula penal de contrato de intermediação de serviços turísticos não pode ser feita de forma genérica, em abstrato, sem levar em consideração qual o tipo de pacote contratado, em que bases foi feita a negociação entre a agência de turismo e os vários fornecedores envolvidos em cada programa turístico, as regras de regulação nacional e internacional, a antecedência da desistência do consumidor e mesmo o motivo da desistência.
+Com efeito, embora concorde com o eminente relator em que o risco do negócio é do fornecedor, não cabendo sua transferência ao consumidor, por outro lado, não assiste a este o direito de, mediante pura e imotivada desistência, o que seria condição puramente potestativa (a de manter-se ele interessado no pacote turístico até a data da viagem) causar prejuízo ao operador de turismo, no mais das vezes, mero intermediário dos reais fornecedores (transportadores terrestres, aéreos, urbanos, interurbanos, hotéis de luxo, pousadas modestas e todo o tipo de agentes de entretenimento).
+Assim, se há intempéries que prejudicam o fornecimento do serviço, como fenômenos da natureza, doenças, e toda a espécie de fortuito interno, caberá o risco da atividade econômica aos fornecedores, inclusive à agência de turismo, intermediária na cadeia de fornecimento, os quais arcarão solidariamente com o prejuízo.
+Nesse sentido, verifico que o consumidor já se encontra normativamente protegido, podendo ser citada a Portaria nº 3/2001, da Secretaria de Direito Econômico do Ministério da Justiça, mencionada pelo Ministro Relator, a qual estabelece que é abusiva a cláusula que "imponha a perda de parte significativa das prestações já quitadas em situações de venda a crédito, em caso de desistência por justa causa ou impossibilidade de cumprimento da obrigação pelo consumidor."
+Por outro lado, se há desistência pura e simples do consumidor, especialmente do imprevidente, que não contratou seguro, ou que optou por pagar preço descontado exatamente pela vedação contratual de cancelamento, a redução da cláusula penal há de ser criteriosa e equitativamente ponderada pelo magistrado caso a caso.
+A tutela do consumidor, em casos tais, não pode ser de molde a onerar tanto o mercado fornecedor que acabe inflando os preços e inviabilizando a concessão de descontos àqueles que, avaliando suas próprias conveniências, optem por assumir mais riscos.
+(..)
+Voltando ao caso dos autos, observo que, na genérica, padronizada e abstrata inicial da ação civil pública, não são esclarecidos quais os tipos de serviços concretamente prestados pela ré, se são intermediados pacotes marítimos, aéreos ou terrestres, nacionais ou internacionais, se são prestados serviços individualmente requeridos fora de pacotes, quais são os fornecedores diretos dos serviços intermediados, qual o público alvo. Não é demonstrado, sequer por estimativa, qual o custo causado em caso de desistência pelo consumidor em cada tipo de pacote ou serviço prestado; não é narrado um caso concreto sequer de consumidor lesado.
+Igualmente não é juntada à inicial a relação de consumidores associados à autora que serão beneficiados por eventual decisão condenatória.
+(..)
+Isso porque a defesa de interesses individuais por meio de ação civil pública tem por pressuposto que sejam homogêneos.
+Não há homogeneidade possível entre o contratante de cruzeiro marítimo internacional, a ser operado por determinada companhia de cruzeiros estrangeira, representada no Brasil, com exclusividade ou não, pela agência ré, ou pacote de cruzeiro marítimo pela costa brasileira, operado por empresa nacional, de um lado, e, de outro, o consumidor de pacotes mais simples, como, por exemplo, pacote turístico em pousada de cidade vizinha, à qual o adquirente chega dirigindo o próprio carro ou em ônibus fretado. E, dentre as pousadas da mesma cidade, há as grandes e pequenas, de maior luxo ou econômicas, todas com políticas próprias de cancelamento, que devem ser negociadas, informadas e repassadas ao consumidor pela agência de turismo.
+Dadas essas circunstâncias entendo, data maxima vênia, que considerados os termos genéricos em que redigida a inicial, sem apontar fatos concretos lesivos aos consumidores, e dada a falta de homogeneidade possível entre as inúmeras possibilidades de serviços de intermediação que possam vir a ser prestados pela ré, a solução adequada seria a extinção do processo sem exame do mérito.
+A sentença, confirmada pelo acórdão recorrido, concluiu pela improcedência do pedido, enfatizando que "não há como rever um contrato para substituir percentual nele inserido, escalonado e com gradação por critério lógico, por um outro, único, que iguala situações desiguais, não comprovadamente adequado, sob pena de apenas transferir o polo contratual vítima da abusividade."
+Penso que a desigualdade das infinitas possibilidades de pacotes de turismo, reveladora da falta de homogeneidade dos direitos que se pretende tutelar por meio da presente ação civil pública, a rigor, conduz à inadequação da via eleita."
+Assim sendo, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pelo embargante, circunstância que não eiva o acórdão de nulidade.
+Verifico, assim, que o embargante pretende, sob o pretexto de existência de omissão, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente prequestionar os pontos levantados pela parte.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. MULTA DO ART. 1.026, § 2º, DO CPC/2015. DESCABIMENTO. AUSENTE O CARÁTER PROTELATÓRIO DOS ACLARATÓRIOS. EMBARGOS REJEITADOS.
+1. É inadmissível a oposição de embargos de declaração para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. Descabida a multa do art. 1.026, § 2º, do CPC/2015, como pleiteado pela parte embargada, na medida em que não configurado caráter protelatório nos presentes aclaratórios.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1316328/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/3/2019, DJe 20/3/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
