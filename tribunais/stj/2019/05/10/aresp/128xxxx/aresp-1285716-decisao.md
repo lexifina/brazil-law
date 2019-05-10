@@ -1,0 +1,18 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CÓDIGO FUX NÃO CONFIGURADA. SUCESSÃO EMPRESARIAL. REVISÃO. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DA FAZENDA NACIONAL DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL em face de acórdão de lavra do TRF da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO LEGAL. APLICAÇÃO DO ARTIGO 557, CAPUT, DO CPC. AUSÊNCIA DE NOVOS ARGUMENTOS PARA AUTORIZAR A REFORMA DA DECISÃO AGRAVADA.
+1. A r. decisão impugnada foi proferida em consonância com o disposto no artigo 557, caput, do Código de Processo Civil;
+2. A parte agravante não apresenta argumentos relevantes que autorizem ou justifiquem a reforma da r. decisão agravada;
+3. No caso em análise, com efeito, escudaram a tese da "sucessão empresarial", em essência, o fato de as empresas atuarem no mesmo ramo de atividades e a circunstância de as empresas praticarem suas atividades empresárias no mesmo endereço.
+4. Consequentemente, embora a responsabilidade tributária derivada de sucessão empresarial não necessite, necessariamente, ser formalizada, os elementos constantes dos autos, por ora, não autorizam o redirecionamento da execução, não tendo sido comprovada a aquisição do fundo de comércio.
+5. Agravo legal desprovido (fls. 137).
+2. Aponta a parte agravante ofensa aos arts. 1.022 do Código Fux e 133 do CTN. Sustenta, em suma, que há nos autos elementos suficientes a demonstrar que ocorreu, de fato, a alegada sucessão empresarial, já que a referida empresa se encontra estabelecida no mesmo endereço onde a executada, explorando ramo de atividade idêntico (fls. 167).
+3. É o relatório.
+4. Inexiste a alegada violação do art. 1.022 do Código Fux, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.. Confira-se:
+(..) 3. No caso em análise, com efeito, escudaram a tese da "sucessão empresarial", em essência, o fato de as empresas atuarem no mesmo ramo de atividades e a circunstância de as empresas praticarem suas atividades empresárias no mesmo endereço.
+4. Consequentemente, embora a responsabilidade tributária derivada de sucessão empresarial não necessite, necessariamente, ser formalizada, os elementos constantes dos autos, por ora, não autorizam o redirecionamento da execução, não tendo sido comprovada a aquisição do fundo de comércio (fls. 135).
+5. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+6. No mais, não se mostra cabível nesta via o debate acerca da existência ou não de sucessão empresarial ante o óbice constante da Súmula 7. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo, senhor na análise probatória. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do aresto impugnado, inviável o apelo nobre (AgInt no AREsp. 952.904/SP, Rel. Min. OG FERNANDES, DJe 19.12.2016). Em igual sentido: REsp. 1.728.313/SP, Rel. Min. HERMAN BENJAMIN, DJe 24.5.2018; AgInt no AREsp. 975.631/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 15.5.2018.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da FAZENDA NACIONAL.
+8. Publique-se. Intimações necessárias.
