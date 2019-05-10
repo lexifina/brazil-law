@@ -1,0 +1,16 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se de embargos de declaração (fls. 468/472) por meio dos quais se alega que a decisão embargada omitiu-se quanto ao arbitramento dos honorários sucumbenciais recursais, nos moldes previstos no art. 85, § 11, do CPC/2015.
+Requer sejam acolhidos os embargos.
+É o relatório. Passo a decidir.
+O acórdão recorrido registra que, uma vez acolhida a exceção de pré-executividade oposta e reconhecida a prescrição em favor dos sócios executados, a execução fiscal ajuizada pelo ente público ora embargado foi extinta em relação àqueles, sendo fixados honorários advocatícios sucumbenciais, na sentença de primeiro grau, em 10% (dez por cento) sobre o valor da causa, nos termos do art. 20, § 3º, do CPC/1973 (fl. 395).
+Ao apelo interposto pelo ESTADO DE MATO GROSSO, foi dado parcial provimento parcial apenas para reduzir tal verba honorária para R$ 30.000,00 (trinta mil reais), nos termos do art. 20, §§ 3º e 4º, do CPC/1973 (fl. 397).
+O recurso especial, também interposto pelo ente público em questão, restou parcialmente conhecido e, nessa parte, não provido.
+Por meio dos aclaratórios de fls. 468/472, os particulares pretendem sejam fixados honorários previstos no art. 85, § 11, do CPC/2015.
+Como acima descrito, verifica-se que, perante este Superior Tribunal de Justiça, o recurso interposto pelo ora embargado não teve êxito.
+A análise do aludido dispositivo permite exegese no sentido de que a fixação de honorários sucumbenciais recursais deve levar em consideração o trabalho adicional realizado em grau recursal.
+Nesse contexto, impõe-se reconhecer que os ônus sucumbenciais, especificamente em relação a esta instância excepcional, devem ser suportados pela parte ora embargada.
+Em síntese: (a) a fixação da sucumbência recursal abrange a majoração dos honorários antes fixados (na hipótese de o recurso não prosperar) e o arbitramento de nova verba, com redistribuição dos honorários antes fixados (na hipótese de provimento do recurso), considerando-se, em ambos os casos, o trabalho adicional realizado em grau recursal; (b) o § 11 do art. 85 do CPC admite interpretação extensiva para que seja arbitrada verba honorária, a título de sucumbência recursal, contra aquele que, não obstante vencedor na instância a quo, não obtém êxito em recurso no qual pleiteia a majoração da condenação e/ou da própria verba honorária.
+Assim, considerando o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), bem como o trabalho adicional realizado em grau recursal, majoro os honorários, devidos em favor da parte embargante, em montante correspondente a 10% (dez por cento) sobre o valor fixado pelo Tribunal de origem.
+Diante do exposto, acolho os embargos de declaração para sanar a omissão referente aos ônus sucumbenciais, nos termos da fundamentação.
+Publique-se. Intimem-se.
