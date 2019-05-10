@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RONALD DUTRA DE OLIVEIRA, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2097563-96.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Consta dos autos que o paciente foi preso em flagrante em 22-02-2019, como incurso nos artigos 180 do Código Penal, tendo-lhe sido deferida a liberdade provisória mediante o pagamento de fiança.
+Sustenta o impetrante que se estaria diante de flagrante ilegalidade passível de afastar o óbice contido no enunciado 691 da Súmula do Supremo Tribunal Federal.
+Nesta via, o impetrante alega que o paciente é pobre na acepção jurídica do termo, não possuindo recursos financeiros que suportem a fiança arbitrada, motivo pelo qual permanece encarcerado desde a prisão em flagrante.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que seja deferida a liberdade do paciente sem fiança, com a expedição do competente alvará de soltura.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que "O caso não é de concessão de liminar, posto que a legalidade da prisão preventiva do paciente já foi reconhecida por esta Câmara no julgamento do HC nº 2052877-19.2019.8.26.0000, impetrado anteriormente em seu favor. Assim, não há ilegalidade ou abuso de poder que se verifique de plano e justifique a tomada de providências nesta fase preambular" (e-STJ fls. 11-12).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
