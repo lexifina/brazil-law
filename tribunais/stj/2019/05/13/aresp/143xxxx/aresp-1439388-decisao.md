@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 170):
+Apelação - Plano de saúde - Obrigação de fazer - Recusa na realização de procedimento cirúrgico para correção de CEROTOCONE - Indicação médica para realização do procedimento - Negativa de cobertura - Abusividade - Cabe ao médico especialista eleger o tratamento mais indicado ao paciente e não ao plano de saúde - Aplicação da Súmula 102 desta Corte - Dano moral configurado - Sentença mantida - Recurso a que se nega provimento.
+Opostos embargos de declaração, foram acolhidos, tão somente, para reconhecer e corrigir erro material, sem modificação do julgado.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 186, 188, 884, 927 e 944, parágrafo único, do Código Civil de 2002; além de divergência jurisprudencial. Sustenta, em síntese, a ausência de ato ilícito praticado pela recorrente, pois sua conduta sempre esteve amparada nas disposições contratuais e nas normas que regem sua atividade, de modo que não ficou caracterizado o suposto dano moral. Alega, ainda, que o valor da indenização por dano moral, fixado em R$ 8.000,00 (oito mil reais), é indevido e desarrazoado, devendo, portanto, ser reduzido, em observância ao princípio da razoabilidade, bem como para evitar o enriquecimento ilícito do recorrido.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+Inicialmente, constato que o conteúdo normativo dos arts. 186, 884, 927 e 944, parágrafo único, do Código Civil não foi objeto de exame pela Corte de origem, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a esse aspecto, de modo que se mostra inviável a análise da alegada violação dos referidos dispositivos legais, pois ausente o requisito do prequestionamento. Incidem, na espécie, portanto, os óbices previstos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+Além disso, verifica-se que a matéria foi decidida pelo Tribunal de origem com base nos seguintes fundamentos (e-STJ, fls. 171-174):
+2. A pretensão recursal não merece acolhimento.
+FELIPE GARCIA FELTRIN foi diagnosticado com CERATOCONE, doença degenerativa nas córneas, sendo indicado procedimento cirúrgico, pelo qual a ré alega não ater obrigação contratual ou legal para assumir os custos.
+Os relatórios médicos revelam o estado clínico do paciente e a indicação para a realização do procedimento cirúrgico nos olhos do coautor (fls. 37/40), de modo que não deve prosperar a negativa da ré, fundamentando-se no fato de se tratar de procedimento excluído contratualmente.
+O paciente não está se submetendo a tratamento desta espécie por sua própria vontade, como se daria, por exemplo, no caso de uma cirurgia plástica estética isolada sem conexão com qualquer patologia, de forma que o tratamento deve ser ministrado com a melhor cobertura que lhe fora assegurada.
+Já se decidiu que cabe ao médico especialista eleger o tratamento mais conveniente à cura do paciente e não ao plano: "o plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura" (REsp 668.216/SP, Rel. Ministro Carlos Alberto Menezes Direito, julgado em 15/03/2007).
+Aplica-se à hipótese o enunciado da Súmula 102 do Tribunal de Justiça: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS".
+Os danos morais também são devidos.
+A recalcitrância da ré em liberar o procedimento solicitado colocou em risco a saúde e qualidade de vida do coautor de maneira que deve ser reconhecida a ocorrência do dano moral por ultrapassar os limites de mero descumprimento contratual.
+Nesse sentido o posicionamento do STJ:
+CIVIL E PROCESSUAL CIVIL RECURSO ESPECIAL AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS RECUSA INDEVIDA À COBERTURA DE TRATAMENTO DE SAÚDE DANO MORAL FIXAÇÃO.
+A recusa, pela operadora de plano de saúde, em autorizar tratamento a que esteja legal ou contratualmente obrigada, implica dano moral ao conveniado, na medida em que agrava a situação de aflição psicológica e de angústia no espírito daquele que necessita dos cuidados médicos. Precedentes.
+Recurso especial provido. (STJ REsp 1.322.914 (2012/0097003-6) 3ª T. Relª Minª Nancy Andrighi DJe 12.03.2013).
+Quanto à fixação dos danos morais, já se decidiu que o juiz deve ser a um só tempo razoável e severo, pois só assim atenderá a finalidade de compensar e dar satisfação ao lesado e de desestimular a reincidência. A indenização deve ser razoavelmente expressiva, sem que seja fonte de enriquecimento (Apelação Cível 253.723-1, Des. José Osório, JTJ-Lex 199/59).
+Com o intuito de atingir esse equilíbrio o julgador deve recorrer ao princípio da proporcionalidade ou da razoabilidade, como pondera [NOME]: "Se, por um lado, deve entender que a indenização tem função pedagógica ou educativa para futuras condutas, por outro, não pode o valor pecuniário gerar enriquecimento sem causa ou ruína do ofensor, devendo ser aplicado o princípio da proporcionalidade ou da razoabilidade na fixação do quantum indenizatório" (Manual de Direito Civil, Editora Método, 1ª ed., pg. 434).
+Levando em conta os quesitos acima, entendo razoável o valor fixado (R$ 8.000,00), que se mostra adequado às peculiaridades do caso concreto e atende sua finalidade.
+3. Ante o exposto e por tudo mais que dos autos consta, NEGO PROVIMENTO ao recurso.
+Considerando o limite estabelecido na lei, mantenho a sucumbência estabelecida na sentença.
+Desse modo, ainda que fosse possível ultrapassar o óbice da ausência de prequestionamento da matéria, o recurso não mereceria provimento, pois esta Corte Superior já decidiu que, embora a seguradora, com alguma liberdade, possa limitar a cobertura do seguro, a definição do tratamento a ser prestado cabe ao profissional de saúde, de modo que, se a doença está acobertada pelo contrato, a operadora do plano não pode negar o procedimento terapêutico adequado.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL DA QUAL SUSTENTA VIOLAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. ARTROSCOPIA E MOSAICOPLASTIA DO JOELHO. LISTA DE PROCEDIMENTOS DA ANS. ROL EXEMPLIFICATIVO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 3. DANO MORAL. CABIMENTO. PRECEDENTES DO STJ. 4. MINORAÇÃO DO MONTANTE INDENIZATÓRIO. SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. A não indicação, na petição de recurso especial, do dispositivo legal relacionado à lei federal supostamente violada, atrai a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. A jurisprudência desta Corte já firmou o entendimento no sentido de que a "operadora de plano de saúde pode estabelecer as doenças que terão cobertura, mas não podem limitar o tipo de tratamento a ser utilizado pelo paciente. Dessa forma, sendo fato incontroverso a cobertura securitária para a enfermidade em questão, inviável a insurgência da recorrente pretendendo limitar o tipo de tratamento a que deve se submeter o paciente." (AgInt no AREsp 1.072.960/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/6/2017, DJe 8/9/2017).
+2.1. Também está firmada a orientação de que é inadmissível a recusa do plano de saúde em cobrir tratamento médico voltado à cura de doença coberta pelo contrato sob o argumento de não constar da lista de procedimentos da ANS, pois este rol é exemplificativo, impondo-se uma interpretação mais favorável ao consumidor.
+3. Com efeito, a jurisprudência deste Tribunal Superior é firme no sentido de que caracteriza ato ilícito, passível até mesmo de reparação moral, a recusa injustificada em cobrir exame médico essencial ao diagnóstico e tratamento de doença coberta pelo plano de saúde. Incidência da Súmula n. 83/STJ.
+4. Aplica-se a Súmula n. 7/STJ também à pretensão de reexame do quantum indenizatório fixado pela origem, sendo tal providência admitida apenas quando o montante for estabelecido em patamar excessivo ou irrisório, situação que não se verifica no caso concreto, em que se fixou o montante de R$ 20.000,00 (vinte mil reais).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.328.258/AL, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/12/2018, DJe 6/12/2018.)
+Outrossim, cumpre observar que o valor arbitrado a título de danos morais somente pode ser revisto, em recurso especial, nas hipóteses de evidente exagero ou manifesta insignificância, o que não ocorre no caso em análise, no qual o montante indenizatório foi arbitrado em R$ 8.000,00 (oito mil reais).
+Exemplificativamente:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE COBERTURA. DANOS MORAIS. VALOR. RAZOABILIDADE. NÃO PROVIMENTO.
+ ..
+2. Consoante entendimento pacificado no STJ, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+3. Agravo interno a que se nega provimento.
+Indenização por dano moral: R$ 15.000,00 (quinze mil reais).
+(AgInt no AREsp 1.295.983/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/2/2019, DJe 15/2/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CANCELAMENTO JUSTIFICADO POR INADIMPLÊNCIA. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA.  .. . PREJUÍZO AO TRATAMENTO MÉDICO EM CURSO. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO RAZOÁVEL. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+ ..
+3. Somente é possível a revisão do montante da indenização a título de danos morais nas hipóteses em que o quantum fixado na origem for exorbitante ou irrisório, o que não ocorreu no caso em exame, em que arbitrada a quantia de R$ 10.000,00 (dez mil reais).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.352.737/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 4/12/2018.)
+Em face do exposto, nego provimento ao agravo.
+Observados os limites previstos nos §§ 2º e 3º do art. 85 do CPC/2015, deixo de majorar os honorários advocatícios arbitrados em favor da parte recorrida, porque já fixados no limite legal máximo.
+Intimem-se.
