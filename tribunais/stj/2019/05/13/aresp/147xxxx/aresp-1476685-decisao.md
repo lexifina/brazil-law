@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 406):
+APELAÇÃO CÍVEL - LIQUIDAÇÃO DE SENTENÇA - ILEGITIMIDADE ATIVA - AUTOR QUE NÃO INTEGRA O GRUPO MAGISTÉRIO - CARÊNCIA DE AÇÃO RECONHECIDA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - RECURSO NÃO PROVIDO.
+Conforme se verifica, para pleitear a execução da sentença coletiva genérica basta que a parte demonstre integrar o grupo magistério. Analisando detidamente os autos, verifica-se que o autor não exerce função do grupo magistério, logo, não se enquadra no rol previsto na ação coletiva, razão pela qual a carência de ação deve ser reconhecida.
+Recurso não provido.
+Presidente deste Tribunal, nos termos do que dispõe o caput do artigo 977 do Novo Código de Processo Civil. Ademais, não se verifica hipótese de enquadramento no artigo 572 do RITJMS.
+Nas razões do especial, a parte recorrente aponta violação aos art. 502 do CPC/2015. Defende que "a sentença meritória proferida nos autos da ação coletiva proposta pela FETEMS - Federação dos Trabalhadores em Educação do Estado de Mato Grosso do Sul consiste em condenação genérica, de abrangência regional, alcançando todos os filiados ou não filiados aos sindicatos associados à respectiva entidade". Assevera que "atualmente é agente administrativo, em pleno exercício de suas funções, ou seja, dentro da unidade escolar, pertencente ao grupo magistério, o qual a legitima para pleitear a presente liquidação de sentença".
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Colhe-se do aresto estadual a seguinte fundamentação (fls. 407/408):
+Na ação coletiva que ensejou a presente liquidação de sentença, a Federação dos Trabalhadores em Educação de Mato Grosso do Sul (FETEMS) pleiteou a condenação do Estado de Mato Grosso do Sul ao pagamento da quantia despendida pelos servidores do grupo magistério, a título de custos operacionais dos empréstimos (taxas do próprio contrato, juros, IOF), que foram descontados dos valores repassados aos servidores.
+A sentença proferida no processo de conhecimento identificou como titulares do direito perseguido na ação todos os servidores estaduais ativos e inativos do grupo do magistério nos anos de 2000 a 2003, não havendo quaisquer discussões acerca da legitimidade da federação ou dos representados.
+Conforme se verifica, para pleitear a execução da sentença coletiva genérica basta que a parte demonstre integrar o grupo magistério.
+Analisando detidamente os autos, verifica-se que os apelantes não não se enquadram no rol previsto na ação coletiva, exclusivo aos servidores estaduais ativos e inativos integrantes do grupo magistério e, portanto, não possuem o direito pleiteado nesta liquidação.
+Sendo, assim, diante da ilegitimidade dos apelantes para figurarem no polo ativo da demanda, entendo que deve ser mantida a sentença, que acolheu a preliminar de carência da ação e consequentemente determinou a extinção do feito sem resolução do mérito.
+Verifica-se que a matéria pertinente ao art. 502 do CPC/2015 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ainda que assim não fosse, a desconstituição das premissas lançadas pela instância ordinária acerca da ilegitimidade ativa da liquidante demandaria, necessariamente, o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
