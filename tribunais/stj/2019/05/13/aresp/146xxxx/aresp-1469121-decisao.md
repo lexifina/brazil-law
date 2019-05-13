@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. EXECUÇÃO. INÍCIO DO PRAZO PRESCRICIONAL. CONHECIMENTO DO TRÂNSITO EM JULGADO DO TÍTULO EXECUTIVO. FUNDAMENTO NÃO IMPUGNADO. SÚM. N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por São Paulo Previdência - SPPREV em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 15):
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA EM FASE DE EXECUÇÃO. Decisão vergastada que rechaçou a alegação de prescrição da pretensão executiva. Título judicial de mandado de segurança coletivo impetrado pelo Sindicato dos Trabalhadores Públicos da Saúde SINDSA UDE. Prescrição. Inocorrência. Não corre a prescrição enquanto não iniciadas diligências necessárias à liquidação do crédito resultante de sentença proferida em ação coletiva. Inaplicabilidade do julgamento proferido no REsp 1.388.000/PR (tema 877) por se tratar o "leading case " diverso. Decisão mantida. Recurso não provido.
+No especial, o recorrente defende violação do art. 1º do Dec.-Lei n. 20.910/1932, uma vez que deve ser declara a prescrição da pretensão executória. Assevera que não o prazo não ficou suspenso enquanto se aguardou apresentação de fichas financeiras oficiais e nem houve interrupção quando foi citada para cumprir obrigação de fazer.
+Contrarrazões às e-STJ fls. 36/60.
+A decisão agravada negou seguimento ao especial sob a compreensão de que o provimento das teses recursais depende de exame probatório dos autos.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque a análise das questões recursais não esbarram no óbice da Súm. n. 7/STJ.
+Contraminuta às e-STJ fls. 85/90.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+O Tribunal de origem decidiu que há peculiaridades no caso dos autos que o distinguem do REsp n. 1.388.000/PR. Com efeito, salientou que os exequentes não podem ser prejudicados durante o prazo que não tiveram conhecimento do trânsito do título executivo judicial. Confira-se (e-STJ fl. 16/):
+Aliás, com intuito de evitar repetição desnecessária, pede-se vênia para transcrever excerto da brilhante decisão da lavra do ilustre Desembargador Danilo Panizza, em caso análogo, extraída da mesma ação coletiva, no qual sintetiza a questão:
+A ação que originou o crédito objetivado fora promovida por Sindicato, em mandado de segurança coletivo, sendo vários os legitimados, daí não se podendo afastar a ausência de comunicação aos interessados acerca de tal propositura, quanto mais de seu êxito, a fim de que se dê início ao prazo prescricional para sua execução, corroborando, dessa forma, o posicionamento externado pela Magistrada, que reconheceu a aplicação do art. 94 do CDC, cabível o prescrito no art. 5º, LIV, da Constituição Federal.
+E, ainda, em reforço, a prevalecer o afastamento da prescrição, apesar do lapso temporal quinquenal ocorrido entre a decisão do processo de conhecimento e a promoção do cumprimento de sentença, em se tratando de título executivo judicial, embora tornado certo pelo trânsito em julgado daquela sentença de conhecimento, só pode ser executado quando também tornado título líquido.
+ ..
+Por outro lado, ainda que assim não o fosse, a ausência de comunicação aos interessados acerca da propositura da ação (art. 94, do CDC), se consubstancia em causa impeditiva para o transcurso do prazo prescricional, pelo completo desconhecimento da demanda pelos interessados.
+Não se pode perder de vista que a mens legis consiste em oportunizar aos interessados intervir no processo como litisconsortes, sem prejuízo de ampla divulgação pelos meios de comunicação social, de maneira que inobservada tal regra, na fase de conhecimento, esta será extensiva à execução, sob pena de tornar a norma inócua.
+Esse fundamento não foi impugnado pelo recurso especial, apesar de suficiente para manutenção do acórdão a quo. Por essa razão, não é possível conhecer das teses recursais nos termos da Súm. n. 283/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
