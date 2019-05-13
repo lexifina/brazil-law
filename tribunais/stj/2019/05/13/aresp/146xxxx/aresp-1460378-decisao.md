@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por ENI VASCONCELLOS PEDROSO contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO.
+- Os juros remuneratórios cobrados por instituições financeiras devem obedecer às estipulações do Conselho Monetário Nacional, por força do enunciado n. 596 da Súmula do STF.
+- Consoante orientação emanada pelo Superior Tribunal de Justiça, nos moldes do art. 543-C do Código de Processo Civil (REsp. n. 1.061.530/RS), a caracterização da abusividade do contrato com relação aos juros remuneratórios depende da comprovação cabal de que estão sendo cobradas taxas que excedam significativamente a média de mercado. Incumbe ao devedor provar que o percentual pactuado discrepa da praxis do mercado. Caso em que não vindo aos autos o contrato a ser revisado - mesmo que intimado o banco réu para tanto - a limitação dos juros remuneratórios à taxa média de mercado é a medida que se impõe.
+- Desde que pactuada, é possível a capitalização mensal de juros em contratos bancários celebrados após o advento da Medida Provisória n. 1.963- 17/2000. Caso em que há previsão de capitalização de juros em apenas dois dos contratos revisados.
+- Afastada a aplicação de Tabela Price.
+- É inadmissível a cobrança de comissão de permanência quando hão há prévia e expressa previsão no contrato.
+- O ajuizamento de ação revisional, por si só, não afasta a mora do devedor. Para que se dê a descaracterização da mora, faz-se necessária a averiguação da abusividade dos encargos contratuais contratados para o período de normalidade contratual, isto é, incidentes antes do período de inadimplência. Orientação emanada pelo Superior Tribunal de Justiça, nos moldes do art. 543-C do Código de Processo Civil (REsp. n. 1.061.530/RS).
+NEGARAM PROVIMENTO AO AGRAVO RETIDO E DERAM PARCIAL PROVIMENTO AO RECURSO DE APELAÇÃO .
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais os dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
