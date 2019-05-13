@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA. QUE INDEFERIU O PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONJUNTO PROBATÓRIO QUE EVIDENCIA QUE A PARTE PODE ARCAR COM O PAGAMENTO DAS CUSTAS PROCESSUAIS SEM QUE ACARRETE PREJUÍZO AO SEU SUSTENTO E DE SUA FAMÍLIA. PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA RELATIVA. AGRAVO NÃO PROVIDO.
+Alega violação aos arts. 2º e 4º da Lei n. 1.060/50; e 98 e 99, § 3º, do CPC, no que concerne à possibilidade de concessão do benefício da justiça gratuita, trazendo os seguintes argumentos:
+É certo que a declaração de carência relativa ao beneficio de Justiça Gratuita goza de presunção de veracidade, não sendo exigível prova material da carência, EXCETO NA HIPÓTESE DE HAVER FUNDADAS RAZÕES OU MANIFESTA DÚVIDA PARA O JUIZ ASSIM EXIGIR, O QUE NÃO FOI DEMONSTRADO NEM FUNDAMENTADO NOS AUTOS EM NENHUM MOMENTO PELO E. TRIBUNAL DE JUSTIÇA DO PARANÁ OU PELO MM. JUÍZO DE PRIMEIRO GRAU (fl. 371).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos, haja vista os seguintes fundamentos adotados pelo acórdão recorrido:
+Nada obstante, a ausência de condições para arcar com as despesas processuais constitui presunção juris tanturn, admitindo, se for o caso, prova em contrário, nos termos do artigo 4º, § 19, da Lei nº 1.060/50 e artigo 99, § 2º, do CPC.
+Assim, em determinados casos específicos, a conjunção de elementos táticos pode desconstituir a afirmação daquele que requer a assistência judiciária gratuita.
+ ..
+3. No caso dos autos, analisando a documentação acostada pela agravante, infere-se, entretanto, que possui condições financeiras de arcar com as despesas do processo sem prejuízo do seu sustento próprio, auferindo renda líquida mensal no valor de R$ 8.282,93 (oito mil duzentos e oitenta e dois reais e noventa e três centavos - fl.
+50-1)PR).
+Ainda que a agravante traga informações sobre o seu custo de vida mensal (alimentação, vestuário lazer, transporte, etc.), os elementos presentes nos autos demonstram que suas alegações não subsistem, não havendo como presumir que a parte não possui recursos para arcar com as custas do processo (fl. 333/334).
+Nesse sentido: "A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ" (AgInt no AREsp n. 1.395.383/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 8/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
