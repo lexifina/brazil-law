@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL POR ESCOLARIDADE. AUSÊNCIA DE DECLARAÇÃO DA MÁ-FÉ DA PARTE AUTORA NO RECEBIMENTO DO BENEFÍCIO. IMPOSSIBILIDADE DE DEVOLUÇÃO DOS VALORES JÁ RECEBIDOS. OFENSA AO ART. 535 DO CPC/1973 CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL DA SERVIDORA PARCIALMENTE PROVIDO.
+1. Trata-se de Agravo Interno interposto por AGLAÉ DE CASTRO LIMA LELIS, contra decisão proferida às fls. 689/694, assim ementada:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL POR ESCOLARIDADE. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS LEGAIS. REVISÃO DO ATO DE CONCESSÃO. DECADÊNCIA NÃO CONFIGURADA. MÁ-FÉ DA SERVIDORA. SÚMULA 7/STJ. RECURSO ESPECIAL DA SERVIDORA A QUE SE NEGA SEGUIMENTO.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Reafirma-se a ocorrência de ofensa ao art. 1.022 do Código Fux. Argumenta-se que houve a decadência para a anulação da progressão concedida há mais de 5 anos, não tendo sido comprovada a má-fé da parte agravante a fim de afastar a ocorrência da decadência e não sendo suspenso o prazo em virtude da abertura do processo administrativo.
+4. Afirma-se, ainda, a necessidade de aplicação do entendimento firmado no REsp. 1.244.182/PB, segundo o qual não é possível a restituição de valores recebidos de boa-fé pelo administrado.
+5. Não houve impugnação.
+6. É o relatório.
+7. Em face das razões apresentadas, reconsidero as decisões impugnadas, passando à nova análise do Recurso Especial.
+8. O Apelo Nobre foi interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal objetivando a reforma do acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+ADMINISTRATIVO - REEXAME NECESSÁRIO/APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - INQUÉRITO MINISTERIAL - SUSPENSÃO DO PROCESSO - DESCABIMENTO - OBRIGATORIEDADE DA INTERVENÇÃO MINISTERIAL - REJEIÇÃO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA-SERVIDORA PÚBLICA MUNICIPAL-PROFESSORA - PROGRESSÃO POR ESCOLARIDADE - REQUISITOS - INOBSERVÂNCIA - SENTENÇA REFORMADA - PREJUDICADO O RECURSO VOLUNTÁRIO (fls. 323).
+9. Sustentou-se violação dos arts. 515 e 535 do CPC/1973, 54 da Lei 9.784/1999 e 207 do CCB, ao argumento de que ocorreu a consumação do prazo decadencial para a revisão do ato que concedeu a gratificação por conclusão de curso de pós-graduação. Argumentou-se, ainda, a impossibilidade de devolução dos valores já recebidos de boa-fé a título de progressão por escolaridade, pontuando que a justiça mineira não declarou a ma-fé da parte autora no recebimento do benefício (fls. 430/433).
+10. Da análise dos autos, verifica-se que houve omissão de questão relevante pela Corte de origem.
+11. Isto porque a sentença proferida, ao julgar procedente a Ação Anulatória, determinou que o Município se abstivesse de anular as progressões concedidas e de proceder aos descontos salariais a título de reposição ao erário.
+12. Após a reforma da sentença pelo Tribunal de origem, verifica-se que não foram apreciadas pela Corte de origem as questões suscitadas nos Embargos de Declaração, em especial quanto ao argumento de ausência de má-fé da parte autora no recebimento da progressão por escolaridade, a fim de que seja reconhecida a boa-fé da servidora isentando-a da devolução das parcelas recebidas (fls. 371).
+13. Assim, tendo o acórdão recorrido permanecido omisso quanto ao ponto, resta caracterizada a violação do art. 535 do CPC/1973, devendo ser anulado do acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para que analise as questões suscitadas.
+14. Ante o exposto, reconsiderando as decisões de fls. 689/694 e 756/757, dá-se parcial provimento ao Recurso Especial interposto pela Servidora, a fim de anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal de origem para sanar os vícios acima expostos.
+15. Publique-se.
+16. Intimações necessárias.
