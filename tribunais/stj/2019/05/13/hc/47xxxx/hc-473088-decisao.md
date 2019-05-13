@@ -1,0 +1,29 @@
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. COMPENSAÇÃO INTEGRAL ENTRE A AGRAVANTE DA REINCIDÊNCIA E A ATENUANTE DA MENORIDADE. ORDEM CONCEDIDA.
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de THALES VINICIUS EUSTAQUIO DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n.º 0069491-51.2017.8.26.0050.
+Consta dos autos que o Paciente foi condenado, como incurso no art. 33, caput, da Lei n.º 11.343/2006, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, no regime inicial fechado, mais 583 (quinhentos e oitenta e três) dias-multa. Isso porque foi surpreendido na posse, para fins de tráfico, de "60,2 gramas de cocaína e 22,4 gramas de Cannabis sativa L, vulgarmente conhecida como maconha" (fl. 9).
+O recurso de apelação interposto pelo Sentenciado foi provido em parte para alterar a fração de aumento, na segunda fase da dosimetria, para 1/12 (um doze avos), em razão da concorrência entre a atenuante da menoridade com a agravante da reincidência específica. Diante disso, a pena reclusiva foi redimensionada para 5 (cinco) anos e 5 (cinco) meses, e 541 (quinhentos e quarenta e um) dias-multa (fls. 18-32).
+Daí o presente writ. A Defensoria Pública sustenta que o Paciente sofre constrangimento ilegal resultante da exasperação da pena na segunda fase da dosimetria, uma vez que a menoridade e a reincidência são igualmente preponderantes.
+Requer, assim, a concessão da ordem para compensar integralmente a circunstância atenuante da menoridade com a agravante da reincidência.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (fls. 75-81).
+É o relatório.
+Decido.
+Na espécie, o Tribunal de Justiça do Estado de São Paulo, no que aqui interessa, explicitou a seguinte motivação (fls. 30-31; sem grifos no original):
+"A pena-base foi fixada no mínimo legal (cinco anos de reclusão e quinhentos dias-multa). Na segunda fase do cálculo, houve acréscimo de um sexto, chegando-se a cinco anos e dez meses de reclusão e pagamento de quinhentos e oitenta e três dias-multa. Todavia, o recorrente era menor de vinte e um anos à época do evento. E o Superior Tribunal de Justiça firmou entendimento de que a possível a compensação da menoridade penal relativa com a reincidência. Confira-se:
+ ..
+Por isso, nessa etapa da dosimetria, embora não seja possível a compensação integral da atenuante com a reincidência (que é específica), opta-se pela elevação de apenas um doze avos, totalizando cinco anos e cinco meses de reclusão e pagamento de quinhentos e quarenta e um dias-multa."
+O pleito de compensação integral da atenuante da menoridade com a agravante da reincidência específica procede.
+O Superior Tribunal de Justiça pacificou o entendimento da inexistência de preponderância entre aquelas circunstâncias nos termos do art. 67 do Código Penal e, também, o de que a reincidência específica não impede a total compensação.
+Nesse sentido, destaco o seguinte julgado:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE COMPENSAÇÃO INTEGRAL ENTRE A MENORIDADE E A REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. PENA REDUZIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- É cediço que, interpretando o art. 67 do Código Penal, o Superior Tribunal de Justiça entende que a atenuante da menoridade e a agravante da reincidência são igualmente preponderantes, razão pela qual devem ser compensadas quando da aplicação da reprimenda.
+- A Terceira Seção desta Corte, no julgamento do HC n. 365.963/SP, ocorrido em 11/10/2017, firmou a tese de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do acusado que ostente outra condenação pelo mesmo delito. Tal entendimento também se aplica quando o caso envolver a menoridade e reincidência específica, pois, onde se têm os mesmo fatos, deve ser aplicado o mesmo direito.
+- Na hipótese em análise, reconhecida a menoridade, de rigor a sua compensação integral com a reincidência, mesmo específica, pois o caso não apontou nenhuma peculiaridade à agravante do art. 61, I, do CP, como a multirreincidência, por exemplo, que implicasse a necessidade de uma maior resposta penal. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida ex officio, para reduzir as penas do paciente para 5 anos de reclusão e 500 dias-multa, mantidos os demais termos da condenação." (HC 390.765/RJ, QUINTA TURMA, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 24/11/2017; sem grifos no original.)
+Cito, ainda, as seguintes decisões monocráticas: HC n.º 496.238, Rel. Ministro NEFI CORDEIRO, DJe 03/05/2019; AREsp n.º 1.374.791, Rel. Ministro JOEL ILAN PACIORNIK, DJe 26/04/2019; e HC n.º 427.679, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 07/02/2018.
+Passo à dosimetria da pena. A pena-base foi fixada no mínimo legal, ou seja, 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa. Compensadas integralmente, nos termos da fundamentação supra, a atenuante da menoridade e a agravante da reincidência e ausentes outras circunstâncias, não há exasperação na segunda fase da dosimetria. Na terceira fase, não foi reconhecida, pelas instâncias ordinárias, nem causa de diminuição, nem sequer de aumento.
+Torno definitiva, portanto, a pena reclusiva de 5 (cinco) anos e o pagamento de 500 (quinhentos) dias-multa, sem alteração do regime fechado para o cumprimento inicial da reprimenda diante da reincidência.
+Ante o exposto, CONCEDO A ORDEM de habeas corpus para redimensionar a pena do Paciente, nos termos acima consignados, tornando-a definitiva em 5 (cinco) anos de reclusão, e o pagamento de 500 dias-multa, no mínimo legal, mantido o regime prisional inicialmente fechado.
+Publique-se. Intimem-se.
