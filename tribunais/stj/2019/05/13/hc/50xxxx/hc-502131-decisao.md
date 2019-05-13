@@ -1,0 +1,16 @@
+DECISÃO
+MARCELO VICTOR ZELLNER alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0009594-09.2014.8.26.0047).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Busca-se, por meio deste writ, seja fixado o regime inicial semiaberto de cumprimento de pena.
+Não houve pedido de liminar e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração, com a concessão de habeas corpus, de ofício, para estabelecer ao acusado o regime inicial intermediário.
+Decido.
+O Tribunal de origem assim fundamentou a imposição do regime inicial fechado de cumprimento de pena (fl. 14):
+No que se refere ao regime inicial de cumprimento da pena, é de ser observado o quanto previsto no artigo 2º, § 1º, da Lei nº 8.072/90, o qual dispõe que os crimes hediondos e os assemelhados a tal, como o tráfico de entorpecentes, terão a pena cumprida em regime inicial fechado.
+Ressalte-se que a Constituição Federal, em seu artigo 5º, inciso XLIII, determina um tratamento mais rigoroso a determinados delitos, dentre os quais os considerados hediondos e o de tráfico ilícito de entorpecentes.
+Coube, pois, ao legislador ordinário, dentro das diretrizes fixadas pela Constituição Federal, estabelecer que, nestes casos, o regime inicial de cumprimento da reprimenda deveria, obrigatoriamente, ser o fechado.
+Pelo trecho anteriormente transcrito, verifico que a Corte de origem justificou a imposição do modo inicialmente mais gravoso com base, tão somente, na gravidade abstrata do delito cometido e no art. 2º, § 1º, da Lei n. 8.072/1990 - cuja inconstitucionalidade, aliás, já foi declarada pelo Plenário do Supremo Tribunal Federal há mais de 6 anos anos (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012) -, sem, no entanto, apontar elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de fixação do modo mais gravoso.
+Impõe o registro de que tal postura do órgão judicante de origem, de descumprimento deliberado de decisão do Pleno do STF, em nada contribui para a higidez do sistema de justiça criminal e traduz menosprezo à jurisdição da Suprema Corte do país, a quem compete, por definição da Lei Maior, a função de, em última análise, dar interpretação às normas constitucionais.
+Assim, uma vez que o paciente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, foi condenado a reprimenda superior a 4 e inferior a 8 anos de reclusão e foi apreendido com quantidade de drogas não tão elevada (5,37 g de maconha, 5,57 g de crack e 39,32 g de cocaína - fl. 28), considero que o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 2º, "b", do Código Penal, com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, para fixar ao paciente o regime inicial semiaberto de cumprimento de pena, nos autos da condenação objeto da Apelação Criminal n. 0009594-09.2014.8.26.0047.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
