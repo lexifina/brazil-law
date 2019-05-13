@@ -1,0 +1,36 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. DÉBITO FISCAL. IPTU. ALEGADA VIOLAÇÃO DOS ARTS. 373, I, E, 464, § 1º, III, AMBOS DO CPC/2015. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem trata-se de ação visando a anulação de débito fiscal relativo à IPTU. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi mantida.
+II - Sobre a alegada violação dos arts. 373, I, e, 464, § 1º, III, ambos do CPC/2015, o recurso não comporta seguimento.
+III - Verifica-se que a irresignação do recorrente - acerca da imprescindibilidade da produção da prova pericial - vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, assim decidiu: " De fato, ante a necessidade de conferência da autenticidade dos recibos de pagamento trazidos pela autora, fazia-se mister a juntada dos originais para que o expert do juízo pudesse proceder ao exame cuidadoso das provas. Entretanto, instada a cumprir o requisito, quedou-se a autora inerte, restando prejudicada a prova pericial. Desse modo, não restou outra alternativa ao sentenciante que a improcedência do pedido, pois impossível aferir a autenticidade dos recibos e incabível supor que os pagamentos tenham mesmo sido efetuados, especialmente ante a presunção de validade e legitimidade dos atos administrativos. Frise-se que o município juntou ofício enviado ao banco intermediário do pagamento, bem como manifestação do mesmo, dando conta que as "as autenticações estão fora dos padrões utilizados por esta Instituição Bancária" (fls. 48), pelo que se conclui que podem muito bem ser falsificadas, dúvida que seria prontamente sanada pela realização da perícia determinada pelo juiz, a qual não logrou êxito por culpa exclusiva da apelante ao não trazer as vias originais, ônus que lhe cabia face ao que determina o art. 333, inc. I, do CPC. (fl. 288)".
+IV - Dessa forma, para rever tal posicionamento e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO RETIDO E APELAÇÃO - Pretensão de reforma da sentença que extinguiu a ação ante a não comprovação, pelo autor, de fato constitutivo do seu direito - Descabimento - Hipótese em que havia fundado receio de falsificação dos recibos de pagamento de IPTU, constatando a instituição bancária intermediária do pagamento que a autenticação nos carnês não correspondia à utilizada pelo banco - Determinação de perícia grafotécnica - Não-apresentação das vias originais, ônus que cabia à autora - Pretensão de realização de perícia contábil - Descabimento, em razão da suficiência da perícia anteriormente determinada - Precedentes - Recurso desprovido.
+No julgamento encimado, o Tribunal de origem decidiu que o recorrente, não obstante intimado para realizar a juntada das vias originais dos documentos, não se desincumbiu de seu ônus de apresentá-los para conferência da autenticidade dos recibos de pagamento objeto da perícia grafotécnica.
+No recurso especial, o recorrente aponta a violação dos arts. 373, I, e, 464, § 1º, III, ambos do CPC/2015, aduzindo, em resumo, que o Tribunal de origem deveria ter reconhecido a imprescindibilidade da realização do exame pericial, que, no caso, não era impraticável.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base no art. 1.030, I, b, do CPC/2015.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Sobre a alegada violação dos arts. 373, I, e, 464, § 1º, III, ambos do CPC/2015, o recurso não comporta seguimento.
+Verifica-se que a irresignação do recorrente - acerca da imprescindibilidade da produção da prova pericial - vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, assim decidiu:
+De fato, ante a necessidade de conferência da autenticidade dos recibos de pagamento trazidos pela autora, fazia-se mister a juntada dos originais para que o expert do juízo pudesse proceder ao exame cuidadoso das provas.
+Entretanto, instada a cumprir o requisito, quedou-se a autora inerte, restando prejudicada a prova pericial. Desse modo, não restou outra alternativa ao sentenciante que a improcedência do pedido, pois impossível aferir a autenticidade dos recibos e incabível supor que os pagamentos tenham mesmo sido efetuados, especialmente ante a presunção de validade e legitimidade dos atos administrativos.
+Frise-se que o município juntou ofício enviado ao banco intermediário do pagamento, bem como manifestação do mesmo, dando conta que as "as autenticações estão fora dos padrões utilizados por esta Instituição Bancária" (fls. 48), pelo que se conclui que podem muito bem ser falsificadas, dúvida que seria prontamente sanada pela realização da perícia determinada pelo juiz, a qual não logrou êxito por culpa exclusiva da apelante ao não trazer as vias originais, ônus que lhe cabia face ao que determina o art. 333, inc. I, do CPC. (fl. 288)
+Dessa forma, para rever tal posicionamento e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
