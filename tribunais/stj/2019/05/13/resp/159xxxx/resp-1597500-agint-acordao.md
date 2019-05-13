@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INAPLICABILIDADE DA TR COMO FATOR DE CORREÇÃO MONETÁRIA NOS DÉBITOS JUDICIAIS DA FAZENDA NACIONAL. AGRAVO INTERNO DO ENTE PÚBLICO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte Uniformizadora e em consonância com a recente decisão proferida no julgamento do RE 870.947/SE, consoante a qual entende inaplicável a taxa referencial - TR na atualização dos débitos fazendários. Incidência da Súmula 83/STJ.
+2. Agravo Interno do Ente Público a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL contra a decisão que negou seguimento ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. INAPLICABILIDADE DA TR COMO FATOR DE CORREÇÃO MONETÁRIA. ERRO MATERIAL CONSTATADO. HONORÁRIOS DEVIDOS PELA FAZENDA PÚBLICA. RECURSO ESPECIAL DA FAZENDA A QUE SE NEGA SEGUIMENTO. RECURSO ESPECIAL DA EMPRESA A QUE SE DÁ PROVIMENTO EM PARTE (fls. 400).
+2. A parte agravante reitera as razões do Apelo Nobre, defendendo, em suma, que a jurisprudência dessa egrégia Corte entende legítima a incidência da TR como juros de mora (fls. 409).
+3. Postula, desse modo, a reconsideração da decisão agravada, ou a submissão do feito ao Colegiado competente.
+4. A parte agravada apresentou Impugnação (fls. 418/423). É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INAPLICABILIDADE DA TR COMO FATOR DE CORREÇÃO MONETÁRIA NOS DÉBITOS JUDICIAIS DA FAZENDA NACIONAL. AGRAVO INTERNO DO ENTE PÚBLICO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte Uniformizadora e em consonância com a recente decisão proferida no julgamento do RE 870.947/SE, consoante a qual entende inaplicável a taxa referencial - TR na atualização dos débitos fazendários. Incidência da Súmula 83/STJ.
+2. Agravo Interno do Ente Público a que se nega provimento.
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INAPLICABILIDADE DA TR COMO FATOR DE CORREÇÃO MONETÁRIA NOS DÉBITOS JUDICIAIS DA FAZENDA NACIONAL. AGRAVO INTERNO DO ENTE PÚBLICO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte Uniformizadora e em consonância com a recente decisão proferida no julgamento do RE 870.947/SE, consoante a qual entende inaplicável a taxa referencial - TR na atualização dos débitos fazendários. Incidência da Súmula 83/STJ.
+2. Agravo Interno do Ente Público a que se nega provimento.
+1. Em que pese à argumentação, a agravante não trouxe fundamentos hábeis a desconstituir o decisório agravado.
+2. Isso porque o entendimento fixado na instância ordinária e reafirmado na decisão agravada está alinhado à jurisprudência desta Corte Uniformizadora e em consonância com a recente decisão proferida no julgamento do RE 870.947/SE, consoante a qual é inaplicável a taxa referencial - TR na atualização dos débitos fazendários. Confiram-se as ementas a seguir colacionadas:
+ADMINISTRATIVO E PROCESSUAL CIVIL. ART. 1º-F DA LEI 9.494/1997. APLICABILIDADE. RE 870947/SE/STF. AGRAVO INTERNO DESPROVIDO.
+1. No tocante ao art. 1º F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, o STF em recente decisão proferida no julgamento do RE 870947/SE, afastou o uso da taxa referencial (TR) como índice de correção monetária dos débitos judiciais da Fazenda Pública. Na ocasião, foram fixadas as seguintes teses, verbis:
+2. Quanto aos juros de mora: O artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional aos incidir sobre débitos oriundos de relação jurídico-tributária, aos quais deve, ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CFRB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nessa extensão, o disposto no art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+3. Quanto à atualização monetária: O art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, na parte que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CFRB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo idônea a promover os fins a que se destina.
+4. Agravo interno desprovido (AgInt nos EDcl no REsp. 1.192.100/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 13.9.2018).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA. DÉBITO NÃO TRIBUTÁRIO. ARTIGO 1º-F DA LEI 9.494/1997, COM REDAÇÃO DADA PELO ARTIGO 5º DA LEI 11.960/2009. JUROS DE MORA. APLICAÇÃO DO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA. CORREÇÃO MONETÁRIA. IPCA-E. RESP 1.495.144/RS E RE 870.947/SE.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+2. No julgamento do RE 870.947/SE, com repercussão geral, o STF afastou o uso da taxa referencial (TR) como índice de correção monetária dos débitos judiciais da Fazenda Pública, mas salientou a possibilidade de utilização do índice de remuneração de caderneta de poupança para fixação dos juros de mora.
+3. Diante desse quadro a Primeira Seção desta Corte, no julgamento do REsp. 1.495.144/RS, representativo da controvérsia, firmou o entendimento de que as condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+4. Agravo regimental não provido (AgRg no REsp. 1.289.082/RS, Rel. Min. BENEDITO GONÇALVES, DJe 10.8.2018).
+3. Assim, estando o acórdão recorrido em conformidade com a jurisprudência desta Corte, modificação não há que ser feita no aresto impugnado. Súmula 83/STJ.
+4. Ante o exposto, nega-se provimento ao Agravo Interno da FAZENDA NACIONAL. É como voto.
